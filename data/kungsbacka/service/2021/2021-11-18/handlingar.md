@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319210531id_/https://www.kungsbacka.
 sha256: d71029dfc98e815d52281452d02316e9f2f8efb95c72572c72201e04e5390f51
 bytes: 3618673
 sidor: 37
-hamtad: 2026-10-28T09:14:23+00:00
-konverterad: 2026-10-28T09:14:51+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:45:57+00:00
+konverterad: 2026-11-17T03:46:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok]
@@ -365,9 +365,7 @@ nämnden beslutar och fastställer intern kontrollplan och intern kontrollrappor
 
 <!-- sida 12 -->
 
-Nämnden för Service
-
-Kungsbacka kommun
+Nämnden för Service Kungsbacka kommun
 Intern kontrollplan 2022
 
 5 Riskanalys 2022
@@ -384,17 +382,17 @@ I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns m
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
 
-[ >
+\>
 
-N
-
-Sannolikhet
+[SA]
 
 1
 
 Konsekvens
 
 Önrög Medel Totalt: 12
+
+Sannolikhet
 
 <!-- sida 13 -->
 
@@ -524,7 +522,7 @@ genomförs.
 5.2 Risker - Ej till plan
 o . . Anledning till att
 Kategorier Risker Sannolikhet Konsekvens risk ej tas till plan
-Ekonomi "=? Kontanthantering Det förekommer
+Ekonomi '=F Kontanthantering Det förekommer
 inte längre någon
 kontanthantering
 på förvaltningen.
@@ -1303,7 +1301,7 @@ myndigheten.
 Skäl för beslutet
 
 De efterfrågade loggarna tillhör kommunstyrelsen. Kommunstyrelsen avslog den 11 december 2020
-begäran från MI om utlämnande av loggar från kommunstyrelsens sammanträde den 24
+begäran från MN om utlämnande av loggar från kommunstyrelsens sammanträde den 24
 
 november 2020, bilaga 1. Den nu aktuella begäran avser samma loggar.
 

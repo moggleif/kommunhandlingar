@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240517101330id_/https://kungsbacka.se/d
 sha256: 91c87060d3d4596d7d6660349b3c27c670793b076b39372d8de09a5edc18a788
 bytes: 18202551
 sidor: 288
-hamtad: 2026-10-26T09:40:39+00:00
-konverterad: 2026-10-26T09:45:00+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:49:00+00:00
+konverterad: 2026-11-17T02:52:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok]
@@ -316,7 +316,7 @@ e uppnått målet med minst 10 24 egengenererad solenergi
 
 e utökat vårt bestånd av solcellsanläggningar till cirka 17 000 kvadratmeter
 
-« genomfört åtgärder för klimatanpassning på ett tiotal förskolor, bland annat genom att förbättra
+e genomfört åtgärder för klimatanpassning på ett tiotal förskolor, bland annat genom att förbättra
 solskyddet genom plantering av träd som är högre än fyra meter samt montering av parasoller och
 pergolas. Åtgärderna planeras och genomförs i samverkan med både verksamheter och Teknik.
 
@@ -8172,17 +8172,14 @@ Sammanfattning
 
 Beslutsdatum | Ärende/ärendegrupp enligt Beslut, insats samt ev. Beslutsfattare
 delegationslistan omfattning
-2.3.2 os mal..s .
 2022-08-15 Tillsvidareanställning Carina Gustafsson
 LAS. AB §§ 3-5 Måltidsbiträde
 kollektivavtal,
 lönepolicy mm
-2.3.2 mos mal.s .
 2022-08-15 Tillsvidareanställning Marita Belstad
 LAS, AB §§ 3-5 Måltidsbiträde
 kollektivavtal,
 lönepolicy mm
-2.3.1 os oms
 2022-08-15 Tillsvidareanställning Karl Persson
 LAS, AB §§ 3-5 Verksamhetschef
 kollektivavtal,

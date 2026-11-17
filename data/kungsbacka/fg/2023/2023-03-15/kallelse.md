@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240329025905id_/https://kungsbacka.se/d
 sha256: 3381f0ce1eca133e2512a2bc72ed347199c9adfd0aea24084e727ed442642c62
 bytes: 4008109
 sidor: 120
-hamtad: 2026-10-26T08:37:43+00:00
-konverterad: 2026-10-26T08:38:10+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:10:52+00:00
+konverterad: 2026-11-17T02:11:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
@@ -1550,7 +1550,7 @@ kunde uppvisa till exempel förbättrad mental hälsa och självkänsla,
 I både tvärsnittsstudier och experimentell forskning kan man se samband mellan
 graden av fysisk aktivitet och frånvaron av symptom på depression
 
-I tvärsnittsstudier liksom i experimentella studier har forskare funnit positiva
+| tvärsnittsstudier liksom i experimentella studier har forskare funnit positiva
 
 samband mellan kondition eller konditionsträning och skolprestation. Det är viktigt
 3 att notera att i de studier där man tagit tid från läxläsning till fysisk aktivitet har

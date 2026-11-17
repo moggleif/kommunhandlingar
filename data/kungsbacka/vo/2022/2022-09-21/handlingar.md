@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240602171636id_/https://kungsbacka.se/d
 sha256: cfc0896d6a84a577cf19ca41b076e5bb574a09469216279b181a7ba0a94081e7
 bytes: 16876731
 sidor: 192
-hamtad: 2026-10-26T09:45:08+00:00
-konverterad: 2026-10-26T09:48:02+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:53:17+00:00
+konverterad: 2026-11-17T02:55:53+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok]
@@ -396,7 +396,6 @@ för mars månad beror på en bugg i systemet som visade 10090 följsamheten und
 Delegerade insatser VO
 
 195,9
-os a. Al
 
 20,6
 
@@ -4396,7 +4395,7 @@ Antal lägenheter på vård- och
 Beläggningsgrad vård- och
 [ex] omsorgsboende 9626 9520 924 974
 [N] Antal timmar hemtjänst 532 814 550 462 580 297 582 438 317 833
-[nN] Kö till vård- och omsorgsboende 48 66 29 31 22
+[Nn] Kö till vård- och omsorgsboende 48 66 29 31 22
 [Nn] Väntetid till vård- och omsorgsboende 109 61 43 31 30
 [nn] Personalkontinuitet i hemtjänsten 19 22 17 16
 
@@ -7780,7 +7779,6 @@ till exempel avvikelser och riskbedömningar.
 
 <!-- sida 161 -->
 
-| dj ” - /
 Sverigedemokraterna
 
 Initiativärende V o O Kungsbacka 220815
@@ -8311,9 +8309,7 @@ Biträdande förvaltningschef        Nämndsekreterare/utredare
 <!-- sida 176 -->
 
 Kungsbacka 20220406
-KUNGSBISORA Fasen ntN
 KOMMUNSTYRELSEN
-
 Motion gällande ändring av tilltal till våra äldre inom Vård & Omsorg, gu 13
 
 Kalla inte äldre inom Vård & Omsorg för brukare

@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220319215723id_/https://www.kungsbacka
 sha256: [57fdd09d17e441d03075f4bb6ac79e1bf28e13305df6c348a43ccc1f3590b3f8, c444519032c37b88740a99f95c07e8a6482350c37a4da30693659b7be0eedbf4]
 bytes: [4405186, 4564193]
 sidor: 267
-hamtad: 2026-10-28T09:18:22+00:00
-konverterad: 2026-10-28T09:19:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:49:06+00:00
+konverterad: 2026-11-17T03:50:02+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
@@ -58,47 +58,59 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-Ärende                Beteckning Förslag
+Ärende                 Beteckning Förslag
 
-6\.  Slutrapport FTGE      2021-01225 Nämnden för Förskola och Grundskola har tagit del
+6\. Slutrapport FTGE       2021-01225 Nämnden för Förskola och Grundskola har tagit del
 av informationen och antecknar informationen i
-Kl 16.40                        protokollet.
+Kl 16.40                         protokollet.
 
 Karolina Reinhold,
 utvecklingsledare
 
 Paus kl 17.00-17.20
 
-7\.  Antagande av          2021-01033 Nämnden för Förskola & Grundskola antar
-dokumenthanteringsplan för      Dokumenthanteringsplan för kommungemensamma
-kommungemensamma                stödprocesser, beslutad av Kommunstyrelsen 2021-
-stödprocesser                   08-24 § 202.
+7\. Antagande av           2021-01033 Nämnden för Förskola & Grundskola antar
+dokumenthanteringsplan för       Dokumenthanteringsplan för kommungemensamma
+kommungemensamma                 stödprocesser, beslutad av Kommunstyrelsen 2021-
+stödprocesser                    08-24 § 202.
 Dokumenthanteringsplan för kommungemensamma
-Kl 17.20                        stödprocesser, beslutad av Kommunstyrelsen 2018-
+Kl 17.20                         stödprocesser, beslutad av Kommunstyrelsen 2018-
 01-23 § 13, upphör därmed att gälla.
 Frida Byrsten, verksamhetschef
 
-8\.  Olycksfall och tillbud 2020-21 2021-01321 Nämnden Förskola och Grundskola tar del av
+8\. Olycksfall och tillbud 2020-21 2021-01321 Nämnden Förskola och Grundskola tar del av
+
 rapporteringen av olycksfall och tillbud under läsåret
-Kl 17.30                        2020/21 noterar rapporten till protokollet.
+Kl 17.30                         2020/21 noterar rapporten till protokollet.
 
 Helena Hellman, personalchef
 
-9\.  Göteborgsregionen, GR - 2021-01180 Förbundsstyrelsen inom Göteborgsregionens
-Interkommunal ersättning inom   rekommendationer om interkommunal ersättning
-förskola, pedagogisk omsorg,    och avstämningstidpunkter för förskola, pedagogisk
-förskoleklass, grundskola,      omsorg, förskoleklass, grundskola, fritidshem,
-fritidshem, grundsärskola och   grundsärskola och ISGR följs från och med 2022 01
-ISGR år 2022                    01. Avstämningstidpunkt den 15:e respektive månad
+9\. Göteborgsregionen, GR -
+Interkommunal ersättning inom
+förskola, pedagogisk omsorg,
+förskoleklass, grundskola,
+fritidshem, grundsärskola och
+ISGR år 2022
 
 Kl 17.40
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-10\. Grundbelopp 2022      2021-01153 Nämnden för Förskola & Grundskola beslutar att
+10\. Grundbelopp 2022
+
+Kl 17.50
+
+2021-01180 Förbundsstyrelsen inom Göteborgsregionens
+rekommendationer om interkommunal ersättning
+och avstämningstidpunkter för förskola, pedagogisk
+omsorg, förskoleklass, grundskola, fritidshem,
+grundsärskola och ISGR följs från och med 2022 01
+01\. Avstämningstidpunkt den 15:e respektive månad
+
+2021-01153 Nämnden för Förskola & Grundskola beslutar att
 anta grundbeloppen till den fristående verksamheten
-Kl 17.50                        enligt bifogade förslag.
+enligt bifogade förslag.
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
@@ -1958,12 +1970,18 @@ Page 44 (47)
 
 <!-- sida 60 -->
 
-Gy/Vux: Hur har förutsättningar Hur upplever eleverna att lärarna Hur kan vi förmå och stödja
-skapats för förste-lärare att kunna bidra skapar en tillgänglig lärmiljö på de pojkar som grupp så att de kan nå
-till utvecklingsarbete och vilka goda högskoleförberedande programmen? sin optimala kapacitet i skolan
-exempel i hur förstelärarna bedriver     och därmed öka sin
-skolutveckling genom kollegialt          måluppfyllelse?
+Gy/Vux: Hur har förutsättningar
+skapats för förste-lärare att kunna bidra
+till utvecklingsarbete och vilka goda
+exempel i hur förstelärarna bedriver
+skolutveckling genom kollegialt
 lärande finns?
+
+Hur upplever eleverna att lärarna Hur kan vi förmå och stödja
+skapar en tillgänglig lärmiljö på de pojkar som grupp så att de kan nå
+högskoleförberedande programmen? sin optimala kapacitet i skolan
+och därmed öka sin
+måluppfyllelse?
 
 Page 45 (47)
 
@@ -2413,37 +2431,65 @@ Forskningsfrågor                                 år      1-3        Gymnasiet
 
 Hur stödjer
 Hur kan arbetet mellan
-förstelärarorganisationen                                           Hur har filmandet och analysen
-elevhälsoteam och arbetslag Vilka synliga hot tar fokus från            Hur har den kollegiala
-skolans didaktiska                                                 av undervisningen påverkat
-utvecklas för att främja undervisningen, samt i vilken              diskussionen kring filmandet
-utvecklingsarbete genom                                                läraren (den egna och
-elevernas lärande och omfattning förekommer de?                        påverkat läraren?
-kollegialt lärande i                                                kollegans/kollegornas)?
+förstelärarorganisationen
+elevhälsoteam och arbetslag Vilka synliga hot tar fokus från
+skolans didaktiska
+utvecklas för att främja undervisningen, samt i vilken
+utvecklingsarbete genom
+elevernas lärande och omfattning förekommer de?
+kollegialt lärande i
 välmående?
 ämnesdidaktiska grupper?
-Hur arbetar lärarna i                      Hur ser lärarna på sambandet
-Svenska/Svenska som                          mellan pedagogisk tillgänglig
-Hur har elevhälsan och lärarna                  Hur upplever eleverna sina                    Vad är goda relationer? Hur
-andraspråk, Matematik och                     lärmiljö och elevernas lärande?
-samt elever arbetar med det                    förutsättningar för lärande                   skapas goda relationer? Hur
-Engelska på Osbecksgymnasiet,                  Vilka framgångsrika strategier i
-hållbara hälsosamma lärandet                   utifrån fysisk, pedagogisk och                 skapas mellanrummet som
-Laholm med likvärdig,                       undervisningen används för att
-över tid?                                    social lärmiljö?                           gynnar elevernas lärande?
-individuell skriftlig återkoppling i           leda och stimulera alla elevers
-lärplattformen V-klass?                            lärande?
+Hur arbetar lärarna i
+Svenska/Svenska som
+Hur har elevhälsan och lärarna                  Hur upplever eleverna sina
+andraspråk, Matematik och
+samt elever arbetar med det                    förutsättningar för lärande
+Engelska på Osbecksgymnasiet,
+hållbara hälsosamma lärandet                   utifrån fysisk, pedagogisk och
+Laholm med likvärdig,
+över tid?                                   social lärmiljö?
+individuell skriftlig återkoppling i
+lärplattformen V-klass?
 Hur har förutsättningar skapats
-Hur upplever eleverna att Hur kan vi förmå och stödja
+Hur upplever eleverna att
 för förstelärare att kunna bidra
-lärarna skapar en tillgänglig pojkar som grupp så att de kan
+lärarna skapar en tillgänglig
 till utvecklingsarbete och vilka
-lärmiljö på de     nå sin optimala kapacitet i
+lärmiljö på de
 goda exempel i hur förstelärarna
-högskoleförberedande  skolan och därmed öka sin
+högskoleförberedande
 bedriver skolutveckling genom
-programmen?            måluppfyllelse?
+programmen?
 kollegialt lärande finns?
+
+Hur har filmandet och analysen
+av undervisningen påverkat
+läraren (den egna och
+kollegans/kollegornas)?
+
+Hur ser lärarna på sambandet
+mellan pedagogisk tillgänglig
+lärmiljö och elevernas lärande?
+Vilka framgångsrika strategier i
+undervisningen används för att
+leda och stimulera alla elevers
+lärande?
+
+Hur kan vi förmå och stödja
+pojkar som grupp så att de kan
+nå sin optimala kapacitet i
+skolan och därmed öka sin
+måluppfyllelse?
+
+Hur har den kollegiala
+diskussionen kring filmandet
+påverkat läraren?
+
+Vad är goda relationer? Hur
+skapas goda relationer? Hur
+skapas mellanrummet som
+gynnar elevernas lärande?
 
 <!-- sida 76 -->
 
@@ -2571,23 +2617,42 @@ har på olika sätt fått spridning i varje kommun.
 
 Lärdomar               följeforskning
 
-År 1: Hur  gestaltar  sig  samtalen   mellan          År  2: Vilken  syn  på barnet/eleven
-deltagarna   i FGTE   kursen?:                        framkommer      i samtalen?
+År  1: Hur  gestaltar  sig samtalen   mellan
+deltagarna    i FGTE  kursen?:
 
-Deltagarens   lärande,  relaterat till den egna       Lärarna   i studien har en traditionell bild av
-praktiken, har  fått stå tillbaka då man i            eleverna   i termer av hur de  pratar om  dem
+Deltagarens   lärande,  relaterat till den egna
+praktiken,  har fått stå tillbaka då man  i
 
-gruppen   arbetar med   utvecklingsproblem            och  hur de  beter sig i
+gruppen   arbetar  med  utvecklingsproblem
 
-som  inte alltid är relevanta för individens          undervisningssammanhang.
-undervisningspraktik.   Sammanfattningsvis            Utifrån deras  respektive  förväntningar  på
+som   inte alltid är relevanta för individens
+undervisningspraktik.   Sammanfattningsvis
 
-visar detta på  en motsättning  mellan                varandras   roller, framgår det att lärare och
+visar detta  på en motsättning   mellan
 
-gruppens   och  individens tillägnande  av            elever  i vissa fall har rent motstridiga idéer om
-forskningsmetodik    relaterat till respektive        hur  de bästa  förutsättningarna  för ett ökat
+gruppens   och  individens  tillägnande av
+forskningsmetodik    relaterat till respektive
 
-fokusområde.                                          lärande  ser ut.
+fokusområde.
+
+År 2: Vilken  syn  på  barnet/eleven
+
+framkommer      i samtalen?
+
+Lärarna  i studien har en  traditionell bild av
+
+eleverna  i termer av  hur de pratar om   dem
+och  hur de beter  sig i
+
+undervisningssammanhang.
+
+Utifrån deras  respektive  förväntningar  på
+varandras   roller, framgår det att lärare och
+
+elever i vissa fall har rent motstridiga idéer om
+
+hur de  bästa förutsättningarna   för ett ökat
+lärande  ser ut.
 
 <!-- sida 82 -->
 
@@ -4424,7 +4489,6 @@ Matsal/fikarum 8—
 HI Olycksfall Tillbud Riskobservation
 Aktivitet
 Diagrammet visar de vanligast förekommande (upp till 10). Antal händelser där det inte är angivet: 172
-Undervisning 152 |
 Lek och spel 47 -
 Aktivitet på rast 45 a
 Övrig 25
@@ -4631,7 +4695,7 @@ Axl 2-0 OO
 Armbåge 2-1,
 Rygg (ej nacke) 1 1
 Hand, harded 1-000,nk,kn/ENr 6
-HiIsnracke 1-ÅZÅqÅrNNel
+HiIsnrnacke 1-0 H00j1ll]
 Arm 1-0
 
 Anmälan
@@ -4657,10 +4721,7 @@ Utbildningslokal
 
 Allmän plats
 Kök/storkök
-
 Entré
-
-SA NNÖWBN
 
 Aktivitet
 
@@ -4716,6 +4777,8 @@ Frånvaro
 
 IA IA för Kommuner, tillhandahålls av Afa Försäkring 6(8)
 
+SA NNÖWBN
+
 <!-- sida 193 -->
 
 Faktisk sjukfrånvaro
@@ -4770,7 +4833,7 @@ Personlig kontakt 1-1
 
 Objekt
 Antal händelser där det inte är angivet: 1
-Hushållsmaskin/köksuttustring 2--NO€<((O[U[[< [TT
+Hushållsmaskin/köksuttustring 2--NO”€<((!A[I[l[[l[lN»l[
 Elev/barn 2
 
 Annan person 1 Fn

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250803102025id_/https://kungsbacka.se/d
 sha256: 48defe1b5fec9abd0e086bc83c2fd54b8abe4d9b42a25ffc3329138c746dd76d
 bytes: 8607694
 sidor: 68
-hamtad: 2026-10-20T08:22:41+00:00
-konverterad: 2026-10-20T08:23:36+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T00:51:14+00:00
+konverterad: 2026-11-17T00:52:08+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok]
@@ -2154,12 +2154,12 @@ Plan Plan | Plan | Plan | Plan
 
 Beskrivning Kategorisera | 3025 | 2026 | 2027 | 2028 | 2029
 
-O
-\=
-
 Renovering, Toråsskolan, Hus Röd
 
-Renovering, Toråsskolan, Hus Blå O xX
+00
+be
+
+Renovering, Toråsskolan, Hus Blå xX
 
 Alekärret. Ersättning av
 stallbyggnad samt gödselplatta
@@ -2174,8 +2174,6 @@ Renovering, Gamla brandstationen
 Renovering Åsaskolan, hus A och
 B
 
-212120 2120 2 21218
-
 0 0 190 0 10 0
 A
 
@@ -2183,41 +2181,40 @@ Renovering, Ögärdets förskola
 
 Kungsbacka kommun Sida 7 av 7
 
+212120 2120 2 21218
+
 <!-- sida 43 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2025–2029
+
 Datum            Namn på funktionsbehovet (Max 30 tecken)
 2024-09-23       Produktionskök centrala-norra Kungsbacka anpassat som ett "kriskök"
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Christian Lindbäck       (e-post borttagen) 0300 83 78 89
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Christian Lindbäck       (e-post borttagen) 0300 83 78 89
+
 VERKSAMHETSBESKRIVNING-  SERVICEOMRÅDE  MÅLTIDER
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,2 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 16 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 14
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 7st. är förlagda på äldreboenden.
+
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför
 en viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
+
 I köken finns lokalytor så kallade funktionsytor för varumottagning, förvaring, beredning, tillagning, nedkylning, packning,
 vagnuppställning, diskning, rengöring, tvätt och servering som skall var dimensionerade till respektive nivå för storköket.
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
@@ -2228,6 +2225,15 @@ antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik 
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 44 -->
 
@@ -2428,45 +2434,58 @@ KUNGSBACKA KOMMUN
 
 <!-- sida 49 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2025–2029
+
 Datum            Namn på funktionsbehovet (Max 30 tecken)
 2023-08-24       Kommungemensam Distributionscentral - Terminal
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Se/Inköp, SE/Måltider    (e-post borttagen) 5016
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Joakim Carlsson, Christian Lindbäck (e-post borttagen) 7889
+
 VERKSAMHETSBESKRIVNING   AV NULÄGET
 Distributionscentral och transporter är upphandlat med extern leverantör.
+
 Cirkulära möbelflöden är ej ännu omhändertaget, men behovet finns.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 Våra globala, nationella och kommunala mål.
+
 Avfall från kommunens verksamheter ska minska med 40% per heltidsanställd
 Matsvinnet från kommunens verksamheter ska minska till maximalt 30 gram per serverat huvudmål
+
 Livslängden på bärbar elektronik ska öka
 Mängden engångsartiklar i kommunens verksamheter ska minska med 50%
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 Ökad kontroll över kommunens kostnader, kan styra behovet av resurser bättre.
+
 Ökad självförsörjandegrad, ej lika sårbara, kris och beredskap.
 Möjlighet att komma in tidigare i ”förädlingskedjan”, möjlighet att upphandla direkt av producent?
+
 Vi kan upphandla ex-works i stället för ”frakt inkluderat” – pressade priser och ökad kontroll.
 Ökad kontroll över kommunens miljöbelastning ifrån transporter.
+
 Minskade kostnader och miljöbelastning med högre grad av återanvändning av möbler och inventarier
 Möjlighet att anställa personal som ”står långt ifrån arbetslivet” i hög utsträckning
+
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION? SE EXEMPEL
 Högre kostnad på sikt för kommunens interna transporter, högre miljöbelastning för kommunen
+
 Högre sårbarhet för kommunen vid kris.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 50 -->
 
@@ -2535,39 +2554,36 @@ KUNGSBACKA KOMMUN
 
 <!-- sida 52 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04 www.kungsbacka.se
-32-50-2102
-,0.2
-,0006BUK
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalbehov inför Lokalplan 2025–2029
+
 Datum            Namn på funktionsbehovet (Max 30 tecken)
 2024-09-23       Utrustningsförråd för Måltider
+
 Initiativtagare
 Namn och enhet           E-postadress               Arbetstelefon
 Christian Lindbäck       (e-post borttagen) 0300 83 78 89
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress               Arbetstelefon
 Christian Lindbäck       (e-post borttagen) 0300 83 78 89
+
 VERKSAMHETSBESKRIVNING-  SERVICEOMRÅDE  MÅLTIDER
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,2 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 16 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 14
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 7st. är förlagda på äldreboenden.
+
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför
 en viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
+
 I köken finns lokalytor så kallade funktionsytor för varumottagning, förvaring, beredning, tillagning, nedkylning, packning,
 vagnuppställning, diskning, rengöring, tvätt och servering som skall var dimensionerade till respektive nivå för storköket.
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
@@ -2578,6 +2594,15 @@ antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik 
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04 www.kungsbacka.se
+
+KUB6000, 2.0, 2012-05-23
 
 <!-- sida 53 -->
 
@@ -3052,7 +3077,7 @@ Datum
 
 Diarienummer
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 \$ 104 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-10-19 § 104 under
 perioden 2023-09-01 till 2023-11-10,
 
 Sammanfattning
@@ -3060,19 +3085,19 @@ Sammanfattning
 Ärende/ärendegrupp Beslut, insats samt Beslutsfattare Beslutsdatum | Dnr
 enligt delegationslistan |ev. omfattning
 2.3.2 Tillsvidareanställning |Sandra Ohlsson 2023-09-01
-LAS, AB \$\$ 3-5 HR-generalist HR &
+LAS, AB §§ 3-5 HR-generalist HR &
 kollektivavtal, förvaltning Kommunikationschef
 lönepolicy mm
 2.3.2 Tillsvidareanställning |Kenny Rubinsson 2023-09-01
-LAS, AB \$\$ 3-5 Enhetschef VC, DC
+LAS, AB §§ 3-5 Enhetschef VC, DC
 kollektivavtal,
 lönepolicy mm
 2.3.2 Vikariat Sandra Ohlsson 2023-09-01
-LAS, AB \$\$ 3-5 HR-generalist HR &
+LAS, AB §§ 3-5 HR-generalist HR &
 kollektivavtal, förvaltning Kommunikationschef
 lönepolicy mm
 2.3.2 Tillsvidareanställning |Kenny Rubinsson 2023-09-01
-LAS, AB \$\$ 3-5 Biträdande VC, DC
+LAS, AB §§ 3-5 Biträdande VC, DC
 kollektivavtal, verksamhetschef
 lönepolicy mm
 1 (3)

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240520162325id_/https://kungsbacka.se/d
 sha256: 1e11473efc33689c8a8b367ab224e96df3a5c8176ed66bbcef76da74e4d139fb
 bytes: 8230715
 sidor: 85
-hamtad: 2026-10-26T10:06:40+00:00
-konverterad: 2026-10-26T10:07:07+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:07:18+00:00
+konverterad: 2026-11-17T03:07:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1822,7 +1822,6 @@ Beslutsexpediering
 AO, KSF;GJ, SE;IBB
 
 Justerare « J Expedierat/bestyrkt
-HE SATA
 
 <!-- sida 56 -->
 
@@ -1957,8 +1956,6 @@ Paragrafen fortsätter
 
 Justerare
 
-Pi
-
 Expedierat/bestyrkt
 
 Va
@@ -1990,8 +1987,6 @@ Justerare Expedierat/bestyrkt
 fr VE
 
 <!-- sida 60 -->
-
-uniForm KUB101 v 1,0, 2005-11-25
 
 TJÄNSTESKRIVELSE
 
@@ -2028,21 +2023,22 @@ Uif Lindström Leif Elmered
 Systemförvaltare Verksamhetschef
 
 Kungsbacka kommun
-Ulf Lindström
+Ulf Lindström 434 81 Kungsbacka
 
 Direkt 0300-83 52 30
 
 ulf.lindstrom(Qkungsbacka.se
 
-434 81 Kungsbacka
-
 Besöksadress
 Borgmästaregatan 5
+
 Telefon vx 0300-83 40 00
 Fax 0300-154 63
 
 aldreomsorg(2kungsbacka.se
 www.kungsbacka.se
+
+uniForm KUB101 v 1,0, 2005-11-25
 
 <!-- sida 61 -->
 
@@ -2101,8 +2097,6 @@ Ke
 
 2 Utdragsbestyrkande
 
-KR
-7
 N
 
 <!-- sida 62 -->

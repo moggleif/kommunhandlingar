@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220319233301id_/https://www.kungsbacka
 sha256: [c5500468de0154bf2930057fbd0db30bfd07dc242d2fc72d0e74aa4593db7435, 514cd2a726cb88f28d8670f0b05aaa55a257d1ec8d3945147fa09383e45e2241]
 bytes: [605527, 4641969]
 sidor: 70
-hamtad: 2026-10-27T08:53:00+00:00
-konverterad: 2026-10-27T08:53:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:25:48+00:00
+konverterad: 2026-11-17T03:26:27+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -2391,9 +2391,6 @@ Ej beslutande ersättare
 
 Tjänstepersoner
 
-So MI
-CK
-
 SAMMANTRÄDESPROTOKOLL
 Datum
 2022-02-24
@@ -2487,16 +2484,14 @@ Karin Bogelöv, praktikant, t.o.m. § 58
 
 Stadshuset, manuell justering, 2022-02-24
 
-| | v |
 YT AA, AM; Ä v
 Hua EFUA d löfrmou G
 Sekreterare ( Muj esira M ssikovie
-rat Å a
+
 NIRIC JÄSA
 Ordförande Thure Safidén (M)
 
 Å ha
-KV 9r M Lr (MVA K NOA AN
 ÅN Ar 3 SR a - AV
 
 Protokolljusterare Mårten Carlquist (M)
@@ -2543,7 +2538,6 @@ Byggnadsnämnden Paragrafer §§ 53-56
 Bygg- och miljöförvaltningen
 
 protokollet
-od NG Åh
 , On. Ah |A AN a
 Underskrift ”N UAV Ad 5 (f fu (Vv GG
 Mujesira Mesinovic
@@ -2611,7 +2605,6 @@ verksamheter är ett viktigt led i arbetet att minska riskerna för att människ
 farliga ämnen. Hela kommunen i sin roll som verksamhetsutövare, fastighetsägare eller huvudman
 Justerare Expedierat/bestyrkt
 
-PD il
 VV
 
 <!-- sida 63 -->
@@ -2831,8 +2824,6 @@ förslag. Ordföranden (M) prövar förslaget och finner att byggnadsnämnden bi
 
 Justerare . Expedierat/bestyrkt
 
-rn
-
 <!-- sida 68 -->
 
 SAMMANTRÄDESPROTOKOLL 11 (13)
@@ -2853,8 +2844,6 @@ Nämnden för Miljö & Hälsoskydd
 Kommuntevisorerna, kommunrevision(3mkungsbacka.se
 
 Justerare Expedierat/bestyrkt
-
-”
 
 <!-- sida 69 -->
 
@@ -2931,7 +2920,5 @@ Nämnden för Miljö & Hälsoskydd
 Kommunrevisorerna, kommunrevision(a kungsbacka.se
 
 Justerare Expedierat/bestyrkt
-
-7> | |
 
 C

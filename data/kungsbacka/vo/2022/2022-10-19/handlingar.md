@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20240526121320id_/https://kungsbacka.se/d
 sha256: c0fc99a9194da76ca2f79aea2c84d6eb089f3e2c411a7941719ae50e950f33c9
 bytes: 58614606
 sidor: 216
-hamtad: 2026-10-26T09:29:13+00:00
-konverterad: 2026-10-26T09:36:18+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:44:00+00:00
+konverterad: 2026-11-17T02:48:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok]
 tal_obekraftade: [2, 3, 4, 5, 6, 7, 12, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 163, 164, 168, 169, 170, 172, 173, 175, 176, 177, 178, 179, 180, 181, 188, 194, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212]
 figurer: [28, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 158, 159, 161, 162]
 tolkade: []
@@ -746,7 +746,50 @@ behandling av läkemedel och förbandsmaterial.
 
 <!-- sida 20 -->
 
+TIDPLAN
+
+Etapp 2 år 2027
+
+BEHOV AV DEFINIERAD GEOGRAFISK LOKALISERING AV FUNKTIONEN
+
+a Donsö N po IN NN T SNR TR Ad A
+
+Lygnert
+
+NN
+irtskär
+
+Nidingen
+
+Område 4
+
+ÖVRIGT”
+
+XX
+
 <!-- sida 21 -->
+
+I
+
+Underskrift
+
+Underskrift - | Underskrift
+
+Blanketten sparas som bilaga i Stratsys
+
+[90
+
+ST
+
+Datum | Namnförtydligande Datum | Namnförtydligande
+
+MN
+ed
+)
+pd
+irtskär
+
+Nidinden
 
 <!-- sida 22 -->
 
@@ -815,7 +858,7 @@ elstolpar.
 
 = omklädningsrum för samtlig hemsjukvårdspersonal med ett låsbart skåp per person.
 
-= förvaring av cirkulationstvätt. Ca 1 löpmeter hyllplan å 60 cm djup/medarbetare för
+= förvaring av cirkulationstvätt. Ca I löpmeter hyllplan å 60 cm djup/medarbetare för
 cirkulationstvätten.
 
 = tvättmaskin för tvätt av arbetskläder som inte ingår i cirkulationstvätten
@@ -961,7 +1004,45 @@ BEHOV AV DEFINIERAD GEOGRAFISK LOKALISERING AV FUNKTIONEN
 
 <!-- sida 26 -->
 
+Valö NY
+/
+( Billdal
+n
+
+2 1
+irtskär
+
+Nidinden
+| KX
+
+Område 4
+ÖVRIGT”?
+XX
+
+Underskrift
+
 <!-- sida 27 -->
+
+Datum Namnförtydligande = | Datum | Namnförtydligande
+
+VAT[ Kar Ari Fal
+
+Underskrift krift
+
+Blanketten
+
+o Donsö
+
+Valö
+rd |
+
+Billdal
+
+yr
+
+irtskär
+
+Nidingen
 
 <!-- sida 28 -->
 
@@ -3922,8 +4003,6 @@ ett bra ljus i lokalen. Toalett ska finnas i anslutning till utbildningslokalen.
 Underskrift
 
 Datum Namnförtydligande Datum Namnförtydligande
-AA Min Ave Fo
-
 UYA Byta få |
 
 Underskrift a Underskrift a
@@ -4127,10 +4206,7 @@ pågående upphandling med förväntad avtalsstart 22-10-01 och förväntad inf�
 november 2022.
 
 Underskrift
-
 Datum Namnförtydligande Datum = | Namnförtydligande
-7” Yt Öh NA 1 F Aly
-
 Underskrift. ooo | Underskrift
 
 Blanketten sparas som bilaga I Stratsys
@@ -4529,10 +4605,7 @@ Område 1, centrum Signesväg 7
 ÖVRIGT?
 
 Underskrift
-
 Datum Namnförtydligande | Datum | Namnförtydligande
-Uf 3 LC | i I Nu | ( tlY |
-
 Underskrift Underskrift
 
 Blanketten sparas som bilaga i Stratsys
@@ -4721,8 +4794,6 @@ Underskrift
 
 Datum Namnförtydligande "Datum | Namnförtydligande
 
-ya | Vyrba Py
-
 Underskrift | Underskrift
 
 <!-- sida 105 -->
@@ -4894,8 +4965,6 @@ I nära anslutning till Sandlyckan vård- och omsorgsboende.
 Underskrift
 
 Datum | Namnförtydligande — JDatum | Namnförtydligande a
-ya Prius Poly
-
 Underskrift | Underskrift. = a
 
 Blanketten sparas som bilaga I Stratsys
@@ -4977,8 +5046,6 @@ Centrala Kungsbacka i nära anslutning till Kolla vård- och omsorgsboende.
 Underskrift
 
 Datum Namnförtydligande ee | Datum Namnförtydligande
-
-z 7) Y "Ty FÅ
 
 VYGA Br td Fanny Ö
 Underskrift Underskrift
@@ -5149,7 +5216,6 @@ komfortkyla inomhus för de vård och omsorgsboende som idag saknar det.
 
 Underskrift
 | Datum | Namnförtydligande | Datum | Namnförtydligande
-VY | YPoter po
 
 <!-- sida 118 -->
 
@@ -5552,9 +5618,6 @@ Underskrift
 
 Datum Namnförtydligande
 
-Myt Få
-
-D I /9 R
 Underskrift =
 
 Blanketten sparas som bilaga i Stratsys
@@ -5703,8 +5766,6 @@ Behov av Stabsrum dedikerat för Förvaltningsledning vid kris. VO Krisledningso
 Underskrift
 
 Datum | Namnförtydligande Datum Namnförtydligande
-
-VI” fp /k | Y | AU AA AA
 
 Underskrift | Underskrift. =
 
@@ -5891,8 +5952,6 @@ Underskrift
 
 Datum Namnförtydligande Datum Namnförtydligande
 
-WIDE WML AA Viän Fäly
-
 \- Underskrift
 
 Underskrift
@@ -5987,6 +6046,29 @@ Område 1 , Stadshuset
 ÖVRIGT:
 
 <!-- sida 142 -->
+
+Underskrift
+
+Datum Namnförtydligande
+Underskrift a SS
+
+Blanketten sparas som bilaga i Stratsys
+& Donsö
+
+Valö X
+SA
+
+6 Billdal
+
+irtskär
+
+| Datum
+
+Namnförtydligande
+
+Underskrift
+
+Lygnerr
 
 <!-- sida 143 -->
 
@@ -8350,6 +8432,40 @@ Förvaltningschef                   Ekonomi och kvalitetschef
 
 <!-- sida 194 -->
 
+Erinran om sekretess och straffansvar
+Jag, NN, deltar i arbetet med Analytics i Kungsbacka kommun. För att kunna utföra mina
+arbetsuppgifter inom ramen för uppdraget får jag tillgång till nämnden för Vård & Omsorgs
+uppgifter som finns lagrade i de system som data hämtas ifrån för beredning alternativt
+
+lagring i kommunens datalager för Analyticslösningen.
+Genom arbetet med Analytics deltar jag i nämnden för Vård & Omsorgs verksamhet på
+liknande grund som anställning eller uppdrag, i enlighet med 2 kap 1 § 3 p. i offentlighets-
+och sekretesslagen (2009:400). Det innebär att jag omfattas av offentlighets- och
+sekretesslagens bestämmelser om sekretess.
+
+De system jag har tillgång till innehåller uppgifter som omfattas av olika grader av sekretess.
+Såväl kvalificerad sekretess som stark sekretess kan förekomma. Sekretess kan gälla till
+skydd för såväl allmänna som enskilda intressen.
+
+Jag förstår att det är förbjudet för mig att röja eller utnyttja sekretessbelagda uppgifter som
+jag får kännedom om. Det gäller oavsett om röjandet sker muntligen, skriftligen eller på
+något annat sätt. Det gäller under uppdragstiden och även för tiden därefter.
+Jag är medveten om att om jag bryter mot offentlighets- och sekretesslagens bestämmelser
+om tystnadsplikt kan det leda till att jag döms för brott enligt 20 kap 3 § brottsbalken.
+
+Jag förstår att uppgifter jag får tillgång till endast får användas för att fullgöra mina
+arbetsuppgifter inom uppdraget. Om jag bereder mig tillgång till uppgifter utöver mitt
+uppdrag kan jag göra mig skyldig till dataintrång enligt 4 kap 9c § brottsbalken.
+
+Härmed intygas att jag tagit del av ovanstående.
+
+Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Underskrift och namnförtydligande
+
 Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
@@ -8358,34 +8474,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
-Erinran om sekretess och straffansvar
-Jag, NN, deltar i arbetet med Analytics i Kungsbacka kommun. För att kunna utföra mina
-arbetsuppgifter inom ramen för uppdraget får jag tillgång till nämnden för Vård & Omsorgs
-uppgifter som finns lagrade i de system som data hämtas ifrån för beredning alternativt
-lagring i kommunens datalager för Analyticslösningen.
-Genom arbetet med Analytics deltar jag i nämnden för Vård & Omsorgs verksamhet på
-liknande grund som anställning eller uppdrag, i enlighet med 2 kap 1 § 3 p. i offentlighets-
-och sekretesslagen (2009:400). Det innebär att jag omfattas av offentlighets- och
-sekretesslagens bestämmelser om sekretess.
-De system jag har tillgång till innehåller uppgifter som omfattas av olika grader av sekretess.
-Såväl kvalificerad sekretess som stark sekretess kan förekomma. Sekretess kan gälla till
-skydd för såväl allmänna som enskilda intressen.
-Jag förstår att det är förbjudet för mig att röja eller utnyttja sekretessbelagda uppgifter som
-jag får kännedom om. Det gäller oavsett om röjandet sker muntligen, skriftligen eller på
-något annat sätt. Det gäller under uppdragstiden och även för tiden därefter.
-Jag är medveten om att om jag bryter mot offentlighets- och sekretesslagens bestämmelser
-om tystnadsplikt kan det leda till att jag döms för brott enligt 20 kap 3 § brottsbalken.
-Jag förstår att uppgifter jag får tillgång till endast får användas för att fullgöra mina
-arbetsuppgifter inom uppdraget. Om jag bereder mig tillgång till uppgifter utöver mitt
-uppdrag kan jag göra mig skyldig till dataintrång enligt 4 kap 9c § brottsbalken.
-Härmed intygas att jag tagit del av ovanstående.
-Kungsbacka den \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Personnummer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Underskrift och namnförtydligande
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 195 -->
 
@@ -8504,32 +8594,32 @@ BILAGA 1 - FÖRORDNANDEN .......................................................
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-till exempel brutit mot reglerna om jäv, korruption eller begått
 1\.  Allmänt     om   delegering
-någon form av tjänstefel.
-Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
-som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
-ärendetypen. Men nämnden har också möjlighet att överlåta ärenden som avser verksamhetens mål, inriktning, omfattning eller
-beslutanderätten åt anställda i kommunen. Ett sådant överlåtande kvalitet, eller yttranden till fullmäktige eller till domstol med
-kallas delegation och den som då får beslutanderätten kallas anledning av att ett beslut som ursprungligen tagits av nämnden
-delegat. Det finns inga formkrav på hur ett sådant överlåtande ska överklagats. Ett undantag från detta är att nämnden kan ge
-se ut men det är vanligt att samla dem i en förteckning för att det ordförande i uppdrag att fatta beslut i ärenden som är så
-ska gå att få en överblick.                           brådskande att nämndens avgörande inte kan inväntas. Den som
-innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+
+Utgångspunkten i kommunallagen är att den politiska nämnden
+som ansvarar för en viss ärendetyp fattar alla beslut som rör den
+ärendetypen. Men nämnden har också möjlighet att överlåta
+beslutanderätten åt anställda i kommunen. Ett sådant överlåtande
+
+kallas delegation och den som då får beslutanderätten kallas
+delegat. Det finns inga formkrav på hur ett sådant överlåtande ska
+se ut men det är vanligt att samla dem i en förteckning för att det
+ska gå att få en överblick.
 Kommunallagen skiljer på beslut och verkställighet. Beslut är
-kan fattas, så som för vanlig delegation.
 avgöranden mellan olika alternativ som kräver mer omfattande
-bedömningar och som har en inte obetydlig påverkan på den Här nedan följer först nämnden för Vård & Omsorgs egna
-verksamhet nämnden ansvarar för eller rör myndighetsutövning bestämmelser och vägledning för sin delegering, och sedan den
-mot enskilda. Verkställighet är det handlande som följer av ett förteckning över ärendetyper där nämnden har överlåtit sin
-beslut eller de förberedelser som sker inför ett beslut. beslutanderätt till någon annan. I bilaga 1 finns också en
-Verkställighet kan dock också innefatta mindre avgöranden, förteckning över nämndens förordnanden.
+bedömningar och som har en inte obetydlig påverkan på den
+verksamhet nämnden ansvarar för eller rör myndighetsutövning
+mot enskilda. Verkställighet är det handlande som följer av ett
+
+beslut eller de förberedelser som sker inför ett beslut.
+Verkställighet kan dock också innefatta mindre avgöranden,
 bedömningar och vägval inom ramen för ett bredare beslut, till
 exempel ett beslut om budget eller mål, och det är därför inte alltid
 självklart var gränsen mellan beslut och verkställighet går. Det
 måste avgöras från fall till fall.
 Bara beslut behöver delegeras från nämnden, medan
 verkställighet faller inom förvaltningens ansvar att hantera. När en
+
 nämnd delegerat sin beslutanderätt träder delegaten helt in i
 nämndens ställe och kan göra slutliga avgöranden i nämnden
 namn. Till beslut som kan delegeras räknas därför också yttranden
@@ -8539,6 +8629,26 @@ alltid ytterst ansvarig för det beslutsfattande som sker. Men
 tjänstepersoner som fattar beslut i nämndens namn kan
 fortfarande bli personligt ansvariga för de beslut som tagits om de
 
+till exempel brutit mot reglerna om jäv, korruption eller begått
+någon form av tjänstefel.
+
+I vissa typer av ärenden får inte nämnden delegera sin
+beslutanderätt till någon annan. Det handlar då särskilt om
+ärenden som avser verksamhetens mål, inriktning, omfattning eller
+kvalitet, eller yttranden till fullmäktige eller till domstol med
+anledning av att ett beslut som ursprungligen tagits av nämnden
+överklagats. Ett undantag från detta är att nämnden kan ge
+ordförande i uppdrag att fatta beslut i ärenden som är så
+brådskande att nämndens avgörande inte kan inväntas. Den som
+innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+kan fattas, så som för vanlig delegation.
+
+Här nedan följer först nämnden för Vård & Omsorgs egna
+bestämmelser och vägledning för sin delegering, och sedan den
+förteckning över ärendetyper där nämnden har överlåtit sin
+beslutanderätt till någon annan. I bilaga 1 finns också en
+förteckning över nämndens förordnanden.
+
 2 (18)
 
 <!-- sida 199 -->
@@ -8546,21 +8656,21 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2\.  Bestämmelser        för   nämndens                Som verksamhetschef i delegeringsförteckningen räknas också
-övriga chefer direkt underställda förvaltningschefen.
+2\.  Bestämmelser        för   nämndens
 delegering
-Förvaltningschef har rätt att vidaredelegera ärenden,
-Nämnden för Vård & Omsorg ansvarar för att sköta vissa av stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
-Kungsbacka kommuns lagstadgade skyldigheter när det gäller som delegerats direkt till denne. Sådan vidaredelegation ska
-vård och omsorg till enskilda enligt hälso- och sjukvårdslagen och dokumenteras i ett beslut men vidaredelegationen behöver inte
-socialtjänstlagen, i enlighet med nämndens reglemente. anmälas till nämnden.
+
+Nämnden för Vård & Omsorg ansvarar för att sköta vissa av
+Kungsbacka kommuns lagstadgade skyldigheter när det gäller
+
+vård och omsorg till enskilda enligt hälso- och sjukvårdslagen och
+socialtjänstlagen, i enlighet med nämndens reglemente.
 Nämnden för Vård & Omsorg är därmed socialnämnd enligt 2 kap
 4 § socialtjänstlagen, men också huvudman enligt 11 kap 1 §
 hälso- och sjukvårdslagen för den kommunala sjukvården i
 Kungsbacka kommun. Omfattningen för delegeringen från
 nämnden kan inte överskrida den beslutsbefogenhet som
-
 nämnden har fått av fullmäktige.
+
 Beslut fattade med stöd av denna delegeringsförteckning ska inte
 anmälas till nämnden, om inte något annat anges i villkoren för
 delegeringen här nedan. Undantaget är beslut som kan komma att
@@ -8572,13 +8682,22 @@ Beslutanderätt i en ärendetyp avser rätt att besluta i både form och
 sak, det vill säga rätt att ta beslut om exempelvis avvisning,
 avskrivning, bifall eller avslag, när det är tillämpligt och om inget
 annan anges.
-
 Beslutanderätt medför också rätt att underteckna handlingar i
+
 ärendet.
 Överordnad till delegat har samma beslutanderätt som delegaten.
 
 Om någon tillfälligt träder in på en tjänst med delegation har den
 tillförordnande anställde samma delegation som den ordinarie.
+
+Som verksamhetschef i delegeringsförteckningen räknas också
+övriga chefer direkt underställda förvaltningschefen.
+
+Förvaltningschef har rätt att vidaredelegera ärenden,
+stadigvarande för en viss ärendegrupp eller i enskilda ärenden,
+som delegerats direkt till denne. Sådan vidaredelegation ska
+dokumenteras i ett beslut men vidaredelegationen behöver inte
+anmälas till nämnden.
 
 3 (18)
 
@@ -9152,7 +9271,7 @@ Kungsbacka
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
-Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkningi/villkor
+Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor
 Attestreglemente, Utse beslutsattestanter och ersättare för nämndens Förvaltningschef, = Attesträtt innebär rätt att besluta om att godkänna
 Tillämpnings- verksamheter, och besluta om beloppsgränser eller ekonomi och kostnader inom ett verksamhetsområde.
 anvisningar för begränsad attesträtt. kvalitetschef

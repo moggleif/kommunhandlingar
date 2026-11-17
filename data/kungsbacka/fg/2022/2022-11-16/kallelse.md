@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240216180312id_/https://kungsbacka.se/d
 sha256: fcf42ce40122280141cd88f0e787b0f804c94998f4a9b8199769dbf157042d81
 bytes: 2752983
 sidor: 64
-hamtad: 2026-10-26T09:16:16+00:00
-konverterad: 2026-10-26T09:16:28+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T02:34:42+00:00
+konverterad: 2026-11-17T02:34:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -39,37 +39,45 @@ Kungsbackarummet, Storgatan 37
 
 Ärende                Beteckning Förslag
 
-1\.  SKA arbete med        2022-01483 Nämnden för Förskola och Grundskola har tagit del
-verksamhetsbesök                av informationen och antecknar informationen i
+1\. SKA arbete med         2022-01483 Nämnden för Förskola och Grundskola har tagit del
+verksamhetsbesök                 av informationen och antecknar informationen i
 protokollet.
 Kl 08.30-14.00
 
-2\.  Val av justerare och tid för 2022-00003 Digital justering 2022-11-22. Per-Axel Carlsson (M)
+2\. Val av justerare och tid för 2022-00003 Digital justering 2022-11-22. Per-Axel Carlsson (M)
 justering
 
-3\.  Redovisning av inkomna 2022-00024 Nämnden för Förskola och Grundskola har tagit del
-skrivelser till nämnd 2022      av informationen och antecknar informationen i
+3\. Redovisning av inkomna 2022-00024 Nämnden för Förskola och Grundskola har tagit del
+skrivelser till nämnd 2022       av informationen och antecknar informationen i
 protokollet.
 
-4\.  FSG Protokoll 2022    2022-00042 Nämnden för Förskola och Grundskola har tagit del
+4\. FSG Protokoll 2022     2022-00042 Nämnden för Förskola och Grundskola har tagit del
 av informationen och antecknar informationen i
-
 protokollet.
 
-5\.  Göteborgsregionen, GR - 2022-01324 Nämnden för Förskola & Grundskola beslutar att
-Interkommunal ersättning inom   följa förbundsstyrelsen inom Göteborgsregionens
-förskola, pedagogisk omsorg,    rekommendation att med avstämningstidpunkt den
-förskoleklass, grundskola,      15:e respektive månad, fastställa interkommunal
-fritidshem, grundsärskola och   ersättning för förskola, pedagogisk omsorg,
-ISGR år 2023                    förskoleklass, grundskola, fritidshem, grundsärskola
+5\. Göteborgsregionen, GR - 2022-01324 Nämnden för Förskola & Grundskola beslutar att
+
+Interkommunal ersättning inom
+förskola, pedagogisk omsorg,
+förskoleklass, grundskola,
+fritidshem, grundsärskola och
+ISGR år 2023
+
+Kl 16.05
+
+följa förbundsstyrelsen inom Göteborgsregionens
+rekommendation att med avstämningstidpunkt den
+15:e respektive månad, fastställa interkommunal
+ersättning för förskola, pedagogisk omsorg,
+förskoleklass, grundskola, fritidshem, grundsärskola
 och ISGR kalenderåret 2023 i enlighet med
-Kl 16.05                        innehållet i prislista.
+innehållet i prislista.
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
 Lars Sundbom                                                 Kungsbacka kommun
-FG Myndighet & Stöd                                           434 81 Kungsbacka
+FG Myndighet & Stöd                                          434 81 Kungsbacka
 Direkt 0300-835240
 (e-post borttagen)                                      Besöksadress
 

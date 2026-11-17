@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319205503id_/https://www.kungsbacka.
 sha256: ac2bbef7433b9cf139cd717296e0ea44a208a95cf180169e151c7202637887b9
 bytes: 139837
 sidor: 10
-hamtad: 2026-10-27T08:53:59+00:00
-konverterad: 2026-10-27T08:54:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T03:26:27+00:00
+konverterad: 2026-11-17T03:26:29+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -87,54 +87,80 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 5 -->
 
+Ärende
+
+13\. SÖDERCENTRUM  8, 9 och 10 –
+Bygglov för nybyggnad av
+flerbostadshus
+
+Föredragande: Ing-Marie Ringholm,
+bygglovshandläggare
+
+OBS! Ärendet finns inlagt i
+nämndmodulen mellan nr 12-14.
+Gäller en tjänsteskrivelse för alla tre
+
+men, med olika handlingar som är
+kopplade till denna tjänsteskrivelse.
+Beslutet fattas under ärende nr 12 för
+alla tre och ska ha ett gemensamt §-
+nummer, p.g.a. ett
+markupplåtelseavtal som säger att de
+får tillträde till marken när bygglovet
+är klart och då skall det betalas.
+(De/byggherren vill inte riskera att
+
+något av ärendena blir överklagat
+därav ett beslut. Det rör sig om ca
+150 miljoner).
+
 KUNGSBACKA  KOMMUN
 
 5(10)
 
-Ärende                    Beteckning Förslag                       Tid
+Beteckning Förslag                       Tid
 
-13\. SÖDERCENTRUM  8, 9 och 10 – BN 2021- Byggnadsnämnden beviljar bygglov samt 10
-Bygglov för nybyggnad av  003248  mark lov för nybyggnad av flerbostadshus för min
-flerbostadshus                    Södercentrum 8, 9 och 10.
+BN 2021- Byggnadsnämnden beviljar bygglov samt 10
+003248  mark lov för nybyggnad av flerbostadshus för min
+Södercentrum 8, 9 och 10.
 BN 2021-
 003260  Lovet upphör att gälla om åtgärden inte har
 påbörjats inom två år och avslutats inom fem
-Föredragande: Ing-Marie Ringholm, BN 2021-
+BN 2021-
 år från det att beslutet vann laga kraft.
-bygglovshandläggare       003261
+003261
 Golvhöjden för byggnaderna får inte
 understiga +3,0
-OBS! Ärendet finns inlagt i
 Kontrollansvarig för åtgärden är xxxxxx.
-nämndmodulen mellan nr 12-14.
-Gäller en tjänsteskrivelse för alla tre Avgiften för beslutet för Södercentrum 8 är
-men, med olika handlingar som är  75 600 kronor. Av detta kostar bygglovet 32
-kopplade till denna tjänsteskrivelse. 400 kronor och byggskedet 43 200 kronor.
-Beslutet fattas under ärende nr 12 för Observerar att eventuell utstakning och
-alla tre och ska ha ett gemensamt §- lägeskontroll inte är med i ovanstående
-nummer, p.g.a. ett                belopp.
-markupplåtelseavtal som säger att de
-Avgiften är uträknad efter Taxa för
-får tillträde till marken när bygglovet
-Byggnadsnämndens verksamhet, beslutad i
-är klart och då skall det betalas.
-Kommunfullmäktige 2020-09-08 § 97.
-(De/byggherren vill inte riskera att
-något av ärendena blir överklagat Avgiften för beslutet för Södercentrum 9 är
-därav ett beslut. Det rör sig om ca 75 600 kronor. Av detta kostar bygglovet 32
-150 miljoner).                    400 kronor och byggskedet 43 200 kronor.
+Avgiften för beslutet för Södercentrum 8 är
+75 600 kronor. Av detta kostar bygglovet 32
+400 kronor och byggskedet 43 200 kronor.
 Observerar att eventuell utstakning och
 lägeskontroll inte är med i ovanstående
 belopp.
+
+Avgiften är uträknad efter Taxa för
+Byggnadsnämndens verksamhet, beslutad i
+Kommunfullmäktige 2020-09-08 § 97.
+Avgiften för beslutet för Södercentrum 9 är
+75 600 kronor. Av detta kostar bygglovet 32
+400 kronor och byggskedet 43 200 kronor.
+
+Observerar att eventuell utstakning och
+lägeskontroll inte är med i ovanstående
+belopp.
+
 Avgiften är uträknad efter Taxa för
 Byggnadsnämndens verksamhet, beslutad i
 Kommunfullmäktige 2020-09-08 § 97.
 Avgiften för beslutet Södercentrum 10 är 75
 600 kronor. Av detta kostar bygglovet 32 400
+
 kronor och byggskedet 43 200 kronor.
 Observerar att eventuell utstakning och
 lägeskontroll inte är med i ovanstående
 belopp.
+
 Avgiften är uträknad efter Taxa för
 Byggnadsnämndens verksamhet, beslutad i
 Kommunfullmäktige 2020-09-08 § 97.

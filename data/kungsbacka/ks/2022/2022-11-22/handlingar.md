@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241126012606id_/https://kungsbacka.se/d
 sha256: 08d52102dabe66cd302bfe5cbc2ed0af511753ec05ae0478f00ebff1742af359
 bytes: 206104654
 sidor: 533
-hamtad: 2026-10-26T09:12:16+00:00
-konverterad: 2026-10-26T09:15:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:30:51+00:00
+konverterad: 2026-11-17T02:34:29+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr]
@@ -428,62 +428,157 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 16 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Lokaler         och     boenden                                                                                       Resterande 20 procent finansieras inom respektive nämnds
-• Lokallösningar ska föreslås och väljas utifrån att ram. Ramtilldelning utgår inte för verksamhetsanpass-
-”Minska behovet av att bygga nytt genom att samut- ningar av lokaler.
-nyttja och bygga mer flexibelt” vilket innebär att loka-
+Lokaler         och     boenden
+
 Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
-ler eller lokaldelar så långt det är möjligt planeras för Investeringsbudget och hyresmedel för lokaler och boen-
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner Antalet invånare ökar
-att kunna samnyttjas och användas för flera ändamål. den tillhör kommunstyrelsen och kommunstyrelsen kan
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen
-• Investeringar i egenägda lokaler ska genomföras om justera mellan olika lokalprojekt under året.
-verksamheten har ett långsiktigt lokalbehov.
-• Inhyrning ska prövas som ett alternativ till att äga Projekt i lokalplanen får omsättas till projekt och startas
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att fastigheter, och väljas om det råder osäkerhet om verk- upp om de understiger 15 miljoner i investeringsbe-
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och samhetens framtida innehåll och/eller omfattning och lopp. För projekt som överstiger 15 miljoner kronor ska
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu- med hänsyn till behovstid eller om investeringsmedel igångsättning beslutas av kommunstyrelsen. Inhyrda behov
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett saknas för egna investeringar. där hyran motsvarar en investering på 15 miljoner eller mer
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för • Arbetet med lokalförsörjning ska bedrivas genom ett kräver också beslut av kommunstyrelsen.
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.                tätt samarbete med berörda förvaltningar.
-och boenden.                                                                                                          I samband med kommunens investering i nya lokaler
-Lokalbehov 2023–2027
-Handläggningen av lokalbehoven behöver ske enligt ned-                              avsätts 1 procent av byggnadens byggutgift till konstnärlig
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:            Nämnderna i Kungsbacka kommun har lämnat in bostads- utsmyckning. Med byggutgift avses den del av projektkost-
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings- och lokalbehov för perioden 2023–2027. Nämndernas naden som omfattar uppförande av en byggnad exklusive
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering. beslutade behov uttrycks i volymmått, till exempel antal markförvärv, projektering, markarbeten, installationer
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade platser, antal elever eller antal förskolebarn. Behoven och byggherrekostnader. Nämnden för Kultur & Fritid
-Prioriteringsprincipen i fallande ordning: bearbetas och kostnadsbedöms utifrån nyckeltal framtagna får ansvaret att upphandla och besluta om den konstnär-
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk- av Förvaltningen för Service avseende både investerings- liga utsmyckningen. Ett särskilt belopp avsätts som kan
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av utgifter samt driftskostnader. Lokalplanen bereds utifrån fördelas olika mellan de lokaler som byggs. Det innebär att
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler ett planerings- och genomförandeperspektiv samt med det inte alltid blir 1 procent i konstnärlig utsmyckning per
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.   utgångspunkt i ovan nämnda principer. lokal utan det kan variera mellan olika lokaler men det blir
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering                      alltid max 1 procent totalt per år. Gäller bara byggnaderna.
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.      Nya hyror för lokalinvesteringar samt inhyrda boenden Vid investeringar i infrastruktur (gator och vägar mm)
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur- budgeteras centralt och nämnden erhåller ram motsva- samt i de fall kommunen hyr in lokal från extern fastig-
-tige.                                        omvandlingar och som ger minskade      rande 80 procent av hyran när lokalen är klar att tas i bruk. hetsägare får ställning tas till konstnärlig utsmyckning i
-driftskostnader samt lokalbehov på                                       varje enskilt projekt.
+
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
+och boenden.
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
+
 Insamling                Genomför-
 Behov            Förstudie Projektering   Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
+
+42 Kommunbudget 2023 och plan 2024–2025
+
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2023–2027
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2023–2027. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Förvaltningen för Service avseende både investerings-
+utgifter samt driftskostnader. Lokalplanen bereds utifrån
+ett planerings- och genomförandeperspektiv samt med
+utgångspunkt i ovan nämnda principer.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+
+INVESTERING OCH EXPLOATERING
+
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får omsättas till projekt och startas
+upp om de understiger 15 miljoner i investeringsbe-
+lopp. För projekt som överstiger 15 miljoner kronor ska
+igångsättning beslutas av kommunstyrelsen. Inhyrda behov
+där hyran motsvarar en investering på 15 miljoner eller mer
+kräver också beslut av kommunstyrelsen.
+
+I samband med kommunens investering i nya lokaler
+avsätts 1 procent av byggnadens byggutgift till konstnärlig
+utsmyckning. Med byggutgift avses den del av projektkost-
+naden som omfattar uppförande av en byggnad exklusive
+markförvärv, projektering, markarbeten, installationer
+och byggherrekostnader. Nämnden för Kultur & Fritid
+får ansvaret att upphandla och besluta om den konstnär-
+liga utsmyckningen. Ett särskilt belopp avsätts som kan
+fördelas olika mellan de lokaler som byggs. Det innebär att
+det inte alltid blir 1 procent i konstnärlig utsmyckning per
+lokal utan det kan variera mellan olika lokaler men det blir
+alltid max 1 procent totalt per år. Gäller bara byggnaderna.
+Vid investeringar i infrastruktur (gator och vägar mm)
+samt i de fall kommunen hyr in lokal från extern fastig-
+hetsägare får ställning tas till konstnärlig utsmyckning i
+varje enskilt projekt.
+
 Foto: Amanda Liljevall, Kungsbacka kommun
-42 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 43
+
+Kommunbudget 2023 och plan 2024–2025 43
 
 <!-- sida 17 -->
 
@@ -506,14 +601,15 @@ Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027
 136  Skårby fullmått idrottshall        x
 441       395       814       934       412
 232  Trollelyckan förskola avveckling   x
+
 233  Klockaregården förskola               160
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner kronor                                                            234  Klockaregården förskola avveckling paviljong -160
 
 ```osaker-tabell
 Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027                              235  Stockalids förskola                   120
-     62        48        30       64        67                                   236  Åsa förskola                                    80
-                                                                                 237  Åsa förskola (Stora Loket) avveckling           -80
+     62        48       30        64        67                                   236  Åsa förskola                                    80
+                                                                                 237  Åsa förskola (Stora Loket) avveckling          -80
 ```
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis sanering, restvärden, paviljonghyror och inredning.
@@ -527,201 +623,355 @@ Lokaltyp och beskrivning 2023 2024 2025 2026 2027                               
 139 Toalettbyggnad Stättared     x                                                 143  Ölmevalla idrottshall (fullmått)                 x
 140 Iserås fullmåttshall                   x                                       337  Åsa skola och folkbibliotek        x
 142 Naturum Fjärås Bräcka    x                                                     338  Kvarteret Liljan skola                              500
-143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                           x
+143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                          x
 114 Fjärås fritidscenter omplanering x                                             340  Klinnekärrs förskola avveckling    x
 137 Elektronen avveckling    x                                                     341  Fjordskolans paviljong avveckling och flytt -100
-342  Utbildningspaviljong avveckling                       x
-Noter                                                                               343  Utbildningspaviljong och hus anpassning x
-344  Utbildningspaviljong avveckling        x
+342  Utbildningspaviljong avveckling                      x
+
+Noter
 136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts idrotts- 142 Naturum Fjärås Bräcka 345 Tingberget paviljong avveckling och flytt          -100
-Utbyggnad och anpassning av köks- och personalytor utifrån
-hall som tillgodoser skolverksamhetens och föreningslivets                          1202 a Internationella engelska skolan, skolpeng x
-arbetsmiljöperspektiv
-behov Samordning sker med projekt 231 Skårby utbildnings-
-312  Åsaskolan matsal och klassrum   x
-143 Ölmevalla idrottshall (fullmått)
-lokal
 I samband med en ny skola planeras en ny fullmåtts idrotts-
-227 Kolla förskola
-138 Frillesås ridhus              hall som tillgodoser skolverksamhetens och föreningslivets Noter                    Stort underskott av förskoleplatser i Kollaområdet ger
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 231 Skårby utbildnings-
+lokal
+138 Frillesås ridhus
+Behov av en ny anläggning i Frillesås
+
+139 Toalettbyggnad Stättared
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+142 Naturum Fjärås Bräcka
+Utbyggnad och anpassning av köks- och personalytor utifrån
+arbetsmiljöperspektiv
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras en ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
 behov Samordning sker med projekt 336 Åsa nya skola
-Behov av en ny anläggning i Frillesås                                                                                 behov av förskola med 160 platser
-207 Fjärås Må förskola
 114 Fjärås fritidscenter
-139 Toalettbyggnad Stättared                                                        Området är föremål för exploatering av nya bostäder Nya 227 a Kolla förskola infrastruktur
 Samlokalisering av närbibliotek ifrån Smedingeskolan till
-Befintlig byggnad har passerat sitt tekniska slutår och behö-                       förskolelokaler måste därför byggas Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
 Fjärås simhall
-ver ersättas                                                                                                          Kolla förskola blir ensam kostnadsbärare
-226 Anneberg förskola
 137 Elektronen avveckling
-140 Iserås fullmått idrottshall                                                     Området är föremål för exploatering av nya bostäder Nya 230 Skårby utbildningslokaler etapp 1
 I samband med exploatering på kvarteren Gjutaren och
-I samband med en ny skola planeras ny fullmåtts idrotts-                            förskolelokaler måste därför byggas Samordning sker med Området är föremål för exploatering av nytt bostadsområde
 Liljan avvecklas befintliga byggnader genom rivning
-hall som tillgodoser skolverksamhetens och föreningslivets                          projekt 807 Anneberg vård- och omsorgsboende, projekt 414 Nya utbildningsplatser måste därför byggas Samordning
-behov Samordning sker med projekt 335 Iserås skola                                  Anneberg boende med särskild service med projekt 136 Skårby fullmåtts idrottshall
+
+343 Utbildningspaviljong och hus anpassning
+344 Utbildningspaviljong avveckling
+345 Tingberget paviljong avveckling och flytt
+1202 a Internationella engelska skolan, skolpeng
+312 Åsaskolan matsal och klassrum
+
+Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas
+
+226 Anneberg förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas Samordning sker med
+projekt 807 Anneberg vård- och omsorgsboende, projekt 414
+Anneberg boende med särskild service
+
+x
+x
+-100
+x
+x
+
+227 Kolla förskola
+Stort underskott av förskoleplatser i Kollaområdet ger
+behov av förskola med 160 platser
+227 a Kolla förskola infrastruktur
+Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
+Kolla förskola blir ensam kostnadsbärare
+
+230 Skårby utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 136 Skårby fullmåtts idrottshall
+
 44 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 45
 
 <!-- sida 18 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-231 Skårby utbildningslokaler etapp 2 336 Ölmevallaskolan                           345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
-Området är föremål för exploatering av nytt bostadsområde Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
-Nya utbildningsplatser måste därför byggas Samordning och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
-med projekt 230 Skårby utbildningslokal etapp 1 byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
-sidrottshall                                      las Objektet är fortsatt under utredning
-136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts 143 Ölmevalla idrottshall (fullmått) 1202 a Internationella engelska skolan, skolpeng
-idrottshall som tillgodoser skolverksamhetens och fören- I samband med en ny skola planeras ny fullmått idrotts- Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-ingslivets behov Samordning sker med projekt 231 Skårby hall som tillgodoser skolverksamhetens och föreningslivets skola till Internationella engelska skolan enligt tilldelnings-
-utbildningslokal                  behov Samordning sker med projekt 334 Åsa nya skola modell för privata utförare inom skolverksamheten och
-fritidshemsverksamheten
-232 Trollelyckan förskola avveckling 337 Åsa skola och folkbibliotek
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga P g a underkapacitet på Åsa Gårdsskolan avseende ele-
-lokaler samt att den tekniska livslängden har nått sitt slut vantal kommer en successiv flytt ske av högstadiet till
-Åsaskolan Detta kommer innebära anpassningar av lokaler
-233 Klockaregårdens förskola      för skolverksamhet och folkbibliotek på Åsaskolan och Åsa Kommunala boenden med särskild service (BMSS)
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Gårdsskolan Planering pågår och för närvarande ej beslut
-Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
-förskola                          om grad av anpassningar
-funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
-234 Klockaregården förskola avveckling 338 Kvarteret Liljan skola                   ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
-Paviljong avvecklas när ny förskola projekt 233 i Frillesås Området är föremål för exploatering av nytt bostadsområde särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
-står färdig                       Nya utbildningsplatser måste därför byggas Samordning
-stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
-med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
-235 Stockalids förskola           Liljan
-Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+231 Skårby utbildningslokaler etapp 2
 Området är föremål för exploatering av nytt bostadsområde
-405 Vallda BMSS              12
-Nya utbildningsplatser måste därför byggas 339 Kvarteret Liljan idrottssal
-I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
-236 Åsa förskola                  tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
-Området är föremål för exploatering av nytt bostadsområde Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
 Nya utbildningsplatser måste därför byggas Samordning
+med projekt 230 Skårby utbildningslokal etapp 1
+136 Skårby fullmått idrottshall
+I samband med en ny skola planeras en ny fullmåtts
+idrottshall som tillgodoser skolverksamhetens och fören-
+ingslivets behov Samordning sker med projekt 231 Skårby
+utbildningslokal
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut
+233 Klockaregårdens förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola
+234 Klockaregården förskola avveckling
+Paviljong avvecklas när ny förskola projekt 233 i Frillesås
+står färdig
+
+235 Stockalids förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas
+236 Åsa förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+projekt 237 Åsa förskola avveckling
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+239 Förskola centrum
+Området är föremål för exploatering av nya bostadsområ-
+den Nya utbildningsplatser måste därför byggas
+
+332 Björkris skola paviljong avveckling
+I samband med ny skola projekt 230 Skårby utbildningslokal
+etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastigheten har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+46 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+336 Ölmevallaskolan                              345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
+Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
+och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
+byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
+sidrottshall                                     las Objektet är fortsatt under utredning
+
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras ny fullmått idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 334 Åsa nya skola
+337 Åsa skola och folkbibliotek
+P g a underkapacitet på Åsa Gårdsskolan avseende ele-
+vantal kommer en successiv flytt ske av högstadiet till
+Åsaskolan Detta kommer innebära anpassningar av lokaler
+för skolverksamhet och folkbibliotek på Åsaskolan och Åsa
+Gårdsskolan Planering pågår och för närvarande ej beslut
+om grad av anpassningar
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
+Liljan
+
+1202 a Internationella engelska skolan, skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Internationella engelska skolan enligt tilldelnings-
+modell för privata utförare inom skolverksamheten och
+fritidshemsverksamheten
+
+Kommunala boenden med särskild service (BMSS)
+
+Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
+funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
+ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
+särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
+stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
+
+Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+
+405 Vallda BMSS              12
+339 Kvarteret Liljan idrottssal
+I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
+tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
+Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
+
 502 Kvarteret Aranäs boende med särskild 12
-projekt 237 Åsa förskola avveckling 340 Klinnekärrs förskola avveckling
+340 Klinnekärrs förskola avveckling
 service
 Förskolebyggnad avvecklas på grund av myndighetskrav
 504 Björkris boende med särskild service   10
-237 Åsa (Stora Loket) förskola avveckling
-Paviljong avvecklas när ny förskola i Åsa står färdig 341 Fjordskolan paviljong avveckling och flytt 505 Bostäder SBF och referensboende 10 10 10 10
+
+341 Fjordskolan paviljong avveckling och flytt    505 Bostäder SBF och referensboende 10 10 10 10
 I samband med att Iseråsskolan anpassas genom ny- och 507 Boende med särskild service 12
-238 Villa Emilia avveckling       ombyggnad kommer dess upptagningsområde förändras
+ombyggnad kommer dess upptagningsområde förändras
 508 a Boende med särskild service 12
-Avveckling av paviljong då inget behov finns och att hyresav- så att fler elever kommer att gå på Iseråsskolan Därmed
+så att fler elever kommer att gå på Iseråsskolan Därmed
 508 b Anneberg boende med särskild service      12
-talet löper ut                    kommer Fjordskolan att avlastas
+kommer Fjordskolan att avlastas
 508 c Boende med särskild service 8
-239 Förskola centrum              342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
-Området är föremål för exploatering av nya bostadsområ- I samband med att Skårbyskolan byggs kommer högsta-
-508 e Boende med särskild service      12
-den Nya utbildningsplatser måste därför byggas dieelever flyttas ifrån Hedeskolan dit Detta innebär att
+342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
+I samband med att Skårbyskolan byggs kommer högsta-
+508 e Boende med särskild service     12
+dieelever flyttas ifrån Hedeskolan dit Detta innebär att
 508 f Boende med särskild service      6
 ett färre antal elever kommer att gå på Hedeskolan vilket
-332 Björkris skola paviljong avveckling medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service 12
-I samband med ny skola projekt 230 Skårby utbildningslokal                          508 h Boende med särskild service           6
-etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan 343 Utbildningspaviljong och husanpassning
-508 i Boende med särskild service           2
+medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service    12
+508 h Boende med särskild service          6
+343 Utbildningspaviljong och husanpassning
+508 i Boende med särskild service          2
 I samband med att Skårbyskolan byggs kommer högstadie-
-510 Ordinärt boende           2   2    2    2
-335 Iserås skola                  elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
-Delar av Iseråsskolan måste avvecklas då fastigheten har färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service 18
-nått sin tekniska livslängd och behöver ersättas med nya sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
-lokaler Samordning sker med projekt 140 Iserås fullmåtts till viss del Planering pågår  Kyrkskolan
-idrottshall
-513 Drogfritt boende                   12
+510 Ordinärt boende          2    2    2   2
+elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service        18
+sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
+till viss del Planering pågår                         Kyrkskolan
+513 Drogfritt boende                  12
 344 Utbildningspaviljong avveckling
 Summa boendeplatser och lägenheter 12 66 44 36 42
-140 Iserås fullmått idrottshall   I samband med att Skårbyskolan byggs kommer högstadie-
-I samband med en ny skola planeras ny fullmåtts idrotts- elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
-hall som tillgodoser skolverksamhetens och föreningslivets färre antal elever kommer att gå på Björkrisskolan vilket
-behov Samordning sker med projekt 335 Iserås skola medför att befintlig lokal kan behöva anpassas för kvarva-
+I samband med att Skårbyskolan byggs kommer högstadie-
+elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Björkrisskolan vilket
+medför att befintlig lokal kan behöva anpassas för kvarva-
 rande verksamhet Planering pågår
-46 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 47
+
+Kommunbudget 2023 och plan 2024–2025 47
 
 <!-- sida 19 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Noter                                                                               Vård- och omsorgsboende
-Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
-405 Vallda boende med särskild service 507 Boende med särskild service
-vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
-Boende om 12 platser för att verkställa biståndsbeslut Boende om 12 platser i Särö för att verkställa biståndsbe-
-Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
-slut
-413 Boende med särskild service, barn 508 a–i Boende med särskild service
-Gruppbostad för barn, 4 platser, för att verkställa bistånds- Ett behov av ett flertal BMSS under kommande år där de
-beslut                            matchas mot försörjning av byggrätter, exploateringsprojekt
-men också inhyrningar ifrån externa hyresvärdar i syfte att
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027
-414 Boende med särskild service Anneberg verkställa biståndsbeslut
-805 Ekhaga vård- och omsorgsboende    -26       40
-Behov av gruppbostäder planeras in i kommande nya
-område Samordnas med projekt 807 vård- och omsorgsbo- 510 Ordinärt boende           807 Anneberg vård- och omsorgsboende                     80
-ende Anneberg och projekt 226 Anneberg förskola Det finns behov av ordinära bostäder där personer som bor 808 Bukärrsgården vård- och omsorgsboende avveckling x
-på ett BMSS vill flytta till en ordinär bostad av diverse olika
-809 Hemtjänstlokal Hede flytt          x
-502 Kvarteret Aranäs boende med särskild service skäl Kommunen ombesörjer endast förmedling, ej byggna-
-Boende om 12 platser för att verkställa biståndsbeslut tion eller annan anskaffning 811 VOB Reservkraft (10 st)                 x
-812 Hemtjänst Vallda Anpassning/renovering x
-504 Boende med särskild service Björkris 511 Boende med särskild service            813 Administrativ lokal Omsorgenshus avveckling      x
-Boende om 10 platser för att verkställa biståndsbeslut Boende om 18 platser för att verkställa biståndsbeslut
-814 Sjöállen 9F, ersättningslokal           x
-815 Hemtjänst Sjöallén avveckling           x
-505 Bostäder SBF och referensboende 512 Samlokalisering daglig verksamhet Kyrkskolan
-Särskild bostadsförsörjningskö är avsedd för personer som Flera olika lokaler som är idag daglig verksamhet kommer
-inte själv kan skaffa en bostad på grund av starka sociala att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
-och/eller medicinska skäl Referensboende hyrs ut till kom- skolan som då blir en större lokal för daglig verksamhet
-muninvånare som har starkt behov av en bostad och inte
 Noter
-på egen hand har förmåga att lösa sin situation Kommunen 513 Drogfritt boende
-ombesörjer endast förmedling, ej byggnation eller annan Bemannat boende inriktat mot missbruk och psykisk ohälsa
-anskaffning                       12 platser för att verkställa biståndsbeslut      805 Ekhaga vård- och omsorgsboende 812 Hemtjänst Vallda Anpassning/renovering
-Tillbyggnad av boendet Avveckling av 26 lägenheter samt
-Idag saknas adekvat omklädningsutrymme samt utrymme
-nybyggnation av 40 nya lägenheter
-för cirkulationstvätt vilket strider både mot arbetsmiljö-
-lagen och Hälso- och sjukvårdslagen En anpassning av
-807 Anneberg vård- och omsorgsboende
-befintliga hemtjänstlokalerna kommer äga rum i syfte att
-Planering av nytt vård- och omsorgsboende med 80 lägen-
-uppnå lagkraven
-heter i kommunen Samordnas med projekt 414 BMSS Anne-
-Gymnasium och arbetsmarknad                                                         berg och projekt 226 Anneberg förskola
-813 Administrativ lokal Omsorgenshus avveckling
-Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+
+405 Vallda boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+413 Boende med särskild service, barn
+Gruppbostad för barn, 4 platser, för att verkställa bistånds-
+beslut
+
+414 Boende med särskild service Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område Samordnas med projekt 807 vård- och omsorgsbo-
+ende Anneberg och projekt 226 Anneberg förskola
+502 Kvarteret Aranäs boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+
+504 Boende med särskild service Björkris
+Boende om 10 platser för att verkställa biståndsbeslut
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte
+på egen hand har förmåga att lösa sin situation Kommunen
+ombesörjer endast förmedling, ej byggnation eller annan
+anskaffning
+
+507 Boende med särskild service
+Boende om 12 platser i Särö för att verkställa biståndsbe-
+slut
+508 a–i Boende med särskild service
+Ett behov av ett flertal BMSS under kommande år där de
+matchas mot försörjning av byggrätter, exploateringsprojekt
+men också inhyrningar ifrån externa hyresvärdar i syfte att
+verkställa biståndsbeslut
+510 Ordinärt boende
+Det finns behov av ordinära bostäder där personer som bor
+på ett BMSS vill flytta till en ordinär bostad av diverse olika
+skäl Kommunen ombesörjer endast förmedling, ej byggna-
+tion eller annan anskaffning
+511 Boende med särskild service
+Boende om 18 platser för att verkställa biståndsbeslut
+512 Samlokalisering daglig verksamhet Kyrkskolan
+Flera olika lokaler som är idag daglig verksamhet kommer
+att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
+skolan som då blir en större lokal för daglig verksamhet
+513 Drogfritt boende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa
+12 platser för att verkställa biståndsbeslut
+
+Gymnasium och arbetsmarknad
 Idag går det ca 3 115 elever på de tre gymnasieskolorna. Om fem år, 2027 beräknas elevantalet uppgå till ca 3 300 elever,
-808 Bukärrsgården avveckling
-ut år 2026 Det är högst osäkert om detta förlängs därför
-dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att Planeras att avyttras när hyrestiden upphör
-kan en avveckling genom hyresuppsägning äga rum
+dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att
 klara av denna elevmängd i befintliga lokaler.
-809 Hemtjänstlokal Hede flytt
-814 Sjöállen 9F, ersättningslokal
-Lokaltyp och beskrivning                2023 2024 2025 2026 2027               Planeras att samordnas med projekt 803 Björkris vård- och
-På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-600 Utökning i befintliga byggnader          33   21  48   35                      omsorgsboende
-på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+Lokaltyp och beskrivning                2023 2024 2025 2026 2027
+600 Utökning i befintliga byggnader          33   21  48   35
 602 Samlokalisering Mobilen och Transport-programmet x
-811 Reservkraft
-815 Hemtjänst Sjöállen avveckling
-För att uppfylla lagkrav och patientsäkerhet måste flertalet
-Noter                                                                                                                 På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-befintliga vård- och omsorgsboenden kompletteras med
-på Sjöallén 9F Därför måste befintlig verksamhet flyttas
-reservkraft
-och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Noter
+
 600 Utökning i befintliga lokaler 602 Samlokalisering Mobilen och Transportprogrammet
 Utökningen kommer främst verkställas genom förändrat Som följd av exploateringsprojekt på kvarteret Liljan
 utbildnings- och arbetssätt samt schemaläggning kommer gymnasieverksamheten Mobilen att samlokalisera
 med Transportprogrammet som idag återfinns på Marios
 gata i Varla
-48 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 49
+
+48 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+Vård- och omsorgsboende
+Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
+vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
+Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
+
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027
+805 Ekhaga vård- och omsorgsboende    -26      40
+807 Anneberg vård- och omsorgsboende                     80
+808 Bukärrsgården vård- och omsorgsboende avveckling x
+809 Hemtjänstlokal Hede flytt          x
+811 VOB Reservkraft (10 st)                 x
+812 Hemtjänst Vallda Anpassning/renovering x
+813 Administrativ lokal Omsorgenshus avveckling      x
+814 Sjöállen 9F, ersättningslokal           x
+815 Hemtjänst Sjöallén avveckling           x
+
+Noter
+
+805 Ekhaga vård- och omsorgsboende
+Tillbyggnad av boendet Avveckling av 26 lägenheter samt
+nybyggnation av 40 nya lägenheter
+
+807 Anneberg vård- och omsorgsboende
+Planering av nytt vård- och omsorgsboende med 80 lägen-
+heter i kommunen Samordnas med projekt 414 BMSS Anne-
+berg och projekt 226 Anneberg förskola
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård- och
+omsorgsboende
+
+811 Reservkraft
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård- och omsorgsboenden kompletteras med
+reservkraft
+
+812 Hemtjänst Vallda Anpassning/renovering
+Idag saknas adekvat omklädningsutrymme samt utrymme
+för cirkulationstvätt vilket strider både mot arbetsmiljö-
+lagen och Hälso- och sjukvårdslagen En anpassning av
+befintliga hemtjänstlokalerna kommer äga rum i syfte att
+uppnå lagkraven
+813 Administrativ lokal Omsorgenshus avveckling
+Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+ut år 2026 Det är högst osäkert om detta förlängs därför
+kan en avveckling genom hyresuppsägning äga rum
+814 Sjöállen 9F, ersättningslokal
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+815 Hemtjänst Sjöállen avveckling
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Därför måste befintlig verksamhet flyttas
+och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Kommunbudget 2023 och plan 2024–2025 49
 
 <!-- sida 20 -->
 
@@ -730,86 +980,117 @@ INVESTERING OCH EXPLOATERING
 Service                                                                             Övriga lokaler
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027                          Lokaltyp och beskrivning 2023 2024 2025 2026 2027
-1405 Anpassning myndighetskrav Elof Lindälv x                                      131 Arena                                   x
-1500 Kapareskolans kök ombyggnad       x                                           1202 Tillfälliga lösningar eller oförutsedda x x x x x
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027                           Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+1405 Anpassning myndighetskrav Elof Lindälv x                                       131 Arena                                  x
+1500 Kapareskolans kök ombyggnad       x                                            1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
-1501 Fjordskolan mottagningskök            x
+1501 Fjordskolan mottagningskök             x
 1406 Duveheds omlastningscentral x
 1502 Iseråsskolan mottagningskök                x
 1408 Skyddsrum Kv Liljan                        x
-1503 Datahall                                            x
-1410 Engångsdriftskostnader allmänt x x x   x
+1503 Datahall                                             x
+1410 Engångsdriftskostnader allmänt x x x  x
 1504 Toalettbyggnad Åsa camping        x
-1411 Räddningstjänst                        x
+1411 Räddningstjänst                       x
 1505 Toalettbyggnad Åsa Gårda Brygga   x
+
 1506 Ombyggnad/Förändring av ”hemkök” på förskolor x x x x x
+
 1507 Bostadsmodul Tölöberg avveckling  x
+
 1508 Personalbyggnad Klovsten avveckling x
 Noter
 1509 Bostad mm Gustafs väg, rivning    x
-1510 Bostad Kallhällevägen rivning     x                                           131 Arena
-1408 Skyddsrum Kvarteret Liljan
-1511 Toalettbyggnad Hanhals badplats       x                                       Arenahall med kommersiella lokaler som placeras söder om
-Exploateringen av kvarteret gör att befintligt skyddsrum
-Kungsbacka Sportcenter
-1512 Toalettbyggnad Vallda Sandö           x                                                                          måste ersättas
+
+1510 Bostad Kallhällevägen rivning     x
+1511 Toalettbyggnad Hanhals badplats        x
+1512 Toalettbyggnad Vallda Sandö            x
 1513 Iseråsskolan paviljong avveckling och flytt x
-1202 Tillfälliga lösningar eller oförutsedda händelser
-1410 Engångskostnader
-1514 Datahall 2                            x                                       Medel för tillfälliga lokaler eller för hantering av oförutsedda
-Medel för oplanerade lokalbehov såsom rivning och sanering
-behov som uppstår under planeringsperioden
-som kan uppstå vid främst ombyggnationer av befintliga
-Noter                             1506 Ombyggnad/Förändring av ”hemkök” på förskolor
-lokaler
-Befintliga kök på flertalet förskolor måste anpassas utifrån 1406 Duveheds omlastningscentral
-arbetsmiljösynpunkt men även livsmedelshantering  Vid utbyggnad av Klovstens område behöver omlastnings-
-1405 Anpassning myndighetskrav Elof Lindälv                                                                            1411 Räddningstjänst
-station ny plats i Duvehed
-Anpassning av byggnad i syfte att erhålla permanent                                                                    Som följd av exploateringen i Sydöstra centrum måste rädd-
-1507 Bostadsmodul Tölöberg avveckling
-bygglovstillstånd                                                                                                      ningstjänsten omlokaliseras
-Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
-upp
+1514 Datahall 2                             x
+
+Noter
+
+1405 Anpassning myndighetskrav Elof Lindälv
+Anpassning av byggnad i syfte att erhålla permanent
+bygglovstillstånd
+
 1500 Kapareskolans kök ombyggnad
 Ombyggnad- och utbyggnad av mottagningskök och matsal
-1508 Personalbyggnad Klovsten avveckling
 som reinvestering och utökning av kapacitet i kök och
-Avvecklas då byggnaden har nått sin tekniska livslängd
 matsal
-1509 Bostad mm Gustafs väg, rivning
-1501 Fjordskolan mottagningskök
+
+1506 Ombyggnad/Förändring av ”hemkök” på förskolor
+Befintliga kök på flertalet förskolor måste anpassas utifrån
+arbetsmiljösynpunkt men även livsmedelshantering
+1507 Bostadsmodul Tölöberg avveckling
+Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
+upp
+
+1508 Personalbyggnad Klovsten avveckling
 Avvecklas då byggnaden har nått sin tekniska livslängd
+
+131 Arena
+Arenahall med kommersiella lokaler som placeras söder om
+Kungsbacka Sportcenter
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden
+
+1406 Duveheds omlastningscentral
+Vid utbyggnad av Klovstens område behöver omlastnings-
+station ny plats i Duvehed
+
+1408 Skyddsrum Kvarteret Liljan
+Exploateringen av kvarteret gör att befintligt skyddsrum
+måste ersättas
+1410 Engångskostnader
+Medel för oplanerade lokalbehov såsom rivning och sanering
+som kan uppstå vid främst ombyggnationer av befintliga
+lokaler
+
+1411 Räddningstjänst
+Som följd av exploateringen i Sydöstra centrum måste rädd-
+ningstjänsten omlokaliseras
+
+1501 Fjordskolan mottagningskök
 Samlokalisering av Fjordskolans 3 ”leveransställen” till ett
 mottagningskök
-1510 Bostad Kallhällevägen rivning
-Avvecklas då byggnaden har nått sin tekniska livslängd
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
-1511 Toalettbyggnad Hanhals badplats
 uppnått tekniskt slutdatum Samordnas med projekt 335
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolan
+
+1509 Bostad mm Gustafs väg, rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+
+1510 Bostad Kallhällevägen rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+1511 Toalettbyggnad Hanhals badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
 ver ersättas
+
 1503 Datahall
-1512 Toalettbyggnad Vallda Sandö
 Datahall/Serverrum och lagring för flertalet av kommunens
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 verksamhetssystem
-ver ersättas
 1504 Toalettbyggnad Åsa camping
-1513 Iseråsskolan paviljong avveckling och flytt
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Avveckling av paviljong då inget behov finns och att hyresav-
 ver ersättas
-talet löper ut
+
 1505 Toalettbyggnad Gårda brygga badplats
-1514 Datahall 2
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Datahall/Serverrum och lagring för flertalet av kommunens
 ver ersättas
+
+1512 Toalettbyggnad Vallda Sandö
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+1513 Iseråsskolan paviljong avveckling och flytt
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+
+1514 Datahall 2
+Datahall/Serverrum och lagring för flertalet av kommunens
 verksamhetssystem
+
 50 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 51
 
 <!-- sida 21 -->
@@ -1108,469 +1389,765 @@ www.linkedin.com/company/kungsbacka-kommun/
 
 <!-- sida 28 -->
 
-1 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Fors,                     Kungsbacka
+
 Ansökan              om       planbesked                  2022-07-06
+
+1 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 29 -->
 
-2 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Välkommen                                        till          Fors!
+
 Här bor  du nära  till natur, rekreation, barnomsorg     och  skola i hållbara hem   med
 gröna  gårdar!  På  gårdarna   välkomnas     odling  och  gemenskap.    Fokus  ligger  på
+
 att tillgodose  kommunens      framtida   behov,   anpassa   bostäderna    till området,
 en hög  boendekvalitet    och fina utblickar   mot  grönskan.   Dessutom    har  du nära
+
 till Kungsbacka    centrum   och  dess  samhällsservice.     Kommunikationer       ligger
 tillgängligt inom   gångavstånd     där du  både  kan  ta dig in till Kungsbacka    torg,
+
 Mölndal   och  Göteborg   på  nolltid!
+
 Här  finns  ett varierat  boende    för både   studenter,   unga  vuxna,   familjer  och
 äldre. Välkommen      till Fors!
+
 I denna   bilaga  beskrivs  hur   området   ser  ut idag  och  hur   det kan   utvecklas
+
 från en  parkeringsplats    till ett trevligt bostadsområde.
+
 BILD
 Sammanfattning
+
 Nulägesbeskrivning
 \+ Projektområde
 \+ Nuläge
+
 Analys
+
 \+ Fler bostäder   i Kungsbacka    stad
 \+ Strategiskt  läge
+
 \+ Utvecklingsmöjligheter
 \+ Trafik
+
 \+ Möjlig  utökning   av skolan
+
 Förslag
 \+ Utvecklingsstrategi
+
 \+ Illustrationsplan
+
+2 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 30 -->
 
-3 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Sammanfattning
-Analys       -  Ett    område         lämpligt         för   bostäder                             Utvecklingsstrategi
+
+Analys        -  Ett   område          lämpligt        för    bostäder
+
+Strategiskt  läge  med   närhet  till kollektivtrafik
+
+Exploatering   på  redan  hårdgjord   yta
+
+Närhet  till förskola och  grundskolor
+
+Tillgängliga  gång-  och  cykelvägar   samt   cykelspår
+
+Goda   förutsättningar   för trafiklösningar
+
+Närhet  till rekreation och  motionsspår
+
+Närhet  till grönska
+
+Ej utsatt område    för översvämning
+
+Ej bebyggelse    på jordbruksmark
+
+Fastigheten   ingår  i översiktsplanens   långsiktiga  strategi  för
+
+utveckling  av  bebyggelsestrukturen
+
+Det  finns utvecklingsmöjligheter     för att tillgodose kommunen
+med   både  mindre   och  större lägenheter   inom   fastigheten
+
+En  naturlig fortsatt förtätning  av Kungsbacka     stad
+
+Möjlighet  för utökning   av Vittra Forsgläntan    och  Nova
+
+Montessoriskolan
+
+Utvecklingsstrategi
+
 \+
-Strategiskt  läge med   närhet  till kollektivtrafik                                              ca 118  st bostäder
+ca 118  st bostäder
+
 \+
-Exploatering   på redan  hårdgjord   yta                                                          Fyra  respektive  fem  våningar
+Fyra  respektive  fem  våningar
+
 \+
-Närhet  till förskola och grundskolor                                                             Variation  i byggnadshöjd    och  vinklar
+Variation  i byggnadshöjd    och  vinklar
+
 \+
-Tillgängliga gång-   och  cykelvägar   samt  cykelspår                                            Anpassade     byggnadshöjder     till
+Anpassade     byggnadshöjder     till
 omgivande    bebyggelse
-Goda  förutsättningar   för trafiklösningar
+
 \+
 Varierande   boendeformer
-Närhet  till rekreation och  motionsspår
+
 \+
 Bostäder   till studenter, unga  vuxna,
-Närhet  till grönska                                                                              familjer och  äldre
+familjer och  äldre
+
 \+
-Ej utsatt område   för översvämning                                                               Möjlighet  för bostäder   med   särskild
+Möjlighet  för bostäder   med   särskild
 service
-Ej bebyggelse   på  jordbruksmark
+
 \+    Intressanta,  gröna  gårdsrum    med
-Fastigheten   ingår i översiktsplanens    långsiktiga  strategi för                               odlingsmöjligheter
-utveckling  av bebyggelsestrukturen
+
+odlingsmöjligheter
+
 \+
-God  tillgång till barnomsorg   och  skola
-Det finns  utvecklingsmöjligheter    för att tillgodose  kommunen
+God  tillgång till barnomsorg    och skola
+
 \+
-med  både   mindre  och  större  lägenheter   inom  fastigheten                                   Planerade   siktlinjer och  fina utblickar
+Planerade   siktlinjer och  fina utblickar
+
 \+
-En naturlig fortsatt  förtätning  av Kungsbacka     stad                                          Tillgängligöra  vattendraget
+Tillgängligöra  vattendraget
+
 \+
-Möjlighet  för utökning   av Vittra Forsgläntan   och  Nova                                       Dagsljus  på  gården   och  i lägenheter
-Montessoriskolan
+Dagsljus   på gården   och  i lägenheter
+
+3 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 31 -->
 
 Semrén & Månsson Brandbook / Version 2021:1
 
-4 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Nulägesbeskrivning
+
+4 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 32 -->
 
-5 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Projektområde
+
 BJÖRKRIS
+
 HEDE
+
 VARLA
+
 KUNGSBACKA
+
 HJÄLM
 FORS
+
 KOLLA                         HAMMERÖ
+
 VALLDA
+
+5 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 33 -->
 
-1202
-
-nossnåM
-
-&
-nérmeS
-
-©
 Nuläge
+
 Det tilltänkta exploateringsområdet     ligger inom  en yta som   idag används   för
 parkering  (Fors 1:1387)  utmed   Forsgläntevägen     som   idag är utformad   som
+
 återvändsgata.    Avsikten  med   exploateringen    är att bygga  flerbostadshus.
 5                                                                                                             I anslutning  till området finns:
+
 \+ Forsgläntans    förskola  (1)
+
 \+ Vittra Forsgläntan,   grundskola    (2)
+
 \+ Nova   Montessoriskolan,    grundskola    (3)
+
 3
 \+ Forsgläntans    idrottshall (4)
+
 \+ Forsgårdens    golfklubb   med   tillhörande restaurang    (5)
+
 AREOR     ALLMÄNT
+
 Fastighetens   area: 3  185 m2
 Befintliga p-platser  inom   fastigheten:  76 st
+
 AREOR     NOVASKOLAN
+
 4
 BYA:           1 059  m2
 LOA:           1 021  m2
+
 Elevåldrar:    12-16 år (ÅK  6-9)
 Elevantal:     ca 120  st
+
 AREOR     VITTRASKOLAN
+
 BYA:           3 185  m2
 2
 LOA:           4 468  m2
 Elevåldrar:    6-16 (ÅK  FSK-9)
+
 Elevantal:     ca 500  st
+
 AREOR     FORSGLÄNTANS          IDROTTSHALL
+
 BYA:           1 460  m2
+
 LOA:           ca 1 356  m2
 1
 
 6 / 19
 
+© Semrén & Månsson 2021
+
 <!-- sida 34 -->
 
 Semrén & Månsson Brandbook / Version 2021:1
 
-7 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Analys
+
+7 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 35 -->
 
-8 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Fler             bostäder                             i    Kungsbacka                                       stad
+
 Fler      invånare,            större         utbud         och
+
 mångfald          i  Kungsbacka             stad
+
 GÄLLANDE       ÖP   (2021)
+
 \+ Skapa   förutsättningar  för fler invånare, fler arbetstillfällen,
+
 större  utbud, mångfald    och  puls i Kungsbacka    stad
+
 \+ Bygga   långsiktigt, smart  och  hållbart
+
 \+ Mer  än  hälften av nybebyggelse    ska  byggas  i Kungsbacka
 stad
+
 \+ Kungsbacka     stad  behöver   en  blandning   av många    olika
+
 funktioner.   Ett  stort  antal  äldreboenden     kommer     att
 behöva   byggas   under  de  kommande     åren
+
 \+ Bostadsutvecklingen        ska    företrädesvis     ske   inom
+
 kommunens          utvecklingsorter      med       fokus     på
+
 pendeltågsstationslägena
+
 FÖP   FÖR   KUNGSBACKA          STAD   (2009)
+
 \+ Behov   av komplettering   till befintlig bebyggelse  med   fyra
 till fem våningshus   i Kungsbacka    stad
+
 SLUTSATS
+
 \+ Fastigheten   ingår  i översiktsplanens   långsiktiga  strategi
+
 för utveckling   av bebyggelsestrukturen
+
 \+ Det   finns   utvecklingsmöjligheter      för   att  tillgodose
+
 kommunen      med  både  mindre   och  större lägenheter  inom
 fastigheten
+
 \+ En  naturlig fortsatt förtätning  av  Kungsbacka     stad
+
+8 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 36 -->
 
-9 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Strategiskt                                  läge
+
 Nära      till   arbete,       kommunal             service,
+
 rekreation          och     knutpunkter
+
 GÄLLANDE       ÖP   (2021)
+
 \+ Bygga   långsiktigt, smart  och  hållbart
+
 \+ Ny  bebyggelse   ska  ligga i anslutning till kollektivtrafik och
 kommunal     service
+
 \+ Fokusera   nybyggnation    till stationsorterna
+
 \+ Invånare  ska  ha tillgång till rekreationsytor och  platser för
+
 möten
+
 \+ Bostadsutvecklingen        ska    företrädesvis     ske   inom
 kommunens          utvecklingsorter      med       fokus     på
+
 pendeltågsstationslägena
+
 FÖP   FÖR   KUNGSBACKA          STAD   (2009)
+
 \+ Bostadsutveckling      i gång-   och   cykelvänliga   områden
+
 med   rimliga avstånd   till kollektivtrafik
+
 \+ Nya   bostadsområden       ska  ha  tillgång  till naturområde
 eller park
+
 BOSTADSFÖRSÖRJNINGSPROGRAM                      2019-2025
+
 \+ Stort  behov  av  mindre  lägenheter   som   komplettering    till
+
 befintligt bostadsbestånd
+
 \+ Behov    av   större   lägenheter    med    god    tillgång   till
+
 barnomsorg     och  skola i närområdet
+
 SLUTSATS
+
 \+ Ett strategiskt   läge  nära  till arbete, kommunal    service,
 rekreationsytor,   naturområde    och  knutpunkter
+
 \+ Fastigheten      ligger    nära    gång-     och    cykelstråk,
+
 kollektivtrafik och  Kungsbacka     station
+
+9 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 37 -->
 
-10  / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Utvecklingsmöjligheter
+
 Varierande           boendeformer
+
 Närhet           till
 GÄLLANDE       ÖP   (2021)
+
 grönskan
 \+ Varierande   boendeformer
+
 \+ Kungsbacka     stad  behöver   en  blandning   av många    olika
+
 funktioner.   Ett  stort  antal  äldreboenden     kommer     att
 behöva   byggas   under  de  kommande     åren
+
 FÖP   FÖR   KUNGSBACKA          STAD   (2009)
+
 \+ Varierat  bostadsutbud
+
 \+ Behov   av komplettering   till befintlig bebyggelse  med   fyra
 Odlingsmöjligheter                            i  soligt        söderläge               invid        varje        huskropp
 till fem våningshus   i Kungsbacka    stad
+
 \+ Djärv  arkitektur - varje ny byggnad   ska ha  en egen  prägel.
+
 Byggnaden     ska samspela    med   omgivningen     men  också
 tillföra något nytt
+
 BOSTADSFÖRSÖRJNINGSPROGRAM                      2019-2025
+
 \+ Bostadsbrist     för  studenter,   unga    vuxna,   äldre   och
 personer   med   behov  av särskilda  boende
+
 Fler  boenden       för  olika   livssituationer       och   familjestorlekar                                                                                                    + Stort  behov  av  mindre  lägenheter   som   komplettering    till
+
 befintligt bostadsbestånd
+
 \+ Behov    av   större   lägenheter    med    god    tillgång   till
 Djärv            arkitektur                                                                barnomsorg     och  skola i närområdet
+
 \+ Befolkning   i arbetsför  ålder  (20  - 64 år) ökar  mest   och
+
 befolkning   över 85  år ökar mest   procentuellt
+
 SLUTSATS
+
 \+ Finns     utvecklingsmöjligheter        för   att    tillgodose
+
 kommunen      med  både  mindre   och  större lägenheter  inom
 fastigheten   samt  boende    med   särskild service
+
 \+ Möjlighet   för utökning   av  Vittra Forsgläntan    och  Nova
+
 Montessoriskolan
+
+10  / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 38 -->
 
-11 / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Trafik
+
 Korsningen            Söderåleden/Gamla                    Forsvägen
+
 KAPACITETSANALYS            (SWECO,     2022-02-24)
+
 Sweco   har fått i uppgift att utreda hur en exploatering   påverkar  det befintliga  vägnätet.
+
 Det som   har  studerats   är vilken  belastning   korsningens    punkt  Söderåleden/Gamla
 Forsvägen    har idag.  Beräkningar    har  utförts baserat   på  de  aktuella  fordonsflöden
+
 som  mätts   upp  på diverse  punkter   i anslutning  till korsningen. Inom   området   för den
 tilltänkta exploateringen  finns förskola,  grundskola,  Montessoriskola     årkurs  6-9 och en
+
 golfklubb  med  tillhörande  restaurangverksamhet       som  har tagits med   i beräkningarna.
+
 RESULTAT
+
 Analysen   visar att korsningen   Söderåleden    /Gamla   Forsvägen    kan  med  sin befintliga
+
 utformning   klara dagens    trafikflöden  samt  en  eventuell  exploatering   om  upp  till 500
 lägenheter.
+
 Vid en  generell trafikökning   om  100%   kan  det  eventuellt bli aktuellt med   åtgärder  då
+
 korsningen   kommer    nära  kapacitetsgränsen.
+
 SAMMANFATTNING
+
 Förutsättningar   på  platsen  kan  anses   som   goda   då Söderåleden     i nuläget  har låga
+
 trafikflöden. Resultaten   från kapacitetsanalysen     för korsningen   Söderåleden/     Gamla
 Forsvägen   tyder  på att det inte finns  något  kapacitetsproblem     under  varken   för- eller
+
 eftermiddagens     maxtimme     under  förutsättning   för den   framtagna   prognostiserade
 trafiken i korsningen.   Vid  skolstart  på  en vardagsmorgon       kan  möjligen  korsningen
+
 utsättas för högre  belastning  under   en kort tidsperiod  än övrig tid på dygnet. Sweco    ser
 inte behovet  av någon   åtgärd. Om   det utifrån andra  instanser  bedöms    att belastningen
+
 i samband    med   skolstart  utgör  grund  för åtgärder   föreslår  Sweco   att i första hand
 komplettera   korsningen    Söderåleden/Gamla      Forsvägen    med   svängfält.
 
+11 / 19
+
+© Semrén & Månsson 2022
+
 <!-- sida 39 -->
 
-12  / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Trafik
+
 Parkering
+
 Då Kungsbacka     kommun    inte arbetar  med  något  fast rikttal för antal parkeringsplatser
+
 för skola  eller idrottshall  per  kvadratmeter    LOA   antages   att  det befintliga  antalet
+
 parkeringar   på  fastigheten   är tillräckligt för de befintliga  verksamheterna.     I denna
 skiss är  ersättande   parkeringsplatser    flyttade  till söder och  öster  om   idrottshallen
+
 för en mer   sammanhållen     skolgård.   Intuitiv åtkomst   och  rationalitet har  prioriterats
 i parkeringsutformningen.     Detta   resulterar  nedan   specificerade   friytor för skolgård
+
 och bostadsbebyggelse.
+
 Nya P-platser vid idrottshall: 74 st
+
 Plats för bostäder: 5 463 m²
+
 Friyta för skolorgård: 19 213 m²
+
 ATT   JÄMFÖRA       MED   ERFORDRAD         FRIYTA    FÖR   FASTIGHETENS
+
 SKOLUNGDOMAR:
+
 18 600  m2  räknat  med   30 m2  per elev. (Boverkets   rekommendation)
+
 12 400  m2  räknat  med   20 m2  per elev. (Konvention    vid nybygge   i Göteborg)
+
 PARKERING
+
 Borttagna   p-platser:                 75  st
+
 Nya  p-platser  på tomten:             37  st (min=32)
+
+12  / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 40 -->
 
-13  / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Möjlig                    utökning                              av         skolan
+
 Vittra      Forsgläntan            och     Nova      Montessoriskolan
+
 BTA  SKOLOR:                  5 064  m2
+
 MAX   BTA   SKOLOR:           7 500  m2
+
 ANTAL    ELEVER:              620  st
+
 \+    Antal  elever vid maxexploatering,    förutsatt  bibehållet  förhållande   BTA  per
+
 elev:
+
 918   st
+
 \+
 Erfordrad  skolgårdsarea    vid maxexploatering,     givet 20m2/elev   resp  30m2/
 elev:
+
 18  360    resp.   27   540   m2
+
 \+    Tillgänglig friyta vid max-exploatering     (beror  på hur  mycket    som   byggs   på
+
 höjden   resp.  marken):
+
 16   777   till 19   213   m2
+
 \+
 Högsta   möjliga   friyta per  elev vid  maxexploatering      av skolor:
+
 20,9   m2
+
+13  / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 41 -->
 
 Semrén & Månsson Brandbook / Version 2021:1
 
-1202
-
-nossnåM
-
-&
-nérmeS
-
-©
 Förslag
 
 14  / 19
 
+© Semrén & Månsson 2021
+
 <!-- sida 42 -->
 
-15  / 19
-2202
-nossnåM
-&
-nérmeS
-©
 Utvecklingsstrategi
-Förslaget   presenterar     en  ny  användning      för  den   tomt   invid         våningar   för  att på  så  sätt  möta   höjden    på  den  intilliggande           För att sedan   avgränsa    tomten   och  bostadsgårdarna      mot  gatan
-Forsgläntevägen       där   det   idag    ligger   en   parkeringsplats.            Forsgläntans     förskola   och   anknyta    till dess   intimare   skala.          planeras    för  låga  carportbyggnader       längs    Forsgläntevägen,
-Förslaget   innebär  att parkeringsplatserna      flyttas till andra sidan          Gavlarna    på   de   byggnaderna      som    istället   ligger  närmare            där växter   tillåts att klättra längs   de  spaljéklädda    sidorna   och
-gatan   och  placeras    i anslutning    till Forsgläntans    idrottshall.          idrottshallen    och    parkeringen     tillåts  sträcka    på   sig   upp          där  mellanrummen       mellan   carportarna    skapar    siktlinjer in på
-Här  etableras   även   en ny  drop   off-zon  för elever  till skolorna   i        till fyra  respektive    fem   våningar,    en   skala   och   höjd   som           gårdarna   och  vidare  mot   grönskan.
-området    och  till idrottshallen.                                                 efterfrågas   från  kommunen       i den  fördjupade    översiktsplanen
-för Kungsbacka      stad.  Att  den  nya  bebyggelsen      på  tomten   på          Husens    fasader    och  tak  ges   en  enhetlig   kulör,  en  mild   och
-I gestaltningen      av   platsen    har   tre  huslameller     placerats           detta  sätt bryts  upp   både  i sidled  och  i höjd  skapar  en  silhuett          behaglig   grön   färg   där  fasadernas     träpanel   med    sin  matta
-på  tomten,    vilka  storleksmässigt      möjliggör    gårdsrum     i bra          som   signalerar   småskalighet     och   knyter   an  till befintlig villa-        struktur   kontrasterar    mot   plåttakets   blankare    yta.  Vid  varje
-storlek. Byggnaderna      utgörs   av bostadslägenheter      orienterade            och  småhusbebyggelse        i närområdet    med    volymer   i olika höjd          trapphus   tillåts plåttaket  böja  ner  över  fasaden   som   en  rundad
-runt  invändiga    trapphus    med    entréer   från  bostadsgårdarna.              och  med   olika orientering.                                                       takfot  och   löpa  i hela   husets   höjd   för att  avslutas   som    ett
-Lamellerna    är i huvudsak     orienterade   med    gavlarna   vinkelrätt                                                                                              rundat  skärmtak    över  trapphusentréerna.      Den   rundade    formen
-mot  gatan,   men   för att undvika   direkt  insyn  mellan   lägenheter            I husen   planeras   för lägenheter    med   varierande    storlekar   och          är ett genomgående       detaljelement    i projektet  och   återkommer
-runt samma     gård, har  mittenlamellen     vridits något  gentemot    de          boendeformer      - från  1:or  för  studenter    eller unga   vuxna,   till        till exempel  även   i de rundade   balkongerna.     På  vindsplan   finns
-övriga  två. Att husen   sinsemellan    har olika  vridning  bidrar till att        4:or och  5:or  för olika  former   av kollektivboenden      eller för den          utrymme     för  växthus/vinterträdgårdar/gemensamhetslokaler
-skapa   intressantare    gårdsrum    mellan    husen,   vilket ytterligare          större  familjen,  med    god   tillgång  till barnomsorg    och   skola   i        och    på    gårdarna     planeras     för    odlingsmöjligheter       och
-förstärks   genom     att varje   lamell  är  uppdelad     i två  volymer           det direkta  närområdet.     Alla lägenheter    har tillgång  till balkong          gemensamma        utemiljöer,   vilka  alla  är  viktiga  för  att främja
-som   både  har  förskjutits  i sidled  samt   varierar  i byggnadshöjd             eller uteplats   och   i den  lägre   volymen    åt  öster  planeras    för         både  den  sociala   och  den  ekologiska    hållbarheten.
-i förhållande    till varandra.   Livförskjutningarna      och   de   olika         bostäder    med   särskild   service   (BmSS)     med   en   egen,  privat
-hushöjderna     gör   att  även   de   invändiga    boendekvaliteterna              trädgård   i öppet   och   soligt sydostläge     samt   egen   entré  från
-förbättras,  då de  flesta  lägenheterna    får kvaliteterna   av att vara          angöringsplatsen     på  gården.
-hörnlägenheter     med   utsikt åt  tre v äderstreck.
-I direkt  anslutning   till tomten   rinner  ett  vattendrag    som   idag
-Vid gestaltningen     av byggnaderna                                                omges   av  träd och  tätvuxet  buskage.    Både  växtlighet   och  närhet
-har fokus   varit att ge lägenheterna                                               till vatten  medför     stora   boendekvaliteter      och   vattendraget
-fina  utblickar,    i  huvudsak     mot                                             och  dess   omgivning     ses  som    en  stor  tillgång.  Som   ett  led  i
-grönskan,      och     att    optimera                                              utvecklingen     av  tomten    tillgängliggörs    vattendraget     för  att
-solinfall både  in i lägenheterna    och                                            kunna   erbjuda   de  boende   naturnära    platser  i direkt  anslutning
-på  bostadsgårdarna      för  att skapa                                             till byggnaderna.
+
+Förslaget    presenterar    en   ny  användning     för  den   tomt   invid
+
+Forsgläntevägen       där   det    idag   ligger   en   parkeringsplats.
+Förslaget   innebär  att parkeringsplatserna      flyttas till andra sidan
+
+gatan   och   placeras    i anslutning   till Forsgläntans     idrottshall.
+
+Här  etableras   även   en  ny  drop  off-zon  för  elever  till skolorna  i
+området    och  till idrottshallen.
+
+I  gestaltningen     av   platsen    har   tre  huslameller     placerats
+på   tomten,   vilka  storleksmässigt      möjliggör    gårdsrum      i bra
+
+storlek.  Byggnaderna     utgörs   av bostadslägenheter       orienterade
+
+runt  invändiga    trapphus    med    entréer   från  bostadsgårdarna.
+Lamellerna    är  i huvudsak    orienterade    med   gavlarna   vinkelrätt
+
+mot   gatan,  men   för att  undvika   direkt  insyn  mellan   lägenheter
+
+runt samma     gård,  har mittenlamellen     vridits något   gentemot    de
+övriga  två. Att husen   sinsemellan    har  olika vridning  bidrar  till att
+
+skapa   intressantare    gårdsrum     mellan   husen,   vilket ytterligare
+
+förstärks   genom     att  varje  lamell   är uppdelad     i två  volymer
+som   både   har  förskjutits  i sidled samt   varierar  i byggnadshöjd
+
+i förhållande    till varandra.    Livförskjutningarna      och   de  olika
+
+hushöjderna      gör  att  även    de  invändiga    boendekvaliteterna
+
+förbättras,  då  de flesta  lägenheterna    får kvaliteterna   av  att vara
+hörnlägenheter     med   utsikt  åt tre v äderstreck.
+
+Vid  gestaltningen    av  byggnaderna
+
+har  fokus  varit att ge  lägenheterna
+
+fina   utblickar,   i  huvudsak      mot
+
+grönskan,       och     att    optimera
+solinfall både   in i lägenheterna   och
+
+på  bostadsgårdarna       för att skapa
+
 goda    boendemiljöer       både    inne
-och  ute. Ambitionen     har även   varit                                           Även   gestaltningen     av  gårdarna     mellan   husen    tar  avstamp
-att anpassa    de  nya  byggnadernas                                                i naturen   vid vattendraget     och  gårdsrummen       tillåts vara   mer
-höjd   så  att   de  ansluter    väl  till                                          fria i sin  gestaltning    och  växtlighet   närmast     bäcken,   för  att
-befintlig  bebyggelse      på   platsen.                                            sedan    successivt     stramas     upp    med    häckar,    planteringar           Träfasad
-Därav    har    höjden     på   del   av                                            och  stenläggningar     ju  längre  upp   mellan   husen    och  närmare            och         Fasad-
-byggnaden      i öster   satts   till två                     Konceptskiss          parkeringen    man   kommer.                                                        plåttak     och  takfärg                              Gestaltningsreferens
+och  ute.  Ambitionen    har  även  varit
+
+att anpassa    de  nya   byggnadernas
+
+höjd   så   att  de   ansluter   väl   till
+befintlig   bebyggelse     på   platsen.
+
+Därav     har   höjden     på    del   av
+
+byggnaden      i öster   satts   till två
+Konceptskiss
+
+våningar   för  att  på  så  sätt möta    höjden   på  den   intilliggande
+
+Forsgläntans     förskola    och  anknyta     till dess  intimare    skala.
+Gavlarna     på  de   byggnaderna       som    istället  ligger   närmare
+
+idrottshallen    och    parkeringen     tillåts  sträcka    på   sig   upp
+
+till fyra  respektive    fem    våningar,   en   skala   och   höjd   som
+efterfrågas    från  kommunen      i den  fördjupade     översiktsplanen
+
+för Kungsbacka      stad.  Att  den   nya  bebyggelsen     på  tomten    på
+
+detta  sätt  bryts  upp  både   i sidled och  i höjd  skapar   en  silhuett
+
+som   signalerar    småskalighet     och  knyter   an  till befintlig villa-
+och  småhusbebyggelse        i närområdet     med   volymer   i olika höjd
+
+och  med   olika  orientering.
+
+I husen   planeras   för  lägenheter    med   varierande    storlekar  och
+
+boendeformer      -  från  1:or för  studenter    eller unga    vuxna,   till
+
+4:or och   5:or för olika  former   av  kollektivboenden     eller för den
+större  familjen,   med   god   tillgång  till barnomsorg     och  skola   i
+
+det  direkta  närområdet.    Alla  lägenheter   har  tillgång  till balkong
+
+eller uteplats    och  i den   lägre  volymen     åt öster   planeras   för
+bostäder    med    särskild   service   (BmSS)    med    en  egen,   privat
+
+trädgård   i öppet   och   soligt  sydostläge    samt   egen   entré   från
+
+angöringsplatsen      på gården.
+
+I direkt  anslutning    till tomten  rinner   ett vattendrag    som    idag
+
+omges    av träd och  tätvuxet   buskage.   Både   växtlighet  och  närhet
+till vatten   medför    stora   boendekvaliteter      och   vattendraget
+
+och   dess   omgivning    ses   som   en  stor  tillgång.  Som    ett led  i
+
+utvecklingen     av  tomten    tillgängliggörs    vattendraget     för  att
+kunna   erbjuda   de  boende    naturnära   platser   i direkt anslutning
+
+till byggnaderna.
+
+Även   gestaltningen     av   gårdarna    mellan    husen   tar  avstamp
+
+i naturen   vid  vattendraget    och   gårdsrummen       tillåts vara  mer
+
+fria i sin  gestaltning    och   växtlighet   närmast    bäcken,    för att
+sedan    successivt     stramas     upp    med    häckar,    planteringar
+
+och   stenläggningar     ju längre   upp  mellan    husen   och   närmare
+
+parkeringen    man   kommer.
+
+För  att sedan  avgränsa    tomten   och  bostadsgårdarna      mot   gatan
+
+planeras    för  låga   carportbyggnader       längs   Forsgläntevägen,
+där  växter  tillåts att klättra  längs  de  spaljéklädda    sidorna   och
+
+där  mellanrummen       mellan   carportarna     skapar   siktlinjer in  på
+
+gårdarna    och  vidare  mot  grönskan.
+
+Husens    fasader    och   tak  ges  en   enhetlig   kulör, en   mild  och
+
+behaglig    grön   färg  där  fasadernas     träpanel    med    sin  matta
+struktur   kontrasterar    mot   plåttakets    blankare    yta.  Vid  varje
+
+trapphus    tillåts plåttaket böja  ner  över  fasaden   som    en rundad
+
+takfot  och   löpa   i hela  husets    höjd  för  att avslutas    som   ett
+rundat   skärmtak    över  trapphusentréerna.      Den  rundade    formen
+
+är ett genomgående       detaljelement     i projektet  och  återkommer
+
+till exempel   även  i de rundade    balkongerna.    På  vindsplan    finns
+
+utrymme      för  växthus/vinterträdgårdar/gemensamhetslokaler
+och    på    gårdarna      planeras     för   odlingsmöjligheter       och
+
+gemensamma         utemiljöer,   vilka  alla är  viktiga  för  att  främja
+
+både   den  sociala  och   den  ekologiska   hållbarheten.
+
+Träfasad
+och          Fasad-
+
+plåttak      och takfärg                              Gestaltningsreferens
+
+15 / 19
+
+© Semrén & Månsson 2022
 
 <!-- sida 43 -->
 
 Semrén & Månsson Brandbook / Version 2021:1
 
 16  / 19
-2202
-nossnåM
-&
-nérmeS
-©
+
+© Semrén & Månsson 2022
 
 <!-- sida 44 -->
 
 Semrén & Månsson Brandbook / Version 2021:1
 
-1202
-
-nossnåM
-
-&
-nérmeS
-
-©
-
 17  / 19
 
+© Semrén & Månsson 2021
+
 <!-- sida 45 -->
+
+Illustrationsplan
+
+FÖRSLAG             BTA
+
+bostäder:           5132   m2
+
+\- varav  BmSS:      720  m2
+
+vind:               924  m2
+
+cykelförråd:        83  m2
+postrum:            32  m2
+
+Miljörum:           60  m2
+
+LÄGENHETER        (exempel)
+
+1or:      19st
+
+2or:      17st
+
+3or:      19st
+Totalt:    55st
+
+BmSS:     8 lgh
+
+Totalt  antal boende:   118st.
+
+Bortagna    P-platser:             75  st
+
+Nya   P-platser  på  tomten:       37  st (min=32)
+
+Nya   P-platser  vid idrottshall:  74  st
 
 N
 
@@ -1579,29 +2156,8 @@ SKALA 1:1000 (för
 0        25       50 m
 
 18  / 19
-2202
-nossnåM
-&
-nérmeS
-©
-Illustrationsplan
-FÖRSLAG             BTA
-bostäder:           5132   m2
-\- varav  BmSS:      720  m2
-vind:               924  m2
-cykelförråd:        83  m2
-postrum:            32  m2
-Miljörum:           60  m2
-LÄGENHETER        (exempel)
-1or:      19st
-2or:      17st
-3or:      19st
-Totalt:    55st
-BmSS:     8 lgh
-Totalt  antal boende:   118st.
-Bortagna    P-platser:             75  st
-Nya   P-platser  på  tomten:       37  st (min=32)
-Nya   P-platser  vid idrottshall:  74  st
+
+© Semrén & Månsson 2022
 
 <!-- sida 46 -->
 
@@ -2047,16 +2603,12 @@ för Kungsbacka kommun för Fastigheten Banca 11 AB
 Lisa Andersson
 Kommunstyrelsens ordförande
 
-|| AN "0
 I VYVYNY VNLEG AY
 WIN 7 OUlSTOY)
 
 Malin Aronsson Namnförtydligande
 
 Kommundirektör
-
-fa TRP SS SÅ ss SL JR
-fr BIUSM SSA (SOJA
 
 Namnförtydligande
 
@@ -2362,7 +2914,6 @@ Jan Bengtsson
 
 Namnförtydligande j
 Lisa Andersson
-Underskrift.
 
 Näran örtydligande
 häs Hillhammar
@@ -2803,12 +3354,8 @@ Redogörelse av ärendet
 Ansökan kom 2022-02-24.
 
 Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
-12-60-2202
-–
-341200-2202
-D
-–
-volggyB
+
+Bygglov – D 2022-002143 – 2022-06-21
 
 <!-- sida 74 -->
 
@@ -3448,10 +3995,21 @@ Sign
 
 Kartbilaga 1
 
+Skala 12000 I A1, 1:4000 HAI
+oo 20 40 6 8 100 200m
+
+Västkus anan
+
+ärder
+
+fastighetsägarna
+
 PLANBESTÄMMELSER
+
 Följande gäller inom områden med
 
 Endast angiven användning och utformning är tillåten.
+
 Bestämmelser utan beteckning gäller inom hela området.
 
 GRÄNSER
@@ -3461,26 +4019,35 @@ GRÄNSER
 ANVÄNDNING AV MARK OCH VATTEN
 
 Allmänna platser
+
 IIGATA Lokaltrafik
 
 HINATURIII  Naturområde
+
 GCVÄG = Gång och cykelväg
 
 UTFORMNING AV ALLMÄNNA PLATSER
+
 Vegetationsbestämmelser
+
 D D ska finnas.
 
 UTNYTTJANDEGRADIFASTIGHETSINDELNING
+
 e40 Största byggnadsarea i procent av
+
 fastighetsarea
 
 BEGRÄNSNINGAR AV MARKENS BEBYGGANDE
 
 [EE Byggnad får inte uppföras
+
 U Marken ska vara tillgänglig för allmännyttig
+
 lufttedning
 
 u Marken ska vara tillgänglig för allmännyttiga
+
 underjordiska ledningar
 
 MARKENS ANORDNANDE
@@ -3492,37 +4059,51 @@ Mark och
 m Plantering ska utföras
 
 ej parkering Parkeringsplats får inte finnas
+
 Utfart och stängsel
 
 Fe---e--— LL med
 
 PLACERING, UTFORMNING, UTFÖRANDE
+
 Utformning och omfattning
+
 <> Högsta nockhöjd i meter
 
 Byggnadsteknik
 
 b Fasad och övrigt material inom 50 meter
+
 från luftledningarna får inte utformas i
+
 brännbart eller ledande material.
 
 SKYDD MOT STÖRNINGAR
 
 m Åtg krävs, från där
+
 byggnader uppförs som människor
+
 stadigvarande vistas i och de
+
 elekromagnetiska fälten från ledningarna
+
 överstiger 0,2 uT
 
 Luftintag och entréer ska placeras så långt från västkustbanan
+
 som möjligt.
 
 Området 60 meter från västkustbanan ska utformas för att
+
 minska konsekvenserna av en olycka. Inom 60 meter från
+
 Västkustbanan ska man förhindra att vätska rinner in på
+
 området genom barriär eller dike. Inom 60 meter från
 
 tb ska sid ådet längs ji på ett
+
 sätt som begränsar konsekvenserna av att utspårat tåg
 
 ADMINISTRATIVA BESTÄMMELSER
@@ -3530,6 +4111,7 @@ ADMINISTRATIVA BESTÄMMELSER
 Genomförandetid
 
 Genomförandetiden är 15 år från den dag planen vinner laga
+
 kraft
 
 'Genomförandetiden slutar 2031-11-11
@@ -5382,6 +5964,7 @@ kollektivtrafikresorna och för cirka sju procent av cykelresorna (Trafikverket,
 Arbets-, tjänste- Service och inköp, Fritid, N=902 Annat ärende, Samtliga resor,
 och skolresor, N=606              N=119     N=4228
 N=2550
+Till fots Cykel Kollektiva färdsätt Bil Övriga färdsätt Uppgift saknas
 Figur 2. Fördelning av huvudsakligt färdsätt (huvudresor) per ärende för år 2019. N anger antal
 miljoner huvudresor för hela året. Källa: Egen bearbetning av data från ”Resvanor i Sverige 2019”
 (Trafikanalys, 2020).
@@ -5405,8 +5988,8 @@ förekom inga signifikanta skillnader under motsvarande tidsperiod (Trafikanalys
 återkommer till cykling i olika åldrar i avsnitt 7.4
 
 20                                                   VTI publikation
-lednA
-Till fots Cykel Kollektiva färdsätt Bil Övriga färdsätt Uppgift saknas
+
+Andel
 
 <!-- sida 130 -->
 
@@ -6633,6 +7216,8 @@ VTI publikation                                              43
 Upp till 3 km, Upp till 5 km, Upp till 10 km, Upp till 15 km, Alla resor
 N=1123  N=1590   N=2330   N=2698 oavsett längd,
 4223
+Till fots      Cykel         Annat färdsätt
+Kollektivt     Bilförare     Bilpassagerare
 Figur 5. Fördelning av huvudresor efter huvudsakligt färdsätt och huvudresans längd på upp till 3, 5,
 10 och 15 kilometer eller kortare samt alla resor oavsett längd för år 2019. I Figur 9, i bilaga 4,
 presenteras fördelningen per längdklass. Källa: Egen bearbetning av data från ”Resvanor i Sverige
@@ -6664,9 +7249,8 @@ regioner, som representerar 70 procent av Sveriges befolkning, har studerat pote
 inom deras geografiska område. I potentialstudierna analyseras vilken färdväg som är den snabbaste
 för respektive individ och hur lång tid det tar att cykla bland annat med avseende på reshastighet och
 44                                                   VTI publikation
-lednA
-Till fots      Cykel         Annat färdsätt
-Kollektivt     Bilförare     Bilpassagerare
+
+Andel
 
 <!-- sida 154 -->
 
@@ -6865,6 +7449,7 @@ persontransportarbetet med cykel eftersom de cyklar längre sträckor (Trafikana
 
 0
 7-14 år   15-24 år   25-64 år   65-74 år
+1995-1998 1999-2001 2005/06 2011-2014
 
 Figur 6. Andel personer som cyklat under mätdagen, i olika åldersgrupper, enligt i de nationella
 resvaneundersökningarna Riks-RVU 1995–1998, RES 1999–2001, RES 0506 och RVU Sverige 2011–
@@ -6896,8 +7481,8 @@ resvaneundersökningen inte är densamma.
 olika-grupper/barn-och-unga/utveckling-av-barns-och-ungas-halsa/
 
 48                                                   VTI publikation
-tnecorp
-1995-1998 1999-2001 2005/06 2011-2014
+
+procent
 
 <!-- sida 158 -->
 
@@ -6929,6 +7514,8 @@ procent.
 
 0
 ≤1    ≤2     ≤3    ≤4     ≤5    ≤10   >10
+Avstånd (km)
+Närmaste kommunala skolan Annan kommunal skola Friskola
 
 Figur 7. Avstånd till skolan beroende på skolval. Källa: Egen bearbetning av data från Trafikverkets
 undersökning ”Barns skolvägar” (2021b).
@@ -6953,10 +7540,8 @@ och 23 procent åkte kollektivt. I tre procent av huvudresorna angavs ”annat h
 exempelvis taxi eller färdtjänst.
 
 VTI publikation                                              49
-)%(
-lednA
-Avstånd (km)
-Närmaste kommunala skolan Annan kommunal skola Friskola
+
+Andel (%)
 
 <!-- sida 159 -->
 
@@ -9151,14 +9736,15 @@ Bilaga 3 Extramaterial
 310 %%%
 0-3 km,  3<-5 km, 5<-10 km, 10<-15 km, 15- km, N=1525
 N=1123    N=468     N=740    N=368
+Till fots      Cykel          Annat färdsätt
+Kollektivt     Bilförare      Bilpassagerare
 Figur 9. Fördelning av huvudresor efter huvudsakligt färdsätt och huvudresans längd år 2019. N
 betecknar antal miljoner huvudresor för hela 2019. Egen bearbetning av data från ”Resvanor i
 Sverige 2019” (Trafikanalys, 2020).
 
 VTI publikation                                              93
-lednA
-Till fots      Cykel          Annat färdsätt
-Kollektivt     Bilförare      Bilpassagerare
+
+Andel
 
 <!-- sida 203 -->
 
@@ -20834,8 +21420,6 @@ Kungsbacka kommuns samtliga verksamhetsområden samt att
 det är ett krav vid nyanställning.
 
 <!-- sida 526 -->
-
-. SÅ I. Jat Sd Dl n |
 
 yrkar därför:
 

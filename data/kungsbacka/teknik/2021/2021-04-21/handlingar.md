@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319201420id_/https://www.kungsbacka.
 sha256: e96f188ff9205c0bac1c63e84f657f7b98d3128d48585eaca66ad2df90560b29
 bytes: 18940041
 sidor: 148
-hamtad: 2026-10-31T08:22:39+00:00
-konverterad: 2026-10-31T08:25:23+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T04:09:38+00:00
+konverterad: 2026-11-17T04:13:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker]
@@ -1881,7 +1881,6 @@ neberg Kungsbacka SärökjärasÄsabrillesåsOnsala Kullavik Vallda Anneberg Kun
 Kungsbacka
 
 Sida 24/28
-Tilläggsavgift för varje kubikmeter slam utöver 4 kbm
 På aviserad tid av Inom fem valda dagar Inom valt dygn På specifik tumme
 entreprenör
 244 507 507 507
@@ -2008,7 +2007,6 @@ vid hyra
 Helårsabonnemang gäller för verksamheter, flerbostadshus och
 samfällighetsföreningar.
 I priserna ingår en grundavgift på 1 723 kr.
-Hämtni deriordsbel åll
 Varje vecka 22 094
 Tömning <2 kbm Matavfall
 Varannan vecka 11 047
@@ -3064,11 +3062,8 @@ Justerare                         Expedierat/bestyrkt
 TJÄNSTESKRIVELSE
 
 Datum
-
 2021-04-07
 oo
-
-TE 2021-00180 Kungsbacka
 
 Bredbandstaxa 2022
 
@@ -3095,9 +3090,9 @@ effektivare sätt. Föreslagna avgifter för Monofiber:
 
 Monofiber
 
-2 mån |24 mån B6 mån 8 mån 0 mån b60mån
+2 mån |24 mån B6 mån 48 mån 0 mån b60mån
 Månadsavgift upp till SOOm 11800 kr 11650 kr 11500 kr 1425 kr 1350 kr Pffert
-Månadsavgift, påbörjade ytterligare S0Om H80kr MH40kr HOOkr B8Okr B60 kr
+Månadsavgift, påbörjade ytterligare S0Om H80Okr MH40kr HOOkr B8Okr B60 kr
 Priser angivna exkl. moms.
 
 Engångsavgift monofiber
@@ -3340,7 +3335,6 @@ c = 4. = HA IH 2 2
 = <
 T KOMMUNIKATIONS-
 Aktivt > OPERATÖR
-oi
 Kungsbacka
 
 Figur 1 Affärsmodell för det öppna nätet
@@ -3975,6 +3969,42 @@ Riktlinjer för foodt rucks och matvagnar Sida 4 av 4
 
 <!-- sida 93 -->
 
+Villkor foodtrucks och matvagnar                                  1 (3)
+
+Kungsbacka kommun utfärdar totalt max åtta tillstånd för foodtrucks och matvagnar
+under samma period, varav max fyra tillstånd för icke självförsörjande fordon. Datum
+
+2021-04-06
+Tillståndet gäller vid mån av plats på 8 platser runt om i Kungsbacka stad,
+kommunen garanterar inte platstillgången. Beroende på antalet utfärdade tillstånd
+varierar antalet uppställningsplatser på resp geografiskt område, minst 4, max 8 Dnr
+platser finns till förfogande. Karta finns på www.kungsbacka.se/foodtruck, platserna
+2021-00204
+kan variera från säsong till säsong.
+Tillståndets giltighet
+
+Tillståndet är giltigt för uppställning under hel dag
+
+Giltighetstid alt A: Tillståndet gäller under en månad
+
+Giltighetstid alt B: Tillståndet gäller under hel säsong
+
+Tillståndet är giltigt för uppställning på angivna platser i mån av plats. Sökande
+erhåller ett digitalt tillstånd. Tillståndet ger i övrigt inte rätt att bryta mot gällande
+trafik- och parkeringsregler. Om det finns behov av att uppställa/parkera eller
+framföra fordon på platser eller tider utöver vad som ovan anges ska en
+
+dispensansökan skickas in till (e-post borttagen) senast tre veckor i förväg. För
+att ansökan ska behandlas ska sökande bifoga registerutdrag från Skatteverket F-
+skattesedel samt registreringsnummer på fordonet. Innan verksamheten påbörjas ska
+företaget vara registrerat som livsmedelsanläggning.
+
+Säsongen för foodtrucks
+
+Tillståndet är tidsbegränsat och gäller en säsong under perioden 1 april till och med
+31 oktober. Övrig tid kan tillstånd ges enligt överenskommelse men med begränsat
+antal platser till förfogande.
+
 Teknik                                                       Kungsbacka kommun
 Planering Trafik & Park                                            Teknik
 Charlotta Ljungkull                                           434 81 Kungsbacka
@@ -3986,35 +4016,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 49 21
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0002BUK
-Villkor foodtrucks och matvagnar                                  1 (3)
-Kungsbacka kommun utfärdar totalt max åtta tillstånd för foodtrucks och matvagnar
-under samma period, varav max fyra tillstånd för icke självförsörjande fordon. Datum
-2021-04-06
-Tillståndet gäller vid mån av plats på 8 platser runt om i Kungsbacka stad,
-kommunen garanterar inte platstillgången. Beroende på antalet utfärdade tillstånd
-varierar antalet uppställningsplatser på resp geografiskt område, minst 4, max 8 Dnr
-platser finns till förfogande. Karta finns på www.kungsbacka.se/foodtruck, platserna
-2021-00204
-kan variera från säsong till säsong.
-Tillståndets giltighet
-Tillståndet är giltigt för uppställning under hel dag
-Giltighetstid alt A: Tillståndet gäller under en månad
-Giltighetstid alt B: Tillståndet gäller under hel säsong
-Tillståndet är giltigt för uppställning på angivna platser i mån av plats. Sökande
-erhåller ett digitalt tillstånd. Tillståndet ger i övrigt inte rätt att bryta mot gällande
-trafik- och parkeringsregler. Om det finns behov av att uppställa/parkera eller
-framföra fordon på platser eller tider utöver vad som ovan anges ska en
-dispensansökan skickas in till (e-post borttagen) senast tre veckor i förväg. För
-att ansökan ska behandlas ska sökande bifoga registerutdrag från Skatteverket F-
-skattesedel samt registreringsnummer på fordonet. Innan verksamheten påbörjas ska
-företaget vara registrerat som livsmedelsanläggning.
-Säsongen för foodtrucks
-Tillståndet är tidsbegränsat och gäller en säsong under perioden 1 april till och med
-31 oktober. Övrig tid kan tillstånd ges enligt överenskommelse men med begränsat
-antal platser till förfogande.
+
+KUB2000, v2.0, 2012-05-23
 
 <!-- sida 94 -->
 
@@ -4697,7 +4700,7 @@ skolgårdar.
 Med ovanstående som bakgrund ser vi ett behov av att arbeta med ungdomars trafiksäkerhet i kommunen
 och har därför valt att prioritera detta i vårt medborgarlöfte för 2021-2022:
 
-e För att få en förbättrad trafiksituation gällande höga hastigheter och buskörningar lovar Kungsbacka
+oe För att få en förbättrad trafiksituation gällande höga hastigheter och buskörningar lovar Kungsbacka
 kommun och polisen att arbeta förebyggande genom att sprida information kring trafiksäkerhet med
 inriktning på ungdomar.
 
@@ -4968,31 +4971,42 @@ Prognos En bedömning av slutlig projektkostnad. Kan förändras och följs upp 
 Utfall Projektets faktiska upparbetade kostnader. En integration mot ekonomisystemet är under utveckling.
 
 Delegation gällande beslut om upphandling:
-e —- <0,5 mkr får verksamhetschef besluta.
-e Mellan 0,5-10 mkr får förvaltningschef besluta.
-e 210 mkr får TEAU besluta
+
+£0,5 mkr får verksamhetschef besluta.
+Mellan 0,5-10 mkr får förvaltningschef besluta.
+210 mkr får TEAU besluta
 
 Beskrivning av lägesrapport
 
 Våra projekt följs upp regelbundet av ansvarig projektledare uti från parametrarna; Tid, Kostnad, Omfattning, Bemanning och Risk.
 
-\>
+Tid
 
-d Kostnad Omfattning Bemanning Risk
+Alla
 
-e = enligt projektplan
-Alla 2] [Alla 2) TJAlla 2] [Alla : BEProRE
+\-
+\+
 
-\+ +
+Kostnad Omfattning Bemanning Risk
+
+Alla
+
+I KET IN
+
+Ö ani 5
+2] [Alla Ja] [Alla |A enligt projektplan
+
+\+ + +
 
 = avvikelser från projektplanen, hanterbara inom projektet
 
-= hinder eller större avvikelser från projektplanen, kräver åtgärder eller stöd utanför projektet
+Bl -= hinder eller större avvikelser från projektplanen, kräver åtgärder eller stöd utanför projektet
+
+fa
 
 reoeei
-09090
 
-I KET IN
+09090
 
 <!-- sida 114 -->
 
@@ -6305,8 +6319,6 @@ Teknik        Vård & Omsorg   Överförmyndarnämnden
 
 <!-- sida 146 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
-
 Kungsbacka
 
 Kommunstyrelsen
@@ -6347,6 +6359,8 @@ Fax 0300-83 47 04
 
 kommunrevision(ÅMkungsbacka.se
 www kungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 147 -->
 

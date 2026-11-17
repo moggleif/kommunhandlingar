@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220319233238id_/https://www.kungsbacka
 sha256: [7a094da7170f9ffe6ff4c4362b0537130e6aed0ada580256fed5715b16aea725, 6b9ce74970173d7086393a3577d1690f159fdde64a8b24dcf652f97ce5fc509c]
 bytes: [1431593, 1956029]
 sidor: 81
-hamtad: 2026-10-27T09:50:43+00:00
-konverterad: 2026-10-27T09:51:14+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:38:35+00:00
+konverterad: 2026-11-17T03:39:01+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr]
@@ -2654,8 +2654,6 @@ André Nilsson, bygglovshandläggare
 Christina Nordberg, controller förvaltning, § 3-
 4
 
-fp MM
-
 Kungsbacka kommun » 0300-83 40 00 « infoQakungsbacka.se « kungsbacka.se
 
 <!-- sida 77 -->
@@ -2724,8 +2722,6 @@ Förvaringsplats för
 protokollet
 
 Underskrift
-
-Fyr va,
 
 (| Mujesira Mesinovic
 

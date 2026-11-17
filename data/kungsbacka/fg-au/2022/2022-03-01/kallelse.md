@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190848id_/https://kungsbacka.se/d
 sha256: b859e94f91b1f6b7e167516c5cd89a2c61f129b4213a4f950ba1d9e1c0dfecd6
 bytes: 5110886
 sidor: 105
-hamtad: 2026-10-26T11:20:54+00:00
-konverterad: 2026-10-26T11:21:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:25:23+00:00
+konverterad: 2026-11-17T03:25:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok]
@@ -97,10 +97,10 @@ KUNGSBACKA  KOMMUN
 
 4(4)
 
-Ärende                Beteckning Förslag
+Ärende
 
-14\. Skolinspektionen begäran om 2022-00223 Arbetsutskottet beslutar att huvudmannens utredning
-yttrande gällande Kapareskolan  av ärendet överlämnas till Skolinspektionen
+14\. Skolinspektionen begäran om
+yttrande gällande Kapareskolan
 A-D - Samarbete med svenska
 kyrkan, dnr SI 2021:1103
 
@@ -108,8 +108,9 @@ Kl 11.15
 
 Frida Byrsten, verksamhetschef
 
-15\. Pågående Skolinspektions- och 2022-00007 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
+15\. Pågående Skolinspektions- och
+
+Barn och elevombudsärenden,
 inklusive ärenden som utreds
 inom Förskola & Grundskolas
 klagomålshantering 2022
@@ -118,28 +119,48 @@ Kl 11.25
 
 Frida Byrsten, verksamhetschef
 
-16\. Verksamhetsbesök fristående 2022-00271 Nämnden för Förskola och Grundskola beslutar att
-verksamheter 11 maj             genomföra verksamhetsbesök med fristående
-verksamheter 11 maj.
+16\. Verksamhetsbesök fristående
+verksamheter 11 maj
+
 Kl 11.35
 
 Ordförande
 
-17\. Organisation förskolor Furulid 2022-00264 Från 1 augusti 2022 bildar Halla förskola och
-Furulids förskola en gemensam förskoleenhet med
-Kl 11.45                        namnet Furulids förskola.
+17\. Organisation förskolor Furulid
+
+Kl 11.45
 
 Skolchef
 
-18\. Information - Förskola & 2022-00006 Nämnden för Förskola och Grundskola har tagit del
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+18\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
 
 Kl 11.55
 
-Anders Ekström                    Lars Sundbom
+Beteckning Förslag
 
-ordförande                        sekreterare
+2022-00223 Arbetsutskottet beslutar att huvudmannens utredning
+av ärendet överlämnas till Skolinspektionen
+
+2022-00007 Arbetsutskottet har tagit del av informationen och
+
+antecknar informationen i protokollet.
+
+2022-00271 Nämnden för Förskola och Grundskola beslutar att
+genomföra verksamhetsbesök med fristående
+verksamheter 11 maj.
+
+2022-00264 Från 1 augusti 2022 bildar Halla förskola och
+Furulids förskola en gemensam förskoleenhet med
+namnet Furulids förskola.
+
+2022-00006 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+Anders Ekström                   Lars Sundbom
+ordförande                       sekreterare
 
 <!-- sida 5 -->
 
@@ -409,7 +430,6 @@ SÄKERSTÄLLS
 
 <!-- sida 12 -->
 
-1
 TILLGÅNGEN     TILL OCH   KVALITETETEN     PÅ
 DEFINITION
 LÄROMEDEL     SÄKERSTÄLLS
@@ -456,10 +476,12 @@ form av utrustning av olika
 slag.
 Skolinspektionens definition.
 
+1
+
 <!-- sida 13 -->
 
-2
 OMVÄRLDSSPANING
+
 GÖTEBORG
 I Göteborg stad har politiken fattat beslut om extra tilldelning på 850
 kr per elev för läromedel av det överskott som blev resultat för
@@ -467,156 +489,209 @@ grundskolenämnden 2021. Bakgrunden är en debatt om att elever
 saknar tryckta läromedel och att lärare får bryta mot lagen genom att
 kopiera böcker. Enligt förvaltningen så avsätts 650 kr per elev och år
 till nya läromedel trots kraftigt höjd elevpeng de senaste åren.
+
 Förvaltningen fick också i uppdrag att se över den ekonomiska
 styrmodellen för att säkra tillgången till läromedel för att nå Finlands
 nivå.
+
 GP 2021-11-15
+
 LÄROMEDELSFÖRFATTARNA
 2020 så genomförde branchorganisationen Läromedelsförfattaren en enkät till rektorer och lärare.
 Enligt den undersökningen har var femte lärare, 18 procent, svarat att de inte kan köpa in ens de
 allra nödvändigaste läromedlen. Sex av tio lärare, 62 procent, svarar att de bara kan köpa in de
 nödvändigaste läromedlen. Endast 14 procent av lärarna svarar att de kan köpa in alla läromedel de
 behöver. 1
+
 SKOLINSPEKTIONEN, KVALITETSSÄKRING OCH VAL AV LÄROMEDEL
 Skolinspektionen genomförde en Tematiskt kvalitetsgranskning 2021 kring rektorers arbete med att
 leda arbetet med kvalitetssäkring och val av läromedel liksom med vilken kvalitet lärare
+
 kvalitetssäkrar och väljer läromedel2.
+
 Rapporten menar att det är lärarna som kvalitetssäkrar och väljer läromedel. Rektorerna styr dock
 detta arbete genom att ge förutsättningar för lärarna, exempelvis i form av tid, ekonomiska resurser,
 möjligheter att diskutera tillsammans och möjlighet till kompetensutveckling.
+
 De viktigaste slutsatserna
+
 \- Rektorerna styr sällan aktivt arbetet med kvalitetssäkring och val av läromedel
 \- Kvalitetssäkringen utifrån läroplanens värdegrund och forskning behöver stärkas
+
 På den stora majoriteten av de granskade skolorna bedömer Skolinspektionen att rektors styrning av
 arbetet med kvalitetssäkring och val av läromedel bör utvecklas.
+
 Detta blir särskilt angeläget då andelen obehöriga lärare riskerar att öka framöver. Genom att driva
 ett gemensamt arbete kring kvalitetssäkring och val av läromedel kan rektorn minska risken för att
 dessa processer blir personberoende, vilket i sin tur kan höja kvaliteten på undervisning och
+
 utbildningen och göra den mer likvärdig.
+
 I övrigt så finner Skolinspektionen att
+
 1 https://www.laromedelsforfattarna.se/globalassets/dokument/paverkan-opion/laromedelsrapport.pdf
+
 2 https://www.skolinspektionen.se/beslut-rapporter-
 statistik/publikationer/kvalitetsgranskning/2021/kvalitetssakring-och-val-av-laromedel/
 
+2
+
 <!-- sida 14 -->
 
-3
  Lärarna granskar läromedlens överensstämmelse med kursplanerna
  Granskningen av värdegrunden i läromedlet kan utvecklas
  Tryckta läromedel blir snabbt inaktuella
  Många upplever det svårt att hålla sig uppdaterade med forskning i ämnet
  Lärarna tar i hög utsträckning hänsyn till att läromedel kan anpassas efter elevers behov
+
 LÄROMEDELSUTREDNINGEN
+
 Gustav Fridolin fick 2019 uppdraget att leda Utredningen om
 stärkta skolbibliotek och läromedel (U 2019:04)3 som lämnade
 sitt betänkande i augusti 2021 och föreslår bland annat att:
+
 • Elevers rätt till läromedel ska skrivas in i skollagen och
 att begreppet läromedel ska definieras.
+
 • En ny bestämmelse införs i läroplanerna som klargör
 rektors ansvar för att ge lärare goda förutsättningar när det
 kommer till valet av läromedel.
+
 • En läromedelsnämnd med ett brett uppdrag ska
 inrättas vid Skolverket. Nämnden ska verka för att alla elever
+
 får tillgång till läromedel av god kvalitet och att lärare
 använder läromedel för att stärka elevernas
 kunskapsutveckling. Läromedelsnämnden ska också ta fram
 kvalitetskriterier för läromedel.
+
 • Ett statligt produktionsstöd ska fördelas inom områden där Läromedelsnämnden konstaterat
 att det råder brist, exempelvis inom modersmål, nationella minoritetsspråk och yrkesämnen.
+
 • Specialpedagogiska skolmyndigheten ska ges i uppdrag att utreda förutsättningarna för att
 främja innovation av läromedel för elever med funktionsnedsättningar.
+
 • Elever inom kommunal vuxenutbildning på grundläggande nivå ska få tillgång till läromedel
 utan kostnad.
+
 Utredningen har tagits emot med både positiv och negativ kritik inom några områden. Generellt sätt
+
 är remissinstanserna positiva till utredningen och anser att den är välgjord och att förslagen är bra.
+
 Den negativa kritiken har gällt bland annat att tryckta böcker anses har fått en särskild vikt i
 utredningen och digitala läromedel inte ses som en viktig och likvärdig kunskapskälla. Kritik har även
 riktats mot att den föreslagna läromedelsnämnden har fått samma namn som tidigare och att det kan
 ge en negativt påverkan till förtroendet för nämnden då den inte upplevdes som särskilt
 välfungerande tidigare. Läromedelsnämnden uppges också har fått för lite pengar för att publicera
 läromedel där det idag finns för lite lönsamhet för läromedelsförlagen. Lagändringarna som föreslås i
+
 skollagen och läroplaner anses inte få tillräcklig effekt för verksamhetens ökade ansvar av och
 användning av läromedel av hög kvalitet.
+
 3
 https://www.regeringen.se/4a37bb/contentassets/e13e110fdc30401f9bf4a6ee8fa160a7/laromedelsutredningen
 --bockernas-betydelse-och-elevernas-tillgang-till-kunskap-sou-202170
 
+3
+
 <!-- sida 15 -->
 
-4
 HUR   STOR  ANDEL   AV  ELEVPENGEN     ANVÄNDS    TILL
+
 LÄROMEDEL?
 Det är stora variationer, kring hur stor andel av elevpengen som används för inlöp4 bland Sveriges
 kommuner. Ett problem för Skolverket är att man inte kan samla in korrekta uppgifter eftersom
+
 definitionen på läromedel är bred och det finns inget krav på hur kostnaden ska redovisas.
+
 Läromedelsbarometer är statistik som Läromedelsförfattarna tar fram årligen. Utvecklingen av
 läromedelsinköp visar en svag nedåtgående trend åren 2015-2020. Den statistiken grundar sig dock
 på Läromedias statistik över försäljning av Läromedel som 270 av Sveriges 290 kommuner
 använder. Den statistiken blir missvisande eftersom kommunens inköp av läromedel innehåller fler
 poster än inköp från läromedelsförlag även om det inkluderar digitala läromedel. Den här
 undersökningen anger att Kungsbacka köper läromedel för 701 kr per elev och år medan vår egen
+
 undersökning visar på 1227 kr per elev och år för år 2020.
+
 Statistik5 för hela Sverige från läromedelsföretagen hämtad 20220-02-02, https://www.laromedelsforetagen.se/statistik/
+
 Med hjälp av ekonomerna Jenny Blom och Pernilla Walter på förvaltningen har vi tittat på hur
+
 kostnaden för läromedel på Förskola & Grundskola. Vi har summerat centrala och skolenheters
 kostnader. Vi har inte räknat med inköp av läromedel på skolbiblioteken. Redovisningen gäller åren
 2015-2021.
+
 Frågorna vi ställde oss var:
+
  Hur stor andel av elevpengen används till läromedel inom grundskolan åk F-9 per elev och
 år?
  Hur stor är kostnaden för läromedel inom grundskolan åk F-9 per elev och år?
  Hur fördelar sig kostnader för olika typer av kategorier?
  Hur har kopieringskostnader utvecklats?
+
 4 https://www.lararen.se/nyheter/laromedel/de-satsar-mest-pa-laromedel-stora-skillnader
 5 Statistiken baseras på Läromedias statistik över kommunala huvudmäns inköp av läromedel, SCB:s kommunala statistik
 över elevantal och invånares utbildningsståndpunkt samt Skolverkets redovisade siffror över de kommunala
 huvudmännens kostnader.
 
+4
+
 <!-- sida 16 -->
 
-5
 Vi har identifierat olika kategorier av kostnad utifrån Skolinspektionens definition av läromedel men
 har även tittat på kostnader för digitala verktyg eftersom det historiskt har tagits pengar från
 budgeten för läromedel för att finanseria inköp av digitala verktyg. En viss typ av läromedel
 tillgängliggörs av digitala verktyg såsom filmer, gratis material på Internet men även lärarnas
 egenproducerade material förutom digitala förlagsproducerade läromedel och appar avsedda för
 undervisningen.
+
 Kategorier
 1\. Trycka läromedel
+
 Tryckta förlagsproducerade läromedel som används i undervisning av elever åk F-9
 2\. Digitala läromedel
 Innefattar både centrala inköp och inköp som görs av skolorna direkt. De centrala digitala
 läromedel som finns i Kungsbacka är Inläsningstjänst (ljudböcker och kompensatoriska
 digitala hjälpmedel), Landguiden, National Encyklopedin (NE) och StavaRätt och Spellright.
+
 Övriga inköp görs av skolorna och avser både förlagsproducerade digitala läromedel och
 olika appar som används i undervisningen.
 3\. Digitala verktyg
 Digitala verktyg är inte ett läromedel men är en förutsättning för att vi ska kunna använda
 digitala läromedel. Vi har inte en likvärdig tillgång till personliga digitala verktyg för alla
 årskurser. Alla elever har en dator per elev i skolår 6-9 och sedan skiljer det sig mellan
+
 skolorna. Alla har minst ett verktyg per två elever i skolår F-5. Digitala verktyg omfattar inköp
 eller leasingkostnad för Ipad, dator, projektorer och interaktiva skärmar.
 4\. Kopiering.
 5\. Utbildningsmaterial Innefattar kostnader för STIM, pennor, papper, slöjdmaterial mm
+
 Följande beslut har påverkat utfall och budget.
+
  2016 Beslut man att man skulle utöka med datorer 1-1 för ytterligare en årskurs 6. (Från 7-9
 till 6-9)
  2016 Vi gick från att leasa våra datorer till att köpa in alla verktyg.
  2020 Budgetbeslut om att leasa verktyg men sedan blev det inte verkställt utan inköps
+
 gjordes.
+
+5
 
 <!-- sida 17 -->
 
-6
 Figur 1. Hur stor andel av elevpengen används till läromedel (tryckta och digitala) inom
 grundskolan åk F-9? (Kungsbacka)
+
 Figur 2 Hur stor är kostnaden för läromedel inom grundskolan åk F-9? (Kungsbacka)
+
+6
 
 <!-- sida 18 -->
 
-7
 Figur 3 Hur stor är andelen för olika kategorier av den totala kostnaden per år? (Kungsbacka)
+
 År      Digitala läromedel Digitala verktyg Kopiering Tryckta böcker Övrigt material Totalsumma
+
 2 015         1 802 788 16 179 726 597 387 7 688 208 3 099 538 29 367 648
 2 016          856 070  26 514 539 2 108 564 9 210 717 3 699 248 42 389 137
 2 017         2 424 693 23 329 622 2 741 232 8 202 512 3 439 684 40 137 743
@@ -625,22 +700,31 @@ Figur 3 Hur stor är andelen för olika kategorier av den totala kostnaden per �
 2 020         2 631 861  7 925 590 2 939 618 10 527 766 4 600 577 28 625 411
 2 021         3 032 448 11 964 804 2 717 815 9 751 797 3 748 006 31 214 871
 Totalsumma   15 611 511 115 734 189 16 711 346 64 656 340 27 679 641 240 393 026
+
 Figur 4 Hur har kopieringskostnader utvecklats? (Kungsbacka)
+
 De regler som gäller för kopiering av läromedel regleras i Skolkopieringsavtalet. (Skolverket6)
+
 6 https://www.skolverket.se/skolutveckling/inspiration-och-stod-i-arbetet/stod-i-arbetet/upphovsratten-for-texter-
 i-skolan
 
+7
+
 <!-- sida 19 -->
 
-8
 TILLGÅNG    TILL OCH   KVALITET   AV  LÄROMEDEL
+
 \- RESULTAT   AV  ENKÄT
 Vi har genomfört en enkät till förstelärare i Kungsbacka kommun på grundskolan med utskick till 128 och
 fått 60 svar.
+
 Vi önskade få information om hur tillgången till förlagsproducerade läromedel (både analoga och
+
 digitala) och kvaliteten på dessa läromedel upplevs av de som arbetar som lärare. Förstelärare svarade för
 kollegiet på sin skola under vecka 4 och 5 2022. Förstelärarna valdes ut som grupp eftersom de är väl
 insatta i läroplanen och kursplaner och ha en mer generell bild av skolan.
+
+8
 
 <!-- sida 20 -->
 
@@ -648,129 +732,170 @@ insatta i läroplanen och kursplaner och ha en mer generell bild av skolan.
 
 <!-- sida 21 -->
 
-10
 ANALYS
+
 SJUNKER ANDEL AV ELEVPENGEN SOM GÅR TILL LÄROMEDEL I KUNGSBACKA?
+
 Resultaten i figur 1 visar att andelen av elevpengen som går till läromedel har varit stabil de senaste
 6 åren, de varierar mellan 2-2,2%. Trenden är svagt ökande.
+
 Det är en relativt stor andel av elevpengen som används till läromedel i Kungsbacka i jämförelse
 med vad branschorganisationen Läromedelsförfattarna anger för snittet i Sverige, som har varierat
 mellan är 0,64% - 0,75%. Dessutom så stämmer inte jämförelse. Det är inte säkerställt i underlaget
 vad som är ett läromedel i Läromedias statistik och kommunen har i många fall högre kostnader för
 läromedel än de inköp som görs via förlag. I vår egen utredning har vi utgått från Skolinspektionens
+
 definition och tittar på alla kostnader och får därmed en högre kostnad på över 500 kr per elev och
 år än vad som anges i Läromedelsförfattarna undersökning. Se figur 2. 2021 var vår kostnad per
 elev för tryckta läromedel 970 kr.
+
 För att vi ska vara säkra på vad kostnaden avser behöver vi utveckla vår ekonomiska redovisning
 och tydliggöra hur budget och uppföljning ska göras av läromedel. Vi ser väldigt tydligt att budget
 och utfall skiljer sig åt, utfallet är mycket högre än budgeterad kostnad vilket kan vara kopplat till
 detta.
+
 Figur 3 visar att kostnadsandelen som används för att köpa in digitala verktyg (Ipads, PC) i
 förhållande till läromedel, annat utbildningsmaterial och kopiering har varierat över tid. Digitala
+
 verktyg var en större andel av kostnaden mellan åren 2015-2018. Digitala läromedel har ökat från
 2017\. Digitala läromedel är fortfarande en mindre andel, ca 24%, av inköp som dominiernas av
 tryckta läromedel, 15,6 milj kontra 64,6 milj totalt över de 6 åren.
+
 Tabellen visar tydligt att vi har lagt mer pengar på att kopiera än på att köpa in digitala läromedel de
 senaste 6 åren 15,6 kontra 16,7. Enligt figur 4 har förvaltningen haft en ökad kostnad för kopiering
 under den senaste 5 års perioden trots en pandemi med en ökad andel fjärr- och
 distansundervisning med digitala verktyg. Här behöver ytterligare utredningar göras.
+
 HAR LÄRARE TILLGÅNG TILL DE LÄROMEDEL DE BEHÖVER?
+
 En stor andel av förstelärarna (92%) anger att de har tillgång till de läromedel de behöver för att nå
 målen med undervisningen (5,4,3 hög grad = 5) samtidigt som 22% av förstelärarna inte upplever att
+
 man kan köpa in nödvändiga läromedel. Det innebär att lärare på olika sätt kompenserar för detta.
 En möjlig väg för lärare är att återanvända läromedel mellan olika klasser, kopiera upp tryckta
 läromedel, producera eget läromedel eller använda läromedel som är fritt.
+
 Utredningen visar inte på vilket sätt förstelärarna upplever att man kompenserar för att få tillgång till
 läromedel. Ytterligare en intressant vinkling vore att ta reda på vad elever tycker om tillgången och
 kvaliteten på läromedel.
+
 Vilka processer har vi på plats för att säkra tillgången till läromedel?
 Varje enhet budgeterar för inköp av läromedel.
+
 Vilka processer har vi på plats för att säkra kvaliteten på läromedel?
 Enkäten visar att flertalet skolor granskar kvaliteten på läromedel tillsammans i en grupp vilket är det
+
 sätt som Skolinspektionen förordar. Det borgar för att utveckla kompetens tillsammans på skolan.
+
+10
 
 <!-- sida 22 -->
 
-11
 Sedan vårterminen 2021 så finns det också möjlighet att arbeta tillsammans över skolgränserna i
 gemensamma den digitala plattformen Teams i något som förvaltningen benämner ÄmnesTeams.
+
 Skolinspektionen trycker på att kompetens att bedöma kvaliteter hos ett läromedel ska göras av
 lärare i kollegiet och att det kan vara en stor hjälp för lärare som inte har full behörighet i ett ämne.
 En god tillgång till högkvalitativa läromedel kan vara en viss kompensation när vi inte har utbildad
 personal på plats i verksamheten.
+
 DISKUSSION
+
 Definitionen av läromedel har vidgats under senaste 15 åren. Ett läromedel är inte längre bara
 tryckta böcker utan kan vara egenproducerat digitalt material, youtube-klipp, flippade föreläsningar,
 filmer, gratisappar, program, digitala läromedel eller källor på Internet med mera. Vilket läromedel en
+
 lärare använder varierar efter syftet med undervisningen och lärarens kompetens om läromedel för
 just det undervisningsmomentet. För att säkerställa tillgången till och kvaliteten på läromedel så
 behöver frågan granskas ur flera perspektiv.
+
 Lärares kompetens och förmåga att bedöma ett läromedels kvalitet är betydelsefull för en
 undervisning med hög kvalitet. Stämmer fakta i läromedlet, är läromedlet stödjande för elever som
 har behov av kompensatoriskt stöd, hur arbetar man i ett digitalt läromedel, hur kan man variera
 undervisningen och öka motivationen genom att använda olika typer av läromedel? Att arbeta
+
 kollegialt för att utveckla en kollektiv kunskap om läromedels kvaliteter är en utvecklande och kreativ
 del av läraryrket. Enligt enkäten genomförd av förstelärare i Kungsbacka finns det en bra grogrund
 för många att arbeta kollegialt. Att ta fram ett stöd för att utveckla arbetssättet med att
 kvalitetsgranska läromedel enligt Skolinspektionens rekommendation och utnyttja våra
 ÄmnesTeams i ännu högre grad skulle göra att fler fick stöd och högre kompetens att bedöma ett
 läromedels kvalitet.
+
 På förvaltningen finns inte en likvärdig tillgång till digitala verktyg och det finns också skillnader i
 tillgången till läromedel. För de elever som inte har stödet hemma blir ett läromedel en viktig
+
 kompensation. Om skolor inte erbjuder det på ett likvärdigt sätt så misslyckas kommunen med det
 kompensatoriska uppdraget. Här saknas ett gemensamt mål på förvaltningen kring hur tillgången
 och kvaliteten på läromedel ska se ut. Frirummet och tilliten för lärare att själva bestämma detta är
 viktigt för att anpassningen ska göras utifrån just den elevgruppens behov. Samtidigt så anser 22%
 av förstelärare att de inte ens har möjlighet att köpa in det nödvändigaste läromedlet. Förutsättningar
 för en likvärdig skola finns därmed inte på plats. En förändrad målbild och förändrad ekonomisk
+
 styrning skulle kunna få betydelse för att elever ska få en likvärdig tillgång till läromedel av hög
 kvalitet efter sina behov.
+
 Det finns en risk för att tillgången till kvalitativa läromedel som är anpassade efter läroplanen
 minskar efter sommaren eftersom nya kursplaner börjar gälla from 2022-07-01 och tidigare
 läromedel därmed inte är anpassade efter de nya kursplanerna. Hur stor den risken är i praktiken är
 svår att säga i och med vi inte vet i hur stor utsträckning de nya läromedel har förändrats. Förlagen
 använder den argumentationen för att öka sin försäljning. Men hur risken ser ut i praktiken
+
 Läromedelsutredningen kommer, om den blir beslutad, att öka ansvar och krav på kommunen att
+
 säkra tillgången till läromedel. Hur den förändringen påverkar kommunen fullt ut är för tidigt att säga
 nu men den sammantagna bedömningen är att en säkerställd tillgång till läromedel av hög kvalitet är
 positivt framförallt för elever i svagare socioekonomiska grupper eller med behov av
 
+11
+
 <!-- sida 23 -->
 
-12
 kompensatoriska läromedel. Det finns inget som hindrar förvaltningen från att arbeta vidare med
 frågan i utredningens riktning. Skolinspektionen utrycker att det finns en koppling till att om det finns
 färre antal behöriga lärare så ökar behovet av en säker tillgång till läromedel av en hög kvalitet.
+
 En annan ekonomisk redovisning av kostnader för läromedel skulle underlätta att följa den här
 frågan över tid. Det är idag svårt att redogöra för kostnader för läromedel på ett sätt som gör en
 nationell jämförelse möjlig och här kommer säkert Läromedelsutredningen att peka ut hur den ska
 göras.
+
 Intressanta frågor framöver.
+
 \- Att fördjupa sig kring vad forskning säger om läromedels betydelse för undervisningens
 kvalitet.
+
 \- Ytterligare undersökningar behövs för att kunna se bilden ur fler perspektiv till exempel
 elevers och rektors perspektiv.
 \- Fortsätta att följa vad förstelärare svarar på dessa frågor över tid
 \- Hur kan huvudmannen vill vi gå vidare så att vi kan säkerställa att en elev i Kungsbacka har
 säker tillgång till läromedel med likartade förutsättningar? Hur skiljer sig olika skolor åt?
 \- Kollegial samverkan kring läromedel över skolgränser, kan vi göra en koppling i vårt arbete
+
 med Utmärkt undervisning?
 \- Kompensatoriska läromedel. I vilken grad används dessa?
 \- Fördjupning kring forskning inom området.
+
 SLUTSATS
+
 Läromedelsutredningen kommer att öka kraven för huvudmannen att säkra tillgång till och kvalitet på
 läromedel, både tryckta och digitala läromedel.
+
 Enligt förstelärarenkäten har förvaltningen idag inte en likvärdig tillgång läromedel för att nå målen
 med undervisningen. Förvaltningens kostnader för läromedel är högre än genomsnittet i Sverige. En
 förändrad ekonomisk styrning av läromedel skulle kunna påverka likvärdig tillgång till läromedel.
+
 Kvaliteten på läromedel tycks vara god i förvaltningen. Det finns dock många läromedel med
 faktafel. Om andelen obehöriga lärare ökar på enskilda skolenheter kommer behovet av hög kvalitet
+
 på läromedel att öka. Kompetensen kring hur man bedömer kvaliteten på läromedel sker genom att
 rektor organiserar för det i ett kollegialt lärande. Genom ett centralt organiserad
 kompetensutveckling och stöd för att bedöma kvalitet på läromedel skulle förvaltningen kunna stödja
 högre kvaliteten på läromedel ytterligare.
+
 Läromedels kompensatoriska roll för att alla elever ska nå målen, speciellt för grupper med större
 behov, är viktigt och bör stärkas.
+
+12
 
 <!-- sida 24 -->
 
@@ -2340,54 +2465,30 @@ Uppföljning förändring i verksamheten - 2021 (FG/GA )
 <!-- sida 73 -->
 
 hälsofrämjande arbete kommer
-Psykisk        Egenkontroll Avslutad enligt
-inte utföras.        påfrestning och när     plan
--Omläggning av EMI:s stress         verksamheten
-basprogram inför insamlande         går tillbaka till
-av elevhälsodata försenas           normalläge
--Nya arbetsuppgifter för
-skolsköterskor som kommer
-arbeta under arbetsledning av
-förvaltningen Vård & Omsorg
-och patientsäkerhetsansvarig
-sjuksköterska.
-Arbetsuppgifterna innebär en
-ny patientgrupp.
-Var ska ändringarna
-genomföras?
-Inom skolsköterskans ordinarie
-arbetsuppgifter för elevhälsan
-medicinska insats på de skolor
-där skolsköterskor arbetar för
-Vård & Omsorg.
-Vilka arbetstagare eller
-grupper av arbetstagare
-berörs?
-22 Skolsköterskor
-2021-05-30 Medicinskt ansvarig
-skolsköterska har besökt alla
-skolsköterskor för att skapa
-sig en uppfattning av
-situationen. Belastningen
-varierar från skola till skola.
-Utöver vaccinationen finns
-andra omständigheter så som
-distansundervisning som
-också påverkar möjligheten
-att utföra sitt arbete i tid.
-Orsakar fortsatt en ökad
-upplevelse av stress.
-Egenkontrollen kommer att bli
-relevant att inkomma med
-först till sommaren från alla
-skolsköterskor.
-Fackligpart instämmer i att
-situationen varierar mellan
-verksamheterna.
-FG - Sammanställer just nu
-vilka åtgärder som kan
-genomföras med tillfälliga
-medel som inkommit. De ska
+Psykisk        Egenkontroll Avslutad enligt Medicinskt ansvarig
+inte utföras.        påfrestning och när     plan            skolsköterska har besökt alla
+-Omläggning av EMI:s stress         verksamheten             skolsköterskor för att skapa
+basprogram inför insamlande         går tillbaka till        sig en uppfattning av
+av elevhälsodata försenas           normalläge               situationen. Belastningen
+-Nya arbetsuppgifter för                                     varierar från skola till skola.
+skolsköterskor som kommer                                    Utöver vaccinationen finns
+arbeta under arbetsledning av                                andra omständigheter så som
+förvaltningen Vård & Omsorg                                  distansundervisning som
+och patientsäkerhetsansvarig                                 också påverkar möjligheten
+sjuksköterska.                                               att utföra sitt arbete i tid.
+Arbetsuppgifterna innebär en                                 Orsakar fortsatt en ökad
+ny patientgrupp.                                             upplevelse av stress.
+Var ska ändringarna                                          Egenkontrollen kommer att bli
+genomföras?                                                  relevant att inkomma med
+Inom skolsköterskans ordinarie                               först till sommaren från alla
+arbetsuppgifter för elevhälsan                               skolsköterskor.
+medicinska insats på de skolor                               Fackligpart instämmer i att
+där skolsköterskor arbetar för                               situationen varierar mellan
+Vård & Omsorg.                                               verksamheterna.
+Vilka arbetstagare eller                                     FG - Sammanställer just nu
+grupper av arbetstagare                                      vilka åtgärder som kan
+berörs?                                                      genomföras med tillfälliga
+22 Skolsköterskor                                            medel som inkommit. De ska
 fördelas inom EHT. I nuläget
 delar arbetsgivaren och
 fackligpart uppfattningen om
@@ -2405,6 +2506,8 @@ kvar" så att övriga kan gå
 igång som vanligt.
 Skojmiljarden finansierar en
 del av detta.
+
+2021 -05 -30
 
 <!-- sida 74 -->
 
@@ -3468,6 +3571,15 @@ NA, Örebro, Henrik Dahlquist,
 
 TJÄNSTESKRIVELSE
 
+Pågående anmälningsärenden hos Skolinspektionen och Barn-
+och elevombudet (Beo), inklusive ärenden som utreds inom
+1 (3)
+Förskola & Grundskolas klagomålshantering per den 21 februari
+Datum
+2022\.
+2022-02-21
+Nya ärenden
+
 Förskola & Grundskola                                        Kungsbacka kommun
 Frida Byrsten                                                 434 81 Kungsbacka
 Direkt 0300-83 44 69
@@ -3478,17 +3590,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 (e-post borttagen)
 www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
-Pågående anmälningsärenden hos Skolinspektionen och Barn-
-och elevombudet (Beo), inklusive ärenden som utreds inom
-1 (3)
-Förskola & Grundskolas klagomålshantering per den 21 februari
-Datum
-2022\.
-2022-02-21
-Nya ärenden
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 102-1](kallelse.tabeller/102-1.csv)
 

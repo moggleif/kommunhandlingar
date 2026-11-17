@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404175535id_/https://kungsbacka.se/d
 sha256: 40358ef41c6f9ff5b8f91363871874e410e6ec812a3685bf0457af6321645b47
 bytes: 18137289
 sidor: 183
-hamtad: 2026-10-27T09:30:44+00:00
-konverterad: 2026-10-27T09:34:03+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:34:52+00:00
+konverterad: 2026-11-17T03:37:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok]
@@ -955,7 +955,7 @@ Vår Höst Vår Höst Vår Höst Vår Höst
 
 Antal Observationer 92 75 102 83 202 236 156 181
 Följsamhet basala hygienrutiner | 83,70 8824 89,20 87,60 974 90,74 96,84 97,84
-Följsamhet klädregler 90,220 85,30 85,3 79,54 970 96,20 94,94 92,84
+Följsamhet klädregler 90,220 85,30 85,3 79,50 9740 96,20 94,94 92,84
 
 13.1.5 Kvalitetsgranskning läkemedelshantering
 
@@ -1187,7 +1187,7 @@ jakemedelshändelse ll
 ist i information
 
 rd och behandling
-Filfård och behandling
+ilfård och behandling
 
 vrigt
 
@@ -3915,7 +3915,6 @@ Organisering
 
 1 Ansvarsfördelningen för dataskyddsarbetet i verksamheten är dokumenterad och | Art. 4.7, art. 24
 
-känd.
 2 Det finns en utsedd dataskyddskontakt som arbetar löpande med samordningen av | KS Riktlinjer för
 dataskyddet i verksamheten. hantering av
 person-uppgifter
@@ -6499,8 +6498,6 @@ Informationss Kommunövergripa Det finns inga planerade förändringar av störr
 
 äkerhet och nde risk: Bristande kommande år.
 
-administratio styrning av
-
 nm
 
 Uppföljningsrapport intern kontroll 2021 7
@@ -7680,9 +7677,10 @@ N NN ee
 <!-- sida 163 -->
 
 KUNGSBACKA KOMMUN
+3 (3)
 
 Totalt antal personer med
-växelvårdsbeslut som inte har
+växelvårdsbeslut som inte har 5 9 1 1
 verkställts inom 3 månader
 
 Varav
@@ -7693,64 +7691,45 @@ erbjudanden
 \- antal personer som tackat nej till fler
 erbjudanden
 
-\- ej fått något erbjudande
-
-nl ee
-
+\- ej fått något erbjudande 5
 \- avlidna
 
 \- avsagt sig beslut
-
 \- Verkställda under kvartalet
-
-RIWISIN] >
-
-Summa
-
-AnAlSIcee
-
-11
-
-=!SIsceIcecel ec
+Summa 11
 
 la La 0 I]
 
 Varav
-
 \- Antal personer som har väntat på
-växelvård 4 - 6 månader
 
-nn
-
-\- Antal personer som har väntat på
+växelvård 4 - 6 månader 5 5 0 0
+\- Antal personer som har väntat på 0 4 1 0
 växelvård 7 - 9 månader
 
 \- Antal personer som har väntat på
-växelvård 10 - 12 månader.
 
-\- Antal personer som har väntat på
+växelvård 10 - 12 månader. 0 0 0 1
+\- Antal personer som har väntat på 0 0 0 0
 växelvård > 12 månader
 
-Summa
-
-An
+Summa 5 9 1 1
 
 Beslutsunderlag
-
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2022-02-02
 
 Beslutet skickas till
 
 Kommunstyrelsen, kommunrevisionen
 
-Arian Faily
+Arian Faily Pia Berglund
+Förvaltningschef Verksamhetschef Myndighet
 
-Förvaltningschef
+RIWISIN] >
 
-Pia Berglund
-Verksamhetschef Myndighet
+AnAlSIcee
 
-3 (3)
+=!SIsceIcecel ec
 
 <!-- sida 164 -->
 
@@ -8005,19 +7984,12 @@ Biträdande förvaltningschef        Nämndsekreterare/utredare
 
 <!-- sida 173 -->
 
-Vård & Omsorg                                                Kungsbacka kommun
-Box 10409
-434 24 Kungsbacka
-Besöksadress
-Borgmästaregatan 5 A
-Telefon 0300-83 40 00
-Fax 0300-154 63
-(e-post borttagen)
-www.kungsbacka.se
 DELEGERINGSBESLUT
+
 Tillfälligt begränsa verkställighet av beslut om ledsagarservice och
 avlösning i hemmet enligt Socialtjänstlagen inom Vård & Omsorg i
 Kungsbacka kommun  med anledning av corona/covid-19
+
 Beslut                                                            1 (5)
 Ordförande för nämnden för Vård & Omsorg beslutar att tillfälligt begränsa
 Datum
@@ -8030,9 +8002,12 @@ Behovet av beslutet är så brådskande att nämndens avgörande inte kan avvakt
 Beslutet är därför fattat av ordförande för Nämnden för vård & omsorg med stöd av 6
 kap 39 § kommunallagen och punkten 6.1.1 i Nämnden för vård & omsorgs
 delegeringsförteckning.
+
 Datum för beslut: 2022-01-19
+
 Bakgrund
 Socialtjänst och hälso- och sjukvård räknas till samhällsviktig verksamhet. Sådan
+
 verksamhet ska alltid kunna bedrivas på en sådan nivå att samhället kan fungera och
 erbjuda nödvändig service, omvårdnad och trygghet. De insatser som är beslutade
 utifrån Socialtjänstlagen ska generellt sett utföras för att möta de enskildas behov av
@@ -8041,6 +8016,16 @@ minska smittspridning, minimera kontaktytor och därmed minska sårbarheten och
 skapa förutsättningar att tillgodose de behov som ovillkorligen måste tillgodoses.
 Vård & Omsorg har sedan tidigare tagit ett inriktningsbeslut att arbeta för att
 minimera smittspridning och skapa en uthållighet i organisationen.
+
+Vård & Omsorg                                                Kungsbacka kommun
+Box 10409
+434 24 Kungsbacka
+Besöksadress
+Borgmästaregatan 5 A
+Telefon 0300-83 40 00
+Fax 0300-154 63
+(e-post borttagen)
+www.kungsbacka.se
 
 <!-- sida 174 -->
 
@@ -8253,6 +8238,39 @@ E-post:   (e-post borttagen)
 
 <!-- sida 180 -->
 
+DELEGERINGSBESLUT
+
+Förlängning av beslut avseende att tillfälligt begränsa
+verkställighet av beslut om ledsagarservice och avlösning i
+hemmet enligt Socialtjänstlagen inom Vård & Omsorg i
+Kungsbacka kommun  med anledning av corona/covid-19
+
+1 (2)
+Beslut
+Datum
+Ordförande för nämnden för Vård & Omsorg beslutar att förlänga beslut om att 2022-02-01
+tillfälligt begränsa verkställigheten av insatsen ledsagarservice och avlösning i
+hemmet under ytterligare två veckorna.
+De personer som har pågående, gynnande beslut kommer, när insatsen återgår till
+normal drift, återigen att få sina beslut verkställda.
+
+Behovet av beslutet är så brådskande att nämndens avgörande inte kan avvaktas.
+Beslutet är därför fattat av ordförande för Nämnden för vård & omsorg med stöd av 6
+kap 39 § kommunallagen och punkten 6.1.1 i Nämnden för vård & omsorgs
+delegeringsförteckning.
+
+Datum för beslut:
+
+Bakgrund
+
+Socialtjänst och hälso- och sjukvård räknas till samhällsviktig verksamhet. Sådan
+verksamhet ska alltid kunna bedrivas på en sådan nivå att samhället kan fungera och
+erbjuda nödvändig service, omvårdnad och trygghet. De insatser som är beslutade
+utifrån Socialtjänstlagen ska generellt sett utföras för att möta de enskildas behov av
+stöd. Det kan dock finnas skäl för att omprioritera och omfördela resurser för att
+minska smittspridning, minimera kontaktytor och därmed minska sårbarheten och
+skapa förutsättningar att tillgodose de behov som ovillkorligen måste tillgodoses.
+
 Vård & Omsorg                                                Kungsbacka kommun
 Box 10409
 434 24 Kungsbacka
@@ -8262,32 +8280,6 @@ Telefon 0300-83 40 00
 Fax 0300-154 63
 (e-post borttagen)
 www.kungsbacka.se
-DELEGERINGSBESLUT
-Förlängning av beslut avseende att tillfälligt begränsa
-verkställighet av beslut om ledsagarservice och avlösning i
-hemmet enligt Socialtjänstlagen inom Vård & Omsorg i
-Kungsbacka kommun  med anledning av corona/covid-19
-1 (2)
-Beslut
-Datum
-Ordförande för nämnden för Vård & Omsorg beslutar att förlänga beslut om att 2022-02-01
-tillfälligt begränsa verkställigheten av insatsen ledsagarservice och avlösning i
-hemmet under ytterligare två veckorna.
-De personer som har pågående, gynnande beslut kommer, när insatsen återgår till
-normal drift, återigen att få sina beslut verkställda.
-Behovet av beslutet är så brådskande att nämndens avgörande inte kan avvaktas.
-Beslutet är därför fattat av ordförande för Nämnden för vård & omsorg med stöd av 6
-kap 39 § kommunallagen och punkten 6.1.1 i Nämnden för vård & omsorgs
-delegeringsförteckning.
-Datum för beslut:
-Bakgrund
-Socialtjänst och hälso- och sjukvård räknas till samhällsviktig verksamhet. Sådan
-verksamhet ska alltid kunna bedrivas på en sådan nivå att samhället kan fungera och
-erbjuda nödvändig service, omvårdnad och trygghet. De insatser som är beslutade
-utifrån Socialtjänstlagen ska generellt sett utföras för att möta de enskildas behov av
-stöd. Det kan dock finnas skäl för att omprioritera och omfördela resurser för att
-minska smittspridning, minimera kontaktytor och därmed minska sårbarheten och
-skapa förutsättningar att tillgodose de behov som ovillkorligen måste tillgodoses.
 
 <!-- sida 181 -->
 

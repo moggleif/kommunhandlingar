@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240707083849id_/https://kungsbacka.se/d
 sha256: 0105a360f39fa4fdd776520bbbdf6913431d07b92ad039952761418fcb6d1816
 bytes: 34944407
 sidor: 369
-hamtad: 2026-10-26T08:51:24+00:00
-konverterad: 2026-10-26T08:53:29+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:15:34+00:00
+konverterad: 2026-11-17T02:17:20+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -4765,62 +4765,157 @@ www.kungsbacka.se
 
 <!-- sida 115 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Lokaler         och     boenden                                                                                       Resterande 20 procent finansieras inom respektive nämnds
-• Lokallösningar ska föreslås och väljas utifrån att ram. Ramtilldelning utgår inte för verksamhetsanpass-
-”Minska behovet av att bygga nytt genom att samut- ningar av lokaler.
-nyttja och bygga mer flexibelt” vilket innebär att loka-
+Lokaler         och     boenden
+
 Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
-ler eller lokaldelar så långt det är möjligt planeras för Investeringsbudget och hyresmedel för lokaler och boen-
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner Antalet invånare ökar
-att kunna samnyttjas och användas för flera ändamål. den tillhör kommunstyrelsen och kommunstyrelsen kan
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen
-• Investeringar i egenägda lokaler ska genomföras om justera mellan olika lokalprojekt under året.
-verksamheten har ett långsiktigt lokalbehov.
-• Inhyrning ska prövas som ett alternativ till att äga Projekt i lokalplanen får omsättas till projekt och startas
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att fastigheter, och väljas om det råder osäkerhet om verk- upp om de understiger 15 miljoner i investeringsbe-
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och samhetens framtida innehåll och/eller omfattning och lopp. För projekt som överstiger 15 miljoner kronor ska
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu- med hänsyn till behovstid eller om investeringsmedel igångsättning beslutas av kommunstyrelsen. Inhyrda behov
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett saknas för egna investeringar. där hyran motsvarar en investering på 15 miljoner eller mer
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för • Arbetet med lokalförsörjning ska bedrivas genom ett kräver också beslut av kommunstyrelsen.
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.                tätt samarbete med berörda förvaltningar.
-och boenden.                                                                                                          I samband med kommunens investering i nya lokaler
-Lokalbehov 2023–2027
-Handläggningen av lokalbehoven behöver ske enligt ned-                              avsätts 1 procent av byggnadens byggutgift till konstnärlig
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:            Nämnderna i Kungsbacka kommun har lämnat in bostads- utsmyckning. Med byggutgift avses den del av projektkost-
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings- och lokalbehov för perioden 2023–2027. Nämndernas naden som omfattar uppförande av en byggnad exklusive
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering. beslutade behov uttrycks i volymmått, till exempel antal markförvärv, projektering, markarbeten, installationer
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade platser, antal elever eller antal förskolebarn. Behoven och byggherrekostnader. Nämnden för Kultur & Fritid
-Prioriteringsprincipen i fallande ordning: bearbetas och kostnadsbedöms utifrån nyckeltal framtagna får ansvaret att upphandla och besluta om den konstnär-
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk- av Förvaltningen för Service avseende både investerings- liga utsmyckningen. Ett särskilt belopp avsätts som kan
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av utgifter samt driftskostnader. Lokalplanen bereds utifrån fördelas olika mellan de lokaler som byggs. Det innebär att
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler ett planerings- och genomförandeperspektiv samt med det inte alltid blir 1 procent i konstnärlig utsmyckning per
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.   utgångspunkt i ovan nämnda principer. lokal utan det kan variera mellan olika lokaler men det blir
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering                      alltid max 1 procent totalt per år. Gäller bara byggnaderna.
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.      Nya hyror för lokalinvesteringar samt inhyrda boenden Vid investeringar i infrastruktur (gator och vägar mm)
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur- budgeteras centralt och nämnden erhåller ram motsva- samt i de fall kommunen hyr in lokal från extern fastig-
-tige.                                        omvandlingar och som ger minskade      rande 80 procent av hyran när lokalen är klar att tas i bruk. hetsägare får ställning tas till konstnärlig utsmyckning i
-driftskostnader samt lokalbehov på                                       varje enskilt projekt.
+
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
+och boenden.
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
+
 Insamling                Genomför-
 Behov            Förstudie Projektering   Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
+
+42 Kommunbudget 2023 och plan 2024–2025
+
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2023–2027
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2023–2027. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Förvaltningen för Service avseende både investerings-
+utgifter samt driftskostnader. Lokalplanen bereds utifrån
+ett planerings- och genomförandeperspektiv samt med
+utgångspunkt i ovan nämnda principer.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+
+INVESTERING OCH EXPLOATERING
+
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får omsättas till projekt och startas
+upp om de understiger 15 miljoner i investeringsbe-
+lopp. För projekt som överstiger 15 miljoner kronor ska
+igångsättning beslutas av kommunstyrelsen. Inhyrda behov
+där hyran motsvarar en investering på 15 miljoner eller mer
+kräver också beslut av kommunstyrelsen.
+
+I samband med kommunens investering i nya lokaler
+avsätts 1 procent av byggnadens byggutgift till konstnärlig
+utsmyckning. Med byggutgift avses den del av projektkost-
+naden som omfattar uppförande av en byggnad exklusive
+markförvärv, projektering, markarbeten, installationer
+och byggherrekostnader. Nämnden för Kultur & Fritid
+får ansvaret att upphandla och besluta om den konstnär-
+liga utsmyckningen. Ett särskilt belopp avsätts som kan
+fördelas olika mellan de lokaler som byggs. Det innebär att
+det inte alltid blir 1 procent i konstnärlig utsmyckning per
+lokal utan det kan variera mellan olika lokaler men det blir
+alltid max 1 procent totalt per år. Gäller bara byggnaderna.
+Vid investeringar i infrastruktur (gator och vägar mm)
+samt i de fall kommunen hyr in lokal från extern fastig-
+hetsägare får ställning tas till konstnärlig utsmyckning i
+varje enskilt projekt.
+
 Foto: Amanda Liljevall, Kungsbacka kommun
-42 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 43
+
+Kommunbudget 2023 och plan 2024–2025 43
 
 <!-- sida 116 -->
 
@@ -4843,14 +4938,15 @@ Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027
 136  Skårby fullmått idrottshall        x
 441       395       814       934       412
 232  Trollelyckan förskola avveckling   x
+
 233  Klockaregården förskola               160
 Hyreskostnader inklusive engångskostnader samt kapitalkostnader för inventarier, nya lokaler och boenden,
 belopp i miljoner kronor                                                            234  Klockaregården förskola avveckling paviljong -160
 
 ```osaker-tabell
 Budget 2023 Plan 2024 Plan 2025 Plan 2026 Plan 2027                              235  Stockalids förskola                   120
-     62        48        30       64        67                                   236  Åsa förskola                                    80
-                                                                                 237  Åsa förskola (Stora Loket) avveckling           -80
+     62        48       30        64        67                                   236  Åsa förskola                                    80
+                                                                                 237  Åsa förskola (Stora Loket) avveckling          -80
 ```
 
 I kostnaderna ingår kostnader av engångskaraktär för exempelvis sanering, restvärden, paviljonghyror och inredning.
@@ -4864,201 +4960,355 @@ Lokaltyp och beskrivning 2023 2024 2025 2026 2027                               
 139 Toalettbyggnad Stättared     x                                                 143  Ölmevalla idrottshall (fullmått)                 x
 140 Iserås fullmåttshall                   x                                       337  Åsa skola och folkbibliotek        x
 142 Naturum Fjärås Bräcka    x                                                     338  Kvarteret Liljan skola                              500
-143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                           x
+143 Ölmevalla idrottshall (fullmått)       x                                       339  Kvarteret Liljan idrottssal                          x
 114 Fjärås fritidscenter omplanering x                                             340  Klinnekärrs förskola avveckling    x
 137 Elektronen avveckling    x                                                     341  Fjordskolans paviljong avveckling och flytt -100
-342  Utbildningspaviljong avveckling                       x
-Noter                                                                               343  Utbildningspaviljong och hus anpassning x
-344  Utbildningspaviljong avveckling        x
+342  Utbildningspaviljong avveckling                      x
+
+Noter
 136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts idrotts- 142 Naturum Fjärås Bräcka 345 Tingberget paviljong avveckling och flytt          -100
-Utbyggnad och anpassning av köks- och personalytor utifrån
-hall som tillgodoser skolverksamhetens och föreningslivets                          1202 a Internationella engelska skolan, skolpeng x
-arbetsmiljöperspektiv
-behov Samordning sker med projekt 231 Skårby utbildnings-
-312  Åsaskolan matsal och klassrum   x
-143 Ölmevalla idrottshall (fullmått)
-lokal
 I samband med en ny skola planeras en ny fullmåtts idrotts-
-227 Kolla förskola
-138 Frillesås ridhus              hall som tillgodoser skolverksamhetens och föreningslivets Noter                    Stort underskott av förskoleplatser i Kollaområdet ger
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 231 Skårby utbildnings-
+lokal
+138 Frillesås ridhus
+Behov av en ny anläggning i Frillesås
+
+139 Toalettbyggnad Stättared
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+142 Naturum Fjärås Bräcka
+Utbyggnad och anpassning av köks- och personalytor utifrån
+arbetsmiljöperspektiv
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras en ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
 behov Samordning sker med projekt 336 Åsa nya skola
-Behov av en ny anläggning i Frillesås                                                                                 behov av förskola med 160 platser
-207 Fjärås Må förskola
 114 Fjärås fritidscenter
-139 Toalettbyggnad Stättared                                                        Området är föremål för exploatering av nya bostäder Nya 227 a Kolla förskola infrastruktur
 Samlokalisering av närbibliotek ifrån Smedingeskolan till
-Befintlig byggnad har passerat sitt tekniska slutår och behö-                       förskolelokaler måste därför byggas Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
 Fjärås simhall
-ver ersättas                                                                                                          Kolla förskola blir ensam kostnadsbärare
-226 Anneberg förskola
 137 Elektronen avveckling
-140 Iserås fullmått idrottshall                                                     Området är föremål för exploatering av nya bostäder Nya 230 Skårby utbildningslokaler etapp 1
 I samband med exploatering på kvarteren Gjutaren och
-I samband med en ny skola planeras ny fullmåtts idrotts-                            förskolelokaler måste därför byggas Samordning sker med Området är föremål för exploatering av nytt bostadsområde
 Liljan avvecklas befintliga byggnader genom rivning
-hall som tillgodoser skolverksamhetens och föreningslivets                          projekt 807 Anneberg vård- och omsorgsboende, projekt 414 Nya utbildningsplatser måste därför byggas Samordning
-behov Samordning sker med projekt 335 Iserås skola                                  Anneberg boende med särskild service med projekt 136 Skårby fullmåtts idrottshall
+
+343 Utbildningspaviljong och hus anpassning
+344 Utbildningspaviljong avveckling
+345 Tingberget paviljong avveckling och flytt
+1202 a Internationella engelska skolan, skolpeng
+312 Åsaskolan matsal och klassrum
+
+Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas
+
+226 Anneberg förskola
+Området är föremål för exploatering av nya bostäder Nya
+förskolelokaler måste därför byggas Samordning sker med
+projekt 807 Anneberg vård- och omsorgsboende, projekt 414
+Anneberg boende med särskild service
+
+x
+x
+-100
+x
+x
+
+227 Kolla förskola
+Stort underskott av förskoleplatser i Kollaområdet ger
+behov av förskola med 160 platser
+227 a Kolla förskola infrastruktur
+Infrastruktur i form av tillfartsväg, VA och fjärrvärme där
+Kolla förskola blir ensam kostnadsbärare
+
+230 Skårby utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 136 Skårby fullmåtts idrottshall
+
 44 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 45
 
 <!-- sida 117 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-231 Skårby utbildningslokaler etapp 2 336 Ölmevallaskolan                           345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
-Området är föremål för exploatering av nytt bostadsområde Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
-Nya utbildningsplatser måste därför byggas Samordning och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
-med projekt 230 Skårby utbildningslokal etapp 1 byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
-sidrottshall                                      las Objektet är fortsatt under utredning
-136 Skårby fullmått idrottshall
-I samband med en ny skola planeras en ny fullmåtts 143 Ölmevalla idrottshall (fullmått) 1202 a Internationella engelska skolan, skolpeng
-idrottshall som tillgodoser skolverksamhetens och fören- I samband med en ny skola planeras ny fullmått idrotts- Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-ingslivets behov Samordning sker med projekt 231 Skårby hall som tillgodoser skolverksamhetens och föreningslivets skola till Internationella engelska skolan enligt tilldelnings-
-utbildningslokal                  behov Samordning sker med projekt 334 Åsa nya skola modell för privata utförare inom skolverksamheten och
-fritidshemsverksamheten
-232 Trollelyckan förskola avveckling 337 Åsa skola och folkbibliotek
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga P g a underkapacitet på Åsa Gårdsskolan avseende ele-
-lokaler samt att den tekniska livslängden har nått sitt slut vantal kommer en successiv flytt ske av högstadiet till
-Åsaskolan Detta kommer innebära anpassningar av lokaler
-233 Klockaregårdens förskola      för skolverksamhet och folkbibliotek på Åsaskolan och Åsa Kommunala boenden med särskild service (BMSS)
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Gårdsskolan Planering pågår och för närvarande ej beslut
-Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
-förskola                          om grad av anpassningar
-funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
-234 Klockaregården förskola avveckling 338 Kvarteret Liljan skola                   ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
-Paviljong avvecklas när ny förskola projekt 233 i Frillesås Området är föremål för exploatering av nytt bostadsområde särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
-står färdig                       Nya utbildningsplatser måste därför byggas Samordning
-stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
-med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
-235 Stockalids förskola           Liljan
-Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+231 Skårby utbildningslokaler etapp 2
 Området är föremål för exploatering av nytt bostadsområde
-405 Vallda BMSS              12
-Nya utbildningsplatser måste därför byggas 339 Kvarteret Liljan idrottssal
-I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
-236 Åsa förskola                  tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
-Området är föremål för exploatering av nytt bostadsområde Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
 Nya utbildningsplatser måste därför byggas Samordning
+med projekt 230 Skårby utbildningslokal etapp 1
+136 Skårby fullmått idrottshall
+I samband med en ny skola planeras en ny fullmåtts
+idrottshall som tillgodoser skolverksamhetens och fören-
+ingslivets behov Samordning sker med projekt 231 Skårby
+utbildningslokal
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut
+233 Klockaregårdens förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola
+234 Klockaregården förskola avveckling
+Paviljong avvecklas när ny förskola projekt 233 i Frillesås
+står färdig
+
+235 Stockalids förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas
+236 Åsa förskola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+projekt 237 Åsa förskola avveckling
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+239 Förskola centrum
+Området är föremål för exploatering av nya bostadsområ-
+den Nya utbildningsplatser måste därför byggas
+
+332 Björkris skola paviljong avveckling
+I samband med ny skola projekt 230 Skårby utbildningslokal
+etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastigheten har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 335 Iserås skola
+
+46 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+336 Ölmevallaskolan                              345 Tingberget paviljong avveckling och flytt 312 Åsaskolan matsal och klassrum
+Åsa är föremål för exploatering av nytt bostadsområden I samband med att Kvarteret Liljans utbildningslokaler byggs Matsalen utökas på Åsaskolan i syfte att ta emot högsta-
+och befolkningstillväxt Nya utbildningsplatser måste därför kommer det att uppstå en överkapacitet på Tingbergssko- dieelever hösten 2022 och hösten 2023 Likaså byggs lokaler
+byggas Samordning med projekt 143 Åsa nya fullmått- lan Detta medför att befintlig inhyrd paviljong kan avveck- om till ämnessalar för hemkunskapsundervisning
+sidrottshall                                     las Objektet är fortsatt under utredning
+
+143 Ölmevalla idrottshall (fullmått)
+I samband med en ny skola planeras ny fullmått idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov Samordning sker med projekt 334 Åsa nya skola
+337 Åsa skola och folkbibliotek
+P g a underkapacitet på Åsa Gårdsskolan avseende ele-
+vantal kommer en successiv flytt ske av högstadiet till
+Åsaskolan Detta kommer innebära anpassningar av lokaler
+för skolverksamhet och folkbibliotek på Åsaskolan och Åsa
+Gårdsskolan Planering pågår och för närvarande ej beslut
+om grad av anpassningar
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nytt bostadsområde
+Nya utbildningsplatser måste därför byggas Samordning
+med projekt 339 Liljans idrottssal och 1408 skyddsrum kv
+Liljan
+
+1202 a Internationella engelska skolan, skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Internationella engelska skolan enligt tilldelnings-
+modell för privata utförare inom skolverksamheten och
+fritidshemsverksamheten
+
+Kommunala boenden med särskild service (BMSS)
+
+Boenden med särskild service är för personer med omfattande stödbehov på grund av fysiska och- eller socialpsykiatriska
+funktionsnedsättningar. Boenden består av enheter om ca 6 lägenheter med tillhörande lokaler för gemensamma aktivite-
+ter samt personalutrymmen. Kommunens behov uttrycks nedan i form av antal boendeplatser. Utformning av boende med
+särskild service kan vara att man bygger 12 stycken bostäder som antingen kan nyttjas som 6 stycken gruppbostad och 6
+stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
+
+Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+
+405 Vallda BMSS              12
+339 Kvarteret Liljan idrottssal
+I samband med en ny skola planeras ny skolidrottssal som 413 Boende med särskild service, barn 4
+tillgodoser skolverksamhetens och föreningslivets behov 414 Anneberg Boende med särskild service  12
+Samordning sker med projekt 338 Kvarteret Liljan skola (del av samverkanshus)
+
 502 Kvarteret Aranäs boende med särskild 12
-projekt 237 Åsa förskola avveckling 340 Klinnekärrs förskola avveckling
+340 Klinnekärrs förskola avveckling
 service
 Förskolebyggnad avvecklas på grund av myndighetskrav
 504 Björkris boende med särskild service   10
-237 Åsa (Stora Loket) förskola avveckling
-Paviljong avvecklas när ny förskola i Åsa står färdig 341 Fjordskolan paviljong avveckling och flytt 505 Bostäder SBF och referensboende 10 10 10 10
+
+341 Fjordskolan paviljong avveckling och flytt    505 Bostäder SBF och referensboende 10 10 10 10
 I samband med att Iseråsskolan anpassas genom ny- och 507 Boende med särskild service 12
-238 Villa Emilia avveckling       ombyggnad kommer dess upptagningsområde förändras
+ombyggnad kommer dess upptagningsområde förändras
 508 a Boende med särskild service 12
-Avveckling av paviljong då inget behov finns och att hyresav- så att fler elever kommer att gå på Iseråsskolan Därmed
+så att fler elever kommer att gå på Iseråsskolan Därmed
 508 b Anneberg boende med särskild service      12
-talet löper ut                    kommer Fjordskolan att avlastas
+kommer Fjordskolan att avlastas
 508 c Boende med särskild service 8
-239 Förskola centrum              342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
-Området är föremål för exploatering av nya bostadsområ- I samband med att Skårbyskolan byggs kommer högsta-
-508 e Boende med särskild service      12
-den Nya utbildningsplatser måste därför byggas dieelever flyttas ifrån Hedeskolan dit Detta innebär att
+342 Utbildningspaviljong avveckling               508 d Boende med särskild service      2
+I samband med att Skårbyskolan byggs kommer högsta-
+508 e Boende med särskild service     12
+dieelever flyttas ifrån Hedeskolan dit Detta innebär att
 508 f Boende med särskild service      6
 ett färre antal elever kommer att gå på Hedeskolan vilket
-332 Björkris skola paviljong avveckling medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service 12
-I samband med ny skola projekt 230 Skårby utbildningslokal                          508 h Boende med särskild service           6
-etapp 1 avvecklas tillfällig skolpaviljong på Björkrisskolan 343 Utbildningspaviljong och husanpassning
-508 i Boende med särskild service           2
+medför att befintlig inhyrd skolpaviljong kan avvecklas 508 g Boende med särskild service    12
+508 h Boende med särskild service          6
+343 Utbildningspaviljong och husanpassning
+508 i Boende med särskild service          2
 I samband med att Skårbyskolan byggs kommer högstadie-
-510 Ordinärt boende           2   2    2    2
-335 Iserås skola                  elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
-Delar av Iseråsskolan måste avvecklas då fastigheten har färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service 18
-nått sin tekniska livslängd och behöver ersättas med nya sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
-lokaler Samordning sker med projekt 140 Iserås fullmåtts till viss del Planering pågår  Kyrkskolan
-idrottshall
-513 Drogfritt boende                   12
+510 Ordinärt boende          2    2    2   2
+elever flyttas ifrån Älvsåkersskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Älvsåkerskolan vilket 511 Boende med särskild service        18
+sannolikt medför att befintliga lokaler kan behöva anpassas 512 Samlokalisering daglig verksamhet x
+till viss del Planering pågår                         Kyrkskolan
+513 Drogfritt boende                  12
 344 Utbildningspaviljong avveckling
 Summa boendeplatser och lägenheter 12 66 44 36 42
-140 Iserås fullmått idrottshall   I samband med att Skårbyskolan byggs kommer högstadie-
-I samband med en ny skola planeras ny fullmåtts idrotts- elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
-hall som tillgodoser skolverksamhetens och föreningslivets färre antal elever kommer att gå på Björkrisskolan vilket
-behov Samordning sker med projekt 335 Iserås skola medför att befintlig lokal kan behöva anpassas för kvarva-
+I samband med att Skårbyskolan byggs kommer högstadie-
+elever flyttas ifrån Björkrisskolan dit Detta innebär att ett
+färre antal elever kommer att gå på Björkrisskolan vilket
+medför att befintlig lokal kan behöva anpassas för kvarva-
 rande verksamhet Planering pågår
-46 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 47
+
+Kommunbudget 2023 och plan 2024–2025 47
 
 <!-- sida 118 -->
 
-INVESTERING OCH EXPLOATERING                                                                                                      INVESTERING OCH EXPLOATERING
+INVESTERING OCH EXPLOATERING
 
-Noter                                                                               Vård- och omsorgsboende
-Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
-405 Vallda boende med särskild service 507 Boende med särskild service
-vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
-Boende om 12 platser för att verkställa biståndsbeslut Boende om 12 platser i Särö för att verkställa biståndsbe-
-Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
-slut
-413 Boende med särskild service, barn 508 a–i Boende med särskild service
-Gruppbostad för barn, 4 platser, för att verkställa bistånds- Ett behov av ett flertal BMSS under kommande år där de
-beslut                            matchas mot försörjning av byggrätter, exploateringsprojekt
-men också inhyrningar ifrån externa hyresvärdar i syfte att
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027
-414 Boende med särskild service Anneberg verkställa biståndsbeslut
-805 Ekhaga vård- och omsorgsboende    -26       40
-Behov av gruppbostäder planeras in i kommande nya
-område Samordnas med projekt 807 vård- och omsorgsbo- 510 Ordinärt boende           807 Anneberg vård- och omsorgsboende                     80
-ende Anneberg och projekt 226 Anneberg förskola Det finns behov av ordinära bostäder där personer som bor 808 Bukärrsgården vård- och omsorgsboende avveckling x
-på ett BMSS vill flytta till en ordinär bostad av diverse olika
-809 Hemtjänstlokal Hede flytt          x
-502 Kvarteret Aranäs boende med särskild service skäl Kommunen ombesörjer endast förmedling, ej byggna-
-Boende om 12 platser för att verkställa biståndsbeslut tion eller annan anskaffning 811 VOB Reservkraft (10 st)                 x
-812 Hemtjänst Vallda Anpassning/renovering x
-504 Boende med särskild service Björkris 511 Boende med särskild service            813 Administrativ lokal Omsorgenshus avveckling      x
-Boende om 10 platser för att verkställa biståndsbeslut Boende om 18 platser för att verkställa biståndsbeslut
-814 Sjöállen 9F, ersättningslokal           x
-815 Hemtjänst Sjöallén avveckling           x
-505 Bostäder SBF och referensboende 512 Samlokalisering daglig verksamhet Kyrkskolan
-Särskild bostadsförsörjningskö är avsedd för personer som Flera olika lokaler som är idag daglig verksamhet kommer
-inte själv kan skaffa en bostad på grund av starka sociala att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
-och/eller medicinska skäl Referensboende hyrs ut till kom- skolan som då blir en större lokal för daglig verksamhet
-muninvånare som har starkt behov av en bostad och inte
 Noter
-på egen hand har förmåga att lösa sin situation Kommunen 513 Drogfritt boende
-ombesörjer endast förmedling, ej byggnation eller annan Bemannat boende inriktat mot missbruk och psykisk ohälsa
-anskaffning                       12 platser för att verkställa biståndsbeslut      805 Ekhaga vård- och omsorgsboende 812 Hemtjänst Vallda Anpassning/renovering
-Tillbyggnad av boendet Avveckling av 26 lägenheter samt
-Idag saknas adekvat omklädningsutrymme samt utrymme
-nybyggnation av 40 nya lägenheter
-för cirkulationstvätt vilket strider både mot arbetsmiljö-
-lagen och Hälso- och sjukvårdslagen En anpassning av
-807 Anneberg vård- och omsorgsboende
-befintliga hemtjänstlokalerna kommer äga rum i syfte att
-Planering av nytt vård- och omsorgsboende med 80 lägen-
-uppnå lagkraven
-heter i kommunen Samordnas med projekt 414 BMSS Anne-
-Gymnasium och arbetsmarknad                                                         berg och projekt 226 Anneberg förskola
-813 Administrativ lokal Omsorgenshus avveckling
-Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+
+405 Vallda boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+413 Boende med särskild service, barn
+Gruppbostad för barn, 4 platser, för att verkställa bistånds-
+beslut
+
+414 Boende med särskild service Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område Samordnas med projekt 807 vård- och omsorgsbo-
+ende Anneberg och projekt 226 Anneberg förskola
+502 Kvarteret Aranäs boende med särskild service
+Boende om 12 platser för att verkställa biståndsbeslut
+
+504 Boende med särskild service Björkris
+Boende om 10 platser för att verkställa biståndsbeslut
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte
+på egen hand har förmåga att lösa sin situation Kommunen
+ombesörjer endast förmedling, ej byggnation eller annan
+anskaffning
+
+507 Boende med särskild service
+Boende om 12 platser i Särö för att verkställa biståndsbe-
+slut
+508 a–i Boende med särskild service
+Ett behov av ett flertal BMSS under kommande år där de
+matchas mot försörjning av byggrätter, exploateringsprojekt
+men också inhyrningar ifrån externa hyresvärdar i syfte att
+verkställa biståndsbeslut
+510 Ordinärt boende
+Det finns behov av ordinära bostäder där personer som bor
+på ett BMSS vill flytta till en ordinär bostad av diverse olika
+skäl Kommunen ombesörjer endast förmedling, ej byggna-
+tion eller annan anskaffning
+511 Boende med särskild service
+Boende om 18 platser för att verkställa biståndsbeslut
+512 Samlokalisering daglig verksamhet Kyrkskolan
+Flera olika lokaler som är idag daglig verksamhet kommer
+att avvecklas Verksamheterna ska samlokaliseras till Kyrk-
+skolan som då blir en större lokal för daglig verksamhet
+513 Drogfritt boende
+Bemannat boende inriktat mot missbruk och psykisk ohälsa
+12 platser för att verkställa biståndsbeslut
+
+Gymnasium och arbetsmarknad
 Idag går det ca 3 115 elever på de tre gymnasieskolorna. Om fem år, 2027 beräknas elevantalet uppgå till ca 3 300 elever,
-808 Bukärrsgården avveckling
-ut år 2026 Det är högst osäkert om detta förlängs därför
-dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att Planeras att avyttras när hyrestiden upphör
-kan en avveckling genom hyresuppsägning äga rum
+dvs ca 185 antal fler elever än idag. Nya arbetssätt och ett betydligt mer flexibelt lokalanvändande kommer krävas för att
 klara av denna elevmängd i befintliga lokaler.
-809 Hemtjänstlokal Hede flytt
-814 Sjöállen 9F, ersättningslokal
-Lokaltyp och beskrivning                2023 2024 2025 2026 2027               Planeras att samordnas med projekt 803 Björkris vård- och
-På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-600 Utökning i befintliga byggnader          33   21  48   35                      omsorgsboende
-på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+Lokaltyp och beskrivning                2023 2024 2025 2026 2027
+600 Utökning i befintliga byggnader          33   21  48   35
 602 Samlokalisering Mobilen och Transport-programmet x
-811 Reservkraft
-815 Hemtjänst Sjöállen avveckling
-För att uppfylla lagkrav och patientsäkerhet måste flertalet
-Noter                                                                                                                 På grund av myndighetskrav kan hemtjänsten inte sitta kvar
-befintliga vård- och omsorgsboenden kompletteras med
-på Sjöallén 9F Därför måste befintlig verksamhet flyttas
-reservkraft
-och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Noter
+
 600 Utökning i befintliga lokaler 602 Samlokalisering Mobilen och Transportprogrammet
 Utökningen kommer främst verkställas genom förändrat Som följd av exploateringsprojekt på kvarteret Liljan
 utbildnings- och arbetssätt samt schemaläggning kommer gymnasieverksamheten Mobilen att samlokalisera
 med Transportprogrammet som idag återfinns på Marios
 gata i Varla
-48 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 49
+
+48 Kommunbudget 2023 och plan 2024–2025
+
+INVESTERING OCH EXPLOATERING
+
+Vård- och omsorgsboende
+Vård- och omsorgsboende är boenden för äldre med behov av särskilt stöd enligt socialtjänstlagen. Ett
+vård- och omsorgsboende består av bostadslägenheter, gemensamma lokaler samt personalutrymmen.
+Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal platser.
+
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027
+805 Ekhaga vård- och omsorgsboende    -26      40
+807 Anneberg vård- och omsorgsboende                     80
+808 Bukärrsgården vård- och omsorgsboende avveckling x
+809 Hemtjänstlokal Hede flytt          x
+811 VOB Reservkraft (10 st)                 x
+812 Hemtjänst Vallda Anpassning/renovering x
+813 Administrativ lokal Omsorgenshus avveckling      x
+814 Sjöállen 9F, ersättningslokal           x
+815 Hemtjänst Sjöallén avveckling           x
+
+Noter
+
+805 Ekhaga vård- och omsorgsboende
+Tillbyggnad av boendet Avveckling av 26 lägenheter samt
+nybyggnation av 40 nya lägenheter
+
+807 Anneberg vård- och omsorgsboende
+Planering av nytt vård- och omsorgsboende med 80 lägen-
+heter i kommunen Samordnas med projekt 414 BMSS Anne-
+berg och projekt 226 Anneberg förskola
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård- och
+omsorgsboende
+
+811 Reservkraft
+För att uppfylla lagkrav och patientsäkerhet måste flertalet
+befintliga vård- och omsorgsboenden kompletteras med
+reservkraft
+
+812 Hemtjänst Vallda Anpassning/renovering
+Idag saknas adekvat omklädningsutrymme samt utrymme
+för cirkulationstvätt vilket strider både mot arbetsmiljö-
+lagen och Hälso- och sjukvårdslagen En anpassning av
+befintliga hemtjänstlokalerna kommer äga rum i syfte att
+uppnå lagkraven
+813 Administrativ lokal Omsorgenshus avveckling
+Hyresavtalet som hemtjänsten har på Omsorgens hus löper
+ut år 2026 Det är högst osäkert om detta förlängs därför
+kan en avveckling genom hyresuppsägning äga rum
+814 Sjöállen 9F, ersättningslokal
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Nya lokaler måste därför anskaffas
+
+815 Hemtjänst Sjöállen avveckling
+På grund av myndighetskrav kan hemtjänsten inte sitta kvar
+på Sjöallén 9F Därför måste befintlig verksamhet flyttas
+och lokalen på Sjöallén 9F avvecklas genom rivning
+
+Kommunbudget 2023 och plan 2024–2025 49
 
 <!-- sida 119 -->
 
@@ -5067,86 +5317,117 @@ INVESTERING OCH EXPLOATERING
 Service                                                                             Övriga lokaler
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
-Lokaltyp och beskrivning         2023 2024 2025 2026 2027                          Lokaltyp och beskrivning 2023 2024 2025 2026 2027
-1405 Anpassning myndighetskrav Elof Lindälv x                                      131 Arena                                   x
-1500 Kapareskolans kök ombyggnad       x                                           1202 Tillfälliga lösningar eller oförutsedda x x x x x
+Lokaltyp och beskrivning         2023 2024 2025 2026 2027                           Lokaltyp och beskrivning 2023 2024 2025 2026 2027
+1405 Anpassning myndighetskrav Elof Lindälv x                                       131 Arena                                  x
+1500 Kapareskolans kök ombyggnad       x                                            1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
-1501 Fjordskolan mottagningskök            x
+1501 Fjordskolan mottagningskök             x
 1406 Duveheds omlastningscentral x
 1502 Iseråsskolan mottagningskök                x
 1408 Skyddsrum Kv Liljan                        x
-1503 Datahall                                            x
-1410 Engångsdriftskostnader allmänt x x x   x
+1503 Datahall                                             x
+1410 Engångsdriftskostnader allmänt x x x  x
 1504 Toalettbyggnad Åsa camping        x
-1411 Räddningstjänst                        x
+1411 Räddningstjänst                       x
 1505 Toalettbyggnad Åsa Gårda Brygga   x
+
 1506 Ombyggnad/Förändring av ”hemkök” på förskolor x x x x x
+
 1507 Bostadsmodul Tölöberg avveckling  x
+
 1508 Personalbyggnad Klovsten avveckling x
 Noter
 1509 Bostad mm Gustafs väg, rivning    x
-1510 Bostad Kallhällevägen rivning     x                                           131 Arena
-1408 Skyddsrum Kvarteret Liljan
-1511 Toalettbyggnad Hanhals badplats       x                                       Arenahall med kommersiella lokaler som placeras söder om
-Exploateringen av kvarteret gör att befintligt skyddsrum
-Kungsbacka Sportcenter
-1512 Toalettbyggnad Vallda Sandö           x                                                                          måste ersättas
+
+1510 Bostad Kallhällevägen rivning     x
+1511 Toalettbyggnad Hanhals badplats        x
+1512 Toalettbyggnad Vallda Sandö            x
 1513 Iseråsskolan paviljong avveckling och flytt x
-1202 Tillfälliga lösningar eller oförutsedda händelser
-1410 Engångskostnader
-1514 Datahall 2                            x                                       Medel för tillfälliga lokaler eller för hantering av oförutsedda
-Medel för oplanerade lokalbehov såsom rivning och sanering
-behov som uppstår under planeringsperioden
-som kan uppstå vid främst ombyggnationer av befintliga
-Noter                             1506 Ombyggnad/Förändring av ”hemkök” på förskolor
-lokaler
-Befintliga kök på flertalet förskolor måste anpassas utifrån 1406 Duveheds omlastningscentral
-arbetsmiljösynpunkt men även livsmedelshantering  Vid utbyggnad av Klovstens område behöver omlastnings-
-1405 Anpassning myndighetskrav Elof Lindälv                                                                            1411 Räddningstjänst
-station ny plats i Duvehed
-Anpassning av byggnad i syfte att erhålla permanent                                                                    Som följd av exploateringen i Sydöstra centrum måste rädd-
-1507 Bostadsmodul Tölöberg avveckling
-bygglovstillstånd                                                                                                      ningstjänsten omlokaliseras
-Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
-upp
+1514 Datahall 2                             x
+
+Noter
+
+1405 Anpassning myndighetskrav Elof Lindälv
+Anpassning av byggnad i syfte att erhålla permanent
+bygglovstillstånd
+
 1500 Kapareskolans kök ombyggnad
 Ombyggnad- och utbyggnad av mottagningskök och matsal
-1508 Personalbyggnad Klovsten avveckling
 som reinvestering och utökning av kapacitet i kök och
-Avvecklas då byggnaden har nått sin tekniska livslängd
 matsal
-1509 Bostad mm Gustafs väg, rivning
-1501 Fjordskolan mottagningskök
+
+1506 Ombyggnad/Förändring av ”hemkök” på förskolor
+Befintliga kök på flertalet förskolor måste anpassas utifrån
+arbetsmiljösynpunkt men även livsmedelshantering
+1507 Bostadsmodul Tölöberg avveckling
+Avvecklas då hyreskontrakt löper ut och arrendeavtal sägs
+upp
+
+1508 Personalbyggnad Klovsten avveckling
 Avvecklas då byggnaden har nått sin tekniska livslängd
+
+131 Arena
+Arenahall med kommersiella lokaler som placeras söder om
+Kungsbacka Sportcenter
+1202 Tillfälliga lösningar eller oförutsedda händelser
+Medel för tillfälliga lokaler eller för hantering av oförutsedda
+behov som uppstår under planeringsperioden
+
+1406 Duveheds omlastningscentral
+Vid utbyggnad av Klovstens område behöver omlastnings-
+station ny plats i Duvehed
+
+1408 Skyddsrum Kvarteret Liljan
+Exploateringen av kvarteret gör att befintligt skyddsrum
+måste ersättas
+1410 Engångskostnader
+Medel för oplanerade lokalbehov såsom rivning och sanering
+som kan uppstå vid främst ombyggnationer av befintliga
+lokaler
+
+1411 Räddningstjänst
+Som följd av exploateringen i Sydöstra centrum måste rädd-
+ningstjänsten omlokaliseras
+
+1501 Fjordskolan mottagningskök
 Samlokalisering av Fjordskolans 3 ”leveransställen” till ett
 mottagningskök
-1510 Bostad Kallhällevägen rivning
-Avvecklas då byggnaden har nått sin tekniska livslängd
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
-1511 Toalettbyggnad Hanhals badplats
 uppnått tekniskt slutdatum Samordnas med projekt 335
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolan
+
+1509 Bostad mm Gustafs väg, rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+
+1510 Bostad Kallhällevägen rivning
+Avvecklas då byggnaden har nått sin tekniska livslängd
+1511 Toalettbyggnad Hanhals badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
 ver ersättas
+
 1503 Datahall
-1512 Toalettbyggnad Vallda Sandö
 Datahall/Serverrum och lagring för flertalet av kommunens
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 verksamhetssystem
-ver ersättas
 1504 Toalettbyggnad Åsa camping
-1513 Iseråsskolan paviljong avveckling och flytt
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Avveckling av paviljong då inget behov finns och att hyresav-
 ver ersättas
-talet löper ut
+
 1505 Toalettbyggnad Gårda brygga badplats
-1514 Datahall 2
 Befintlig byggnad har passerat sitt tekniska slutår och behö-
-Datahall/Serverrum och lagring för flertalet av kommunens
 ver ersättas
+
+1512 Toalettbyggnad Vallda Sandö
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas
+1513 Iseråsskolan paviljong avveckling och flytt
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut
+
+1514 Datahall 2
+Datahall/Serverrum och lagring för flertalet av kommunens
 verksamhetssystem
+
 50 Kommunbudget 2023 och plan 2024–2025                                                                                          Kommunbudget 2023 och plan 2024–2025 51
 
 <!-- sida 120 -->
@@ -8830,70 +9111,73 @@ Kungsbacka kommun, förvaltningen för Teknik Maxtaxa underlag november 2022    
 
 Guide       #24
 
-Mars 2022
+Mars  2022
 
-Bygg-      och     rivningsavfall              under
+Bygg-       och    rivningsavfall              under
 
 kommunalt              ansvar
 
-I KORTHET                              eller avfall som skulle förstöra materialåtervinning. Det
-kan också ha meddelats dispens från utsorteringskraven.
+I KORTHET
+
 • Bygg- och rivningsavfall ingår inte i kommunalt avfall,
-• Kommunen behöver inte ta emot alla fraktioner bygg-
 däremot får kommunerna från den 1 januari 2023
-och rivningsavfall på samtliga återvinningscentraler,
 ansvar för bygg- och rivningsavfall som inte producerats
-men behöver någon plats att kunna hänvisa invånarna
 i yrkesmässig verksamhet.
-till för deras fraktioner.
 • Detta kan innebära ökade avfallsmängder för
-• Det råder förbud mot förbränning av avfall som
 kommunerna att ta hand om eftersom den nya
-sorterats för att materialåtervinnas eller förberedas för
 lagstiftningens definitioner har en annorlunda
-återanvändning, men förbudet har undantagsmöjligheter
 omfattning.
-om kommunen som en del av behandlingssteget
 • Om bygg- och rivningsavfallet inte uppstått i en
-identifierar avfall vars bästa behandlingsmetod är
 yrkesmässig verksamhet är det kommunens ansvar,
-energiåtervinning.
 oavsett om avfallet uppstått i ett hushåll eller inte.
-• Kommunen behöver inte fysiskt hålla isär flöden som
 Om exempelvis en privatperson själv renoverar
-utgör kommunalt avfall från flöden som utgör bygg- och
 hemma så är det bara kommunen eller de utförare
-rivningsavfall. Naturvårdsverket hanterar fördelningen
 som kommunen upphandlat eller auktoriserat som får
-i statistiksammanhang med hjälp av schabloner. Målade
 transportera avfallet yrkesmässigt, om inte kommunens
-trämöbler kan alltså även fortsättningsvis blandas med
 avfallsföreskrifter medger annat. Om privatpersonen i
-målat virke.
 stället anlitar en yrkesmässig hantverkare faller avfallet
-• Fastighetsnära insamling skulle kunna upphandlas
 utanför kommunens ensamrätt.
-genom tjänstekoncession alternativt genom att
 • Utöver utsortering av farligt avfall och avfall under
-auktorisera utförare.
 producentansvar, ska den som producerar bygg- och
-• Kommunen behöver ta ställning till om den ska
 rivningsavfall sortera det i minst sex lagstadgade
-erbjuda obegränsade besök till återvinningscentral i
 fraktioner. Skyldigheten gäller även hushåll.
-grundavgiften, eller om endast ett visst antal besök,
 • Kommunen behöver kunna ta emot dessa fraktioner
-med en viss volym, ska ingå i grundavgiften medan
 skilda från varandra och från annat avfall för att öka
-ytterligare besök sker till en extra avgift.
 möjligheterna till återbruk och materialåtervinning.
-• Det rekommenderas att fastighetsnära insamling
 Kommunen behöver även fortsättningsvis också kunna
-hanteras genom så kallad tilläggsavgift i avfallstaxan.
 ta emot osorterat bygg- och rivningsavfall.
 • Undantag från utsorteringskraven gäller för
 sammanfogade konstruktioner och förorenade avfall,
 med andra ord avfall som inte går att materialåtervinna
+
+eller avfall som skulle förstöra materialåtervinning. Det
+kan också ha meddelats dispens från utsorteringskraven.
+• Kommunen behöver inte ta emot alla fraktioner bygg-
+och rivningsavfall på samtliga återvinningscentraler,
+men behöver någon plats att kunna hänvisa invånarna
+till för deras fraktioner.
+• Det råder förbud mot förbränning av avfall som
+sorterats för att materialåtervinnas eller förberedas för
+återanvändning, men förbudet har undantagsmöjligheter
+om kommunen som en del av behandlingssteget
+identifierar avfall vars bästa behandlingsmetod är
+energiåtervinning.
+• Kommunen behöver inte fysiskt hålla isär flöden som
+utgör kommunalt avfall från flöden som utgör bygg- och
+rivningsavfall. Naturvårdsverket hanterar fördelningen
+i statistiksammanhang med hjälp av schabloner. Målade
+trämöbler kan alltså även fortsättningsvis blandas med
+målat virke.
+• Fastighetsnära insamling skulle kunna upphandlas
+genom tjänstekoncession alternativt genom att
+auktorisera utförare.
+• Kommunen behöver ta ställning till om den ska
+erbjuda obegränsade besök till återvinningscentral i
+grundavgiften, eller om endast ett visst antal besök,
+med en viss volym, ska ingå i grundavgiften medan
+ytterligare besök sker till en extra avgift.
+• Det rekommenderas att fastighetsnära insamling
+hanteras genom så kallad tilläggsavgift i avfallstaxan.
 
 <!-- sida 209 -->
 
@@ -8931,76 +9215,47 @@ Bilaga: Informationsinsamling till guiden ......................................
 
 <!-- sida 210 -->
 
-1\. INLEDNING                        från annat avfall för att öka möjligheterna till återbruk och
-materialåtervinning. För de kommuner som idag inte samlar
+1\. INLEDNING
+
 Nya begrepp i lagstiftningen
-in de sex fraktionerna separat så kommer det innebära en
 Den 1 augusti 2020 trädde ny avfallslagstiftning i kraft
-förändring i exempelvis insamling på återvinningscentral
 vilket gjorde att avfallsförordningen 2011:927 ersattes med
-och, i den mån det sker, insamling vid fastighet. De sex
 2020:614. Även miljöbalken och annan relevant lagstiftning
-fraktionerna är trä, mineral (betong, tegel, klinker, keramik,
 uppdaterades. Ändringarna i lagstiftningen skedde delvis
-sten), metall, glas, plast och gips.
 på grund av att Sverige valt att anpassa sin lagstiftning
 mer till den europeiska lagstiftningen. Detta innebar bland
-Det är dock viktigt att poängtera att kraven gäller åtminstone
 annat att det svenska begreppet “hushållsavfall” ersattes av
-de sex uppräknade fraktionerna. Utöver detta finns också
 det begrepp som används i EU:s statistik och lagstiftning,
-de generella utsorteringskraven för exempelvis farligt
 “municipal waste” (på svenska “kommunalt avfall”). I
-avfall3 och avfall som omfattas av producentansvar. Även
 samband med att begreppet implementerades i svensk
-andra fraktioner ska sorteras ut om det medger bättre
 lagstiftning så ersattes även den svenska definitionen med
-avfallsbehandling i enlighet med avfallshierarkin.4
 den europeiska. Detta betyder att kommunalt avfall har en
 något annan omfattning än hushållsavfall. Läs mer om detta i
-Steg uppför avfallstrappan
 Avfall Sveriges guide om kommunalt avfall.
-Alla som behandlar avfall har ett ansvar för att försöka styra
-hanteringen högre upp i avfallshierarkin. Att förebygga
 Bygg- och rivningsavfall utgör enligt definitionen i 15 kap.
-uppkomsten av avfall är det översta steget i avfallshierarkin.
 3 § miljöbalken inte ”kommunalt avfall”. Däremot följer
-Avfallshierarkins prioritetsordning är
 det av miljöbalken 15 kap. 20 § att bygg- och rivningsavfall
-• Förebyggande av avfall
 som inte producerats i en yrkesmässig verksamhet faller
-• Återanvändning
 under kommunalt ansvar från och med år 2023. Det är
-• Materialåtervinning och biologisk återvinning
 alltså inte kommunalt avfall, men ingår i kommunalt ansvar.
-• Annan återvinning, till exempel energiåtervinning
 Definitionen av bygg- och rivningsavfall finns i 15 kap. 8 §
-• Bortskaffande, till exempel deponering
 miljöbalken: ”avfall från bygg- och rivningsarbeten”.
-I första hand ska alltså avfall förebyggas. Kommunen har
+
 Bygg- och rivningsavfall från icke-yrkesmässig verksamhet
-en skyldighet att lämna information till hushållen om
 (framöver kallat endast bygg- och rivningsavfall om inget
-avfallsförebyggande åtgärder. Detta och andra åtgärder
 annat specificeras) har en bredare omfattning än vad som
-och styrmedel som kommunen planerar att använda
 föll under begreppet hushållsavfall, som i förarbetena anges
-i avfallsförebyggande syfte, ska anges i kommunens
-vara “avfall som regelmässigt uppkommer vid nyttjande av avfallsplan.5 6 Detta bör säkerställas och följas upp genom
+vara “avfall som regelmässigt uppkommer vid nyttjande av
 mark och byggnad för bostadsändamål”1. Enligt tidigare
-exempelvis information och tillsyn.
 lagstiftning kunde man alltså argumentera för att exempelvis
 stora mängder rivningsavfall som uppstått vid renovering inte
-Utgångspunkten för bedömningen är att den behandling av
 var att klassa som regelmässigt uppkommande vid boende.
-avfallet som bäst skyddar människors hälsa och miljön som
 Samma argument kan inte göras för den nya lagstiftningen.
-helhet ska anses som lämpligast, om behandlingen inte är
-orimlig.
 Notera att även andra än hushåll kan utgöra icke yrkesmässig
 verksamhet under vissa omständigheter, till exempel en ideell
 förening. Avfall från sådana verksamheter faller därmed
 också under kommunens ansvar, läs mer i kapitel 2.1.
+
 Nya krav på utsortering
 Utöver det nya begreppet med en ny definition, finns det
 numera även krav på att utsortering av sex bygg- och
@@ -9008,6 +9263,45 @@ rivningsavfallsfraktioner ska göras av den som producerar
 avfallet. Den som samlar in sådant utsorterat avfall ska också
 samla in det separat2. Detta innebär att kommunen behöver
 kunna ta emot dessa fraktioner skilda från varandra och
+
+från annat avfall för att öka möjligheterna till återbruk och
+materialåtervinning. För de kommuner som idag inte samlar
+in de sex fraktionerna separat så kommer det innebära en
+förändring i exempelvis insamling på återvinningscentral
+och, i den mån det sker, insamling vid fastighet. De sex
+fraktionerna är trä, mineral (betong, tegel, klinker, keramik,
+sten), metall, glas, plast och gips.
+
+Det är dock viktigt att poängtera att kraven gäller åtminstone
+de sex uppräknade fraktionerna. Utöver detta finns också
+de generella utsorteringskraven för exempelvis farligt
+avfall3 och avfall som omfattas av producentansvar. Även
+andra fraktioner ska sorteras ut om det medger bättre
+avfallsbehandling i enlighet med avfallshierarkin.4
+Steg uppför avfallstrappan
+Alla som behandlar avfall har ett ansvar för att försöka styra
+hanteringen högre upp i avfallshierarkin. Att förebygga
+uppkomsten av avfall är det översta steget i avfallshierarkin.
+Avfallshierarkins prioritetsordning är
+• Förebyggande av avfall
+• Återanvändning
+• Materialåtervinning och biologisk återvinning
+• Annan återvinning, till exempel energiåtervinning
+• Bortskaffande, till exempel deponering
+
+I första hand ska alltså avfall förebyggas. Kommunen har
+en skyldighet att lämna information till hushållen om
+avfallsförebyggande åtgärder. Detta och andra åtgärder
+och styrmedel som kommunen planerar att använda
+i avfallsförebyggande syfte, ska anges i kommunens
+avfallsplan.5 6 Detta bör säkerställas och följas upp genom
+exempelvis information och tillsyn.
+
+Utgångspunkten för bedömningen är att den behandling av
+avfallet som bäst skyddar människors hälsa och miljön som
+helhet ska anses som lämpligast, om behandlingen inte är
+orimlig.
+
 1 Prop. 1997/98:45 del 2 s 185.
 2 3 kap. 10 och 11 §§ avfallsförordningen
 3 Avfallsförordningen 4 kap. 10§
@@ -9021,72 +9315,106 @@ hemsida. https://www.boverket.se/sv/PBL-kunskapsbanken/teman/rivningsavfall/allm
 <!-- sida 211 -->
 
 2\. JURIDISKA
-Yrkesmässig verksamhet som inte huvudsakligen arbetar
 FÖRUTSÄTTNINGAR
-med byggnation och rivning
-Stora delar av det bygg- och rivningsavfall som produceras
+
 2.1 Icke yrkesmässig verksamhet
-i bostäder produceras när hantverkare anlitas för bygg- och
-Om bygg- och rivningsavfallet inte uppstått i en yrkesmässig rivningsarbeten, då har avfallet uppstått i hantverkarens
-verksamhet är det kommunens ansvar, oavsett om avfallet yrkesmässiga verksamhet.8 Det produceras även bygg- och
-uppstått i ett hushåll eller inte. För att veta vad som inte rivningsavfall i samband med åtgärder som utförs av en
-är yrkesmässig verksamhet så behöver man veta vad som aktör som äger eller förvaltar en fastighet i yrkesmässig
-definieras som yrkesmässig verksamhet. Detta är ett begrepp verksamhet, till exempel en fastighetsägare som hyr ut
-som saknar legaldefinition och inte har berörts i förarbetena bostadslägenheter och lokaler vars vaktmästare utfört
-till miljöbalken eller till tidigare lagstiftning. åtgärderna. Även det avfall som uppkommer i sådana fall
-bör anses uppkomma i den yrkesmässiga verksamheten. En
-Avfall Sverige rekommenderar att, i avvaktan på vägledande verksamhet som producerar bygg- och rivningsavfall kan
-praxis, använda skattelagstiftningens tolkning av begreppet. vara yrkesmässig även om det inte är en verksamhet som
-Det innebär att en verksamhet är yrkesmässig åtminstone huvudsakligen vidtar bygg- och rivningsåtgärder. Om bygg-
-om den är skattepliktig i inkomstslaget näringsverksamhet och rivningsavfallet producerats i verksamheten, oavsett
-och/eller det är fråga om en skattepliktig omsättning verksamhetstyp, är det fråga om avfall som uppkommit i
-enligt mervärdesskattelagen. Som jämförelse är enligt den yrkesmässiga verksamheten och verksamhetsutövaren
-yrkestrafiklagstiftningen transport av avfall och annat gods ansvarar för hanteringen av detta avfall. Ett exempel på detta
-att anse som yrkesmässig om den bedrivs av en fysisk eller kan vara en butiksinnehavare som renoverar och alltså inte
-juridisk person i kommersiellt syfte,7 dvs. med vinstsyfte eller har byggnation och rivning som näringsverksamhet.
+Om bygg- och rivningsavfallet inte uppstått i en yrkesmässig
+verksamhet är det kommunens ansvar, oavsett om avfallet
+uppstått i ett hushåll eller inte. För att veta vad som inte
+är yrkesmässig verksamhet så behöver man veta vad som
+definieras som yrkesmässig verksamhet. Detta är ett begrepp
+som saknar legaldefinition och inte har berörts i förarbetena
+till miljöbalken eller till tidigare lagstiftning.
+
+Avfall Sverige rekommenderar att, i avvaktan på vägledande
+praxis, använda skattelagstiftningens tolkning av begreppet.
+Det innebär att en verksamhet är yrkesmässig åtminstone
+om den är skattepliktig i inkomstslaget näringsverksamhet
+och/eller det är fråga om en skattepliktig omsättning
+enligt mervärdesskattelagen. Som jämförelse är enligt
+yrkestrafiklagstiftningen transport av avfall och annat gods
+att anse som yrkesmässig om den bedrivs av en fysisk eller
+juridisk person i kommersiellt syfte,7 dvs. med vinstsyfte eller
 annars i konkurrens.
-Kontroll av yrkesmässig verksamhet
-Det avgörande blir alltså om avfallet uppkommit i En fråga som uppkommer är hur kommunen kan kontrollera
-en verksamhet som ska beskattas i inkomstslaget om bygg- och rivningsavfallet uppstår i icke yrkesmässig
-näringsverksamhet. En verksamhet med F-skattsedel verksamhet, till exempel att en fastighetsägare som
-är en sådan verksamhet. Uthyrning av hyresrätter är en beställer fastighetsnära insamling av kommunen inte
-yrkesmässig verksamhet. Däremot är en bostadsrättsförening har anlitat hantverkare. Ett tips är att göra kontroll via
-eller en kooperativ hyresrättsförening som syftar till att förse kommunens bygglovsenhet, till exempel via bygganmälan
-medlemmarna med bostad inte en yrkesmässig verksamhet, där fastighetsinnehavaren intygar att de antingen gör bygget
-eftersom den inte är en näringsverksamhet och inte drivs själva eller med hjälp av hantverkare.
+
+Det avgörande blir alltså om avfallet uppkommit i
+en verksamhet som ska beskattas i inkomstslaget
+näringsverksamhet. En verksamhet med F-skattsedel
+är en sådan verksamhet. Uthyrning av hyresrätter är en
+yrkesmässig verksamhet. Däremot är en bostadsrättsförening
+eller en kooperativ hyresrättsförening som syftar till att förse
+medlemmarna med bostad inte en yrkesmässig verksamhet,
+eftersom den inte är en näringsverksamhet och inte drivs
 i kommersiellt syfte. Dock anlitar sådana förening oftast
-byggfirmor och andra yrkesmässiga verksamheter för sina 2.2 Avfallsproducent
+byggfirmor och andra yrkesmässiga verksamheter för sina
 arbeten.
-Om hushåll anlitar en yrkesmässig verksamhet för
-byggnation eller rivning anses alltså avfallet uppstå i den
 Var gränsen går för vad som ska anses ”yrkesmässig”
-yrkesmässiga verksamheten. Den yrkesmässiga verksamheten
 verksamhet i ideella föreningar är oklart här, men åtminstone
-är avfallsproducent för det avfall som uppstår som en direkt
 den del av ideell verksamhet för vilken föreningen är skyldig
-följd av arbetena9 och har faktiskt möjlighet att vidta de
 att betala inkomst- eller mervärdesskatt bör anses som
-åtgärder som krävs, samt rättslig möjlighet i enlighet med
 yrkesmässig.
-avtalet med beställaren (exempelvis hushållet).
+
 Att kommunerna ska ansvara för avfall från bygg- och
-I Naturvårdsverkets vägledning10 om vem som är
 rivningsåtgärder som inte uppstår i en yrkesmässig
-avfallsproducent anges också följande:
 verksamhet, innebär alltså i praktiken främst bygg- och
 rivningsavfall som uppkommer när till exempel hushållet,
-Det avfall som uppstår som en följd av service och
 den lilla idrottsföreningen eller bostadsrättsföreningen
-underhåll och liknande arbeten, bör normalt anses
 själva genomför åtgärder för egen räkning utan att anlita ett
-uppstå i den egna verksamheten. Det betyder att
 företag – exempelvis själv bygger om hemma, själva bygger
-avfallet uppstår i den verksamhet som utför
 sin klubbstuga eller gräver upp sin markbädd och andra delar
-servicen eller underhållet, även om arbetet
 av sin avloppsanläggning.
+
+Yrkesmässig verksamhet som inte huvudsakligen arbetar
+med byggnation och rivning
+Stora delar av det bygg- och rivningsavfall som produceras
+i bostäder produceras när hantverkare anlitas för bygg- och
+rivningsarbeten, då har avfallet uppstått i hantverkarens
+yrkesmässiga verksamhet.8 Det produceras även bygg- och
+rivningsavfall i samband med åtgärder som utförs av en
+aktör som äger eller förvaltar en fastighet i yrkesmässig
+verksamhet, till exempel en fastighetsägare som hyr ut
+bostadslägenheter och lokaler vars vaktmästare utfört
+åtgärderna. Även det avfall som uppkommer i sådana fall
+bör anses uppkomma i den yrkesmässiga verksamheten. En
+verksamhet som producerar bygg- och rivningsavfall kan
+vara yrkesmässig även om det inte är en verksamhet som
+huvudsakligen vidtar bygg- och rivningsåtgärder. Om bygg-
+och rivningsavfallet producerats i verksamheten, oavsett
+verksamhetstyp, är det fråga om avfall som uppkommit i
+den yrkesmässiga verksamheten och verksamhetsutövaren
+ansvarar för hanteringen av detta avfall. Ett exempel på detta
+kan vara en butiksinnehavare som renoverar och alltså inte
+har byggnation och rivning som näringsverksamhet.
+Kontroll av yrkesmässig verksamhet
+En fråga som uppkommer är hur kommunen kan kontrollera
+om bygg- och rivningsavfallet uppstår i icke yrkesmässig
+verksamhet, till exempel att en fastighetsägare som
+beställer fastighetsnära insamling av kommunen inte
+har anlitat hantverkare. Ett tips är att göra kontroll via
+kommunens bygglovsenhet, till exempel via bygganmälan
+där fastighetsinnehavaren intygar att de antingen gör bygget
+själva eller med hjälp av hantverkare.
+
+2.2 Avfallsproducent
+Om hushåll anlitar en yrkesmässig verksamhet för
+byggnation eller rivning anses alltså avfallet uppstå i den
+yrkesmässiga verksamheten. Den yrkesmässiga verksamheten
+är avfallsproducent för det avfall som uppstår som en direkt
+följd av arbetena9 och har faktiskt möjlighet att vidta de
+åtgärder som krävs, samt rättslig möjlighet i enlighet med
+avtalet med beställaren (exempelvis hushållet).
+
+I Naturvårdsverkets vägledning10 om vem som är
+avfallsproducent anges också följande:
+
+Det avfall som uppstår som en följd av service och
+underhåll och liknande arbeten, bör normalt anses
+uppstå i den egna verksamheten. Det betyder att
+avfallet uppstår i den verksamhet som utför
+servicen eller underhållet, även om arbetet
 utförs hos någon annan eller på annan plats än
 i de egna verksamhetslokalerna. … Detta gäller
+
 7 Förordning (EG)1071/2009, artikel 2.1 och 2.3.
 8 Detta stycke: Prop. 2019/20:156, sid 45–46.
 9 Prop. 2019/20:156, sid 45.
@@ -9095,71 +9423,92 @@ i de egna verksamhetslokalerna. … Detta gäller
 
 <!-- sida 212 -->
 
-dock endast det avfall som uppkommer som en avfall de producerat,18 vilket innebär att den här situationen
-direkt följd av att det specifika arbetet utförs. sällan uppstår på ett sätt som gör att den enskilda kommunen
-Som huvudregel är det den som utför servicen som behöver ta ställning till det i samband med mottagning.
+dock endast det avfall som uppkommer som en
+direkt följd av att det specifika arbetet utförs.
+Som huvudregel är det den som utför servicen som
 bör ha kontroll över vilket avfall som kommer
-uppstå och hur det ska hanteras och således är det 2.3 Kommunalt avfallsansvar
+uppstå och hur det ska hanteras och således är det
 den som är avfallsproducent.
-Kommunen har generellt ensamrätt att transportera och
-behandla avfall under kommunalt avfallsansvar. Det betyder
+
 I miljöbalken11 definieras avfallsproducent som ”den som
-att om en privatperson själv renoverar hemma så är det bara
 ger upphov till avfall (ursprunglig avfallsproducent) och
-kommunen eller de utförare som kommunen upphandlat
 den som genom förbehandling, blandning eller andra
-eller auktoriserat som får transportera avfallet yrkesmässigt.
 förfaranden ändrar avfallets art eller sammansättning”.
-Skulle någon utförare transportera avfallet utan kommunens
 Den ursprungliga avfallsproducenten har som utgångspunkt
-uppdrag bryter de mot kommunernas ensamrätt, vilket
 ansvaret för kostnaderna för att hantera det avfall som
-är straffsanktionerat enligt miljöbalken. Beroende på hur
 denna har producerat, samt ett kontrollansvar.12 Ansvaret
-den enskilda kommunens avfallsföreskrifter är utformade
 kan dock, helt eller delvis, överlämnas till entreprenör eller
-kan det dock vara så att borttransport av annan än
 underentreprenör, om det är avtalat genom exempelvis ett
-fastighetsinnehavaren eller hushållet inte är begränsad med
 entreprenadavtal.13 14
-hänvisning till domen i avgörandet om Tiptapp (Mark- och
-miljööverdomstolens dom i mål nr M6891-20).
 Ett hushåll kan vara byggherre, vilket definieras som den
 som för egen räkning utför eller låter utföra projekterings-,
-Om avfallet har uppstått i yrkesmässigt utövande, till exempel
 byggnads-, rivnings- eller markarbeten.15 En byggherre kan
-att en privatperson anlitar en hantverkare så faller avfallet
 med andra ord antingen utföra arbetet själv16 eller agera
-utanför kommunens ensamrätt och då kan vem som helst
 beställare genom att anlita entreprenörer som ska utföra
-transportera och behandla avfallet (under förutsättning att de
 arbetet.
-uppfyller övriga krav i avfallslagstiftningen). Eftersom detta
-avfall då inte heller är att se som avfall under kommunalt
+
 En beställare har flera olika ansvar enligt bland annat
-ansvar har kommunen ingen skyldighet att hämta eller ta
 plan- och bygglagen, arbetsmiljölagen och miljöbalken, men
-emot avfallet.
 detta gör inte automatiskt beställaren till avfallsproducent
 om entreprenör har anlitats att utföra själva arbetet. Då är
-Avfall Sveriges och Sveriges Kommuner och Regioners
 entreprenören avfallsproducent, enligt resonemanget ovan.
-underlag för avfallsföreskrifter (rapport 2017:1) har anpassats
 Beställaren kan dock ha kvar ett kontrollansvar och ett
-utifrån de nya kraven avseende bygg- och rivningsavfall från
 kostnadsansvar. Avfallsproducentens rådighet över avfallet
-icke yrkesmässig verksamhet.
 kan också begränsas genom avtal med beställaren.
-2.4 Undantag från separat utsortering
+
 Naturvårdsverket menar i sin vägledning17 att om det finns
-oklarheter om vem som är ansvarig för avfallet så bör man Lagstiftningen säger att sex fraktioner av bygg-
-titta på i vems verksamhet avfallet uppstått. Här pekar och rivningsavfallet samt farligt avfall19, elavfall,
-Naturvårdsverket på att om det uppstår en situation där en förpackningsavfall och brännbart avfall (d.v.s. det brännbara
-entreprenör har anlitats för att utföra ett arbete, men inte avfall som blir kvar efter att övriga nämnda avfallsslag
-får rådighet över avfallet, så ska i stället beställaren ses om sorterats ut), ska utsorteras och samlas in separat från
-avfallsproducent. Avfall Sverige menar att det finns få fall i varandra och från annat avfall.20 Naturvårdsverket
-praktiken där en beställare, i form av ett hushåll, inte tillåter har meddelat generella föreskrifter om undantag från
-entreprenören (hantverkaren, byggfirman) att ta hand om det utsorteringskraven21 för bygg- och rivningsavfall22 och
+oklarheter om vem som är ansvarig för avfallet så bör man
+titta på i vems verksamhet avfallet uppstått. Här pekar
+Naturvårdsverket på att om det uppstår en situation där en
+entreprenör har anlitats för att utföra ett arbete, men inte
+får rådighet över avfallet, så ska i stället beställaren ses om
+avfallsproducent. Avfall Sverige menar att det finns få fall i
+praktiken där en beställare, i form av ett hushåll, inte tillåter
+entreprenören (hantverkaren, byggfirman) att ta hand om det
+
+avfall de producerat,18 vilket innebär att den här situationen
+sällan uppstår på ett sätt som gör att den enskilda kommunen
+behöver ta ställning till det i samband med mottagning.
+
+2.3 Kommunalt avfallsansvar
+Kommunen har generellt ensamrätt att transportera och
+behandla avfall under kommunalt avfallsansvar. Det betyder
+att om en privatperson själv renoverar hemma så är det bara
+kommunen eller de utförare som kommunen upphandlat
+eller auktoriserat som får transportera avfallet yrkesmässigt.
+Skulle någon utförare transportera avfallet utan kommunens
+uppdrag bryter de mot kommunernas ensamrätt, vilket
+är straffsanktionerat enligt miljöbalken. Beroende på hur
+den enskilda kommunens avfallsföreskrifter är utformade
+kan det dock vara så att borttransport av annan än
+fastighetsinnehavaren eller hushållet inte är begränsad med
+hänvisning till domen i avgörandet om Tiptapp (Mark- och
+miljööverdomstolens dom i mål nr M6891-20).
+
+Om avfallet har uppstått i yrkesmässigt utövande, till exempel
+att en privatperson anlitar en hantverkare så faller avfallet
+utanför kommunens ensamrätt och då kan vem som helst
+transportera och behandla avfallet (under förutsättning att de
+uppfyller övriga krav i avfallslagstiftningen). Eftersom detta
+avfall då inte heller är att se som avfall under kommunalt
+ansvar har kommunen ingen skyldighet att hämta eller ta
+emot avfallet.
+Avfall Sveriges och Sveriges Kommuner och Regioners
+underlag för avfallsföreskrifter (rapport 2017:1) har anpassats
+utifrån de nya kraven avseende bygg- och rivningsavfall från
+icke yrkesmässig verksamhet.
+
+2.4 Undantag från separat utsortering
+
+Lagstiftningen säger att sex fraktioner av bygg-
+och rivningsavfallet samt farligt avfall19, elavfall,
+förpackningsavfall och brännbart avfall (d.v.s. det brännbara
+avfall som blir kvar efter att övriga nämnda avfallsslag
+sorterats ut), ska utsorteras och samlas in separat från
+varandra och från annat avfall.20 Naturvårdsverket
+har meddelat generella föreskrifter om undantag från
+utsorteringskraven21 för bygg- och rivningsavfall22 och
+
 11 15 kap 4 § miljöbalken
 12 Ansvar att se till att avfallet genomgår en fullständig behandling i enlighet med avfallshierarkin.
 13 15 kap 11a § miljöbalken
@@ -9181,55 +9530,41 @@ avfallsföreskrifter och ska sortera ut spillolja, se 3 kap. 6 § avfallsförord
 
 <!-- sida 213 -->
 
-brännbart avfall23 som:             2.6 Behandling och förbud mot förbränning
+brännbart avfall23 som:
 1\. utgörs av konstruktioner där ämnen eller föremål
-Det insamlade avfallet ska behandlas i enlighet med
 sammanfogats på ett sätt som gör att separering inte
-avfallshierarkin i 15 kap. 10 § miljöbalken. Det kan innebära
 är tekniskt genomförbar med hänsyn till god praxis för
-att det krävs viss eftersortering för avfall som med stöd
 avfallsinsamling, eller
-av undantag eller dispens inte sorterats ut eller samlats in
 2\. är förorenade på ett sätt som gör att inblandning i det
-separat. De lagstadgade fraktionerna ska samlas in utsorterat
 övriga utsorterade avfallet försvårar eller omöjliggör
-i syfte att ge renare strömmar som underlättar för avfallet att
 den lämpligaste behandlingen enligt avfallshierarkin i
-ta sig uppför avfallshierarkin. När det lämnats till kommunen
 15 kap. 10 § miljöbalken.
-är det kommunen som ansvarar för att det behandlas i
-enlighet med detta.26
+
 Ur detta kan man alltså läsa att undantag gäller från
 utsorteringskraven för sammanfogade konstruktioner och
-Insamlat avfall ska i första hand förberedas för
 förorenade avfall.
-återanvändning, vilket är ett återvinningsförfarande27. När
 Det generella undantaget för utsortering i Naturvårdsverkets
-det genom kontrollen har återvunnits, upphör materialet att
 föreskrifter gäller alltså utsortering “vid källan”, där
-vara avfall28. Se vidare i Avfall Sveriges Guide #9 om juridiska
 avfallet uppkommer, och alltså inte när kommunen tar emot
-förutsättningar för förebyggande och återanvändning.
 utsorterat avfall.
-Enligt avfallsförordningen29 råder förbud mot förbränning av
 2.5 Dispens
-avfall som samlats in för att förberedas för återanvändning
-Tillsynsmyndigheten kan i det enskilda fallet ge dispens24 eller för att materialåtervinnas. Det finns dock undantag och
-om det finns andra fall där det inte bedöms vara möjligt att förbudet betyder alltså inte att inget av det som samlas in får
-sortera ut nämnda fraktioner av bygg- och rivningsavfall och gå till förbränning, det vill säga energiåtervinning, eller att
-brännbart avfall.                   kommunerna måste skaffa återbruk-/återvinningsavsättning
-för allt utsorterat avfall.
+
+Tillsynsmyndigheten kan i det enskilda fallet ge dispens24
+om det finns andra fall där det inte bedöms vara möjligt att
+sortera ut nämnda fraktioner av bygg- och rivningsavfall och
+brännbart avfall.
+
 Det finns även en möjlighet för myndigheten att ge dispens
-från separat insamling25 när detta inte är möjligt eller Ett sådant undantag är det avfall som uppstår i
-fördelarna inte överväger nackdelarna, vilket är fallet om: behandlingssteget efter insamlingen, exempelvis vid
-1\. Separat insamling inte är tekniskt möjlig, sortering inför materialåtervinning. Det är då naturligt att i
-2\. Annan hantering ger samma återvinningsresultat, detta steg identifiera avfall som inte går att materialåtervinna
-3\. Separata insamlingens sammanlagda miljöpåverkan och därför bedöms ha energiåtervinning som lämpligaste
-inte är den bästa, eller         behandling. Det innebär till exempel att det inte är något
-4\. Den medför oskäliga ekonomiska kostnader, med generellt förbud mot att behandla utsorterat trä genom
-hänsyn till                      energiåtervinning, om det bedöms vara den mest lämpliga
-1\. Negativa effekter på människors hälsa och miljön metoden. Avfallshierarkins prioritetsordning är grunden för
-2\. Möjligheterna till effektivitetsförbättringar bedömningen.
+från separat insamling25 när detta inte är möjligt eller
+fördelarna inte överväger nackdelarna, vilket är fallet om:
+1\. Separat insamling inte är tekniskt möjlig,
+2\. Annan hantering ger samma återvinningsresultat,
+3\. Separata insamlingens sammanlagda miljöpåverkan
+inte är den bästa, eller
+4\. Den medför oskäliga ekonomiska kostnader, med
+hänsyn till
+1\. Negativa effekter på människors hälsa och miljön
+2\. Möjligheterna till effektivitetsförbättringar
 3\. Vilka intäkter som försäljning av återvunnet
 material kan ge och
 4\. Principen om att den som förorenar bör stå för
@@ -9237,6 +9572,42 @@ kostnaderna
 Till skillnad från det generella undantaget så innebär en
 dispens att ett aktivt beslut måste tas av tillsynsmyndigheten
 i det enskilda fallet.
+
+2.6 Behandling och förbud mot förbränning
+Det insamlade avfallet ska behandlas i enlighet med
+avfallshierarkin i 15 kap. 10 § miljöbalken. Det kan innebära
+att det krävs viss eftersortering för avfall som med stöd
+av undantag eller dispens inte sorterats ut eller samlats in
+separat. De lagstadgade fraktionerna ska samlas in utsorterat
+i syfte att ge renare strömmar som underlättar för avfallet att
+ta sig uppför avfallshierarkin. När det lämnats till kommunen
+är det kommunen som ansvarar för att det behandlas i
+enlighet med detta.26
+
+Insamlat avfall ska i första hand förberedas för
+återanvändning, vilket är ett återvinningsförfarande27. När
+det genom kontrollen har återvunnits, upphör materialet att
+vara avfall28. Se vidare i Avfall Sveriges Guide #9 om juridiska
+förutsättningar för förebyggande och återanvändning.
+
+Enligt avfallsförordningen29 råder förbud mot förbränning av
+avfall som samlats in för att förberedas för återanvändning
+eller för att materialåtervinnas. Det finns dock undantag och
+förbudet betyder alltså inte att inget av det som samlas in får
+gå till förbränning, det vill säga energiåtervinning, eller att
+kommunerna måste skaffa återbruk-/återvinningsavsättning
+för allt utsorterat avfall.
+Ett sådant undantag är det avfall som uppstår i
+behandlingssteget efter insamlingen, exempelvis vid
+sortering inför materialåtervinning. Det är då naturligt att i
+detta steg identifiera avfall som inte går att materialåtervinna
+och därför bedöms ha energiåtervinning som lämpligaste
+behandling. Det innebär till exempel att det inte är något
+generellt förbud mot att behandla utsorterat trä genom
+energiåtervinning, om det bedöms vara den mest lämpliga
+metoden. Avfallshierarkins prioritetsordning är grunden för
+bedömningen.
+
 23 Avfallsförordningen 3 kap. 12 §
 24 Avfallsförordningen 3 kap. 15 §
 25 Avfallsförordningen 3 kap. 16–17 §§
@@ -9249,29 +9620,27 @@ stycket avfallsförordningen (yrkesmässig verksamhet behöver inte kontrollera 
 
 <!-- sida 214 -->
 
-3\. UTREDNING    AV PRAKTISKA        Möjligheter till avsättning
-Att få avsättning för det insamlade avfallet kan i vissa
+3\. UTREDNING    AV PRAKTISKA
 FÖRÄNDRINGAR
-fall vara en utmaning för kommunerna, särskilt eftersom
-Det nya kommunala ansvaret för bygg- och rivningsavfall avfall utsorterat för materialåtervinning, som regel, inte får
-från icke yrkesmässig verksamhet börjar gälla 1 januari energiåtervinnas (se kapitel 2. Juridiska förutsättningar).
-2023\. Kommunerna behöver ha beredskap för att kunna Möjligheter till avsättning skiljer sig åt stort beroende på var
-hantera större mängder och nya typer av avfall än kommunen i landet kommunen finns, och det kan därför vara en god idé
-tidigare hanterat. Kommunen behöver även ta ställning till att föra en aktiv dialog med näringsliv och organisationer i
-om bygg- och rivningsavfallet i första hand ska hänvisas regionen för att utreda vilka aktörer som finns tillgängliga
-till större avfallsanläggningar eller om det kan hanteras på och hitta potentiella utförare.
+
+Det nya kommunala ansvaret för bygg- och rivningsavfall
+från icke yrkesmässig verksamhet börjar gälla 1 januari
+2023\. Kommunerna behöver ha beredskap för att kunna
+hantera större mängder och nya typer av avfall än kommunen
+tidigare hanterat. Kommunen behöver även ta ställning till
+om bygg- och rivningsavfallet i första hand ska hänvisas
+till större avfallsanläggningar eller om det kan hanteras på
 återvinningscentralen.
-Många kommuner ser även utmaningar gällande att
-I samband med det nya ansvaret behöver varje kommun komma upp i tillräckliga volymer för att hitta bra
-planera för hur bygg- och rivningsavfall ska samlas in och avsättningsmöjligheter. En möjlighet är därför att etablera
-hanteras. Förändringar och utmaningar kopplat till det större regionala nätverk där man kan samverka (till
-nya ansvaret skiljer sig åt mellan kommuner. Bland annat exempel genom gemensam upphandling av förmedling och
-beror det på hur kommunen idag hanterar dessa frågor, auktionstjänster för återvinning eller gemensamma digitala
-och vilka förutsättningar som finns i kommunen gällande marknadsplatser), gemensamt utvärdera lösningar och
-exempelvis fastighetsnära insamling, utsortering på komma upp i större volymer för avsättning. Något som skulle
-återvinningscentralerna och avsättning. kunna öka avsättningen är om det saluförs på fysiska eller
-digitala marknadsplatser gemensamt med nya produkter av
-Hindra eller möjliggöra andra aktörer samma slag.
+
+I samband med det nya ansvaret behöver varje kommun
+planera för hur bygg- och rivningsavfall ska samlas in och
+hanteras. Förändringar och utmaningar kopplat till det
+nya ansvaret skiljer sig åt mellan kommuner. Bland annat
+beror det på hur kommunen idag hanterar dessa frågor,
+och vilka förutsättningar som finns i kommunen gällande
+exempelvis fastighetsnära insamling, utsortering på
+återvinningscentralerna och avsättning.
+Hindra eller möjliggöra andra aktörer
 Precis som för annat avfall än bygg- och rivningsavfall, som
 samlas in vid återvinningscentraler, så behöver kommunen
 analysera och besluta hur kommunen ska förhålla sig till att
@@ -9282,10 +9651,12 @@ med hjälp av annan icke yrkesmässig aktör) att transportera
 avfallet till återvinningscentralen. Detta med utgångspunkt
 i Mark- och miljööverdomstolens avgörande avseende
 Stockholms stad och TipTapp30.
+
 Förändrade mängder bygg- och rivningsavfall
 Kommunen behöver ha beredskap för att kunna hantera
 större mängder och nya typer av avfall än kommunen tidigare
 hanterat.
+
 Det kan vara lämpligt att undersöka hur stor ökning av
 bygg- och rivningsavfall som kan förväntas till följd av det
 nya ansvaret. Detta beror framför allt på hur stor del av
@@ -9298,6 +9669,29 @@ om kommunen idag hanterar bygg- och rivningsavfall från
 verksamheter, och om man i så fall planerar att fortsätta med
 detta.
 
+Möjligheter till avsättning
+Att få avsättning för det insamlade avfallet kan i vissa
+fall vara en utmaning för kommunerna, särskilt eftersom
+avfall utsorterat för materialåtervinning, som regel, inte får
+energiåtervinnas (se kapitel 2. Juridiska förutsättningar).
+Möjligheter till avsättning skiljer sig åt stort beroende på var
+i landet kommunen finns, och det kan därför vara en god idé
+att föra en aktiv dialog med näringsliv och organisationer i
+regionen för att utreda vilka aktörer som finns tillgängliga
+och hitta potentiella utförare.
+
+Många kommuner ser även utmaningar gällande att
+komma upp i tillräckliga volymer för att hitta bra
+avsättningsmöjligheter. En möjlighet är därför att etablera
+större regionala nätverk där man kan samverka (till
+exempel genom gemensam upphandling av förmedling och
+auktionstjänster för återvinning eller gemensamma digitala
+marknadsplatser), gemensamt utvärdera lösningar och
+komma upp i större volymer för avsättning. Något som skulle
+kunna öka avsättningen är om det saluförs på fysiska eller
+digitala marknadsplatser gemensamt med nya produkter av
+samma slag.
+
 30 Mark- och miljööverdomstolens dom i mål nr M 6891-20. Observera att yrkesmässiga transporter har att följa särskilda regler om tillståndsplikt för
 avfallstransport, rapportering m.m. avseende farligt avfall, samt yrkestrafiktillstånd. Detta tas inte upp i domen eftersom målet endast avser frågan om det
 föreligger grund för förbud av applikationens förmedlingstjänst.
@@ -9305,58 +9699,104 @@ föreligger grund för förbud av applikationens förmedlingstjänst.
 
 <!-- sida 215 -->
 
-4\. INSAMLINGSLÖSNINGAR              vara ett rimligt alternativ att även fortsättningsvis i första
-hand försöka styra bygg- och rivningsavfallet till befintliga
+4\. INSAMLINGSLÖSNINGAR
+
 De största praktiska förändringarna när det gäller
-återvinningscentraler.
 insamlingslösningar väntas vara att:
-1\. kommunen måste kunna hantera fastighetsnära Krav på kommunen att ta emot utsorterat avfall
-insamling om den som producerat icke yrkesmässigt Vid mottagning av bygg- och rivningsavfall via
-bygg- och rivningsavfall begär det, och insamlingen återvinningscentraler har kommunen krav på sig att de sex
-behöver ske i de fraktioner som avfallet sorterats ut i. lagstadgade fraktionerna (se kapitel 5) samlas in separat om
-2\. mängderna bygg- och rivningsavfall som kommunen det lämnats in utsorterat. Samtliga fraktioner behöver inte
-behöver hantera på återvinningscentraler kan komma finnas på samtliga återvinningscentraler, men om kommunen
-att öka och kommunerna kan komma att behöva utöka väljer att inte ta emot samtliga fraktioner på samma ställe
-mottagningen för vissa fraktioner alternativt hänvisa så finns det risk för förvirring hos besökare, aggression
-större mängder bygg- och rivningsavfall till annan egen mot personal och nedskräpning i naturen. Väljer man detta
-eller upphandlad mottagningsanläggning. alternativ är det viktigt med information och kommunikation.
-Några viktiga faktorer att beakta vid utvärdering och val av Om någon eller några av kommunens återvinningscentraler
-insamlingslösningar är:             har begränsad kapacitet kan man överväga att hänvisa
-• kapacitet och lokalisering på befintliga kunder med stora mängder bygg- och rivningsavfall till
-återvinningscentraler            kommunens största återvinningscentral, och se till att
-• transportavstånd inom kommunen   förbereda denna återvinningscentral för att ta emot större
-• möjligheter att transportera och mellanlagra bygg- mängder utsorterat bygg- och rivningsavfall, alternativt
-och rivningsavfall på återvinningscentral eller hänvisa större mängder till avfallsanläggningar eller privata
-avfallsanläggning                utförare som man har avtal med. Exempel på sådana
-• möjligheter att hänvisa kunder till större fraktioner kan vara mineral eller större mängder farligt
-avfallsanläggningar i regionen   avfall såsom asbest. Det kan även vara bra att hänvisa
-• vad som står i gällande tillstånd och anmälan gällande vissa fraktioner till en specifik återvinningscentral, om det
-lagringsmängder                  inte finns kapacitet att ta emot dessa på alla kommunens
-återvinningscentraler.
+1\. kommunen måste kunna hantera fastighetsnära
+insamling om den som producerat icke yrkesmässigt
+bygg- och rivningsavfall begär det, och insamlingen
+behöver ske i de fraktioner som avfallet sorterats ut i.
+2\. mängderna bygg- och rivningsavfall som kommunen
+behöver hantera på återvinningscentraler kan komma
+att öka och kommunerna kan komma att behöva utöka
+mottagningen för vissa fraktioner alternativt hänvisa
+större mängder bygg- och rivningsavfall till annan egen
+eller upphandlad mottagningsanläggning.
+Några viktiga faktorer att beakta vid utvärdering och val av
+insamlingslösningar är:
+• kapacitet och lokalisering på befintliga
+återvinningscentraler
+• transportavstånd inom kommunen
+• möjligheter att transportera och mellanlagra bygg-
+och rivningsavfall på återvinningscentral eller
+avfallsanläggning
+• möjligheter att hänvisa kunder till större
+avfallsanläggningar i regionen
+• vad som står i gällande tillstånd och anmälan gällande
+lagringsmängder
+
 Beroende på ovanstående aspekter kan kommunen välja att
-styra insamling och hantering av bygg- och rivningsavfall Ett annat alternativ är att ha överenskommelser med
-på det sätt som fungerar bäst för just den kommunen. I närliggande kommuner så att avfallet kan hänvisas dit,
-anslutning till detta kan avgiftsfinansieringen struktureras om de har bättre förutsättningar för vissa fraktioner. Det
-på ett sätt som styr mot den insamling och hantering som är viktigt att kommunen då har en kostnadsreglering med
-man kommit fram till passar kommunen bäst (se mer i kapitel grannkommunen så att deras taxekollektiv inte ska betala
-4).                                 för en annan kommuns avfall. Avfallslämnaren ska debiteras
-enligt avfallstaxan i den kommun där återvinningscentralen
-Volym- eller viktbegränsning        eller avfallsanläggningen är belägen31.
+styra insamling och hantering av bygg- och rivningsavfall
+på det sätt som fungerar bäst för just den kommunen. I
+anslutning till detta kan avgiftsfinansieringen struktureras
+på ett sätt som styr mot den insamling och hantering som
+man kommit fram till passar kommunen bäst (se mer i kapitel
+4).
+Volym- eller viktbegränsning
 En del kommuner har tills nu haft maxgränser på hur mycket
-som får lämnas till en återvinningscentral eller som hämtas Om hushållen kommer med blandat bygg- och rivningsavfall
-fastighetsnära. Kommunen kan fortsätta att hänvisa till dessa Om hushållen kommer med blandat avfall till
-gränser med hänvisning till de reglerade lagringsmängderna återvinningscentralen så har de som avfallsproducenter
-som finns på återvinningscentralen och hur stora containrar fortfarande ansvar för att sortera avfallet enligt de krav
-som man som hushåll har möjlighet att beställa för hämtning. som finns i lagstiftning och kommunala föreskrifter, om
-Samtidigt har kommunen fortsatt ansvar att ta emot avfall avfallet inte omfattas av undantag eller hushållet meddelats
-även om det skulle gå över maxgränsen. För volymer över dispens av tillsynsmyndigheten. Återvinningscentralen
-maxgränsen per tillfälle kan kommunen välja att ta ut en har dock inget ansvar för att se till att detta sker
-avgift, se kapitel 7.               eftersom återvinningscentralen är mottagare och inte
-avfallsproducent. Kommunen har med andra ord möjlighet
-4.1 Mottagning via återvinningscentral att ta emot osorterade fraktioner.
+som får lämnas till en återvinningscentral eller som hämtas
+fastighetsnära. Kommunen kan fortsätta att hänvisa till dessa
+gränser med hänvisning till de reglerade lagringsmängderna
+som finns på återvinningscentralen och hur stora containrar
+som man som hushåll har möjlighet att beställa för hämtning.
+Samtidigt har kommunen fortsatt ansvar att ta emot avfall
+även om det skulle gå över maxgränsen. För volymer över
+maxgränsen per tillfälle kan kommunen välja att ta ut en
+avgift, se kapitel 7.
+
+4.1 Mottagning via återvinningscentral
 Kommunernas återvinningscentraler (ÅVC:er) är en befintlig
 infrastruktur som kan vara fördelaktig att använda sig av
 där det är möjligt. För många kommuner kan det därför
+
+vara ett rimligt alternativ att även fortsättningsvis i första
+hand försöka styra bygg- och rivningsavfallet till befintliga
+återvinningscentraler.
+
+Krav på kommunen att ta emot utsorterat avfall
+Vid mottagning av bygg- och rivningsavfall via
+återvinningscentraler har kommunen krav på sig att de sex
+lagstadgade fraktionerna (se kapitel 5) samlas in separat om
+det lämnats in utsorterat. Samtliga fraktioner behöver inte
+finnas på samtliga återvinningscentraler, men om kommunen
+väljer att inte ta emot samtliga fraktioner på samma ställe
+så finns det risk för förvirring hos besökare, aggression
+mot personal och nedskräpning i naturen. Väljer man detta
+alternativ är det viktigt med information och kommunikation.
+Om någon eller några av kommunens återvinningscentraler
+har begränsad kapacitet kan man överväga att hänvisa
+kunder med stora mängder bygg- och rivningsavfall till
+kommunens största återvinningscentral, och se till att
+förbereda denna återvinningscentral för att ta emot större
+mängder utsorterat bygg- och rivningsavfall, alternativt
+hänvisa större mängder till avfallsanläggningar eller privata
+utförare som man har avtal med. Exempel på sådana
+fraktioner kan vara mineral eller större mängder farligt
+avfall såsom asbest. Det kan även vara bra att hänvisa
+vissa fraktioner till en specifik återvinningscentral, om det
+inte finns kapacitet att ta emot dessa på alla kommunens
+återvinningscentraler.
+
+Ett annat alternativ är att ha överenskommelser med
+närliggande kommuner så att avfallet kan hänvisas dit,
+om de har bättre förutsättningar för vissa fraktioner. Det
+är viktigt att kommunen då har en kostnadsreglering med
+grannkommunen så att deras taxekollektiv inte ska betala
+för en annan kommuns avfall. Avfallslämnaren ska debiteras
+enligt avfallstaxan i den kommun där återvinningscentralen
+eller avfallsanläggningen är belägen31.
+Om hushållen kommer med blandat bygg- och rivningsavfall
+Om hushållen kommer med blandat avfall till
+återvinningscentralen så har de som avfallsproducenter
+fortfarande ansvar för att sortera avfallet enligt de krav
+som finns i lagstiftning och kommunala föreskrifter, om
+avfallet inte omfattas av undantag eller hushållet meddelats
+dispens av tillsynsmyndigheten. Återvinningscentralen
+har dock inget ansvar för att se till att detta sker
+eftersom återvinningscentralen är mottagare och inte
+avfallsproducent. Kommunen har med andra ord möjlighet
+att ta emot osorterade fraktioner.
 
 31 En kommun kan inte debitera fastighetsägare i en annan kommun utifrån den andra kommunens avfallstaxa.
 
@@ -9364,85 +9804,104 @@ där det är möjligt. För många kommuner kan det därför
 
 <!-- sida 216 -->
 
-Avfall Sverige gör bedömningen att bemyndigandena för finnas tidigt på rampen för att omhänderta det som annars
-kommunens avfallsföreskrifter32 inte ger stöd för att villkora hade lämnats i container längre fram.
+Avfall Sverige gör bedömningen att bemyndigandena för
+kommunens avfallsföreskrifter32 inte ger stöd för att villkora
 lämning av osorterat bygg- och rivningsavfall med att
-avlämnaren visar upp ett dispensbeslut för osorterat avfall. Möjligheterna att lämna bygg- och rivningsavfall för återbruk
-Kommunen har en skyldighet att behandla det avfall som kan variera beroende på kommunens förutsättningar.
-tas emot och då titta på mest lämplig hantering enligt Exempelvis kan detta utformas som en bytesbod – där
-avfallshierarkin, vilket kan innebära att avfallet bör kunder kan ta och lämna material och produkter – eller
-eftersorteras om det tas emot osorterat. Kommunen bör som en insamling och förberedelse för försäljning inom
-därför se om man kan avgiftsdifferentiera så att mottagning eller utanför återvinningscentralen, med eller utan hjälp
-av osorterat avfall är dyrare än utsorterade fraktioner. från externa aktörer. Se Avfall Sveriges rapport 2019:32
-Kommunen bör upplysa besökarna om de krav Återanvändning av bygg- och rivningsmaterial och
-som gäller för att öka utsorteringen och förbättra produkter i kommuner.
+avlämnaren visar upp ett dispensbeslut för osorterat avfall.
+Kommunen har en skyldighet att behandla det avfall som
+tas emot och då titta på mest lämplig hantering enligt
+avfallshierarkin, vilket kan innebära att avfallet bör
+eftersorteras om det tas emot osorterat. Kommunen bör
+därför se om man kan avgiftsdifferentiera så att mottagning
+av osorterat avfall är dyrare än utsorterade fraktioner.
+Kommunen bör upplysa besökarna om de krav
+som gäller för att öka utsorteringen och förbättra
 behandlingsmöjligheterna.
-4.2 Fastighetsnära insamling
 Viktiga faktorer att beakta
-Fastighetsnära insamling innebär insamling av avfall vid
 • finns det redan idag mottagning på ÅVC av de fraktioner
-fastighetsgränsen, alternativt vid överenskommen eller
 som enligt lag ska sorteras ut?
-anvisad plats inom rimligt avstånd från fastigheten.
 • hur ska övriga fraktioner bygg- och rivningsavfall,
 utöver de sex lagstadgade fraktionerna, hanteras?
-Kommunen eller den transportör som kommunen upphandlar
 • finns det möjlighet att utöka kapaciteten utifall
-eller auktoriserar ska transportera bort avfallet från den
 mängderna bygg- och rivningsavfall förväntas öka?
-fastighet där avfallet finns om fastighetsinnehavaren
 • om det finns flera ÅVC:er i kommunen, ska alla ta emot
-begär det och det inte är oskäligt med hänsyn till
 bygg- och rivningsavfall eller ska vissa fraktioner eller
-omständigheterna, och detta lagkrav fanns redan innan de
 större mängder hänvisas till en viss ÅVC eller till en
-nya reglerna kom.34
 avfallsanläggning?
 • finns det redan idag möjlighet att lämna bygg- och
-Sådan hämtning kan även framöver hanteras som en
 rivningsavfall för återbruk på ÅVC:er, eller kan det vara
-tilläggstjänst mot särskild avgift. Om det till exempel
 aktuellt att utöka dessa möjligheter i samband med
-inte finns plats för en container på eller i anslutning till
 större mängder utsorterat bygg- och rivningsavfall?
-fastigheten får kommunen generellt göra bedömningen att
 • hur vill man lägga upp avgiftsfinansiering beroende på
-vägen fram till hämtningsplatsen inte är farbar och att det
 hur mycket och vilken typ av avfall som lämnas på ÅVC?
-därmed är oskäligt att ordna borttransport från fastigheten.
 • vill kommunen erbjuda möjligheter för yrkesmässiga
-Fastighetsinnehavaren får då hänvisas till ÅVC eller annan
 verksamheter att lämna bygg- och rivningsavfall på
-plats eller upphandlad privat utförare för att lämna avfallet.
 ÅVC?
-På det sättet uppfyller kommunen fortfarande skyldigheten
-att omhänderta bygg- och rivningsavfallet.
+
 Vid insamling på återvinningscentral tas de flesta fraktioner
 emot i containrar eller flak. Vissa fraktioner, såsom
-Den stora skillnaden med de nya reglerna är att det bli
 mineraliska massor, kan tas emot på mark i någon form av
-fråga om hämtning av nya typer av avfall, i fler fraktioner
 inhägnad eller avskärmning, till exempel med cementblock
-(åtminstone de sex lagstadgade), som dels kan förekomma
 eller staket. Se kapitel 4 för förslag till specifika fraktioner.
-i stora volymer och dels kan kräva exempelvis container.
 Avfall Sverige har även tagit fram en rapport som ger
-Denna typ av tjänst kanske inte finns inom ramen för
 vägledning vid upphandling, underhåll och besiktning av
-kommunens föreskrifter och avgifter i taxan idag.
 containrar på ÅVC.33
-Kommunen skulle kunna reglera att vissa fraktioner endast
 Hjälp besökarna uppför avfallstrappan
-hämtas vid fastighet mot avgift och att andra ska lämnas vid
 I dag utgörs en stor del av bygg- och rivningsavfallet av
-återvinningscentral eller annan anläggning som kommunen
 osorterade, blandade fraktioner. För att öka mängden
-bestämmer.
 återbruk rekommenderas att man aktivt informerar
 avlämnarna om möjligheter till återbruk, både inför besök på
 återvinningscentralen och på själva återvinningscentralen
 i samband med att de lämnar avfall som skulle kunna
 återbrukas. Förslagsvis bör återbruksförutsättningarna
+
+finnas tidigt på rampen för att omhänderta det som annars
+hade lämnats i container längre fram.
+
+Möjligheterna att lämna bygg- och rivningsavfall för återbruk
+kan variera beroende på kommunens förutsättningar.
+Exempelvis kan detta utformas som en bytesbod – där
+kunder kan ta och lämna material och produkter – eller
+som en insamling och förberedelse för försäljning inom
+eller utanför återvinningscentralen, med eller utan hjälp
+från externa aktörer. Se Avfall Sveriges rapport 2019:32
+Återanvändning av bygg- och rivningsmaterial och
+produkter i kommuner.
+
+4.2 Fastighetsnära insamling
+Fastighetsnära insamling innebär insamling av avfall vid
+fastighetsgränsen, alternativt vid överenskommen eller
+anvisad plats inom rimligt avstånd från fastigheten.
+
+Kommunen eller den transportör som kommunen upphandlar
+eller auktoriserar ska transportera bort avfallet från den
+fastighet där avfallet finns om fastighetsinnehavaren
+begär det och det inte är oskäligt med hänsyn till
+omständigheterna, och detta lagkrav fanns redan innan de
+nya reglerna kom.34
+
+Sådan hämtning kan även framöver hanteras som en
+tilläggstjänst mot särskild avgift. Om det till exempel
+inte finns plats för en container på eller i anslutning till
+fastigheten får kommunen generellt göra bedömningen att
+vägen fram till hämtningsplatsen inte är farbar och att det
+därmed är oskäligt att ordna borttransport från fastigheten.
+Fastighetsinnehavaren får då hänvisas till ÅVC eller annan
+plats eller upphandlad privat utförare för att lämna avfallet.
+På det sättet uppfyller kommunen fortfarande skyldigheten
+att omhänderta bygg- och rivningsavfallet.
+Den stora skillnaden med de nya reglerna är att det bli
+fråga om hämtning av nya typer av avfall, i fler fraktioner
+(åtminstone de sex lagstadgade), som dels kan förekomma
+i stora volymer och dels kan kräva exempelvis container.
+Denna typ av tjänst kanske inte finns inom ramen för
+kommunens föreskrifter och avgifter i taxan idag.
+
+Kommunen skulle kunna reglera att vissa fraktioner endast
+hämtas vid fastighet mot avgift och att andra ska lämnas vid
+återvinningscentral eller annan anläggning som kommunen
+bestämmer.
+
 32 15 kap. 38, 39 och 41 §§ miljöbalken samt 9 kap. 1-3 §§ avfallsförordningen
 33 Rapport 2021:19 Containrar på ÅVC – och vad man bör tänka på vid upphandling, underhåll och besiktning
 34 På samma sätt som kommunen har en skyldighet att hämta annat avfall under kommunalt ansvar, till exempel, grovavfall vid fastigheten om
@@ -9452,168 +9911,253 @@ fastighetsinnehavaren begär det och det inte är oskäligt med hänsyn till oms
 <!-- sida 217 -->
 
 Viktiga faktorer att beakta
-Exempel – Mölndal
 • efterfrågan på fastighetsnära insamling kan skilja sig
-Tekniska förvaltningen, Mölndals stad, erbjuder idag sina
 från kommun till kommun beroende på förutsättningar
-invånare fastighetsnära insamling av grovavfall, vilket inkluderar
 så som avstånd till närmaste ÅVC, renoverings- och
-en viss del bygg- och rivningsavfall. Insamling kan ske både med
 byggtakt, vana att anlita hantverkare med mera.
-container och storsäck. Tjänsten driver de i egen regi, vilket de ser
 • ska den fastighetsnära insamlingen drivas i egen regi
-som en fördel samtidigt som de vittnar om ett stort åtagande att
 eller handlas upp?
-starta upp det i form av inköp av fordon, containrar m.m.
 • är det lämpligt med auktorisation av vissa
-Kunderna kontaktar kommunen med önskemål om hämtning
 hämtningstjänster?
-av avfall. Kunderna får då berätta vad det är för typ av avfall det
 • erbjuder kommunen redan idag någon liknande tjänst,
-rör sig om. Eftersom Mölndals stad idag inte erbjuder uppdelade
 såsom fastighetsnära insamling av grovavfall som kan
-containrar blir det ofta en osorterad fraktion som tas emot. De har
-utvecklas för insamling av bygg- och rivningsavfall? dock möjlighet att erbjuda insamling av sorterade fraktioner för
-• skillnader i insamlingssätt beroende på typ av hushåll: de flesta fraktioner förutom planglas.
-villor, bostadsrätter eller hyresrätter. Kommunens transportledare planerar och fördelar ut
-• tjänst enbart ”på beställning” eller i någon form av körningarna, ofta har de möjlighet att leverera container eller
-kontinuerlig insamling, till exempel i anslutning till storsäck redan samma dag (till exempel vid beställning innan kl.
-befintliga grovsoprum eller kampanjhämtning vid 12.00) eller dagen efter. För containrar tas en utkörnings- och
-tomtgräns?                        hämtningsavgift ut, samt en dygnsavgift i hyra. För byggsäck
-• finns möjlighet att nyttja kommunens ÅVC:er eller tas en avgift ut per säck där hämtning ingår. Kostnad för själva
-avfallsanläggningar för mellanlagring av det avfall som avfallet beror på fraktion, där till exempel skrot är gratis eftersom
-insamlas fastighetsnära?          det genererar en intäkt till kommunen medan andra fraktioner
-kostar då de innebär en kostnad för kommunen i nästa steg.
+utvecklas för insamling av bygg- och rivningsavfall?
+• skillnader i insamlingssätt beroende på typ av hushåll:
+villor, bostadsrätter eller hyresrätter.
+• tjänst enbart ”på beställning” eller i någon form av
+kontinuerlig insamling, till exempel i anslutning till
+befintliga grovsoprum eller kampanjhämtning vid
+tomtgräns?
+• finns möjlighet att nyttja kommunens ÅVC:er eller
+avfallsanläggningar för mellanlagring av det avfall som
+insamlas fastighetsnära?
 Utformning av tjänsten
-Beroende på om man väljer att driva fastighetsnära insamling Val av insamlingsbehållare
-i egen regi eller handla upp den leder detta till olika Hur avfallet smidigast samlas in fastighetsnära på beror
-förutsättningar och utmaningar. Det är viktigt att beakta på en rad olika faktorer så som utrymme på fastigheten
-befintliga förutsättningar hos kommunen såsom tillgång till och antal fraktioner som ska samlas in. Container och flak
-fordon, containrar och transportplanerare. Saknas detta idag kan vara att föredra i de fall man vill kunna samla in stora
-medför det ett större ekonomiskt åtagande för kommunen att volymer. Däremot finns det inte alltid möjlighet att ställa
-starta upp tjänsten i egen regi. Det är även viktigt att beakta container eller flak vid fastigheten, och det kan därför vid
-marknaden i regionen och undersöka intresset och utbudet av platsbrist passa bättre med storsäckar. Även i de fall man ska
-eventuella utförare. Läs mer om upphandling/auktorisation samla in flera fraktioner kan det vara bättre att använda sig
-av tjänsten i kapitel 6.            av storsäckar snarare än containrar. Vid mindre mängder
-finns det även möjlighet att använda containrar, backar eller
-Ett bra sätt att utforma tjänsten kan vara att hushållen storsäckar. Vissa containrar och storsäckar har möjlighet
-hör av sig med en beställning om hämtning av bygg- och till fackindelning. Möjligheten att ställa storsäckarna i en
-rivningsavfall. Beroende på kommunens förutsättningar kan container kan ses över om detta underlättar vid transport.
-kunderna exempelvis utföra beställning digitalt, höra av sig Det ställer dock högre krav på tömningen av containern då
-till kommunens kundtjänst eller göra beställningen direkt hos säckarna måste plockas ut.
+Beroende på om man väljer att driva fastighetsnära insamling
+i egen regi eller handla upp den leder detta till olika
+förutsättningar och utmaningar. Det är viktigt att beakta
+befintliga förutsättningar hos kommunen såsom tillgång till
+fordon, containrar och transportplanerare. Saknas detta idag
+medför det ett större ekonomiskt åtagande för kommunen att
+starta upp tjänsten i egen regi. Det är även viktigt att beakta
+marknaden i regionen och undersöka intresset och utbudet av
+eventuella utförare. Läs mer om upphandling/auktorisation
+av tjänsten i kapitel 6.
+
+Ett bra sätt att utforma tjänsten kan vara att hushållen
+hör av sig med en beställning om hämtning av bygg- och
+rivningsavfall. Beroende på kommunens förutsättningar kan
+kunderna exempelvis utföra beställning digitalt, höra av sig
+till kommunens kundtjänst eller göra beställningen direkt hos
 upphandlade/auktoriserade utförare.
-Kärl med hjul är en insamlingslösning som har fördelen
-När kunderna hör av sig med sin beställning kan det vara att den är flyttbar, och på så sätt kan placeras nära själva
-bra att ta tillfället i akt att informera om sorteringsregler och byggarbetsplatsen för att sedan flyttas till en insamlingsplats.
-möjligheten att lämna material och produkter för återbruk. Kärl kan även vara ett alternativ för fastighetsnära insamling
-Det är även bra att se till att denna information finns tydligt i anslutning till sop- eller miljörum i flerbostadshus. Dock
-tillgänglig på kommunens hemsida, tillsammans med ställer denna insamlingslösning även höga krav på optimering
-information om hur lång framförhållning den som vill lämna av insamlingsrutter för att det ska vara ekonomiskt
-något behöver ha. Vid beställning bör avlämnarna uppskatta försvarbart med insamling via sopbilar. Alternativt kan
-avfallsmängder samt fraktioner för att komma fram till den kärlen hämtas med skåpbil, men det förutsätter lift på
-bästa insamlingslösningen. Detta kommer troligtvis kräva en lastbilen eller pallyftare samt korrekt säkring av kärlen inne
-del stöttning från kommunens sida genom att tillsammans i lastbilen. Ett annat problem är förstås att vanliga sopkärl
-med kund diskutera vilka bygg- eller rivningsåtgärder som inte rymmer större avfall samt att om kärlet blir för tungt kan
-ska utföras och vilken typ av avfall som kan uppstå. Denna detta innebära problem ur arbetsmiljösynpunkt.
+När kunderna hör av sig med sin beställning kan det vara
+bra att ta tillfället i akt att informera om sorteringsregler och
+möjligheten att lämna material och produkter för återbruk.
+Det är även bra att se till att denna information finns tydligt
+tillgänglig på kommunens hemsida, tillsammans med
+information om hur lång framförhållning den som vill lämna
+något behöver ha. Vid beställning bör avlämnarna uppskatta
+avfallsmängder samt fraktioner för att komma fram till den
+bästa insamlingslösningen. Detta kommer troligtvis kräva en
+del stöttning från kommunens sida genom att tillsammans
+med kund diskutera vilka bygg- eller rivningsåtgärder som
+ska utföras och vilken typ av avfall som kan uppstå. Denna
 typ av dialog kan kräva utbildning av kommunens kundtjänst
 om beställningen sker den vägen.
+
+Exempel – Mölndal
+Tekniska förvaltningen, Mölndals stad, erbjuder idag sina
+invånare fastighetsnära insamling av grovavfall, vilket inkluderar
+en viss del bygg- och rivningsavfall. Insamling kan ske både med
+container och storsäck. Tjänsten driver de i egen regi, vilket de ser
+som en fördel samtidigt som de vittnar om ett stort åtagande att
+starta upp det i form av inköp av fordon, containrar m.m.
+Kunderna kontaktar kommunen med önskemål om hämtning
+av avfall. Kunderna får då berätta vad det är för typ av avfall det
+rör sig om. Eftersom Mölndals stad idag inte erbjuder uppdelade
+containrar blir det ofta en osorterad fraktion som tas emot. De har
+dock möjlighet att erbjuda insamling av sorterade fraktioner för
+de flesta fraktioner förutom planglas.
+Kommunens transportledare planerar och fördelar ut
+körningarna, ofta har de möjlighet att leverera container eller
+storsäck redan samma dag (till exempel vid beställning innan kl.
+12.00) eller dagen efter. För containrar tas en utkörnings- och
+hämtningsavgift ut, samt en dygnsavgift i hyra. För byggsäck
+tas en avgift ut per säck där hämtning ingår. Kostnad för själva
+avfallet beror på fraktion, där till exempel skrot är gratis eftersom
+det genererar en intäkt till kommunen medan andra fraktioner
+kostar då de innebär en kostnad för kommunen i nästa steg.
+Val av insamlingsbehållare
+Hur avfallet smidigast samlas in fastighetsnära på beror
+på en rad olika faktorer så som utrymme på fastigheten
+och antal fraktioner som ska samlas in. Container och flak
+kan vara att föredra i de fall man vill kunna samla in stora
+volymer. Däremot finns det inte alltid möjlighet att ställa
+container eller flak vid fastigheten, och det kan därför vid
+platsbrist passa bättre med storsäckar. Även i de fall man ska
+samla in flera fraktioner kan det vara bättre att använda sig
+av storsäckar snarare än containrar. Vid mindre mängder
+finns det även möjlighet att använda containrar, backar eller
+storsäckar. Vissa containrar och storsäckar har möjlighet
+till fackindelning. Möjligheten att ställa storsäckarna i en
+container kan ses över om detta underlättar vid transport.
+Det ställer dock högre krav på tömningen av containern då
+säckarna måste plockas ut.
+Kärl med hjul är en insamlingslösning som har fördelen
+att den är flyttbar, och på så sätt kan placeras nära själva
+byggarbetsplatsen för att sedan flyttas till en insamlingsplats.
+Kärl kan även vara ett alternativ för fastighetsnära insamling
+i anslutning till sop- eller miljörum i flerbostadshus. Dock
+ställer denna insamlingslösning även höga krav på optimering
+av insamlingsrutter för att det ska vara ekonomiskt
+försvarbart med insamling via sopbilar. Alternativt kan
+kärlen hämtas med skåpbil, men det förutsätter lift på
+lastbilen eller pallyftare samt korrekt säkring av kärlen inne
+i lastbilen. Ett annat problem är förstås att vanliga sopkärl
+inte rymmer större avfall samt att om kärlet blir för tungt kan
+detta innebära problem ur arbetsmiljösynpunkt.
+
 10
 
 <!-- sida 218 -->
 
-För att underlätta för kunderna att sortera rätt bör Uppställning av container och flak
-containrar, säckar, kärl och så vidare vara tydligt uppmärkta I de fall man använder sig av flak och containerns för
-med fraktion. Det rekommenderas att piktogrammen och insamling, bör dessa ställas upp på fastigheten och det
-färgerna enligt Avfall Sveriges gemensamma skyltsystem för bör vara fastighetsinnehavarens ansvar att ordna med
-avfallssortering används35.         nödvändig uppställningsplats. Om det inte finns någon plats
-på fastigheten bör kommunen lägga över ansvaret att söka om
-Fordonstyp för lämning och hämtning tillstånd för uppställning på allmän plats till kunden.
+För att underlätta för kunderna att sortera rätt bör
+containrar, säckar, kärl och så vidare vara tydligt uppmärkta
+med fraktion. Det rekommenderas att piktogrammen och
+färgerna enligt Avfall Sveriges gemensamma skyltsystem för
+avfallssortering används35.
+
+Fordonstyp för lämning och hämtning
 Storsäckar hämtas med kranbil. Leverans av säckarna kan
 ske via utkörning till kund eller att kunden själv hämtar
-Exempel – Härnösand
 säckarna, exempelvis på en återvinningscentral.
-Härnösand Energi och Miljö AB erbjuder även de en
-fastighetsnära insamling och hämtning av grovavfall inkl. viss
+
 Containrar kan hämtas och lämnas med lastväxlare,
-del bygg- och rivningsavfall36. Denna tjänst drivs av bolagets eget
 liftdumper eller kranbil beroende på utformning och storlek.
-åkeri. De hyr ut containrar, flak och storsäckar och kunderna
-väljer själva vilka fraktioner de vill sortera i. Möjlighet finns att
 Kärl töms oftast med komprimerande lastbilar
-samla in de sex lagstadgade fraktionerna separat redan idag.
 (baktömmande, sidlastare eller frontlastare), samma typ av
-fordon som för hämtning av kommunalt avfall i kärl. Avfallet körs efter insamling till Härnösands avfallsanläggning
-och de olika fraktionerna körs sedan därifrån till olika mottagare.
+fordon som för hämtning av kommunalt avfall i kärl.
+
 Om kommunen idag har mobila lösningar för insamling av
-grovavfall, som till exempel en mobil återvinningscentral, Avgifter tas ut i form av utkörnings- och hämtningsavgift samt
-kan denna nyttjas för att hämta mindre mängd bygg- och hyra för container. För byggsäck tas en hämtningsavgift ut, samt
-rivningsavfall hos hushållen, exempelvis tömning av mindre en kostnad per antal byggsäckar. Viktpris per avfall beror på typ
-backar.                              av fraktion.
+grovavfall, som till exempel en mobil återvinningscentral,
+kan denna nyttjas för att hämta mindre mängd bygg- och
+rivningsavfall hos hushållen, exempelvis tömning av mindre
+backar.
 
 35 https://www.sverigesorterar.se
 36 Härnösand Energi och Miljö AB, Intervju, 2022.
+
+Uppställning av container och flak
+I de fall man använder sig av flak och containerns för
+insamling, bör dessa ställas upp på fastigheten och det
+bör vara fastighetsinnehavarens ansvar att ordna med
+nödvändig uppställningsplats. Om det inte finns någon plats
+på fastigheten bör kommunen lägga över ansvaret att söka om
+tillstånd för uppställning på allmän plats till kunden.
+
+Exempel – Härnösand
+Härnösand Energi och Miljö AB erbjuder även de en
+fastighetsnära insamling och hämtning av grovavfall inkl. viss
+del bygg- och rivningsavfall36. Denna tjänst drivs av bolagets eget
+åkeri. De hyr ut containrar, flak och storsäckar och kunderna
+väljer själva vilka fraktioner de vill sortera i. Möjlighet finns att
+samla in de sex lagstadgade fraktionerna separat redan idag.
+
+Avfallet körs efter insamling till Härnösands avfallsanläggning
+och de olika fraktionerna körs sedan därifrån till olika mottagare.
+Avgifter tas ut i form av utkörnings- och hämtningsavgift samt
+hyra för container. För byggsäck tas en hämtningsavgift ut, samt
+en kostnad per antal byggsäckar. Viktpris per avfall beror på typ
+av fraktion.
+
 11
 
 <!-- sida 219 -->
 
-5\. SORTERING   AV  BYGG-  OCH       De sex fraktionerna är inte de enda som ska sorteras ut
-Sedan augusti 2020 är det, som nämnts i kapitel 1, krav
+5\. SORTERING   AV  BYGG-  OCH
 RIVNINGSAVFALL
-på att den som producerar bygg- och rivningsavfall, såväl
-Bygg- och rivningsavfall utgör en stor del av allt uppkommet yrkesmässiga verksamheter som privatpersoner, sorterar ut
-avfall i Sverige. År 2018 uppkom totalt 2,7 miljoner ton följande fraktioner av bygg- och rivningsavfall:
-mineraliskt och blandat bygg- och rivningsavfall.37 I dessa 1. trä
-blandade flöden finns idag stora mängder material, så som 2. mineral (betong, tegel, klinker, keramik eller sten
-plast och trä, som skulle kunna materialåtervinnas eller 3. metall
-återbrukas.38                         4. glas
-5\. plast
-Vad omfattar bygg- och rivningsavfall under kommunalt 6. gips
+
+Bygg- och rivningsavfall utgör en stor del av allt uppkommet
+avfall i Sverige. År 2018 uppkom totalt 2,7 miljoner ton
+mineraliskt och blandat bygg- och rivningsavfall.37 I dessa
+blandade flöden finns idag stora mängder material, så som
+plast och trä, som skulle kunna materialåtervinnas eller
+återbrukas.38
+
+Vad omfattar bygg- och rivningsavfall under kommunalt
 ansvar?
-Definitionen av bygg- och rivningsavfall är kort och gott Syftet med utsorteringskraven är att komma högre
-avfall från bygg- och rivningsarbeten. Detta inkluderar upp i avfallshierarkin så att andelen återbruk och
-avfall från byggnads- och rivningsåtgärder, men även materialåtervinning kan öka43. Genom att avfallsförordningen
-anläggningsarbeten, och är alltså sådant avfall som faller in ställer krav på att sortera ut vissa fraktioner från bygg-
-under avsnitt 17 i bilaga 3 till avfallsförordningen (2020:614). och rivningsavfall ges förutsättningarna att få renare
-avfallsströmmar och därmed öka möjligheten för detta44. Det
-Det kommunala ansvaret39 omfattar både avfall som är dock viktigt att påpeka att kommunen har ansvar för att
-uppstår vid större arbeten och avfall från mindre bygg- och ta emot allt bygg- och rivningsavfall från icke yrkesmässig
-rivningsarbeten i hushåll. Fast inredning som rivs ut är bygg- verksamhet, och inte bara de sex ”sorteringsfraktionerna”.
-och rivningsmaterial, medan lösa möbler är skrymmande En stor del av bygg- och rivningsmaterialet kan falla utanför
-avfall40. Även isolermaterial är bygg- och rivningsavfall41. Rivs dessa sex fraktioner.
+Definitionen av bygg- och rivningsavfall är kort och gott
+avfall från bygg- och rivningsarbeten. Detta inkluderar
+avfall från byggnads- och rivningsåtgärder, men även
+anläggningsarbeten, och är alltså sådant avfall som faller in
+under avsnitt 17 i bilaga 3 till avfallsförordningen (2020:614).
+Det kommunala ansvaret39 omfattar både avfall som
+uppstår vid större arbeten och avfall från mindre bygg- och
+rivningsarbeten i hushåll. Fast inredning som rivs ut är bygg-
+och rivningsmaterial, medan lösa möbler är skrymmande
+avfall40. Även isolermaterial är bygg- och rivningsavfall41. Rivs
 ett hus helt och hållet med inventarier i blir förstås allt avfall
-bygg- och rivningsavfall. Men då har fastighetsinnehavaren 5.1 Trä
+bygg- och rivningsavfall. Men då har fastighetsinnehavaren
 inte följt skyldigheten att säkerställa att farligt avfall
-Trä bedöms vara en av de vanligaste fraktionerna när det
 sorteras ut samt inte heller efterlevt avfallshierarkin. Om
-gäller bygg- och rivningsavfall. Därför är det sannolikt att
 inventarierna plockas ut först (vilket de förstås bör) så blir
-kommunen kan behöva hantera större mängder träavfall
 inte möblerna ett bygg- och rivningsavfall utan kommunalt
-till följd av det nya ansvaret. Idag går träavfall oftast till
 avfall alternativt annat avfall än kommunalt avfall beroende
-energiåtervinning. Materialåtervinning eller återbruk av
 på det enskilda fallet och i relation till definitionen av
-trä bör övervägas. Trä kan materialåtervinnas genom att till
 kommunalt avfall.
-exempel malas ned och användas i spånskivor. Återbruket
-kan dock kräva en del efterarbete, så som sortering av
+
 Förpackningar av till exempel plast och wellpapp som
-träplankor i standardiserade längder, för att det ska finnas
 uppkommer i byggverksamhet definieras inte som bygg- och
-någon efterfrågan.
 rivningsavfall, utan ska klassificeras enligt avfallskoderna
 i avsnitt 15 i avfallsförteckningen och sorteras för sig42.
-Det är viktigt att kommunen informerar hushållen om att
 Producentansvaret består med andra ord fortfarande.
+
+Kommunen behöver kunna hantera det avfall under
+kommunalt ansvar som uppstår. En genomgång av vilka typer
+av avfall som kan uppstå som bygg- och rivningsavfall från
+icke yrkesmässig verksamhet bör göras.
+
+De sex fraktionerna är inte de enda som ska sorteras ut
+Sedan augusti 2020 är det, som nämnts i kapitel 1, krav
+på att den som producerar bygg- och rivningsavfall, såväl
+yrkesmässiga verksamheter som privatpersoner, sorterar ut
+följande fraktioner av bygg- och rivningsavfall:
+1\. trä
+2\. mineral (betong, tegel, klinker, keramik eller sten
+3\. metall
+4\. glas
+5\. plast
+6\. gips
+
+Syftet med utsorteringskraven är att komma högre
+upp i avfallshierarkin så att andelen återbruk och
+materialåtervinning kan öka43. Genom att avfallsförordningen
+ställer krav på att sortera ut vissa fraktioner från bygg-
+och rivningsavfall ges förutsättningarna att få renare
+avfallsströmmar och därmed öka möjligheten för detta44. Det
+är dock viktigt att påpeka att kommunen har ansvar för att
+ta emot allt bygg- och rivningsavfall från icke yrkesmässig
+verksamhet, och inte bara de sex ”sorteringsfraktionerna”.
+En stor del av bygg- och rivningsmaterialet kan falla utanför
+dessa sex fraktioner.
+5.1 Trä
+
+Trä bedöms vara en av de vanligaste fraktionerna när det
+gäller bygg- och rivningsavfall. Därför är det sannolikt att
+kommunen kan behöva hantera större mängder träavfall
+till följd av det nya ansvaret. Idag går träavfall oftast till
+energiåtervinning. Materialåtervinning eller återbruk av
+trä bör övervägas. Trä kan materialåtervinnas genom att till
+exempel malas ned och användas i spånskivor. Återbruket
+kan dock kräva en del efterarbete, så som sortering av
+träplankor i standardiserade längder, för att det ska finnas
+någon efterfrågan.
+Det är viktigt att kommunen informerar hushållen om att
 impregnerat trä ska sorteras separat eftersom det oftast
 är farligt avfall.45 Därutöver är det viktigt att även annat
-Kommunen behöver kunna hantera det avfall under
 behandlat trä (exempelvis målat eller limmat) inte heller ska
-kommunalt ansvar som uppstår. En genomgång av vilka typer
 blandas med ”jungfruligt” trä, eftersom detta förhindrar
-av avfall som kan uppstå som bygg- och rivningsavfall från
 möjligheten att exempelvis tillverka spånskivor.
-icke yrkesmässig verksamhet bör göras.
+
 37 Naturvårdsverket, ”Avfall i Sverige 2018 - uppkomst och behandling,” 2020
 38 Avfall Sverige, ”Nationell statistik visar ökade mängder avfall”, 16 06 2020. https://www.avfallsverige.se/aktuellt/nyhetsarkiv/artikel/nationell-statistik-
 visar-okade-mangder-avfall/.
@@ -9629,10 +10173,29 @@ nya-regler/.
 
 <!-- sida 220 -->
 
-Träavfall är ofta skrymmande och kan därmed ställa Fönster och glasdörrar kan vara en lämplig återbruksvara.
-större krav vid insamling, varför det även är viktigt för För att transportera glas och dörrar på ett säkert sätt
-kommunerna att ha i åtanke att anpassa insamlingslösningar utan att de går sönder eller innebär säkerhetsrisker för de
-efter typ av träavfall.             som hanterar dem finns det räcken och ställningar som
+Träavfall är ofta skrymmande och kan därmed ställa
+större krav vid insamling, varför det även är viktigt för
+kommunerna att ha i åtanke att anpassa insamlingslösningar
+efter typ av träavfall.
+
+5.2 Mineral
+
+Mineral, som består av delfraktionerna betong, tegel, klinker,
+keramik eller sten, hanteras ofta som en blandfraktion
+tillsammans med annat inert avfall. Indelning i delfraktioner
+kan dock vara aktuellt, då detta ökar möjligheterna för
+återbruk och materialåtervinning, såsom exempelvis kakel
+och klinker samt betong och tegel. Exempelvis kan hela
+tegelstenar återbrukas (förutsatt att kommunen har utrymme
+nog att hantera större mängder för att skapa en efterfrågan),
+och ren betong användas till att göra ny betong. I jämförelse
+används en blandning av mineraliska inerta massor oftast till
+anläggningsändamål eller deponiverksamhet.
+
+Fönster och glasdörrar kan vara en lämplig återbruksvara.
+För att transportera glas och dörrar på ett säkert sätt
+utan att de går sönder eller innebär säkerhetsrisker för de
+som hanterar dem finns det räcken och ställningar som
 kan placeras i container. Det kan även vara en god idé att
 instruera hushållen gällande erforderlig kvalitet på fönster
 och dörrar som ska återbrukas. Tänk på att vissa fönster
@@ -9640,19 +10203,17 @@ och dörrar som ska återbrukas. Tänk på att vissa fönster
 fogen, se Byggåterbruksguiden.48
 
 Ibland delas glas upp i delfraktionen ”planglas”, som kan
-5.2 Mineral
 inkludera exempelvis fönsterglas (utan karm) och spegelglas,
-Mineral, som består av delfraktionerna betong, tegel, klinker, men exkluderar exempelvis flaskor och burkar (oavsett
-keramik eller sten, hanteras ofta som en blandfraktion om de är förpackningar eller ej). Om denna delfraktion är
-tillsammans med annat inert avfall. Indelning i delfraktioner aktuell beror på avsättningsmöjligheterna, det vill säga
-kan dock vara aktuellt, då detta ökar möjligheterna för om återvinningsaktören vill ha denna delfraktion avskild.
-återbruk och materialåtervinning, såsom exempelvis kakel Kravet på utsortering i avfallsförordningen pekar dock ut
-och klinker samt betong och tegel. Exempelvis kan hela glas generellt, så väljer kommunen att sortera ut planglas
-tegelstenar återbrukas (förutsatt att kommunen har utrymme så behöver man fortfarande ha mottagning för utsortering
-nog att hantera större mängder för att skapa en efterfrågan), av annat glas än planglas som uppstår som bygg- och
-och ren betong användas till att göra ny betong. I jämförelse rivningsavfall.
-används en blandning av mineraliska inerta massor oftast till
-anläggningsändamål eller deponiverksamhet. För att kunna materialåtervinna glasfraktionen till nytt
+men exkluderar exempelvis flaskor och burkar (oavsett
+om de är förpackningar eller ej). Om denna delfraktion är
+aktuell beror på avsättningsmöjligheterna, det vill säga
+om återvinningsaktören vill ha denna delfraktion avskild.
+Kravet på utsortering i avfallsförordningen pekar dock ut
+glas generellt, så väljer kommunen att sortera ut planglas
+så behöver man fortfarande ha mottagning för utsortering
+av annat glas än planglas som uppstår som bygg- och
+rivningsavfall.
+För att kunna materialåtervinna glasfraktionen till nytt
 planglas behöver den vara mycket ren eftersom glaset
 behöver kunna bli genomskinligt på nytt. För att avgöra vilka
 fraktioner som kan blandas, exempelvis om olika glastyper
@@ -9660,30 +10221,34 @@ bör separeras, rekommenderas att kommunen för dialog med
 återvinningsföretaget.
 
 5.3 Metall
-
 Metallfraktionen bedöms inte vara särskilt stor när det gäller
 bygg- och rivningsavfall. Det finns dock ett ekonomiskt värde
 i att separera denna fraktion så långt det är möjligt eftersom
-fraktionen kan ge bra avsättningsmöjligheter. 5.5 Plast
+fraktionen kan ge bra avsättningsmöjligheter.
+
+5.4 Glas
+Glas är en fraktion som kan vara relativt vanlig när det gäller
+bygg- och rivningsavfall. Fönster med karm och glasdörrar
+räknas som ett sammansatt material som inte behöver
+separeras vid källan, eftersom det innebär säkerhetsrisker och
+är alltså undantaget (se kapitel 2.3).46 Kommunen kan därför i
+stället ta emot glas sammansatt med fönster- och dörrkarm.47
+
+5.5 Plast
 De vanligast förekommande plastprodukterna inom
 byggsektorn är plaströr, isolering samt golv- och väggmattor,
 och PVC är den vanligaste plasttypen, följt av PP, PE och EPS.
 Även förpackningar och emballage finns i stora mängder49,
 men för dessa gäller producentansvar och ska alltså sorteras
 ut separat från annan plast.50
-5.4 Glas
+
 Kommunen behöver inte ur statistikens perspektiv fysiskt
-Glas är en fraktion som kan vara relativt vanlig när det gäller
 hålla isär plast som utgör kommunalt avfall, exempelvis
-bygg- och rivningsavfall. Fönster med karm och glasdörrar
 trädgårdsstolar och pulkor, från plast som utgör bygg- och
-räknas som ett sammansatt material som inte behöver
 rivningsavfall, exempelvis plaströr och isolering. Däremot
-separeras vid källan, eftersom det innebär säkerhetsrisker och
 kan det vara lämpligt att hålla plasttyper separerade om det
-är alltså undantaget (se kapitel 2.3).46 Kommunen kan därför i
 ökar möjligheten för materialåtervinning.
-stället ta emot glas sammansatt med fönster- och dörrkarm.47
+
 46 Naturvårdsverket, ”Vägledning Bygg- och rivningsavfall,” 2022. https://www.naturvardsverket.se/vagledning-och-stod/avfall/bygg--och-rivningsavfall/
 nya-regler/
 47 Henrik Sandström, Naturvårdsverket, Telefonsamtal, 2022.
@@ -9723,55 +10288,71 @@ och-rivningsavfall/utsortering-av-plastavfall-fran-byggnation-och-rivning/
 
 <!-- sida 221 -->
 
-Avsättningsmöjligheterna för plastavfall beror till stor del på 5.6 Gips
+Avsättningsmöjligheterna för plastavfall beror till stor del på
 var i landet man befinner sig, men även plastens renhet och
-När det gäller gipsfraktionen är det mycket viktigt
 plaståtervinnarnas krav. Kommunplast har flera intresserade
-att den hålls torr och ren för att öka möjligheten att
 aktörer på marknaden som kan ordna avsättning. Man bör
-materialåtervinna gipset. Kommunen rekommenderas
 dock ta höjd för att kommunplast, som till sin natur består
-informera hushållen om att minimera annat innehåll i
 av flera olika plastsorter, med dagens tekniker kan ge en del
-fraktionen. Detta gäller framför allt innehåll av fogrester och
 rejekt i behandlingsprocessen. Kommunen kan därför se
-isolering, medan rester av väv, tapet och liknande inte är lika
 över om man kan öka möjligheterna för avsättning genom
-avgörande. Observera att fogar av äldre sort kan innehålla
 att skapa mer homogena delfraktioner, exempelvis genom
-PCB och utgör därmed farligt avfall som behöver sorteras
 att eftersortera eller ha två separata fraktioner för mjukplast
-ut särskilt se Byggåterbruksguiden.52 Precis som med plast
 och hårdplast. För att avgöra hur plasten ska sorteras
-beror avsättningsmöjligheterna för gips på var i landet man
 och vilka möjligheter som finns till materialåtervinning
-befinner sig. Även här rekommenderas att kommunen för
 rekommenderas att kommunen för en dialog med de
-en dialog med återvinningsverksamheter i närheten för att
 plaståtervinningsverksamheter som kan ha en efterfrågan på
-utvärdera möjligheter till efterfrågan och vilka krav som i så
 olika plastflöden.
-fall ställs på materialet.
 Naturvårdsverket rekommenderar att man sorterar ut plast i
 så många delfraktioner som möjligt, i relation till vad som är
 möjligt och i syfte att öka materialåtervinning.
+
 Återvinningsindustrierna föreslår att plast, om möjligt,
 sorteras i följande plasttyper för ökad materialåtervinning
 (utöver förpackningar):
-5.7 Farligt avfall och elavfall
 • Plastmatta
-• Plastgolv                        Farligt bygg- och rivningsavfall inkluderar till exempel
-• Plaströr                         elavfall, asbest, impregnerat trä, bitumenblandningar (som
-• Takduk                           kan uppstå som fraktion vid upprivning av en asfaltsuppfart)
-• Krymp- och sträckfilm, färgad/transparent sorteras samt avfall som innehåller PCB (exempelvis fogmassor).
+• Plastgolv
+• Plaströr
+• Takduk
+• Krymp- och sträckfilm, färgad/transparent sorteras
 separat
-• Kabelplast och kabeltrummor      Farligt avfall och elavfall som uppstår vid byggande och
-• Elplast                          rivning måste samlas in och hanteras separat. Flera
-• Isolering                        kommuner har idag tjänster för fastighetsnära och
-• Takpapp                          konsumentnära insamling av farligt avfall och elavfall. En
+• Kabelplast och kabeltrummor
+• Elplast
+• Isolering
+• Takpapp
+
+På Återvinningsindustriernas hemsida finns också förslag på
+återvinnare för respektive typ av plast.51
+
+5.6 Gips
+När det gäller gipsfraktionen är det mycket viktigt
+att den hålls torr och ren för att öka möjligheten att
+materialåtervinna gipset. Kommunen rekommenderas
+informera hushållen om att minimera annat innehåll i
+fraktionen. Detta gäller framför allt innehåll av fogrester och
+isolering, medan rester av väv, tapet och liknande inte är lika
+avgörande. Observera att fogar av äldre sort kan innehålla
+PCB och utgör därmed farligt avfall som behöver sorteras
+ut särskilt se Byggåterbruksguiden.52 Precis som med plast
+beror avsättningsmöjligheterna för gips på var i landet man
+befinner sig. Även här rekommenderas att kommunen för
+en dialog med återvinningsverksamheter i närheten för att
+utvärdera möjligheter till efterfrågan och vilka krav som i så
+fall ställs på materialet.
+
+5.7 Farligt avfall och elavfall
+Farligt bygg- och rivningsavfall inkluderar till exempel
+elavfall, asbest, impregnerat trä, bitumenblandningar (som
+kan uppstå som fraktion vid upprivning av en asfaltsuppfart)
+samt avfall som innehåller PCB (exempelvis fogmassor).
+
+Farligt avfall och elavfall som uppstår vid byggande och
+rivning måste samlas in och hanteras separat. Flera
+kommuner har idag tjänster för fastighetsnära och
+konsumentnära insamling av farligt avfall och elavfall. En
 rekommendation är att utreda om och i så fall hur dessa
-På Återvinningsindustriernas hemsida finns också förslag på befintliga tjänster skulle kunna användas för att även samla
-återvinnare för respektive typ av plast.51 in farligt avfall och elavfall som uppstår som bygg- och
+befintliga tjänster skulle kunna användas för att även samla
+in farligt avfall och elavfall som uppstår som bygg- och
 rivningsavfall. Likt förpackningar gäller producentansvar för
 elavfall även om det uppstår som ett bygg- och rivningsavfall.
 Elavfall kan och ska alltså hänvisas till El-Kretsens insamling
@@ -9783,9 +10364,11 @@ Naturvårdsverkets avfallsregister och regler kring farligt
 gods. Det är därför viktigt att kommunen utvärderar och
 beaktar dessa krav, framför allt i de fall kommunen själva
 samlar in och hanterar avfallet.
+
 En annan viktig punkt är att informera hushållen om vad som
 utgör farligt avfall, vilka risker som är kopplat till detta och
 hur man hanterar det på rätt sätt. Vid informationsspridning
+
 51 Återvinningsindustrierna, ”Sortering och återvinning av plastfraktioner inom byggsektorn”, 2022. https://www.recycling.se/sortering-och-atervinning-av-
 plastfraktioner-inom-byggsektorn/
 52 Rapport 2022:01 Byggåterbruksguiden – Bedömning av möjlighet till återanvändning av byggvaror med hänsyn till innehåll av kemiska ämnen
@@ -9807,83 +10390,101 @@ plastfraktioner-inom-byggsektorn/
 
 <!-- sida 222 -->
 
-till hushållen kan kommunerna exempelvis ta utgångspunkt att avlämnaren visar upp ett provtagningsprotokoll eller
-i Avfall Sveriges Byggåterbruksguiden53, och anpassa liknande58. Kommunen har nämligen en grundläggande
-informationen till vad som gäller i den aktuella kommunen. mottagningsskyldighet för avfall under kommunalt ansvar.
-Om kommunen som renhållare väljer att ställa klassificering
-Kommunen kan välja att ha miljöstyrande taxa och ta och provtagning som krav för mottagande så kan det anses
-ut en högre avgift för exempelvis asbest eller asfalt. Om som ett oproportionerligt krav som innebär att kommunen
-mottagning av vissa farliga fraktioner kräver tillstånd så inte uppfyller sin skyldighet att ta emot avfallet. Ett alternativ
-behöver kommunen hänvisa till en återvinningscentral eller skulle kunna vara att avfallslämnaren åläggs att betala en
-avfallsanläggning som har detta.    särskild avgift som syftar till att bekosta provtagningen,
-under förutsättning att det har stöd i avfallstaxan (se kapitel
-5.8 Jord, sten, schaktmassor, muddermassor och 7).
+till hushållen kan kommunerna exempelvis ta utgångspunkt
+i Avfall Sveriges Byggåterbruksguiden53, och anpassa
+informationen till vad som gäller i den aktuella kommunen.
+
+Kommunen kan välja att ha miljöstyrande taxa och ta
+ut en högre avgift för exempelvis asbest eller asfalt. Om
+mottagning av vissa farliga fraktioner kräver tillstånd så
+behöver kommunen hänvisa till en återvinningscentral eller
+avfallsanläggning som har detta.
+
+5.8 Jord, sten, schaktmassor, muddermassor och
 bäddar från enskilda avlopp
-Jord med invasiva arter
 I förarbetena till 15 kap. 8 § miljöbalken54 framgår att bygg-
-Jord med invasiva arter är en fraktion som kan komma att
 och rivningsavfall även kan uppstå vid anläggningsarbeten.
-öka i samband med det nya ansvaret. Invasiva arter utan
 I skälen till avfallsdirektivet55 framgår att bygg- och
-jord (eller endast mindre mängd) tas idag emot på flera
 rivningsavfall motsvarar avfallskategorierna i kapitel 17
-återvinningscentraler i förslutna påsar i den brännbara
 avfallsförteckningen (bilaga 3 till avfallsförordningen).
-fraktionen. Jord som innehåller invasiva arter utgör dock
-en större utmaning, kanske särskilt eftersom parkslide och
+
 Jord, sten, schaktmassor, uppriven asfalt, muddermassor
-blomsterlupin är några av de invasiva främmande arterna
 och liknande kan utgöra avfall från bygg- och
-i Sverige som inte omfattas av någon särskild lagstiftning.
 rivningsverksamhet, men även anläggningsverksamhet,
-Dock kan kommunen ändå ställa mottagningskrav i de
 och ingår då i det kommunala ansvaret om det uppstått
-kommunala föreskrifterna enligt avfallsförordningen 9 kap.
 i icke yrkesmässig verksamhet. Se avfallskategori 17 05 i
-2 §, och vid behov hänvisa till de allmänna hänsynsreglerna
 avfallsförordningens bilaga 3. Dessa fraktioner kan utgöra
-som finns i miljöbalkens andra kapitel.
 farligt avfall beroende på deras innehåll, se ovan.56
-Det är därför viktigt att se över var denna jord skulle kunna
 Provtagning
-hänvisas i de fallen kommunens återvinningscentral inte
 Eventuella provtagningskostnader kan anses vara
-kan ta emot den, såsom en upphandlad avfallsanläggning. Se
 nödvändiga kostnader för den fortsatta avfallsbehandlingen
-Avfall Sveriges rapport 2021:15 Hantering och deponering av
 och får finansieras via avfallstaxan.57 Såväl schaktmassor
-jordmassor med invasiva arter – parkslide.
 som uppriven gammal asfalt kan behöva provtas för att
 kunna klassificeras korrekt, exempelvis om det finns
-Enskilda avlopp
 skäl att misstänka föroreningar. Det är i första hand
-Filtreringsmaterial såsom sand och makadam i markbäddar
 avfallsproducenten/lämnaren som ansvarar för att
-och liknande från enskilda avlopp bör också betraktas som
 klassificera avfall och stå för eventuell provtagning. I andra
-bygg- och rivningsavfall. Denna typ av material utgjorde
 hand är mottagaren ansvarig.
-inte hushållsavfall (begreppet omfattade inte avfall med
-längre utbytestid än fem år) och utgör inte heller enligt nya
+
 Behovet av provtagning av inkommande massor beror på
-definitionen kommunalt avfall. Däremot ingår det alltså i
 förhållandena i det enskilda fallet (exempelvis vid misstanke
-kommunens avfallsansvar om fastighetsinnehavaren själv
 om förorening p.g.a. färg och lukt), vad som gäller för
-gräver upp markbädden (oavsett utbytestid/ålder).
 mottagningsanläggningen (tillståndsvillkor, entreprenörens
 krav m.m.) samt tillsynsmyndighetens krav och rättspraxis
-Om fastighetsinnehavaren gräver upp trekammarbrunnen
 från eventuell överprövning.
-bör det finnas föreskrifter att den ska vara tömd innan den
-överlämnas till kommunens avfallshantering59. Material från
+
 Mottagaren kan be om att avfallslämnaren frivilligt lämnar
-enskilda avlopp är inte att klassa som farligt avfall, om det inte
 de uppgifter och dokument som behövs för kännedom om
-i det enskilda fallet finns särskild anledning att anta annat.
 eventuellt föroreningsinnehåll, men Avfall Sverige ser inte
 att det finns stöd i lagstiftningen för kommunen att villkora
 lämning av massor och annat bygg- och rivningsavfall med
+
+att avlämnaren visar upp ett provtagningsprotokoll eller
+liknande58. Kommunen har nämligen en grundläggande
+mottagningsskyldighet för avfall under kommunalt ansvar.
+Om kommunen som renhållare väljer att ställa klassificering
+och provtagning som krav för mottagande så kan det anses
+som ett oproportionerligt krav som innebär att kommunen
+inte uppfyller sin skyldighet att ta emot avfallet. Ett alternativ
+skulle kunna vara att avfallslämnaren åläggs att betala en
+särskild avgift som syftar till att bekosta provtagningen,
+under förutsättning att det har stöd i avfallstaxan (se kapitel
+7).
+
+Jord med invasiva arter
+Jord med invasiva arter är en fraktion som kan komma att
+öka i samband med det nya ansvaret. Invasiva arter utan
+jord (eller endast mindre mängd) tas idag emot på flera
+återvinningscentraler i förslutna påsar i den brännbara
+fraktionen. Jord som innehåller invasiva arter utgör dock
+en större utmaning, kanske särskilt eftersom parkslide och
+blomsterlupin är några av de invasiva främmande arterna
+i Sverige som inte omfattas av någon särskild lagstiftning.
+Dock kan kommunen ändå ställa mottagningskrav i de
+kommunala föreskrifterna enligt avfallsförordningen 9 kap.
+2 §, och vid behov hänvisa till de allmänna hänsynsreglerna
+som finns i miljöbalkens andra kapitel.
+Det är därför viktigt att se över var denna jord skulle kunna
+hänvisas i de fallen kommunens återvinningscentral inte
+kan ta emot den, såsom en upphandlad avfallsanläggning. Se
+Avfall Sveriges rapport 2021:15 Hantering och deponering av
+jordmassor med invasiva arter – parkslide.
+
+Enskilda avlopp
+Filtreringsmaterial såsom sand och makadam i markbäddar
+och liknande från enskilda avlopp bör också betraktas som
+bygg- och rivningsavfall. Denna typ av material utgjorde
+inte hushållsavfall (begreppet omfattade inte avfall med
+längre utbytestid än fem år) och utgör inte heller enligt nya
+definitionen kommunalt avfall. Däremot ingår det alltså i
+kommunens avfallsansvar om fastighetsinnehavaren själv
+gräver upp markbädden (oavsett utbytestid/ålder).
+Om fastighetsinnehavaren gräver upp trekammarbrunnen
+bör det finnas föreskrifter att den ska vara tömd innan den
+överlämnas till kommunens avfallshantering59. Material från
+enskilda avlopp är inte att klassa som farligt avfall, om det inte
+i det enskilda fallet finns särskild anledning att anta annat.
+
 53 Rapport 2022:01 Byggåterbruksguiden – Bedömning av möjlighet till återanvändning av byggvaror med hänsyn till innehåll av kemiska ämnen
 54 Prop. 2019/20:156 s. 94
 55 2008/98/EG
@@ -9920,71 +10521,106 @@ behöver hanteras varsamt.
 
 <!-- sida 224 -->
 
-6\. UPPHANDLING     OCH              6.2 Containrar
+6\. UPPHANDLING     OCH
+AUKTORISATION
 
-AUKTORISATION                       Om kommunen ska öka antalet fraktioner på
-återvinningscentralen kan det behövas upphandling/inköp
 Vad som kan bli aktuellt att upphandla beror på
-av nya containrar. Det kan också vara så att kommunen
 förutsättningarna i kommunen, vilken kapacitet för
-vill kunna tillhandahålla containrar för utställning hos
 mottagning och behandling som finns och vilka typer av
-fastighetsinnehavare som önskar nyttja tjänst för att lämna
 tjänster kommunen redan erbjuder.
+
+I samband med utredning av förväntade mängder kan det
+vara bra att undersöka om det finns aktörer i kommunen
+eller regionen som kan ha intresse av att samarbeta med
+kommunen kring insamling, hantering och avsättning av
+avfallet. Kommunen kommer bland annat behöva ta ställning
+till om nya tjänster ska upphandlas eller tillhandahållas i
+egen regi, eller om det finns möjlighet till auktorisation.
+
+6.1 Mottagning och behandling av bygg- och
+rivningsavfall
+Om kommunen inte har kapacitet att ta emot större
+mängder eller vissa typer av bygg- och rivningsavfall
+på återvinningscentralen och inte heller har egen större
+avfallsanläggning kan kommunen behöva upphandla
+mottagning på annan anläggning. Vid upphandlingen
+kan kommunen ställa krav på att aktören ska rapportera
+avfallsmängder till kommunen.
+
+Det kan också bli aktuellt att upphandla behandlingen av
+bygg- och rivningsavfallet. Avfall Sverige har ingen mall
+för sådan upphandling men kan hänvisa till en generell
+vägledning om upphandling av behandlingstjänster från
+201161\.
+I detta sammanhang uppstår frågan om omhändertagandet
+handlar om försäljning av avfall eller upphandling av
+behandlingstjänst:
+• Om omhändertagande är förknippat med villkor som
+kommunen ställer för hur avfallet ska hanteras – till
+exempel att det ska behandlas enligt vissa krav eller
+att mellanlagring ska ske på visst sätt – är det som
+regel fråga om köp av tjänst. Om kommunen dessutom
+betalar något för omhändertagandet utgör det under
+alla omständigheter köp av tjänst. I dessa fall gäller
+upphandling enligt LOU.
+• Om omhändertagandet inte är förknippat med villkor
+från kommunens sida och där kommunen inte betalar
+något för att få avfallet behandlat utgör det som
+regel försäljning av avfall och då faller det utanför
+tillämpningsområdet för LOU.
+
+6.2 Containrar
+Om kommunen ska öka antalet fraktioner på
+återvinningscentralen kan det behövas upphandling/inköp
+av nya containrar. Det kan också vara så att kommunen
+vill kunna tillhandahålla containrar för utställning hos
+fastighetsinnehavare som önskar nyttja tjänst för att lämna
 bygg- och rivningsavfall fastighetsnära. Vid upphandling av
 containrar kan kommunen välja att antingen köpa in eller
-I samband med utredning av förväntade mängder kan det
 hyra containrar. I Avfall Sveriges rapport 2021:19 beskrivs
-vara bra att undersöka om det finns aktörer i kommunen
 vilka erfarenheter kommuner, kommunala bolag och
-eller regionen som kan ha intresse av att samarbeta med
 leverantörer har av upphandling, olika typer av upphandling
-kommunen kring insamling, hantering och avsättning av
 samt vad man bör tänka på inför och under upphandling
-avfallet. Kommunen kommer bland annat behöva ta ställning
 av containrar. Det ges också exempel på ska-krav och hur
-till om nya tjänster ska upphandlas eller tillhandahållas i
 utvärdering kan göras. I bilaga 2 till rapporten finns en mall
-egen regi, eller om det finns möjlighet till auktorisation.
 för upphandling av containrar. Denna finns också tillgänglig i
 wordformat på Avfall Sveriges hemsida62.
-6.1 Mottagning och behandling av bygg- och
-rivningsavfall                      6.3 Fastighetsnära insamling
-Om kommunen inte har kapacitet att ta emot större I de fall kommunen väljer att inte driva fastighetsnära
-mängder eller vissa typer av bygg- och rivningsavfall insamling i egen regi står kommunen inför olika alternativ
-på återvinningscentralen och inte heller har egen större när det gäller att anlita leverantörer, exempelvis genom
-avfallsanläggning kan kommunen behöva upphandla traditionell upphandling i enlighet med lag (2016:1145) om
-mottagning på annan anläggning. Vid upphandlingen offentlig upphandling (LOU), alternativt tjänstekoncession
-kan kommunen ställa krav på att aktören ska rapportera eller auktorisation.
-avfallsmängder till kommunen.
+
+6.3 Fastighetsnära insamling
+I de fall kommunen väljer att inte driva fastighetsnära
+insamling i egen regi står kommunen inför olika alternativ
+när det gäller att anlita leverantörer, exempelvis genom
+traditionell upphandling i enlighet med lag (2016:1145) om
+offentlig upphandling (LOU), alternativt tjänstekoncession
+eller auktorisation.
+
 Kommunen kan välja att inkludera insamling av bygg- och
-Det kan också bli aktuellt att upphandla behandlingen av rivningsavfall vid upphandling av fastighetsnära insamling
-bygg- och rivningsavfallet. Avfall Sverige har ingen mall av grovavfall om kommunen har sådana tjänster via
-för sådan upphandling men kan hänvisa till en generell upphandling. Tänk dock på att i upphandlingsunderlaget
-vägledning om upphandling av behandlingstjänster från tydligt beskriva att bygg- och rivningsavfall ofta har en
-201161\.
+rivningsavfall vid upphandling av fastighetsnära insamling
+av grovavfall om kommunen har sådana tjänster via
+upphandling. Tänk dock på att i upphandlingsunderlaget
+tydligt beskriva att bygg- och rivningsavfall ofta har en
 annan beskaffenhet än grovavfall samt att det ska finnas
 möjlighet att sortera avfallet i minst sex fraktioner och även
-I detta sammanhang uppstår frågan om omhändertagandet i övrigt enligt lagstiftningens krav. Det kan vara smidigt
-handlar om försäljning av avfall eller upphandling av att upphandla entreprenör som tillhandahåller containrar,
-behandlingstjänst:                  storsäck och liknande och även inkludera omhändertagandet
-• Om omhändertagande är förknippat med villkor som av avfallet enligt rådande lagstiftning. I Avfall Sveriges
-kommunen ställer för hur avfallet ska hanteras – till Mall för upphandling av avfallshämtning finns ett avsnitt
-exempel att det ska behandlas enligt vissa krav eller om hämtning av grovavfall som kan ge vägledning för
-att mellanlagring ska ske på visst sätt – är det som upphandling av bygg- och rivningsavfall63. Vid kommande
-regel fråga om köp av tjänst. Om kommunen dessutom revidering av mallen kommer komplettering med bygg -och
-betalar något för omhändertagandet utgör det under rivningsavfall att göras.
-alla omständigheter köp av tjänst. I dessa fall gäller
-upphandling enligt LOU.          Upphandling av tjänstekoncession
-• Om omhändertagandet inte är förknippat med villkor Tjänstekoncessioner utmärks framför allt av att
-från kommunens sida och där kommunen inte betalar verksamhetsrisken övertas av leverantören och att
-något för att få avfallet behandlat utgör det som ersättningen för tjänsten består av rätten att nyttja tjänsten
-regel försäljning av avfall och då faller det utanför och/eller att ta betalt av tredje man. En tjänstekoncession
-tillämpningsområdet för LOU.     skiljer sig alltså framför allt från ett tjänstekontrakt gällande
+i övrigt enligt lagstiftningens krav. Det kan vara smidigt
+att upphandla entreprenör som tillhandahåller containrar,
+storsäck och liknande och även inkludera omhändertagandet
+av avfallet enligt rådande lagstiftning. I Avfall Sveriges
+Mall för upphandling av avfallshämtning finns ett avsnitt
+om hämtning av grovavfall som kan ge vägledning för
+upphandling av bygg- och rivningsavfall63. Vid kommande
+revidering av mallen kommer komplettering med bygg -och
+rivningsavfall att göras.
+Upphandling av tjänstekoncession
+Tjänstekoncessioner utmärks framför allt av att
+verksamhetsrisken övertas av leverantören och att
+ersättningen för tjänsten består av rätten att nyttja tjänsten
+och/eller att ta betalt av tredje man. En tjänstekoncession
+skiljer sig alltså framför allt från ett tjänstekontrakt gällande
 hur ersättningen sker och hur verksamhetsrisken fördelas.
 Att tjänsteleverantören övertar verksamhetsrisken innebär
 bland annat att leverantören inte är garanterad kompensation
 för eventuella kostnader och investeringar, utan utsätts
+
 61 Rapport U2011:25 Vägledning för upphandling av avfallsbehandlingstjänster
 62 https://www.avfallsverige.se/kunskapsbanken/upphandlingsmallar/upphandling-av-containrar-pa-atervinningscentraler/
 63 https://www.avfallsverige.se/kunskapsbanken/upphandlingsmallar/hamtning/
@@ -9992,28 +10628,27 @@ för eventuella kostnader och investeringar, utan utsätts
 
 <!-- sida 225 -->
 
-från verkliga marknadsrisker såsom konkurrens från andra Auktorisationssystem
-leverantörer, brist på intäkter, och obalans mellan utbud och Ett auktorisationssystem (eller valfrihetssystem som det
-efterfrågan. Upphandling av tjänstekoncessioner regleras i också kallas) är ett alternativ till offentlig upphandling, och
-lag (2016:1147) om upphandling av koncessioner (LUK). faller utanför upphandlingslagarna då den upphandlande
-organisationen inte gör ett urval av leverantörer. I stället
-Som huvudregel ska koncessionen vara tidsbegränsad kontrollerar kommunen enbart att leverantörer uppfyller
-och inte löpa mer än fem år. Till skillnad från övriga satta krav och kriterier. Det innebär att samtliga kvalificerade
-upphandlingslagar innehåller inte LUK några regler om olika leverantörer bli auktoriserade. Det är sedan de som brukar
-upphandlingsförfaranden. Kommunerna får ställa tekniska tjänsten (i detta fall hushållen) som själva beslutar vilken
-krav och funktionskrav på det som upphandlas. Kommunen leverantör som de vill nyttja för tjänsten. Betalning sker
-ska i upphandlingsannons beskriva koncessionen och direkt från hushållet till leverantören.
-villkoren för att delta. I något av koncessionsdokumenten För mer information se Avfall Sveriges Mall för
-ska kommunen också ange minimikrav som gäller i form auktorisationssystem för fastighetsnära insamling
-av villkor eller krav på exempelvis tekniska egenskaper. av returpapper. Mallen har tagits fram för att vägleda
-Kommunen kan tilldela koncession till flera leverantörer, men kommunerna i arbetet med att auktorisera entreprenörer
-de måste dock använda tilldelningskriterier som säkerställer och innehåller bland annat förslag på texter för
-att anbuden bedöms i konkurrens med varandra i syfte att auktorisationsdokument. Observera att mallen gäller för
-fastställa ekonomiska fördelar för kommunen. Det är sedan returpapper och därmed måste texter anpassas till insamling
-de som brukar tjänsten (i detta fall hushållen) som själva av bygg- och rivningsavfall.
+från verkliga marknadsrisker såsom konkurrens från andra
+leverantörer, brist på intäkter, och obalans mellan utbud och
+efterfrågan. Upphandling av tjänstekoncessioner regleras i
+lag (2016:1147) om upphandling av koncessioner (LUK).
+
+Som huvudregel ska koncessionen vara tidsbegränsad
+och inte löpa mer än fem år. Till skillnad från övriga
+upphandlingslagar innehåller inte LUK några regler om olika
+upphandlingsförfaranden. Kommunerna får ställa tekniska
+krav och funktionskrav på det som upphandlas. Kommunen
+ska i upphandlingsannons beskriva koncessionen och
+villkoren för att delta. I något av koncessionsdokumenten
+ska kommunen också ange minimikrav som gäller i form
+av villkor eller krav på exempelvis tekniska egenskaper.
+Kommunen kan tilldela koncession till flera leverantörer, men
+de måste dock använda tilldelningskriterier som säkerställer
+att anbuden bedöms i konkurrens med varandra i syfte att
+fastställa ekonomiska fördelar för kommunen. Det är sedan
+de som brukar tjänsten (i detta fall hushållen) som själva
 beslutar vilken leverantör som de vill nyttja för tjänsten.
 Betalning sker direkt från hushållet till leverantören.
-
 För mer information se Avfall Sveriges Mall för
 upphandling av koncession för fastighetsnära insamling
 av returpapper64. Mallen har tagits fram för att vägleda
@@ -10037,88 +10672,135 @@ hämtas framför allt med containrar eller storsäck. Leverantörerna
 ansvarar för hantering och avsättning av avfallet i nästa steg och
 skickar statistik månadsvis till Stockholm Vatten och Avfall.
 
+Auktorisationssystem
+Ett auktorisationssystem (eller valfrihetssystem som det
+också kallas) är ett alternativ till offentlig upphandling, och
+faller utanför upphandlingslagarna då den upphandlande
+organisationen inte gör ett urval av leverantörer. I stället
+kontrollerar kommunen enbart att leverantörer uppfyller
+satta krav och kriterier. Det innebär att samtliga kvalificerade
+leverantörer bli auktoriserade. Det är sedan de som brukar
+tjänsten (i detta fall hushållen) som själva beslutar vilken
+leverantör som de vill nyttja för tjänsten. Betalning sker
+direkt från hushållet till leverantören.
+För mer information se Avfall Sveriges Mall för
+auktorisationssystem för fastighetsnära insamling
+av returpapper. Mallen har tagits fram för att vägleda
+kommunerna i arbetet med att auktorisera entreprenörer
+och innehåller bland annat förslag på texter för
+auktorisationsdokument. Observera att mallen gäller för
+returpapper och därmed måste texter anpassas till insamling
+av bygg- och rivningsavfall.
+
 64 https://www.avfallsverige.se/kunskapsbanken/upphandlingsmallar/upphandling-kring-returpapper/
 18
 
 <!-- sida 226 -->
 
-7\. AVGIFTSFINANSIERING              som har rätt att besluta om särskilda avgifter och hur de ska
-fastställas. Exempel på skrivning i taxedokumentet:
+7\. AVGIFTSFINANSIERING
+
 Vid översyn av avgiftsfinansieringen i samband med det
-I de fall där taxan inte går att tillämpa, exempelvis vid
 nya ansvaret behöver kommunen ta ställning till om den
-hämtning med andra metoder än de som är beskrivna
 ska erbjuda obegränsade besök till återvinningscentral i
-i denna avfallstaxa eller där förhållandena väsentligt
 grundavgiften, eller om endast ett visst antal besök, med
-avviker från vad som är normalt får XXX besluta om
 en viss volym, ska ingå i grundavgiften medan ytterligare
-avgifter i enlighet med grunderna för denna avfallstaxa
 besök sker till en extra avgift. De flesta avfallstaxor har
-och de grunder som anges i 27 kap. 5 § miljöbalken.
 en konstruktion som delar in avgiften i olika delar där en
-del utgörs av en grundavgift som ofta tas ut för att täcka Miljöstyrande taxa
-fasta kostnader, bland annat administration och driften av Det är möjligt att med taxan styra mot bättre sortering av
-återvinningscentraler. Det förekommer att kommuner på bygg- och rivningsavfall, inklusive återbruk, till exempel
-något sätt begränsar de antal besök på återvinningscentralen genom att differentiera avgiften på återvinningscentralen och
-som ingår i grundavgiften och besök därutöver är vid fastighetsnära insamling eller ge ekonomiska incitament
-avgiftsbelagda, men vanligast idag är att kommunerna att inrätta bytesrum i flerfamiljshus67.
-har obegränsat antal besök utan särskilda avgifter för Det rekommenderas att kommunen ser över möjligheten
-privatpersoner. Vid avlämning till större avfallsanläggning att utforma avgifterna så att de styr mot en ökad
-kan det dock vara motiverat att ta ut särskild lämningsavgift. källsorteringsgrad och hantering högre upp i avfallshierarkin.
-En miljöstyrande avgift kan utformas så att osorterat avfall
-Det rekommenderas att fastighetsnära insamling inte och fraktioner längre ner i avfallshierarkin såsom deponi
-inkluderas i grundavgiften, utan att det hanteras genom kostar mer att lämna än sådant som är sorterat eller kan
-så kallad tilläggsavgift65 i avfallstaxan. På så sätt är det återanvändas. En möjlighet kan exempelvis vara att göra
-möjligt för kommunen att styra efterfrågan på fastighetsnära det kostnadsfritt att lämna in bygg- och rivningsavfall som
-insamling genom nivån på avgiften. För de kommuner som kan återbrukas. Detta kan även gälla för verksamheter
-vill att majoriteten av avfallet ska lämnas in av hushållen för att få större volymer återbruk, lämpligen förutsatt att
-på återvinningscentraler kan den fastighetsnära tjänsten återvinningscentraler har möjlighet att hantera och lagra
-göras dyr i relation till eventuell kostnad att lämna in på större mängder. För de juridiska aspekterna kring återbruk,
-återvinningscentral. En bra konstruktion är att dela upp se Avfall Sveriges Guide #9 Juridiska förutsättningar för
-tilläggsavgiften i framkörningsavgift/basavgift respektive förebyggande och återanvändning.
+del utgörs av en grundavgift som ofta tas ut för att täcka
+fasta kostnader, bland annat administration och driften av
+återvinningscentraler. Det förekommer att kommuner på
+något sätt begränsar de antal besök på återvinningscentralen
+som ingår i grundavgiften och besök därutöver är
+avgiftsbelagda, men vanligast idag är att kommunerna
+har obegränsat antal besök utan särskilda avgifter för
+privatpersoner. Vid avlämning till större avfallsanläggning
+kan det dock vara motiverat att ta ut särskild lämningsavgift.
+Det rekommenderas att fastighetsnära insamling inte
+inkluderas i grundavgiften, utan att det hanteras genom
+så kallad tilläggsavgift65 i avfallstaxan. På så sätt är det
+möjligt för kommunen att styra efterfrågan på fastighetsnära
+insamling genom nivån på avgiften. För de kommuner som
+vill att majoriteten av avfallet ska lämnas in av hushållen
+på återvinningscentraler kan den fastighetsnära tjänsten
+göras dyr i relation till eventuell kostnad att lämna in på
+återvinningscentral. En bra konstruktion är att dela upp
+tilläggsavgiften i framkörningsavgift/basavgift respektive
 avgift per kubik/kolli/minut på plats. Detta följer den
 verkliga hämtningskostnaden väl. Behandlingskostnaden
-Exempel miljöstyrning av grovavfall
 kan läggas in i volymavgiften med ett schablontillägg eller
-Privatpersoner som besöker återvinningscentralen får betala
 variera beroende på typ av avfall. En taxekonstruktion som
-en avgift som beror på vad som ska slängas. Fraktioner som
 innebär timdebitering där transportavståndet inkluderas, det
-går att materialåtervinna eller som på annat sätt är viktiga att
-vill säga att kommunmedlemmar som bor på mer avlägsna samla in, såsom farligt avfall (inklusive elavfall), är avgiftsfria.
-platser får betala mer för samma typ av tjänst än de som För fraktioner med högre miljöbelastning, till exempel avfall
-till deponi eller restavfall till energiåtervinning, utgår en avgift
+vill säga att kommunmedlemmar som bor på mer avlägsna
+platser får betala mer för samma typ av tjänst än de som
 bor mer centralt, är enligt Avfall Sveriges bedömning inte
-beroende på avfallsmängd (bil med eller utan släp).
 förenligt med likställighetsprincipen. Behöver hämtning
 ske med specialfordon är bedömningen att det är en annan
-Ett sätt att utveckla miljöstyrningen med avseende
 tjänst och därmed kan annan avgift tas ut. För containrar kan
-på mängdhanteringen skulle kunna vara att i högre
 kommunen överväga att ta ut en dygnsavgift för hyra och för
-utsträckning ta betalt för antalet gånger som kunder
 storsäckar en avgift per säck där hämtning ingår.
+I Avfall Sveriges rapport U2014:09 Vägledning till
+konstruktion av avfallstaxa finns exempel på avgift för
+hämtning av grovavfall som kan användas som inspiration.
+
+De tjänster som kommunen vill finansiera med särskilda
+avgifter behöver specificeras i avfallstaxan som antas av
+kommunfullmäktige. Om kommunen inte fastställt avgifter
+för alla typer av hämtningar som kan bli aktuella kan ändå
+avgiftsfinansiering ske om kommunen fastställt hur avgift
+ska tas ut för oförutsedda hämtningar66. Här ska anges vem
+
+som har rätt att besluta om särskilda avgifter och hur de ska
+fastställas. Exempel på skrivning i taxedokumentet:
+I de fall där taxan inte går att tillämpa, exempelvis vid
+hämtning med andra metoder än de som är beskrivna
+i denna avfallstaxa eller där förhållandena väsentligt
+avviker från vad som är normalt får XXX besluta om
+avgifter i enlighet med grunderna för denna avfallstaxa
+och de grunder som anges i 27 kap. 5 § miljöbalken.
+
+Miljöstyrande taxa
+Det är möjligt att med taxan styra mot bättre sortering av
+bygg- och rivningsavfall, inklusive återbruk, till exempel
+genom att differentiera avgiften på återvinningscentralen och
+vid fastighetsnära insamling eller ge ekonomiska incitament
+att inrätta bytesrum i flerfamiljshus67.
+Det rekommenderas att kommunen ser över möjligheten
+att utforma avgifterna så att de styr mot en ökad
+källsorteringsgrad och hantering högre upp i avfallshierarkin.
+En miljöstyrande avgift kan utformas så att osorterat avfall
+och fraktioner längre ner i avfallshierarkin såsom deponi
+kostar mer att lämna än sådant som är sorterat eller kan
+återanvändas. En möjlighet kan exempelvis vara att göra
+det kostnadsfritt att lämna in bygg- och rivningsavfall som
+kan återbrukas. Detta kan även gälla för verksamheter
+för att få större volymer återbruk, lämpligen förutsatt att
+återvinningscentraler har möjlighet att hantera och lagra
+större mängder. För de juridiska aspekterna kring återbruk,
+se Avfall Sveriges Guide #9 Juridiska förutsättningar för
+förebyggande och återanvändning.
+Exempel miljöstyrning av grovavfall
+Privatpersoner som besöker återvinningscentralen får betala
+en avgift som beror på vad som ska slängas. Fraktioner som
+går att materialåtervinna eller som på annat sätt är viktiga att
+samla in, såsom farligt avfall (inklusive elavfall), är avgiftsfria.
+För fraktioner med högre miljöbelastning, till exempel avfall
+till deponi eller restavfall till energiåtervinning, utgår en avgift
+beroende på avfallsmängd (bil med eller utan släp).
+Ett sätt att utveckla miljöstyrningen med avseende
+på mängdhanteringen skulle kunna vara att i högre
+utsträckning ta betalt för antalet gånger som kunder
 besöker en återvinningscentral. Hur denna avgift tas ut
 skulle kunna variera, antingen som registrerade besök
-I Avfall Sveriges rapport U2014:09 Vägledning till
 eller som avgifter per gång. Som med all miljöstyrning
-konstruktion av avfallstaxa finns exempel på avgift för
 finns det risker med att på olika sätt begränsa besöken
-hämtning av grovavfall som kan användas som inspiration.
 till en återvinningscentral, med till exempel risk för ökad
 nedskräpning. En differentierad avgift med avseende på
-De tjänster som kommunen vill finansiera med särskilda
 fraktion eller mängd kräver också omfattande utveckling av
-avgifter behöver specificeras i avfallstaxan som antas av
 befintliga anläggningar och digitala tekniker för att kunna
-kommunfullmäktige. Om kommunen inte fastställt avgifter
 tillämpas, till exempel viktregistrering av bilen eller indelning
-för alla typer av hämtningar som kan bli aktuella kan ändå
 av anläggningen i sektioner med olika avgifter. Men med
-avgiftsfinansiering ske om kommunen fastställt hur avgift
 tanke på hur snabbt digitala lösningar utvecklas ligger sådan
-ska tas ut för oförutsedda hämtningar66. Här ska anges vem
+
 65 Tilläggsavgifter är ersättning för sådana tjänster som inte är obligatoriska för samtliga kunder utan är särskilda tillvalstjänster för dem som har behov av
 dem. Tilläggsavgifter kallas ibland även specialavgifter, särskilda avgifter eller övriga avgifter.
 66 Enligt 27 kap. 6 § miljöbalken ska taxan innehålla skrivning om hur avgiften ska bestämmas när taxan i övrigt saknar tillämplig bestämmelse om avgift.
@@ -10158,100 +10840,109 @@ dock maxtaxa.
 
 <!-- sida 228 -->
 
-8\. STATISTIKRAPPORTERING            och rivningsavfall. Naturvårdsverket har en vägledning70
-som ger råd om lämpliga tillvägagångssätt för den utökade
+8\. STATISTIKRAPPORTERING
+
 Rapportering i Avfall Web
-rapporteringen i Svenska Miljörapporteringsportalen (SMP).
 I Avfall Sveriges statistikdatabas Avfall Web har det av
-Av Naturvårdsverkets vägledning framgår att mottagna
 tradition varit fokus på rapportering av hushållsavfall,
-mängder bygg-, rivnings- och anläggningsavfall (enligt
 vilket som regel varit liktydigt med kommunalt ansvar. I
-klassning i avsnitt 17 i avfallsförteckningen) ska rapporteras
 och med nya definitionen på kommunalt avfall, finns det
-i den utökade rapporteringen. I detta begrepp ingår även
 avfall som hamnar utanför definitionen, men som ändå utgör
-utrustning som är fast inmonterade (inbyggda) i byggnader
 kommunalt ansvar, såsom bygg- och rivningsavfall från
-som exempelvis värmepannor, varmvattenberedare,
 hushåll (som inte producerats i yrkesmässig verksamhet).
-sanitetsanordningar, VA-rör, elkablar, belysningsarmaturer
 Eftersom det ingår i det kommunala ansvaret bör dessa
-i väggar och tak, väggkontakter av olika slag, pumpar,
 mängder framöver rapporteras in i Avfall Web.
-fläktar och elektronik för styrning av dörrar och belysningar.
-Kommunalt avfall och liknande avfall, förpackningsavfall,
 Från år 2022 är det obligatoriskt för kommunerna
-kemikalier och oljeavfall, ingår inte i den utökade
 att rapportera uppgifter om kommunalt avfall till
-rapporteringen. Vitvaror eller andra lösa (ej inbyggda) el- och
 Naturvårdsverket enligt NFS 2020:10. Avfall Web får
-elektronikprodukter från byggnation och rivningar ska inte
 användas för rapporteringen av uppgifterna. Bygg- och
-heller rapporteras.
 rivningsavfall är som sagt inte kommunalt avfall, men
 eftersom kommunernas ansvar även omfattar visst bygg- och
-Den 1 januari 2022 trädde dessutom i kraft en ändring av
 rivningsavfall uppstår osäkerhet i lämnade av uppgifter då
-föreskrifterna (NFS 2016:8) om miljörapport som bland
 insamling av hushållens bygg- och rivningsavfall samordnas
-annat innebär att den generella avfallsrapporteringen utökas
 med skrymmande kommunalt avfall, så kallat grovavfall.
-till anmälningspliktiga anläggningar som samtidigt är del av
-viss tillståndspliktig verksamhet.
+
 Av Naturvårdsverkets information inför lämnande av
 uppgifter om kommunalt avfall framgår följande:
-Det kan påverka till exempel mindre återvinningscentraler
 • Som kommun lämnar man i Avfall Web uppgifter
-(med anmälningsplikt) om de är en del av en större
 om skrymmande avfall enligt instruktioner för
-avfallsanläggning, det vill säga ligger på samma fastighet,
 grovavfall samt farligt avfall. En bearbetning av data
-som är tillståndspliktig. Den generella avfallsrapporteringen
 görs sedan av Naturvårdsverket utifrån tillgängliga
-till SMP blir alltså standardiserad på motsvarande sätt
 fördelningsfaktorer.
-som för bygg- och rivningsavfall. Verksamhetsutövaren
 • Indatakoder i Avfall Web som gips och asbest
-ska själv i miljörapportens bilaga (avfallsmodul) ange
 utesluts helt då de bedöms utgöras helt av bygg- och
-avfallets EWC-kod, hanteringskod och underkod enligt
 rivningsavfall.
-avfallsförordningens bilagor. Tidigare har det gjorts i
 • Vissa kategorier utesluts i brist på fördelningsfaktorer,
-efterhand av Naturvårdsverket inför vidarerapportering
 då de bedöms primärt utgöras av bygg- och
-till EU. Första rapporteringen ska göras senast 31 mars
 rivningsavfall. Det gäller exempelvis inert/icke
-2023 avseende år 2022. Naturvårdsverket arbetar med
 brännbart avfall, tryckimpregnerat trä och planglas.
-att ta fram mer detaljerad vägledning kring den nya
 • De kategorier som i huvudsak bedöms innehålla
-rapporteringsskyldigheten.
 annat kommunalt avfall än bygg- och rivningsavfall
 används som underlag för rapportering av kommunalt
-Rapporteringsskyldighet för farligt avfall
 skrymmande avfall.
+Kommunen behöver inte fysiskt hålla isär flöden som
+utgör kommunalt avfall och flöden som utgör bygg- och
+rivningsavfall. Naturvårdsverket hanterar fördelningen med
+hjälp av schabloner när det gäller rapportering av kommunalt
+avfall. Om kommunens har A- och B-tillståndspliktiga
+anläggningar gäller även rapportering enligt beskrivningen
+nedan.
+
+Rapporteringsskyldighet för tillståndspliktiga anläggningar
+Sedan 2016 finns det en utökad rapporteringsskyldighet för
+A- och B-tillståndspliktiga anläggningar som tar emot bygg-
+
+och rivningsavfall. Naturvårdsverket har en vägledning70
+som ger råd om lämpliga tillvägagångssätt för den utökade
+rapporteringen i Svenska Miljörapporteringsportalen (SMP).
+Av Naturvårdsverkets vägledning framgår att mottagna
+mängder bygg-, rivnings- och anläggningsavfall (enligt
+klassning i avsnitt 17 i avfallsförteckningen) ska rapporteras
+i den utökade rapporteringen. I detta begrepp ingår även
+utrustning som är fast inmonterade (inbyggda) i byggnader
+som exempelvis värmepannor, varmvattenberedare,
+sanitetsanordningar, VA-rör, elkablar, belysningsarmaturer
+i väggar och tak, väggkontakter av olika slag, pumpar,
+fläktar och elektronik för styrning av dörrar och belysningar.
+Kommunalt avfall och liknande avfall, förpackningsavfall,
+kemikalier och oljeavfall, ingår inte i den utökade
+rapporteringen. Vitvaror eller andra lösa (ej inbyggda) el- och
+elektronikprodukter från byggnation och rivningar ska inte
+heller rapporteras.
+Den 1 januari 2022 trädde dessutom i kraft en ändring av
+föreskrifterna (NFS 2016:8) om miljörapport som bland
+annat innebär att den generella avfallsrapporteringen utökas
+till anmälningspliktiga anläggningar som samtidigt är del av
+viss tillståndspliktig verksamhet.
+
+Det kan påverka till exempel mindre återvinningscentraler
+(med anmälningsplikt) om de är en del av en större
+avfallsanläggning, det vill säga ligger på samma fastighet,
+som är tillståndspliktig. Den generella avfallsrapporteringen
+till SMP blir alltså standardiserad på motsvarande sätt
+som för bygg- och rivningsavfall. Verksamhetsutövaren
+ska själv i miljörapportens bilaga (avfallsmodul) ange
+avfallets EWC-kod, hanteringskod och underkod enligt
+avfallsförordningens bilagor. Tidigare har det gjorts i
+efterhand av Naturvårdsverket inför vidarerapportering
+till EU. Första rapporteringen ska göras senast 31 mars
+2023 avseende år 2022. Naturvårdsverket arbetar med
+att ta fram mer detaljerad vägledning kring den nya
+rapporteringsskyldigheten.
+Rapporteringsskyldighet för farligt avfall
 Från 1 november 2020 ska verksamheter rapportera in
 anteckningar om farligt avfall till det digitala avfallsregistret
-Kommunen behöver inte fysiskt hålla isär flöden som
 hos Naturvårdsverket, antingen via e-tjänst med
-utgör kommunalt avfall och flöden som utgör bygg- och
 e-legitimation eller genom att ansluta sitt verksamhetssystem
-rivningsavfall. Naturvårdsverket hanterar fördelningen med till ett API.71 Detta kräver teknisk utveckling inom
-hjälp av schabloner när det gäller rapportering av kommunalt
+till ett API.71 Detta kräver teknisk utveckling inom
 verksamheten och avtal med Naturvårdsverket. Exempel på
-avfall. Om kommunens har A- och B-tillståndspliktiga
 bygg- och rivningsavfall som utgör farligt avfall är elavfall,
-anläggningar gäller även rapportering enligt beskrivningen
 asbest och impregnerat trä.
-nedan.
+
 Från januari 2022 är det även sanktionsavgift för den
-Rapporteringsskyldighet för tillståndspliktiga anläggningar
 verksamhet som inte rapporterar i tid. Läs mer om
-Sedan 2016 finns det en utökad rapporteringsskyldighet för
 inrapporteringsskyldigheten på Naturvårdsverkets hemsida72.
-A- och B-tillståndspliktiga anläggningar som tar emot bygg-
+
 70 https://www.naturvardsverket.se/vagledning-och-stod/avfall/bygg--och-rivningsavfall/rapportering-for-avfallsmottagande-anlaggningar
 71 API innebär att kommunens verksamhetssystem kommunicerar med Naturvårdsverkets avfallsregister.
 72 https://www.naturvardsverket.se/vagledning-och-stod/avfall-farligt-avfall/rapportera-till-avfallsregistret/
@@ -10259,25 +10950,24 @@ A- och B-tillståndspliktiga anläggningar som tar emot bygg-
 
 <!-- sida 229 -->
 
-9\. KOMMUNIKATION      OCH           Inför starten av en ny fastighetsnära insamlingstjänst
-rekommenderas att kommunen har en informationskampanj
+9\. KOMMUNIKATION      OCH
 SAMVERKAN
-där fastighetsinnehavare informeras om de ändrade
-I första hand bör kommunen hjälpa hushållen att förebygga lagkraven och varför det är viktigt att källsortera bygg-
-bygg- och rivningsavfall, till exempel genom att hänvisa och rivningsavfall. Om ni planerar införa fastighetsnära
-till Avfall Sveriges Byggåterbruksguiden73. Hänvisa till insamling av bygg- och rivningsavfall vid flerbostadshus bör
-byggåterbruk där det finns sådana.  det ske i nära samarbete med fastighetsinnehavaren.
-Men allt kan förstås inte användas igen. Personalen och Kommunens avfallsplan ska innehålla en redogörelse för
-skyltningen på återvinningscentralerna kommer sannolikt de styrmedel som kommunen planerar att använda genom
-att bli viktiga för att kunna hjälpa hushållen att sortera sina olika ansvarsområden och organisationer – framförallt
-rätt – underlag till skyltar kan hämtas på sverigesorterar. byggnadsnämnd, tillsynsnämnd och renhållare – för att nå
-se. Personalen bör också kunna förklara vinsterna med de målen och uppfylla kommunens ansvar i fråga om bygg- och
-ändrade reglerna, och självklart bör de veta vilka fraktioner rivningsavfall.74 Planen kan exempelvis också ange hur de
-som kan vara farligt avfall. Kom ihåg att uppdatera eventuell olika myndigheterna avser att samverka med varandra i syfte
-vägledning för hur bilen eller släpet ska packas inför besöket att informera hushåll och verksamheter enligt ovanstående,
-på återvinningscentralen.           minska mängden bygg- och rivningsavfall och säkerställa
-att kommunen har möjlighet att uppfylla sitt ansvar om
-Sprid också gärna information till bygg- och mottagande och behandling av avfallet.75
+
+I första hand bör kommunen hjälpa hushållen att förebygga
+bygg- och rivningsavfall, till exempel genom att hänvisa
+till Avfall Sveriges Byggåterbruksguiden73. Hänvisa till
+byggåterbruk där det finns sådana.
+
+Men allt kan förstås inte användas igen. Personalen och
+skyltningen på återvinningscentralerna kommer sannolikt
+att bli viktiga för att kunna hjälpa hushållen att sortera
+rätt – underlag till skyltar kan hämtas på sverigesorterar.
+se. Personalen bör också kunna förklara vinsterna med de
+ändrade reglerna, och självklart bör de veta vilka fraktioner
+som kan vara farligt avfall. Kom ihåg att uppdatera eventuell
+vägledning för hur bilen eller släpet ska packas inför besöket
+på återvinningscentralen.
+Sprid också gärna information till bygg- och
 transportfirmor om att de inte längre får hantera bygg-
 och rivningsavfall som hushållen själva gett upphov
 till. Skulle de transportera avfallet utan kommunens
@@ -10294,6 +10984,26 @@ rivningsavfall till kommunens avfallshantering kan inte
 kommunens ensamrätt åberopas. Sådan borttransport kan
 dock ske yrkesmässigt och i sådant fall krävs tillstånd från
 länsstyrelsen eller att anmälan har gjorts dit.
+
+Inför starten av en ny fastighetsnära insamlingstjänst
+rekommenderas att kommunen har en informationskampanj
+där fastighetsinnehavare informeras om de ändrade
+lagkraven och varför det är viktigt att källsortera bygg-
+och rivningsavfall. Om ni planerar införa fastighetsnära
+insamling av bygg- och rivningsavfall vid flerbostadshus bör
+det ske i nära samarbete med fastighetsinnehavaren.
+
+Kommunens avfallsplan ska innehålla en redogörelse för
+de styrmedel som kommunen planerar att använda genom
+sina olika ansvarsområden och organisationer – framförallt
+byggnadsnämnd, tillsynsnämnd och renhållare – för att nå
+målen och uppfylla kommunens ansvar i fråga om bygg- och
+rivningsavfall.74 Planen kan exempelvis också ange hur de
+olika myndigheterna avser att samverka med varandra i syfte
+att informera hushåll och verksamheter enligt ovanstående,
+minska mängden bygg- och rivningsavfall och säkerställa
+att kommunen har möjlighet att uppfylla sitt ansvar om
+mottagande och behandling av avfallet.75
 
 73 Rapport 2022:01 Byggåterbruksguiden – Bedömning av möjlighet till återanvändning av byggvaror med hänsyn till innehåll av
 kemiska ämnen

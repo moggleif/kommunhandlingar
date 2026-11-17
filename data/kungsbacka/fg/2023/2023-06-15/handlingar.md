@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240329123924id_/https://kungsbacka.se/d
 sha256: 5953084b76681f3f40f5df8444b9f9b5586df960e0a7dc143728a05fdcb2e224
 bytes: 10708607
 sidor: 178
-hamtad: 2026-10-20T10:05:48+00:00
-konverterad: 2026-10-20T10:06:35+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:35:04+00:00
+konverterad: 2026-11-17T01:35:46+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1699,105 +1699,777 @@ Enkätresultat     2023
 
 Kungsbacka     kommun
 
-E le v e r
-
-Å r s k u r s 5 g r u n d s k o la
-
-Å r s k u r s 8 g r u n d s k o la
-
-Å r 2 g y m n a s ie s k o la
-
-U n d e r v is a n d e lä r a r e
-
-G r u n d s k o la
-
-G y m n a s ie s k o la
-
-V å r d n a d s h a v a r e
-
-F ö r s k o le k la s s
-
-G r u n d s k o la
-
-G r u n d s ä r s k o la
-
-¹ O b s e r v e r a a tt s v a r s fr e
-e le v e r o c h u n d e r v is a n d
-ke v e
-lä
-nr sa
-T o
-T o
-T o
-e n
-r e
-ta
-1
-1
-ta
-tae
-1
-9
-ä
-lt a n
-9 9 4
-0 1 6
-0 8 4
-lt a n
-7 8 4
-2 4 9
-lt a n
-le v e r
-1 0 3
-0 1 2
-9 6
-r u n d
-ta l
-ta l
-ta l
-e r 6 5 %
-A
-A
-A
-s
-n
-n
-n
-o
-ta l s v a
-8 3 4
-8 1 6
-5 3 7
-ta l s v a
-5 6 0
-1 6 1
-ta l s v a
-3 4 1
-2 6 7 1
-7
-m tid ig
-r
-r
-r
-a r e v
-S v a r s fr e k v e n s
-8 4 %
-8 0 %
-5 0 % ¹
-S v a r s fr e k v e n s
-7 1 %
-6 5 %
-U p p s k a tta d
-s v a r s fr e k v e n s
-3 1 %
-3 0 %
-7 %
-a r it e n g r ä n s fö r n ä r v i r e d o v is a t r e s u lta te t fö r
 Det krävs minst fem svar för att resultatet ska redovisas. För vårdnadshavare uppskattas
 svarsfrekvensen utifrån antalet elever. Vårdnadshavare besvarar enkäten genom en inloggningsuppgift
 som är unik för varje skolenhet, till skillnad mot elever och undervisande lärare som besvarar enkäten
 genom en inloggningsuppgift som är unik för varje respondent. Det innebär att det finns en risk att
 resultaten för vårdnadshavare inte är lika reliabla som för elever och undervisande lärare.
+
+r
+
+ö
+
+f
+
+t
+
+te
+
+a
+
+lt
+
+su
+
+e
+
+r
+
+t
+
+a
+
+is
+
+v
+
+o
+
+ed
+
+r
+
+i
+
+v
+
+r
+
+ä
+
+n
+
+r
+
+ö
+
+s
+
+s
+
+s
+
+f
+
+n
+
+n
+
+d n
+
+s
+
+ve
+
+ve
+
+ta ve
+
+n
+
+k
+
+¹
+
+k
+
+t k
+
+ä
+
+e
+
+%
+
+%
+
+%
+
+e
+
+%
+
+%
+
+a e
+
+%
+
+%
+
+r
+
+fr
+
+4
+
+0
+
+0
+
+fr
+
+1
+
+5
+
+k fr
+
+1
+
+0
+
+7%
+
+g
+
+s
+
+8
+
+8
+
+5
+
+s
+
+7
+
+6
+
+s s
+
+3
+
+3
+
+n
+
+r
+
+r
+
+p r
+
+e
+
+a
+
+a
+
+p a
+
+it
+
+v
+
+v
+
+U v
+
+r
+
+S
+
+S
+
+s
+
+a
+
+v
+
+re
+
+r
+
+r
+
+r
+
+a
+
+a
+
+a
+
+a
+
+ig
+
+v
+
+v
+
+v
+
+1
+
+s
+
+4
+
+6
+
+7
+
+s
+
+0
+
+1
+
+s
+
+1
+
+7
+
+id
+
+l
+
+3
+
+1
+
+3
+
+l
+
+6
+
+6
+
+l
+
+4
+
+7
+
+t
+
+6
+
+ta
+
+8
+
+8
+
+5
+
+ta
+
+5
+
+1
+
+ta
+
+3
+
+2
+
+n
+
+n
+
+n
+
+om
+
+A
+
+A
+
+A
+
+s
+
+5%
+
+6
+
+l
+
+l
+
+l
+
+a
+
+a
+
+a
+
+r
+
+t
+
+t
+
+t
+
+e
+
+n
+
+6
+
+4
+
+n
+
+n r
+
+3
+
+2
+
+d
+
+a
+
+4
+
+1
+
+8
+
+a
+
+4
+
+9
+
+a ve
+
+0
+
+1
+
+6
+
+n
+
+t
+
+9
+
+0
+
+0
+
+t
+
+8
+
+4
+
+t
+
+1
+
+0
+
+u
+
+l
+
+9
+
+l
+
+7
+
+2
+
+l le
+
+9
+
+r
+
+ta
+
+1
+
+1
+
+ta
+
+ta e
+
+1
+
+9
+
+ä
+
+o
+
+o
+
+o
+
+T
+
+T
+
+T
+
+en re
+
+s
+
+ra
+
+en ä
+
+v l
+
+k e
+
+e d
+
+fr
+
+a
+
+a
+
+n
+
+l
+
+l
+
+e
+
+rs a
+
+o
+
+o
+
+la
+
+r
+
+is
+
+k
+
+k
+
+a
+
+s
+
+s
+
+o
+
+ra
+
+v rv
+
+k
+
+ä
+
+e
+
+s
+
+d
+
+d
+
+s
+
+l
+
+a
+
+r
+
+t e
+
+n
+
+n
+
+e
+
+l
+
+la
+
+t d
+
+i
+
+e
+
+a
+
+s
+
+ru
+
+ru
+
+s
+
+d
+
+o
+
+v
+
+s
+
+o
+
+a n
+
+a
+
+k
+
+a
+
+a
+
+a
+
+k
+
+a u
+
+g
+
+g
+
+a
+
+n
+
+l
+
+s
+
+l
+
+l
+
+s
+
+n
+
+a
+
+e
+
+h
+
+r
+
+r h
+
+5
+
+8
+
+s
+
+o
+
+i
+
+s
+
+k
+
+o
+
+e c
+
+i
+
+k
+
+s
+
+d
+
+le
+
+k
+
+ä
+
+v
+
+s
+
+s
+
+m
+
+v
+
+s
+
+a
+
+s
+
+s
+
+r o
+
+r
+
+r
+
+r
+
+y
+
+r
+
+a
+
+o
+
+r
+
+e
+
+u
+
+u
+
+g
+
+e
+
+d
+
+n
+
+n
+
+k
+
+d
+
+d
+
+se e
+
+k
+
+k
+
+n
+
+d
+
+s
+
+n
+
+n
+
+v
+
+s
+
+s
+
+2
+
+d
+
+u
+
+m
+
+r
+
+r
+
+u
+
+u
+
+b v
+
+e
+
+r
+
+r
+
+r
+
+n
+
+r
+
+y
+
+å
+
+r
+
+r
+
+le
+
+l
+
+ö
+
+O
+
+E
+
+Å
+
+Å
+
+Å
+
+U
+
+G
+
+G
+
+V
+
+F
+
+G
+
+G
+
+¹ e
 
 <!-- sida 60 -->
 
@@ -1921,6 +2593,8 @@ skolenheter åk 5
 
 <!-- sida 63 -->
 
+Elever åk 5 Grundskola
+
 Resultat indexvärden     – jämförelser
 
 Diagrammet nedan visar indexvärdena för den aktuella huvudmannen/skolenheten
@@ -1936,43 +2610,106 @@ skolenheterna ligger över. På motsvarande sätt uttolkas den nedre kvartilen (
 medianen (p50) och den övre kvartilen (p75). Den svarta punkten visar medelvärdet för
 den aktuella huvudmannen/skolenheten.
 
-E x e m p e l
-0  1
-p 1
-2
-0 p
-3
-2 5
-4
-M
-p
-e
-5 0
-5
-d e lv ä
-p 7 5
-6
-r d e
-7
-n
-p
-8
-9 0
-9 1 0
-Elever åk 5 Grundskola
 1\. Information om utbildningen
+
 2\. Stimulans
 3\. Stöd
+
 4\. Kritiskt tänkande
+
 5\. Bemötande - lärare
+
 6\. Bemötande - elever
 7\. Inflytande
+
 8\. Studiero
+
 9\. Trygghet
+
 10\. Förhindra kränkningar
 11\. Elevhälsa
+
 0  1  2  3   4  5  6  7  8  9  10
+
 5
+
+10
+
+9
+
+0
+
+9
+
+p
+
+8
+
+5
+
+7
+
+n
+
+7
+
+e
+
+p
+
+rd
+
+6
+
+ä
+
+lv
+
+0
+
+5
+
+e
+
+5
+
+d
+
+p
+
+e
+
+4 M
+
+5
+
+2
+
+p
+
+3
+
+0
+
+1
+
+p
+
+2
+
+1
+
+0
+
+l
+
+pe
+
+m
+
+xe
+
+E
 
 <!-- sida 64 -->
 
@@ -2017,6 +2754,8 @@ Flickor   Pojkar    Flickor  Pojkar
 
 <!-- sida 65 -->
 
+Elever åk 5 Grundskola
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -2046,103 +2785,9 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att utvecklingssamtalet är till hjälp för
 5,3   15%   37%   26%  13%    9%    5,8
 dig?
-2 . S tim u
 
-T y c k e r d
-få r a rb e
-
-T y c k e r d
-s k o la rb
-la n s
-u a tt lä
-ta p å o
-u a tt lä
-e te t?
-ra
-lik
-ra
-rn
-a
-rn
-a
-s
-a
-v a rie
-ä tt?
-få r d
-ra r le k tio n e rn a
-ig a tt tro p å d ig
-s
-s
-å
-jä
-a
-lv
-tt n
-i
-i
-In
-M
-d
-e
-e
-d
-x 6 ,4
-e lv ä
-6 ,4
-7 ,0
-(S
-rd
-a
-e
-m tlig a å k 5
-H e lt o c h
-h å lle t
-A n d e l
-2 5 %
-3 4 %
-: 6 ,5 )
-T ill s to
-d e l
-A n d e l
-4 1 %
-3 8 %
-r T ill v is s
-d e l
-A n d e l
-2 4 %
-1 7 %
-In te
-A n
-4
-4
-a lls
-d e l
-%
-%
-V e
-A
-t in
-n d e
-6 %
-7 %
-te
-l  M
-S
-e
-a
-d
-m
-e
-6
-6
-tlig a
-lv ä rd
-,5
-,9
-e
-Elever åk 5 Grundskola
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta får lärarna dig att bli intresserad
 5,2   5%    27%  41%   19%  5%    2%    5,5
@@ -2152,252 +2797,1902 @@ Tycker du att du får tillräckliga utmaningar i
 skolarbetet?
 7
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,5
+
+,9
+
+e
+
+6
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d %
+
+%
+
+t
+
+6
+
+7
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d %
+
+%
+
+e
+
+n
+
+4
+
+4
+
+t
+
+A
+
+In
+
+s
+
+l
+
+is l
+
+e
+
+v e d %
+
+%
+
+l
+
+4
+
+7
+
+l d n
+
+2
+
+1
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l
+
+e
+
+s e d %
+
+%
+
+l
+
+1
+
+8
+
+)
+
+l d n
+
+4
+
+3
+
+i
+
+,5
+
+T
+
+A
+
+6
+
+\:
+
+5
+
+h
+
+k
+
+c t
+
+l
+
+å
+
+o le
+
+e %
+
+%
+
+l d
+
+a
+
+lt
+
+5
+
+4
+
+g
+
+å n
+
+2
+
+3
+
+li
+
+e h A
+
+t
+
+H
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,4
+
+ä
+
+lv
+
+,4
+
+,0
+
+6
+
+e
+
+6
+
+7
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+i
+
+n
+
+t
+
+i
+
+t
+
+v
+
+a
+
+l
+
+å
+
+jä
+
+s
+
+s
+
+a
+
+ig
+
+n
+
+r
+
+d
+
+e
+
+å
+
+n
+
+p
+
+io
+
+t
+
+ro
+
+k
+
+t
+
+le
+
+t
+
+t
+
+r
+
+a
+
+a
+
+r
+
+ig
+
+ie
+
+d
+
+r ?
+
+r
+
+a tt å
+
+v ä
+
+f
+
+a s a
+
+rn a
+
+rn
+
+a ik a
+
+r l
+
+r
+
+lä o
+
+lä
+
+t
+
+t
+
+t å
+
+t t?
+
+s
+
+p
+
+n
+
+a
+
+a e
+
+a
+
+t
+
+la
+
+u t u e
+
+u
+
+d e
+
+d b
+
+r b
+
+r r
+
+im
+
+r
+
+a
+
+e
+
+e l
+
+t
+
+k a k
+
+S
+
+c r c o
+
+.
+
+y
+
+y k
+
+2
+
+T få T s
+
 <!-- sida 66 -->
+
+Elever åk 5 Grundskola
 
 Resultat frågeområden      och  frågor
 
-3 . S tö d
-
-M e d e
-H u r o ft a fö rk la ra r lä ra rn a v a d d u s k a g ö ra
-7
-p å le k t io n e rn a s å a t t d u fö rs t å r?
-H u r o ft a få r d u d e n h jä lp d u b e h ö v e r u n d e r
-7
-le k t io n e rn a ?
-
-M e d e
-H u r o ft a t y c k e r d u a t t s k o la rb e t e t ä r
-6
-a lld e le s fö r s v å rt ?
-
-T y c k e r d u a tt d u få r d e n h jä lp d u b e h ö v e r frå n
-s k o la n fö r a tt k la ra s k o la rb e te t?
-
-4 . K rit is k t tä n k a n d e
-
-H u r m y c k e t p ra ta r lä ra rn a o m a tt a llt m a n h ö r o c h
-lä s e r, till e x e m p e l p å in te rn e t, in te b e h ö v e r v a ra
-s a n t (k ä llk ritik )?
-H u r m y c k e t ty c k e r d u a tt n i e le v e r få r ö v a p å a tt
-d is k u te ra frå g o r d ä r m a n k a n ty c k a o lik a ?
-lv
-,9
-,3
-lv
-,8
-In d e x 7 ,3 (S a m tlig a å k 5 : 7 ,4 )
-A l lt id O f t a Ib la n d
-ä rd e A n d e l A n d e l A n d e l
-3 4 % 5 0 % 1 3 %
-2 3 % 4 8 % 2 3 %
-A l d rig S ä lla n Ib la n d
-ä rd e A n d e l A n d e l A n d e l
-1 4 % 5 1 % 2 7 %
-H e lt o c h T ill s to r
-h å lle t d e l
-M e d e lv ä rd e A n d e l A n d e l
-7 ,3  3 6 % 4 5 %
-In d e x 6 ,5 (S a m tlig a å k 5 : 6 ,6 )
-V ä ld ig t G a n s k a
-m y c k e t m y c k e t
-M e d e lv ä rd e A n d e l A n d e l
-6 ,6  2 3 % 4 5 %
-6 ,3  1 9 % 4 6 %
-T
-G
-S ä lla n
-A n d e l
-2 %
-4 %
-O f t a
-A n d e l
-5 %
-ill v is s
-d e l
-A n d e l
-1 4 %
-a n s k a
-lite
-A n d e l
-2 0 %
-2 1 %
-A l d rig
-A n d e l
-\*
-1 %
-A l lt id
-A n d e l
-1 %
-In te a lls
-A n d e l
-2 %
-V ä ld ig t
-lite / In te
-a lls
-A n d e l
-3 %
-3 %
-V
-V
-V
-V
-e t in
-A n d e
-\*
-2 %
-e t in
-A n d e
-1 %
-e t in
-A n d e
-3 %
-e t in
-A n d e
-9 %
-1 1 %
-t e
-l
-t e
-l
-te
-l
-te
-l
-M
-M
-M
-M
-S a m
-e d e
 8
-7
-S a m
-e d e
-6
-S a m
-e d e
-7
-S a m
-e d e
-6
-6
-t lig a
-lv ä rd
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+v
+
+l
+
+v
+
+t
+
+lv
+
 ,0
+
 ,5
-t lig a
-lv ä rd
+
+t
+
+lv
+
 ,7
-tlig a
-lv ä rd
+
+t
+
+l
+
 ,3
-tlig a
-lv ä rd
+
+t
+
+l
+
 ,6
+
 ,5
+
 e
-e
-e
-e
-Elever åk 5 Grundskola
+
 8
+
+7
+
+e
+
+6
+
+e
+
+7
+
+e
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+%
+
+in
+
+%
+
+in
+
+e
+
+in
+
+e
+
+%
+
+d
+
+\*
+
+d
+
+d %
+
+d
+
+%
+
+t
+
+2
+
+t
+
+1
+
+t
+
+3
+
+t
+
+9
+
+1
+
+e
+
+n
+
+e
+
+n
+
+e
+
+n
+
+e
+
+n
+
+1
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+s
+
+g
+
+d
+
+l
+
+l
+
+t e
+
+l
+
+i
+
+e
+
+i
+
+e
+
+l
+
+g t
+
+r
+
+t
+
+e
+
+i n s e
+
+d
+
+d
+
+\*
+
+%
+
+l
+
+d %
+
+a
+
+%
+
+I l
+
+%
+
+%
+
+l
+
+n
+
+1
+
+l
+
+n
+
+1
+
+d
+
+ld / l d
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+2
+
+ä e a n
+
+3
+
+3
+
+n
+
+A
+
+V it
+
+A
+
+I
+
+l
+
+l
+
+l
+
+n
+
+e
+
+a
+
+e
+
+s
+
+l
+
+a
+
+l
+
+la
+
+d %
+
+%
+
+t
+
+d %
+
+is l e
+
+k
+
+e
+
+l
+
+f
+
+%
+
+s e
+
+%
+
+%
+
+n
+
+2
+
+4
+
+n
+
+5
+
+v e d
+
+t
+
+d
+
+ä
+
+O
+
+l
+
+4
+
+n i
+
+0
+
+1
+
+S
+
+A
+
+A
+
+l d n
+
+1
+
+l
+
+n
+
+2
+
+2
+
+i
+
+a
+
+T
+
+A
+
+G
+
+A
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+%
+
+n
+
+e %
+
+l
+
+a t
+
+l
+
+a
+
+d
+
+3
+
+3
+
+a
+
+d
+
+7
+
+to l e
+
+k e
+
+l
+
+l
+
+%
+
+s k
+
+e
+
+%
+
+%
+
+n
+
+1
+
+2
+
+n
+
+2
+
+s e d
+
+c
+
+d
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+l
+
+5
+
+n
+
+5
+
+6
+
+4
+
+l d n
+
+4
+
+)
+
+y
+
+n
+
+4
+
+4
+
+,
+
+i
+
+a
+
+7
+
+T
+
+A
+
+,6
+
+G m
+
+A
+
+\:
+
+6
+
+5
+
+l
+
+n
+
+l
+
+\:
+
+k
+
+a
+
+e
+
+a
+
+e
+
+h
+
+5
+
+t
+
+t
+
+%
+
+%
+
+l
+
+%
+
+t
+
+l
+
+t
+
+l
+
+å
+
+f
+
+d
+
+0
+
+8
+
+l
+
+d
+
+1
+
+c e
+
+k
+
+ig e
+
+a
+
+O
+
+n
+
+5
+
+4
+
+ä
+
+n
+
+5
+
+o l e %
+
+å
+
+k
+
+e
+
+%
+
+%
+
+l d
+
+d
+
+d
+
+A
+
+S
+
+A
+
+t
+
+6
+
+l c
+
+3
+
+9
+
+ig
+
+l
+
+a
+
+y
+
+l
+
+å n
+
+3
+
+g
+
+n
+
+2
+
+1
+
+t
+
+e h A
+
+li
+
+ä
+
+A
+
+t
+
+V m
+
+m
+
+l
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+m
+
+S
+
+i
+
+e %
+
+%
+
+r
+
+e %
+
+e
+
+a
+
+e
+
+(
+
+lt
+
+d
+
+4
+
+3
+
+d
+
+4
+
+S
+
+3
+
+l
+
+n
+
+3
+
+2
+
+ld
+
+n
+
+1
+
+rd
+
+(
+
+rd
+
+,
+
+7
+
+A
+
+A
+
+A
+
+A
+
+ä
+
+,5
+
+ä
+
+lv
+
+,3
+
+lv
+
+,6
+
+,3
+
+x
+
+6
+
+e
+
+e
+
+7
+
+x
+
+e
+
+6
+
+6
+
+d
+
+e
+
+e
+
+d
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+e
+
+d
+
+e
+
+ä
+
+ä
+
+M
+
+In
+
+M
+
+lv
+
+,9
+
+,3
+
+lv
+
+,8
+
+7
+
+7
+
+6
+
+e
+
+e
+
+d
+
+d
+
+h
+
+e
+
+e
+
+c ra
+
+o a
+
+tt
+
+M
+
+M
+
+n
+
+r v
+
+a
+
+å
+
+ö r
+
+r
+
+fr
+
+h e
+
+å
+
+v
+
+e
+
+p
+
+a
+
+r
+
+n ö
+
+?
+
+r
+
+d
+
+e
+
+a h
+
+a a
+
+ö
+
+n
+
+v
+
+v ik
+
+g
+
+u
+
+ö
+
+m e
+
+ö l
+
+r
+
+h
+
+lt b
+
+r o
+
+a
+
+r
+
+l
+
+k
+
+e
+
+e
+
+e
+
+få
+
+v
+
+ä
+
+b
+
+a t
+
+a
+
+s
+
+r k
+
+ö
+
+t
+
+?
+
+t in
+
+c
+
+u ?
+
+u
+
+t
+
+e
+
+r h
+
+te
+
+t
+
+,
+
+v y
+
+d å e
+
+d e
+
+a t
+
+t
+
+t b
+
+e
+
+t
+
+e
+
+le
+
+d s
+
+b
+
+lp e
+
+m
+
+n
+
+a r u
+
+r
+
+rn
+
+e a
+
+v ö
+
+a
+
+jä rb
+
+o
+
+i k
+
+d
+
+l
+
+e
+
+f
+
+a t
+
+n
+
+a
+
+h a
+
+n
+
+p
+
+o
+
+l
+
+t
+
+n u
+
+l
+
+k
+
+n
+
+rn in
+
+t a
+
+r
+
+o
+
+d
+
+jä
+
+s
+
+e k
+
+a
+
+a
+
+a t
+
+r å
+
+m
+
+r t h
+
+t
+
+d s
+
+t
+
+ä p
+
+u r
+
+ä a
+
+r
+
+l
+
+l
+
+a
+
+a
+
+l
+
+d ä
+
+n
+
+?
+
+å r
+
+e
+
+r
+
+r å e
+
+u t
+
+f a
+
+e
+
+r d
+
+s
+
+r
+
+l
+
+d
+
+a
+
+?
+
+r
+
+a d
+
+d
+
+t p ) e
+
+r
+
+u
+
+n
+
+å
+
+k
+
+k k o
+
+a a u
+
+r v
+
+d
+
+a
+
+a m i c g
+
+l
+
+t
+
+k
+
+r
+
+n d ?
+
+e s
+
+t t
+
+p e it
+
+ty å
+
+k r
+
+k
+
+t
+
+n
+
+x
+
+r
+
+r a
+
+r
+
+a
+
+ä
+
+r
+
+r
+
+e
+
+c
+
+a
+
+t e
+
+t f
+
+ö
+
+å n
+
+y ö
+
+r
+
+t
+
+e lk e
+
+f n
+
+f r
+
+t f
+
+ö
+
+t
+
+l l
+
+a
+
+o
+
+u f
+
+k l
+
+k r
+
+i
+
+e
+
+s
+
+k
+
+c i ä c
+
+a
+
+a
+
+a
+
+d
+
+t
+
+e
+
+t t
+
+t n
+
+t e
+
+is
+
+y k y
+
+f
+
+f
+
+f l
+
+r n
+
+, (
+
+t
+
+d
+
+k
+
+o
+
+it
+
+r
+
+ö
+
+o e o i
+
+o e
+
+e la
+
+r
+
+m
+
+t
+
+m u
+
+t
+
+l
+
+t
+
+k
+
+e
+
+k
+
+r
+
+r
+
+r d
+
+r
+
+n
+
+r
+
+S
+
+k
+
+l
+
+c o
+
+K
+
+u s
+
+u is
+
+.
+
+u å u
+
+u l
+
+y k
+
+.
+
+ä a
+
+3
+
+H p H le
+
+H a
+
+T s
+
+4
+
+H l s H d
 
 <!-- sida 67 -->
 
+Elever åk 5 Grundskola
+
 Resultat frågeområden      och  frågor
 
-5 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a b e h a n d la r a lla e le v e r lik a
-o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h a r a n n a n
-k ö n s id e n tite t?
-
-M e d
-
-K ä n n e r d u d ig o rä ttv is t b e h a n d la d a v n å g o n
-lä ra re e lle r a n n a n v u x e n i s k o la n ?
-
-6 . B e m ö ta n d e - e le v e r
-
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v a ra n d ra i
-s k o la n ?
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v u x n a i s k o la n
-e
-8
-?
-In
-M
-lv ä
-,4
-In
-M
-d e x 7 ,9 (S a m tlig a å k 5 : 7 ,7 )
-H e lt o c h T ill s to r
-h å lle t d e l
-e d e lv ä rd e A n d e l A n d e l
-7 ,3  4 6 % 2 7 %
-A ld rig S ä lla n Ib la n d
-rd e A n d e l A n d e l A n d e l
-5 8 % 2 1 % 1 3 %
-d e x 7 ,0 (S a m tlig a å k 5 : 6 ,9 )
-M y c k e t G a n s k a
-b ra  b ra
-e d e lv ä rd e A n d e l A n d e l
-7 ,1  2 3 % 6 2 %
-7 ,0  2 3 % 5 7 %
-T ill v is s
-d e l
-A n d e l
-1 5 %
-O fta
-A n d e
-4 %
-G a n s k a
-d å lig t
-A n d e l
-9 %
-1 0 %
-l
-In te a lls
-A n d e l
-6 %
-A lltid
-A n d e l
-1 %
-M y c k e t
-d å lig t
-A n d e l
-1 %
-2 %
-V e t in te
-A n d e l
-6 %
-V e t in te
-A n d e l
-4 %
-V e t in te
-A n d e l
-5 %
-8 %
-M
-M
-M
-S a m tlig a
-e d e lv ä rd
-7 ,2
-S a m tlig a
-e d e lv ä rd
-8 ,1
-S a m tlig a
-e d e lv ä rd
-6 ,9
-7 ,0
-e
-e
-e
-Elever åk 5 Grundskola
 7\. Inflytande                Index 5,7 (Samtliga åk 5: 5,9)
+
 Väldigt
 Väldigt Ganska Ganska
 lite/Inte Vet inte Samtliga
@@ -2410,438 +4705,3665 @@ påverka hur ni ska arbeta på lektionerna?
 Hur mycket tycker du att de vuxna i skolan lyssnar
 på förslag från eleverna, till exempel från 6,1 16% 50% 21% 5% 9%   6,3
 klassråd eller elevråd?
+
 9
 
-<!-- sida 68 -->
+e
 
-Resultat frågeområden      och  frågor
+e
 
-8
-
-H
-
-H
 d
 
-9
+e
 
-K
-s
-K
 a
 
-K
+rd
 
-K
-. S tu d ie ro
-u r o ft a ä r d e t a rb e t s ro p å le k t io n e rn a ?
-u r o ft a ä r d e t s å s t ö k ig t p å le k t io n e rn a
-u h a r s v å rt a t t k o n c e n t re ra d ig ?
-. T r y g g h e t
-ä n n e r d u d ig rä d d fö r a n d ra e le v e r i
-k o la n ?
-ä n n e r d u d ig rä d d fö r n å g o n lä ra re e lle
-n n a n v u x e n i s k o la n ?
-ä n n e r d u a tt d u k a n v a ra d ig s jä lv i s k o
-ä n n e r d u d ig try g g i s k o la n ?
 a
+
 r
-la
-t
-n
-t
-?
-M
-M
-M
-e
-e
-e
-d
-d
-d
-e
-5
-e
-5
-e
-8
-9
-lv ä
-,5
-lv ä
-,8
-lv ä
-,6
-,3
-M
-In d e x 5 ,6 (S a m
-A l lt id
-rd e A n d e l
-4 %
-A l d rig
-rd e A n d e l
-7 %
-In d e x 8 ,2 (S a m
-A l d rig
-rd e A n d e l
-6 1 %
-7 6 %
-H
-e d e lv ä rd e
-7 ,0
-7 ,8
-tlig a å k 5
-O f t a
-A n d e l
-3 0 %
-S ä lla n
-A n d e l
-3 7 %
-tlig a å k 5
-S ä lla n
-A n d e l
-2 4 %
-1 8 %
-e lt o c h
-h å lle t
-A n d e l
-3 6 %
-5 0 %
-: 5 ,5 )
-Ib la n d
-A n d e l
-4 7 %
-Ib la n d
-A n d e l
-3 8 %
-: 8 ,1 )
-Ib la n d
-A n d e l
-9 %
-4 %
-T ill s to r
-d e l
-A n d e l
-4 1 %
-3 5 %
-T
-S ä lla n
-A n d e l
-1 5 %
-O f t a
-A n d e l
-1 5 %
-O fta
-A n d e l
-3 %
-\*
-ill v is s
-d e l
-A n d e l
-1 6 %
-1 2 %
-A l d rig
-A n d e l
-2 %
-A l lt id
-A n d e l
-3 %
-A l ltid
-A n d e l
-1 %
-\*
-In te a lls
-A n d e l
-4 %
-2 %
-V e t in t e
-A n d e l
-1 %
-V e t in t e
-A n d e l
-1 %
-V e t in te
-A n d e l
-2 %
-2 %
-V e t in te
-A n d e l
-2 %
-2 %
-M
-M
-M
-M
-S a m
-e d e
-5
-S a m
-e d e
-5
-S a m
-e d e
-8
-9
-S a m
-e d e
-7
-7
-t lig a
-lv ä rd
-,4
-t lig a
-lv ä rd
-,6
-tlig a
-lv ä rd
-,5
-,1
-tlig a
-lv ä rd
-,2
-,7
-e
-e
-e
-e
-Elever åk 5 Grundskola
-10
 
-<!-- sida 69 -->
+a
 
-Resultat frågeområden      och  frågor
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+g
+
+l
+
+l
+
+v
 
 1
 
-L
-n
-0 . F ö rh in d ra k rä n k n
-ita r d u p å a tt d e v
-å g o n e le v b lir illa
-in g a r
-u x n a i s
-b e h a n
-k
-d
-o la
-la d
-n
-?
-g ö r tillrä c k lig t o m
-In
-M
-d
+i
+
+ä
+
+v
+
+2
+
+t
+
+l
+
+,
+
+l
+
+v
+
+9
+
+0
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+,
+
 e
-e
-d
-x 6 ,4
-e lv ä
-7 ,2
-(S
-rd
-a
-e
-m tlig a å k 5
-H e lt o c h
-h å lle t
-A n d e l
-3 8 %
-: 6 ,4 )
-T ill s to
-d e l
-A n d e l
-3 8 %
-r T ill v is s
-d e l
-A n d e l
-1 4 %
-In te
-A n
-5
-a lls
-d e l
-%
-V e
-A
-t in
-n d e
-5 %
-te
-l  M
-S
-e
-a
-d
+
+7
+
 m
+
 e
+
+8
+
+e
+
 6
-tlig a
-lv ä rd
-,9
+
+7
+
+am
+
+d
+
+a
+
+d
+
+am
+
+d
+
+S
+
 e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+t
+
+t
+
+l
+
+n
+
+e
+
+in
+
+e %
+
+n
+
+e
+
+i
+
+%
+
+d
+
+i
+
+d
+
+4
+
+d %
+
+%
+
+t
+
+n
+
+6
+
+t
+
+n
+
+t
+
+5
+
+8
+
+e
+
+e
+
+A
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+d
+
+t
+
+l
+
+i
+
+e
+
+t
+
+l
+
+t
+
+e
+
+a
+
+e
+
+l
+
+d %
+
+ig
+
+e
+
+d
+
+%
+
+l
+
+n
+
+1
+
+k l
+
+%
+
+%
+
+e
+
+n
+
+6
+
+A
+
+yc å d
+
+1
+
+2
+
+t
+
+A
+
+A
+
+n
+
+In
+
+M d A
+
+l
+
+s
+
+l
+
+a
+
+e
+
+a
+
+t
+
+t
+
+l
+
+is l
+
+e
+
+f
+
+d %
+
+k g
+
+%
+
+4
+
+i
+
+e
+
+v e d
+
+O
+
+n
+
+s l
+
+%
+
+%
+
+l
+
+5
+
+A
+
+n
+
+d
+
+0
+
+l d n
+
+1
+
+å n
+
+9
+
+i
+
+a
+
+1
+
+T
+
+A
+
+G d A
+
+l
+
+d
+
+r
+
+e
+
+l
+
+n
+
+%
+
+a
+
+o
+
+a
+
+d
+
+l
+
+t l
+
+e
+
+l
+
+3
+
+k
+
+e
+
+s e d
+
+%
+
+b
+
+n
+
+1
+
+s ra
+
+%
+
+%
+
+l
+
+7
+
+I
+
+A
+
+n
+
+d
+
+2
+
+7
+
+)
+
+l d n
+
+2
+
+b n
+
+i
+
+)
+
+a
+
+6
+
+5
+
+,7
+
+T
+
+A
+
+,9
+
+G
+
+A
+
+7
+
+l
+
+6
+
+\:
+
+n
+
+\:
+
+5
+
+h
+
+a
+
+e %
+
+5
+
+t
+
+l
+
+l
+
+d
+
+t
+
+k
+
+c
+
+l
+
+1
+
+k
+
+l
+
+å
+
+o le
+
+e
+
+%
+
+ä
+
+n
+
+2
+
+å
+
+e a
+
+e
+
+l d
+
+A
+
+k
+
+%
+
+%
+
+a
+
+lt
+
+6
+
+S
+
+c r d
+
+3
+
+3
+
+g
+
+å n
+
+4
+
+a
+
+y b n
+
+li
+
+e h A
+
+ig
+
+2
+
+2
+
+t
+
+l
+
+M
+
+A
+
+H
+
+l
+
+t
+
+m
+
+ig
+
+e
+
+m
+
+a
+
+e
+
+r
+
+d %
+
+a
+
+e
+
+(S
+
+d
+
+ld
+
+n
+
+8
+
+S
+
+d
+
+r
+
+5
+
+(
+
+r
+
+ä
+
+A
+
+A
+
+,9
+
+v
+
+,0
+
+ä
+
+7
+
+l
+
+,3
+
+lv
+
+,1
+
+,0
+
+7
+
+x
+
+e
+
+7
+
+e
+
+e
+
+7
+
+7
+
+e
+
+d
+
+d
+
+x
+
+d
+
+d
+
+e
+
+r
+
+de
+
+e
+
+In
+
+M
+
+ä
+
+In
+
+M
+
+lv
+
+,4
+
+e
+
+8
+
+d
+
+?
+
+e
+
+n
+
+a
+
+la
+
+n
+
+M
+
+ik a
+
+i
+
+o
+
+l
+
+k
+
+n
+
+r n
+
+n
+
+a
+
+s
+
+o
+
+r
+
+i
+
+e a
+
+g
+
+d
+
+v r
+
+a
+
+le a
+
+å
+
+n
+
+n
+
+n
+
+ra
+
+x
+
+e h
+
+v
+
+r
+
+a
+
+u
+
+la e
+
+a
+
+v
+
+v
+
+l l
+
+?
+
+r
+
+r
+
+l
+
+d
+
+a
+
+a n
+
+te
+
+te
+
+e
+
+l
+
+r r
+
+la
+
+ö
+
+ö
+
+a
+
+d
+
+l a
+
+n o
+
+m
+
+m
+
+d jk
+
+a k
+
+e
+
+e
+
+n
+
+s
+
+o
+
+h i
+
+b
+
+b
+
+a
+
+p
+
+e
+
+h ,
+
+a
+
+a
+
+r
+
+b n
+
+n
+
+n
+
+e o
+
+t xe
+
+r
+
+r
+
+b k
+
+is
+
+e
+
+e
+
+c
+
+u
+
+v
+
+v
+
+e
+
+a i
+
+tv v
+
+r
+
+e
+
+e
+
+r
+
+n l
+
+t
+
+e
+
+l
+
+l
+
+a
+
+r f
+
+n
+
+v
+
+r
+
+r
+
+ä
+
+e
+
+e
+
+e
+
+ä
+
+ra
+
+r a
+
+l
+
+t
+
+t
+
+l
+
+ä
+
+o n
+
+e
+
+t
+
+t
+
+ä
+
+\-
+
+l
+
+?
+
+n
+
+a
+
+a
+
+e t
+
+g
+
+\-
+
+i a
+
+e
+
+tt d e
+
+e
+
+u
+
+u
+
+d
+
+it
+
+d r
+
+d
+
+n
+
+a m t
+
+e
+
+d
+
+d
+
+u l
+
+n
+
+r
+
+r
+
+a
+
+n
+
+l
+
+a
+
+t
+
+u o
+
+d
+
+t
+
+e
+
+e
+
+ö
+
+d tt e
+
+r e
+
+ö
+
+k ?
+
+k
+
+r
+
+id
+
+e e
+
+c n
+
+c
+
+m
+
+e
+
+r
+
+m
+
+y
+
+y
+
+e
+
+e s s
+
+n
+
+e
+
+t la
+
+t
+
+k v
+
+a
+
+r
+
+r
+
+B
+
+c
+
+n
+
+n r
+
+B
+
+o
+
+.
+
+y a ö
+
+ä
+
+.
+
+u k
+
+u
+
+5
+
+T o k
+
+K lä
+
+6
+
+H s
+
+H
+
+<!-- sida 68 -->
+
+Elever åk 5 Grundskola
+
+Resultat frågeområden      och  frågor
+
+10
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+l
+
+v
+
+l
+
+v
+
+l
+
+t
+
+l
+
+,4
+
+t
+
+l
+
+,6
+
+t
+
+l
+
+,5
+
+,1
+
+t
+
+lv
+
+,2
+
+,7
+
+e
+
+5
+
+e
+
+5
+
+e
+
+8
+
+9
+
+e
+
+7
+
+7
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+l
+
+e
+
+e
+
+e
+
+t
+
+in
+
+d %
+
+in
+
+d %
+
+in
+
+d %
+
+%
+
+in
+
+e
+
+d %
+
+%
+
+t
+
+n
+
+1
+
+t
+
+n
+
+1
+
+t
+
+n
+
+2
+
+2
+
+t
+
+2
+
+2
+
+e
+
+A
+
+e
+
+A
+
+e
+
+A
+
+e
+
+n
+
+V
+
+V
+
+V
+
+V
+
+A
+
+l
+
+l
+
+l
+
+s
+
+ig
+
+d
+
+d
+
+l
+
+l
+
+r
+
+e
+
+i
+
+e
+
+i
+
+e
+
+l
+
+d %
+
+lt
+
+d %
+
+lt
+
+d %
+
+\*
+
+a
+
+e
+
+ld
+
+n
+
+2
+
+l
+
+n
+
+3
+
+l
+
+n
+
+1
+
+d %
+
+%
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+4
+
+2
+
+In
+
+A
+
+n
+
+l
+
+l
+
+l
+
+e
+
+a
+
+e
+
+a
+
+e
+
+s
+
+l
+
+la
+
+%
+
+t
+
+%
+
+t
+
+%
+
+s
+
+l
+
+d
+
+5
+
+f
+
+d
+
+5
+
+f
+
+d
+
+\*
+
+i l e
+
+n
+
+1
+
+n
+
+1
+
+n
+
+3
+
+v e d %
+
+%
+
+ä
+
+O
+
+O
+
+l
+
+6
+
+2
+
+S
+
+A
+
+A
+
+A
+
+l d n
+
+1
+
+1
+
+i
+
+T
+
+A
+
+d
+
+l
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+n
+
+e %
+
+n
+
+e
+
+l
+
+la
+
+d
+
+7
+
+la
+
+d
+
+8
+
+la
+
+d
+
+9%
+
+4%
+
+to l e
+
+)
+
+b
+
+n
+
+4
+
+b
+
+n
+
+3
+
+)
+
+b
+
+n
+
+s e d %
+
+%
+
+I
+
+A
+
+I
+
+A
+
+I
+
+A
+
+l
+
+1
+
+5
+
+,5
+
+,1
+
+l d n
+
+4
+
+3
+
+i
+
+5
+
+8
+
+A
+
+\:
+
+\:
+
+T
+
+l
+
+l
+
+l
+
+5
+
+n
+
+5
+
+n
+
+a
+
+e
+
+e
+
+e
+
+k
+
+t
+
+d %
+
+la
+
+d %
+
+k
+
+la
+
+d %
+
+%
+
+h t
+
+l
+
+å
+
+f
+
+0
+
+l
+
+7
+
+å
+
+l
+
+4
+
+8
+
+c
+
+a
+
+O
+
+n
+
+3
+
+ä
+
+n
+
+3
+
+a
+
+ä
+
+n
+
+2
+
+1
+
+o le e %
+
+%
+
+A
+
+A
+
+A
+
+l d
+
+ig
+
+S
+
+g
+
+S
+
+t
+
+6
+
+0
+
+l
+
+li
+
+l å n
+
+t
+
+t
+
+e h A
+
+3
+
+5
+
+m
+
+l
+
+l
+
+m
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+a
+
+ig
+
+S
+
+i
+
+e
+
+r
+
+e
+
+S
+
+r
+
+e %
+
+%
+
+(
+
+lt
+
+d %
+
+d %
+
+(
+
+d
+
+1
+
+6
+
+e
+
+l
+
+n
+
+4
+
+ld
+
+n
+
+7
+
+ld
+
+n
+
+rd
+
+,6
+
+A
+
+,2
+
+6
+
+7
+
+5
+
+A
+
+A
+
+A
+
+8
+
+A
+
+A
+
+vä
+
+l
+
+,0
+
+,8
+
+x
+
+x
+
+e
+
+7
+
+7
+
+de
+
+e
+
+e
+
+de
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+In
+
+rd
+
+e
+
+ä
+
+ä
+
+ä
+
+lv
+
+,5
+
+lv
+
+,8
+
+lv
+
+,6
+
+,3
+
+M
+
+e
+
+5
+
+e
+
+5
+
+e
+
+8
+
+9
+
+d
+
+d
+
+d
+
+e
+
+e
+
+e
+
+M
+
+M
+
+M
+
+tt
+
+?
+
+n
+
+a
+
+r
+
+la
+
+?
+
+a
+
+le
+
+o
+
+a
+
+n
+
+l
+
+r
+
+k
+
+rn
+
+e
+
+i
+
+e
+
+s
+
+i
+
+r
+
+e
+
+n
+
+re
+
+v
+
+n
+
+io
+
+ve
+
+a
+
+l
+
+io
+
+t ?
+
+e
+
+r
+
+jä
+
+t
+
+k
+
+l
+
+g
+
+lä
+
+s
+
+k
+
+e i
+
+e
+
+l
+
+d
+
+g
+
+le
+
+a
+
+n
+
+i
+
+?
+
+å
+
+r
+
+ra
+
+o
+
+d
+
+n
+
+å
+
+p
+
+d
+
+g
+
+a
+
+la
+
+p
+
+t re
+
+n
+
+å
+
+r
+
+g t
+
+o
+
+o
+
+i
+
+a
+
+n
+
+a
+
+k
+
+r
+
+k n
+
+r
+
+r ?
+
+v
+
+s
+
+s
+
+t
+
+ö e
+
+ö
+
+ö n
+
+n
+
+i
+
+t c
+
+f
+
+f
+
+e
+
+s n
+
+la
+
+a
+
+d
+
+d
+
+k
+
+g
+
+rb
+
+å o
+
+d
+
+d o
+
+g
+
+k
+
+k
+
+u
+
+ry
+
+a
+
+s
+
+ä
+
+ä
+
+t
+
+t t
+
+r
+
+r s
+
+d
+
+t
+
+t
+
+i
+
+t
+
+g
+
+e
+
+e a
+
+ig
+
+ig
+
+t
+
+i
+
+d
+
+d t
+
+d
+
+d n
+
+a
+
+d
+
+r
+
+r r
+
+e
+
+å
+
+t
+
+x
+
+ro
+
+ä
+
+ä v
+
+e
+
+u
+
+u
+
+u
+
+u
+
+s
+
+h
+
+d
+
+d u
+
+d
+
+d
+
+ie
+
+ta
+
+ta
+
+g
+
+r ?
+
+r v
+
+r
+
+r
+
+d
+
+f
+
+f r
+
+g
+
+e n e n
+
+e
+
+e
+
+u
+
+o
+
+o a
+
+y
+
+n la n a
+
+n
+
+n
+
+t
+
+r
+
+r h
+
+r
+
+S
+
+T
+
+n o n n
+
+n
+
+n
+
+.
+
+u
+
+u u
+
+.
+
+ä k ä n
+
+ä
+
+ä
+
+8
+
+H
+
+H d
+
+9
+
+K s K a
+
+K
+
+K
+
+<!-- sida 69 -->
+
+Elever åk 5 Grundskola
+
+Resultat frågeområden      och  frågor
+
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Tycker du att de vuxna i skolan har koll på
 5,8   9%    34%  34%   17%  3%    2%    5,8
 vad som händer på rasterna?
-1
-Kb
-He
-1
-H
-1 . E le v h ä ls a
-ä n n e r d u a t t d e t fin n s n å g o n v u x e n i s
-ry r s ig o m h u r d u m å r?
-u r lä t t e lle r s v å rt ä r d e t a t t få h jä lp a v
-le v h ä ls a n , t ill e x e m p e l s k o ls k ö t e rs k a
-2 . Ö v e rg rip a n d e n ö jd h e t (b ild a r e j in d e x )
-u r n ö jd ä r d u m e d d in s k o la ?
-k
-n
-o
-?
-la n s o m
-In
-M
-M
-M
-d
-e
-e
-e
-e
-d
-d
-d
-x 6 ,7
-e lv ä
-7 ,8
-e lv ä
-5 ,6
-e lv ä
-6 ,9
-(S
-rd
-rd
-rd
-a
-e
-e
-e
-m tlig a å k 5 : 6
-H e lt o c h
-h å lle t
-A n d e l
-4 8 %
-M y c k e t
-lä t t
-A n d e l
-1 4 %
-H e lt o c h
-h å lle t
-A n d e l
-3 2 %
-,9 )
-T ill s t o r
-d e l
-A n d e l
-3 1 %
-G a n s k a
-lä t t
-A n d e l
-4 1 %
-T ill s t o r
-d e l
-A n d e l
-4 3 %
-T
-G
-T
-ill v is s
-d e l
-A n d e l
-1 1 %
-a n s k a
-s v å rt
-A n d e l
-2 7 %
-ill v is s
-d e l
-A n d e l
-1 7 %
-In t e a lls
-A n d e l
-3 %
-M y c k e t
-s v å rt
-A n d e l
-7 %
-In t e a lls
-A n d e l
-4 %
-V
-V
-V
-e
-A
-e
-A
-e
-A
-t in
-n d e
-7 %
-t in
-n d e
-1 2 %
-t in
-n d e
-3 %
-t e
-l
-t e
-l
-t e
-l
-M
-M
-M
-S
-e
-S
-e
-S
-e
-a
-d
-a
-d
-a
-d
-m
-e
-7
-m
-e
-6
-m
-e
-6
-t lig a
-lv ä rd
-,6
-t lig a
-lv ä rd
-,1
-t lig a
-lv ä rd
-,9
-e
-e
-e
-Elever åk 5 Grundskola
+
 11
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+l
+
+t
+
+lv
+
+,9
+
+t
+
+lv
+
+,6
+
+t
+
+lv
+
+,1
+
+t
+
+lv
+
+,9
+
+e
+
+6
+
+e
+
+7
+
+e
+
+6
+
+e
+
+6
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+in
+
+e
+
+in
+
+e
+
+in
+
+e %
+
+in
+
+e
+
+d %
+
+d %
+
+d
+
+d %
+
+t
+
+5
+
+t
+
+7
+
+t
+
+2
+
+t
+
+3
+
+e
+
+n
+
+e
+
+n
+
+e
+
+n
+
+1
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+s
+
+s
+
+s
+
+l
+
+l
+
+l
+
+l
+
+t
+
+l
+
+l
+
+l
+
+l
+
+l
+
+t
+
+l
+
+e
+
+e
+
+e r
+
+e
+
+e
+
+a
+
+d %
+
+a
+
+d %
+
+ck å d %
+
+a
+
+d %
+
+e
+
+n
+
+5
+
+e
+
+n
+
+3
+
+y v n
+
+7
+
+e
+
+n
+
+4
+
+t
+
+A
+
+t
+
+A
+
+s A
+
+t
+
+A
+
+In
+
+In
+
+M
+
+In
+
+s
+
+s
+
+s
+
+l
+
+l
+
+a t
+
+l
+
+l
+
+is l e
+
+is l
+
+e
+
+k r
+
+e
+
+is l
+
+e
+
+%
+
+%
+
+s
+
+%
+
+%
+
+v e d
+
+v e d
+
+å d
+
+v e d
+
+l
+
+4
+
+l
+
+1
+
+n v
+
+7
+
+l
+
+7
+
+l d n
+
+1
+
+l d n
+
+1
+
+n
+
+2
+
+l d n
+
+1
+
+i
+
+i
+
+a s
+
+i
+
+T
+
+A
+
+T
+
+A
+
+G
+
+A
+
+T
+
+A
+
+r
+
+r
+
+r
+
+l
+
+l
+
+a
+
+l
+
+l
+
+to l
+
+to l
+
+k t
+
+to l
+
+e %
+
+e %
+
+s t
+
+e %
+
+e %
+
+s e d
+
+s e d
+
+d
+
+s e d
+
+l
+
+8
+
+l
+
+1
+
+n ä
+
+1
+
+l
+
+3
+
+)
+
+l d n
+
+3
+
+)
+
+l d n
+
+3
+
+l n
+
+4
+
+l d n
+
+4
+
+i
+
+i
+
+a
+
+i
+
+,4
+
+T
+
+A
+
+,9
+
+T
+
+A
+
+G
+
+A
+
+T
+
+A
+
+6
+
+6
+
+\:
+
+\:
+
+5
+
+h
+
+5
+
+h
+
+h
+
+t
+
+l
+
+t
+
+l
+
+t
+
+l
+
+t
+
+l
+
+k
+
+c
+
+k
+
+c
+
+e t
+
+c
+
+å
+
+o le e %
+
+å
+
+o le
+
+e %
+
+k t
+
+e %
+
+o le
+
+e %
+
+t l d
+
+t l d
+
+c
+
+d
+
+t l d
+
+a
+
+l
+
+n
+
+8
+
+a
+
+l
+
+8
+
+y lä
+
+4
+
+l
+
+2
+
+ig
+
+e å
+
+3
+
+ig
+
+e å n
+
+4
+
+n
+
+1
+
+e å n
+
+3
+
+l
+
+h A
+
+l
+
+h A
+
+A
+
+h A
+
+t
+
+H
+
+t
+
+H
+
+M
+
+H
+
+am
+
+e
+
+am
+
+S
+
+S
+
+e
+
+e
+
+e
+
+(
+
+rd
+
+(
+
+rd
+
+rd
+
+rd
+
+,4
+
+ä
+
+,7
+
+ä
+
+ä
+
+ä
+
+lv
+
+,2
+
+lv
+
+,8
+
+lv
+
+,6
+
+lv
+
+,9
+
+6
+
+6
+
+e
+
+7
+
+e
+
+7
+
+e
+
+5
+
+e
+
+6
+
+x
+
+d
+
+x
+
+d
+
+d
+
+d
+
+de
+
+e
+
+de
+
+e
+
+e
+
+e
+
+In
+
+M
+
+In
+
+M
+
+M
+
+M
+
+m
+
+o
+
+m
+
+t
+
+o
+
+g
+
+s
+
+i
+
+l
+
+n
+
+k
+
+la
+
+c
+
+?
+
+rä
+
+ko
+
+n
+
+l
+
+l
+
+s
+
+v a
+
+i
+
+i
+
+a
+
+)
+
+t
+
+k
+
+x
+
+s
+
+r
+
+n
+
+lp r
+
+e
+
+ö
+
+e
+
+e
+
+d
+
+g
+
+x
+
+jä t
+
+in
+
+u
+
+ö
+
+j
+
+n ?
+
+h
+
+v
+
+k
+
+e
+
+la d
+
+n
+
+å ls
+
+r
+
+?
+
+a
+
+f
+
+o l
+
+o
+
+t o
+
+a
+
+la
+
+k d
+
+g
+
+t k
+
+ld
+
+i
+
+o
+
+s n
+
+å
+
+a s
+
+k
+
+i
+
+t l
+
+b
+
+a
+
+n
+
+(
+
+s
+
+r
+
+a h
+
+s ?
+
+e e
+
+t
+
+a
+
+n e
+
+r
+
+d p
+
+e
+
+in
+
+g
+
+n å
+
+r
+
+h
+
+n
+
+x b
+
+n
+
+m
+
+d
+
+i
+
+u
+
+i
+
+ä
+
+jd
+
+a
+
+f m
+
+e
+
+n
+
+v l
+
+t
+
+ö
+
+d
+
+k
+
+l
+
+t u
+
+r x
+
+e
+
+e i
+
+e
+
+n
+
+n
+
+e d
+
+å
+
+d
+
+l
+
+e
+
+m
+
+ä
+
+r
+
+v
+
+r
+
+i
+
+d r
+
+l
+
+d
+
+t l
+
+t
+
+s i
+
+u
+
+k
+
+t
+
+t u
+
+r t
+
+n
+
+a
+
+a b
+
+a
+
+h
+
+e ,
+
+a
+
+d
+
+r
+
+v
+
+a
+
+l
+
+p
+
+r
+
+å
+
+ls
+
+l n
+
+i
+
+d
+
+p le
+
+ä
+
+u m
+
+a
+
+r
+
+ä
+
+in
+
+d o
+
+e s
+
+g
+
+h
+
+t l
+
+r
+
+d
+
+h
+
+u e
+
+r
+
+j
+
+r
+
+v
+
+ig
+
+t ä
+
+e
+
+ö
+
+ö
+
+d n
+
+le
+
+e s
+
+lä h
+
+v
+
+n
+
+r o
+
+n
+
+F
+
+E
+
+r
+
+v
+
+Ö
+
+.
+
+a g
+
+.
+
+n y
+
+r
+
+.
+
+r
+
+0
+
+it å
+
+1
+
+ä r
+
+u le
+
+2
+
+u
+
+1
+
+L n
+
+1
+
+K b
+
+H e
+
+1
+
+H
 
 <!-- sida 70 -->
 
@@ -2921,6 +8443,8 @@ skolenheter åk 8
 
 <!-- sida 72 -->
 
+Elever åk 8 Grundskola
+
 Resultat indexvärden     – jämförelser
 
 Diagrammet nedan visar indexvärdena för den aktuella huvudmannen/skolenheten
@@ -2936,43 +8460,106 @@ skolenheterna ligger över. På motsvarande sätt uttolkas den nedre kvartilen (
 medianen (p50) och den övre kvartilen (p75). Den svarta punkten visar medelvärdet för
 den aktuella huvudmannen/skolenheten.
 
-E x e m p e l
-0  1
-p 1
-2
-0 p
-3
-2 5
-4
-M
-p
-e
-5 0
-5
-d e lv ä
-p 7 5
-6
-r d e
-7
-n
-p
-8
-9 0
-9 1 0
-Elever åk 8 Grundskola
 1\. Information om utbildningen
+
 2\. Stimulans
 3\. Stöd
+
 4\. Kritiskt tänkande
+
 5\. Bemötande - lärare
+
 6\. Bemötande - elever
 7\. Inflytande
+
 8\. Studiero
+
 9\. Trygghet
+
 10\. Förhindra kränkningar
 11\. Elevhälsa
+
 0  1  2  3   4  5  6  7  8  9  10
+
 14
+
+10
+
+9
+
+0
+
+9
+
+p
+
+8
+
+5
+
+7
+
+n
+
+7
+
+e
+
+p
+
+rd
+
+6
+
+ä
+
+lv
+
+0
+
+5
+
+e
+
+5
+
+d
+
+p
+
+e
+
+4 M
+
+5
+
+2
+
+p
+
+3
+
+0
+
+1
+
+p
+
+2
+
+1
+
+0
+
+l
+
+pe
+
+m
+
+xe
+
+E
 
 <!-- sida 73 -->
 
@@ -3010,6 +8597,8 @@ Flickor   Pojkar    Flickor  Pojkar
 
 <!-- sida 74 -->
 
+Elever åk 8 Grundskola
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -3039,103 +8628,9 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att utvecklingssamtalet är till hjälp för
 3,9   9%    26%   32%  28%   5%     4,2
 dig?
-2 . S tim u
 
-T y c k e r d
-få r a rb e
-
-T y c k e r d
-s k o la rb
-la n s
-u a tt lä
-ta p å o
-u a tt lä
-e te t?
-ra
-lik
-ra
-rn
-a
-rn
-a
-s
-a
-v a rie
-ä tt?
-få r d
-ra r le k tio n e rn a
-ig a tt tro p å d ig
-s
-s
-å
-jä
-a
-lv
-tt n
-i
-i
-In
-M
-d
-e
-e
-d
-x 5 ,3
-e lv ä
-4 ,4
-5 ,2
-(S
-rd
-a
-e
-m tlig a å k 8
-H e lt o c h
-h å lle t
-A n d e l
-8 %
-1 4 %
-: 5 ,4 )
-T ill s to
-d e l
-A n d e l
-2 9 %
-3 8 %
-r T ill v is s
-d e l
-A n d e l
-4 7 %
-3 1 %
-In te
-A n
-1
-1
-a lls
-d e l
-4 %
-2 %
-V e
-A
-t in
-n d e
-3 %
-5 %
-te
-l M
-S
-e
-a
-d
-m
-e
-4
-5
-tlig a
-lv ä rd
-,6
-,3
-e
-Elever åk 8 Grundskola
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta får lärarna dig att bli intresserad
 4,4   3%    13%  46%  31%   6%    1%    4,4
@@ -3145,293 +8640,1902 @@ Tycker du att du får tillräckliga utmaningar i
 skolarbetet?
 16
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,6
+
+,3
+
+e
+
+4
+
+5
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d %
+
+%
+
+t
+
+3
+
+5
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d %
+
+%
+
+e
+
+n
+
+4
+
+2
+
+t
+
+A
+
+1
+
+1
+
+In
+
+s
+
+l
+
+is l
+
+e
+
+v e d %
+
+%
+
+l
+
+7
+
+1
+
+l d n
+
+4
+
+3
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l
+
+e
+
+s e d %
+
+%
+
+l
+
+9
+
+8
+
+)
+
+l d n
+
+2
+
+3
+
+i
+
+,4
+
+T
+
+A
+
+5
+
+\:
+
+8
+
+h
+
+k
+
+c t
+
+l
+
+å
+
+o le
+
+e
+
+%
+
+l d %
+
+a
+
+lt
+
+8
+
+4
+
+g
+
+å n
+
+1
+
+li
+
+e h A
+
+t
+
+H
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,3
+
+ä
+
+lv
+
+,4
+
+,2
+
+5
+
+e
+
+4
+
+5
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+i
+
+n
+
+t
+
+i
+
+t
+
+v
+
+a
+
+l
+
+å
+
+jä
+
+s
+
+s
+
+a
+
+ig
+
+n
+
+r
+
+d
+
+e
+
+å
+
+n
+
+p
+
+io
+
+t
+
+ro
+
+k
+
+t
+
+le
+
+t
+
+t
+
+r
+
+a
+
+a
+
+r
+
+ig
+
+ie
+
+d
+
+r ?
+
+r
+
+a tt å
+
+v ä
+
+f
+
+a s a
+
+rn a
+
+rn
+
+a ik a
+
+r l
+
+r
+
+lä o
+
+lä
+
+t
+
+t
+
+t å
+
+t t?
+
+s
+
+p
+
+n
+
+a
+
+a e
+
+a
+
+t
+
+la
+
+u t u e
+
+u
+
+d e
+
+d b
+
+r b
+
+r r
+
+im
+
+r
+
+a
+
+e
+
+e l
+
+t
+
+k a k
+
+S
+
+c r c o
+
+.
+
+y
+
+y k
+
+2
+
+T få T s
+
 <!-- sida 75 -->
+
+Elever åk 8 Grundskola
 
 Resultat frågeområden      och  frågor
 
-3 . S tö d
-
-M e d e
-H u r o ft a fö rk la ra r lä ra rn a v a d d u s k a g ö ra
-7
-p å le k t io n e rn a s å a t t d u fö rs t å r?
-H u r o ft a få r d u d e n h jä lp d u b e h ö v e r u n d e r
-6
-le k t io n e rn a ?
-
-M e d e
-H u r o ft a t y c k e r d u a t t s k o la rb e t e t ä r
-5
-a lld e le s fö r s v å rt ?
-
-T y c k e r d u a tt d u få r d e n h jä lp d u b e h ö v e r frå n
-s k o la n fö r a tt k la ra s k o la rb e te t?
-
-4 . K rit is k t tä n k a n d e
-
-H u r m y c k e t p ra ta r lä ra rn a o m a tt a llt m a n h ö r o c h
-lä s e r, till e x e m p e l p å in te rn e t, in te b e h ö v e r v a ra
-s a n t (k ä llk ritik )?
-H u r m y c k e t ty c k e r d u a tt n i e le v e r få r ö v a p å a tt
-d is k u te ra frå g o r d ä r m a n k a n ty c k a o lik a ?
-In d e x 6 ,5 (S a m tlig a å k 8 : 6 ,4 )
-A l lt id O f t a Ib la n d
-lv ä rd e A n d e l A n d e l A n d e l
-,3   1 7 % 6 1 % 1 8 %
-,9   1 5 % 5 3 % 2 4 %
-A l d rig S ä lla n Ib la n d
-lv ä rd e A n d e l A n d e l A n d e l
-,8   4 %   4 0 % 4 1 %
-H e lt o c h T ill s to r
-h å lle t d e l
-M e d e lv ä rd e A n d e l A n d e l
-6 ,1  1 9 % 4 8 %
-In d e x 5 ,5 (S a m tlig a å k 8 : 5 ,6 )
-V ä ld ig t G a n s k a
-m y c k e t m y c k e t
-M e d e lv ä rd e A n d e l A n d e l
-5 ,9  1 4 % 4 6 %
-5 ,2  9 %   4 0 %
-T
-G
-S ä lla n
-A n d e l
-2 %
-7 %
-O f t a
-A n d e l
-1 1 %
-ill v is s
-d e l
-A n d e l
-2 5 %
-a n s k a
-lite
-A n d e l
-2 9 %
-3 6 %
-A l d rig
-A n d e l
-1 %
-1 %
-A l lt id
-A n d e l
-3 %
-In te a lls
-A n d e l
-6 %
-V ä ld ig t
-lite / In te
-a lls
-A n d e l
-4 %
-7 %
-V
-V
-V
-V
-e
-A
-e
-A
-e
-A
-e
-A
-t in
-n d e
-1 %
-1 %
-t in
-n d e
-1 %
-t in
-n d e
-2 %
-t in
-n d e
-7 %
-7 %
-t e
-l
-t e
-l
-te
-l
-te
-l
-M
-M
-M
-M
-S a m
-e d e
-7
-6
-S a m
-e d e
-5
-S a m
-e d e
-5
-S a m
-e d e
-5
-5
-t lig a
-lv ä rd
-,2
-,7
-t lig a
-lv ä rd
-,7
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,9
-,3
-e
-e
-e
-e
-Elever åk 8 Grundskola
 17
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+v
+
+l
+
+v
+
+t
+
+lv
+
+,2
+
+,7
+
+t
+
+lv
+
+,7
+
+t
+
+l
+
+,9
+
+t
+
+l
+
+,9
+
+,3
+
+e
+
+7
+
+6
+
+e
+
+5
+
+e
+
+5
+
+e
+
+5
+
+5
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+%
+
+%
+
+in
+
+%
+
+in
+
+e
+
+in
+
+e
+
+d
+
+d
+
+d %
+
+d
+
+%
+
+%
+
+t
+
+n
+
+1
+
+1
+
+t
+
+n
+
+1
+
+t
+
+2
+
+t
+
+7
+
+7
+
+e
+
+e
+
+e
+
+n
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+s
+
+g
+
+d
+
+l
+
+l
+
+t e
+
+l
+
+i
+
+e
+
+i
+
+e
+
+l
+
+g t
+
+r
+
+t
+
+e
+
+i n s e
+
+d
+
+d %
+
+%
+
+l
+
+d %
+
+a
+
+%
+
+I l
+
+%
+
+%
+
+l
+
+n
+
+1
+
+1
+
+l
+
+n
+
+3
+
+d
+
+ld / l d
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+6
+
+ä e a n
+
+4
+
+7
+
+n
+
+A
+
+V it
+
+A
+
+I
+
+l
+
+l
+
+l
+
+n
+
+e
+
+a
+
+e
+
+s
+
+l
+
+a
+
+l
+
+la
+
+d %
+
+%
+
+t
+
+d %
+
+is l e
+
+k
+
+e
+
+l
+
+f
+
+1
+
+%
+
+s e
+
+%
+
+%
+
+n
+
+2
+
+7
+
+n
+
+1
+
+v e d
+
+t
+
+d
+
+ä
+
+O
+
+l
+
+5
+
+n i
+
+9
+
+6
+
+S
+
+A
+
+A
+
+l d n
+
+2
+
+l
+
+n
+
+2
+
+3
+
+i
+
+a
+
+T
+
+A
+
+G
+
+A
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+%
+
+n
+
+e %
+
+l
+
+a t
+
+l
+
+a
+
+d
+
+8
+
+4
+
+a
+
+d
+
+1
+
+to l e
+
+k e
+
+l
+
+l
+
+%
+
+s k
+
+e
+
+%
+
+%
+
+n
+
+1
+
+2
+
+n
+
+4
+
+s e d
+
+c
+
+d
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+l
+
+8
+
+n
+
+6
+
+0
+
+4
+
+l d n
+
+4
+
+)
+
+y
+
+n
+
+4
+
+4
+
+,
+
+i
+
+a
+
+6
+
+T
+
+A
+
+,6
+
+G m
+
+A
+
+\:
+
+5
+
+8
+
+l
+
+n
+
+l
+
+\:
+
+k
+
+a
+
+e %
+
+%
+
+a
+
+e %
+
+h
+
+8
+
+t
+
+t
+
+l
+
+t
+
+t
+
+å
+
+f
+
+d
+
+1
+
+3
+
+d
+
+0
+
+c
+
+l
+
+k
+
+g
+
+l
+
+l
+
+e
+
+i e
+
+a
+
+O
+
+n
+
+6
+
+5
+
+ä
+
+n
+
+4
+
+o l e %
+
+å
+
+k
+
+e
+
+%
+
+A
+
+A
+
+t l d
+
+d c
+
+d
+
+%
+
+ig
+
+S
+
+l
+
+9
+
+a
+
+l
+
+4
+
+9
+
+l
+
+å n
+
+1
+
+g
+
+y
+
+n
+
+1
+
+t
+
+e h A
+
+li
+
+ä
+
+A
+
+t
+
+V m
+
+m
+
+l
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+m
+
+S
+
+i
+
+e %
+
+%
+
+r
+
+e
+
+e
+
+a
+
+e
+
+(
+
+lt
+
+d
+
+7
+
+5
+
+d %
+
+S
+
+5
+
+l
+
+n
+
+1
+
+1
+
+ld
+
+n
+
+4
+
+rd
+
+(
+
+rd
+
+,
+
+A
+
+ä
+
+ä
+
+6
+
+A
+
+A
+
+A
+
+v
+
+1
+
+,5
+
+v
+
+9
+
+2
+
+l
+
+,
+
+l
+
+,
+
+,
+
+x
+
+5
+
+e
+
+e
+
+6
+
+x
+
+e
+
+5
+
+5
+
+d
+
+e
+
+e
+
+d
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+e
+
+d
+
+e
+
+ä
+
+ä
+
+M
+
+In
+
+M
+
+lv
+
+,3
+
+,9
+
+lv
+
+,8
+
+e
+
+7
+
+6
+
+e
+
+5
+
+d
+
+d
+
+h
+
+e
+
+e
+
+c ra
+
+o a
+
+tt
+
+M
+
+M
+
+n
+
+r v
+
+a
+
+å
+
+ö r
+
+r
+
+fr
+
+h e
+
+å
+
+v
+
+e
+
+p
+
+a
+
+r
+
+n ö
+
+?
+
+r
+
+d
+
+e
+
+a h
+
+a a
+
+ö
+
+n
+
+v
+
+v ik
+
+g
+
+u
+
+ö
+
+m e
+
+ö l
+
+r
+
+h
+
+lt b
+
+r o
+
+a
+
+r
+
+l
+
+k
+
+e
+
+e
+
+e
+
+få
+
+v
+
+ä
+
+b
+
+a t
+
+a
+
+s
+
+r k
+
+ö
+
+t
+
+?
+
+t in
+
+c
+
+u ?
+
+u
+
+t
+
+e
+
+r h
+
+te
+
+t
+
+,
+
+v y
+
+d å e
+
+d e
+
+a t
+
+t
+
+t b
+
+e
+
+t
+
+e
+
+le
+
+d s
+
+b
+
+lp e
+
+m
+
+n
+
+a r u
+
+r
+
+rn
+
+e a
+
+v ö
+
+a
+
+jä rb
+
+o
+
+i k
+
+d
+
+l
+
+e
+
+f
+
+a t
+
+n
+
+a
+
+h a
+
+n
+
+p
+
+o
+
+l
+
+t
+
+n u
+
+l
+
+k
+
+n
+
+rn in
+
+t a
+
+r
+
+o
+
+d ä
+
+s
+
+a
+
+j
+
+e k
+
+a
+
+a m
+
+r t
+
+t
+
+s
+
+r å
+
+t
+
+h
+
+t
+
+d
+
+ä p
+
+u r
+
+ä a
+
+r
+
+l
+
+l n
+
+a
+
+a
+
+l
+
+d ä
+
+?
+
+å r
+
+e
+
+r
+
+r å e
+
+u t
+
+f a
+
+e
+
+r d
+
+a s d
+
+d r
+
+l
+
+d
+
+ta p )? e r
+
+r
+
+u
+
+n
+
+å
+
+k
+
+k k o
+
+a a u
+
+r v
+
+d
+
+a
+
+a m i c g
+
+l
+
+t
+
+k
+
+r
+
+n d ?
+
+e s
+
+t t
+
+p e it
+
+ty å
+
+k r
+
+k
+
+t
+
+n
+
+x
+
+r
+
+r a
+
+r
+
+a
+
+ä
+
+r
+
+r
+
+e
+
+c
+
+a
+
+t e
+
+t f
+
+ö n å n
+
+y fö
+
+r
+
+t
+
+e lk e
+
+f
+
+f r
+
+t
+
+ö
+
+t
+
+l l
+
+a
+
+u
+
+k l
+
+k r
+
+io
+
+e
+
+s
+
+f
+
+k
+
+c i ä c
+
+a
+
+a
+
+a
+
+d
+
+t
+
+e
+
+t t
+
+t n
+
+t e
+
+is
+
+y k y
+
+f
+
+f
+
+f l
+
+r n
+
+, (
+
+t
+
+d
+
+k
+
+o
+
+it
+
+r
+
+ö
+
+o e o i
+
+o e
+
+e la
+
+r
+
+m
+
+t
+
+m u
+
+t
+
+l
+
+t
+
+k
+
+e
+
+k
+
+r
+
+r
+
+r d
+
+r
+
+n
+
+r
+
+S
+
+k
+
+l
+
+c o
+
+K
+
+u s
+
+u s
+
+.
+
+u å u
+
+u l
+
+y k
+
+.
+
+a
+
+i
+
+3
+
+H p H le
+
+H a
+
+T s
+
+4
+
+H lä s H d
 
 <!-- sida 76 -->
 
+Elever åk 8 Grundskola
+
 Resultat frågeområden      och  frågor
 
-5 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a b e h a n d la r a lla e le v e r lik a
-o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h a r a n n a n
-k ö n s id e n tite t?
-
-M e
-
-K ä n n e r d u d ig o rä ttv is t b e h a n d la d a v n å g o n
-lä ra re e lle r a n n a n v u x e n i s k o la n ?
-
-6 . B e m ö ta n d e - e le v e r
-
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v a ra n d ra i
-s k o la n ?
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v u x n a i s k o la
-d
-n
-e
-7
-?
-In
-M
-lv ä
-,7
-In
-M
-d e x 6 ,9 (S a m
-e d e lv ä rd e
-6 ,1
-A ld rig
-rd e A n d e l
-4 2 %
-d e x 6 ,7 (S a m
-e d e lv ä rd e
-6 ,8
-6 ,7
-tlig a å k 8 : 6
-H e lt o c h
-h å lle t
-A n d e l
-2 7 %
-S ä lla n
-A n d e l
-3 2 %
-tlig a å k 8 : 6
-M y c k e t
-b ra
-A n d e l
-2 2 %
-2 1 %
-,7 )
-T ill s to r
-d e l
-A n d e l
-3 5 %
-Ib la n d
-A n d e l
-1 5 %
-,5 )
-G a n s k a
-b ra
-A n d e l
-5 9 %
-5 7 %
-T
-G
-ill v is s
-d e l
-A n d e l
-2 2 %
-O fta
-A n d e
-5 %
-a n s k a
-d å lig t
-A n d e l
-1 3 %
-1 6 %
-l
-In te a lls
-A n d e l
-1 1 %
-A lltid
-A n d e l
-3 %
-M y c k e t
-d å lig t
-A n d e l
-2 %
-2 %
-V e t in te
-A n d e l
-5 %
-V e t in te
-A n d e l
-2 %
-V e t in te
-A n d e l
-3 %
-4 %
-M
-M
-M
-S a m
-e d e
-5
-S a m
-e d e
-7
-S a m
-e d e
-6
-6
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,4
-tlig a
-lv ä rd
-,5
-,4
-e
-e
-e
-Elever åk 8 Grundskola
 7\. Inflytande                Index 4,5 (Samtliga åk 8: 4,5)
+
 Väldigt
 Väldigt Ganska Ganska
 lite/Inte Vet inte Samtliga
@@ -3444,386 +10548,3964 @@ påverka hur ni ska arbeta på lektionerna?
 Hur mycket tycker du att de vuxna i skolan lyssnar
 på förslag från eleverna, till exempel från 5,0 7% 39% 34% 9% 11%   4,9
 klassråd eller elevråd?
+
 18
 
-<!-- sida 77 -->
+e
 
-Resultat frågeområden      och  frågor
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+4
+
+l
+
+t
+
+lv
+
+,9
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,5
+
+,4
+
+e
+
+5
+
+e
+
+7
+
+e
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+l
+
+t
+
+e
+
+t
+
+in
+
+e
+
+in
+
+d %
+
+in
+
+e
+
+d
+
+%
+
+d %
+
+%
+
+t
+
+5
+
+t
+
+n
+
+2
+
+t
+
+3
+
+4
+
+e
+
+n
+
+e
+
+A
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+d
+
+t t
+
+l
+
+l
+
+i
+
+e
+
+e
+
+%
+
+lt
+
+d %
+
+ke ig
+
+e
+
+a
+
+d
+
+l
+
+3
+
+c l d %
+
+%
+
+e
+
+n
+
+1
+
+A
+
+n
+
+y å n
+
+2
+
+2
+
+t
+
+A
+
+1
+
+A
+
+d A
+
+In
+
+M
+
+l
+
+s
+
+l
+
+a
+
+e
+
+a t
+
+l
+
+t
+
+is l
+
+e
+
+f
+
+d %
+
+k g
+
+e
+
+%
+
+5
+
+s i
+
+%
+
+%
+
+v e d
+
+O
+
+n
+
+l d
+
+l
+
+2
+
+A
+
+n
+
+3
+
+6
+
+l d n
+
+2
+
+å n
+
+1
+
+1
+
+i
+
+a d
+
+T
+
+A
+
+G
+
+A
+
+l
+
+d
+
+r
+
+e
+
+l
+
+n
+
+%
+
+a
+
+l
+
+to l
+
+la
+
+d
+
+5
+
+k
+
+e
+
+%
+
+n
+
+1
+
+s a
+
+e %
+
+%
+
+s e d
+
+b
+
+r d
+
+l
+
+5
+
+I
+
+A
+
+n
+
+9
+
+7
+
+)
+
+l d n
+
+3
+
+)
+
+b n
+
+5
+
+5
+
+i
+
+a
+
+,7
+
+T
+
+A
+
+,5
+
+G
+
+A
+
+6
+
+l
+
+6
+
+\:
+
+n
+
+\:
+
+e
 
 8
 
-H
+h
+
+a
+
+%
+
+8
+
+t
+
+l
+
+l
+
+d
+
+t
+
+l
+
+k
+
+c
+
+l
+
+2
+
+k
+
+e
+
+å
+
+o le
+
+e
+
+%
+
+ä
+
+n
+
+3
+
+å
+
+k a
+
+e %
+
+%
+
+l d
+
+A
+
+r d
+
+a
+
+lt
+
+7
+
+S
+
+a
+
+c
+
+2
+
+1
+
+g
+
+å n
+
+2
+
+g
+
+y b n
+
+2
+
+2
+
+li
+
+e h A
+
+li
+
+A
+
+t
+
+t
+
+M
 
 H
+
+l
+
+m
+
+ig
+
+e
+
+m
+
+a
+
+e
+
+r
+
+d %
+
+a
+
+e
+
+S
+
+d
+
+ld
+
+n
+
+2
+
+S
+
+d
+
+(
+
+r
+
+4
+
+(
+
+r
+
+,9
+
+ä
+
+A
+
+A
+
+,7
+
+ä
+
+lv
+
+,1
+
+lv
+
+,8
+
+,7
+
+6
+
+6
+
+e
+
+6
+
+e
+
+6
+
+6
+
+x
+
+d
+
+e
+
+x
+
+d
+
+de
+
+e
+
+rd
+
+de
+
+e
+
+In
+
+M
+
+ä
+
+In
+
+M
+
+lv
+
+,7
+
+e
+
+7
+
+?
+
+d
+
+n
+
+e
+
+la
+
+a n
+
+k
+
+M
+
+i
+
+o
+
+i a
+
+l
+
+k
+
+n
+
+n
+
+a
+
+s
+
+r n
+
+r
+
+i
+
+o
+
+e a
+
+g
+
+d
+
+v r
+
+n
+
+a
+
+le a
+
+å
+
+a
+
+n
+
+n
+
+r
+
+x
+
+e h
+
+v
+
+a
+
+u
+
+r
+
+a
+
+a
+
+v
+
+v
+
+l e
+
+l l
+
+?
+
+r
+
+r
+
+l
+
+d
+
+e
+
+e
+
+a
+
+a n
+
+t
+
+t
+
+e
+
+l
+
+r r
+
+la
+
+ö
+
+ö
+
+a
+
+d
+
+l a
+
+n o
+
+m
+
+m
+
+d jk
+
+a k
+
+e
+
+e
+
+n
+
+s
+
+b
+
+b
+
+o
+
+h i
+
+a
+
+p
+
+e
+
+a
+
+a
+
+h ,
+
+r
+
+b n
+
+rn
+
+rn
+
+e o
+
+t xe
+
+b k
+
+is
+
+e
+
+e
+
+c
+
+u
+
+r
+
+v
+
+v
+
+e
+
+a i
+
+tv v
+
+e
+
+e
+
+e
+
+r
+
+n l
+
+t
+
+l
+
+l
+
+a
+
+r f
+
+n
+
+v
+
+e
+
+r
+
+ä
+
+e
+
+e
+
+a r
+
+r a
+
+l
+
+t
+
+t
+
+lä
+
+r ä
+
+t
+
+t
+
+o n
+
+e
+
+\-
+
+lä
+
+?
+
+n
+
+\-
+
+a
+
+a
+
+e t
+
+g
+
+i a
+
+e
+
+t d e
+
+e
+
+u
+
+u
+
+t t
+
+r
+
+d
+
+i
+
+d
+
+d
+
+d
+
+d
+
+n
+
+a m t
+
+e
+
+n
+
+u l
+
+r
+
+r
+
+a
+
+n
+
+l
+
+a
+
+t
+
+u o
+
+d
+
+t
+
+e
+
+e
+
+ö
+
+d tt e
+
+r e
+
+ö
+
+k ?
+
+k
+
+r
+
+id
+
+e e
+
+yc n
+
+yc
+
+em
+
+e se s
+
+n r
+
+em
+
+t la
+
+t
+
+k
+
+a
+
+r
+
+r
+
+B
+
+c v n
+
+n r
+
+B
+
+o
+
+.
+
+y a ö
+
+ä
+
+.
+
+u k
+
+u
+
+5
+
+T o k
+
+K lä
+
+6
+
+H s
+
+H
+
+<!-- sida 77 -->
+
+Elever åk 8 Grundskola
+
+Resultat frågeområden      och  frågor
+
+19
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+l
+
+v
+
+t
+
+lv
+
+,5
+
+t
+
+lv
+
+,6
+
+t
+
+lv
+
+,3
+
+,7
+
+t
+
+l
+
+,7
+
+,2
+
+e
+
+5
+
+e
+
+5
+
+e
+
+8
+
+8
+
+e
+
+6
+
+7
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+e
+
+in
+
+%
+
+in
+
+in
+
+%
+
+%
+
+in
+
+e
+
+d
+
+d
+
+\*
+
+d
+
+d %
+
+%
+
+t
+
+n
+
+1
+
+t
+
+n
+
+t
+
+n
+
+1
+
+1
+
+t
+
+2
+
+1
+
+e
+
+e
+
+e
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+l
+
+s
+
+g
+
+d
+
+d
+
+l
+
+l
+
+i
+
+e
+
+i
+
+e
+
+i
+
+e
+
+l
+
+r
+
+t
+
+\*
+
+t
+
+e
+
+d
+
+d %
+
+l
+
+d
+
+l
+
+d %
+
+%
+
+a
+
+%
+
+%
+
+l
+
+n
+
+2
+
+l
+
+n
+
+\*
+
+l
+
+n
+
+2
+
+3
+
+d
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+5
+
+3
+
+In
+
+A
+
+l
+
+l
+
+l
+
+n
+
+e
+
+e
+
+e
+
+s
+
+l
+
+la
+
+%
+
+ta
+
+%
+
+ta
+
+%
+
+%
+
+s
+
+l
+
+d
+
+1
+
+f
+
+d
+
+3
+
+f
+
+d
+
+i l e
+
+n
+
+1
+
+n
+
+1
+
+n
+
+3
+
+2
+
+v e d %
+
+%
+
+ä
+
+O
+
+O
+
+l
+
+8
+
+4
+
+S
+
+A
+
+A
+
+A
+
+l d n
+
+1
+
+1
+
+i
+
+T
+
+A
+
+d
+
+l
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+n
+
+e %
+
+n
+
+e %
+
+l
+
+la
+
+d
+
+2
+
+la
+
 d
 
 9
 
-K
-s
-K
-a
-
-K
-
-K
-. S tu d ie ro
-u r o ft a ä r d e t a rb e t s ro p å le k t io n e rn a ?
-u r o ft a ä r d e t s å s t ö k ig t p å le k t io n e rn a
-u h a r s v å rt a t t k o n c e n t re ra d ig ?
-. T r y g g h e t
-ä n n e r d u d ig rä d d fö r a n d ra e le v e r i
-k o la n ?
-ä n n e r d u d ig rä d d fö r n å g o n lä ra re e lle
-n n a n v u x e n i s k o la n ?
-ä n n e r d u a tt d u k a n v a ra d ig s jä lv i s k o
-ä n n e r d u d ig try g g i s k o la n ?
-a
-r
 la
-t
+
+d
+
+0
+
+6%
+
+to l e
+
 n
-t
-?
-M
-M
-M
-e
-e
-e
-d
-d
-d
-e
-5
-e
-5
-e
-8
-8
-lv ä
-,9
-lv ä
-,9
-lv ä
-,4
-,7
-M
-In d e x 5 ,9 (S a m
-A l lt id
-rd e A n d e l
-8 %
-A l d rig
-rd e A n d e l
-7 %
-In d e x 7 ,8 (S a m
-A l d rig
-rd e A n d e l
-5 5 %
-6 5 %
-H
-e d e lv ä rd e
-6 ,8
-7 ,4
-tlig a å k 8
-O f t a
-A n d e l
-3 7 %
-S ä lla n
-A n d e l
-3 9 %
-tlig a å k 8
-S ä lla n
-A n d e l
-2 9 %
-2 3 %
-e lt o c h
-h å lle t
-A n d e l
-3 2 %
-4 1 %
-: 5 ,6 )
-Ib la n d
-A n d e l
-4 2 %
-Ib la n d
-A n d e l
-3 9 %
-: 7 ,7 )
-Ib la n d
-A n d e l
-1 0 %
-6 %
-T ill s to r
-d e l
-A n d e l
-4 3 %
-4 1 %
-T
-S ä lla n
-A n d e l
-1 1 %
-O f t a
-A n d e l
-1 3 %
-O fta
-A n d e l
-3 %
-2 %
-ill v is s
-d e l
-A n d e l
-1 8 %
-1 4 %
-A l d rig
-A n d e l
-2 %
-A l lt id
-A n d e l
-\* \*
-A l ltid
-A n d e l
-2 %
-3 %
-In te a lls
-A n d e l
-5 %
-3 %
-V
-V
-V
-V
-e
+
+4
+
+n
+
+3
+
+n
+
+1
+
+s e d %
+
+%
+
+)
+
+Ib
+
 A
-e
+
+Ib
+
 A
-e
+
+)
+
+Ib
+
 A
-e
-A
-t in
-n d e
-1 %
-t in
-n d e
-\*
-t in
-n d e
-1 %
-1 %
-t in
-n d e
-2 %
-1 %
-t e
+
 l
-t e
-l
-te
-l
-te
-l
-M
-M
-M
-M
-S a m
-e d e
-5
-S a m
-e d e
-5
-S a m
-e d e
-8
-8
-S a m
-e d e
+
+3
+
+1
+
 6
+
 7
-t lig a
-lv ä rd
-,5
-t lig a
-lv ä rd
-,6
-tlig a
-lv ä rd
-,3
+
+l d n
+
+4
+
+4
+
+,
+
+,
+
+i
+
+5
+
+7
+
+T
+
+A
+
+\:
+
+\:
+
+l
+
+l
+
+l
+
+8
+
+n
+
+8
+
+n
+
+e
+
+e
+
+e
+
+k
+
+ta
+
+%
+
+la
+
+%
+
+k
+
+la
+
+%
+
+%
+
+h t
+
+l
+
+å
+
+f
+
+d
+
+7
+
+l
+
+d
+
+9
+
+å
+
+l
+
+d
+
+9
+
+3
+
+c
+
+a
+
+O
+
+n
+
+3
+
+ä
+
+n
+
+3
+
+a
+
+ä
+
+n
+
+2
+
+2
+
+o le e %
+
+%
+
+A
+
+A
+
+A
+
+t l d
+
+ig
+
+S
+
+g
+
+S
+
+l
+
+2
+
+1
+
+l
+
+li
+
+å n
+
+3
+
+4
+
+t
+
+t
+
+e h A
+
+m
+
+l
+
+l
+
+m
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+a
+
+ig
+
+S
+
+i
+
+e
+
+r
+
+e
+
+S
+
+r
+
+e %
+
+%
+
+e
+
+(
+
+lt
+
+d %
+
+d %
+
+(
+
+d
+
+5
+
+5
+
+l
+
+n
+
+8
+
+ld
+
+n
+
+7
+
+ld
+
+n
+
+rd
+
+,9
+
+A
+
+,8
+
+5
+
+6
+
+ä
+
+5
+
+A
+
+A
+
+A
+
+7
+
+A
+
+A
+
+v
+
+8
+
+4
+
+l
+
+,
+
+,
+
+x
+
+x
+
+e
+
+6
+
+7
+
+de
+
+e
+
+e
+
+de
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+In
+
+rd
+
+e
+
+ä
+
+ä
+
+ä
+
+lv
+
+,9
+
+lv
+
+,9
+
+lv
+
+,4
+
 ,7
-tlig a
-lv ä rd
-,7
-,2
+
+M
+
 e
+
+5
+
 e
+
+5
+
 e
+
+8
+
+8
+
+d
+
+d
+
+d
+
 e
-Elever åk 8 Grundskola
-19
+
+e
+
+e
+
+M
+
+M
+
+M
+
+?
+
+tt
+
+n
+
+a
+
+r
+
+la
+
+?
+
+a
+
+le
+
+o
+
+a
+
+n
+
+l
+
+k
+
+r
+
+n
+
+i
+
+e
+
+s
+
+r
+
+e
+
+i
+
+e
+
+n
+
+r
+
+e
+
+n
+
+o
+
+e
+
+r
+
+lv
+
+i
+
+v
+
+a
+
+io
+
+t ?
+
+e
+
+r
+
+jä
+
+t
+
+k
+
+l
+
+g
+
+lä
+
+s
+
+k
+
+e i
+
+e
+
+l
+
+d
+
+g
+
+le
+
+a
+
+n
+
+i
+
+?
+
+å
+
+r
+
+ra
+
+o
+
+d
+
+n
+
+å
+
+p
+
+d
+
+g
+
+a
+
+la
+
+p
+
+t re
+
+n
+
+å
+
+r
+
+o
+
+ig t
+
+a
+
+n
+
+a
+
+ko
+
+r
+
+k n
+
+r
+
+r ?
+
+v
+
+s
+
+s
+
+ö e
+
+ö
+
+ö n
+
+n
+
+i
+
+t
+
+t c
+
+f
+
+f
+
+e
+
+s n
+
+la
+
+a
+
+g
+
+d
+
+d
+
+b
+
+k
+
+g
+
+r
+
+å o
+
+d
+
+d o
+
+k
+
+k
+
+u
+
+ry
+
+a
+
+s
+
+ä
+
+ä
+
+t
+
+t
+
+t t
+
+r
+
+r s
+
+d
+
+t
+
+i
+
+t
+
+g
+
+e
+
+e a
+
+ig
+
+ig
+
+t
+
+i
+
+d
+
+d t
+
+d
+
+d n
+
+a
+
+d
+
+r
+
+r r
+
+e
+
+å
+
+t
+
+x
+
+u
+
+u
+
+ro
+
+ä
+
+ä v
+
+e
+
+u
+
+u
+
+s
+
+h
+
+d
+
+d u
+
+d
+
+d
+
+ie
+
+ta
+
+ta
+
+g
+
+r ?
+
+r v
+
+r
+
+r
+
+d
+
+f
+
+f r
+
+g
+
+e n e n
+
+e
+
+e
+
+u
+
+o
+
+o a
+
+y
+
+n la n a
+
+n
+
+n
+
+t
+
+r
+
+r h
+
+r
+
+n
+
+n
+
+S
+
+T
+
+n o n n
+
+.
+
+u
+
+u u
+
+.
+
+ä k ä n
+
+ä
+
+ä
+
+8
+
+H
+
+H d
+
+9
+
+K s K a
+
+K
+
+K
 
 <!-- sida 78 -->
 
+Elever åk 8 Grundskola
+
 Resultat frågeområden      och  frågor
 
-1 0 . F ö rh in d ra k rä n k n in g a r
-
-L ita r d u p å a tt d e v u x n a i s k o la n g ö r tillrä c k
-n å g o n e le v b lir illa b e h a n d la d ?
-
-T y c k e r d u a tt d e v u x n a i s k o la n h a r k o ll p å
-v a d s o m h ä n d e r p å ra s te rn a ?
-1 1 . E le v h ä ls a
-
-K ä n n e r d u a t t d e t fin n s n å g o n v u x e n i s k o la
-b ry r s ig o m h u r d u m å r?
-
-H u r lä t t e lle r s v å rt ä r d e t a t t få h jä lp a v
-e le v h ä ls a n , t ill e x e m p e l s k o ls k ö t e rs k a n ?
-
-1 2 . Ö v e rg rip a n d e n ö jd h e t (b ild a r e j in d e x )
-
-H u r n ö jd ä r d u m e d d in s k o la ?
-lig t o
-M e
-n s o
-m
-d
-m
-In
-M
-e lv ä
-4 ,9
-In
-M
-M
-M
-d e x 5 ,3 (S a m
-e d e lv ä rd e
-5 ,8
-A lltid
-rd e A n d e l
-8 %
-d e x 6 ,0 (S a m
-e d e lv ä rd e
-6 ,3
-e d e lv ä rd e
-5 ,7
-e d e lv ä rd e
-6 ,1
-tlig a å k 8 : 5 ,3 )
-H e lt o c h T ill s to r
-h å lle t d e l
-A n d e l A n d e l
-1 9 % 4 1 %
-O fta Ib la n d
-A n d e l A n d e l
-2 3 % 3 0 %
-tlig a å k 8 : 5 ,8 )
-H e lt o c h T ill s t o r
-h å lle t d e l
-A n d e l A n d e l
-2 9 % 3 1 %
-M y c k e t G a n s k a
-lä t t lä t t
-A n d e l A n d e l
-1 4 % 4 1 %
-H e lt o c h T ill s t o r
-h å lle t d e l
-A n d e l A n d e l
-1 9 % 5 1 %
-T ill v is s
-d e l
-A n d e l
-2 6 %
-S ä lla n
-A n d e l
-2 8 %
-T ill v is s
-d e l
-A n d e l
-2 3 %
-G a n s k a
-s v å rt
-A n d e l
-2 5 %
-T ill v is s
-d e l
-A n d e l
-2 2 %
-In te a lls
-A n d e l
-1 0 %
-A ld rig
-A n d e l
-8 %
-In t e a lls
-A n d e l
-8 %
-M y c k e t
-s v å rt
-A n d e l
-8 %
-In t e a lls
-A n d e l
-6 %
-V e t in te
-A n d e l
-4 %
-V e t in te
-A n d e l
-4 %
-V e t in t e
-A n d e l
-8 %
-V e t in t e
-A n d e l
-1 3 %
-V e t in t e
-A n d e l
-2 %
-M
-M
-M
-M
-M
-S a m
-e d e
-5
-S a m
-e d e
-4
-S a m
-e d e
-6
-S a m
-e d e
-5
-S a m
-e d e
-5
-tlig a
-lv ä rd
-,6
-tlig a
-lv ä rd
-,9
-t lig a
-lv ä rd
-,1
-t lig a
-lv ä rd
-,5
-t lig a
-lv ä rd
-,7
-e
-e
-e
-e
-e
-Elever åk 8 Grundskola
 20
+
+e
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+9
+
+l
+
+v
+
+1
+
+l
+
+v
+
+5
+
+l
+
+v
+
+7
+
+t
+
+lv
+
+,6
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+e
+
+5
+
+e
+
+4
+
+e
+
+6
+
+e
+
+5
+
+e
+
+5
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+M
+
+e
+
+e
+
+l
+
+e
+
+e
+
+e
+
+t
+
+l
+
+t
+
+t
+
+l
+
+t
+
+l
+
+t
+
+l
+
+e
+
+e
+
+e
+
+e
+
+in
+
+e
+
+in
+
+d %
+
+in
+
+%
+
+in
+
+%
+
+in
+
+%
+
+d %
+
+d
+
+d
+
+3
+
+d
+
+t
+
+4
+
+t
+
+n
+
+4
+
+t
+
+8
+
+t
+
+t
+
+2
+
+e
+
+n
+
+e
+
+A
+
+e
+
+n
+
+e
+
+n
+
+1
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+s
+
+s
+
+s
+
+g
+
+l
+
+l
+
+t
+
+l
+
+l
+
+l
+
+l
+
+l
+
+i
+
+e
+
+l
+
+t
+
+l
+
+l
+
+r
+
+e
+
+e r
+
+e
+
+e
+
+a
+
+e %
+
+d
+
+d %
+
+a
+
+%
+
+k å
+
+%
+
+a
+
+%
+
+d
+
+l
+
+n
+
+8
+
+d
+
+c
+
+d
+
+d
+
+e
+
+0
+
+e
+
+n
+
+8
+
+y v n
+
+8
+
+e
+
+n
+
+6
+
+t
+
+n
+
+1
+
+A
+
+A
+
+t
+
+A
+
+s A
+
+t
+
+A
+
+In
+
+A
+
+In
+
+M
+
+In
+
+l
+
+n
+
+s
+
+s
+
+s
+
+l
+
+a
+
+e
+
+l
+
+a t
+
+l
+
+l
+
+s
+
+l
+
+d %
+
+is l
+
+e
+
+k r
+
+e
+
+is l
+
+e
+
+i l e
+
+l
+
+8
+
+%
+
+s
+
+%
+
+%
+
+v e d %
+
+ä
+
+n
+
+2
+
+v e d
+
+3
+
+å d
+
+5
+
+v e d
+
+2
+
+l
+
+6
+
+A
+
+l
+
+n v
+
+l
+
+l d n
+
+2
+
+S
+
+l d n
+
+2
+
+a s n
+
+2
+
+l d n
+
+2
+
+i
+
+i
+
+A
+
+A
+
+i
+
+A
+
+T
+
+A
+
+T
+
+G
+
+T
+
+l
+
+d
+
+r
+
+e
+
+r
+
+r
+
+l
+
+n
+
+%
+
+l
+
+a
+
+l
+
+l
+
+o
+
+a
+
+d
+
+0
+
+to l
+
+k t
+
+to l
+
+t l e
+
+l
+
+e %
+
+s t
+
+e %
+
+e %
+
+s e d %
+
+b
+
+n
+
+3
+
+s e d
+
+1
+
+d
+
+1
+
+s e d
+
+1
+
+l
+
+1
+
+I
+
+A
+
+l
+
+n lä
+
+l d
+
+)
+
+l d n
+
+4
+
+)
+
+l d n
+
+3
+
+a
+
+n
+
+4
+
+l
+
+n
+
+5
+
+i
+
+i
+
+A
+
+A
+
+i
+
+A
+
+,3
+
+T
+
+A
+
+,8
+
+T
+
+G
+
+T
+
+5
+
+5
+
+\:
+
+l
+
+\:
+
+8
+
+h
+
+a
+
+e %
+
+8
+
+h
+
+t
+
+h
+
+t
+
+l
+
+ft
+
+d
+
+c t
+
+l
+
+l
+
+c t
+
+l
+
+k
+
+c
+
+3
+
+k
+
+e
+
+e t
+
+e
+
+å
+
+o le e %
+
+O
+
+n
+
+2
+
+å
+
+o l
+
+e %
+
+k t
+
+e %
+
+o l
+
+e %
+
+t l d
+
+A
+
+t l d
+
+9
+
+c
+
+d
+
+4
+
+t l d
+
+9
+
+a
+
+l
+
+9
+
+a
+
+l
+
+y lä
+
+l
+
+g
+
+å n
+
+1
+
+ig
+
+e å n
+
+2
+
+n
+
+1
+
+e å n
+
+1
+
+li
+
+e h A
+
+l
+
+h A
+
+M
+
+A
+
+h A
+
+t
+
+t
+
+H
+
+H
+
+H
+
+l
+
+m
+
+id
+
+e
+
+am
+
+e
+
+e
+
+e
+
+a
+
+e
+
+lt
+
+d %
+
+S
+
+S
+
+d
+
+l
+
+8
+
+(
+
+d
+
+d
+
+d
+
+(
+
+r
+
+n
+
+r
+
+r
+
+r
+
+,3
+
+ä
+
+A
+
+A
+
+,0
+
+vä
+
+vä
+
+vä
+
+lv
+
+,8
+
+6
+
+l
+
+,3
+
+l
+
+,7
+
+l
+
+,1
+
+5
+
+e
+
+5
+
+x
+
+e
+
+6
+
+e
+
+5
+
+e
+
+6
+
+x
+
+d
+
+e
+
+e
+
+d
+
+d
+
+d
+
+de
+
+e
+
+rd
+
+d
+
+e
+
+e
+
+e
+
+In
+
+M
+
+ä
+
+In
+
+M
+
+M
+
+M
+
+lv
+
+,9
+
+e
+
+4
+
+m
+
+d
+
+o
+
+e
+
+om
+
+t
+
+M
+
+s
+
+ig
+
+l
+
+n
+
+k
+
+la
+
+c
+
+å
+
+?
+
+ä
+
+p
+
+ko
+
+n
+
+lr
+
+l
+
+l
+
+s
+
+v a
+
+i
+
+l
+
+i
+
+a
+
+)
+
+k
+
+x
+
+t
+
+o
+
+s
+
+r
+
+k
+
+n
+
+lp r
+
+e
+
+ö
+
+r
+
+e
+
+e
+
+d
+
+g
+
+x
+
+jä t
+
+in
+
+a
+
+u
+
+ö
+
+j
+
+n ?
+
+h
+
+v
+
+h k
+
+e
+
+a d
+
+n
+
+n
+
+å ls
+
+r
+
+?
+
+l
+
+f
+
+o la
+
+la ?
+
+o
+
+t o
+
+a
+
+la
+
+k
+
+a
+
+g
+
+t k
+
+ld
+
+d
+
+o
+
+i
+
+o
+
+s n
+
+k rn
+
+å
+
+a s
+
+k
+
+i
+
+t l
+
+b
+
+a
+
+s e
+
+n
+
+(
+
+s
+
+r
+
+i t
+
+?
+
+e e
+
+t
+
+a h
+
+s
+
+n
+
+a
+
+s
+
+r
+
+d p
+
+e
+
+i
+
+g
+
+n e
+
+a a
+
+n å
+
+r
+
+h
+
+x b
+
+r
+
+n
+
+m
+
+d
+
+in
+
+n
+
+i
+
+ä
+
+jd
+
+u
+
+x
+
+f m
+
+e
+
+n
+
+v la
+
+å
+
+t x
+
+ö
+
+d
+
+k
+
+l
+
+u p
+
+t u
+
+r
+
+n
+
+e
+
+e i
+
+v
+
+e
+
+å e
+
+n
+
+r
+
+d
+
+d
+
+v l
+
+e
+
+m
+
+ä
+
+r
+
+e e
+
+d r
+
+l
+
+d
+
+r
+
+t i
+
+s i
+
+u
+
+k
+
+t l
+
+d d
+
+t u
+
+t
+
+n
+
+t
+
+r
+
+a b
+
+t n
+
+a
+
+h
+
+e ,
+
+a
+
+d
+
+a
+
+t
+
+a
+
+l
+
+p
+
+r
+
+r
+
+v
+
+a ä
+
+ls
+
+l n
+
+i
+
+d
+
+å e
+
+h
+
+u m
+
+a
+
+r
+
+ä
+
+p l
+
+ä
+
+e
+
+n
+
+u
+
+h
+
+d o
+
+s
+
+g
+
+i
+
+t l
+
+r
+
+jd
+
+h
+
+u e
+
+d m
+
+v
+
+r g
+
+t
+
+e
+
+r
+
+r
+
+i
+
+ä
+
+ö
+
+ö
+
+d n
+
+o
+
+le
+
+e s
+
+lä h
+
+v
+
+n
+
+r o
+
+e s
+
+E
+
+n
+
+v
+
+Ö
+
+F
+
+k
+
+r
+
+r
+
+r
+
+.
+
+a g
+
+.
+
+n y
+
+e
+
+.
+
+t
+
+c d
+
+u l
+
+u
+
+0
+
+i å
+
+y a
+
+1
+
+ä r
+
+2
+
+1
+
+L n
+
+T v
+
+1
+
+K b
+
+H e
+
+1
+
+H
 
 <!-- sida 79 -->
 
@@ -3901,6 +14583,8 @@ gymnasiet år 2 skolenheter gymnasiet år 2
 
 <!-- sida 81 -->
 
+Elever år 2 Gymnasieskola
+
 Resultat indexvärden     – jämförelser
 
 Diagrammet nedan visar indexvärdena för den aktuella huvudmannen/skolenheten
@@ -3916,43 +14600,106 @@ skolenheterna ligger över. På motsvarande sätt uttolkas den nedre kvartilen (
 medianen (p50) och den övre kvartilen (p75). Den svarta punkten visar medelvärdet för
 den aktuella huvudmannen/skolenheten.
 
-E x e m p e l
-0  1
-p 1
-2
-0 p
-3
-2 5
-4
-M
-p
-e
-5 0
-5
-d e lv ä
-p 7 5
-6
-r d e
-7
-n
-p
-8
-9 0
-9 1 0
-Elever år 2 Gymnasieskola
 1\. Information om utbildningen
+
 2\. Stimulans
 3\. Stöd
+
 4\. Kritiskt tänkande
+
 5\. Bemötande - lärare
+
 6\. Bemötande - elever
 7\. Inflytande
+
 8\. Studiero
+
 9\. Trygghet
+
 10\. Förhindra kränkningar
 11\. Elevhälsa
+
 0  1  2  3   4  5  6  7  8  9  10
+
 23
+
+10
+
+9
+
+0
+
+9
+
+p
+
+8
+
+5
+
+7
+
+n
+
+7
+
+e
+
+p
+
+rd
+
+6
+
+ä
+
+lv
+
+0
+
+5
+
+e
+
+5
+
+d
+
+p
+
+e
+
+4 M
+
+5
+
+2
+
+p
+
+3
+
+0
+
+1
+
+p
+
+2
+
+1
+
+0
+
+l
+
+pe
+
+m
+
+xe
+
+E
 
 <!-- sida 82 -->
 
@@ -3990,6 +14737,8 @@ Flickor   Pojkar    Flickor  Pojkar
 
 <!-- sida 83 -->
 
+Elever år 2 Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -4019,99 +14768,9 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att utvecklingssamtalet är till hjälp för
 3,8   10%   23%   30%  29%   8%     4,4
 dig?
-2 . S tim u
 
-T y c k e r d
-få r a rb e
-
-T y c k e r d
-s k o la rb
-la n s
-u a tt lä
-ta p å o
-u a tt lä
-e te t?
-ra
-lik
-ra
-rn
-a
-rn
-a
-s
-a
-v a rie
-ä tt?
-få r d
-ra r le k tio n e rn a
-ig a tt tro p å d ig
-s
-s
-å
-jä
-a
-lv
-tt n
-i
-i
-In
-M
-d
-e
-e
-d
-x 5 ,9
-e lv ä
-5 ,1
-5 ,8
-(S
-rd
-a
-e
-m tlig a å r 2
-H e lt o c h
-h å lle t
-A n d e l
-1 1 %
-2 0 %
-: 6 ,0 )
-T ill s to
-d e l
-A n d e l
-3 8 %
-4 0 %
-r T ill v is s
-d e l
-A n d e l
-3 7 %
-2 6 %
-In te a lls
-A n d e l
-1 0 %
-9 %
-V e
-A
-t in
-n d e
-4 %
-6 %
-te
-l M
-S
-e
-a
-d
-m
-e
-5
-5
-tlig a
-lv ä rd
-,2
-,9
-e
-Elever år 2 Gymnasieskola
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta får lärarna dig att bli intresserad
 5,1   7%    21%  46%  20%   \*\*\*   \*     5,2
@@ -4121,293 +14780,1892 @@ Tycker du att du får tillräckliga utmaningar i
 skolarbetet?
 25
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,2
+
+,9
+
+e
+
+5
+
+5
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d %
+
+%
+
+t
+
+4
+
+6
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d %
+
+%
+
+e
+
+n
+
+0
+
+9
+
+t
+
+A
+
+1
+
+In
+
+s
+
+l
+
+is l
+
+e
+
+v e d %
+
+%
+
+l
+
+7
+
+6
+
+l d n
+
+3
+
+2
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l
+
+e
+
+s e d %
+
+%
+
+l
+
+8
+
+0
+
+l d n
+
+3
+
+4
+
+)
+
+i
+
+,0
+
+T
+
+A
+
+6
+
+\:
+
+2
+
+h
+
+r
+
+c t
+
+l
+
+å
+
+o le
+
+e %
+
+%
+
+l d
+
+a
+
+lt
+
+1
+
+0
+
+g
+
+å n
+
+1
+
+2
+
+li
+
+e h A
+
+t
+
+H
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,9
+
+ä
+
+lv
+
+,1
+
+,8
+
+5
+
+e
+
+5
+
+5
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+i
+
+n
+
+t
+
+i
+
+t
+
+v
+
+a
+
+l
+
+å
+
+jä
+
+s
+
+s
+
+a
+
+ig
+
+n
+
+r
+
+d
+
+e
+
+å
+
+n
+
+p
+
+io
+
+t
+
+ro
+
+k
+
+t
+
+le
+
+t
+
+t
+
+r
+
+a
+
+a
+
+r
+
+ig
+
+ie
+
+d
+
+r ?
+
+r
+
+a tt å
+
+v ä
+
+f
+
+a s a
+
+rn a
+
+rn
+
+a ik a
+
+r l
+
+r
+
+lä o
+
+lä
+
+t
+
+t
+
+t å
+
+t t?
+
+s
+
+p
+
+n
+
+a
+
+a e
+
+a
+
+t
+
+la
+
+u t u e
+
+u
+
+d e
+
+d b
+
+r b
+
+r r
+
+im
+
+r
+
+a
+
+e
+
+e l
+
+t
+
+k a k
+
+S
+
+c r c o
+
+.
+
+y
+
+y k
+
+2
+
+T få T s
+
 <!-- sida 84 -->
+
+Elever år 2 Gymnasieskola
 
 Resultat frågeområden      och  frågor
 
-3 . S tö d
-
-M e d e
-H u r o ft a fö rk la ra r lä ra rn a v a d d u s k a g ö ra
-7
-p å le k t io n e rn a s å a t t d u fö rs t å r?
-H u r o ft a få r d u d e n h jä lp d u b e h ö v e r u n d e r
-7
-le k t io n e rn a ?
-
-M e d e
-H u r o ft a t y c k e r d u a t t s k o la rb e t e t ä r
-5
-a lld e le s fö r s v å rt ?
-
-T y c k e r d u a tt d u få r d e n h jä lp d u b e h ö v e r frå n
-s k o la n fö r a tt k la ra s k o la rb e te t?
-
-4 . K rit is k t tä n k a n d e
-
-H u r m y c k e t p ra ta r lä ra rn a o m a tt a llt m a n h ö r o c h
-lä s e r, till e x e m p e l p å in te rn e t, in te b e h ö v e r v a ra
-s a n t (k ä llk ritik )?
-H u r m y c k e t ty c k e r d u a tt n i e le v e r få r ö v a p å a tt
-d is k u te ra frå g o r d ä r m a n k a n ty c k a o lik a ?
-In d e x 6 ,6 (S a m tlig a å r 2 : 6 ,6 )
-A l lt id O f t a Ib la n d
-lv ä rd e A n d e l A n d e l A n d e l
-,3   2 1 % 5 6 % 1 9 %
-,1   2 0 % 4 8 % 2 7 %
-A l d rig S ä lla n Ib la n d
-lv ä rd e A n d e l A n d e l A n d e l
-,5   4 %   3 3 % 4 2 %
-H e lt o c h T ill s to r
-h å lle t d e l
-M e d e lv ä rd e A n d e l A n d e l
-6 ,5  2 1 % 5 1 %
-In d e x 6 ,0 (S a m tlig a å r 2 : 6 ,1 )
-V ä ld ig t G a n s k a
-m y c k e t m y c k e t
-M e d e lv ä rd e A n d e l A n d e l
-6 ,2  1 9 % 4 6 %
-5 ,8  1 6 % 4 2 %
-T
-G
-S ä lla n
-A n d e l
-3 %
-4 %
-O f t a
-A n d e l
-1 6 %
-ill v is s
-d e l
-A n d e l
-2 2 %
-a n s k a
-lite
-A n d e l
-2 1 %
-2 9 %
-A l d rig
-A n d e l
-\*
-\*
-A l lt id
-A n d e l
-3 %
-In te a lls
-A n d e l
-2 %
-V ä ld ig t
-lite / In te
-a lls
-A n d e l
-5 %
-5 %
-V
-V
-V
-V
-e
-A
-e
-A
-e
-A
-e
-A
-t in
-n d e
-\*
-\*
-t in
-n d e
-1 %
-t in
-n d e
-3 %
-t in
-n d e
-9 %
-8 %
-t e
-l
-t e
-l
-te
-l
-te
-l
-M
-M
-M
-M
-S a m
-e d e
-7
-7
-S a m
-e d e
-5
-S a m
-e d e
-6
-S a m
-e d e
-6
-5
-t lig a
-lv ä rd
-,5
-,1
-t lig a
-lv ä rd
-,5
-tlig a
-lv ä rd
-,4
-tlig a
-lv ä rd
-,4
-,8
-e
-e
-e
-e
-Elever år 2 Gymnasieskola
 26
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+v
+
+l
+
+v
+
+t
+
+lv
+
+,5
+
+,1
+
+t
+
+lv
+
+,5
+
+t
+
+l
+
+,4
+
+t
+
+l
+
+,4
+
+,8
+
+e
+
+7
+
+7
+
+e
+
+5
+
+e
+
+6
+
+e
+
+6
+
+5
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+in
+
+%
+
+in
+
+e
+
+in
+
+e
+
+d
+
+\*
+
+\*
+
+d
+
+d %
+
+d
+
+%
+
+%
+
+t
+
+n
+
+t
+
+n
+
+1
+
+t
+
+3
+
+t
+
+9
+
+8
+
+e
+
+e
+
+e
+
+n
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+s
+
+g
+
+d
+
+l
+
+l
+
+t e
+
+l
+
+i
+
+e
+
+i
+
+e
+
+l
+
+g t
+
+r
+
+t
+
+e
+
+i n s e
+
+d
+
+d
+
+\*
+
+\*
+
+l
+
+d %
+
+a
+
+%
+
+I l
+
+%
+
+%
+
+l
+
+n
+
+l
+
+n
+
+3
+
+d
+
+ld / l d
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+2
+
+ä e a n
+
+5
+
+5
+
+n
+
+A
+
+V it
+
+A
+
+I
+
+l
+
+l
+
+l
+
+n
+
+e
+
+a
+
+e
+
+s
+
+l
+
+a
+
+l
+
+la
+
+d %
+
+%
+
+t
+
+d %
+
+is l e
+
+k
+
+e
+
+l
+
+f
+
+6
+
+%
+
+s e
+
+%
+
+%
+
+n
+
+3
+
+4
+
+n
+
+1
+
+v e d
+
+t
+
+d
+
+ä
+
+O
+
+l
+
+2
+
+n i
+
+1
+
+9
+
+S
+
+A
+
+A
+
+l d n
+
+2
+
+l
+
+n
+
+2
+
+2
+
+i
+
+a
+
+T
+
+A
+
+G
+
+A
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+%
+
+n
+
+e %
+
+l
+
+a t
+
+l
+
+a
+
+d
+
+9
+
+7
+
+a
+
+d
+
+2
+
+to l e
+
+k e
+
+l
+
+l
+
+%
+
+s k
+
+e
+
+%
+
+%
+
+n
+
+1
+
+2
+
+n
+
+4
+
+s e d
+
+c
+
+d
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+l
+
+1
+
+n
+
+6
+
+2
+
+l d n
+
+5
+
+y
+
+n
+
+4
+
+4
+
+,6
+
+i
+
+A
+
+)
+
+a
+
+A
+
+6
+
+T
+
+,1
+
+G m
+
+\:
+
+l
+
+l
+
+6
+
+2
+
+n
+
+\:
+
+e
+
+e
+
+r
+
+ta
+
+%
+
+%
+
+la
+
+%
+
+h t
+
+2
+
+t t
+
+å
+
+f
+
+d
+
+6
+
+8
+
+d
+
+3
+
+c
+
+l
+
+r
+
+g
+
+l
+
+l
+
+e
+
+i e
+
+a
+
+O
+
+n
+
+5
+
+4
+
+ä
+
+n
+
+3
+
+o l e %
+
+å
+
+k
+
+e
+
+%
+
+%
+
+A
+
+A
+
+t l d
+
+d c
+
+d
+
+ig
+
+S
+
+l
+
+1
+
+a
+
+l
+
+9
+
+6
+
+l
+
+å n
+
+2
+
+g
+
+y
+
+n
+
+1
+
+1
+
+t
+
+e h A
+
+li
+
+ä
+
+A
+
+t
+
+V m
+
+m
+
+l
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+m
+
+S
+
+i
+
+e %
+
+%
+
+r
+
+e
+
+e
+
+a
+
+e
+
+(
+
+lt
+
+d
+
+1
+
+0
+
+d %
+
+S
+
+6
+
+l
+
+n
+
+2
+
+2
+
+ld
+
+n
+
+4
+
+rd
+
+(
+
+rd
+
+,
+
+A
+
+ä
+
+ä
+
+6
+
+A
+
+A
+
+A
+
+v
+
+5
+
+,0
+
+v
+
+2
+
+8
+
+l
+
+,
+
+l
+
+,
+
+,
+
+x
+
+6
+
+e
+
+e
+
+6
+
+x
+
+e
+
+6
+
+5
+
+d
+
+e
+
+e
+
+d
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+e
+
+d
+
+e
+
+ä
+
+ä
+
+M
+
+In
+
+M
+
+lv
+
+,3
+
+,1
+
+lv
+
+,5
+
+e
+
+7
+
+7
+
+e
+
+5
+
+d
+
+d
+
+h
+
+e
+
+e
+
+c ra
+
+o a
+
+tt
+
+M
+
+M
+
+n
+
+r v
+
+a
+
+å
+
+ö r
+
+r
+
+fr
+
+h e
+
+å
+
+v
+
+e
+
+p
+
+a
+
+r
+
+n ö
+
+?
+
+r
+
+d
+
+e
+
+a h
+
+a a
+
+ö
+
+n
+
+v
+
+v ik
+
+g
+
+u
+
+ö
+
+m e
+
+ö l
+
+r
+
+h
+
+lt b
+
+r o
+
+a
+
+r
+
+l
+
+k
+
+e
+
+e
+
+e
+
+få
+
+v
+
+ä
+
+b
+
+a t
+
+a
+
+s
+
+r k
+
+ö
+
+t
+
+?
+
+t in
+
+c
+
+u ?
+
+u
+
+t
+
+e
+
+r h
+
+te
+
+t
+
+,
+
+v y
+
+d å e
+
+d e
+
+a t
+
+t
+
+t b
+
+e
+
+t
+
+e
+
+le
+
+d s
+
+b
+
+lp e
+
+m
+
+n
+
+a r u
+
+r
+
+rn
+
+e a
+
+v ö
+
+a
+
+jä rb
+
+o
+
+i k
+
+d
+
+l
+
+e
+
+f
+
+a t
+
+n
+
+a
+
+h a
+
+n
+
+p
+
+o
+
+l
+
+t
+
+n u
+
+l
+
+k
+
+n
+
+rn in
+
+t a
+
+r
+
+o
+
+d ä
+
+s
+
+a
+
+j
+
+e k
+
+a
+
+a m
+
+r t
+
+t
+
+s
+
+r å
+
+t
+
+h
+
+t
+
+d
+
+ä p
+
+u r
+
+ä a
+
+r
+
+l
+
+l n
+
+a
+
+a
+
+l
+
+d ä
+
+?
+
+å r
+
+e
+
+r
+
+r å e
+
+u t
+
+f a
+
+e
+
+r d
+
+a s d
+
+d r
+
+l
+
+d
+
+ta p )? e r
+
+r
+
+u
+
+n
+
+å
+
+k
+
+k k o
+
+a a u
+
+r v
+
+d
+
+a
+
+a m i c g
+
+l
+
+t
+
+k
+
+r
+
+n d ?
+
+e s
+
+t t
+
+p e it
+
+ty å
+
+k r
+
+k
+
+t
+
+n
+
+x
+
+r
+
+r a
+
+r
+
+a
+
+ä
+
+r
+
+r
+
+e
+
+c
+
+a
+
+t e
+
+t f
+
+ö n å n
+
+y fö
+
+r
+
+t
+
+e lk e
+
+f
+
+f r
+
+t
+
+ö
+
+t
+
+l l
+
+a
+
+u
+
+k l
+
+k r
+
+io
+
+e
+
+s
+
+f
+
+k
+
+c i ä c
+
+a
+
+a
+
+a
+
+d
+
+t
+
+e
+
+t t
+
+t n
+
+t e
+
+is
+
+y k y
+
+f
+
+f
+
+f l
+
+r n
+
+, (
+
+t
+
+d
+
+k
+
+o
+
+it
+
+r
+
+ö
+
+o e o i
+
+o e
+
+e la
+
+r
+
+m
+
+t
+
+m u
+
+t
+
+l
+
+t
+
+k
+
+e
+
+k
+
+r
+
+r
+
+r d
+
+r
+
+n
+
+r
+
+S
+
+k
+
+l
+
+c o
+
+K
+
+u s
+
+u s
+
+.
+
+u å u
+
+u l
+
+y k
+
+.
+
+a
+
+i
+
+3
+
+H p H le
+
+H a
+
+T s
+
+4
+
+H lä s H d
 
 <!-- sida 85 -->
 
+Elever år 2 Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-5 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a b e h a n d la r a lla e le v e r lik a
-o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h a r a n n a n
-k ö n s id e n tite t?
-
-M e
-
-K ä n n e r d u d ig o rä ttv is t b e h a n d la d a v n å g o n
-lä ra re e lle r a n n a n v u x e n i s k o la n ?
-
-6 . B e m ö ta n d e - e le v e r
-
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v a ra n d ra i
-s k o la n ?
-H u r ty c k e r d u a tt e le v e rn a b e m ö te r v u x n a i s k o la
-d
-n
-e
-8
-?
-In
-M
-lv ä
-,0
-In
-M
-d e x 7 ,6 (S a m
-e d e lv ä rd e
-7 ,2
-A ld rig
-rd e A n d e l
-4 9 %
-d e x 7 ,3 (S a m
-e d e lv ä rd e
-7 ,3
-7 ,3
-tlig a å r 2 : 7
-H e lt o c h
-h å lle t
-A n d e l
-4 1 %
-S ä lla n
-A n d e l
-2 6 %
-tlig a å r 2 : 7
-M y c k e t
-b ra
-A n d e l
-3 0 %
-2 8 %
-,5 )
-T ill s to r
-d e l
-A n d e l
-3 2 %
-Ib la n d
-A n d e l
-1 5 %
-,3 )
-G a n s k a
-b ra
-A n d e l
-5 6 %
-5 9 %
-T
-G
-ill v is s
-d e l
-A n d e l
-1 5 %
-O fta
-A n d e
-5 %
-a n s k a
-d å lig t
-A n d e l
-8 %
-7 %
-l
-In te a lls
-A n d e l
-6 %
-A lltid
-A n d e l
-2 %
-M y c k e t
-d å lig t
-A n d e l
-2 %
-2 %
-V e t in te
-A n d e l
-7 %
-V e t in te
-A n d e l
-3 %
-V e t in te
-A n d e l
-4 %
-4 %
-M
-M
-M
-S a m
-e d e
-7
-S a m
-e d e
-7
-S a m
-e d e
-7
-7
-tlig a
-lv ä rd
-,1
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,3
-,3
-e
-e
-e
-Elever år 2 Gymnasieskola
 7\. Inflytande                Index 5,5 (Samtliga år 2: 5,3)
+
 Väldigt
 Väldigt Ganska Ganska
 lite/Inte Vet inte Samtliga
@@ -4420,420 +16678,3926 @@ påverka hur ni ska arbeta på lektionerna?
 Hur mycket tycker du att de vuxna i skolan lyssnar
 på förslag från eleverna, till exempel från 5,7 12% 42% 29% 4% 12%  5,6
 klassråd eller elevråd?
+
 27
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+9
+
+l
+
+t
+
+lv
+
+,1
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,3
+
+,3
+
+e
+
+7
+
+e
+
+7
+
+e
+
+7
+
+7
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+l
+
+t
+
+e
+
+t
+
+in
+
+e
+
+in
+
+d %
+
+in
+
+e
+
+d
+
+%
+
+d %
+
+%
+
+t
+
+7
+
+t
+
+n
+
+3
+
+t
+
+4
+
+4
+
+e
+
+n
+
+e
+
+A
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+d
+
+t t
+
+l
+
+l
+
+i
+
+e
+
+e
+
+lt
+
+d %
+
+ke ig
+
+e
+
+a
+
+d
+
+%
+
+l
+
+2
+
+c l d %
+
+%
+
+e
+
+n
+
+6
+
+A
+
+n
+
+y å n
+
+2
+
+2
+
+t
+
+A
+
+A
+
+d A
+
+In
+
+M
+
+l
+
+s
+
+l
+
+a
+
+e
+
+a t
+
+l
+
+t
+
+is l
+
+e
+
+f
+
+d %
+
+k g
+
+e
+
+%
+
+5
+
+s i
+
+v e d
+
+O
+
+n
+
+l d %
+
+%
+
+l
+
+5
+
+A
+
+n
+
+8
+
+7
+
+l d n
+
+1
+
+å n
+
+i
+
+a d
+
+T
+
+A
+
+G
+
+A
+
+l
+
+d
+
+r
+
+e
+
+l
+
+n
+
+%
+
+a
+
+l
+
+to l
+
+la
+
+d
+
+5
+
+k
+
+e
+
+%
+
+n
+
+1
+
+s a
+
+e %
+
+%
+
+s e d
+
+b
+
+r d
+
+l
+
+2
+
+I
+
+A
+
+n
+
+6
+
+9
+
+l d n
+
+3
+
+b n
+
+5
+
+5
+
+)
+
+i
+
+)
+
+a
+
+,5
+
+T
+
+A
+
+,3
+
+G
+
+A
+
+7
+
+l
+
+7
+
+\:
+
+n
+
+\:
+
+a
+
+e
+
+2
+
+h t
+
+l
+
+l
+
+d %
+
+2
+
+t
+
+l
+
+r
+
+c
+
+l
+
+6
+
+r
+
+e
+
+å
+
+o le
+
+e
+
+%
+
+ä
+
+n
+
+2
+
+å
+
+k a
+
+e %
+
+%
+
+l d
+
+A
+
+r d
+
+a
+
+lt
+
+1
+
+S
+
+a
+
+c
+
+0
+
+8
+
+g
+
+å n
+
+4
+
+g
+
+y b n
+
+3
+
+2
+
+li
+
+e h A
+
+li
+
+A
+
+t
+
+t
+
+M
+
+H
+
+l
+
+m
+
+ig
+
+e
+
+m
+
+a
+
+e
+
+r
+
+d %
+
+a
+
+e
+
+S
+
+d
+
+ld
+
+n
+
+9
+
+S
+
+d
+
+(
+
+r
+
+4
+
+(
+
+r
+
+,6
+
+ä
+
+A
+
+A
+
+,3
+
+ä
+
+lv
+
+,2
+
+lv
+
+,3
+
+,3
+
+7
+
+7
+
+e
+
+7
+
+e
+
+7
+
+7
+
+x
+
+d
+
+e
+
+x
+
+d
+
+de
+
+e
+
+rd
+
+de
+
+e
+
+In
+
+M
+
+ä
+
+In
+
+M
+
+lv
+
+,0
+
+e
+
+8
+
+?
+
+d
+
+n
+
+e
+
+la
+
+a n
+
+k
+
+M
+
+i
+
+o
+
+i a
+
+l
+
+k
+
+n
+
+n
+
+a
+
+s
+
+r n
+
+r
+
+i
+
+o
+
+e a
+
+g
+
+d
+
+v r
+
+n
+
+a
+
+le a
+
+å
+
+a
+
+n
+
+n
+
+r
+
+x
+
+e h
+
+v
+
+a
+
+u
+
+r
+
+a
+
+a
+
+v
+
+v
+
+l e
+
+l l
+
+?
+
+r
+
+r
+
+l
+
+d
+
+e
+
+e
+
+a
+
+a n
+
+t
+
+t
+
+e
+
+l
+
+r r
+
+la
+
+ö
+
+ö
+
+a
+
+d
+
+l a
+
+n o
+
+m
+
+m
+
+d jk
+
+a k
+
+e
+
+e
+
+n
+
+s
+
+b
+
+b
+
+o
+
+h i
+
+a
+
+p
+
+e
+
+a
+
+a
+
+h ,
+
+r
+
+b n
+
+rn
+
+rn
+
+e o
+
+t xe
+
+b k
+
+is
+
+e
+
+e
+
+c
+
+u
+
+r
+
+v
+
+v
+
+e
+
+a i
+
+tv v
+
+e
+
+e
+
+e
+
+r
+
+n l
+
+t
+
+l
+
+l
+
+a
+
+r f
+
+n
+
+v
+
+e
+
+r
+
+ä
+
+e
+
+e
+
+a r
+
+r a
+
+l
+
+t
+
+t
+
+lä
+
+r ä
+
+t
+
+t
+
+o n
+
+e
+
+\-
+
+lä
+
+?
+
+n
+
+\-
+
+a
+
+a
+
+e t
+
+g
+
+i a
+
+e
+
+t d e
+
+e
+
+u
+
+u
+
+t t
+
+r
+
+d
+
+i
+
+d
+
+d
+
+d
+
+d
+
+n
+
+a m t
+
+e
+
+n
+
+u l
+
+r
+
+r
+
+a
+
+n
+
+l
+
+a
+
+t
+
+u o
+
+d
+
+t
+
+e
+
+e
+
+ö
+
+d tt e
+
+r e
+
+ö
+
+k ?
+
+k
+
+r
+
+id
+
+e e
+
+yc n
+
+yc
+
+em
+
+e se s
+
+n r
+
+em
+
+t la
+
+t
+
+k
+
+a
+
+r
+
+r
+
+B
+
+c v n
+
+n r
+
+B
+
+o
+
+.
+
+y a ö
+
+ä
+
+.
+
+u k
+
+u
+
+5
+
+T o k
+
+K lä
+
+6
+
+H s
+
+H
 
 <!-- sida 86 -->
 
+Elever år 2 Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-8
-
-H
-
-H
-d
-
-9
-
-K
-s
-K
-a
-
-K
-
-K
-. S tu d ie ro
-u r o ft a ä r d e t a rb e t s ro p å le k t io n e rn a ?
-u r o ft a ä r d e t s å s t ö k ig t p å le k t io n e rn a
-u h a r s v å rt a t t k o n c e n t re ra d ig ?
-. T r y g g h e t
-ä n n e r d u d ig rä d d fö r a n d ra e le v e r i
-k o la n ?
-ä n n e r d u d ig rä d d fö r n å g o n lä ra re e lle
-n n a n v u x e n i s k o la n ?
-ä n n e r d u a tt d u k a n v a ra d ig s jä lv i s k o
-ä n n e r d u d ig try g g i s k o la n ?
-a
-r
-la
-t
-n
-t
-?
-M
-M
-M
-e
-e
-e
-d
-d
-d
-e
-6
-e
-6
-e
-8
-9
-lv ä
-,1
-lv ä
-,1
-lv ä
-,8
-,0
-M
-In d e x 6 ,1 (S a m
-A l lt id
-rd e A n d e l
-1 2 %
-A l d rig
-rd e A n d e l
-1 2 %
-In d e x 8 ,3 (S a m
-A l d rig
-rd e A n d e l
-6 8 %
-7 2 %
-H
-e d e lv ä rd e
-7 ,4
-7 ,9
-tlig a å r 2 : 6
-O f t a
-A n d e l
-3 8 %
-S ä lla n
-A n d e l
-3 8 %
-tlig a å r 2 : 8
-S ä lla n
-A n d e l
-1 9 %
-1 8 %
-e lt o c h T
-h å lle t
-A n d e l
-4 0 %
-5 0 %
-,3 )
-Ib la n d
-A n d e l
-3 3 %
-Ib la n d
-A n d e l
-3 5 %
-,4 )
-Ib la n d
-A n d e l
-8 %
-6 %
-ill s to r
-d e l
-A n d e l
-4 1 %
-3 7 %
-T
-S ä lla n
-A n d e l
-1 5 %
-O f t a
-A n d e l
-1 3 %
-O fta
-A n d e l
-2 %
-2 %
-ill v is s
-d e l
-A n d e l
-1 5 %
-1 1 %
-A l d rig
-A n d e l
-\*
-A l lt id
-A n d e l
-1 %
-A l ltid
-A n d e l
-2 %
-1 %
-In te a lls
-A n d e l
-2 %
-1 %
-V
-V
-V
-V
-e
-A
-e
-A
-e
-A
-e
-A
-t in
-n d e
-\*
-t in
-n d e
-1 %
-t in
-n d e
-1 %
-2 %
-t in
-n d e
-2 %
-2 %
-t e
-l
-t e
-l
-te
-l
-te
-l
-M
-M
-M
-M
-S a m
-e d e
-6
-S a m
-e d e
-6
-S a m
-e d e
-8
-9
-S a m
-e d e
-7
-8
-t lig a
-lv ä rd
-,4
-t lig a
-lv ä rd
-,2
-tlig a
-lv ä rd
-,9
-,1
-tlig a
-lv ä rd
-,5
-,0
-e
-e
-e
-e
-Elever år 2 Gymnasieskola
 28
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+l
+
+l
+
+v
+
+t
+
+lv
+
+,4
+
+t
+
+lv
+
+,2
+
+t
+
+lv
+
+,9
+
+,1
+
+t
+
+l
+
+,5
+
+,0
+
+e
+
+6
+
+e
+
+6
+
+e
+
+8
+
+9
+
+e
+
+7
+
+8
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+e
+
+in
+
+in
+
+%
+
+in
+
+%
+
+%
+
+in
+
+e
+
+d
+
+\*
+
+d
+
+d
+
+d %
+
+%
+
+t
+
+n
+
+t
+
+n
+
+1
+
+t
+
+n
+
+1
+
+2
+
+t
+
+2
+
+2
+
+e
+
+e
+
+e
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+l
+
+s
+
+g
+
+d
+
+d
+
+l
+
+l
+
+i
+
+e
+
+i
+
+e
+
+i
+
+e
+
+l
+
+r
+
+t
+
+t
+
+e
+
+d
+
+d
+
+\*
+
+l
+
+d %
+
+l
+
+d %
+
+%
+
+a
+
+%
+
+%
+
+l
+
+n
+
+l
+
+n
+
+1
+
+l
+
+n
+
+2
+
+1
+
+d
+
+A
+
+A
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+2
+
+1
+
+In
+
+A
+
+l
+
+l
+
+l
+
+n
+
+e
+
+e
+
+e
+
+s
+
+l
+
+la
+
+%
+
+ta
+
+%
+
+ta
+
+%
+
+%
+
+s
+
+l
+
+d
+
+5
+
+f
+
+d
+
+3
+
+f
+
+d
+
+i l e
+
+n
+
+1
+
+n
+
+1
+
+n
+
+2
+
+2
+
+v e d %
+
+%
+
+ä
+
+O
+
+O
+
+l
+
+5
+
+1
+
+S
+
+A
+
+A
+
+A
+
+l d n
+
+1
+
+1
+
+i
+
+T
+
+A
+
+d
+
+l
+
+d
+
+l
+
+d
+
+l
+
+r
+
+n
+
+e %
+
+n
+
+e %
+
+n
+
+e
+
+l
+
+la
+
+d
+
+3
+
+la
+
+d
+
+5
+
+la
+
+d
+
+8%
+
+6%
+
+to l e
+
+n
+
+3
+
+n
+
+3
+
+n
+
+s e d %
+
+%
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+)
+
+Ib
+
+A
+
+l
+
+1
+
+7
+
+l d n
+
+4
+
+3
+
+,3
+
+,4
+
+i
+
+A
+
+6
+
+8
+
+T
+
+\:
+
+\:
+
+l
+
+l
+
+l
+
+2
+
+n
+
+2
+
+n
+
+r
+
+a
+
+e
+
+a
+
+e
+
+r
+
+a
+
+e
+
+t
+
+%
+
+l
+
+%
+
+l
+
+%
+
+%
+
+h t
+
+l
+
+å
+
+f
+
+d
+
+8
+
+l
+
+d
+
+8
+
+å
+
+l
+
+d
+
+9
+
+8
+
+c
+
+a
+
+O
+
+n
+
+3
+
+ä
+
+n
+
+3
+
+a
+
+ä
+
+n
+
+1
+
+1
+
+o le e %
+
+%
+
+A
+
+A
+
+A
+
+t l d
+
+ig
+
+S
+
+g
+
+S
+
+l
+
+0
+
+0
+
+l
+
+li
+
+å n
+
+4
+
+5
+
+t
+
+t
+
+e h A
+
+m
+
+l
+
+l
+
+m
+
+l
+
+H
+
+a
+
+d
+
+ig
+
+a
+
+ig
+
+S
+
+i
+
+e %
+
+r
+
+e %
+
+S
+
+r
+
+e %
+
+%
+
+e
+
+(
+
+lt
+
+d
+
+2
+
+d
+
+2
+
+(
+
+d
+
+8
+
+2
+
+l
+
+n
+
+ld
+
+n
+
+ld
+
+n
+
+rd
+
+,1
+
+A
+
+1
+
+1
+
+,3
+
+6
+
+7
+
+ä
+
+6
+
+A
+
+A
+
+A
+
+8
+
+A
+
+A
+
+v
+
+4
+
+9
+
+l
+
+,
+
+,
+
+x
+
+x
+
+e
+
+7
+
+7
+
+de
+
+e
+
+e
+
+de
+
+e
+
+d
+
+In
+
+rd
+
+rd
+
+In
+
+rd
+
+e
+
+ä
+
+ä
+
+ä
+
+lv
+
+,1
+
+lv
+
+,1
+
+lv
+
+,8
+
+,0
+
+M
+
+e
+
+6
+
+e
+
+6
+
+e
+
+8
+
+9
+
+d
+
+d
+
+d
+
+e
+
+e
+
+e
+
+M
+
+M
+
+M
+
+?
+
+tt
+
+n
+
+a
+
+r
+
+la
+
+?
+
+a
+
+le
+
+o
+
+a
+
+n
+
+l
+
+k
+
+r
+
+n
+
+i
+
+e
+
+s
+
+r
+
+e
+
+i
+
+e
+
+n
+
+r
+
+e
+
+n
+
+o
+
+e
+
+r
+
+lv
+
+i
+
+v
+
+a
+
+io
+
+t ?
+
+e
+
+r
+
+jä
+
+t
+
+k
+
+l
+
+g
+
+lä
+
+s
+
+k
+
+e i
+
+e
+
+l
+
+d
+
+g
+
+le
+
+a
+
+n
+
+i
+
+?
+
+å
+
+r
+
+ra
+
+o
+
+d
+
+n
+
+å
+
+p
+
+d
+
+g
+
+a
+
+la
+
+p
+
+t re
+
+n
+
+å
+
+r
+
+o
+
+ig t
+
+a
+
+n
+
+a
+
+ko
+
+r
+
+k n
+
+r
+
+r ?
+
+v
+
+s
+
+s
+
+ö e
+
+ö
+
+ö n
+
+n
+
+i
+
+t
+
+t c
+
+f
+
+f
+
+e
+
+s n
+
+la
+
+a
+
+g
+
+d
+
+d
+
+b
+
+k
+
+g
+
+r
+
+å o
+
+d
+
+d o
+
+k
+
+k
+
+u
+
+ry
+
+a
+
+s
+
+ä
+
+ä
+
+t
+
+t
+
+t t
+
+r
+
+r s
+
+d
+
+t
+
+i
+
+t
+
+g
+
+e
+
+e a
+
+ig
+
+ig
+
+t
+
+i
+
+d
+
+d t
+
+d
+
+d n
+
+a
+
+d
+
+r
+
+r r
+
+e
+
+å
+
+t
+
+x
+
+u
+
+u
+
+ro
+
+ä
+
+ä v
+
+e
+
+u
+
+u
+
+s
+
+h
+
+d
+
+d u
+
+d
+
+d
+
+ie
+
+ta
+
+ta
+
+g
+
+r ?
+
+r v
+
+r
+
+r
+
+d
+
+f
+
+f r
+
+g
+
+e n e n
+
+e
+
+e
+
+u
+
+o
+
+o a
+
+y
+
+n la n a
+
+n
+
+n
+
+t
+
+r
+
+r h
+
+r
+
+n
+
+n
+
+S
+
+T
+
+n o n n
+
+.
+
+u
+
+u u
+
+.
+
+ä k ä n
+
+ä
+
+ä
+
+8
+
+H
+
+H d
+
+9
+
+K s K a
+
+K
+
+K
 
 <!-- sida 87 -->
 
+Elever år 2 Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-1
+29
 
-L
+e
+
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+l
+
+l
+
+l
+
+t
+
+lv
+
+,7
+
+t
+
+l
+
+,3
+
+t
+
+lv
+
+,7
+
+t
+
+lv
+
+,4
+
+t
+
+lv
+
+,9
+
+e
+
+6
+
+e
+
+5
+
+e
+
+6
+
+e
+
+6
+
+e
+
+6
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+M
+
+e
+
+l
+
+te
+
+l
+
+e
+
+l
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+t
+
+t
+
+t
+
+in
+
+e %
+
+in
+
+d %
+
+in
+
+e
+
+in
+
+e %
+
+in
+
+e
+
+d
+
+0
+
+d %
+
+d
+
+d %
+
+t
+
+0
+
+t
+
 n
 
-Tv
+1
+
+t
+
+9
+
+t
+
+3
+
+t
+
+3
+
+e
+
+n
 
 1
 
-K
+e
+
+A
+
+e
+
+n
+
+e
+
+n
+
+2
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+V
+
+A
+
+V
+
+A
+
+s
+
+l
+
+s
+
+s
+
+l
+
+l
+
+ig
+
+l
+
+l
+
+t
+
+l
+
+l
+
+l
+
+l
+
+r
+
+e
+
+l
+
+e t
+
+l
+
+e
+
+d %
+
+e
+
+k r
+
+e
+
+e
+
+a
+
+d %
+
+ld
+
+n
+
+9
+
+a
+
+d %
+
+c å d %
+
+a
+
+d %
+
+e
+
+n
+
+6
+
+e
+
+n
+
+7
+
+y v n
+
+4
+
+e
+
+n
+
+2
+
+t
+
+A
+
+A
+
+A
+
+t
+
+A
+
+s A
+
+t
+
+A
+
+In
+
+In
+
+M
+
+In
+
+l
+
+s
+
+n
+
+s
+
+s
+
+l
+
+a
+
+e %
+
+l
+
+a t
+
+l
+
+l
+
+is l e
+
+l
+
+d
+
+is l
+
+e
+
+k r
+
+e
+
+is l e
+
+%
+
+l
+
+2
+
+%
+
+s
+
+%
+
+%
+
+v e d
+
+n
+
+2
+
+v e d
+
+å d
+
+v e d
+
+l
+
+9
+
+ä
+
+l
+
+9
+
+n v
+
+3
+
+l
+
+5
+
+l d n
+
+1
+
+S
+
+A
+
+l d n
+
+1
+
+n
+
+1
+
+l d n
+
+1
+
+i
+
+i
+
+a s
+
+i
+
+T
+
+A
+
+T
+
+A
+
+G
+
+A
+
+T
+
+A
+
+d
+
+l
+
+r
+
+r
+
+r
+
+l
+
+n
+
+e %
+
+l
+
+a
+
+l
+
+l
+
+to l e
+
+a
+
+d
+
+9
+
+to l
+
+k t
+
+to l e
+
+%
+
+l
+
+n
+
+e %
+
+s t
+
+e %
+
+%
+
+s e d
+
 b
 
-H
+2
+
+s e d
+
+d
+
+s e d
+
+l
+
+9
+
+I
+
+A
+
+l
+
+1
+
+n ä
+
+3
+
+l
+
+0
+
+l d n
+
+3
+
+l d n
+
+3
+
+l n
+
+4
+
+l d n
+
+5
+
+)
+
+i
+
+)
+
+i
+
+a
+
+i
+
+,0
+
+T
+
+A
+
+,6
+
+T
+
+A
+
+G
+
+A
+
+T
+
+A
+
+6
+
+l
+
+6
+
+\:
+
+\:
+
 e
+
+2
+
+h
+
+ta
+
+%
+
+2
+
+h
+
+t
+
+h
+
+c t
+
+l
+
+f
+
+d
+
+c t
+
+l
+
+l
+
+c t
+
+l
+
+r
+
+4
+
+r
+
+e t
+
+å
+
+o le e %
+
+O
+
+n
+
+2
+
+å
+
+o le
+
+e %
+
+k t
+
+e %
+
+o le e %
+
+t l d
+
+A
+
+t l d
+
+c
+
+d
+
+t l d
+
+a
+
+l
+
+n
+
+6
+
+a
+
+l
+
+3
+
+y lä
+
+7
+
+l
+
+n
+
+0
+
+ig
+
+e å
+
+2
+
+ig
+
+e å n
+
+3
+
+n
+
+1
+
+e å
+
+3
+
+l
+
+h A
+
+l
+
+h A
+
+A
+
+h A
+
+t
+
+t
+
+M
+
+H
+
+l
+
+H
+
+H
+
+m
+
+id
+
+e
+
+m
+
+a
+
+e
+
+lt
+
+d %
+
+a
+
+e
+
+e
+
+e
+
+S
+
+d
+
+l
+
+6
+
+S
+
+d
+
+d
+
+d
+
+(
+
+r
+
+n
+
+(
+
+r
+
+r
+
+r
+
+,7
+
+ä
+
+A
+
+A
+
+,6
+
+ä
+
+ä
+
+ä
+
+lv
+
+,5
+
+lv
+
+,7
+
+lv
+
+,5
+
+lv
+
+,0
+
+5
+
+6
+
+e
+
+6
+
+e
+
+6
+
+e
+
+6
+
+e
+
+7
+
+x
+
+d
+
+e
+
+x
+
+d
+
+d
+
+d
+
+de
+
+e
+
+rd
+
+de
+
+e
+
+e
+
+e
+
+In
+
+M
+
+ä
+
+In
+
+M
+
+M
+
+M
+
+lv
+
+,8
+
+e
+
+4
+
+m
+
+d
+
+o
+
+e
+
+m
+
+t
+
+o
+
+g
+
+M
+
+s
+
+i
+
+l
+
+n
+
+k
+
+a
+
+c
+
+l
+
+ä
+
+å
+
+o
+
+?
+
+r
+
+p
+
+k
+
+n
+
+l
+
+l
+
+v
+
+l
+
+l
+
+s
+
+a
+
+i
+
+i
+
+a
+
+)
+
+t
+
+k
+
+x
+
+o
+
+s
+
+r
+
+k
+
+n
+
+lp r
+
+e
+
+ö
+
+r
+
+e
+
+e
+
+d
+
+g
+
+x
+
+jä t
+
+n
+
+a
+
+i
+
+u
+
+ö
+
+j
+
+n ?
+
+h
+
+h
+
+v
+
+k
+
+e
+
+la d
+
+n
+
+n
+
+å ls
+
+r
+
+?
+
+a
+
+?
+
+f
+
+o l
+
+la
+
+o
+
+t o
+
+a
+
+la
+
+a
+
+t
+
+d
+
+k d
+
+o n
+
+g
+
+k
+
+il
+
+o
+
+s n
+
+k r
+
+å
+
+a s
+
+k
+
+i
+
+t l
+
+b
+
+a
+
+s e
+
+n
+
+(
+
+s
+
+r
+
+i t
+
+e e
+
+a h
+
+s ?
+
+t
+
+a
+
+n e
+
+s
+
+r
+
+d p
+
+e
+
+in
+
+g
+
+a a
+
+n å
+
+r
+
+h
+
+n
+
+x b
+
+n r
+
+n
+
+m
+
+d
+
+i
+
+u
+
+i
+
+ä
+
+jd
+
+a
+
+x
+
+f m
+
+e
+
+n
+
+v
+
+å
+
+t
+
+ö
+
+d
+
+l
+
+u
+
+r x
+
+k
+
+l
+
+v p
+
+t u
+
+n
+
+e
+
+n
+
+e i
+
+e
+
+å e
+
+r
+
+d
+
+ä
+
+d r
+
+e
+
+v l
+
+e
+
+m
+
+r
+
+i
+
+e
+
+d r
+
+l
+
+t
+
+s i
+
+d
+
+k
+
+t l
+
+d d
+
+t u
+
+u
+
+t
+
+t
+
+r t
+
+n
+
+a
+
+a b
+
+t n
+
+a
+
+h
+
+e ,
+
+a
+
+d
+
+r
+
+v
+
+a
+
+l
+
+p
+
+r
+
+å
+
+a ä
+
+ls
+
+l n
+
+i
+
+d
+
+p le
+
+h
+
+ä
+
+u m
+
+a
+
+r
+
+ä
+
+in
+
+u
+
+h
+
+d o
+
+e s
+
+g
+
+e
+
+t l
+
+r
+
+jd
+
+h
+
+u
+
+d m
+
+v
+
+r g
+
+t
+
+r
+
+r
+
+i
+
+ä
+
+e
+
+ö
+
+ö
+
+d n
+
+o
+
+le
+
+e s
+
+lä h
+
+v
+
+n
+
+r o
+
+e s
+
+n
+
+F
+
+k
+
+E
+
+r
+
+r v
+
+Ö
+
+r
+
+.
+
+a g
+
+c d
+
+.
+
+n y
+
+e
+
+.
+
+0
+
+it å
+
+y
+
+1
+
+ä r
+
+u l
+
+2
+
+u
+
+1
+
+L n
+
+T va
+
+1
+
+K b
+
+H e
 
 1
 
 H
-0 . F ö rh in d ra k rä n k n in g a r
-ita r d u p å a tt d e v u x n a i s k o la n g ö r tillrä c k
-å g o n e le v b lir illa b e h a n d la d ?
-y c k e r d u a tt d e v u x n a i s k o la n h a r k o ll p å
-a d s o m h ä n d e r p å ra s te rn a ?
-1 . E le v h ä ls a
-ä n n e r d u a t t d e t fin n s n å g o n v u x e n i s k o la
-ry r s ig o m h u r d u m å r?
-u r lä t t e lle r s v å rt ä r d e t a t t få h jä lp a v
-le v h ä ls a n , t ill e x e m p e l s k o ls k ö t e rs k a n ?
-2 . Ö v e rg rip a n d e n ö jd h e t (b ild a r e j in d e x )
-u r n ö jd ä r d u m e d d in s k o la ?
-lig t o m
-M e d
-n s o m
-In
-M
-e lv ä
-4 ,8
-In
-M
-M
-M
-d e x 5 ,7 (S a m
-e d e lv ä rd e
-6 ,5
-A lltid
-rd e A n d e l
-6 %
-d e x 6 ,6 (S a m
-e d e lv ä rd e
-6 ,7
-e d e lv ä rd e
-6 ,5
-e d e lv ä rd e
-7 ,0
-tlig a å r 2 : 6
-H e lt o c h
-h å lle t
-A n d e l
-2 6 %
-O fta
-A n d e l
-2 4 %
-tlig a å r 2 : 6
-H e lt o c h
-h å lle t
-A n d e l
-3 3 %
-M y c k e t
-lä t t
-A n d e l
-1 7 %
-H e lt o c h
-h å lle t
-A n d e l
-3 0 %
-,0 )
-T ill s to r
-d e l
-A n d e l
-3 9 %
-Ib la n d
-A n d e l
-2 9 %
-,6 )
-T ill s t o r
-d e l
-A n d e l
-3 1 %
-G a n s k a
-lä t t
-A n d e l
-4 3 %
-T ill s to r
-d e l
-A n d e l
-5 0 %
-T
-T
-G
-T
-ill v is s
-d e l
-A n d e l
-1 9 %
-S ä lla n
-A n d e l
-2 2 %
-ill v is s
-d e l
-A n d e l
-1 9 %
-a n s k a
-s v å rt
-A n d e l
-1 3 %
-ill v is s
-d e l
-A n d e l
-1 5 %
-In te a lls
-A n d e l
-6 %
-A ld rig
-A n d e l
-9 %
-In t e a lls
-A n d e l
-7 %
-M y c k e t
-s v å rt
-A n d e l
-4 %
-In te a lls
-A n d e l
-2 %
-V e t in te
-A n d e l
-1 0 %
-V e t in te
-A n d e l
-1 0 %
-V e t in t e
-A n d e l
-9 %
-V e t in t e
-A n d e l
-2 3 %
-V e t in te
-A n d e l
-3 %
-M
-M
-M
-M
-M
-S a m
-e d e
-6
-S a m
-e d e
-5
-S a m
-e d e
-6
-S a m
-e d e
-6
-S a m
-e d e
-6
-tlig a
-lv ä rd
-,7
-tlig a
-lv ä rd
-,3
-t lig a
-lv ä rd
-,7
-t lig a
-lv ä rd
-,4
-tlig a
-lv ä rd
-,9
-e
-e
-e
-e
-e
-Elever år 2 Gymnasieskola
-29
 
 <!-- sida 88 -->
 
@@ -4887,119 +20651,533 @@ bolag eller en förening som driver en fristående skola.
 
 <!-- sida 89 -->
 
+Undervisande lärare Grundskola
+
 Resultat indexvärden     – tabell
 
 Tabell över indexvärden (0–10). Ett högt indexvärde indikerar en positiv uppfattning. Läs
 
 mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 
-1
-2
-
-3
-4
-
-5
-6
-
-7
-8
-
-9
-1
-
-1
-1
-
-1
-1
-
-1
-1
-. In fo r m a tio n o m u tb ild n in g e
-. S a m v e r k a n
-. S t im u la n s
-. S t ö d
-. K r itis k t tä n k a n d e
-. B e m ö ta n d e - e le v e r
-. Jä m s tä lld h e t
-. E le v in fl y ta n d e
-. S t u d ie r o
-0 . T r y g g h e t
-1 . F ö r h in d r a k r ä n k n in g a r
-2 . S ä r s k ilt s tö d
-3 . B e d ö m n in g o c h b e ty g s ä ttn
-4 . P e d a g o g is k t le d a r s k a p
-5 . U p p fö ljn in g
-6 . E le v h ä ls a
-n
-in g
-K u n g sg br au c k a
-n d s
-7 ,1
-6 ,6
-6 ,8
-6 ,3
-6 ,6
-6 ,7
-7 ,9
-6 ,2
-6 ,9
-6 ,4
-7 ,1
-5 ,9
-6 ,3
-7 ,2
-7 ,3
-6 ,7
-k o m
-k o la
-m u n  S a
-s k o
-m tlig
-le n h
-ae m
-te r
-7
-6
-6
-6
-6
-6
-8
-6
-6
-6
-7
-6
-6
-7
-7
-6
-e d
-g r
-,4
-,6
-,9
-,4
-,7
-,7
-,1
-,2
-,9
-,5
-,3
-,0
-,3
-,2
-,7
-,8
-vu en r kd as n d e
-k o la
-Undervisande lärare Grundskola
 31
 
+e la
+
+d
+
+n ko
+
+a s
+
+k d
+
+r n
+
+ve u
+
+d r
+
+e g
+
+,4
+
+,6
+
+,9
+
+,4
+
+,7
+
+,7
+
+,1
+
+,2
+
+,9
+
+,5
+
+,3
+
+,0
+
+,3
+
+,2
+
+,7
+
+,8
+
+r
+
+7 6 6 6 6 6 8 6 6 6 7 6 6 7 7 6
+
+m te
+
+a e
+
+ig h
+
+l
+
+t n
+
+le
+
+am ko
+
+S s
+
+n
+
+u
+
+m
+
+m la
+
+o
+
+k ko
+
+a s
+
+,1 6
+
+,8 3
+
+,6 7
+
+,9 2
+
+,9 4
+
+,1 9
+
+,3 2
+
+,3 7
+
+k
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+c d
+
+7 6 6 6 6 6 7 6 6 6 7 5 6 7 7 6
+
+a n
+
+ru
+
+sb g
+
+g
+
+n
+
+u
+
+K
+
+g
+
+n
+
+in
+
+e
+
+n
+
+g
+
+tt
+
+in
+
+r
+
+ä
+
+n
+
+a
+
+s p
+
+ld
+
+g
+
+g
+
+a
+
+i
+
+y
+
+k
+
+in
+
+t
+
+s
+
+tb
+
+r
+
+e
+
+r
+
+e
+
+n
+
+b
+
+a
+
+u
+
+e
+
+v
+
+k
+
+n
+
+h d
+
+m
+
+d
+
+le
+
+c
+
+le
+
+n
+
+e
+
+e
+
+rä
+
+o
+
+o
+
+a
+
+t
+
+d
+
+t
+
+k
+
+\-
+
+d
+
+k ö
+
+g
+
+k
+
+g
+
+n
+
+e
+
+e n
+
+t n
+
+s
+
+in
+
+o n
+
+n
+
+h
+
+a
+
+s
+
+i
+
+i
+
+a
+
+i
+
+s
+
+d
+
+ta
+
+t
+
+r
+
+g n
+
+s
+
+t
+
+a
+
+tä
+
+ld
+
+e d
+
+t n
+
+j
+
+l
+
+k n
+
+n
+
+l
+
+y o
+
+l
+
+o
+
+l
+
+a
+
+r
+
+a
+
+t
+
+a
+
+l
+
+r h n
+
+i m
+
+ä
+
+e
+
+l
+
+k
+
+t
+
+ä
+
+f
+
+g
+
+i
+
+k
+
+g
+
+fö
+
+m
+
+u
+
+t n
+
+ie
+
+h
+
+s ö
+
+a
+
+h
+
+r
+
+v
+
+is ö
+
+s
+
+i
+
+g
+
+r
+
+r d d p
+
+v
+
+d
+
+t
+
+v d
+
+y
+
+e
+
+fo m
+
+im ö
+
+i m m
+
+u
+
+r ö
+
+ä
+
+e
+
+e p
+
+l
+
+a
+
+t
+
+t
+
+r
+
+e
+
+le
+
+t
+
+T
+
+F
+
+S
+
+B
+
+P
+
+U
+
+E
+
+n
+
+ä
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+I
+
+S
+
+S
+
+S
+
+K
+
+B
+
+J
+
+E
+
+S
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 0 1 2 3 4 5 6
+
+1 2 3 4 5 6 7 8 9 1 1 1 1 1 1 1
+
 <!-- sida 90 -->
+
+Undervisande lärare Grundskola
 
 Resultat indexvärden     – jämförelser
 
@@ -5016,51 +21194,112 @@ skolenheterna ligger över. På motsvarande sätt uttolkas den nedre kvartilen (
 medianen (p50) och den övre kvartilen (p75). Den svarta punkten visar medelvärdet för
 den aktuella huvudmannen/skolenheten.
 
-E x e m p e l
-
-0  1
-p 1
-2
-0 p
-3
-2 5
-4
-M
-p
-e
-5 0
-5
-d e lv ä
-p 7 5
-6
-r d e
-7
-n
-p
-8
-9 0
-9 1 0
-Undervisande lärare Grundskola
 1\. Information om utbildningen
 2\. Samverkan
 3\. Stimulans
+
 4\. Stöd
 5\. Kritiskt tänkande
 6\. Bemötande - elever
+
 7\. Jämställdhet
 8\. Elevinflytande
+
 9\. Studiero
 10\. Trygghet
 11\. Förhindra kränkningar
+
 12\. Särskilt stöd
 13\. Bedömning och betygsättning
+
 14\. Pedagogiskt ledarskap
 15\. Uppföljning
 16\. Elevhälsa
+
 0  1  2  3  4  5  6  7  8   9 10
 32
 
+10
+
+9
+
+0
+
+9
+
+p
+
+8
+
+5
+
+7
+
+n
+
+7
+
+e
+
+p
+
+rd
+
+6
+
+ä
+
+lv
+
+0
+
+5
+
+e
+
+5
+
+d
+
+p
+
+e
+
+4 M
+
+5
+
+2
+
+p
+
+3
+
+0
+
+1
+
+p
+
+2
+
+1
+
+0
+
+l
+
+pe
+
+m
+
+xe
+
+E
+
 <!-- sida 91 -->
+
+Undervisande lärare Grundskola
 
 Resultat frågeområden      och  frågor
 
@@ -5082,264 +21321,579 @@ undervisar i?
 Tycker du att dina elever får veta hur det går
 7,1   27%    58%   14%     \*      \*    7,5
 för dem i dina ämnen?
-2 . S a m v e rk a n
 
-I v ilk e n u t s t rä c k n in g fin n s o rg a n is a t o ris k
-fö ru t s ä t tn in g a r i s k o la n s o m frä m ja r
-s a m v e rk a n m e lla n lä ra rn a ?
-I v ilk e n u t s t rä c k n in g d e la r d u o c h d in a
-k o lle g o r m e d e r a v k u n s k a p o c h lä r a v
-v a ra n d ra ? (K o lle g ia lt lä ra n d e )
-I v ilk e n u t s t rä c k n in g s a m v e rk a r d u m e d
-k o lle g o r n ä r d u p la n e ra r u n d e rv is n in g e n
-a
-?
-In
-M
-d
-e
-e
-d
-x 6 ,6
-e lv ä
-6 ,2
-7 ,2
-6 ,4
-(S
-rd
-a
-e
-m tlig a g ru n d
-I m y c k e t
-s t o r u t -
-s t rä c k n in g
-A n d e l
-1 9 %
-3 4 %
-3 0 %
-s k o la : 6 ,6
-I g a n s
-s t o r u
-s t rä c k n
-A n d e
-5 2 %
-4 7 %
-3 8 %
-)
-k a
-t -
-in
-l
-g s
-I g a n
-lit e n
-t rä c k
-A n d
-2 5
-1 6
-2 6
-s k a
-u t -
-n in g
-e l
-%
-%
-%
-I v ä ld ig t lit e n
-u t s t rä c k n in g /
-in t e a lls
-A n d e l
-3 %
-2 %
-\* \* \*
-A
-V
-in
-n
-1
-1
-e
-t
-d
-%
-%
-\*
-t
-e
-e l M
-S
-e
-a
-d
-m
-e
-6
-7
-6
-t lig a
-lv ä rd
-,5
-,1
-,2
-e
-Undervisande lärare Grundskola
 33
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,5
+
+,1
+
+,2
+
+e
+
+6
+
+7
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t e
+
+e
+
+e t
+
+d
+
+%
+
+%
+
+\*
+
+V in
+
+n
+
+1
+
+1
+
+A
+
+/
+
+n g
+
+te n s
+
+i i l
+
+l
+
+l
+
+l
+
+n
+
+e
+
+t k a
+
+%
+
+%
+
+\*
+
+ig c
+
+d
+
+3
+
+2
+
+\*
+
+ä te n
+
+\*
+
+ld tr n A
+
+ä s i
+
+v t
+
+I u
+
+g
+
+a -
+
+k t in
+
+l
+
+s u n e
+
+%
+
+%
+
+%
+
+n n ck d
+
+5
+
+6
+
+6
+
+a te
+
+n
+
+2
+
+1
+
+2
+
+g i rä A
+
+I l t
+
+s
+
+g
+
+a -
+
+)
+
+k t in
+
+l
+
+,6
+
+s u n e
+
+%
+
+%
+
+%
+
+r k d
+
+6
+
+n
+
+2
+
+7
+
+8
+
+\:
+
+o c n
+
+a t
+
+5
+
+4
+
+3
+
+la
+
+g s rä A
+
+I
+
+t
+
+o
+
+s
+
+sk
+
+g
+
+d
+
+t -
+
+un
+
+e t in
+
+l
+
+r
+
+k u n e
+
+%
+
+%
+
+%
+
+g
+
+c r k d
+
+y
+
+c
+
+9
+
+4
+
+0
+
+a
+
+to
+
+n
+
+1
+
+3
+
+3
+
+ig
+
+m
+
+rä A
+
+l
+
+I s t
+
+t
+
+s
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,6
+
+ä
+
+lv
+
+,2
+
+,2
+
+,4
+
+6
+
+e
+
+6
+
+7
+
+6
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+a
+
+?
+
+k
+
+n
+
+is
+
+e
+
+r
+
+d
+
+a v
+
+e g
+
+to r
+
+in a
+
+in
+
+r
+
+m
+
+a ja
+
+d
+
+n
+
+is
+
+lä
+
+u s
+
+m
+
+h
+
+d i
+
+n ä
+
+c h
+
+r rv
+
+a r
+
+o c )
+
+g f
+
+a e
+
+r
+
+u o e
+
+rk d
+
+o m ?
+
+d p d e n
+
+r
+
+n
+
+s so a
+
+a a v u
+
+n n
+
+la k r
+
+r
+
+r
+
+s
+
+m
+
+in n a e n lä a ra
+
+a r
+
+f l
+
+d
+
+t
+
+s e
+
+lä g u l g
+
+g o
+
+k a
+
+n
+
+in k n
+
+in v i
+
+in la
+
+s
+
+g
+
+n i a n a
+
+n p
+
+l
+
+k
+
+l k r le k
+
+c r
+
+c e l c u
+
+a e
+
+rä g
+
+rä d o
+
+rä d
+
+n
+
+t
+
+m
+
+t
+
+K
+
+t r
+
+a
+
+in
+
+e (
+
+ä
+
+k
+
+ts
+
+n
+
+ts
+
+ts
+
+r
+
+n a
+
+m ?
+
+n
+
+e
+
+u tt k
+
+u r a
+
+u r
+
+v
+
+r
+
+r
+
+n ä e n go d n go
+
+m
+
+e ts v e
+
+n e
+
+a
+
+lk
+
+lk le a
+
+lk le
+
+S
+
+i u m
+
+i l r
+
+i l
+
+r
+
+.
+
+v ö a
+
+v o a
+
+v o
+
+2
+
+I f s
+
+I k v
+
+I k
 
 <!-- sida 92 -->
 
+Undervisande lärare Grundskola
+
 Resultat frågeområden      och  frågor
 
-T y c k e r d u a tt d u ly c k a s v a rie ra
-u n d e rv is n in g e n s å a tt e le v e rn a få r a rb e ta
-o lik a s ä tt?
-T y c k e r d u a tt n i lä ra re ly c k a s få e le v e rn a a
-tro p å s ig s jä lv a i s k o la rb e te t?
-T y c k e r d u a tt d u ly c k a s g e tillrä c k lig a
-u tm a n in g a r till d e e le v e r s o m k o m m it lå n
-s in k u n s k a p s u tv e c k lin g ?
-p å
-tt
-g t i
-M e d e
-7
-6
-6
-lv
-,2
-,6
-,3
-ä rd e
-H eh
-A
-lt o
-å lle
-n d e
-2 9 %
-1 0 %
-1 5 %
-c ht
-l
-T ill s to
-d e l
-A n d e l
-5 9 %
-7 6 %
-5 8 %
-r  T ill v is s
-d e l
-A n d e l
-1 1 %
-1 3 %
-2 6 %
-In te
-A n
-0
-a lls
-d e l
-\*
-%
-\*
-A
-Vin
-n
-1
-e t
-te
-d e l
-\*
-%
-\*
-M
-S
-e
-a
-d
-m
-e
-7
-6
-6
-tlig a
-lv ä rd
-,2
-,7
-,3
-e
 4\. Stöd                  Index 6,3 (Samtliga grundskola: 6,4)
+
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta upplever du att alla elever får den
 6,9   8%    64%  23%   \*\*\*   \*    0%    6,9
 hjälp de behöver på dina lektioner?
-3 . S tim u la n s
-H u r o fta ly c k
-fö r s k o la rb e
-a s d
-te t?
-u v ä c k a e le v e rn a s in tre s s e
-In
-M
-d
-e
-e
-d
-x 6 ,8
-e lv ä
-7 ,3
-(S
-rd
-a
-e
-m tlig a g ru
-A lltid
-A n d e l
-7 %
-n d s k o
-O
-A n
-7
-la : 6
-fta
-d e l
-7 %
-,9 )
-Ib la
-A n d
-1 5
-n
-e
-%
-d
-l
-S ä lla
-A n d e
-\*
-n
-l
-A
-A
-ld rig
-n d e l
-0 %
-V e
-A
-t in
-n d e
-\*
-te
-l M
-S
-e
-a
-d
-m
-e
-7
-tlig a
-lv ä rd
-,2
-e
-Undervisande lärare Grundskola
 Helt och Till stor Till viss Vet
 Inte alls   Samtliga
 hållet  del   del           inte
@@ -5347,94 +21901,859 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att alla dina elever får det stöd
 från skolan som behövs för att klara 5,6 9% 55% 32%     4%    1%    5,9
 skolarbetet?
+
 34
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+l
+
+t
+
+l
+
+,2
+
+t
+
+lv
+
+,2
+
+,7
+
+,3
+
+e
+
+7
+
+e
+
+7
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+l
+
+e
+
+l
+
+t
+
+t
+
+e
+
+te
+
+e
+
+in
+
+e
+
+d
+
+\*
+
+%
+
+\*
+
+d
+
+\*
+
+n
+
+1
+
+t
+
+V i
+
+n
+
+e
+
+n
+
+A
+
+V
+
+A
+
+l
+
+s
+
+g
+
+l
+
+l
+
+i
+
+e
+
+l
+
+r
+
+e
+
+d
+
+d %
+
+a
+
+%
+
+l
+
+n
+
+0
+
+d
+
+\*
+
+\*
+
+e
+
+n
+
+0
+
+A
+
+A
+
+t
+
+A
+
+In
+
+l
+
+n
+
+e
+
+la
+
+l
+
+d
+
+\*
+
+ä
+
+n
+
+s
+
+l
+
+S
+
+A
+
+is l
+
+e
+
+v e
+
+d
+
+%
+
+%
+
+%
+
+l
+
+1
+
+3
+
+6
+
+l d
+
+n
+
+1
+
+1
+
+2
+
+i
+
+d
+
+l
+
+T
+
+A
+
+n
+
+e %
+
+la
+
+d
+
+5
+
+n
+
+1
+
+b
+
+r
+
+I
+
+A
+
+l
+
+)
+
+to l
+
+e
+
+,9
+
+s e
+
+d
+
+%
+
+%
+
+%
+
+l
+
+l
+
+9
+
+6
+
+8
+
+6
+
+l d
+
+n
+
+5
+
+7
+
+5
+
+\:
+
+a
+
+e
+
+i
+
+A
+
+la
+
+ft
+
+d
+
+7%
+
+T
+
+o
+
+O
+
+n
+
+7
+
+sk
+
+A
+
+nd
+
+ch t
+
+l
+
+ru
+
+l
+
+o le
+
+e
+
+%
+
+%
+
+%
+
+d
+
+l
+
+d
+
+g
+
+i
+
+e
+
+t
+
+9
+
+0
+
+5
+
+t
+
+l å
+
+n
+
+2
+
+1
+
+1
+
+a
+
+l
+
+d %
+
+g
+
+l
+
+n
+
+7
+
+e h
+
+A
+
+li
+
+A
+
+A
+
+H
+
+t
+
+am
+
+e
+
+e
+
+S
+
+rd
+
+(
+
+rd
+
+ä
+
+,8
+
+ä
+
+lv
+
+,2
+
+,6
+
+,3
+
+lv
+
+,3
+
+6
+
+e
+
+7
+
+6
+
+6
+
+e
+
+7
+
+d
+
+x
+
+d
+
+e
+
+de
+
+e
+
+In
+
+M
+
+M
+
+i
+
+å
+
+t
+
+t
+
+e
+
+p
+
+t
+
+g
+
+s
+
+a
+
+a
+
+n
+
+s
+
+t
+
+a
+
+lå
+
+re
+
+e
+
+n
+
+t
+
+rb
+
+r
+
+it
+
+in
+
+a
+
+e
+
+a
+
+v
+
+m
+
+r
+
+ig
+
+s
+
+le
+
+l m
+
+a
+
+få
+
+e
+
+k o
+
+rn
+
+a
+
+c k
+
+få ? ä
+
+e
+
+a n
+
+t
+
+lr
+
+v
+
+r r
+
+l m
+
+e e
+
+s te
+
+i o
+
+le
+
+i v
+
+a
+
+t
+
+r
+
+k e
+
+s
+
+e
+
+a le
+
+c b e r
+
+r
+
+?
+
+a
+
+v e
+
+ly
+
+g e
+
+a
+
+v g
+
+k
+
+s t
+
+l s
+
+c
+
+t
+
+e
+
+le in
+
+a
+
+r o a
+
+l
+
+ä
+
+k a
+
+k k e
+
+v
+
+c
+
+a
+
+c k
+
+å
+
+r s
+
+c
+
+u
+
+ly
+
+ä i
+
+ly e
+
+s
+
+l
+
+e
+
+d
+
+d v
+
+?
+
+u
+
+i a u l t
+
+s t
+
+n
+
+v
+
+l
+
+e
+
+d e
+
+n l
+
+d i u
+
+a t
+
+t g
+
+t
+
+t t s
+
+k
+
+t
+
+t jä
+
+t r
+
+s
+
+c e
+
+in
+
+p
+
+y b
+
+a
+
+?
+
+a s
+
+a a a
+
+n
+
+l r
+
+n t
+
+t
+
+g
+
+g k
+
+la
+
+a
+
+u s
+
+u i u
+
+s
+
+a l
+
+d i ä d
+
+d in
+
+u
+
+t
+
+s
+
+n
+
+f o
+
+r rv s
+
+r
+
+r n
+
+im
+
+k
+
+e
+
+e å e
+
+u
+
+o
+
+e a
+
+a k
+
+t
+
+s
+
+k
+
+k k p k
+
+S
+
+r
+
+c d i c
+
+c m
+
+u r
+
+l
+
+o
+
+t n
+
+.
+
+y n
+
+y r y
+
+i
+
+3
+
+H fö
+
+T u o T t T u s
 
 <!-- sida 93 -->
 
+Undervisande lärare Grundskola
+
 Resultat frågeområden      och  frågor
 
-5 . K rit is k t tä n k a n d e
-
-H u r m y c k e t p ra ta r d
-a llt m a n h ö r o c h lä
-(k ä llk ritik )?
-H u r m y c k e t få r d in a
-d is k u te ra frå g o r d ä
-u p p fa ttn in g ?
-u m e d d in a e le v e r o m a
-s e r in te b e h ö v e r v a ra s a
-e le v e r ö v a p å a tt
-r m a n k a n h a o lik a
-tt
-n t
-In
-M
-d
-e
-e
-d
-x 6 ,6
-e lv ä
-6 ,9
-6 ,3
-(S
-rd
-a
-e
-m tlig a g ru n d
-V ä ld ig t
-m y c k e t
-A n d e l
-2 8 %
-1 8 %
-s k o la : 6 ,7
-G a n s k
-m y c k e
-A n d e
-5 2 %
-5 1 %
-)
-at
-l
-G a n s k
-lite
-A n d e
-1 7 %
-2 5 %
-a
-l
-lite
-V ä ld ig t
-/ In te a lls
-A n d e l
-1 %
-1 %
-A
-Vin
-n
-2
-4
-e t
-te
-d e l
-%
-%
-M
-S
-e
-a
-d
-m
-e
-6
-6
-tlig a
-lv ä rd
-,9
-,4
-e
-Undervisande lärare Grundskola
 6\. Bemötande - elever     Index 6,7 (Samtliga grundskola: 6,7)
+
 Ganska Ganska        Vet
 Mycket bra          Mycket dåligt Samtliga
 bra   dåligt        inte
@@ -5462,328 +22781,1366 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att ni lärare ger alla elever samma
 möjligheter oavsett om de är flickor, pojkar 8,7 62% 36% 1% 0% 1%   8,9
 eller har annan könsidentitet?
+
 35
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,9
+
+,4
+
+e
+
+6
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t
+
+e
+
+e te d
+
+%
+
+%
+
+V in n
+
+2
+
+4
+
+A
+
+ls
+
+l
+
+t
+
+a
+
+l
+
+ig
+
+te e
+
+ld
+
+d
+
+%
+
+%
+
+In n
+
+1
+
+1
+
+ä / A
+
+V e
+
+it
+
+l
+
+a
+
+l
+
+k
+
+s e e
+
+%
+
+%
+
+it d
+
+7
+
+5
+
+n l n
+
+1
+
+2
+
+a
+
+G
+
+A
+
+)
+
+a t
+
+l
+
+k e
+
+,7
+
+s k e
+
+%
+
+%
+
+6
+
+n c d
+
+2
+
+1
+
+\:
+
+y n
+
+5
+
+5
+
+la
+
+a
+
+A
+
+o
+
+G m
+
+sk
+
+d
+
+n
+
+t t
+
+l
+
+ru
+
+ig e e
+
+g
+
+d k d
+
+%
+
+%
+
+l c
+
+8
+
+8
+
+a
+
+y n
+
+g
+
+ä
+
+2
+
+1
+
+li
+
+V m A
+
+t
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,6
+
+ä
+
+lv
+
+,9
+
+,3
+
+6
+
+e
+
+6
+
+6
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+t
+
+tt n
+
+a a
+
+s
+
+m a
+
+o r
+
+r a
+
+a
+
+e v
+
+t k
+
+t i
+
+v r
+
+l
+
+e
+
+a
+
+l e
+
+o
+
+v
+
+å
+
+e ö
+
+a
+
+p
+
+a h
+
+a h
+
+in e
+
+v n
+
+b
+
+ö
+
+d
+
+a
+
+e
+
+r k
+
+d t
+
+e
+
+e in
+
+v n
+
+a
+
+m r
+
+le
+
+e
+
+e m
+
+u s
+
+r
+
+d ä
+
+a ä
+
+l
+
+e
+
+r
+
+in d
+
+d
+
+a
+
+r
+
+n
+
+t h
+
+d
+
+a
+
+a c
+
+r o
+
+k
+
+r o
+
+å g
+
+n
+
+p r
+
+f å ?
+
+ä
+
+t ö ?
+
+t fr g
+
+t
+
+)
+
+e h k e
+
+in
+
+t
+
+k
+
+i k ra
+
+k
+
+c n it c
+
+tn
+
+is
+
+y a r y te t
+
+it
+
+k
+
+a
+
+r
+
+m m l
+
+m u f
+
+r t l
+
+r k
+
+K
+
+l ä
+
+s p
+
+.
+
+u l
+
+u i p
+
+5
+
+H a (k H d u
 
 <!-- sida 94 -->
 
+Undervisande lärare Grundskola
+
 Resultat frågeområden      och  frågor
 
-8 . E le v in fly ta n d e
-
-H u r m y c k e t få r d in a e le v e r, u tifrå n å ld e r o
-m o g n a d , v a ra m e d o c h p å v e rk a h u r n i s k a
-a rb e ta p å le k tio n e rn a ?
-H u r m y c k e t u p p le v e r d u a tt d e v u x n a i s k o
-ly s s n a r p å fö rs la g frå n e le v e rn a , till e x e m
-frå n k la s s rå d e lle r e le v rå d ?
-c h
-la n
-p e l
-In
-M
-d
-e
-e
-d
-x 6 ,2
-e lv ä
-5 ,7
-6 ,8
-(S
-rd
-a
-e
-m tlig a g ru n d
-V ä ld ig t
-m y c k e t
-A n d e l
-8 %
-1 7 %
-s k o la : 6 ,2
-G a n s k
-m y c k e
-A n d e
-5 7 %
-6 4 %
-)
-at
-l
-G a n s k
-lite
-A n d e
-3 4 %
-1 2 %
-a
-l
-lite
-V ä ld ig t
-/ In te a lls
-A n d e l
-\*
-1 %
-A
-Vin
-n
-6
-e t
-te
-d e l
-\*
-%
-M
-S
-e
-a
-d
-m
-e
-5
-6
-tlig a
-lv ä rd
-,7
-,8
-e
 9\. Studiero              Index 6,9 (Samtliga grundskola: 6,9)
+
 Aldrig Sällan Ibland Ofta Alltid Vet inte Samtliga
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
+
 Hur ofta går en stor del av lektionstiden till
 6,3   10%   47%  31%   11%   \*    \*     6,3
 att upprätthålla ordningen?
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta upplever du att det är studiero på
 7,4   13%   70%  15%   \*    0%    \*     7,4
 dina lektioner?
-1
-U
-s
-U
-s
-0 . T r y g g
-p p le v e
-k o la n ?
-p p le v e
-k o la n ?
-h e
-r d
-r d
-t
-u
-u
-a
-a
-tt e
-tt e
-le
-le
-v
-v
-e
-e
-rn
-rn
-a
-a
-k
-k
-a
-ä
-n
-n
-v a
-n e
-ra
-r s
-s
-ig
-ig s
-try
-jä
-g g
-lv
-a
-a i
-i
-In
-M
-d
-e
-e
-d
-x 6 ,4
-e lv ä
-6 ,1
-6 ,7
-(S
-rd
-a
-e
-m tlig
-H e
-h
-A
-a g ru n
-lt o c h
-å lle t
-n d e l
-1 0 %
-1 3 %
-d s k o la : 6 ,5 )
-T ill s to
-d e l
-A n d e l
-6 3 %
-7 4 %
-r  T ill v is s
-d e l
-A n d e l
-2 6 %
-\* \* \*
-In te
-A n
-0
-a lls
-d e l
-\*
-%
-A
-V
-in
-n
-e t
-te
-d e l
-\*
-\*
-M
-S
-e
-a
-d
-m
-e
-6
-6
-tlig a
-lv ä rd
-,4
-,7
-e
-Undervisande lärare Grundskola
+
 36
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+l
+
+t
+
+l
+
+,7
+
+,8
+
+t
+
+lv
+
+,4
+
+,7
+
+e
+
+5
+
+6
+
+e
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+l
+
+l
+
+t e e
+
+t
+
+e
+
+e t d
+
+\*
+
+%
+
+e te d
+
+\*
+
+\*
+
+V in n
+
+6
+
+V in n
+
+A
+
+A
+
+ls
+
+l
+
+t
+
+s
+
+a
+
+l
+
+l
+
+l
+
+g
+
+l
+
+i
+
+e
+
+e
+
+d te
+
+%
+
+a
+
+%
+
+l
+
+d
+
+\*
+
+d
+
+\*
+
+In n
+
+1
+
+e
+
+n
+
+0
+
+ä / A
+
+t
+
+A
+
+V e
+
+In
+
+it
+
+l
+
+a
+
+l
+
+s
+
+l
+
+s
+
+k
+
+e
+
+i l e
+
+\*
+
+s te d
+
+%
+
+%
+
+v e d %
+
+\*
+
+n i
+
+4
+
+2
+
+l
+
+6
+
+l n
+
+3
+
+1
+
+l d n
+
+2
+
+\*
+
+a
+
+i
+
+G
+
+A
+
+T
+
+A
+
+t
+
+r
+
+)
+
+a
+
+l
+
+)
+
+o
+
+l
+
+,2
+
+k e e
+
+,5
+
+t l e
+
+6
+
+s k d
+
+%
+
+%
+
+s e d %
+
+%
+
+n c
+
+7
+
+4
+
+6
+
+l
+
+3
+
+4
+
+\:
+
+y n
+
+5
+
+6
+
+\:
+
+l d n
+
+6
+
+7
+
+a
+
+a
+
+i
+
+l
+
+A
+
+la
+
+A
+
+o
+
+G m
+
+o
+
+T
+
+sk
+
+sk
+
+d
+
+d
+
+n
+
+t t
+
+l
+
+n
+
+h t
+
+l
+
+ru
+
+ig e e
+
+ru
+
+c
+
+k
+
+%
+
+o le e %
+
+%
+
+g
+
+d
+
+d
+
+%
+
+g
+
+d
+
+l c
+
+7
+
+t l
+
+0
+
+3
+
+a
+
+y n
+
+8
+
+1
+
+a
+
+l å n
+
+1
+
+1
+
+ig
+
+ä
+
+A
+
+g
+
+e h A
+
+l
+
+V m
+
+li
+
+t
+
+t
+
+H
+
+am
+
+e
+
+am
+
+e
+
+S
+
+d
+
+S
+
+(
+
+r
+
+(
+
+rd
+
+,2
+
+ä
+
+,4
+
+ä
+
+lv
+
+,7
+
+,8
+
+lv
+
+,1
+
+,7
+
+6
+
+6
+
+x
+
+e
+
+5
+
+6
+
+e
+
+6
+
+6
+
+e
+
+d
+
+x
+
+d
+
+d
+
+e
+
+de
+
+e
+
+In
+
+M
+
+In
+
+M
+
+l
+
+i
+
+n e
+
+i
+
+h
+
+a
+
+c
+
+la p
+
+v
+
+l
+
+a
+
+o a
+
+o m
+
+g
+
+r k
+
+k e
+
+jä
+
+g
+
+e s
+
+s x
+
+s
+
+y
+
+i
+
+i
+
+r
+
+d
+
+e
+
+g
+
+t
+
+l
+
+i
+
+n
+
+a l
+
+å r
+
+l
+
+s
+
+g
+
+n i
+
+i
+
+n u
+
+x t
+
+a
+
+s
+
+,
+
+r
+
+r
+
+rå h
+
+u
+
+f
+
+v a
+
+a
+
+e
+
+i a
+
+n
+
+v
+
+n
+
+t rk
+
+e r
+
+u
+
+d e
+
+n
+
+n
+
+, e
+
+v ?
+
+a
+
+ä
+
+r v
+
+tt
+
+d
+
+k
+
+k
+
+å
+
+le
+
+e
+
+a
+
+rå
+
+a
+
+a
+
+v p
+
+e v
+
+le h ? u
+
+rn
+
+rn
+
+a
+
+d n le
+
+e c n
+
+r å
+
+e
+
+e
+
+o r
+
+r e
+
+v
+
+v
+
+a
+
+e f
+
+e
+
+e
+
+d e v
+
+r
+
+l
+
+l
+
+in e n e g le
+
+e
+
+e
+
+l a
+
+d
+
+o
+
+l l
+
+e
+
+i
+
+t
+
+t
+
+m
+
+p s e
+
+t
+
+t
+
+d
+
+r
+
+t
+
+r
+
+å a k p
+
+a
+
+a
+
+an
+
+f r e
+
+u ö d
+
+l
+
+f å
+
+t
+
+u
+
+u
+
+t
+
+t a
+
+t
+
+r
+
+y
+
+e v
+
+e å s
+
+e
+
+d
+
+d
+
+l
+
+, å
+
+h
+
+r
+
+r
+
+f
+
+k
+
+p k p s
+
+g
+
+c d c
+
+e ? e ?
+
+in
+
+y
+
+y r la
+
+g
+
+v
+
+v
+
+a a
+
+a
+
+y
+
+n
+
+n
+
+v
+
+m n t m
+
+k
+
+r
+
+le a
+
+le a
+
+le
+
+n
+
+l
+
+l
+
+r g e
+
+r s n
+
+T
+
+E
+
+o b
+
+s
+
+.
+
+p o p o
+
+.
+
+u
+
+r u
+
+rå
+
+0
+
+p k p k
+
+8
+
+H m a H ly f
+
+1
+
+U s U s
 
 <!-- sida 95 -->
 
+Undervisande lärare Grundskola
+
 Resultat frågeområden      och  frågor
 
-1 1 . F ö rh in d ra k rä n k n in g a r
-
-U p p le v e r d u a tt n i v u x n a i s k o
-p å v a d s o m h ä n d e r p å ra s te rn
-
-U p p le v e r d u a tt n i v u x n a i s k o
-tillrä c k lig t o m e n e le v b lir illa
-la n
-a ?
-la n
-b e
-h
-gh
-a
-öa
-r k
-r
-n d
-o ll
-la d ?
-In d
-M e
-M
-e
-d
-e
-x 7 ,1
-e lv ä
-6 ,6
-d e lv
-7 ,6
-(S a
-rd e
-ä rd
-m
-e
-tlig a g ru
-A lltid
-A n d e l
-3 %
-H e lt o
-h å lle
-A n d e
-3 4 %
-n d
-c ht
-l
-s k o
-O
-A n
-6
-la : 7 ,3 )
-fta Ib la
-d e l A n d
-3 %  2 9
-T ill s to r
-d e l
-A n d e l
-5 8 %
-n
-e
-%
-d
-l
-T ill v
-d e
-A n d
-7 %
-S ä lla
-A n d e
-3 %
-is s
-l
-e l
-n
-l
-A ld rig
-A n d e l
-\*
-In te a lls
-A n d e l
-\*
-V e t in te
-A n d e l
-\*
-V e t
-in te
-A n d e l
-\*
-M
-M
-S a m
-e d e
-6
-S a m
-e d e
-7
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,6
-e
-e
-Undervisande lärare Grundskola
 12\. Särskilt stöd         Index 5,9 (Samtliga grundskola: 6,0)
+
 Helt och Till stor Till viss Vet
 Inte alls   Samtliga
 hållet  del   del           inte
@@ -5800,6 +24157,7 @@ Tycker du att skolan ger stöd i enlighet med
 de behov som utredningar om särskilt stöd 5,8 13% 44% 33% 2%  8%    5,9
 visar?
 13\. Bedömning och betygsättning Index 6,3 (Samtliga grundskola: 6,3)
+
 I mycket I ganska I ganska I väldigt liten
 Vet
 stor ut- stor ut- liten ut- utsträckning/ Samtliga
@@ -5814,114 +24172,604 @@ skolan för att säkerställa att bedömningar 6,1 15% 46% 26% 3% 11%   6,2
 och omdömen/betyg är likvärdiga?
 37
 
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+l
+
+t
+
+l
+
+,9
+
+t
+
+lv
+
+,6
+
+e
+
+6
+
+e
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+l
+
+e
+
+l
+
+t
+
+t
+
+e
+
+e
+
+te
+
+in
+
+e
+
+d
+
+\*
+
+d
+
+\*
+
+n
+
+t
+
+V i n
+
+e
+
+n
+
+A
+
+V
+
+A
+
+l
+
+s
+
+ig
+
+l
+
+l
+
+r
+
+e
+
+l
+
+d
+
+d
+
+\*
+
+a
+
+e
+
+l
+
+n
+
+d
+
+\*
+
+A
+
+A
+
+te
+
+n
+
+In
+
+A
+
+l
+
+n
+
+e
+
+la
+
+%
+
+l
+
+d
+
+ä
+
+n
+
+3
+
+s
+
+l
+
+S
+
+A
+
+is l e
+
+v e d %
+
+l
+
+7
+
+l d n
+
+i
+
+d
+
+l
+
+T
+
+A
+
+n
+
+e %
+
+la
+
+d
+
+9
+
+n
+
+2
+
+b
+
+r
+
+I
+
+A
+
+l
+
+)
+
+to l e
+
+,3
+
+s e d %
+
+l
+
+l
+
+8
+
+7
+
+l d n
+
+5
+
+\:
+
+a
+
+e
+
+i
+
+A
+
+la
+
+ft
+
+d
+
+3%
+
+T
+
+o
+
+O
+
+n
+
+6
+
+sk
+
+A
+
+nd
+
+ch t
+
+l
+
+ru
+
+l
+
+o le e %
+
+d
+
+l d
+
+g
+
+i
+
+e
+
+t
+
+4
+
+t
+
+l å n
+
+3
+
+a
+
+l
+
+d %
+
+g
+
+l
+
+n
+
+3
+
+e h A
+
+li
+
+A
+
+A
+
+H
+
+t
+
+am
+
+e
+
+e
+
+S
+
+rd
+
+(
+
+rd
+
+ä
+
+,1
+
+ä
+
+lv
+
+,6
+
+lv
+
+,6
+
+7
+
+e
+
+7
+
+e
+
+6
+
+d
+
+x
+
+d
+
+e
+
+de
+
+e
+
+In
+
+M
+
+M
+
+?
+
+l
+
+l
+
+d
+
+o
+
+la
+
+k
+
+d
+
+r
+
+r n
+
+a
+
+ö a
+
+h
+
+g h
+
+n ?
+
+n e
+
+la a
+
+la b
+
+o n
+
+o la
+
+r
+
+l
+
+k e
+
+k i
+
+s t
+
+s
+
+i
+
+i r
+
+s
+
+i
+
+a
+
+l
+
+r
+
+a r
+
+a b
+
+a
+
+n
+
+n
+
+g
+
+x å
+
+x v
+
+in
+
+u p
+
+u le
+
+v r
+
+v
+
+n
+
+i
+
+i e
+
+k
+
+e
+
+n
+
+n d
+
+n n
+
+ä
+
+t n
+
+tt e
+
+r
+
+t ä
+
+k
+
+a
+
+a m
+
+h
+
+ra
+
+u
+
+u o
+
+d
+
+d m
+
+d t
+
+r
+
+r g
+
+in
+
+o
+
+i
+
+e s
+
+e l
+
+h
+
+v
+
+v
+
+r
+
+d
+
+ck
+
+ö
+
+le a
+
+le
+
+F
+
+v
+
+p rä
+
+.
+
+p
+
+l
+
+l
+
+1
+
+p å
+
+p i
+
+1
+
+U p
+
+U t
+
 <!-- sida 96 -->
+
+Undervisande lärare Grundskola
 
 Resultat frågeområden      och  frågor
 
-1 4
-
-I v
-s k
-s k
-s a
-I v
-s k
-s y
-I v
-u t
-s o
-. P e d a g o g is k t le d a rs k a p
-ilk e n u t s t rä c k n in g t y c k e r d u a t t
-o lle d n in g e n h a r t illrä c k lig k ä n n e d o m o m
-o la n s v e rk s a m h e t fö r a t t le d a o c h
-m o rd n a d e n ?
-ilk e n u t s t rä c k n in g ä r n i lä ra re d e la k t ig a i
-o la n s u p p fö ljn in g s a rb e t e (s o m d e l i d e t
-s t e m a t is k a k v a lit e t s a rb e t e t )?
-ilk e n u t s t rä c k n in g g e n o m fö rs
-v e c k lin g s in s a t s e r o c h fö rb ä t trin g s a rb e t e n
-m d u t y c k e r b e h ö v s i s k o la n ?
-In
-M
-d
-e
-e
-d
-x 7 ,2
-e lv ä
-7 ,3
-7 ,7
-6 ,4
-(S
-rd
-a
-e
-m tlig a g ru n d
-I m y c k e t
-s t o r u t -
-s t rä c k n in g
-A n d e l
-3 3 %
-3 9 %
-1 7 %
-s k o la : 7 ,2
-I g a n s
-s t o r u
-s t rä c k n
-A n d e
-5 2 %
-4 7 %
-5 2 %
-)
-k at
-\-
-in
-l
-g s
-I g a n s k a
-lit e n u t -
-t rä c k n in g
-A n d e l
-1 1 %
-6 %
-2 1 %
-I v ä ld ig t lit e n
-u t s t rä c k n in g /
-in t e a lls
-A n d e l
-1 %
-1 %
-2 %
-A
-Vin
-n
-3
-7
-8
-et
-d
-%
-%
-%
-te
-e l M
-S
-e
-a
-d
-m
-e
-7
-7
-6
-t lig a
-lv ä rd
-,5
-,8
-,5
-e
-Undervisande lärare Grundskola
 15\. Uppföljning           Index 7,3 (Samtliga grundskola: 7,7)
+
 I mycket I ganska I ganska I väldigt liten
 Vet
 stor ut- stor ut- liten ut- utsträckning/ Samtliga
@@ -5952,6 +24800,644 @@ Hur uppfattar du möjligheterna för er lärare
 att få stöd från elevhälsan om det skulle 6,8 26% 50% 17% 3%  4%    6,9
 behövas?
 38
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,5
+
+,8
+
+,5
+
+e
+
+7
+
+7
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t e
+
+e
+
+e t
+
+d
+
+%
+
+%
+
+%
+
+V in
+
+n
+
+3
+
+7
+
+8
+
+A
+
+/
+
+n g
+
+te n s
+
+i i l
+
+l
+
+l
+
+l
+
+n
+
+e
+
+t k a
+
+%
+
+%
+
+%
+
+ig c
+
+d
+
+1
+
+1
+
+2
+
+ä te n
+
+ld tr n A
+
+ä s i
+
+v t
+
+I u
+
+g
+
+a -
+
+k t in
+
+l
+
+s u n e
+
+%
+
+%
+
+n n ck d
+
+1
+
+6%
+
+1
+
+a te
+
+n
+
+1
+
+2
+
+g i rä A
+
+I l t
+
+s
+
+g
+
+a -
+
+)
+
+k t in
+
+l
+
+,2
+
+s u n e
+
+%
+
+%
+
+%
+
+r k d
+
+7
+
+n
+
+2
+
+7
+
+2
+
+\:
+
+o c n
+
+a t
+
+5
+
+4
+
+5
+
+la
+
+g s rä A
+
+I
+
+t
+
+o
+
+s
+
+sk
+
+g
+
+d
+
+t -
+
+un
+
+e t in
+
+l
+
+r
+
+k u n e
+
+%
+
+%
+
+%
+
+g
+
+c r k d
+
+y
+
+c
+
+3
+
+9
+
+7
+
+a
+
+to
+
+n
+
+3
+
+3
+
+1
+
+ig
+
+m
+
+rä A
+
+l
+
+I s t
+
+t
+
+s
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,2
+
+ä
+
+lv
+
+,3
+
+,7
+
+,4
+
+7
+
+e
+
+7
+
+7
+
+6
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+i
+
+n
+
+m
+
+t
+
+a
+
+te
+
+o
+
+e
+
+ig
+
+e
+
+d
+
+m
+
+t i
+
+b
+
+r
+
+o
+
+k l
+
+a
+
+d
+
+la e
+
+h
+
+s
+
+e c
+
+e d
+
+g
+
+t n o
+
+d
+
+n
+
+t
+
+i
+
+n a
+
+e m ? s r
+
+a ä
+
+r o )
+
+r tt ?
+
+k d
+
+a s t
+
+n
+
+u
+
+e
+
+r ( e ö ä
+
+g l
+
+f
+
+a
+
+d i
+
+ä
+
+t
+
+b l
+
+l t
+
+l e
+
+r
+
+r
+
+t e m
+
+o
+
+k t
+
+i
+
+ö
+
+e
+
+e b o f k
+
+c a
+
+r
+
+p
+
+k
+
+n b
+
+n
+
+s
+
+c ä r
+
+r r a
+
+h i
+
+a
+
+y lr ö
+
+a s e c
+
+k
+
+t l f
+
+ä
+
+t
+
+g
+
+s
+
+s
+
+i t
+
+s e
+
+o v
+
+r
+
+g t
+
+g g t g r
+
+e
+
+i
+
+ö
+
+a
+
+in r
+
+in in l
+
+in e
+
+d
+
+a h
+
+s h
+
+le
+
+n h
+
+n jn a n t e
+
+k m ? k l v k a
+
+t
+
+c
+
+a
+
+c
+
+k c s b
+
+k
+
+ä n s n ä fö
+
+ä
+
+r
+
+s
+
+r e k e
+
+r
+
+a
+
+r in e
+
+i
+
+t g r d
+
+t p k
+
+t
+
+g
+
+s
+
+s
+
+s s s k
+
+o
+
+t in e a
+
+t p i
+
+t g c
+
+v
+
+u t
+
+ty
+
+g
+
+u n
+
+n
+
+u
+
+u in
+
+a
+
+s
+
+s a
+
+l
+
+d
+
+n d n rd n n
+
+n
+
+u
+
+e
+
+e le a o e a m e ck d
+
+k l l
+
+k l e k
+
+P
+
+l
+
+l
+
+t
+
+l e
+
+.
+
+i o o m
+
+i o s
+
+i v m
+
+4
+
+v k k a
+
+v k y
+
+v t o
+
+1
+
+I s s s
+
+I s s
+
+I u s
 
 <!-- sida 97 -->
 
@@ -6005,118 +25491,531 @@ bolag eller en förening som driver en fristående skola.
 
 <!-- sida 98 -->
 
+Undervisande lärare Gymnasieskola
+
 Resultat indexvärden     – tabell
 
 Tabell över indexvärden (0–10). Ett högt indexvärde indikerar en positiv uppfattning. Läs
 
 mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 
-1
-2
-
-3
-4
-
-5
-6
-
-7
-8
-
-9
-1
-
-1
-1
-
-1
-1
-
-1
-1
-. In fo r m a tio n o m u tb ild n in g e
-. S a m v e r k a n
-. S t im u la n s
-. S t ö d
-. K r itis k t tä n k a n d e
-. B e m ö ta n d e - e le v e r
-. Jä m s tä lld h e t
-. E le v in fl y ta n d e
-. S t u d ie r o
-0 . T r y g g h e t
-1 . F ö r h in d r a k r ä n k n in g a r
-2 . S ä r s k ilt s tö d
-3 . B e d ö m n in g o c h b e ty g s ä ttn
-4 . P e d a g o g is k t le d a r s k a p
-5 . U p p fö ljn in g
-6 . E le v h ä ls a
-n
-in g
-K u n g sg by am c k a k o
-n a s iu
-7 ,6
-6 ,5
-6 ,7
-6 ,9
-6 ,7
-7 ,1
-8 ,3
-6 ,7
-7 ,2
-6 ,2
-6 ,3
-6 ,9
-5 ,9
-7 ,1
-7 ,7
-7 ,3
-mm m u n S a
-s k o
-m tlig
-le n h
-ae m
-te r
-7
-6
-6
-7
-6
-7
-8
-6
-7
-6
-6
-6
-6
-6
-7
-7
-e d
-g y
-,5
-,6
-,8
-,1
-,7
-,5
-,2
-,4
-,4
-,8
-,6
-,5
-,3
-,9
-,5
-,5
-vm e rn ka as n d
-iu
-em
-Undervisande lärare Gymnasieskola
 40
 
+e m
+
+d iu
+
+n s
+
+a a
+
+rk n
+
+ve m
+
+d y
+
+e g
+
+,5
+
+,6
+
+,8
+
+,1
+
+,7
+
+,5
+
+,2
+
+,4
+
+,4
+
+,8
+
+,6
+
+,5
+
+,3
+
+,9
+
+,5
+
+,5
+
+r
+
+7 6 6 7 6 7 8 6 7 6 6 6 6 6 7 7
+
+m te
+
+a e
+
+ig h
+
+l
+
+t n
+
+le
+
+am ko
+
+S s
+
+n
+
+u
+
+m
+
+m m
+
+o iu
+
+k s
+
+a
+
+,6 5
+
+,7 9
+
+,7 1
+
+,3 7
+
+,2 2
+
+,3 9
+
+,9 1
+
+,7 3
+
+k a
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+,
+
+c n
+
+7 6 6 6 6 7 8 6 7 6 6 6 5 7 7 7
+
+a
+
+ym
+
+sb g
+
+g
+
+n
+
+u
+
+K
+
+g
+
+n
+
+in
+
+e
+
+n
+
+g
+
+tt
+
+in
+
+r
+
+ä
+
+n
+
+a
+
+s p
+
+ld
+
+g
+
+g
+
+a
+
+i
+
+y
+
+k
+
+in
+
+t
+
+s
+
+tb
+
+r
+
+e
+
+r
+
+e
+
+n
+
+b
+
+a
+
+u
+
+e
+
+v
+
+k
+
+n
+
+h d
+
+m
+
+d
+
+le
+
+c
+
+le
+
+n
+
+e
+
+e
+
+rä
+
+o
+
+o
+
+a
+
+t
+
+d
+
+t
+
+k
+
+\-
+
+d
+
+k ö
+
+g
+
+k
+
+g
+
+n
+
+e
+
+e n
+
+t n
+
+s
+
+in
+
+o n
+
+n
+
+h
+
+a
+
+s
+
+i
+
+i
+
+a
+
+i
+
+s
+
+d
+
+ta
+
+t
+
+r
+
+g n
+
+s
+
+t
+
+a
+
+tä
+
+ld
+
+e d
+
+t n
+
+j
+
+l
+
+k n
+
+n
+
+l
+
+y o
+
+l
+
+o
+
+l
+
+a
+
+r
+
+a
+
+t
+
+a
+
+l
+
+r h n
+
+i m
+
+ä
+
+e
+
+l
+
+k
+
+t
+
+ä
+
+f
+
+g
+
+i
+
+k
+
+g
+
+fö
+
+m
+
+u
+
+t n
+
+ie
+
+h
+
+s ö
+
+a
+
+h
+
+r
+
+v
+
+is ö
+
+s
+
+i
+
+g
+
+r
+
+r d d p
+
+v
+
+d
+
+t
+
+v d
+
+y
+
+e
+
+fo m
+
+im ö
+
+i m m
+
+u
+
+r ö
+
+ä
+
+e
+
+e p
+
+l
+
+a
+
+t
+
+t
+
+r
+
+e
+
+le
+
+t
+
+T
+
+F
+
+S
+
+B
+
+P
+
+U
+
+E
+
+n
+
+ä
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+I
+
+S
+
+S
+
+S
+
+K
+
+B
+
+J
+
+E
+
+S
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+. 0 1 2 3 4 5 6
+
+1 2 3 4 5 6 7 8 9 1 1 1 1 1 1 1
+
 <!-- sida 99 -->
+
+Undervisande lärare Gymnasieskola
 
 Resultat indexvärden     – jämförelser
 
@@ -6133,51 +26032,112 @@ skolenheterna ligger över. På motsvarande sätt uttolkas den nedre kvartilen (
 medianen (p50) och den övre kvartilen (p75). Den svarta punkten visar medelvärdet för
 den aktuella huvudmannen/skolenheten.
 
-E x e m p e l
-
-0  1
-p 1
-2
-0 p
-3
-2 5
-4
-M
-p
-e
-5 0
-5
-d e lv ä
-p 7 5
-6
-r d e
-7
-n
-p
-8
-9 0
-9 1 0
-Undervisande lärare Gymnasieskola
 1\. Information om utbildningen
 2\. Samverkan
 3\. Stimulans
+
 4\. Stöd
 5\. Kritiskt tänkande
 6\. Bemötande - elever
+
 7\. Jämställdhet
 8\. Elevinflytande
+
 9\. Studiero
 10\. Trygghet
 11\. Förhindra kränkningar
+
 12\. Särskilt stöd
 13\. Bedömning och betygsättning
+
 14\. Pedagogiskt ledarskap
 15\. Uppföljning
 16\. Elevhälsa
+
 0  1  2  3  4  5  6  7  8   9 10
 41
 
+10
+
+9
+
+0
+
+9
+
+p
+
+8
+
+5
+
+7
+
+n
+
+7
+
+e
+
+p
+
+rd
+
+6
+
+ä
+
+lv
+
+0
+
+5
+
+e
+
+5
+
+d
+
+p
+
+e
+
+4 M
+
+5
+
+2
+
+p
+
+3
+
+0
+
+1
+
+p
+
+2
+
+1
+
+0
+
+l
+
+pe
+
+m
+
+xe
+
+E
+
 <!-- sida 100 -->
+
+Undervisande lärare Gymnasieskola
 
 Resultat frågeområden      och  frågor
 
@@ -6199,221 +26159,575 @@ undervisar i?
 Tycker du att dina elever får veta hur det går
 7,9   41%    54%    \*      0%     \*    7,7
 för dem i dina ämnen?
-2 . S a m v e rk a n
 
-I v ilk e n u t s t rä c k n in g fin n s o rg a n is a t o ris k
-fö ru t s ä t tn in g a r i s k o la n s o m frä m ja r
-s a m v e rk a n m e lla n lä ra rn a ?
-I v ilk e n u t s t rä c k n in g d e la r d u o c h d in a
-k o lle g o r m e d e r a v k u n s k a p o c h lä r a v
-v a ra n d ra ? (K o lle g ia lt lä ra n d e )
-I v ilk e n u t s t rä c k n in g s a m v e rk a r d u m e d
-k o lle g o r n ä r d u p la n e ra r u n d e rv is n in g e n
-a
-?
-In
-M
-d
-e
-e
-d
-x 6 ,5
-e lv ä
-6 ,0
-7 ,2
-6 ,3
-(S
-rd
-a
-e
-m tlig a g y
-I m y c k
-s t o r u
-s t rä c k n
-A n d e
-1 4 %
-3 9 %
-2 8 %
-m n
-e t
-t -
-in g
-l
-a s iu m : 6 ,6 )
-I g a n s k a
-s t o r u t -
-s t rä c k n in
-A n d e l
-5 2 %
-4 2 %
-3 9 %
-g s
-I g a n
-lit e n
-t rä c k
-A n d
-2 6
-1 7
-2 6
-s k a
-u t -
-n in g
-e l
-%
-%
-%
-I v ä ld ig t lit e n
-u t s t rä c k n in g /
-in t e a lls
-A n d e l
-4 %
-\*
-\* \*
-A
-V
-in
-n
-4
-e
-t
-d
-%
-\*
-\*
-t
-e
-e l M
-S
-e
-a
-d
-m
-e
-6
-7
-6
-t lig a
-lv ä rd
-,3
-,3
-,1
-e
-Undervisande lärare Gymnasieskola
 42
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,3
+
+,3
+
+,1
+
+e
+
+6
+
+7
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t e
+
+e
+
+e t
+
+d
+
+%
+
+\*
+
+\*
+
+V in
+
+n
+
+4
+
+A
+
+/
+
+n g
+
+te n s
+
+i i l
+
+l
+
+l
+
+l
+
+n
+
+e
+
+t k a
+
+%
+
+\*
+
+ig c
+
+d
+
+4
+
+\*
+
+\*
+
+ä te n
+
+ld tr n A
+
+ä s i
+
+v t
+
+I u
+
+g
+
+a -
+
+k t in
+
+l
+
+s u n e
+
+%
+
+%
+
+%
+
+n n ck d
+
+6
+
+7
+
+6
+
+a te
+
+n
+
+2
+
+1
+
+2
+
+g i rä A
+
+I l t
+
+s
+
+g
+
+)
+
+a -
+
+t in
+
+l
+
+,6
+
+k
+
+s u n e
+
+%
+
+%
+
+%
+
+6
+
+r k d
+
+\:
+
+n
+
+c
+
+2
+
+2
+
+9
+
+a to
+
+n
+
+5
+
+4
+
+3
+
+m
+
+g s rä A
+
+iu
+
+I
+
+t
+
+s
+
+s
+
+a
+
+g
+
+n
+
+t -
+
+m
+
+e t in
+
+l
+
+y
+
+k u n e
+
+%
+
+%
+
+%
+
+g
+
+c r k d
+
+y
+
+c
+
+4
+
+9
+
+8
+
+a
+
+to
+
+n
+
+1
+
+3
+
+2
+
+ig
+
+m
+
+rä A
+
+l
+
+I s t
+
+t
+
+s
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,5
+
+ä
+
+lv
+
+,0
+
+,2
+
+,3
+
+6
+
+e
+
+6
+
+7
+
+6
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+a
+
+?
+
+k
+
+n
+
+is
+
+e
+
+r
+
+d
+
+a v
+
+e g
+
+to r
+
+in a
+
+in
+
+r
+
+m
+
+a ja
+
+d
+
+n
+
+is
+
+lä
+
+u s
+
+m
+
+h
+
+d i
+
+n ä
+
+c h
+
+r rv
+
+a r
+
+o c )
+
+g f
+
+a e
+
+r
+
+u o e
+
+rk d
+
+o m ?
+
+d p d e n
+
+r
+
+n
+
+s so a
+
+a a v u
+
+n n
+
+la k r
+
+r
+
+r
+
+s
+
+m
+
+in n a e n lä a ra
+
+a r
+
+f l
+
+d
+
+t
+
+s e
+
+lä g u l g
+
+g o
+
+k a
+
+n
+
+in k n
+
+in v i
+
+in la
+
+s
+
+g
+
+n i a n a
+
+n p
+
+l
+
+k
+
+l k r le k
+
+c r
+
+c e l c u
+
+a e
+
+rä g
+
+rä d o
+
+rä d
+
+n
+
+t
+
+m
+
+t
+
+K
+
+t r
+
+a
+
+in
+
+e (
+
+ä
+
+k
+
+ts
+
+n
+
+ts
+
+ts
+
+r
+
+n a
+
+m ?
+
+n
+
+e
+
+u tt k
+
+u r a
+
+u r
+
+v
+
+r
+
+r
+
+n ä e n go d n go
+
+m
+
+e ts v e
+
+n e
+
+a
+
+lk
+
+lk le a
+
+lk le
+
+S
+
+i u m
+
+i l r
+
+i l
+
+r
+
+.
+
+v ö a
+
+v o a
+
+v o
+
+2
+
+I f s
+
+I k v
+
+I k
 
 <!-- sida 101 -->
 
+Undervisande lärare Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-3 . S tim u la n s
-
-H u r o fta ly c k a s d u v ä c k a e le v e rn a s in tre s s
-fö r s k o la rb e te t?
-
-T y c k e r d u a tt d u ly c k a s v a rie ra
-u n d e rv is n in g e n s å a tt e le v e rn a få r a rb e ta
-o lik a s ä tt?
-T y c k e r d u a tt n i lä ra re ly c k a s få e le v e rn a a
-tro p å s ig s jä lv a i s k o la rb e te t?
-T y c k e r d u a tt d u ly c k a s g e tillrä c k lig a
-u tm a n in g a r till d e e le v e r s o m k o m m it lå n
-s in k u n s k a p s u tv e c k lin g ?
-In d
-M e
-e
-M
-p å
-tt
-g t i
-e
-d
-e
-x 6 ,7
-e lv ä
-7 ,0
-d e lv
-7 ,2
-6 ,4
-6 ,2
-(S a
-rd e
-ä rd
-m
-e
-tlig a g y m n
-A lltid
-A n d e l
-3 %
-H e lt o c h
-h å lle t
-A n d e l
-3 3 %
-9 %
-1 9 %
-a s iu m : 6 ,8 )
-O fta Ib la
-A n d e l A n d
-7 3 % 2 4
-T ill s to r
-d e l
-A n d e l
-5 2 %
-7 1 %
-5 0 %
-n
-e
-%
-d  S ä lla
-l  A n d e
-0 %
-T ill v is s
-d e l
-A n d e l
-\* \* \*
-1 6 %
-2 5 %
-n
-l
-A ld rig
-A n d e l
-0 %
-In te a lls
-A n d e l
-\*
-0 %
-\*
-V e t in te
-A n d e l
-0 %
-V e t
-in te
-A n d e l
-0 %
-3 %
-\*
-M
-M
-S a m
-e d e
-7
-S a m
-e d e
-7
-6
-6
-tlig a
-lv ä rd
-,0
-tlig a
-lv ä rd
-,1
-,5
-,5
-e
-e
-Undervisande lärare Gymnasieskola
 4\. Stöd                  Index 6,9 (Samtliga gymnasium: 7,1)
+
 Alltid Ofta Ibland Sällan Aldrig Vet inte Samtliga
+
 Medelvärde Andel Andel Andel Andel Andel Andel Medelvärde
 Hur ofta upplever du att alla elever får den
 7,1   15%   65%  12%   \*\*    \*    0%    7,4
@@ -6425,90 +26739,849 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att alla dina elever får det stöd
 från skolan som behövs för att klara 6,7 22% 59% 15%    \*      \*    6,7
 skolarbetet?
+
 43
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+0
+
+l
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,1
+
+,5
+
+,5
+
+e
+
+7
+
+e
+
+7
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+l
+
+e
+
+l
+
+t
+
+t e
+
+e
+
+in
+
+e %
+
+e t
+
+d
+
+%
+
+%
+
+\*
+
+d
+
+n
+
+0
+
+3
+
+t
+
+0
+
+V i
+
+n
+
+e
+
+n
+
+A
+
+V
+
+A
+
+l
+
+s
+
+g
+
+l
+
+l
+
+i
+
+e
+
+l
+
+r
+
+e
+
+d
+
+d %
+
+a
+
+%
+
+l
+
+n
+
+0
+
+d
+
+\*
+
+\*
+
+e
+
+n
+
+0
+
+A
+
+A
+
+t
+
+A
+
+In
+
+l
+
+n
+
+e
+
+la
+
+d %
+
+l
+
+n
+
+0
+
+s
+
+l
+
+ä
+
+s
+
+S
+
+A
+
+i l
+
+e
+
+\*
+
+v e
+
+d
+
+\*
+
+%
+
+%
+
+l
+
+6
+
+5
+
+l d
+
+n
+
+\*
+
+1
+
+2
+
+i
+
+l
+
+A
+
+d
+
+T
+
+n
+
+e %
+
+la
+
+d
+
+4
+
+n
+
+2
+
+Ib
+
+A
+
+r
+
+)
+
+l
+
+to l
+
+,8
+
+e
+
+%
+
+%
+
+%
+
+s e
+
+d
+
+6
+
+l
+
+l
+
+2
+
+1
+
+0
+
+\:
+
+l d
+
+n
+
+5
+
+7
+
+5
+
+a
+
+e
+
+i
+
+A
+
+m
+
+ft
+
+d
+
+3%
+
+T
+
+iu
+
+n
+
+s
+
+O
+
+7
+
+a
+
+A
+
+n
+
+ch t
+
+l
+
+ym
+
+l
+
+o le
+
+e
+
+%
+
+%
+
+d
+
+l
+
+d
+
+%
+
+g
+
+i
+
+e
+
+t
+
+3
+
+9
+
+t
+
+l å
+
+n
+
+3
+
+9
+
+1
+
+a
+
+l
+
+d %
+
+g
+
+l
+
+n
+
+3
+
+e h
+
+A
+
+li
+
+A
+
+A
+
+H
+
+t
+
+am
+
+e
+
+e
+
+S
+
+rd
+
+(
+
+rd
+
+ä
+
+,7
+
+ä
+
+lv
+
+,2
+
+,4
+
+,2
+
+lv
+
+,0
+
+6
+
+e
+
+7
+
+6
+
+6
+
+x
+
+e
+
+7
+
+d
+
+d
+
+e
+
+de
+
+e
+
+In
+
+M
+
+M
+
+i
+
+å
+
+t
+
+t
+
+e
+
+p
+
+t
+
+g
+
+s
+
+a
+
+a
+
+n
+
+s
+
+t
+
+e
+
+a
+
+lå
+
+r
+
+e
+
+n
+
+t
+
+rb
+
+r
+
+it
+
+in
+
+a
+
+e
+
+a
+
+v
+
+m
+
+r
+
+ig
+
+s
+
+le
+
+l m
+
+a
+
+få
+
+e
+
+k o
+
+rn
+
+a
+
+c k
+
+få ? ä
+
+e
+
+a n
+
+t
+
+lr
+
+v
+
+r r
+
+l m
+
+e
+
+e
+
+s e
+
+i o
+
+l
+
+ie
+
+a t
+
+t
+
+r v
+
+k e
+
+s
+
+e
+
+a le
+
+c b e r
+
+r
+
+?
+
+a
+
+v e
+
+ly
+
+g e
+
+a
+
+v g
+
+k
+
+s t
+
+l s
+
+c
+
+t
+
+e
+
+le in
+
+a
+
+r o a
+
+l
+
+ä
+
+k a
+
+k k e
+
+v
+
+a
+
+k
+
+c å
+
+r s c
+
+c
+
+u
+
+ly
+
+ä i
+
+ly e
+
+s
+
+l
+
+e
+
+d
+
+d v
+
+?
+
+u
+
+i a u l t
+
+s t
+
+n
+
+v
+
+l
+
+e
+
+d e
+
+n l
+
+d i u
+
+a t
+
+t g
+
+t
+
+t t s
+
+k e
+
+t
+
+t jä
+
+t r
+
+s
+
+c
+
+in
+
+p
+
+n
+
+y b
+
+a
+
+?
+
+a s
+
+a a a
+
+l r
+
+t
+
+n
+
+g
+
+g k
+
+la
+
+a
+
+u s t u i u
+
+s
+
+u
+
+a l
+
+d i ä d
+
+d in
+
+t
+
+s
+
+n
+
+f o
+
+r rv s
+
+r
+
+r n
+
+im
+
+k
+
+å
+
+u
+
+o
+
+e e a e
+
+e a k
+
+t
+
+r s
+
+k
+
+k k p k
+
+S
+
+r
+
+c d i c
+
+c m n
+
+.
+
+u
+
+y n l y o y t i
+
+3
+
+H fö
+
+T u o T tr T u s
 
 <!-- sida 102 -->
 
+Undervisande lärare Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-5 . K rit is k t tä n k a n d e
-
-H u r m y c k e t p ra ta r d
-a llt m a n h ö r o c h lä
-(k ä llk ritik )?
-H u r m y c k e t få r d in a
-d is k u te ra frå g o r d ä
-u p p fa ttn in g ?
-u m e d d in a e le v e r o m a
-s e r in te b e h ö v e r v a ra s a
-e le v e r ö v a p å a tt
-r m a n k a n h a o lik a
-tt
-n t
-In
-M
-d
-e
-e
-d
-x 6 ,7
-e lv ä
-6 ,9
-6 ,4
-(S
-rd
-a
-e
-m tlig a g y m n
-V ä ld ig t
-m y c k e t
-A n d e l
-3 3 %
-2 2 %
-a s iu m : 6 ,7 )
-G a n s k a
-m y c k e t
-A n d e l
-4 4 %
-5 0 %
-G a n s k
-lite
-A n d e
-\* \* \*
-2 2 %
-a
-l
-lite
-V ä ld ig t
-/ In te a lls
-A n d e l
-\*
-\*
-A
-Vin
-n
-0
-e t
-te
-d e l
-%
-\*
-M
-S
-e
-a
-d
-m
-e
-6
-6
-tlig a
-lv ä rd
-,9
-,4
-e
-Undervisande lärare Gymnasieskola
 6\. Bemötande - elever     Index 7,1 (Samtliga gymnasium: 7,5)
+
 Ganska Ganska        Vet
 Mycket bra          Mycket dåligt Samtliga
 bra   dåligt        inte
@@ -6536,172 +27609,2012 @@ Medelvärde Andel Andel Andel Andel Andel Medelvärde
 Tycker du att ni lärare ger alla elever samma
 möjligheter oavsett om de är flickor, pojkar 9,0 73% 22% \* 0%  \*    9,0
 eller har annan könsidentitet?
+
 44
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,9
+
+,4
+
+e
+
+6
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t
+
+e
+
+e te d
+
+%
+
+\*
+
+V in n
+
+0
+
+A
+
+ls
+
+l
+
+t
+
+a
+
+l
+
+ig
+
+te e
+
+ld
+
+d
+
+\*
+
+\*
+
+In n
+
+ä / A
+
+V e
+
+it
+
+l
+
+a
+
+l
+
+k
+
+s e e
+
+\*
+
+%
+
+it d
+
+\*
+
+2
+
+n l n
+
+\*
+
+2
+
+a
+
+G
+
+A
+
+)
+
+a t
+
+l
+
+,7
+
+k e e
+
+6
+
+s k d
+
+%
+
+%
+
+\:
+
+c
+
+4
+
+0
+
+n y n
+
+m
+
+a
+
+A
+
+4
+
+5
+
+iu
+
+G m
+
+s
+
+a
+
+n
+
+t t
+
+l
+
+ym
+
+ig e e
+
+g
+
+d k d
+
+%
+
+%
+
+l c
+
+3
+
+2
+
+a
+
+y n
+
+g
+
+ä
+
+3
+
+2
+
+li
+
+V m A
+
+t
+
+am
+
+S
+
+e
+
+(
+
+rd
+
+,7
+
+ä
+
+lv
+
+,9
+
+,4
+
+6
+
+e
+
+6
+
+6
+
+x
+
+d
+
+de
+
+e
+
+In
+
+M
+
+t
+
+tt n
+
+a a
+
+s
+
+m a
+
+o r
+
+r a
+
+a
+
+e v
+
+t k
+
+t i
+
+v r
+
+l
+
+e
+
+a
+
+l e
+
+o
+
+v
+
+å
+
+e ö
+
+a
+
+p
+
+a h
+
+a h
+
+in e
+
+v n
+
+b
+
+ö
+
+d
+
+a
+
+e
+
+r k
+
+d t
+
+e
+
+e in
+
+v n
+
+a
+
+m r
+
+le
+
+e
+
+e m
+
+u s
+
+r
+
+d ä
+
+a ä
+
+l
+
+e
+
+r
+
+in d
+
+d
+
+a
+
+r
+
+n
+
+t h
+
+d
+
+a
+
+a c
+
+r o
+
+k
+
+r o
+
+å g
+
+n
+
+p r
+
+f å ?
+
+ä
+
+t ö ?
+
+t fr g
+
+t
+
+)
+
+e h k e
+
+in
+
+t
+
+k
+
+i k ra
+
+k
+
+c n it c
+
+tn
+
+is
+
+y a r y te t
+
+it
+
+k
+
+a
+
+r
+
+m m l
+
+m u f
+
+r t l
+
+r k
+
+K
+
+l ä
+
+s p
+
+.
+
+u l
+
+u i p
+
+5
+
+H a (k H d u
 
 <!-- sida 103 -->
 
+Undervisande lärare Gymnasieskola
+
 Resultat frågeområden      och  frågor
 
-8 . E le v in fly ta n d e In
-
-M
-H u r m y c k e t få r d in a e le v e r, u tifrå n å ld e r o c h
-m o g n a d , v a ra m e d o c h p å v e rk a h u r n i s k a
-a rb e ta p å le k tio n e rn a ?
-H u r m y c k e t u p p le v e r d u a tt d e v u x n a i s k o la n
-ly s s n a r p å fö rs la g frå n e le v e rn a , till e x e m p e l
-frå n k la s s rå d e lle r e le v rå d ?
-
-9 . S tu d ie ro         In d
-
-M e
-
-H u r o ft a g å r e n s t o r d e l a v le k t io n s t id e n t ill
-a t t u p p rä t th å lla o rd n in g e n ?
-
-M e
-H u r o ft a u p p le v e r d u a t t d e t ä r s t u d ie ro p å
-d in a le k t io n e r?
-
-1 0 . T r y g g h e t     In
-
-M
-U p p le v e r d u a tt e le v e rn a k a n v a ra s ig s jä lv a i
-s k o la n ?
-U p p le v e r d u a tt e le v e rn a k ä n n e r s ig try g g a i
-s k o la n ?
-d e x 6 ,7 (S
-e d e lv ä rd
-6 ,5
-7 ,0
-e x 7 ,2 (S a
-d e lv ä rd e
-6 ,7
-d e lv ä rd e
-7 ,6
-d e x 6 ,2 (S
-e d e lv ä rd
-5 ,9
-6 ,6
-a
-e
-m
-a
-e
-m tlig a g y m n a s iu m : 6 ,4 )
-V ä ld ig t G a n s k a
-m y c k e t m y c k e t
-A n d e l A n d e l
-2 0 %  5 5 %
-2 3 %  5 7 %
-tlig a g y m n a s iu m : 7 ,4 )
-A l d rig S ä lla n Ib la
-A n d e l A n d e l A n d
-1 6 % 4 7 % 3 0
-A l lt id O f t a Ib la
-A n d e l A n d e l A n d
-1 7 % 7 0 % 1 4
-m tlig a g y m n a s iu m : 6 ,8 )
-H e lt o c h T ill s to r
-h å lle t d e l
-A n d e l A n d e l
-6 %   6 6 %
-1 1 %  7 6 %
-n
-e
-%
-n
-e
-%
-G a n s k a
-lite
-A n d e l
-2 5 %
-1 1 %
-d  O f t a
-l  A n d e
-8 %
-d  S ä lla
-l  A n d e
-0 %
-T ill v is s
-d e l
-A n d e l
-2 4 %
-1 3 %
-V ä ld ig t
-lite / In te a lls
-A n d e l
-0 %
-\*
-A l lt id
-l A n d e l
-0 %
-n A l d rig
-l A n d e l
-0 %
-In te a lls
-A n d e l
-\*
-0 %
-V
-V
-V e t
-in te
-A n d e l
-0 %
-\* \*
-e t in t e
-A n d e l
-0 %
-e t in t e
-A n d e l
-0 %
-V e t
-in te
-A n d e l
-\*
-0 %
-M
-M
-M
-M
-S a m
-e d e
-6
-6
-S a m
-e d e
-7
-S a m
-e d e
-7
-S a m
-e d e
-6
-7
-tlig a
-lv ä rd
-,1
-,7
-t lig a
-lv ä rd
-,1
-t lig a
-lv ä rd
-,7
-tlig a
-lv ä rd
-,4
-,1
-e
-e
-e
-e
-Undervisande lärare Gymnasieskola
 45
 
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+1
+
+l
+
+v
+
+7
+
+l
+
+v
+
+4
+
+1
+
+t
+
+lv
+
+,1
+
+,7
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+t
+
+l
+
+,
+
+,
+
+e
+
+6
+
+6
+
+e
+
+7
+
+e
+
+7
+
+e
+
+6
+
+7
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+l
+
+l
+
+e
+
+l
+
+e
+
+l
+
+t
+
+t
+
+t
+
+t e
+
+e
+
+te e
+
+\*
+
+e
+
+e
+
+t
+
+%
+
+e
+
+d
+
+%
+
+in
+
+%
+
+in
+
+%
+
+e
+
+d
+
+\*
+
+n
+
+0
+
+\*
+
+d
+
+d
+
+n
+
+0
+
+V i n
+
+t
+
+0
+
+t
+
+0
+
+V i n
+
+A
+
+e
+
+n
+
+e
+
+n
+
+A
+
+V
+
+A
+
+V
+
+A
+
+ls
+
+l
+
+l
+
+l
+
+s
+
+t a
+
+l
+
+d
+
+g
+
+l
+
+l
+
+g
+
+i
+
+e
+
+i
+
+e
+
+l
+
+i
+
+e
+
+t
+
+r
+
+e
+
+te
+
+l
+
+d %
+
+d
+
+d %
+
+a
+
+%
+
+ld
+
+d
+
+%
+
+\*
+
+l
+
+n
+
+0
+
+l
+
+n
+
+0
+
+d
+
+\*
+
+In n
+
+0
+
+A
+
+A
+
+A
+
+A
+
+te
+
+n
+
+0
+
+ä / A
+
+A
+
+V e
+
+In
+
+it
+
+l
+
+l
+
+l
+
+e
+
+n
+
+e
+
+ta
+
+%
+
+la
+
+%
+
+f
+
+d
+
+l
+
+d
+
+n
+
+8
+
+n
+
+0
+
+s
+
+l
+
+a
+
+l
+
+O
+
+ä
+
+s
+
+k
+
+e
+
+A
+
+S
+
+A
+
+i l
+
+e
+
+s e
+
+%
+
+%
+
+v e d %
+
+%
+
+it d
+
+5
+
+1
+
+l
+
+4
+
+3
+
+n l n
+
+2
+
+1
+
+l d n
+
+2
+
+1
+
+a
+
+i
+
+A
+
+d
+
+l
+
+d
+
+l
+
+T
+
+A
+
+G
+
+n
+
+e %
+
+n
+
+e %
+
+la
+
+d
+
+0
+
+la
+
+d
+
+4
+
+n
+
+3
+
+n
+
+1
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+)
+
+r
+
+a t
+
+l
+
+)
+
+8
+
+o
+
+l
+
+,4
+
+k e
+
+,
+
+t l
+
+e
+
+%
+
+%
+
+,4
+
+6
+
+e %
+
+%
+
+6
+
+s k d
+
+s e d
+
+\:
+
+n c
+
+5
+
+7
+
+7
+
+\:
+
+l
+
+6
+
+6
+
+y n
+
+5
+
+5
+
+\:
+
+n
+
+l
+
+l
+
+l d n
+
+6
+
+7
+
+a
+
+e
+
+e
+
+m
+
+i
+
+A
+
+m
+
+G m A
+
+m
+
+la
+
+%
+
+ta
+
+%
+
+u
+
+T
+
+iu
+
+l
+
+d
+
+7
+
+f
+
+d
+
+0
+
+i
+
+s
+
+iu
+
+n
+
+n
+
+s
+
+s
+
+ä
+
+4
+
+O
+
+7
+
+a
+
+a
+
+S
+
+A
+
+A
+
+n
+
+a
+
+n
+
+m
+
+t t
+
+l
+
+n
+
+m
+
+ch t
+
+l
+
+y
+
+ig e e
+
+m
+
+y
+
+e
+
+e
+
+%
+
+%
+
+l
+
+l
+
+o l
+
+%
+
+g
+
+d ck d
+
+0
+
+3
+
+y
+
+ig
+
+d
+
+g
+
+t l d %
+
+1
+
+l
+
+g
+
+r
+
+e %
+
+i
+
+e %
+
+a
+
+l
+
+n
+
+6
+
+a
+
+ä y n
+
+2
+
+2
+
+d
+
+6
+
+lt
+
+d
+
+7
+
+g
+
+e å
+
+1
+
+ig
+
+m A
+
+a
+
+ld
+
+n
+
+l
+
+n
+
+li
+
+h A
+
+l
+
+V
+
+ig
+
+1
+
+1
+
+H
+
+t
+
+l
+
+A
+
+A
+
+A
+
+A
+
+t
+
+t
+
+am
+
+e
+
+m
+
+am
+
+e
+
+S
+
+d
+
+a
+
+e
+
+e
+
+(S
+
+d
+
+(
+
+r
+
+S
+
+d
+
+d
+
+r
+
+(
+
+r
+
+r
+
+2
+
+ä
+
+,7
+
+ä
+
+,
+
+v
+
+lv
+
+,5
+
+,0
+
+,2
+
+ä
+
+ä
+
+6
+
+l
+
+,9
+
+,6
+
+6
+
+lv
+
+,7
+
+lv
+
+,6
+
+5
+
+6
+
+e
+
+6
+
+7
+
+7
+
+x
+
+e
+
+x
+
+d
+
+x
+
+e
+
+6
+
+e
+
+7
+
+e
+
+d
+
+de
+
+e
+
+e
+
+d
+
+d
+
+d
+
+e
+
+In
+
+M
+
+d
+
+e
+
+e
+
+In
+
+M
+
+In
+
+M
+
+M
+
+l
+
+i
+
+n e
+
+l
+
+i
+
+h
+
+l
+
+a
+
+c
+
+la p
+
+i
+
+v
+
+t
+
+å
+
+l
+
+a
+
+o a
+
+o
+
+p
+
+g
+
+m
+
+jä
+
+r k
+
+k e
+
+n
+
+g
+
+e s
+
+s x
+
+e
+
+ro
+
+s
+
+ry
+
+i
+
+i
+
+t
+
+ld
+
+e
+
+d
+
+e
+
+g
+
+i
+
+i
+
+i
+
+n
+
+a l
+
+g
+
+å
+
+l
+
+t
+
+s
+
+i
+
+r
+
+i
+
+s
+
+d
+
+n u
+
+xn t
+
+n
+
+u
+
+a
+
+s
+
+,
+
+t
+
+r
+
+r
+
+å h
+
+u
+
+o
+
+s
+
+r
+
+a
+
+i
+
+a
+
+e
+
+f
+
+v
+
+v
+
+i a
+
+n
+
+t
+
+r
+
+n
+
+t rk
+
+e r
+
+k
+
+ä
+
+n
+
+n
+
+u e
+
+d e ?
+
+le ?
+
+t
+
+a
+
+ä
+
+,
+
+t v
+
+r v
+
+t
+
+d
+
+v n
+
+e
+
+k
+
+k
+
+e å
+
+le å
+
+e
+
+d
+
+a
+
+r
+
+a g
+
+t
+
+a
+
+a
+
+v p
+
+e v
+
+l
+
+t
+
+n
+
+n
+
+le h ? u
+
+e in
+
+a
+
+r
+
+r
+
+a
+
+d n le
+
+e
+
+e
+
+e c n
+
+r å
+
+d n
+
+u
+
+v
+
+v
+
+o r
+
+fr e
+
+r d
+
+a
+
+e r
+
+r
+
+d
+
+le
+
+le
+
+n d e v g
+
+to o
+
+r
+
+i e n e
+
+le
+
+e
+
+e
+
+l a
+
+s
+
+e
+
+d
+
+o
+
+l l
+
+a
+
+t
+
+t
+
+e
+
+i
+
+l
+
+v ?
+
+t
+
+t
+
+r m t p s e
+
+n l
+
+e r
+
+d
+
+p r
+
+l
+
+a
+
+a
+
+n
+
+å a k
+
+d
+
+e å
+
+e
+
+a
+
+f r e
+
+u fö
+
+r
+
+p n
+
+t
+
+u
+
+u
+
+t
+
+t
+
+l
+
+t å
+
+h
+
+a
+
+r
+
+å t
+
+p o
+
+e
+
+d
+
+d
+
+y
+
+e v
+
+e å s
+
+o
+
+t
+
+i
+
+h
+
+l
+
+, å
+
+g
+
+u t
+
+r
+
+r
+
+f
+
+k
+
+p k p s
+
+r
+
+rä
+
+g
+
+e
+
+e
+
+n
+
+c d c r a
+
+ie
+
+a
+
+a k
+
+g
+
+v ? v ?
+
+i
+
+y
+
+y
+
+l
+
+t p
+
+t e
+
+n
+
+n
+
+a a
+
+d
+
+f
+
+f l
+
+y
+
+v
+
+t
+
+a k
+
+p
+
+r
+
+le a
+
+le a
+
+e
+
+m n
+
+m n
+
+u
+
+o
+
+o
+
+l
+
+l
+
+l
+
+g e
+
+t
+
+u
+
+a
+
+T
+
+r
+
+r s n
+
+r
+
+r
+
+.
+
+p
+
+p
+
+E
+
+o b
+
+S
+
+t
+
+n
+
+p o p o
+
+.
+
+u
+
+r u s å
+
+.
+
+u t
+
+u i
+
+0
+
+k
+
+k
+
+8
+
+H m a H ly fr
+
+9
+
+H a
+
+H d
+
+1
+
+U s U s
+
 <!-- sida 104 -->
+
+Undervisande lärare Gymnasieskola
 
 Resultat frågeområden      och  frågor
 
@@ -6714,67 +29627,8 @@ Upplever du att ni vuxna i skolan har koll
 5,2    \*    33%  41%  22%    \*    \*     5,6
 på vad som händer på rasterna?
 
-U p p le
-tillrä c
-vk e r d u
-lig t o
-am tt n
-e n
-i v u
-e le
-x n a i s k o
-v b lir illa
-la
-b
-ne gh öa r
-n d la d ?
-M e d e
-7
-lv
-,5
-ä rd e
-H eh
-A
-lt o
-å lle
-n d e
-3 7 %
-c ht
-l
-T ill s to
-d e l
-A n d e l
-4 8 %
-r T ill v is s
-d e l
-A n d e l
-1 1 %
-In te
-A n
-a lls
-d e l
-\*
-A
-Vin
-n
-e t
-te
-d e l
-\*
-M
-S
-e
-a
-d
-m
-e
-7
-tlig a
-lv ä rd
-,6
-e
-Undervisande lärare Gymnasieskola
 12\. Särskilt stöd         Index 6,9 (Samtliga gymnasium: 6,5)
+
 Helt och Till stor Till viss Vet
 Inte alls   Samtliga
 hållet  del   del           inte
@@ -6791,6 +29645,7 @@ Tycker du att skolan ger stöd i enlighet med
 de behov som utredningar om särskilt stöd 6,7 22% 47% 17% \*   \*\*    6,6
 visar?
 13\. Bedömning och betygsättning Index 5,9 (Samtliga gymnasium: 6,3)
+
 I mycket I ganska I ganska I väldigt liten
 Vet
 stor ut- stor ut- liten ut- utsträckning/ Samtliga
@@ -6805,153 +29660,238 @@ skolan för att säkerställa att bedömningar 5,3 10% 43% 30% 9% 8%    6,1
 och omdömen/betyg är likvärdiga?
 46
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,6
+
+e
+
+7
+
+am
+
+d
+
+S
+
+e
+
+M
+
+l
+
+t
+
+e
+
+e te d
+
+\*
+
+V in n
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d
+
+\*
+
+te
+
+n
+
+In
+
+A
+
+s
+
+l
+
+is l e
+
+v e d %
+
+l
+
+1
+
+l d n
+
+1
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l e
+
+s e d %
+
+l
+
+8
+
+l d n
+
+4
+
+i
+
+T
+
+A
+
+ch t
+
+l
+
+o le e %
+
+l d
+
+lt
+
+7
+
+e å n
+
+3
+
+H h A
+
+e
+
+rd
+
+ä
+
+lv
+
+,5
+
+e
+
+7
+
+d
+
+e
+
+M
+
+?
+
+d
+
+la
+
+d
+
+r n
+
+ö a
+
+g h
+
+n e
+
+la b
+
+o la
+
+l
+
+k i
+
+s
+
+i r
+
+i
+
+l
+
+a
+
+b
+
+xn v
+
+u le
+
+v
+
+i e
+
+n n
+
+tt e
+
+a m
+
+u o
+
+d t
+
+r ig
+
+l
+
+ve
+
+ck
+
+le ä
+
+p lr
+
+l
+
+p i
+
+U t
+
 <!-- sida 105 -->
+
+Undervisande lärare Gymnasieskola
 
 Resultat frågeområden      och  frågor
 
-1 4 . P e d a g o g is k t le d a rs k a p
-
-I v ilk e n u t s t rä c k n in g t y c k e r d u a t t
-s k o lle d n in g e n h a r t illrä c k lig k ä n n e d o m o m
-s k o la n s v e rk s a m h e t fö r a t t le d a o c h
-s a m o rd n a d e n ?
-I v ilk e n u t s t rä c k n in g ä r n i lä ra re d e la k t ig a i
-s k o la n s u p p fö ljn in g s a rb e t e (s o m d e l i d e t
-s y s t e m a t is k a k v a lit e t s a rb e t e t )?
-I v ilk e n u t s t rä c k n in g g e n o m fö rs
-u t v e c k lin g s in s a t s e r o c h fö rb ä t trin g s a rb e t e n
-s o m d u t y c k e r b e h ö v s i s k o la n ?
-
-1 5 . U p p fö ljn in g
-
-I v ilk e n u ts trä c k n in g fö ljs s k o la n s
-k u n s k a p s re s u lta t u p p ?
-I v ilk e n u ts trä c k n in g fö ljs e le v e rn a s
-u p p le v e ls e a v try g g h e t u p p ?
-I v ilk e n u ts trä c k n in g fö ljs e le v e rn a s
-u p p le v e ls e a v s tu d ie ro u p p ?
-In
-M
-In
-M
-d e x 7 ,1 (S
-e d e lv ä rd
-6 ,5
-8 ,4
-6 ,2
-d e x 7 ,7 (S
-e d e lv ä rd
-7 ,3
-7 ,9
-7 ,7
-a
-e
-a
-e
-m
-m
-tlig a g y m n
-I m y c k e t
-s t o r u t -
-s t rä c k n in g
-A n d e l
-1 9 %
-6 0 %
-1 7 %
-tlig a g y m n
-I m y c k e t
-s to r u t-
-s trä c k n in g
-A n d e l
-3 0 %
-4 0 %
-3 5 %
-a
-a
-s iu m : 6 ,9 )
-I g a n s k a
-s t o r u t -
-s t rä c k n in
-A n d e l
-5 3 %
-3 1 %
-5 0 %
-s iu m : 7 ,5 )
-I g a n s k a
-s to r u t-
-s trä c k n in
-A n d e l
-4 6 %
-4 3 %
-4 8 %
-g
-g
-I g a n s k a
-lit e n u t -
-s t rä c k n in g
-A n d e l
-2 2 %
-7 %
-2 4 %
-I g a n s k a
-lite n u t-
-s trä c k n in g
-A n d e l
-\* \*
-\*
-7 %
-I v ä ld ig t lit e n
-u t s t rä c k n in g /
-in t e a lls
-A n d e l
-\*
-\*
-\*
-I v ä ld ig t lite n
-u ts trä c k n in g /
-in te a lls
-A n d e l
-\*
-\*
-0 %
-V e t
-in t e
-A n d e l
-\*
-\*
-\* \*
-V e t
-in te
-A n d e l
-1 2 %
-1 1 %
-9 %
-M
-M
-S a m
-e d e
-7
-7
-6
-S a m
-e d e
-7
-7
-7
-t lig a
-lv ä rd
-,1
-,4
-,2
-tlig a
-lv ä rd
-,5
-,8
-,3
-e
-e
-Undervisande lärare Gymnasieskola
 16\. Elevhälsa             Index 7,3 (Samtliga gymnasium: 7,5)
+
 Ganska Ganska Mycket Vet
 Mycket bra                       Samtliga
 bra  dåliga  dåliga inte
@@ -6967,7 +29907,1219 @@ att få stöd från elevhälsan om det skulle 7,3 36% 44% 14% \*    \*    7,5
 behövas?
 47
 
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+5
+
+8
+
+3
+
+t
+
+lv
+
+,1
+
+,4
+
+,2
+
+t
+
+l
+
+,
+
+,
+
+,
+
+e
+
+7
+
+7
+
+6
+
+e
+
+7
+
+7
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+l
+
+l
+
+t
+
+t e
+
+e
+
+te
+
+e
+
+\*
+
+t
+
+%
+
+%
+
+%
+
+e
+
+d
+
+\*
+
+\*
+
+\*
+
+e
+
+d
+
+2
+
+1
+
+V in
+
+n
+
+V in
+
+n
+
+1
+
+1
+
+9
+
+A
+
+A
+
+/
+
+/
+
+n g
+
+n g
+
+te n
+
+te n s
+
+i i ls
+
+i i l
+
+l
+
+l
+
+l
+
+l
+
+l
+
+n l
+
+n
+
+e
+
+t
+
+e
+
+t k a
+
+k a d
+
+%
+
+ig c
+
+d
+
+\*
+
+\*
+
+\*
+
+ig c e
+
+\*
+
+\*
+
+0
+
+ä te n
+
+d rä t n
+
+ld r
+
+A
+
+l t n A
+
+t in
+
+i
+
+ä s
+
+ä ts
+
+v t
+
+v
+
+I u
+
+I u
+
+g
+
+\- g
+
+\-
+
+a t n
+
+a t n
+
+l
+
+k
+
+i
+
+l
+
+k
+
+i
+
+s u n e
+
+s u n e
+
+%
+
+%
+
+k d
+
+\*
+
+%
+
+n n ck d
+
+2
+
+7%
+
+4
+
+n n c
+
+\*
+
+\*
+
+7
+
+a te
+
+n
+
+2
+
+2
+
+a te ä n
+
+g i rä A
+
+g i r A
+
+I l t
+
+I l t
+
+s
+
+s
+
+g
+
+g
+
+)
+
+a -
+
+)
+
+a - n
+
+t in
+
+l
+
+k t i
+
+l
+
+,9
+
+k
+
+,5
+
+s u n e
+
+%
+
+%
+
+%
+
+s u n e %
+
+%
+
+%
+
+6
+
+r k d
+
+7
+
+n r k d
+
+\:
+
+n
+
+c
+
+3
+
+1
+
+0
+
+\:
+
+c
+
+6
+
+3
+
+8
+
+a to
+
+n
+
+5
+
+3
+
+5
+
+a to ä n
+
+4
+
+4
+
+4
+
+m
+
+g s rä A
+
+m
+
+g s r A
+
+iu
+
+I
+
+t
+
+iu
+
+I
+
+t
+
+s
+
+s
+
+s
+
+s
+
+a
+
+a
+
+g
+
+n
+
+g
+
+n
+
+t -
+
+t - n
+
+m
+
+e t in
+
+l
+
+m
+
+e t i
+
+l
+
+y
+
+k u n e
+
+%
+
+%
+
+%
+
+y
+
+k u n e %
+
+%
+
+%
+
+g
+
+c r k d
+
+g
+
+c r k d
+
+0
+
+0
+
+5
+
+y
+
+c
+
+9
+
+0
+
+7
+
+y
+
+c
+
+a
+
+to
+
+n
+
+1
+
+6
+
+1
+
+a
+
+to ä n
+
+3
+
+4
+
+3
+
+ig
+
+m
+
+rä A
+
+ig
+
+m s r A
+
+l
+
+I s t
+
+l
+
+I
+
+t
+
+t
+
+s
+
+t
+
+s
+
+am
+
+e
+
+am
+
+e
+
+S
+
+d
+
+(S
+
+d
+
+(
+
+r
+
+r
+
+,1
+
+ä
+
+,7
+
+vä
+
+lv
+
+,5
+
+,4
+
+,2
+
+7
+
+l
+
+,3
+
+,9
+
+,7
+
+7
+
+e
+
+6
+
+8
+
+6
+
+x
+
+e
+
+7
+
+7
+
+7
+
+x
+
+d
+
+e
+
+d
+
+de
+
+e
+
+d
+
+e
+
+In
+
+M
+
+In
+
+M
+
+i
+
+n
+
+m
+
+t
+
+a
+
+te
+
+o
+
+e
+
+ig
+
+e
+
+d
+
+m
+
+t i
+
+b
+
+r
+
+o
+
+k l
+
+a
+
+a
+
+d
+
+l e
+
+s
+
+s
+
+s
+
+e h
+
+c
+
+e d
+
+g
+
+a
+
+a
+
+t n o
+
+d
+
+n
+
+s
+
+n
+
+n
+
+t
+
+i
+
+n
+
+r
+
+r
+
+n a
+
+e m ? s r
+
+a ä
+
+r o )
+
+r tt ?
+
+la
+
+e
+
+e
+
+k d
+
+a s t
+
+n
+
+v
+
+v
+
+u
+
+e
+
+r ( e ö ä
+
+o
+
+e
+
+e
+
+g l
+
+f
+
+a
+
+l
+
+l ?
+
+d i
+
+ä
+
+t
+
+b l
+
+k
+
+?
+
+l t
+
+l e
+
+r
+
+s
+
+e
+
+e p
+
+r
+
+t e m
+
+o
+
+p
+
+k t
+
+i
+
+ö
+
+p
+
+e c a
+
+e b o f k
+
+js
+
+js p
+
+js u
+
+k
+
+n
+
+r
+
+u
+
+p
+
+b
+
+n
+
+s
+
+l
+
+l
+
+l
+
+c rä r
+
+r r a e h i
+
+?
+
+t
+
+o
+
+a
+
+y l ö
+
+a s
+
+c
+
+fö
+
+fö
+
+fö r
+
+k
+
+t l f
+
+ä
+
+t
+
+g
+
+s
+
+p
+
+e
+
+i
+
+s
+
+o
+
+e
+
+s
+
+t
+
+e
+
+v
+
+g p g h g i
+
+r
+
+g t
+
+g g t g r
+
+n
+
+e
+
+n
+
+i n
+
+ö
+
+n u n g n d
+
+a
+
+i r
+
+i in l
+
+i e
+
+i t
+
+i g
+
+i
+
+d
+
+a h
+
+s h
+
+n
+
+n y n tu
+
+le
+
+n h
+
+n jn a n t e
+
+k ta k r k
+
+k m ? k l v k a
+
+l
+
+t
+
+s
+
+t
+
+c
+
+c
+
+k c
+
+b
+
+c
+
+c
+
+c
+
+n a n
+
+ö
+
+s r
+
+g
+
+u
+
+v
+
+v
+
+k
+
+ä
+
+s
+
+ä f
+
+ä
+
+rä
+
+rä a
+
+rä a
+
+is
+
+tr e k e
+
+tr p a
+
+tr in e
+
+in
+
+t s
+
+t
+
+t
+
+g r d
+
+k
+
+s k
+
+n
+
+s e s e s e
+
+g
+
+s
+
+s p s s
+
+j
+
+r
+
+t n e
+
+t
+
+i
+
+t
+
+c
+
+l
+
+t
+
+t s
+
+t s
+
+o
+
+i v a
+
+u
+
+g y
+
+s
+
+l
+
+l
+
+g
+
+u
+
+u t u n t
+
+ö
+
+u
+
+u
+
+u
+
+n
+
+n
+
+i
+
+f
+
+p
+
+e
+
+e
+
+a
+
+s
+
+s a
+
+l
+
+n
+
+n
+
+n
+
+d
+
+n d n rd n n
+
+n k u
+
+p
+
+a
+
+v
+
+v
+
+e
+
+e le a o e a m e c d
+
+p
+
+e k e le e le
+
+k l l
+
+k l e k
+
+U
+
+k s k
+
+k
+
+P
+
+l
+
+l
+
+t
+
+l e
+
+l
+
+l p
+
+l p
+
+.
+
+i o o m
+
+i o s
+
+i v m
+
+.
+
+i n
+
+i
+
+i
+
+4
+
+v k k a
+
+v k y
+
+v t o
+
+5
+
+v u
+
+v p
+
+v p
+
+1
+
+I s s s
+
+I s s
+
+I u s
+
+1
+
+I k
+
+I u
+
+I u
+
 <!-- sida 106 -->
+
+Vårdnadshavare Förskoleklass
 
 Resultat indexvärden     – diagram
 
@@ -6980,97 +31132,324 @@ Vit stapel: Aktuell huvudman1/skolenhet
 Grå stapel2: Samtliga deltagande skolenheter för huvudmannen1
 Svart stapel: Samtliga deltagande skolenheter för insamlingsomgången
 
-1 . In f
-
-4
-
-5
-o r m
-. B e
-. B e
-a
-m
-m
-t io n f r å n s k o la
-2 . S t im u la n
-3 . S t ö
-ö t a n d e - lä r a r
-ö t a n d e - e le v e
-6 . S t u d ie r
-7 . T r y g g h e
-8 . E le v h ä ls
-n
-s
-d
-e
-r
-o
-t
-a
-0  1
-K
-S
-u
-a
-n
-m
-g
-t
-2
-s b
-lig
-a
-a
-c k
-m
-3
-a k
-e d
-o
-v
-m
-e
-4
-r
-m
-k
-u
-a n
-n
-d
-5
-f
-e
-ö r
-s
-s
-k
-k
-o
-6
-o
-le
-le
-n
-k
-h
-la
-e
-7
-s s
-t e r fö
-8
-r s k o le
-9
-k la s s
-1 0
-Vårdnadshavare Förskoleklass
 1Med skolhuvudman avses den som anordnar skolverksamhet, till exempel en kommun, ett
 bolag eller en förening som driver en fristående skola.
 48
 2Gäller endast för skolenheter med jämförelser mot huvudman.
 
+s
+
+0
+
+s
+
+1
+
+la
+
+k
+
+le
+
+9
+
+o
+
+sk
+
+r
+
+8
+
+fö
+
+s
+
+r
+
+s
+
+te
+
+la
+
+e
+
+7
+
+k
+
+h
+
+le
+
+n
+
+le
+
+ko
+
+o
+
+6
+
+rs
+
+k
+
+ö
+
+s
+
+f
+
+e
+
+n
+
+d
+
+5
+
+u
+
+an
+
+m
+
+rk
+
+e
+
+4
+
+om
+
+v
+
+k
+
+d
+
+e
+
+ka
+
+c
+
+m
+
+3
+
+a
+
+a
+
+b
+
+ig
+
+s
+
+l
+
+g
+
+t
+
+2
+
+un
+
+m
+
+K
+
+Sa
+
+1
+
+0
+
+s
+
+r
+
+t
+
+n
+
+d
+
+re
+
+e
+
+ro
+
+e
+
+a
+
+la
+
+n
+
+ö
+
+ls
+
+la
+
+t
+
+ra
+
+v
+
+ie
+
+h
+
+ä
+
+o
+
+S
+
+le
+
+g
+
+k
+
+u
+
+.
+
+lä
+
+d
+
+g
+
+h
+
+e
+
+v
+
+s
+
+3
+
+\-
+
+u
+
+y
+
+im
+
+\-
+
+t
+
+r
+
+le
+
+n
+
+t
+
+e
+
+S
+
+T
+
+å
+
+S
+
+e
+
+.
+
+E
+
+r
+
+d
+
+.
+
+.
+
+f
+
+.
+
+d
+
+6
+
+2
+
+n
+
+n
+
+7
+
+8
+
+n
+
+ta
+
+ta
+
+io
+
+t
+
+ö
+
+ö
+
+a
+
+em
+
+em
+
+rm
+
+B
+
+B
+
+.
+
+.
+
+fo
+
+4
+
+5
+
+In
+
+.
+
+1
+
 <!-- sida 107 -->
+
+Vårdnadshavare Förskoleklass
 
 Resultat indexvärden     – tabell
 
@@ -7078,12 +31457,322 @@ Tabell över indexvärden (0–10). Ett högt indexvärde indikerar en positiv u
 
 mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 
+49
+
+s
+
+e s
+
+d la
+
+n k
+
+a le
+
+rk
+
+e ko
+
+v s
+
+d r
+
+e ö
+
+,2
+
+,7
+
+,9
+
+,9
+
+,5
+
+,8
+
+,8
+
+,2
+
+f
+
+m r
+
+6
+
+7
+
+7
+
+8
+
+7
+
+6
+
+7
+
+7
+
+a te
+
+ig e
+
+l h
+
+t n
+
+m le
+
+a
+
+S ko
+
+s
+
+n
+
+u
+
+m s
+
+s
+
+om la
+
+k k
+
+a le
+
+,8
+
+,5
+
+,8
+
+,9
+
+,6
+
+,6
+
+,9
+
+,2
+
+k
+
+c o
+
+5
+
+7
+
+7
+
+8
+
+7
+
+6
+
+7
+
+7
+
+a k
+
+b rs
+
+s
+
+g fö
+
+n
+
+u
+
+K
+
+n
+
+la
+
+o
+
+k
+
+e
+
+r
+
+s
+
+r
+
+e
+
+n
+
+ra
+
+v
+
+å
+
+le
+
+r
+
+lä
+
+e
+
+f
+
+\-
+
+\-
+
+n
+
+e
+
+e
+
+io
+
+s
+
+d
+
+d
+
+t
+
+n
+
+n
+
+n
+
+t
+
+sa
+
+a
+
+a
+
+a
+
+a
+
+ro
+
+e
+
+l
+
+l
+
+t
+
+t
+
+h
+
+ä
+
+rm
+
+u
+
+ö
+
+ö
+
+ie
+
+g
+
+h
+
+d
+
+d
+
+g
+
+v
+
+fo
+
+im
+
+ö m m
+
+u
+
+y
+
+n
+
+t
+
+t
+
+e
+
+e
+
+t
+
+r
+
+le
+
+I
+
+S
+
+S
+
+B
+
+B
+
+S
+
+T
+
+E
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 1
+
 2
 
 3
 
 4
+
 5
 
 6
@@ -7091,64 +31780,6 @@ mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 7
 
 8
-. In fo
-. S t im
-. S t ö d
-. B e m
-. B e m
-. S t u d
-. T r y g
-. E le v
-r m a tio n fr å n
-u la n s
-ö ta n d e - lä r a
-ö ta n d e - e le v
-ie r o
-g h e t
-h ä ls a
-s
-r
-e
-k
-e
-r
-o la n
-K u n g s
-fö
-br a c k a
-s k o le
-5 ,8
-7 ,5
-7 ,8
-8 ,9
-7 ,6
-6 ,6
-7 ,9
-7 ,2
-k o
-k la
-ms ms u n
-s
-S a m
-k o le
-tlig
-n h e
-ate m e d
-r fö r
-6 ,2
-7 ,7
-7 ,9
-8 ,9
-7 ,5
-6 ,8
-7 ,8
-7 ,2
-vs ek ro k a
-le
-nk dla es
-s
-Vårdnadshavare Förskoleklass
-49
 
 <!-- sida 108 -->
 
@@ -7196,6 +31827,8 @@ Medelvärden
 
 <!-- sida 109 -->
 
+Vårdnadshavare Förskoleklass
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -7216,204 +31849,715 @@ hur ditt barn utvecklas kunskapsmässigt?
 Får du tillräcklig information från personalen om
 6,1   27%   35%   28%   \*\*\*   \*     6,3
 hur ditt barn verkar trivas i skolan?
-2 . S tim u la n s
 
-H u r o fta v e rk a r lä ra rn a få d itt b
-in tre s s e ra t a v s k o la rb e te t?
-
-T y c k e r d u a tt lä ra rn a få r d itt b a
-s jä lv i s k o la rb e te t?
-
-T y c k e r d u a tt d itt b a rn få r tillrä
-fö r a tt u tv e c k la s i s k o la rb e te t?
-In d
-M e
-a rn a tt b li
-rn a tt tro p å s ig
-c k lig a u tm a n in g a
-e x 7 ,5
-d e lv ä
-7 ,9
-M
-r
-(S a m
-rd e
-e d e
-7
-6
-tlig a fö rs k
-A lltid
-A n d e l
-3 1 %
-H e
-h
-lv ä rd e A
-,7
-,8
-o le k
-O
-A n
-4
-lt o
-å lle
-n d e
-3 9 %
-2 9 %
-la s s
-fta
-d e l
-6 %
-c h
-t
-l
-: 7 ,7 )
-Ib la n d
-A n d e l
-9 %
-T ill s to r
-d e l
-A n d e l
-3 4 %
-3 6 %
-T
-S ä lla n
-A n d e l
-\* \*
-ill v is s
-d e l
-A n d e l
-9 %
-1 7 %
-A ld rig
-A n d e l
-\*
-In te a lls
-A n d e l
-3 %
-4 %
-V e t in te
-A n d e l
-1 0 %
-V e t in te
-A n d e l
-1 6 %
-1 4 %
-M
-M
-S a m
-e d e
-8
-S a m
-e d e
-7
-7
-tlig a
-lv ä rd
-,0
-tlig a
-lv ä rd
-,7
-,2
-e
-e
-Vårdnadshavare Förskoleklass
 51
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+l
+
+t
+
+l
+
+,0
+
+t
+
+lv
+
+,7
+
+,2
+
+e
+
+8
+
+e
+
+7
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+e
+
+l
+
+e
+
+t
+
+in
+
+d %
+
+in
+
+e %
+
+%
+
+0
+
+d
+
+t
+
+n
+
+1
+
+t
+
+6
+
+4
+
+e
+
+A
+
+e
+
+n
+
+1
+
+1
+
+V
+
+V
+
+A
+
+l
+
+s
+
+ig
+
+l
+
+l
+
+r
+
+e
+
+l
+
+d
+
+\*
+
+e
+
+ld
+
+n
+
+a
+
+d %
+
+%
+
+A
+
+A
+
+te
+
+n
+
+3
+
+4
+
+In
+
+A
+
+n
+
+l
+
+e
+
+s
+
+l
+
+la
+
+\*
+
+s
+
+l
+
+d
+
+i l e
+
+n
+
+\*
+
+v e d %
+
+%
+
+ä
+
+l
+
+9
+
+7
+
+S
+
+A
+
+l d n
+
+1
+
+i
+
+T
+
+A
+
+d
+
+l
+
+r
+
+n
+
+e
+
+l
+
+la
+
+d
+
+9%
+
+to l e
+
+b
+
+n
+
+s e d %
+
+%
+
+)
+
+I
+
+A
+
+l
+
+4
+
+6
+
+7
+
+l d n
+
+3
+
+3
+
+,
+
+i
+
+7
+
+T
+
+A
+
+\:
+
+l
+
+s
+
+s
+
+a
+
+e
+
+la
+
+ft
+
+d
+
+6%
+
+ch t
+
+l
+
+k
+
+O
+
+n
+
+4
+
+o le e %
+
+%
+
+le
+
+A
+
+l d
+
+lt
+
+9
+
+9
+
+o
+
+å n
+
+3
+
+2
+
+sk
+
+e h A
+
+r
+
+l
+
+H
+
+fö
+
+id
+
+e
+
+t
+
+%
+
+e
+
+a
+
+l
+
+d
+
+1
+
+g
+
+l
+
+n
+
+3
+
+rd
+
+li
+
+A
+
+A
+
+t
+
+ä
+
+lv
+
+,7
+
+,8
+
+am
+
+e
+
+e
+
+7
+
+6
+
+S
+
+d
+
+(
+
+rd
+
+e
+
+,5
+
+ä
+
+M
+
+lv
+
+,9
+
+7
+
+7
+
+x
+
+e
+
+e
+
+d
+
+r
+
+d
+
+e
+
+a
+
+In
+
+M
+
+g
+
+ig
+
+in
+
+s
+
+n
+
+å
+
+i
+
+a
+
+l
+
+p
+
+b
+
+ro
+
+tm
+
+tt
+
+t
+
+u
+
+t
+
+a
+
+a
+
+t
+
+g
+
+n
+
+a
+
+i
+
+r
+
+l
+
+a
+
+rn
+
+ck
+
+b
+
+a
+
+ä t?
+
+t
+
+b
+
+lr
+
+it
+
+t
+
+l e
+
+i t
+
+d ?
+
+it
+
+t
+
+t
+
+e
+
+å e
+
+d
+
+r b
+
+f t
+
+r
+
+r
+
+få
+
+e
+
+å
+
+la
+
+a b
+
+f
+
+n
+
+rn r
+
+r o
+
+a
+
+a
+
+a k
+
+a l
+
+n ?
+
+s
+
+r
+
+r t
+
+b i
+
+o
+
+lä k
+
+a te
+
+t
+
+r
+
+it s
+
+r s
+
+ä e
+
+l
+
+d a
+
+a v
+
+b
+
+l
+
+t r
+
+t k
+
+rk a
+
+t
+
+t c
+
+s
+
+t
+
+la
+
+e
+
+a
+
+a e
+
+n
+
+v ra
+
+o
+
+v
+
+la
+
+u k u t
+
+u
+
+ta e
+
+d s
+
+d u
+
+f s
+
+r i
+
+r t
+
+s
+
+t
+
+im
+
+e
+
+e
+
+o e
+
+v
+
+t
+
+r r
+
+k l k a
+
+S
+
+t
+
+c ä c r
+
+.
+
+u
+
+y j y
+
+2
+
+H in
+
+T s T fö
 
 <!-- sida 110 -->
 
+Vårdnadshavare Förskoleklass
+
 Resultat frågeområden      och  frågor
 
-4 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a v e rk a r b e h a n d la a lla
-lik a o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h
-a n n a n k ö n s id e n tite t?
-
-U p p le v e r d u a tt d itt b a rn b lir o rä ttv is t
-b e h a n d la t a v n å g o n lä ra re e lle r a n n a n
-v u x e n i s k o la n ?
-e
-a
-le v
-r
-M
-e
-e
-r
-d e
-9
-In
-M
-lv ä
-,1
-d e x 8 ,9
-e d e lv ä
-8 ,6
-A
-rd e A
-(S a m
-rd e
-ld rig
-n d e l
-7 0 %
-tlig a fö rs k o
-H e lt o c h
-h å lle t
-A n d e l
-5 1 %
-S ä lla n
-A n d e l
-1 6 %
-le k la s s : 8 ,9
-T ill s to r
-d e l
-A n d e l
-1 7 %
-Ib la n d
-A n d e l
-6 %
-)
-T ill v is s
-d e l
-A n d e l
-\* \*
-O fta
-A n d e
-\*
-l
-In te
-A n
-A
-A
-a lls
-d e l
-\*
-lltid
-n d e l
-\*
-V e t in te
-A n d e l
-2 5 %
-V e t in te
-A n d e l
-6 %
-M
-M
-S a m
-e d e
-8
-S a m
-e d e
-9
-tlig a
-lv ä rd
-,6
-tlig a
-lv ä rd
-,1
-e
-e
 5\. Bemötande - elever        Index 7,6 (Samtliga förskoleklass: 7,5)
+
 Mycket Ganska Ganska Mycket
 Vet inte Samtliga
 bra   bra  dåligt dåligt
@@ -7424,116 +32568,1313 @@ skolan?
 Hur uppfattar du att eleverna bemöter vuxna i
 7,8   38%   53%   \*\*    \*     5%    7,8
 skolan?
-3 . S tö d
-H u r o fta v e rk a r d itt b a rn få d e
-b e h ö v s u n d e r le k tio n e rn a ?
-T y c k e r d u a tt d itt b a rn få r d e n
-frå n s k o la n fö r a tt k la ra s k o la
-n h
-h jä
-rb e
-jä
-lpte
-lp
-st?
-s
-o
-o
-m
-m
-b e h ö
-In
-M
-v
-d e
-e d
-s
-x 7 ,8
-e lv ä
-7 ,9
-M
-(S
-rd
-e d
-a m tlig a fö rs k
-A lltid
-e  A n d e l
-2 5 %
-H eh
-e lv ä rd e A
-7 ,6
-o le k
-O
-A n
-3
-lt o
-å lle
-n d e
-3 9 %
-la s s
-fta
-d e l
-8 %
-c h
-t
-l
-: 7 ,9 )
-Ib la
-A n d
-9 %
-T ill s to
-d e l
-A n d e l
-3 3 %
-n d
-e l
-r T
-S ä lla
-A n d e
-2 %
-ill v is s
-d e l
-A n d e l
-9 %
-n
-l
-A
-A
-In te
-A n
-3
-ld rig
-n d e l
-0 %
-a lls
-d e l
-%
-V e t in te
-A n d e l
-2 6 %
-V e t in te
-A n d e l
-1 6 %
-M
-M
-S a m
-e d e
-8
-S a m
-e d e
-7
-tlig a
-lv ä rd
-,0
-tlig a
-lv ä rd
-,7
-e
-e
-Vårdnadshavare Förskoleklass
 52
 
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+0
+
+l
+
+l
+
+l
+
+v
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,7
+
+t
+
+lv
+
+,6
+
+t
+
+l
+
+,1
+
+e
+
+8
+
+e
+
+7
+
+e
+
+8
+
+e
+
+9
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+t
+
+e
+
+l
+
+e
+
+l
+
+t
+
+l
+
+e
+
+t
+
+t
+
+e
+
+in
+
+d %
+
+in
+
+e %
+
+in
+
+e
+
+%
+
+in
+
+d
+
+%
+
+6
+
+d
+
+d
+
+t
+
+n
+
+2
+
+t
+
+6
+
+t
+
+5
+
+t
+
+n
+
+6
+
+e
+
+A
+
+e
+
+n
+
+1
+
+e
+
+n
+
+2
+
+e
+
+A
+
+V
+
+V
+
+A
+
+V
+
+A
+
+V
+
+l
+
+s
+
+s
+
+l
+
+ig
+
+l
+
+l
+
+l
+
+l
+
+d
+
+r
+
+e
+
+l
+
+l
+
+i
+
+e
+
+d %
+
+a
+
+e
+
+a
+
+e
+
+lt
+
+d
+
+\*
+
+ld
+
+n
+
+0
+
+d %
+
+d
+
+\*
+
+l
+
+e
+
+n
+
+3
+
+e
+
+n
+
+n
+
+A
+
+A
+
+t
+
+t
+
+A
+
+A
+
+A
+
+In
+
+A
+
+In
+
+n
+
+l
+
+l
+
+a
+
+e
+
+s
+
+l
+
+s
+
+l
+
+a
+
+e
+
+l
+
+%
+
+s
+
+s
+
+t
+
+l
+
+d
+
+i l e
+
+i l
+
+e
+
+f
+
+d
+
+\*
+
+ä
+
+n
+
+2
+
+v e d %
+
+v e d
+
+\*
+
+n
+
+A
+
+l
+
+9
+
+l
+
+\*
+
+O
+
+S
+
+l d n
+
+l d n
+
+A
+
+i
+
+i
+
+T
+
+A
+
+)
+
+T
+
+A
+
+l
+
+,9
+
+d
+
+d
+
+l
+
+n
+
+e
+
+r
+
+8
+
+r
+
+e
+
+l
+
+\:
+
+l
+
+n
+
+a
+
+d %
+
+o
+
+s
+
+o
+
+a
+
+d
+
+%
+
+l
+
+n
+
+9
+
+t l e
+
+s
+
+t l
+
+e
+
+l
+
+6
+
+)
+
+b
+
+s e d %
+
+s e d
+
+%
+
+b
+
+n
+
+I
+
+A
+
+l
+
+3
+
+la
+
+l
+
+7
+
+I
+
+A
+
+9
+
+l d n
+
+3
+
+l d n
+
+1
+
+,
+
+i
+
+k
+
+i
+
+7
+
+T
+
+A
+
+e
+
+T
+
+A
+
+\:
+
+l
+
+s
+
+l
+
+o
+
+l
+
+n
+
+s
+
+a
+
+e
+
+sk
+
+a
+
+e
+
+la
+
+ft
+
+d
+
+8%
+
+h t
+
+l
+
+r
+
+h t
+
+l
+
+l
+
+d
+
+%
+
+k
+
+c
+
+ö
+
+c
+
+l
+
+6
+
+e
+
+O
+
+n
+
+3
+
+o le e %
+
+f
+
+o le
+
+e
+
+%
+
+ä
+
+n
+
+1
+
+l
+
+A
+
+l d
+
+l d
+
+A
+
+lt
+
+9
+
+a
+
+lt
+
+1
+
+S
+
+o
+
+å n
+
+3
+
+g
+
+å n
+
+5
+
+k
+
+e h A
+
+li
+
+e h A
+
+s
+
+t
+
+r
+
+l
+
+H
+
+H
+
+l
+
+ö
+
+d
+
+m
+
+ig
+
+f
+
+i
+
+e %
+
+r
+
+e
+
+%
+
+lt
+
+d
+
+5
+
+e
+
+a
+
+e
+
+d
+
+a
+
+l
+
+d
+
+S
+
+d
+
+d
+
+0
+
+g
+
+n
+
+2
+
+r
+
+(
+
+r
+
+l
+
+n
+
+7
+
+li
+
+A
+
+A
+
+t
+
+ä
+
+,9
+
+ä
+
+A
+
+A
+
+lv
+
+,6
+
+lv
+
+,6
+
+m
+
+8
+
+a
+
+e
+
+e
+
+7
+
+x
+
+e
+
+8
+
+S
+
+d
+
+e
+
+d
+
+e
+
+(
+
+rd
+
+e
+
+d
+
+e
+
+rd
+
+,8
+
+ä
+
+M
+
+In
+
+M
+
+ä
+
+lv
+
+,9
+
+lv
+
+,1
+
+7
+
+x
+
+e
+
+7
+
+e
+
+9
+
+e
+
+d
+
+r
+
+d
+
+d
+
+e
+
+s
+
+e
+
+e
+
+In
+
+M
+
+v
+
+v
+
+e
+
+M
+
+ö
+
+l
+
+h
+
+r
+
+e
+
+e a
+
+a h
+
+b
+
+l r
+
+m
+
+l
+
+o
+
+m
+
+a le
+
+s
+
+l
+
+n
+
+o
+
+t a
+
+p
+
+s t?
+
+la e
+
+s
+
+l
+
+i n
+
+d r
+
+v
+
+jä
+
+lp te
+
+a
+
+t n
+
+n k
+
+t a
+
+h
+
+jä e
+
+a j
+
+b
+
+rä r
+
+n
+
+h r
+
+h o
+
+o le
+
+a
+
+e p
+
+l
+
+e
+
+n l
+
+,
+
+r
+
+d
+
+b r
+
+i e
+
+e o
+
+r
+
+l
+
+å ?
+
+d k
+
+o
+
+b e
+
+f a
+
+a k
+
+r
+
+r s
+
+k c
+
+n
+
+r i
+
+n a
+
+n r
+
+å a
+
+l
+
+r r
+
+r
+
+f
+
+e
+
+e
+
+r
+
+f
+
+a ä
+
+a
+
+v
+
+?
+
+l
+
+n
+
+n a
+
+r
+
+b
+
+r l
+
+t
+
+b o
+
+k
+
+e
+
+a ä
+
+t n
+
+t i
+
+a
+
+r
+
+e
+
+t
+
+t t
+
+b t
+
+rn e it
+
+i o
+
+i k
+
+t
+
+ra
+
+t
+
+g
+
+t
+
+a d
+
+d
+
+d e
+
+t a
+
+ä
+
+r
+
+n
+
+å
+
+l
+
+i
+
+l
+
+t
+
+?
+
+r
+
+r
+
+ä
+
+e
+
+t n
+
+d
+
+\-
+
+l m
+
+a r
+
+ö
+
+a
+
+n
+
+t f
+
+t o id
+
+v
+
+k e
+
+t
+
+e
+
+t t
+
+a la
+
+r d
+
+d
+
+t s
+
+u
+
+e
+
+a n
+
+n
+
+a
+
+n
+
+d t o
+
+v n
+
+a
+
+e
+
+u
+
+u l
+
+a
+
+u s ö
+
+r la k
+
+t
+
+v k
+
+s
+
+ta s
+
+d o
+
+ö
+
+d
+
+e d i
+
+d
+
+f v
+
+r k
+
+r a
+
+v
+
+ö
+
+o
+
+e s
+
+m
+
+o n
+
+e n n
+
+ö
+
+e a
+
+l a
+
+t
+
+r
+
+k
+
+e
+
+k
+
+e
+
+S
+
+h
+
+c n
+
+B
+
+c a n
+
+p h x
+
+.
+
+u e
+
+y rå
+
+.
+
+y ik n
+
+p e u
+
+3
+
+H b
+
+T f
+
+4
+
+T l a
+
+U b v
+
 <!-- sida 111 -->
+
+Vårdnadshavare Förskoleklass
 
 Resultat frågeområden      och  frågor
 
@@ -7557,313 +33898,1438 @@ andra elever i skolan?
 Upplever du att ditt barn känner rädsla för
 9,2   74%   18%  5%    \*     \*    2%    9,2
 någon lärare eller annan vuxen i skolan?
-6 . S tu d ie
-H u r o ft a
-le k t io n e
-H u r o ft a
-le k t io n e
-k o n c e n t
-ro
-v e rk a
-rn a ?
-v e rk a
-rn a a
-re ra s
-r d
-r d
-t t d
-ig ?
-e t v a
-e t v a
-it t b
-ra a rb e t s ro p å
-ra s å s t ö k ig t p
-a rn h a r s v å rt a
-å
-t t
-In
-M
-M
-d
-e
-e
-e
-d
-d
-x 6 ,6
-e lv ä
-6 ,8
-e lv ä
-6 ,3
-(S
-rd
-rd
-a
-e
-e
-m tlig a fö rs
-A l lt id
-A n d e l
-1 1 %
-A l d rig
-A n d e l
-1 5 %
-k o le k la s s
-O f t a
-A n d e l
-4 3 %
-S ä lla n
-A n d e l
-2 9 %
-: 6 ,8 )
-Ib la
-A n d
-1 4
-Ib la
-A n d
-2 4
-n
-e
-%
-n
-e
-%
-d
-l
-d
-l
-S ä lla
-A n d e
-\* \* \*
-O f t a
-A n d e
-1 2 %
-n
-l
-l
-A
-A
-A
-A
-l d rig
-n d e l
-\*
-l lt id
-n d e l
-1 %
-V
-V
-e
-A
-e
-A
-t
-n
-2
-t
-n
-1
-in
-d e
-3 %
-in
-d e
-8 %
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-7
-m
-e
-6
-t lig a
-lv ä rd
-,0
-t lig a
-lv ä rd
-,7
-e
-e
-Vårdnadshavare Förskoleklass
+
 53
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,0
+
+t
+
+lv
+
+,7
+
+e
+
+7
+
+e
+
+6
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+%
+
+in
+
+%
+
+d
+
+3
+
+d
+
+8
+
+t
+
+t
+
+e
+
+n
+
+2
+
+e
+
+n
+
+1
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+ig
+
+d
+
+r
+
+e
+
+i
+
+e
+
+d
+
+\*
+
+lt
+
+d
+
+%
+
+ld
+
+n
+
+l
+
+n
+
+1
+
+A
+
+A
+
+A
+
+A
+
+l
+
+l
+
+n
+
+e
+
+e
+
+la
+
+\*
+
+ta
+
+%
+
+l
+
+d
+
+\*
+
+f
+
+d
+
+2
+
+ä
+
+n
+
+\*
+
+O
+
+n
+
+1
+
+S
+
+A
+
+A
+
+d
+
+l
+
+d
+
+l
+
+n
+
+e %
+
+n
+
+e
+
+%
+
+la
+
+d
+
+4
+
+la
+
+d
+
+4
+
+n
+
+1
+
+n
+
+2
+
+)
+
+Ib
+
+A
+
+Ib
+
+A
+
+,8
+
+6
+
+\:
+
+s
+
+l
+
+l
+
+s
+
+e
+
+n
+
+e
+
+a
+
+ta
+
+%
+
+la
+
+%
+
+l
+
+f
+
+d
+
+3
+
+l
+
+d
+
+9
+
+k
+
+n
+
+4
+
+n
+
+2
+
+le
+
+O
+
+A
+
+ä
+
+A
+
+o
+
+S
+
+sk
+
+r
+
+l
+
+l
+
+ö
+
+d
+
+ig
+
+f
+
+i
+
+e %
+
+r
+
+e
+
+%
+
+lt
+
+d
+
+1
+
+d
+
+5
+
+a
+
+l
+
+ld
+
+n
+
+ig
+
+n
+
+1
+
+1
+
+l
+
+A
+
+A
+
+A
+
+A
+
+t
+
+am
+
+S
+
+e
+
+e
+
+(
+
+rd
+
+rd
+
+,6
+
+ä
+
+ä
+
+lv
+
+,8
+
+lv
+
+,3
+
+6
+
+e
+
+6
+
+e
+
+6
+
+x
+
+d
+
+d
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å tt
+
+å
+
+p a
+
+p
+
+t
+
+rt
+
+o
+
+ig
+
+r
+
+å
+
+s
+
+k v
+
+t
+
+ö s
+
+t r
+
+e
+
+s
+
+rb
+
+a
+
+å h
+
+a
+
+s
+
+a
+
+a rn
+
+r
+
+r a
+
+a
+
+a b
+
+v
+
+v
+
+t
+
+t tt
+
+e
+
+e i
+
+d
+
+d d ?
+
+r
+
+r tt ig
+
+a ?
+
+a a s
+
+rk
+
+rk
+
+a
+
+e a
+
+e a r
+
+o
+
+v rn
+
+v rn e
+
+r
+
+tr
+
+ie
+
+a e
+
+a e
+
+ft n
+
+ft n n
+
+d
+
+e
+
+u
+
+o io
+
+o io c
+
+t
+
+r t
+
+r t
+
+S
+
+k
+
+k n
+
+.
+
+u
+
+u
+
+6
+
+H le
+
+H le ko
 
 <!-- sida 112 -->
 
+Vårdnadshavare Förskoleklass
+
 Resultat frågeområden      och  frågor
+
+Helt och Till stor Till viss
+9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
+hållet del   del
+Medelvärde Andel Andel Andel Andel Andel Medelvärde
+Erbjuder fritids ditt barn meningsfulla aktiviteter? 7,5 38% 43% 13% \* \*\* 7,5
+
+Erbjuder fritids ditt barn en trygg verksamhet? 8,0 51% 38% 8% 2% 2% 7,8
+
+Stimulerar fritids ditt barns sociala utveckling? 7,5 39% 40% 11% 2% 8% 7,5
+
+Stimulerar fritids ditt barns lärande? 6,9 26% 41% 14%  3%   16%    6,8
+
+Finns det möjligheter till både aktivitet och vila? 7,4 31% 34% 8% 3% 24% 7,1
+
+Får du tillräcklig information om vad som händer
+5,1   21%   27%   32%   \*\*\*   \*     5,6
+på fritids?
+
+54
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,5
+
+t
+
+lv
+
+,1
+
+e
+
+7
+
+e
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+in
+
+e
+
+%
+
+in
+
+e
+
+d
+
+d %
+
+t
+
+8
+
+t
+
+9
+
+e
+
+n
+
+2
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+s
+
+t
+
+l
+
+l
+
+l
+
+e a
+
+l
+
+k ig
+
+e
+
+a
+
+e
+
+c l d
+
+\*
+
+d %
+
+y å n
+
+e
+
+n
+
+3
+
+A
+
+t
+
+A
+
+M d
+
+In
+
+a a
+
+l
+
+s
+
+l
+
+k g
+
+e
+
+is l
+
+e
+
+s i
+
+\*
+
+%
+
+l d
+
+\*
+
+v e d
+
+n
+
+l
+
+5
+
+å n
+
+\*
+
+l d n
+
+1
+
+a
+
+i
+
+)
+
+G d A
+
+T
+
+A
+
+,2
+
+7
+
+r
+
+\:
+
+a
+
+l
+
+l
+
+te
+
+l
+
+s
+
+k
+
+to l
+
+e
+
+s
+
+s a
+
+e
+
+%
+
+e %
+
+in
+
+r d
+
+s e d
+
+d %
+
+%
+
+la
+
+n
+
+6
+
+l
+
+3
+
+t
+
+0
+
+0
+
+b n
+
+3
+
+l d n
+
+4
+
+n
+
+k
+
+a
+
+i
+
+e
+
+le
+
+G
+
+A
+
+T
+
+A
+
+V
+
+A
+
+o
+
+sk
+
+r
+
+t
+
+l
+
+h t
+
+l
+
+l
+
+ö
+
+e
+
+c
+
+j
+
+f
+
+k a
+
+e
+
+%
+
+o le
+
+e %
+
+e
+
+%
+
+c r d
+
+t l d
+
+e
+
+d %
+
+a
+
+y b
+
+8
+
+l
+
+9
+
+7
+
+3
+
+ig
+
+n
+
+2
+
+e å n
+
+2
+
+N
+
+n
+
+1
+
+l
+
+A
+
+h A
+
+A
+
+t
+
+M
+
+H
+
+am
+
+e
+
+e
+
+S
+
+d
+
+d
+
+(
+
+r
+
+r
+
+l
+
+,2
+
+ä
+
+ä
+
+e
+
+lv
+
+,5
+
+lv
+
+,0
+
+a
+
+%
+
+%
+
+7
+
+J
+
+d
+
+3
+
+7
+
+e
+
+7
+
+e
+
+7
+
+n
+
+x
+
+d
+
+d
+
+A
+
+9
+
+8
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å ,
+
+f a
+
+t k
+
+t s
+
+a r ?
+
+)
+
+a te
+
+n
+
+g
+
+r ö lo
+
+e k
+
+ja
+
+v ls o
+
+k
+
+le o y
+
+äm
+
+e k s
+
+fr
+
+?
+
+s p
+
+)
+
+r l l
+
+t
+
+t
+
+fö e o
+
+m
+
+p k
+
+a
+
+e
+
+a
+
+s
+
+r
+
+h
+
+m r
+
+ö
+
+s
+
+rn
+
+f
+
+xe le
+
+r
+
+id
+
+te
+
+l
+
+)
+
+t
+
+e
+
+ta
+
+x
+
+i
+
+e l e
+
+r
+
+l
+
+e
+
+e
+
+f
+
+h i g
+
+d
+
+(
+
+g t
+
+b
+
+i ( o
+
+r
+
+in
+
+s
+
+l g
+
+j
+
+a
+
+j
+
+n a
+
+id
+
+ö
+
+n
+
+e
+
+t
+
+a d
+
+r
+
+i
+
+m s e
+
+la
+
+a
+
+r
+
+l
+
+?
+
+f
+
+u ä lp
+
+o
+
+ld
+
+k a
+
+i
+
+å
+
+d h a
+
+s ls
+
+b
+
+p
+
+r v i
+
+(
+
+c
+
+t
+
+a le
+
+t ä
+
+rn
+
+tt
+
+e
+
+h
+
+m
+
+a
+
+e p
+
+a
+
+e
+
+a
+
+ls
+
+a
+
+s
+
+f n s
+
+u
+
+h
+
+b
+
+ä
+
+,
+
+a
+
+s
+
+t
+
+a
+
+h
+
+p å r
+
+d n
+
+d
+
+t
+
+ig
+
+v
+
+p fr o
+
+r r
+
+i
+
+i
+
+l
+
+t
+
+e
+
+it
+
+d
+
+t
+
+le
+
+u
+
+e
+
+r
+
+r d a
+
+k v
+
+r
+
+E
+
+ö r
+
+c e
+
+F
+
+m
+
+.
+
+u t u
+
+y l
+
+.
+
+å
+
+a
+
+8
+
+H s k
+
+T e
 
 9
 
 G
 
 S
-. F rit id s h
-å r d itt b
-a m tlig a
-e m (b
-a rn p
-ild a r e j in d e x )
-å fritid s (fritid s h e m )?
-A
-Ja
-n d e
-9 3 %
-8 7 %
-l  A
-N e j
-n d e
-7 %
-1 3 %
-l
-V e
-A
-t in
-n d e
-0 %
-0 %
-te
-l
-Helt och Till stor Till viss
-9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
-hållet del   del
-Medelvärde Andel Andel Andel Andel Andel Medelvärde
-Erbjuder fritids ditt barn meningsfulla aktiviteter? 7,5 38% 43% 13% \* \*\* 7,5
-Erbjuder fritids ditt barn en trygg verksamhet? 8,0 51% 38% 8% 2% 2% 7,8
-Stimulerar fritids ditt barns sociala utveckling? 7,5 39% 40% 11% 2% 8% 7,5
-Stimulerar fritids ditt barns lärande? 6,9 26% 41% 14%  3%   16%    6,8
-Finns det möjligheter till både aktivitet och vila? 7,4 31% 34% 8% 3% 24% 7,1
-Får du tillräcklig information om vad som händer
-5,1   21%   27%   32%   \*\*\*   \*     5,6
-på fritids?
-8
-H
-s
-k
-T
-e
-. E le v h ä ls a
-u r u p p fa t ta r d u m
-t ö d frå n e le v h ä ls
-u ra t o r, s p e c ia lp e
-y c k e r d u a t t s k o la
-le v e rn a s h ä ls a ?
-ö jlig h e t e rn a fö r e le v e rn
-a n (t ill e x e m p e l s k o ls k ö
-d a g o g e lle r s k o lp s y k o lo
-n a rb e t a r fö r a t t frä m ja
-a a t t få
-t e rs k a ,
-g )?
-In
-M
-M
-d
-e
-e
-e
-d
-d
-x 7 ,2
-e lv ä
-7 ,5
-e lv ä
-7 ,0
-(S
-rd
-rd
-a
-e
-e
-m tlig a fö rs k
-M y c k e t
-b ra
-A n d e l
-2 8 %
-H e lt o c h
-h å lle t
-A n d e l
-2 9 %
-o le k la s s : 7 ,2
-G a n s k a
-b ra
-A n d e l
-3 6 %
-T ill s t o r
-d e l
-A n d e l
-4 3 %
-)
-G a n s k a
-d å lig a
-A n d e l
-\* \* \*
-T ill v is s
-d e l
-A n d e l
-1 5 %
-M y c k e t
-d å lig a
-A n d e l
-\*
-In t e a lls
-A n d e l
-3 %
-V
-V
-e
-A
-e
-A
-t in
-n d e
-2 8 %
-t in
-n d e
-9 %
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-7
-m
-e
-7
-t lig a
-lv ä rd
-,5
-t lig a
-lv ä rd
-,1
-e
-e
-Vårdnadshavare Förskoleklass
-54
 
 <!-- sida 113 -->
+
+Vårdnadshavare Förskoleklass
 
 Resultat frågeområden      och  frågor
 
@@ -7877,77 +35343,281 @@ skolan om du skulle ha klagomål och är missnöjd
 med hur skolan hanterar detta?
 Samtliga                       74%    13%   13%
 
-1
-
-H
-1
-u
-. Ö
-r n
-v e rg rip a
-ö jd ä r d
-n d e
-u m
-n
-e
-ö jd h
-d d
-e t (b ild a r e
-itt b a rn s s
-j in d
-k o la
-e x
-?
-)
-M e d e
-7
-lv
-,7
-ä rd e
-H eh
-A
-lt o
-å lle
-n d e
-4 7 %
-c ht
-l
-T ill s to
-d e l
-A n d e l
-4 0 %
-r T ill v is s
-d e l
-A n d e l
-1 2 %
-In te
-A n
-1
-a lls
-d e l
-%
-V e
-A
-t in
-n d e
-0 %
-te
-l M
-S
-e
-a
-d
-m
-e
-7
-tlig a
-lv ä rd
-,5
-e
-Vårdnadshavare Förskoleklass
 55
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,5
+
+e
+
+7
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d %
+
+t
+
+0
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d %
+
+te
+
+n
+
+1
+
+In
+
+A
+
+s
+
+l
+
+is l e
+
+v e d %
+
+l
+
+2
+
+l d n
+
+1
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l e
+
+s e d %
+
+l
+
+0
+
+l d n
+
+4
+
+i
+
+T
+
+A
+
+ch t
+
+l
+
+o le e %
+
+l d
+
+lt
+
+7
+
+e å n
+
+4
+
+H h A
+
+e
+
+rd
+
+ä
+
+lv
+
+,7
+
+e
+
+7
+
+d
+
+e
+
+M
+
+)
+
+x
+
+e
+
+?
+
+d
+
+la
+
+in
+
+o
+
+j
+
+k
+
+e
+
+s
+
+r
+
+a
+
+s
+
+d
+
+rn
+
+il
+
+b
+
+a
+
+(
+
+b
+
+t
+
+t
+
+e
+
+it
+
+h
+
+d
+
+jd
+
+ö
+
+d
+
+n
+
+e
+
+e
+
+m
+
+nd
+
+u
+
+a
+
+d
+
+ip
+
+r
+
+r
+
+ä
+
+g
+
+r
+
+jd
+
+ve
+
+ö
+
+n
+
+Ö
+
+.
+
+r
+
+u
+
+11
+
+H
+
 <!-- sida 114 -->
+
+Vårdnadshavare Grundskola
 
 Resultat indexvärden     – diagram
 
@@ -7960,88 +35630,270 @@ Vit stapel: Aktuell huvudman1/skolenhet
 Grå stapel2: Samtliga deltagande skolenheter för huvudmannen1
 Svart stapel: Samtliga deltagande skolenheter för insamlingsomgången
 
-1 . I n f
-
-4
-5
-o r m
-. B e
-. B e
-a
-m
-m
-t io n f r å n s k o la
-2 . S t im u la n
-3 . S t ö
-ö t a n d e - lä r a r
-ö t a n d e - e le v e
-6 . S t u d ie r
-7 . T r y g g h e
-8 . E le v h ä ls
-n
-s
-d
-e
-r
-o
-t
-a
-0  1
-K
-S
-u
-a
-n
-m
-2
-g
-t
-s b
-lig
-a
-a
-c k
-m
-3
-a k
-e d
-o
-v
-4
-m
-e r
-m
-k
-u n
-a n d
-5
-g
-e
-r u n
-s k o
-6
-d s
-le
-k
-n
-o
-h
-la
-e
-7
-t e r g
-8
-r u n d s
-9
-k o la
-1 0
-Vårdnadshavare Grundskola
 1Med skolhuvudman avses den som anordnar skolverksamhet, till exempel en kommun, ett
 bolag eller en förening som driver en fristående skola.
 56
 2Gäller endast för skolenheter med jämförelser mot huvudman.
 
+10
+
+la
+
+o
+
+sk
+
+9
+
+nd
+
+ru
+
+g
+
+8
+
+r
+
+te
+
+la
+
+e
+
+o
+
+h
+
+7
+
+sk
+
+n
+
+d
+
+le
+
+n
+
+ko
+
+6
+
+ru
+
+s
+
+g
+
+e
+
+n
+
+d
+
+5
+
+u
+
+an
+
+m
+
+rk
+
+e
+
+om
+
+v
+
+4
+
+k
+
+d
+
+e
+
+ka
+
+c
+
+m
+
+3
+
+a
+
+a
+
+b
+
+ig
+
+l
+
+s
+
+t
+
+g
+
+2
+
+un
+
+m
+
+K
+
+Sa
+
+1
+
+0
+
+s
+
+r
+
+t
+
+n
+
+d
+
+re e
+
+ro e a
+
+la n ö
+
+ls
+
+la
+
+t
+
+ra v
+
+ie h ä
+
+o
+
+S
+
+le
+
+g
+
+k u
+
+.
+
+lä
+
+d g h
+
+e
+
+v
+
+s
+
+3
+
+\-
+
+u y
+
+im
+
+\-
+
+t
+
+r
+
+le
+
+n
+
+t
+
+e
+
+S T
+
+å S
+
+e
+
+.
+
+E
+
+r
+
+d
+
+.
+
+.
+
+f
+
+.
+
+d 6
+
+2
+
+n n
+
+7 8
+
+n
+
+ta
+
+ta
+
+io
+
+t
+
+ö ö
+
+a
+
+em em
+
+rm
+
+B
+
+B
+
+.
+
+.
+
+fo
+
+4 5
+
+In
+
+.
+
+1
+
 <!-- sida 115 -->
+
+Vårdnadshavare Grundskola
 
 Resultat indexvärden     – tabell
 
@@ -8049,12 +35901,326 @@ Tabell över indexvärden (0–10). Ett högt indexvärde indikerar en positiv u
 
 mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 
+57
+
+e la
+
+d
+
+n ko
+
+a s
+
+k d
+
+r n
+
+ve u
+
+d r
+
+e g
+
+,2
+
+,7
+
+,8
+
+,9
+
+,7
+
+,6
+
+,5
+
+,7
+
+r
+
+6
+
+6
+
+6
+
+7
+
+6
+
+5
+
+7
+
+6
+
+m te
+
+a e
+
+ig h
+
+l
+
+t n
+
+le
+
+am ko
+
+S s
+
+n
+
+u
+
+m
+
+m la
+
+o
+
+k ko
+
+a s
+
+,5
+
+2
+
+,3
+
+5
+
+,5
+
+2
+
+,3
+
+2
+
+k
+
+,
+
+,
+
+,
+
+,
+
+c d
+
+5
+
+6
+
+6
+
+7
+
+6
+
+5
+
+7
+
+6
+
+a n
+
+ru
+
+sb g
+
+g
+
+n
+
+u
+
+K
+
+n
+
+la
+
+o
+
+k
+
+e
+
+r
+
+s
+
+r
+
+e
+
+n
+
+ra
+
+v
+
+å
+
+le
+
+r
+
+lä
+
+e
+
+f
+
+\-
+
+\-
+
+n
+
+e
+
+e
+
+io
+
+s
+
+d
+
+d
+
+t
+
+n
+
+n
+
+n
+
+t
+
+sa
+
+a
+
+a
+
+a
+
+a
+
+ro
+
+e
+
+l
+
+l
+
+t
+
+t
+
+h
+
+ä
+
+rm
+
+u
+
+ö
+
+ö
+
+ie
+
+g
+
+h
+
+d
+
+d
+
+g
+
+v
+
+fo
+
+im
+
+ö m m
+
+u
+
+y
+
+n
+
+t
+
+t
+
+e
+
+e
+
+t
+
+r
+
+le
+
+I
+
+S
+
+S
+
+B
+
+B
+
+S
+
+T
+
+E
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 1
+
 2
 
 3
 
 4
+
 5
 
 6
@@ -8062,68 +36228,6 @@ mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 7
 
 8
-. In fo
-. S t im
-. S t ö d
-. B e m
-. B e m
-. S t u d
-. T r y g
-. E le v
-r m a tio n fr å n
-u la n s
-ö ta n d e - lä r a
-ö ta n d e - e le v
-ie r o
-g h e t
-h ä ls a
-s
-r
-e
-k
-e
-r
-o la n
-K u n g sg br au c k a
-n d s
-5 ,5
-6 ,2
-6 ,3
-7 ,5
-6 ,5
-5 ,2
-7 ,3
-6 ,2
-k o m
-k o la
-m u n  S a
-s k o
-m tlig
-le n h
-ae m
-te r
-6
-6
-6
-7
-6
-5
-7
-6
-e d
-g r
-,2
-,7
-,8
-,9
-,7
-,6
-,5
-,7
-vu en r kd as n d e
-k o la
-Vårdnadshavare Grundskola
-57
 
 <!-- sida 116 -->
 
@@ -8171,6 +36275,8 @@ Medelvärden
 
 <!-- sida 117 -->
 
+Vårdnadshavare Grundskola
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -8179,269 +36285,1226 @@ aktuell målgrupp. Resultatet maskeras med \* för att säkra anonymitet för
 respondenterna. Läs mer om Skolenkätens redovisningsprinciper på
 www.skolinspektionen.se/skolenkaten.
 
-1 . In fo rm a tio n frå n s k o la n In
-
-M
-F å r d u tillrä c k lig in fo rm a tio n frå n p e rs o n a le n o m
-h u r d itt b a rn u tv e c k la s k u n s k a p s m ä s s ig t?
-F å r d u tillrä c k lig in fo rm a tio n frå n p e rs o n a le n o m
-h u r d itt b a rn v e rk a r triv a s i s k o la n ?
-
-2 . S tim u la n s       In d e x 6 ,2
-
-M e d e lv ä
-H u r o fta v e rk a r lä ra rn a få d itt b a rn a tt b li
-6 ,4
-in tre s s e ra t a v s k o la rb e te t?
-
-M
-
-T y c k e r d u a tt lä ra rn a få r d itt b a rn a tt tro p å s ig
-s jä lv i s k o la rb e te t?
-T y c k e r d u a tt d itt b a rn få r tillrä c k lig a u tm a n in g a r
-fö r a tt u tv e c k la s i s k o la rb e te t?
-d e x 5 ,5 (S a m tlig a g ru n d
-H e lt o c h
-h å lle t
-e d e lv ä rd e A n d e l
-5 ,5  1 9 %
-5 ,4  2 0 %
-(S a m tlig a g ru n d s k o la : 6
-A lltid O fta
-rd e A n d e l A n d e l
-1 2 % 4 5 %
-H e lt o c h
-h å lle t
-e d e lv ä rd e A n d e l
-6 ,0  2 1 %
-6 ,1  2 2 %
-s k o la : 6 ,2 )
-T ill s to r
-d e l
-A n d e l
-3 6 %
-3 4 %
-,7 )
-Ib la n d
-A n d e l
-2 6 %
-T ill s to r
-d e l
-A n d e l
-3 8 %
-3 9 %
-T
-T
-ill v is s
-d e l
-A n d e l
-3 6 %
-3 3 %
-S ä lla
-A n d e
-1 0 %
-ill v is s
-d e l
-A n d e l
-2 6 %
-2 6 %
-n
-l
-In te a lls
-A n d e l
-9 %
-1 2 %
-A ld rig
-A n d e l
-2 %
-In te a lls
-A n d e l
-7 %
-6 %
-V e t in te
-A n d e l
-1 %
-0 %
-V e t in te
-A n d e l
-6 %
-V e t in te
-A n d e l
-8 %
-7 %
-M
-M
-M
-S a m
-e d e
-6
-6
-S a m
-e d e
-6
-S a m
-e d e
-6
-6
-tlig a
-lv ä rd
-,4
-,0
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,6
-,7
-e
-e
-e
-Vårdnadshavare Grundskola
 59
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+9
+
+l
+
+t
+
+lv
+
+,4
+
+,0
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,6
+
+,7
+
+e
+
+6
+
+6
+
+e
+
+6
+
+e
+
+6
+
+6
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+e
+
+l
+
+t
+
+l
+
+t
+
+e
+
+t
+
+in
+
+e
+
+in
+
+d %
+
+in
+
+e
+
+d %
+
+%
+
+d %
+
+%
+
+t
+
+1
+
+0
+
+t
+
+n
+
+6
+
+t
+
+8
+
+7
+
+e
+
+n
+
+e
+
+A
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+s
+
+l
+
+s
+
+l
+
+l
+
+ig
+
+l
+
+l
+
+l
+
+e
+
+l
+
+e
+
+r
+
+d %
+
+e
+
+a
+
+d %
+
+%
+
+ld
+
+n
+
+2
+
+a
+
+d %
+
+%
+
+e
+
+n
+
+9
+
+2
+
+e
+
+n
+
+7
+
+6
+
+t
+
+A
+
+1
+
+A
+
+A
+
+t
+
+In
+
+In
+
+A
+
+n
+
+l
+
+s
+
+l
+
+a
+
+e
+
+s
+
+l
+
+s
+
+l
+
+%
+
+s
+
+i l
+
+e
+
+l
+
+d
+
+0
+
+i l e
+
+v e d %
+
+%
+
+ä
+
+n
+
+1
+
+v e d %
+
+%
+
+l
+
+6
+
+3
+
+A
+
+l
+
+6
+
+6
+
+l d n
+
+3
+
+3
+
+S
+
+l d n
+
+2
+
+2
+
+i
+
+i
+
+T
+
+A
+
+T
+
+A
+
+l
+
+)
+
+d
+
+r
+
+e
+
+r
+
+,2
+
+l
+
+n
+
+%
+
+l
+
+6
+
+to l
+
+e
+
+la
+
+d
+
+6
+
+to l e
+
+\:
+
+%
+
+%
+
+n
+
+2
+
+%
+
+%
+
+s e d
+
+b
+
+s e d
+
+la
+
+l
+
+6
+
+4
+
+I
+
+A
+
+l
+
+8
+
+9
+
+l d n
+
+3
+
+3
+
+l d n
+
+3
+
+3
+
+o
+
+i
+
+A
+
+)
+
+i
+
+A
+
+k
+
+T
+
+,7
+
+T
+
+s
+
+l
+
+d
+
+6
+
+\:
+
+n
+
+h
+
+ta
+
+e %
+
+h
+
+ru
+
+c t
+
+l
+
+la
+
+f
+
+d
+
+5
+
+c t
+
+l
+
+g
+
+o le
+
+e %
+
+%
+
+o
+
+O
+
+n
+
+4
+
+o le e %
+
+%
+
+l d
+
+k
+
+A
+
+l d
+
+a
+
+lt
+
+9
+
+0
+
+s
+
+lt
+
+1
+
+2
+
+g
+
+å n
+
+1
+
+2
+
+å n
+
+2
+
+2
+
+li
+
+e h A
+
+d
+
+e h A
+
+t
+
+n
+
+H
+
+ru
+
+l
+
+H
+
+m
+
+g
+
+id
+
+e %
+
+a
+
+e
+
+lt
+
+d
+
+2
+
+e
+
+S
+
+d
+
+a
+
+l
+
+d
+
+(
+
+r
+
+g
+
+n
+
+1
+
+r
+
+li
+
+A
+
+A
+
+,5
+
+ä
+
+t
+
+ä
+
+lv
+
+,5
+
+,4
+
+lv
+
+,0
+
+,1
+
+5
+
+x
+
+e
+
+5
+
+5
+
+am
+
+e
+
+e
+
+6
+
+6
+
+e
+
+d
+
+S
+
+d
+
+d
+
+e
+
+(
+
+rd
+
+e
+
+In
+
+M
+
+,2
+
+ä
+
+M
+
+lv
+
+,4
+
+6
+
+e
+
+6
+
+x
+
+e
+
+d
+
+r
+
+m
+
+m
+
+d
+
+e
+
+a
+
+o
+
+o
+
+In
+
+M
+
+g
+
+ig
+
+n
+
+n
+
+s
+
+in
+
+le
+
+le
+
+å
+
+n
+
+a ? a
+
+i
+
+a
+
+n t n
+
+l
+
+p
+
+o ig o
+
+b
+
+o
+
+tm
+
+s
+
+s
+
+r
+
+r s
+
+r
+
+tt
+
+t
+
+u
+
+e s e
+
+t
+
+a
+
+ä
+
+a
+
+t
+
+g
+
+p
+
+p ?
+
+n
+
+a
+
+i
+
+n m n n
+
+r
+
+l
+
+s
+
+a
+
+a
+
+rn
+
+k
+
+rå p
+
+rå l
+
+c
+
+f
+
+f
+
+b
+
+a
+
+ä ?
+
+a
+
+o
+
+t
+
+k
+
+t
+
+b
+
+lr
+
+n k n
+
+it
+
+t
+
+l e
+
+s
+
+s
+
+t
+
+i t
+
+io
+
+io i
+
+d ?
+
+i
+
+t
+
+t n
+
+t
+
+t
+
+e
+
+u
+
+s
+
+å e
+
+d
+
+r b
+
+a
+
+a
+
+f t
+
+r
+
+n
+
+k
+
+a
+
+r
+
+å
+
+v
+
+e
+
+f a
+
+a
+
+m s m i
+
+a
+
+å
+
+l
+
+l
+
+r
+
+r
+
+b
+
+f
+
+n
+
+o
+
+a
+
+tr
+
+n r
+
+r o
+
+fo l
+
+fo
+
+r
+
+a
+
+k
+
+k
+
+k
+
+r
+
+a la
+
+n ? a
+
+s
+
+n c n
+
+r
+
+r t b s
+
+i
+
+i a
+
+i
+
+o
+
+n
+
+e
+
+rk
+
+lä k
+
+a te
+
+t
+
+å
+
+ig v
+
+ig
+
+s
+
+r
+
+it s
+
+r
+
+l t
+
+l e
+
+r
+
+ä e
+
+f
+
+l
+
+d a
+
+k u k v
+
+a v
+
+b
+
+l
+
+n
+
+t r
+
+t k
+
+c n c n
+
+rk a
+
+t
+
+t c
+
+io
+
+ä r ä r
+
+s
+
+t
+
+la
+
+t
+
+lr a
+
+lr a
+
+n
+
+e a
+
+a
+
+a e
+
+a
+
+l
+
+l
+
+v r
+
+o
+
+v
+
+i b
+
+i b
+
+la
+
+u k u t
+
+t
+
+t
+
+a e
+
+m
+
+t
+
+t
+
+u
+
+t s
+
+d s
+
+d u
+
+r
+
+it
+
+it
+
+f
+
+r i
+
+r t
+
+o
+
+u
+
+u
+
+s
+
+t
+
+f
+
+im
+
+o
+
+e
+
+e
+
+d d
+
+d d
+
+t
+
+e
+
+v
+
+a
+
+n
+
+r
+
+r
+
+r r
+
+k l k
+
+I
+
+r
+
+r
+
+S
+
+t
+
+c
+
+c r
+
+.
+
+å u å u
+
+.
+
+u
+
+y jä y
+
+1
+
+F h F h
+
+2
+
+H in
+
+T s T fö
 
 <!-- sida 118 -->
 
+Vårdnadshavare Grundskola
+
 Resultat frågeområden      och  frågor
 
-3 . S tö d               In
-
-M
-H u r o fta v e rk a r d itt b a rn få d e n h jä lp s o m
-b e h ö v s u n d e r le k tio n e rn a ?
-
-T y c k e r d u a tt d itt b a rn få r d e n h jä lp s o m b e h ö v
-frå n s k o la n fö r a tt k la ra s k o la rb e te t?
-
-4 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a v e rk a r b e h a n d la a lla e le v
-lik a o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h a r
-a n n a n k ö n s id e n tite t?
-
-M
-U p p le v e r d u a tt d itt b a rn b lir o rä ttv is t
-b e h a n d la t a v n å g o n lä ra re e lle r a n n a n
-v u x e n i s k o la n ?
-d e x 6 ,3
-e d e lv ä
-6 ,4
-M
-s
-In
-M
-e r
-e d e lv ä
-7 ,8
-(S a m tlig a g ru n d s k o la : 6
-A lltid O fta
-rd e A n d e l A n d e l
-1 1 % 4 3 %
-H e lt o c h
-h å lle t
-e d e lv ä rd e A n d e l
-6 ,1  2 4 %
-d e x 7 ,5 (S a m tlig a g ru n d
-H e lt o c h
-h å lle t
-e d e lv ä rd e A n d e l
-7 ,2  3 3 %
-A ld rig S ä lla n
-rd e A n d e l A n d e l
-4 3 % 2 8 %
-,8 )
-Ib la n d
-A n d e l
-2 6 %
-T ill s to r
-d e l
-A n d e l
-4 1 %
-s k o la : 7 ,9 )
-T ill s to r
-d e l
-A n d e l
-2 2 %
-Ib la n d
-A n d e l
-1 9 %
-T
-T
-S ä lla
-A n d e
-9 %
-ill v is s
-d e l
-A n d e l
-2 6 %
-ill v is s
-d e l
-A n d e l
-1 1 %
-O fta
-A n d e
-5 %
-n
-l
-l
-A ld rig
-A n d e l
-2 %
-In te a lls
-A n d e l
-6 %
-In te a lls
-A n d e l
-6 %
-A lltid
-A n d e l
-1 %
-V e t in te
-A n d e l
-9 %
-V e t in te
-A n d e l
-3 %
-V e t in te
-A n d e l
-2 8 %
-V e t in te
-A n d e l
-4 %
-M
-M
-M
-M
-S a m
-e d e
-6
-S a m
-e d e
-6
-S a m
-e d e
-7
-S a m
-e d e
-8
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,7
-tlig a
-lv ä rd
-,7
-tlig a
-lv ä rd
-,1
-e
-e
-e
-e
-Vårdnadshavare Grundskola
 5\. Bemötande - elever        Index 6,5 (Samtliga grundskola: 6,7)
+
 Mycket Ganska Ganska Mycket
 Vet inte Samtliga
 bra   bra  dåligt dåligt
@@ -8454,161 +37517,1306 @@ Hur uppfattar du att eleverna bemöter vuxna i
 skolan?
 60
 
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+9
+
+l
+
+l
+
+l
+
+v
+
+1
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,7
+
+t
+
+lv
+
+,7
+
+t
+
+l
+
+,
+
+e
+
+6
+
+e
+
+6
+
+e
+
+7
+
+e
+
+8
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+t
+
+t
+
+e
+
+in
+
+d %
+
+in
+
+e
+
+in
+
+e
+
+%
+
+in
+
+d
+
+%
+
+d %
+
+d
+
+t
+
+n
+
+9
+
+t
+
+3
+
+t
+
+8
+
+t
+
+n
+
+4
+
+e
+
+A
+
+e
+
+n
+
+e
+
+n
+
+2
+
+e
+
+A
+
+V
+
+V
+
+A
+
+V
+
+A
+
+V
+
+l
+
+s
+
+s
+
+l
+
+ig
+
+l
+
+l
+
+l
+
+l
+
+d
+
+r
+
+e
+
+l
+
+l
+
+i
+
+e
+
+d %
+
+e
+
+e
+
+lt
+
+d
+
+%
+
+ld
+
+n
+
+2
+
+a
+
+d %
+
+a
+
+d
+
+%
+
+l
+
+n
+
+1
+
+e
+
+n
+
+6
+
+e
+
+n
+
+6
+
+A
+
+A
+
+A
+
+t
+
+t
+
+A
+
+A
+
+In
+
+A
+
+In
+
+n
+
+l
+
+l
+
+a
+
+e
+
+s
+
+l
+
+s
+
+l
+
+a
+
+e
+
+l
+
+%
+
+s
+
+s
+
+t
+
+%
+
+l
+
+d
+
+i l e
+
+i l
+
+e
+
+f
+
+d
+
+ä
+
+n
+
+9
+
+v e d %
+
+v e d
+
+%
+
+O
+
+n
+
+5
+
+A
+
+l
+
+6
+
+l
+
+1
+
+A
+
+S
+
+l d n
+
+2
+
+l d n
+
+1
+
+i
+
+i
+
+T
+
+A
+
+T
+
+A
+
+l
+
+l
+
+d
+
+)
+
+d
+
+e
+
+r
+
+r
+
+e
+
+n
+
+%
+
+l
+
+,9
+
+l
+
+n
+
+%
+
+la
+
+d
+
+6
+
+to l e
+
+7
+
+to l
+
+e
+
+la
+
+d
+
+9
+
+n
+
+2
+
+%
+
+\:
+
+%
+
+n
+
+1
+
+b
+
+s e d
+
+s e d
+
+b
+
+I
+
+A
+
+l
+
+1
+
+la
+
+l
+
+2
+
+I
+
+A
+
+l d n
+
+4
+
+l d n
+
+2
+
+)
+
+i
+
+A
+
+o
+
+i
+
+A
+
+,8
+
+T
+
+k
+
+T
+
+l
+
+s
+
+l
+
+6
+
+d
+
+n
+
+\:
+
+a
+
+ta
+
+e %
+
+h
+
+n
+
+h
+
+la
+
+e
+
+%
+
+l
+
+f
+
+d
+
+3
+
+c t
+
+l
+
+ru
+
+c t
+
+l
+
+l
+
+d
+
+8
+
+o
+
+O
+
+n
+
+4
+
+o le e %
+
+g
+
+o le
+
+e
+
+%
+
+ä
+
+n
+
+2
+
+k
+
+A
+
+l d
+
+l d
+
+A
+
+s
+
+lt
+
+4
+
+a
+
+lt
+
+3
+
+S
+
+å n
+
+2
+
+g
+
+å n
+
+3
+
+d
+
+e h A
+
+li
+
+e h A
+
+n
+
+t
+
+ru
+
+l
+
+H
+
+H
+
+l
+
+d
+
+m
+
+ig
+
+g
+
+i
+
+e %
+
+r
+
+e
+
+%
+
+lt
+
+d
+
+1
+
+e
+
+a
+
+e
+
+d
+
+3
+
+a
+
+l
+
+n
+
+d
+
+S
+
+d
+
+ld
+
+n
+
+g
+
+1
+
+r
+
+(
+
+r
+
+4
+
+li
+
+A
+
+A
+
+A
+
+A
+
+t
+
+ä
+
+,5
+
+ä
+
+lv
+
+,1
+
+lv
+
+,2
+
+7
+
+am
+
+e
+
+e
+
+6
+
+x
+
+e
+
+7
+
+e
+
+S
+
+d
+
+e
+
+d
+
+(
+
+rd
+
+e
+
+d
+
+e
+
+rd
+
+,3
+
+ä
+
+M
+
+In
+
+M
+
+ä
+
+lv
+
+,4
+
+lv
+
+,8
+
+6
+
+x
+
+e
+
+6
+
+e
+
+7
+
+e
+
+d
+
+r
+
+d
+
+d
+
+e
+
+s
+
+e
+
+e
+
+In
+
+M
+
+v
+
+v
+
+M
+
+e
+
+ö
+
+l r
+
+h
+
+e a
+
+e
+
+a h
+
+b
+
+l r
+
+m
+
+l
+
+o
+
+m
+
+a le
+
+s
+
+l
+
+n
+
+o
+
+t a
+
+p
+
+s t?
+
+la e
+
+s n
+
+l
+
+i
+
+d r
+
+v
+
+jä
+
+lp te
+
+a
+
+t n
+
+n k
+
+t a
+
+h
+
+jä e
+
+a j
+
+ä r
+
+b
+
+r
+
+n
+
+h r
+
+h o
+
+o le
+
+a
+
+e p
+
+l
+
+e
+
+n l
+
+,
+
+r
+
+d
+
+b r
+
+i e
+
+e o
+
+r
+
+l
+
+å ?
+
+d k
+
+o
+
+b e
+
+f a
+
+a k
+
+r
+
+r s
+
+k c
+
+n
+
+r i
+
+n a
+
+n r
+
+å a
+
+l
+
+r r
+
+r
+
+f
+
+e
+
+e
+
+r
+
+f
+
+a ä
+
+a
+
+v
+
+l
+
+n
+
+n a
+
+r ?
+
+b
+
+r l
+
+t
+
+b o
+
+k
+
+e
+
+a ä
+
+t n
+
+t i
+
+a
+
+r
+
+e
+
+t
+
+t t
+
+b t
+
+rn e it
+
+i o
+
+i
+
+t
+
+a
+
+t
+
+g
+
+k
+
+t
+
+r
+
+a d
+
+d
+
+d e
+
+t a
+
+ä
+
+r
+
+n
+
+t å
+
+l
+
+i
+
+l
+
+?
+
+r
+
+r
+
+ä
+
+e
+
+t n
+
+d
+
+\-
+
+l m
+
+n
+
+a r
+
+ö
+
+a
+
+t f
+
+t o id
+
+v a
+
+k e
+
+e
+
+a l
+
+r
+
+t
+
+t t s
+
+u
+
+d
+
+n
+
+d
+
+t
+
+t
+
+e n
+
+a a
+
+n
+
+a e n
+
+d
+
+o
+
+v
+
+u l
+
+a
+
+u s ö
+
+r la k
+
+u
+
+t
+
+s
+
+a
+
+d o
+
+ö
+
+d v k
+
+e d i
+
+t s
+
+v
+
+d
+
+f v
+
+r k
+
+r a
+
+ö
+
+o
+
+e s
+
+m
+
+o n
+
+le n n
+
+ö
+
+e a
+
+a
+
+t
+
+r
+
+k n
+
+e
+
+k
+
+e
+
+S
+
+h
+
+c
+
+B
+
+c a n
+
+p h x
+
+.
+
+u e
+
+y rå
+
+.
+
+y ik n
+
+p e u
+
+3
+
+H b
+
+T f
+
+4
+
+T l a
+
+U b v
+
 <!-- sida 119 -->
+
+Vårdnadshavare Grundskola
 
 Resultat frågeområden      och  frågor
 
-6 . S tu d ie
-
-H u r o ft a
-le k t io n e
-
-H u r o ft a
-le k t io n e
-k o n c e n t
-ro
-v e rk a
-rn a ?
-v e rk a
-rn a a
-re ra s
-r d
-r d
-t t d
-ig ?
-e t v a
-e t v a
-it t b
-ra a rb e t s ro p å
-ra s å s t ö k ig t p
-a rn h a r s v å rt a
-å
-t t
-In
-M
-M
-d
-e
-e
-e
-d
-d
-x 5 ,2
-e lv ä
-5 ,5
-e lv ä
-4 ,8
-(S
-rd
-rd
-a
-e
-e
-m tlig a g ru
-A l lt id
-A n d e l
-3 %
-A l d rig
-A n d e l
-5 %
-n d s k o
-O
-A n
-3
-S ä
-A n
-2
-la : 5
-f t a
-d e l
-7 %
-lla n
-d e l
-1 %
-,6 )
-Ib la
-A n d
-3 2
-Ib la
-A n d
-3 8
-n
-e
-%
-n
-e
-%
-d
-l
-d
-l
-S ä
-A n
-1
-O
-A n
-2
-lla
-d e
-7 %
-f t a
-d e
-4 %
-n
-l
-l
-A
-A
-A
-A
-l d rig
-n d e l
-4 %
-l lt id
-n d e l
-7 %
-V
-V
-e
-A
-e
-A
-t in
-n d e
-7 %
-t in
-n d e
-5 %
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-5
-m
-e
-5
-t lig a
-lv ä rd
-,9
-t lig a
-lv ä rd
-,4
-e
-e
-Vårdnadshavare Grundskola
 7\. Trygghet                  Index 7,3 (Samtliga grundskola: 7,5)
+
 Helt och Till stor Till viss
 Inte alls Vet inte Samtliga
 hållet del   del
@@ -8627,161 +38835,1420 @@ andra elever i skolan?
 Upplever du att ditt barn känner rädsla för
 8,8   62%   26%  8%    2%   0%    2%    8,8
 någon lärare eller annan vuxen i skolan?
+
 61
 
-<!-- sida 120 -->
+e
 
-Resultat frågeområden      och  frågor
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,9
+
+t
+
+lv
+
+,4
+
+e
+
+5
+
+e
+
+5
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+%
+
+in
+
+%
+
+d
+
+d
+
+t
+
+7
+
+t
+
+5
+
+e
+
+n
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+ig
+
+d
+
+r
+
+e
+
+i
+
+e
+
+d %
+
+lt
+
+d
+
+%
+
+ld
+
+n
+
+4
+
+l
+
+n
+
+7
+
+A
+
+A
+
+A
+
+A
+
+l
+
+l
+
+n
+
+e
+
+e
+
+la
+
+%
+
+ta
+
+%
+
+l
+
+d
+
+7
+
+f
+
+d
+
+4
+
+ä
+
+n
+
+1
+
+O
+
+n
+
+2
+
+S
+
+A
+
+A
+
+d
+
+l
+
+d
+
+l
+
+n
+
+e %
+
+n
+
+e
+
+%
+
+la
+
+d
+
+2
+
+la
+
+d
 
 8
 
-H
+n
+
+3
+
+n
+
+3
+
+Ib
+
+A
+
+Ib
+
+A
+
+)
+
+,6
+
+l
+
+l
+
+5
+
+n
+
+\:
+
+e
+
+e
+
+a
+
+ta
+
+%
+
+la
+
+%
+
+l
+
+f
+
+d
+
+7
+
+l
+
+d
+
+1
+
+o
+
+O
+
+n
+
+3
+
+ä
+
+n
+
+2
+
+sk
+
+A
+
+S
+
+A
+
+nd
+
+ru
+
+l
+
+l
+
+d
+
+ig
+
+g
+
+i
+
+e
+
+r
+
+e
+
+lt
+
+d %
+
+d
+
+%
+
+a
+
+l
+
+3
+
+ld
+
+n
+
+5
+
+ig
+
+n
+
+l
+
+A
+
+A
+
+A
+
+A
+
+t
+
+am
+
+S
+
+e
+
+e
+
+(
+
+rd
+
+rd
+
+,2
+
+ä
+
+ä
+
+lv
+
+,5
+
+lv
+
+,8
+
+5
+
+e
+
+5
+
+e
+
+4
+
+x
+
+d
+
+d
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å tt
+
+å
+
+p a
+
+p
+
+t
+
+rt
+
+o
+
+ig
+
+r
+
+å
+
 s
+
+k v
+
+t
+
+ö s
+
+t r
+
+e
+
+s
+
+rb
+
+a
+
+å h
+
+a
+
+s
+
+a
+
+a rn
+
+r
+
+r a
+
+a
+
+a b
+
+v
+
+v
+
+t
+
+t tt
+
+e
+
+e i
+
+d
+
+d d ?
+
+r
+
+r tt ig
+
+a ?
+
+a a s
+
+rk
+
+rk
+
+a
+
+e a
+
+e a r
+
+o
+
+v rn
+
+v rn e
+
+r
+
+tr
+
+ie
+
+a e
+
+a e
+
+ft n
+
+ft n n
+
+d
+
+e
+
+u
+
+o io
+
+o io c
+
+t
+
+r t
+
+r t
+
+S
+
 k
 
-T
+k n
+
+.
+
+u
+
+u
+
+6
+
+H le
+
+H le ko
+
+<!-- sida 120 -->
+
+Vårdnadshavare Grundskola
+
+Resultat frågeområden      och  frågor
+
+Helt och Till stor Till viss
+9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
+hållet del   del
+Medelvärde Andel Andel Andel Andel Andel Medelvärde
+Erbjuder fritids ditt barn meningsfulla aktiviteter? 6,6 27% 43% 24% 3% 4% 7,1
+
+Erbjuder fritids ditt barn en trygg verksamhet? 7,6 43% 39% 14% 2% 2% 7,7
+
+Stimulerar fritids ditt barns sociala utveckling? 6,8 29% 41% 19% 3% 8% 7,1
+
+Stimulerar fritids ditt barns lärande? 5,8 18% 36% 26%  7%   14%    6,2
+
+Finns det möjligheter till både aktivitet och vila? 6,7 24% 35% 16% 4% 21% 6,9
+
+Får du tillräcklig information om vad som händer
+4,6   16%   28%   34%  21%   1%     5,7
+på fritids?
+
+62
+
 e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,8
+
+t
+
+lv
+
+,6
+
+e
+
+6
+
+e
+
+6
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+in
+
+e
+
+%
+
+in
+
+e
+
+d
+
+d %
+
+t
+
+1
+
+t
+
+9
+
+e
+
+n
+
+2
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+s
+
+t
+
+l
+
+l
+
+l
+
+e a
+
+l
+
+k ig
+
+e
+
+a
+
+e
+
+c l d
+
+%
+
+d %
+
+y å n
+
+5
+
+e
+
+n
+
+7
+
+A
+
+t
+
+A
+
+M d
+
+In
+
+a a
+
+l
+
+s
+
+l
+
+k g
+
+e
+
+is l
+
+e
+
+s i
+
+%
+
+%
+
+l d
+
+v e d
+
+n
+
+6
+
+l
+
+1
+
+å n
+
+1
+
+l d n
+
+3
+
+a
+
+i
+
+G d A
+
+T
+
+A
+
+)
+
+r
+
+,7
+
+a
+
+l
+
+l
+
+te
+
+l
+
+6
+
+k
+
+e
+
+to l
+
+e
+
+e
+
+\:
+
+s a
+
+%
+
+%
+
+in
+
+r d
+
+s e d
+
+d %
+
+%
+
+la
+
+n
+
+0
+
+l
+
+6
+
+t
+
+0
+
+0
+
+b n
+
+4
+
+l d n
+
+3
+
+n
+
+o
+
+a
+
+A
+
+i
+
+A
+
+e
+
+A
+
+sk
+
+G
+
+T
+
+V
+
+d
+
+n
+
+u
+
+t
+
+l
+
+h t
+
+l
+
+l
+
+r
+
+e
+
+c
+
+j
+
+g
+
+k a
+
+e
+
+%
+
+o le
+
+e %
+
+e %
+
+%
+
+c r d
+
+t l d
+
+e
+
+d
+
+a
+
+y b
+
+8
+
+l
+
+6
+
+2
+
+8
+
+ig
+
+n
+
+1
+
+e å n
+
+1
+
+N
+
+n
+
+5
+
+4
+
+l
+
+A
+
+h A
+
+A
+
+t
+
+M
+
+H
+
+am
+
+e
+
+e
+
+(S
+
+d
+
+d
+
+r
+
+r
+
+l
+
+,2
+
+ä
+
+ä
+
+e
+
+lv
+
+,3
+
+lv
+
+,1
+
+a
+
+%
+
+%
+
+6
+
+J
+
+d
+
+8
+
+2
+
+e
+
+6
+
+e
+
+6
+
+n
+
+x
+
+d
+
+d
+
+A
+
+4
+
+5
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å ,
+
+f a
+
+t k
+
+t s
+
+a r ?
+
+)
+
+a te
+
+n
+
+g
+
+r ö lo
+
+e k
+
+ja
+
+v ls o
+
+k
+
+le o y
+
+äm
+
+e k s
+
+fr
+
+?
+
+s p
+
+)
+
+r l l
+
+t
+
+t
+
+fö e o
+
+m
+
+p k
+
+a
+
+e
+
+a
+
+s
+
+r
+
+h
+
+m r
+
+ö
+
+s
+
+rn
+
+f
+
+e xe le
+
+r
+
+id
+
+t
+
+l
+
+)
+
+t
+
+e
+
+ta
+
+x
+
+i
+
+e l e
+
+r
+
+l
+
+e
+
+e
+
+f
+
+h i g
+
+d
+
+(
+
+g t
+
+b
+
+i ( o
+
+r
+
+in
+
+s
+
+l g
+
+j
+
+a
+
+j
+
+d
+
+n a
+
+i
+
+ö
+
+n
+
+e
+
+t
+
+a d
+
+r
+
+i
+
+m ls e
+
+la
+
+a
+
+fr
+
+?
+
+u ä lp
+
+o
+
+ld
+
+k a
+
+i
+
+å
+
+d h a
+
+s ls
+
+b
+
+p
+
+r v i
+
+(
+
+c
+
+t
+
+a le
+
+t ä
+
+n
+
+tt
+
+e
+
+h
+
+m
+
+r
+
+a
+
+e p
+
+a
+
+e
+
+a
+
+ls
+
+a
+
+s
+
+f n s
+
+u
+
+h
+
+b
+
+ä
+
+,
+
+a
+
+s
+
+t
+
+a
+
+h
+
+p å r
+
+d n
+
+d
+
+t
+
+ig
+
+v
+
+p fr o
+
+r r
+
+i
+
+i
+
+l
+
+t
+
+e e
+
+it
+
+d
+
+t
+
+le
+
+u
+
+r d a
+
+k v
+
+r
+
+r
+
+E
+
+ö r
+
+c e
+
+F
+
+m
+
+.
+
+u t u
+
+y l
+
+.
+
+å
+
+a
+
+8
+
+H s k
+
+T e
 
 9
 
 G
 
 S
-. E le v h ä ls a
-u r u p p fa t ta r d u m ö jlig h e t e rn a fö r e le v e rn
-t ö d frå n e le v h ä ls a n (t ill e x e m p e l s k o ls k ö
-u ra t o r, s p e c ia lp e d a g o g e lle r s k o lp s y k o lo
-y c k e r d u a t t s k o la n a rb e t a r fö r a t t frä m ja
-le v e rn a s h ä ls a ?
-. F rit id s h e m (b ild a r e j in d e x )
-å r d itt b a rn p å fritid s (fritid s h e m )?
-a m tlig a
-a a t t få
-t e rs k a ,
-g )?
-In
-M
-M
-d
-e
-e
-e
-d
-d
-A
-x 6 ,2
-e lv ä
-6 ,3
-e lv ä
-6 ,1
-Ja
-n d e
-4 8 %
-5 2 %
-(S
-rd
-rd
-l
-a
-e
-e
-m tlig a g ru n d
-M y c k e t
-b ra
-A n d e l
-1 8 %
-H e lt o c h
-h å lle t
-A n d e l
-1 6 %
-N e j
-A n d e l
-5 2 %
-4 8 %
-s k o la : 6 ,7 )
-G a n s k a
-b ra
-A n d e l
-4 0 %
-T ill s t o r
-d e l
-A n d e l
-3 6 %
-V e t in te
-A n d e l
-0 %
-0 %
-G a n s k a
-d å lig a
-A n d e l
-1 6 %
-T ill v is s
-d e l
-A n d e l
-3 1 %
-M y c k e t
-d å lig a
-A n d e l
-5 %
-In t e a lls
-A n d e l
-7 %
-V
-V
-e
-A
-e
-A
-t in
-n d e
-2 1 %
-t in
-n d e
-9 %
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-6
-m
-e
-6
-t lig a
-lv ä rd
-,8
-t lig a
-lv ä rd
-,6
-e
-e
-Vårdnadshavare Grundskola
-Helt och Till stor Till viss
-9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
-hållet del   del
-Medelvärde Andel Andel Andel Andel Andel Medelvärde
-Erbjuder fritids ditt barn meningsfulla aktiviteter? 6,6 27% 43% 24% 3% 4% 7,1
-Erbjuder fritids ditt barn en trygg verksamhet? 7,6 43% 39% 14% 2% 2% 7,7
-Stimulerar fritids ditt barns sociala utveckling? 6,8 29% 41% 19% 3% 8% 7,1
-Stimulerar fritids ditt barns lärande? 5,8 18% 36% 26%  7%   14%    6,2
-Finns det möjligheter till både aktivitet och vila? 6,7 24% 35% 16% 4% 21% 6,9
-Får du tillräcklig information om vad som händer
-4,6   16%   28%   34%  21%   1%     5,7
-på fritids?
-62
 
 <!-- sida 121 -->
+
+Vårdnadshavare Grundskola
 
 Resultat frågeområden      och  frågor
 
@@ -8795,77 +40262,281 @@ skolan om du skulle ha klagomål och är missnöjd
 med hur skolan hanterar detta?
 Samtliga                       72%    16%   12%
 
-1
-
-H
-1
-u
-. Ö
-r n
-v e rg rip a
-ö jd ä r d
-n d e
-u m
-n
-e
-ö jd h
-d d
-e t (b ild a r e
-itt b a rn s s
-j in d
-k o la
-e x
-?
-)
-M e d e
-6
-lv
-,3
-ä rd e
-H eh
-A
-lt o
-å lle
-n d e
-2 3 %
-c ht
-l
-T ill s to
-d e l
-A n d e l
-4 7 %
-r T ill v is s
-d e l
-A n d e l
-2 2 %
-In te
-A n
-7
-a lls
-d e l
-%
-V e
-A
-t in
-n d e
-0 %
-te
-l M
-S
-e
-a
-d
-m
-e
-6
-tlig a
-lv ä rd
-,7
-e
-Vårdnadshavare Grundskola
 63
 
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,7
+
+e
+
+6
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d %
+
+t
+
+0
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d %
+
+te
+
+n
+
+7
+
+In
+
+A
+
+s
+
+l
+
+is l e
+
+v e d %
+
+l
+
+2
+
+l d n
+
+2
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l e
+
+s e d %
+
+l
+
+7
+
+l d n
+
+4
+
+i
+
+T
+
+A
+
+ch t
+
+l
+
+o le e %
+
+l d
+
+lt
+
+3
+
+e å n
+
+2
+
+H h A
+
+e
+
+rd
+
+ä
+
+lv
+
+,3
+
+e
+
+6
+
+d
+
+e
+
+M
+
+)
+
+x
+
+e
+
+?
+
+d
+
+la
+
+in
+
+o
+
+j
+
+k
+
+e
+
+s
+
+r
+
+a
+
+s
+
+d
+
+rn
+
+il
+
+b
+
+a
+
+(
+
+b
+
+t
+
+t
+
+e
+
+it
+
+h
+
+d
+
+jd
+
+ö
+
+d
+
+n
+
+e
+
+e
+
+m
+
+nd
+
+u
+
+a
+
+d
+
+ip
+
+r
+
+r
+
+ä
+
+g
+
+r
+
+jd
+
+ve
+
+ö
+
+n
+
+Ö
+
+.
+
+r
+
+u
+
+11
+
+H
+
 <!-- sida 122 -->
+
+Vårdnadshavare Grundsärskola
 
 Resultat indexvärden     – diagram
 
@@ -8878,87 +40549,282 @@ Vit stapel: Aktuell huvudman1/skolenhet
 Grå stapel2: Samtliga deltagande skolenheter för huvudmannen1
 Svart stapel: Samtliga deltagande skolenheter för insamlingsomgången
 
-1 . I n f
-
-4
-5
-o r m
-. B e
-. B e
-a
-m
-m
-t io n f r å n s k o la
-2 . S t im u la n
-3 . S t ö
-ö t a n d e - lä r a r
-ö t a n d e - e le v e
-6 . S t u d ie r
-7 . T r y g g h e
-8 . E le v h ä ls
-n
-s
-d
-e
-r
-o
-t
-a
-0  1
-K
-S
-u
-a
-n
-m
-g s b
-t lig
-2
-a
-a
-c k a k
-m e d
-3
-o
-v
-m
-e r
-4
-m
-k
-u
-a n
-n g
-d e
-5
-r u
-s k
-n
-o
-d s
-le
-6
-ä
-n
-r
-h
-s k o
-e t e
-7
-la
-r g r u
-8
-n d s ä
-9
-r s k o la
-1 0
-Vårdnadshavare Grundsärskola
 1Med skolhuvudman avses den som anordnar skolverksamhet, till exempel en kommun, ett
 bolag eller en förening som driver en fristående skola.
 64
 2Gäller endast för skolenheter med jämförelser mot huvudman.
 
+la
+
+10
+
+o
+
+sk
+
+r
+
+9
+
+sä
+
+nd
+
+ru
+
+8
+
+g
+
+la
+
+r
+
+o
+
+te
+
+k
+
+e
+
+7
+
+rs
+
+h
+
+sä
+
+n
+
+d
+
+le
+
+6
+
+n
+
+ko
+
+ru
+
+s
+
+g
+
+e
+
+n
+
+d
+
+5
+
+u
+
+an
+
+m
+
+rk
+
+e
+
+4
+
+om
+
+v
+
+k
+
+d
+
+e
+
+ka
+
+3
+
+c
+
+m
+
+a
+
+a
+
+b
+
+ig
+
+s
+
+l
+
+g
+
+t
+
+2
+
+n
+
+u
+
+am
+
+K
+
+S
+
+1
+
+0
+
+s
+
+r
+
+t
+
+n
+
+d
+
+re
+
+ro e a
+
+la n ö
+
+e
+
+ls
+
+la
+
+t
+
+ra v
+
+ie h ä
+
+o
+
+S
+
+le
+
+g
+
+k u
+
+.
+
+lä
+
+d g h
+
+e
+
+v
+
+s
+
+3
+
+\-
+
+u y
+
+im
+
+\-
+
+t
+
+r
+
+le
+
+n
+
+t
+
+S T
+
+å
+
+e e
+
+.
+
+E
+
+r
+
+S
+
+d
+
+.
+
+f
+
+.
+
+d 6
+
+.
+
+2
+
+n n
+
+7 8
+
+n
+
+ta
+
+ta
+
+io
+
+t
+
+ö ö
+
+a
+
+em em
+
+rm
+
+B
+
+B
+
+.
+
+.
+
+fo
+
+4 5
+
+In
+
+.
+
+1
+
 <!-- sida 123 -->
+
+Vårdnadshavare Grundsärskola
 
 Resultat indexvärden     – tabell
 
@@ -8966,12 +40832,318 @@ Tabell över indexvärden (0–10). Ett högt indexvärde indikerar en positiv u
 
 mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 
+65
+
+la
+
+e
+
+d ko
+
+n rs
+
+a ä
+
+rk s
+
+ve d
+
+d n
+
+e ru
+
+,3
+
+,6
+
+,9
+
+,9
+
+,9
+
+,2
+
+,1
+
+,7
+
+g
+
+7
+
+7
+
+7
+
+8
+
+7
+
+7
+
+8
+
+7
+
+m r
+
+a te
+
+ig
+
+l e
+
+t h
+
+n
+
+m le
+
+Sa
+
+ko
+
+s
+
+n
+
+u
+
+m la
+
+om ko
+
+k rs
+
+a
+
+,4
+
+,9
+
+,2
+
+,4
+
+,6
+
+,2
+
+,2
+
+,1
+
+k sä
+
+6
+
+7
+
+8
+
+8
+
+c d
+
+7
+
+9
+
+7
+
+7
+
+a n
+
+sb u
+
+g r
+
+n g
+
+u
+
+K
+
+n
+
+la
+
+o
+
+k
+
+e
+
+r
+
+s
+
+r
+
+e
+
+n
+
+ra
+
+v
+
+å
+
+le
+
+r
+
+lä
+
+e
+
+f
+
+\-
+
+\-
+
+n
+
+e
+
+e
+
+io
+
+s
+
+d
+
+d
+
+t
+
+n
+
+n
+
+n
+
+t
+
+sa
+
+a
+
+a
+
+a
+
+a
+
+ro
+
+e
+
+l
+
+l
+
+t
+
+t
+
+h
+
+ä
+
+rm
+
+u
+
+ö
+
+ö
+
+ie
+
+g
+
+h
+
+d
+
+d
+
+g
+
+v
+
+fo
+
+im
+
+ö m m
+
+u
+
+y
+
+n
+
+t
+
+t
+
+e
+
+e
+
+t
+
+r
+
+le
+
+I
+
+S
+
+S
+
+B
+
+B
+
+S
+
+T
+
+E
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
 1
+
 2
 
 3
 
 4
+
 5
 
 6
@@ -8979,70 +41151,6 @@ mer om indexvärdet på www.skolinspektionen.se/skolenkaten.
 7
 
 8
-. In fo
-. S t im
-. S t ö d
-. B e m
-. B e m
-. S t u d
-. T r y g
-. E le v
-r m a tio n fr å n
-u la n s
-ö ta n d e - lä r a
-ö ta n d e - e le v
-ie r o
-g h e t
-h ä ls a
-s
-r
-e
-k
-e
-r
-o la n
-K u n g s b a c k a k
-g r u n d s ä r s
-6 ,4
-7 ,9
-7 ,2
-9 ,4
-8 ,6
-7 ,2
-8 ,2
-7 ,1
-ok mo m
-la
-u n
-s k
-So a m
-le n
-tlig a
-h e te
-m
-r g
-7
-7
-7
-8
-7
-7
-8
-7
-e d
-r u
-,3
-,6
-,9
-,9
-,9
-,2
-,1
-,7
-vn ed rs kä ar ns dk eo
-la
-Vårdnadshavare Grundsärskola
-65
 
 <!-- sida 124 -->
 
@@ -9090,6 +41198,8 @@ Medelvärden
 
 <!-- sida 125 -->
 
+Vårdnadshavare Grundsärskola
+
 Resultat frågeområden      och  frågor
 
 Resultat för frågeområden och frågor för aktuell huvudman/skolenhet. Index och
@@ -9098,262 +41208,1174 @@ aktuell målgrupp. Resultatet maskeras med \* för att säkra anonymitet för
 respondenterna. Läs mer om Skolenkätens redovisningsprinciper på
 www.skolinspektionen.se/skolenkaten.
 
-1 . In fo rm a tio n frå n s k o la n In
-
-M
-F å r d u tillrä c k lig in fo rm a tio n frå n p e rs o n a le n o m
-h u r d itt b a rn u tv e c k la s k u n s k a p s m ä s s ig t?
-F å r d u tillrä c k lig in fo rm a tio n frå n p e rs o n a le n o m
-h u r d itt b a rn v e rk a r triv a s i s k o la n ?
-
-2 . S tim u la n s       In d e x 7 ,9
-
-M e d e lv ä
-H u r o fta v e rk a r lä ra rn a få d itt b a rn a tt b li
-\-
-in tre s s e ra t a v s k o la rb e te t?
-
-M
-
-T y c k e r d u a tt lä ra rn a få r d itt b a rn a tt tro p å s ig
-s jä lv i s k o la rb e te t?
-T y c k e r d u a tt d itt b a rn få r tillrä c k lig a u tm a n in g a r
-fö r a tt u tv e c k la s i s k o la rb e te t?
-d e x 6 ,4 (S a m tlig a g ru n d s ä rs k o la
-H e lt o c h T ill s to
-h å lle t d e l
-e d e lv ä rd e A n d e l A n d e l
-\-     -     -
-\-     -     -
-(S a m tlig a g ru n d s ä r s k o la : 7 ,6 )
-A lltid O fta Ib la
-rd e A n d e l A n d e l A n d
-\-    -     -
-H e lt o c h T ill s to
-h å lle t d e l
-e d e lv ä rd e A n d e l A n d e l
-\-     -     -
-\-     -     -
-: 7
-r
-n d
-e l
-r
-,3 )
-T ill v is s
-d e l
-A n d e l
-\-
-\-
-S ä lla
-A n d e
-\-
-T ill v is s
-d e l
-A n d e l
-\-
-\-
-n
-l
-In te
-A n
-A
-A
-In te
-A n
-a lls
-d e l
-\-
-\-
-ld rig
-n d e l
-\-
-a lls
-d e l
-\-
-\-
-V e t in te
-A n d e l
-\-
-\-
-V e t in te
-A n d e l
-\-
-V e t in te
-A n d e l
-\-
-\-
-M
-M
-M
-S a m
-e d e
-7
-7
-S a m
-e d e
-7
-S a m
-e d e
-7
-7
-tlig a
-lv ä rd
-,3
-,3
-tlig a
-lv ä rd
-,8
-tlig a
-lv ä rd
-,8
-,2
-e
-e
-e
-Vårdnadshavare Grundsärskola
 67
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+v
+
+8
+
+l
+
+t
+
+lv
+
+,3
+
+,3
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,8
+
+,2
+
+e
+
+7
+
+7
+
+e
+
+7
+
+e
+
+7
+
+7
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+e
+
+l
+
+t
+
+l
+
+t
+
+e
+
+t
+
+in
+
+e
+
+in
+
+d
+
+\-
+
+in
+
+e
+
+d
+
+\-
+
+\-
+
+d
+
+\-
+
+\-
+
+t
+
+t
+
+n
+
+t
+
+e
+
+n
+
+e
+
+A
+
+e
+
+n
+
+V
+
+A
+
+V
+
+V
+
+A
+
+s
+
+l
+
+s
+
+l
+
+l
+
+ig
+
+l
+
+l
+
+l
+
+e
+
+l
+
+e
+
+r
+
+d
+
+\-
+
+e
+
+a
+
+d
+
+\-
+
+\-
+
+ld
+
+n
+
+a
+
+d
+
+\-
+
+\-
+
+e
+
+n
+
+e
+
+n
+
+t
+
+A
+
+A
+
+A
+
+t
+
+In
+
+In
+
+A
+
+n
+
+l
+
+s
+
+l
+
+a
+
+e
+
+s
+
+l
+
+s
+
+l
+
+s
+
+i l
+
+e
+
+l
+
+d
+
+\-
+
+i l e
+
+v e d
+
+\-
+
+\-
+
+ä
+
+n
+
+v e d
+
+\-
+
+\-
+
+l
+
+A
+
+l
+
+l d n
+
+S
+
+l d n
+
+i
+
+i
+
+)
+
+T
+
+A
+
+T
+
+A
+
+,3
+
+l
+
+7
+
+d
+
+\:
+
+r
+
+e
+
+r
+
+a
+
+l
+
+n
+
+\-
+
+l
+
+l
+
+to l
+
+e
+
+la
+
+d
+
+to l e
+
+o
+
+s e d
+
+\-
+
+\-
+
+)
+
+b
+
+n
+
+s e d
+
+\-
+
+\-
+
+k
+
+l
+
+6
+
+I
+
+A
+
+l
+
+s
+
+l d n
+
+,
+
+l d n
+
+r
+
+i
+
+A
+
+7
+
+i
+
+A
+
+ä
+
+\:
+
+s
+
+T
+
+T
+
+la
+
+l
+
+d
+
+n
+
+h
+
+o
+
+ta
+
+e
+
+h
+
+u
+
+c t
+
+l
+
+k
+
+f
+
+d
+
+\-
+
+c t
+
+l
+
+r
+
+e
+
+rs
+
+n
+
+e
+
+g
+
+o l
+
+e
+
+O
+
+o l e
+
+l d
+
+\-
+
+\-
+
+ä
+
+A
+
+l d
+
+\-
+
+\-
+
+a
+
+lt
+
+s
+
+lt
+
+g
+
+å n
+
+å n
+
+li
+
+e h A
+
+d
+
+e h A
+
+t
+
+n
+
+H
+
+ru
+
+l
+
+H
+
+m
+
+g
+
+id
+
+e
+
+a
+
+e
+
+lt
+
+d
+
+\-
+
+e
+
+S
+
+d
+
+a
+
+l
+
+d
+
+(
+
+r
+
+g
+
+n
+
+r
+
+li
+
+A
+
+A
+
+,4
+
+ä
+
+t
+
+ä
+
+lv
+
+\-
+
+\-
+
+lv
+
+\-
+
+\-
+
+6
+
+x
+
+e
+
+am
+
+e
+
+e
+
+e
+
+d
+
+S
+
+d
+
+d
+
+e
+
+(
+
+rd
+
+e
+
+In
+
+M
+
+,9
+
+ä
+
+M
+
+lv
+
+\-
+
+7
+
+e
+
+x
+
+e
+
+d
+
+r
+
+m
+
+m
+
+d
+
+e
+
+a
+
+o
+
+o
+
+In
+
+M
+
+g
+
+ig
+
+n
+
+n
+
+s
+
+in
+
+le
+
+le
+
+å
+
+n
+
+a ? a
+
+i
+
+a
+
+n t n
+
+l
+
+p
+
+o ig o
+
+b
+
+o
+
+tm
+
+s
+
+s
+
+r
+
+r s
+
+r
+
+tt
+
+t
+
+u
+
+e s e
+
+t
+
+a
+
+ä
+
+a
+
+t
+
+g
+
+p
+
+p ?
+
+n
+
+a
+
+i
+
+n m n n
+
+r
+
+l
+
+s
+
+a
+
+a
+
+rn
+
+k
+
+rå p
+
+rå l
+
+c
+
+f
+
+f
+
+b
+
+a
+
+ä ?
+
+a
+
+o
+
+t
+
+k
+
+t
+
+b
+
+lr
+
+n k n
+
+it
+
+t
+
+l e
+
+s
+
+s
+
+t
+
+i t
+
+io
+
+io i
+
+d ?
+
+i
+
+t
+
+t n
+
+t
+
+t
+
+e
+
+u
+
+s
+
+å e
+
+d
+
+r b
+
+a
+
+a
+
+f t
+
+r
+
+n
+
+k
+
+a
+
+r
+
+å
+
+v
+
+e
+
+f a
+
+a
+
+m s m i
+
+a
+
+å
+
+l
+
+l
+
+r
+
+r
+
+b
+
+f
+
+n
+
+o
+
+a
+
+tr
+
+n r
+
+r o
+
+fo l
+
+fo
+
+r
+
+a
+
+k
+
+k
+
+k
+
+r
+
+a la
+
+n ? a
+
+s
+
+n c n
+
+r
+
+r t b s
+
+i
+
+i a
+
+i
+
+o
+
+n
+
+e
+
+rk
+
+lä k
+
+a te
+
+t
+
+å
+
+ig v
+
+ig
+
+s
+
+r
+
+it s
+
+r
+
+l t
+
+l e
+
+r
+
+ä e
+
+f
+
+l
+
+d a
+
+k u k v
+
+a v
+
+b
+
+l
+
+n
+
+t r
+
+t k
+
+c n c n
+
+rk a
+
+t
+
+t c
+
+io
+
+ä r ä r
+
+s
+
+t
+
+la
+
+t
+
+lr a
+
+lr a
+
+n
+
+e a
+
+a
+
+a e
+
+a
+
+l
+
+l
+
+v r
+
+o
+
+v
+
+i b
+
+i b
+
+la
+
+u k u t
+
+t
+
+t
+
+a e
+
+m
+
+t
+
+t
+
+u
+
+t s
+
+d s
+
+d u
+
+r
+
+it
+
+it
+
+f
+
+r i
+
+r t
+
+o
+
+u
+
+u
+
+s
+
+t
+
+f
+
+im
+
+o
+
+e
+
+e
+
+d d
+
+d d
+
+t
+
+e
+
+v
+
+a
+
+n
+
+r
+
+r
+
+r r
+
+k l k
+
+I
+
+r
+
+r
+
+S
+
+t
+
+c
+
+c r
+
+.
+
+å u å u
+
+.
+
+u
+
+y jä y
+
+1
+
+F h F h
+
+2
+
+H in
+
+T s T fö
 
 <!-- sida 126 -->
 
+Vårdnadshavare Grundsärskola
+
 Resultat frågeområden      och  frågor
 
-3 . S tö d               In
-
-M
-H u r o fta v e rk a r d itt b a rn få d e n h jä lp s o m
-b e h ö v s u n d e r le k tio n e rn a ?
-
-T y c k e r d u a tt d itt b a rn få r d e n h jä lp s o m b e h ö v
-frå n s k o la n fö r a tt k la ra s k o la rb e te t?
-
-4 . B e m ö ta n d e - lä ra re
-
-T y c k e r d u a tt lä ra rn a v e rk a r b e h a n d la a lla e le v
-lik a o a v s e tt o m d e ä r flic k o r, p o jk a r e lle r h a r
-a n n a n k ö n s id e n tite t?
-
-M
-U p p le v e r d u a tt d itt b a rn b lir o rä ttv is t
-b e h a n d la t a v n å g o n lä ra re e lle r a n n a n
-v u x e n i s k o la n ?
-d e x 7 ,2
-e d e lv ä
-\-
-M
-s
-In
-M
-e r
-e d e lv ä
-\-
-(S a m tlig a g ru n d s ä r s k o la : 7 ,9 )
-A lltid O fta Ib la
-rd e A n d e l A n d e l A n d
-\-    -     -
-H e lt o c h T ill s to
-h å lle t d e l
-e d e lv ä rd e A n d e l A n d e l
-\-      -     -
-d e x 9 ,4 (S a m tlig a g ru n d s ä rs k o la
-H e lt o c h T ill s to
-h å lle t d e l
-e d e lv ä rd e A n d e l A n d e l
-\-      -     -
-A ld rig S ä lla n Ib la
-rd e A n d e l A n d e l A n d
-\-    -     -
-n d
-e l
-r
-: 8
-r
-n d
-e l
-S ä lla
-A n d e
-\-
-T ill v is s
-d e l
-A n d e l
-\-
-,9 )
-T ill v is s
-d e l
-A n d e l
-\-
-O fta
-A n d e
-\-
-n
-l
-l
-A
-A
-In te
-A n
-In te
-A n
-A
-A
-ld rig
-n d e l
-\-
-a lls
-d e l
-\-
-a lls
-d e l
-\-
-lltid
-n d e l
-\-
-V e t in te
-A n d e l
-\-
-V e t in te
-A n d e l
-\-
-V e t in te
-A n d e l
-\-
-V e t in te
-A n d e l
-\-
-M
-M
-M
-M
-S a m
-e d e
-8
-S a m
-e d e
-7
-S a m
-e d e
-8
-S a m
-e d e
-8
-tlig a
-lv ä rd
-,3
-tlig a
-lv ä rd
-,6
-tlig a
-lv ä rd
-,9
-tlig a
-lv ä rd
-,9
-e
-e
-e
-e
-Vårdnadshavare Grundsärskola
 5\. Bemötande - elever        Index 8,6 (Samtliga grundsärskola: 7,9)
+
 Mycket Ganska Ganska Mycket
 Vet inte Samtliga
 bra   bra  dåligt dåligt
@@ -9366,158 +42388,1262 @@ Hur uppfattar du att eleverna bemöter vuxna i
 skolan?
 68
 
+e
+
+e
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+v
+
+3
+
+l
+
+l
+
+l
+
+v
+
+9
+
+t
+
+l
+
+,
+
+t
+
+lv
+
+,6
+
+t
+
+lv
+
+,9
+
+t
+
+l
+
+,
+
+e
+
+8
+
+e
+
+7
+
+e
+
+8
+
+e
+
+8
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+M
+
+M
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+l
+
+e
+
+l
+
+t
+
+e
+
+t
+
+t
+
+e
+
+in
+
+d
+
+\-
+
+in
+
+e
+
+in
+
+e
+
+in
+
+d
+
+\-
+
+d
+
+\-
+
+d
+
+\-
+
+t
+
+n
+
+t
+
+t
+
+t
+
+n
+
+e
+
+A
+
+e
+
+n
+
+e
+
+n
+
+e
+
+A
+
+V
+
+V
+
+A
+
+V
+
+A
+
+V
+
+l
+
+s
+
+s
+
+l
+
+ig
+
+l
+
+l
+
+l
+
+l
+
+d
+
+r
+
+e
+
+l
+
+l
+
+i
+
+e
+
+d
+
+\-
+
+e
+
+e
+
+lt
+
+d
+
+\-
+
+ld
+
+n
+
+a
+
+d
+
+\-
+
+a
+
+d
+
+\-
+
+l
+
+n
+
+e
+
+n
+
+e
+
+n
+
+A
+
+A
+
+A
+
+t
+
+t
+
+A
+
+A
+
+In
+
+A
+
+In
+
+n
+
+l
+
+l
+
+a
+
+e
+
+s
+
+l
+
+s
+
+l
+
+a
+
+e
+
+l
+
+s
+
+s
+
+t
+
+l
+
+d
+
+\-
+
+i l e
+
+i l
+
+e
+
+f
+
+d
+
+\-
+
+ä
+
+n
+
+v e d
+
+\-
+
+v e d
+
+\-
+
+O
+
+n
+
+A
+
+l
+
+l
+
+A
+
+S
+
+l d n
+
+l d n
+
+i
+
+i
+
+T
+
+A
+
+)
+
+T
+
+A
+
+,9
+
+l
+
+l
+
+d
+
+8
+
+d
+
+e
+
+r
+
+\:
+
+r
+
+e
+
+n
+
+\-
+
+l
+
+a
+
+l
+
+n
+
+\-
+
+la
+
+d
+
+to l e
+
+l
+
+to l
+
+e
+
+la
+
+d
+
+)
+
+b
+
+n
+
+s e d
+
+\-
+
+o
+
+s e d
+
+\-
+
+b
+
+n
+
+9
+
+I
+
+A
+
+l
+
+k
+
+l
+
+I
+
+A
+
+,
+
+l d n
+
+s
+
+l d n
+
+7
+
+i
+
+A
+
+r
+
+i
+
+A
+
+\:
+
+ä
+
+T
+
+s
+
+T
+
+la
+
+l
+
+l
+
+o
+
+d
+
+n
+
+k
+
+ta
+
+e
+
+h
+
+n
+
+h
+
+la
+
+e
+
+f
+
+d
+
+\-
+
+c t
+
+l
+
+u
+
+c t
+
+l
+
+l
+
+d
+
+\-
+
+rs
+
+n
+
+e
+
+r
+
+e
+
+n
+
+O
+
+o l e
+
+g
+
+o l
+
+e
+
+ä
+
+ä
+
+A
+
+l d
+
+\-
+
+l d
+
+\-
+
+A
+
+s
+
+lt
+
+a
+
+lt
+
+S
+
+å n
+
+g
+
+å n
+
+d
+
+e h A
+
+li
+
+e h A
+
+n
+
+t
+
+ru
+
+l
+
+H
+
+H
+
+l
+
+d
+
+m
+
+ig
+
+g
+
+i
+
+e
+
+r
+
+e
+
+lt
+
+d
+
+\-
+
+e
+
+a
+
+e
+
+d
+
+\-
+
+a
+
+l
+
+n
+
+d
+
+S
+
+d
+
+ld
+
+n
+
+g
+
+r
+
+(
+
+r
+
+li
+
+A
+
+A
+
+A
+
+A
+
+t
+
+ä
+
+,4
+
+ä
+
+lv
+
+\-
+
+lv
+
+\-
+
+9
+
+am
+
+e
+
+e
+
+x
+
+e
+
+e
+
+S
+
+d
+
+e
+
+d
+
+(
+
+rd
+
+e
+
+d
+
+e
+
+rd
+
+,2
+
+ä
+
+M
+
+In
+
+M
+
+ä
+
+lv
+
+\-
+
+lv
+
+\-
+
+7
+
+x
+
+e
+
+e
+
+e
+
+d
+
+r
+
+d
+
+d
+
+e
+
+s
+
+e
+
+e
+
+In
+
+M
+
+v
+
+v
+
+M
+
+e
+
+ö
+
+l r
+
+h
+
+e a
+
+e
+
+a h
+
+b
+
+l r
+
+m
+
+l
+
+o
+
+m
+
+a le
+
+s
+
+l
+
+n
+
+o
+
+t a
+
+p
+
+s t?
+
+la e
+
+s n
+
+l
+
+i
+
+d r
+
+v
+
+jä
+
+lp te
+
+a
+
+t n
+
+n k
+
+t a
+
+h
+
+jä e
+
+a j
+
+ä r
+
+b
+
+r
+
+n
+
+h r
+
+h o
+
+o le
+
+a
+
+e p
+
+l
+
+e
+
+n l
+
+,
+
+r
+
+d
+
+b r
+
+i e
+
+e o
+
+r
+
+l
+
+å ?
+
+d k
+
+o
+
+b e
+
+f a
+
+a k
+
+r
+
+r s
+
+k c
+
+n
+
+r i
+
+n a
+
+n r
+
+å a
+
+l
+
+r r
+
+r
+
+f
+
+e
+
+e
+
+r
+
+f
+
+a ä
+
+a
+
+v
+
+l
+
+n
+
+n a
+
+r ?
+
+b
+
+r l
+
+t
+
+b o
+
+k
+
+e
+
+a ä
+
+t n
+
+t i
+
+a
+
+r
+
+e
+
+t
+
+t t
+
+b t
+
+rn e it
+
+i o
+
+i
+
+t
+
+a
+
+t
+
+g
+
+k
+
+t
+
+r
+
+a d
+
+d
+
+d e
+
+t a
+
+ä
+
+r
+
+n
+
+t å
+
+l
+
+i
+
+l
+
+?
+
+r
+
+r
+
+ä
+
+e
+
+t n
+
+d
+
+\-
+
+l m
+
+n
+
+a r
+
+ö
+
+a
+
+t f
+
+t o id
+
+v a
+
+k e
+
+e
+
+a l
+
+r
+
+t
+
+t t s
+
+u
+
+d
+
+n
+
+d
+
+t
+
+t
+
+e n
+
+a a
+
+n
+
+a e n
+
+d
+
+o
+
+v
+
+u l
+
+a
+
+u s ö
+
+r la k
+
+u
+
+t
+
+s
+
+a
+
+d o
+
+ö
+
+d v k
+
+e d i
+
+t s
+
+v
+
+d
+
+f v
+
+r k
+
+r a
+
+ö
+
+o
+
+e s
+
+m
+
+o n
+
+le n n
+
+ö
+
+e a
+
+a
+
+t
+
+r
+
+k n
+
+e
+
+k
+
+e
+
+S
+
+h
+
+c
+
+B
+
+c a n
+
+p h x
+
+.
+
+u e
+
+y rå
+
+.
+
+y ik n
+
+p e u
+
+3
+
+H b
+
+T f
+
+4
+
+T l a
+
+U b v
+
 <!-- sida 127 -->
+
+Vårdnadshavare Grundsärskola
 
 Resultat frågeområden      och  frågor
 
-6 . S tu d ie
-
-H u r o ft a
-le k t io n e
-
-H u r o ft a
-le k t io n e
-k o n c e n t
-ro
-v e rk a
-rn a ?
-v e rk a
-rn a a
-re ra s
-r d
-r d
-t t d
-ig ?
-e t v a
-e t v a
-it t b
-ra a rb e t s ro p å
-ra s å s t ö k ig t p
-a rn h a r s v å rt a
-å
-t t
-In
-M
-M
-d
-e
-e
-e
-d
-d
-x 7 ,2
-e lv ä
-\-
-e lv ä
-\-
-(S
-rd
-rd
-a
-e
-e
-m tlig a g ru
-A l lt id
-A n d e l
-\-
-A l d rig
-A n d e l
-\-
-n d s ä rs k o
-O f t a
-A n d e
-\-
-S ä lla
-A n d e
-\-
-la
-l
-n
-l
-: 7 ,2 )
-Ib la
-A n d
-\-
-Ib la
-A n d
-\-
-n
-e
-n
-e
-d
-l
-d
-l
-S ä
-A n
-O
-A n
-lla
-d e
-\-
-f t a
-d e
-\-
-n
-l
-l
-A
-A
-A
-A
-l d rig
-n d e l
-\-
-l lt id
-n d e l
-\-
-V
-V
-e
-A
-e
-A
-t
-n
-t
-n
-in
-d e
-\-
-in
-d e
-\-
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-7
-m
-e
-7
-t lig a
-lv ä rd
-,3
-t lig a
-lv ä rd
-,0
-e
-e
-Vårdnadshavare Grundsärskola
 7\. Trygghet                  Index 8,2 (Samtliga grundsärskola: 8,1)
+
 Helt och Till stor Till viss
 Inte alls Vet inte Samtliga
 hållet del   del
@@ -9536,171 +43662,1362 @@ andra elever i skolan?
 Upplever du att ditt barn känner rädsla för
 \-     -    -     -    -     -    -     9,2
 någon lärare eller annan vuxen i skolan?
+
 69
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,3
+
+t
+
+lv
+
+,0
+
+e
+
+7
+
+e
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+e
+
+e
+
+in
+
+in
+
+d
+
+\-
+
+d
+
+\-
+
+t
+
+t
+
+e
+
+n
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+l
+
+l
+
+ig
+
+d
+
+r
+
+e
+
+i
+
+e
+
+d
+
+\-
+
+lt
+
+d
+
+\-
+
+ld
+
+n
+
+l
+
+n
+
+A
+
+A
+
+A
+
+A
+
+l
+
+l
+
+n
+
+e
+
+e
+
+la
+
+ta
+
+l
+
+d
+
+\-
+
+f
+
+d
+
+\-
+
+ä
+
+n
+
+O
+
+n
+
+S
+
+A
+
+A
+
+l
+
+l
+
+d
+
+e
+
+d
+
+e
+
+n
+
+\-
+
+n
+
+\-
+
+la
+
+d
+
+la
+
+d
+
+)
+
+b
+
+n
+
+b
+
+n
+
+,2
+
+I
+
+A
+
+I
+
+A
+
+7
+
+\:
+
+la
+
+l
+
+l
+
+o
+
+e
+
+n
+
+e
+
+k
+
+ta
+
+la
+
+s
+
+f
+
+d
+
+\-
+
+l
+
+d
+
+\-
+
+r
+
+O
+
+n
+
+ä
+
+n
+
+sä
+
+A
+
+S
+
+A
+
+nd
+
+ru
+
+l
+
+l
+
+d
+
+ig
+
+g
+
+i
+
+e
+
+r
+
+e
+
+lt
+
+d
+
+\-
+
+d
+
+\-
+
+a
+
+l
+
+ld
+
+n
+
+ig
+
+n
+
+l
+
+A
+
+A
+
+A
+
+A
+
+t
+
+am
+
+S
+
+e
+
+e
+
+(
+
+rd
+
+rd
+
+,2
+
+ä
+
+ä
+
+lv
+
+\-
+
+lv
+
+\-
+
+7
+
+e
+
+e
+
+x
+
+d
+
+d
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å tt
+
+å
+
+p a
+
+p
+
+t
+
+rt
+
+o
+
+ig
+
+r
+
+å
+
+s
+
+k v
+
+t
+
+ö s
+
+t r
+
+e
+
+s
+
+rb
+
+a
+
+å h
+
+a
+
+s
+
+a
+
+a rn
+
+r
+
+r a
+
+a
+
+a b
+
+v
+
+v
+
+t
+
+t tt
+
+e
+
+e i
+
+d
+
+d d ?
+
+r
+
+r tt ig
+
+a ?
+
+a a s
+
+rk
+
+rk
+
+a
+
+e a
+
+e a r
+
+o
+
+v rn
+
+v rn e
+
+r
+
+tr
+
+ie
+
+a e
+
+a e
+
+ft n
+
+ft n n
+
+d
+
+e
+
+u
+
+o io
+
+o io c
+
+t
+
+r t
+
+r t
+
+S
+
+k
+
+k n
+
+.
+
+u
+
+u
+
+6
+
+H le
+
+H le ko
 
 <!-- sida 128 -->
 
+Vårdnadshavare Grundsärskola
+
 Resultat frågeområden      och  frågor
+
+Helt och Till stor Till viss
+9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
+hållet del   del
+Medelvärde Andel Andel Andel Andel Andel Medelvärde
+Erbjuder fritids ditt barn meningsfulla aktiviteter? - - - - - -    7,3
+
+Erbjuder fritids ditt barn en trygg verksamhet? - - - - -     -     8,2
+
+Stimulerar fritids ditt barns sociala utveckling? - - - - -   -     7,2
+
+Stimulerar fritids ditt barns lärande? - -   -    -     -     -     6,8
+
+Finns det möjligheter till både aktivitet och vila? - - - - - -     7,9
+
+Får du tillräcklig information om vad som händer
+\-      -     -    -     -     -     5,9
+på fritids?
+
+70
+
+e
+
+e
+
+a
+
+rd
+
+a
+
+rd
+
+ig
+
+ä
+
+ig
+
+ä
+
+l
+
+l
+
+t
+
+lv
+
+,7
+
+t
+
+lv
+
+,7
+
+e
+
+7
+
+e
+
+7
+
+am
+
+d
+
+am
+
+d
+
+S
+
+e
+
+S
+
+e
+
+M
+
+M
+
+te
+
+l
+
+te
+
+l
+
+in
+
+e
+
+in
+
+e
+
+d
+
+\-
+
+d
+
+\-
+
+t
+
+t
+
+e
+
+n
+
+e
+
+n
+
+V
+
+A
+
+V
+
+A
+
+s
+
+t
+
+l
+
+l
+
+l
+
+e a
+
+l
+
+k ig
+
+e
+
+a
+
+e
+
+c l d
+
+\-
+
+d
+
+\-
+
+y å n
+
+e
+
+n
+
+A
+
+t
+
+A
+
+M d
+
+In
+
+a a
+
+l
+
+s
+
+l
+
+k g
+
+e
+
+is l
+
+e
+
+s i
+
+l d
+
+\-
+
+v e d
+
+\-
+
+n
+
+l
+
+å n
+
+l d n
+
+a
+
+i
+
+)
+
+G d A
+
+T
+
+A
+
+,7
+
+7
+
+\:
+
+r
+
+a
+
+l
+
+l
+
+te
+
+l
+
+la
+
+k
+
+to l
+
+o
+
+s a
+
+e
+
+e
+
+in
+
+e
+
+r d
+
+\-
+
+s e d
+
+\-
+
+d
+
+\-
+
+%
+
+k
+
+n
+
+l
+
+0
+
+s
+
+b n
+
+l d n
+
+t
+
+n
+
+r
+
+a
+
+A
+
+i
+
+A
+
+e
+
+A
+
+sä
+
+G
+
+T
+
+V
+
+d
+
+n
+
+u
+
+t
+
+l
+
+h t
+
+l
+
+l
+
+r
+
+e
+
+c
+
+j
+
+g
+
+k a
+
+e
+
+o le
+
+e
+
+e
+
+%
+
+c r d
+
+\-
+
+t l d
+
+\-
+
+e
+
+d
+
+\-
+
+a
+
+y b
+
+l
+
+9
+
+ig
+
+n
+
+e å n
+
+N
+
+n
+
+3
+
+l
+
+A
+
+h A
+
+A
+
+t
+
+M
+
+H
+
+am
+
+e
+
+e
+
+(S
+
+d
+
+d
+
+r
+
+r
+
+l
+
+,1
+
+ä
+
+ä
+
+e
+
+lv
+
+\-
+
+lv
+
+\-
+
+a
+
+\-
+
+%
+
+7
+
+J
+
+d
+
+1
+
+e
+
+e
+
+n
+
+x
+
+d
+
+d
+
+A
+
+6
+
+de
+
+e
+
+e
+
+In
+
+M
+
+M
+
+å ,
+
+f a
+
+t k
+
+t s
+
+a r ?
+
+)
+
+a te
+
+n
+
+g
+
+r ö lo
+
+e k
+
+ja
+
+v ls o
+
+k
+
+le o y
+
+äm
+
+e k s
+
+fr
+
+?
+
+s p
+
+)
+
+r l l
+
+t
+
+t
+
+fö e o
+
+m
+
+p k
+
+a
+
+e
+
+a
+
+s
+
+r
+
+h
+
+m r
+
+ö
+
+s
+
+rn
+
+f
+
+e xe le
+
+r
+
+id
+
+t
+
+l
+
+)
+
+t
+
+e
+
+ta
+
+x
+
+i
+
+e l e
+
+r
+
+l
+
+e
+
+e
+
+f
+
+h i g
+
+d
+
+(
+
+g t
+
+b
+
+i ( o
+
+r
+
+in
+
+s
+
+l g
+
+j
+
+a
+
+j
+
+d
+
+n a
+
+i
+
+ö
+
+n
+
+e
+
+t
+
+a d
+
+r
+
+i
+
+m ls e
+
+la
+
+a
+
+fr
+
+?
+
+u ä lp
+
+o
+
+ld
+
+k a
+
+i
+
+å
+
+d h a
+
+s ls
+
+b
+
+p
+
+r v i
+
+(
+
+c
+
+t
+
+a le
+
+t ä
+
+n
+
+tt
+
+e
+
+h
+
+m
+
+r
+
+a
+
+e p
+
+a
+
+e
+
+a
+
+ls
+
+a
+
+s
+
+f n s
+
+u
+
+h
+
+b
+
+ä
+
+,
+
+a
+
+s
+
+t
+
+a
+
+h
+
+p å r
+
+d n
+
+d
+
+t
+
+ig
+
+v
+
+p fr o
+
+r r
+
+i
+
+i
+
+l
+
+t
+
+e e
+
+it
+
+d
+
+t
+
+le
+
+u
+
+r d a
+
+k v
+
+r
+
+r
+
+E
+
+ö r
+
+c e
+
+F
+
+m
+
+.
+
+u t u
+
+y l
+
+.
+
+å
+
+a
 
 8
 
-H
-s
-k
+H s k
 
-T
-e
+T e
 
 9
 
 G
 
 S
-. E le v h ä ls a
-u r u p p fa t ta r d u m ö jlig h e t e rn a fö r e le v e rn
-t ö d frå n e le v h ä ls a n (t ill e x e m p e l s k o ls k ö
-u ra t o r, s p e c ia lp e d a g o g e lle r s k o lp s y k o lo
-y c k e r d u a t t s k o la n a rb e t a r fö r a t t frä m ja
-le v e rn a s h ä ls a ?
-. F rit id s h e m (b ild a r e j in d e x )
-å r d itt b a rn p å fritid s (fritid s h e m )?
-a m tlig a
-a a t t få
-t e rs k a ,
-g )?
-In
-M
-M
-d
-e
-e
-e
-d
-d
-A
-x 7 ,1
-e lv ä
-\-
-e lv ä
-\-
-Ja
-n d e
-\-
-6 1 %
-(S
-rd
-rd
-l
-a
-e
-e
-m tlig a g ru n d
-M y c k e t
-b ra
-A n d e l
-\-
-H e lt o c h
-h å lle t
-A n d e l
-\-
-N e j
-A n d e l
-\-
-3 9 %
-s ä rs k o la : 7
-G a n s k a
-b ra
-A n d e l
-\-
-T ill s t o r
-d e l
-A n d e l
-\-
-V e t in te
-A n d e l
-\-
-0 %
-,7 )
-G a n s k a
-d å lig a
-A n d e l
-\-
-T ill v is s
-d e l
-A n d e l
-\-
-M y
-d å
-A n
-In t e
-A n
-c k e t
-lig a
-d e l
-\-
-a lls
-d e l
-\-
-V
-V
-e
-A
-e
-A
-t
-n
-t
-n
-in
-d e
-\-
-in
-d e
-\-
-t e
-l
-t e
-l
-M
-M
-S
-e
-S
-e
-a
-d
-a
-d
-m
-e
-7
-m
-e
-7
-t lig a
-lv ä rd
-,7
-t lig a
-lv ä rd
-,7
-e
-e
-Vårdnadshavare Grundsärskola
-Helt och Till stor Till viss
-9\. Fritidshem (bildar ej index)                       Inte alls Vet inte Samtliga
-hållet del   del
-Medelvärde Andel Andel Andel Andel Andel Medelvärde
-Erbjuder fritids ditt barn meningsfulla aktiviteter? - - - - - -    7,3
-Erbjuder fritids ditt barn en trygg verksamhet? - - - - -     -     8,2
-Stimulerar fritids ditt barns sociala utveckling? - - - - -   -     7,2
-Stimulerar fritids ditt barns lärande? - -   -    -     -     -     6,8
-Finns det möjligheter till både aktivitet och vila? - - - - - -     7,9
-Får du tillräcklig information om vad som händer
-\-      -     -    -     -     -     5,9
-på fritids?
-70
 
 <!-- sida 129 -->
+
+Vårdnadshavare Grundsärskola
 
 Resultat frågeområden      och  frågor
 
@@ -9714,78 +45031,269 @@ skolan om du skulle ha klagomål och är missnöjd
 med hur skolan hanterar detta?
 Samtliga                       76%    13%   11%
 
-1
+71
+
+e
+
+a
+
+rd
+
+ig
+
+ä
+
+l
+
+t
+
+lv
+
+,7
+
+e
+
+7
+
+am
+
+d
+
+S
+
+e
+
+M
+
+te
+
+l
+
+in
+
+e
+
+d
+
+\-
+
+t
+
+e
+
+n
+
+V
+
+A
+
+s
+
+l
+
+l
+
+l
+
+e
+
+a
+
+d
+
+\-
+
+te
+
+n
+
+In
+
+A
+
+s
+
+l
+
+is l e
+
+v e d
+
+\-
+
+l
+
+l d n
+
+i
+
+T
+
+A
+
+r
+
+l
+
+to l e
+
+s e d
+
+\-
+
+l
+
+l d n
+
+i
+
+T
+
+A
+
+ch t
+
+l
+
+o le e
+
+l d
+
+\-
+
+lt
+
+e å n
+
+H h A
+
+e
+
+rd
+
+ä
+
+lv
+
+\-
+
+e
+
+d
+
+e
+
+M
+
+)
+
+x
+
+e
+
+?
+
+d
+
+la
+
+in
+
+o
+
+j
+
+k
+
+e
+
+s
+
+r
+
+a
+
+s
+
+d
+
+rn
+
+il
+
+b
+
+a
+
+(
+
+b
+
+t
+
+t
+
+e
+
+it
+
+h
+
+d
+
+jd
+
+ö
+
+d
+
+n
+
+e
+
+e
+
+m
+
+nd
+
+u
+
+a
+
+d
+
+ip
+
+r
+
+r
+
+ä
+
+g
+
+r
+
+jd
+
+ve
+
+ö
+
+n
+
+Ö
+
+.
+
+r
+
+u
+
+11
 
 H
-1
-u
-. Ö
-r n
-v e rg rip a
-ö jd ä r d
-n d e
-u m
-n
-e
-ö jd h
-d d
-e t (b ild a r e
-itt b a rn s s
-j in d
-k o la
-e x
-?
-)
-M e d e lv
-\-
-ä rd e
-H eh
-A
-lt o
-å lle
-n d e
-\-
-c ht
-l
-T ill s
-d e
-A n d
-\-
-to
-l
-e l
-r T ill v
-d e
-A n d
-\-
-is s
-l
-e l
-In te
-A n
-a lls
-d e l
-\-
-V e
-A
-t in
-n d e
-\-
-te
-l M
-S
-e
-a
-d
-m
-e
-7
-tlig a
-lv ä rd
-,7
-e
-Vårdnadshavare Grundsärskola
-71
 
 <!-- sida 130 -->
 
@@ -10996,9 +46504,6 @@ Kungsbacka ändrar direktiv/riktlinjer/instruktioner till sina bolag så att;
 \-  tidsbegränsningen för övriga kontrakt förlängs till 5 år.
 
 Kungsbacka 2023-01-27
-
-MM. 2 ho » M M.'- An
-id Or. PE EN [ON ske ål, fa MAL U
 
 Maria Losman, Karin Färnlöf Clarin, Elisabeth Sahlsten, Clas Rosander.
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20221203121110id_/https://kungsbacka.se/d
 sha256: 166b08841525d5df723379d59e5ef3164015389006d5defb011c9b405f65984b
 bytes: 24707586
 sidor: 591
-hamtad: 2026-10-26T10:04:44+00:00
-konverterad: 2026-10-26T10:06:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T03:05:27+00:00
+konverterad: 2026-11-17T03:07:03+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -508,33 +508,55 @@ Förord
 Vatten är en grundförutsättning för allt levande på jorden, och därmed också en förutsätt-
 ning för människors hälsa och en hållbar utveckling. Därför utgör Rent vatten och sanitet
 för alla ett av FN:s globala mål inom Agenda 2030. De 17 målen för hållbar utveckling är
-integrerade och odelbara, och tydliggör kopplingen mellan vattenförsörjningen och andra
 
+integrerade och odelbara, och tydliggör kopplingen mellan vattenförsörjningen och andra
 hållbarhetsmål såsom hälsa, resurseffektivitet samt vikten av att skydda våra ekosystem.
 
-Dricksvatten är vårt viktigaste livsmedel och en Vattenförsörjningsplan för Göteborgsregionen
-fungerande vattenförsörjning är en förutsättning utarbetades av GR och medlemskommunerna
-för samhällsutvecklingen. Göteborgsregionen är i samarbete, och är sedan tidigare behandlad
-en region under stark tillväxt, och är beroende politiskt i samtliga kommuner, med ett brett stöd
-av en säker tillgång till dricksvatten för att klara för vision och mål som resultat. Planen används
-utveckling av verksamheter, bostadsbyggande, idag som underlag både för kommunala planer
-folkhälsa och välbefinnande. Samtidigt lever vi i och strategier, och för den samverkan inom
-ett komplext och föränderligt samhälle och står VA-området som sker inom Göteborgsregionen.
-inför ett klimat under förändring, vilket skapar Planens mål följs upp regelbundet, och visar på
-utmaningar för vattenförsörjningen, och ställer goda resultat av det regionala samarbetet, men
-krav på att vattentillgångar och försörjningssys- också att mycket arbete återstår för att uppfylla
-tem säkras och skyddas långsiktigt. planens vision om en trygg och långsiktigt hållbar
-vattenförsörjning i regionen.
+Dricksvatten är vårt viktigaste livsmedel och en
+fungerande vattenförsörjning är en förutsättning
+för samhällsutvecklingen. Göteborgsregionen är
+en region under stark tillväxt, och är beroende
+av en säker tillgång till dricksvatten för att klara
+utveckling av verksamheter, bostadsbyggande,
+folkhälsa och välbefinnande. Samtidigt lever vi i
+ett komplext och föränderligt samhälle och står
+inför ett klimat under förändring, vilket skapar
+utmaningar för vattenförsörjningen, och ställer
+krav på att vattentillgångar och försörjningssys-
+tem säkras och skyddas långsiktigt.
 Dricksvattenutredningens slutbetänkande En
-trygg dricksvattenförsörjning, SOU 2016:32, 2019 gjordes en aktualitetsförklaring av planen,
-tydliggör behovet av ett regionalt perspektiv där den bedömdes som i huvudsak aktuell men
-och mellankommunal samverkan för att möta i behov av uppdateringar inom ett par områden,
-vattenförsörjningens utmaningar. I Göteborgsre- klimatförändringarnas påverkan på dricksvatten
-gionen har vi gemensamma vattenresurser, och samt säkerhetsfrågor för dricksvattenförsörjning.
-våra kommuner är redan idag sammankopplade Detta dokument utgör den uppdaterade versio-
-i försörjningssystemen. Det är därför nödvändigt nen av Vattenförsörjningsplan för Göteborgsregi-
-med en gemensam hantering av vattenförsörj- onen.
+trygg dricksvattenförsörjning, SOU 2016:32,
+tydliggör behovet av ett regionalt perspektiv
+och mellankommunal samverkan för att möta
+vattenförsörjningens utmaningar. I Göteborgsre-
+gionen har vi gemensamma vattenresurser, och
+våra kommuner är redan idag sammankopplade
+i försörjningssystemen. Det är därför nödvändigt
+med en gemensam hantering av vattenförsörj-
 ningsfrågorna.
+
+Vattenförsörjningsplan för Göteborgsregionen
+utarbetades av GR och medlemskommunerna
+i samarbete, och är sedan tidigare behandlad
+politiskt i samtliga kommuner, med ett brett stöd
+för vision och mål som resultat. Planen används
+idag som underlag både för kommunala planer
+och strategier, och för den samverkan inom
+VA-området som sker inom Göteborgsregionen.
+Planens mål följs upp regelbundet, och visar på
+goda resultat av det regionala samarbetet, men
+också att mycket arbete återstår för att uppfylla
+planens vision om en trygg och långsiktigt hållbar
+vattenförsörjning i regionen.
+2019 gjordes en aktualitetsförklaring av planen,
+där den bedömdes som i huvudsak aktuell men
+i behov av uppdateringar inom ett par områden,
+klimatförändringarnas påverkan på dricksvatten
+samt säkerhetsfrågor för dricksvattenförsörjning.
+Detta dokument utgör den uppdaterade versio-
+nen av Vattenförsörjningsplan för Göteborgsregi-
+onen.
+
 Maria Sigroth
 Avdelningschef, Miljö och Samhällsbyggnad
 Göteborgsregionen
@@ -650,85 +672,126 @@ Planens       mål    och   genomförande
 
 Vattenförsörjningsplan för Göteborgsregionen
 
-1.1   Inledning                 täcka och åtgärda eventuella fel. Konsumenten
+1.1   Inledning
+
+I Göteborgsregionen är vi alla beroende av
+gemensamma vattenresurser. Det gör vattnet till
+en fråga av regional betydelse och det blir således
+logiskt att arbeta med gemensamma lösningar.
+Redan idag förekommer mellankommunala
+och regionala samarbeten i olika former och i
+olika omfattning. Inom dricksvattenförsörjning
+samarbetar flera kommuner med varandra.
+Exempelvis har varken Öckerö eller Ale någon
+egen dricksvattenproduktion utan köper sitt
+vatten från Göteborg, respektive Kungälv och
+Göteborg. Göteborg levererar även dricksvatten
+till Partille och Mölndal. Likaså finns möjligheter
+till reservvattenförsörjning i flera kommuner
+genom överföring från grannkommuner, exem-
+pelvis mellan Härryda, Mölndal och Kungsbacka.
+Vidare är Tjörn, särskilt sommartid, beroende av
+leverans från Stenungsund.
+
+Dessa befintliga samarbeten är ett tecken på
+att vattenresurserna inom regionen är ojämnt
+fördelade. Särskilt tydligt blir detta för kustkom-
+munerna Öckerö, Tjörn och delar av Kungälv och
+Stenungsund. Vatten, såväl i form av ytvatten
+som grundvatten, ska därför ses som en gemen-
+sam resurs oavsett vilken eller vilka kommuner
+som är berörda geografiskt. Ett sådant synsätt
+leder till att det blir naturligt med gemensamma
+lösningar och samverkan i regionen för att kunna
+hantera de gemensamma frågeställningarna på
+ett effektivt sätt. En viktig utgångspunkt för detta
+är en gemensam vision och gemensamma mål för
+regionen.
+
+1.2   Vision     -
+
+”En trygg och långsiktigt hållbar
+
+vattenförsörjning”
+
+Visionen anger att vattenförsörjningen ska vara
+trygg och långsiktigt hållbar, vilket ska gälla hela
+kedjan från råvattnets ursprung till konsumen-
+tens kran. En trygg vattenförsörjning innebär
+att konsumenten ska kunna förvänta sig säker
+leverans av dricksvatten, d.v.s. en leverans med
+mycket få och korta avbrott, samt att vattnet i
+kranen alltid ska vara hälsosamt och gott. I be-
+greppet trygghet ligger även brukarnas tillit och
+förtroende för producentens förmåga att upp-
+
+8
+
+täcka och åtgärda eventuella fel. Konsumenten
 ska kunna förvänta sig beredskap och tillgång till
 information i en krishändelse.
-I Göteborgsregionen är vi alla beroende av
-gemensamma vattenresurser. Det gör vattnet till Vidare anger visionen att vattenförsörjningen ska
-en fråga av regional betydelse och det blir således vara långsiktigt hållbar, vilket innebär att hela
-logiskt att arbeta med gemensamma lösningar. vattenförsörjningskedjan ska vara hållbar ur eko-
-Redan idag förekommer mellankommunala logisk, social och ekonomisk synvinkel. Vatten-
-och regionala samarbeten i olika former och i försörjningen som den sker idag får inte äventyra
-olika omfattning. Inom dricksvattenförsörjning framtida generationers möjligheter till en trygg
-samarbetar flera kommuner med varandra. och långsiktigt hållbar vattenförsörjning.
-Exempelvis har varken Öckerö eller Ale någon
-egen dricksvattenproduktion utan köper sitt Med ekologiskt hållbar avses att vattenförsörj-
-vatten från Göteborg, respektive Kungälv och ningen inte innebär någon negativ påverkan på
-Göteborg. Göteborg levererar även dricksvatten ekosystemen på lång sikt. Det kan t.ex. handla
-till Partille och Mölndal. Likaså finns möjligheter om energieffektivitet eller att uttag av råvatten
-till reservvattenförsörjning i flera kommuner ur en sjö eller ett grundvattenmagasin enbart
-genom överföring från grannkommuner, exem- görs till en nivå som naturen tål. Uttagen ska
-pelvis mellan Härryda, Mölndal och Kungsbacka. vara väl utredda och balanserade så att miljök-
-Vidare är Tjörn, särskilt sommartid, beroende av valitetsnormer, i enlighet med vattendirektivet,
-leverans från Stenungsund.      kan upprätthållas/uppnås i våra gemensamma
+
+Vidare anger visionen att vattenförsörjningen ska
+vara långsiktigt hållbar, vilket innebär att hela
+vattenförsörjningskedjan ska vara hållbar ur eko-
+logisk, social och ekonomisk synvinkel. Vatten-
+försörjningen som den sker idag får inte äventyra
+framtida generationers möjligheter till en trygg
+och långsiktigt hållbar vattenförsörjning.
+
+Med ekologiskt hållbar avses att vattenförsörj-
+ningen inte innebär någon negativ påverkan på
+ekosystemen på lång sikt. Det kan t.ex. handla
+om energieffektivitet eller att uttag av råvatten
+ur en sjö eller ett grundvattenmagasin enbart
+görs till en nivå som naturen tål. Uttagen ska
+vara väl utredda och balanserade så att miljök-
+valitetsnormer, i enlighet med vattendirektivet,
+kan upprätthållas/uppnås i våra gemensamma
 vattenresurser.
-Dessa befintliga samarbeten är ett tecken på
-att vattenresurserna inom regionen är ojämnt Begreppet ekologiskt hållbar innebär således
-fördelade. Särskilt tydligt blir detta för kustkom- ett balanserat användande av naturens resurser
-munerna Öckerö, Tjörn och delar av Kungälv och där olika intressen måste vägas mot varandra.
-Stenungsund. Vatten, såväl i form av ytvatten Grundvattenmagasin i form av isälvsavlagringar
-som grundvatten, ska därför ses som en gemen- utgör en ändlig resurs som inte återskapas förrän
-sam resurs oavsett vilken eller vilka kommuner nästa istid, vilket ska tas i beaktande när det
-som är berörda geografiskt. Ett sådant synsätt gäller utbrytning av isälvsavlagringar i samband
-leder till att det blir naturligt med gemensamma med grustäktsverksamhet. Ett väl balanserat
-lösningar och samverkan i regionen för att kunna nyttjande av isälvsavlagringar för dricksvatten-
-hantera de gemensamma frågeställningarna på försörjning innebär en ekologiskt långsiktigt
-ett effektivt sätt. En viktig utgångspunkt för detta hållbar naturresursanvändning.
-är en gemensam vision och gemensamma mål för
-regionen.                       Den ekologiska aspekten av långsiktigt hållbar
+Begreppet ekologiskt hållbar innebär således
+ett balanserat användande av naturens resurser
+där olika intressen måste vägas mot varandra.
+Grundvattenmagasin i form av isälvsavlagringar
+utgör en ändlig resurs som inte återskapas förrän
+nästa istid, vilket ska tas i beaktande när det
+gäller utbrytning av isälvsavlagringar i samband
+med grustäktsverksamhet. Ett väl balanserat
+nyttjande av isälvsavlagringar för dricksvatten-
+försörjning innebär en ekologiskt långsiktigt
+hållbar naturresursanvändning.
+
+Den ekologiska aspekten av långsiktigt hållbar
 vattenförsörjning täcks in dels genom mark- och
 miljödomstolens tillståndsprövning av vattentäk-
 ter, grustäkter och andra exploateringar och den
-1.2    Vision    -
 miljökonsekvensbeskrivning som görs i samband
 med dessa processer, men också genom den upp-
-”En trygg och långsiktigt hållbar
 följning av vattenförekomsternas status som det
-vattenförsörjning”              svenska vattenförvaltningsarbetet leder till.
+svenska vattenförvaltningsarbetet leder till.
 För att ha tillgång till råvatten av god kvalitet
-Visionen anger att vattenförsörjningen ska vara
 krävs i grunden ett väl fungerande grund- och
-trygg och långsiktigt hållbar, vilket ska gälla hela
 ytvattenekosystem med förmåga att rena och att
-kedjan från råvattnets ursprung till konsumen-
 balansera och återhämta sig från eventuella stör-
-tens kran. En trygg vattenförsörjning innebär
 ningar. Att ha tillgång till råvatten av god kvalitet
-att konsumenten ska kunna förvänta sig säker
 är en viktig förutsättning för att kunna bedriva
-leverans av dricksvatten, d.v.s. en leverans med
 en kostnads- och resurseffektiv dricksvattenför-
-mycket få och korta avbrott, samt att vattnet i
 sörjning. Föreliggande vattenförsörjningsplan
-kranen alltid ska vara hälsosamt och gott. I be-
 förordar därför ett upprätthållande av vitala och
-greppet trygghet ligger även brukarnas tillit och
 funktionella ekosystem som bidrar med ekosys-
-förtroende för producentens förmåga att upp-
 temtjänsterna vattenproduktion och vattenrening.
-8
 
 <!-- sida 18 -->
 
-Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
+Vattenförsörjningsplan för Göteborgsregionen
 
-Den sociala synvinkeln av långsiktigt hållbar vat- kan även handla om att utvecklingen i regionen
-tenförsörjning innefattar att alla ska ha tillgång till planeras för samlad bebyggelse där infrastruktu-
-hälsosamt och gott vatten till en rimlig och förut- ren kan användas effektivt. För att upprätthålla en
-sägbar kostnad för den enskilde. Konsumenten ska ekonomiskt hållbar vattenförsörjning krävs också
-känna sig trygg och kunna lita på att det kommer förebyggande arbete för att undvika försämringar
-vatten ur kranen och att det vatten som kommer är av råvattenkvalitet hos såväl dagens som presum-
-av god kvalitet och inte innebär risk för sjukdom. tiva framtida vattentäkter.
+Den sociala synvinkeln av långsiktigt hållbar vat-
+tenförsörjning innefattar att alla ska ha tillgång till
+hälsosamt och gott vatten till en rimlig och förut-
+sägbar kostnad för den enskilde. Konsumenten ska
+känna sig trygg och kunna lita på att det kommer
+vatten ur kranen och att det vatten som kommer är
+av god kvalitet och inte innebär risk för sjukdom.
 
 Ekonomiskt hållbar vattenförsörjning innebär
 att verksamheten har hållbara resurser för att
@@ -747,44 +810,74 @@ erat och distribuerat på ett resurs- och
 kostnads effektivt sätt som inte innebär
 negativa konsekvenser för miljön.
 
+1\. Planens mål och genomförande
+
+kan även handla om att utvecklingen i regionen
+planeras för samlad bebyggelse där infrastruktu-
+ren kan användas effektivt. För att upprätthålla en
+ekonomiskt hållbar vattenförsörjning krävs också
+förebyggande arbete för att undvika försämringar
+av råvattenkvalitet hos såväl dagens som presum-
+tiva framtida vattentäkter.
+
 9
 
 <!-- sida 19 -->
 
 Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
 
-1.3    Målområden
+1.3   Målområden
 
 Utifrån visionen har tre målområden formulerats:
 
 Gott och hälsosamt Säker tillgång till Robusta
 dricksvatten i kranen råvatten av god kvalitet vattenförsörjningssystem
 
-Med ett gott dricksvatten avses här ett vatten lösningarna i vattenverken. Ett förebyggande ar-
-som inte ger upphov till återkommande klago- bete för att förhindra förorening av vattenresur-
-mål från brukarna till följd av otillfredsställande ser utpekas av WHO som ett effektivt arbetssätt
-smak, lukt eller färg. Vidare bör dricksvattnet när det gäller hantering av risker och sårbarhet i
-vara av en sådan kvalitet att det inte orsakar tek- dricksvattenförsörjningen, se vidare avsnitt 2.9.
+Med ett gott dricksvatten avses här ett vatten
+som inte ger upphov till återkommande klago-
+mål från brukarna till följd av otillfredsställande
+smak, lukt eller färg. Vidare bör dricksvattnet
+vara av en sådan kvalitet att det inte orsakar tek-
 niska problem hos brukarna, t.ex. missfärgning
-av tvätt, igensättning av installationer m.m. Robusta vattenförsörjningssystem innebär i
-korthet att produktions- och distributionssyste-
-Hälsosamt dricksvatten handlar om att vattnet met ska vara uppbyggt på ett sådant sätt att det
-ska hålla en sådan kvalitet att det inte orsakar klarar av att hantera och motstå förändringar av
-negativa hälsoeffekter på kort eller lång sikt. olika slag. Förändringarna kan gälla omvärlds-
-faktorer som klimat eller mer lokala förändringar
-Att tillgången till råvatten ska vara säker innebär som kompetensförsörjning inom organisationen.
-att råvatten ska finnas i tillräcklig mängd, utan Förutsättningar för ett robust vattenförsörj-
-frekventa avbrott till följd av t.ex. påverkan av ningssystem är exempelvis förebyggande arbete
-föroreningar i råvattnet eller att tillrinningen med hållbara tekniska lösningar, beredskap för
-periodvis är för låg. Konsekvenserna av att inte krishantering, integrering av vattenförsörjnings-
-ha en säker tillgång till råvatten kan bli mycket frågorna i övrig samhällsplanering och i regiona-
-allvarliga för de samhällsfunktioner som är extra la utvecklingsplaner.
+av tvätt, igensättning av installationer m.m.
+
+Hälsosamt dricksvatten handlar om att vattnet
+ska hålla en sådan kvalitet att det inte orsakar
+negativa hälsoeffekter på kort eller lång sikt.
+
+Att tillgången till råvatten ska vara säker innebär
+att råvatten ska finnas i tillräcklig mängd, utan
+frekventa avbrott till följd av t.ex. påverkan av
+föroreningar i råvattnet eller att tillrinningen
+periodvis är för låg. Konsekvenserna av att inte
+ha en säker tillgång till råvatten kan bli mycket
+allvarliga för de samhällsfunktioner som är extra
 avbrottskänsliga, t.ex. sjukhus.
 Tillgång till råvatten av god kvalitet innebär,
 förutom att minska risken för avbrott till följd
 av t.ex. påverkan av föroreningar, att råvattnets
 status ska vara god. Försämrad råvattenkvalitet
 leder till allt högre krav på de reningstekniska
+
+lösningarna i vattenverken. Ett förebyggande ar-
+bete för att förhindra förorening av vattenresur-
+ser utpekas av WHO som ett effektivt arbetssätt
+när det gäller hantering av risker och sårbarhet i
+dricksvattenförsörjningen, se vidare avsnitt 2.9.
+
+Robusta vattenförsörjningssystem innebär i
+korthet att produktions- och distributionssyste-
+met ska vara uppbyggt på ett sådant sätt att det
+klarar av att hantera och motstå förändringar av
+olika slag. Förändringarna kan gälla omvärlds-
+faktorer som klimat eller mer lokala förändringar
+som kompetensförsörjning inom organisationen.
+Förutsättningar för ett robust vattenförsörj-
+ningssystem är exempelvis förebyggande arbete
+med hållbara tekniska lösningar, beredskap för
+krishantering, integrering av vattenförsörjnings-
+frågorna i övrig samhällsplanering och i regiona-
+la utvecklingsplaner.
 
 10
 
@@ -794,15 +887,24 @@ Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomföran
 
 1.4   Mål   och    åtgärder
 
-Kopplade till målområdena har förslag till nio En rimlig tidshorisont för planen är 2025 som
-delmål formulerats. Varje delmål kan härledas till målår. Detta innebär ett decennieperspektiv
-ett eller flera målområden. Under varje delmål vilket är ett vanligt tidsperspektiv i kommunal
-nedan presenteras en kort introduktion till målet översiktsplanering. För att fånga det långsiktiga
-samt förslag på åtgärder. Förslagen till åtgärder generationsperspektivet görs även en utblick mot
-skall ses som exempel och utgöra vägledning i det 2050. Av detta följer att i det fortsatta arbetet
-fortsatta arbetet med genomförande av planen. med målen bör dessa kvantifieras och göras
-Mer utförlig bakgrund och underlagsinformation mätbara.
+Kopplade till målområdena har förslag till nio
+delmål formulerats. Varje delmål kan härledas till
+ett eller flera målområden. Under varje delmål
+nedan presenteras en kort introduktion till målet
+samt förslag på åtgärder. Förslagen till åtgärder
+skall ses som exempel och utgöra vägledning i det
+fortsatta arbetet med genomförande av planen.
+Mer utförlig bakgrund och underlagsinformation
 till delmålen ges i kapitel 2–9.
+
+En rimlig tidshorisont för planen är 2025 som
+målår. Detta innebär ett decennieperspektiv
+vilket är ett vanligt tidsperspektiv i kommunal
+översiktsplanering. För att fånga det långsiktiga
+generationsperspektivet görs även en utblick mot
+2050\. Av detta följer att i det fortsatta arbetet
+med målen bör dessa kvantifieras och göras
+mätbara.
 
 Vision
 
@@ -811,8 +913,8 @@ En trygg och långsiktigt hållbar vattenförsörjning
 Målområden
 
 • Gott och hälsosamt dricksvatten i kranen
-• Säker tillgång till råvatten av god kvalitet
 
+• Säker tillgång till råvatten av god kvalitet
 • Robusta vattenförsörjningssystem
 
 Delmål
@@ -825,8 +927,8 @@ Delmål
 4\. Hälsomässigt säkert vatten
 
 5\. Bibehålla brukarnas tillit och förtroende
-6\. Resurseffektiva lösningar
 
+6\. Resurseffektiva lösningar
 7\. Vattenförsörjningsfrågan integrerad i samhällsplaneringen
 
 8\. Beredskap för att möta klimatförändringar
@@ -843,41 +945,68 @@ Delmål 1
 
 Tillgång till råvatten av god kvalitet
 
-Historiskt sett har vi i Sverige haft tillgång till inriktade mot skydd av våra gemensamma vat-
-råvatten av god kvalitet. Våra vattenresurser tenresurser och mot uppströms arbete i och med
-är dock i allt högre grad utsatta för olika for- de risker och hot som identifieras inom tillrin-
-mer av risker och hot, vilket gör att råvattnets ningsområden för både nuvarande och potentiel-
-kvalitet riskerar att försämras. Grunden till ett la framtida vattentäkter.
+Historiskt sett har vi i Sverige haft tillgång till
+råvatten av god kvalitet. Våra vattenresurser
+är dock i allt högre grad utsatta för olika for-
+mer av risker och hot, vilket gör att råvattnets
+kvalitet riskerar att försämras. Grunden till ett
 gott och hälsosamt dricksvatten, tillverkat på
-ett kostnads- och resurseffektivt sätt, ligger i en Riskerna, främst till följd av mikrobiologisk på-
-säkerställd tillgång till råvatten av god kvalitet i verkan och klimatförändringar, förväntas bli mer
-tillräcklig kvantitet. Förutsättningarna för råvat- påtagliga för råvattnet i regionen framöver. Detta
-ten av god kvalitet ges bl.a. av ett väl fungerande gäller i särskilt hög grad ytvattenresurser. God
-ekosystem med förmåga att rena och att åter- kunskap om de riskkällor och andra faktorer som
-hämta sig från eventuella störningar. De åtgärder kan påverka våra vattenresurser är en viktig för-
-som krävs för att nå målet är därför i stor grad utsättning då t.ex. riskbedömningar genomförs.
+ett kostnads- och resurseffektivt sätt, ligger i en
+säkerställd tillgång till råvatten av god kvalitet i
+tillräcklig kvantitet. Förutsättningarna för råvat-
+ten av god kvalitet ges bl.a. av ett väl fungerande
+ekosystem med förmåga att rena och att åter-
+hämta sig från eventuella störningar. De åtgärder
+som krävs för att nå målet är därför i stor grad
 
 Förslag
 till åtgärder
-• Säkerställa skydd för regionens Samarbeta med Räddningstjänsten
-nuvarande och presumtiva   kring släckvatten för att förhindra
-framtida vattentäkter.     förorening av vattentäkter.
+• Säkerställa skydd för regionens
+nuvarande och presumtiva
+framtida vattentäkter.
 
-Se till att verkningsfullt skydd finns Samarbeta kring frågeställningar
-för samtliga vattentäkter i regio- av vikt för enskild dricksvattenför-
-nen och samverka kring skydd av sörjning.
+Se till att verkningsfullt skydd finns
+för samtliga vattentäkter i regio-
+nen och samverka kring skydd av
 gemensamma vattenresurser.
-Samarbeta kring kunskapsupp-
-Förstärka resurser för tillsyn i fast- byggnad avseende enskilda avlopp
-ställda vattenskyddsområden. på landsbygden för att minimera
-mängden undermåliga anlägg-
-Skapa vattenskyddsområden för ningar.
+
+Förstärka resurser för tillsyn i fast-
+ställda vattenskyddsområden.
+Skapa vattenskyddsområden för
 vattenresurser av intresse för fram-
 tida vattenförsörjning.
+
 Verka för framtagande av mikrobio-
 logiska miljökvalitetsnormer som
 komplement till gällande miljökva-
 litetsnormer för kemiska ämnen.
+
+inriktade mot skydd av våra gemensamma vat-
+tenresurser och mot uppströms arbete i och med
+de risker och hot som identifieras inom tillrin-
+ningsområden för både nuvarande och potentiel-
+la framtida vattentäkter.
+
+Riskerna, främst till följd av mikrobiologisk på-
+verkan och klimatförändringar, förväntas bli mer
+påtagliga för råvattnet i regionen framöver. Detta
+gäller i särskilt hög grad ytvattenresurser. God
+kunskap om de riskkällor och andra faktorer som
+kan påverka våra vattenresurser är en viktig för-
+utsättning då t.ex. riskbedömningar genomförs.
+
+Samarbeta med Räddningstjänsten
+kring släckvatten för att förhindra
+förorening av vattentäkter.
+
+Samarbeta kring frågeställningar
+av vikt för enskild dricksvattenför-
+sörjning.
+Samarbeta kring kunskapsupp-
+byggnad avseende enskilda avlopp
+på landsbygden för att minimera
+mängden undermåliga anlägg-
+ningar.
 
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
@@ -895,11 +1024,11 @@ Delmål 2
 
 Säkerhet och redundans i produktion och distribution
 
-För att minska sårbarheten i regionens vatten- Den leveranssäkerhetsanalys som ingår i planen
-försörjningssystem, på grund av ökade risker, visar hur riskbaserade modeller kan illustrera
-finns ett stort behov av att skapa redundans och såväl säkerheten i befintliga system som effekten
-alternativa lösningar. Redundans innebär ett av åtgärder och därmed ge värdefullt beslutsun-
-upprätthållande av systemets prestationsförmåga derlag.
+För att minska sårbarheten i regionens vatten-
+försörjningssystem, på grund av ökade risker,
+finns ett stort behov av att skapa redundans och
+alternativa lösningar. Redundans innebär ett
+upprätthållande av systemets prestationsförmåga
 när enstaka komponenter fallerar. Reservvat-
 tenlösningar kan t.ex. bestå av tillgång till ett
 alternativt vattenverk, en alternativ råvattentäkt
@@ -908,43 +1037,64 @@ kommun.
 
 Förslag
 till åtgärder
-• Tillgodose tillgång till reservvatten av • Genomför utökad leveranssäker-
-tillräcklig kvantitet och kvalitet i alla hetsanalys för vattenförsörjningen i
-kommuner utifrån acceptabel risk vad Göteborgsregionen.
+• Tillgodose tillgång till reservvatten av
+tillräcklig kvantitet och kvalitet i alla
+kommuner utifrån acceptabel risk vad
 gäller leveranssäkerhet.
-• Genomför workshop för att identifiera
-Säkra viktiga grundvattenmagasin riskscenarier för regionens vattenför-
-för vattenförsörjning, t.ex. stråket sörjning, t.ex. med fokus på Göta älvs
-med isälvsavlagringar i Gråbo, sårbarhet.
+Säkra viktiga grundvattenmagasin
+för vattenförsörjning, t.ex. stråket
+med isälvsavlagringar i Gråbo,
 Östad, Kollanda och Ålanda, samt
-• Samverka kring kunskapsuppbyggnad
 Fjärås Bräcka som har stor regional
-avseende IT-säkerhet, sekretess och
 betydelse.
-annan informationssäkerhet.
+
 Inventera nedlagda vattenverk och
-• Samverka kring beredskapsfrågor
 undersök möjligheterna att restau-
-avseende dricksvattenförsörjning i
 rera dem så att de lätt kan tas i bruk
-samband med extraordinära hän-
 vid en eventuell krissituation.
-delser, t.ex. med genomförande av
-• Skapa förbindelser för överföring övningar kring långvarigt elavbrott,
-av dricksvatten mellan kommuner i oljeutsläpp, etc.
+• Skapa förbindelser för överföring
+av dricksvatten mellan kommuner i
 regionen och där det är möjligt även
-• Verka för att ta fram en regionge-
 till regionens kranskommuner.
+Skapa redundans utifrån ett riskba-
+serat synsätt.
+
+Den leveranssäkerhetsanalys som ingår i planen
+visar hur riskbaserade modeller kan illustrera
+såväl säkerheten i befintliga system som effekten
+av åtgärder och därmed ge värdefullt beslutsun-
+derlag.
+
+• Genomför utökad leveranssäker-
+hetsanalys för vattenförsörjningen i
+Göteborgsregionen.
+• Genomför workshop för att identifiera
+riskscenarier för regionens vattenför-
+sörjning, t.ex. med fokus på Göta älvs
+sårbarhet.
+
+• Samverka kring kunskapsuppbyggnad
+avseende IT-säkerhet, sekretess och
+annan informationssäkerhet.
+• Samverka kring beredskapsfrågor
+avseende dricksvattenförsörjning i
+samband med extraordinära hän-
+delser, t.ex. med genomförande av
+övningar kring långvarigt elavbrott,
+oljeutsläpp, etc.
+• Verka för att ta fram en regionge-
 mensam krisberedskapsplan med
-Skapa redundans utifrån ett riskba- avseende på vattenförsörjning med
-serat synsätt.           utgångspunkt i Nationell strategi för
+avseende på vattenförsörjning med
+utgångspunkt i Nationell strategi för
 dricksvattenförsörjning under korta
 kriser¹.
+
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 5.4 Grundvattenresurser
 2.8 Skydd och beredskap       7.8 IT-säkerhet i vattenförsörjningen
 2.9 Säkerhet och dricksvattenförsörjning 7.9 Extraordinära händelser
 4 Nuläge Göteborgsregionens vattenförsörjning 8.2 Resultat barriäranalys och leveranssäkerhet
+
 ¹ Nationell strategi för dricksvattenförsörjning under korta kriser 2014–2020 – planering och utveckling,
 13
 Livsmedelsverket i samarbete med Nationella nätverket för dricksvatten.
@@ -957,23 +1107,37 @@ Delmål 3
 
 Uthållig förnyelsetakt i produktions- och distributionssystem
 
-Ledningsnät för dricksvattendistribution är av I dagsläget vet ingen med större säkerhet vilken
-mycket varierande ålder, dimension och materi- livslängd man kan förvänta sig av olika typer av
-al. Den riktigt stora utbyggnaden av VA-näten i ledningsmaterial under olika förhållanden. Efter-
-Sverige gjordes under perioden 1960–1980, bl.a. som det finns många olika sorters material i de
-kopplat till byggandet av miljonprogrammen. En- ledningar som idag används är det svårt att ange
-ligt Svensk Vattens statistik är medianvärdet på en lämplig förnyelsetakt.
+Ledningsnät för dricksvattendistribution är av
+mycket varierande ålder, dimension och materi-
+al. Den riktigt stora utbyggnaden av VA-näten i
+Sverige gjordes under perioden 1960–1980, bl.a.
+kopplat till byggandet av miljonprogrammen. En-
+ligt Svensk Vattens statistik är medianvärdet på
 förnyelsetakten av ledningsnät i Sverige ca 0,4 %,
 vilket teoretisk innebär att ledningsnätet är helt
 utbytt efter ca 250 år.
 
 Förslag
 till åtgärder
-• Analysera och definiera förnyelsetakt • Utveckling av GIS-analys med avse-
-i produktions- och distributionssys- ende på livslängd, skador och brister
-tem i respektive kommun utifrån för ledningar av olika material, olika
-gemensam syn på styrande nyckeltal ålder och olika geologiska och geotek-
-som kan användas i uppföljning. niska förhållanden, som ett strate-
+
+• Analysera och definiera förnyelsetakt
+i produktions- och distributionssys-
+tem i respektive kommun utifrån
+gemensam syn på styrande nyckeltal
+som kan användas i uppföljning.
+
+I dagsläget vet ingen med större säkerhet vilken
+livslängd man kan förvänta sig av olika typer av
+ledningsmaterial under olika förhållanden. Efter-
+som det finns många olika sorters material i de
+ledningar som idag används är det svårt att ange
+en lämplig förnyelsetakt.
+
+• Utveckling av GIS-analys med avse-
+ende på livslängd, skador och brister
+för ledningar av olika material, olika
+ålder och olika geologiska och geotek-
+niska förhållanden, som ett strate-
 giskt underlag i förnyelseplanering.
 
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
@@ -984,22 +1148,22 @@ Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
 <!-- sida 24 -->
 
-Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
+Vattenförsörjningsplan för Göteborgsregionen
 
 Delmål 4
 
 Hälsomässigt säkert vatten
 
-Det dricksvatten som når oss brukare har på sin De hälsomässiga riskerna kopplade till drick-
-väg från råvatten till kranen utsatts för många vatten analyseras normalt med någon form av
-risker för förorening. Det är otillräckligt att ba- mikrobiologisk riskbedömning. I planen har
-sera bedömningen av hälsomässigt säkert vatten en bedömning gjorts av huruvida barriärerna
-enbart på antalet hälsomässigt otjänliga prover vid respektive kommuns huvudvattenverk är
-inom en VA-verksamhet. För att förhindra vat- tillräckliga med hänsyn till råvattenkvaliteten.
-tenburna sjukdomsutbrott måste vattenleveran- Den metod som utnyttjats benämns GDP (God
-tören arbeta förebyggande utifrån ett riskbaserat Desinfektionspraxis) men även andra analyser
-synsätt och bygga upp en tillräcklig säkerhet såsom kvantitativ mikrobiologisk riskbedömning
-(barriärer) i systemet. En del av det förebyggande kan användas.
+Det dricksvatten som når oss brukare har på sin
+väg från råvatten till kranen utsatts för många
+risker för förorening. Det är otillräckligt att ba-
+sera bedömningen av hälsomässigt säkert vatten
+enbart på antalet hälsomässigt otjänliga prover
+inom en VA-verksamhet. För att förhindra vat-
+tenburna sjukdomsutbrott måste vattenleveran-
+tören arbeta förebyggande utifrån ett riskbaserat
+synsätt och bygga upp en tillräcklig säkerhet
+(barriärer) i systemet. En del av det förebyggande
 arbetet är genomförandet av riskbedömningar
 som ger vägledning till nivån på säkerheten. I de
 fall åtgärder krävs kan riskbedömningar utnyttjas
@@ -1007,15 +1171,15 @@ för att utforma dessa med nödvändig effekt.
 
 Förslag
 till åtgärder
-• Säkerställ med hjälp av riskbedöm- • Säkerställ att olovliga uttag inte sker i
-ningar, som tar hänsyn till lokala ledningsnätet, t.ex. genom en gemen-
-förhållanden, att dricksvattenförsörj- sam strategi för låsning av brandpos-
-ningen inte medför en oacceptabel ter.
+• Säkerställ med hjälp av riskbedöm-
+ningar, som tar hänsyn till lokala
+förhållanden, att dricksvattenförsörj-
+ningen inte medför en oacceptabel
 hälsorisk för brukarna.
-• Säkerställ att distributionssystemet är
-säkert mot mikrobiologisk påverkan
-Inför UV-desinfektion i överfö- och ta fram rutiner för god hygien vid
-ringspunkter mellan kommuner. arbete med ledningsnätet.
+
+Inför UV-desinfektion i överfö-
+ringspunkter mellan kommuner.
+
 Utveckla rutin och strategi för att
 systematiskt följa upp vattenburna
 sjukdomsutbrott och dra erfaren-
@@ -1023,6 +1187,7 @@ heter gemensamt inom regionen,
 t.ex. utgående ifrån analyser av
 samtal till 1177 Vårdguiden (sjuk-
 vårdsrådgivningen).
+
 Verka för att alla vattenverk i
 regionen ska ha tillgång till snabba
 vattenanalyser.
@@ -1031,6 +1196,28 @@ Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
 7 Risker och hot mot regionens vattenförsörjning
 8.2 Resultat barriäranalys och leveranssäkerhet
+
+1\. Planens mål och genomförande
+
+De hälsomässiga riskerna kopplade till drick-
+vatten analyseras normalt med någon form av
+mikrobiologisk riskbedömning. I planen har
+en bedömning gjorts av huruvida barriärerna
+vid respektive kommuns huvudvattenverk är
+tillräckliga med hänsyn till råvattenkvaliteten.
+Den metod som utnyttjats benämns GDP (God
+Desinfektionspraxis) men även andra analyser
+såsom kvantitativ mikrobiologisk riskbedömning
+kan användas.
+
+• Säkerställ att olovliga uttag inte sker i
+ledningsnätet, t.ex. genom en gemen-
+sam strategi för låsning av brandpos-
+ter.
+• Säkerställ att distributionssystemet är
+säkert mot mikrobiologisk påverkan
+och ta fram rutiner för god hygien vid
+arbete med ledningsnätet.
 
 15
 
@@ -1042,15 +1229,14 @@ Delmål 5
 
 Bibehålla brukarnas tillit och förtroende
 
-Dricksvatten är vårt viktigaste livsmedel och Erfarenheter från krislägen med vattenburna
-en säker vattenförsörjning är avgörande för ett sjukdomsutbrott (t.ex. Östersund, Skellefteå och
-fungerande samhälle. För den enskilde brukaren Lilla Edet) har visat att allmänheten i viss grad
-är det i det närmaste självklart att det kommer förlorar förtroendet för vattenleverantören, men
-friskt vatten ur kranen, i obegränsad mängd, när att nivån på den sociala tilliten före händelsen är
-som helst på dygnet. Det är först när vattenför- avgörande för hur man kan återskapa förtroen-
-sörjningen inte fungerar som brukarnas tillit och det. Det är därför ytterst viktigt att vattenleve-
-förtroende sjunker.            rantören ser till att brukarna har en god tillit till
-vattenleverantören under normala förhållanden.
+Dricksvatten är vårt viktigaste livsmedel och
+en säker vattenförsörjning är avgörande för ett
+fungerande samhälle. För den enskilde brukaren
+är det i det närmaste självklart att det kommer
+friskt vatten ur kranen, i obegränsad mängd, när
+som helst på dygnet. Det är först när vattenför-
+sörjningen inte fungerar som brukarnas tillit och
+förtroende sjunker.
 
 Förslag
 till åtgärder
@@ -1071,6 +1257,16 @@ Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
 7.7 Brukarnas tillit och förtroende
 
+Erfarenheter från krislägen med vattenburna
+sjukdomsutbrott (t.ex. Östersund, Skellefteå och
+Lilla Edet) har visat att allmänheten i viss grad
+förlorar förtroendet för vattenleverantören, men
+att nivån på den sociala tilliten före händelsen är
+avgörande för hur man kan återskapa förtroen-
+det. Det är därför ytterst viktigt att vattenleve-
+rantören ser till att brukarna har en god tillit till
+vattenleverantören under normala förhållanden.
+
 16
 
 <!-- sida 26 -->
@@ -1081,20 +1277,20 @@ Delmål 6
 
 Resurseffektiva lösningar
 
-VA-verksamheterna ska bedrivas på ett re- faktor att lyfta fram. För att uppnå kostnads-
-surs- och energieffektivt sätt som bl.a. innebär och resurseffektiva lösningar bör det inför varje
-miljöhänsyn och resurshushållning, t.ex. genom större investering göras en avvägning av kostnad
-att minska behovet av kostsamma reningspro- och nytta med förebyggande åtgärder kontra
-cesser och minskning av vattenförbrukning och kostnader i samband med en akutinsats. Samver-
-rörnätsläckage. Här är vattnets värde, inklusive kan är en nyckelfaktor när det gäller att göra den
-värdet som ekosystemtjänsterna vattenrening regionala vattenförsörjningen mer kostnads- och
-och vattenproduktion bidrar med, en viktig resurseffektiv.
+VA-verksamheterna ska bedrivas på ett re-
+surs- och energieffektivt sätt som bl.a. innebär
+miljöhänsyn och resurshushållning, t.ex. genom
+att minska behovet av kostsamma reningspro-
+cesser och minskning av vattenförbrukning och
+rörnätsläckage. Här är vattnets värde, inklusive
+värdet som ekosystemtjänsterna vattenrening
+och vattenproduktion bidrar med, en viktig
 
 Förslag
 till åtgärder
 
-• Genomför gemensamma upphand- • Verka för ett gemensamt laboratorium
-lingar och kravspecifikationer. för regionens vattenanalyser.
+• Genomför gemensamma upphand-
+lingar och kravspecifikationer.
 
 Samverka inom GR och mellan
 kommuner, även utanför GR.
@@ -1115,6 +1311,18 @@ Samverka kring egenkontroller,
 provtagningsrutiner, klagomåls-
 rutiner osv.
 
+faktor att lyfta fram. För att uppnå kostnads-
+och resurseffektiva lösningar bör det inför varje
+större investering göras en avvägning av kostnad
+och nytta med förebyggande åtgärder kontra
+kostnader i samband med en akutinsats. Samver-
+kan är en nyckelfaktor när det gäller att göra den
+regionala vattenförsörjningen mer kostnads- och
+resurseffektiv.
+
+• Verka för ett gemensamt laboratorium
+för regionens vattenanalyser.
+
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
 1.8 Hållbarhetsindex
@@ -1131,43 +1339,70 @@ Delmål 7
 
 Vattenförsörjningsfrågan integrerad i samhällsplaneringen
 
-Trots ett ökat genomslag för vattenfrågor i särintressen så att inte problem uppstår med t.ex.
-samhällsdebatten under det senaste decenniet exploatering som kan utgöra en ökad riskbild för
-behöver dricksvattenförsörjningen som sektor nuvarande eller framtida vattenresurser. Det är
-bli tydligare för politiken både kommunalt och därför viktigt att vattenförsörjningsfrågan kom-
-regionalt, för att de resurser som krävs för att mer in tidigt i samhällsplaneringen och ges stor
-hantera framtidens utmaningar ska frigöras. vikt i vägningen mellan olika intressen både på
-kommunal och på regional nivå i t.ex. översikts-
-Vattenförsörjningsfrågor behöver också ha en planer, detaljplaner, trafikplanering och övrig
-stor tydlighet mot övriga samhällssektorer och exploateringsverksamhet.
+Trots ett ökat genomslag för vattenfrågor i
+samhällsdebatten under det senaste decenniet
+behöver dricksvattenförsörjningen som sektor
+bli tydligare för politiken både kommunalt och
+regionalt, för att de resurser som krävs för att
+hantera framtidens utmaningar ska frigöras.
+
+Vattenförsörjningsfrågor behöver också ha en
+stor tydlighet mot övriga samhällssektorer och
 
 Förslag
 till åtgärder
-• Verka för att bättre integrera vatten- Verka för att upprätthålla funktio-
-försörjningsfrågan i samhällsplane- nella ekosystem som bidrar med
-ringen.                    ekosystemtjänsterna vattenpro-
-duktion och vattenrening, genom
-Redovisa nuvarande och presumtiva integrering i samhällsplaneringen.
+• Verka för att bättre integrera vatten-
+försörjningsfrågan i samhällsplane-
+ringen.
+
+Redovisa nuvarande och presumtiva
 framtida vattentäkter (dricksvat-
-tenintresset) i samhällsplaneringen, Verka för att staten genom t.ex. Bo-
-både i regionplan, översiktsplan och verket eller Länsstyrelserna utarbe-
-detaljplan.               tar en handbok med tillämpningsex-
-empel om vattenförsörjning i fysisk
-Var aktiv tidigt i processen – lyft planering.
+tenintresset) i samhällsplaneringen,
+både i regionplan, översiktsplan och
+detaljplan.
+
+Var aktiv tidigt i processen – lyft
 fram vattenfrågan i samhällsplane-
-ringen och ta fram underlag som Verka för genomförandet av en stat-
-stöd, t.ex. kommunala vattenförsörj- lig utredning som dels klargör om
-ningsplaner.              PBL och MB ger tillräckligt stöd för
-samhällsplanering av vattenförsörj-
-ningen och dels föreslår justeringar i
+ringen och ta fram underlag som
+stöd, t.ex. kommunala vattenförsörj-
+ningsplaner.
+
 Ta fram riktlinjer för samhällsplane-
-lagstiftningen om så erfordras.
 ring av vattenförsörjning i ett sam-
 arbete inom GR. Som utgångspunkt
 kan Havs- och vattenmyndighetens
 Vägledning för kommunal VA-plane-
 ring för hållbar VA-försörjning och
 god vattenstatus användas.
+
+särintressen så att inte problem uppstår med t.ex.
+exploatering som kan utgöra en ökad riskbild för
+nuvarande eller framtida vattenresurser. Det är
+därför viktigt att vattenförsörjningsfrågan kom-
+mer in tidigt i samhällsplaneringen och ges stor
+vikt i vägningen mellan olika intressen både på
+kommunal och på regional nivå i t.ex. översikts-
+planer, detaljplaner, trafikplanering och övrig
+exploateringsverksamhet.
+
+Verka för att upprätthålla funktio-
+nella ekosystem som bidrar med
+ekosystemtjänsterna vattenpro-
+duktion och vattenrening, genom
+integrering i samhällsplaneringen.
+
+Verka för att staten genom t.ex. Bo-
+verket eller Länsstyrelserna utarbe-
+tar en handbok med tillämpningsex-
+empel om vattenförsörjning i fysisk
+planering.
+
+Verka för genomförandet av en stat-
+lig utredning som dels klargör om
+PBL och MB ger tillräckligt stöd för
+samhällsplanering av vattenförsörj-
+ningen och dels föreslår justeringar i
+lagstiftningen om så erfordras.
 
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
@@ -1184,35 +1419,59 @@ Delmål 8
 
 Beredskap att möta klimatförändringar
 
-Det förändrade klimatet kommer att få allt större det ställs allt högre krav på redundans i vatten-
-effekt på vattenförsörjningssystemen i regio- försörjningssystemen för att undvika långvariga
-nen. Göta älv bedöms vara särskilt utsatt genom avbrott.
+Det förändrade klimatet kommer att få allt större
+effekt på vattenförsörjningssystemen i regio-
+nen. Göta älv bedöms vara särskilt utsatt genom
 översvämningar, risk för skred och bottenero-
-sion, ökat havsvattenstånd, samt en försämrad Sedan 2019 finns en förordning (2018:1428)
-vattenkvalitet från dagvatten, vägar, mm. All- om att myndigheter och länsstyrelser har en
-mänt bedöms negativa effekter på ytvattentäkter skyldighet att arbeta med klimatanpassning.
-i huvudsak bestå av försämring av vattenkvalité Livsmedelsverket har tagit fram en handbok för
-och högre temperatur på råvattnet. Grundvat- klimatanpassad dricksvattenförsörjning som ett
-tentäkter kan också komma att påverkas negativt hjälpmedel i kommuners strategiska arbete med
-genom att den omättade zonen minskar eller att klimatanpassa dricksvattenförsörjningen där
-försvinner, vilket kan ge kvalitetsförsämringar. fokus ligger på riskanalys och åtgärdsförslag.
+sion, ökat havsvattenstånd, samt en försämrad
+vattenkvalitet från dagvatten, vägar, mm. All-
+mänt bedöms negativa effekter på ytvattentäkter
+i huvudsak bestå av försämring av vattenkvalité
+och högre temperatur på råvattnet. Grundvat-
+tentäkter kan också komma att påverkas negativt
+genom att den omättade zonen minskar eller
+försvinner, vilket kan ge kvalitetsförsämringar.
 Effekter av ett förändrat klimat innebär vidare att
 
 Förslag
 till åtgärder
 
-• Utred åtgärder för anpassning av Verka för samsyn kring dimensione-
-vattenförsörjningen till ett förändrat rande förutsättningar, tolkningar av
-klimat.                    scenarier och effekter.
+• Utred åtgärder för anpassning av
+vattenförsörjningen till ett förändrat
+klimat.
 
-Utred klimatförändringarnas Samverka kring checklistor för kom-
-konsekvenser för regionens största munerna – hur man bör jobba med
-vattentäkter.             klimateffekter och vattenförsörjning
-lokalt.
+Utred klimatförändringarnas
+konsekvenser för regionens största
+vattentäkter.
 Initiera samarbete kring klimatpå-
-verkan på vattenförsörjningen mel- Samverka kring strategier för han-
-lan regionens kommuner och andra tering av dagvatten i nuvarande och
-organisationer och myndigheter. framtida klimat.
+verkan på vattenförsörjningen mel-
+lan regionens kommuner och andra
+organisationer och myndigheter.
+
+det ställs allt högre krav på redundans i vatten-
+försörjningssystemen för att undvika långvariga
+avbrott.
+
+Sedan 2019 finns en förordning (2018:1428)
+om att myndigheter och länsstyrelser har en
+skyldighet att arbeta med klimatanpassning.
+Livsmedelsverket har tagit fram en handbok för
+klimatanpassad dricksvattenförsörjning som ett
+hjälpmedel i kommuners strategiska arbete med
+att klimatanpassa dricksvattenförsörjningen där
+fokus ligger på riskanalys och åtgärdsförslag.
+
+Verka för samsyn kring dimensione-
+rande förutsättningar, tolkningar av
+scenarier och effekter.
+Samverka kring checklistor för kom-
+munerna – hur man bör jobba med
+klimateffekter och vattenförsörjning
+lokalt.
+
+Samverka kring strategier för han-
+tering av dagvatten i nuvarande och
+framtida klimat.
 
 Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
@@ -1222,20 +1481,20 @@ Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 
 <!-- sida 29 -->
 
-Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
+Vattenförsörjningsplan för Göteborgsregionen
 
 Delmål 9
 
 Tillgång till rätt kompetens
 
-Behovet av att ny kunskap införlivas inom förs vidare till ny personal. Små och medelstora
-vattentjänstorganisationerna ökar på grund av vattentjänstorganisationer kan ha svårigheter
-strängare miljökrav, klimatanpassning, ökade att klara alla de krav som ställs på grund av både
-krav på vattenkvalitet och leveranssäkerhet, resursbrist och problem att rekrytera personal.
-ökade arbetsmiljökrav, ny vattenadministration, Den strategiska planeringen och utvecklandet
-samverkan inom avrinningsområden, mm. Det av verksamheten som krävs för att klara nya
-pågående generationsskiftet i VA-branschen uppgifter kan därför bli lidande till förmån för att
-gör det mycket viktigt att all den kompetens kunna sköta den dagliga driften.
+Behovet av att ny kunskap införlivas inom
+vattentjänstorganisationerna ökar på grund av
+strängare miljökrav, klimatanpassning, ökade
+krav på vattenkvalitet och leveranssäkerhet,
+ökade arbetsmiljökrav, ny vattenadministration,
+samverkan inom avrinningsområden, mm. Det
+pågående generationsskiftet i VA-branschen
+gör det mycket viktigt att all den kompetens
 som finns hos befintlig personal tillvaratas och
 
 Förslag
@@ -1246,10 +1505,10 @@ och kompetensbehov genom:
 
 Gemensamma utbildningar, tex
 genom GR
+
 Stimulering till rätt kompetens.
 
 Samarbete med utbildningssektorn.
-
 Arbete med forskning och utveck-
 ling utgående från Vattenvisionen
 (Svenskt Vatten) och dess fortsätt-
@@ -1260,6 +1519,17 @@ Fördjupning till detta delmål återfinns bl.a. i följande avsnitt:
 7.6.2 Kompetensförsörjning och kunskapsbehov
 
 20
+
+1\. Planens mål och genomförande
+
+förs vidare till ny personal. Små och medelstora
+vattentjänstorganisationer kan ha svårigheter
+att klara alla de krav som ställs på grund av både
+resursbrist och problem att rekrytera personal.
+Den strategiska planeringen och utvecklandet
+av verksamheten som krävs för att klara nya
+uppgifter kan därför bli lidande till förmån för att
+kunna sköta den dagliga driften.
 
 <!-- sida 30 -->
 
@@ -1314,17 +1584,16 @@ Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomföran
 
 Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
 
-1.6   Genomförande            i samverkan
+1.6   Genomförande             i samverkan
 
 Vattenförsörjningsplanen utgör ett förslag till gemensam strategi för vattenförsörjningen
-i Göteborgsregionens kommuner, där regional samverkan är en förutsättning för att vision
 
+i Göteborgsregionens kommuner, där regional samverkan är en förutsättning för att vision
 och mål ska kunna nås.
 
 Den regionala vattenförsörjningsplanen ska
 
 • vara en vägledning och ett hjälpmedel i det regionala samarbetet
-
 • vara en handling som stödjer och visar regionens inriktning i
 vattenförsörjningsfrågor
 • visa inom vilka områden GR kan ha en samordnande funktion
@@ -1332,73 +1601,131 @@ vattenförsörjningsfrågor
 • utgöra underlag till det kommunala planeringsarbetet (kommu-
 nal vattenförsörjningsplan, VA-plan, översiktsplan)
 
-Planen har också koppling till andra regionala finns representerade i nätverken. Chefsnätverket
-dokument som A2020 som behandlar avfallsfrå- ansvarar för att på en strategisk nivå behandla
-gorna i regionen, Strukturbild för Göteborgsregi- de regionala kretsloppsfrågorna och styrning av
-onen samt mål- och strategidokumentet Uthållig regiongemensamt arbete. VA-nätverket disku-
-tillväxt.                      terar regiongemensamma frågor och genomför
-praktiskt utvecklingsarbete. Den regionala
-För att den färdiga planen ska kunna fylla syftet vattenförsörjningsplanen skall ligga till grund för
-som en utgångspunkt i det gemensamma arbetet arbetets inriktning och innehåll.
+Planen har också koppling till andra regionala
+dokument som A2020 som behandlar avfallsfrå-
+gorna i regionen, Strukturbild för Göteborgsregi-
+onen samt mål- och strategidokumentet Uthållig
+tillväxt.
+
+För att den färdiga planen ska kunna fylla syftet
+som en utgångspunkt i det gemensamma arbetet
 är det en fördel om respektive kommun i regi-
-onen senare kan ställa sig bakom den färdiga VA- och Chefsnätverket bedöms att ha en be-
-planen genom ett politiskt beslut. Som jämförelse tydande roll i det gemensamma åtgärdsarbetet
-kan nämnas att Avfallsplanen för Göteborgsre- efter planens antagande. Som politisk replipunkt
-gionen, A2020, är ett gemensamt styrdokument föreslås GRs styrgrupp för miljö och samhälls-
-för regionens kommuner fram till målåret för byggnad, som i sin tur kan välja att föra upp
-planen.                        större frågor till förbundsstyrelsen. Vikten av en
-genomarbetad uppföljningsmodell bedöms som
-Samverkan inom vattenområdet sker idag i flera en framgångsfaktor för att få ett effektivt genom-
-olika former inom Göteborgsregionen. Det gäller förande av planen.
+onen senare kan ställa sig bakom den färdiga
+planen genom ett politiskt beslut. Som jämförelse
+kan nämnas att Avfallsplanen för Göteborgsre-
+gionen, A2020, är ett gemensamt styrdokument
+för regionens kommuner fram till målåret för
+planen.
+Samverkan inom vattenområdet sker idag i flera
+olika former inom Göteborgsregionen. Det gäller
 t.ex. arbetet med skydd och vattenkvalitet längs
-olika vattendrag inom vattenråd och vattenvårds- Som ett led i att konkretisera genomförandet
-förbund, men också teknisk samverkan. av vattenförsörjningsplanen kommer en hand-
-lingsplan att utarbetas parallellt med planens
-Sedan 2011 finns det ett fördjupat regionalt färdigställande. VA-nätverket och Chefsnätverket
-samarbete inom avfall, vatten och avloppsområ- har genomfört en workshop som mynnat ut i ett
-det mellan GR och de 13 medlemskommunerna. utkast till handlingsplan. En prioritering gjor-
-Samarbetet omfattar bildandet av ett nätverk av des av mål och åtgärdsförslag som identifierats
-tekniska chefer med ett övergripande ansvar för som viktiga att arbeta vidare med efter planens
-kommunens tekniska försörjning (Chefsnätverk färdigställande. Här nämns bland annat målet
-avfall och VA) samt ett nätverk av tjänstemän tillgång till råvatten av god kvalitet och åtgärden
-ansvariga för vatten- och avloppsfrågor (VA-nät- säkerställa skydd för regionens nuvarande och
-verk). Samtliga GRs 13 medlemskommuner presumtiva framtida vattentäkter samt målet
+olika vattendrag inom vattenråd och vattenvårds-
+förbund, men också teknisk samverkan.
+
+Sedan 2011 finns det ett fördjupat regionalt
+samarbete inom avfall, vatten och avloppsområ-
+det mellan GR och de 13 medlemskommunerna.
+Samarbetet omfattar bildandet av ett nätverk av
+tekniska chefer med ett övergripande ansvar för
+kommunens tekniska försörjning (Chefsnätverk
+avfall och VA) samt ett nätverk av tjänstemän
+ansvariga för vatten- och avloppsfrågor (VA-nät-
+verk). Samtliga GRs 13 medlemskommuner
 
 23
 
+finns representerade i nätverken. Chefsnätverket
+ansvarar för att på en strategisk nivå behandla
+de regionala kretsloppsfrågorna och styrning av
+regiongemensamt arbete. VA-nätverket disku-
+terar regiongemensamma frågor och genomför
+praktiskt utvecklingsarbete. Den regionala
+vattenförsörjningsplanen skall ligga till grund för
+arbetets inriktning och innehåll.
+
+VA- och Chefsnätverket bedöms att ha en be-
+tydande roll i det gemensamma åtgärdsarbetet
+efter planens antagande. Som politisk replipunkt
+föreslås GRs styrgrupp för miljö och samhälls-
+byggnad, som i sin tur kan välja att föra upp
+större frågor till förbundsstyrelsen. Vikten av en
+genomarbetad uppföljningsmodell bedöms som
+en framgångsfaktor för att få ett effektivt genom-
+förande av planen.
+Som ett led i att konkretisera genomförandet
+av vattenförsörjningsplanen kommer en hand-
+lingsplan att utarbetas parallellt med planens
+färdigställande. VA-nätverket och Chefsnätverket
+har genomfört en workshop som mynnat ut i ett
+utkast till handlingsplan. En prioritering gjor-
+des av mål och åtgärdsförslag som identifierats
+som viktiga att arbeta vidare med efter planens
+färdigställande. Här nämns bland annat målet
+tillgång till råvatten av god kvalitet och åtgärden
+säkerställa skydd för regionens nuvarande och
+presumtiva framtida vattentäkter samt målet
+
 <!-- sida 33 -->
 
-Vattenförsörjningsplan för Göteborgsregionen 1. Planens mål och genomförande
+Vattenförsörjningsplan för Göteborgsregionen
 
-Vattenförsörjningsfrågan integrerad i samhälls- Genomförandet av den regionala vattenförsörj-
-planeringen och åtgärden Verka för att integrera ningsplanen behöver samordnas av GR-kom-
-vattenförsörjningsfrågan i samhällsplaneringen. munerna. Gemensamma handlingsplaner och
-åtgärder föreslås tas fram regionalt vartannat år,
-Handlingsplanen ska ses som en utgångspunkt och kommunerna bidra med lokala åtgärder och
-och vägledning för kommunernas gemensamma uppföljningsbara aktiviteter. Fortsatt och utveck-
-arbete efter färdigställandet av planen. I ett lad samverkan inom Göteborgsregionen och dess
-senare skede behöver varje åtgärd som skall 13 kommuner är en förutsättning för effektivt ar-
-genomföras följas av projekt- och tidplan samt bete med genomförandet av planen. I vissa frågor
-finansiering. Kommunernas medverkan i form av kan kanske samverkan med kommuner utanför
-deltagande i samverkans- och arbetsgrupper bör GR området komma att erfordras.
+Vattenförsörjningsfrågan integrerad i samhälls-
+planeringen och åtgärden Verka för att integrera
+vattenförsörjningsfrågan i samhällsplaneringen.
+
+Handlingsplanen ska ses som en utgångspunkt
+och vägledning för kommunernas gemensamma
+arbete efter färdigställandet av planen. I ett
+senare skede behöver varje åtgärd som skall
+genomföras följas av projekt- och tidplan samt
+finansiering. Kommunernas medverkan i form av
+deltagande i samverkans- och arbetsgrupper bör
 också klargöras.
 
 1.7   Uppföljning
 
-Förutsättningar och kunskapsläge förändras med nad, samt underlag till utvärdering av mål och
-tiden vilket gör det viktigt att planen hålls aktuell. åtgärder. Modellen utgår från parametrarna i
-Därför föreslås uppföljning och aktualitetsförkla- Svenskt Vattens Hållbarhetsindex för kommunal
-ring vart fjärde år, på samma sätt som gäller för VA-verksamhet, men är uppbyggd och utveck-
-en kommunal översiktsplan. Härmed identifieras lad för att spegla de nio delmålen i planen. Det
-förhållanden som behöver uppdateras. Inför sammanlagda resultatet för alla kommuner kan
-målåret 2025 revideras planen. Uppföljningen därmed ge en bild av vilka som är de gemensam-
-av planen bör samordnas av GR-kommunerna. ma utmaningarna, och fungerar som mätverktyg
-Målen och de åtgärder som ingår i planen bör för regiongemensamma och mellankommunala
-årligen följas upp regionalt med hjälp av indika- frågor, men kan också ge underlag för jämförelse
-torer.                         med andra kommuner och regioner. Modellen
-har tillämpats för uppföljning av planens mål
-En uppföljningsmodell för planen har tagits fram sedan 2016.
+Förutsättningar och kunskapsläge förändras med
+tiden vilket gör det viktigt att planen hålls aktuell.
+Därför föreslås uppföljning och aktualitetsförkla-
+ring vart fjärde år, på samma sätt som gäller för
+en kommunal översiktsplan. Härmed identifieras
+förhållanden som behöver uppdateras. Inför
+målåret 2025 revideras planen. Uppföljningen
+av planen bör samordnas av GR-kommunerna.
+Målen och de åtgärder som ingår i planen bör
+årligen följas upp regionalt med hjälp av indika-
+torer.
+
+En uppföljningsmodell för planen har tagits fram
 som ger ett mått på kommunernas planefterlev-
+
+1\. Planens mål och genomförande
+
+Genomförandet av den regionala vattenförsörj-
+ningsplanen behöver samordnas av GR-kom-
+munerna. Gemensamma handlingsplaner och
+åtgärder föreslås tas fram regionalt vartannat år,
+och kommunerna bidra med lokala åtgärder och
+uppföljningsbara aktiviteter. Fortsatt och utveck-
+lad samverkan inom Göteborgsregionen och dess
+13 kommuner är en förutsättning för effektivt ar-
+bete med genomförandet av planen. I vissa frågor
+kan kanske samverkan med kommuner utanför
+GR området komma att erfordras.
+
+nad, samt underlag till utvärdering av mål och
+åtgärder. Modellen utgår från parametrarna i
+Svenskt Vattens Hållbarhetsindex för kommunal
+VA-verksamhet, men är uppbyggd och utveck-
+lad för att spegla de nio delmålen i planen. Det
+sammanlagda resultatet för alla kommuner kan
+därmed ge en bild av vilka som är de gemensam-
+ma utmaningarna, och fungerar som mätverktyg
+för regiongemensamma och mellankommunala
+frågor, men kan också ge underlag för jämförelse
+med andra kommuner och regioner. Modellen
+har tillämpats för uppföljning av planens mål
+sedan 2016.
 
 24
 
@@ -1423,19 +1750,32 @@ brukning.
 • Organisationsfrågor, har förutom exempel från befintliga samar-
 beten, lämnats utanför vattenförsörjningsplanen.
 
-Projektet har inriktats mot kommunal dricksvat- vudvatten och reservvatten och mindre vikt vid
-tenförsörjning, vilket innebär att frågor som rör lösningar för nödvatten. Nödvatten är i allmän-
-vattenresurser som nyttjas för andra ändamål, het förknippade med mer kortvariga och krisbe-
-t.ex. bevattning, industriellt vatten, energiutvin- tonade situationer där kraven på kapacitet och
-ning m.m. inte omfattas av vattenförsörjnings- i viss mån även kvalitet kan vara lägre. Exem-
-planen samt att enskild vattenförsörjning utanför pelvis kan det i en nödsituation vara acceptabelt
-kommunens verksamhetsområde inte behandlas att via ledningsnätet distribuera ett vatten som
-utöver ovan nämnda omvandlingsområden. inte uppfyller Livsmedelsverkets föreskrifter för
-dricksvatten fullt ut (LIVSFS 2011:3), men som
-Avlopp och dagvatten hanteras i vattenförsörj- duger för tvätt, personlig hygien, mm. samtidigt
-ningsplanen enbart som potentiella riskobjekt. som nödvatten för dricksvattenbehovet distribue-
-Vidare har stor vikt lagts vid långsiktiga lösning- ras separat med t.ex. nödvattentankar.
+Projektet har inriktats mot kommunal dricksvat-
+tenförsörjning, vilket innebär att frågor som rör
+vattenresurser som nyttjas för andra ändamål,
+t.ex. bevattning, industriellt vatten, energiutvin-
+ning m.m. inte omfattas av vattenförsörjnings-
+planen samt att enskild vattenförsörjning utanför
+kommunens verksamhetsområde inte behandlas
+utöver ovan nämnda omvandlingsområden.
+
+Avlopp och dagvatten hanteras i vattenförsörj-
+ningsplanen enbart som potentiella riskobjekt.
+Vidare har stor vikt lagts vid långsiktiga lösning-
 ar för dricksvattenförsörjningen avseende hu-
+
+vudvatten och reservvatten och mindre vikt vid
+lösningar för nödvatten. Nödvatten är i allmän-
+het förknippade med mer kortvariga och krisbe-
+tonade situationer där kraven på kapacitet och
+i viss mån även kvalitet kan vara lägre. Exem-
+pelvis kan det i en nödsituation vara acceptabelt
+att via ledningsnätet distribuera ett vatten som
+inte uppfyller Livsmedelsverkets föreskrifter för
+dricksvatten fullt ut (LIVSFS 2011:3), men som
+duger för tvätt, personlig hygien, mm. samtidigt
+som nödvatten för dricksvattenbehovet distribue-
+ras separat med t.ex. nödvattentankar.
 
 25
 
@@ -2190,11 +2530,15 @@ Tabell 3. Översiktlig sammanställning av nuvarande huvudvattenförsörjning i 
 I VASS (VAttentjänstbranschens StatistikSystem, Svenskt Vatten) redovisas ett samlat mått på levererad vattenmängd för
 samtliga vattenverk av viss typ inom en kommun.
 
-44
-krevnettavtY
-nettavdnurG
-noitartlfinI
 ¹ Levererad vattenmängd 2017, VASS, Svenskt Vatten.
+
+44
+
+Infiltration
+
+Grundvatten
+
+Ytvattenverk
 
 [Tabell 53-1](handlingar.tabeller/53-1.csv)
 
@@ -2655,17 +2999,19 @@ Kartläggning av beroenden
 -m.m.
 
 Analys av mikrobiologiska
-Analys av leveranssäkerhet
 barriärer (hälsorisk)
-Felträdsanalys
 GDP (God Disinfektionspraxis)
 
-Nuvarande risknivå (leveransavbrott ut-
 Nuvarande barriärverkan (log-red.
-tryckt som minuter per år), osäkerhets-
 jmf. med kravnivå), behov av åtgärder
-analys, behovet av åtgärder och effekten
 och effekten av föreslagna åtgärder
+
+Analys av leveranssäkerhet
+Felträdsanalys
+
+Nuvarande risknivå (leveransavbrott ut-
+tryckt som minuter per år), osäkerhets-
+analys, behovet av åtgärder och effekten
 av föreslagna åtgärder
 
 Sammanställning över nuvarande risk-
@@ -3204,11 +3550,11 @@ Vattenförsörjningsplan för Göteborgsregionen        5. Vattenresurser
 5.3   Ytvattenresurser
 
 5.3.1 Identifiering av ytvattenresurser
+
 Urvalet av sjöar och vattendrag har gjorts utifrån de uppgifter som finns tillgängliga via SMHI:s hemsi-
 da, bl.a. SVAR (Svenskt VattenARkiv), Sjöregistret/Sjölyftet och SMHI Vattenwebb. Uppgifter avseende
 statusklassning, riskbedömning och identifierade miljöproblem i respektive ytvattenförekomst har häm-
 tats från Länsstyrelsens och Vattenmyndigheternas VISS-databas (VattenInformationsSystem Sverige).
-
 Kunskapsunderlaget som legat till grund för bedömning av status och miljöproblem i VISS varierar stort
 mellan de olika vattenförekomsterna. Inom vattenförvaltningen pågår arbete med åtgärder och förbätt-
 ring vilket gör att de bedömningar som redovisas här riskerar att förändras i samband med att en över-
@@ -3218,57 +3564,68 @@ vattenförsörjning inte låta sig styras av en tidig klassning baserad på, i v
 Resultaten av identifieringen redovisas separat för sjöar respektive vattendrag i Tabell 8
 och Tabell 9. I tabellerna redovisas följande faktorer:
 
-• Nr: Nummer på karta i Figur 12. • Status (Ekologisk/Kemisk):
-Statusklassning av ytvattenförekom-
+• Nr: Nummer på karta i Figur 12.
 • Område: Geografiskt område enligt
-ster i VISS. Status anges i klasser-
 ”blå stråk” baserade på GRs struktur-
-na D=dålig, O=otillfredsställande,
 bild (se Figur 10).
-M=måttlig, G=god. Kemisk status
-• Namn: Benämning på ytvattnet  anges ”exklusive kvicksilver” beroen-
-enligt SMHI.                   de på att samtliga svenska ytvatten-
-förekomster har för hög belastning av
+
+• Namn: Benämning på ytvattnet
+enligt SMHI.
 • Area: Sjöns ytarea enligt SMHI:s
-kvicksilver. Den främsta anledningen
 sjöregister.
-till att kvicksilverhalterna i vattnet är
-• Djup (medel/max): Sjöns medel- för höga är internationella luftnedfall.
-djup och maxdjup enligt SMHI:s Trots Sveriges insatser för att minska
-sjöregister.                   utsläppen av kvicksilver kan man inte
-förvänta sig några förändringar inom
+• Djup (medel/max): Sjöns medel-
+djup och maxdjup enligt SMHI:s
+sjöregister.
+
 • Volym: Sjöns volym enligt SMHI:s
-en snar framtid. Göta älv utgör ett
 sjöregister.
-undantagsfall eftersom den klassats
 • Avrinningsområdets area:
-som ett ”Kraftigt modifierad vatten-
 Avrinningsområdets area vid sjöns
-förekomst” och anges i stället med
 utlopp respektive vid punkt i vatten-
-begreppet ekologisk potential (EP).
 draget (SMHI Vattenwebb).
-• Riskbedömning (Ekologisk/
 • Vattenföring: Medellågvattenföring
-Kemisk): Riskbedömning avser risk
 (MLQ), medelvattenföring (MQ)
-att ekologisk/kemisk status exklusive
 och medelhögvattenföring (MHQ) i
-kvicksilver inte uppnås till år 2015
 avrinningsområdets respektive sjöns
-(VISS). Risken anges i kategorierna
 utlopp enligt flödesstatistik för åren
-R=risk, IR=ingen risk.
 1981–2010 på SMHI Vattenwebb.
-• Identifierade miljöproblem: Mil-
+
 • Avstånd till centrala Göteborg:
-jöproblem, utöver miljöproblem till
 Avstånd i km fågelvägen från närmas-
-följd av kvicksilver, enligt VISS.
 te del av vattenresursen.
+
+• Status (Ekologisk/Kemisk):
+Statusklassning av ytvattenförekom-
+ster i VISS. Status anges i klasser-
+na D=dålig, O=otillfredsställande,
+M=måttlig, G=god. Kemisk status
+anges ”exklusive kvicksilver” beroen-
+de på att samtliga svenska ytvatten-
+förekomster har för hög belastning av
+kvicksilver. Den främsta anledningen
+till att kvicksilverhalterna i vattnet är
+för höga är internationella luftnedfall.
+Trots Sveriges insatser för att minska
+utsläppen av kvicksilver kan man inte
+förvänta sig några förändringar inom
+en snar framtid. Göta älv utgör ett
+undantagsfall eftersom den klassats
+som ett ”Kraftigt modifierad vatten-
+förekomst” och anges i stället med
+begreppet ekologisk potential (EP).
+• Riskbedömning (Ekologisk/
+Kemisk): Riskbedömning avser risk
+att ekologisk/kemisk status exklusive
+kvicksilver inte uppnås till år 2015
+(VISS). Risken anges i kategorierna
+R=risk, IR=ingen risk.
+• Identifierade miljöproblem: Mil-
+jöproblem, utöver miljöproblem till
+följd av kvicksilver, enligt VISS.
 • Används idag: Anger om sjön/vat-
 tendraget används för vattenförsörjn-
 ingsändamål idag.
+
 70
 
 <!-- sida 80 -->
@@ -3317,1040 +3674,1461 @@ Figur 12. Sjöar och vattendrag inom Göteborgsregionen av potentiellt intresse 
 
 Vattenförsörjningsplan för Göteborgsregionen        5. Vattenresurser
 
-73
-63
-Tabell
-9\.
-Sjöar
-inom
-eller
-nära
-Göteborgsregionen
-av
-potentiellt
-intresse
-för
-dricksvattenförsörjningen.
+Tabell 8. Sjöar inom eller nära Göteborgsregionen av potentiellt intresse för dricksvattenförsörjningen.
+
 Nr
+
 Område
 Namn
+
 Sjöns area (km2)
+
 Sjöns djup,
 medel/max (m)
 Sjöns volym
 (106 m3)
+
 Avrinningsområdets
 area (km2)
-(l/s)
-Vattenföring
-vid
-sjöns
-utlopp
+
 Avstånd till centrala
 Göteborg (km)
+
 Status
 (Ekologisk/Kemisk)
 Riskbedömning
 (Eklogisk/Kemisk)
+
 Identifierade
 miljöproblem
+
 Används idag för
 vattenförsörjning
-20
-3
-Tinnsjön
-1,3
-3/12
-4
-7
-710
-120
-0
-32
-M/G
-R/IR
-Nej
-19
-3
-Uspen
-1,5
-12/23
-16
-19
-1630
-310
-20
-26
-G/G
-R/IR
-Försurning
-18
-3
-Ören
-1,5
-9/27
-14
-37
-4450
-650
-30
-36
-M/G
-R/IR
-Försurning
-17
-4
-Rådasjön
-1,9
-9/23
-17
-199
-18000
-3700
-350
-7
-G/G
-R/IR
-Försurning
-Ja
-Miljögifter
-16
-4
-Västra
-Ingsjön
-1,9
-10/23
-21
-88
-8440
-1830
-180
-21
-G/G
-R/R
-Försurning
-15
-4
-Landvettersjön
-2,2
-i.u./21
-i.u.
-176
-15700
-3190
-300
-11
-G/G
-R/IR
-Försurning
-14
-4
-Nordsjön
-2,2
-16/48
-36
-18
-1370
-380
-30
-16
-G/G
-R/IR
-Flödesförändringar
-13
-3/4
-Stora
-Härsjön
-2,6
-i.u./43
-i.u.
-25
-2050
-420
-10
-21
-G/G
-R/IR
-Flödesförändringar Flödesförändringar
-12
-4
-Västra
-Nedsjön
-2,7
-13/35
-37
-58
-3580
-960
-100
-28
-M/G
-R/IR
-Främmande
-arter
-Främmande
-arter
-11
-5
-Stensjö
-2,9
-13/21
-38
-663
-52800
-13400
-2290
-27
-G/G
-IR/IR
-Försurning
-10
-3
-Store-Nären
-3,2
-12/45
-37
-19
-1620
-320
-10
-38
-G/G
-R/IR
-Försurning
-Flödesförändringar
-9
-3
-Aspen
-4,7
-i.u./30
-i.u.
-1400
-57300
-20700
-5780
-13
-G/G
-R/R
-Miljögifter
-8
-3
-Sävelången
-5,5
-17/34
-91
-1300
-51200
-18900
-5290
-28
-G/G
-IR/IR
-Nej
-7
-1
-Stora
-Hällungen
-5,8
-11/25
-61
-47
-3410
-830
-90
-42
-G/G
-IR/IR
-Nej
-Ja
-6
-3
-Stora
-Färgen
-6,0
-20/48
-122
-55
-3940
-910
-70
-36
-G/G
-R/IR
-Flödesförändringar
-Ja
-(via
-Lilla
-Färgen)
-5
-3
-Ömmern
-9,8
-13/48
-129
-101
-6450
-1740
-210
-31
-M/G
-R/IR
-Flödesförändringar
-Ja
-4
-2
-Öresjö
-10,5
-i.u./32
-i.u.
-72
-3560
-1080
-160
-60
-G/G
-IR/IR
-Flödesförändringar
-3
-3
-Anten
-18,4
-13/27
-240
-217
-10200
-3020
-540
-42
-M/G
-R/IR
-Övergödning
-Främmande
-arter
-2
-5
-Lygnern
-31,5
-29/52
-912
-562
-32400
-10400
-2260
-32
-G/G
-R/IR
-Ja
-(inf)
-Försurning
-1
-3
-Mjörn
-54,6
-16/48
-855
-1120
-41600
-15800
-4440
-25
-G/G
-IR/IR
-Nej
+
+73
+
+Tabe ll 9 . S jöar inom e ller nära Gö teborgsreg ionen av po ten tie llt in tresse för dricksva tten försörjn ingen .
+
+Va tten föring v id sjöns u tlopp
+
+(l/s)
+
 MHQ
+
 MQ
-MLQ
-Tabell 8. Sjöar inom eller nära Göteborgsregionen av potentiellt intresse för dricksvattenförsörjningen.
+
+M LQ
+
+1 3 M jörn
+
+54 ,6 16/48
+
+855
+
+1120 41600 15800
+
+4440
+
+25 G /G IR /IR
+
+Ne j
+
+Försu rn ing
+
+2 5 Lygnern
+
+31 ,5 29/52
+
+912
+
+562
+
+32400 10400
+
+2260
+
+32 G /G R /IR
+
+Främm ande arter
+
+Ja (in f)
+
+3 3 An ten
+
+18 ,4 13/27
+
+240
+
+217
+
+10200
+
+3020
+
+540
+
+42 M /G R /IR
+
+Ö vergödn ing
+
+4 2 Ö resjö
+
+10 ,5
+
+i.u ./32
+
+i.u .
+
+72
+
+3560
+
+1080
+
+160
+
+60 G /G IR /IR
+
+F lödesförändringar
+
+5 3 Ömm ern
+
+9 ,8
+
+13/48
+
+129
+
+101
+
+6450
+
+1740
+
+210
+
+31 M /G R /IR
+
+F lödesförändringar
+
+Ja
+
+6 3 S tora Färgen
+
+6 ,0
+
+20/48
+
+122
+
+55
+
+3940
+
+910
+
+70
+
+36 G /G R /IR
+
+F lödesförändringar
+
+Ja (v ia L illa Färgen )
+
+7 1 S tora Hä llungen
+
+5 ,8
+
+11/25
+
+61
+
+47
+
+3410
+
+830
+
+90
+
+42 G /G IR /IR
+
+Ne j
+
+Ja
+
+8 3 Säve lången
+
+5 ,5
+
+17/34
+
+91
+
+1300 51200 18900
+
+5290
+
+28 G /G IR /IR
+
+Ne j
+
+M iljög ifter
+
+9 3 Aspen
+
+4 ,7
+
+i.u ./30
+
+i.u .
+
+1400 57300 20700
+
+5780
+
+13 G /G R /R
+
+F lödesförändringar
+
+10 3 S tore-Nären
+
+3 ,2
+
+12/45
+
+37
+
+19
+
+1620
+
+320
+
+10
+
+38 G /G R /IR
+
+Försu rn ing
+
+Försu rn ing
+
+11 5 S tensjö
+
+2 ,9
+
+13/21
+
+38
+
+663
+
+52800 13400
+
+2290
+
+27 G /G IR /IR
+
+Främm ande arter
+
+Främm ande arter
+
+12 4 Västra Nedsjön
+
+2 ,7
+
+13/35
+
+37
+
+58
+
+3580
+
+960
+
+100
+
+28 M /G R /IR
+
+F lödesförändringar
+
+13 3/4 S tora Härsjön
+
+2 ,6
+
+i.u ./43
+
+i.u .
+
+25
+
+2050
+
+420
+
+10
+
+21 G /G R /IR
+
+F lödesförändringar
+
+14 4 Nordsjön
+
+2 ,2
+
+16/48
+
+36
+
+18
+
+1370
+
+380
+
+30
+
+16 G /G R /IR
+
+F lödesförändringar
+
+15 4 Landve ttersjön
+
+2 ,2
+
+i.u ./21
+
+i.u .
+
+176
+
+15700
+
+3190
+
+300
+
+11 G /G R /IR
+
+Försu rn ing
+
+Försu rn ing
+
+16 4 Västra Ingsjön
+
+1 ,9
+
+10/23
+
+21
+
+88
+
+8440
+
+1830
+
+180
+
+21 G /G R /R
+
+M iljög ifter
+
+17 4 Rådasjön
+
+1 ,9
+
+9/23
+
+17
+
+199
+
+18000
+
+3700
+
+350
+
+7 G /G R /IR
+
+Försu rn ing
+
+Ja
+
+18 3 Ö ren
+
+1 ,5
+
+9/27
+
+14
+
+37
+
+4450
+
+650
+
+30
+
+36 M /G R /IR
+
+Försu rn ing
+
+19 3 U spen
+
+1 ,5
+
+12/23
+
+16
+
+19
+
+1630
+
+310
+
+20
+
+26 G /G R /IR
+
+Försu rn ing
+
+20 3 T innsjön
+
+1 ,3
+
+3/12
+
+4
+
+7
+
+710
+
+120
+
+0
+
+32 M /G R /IR
+
+Ne j
+
+63
 
 <!-- sida 83 -->
 
 Vattenförsörjningsplan för Göteborgsregionen        5. Vattenresurser
 
-74
-64
 Nr
 Område
+
 Namn
+
 Sjöns area (km2)
+
 Sjöns djup,
 medel/max (m)
+
 Sjöns volym
 (106 m3)
+
 Avrinningsområdets
 area (km2)
-(l/s)
-Vattenföring
-vid
-sjöns
-utlopp
+
 Avstånd till centrala
 Göteborg (km)
 Status
 (Ekologisk/Kemisk)
 Riskbedömning
 (Eklogisk/Kemisk)
+
 Identifierade
 miljöproblem
+
 Används idag för
 vattenförsörjning
-43
-4
-Sandsjön
-0,8
-6/16
-6
-i.u.
-i.u.
-i.u.
-i.u.
-17
-i.u.
-i.u.
-i.u.
-Främmande
-arter
-42
-4
-Töllsjön
-1,2
-5/19
-6
-64
-7860
-1180
-100
-39
-G/G
-R/IR
-Försurning
-41
-2
-Vanderydsvattnet
-10,3
-4/16
-40
-98
-5580
-1340
-130
-47
-M/G
-R/IR
-Övergödning
-Flödesförändringar
-40
-2
-Gravlången
-2,8
-3/10
-8
-33
-2720
-420
-10
-48
-M/G
-R/IR
-Övergödning
-39
-1
-Pjäxedammarna
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-30
-i.u.
-i.u.
-i.u.
-Ja
-38
-1
-Tolleby
-tjärn
-m.fl.
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-i.u.
-38
-i.u.
-i.u.
-i.u.
-Ja
-37
-2
-Drypesjön/Vallerån
-0,3
-3/6
-0,5
-i.u.
-i.u.
-i.u.
-i.u.
-30
-i.u.
-i.u.
-i.u.
-Ja
-(infiltration)
-36
-3
-Öxsjön
-0,7
-i.u./25
-i.u.
-3
-370
-60
-0
-19
-O/G
-R/R
-Miljögifter
-Ja
-35
-3
-Lilla
-Färgen
-0,4
-i.u./24
-i.u.
-75
-6260
-1210
-90
-39
-i.u.
-i.u
-i.u.
-Ja
-34
-3
-Stora
-Stamsjön
-0,6
-4/12
-3
-12
-1470
-220
-10
-17
-G/G
-R/R
-Miljögifter,
-vattenuttag
-Ja
-33
-4
-Östra
-Ingsjön
-1,8
-19/50
-34
-45
-4470
-910
-70
-26
-G/G
-R/R
-Försurning,
-miljögifter
-Flödesförändringar
-32
-4
-Östra
-Nedsjön
-7,4
-i.u./73
-i.u.
-40
-2460
-680
-70
-30
-M/G
-R/IR
-Främmande
-arter
-31
-1/2
-Store-Väktor
-1,0
-18/37
-19
-24
-2500
-400
-20
-54
-G/G
-R/IR
-Försurning
-30
-2
-Surtesjön
-1,0
-3/12
-3
-5
-490
-90
-0
-13
-G/G
-R/IR
-Försurning
-29
-3/4
-Stora
-Kåsjön
-1,0
-7/32
-8
-5
-480
-100
-0
-9
-G/G
-R/IR
-Försurning
-Ja
-28
-4
-Finnsjön
-1,0
-7/23
-8
-7
-660
-150
-10
-13
-G/G
-R/IR
-Försurning
-Ja
-27
-4
-Östersjön
-1,0
-8/25
-9
-12
-1240
-260
-10
-18
-G/G
-R/IR
-Flödesförändringar
-26
-3
-Hälsingen
-1,0
-6/24
-6
-7
-590
-100
-0
-44
-M/G
-R/IR
-Försurning
-25
-4
-Yxsjön
-1,1
-8/18
-8
-9
-900
-190
-10
-14
-G/G
-R/IR
-Flödesförändringar
-24
-3/4
-Stora
-Sturven
-1,1
-10/48
-10
-3
-280
-50
-0
-25
-G/G
-R/IR
-Försurning
-23
-4
-Hornasjön
-1,2
-8/24
-11
-3
-300
-60
-0
-19
-G/G
-R/IR
-Försurning
-22
-4
-Stora
-Delsjön
-1,2
-5/23
-6
-9
-950
-190
-0
-5
-G/G
-R/R
-Försurning,
-miljögifter
-Ja
-(överföring
-Göta
-älv)
-21
-5
-Skärsjön
-1,2
-12/23
-15
-5
-300
-100
-10
-35
-D/G
-R/R
-Försurning,
-miljögifter
+
+74
+
+Va tten föring v id sjöns u tlopp
+
+(l/s)
+
 MHQ
+
 MQ
-MLQ
+
+M LQ
+
+21 5 Skärsjön
+
+1 ,2
+
+12/23
+
+15
+
+5
+
+300
+
+100
+
+10
+
+35 D /G R /R
+
+Försu rn ing , m iljög ifter
+
+22 4 S tora De lsjön
+
+1 ,2
+
+5/23
+
+6
+
+9
+
+950
+
+190
+
+0
+
+5 G /G R /R
+
+Försu rn ing , m iljög ifter Ja (överföring Gö ta ä lv)
+
+23 4 Hornasjön
+
+1 ,2
+
+8/24
+
+11
+
+3
+
+300
+
+60
+
+0
+
+19 G /G R /IR
+
+Försu rn ing
+
+24 3/4 S tora S tu rven
+
+1 ,1
+
+10/48
+
+10
+
+3
+
+280
+
+50
+
+0
+
+25 G /G R /IR
+
+Försu rn ing
+
+25 4 Yxsjön
+
+1 ,1
+
+8/18
+
+8
+
+9
+
+900
+
+190
+
+10
+
+14 G /G R /IR
+
+F lödesförändringar
+
+26 3 Hä ls ingen
+
+1 ,0
+
+6/24
+
+6
+
+7
+
+590
+
+100
+
+0
+
+44 M /G R /IR
+
+Försu rn ing
+
+27 4 Ö stersjön
+
+1 ,0
+
+8/25
+
+9
+
+12
+
+1240
+
+260
+
+10
+
+18 G /G R /IR
+
+F lödesförändringar
+
+28 4 F innsjön
+
+1 ,0
+
+7/23
+
+8
+
+7
+
+660
+
+150
+
+10
+
+13 G /G R /IR
+
+Försu rn ing
+
+Ja
+
+29 3/4 S tora Kåsjön
+
+1 ,0
+
+7/32
+
+8
+
+5
+
+480
+
+100
+
+0
+
+9 G /G R /IR
+
+Försu rn ing
+
+Ja
+
+30 2 Su rtesjön
+
+1 ,0
+
+3/12
+
+3
+
+5
+
+490
+
+90
+
+0
+
+13 G /G R /IR
+
+Försu rn ing
+
+31 1/2 S tore-Väktor
+
+1 ,0
+
+18/37
+
+19
+
+24
+
+2500
+
+400
+
+20
+
+54 G /G R /IR
+
+Försu rn ing
+
+Främm ande arter
+
+32 4 Ö stra Nedsjön
+
+7 ,4
+
+i.u ./73
+
+i.u .
+
+40
+
+2460
+
+680
+
+70
+
+30 M /G R /IR
+
+F lödesförändringar
+
+33 4 Ö stra Ingsjön
+
+1 ,8
+
+19/50
+
+34
+
+45
+
+4470
+
+910
+
+70
+
+26 G /G R /R
+
+Försu rn ing , m iljög ifter
+
+34 3 S tora S tam sjön
+
+0 ,6
+
+4/12
+
+3
+
+12
+
+1470
+
+220
+
+10
+
+17 G /G R /R
+
+M iljög ifter, va ttenu ttag
+
+Ja
+
+35 3 L illa Färgen
+
+0 ,4
+
+i.u ./24
+
+i.u .
+
+75
+
+6260
+
+1210
+
+90
+
+39
+
+i.u .
+
+i.u
+
+i.u .
+
+Ja
+
+36 3 Ö xsjön
+
+0 ,7
+
+i.u ./25
+
+i.u .
+
+3
+
+370
+
+60
+
+0
+
+19 O /G R /R
+
+M iljög ifter
+
+Ja
+
+37 2 D rypesjön /Va llerån 0 ,3
+
+3/6
+
+0 ,5
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+30
+
+i.u .
+
+i.u .
+
+i.u .
+
+Ja (in filtra tion )
+
+38 1 To lleby tjärn m .fl.
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+38
+
+i.u .
+
+i.u .
+
+i.u .
+
+Ja
+
+39 1 P jäxedamm arna
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+30
+
+i.u .
+
+i.u .
+
+i.u .
+
+Ja
+
+Ö vergödn ing
+
+40 2 G rav lången
+
+2 ,8
+
+3/10
+
+8
+
+33
+
+2720
+
+420
+
+10
+
+48 M /G R /IR
+
+F lödesförändringar
+
+41 2 Vanderydsva ttne t
+
+10 ,3
+
+4/16
+
+40
+
+98
+
+5580
+
+1340
+
+130
+
+47 M /G R /IR
+
+Ö vergödn ing
+
+Försu rn ing
+
+42 4 Tö llsjön
+
+1 ,2
+
+5/19
+
+6
+
+64
+
+7860
+
+1180
+
+100
+
+39 G /G R /IR
+
+Främm ande arter
+
+43 4 Sandsjön
+
+0 ,8
+
+6/16
+
+6
+
+i.u .
+
+i.u .
+
+i.u .
+
+i.u .
+
+17
+
+i.u .
+
+i.u .
+
+i.u .
+
+64
 
 <!-- sida 84 -->
 
 Vattenförsörjningsplan för Göteborgsregionen        5. Vattenresurser
 
-75
-65
-Tabell
-10\.
-Vattendrag
-inom
-eller
-nära
-Göteborgsregionen
-av
-potentiellt
-intresse
-för
-dricksvattenförsörjningen.
+Tabell 9. Vattendrag inom eller nära Göteborgsregionen av potentiellt intresse för dricksvattenförsörjningen.
+
 Nr
+
 Område
+
 Namn
+
 Avrinningsområdets
 area (km2)
-Vattenföring
-(l/s)
+
 Avstånd till centrala
 Göteborg (km)
+
 Status
 (Ekologisk/Kemisk)
+
 Riskbedömning
 (Eklogisk/Kemisk)
+
 Identifierade
 miljöproblem
+
 Används idag för
 vattenförsörjning
-Flödesförändringar
-Jonsered
-3d
-1410
-57400
-20800
-5780
-13
-G/G
-IR/IR
-Främmande
-arter
-Kontinuitetsförändringar
-Flödesförändringar
-Lerum
-Främmande
-arter
-3c
-1340
-53700
-19600
-5390
-17
-M/G
-R/R
-Miljögifter
-Kontinuitetsförändringar
-Alingsås
-Flödesförändringar
-3b
-688
-50300
-9860
-1120
-39
-M/G
-R/R
-Miljögifter Miljögifter
-Mellbyån/Gräfsnäs
-3a
-92
-12500
-1220
-120
-53
-M/G
-R/R
-Övergödning
-3
-Säveån:
-Kontinuitetsförändringar
-Lärjeholm
-Främmande
-arter
-2b
-112
-17000
-2070
-120
-6
-M/G
-R/R
-Miljögifter
-Ja,
-reserv
-2a
-Nedan
-St
-Lövsjön
-18
-2370
-310
-20
-23
-M/G
-R/R
-Övergödning
-Ja,
-reserv
-3
-Lärjeån:
-Flödesförändringar Främmande
-arter
-Ovan
-Lärjeån
-Miljögifter
-1c
-48300
-229\*10
-3
-185\*10
-3
-76\*10
-3
-5
-MEP/G
-R/R
-Övergödning
-Ja
-1b
-Kungälv
-48100
-929\*10
-3
-572\*10
-3
-186\*10
-3
-17
-MEP/G
-R/R
-vattenförekomst.
-Ja
-(inf)
-1a
-Lilla
-Edet
-47600
-912\*10
-564\*10
-172\*10
-49
-MEP/G
-R/R
-Kraftigt
-modifierad
-Ja
-3
-3
-3
-2
-Göta
-älv:
+
+75
+
+Tabe ll 10 . Va ttendrag inom e ller nära Gö teborgsreg ionen av po ten tie llt in tresse för dricksva tten försörjn ingen .
+
+Va tten föring (l/s)
+
 MHQ
+
 MQ
-MLQ
-Tabell 9. Vattendrag inom eller nära Göteborgsregionen av potentiellt intresse för dricksvattenförsörjningen.
+
+M LQ
+
+2
+
+Gö ta ä lv :
+
+1a
+
+L illa Ede t 47600 912\*10 3 564\*10 3 172\*10 3
+
+49
+
+M EP/G
+
+R /R
+
+K ra ftig t m od ifierad
+
+Ja
+
+1b
+
+Kungä lv 48100 929\*10 3 572\*10 3 186\*10 3
+
+17
+
+M EP/G
+
+R /R
+
+va tten förekom st.
+
+Ja (in f)
+
+1c
+
+48300 229\*10 3 185\*10 3 76\*10 3
+
+5
+
+M EP/G
+
+R /R
+
+Ö vergödn ing
+
+Ja
+
+M iljög ifter
+
+O van Lärjeån
+
+Främm ande arter
+
+F lödesförändringar
+
+3
+
+Lärjeån :
+
+2a
+
+Nedan S t Lövsjön 18
+
+2370
+
+310
+
+20
+
+23
+
+M /G
+
+R /R
+
+Ö vergödn ing
+
+Ja , reserv
+
+2b
+
+112
+
+17000
+
+2070
+
+120
+
+6
+
+M /G
+
+R /R
+
+M iljög ifter
+
+Ja , reserv
+
+Lärjeho lm
+
+Främm ande arter
+
+Kon tinu ite tsförändringar
+
+3
+
+Säveån :
+
+3a
+
+92
+
+12500
+
+1220
+
+120
+
+53
+
+M /G
+
+R /R
+
+Ö vergödn ing
+
+M e llbyån/G rä fsnäs
+
+M iljög ifter
+
+3b
+
+688
+
+50300
+
+9860
+
+1120
+
+39
+
+M /G
+
+R /R
+
+M iljög ifter
+
+A lingsås
+
+F lödesförändringar
+
+Kon tinu ite tsförändringar
+
+3c
+
+1340
+
+53700 19600
+
+5390
+
+17
+
+M /G
+
+R /R
+
+M iljög ifter
+
+Främm ande arter
+
+Lerum
+
+F lödesförändringar
+
+Kon tinu ite tsförändringar
+
+3d
+
+1410
+
+57400 20800
+
+5780
+
+13
+
+G /G
+
+IR /IR
+
+Främm ande arter
+
+Jonsered
+
+F lödesförändringar
+
+65
 
 <!-- sida 85 -->
 
 Vattenförsörjningsplan för Göteborgsregionen        5. Vattenresurser
 
-76
-66
 Nr
+
 Område
+
 Namn
+
 Avrinningsområdets
 area (km2)
-Vattenföring
-(l/s)
+
 Avstånd till centrala
 Göteborg (km)
+
 Status
 (Ekologisk/Kemisk)
+
 Riskbedömning
 (Eklogisk/Kemisk)
+
 Identifierade
 miljöproblem
+
 Används idag för
 vattenförsörjning
-Främmande
-arter
-Mynningen
-i
-havet
-6c
-694
-54400
-13900
-2350
-29
-G/G
-R/IR
-Försurning
-Storån/Rävlanda
-Kontinuitetsförändringar
-6b
-329
-37400
-6170
-560
-31
-M/G
-R/IR
-Främmande
-arter
-Kontinuitetsförändringar
-Nolån/Bollebygd
-Främmande
-arter
-6a
-210
-25300
-3910
-350
-33
-M/G
-R/R
-Miljögifter
-4/5
-Rolfsån:
-Övergödning
-Kungsbacka
-5b
-302
-34600
-6080
-510
-28
-M/G
-R/IR
-Försurning
-5a
-Lindomeån/Hällesåker
-140
-13400
-2950
-290
-16
-G/G
-R/IR
-Försurning
-5
-Kungsbackaån:
-förändringar Morfologiska
-Göteborg
-Främmande
-arter
-Miljögifter
-4c
-248
-23900
-4660
-410
-2
-M/G
-R/R
-Övergödning
-4b
-Landvetter
-155
-14300
-2750
-250
-15
-M/G
-R/IR
-Flödesförändringar
-Kontinuitetsförändringar
-Hindås-Rya
-hed
-4a
-67
-4430
-1120
-130
-24
-M/G
-R/IR
-Flödesförändringar
-4
-Mölndalsån:
+
+76
+
+Va tten föring (l/s)
+
 MHQ
+
 MQ
-MLQ
+
+M LQ
+
+4
+
+M ö lnda lsån :
+
+4a
+
+67
+
+4430
+
+1120
+
+130
+
+24
+
+M /G
+
+R /IR
+
+F lödesförändringar
+
+H indås-Rya hed
+
+Kon tinu ite tsförändringar
+
+4b
+
+Landve tter 155
+
+14300
+
+2750
+
+250
+
+15
+
+M /G
+
+R /IR
+
+F lödesförändringar
+
+4c
+
+248
+
+23900
+
+4660
+
+410
+
+2
+
+M /G
+
+R /R
+
+Ö vergödn ing
+
+M iljög ifter
+
+Gö teborg
+
+Främm ande arter
+
+M orfo log iska
+
+förändringar
+
+5
+
+Kungsbackaån :
+
+5a
+
+L indom eån/Hä llesåker 140
+
+13400
+
+2950
+
+290
+
+16
+
+G /G
+
+R /IR
+
+Försu rn ing
+
+5b
+
+302
+
+34600
+
+6080
+
+510
+
+28
+
+M /G
+
+R /IR
+
+Försu rn ing
+
+Kungsbacka
+
+Ö vergödn ing
+
+4/5 Ro lfsån :
+
+6a
+
+210
+
+25300
+
+3910
+
+350
+
+33
+
+M /G
+
+R /R
+
+M iljög ifter
+
+No lån /Bo llebygd
+
+Främm ande arter
+
+Kon tinu ite tsförändringar
+
+6b
+
+329
+
+37400
+
+6170
+
+560
+
+31
+
+M /G
+
+R /IR
+
+Främm ande arter
+
+S torån/Räv landa
+
+Kon tinu ite tsförändringar
+
+6c
+
+694
+
+54400 13900
+
+2350
+
+29
+
+G /G
+
+R /IR Försu rn ing
+
+M ynn ingen i have t
+
+Främm ande arter
+
+66
 
 <!-- sida 86 -->
 
@@ -4416,43 +5194,55 @@ inom aktuellt område endast finns mycket begränsade tillgångar i berggrunden.
 Resultaten av identifieringen redovisas i tabellform i avsnitten 5.4.2 och 5.4.3.
 I tabellerna redovisas följande faktorer:
 
-• Nr: Nummer på karta i Figur 13. • Råvatten infiltration och avstånd: Namn
-på ytvatten som kan användas som
+• Nr: Nummer på karta i Figur 13.
 • Område: Geografiskt område enligt ”blå
-råvatten och ungefärligt avstånd till
 stråk” baserade på GRs strukturbild (se
-grundvattenmagasinets närmaste del
 Figur 10).
-från ytvattnets närmaste del.
+
 • Namn: I allmänhet SGUs benämning på
-• Avstånd till centrala Göteborg: Avstånd
 grundvattenmagasinet
-i km fågelvägen från närmaste del av
-• Namn i VISS: alternativt namn på grundvattenmagasinet.
+• Namn i VISS: alternativt namn på
 grundvattenmagasinet om detta finns i
-• Status (Kemisk/Kvantitativ): Status från
 VISS.
-länsstyrelsens klassning av grundvatten-
-• Bedömd tillgång SGU: Bedömd kapaci- förekomster i VISS. Status anges i klas-
-tet naturligt grundvatten, enligt SGUs serna O=otillfredsställande och G=god.
+• Bedömd tillgång SGU: Bedömd kapaci-
+tet naturligt grundvatten, enligt SGUs
 klassificeringssystem, baserat på lokala
-• Riskbedömning (Kemisk/Kvantitativ):
 grundvattenkarteringar av SGU eller re-
-Riskbedömning från länsstyrelsens
 gionala (länsvisa) grundvattenkartering-
-klassning av grundvattenförekomster
 ar, där lokala inte ännu har genomförts.
-i VISS. Risken anges i kategorierna
-• Kapacitet undersökning: Bedömd kapa- R=risk, IR=ingen risk.
+
+• Kapacitet undersökning: Bedömd kapa-
 citet naturligt grundvatten baserat på
-• Används idag + eventuellt uttag: I de fall
 detaljerade undersökningar (SGU eller
-det finns ett känt uttag för kommunal
 konsultutredningar).
-vattenförsörjning ur grundvattenfö-
-• Kapacitet med infiltration: Uppskattad rekomsten har detta angetts, samt om
-kapacitet vid användning av konstgjord tillgängligt en ungefärlig uttagsvolym.
+• Kapacitet med infiltration: Uppskattad
+kapacitet vid användning av konstgjord
 infiltration.
+
+• Råvatten infiltration och avstånd: Namn
+på ytvatten som kan användas som
+råvatten och ungefärligt avstånd till
+grundvattenmagasinets närmaste del
+från ytvattnets närmaste del.
+• Avstånd till centrala Göteborg: Avstånd
+i km fågelvägen från närmaste del av
+grundvattenmagasinet.
+
+• Status (Kemisk/Kvantitativ): Status från
+länsstyrelsens klassning av grundvatten-
+förekomster i VISS. Status anges i klas-
+serna O=otillfredsställande och G=god.
+• Riskbedömning (Kemisk/Kvantitativ):
+Riskbedömning från länsstyrelsens
+klassning av grundvattenförekomster
+i VISS. Risken anges i kategorierna
+R=risk, IR=ingen risk.
+• Används idag + eventuellt uttag: I de fall
+det finns ett känt uttag för kommunal
+vattenförsörjning ur grundvattenfö-
+rekomsten har detta angetts, samt om
+tillgängligt en ungefärlig uttagsvolym.
+
 78
 
 <!-- sida 88 -->
@@ -5178,11 +5968,15 @@ Vattenförsörjningsplan för Göteborgsregionen         6. Vattenbehov
 Tabell 15. Sammanställning av kommunernas möjligheter till att öka kapaciteten inom befintligt produktionssystem. Uppgifterna är
 baserade på svar vid intervju med VA-tjänstemän och utgör i många fall erfarenhetsmässiga bedömningar och uppskattningar.
 
-100
-krevnettavtY
-nettavdnurG
-noitartlfinI
 Vattentäkt                     Möjlighet till ökat uttag
+
+100
+
+Infiltration
+
+Grundvatten
+
+Ytvattenverk
 
 [Tabell 109-1](handlingar.tabeller/109-1.csv)
 
@@ -5292,10 +6086,8 @@ i Figur 17.
 
 Vattenförsörjningsplan för Göteborgsregionen 7. Risker och hot mot regionens vattenförsörjning
 
-104
-agilläflliT
-agilreunitnoK
 Figur 17. Kategorisering av riskobjekt för vattentäkter 21
+
 I detta kapitel ges en beskrivning av olika typer av risker och hot mot regionens dricksvattenförsörj-
 ning. Kapitlet inleds med ett avsnitt kring mikrobiologiska risker, som bedöms som det allvarligaste
 hotet mot dricksvattenförsörjningen ur hälsosynpunkt. Därefter följer en beskrivning av potentiella
@@ -5307,8 +6099,15 @@ ningens säkerhet.
 Den geografiska avgränsningen för risker och hot mot vattenförsörjningen är i huvudsak regionens
 kommuner, med hänsyn tagen till delar av berörda större avrinningsområden angränsande till regio-
 nen.
+
 ²¹ Säkrare dricksvattenförsörjning – motverka risker inom avrinningsområden, Svenskt Vatten Utveckling,
 Rapport 2010-07, Friberg, J m.fl. 2010.
+
+104
+
+Kontinuerliga
+
+Tillfälliga
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 
@@ -6636,11 +7435,15 @@ Vattenförsörjningsplan för Göteborgsregionen      8. Risk och sårbarhet
 Tabell 16. Kvalitativ bedömning av risk för påverkan på vattenresurser i Göteborgsregionen som utnyttjas för vattenförsörjning.
 Orange=hög risk, Gul=måttlig risk och Grön=låg risk för påverkan.
 
-135
-krevnettavtY
-nettavdnurG
-noitartlfinI
 Vattentäkt                   Värdering av risker
+
+135
+
+Infiltration
+
+Grundvatten
+
+Ytvattenverk
 
 [Tabell 144-1](handlingar.tabeller/144-1.csv)
 
@@ -8725,37 +9528,58 @@ dess föreskrifter.
 Storleken på avrinningsområden för Sveriges allmänna vattentäkter är väldigt olika. De minsta
 grundvattentäkterna omfattar någon eller några hektar jämfört med de största älvarna som kan
 omfatta tiotusentals kvadratkilometer. Ansökan bör innehålla en översiktlig beskrivning av
-
 avrinningsområdet även om vattenskyddsområdet avgränsas till att utgöra en del av
 avrinningsområdet.
+
 Avrinningsområdet bör beskrivas utifrån klimatzon, nederbördsmönster, topografi och geologi
 oaktat om det rör sig om en grundvattentäkt eller ytvattentäkt. Därutöver bör ett antal uppgifter
 redovisas för den aktuella vattentäkten utifrån ett avrinningsområdesperspektiv, se nedan.
 
 3.3.1 Uppgifter som bör redovisas för ytvattentäkt
+
 Uppgift av betydelse  Beskrivning
 
-Typ av vattentäkt     Uppgift om ytvattentäkten utgör ett större eller mindre vattendrag eller en sjö.
+Typ av vattentäkt
+
+Vattnets teoretiska omsättningstid
+
+Beräknade dimensionerande
+vattenstånd/flöden
+Pågående vattenregleringar
+
+Uppgift om avrinningsområdet
+
+Sjöandel
+
+Transporttider inom avrinningsområdet
+
+Topografi
+
+Dominerande jordarter
+
+Översvämningsbenägna områden
+
+Uppgift om ytvattentäkten utgör ett större eller mindre vattendrag eller en sjö.
 Intagets ungefärliga djup och läge bör beskrivas.
-Vattnets teoretiska omsättningstid Omsättningstiden är främst relevant för sjöar. Vattnets teoretiska
+Omsättningstiden är främst relevant för sjöar. Vattnets teoretiska
 omsättningstid utgör kvoten mellan sjövolymen och tillrinningen. Värden finns
 framräknade för ett stort antal sjöar i Sverige. Värdet varierar från några
 månader till tiotals år. En tumregel är att ju större tillrinningsområdet är i
 förhållande till sjövolymen, desto snabbare byts sjöns vattenmassa ut.
-Beräknade dimensionerande Dimensionerande flöden och rinntider kan vara viktiga att ta fram för den
-vattenstånd/flöden    aktuella vattentäkten
-Pågående vattenregleringar Om och hur ett vattensystem regleras kan vara en viktig faktor att belysa då
+Dimensionerande flöden och rinntider kan vara viktiga att ta fram för den
+aktuella vattentäkten
+Om och hur ett vattensystem regleras kan vara en viktig faktor att belysa då
 det har betydelse för om och hur vissa vanliga nyckeltal (exempelvis
 framräknade dimensionerande flöden och vattenstånd) kan användas i
 bedömningar av olika slag
-Uppgift om avrinningsområdet Vattentäktens lokalisering i avrinningsområdet inklusive uppgifter om
+Vattentäktens lokalisering i avrinningsområdet inklusive uppgifter om
 tillrinnande vattendrag.
 Vilka tillrinnande vattendrag är av betydelse för vattenskyddsområdet med
 avseende på dess bidragande volym i förhållande till magasinets totala volym.
 Om sjön/vattendraget är starkt påverkat av grundvatten bör detta beskrivas.
-Sjöandel              En hög sjöandel i avrinningsområdet innebär längre uppehållstider och en
+En hög sjöandel i avrinningsområdet innebär längre uppehållstider och en
 dämpning av flödesvariationer.
-Transporttider inom avrinningsområdet Den snabba transporttiden utgör en sårbarhet för ytvattentäkter eftersom ett
+Den snabba transporttiden utgör en sårbarhet för ytvattentäkter eftersom ett
 utsläpp snabbt transporteras mot intagspunkten, därför kan transporttiden från
 olika delar av avrinningsområdet vara av intresse att räkna fram.
 Är den dominerande vattentransporter vinddriven eller strömningsdriven?
@@ -8765,19 +9589,20 @@ konstateras att vattentransporten huvudsakligen är vinddriven bör
 vindförhållanden redovisas för området. Vinddriven transport i vatten bygger
 på att vinden har lång varaktighet och därför saknar korta vindbyar med
 extremvärden i regel betydelse.
-Topografi             Topografin avgör lutningarna längs sjöar och vattendrag, vilka i sin tur har
+Topografin avgör lutningarna längs sjöar och vattendrag, vilka i sin tur har
 betydelse för transporthastigheten vid ytavrinning.
 Flacka lutningar innebär en långsammare transport medan branta lutningar ger
 snabb avrinning.
-Dominerande jordarter De dominerande jordarterna inom området har stor betydelse för om vattnet
+De dominerande jordarterna inom området har stor betydelse för om vattnet
 infiltrerar eller avrinner på markytan.
 Ytavrinning uppkommer då nederbördsintensiteten överstiger jordens
 infiltrationsförmåga.
-Översvämningsbenägna områden Hur vattnets breder ut sig i olika delar av tillrinningsområdet visar var det kan
+Hur vattnets breder ut sig i olika delar av tillrinningsområdet visar var det kan
 finnas anledning att närmare analysera markanvändningens betydelse och
 inverkan på vattenförhållandena. Typiska översvämningsområden brukar
 finnas lokaliserade i flacka områden långt nedströms i avrinningsområdet.
 Även översvämningskartering för exempelvis 10-, 50- och 100-årsflöden kan
+
 \- 31 -
 
 <!-- sida 192 -->
@@ -8787,7 +9612,9 @@ vara viktiga underlag för att bedöma betydelsen av markanvändning,
 riskbedömning för verksamheter och vattenskyddsområdets avgränsning.
 
 3.3.2 Uppgifter som bör redovisas för grundvattentäkt
+
 Uppgift av betydelse  Beskrivning
+
 Typ av vattentäkt     Uppgift om det rör sig om ett grundvattenuttag ur jord eller berg. Om
 vattenuttaget baseras på helt naturlig grundvattenbildning, förstärkt
 grundvattenbildning eller ett grundvatten som återinfiltrerats för att sedan tas
@@ -8798,14 +9625,27 @@ Uppgifter om brunnarna Uppgifter om brunnarnas lokalisering och konstruktion bö
 liksom från vilket djup vattnet hämtas
 Grundvattenmagasinet  Grundvattenmagasinet bör beskrivas med avseende magasinsvolym och
 magasineringsförmåga
-Grundvattendelare     För vattentäkter i jord bör grundvattendelare kartläggas och beskrivas
-Hur grundvattennivån varierar över året Av särskild betydelse är den omättade zonen som utgör avståndet mellan
+
+Grundvattendelare
+Hur grundvattennivån varierar över året
+
+Gradienter och uppehållstider/
+strömningshastigheter
+
+In- och utströmningsområden
+
+Geologiskt underlag
+
+Dominerande sprickzoner (avser berg)
+
+För vattentäkter i jord bör grundvattendelare kartläggas och beskrivas
+Av särskild betydelse är den omättade zonen som utgör avståndet mellan
 markytan och grundvattenytan. Är magasinet slutet ska det beskrivas och då
 även vilken mäktighet de tätande lagren har, var grundvattenbildningen till det
 slutna magasinet bedöms ske och om det finns områden där det finns ett
 övertryck i magasinet som skapar en uppåtriktad strömningsriktning.
-Gradienter och uppehållstider/ Dominerande strömriktningar och strömningshastigheter bör beskrivas i
-strömningshastigheter övergripande termer för grundvattenmagasinet i sin helhet. Inom de delar som
+Dominerande strömriktningar och strömningshastigheter bör beskrivas i
+övergripande termer för grundvattenmagasinet i sin helhet. Inom de delar som
 föreslås pekas ut som vattenskyddsområde bör nivåer, gradienter och
 uppehållstider vid olika uttagssituationer beskrivas noggrant.
 Av särskild betydelse är influensområdet från uttagspunkten.
@@ -8814,7 +9654,7 @@ Vanligt har varit att vattenskyddsområdets yttre gräns har avgränsats till en
 uppehållstid på 1 år och att en primär skyddszon avgränsats utifrån 100
 dagars uppehållstid. Uppehållstid i mark är i en betydelsefull faktor att beakta
 vid utredning av vattenskyddsområde.
-In- och utströmningsområden Typiskt sett infiltrerar nederbörden till grundvatten i landskapets höglänta delar
+Typiskt sett infiltrerar nederbörden till grundvatten i landskapets höglänta delar
 och då framför allt i områden med sprickigt berg i dagen och/eller områden
 med grovkorniga jordarter. Typiska utströmningsområden förekommer i
 dalgångar i anslutning till sjöar och vattendrag. Ofta är jordlagren i dessa
@@ -8822,22 +9662,26 @@ områden mer finkorniga och markerna är ofta artificiellt dränerade. Däremell
 finns många områden där vattnet både kan infiltreras till grundvatten och
 avrinna till ytvatten. Områden som är viktiga för grundvattenbildningen bör
 beskrivas i underlaget.
-Geologiskt underlag   Geologin på en specifik plats har betydelse för om vattnet infiltrerar eller
+Geologin på en specifik plats har betydelse för om vattnet infiltrerar eller
 avrinner på markytan. De geologiska förutsättningarna ska beskrivas
 övergripande i allmänhet, och beskrivas specifikt utifrån deras inverkan på
 avgränsningen och utformningen av skyddsområdet. Underlag om berggrund,
 dominerande jordarter och förekomst av grundvattenmagasin finns samlat på
 SGUs hemsida
-Dominerande sprickzoner (avser berg) I berg domineras grundvattentransporten till sprickor. Det är svårt att med stor
+I berg domineras grundvattentransporten till sprickor. Det är svårt att med stor
 säkerhet reda ut hur vattnet rör sig lokalt, men dominerande sprickzoner kan
 ändå ofta identifieras och ge information om vattnets övergripande rörelser.
+
 3.4 Riskbedömning  i sex steg
+
 Vid inrättandet av ett vattenskyddsområde bör en riskbedömning genomföras, det vill säga att
 risker behöver identifieras, analyseras och värderas. Slutsatserna från riskbedömningen bör ligga
 till grund för avgränsning och eventuell zonindelning av vattenskyddsområdet samt motivera
 föreslagna föreskrifter.
+
 En riskbedömning inleds med att identifiera vilka föroreningskällor som påverkar
 råvattenkvaliteten idag och analysera hur den påverkan ser ut med avseende på ämnen,
+
 \- 32 -
 
 <!-- sida 193 -->
@@ -20913,44 +21757,69 @@ TULLAG (2016:253)
 
 NATURVÅRDSVERKET
 
-\- Kemikalieinspektionen, - Kemikalieinspektionen,
-\- Kommerskollegium,      - Kommerskollegium,
-\- Konsumentverket,       - Konsumentverket,
-\- Kronofogdemyndigheten, - Kronofogdemyndigheten,
-\- Livsmedelsverket,      - Livsmedelsverket,
+\- Kemikalieinspektionen,  - Kemikalieinspektionen,
+\- Kommerskollegium,       - Kommerskollegium,
+\- Konsumentverket,        - Konsumentverket,
+\- Kronofogdemyndigheten,  - Kronofogdemyndigheten,
+\- Livsmedelsverket,       - Livsmedelsverket,
 
-\- Läkemedelsverket,      - Läkemedelsverket,
+\- Läkemedelsverket,       - Läkemedelsverket,
 \- Myndigheten för press, radio och - Länsstyrelserna i Norrbottens län,
-tv,                       Gävleborgs län, Stockholms län,
+tv,                      Gävleborgs län, Stockholms län,
 \- Myndigheten för samhällsskydd Västra Götalands län och Skåne län,
 och beredskap,             - Myndigheten för press, radio och
 \- Naturvårdsverket,     tv,
 \- Post- och telestyrelsen, - Myndigheten för samhällsskydd
-\- Skatteverket,         och beredskap,
-\- Skogsstyrelsen,        - Naturvårdsverket,
 
-\- Statens energimyndighet, - Post- och telestyrelsen,
-\- Statens jordbruksverk, - Skatteverket,
-\- Statistiska centralbyrån, - Skogsstyrelsen,
-\- Strålsäkerhetsmyndigheten, - Statens energimyndighet,
-\- Styrelsen för ackreditering och - Statens jordbruksverk,
-teknisk kontroll,          - Statistiska centralbyrån,
-\- Sveriges riksbank, och - Strålsäkerhetsmyndigheten,
-\- Transportstyrelsen.    - Styrelsen för ackreditering och
+\- Skatteverket,
+\- Skogsstyrelsen,
+\- Statens energimyndighet,
+\- Statens jordbruksverk,
+\- Statistiska centralbyrån,
+
+\- Strålsäkerhetsmyndigheten,
+\- Styrelsen för ackreditering och
 teknisk kontroll,
+\- Sveriges riksbank, och
+\- Transportstyrelsen.
 
-Tullverket ska på begäran  - Sveriges riksbank, och
-tillhandahålla Inspektionen för - Transportstyrelsen.
+Tullverket ska på begäran
+tillhandahålla Inspektionen för
+
 strategiska produkter och
-Säkerhetspolisen uppgifter som Tullverket ska på begäran
-förekommer hos Tullverket och som tillhandahålla Inspektionen för
-rör export av varor.      strategiska produkter och
 Säkerhetspolisen uppgifter som
-I lagen (2001:185) om behandling av förekommer hos Tullverket och som
+förekommer hos Tullverket och som
+rör export av varor.
 
-uppgifter i Tullverkets verksamhet rör export av varor.
+I lagen (2001:185) om behandling av
+uppgifter i Tullverkets verksamhet
 finns bestämmelser om Tullverkets
-behandling av uppgifter i vissa fall. I lagen (2001:185) om behandling av
+behandling av uppgifter i vissa fall.
+
+och beredskap,
+\- Naturvårdsverket,
+\- Post- och telestyrelsen,
+\- Skatteverket,
+\- Skogsstyrelsen,
+
+\- Statens energimyndighet,
+\- Statens jordbruksverk,
+\- Statistiska centralbyrån,
+\- Strålsäkerhetsmyndigheten,
+\- Styrelsen för ackreditering och
+teknisk kontroll,
+\- Sveriges riksbank, och
+\- Transportstyrelsen.
+
+Tullverket ska på begäran
+tillhandahålla Inspektionen för
+strategiska produkter och
+Säkerhetspolisen uppgifter som
+förekommer hos Tullverket och som
+rör export av varor.
+
+I lagen (2001:185) om behandling av
+
 uppgifter i Tullverkets verksamhet
 finns bestämmelser om Tullverkets
 behandling av uppgifter i vissa fall.

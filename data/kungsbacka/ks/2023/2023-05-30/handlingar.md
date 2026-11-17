@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241129213826id_/https://kungsbacka.se/d
 sha256: b1faf94094020cb484e4b464ee4b72a02a0d0601cb935e8a5107b450d4d1e0d1
 bytes: 140352638
 sidor: 899
-hamtad: 2026-10-20T10:22:19+00:00
-konverterad: 2026-10-20T10:30:08+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:40:54+00:00
+konverterad: 2026-11-17T01:47:46+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -10728,7 +10728,7 @@ Swedbanks kontoregister. Fastighetsägaren ansvarar för att snarast anmäla ban
 till registret. I annat fall kommer en utbetalningsavi att skickas till Fastighetsägarens
 folkbokföringsadress.
 
-Om betalning sker därefter betalas ränta enligt 6 \$ räntelagen från sista betalningsdag
+Om betalning sker därefter betalas ränta enligt 6 § räntelagen från sista betalningsdag
 tills betalning sker.
 
 Lantmäteriförrättning
@@ -11472,10 +11472,10 @@ Kommunen och Bolaget kallas gemensamt nedan för Parterna.
 1\. BAKGRUND OCH FÖRUTSÄTTNINGAR
 
 Kommunen antog en ny detaljplan för kvarteret Banken 2019-06-11 (KS/2019:341
-\$85), vilken vann laga kraft 2019-07-15. I samband med detaljplanens antagande
+§85), vilken vann laga kraft 2019-07-15. I samband med detaljplanens antagande
 godkändes även ett tillhörande exploateringsavtal avseende Bolagets fastigheter
 Banken 3-4, 7-8 samt 11 (Exploateringsavtalet) tecknat mellan Parterna
-(KS/2019:219 \$83)
+(KS/2019:219 §83)
 
 Detaljplanen syftar till att bevara kulturhistoriskt värdefulla byggnader och miljöer
 samtidigt som förutsättningar för en utveckling av kvarteret med bostäder samt
@@ -11522,7 +11522,7 @@ Detta avtal har upprättats i två likalydande exemplar av vilka parterna tagit 
 
 Kungsbacka 2023- Kungsbacka 2023- 1-0
 
-Kungsbacka kommun föf KunegShös Fastighetsförvaltning AB
+Kungsbacka kommun fört KungShuös Fastighetsförvaltning AB
 
 Lisa Andersson
 Kommunstyrelsens ordförande
@@ -11614,7 +11614,7 @@ Kommunstyrelsen Datum
 
 2022-02-22
 
-\$ 40 Dnr 2019-00218
+§ 40 Dnr 2019-00218
 
 Godkännande av exploateringsavtal samt tillägg till exploateringsavtal
 avseende kvarteret Banken i Kungsbacka Stad
@@ -11683,7 +11683,7 @@ ersättas av två nya, där Kungshus ska stå för 500 000 kronor och Fastighete
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2022-02-08, \$ 63
+Kommunstyrelsens arbetsutskott 2022-02-08, § 63
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2022-01-12
 
@@ -12163,9 +12163,9 @@ rätten till ersättning till följd av varsamhets- och skyddsbestämmelser är 
 
 Beslutsunderlag
 
-Kommunstyrelsen 2019-05-28, \$ 156
+Kommunstyrelsen 2019-05-28, § 156
 
-Kommunstyrelsens arbetsutskott 2019-05-14, \$ 167
+Kommunstyrelsens arbetsutskott 2019-05-14, § 167
 Samhällsbyggnadskontorets tjänsteskrivelse
 Exploateringsavtal för Banken 7 med flera
 Exploateringsavtal, undertecknad av exploatören 2019-04-23
@@ -12256,7 +12256,7 @@ KS/2019:341 Kungsbacka
 LAGAKRAFTBEVIS
 
 Detaljplan för centrumutveckling och bostäder i kvarteret Banken i Kungsbacka stad har antagits
-av kommunfullmäktige 2019-06-11 \$85.
+av kommunfullmäktige 2019-06-11 §85.
 
 Detaljplanen KP132 har vunnit laga kraft 2019-07-15 enligt 13:e kapitlet plan- och bygglagen.
 
@@ -13215,20 +13215,665 @@ n:\106\10\1061094\5 arbetsmaterial\01 dokument\g\pm kbk station slutversion.docx
 
 <!-- sida 453 -->
 
-31        6 A 8 52 3 C5 14 4 B 51 5 72 5 17 1 01 21 01 01 2 21 33 27 A B01 2C6 42 8 6 47 24 5 38A 13A-F 31 23B 41 9 6 6 )41( 23 C 2 B1 73 B 5A-D 7 42 A41 3 6 21 4 J 7 61 2 2 7 3 5 15 72 18A-D 53 8 (9C) 8 4 (7) 3 21 D61 7 3 21 2 3 30 11A-D 2D C-D 6B 24 71 B4 4 3C 02 41 6B 2 1 F5 7 25 6 5 6 A72 4 4 4 11 1 9 16 21 41 7 17 E2 C1 02 1B 2 8 81 63 32 31 91 55 9 6 12 27J 33 B6 03 22 B5 42 7D 23 12G E 2 2 61 11 10 83 12D 7C 3 G 11B13 14 B8 19 A3 9A-C 9-11 2 4 01 6 A 91 3 1 74 72 B 41 51 13 A11 2 B 45 D 15A A31 14 5 7 20 2 9 5 15 21 32 21 A01 1 1 B-A5 5 B 3 1 D 052 2 4 A 34 8 6 8 61 61 34 E5 )2( 3 12-30 42 B31 7 20 A 22 3 52 16 72 6 9 31 11 11 5 4 26 2 22 A-B1 35 3 11 1 7C 9 8 30 11 B 9 32 61 042 C2 01 31 71 11 84 11 20A-D A52 64 B-A3 1 D,B,A 02 C52 C21 B2 G-D1 11 14 6 41 82 31 1 63 01 33 32 3 8 61 41 44 22A-D 29 D52 5 A11 B9 )3( 31 9 5B 8 4 4 A1 5 5 9 94 73 14 21 34 34 5 22 17A-F 7 14 6B 3 3 32 2 01 2 5A 51 14 5B D 5 6 61 91 1 2 5 60 71 64 3 16 12F 17 C11 21 H-A51 81 B72 91 D01 15 44 6 11 32 03 51 05 24 2B 2 7 53 21 5 2 9 3 19 A1 2 71 11 10 5 6 03 11 C (20) 2 442 8 9 A8 28 14 A93 9 61 8 7A 26 51 12 2 G-A1 65 01 2 8 D-A71 6 A )A5( 64 4C 1 12 8 6 2230 9 12 B11 H 3C 29 2 2 13B 12A 01 42 5 3 8 02 4 5 2 1A-H 15 2 2 8 25B 11 20A 17 61 2 81 23A 2B 11 22 01 3 4 17C 1 41 91-71 5 7 27D B3 1A-B 9 D 61 C8 6 42 91 18 6 51 B8 21D-A B93 13 31 23 A B71 D31 1 6 81 A-D6 26 C4 2 8 B7 12B 8 31 6 C01 1 17 26 5 6 E 72 53 1 H 5 8 17 21 2 95 8 64 45 22 01 12 12 9B 41 2A 62 4 3 31 85 31 41 21 8 23 41 9 51 3 21 01 A2 65 8 3 G A 7 10 25 81 A01 8 21 E C 3 9 H-E4 2 5 4 7 31 52 D5 C-A35 4 44 21 15A-F A C 4 7 3A-H 7 41 61 F 72 36 1B 1A 21 2 1820 05 D31 7A B8 51 8 3 1C-A F 7B 3 81 5 71 3 (3) 9 6 6 C31 36 81 6 22 B 81 5 9 B-A3 06-84 C F 4 34 8 6 22 10 91 04 8 15 D 11 2 6 12 3 1 6 3 05 3 D2 9 51 61 16B 12E12C K 7 41 41 A 2 53 61 C33 C-A1 44 9 3B 47 71 B41 B A 4 A 81 9A 4 42 9 B-A2 40 4 32-38 3 11 10 D-A4 8 A61 23 8 22 A51 A B3 7 B2 6 4 F A71 83 71 30 4 4 7 02 31 8-7 C-A+64 01 14 6 82 24 11 5 5A 19-55 4 76 1A 23 25 7 01 54 33 12 6 27 11 A 2E 5 22 5 A01 B01 B 11 3 5 21 91 5 41 D 4 C01 C 7 9 01 1B-G 4 8 1 B25 11 5 32 A B52 8 11 1 C72 21 A 7 (1) 5 6 18 42 14 1 15 2 1 14 2 11-39 A8 23 2 4 21 8 62 B-A4 51 4 61 1 A61 1 B 31 01 8 3 15 22 71 3 9 3 22 3 A7 )6( 4 85 4 22 03 7 3B 7A-D 16 91 5A A01 4 B11 3 41 1 5 63 91 11 4 01 1 62 22 22 45 4 31 B 24 3 22 3 15 16 1E A1 7 5 36 1C 1A 7A 16 54 1 19 3 5 2 5 62 16A-D 42 5 28 1 7 )31( 5 41 41 4 17 C31 7 21 3 7 A9 8 7 12 23 41 11 6A 2C A6 9 18 61 16 01 5A-H 6 9 6 03 2 C 6 C D 15 7G 21 1 B31 15 B 9 12 7A-H B7 5 C 32 2 10 2 1 B-A41 16A 30 B21 4 31 11 41 7 CA )74( 5 61 01 11 14 25 21 2B 5 10 6 51 8 91 B61 18 5 5 24 11 32 6 42 3 23 C-A1 11 01 A 24 40 24 61 21 08 54 2 6 7 62 20 1 7 43 03 7 43 51 2 73 1A B 53 12 02 19 1 4 F1 8 71 20 9 7 82 75 81 1 10 4A 8 18 7 12 3 02 54 )81( 4 21 5 4B C1 13 61 4 5 01 C 2 1 A01 5 B1 74 13 21 11 52 9 02 84 B01 21 4 5 44 94 C 9A-F 3 6C 9A-B A7 8 6 A25 72 5 A2 2 B8 3A C-D 65 42 81 7 14 1 91 11 16 41 )3( 6 8 B-A31 72 14 8 38 71 1 21 5 1 27H 12 C 9D C2 B51 4 6 14 3 6 06 43 26 24A-B 01 38B 8 23 5 71 4 12 2B B01 41 4 31 A3 19 14 31 2 12 41 8 12 B-A 2 01 A21 3 2 51 2 1 62 A 13 2D B21 21 63 21 43 26 B01 3 32 01 12 10 11A-F 10 01 26 B11 3 21 24 20 2A 92 1 4 6 6 1 24 4 A8 31 3 4 B 45 2 B-A9 K51-A51 3 4 7 3 71 9-15 7B 42 3 6 4 21 6 56 10 1 2A 5C 61 4 D1 33 C2 3 B 51 16A-D 6 A4 A1 3 7 1 4 96 21 13 A-B3 32 (1) )32( 2 A6 2 B3 7 32 8B 7 7 7 4 20B 18 A8 17 1 62 9 6 A31 5 4 5 4A 02 3 A-D31 21 41 3A 42 7 D-A53 82 E1 26 43 B4 22 8 E31 3 5 25 51 16 27 92 02 1 G72 71 29 081 1 D 12 32 7A-F 92 6-12 9 3 .nts.p stalpkeL Hedeskolan lartnecnnaP ketoilbiB teisanmygsänarA saknalB gninttorD dråg.vK Novahallen Kungsmässan kcädärT p neryF le muisanmyg noitats llahsI Pumphus sgrebllaH -pmuP aksitkarP dråvdnatkloF Signeshus äldreboende 5F irossetnoM avoN Länsförsäkringar Arena llaheluoB Nidingens fs dnallaH lletoH edeH .g.vK grot retaeT muisanmyg netetsE naloksrutluK tläT tläT aloksröf suhsengiS dråg.vK Sporthall edneoberdlä ölöT .nvir darenalP muisanmyg llahsttordI dråg.vK llahsttordI Stationshus teltuO noihsaF edeH naloksdliB hco dujL Tennishall .nts adeB llahmiS Lindälvshallen .nvir darenalP .nvir darenalP Hede förskola Kungsbacka Sporthall .nvir darenalP g.vK siloP regalelsnärB dråg.vK PI svlädniL nellahsänarA llahsI aloksröF ragningattoM Resecentrum Björkris skola/förskola Kyrkskolan lednaH sf alluksdråG nedelölöT Sockenvägen Byvägen negävsgrobetöG almaG Sjukstugegatan Godhemsgatan Tölö Tvärled Signes väg natagrotS nedelsgalnI Strandgatan natagretsäV natagsroK väg groT snedniL natagrotS artsÖ natagsmörtsdlöhcS Gymnasiegatan delrävT ölöT Tölöleden natagannamtnaL negävsgrobetöG negävsgrobetöG natagrotS 6 natagokryK Kungsbacka Sportcenter nednärgosläH negäveratsämlokS Klippebergsvägen negäveratatS negäveratsämgäJ negävöjselliL negävöjselliL natagllaV artsÖ Syrengatan Höglandavägen negäveratsämsgokS Korsgatan Ringgatan negävsgrobetöG negävladO Kronoparksvägen Gamla Tölöleden negävelläkllaK negävelläkllaK nedelölöT natagsgävnräJ Östra Storgatan natagsgävsdnaL natagsgävsdnaL Wallingatan natagsfoitirF negävrotkaF gäv sannahoJ roM gäv saronoel4E roM Mor Brittas Tryckarevägen Mineralvägen Mineralvägen Bergsgatan Borgmästareplatsen natagdnartS Gertrudsgatan natagokryK Teatergatan Kungsbacka Sportcenter Björkrisvägen natagretsäV nestalp natagegutskujS Kommunvägen Gamla Göteborgsvägen negävsgalnI negävsgrobetöG natagsgävnräJ natagsgävnräJ gäv seinnA roM negävtfarK Södra infarten Södra Torggatan Pastillgränden natagrotS Södra infarten nedelsladnerA nestalpsdankraM
+Bilaga   1
+
 Hammargårdsvägen
-Allmogevägen                                                  Varbergsvägen Lantmannagatan Mor Annies väg negävrotkaF Södra Nygatan Norra Torggatan nellaöjS natagsroK negäveragaB Hansegårdsvägen Smörhålevägen negävsgrebekcolK nedelölöT negävsgrobetöG almaG negävsgrobetöG negävsgrobetöG Vallgatan Sättarevägen Signes väg Tryckarevägen natagrotS gäv samleS roM gäv sdregegnI roM Södra Torggatan gsdatskreV alliL nataggnåL artsÖ nedelåredöS )natagsgävnräJ( Linimentvägen gäv samleS roM Kungsbacka Sportcenter retnectropS akcabsgnuK negävölöT Linimentvägen Gymnasiegatan Aranäs allé natageraräL negäveratsämlokS Lilla Mortelvägen natagretsÖ Borgmästaregatan Nygatan natagsmörtsdlöhcS -suhdaB Klockebergsvägen nedelölöT natagekcyL Fabriksgatan nednärgnimatiV GamlaTölövägen natagskrevtnaH negäveratsämllatS natagllaV artsÖ negävsgrobetöG Björkrisvägen negävtneminiL natagelluksengiS atag sgrebdevS rotkoD natagmörtS negävtfarK negävskraponorK Gårdskullavägen Gamla Göteborgsvägen natagskrevtnaH negävsgrobetöG nedelsladnerA Vallgatan natagkraP negäverattäR nedelåredöS negävsgrobetöG almaG negävelåhrömS Varbergsvägen natagsgävnräJ Lilla Magasinsgatan Strandgatan Nygatan nataggniR Ekstedts väg Verkstadsgatan Nidingevägen negävsgrobetöG Klockaregatan gäv sanitreblA roM negävtfarK negävletroM Kungsbacka Sportcenter tegrotnmaH gskrevtnaH alliL negävelåhrömS nåakcabsgnuK Östra Långgatan nataggnåL artsÖ åredöS Verkstadsgatan nataggniR Korsgatan åredöS natagskrevtnaH negävsgrobetöG nedelsgalnI negävsgrobetöG Mor Fridas väg 8 gäv sattolrahC roM nåakcabsgnuK nåakcabsgnuK negävrotkaF natagnalleM Norra Torggatan åredöS Lindens gata Apotekargränden nåakcabsgnuK Hedebrovägen nåakcabsgnuK åredöS nåakcabsgnuK nåakcabsgnuK nåakcabsgnuK Kungsbackaån Kungsbackaån keL keL keL keL Lekplats keL Lek keL keL stalpkeL keL keL
+
+negävsgrobetöG 92 72 g 7 ä 1 v samleS roM 51 91 9 80 6 1 gäv sam M le o S4 r F r r o id M a 1 s 7 väg 4 7 2 5 6 B- 1 A 5 5 5 4 3gäv s 1 a B n 4 A jö n 2r - a k B r h is 3 v o 3 B ä 1 J - g 2 4 A e 5 0 r n 3 2 o M g 38 ä B 9 1 M v 4 1 7 o 6 r s 2A a 5n A n r 3 i o e 8 - s A B n v 8 ä o 1 g 3 e 6 l4E 41 3 r 4 oM 3230 D 0 C 2 4 B 3 D 2 g 5 2 ä 6 v C sdr A eg2 B e g 1g ä 2 2 n v A 4 0 I s ro a M t 2 to 5 4 3l 2 r 1 1ah 8 C 1 2 r1o 2 M 2 0 7 1 G 2 2 3 0 Björkris skola/fö2rs7 k2ol1a 7A 181614 gä 12 v s 1 e 0 i5n n 8 n Bj e A ör g k 1 r r 7 i 6 ä s o3 v M ä v g s en n g 1 å r a 1 o 5 k b ca e b ( t 1 s ö g ) G nuK 1311 3 Mo Pump r hus Brittas )2( 5 4 7 gäv san v i ä t g re6blA roM Hedebrovägen negävsgrobetö n G åakcabsgnuK nedelsla T dne ö rA löleden negä n v ede s lsla g dne r rA obetöG 31Magasinsgat3a3n 35 )8 9 1 2 ( 61 )41( 72 21 nåakcabsgnuK B21C21 1 Högla n ndav e ägen g ävrotkaF nåa n k e c d 7 a e b lö s lö g T n n ) 5 u 3 e Han ( g K se 2 gå ä rdsv v äge s n grobetöG 4 2 21 217 2 0 1 18 Sättarevägen 01 9 2 01 8 1 6 n 87 e 4 g6ä5v 3 e n r n a e4 e t g a n g ä t 5e ä 6 S v g v e 3 6 4 ä l r 4 a a v 5 n d e g O e r a g a3 B ä tt v ä 2 4 r R o5 8 tk 7 a 2 F 1 2 0 A 1 llmogevä 9 gen 1 211126 6 7 7 Hede förskola 31 6 Tryckarevägen 41 5 1 9 1 01 n 2 e 1 g4ä n 8 8 v e e d r e 9 a 0 l 8 ö t 1 s lö ä 9 8 T m3 5 ll 7 a 1 tS B 6 n n A 1 0 e8 e 7 1 0 g n g 6 1 ä e ä 5 n v g v 2 e e ä s g r v g a ä3 e 5 r t v1 s o r e a ä b 3 4 6 r t m e 1 s a 4 t ä t g ö s m ä G ä J s m 1 g l o o 3 k k S 4 S 1 12 1 11 2 Nidingevägen n 1 2 egä0v1ro 1 tkaF 2 9 1 01 Tryckarevägen 7 71 41 3211 Nidinge 6 ns fs 5ne 9 g 6 ä3v4eratsämlokS 5 21 1 76 Klippebergsvägen Hedeskolan (3 5 ) 6 1 71 negävsgrobe2tö6G 5 a 2 lmaG 91 11 60 85 3 9 6 6 Gamla4T 6 3 ö 5 lö n Kom v m e unväge ä n g g ä e v n 7 sgrob 6 e 4 t 4 ö 0 1 G 6 5 - 6 B 84 45 ned A e B 5 2 lö A 2 5 l 5 öT 3C 4 8 2 4 8 Sockenvägen20 44 10 negävtf Byväge a n r 7 K ne 14 gäv 2 ö 4 js 7 elliL5 5 neg 2 ä 1 v 0 skrap 4 onorK86 Kronoparksvägen 4 63n 8 e 3 gävö 9 js 5 elliL 7 G 4 amla Tölöleden 1 5 2 No n v e a g h 7 ä a 5 v ll e e l n läklla3K 63 negävelläkllaK ne 4 g 3 21 ävtfarK 6 negävsgrebekcolK2 ne2g3ävsgrob 58 etö9G4 K a lo lm ck a e G bergsvägen10 03 7 negävs 1 g 2 ro 9 betöG nedelölöT 11 Tölö Tvärled nåak ) Mineralvägen 7 c 4 a ( bsgn 2 2 uK 16 26 1 32 21 8d0r1å2g 4 . 3 v 2 K 6 3 M 2 o 3 rt 4 2e4lv 83 ä 4 g 1 e 7 n 1 7 8 1 4 g d . r v 1 å K g 6 .v 4 K 465 1 4 5 1 2 3 4 0 1 6 96 - - 1 15 2 8 Min 3 er 2 alväg 4 e 5 5 n 4 3 7 4 72 19-5 1 5 8 5 14 1 1 9 12 17 54 dr 2 å 2 g 2 . 4 v 8 2 P K as1t4i 0 ll 3 2 1 g3r 4 ä n n d e 2e5n gävle9t S 2 r i 3 o gn M 2 e 2 s 2 v 24 ä 9 5 g 4 3 4 1 5 9A- 3 C 2 0 11 4 -39 3353 3 32-38 S 1 ig 7 neshus äldreboende 7A 5 -D A-D 17A-F Linimen n tv e ä g ge ä n vsgrobe L tö e G k S 1 ig 1 nes väg a 5 8l A m -F aG 1 2 3A n -F e n g å ä 3 v a 2 s k gr c o a be b 6 tö s G 1 g 2-30 nuK 8 1 n 1 e A g 5 - ä F A v - t H n L e 1 0 i m n 6 7 1 A i i m A n p i - L e o F n te t k v a ä r g g e rä n n den 9A 3 5 -F 3A-H 5F irossetnoM 1 av 4 oN 1A-H 31 3 2 3 612 14 4 8 2 7 81 0 3 7 6 1 1 7 5 1 n 2 9 e 2 1 g 6 ä n 5 v a 1 s t 1g a 2 n 1r g 9 a o 6 8 n t b a 1 5 a e 5g l t l 1s e 7 ö m M 1 G ö 9 rtsd 3 n 2 lö a 7 h 5t6a c 15 4 g S 4 s 1 G g 0 a 3 ä 2 m 1 vn l2 3 a r 5 ä 1 G J4 ö 5 te 7 b 1 3 o 2 1 1 rg 1 sväge 1 n 2 1 2 5 3 n natagelluksengiS atagmö 6 1 r 1 1 tS 05 21 9 19 9 984 7 78 764 17 5 5 6 4 5 4 1 Sportha 5 ll Tennishall Lindälvshallen 3 natagegutskujS 4 61 3 Sjukstugegatan natag ra s gningattoM mört 4 s 1 dlö 1 hcS Lekplats 3 1 2 3 Bergsgatan Gam S l t a ra G nd ö 3g t 4 e a n b t a a o t n a rg g s s v g ä ä g v 1 e n n r 2 äJ dråvdna 3 tkloF 2 63 na B 5 ta 3 2 g 3 e H k - c E y 4 L 3 D 0 A-3A46 negävölöT 5 1 C1 F 72 E 4 72 5 5 6 Fabriksgatan Kungsmässan Str 4 an2d6gata 27D n B n 1 eg3ä 2 vs 2 g 7H robetöG 22A-D 24A 82 -B 27J A C 1 - n A a 1 ta 9 g 1 ro 16A-D tS 18A -D ar 20 t A-D sÖ6 A 2 8 71 Östra Storgatan B8 51C C 8 - 3 A 1 35 natagsgäv 7 n 1 r 1 n ä a J8 ta 2 gr1o5tS 9 Borgmästareplatsen 3 6 0 E 2 5 k7s B te - 5A A dt 5 s väg 94 26 5 41 24 3 42 1C 7 -A 4 Ös 6 t 1 B ra Lå n n Bo g r a gmä 2 stareg g ata t n 1 a aDt g a2 - s An2 g äv 2 A s 2 d s 8 f n a 1 2a ll 1 u 1L ksd n rå e G t e 0 t 1 s 7 2 1 E Korsgata 0 n 4 n B 1 a 8 loksrutluK natagdn 2 a 1 12 rt 6 S 1 nå 9 8 1 1 ak 8 ca CD b ,B 0 s , 1 A D g 7 6 n 1 1 u 4 2B D 5 K n - a A 6 ta 1 7 g 1 sg6 B ä 9 v 3 s n d a n Bt a a- L gAs4g1ä 43 v A n 9 B r 3 ä 3 J A3 4 73 2 1 1 nata D g B gn i n R n a 2 a t R C t a a e g g A s g 1A- r B A e 6 n o D 6 2 c å t - S e 1 A L n 5 a t 3 G 5 e r rtrud r sg u a 1 ta t n s m2 Ö Lilla 0B KLorislglaatan Gårdskullavägen 10 S C t 0 a 1 t ) i 2 2o n 4 0n a As t 3 a h g 3 u s 3 s Bg 4 ä0 1 v1n 7 rä 3 atag J s 3 g ( reb 1 d 3 e A vS 1 ro 0 tkoD 1 292 2 2 1 dnalla 5 H 3 1 A ll 5 e 3 to 2 H 72 1 0 B 1 2 1 0 A 1 V 3 a 2 llg B atan 33 2C 9 2D 5 2E 1 8 23B 8 31 6 23A 7 5 8 3 1 2 2 4 4 2 1 7 6 8 6 E C 1 G 4 6 2 o 5B d9 6 h 1 B e A n m A s å 2 1 1 g 3 1 a B a t n a R 1 k 0 in a n gg C a 2 t t a c n 1 a 1 B 71 3 3 g a 0 8 A 2 r 1 b et1 D 3 s s 9 B 2ä 2 9 g 1 C V n 32 A C 6 A B u 1 5 5 K A 2C 1 n 5 1 e 5 A 2 l B l - a D 5 ö 1 C j 2 S 7 D 1 A 9 5 3 5 9 1 2 7 2 1 B n n a 1 7 a t 6 C4 a t 4 1 27 a A 1 g 2 1 1 g F A 7 1 g 2 4 r D 5 E n o 4 1 2 å t E B S1 D L 2G 4 3 C a 4 A 32 1 r 1 1 2 t 1 5 D W s 1 V Ö 6 a 3 a 12 A l l 1 l l g i 2 - n C a D 1 Ag t 5 3 C a 2 a 1 2 n 1 F t 2 a B 6n n 1 0 2 C 9 B 4 a 1 1 2 A t na 3 a ta C gl g laV 1 - N a o D r 7 1 t o s 1 2 Ö k r 1 9 A r 6 a r 4 A 7 2 B T yB 4 o 5 1 r K 2 g 1 A K g D D a l t o a 3 n c A 1 H k 1 7 a B 6 A r B e A1 G 6 F g 1 A 7 C a C B t - a 3 H D E- 9 n 1 A D A 5 7 F C 1 B å C r B B e A C d 9 ö B S A (9 B C 1 ) C 4 0 3 5 12 1 31 0 1 9 2 D 0 9 1 1 A 7 -7 23 1 8 D 1 nat 1 ag 1 lla 1 V 0 1 3 a 1 r 1 tsÖ 3 ne 9 delåre 1 d 3 ö B S 8B 6 N 1 1 o 5 r 9 r A a T n o 5 r a g 8 g 1 t a 8 a ta 1 n g 4 2 2 A re 1 t 5 s ) 2 8 3 Ö B 1 3 4 ( 2 1 C B-A Sö 1 d 2 å 0 r 2 a n r D K T u e ngs a backa o d r t g 2 ö a g S a 1 g ta 4 n s 9 fo 1 1 5 i A t 1 irF B 1 6 (7 7 1 4 B ) - 6 G 6 1A A 8 n 7 ed 3 e 1 7 l 0 år 0 ed 1 ö n S a 8 tagret5s 4 1 ä 1 4V 5 9 Kyrk 6 skola 1 n 2 9-1 1 1 4 3 1 S 3 yreng (1 1 ) a 1 CC 6 1 t 1 8 7 a 3 42 2 n n 1 a 5 3 ta Sö g d 1r r a7 o To t rg S 1 g 9 a 6 t B 9 an 4 år 5 ed 5 ö 7 7 n S A-H a 2 6 B t 4 a A go 18 k 3 r 2 y 3 A A A K B 5 A Va 4C 9 r A B b -B 3 e 4 r 4 gs 2 v B3 ä 1 g 2 e 3 n K 1 N 1 yg u a 1 ta 1 n B n g 1 s B 1 b 13 2 n a C ata 2 c 1 gan k nam a tna å A L 6C n 71 15 A sakna 3 lB gninttorD 1 E2 A 6 2 B D2 8 2 2 5 6A åredöS 10 B7117 3 Nygatan 17C G Söd L ra N y ygatan i m n V d n a e r a b n s e s i 2 r e1 g 1 g g2 s a a vä t t a a g 1n e 4 3 n28 1 3 6 BAr4anä 2 s6 5a8l ( lé 2 3 0 2 )2 7 2 4 2 1 9 4 0 7 1 3 1 6 0 5 3 1 2 7 L 3 a 4 nt 1 m 8 an 1 n 3 2 9 a 6 0 gata 2 n 2 384 2 0 1 24 6 Teatergatan 19 9 2 8 natagskr 4 ev 3 tnaH6 K 8 ung 01 8 s -7 b 21 ackaå 41 n Verkstadsgatan Gymnasiega 3 ta 5 n 14 7 61 5)A5( 12 Sporthall 22 81 C Bn 5 5a0ta2gskrevtnaH2242 D5 4 62 E5 V Kungsbacka Sportcenter erk S st ö a d d r s a g 6 i a n t f a a n r 7 t 2 en 8 5 2 Länsförsäkringar Arena 10 Kungsbacka Sportcenter 12 03 7 Kungsbacka Sportcenter Kungsbacka Sportcenter 23 15 natagskrevtnaH43 63 1 n S eg m äA ö v6s r 1g h a å ln le IB v 6 ä 1 gen aksitkmaruPisanmyg 3 nedelsgalnI 5 negävelåhrömS9 nedelsgalnI 11 Södra infarten K51-A51 negävelåhrömS 02 regalelsnärB 12lartnecnnaP
+
+BEF. KUNGSBACKA STATION
 
 HEDE STATION
-NEDELÖLÖT
-DELRÄVT
-ÖLÖT
-BEF. KUNGSBACKA STATION
-NEGÄVSGREBRAV
-ÅREDÖS GÄV-CG
-NATAGSKREVTNAH
-NEDELSGALNI
-Bilaga   1
+
+p.stn.
+
+16
+
+11C
+
+14B
+
+14A
+
+11B
+
+15B
+
+151A3B
+
+11A
+
+8A
+
+131A1B
+
+11A
+
+8B
+
+9B
+
+10A
+
+79BA
+
+101B2A
+
+12B
+
+7A
+
+Lek
+
+Lek
+
+Lekplats
+
+Lek
+
+Lekplats
+
+50
+
+Trädäck
+
+36
+
+34
+
+32
+
+30
+
+250
+
+15
+
+Hede Fashion Outlet
+
+Hede
+
+stn.
+
+244
+
+240
+
+TÖLÖLEDEN
+
+80
+
+2
+
+4
+
+6
+
+2
+
+8
+
+Handel
+
+180
+
+Tält
+
+3
+
+1
+
+6
+
+8
+
+3
+
+7
+
+5
+
+16
+
+(6)
+
+4
+
+2
+
+3
+
+2
+
+4
+
+6
+
+1
+
+3
+
+5
+
+16
+
+Planerad rivn.
+
+2
+
+1
+
+3
+
+6
+
+Tält
+
+18
+
+2
+
+4
+
+6
+
+8
+
+Idrottshall
+
+4
+
+1D-G
+
+8
+
+1A-C
+
+6
+
+1A-G
+
+5
+
+7
+
+12
+
+2
+
+Ljud och Bildskolan
+
+46+A-C
+
+26
+
+44
+
+50
+
+Tölö äldreboende
+
+2
+
+4 6
+
+810
+
+1214
+
+1618
+
+22
+
+24
+
+46
+
+1
+
+2
+
+4 6
+
+810
+
+12
+
+1618
+
+20
+
+3
+
+10
+
+2
+
+Kraftvägen
+
+27
+
+25
+
+17
+
+13A-B
+
+1C
+
+Planerad rivn.
+
+13C
+
+1B
+
+1A
+
+13D
+
+11
+
+1D
+
+13B
+
+13E
+
+1E
+
+13A
+
+4
+
+2
+
+(23)
+
+1F
+
+1
+
+3
+
+4
+
+Planerad rivn.
+
+5
+
+3
+
+TÖLÖ TVÄRLED
+
+Tölö Tvärled
+
+Hälsogränden
+
+13
+
+1
+
+1
+
+Vitamingränden
+
+2
+
+14
+
+24
+
+47
+
+Kv.gård
+
+Signeshus förskola
+
+1
+
+3
+
+Lek
+
+Lek Kv.g.
+
+Lek
+
+Lek
+
+Lek
+
+Lindälvs IP
+
+3
+
+7
+
+4
+
+15
+
+10
+
+5
+
+12
+
+4
+
+6D-A
+
+10A
+
+10B
+
+12
+
+14
+
+11
+
+1
+
+3A-B
+
+7
+
+9
+
+4
+
+6
+
+8
+
+10
+
+27 G
+
+27 C
+
+C
+
+27 B
+
+B
+
+A
+
+27 A
+
+B
+
+C
+
+A
+
+22
+
+5F
+
+9A-B
+
+11
+
+1
+
+3
+
+Marknadsplatsen
+
+5
+
+8
+
+(3)
+
+6
+
+p
+
+4
+
+2
+
+3A-B
+
+2
+
+4 6A
+
+6B
+
+9
+
+11
+
+13D-A
+
+Korsgatan
+
+10
+
+Fyren
+
+2C
+
+Bibliotek
+
+Planerad rivn.
+
+Lek
+
+41
+
+45
+
+Ringgatan
+
+28
+
+30
+
+32
+
+37
+
+3
+
+1A
+
+3
+
+Korsgatan
+
+4
+
+4
+
+8
+
+12
+
+2
+
+4
+
+Badhus-
+
+2
+
+3
+
+platsen
+
+VARBERGSVÄGEN
+
+el
+
+torg
+
+SÖDERÅ
+
+5
+
+Beda
+
+Hallbergs
+
+GC-VÄG
+
+gymnasium
+
+Hamntorget
+
+4
+
+Lindens Torg
+
+gymnasium
+
+10A
+
+10B
+
+Polis
+
+8B
+
+10D
+
+10C
+
+21
+
+19
+
+15 13
+
+26
+
+24
+
+22
+
+20
+
+16 14 12
+
+Parkgatan
+
+27
+
+25
+
+23
+
+21
+
+15 13
+
+26
+
+24
+
+22
+
+16
+
+14 12
+
+42
+
+Teater
+
+HANTVERKSGATAN
+
+44
+
+Aranäsgymnasiet
+
+Lilla Hantverksg
+
+Läraregatan
+
+1 Kungsbacka Sportcenter
+
+19
+
+2
+
+Simhall
+
+Aranäshallen
+
+3
+
+2B
+
+Idrottshall
+
+4
+
+5
+
+6
+
+Pump-
+
+station
+
+6A
+
+Ishall
+
+1
+
+Lilla Verkstadsg
+
+2A
+
+8
+
+2
+
+4
+
+8
+
+7
+
+8A
+
+Ishall
+
+6
+
+Boulehall
+
+9
+
+10
+
+11
+
+11B
+
+12
+
+14
+
+22
+
+Förskola
+
+INLAGSLEDEN
+
+22
+
+H G
+
+K J
 
 <!-- sida 454 -->
 
@@ -13616,19 +14261,19 @@ Kommundirektör                     Samhällsbyggnadschef
 
 <!-- sida 471 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid,                                         Åsa
+
 Ansökan         om    planbesked           för  Stockalid        1:4
+
 2023-02-15
+
 (e-post borttagen) | semren-mansson.se
 
+© Semrén & Månsson 2023
+
 <!-- sida 472 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Välkommen             till  det    naturnära
 
@@ -13676,43 +14321,61 @@ Utvecklingsstrategi
 Ansökan om planbesked för Stockalid 1:4 lämnas in av Eksta Bostads AB.
 Kontaktperson Christer Kilersjö, VD Eksta Bostads AB.
 (e-post borttagen), (mobilnummer borttaget)
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 2 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 473 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Sammanfattning
 
-Analys   - Ett område    lämpligt                                                                        Utvecklingsstrategi     - Hållbart
-för bebyggelse                                                                                           boende   i skogen
+Analys   - Ett område    lämpligt
 
-\_  Ej bebyggelse på brukningsvärd
-\+ 240-260 bostäder
+för bebyggelse
+
+\_ Ej bebyggelse på brukningsvärd
 jordbruksmark
+
+\_ Bra geotekniska förhållanden
+
+\_ Bevara och stärka höga naturvärden
+
+\_ Strategiskt läge med närhet till Åsa station
+
+\_ Detaljplan för annan del av stamfastigheten
+i direkt anslutning har ansetts lämpliga har
+vunnit laga kraft.
+
+\_ Kompletterar pågående planer i Åsa
+
+Utvecklingsstrategi     - Hållbart
+
+boende    i skogen
+
+\+ 240-260 bostäder
 \+ Blandade beondeformer 40 % hyresrätter,
-\_  Bra geotekniska förhållanden
+
 60 % äganderätter/bostadsrätter varav 15
 självbyggerihus
-\_  Bevara och stärka höga naturvärden
+
 \+ Socialt blandat boende genom varierade
-\_  Strategiskt läge med närhet till Åsa station
 hustyper, prisbilder och bostadsstorlekar, 1ROK
-\_  Detaljplan för annan del av stamfastigheten                                                             - 6ROK
-i direkt anslutning har ansetts lämpliga har
+\- 6ROK
+
 \+ Komunal service t.ex. förskola
-vunnit laga kraft.
+
 \+ Bygga ut i två etapper
-\_  Kompletterar pågående planer i Åsa
+
 \+ Trygga blågröna gator anpassade efter gående
 och cyklister
+
 \+ Ekosystemtjänster och naturbaserade lösningar
 för bl.a. dagvattenhantering, biologisk mångfald
 och klimatanpassning
+
 \+ Bevara naturvärden såsom bäck i väster,
 våtmark i öster, höjder i söder och norr samt
 värdefulla träd
@@ -13724,48 +14387,39 @@ och ev. någon mindre verksamhet
 
 \+ Hållbart byggande genom trähus, solceller,
 energieffektivt, hus som anpassas efter naturen
-m.m.
 
+m.m.
 \+ Ett naturnära boende i skogen där det är enkelt
+
 att leva miljövänligt
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 3 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 474 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Analys
 
 4 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 475 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Projektområde
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-
 5 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 476 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Ett      expansivt             område            med        en     spännande                framtid
 
@@ -13827,15 +14481,13 @@ och har ansetts lämpligt trots att det inte ligger inom
 utvecklingsområdet ”inom utvecklingsorter” i ÖP.
 \+  En naturlig fortsatt utveckling av Stockalid 1:4 och 1:39
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 6 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 477 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Strategiskt               läge
 
@@ -13870,15 +14522,13 @@ och knutpunkter.
 10-15 min
 
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 7 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 478 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Hänsyn             och      värden
 
@@ -13920,15 +14570,13 @@ jordbruksmarker kan Stockalid 1:4 etapp 2 och 3
 istället bebyggas.
 
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 8 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 479 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Hänsyn             och      värden
 
@@ -13945,15 +14593,13 @@ SLUTSATS
 ljuset av jorddjupet och avsaknad av lera.
 
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 9 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 480 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Trafik
 
@@ -13976,7 +14622,8 @@ planarbetet för Stockalid 1:9
 
 Ö
 L
-KLÄPPAVÄGEN   Kläppa               M E
+KLÄPPAVÄGEN   Kläppa               M
+E
 V
 A
 L
@@ -13990,7 +14637,6 @@ N
 Åsa station
 FRÅN SÖDER MED NY VÄG SOM SAMORDNAS
 I PLANARBETET MED STOCKALID 1:9
-
 Buared
 Bilväg
 Bilväg ombyggd
@@ -14001,15 +14647,13 @@ GC planerad
 
 Hållplats
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 10 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 481 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Terrängförhållanden                            och       tillgänglighet
 
@@ -14031,15 +14675,13 @@ i attraktivt läge.
 +49,0
 
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 11 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 482 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Naturvärden                   &    ekosystemtjänster
 
@@ -14081,92 +14723,101 @@ skydd mot extremt väder, kunskap och inspiration, reglering av
 lokalt klimat och ekologiskt samspel. (Illustrationer: Boverket)
 
 N
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 12 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 483 -->
 
-Utvecklingsstrategi
-3202
-nossnåM
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+Utvecklingsstrategi
 
 13 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 484 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 14 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 485 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Illustrationsplan
+
+Gång- och cykelbana
+Entré väster
+En bred gång- och cykelbana
+Vägen västerut rustas upp i samband
+anläggs längs med hela den blåa
+med utvecklingen av området
+trädgårdsgatan
 
 Lokala mötesplatsen
 En mindre platsbildning framför
 förskolan med mycket grönska. Här
-finns plats för co-working,                      Norra höjden                                     N
-föreningsliv, kvällskurser och ev.               Kullen och naturen bevaras och ger
-någon mindre verksamhet. För-                    fina utsiktsmöjligheter. En stig upp
-Entré väster           Gång- och cykelbana skolans lokaler kan samnyttjas. En           anläggs.
-Vägen västerut rustas upp i samband En bred gång- och cykelbana liten matmarknad ställer ut här på
-med utvecklingen av området anläggs längs med hela den blåa helgerna.
-trädgårdsgatan
-Grön gårdsgata
-Här samsas gående, cyklister och
-Mobilitetshub       Förskola                   bilister på barnens villkor. Längs Naturslingan
-Odlingslotter     Längs trädgårdsgatan finns flera En förskola med 8 avdelningar med gatan finns plats för lek, En vandringstig runt hela området
-Nya odlingslotter som ger plats för mobilitetshubar med bil- och cykel- en förskolegård i skogssluttning dagvattenhantering och odling. anläggs.
+finns plats för co-working,
+föreningsliv, kvällskurser och ev.
+någon mindre verksamhet. För-
+skolans lokaler kan samnyttjas. En
+liten matmarknad ställer ut här på
+helgerna.
+
+Mobilitetshub       Förskola
+Odlingslotter     Längs trädgårdsgatan finns flera En förskola med 8 avdelningar med
+Nya odlingslotter som ger plats för mobilitetshubar med bil- och cykel- en förskolegård i skogssluttning
 odling och möten  pool, hyrlådcyklar och cykelgarage. bakom förskolan. Värdefulla träd
 Parkeringsplatserna förses med bevaras i största möjliga mån.
 skärmtak med solceller
-II  III  II   II   III III F LO Ö K R A S L KOLA / II FÖRSKOLEGÅRD I I I                I I  I  I I
+
+Norra höjden
+N
+Kullen och naturen bevaras och ger
+fina utsiktsmöjligheter. En stig upp
+anläggs.
+Grön gårdsgata
+Här samsas gående, cyklister och
+bilister på barnens villkor. Längs Naturslingan
+gatan finns plats för lek,         En vandringstig runt hela området
+dagvattenhantering och odling.     anläggs.
+
+II  III II   II    III III F LO Ö K R A S L KOLA / II FÖRSKOLEGÅRD I I I               I  I I  I I
 II
 Park & fruktlund
-II        II                     II       I   I
+II         II                     II      I    I
 I
-III           I                               II       II   I
-II                II
+III           I                              II        II   I
+II               II
 II     I                                     I
-8 p-platser                         I                II          I             I
-III      II          I   II      I        II  II   I       II
+8 p-platser                         I                 II         I              I
+III     II           I   II      I       II   II   I       II
 24 p-platser                                                              II                               I
-II      II       I    II    II                           II II
+II       II       I   II    II                            II
+II
 Ängen                                            I
-Regnpark med                                                             II                   II      I
-dagvattedamm                                         II              I                   II
+Regnpark med                                                            II                    II      I
+dagvattedamm                                         II             I                   II
 En park anläggs vid entrén med en Bäcken                        II    I              I
-dagvattendamm .              Det beftinliga vattendraget bevaras III       II         I    II
+dagvattendamm .              Det beftinliga vattendraget bevaras III      II          I    II
 12 p-platser                o va c t h t e r n es d t r a a u g r e e t r s a k s a . p E a n s 1s . 0t ipg-p llaätsnegrs med II II I II
 I       I
 II       I
 III
-8 p-platser        Blå trädgårdsgata             II  I                 I
+8 p-platser       Blå trädgårdsgata             II   I                 I
 Den blågröna trädgårdsgatan som
 I
-löper genom området har ett grönt    I       II
-stråk med regnrabatter, varierad                          Lekplats
-20 p-platser                          grönska, cykelbana och platser för     I       II
-10 p-platser               social interaktion. Med syftet att Skateboard & I                   Våtmark
-klimatsäkra området.                              I                 En befintlig våtmark bevaras.
-klättervägg    I                        Naturstigen passerar förbi här med
+löper genom området har ett grönt     I      II
+stråk med regnrabatter, varierad                           Lekplats
+20 p-platser                          grönska, cykelbana och platser för      I       II
+10 p-platser               social interaktion. Med syftet att Skateboard & I                    Våtmark
+klimatsäkra området.                               I                 En befintlig våtmark bevaras.
+klättervägg     I                        Naturstigen passerar förbi här med
 Odling                         hjälp av spänger.
 I
 Hinderbana & utegym
@@ -14184,15 +14835,17 @@ fina utsiktsmöjligheter. En stig upp
 anläggs. Forlämning bevaras. En
 grillplats och vindskydd med
 solcellstak byggs.
-SKALA 1:2500 0    50      100 m
-3202
-nossnåM
-& nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+SKALA 1:2500 0    50     100 m
 15 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 486 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+Koncept             struktur
 
 1\. Central blå trädgårdsgata som slingrar sig upp
 
@@ -14205,38 +14858,33 @@ för sluttningen
 runt området
 
 4\. Platsbildningar som skapar mötesplatser
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-Koncept             struktur
 
 16 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 487 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Generella              gestaltningsprinciper
+
 Bykaraktär
+
 \+  Bykaraktär skapas genom att bebyggelsen ligger nära gaturummet, det
 ger även tydliga publika och privata sidor.
 \+  Låga hus men hög densitet.
 \+  Attraktiva och trivsamma miljöer.
+
 Byggnadshöjder   och varierade tak
+
 \+  Varierade höjder i 1-3 våningar.
 \+  Småskalighet.
 \+  Stor variation av sadeltak, platta tak, gröna tak och solceller finns i
 området.
+
 Slingrande  gator
+
 \+  En blå trädgårdsgata, som slingrar sig igenom området och uppför
 backen, anpassas efter terrängen för att minska schaktarbeten och
 minimera den negativa effekten på värdefull natur.
@@ -14245,19 +14893,25 @@ vändplan.
 \+  Begränsad genomfartstrafik som skapar trafiklugn.
 \+  Bystruktur.
 \+  Skapar en naturlig pittoresk miljö.
+
 Träarkitektur och naturnära färgskala
+
 \+  Naturliga material som trä används framförallt.
 \+  Naturnära färgskala.
 \+  Omsorg om gestaltning och material.
 \+  Hög detaljrikedom kring entréer, staket, murar och träpaneler.
+
 Samlingsplatser
+
 \+  Omsorg kring samlingsplatser i hela området.
 \+  Kring platsbildningen framför förskolan finns Co-workingytor och
 föreningslokaler, här finns också plats för en liten lokal matmarknad på
 helgerna.
 \+  Förskola för både boende inom och utanför området. Lokaler i
 förskolan kan också användas av unga och vuxna för t.ex. kvällskurser.
+
 Hållbarhet
+
 \+  Stor vikt läggs på klimatanpassning med blågröna lösningar, t.ex.
 dagvattendamm, blågrönt stråk i trädgårdsgatan, bevarande av bäck,
 regnträdgårdar och en befintlig våtmark.
@@ -14268,44 +14922,36 @@ värdefulla träd samt bäck.
 och hus på styltor.
 17 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 488 -->
 
-HUB
-HUB
-P
-HUB
-ENTRÉ VÄSTER
-HUB
-HUB
-
-P
-HUB
-
-ENTRÉ SÖDER                            NATURSLINGA
-
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Stråk,         entréer          och      mobilitetslösningar
+
 Stråk
+
 \+ Huvudgatan - Blå trädgårdsgata.
 \+ Gröna gårdsgator.
 \+ En naturslinga runt området som kopplar ihop gårdsgatorna.
 \+ Trafiksäkra stråk som tar hänsyn till barn - detta görs genom
 cykelbana längs huvudgatan och att de andra gatorna
-utformas som gårdsgator.
+HUB                                                                                            utformas som gårdsgator.
+HUB
+P
 Välkomnande   entréer
+HUB
+ENTRÉ VÄSTER
 \+ Omsorgsfull och inbjudande utformning.
-\+ Omhändertagen bjuda in till gemenskap över gränserna.
+HUB                                        + Omhändertagen bjuda in till gemenskap över gränserna.
+HUB
 Mobilitetslösningar
+P
+HUB
 För att skapa ett hållbart resande för de boende i området
 kommer flertalet mobilitetslösningar utförs, t.ex. några av dessa:
-\+ Bygga närservice inom området såsom förskola, rekreation,
+ENTRÉ SÖDER                            NATURSLINGA                   + Bygga närservice inom området såsom förskola, rekreation,
 träning.
 \+ Kostnadsfritt kollektivtrafikkort 30 dagar för nyinflyttade.
 \+ Samla parkeringar vilket gör det mer attraktivt att ta cykel och
@@ -14319,14 +14965,22 @@ eller att gå i första hand.
 \+ Trygga, säkra och breda cykelbanor - en ny cykelbana byggs
 längs hela den blåa trädgårdsgatan.
 Mobilitetshub & parkeringar
+
 \+ Mobilitetshubar med bil- och cykelpooler ligger utspridda
 nära bostaden. De ligger i korsningarna mellan bygatan och
 gårdsgatorna.
 \+ Här finns väderskyddade parkeringar med laddstolpar.
 \+ Väderskyddade parkeringsplatser förses med soceller.
+
 18 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 489 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+Gatutyper
 
 FÖR-      GÅNG   CYKELBANA        GRÖNT STRÅK             BIL           TRÄD /    GÅNG  FÖRTRÄDGÅRD
 TRÄDGÅRD                          GÅNG & LEK                            PARKERING
@@ -14335,13 +14989,6 @@ TRÄD & BUSKAR
 2.0     2.0      2.5              6.0                   5.5             2.5      2.0      3.0
 
 25.5
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-Gatutyper
 
 SKALA 1:100
 Bygatan  del 1 (vid flackare partier)
@@ -14349,16 +14996,12 @@ Bygatan  del 1 (vid flackare partier)
 
 19 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 490 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Gatutyper
 
 NATUR / SLÄNT   DAGVATTEN- GÅNG CYKELBANA TRÄD        BIL         TRÄD  GÅNG    FÖRTRÄDGÅRD
@@ -14374,16 +15017,12 @@ Bygatan  del 2 (vid brantare partier)
 
 20 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 491 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Gatutyper
 
 FÖR-   REGNTRÄDGÅRD SHARED SPACE ODLING/TRÄD FÖR-
@@ -14399,7 +15038,11 @@ Gårdsgatan
 
 21 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 492 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Grönstruktur
 
@@ -14467,46 +15110,34 @@ Stig & naturslinga
 Rekreation & naturvärden
 Grönstruktur biologisk mångfald
 Vattendrag
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 22 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 493 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Naturslingan
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 Naturslingan
 
 Ängen
 
 23 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 494 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Gröna          gator
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 Grön gårdsgata
+
 Park
+
 Entré söder
 
 Blå trädgårdsgata
@@ -14515,7 +15146,11 @@ Entré väster
 
 24 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 495 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Dagvatten-                och      skyfallshantering
 
@@ -14550,15 +15185,14 @@ Dagvattendamm
 Dessa blågröna lösningarna reglerar
 
 vattnet ner mot Bergobäcken
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 25 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 496 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Blandat            boende           och      gott      grannskap
 
@@ -14573,17 +15207,21 @@ området i olika skeden i livet och för olika socioekonomiska
 grupper. Allt från ungdomar, familjer till seniorer.
 \+  Stor variation av bostadsstorlekar från ytsmarta 1ROK till
 generösa 6ROK.
+VILLOR
 \+  Varierade prisbilder inkl prisrimliga bostäder
-\+  Genomtänkt planerade och yteffektiva bostäder.
+PARHUS                                                                                            +  Genomtänkt planerade och yteffektiva bostäder.
 \+  Stora balkonger och terrasser.
-
+SJÄLVBYGGERIHUS
 \+  Ekonomiska modeller för att fördela och skapa billigare
-bostäder kan utvärderas och eventuellt föreslås, t.ex. genom
+FYRABOSHUS                                                                                           bostäder kan utvärderas och eventuellt föreslås, t.ex. genom
 modeller som hyrköp modellen (koncept från Riksbyggen) eller
+RADHUS
 sociala kontrakt.
+SMÅLÄGENHETER
 \+  Planen lämnar också möjlighet för inslag av vård- och
 omsorgsboende eller LSS-boende vid behov.
-
+TRESPÄNNARE
+FÖRSKOLA
 Grannskap   kring den gröna gårdsgatan
 \+  Genom varierande bostadstyper kring trygga och gröna
 gårdsgator finns förutsättningar för gott grannskap.
@@ -14591,30 +15229,19 @@ gårdsgator finns förutsättningar för gott grannskap.
 mötesplatser såsom lekplats, klättervägg och sittplatser.
 \+  Människor med olika socioekomiska förutsättningar kan
 mötas i grannskapet.
-
 Förskola, co-workingyta och föreningslokal
 \+  Kommunal service t.ex. en förskola.
 \+  Co-workingyta och föreningslokal finns vid bytorget.
 \+  Vid den lokala mötesplatsen vid förskolan finns också plats
 för lokal matmarknad på helgerna.
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-VILLOR
-PARHUS
-SJÄLVBYGGERIHUS
-FYRABOSHUS
-RADHUS
-SMÅLÄGENHETER
-TRESPÄNNARE
-FÖRSKOLA
 
 26 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 497 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Arkitektur               &    gestaltning               -  byggnader               i  naturen
 
@@ -14654,292 +15281,237 @@ parkeringsplatser och mobilitetshubar och på
 vindskyddet/grillplatsen på höjden i söder.
 
 Färgpalett - Skogsnära kulörer
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 27 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 498 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Gestaltningsprinciper                             byggnadstyper
 
-Trespännare                    Smålägenheter                 Stadsradhus  & radhus          Fyrbohus  & parhus            Villor & självbyggerihus
+TRE-SPÄNNARE     TRE-SPÄNNARE
+LOFTGÅNGSHUS     LOFTGÅNGSHUS
+Trespännare                    Smålägenheter                 Stadsradhus  & radhu3s VÅNINGAR Fyrbohu3 VsÅN I&NGA Rparhus  Villor & självbyggerihus
+3 VÅNINGAR       3 VÅNINGAR
+RADHUS           RADHUS
 
-Hyresrätter & äganderätter     Hyresrätter                   Äganderätter & hyresrätter     Äganderätter & hyresrätter    Äganderätter
-TRE-SPÄNNARE
+RADHUS 2 VÅNINGAR 5 ST RADHUS 2 VÅNINGAR 5 ST RADHUS 2 VÅNINGAR 3 ST RADHUS 2 VÅNINGAR 3 ST
+32.5             32.5     19.6             19.6            33.6              33.6
+20.0              20.0 6.6 6.4 6.4 6.4 6.66.6 6.4 6.4 6. 6 4 .6 6. 6 6 .4 6.6 6.6 6.4 6.6 5.8 5.5 5.5 5.5 5.5 55.8.8 5.5 5.5 5.5 5.5 5.8
 
-RADHUS
+TRE-SPÄNNARE               TRE-SPÄNNARE
+LOFTGÅNGSHUS               LOFTGÅNGSHUS
+3 VÅNINGAR                3 VÅNINGAR
+3 VÅNINGAR                 3 VÅNINGAR
+RADHUS                    RADHUS
 
-VILLOR
-SJÄLVBYGGERI-VILLA
-VILLA 1       VILLA 2
-FYRBOHUS               PARHUS
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-
-3.41
-12.0
-0.9
-8.0
-0.31
-7.0  7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0               6.6 6.4                       6.6
-8.01
-32.5                      19.6 6.4 6.4 6.6
-2.11
-9.4
+TRE-SPÄNNARE Hyresrätter & äganderätter Hyresrätter                 Äganderätter & hyresrätter     Äganderätter & hyresrätter    Äganderätter
+TRE-SPÄNNARETRE-SPÄNNARE
 LOFTGÅNGSHUS
-33.6
-9.41
+3 VÅNINGAR    3 VÅNINGAR 3 VÅNINGAR   3 VÅNINGAR                                 RADHUS 2 VÅNINGAR 5 ST LOFTGÅNGSHULSOFTGÅ R N A G DH S U H SR U 2A DV S HÅUNSIN 2G VAÅRN 5I NSGTAR 3 ST RAVDIHLULS O2 VRÅNINGAR 3 ST VILLOR SJÄLVBYGGERI-VILLA SJÄLVBYGGERI-VILLA
+32.5 3 VÅNINGAR 3 VÅNINGAR 19.362.5            VILLA 1 19.6 33.6 VILLA 2VILLA 1 VILLA 2 33.6
+RADHUS                                                         20.0                6.6 6.4 20.0 6.4 6.4 6.6  6.6 6.66.4 6.46.4 6.66.4 6.6 SUT 6. E 6 RRÄN 5.8 G 6.4 5.5 6.6 5.5 1 5. , 5 5 VÅNSIN 5 U . G 5 TAERRRÄN 5 G .8 1,5 VÅ 5 N .81IN,5G VAÅRN5.I5NGAR5.5 5.5 5.51,5 VÅ5N.8INGAR
+RADHUS   RADHUS                                    FYRBOHUS          FYRBOHUSPARHUS         PARHUS
+2 VÅNINGAR       2 VÅNINGAR 2 VÅNINGAR  2 VÅNINGAR
+RADHUS 2 VÅNINGAR 5 ST RADHUS 2 VÅNINGAR 3 ST
+RADHUS 2 VÅNINGAR R5A SDTHUS 2 VÅNINGAR 5 ST RADHUS 2 VÅNINGAR R3A SDTHUS 2 VÅNINGAR 3 ST
+20.0 6.6 6.4 3 6 2 . . 4 5 6.4 6.6 6.6 1 6 9 . . 4 6 20.0 6.6 20.0 6.6 5.86.4 5.5 3 6 2 . . 46 5 .65.5 33. 6 6 .465.4.5 6.5 3 66. 2 5. . 4 5 5.86.4 6.6 6.6 1 6 9 . . 4 6 6.66.6 1 6 9 . . 4 6 6.6 19.5 5.8 5.5 5.5 3 5 3 . . 8 6 5.5 5.5195.5.5 7 5 . . 0 5 3 5 3 .8 .6 5.5 7.0 5.5 5.8 7.0 7.0 6.8 6.8 8.0 8.0
+12.0             12.0
+
 TRE-SPÄNNARE
-RADHUS
-3 VÅNINGAR                                                                                                                                   VILLOR                      SJÄLVBYGGERI-VILLA
-3 VÅNINGAR                                                   VILLA 1       VILLA 2
-FYRBOHUS               PARHUS
-5.8 5.5 5.5 5.5 5.5 5.8
-SUTERRÄNG     1,5 VÅNINGAR   1,5 VÅNINGAR
-2 VÅNINGAR              2 VÅNINGAR
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
-12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0               6.6 6.4                       6.6
-8.01
-32.5                      19.6
-6.4 6.4 6.6
-2.11
-9.4
 LOFTGÅNGSHUS
-33.6
-9.41
-3 VÅNINGAR
-3 VÅNINGAR
-5.8 5.5 5.5 5.5 5.5 5.8
-TRE-SPÄNNARE
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR RADHUS
-2 VÅNINGAR             2 VÅNINGAR
+3 VÅNINGAR                                                 VILLOR                     VIL S L J O Ä R LVBYGGERI-VILLA SJÄLVBYGGERI-VILLA
+VILLA 1       VILLA 2 3 VÅNINGAR VILLA 1 VILLA 2                       800 m2           800 m2
+SUTERRÄNG     1,5 VÅNINGAR SUTE1R,5R VÄÅNNGINGAR 1,5 VÅNINGAR 1,5 VÅNINGAR
+FYRBOHUS      RADHUS    PARHFUYSRBOHUS             PARHUS
+2 VÅNINGAR              2 VÅNIN2G VAÅRNINGAR       2 VÅNINGAR
 VILLOR
-SJÄLVBYGGERI-VILLA
+SJÄLVBYGGERI-VILLA          VILLOR  RAVDHILULS O2 VRÅNINGAR 5 ST  RADHUS 2 VÅNINGAR 3 ST
+SJÄLVBYGGERSI-JVÄILLLVABYGGERI-VILLA
 VILLA 1       VILLA 2
+SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR      20.0      1S9 V .U I 5 L T L E A R 1 RÄNG S V U IL 6 T L . E 6 A R 1 RÄNG 6 V 1 .4 , I 5 L L V A Å 2 NIN 3 6 2 G . . 4 5 AR 7.0 6.4 V 1, I 5 L 7 L . V 0 A Å 2 N 6 IN1.69G.5AR1,5 VÅNINGAR 1,5 VÅN6.6INGAR 1 6 9 . . 4 6 6.8 7.0 6.6 7.0 5.8 6. 5 8 .5 58..50 33.6 5.5 5.5 5.8 8.0
 FYRBOHUS PARHUS
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
-12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0 6.6 6.4 6.6
-8.01
-32.5             19.6 6.4 6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-3 VÅNINGAR                            3 VÅNINGAR
-5.8 5.5 5.5 5.5 5.5 5.8
-TRE-SPÄNNARE
-RADHUS
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
+FYRBOHUS FYRBOHUS      PARHUS   PARHUS                                                                        12.0                      12.0
 2 VÅNINGAR 2 VÅNINGAR
-VILLOR
-SJÄLVBYGGERI-VILLA
-VILLA 1       VILLA 2
+2 VÅNINGAR 2 VÅNINGAR   2 VÅNINGAR 2 VÅNINGAR
+19.5 7.0 7.0 6.8   19.5     19.5       78..00 7.0 7.0 7.0        6.8      6.8                   8.0     8.0                                        800 m2                     800 m2
+12.0
+12.0     12.0
+VILLOR                                                 28 / 34
+800 m2                                                                        SJÄLVBYGGERI-VILLA
+VILLA 1 800 m2 VIL8L0A0 m22
+SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
 FYRBOHUS               PARHUS
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8
-19.5
-3.41
-12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0                6.6 6.4                       6.6
-8.01
-32.5                      19.6 6.4 6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-TRE-SPÄNNARE
-RADHUS
-3 VÅNINGAR
-3 VÅNINGAR
-VILLOR
-SJÄLVBYGGERI-VILLA
-VILLA 1       VILLA 2                                       5.8 5.5 5.5 5.5 5.5 5.8
-FYRBOHUS               PARHUS
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
 2 VÅNINGAR             2 VÅNINGAR
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
+
+7.0 7.0                   6.8
+19.5                                                                        8.0
 12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
+
 800 m2
-0.21
-20.0                6.6 6.4                       6.6
-8.01
-32.5                      19.6 6.4 6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-TRE-SPÄNNARE
-RADHUS
-3 VÅNINGAR
-3 VÅNINGAR
-5.8 5.5 5.5 5.5 5.5 5.8
-VILLOR                      SJÄLVBYGGERI-VILLA
-VILLA 1      VILLA 2
-FYRBOHUS                PARHUS
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
-2 VÅNINGAR             2 VÅNINGAR
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
+
+11.2
+
 12.0
-0.9
-8.0
-0.31
-7.0  7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0               6.6 6.4                       6.6
-8.01
-32.5                      19.6
-6.4  6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-TRE-SPÄNNARE
-3 VÅNINGAR
-3 VÅNINGAR
-RADHUS
-5.8 5.5 5.5 5.5 5.5 5.8
-VILLOR                      SJÄLVBYGGERI-VILLA
-VILLA 1       VILLA 2
-SUTERRÄNG      1,5 VÅNINGAR  1,5 VÅNINGAR
-FYRBOHUS                PARHUS
-2 VÅNINGAR              2 VÅNINGAR
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
+
+10.8
+
+© Semrén & Månsson 2023
+
+10.8
+
+4.9
+
+14.3
+
+10.8
+
+11.2
+
 12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0                6.6 6.4                      6.6
-8.01
-32.5                     19.6
-6.4 6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-TRE-SPÄNNARE
-RADHUS
-3 VÅNINGAR
-3 VÅNINGAR
-VILLOR                      SJÄLVBYGGERI-VILLA
-VILLA 1       VILLA 2
-5.8 5.5 5.5 5.5 5.5 5.8
-FYRBOHUS                PARHUS
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
-2 VÅNINGAR              2 VÅNINGAR
-8.01
-RADHUS 2 VÅNINGAR 5 ST
-6.4 6.6
-6.8 19.5
-3.41
+
+9.0
+
+11.2
+
 12.0
-0.9
-8.0
-0.31
-7.0 7.0
-8.01
-RADHUS 2 VÅNINGAR 3 ST
-800 m2
-0.21
-20.0                6.6 6.4                       6.6
-8.01
-32.5                      19.6
-6.4 6.4 6.6
-2.11
-9.4
-LOFTGÅNGSHUS
-33.6
-9.41
-3 VÅNINGAR
-3 VÅNINGAR
-5.8 5.5 5.5 5.5 5.5 5.8
-SUTERRÄNG     1,5 VÅNINGAR  1,5 VÅNINGAR
-2 VÅNINGAR             2 VÅNINGAR
-3202
-nossnåM
-& nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-28 / 34
+
+13.0
+
+10.8
+
+10.8
+
+10.8
+
+11.2
+
+12.0
+
+14.9
+
+4.9
+
+14.3
+
+10.8
+
+11.2
+
+12.0
+
+4.9
+
+14.3
+
+10.8
+
+10.8
+
+9.0
+
+10.8
+
+10.8
+
+9.0
+
+10.8
+
+11.2
+
+12.0
+
+4.9
+
+13.0
+
+12.0
+
+14.3
+
+11.2
+
+10.8
+
+13.0
+
+4.9
+
+14.3
+
+10.8
+
+9.0
+
+10.8
+
+12.0
+
+1141..92
+
+10.8
+
+10.8
+
+9.0
+
+14.9
+
+10.8
+
+13.0
+
+10.8
+
+4.9
+
+14.3
+
+10.8
+
+4.9
+
+14.3
+
+13.0
+
+10.8
+
+10.8
+
+14.9
+
+9.0
+
+10.8
+
+4.99.0
+
+14.3
+
+14.9
+
+13.0
+
+10.8
+
+9.013.0
+
+14.9
+
+13.0
+
+14.9
+
+14.9
 
 <!-- sida 499 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Hållbart             boende           i  skogen
 
@@ -14989,49 +15561,51 @@ cykel- och bilpooler, co-working lokal vid bytorget,
 minska antal parkeringsplatser, bra cykelbanor och
 skapa förutsättningar för samåkning.
 \+  Se mer under ”Stråk, entréer och mobilitetslösningar”.
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 29 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 500 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Gröna          platser
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 Våtmarken
 Norra höjden                                          + Fågeltorn
+
 \+  Utsikt                                           + Spänger
+
 \+ Sittplatser
 Lekplats                             + Picnic
 Lokal mötesplats
 \+  Förskola
+
 \+  Gårdsförsäljning              Fruktlunden
 \+  Föreningslokal               + Fruktträd
+
 \+  Co-workingyta                + Odling
+
 Södra höjden
 Skateboard &
 \+ Utsikt
 klättervägg
 Rekreation
+
 \+ Utegym
 \+ Terrängbana
+
 Ängen                       + Hinderbana
 \+  Odlingslotter
 
 30 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 501 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
 
 Sektioner
 
@@ -15050,15 +15624,16 @@ Radhus
 Stockalid 1:4 (Pågående arbete)
 
 BLÅ TRÄDGÅRDSGATA        GÅRDSGATA
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 31 / 34
 
+© Semrén & Månsson 2023
+
 <!-- sida 502 -->
+
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+Etapper            &    ytor
 
 Etapp 2
 
@@ -15084,7 +15659,8 @@ I                     II
 II         I II         II  II    I                             Fyrbohus         1 st    4 st  6%     400 m2
 II  I          I                                         Parhus          11 st   22 st  31%   2 200 m2
 12 p-platser             10 p-platser  III       II II  II  I I II II                                Radhus          20 st   20 st  28%   2 800 m2
-I    I II I                            Villor          17 st   17 st  24%   2 040 m2
+I    I
+II    I                                     Villor          17 st   17 st  24%   2 040 m2
 III
 8 p-platser                      II  I           I                                   Självbyggerihus  9 st    9 st  13%   1 800 m2
 I
@@ -15108,67 +15684,83 @@ Självbyggerihus 15 st   15 st  6%    3 000 m2
 Förskola         1 st                1 800 m2
 Lokaler          3 st                 150 m2
                                
-3202 nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
-Etapper            &    ytor
 32 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 503 -->
 
+Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Illustrationsplan
+
+Gång- och cykelbana
+Entré väster
+En bred gång- och cykelbana
+Vägen västerut rustas upp i samband
+anläggs längs med hela den blåa
+med utvecklingen av området
+trädgårdsgatan
 
 Lokala mötesplatsen
 En mindre platsbildning framför
 förskolan med mycket grönska. Här
-finns plats för co-working,                      Norra höjden                                     N
-föreningsliv, kvällskurser och ev.               Kullen och naturen bevaras och ger
-någon mindre verksamhet. För-                    fina utsiktsmöjligheter. En stig upp
-Entré väster           Gång- och cykelbana skolans lokaler kan samnyttjas. En           anläggs.
-Vägen västerut rustas upp i samband En bred gång- och cykelbana liten matmarknad ställer ut här på
-med utvecklingen av området anläggs längs med hela den blåa helgerna.
-trädgårdsgatan
-Grön gårdsgata
-Här samsas gående, cyklister och
-Mobilitetshub       Förskola                   bilister på barnens villkor. Längs Naturslingan
-Odlingslotter     Längs trädgårdsgatan finns flera En förskola med 8 avdelningar med gatan finns plats för lek, En vandringstig runt hela området
-Nya odlingslotter som ger plats för mobilitetshubar med bil- och cykel- en förskolegård i skogssluttning dagvattenhantering och odling. anläggs.
+finns plats för co-working,
+föreningsliv, kvällskurser och ev.
+någon mindre verksamhet. För-
+skolans lokaler kan samnyttjas. En
+liten matmarknad ställer ut här på
+helgerna.
+
+Mobilitetshub       Förskola
+Odlingslotter     Längs trädgårdsgatan finns flera En förskola med 8 avdelningar med
+Nya odlingslotter som ger plats för mobilitetshubar med bil- och cykel- en förskolegård i skogssluttning
 odling och möten  pool, hyrlådcyklar och cykelgarage. bakom förskolan. Värdefulla träd
 Parkeringsplatserna förses med bevaras i största möjliga mån.
 skärmtak med solceller
-II  III  II   II   III III F LO Ö K R A S L KOLA / II FÖRSKOLEGÅRD I I I                I I  I  I I
+
+Norra höjden
+N
+Kullen och naturen bevaras och ger
+fina utsiktsmöjligheter. En stig upp
+anläggs.
+Grön gårdsgata
+Här samsas gående, cyklister och
+bilister på barnens villkor. Längs Naturslingan
+gatan finns plats för lek,         En vandringstig runt hela området
+dagvattenhantering och odling.     anläggs.
+
+II  III II   II    III III F LO Ö K R A S L KOLA / II FÖRSKOLEGÅRD I I I               I  I I  I I
 II
 Park & fruktlund
-II        II                     II       I   I
+II         II                     II      I    I
 I
-III            I                              II       II   I
-II                II
+III           I                              II        II   I
+II               II
 II     I                                     I
-8 p-platser                         I                II          I             I
-III      II          I   II      I        II  II   I       II
+8 p-platser                         I                 II         I              I
+III     II           I   II      I       II   II   I       II
 24 p-platser                                                              II                               I
-II      II       I    II    II                           II
+II       II       I   II    II                            II
 II
 Ängen                                            I
-Regnpark med                                                             II                   II      I
-dagvattedamm                                         II              I                   II
+Regnpark med                                                            II                    II      I
+dagvattedamm                                         II             I                   II
 En park anläggs vid entrén med en Bäcken                        II    I              I
-dagvattendamm .              Det beftinliga vattendraget bevaras III       II         I    II
+dagvattendamm .              Det beftinliga vattendraget bevaras III      II          I    II
 12 p-platser                o va c t h t e r n es d t r a a u g r e e t r s a k s a . p E a n s 1s . 0t ipg-p llaätsnegrs med II II I II
 I       I
 II       I
 III
-8 p-platser        Blå trädgårdsgata             II  I                 I
+8 p-platser       Blå trädgårdsgata             II   I                 I
 Den blågröna trädgårdsgatan som
 I
-löper genom området har ett grönt    I       II
-stråk med regnrabatter, varierad                          Lekplats
-20 p-platser                          grönska, cykelbana och platser för     I       II
-10 p-platser               social interaktion. Med syftet att Skateboard & I                   Våtmark
-klimatsäkra området.                              I                 En befintlig våtmark bevaras.
-klättervägg    I                        Naturstigen passerar förbi här med
+löper genom området har ett grönt     I      II
+stråk med regnrabatter, varierad                           Lekplats
+20 p-platser                          grönska, cykelbana och platser för      I       II
+10 p-platser               social interaktion. Med syftet att Skateboard & I                    Våtmark
+klimatsäkra området.                               I                 En befintlig våtmark bevaras.
+klättervägg     I                        Naturstigen passerar förbi här med
 Odling                         hjälp av spänger.
 I
 Hinderbana & utegym
@@ -15186,30 +15778,23 @@ fina utsiktsmöjligheter. En stig upp
 anläggs. Forlämning bevaras. En
 grillplats och vindskydd med
 solcellstak byggs.
-SKALA 1:2500 0    50      100 m
-3202
-nossnåM
-&
-nérmeS
-©
-Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
+SKALA 1:2500 0    50     100 m
 33 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 504 -->
 
-3202
-nossnåM
-
-&
-nérmeS
-
-©
 Stockalid, Åsa - Ansökan om planbesked för Stockalid 1:4 2023-02-15
+
 Stockalid          -  Hållbart          boende         i  skogen
 
 TACK!
 
 34 / 34
+
+© Semrén & Månsson 2023
 
 <!-- sida 505 -->
 
@@ -15767,27 +16352,39 @@ SPORT
 SKOLA
 VALLBYN
 
-VALLBY          7:12      -  IDÉ     &    VISION
+VALLBY          7:12      -  IDÉ      &   VISION
 
-Derome önskar tillsammans med ägarna till Vi har tagit fram ett förslag med 14 villatomter, 26 kedje-
-Kungsbacka Vallby 7:12 ansöka om planbesked för del hus och 36 lägenheter, totalt 76 bostäder. Vi vet att det finns
-av fastigheten.                   mycket stort intresse för allt ifrån småhus till lägenheter i detta
-läge och vi ser att både barnfamiljer och bostadsminskarna är
-Området är utpekat som centrumnära utvecklingsområde en naturlig målgrupp.
-för ny bebyggelse i Fjärås. Här vill vi skapa ett nytt område Denna bebyggelse blir ett bra komplement till det som
-med lägenheter, villor samt grupphus på mindre tomter. byggs i orten i övrigt. Deromes pågående utbyggnadsområde
-Området har idag dålig arrondering som jordbruksmark Må/Vallbyn i Fjärås sydvästra delar är mycket populärt och
-och ligger mellan två befintliga bostadsområden på nära kommer inom en snar framtid att vara helt utbyggt. Därav ser
-avstånd till Fjärås centrum. Goda möjligheter finns att knyta vi en vikt av att påbörja nästa etapp i Fjärås med bostäder så
-an området till befintlig bebyggelse och till den angränsande att orten fortsatt kan utvecklas kontinuerligt.
+Derome önskar tillsammans med ägarna till
+Kungsbacka Vallby 7:12 ansöka om planbesked för del
+av fastigheten.
+
+Området är utpekat som centrumnära utvecklingsområde
+för ny bebyggelse i Fjärås. Här vill vi skapa ett nytt område
+med lägenheter, villor samt grupphus på mindre tomter.
+Området har idag dålig arrondering som jordbruksmark
+och ligger mellan två befintliga bostadsområden på nära
+avstånd till Fjärås centrum. Goda möjligheter finns att knyta
+an området till befintlig bebyggelse och till den angränsande
 naturen i norr.
+
+Vi har tagit fram ett förslag med 14 villatomter, 26 kedje-
+hus och 36 lägenheter, totalt 76 bostäder. Vi vet att det finns
+mycket stort intresse för allt ifrån småhus till lägenheter i detta
+läge och vi ser att både barnfamiljer och bostadsminskarna är
+en naturlig målgrupp.
+Denna bebyggelse blir ett bra komplement till det som
+byggs i orten i övrigt. Deromes pågående utbyggnadsområde
+Må/Vallbyn i Fjärås sydvästra delar är mycket populärt och
+kommer inom en snar framtid att vara helt utbyggt. Därav ser
+vi en vikt av att påbörja nästa etapp i Fjärås med bostäder så
+att orten fortsatt kan utvecklas kontinuerligt.
 
 Förfrågan
 
 Derome ansöker med detta om planbesked för att kunna genomföra ett projekt tillsammans
 med kommunen med inriktning enligt ovan.
 
-Ärendenummer: #59584 | Datum: 2023-02-24 12:31                         Bilaga 2 sida 3 av 6
+Ärendenummer: #59584 | Datum: 2023-02-24 12:31                          Bilaga 2 sida 3 av 6
 
 <!-- sida 519 -->
 
@@ -15909,21 +16506,23 @@ Göteborg, Malmö, Borås och Lund.
 
 <!-- sida 521 -->
 
-REFERENSOBJEKT                                                                                              REFERENSOBJEKT
-ÄNGALYCKAN,      VARBERG                                                                                    VALLBYN,   FJÄRÅS
+REFERENSOBJEKT
+ÄNGALYCKAN,     VARBERG
 
-Kvarteret Ängalyckan är en del i barnvänliga området Pilgläntan i Var-                                      I Vallbyn samsas villor, kedjehus, bostadsrätter, hyresrätter och
-berg, här har vi skapat ett område med både enhetlighet och naturlig                                        seniorboende
+Kvarteret Ängalyckan är en del i barnvänliga området Pilgläntan i Var-
+berg, här har vi skapat ett område med både enhetlighet och naturlig
 variation.
-I småstadsidyllen Fjärås strax utanför Kungsbacka finns den perfekta balansen
-Strax norr om Varberg ligger Trönninge - ett lugnt och barnvänligt samhäl-                                mellan skog, hav, sjö och närhet till storstad. I denna lantliga miljö byggs Vallbyn,
-le omgivet av gröna ängar och skogar. Här bygger vi området Pilgläntan, ett                                 ett modernt bostadsområde med plats för alla generationer. I områdets yttre delar
-bostadsområde med nyckelfärdiga kedjehus, bostadsrätter, villor, hyresrätter                                byggs friliggande villor i olika utföranden och storlekar.
+
+Strax norr om Varberg ligger Trönninge - ett lugnt och barnvänligt samhäl-
+le omgivet av gröna ängar och skogar. Här bygger vi området Pilgläntan, ett
+bostadsområde med nyckelfärdiga kedjehus, bostadsrätter, villor, hyresrätter
 samt två förskolor. Vi har i nuläget färdigställt ca 150 bostäder och när området
 är klart kommer det finnas ca 370 bostäder här.
 
+Ärendenummer: #59584 | Datum: 2023-02-24 12:31
+
 REFERENSOBJEKT
-ROSENAPELN,    VARBERG
+ROSENAPELN,     VARBERG
 
 I brf Rosenapeln ansluter husen till terrängen i suterrängflerbostadshus.
 
@@ -15934,7 +16533,18 @@ finnas cirka 280 nya hem i den nya Trädgårdsstaden. Träslövs Trädgårdsstad
 ett unikt läge, med naturen inpå knuten och på cykelavstånd till Varbergs hela
 utbud av handel, torgliv, mat- och kulturupplevelser.
 
-Ärendenummer: #59584 | Datum: 2023-02-24 12:31                                                                                                           Bilaga 2 sida 6 av 6
+REFERENSOBJEKT
+VALLBYN,   FJÄRÅS
+
+I Vallbyn samsas villor, kedjehus, bostadsrätter, hyresrätter och
+seniorboende
+
+I småstadsidyllen Fjärås strax utanför Kungsbacka finns den perfekta balansen
+mellan skog, hav, sjö och närhet till storstad. I denna lantliga miljö byggs Vallbyn,
+ett modernt bostadsområde med plats för alla generationer. I områdets yttre delar
+byggs friliggande villor i olika utföranden och storlekar.
+
+Bilaga 2 sida 6 av 6
 
 <!-- sida 522 -->
 
@@ -19334,10 +19944,10 @@ uppfylla de funktioner som nämns i början av stycket.
 <!-- sida 606 -->
 
 1.4.2 Flöden
-
 För att uppnå en hållbar dagvattenhantering
 med välfungerande öppna lösningar krävs en
 genomtänkt höjdsättning av mark och
+
 byggnader, detta för att säkerställa att
 dagvattnet faktiskt avleds på det sätt som det
 är tänkt. För att uppnå detta måste
@@ -19350,31 +19960,35 @@ bör sådana stråk säkerställas i
 planeringsskedet. I befintliga områden är
 ansvarsförhållandena mer otydliga och
 bebyggelsens placering i förhållande till
-Figur 5 Ytlig avledning av dagvatten med genomtänkt höjdsättning i ett
-stråken, ledningar och recipienter är redan bostadsområde i Västerås. Foto: Sweco
+stråken, ledningar och recipienter är redan
 fastställda.
 
 1.4.3 Gestaltning
 Med en genomtänkt gestaltning och utformning
 kan dagvattenhanteringen bidra till att bibehålla
 eller skapa olika ekosystemtjänster.
-
 Ekosystemtjänster är direkta eller indirekta nyttor
 från naturen som bidrar till människors
 välbefinnande.
+
 Exempel på ekosystemtjänster, utöver
 fördröjning och rening, som
 dagvattenanläggningar kan bidra med kan vara
 rekreation, naturpedagogik, bullerreglering,
 klimatanpassning, sinnliga upplevelser,
-
 ekologiskt samspel och biologisk mångfald. En
 dagvattendamm (se Figur 6) kan innehålla
-Figur 6 Exempel på dagvattenanläggning som bidrar med ytterligare
-många ekosystemtjänster. I Figur 7 illustreras ett ekosystemtjänster. Dagvattendamm i Björkris. Foto: Kungsbacka
-kommun.
+många ekosystemtjänster. I Figur 7 illustreras ett
+
 urval av ekosystemtjänster som hållbar
 dagvattenhantering kan tillföra i urban miljö.
+
+Figur 5 Ytlig avledning av dagvatten med genomtänkt höjdsättning i ett
+bostadsområde i Västerås. Foto: Sweco
+
+Figur 6 Exempel på dagvattenanläggning som bidrar med ytterligare
+ekosystemtjänster. Dagvattendamm i Björkris. Foto: Kungsbacka
+kommun.
 
 7
 
@@ -20193,64 +20807,101 @@ Kommundirektör                     Biträdande kommundirektör
 för Samordningsförbundet i Halland, org. nr 222000-2857
 
 Rapport om årsredovisningen
+
 Uttalanden
 Vi har utfört en revision av årsredovisningen för Samordningsförbundet i Halland för år 2022.
 Enligt vår uppfattning har årsredovisningen upprättats i enlighet med lagen om kommunal bokföring och redovisning och ger en i alla väsent-
 liga avseenden rättvisande bild av förbundets finansiella ställning per den 31 december 2022 och av dess finansiella resultat och kassaflöde
 för året enligt lagen om kommunal bokföring och redovisning. Förvaltningsberättelsen är förenlig med årsredovisningens övriga delar.
 Vi tillstyrker därför att resultaträkning och balansräkning samt kassaflöde för förbundet fastställs.
+
 Grund för uttalanden
 Vi har utfört revisionen enligt god revisionssed i Sverige. Revisorernas ansvar enligt denna sed beskrivs närmare i avsnitten Den auktorise-
 rade revisorns ansvar samt Lekmannarevisorns ansvar.
 Vi är oberoende i förhållande till förbundet enligt god revisorssed i Sverige. Jag som auktoriserad revisor har fullgjort mitt yrkesetiska ansvar
 enligt dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för våra uttalanden.
+
 Förbundsstyrelsens ansvar
-Det är förbundsstyrelsen som har ansvaret för att årsredovisningen Vid upprättandet av årsredovisningen ansvarar förbundsstyrelsen för
-upprättas och att den ger en rättvisande bild enligt lagen om kommu- bedömningen av förbundets förmåga att fortsätta verksamheten. Den
-nal bokföring och redovisning. Förbundsstyrelsen ansvarar även för upplyser, när så är tillämpligt, om förhållanden som kan påverka för-
-den interna kontroll som den bedömer är nödvändig för att upprätta mågan att fortsätta verksamheten och att använda antagandet om
-en årsredovisning som inte innehåller några väsentliga felaktigheter, fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om för-
-vare sig dessa beror på oegentligheter eller misstag. bundsstyrelsen avser att likvidera förbundet, upphöra med verksam-
+Det är förbundsstyrelsen som har ansvaret för att årsredovisningen
+upprättas och att den ger en rättvisande bild enligt lagen om kommu-
+nal bokföring och redovisning. Förbundsstyrelsen ansvarar även för
+den interna kontroll som den bedömer är nödvändig för att upprätta
+en årsredovisning som inte innehåller några väsentliga felaktigheter,
+vare sig dessa beror på oegentligheter eller misstag.
+Den auktoriserade revisorns ansvar
+Jag har att utföra revisionen enligt god revisionssed i Sverige. Mitt
+mål är att uppnå en rimlig grad av säkerhet om huruvida årsredovis-
+ningen som helhet inte innehåller några väsentliga felaktigheter, vare
+sig dessa beror på oegentligheter eller misstag. Rimlig säkerhet är
+en hög grad av säkerhet, men är ingen garanti för att en revision som
+utförs enligt god revisionssed i Sverige alltid kommer att upptäcka en
+väsentlig felaktighet om en sådan finns. Felaktigheter kan uppstå på
+grund av oegentligheter eller misstag och anses vara väsentliga om
+de enskilt eller tillsammans rimligen kan förväntas påverka de ekono-
+miska beslut som användare fattar med grund i årsredovisningen.
+Som del av en revision enligt god revisionssed använder jag profess-
+ionellt omdöme och har en professionellt skeptisk inställning under
+hela revisionen. Dessutom:
+⎯ identifierar och bedömer jag riskerna för väsentliga felaktigheter
+i årsredovisningen, vare sig dessa beror på oegentligheter eller
+misstag, utformar och utför granskningsåtgärder bland annat ut-
+ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga
+och ändamålsenliga för att utgöra en grund för mina uttalanden.
+Risken för att inte upptäcka en väsentlig felaktighet till följd av
+oegentligheter är högre än för en väsentlig felaktighet som be-
+ror på misstag, eftersom oegentligheter kan innefatta agerande
+i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform-
+ation eller åsidosättande av intern kontroll.
+⎯ skaffar jag mig en förståelse av den del av förbundets interna
+kontroll som har betydelse för min revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till omstän-
+digheterna, men inte för att uttala mig om effektiviteten i den in-
+terna kontrollen.
+
+Vid upprättandet av årsredovisningen ansvarar förbundsstyrelsen för
+bedömningen av förbundets förmåga att fortsätta verksamheten. Den
+upplyser, när så är tillämpligt, om förhållanden som kan påverka för-
+mågan att fortsätta verksamheten och att använda antagandet om
+fortsatt drift. Antagandet om fortsatt drift tillämpas dock inte om för-
+bundsstyrelsen avser att likvidera förbundet, upphöra med verksam-
 heten eller inte har något realistiskt alternativ till att göra något av
 detta.
-Den auktoriserade revisorns ansvar
-Jag har att utföra revisionen enligt god revisionssed i Sverige. Mitt ⎯ utvärderar jag lämpligheten i de redovisningsprinciper som an-
-mål är att uppnå en rimlig grad av säkerhet om huruvida årsredovis-
+⎯ utvärderar jag lämpligheten i de redovisningsprinciper som an-
 vänds och rimligheten i förbundsstyrelsens uppskattningar i re-
-ningen som helhet inte innehåller några väsentliga felaktigheter, vare
 dovisningen och tillhörande upplysningar.
-sig dessa beror på oegentligheter eller misstag. Rimlig säkerhet är
-en hög grad av säkerhet, men är ingen garanti för att en revision som ⎯ drar jag en slutsats om lämpligheten i att förbundsstyrelsen an-
-utförs enligt god revisionssed i Sverige alltid kommer att upptäcka en vänder antagandet om fortsatt drift vid upprättandet av årsredo-
-väsentlig felaktighet om en sådan finns. Felaktigheter kan uppstå på visningen. Jag drar också en slutsats, med grund i de inhäm-
-grund av oegentligheter eller misstag och anses vara väsentliga om tade revisionsbevisen, om huruvida det finns någon väsentlig
-de enskilt eller tillsammans rimligen kan förväntas påverka de ekono- osäkerhetsfaktor som avser sådana händelser eller förhållan-
-miska beslut som användare fattar med grund i årsredovisningen. den som kan leda till betydande tvivel om förbundets förmåga
-Som del av en revision enligt god revisionssed använder jag profess- att fortsätta verksamheten. Om jag drar slutsatsen att det finns
-ionellt omdöme och har en professionellt skeptisk inställning under en väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen
-hela revisionen. Dessutom:            fästa uppmärksamheten på upplysningarna i årsredovisningen
+⎯ drar jag en slutsats om lämpligheten i att förbundsstyrelsen an-
+vänder antagandet om fortsatt drift vid upprättandet av årsredo-
+visningen. Jag drar också en slutsats, med grund i de inhäm-
+tade revisionsbevisen, om huruvida det finns någon väsentlig
+osäkerhetsfaktor som avser sådana händelser eller förhållan-
+den som kan leda till betydande tvivel om förbundets förmåga
+att fortsätta verksamheten. Om jag drar slutsatsen att det finns
+en väsentlig osäkerhetsfaktor, måste jag i revisionsberättelsen
+fästa uppmärksamheten på upplysningarna i årsredovisningen
 om den väsentliga osäkerhetsfaktorn eller, om sådana upplys-
-⎯  identifierar och bedömer jag riskerna för väsentliga felaktigheter ningar är otillräckliga, modifiera uttalandet om årsredovisningen.
-i årsredovisningen, vare sig dessa beror på oegentligheter eller Mina slutsatser baseras på de revisionsbevis som inhämtas
-misstag, utformar och utför granskningsåtgärder bland annat ut- fram till datumet för revisionsberättelsen. Dock kan framtida
-ifrån dessa risker och inhämtar revisionsbevis som är tillräckliga händelser eller förhållanden göra att ett förbund inte längre kan
-och ändamålsenliga för att utgöra en grund för mina uttalanden. fortsätta verksamheten.
-Risken för att inte upptäcka en väsentlig felaktighet till följd av
-oegentligheter är högre än för en väsentlig felaktighet som be- ⎯ utvärderar jag den övergripande presentationen, strukturen och
-ror på misstag, eftersom oegentligheter kan innefatta agerande innehållet i årsredovisningen, däribland upplysningarna, och om
-i maskopi, förfalskning, avsiktliga utelämnanden, felaktig inform- årsredovisningen återger de underliggande transaktionerna och
-ation eller åsidosättande av intern kontroll. händelserna på ett sätt som ger en rättvisande bild.
-⎯  skaffar jag mig en förståelse av den del av förbundets interna Jag måste informera förbundsstyrelsen om bland annat revisionens
-kontroll som har betydelse för min revision för att utforma planerade omfattning och inriktning samt tidpunkten för den. Jag
-granskningsåtgärder som är lämpliga med hänsyn till omstän- måste också informera om betydelsefulla iakttagelser under revis-
-digheterna, men inte för att uttala mig om effektiviteten i den in- ionen, däribland de eventuella betydande brister i den interna kon-
-terna kontrollen.                trollen som jag identifierat.
+ningar är otillräckliga, modifiera uttalandet om årsredovisningen.
+Mina slutsatser baseras på de revisionsbevis som inhämtas
+fram till datumet för revisionsberättelsen. Dock kan framtida
+händelser eller förhållanden göra att ett förbund inte längre kan
+fortsätta verksamheten.
+⎯ utvärderar jag den övergripande presentationen, strukturen och
+innehållet i årsredovisningen, däribland upplysningarna, och om
+årsredovisningen återger de underliggande transaktionerna och
+händelserna på ett sätt som ger en rättvisande bild.
+Jag måste informera förbundsstyrelsen om bland annat revisionens
+planerade omfattning och inriktning samt tidpunkten för den. Jag
+måste också informera om betydelsefulla iakttagelser under revis-
+ionen, däribland de eventuella betydande brister i den interna kon-
+trollen som jag identifierat.
+
 Lekmannarevisorns ansvar
 Jag har att utföra en revision enligt revisionslagen och därmed enligt god revisionssed i Sverige. Mitt mål är att uppnå en rimlig grad av säker-
 het om huruvida årsredovisningen har upprättats i enlighet med lagen om kommunal bokföring och redovisning och om årsredovisningen ger
 en rättvisande bild av förbundets resultat och ställning.
+
 Revisionsberättelse Samordningsförbundet i Halland, org. nr 222000-2857, 2022 1 (2)
+
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
 https://sign.visma.net/sv/document-check/e4166876-e3e1-4274-848e-40114c297ead www.vismasign.com
 
@@ -20264,29 +20915,43 @@ Vi tillstyrker att förbundsstyrelsens ledamöter beviljas ansvarsfrihet för r�
 Vi bedömer även sammantaget att förbundsstyrelsen i Samordningsförbundet i Halland har bedrivit verksamheten på ett ändamålsenligt sätt
 och från ekonomisk synpunkt tillfredställande sätt och att den interna kontrollen har varit tillräcklig samt att resultatet enligt årsredovisningen
 delvis är förenligt med de finansiella mål och verksamhetsmål som är uppställda.
+
 Grund för uttalande
 Vi har utfört revisionen enligt god revisionssed i Sverige. Vårt ansvar enligt denna beskrivs närmare i avsnittet Revisorns ansvar. Vi är obero-
 ende i förhållande till förbundet enligt god revisorssed i Sverige. Jag som auktoriserad revisor har i övrigt fullgjort mitt yrkesetiska ansvar enligt
 dessa krav.
 Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och ändamålsenliga som grund för vårt uttalande.
+
 Förbundsstyrelsens ansvar
 Det är förbundsstyrelsen som har ansvaret för förvaltningen.
 Revisorns ansvar
-Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut- Som en del av en revision enligt god revisionssed i Sverige använder
-talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en den auktoriserade revisorn professionellt omdöme och har en pro-
-rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i fessionellt skeptisk inställning under hela revisionen. Granskningen
-något väsentligt avseende företagit någon åtgärd eller gjort sig skyl- av förvaltningen grundar sig främst på revisionen av räkenskaperna.
-dig till någon försummelse som kan föranleda ersättningsskyldighet Vilka tillkommande granskningsåtgärder som utförs baseras på den
-mot förbunden.                      auktoriserade revisorns professionella bedömning och övriga valda
-Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att revisorers bedömning med utgångspunkt i risk och väsentlighet. Det
-en revision som utförs enligt god revisionssed i Sverige alltid kommer innebär att vi fokuserar granskningen på sådana åtgärder, områden
-att upptäcka åtgärder eller försummelser som kan föranleda ersätt- och förhållanden som är väsentliga för verksamheten och där avsteg
-och överträdelser skulle ha särskild betydelse för förbundets situat-
+Vårt mål beträffande revisionen av förvaltningen, och därmed vårt ut-
+talande om ansvarsfrihet, är att inhämta revisionsbevis för att med en
+rimlig grad av säkerhet kunna bedöma om någon styrelseledamot i
+något väsentligt avseende företagit någon åtgärd eller gjort sig skyl-
+dig till någon försummelse som kan föranleda ersättningsskyldighet
+mot förbunden.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen garanti för att
+en revision som utförs enligt god revisionssed i Sverige alltid kommer
+att upptäcka åtgärder eller försummelser som kan föranleda ersätt-
 ningsskyldighet mot förbunden.
+
+Som en del av en revision enligt god revisionssed i Sverige använder
+den auktoriserade revisorn professionellt omdöme och har en pro-
+fessionellt skeptisk inställning under hela revisionen. Granskningen
+av förvaltningen grundar sig främst på revisionen av räkenskaperna.
+Vilka tillkommande granskningsåtgärder som utförs baseras på den
+auktoriserade revisorns professionella bedömning och övriga valda
+revisorers bedömning med utgångspunkt i risk och väsentlighet. Det
+innebär att vi fokuserar granskningen på sådana åtgärder, områden
+och förhållanden som är väsentliga för verksamheten och där avsteg
+och överträdelser skulle ha särskild betydelse för förbundets situat-
 ion. Vi går igenom och prövar fattade beslut, beslutsunderlag, vid-
 tagna åtgärder och andra förhållanden som är relevanta för vårt utta-
 lande om ansvarsfrihet.
+
 Halmstad mars 2023
+
 \-
 Auktoriserad revisor   Lekmannarevisor
 KPMG AB
@@ -21306,29 +21971,42 @@ https://sign.visma.net/sv/document-check/189c2d09-72ea-4cb2-9d77-aaef51b3d293   
 
 Inledning
 
-Vi har på uppdrag av Försäkringskassan genomfört en Syftet med revisionen är att granska årsredovisningen
-
-revision av Samordningsförbundet Halland för samt styrelsens förvaltning för samordningsförbundet.
+Vi har på uppdrag av Försäkringskassan genomfört en
+revision av Samordningsförbundet Halland för
 räkenskapsåret 2022.
 Revisionen har utförts enligt god revisionssed i
-De förtroendevalda revisorerna ska bedöma:
 Sverige. Auktoriserade revisorer är enligt revisorslagen
-skyldiga att iakttaga god revisorssed och god - om styrelsen har bedrivit verksamheten på ett
-revisionssed vilket ställer krav på hur revisionen utförs ändamålsenligt och från ekonomisk synpunkt
-och dokumenteras.                          tillfredsställande sätt och
-Som medlem i FAR har den auktoriserade revisorn - att den interna kontrollen har varit tillräcklig samt
+
+skyldiga att iakttaga god revisorssed och god
+revisionssed vilket ställer krav på hur revisionen utförs
+och dokumenteras.
+Som medlem i FAR har den auktoriserade revisorn
 även att efterleva FAR:s etiska regler.
-\- att resultatet enligt årsredovisningen är förenligt med
-Vi har även biträtt förbundets förtroendevalda revisorer de finansiella mål och verksamhetsmål som är
-i dessas granskning av förbundet så som sakkunnigt uppställda.
+
+Vi har även biträtt förbundets förtroendevalda revisorer
+i dessas granskning av förbundet så som sakkunnigt
 biträde. Granskningen har skett med beaktande av de
 regler om revision som finns i lag om finansiell
 samordning vid rehabiliteringsinsatser [2003:1210].
-Denna lag föreskriver att revisionen ska utföras enligt
 
+Denna lag föreskriver att revisionen ska utföras enligt
 vad som föreskrivs i kommunallagen [2017:725] (KL). I
 KL 12:1 fastslås att revisionen ska utföras enligt god
 revisionssed.
+
+Syftet med revisionen är att granska årsredovisningen
+samt styrelsens förvaltning för samordningsförbundet.
+
+De förtroendevalda revisorerna ska bedöma:
+
+\- om styrelsen har bedrivit verksamheten på ett
+ändamålsenligt och från ekonomisk synpunkt
+tillfredsställande sätt och
+
+\- att den interna kontrollen har varit tillräcklig samt
+\- att resultatet enligt årsredovisningen är förenligt med
+de finansiella mål och verksamhetsmål som är
+uppställda.
 
 © 2020 KPMG AB, a Swedish limited liability company and a member firm of the KPMG network of independent member firms affiliatedwith KPMG International 2
 Cooperative (“KPMG International”), a Swiss entity. All rights reserved.
@@ -21340,33 +22018,48 @@ Document Classification: KPMG Confidential
 
 Revisionsinriktning
 
-Bedömning av väsentlighet och risk i       Årsredovisningen
-
+Bedömning av väsentlighet och risk i
 räkenskaperna
-Lagen om ändring i lagen om finansiell samordning av
-Vi har gjort en risk- och väsentlighetsanalys över rehabiliteringsinsatser (SFS 2018:598) klarlägger att
-samordningsförbundets verksamhet vilken har samordningsförbunden ska tillämpa Lag (2018:597)
-utmynnat i att vi har bedömt följande poster som om kommunal bokföring och redovisning (LKBR).
+
+Vi har gjort en risk- och väsentlighetsanalys över
+samordningsförbundets verksamhet vilken har
+utmynnat i att vi har bedömt följande poster som
 väsentliga:
-Denna lag reglerar vad förvaltningsberättelsen ska
-• Verksamhetens intäkter                   innehålla.
-• Verksamhetens kostnader                  Vi har granskat huruvida förvaltningsberättelsen i
-årsredovisningen uppfyller dessa regler.
+
+• Verksamhetens intäkter
+• Verksamhetens kostnader
+
 • Kassa och bank
 • Kortfristiga skulder
-Till följd av verksamhetens natur och omfattning har vi Förbundsstyrelsens förvaltning
+
+Till följd av verksamhetens natur och omfattning har vi
 valt att substansgranska samtliga poster som listats
-Vår granskning av förbundsstyrelsens förvaltninghar
 ovan.
+
+Årsredovisningen
+
+Lagen om ändring i lagen om finansiell samordning av
+rehabiliteringsinsatser (SFS 2018:598) klarlägger att
+samordningsförbunden ska tillämpa Lag (2018:597)
+om kommunal bokföring och redovisning (LKBR).
+Denna lag reglerar vad förvaltningsberättelsen ska
+
+innehålla.
+Vi har granskat huruvida förvaltningsberättelsen i
+årsredovisningen uppfyller dessa regler.
+
+Förbundsstyrelsens förvaltning
+
+Vår granskning av förbundsstyrelsens förvaltninghar
 inriktats på följandeområden:
 • Granskning av efterlevnad av lagar och
 förbundsordning
 
 • Granskning av att styrdokument följs
+
 • Granskning av att verksamhetsplan 2022 med
 budget upprättats och godkänts av förbunds-
 styrelsen
-
 • Granskning av att väsentliga styrelsebeslut har
 genomförts.
 
@@ -21384,17 +22077,26 @@ fortsättning
 
 God ekonomisk hushållning                  Intern kontroll
 
-Samordningsförbund ska ha en god ekonomisk Vi har granskat delar av förbundets interna kontroll
-hushållning i sin verksamhet.              med fokus på:
+Samordningsförbund ska ha en god ekonomisk
+hushållning i sin verksamhet.
 
-Förbundsstyrelsen ska besluta om riktlinjer för god • rutiner och system för kostnadsbokföring,
+Förbundsstyrelsen ska besluta om riktlinjer för god
 ekonomisk hushållning för förbundet genom att
-• betalningar
 fastställa finansiella mål och mål för verksamheten.
-• attester och attesträtter
 Vi har granskat i vilken mån förbundet uppnår det
-fastställda målen och därmed efterlever kraven på god • bokslutsprocessen
+
+fastställda målen och därmed efterlever kraven på god
 ekonomisk hushållning.
+
+Vi har granskat delar av förbundets interna kontroll
+med fokus på:
+
+• rutiner och system för kostnadsbokföring,
+• betalningar
+
+• attester och attesträtter
+• bokslutsprocessen
+
 • ersättning för utfört arbete
 
 © 2020 KPMG AB, a Swedish limited liability company and a member firm of the KPMG network of independent member firms affiliatedwith KPMG International 4
@@ -21405,42 +22107,65 @@ Document Classification: KPMG Confidential
 
 <!-- sida 656 -->
 
-Iakttagelser           från    granskningen
+Iakttagelser          från     granskningen
 
-Förvaltning                                Intern kontroll och övrig granskning
+Förvaltning
 
-• Vi har granskat styrelsens förvaltning genom • Vi har säkerställt att redovisade intäkter hänförliga till
-medlemsavgifter är i enlighet med budget och är
+• Vi har granskat styrelsens förvaltning genom
 \- att säkerställa att förbundsordningen följs
-fullständigt upptagna i räkenskaperna.
+
 \- att verksamhetsplan/ budget finns upprättad
-• Vi har genom stickprov verifierat att bokförda
-\- att verksamhetsplanen/budgeten omfattar 3 år kostnader är verksamhetsgiltiga och attesterade.
-\- att styrelsen har varit beslutsför när beslut fattats • Vi har säkerställt att redovisade leverantörsskulder
-finns noterade i leverantörsreskontra.
+\- att verksamhetsplanen/budgeten omfattar 3 år
+
+\- att styrelsen har varit beslutsför när beslut fattats
 \- att beslut finns om beslutade åtgärder och
-uppföljning därav                      • Vi har verifierat behållningen av likvida medel mot
-bankbesked.
+
+uppföljning därav
 \- att förbundets ekonomiska utfall följs upp minst till
-delår respektive helår                 • Vi har verifierat att bokförda personalkostnader är
-rimliga.
+delår respektive helår
+
 \- att förbundet inte iklätt sig skulder
-\- att delegationsordning finns           • Vi har verifierat att bokförda interimsskulder är
-relevanta genom stickprovskontroll mot underlag
+\- att delegationsordning finns
+
 \- att attestordning finns
-• Vi har genom avklippskontroll säkerställt att samtliga
 \- att sociala avgifter och källskatt redovisats i tid
-skulder/kostnader är bokförda.
+
 med rätt belopp
-• Vi har granskat manuella bokföringsordrar
 \- att förbundet har adekvat administrativ förmåga
-upprättade i samband med bokslutsarbetet.
+
 Vår bedömning är att förvaltningen har varit
-• Förbundet har upprättat en Intern kontrollplan
 tillfredställande under året men även i år framför
-Vi finner den interna kontrollen adekvat.
 vi en kommentar gällande den administrativa
 förmågan.
+
+Intern kontroll och övrig granskning
+
+• Vi har säkerställt att redovisade intäkter hänförliga till
+medlemsavgifter är i enlighet med budget och är
+fullständigt upptagna i räkenskaperna.
+• Vi har genom stickprov verifierat att bokförda
+kostnader är verksamhetsgiltiga och attesterade.
+
+• Vi har säkerställt att redovisade leverantörsskulder
+finns noterade i leverantörsreskontra.
+
+• Vi har verifierat behållningen av likvida medel mot
+bankbesked.
+• Vi har verifierat att bokförda personalkostnader är
+rimliga.
+
+• Vi har verifierat att bokförda interimsskulder är
+relevanta genom stickprovskontroll mot underlag
+
+• Vi har genom avklippskontroll säkerställt att samtliga
+skulder/kostnader är bokförda.
+• Vi har granskat manuella bokföringsordrar
+
+upprättade i samband med bokslutsarbetet.
+• Förbundet har upprättat en Intern kontrollplan
+
+Vi finner den interna kontrollen adekvat.
+
 © 2020 KPMG AB, a Swedish limited liability company and a member firm of the KPMG network of independent member firms affiliatedwith KPMG International 5
 Cooperative (“KPMG International”), a Swiss entity. All rights reserved.
 Electronically signed / Sähköisesti allekirjoitettu / Elektroniskt signerats / Elektronisk signert / Elektronisk underskrevet
@@ -22024,35 +22749,63 @@ ningen i våra panncentraler
 
 <!-- sida 675 -->
 
-MÅLARBETE SKAPAR ENGAGEMANG
+mål     2023-2024
 
-mål    2023-2024
+VÄRDEGRUND
+Vi vill vara bra ambassadörer för Eksta
 
-VÄRDEGRUND              KVALITET             HÅLLBARHET
-Vi vill vara bra ambassadörer för Eksta Vi skall stärka vårt varumärke och vara den Vi skall verka för bolagets långsiktiga
-kvalitetsmässigt mest attraktiva hyresvärden ekonomiska tillväxt
-Vi skall vara medvetna om att vi är i Kungsbacka samt stärka hyresrätten som
-varandras arbetsmiljö och själva bidra till upplåtelseform Vi skall hushålla med bolagets resurser och
-god trivsel, ett tryggt arbetsklimat och   förbättra bolagets driftnetto och lönsamhet
-vara arbetskamrater som visar personlig Vårt arbetssätt skall kvalitets-och
-omtänksamhet       värdesäkra våra fastigheter Vi skall bygga för en hållbar förvaltning och
-bidra till Kungsbackas behov av bostäder
-Vi vill vara intresserade och engagerade Vårt samverkande arbetssätt skall ge fler samt vara en långsiktig förvaltarbyggherre
-samt utvecklas som individer och mer nöjda hyresgäster/kunder
-Vi skall förebygga och hantera risker med
-Vi skall vara en lärande, innovativ organi- Vi skall vara en attraktiv arbetsgivare förnuft och mod
+Vi skall vara medvetna om att vi är
+varandras arbetsmiljö och själva bidra till
+god trivsel, ett tryggt arbetsklimat och
+vara arbetskamrater som visar personlig
+omtänksamhet
+Vi vill vara intresserade och engagerade
+samt utvecklas som individer
+Vi skall vara en lärande, innovativ organi-
 sation och ta hjälp av varandra
-Vi skall vidareutveckla och dela med oss av Vi skall vara ledande i arbetet för en mil-
-Vi medarbetare vill värna vår värdegrund i våra kunskaper och färdigheter jöklok energianvändning och verka för en
-både med- och motgång                        minimerad klimatpåverkan
+Vi medarbetare vill värna vår värdegrund i
+både med- och motgång
+
+KVALITET
+
+Vi skall stärka vårt varumärke och vara den
+kvalitetsmässigt mest attraktiva hyresvärden
+i Kungsbacka samt stärka hyresrätten som
+upplåtelseform
+Vårt arbetssätt skall kvalitets-och
+värdesäkra våra fastigheter
+Vårt samverkande arbetssätt skall ge fler
+och mer nöjda hyresgäster/kunder
+Vi skall vara en attraktiv arbetsgivare
+Vi skall vidareutveckla och dela med oss av
+våra kunskaper och färdigheter
 Vi skall alltid sträva efter förbättringar och
-vara öppna för förändringar och Vårt arbetssätt skall främja utvecklingen
-anpassningar      genom ökat intresse, nytänkande och
-innovation
+vara öppna för förändringar och
+anpassningar
 
 Engagemang och delaktighet
 är viktiga parametrar för att skapa ett
 fungerande och strukturerat målarbete.
+
+MÅLARBETE SKAPAR ENGAGEMANG
+
+HÅLLBARHET
+
+Vi skall verka för bolagets långsiktiga
+ekonomiska tillväxt
+Vi skall hushålla med bolagets resurser och
+förbättra bolagets driftnetto och lönsamhet
+Vi skall bygga för en hållbar förvaltning och
+bidra till Kungsbackas behov av bostäder
+samt vara en långsiktig förvaltarbyggherre
+Vi skall förebygga och hantera risker med
+förnuft och mod
+Vi skall vara ledande i arbetet för en mil-
+jöklok energianvändning och verka för en
+minimerad klimatpåverkan
+Vårt arbetssätt skall främja utvecklingen
+genom ökat intresse, nytänkande och
+innovation
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2022 9
 Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
@@ -22443,8 +23196,6 @@ alla, var och en men även tillsammans, för att vårda den.
 
 SÅ fr
 
-di sm MÖR |
-
 va st —-—-——  —LtÄ
 
 "Lätta att få tag i. Snabb hjälp.
@@ -22482,7 +23233,7 @@ Sjukfrånvaro
 
 Sjukfrånvaron ökade under pandemiåren på grund av res-
 triktioner och rekommendationer, men sjukfrånvaron fort-
-sätter att öka, från 5,624 2021 till 9,04 2022, trots hälsofräm-
+sätter att öka, från 5,67 2021 till 9,04 2022, trots hälsofräm-
 jande åtgärder. Den stora ökningen ser vi främst hänför sig
 till ett flertal långtidssjukskrivningar som inte är arbetsre-
 laterade. Det har även varit fler och längre sjukskrivningar
@@ -22493,43 +23244,38 @@ Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
 <!-- sida 681 -->
 
-SOCIAL HÅLLBARHET
-
-Rekryteringar och introduktion  Kompetensutveckling
-Våra medarbetare väljer att arbeta hos oss under många år. Genom att erbjuda goda utbildnings- och utvecklings-
-Generellt stannar anställda kvar länge hos samma arbets- möjligheter vill vi skapa möjlighet till ett intressant och
-givare inom fastighetsbranschen. Några medarbetare som utvecklande arbete. Får man utvecklas i den egna rollen
-tidigare år avgått med pension arbetar idag extra hos oss och får möjlighet att växa och utvecklas internt tror vi att vi
-vilket är värdefullt och uppskattat. Under 2022 var persona- ökar våra möjligheter att attrahera, rekrytera och behålla
-lomsättningen 3,9 % (6,0 % 2021) och vi har välkomnat två kompetent personal. På det årliga utvecklingssamtalet
-nya medarbetare till förvaltningsavdelningen under året. Vi pratar vi om individens förutsättningar och önskemål. I den
-har också rekryterat inför 2023 års pensionsavgångar och individuella utvecklingsplanen eftersträvar vi att kombinera
-två nya medarbetare välkomnas under januari månad. För utveckling och mål som gynnar både individen, gruppen
-att ge en inblick i verksamheten får du som nyanställd på och bolaget. Interna och externa kurser och utbildningar
-Eksta gå igenom vårt uppskattade introduktionsprogram. har genomförts under året, både individuellt och i grupp.
-Du får träffa dina kollegor i deras arbetsmiljö och de berät- Chefer och skyddsombud ska ha god kompetens för att
-tar om sin yrkesroll och sina arbetsuppgifter. Det ger också veta hur de ska prioritera och arbeta förebyggande i det
-våra redan etablerade medarbetare en möjlighet att visa systematiska arbetsmiljöarbetet. Under året har därför våra
-upp sitt specialområde och förmedla kulturen i verksam- nyare chefer och skyddsombud gått olika ledarskaps- och
-heten. Som nyanställd får du också gå en webbutbildning arbetsmiljöutbildningar. Andra kurser och utbildningar som
-för att få en inblick i vår roll som allmännyttigt bostadsbolag vi deltagit på har varit inom brandskydd, VVS och andra tek-
-och kursen “Att förebygga och bemöta hot och våld”. Det är niska områden. Vi har också haft deltagare på kurser, som
-en del av det systematiska arbetsmiljöarbetet. Nya medar- avflyttningsbesiktning, att möta människor med psykisk
-betare medverkar även på kursen “Flygande start på jobbet” ohälsa samt flera olika administrativa kurser inom ekonomi
-– en kurs för alla oavsett befattning som ger en översikt och personalområdet.
+Rekryteringar och introduktion
+Våra medarbetare väljer att arbeta hos oss under många år.
+Generellt stannar anställda kvar länge hos samma arbets-
+givare inom fastighetsbranschen. Några medarbetare som
+tidigare år avgått med pension arbetar idag extra hos oss
+vilket är värdefullt och uppskattat. Under 2022 var persona-
+lomsättningen 3,9 % (6,0 % 2021) och vi har välkomnat två
+nya medarbetare till förvaltningsavdelningen under året. Vi
+har också rekryterat inför 2023 års pensionsavgångar och
+två nya medarbetare välkomnas under januari månad. För
+att ge en inblick i verksamheten får du som nyanställd på
+Eksta gå igenom vårt uppskattade introduktionsprogram.
+Du får träffa dina kollegor i deras arbetsmiljö och de berät-
+tar om sin yrkesroll och sina arbetsuppgifter. Det ger också
+våra redan etablerade medarbetare en möjlighet att visa
+upp sitt specialområde och förmedla kulturen i verksam-
+heten. Som nyanställd får du också gå en webbutbildning
+för att få en inblick i vår roll som allmännyttigt bostadsbolag
+och kursen “Att förebygga och bemöta hot och våld”. Det är
+en del av det systematiska arbetsmiljöarbetet. Nya medar-
+betare medverkar även på kursen “Flygande start på jobbet”
+– en kurs för alla oavsett befattning som ger en översikt
 över olika områden som vi kommer i kontakt med inom ett
-allmännyttigt bostadsbolag.     Vi har fortsatt vårt arbete med internt lärande genom
-erfarenhetsutbyte. Detta görs till exempel genom prao på
-Toppbetyg i bemötande           varandras avdelningar. Dels för att byta erfarenheter, dels
-Tjänstvilligheten och serviceandan inom Eksta är bra och för att ge en ökad förståelse för varandras arbetsuppgifter
-högt värderad, både internt och externt. I de löpande och arbetssituation.
+allmännyttigt bostadsbolag.
+Toppbetyg i bemötande
+Tjänstvilligheten och serviceandan inom Eksta är bra och
+högt värderad, både internt och externt. I de löpande
 hyresgästundersökningar som görs, men även direkt från
-våra hyresgäster, får vi ofta bekräftat att mötet med våra Digitalisering
-medarbetare är mycket och högt uppskattat. Även om vi får För en ökad kvalitetssäkring, säker personuppgiftshantering
-höga betyg från våra hyresgäster behöver vi hålla i arbetet och bättre effektivitet har vi under året fortsatt arbetet med
-för en fortsatt god gemensam kultur och värdegrund. digitalisering inom personalområdet. Vi har digitaliserat vår
-arbetstidsrapportering och påbörjat resan mot ett system
-för digital hantering av rekryteringar.
+våra hyresgäster, får vi ofta bekräftat att mötet med våra
+medarbetare är mycket och högt uppskattat. Även om vi får
+höga betyg från våra hyresgäster behöver vi hålla i arbetet
+för en fortsatt god gemensam kultur och värdegrund.
 kommentarer
 Ett urval av kommentarer som kommit in i vår
 kundundersökning 2022. Undersökningen utförs av
@@ -22549,30 +23295,67 @@ om sina fastigheter”
 ”Snabba att åtgärda problem vid felanmälan. Lätta
 att få tag på. Bra återkoppling från fastighetsskötare.
 Trevliga och hjälpsamma”
+Transaktion 09222115557491263401
+
+SOCIAL HÅLLBARHET
+
+Kompetensutveckling
+Genom att erbjuda goda utbildnings- och utvecklings-
+möjligheter vill vi skapa möjlighet till ett intressant och
+utvecklande arbete. Får man utvecklas i den egna rollen
+och får möjlighet att växa och utvecklas internt tror vi att vi
+ökar våra möjligheter att attrahera, rekrytera och behålla
+kompetent personal. På det årliga utvecklingssamtalet
+pratar vi om individens förutsättningar och önskemål. I den
+individuella utvecklingsplanen eftersträvar vi att kombinera
+utveckling och mål som gynnar både individen, gruppen
+och bolaget. Interna och externa kurser och utbildningar
+har genomförts under året, både individuellt och i grupp.
+Chefer och skyddsombud ska ha god kompetens för att
+veta hur de ska prioritera och arbeta förebyggande i det
+systematiska arbetsmiljöarbetet. Under året har därför våra
+nyare chefer och skyddsombud gått olika ledarskaps- och
+arbetsmiljöutbildningar. Andra kurser och utbildningar som
+vi deltagit på har varit inom brandskydd, VVS och andra tek-
+niska områden. Vi har också haft deltagare på kurser, som
+avflyttningsbesiktning, att möta människor med psykisk
+ohälsa samt flera olika administrativa kurser inom ekonomi
+och personalområdet.
+Vi har fortsatt vårt arbete med internt lärande genom
+erfarenhetsutbyte. Detta görs till exempel genom prao på
+varandras avdelningar. Dels för att byta erfarenheter, dels
+för att ge en ökad förståelse för varandras arbetsuppgifter
+och arbetssituation.
+Digitalisering
+För en ökad kvalitetssäkring, säker personuppgiftshantering
+och bättre effektivitet har vi under året fortsatt arbetet med
+digitalisering inom personalområdet. Vi har digitaliserat vår
+arbetstidsrapportering och påbörjat resan mot ett system
+för digital hantering av rekryteringar.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2022 15
-Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
+Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
 <!-- sida 682 -->
 
 SOCIAL HÅLLBARHET
 
-Vi marknadsför branschen och Eksta – prao, praktik och Arbetsmiljö
-sommarjobb                      Vi jobbar i enlighet med våra personalpolicyer och det
-Ett sätt att informera om och väcka intresse för vår verksam- systematiska arbetsmiljöarbetet löper på kontinuerligt. Det
-het och bransch är att vi erbjuder ungdomar och yrkesstu- är en naturlig del i vårt arbete. Hänsyn skall tas till såväl
-derande prao eller praktik och sommarjobb hos oss. Ett fysiska, psykiska som sociala aspekter men även organi-
-annat är att vi deltar på mässor samt bransch- och utbild- satoriska. Arbetet följs upp genom skyddsronder varje år.
-ningssamordnares arrangemang. Fastighetsbranschen har Vår skyddskommitté samråder kring arbetsmiljöfrågor och
-en relativt hög medelålder och många pensionsavgångar håller fyra protokollförda möten varje år. Skyddskommittén
-väntar framöver varför vi på olika sätt behöver marknadsföra består av VD, HR-ansvarig, förvaltningschef och skyddsom-
-oss för att locka nya och yngre förmågor. bud. Vi arbetar kontinuerligt med att förbättra vår arbetsmil-
-jö i vardagen och vi utvärderar tillbud och arbetar gemen-
-Under sommarsäsongen kunde vi erbjuda 16 ungdomar samt för att minimera framtida risker och arbetsskador.
-i åldern 16 – 20 år möjlighet att prova på att arbeta inom Under året har vi haft två anmälda och åtgärdade tillbud
-fastighetsbranschen. Flera ungdomar har praoat hos oss. och olyckor på arbetsplatsen. De har rapporterats med stöd
-Vi har också tagit emot två studenter som utbildar sig till av vår Checklista vid olycksfall - tillbud. Vi påminner kontinu-
-fastighetsskötare på praktik. Under höstterminen har vi tagit erligt våra medarbetare om vikten av att rapportera tillbud
-emot två praktikanter från Yrkeshögskolan via branschägda då detta lätt glöms eller missas i vardagen.
+Vi marknadsför branschen och Eksta – prao, praktik och
+sommarjobb
+Ett sätt att informera om och väcka intresse för vår verksam-
+het och bransch är att vi erbjuder ungdomar och yrkesstu-
+derande prao eller praktik och sommarjobb hos oss. Ett
+annat är att vi deltar på mässor samt bransch- och utbild-
+ningssamordnares arrangemang. Fastighetsbranschen har
+en relativt hög medelålder och många pensionsavgångar
+väntar framöver varför vi på olika sätt behöver marknadsföra
+oss för att locka nya och yngre förmågor.
+Under sommarsäsongen kunde vi erbjuda 16 ungdomar
+i åldern 16 – 20 år möjlighet att prova på att arbeta inom
+fastighetsbranschen. Flera ungdomar har praoat hos oss.
+Vi har också tagit emot två studenter som utbildar sig till
+fastighetsskötare på praktik. Under höstterminen har vi tagit
+emot två praktikanter från Yrkeshögskolan via branschägda
 Fastighetsakademin. En person som studerade till Fastig-
 hets & Energitekniker och en som studerade till Fastighets-
 förvaltare. Glädjande nog har vi dessutom haft möjlighet att
@@ -22580,6 +23363,27 @@ erbjuda ett par av årets praktikanter anställning.
 16
 ungdomar
 sommarjobbade hos oss under 2022
+
+16
+Transaktion 09222115557491263401
+
+Arbetsmiljö
+Vi jobbar i enlighet med våra personalpolicyer och det
+systematiska arbetsmiljöarbetet löper på kontinuerligt. Det
+är en naturlig del i vårt arbete. Hänsyn skall tas till såväl
+fysiska, psykiska som sociala aspekter men även organi-
+satoriska. Arbetet följs upp genom skyddsronder varje år.
+Vår skyddskommitté samråder kring arbetsmiljöfrågor och
+håller fyra protokollförda möten varje år. Skyddskommittén
+består av VD, HR-ansvarig, förvaltningschef och skyddsom-
+bud. Vi arbetar kontinuerligt med att förbättra vår arbetsmil-
+jö i vardagen och vi utvärderar tillbud och arbetar gemen-
+samt för att minimera framtida risker och arbetsskador.
+Under året har vi haft två anmälda och åtgärdade tillbud
+och olyckor på arbetsplatsen. De har rapporterats med stöd
+av vår Checklista vid olycksfall - tillbud. Vi påminner kontinu-
+erligt våra medarbetare om vikten av att rapportera tillbud
+då detta lätt glöms eller missas i vardagen.
 
 Intervju med Monica Ekman
 HR-ansvarig på Eksta
@@ -22606,34 +23410,51 @@ att jobba inom fastighetsbranschen. Som
 sommarjobbare får ungdomarna bland annat
 hjälpa till att göra fint i våra områden genom
 att måla, rensa ogräs och slänga skräp.
-16
-Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
+Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
 <!-- sida 683 -->
 
 SOCIAL HÅLLBARHET
 
-Mångfald och jämställdhet       Friskvård
-Jämställdhet handlar om balans och rättvisa mellan män Vi arbetar förebyggande och hälsofrämjande. Fruktkorgar
-och kvinnor. Vi anser att det är viktigt med mångfald och till våra olika arbetsställen levereras varje vecka och vi
-jämställdhet på Eksta. Vi har antagit Kungsbacka kommuns samlas kring en liten frukost avdelningsvis på fredagar. Den
-jämställdhetspolicy. Bolaget har och tillämpar kollektivav- är viktig för vår sammanhållning och gemenskap och per-
-tal mellan Fastigo och Unionen samt Fastighetsanställdas sonalen ordnar med valfria gemensamma aktiviteter under
-Förbund. Vi bedriver ett förebyggande och främjande året. I våra regelbundna hälsoundersökningar tar vi hjälp av
-arbete för att motverka diskriminering och främja lika företagshälsovården. De utför hälsokontroller och ger våra
-rättigheter och möjligheter. Lönekartläggning görs årligen medarbetare individuella tips och råd om hur de kan främja
-för att upptäcka, analysera, åtgärda och förhindra osakliga sin hälsa. En sammanställning av resultaten från dessa häl-
-skillnader i lön och förmåner mellan kvinnor och män. Även sokontroller ihop med resultat från personalenkäten ger oss
-andra anställningsvillkor som arbetstidsfrågor, möjlighet till indikationer på vilka övriga åtgärder vi behöver arbeta med
-lika kompetensutveckling och lika möjlighet att kombinera för att främja hälsa och förebygga ohälsa bland personalen.
+Mångfald och jämställdhet
+Jämställdhet handlar om balans och rättvisa mellan män
+och kvinnor. Vi anser att det är viktigt med mångfald och
+jämställdhet på Eksta. Vi har antagit Kungsbacka kommuns
+jämställdhetspolicy. Bolaget har och tillämpar kollektivav-
+tal mellan Fastigo och Unionen samt Fastighetsanställdas
+Förbund. Vi bedriver ett förebyggande och främjande
+arbete för att motverka diskriminering och främja lika
+rättigheter och möjligheter. Lönekartläggning görs årligen
+för att upptäcka, analysera, åtgärda och förhindra osakliga
+skillnader i lön och förmåner mellan kvinnor och män. Även
+andra anställningsvillkor som arbetstidsfrågor, möjlighet till
+lika kompetensutveckling och lika möjlighet att kombinera
 arbete och föräldraskap omfattas av kartläggningen. På
-Eksta ser vi positivt på att män och kvinnor tar ut föräld- Ett generöst friskvårdsbidrag ger våra medarbetare möj-
-raledighet och tillfällig föräldrapenning för vård av barn i lighet att välja den eller de aktiviteter som kan stimulera till
-ungefär samma omfattning.       ett friskare liv. De flesta arbeten, stillasittande liksom mer
+Eksta ser vi positivt på att män och kvinnor tar ut föräld-
+raledighet och tillfällig föräldrapenning för vård av barn i
+ungefär samma omfattning.
+
+Friskvård
+Vi arbetar förebyggande och hälsofrämjande. Fruktkorgar
+till våra olika arbetsställen levereras varje vecka och vi
+samlas kring en liten frukost avdelningsvis på fredagar. Den
+är viktig för vår sammanhållning och gemenskap och per-
+sonalen ordnar med valfria gemensamma aktiviteter under
+året. I våra regelbundna hälsoundersökningar tar vi hjälp av
+företagshälsovården. De utför hälsokontroller och ger våra
+medarbetare individuella tips och råd om hur de kan främja
+sin hälsa. En sammanställning av resultaten från dessa häl-
+sokontroller ihop med resultat från personalenkäten ger oss
+indikationer på vilka övriga åtgärder vi behöver arbeta med
+för att främja hälsa och förebygga ohälsa bland personalen.
+Ett generöst friskvårdsbidrag ger våra medarbetare möj-
+lighet att välja den eller de aktiviteter som kan stimulera till
+ett friskare liv. De flesta arbeten, stillasittande liksom mer
 fysiskt belastande, ger effekter på rygg och nacke.
 Till reducerat pris får våra medarbetare en gång i månaden
 möjlighet att besöka vår legitimerade massör/osteopat.
-52                                 22
+
+52                                22
 (42 %) kvinnor
 medarbetare
 30
@@ -22646,25 +23467,26 @@ Anställningstid                    personalomsättning
 Antal nyanställda
 i snitt
 endast externrekryteringar
-3,9   %
+3,9  %
 11                 2
 en man och
-år               st
+år              st
 en kvinna.
-åldersfördelning              Snittålder
+åldersfördelning             Snittålder
 för hela bolaget
-Ålder Kvinnor Män             47,5
-19-29 år 2 st 2 st                   år
+Ålder Kvinnor Män            47,5
+19-29 år 2 st 2 st                  år
 30-49 år 8 st 14 st
 50-69 år 10 st 13 st
 Antal deltid per kön
-100   %
-5          3
-kvinnor   män
+100    %
+5         3
+kvinnor    män
 4 tjänstepersoner 1 tjänsteperson
 Känner sig trygga i sin anställning
 1 kollektivanställd 2 kollektivanställda
 enligt medarbetarenkät hösten 2022.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2022 17
 Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
@@ -22799,46 +23621,79 @@ Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
 SOCIAL HÅLLBARHET
 
-vi bidrar  till  kungsbackas
+vi bidrar   till kungsbackas
 
 fortsatta    utveckling
 
-Kungsbacka kommun är en populär plats att bo på. Underhåll
-Närheten till natur, hav och sjö kombinerat med en tydlig Vi har glädjande nog, trots de rådande omständigheterna,
-framåtanda och trygghet gör att många väljer att bosätta hållit en hög underhållsnivå gentemot hyresgästerna både
-sig här. Vi är glada att kunna erbjuda bostäder i hela kom- invändigt och utvändigt under året. Underhållsarbetet har
-munen och vi vågar säga att vi har bostäder som passar skett löpande och för att nämna några större underhållsar-
-alla. Vi är Kungsbackas enda kommunala bostadsbolag beten har vi bland annat utfört fönsterbyte på Rosengatan
-och vi tar ansvar för att fortsätta bygga och förse kommu- 18–44, köksrenoveringar på Slåttervägen, takrenovering på
-nen med hållbara och trivsamma bostäder. Andreas väg och generellt många badrumsrenoveringar.
-Underhållsplaneringen följs upp under året och närmaste
-Nya bostäder under 2022         åren strävar vi efter att bibehålla den kvaliteten vi har. Vi har
-En av våra viktigaste uppgifter förutom att förvalta och hyra också rustat upp Kullavik centrum för att skapa en trevliga-
-ut våra befintliga bostäder är att utveckla Kungsbacka som re miljö för hyresgästerna.
+Kungsbacka kommun är en populär plats att bo på.
+Närheten till natur, hav och sjö kombinerat med en tydlig
+framåtanda och trygghet gör att många väljer att bosätta
+sig här. Vi är glada att kunna erbjuda bostäder i hela kom-
+munen och vi vågar säga att vi har bostäder som passar
+alla. Vi är Kungsbackas enda kommunala bostadsbolag
+och vi tar ansvar för att fortsätta bygga och förse kommu-
+nen med hållbara och trivsamma bostäder.
+Nya bostäder under 2022
+En av våra viktigaste uppgifter förutom att förvalta och hyra
+ut våra befintliga bostäder är att utveckla Kungsbacka som
 bostads- och verksamhetskommun. På grund av den kraf-
-tigt ökade inflationen och ökade byggpriser flyttades flera Förutsättningar för nyproduktion
-planerade nybyggnadsprojekt fram och istället har vi tagit Det är en lång och krävande process att utveckla råmark
-vara på och byggt om ytor som resulterat i nya lägenheter. till färdiga bostäder. Att investera i mark i tidigt skede är
-En lokal på Andreas väg i Vallda som tidigare använts av nödvändigt för att vi ska kunna leverera nya bostäder till
-hemtjänsten blev tre nya lägenheter och en banklokal på våra kommuninvånare. Flera av våra senaste och pågående
-Östergatan i centrala Kungsbacka blev två nya lägenheter. byggprojekt är resultat av tidigare strategiska markköp. För
-att uppnå kommunala gemensamma mål och kunna tillföra
-Björkris vård- och omsorgsboende hållbara bostäder i kommunens alla delar krävs det lång-
-Efter cirka 18 månaders byggtid stod Björkris vård- och siktiga samarbeten med andra byggherrar, markägare och
-omsorgsboende klart. Det är vårt enskilt största projekt nå- framför allt krävs det ett bra samarbete med kommunens
-gonsin och kommunens största vård- och omsorgsboende. berörda förvaltningar. Hyresrätter är eftertraktade i Kungs-
-Överlämningen till Kungsbacka kommun skedde i decem- backa, inte bara i centrala kärnan utan i hela kommunen
-ber 2022 och planerad inflyttning är i början på 2023. - något vi hoppas avspeglas i kommande kommunal plane-
-ring av bostäder. Den tidigare målsättningen, att färdigställa
-Renovering, till- och ombyggnad på Rosengatan 18–44 75 nya hyresrätter årligen, kommer att revideras nedåt med
-Rosengatan 18–44 byggdes 1969 och är ett av våra största anledning av de rådande omständigheterna på marknaden.
-områden i centrala Kungsbacka med totalt 115 lägenheter. Vi försöker att vara starka, utmanande och engagerade i
-Under 2022 har renoveringen fortsatt och ett av husen har vår roll som byggherre. För oss är det viktigt att vara med
-nu fått ett nytt ventilationsrum uppe på taket. Förutom ett hela vägen, från början till slut. Upphandling, projektledning
-nytt ventilationsrum innefattar renoveringen underhållsar- och kontrollansvar utförs till största del internt av vår egen
-beten och standardhöjande åtgärder i form av bland annat personal. Det leder till ett stort mervärde och säkerställer
-avlopp, värmesystem, vattenrör, fönster med mera. Projek- förvaltningskvaliteten på slutprodukten.
+tigt ökade inflationen och ökade byggpriser flyttades flera
+planerade nybyggnadsprojekt fram och istället har vi tagit
+vara på och byggt om ytor som resulterat i nya lägenheter.
+En lokal på Andreas väg i Vallda som tidigare använts av
+hemtjänsten blev tre nya lägenheter och en banklokal på
+Östergatan i centrala Kungsbacka blev två nya lägenheter.
+Björkris vård- och omsorgsboende
+Efter cirka 18 månaders byggtid stod Björkris vård- och
+omsorgsboende klart. Det är vårt enskilt största projekt nå-
+gonsin och kommunens största vård- och omsorgsboende.
+Överlämningen till Kungsbacka kommun skedde i decem-
+ber 2022 och planerad inflyttning är i början på 2023.
+Renovering, till- och ombyggnad på Rosengatan 18–44
+Rosengatan 18–44 byggdes 1969 och är ett av våra största
+områden i centrala Kungsbacka med totalt 115 lägenheter.
+Under 2022 har renoveringen fortsatt och ett av husen har
+nu fått ett nytt ventilationsrum uppe på taket. Förutom ett
+nytt ventilationsrum innefattar renoveringen underhållsar-
+beten och standardhöjande åtgärder i form av bland annat
+avlopp, värmesystem, vattenrör, fönster med mera. Projek-
 tet beräknas vara klart 2024.
+
+Underhåll
+Vi har glädjande nog, trots de rådande omständigheterna,
+hållit en hög underhållsnivå gentemot hyresgästerna både
+invändigt och utvändigt under året. Underhållsarbetet har
+skett löpande och för att nämna några större underhållsar-
+beten har vi bland annat utfört fönsterbyte på Rosengatan
+18–44, köksrenoveringar på Slåttervägen, takrenovering på
+Andreas väg och generellt många badrumsrenoveringar.
+Underhållsplaneringen följs upp under året och närmaste
+åren strävar vi efter att bibehålla den kvaliteten vi har. Vi har
+också rustat upp Kullavik centrum för att skapa en trevliga-
+re miljö för hyresgästerna.
+Förutsättningar för nyproduktion
+Det är en lång och krävande process att utveckla råmark
+till färdiga bostäder. Att investera i mark i tidigt skede är
+nödvändigt för att vi ska kunna leverera nya bostäder till
+våra kommuninvånare. Flera av våra senaste och pågående
+byggprojekt är resultat av tidigare strategiska markköp. För
+att uppnå kommunala gemensamma mål och kunna tillföra
+hållbara bostäder i kommunens alla delar krävs det lång-
+siktiga samarbeten med andra byggherrar, markägare och
+framför allt krävs det ett bra samarbete med kommunens
+berörda förvaltningar. Hyresrätter är eftertraktade i Kungs-
+backa, inte bara i centrala kärnan utan i hela kommunen
+\- något vi hoppas avspeglas i kommande kommunal plane-
+ring av bostäder. Den tidigare målsättningen, att färdigställa
+75 nya hyresrätter årligen, kommer att revideras nedåt med
+anledning av de rådande omständigheterna på marknaden.
+Vi försöker att vara starka, utmanande och engagerade i
+vår roll som byggherre. För oss är det viktigt att vara med
+hela vägen, från början till slut. Upphandling, projektledning
+och kontrollansvar utförs till största del internt av vår egen
+personal. Det leder till ett stort mervärde och säkerställer
+förvaltningskvaliteten på slutprodukten.
+
 “Vi tar ansvar för att fortsätta bygga
 och förse kommunen med hållbara och
 trivsamma bostäder”
@@ -22945,23 +23800,21 @@ SOCIAL HÅLLBARHET
 
 aktuell   nyproduktion
 
-Rya ängar och Rossared          Åsa Stationsväg, Åsa
-Under kommande år planerar vi att starta två projekt. Rya Projektet är ett samarbete med Derome Bostad som pla-
-Ängar etapp två i Frillesås innefattar 26 lägenheter, samma nerar att utveckla sin del med bostadsrätter. Detaljplanen
-antal som i etapp ett. I Rossared i Fjärås planeras det för överklagades och Mark- och miljödomstolen upphävde
-totalt 50 lägenheter, uppdelade i tre etapper. planen. Ett omtag med lägre bebyggelse på delar av
-fastigheten krävs. Det är oklart när reviderad plan kan vinna
-Bukärrsgården, Särö             lagakraft. Totalt planeras det för 16 hyresrätter.
+Rya ängar och Rossared
+Under kommande år planerar vi att starta två projekt. Rya
+Ängar etapp två i Frillesås innefattar 26 lägenheter, samma
+antal som i etapp ett. I Rossared i Fjärås planeras det för
+totalt 50 lägenheter, uppdelade i tre etapper.
+Bukärrsgården, Särö
 En process för ändring av gällande detaljplan är inledd.
-Den kommer att vinna laga kraft under slutet av 2023. Det Stockalid Åsa
-medför att vi efter ombyggnation av det före detta äldrebo- Planprogrammet är klart och framtagandet av detaljplan
-endet kan tillföra cirka 50 bostäder i olika variationer för ett pågår genom en byggaktörsdriven planprocess. Detaljpla-
-trivsamt komplement i nya Särö Centrum. nen vann laga kraft i december 2022. Det har varit lärorikt
-att i samverkan med kommunens olika förvaltningar arbeta
-Algusered, Särö                 fram en detaljplan. Projektet görs i samverkan med Nordr
-I samband med att kommunen avvecklade förskolan för och Jemmet AB som äger övriga delar av området. De kom-
-några år sedan påbörjades en planprocess för att möjliggö- mer att bygga bostadsrätter. Vårt mål är att tillskapa cirka 30
-ra nyproducerade bostäder. Detaljplanen vann, efter visst hyresrätter. Preliminär byggstart är början av 2024.
+Den kommer att vinna laga kraft under slutet av 2023. Det
+medför att vi efter ombyggnation av det före detta äldrebo-
+endet kan tillföra cirka 50 bostäder i olika variationer för ett
+trivsamt komplement i nya Särö Centrum.
+Algusered, Särö
+I samband med att kommunen avvecklade förskolan för
+några år sedan påbörjades en planprocess för att möjliggö-
+ra nyproducerade bostäder. Detaljplanen vann, efter visst
 överklagande, laga kraft sommaren 2021. Platsen möjliggör
 cirka 30 hyresrätter samt fyra tomter för egenbyggnation.
 Byggstart är planerad till 2024. Utmaningen är, likt många
@@ -22978,9 +23831,7 @@ En av kvalitetsmätningarna som görs är en studie
 av verkligt uppmätta värden jämfört med projekte-
 rade värden avseende energiprestandan. Resul-
 tatet visar att byggnaderna uppfyller beräknade
-Skiss över området
 värden eller bättre än beräknat. Nöjda hyresgäster
-Rossared i Fjärås
 och andel garantianmärkningar är andra parame-
 trar. De positiva resultaten stärker oss i meningen
 att partneringsamverkan med rätt partners är ett
@@ -22997,11 +23848,36 @@ varje nyproduktionsprojekt avsätter medverkande
 entreprenörer ekonomiska medel för att främja
 innovation och nytänkande inom energieffektivt
 byggande eller solenergi. Det har gett flertalet
-nya spännande lösningar som senare har kunnat Nära hav och natur på
-användas och utvecklas i andra byggprojekt. Boställets väg, Rya Ängar
-i Frillesås
+nya spännande lösningar som senare har kunnat
+användas och utvecklas i andra byggprojekt.
 22
-Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
+Transaktion 09222115557491263401
+
+Åsa Stationsväg, Åsa
+Projektet är ett samarbete med Derome Bostad som pla-
+nerar att utveckla sin del med bostadsrätter. Detaljplanen
+överklagades och Mark- och miljödomstolen upphävde
+planen. Ett omtag med lägre bebyggelse på delar av
+fastigheten krävs. Det är oklart när reviderad plan kan vinna
+lagakraft. Totalt planeras det för 16 hyresrätter.
+Stockalid Åsa
+Planprogrammet är klart och framtagandet av detaljplan
+pågår genom en byggaktörsdriven planprocess. Detaljpla-
+nen vann laga kraft i december 2022. Det har varit lärorikt
+att i samverkan med kommunens olika förvaltningar arbeta
+fram en detaljplan. Projektet görs i samverkan med Nordr
+och Jemmet AB som äger övriga delar av området. De kom-
+mer att bygga bostadsrätter. Vårt mål är att tillskapa cirka 30
+hyresrätter. Preliminär byggstart är början av 2024.
+
+Skiss över området
+Rossared i Fjärås
+
+Nära hav och natur på
+Boställets väg, Rya Ängar
+i Frillesås
+
+Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
 <!-- sida 689 -->
 
@@ -23024,35 +23900,58 @@ För oss på Eksta har miljöfrågan alltid varit i fokus, ända sedan starten 1
 och det vi bygger ska vi också ta hand om i många år framöver. Vårt energikoncept är välkänt i landet
 och vi har länge legat i framkant när det gäller biobränsle, solenergi och passivhus. Strategin är att så
 långt som det är möjligt förlita oss på förnybara energikällor.
-Biobränsle och fjärrvärmeverksamhet sett uteslutande är baserat på förnybar energi. Statkraft är
-Arbetet med att få driftsäkra och lönsamma system har också en bra samarbetspartner för utveckling inom hållbar
-prioriterats under året. Vi har idag 19 små fjärrvärmeverk energiproduktion.
+
+Biobränsle och fjärrvärmeverksamhet
+Arbetet med att få driftsäkra och lönsamma system har
+prioriterats under året. Vi har idag 19 små fjärrvärmeverk
 i Kungsbacka kommun som drivs av biobränsle, i huvud-
 sak pellets. Dessa förser våra bostäder med värme och
 varmvatten. Fjärrvärmeverken är så effektiva att uppvärm-
-vi har cirka
 ningskostnaderna för våra hus är bland de lägsta i Sverige.
-För att säkra driften vid eventuellt fel eller störning finns en 400 externa
+För att säkra driften vid eventuellt fel eller störning finns en
 oljepanna som back-up. Storleken varierar från 100 KW till
-5 MW. En anläggning på Liabovägen har under året byggts fjärrvärmekunder
+5 MW. En anläggning på Liabovägen har under året byggts
 om till en ren undercentral då systemet numer är ihop-
 kopplat med Bukärrsgårdens anläggning. En stor del i att
 få lönsamma system grundas i att få så många användare
-som möjligt, både internt och externt. Detta för att utnyttja Dagligt arbete och framtida utveckling
-energin till fullo.             Våra fjärrvärmeverk ronderas i stort sett varje dag av våra
-områdesansvariga fastighetsskötare. Det är viktigt för att se
-Fjärrvärmekunder                att allt fungerar som det ska och att inget avviker från det
-I anläggningar där vi producerar mer energi än vi själva för- normala. Till hjälp har de en digital app där de för in dagens
-brukar, erbjuder vi externa fastighetsägare att ansluta sig till värden. Kommunens avdelning Miljö och hälsoskydd har
-vårt nät och bli fjärrvärmekunder. De lämnar då direktver- genomfört tillsyn för att se att vi uppfyller Miljöbalkens
-kande el och oljepanna bakom sig och går över till Ekstas krav, vilka samtliga har varit godkända. För att säkerstäl-
-miljökloka alternativ med sol och biobränsle. I dagsläget la att våra anläggningar uppfyller säkerhetskraven enligt
-har vi cirka 400 externa fjärrvärmekunder där Kungsbacka AFS (arbetsmiljöverkets författningssamling) har ett antal
-kommun är den enskilt största. Under 2022 har vi anslutit tre godkända trepartsbesiktningar utförts. En projektering för
-nya kunder - en förskola, en gruppbostad och en villa. ny rökgasledning har påbörjats för vår största panna i Fjärås.
-Ekstas bestånd i centrala Kungsbacka är anslutet till Ett nytt EU-direktiv träder i kraft 2025–2030 och innebär att
-Statkrafts fjärrvärmesystem. Statkrafts produktion är 100 % stoftet ska halveras.
+som möjligt, både internt och externt. Detta för att utnyttja
+energin till fullo.
+Fjärrvärmekunder
+I anläggningar där vi producerar mer energi än vi själva för-
+brukar, erbjuder vi externa fastighetsägare att ansluta sig till
+vårt nät och bli fjärrvärmekunder. De lämnar då direktver-
+kande el och oljepanna bakom sig och går över till Ekstas
+miljökloka alternativ med sol och biobränsle. I dagsläget
+har vi cirka 400 externa fjärrvärmekunder där Kungsbacka
+kommun är den enskilt största. Under 2022 har vi anslutit tre
+nya kunder - en förskola, en gruppbostad och en villa.
+Ekstas bestånd i centrala Kungsbacka är anslutet till
+Statkrafts fjärrvärmesystem. Statkrafts produktion är 100 %
 fossilfritt. Det innebär att företagets behov av värme i stort
+
+sett uteslutande är baserat på förnybar energi. Statkraft är
+också en bra samarbetspartner för utveckling inom hållbar
+energiproduktion.
+
+vi har cirka
+400   externa
+
+fjärrvärmekunder
+
+Dagligt arbete och framtida utveckling
+Våra fjärrvärmeverk ronderas i stort sett varje dag av våra
+områdesansvariga fastighetsskötare. Det är viktigt för att se
+att allt fungerar som det ska och att inget avviker från det
+normala. Till hjälp har de en digital app där de för in dagens
+värden. Kommunens avdelning Miljö och hälsoskydd har
+genomfört tillsyn för att se att vi uppfyller Miljöbalkens
+krav, vilka samtliga har varit godkända. För att säkerstäl-
+la att våra anläggningar uppfyller säkerhetskraven enligt
+AFS (arbetsmiljöverkets författningssamling) har ett antal
+godkända trepartsbesiktningar utförts. En projektering för
+ny rökgasledning har påbörjats för vår största panna i Fjärås.
+Ett nytt EU-direktiv träder i kraft 2025–2030 och innebär att
+stoftet ska halveras.
 
 Våra fjärrvärmeverk
 ronderas nästan
@@ -23266,7 +24165,7 @@ energiingejörer
 
 e Nationella rådet för industriellt byggande
 
-e Hyresnämnden
+. Hyresnämnden
 
 VISSTE DU ATT...
 
@@ -23719,7 +24618,7 @@ detta nyckeltal landar vi i stället på 1 420 kr/kvm jämfört
 med föregående årssiffra på 1356 kr/kvm.
 
 Hyreshöjningen för 2022 trädde i kraft 1 januari. Hyrorna
-höjdes i genomsnitt 1,8022 (1,1090).
+höjdes i genomsnitt 1,8024 (1,1090).
 
 Transaktion 09222115557491263401
 
@@ -23776,7 +24675,7 @@ Eksta Bostads AB gör varje år en desktop-värdering av
 samtliga fastigheter. Under 2022 gjordes en samordnad
 värdering av samtliga fastigheter i beståndet med hjälp
 
-av Newsec. I den samlade värderingen ingår även 202 av
+av Newsec. I den samlade värderingen ingår även 2026 av
 fastigheter som blev värderade på plats. Dessa fastigheter
 är utvalda för att få en jämn fördelning gällande yta, typ och
 område mellan åren. Eksta Bostads AB värderar återkom-
@@ -23815,7 +24714,7 @@ begränsningsregeln och klarar således att få fullt avdrag
 för räntekostnaderna. Rådande ränteläge och fortsatta
 stigande marknadsräntor kommer resultera i att bolaget,
 under närmaste åren, kommer få betydande ökningar
-gällande räntekostnader. Detta i sin tur kommer lega till att
+gällande räntekostnader. Detta i sin tur kommer leda till att
 bolaget landar över gränsen för ränteavdrag, vilket då även
 resulterar i ökade skattekostnader
 
@@ -23845,7 +24744,7 @@ ga avskrivningar enligt ägardirektivet.
 Soliditeten fortsätter att stiga till 16,12 22 (14,93 26) men
 uppfyller inte det långsiktiga målet på 20 2. Den justerade
 soliditeten som tar hänsyn till övervärdena i fastighets-
-beståndet uppgår till 41,88 2 (41,34 26) och uppfyller dock
+beståndet uppgår till 41,88 2 (41,34 22) och uppfyller dock
 målsättningen.
 
 Transaktion 09222115557491263401
@@ -23942,7 +24841,7 @@ tionsprojekt då intresset är väldigt stort för nyproducerade
 lägenheter både i Frillesås och Fjärås.
 
 Den höga Inflationen kommer att påverka våra kommer-
-siella lokalhyresgäster. Men då Kungsbacka är en attraktiv
+siella lokalhyresgäster Men då Kungsbacka är en attraktiv
 kommun att vara verksam i bedömer vi att risken för vakan-
 ser är låg.
 
@@ -24029,9 +24928,9 @@ nödvändigheten och möjligheten att effektivisera
 energianvändningen ur ett LCA-perspektiv.
 
 \+ Vi skall ta steget mot ett ökat inslag av träbyggnation
-även konstruktionsmåssigt.
+även konstruktionsmässigt.
 
-Vi skall lägga vårt forus på att använda så lite energi
+Vi skall lägga vårt fokus på att använda så lite energi
 som möjligt ur ett livskostnadsperspektiv.
 
 e Vi skall använda de energislag som ger minsta
@@ -24076,16 +24975,27 @@ definitioner nyckeltal
 Fastigheter          Avkastning på eget kapital Soliditet
 färdigställda byggnader plus mark och Resultat efter finansiella poster, i Redovisat eget kapital och obeskattad
 markanläggningar.    förhållande till genomsnittligt eget kapital. reserv i förhållande till balansomslutning.
+
 Lägenhetsyta/lokalyta Driftkostnader      Justerad soliditet
-Uthyrningsbar yta vid årets slut. Driftkostnaderna har justerats för Redovisat eget kapital plus kapitalandelen
-försäljning av hushållsel och extern av obeskattade reserver plus bedömt
-Direktavkastning     värmeförsäljning.    övervärde i fastigheter minskat med
-Rörelseresultat exklusive                 uppskjuten skatt i förhållande till
-avskrivningar i relation till materiella Driftöverskott balansomslutning justerad för övervärdet.
+
+Uthyrningsbar yta vid årets slut. Driftkostnaderna har justerats för
+försäljning av hushållsel och extern
+Direktavkastning     värmeförsäljning.
+Rörelseresultat exklusive
+avskrivningar i relation till materiella Driftöverskott
 anläggningstillgångar. Resultat före avskrivningar och finansiella
-poster.              Kassaflöde exkl. investeringar
+poster.
+
+Redovisat eget kapital plus kapitalandelen
+av obeskattade reserver plus bedömt
+övervärde i fastigheter minskat med
+uppskjuten skatt i förhållande till
+balansomslutning justerad för övervärdet.
+Kassaflöde exkl. investeringar
 Resultat efter finansnetto plus
+
 avskrivningar
+
 34
 Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
@@ -24445,7 +25355,7 @@ Allmänna redovisningsprinciper
 Byggnader
 gen (1995:1554) och BFNAR 2012:1 Årsredovisning och
 koncernredovisning (K3).         Grund och stomme          100 år
-Bedömningar och uppskattningar   Fasader                   50 år
+Bedömningar och uppskattningar   Fasader                    50 år
 Alla bedömningar och uppskattningar är i linje med vad
 Yttertak, fönster och dörrar 40 år
 som är normalt för branschen. Genomförda nedskrivningar
@@ -24456,7 +25366,7 @@ Lokalanpassningar          10 år
 Intäkterna redovisas till nominellt värde.
 Övrigt\*                   100 år
 Tjänste- och entreprenaduppdrag
-Byggnadsinventarier       20 år
+Byggnadsinventarier        20 år
 Företaget vinstavräknar utförda uppdrag till fast pris när
 arbetet är fullgjort. Pågående uppdrag värderas till direkt Markanläggningar 50 år
 nedlagda utgifter med tillägg för indirekta utgifter samt
@@ -24470,62 +25380,66 @@ Värmedistributionsanläggningar
 Låneutgifter
 Låneutgifter kostnadsförs i den period de uppstår. Avser Kulvertar 50 år
 låneutgifterna finansiering av tillverkning av tillgångar som
-Undercentraler            40 år
+Undercentraler             40 år
 tar betydande tid att färdigställa (exempelvis byggnader)
 räknas låneutgifterna (räntorna) in i anskaffningsvärdet. Inventarier 5 år
-Leasing                         \*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+
+Leasing
 Företaget redovisar leasingavtal som en kostnad linjärt över
-Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
 leasingperioden.
-fastigheter till ett värde över 10 mkr.
 Ersättningar till anställda
-Finansiella instrument
 Företagets ersättningar innefattar bl.a. löner, betald se-
-Finansiella instrument värderas utifrån anskaffningsvärdet.
 mester, betald frånvaro, och ersättningar efter avslutad
 anställning i form av pensioner. Redovisning sker i takt med
-Varulager
 intjänandet. Bonus och liknande förkommer ej. Företaget
-Varulagret består av bränslen och är värderat till nettovär-
 har endast avgiftsbestämda pensionsplaner. Utgifter för
-det på balansdagen. Inköpspris från senaste fakturor har
 dessa redovisas som en kostnad under den period de an-
-används.
 ställda arbetar.
-Koncernredovisning
 Skatt
-Koncernredovisningen omfattar Tempohus Kungsbacka AB
 Total skatt utgörs av aktuell skatt och uppskjuten skatt och
-för 2022 samt Tempohus Kungsbacka AB och Björkgläntans
 redovisas i resultaträkningen. Aktuell skatt avser inkomst-
-Fastighets AB för 2021. Koncernredovisningen är upprät-
 skatt för föregående räkenskapsår. Uppskjuten skatt är
-tad enligt förvärvsmetoden. Förvärvsmetoden innebär att
 inkomstskatt som avser framtida räkenskapsår till följd av
-koncernens anskaffningsvärden på aktier och andelar vid
 tidigare händelser. Redovisning sker enligt balansräknings-
-förvärvstidpunkten avräknas mot det förvärvade företa-
 metoden. Enligt denna redovisas uppskjutna skatteskulder
-gets egna kapital inkl. andelen eget kapital i obeskattade
 och uppskjutna skattefordringar på temporära skillnader
-reserver. I koncernens egna kapital ingår härigenom endast
 som uppstår mellan bokförda och skattemässiga värden för
-den del av dotterbolagets egna kapital som tillkommit efter
 tillgångar och skulder samt för övriga skattemässiga avdrag
-förvärvet. Vid upprättandet av koncernbalansräkningen har
 eller underskott.
-obeskattade reserver uppdelats i två delar, dels uppskjuten
-skatteskuld vilken redovisas under rubriken avsättningar
 Anläggningstillgångar
-och dels eget kapital. Den uppskjutna skatteskulden upptas
 Materiella och immateriella anläggningstillgångar redovisas
-till aktuell skattesats. Därmed redovisas inga bokslutsdispo-
 till anskaffningsvärde minskat med ackumulerade avskriv-
-sitioner och obeskattade reserver i koncernredovisningen.
 ningar och nedskrivningar. Materiella anläggningstillgångar
 har delats upp på betydande komponenter enligt princi-
 perna för komponentavskrivning. Följande avskrivningstider
 tillämpas byggnades komponenter:
+
+\*vilket innebär att åtgärder av typ ytskikt i lägenheter kostnadsförs.
+Bolaget har i ägardirektiv begränsningar i sin rätt att avyttra
+fastigheter till ett värde över 10 mkr.
+Finansiella instrument
+Finansiella instrument värderas utifrån anskaffningsvärdet.
+Varulager
+Varulagret består av bränslen och är värderat till nettovär-
+det på balansdagen. Inköpspris från senaste fakturor har
+används.
+Koncernredovisning
+Koncernredovisningen omfattar Tempohus Kungsbacka AB
+för 2022 samt Tempohus Kungsbacka AB och Björkgläntans
+Fastighets AB för 2021. Koncernredovisningen är upprät-
+tad enligt förvärvsmetoden. Förvärvsmetoden innebär att
+koncernens anskaffningsvärden på aktier och andelar vid
+förvärvstidpunkten avräknas mot det förvärvade företa-
+gets egna kapital inkl. andelen eget kapital i obeskattade
+reserver. I koncernens egna kapital ingår härigenom endast
+den del av dotterbolagets egna kapital som tillkommit efter
+förvärvet. Vid upprättandet av koncernbalansräkningen har
+obeskattade reserver uppdelats i två delar, dels uppskjuten
+skatteskuld vilken redovisas under rubriken avsättningar
+och dels eget kapital. Den uppskjutna skatteskulden upptas
+till aktuell skattesats. Därmed redovisas inga bokslutsdispo-
+sitioner och obeskattade reserver i koncernredovisningen.
+
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2022 41
 Transaktion 09222115557491263401 Signerat CK, MW, ML, KW, FE, IL, HS, IÅH, AL
 
@@ -26234,77 +27148,99 @@ Transaktion 09222115557491503294 Signerat CK, FE, ML, AL
 Förvaltningsberättelse
 
 Styrelsen och Verkställande direktören för Tempo-
-Finansiella ägardirektiv
 hus Kungsbacka AB, 559151–1349, avger följande
-Aktuellt läge gentemot direktiven
 berättelse för bolagets verksamhet 2022-01-01-2022-
-Bolagets direktiv är att sträva efter att generera årliga
 12-31. Bolaget är helägt av Eksta Bostads AB 556497–
-positiva resultat och att ge moderbolaget en mark-
 8293\. Tempohus Kungsbacka AB hänvisar till Eksta
-nadsmässig avkastning på insatt kapital. Verksam-
 Bostads AB:s hållbarhetsrapport för 2022. Rapporten
-hetsåret visar ett positivt resultat.
 går att ladda ner och läsa på www.eksta.se
-Kvalitetsredovisning
 Viktiga händelser 2022
-Bolaget följer moderbolagets processer, ramavtal och
 Sedan 2020 har bolaget övergått helt till traditionell
-egenkontroller och har också underavtal med bl a
 fastighetsförvaltning av beståndet och med fokus på
-inköpsorganisationen HBV.
 att få ett stabilt positivt kassaflöde.
-Byggverksamhet
+
 Detaljplanen för Skårby 2:3 Anneberg vann laga kraft
 i slutet av 2022. Det är nu viktigt att inleda bygglov-
 sprocessen så att permanent bygglov kan sökas och
-Behovet av bostäder för nyanlända har minskat under
 erhållas för de 52 lägenheterna. Byggnationen är i
-2022\. Bolaget kommer därför inte att investera i några
 dagsläget på tillfälligt bygglov och marken arrenderas
-nybyggnadsprojekt eller hyra in några bostäder under
 av Kungsbacka kommun.
-kommande år. Skulle behovet uppkomma hyrs bostä-
-der in från moderbolaget.
 Lägenheterna i Anneberg är byggda i enlighet med
 Boverkets byggnadsregler och uppfyller dem. Om
-Aktuella projekt
 förlängning av bygglov inte medges är det möjligt att
-Permanent bygglov kommer att sökas under kom-
 demontera fastigheterna och återuppbygga dem.
-mande verksamhetsår för bostäderna på Södra Anne-
-bergsvägen. Vissa kompletteringar krävs i form av
+
 Vid verksamhetsårets slut har bolaget 69 bostäder för
-exempelvis fler parkeringsplatser och förråd. Dessa
 uthyrning till kommunplacerade nyanlända i Kungs-
-arbeten beräknas var klara under hösten 2023.
 backa. Samtliga hyreskontrakt är tidsbegränsade
 till uthyrning i max två år.
-Årets    resultat
+
 Villafastigheter
-Totalt äger bolaget fyra villafastigheter och har inte Årets resultat, ett överskott om 451 966 kr, avspeglar
-förvärvat några nya under 2022. ett år där bolaget främst sysslat med förvaltningsverk-
-Dessa fastigheter ligger på Inlagsvägen i Kungsbacka, samhet.
+Totalt äger bolaget fyra villafastigheter och har inte
+förvärvat några nya under 2022.
+Dessa fastigheter ligger på Inlagsvägen i Kungsbacka,
 Fjärås Bräckaväg i Fjärås, Nancys promenad i Åsa,
-Stockalidsvägen i Åsa. Under hösten 2022 tömdes Styrelsens förslag till resultatdisposition
-villan på Stockalidsvägen i Åsa inför rivning som kom- Styrelsen och verkställande direktören föreslår att det
-mer genomföras under vintern 2023. fria egna kapitalet, ett överskott om 3 657 023 kr,
-balanseras i ny räkning.
+Stockalidsvägen i Åsa. Under hösten 2022 tömdes
+villan på Stockalidsvägen i Åsa inför rivning som kom-
+mer genomföras under vintern 2023.
 Administration och fastighetsskötsel
-Bolaget har inga egna anställda och administrativa Styrelsen bedömer att utdelning inte bör ske med
-tjänster köps in från moderbolaget. Den tekniska hänsyn till de krav som verksamhetens art, omfattning
-förvaltningen och fastighetsskötseln köps in på entre- och risker ställer på storleken på det egna kapitalet
-prenad.                         och bolagets konsolideringsbehov, likviditet och ställ-
-ning i övrigt.
+Bolaget har inga egna anställda och administrativa
+tjänster köps in från moderbolaget. Den tekniska
+förvaltningen och fastighetsskötseln köps in på entre-
+prenad.
+
 Verksamheten
-Vi möter 2023 med stor tillförsikt.
 Intäkterna från den löpande verksamheten uppgår
-Styrelsen och Verkställande direktören
 till 7,6 miljoner (7,4 miljoner). Volymökningen avser
 till stor del hyreshöjning. Årets resultat uppgår till 0,5
 miljoner (1,2 miljoner). Det lägre resultatet jämfört
 med föregående år beror främst på ökade drift- och
 underhållskostnader.
+
+Finansiella ägardirektiv
+Aktuellt läge gentemot direktiven
+Bolagets direktiv är att sträva efter att generera årliga
+positiva resultat och att ge moderbolaget en mark-
+nadsmässig avkastning på insatt kapital. Verksam-
+hetsåret visar ett positivt resultat.
+Kvalitetsredovisning
+Bolaget följer moderbolagets processer, ramavtal och
+egenkontroller och har också underavtal med bl a
+inköpsorganisationen HBV.
+
+Byggverksamhet
+
+Behovet av bostäder för nyanlända har minskat under
+2022\. Bolaget kommer därför inte att investera i några
+nybyggnadsprojekt eller hyra in några bostäder under
+kommande år. Skulle behovet uppkomma hyrs bostä-
+der in från moderbolaget.
+Aktuella projekt
+Permanent bygglov kommer att sökas under kom-
+mande verksamhetsår för bostäderna på Södra Anne-
+bergsvägen. Vissa kompletteringar krävs i form av
+exempelvis fler parkeringsplatser och förråd. Dessa
+arbeten beräknas var klara under hösten 2023.
+
+Årets    resultat
+
+Årets resultat, ett överskott om 451 966 kr, avspeglar
+ett år där bolaget främst sysslat med förvaltningsverk-
+samhet.
+
+Styrelsens förslag till resultatdisposition
+Styrelsen och verkställande direktören föreslår att det
+fria egna kapitalet, ett överskott om 3 657 023 kr,
+balanseras i ny räkning.
+Styrelsen bedömer att utdelning inte bör ske med
+hänsyn till de krav som verksamhetens art, omfattning
+och risker ställer på storleken på det egna kapitalet
+och bolagets konsolideringsbehov, likviditet och ställ-
+ning i övrigt.
+
+Vi möter 2023 med stor tillförsikt.
+Styrelsen och Verkställande direktören
+
 4                                                                                                                                Årsredovisning Tempohus 2022 5
 Transaktion 09222115557491503294 Signerat CK, FE, ML, AL
 
@@ -26687,8 +27623,6 @@ Utgående balans 2022-12-31 100 000 000 3 205 057 451966 103 657 023
 ägenheterna på
 odra Ä eberg age
 
-Lä dä
-
 '
 
 sredovisning Tempohus 2022
@@ -27054,68 +27988,106 @@ Signerat CK, FE, ML, AL
 
 Revisionsberättelse
 
-Vi måste informera styrelsen om bland annat revisionens direktören i något väsentligt avseende:
+Vi måste informera styrelsen om bland annat revisionens
 planerade omfattning och inriktning samt tidpunkten för
-företagit någon åtgärd eller gjort sig skyldig till någon
 den. Vi måste också informera om betydelsefulla iakttagel-
-försummelse som kan föranleda ersättningsskyldighet
 ser under revisionen, däribland de eventuella betydande
-mot bolaget, eller
 brister i den interna kontrollen som vi identifierat.
-på något annat sätt handlat i strid med aktiebolagsla-
 Rapport om andra krav enligt lagar och
-gen, årsredovisningslagen eller bolagsordningen.
 andra författningar
+
 Uttalanden
-Utöver vår revision av årsredovisningen har vi även utfört Vårt mål beträffande revisionen av förslaget till dispositio-
-en revision av styrelsens och verkställande direktörens ner av bolagets vinst eller förlust, och därmed vårt uttalan-
-förvaltning av Tempohus Kungsbacka AB för år 2022 samt de om detta, är att med rimlig grad av säkerhet bedöma
-av förslaget till dispositioner beträffande bolagets vinst om förslaget är förenligt med aktiebolagslagen.
+Utöver vår revision av årsredovisningen har vi även utfört
+en revision av styrelsens och verkställande direktörens
+förvaltning av Tempohus Kungsbacka AB för år 2022 samt
+av förslaget till dispositioner beträffande bolagets vinst
 eller förlust.
-Rimlig säkerhet är en hög grad av säkerhet, men ingen
-Vi tillstyrker att bolagsstämman disponerar vinsten enligt garanti för att en revision som utförs enligt god revisions-
-förslaget i förvaltningsberättelsen och beviljar styrelsens sed i Sverige alltid kommer att upptäcka åtgärder eller för-
-ledamöter och verkställande direktören ansvarsfrihet för summelser som kan föranleda ersättningsskyldighet mot
-räkenskapsåret.                 bolaget, eller att ett förslag till dispositioner av bolagets
-vinst eller förlust inte är förenligt med aktiebolagslagen.
+Vi tillstyrker att bolagsstämman disponerar vinsten enligt
+förslaget i förvaltningsberättelsen och beviljar styrelsens
+ledamöter och verkställande direktören ansvarsfrihet för
+räkenskapsåret.
 Grund för uttalanden
-Vi har utfört revisionen enligt god revisionssed i Sverige. Som en del av en revision enligt god revisionssed i
-Vårt ansvar enligt denna beskrivs närmare i avsnittet Revi- Sverige använder vi professionellt omdöme och har en
-sorns ansvar. Vi är oberoende i förhållande till Tempohus professionellt skeptisk inställning under hela revisionen.
-Kungsbacka AB enligt god revisorssed i Sverige och har i Granskningen av förvaltningen och förslaget till disposi-
-övrigt fullgjort vårt yrkesetiska ansvar enligt dessa krav. tioner av bolagets vinst eller förlust grundar sig främst på
-revisionen av räkenskaperna. Vilka tillkommande gransk-
-Vi anser att de revisionsbevis vi har inhämtat är tillräckliga ningsåtgärder som utförs baseras på vår professionella
-och ändamålsenliga som grund för våra uttalanden. bedömning med utgångspunkt i risk och väsentlighet.
-Det innebär att vi fokuserar granskningen på sådana
-Styrelsens och verkställande direktörens ansvar åtgärder, områden och förhållanden som är väsentliga för
-Det är styrelsen som har ansvaret för förslaget till disposi- verksamheten och där avsteg och överträdelser skulle ha
-tioner beträffande bolagets vinst eller förlust. Vid förslag särskild betydelse för bolagets situation. Vi går igenom och
-till utdelning innefattar detta bland annat en bedömning prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
-av om utdelningen är försvarlig med hänsyn till de krav och andra förhållanden som är relevanta för vårt uttalande
-som bolagets verksamhetsart, omfattning och risker stäl- om ansvarsfrihet. Som underlag för vårt uttalande om sty-
-ler på storleken av bolagets egna kapital, konsoliderings- relsens förslag till dispositioner beträffande bolagets vinst
-behov, likviditet och ställning i övrigt. eller förlust har vi granskat om förslaget är förenligt med
-aktiebolagslagen.
+Vi har utfört revisionen enligt god revisionssed i Sverige.
+Vårt ansvar enligt denna beskrivs närmare i avsnittet Revi-
+sorns ansvar. Vi är oberoende i förhållande till Tempohus
+Kungsbacka AB enligt god revisorssed i Sverige och har i
+övrigt fullgjort vårt yrkesetiska ansvar enligt dessa krav.
+Vi anser att de revisionsbevis vi har inhämtat är tillräckliga
+och ändamålsenliga som grund för våra uttalanden.
+
+Styrelsens och verkställande direktörens ansvar
+Det är styrelsen som har ansvaret för förslaget till disposi-
+tioner beträffande bolagets vinst eller förlust. Vid förslag
+till utdelning innefattar detta bland annat en bedömning
+av om utdelningen är försvarlig med hänsyn till de krav
+som bolagets verksamhetsart, omfattning och risker stäl-
+ler på storleken av bolagets egna kapital, konsoliderings-
+behov, likviditet och ställning i övrigt.
 Styrelsen ansvarar för bolagets organisation och förvalt-
-ningen av bolagets angelägenheter. Detta innefattar Göteborg den dag som framgår av vår elektroniska under-
-bland annat att fortlöpande bedöma bolagets ekonomiska skrift.
+ningen av bolagets angelägenheter. Detta innefattar
+bland annat att fortlöpande bedöma bolagets ekonomiska
 situation och att tillse att bolagets organisation är utfor-
-mad så att bokföringen, medelsförvaltningen och bolagets Ernst & Young AB
+mad så att bokföringen, medelsförvaltningen och bolagets
 ekonomiska angelägenheter i övrigt kontrolleras på ett
 betryggande sätt. Verkställande direktören ska sköta den
 löpande förvaltningen enligt styrelsens riktlinjer och anvis-
 ningar och bland annat vidta de åtgärder som är nödvän-
-diga för att bolagets bokföring ska fullgöras i överensstäm- Anders Linusson
-melse med lag och för att medelsförvaltningen ska skötas Auktoriserad revisor
+diga för att bolagets bokföring ska fullgöras i överensstäm-
+melse med lag och för att medelsförvaltningen ska skötas
 på ett betryggande sätt.
 Revisorns ansvar
 Vårt mål beträffande revisionen av förvaltningen, och
 därmed vårt uttalande om ansvarsfrihet, är att inhämta
 revisionsbevis för att med en rimlig grad av säkerhet kun-
 na bedöma om någon styrelseledamot eller verkställande
-14                                                                                                                               Årsredovisning Tempohus 2022 15
-Transaktion 09222115557491503294 Signerat CK, FE, ML, AL
+14
+Transaktion 09222115557491503294
+
+direktören i något väsentligt avseende:
+företagit någon åtgärd eller gjort sig skyldig till någon
+försummelse som kan föranleda ersättningsskyldighet
+mot bolaget, eller
+
+på något annat sätt handlat i strid med aktiebolagsla-
+gen, årsredovisningslagen eller bolagsordningen.
+
+Vårt mål beträffande revisionen av förslaget till dispositio-
+ner av bolagets vinst eller förlust, och därmed vårt uttalan-
+de om detta, är att med rimlig grad av säkerhet bedöma
+om förslaget är förenligt med aktiebolagslagen.
+Rimlig säkerhet är en hög grad av säkerhet, men ingen
+garanti för att en revision som utförs enligt god revisions-
+sed i Sverige alltid kommer att upptäcka åtgärder eller för-
+summelser som kan föranleda ersättningsskyldighet mot
+bolaget, eller att ett förslag till dispositioner av bolagets
+vinst eller förlust inte är förenligt med aktiebolagslagen.
+Som en del av en revision enligt god revisionssed i
+Sverige använder vi professionellt omdöme och har en
+professionellt skeptisk inställning under hela revisionen.
+Granskningen av förvaltningen och förslaget till disposi-
+tioner av bolagets vinst eller förlust grundar sig främst på
+revisionen av räkenskaperna. Vilka tillkommande gransk-
+ningsåtgärder som utförs baseras på vår professionella
+bedömning med utgångspunkt i risk och väsentlighet.
+Det innebär att vi fokuserar granskningen på sådana
+åtgärder, områden och förhållanden som är väsentliga för
+verksamheten och där avsteg och överträdelser skulle ha
+särskild betydelse för bolagets situation. Vi går igenom och
+prövar fattade beslut, beslutsunderlag, vidtagna åtgärder
+och andra förhållanden som är relevanta för vårt uttalande
+om ansvarsfrihet. Som underlag för vårt uttalande om sty-
+relsens förslag till dispositioner beträffande bolagets vinst
+eller förlust har vi granskat om förslaget är förenligt med
+aktiebolagslagen.
+Göteborg den dag som framgår av vår elektroniska under-
+skrift.
+Ernst & Young AB
+
+Anders Linusson
+Auktoriserad revisor
+
+Årsredovisning Tempohus 2022 15
+Signerat CK, FE, ML, AL
 
 <!-- sida 751 -->
 
@@ -28072,7 +29044,6 @@ Justerare                         Expedierat/bestyrkt
 
 KUNGSBACKA KOMMUN
 KOMMUNSTYRELSE
-2021 -04- 0 9
 DD Kungsbackaborna
 DV vsssssssönsoneversunsonenen nt RON
 Motion till KF möte 2021-04-13 2021-04-07
@@ -31559,7 +32530,7 @@ Motion
 Närvarorätt för personalföreträdare i politiska nämnder
 
 Bestämmelserna om närvarorätt för företrädare för de anställda i kommunen
-finns i kommunallagen 7 kapitlet 8-17 \$\$. Grundläggande är att närvarorätten
+finns i kommunallagen 7 kapitlet 8-17 §§. Grundläggande är att närvarorätten
 gäller vid sammanträden med andra nämnder än kommunstyrelsen. Med
 nämnder avses organ som har förvaltnings- och verkställighetsuppgifter.
 Närvarorätten gäller inte i utskott, revision, förtroendenämnder, valnämnd
@@ -32510,7 +33481,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 24 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-00215/00
+§ 168 KS10-00215/00
 
 Slutrapport och förslag till fortsatt arbete med Invånardialog
 samt upphörande av arbetsordning för Kommunala
@@ -32525,9 +33496,9 @@ Kommunstyrelsen får i uppdrag att under 2012 inarbeta projektet Invånardialog 
 Kungsbacka kommuns styrmodell.
 
 Arbetsordning för Kommunala handikapprådet — KHR — i Kungsbacka, antagen av
-KF \$ 146/2001, upphör härmed att gälla.
+KF § 146/2001, upphör härmed att gälla.
 
-Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF \$ 10/1989, upphör
+Arbetsordning för Pensionärsrådet i Kungsbacka, antagen av KF § 10/1989, upphör
 härmed att gälla.
 
 Nämnden för Aldreomsorg och nämnden för Funktionsstöd får i uppdrag att, minst
@@ -32550,7 +33521,7 @@ Slutrapport Invånardialog i Kungsbacka, daterad juni 2012, godkänns och
 
 Sammanfattning
 
-Kommunstyrelsen beslutade 2010-12-14, \$ 269, att Kommunala Handikapprådet och
+Kommunstyrelsen beslutade 2010-12-14, § 269, att Kommunala Handikapprådet och
 Kommunala pensionärsrådet skulle ersättas med pilotprojektet Medborgardialog,
 (senare ersatt med Invånardialog). Förslag till nytt arbetssätt/organisation skulle
 återrapporteras senast juni 2012.
@@ -32572,7 +33543,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 25 (54)
 Sammanträdesdatum
 2012-08-14
-\$ 168 KS10-002157/00
+§ 168 KS10-002157/00
 
 Projektet har, som övergripande syfte, fokuserat på att skapa ökad transparens och
 engagemang för de gemensamma frågorna i kommunen bland invånarna och på att
@@ -32596,9 +33567,9 @@ Beslutsunderlag
 Skrivelse från styrgruppsledaren för projektet 2012-06-07, med slutrapport och
 handbok för invånardialog.
 
-Kommunstyrelsens arbetsutskott 2012-06-12, \$ 223
+Kommunstyrelsens arbetsutskott 2012-06-12, § 223
 
-Kommunstyrelsen 2012-06-19, \$ 149
+Kommunstyrelsen 2012-06-19, § 149
 
 Anförande
 
@@ -33017,7 +33988,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 28 (58)
 Sammanträdesdatum
 2012-03-13
-\$ 53 KS10-00039/3
+§ 53 KS10-00039/3
 
 Förslag till förändring av tomt- och småhuskön
 
@@ -33077,7 +34048,7 @@ KUNGSBACKA KOMMUN
 Kommuntullmäktige SAMMANTRÄDESPROTOKOLL 29 (58)
 Sammanträdesdatum
 2012-03-13
-\$ 53 fortsättning KS10-00039/3
+§ 53 fortsättning KS10-00039/3
 
 Kommunen har idag fem (5) exploateringsavtal kvar som reglerar försäljning av
 tomtmark respektive småhus med bostadsrätt. I normalfallet skall 30 procent av
@@ -33092,12 +34063,12 @@ Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2011-12-07
 
-Kommunstyrelsens arbetsutskott 2011-12-13, \$ 433 — Ärendet återremitteras
+Kommunstyrelsens arbetsutskott 2011-12-13, § 433 — Ärendet återremitteras
 Kommunstyrelsens förvaltning, skrivelse 2012-01-18
 
-Kommunstyrelsens arbetsutskott 2012-01-31, \$ 35
+Kommunstyrelsens arbetsutskott 2012-01-31, § 35
 
-Kommunstyrelsen 2012-02-21, \$ 47
+Kommunstyrelsen 2012-02-21, § 47
 
 Proposition
 Ordföranden ställer proposition på kommunstyrelsens förslag och finner det bifallet.

@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319190613id_/https://www.kungsbacka.
 sha256: 14163763c5ceff60ec392d52dfbe22c0ba1731745342b658e7364944ad1efaed
 bytes: 26057337
 sidor: 550
-hamtad: 2026-10-27T08:57:29+00:00
-konverterad: 2026-10-27T09:01:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:28:25+00:00
+konverterad: 2026-11-17T03:32:42+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [51, 66, 78, 79, 80, 81, 82, 83, 84, 85, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 136, 137, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 177, 221, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 502, 503, 504, 505, 506, 507, 508, 509, 537, 538, 544, 550]
 figurer: [66, 71, 73, 90, 91, 92, 93, 95, 97, 99, 119, 135, 136, 137, 138, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 196, 220, 229, 231, 245, 246, 247, 257, 259, 260, 261, 262, 263, 264, 265, 268, 269, 270, 271, 272, 273, 274, 276, 279, 292, 297, 302, 305, 310, 314, 323, 346, 350, 352, 354, 364, 365, 370, 375, 380, 385, 390, 396, 397, 399, 407, 408, 411, 414, 417, 440, 468, 469, 470, 471, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 498, 499, 500, 501, 544]
 tolkade: []
@@ -1893,17 +1893,6 @@ Kommundirektör                Biträdande kommundirektör
 
 <!-- sida 51 -->
 
-Kungsbacka kommun
-434 81 Kungsbacka
-Besöksadress
-Vägmästaren, Syréngatan 1
-Telefon 0300-83 40 00
-Fax 0300-83 47 04
-(e-post borttagen)
-www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
 Utredning avseende handlingsplan för ett större och aktivare
 ansvar för att människor som står långt från arbetsmarknaden
 1 (5)
@@ -1914,11 +1903,13 @@ Kungsbacka kommun har under en längre tid arbetat för att arbetslösa med
 försörjningsstöd snabbt ska nå en egen försörjning. Detta sker genom Kungsbackas
 unika arbetsmarknadsprocess som bland annat hämtat inspiration från den så kallade
 Trelleborgsmodellen.
+
 En avgörande del i arbetet handlar om att de insatser som ska erbjudas ska vara
 relevanta, ha en nära arbetsmarknadskoppling och för den enskilda individen
 resultera i en ökad kompetens som kan medföra en ordinarie anställning.
 Utgångspunkten är att arbetsmarknadsinsatserna inte består av konstruerade
 arbetsuppgifter utan är riktiga och reella och sker i en ordinarie arbetsplatsmiljö.
+
 Förvaltningen för Gymnasium & Arbetsmarknad har ansvaret för Kungsbackas
 arbetsmarknadsprocess och detta förslag till handlingsplan passar väl in i det arbete
 som pågår vid förvaltningen.
@@ -1926,6 +1917,7 @@ Kungsbacka kommun är största arbetsgivare i kommunen och kan i egenskap av sin
 storlek och sitt uppdrag, erbjuda varierande arbetsuppgifter över vitt skilda
 verksamhetsområden. Cirka 6 700 månadsavlönade medarbetare arbetar inom
 framförallt vård, omsorg, skola och barnomsorg, serviceyrken och teknikfunktioner.
+
 Årligen rekryteras cirka 1000 personer till olika arbetsuppgifter och anställningar.
 Via kommunens vikariecenter hanteras och samordnas också en mängd timavlönade
 vikarier till de större förvaltningarna.
@@ -1933,6 +1925,17 @@ Under många år har arbetsmarknadsprognoser visat att kompetensförsörjning
 kommer att bli en stor utmaning för kommunal sektor och då inte minst inom vård,
 omsorg och utbildning. De senaste årens pandemi har tillfälligt bromsat upp bristen
 på personal, men kompetensbristen bedöms trots det slå igenom starkt då offentlig
+
+Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Vägmästaren, Syréngatan 1
+Telefon 0300-83 40 00
+Fax 0300-83 47 04
+(e-post borttagen)
+www.kungsbacka.se
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 52 -->
 
@@ -3046,7 +3049,6 @@ Ritning, vyer 2021-09-20 6
 
 BILAGA T
 
-DATUM
 2021-10-04
 
 Utdrag ur primärkartan FRILLESÅS-RYA 2:3
@@ -3139,11 +3141,7 @@ X
 TUELLT
 PLANOMRÅDE
 
-rå A MET FER Ps RAR
-
 VY FRÅN VÄST
-
-AT VOTE INET
 
 VY FRÅN ÖST
 
@@ -3243,8 +3241,6 @@ FRILLESÅS-RYA 2:3, LURENDAL 1:3 I ANSÖKAN PLANBESKED
 M grill A
 
 Å
-
-Pete &S te
 O 19 p-platser <
 N A 2 HKP, 6 p-platser
 
@@ -3445,79 +3441,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 91 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -3591,117 +3645,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
-233 Frillesås förskola           160
+233 Frillesås förskola          160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 94 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 95 -->
 
@@ -3721,40 +3823,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
+507 Bmss                         12
 508 a Bmss                            12
+
 508 b Bmss                            12
-508 c Bmss                             8
-508 d Bmss                                  2
-
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
 
-510 Ordinärt boende           2   2    2    2   2
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -3810,43 +3922,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -3856,40 +3976,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.
@@ -4131,7 +4259,7 @@ Stad, antagen av kommunfullmäktige 2009-06-16, som nytt område för verksamhet
 Området redovisas i kommunens dokument ”Mark för Näringslivet”.
 
 Fastigheter som berörs i etapp 1 är Ysby 1:4 och Ysby 2:15 och 3:26. Transportcentrum
-i Kungsbacka AB äger 30 96 och Kommunen 70 94 av arealen inom etapp 1. Kostnader
+i Kungsbacka AB äger 30 96 och Kommunen 70 240 av arealen inom etapp 1. Kostnader
 för iordningställande av etapp 1 har fördelats i förhållande till ägarandelarna.
 
 Viavest AB har idag tillstånd för deponi och återvinning av inert material inom etapp 1
@@ -4514,8 +4642,6 @@ För Kungsbacka kommun
 
 DIOR Nao
 
-nr I CEAM Ae br a RS SAVA
-
 fans FOA berg CE
 kKormam un rd ret Cleo PAL lravam UA Lie ST
 
@@ -4739,7 +4865,7 @@ Detta avtal är upprättat i fyra likalydande exemplar, varav parterna tagit ett
 För Kungsbacka kommun
 2018-// -/A
 
-Hans Forsbergl Pm C(ba Ao Ale FS hom
+Hans Forsbergl Pm C(ba Ao Ale FS ham
 Lkommunsh Pr (SCA-A ord f- Lkommundi vel tor
 
 För Viavest AB
@@ -4810,7 +4936,6 @@ www.comfact.com
 
 Validera dokumentet | Användarvillkor
 
-ND FN ( i
 ronne Referensnunnmmner: O0A st tenalursida
 
 <!-- sida 121 -->
@@ -5869,11 +5994,22 @@ Underskrift. = | Uäderskrift =
 
 Namnförtydligande Namnfö tydligande
 Malin Aronsson
-Underskrift TE - - Lo | 4
 
 EXPLOATERINGSAVTAL Kvarteret Banken Sida 5 av 6
 
 <!-- sida 148 -->
+
+Bilaga A - Exploateringsområdet
+
+fe
+2
+0
+AO
+10
+
+Skola
+
+EXPLOATERINGSAVTAL Kvarteret Banken Sida 6 av 6
 
 <!-- sida 149 -->
 
@@ -5944,8 +6080,6 @@ Underskrift
 Kommunen 2019-005 25 Bolaget 201917 K
 
 igand Namnförtydligande
-
-il /4
 
 Emma Kjernald Peder Kagsted
 
@@ -7038,6 +7172,13 @@ Informationssäkerhet
 UPPFÖLJNING AV GRANSKNING AV
 INFORMATIONSSÄKERHET
 
+Uppföljning av granskning av informationssäkerhet                 1 (4)
+
+Datum
+2021-08-26
+Nedan framgår granskningens rekommendationer samt kommunstyrelsen och övriga
+nämnders gemensamma svar på de frågor som ställts i aktuell uppföljning 2021.
+
 Kommunstyrelsens förvaltning                                 Kungsbacka kommun
 Lotta Blomqvist                                               434 81 Kungsbacka
 Säkerhets- och beredskapschef
@@ -7047,14 +7188,8 @@ Fax 0300-83 47 04
 (e-post borttagen)
 (e-post borttagen)
 www.kungsbacka.se
-92-50-3102
-,0.2v
-,2001BUK
-Uppföljning av granskning av informationssäkerhet                 1 (4)
-Datum
-2021-08-26
-Nedan framgår granskningens rekommendationer samt kommunstyrelsen och övriga
-nämnders gemensamma svar på de frågor som ställts i aktuell uppföljning 2021.
+
+KUB1002, v2.0, 2013-05-29
 
 [Tabell 177-1](handlingar.tabeller/177-1.csv)
 
@@ -8899,11 +9034,8 @@ Publikationsnummer: 2021:186
 ISBN: 978-91-7725-950-3
 
 2 (224)
-0.3
-llereneg
-troppaR
-4000
-LLAMT
+
+TMALL 0004 Rapport generell 3.0
 
 <!-- sida 222 -->
 
@@ -18843,12 +18975,15 @@ i Norrbotten och Västerbotten. Publikation 2021:229
 
 Bilaga 1, Förslag till nationell plan för transportinfrastrukturen 2022-2033
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
+inklusive
+Kostnad Nationell plan tillkommande
+Järnvägsstråk /                finansieringar utöver
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
+Farled
 2022-2033 Total 2022-2033 Total
-
 Vidmakthållande                362 000 362 000 388 883 388 883
 Väg Hela Landet Hela landet Vidmakthållande väg 149 900 149 900 149 900 149 900
 Vidmakthållande större
@@ -18947,50 +19082,30 @@ LTS; Hallsberg-Malmö/Göteborg,
 05-Pågående Pågående Järnväg Hela Landet Hela landet 736 758 736 758
 åtgärder för långa godståg
 05-Pågående Pågående Järnväg Hela Landet Hela landet Nationellt tågledningssystem 412 1 764 412 1 764
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
-inklusive
-Kostnad Nationell plan tillkommande
-Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
-Farled
+
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
 
 <!-- sida 434 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 Ny optoanläggning för ökad
 05-Pågående Pågående Järnväg Hela Landet Hela landet kapacitet i kommunikationsnät 3 719 7 590 3 719 7 590
 inkl. vägklassifisering
@@ -19086,31 +19201,29 @@ brist
 2028-2033 JärnvägHalland Markarydsbanan 58 58   124 124 30% 87 162 9,18 1 218
 kandidater                 mötesspår
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 435 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 04-Avslut
 med smärre
 Öppet för trafVikäg Halland SkåneCykelled Kattegattleden 6 69 6 189
@@ -19216,31 +19329,29 @@ Stax 32.5 ton
 utpekade
 brist
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 436 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 08-NTP nya                                                                 SEB.pdf
 kandidater
 Malmbanan Svappavaara-Kiruna
@@ -19356,31 +19467,29 @@ Väg Stockholm E4 E4 Tomteboda-Haga södra 9 644 46 3 333
 reståtgärder/ trafik
 kostnader
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 437 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 Stockholms Barkarby bytespunkt med
 05-Pågående Pågående JärnvägStockholm      182  218   324 459
 närområde anslutning till tunnelbana
@@ -19488,31 +19597,29 @@ Väg Västerbotten E4 E4 Djäkneboda-Bygdeå 6 282 6 282
 reståtgärder/ trafik
 kostnader
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 438 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 Norrbotniabanan Umeå-Dåva ny
 05-Pågående Pågående JärnvägVästerbotten Norrbotniabanan 1 018 1 555 1 072 1 689
 järnväg
@@ -19622,31 +19729,29 @@ Namngivna     Götaland
 2025-2027 Väg E20    E20 Götene - Mariestad 522 587 1 309 1 373 17% 1 140 1 607 0,39 790
 Namngivna     Götaland
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 439 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 07-Ej bundna  Västra       Göteborg och Västsverige
 namngivna 2025-2027 Järnväg Götaland Västra stambanan Omloppsnära uppställningsspår (5) 1 528 1 610 1 528 1 610 16% 1 354 1 866
 SEB.pdf
@@ -19731,31 +19836,29 @@ Lund cykelobjekt (cykelbanor och
 cykelgarage)
 05-Pågående Pågående Väg Skåne Malmö cykelobjekt 149 155 594 619
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 440 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 Malmö, Stadsbusslinje (EL-MEX-
 05-Pågående Pågående Väg Skåne             904  1 442 3 014 3 449
 och EL-bussar)
@@ -19855,31 +19958,29 @@ E18 Valnäs-riksgränsen, deletapp                SEB.pdf
 Väg Värmland E18 Bäckevarv – Årjäng, ombyggnad 553 553 553 553 30% 387 719 < 0 -14
 till 2+1
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 441 -->
 
-Osäkerhets-intervall
-
-NNK-  Länkar NNV
-idu   SEB
-2022-2033 Total 2022-2033 Total
-tehrekäsO
-)%
--/+(
-VVA
-DTS
-%51(
-niM
-)tehkilonnas
-%58(
-xaM
-)tehkilonnas
-Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad
+Belopp i mnkr - Fastpris 202102 från år 2022 Total objektkostnad Osäkerhets-intervall
 inklusive
 Kostnad Nationell plan tillkommande
 Järnvägsstråk /                finansieringar utöver
-Planerad Trafik- Kategori Län Vägnummer / Objekt planeringsram
-byggstart slag
+Planerad Trafik-                                               NNK-  Länkar
+Kategori       Län Vägnummer / Objekt              planeringsram       NNV
+byggstart slag                                                 idu   SEB
 Farled
+2022-2033 Total 2022-2033 Total
 E18 Valnäs-riksgränsen, deletapp                SEB.pdf
 Väg Värmland E18 Töcksfors – Bäckevarv, 773 773 773 773 30% 541 1 005 0,54 582
 ombyggnad till 2+1
@@ -19905,26 +20006,25 @@ ombyggnad 2+1
 (4): Alternativ finansiering ska utredas.
 (5) Översyn av några objektets totalkostnad, NNK och NNV liksom samhällsekonomiska effekter pågår. Uppgifterna kompletteras senare
 
+Osäkerhet
+
+STD AVV (+/- %)
+
+Min (15%
+
+sannolikhet)
+
+Max (85%
+
+sannolikhet)
+
 <!-- sida 442 -->
-
-NERGGREB
-
-SNAH/ES.RENHOJ
-
-:OTOFSGALSMO
-
-.TNEVE
-&
-MROF
-,TEKREVKIFART
-
-:GALSMO
-
-.TEKREVKIFART
 
 Trafikverket, 781 89 Borlänge. Besöksadress: Röda vägen 1
 Telefon: 0771-921 921, Texttelefon: 010-123 50 00
 trafikverket.se
+
+TRAFIKVERKET. OMSLAG: TRAFIKVERKET, FORM & EVENT. OMSLAGSFOTO: JOHNER.SE/HANS BERGGREN
 
 <!-- sida 443 -->
 
@@ -20317,7 +20417,6 @@ Reglemente för k ommunrevisionen Sida 5 av 5
 <!-- sida 453 -->
 
 ÄNDRINGSREGISTER
-
 Datum
 2021-11-30
 Diarienummer
@@ -20327,6 +20426,7 @@ KS 2021-00946
 Ingress
 
 Nuvarande lydelse               Föreslagen lydelse
+
 Utöver det som föreskrivs i kommunallagen
 eller andra författningar och i Gemensamt
 reglemente för kommunstyrelsen och nämnder
@@ -20335,31 +20435,57 @@ i detta reglemente.
 
 1 § Revisionens roll uppdrag
 
-Nuvarande lydelse                Föreslagen lydelse
-Revisorerna och lekmannarevisorerna Kommun- och lekmannarevisorerna
-(revisionen)                     (revisionen) med sakkunniga biträden som
+Nuvarande lydelse
+
+Revisorerna och lekmannarevisorerna
+(revisionen)
+
+är fullmäktiges och ytterst
+medborgarnas demokratiska instrument för
+granskning och kontroll av den verksamhet
+som bedrivs i styrelser, nämnder,
+fullmäktigeberedningar och företag.
+Revisionen har en central roll när det gäller att
+säkerställa insynen i och kontrollen av all
+verksamhet som kommunen ansvarar för.
+Den har därmed en viktig funktion i
+den lokala självstyrelsen. Revisionen kan
+skänka legitimitet och förtroende åt
+verksamheten, men också vara förmedlare av
+
+väsentlig och nödvändig kritik. Med sina
+insatser kan revisionen också generera bidrag
+till förbättring och utveckling.
+Den övergripande revisionsuppgiften i
+kommunen är att granska om verksamheten
+följer fullmäktiges beslut och om
+verksamheten uppnår de politiska målen inom
+
+Föreslagen lydelse
+
+Kommun- och lekmannarevisorerna
+(revisionen) med sakkunniga biträden som
 revisionen anlitar
+är fullmäktiges och ytterst medborgarnas
+demokratiska instrument för granskning och
+kontroll av den verksamhet som bedrivs i
+styrelser, nämnder samt
+fullmäktigeberedningar och företag.
+Revisionen har en central roll när det gäller att
+säkerställa insynen i och kontrollen av all
+verksamhet som kommunen ansvarar för.
+Revisionen har därmed en viktig funktion i den
+lokala självstyrelsen. Revisionen kan skänka
+legitimitet och förtroende åt verksamheten,
+men också vara förmedlare av väsentlig och
 
-är fullmäktiges och ytterst      är fullmäktiges och ytterst medborgarnas
-medborgarnas demokratiska instrument för demokratiska instrument för granskning och
-granskning och kontroll av den verksamhet kontroll av den verksamhet som bedrivs i
-som bedrivs i styrelser, nämnder, styrelser, nämnder samt
-fullmäktigeberedningar och företag. fullmäktigeberedningar och företag.
-Revisionen har en central roll när det gäller att Revisionen har en central roll när det gäller att
-säkerställa insynen i och kontrollen av all säkerställa insynen i och kontrollen av all
-verksamhet som kommunen ansvarar för. verksamhet som kommunen ansvarar för.
-Den har därmed en viktig funktion i Revisionen har därmed en viktig funktion i den
-den lokala självstyrelsen. Revisionen kan lokala självstyrelsen. Revisionen kan skänka
-skänka legitimitet och förtroende åt legitimitet och förtroende åt verksamheten,
-verksamheten, men också vara förmedlare av men också vara förmedlare av väsentlig och
-väsentlig och nödvändig kritik. Med sina nödvändig kritik. Med sina insatser kan
-insatser kan revisionen också generera bidrag revisionen också generera bidrag till
-till förbättring och utveckling. förbättring och utveckling.
-
-Den övergripande revisionsuppgiften i Den övergripande revisionsuppgiften i
-kommunen är att granska om verksamheten kommunen är att granska om verksamheten
-följer fullmäktiges beslut och om följer fullmäktiges beslut och om
-verksamheten uppnår de politiska målen inom verksamheten uppnår de politiska målen inom
+nödvändig kritik. Med sina insatser kan
+revisionen också generera bidrag till
+förbättring och utveckling.
+Den övergripande revisionsuppgiften i
+kommunen är att granska om verksamheten
+följer fullmäktiges beslut och om
+verksamheten uppnår de politiska målen inom
 
 Kommunledningskontoret                                Kungsbacka kommun
 Kansliet                                               434 81 Kungsbacka
@@ -20374,52 +20500,77 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (8)
 
-givna ekonomiska ramar. En väsentlig del är givna ekonomiska ramar. En väsentlig del är
-att främja arbetet med styrning och kontroll av att främja arbetet med styrning och kontroll av
-verksamheten.                    verksamheten.
-Att vara revisor och lekmannarevisor är ett Att vara revisor och lekmannarevisor är ett
+givna ekonomiska ramar. En väsentlig del är
+att främja arbetet med styrning och kontroll av
+verksamheten.
 
-förtroendeuppdrag vars syfte är att med förtroendeuppdrag vars syfte är att med
-oberoende, saklighet och integritet främja, oberoende, saklighet och integritet främja,
-granska och bedöma verksamheten. granska och bedöma verksamheten.
+Att vara revisor och lekmannarevisor är ett
+förtroendeuppdrag vars syfte är att med
+oberoende, saklighet och integritet främja,
+granska och bedöma verksamheten.
+
+Revisorerna granskar årligen i den omfattning
+som följer av god revisionssed all verksamhet
+som bedrivs inom nämndernas
+verksamhetsområden. De granskar på samma
+sätt genom de revisorer eller
+lekmannarevisorer som utsetts i kommunala
+bolag och stiftelser verksamheten i dessa.
+Revisorerna prövar om verksamheten sköts på
+ett ändamålsenligt och från ekonomisk
+synpunkt tillfredsställande sätt, om
+räkenskaperna är rättvisande och om den
+interna kontrollen som görs inom nämnderna
+är tillräcklig.
+
+givna ekonomiska ramar. En väsentlig del är
+att främja arbetet med styrning och kontroll av
+verksamheten.
+
+Att vara revisor och lekmannarevisor är ett
+förtroendeuppdrag vars syfte är att med
+oberoende, saklighet och integritet främja,
+granska och bedöma verksamheten.
 Kommunrevisionen och lekmannarevisorerna
 är oberoende, sakliga och har hög integritet
 när de granskar och bedömer verksamheten.
-Revisorerna granskar årligen i den omfattning
+
 Revisorerna granskar årligen i den omfattning
 som följer av god revisionssed all verksamhet
-som följer av god revisionssed all verksamhet
-som bedrivs inom nämndernas
 som bedrivs inom nämndernas
 verksamhetsområden. De granskar på samma
-verksamhetsområden. De granskar på samma
-sätt genom de revisorer eller
 sätt genom de revisorer eller
 lekmannarevisorer som utsetts i kommunala
-lekmannarevisorer som utsetts i kommunala
-bolag och stiftelser verksamheten i dessa.
 bolag och stiftelser verksamheten i dessa.
 Revisorerna prövar om verksamheten sköts på
-Revisorerna prövar om verksamheten sköts på
 ett ändamålsenligt och från ekonomisk
-ett ändamålsenligt och från ekonomisk
-synpunkt tillfredsställande sätt, om
+
 synpunkt tillfredsställande sätt, om
 räkenskaperna är rättvisande och om den
-räkenskaperna är rättvisande och om den
-interna kontrollen som görs inom nämnderna
 interna kontrollen som görs inom nämnderna
 är tillräcklig.
-är tillräcklig.
+
 § 2 Revisionens formella reglering
-Nuvarande lydelse               Föreslagen lydelse
-Revisionsarbetet ska bedrivas med Revisionsarbetet ska bedrivas med
-utgångspunkt från bestämmelserna i lag, utgångspunkt från bestämmelserna i lag,
-”God redovisningssed i kommunal ”God redovisningssed i kommunal
-verksamhet”, utfärdade ägardirektiv samt verksamhet”, utfärdade ägardirektiv samt
-detta reglemente.               detta reglemente.
+
+Nuvarande lydelse
+
+Revisionsarbetet ska bedrivas med
+utgångspunkt från bestämmelserna i lag,
+”God redovisningssed i kommunal
+verksamhet”, utfärdade ägardirektiv samt
+detta reglemente.
+
+Föreslagen lydelse
+
+Revisionsarbetet ska bedrivas med
+utgångspunkt från bestämmelserna i lag,
+”God redovisningssed i kommunal
+verksamhet”, utfärdade ägardirektiv samt
+detta reglemente.
+
 § 3 Revisorernas antal och organisation
-Nuvarande lydelse               Föreslagen lydelse
+Nuvarande lydelse                Föreslagen lydelse
+
 Kungsbacka kommun har fem-sju revisorer Kungsbacka kommun har fem-sju minst fem
 som efter allmänna val utses av fullmäktige revisorer som efter allmänna val utses av
 för en mandatperiod. Uppdraget är slutfört när fullmäktige för en mandatperiod. Uppdraget är
@@ -20434,13 +20585,12 @@ KUNGSBACKA KOMMUN                                           3 (8)
 
 mandatperioden inleds därför med dubbla mandatperioden inleds därför med dubbla
 grupper revisorer.              grupper revisorer.
+
 Om en revisor avgår eller uppdraget på något Om en revisor avgår eller uppdraget på något
 sätt upphör under mandatperioden förrättar sätt upphör under mandatperioden förrättar
-
 fullmäktige fyllnadsval snarast möjligt. fullmäktige fyllnadsval snarast möjligt.
 
 § 4 Val av ordförande
-
 Nuvarande lydelse               Föreslagen lydelse
 
 Fullmäktige skall, för den tid som fullmäktige Fullmäktige skall, för den tid som fullmäktige
@@ -20449,13 +20599,21 @@ och en vice ordförande.         ordförande.
 
 § 5 Val av lekmannarevisorer i kommunala bolag samt revisorer i stiftelser
 
-Nuvarande lydelse               Föreslagen lydelse
-För att främja ett fullt samordnat För att främja ett fullt samordnat
-revisionsarbete utser fullmäktige samtliga revisionsarbete utser fullmäktige samtliga
+Nuvarande lydelse
 
-kommunens revisorer till lekmannarevisorer i kommunens revisorer till lekmannarevisorer i
-aktiebolag samt revisorer i kommunens aktiebolag samt revisorer i kommunens
-stiftelser.                     stiftelser.
+För att främja ett fullt samordnat
+revisionsarbete utser fullmäktige samtliga
+kommunens revisorer till lekmannarevisorer i
+aktiebolag samt revisorer i kommunens
+stiftelser.
+
+Föreslagen lydelse
+
+För att främja ett fullt samordnat
+revisionsarbete utser fullmäktige samtliga
+kommunens revisorer till lekmannarevisorer i
+aktiebolag samt revisorer i kommunens
+stiftelser.
 
 § 6 Revisionens arbetssätt
 Nuvarande lydelse               Föreslagen lydelse
@@ -20464,8 +20622,8 @@ Revisorerna arbetar samfällt med hela Revisorerna arbetar samfällt samlat med 
 granskningsuppdraget.           granskningsuppdraget.
 
 § 7 Revisorernas uppgifter
-Nuvarande lydelse               Föreslagen lydelse
 
+Nuvarande lydelse               Föreslagen lydelse
 Utöver granskningsuppdraget svarar Utöver granskningsuppdraget svarar
 revisorerna för granskningen av till revisorerna för granskningen av till
 kommunen lämnade donationsstiftelser i de kommunen lämnade donationsstiftelser i de
@@ -20486,18 +20644,27 @@ utse auktoriserade och godkända revisorer. utse auktoriserade eller godkända r
 § 9 Misstanke om brott
 Nuvarande lydelse               Föreslagen lydelse
 
-Om revisorerna i sin granskning finner att det Om revisorerna i sin granskning finner att det
-föreligger misstanke om brott ska de anmäla föreligger misstanke om brott ska de anmäla
-förhållandet till berörd nämnd/styrelse. Om förhållandet till berörd nämnd/styrelse. Om
-nämnden/styrelsen finner att det föreligger nämnden/styrelsen finner att det föreligger
-misstanke om brott och inte utan oskäligt misstanke om brott och inte utan oskäligt
-dröjsmål vidtar åtgärder, är revisorerna dröjsmål vidtar åtgärder, är revisorerna
-skyldiga att rapportera agerandet till skyldiga att rapportera agerandet till
-fullmäktige.                    fullmäktige.
+Om revisorerna i sin granskning finner att det
+föreligger misstanke om brott ska de anmäla
+förhållandet till berörd nämnd/styrelse. Om
+nämnden/styrelsen finner att det föreligger
+misstanke om brott och inte utan oskäligt
+dröjsmål vidtar åtgärder, är revisorerna
+skyldiga att rapportera agerandet till
+fullmäktige.
+
+Om revisorerna i sin granskning finner att det
+föreligger misstanke om brott ska de anmäla
+förhållandet till berörd nämnd/styrelse. Om
+nämnden/styrelsen finner att det föreligger
+misstanke om brott och inte utan oskäligt
+dröjsmål vidtar åtgärder, är revisorerna
+skyldiga att rapportera agerandet till
+fullmäktige.
 
 § 10 Initiativrätt
-Nuvarande lydelse               Föreslagen lydelse
 
+Nuvarande lydelse               Föreslagen lydelse
 Revisorerna har rätt att väcka ärenden i Revisorerna har rätt att väcka ärenden i
 nämnder, styrelser, fullmäktige och nämnder, styrelser, fullmäktige och
 fullmäktigeberedningar med anledning av sin fullmäktigeberedningar med anledning av sin
@@ -20506,21 +20673,31 @@ granskning.                     granskning.
 § 11 Revisorernas ekonomi
 Nuvarande lydelse               Föreslagen lydelse
 
-Kommunfullmäktiges presidium har i uppgift Kommunfullmäktiges presidium har i uppgift
-att bereda budget för revisorernas, att bereda budget för revisorernas,
-lekmannarevisorernas och utsedda revisorer i lekmannarevisorernas och utsedda revisorer i
-stiftelsers verksamhet.         stiftelsers verksamhet
+Kommunfullmäktiges presidium har i uppgift
+att bereda budget för revisorernas,
+lekmannarevisorernas och utsedda revisorer i
+stiftelsers verksamhet.
+
+Efter verksamhetsåret ska presidiet granska
+av revisorerna upprättad rapport över
+räkenskaper och verksamhet och redovisa
+resultatet till fullmäktige.
+
+Kommunfullmäktiges presidium har i uppgift
+att bereda budget för revisorernas,
+lekmannarevisorernas och utsedda revisorer i
+stiftelsers verksamhet
 
 budgetram för kommunrevisionen.
-Efter verksamhetsåret ska presidiet granska Efter verksamhetsåret ska presidiet granska
-av revisorerna upprättad rapport över den rapport som revisorerna upprättar över
-räkenskaper och verksamhet och redovisa sina räkenskaper och sin verksamhet.
-resultatet till fullmäktige.    Presidiet ska redovisa resultatet till
+Efter verksamhetsåret ska presidiet granska
+den rapport som revisorerna upprättar över
+sina räkenskaper och sin verksamhet.
+Presidiet ska redovisa resultatet till
 fullmäktige.
 
 § 12 Kostnader för lekmannarevision och sakkunnigt biträde för bolag och stiftelser
 
-Nuvarande lydelse               Föreslagen lydelse
+Nuvarande lydelse                Föreslagen lydelse
 
 <!-- sida 457 -->
 
@@ -20533,14 +20710,23 @@ revision samt sakkunniga biträden till dessa. revision samt sakkunniga biträde
 § 13 Revisorernas sakkunniga biträden
 Nuvarande lydelse               Föreslagen lydelse
 
-Revisorerna och lekmannarevisorerna anlitar Revisorer och lekmannarevisorer anlitar
-själva sakkunniga i den         själva sakkunniga i den
-omfattning som behövs för att fullgöra omfattning som behövs för att fullgöra
-granskning enligt god revisionssed. granskning enligt god revisionssed.
-Vid upphandling tillämpas kommunens Vid upphandling tillämpas kommunens
-upphandlingsregler. Beslut om upphandling upphandlingsregler. Beslut om upphandling
+Revisorerna och lekmannarevisorerna anlitar
+själva sakkunniga i den
+omfattning som behövs för att fullgöra
+granskning enligt god revisionssed.
+Vid upphandling tillämpas kommunens
+upphandlingsregler. Beslut om upphandling
+
+fattas av revisorerna själva.
+
+Revisorer och lekmannarevisorer anlitar
+själva sakkunniga i den
+omfattning som behövs för att fullgöra
+granskning enligt god revisionssed.
+Vid upphandling tillämpas kommunens
+upphandlingsregler. Beslut om upphandling
 samt tilldelningsbeslut
-fattas av revisorerna själva.   fattas av revisorerna själva.
+fattas av revisorerna själva.
 
 § 14 Sakkunnigas rätt till upplysning
 Nuvarande lydelse               Föreslagen lydelse
@@ -20551,7 +20737,6 @@ revisorernas rätt till upplysningar gäller också revisorernas rätt till uppl
 de sakkunniga biträdena.        de sakkunniga biträdena.
 
 § 15 Revisorernas arbetsformer
-
 Nuvarande lydelse               Föreslagen lydelse
 
 Ordföranden kallar revisorerna till Ordföranden kallar revisorerna till
@@ -20559,10 +20744,10 @@ sammankomster i granskningsarbetet och sammankomster i granskningsarbetet och ti
 till sammanträden i ärenden om sin sammanträden i ärenden om sin förvaltning
 förvaltning och om jäv.         och om jäv. Fråga om jäv ställs vid
 sammanträdet.
+
 Enskilda revisorer får till dessa sammanträden Enskilda revisorer får till dessa sammanträden
 kalla även sakkunniga och andra experter kalla även sakkunniga och andra experter
 samt förtroendevalda i          samt förtroendevalda i
-
 fullmäktigeberedningar och nämnder. fullmäktigeberedningar och nämnder.
 
 § 16 Minnesanteckningar och skrivelser
@@ -20572,27 +20757,46 @@ Nuvarande lydelse               Föreslagen lydelse
 
 KUNGSBACKA KOMMUN                                           6 (8)
 
-Ordförande ansvarar för att     Ordförande ansvarar för att
-minnesanteckningar förs vid revisorernas minnesanteckningar förs vid revisorernas
-sammankomster. En skrivelse i revisorernas sammankomster. En skrivelse i revisorernas
-namn i granskningsarbetet fordrar namn i granskningsarbetet fordrar att
-att alla revisorer är ense om skrivelsens alla revisorer är ense om skrivelsens
-innehåll. Skrivelsen ska undertecknas innehåll. Skrivelsen ska undertecknas
-av ordföranden och av ytterligare en person av ordföranden och av ytterligare en person
-som revisorerna utser.          som revisorerna utser.
+Ordförande ansvarar för att
+minnesanteckningar förs vid revisorernas
+sammankomster. En skrivelse i revisorernas
+namn i granskningsarbetet fordrar
+att alla revisorer är ense om skrivelsens
+innehåll. Skrivelsen ska undertecknas
+av ordföranden och av ytterligare en person
+som revisorerna utser.
+
+Ordförande ansvarar för att
+minnesanteckningar förs vid revisorernas
+sammankomster. En skrivelse i revisorernas
+namn i granskningsarbetet fordrar att
+alla revisorer är ense om skrivelsens
+innehåll. Skrivelsen ska undertecknas
+av ordföranden och av ytterligare en person
+som revisorerna utser.
 
 § 17 Revisionens förvaltning
 Nuvarande lydelse               Föreslagen lydelse
 
-De beslut som revisorerna fattar om De beslut som revisorerna fattar om
-förvaltning och jäv ska tas upp i protokoll. förvaltning och jäv ska tas upp i protokoll.
-Ordföranden ansvarar för att protokoll Ordföranden ansvarar för att protokoll
-upprättas. Protokollet justeras av ordföranden upprättas. Protokollet justeras av ordföranden
+De beslut som revisorerna fattar om
+förvaltning och jäv ska tas upp i protokoll.
 
-och en annan revisor. Revisorerna kan besluta och en annan revisor. Revisorerna kan besluta
-att en paragraf i protokollet ska justeras att en paragraf i protokollet ska justeras
-omedelbart. Paragrafen ska redovisas omedelbart. Paragrafen ska redovisas
-skriftligt innan den justeras.  skriftligt innan den justeras.
+Ordföranden ansvarar för att protokoll
+upprättas. Protokollet justeras av ordföranden
+och en annan revisor. Revisorerna kan besluta
+att en paragraf i protokollet ska justeras
+omedelbart. Paragrafen ska redovisas
+skriftligt innan den justeras.
+
+De beslut som revisorerna fattar om
+förvaltning och jäv ska tas upp i protokoll.
+
+Ordföranden ansvarar för att protokoll
+upprättas. Protokollet justeras av ordföranden
+och en annan revisor. Revisorerna kan besluta
+att en paragraf i protokollet ska justeras
+omedelbart. Paragrafen ska redovisas
+skriftligt innan den justeras.
 Kommunrevisionen lämnar ekonomirapporter
 över sin egen förvaltning enligt
 kommunfullmäktiges regelverk.
@@ -20602,14 +20806,15 @@ Nuvarande lydelse               Föreslagen lydelse
 
 Revisionsberättelse lämnas till fullmäktige vid Revisionsberättelse lämnas till fullmäktige vid
 den tidpunkt som fullmäktige bestämmer. den tidpunkt som fullmäktige bestämmer.
-Till revisionsberättelsen fogas en förteckning Till revisionsberättelsen fogas en förteckning
 
+Till revisionsberättelsen fogas en förteckning Till revisionsberättelsen fogas en förteckning
 över de granskningsrapporterna  över de granskningsrapporterna granskningar
 som rapporterats till fullmäktige under det som rapporterats till fullmäktige under det
 senaste året. Likadant förfarande gäller för senaste året. Likadant förfarande gäller för
 lekmannarevisorerna.            lekmannarevisorerna.
 De sakkunnigas rapporter kan överlämnas till De sakkunnigas rapporter kan överlämnas till
 fullmäktige successivt, varefter de fullmäktige successivt, varefter de
+
 färdigställs, vilket ska anses vara detsamma färdigställs, vilket ska anses vara detsamma
 som att dessa fogas till revisionsberättelsen. som att dessa fogas till revisionsberättelsen.
 
@@ -20633,14 +20838,23 @@ fullmäktiges ledamöter.
 § 19 Rapportering till kommunfullmäktige
 Nuvarande lydelse               Föreslagen lydelse
 
-Revisorerna redovisar löpande resultaten i Revisorerna redovisar löpande resultaten i
-granskningsrapporten till fullmäktige av granskningsrapporten till fullmäktige av
-respektive ansvarig revisor. Så snart en respektive ansvarig revisor. Så snart en
-granskning är avslutad tillställs granskning är avslutad tillställs
-fullmäktiges presidium granskningsrapporten. fullmäktiges presidium granskningsrapporten.
-Fullmäktiges presidium svarar   Fullmäktiges presidium svarar
-för vidare spridning till fullmäktiges för vidare spridning till fullmäktiges
-ledamöter.                      ledamöter.
+Revisorerna redovisar löpande resultaten i
+granskningsrapporten till fullmäktige av
+respektive ansvarig revisor. Så snart en
+granskning är avslutad tillställs
+fullmäktiges presidium granskningsrapporten.
+Fullmäktiges presidium svarar
+för vidare spridning till fullmäktiges
+ledamöter.
+
+Revisorerna redovisar löpande resultaten i
+granskningsrapporten till fullmäktige av
+respektive ansvarig revisor. Så snart en
+granskning är avslutad tillställs
+fullmäktiges presidium granskningsrapporten.
+Fullmäktiges presidium svarar
+för vidare spridning till fullmäktiges
+ledamöter.
 
 § 19 Revisorernas utlåtande om delårsrapporten
 Nuvarande lydelse               Föreslagen lydelse
@@ -22595,7 +22809,6 @@ Kommunstyrelsens ordförande Kommundirektör
 
 <!-- sida 509 -->
 
-MP
 N/ L Överförmyndare
 IVvil I i Samverkan
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240518191038id_/https://kungsbacka.se/d
 sha256: 7f0e40670e1e259131fbcf1c666b80d5652f8cf24c846392e78f2e8413640e0a
 bytes: 6283293
 sidor: 132
-hamtad: 2026-10-26T09:06:09+00:00
-konverterad: 2026-10-26T09:06:33+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:28:14+00:00
+konverterad: 2026-11-17T02:28:36+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3328,27 +3328,47 @@ omsorgs boende i egen regi.  budget för 2023
 <!-- sida 77 -->
 
 4
+
 E
-tt samhälle i förändring att möta framtiden. Vi behöver
-beskriver de utmaningar gemensamt rusta oss med förstå­
-men också möjligheter else och sammanhang kring de
+tt samhälle i förändring
+beskriver de utmaninga
+men också möjligheter
 En     föränderlig
-vi lever med och står förändrade arbetssätt vi behöver
-inför. Samhället förändras i en skapa och implementera för att
-takt som vi tidigare aldrig har klara av nutiden och framtiden.
-värld        kräver
-skådat. Vår verksamhet ser idag Nya arbetssätt, innebär inte att
-annorlunda ut jämfört med för tidigare samarbeten eller arbetssätt
-innovation              och      mod                     bara några år sedan. Verksamheten har varit dåliga. Nya förutsätt­
+vi lever med och står
+inför. Samhället förändras i en
+takt som vi tidigare aldrig har
+värld       kräver
+skådat. Vår verksamhet ser idag
+annorlunda ut jämfört med för
+
+att möta framtiden. Vi behöver
+gemensamt rusta oss med förstå­
+else och sammanhang kring de
+förändrade arbetssätt vi behöver
+skapa och implementera för att
+klara av nutiden och framtiden.
+Nya arbetssätt, innebär inte att
+
+tidigare samarbeten eller arbetssätt
+
+innovation              och     mod                     bara några år sedan. Verksamheten har varit dåliga. Nya förutsätt­
 kommer även att genomgå stora ningar och utmaningar kräver nya
 förändringar åren framöver. För att sätt att arbeta på. Vi behöver vara
+
 möta framtiden behöver vi f ortsätta ödmjuka inför att vi inte har alla
+
 arbeta med hur vi organiserar och svaren i förväg och samtidigt vara
+
 leder vår förvaltning. modiga och våga leda från fram­
+
 För att kunna arbeta med tiden. Vi behöver ha förmågan
+
 dessa förändringar och sam­ att snabbt kunna ställa om och
+
 tidigt b ehålla en god arbetsmiljö anpassa verksamheten utifrån nya
+
 behöver organisat ionen präglas av rådande förutsättningar. Detta
+
 ett utvecklande                 trots att vi inte alltid
 ledarskap, utveck­ ”Framtiden   vet vad som kom­
 lande medarbetar­               mer hända härnäst.
@@ -3357,29 +3377,60 @@ skap och vår                    Vi ska samtidigt
 kräva utmanande
 arbetsplatskultur.              skapa trygghet och
 Vi har alla ett beslut som vi   stabilitet för Greta
+
 ansvar att tillsam­ behöver möta och oss själva. Det
 mans skapa en                   sistnämnda är en
 tillsammans.”
 organisation som                utmaning men jag
-präglas av ledare               är övertygad om att
-och medarbetare som känner tillit, vi har både hjärta och hjärna för
-mod, engagemang och trygghet. att tillsammans lyckas med detta.
-Framtiden kommer att kräva För på Vård & Omsorg så vill,
-utmanande beslut som vi behöver vågar och kan vi möta framtiden
-möta tillsammans.      modigt, klokt och tillsammans.
+
+präglas av ledare
+och medarbetare som känner tillit,
+mod, engagemang och trygghet.
+Framtiden kommer att kräva
+utmanande beslut som vi behöver
+möta tillsammans.
 Vi behöver gemensamt skapa
+
+större förståelse för varför vi
+behöver förändrade arbetssätt för
+
+är övertygad om att
+vi har både hjärta och hjärna för
+att tillsammans lyckas med detta.
+För på Vård & Omsorg så vill,
+vågar och kan vi möta framtiden
+modigt, klokt och tillsammans.
+
 Arian Faily,
-större förståelse för varför vi    förvaltningschef,
-behöver förändrade arbetssätt för    Vård & Omsorg
+förvaltningschef,
+Vård & Omsorg
 
 <!-- sida 78 -->
 
+Kommunens
+
+vision        och      mål
+
+Politikerna har fattat beslut om hur de vill att det ska
+vara att bo och leva i Kungsbacka år 2030. ”I Kungsbacka
+växer f ramtiden” är vår vision. Här skapar vi det goda livet
+tillsammans. Vi är ö ppna, trygga och nytänkande. Vi tar till
+
+vara på varje m änniskas p otential och näringslivet blomstrar.
+Här växer du hela livet. För att nå v isionen har fem kommun-
+övergripande mål tagits fram. Alla f örvaltningar ska bidra till
+att målen uppnås utifrån sina f örutsättningar. Nämnden för
+Vård & Omsorg har därefter k ompletterat med mål för det
+nämnden tycker är extra viktigt för vår förvaltning.
+
+För att ta del av kommunens vision och mål i sin helhet, besök kungsbacka.se
+
 5
 
-KOMMUNMÅL    1:
-En attraktiv kommun   att
+KOMMUNMÅL     1:
+En attraktiv kommun    att
 
-bo, verka och  vistas i
+bo, verka och vistas i
 
 I Kungsbacka ska invånarna vara trygga och
 få en god vård och omsorg när de behöver stöd
@@ -3389,30 +3440,25 @@ mötesplatser för sam varo, rekreation,
 
 upplevelser och kreativa utbyten.
 
-KOMMUNMÅL    2:
+KOMMUNMÅL     2:
 En hållbar utveckling
-Kommunens
-och en hälsosam   miljö
+och  en hälsosam  miljö
 
-vision        och      mål                                                Kungsbacka ska växa med en långsiktigt
+Kungsbacka ska växa med en långsiktigt
 hållbar ekonomi. Valfrihet, mångfald och
 livs kvalitet ska prägla vardagen och locka nya
-Politikerna har fattat beslut om hur de vill att det ska                 invånare. Växtkraften ger oss mer resurser till
-vara att bo och leva i Kungsbacka år 2030. ”I Kungsbacka                      den gemensamma välfärden.
-växer f ramtiden” är vår vision. Här skapar vi det goda livet
-tillsammans. Vi är ö ppna, trygga och nytänkande. Vi tar till
+invånare. Växtkraften ger oss mer resurser till
+den gemensamma välfärden.
 
-vara på varje m änniskas p otential och näringslivet blomstrar.
-KOMMUNMÅL    3:
-Här växer du hela livet. För att nå v isionen har fem kommun-
-övergripande mål tagits fram. Alla f örvaltningar ska bidra till          Bästa  företags klimatet
-att målen uppnås utifrån sina f örutsättningar. Nämnden för                     i Västsverige
-Vård & Omsorg har därefter k ompletterat med mål för det
-nämnden tycker är extra viktigt för vår förvaltning.                        Kungsbacka är en möjliggörare för
+KOMMUNMÅL     3:
+
+Bästa företags klimatet
+i Västsverige
+
+Kungsbacka är en möjliggörare för
 entrepre nörer och företagsamma människor.
 Vi samverkar med näringsliv och utbildning
 för att skapa nya arbetstillfällen och bidra till
-För att ta del av kommunens vision och mål i sin helhet, besök kungsbacka.se
 personal försörjning i våra verksamheter.
 
 <!-- sida 79 -->
@@ -3485,37 +3531,57 @@ tets ambassadörer i referensgrupp.
 NÄMNDMÅL:
 
 Andelen  enskilda i våra verksamheter  som
-har en aktuell genomförandeplan   ska  årligen                           Omvärldss     paningar
-öka  och år 2025 uppgå  till minst 95 procent.
-visar  att  omsorgs    tagare
-kommer      att v ilja vara
-Omvärldsspaningar visar att omsorgs­ aktuella genomförandeplaner inkluderar
-tagare kommer att vilja vara mera vi därför inte de omsorgstagare som fått mera  del aktiga   i beslut
-del aktiga i beslut som avser den egna ett biståndsb eslut verkställt de senaste fyra
-som   avser   den   egna
-vården och omsorgen. Likaså ökar veckorna. Vi tar i nämndmålet höjd för att
-kraven på behovsanpassning utifrån den det därför kommer finnas omsorgstagare
-vården   och   omsorgen.
-enskildes önskemål. Genomförande­ som inte har en aktuell genomförandeplan
-planerna ska skapa en tydlig struktur för de första veckorna, men arbetar självklart
-det praktiska genomförandet och upp­ efter att 100 procent av omsorgstagarna
-följningen av insatsen. Genomförande­ ska ha en aktuell genomförandeplan.
-planen är också till för att säkerställa
-omsorgs tagarens inflytande och För att nå målet har förvaltningen
-delaktig het i utförandet av insatsen. under året arbetat med att införa
-En genomförandeplan ska upprättas Individens Behov i Centrum (IBIC)
-senast fyra veckor efter att omsorgs­ nästa steg, fast omsorgskontakt samt
-tagaren har fått ett biståndsbeslut påbörjat ett gemensamt arbetssätt kring
-verkställt. När vi följer upp andelen hantering av genom förandeplaner.
+har en aktuell genomförandeplan   ska årligen                            Omvärldss     paningar
 
-Utfall   Utfall   Utfall Målvärde
+öka och  år 2025 uppgå  till minst 95 procent.
+visar  att  omsorgs    tagare
+
+Omvärldsspaningar visar att omsorgs­
+tagare kommer att vilja vara mera
+del aktiga i beslut som avser den egna
+vården och omsorgen. Likaså ökar
+kraven på behovsanpassning utifrån den
+enskildes önskemål. Genomförande­
+planerna ska skapa en tydlig struktur för
+
+det praktiska genomförandet och upp­
+följningen av insatsen. Genomförande­
+planen är också till för att säkerställa
+omsorgs tagarens inflytande och
+delaktig het i utförandet av insatsen.
+En genomförandeplan ska upprättas
+senast fyra veckor efter att omsorgs­
+tagaren har fått ett biståndsbeslut
+verkställt. När vi följer upp andelen
+
+kommer     att  v ilja vara
+aktuella genomförandeplaner inkluderar
+vi därför inte de omsorgstagare som fått       mera   del aktiga   i beslut
+ett biståndsb eslut verkställt de senaste fyra
+som   avser   den  egna
+veckorna. Vi tar i nämndmålet höjd för att
+det därför kommer finnas omsorgstagare
+vården    och   omsorgen.
+som inte har en aktuell genomförandeplan
+de första veckorna, men arbetar självklart
+efter att 100 procent av omsorgstagarna
+ska ha en aktuell genomförandeplan.
+För att nå målet har förvaltningen
+under året arbetat med att införa
+Individens Behov i Centrum (IBIC)
+nästa steg, fast omsorgskontakt samt
+påbörjat ett gemensamt arbetssätt kring
+hantering av genom förandeplaner.
+
+Utfall   Utfall  Utfall  Målvärde
 Indikator
 2020     2021     2022     2023
 Högre än
 Andel aktuella genomförandeplaner
-–\*       –\*     84,6 %\*\* utfallet
+–\*       –\*    84,6 %\*\*  utfallet
 inom VÅBO
 för 2022
+
 Högre än
 Andel aktuella genomförandeplaner
 –\*       –\*     56,3 %\*\* utfallet
@@ -3569,43 +3635,57 @@ och vuxennivå, karriärvägsmodell samt
 
 10
 
-Ny    förvaltnings­
+Ny     förvaltnings­
 
 organisation
 
 För att möta ett samhälle i förändring
 
-Från och med 2023 är förvaltningen grundu ppdrag utgår från l agstiftning,
-organiserad utifrån fem distrikt och reglemente och politiska mål. Förvalt­
-ett förvaltningsledningskontor. ningen har tagit fram ett nytt arbetssätt
-Utvecklingen av organisationen för målarbetet för att i högre omfattning
-behöver ske dels för att möta det ökade genomföra de p olitiska målen. Det nya
-inflödet av enskilda, dels för att bättre arbetssättet är också anpassat för den
-kunna möta förändrad behov både vad nya organisationen.
+Från och med 2023 är förvaltningen
+organiserad utifrån fem distrikt och
+ett förvaltningsledningskontor.
+Utvecklingen av organisationen
+behöver ske dels för att möta det ökade
+inflödet av enskilda, dels för att bättre
+kunna möta förändrad behov både vad
+
 gäller personal och ekonomi, det vill
-Ett nytt arbetssätt
 säga konsekvenserna av ett samhälle
-i förändring. I den nya organisatio­ för målarbetet
-Syftet    med    det   nya
+i förändring. I den nya organisatio­
 nen styr vi våra personella resurser dit
-En viktig utgångspunkt i måla rbetet
-behoven är som störst. Det innebär att är att politiken bestämmer vad som arbetssättet är att få tydligare
+behoven är som störst. Det innebär att
 arbetspasset för en medarbetare kan
-ska göras och förvaltningen har
-komma att starta i en del av distriktet                          och   snabbare      effekter     av
-bäst k unskap om hur det ska göras.
+komma att starta i en del av distriktet
 och avslutas i en annan del i distriktet.
-Grunden i det nya arbetssättet är att vi
-förvaltningens       målarbete.
 För att hantera konsekvenserna av ett
-tillsammans, hela förvaltningen, a rbetar
 samhälle i förändring behöver förvalt­
-med gemensamma och färre aktivit eter.
 ningen renodla och fokusera på det som
-Syftet med det nya arbetssättet är att
 är vårt grunduppdrag. Det finns inte
-få tydligare och snabbare effekter av
 utrymme och resurser för annat. Vårt
+
+grundu ppdrag utgår från l agstiftning,
+reglemente och politiska mål. Förvalt­
+ningen har tagit fram ett nytt arbetssätt
+för målarbetet för att i högre omfattning
+genomföra de p olitiska målen. Det nya
+arbetssättet är också anpassat för den
+nya organisationen.
+
+Ett nytt arbetssätt
+
+för målarbetet
+Syftet    med    det  nya
+En viktig utgångspunkt i måla rbetet
+är att politiken bestämmer vad som  arbetssättet       är att  få  tydligare
+ska göras och förvaltningen har
+och   snabbare      effekter     av
+bäst k unskap om hur det ska göras.
+Grunden i det nya arbetssättet är att vi
+förvaltningens        målarbete.
+tillsammans, hela förvaltningen, a rbetar
+med gemensamma och färre aktivit eter.
+Syftet med det nya arbetssättet är att
+få tydligare och snabbare effekter av
 förvaltningens målarbete.
 
 <!-- sida 84 -->
@@ -3623,27 +3703,44 @@ ETT HUNDRA KRONOR
 Varifrån          kommer
 
 våra      pengar         och      hur
-40kr      20 kr   13,5 kr     26,5 kr
+40kr       20 kr  13,5 kr     26,5 kr
 Förskola   Vård &  Individ Gemensamt, k ultur,
 Grundskola  Omsorg & Familj fritid, teknik, miljö
 använder            vi   dessa?
 
-Kommunfullmäktige beslutar årligen kostnader i verksamheten, som till
-hur mycket pengar varje förvaltning exempel löner, hyra, mat och bilar.
-i Kungsbacka ska få. Det är inte bara Jämfört med år 2022 fick Vård &
-Vård & Omsorg som behöver pengar Omsorg cirka 40 miljoner kronor
-utan exempelvis skolan, individ­ och mer för år 2023.
-familjeomsorgen, kulturen, fritid och För år 2022 och 2023 har förvalt­
-vteknik behöver också pengar för att ningen även fått cirka 66 miljoner
-bedriva sin verksamhet. Alla behöver kronor i statsbidrag från S ocialstyrelsen.
-pengar och det är politikernas ansvar Pengarna kommer att användas till olika
-att fördela våra gemensamma medel utvecklingsprojekt för att hantera konse­
-mellan förvaltningarna    kvenserna av ett samhälle i förändring.
+Kommunfullmäktige beslutar årligen
+hur mycket pengar varje förvaltning
+i Kungsbacka ska få. Det är inte bara
+Vård & Omsorg som behöver pengar
+utan exempelvis skolan, individ­ och
+familjeomsorgen, kulturen, fritid och
+vteknik behöver också pengar för att
 
-För år 2023 beslutade kommun­ På nästa sida visar vi hur den budget
-fullmäktige att ge Vård & Omsorg som Vård & Omsorg fått från kom­
-1 063 430 000 kr, cirka en miljard munfullmäktige planeras att användas
-kronor. Pengarna ska täcka alla under år 2023.
+bedriva sin verksamhet. Alla behöver
+pengar och det är politikernas ansvar
+att fördela våra gemensamma medel
+mellan förvaltningarna
+För år 2023 beslutade kommun­
+fullmäktige att ge Vård & Omsorg
+1 063 430 000 kr, cirka en miljard
+kronor. Pengarna ska täcka alla
+
+kostnader i verksamheten, som till
+exempel löner, hyra, mat och bilar.
+Jämfört med år 2022 fick Vård &
+Omsorg cirka 40 miljoner kronor
+mer för år 2023.
+För år 2022 och 2023 har förvalt­
+ningen även fått cirka 66 miljoner
+
+kronor i statsbidrag från S ocialstyrelsen.
+Pengarna kommer att användas till olika
+utvecklingsprojekt för att hantera konse­
+kvenserna av ett samhälle i förändring.
+På nästa sida visar vi hur den budget
+som Vård & Omsorg fått från kom­
+munfullmäktige planeras att användas
+under år 2023.
 
 <!-- sida 85 -->
 
@@ -3741,40 +3838,66 @@ denne befinner sig.
 
 <!-- sida 87 -->
 
+Utbildning
+Stjärnmärkning
+
+Vård­ och omsorgsboende arbetar med
+Stjärnmärkning. Syftet med utbild­
+ningen är att ge personalen kunskap
+och verktyg för att kunna utveckla det
+personcentrerade arbetet inom demens­
+vården på sin arbetsplats. Fyra vård­ och
+omsorgsboenden är snart certifierade
+och övriga vård­ och o msorgsboenden
+förväntas vara klara under våren 2023.
+Under 2023 kommer vi även att utreda
+möjligheterna att införa utbildningen
+
+inom kvarboende.
+
+In- och
+utskrivningssamtal
+
+Vi har under året arbetat med att ta
+fram checklistor för inskrivnings­
+samtal till hemsjukvården. Syftet är
+en ökad delaktighet av patient och
+närstående samt skapa en trygg och
+tydlig inskrivningsprocess. Under
+2023 kommer även utskrivnings­
+processen att ses över.
+
 14
 
-Utbildning               Trygg hemgång
-Stjärnmärkning
+Trygg hemgång
 Trygg hemgång beskriver proces­
-Vård­ och omsorgsboende arbetar med sen vid utskrivning från sjukhus för
-Stjärnmärkning. Syftet med utbild­ per soner med omsorgsbehov. Syftet
-ningen är att ge personalen kunskap med Trygg hemgång är att skapa
-och verktyg för att kunna utveckla det trygghet och hjälp till självständig­
-personcentrerade arbetet inom demens­ het och därmed minska risken att
-vården på sin arbetsplats. Fyra vård­ och individen utvecklar ett beroende av
-omsorgsboenden är snart certifierade omsorgs insatser. Vi behöver testa och
-och övriga vård­ och o msorgsboenden utvärdera konceptet Trygg hemgång
-förväntas vara klara under våren 2023. för att avgöra hur vi får bäst effekt
-Under 2023 kommer vi även att utreda utifrån Kungsbackas förutsättningar.
-möjligheterna att införa utbildningen
-inom kvarboende.
+sen vid utskrivning från sjukhus för
+per soner med omsorgsbehov. Syftet
+med Trygg hemgång är att skapa
+
+trygghet och hjälp till självständig­
+het och därmed minska risken att
+individen utvecklar ett beroende av
+omsorgs insatser. Vi behöver testa och
+utvärdera konceptet Trygg hemgång
+för att avgöra hur vi får bäst effekt
+utifrån Kungsbackas förutsättningar.
+
 En väg in till Vård
 & Omsorg
-In- och
-Vi behöver     vara   ö dmjuka
+Vi  behöver     vara  ö dmjuka
 Vi behöver undersöka och se över
-utskrivningssamtal
 möjligheten att införa en samlad mot­
-inför  att  vi inte  har  alla
-Vi har under året arbetat med att ta tagningsenhet med en förebyggande
-fram checklistor för inskrivnings­ inriktning på förvaltningen. Syftet svaren i förväg och samtidigt
-samtal till hemsjukvården. Syftet är med mottagningsenheten är att möta
-en ökad delaktighet av patient och invånaren på bästa sätt och i rätt tid. vara modiga och våga leda
-närstående samt skapa en trygg och Detta för att minska mer omfattande
+inför  att vi  inte  har  alla
+tagningsenhet med en förebyggande
+inriktning på förvaltningen. Syftet  svaren    i förväg   och   samtidigt
+med mottagningsenheten är att möta
+invånaren på bästa sätt och i rätt tid. vara  modiga     och  våga   leda
+Detta för att minska mer omfattande
 från  fram   tiden.
-tydlig inskrivningsprocess. Under behov av omsorgsinsatser i ett senare
-2023 kommer även utskrivnings­ skede. Mottagningsenhetens mål­
-processen att ses över.  grupp är de enskilda som ännu inte
+behov av omsorgsinsatser i ett senare
+skede. Mottagningsenhetens mål­
+grupp är de enskilda som ännu inte
 har stöd från Vård & Omsorg.
 
 <!-- sida 88 -->
@@ -3783,62 +3906,122 @@ har stöd från Vård & Omsorg.
 
 NÄMNDMÅL:
 
-Antalet personal som  en hemtjänst-
-mottagare  möter  under 14 dagar ska
-årligen minska och  2025 uppgå  till
+Antalet personal  som  en hemtjänst-
+mottagare  möter  under  14 dagar ska
 
-maximalt  14 medarbetare
+årligen minska  och 2025  uppgå till
+maximalt   14 medarbetare
 
-Vi har under de senaste åren arbetat enhetligt och strategiskt arbetssätt
-intensivt med att minska personal­ för schemaläggning, bemanning och
-kontinuiteten inom hemtjänsten i insatsplanering hos Greta. Gretas
-egenregi. Arbetet har gett resultat. omsorgsbehov (biståndsbeslut och
-Vi har gått från att tillhöra de HSL­beslut) och personalkontinuitet
-25 procent sämsta kommunerna i är de viktigaste utgångspunkterna.
-landet till ett resultat som är i linje Dessutom behöver arbetssättet kunna
-med de 50 procent mittersta kommu­ möjliggöra följsamhet till de ständiga
-nerna. Vi har dock en bit kvar för att förändringarna vi har i antalet
-nå nämndens beslutade mål. hemtjänst timmar.
-I aktiviteten ingår även att införa
+Vi har under de senaste åren arbetat
+intensivt med att minska personal­
+kontinuiteten inom hemtjänsten i
+egenregi. Arbetet har gett resultat.
+Vi har gått från att tillhöra de
+25 procent sämsta kommunerna i
+landet till ett resultat som är i linje
+
+med de 50 procent mittersta kommu­
+nerna. Vi har dock en bit kvar för att
+nå nämndens beslutade mål.
 Optimerad bemanning
+
+Vi har under året arbetat med att
+tydlig göra koordinatorns roll och
+öka deras kunskap kring planering
+och bemanning samt kontinuitets­
+ambassadörer i referensgrupp. Vi fort­
+sätter under 2023 med att arbeta med
+införandet av optimerad bemanning.
+Optimerad bemanning och schema­
+
+läggning handlar om att ta fram ett
+
+enhetligt och strategiskt arbetssätt
+för schemaläggning, bemanning och
+insatsplanering hos Greta. Gretas
+omsorgsbehov (biståndsbeslut och
+HSL­beslut) och personalkontinuitet
+är de viktigaste utgångspunkterna.
+Dessutom behöver arbetssättet kunna
+
+möjliggöra följsamhet till de ständiga
+förändringarna vi har i antalet
+hemtjänst timmar.
+I aktiviteten ingår även att införa
 resurspass för en ökad samplanering
-Vi har under året arbetat med att över enhetsgränser och för att kunna
-tydlig göra koordinatorns roll och täcka egna resursbehov på enheten
-öka deras kunskap kring planering utan vikarier. Det ingår även att ta
-och bemanning samt kontinuitets­ fram gemensamma förhållningsregler
-ambassadörer i referensgrupp. Vi fort­ gällande scheman. I det senare skedet
-sätter under 2023 med att arbeta med av aktiviteten ingår att lägga scheman
-införandet av optimerad bemanning. utifrån fast omsorgskontakt. Aktivi­
-Optimerad bemanning och schema­ teten planeras att vara slutförd och
-läggning handlar om att ta fram ett ska utvärderas i november 2023.
+över enhetsgränser och för att kunna
+täcka egna resursbehov på enheten
+utan vikarier. Det ingår även att ta
+fram gemensamma förhållningsregler
+gällande scheman. I det senare skedet
+av aktiviteten ingår att lägga scheman
+utifrån fast omsorgskontakt. Aktivi­
+teten planeras att vara slutförd och
+
+ska utvärderas i november 2023.
 
 <!-- sida 89 -->
 
 16
 
-Omsorgstagare vill vara mer delak­ förandeplanen hur omsorgstagaren har mål. A rbetet med att införa IBIC är en
-tiga i sin vård och omsorg. Det innebär varit delaktig och hur hen har utövat sitt omfattande process som påverkar stora
-NÄMNDMÅL:            att vi behöver fortsätta att arbeta med inflytande. Korttidsboende har under året delar av verksamheten. Vi behöver även
-att säkerställa att de har möjlighet att arbetat fram en egen rutin för att säker­ utbilda och implementera förändrade
-Andelen  enskilda i
-påverka hur beslutade insatser ska utföras. ställa genomförandeplaner för enskilda. arbetssätt utifrån IBIC.
-våra verksamheter                                   Detta mot bakgrund av att korttidsverk­ Vi har under året startat projektet
+Omsorgstagare vill vara mer delak­
+tiga i sin vård och omsorg. Det innebär
+NÄMNDMÅL:            att vi behöver fortsätta att arbeta med
+att säkerställa att de har möjlighet att
+Andelen  enskilda  i
+påverka hur beslutade insatser ska utföras.
+våra verksamheter
 Genomförandeplaner
-som  har en aktuell                                 samheten inte k unde följa samma rutin ramtid. Ramtid innebär att bistånds­
-Genomförandeplanen ska s äkers tälla om­ som vård­ och o msorgsboende. Arbetet handläggaren tar beslut utifrån bedömda
+som  har en aktuell
+Genomförandeplanen ska s äkers tälla om­
 genomförandeplan
-sorgstagarens inflytande och d elaktighet i med rutinen f örväntas slutföras 2023. behov och om hur många timmar
+sorgstagarens inflytande och d elaktighet i
 ska årligen öka och
-utförandet av insatsen. I samband med att             hemtjänst den äldre behöver totalt per
-Individens behov i c entrum
-2025 uppgå  till minst    en genomförandep lan upprättas eller följs            månad istället för per insats och vecka.
-upp ska omsorgstagaren alltid erbjudas att Vi fortsätter att arbeta med I ndividens Omsorgstagaren beslutar därefter
+utförandet av insatsen. I samband med att
+2025  uppgå till minst    en genomförandep lan upprättas eller följs
+upp ska omsorgstagaren alltid erbjudas att
 95 procent
-vara delaktig. Delaktighet kan uppnås på behov i centrum, IBIC, som är ett tillsammans med personalen hur tiden
-olika sätt och i olika former. För bästa möj­ arbetssätt som är utvecklat av Social­ ska fördelas. Vi fortsätter att arbeta med
-liga inflytande behöver förutsättningarna styrelsen. IBIC bygger på att det som detta under 2023.
-för deltagandet och inflytandet anpassas till individen erbjuds från socialtjänsten ska
-omsorgstagaren. Det ska framgå i genom­ utgå från individens behov, resurser och
+vara delaktig. Delaktighet kan uppnås på
+olika sätt och i olika former. För bästa möj­
+liga inflytande behöver förutsättningarna
+för deltagandet och inflytandet anpassas till
+omsorgstagaren. Det ska framgå i genom­
+
+förandeplanen hur omsorgstagaren har
+varit delaktig och hur hen har utövat sitt
+inflytande. Korttidsboende har under året
+arbetat fram en egen rutin för att säker­
+ställa genomförandeplaner för enskilda.
+Detta mot bakgrund av att korttidsverk­
+samheten inte k unde följa samma rutin
+
+som vård­ och o msorgsboende. Arbetet
+med rutinen f örväntas slutföras 2023.
+Individens behov i c entrum
+
+Vi fortsätter att arbeta med I ndividens
+behov i centrum, IBIC, som är ett
+arbetssätt som är utvecklat av Social­
+styrelsen. IBIC bygger på att det som
+individen erbjuds från socialtjänsten ska
+utgå från individens behov, resurser och
+
+mål. A rbetet med att införa IBIC är en
+omfattande process som påverkar stora
+delar av verksamheten. Vi behöver även
+utbilda och implementera förändrade
+arbetssätt utifrån IBIC.
+Vi har under året startat projektet
+ramtid. Ramtid innebär att bistånds­
+
+handläggaren tar beslut utifrån bedömda
+behov och om hur många timmar
+hemtjänst den äldre behöver totalt per
+månad istället för per insats och vecka.
+Omsorgstagaren beslutar därefter
+tillsammans med personalen hur tiden
+ska fördelas. Vi fortsätter att arbeta med
+detta under 2023.
 
 <!-- sida 90 -->
 
@@ -3848,63 +4031,120 @@ KOMMUNMÅL:
 
 I Kungsbacka
 
-utvecklas     vi  hela  livet
+utvecklas     vi hela   livet
 
-Våra insatser ska stärka den enskildes delvis sköta sin eller den anhöri­
-möjlighet att vara självständig samt ges vård självständigt. Myndighet
-att leva ett tryggt och värdigt liv har också påbörjat ett arbeta med
-utifrån sina behov och förutsättningar. att renodla yrkesroller som behöver
-Därför arbetar vi med fokusområdet fortsätta under 2023.
+Våra insatser ska stärka den enskildes
+möjlighet att vara självständig samt
+att leva ett tryggt och värdigt liv
+utifrån sina behov och förutsättningar.
+Därför arbetar vi med fokusområdet
 ”I Kungsbacka stärks individens och
-Fysisk aktivitet på recept
 familjens egen förmåga att ta hand om
-sitt liv”.               Rehab arbetar med aktiviteter som
-avser att öka aktivitetsförmågan hos
+
+sitt liv”.
 Renodla yrkesroller
-barn och unga genom fysisk aktivitet
-Vi behöver fortsätta se över möjlig­ på recept (FaR). FaR är ett proaktivt
-heten att renodla yrkesroller i hela arbetssätt och hälsofrämjande insats
-förvaltningen. Detta för att nytta som bedöms kunna leda till att färre
-medarbetares kompetenser på bästa patienter erhåller nedsatt funktions­
-sätt och frigöra varma händer där och aktivitetsförmåga på grund av
-de gör mest nytta. Vi har under året inaktivitet. En friskare målgrupp
-arbetat med och behöver fortsätta bidrar till att patienterna kan beva­
-arbeta med att renodla sjuksköter­ ra sin självständighet i högre grad
-skans yrkesroll. Genom att renodla och öka kroppsmedvetenheten och
-yrkesrollen kan vi skapa förutsätt­ självkänslan. Detta arbete kommer att
-ningar och utrymme för att utbilda/ fortsätta under 2023.
+
+Vi behöver fortsätta se över möjlig­
+heten att renodla yrkesroller i hela
+förvaltningen. Detta för att nytta
+medarbetares kompetenser på bästa
+sätt och frigöra varma händer där
+de gör mest nytta. Vi har under året
+arbetat med och behöver fortsätta
+arbeta med att renodla sjuksköter­
+skans yrkesroll. Genom att renodla
+yrkesrollen kan vi skapa förutsätt­
+
+ningar och utrymme för att utbilda/
 instruera patient och anhörig att
 
+delvis sköta sin eller den anhöri­
+ges vård självständigt. Myndighet
+har också påbörjat ett arbeta med
+att renodla yrkesroller som behöver
+fortsätta under 2023.
+
+Fysisk aktivitet på recept
+
+Rehab arbetar med aktiviteter som
+avser att öka aktivitetsförmågan hos
+barn och unga genom fysisk aktivitet
+på recept (FaR). FaR är ett proaktivt
+arbetssätt och hälsofrämjande insats
+som bedöms kunna leda till att färre
+patienter erhåller nedsatt funktions­
+och aktivitetsförmåga på grund av
+inaktivitet. En friskare målgrupp
+bidrar till att patienterna kan beva­
+ra sin självständighet i högre grad
+och öka kroppsmedvetenheten och
+självkänslan. Detta arbete kommer att
+
+fortsätta under 2023.
+
 <!-- sida 91 -->
+
+För förvaltningens fortsatta utveckling
+behöver vi utveckla och behålla chefer
+NÄMNDMÅL:           och medarbetare med rätt kompetens.
+Det kräver ett långsiktigt arbete. Hög och
+Andelen  med  arbetare
+för hög personalomsättning ökar belast­
+och chefer som        ningen på den befintliga personalen och
+väljer att avsluta sin   ger väsentliga ekonomiska konsekvenser.
+Alla chefer har genomfört utbildning
+anställning hos Vård  &
+i utvecklande ledarskap, UL. Vi behöver
+Omsorg  ska 2025
+bli bättre på att skapa förutsättningar
+uppgå  till maximalt     för chefer att använda verktygen från
+utbildningen i vardagen. Parallellt pågår
+12 procent
+i hela Kungsbacka kommun en utbild­
+ningsinsats i utvecklade medarbetarskap,
+UM. Utvecklade medarbetarskap handlar
+om att öka medarbetarnas delaktighet,
+engagemang och ansvarstagande.
 
 18
 
 Kartlägga medarbetares
-För förvaltningens fortsatta utveckling               man väljer att stanna kvar. Vi har därför
 behov av stöd
-behöver vi utveckla och behålla chefer                under året arbetat med att följa upp och
-NÄMNDMÅL:            och medarbetare med rätt kompetens. En viktig förutsättning för att stanna på säkerställa kompetensnivån för med­
-Det kräver ett långsiktigt arbete. Hög och sin arbetsplats är att det finns möjlighet arbetare i verksamheten. Detta arbete
-Andelen  med  arbetare
-för hög personalomsättning ökar belast­ att ständigt utvecklas men också få stöd kommer vi fortsätta med under 2023.
-och  chefer som        ningen på den befintliga personalen och beroende på var medarbetaren är i karri­
-Kollegialt lärande i UL
-väljer att avsluta sin   ger väsentliga ekonomiska konsekvenser. ären. Vi behöver bli bättre på introduk­
-Alla chefer har genomfört utbildning tion av nyanställda samt att motivera och Kollegialt lärande i UL handlar om att
-anställning hos Vård &
-i utvecklande ledarskap, UL. Vi behöver stimulera medarbetare exempelvis genom skapa större förutsättningar för enhets­
-Omsorg  ska 2025
-bli bättre på att skapa förutsättningar nya uppdrag och utmaningar. chefer att använda sig av verktygen
-uppgå  till maximalt     för chefer att använda verktygen från                 från utbildningen. Syftet med kollegialt
+En viktig förutsättning för att stanna på
+
+sin arbetsplats är att det finns möjlighet
+att ständigt utvecklas men också få stöd
+beroende på var medarbetaren är i karri­
+ären. Vi behöver bli bättre på introduk­
+tion av nyanställda samt att motivera och
+stimulera medarbetare exempelvis genom
+nya uppdrag och utmaningar.
+
 Kompetensnivå för
-utbildningen i vardagen. Parallellt pågår             lärande i UL handlar om att samverka
-12 procent
 medarbetare
-i hela Kungsbacka kommun en utbild­                   över verksamhetsgränser och utveckla
-ningsinsats i utvecklade medarbetarskap, Genom att ge rätt förutsättningar för det utvecklade ledarskapet tillsammans.
-UM. Utvecklade medarbetarskap handlar personalen att utföra sitt arbete skapar Detta arbete har pågått under 2022 och
-om att öka medarbetarnas delaktighet, det trygghet som ger en god arbetsmiljö kommer att fortsätta under 2023.
-engagemang och ansvarstagande. och vi blir en attraktiv arbetsgivare där
+Genom att ge rätt förutsättningar för
+personalen att utföra sitt arbete skapar
+det trygghet som ger en god arbetsmiljö
+
+och vi blir en attraktiv arbetsgivare där
+
+man väljer att stanna kvar. Vi har därför
+under året arbetat med att följa upp och
+säkerställa kompetensnivån för med­
+arbetare i verksamheten. Detta arbete
+kommer vi fortsätta med under 2023.
+
+Kollegialt lärande i UL
+
+Kollegialt lärande i UL handlar om att
+skapa större förutsättningar för enhets­
+chefer att använda sig av verktygen
+från utbildningen. Syftet med kollegialt
+lärande i UL handlar om att samverka
+över verksamhetsgränser och utveckla
+det utvecklade ledarskapet tillsammans.
+Detta arbete har pågått under 2022 och
+kommer att fortsätta under 2023.
 
 <!-- sida 92 -->
 

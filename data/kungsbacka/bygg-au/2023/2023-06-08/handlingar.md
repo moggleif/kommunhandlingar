@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250523122205id_/https://kungsbacka.se/d
 sha256: 78a96a3d1307e21abdca6770732bdecbeb8c5750cfd64e606a5f995868b93775
 bytes: 870353
 sidor: 14
-hamtad: 2026-10-20T10:18:06+00:00
-konverterad: 2026-10-20T10:18:14+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:37:57+00:00
+konverterad: 2026-11-17T01:38:07+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -528,10 +528,36 @@ Nämndens bedömning:Vi har inte nått målet men är på rätt väg
 
 <!-- sida 14 -->
 
-1 (1)
+Till:
+Byggnadsnämnden
 
+Nämnden för förskola & grundskola
+Nämnden för gymnasium & arbetsmarknad
+Nämnden för individ & familjeomsorg
+Nämnden för kultur & fritid
+Nämnden för miljö & hälsoskydd
+Nämnden för service
+Nämnden för teknik
+Nämnden för vård & omsorg
+1 (1)
+Valnämnden
 Datum
 2023-03-20
+Revisionsrapport – Grundläggande granskning 2022
+
+Kommunrevisionen har vid sitt möte den 20 mars 2022 antagit bifogad
+revisionsrapport. Granskningens syfte har varit att ge revisorerna underlag för
+ansvarsprövningen genom att översiktligt granska all verksamhet i enlighet med
+kommunallagen och God revisionssed. Granskningen har avsett kommunstyrelsen
+och samtliga nämnder.
+
+Rapporten översänds för kännedom till. Granskningen har inte resulterat i någon
+rekommendation till ovan nämnder.
+
+För revisorerna i Kungsbacka kommun
+
+Birgitta Litsegård         Stefan Strömgren
+Kommunrevisionens ordförande Vice ordförande kommunrevisionen
 
 Kommunrevision                                               Kungsbacka kommun
 434 81 Kungsbacka
@@ -541,30 +567,5 @@ Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-20-01-6002
-,0.1
-v
-001BUK
-mroFinu
-Till:
-Byggnadsnämnden
-Nämnden för förskola & grundskola
-Nämnden för gymnasium & arbetsmarknad
-Nämnden för individ & familjeomsorg
-Nämnden för kultur & fritid
-Nämnden för miljö & hälsoskydd
-Nämnden för service
-Nämnden för teknik
-Nämnden för vård & omsorg
-Valnämnden
-Revisionsrapport – Grundläggande granskning 2022
-Kommunrevisionen har vid sitt möte den 20 mars 2022 antagit bifogad
-revisionsrapport. Granskningens syfte har varit att ge revisorerna underlag för
-ansvarsprövningen genom att översiktligt granska all verksamhet i enlighet med
-kommunallagen och God revisionssed. Granskningen har avsett kommunstyrelsen
-och samtliga nämnder.
-Rapporten översänds för kännedom till. Granskningen har inte resulterat i någon
-rekommendation till ovan nämnder.
-För revisorerna i Kungsbacka kommun
-Birgitta Litsegård         Stefan Strömgren
-Kommunrevisionens ordförande Vice ordförande kommunrevisionen
+
+uniForm KUB100 v 1.0, 2006-10-02

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240217014823id_/https://kungsbacka.se/d
 sha256: 8fffa7576f65ff7bd23f939e8333424424024eda0a38b56a955a5d6dd90aad57
 bytes: 5642617
 sidor: 64
-hamtad: 2026-10-26T09:48:24+00:00
-konverterad: 2026-10-26T09:48:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:56:01+00:00
+konverterad: 2026-11-17T02:56:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1800,8 +1800,6 @@ att vi omgående undersöker vilka möjligheter vi har att låta våra pensionä
 skolor och på vilka villkor det kan genomföras. När den är klar redovisas den för
 kommunfullmäktige som beslutar om det skall införas eller ej.
 
-a». i s
-r Vr (bl
 a d ae KAMMA IN (NUV
 
 Roger Larsson (Kb) anne Heimbrand (Kb)

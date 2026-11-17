@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404175458id_/https://kungsbacka.se/d
 sha256: 151ebac4f9384c342a67e173056ba69d9940d35a5d443d8c40d1f05599f3cb23
 bytes: 35410043
 sidor: 112
-hamtad: 2026-10-26T10:58:19+00:00
-konverterad: 2026-10-26T11:00:15+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:22:43+00:00
+konverterad: 2026-11-17T03:24:29+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -351,7 +351,6 @@ Antal vårdplatser i Sverige
 2012 25 290
 2014 24 608
 
-— =
 2016 23 209
 
 2017 22247
@@ -714,7 +713,6 @@ kontinuerligt.
 
 Lagreglerade åtgärder
 
-mm nn SS FED] oo uviete VY? Region Halland
 Nn KG Hallands kompletteringar
 
 Utskrivningsprocessen i Halland
@@ -2640,7 +2638,6 @@ Biträdande förvaltningschef        Nämndsekreterare/utredare
 
 <!-- sida 80 -->
 
-KUNGS: / ORA KOMMUN |
 KOMMUNSTYRELSEN
 
 2071 -11- 03
@@ -2782,32 +2779,32 @@ BILAGA 1 - FÖRORDNANDEN .......................................................
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-till exempel brutit mot reglerna om jäv, korruption eller begått
 1\.  Allmänt     om   delegering
-någon form av tjänstefel.
-Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
-som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
-ärendetypen. Men nämnden har också möjlighet att överlåta ärenden som avser verksamhetens mål, inriktning, omfattning eller
-beslutanderätten åt anställda i kommunen. Ett sådant överlåtande kvalitet, eller yttranden till fullmäktige eller till domstol med
-kallas delegation och den som då får beslutanderätten kallas anledning av att ett beslut som ursprungligen tagits av nämnden
-delegat. Det finns inga formkrav på hur ett sådant överlåtande ska överklagats. Ett undantag från detta är att nämnden kan ge
-se ut men det är vanligt att samla dem i en förteckning för att det ordförande i uppdrag att fatta beslut i ärenden som är så
-ska gå att få en överblick.                           brådskande att nämndens avgörande inte kan inväntas. Den som
-innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+
+Utgångspunkten i kommunallagen är att den politiska nämnden
+som ansvarar för en viss ärendetyp fattar alla beslut som rör den
+ärendetypen. Men nämnden har också möjlighet att överlåta
+beslutanderätten åt anställda i kommunen. Ett sådant överlåtande
+
+kallas delegation och den som då får beslutanderätten kallas
+delegat. Det finns inga formkrav på hur ett sådant överlåtande ska
+se ut men det är vanligt att samla dem i en förteckning för att det
+ska gå att få en överblick.
 Kommunallagen skiljer på beslut och verkställighet. Beslut är
-kan fattas, så som för vanlig delegation.
 avgöranden mellan olika alternativ som kräver mer omfattande
-bedömningar och som har en inte obetydlig påverkan på den Här nedan följer först nämnden för Vård & Omsorgs egna
-verksamhet nämnden ansvarar för eller rör myndighetsutövning bestämmelser och vägledning för sin delegering, och sedan den
-mot enskilda. Verkställighet är det handlande som följer av ett förteckning över ärendetyper där nämnden har överlåtit sin
-beslut eller de förberedelser som sker inför ett beslut. beslutanderätt till någon annan. I bilaga 1 finns också en
-Verkställighet kan dock också innefatta mindre avgöranden, förteckning över nämndens förordnanden.
+bedömningar och som har en inte obetydlig påverkan på den
+verksamhet nämnden ansvarar för eller rör myndighetsutövning
+mot enskilda. Verkställighet är det handlande som följer av ett
+
+beslut eller de förberedelser som sker inför ett beslut.
+Verkställighet kan dock också innefatta mindre avgöranden,
 bedömningar och vägval inom ramen för ett bredare beslut, till
 exempel ett beslut om budget eller mål, och det är därför inte alltid
 självklart var gränsen mellan beslut och verkställighet går. Det
 måste avgöras från fall till fall.
 Bara beslut behöver delegeras från nämnden, medan
 verkställighet faller inom förvaltningens ansvar att hantera. När en
+
 nämnd delegerat sin beslutanderätt träder delegaten helt in i
 nämndens ställe och kan göra slutliga avgöranden i nämnden
 namn. Till beslut som kan delegeras räknas därför också yttranden
@@ -2817,6 +2814,26 @@ alltid ytterst ansvarig för det beslutsfattande som sker. Men
 tjänstepersoner som fattar beslut i nämndens namn kan
 fortfarande bli personligt ansvariga för de beslut som tagits om de
 
+till exempel brutit mot reglerna om jäv, korruption eller begått
+någon form av tjänstefel.
+
+I vissa typer av ärenden får inte nämnden delegera sin
+beslutanderätt till någon annan. Det handlar då särskilt om
+ärenden som avser verksamhetens mål, inriktning, omfattning eller
+kvalitet, eller yttranden till fullmäktige eller till domstol med
+anledning av att ett beslut som ursprungligen tagits av nämnden
+överklagats. Ett undantag från detta är att nämnden kan ge
+ordförande i uppdrag att fatta beslut i ärenden som är så
+brådskande att nämndens avgörande inte kan inväntas. Den som
+innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+kan fattas, så som för vanlig delegation.
+
+Här nedan följer först nämnden för Vård & Omsorgs egna
+bestämmelser och vägledning för sin delegering, och sedan den
+förteckning över ärendetyper där nämnden har överlåtit sin
+beslutanderätt till någon annan. I bilaga 1 finns också en
+förteckning över nämndens förordnanden.
+
 2 (20)
 
 <!-- sida 85 -->
@@ -2824,30 +2841,47 @@ fortfarande bli personligt ansvariga för de beslut som tagits om de
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-2\.  Bestämmelser        för   nämndens                delegeringen från nämnden kan inte överskrida den
-beslutsbefogenhet som nämnden har fått av fullmäktige.
+2\.  Bestämmelser        för   nämndens
+
 delegering
-Beslut fattade med stöd av denna delegeringsförteckning ska inte
-Nämnden för Vård & Omsorg ansvarar för att sköta vissa av anmälas till nämnden, om inte något annat anges i villkoren för
-Kungsbacka kommuns lagstadgade skyldigheter när det gäller delegeringen här nedan. Undantaget är beslut som kan komma att
-vård och omsorg till enskilda enligt hälso- och sjukvårdslagen och överklagas genom laglighetsprövning enligt 13 kap
-socialtjänstlagen, i enlighet med nämndens reglemente det kommunallagen. Sådana beslut ges till nämndsekreterare som
-reglemente för nämnden som fastställts av Kommunfullmäktige. I ansvarar för att de anmäls till nämnd.
+
+Nämnden för Vård & Omsorg ansvarar för att sköta vissa av
+Kungsbacka kommuns lagstadgade skyldigheter när det gäller
+vård och omsorg till enskilda enligt hälso- och sjukvårdslagen och
+socialtjänstlagen, i enlighet med nämndens reglemente det
+reglemente för nämnden som fastställts av Kommunfullmäktige. I
 reglementet anges att nämnden ansvarar för myndighetsutövning
-Beslutanderätt i en ärendetyp avser rätt att besluta i både form och
 och verkställighet för följande insatser:
-sak, det vill säga rätt att ta beslut om exempelvis avvisning,
-  Särskilt boende                                  avskrivning, bifall eller avslag, när det är tillämpligt och om inget
-annan anges.
+
+  Särskilt boende
   Hemtjänst
-Beslutanderätt medför också rätt att underteckna handlingar i
+
   Dagomsorg
+
+delegeringen från nämnden kan inte överskrida den
+beslutsbefogenhet som nämnden har fått av fullmäktige.
+
+Beslut fattade med stöd av denna delegeringsförteckning ska inte
+anmälas till nämnden, om inte något annat anges i villkoren för
+delegeringen här nedan. Undantaget är beslut som kan komma att
+överklagas genom laglighetsprövning enligt 13 kap
+kommunallagen. Sådana beslut ges till nämndsekreterare som
+ansvarar för att de anmäls till nämnd.
+Beslutanderätt i en ärendetyp avser rätt att besluta i både form och
+sak, det vill säga rätt att ta beslut om exempelvis avvisning,
+
+avskrivning, bifall eller avslag, när det är tillämpligt och om inget
+annan anges.
+Beslutanderätt medför också rätt att underteckna handlingar i
 ärendet.
-  Korttidsplatser
+
+ Korttidsplatser
 Överordnad till delegat har samma beslutanderätt som delegaten.
-  Växelvård
+
+ Växelvård
 Om någon tillfälligt träder in på en tjänst med delegation har den
-  Kontaktperson                                    tillförordnande anställde samma delegation som den ordinarie.
+ Kontaktperson                                     tillförordnande anställde samma delegation som den ordinarie.
+
 Som verksamhetschef i delegeringsförteckningen räknas också
   Omsorgsbidrag
 övriga chefer direkt underställda förvaltningschefen.
@@ -2863,6 +2897,7 @@ Nämnden för Vård & Omsorg är därmed socialnämnd enligt 2 kap
 4 § socialtjänstlagen när det gäller dessa insatser, men också
 huvudman enligt 11 kap 1 § hälso- och sjukvårdslagen för den
 kommunala sjukvården i Kungsbacka kommun. Omfattningen för
+
 3 (20)
 
 <!-- sida 86 -->
@@ -3456,7 +3491,7 @@ Kungsbacka
 
 Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfaranden skall ses som verkställighet.
 
-Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkningi/villkor
+Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor
 Attestreglemente, Utse beslutsattestanter och ersättare för nämndens Förvaltningschef, = Attesträtt innebär rätt att besluta om att godkänna
 Tillämpnings- verksamheter, och besluta om beloppsgränser eller ekonomichef kostnader inom ett verksamhetsområde.
 anvisningar för begränsad attesträtt.

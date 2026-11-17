@@ -7,14 +7,14 @@ typ: protokoll
 namn: namnden-for-vard-omsorg-protokoll-2023-04-20-46-47
 kallnyckel: sitevision:18.64f7f7d01877977148923ed5
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2022-00220]
 kalla_url: https://web.archive.org/web/20240519091611id_/https://kungsbacka.se/download/18.64f7f7d01877977148923ed5/1682511962207/N%C3%A4mnden%20f%C3%B6r%20V%C3%A5rd%20&%20Omsorg%20protokoll%202023-04-20,%20%C2%A7%C2%A7%2046-47.pdf
 sha256: b468fc69cac58be5f7d4ba5f56621e260131a6859498a53575357b005a31d32f
 bytes: 2744797
 sidor: 9
-hamtad: 2026-10-20T10:50:54+00:00
-konverterad: 2026-10-20T10:51:18+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:58:02+00:00
+konverterad: 2026-11-17T01:58:20+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -148,11 +148,11 @@ Nämnden för Vård & Omsorg Datum
 
 Innehåll
 
-\$46 Dnr 2022-00220
+§46 Dnr 2022-00220
 Svar till kommunrevisionen angående granskningen av vikarieanskaffning4
 
-\$47 Dnr 2023-00024
-Yttrande över motion (MP) - Gemensamma måltider för äldre ................... 6
+§47 Dnr 2023-00024
+Yttrande över motion (MP) - Gemensamma måltider för äldre .... 6
 
 Justerare Expedierat/bestyrkt
 
@@ -163,7 +163,7 @@ Nämnden för Vård & Omsorg Datum
 
 2023-04-20
 
-\$ 46 Dnr 2022-00220
+§ 46 Dnr 2022-00220
 
 Svar till kommunrevisionen angående granskningen av
 vikarieanskaffning
@@ -334,9 +334,9 @@ Nämnden för Vård & Omsorg Datum
 Motion från Elisabeth Sahlsten (MP) m.fl. om gemensamma måltider för äldre,
 2022-11-11
 
-Kommunstyrelsens arbetsutskott 2023-01-17, \$ 4
+Kommunstyrelsens arbetsutskott 2023-01-17, § 4
 
-Kommunfullmäktige 2022-12-06, \$ 247
+Kommunfullmäktige 2022-12-06, § 247
 
 Förslag till beslut på sammanträdet
 Ermin Skorié (S) yrkar bifall till motion (MP) - Gemensamma måltider för äldre.

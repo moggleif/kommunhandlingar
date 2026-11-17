@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240406114141id_/https://kungsbacka.se/d
 sha256: 31c37b60aa281d064cab8cf5ea843a5649573141f6cdb1ae385da202db504903
 bytes: 9821675
 sidor: 127
-hamtad: 2026-10-26T10:29:19+00:00
-konverterad: 2026-10-26T10:29:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:18:28+00:00
+konverterad: 2026-11-17T03:18:53+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1741,37 +1741,56 @@ orosanmälan.
 
 <!-- sida 48 -->
 
-Signaler         på     att   en    ungdom            lever      under
+Signaler         på    att    en    ungdom            lever      under
 
 hedersrelaterat                 våld     och      förtryck
 
-Exempel      på  varningstecken        kan   vara   att en   ungdom:
+Exempel      på  varningstecken        kan  vara   att  en  ungdom:
 
-•  beskriver    att den   ofta  har   magvärk,     huvudvärk,              •  kommer      inte  tillbaka  efter   sommaren,       lov,
+•  beskriver    att  den  ofta   har  magvärk,     huvudvärk,
 
-illamående     eller  svårt  har   att sova                                corona,    ledigheter    eller  efter  sjukperioder
+illamående      eller svårt   har  att sova
 
-•  begränsas     i val i livet – som    klädsel,   vänner,                 •  är  utsatt  eller  utsätter   en  släkting   för  bevakning
+•  begränsas     i val i livet –  som   klädsel,   vänner,
 
-partner,   fritidsaktiviteter     eller val  av  utbildning                och   kontroll,   t.ex. att  en  ungdom      bevakas    av  ett
+partner,   fritidsaktiviteter     eller val  av  utbildning
 
-syskon    eller annan     släkting   - kan  göras   både
 •  får inte  delta   i all undervisning     i skolan,
-fysiskt  och   digitalt
+
 aktiviteter   och   skolresor
 
-•  utsätts   för  hot,  våld  och   kränkningar     och   visar
-•  får ta  stort  ansvar   för  hemarbete      och   småsyskon
+•  får ta  stort  ansvar   för  hemarbete       och  småsyskon
+
+•  berättar    att hon/han     behöver     förlova   sig,  att det
+
+finns  konkreta     planer   om   äktenskap      trots  att
+
+hon/han     är  underårig,    trots  att  hon/han     inte  är
+
+klar  med   skolan
+
+•  kommer      inte  tillbaka  efter   sommaren,       lov,
+
+corona,    ledigheter    eller  efter  sjukperioder
+
+•  är utsatt   eller  utsätter   en  släkting   för  bevakning
+
+och   kontroll,  t.ex.  att en   ungdom     bevakas     av  ett
+
+syskon    eller annan    släkting   - kan   göras   både
+
+fysiskt  och   digitalt
+
+•  utsätts   för hot,   våld  och  kränkningar      och   visar
 
 tecken    på  utsatthet    för fysiskt   våld  som
-•  berättar   att  hon/han     behöver     förlova   sig, att  det
-blåmärken,      brännmärken,        rivmärken,     rodnader
 
-finns  konkreta     planer   om   äktenskap     trots  att
-sår  eller  frakturer
-hon/han     är  underårig,    trots  att  hon/han     inte  är
+blåmärken,      brännmärken,       rivmärken,      rodnader
+
+sår  eller frakturer
+
 •  kan   vara  utsatt   även   om   den   inte  visar  några
-klar  med   skolan
+
 tecken    alls
 
 •  www.raddabarnen.se

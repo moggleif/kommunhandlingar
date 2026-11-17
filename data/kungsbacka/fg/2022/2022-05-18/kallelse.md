@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240406120536id_/https://kungsbacka.se/d
 sha256: aad5f9b009e3092c42aaeaacd2b8ba7d59b7aa9a1c209f9b25b87635a3d22cce
 bytes: 7985080
 sidor: 110
-hamtad: 2026-10-26T10:11:32+00:00
-konverterad: 2026-10-26T10:13:34+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:08:28+00:00
+konverterad: 2026-11-17T03:08:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -118,51 +118,71 @@ biträdande förvaltningschef
 
 <!-- sida 3 -->
 
-KUNGSBACKA  KOMMUN
+Ärende
 
-3(4)
-
-Ärende                Beteckning Förslag
-
-10\. Namnförslag ny skola i Åsa 2022-00567 Den nya skolan i Åsa får namnet Ölmevallaskolan
+10\. Namnförslag ny skola i Åsa
 
 Kl 17.35
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-11\. Uppföljning och prognos per 2022-00550 Nämnden för Förskola och Grundskola godkänner
-april 2022                      uppföljning och prognos per april 2022.
+11\. Uppföljning och prognos per
+april 2022
 
 Kl 17.40
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-12\. Skollokaler kan användas 2022-00556 Nämnden för Förskola och Grundskola har tagit del
-utanför skoltid                 av informationen och antecknar informationen i
-protokollet.
+12\. Skollokaler kan användas
+utanför skoltid
 
 Kl 17.50
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-13\. Information om        2022-00557 Nämnden för Förskola och Grundskola har tagit del
-skolbusslinjerna läsåret 2022/23 av informationen och antecknar informationen i
-protokollet.
+13\. Information om
+skolbusslinjerna läsåret 2022/23
+
 Kl 18.00
 
 Frida Byrsten, verksamhetschef
 
-14\. Motion om havet, skolmat och 2022-00350 Kommunfullmäktige bifaller motionen med
-näringslivsutveckling i         hänvisning till att det ligger i linje med kommunens
-Kungsbacka (MP), KS 2022-       befintliga arbete med att tillhandahålla måltider där
-00065                           både miljö- och hållbarhetsaspekter vägts in.
+14\. Motion om havet, skolmat och
+näringslivsutveckling i
+Kungsbacka (MP), KS 2022-
+00065
 
 Kl 18.15
 
 Frida Byrsten, verksamhetschef
+
+KUNGSBACKA  KOMMUN
+
+3(4)
+
+Beteckning Förslag
+
+2022-00567 Den nya skolan i Åsa får namnet Ölmevallaskolan
+
+2022-00550 Nämnden för Förskola och Grundskola godkänner
+uppföljning och prognos per april 2022.
+
+2022-00556 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+
+protokollet.
+
+2022-00557 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+2022-00350 Kommunfullmäktige bifaller motionen med
+hänvisning till att det ligger i linje med kommunens
+befintliga arbete med att tillhandahålla måltider där
+både miljö- och hållbarhetsaspekter vägts in.
 
 <!-- sida 4 -->
 

@@ -12,13 +12,13 @@ kalla_url: https://web.archive.org/web/20220404172426id_/https://kungsbacka.se/d
 sha256: 3d3ae2993cab0e92116e6a457c0409ab1f697b361de955bd01f426293c09032d
 bytes: 6544537
 sidor: 85
-hamtad: 2026-10-13T01:26:08+00:00
-konverterad: 2026-10-13T01:26:41+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:50:02+00:00
+konverterad: 2026-11-17T03:50:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
-tal_obekraftade: [17, 21, 23]
+tal_obekraftade: [17, 21, 23, 68]
 figurer: [7, 8, 11, 18, 19, 20, 21, 22, 23, 27, 36, 65]
 tolkade: []
 granskad: null
@@ -2490,7 +2490,7 @@ gymnasie- och gymnasiesärskolan, inklusive ersättning för skolmåltider.
 
 1
 
-[Tabell 68-72-1](handlingar.tabeller/68-72-1.csv)
+[Tabell 68-1](handlingar.tabeller/68-1.csv)
 
 | Prislistan för 2022 bygger på prislistan för 2021 samt indextillägg om 2,074 |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -2526,7 +2526,20 @@ gymnasie- och gymnasiesärskolan, inklusive ersättning för skolmåltider.
 |  |  | Lastbil och mobila<br>maskiner |  | 163 100 |
 |  |  | Personbil |  | 155 400 |
 |  |  | Transport |  | 198 400 |
+
+<!-- sida 69 -->
+
+Prislista 2022
+
+Interkommunal ersättning inom gymnasieskola och gymnasiesärskola,
+Göteborgsregionen
+
+2
+
+[Tabell 69-72-1](handlingar.tabeller/69-72-1.csv)
+
 | Nationella program forts. |  |  |  |  |
+| --- | --- | --- | --- | --- |
 | Program | Programnamn | Inriktning | Kommentar | Pris 2022 |
 | HA | Handels- och<br>administrationsprogrammet | Gemensamt år 1 | Programmet byter namn<br>till Försäljnings- och<br>serviceprogrammet 1 juli<br>2022 | 101 900 |
 |  |  | Administrativ service | Inriktning tas bort from 1<br>juli 2022 | 101 900 |
@@ -2555,7 +2568,6 @@ gymnasie- och gymnasiesärskolan, inklusive ersättning för skolmåltider.
 |  |  | Naturvetenskap och<br>samhälle |  | 90 900 |
 |  |  | Profil Marinbiologi | Särskilt pris (Öckerö) | 154 000 |
 |  |  | Profil NA, IHGR | Särskilt pris (Göteborg) | 101 200 |
-| Nationella program forts. |  |  |  |  |
 | Program | Programnamn | Inriktning | Kommentar | Pris 2022 |
 | RL | Restaurang och<br>livsmedelsprogrammet | Gemensamt år 1 |  | 140 900 |
 |  |  | Bageri och konditori |  | 140 900 |
@@ -2636,15 +2648,6 @@ gymnasie- och gymnasiesärskolan, inklusive ersättning för skolmåltider.
 |  | Lärlingsutbildning |  | Program- respektive<br>inriktningspris |  |
 |  | Program med särskild<br>hörselprofil |  |  | Bilaterala<br>avtal |
 |  | Rg-gymnasiet |  | Programpris samt tillägg<br>enligt förordning<br>(SKOLFS 1992:44). |  |
-
-<!-- sida 69 -->
-
-Prislista 2022
-
-Interkommunal ersättning inom gymnasieskola och gymnasiesärskola,
-Göteborgsregionen
-
-2
 
 <!-- sida 70 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404180345id_/https://kungsbacka.se/d
 sha256: e70d413303b2d180d5ca88f1a674ad728d019ba53d88a5d577702cfa94c2d97d
 bytes: 1393916
 sidor: 22
-hamtad: 2026-10-27T10:04:50+00:00
-konverterad: 2026-10-27T10:05:05+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T03:39:19+00:00
+konverterad: 2026-11-17T03:39:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -366,205 +366,134 @@ inte görs kommer Kungsbacka kommun inte ha en säker och fungerande IT-miljö.
 
 Digitalt center ansvar även för kommunens skrivare och inom området uppskattas kontinuerliga årliga
 reinvesteringar på knappt två miljoner kronor.
-S
-L
-L
-L
-L
-L
-T
-e
-ö
-ö
-ö
-ö
-ö
-o
-r
-p
-p
-p
-p
-p
-t
-v
-a
-a
-a
-a
-a
-a
-ic
-n
-n
-n
-n
-n
+
+7
+
+2 00 00 50 50 00 00
+
+0 1 6 6 8 5 7
+
+-2
+
+3 3 14 61 37 9 26
+
+02
+
+1
+
+2
+
 lt
-e
-d
-d
-d
-d
-d
-ö
-e
-e
-e
-e
-e
-v r
-in
-in
-in
-in
-in
-ig
-v e
-v e
-v e
-v e
-v e
-a v
-s t
-s t
-s t
-s t
-s t
-e
-e
-e
-e
-e
-e
-r k
-r in
-r in
-r in
-r in
-r in
-s a m
-g a r
-g a r
-g a r
-g a r
-g a r
-h e t e r [ T
-lo k a lv å r
-S M
-m å lt id
-IT
-s k r iv a r e
-S
-d
-E K ]
-1
-1
-3
-3
-2
-4
-1
-1
-2 0 2 3
-5 0 0
-0 0 0
-2 3 0
-3 0 0
-9 0 0
-9 3 0
-1
-1
-2
-2
-2
-1
-1
-9
-2 0 2 4
-5 0 0
-8 0 0
-3 3 5
-9 5 0
-9 0 0
-4 8 5
-1
-2
-3
-2
-3
-1
-1
-2 0 2 5
-7 0 0
-0 0 0
-2 5 0
-6 0 0
-9 0 0
-4 5 0
-1
-2
-2
-2
-4
-1
-1
-2 0 2 6
-7 0 0
-8 0 0
-4 3 5
-0 0 0
-9 0 0
-8 3 5
-1
-2
-3
-2
-4
-1
-2
-2 0 2 7
-7 0 0
-0 0 0
-4 0 0
-0 0 0
-9 0 0
-0 0 0
-T o t a lt 2 0 2
-1
-3
-1
-6
-3
-2
-\-
-3
-4
-1
+
+ta
+
+To
+
 7
-9
+
+2 00 00 00 00 00 00
+
+20 7 0 4 0 9 0
+
+3 12 4 1 22
+
 6
-2 0
-1
-6
-6
-8
+
+2 00 00 35 00 00 35
+
+20 7 8 4 0 9 8
+
+2 12 4 1 21
+
 5
-7
-2
-0
-0
-5
-5
-0
-0
-7
-0
-0
-0
-0
-0
-0
+
+2 00 00 50 00 00 50
+
+20 7 0 2 6 9 4
+
+3 12 3 1 21
+
+4
+
+2 00 00 35 50 00 85
+
+20 5 8 3 9 9 4
+
+2 12 11 1 29
+
+3
+
+2 00 00 30 00 00 30
+
+20 5 0 2 3 9 9
+
+3 12 14 1 31
+
+]
+
+EK
+
+TS rd
+
+[ å
+
+re
+
+r lv
+
+id
+
+a
+
+e a
+
+lt
+
+iv
+
+t
+
+r
+
+e k M å
+
+k
+
+h lo S m IT s
+
+r r r r r
+
+m a a a a a
+
+sa g g g g g
+
+k in in in in in
+
+r r r r r r
+
+e e e e e e
+
+v t t t t t
+
+a s s s s s
+
+ig e e e e e
+
+r v v v v v
+
+v in in in in in
+
+ö e e e e e
+
+e d d d d d
+
+ic n n n n n lt
+
+a a a a a
+
+rv p p p p p ta
+
+Se Lö Lö Lö Lö Lö To
 
 <!-- sida 11 -->
 

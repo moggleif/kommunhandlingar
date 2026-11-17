@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241127094532id_/https://kungsbacka.se/d
 sha256: 04abb3f7f0554cc8f945260745e485eac6379acf7f085bb8961bc257bfb935a2
 bytes: 26473603
 sidor: 272
-hamtad: 2026-10-20T09:58:00+00:00
-konverterad: 2026-10-20T10:02:57+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:30:23+00:00
+konverterad: 2026-11-17T01:34:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -612,80 +612,103 @@ Revisionsberättelse
 Till styrelsen i Stiftelsen Tjolöholm, org.nr 849400–4578
 
 Rapport om årsredovisningen
-
 Uttalanden
-Vi har utfört en revision av årsredovisningen för Stiftelsen Som del av en revision enligt ISA använder vi professionellt
-Tjolöholm för år 2022.           omdöme och har en professionellt skeptisk inställning under
-hela revisionen. Dessutom:
+
+Vi har utfört en revision av årsredovisningen för Stiftelsen
+Tjolöholm för år 2022.
 Enligt vår uppfattning har årsredovisningen upprättats i enlig-
-het med årsredovisningslagen och ger en i alla väsentliga avse- • identifierar och bedömer vi riskerna för väsentliga felaktig-
-enden rättvisande bild av stiftelsens finansiella ställning per heter i årsredovisningen, vare sig dessa beror på oegent-
-den 31 december 2022 och av dess finansiella resultat för året ligheter eller misstag, utformar och utför gransknings-
-enligt årsredovisningslagen. Förvaltningsberättelsen är åtgärder bland annat utifrån dessa risker och inhämtar
-förenlig med årsredovisningens övriga delar. revisionsbevis som är tillräckliga och ändamålsenliga för
-att utgöra en grund för våra uttalanden. Risken för att inte
+het med årsredovisningslagen och ger en i alla väsentliga avse-
+enden rättvisande bild av stiftelsens finansiella ställning per
+den 31 december 2022 och av dess finansiella resultat för året
+enligt årsredovisningslagen. Förvaltningsberättelsen är
+förenlig med årsredovisningens övriga delar.
 Grund för uttalanden
-upptäcka en väsentlig felaktighet till följd av oegentlig-
-Vi har utfört revisionen enligt International Standards on heter är högre än för en väsentlig felaktighet som beror på
-Auditing (ISA) och god revisionssed i Sverige. Vårt ansvar misstag, eftersom oegentligheter kan innefatta agerande i
-enligt dessa standarder beskrivs närmare i avsnittet Revisorns maskopi, förfalskning, avsiktliga utelämnanden, felaktig
-ansvar. Vi är oberoende i förhållande till stiftelsen enligt god information eller åsidosättande av intern kontroll.
+Vi har utfört revisionen enligt International Standards on
+Auditing (ISA) och god revisionssed i Sverige. Vårt ansvar
+enligt dessa standarder beskrivs närmare i avsnittet Revisorns
+ansvar. Vi är oberoende i förhållande till stiftelsen enligt god
 revisorssed i Sverige och har i övrigt fullgjort vårt yrkesetiska
-• skaffar vi oss en förståelse av den del av stiftelsens interna
 ansvar enligt dessa krav.
-kontroll som har betydelse för vår revision för att utforma
-Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och granskningsåtgärder som är lämpliga med hänsyn till om-
-ändamålsenliga som grund för våra uttalanden. ständigheterna, men inte för att uttala oss om effekti-
-viteten i den interna kontrollen.
+Vi anser att de revisionsbevis vi har inhämtat är tillräckliga och
+ändamålsenliga som grund för våra uttalanden.
 Styrelsens ansvar
-• utvärderar vi lämpligheten i de redovisningsprinciper som
 Det är styrelsen som har ansvaret för att årsredovisningen
-används och rimligheten i styrelsens uppskattningar i
 upprättas och att den ger en rättvisande bild enligt årsredovis-
-redovisningen och tillhörande upplysningar.
 ningslagen. Styrelsen ansvarar även för den interna kontroll
 som de bedömer är nödvändig för att upprätta en årsredovis-
-• drar vi en slutsats om lämpligheten i att styrelsen använder
 ning som inte innehåller några väsentliga felaktigheter, vare
-antagandet om fortsatt drift vid upprättandet av årsredo-
 sig dessa beror på oegentligheter eller misstag.
-visningen. Vi drar också en slutsats, med grund i de in-
-Vid upprättandet av årsredovisningen ansvarar styrelsen för hämtade revisionsbevisen, om det finns någon väsentlig
-bedömningen av stiftelsens förmåga att fortsätta verksam- osäkerhetsfaktor som avser sådana händelser eller för-
-heten. Den upplyser, när så är tillämpligt, om förhållanden som hållanden som kan leda till betydande tvivel om stiftelsens
-kan påverka förmågan att fortsätta verksamheten och att förmåga att fortsätta verksamheten. Om vi drar slutsatsen
-använda antagandet om fortsatt drift. Antagandet om fortsatt att det finns en väsentlig osäkerhetsfaktor, måste vi i revi-
-drift tillämpas dock inte om beslut har fattats om att upphöra sionsberättelsen fästa uppmärksamheten på upplys-
-med verksamheten.                  ningarna i årsredovisningen om den väsentliga osäker-
-hetsfaktorn eller, om sådana upplysningar är otillräckliga,
-Revisorns ansvar                   modifiera uttalandet om årsredovisningen. Våra slutsatser
-baseras på de revisionsbevis som inhämtas fram till
+Vid upprättandet av årsredovisningen ansvarar styrelsen för
+bedömningen av stiftelsens förmåga att fortsätta verksam-
+heten. Den upplyser, när så är tillämpligt, om förhållanden som
+kan påverka förmågan att fortsätta verksamheten och att
+använda antagandet om fortsatt drift. Antagandet om fortsatt
+drift tillämpas dock inte om beslut har fattats om att upphöra
+med verksamheten.
+Revisorns ansvar
 Våra mål är att uppnå en rimlig grad av säkerhet om att
-datumet för revisionsberättelsen. Dock kan framtida
 årsredovisningen som helhet inte innehåller några väsentliga
-händelser eller förhållanden göra att en stiftelse inte
 felaktigheter, vare sig dessa beror på oegentligheter eller
-längre kan fortsätta verksamheten.
 misstag, och att lämna en revisionsberättelse som innehåller
 våra uttalanden. Rimlig säkerhet är en hög grad av säkerhet,
-• utvärderar vi den övergripande presentationen, strukturen
 men är ingen garanti för att en revision som utförs enligt ISA
-och innehållet i årsredovisningen, däribland upplys-
 och god revisionssed i Sverige alltid kommer att upptäcka en
-ningarna, och om årsredovisningen återger de under-
 väsentlig felaktighet om en sådan finns. Felaktigheter kan
-liggande transaktionerna och händelserna på ett sätt som
 uppstå på grund av oegentligheter eller misstag och anses vara
-ger en rättvisande bild.
 väsentliga om de enskilt eller tillsammans rimligen kan för-
-väntas påverka de ekonomiska beslut som användare fattar Vi måste informera styrelsen om bland annat revisionens
-med grund i årsredovisningen.    planerade omfattning och inriktning samt tidpunkten för den.
+väntas påverka de ekonomiska beslut som användare fattar
+med grund i årsredovisningen.
+
+Som del av en revision enligt ISA använder vi professionellt
+omdöme och har en professionellt skeptisk inställning under
+hela revisionen. Dessutom:
+• identifierar och bedömer vi riskerna för väsentliga felaktig-
+heter i årsredovisningen, vare sig dessa beror på oegent-
+ligheter eller misstag, utformar och utför gransknings-
+åtgärder bland annat utifrån dessa risker och inhämtar
+revisionsbevis som är tillräckliga och ändamålsenliga för
+att utgöra en grund för våra uttalanden. Risken för att inte
+upptäcka en väsentlig felaktighet till följd av oegentlig-
+heter är högre än för en väsentlig felaktighet som beror på
+misstag, eftersom oegentligheter kan innefatta agerande i
+maskopi, förfalskning, avsiktliga utelämnanden, felaktig
+information eller åsidosättande av intern kontroll.
+• skaffar vi oss en förståelse av den del av stiftelsens interna
+kontroll som har betydelse för vår revision för att utforma
+granskningsåtgärder som är lämpliga med hänsyn till om-
+ständigheterna, men inte för att uttala oss om effekti-
+viteten i den interna kontrollen.
+• utvärderar vi lämpligheten i de redovisningsprinciper som
+används och rimligheten i styrelsens uppskattningar i
+redovisningen och tillhörande upplysningar.
+• drar vi en slutsats om lämpligheten i att styrelsen använder
+antagandet om fortsatt drift vid upprättandet av årsredo-
+visningen. Vi drar också en slutsats, med grund i de in-
+hämtade revisionsbevisen, om det finns någon väsentlig
+osäkerhetsfaktor som avser sådana händelser eller för-
+hållanden som kan leda till betydande tvivel om stiftelsens
+förmåga att fortsätta verksamheten. Om vi drar slutsatsen
+att det finns en väsentlig osäkerhetsfaktor, måste vi i revi-
+sionsberättelsen fästa uppmärksamheten på upplys-
+ningarna i årsredovisningen om den väsentliga osäker-
+hetsfaktorn eller, om sådana upplysningar är otillräckliga,
+modifiera uttalandet om årsredovisningen. Våra slutsatser
+baseras på de revisionsbevis som inhämtas fram till
+datumet för revisionsberättelsen. Dock kan framtida
+händelser eller förhållanden göra att en stiftelse inte
+längre kan fortsätta verksamheten.
+• utvärderar vi den övergripande presentationen, strukturen
+och innehållet i årsredovisningen, däribland upplys-
+ningarna, och om årsredovisningen återger de under-
+liggande transaktionerna och händelserna på ett sätt som
+ger en rättvisande bild.
+Vi måste informera styrelsen om bland annat revisionens
+planerade omfattning och inriktning samt tidpunkten för den.
 Vi måste också informera om betydelsefulla iakttagelser under
 revisionen, däribland de eventuella betydande brister i den
 interna kontrollen som vi identifierat.
-PVMAW-WNHL2-EANI2-NIZVY-OFEBE-F3L7E
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: E7L3F-EBEFO-YVZIN-2INAE-2LHNW-WAMVP
 
 <!-- sida 15 -->
 
@@ -742,9 +765,8 @@ Ernst & Young AB
 Maria Strandberg
 Auktoriserad revisor
 2 (2)
-PVMAW-WNHL2-EANI2-NIZVY-OFEBE-F3L7E
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: E7L3F-EBEFO-YVZIN-2INAE-2LHNW-WAMVP
 
 <!-- sida 16 -->
 
@@ -784,9 +806,8 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Rolf-Arne Ullaeus
 Av kommunfullmäktige
 utsedd lekmannarevisor
-5YMBN-K0251-BH7EF-8WI2A-H3FUZ-6TJ04
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 40JT6-ZUF3H-A2IW8-FE7HB-1520K-NBMY5
 
 <!-- sida 17 -->
 
@@ -3616,7 +3637,7 @@ Vi behöver engagera både offentlig och privat sektor i denna process. Våra un
 äldre behöver vara med och ha en dialog om demokratin och likaså alla andra samhälls-
 medborgare som kommunen bedriver välfärd för och kommer i kontakt med. Förtroendevalda
 måste också kliva fram och förespråka de demokratiska värden som vårt samhälle vilar på.
-Tillsammans kan vi stärka idéerna och ge demokratin en egen dag då vi tillsammans teflekterar
+Tillsammans kan vi stärka idéerna och ge demokratin en egen dag då vi tillsammans reflekterar
 
 över det som vi måste värdesätta och värna om.
 Socialdemokraterna föreslår därför kommunfullmäktige
@@ -3863,9 +3884,7 @@ Redovisning av kommunalt partistöd
 
 Partiuppgifter
 Parti Organisationsnummer Kontonummer
-Kungsbackaborna a
 Utdelningsadress E-postadress
-äfotgkuingsbockabarness
 Postnummer Postort Telefonnummer
 Kungsbacka
 
@@ -4150,8 +4169,6 @@ Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet 
 uppgifterna. Min bedömningÅår atf redovisningen ger en rättvisande bild av hur partistödet använts.
 
 Datum 2623 -OY- IT
-
-ÅA
 
 Granskningsrapport
 
@@ -4525,7 +4542,6 @@ Granskares anteckningar
 —LL RTR 7
 
 Överföring till Motprestation | Kronor
-Miljöpartiet de Gröna riks | RTR Ta rn sationsstöd, information, | 5 830:-
 ——  —— —  X—-—  .z:  !MWDLADS0s Oc nätver ga
 TI
 I
@@ -4597,8 +4613,6 @@ f
 
 / /
 
-TA / sia oh Ö / fe,
-VAD: Ku / / bk Kd / MipdJÖOL LE
 Få
 
 Utdelpingsadress
@@ -4634,8 +4648,6 @@ Kommunikation — webb
 23 622
 
 Kommunikation — annonsering
-
-é é OSS
 
 Kommunikation — trycksaker
 
@@ -4702,7 +4714,6 @@ Ri ; I 7 Å ?
 / ,
 ( 77 EM 7Å £ 33
 Nargnförtydligande — A Datum r A 2
-Eg z a /5” Kå Vr, Fars A / ; a za 9 K ÅÄ (6
 z SAR ODOLLTET JANDE EEE
 
 Granskningsrapport
@@ -4816,8 +4827,6 @@ med summa tillgångar per 2022-12-31 på 310114,45 kr.
 Visby 2023-01-16
 
 <!-- sida 133 -->
-
-TE Sverigedemokraterna
 
 Redovisning av hur kommunalt partistöd har använts och
 
@@ -5134,7 +5143,7 @@ Styrelsesammanträde 2023-05-03
 TJOLÖHOLMS
 SLOTT
 
-Plats och tid Tjolöholms slott/Digitalt via Teams 16.00-16.30
+Plats och tid Tjolöholms slott/Digitalt via Teams 16.00-1 6.30
 
 Beslutande Tedamöter
 Berit Bergström (M), ordförande
@@ -5160,7 +5169,7 @@ Stadshuset 2023-05-08
 
 Plats och tid
 
-Underskrifter Sekreterare \$ 19-20
+Underskrifter Sekreterare § 19-20
 
 (Eljsabeth Elfströl
 
@@ -5201,7 +5210,7 @@ Sammanträdesdatum
 
 Styrelsesammanträde 2023-05-03
 
-\$19
+§19
 
 Finansiering av Manegens ombyggnation
 
@@ -5245,7 +5254,7 @@ Sammanträdesdatum
 
 Styrelsesammanträde 2023-05-03
 
-\$20
+§20
 
 Nästa sammanträde
 
@@ -5525,36 +5534,60 @@ Magasinet och konsertområden bemannas  utifrån behov med fast- alt. timanstäl
 
 <!-- sida 158 -->
 
-Åtgärder      Manegen:        940    kvm     ombyggnad          och   ca  50   kvm     tillbyggnad
+Åtgärder      Manegen:         940    kvm    ombyggnad          och    ca  50   kvm    tillbyggnad
 
-•  Dagens innanmäte rivs, konstruktion och byggnadens       •  Varuintag och distribution ut till besöksmålets serveringar
+•  Dagens innanmäte rivs, konstruktion och byggnadens
 
-form bibehålls.                                             sker i byggnadens norra gavel.
+form bibehålls.
 
-•  Golvet sänks omkring 50 cm, vilket ökar                  •  Byggnaden  isoleras (värme och ljud) och ges ett nytt, mer
+•  Golvet sänks omkring 50 cm, vilket ökar
 
-tillgängligheten till byggnaden.                            effektivt, värmesystem.
+tillgängligheten till byggnaden.
 
-•  Entrén flyttas och placeras på västra respektive östra   •  Nya ventilationssystem för att serva personalutrymmen,
+•  Entrén flyttas och placeras på västra respektive östra
 
-långsidan, mot gården mellan Magasinet och                  servering och kök.
+långsidan, mot gården mellan Magasinet och
 
 Manegen  och mot vägen mellan byn och slottet.
-•  Besökstoaletter till serveringen byggs.
+
 •  I byggnaden blir halva lokalen avsatt för ett
-•  Nytt restaurangkök för att serva hela besöksmålet byggs.
+
 produktions- och förädlingskök med
-•  Utvändigt läggs taket om, fasadpanelen byts, nya fönster-
+
 förvaringsutrymmen, denna del får även en
-och dörrpartier installeras.
+
 övervåning med personal- och teknikutrymmen.
-•  På långsidan mot Magasinet förläggs en tillbyggnad som
+
 •  I byggnadens södra halva blir servering med full
-fungerar som en kiosk och bar för evenemangsområdet.
+
 takhöjd och sittplatser för omkring 150 personer.
 Stora glaspartier (delvis öppningsbara) monteras mot
 
 vagnsmuseet och slottet.
+
+•  Varuintag och distribution ut till besöksmålets serveringar
+
+sker i byggnadens norra gavel.
+
+•  Byggnaden isoleras (värme och ljud) och ges ett nytt, mer
+
+effektivt, värmesystem.
+
+•  Nya ventilationssystem för att serva personalutrymmen,
+
+servering och kök.
+
+•  Besökstoaletter till serveringen byggs.
+
+•  Nytt restaurangkök för att serva hela besöksmålet byggs.
+
+•  Utvändigt läggs taket om, fasadpanelen byts, nya fönster-
+
+och dörrpartier installeras.
+
+•  På långsidan mot Magasinet förläggs en tillbyggnad som
+
+fungerar som en kiosk och bar för evenemangsområdet.
 
 <!-- sida 159 -->
 
@@ -5616,42 +5649,64 @@ Kalkylen bygger på enkla material. Kostnaden för kök minskar då vi inte köp
 
 <!-- sida 165 -->
 
-Konsekvenser       och   kostnader     för  att  driva  affärsområdet        Mat   och   Dryck
+Konsekvenser        och  kostnader      för  att driva   affärsområdet       Mat    och  Dryck
 
-som   står  för  46  %  av  besöksomsättningen
+som    står för  46  %  av  besöksomsättningen
 
-Följa lagkraven- och underhållsplan 17,5 milj kr           Ombyggnationen  34,1 milj kr
+Följa lagkraven- och underhållsplan 17,5 milj kr
 
-Omfattande renoveringar och investeringar     Vi uppfyller arbetsmiljö-, livsmedels-och alkohollagen
+Omfattande renoveringar och investeringar
+
 i tre kök krävs för att uppfylla arbetsmiljö-, livsmedels-och
-alkohollagen ca 9 miljkr                   Minskade personalkostnader 1 917 000 kr/år
+alkohollagen ca 9 miljkr
 
-Underhållsbehovet Manegen är 8,5 miljkr              Effektiv produktion -tre kök blir ett
+Underhållsbehovet Manegen är 8,5 miljkr
 på fem år oavsett
-Tillväxt genom grupper över 90 personer upptill 1 000
-Lönsamhetsutmaning                    personer på området. Även catering utanför Tjolöholm kan
 
-erbjudas.
+Lönsamhetsutmaning
+
 Ineffektiv produktion, höga lagerkostnader
-och logistikproblem                    Kapacitetsökning i Manegen från 78 sittplatser till 150
-sittplatser + 80 sittplatser på andra våning.
-Höga drifts-och ökade personalkostnader
-Tydlig organisation där vi kan mäta och spåra lönsamheten
-Ingen tillväxt –vi kan inte leverera mat och dryck till grupper och produktiviteten
-som är fler än 90 personer/tillfälle
-Tillgänglighets-och energianpassade lokaler
-Otydlig organisation utan mätbarhet på lönsamhet och
 
-produktivitet                      Flexibilitet –kan öppna vid behov eftersom vi alltid är på
-plats i lokalerna -funktionell arbetsplats
+och logistikproblem
+
+Höga drifts-och ökade personalkostnader
+
+Ingen tillväxt –vi kan inte leverera mat och dryck till grupper
+som är fler än 90 personer/tillfälle
+
+Otydlig organisation utan mätbarhet på lönsamhet och
+produktivitet
+
 Risk för sjukskrivning och hög personalomsättning
+
+Ombyggnationen  34,1 milj kr
+
+Vi uppfyller arbetsmiljö-, livsmedels-och alkohollagen
+
+Minskade personalkostnader 1 917 000 kr/år
+
+Effektiv produktion -tre kök blir ett
+
+Tillväxt genom grupper över 90 personer upptill 1 000
+personer på området. Även catering utanför Tjolöholm kan
+erbjudas.
+
+Kapacitetsökning i Manegen från 78 sittplatser till 150
+sittplatser + 80 sittplatser på andra våning.
+
+Tydlig organisation där vi kan mäta och spåra lönsamheten
+och produktiviteten
+
+Tillgänglighets-och energianpassade lokaler
+
+Flexibilitet –kan öppna vid behov eftersom vi alltid är på
+plats i lokalerna -funktionell arbetsplats
+
 Minskade transporter på hela området
 
 Skapar utveckling av besöksmålet
 
 <!-- sida 166 -->
-
-untoms KUS301 v 1.0, 2005-11-25
 
 1 (3)
 
@@ -5659,16 +5714,16 @@ Datum
 
 Stadgar för Stiftelsen Tjolöholm 2007-08-28
 
-Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF \$ 187/96 samt
+Godkända av kommunfullmäktige i Kungsbacka 1996-10-10, KF § 187/96 samt
 permutation genom Kammarkollegiets beslut 1997-12-22, dnr 430-6320-97 med
 omprövningsbeslut 1998-02-03, dnr 438-454-98 (lagakraftvunna genom regeringens
 beslut 1998-09-03, Ku98/216/Ka).
 
 Beslut om ändring 2007-08-28. Ändring godkänd av kommunfullmäktige i
-Kungsbacka 2007-06-14, \$ 109 samt permutation genom Kammarkollegiets beslut
+Kungsbacka 2007-06-14, § 109 samt permutation genom Kammarkollegiets beslut
 2007-12-03, dnr 430-18971-07
 
-\$1
+§1
 
 Stiftelsen, vars benämning (firma) är Stiftelsen Tjolöholm, har till ändamål att äga
 och förvalta Tjolöholms egendom i Kungsbacka kommun och där utveckla för
@@ -5685,7 +5740,7 @@ i form av årligt bidrag.
 
 Stiftelsekapitalet uppgår till 10,5 miljoner kronor, varav Kungsbacka kommun har
 tillskjutit 8,5 miljoner kronor och Västkuststiftelsen 2 miljoner kronor. Kapitalet
-skall användas för förvärv av egendom enligt \$ 1.
+skall användas för förvärv av egendom enligt § 1.
 
 Stiftelsen Tjolöholm
 430 33 Fjärås
@@ -5696,13 +5751,15 @@ Fax 0300-54 41 66
 info(Atjoloholm.se
 www:tjoloholnise
 
+untoms KUS301 v 1.0, 2005-11-25
+
 <!-- sida 167 -->
 
 Enligt särskilt avtal mellan Kungsbacka kommun och Västkuststiftelsen skall 23)
 Västkuststiftelsen svara för åtgärder för friluftsliv och naturvård inom egendomen
 med årligt bidrag från Västkuststiftelsen.
 
-\$4
+§4
 Till stiftelsen inflytande medel skall bilda stiftelsens fond.
 
 Fondmedel, som icke placerats i stiftelsen tillhörig fast egendom, skall insättas på
@@ -5714,14 +5771,14 @@ Stiftelsen äger mottaga gåva, donation, legat eller motsvarande under föruts�
 att därvid inte föreskrivits villkor, som strider mot stiftelsens stadgar och att villkoren
 kan godkännas av styrelsen.
 
-\$6
+§6
 
 Stiftelsens angelägenheter handhas av en styrelse, som har sitt säte i Kungsbacka.
 Styrelsen ska ha lägst fem och högst nio ordinarie ledamöter med lägst fem och högst
 sju suppleanter.
 
 Styrelsen utses av kommunfullmäktige i Kungsbacka kommun för en tid av fyra år
-och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 \$
+och mandattiden skall sammanfalla med den tid, som anges i 6 kap 12 §
 kommunallagen. Kommunfullmäktige bestämmer i vilken ordning utsedda
 suppleanter inträder i tjänstgöring vid förfall för ordinarie ledamöter.
 
@@ -5734,7 +5791,7 @@ och vid lika röstetal den mening, som biträds av ordföranden.
 Stiftelsen äger företräda stiftelsen och själv eller genom ombud föra dess talan vid
 som utom domstol.
 
-\$7
+§7
 Styrelsen sammanträder på kallelse av ordföranden eller — vid förfall av denne — av
 vice ordförande,
 
@@ -5743,14 +5800,14 @@ sammanträde.
 
 Kallelse till sammanträde skall utgå minst tio dagar före sammanträdet.
 
-\$8
+§8
 Stiftelsens firma tecknas, förutom av styrelsen, av den eller de personer inom eller
 utom styrelsen, som styrelsen därtill utser.
 
 <!-- sida 168 -->
 
 3 (3)
-\$9
+§9
 
 Styrelsens förvaltning och räkenskaper skall granskas av, för samma mandatperiod
 som gäller för stiftelsens styrelse, utsedda revisorer.
@@ -5922,7 +5979,7 @@ För kommunens helägda bolag eller helägda stiftelser, utgår en marknads-
 mässig årlig borgensavgift på utnyttjad borgen, baserad på bolagets/stiftelsens
 bedömda villkor att erhålla krediter i marknaden utan kommunal borgen.
 
-erg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik Vallda Anneberg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik!
+erg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavikValldaAnneberg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik!
 
 Kungsbacka kommun » 434 81 Kungsbacka « 0300-83 40 00
 infoQkungsbacka.se « www.kungsbacka.se
@@ -6588,7 +6645,7 @@ Kommunen har tagit fram förslag till Detaljplan. Förslaget har varit utställt
 mellan 2022-05-03 och 2022-05-31. Granskning genomfördes mellan 2023-02-28 och
 2023-03-21.
 
-Ett Principavtal (KS/2021-05-25, \$ 150), Principavtalet, har tecknats mellan
+Ett Principavtal (KS/2021-05-25, § 150), Principavtalet, har tecknats mellan
 Kommunen, Exploatören och Köparen. Principavtalet föreskriver att ett
 Genomförandeavtal, Avtalet, ska upprättas innan Detaljplanen kan antas av
 Byggnadsnämnden.
@@ -7062,7 +7119,6 @@ av Exploatörens respektive Köparens eller dennes entreprenörers verksamhet in
 Planområdet. Kommunen svarar, efter samråd med Exploatören och Köparen, för
 återställandet på Exploatörens respektive Köparens bekostnad och Kommunen
 fakturerar Exploatören respektive Köparen efter utfört arbete.
-.. MN
 
 <!-- sida 196 -->
 
@@ -7513,7 +7569,6 @@ tillämpningen av detta avtal ska avgöras av allmän domstol.
 
 Detta avtal är upprättat i tre likalydande exemplar varav Parterna tagit ett vardera.
 
-Ont: bak207\$
 2023-23 —a
 för Kungsbacka Gjutaren 2 AB, C/O Riksbyggen ekonomisk förening
 
@@ -7561,13 +7616,6 @@ Sign.
 <!-- sida 204 -->
 
 Bilaga A
-
-FEN ng
-SÄTE
-MN
-FOR.
-dn Hig
-JENNA
 
 Wise
 0 We
@@ -7623,7 +7671,7 @@ Enheten för befolkningsskydd
 
 Anders Johannesson Malin Olsson
 
-Överklagande: Detta beslut får enligt 9 kap. 2 \$ lagen om skyddsrum inte överklagas,
+Överklagande: Detta beslut får enligt 9 kap. 2 § lagen om skyddsrum inte överklagas,
 
 Beslut tillfällig begränsning 2019:1
 
@@ -7806,10 +7854,10 @@ Länsstyrelsen Hallands län Beslut 4 (8)
 
 Bestämmelser som beslutet grundas på
 
-9 \$ förordning (1998:1252) om områdesskydd enligt miljöbalken
+9 § förordning (1998:1252) om områdesskydd enligt miljöbalken
 (MB) m.m.
 
-Alléer med vuxna lövträd omfattas av biotopskydd enligt 7 kap. 11 \$
+Alléer med vuxna lövträd omfattas av biotopskydd enligt 7 kap. 11 §
 MB. Med vuxna träd avses, enligt Naturvårdsverkets vägledning för
 alléer, träd som uppnått åldern 30 år eller med en diameter om minst 20
 cm i brösthöjd.
@@ -7818,14 +7866,14 @@ cm i brösthöjd.
 
 Syftet med biotopskyddet är att mindre mark- och vattenområden som
 utgör livsmiljö för hotade djur- och växtarter eller som annars särskilt
-skyddsvärda ska bevaras. Enligt 7 kap. 11 \$ MB får inte verksamheter
+skyddsvärda ska bevaras. Enligt 7 kap. 11 § MB får inte verksamheter
 eller åtgärder vidtas som kan skada naturmiljön i ett
 biotopskyddsområde. Om det finns särskilda skäl, får dispens från
 förbudet ges i det enskilda fallet. Bedömningen av om det föreligger
 särskilda skäl sker efter avvägning mellan skadans betydelse och tyngd i
 skälet att göra intrång i biotopen.
 
-Dispens får, enligt 7 kap. 26 \$ MB, endast meddelas om det är förenligt
+Dispens får, enligt 7 kap. 26 § MB, endast meddelas om det är förenligt
 med förbudets syfte. Enligt 7 kap. 25 & MB ska vid prövning enligt
 biotopskyddsbestämmelserna hänsyn även tas till enskilda intressen. En
 inskränkning i en enskilds rätt att använda mark eller vatten får inte gå
@@ -9591,7 +9639,7 @@ Sida 11 av 12 2023-04-13
 
 <!-- sida 241 -->
 
-Metria FastighetSokK - Kungsbacka Kungsbacka VANA
+Metria FastighetSoK - Kungsbacka Kungsbacka VANA
 
 Åtgärd
 Fastighetsrättsliga åtgärder

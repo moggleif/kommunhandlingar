@@ -12,12 +12,12 @@ kalla_url: [https://web.archive.org/web/20220319214546id_/https://www.kungsbacka
 sha256: [d9ec8c39ddbbf4214ef2752d6b79f42dcb447b24eab9e64f6cf6d358df08fb4e, 9c8526ea4e991c94110e1cac1de0b2c9735df42d8b9a6b2d1e7a9e5ef40d43bc]
 bytes: [694452, 1451578]
 sidor: 41
-hamtad: 2026-10-28T10:07:13+00:00
-konverterad: 2026-10-28T10:07:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+hamtad: 2026-11-17T03:52:30+00:00
+konverterad: 2026-11-17T03:52:59+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr]
 tal_obekraftade: [37, 38, 39, 40, 41]
 figurer: [10, 12]
 tolkade: []
@@ -1481,7 +1481,6 @@ Byggnadsnämnden Datum
 Kungsbacka
 
 Kommunfullmäktigesalen, Storgatan 37, klockan
-Plats och tid 13-16.35
 
 Beslutande ledamöter Thure Sandén (M) Ordförande
 Heinrich Kaufmann (C), Vice ordförande
@@ -1526,11 +1525,23 @@ Plats och tid för justering Manuel justering, 2021-09-20
 
 A
 
-\> OM
-
 Kungsbacka kommun » 0300-83 40 00 » info(Aåkungsbacka.se « kungsbacka.se
 
 <!-- sida 38 -->
+
+Kungsbacka kommun SAMMANTRÄDESPROTOKOLL 2 (5)
+Byggnadsnämnden Datum
+2021-09-20
+
+Underskrifter Au HV UU WLUNWNYSrerafer § 253
+Sekreterare , fajesira Mesinovic
+BuUuCN VA
+Ordförande Thure Sandén (M)
+—
+
+Protokolljusterare Daniel Hognert (M)
+
+Justerare Expedierat/bestyrkt
 
 <!-- sida 39 -->
 
@@ -1552,10 +1563,11 @@ Anslaget ska sättas upp inom 2 dagar efter justering.
 Datum då anslaget tas ner = 2021-10-13
 
 Förvaringsplats för Bygg- och miljöförvaltningen
+
 protokollet
+
 Underskrift dl) 4 Cf 2/UL Liebe VN d
 Mujé ira Mesinovic i
-V/
 
 Justerare Expedierat/bestyrkt
 

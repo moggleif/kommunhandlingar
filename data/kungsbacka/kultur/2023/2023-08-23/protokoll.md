@@ -7,14 +7,14 @@ typ: protokoll
 namn: null
 kallnyckel: sitevision:18.6f3c0c5618a2618563613d
 tidigare_kallnycklar: []
-arenden: null
+arenden: [2023-00190, 2023-00225, 2023-00226, 2023-00227]
 kalla_url: https://web.archive.org/web/20250115030518id_/https://kungsbacka.se/download/18.6f3c0c5618a2618563613d/1692863165305/N%C3%A4mnden%20f%C3%B6r%20Kultur%20&%20Fritid%20protokoll%202023-08-23.pdf
 sha256: b9a74d99cba04f5c27d2aedd217fface1ab920c383f8cafc0c63257abd50d604
 bytes: 797051
 sidor: 8
-hamtad: 2026-10-20T09:34:54+00:00
-konverterad: 2026-10-20T09:35:09+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:24:57+00:00
+konverterad: 2026-11-17T01:25:15+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -76,7 +76,7 @@ Harald Tjelle, utvecklingsledare
 Johan Lager, Hello Future
 Simon Mare, Hello Future
 
-\$\$ 66-69
+§§ 66-69
 
 Paragrafer
 
@@ -87,14 +87,14 @@ Paragrafer
 KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL
 Nämnden för Kultur & Fritid Datum
 2023-08-23
-\$ 66 Dnr 2023-00190
+§ 66 Dnr 2023-00190
 
 Initiativ från Alliansen avseende medel för fortsatt arbete med
 Tillsammansgruppen
 
 Beslut
 
-Nämnden för Kultur & Fritid rättar sitt beslut från den 2023-06-21 \$62 till följande
+Nämnden för Kultur & Fritid rättar sitt beslut från den 2023-06-21 §62 till följande
 lydelse:
 
 3 (6)
@@ -148,7 +148,7 @@ Nämnden för Kultur & Fritid Datum
 
 2023-08-23
 
-\$ 67 Dnr 2023-00226
+§ 67 Dnr 2023-00226
 Anmälan av delegeringsbeslut
 
 Beslut
@@ -194,7 +194,7 @@ Nämnden för Kultur & Fritid Datum
 
 2023-08-23
 
-\$ 68 Dnr 2023-00225
+§ 68 Dnr 2023-00225
 Redovisning av inkomna handlingar
 
 Beslut
@@ -226,7 +226,7 @@ Nämnden för Kultur & Fritid Datum
 
 2023-08-23
 
-\$ 69 Dnr 2023-00227
+§ 69 Dnr 2023-00227
 Planeringsdag 2023
 
 Beslut

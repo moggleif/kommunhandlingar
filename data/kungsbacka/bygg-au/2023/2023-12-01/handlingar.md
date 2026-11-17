@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250516152322id_/https://kungsbacka.se/d
 sha256: 0120b3087f9d2088f4ebac57e97f97293c56ff4c6d4ab49648673dc9403cdbf7
 bytes: 1021967
 sidor: 10
-hamtad: 2026-10-20T08:12:40+00:00
-konverterad: 2026-10-20T08:15:05+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T00:48:14+00:00
+konverterad: 2026-11-17T00:48:23+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr]
@@ -394,7 +394,7 @@ alla byar presenteras på samma sätt. Idag är det svårt att hitta logiken i s
 
 Vi yrkar därför att:
 
-\- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
+\- komplettering påbörjas så att namnskyltar sätts upp vid större byar
 
 Per Gunnarsson, Ledamot Kommunfullmäktige
 Magdalena Sundqvist, Ledamot Kommunfullmäktige
