@@ -158,8 +158,8 @@ class TestBygg(unittest.TestCase):
         (rot / "initiativ" / "exempelby.csv").write_text(RUBRIK + RADER)
         bygg(rot, ut, REPO, TID)
         sidan = ut / "exempelby" / "fsn" / "initiativ.html"
-        self.assertIn("Initiativärenden – ", sidan.read_text())
-        lank = 'href="fsn/initiativ.html">Initiativärenden<'
+        self.assertIn("Initiativ och motioner – ", sidan.read_text())
+        lank = 'href="fsn/initiativ.html">Initiativ och motioner<'
         self.assertIn(lank, (ut / "exempelby" / "fsn.html").read_text())
         self.assertFalse((ut / "exempelby" / "fsn" / "lokalbehov.html").exists())
 
