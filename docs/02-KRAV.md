@@ -1337,7 +1337,8 @@ och [Webbplatsen](03-ARKITEKTUR.md#webbplatsen).
   senaste sammanträdets datum, och har sedan en rad per organ, i
   kommunfilens ordning men med varje utskott direkt under organet det hör
   till (`hor_till`), med antalet sammanträden och en kolumn för varje
-  slags sida över tid. Cellen länkar till organets sida med antalet mål
+  slags sida över tid som något av kommunens organ har, mål och direktiv
+  inräknade (K59). Cellen länkar till organets sida med antalet mål
   eller saker på den, som "28 mål", och har ett streck när organet inte
   har sidan.
 - **Givet** en kommunfil med grupper
@@ -1973,9 +1974,10 @@ Issue [#314](https://github.com/moggleif/kungsbackakommun/issues/314).
   annan spårfil
 - **När** webbplatsen byggs
 - **Så** stoppas bygget med filen, raden och felet.
-- **Givet** en kommun där inget organ har ett visst slags sida
+- **Givet** en kommun där inget organ har ett visst slags sida, mål och
+  direktiv inräknade
 - **När** kommunens översikt byggs
-- **Så** har tabellen ingen kolumn för det slaget.
+- **Så** har tabellen ingen kolumn för den sidan.
 - **Givet** sidorna om granskningar och handlingsplaner
 - **När** de visas för en region
 - **Så** säger texten "revisionen", "styrelsen" och "gemensamma planer",

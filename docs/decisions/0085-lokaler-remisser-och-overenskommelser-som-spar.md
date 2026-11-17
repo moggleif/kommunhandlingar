@@ -52,14 +52,16 @@ inte ryms i lokalplanens eller redovisningarnas faser, och tre slag är
 bara data.
 
 * **`investeringar`** ("Lokaler och investeringar"): `behov`, `beslut`,
-  `pagar`, `utfort`. Hyresavtal står här.
+  `pagar`, `utfort` och `avbruten`, eftersom ett projekt kan avbrytas.
+  Hyresavtal står här.
 * **`remisser`** ("Remisser och yttranden"): `remiss`, `yttrande`,
   `beslut`. Motioner står bland initiativärendena, revisionsrapporter
   bland granskningarna.
 * **`overenskommelser`** ("Överenskommelser och vårdval"): `forslag`,
-  `beslut`, `revidering`, `uppfoljning`, `uppsagd`.
-* **Översikten** har bara kolumner för slag som något av kommunens organ
-  har, så att Kungsbacka inte får tre tomma kolumner och regionen inte
+  `beslut`, `revidering`, `uppfoljning`, `uppsagd`. Fullmäktiges och
+  styrelsens beslut står med när de finns bland organets handlingar.
+* **Översikten** har bara kolumner för sidor över tid som något av
+  kommunens organ har, mål och direktiv inräknade, så att Kungsbacka inte får tre tomma kolumner och regionen inte
   får lokalbehov och detaljplaner.
 * **Listan** över slagen flyttar till `slagen.py`, eftersom `sparslag.py`
   annars går över den hårda gränsen. Varje nytt slag står i en egen fil,
@@ -74,12 +76,12 @@ bara data.
   kommunen, och en kommun kan använda slagen när den vill.
 * Good, eftersom översikten blir smalare för båda.
 * Neutral, eftersom varje slag är handarbete per nämnd, som de andra.
-* Bad, eftersom slagen nu står i fem filer.
+* Bad, eftersom slagen nu står i fem filer och listan i en sjätte.
 
 ### Confirmation
 
 `tests/test_nya_spar.py` prövar att varje nytt slag får en sida och en
-flik, och att en okänd fas stoppar bygget. `tests/test_navigering.py`
+flik, och att en okänd fas stoppar läsningen av filen. `tests/test_navigering.py`
 prövar att översikten bara har kolumner för sidor som kommunen har.
 
 ## Pros and Cons of the Options

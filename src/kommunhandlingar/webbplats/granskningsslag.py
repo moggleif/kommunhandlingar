@@ -40,7 +40,7 @@ GRANSKNINGAR = Slag(
     metod=(
         "<p>Revisionen publicerar bara sina protokoll, och där står sällan "
         "bedömningen. Rapporten finns i poolen när den ligger bland "
-        "nämndens, kommunstyrelsens eller fullmäktiges handlingar, oftast "
+        "nämndens, styrelsens eller fullmäktiges handlingar, oftast "
         "som underlag till nämndens svar. Bedömningen står som revisorerna "
         "skriver den, i rapporten eller återgiven i ärendet om svaret; "
         "saknas den står ingen bedömning. Granskningar av "

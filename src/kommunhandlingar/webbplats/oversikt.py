@@ -32,18 +32,14 @@ def oversikt(
     antal = {o.id: overtid(mall, kommun.id, o.id) for o in kommun.organ}
     sidor = kommunens_sidor(antal)
     huvud = "".join(f'<th scope="col">{escape(r)}</th>' for _, r, _ in sidor)
-    rad = {
-        o.id: organrad(
-            kommun.id,
-            o,
-            sammantraden[o.id],
-            celler(kommun.id, o.id, antal[o.id], sidor),
-        )
-        for o in kommun.organ
-    }
     grupper = "".join(
         f"<tbody>{grupprad(namn, len(sidor) + 2)}"
-        + "".join(rad[o.id] for o in organen)
+        + "".join(
+            organrad(kommun.id, o, sammantraden[o.id])
+            + celler(f"{kommun.id}/{o.id}", antal[o.id], sidor)
+            + "</tr>"
+            for o in organen
+        )
         + "</tbody>"
         for namn, organen in grupperade(kommun)
     )
@@ -54,7 +50,6 @@ def oversikt(
     )
 
 
-# Bara de sidor över tid som något av kommunens organ har får en kolumn.
 def kommunens_sidor(antal: dict[str, dict[str, int]]) -> list[tuple[str, str, str]]:
     return [s for s in SIDOR if any(a[s[0]] for a in antal.values())]
 
@@ -78,21 +73,20 @@ def grupprad(namn: str, kolumner: int) -> str:
     )
 
 
-def celler(kommun_id: str, organ_id: str, antal: dict, sidor: list) -> str:
+def celler(organets: str, antal: dict[str, int], sidor: list) -> str:
     return "".join(
-        f'<td><a href="{kommun_id}/{organ_id}/{sida}.html">'
-        f"{antal[sida]} {escape(enhet)}</a></td>"
+        f'<td><a href="{organets}/{sida}.html">{antal[sida]} {escape(enhet)}</a></td>'
         if antal[sida]
         else TOM
         for sida, _, enhet in sidor
     )
 
 
-def organrad(kommun_id: str, organ: Organ, sammantraden: int, celler: str) -> str:
+def organrad(kommun_id: str, organ: Organ, sammantraden: int) -> str:
     klass = ' class="utskott"' if organ.hor_till else ""
     organets = f"{kommun_id}/{organ.id}.html"
     return (
         f'<tr><th scope="row"{klass}><a href="{organets}">'
         f"{escape(organ.namn[0])}</a></th>"
-        f'<td><a href="{organets}">{sammantraden}</a></td>{celler}</tr>'
+        f'<td><a href="{organets}">{sammantraden}</a></td>'
     )

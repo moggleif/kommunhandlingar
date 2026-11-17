@@ -2453,8 +2453,8 @@ utan värden, med de här kolumnerna och faserna:
 
 - **`investeringar`**, kolumnen `investering`, rubriken "Lokaler och
   investeringar": `behov` (behov, förslag eller avsiktsförklaring),
-  `beslut` (beslut om lokal, hyresavtal eller investering), `pagar` och
-  `utfort`. Lokalbehoven ([Lokalbehov](#lokalbehov)) följer en kommuns
+  `beslut` (beslut om lokal, hyresavtal eller investering), `pagar`,
+  `utfort` och `avbruten`. Lokalbehoven ([Lokalbehov](#lokalbehov)) följer en kommuns
   lokalplan med löpnummer och prioritet; det här slaget följer organets
   egna beslut. Slaget står i `investeringsslag.py`.
 - **`remisser`**, kolumnen `remiss`, rubriken "Remisser och yttranden":
@@ -2464,11 +2464,13 @@ utan värden, med de här kolumnerna och faserna:
   Slaget står i `remissslag.py`.
 - **`overenskommelser`**, kolumnen `overenskommelse`, rubriken
   "Överenskommelser och vårdval": `forslag`, `beslut`, `revidering`,
-  `uppfoljning` och `uppsagd`. Hyresavtal står bland investeringarna.
+  `uppfoljning` och `uppsagd`. Fullmäktiges och styrelsens beslut står med
+  när de finns bland organets handlingar. Hyresavtal står bland
+  investeringarna.
   Slaget står i `overenskommelseslag.py`.
 - **Listan** över alla slag, i flikarnas och kolumnernas ordning, står i
-  `slagen.py`. Kommunens översikt har bara kolumner för de slag som något
-  organ har, så att en kommun inte får tomma kolumner för en annans slag.
+  `slagen.py`. Kommunens översikt har bara kolumner för de sidor över tid
+  som något organ har, mål och direktiv inräknade, så att en kommun inte får tomma kolumner för en annans slag.
 
 ## Sammanträdets sida
 

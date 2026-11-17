@@ -7,7 +7,13 @@ följer organets egna beslut om lokaler, hyresavtal och investeringar.
 """
 
 from kommunhandlingar.webbplats.spar import Slag
-from kommunhandlingar.webbplats.sparformer import CIRKEL, FYLLD, KLART, RUTER
+from kommunhandlingar.webbplats.sparformer import (
+    CIRKEL,
+    FYLLD,
+    KLART,
+    KRYSS,
+    RUTER,
+)
 
 INVESTERINGAR = Slag(
     id="investeringar",
@@ -21,12 +27,13 @@ INVESTERINGAR = Slag(
         "beslut": (FYLLD, "beslut om lokal, avtal eller investering"),
         "pagar": (RUTER, "på gång"),
         "utfort": (KLART, "klar eller i drift"),
+        "avbruten": (FYLLD + KRYSS, "avbruten"),
     },
     inledning=(
         "<p>Lokaler, hyresavtal och investeringar år för år: när behovet "
         "eller förslaget kom, när det beslutades, hur arbetet gick och när "
-        "lokalen blev klar. Varje ikon länkar till sidan i dokumentet som "
-        "visar steget.</p>"
+        "lokalen blev klar eller arbetet avbröts. Varje ikon länkar till "
+        "sidan i dokumentet som visar steget.</p>"
     ),
     metod=(
         "<p>Stegen är lästa ur poolens dokument, från vilket organ som helst. "
