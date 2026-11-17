@@ -187,6 +187,15 @@ class TestSidan(unittest.TestCase):
             )
         )
 
+    def test_knapp_for_alla_organ_i_urvalet(self):
+        urval = self.html.split('<fieldset class="urval">')[1]
+        self.assertTrue(
+            urval.startswith(
+                '<legend>Organ som visas</legend><p class="alla" hidden>'
+                '<button type="button">Dölj alla</button></p>'
+            )
+        )
+
     def test_tid_i_listan_platsen_i_rutan(self):
         self.assertIn("<td>17:00</td></tr>", self.html)
         self.assertIn('title="Stadshuset">FSN 17:00</span>', self.html)

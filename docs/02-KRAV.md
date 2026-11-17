@@ -756,6 +756,10 @@ och [Kalendern](03-ARKITEKTUR.md#kalendern).
 - **När** besökaren väljer bort ett organ
 - **Så** försvinner organets sammanträden ur båda vyerna. Från början visas
   alla organ.
+- **Givet** kalendersidan
+- **När** besökaren trycker på knappen ovanför organen
+- **Så** döljs alla organ när något organ visas, och annars visas alla.
+  Knappen heter "Dölj alla" eller "Visa alla" efter vad den gör.
 - **Givet** ett sammanträde på kalendersidan
 - **När** det visas
 - **Så** står organets förkortning i rutan, med organets färg, där ett
