@@ -2,17 +2,19 @@
 
 Åren som varje sida över tid i en kommun visar, lika för alla organ och
 flikar så att de går att jämföra: från poolens första år till året då
-webbplatsen byggs, och längre åt något håll om ett mål eller ett steg
-ligger utanför, som en budget för nästa år.
+webbplatsen byggs, och längre åt något håll om en rad i kommunens mål-,
+uppföljnings- eller spårfiler ligger utanför, som en budget för nästa år.
 """
 
 from pathlib import Path
 
 
-def arspann(katalog: Path, radernas: list[int], byggd: int) -> range:
-    poolens = [int(p.name) for p in katalog.glob("*/[0-9][0-9][0-9][0-9]")]
-    alla = [*poolens, *radernas, byggd]
-    return range(min(alla), max(alla) + 1)
+def arspann(ar: list[int]) -> range:
+    return range(min(ar), max(ar) + 1)
+
+
+def poolens_ar(katalog: Path) -> list[int]:
+    return [int(p.name) for p in katalog.glob("*/[0-9][0-9][0-9][0-9]")]
 
 
 def radernas_ar(kommun: str, malen: dict, uppfoljda: dict, sparen: dict) -> list[int]:

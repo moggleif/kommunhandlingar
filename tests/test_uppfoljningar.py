@@ -14,6 +14,7 @@ from kommunhandlingar.webbplats import uppfoljningar
 from kommunhandlingar.webbplats.bygg import bygg
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
+from tests.aren import aren
 from tests.test_mal import BUDGET, HANDLINGAR, ROT, budget, pool
 from tests.test_webbplats import FIXTURER, REPO, TID, exempelby, protokoll
 
@@ -66,7 +67,11 @@ class TestTabellen(unittest.TestCase):
     def tabell(self, organets: list[dict]) -> dict[str, list[str]]:
         with pool() as malen, lasta() as uppfoljda:
             mall = Mall(
-                [exempelby()], REPO, TID, uppfoljningar={"exempelby": uppfoljda}
+                [exempelby()],
+                REPO,
+                TID,
+                uppfoljningar={"exempelby": uppfoljda},
+                aren=aren(malen),
             )
             html = malsida(mall, exempelby(), malen, organets)
         tabell = html[html.index('id="antal"') : html.index('id="tidslinje"')]

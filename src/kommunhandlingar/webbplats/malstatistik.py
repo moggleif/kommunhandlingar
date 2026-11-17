@@ -1,5 +1,5 @@
-"""Krav: K27, K28, K29, K35 och K50 i docs/02-KRAV.md, ADR-0045, ADR-0046,
-ADR-0050, ADR-0056 och ADR-0073. Test: tests/test_malgrupper.py,
+"""Krav: K27, K28, K29, K35, K50 och K60 i docs/02-KRAV.md, ADR-0045,
+ADR-0046, ADR-0050, ADR-0056, ADR-0073 och ADR-0086. Test: tests/test_malgrupper.py,
 tests/test_uppfoljningar.py, tests/test_fokusomraden.py och tests/test_malar.py.
 
 Antalet per år på sidan om ett organs mål och direktiv: rubrikerna av

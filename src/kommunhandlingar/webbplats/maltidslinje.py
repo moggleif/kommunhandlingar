@@ -61,7 +61,7 @@ def slagets(slag: str, spar: list[list[Mal]], ar: range) -> str:
 
 
 def rader(nr: int, malen: list[Mal], ar: range) -> str:
-    egenskap = egenskaper(nr, malen, ar)
+    egenskap = egenskaper(nr, malen)
     return "".join(
         f"<tr {egenskap}>{rubrikcell(nr, malen, rubrikens[0])}"
         f"{''.join(cell(rubrikens, a) for a in ar)}</tr>"

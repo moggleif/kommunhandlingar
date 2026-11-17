@@ -52,10 +52,15 @@ METOD = (
     "<p>Statusen är en ikon för uppföljningens bedömning, med källans egen "
     "formulering i pekrutan och i kortets historik. En delårsrapport ger en "
     "prognos, som har en streckad ram. Ett år utan dokument i poolen är en "
-    "lucka i poolen, inte ett år utan mål.</p>"
-    "<p>Åren är desamma på alla organs sidor över tid, från poolens första "
-    "år till i år, så att sidorna går att jämföra. Ett år utan mål står "
-    "tomt.</p>"
+    "lucka i poolen, inte ett år utan mål, också före organets första "
+    "dokument i poolen.</p>"
+)
+# Delas med spårsidorna (K60, ADR-0086).
+AREN = (
+    "<p>Åren är desamma på alla kommunens sidor över tid, så att de går att "
+    "jämföra: från poolens första år, eller ett äldre år som någon rad "
+    "har, till i år, eller ett senare år som någon rad har, som en budget "
+    "för nästa år. Ett år utan rader står tomt.</p>"
 )
 FOKUS = (
     "<p>Ett mål med fokusområden har dem under sig i tidslinjen och i sitt "
@@ -103,7 +108,7 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
     namn = next(o.namn[0] for o in kommun.organ if o.id == organ)
     spar = sparen(malen)
     malar = {m.ar for m in malen}
-    ar = mall.arspann(kommun.id, malar)
+    ar = mall.aren[kommun.id]
     dokumentar = {int(d["datum"][:4]) for d in organets}
     luckor = set(range(ar[0], mall.byggd.year + 1)) - dokumentar - malar
     innehall = (
@@ -154,7 +159,7 @@ def om_sidan(mall: Mall, fokus: bool) -> str:
         for fil in (ADR_0044, ADR_0045, ADR_0050, ADR_0051, ADR_0056)
     ]
     return (
-        f"<details><summary>Om sidan</summary>{METOD}{FOKUS * fokus}"
+        f"<details><summary>Om sidan</summary>{METOD}{AREN}{FOKUS * fokus}"
         f"<p>Hur och varför står i {', '.join(adr[:-1])} och {adr[-1]}.</p></details>"
     )
 
@@ -167,4 +172,7 @@ def urval(sista: int, slagen: set[str]) -> str:
     knappar = "".join(
         f'<button type="button" data-urval="{v}">{text}</button>' for v, text in val
     )
-    return f'<div class="urval" role="group" aria-label="Visa" hidden>{knappar}</div>'
+    return (
+        f'<div class="urval" role="group" aria-label="Visa" data-sista="{sista}" '
+        f"hidden>{knappar}</div>"
+    )

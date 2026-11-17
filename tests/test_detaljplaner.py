@@ -12,6 +12,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import DETALJPLANER
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
@@ -42,7 +43,7 @@ def sida(projekten: dict | None = None) -> str:
             )
         stegen = spar.las(fil, exempelby(), data, DETALJPLANER)
     vy = replace(
-        Vy.over(Mall([exempelby()], REPO, TID), DETALJPLANER, exempelby(), stegen),
+        Vy(DETALJPLANER, exempelby(), aren(stegen)["exempelby"]),
         projekt=projekten or {},
     )
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)

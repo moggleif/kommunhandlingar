@@ -2064,7 +2064,8 @@ filen (K26), länkad från organets sida.
 - **Sidan** (`webbplats/malsida.py`, K29,
   [ADR-0050](decisions/0050-malsidan-visas-som-tidslinje-och-malkort.md))
   börjar med en kort inledning och en hopfälld del om hur målen tagits
-  fram. Åren går från första till sista år med mål. Ett år som varken
+  fram. Åren är kommunens ([Åren på sidorna över
+  tid](#åren-på-sidorna-över-tid)). Ett år fram till byggåret som varken
   har dokument från organet i poolen eller mål i filen är en lucka; ett
   år med mål ur ett senare dokument, som en årsredovisning, är ingen
   lucka, och ett år med dokument men utan mål står som "inga mål". Har
@@ -2173,7 +2174,7 @@ målfilen, med en rad per paragraf i ett protokoll:
   rubriken inte står på sidan, eller samma paragraf står två gånger. En
   fil utan kommunfil stoppar också bygget.
 - **Räkningen** (`webbplats/malstatistik.py`) går på mötets år, för
-  tabellens år, från första till sista år med mål. Ett år utan protokoll
+  tabellens år, alltså kommunens. Ett år utan protokoll
   med text från organet i poolen (inte `ej-hamtad` eller
   `ej-konverterad`) står som –.
 
@@ -2489,8 +2490,12 @@ en kommun, så att de går att jämföra.
 - **Ett år utan rader** är en tom kolumn. På målsidan är ett år fram
   till byggåret utan både dokument från organet och mål en lucka i
   poolen; ett år efter byggåret är det inte.
-- **Rutan bredvid grafen** och urvalet "Gäller" står för målens senaste
-  år, inte spannets.
+- **Målens senaste år**, inte spannets, gäller för rutan bredvid grafen,
+  för urvalet "Gäller" (kortens `data-sista` jämförs med urvalets i
+  skriptet) och för förvalet i Ett år i taget (`data-forval`). Ett år i
+  taget jämför inte målens första år med året innan.
+- **Bygget** räknar spannet en gång per kommun och lägger det i
+  `Mall.aren`; målsidan och spårsidornas `Vy` tar det därifrån.
 
 ## Sammanträdets sida
 

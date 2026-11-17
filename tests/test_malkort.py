@@ -11,6 +11,7 @@ from kommunhandlingar.webbplats.malsida import malsida
 from kommunhandlingar.webbplats.maltidslinje import arets
 from kommunhandlingar.webbplats.mandatperiod import start
 from kommunhandlingar.webbplats.uppfoljningar import Uppfoljning
+from tests.aren import aren
 from tests.test_mal import BUDGET, RADER, pool
 from tests.test_webbplats import REPO, TID, exempelby, protokoll
 
@@ -32,7 +33,13 @@ UPPFOLJDA = [
 
 def sida(dokumentar: tuple[int, ...] = (2022, 2024), uppfoljda=()) -> str:
     with pool(GRUPPER) as malen:
-        mall = Mall([exempelby()], REPO, TID, uppfoljningar={"exempelby": uppfoljda})
+        mall = Mall(
+            [exempelby()],
+            REPO,
+            TID,
+            uppfoljningar={"exempelby": uppfoljda},
+            aren=aren(malen),
+        )
         return malsida(mall, exempelby(), malen, protokoll(*dokumentar))
 
 
@@ -80,7 +87,10 @@ class TestTidslinjen(unittest.TestCase):
         )
         with pool(rader) as malen:
             html = malsida(
-                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+                Mall([exempelby()], REPO, TID, aren=aren(malen)),
+                exempelby(),
+                malen,
+                protokoll(2022),
             )
         self.assertIn('aria-label="Ny formulering: Alla ska känna sig trygga."', html)
         self.assertEqual(html.count('<span class="ny-formulering" role="img"'), 1)
@@ -93,7 +103,10 @@ class TestTidslinjen(unittest.TestCase):
         )
         with pool(rader) as malen:
             html = malsida(
-                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+                Mall([exempelby()], REPO, TID, aren=aren(malen)),
+                exempelby(),
+                malen,
+                protokoll(2022),
             )
         self.assertNotIn('class="ny-formulering" role="img"', html)
 
@@ -142,7 +155,10 @@ class TestTidslinjen(unittest.TestCase):
         rader = GRUPPER + f"fsn,2027,direktiv,Trygga miljöer,,,,,{BUDGET}#sida-1,,,\n"
         with pool(rader) as malen:
             html = malsida(
-                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2022)
+                Mall([exempelby()], REPO, TID, aren=aren(malen)),
+                exempelby(),
+                malen,
+                protokoll(2022),
             )
         self.assertIn("Trygga miljöer</a> <small>nämndmål</small>", html)
         self.assertNotIn("Ny rubrik 2027", html)
@@ -178,8 +194,8 @@ class TestTidslinjen(unittest.TestCase):
 class TestKorten(unittest.TestCase):
     def test_de_som_galler_sist_aret_forst(self):
         html = sida()
-        ordning = re.findall(r'<article id="mal-(\d)"[^>]*data-aktiv="(\w+)"', html)
-        self.assertEqual(ordning, [("0", "ja"), ("1", "nej")])
+        ordning = re.findall(r'<article id="mal-(\d)"[^>]*data-sista="(\d+)"', html)
+        self.assertEqual(ordning, [("0", "2026"), ("1", "2025")])
 
     def test_kortet_har_slag_ar_rubriker_och_remsa(self):
         html = kort(sida(), 0)
@@ -192,12 +208,19 @@ class TestKorten(unittest.TestCase):
 
     def test_urvalet_och_skriptet(self):
         html = sida()
-        self.assertIn('<div class="urval" role="group" aria-label="Visa" hidden>', html)
+        self.assertIn(
+            '<div class="urval" role="group" aria-label="Visa" '
+            'data-sista="2026" hidden>',
+            html,
+        )
         self.assertIn('data-urval="aktiv">Gäller 2026</button>', html)
         self.assertIn('data-urval="bytt">Har bytt rubrik', html)
         with pool(RADER.replace("direktiv", "nämndmål")) as malen:
             bara = malsida(
-                Mall([exempelby()], REPO, TID), exempelby(), malen, protokoll(2024)
+                Mall([exempelby()], REPO, TID, aren=aren(malen)),
+                exempelby(),
+                malen,
+                protokoll(2024),
             )
         self.assertNotIn('data-urval="direktiv"', bara)
         self.assertIn('kort.querySelector(":scope > details").open = true', html)

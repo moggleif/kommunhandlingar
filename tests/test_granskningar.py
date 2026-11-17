@@ -12,6 +12,7 @@ from kommunhandlingar.webbplats.granskningsslag import GRANSKNINGAR
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
@@ -59,7 +60,7 @@ def las(rader: str) -> list[spar.Steg]:
 
 def sida() -> str:
     stegen = las(RAPPORT + bedomning("inte") + SVAR)
-    vy = Vy.over(Mall([exempelby()], REPO, TID), GRANSKNINGAR, exempelby(), stegen)
+    vy = Vy(GRANSKNINGAR, exempelby(), aren(stegen)["exempelby"])
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

@@ -17,6 +17,7 @@ from kommunhandlingar.webbplats.partier import former, star_pa
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import INITIATIV
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
 
@@ -118,7 +119,7 @@ class TestAvsandaren(unittest.TestCase):
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(Mall([exempelby()], REPO, TID), INITIATIV, exempelby(), stegen)
+            vy = Vy(INITIATIV, exempelby(), aren(stegen)["exempelby"])
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_ett_arende_per_rad_med_avsandaren(self):

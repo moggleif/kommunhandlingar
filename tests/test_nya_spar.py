@@ -14,6 +14,7 @@ from kommunhandlingar.webbplats.overenskommelseslag import OVERENSKOMMELSER
 from kommunhandlingar.webbplats.remissslag import REMISSER
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
+from tests.aren import aren
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
 PROTOKOLL = "fsn/2025/2025-10-27/protokoll.md"
@@ -53,7 +54,7 @@ class TestSidorna(unittest.TestCase):
         for slag, namn, fas, text in FALL:
             with self.subTest(slag.id):
                 stegen = las(slag, rad(namn, fas, text))
-                vy = Vy.over(Mall([exempelby()], REPO, TID), slag, exempelby(), stegen)
+                vy = Vy(slag, exempelby(), aren(stegen)["exempelby"])
                 html = sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
                 self.assertIn(f">{namn}</a></th>", html)
                 self.assertIn(f"<dt>{slag.faser[fas][1]}</dt><dd>1</dd>", html)

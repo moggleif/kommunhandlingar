@@ -2,7 +2,6 @@
 ADR-0074 och ADR-0083 för temat. Test: tests/test_webbplats.py och
 tests/test_tema.py."""
 
-from collections.abc import Iterable
 from dataclasses import dataclass, field
 from datetime import datetime
 from html import escape
@@ -93,11 +92,6 @@ class Mall:
     @property
     def en_kommun(self) -> bool:
         return len(self.kommuner) == 1
-
-    # Kommunens år, och sidans egna och byggåret också när de ligger utanför.
-    def arspann(self, kommun: str, egna: Iterable[int]) -> range:
-        alla = [*self.aren.get(kommun, ()), *egna, self.byggd.year]
-        return range(min(alla), max(alla) + 1)
 
 
 def rot(adress: str) -> str:

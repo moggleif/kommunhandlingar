@@ -15,7 +15,6 @@ from dataclasses import dataclass, field
 from html import escape
 
 from kommunhandlingar.konfiguration import Kommun
-from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.projekt import Projekt
 from kommunhandlingar.webbplats.spar import Slag, Steg
 from kommunhandlingar.webbplats.sparikon import ikon
@@ -28,13 +27,10 @@ Sak = tuple[str, list[Steg], list[str]]
 class Vy:
     slag: Slag
     kommun: Kommun
+    # Kommunens år (K60).
     ar: range
     # Sakernas projekt på kommunens webbplats, per namn (K46).
     projekt: dict[str, Projekt] = field(default_factory=dict)
-
-    @classmethod
-    def over(cls, mall: Mall, slag: Slag, kommun: Kommun, stegen: list[Steg]) -> "Vy":
-        return cls(slag, kommun, mall.arspann(kommun.id, (s.ar for s in stegen)))
 
 
 def korten(vy: Vy, sakerna: list[Sak]) -> str:

@@ -16,7 +16,7 @@ from pathlib import Path
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.flikar import flikar
 from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
-from kommunhandlingar.webbplats.malsida import SKRIPT, STIL
+from kommunhandlingar.webbplats.malsida import AREN, SKRIPT, STIL
 from kommunhandlingar.webbplats.mandatperiod import kolumner, rubriker
 from kommunhandlingar.webbplats.spar import Slag, Steg
 from kommunhandlingar.webbplats.sparikon import teckenforklaring
@@ -31,11 +31,6 @@ from kommunhandlingar.webbplats.sparkort import (
 
 EGEN_STIL = Path(__file__).with_name("spar.css")
 BESLUTEN = "/blob/main/docs/decisions/"
-AREN = (
-    "<p>Åren är desamma på alla organs sidor över tid, från poolens första "
-    "år till i år, så att sidorna går att jämföra (ADR-0086). Ett år utan "
-    "steg står tomt.</p>"
-)
 
 
 def adress(kommun: Kommun, organ: str, slag: Slag) -> str:

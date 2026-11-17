@@ -27,7 +27,7 @@ from kommunhandlingar.webbplats import (
     spar,
     uppfoljningar,
 )
-from kommunhandlingar.webbplats.arspann import arspann, radernas_ar
+from kommunhandlingar.webbplats.arspann import arspann, poolens_ar, radernas_ar
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
@@ -55,14 +55,10 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
         for s in SLAGEN
     }
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
-    aren = {
-        k.id: arspann(
-            rot / "data" / k.id, radernas_ar(k.id, malen, uppfoljda, sparen), byggd.year
-        )
-        for k in kommuner
-    }
-    mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
-    mall = replace(mall, aren=aren)
+    aren = kommunernas_ar(rot, kommuner, byggd, (malen, uppfoljda, sparen))
+    mall = Mall(
+        kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten, aren
+    )
     ut.mkdir(parents=True, exist_ok=True)
     if not mall.en_kommun:
         (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
@@ -117,12 +113,22 @@ def bygg_sparen(ut: Path, mall: Mall, kommun: Kommun, organ: str) -> None:
     for slag in SLAGEN:
         alla = mall.spar[slag.id].get(kommun.id, [])
         if stegen := [s for s in alla if s.organ == organ]:
-            vy = Vy.over(mall, slag, kommun, stegen)
+            vy = Vy(slag, kommun, mall.aren[kommun.id])
             if slag == DETALJPLANER:
                 vy = replace(vy, projekt=mall.projekt.get(kommun.id, {}))
             html = sparsida(mall, vy, stegen)
             adress = sparets_adress(kommun, organ, slag)
             (ut / adress).write_text(html, encoding="utf-8")
+
+
+# Målen, uppföljningarna och spåren per kommun, som Mall har dem (K60).
+def kommunernas_ar(rot: Path, kommuner: list, byggd: datetime, filer: tuple) -> dict:
+    return {
+        k.id: arspann(
+            [*poolens_ar(rot / "data" / k.id), *radernas_ar(k.id, *filer), byggd.year]
+        )
+        for k in kommuner
+    }
 
 
 def las_projekten(rot: Path, kommuner: list[Kommun], planerna: dict) -> dict:

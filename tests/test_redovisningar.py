@@ -13,6 +13,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import REDOVISNINGAR
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
@@ -48,7 +49,7 @@ def steg() -> list:
 
 def sida() -> str:
     stegen = steg()
-    vy = Vy.over(Mall([exempelby()], REPO, TID), REDOVISNINGAR, exempelby(), stegen)
+    vy = Vy(REDOVISNINGAR, exempelby(), aren(stegen)["exempelby"])
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

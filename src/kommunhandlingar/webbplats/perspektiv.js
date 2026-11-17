@@ -2,7 +2,7 @@
 // skriptet och väljarna står på sidan; hur det beter sig prövas för hand.
 // Står på målsidan. Visar ett perspektiv i taget, och i Ett år i taget ett
 // år, efter adressen: ?vy=tidslinje, ?vy=ar&ar=2025 eller ?vy=kort. Utan val
-// är det tidslinjen och det senaste valda året, först det senaste året, och
+// är det tidslinjen och det senaste valda året, först målens senaste år, och
 // en adress till ett kort (#mal-3) visar korten. Varje val läggs i
 // webbläsarens historik. Ett mål som väljs visar korten redan i
 // klickhanteraren, så att webbläsaren kan gå till kortet. Utan skriptet står
@@ -21,7 +21,7 @@
     var vy = /^#mal-/.test(location.hash) ? "kort" : fraga.get("vy");
     if (!perspektiv.querySelector('[data-vy="' + vy + '"]')) vy = "tidslinje";
     var onskat = fraga.get("ar") || valt;
-    var ar = aren.indexOf(onskat) >= 0 ? onskat : aren[aren.length - 1];
+    var ar = aren.indexOf(onskat) >= 0 ? onskat : arval.dataset.forval;
     return { vy: vy, ar: ar };
   }
 

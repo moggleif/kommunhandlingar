@@ -11,6 +11,7 @@ from kommunhandlingar.fel import Datafel
 from kommunhandlingar.webbplats import mal
 from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.malsida import malsida
+from tests.aren import aren
 from tests.test_mal import RUBRIK
 from tests.test_webbplats import REPO, TID, dokument, exempelby, protokoll
 
@@ -74,7 +75,7 @@ def pool(rader: str = RADER):
 
 def sida(rader: str = RADER) -> str:
     with pool(rader) as malen:
-        mall = Mall([exempelby()], REPO, TID)
+        mall = Mall([exempelby()], REPO, TID, aren=aren(malen))
         return malsida(mall, exempelby(), malen, protokoll(2024, 2025))
 
 

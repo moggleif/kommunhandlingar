@@ -40,12 +40,14 @@ kommunfilen och inte göms något.
 
 * **Spannet** börjar med det tidigaste av poolens äldsta årskatalog och
   kommunens rader i mål-, uppföljnings- och spårfilerna, och slutar med
-  det senaste av byggåret och raderna. Kungsbacka får 2010–2027, eftersom
-  ett initiativärende är väckt 2010 och fullmäktiges budget för 2027
-  finns; Region Halland 2017–2026.
+  det senaste av byggåret och raderna. När beslutet fattades gav det
+  Kungsbacka 2010–2027, eftersom ett initiativärende väcktes 2010 och
+  fullmäktiges budget för 2027 fanns.
 * **Målsidan:** ett år utan dokument från organet och utan mål är en
-  lucka i poolen bara fram till byggåret. Rutan bredvid grafen och
-  urvalet "Gäller" står för målens senaste år.
+  lucka i poolen bara fram till byggåret. Rutan bredvid grafen, urvalet
+  "Gäller" och förvalet i Ett år i taget står för målens senaste år.
+* **Ändrar** åren i ADR-0050 (målsidan), ADR-0057 (spårsidorna) och
+  ADR-0073 (Ett år i taget), som gick från sidans första till sista år.
 * **Spårsidorna:** ett år utan steg är en tom kolumn och ett tomt fält
   i kortets remsa, som förut.
 
@@ -57,7 +59,11 @@ kommunfilen och inte göms något.
 * Bad, eftersom tidslinjen blir bredare: Kungsbacka får 18 kolumner. Den
   rullar i sidled som förut.
 * Neutral, eftersom ett nytt äldre dokument eller en ny budget flyttar
-  kanten för alla sidor i kommunen.
+  kanten för alla sidor i kommunen. Ett felläst år i en rad gör det
+  också; raderna skrivs för hand och granskas, så det prövas inte
+  särskilt.
+* Bad, eftersom ett organ som bildats sent får luckor åren innan det
+  fanns. Metodtexten säger det.
 
 ## Pros and Cons of the Options
 

@@ -16,6 +16,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy, kalla
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import LOKALBEHOV
+from tests.aren import aren
 from tests.test_mal import BUDGET, ROT
 from tests.test_webbplats import FIXTURER, REPO, TID, dokument, exempelby
 
@@ -107,9 +108,7 @@ class TestLasning(unittest.TestCase):
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(
-                Mall([exempelby()], REPO, TID), LOKALBEHOV, exempelby(), stegen
-            )
+            vy = Vy(LOKALBEHOV, exempelby(), aren(stegen)["exempelby"])
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_ett_behov_per_rad_och_ett_ar_per_kolumn(self):
@@ -146,7 +145,7 @@ class TestSidan(unittest.TestCase):
     def test_utan_steg_i_namndens_lokalbehov_inget_urval_for_senaste_aret(self):
         with lasta() as stegen:
             utan = [s for s in stegen if s.fas != "lokalbehov"]
-            vy = Vy.over(Mall([exempelby()], REPO, TID), LOKALBEHOV, exempelby(), utan)
+            vy = Vy(LOKALBEHOV, exempelby(), aren(utan)["exempelby"])
             html = sparsida(Mall([exempelby()], REPO, TID), vy, utan)
         self.assertNotIn('data-urval="senaste"', html)
         self.assertIn("<script>", html)
