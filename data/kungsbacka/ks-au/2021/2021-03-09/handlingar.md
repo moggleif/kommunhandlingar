@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320092316id_/https://www.kungsbacka
 sha256: [037ecc978cce09de6e942bc01d57504aa40d5f18ac162464073fac3126a72fde, 8d19fa509b581f094ce9a79e0944cab5f257e106b8563c6a60bf720261109e12, c945ef6decce59d0d68ee5c67414ecfef66da9725da90de2e3fd3dc6b63edb34, e7d37c4088abce772851a8c780e4c64a75336a435bb8d2d983774ff62a7b1106, 1efa45d1e93f9ce09608afd87b6cedb71458bc43dd3b491ff6f6226a2b472940, 0927b9cc363ce6c76502c61158613b59936babbf5b18b7cbfde3488b363483d7, 685ca698066cc9395057cba8aca295de222316bcc8cf8f405a7785905d9b852c, e3e899729f0366a99a92c57585eeb10dd3fc5b8774476fc4ec6ea44d2289dba0, dcf74fa5003f280c8e2cbb1da0c1bc57ff28e97583ff99196dbc5d2146cfef93, 8b5a548c01a93e7f9bb3f93d22e65366ecbd8909439aec801988187a5e97cd28]
 bytes: [3991059, 372685, 418762, 1761265, 1278023, 1678559, 516251, 684112, 28642564, 7543016]
 sidor: 806
-hamtad: 2026-11-02T10:44:15+00:00
-konverterad: 2026-11-02T10:51:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T14:03:30+00:00
+konverterad: 2026-11-17T14:11:39+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ocr, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -189,47 +189,107 @@ Revisionsberättelse . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 <!-- sida 5 -->
 
-INLEDNING                                                                                                                                      INLEDNING
+INLEDNING
 
 Omställning
 
 och              nytänkande
 
-Att världen skulle drabbas av en pandemi var det nog få Överlag har pandemin lärt oss att ställa om, istället för
-som kunde tänka sig före 2020. Men så blev det, och vi att ställa in. Träffpunkterna för äldre har blivit digitala, Vi ha dragit igång arbetet med Lätt & Rätt, en främjande Ingenting av detta hade dock varit möjligt utan alla våra
-liksom alla andra påverkades mycket av allt den förde och gymnasiernas öppna hus för blivande elever sändes myndighetsutövning som ska leda till ökad kundnöjdhet medarbetare och förtroendevalda. Ert engagemang och
-med sig. Det har varit en tid av oro och nya frågor som på Youtube. Genom ett fint arbete mellan förvaltning- med handläggning av tillsyn och tillstånd, och därige- hängivna arbete är den viktigaste beståndsdelen för att vi
-saknat svar, men också en tid då vi lyckats kraftsamla och arna lyckades vi också lösa feriejobben till våra ungdo- nom förbättra näringslivsklimatet. I hållbarhetsarbetet ska kunna göra skillnad för dem vi är till för. Stort tack
-ställa om för att kunna utföra vårt viktiga samhällsupp- mar. De politiska mötena sker numera på distans, tack har vi genomfört en rad viktiga åtgärder, och är rankade för allt ni bidragit med under det gångna året.
-drag.                             vare ett arbete som gjort detta möjligt såväl praktiskt som som bäst i Sverige bland storstadskommunerna i arbetet
-juridiskt. Vi har också genomfört digitala samråd. med de globala hållbarhetsmålen. Med hjälp av 7-åriga Lisa Andersson (M)
-Många verksamheter har fått ställas in, medan andra                                 Ines förklarade vi hur de globala målen är kopplade till kommunstyrelsens ordförande
-anpassats. Inte minst ställdes våra skolor inför en svår Vi har behövt påskynda användandet av digitala hjälp- vår egen verksamhet, i en uppmärksammad följetong på
-situation som behövde lösas, för att kunna erbjuda barn medel, vilket gjort att vi tagit ett stort steg i den digitala sociala medier. Vi har också öppnat nya mötesplatser som Malin Aronsson
-och elever den utbildning de har rätt till. Oerhört snabbt utvecklingen och fått en ökad digital mognad. Detta har Idrottsparken, Goplatsen och Pop-up-parken på Borg- kommundirektör
-lyckades de ställa om arbetssättet och kunde börja med också ökat tillgängligheten, med digitala mötesplatser för mästarbron, och haft många värdefulla dialoger i arbetet
-digital distansundervisning där det behövdes. Även både seniorer och unga som välbesökta exempel. med den nya översiktsplanen.
+Att världen skulle drabbas av en pandemi var det nog få
+som kunde tänka sig före 2020. Men så blev det, och vi
+liksom alla andra påverkades mycket av allt den förde
+med sig. Det har varit en tid av oro och nya frågor som
+saknat svar, men också en tid då vi lyckats kraftsamla och
+ställa om för att kunna utföra vårt viktiga samhällsupp-
+drag.
+Många verksamheter har fått ställas in, medan andra
+anpassats. Inte minst ställdes våra skolor inför en svår
+situation som behövde lösas, för att kunna erbjuda barn
+och elever den utbildning de har rätt till. Oerhört snabbt
+lyckades de ställa om arbetssättet och kunde börja med
+digital distansundervisning där det behövdes. Även
 arbetsmarknadsprocessen har kunnat fortsätta utvecklas
-med digitala möten, och daglig verksamhet flyttades Mot bakgrund av de utmaningar som pandemin inne-
-under en längre period ut till bostad med särskild service. burit är det därför särskilt glädjande att vi fått ett gott
-Förvaltningen för Bygg & Miljö fick ett nytt uppdrag resultat i medborgarundersökningen. Invånarna ger
-med utökad tillsyn på serveringsställen för att minska ett bra helhetsintyg, och inom flera områden ligger vi
-trängsel och därigenom minska risk för smittspridning. generellt högre än de flesta kommuner. Skolverkets
-betygsresultat visar på god måluppfyllelse för elever som
-Vi har ägnat ett omfattande arbete åt kommunikation, slutade årskurs 9 våren 2020, med en högre genomsnittlig
-internt och externt, för att skapa trygghet i en otrygg tid total meritpoäng för elever som lämnade Kungsbackas
-hos såväl medarbetare som invånare, omsorgstagare och kommunala skolor än snittet i riket.
+med digitala möten, och daglig verksamhet flyttades
+under en längre period ut till bostad med särskild service.
+Förvaltningen för Bygg & Miljö fick ett nytt uppdrag
+med utökad tillsyn på serveringsställen för att minska
+trängsel och därigenom minska risk för smittspridning.
+Vi har ägnat ett omfattande arbete åt kommunikation,
+internt och externt, för att skapa trygghet i en otrygg tid
+hos såväl medarbetare som invånare, omsorgstagare och
 deras anhöriga. Det tvärprofessionella covid-teamet som
-BILD
-skapades i arbetet för att minska risken för smittsprid- För även om pandemin haft stor påverkan har vi också
-ning har också bidragit till ökad trygghet för många. kunnat leverera på en rad andra områden under året.
-Näringslivet har ställts inför stora svårigheter och vi har Kungsbacka badhus blev klart och togs i drift. Under
-genomfört olika aktiviteter, rådgivning och kampanjer 2020 investerade vi för drygt 850 miljoner kronor. Flera
-för att ge stöd. Vårt krisledningsarbete under våren har skolor har byggts om och till, exempelvis Fjärås Bräcka
-också lett fram till ett ökat och fördjupat samarbete inom skolan och Hålabäckskolan som fått förbättrade lär-
-länet.                            miljöer. Parkeringshuset Linden och Särö vård- och
+skapades i arbetet för att minska risken för smittsprid-
+ning har också bidragit till ökad trygghet för många.
+Näringslivet har ställts inför stora svårigheter och vi har
+genomfört olika aktiviteter, rådgivning och kampanjer
+för att ge stöd. Vårt krisledningsarbete under våren har
+också lett fram till ett ökat och fördjupat samarbete inom
+länet.
+
+Överlag har pandemin lärt oss att ställa om, istället för
+att ställa in. Träffpunkterna för äldre har blivit digitala,
+och gymnasiernas öppna hus för blivande elever sändes
+på Youtube. Genom ett fint arbete mellan förvaltning-
+arna lyckades vi också lösa feriejobben till våra ungdo-
+mar. De politiska mötena sker numera på distans, tack
+vare ett arbete som gjort detta möjligt såväl praktiskt som
+juridiskt. Vi har också genomfört digitala samråd.
+Vi har behövt påskynda användandet av digitala hjälp-
+medel, vilket gjort att vi tagit ett stort steg i den digitala
+utvecklingen och fått en ökad digital mognad. Detta har
+också ökat tillgängligheten, med digitala mötesplatser för
+både seniorer och unga som välbesökta exempel.
+
+Mot bakgrund av de utmaningar som pandemin inne-
+burit är det därför särskilt glädjande att vi fått ett gott
+resultat i medborgarundersökningen. Invånarna ger
+ett bra helhetsintyg, och inom flera områden ligger vi
+generellt högre än de flesta kommuner. Skolverkets
+betygsresultat visar på god måluppfyllelse för elever som
+slutade årskurs 9 våren 2020, med en högre genomsnittlig
+total meritpoäng för elever som lämnade Kungsbackas
+kommunala skolor än snittet i riket.
+För även om pandemin haft stor påverkan har vi också
+kunnat leverera på en rad andra områden under året.
+Kungsbacka badhus blev klart och togs i drift. Under
+2020 investerade vi för drygt 850 miljoner kronor. Flera
+skolor har byggts om och till, exempelvis Fjärås Bräcka
+skolan och Hålabäckskolan som fått förbättrade lär-
+miljöer. Parkeringshuset Linden och Särö vård- och
 omsorgsboende är andra stora byggprojekt.
-4  Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 5
+
+4  Kungsbacka kommuns årsredovisning 2020
+
+INLEDNING
+
+Vi ha dragit igång arbetet med Lätt & Rätt, en främjande
+myndighetsutövning som ska leda till ökad kundnöjdhet
+med handläggning av tillsyn och tillstånd, och därige-
+nom förbättra näringslivsklimatet. I hållbarhetsarbetet
+har vi genomfört en rad viktiga åtgärder, och är rankade
+som bäst i Sverige bland storstadskommunerna i arbetet
+med de globala hållbarhetsmålen. Med hjälp av 7-åriga
+Ines förklarade vi hur de globala målen är kopplade till
+vår egen verksamhet, i en uppmärksammad följetong på
+sociala medier. Vi har också öppnat nya mötesplatser som
+Idrottsparken, Goplatsen och Pop-up-parken på Borg-
+mästarbron, och haft många värdefulla dialoger i arbetet
+med den nya översiktsplanen.
+
+Ingenting av detta hade dock varit möjligt utan alla våra
+medarbetare och förtroendevalda. Ert engagemang och
+hängivna arbete är den viktigaste beståndsdelen för att vi
+ska kunna göra skillnad för dem vi är till för. Stort tack
+för allt ni bidragit med under det gångna året.
+
+Lisa Andersson (M)
+kommunstyrelsens ordförande
+Malin Aronsson
+kommundirektör
+
+BILD
+
+Kungsbacka kommuns årsredovisning 2020 5
 
 <!-- sida 6 -->
 
@@ -300,127 +360,230 @@ medel till lösningsmedel och lim. En del är mer harmlöst än annat, men
 allt har påverkan på vår miljö och hälsa. Som vår nya kemikaliecoach
 har Sandra Einhaus ett viktigt uppdrag i kommunens aktiva miljöarbete.
 
-Sandra har under lång tid arbetat med att få bort miljö- heter, till exempel om man ska använda handskar eller
-farliga kemikalier på Serviceförvaltningen, men i den nya andningsskydd vid hantering av produkten.
-Det  gjorde  att vi kunde
+Sandra har under lång tid arbetat med att få bort miljö-
+farliga kemikalier på Serviceförvaltningen, men i den nya
 rollen som kemikaliecoach som införts under året jobbar
-hon nu med samtliga våra förvaltningar. Inventeringen gjorde också att många kemikalier kunde
-hitta cancerframkallande
-tas bort helt eller ersättas av miljöklassade produkter.
-– Enkelt sammanfattat kan man säga att jag som kemi- Under 2020 nästan halverades antalet kemikalier som
-kemikalier   inom   våra
-kaliecoach ska se till att vi inte använder kemikalier eller fanns i våra verksamheter. Det visade sig också finnas stor
-kemiska produkter som är farliga för människans hälsa efterfrågan på Sandras hjälp som coach.
-verksamheter,    och se till
+hon nu med samtliga våra förvaltningar.
+
+– Enkelt sammanfattat kan man säga att jag som kemi-
+kaliecoach ska se till att vi inte använder kemikalier eller
+kemiska produkter som är farliga för människans hälsa
 och miljön, säger Sandra. Jag ser till att vi håller koll på
-alla kemikalier i alla verksamheter, och coachar med- – En viktig upptäckt jag gjorde var att så många behövde
-att få bort dem.
-arbetarna till att göra rätt val av kemikalier som passar öka sin kunskap, fortsätter Sandra. Det fanns många
-deras behov.                      frågor och det är viktigt att de ställs, för det kan handla
-om saker som ingen tänkt på innan. Som coach kan jag
+alla kemikalier i alla verksamheter, och coachar med-
+arbetarna till att göra rätt val av kemikalier som passar
+deras behov.
 Grundlig inventering
-hjälpa till med alternativa tips och skapa trygghet.
 Till sin hjälp har Sandra en annan viktig nyhet som
-Fortsatt kunskapsbyggande
 infördes under året: Vårt nya kemikaliehanteringssystem.
-Under 2020 inventerades alla kemikalier i kommunens Service lokalvård, som under flera år har miljödiplome-
-verksamheter, vilket gav överblick över vad som fanns rats, har inte kvar några miljöfarliga kemikalier alls i sin
-men också vad som var miljöfarligt och behövde tas bort. verksamhet längre. Sandra önskar att flera av kommu-
-nens verksamheter ska vilja miljödiplomera sig.
+Under 2020 inventerades alla kemikalier i kommunens
+verksamheter, vilket gav överblick över vad som fanns
+men också vad som var miljöfarligt och behövde tas bort.
 – Trots att det tog lite längre tid på grund av pandemin
-lyckades vi göra en fullständig inventering, berättar – Det är ju ett långsiktigt arbete men alla kan göra det,
-Sandra. Det var fantastiskt att se hur alla tog tag i det här säger Sandra. Själv bidrar jag med att fortsätta sprida
-viktiga arbetet. Det gjorde att vi kunde hitta cancerfram- kunskap så att vi använder kemikalier säkert.
+lyckades vi göra en fullständig inventering, berättar
+Sandra. Det var fantastiskt att se hur alla tog tag i det här
+viktiga arbetet. Det gjorde att vi kunde hitta cancerfram-
 kallande kemikalier inom våra verksamheter, och se till
-BILD
-att få bort dem.                  Sandra berättar också att vi får beröm av våra leverantö-
-rer:
-Sandra insåg att det fanns en del okunskap om vissa – Ja, de hade aldrig hört begreppet kemikaliecoach
-kemiska produkter, och att man faktiskt inte kände till innan! De tycker att sättet vi arbetar på för att få bort
-att de var farliga.               farliga kemikalier är mycket bra, och bidrar gärna med
-sina kunskaper så vi kan hitta bättre alternativ. I vårt
-– När jag påpekade att en kemisk produkt kunde orsaka e-handelssystem kan man nu enkelt hitta upphandlade,
-cancer var det ju självklart för alla att byta ut den mot ett kravställda produkter som också finns listade i kemikalie-
-bättre alternativ, säger Sandra. Att den använts handlade systemet. Med det kan man som medarbetare känna sig
-till stor del om att man faktiskt inte hade läst skyddsin- trygg med att det är en bra produkt, avslutar Sandra.
+att få bort dem.
+
+Sandra insåg att det fanns en del okunskap om vissa
+kemiska produkter, och att man faktiskt inte kände till
+att de var farliga.
+
+– När jag påpekade att en kemisk produkt kunde orsaka
+cancer var det ju självklart för alla att byta ut den mot ett
+bättre alternativ, säger Sandra. Att den använts handlade
+till stor del om att man faktiskt inte hade läst skyddsin-
 formationen och därför inte visste att den var skadlig.
 Kemikaliesystemet underlättar
 Kemikaliehanteringssystemet finns lättillgängligt på
 intranätet och i form av en app som kan laddas ner av alla
 fast anställda i kommunen. Där kan man enkelt hitta
-Bildtext
 skyddsinformation om alla kemikalier i våra verksam-
+
+heter, till exempel om man ska använda handskar eller
+andningsskydd vid hantering av produkten.
+Det  gjorde  att vi kunde
+Inventeringen gjorde också att många kemikalier kunde
+hitta cancerframkallande
+tas bort helt eller ersättas av miljöklassade produkter.
+Under 2020 nästan halverades antalet kemikalier som
+kemikalier   inom  våra
+fanns i våra verksamheter. Det visade sig också finnas stor
+efterfrågan på Sandras hjälp som coach.
+verksamheter,   och  se till
+– En viktig upptäckt jag gjorde var att så många behövde
+att få bort dem.
+öka sin kunskap, fortsätter Sandra. Det fanns många
+frågor och det är viktigt att de ställs, för det kan handla
+om saker som ingen tänkt på innan. Som coach kan jag
+hjälpa till med alternativa tips och skapa trygghet.
+Fortsatt kunskapsbyggande
+Service lokalvård, som under flera år har miljödiplome-
+rats, har inte kvar några miljöfarliga kemikalier alls i sin
+verksamhet längre. Sandra önskar att flera av kommu-
+nens verksamheter ska vilja miljödiplomera sig.
+– Det är ju ett långsiktigt arbete men alla kan göra det,
+säger Sandra. Själv bidrar jag med att fortsätta sprida
+kunskap så att vi använder kemikalier säkert.
+BILD
+Sandra berättar också att vi får beröm av våra leverantö-
+rer:
+– Ja, de hade aldrig hört begreppet kemikaliecoach
+innan! De tycker att sättet vi arbetar på för att få bort
+farliga kemikalier är mycket bra, och bidrar gärna med
+sina kunskaper så vi kan hitta bättre alternativ. I vårt
+e-handelssystem kan man nu enkelt hitta upphandlade,
+kravställda produkter som också finns listade i kemikalie-
+systemet. Med det kan man som medarbetare känna sig
+trygg med att det är en bra produkt, avslutar Sandra.
+
+Bildtext
+
 8  Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 9
 
 <!-- sida 8 -->
 
-INLEDNING                                                                                                                                      INLEDNING
+INLEDNING
 
-Många            tyckte          till    om
+Många           tyckte           till    om
 
 vårt       framtida             Kungsbacka
 
-Under  hela  perioden   nåddes
-
-Hur ska vi utveckla vår kommun i ett långsiktigt perspektiv? I arbetet                                                 nära 40  000  personer   av
+Hur ska vi utveckla vår kommun i ett långsiktigt perspektiv? I arbetet
 med den nya översiktsplanen ägnades en stor del av året till att
-engagera och involvera många i planeringen, och fler än förväntat var                                                  inläggen  om   att tycka till om
+engagera och involvera många i planeringen, och fler än förväntat var
 med och tyckte till.
-vårt framtida  Kungsbacka.
-Översiktsplanen visar var i kommunen det är lämpligt att – När det gällde den breda allmänheten ville vi vara på
-utveckla områden för till exempel bostäder, grönområden, en plats där folk befinner sig, berättar Marie. Vi var på
-kollektivtrafik och mark till företagare. Enligt lag ska Kungsmässan i en vecka och nådde många fler än vi hade
-ett nytt förslag till översiktsplan vara ute på samråd i två gjort annars. Vi nådde andra än de som aktivt kom till
-månader för att invånare och myndigheter ska kunna oss; människor som inte alls hade tänkt prata om över-
-ge synpunkter.                    siktsplanen men som blev intresserade när de gick förbi.
-Barnen kunde rita och leka i utställningen och drog med
-Raquel Sandblad är projektledare för arbetet med den sina föräldrar som passade på att diskutera.
+
+Översiktsplanen visar var i kommunen det är lämpligt att
+utveckla områden för till exempel bostäder, grönområden,
+kollektivtrafik och mark till företagare. Enligt lag ska
+ett nytt förslag till översiktsplan vara ute på samråd i två
+månader för att invånare och myndigheter ska kunna
+ge synpunkter.
+Raquel Sandblad är projektledare för arbetet med den
 nya översiktsplanen.
-Raquel håller med:
-– På grund av pandemin lade vi till tre månader så det – Vi fick massor med synpunkter och det var också värde-
-blev totalt fem månader för samråd, säger Raquel. Vi ville fullt att vi fick en chans att förklara vad en översiktsplan
-att så många som möjligt skulle få en chans att engagera är. Många kände inte till det, men i en översiktsplan har
-sig, för det här är ju en demokratisk process. Om du bor man mycket större möjlighet att påverka än i jämförelse
-eller arbetar här och även om du bara är här på besök, så med en detaljplan.
+
+– På grund av pandemin lade vi till tre månader så det
+blev totalt fem månader för samråd, säger Raquel. Vi ville
+att så många som möjligt skulle få en chans att engagera
+sig, för det här är ju en demokratisk process. Om du bor
+eller arbetar här och även om du bara är här på besök, så
 har du rätt att känna till vad som planeras och att kunna
-tycka till om det.                Facebook blev också en viktig kommunikationskanal där
-många engagerade sig. Under hela perioden nåddes nära
-Kommunikationen har varit avgörande för att lyckas med 40 000 personer av inläggen om att tycka till om vårt
-projektet, och några målgrupper fick särskilt fokus. framtida Kungsbacka.
-BILD
-– Vi ville nå ut till många men allmänheten var en för bred – Vi fick väldigt många kommentarer via Facebook, säger
-målgrupp rent kommunikativt, säger kommunikations- Marie. Det blev en bra diskussion där vi också kunde
-specialist Marie Cullberg. Därför prioriterade vi några förklara vad en översiktsplan är och varför man ska vara
-målgrupper som vi absolut inte ville missa och gjorde med och tycka till.
+tycka till om det.
+
+Kommunikationen har varit avgörande för att lyckas med
+projektet, och några målgrupper fick särskilt fokus.
+– Vi ville nå ut till många men allmänheten var en för bred
+målgrupp rent kommunikativt, säger kommunikations-
+specialist Marie Cullberg. Därför prioriterade vi några
+målgrupper som vi absolut inte ville missa och gjorde
 riktade dialoger med dem.
-Även företagarnas behov och perspektiv har varit
 Värdefulla synpunkter
-prioriterat i samrådet, och flera öppna föreläsningar för
-En prioriterad målgrupp var barn och unga, och därför allmänheten har hållits i stadshuset. Film, affischer och                                   Bildtext
-genomfördes skoldialoger. På grund av pandemin blev annonsering var ytterligare sätt att göra människor med-                                 FOTO: xxxx xxxx
-det färre skolor som kunde medverka än planerat, men tre vetna om möjligheten att vara med och påverka.
+
+En prioriterad målgrupp var barn och unga, och därför
+genomfördes skoldialoger. På grund av pandemin blev
+det färre skolor som kunde medverka än planerat, men tre
 åttondeklasser var till slut med.
+– Det var enormt värdefullt för det var första gången vi
+fick synpunkter från en större grupp i den här ålderskate-
+gorin, säger Raquel. Vi presenterade projektet och talade
+om vikten av att man engagerar sig, och de kom med
+många synpunkter. De förstod verkligen att det handlar
+om ett långsiktigt fokus, hur vi ska ta hand om det vi har
+i framtiden. Vi planerar ju för kommande generationer.
+
+En annan kommunikationssatsning som gav stor effekt
+var en bemannad utställning på Kungsmässan.
+
+– När det gällde den breda allmänheten ville vi vara på
+en plats där folk befinner sig, berättar Marie. Vi var på
+Kungsmässan i en vecka och nådde många fler än vi hade
+gjort annars. Vi nådde andra än de som aktivt kom till
+oss; människor som inte alls hade tänkt prata om över-
+siktsplanen men som blev intresserade när de gick förbi.
+Barnen kunde rita och leka i utställningen och drog med
+sina föräldrar som passade på att diskutera.
+Raquel håller med:
+– Vi fick massor med synpunkter och det var också värde-
+fullt att vi fick en chans att förklara vad en översiktsplan
+är. Många kände inte till det, men i en översiktsplan har
+man mycket större möjlighet att påverka än i jämförelse
+med en detaljplan.
+
+Facebook blev också en viktig kommunikationskanal där
+många engagerade sig. Under hela perioden nåddes nära
+40 000 personer av inläggen om att tycka till om vårt
+framtida Kungsbacka.
+– Vi fick väldigt många kommentarer via Facebook, säger
+Marie. Det blev en bra diskussion där vi också kunde
+förklara vad en översiktsplan är och varför man ska vara
+med och tycka till.
+
+Även företagarnas behov och perspektiv har varit
+prioriterat i samrådet, och flera öppna föreläsningar för
+allmänheten har hållits i stadshuset. Film, affischer och
+annonsering var ytterligare sätt att göra människor med-
+vetna om möjligheten att vara med och påverka.
 Natur och trafik viktigt
-är mobilitet viktigt, de vill kunna röra sig utan att deras och de som bor utanför vill ha parkeringar. Sen är det
-– Det var enormt värdefullt för det var första gången vi Med formella yttranden, muntliga kommentarer på föräldrar ska behöva köra dem. Kollektivtrafik, bättre roligt att det är en sådan blandning av människor som
-fick synpunkter från en större grupp i den här ålderskate- utställningen och inlägg på Facebook kom det in över cykelvägar, trygghet och plats för större utbud av tyckt till, alltifrån hundägare som har tankar om rast-
-gorin, säger Raquel. Vi presenterade projektet och talade 600 synpunkter, vilket är långt fler är vanligt. Allt samlades aktiviteter var viktigt för dem. platser till motionärer med idéer om hur man kan koppla
-om vikten av att man engagerar sig, och de kom med i en rapport och en samrådsredogörelse som kommer                  ihop olika delar i staden till bättre motionsområden.
-många synpunkter. De förstod verkligen att det handlar användas för att komplettera förslaget till översiktsplan – För vuxna är naturen en stor fråga, fortsätter Raquel. Efter sammanställning av alla synpunkter som kommit
-om ett långsiktigt fokus, hur vi ska ta hand om det vi har i samråd med kommunstyrelsen. Många vill inte att man bygger på jordbruksmark, och in blir nästa steg i arbetet granskning. Efter detta sker en
-i framtiden. Vi planerar ju för kommande generationer.                              det finns överlag många blandade synpunkter om just slutlig revidering som sedan ska godkännas av politiken.
-– Det var väldigt blandade synpunkter, säger Raquel. byggande. En del säger bygg mer, andra säger bygg Hösten 2021 fattar till sist kommunfullmäktige beslut
-En annan kommunikationssatsning som gav stor effekt Många har tankar om staden, och det kommer att gå in i mindre. Trafik är också en stor fråga. De som bor i staden om den nya översiktsplanen.
-var en bemannad utställning på Kungsmässan. en fördjupad översiktsplan om just staden. För ungdomarna vill ha bättre lösningar för kollektivtrafik och cykel,
-10 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 11
+Med formella yttranden, muntliga kommentarer på
+utställningen och inlägg på Facebook kom det in över
+600 synpunkter, vilket är långt fler är vanligt. Allt samlades
+i en rapport och en samrådsredogörelse som kommer
+användas för att komplettera förslaget till översiktsplan
+i samråd med kommunstyrelsen.
+
+– Det var väldigt blandade synpunkter, säger Raquel.
+Många har tankar om staden, och det kommer att gå in i
+en fördjupad översiktsplan om just staden. För ungdomarna
+
+10 Kungsbacka kommuns årsredovisning 2020
+
+INLEDNING
+
+Under   hela perioden   nåddes
+
+nära  40 000   personer  av
+
+inläggen   om  att tycka  till om
+
+vårt framtida   Kungsbacka.
+
+BILD
+
+Bildtext
+FOTO: xxxx xxxx
+
+är mobilitet viktigt, de vill kunna röra sig utan att deras
+föräldrar ska behöva köra dem. Kollektivtrafik, bättre
+cykelvägar, trygghet och plats för större utbud av
+aktiviteter var viktigt för dem.
+
+– För vuxna är naturen en stor fråga, fortsätter Raquel.
+Många vill inte att man bygger på jordbruksmark, och
+det finns överlag många blandade synpunkter om just
+byggande. En del säger bygg mer, andra säger bygg
+mindre. Trafik är också en stor fråga. De som bor i staden
+vill ha bättre lösningar för kollektivtrafik och cykel,
+
+och de som bor utanför vill ha parkeringar. Sen är det
+roligt att det är en sådan blandning av människor som
+tyckt till, alltifrån hundägare som har tankar om rast-
+platser till motionärer med idéer om hur man kan koppla
+ihop olika delar i staden till bättre motionsområden.
+Efter sammanställning av alla synpunkter som kommit
+in blir nästa steg i arbetet granskning. Efter detta sker en
+slutlig revidering som sedan ska godkännas av politiken.
+Hösten 2021 fattar till sist kommunfullmäktige beslut
+om den nya översiktsplanen.
+
+Kungsbacka kommuns årsredovisning 2020 11
 
 <!-- sida 9 -->
 
-INLEDNING                                                                                                                                      INLEDNING
+INLEDNING
 
-Bildtext
 Nya       utmaningar                  fick      oss
-FOTO: xxxx xxxx
+
 att     tänka          på     annat         sätt
 
 En av de förvaltningar som haft störst påverkan på sin verksamhet på
@@ -429,55 +592,132 @@ inom hemtjänsten och 700 boende på vård- och omsorgsboenden
 och där en övervägande del tillhör riskgrupper, behövde förvaltningen
 göra stora förändringar i sin verksamhet.
 
-BILD
-Som ett led i att minska smittspridningen infördes – De tyckte att det var bra information, men många av
-besöksförbud på vård- och omsorgsboenden, och det blev dagens 80-åringar är ju i så bra form att de sa att vi borde
-en svår tid för många som inte fick träffa sina nära och ringa om tio år istället, säger Therése med ett leende.
-kära. I början av juni kunde man äntligen börja träffas Men överlag blir folk glada över omtanke, så samtalen var
-igen utomhus, tack vare säkra mötesplatser med plexiglas. mycket uppskattade.
-Digitala möten
+Som ett led i att minska smittspridningen infördes
+besöksförbud på vård- och omsorgsboenden, och det blev
+en svår tid för många som inte fick träffa sina nära och
+kära. I början av juni kunde man äntligen börja träffas
+igen utomhus, tack vare säkra mötesplatser med plexiglas
+
 Therése Lindén, socialt ansvarig samordnare, har arbetat
-mycket med att få fram nya lösningar på de svårigheter Digitala hjälpmedel har fått stor betydelse i vardagen för
-som pandemin fört med sig.        många under pandemin. För personer över 70 år eller i
-annan riskgrupp och som inte har så stor digital vana,
-– I början när pandemin kom fanns det mycket frågor infördes den Digitala värden som kan ge hjälp och stöd.
-och hela Sverige och världen trevade efter lösningar Här kan man till exempel få hjälp med hur man handlar
-på svårigheterna som uppstått, säger Therése. Vi hade mat på nätet, ringer videosamtal eller lånar en digital
-hört talas om att plexiglasskärmar användes i en annan bok. Den som behöver kan också få låna en surfplatta.
+mycket med att få fram nya lösningar på de svårigheter
+som pandemin fört med sig.
+– I början när pandemin kom fanns det mycket frågor
+och hela Sverige och världen trevade efter lösningar
+på svårigheterna som uppstått, säger Therése. Vi hade
+hört talas om att plexiglasskärmar användes i en annan
 kommun, och fick hjälp av förvaltningen för Teknik att
-tillverka egna. Sedan testade vi på ett boende för att se – Det här har hjälpt till att möjliggöra digitala möten,
-hur det fungerade.                säger Therése. Det är en generation där inte alla har
-En   svår tid för många   som
-samma digitala vana som till exempel ungdomar, men
-Resultatet blev mycket positivt. Det fysiska mötet var när vi lånar ut surfplattor till närstående har de kunnat
-inte fick träffa sina nära
-värdefullt för både boende och anhöriga, och det fanns en träffa sina anhöriga på vård- och omsorgsboenden
-stor glädje i att äntligen kunna ses. Skärmar sattes sedan digitalt. Många är så glada att överhuvudtaget kunna ses,
-och  kära.
-upp på samtliga boenden.          och det här har också hjälpt till att minska det digitala
-utanförskapet.
+tillverka egna. Sedan testade vi på ett boende för att se
+hur det fungerade.
+
+Resultatet blev mycket positivt. Det fysiska mötet var
+värdefullt för både boende och anhöriga, och det fanns en
+stor glädje i att äntligen kunna ses. Skärmar sattes sedan
+upp på samtliga boenden.
 Uppskattade samtal
-För människor i riskgrupper har den isolering som – Det är ett bra exempel på hur vi har jobbat för att ställa
-pandemin tvingat fram ofta även inneburit ökad ensam- om istället för att ställa in, fortsätter Therése. Det är inte
-het. Sedan tidigare pågick ett arbete där förvaltningen helt enkelt för en boende som kanske har en demenssjuk-
-kontaktade alla som hade hemtjänst och erbjöd ett samtal dom att förstå att det pågår en pandemi och att man inte
-om psykisk ohälsa och ensamhet. Nu fick detta en ännu kan träffas, och det väcker mycket känslor. Det var varit utrymmena på boendena såg ut, och det blev mycket Flytteamet fick utbildning i hygienrutiner och hur
-större omfattning.                mycket frågor som personalen fått besvara och förklara, uppskattat. Närstående som inte bodde i närheten kunde skyddsutrustning ska användas. De fick även information
-som varför man inte kan träffas fysiskt men att det digi- vara delaktiga på ett helt annat sätt än annars. om covid och om hur viruset smittar. Vid flyttarna har
-– Vi frågade hur vi kunde hjälpa personer att få ork och tala mötet är ett annat sätt att ses. Det är ett otroligt bra medarbetare från fastighetsenheten burit in och ut, och
-kraft att kunna bryta sin isolering, berättar Therése. För arbete de har lyckats med. Sedan tog Therése och hennes kollegor kontakt med de från lokalvården har packat upp, gjort i ordning och
-många var det positivt att känna att de blev lyssnade på,                           fastighets- och lokalvårdsenheterna på förvaltningen för städat.
+För människor i riskgrupper har den isolering som
+pandemin tvingat fram ofta även inneburit ökad ensam-
+het. Sedan tidigare pågick ett arbete där förvaltningen
+kontaktade alla som hade hemtjänst och erbjöd ett samtal
+om psykisk ohälsa och ensamhet. Nu fick detta en ännu
+större omfattning.
+
+– Vi frågade hur vi kunde hjälpa personer att få ork och
+kraft att kunna bryta sin isolering, berättar Therése. För
+många var det positivt att känna att de blev lyssnade på,
+och att någon brydde sig om dem. Med samtalen kunde
+vi fånga upp behov och sätta in ytterligare åtgärder där
+det behövdes.
+Dessutom fick samtliga kommunens 80-åringar ett
+samtal om hur man kan stärka och förebygga ohälsa,
+något som i vanliga fall brukar ske vid en fysisk
+seniorträff. Samtalen handlade bland annat om säkerhet i
+vardagen och hur fallolyckor kan förebyggas.
+
+– De tyckte att det var bra information, men många av
+dagens 80-åringar är ju i så bra form att de sa att vi borde
+ringa om tio år istället, säger Therése med ett leende.
+Men överlag blir folk glada över omtanke, så samtalen var
+mycket uppskattade.
+Digitala möten
+Digitala hjälpmedel har fått stor betydelse i vardagen för
+många under pandemin. För personer över 70 år eller i
+annan riskgrupp och som inte har så stor digital vana,
+infördes den Digitala värden som kan ge hjälp och stöd.
+Här kan man till exempel få hjälp med hur man handlar
+mat på nätet, ringer videosamtal eller lånar en digital
+bok. Den som behöver kan också få låna en surfplatta.
+
+– Det här har hjälpt till att möjliggöra digitala möten,
+säger Therése. Det är en generation där inte alla har
+samma digitala vana som till exempel ungdomar, men
+när vi lånar ut surfplattor till närstående har de kunnat
+träffa sina anhöriga på vård- och omsorgsboenden
+digitalt. Många är så glada att överhuvudtaget kunna ses,
+och det här har också hjälpt till att minska det digitala
+utanförskapet.
+– Det är ett bra exempel på hur vi har jobbat för att ställa
+om istället för att ställa in, fortsätter Therése. Det är inte
+helt enkelt för en boende som kanske har en demenssjuk-
+dom att förstå att det pågår en pandemi och att man inte
+kan träffas, och det väcker mycket känslor. Det var varit
+mycket frågor som personalen fått besvara och förklara,
+som varför man inte kan träffas fysiskt men att det digi-
+tala mötet är ett annat sätt att ses. Det är ett otroligt bra
+arbete de har lyckats med.
 Flytteam blev lyckat samarbete
-och att någon brydde sig om dem. Med samtalen kunde                                 Service med en förfrågan om att samarbeta i ett flytteam,
-vi fånga upp behov och sätta in ytterligare åtgärder där Att ställa om blev också en nöt att knäcka när det gällde och snart var man igång. – Det är ett fantastiskt gott samarbete vi skapat och som
-det behövdes.                     in- och utflyttning från vård- och omsorgsboenden under                             har haft stor betydelse, sammanfattar Therése. Även om
-rådande besöksförbud. I normala fall sköts detta av anhö- – Det var enormt bra gjort, säger Therése. Vi ställde just flytteamet bara kommer att finnas under pandemin
-Dessutom fick samtliga kommunens 80-åringar ett riga, vilket nu inte var möjligt.   frågan om de kunde hjälpa till, och bara några dagar tror jag att vi kommer fortsätta samarbeta i framtiden
-samtal om hur man kan stärka och förebygga ohälsa,                                  senare hade de ställt om sina verksamheter för att kunna för att lösa olika frågor. 2020 var verkligen året då vi var
-något som i vanliga fall brukar ske vid en fysisk – Vi behövde snabbt hitta ett koncept för att få det att ta hand om flyttarna. tvungna att tänka på annat sätt, och vi har en fantastisk
-seniorträff. Samtalen handlade bland annat om säkerhet i funka, berättar Therése. Vi började med att göra broschy-    styrka när vi hjälps åt och jobbar som ett Kungsbacka.
-vardagen och hur fallolyckor kan förebyggas. rer och filmer för att kunna visa hur de gemensamma
-12 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 13
+Att ställa om blev också en nöt att knäcka när det gällde
+in- och utflyttning från vård- och omsorgsboenden under
+rådande besöksförbud. I normala fall sköts detta av anhö-
+riga, vilket nu inte var möjligt.
+
+– Vi behövde snabbt hitta ett koncept för att få det att
+funka, berättar Therése. Vi började med att göra broschy-
+rer och filmer för att kunna visa hur de gemensamma
+
+12 Kungsbacka kommuns årsredovisning 2020
+
+INLEDNING
+
+Bildtext
+FOTO: xxxx xxxx
+
+BILD
+
+utrymmena på boendena såg ut, och det blev mycket
+uppskattat. Närstående som inte bodde i närheten kunde
+vara delaktiga på ett helt annat sätt än annars.
+
+Sedan tog Therése och hennes kollegor kontakt med
+fastighets- och lokalvårdsenheterna på förvaltningen för
+Service med en förfrågan om att samarbeta i ett flytteam,
+och snart var man igång.
+– Det var enormt bra gjort, säger Therése. Vi ställde
+frågan om de kunde hjälpa till, och bara några dagar
+senare hade de ställt om sina verksamheter för att kunna
+ta hand om flyttarna.
+
+En  svår  tid för många   som
+
+inte fick träffa sina nära
+
+och  kära.
+
+Flytteamet fick utbildning i hygienrutiner och hur
+skyddsutrustning ska användas. De fick även information
+om covid och om hur viruset smittar. Vid flyttarna har
+medarbetare från fastighetsenheten burit in och ut, och
+de från lokalvården har packat upp, gjort i ordning och
+städat.
+
+– Det är ett fantastiskt gott samarbete vi skapat och som
+har haft stor betydelse, sammanfattar Therése. Även om
+just flytteamet bara kommer att finnas under pandemin
+tror jag att vi kommer fortsätta samarbeta i framtiden
+för att lösa olika frågor. 2020 var verkligen året då vi var
+tvungna att tänka på annat sätt, och vi har en fantastisk
+styrka när vi hjälps åt och jobbar som ett Kungsbacka.
+
+Kungsbacka kommuns årsredovisning 2020 13
 
 <!-- sida 10 -->
 
@@ -557,6 +797,7 @@ Den       kommunala                    koncernen
 Byggnadsnämnden ansvarar för kommunens uppgifter kommunstyrelsen och nämnderna utför sina uppgifter. I
 inom plan- och bygglagen, framförallt för frågor om uppdraget ingår även att granska de kommunala bolagen
 förhandsbesked, bygglov, rivningslov, samt tillsyn över och kommunala stiftelser.
+
 byggnadsverksamheten. Nämnden ansvarar även för
 Kommunstyrelsen
 kommunens detaljplaneverksamhet, samt kart- och mät-
@@ -568,43 +809,51 @@ Individ & Familjeomsorg
 samordna och följa kommunens verksamheter, utveck-
 Kungsbacka kommuns organisation
 Nämnden ansvarar för kommunens individ- och ling och ekonomiska ställning. Styrelsen ska ha fokus på
+
 familjeomsorg, vilket innefattar social barn- och ung- utveckling av kommungemensamma frågor, strategisk
+
 domsvård, missbruks- och beroendevård, familjerätt, styrning, strategiskt stöd och ska ha uppsikt över andra
 Kommunfullmäktige                                                familjerådgivning, stöd vid hemlöshet samt medling vid nämnder och bolag. Styrelsen ansvarar för att en effektiv
+
 ungdomsbrott. Nämnden ska också erbjuda stöd och och ändamålsenlig organisation upprätthålls som ger
 Kommunala bolag     Samägda bolag                 hjälp vid våld i nära relationer. Nämnden för Individ & effekter på helheten. Styrelsen bereder alla ärenden till
+
 Familjeomsorg ansvarar för att tillhandahålla kommu- kommunfullmäktige.
-Kommunstyrelsen                Eksta Bostads AB    Kommuninvest ekonomisk
+Kommunstyrelsen               Eksta Bostads AB     Kommuninvest ekonomisk
 förening                      nens skyldigheter avseende vissa omsorger, insatser och
-Tempohus                                                                            Kultur & Fritid
+Tempohus                                                                             Kultur & Fritid
 vård för personer med funktionshinder. Nämnden för
 Kommuninvest i Sverige
-Kommunrevision                Eksta samhällsfastigheter AB                      Individ & Familjeomsorg ansvarar för sysselsättning Nämnden ansvarar för kommunens kultur och fritids-
+Kommunrevision                Eksta samhällsfastigheter AB                       Individ & Familjeomsorg ansvarar för sysselsättning Nämnden ansvarar för kommunens kultur och fritids-
+
 Fastighets AB                                     och arbetsträning för personer i yrkesverksam ålder med verksamhet vilket innebär drift och skötsel av vissa
 Inera AB
 Sankta Gertrud (vilande)                          psykiskt funktionshinder i enlighet med psykiatrisam- anläggningar såsom teater, bibliotek, kulturskola,
-Valberedning                                     Räddningstjänsten i
+Valberedning                                      Räddningstjänsten i
 ordningens definition av målgruppen. bad- och idrottsanläggningar. Nämnden ger stöd och
-Stiftelse           S torgöteborg
+Stiftelse          S torgöteborg
 bidrag till olika organisationer inom området. Nämnden
-Arvodesberedning               Stiftelsen Tjolöholm                              Förskola & Grundskola
+Arvodesberedning              Stiftelsen Tjolöholm                              Förskola & Grundskola
 samordnar och utvecklar friluftsliv, folkhälsoarbete,
+
 Nämnden för Förskola & Grundskola ansvarar för för- brotts- och drogförebyggande arbete samt barnrättsar-
+
 skola och pedagogisk omsorg, grundskola, grundsärskola bete. Vidare arbetar nämnden med att tydliggöra behov
 Privata utförare > 10 mkr
 och fritidshem. Nämnden ansvarar även för korttids- inom samhällsplaneringen för kulturmiljön, marknads-
-Kommunstyrelsen               tillsyn för skolungdomar över 12 år, enligt lag om stöd föring och information till besökare om Kungsbacka som
+Kommunstyrelsen              tillsyn för skolungdomar över 12 år, enligt lag om stöd föring och information till besökare om Kungsbacka som
 Nämnder                                              Hallands Länstrafik AB
 och service till vissa funktionshindrade, LSS. Nämnden turistmål.
+
 Teknik                        ansvarar för att besluta om rätt till bidrag för fristående
 Service     Gymnasium & Arbetsmarknad Miljö & Hälsoskydd                                                       Miljö & hälsoskydd
 Ragn-Sells                    utbildning och omsorg och ha tillsyn över verksamheten.
 Viavest AB
 Nämnden för Miljö & Hälsoskydd ansvarar för tillsyn
-Kultur & Fritid Individ & Familjeomsorg Valnämnd                               Gymnasium & Arbetsmarknad
+Kultur & Fritid Individ & Familjeomsorg Valnämnd                              Gymnasium & Arbetsmarknad
 Individ & Familjeomsorg                                         inom främst miljöskydd och hälsoskydd, livsmedel och
 Humana assistans              Nämnden ansvarar för kommunens utbildning inom det receptfria läkemedel. Nämnden medverkar också i pla-
-Teknik         Vård & Omsorg   Krisledningsnämnd
+Teknik        Vård & Omsorg   Krisledningsnämnd
 offentliga skolväsendet för barn och ungdomar som bildar nering inom miljö- och hälsoskyddsområdet. Nämnden
 Vård & Omsorg
 Gottskärs hemtjänst AB        gymnasieskola och gymnasiesärskola, det kommunala ansvarar för kommunens tillstånd och tillsyn för alkohol-
@@ -612,28 +861,43 @@ Byggnadsnämnd  Förskola & Grundskola             Humana omsorg AB             
 Olivia Hemtjänst AB
 Nämnd för hemsjukvård Vardaga AB                kommunal vuxenutbildning. Vidare ansvarar nämn-
 Överförmyndarnämnd\* Patientnämnd\*\* och hjälpmedel\*\*\* Vardaga Äldreomsorg AB      den för uppdragsutbildningar och för att utveckla och Servicenämnden
-driva arbetet med etablering av ensamkommande barn, Nämnden för Service ansvarar för kommunens lokal-
-ensamstående vuxna och familjer. Nämnden ansvarar för försörjning med uppdrag att bygga, förvalta och hyra ut
+
+driva arbetet med etablering av ensamkommande barn,
+ensamstående vuxna och familjer. Nämnden ansvarar för
 \* Ö verförmyndarnämnden är gemensam för Härryda, Kungsbacka, Mölndal och Partille kommuner från och med 1 januari 2019.
-\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. all myndighetsutövning avseende försörjningsstöd och lokaler till kommunens samtliga verksamheter. Nämn-
+\*\* Patientnämnden Halland är gemensam för Hallands län. Region Halland är värdkommun. all myndighetsutövning avseende försörjningsstöd och
 \*\*\* G emensam nämnden för hemsjukvård och hjälpmedel. Region Halland är värdkommun.
-övrigt ekonomiskt bistånd samt ansvar enligt lagen med den ansvarar också för lokalvård i kommunens lokaler
-särskilda bestämmelser för vård av unga för dels ensam- och måltidsverksamhet i förskolor, skolor och boenden.
-kommande, dels asylsökande som har fyllt 18 men inte 21 Dessutom ingår kundcentret Kungsbacka direkt, den
-år. Nämnden ansvarar för all studie- och yrkesvägledning interna supportfunktionen Service direkt, IT, rådgivning,
-i kommunen.                       personalförsörjning samt inköp och fordonshantering i
-nämndens ansvar.
+övrigt ekonomiskt bistånd samt ansvar enligt lagen med
+särskilda bestämmelser för vård av unga för dels ensam-
+kommande, dels asylsökande som har fyllt 18 men inte 21
+år. Nämnden ansvarar för all studie- och yrkesvägledning
+i kommunen.
 Kommunfullmäktige
-Teknik
 Kommunfullmäktige är kommunens högsta beslutande
-instans. Kommunfullmäktige beslutar om gemensamma Nämnden för Teknik ansvarar för planering, drift och
-mål och riktlinjer för den kommunala verksamheten samt utbyggnad av samhällets infrastruktur såsom gator och
-kommunens budget.                 gatubelysning, gång- och cykelvägar, allmänna platser
-och parker, dricksvatten och avloppsrening, sophämtning
+instans. Kommunfullmäktige beslutar om gemensamma
+mål och riktlinjer för den kommunala verksamheten samt
+kommunens budget.
 Kommunrevision
-och återvinning samt det kommunala bredbandsnätet.
-Kommunfullmäktige utser politiker att vara förtroende- Nämnden ansvarar också för trafik och parkeringsfrågor,
+Kommunfullmäktige utser politiker att vara förtroende-
 valda revisorer i kommunrevisionen. Kommunrevisionen
+
+Nämnden för Service ansvarar för kommunens lokal-
+försörjning med uppdrag att bygga, förvalta och hyra ut
+lokaler till kommunens samtliga verksamheter. Nämn-
+den ansvarar också för lokalvård i kommunens lokaler
+och måltidsverksamhet i förskolor, skolor och boenden.
+Dessutom ingår kundcentret Kungsbacka direkt, den
+interna supportfunktionen Service direkt, IT, rådgivning,
+personalförsörjning samt inköp och fordonshantering i
+nämndens ansvar.
+Teknik
+Nämnden för Teknik ansvarar för planering, drift och
+utbyggnad av samhällets infrastruktur såsom gator och
+gatubelysning, gång- och cykelvägar, allmänna platser
+och parker, dricksvatten och avloppsrening, sophämtning
+och återvinning samt det kommunala bredbandsnätet.
+Nämnden ansvarar också för trafik och parkeringsfrågor,
+
 16 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 17
 
 <!-- sida 12 -->
@@ -680,27 +944,42 @@ FÖRVALTNINGSBERÄTTELSE                                                        
 
 verksam             hetens           utveckling
 
-I följande avsnitt sker en analys av utvecklingen över tid Resultatet för 2020 sticker ut i jämförelsen, vilket till
-för Kungsbacka kommun samt den samlade kommun- stor del förklaras av ökade statsbidrag med anledning
-koncernen. Den senare utgörs av Kungsbacka kommun av pandemin, men också tillskott från kommunens
-samt dess helägda dotterbolag Eksta Bostads AB. Från exploateringsverksamhet. Mer om detta i den finansiella
-2018 ingår Tempohus i Kungsbacka AB som en del i kon- analysen.
+I följande avsnitt sker en analys av utvecklingen över tid
+för Kungsbacka kommun samt den samlade kommun-
+koncernen. Den senare utgörs av Kungsbacka kommun
+samt dess helägda dotterbolag Eksta Bostads AB. Från
+2018 ingår Tempohus i Kungsbacka AB som en del i kon-
 cernen Eksta Bostads AB. Undantagsregel tillämpas för
-Stiftelsen Tjolöholm som inte ingår i de sammanställda Det starka resultatet 2020 till trots står Kungsbacka
-räkenskaperna.                    kommun inför utmaningen att även i framtiden möta
-förändrad demografi och höga investeringsbehov inom
-Kungsbacka kommun är en tillväxtkommun som under ramen för en god ekonomisk hushållning.
+Stiftelsen Tjolöholm som inte ingår i de sammanställda
+räkenskaperna.
+Kungsbacka kommun är en tillväxtkommun som under
 de senaste åren varit inne i en expansiv fas. Den ökande
-befolkningsmängden ställer krav på både utökad kom- Utvecklingen för den kommunala koncernen följer i
-munal service och nya investeringar. Därtill kommer stort kommunens utveckling. Även här sticker 2020 ut
-BILD
-ett löpande behov av att reinvestera i äldre tillgångar. i jämförelsen. Utöver kommunens resultat bidrar avytt-
-Kommunen har under de senaste åren redovisat rela- ring av fastigheter inom koncernen Eksta till det starka
-tivt starka resultat vilket bidragit till att finansiera den resultatet.
+befolkningsmängden ställer krav på både utökad kom-
+munal service och nya investeringar. Därtill kommer
+ett löpande behov av att reinvestera i äldre tillgångar.
+Kommunen har under de senaste åren redovisat rela-
+tivt starka resultat vilket bidragit till att finansiera den
 ökande investeringsvolymen. Resultaten i sig finansierar
 dock inte de stora investeringsvolymerna och kommunen
 har behövt öka sin upplåning och därmed fått en större
 låneskuld.
+
+Resultatet för 2020 sticker ut i jämförelsen, vilket till
+stor del förklaras av ökade statsbidrag med anledning
+av pandemin, men också tillskott från kommunens
+exploateringsverksamhet. Mer om detta i den finansiella
+analysen.
+
+Det starka resultatet 2020 till trots står Kungsbacka
+kommun inför utmaningen att även i framtiden möta
+förändrad demografi och höga investeringsbehov inom
+ramen för en god ekonomisk hushållning.
+Utvecklingen för den kommunala koncernen följer i
+stort kommunens utveckling. Även här sticker 2020 ut
+BILD
+i jämförelsen. Utöver kommunens resultat bidrar avytt-
+ring av fastigheter inom koncernen Eksta till det starka
+resultatet.
 
 \*Jämförelsetalen för 2019 är justerade med anledning av övergång till RKR R2 under 2020.
 
@@ -737,129 +1016,299 @@ låneskuld.
 
 <!-- sida 14 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
+
+Viktiga           händelser               för
+
+resultat            och      ställning
+
+Omvärlden         påverkar       oss
+
+Coronapandemin har påverkat Kungsbacka liksom den påverkade
+hela världen. Men det var inte det enda som hände under året.
+
+Globala trender
+De senaste årens globala utveckling mot försvagad
+demokrati verkar hålla i sig. Flera index över demokrati-
+utveckling slog under 2020 fast att Ungern inte längre
+kan klassas som en demokrati. I världens största demo-
+krati försökte förloraren av höstens presidentval under-
+minera valresultatet.
+
+Pandemin ledde till att många lokala företag fick
+tvärstopp i produktion, order och kundkontakter. Kom-
+munen har samarbetat med andra aktörer för att utöka
+stödjande resurser som Företagsakuten och direkttelefo-
+ner. Kommunens livsmedelsgrossister förlorade mycket
+försäljning, men antalet nystartade företag har legat
+stabilt och antalet bygglovsärenden har fortsatt öka.
+
+Sverige ligger stadigt bland de högst placerade i världen
+när det gäller demokrati och tilliten till samhället. Men
+desinformation och polarisering riskerar att leda till
+minskad tillit för stat och kommun. Detsamma gäller
+avslöjanden om förtroendevalda och myndighetsföre-
+trädare som har betett sig olämpligt eller kriminellt.
+Valresultatet i USA sågs ändå som hoppfullt framför allt
+för det globala klimatarbetet. I både Sverige och Europa
+var 2020 det varmaste år som någonsin uppmätts (globalt
+är förstaplatsen delad med år 2016). Joe Bidens seger
+innebär att USA återinträder i Parisavtalet och förbinder
+sig att på sikt bli klimatneutralt. På EU-nivå har den nya
+Europeiska kommissionen presenterat ”den europeiska
+gröna given”, en färdplan för hur EU ska bli världens
+första klimatneutrala kontinent.
+
+Pandemin slog hårt mot världsekonomin, som beräknas
+ha krympt med 4 procent. För EU-länderna är siffran
+7,4 procent. Ekonomiskt verkar Sverige (-3,4 procent)
+ha klarat pandemiåret bättre än nästan alla europeiska
+länder – men med fortsatt hög arbetslöshet och en ökad
+ojämlikhet.
+Lokala näringar
+Under pandemin undvek många Kungsbackabor buti-
+ker och stannade istället hemma och distansshoppade.
+Särskilt hemleverans av matvaror fick en rejäl skjuts.
+Användningen av strömmande tjänster och sociala
+medier ökade också. I praktiken innebar det att en del av
+de pengar som annars hade spenderats hos Kungsbackas
+lokala näringsliv nu hamnade hos amerikanska storföre-
+tag.
+
+Under pandemin har många svenskar fått nya fritidsva-
+nor och vistas mer utomhus. Kungsbackas besöksmål,
+friluftsområden och idrotts- och fritidsanläggningar har
+ökat sina besök. Kungsbacka kommun var först i landet
+med att skapa en kampanj kring Hemester.
+Digitalt distansarbete
+Krisen har skapat kreativitet bland såväl medarbetare
+som invånare och företagare. Nya lösningar har uppkom-
+mit för att erbjuda tjänster och tillgängliggöra evene-
+mang. Vissa av kommunens medarbetare fick lägga annat
+arbete åt sidan för att tjänstgöra i stabsfunktion under en
+kortare eller längre period. I och med pandemin fick vi
+nyttja strukturer för krisledningsorganisationen som vi
+tidigare byggt upp genom utbildning och övning.
+
+Pandemin exponerade en ny samhällsklyfta: Mellan de
+som till stor del kan arbeta hemma och de som inte kan
+det. De senare riskerade större exponering för smitta,
+vilket ledde till ökad oro för vissa grupper. Det visade sig
+även finnas en mindre klyfta mellan de som kan jobba
+relativt bekvämt hemma (genom tillgång till avskilt
+arbetsrum, ergonomisk kontorsutrustning med mera) och
+de som inte har den möjligheten.
+Bland Kungsbackas medarbetare behöver en stor del vara
+fysiskt närvarande på sin arbetsplats, men mot slutet av
+året var kommunens uttalade hållning att så många som
+möjligt skulle arbeta på distans. Det innebar en kraf-
+tigt ökad användning av digitala verktyg och arbetssätt.
+Under en 90-dagarsperiod ökade kommunens använd-
+ning av Microsoft Teams med 475 procent.
+
+22 Kungsbacka kommuns årsredovisning 2020
+
+En  särskild  utmaning
+
+har  varit att få de
+
+demokratiska    forumen
+
+att fungera   digitalt.
+Detta   har krävt  arbete
+
+med   nya  lösningar,  regler
+
+och  arbetssätt  för att göra
+
+det  möjligt  både  juridiskt
+
+och  praktiskt.
+
+Övergången till distansarbete underlättades av tidigare
+omställningar till digitala arbetssätt och aktivitetsba-
+serade lokaler. Möten, konferenser och utbildningar
+fick ibland skjutas upp, men ofta ställdes de om till att
+genomföras i digital form.
+Omställningen har fört med sig många utmaningar och
+de långsiktiga effekterna på fysisk och psykisk hälsa är
+ännu okända. Men på kort sikt har det varit många posi-
+tiva effekter. Våra förvaltningar rapporterar att den digi-
+tala mognadsgraden har ökat väsentligt. Många anställda
+upplever en ökad effektivitet, vilket är i linje med flera
+internationella studier om hemarbete. I en digital arbets-
+miljö är avståndet till medarbetare på andra förvaltningar
+lika kort som till de närmaste kollegerna, vilket stärker
+samarbetet över förvaltningsgränsen. Resandet har
+minskat, vilket bland annat ledde till att nyttjandet av
+bilpoolen avtog och verksamheten fick ställa om till att
+hyra ut fordon.
+En särskild utmaning har varit att få de demokratiska
+forumen att fungera digitalt. Detta har krävt arbete
+med nya lösningar, regler och arbetssätt för att göra
+det möjligt både juridiskt och praktiskt. Kungsbackas
+förtroendevalda fick arbeta under delvis nya villkor, men
+övergången var framgångsrik.
+Sociala aspekter
+
+Under året har råden från Folkhälsomyndigheten gått ut
+på att hålla avstånd och undvika nära kontakt med äldre
+
+FÖRVALTNINGSBERÄTTELSE
 
 personer. Mötespunkter och restauranger stängdes för att
-Viktiga           händelser               för
-En  särskild  utmaning
 minska risken för smittspridning. En stor andel av de som
 behöver vårdinsatser i kommunen tillhör riskgrupper och
-har varit att få de
 har haft färre kontakter med omvärlden under 2020 än
-resultat            och      ställning
 normalt. För vissa av kommunens vård- och omsorgsta-
-demokratiska    forumen
 gare har dock pandemin lett till en ökad självständighet.
 Det handlar till exempel om att kunna beställa matva-
-att fungera  digitalt.
 ror digitalt eller få mediciner levererade hem, istället för
 att besöka en mataffär eller ett apotek.
-Omvärlden         påverkar       oss                                                 Detta  har  krävt  arbete
 Stängda gränser och omfattande reserestriktioner påver-
-med   nya lösningar,  regler
 kade möjligheten för människor att söka skydd i Sve-
-Coronapandemin har påverkat Kungsbacka liksom den påverkade
 rige. Mottagandet av nyanlända avstannade helt mellan
-hela världen. Men det var inte det enda som hände under året.                        och  arbetssätt  för att göra
 mars-september 2020, vilket ledde till ett mer koncen-
 trerat mottagande från oktober. På grund av pandemin
-Globala trender                                                                      det möjligt  både  juridiskt
-Pandemin ledde till att många lokala företag fick                                   har aktiviteter blivit fördröjda, vilket förlänger tiden för
-De senaste årens globala utveckling mot försvagad tvärstopp i produktion, order och kundkontakter. Kom-               integration. Mycket av etableringsarbetet har bedrivits
-och  praktiskt.
-demokrati verkar hålla i sig. Flera index över demokrati- munen har samarbetat med andra aktörer för att utöka        i digital form och många nyanlända är ovana vid det
-utveckling slog under 2020 fast att Ungern inte längre stödjande resurser som Företagsakuten och direkttelefo-        digitala samhället.
-kan klassas som en demokrati. I världens största demo- ner. Kommunens livsmedelsgrossister förlorade mycket
-krati försökte förloraren av höstens presidentval under- försäljning, men antalet nystartade företag har legat        Läget för kommunens arbetssökande försvårades genom
-minera valresultatet.             stabilt och antalet bygglovsärenden har fortsatt öka. Övergången till distansarbete underlättades av tidigare att Arbetsförmedlingen stängde sitt lokalkontor i Kungs-
-omställningar till digitala arbetssätt och aktivitetsba- backa hösten 2019. Pandemin har också begränsat möjlig-
-Sverige ligger stadigt bland de högst placerade i världen Under pandemin har många svenskar fått nya fritidsva- serade lokaler. Möten, konferenser och utbildningar heterna till anskaffning av praktikplats och anställningar.
-när det gäller demokrati och tilliten till samhället. Men nor och vistas mer utomhus. Kungsbackas besöksmål, fick ibland skjutas upp, men ofta ställdes de om till att Detta har lett till ett ökat tryck på Kompetenscentrum.
-desinformation och polarisering riskerar att leda till friluftsområden och idrotts- och fritidsanläggningar har genomföras i digital form.
-minskad tillit för stat och kommun. Detsamma gäller ökat sina besök. Kungsbacka kommun var först i landet             Den fortsatt stora bristen på bostäder i kommunen har
-avslöjanden om förtroendevalda och myndighetsföre- med att skapa en kampanj kring Hemester. Omställningen har fört med sig många utmaningar och medfört svårigheter att tillgodose bostäder åt marginali-
-trädare som har betett sig olämpligt eller kriminellt.                              de långsiktiga effekterna på fysisk och psykisk hälsa är serade grupper. Det gäller såväl tillgång till bostad med
-Digitalt distansarbete
-ännu okända. Men på kort sikt har det varit många posi- särskild service som vanliga hyreslägenheter.
-Valresultatet i USA sågs ändå som hoppfullt framför allt Krisen har skapat kreativitet bland såväl medarbetare tiva effekter. Våra förvaltningar rapporterar att den digi-
-för det globala klimatarbetet. I både Sverige och Europa som invånare och företagare. Nya lösningar har uppkom- tala mognadsgraden har ökat väsentligt. Många anställda Lagen om tillgänglighet till digital offentlig service inne-
-var 2020 det varmaste år som någonsin uppmätts (globalt mit för att erbjuda tjänster och tillgängliggöra evene- upplever en ökad effektivitet, vilket är i linje med flera bar under året ett omfattande arbete med anpassningar
-är förstaplatsen delad med år 2016). Joe Bidens seger mang. Vissa av kommunens medarbetare fick lägga annat internationella studier om hemarbete. I en digital arbets- för att en större del av allmänheten ska kunna ta del av
-innebär att USA återinträder i Parisavtalet och förbinder arbete åt sidan för att tjänstgöra i stabsfunktion under en miljö är avståndet till medarbetare på andra förvaltningar vår information och våra dokument.
-sig att på sikt bli klimatneutralt. På EU-nivå har den nya kortare eller längre period. I och med pandemin fick vi lika kort som till de närmaste kollegerna, vilket stärker
-Europeiska kommissionen presenterat ”den europeiska nyttja strukturer för krisledningsorganisationen som vi samarbetet över förvaltningsgränsen. Resandet har Sedan 1 januari 2020 är barnkonventionen en del av
-gröna given”, en färdplan för hur EU ska bli världens tidigare byggt upp genom utbildning och övning. minskat, vilket bland annat ledde till att nyttjandet av svensk lag. I Kungsbacka ligger antalet orosanmälningar
-första klimatneutrala kontinent.                                                    bilpoolen avtog och verksamheten fick ställa om till att om barn och unga fortsatt på en mycket hög nivå. Både
-Pandemin exponerade en ny samhällsklyfta: Mellan de hyra ut fordon.                 antal dygn i stödboende och antal dygn i institutionsvård
-Pandemin slog hårt mot världsekonomin, som beräknas som till stor del kan arbeta hemma och de som inte kan            ökade stort under året.
-ha krympt med 4 procent. För EU-länderna är siffran det. De senare riskerade större exponering för smitta, En särskild utmaning har varit att få de demokratiska
-7,4 procent. Ekonomiskt verkar Sverige (-3,4 procent) vilket ledde till ökad oro för vissa grupper. Det visade sig forumen att fungera digitalt. Detta har krävt arbete Mer positivt är att pandemin enligt Skolverket inte har
-ha klarat pandemiåret bättre än nästan alla europeiska även finnas en mindre klyfta mellan de som kan jobba med nya lösningar, regler och arbetssätt för att göra haft någon negativ påverkan på svenska skolelevers betyg.
-länder – men med fortsatt hög arbetslöshet och en ökad relativt bekvämt hemma (genom tillgång till avskilt det möjligt både juridiskt och praktiskt. Kungsbackas Tvärtom når något fler gymnasiebehörighet än tidigare.
-ojämlikhet.                       arbetsrum, ergonomisk kontorsutrustning med mera) och förtroendevalda fick arbeta under delvis nya villkor, men Sedan 2011 har kunskapsresultaten i matematik och
-de som inte har den möjligheten.                  övergången var framgångsrik.      naturvetenskap förbättrats hos elever i både årskurs 4 och
-Lokala näringar
+har aktiviteter blivit fördröjda, vilket förlänger tiden för
+integration. Mycket av etableringsarbetet har bedrivits
+i digital form och många nyanlända är ovana vid det
+digitala samhället.
+
+Läget för kommunens arbetssökande försvårades genom
+att Arbetsförmedlingen stängde sitt lokalkontor i Kungs-
+backa hösten 2019. Pandemin har också begränsat möjlig-
+heterna till anskaffning av praktikplats och anställningar.
+Detta har lett till ett ökat tryck på Kompetenscentrum.
+Den fortsatt stora bristen på bostäder i kommunen har
+medfört svårigheter att tillgodose bostäder åt marginali-
+serade grupper. Det gäller såväl tillgång till bostad med
+särskild service som vanliga hyreslägenheter.
+
+Lagen om tillgänglighet till digital offentlig service inne-
+bar under året ett omfattande arbete med anpassningar
+för att en större del av allmänheten ska kunna ta del av
+vår information och våra dokument.
+Sedan 1 januari 2020 är barnkonventionen en del av
+svensk lag. I Kungsbacka ligger antalet orosanmälningar
+om barn och unga fortsatt på en mycket hög nivå. Både
+antal dygn i stödboende och antal dygn i institutionsvård
+ökade stort under året.
+
+Mer positivt är att pandemin enligt Skolverket inte har
+haft någon negativ påverkan på svenska skolelevers betyg.
+Tvärtom når något fler gymnasiebehörighet än tidigare.
+Sedan 2011 har kunskapsresultaten i matematik och
+naturvetenskap förbättrats hos elever i både årskurs 4 och
 8\. Detta bekräftades i år av en internationell mätning.
-Sociala aspekter
-Under pandemin undvek många Kungsbackabor buti- Bland Kungsbackas medarbetare behöver en stor del vara
-ker och stannade istället hemma och distansshoppade. fysiskt närvarande på sin arbetsplats, men mot slutet av Under året har råden från Folkhälsomyndigheten gått ut
-Särskilt hemleverans av matvaror fick en rejäl skjuts. året var kommunens uttalade hållning att så många som på att hålla avstånd och undvika nära kontakt med äldre
-Användningen av strömmande tjänster och sociala möjligt skulle arbeta på distans. Det innebar en kraf-
-medier ökade också. I praktiken innebar det att en del av tigt ökad användning av digitala verktyg och arbetssätt.
-de pengar som annars hade spenderats hos Kungsbackas Under en 90-dagarsperiod ökade kommunens använd-
-lokala näringsliv nu hamnade hos amerikanska storföre- ning av Microsoft Teams med 475 procent.
-tag.
-22 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 23
+
+Kungsbacka kommuns årsredovisning 2020 23
 
 <!-- sida 15 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
+
+Hållbarhetsredovisning
+
+Vårt hållbarhetsbokslut visar hur vi förflyttar oss mot ett mer håll-
+bart samhälle, och om våra resurser används på ett effektivt sätt i
+förhållande till de globala målen. Vi analyserar också var kommunen
+behöver lägga fokus för att på bästa sätt bidra till en hållbar värld.
+
+Sammantaget är Kungsbacka en välmående kommun,
+en bild som stärks när Kungsbacka under 2020 toppar
+Dagens samhälles lista över Sveriges hållbaraste kom-
+muner. Vi har trots detta en hel del utmaningar men
+samtidigt goda förutsättningar att i framtiden även bli en
+hållbar kommun. Hållbarhetsfokus i hela organisationen
+har ökat och många verksamheter gör bra och effektiva
+prioriteringar. Utifrån ett hållbarhetsperspektiv bedöms
+Kungsbacka trots en del utmaningar uppnå god ekono-
+misk hushållning.
+I ett globalt perspektiv är klimat och biologisk mångfald
+den största utmaningen för Kungsbacka, liksom för de
+flesta utvecklade länder och kommuner. För att hantera
+klimatutmaningen behöver vi planera bebyggelse och
+arbetsplatser så att utsläpp från resorna minimeras. När
+det gäller biologisk mångfald behöver vi genomföra
+faktiska åtgärder. Vi behöver också anpassa våra inköp
+– såväl i organisationen som privat – så att vi minimerar
+negativ påverkan på klimat och resurser.
+I ett nationellt perspektiv ser vi en utmaning i våra
+ungdomars hälsa men också deras tillit till samhället och
+demokratin. Vi behöver också, framförallt i en växande
+kommun, jobba med jämlikheten i samhället, oavsett
+om den beror på ekonomi, etnisk bakgrund, kön eller
+bostadsort. I detta arbete behöver vi ha fokus på jäm-
+ställdhet och barnperspektivet.
+
+Hållbar konsumtion och resor
+Koldioxidutsläppen i Kungsbacka minskar men inte i den
+takt vi önskar. Det är framförallt omställningen till fos-
+silfri uppvärmning där utsläppen minskar. Däremot ökar
+utsläppen oroväckande från transporter trots den pågå-
+ende omställningen till fossilfria alternativ. Möjligheten
+för våra invånare att resa snabbt och hållbart till och från
+sina jobb i regionen är en mycket viktig utvecklingsfråga
+för kommunen. Utanför våra tätorter har Kungsbacka
+relativt sett bra kollektivtrafik medan i våra tätorter är
+kollektivtrafiken bland de sämre i Sverige, vilket vi behö-
+ver utveckla avsevärt. Energianvändningen minskar, den
+är i stort sett fossilfri och andelen egengenererad energi
+ökar. Kommunen har tillsammans med sitt bostadsbolag
+Eksta minskat energianvändningen, byggt ut solcells-
+anläggningar och därigenom ökat andelen förnyelsebar
+energi.
+Den största och mest akuta utmaningen är att förändra
+vår konsumtion – och där ingår resor - så att vi mins-
+kar vår klimatpåverkan men också för att spara jordens
+naturresurser och den biologiska mångfalden. Kungs-
+backa kommun ställer idag bra och höga krav i upp-
+handlingen av varor och tjänster. Vi har även ett aktivt
+och strategiskt arbete med hållbarhetskrav inom flera
+inköpsområden, har infört nya lösningar för källsortering
+och återanvänder både möbler och kläder.
+
+17 mål för global utveckling.
+
+24 Kungsbacka kommuns årsredovisning 2020
 
 Tillit och trygghet
-Hållbarhetsredovisning                                                                                                mest känsliga delen av Kungsbackas kuststräcka och vi
-Kungsbacka är en trygg kommun med högt valdelta- behöver därför arbeta mycket aktivt för att förbättra dess
-gande och stor tillit till demokratin. Då vi ser vikande vattenkvalitet. Vi har fortsatt utveckla miljöerna längs
-trender är det viktigt att det trygghetsskapande arbete Kungsbackaån; under 2020 från Signeskulle och norrut
-fortgår. Vi har utökat samhällsinformationen för nyan- mot Hede, och fem ängsytor i kommunen har iordning-
-Vårt hållbarhetsbokslut visar hur vi förflyttar oss mot ett mer håll-
-lända från 60 timmar till 100 timmar. Vi har tillsammans ställts och försetts med informationsskyltar.
-bart samhälle, och om våra resurser används på ett effektivt sätt i
+Kungsbacka är en trygg kommun med högt valdelta-
+gande och stor tillit till demokratin. Då vi ser vikande
+trender är det viktigt att det trygghetsskapande arbete
+fortgår. Vi har utökat samhällsinformationen för nyan-
+lända från 60 timmar till 100 timmar. Vi har tillsammans
 med studieförbund haft svenska för föräldralediga, sam-
-förhållande till de globala målen. Vi analyserar också var kommunen                                                   Arbetsmarknad och näringsliv
 hällsinformation med fokus på jämställdhet, demokrati,
-behöver lägga fokus för att på bästa sätt bidra till en hållbar värld.
-familj, arbetsliv med mera, samt haft en lots som hjälpt Kungsbacka har ett diversifierat och fungerande närings-
-till att hitta fritidsaktiviteter. En enkät visar att språket, liv och fortsatt låg arbetslöshet. Vid mätningar av
-Hållbar konsumtion och resor
-Sammantaget är Kungsbacka en välmående kommun,                                      kulturella skillnader, avsaknad av sociala nätverk samt de företagsklimat har dock kommunen jämförelsevis låga
-en bild som stärks när Kungsbacka under 2020 toppar Koldioxidutsläppen i Kungsbacka minskar men inte i den tillfälliga hyreskontrakten skapar oro bland nyanlända. värden. Vi gör, har gjort och fortsätter göra många akti-
-Dagens samhälles lista över Sveriges hållbaraste kom- takt vi önskar. Det är framförallt omställningen till fos- Språket konstateras fortsatt vara den viktigaste faktorn viteter för att förbättra för näringslivet. Under 2020 har
-muner. Vi har trots detta en hel del utmaningar men silfri uppvärmning där utsläppen minskar. Däremot ökar för integration. kommunen stöttat lokala företag inom handel och turism
-samtidigt goda förutsättningar att i framtiden även bli en utsläppen oroväckande från transporter trots den pågå-     genom budskapet ”hemmavid”. Viktiga steg för att ytter-
-hållbar kommun. Hållbarhetsfokus i hela organisationen ende omställningen till fossilfria alternativ. Möjligheten Bostadsutvecklingen koncentreras till våra stationsorter, ligare främja vårt näringsliv har varit utvecklingen av
-har ökat och många verksamheter gör bra och effektiva för våra invånare att resa snabbt och hållbart till och från och där pågår stadsomvandling som syftar till att förtäta nya verksamhetsområden samt arbetet med Lätt & Rätt
-prioriteringar. Utifrån ett hållbarhetsperspektiv bedöms sina jobb i regionen är en mycket viktig utvecklingsfråga staden för att bland annat öka underlaget för bra kollek- i Kungsbacka. Framöver ser vi att såväl den kommunala
-Kungsbacka trots en del utmaningar uppnå god ekono- för kommunen. Utanför våra tätorter har Kungsbacka tivtrafik och ge bättre möjligheter för näringslivet. En organisationen som kommunens näringsliv bör kunna
-misk hushållning.                 relativt sett bra kollektivtrafik medan i våra tätorter är långsiktig utmaning är att bygga olika typer av bostäder vara mer drivande i att förbättra resurseffektiviteten i
-kollektivtrafiken bland de sämre i Sverige, vilket vi behö- som kan motverka segregation. konsumtion och produktion. Vi behöver också bli bättre
-I ett globalt perspektiv är klimat och biologisk mångfald ver utveckla avsevärt. Energianvändningen minskar, den      på matcha personer mot rätt arbete.
-den största utmaningen för Kungsbacka, liksom för de är i stort sett fossilfri och andelen egengenererad energi Kungsbacka kommun har tagit stora steg från stuprör och
-flesta utvecklade länder och kommuner. För att hantera ökar. Kommunen har tillsammans med sitt bostadsbolag ensidig kommunikation med invånare och företag till en Du kan läsa hela hållbarhetsbokslutet för Kungsbacka
-klimatutmaningen behöver vi planera bebyggelse och Eksta minskat energianvändningen, byggt ut solcells- modern aktör med många samarbeten och öppna dialo- kommun 2020 på www.kungsbacka.se.
-arbetsplatser så att utsläpp från resorna minimeras. När anläggningar och därigenom ökat andelen förnyelsebar ger. Kommunen har genomfört utbildningsinsatser inom
-det gäller biologisk mångfald behöver vi genomföra energi.                          hållbarhet, haft dialog med invånarna kring en ny över-
-faktiska åtgärder. Vi behöver också anpassa våra inköp                              siktsplan, och tagit emot studenter från våra universitet.
-– såväl i organisationen som privat – så att vi minimerar Den största och mest akuta utmaningen är att förändra Vi har startat digitala mötesplatser och våra bibliotek har
-negativ påverkan på klimat och resurser. vår konsumtion – och där ingår resor - så att vi mins- erbjudit språkcaféer. Det behöver vara högt prioriterat för
-kar vår klimatpåverkan men också för att spara jordens kommunen att hitta, skapa eller facilitera medskapande
-I ett nationellt perspektiv ser vi en utmaning i våra naturresurser och den biologiska mångfalden. Kungs- för olika aktörer i kommunen för att bidra till ett hållbart
-ungdomars hälsa men också deras tillit till samhället och backa kommun ställer idag bra och höga krav i upp- samhälle.
-demokratin. Vi behöver också, framförallt i en växande handlingen av varor och tjänster. Vi har även ett aktivt
+familj, arbetsliv med mera, samt haft en lots som hjälpt
+till att hitta fritidsaktiviteter. En enkät visar att språket,
+kulturella skillnader, avsaknad av sociala nätverk samt de
+tillfälliga hyreskontrakten skapar oro bland nyanlända.
+Språket konstateras fortsatt vara den viktigaste faktorn
+för integration.
+Bostadsutvecklingen koncentreras till våra stationsorter,
+och där pågår stadsomvandling som syftar till att förtäta
+staden för att bland annat öka underlaget för bra kollek-
+tivtrafik och ge bättre möjligheter för näringslivet. En
+långsiktig utmaning är att bygga olika typer av bostäder
+som kan motverka segregation.
+
+Kungsbacka kommun har tagit stora steg från stuprör och
+ensidig kommunikation med invånare och företag till en
+modern aktör med många samarbeten och öppna dialo-
+ger. Kommunen har genomfört utbildningsinsatser inom
+hållbarhet, haft dialog med invånarna kring en ny över-
+siktsplan, och tagit emot studenter från våra universitet.
+Vi har startat digitala mötesplatser och våra bibliotek har
+erbjudit språkcaféer. Det behöver vara högt prioriterat för
+kommunen att hitta, skapa eller facilitera medskapande
+för olika aktörer i kommunen för att bidra till ett hållbart
+samhälle.
 Psykisk ohälsa en utmaning
-kommun, jobba med jämlikheten i samhället, oavsett och strategiskt arbete med hållbarhetskrav inom flera
-om den beror på ekonomi, etnisk bakgrund, kön eller inköpsområden, har infört nya lösningar för källsortering I Kungsbacka är förutsättningarna för ett gott liv stora
-bostadsort. I detta arbete behöver vi ha fokus på jäm- och återanvänder både möbler och kläder. och kommunen ligger väl till i både globalt och nationellt
-ställdhet och barnperspektivet.                                                     perspektiv. Vi ser fortfarande att ungdomars psykiska
+I Kungsbacka är förutsättningarna för ett gott liv stora
+och kommunen ligger väl till i både globalt och nationellt
+perspektiv. Vi ser fortfarande att ungdomars psykiska
 hälsa är en utmaning som vi behöver arbeta med. Ett
 viktigt utvecklingsområde är att våra SFI-elever ska klara
 fler kurser. Vi ser även en markant nedgång bland män
@@ -875,85 +1324,174 @@ soner och under 2020 uppfyller vi utsläppsmålen vid alla
 fyra reningsverk. Kommunen har stora utmaningar med
 sina vattendrag där endast 22 procent uppnår god ekolo-
 gisk status. Användningen av jord- och skogsbruksmark
-17 mål för global utveckling.        står för 78 procent av fosforutsläppen till Kungsbacka-
+står för 78 procent av fosforutsläppen till Kungsbacka-
 fjorden, vilken är en anledning till att fjorden endast
 har måttlig ekologisk status. Kungsbackafjorden är den
-24 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 25
+
+FÖRVALTNINGSBERÄTTELSE
+
+mest känsliga delen av Kungsbackas kuststräcka och vi
+behöver därför arbeta mycket aktivt för att förbättra dess
+vattenkvalitet. Vi har fortsatt utveckla miljöerna längs
+Kungsbackaån; under 2020 från Signeskulle och norrut
+mot Hede, och fem ängsytor i kommunen har iordning-
+ställts och försetts med informationsskyltar.
+Arbetsmarknad och näringsliv
+Kungsbacka har ett diversifierat och fungerande närings-
+liv och fortsatt låg arbetslöshet. Vid mätningar av
+företagsklimat har dock kommunen jämförelsevis låga
+värden. Vi gör, har gjort och fortsätter göra många akti-
+viteter för att förbättra för näringslivet. Under 2020 har
+kommunen stöttat lokala företag inom handel och turism
+genom budskapet ”hemmavid”. Viktiga steg för att ytter-
+ligare främja vårt näringsliv har varit utvecklingen av
+nya verksamhetsområden samt arbetet med Lätt & Rätt
+i Kungsbacka. Framöver ser vi att såväl den kommunala
+organisationen som kommunens näringsliv bör kunna
+vara mer drivande i att förbättra resurseffektiviteten i
+konsumtion och produktion. Vi behöver också bli bättre
+på matcha personer mot rätt arbete.
+Du kan läsa hela hållbarhetsbokslutet för Kungsbacka
+kommun 2020 på www.kungsbacka.se.
+
+Kungsbacka kommuns årsredovisning 2020 25
 
 <!-- sida 16 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
+
+Viktiga     förhållanden        för   resultat
+
+och    ställning
+
+I följande avsnitt presenteras ett urval av faktorer som har
+påverkan på kommunens ekonomiska ställning.
+
+Demografi
+I likhet med landets övriga kommuner ställs Kungsbacka
+kommun inför en förändrad demografi som kommer
+påverka såväl krav som möjlighet att tillhandahålla
+välfärdstjänster. För närvarande märks en utveckling
+där andelen barn och äldre ökar i snabbare takt än den
+arbetsföra befolkningen. Detta innebär på sikt att försörj-
+ningskvoten ökar. I Kungsbacka är försörjningskvoten 87
+under 2020, vilket är detsamma som 2019. Det innebär
+att det på 100 personer i de mest förvärvsaktiva åldrarna
+20–64 år finns 87 personer som är yngre eller äldre.
+
+Under år 2020 blev folkmängden 84 957 personer, vilket
+var en betydligt lägre folkökning jämfört med tidigare år,
+men också mycket lägre än vad vi räknar med framöver.
+Ett skäl som bidrar till minskad folkökning är att det
+byggdes färre bostäder år 2020. En annan tänkbar orsak
+är att pandemin haft inverkan på befolkningens levnads-
+mönster som påverkat in- och utflyttningar. Efter 2020
+förväntas befolkningen att öka dels som följd av de bostä-
+der som väntas uppföras i kommunen och den inflyttning
+som det ger, dels på grund av ett ökat barnafödande.
+Inflyttningen beräknas vara den demografiska kompo-
+nent som främst bidrar till folkökningen. Kommunen
+har omfattande bostadsbyggnadsplaner fram till år 2029,
+därav är folkökningen något större dessa år. Vid utgången
+av år 2029 pekar prognosen på att folkmängden i Kungs-
+backa kommun kommer uppgå till omkring 96 950 perso-
+ner. Enligt senaste befolkningsprognosen väntas Kungs-
+backa passera 86 000 invånare under 2021. Den största
+ökningen sker i åldrarna 20–64 år. Det väntas en relativt
+hög inflyttning och en stor andel av dessa inflyttare är i
+åldrarna 25 till 40 år. Att antalet personer i åldern 25 till
+40 beräknas öka kraftigt medför i sin tur att antalet barn
+i förskoleålder och skolåldrar ökar.
+Tillgång till bostäder
+Kungsbacka kommun är en expansiv kommun belägen i
+en expansiv region. Allt fler vill bosätta sig i kommunen
+vilket är glädjande. Samtidigt ställer detta stora krav på
+produktionen av bostäder i olika former. Ett väl fung-
+erande bostadsbyggande möjliggör även för att företag
+ska kunna etablera sig i kommunen vilket har en positiv
+påverkan på den framtida utvecklingen.
+
+Kompetensförsörjning
+Pensionsavgångar och ökad efterfrågan på välfärdstjäns-
+ter gör att många nya medarbetare behöver rekryteras de
+kommande åren. Brist på arbetskraft och därmed ökad
+konkurrens om arbetskraften ställer krav på kommunen
+att vara en attraktiv arbetsgivare, men också att tänka
+nytt och hitta nya arbetssätt.
+Finansiella risker
+Ränterisk
+
+De senaste åren har inneburit en stadig ökad inves-
+teringsvolym för Kungsbacka kommun. Kommunen
+investerar i nya skolor, äldreboenden, badhus med mera.
+De ökade investeringsvolymerna är ett resultat dels av
+att tidigare anläggningar nått sin tekniska livslängd, dels
+att kommunen växer. I de fall de ökade investerings-
+volymerna inte kan finansieras med årets resultat och
+avskrivningar uppstår ett behov av upplåning och därmed
+en ökad låneskuld. I dagsläget är räntorna historiskt låga.
+En ökad låneskuld medför dock en finansiell risk i de fall
+marknadsräntorna skulle öka framgent. Ökade ränte-
+nivåer medför ökade finansiella kostnader som i sin tur
+minskar utrymmet att finansiera välfärd. Kommunen har
+beslutat om policy för upplåning, vilken följs vid uppta-
+gande av nya lån.
+Borgensåtagande
+Kommunen har ingått borgen till ett totalt belopp om
+3 403 miljoner kronor. Av dessa avser 3 391 miljoner
+borgensåtagande till det helägda kommunala bolaget
+Eksta bostads AB. Därtill har kommunen utfäst borgen-
+såtagande till föreningar om 13 miljoner samt till övriga
+bolag om 10 miljoner. Av borgensåtagandet bedöms åtag-
+andet gentemot föreningar utgöra den största finansiella
+risken. Då dessa utgör en mindre del av det totala bor-
+gensåtagandet bedöms inte kommunens borgensåtagande
+utgöra någon betydande risk.
+Valutarisk
+Kommunen gör mestadels affärer i inhemsk valuta.
+Handel i annan valuta utgör en liten andel. Valutarisken
+bedöms därmed i dagsläget inte utgöra någon betydande
+risk.
+
+26 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
 
 Pensioner
-Viktiga     förhållanden         för  resultat
 Kommunen har ett pensionsåtagande uppgående till 1 747
-och    ställning                                                                    (1 689) miljoner kronor. Ur risksynpunkt är kommunens
+(1 689) miljoner kronor. Ur risksynpunkt är kommunens
 pensionsförpliktelser viktiga att beakta eftersom skulden
 ska finansieras i framtiden. Kungsbacka kommun redo-
 visar pensionsförpliktelserna enligt fullfondsmodellen.
 Detta innebär att ansvarsförbindelsen lyfts in i balans-
-I följande avsnitt presenteras ett urval av faktorer som har
 räkningen som en avsättning. Av nedanstående tabell
-påverkan på kommunens ekonomiska ställning.
 framgår kommunens pensionsåtagande:
-Demografi                         Kompetensförsörjning                              Total pensionsförpliktelse i balansräkningen
+Total pensionsförpliktelse i balansräkningen
 (inkl löneskatt)
-I likhet med landets övriga kommuner ställs Kungsbacka Pensionsavgångar och ökad efterfrågan på välfärdstjäns-
-kommun inför en förändrad demografi som kommer ter gör att många nya medarbetare behöver rekryteras de Varav avsättning 512,5
-påverka såväl krav som möjlighet att tillhandahålla kommande åren. Brist på arbetskraft och därmed ökad Varav ansvarsförbindelse 1 234,8
-välfärdstjänster. För närvarande märks en utveckling konkurrens om arbetskraften ställer krav på kommunen
-Pensionsförpliktelse tryggad  0
-där andelen barn och äldre ökar i snabbare takt än den att vara en attraktiv arbetsgivare, men också att tänka i försäkring
-arbetsföra befolkningen. Detta innebär på sikt att försörj- nytt och hitta nya arbetssätt.
-Summa                       1 747,3
-ningskvoten ökar. I Kungsbacka är försörjningskvoten 87
-Finansiella risker
-under 2020, vilket är detsamma som 2019. Det innebär
-Ränterisk
-att det på 100 personer i de mest förvärvsaktiva åldrarna
-20–64 år finns 87 personer som är yngre eller äldre. De senaste åren har inneburit en stadig ökad inves-
-teringsvolym för Kungsbacka kommun. Kommunen
+Varav avsättning            512,5
+Varav ansvarsförbindelse   1 234,8
+Pensionsförpliktelse tryggad 0
+i försäkring
+Summa                      1 747,3
+
 Skatteintäkter och statsbidrag
-Under år 2020 blev folkmängden 84 957 personer, vilket investerar i nya skolor, äldreboenden, badhus med mera.
-var en betydligt lägre folkökning jämfört med tidigare år, De ökade investeringsvolymerna är ett resultat dels av Bedömning av skatteintäkter och statsbidrag sker utifrån
-men också mycket lägre än vad vi räknar med framöver. att tidigare anläggningar nått sin tekniska livslängd, dels underlag från Sveriges Kommuner och Regioner (SKR).
-Ett skäl som bidrar till minskad folkökning är att det att kommunen växer. I de fall de ökade investerings- Bedömningen sker i kombination med befolkningsprog-
-byggdes färre bostäder år 2020. En annan tänkbar orsak volymerna inte kan finansieras med årets resultat och nosen för kommunen. Avvikelser i befolkningsprognos
-är att pandemin haft inverkan på befolkningens levnads- avskrivningar uppstår ett behov av upplåning och därmed slår därför mot erhållna skatter och statsbidrag. Därtill
-mönster som påverkat in- och utflyttningar. Efter 2020 en ökad låneskuld. I dagsläget är räntorna historiskt låga. bidrar de generella statsbidragen i väsentlig grad. Dessa
-förväntas befolkningen att öka dels som följd av de bostä- En ökad låneskuld medför dock en finansiell risk i de fall är svårare att bedöma då de ytterst hänförs till politiska
-der som väntas uppföras i kommunen och den inflyttning marknadsräntorna skulle öka framgent. Ökade ränte- beslut på riksnivå. Kungsbacka kommun erhåller årligen
-som det ger, dels på grund av ett ökat barnafödande. nivåer medför ökade finansiella kostnader som i sin tur 5 miljarder kronor i skatteintäkter och statsbidrag. Även
-Inflyttningen beräknas vara den demografiska kompo- minskar utrymmet att finansiera välfärd. Kommunen har en mindre procentuell avvikelse får därför stort genom-
-nent som främst bidrar till folkökningen. Kommunen beslutat om policy för upplåning, vilken följs vid uppta- slag.
-har omfattande bostadsbyggnadsplaner fram till år 2029, gande av nya lån.
-därav är folkökningen något större dessa år. Vid utgången
-Borgensåtagande
-av år 2029 pekar prognosen på att folkmängden i Kungs-
-backa kommun kommer uppgå till omkring 96 950 perso- Kommunen har ingått borgen till ett totalt belopp om
-ner. Enligt senaste befolkningsprognosen väntas Kungs- 3 403 miljoner kronor. Av dessa avser 3 391 miljoner
-backa passera 86 000 invånare under 2021. Den största borgensåtagande till det helägda kommunala bolaget
-ökningen sker i åldrarna 20–64 år. Det väntas en relativt Eksta bostads AB. Därtill har kommunen utfäst borgen-
-hög inflyttning och en stor andel av dessa inflyttare är i såtagande till föreningar om 13 miljoner samt till övriga
-åldrarna 25 till 40 år. Att antalet personer i åldern 25 till bolag om 10 miljoner. Av borgensåtagandet bedöms åtag-
-40 beräknas öka kraftigt medför i sin tur att antalet barn andet gentemot föreningar utgöra den största finansiella
-i förskoleålder och skolåldrar ökar. risken. Då dessa utgör en mindre del av det totala bor-
-gensåtagandet bedöms inte kommunens borgensåtagande
-Tillgång till bostäder
-utgöra någon betydande risk.
-Kungsbacka kommun är en expansiv kommun belägen i
-Valutarisk
-en expansiv region. Allt fler vill bosätta sig i kommunen
-vilket är glädjande. Samtidigt ställer detta stora krav på Kommunen gör mestadels affärer i inhemsk valuta.
-produktionen av bostäder i olika former. Ett väl fung- Handel i annan valuta utgör en liten andel. Valutarisken
-erande bostadsbyggande möjliggör även för att företag bedöms därmed i dagsläget inte utgöra någon betydande
-ska kunna etablera sig i kommunen vilket har en positiv risk.
-påverkan på den framtida utvecklingen.
-26 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 27
+Bedömning av skatteintäkter och statsbidrag sker utifrån
+underlag från Sveriges Kommuner och Regioner (SKR).
+Bedömningen sker i kombination med befolkningsprog-
+nosen för kommunen. Avvikelser i befolkningsprognos
+slår därför mot erhållna skatter och statsbidrag. Därtill
+bidrar de generella statsbidragen i väsentlig grad. Dessa
+är svårare att bedöma då de ytterst hänförs till politiska
+beslut på riksnivå. Kungsbacka kommun erhåller årligen
+5 miljarder kronor i skatteintäkter och statsbidrag. Även
+en mindre procentuell avvikelse får därför stort genom-
+slag.
+
+Kungsbacka kommuns årsredovisning 2020 27
 
 <!-- sida 17 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
 Händelser                av    väsentlig
 
@@ -962,126 +1500,270 @@ ekonomisk                 betydelse
 Följande avsnitt beskriver händelser under räkenskapsåret samt eventuella
 händelser efter årets slut som anses vara av väsentlig betydelse.
 
-Köp, försäljningar samt                                                             Statsbidrag med koppling till pandemin Merkostnader med anledning av Covid­19
-och i samband med det övertogs driften av
+Köp, försäljningar samt
 etablering av ny verksamhet
-Kungsbacka badhus och Fjärås simhall av en privat 2020 har präglats av pandemins utveckling, vilket även Sveriges kommuner har under 2020 haft möjlighet att
-Under det gångna året antogs detaljplan för att möjliggöra aktör. Det innebär att en del av vår verksamhet som återspeglar sig i redovisningen. Kungsbacka kommun har söka ersättning från Socialstyrelsen för merkostnader
-byggnation av nytt vård- och omsorgsboende i Skårby. av tradition alltid varit kommunal överläts till privata i likhet med övriga kommuner erhållit utökade gene- med anledning av covid-19 under perioden februari
-Kommunen sålde under året marken till Eksta Bostads näringslivet att sköta.         rella statsbidrag, fått ersättning för sjuklöner, samt haft till november. Möjligheten grundade sig i förordning
-AB som har i uppdrag att bygga och sedan hyra ut till                               möjlighet att få bidrag från Socialstyrelsen för merkost- (2020:193). I januari 2021 flaggade regeringen för att det
-Större investeringar
-kommunen. I samband med projektet kommer även                                       nader med anledning av covid-19 för perioden februari kan finnas utrymme för att även få ersättning för mer-
-kommunen bygga ut infrastruktur i området. Försälj- 2020 var året då Kungsbacka badhus färdigställdes och till november. Nedan framgår omfattningen på de medel kostnader avseende december 2020. Som en vägledning
-ningen genererade en reavinst hos kommunen, som dock öppnades för allmänheten. Investeringen är den största som kommunen erhållit, vilka är direkt kopplade till publicerade Rådet för kommunal redovisning (RKR) ett
-elimineras i sin helhet i de sammanställda räkenskaperna. hittills i Kungsbacka. Merparten av investeringen gjordes pandemin. yttrande kring grunden för att boka upp ersättning avse-
-under 2019, men färdigställdes under 2020.                                          ende december. Slutsatsen från RKR var att någon sådan
-Mark har även sålts i Kolla verksamhetsområde. Totalt                               Känslighetsanalys       Belopp (mkr) möjlighet inte bedömdes finnas då intäktskriterierna inte
-inkluderar projektet tre fastigheter varav en nu är såld. Där- I anslutning till badhuset och Aranäsgymnasiet byggs   var uppfyllda på balansdagen. Skulle kommunerna ges
-Utökat generellt stadsbidrag 153
-till har markanvisning skett för ytterligare en fastighet. för närvarande parkeringshuset Linden för att tillgodose   möjlighet att söka ersättning även för december påverkar
-Avsättning periodiseringsfond  5
-behovet av parkeringsplatser. Investeringen kommer                                  detta därför resultatet 2021.
-Under året genomförde Eksta inom ramen för sitt nybildade fortgå under 2021, men utgör den beloppsmässigt största Krisstöd 1
-dotterbolag Eksta Samhällsfastigheter försäljning av två investeringen under 2020.  Ersättning för sjuklön        49
+Under det gångna året antogs detaljplan för att möjliggöra
+byggnation av nytt vård- och omsorgsboende i Skårby.
+Kommunen sålde under året marken till Eksta Bostads
+AB som har i uppdrag att bygga och sedan hyra ut till
+kommunen. I samband med projektet kommer även
+kommunen bygga ut infrastruktur i området. Försälj-
+ningen genererade en reavinst hos kommunen, som dock
+elimineras i sin helhet i de sammanställda räkenskaperna.
+
+Mark har även sålts i Kolla verksamhetsområde. Totalt
+inkluderar projektet tre fastigheter varav en nu är såld. Där-
+till har markanvisning skett för ytterligare en fastighet.
+Under året genomförde Eksta inom ramen för sitt nybildade
+dotterbolag Eksta Samhällsfastigheter försäljning av två
 skolfastigheter, där Vittraskolan och Nova har verksam-
-Merkostnader Covid-19         23
-het, samt fastigheten som inrymmer Fjärås vårdcentral. Mer om investeringar under året finns att läsa under
-Totalt                       231
-Syftet med försäljningen var ökad egenfinansiering i investeringsredovisningen.
+het, samt fastigheten som inrymmer Fjärås vårdcentral.
+Syftet med försäljningen var ökad egenfinansiering i
 kommande nyproduktion av hyresrätter, vilket innebär
-Betydande rättstvister
 att behovet av nya lån och borgensåtagande för kommu-
-nen minskar.                      I samband med bokslutet fanns ett antal tvister som                                                             Bildtext
-FOTO: xxxx xxxx
+nen minskar.
+
+Efter många års planering stod den största investeringen i
+Kungsbackas moderna historia, Kungsbacka badhus, klar
+
+och i samband med det övertogs driften av
+Kungsbacka badhus och Fjärås simhall av en privat
+aktör. Det innebär att en del av vår verksamhet som
+av tradition alltid varit kommunal överläts till privata
+näringslivet att sköta.
+Större investeringar
+2020 var året då Kungsbacka badhus färdigställdes och
+öppnades för allmänheten. Investeringen är den största
+hittills i Kungsbacka. Merparten av investeringen gjordes
+under 2019, men färdigställdes under 2020.
+
+I anslutning till badhuset och Aranäsgymnasiet byggs
+för närvarande parkeringshuset Linden för att tillgodose
+behovet av parkeringsplatser. Investeringen kommer
+fortgå under 2021, men utgör den beloppsmässigt största
+investeringen under 2020.
+
+Mer om investeringar under året finns att läsa under
+investeringsredovisningen.
+Betydande rättstvister
+I samband med bokslutet fanns ett antal tvister som
 redogörs för i nedanstående tabell. Av dessa är de tvister
-Efter många års planering stod den största investeringen i där beloppet är möjligt att fastställa med rimlig säkerhet
-Kungsbackas moderna historia, Kungsbacka badhus, klar hanterade i bokslutet.
-Tvisten avser             Nämnd                     Belopp i Hänsyn tagen
+där beloppet är möjligt att fastställa med rimlig säkerhet
+hanterade i bokslutet.
+
+Tvisten avser              Nämnd                    Belopp i Hänsyn tagen
 mkr   i bokslut
 Tvistiga fakturor avseende verksamhetssystem Förskola, Grundskola samt 5,2 Ja
 Gymnasium och arbetsmarknad
-BILD
-Fastighetsärende          Kommunstyrelsen             10,1      Ja
+Fastighetsärende           Kommunstyrelsen            10,1      Ja
 Ersättningar för självrisker samt regresskrav Teknik Oklart    Nej
-efter vattenskador som följd av skyfall                                                                                     Corona, etc
-Demografi, befolkningsförändring
-Tvister, samt diverse ekonomi
+efter vattenskador som följd av skyfall
+
 Bildtext                          Bildtext
 FOTO: xxxx xxxx                   FOTO: xxxx xxxx
-28 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 29
+
+28 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
+
+Statsbidrag med koppling till pandemin Merkostnader med anledning av Covid­19
+
+2020 har präglats av pandemins utveckling, vilket även
+återspeglar sig i redovisningen. Kungsbacka kommun har
+i likhet med övriga kommuner erhållit utökade gene-
+rella statsbidrag, fått ersättning för sjuklöner, samt haft
+möjlighet att få bidrag från Socialstyrelsen för merkost-
+nader med anledning av covid-19 för perioden februari
+till november. Nedan framgår omfattningen på de medel
+som kommunen erhållit, vilka är direkt kopplade till
+pandemin.
+Känslighetsanalys       Belopp (mkr)
+Utökat generellt stadsbidrag 153
+
+Avsättning periodiseringsfond 5
+Krisstöd                      1
+
+Sveriges kommuner har under 2020 haft möjlighet att
+söka ersättning från Socialstyrelsen för merkostnader
+med anledning av covid-19 under perioden februari
+till november. Möjligheten grundade sig i förordning
+(2020:193). I januari 2021 flaggade regeringen för att det
+kan finnas utrymme för att även få ersättning för mer-
+kostnader avseende december 2020. Som en vägledning
+publicerade Rådet för kommunal redovisning (RKR) ett
+yttrande kring grunden för att boka upp ersättning avse-
+ende december. Slutsatsen från RKR var att någon sådan
+möjlighet inte bedömdes finnas då intäktskriterierna inte
+var uppfyllda på balansdagen. Skulle kommunerna ges
+möjlighet att söka ersättning även för december påverkar
+detta därför resultatet 2021.
+
+Ersättning för sjuklön        49
+Merkostnader Covid-19         23
+Totalt                       231
+
+Bildtext
+FOTO: xxxx xxxx
+
+BILD
+
+Corona, etc
+Demografi, befolkningsföränd
+Tvister, samt diverse ekonomi
+
+Kungsbacka kommuns årsredovisning 2020 29
 
 <!-- sida 18 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
-sanningar och våga pröva nya idéer. Då behövs en kultur kvantitativa resultat genom indikatorerna kopplade till
-Styrning             och       uppföljning                av
-med kundens fokus och att vi litar på varandra och drar varje mål.
-åt samma håll. Vi har gemensamt utvecklat vår arbets-
-platskultur med hörnstenarna – vi välkomnar, vi tänker Vid sidan av mål och direktiv följs ett stort antal verk-
+Styrning             och      uppföljning                 av
+
 den       kommunala                   verksamheten
-nytt, vi samarbetar och vi levererar – utifrån visionens samhetsnyckeltal upp i nämnderna och på kommunnivå.
-slutord: Här jobbar människor som vill, vågar och kan. Många nyckeltal kan också jämföras med andra kommu-
-När vi agerar utifrån arbetsplatskulturen får de som bor, ner och liknande verksamheter. Det gör vi bland annat
-verkar och vistas i kommunen ett gott bemötande, vi är genom att delta i ett samarbete lett av SKR kallat KKiK,
-tillgängliga och möjliggör för inflytande och medska- kommunernas kvalitet i korthet, som publiceras i databa-
+
 Förvaltningsberättelsen ska innehålla upplysningar om andra f örhållanden
-pande, vilket skapar trygghet för dem vi är till för. sen KOLADA.
 som är av betydelse för styrningen och uppföljningen av den kommunala
-koncernens och kommunens verksamhet. I avsnittet nedan lämnas u pplysningar         Övergripande planer och program
-Flera av kommunens verksamheter har också ett kvali-
+koncernens och kommunens verksamhet. I avsnittet nedan lämnas u pplysningar
 om väsentliga aspekter av styrning, uppföljning och intern kontroll.
-Utöver kommunövergripande mål och direktiv som tetsarbete i enlighet med speciallagarnas krav. Exempel
-beslutas i samband med budgeten finns ytterligare styr- är skollagens krav (kapitel 4:2-8) på systematiskt kvali-
-dokument. Dessa uttrycker fullmäktiges ambitioner för tetsarbete, och Socialstyrelsens föreskrifter och allmänna
-ett antal sakfrågeområden och är riktade till fler än en råd (SOSFS 2011:9) om ledningssystem för ett systema-
-nämnd. Exempel på sådana dokument är: tiskt kvalitetsarbete som gäller för hälso- och sjukvård,
-• Översiktsplan                   socialtjänst och stöd och service till vissa funktionshin-
-• Mål för bostadsbyggande         drade. Detta arbete redovisas till nämnderna, till berörda
-• Ny mark för näringslivet, handlingsplan tillsynsmyndigheter och som nationell statistik.
-Uppföljning av intern kontroll
-Beslutad budget följs upp samlat för Kungsbacka
-kommun tre gånger om året. Detta sker per april, augusti I Kungsbacka arbetar vi med intern kontroll i en årlig
-samt december. Uppföljningarna per augusti och decem- process som följs upp med en egen rapport - intern
-ber, som tillika är lagstyrda, rapporteras till kommun- kontrollrapport för Kungsbacka kommun. Varje år tar
-fullmäktige. Dessa bokslut inkluderar Kungsbacka nämnderna fram internkontrollplaner, som bygger på
-kommun samt en sammanställd redovisning innehål- riskanalys. Riskerna ska avse hela nämndens verksam-
-lande det kommunala koncernföretaget Eksta Bostads hetsområde samt några centralt förutbestämda områden
-AB. Uppföljningen per april innefattar en prognos per inom HR, ekonomi och administration/information/
-helår och rapporteras till kommunstyrelsen. Kommun- IT. Resultatet av de genomförda granskningarna och
-styrelsen har därefter inom ramen för sin uppsiktplikt tillhörande förbättringsarbete under året sammanfattas
-möjlighet att vid behov lyfta ärendet vidare till kommun- av varje nämnd i en intern kontrollrapport.
-fullmäktige för beslut.
-Ansvaret för arbetet med intern kontroll regleras i
-Nämnderna har ansvar för att hålla sina nettokostnader Kommunallagen kapitel 6:7, av reglementen för kom-
-inom tilldelad ram. Nämnderna upprättar rutiner för munstyrelse och nämnder och genom våra ekonomiska
-budgetuppföljning och intern kontroll vilket i praktiken styrprinciper.
-innebär att de följer upp sin verksamhet tätare än de
+
+Målstyrning
+Kommunfullmäktige styr nämnderna genom mål och
+medel. För Eksta Bostads AB finns ägardirektiv och
+för Stiftelsen Tjolöholms slott stadgar. Fullmäktige
+tilldelar varje nämnd en ekonomisk ram och fastställer
+kommunövergripande mål som adresseras till de olika
+nämnderna. Fullmäktige har utifrån visionen beslutat om
+fem kommunövergripande mål som preciseras i fokus-
+områden där det behövs kraftsamling. Fokusområdena
+kan brytas ned i nämndmål. Hur förvaltningarna arbetar
+med målen beskrivs i genomförandeplaner som är en del
+av förvaltningsbudgeten. På detta sätt säkerställs att de
+politiska prioriteringarna får genomslag i verksamheterna
+och den röda tråden från våra förtroendevalda till invå-
+narna i Kungsbacka blir tydlig.
+
+30 Kungsbacka kommuns årsredovisning 2020
+
 Kungsbacka kommuns styrmodell
-centrala uppföljningarna i april och augusti. Det finns inte en entydig definition av intern kontroll,
-men syfte innehåll och värde kan beskrivas som att intern
-Målstyrning                       Direktiv
-För att ha en smidig hantering av de avvikelser som kontroll bidrar till:
-Kommunfullmäktige styr nämnderna genom mål och Utöver kommunövergripande mål styr kommunfullmäk- uppstår vid årsskiftet finns ett system för resultatfonder. • att verksamheten når sina mål – med effektivitet, säker-
-medel. För Eksta Bostads AB finns ägardirektiv och tige med direktiv. För 2020 har fullmäktige beslutat om Principen är att alla överskott som beror på effektivi- het och stabilitet
-för Stiftelsen Tjolöholms slott stadgar. Fullmäktige ett direktiv. Direktivet syftar till att uppfylla strategin seringar eller besparingar tas med i en resultatfond. • att informationen och rapporteringen om verksam-
-tilldelar varje nämnd en ekonomisk ram och fastställer med att fler jobbar mer och att vara en attraktiv arbets- Om nämnden får ett underskott kan detta täckas med heten och ekonomin är tillförlitlig och rättvisande
-kommunövergripande mål som adresseras till de olika givare. Kungsbacka vill att medarbetare ska ha möjlighet resultatfonden. Fonden redovisas sidoordnat i en not till • att verksamheten efterlever lagar, regler, avtal med
-nämnderna. Fullmäktige har utifrån visionen beslutat om att jobba efter pensionsåldern. Mycket kompetens finns det egna kapitalet. mera.
-fem kommunövergripande mål som preciseras i fokus- hos dessa medarbetare och många vill arbeta men i andra
-Kvalitetsuppföljning
-områden där det behövs kraftsamling. Fokusområdena former. Med bakgrund i detta gavs kommundirektören
-kan brytas ned i nämndmål. Hur förvaltningarna arbetar i samband med budgetbeslutet för 2020 i uppdrag att ta Uppföljningen av fullmäktiges mål är den bärande delen
-med målen beskrivs i genomförandeplaner som är en del fram ett regelverk med ett antal olika valmöjligheter för i kommunens kvalitetsuppföljning. Samtliga nämnder
-av förvaltningsbudgeten. På detta sätt säkerställs att de att jobba efter pensionsåldern. lämnar en kvalitativ redovisning över arbetet med att
-politiska prioriteringarna får genomslag i verksamheterna                           fördela resurser och att bidra till att uppfylla de kom-
+
+Direktiv
+Utöver kommunövergripande mål styr kommunfullmäk-
+tige med direktiv. För 2020 har fullmäktige beslutat om
+ett direktiv. Direktivet syftar till att uppfylla strategin
+med att fler jobbar mer och att vara en attraktiv arbets-
+givare. Kungsbacka vill att medarbetare ska ha möjlighet
+att jobba efter pensionsåldern. Mycket kompetens finns
+hos dessa medarbetare och många vill arbeta men i andra
+former. Med bakgrund i detta gavs kommundirektören
+i samband med budgetbeslutet för 2020 i uppdrag att ta
+fram ett regelverk med ett antal olika valmöjligheter för
+att jobba efter pensionsåldern.
 Värdegrund – arbetsplatskultur
-och den röda tråden från våra förtroendevalda till invå-                            munövergripande målen inom nämnden. På kommun-
-narna i Kungsbacka blir tydlig.   Värdegrunden handlar om förhållningssättet gentemot nivå görs en sammanvägd bedömning av måluppfyllelsen,
-kommuninvånarna. För att framtiden ska växa och ta fart med grund i nämndernas redogörelse tillsammans med
+Värdegrunden handlar om förhållningssättet gentemot
+kommuninvånarna. För att framtiden ska växa och ta fart
 hos oss behöver vi tänka i nya banor, ifrågasätta gamla
-30 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 31
+
+sanningar och våga pröva nya idéer. Då behövs en kultur
+med kundens fokus och att vi litar på varandra och drar
+åt samma håll. Vi har gemensamt utvecklat vår arbets-
+platskultur med hörnstenarna – vi välkomnar, vi tänker
+nytt, vi samarbetar och vi levererar – utifrån visionens
+slutord: Här jobbar människor som vill, vågar och kan.
+När vi agerar utifrån arbetsplatskulturen får de som bor,
+verkar och vistas i kommunen ett gott bemötande, vi är
+tillgängliga och möjliggör för inflytande och medska-
+pande, vilket skapar trygghet för dem vi är till för.
+Övergripande planer och program
+Utöver kommunövergripande mål och direktiv som
+beslutas i samband med budgeten finns ytterligare styr-
+dokument. Dessa uttrycker fullmäktiges ambitioner för
+ett antal sakfrågeområden och är riktade till fler än en
+nämnd. Exempel på sådana dokument är:
+• Översiktsplan
+• Mål för bostadsbyggande
+• Ny mark för näringslivet, handlingsplan
+Beslutad budget följs upp samlat för Kungsbacka
+kommun tre gånger om året. Detta sker per april, augusti
+samt december. Uppföljningarna per augusti och decem-
+ber, som tillika är lagstyrda, rapporteras till kommun-
+fullmäktige. Dessa bokslut inkluderar Kungsbacka
+kommun samt en sammanställd redovisning innehål-
+lande det kommunala koncernföretaget Eksta Bostads
+AB. Uppföljningen per april innefattar en prognos per
+helår och rapporteras till kommunstyrelsen. Kommun-
+styrelsen har därefter inom ramen för sin uppsiktplikt
+möjlighet att vid behov lyfta ärendet vidare till kommun-
+fullmäktige för beslut.
+Nämnderna har ansvar för att hålla sina nettokostnader
+inom tilldelad ram. Nämnderna upprättar rutiner för
+budgetuppföljning och intern kontroll vilket i praktiken
+innebär att de följer upp sin verksamhet tätare än de
+centrala uppföljningarna i april och augusti.
+
+För att ha en smidig hantering av de avvikelser som
+uppstår vid årsskiftet finns ett system för resultatfonder.
+Principen är att alla överskott som beror på effektivi-
+seringar eller besparingar tas med i en resultatfond.
+Om nämnden får ett underskott kan detta täckas med
+resultatfonden. Fonden redovisas sidoordnat i en not till
+det egna kapitalet.
+Kvalitetsuppföljning
+Uppföljningen av fullmäktiges mål är den bärande delen
+i kommunens kvalitetsuppföljning. Samtliga nämnder
+lämnar en kvalitativ redovisning över arbetet med att
+fördela resurser och att bidra till att uppfylla de kom-
+munövergripande målen inom nämnden. På kommun-
+nivå görs en sammanvägd bedömning av måluppfyllelsen,
+med grund i nämndernas redogörelse tillsammans med
+
+FÖRVALTNINGSBERÄTTELSE
+
+kvantitativa resultat genom indikatorerna kopplade till
+varje mål.
+
+Vid sidan av mål och direktiv följs ett stort antal verk-
+samhetsnyckeltal upp i nämnderna och på kommunnivå.
+Många nyckeltal kan också jämföras med andra kommu-
+ner och liknande verksamheter. Det gör vi bland annat
+genom att delta i ett samarbete lett av SKR kallat KKiK,
+kommunernas kvalitet i korthet, som publiceras i databa-
+sen KOLADA.
+Flera av kommunens verksamheter har också ett kvali-
+tetsarbete i enlighet med speciallagarnas krav. Exempel
+är skollagens krav (kapitel 4:2-8) på systematiskt kvali-
+tetsarbete, och Socialstyrelsens föreskrifter och allmänna
+råd (SOSFS 2011:9) om ledningssystem för ett systema-
+tiskt kvalitetsarbete som gäller för hälso- och sjukvård,
+socialtjänst och stöd och service till vissa funktionshin-
+drade. Detta arbete redovisas till nämnderna, till berörda
+tillsynsmyndigheter och som nationell statistik.
+Uppföljning av intern kontroll
+I Kungsbacka arbetar vi med intern kontroll i en årlig
+process som följs upp med en egen rapport - intern
+kontrollrapport för Kungsbacka kommun. Varje år tar
+nämnderna fram internkontrollplaner, som bygger på
+riskanalys. Riskerna ska avse hela nämndens verksam-
+hetsområde samt några centralt förutbestämda områden
+inom HR, ekonomi och administration/information/
+IT. Resultatet av de genomförda granskningarna och
+tillhörande förbättringsarbete under året sammanfattas
+av varje nämnd i en intern kontrollrapport.
+
+Ansvaret för arbetet med intern kontroll regleras i
+Kommunallagen kapitel 6:7, av reglementen för kom-
+munstyrelse och nämnder och genom våra ekonomiska
+styrprinciper.
+Det finns inte en entydig definition av intern kontroll,
+men syfte innehåll och värde kan beskrivas som att intern
+kontroll bidrar till:
+• att verksamheten når sina mål – med effektivitet, säker-
+het och stabilitet
+• att informationen och rapporteringen om verksam-
+heten och ekonomin är tillförlitlig och rättvisande
+• att verksamheten efterlever lagar, regler, avtal med
+mera.
+
+Kungsbacka kommuns årsredovisning 2020 31
 
 <!-- sida 19 -->
 
@@ -1096,102 +1778,157 @@ och       ekonomisk                 ställning
 Trygghet  Anmälda brott per invånare (antal/100 000 inv) Minska 5 201 4 729 4 338 5 087
 Delaktighet och Hushåll med ekonomiskt bistånd som erhållit bistånd i 10–12 Minska 0,8 0,9 0,9 \*
 inflytande månader under året (andel av befolkningen, i %)
+
 God    ekonomisk         hushållning                                                          Långtidsarbetslöshet 25–64 år (andel av befolkningen, (%) Minska 1,4 1,5 1,6 1,5
 Grundläggande Elever i årskurs 9 som är behöriga till ett yrkesprogram, (%) Öka 86,3 90,6 89,0 92,5
 utbildning
+
 Gymnasieelever som fullföljer sin utbildning inom 4 år; (%) Öka 87,7 85,5 86,9 88,3
 Hållbar utveckling är ett viktigt begrepp för Kungs- Kommunövergripande mål och fokusområden för verk-
-backas långsiktiga planering. Social, ekonomisk och samheten ska bidra till att resurserna används till rätt
-\*Nyckeltalet publiceras under våren.
-ekologisk hållbarhet är lika viktiga och ömsesidigt saker och att de används på ett effektivt sätt.
+
+backas långsiktiga planering. Social, ekonomisk och
+ekologisk hållbarhet är lika viktiga och ömsesidigt
 beroende av varandra.
+
+God ekonomisk hushållning handlar om att styra eko-
+nomin både i ett kortare och längre tidsperspektiv. Det
+förutsätter ett långsiktigt tänkande. För att säkerställa
+det, krävs att varje generation står för de kostnader de ger
+upphov till. Kungsbacka kommun ska som ansvarig för
+förvaltningen av medborgarnas skattepengar, sträva efter
+att dessa används kostnadseffektivt och ändamålsenligt.
+De ekonomiska medlen utgör en restriktion för verksam-
+hetens omfattning.
+
+samheten ska bidra till att resurserna används till rätt
+saker och att de används på ett effektivt sätt.
+
 För att mäta om god ekonomisk hushållning
-God ekonomisk hushållning handlar om att styra eko- uppnåtts följer vi nyckeltal inom de tre områdena Under året har samhället präglats av restriktioner i har gymnasieexamen inom fyra år på introduktions-
-nomin både i ett kortare och längre tidsperspektiv. Det ekonomisk hållbarhet, social hållbarhet och vardagen, ökad oro för många och ändrade prioriteringar. program, vilket kan skapa utanförskap och större risk för
-förutsätter ett långsiktigt tänkande. För att säkerställa ekologisk hållbarhet. Målet är att nyckeltalen ska Samtidigt som detta har satt samhället i gungning har psykisk ohälsa. Vi behöver fokusera på hur denna trend
-det, krävs att varje generation står för de kostnader de ger förbättras eller vara oförändrade. För att målet om god det också skett stora insatser för att säkerställa den sociala kan vändas. I jämställdhetsarbetet handlar det mycket
-upphov till. Kungsbacka kommun ska som ansvarig för ekonomisk hushållning ska vara uppnått, görs en samlad hållbarheten. Prioriteringar och nytänkande lösningar om bemötande och beteendeförändringar och vi behöver
-förvaltningen av medborgarnas skattepengar, sträva efter bedömning av samtliga indikatorer nedan samt med har löst vardagen inom bland annat skolan och omsorgen, ha jämställdhetsglasögonen på i allt vårt arbete.
-att dessa används kostnadseffektivt och ändamålsenligt. hänsyn tagen till Eksta Bostads AB:s bidrag till dessa. samtidigt som många nya former för samtalet med våra Fler nyanlända, ofta med stora barnfamiljer kräver
-De ekonomiska medlen utgör en restriktion för verksam-                              invånare och företagare och ett ökat hållbarhetsfokus att kommunen håller fokus på barnperspektivet. Språ-
-hetens omfattning.                                                                  inom samhällsbyggnad bådar gott för framtiden. ket konstateras fortsatt vara den viktigaste faktorn för
-integration. Eksta tillsammans med kommunen och
+uppnåtts följer vi nyckeltal inom de tre områdena
+ekonomisk hållbarhet, social hållbarhet och
+ekologisk hållbarhet. Målet är att nyckeltalen ska
+förbättras eller vara oförändrade. För att målet om god
+ekonomisk hushållning ska vara uppnått, görs en samlad
+bedömning av samtliga indikatorer nedan samt med
+hänsyn tagen till Eksta Bostads AB:s bidrag till dessa.
+
+\*Nyckeltalet publiceras under våren.
+
+Under året har samhället präglats av restriktioner i
+vardagen, ökad oro för många och ändrade prioriteringar.
+Samtidigt som detta har satt samhället i gungning har
+det också skett stora insatser för att säkerställa den sociala
+hållbarheten. Prioriteringar och nytänkande lösningar
+har löst vardagen inom bland annat skolan och omsorgen,
+samtidigt som många nya former för samtalet med våra
+invånare och företagare och ett ökat hållbarhetsfokus
+inom samhällsbyggnad bådar gott för framtiden.
+
 Ekonomisk hållbarhet
-Kungsbacka är en trygg kommun med högt valdelta- Brixly AB har fortsatt med projektet Lärande bygg där
-gande och stor tillit till demokratin. Förutsättningarna nyanlända går en arbetsplatsförlagd lärlingsutbildning
-Område       Indikator               Mått       2017 2018 2019 2020                för ett gott liv är fortsatt stora och kommunen ligger väl för byggnadsarbetare. Under 2020 avslutades omgång tre
+Kungsbacka är en trygg kommun med högt valdelta-
+gande och stor tillit till demokratin. Förutsättningarna
+Område       Indikator               Mått      2017  2018 2019 2020                för ett gott liv är fortsatt stora och kommunen ligger väl
 (procent)
-till i både globalt och nationellt perspektiv. Vi ser att som utvecklats till att även innehålla måleri. Samman-
-Resultat     Resultatets förmåga att finansiera investe- Minst 2 % 3,6 3,6 4,2 7,9 ungdomars psykiska hälsa är en utmaning som vi behöver fattningsvis behöver det fortsatt vara högt prioriterat för
+till i både globalt och nationellt perspektiv. Vi ser att
+Resultat     Resultatets förmåga att finansiera investe- Minst 2 % 3,6 3,6 4,2 7,9 ungdomars psykiska hälsa är en utmaning som vi behöver
 ringar och möta oväntade kostnader av skatt och
-arbeta med. Kungsbacka fortsätter erbjuda en variation kommunen att hitta, skapa eller facilitera medskapande
+arbeta med. Kungsbacka fortsätter erbjuda en variation
 statsbidrag
-av tillgängliga skolor och lärmiljöer som är inkluderande för olika aktörer i kommunen för att bidra till ett
+av tillgängliga skolor och lärmiljöer som är inkluderande
 Balansräkning Soliditet kommunen     Oförändrad 28,8 28,4 31,5 33,3
-och trygga och som i ett nationellt perspektiv uppvisar hållbart samhälle.
+och trygga och som i ett nationellt perspektiv uppvisar
 eller ökande
 goda resultat. Vi ser en markant nedgång bland män som
 Soliditet koncernen                20,3 20,5 22,8 25,0
-Eksta        Ägardirektivet
+
+har gymnasieexamen inom fyra år på introduktions-
+program, vilket kan skapa utanförskap och större risk för
+psykisk ohälsa. Vi behöver fokusera på hur denna trend
+kan vändas. I jämställdhetsarbetet handlar det mycket
+om bemötande och beteendeförändringar och vi behöver
+ha jämställdhetsglasögonen på i allt vårt arbete.
+Fler nyanlända, ofta med stora barnfamiljer kräver
+att kommunen håller fokus på barnperspektivet. Språ-
+ket konstateras fortsatt vara den viktigaste faktorn för
+integration. Eksta tillsammans med kommunen och
+Brixly AB har fortsatt med projektet Lärande bygg där
+nyanlända går en arbetsplatsförlagd lärlingsutbildning
+för byggnadsarbetare. Under 2020 avslutades omgång tre
+som utvecklats till att även innehålla måleri. Samman-
+fattningsvis behöver det fortsatt vara högt prioriterat för
+kommunen att hitta, skapa eller facilitera medskapande
+för olika aktörer i kommunen för att bidra till ett
+hållbart samhälle.
+
+Eksta         Ägardirektivet
 \*se kommentarer och uppföljning i texten nedan
+
 \* 2019 års jämförelsetal är justerat med anledning av ändrad redovisningsprincip avseende investeringsbidrag. Ekologisk hållbarhet
-Område    Indikator                        Mått   2017 2018 2019 2020
+
+Område   Indikator                         Mått   2017 2018 2019 2020
+
 Resultatets andel av skatter och statsbidrag 2020 är Exkluderas effekten av detta sjönk soliditeten med Resurs Energiförbrukning i kommunens lokaler Minska 156 151 150 153
 7,9 procent. Resultatet förklaras till stor del av högre 0,9 procentenheter 2019. Ökningen 2020 beror på det (tillförd energi, kWh/m2)
+
 intäkter i form av skatter och statsbidrag samt intäkter starka resultatet 2020.
 Resor med kollektivtrafikresor/inv. Öka  66   73  74   \*
 från exploateringsverksamheten. Soliditeten i kommunen
+
 ligger på 33,3 procent. Under 2019 gjordes en avsättning Koncernens soliditet är 25 procent 2020 vilket är en Hushållsavfall som återvinns (andel av totalt Öka 42 40 43 \*
 till Svinholmens deponi samt nyupplåning med 400 ökning med 2,2 procentenheter från 2019. Även här är hushållsavfall ska öka
+
 miljoner kronor. Under 2020 har nyupplåning skett med jämförelsetalet för 2019 korrigerat på grund av ändrad Förnybar energi Byggnader med förnybar energi samt restvärme Öka 99 99 99 99
 200 miljoner kronor och kommunens totala låneskuld är redovisningsprincip. Av bolagets ägardirektiv framgår att i kommunens lokaler (%)
-i delåret 1 550 miljoner kronor. Då Kungsbacka kommun soliditeten långsiktigt ska uppgå till 20 procent. Att öka
-Förnybart drivmedel i kommunens bilar (%) Öka 27 45 57 63
-redovisar pensioner enligt fullfonderingsmodellen bostadsproduktionen i Eksta samtidigt med bibehållen
-analyseras ofta soliditeten inklusive hela pensionsåtagandet. soliditet är svårt. Samtidigt finns ett övervärde i fastig-
-\*Nyckeltalet publiceras under våren.
-Soliditeten har under perioden legat stabilt runt hetsbeståndet och med hänsyn taget till det uppnås det
-28 procent. 2019 års ökning beror i sin helhet på ändrad långsiktiga målet.
+
+i delåret 1 550 miljoner kronor. Då Kungsbacka kommun
+redovisar pensioner enligt fullfonderingsmodellen
+analyseras ofta soliditeten inklusive hela pensionsåtagandet.
+Soliditeten har under perioden legat stabilt runt
+28 procent. 2019 års ökning beror i sin helhet på ändrad
 redovisningsprincip avseende privata investeringsbidrag.
+
+soliditeten långsiktigt ska uppgå till 20 procent. Att öka
+Förnybart drivmedel i kommunens bilar (%) Öka 27 45 57 63
+bostadsproduktionen i Eksta samtidigt med bibehållen
+soliditet är svårt. Samtidigt finns ett övervärde i fastig-
+\*Nyckeltalet publiceras under våren.
+hetsbeståndet och med hänsyn taget till det uppnås det
+långsiktiga målet.
+
 32 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 33
 
 <!-- sida 20 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
 Trots rådande pandemi så har flera initiativ och arbeten
 gjorts för att öka den ekologiska hållbarheten. Ett förslag
 till ny översiktsplan har tagits fram som kan samordna
-50%
 kostnader för infrastruktur och service, skapa förut-
 sättningar för stärkt näringslivsutveckling samt skydda
-naturresurser för en hållbar ekonomisk, social och miljö- av Ekstas
-mässig utveckling. Miljöarbetet fortsätter och kännedomen fordonspark
-om nationella miljömål och globala hållbarhetsmålen är elbilar.
+naturresurser för en hållbar ekonomisk, social och miljö-
+mässig utveckling. Miljöarbetet fortsätter och kännedomen
+om nationella miljömål och globala hållbarhetsmålen
 ökar. Med Borgmästaravtalet som grund har en stor för-
 ändring skett i kommunens fordonspark samtidigt som
-solcellsutbyggnaden fortsatt och medvetenheten om skydda naturresurser för en hållbar ekonomisk, social
-koldioxidutsläppens betydelse ökar. Fler som arbetar och miljömässig utveckling. Med Borgmästaravtalet som
-hemifrån betyder färre arbetsresor. Hur det totala resandet grund har även en stor förändring skett i kommunens
-såg ut 2020 får vi vänta lite med att utvärdera men sanno- fordonspark samtidigt som solcellsutbyggnaden fortsatt
-likt kan effekterna av pandemin ha inneburit ett mindre och medvetenheten om koldioxidutsläppens betydelse
-totalt resande och därmed också lägre utsläpp. ökar. Fler som arbetar hemifrån betyder också färre
-arbetsresor.
+solcellsutbyggnaden fortsatt och medvetenheten om
+koldioxidutsläppens betydelse ökar. Fler som arbetar
+hemifrån betyder färre arbetsresor. Hur det totala resandet
+såg ut 2020 får vi vänta lite med att utvärdera men sanno-
+likt kan effekterna av pandemin ha inneburit ett mindre
+totalt resande och därmed också lägre utsläpp.
 Kommunens bostadsbolag Ekstas arbete med ekologisk
-hållbarhet är mycket positivt för koncernen och som Genom att säkerställa att vi nyttjar resurserna effektivt
-exempel kan nämnas Ekstas produktion av solenergi. skapar vi förutsättningar för att möta kommande behov
-Ekstas energianvändning under 2020 har varit rekordlåg, utan att äventyra en långsiktigt hållbar ekonomi. En
-94 kWh/m2. Bolaget har idag 46 solcellsanläggningar stabil ekonomisk grund ger oss goda förutsättningar att
-och 43 solvärmeanläggningar. Eksta fortsätter byta ut möta oförutsägbara händelser. Detta har vi sett prov på
-sin fordonspark mot elbilar och 2020 var andelen elbilar under året då många verksamheter har behövt anpassa
-50 procent. Fjärrvärmeverksamhet har levererat förnybar arbetet efter rådande omständigheter. Ekstas bidrag till
-energi på totalt 98 procent. Andelen återvunnet material god ekonomisk hushållning stärker koncernens möjlighet
-har under 2020 ökat med 20 procent. att förbättras inom främst social och ekologisk hållbarhet.
-Den samlade bedömningen är att god ekonomisk hus-
+hållbarhet är mycket positivt för koncernen och som
+exempel kan nämnas Ekstas produktion av solenergi.
+Ekstas energianvändning under 2020 har varit rekordlåg,
+94 kWh/m2. Bolaget har idag 46 solcellsanläggningar
+och 43 solvärmeanläggningar. Eksta fortsätter byta ut
+sin fordonspark mot elbilar och 2020 var andelen elbilar
+50 procent. Fjärrvärmeverksamhet har levererat förnybar
+energi på totalt 98 procent. Andelen återvunnet material
+har under 2020 ökat med 20 procent.
 Samlad bedömning av god
-hållning totalt sett är uppfylld för Kungsbacka kommun
 ekonomisk hushållning
-och koncernen 2020.
 I Kungsbacka mäts god ekonomisk hushållning utifrån
 perspektiven ekonomisk, ekologisk samt social hållbarhet.
 Det ekonomiska resultatet och soliditeten i kommunen
@@ -1205,6 +1942,7 @@ Kungsbacka är en trygg kommun med högt valdeltagande
 och stor tillit till demokratin. Förutsättningarna för ett
 gott liv är fortsatt stora och kommunen ligger väl till i
 både global och nationellt perspektiv.
+
 För att Kungsbacka ska kunna fortsätta att växa med en
 långsiktigt hållbar ekonomi måste effekterna av en sti-
 gande befolkningsmängd och en demografisk utveckling
@@ -1215,30 +1953,74 @@ tekniska försörjningssystem och infrastruktur innebär
 stora ekonomiska utmaningar som måste hanteras med
 fokus på ett långsiktigt hållbart Kungsbacka. Under året
 har ett förslag till ny översiktsplan tagits fram som kan
-samordna kostnader för infrastruktur och service, skapa           Bildtext
-förutsättningar för stärkt näringslivsutveckling samt         FOTO: xxxx xxxx
-34 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 35
+samordna kostnader för infrastruktur och service, skapa
+förutsättningar för stärkt näringslivsutveckling samt
+
+34 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
+
+50%
+
+av Ekstas
+fordonspark
+är elbilar.
+
+skydda naturresurser för en hållbar ekonomisk, social
+och miljömässig utveckling. Med Borgmästaravtalet som
+grund har även en stor förändring skett i kommunens
+fordonspark samtidigt som solcellsutbyggnaden fortsatt
+och medvetenheten om koldioxidutsläppens betydelse
+ökar. Fler som arbetar hemifrån betyder också färre
+arbetsresor.
+
+Genom att säkerställa att vi nyttjar resurserna effektivt
+skapar vi förutsättningar för att möta kommande behov
+utan att äventyra en långsiktigt hållbar ekonomi. En
+stabil ekonomisk grund ger oss goda förutsättningar att
+möta oförutsägbara händelser. Detta har vi sett prov på
+under året då många verksamheter har behövt anpassa
+arbetet efter rådande omständigheter. Ekstas bidrag till
+god ekonomisk hushållning stärker koncernens möjlighet
+att förbättras inom främst social och ekologisk hållbarhet.
+Den samlade bedömningen är att god ekonomisk hus-
+hållning totalt sett är uppfylld för Kungsbacka kommun
+och koncernen 2020.
+
+Bildtext
+FOTO: xxxx xxxx
+
+Kungsbacka kommuns årsredovisning 2020 35
 
 <!-- sida 21 -->
 
 FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
 
-Finansiell      analys                                                              Utöver kommunens resultat bidrar Eksta till ett högre 1) Den första är en avgiftsbestämd kostnad på 4,5 procent
-resultat än föregående år. Resultatet för Eksta Bostads på utbetald lön till alla anställda som är 21 år eller äldre.
-AB inklusive Tempohus i Kungsbacka AB uppgår till 2) D en andra delen avser en kostnad för en förmånsbaserad
-109 miljoner vilket är högre än tidigare år. Det högre pension för de personer som tjänar över 7,5 gånger
-resultatet förklaras främst av försäljningar av fastigheter inkomstbasbeloppet. Den delas upp i vad som intjänats
+Finansiell      analys                                                              Utöver kommunens resultat bidrar Eksta till ett högre
+resultat än föregående år. Resultatet för Eksta Bostads
+AB inklusive Tempohus i Kungsbacka AB uppgår till
+109 miljoner vilket är högre än tidigare år. Det högre
+resultatet förklaras främst av försäljningar av fastigheter
 I följande avsnitt görs en finansiell analys som sträcker sig över de senaste
-till extern part under 2020. Därtill bidrar en ökning från och med 1998 och vad som intjänats före 1998
+till extern part under 2020. Därtill bidrar en ökning
 fem åren. Då merparten av den kommunala verksamheten bedrivs inom
 av hyresintäkterna samt ett gynnsamt ränteläge till
 ramen för Kungsbacka kommun är kommunen fokus för analysen.
-årets resultat.                      a) N y skuld intjänad från och med 1998. Skulden
-förändras med nyintjänande, utbetalningar samt
+årets resultat.
 Skatteintäkter och generella statsbidrag
-ränte- och basbeloppsuppräkningar.
 Årets resultat
+
+1\) Den första är en avgiftsbestämd kostnad på 4,5 procent
+på utbetald lön till alla anställda som är 21 år eller äldre.
+2\) D en andra delen avser en kostnad för en förmånsbaserad
+pension för de personer som tjänar över 7,5 gånger
+inkomstbasbeloppet. Den delas upp i vad som intjänats
+från och med 1998 och vad som intjänats före 1998
+a) N y skuld intjänad från och med 1998. Skulden
+förändras med nyintjänande, utbetalningar samt
+ränte- och basbeloppsuppräkningar.
 b) G ammal skuld som intjänats före 1998.
+
 Skatter &   2016 2017 2018 2019 2020   Förändringen av den gamla skulden beror på
 Kungsbacka kommun
 415     Mkr                                    statsbidrag                            utbetalningar, basbeloppsförändringar, ränte-
@@ -1311,6 +2093,7 @@ dispositioner
 reduceras, till följd av rådande restriktioner, gör att netto-
 108 205  202 242 511
 kostnadsutvecklingen för 2020 varit låg.
+
 36 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 37
 
 <!-- sida 22 -->
@@ -1406,43 +2189,81 @@ investeringar samt behov av nya lån.
 FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
 
 Riskanalys
-Störst risk medför kommunens borgensåtagande gentemot
-föreningar. I flertalet finns säkerhet i form av pantbrev i
-Finansiella risker                föreningarnas fastigheter. Risken för kostnader i samband    155    Mkr                          17   Mkr
-Låneskulden har ökat under året med 200 miljoner till med hyresgarantier är svår att bedöma men hittills har
-1 550 miljoner. Den genomsnittliga räntan har minskat kommunen inte behövt infria något åtagande. Övriga Generellt statsbidrag, covid-19. Reavinst för exploatering.
-till 0,55 procent och låneskulden är fördelad på förfallo- borgensåtagande bedöms i dagsläget vara av lägre risk då
-tider enligt diagrammet nedan. Kommunen har inga pantbrev eller liknande ligger som säkerhet.
-derivat eller liknande ränteprodukter. Av kommunens                                 Generella statsbidrag, covid-19: Under 2020 erhöll kommuner Reavinster exploatering: Under 2020 uppgår reavinster
-skuld är alla lånen tagna hos Kommuninvest AB utom Känslighetsanalys                och regioner betydande belopp i utökade generella stats- från exploatering till 17 miljoner. Dessa medel är i likhet
-50 miljoner kronor som finns hos Svenska Handelsbanken. Kommunens ekonomiska ställning påverkas av en rad bidrag. Anledningen var främst att pandemin befarades med erhållna investeringsbidrag inget kommunen bör
-olika faktorer. Här gör vi en övergripande känslighets- leda till ett stort tapp i kommunens skatteintäkter. Till- finansiera löpande verksamhet med. Marken är enbart
-350                               analys i syfte att få en bild över hur de olika delarna skotten beslutades under ett antal tillfällen under första möjlig att sälja en gång och när detta är gjort är kommu-
-påverkar ekonomin.                                halvåret 2020 och uppgår sammantaget till 155 miljoner nen inte längre ägare av tillgången. Även denna effekt
-för Kungsbacka kommun. De utökade bidragen är inget varierar stort mellan åren, beroende på när marköverlåt-
+
+Finansiella risker
+Låneskulden har ökat under året med 200 miljoner till
+1 550 miljoner. Den genomsnittliga räntan har minskat
+till 0,55 procent och låneskulden är fördelad på förfallo-
+tider enligt diagrammet nedan. Kommunen har inga
+derivat eller liknande ränteprodukter. Av kommunens
+skuld är alla lånen tagna hos Kommuninvest AB utom
+50 miljoner kronor som finns hos Svenska Handelsbanken.
+
+350
+
 300
-Känslighetsanalys Förändring i Effekt i          som bedöms vara bestående efter pandemin utan kommer elserna sker.
-procentenhet miljoner             då med största sannolikhet återgå till mer normala nivåer.
+
 250
 
-```osaker-tabell
-                                   Löneökning           1        34
-                                   Ränteförändring      1        14
-200                                                                                                +   2%
-```
+Störst risk medför kommunens borgensåtagande gentemot
+föreningar. I flertalet finns säkerhet i form av pantbrev i
+föreningarnas fastigheter. Risken för kostnader i samband
+med hyresgarantier är svår att bedöma men hittills har
+kommunen inte behövt infria något åtagande. Övriga
+borgensåtagande bedöms i dagsläget vara av lägre risk då
+pantbrev eller liknande ligger som säkerhet.
+Känslighetsanalys
+Kommunens ekonomiska ställning påverkas av en rad
+olika faktorer. Här gör vi en övergripande känslighets-
+analys i syfte att få en bild över hur de olika delarna
+påverkar ekonomin.
 
+Känslighetsanalys Förändring i Effekt i
+procentenhet miljoner
+
+155     Mkr
+
+Generellt statsbidrag, covid-19.
+
+Generella statsbidrag, covid-19: Under 2020 erhöll kommuner
+och regioner betydande belopp i utökade generella stats-
+bidrag. Anledningen var främst att pandemin befarades
+leda till ett stort tapp i kommunens skatteintäkter. Till-
+skotten beslutades under ett antal tillfällen under första
+halvåret 2020 och uppgår sammantaget till 155 miljoner
+för Kungsbacka kommun. De utökade bidragen är inget
+som bedöms vara bestående efter pandemin utan kommer
+då med största sannolikhet återgå till mer normala nivåer.
+
+Löneökning           1        34
+
+17   Mkr
+
+Reavinst för exploatering.
+
+Reavinster exploatering: Under 2020 uppgår reavinster
+från exploatering till 17 miljoner. Dessa medel är i likhet
+med erhållna investeringsbidrag inget kommunen bör
+finansiera löpande verksamhet med. Marken är enbart
+möjlig att sälja en gång och när detta är gjort är kommu-
+nen inte längre ägare av tillgången. Även denna effekt
+varierar stort mellan åren, beroende på när marköverlåt-
+elserna sker.
+
+Ränteförändring       1       14
+200                                                                                                +   2%
 Justering av       10 öre     25
 skattesatsen
 Ökningstakten avseende
 150                                                                                                                                  50     Mkr
 skatteintänket minskar.
-Strukturellt resultat                                            Föregående år uppgick
+Strukturellt resultat                                           Föregående år uppgick
 100                                                                                                siffran till 4%.                  Ersättning för sjuklöner.
 Vid en analys av årets resultat är det av stor vikt att
 resonera kring eventuella aspekter som sticker ut under
-50                               det gångna året och som inte utgör återkommande poster Minskad ökningstakt avseende skatteintäkter: Främsta Nettokostnad sjuklön: Under normala år har kommunen
+50                                det gångna året och som inte utgör återkommande poster Minskad ökningstakt avseende skatteintäkter: Främsta Nettokostnad sjuklön: Under normala år har kommunen
 från år till år. Ett sätt att göra detta är att analysera det skälet till de utökade statsbidragen var ett befarat tapp av enbart en kostnad för sjuklön. Under 2020 har kommu-
-0                                strukturella resultatet. Måttet är inget formellt mått i kommunens skatteintäkter. En avtagande utveckling syns nen erhållit full ersättning för sjuklöner under perioden
+0                                 strukturella resultatet. Måttet är inget formellt mått i kommunens skatteintäkter. En avtagande utveckling syns nen erhållit full ersättning för sjuklöner under perioden
 lagen om kommunal redovisning, men används av ett för Kungsbacka 2020. Ökningstakten mellan 2020 och april till och med juli, samt täckning för onormalt höga
 0-1 år 1-2 år 2-3 år 3-4 år 4-5 år 5-6 år 6-7 år
 antal kommuner för att analysera årets resultat i dess 2019 uppgår till 2 procent. Motsvarande förändring mellan sjuklönekostnader under perioden augusti till december.
@@ -1451,7 +2272,7 @@ Borgensåtaganden
 att uttala sig hur resultatet står sig när poster av engångs- varit snarlik föregående år skulle således skatteintäkterna Detta sammantaget gör att nettokostnaden för sjuklön
 karaktär alternativt andra avvikande poster under året ökat med ytterligare 90 miljoner. I analysen är det dock är 30 miljoner lägre 2020 än för 2019.
 Borgens­ 2016 2017 2018 2019 2020 har exkluderats. På detta vis är det möjligt att uttala sig viktigt att betona att effekten av de ökade statsbidragen
-åtaganden                        kring huruvida resultatet är långsiktigt hållbart eller ej. samt den avtagande utvecklingen av skatteintäkterna är
+åtaganden                         kring huruvida resultatet är långsiktigt hållbart eller ej. samt den avtagande utvecklingen av skatteintäkterna är
 (mkr)
 I nedanstående tabell görs en analys där poster som är positiv för 2020 vilket stärker resultatet.
 Eksta   2708,0 2866,0 3035,0 3260,0 3390,5 specifika för 2020 justeras:
@@ -1462,157 +2283,345 @@ BKN/Boverket 1,4 0,3 0,2 0,1 0,1
 AB Mönster 14,0 12,0 10,0 10,0 9,1 Strukturellt resultat                                                                           Strukturellt resultat.
 Byte av redovisningsprincip stärker
 Föreningar 15,0 14,0 13,0 13,0 12,4 Resultat enligt Resultaträkningen 415                   resultatet med 24 miljoner kronor.
-Summa   2738,4 2892,3 3058,2 3283,1 3412,1 Generella stadsbidrag, Covid 19 -155                                      Summeras effekten av samtliga dessa poster uppgår det
-Minskad ökningstakt avseende skatteintäkter jäm- 90 Byte av redovisningsprincip med anledning av RKR R2 strukturella resultatet till 279 miljoner kronor vilket är ett
+
+Summa   2738,4 2892,3 3058,2 3283,1 3412,1
+
+Kommunens borgensåtagande har ökat med 129 miljoner
+under 2020.
+
+Kommunen har förutom ovan nämnda borgensåtaganden
+även åtagande för 25 (19) hyresgarantier. Hyres-
+garantierna är utformade som enkel borgen, vilket
+innebär att kommunen blir betalningsskyldig först sedan
+hyresvärden uttömt alla möjligheter att driva in skulden.
+Kommunens borgensåtagande är olika ur ett riskperspek-
+tiv. Merparten av borgensåtagandena är gentemot kom-
+munens helägda bolag Eksta vilket medför en lägre risk.
+
+Generella stadsbidrag, Covid 19 -155
+Minskad ökningstakt avseende skatteintäkter jäm- 90 Byte av redovisningsprincip med anledning av RKR R2
 fört med föregående år
-Kommunens borgensåtagande har ökat med 129 miljoner                                 avseende privata investeringsbidrag: Från 2020 gäller RKR resultat som i större utsträckning motsvarar föregående
-under 2020.                        Ny redovisningsprincip investeringsbidrag -24    R2 Intäkter. Detta innebär att privata investeringsbidrag år. 2019 uppgick resultatet till 176 miljoner (210 miljoner
-Nettokostnad sjuklön         -30                 inte längre periodiseras över tillgångens nyttjandetid vid justering av jämförelsetal avseende övergång till RKR
-Kommunen har förutom ovan nämnda borgensåtaganden                                   utan resultatförs i takt med utbyggnaden. 2020 stärker det R2). I resultatet ingick dock avsättning för deponi om
+avseende privata investeringsbidrag: Från 2020 gäller RKR
+Ny redovisningsprincip investeringsbidrag -24   R2 Intäkter. Detta innebär att privata investeringsbidrag
+Nettokostnad sjuklön         -30                inte längre periodiseras över tillgångens nyttjandetid
+utan resultatförs i takt med utbyggnaden. 2020 stärker det
 Reavinst exploatering        -17
-även åtagande för 25 (19) hyresgarantier. Hyres-                                    resultatet med 24 miljoner. Denna resultatpost kommer 100 miljoner.
+resultatet med 24 miljoner. Denna resultatpost kommer
 Strukturellt resultat        279
-garantierna är utformade som enkel borgen, vilket                                   vara återkommande framöver, men det är viktigt att
-innebär att kommunen blir betalningsskyldig först sedan                             beakta i analysen att dessa medel inte är något kommu-
-hyresvärden uttömt alla möjligheter att driva in skulden. Analysen utgår från resultatet enligt resultaträkningen nen kan finansiera löpande verksamhet med. Beloppens
+vara återkommande framöver, men det är viktigt att
+beakta i analysen att dessa medel inte är något kommu-
+Analysen utgår från resultatet enligt resultaträkningen nen kan finansiera löpande verksamhet med. Beloppens
 som uppgår till 415 miljoner. Därtill sker justering av omfattning kommer variera stort över tid då det är helt
-Kommunens borgensåtagande är olika ur ett riskperspek- följande poster:             avhängigt vilken utbyggnadstakt som råder inom exploate-
-tiv. Merparten av borgensåtagandena är gentemot kom-                                ringsområdena. Därtill medför utbyggnaden ökade kapi-
-munens helägda bolag Eksta vilket medför en lägre risk.                             talkostnader hänförliga till de nya anläggningarna vilka
+följande poster:                                 avhängigt vilken utbyggnadstakt som råder inom exploate-
+ringsområdena. Därtill medför utbyggnaden ökade kapi-
+talkostnader hänförliga till de nya anläggningarna vilka
 tar en del av det ekonomiska utrymmet i anspråk årligen.
-40  Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 41
+
+Summeras effekten av samtliga dessa poster uppgår det
+strukturella resultatet till 279 miljoner kronor vilket är ett
+resultat som i större utsträckning motsvarar föregående
+år. 2019 uppgick resultatet till 176 miljoner (210 miljoner
+vid justering av jämförelsetal avseende övergång till RKR
+R2). I resultatet ingick dock avsättning för deponi om
+100 miljoner.
+
+40 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 41
 
 <!-- sida 24 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
-Vision    2030                                                                      Så   tar  vi  oss   mot    visionen
+Vision    2030
 
-Vision 2030 är kommunens främsta styrdokument. Utifrån de utvecklingsområden
-I Kungsbacka skapar vi det goda livet tillsammans. Vi är öppna, trygga och nytänkande. som visionen lyfter fram och de utmaningar kommunen står inför har kommunfull-
-Varje människas potential tas till vara och näringslivet blomstrar. Här växer du hela livet. mäktige beslutat om fem kommunövergripande mål. Målen är ett tydligt riktmärke för
-utvecklingen av kommunen som helhet och beskriver vad verksamheterna ska uppnå.
+I Kungsbacka skapar vi det goda livet tillsammans. Vi är öppna, trygga och nytänkande.
+Varje människas potential tas till vara och näringslivet blomstrar. Här växer du hela livet.
+
 Västsveriges bästa företagsklimat
 KUNGSBACKA ÄR EN NATURSKÖN och dynamisk
-tillväxt kommun. Hit är alla lika välkomna, och möj- Kungsbacka kommun är känd för sitt goda värdskap och Målen preciseras i fokusområden och gäller för samtliga Måluppfyllelsen baseras på dels på hur indikatorerna
-ligheterna till utveckling är goda för både individen, är det självklara valet för företag som vill etablera sig i nämnder förutom valnämnd, överförmyndare i samver- utvecklats dels på en kvalitativ uppföljning utifrån nämn-
-gruppen, föreningen och företaget. Väst sverige. Vi har det bästa klimatet för entreprenörer. kan och revisionen. Nämnderna ansvarar för att bidra till dernas rapportering. Förutom skriftlig uppföljningen i
-att vi tillsammans når de kommunövergripande målen. samband med delårs- och årsbokslut görs uppföljning i
-Den valfrihet, mångfald och livskvalitet som präglar Här är det lika naturligt att starta företag som att vara Nämnderna väljer om de vill bryta ned fokusområdena dialogformat vid så kallade checkpoints för att stämma av
-vardagen här lockar ständigt nya invånare. Växtkraften anställd. Entreprenörslusten väcks till liv redan i skolan, till egna nämndmål eller arbeta direkt utifrån de kom- hur det går i målarbetet.
-ger oss mer resurser till den gemensamma välfärden – så och samarbetet mellan skola, akademi och näringsliv munövergripande målen. Vi samarbetar med områden
-att alla kan utvecklas och leva det goda livet, hela livet. utvecklar företagsamheten i hela kommunen. som är komplexa och har en kommungemensam plan Följande exempel visar att vi är på god väg eller delvis på
-med prioriterade aktiviteter för att nå målen. Alla mål väg att nå målen. Samtidigt måste vi fortsätta vara uthål-
-Vi utvecklas hela livet
-Vi växer i regionen genom att planera och bygga strate-                             ska tas om hand men alla behöver inte göra allt, vilket liga eftersom effekterna av flera satsningar inte kommer
-giskt. Samhället utvecklas på ett hållbart sätt: socialt, I våra skolor utvecklar var och en sin fulla kapacitet i en innebär att nämnderna i och med det gemensamma märkas förrän om några år. Under året har arbetet i
-ekologiskt och ekonomiskt. Vi lever inte över naturens kreativ miljö där alla tar ansvar, visar respekt och bryr sig målarbetet kan bidra i olika omfattning till de olika många verksamheter präglats mycket av hanteringen av
-tillgångar.                       om varandra. Alla elever lämnar skolan med god kompe- fokusområdena.                pandemin, vilket gör att en del utvecklingsarbete fått stå
-tens, god självkänsla och stark framtidstro.                                        tillbaka. Å andra sidan har digitaliseringen fått en rejäl
-Mångfald, puls och nära till naturen
-skjuts framåt.
-Kungsbacka är en sammanhållen, grönskande och Livslångt lärande är en självklarhet. När vi växer som
-lättillgänglig stad med tydlig profil och egen identitet. människor utvecklas både näringslivet och samhället i
-Staden växer och blir ett mer framträdande nav i kom- stort.
-munen. Här finns attraktiva bostäder för alla smaker,
-Aktiviteter som engagerar,
-som möter behoven hos olika generationer och livsstilar.
-inspirerar och berikar livet
-Mångfalden speglas i den inspirerande byggnadsmiljön
-där tradition möter innovation och där mötesplatserna är Här har alla ett rikt fritids- och kulturliv med både bredd
-många. Utbudet av affärer, kultur och nöjen är stort. och spets. Mångfalden av aktiviteter, upplevelser och
-gemenskaper främjar hälsa, välmående och kreativitet.
-Staden är lättillgänglig och har goda kommunikatio- Framåtanda, mångfald och öppenhet spirar i nätverk och
-ner med kommunens orter och omvärld. Välplanerad föreningar.
-infrastruktur och lättillgänglig kollektivtrafik minimerar
-transporternas miljöpåverkan.     Vi är delaktiga i samhällets utveckling och får spännande
-saker att hända.
-Hav, öppna landskap och skogsbygd – vi förvaltar våra
-Den nytänkande kvalitetskommunen
-fantastiska naturmiljöer så att även kommande genera-
-tioner ska kunna njuta av den välgörande naturen, mitt i Kungsbacka kommun möter utmaningar med mod,
-vardagen.                         nytänkande och samarbete. Vi löser vårt uppdrag på ett
-innovativt sätt som överträffar invånarnas förväntningar,
-Staden, landet, handeln, kulturlivet och naturen lockar och är en förebild för andra. Här jobbar människor som
-turister och besökare till hela kommunen. vill, vågar och kan.
+tillväxt kommun. Hit är alla lika välkomna, och möj- Kungsbacka kommun är känd för sitt goda värdskap och
+ligheterna till utveckling är goda för både individen, är det självklara valet för företag som vill etablera sig i
+gruppen, föreningen och företaget. Väst sverige. Vi har det bästa klimatet för entreprenörer.
 
-42 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 43
+Den valfrihet, mångfald och livskvalitet som präglar
+vardagen här lockar ständigt nya invånare. Växtkraften
+ger oss mer resurser till den gemensamma välfärden – så
+att alla kan utvecklas och leva det goda livet, hela livet.
+
+Vi växer i regionen genom att planera och bygga strate-
+giskt. Samhället utvecklas på ett hållbart sätt: socialt,
+ekologiskt och ekonomiskt. Vi lever inte över naturens
+tillgångar.
+Mångfald, puls och nära till naturen
+Kungsbacka är en sammanhållen, grönskande och
+lättillgänglig stad med tydlig profil och egen identitet.
+Staden växer och blir ett mer framträdande nav i kom-
+munen. Här finns attraktiva bostäder för alla smaker,
+som möter behoven hos olika generationer och livsstilar.
+Mångfalden speglas i den inspirerande byggnadsmiljön
+där tradition möter innovation och där mötesplatserna är
+många. Utbudet av affärer, kultur och nöjen är stort.
+Staden är lättillgänglig och har goda kommunikatio-
+ner med kommunens orter och omvärld. Välplanerad
+infrastruktur och lättillgänglig kollektivtrafik minimerar
+transporternas miljöpåverkan.
+
+Hav, öppna landskap och skogsbygd – vi förvaltar våra
+fantastiska naturmiljöer så att även kommande genera-
+tioner ska kunna njuta av den välgörande naturen, mitt i
+vardagen.
+
+Staden, landet, handeln, kulturlivet och naturen lockar
+turister och besökare till hela kommunen.
+
+Här är det lika naturligt att starta företag som att vara
+anställd. Entreprenörslusten väcks till liv redan i skolan,
+och samarbetet mellan skola, akademi och näringsliv
+utvecklar företagsamheten i hela kommunen.
+Vi utvecklas hela livet
+
+I våra skolor utvecklar var och en sin fulla kapacitet i en
+kreativ miljö där alla tar ansvar, visar respekt och bryr sig
+om varandra. Alla elever lämnar skolan med god kompe-
+tens, god självkänsla och stark framtidstro.
+Livslångt lärande är en självklarhet. När vi växer som
+människor utvecklas både näringslivet och samhället i
+stort.
+Aktiviteter som engagerar,
+inspirerar och berikar livet
+
+Här har alla ett rikt fritids- och kulturliv med både bredd
+och spets. Mångfalden av aktiviteter, upplevelser och
+gemenskaper främjar hälsa, välmående och kreativitet.
+Framåtanda, mångfald och öppenhet spirar i nätverk och
+föreningar.
+Vi är delaktiga i samhällets utveckling och får spännande
+saker att hända.
+
+Den nytänkande kvalitetskommunen
+Kungsbacka kommun möter utmaningar med mod,
+nytänkande och samarbete. Vi löser vårt uppdrag på ett
+innovativt sätt som överträffar invånarnas förväntningar,
+och är en förebild för andra. Här jobbar människor som
+vill, vågar och kan.
+
+42 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
+
+Så   tar  vi  oss   mot     visionen
+
+Vision 2030 är kommunens främsta styrdokument. Utifrån de utvecklingsområden
+som visionen lyfter fram och de utmaningar kommunen står inför har kommunfull-
+mäktige beslutat om fem kommunövergripande mål. Målen är ett tydligt riktmärke för
+utvecklingen av kommunen som helhet och beskriver vad verksamheterna ska uppnå.
+
+Målen preciseras i fokusområden och gäller för samtliga
+nämnder förutom valnämnd, överförmyndare i samver-
+kan och revisionen. Nämnderna ansvarar för att bidra till
+att vi tillsammans når de kommunövergripande målen.
+Nämnderna väljer om de vill bryta ned fokusområdena
+till egna nämndmål eller arbeta direkt utifrån de kom-
+munövergripande målen. Vi samarbetar med områden
+som är komplexa och har en kommungemensam plan
+med prioriterade aktiviteter för att nå målen. Alla mål
+ska tas om hand men alla behöver inte göra allt, vilket
+innebär att nämnderna i och med det gemensamma
+målarbetet kan bidra i olika omfattning till de olika
+fokusområdena.
+
+Måluppfyllelsen baseras på dels på hur indikatorerna
+utvecklats dels på en kvalitativ uppföljning utifrån nämn-
+dernas rapportering. Förutom skriftlig uppföljningen i
+samband med delårs- och årsbokslut görs uppföljning i
+dialogformat vid så kallade checkpoints för att stämma av
+hur det går i målarbetet.
+Följande exempel visar att vi är på god väg eller delvis på
+väg att nå målen. Samtidigt måste vi fortsätta vara uthål-
+liga eftersom effekterna av flera satsningar inte kommer
+märkas förrän om några år. Under året har arbetet i
+många verksamheter präglats mycket av hanteringen av
+pandemin, vilket gör att en del utvecklingsarbete fått stå
+tillbaka. Å andra sidan har digitaliseringen fått en rejäl
+skjuts framåt.
+
+Kungsbacka kommuns årsredovisning 2020 43
 
 <!-- sida 25 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
-Mål                                                                                 I arbetet med nya översiktsplanen och samhällsbyggnads- Ansökningar av planbesked har minskat under året vilket
-processen har vi inkluderat barnperspektivet. Samarbete kan leda till att det blir mindre byggnationer i framtiden,
-med skolor har gjort att många synpunkter kommit in men det är för tidigt att dra slutsatser om ännu. Inom
-från ungdomar under 18 år.        samhällsplaneringen behöver vi ha fortsatt fokus på att
-bygga verksamheter och gemensamma platser inom
-När vi bygger lokaler läggs stor vikt på att miljöerna bostadskvarter för att få en bra blandning i byggnationen
+Mål
+
 EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
-ska vara tillgängliga, välkomnande och kunna nyttjas och levande kvarter. Antalet påbörjade och färdigställda
-av olika intressenter. Exempelvis erbjuder utemiljön för bostäder under året ligger långt under målvärdet. Det
-eleverna på Fjärås Bräckaskolan teman för olika aktivi- finns ett antal färdiga detaljplaner som inte är bebyggda
+
 Fokusområden                                              Trend
-teter.                            framförallt i staden. Den främsta orsaken är sannolikt att
-byggherrarna avvaktat på grund av ekonomiska skäl med
-I Kungsbacka finns attraktiva bostäder med inspirerande    ←                       Andelen vårdnadshavare som får plats i förskola på en hög byggtakt i regionen och därmed höga priser. En
+
+I Kungsbacka finns attraktiva bostäder med inspirerande    ←
 byggnadsmiljö för olika behov, generationer och livsstilar.
-önskat datum har ökat och motsvarar nu 84 procent. annan anledning är att en stor plan inte kunnat påbörjas
-Även väntetiden för dem som inte får plats på önskat då man varit tvungen att invänta färdigställandet av ett
-datum har minskat från 29 dagar 2019 till 15 dagar under parkeringshus.
-2020\.
-Vi behöver fortsätta täcka in flera grupper/behov när
-Analys
-vi planerar för en attraktiv kommun, så som vi gjorde i
-En stor del i att vara attraktiv som kommun handlar arbetet med Goplatsen. Vi har fortfarande inte bostä-
-om hur vi löpande förbättrar våra verksamheter, så att der för alla grupper, och saknar billiga lägenheter till
+
 Färg- och teckenförklaring
-miljöerna är attraktiva, välkomnande, trygga och skapar ungdomar. Vi saknar också lägenheter till äldre som vill
-upplevelser och möten. År 2020 kom Kungsbacka på en flytta från sin villa men inte sin ort, liksom familjer som
-I mål eller nära målet → Positiv utveckling under 2020                    femteplats i tidningen Fokus undersökning Bäst att leva, separerar och behöver varsin lägenhet.
-vilket är ett stort kliv framåt jämfört med tidigare år och
-På väg mot målet      ←  Negativ utveckling under 2020                    ett kvitto på att Kungsbacka är en attraktiv kommun. Brukare i bostad med särskild service bor generellt länge
-Undersökningen jämför kommunerna utifrån 210 fak- i sina bostäder då det finns ett varaktigt, ofta livslångt
+
+I mål eller nära målet → Positiv utveckling under 2020
+
+På väg mot målet     ←   Negativ utveckling under 2020
+
 Långt kvar till målet —  Oförändrat eller blandat
-torer inom olika områden exempelvis arbetsmarknad, behov av stöd, service och omvårdnad. Trots att det byggs
-bostäder, demografi, demokrati och jämställdhet, kom- mycket bostäder i Kungsbacka är andelen hyresrätter
-munal ekonomi, trygghet, kultur och fritid, miljö, socialt relativt låg jämfört med andra kommuner. Det innebär
-och hälsa samt utbildning.        att möjligheterna att flytta om stödbehovet minskar är
-små.
-Stort fokus under året har varit att bibehålla och stärka
+
 Måluppfyllelse
-bidrog till minskad oro hos omsorgstagare, anhöriga trygghet och daglig kontinuitet för elever och brukare När beslut gällande bostad med särskild service inte verk-
-Den samlade bedömningen är att vi fortsätter ta oss mot och personal. Ett nytt omsorgsboende i Särö togs i drift inom skola, vård och omsorg. En del ordinarie verksam- ställs kan vi föreläggas att betala en särskild avgift. Under
-målet men har en bit kvar, särskilt när det gäller fokus- under året, och är det första boendet som byggs enligt het har fått stå åt sidan och i vissa fall pausats helt på 2020 har nämnden för Individ & Familjeomsorg blivit
-området attraktiva bostäder. Många initiativ har tagits den nya standardiserade koncepthandlingen. Denna ska grund av pandemin, men det finns också många exempel ålagd att betala särskild avgift i två ärenden på vardera 1
-för att omvandla fysiska möten till välkomnande, trygga kunna appliceras på nya boenden och kommer förkorta på hur våra verksamheter har ställt om för att möta en miljon kronor.
-och digitala mötesplatser under pandemin, och resultaten processen så att fler boendeplatser kan erbjudas invånarna föränderlig omvärld. Att kunna stå för trygghet och kon-
-fortsätter att visa att Kungsbacka är en trygg plats. snabbare.                     tinuitet är en del i att vara en attraktiv kommun.
-Det här har vi gjort              Vi har ökat användandet av träningslägenheter, som är en Indikator                      2017  2018  2019   2020 Målvärde
-2020
-Under pandemin har samtliga förvaltningar satsat del av en boendetrappa där nästa steg är referensboende
-på tydlig och lättillgänglig kommunikation till olika och slutligen eget boende. Med detta kan fler individer få Bäst att leva, Kungsbackas placering i ranking av Sveriges kom- 28 24 15 5 <30
-muner enligt tidningen Fokus
-målgrupper, exempelvis barn, elever, vårdnadshavare, möjlighet till en god vårdkedja/boende inom Kungsbacka
-omsorgstagare och personal. Detta för att öka kännedom kommun.                      Invånarnas helhetsbedömning av kommunen som en plats att bo 72 72 68 69 72
-och leva på (SCB:s medborgarundersökning, Nöjd Region-index,
+Den samlade bedömningen är att vi fortsätter ta oss mot
+målet men har en bit kvar, särskilt när det gäller fokus-
+området attraktiva bostäder. Många initiativ har tagits
+för att omvandla fysiska möten till välkomnande, trygga
+och digitala mötesplatser under pandemin, och resultaten
+fortsätter att visa att Kungsbacka är en trygg plats.
+Det här har vi gjort
+
+Under pandemin har samtliga förvaltningar satsat
+på tydlig och lättillgänglig kommunikation till olika
+målgrupper, exempelvis barn, elever, vårdnadshavare,
+omsorgstagare och personal. Detta för att öka kännedom
 om och skapa trygghet utifrån Folkhälsomyndighetens
-NRI, skala 0–100)
-rekommendationer för minskad smittspridning. Vi har skapat nya mötesplatser där vi aktivt arbetat för att
-nå fler målgrupper. Den nya idrottsparken ger möjlighet Antal påbörjade och färdigställda bostäder i.u. i.u. 501 234 575
-påbörjade påbörjade
-Hemtjänsten har fortsatt sitt arbete med att förbättra till lek, träning och kulturaktiviteter, och solstolar och
-418 fär- 248 fär-
-personalkontinuiteten. Detta har resulterat i en förbätt- bihotell längs ån bidrar till en trivsam miljö med hållbar-
-digställda digställda
-ring från ett snitt på 22 medarbetare under 2019 ner till hetsfokus. Temaplatsen Goplatsen skapades i samarbete
-ett snitt på 17 medarbetare 2020. Många hemtjänstta- med en grupp gymnasieelever och är öppen för alla, Trygghetsindex för hur kommuninvånarna bedömer tryggheten 63 64 60 59 65
-gare har uppgett att man känner sig nöjd och trygg med men i första hand utformad för tjejer. Under sommaren (SCB:s medborgarundersökning, skala 0–100)
-hemtjänsten i sin helhet, och medarbetarna har upplevt semestrade många invånare på hemmaplan, och vi gjorde Invånarnas uppfattning om möjligheterna till fritidsaktiviteter i 66 66 66 65 67
-att omsorgstagarna i mindre uträckning framför klago- mycket marknadsföring om hemestertips i kommunen. kommunen (SCB:s medborgarundersökning, index i skala 0–100)
+rekommendationer för minskad smittspridning.
+Hemtjänsten har fortsatt sitt arbete med att förbättra
+personalkontinuiteten. Detta har resulterat i en förbätt-
+ring från ett snitt på 22 medarbetare under 2019 ner till
+ett snitt på 17 medarbetare 2020. Många hemtjänstta-
+gare har uppgett att man känner sig nöjd och trygg med
+hemtjänsten i sin helhet, och medarbetarna har upplevt
+att omsorgstagarna i mindre uträckning framför klago-
 mål på kontinuiteten. Förvaltningen för Vård & Omsorg
 införde även ett särskilt covid-team i hemtjänsten, vilket
-44  Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 45
+
+44 Kungsbacka kommuns årsredovisning 2020
+
+bidrog till minskad oro hos omsorgstagare, anhöriga
+och personal. Ett nytt omsorgsboende i Särö togs i drift
+under året, och är det första boendet som byggs enligt
+den nya standardiserade koncepthandlingen. Denna ska
+kunna appliceras på nya boenden och kommer förkorta
+processen så att fler boendeplatser kan erbjudas invånarna
+snabbare.
+Vi har ökat användandet av träningslägenheter, som är en
+del av en boendetrappa där nästa steg är referensboende
+och slutligen eget boende. Med detta kan fler individer få
+möjlighet till en god vårdkedja/boende inom Kungsbacka
+kommun.
+
+Vi har skapat nya mötesplatser där vi aktivt arbetat för att
+nå fler målgrupper. Den nya idrottsparken ger möjlighet
+till lek, träning och kulturaktiviteter, och solstolar och
+bihotell längs ån bidrar till en trivsam miljö med hållbar-
+hetsfokus. Temaplatsen Goplatsen skapades i samarbete
+med en grupp gymnasieelever och är öppen för alla,
+men i första hand utformad för tjejer. Under sommaren
+semestrade många invånare på hemmaplan, och vi gjorde
+mycket marknadsföring om hemestertips i kommunen.
+
+FÖRVALTNINGSBERÄTTELSE
+
+I arbetet med nya översiktsplanen och samhällsbyggnads-
+processen har vi inkluderat barnperspektivet. Samarbete
+med skolor har gjort att många synpunkter kommit in
+från ungdomar under 18 år.
+
+När vi bygger lokaler läggs stor vikt på att miljöerna
+ska vara tillgängliga, välkomnande och kunna nyttjas
+av olika intressenter. Exempelvis erbjuder utemiljön för
+eleverna på Fjärås Bräckaskolan teman för olika aktivi-
+teter.
+Andelen vårdnadshavare som får plats i förskola på
+önskat datum har ökat och motsvarar nu 84 procent.
+Även väntetiden för dem som inte får plats på önskat
+datum har minskat från 29 dagar 2019 till 15 dagar under
+2020\.
+Analys
+
+En stor del i att vara attraktiv som kommun handlar
+om hur vi löpande förbättrar våra verksamheter, så att
+miljöerna är attraktiva, välkomnande, trygga och skapar
+upplevelser och möten. År 2020 kom Kungsbacka på en
+femteplats i tidningen Fokus undersökning Bäst att leva,
+vilket är ett stort kliv framåt jämfört med tidigare år och
+ett kvitto på att Kungsbacka är en attraktiv kommun.
+Undersökningen jämför kommunerna utifrån 210 fak-
+torer inom olika områden exempelvis arbetsmarknad,
+bostäder, demografi, demokrati och jämställdhet, kom-
+munal ekonomi, trygghet, kultur och fritid, miljö, socialt
+och hälsa samt utbildning.
+Stort fokus under året har varit att bibehålla och stärka
+trygghet och daglig kontinuitet för elever och brukare
+inom skola, vård och omsorg. En del ordinarie verksam-
+het har fått stå åt sidan och i vissa fall pausats helt på
+grund av pandemin, men det finns också många exempel
+på hur våra verksamheter har ställt om för att möta en
+föränderlig omvärld. Att kunna stå för trygghet och kon-
+tinuitet är en del i att vara en attraktiv kommun.
+Indikator
+
+Bäst att leva, Kungsbackas placering i ranking av Sveriges kom-
+muner enligt tidningen Fokus
+Invånarnas helhetsbedömning av kommunen som en plats att bo
+och leva på (SCB:s medborgarundersökning, Nöjd Region-index,
+NRI, skala 0–100)
+Antal påbörjade och färdigställda bostäder
+
+Ansökningar av planbesked har minskat under året vilket
+kan leda till att det blir mindre byggnationer i framtiden,
+men det är för tidigt att dra slutsatser om ännu. Inom
+samhällsplaneringen behöver vi ha fortsatt fokus på att
+bygga verksamheter och gemensamma platser inom
+bostadskvarter för att få en bra blandning i byggnationen
+och levande kvarter. Antalet påbörjade och färdigställda
+bostäder under året ligger långt under målvärdet. Det
+finns ett antal färdiga detaljplaner som inte är bebyggda
+framförallt i staden. Den främsta orsaken är sannolikt att
+byggherrarna avvaktat på grund av ekonomiska skäl med
+en hög byggtakt i regionen och därmed höga priser. En
+annan anledning är att en stor plan inte kunnat påbörjas
+då man varit tvungen att invänta färdigställandet av ett
+parkeringshus.
+Vi behöver fortsätta täcka in flera grupper/behov när
+vi planerar för en attraktiv kommun, så som vi gjorde i
+arbetet med Goplatsen. Vi har fortfarande inte bostä-
+der för alla grupper, och saknar billiga lägenheter till
+ungdomar. Vi saknar också lägenheter till äldre som vill
+flytta från sin villa men inte sin ort, liksom familjer som
+separerar och behöver varsin lägenhet.
+Brukare i bostad med särskild service bor generellt länge
+i sina bostäder då det finns ett varaktigt, ofta livslångt
+behov av stöd, service och omvårdnad. Trots att det byggs
+mycket bostäder i Kungsbacka är andelen hyresrätter
+relativt låg jämfört med andra kommuner. Det innebär
+att möjligheterna att flytta om stödbehovet minskar är
+små.
+
+När beslut gällande bostad med särskild service inte verk-
+ställs kan vi föreläggas att betala en särskild avgift. Under
+2020 har nämnden för Individ & Familjeomsorg blivit
+ålagd att betala särskild avgift i två ärenden på vardera 1
+miljon kronor.
+
+2017  2018  2019   2020 Målvärde
+2020
+
+```osaker-tabell
+28    24     15    5    <30
+
+72    72     68    69    72
+
+i.u.  i.u.  501   234   575
+```
+
+påbörjade påbörjade
+418 fär- 248 fär-
+digställda digställda
+
+Trygghetsindex för hur kommuninvånarna bedömer tryggheten 63 64 60 59 65
+(SCB:s medborgarundersökning, skala 0–100)
+Invånarnas uppfattning om möjligheterna till fritidsaktiviteter i 66 66 66 65 67
+kommunen (SCB:s medborgarundersökning, index i skala 0–100)
+
+Kungsbacka kommuns årsredovisning 2020 45
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
@@ -1625,44 +2634,90 @@ införde även ett särskilt covid-team i hemtjänsten, vilket
 FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
 
 EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
-elever som bedömde sin hälsa som god eller mycket god tidningen Dagens samhälles ranking över kommunernas
-var 65 procent, en förbättring med fem procentenheter arbete med de globala målen. Bildandet av den nya avdel-
-jämfört med 2019. Indikatorvärden för elevhälsa sjönk ningen Hållbar utveckling ger ett starkt signalvärde både
+
 Fokusområden                                              Trend
-marginellt jämfört med föregående år för både flickor internt och externt, och de globala målen har bland annat
-och pojkar i årskurser 4 och 8, men för gymnasiets åk 1 lyfts i en informationskampanj där Ines 7 år har utmanat
 —
 Kungsbacka växer med en långsiktigt hållbar ekonomi.
-ökade elevhälsan istället till 70 respektive 80 procent och ett tjänstepersoner att förklara målen så att alla förstår.
-överskred därmed uppsatt målvärde på 60 procent. Vi har fokuserat på cirkulära tjänster och vidtagit många
-Elever i årskurs 6–9 fick under våren information om andra åtgärder för att styra mot nationella och globala
-Ung-appen och drygt 30 procent av kommunens 4 900 hållbarhetsmål samt åtaganden i Borgmästaravtalet.
-elever i åldern 12–15 år svarade på en uppföljande enkät.
-Appen visar aktiviteter, evenemang och mötesplatser för Att vi rör oss i rätt riktning utifrån vår målformulering
-unga och pengar eller stöd kan sökas till egna projekt. Nu betyder dock inte att Kungsbacka tar motsvarande kliv
-har den ca 2 800 nedladdningar vilket är 35–40 procent framåt ur ett större hållbarhetsperspektiv. Av kommu-
-av alla 12–15-åringar.            nens hållbarhetsredovisning framgår det att vi fortfa-
+
 Färg- och teckenförklaring
-rande har stora utmaningar inom klimatområdet. Det
-Föräldraskapsstöd för ungas hälsa är en viktig skydds- gäller inte minst transporter, konsumtion och anpass-
-I mål eller nära målet → Positiv utveckling under 2020                    faktor för att främja barns och ungas psykiska hälsa ningsåtgärder, där kommunens möjligheter att påverka
-under uppväxten. Under året har stödet ställts om till invånare och företagares beteendemönster är begränsade.
-På väg mot målet      ←  Negativ utveckling under 2020                    digital form och fler ensamstående och föräldrar som gör Den genererade nyttan av dagens arbete kommer i vissa
-webbkursen kan erbjudas coachning. Nätverket Föräldrar fall att synas först efter flera år.
+
+I mål eller nära målet → Positiv utveckling under 2020
+
+På väg mot målet     ←   Negativ utveckling under 2020
+
 Långt kvar till målet —  Oförändrat eller blandat
-Emellan genomförde tre digitala föreläsningar under
-hösten med närmare 1 000 deltagare. Utvärderingar visar Många åtgärder pågår och har intensifierat arbetet med
-ett högre deltagande med jämnare fördelning av deltagare att förbättra ungas fysiska och psykiska hälsa, men det är
-mellan kommundelarna i det digitala formatet jämfört svårt att bedöma effekterna för unga i kommunen. Helt
-med fysiska föreläsningar.        säkert är att pandemin har påverkat ungas situation. För
+
 Måluppfyllelse
-Förutsättningar för biologisk mångfald har ökat när ytor i                          vissa har det varit gynnsamt med till exempel distansun-
+Många av de aktiviteter som ligger till grund för en håll-
+bar utveckling berör långsiktig planering och den genere-
+rade nyttan för våra genomförda åtgärder blir i vissa fall
+märkbar först senare. Den samlade bedömningen är att vi
+utifrån det uppställda målet går åt rätt håll.
+
+Förutsättningar för biologisk mångfald har ökat när ytor i
+staden utnyttjats till fjärilsrestauranger och insektshotell,
+och gräsytor omvandlats till blommande ängar. Nyan-
+lagda dagvattendammar ökar skyddet för vattendrag,
+kan fungera som utjämningsmagasin vid höga flöden och
+bidrar även till ökad biologisk mångfald.
+
+elever som bedömde sin hälsa som god eller mycket god
+var 65 procent, en förbättring med fem procentenheter
+jämfört med 2019. Indikatorvärden för elevhälsa sjönk
+marginellt jämfört med föregående år för både flickor
+och pojkar i årskurser 4 och 8, men för gymnasiets åk 1
+ökade elevhälsan istället till 70 respektive 80 procent och
+överskred därmed uppsatt målvärde på 60 procent.
+Elever i årskurs 6–9 fick under våren information om
+Ung-appen och drygt 30 procent av kommunens 4 900
+elever i åldern 12–15 år svarade på en uppföljande enkät.
+Appen visar aktiviteter, evenemang och mötesplatser för
+unga och pengar eller stöd kan sökas till egna projekt. Nu
+har den ca 2 800 nedladdningar vilket är 35–40 procent
+av alla 12–15-åringar.
+Föräldraskapsstöd för ungas hälsa är en viktig skydds-
+faktor för att främja barns och ungas psykiska hälsa
+under uppväxten. Under året har stödet ställts om till
+digital form och fler ensamstående och föräldrar som gör
+webbkursen kan erbjudas coachning. Nätverket Föräldrar
+Emellan genomförde tre digitala föreläsningar under
+hösten med närmare 1 000 deltagare. Utvärderingar visar
+ett högre deltagande med jämnare fördelning av deltagare
+mellan kommundelarna i det digitala formatet jämfört
+med fysiska föreläsningar.
 Analys
-Många av de aktiviteter som ligger till grund för en håll- staden utnyttjats till fjärilsrestauranger och insektshotell, dervisning samtidigt som andra har påverkats negativt.
-bar utveckling berör långsiktig planering och den genere- och gräsytor omvandlats till blommande ängar. Nyan- Arbetet utifrån det lokala målet om en hållbar utveck- Med fortsatt fokus och genomförande av åtgärder finns
-rade nyttan för våra genomförda åtgärder blir i vissa fall lagda dagvattendammar ökar skyddet för vattendrag, ling och en hälsosam miljö ses absolut ha framskridit i goda möjligheter att närma sig målet.
-märkbar först senare. Den samlade bedömningen är att vi kan fungera som utjämningsmagasin vid höga flöden och rätt riktning. Under 2020 toppade Kungsbacka kommun
-utifrån det uppställda målet går åt rätt håll. bidrar även till ökad biologisk mångfald.
+Arbetet utifrån det lokala målet om en hållbar utveck-
+ling och en hälsosam miljö ses absolut ha framskridit i
+rätt riktning. Under 2020 toppade Kungsbacka kommun
+
+tidningen Dagens samhälles ranking över kommunernas
+arbete med de globala målen. Bildandet av den nya avdel-
+ningen Hållbar utveckling ger ett starkt signalvärde både
+internt och externt, och de globala målen har bland annat
+lyfts i en informationskampanj där Ines 7 år har utmanat
+ett tjänstepersoner att förklara målen så att alla förstår.
+Vi har fokuserat på cirkulära tjänster och vidtagit många
+andra åtgärder för att styra mot nationella och globala
+hållbarhetsmål samt åtaganden i Borgmästaravtalet.
+Att vi rör oss i rätt riktning utifrån vår målformulering
+betyder dock inte att Kungsbacka tar motsvarande kliv
+framåt ur ett större hållbarhetsperspektiv. Av kommu-
+nens hållbarhetsredovisning framgår det att vi fortfa-
+rande har stora utmaningar inom klimatområdet. Det
+gäller inte minst transporter, konsumtion och anpass-
+ningsåtgärder, där kommunens möjligheter att påverka
+invånare och företagares beteendemönster är begränsade.
+Den genererade nyttan av dagens arbete kommer i vissa
+fall att synas först efter flera år.
+Många åtgärder pågår och har intensifierat arbetet med
+att förbättra ungas fysiska och psykiska hälsa, men det är
+svårt att bedöma effekterna för unga i kommunen. Helt
+säkert är att pandemin har påverkat ungas situation. För
+vissa har det varit gynnsamt med till exempel distansun-
+dervisning samtidigt som andra har påverkats negativt.
+Med fortsatt fokus och genomförande av åtgärder finns
+goda möjligheter att närma sig målet.
+
 Det här har vi gjort
 Ca 500 produkter med farliga ämnen har tagits bort för
 Invånare och verksamhetsutövare har fått lämna syn- att minska risken för negativ påverkan på både hälsa och Indikator    2017  2018  2019   2020 Målvärde
@@ -1700,6 +2755,7 @@ tigt hållbar ekonomi i Kungsbacka. nasieelever både under och utanför lektion
 \* Siffrorna publiceras senare.
 \*\* 1,5 år 2030 enligt Klimatstrategin.
 \*\*\* Indikatorn är ny, därför finns inte tidigare mätningar att jämföra med.
+
 46 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 47
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
@@ -1710,233 +2766,519 @@ tigt hållbar ekonomi i Kungsbacka. nasieelever både under och utanför lektion
 
 <!-- sida 27 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
 BÄSTA FÖRETAGSKLIMATET  I VÄSTSVERIGE
-Under året har Kungsbacka gjort flera satsningar för att ningen. Under pandemin har kommunens vård- och
-stödja näringslivets tillgång på relevant kompetens för att omsorgsverksamheter arbetat extra aktivt för att säker-
-göra det lättare för dem att växa. Ett exempel är projektet ställa att alla utförare får rätt information och ett gott
+
 Fokusområden                                              Trend
-Hållbar Kompetens i Halland som har fokus på besök- stöd i sitt arbete. Externa utförare har uttryckt att samar-
-snäringen.                        betet har fungerat mycket väl under pandemin.
 →
 Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-Analys
-Kommunen deltar även i regionala projekt som ska stärka
-I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för indi- →     företagens konkurrenskraft genom företagsutvecklande Under 2020 har förutsättningarna för måluppfyllelse
+
+I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för indi- →
 vider och företag genom samverkan mellan näringsliv och utbildning.
-stöd eller direkta insatser till deras medarbetare. Under stärkts ytterligare. Genom ökad digitalisering av kom-
-året startade Kompa Halland, som kompetensutvecklar munens tjänster arbetar vi fortlöpande med att förbättra
-personer som är varslade, permitterade eller anställda effektiviteten gentemot företagare. Eftersom det även
+
 Färg- och teckenförklaring
-i ekonomiskt utsatta företag i Halland. Syftet är att frigör tid för ett mer personligt bemötande väntas det
-minska sårbarheten och mildra effekterna av pandemin i påverka bilden av Kungsbackas servicegrad på sikt. Pan-
-I mål eller nära målet → Positiv utveckling under 2020                    det halländska näringslivet.      demin har lett till en ökad dialog och stärkta relationer
-med många företag, vilket är ett gott tecken för framti-
-På väg mot målet      ←  Negativ utveckling under 2020                    Pandemin har bidragit till att efterfrågan av ekonomisk den.
-rådgivning har ökat. Genom vårt arbete har vi stöttat
-Långt kvar till målet —  Oförändrat eller blandat                         både företagare och privatpersoner med utmaningar Den positiva förflyttningen avspeglas inte i indikatorerna
-kopplade till Covid-19, ett viktigt arbete för att säker- nedan. Lågt NKI-värde kan förklaras av att kundnöjdhe-
-ställa en långsiktigt hållbar ekonomi i Kungsbacka. ten har sjunkit för bygglov. En preliminär analys för 2020
-visar att det låga resultatet är tydligt kopplat till de långa
-Miljö & Hälsoskydd antog en ny behovsstyrd taxa som handläggningstiderna. Det låga resultatet för bygglov-
+
+I mål eller nära målet → Positiv utveckling under 2020
+På väg mot målet     ←   Negativ utveckling under 2020
+
+Långt kvar till målet —  Oförändrat eller blandat
+
 Måluppfyllelse
-på olika förvaltningar och även folkvalda har utbildats. förväntas förenkla för både handläggare och kunder. verksamheten, som bygger på ett relativt fåtal enkätsvar
-Den samlade bedömningen är att kommunen trots Satsningen syftar till att ge snabbare handläggningstider, Förvaltningen har haft ökad dialog och skapat nya (14), påverkar kommunens totala NKI-resultat i opropor-
-pandemin har gjort en viss förflyttning i positiv riktning tydligare fokus på kundens behov och förflyttning till en mötesformer med innerstadens krögare och andra serve- tionerlig grad.
-under året, men det finns potential att ta ytterligare steg mer rådgivande och serviceinriktad roll. ringsställen, och arbetat med ett projekt för en coachande
-framåt. Flera större satsningar som har gjorts under året Nya avgiftsmodeller har etablerats och gett en ökad tillsyn inom området energieffektivisering. Därmed får Sammantaget bedömer vi att kommunen har förflyttat
-förväntas ge märkbar utdelning i framtiden. transparens för företagen som numera kan beräkna hela företagare goda råd om hur de bäst sparar energi, till sig i positiv riktning under 2020 men har potential att ta
-kostnaden för sitt ärende i förväg och lättare förstå vad de nytta för såväl miljön som den egna ekonomin. ytterligare steg framåt. Kungsbacka har en företagsam
+Den samlade bedömningen är att kommunen trots
+pandemin har gjort en viss förflyttning i positiv riktning
+under året, men det finns potential att ta ytterligare steg
+framåt. Flera större satsningar som har gjorts under året
+förväntas ge märkbar utdelning i framtiden.
 Det här har vi gjort
-betalar för.                                                                        befolkning, ett högt nyföretagande och är, enligt externa
-År 2020 blev en svår period för näringslivet, trots att                             Nämnden för Vård & Omsorg har antagit en ny kon- bedömningar, en av de kommuner som har bäst förutsätt-
-Kungsbackas företagare generellt sett har starka och Under hösten har ett flertal moment automatiserats kurrensutsättningsplan och även beslutat att Löftagår- ningar att möta de förändringar som Sveriges ekonomi
-robusta verksamheter. För många företag handlade det inom Byggnadsnämndens verksamhetsområde. Den tid dens vård- och omsorgsboende ska konkurrensutsättas. genomgår. Kungsbackas näringslivsstrategi, som togs
-om radikal omställning och överlevnad då verksamheten som medarbetarna sparar läggs istället på rådgivning. Beslutet upphävdes dock i februari 2021 på grund av fram i dialog med näringslivet, är en självklar utgångs-
-i princip släcktes ner från en dag till en annan. Samtidigt För kunderna har det inneburit att det blivit lättare att den pågående pandemi, att läget i verksamheterna är punkt för vårt arbete. De kommande åren kommer
-arbetade andra verksamheter för högtryck, till exempel komma i kontakt med rätt person och få svar på frågor. ansträngt och att smittspridningen fortsätter. Det finns mycket fokus att ligga på att underlätta för och attrahera
-inom livsmedelsindustrin, byggindustrin och företag som Många relationsstärkande insatser har genomförts, för närvarande inte tillräckligt med personalresurser för nyetableringar och omlokaliseringar. Det blir också
-levererar till sjukvården.        däribland öppet hus för företagare, startmöten vid större att fokusera på ordinarie drift, kontrollera pandemins viktigt att skapa tydligare samarbeten för att underlätta
-byggprojekt och en digital branschdag med fokus på påverkan och samtidigt arbeta med konkurrensutsätt- företags kompetensförsörjning.
-Våra fysiska möten med näringslivet har fått ställas in dialog och relation.
+
+År 2020 blev en svår period för näringslivet, trots att
+Kungsbackas företagare generellt sett har starka och
+robusta verksamheter. För många företag handlade det
+om radikal omställning och överlevnad då verksamheten
+i princip släcktes ner från en dag till en annan. Samtidigt
+arbetade andra verksamheter för högtryck, till exempel
+inom livsmedelsindustrin, byggindustrin och företag som
+levererar till sjukvården.
+Våra fysiska möten med näringslivet har fått ställas in
 eller skjutas upp, vilket dock skapat utrymme för andra
-insatser för att stötta kring pandemin såsom ökad dialog, Nya företagsetableringar har fortsatt enligt plan och Indikator 2017  2018  2019   2020 Målvärde
-2020
-ökad service, hjälp att tolka nationella stödpaket och ge antalet deltagare i kommunens starta nytt företag-kurser
-råd. En positiv följd av pandemin har varit ett ökat antal ökade under hösten. Antalet elever som driver företag Insikt, SKL:s servicemätning av kommunernas myndighetsutöv- 67 63 62 \* 70
-ning till företag. Nöjd kund-index utifrån sammanvägt betygs-
-samverkansytor med externa aktörer. Befintliga samar- inom Ung Företagsamhet (UF) har fortsatt att öka under
-index 0–100, för hur företag i kommunen bedömer Kungsbacka
-beten har fördjupats och relationerna har stärkts. Det året. Elof Lindälvs gymnasium blev den största UF-sko-
-kommuns myndighetsutövning, vilken är en viktig del av före-
-gemensamma arbetet under pandemin har varit gynn- lan i Halland, och den sjätte största i Sverige. Kungs- tagsklimatet.
-samt för såväl invånare som företagare. backa är den största UF-kommunen i Halland.
-Siffran i tabellen visar resultatet för föregående år.
-Pandemin har ökat på arbetslösheten. I december 2020 Badhusverksamheten överlåtits till privat drift, och vi har Svenskt näringslivs attitydundersökning av kommuners före- 3,0 3,2 3,4 3,3 3,5
-var antalet öppet arbetslösa inom Göteborgsregionen därmed möjliggjort för den privata friskvårdssektorn att tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-7 000 fler än året innan (en ökning med 37 procent). I utvecklas inom en traditionellt kommunal sektor. Arbetet
-Kungsbacka kommun handlar det om ca 300 fler (+33 med nya detaljplaner under 2020 hjälper till att öka till-
-Siffran i tabellen visar resultatet på delfrågan om det samlade
-procent). Samtidigt har många fått möjlighet att bidra i gången på planlagd verksamhetsmark, och flera kommer omdömet om företagsklimatet.
-nya arbetstillfällen som skapats inom bland annat vården. vara klara 2021.
-Det kommungemensamma initiativet Lätt & Rätt har                                    \* Siffra publiceras senare.
+insatser för att stötta kring pandemin såsom ökad dialog,
+ökad service, hjälp att tolka nationella stödpaket och ge
+råd. En positiv följd av pandemin har varit ett ökat antal
+samverkansytor med externa aktörer. Befintliga samar-
+beten har fördjupats och relationerna har stärkts. Det
+gemensamma arbetet under pandemin har varit gynn-
+samt för såväl invånare som företagare.
+Pandemin har ökat på arbetslösheten. I december 2020
+var antalet öppet arbetslösa inom Göteborgsregionen
+7 000 fler än året innan (en ökning med 37 procent). I
+Kungsbacka kommun handlar det om ca 300 fler (+33
+procent). Samtidigt har många fått möjlighet att bidra i
+nya arbetstillfällen som skapats inom bland annat vården.
+Det kommungemensamma initiativet Lätt & Rätt har
 varit ett stort förbättringsarbete under året. 200 personer
-48 Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 49
+
+på olika förvaltningar och även folkvalda har utbildats.
+Satsningen syftar till att ge snabbare handläggningstider,
+tydligare fokus på kundens behov och förflyttning till en
+mer rådgivande och serviceinriktad roll.
+Nya avgiftsmodeller har etablerats och gett en ökad
+transparens för företagen som numera kan beräkna hela
+kostnaden för sitt ärende i förväg och lättare förstå vad de
+betalar för.
+Under hösten har ett flertal moment automatiserats
+inom Byggnadsnämndens verksamhetsområde. Den tid
+som medarbetarna sparar läggs istället på rådgivning.
+För kunderna har det inneburit att det blivit lättare att
+komma i kontakt med rätt person och få svar på frågor.
+Många relationsstärkande insatser har genomförts,
+däribland öppet hus för företagare, startmöten vid större
+byggprojekt och en digital branschdag med fokus på
+dialog och relation.
+
+Nya företagsetableringar har fortsatt enligt plan och
+antalet deltagare i kommunens starta nytt företag-kurser
+ökade under hösten. Antalet elever som driver företag
+inom Ung Företagsamhet (UF) har fortsatt att öka under
+året. Elof Lindälvs gymnasium blev den största UF-sko-
+lan i Halland, och den sjätte största i Sverige. Kungs-
+backa är den största UF-kommunen i Halland.
+Badhusverksamheten överlåtits till privat drift, och vi har
+därmed möjliggjort för den privata friskvårdssektorn att
+utvecklas inom en traditionellt kommunal sektor. Arbetet
+med nya detaljplaner under 2020 hjälper till att öka till-
+gången på planlagd verksamhetsmark, och flera kommer
+vara klara 2021.
+
+48 Kungsbacka kommuns årsredovisning 2020
+
+Under året har Kungsbacka gjort flera satsningar för att
+stödja näringslivets tillgång på relevant kompetens för att
+göra det lättare för dem att växa. Ett exempel är projektet
+Hållbar Kompetens i Halland som har fokus på besök-
+snäringen.
+
+Kommunen deltar även i regionala projekt som ska stärka
+företagens konkurrenskraft genom företagsutvecklande
+stöd eller direkta insatser till deras medarbetare. Under
+året startade Kompa Halland, som kompetensutvecklar
+personer som är varslade, permitterade eller anställda
+i ekonomiskt utsatta företag i Halland. Syftet är att
+minska sårbarheten och mildra effekterna av pandemin i
+det halländska näringslivet.
+Pandemin har bidragit till att efterfrågan av ekonomisk
+rådgivning har ökat. Genom vårt arbete har vi stöttat
+både företagare och privatpersoner med utmaningar
+kopplade till Covid-19, ett viktigt arbete för att säker-
+ställa en långsiktigt hållbar ekonomi i Kungsbacka.
+Miljö & Hälsoskydd antog en ny behovsstyrd taxa som
+förväntas förenkla för både handläggare och kunder.
+Förvaltningen har haft ökad dialog och skapat nya
+mötesformer med innerstadens krögare och andra serve-
+ringsställen, och arbetat med ett projekt för en coachande
+tillsyn inom området energieffektivisering. Därmed får
+företagare goda råd om hur de bäst sparar energi, till
+nytta för såväl miljön som den egna ekonomin.
+
+Nämnden för Vård & Omsorg har antagit en ny kon-
+kurrensutsättningsplan och även beslutat att Löftagår-
+dens vård- och omsorgsboende ska konkurrensutsättas.
+Beslutet upphävdes dock i februari 2021 på grund av
+den pågående pandemi, att läget i verksamheterna är
+ansträngt och att smittspridningen fortsätter. Det finns
+för närvarande inte tillräckligt med personalresurser för
+att fokusera på ordinarie drift, kontrollera pandemins
+påverkan och samtidigt arbeta med konkurrensutsätt-
+
+Indikator
+
+Insikt, SKL:s servicemätning av kommunernas myndighetsutöv-
+ning till företag. Nöjd kund-index utifrån sammanvägt betygs-
+index 0–100, för hur företag i kommunen bedömer Kungsbacka
+kommuns myndighetsutövning, vilken är en viktig del av före-
+tagsklimatet.
+Siffran i tabellen visar resultatet för föregående år.
+Svenskt näringslivs attitydundersökning av kommuners före-
+tagsklimat. Medelvärde utifrån skala 1–6, där företag bedömer
+företagsklimatet i Kungsbacka kommun.
+Siffran i tabellen visar resultatet på delfrågan om det samlade
+omdömet om företagsklimatet.
+\* Siffra publiceras senare.
+
+FÖRVALTNINGSBERÄTTELSE
+
+ningen. Under pandemin har kommunens vård- och
+omsorgsverksamheter arbetat extra aktivt för att säker-
+ställa att alla utförare får rätt information och ett gott
+stöd i sitt arbete. Externa utförare har uttryckt att samar-
+betet har fungerat mycket väl under pandemin.
+Analys
+
+Under 2020 har förutsättningarna för måluppfyllelse
+stärkts ytterligare. Genom ökad digitalisering av kom-
+munens tjänster arbetar vi fortlöpande med att förbättra
+effektiviteten gentemot företagare. Eftersom det även
+frigör tid för ett mer personligt bemötande väntas det
+påverka bilden av Kungsbackas servicegrad på sikt. Pan-
+demin har lett till en ökad dialog och stärkta relationer
+med många företag, vilket är ett gott tecken för framti-
+den.
+Den positiva förflyttningen avspeglas inte i indikatorerna
+nedan. Lågt NKI-värde kan förklaras av att kundnöjdhe-
+ten har sjunkit för bygglov. En preliminär analys för 2020
+visar att det låga resultatet är tydligt kopplat till de långa
+handläggningstiderna. Det låga resultatet för bygglov-
+verksamheten, som bygger på ett relativt fåtal enkätsvar
+(14), påverkar kommunens totala NKI-resultat i opropor-
+tionerlig grad.
+Sammantaget bedömer vi att kommunen har förflyttat
+sig i positiv riktning under 2020 men har potential att ta
+ytterligare steg framåt. Kungsbacka har en företagsam
+befolkning, ett högt nyföretagande och är, enligt externa
+bedömningar, en av de kommuner som har bäst förutsätt-
+ningar att möta de förändringar som Sveriges ekonomi
+genomgår. Kungsbackas näringslivsstrategi, som togs
+fram i dialog med näringslivet, är en självklar utgångs-
+punkt för vårt arbete. De kommande åren kommer
+mycket fokus att ligga på att underlätta för och attrahera
+nyetableringar och omlokaliseringar. Det blir också
+viktigt att skapa tydligare samarbeten för att underlätta
+företags kompetensförsörjning.
+
+2017  2018  2019   2020 Målvärde
+2020
+67    63     62    \*     70
+
+3,0   3,2   3,4    3,3   3,5
+
+Kungsbacka kommuns årsredovisning 2020 49
 
 <!-- sida 28 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
-I KUNGSBACKA UTVECKLAS  VI HELA LIVET                                               Analys
-Pandemin har haft en stor påverkan på arbetsmark-
-I båda utbildningsförvaltningarna har de senaste åren nadsprocessen och det har varit ovisst exakt hur plane-
-fokuserats mot mer långsiktiga utvecklingsinsatser. Det ringen framåt ska se ut. Verksamheten har ställt om och
+I KUNGSBACKA UTVECKLAS  VI HELA LIVET
+
 Fokusområden                                              Trend
-regionala samarbetet From Great to Excellent, FGTE, anpassats under året. Genom hög flexibilitet och snabb
-och satsningen på att stärka det pedagogiska ledarskapet omställning till bland annat digitala möten har arbe-
 →
 Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla
-är exempel på detta. Utöver detta pågår ett antal utveck- tet med att utveckla arbetsmarknadsprocessen kunnat
-lingsinsatser som ligger i linje med det som inom den fortgå.
-I Kungsbacka stärks individens och f amiljens              →                       pedagogiska forskningen pekas ut som riktningsgivare
+
+I Kungsbacka stärks individens och f amiljens              →
 egen f örmåga att ta hand om sitt liv.
-för en framgångsrik skolutveckling. Det handlar om ett För målets fokusområden ser vi en förflyttning framåt.
-tydligt pedagogiskt ledarskap, systematisk och skolbase- Kunskapsresultaten har förbättrats både för grundsko-
-rad kompetensutveckling, samspel i förbättringsarbetet lan och gymnasieskolan och målvärdena har uppnåtts.
+
 Färg- och teckenförklaring
-och utveckling av lärande professionella gemenskaper. Arbetsmarknadsprocessen har fortsatt att optimeras och
-Det är dessa tillsammans med en ständig utveckling av utbetalning av ekonomiskt bistånd har inte ökat trots
-I mål eller nära målet → Positiv utveckling under 2020                    undervisningen som ger en långsiktig framgångsrik skol- pandemin. Även andelen vuxna personer som inte åter-
-utveckling med förbättrad måluppfyllelse som effekt. kommit till försörjningsstöd har ökat.
-På väg mot målet      ←  Negativ utveckling under 2020
-En effekt av hanteringen kring coranapandemin har varit Skolinspektionens skolenkät genomfördes inte under
-Långt kvar till målet —  Oförändrat eller blandat                         att det på bredden i organisation finns en ännu bättre för- 2020 så på indikatorn om självkänsla och framtidstro
-måga att använda digitaliseringens möjligheter i möten finns inget utfall. Vi kan dock se i den enkät som genom-
-och undervisning. Bedömningen är att distansundervis- förs i samverkan med övriga kommuner i Göteborgsregi-
-ningen i både gymnasieskolan och grundskolan fungerat onen att utfallet i motsvarande frågor har förbättrats.
-väl, men inneburit en ansträngning för organisationen.
+
+I mål eller nära målet → Positiv utveckling under 2020
+På väg mot målet     ←   Negativ utveckling under 2020
+
+Långt kvar till målet —  Oförändrat eller blandat
+
 Måluppfyllelse
-par elever. Vi startade också upp ett team som utgår från
-Den samlade bedömningen är att vi är på god väg mot Varlaskolan.
+Den samlade bedömningen är att vi är på god väg mot
 måluppfyllelse och har tagit steg framåt inom båda fokus-
-områdena jämfört med föregående år. Kungsbackas unika arbetsmarknadsprocess har utveck-
-lats ytterligare genom processoptimering och en tydlig
-Indikator                             2017  2018  2019   2020 Målvärde
+områdena jämfört med föregående år.
+
 Det här har vi gjort
-handlingsplan. Detta har minimerat de delar där resur-                                                           2020
-Fler elever i grundskolan blev behöriga till gymnasie- serna inte har använts på det mest effektiva sättet och där
-Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvär- 229 240 238 246 245
-skolan och det genomsnittliga betygsmedelvärdet ökade det funnits risk att kommuninvånarna inte når själv- det utgörs av summan av de 17 bästa betygen i elevens slutbe-
-2020\. Även jämfört med riket och utifrån Kungsbackas försörjning den snabbaste vägen. Trots pandemin och tyg och kan max vara 340.
-förutsättningar förbättrades utfallet mot föregående dess följder med bland annat högre arbetslöshet har det Genomsnittlig betygspoäng för gymnasiets avgångselevers 13,9 13,9 13,8 14,0 14
-år. Differensen i betygsutfall mellan pojkar och flickor, ekonomiska biståndet inte ökat under året, vilket tyder betygspoäng som kan vara max 20.
-mellan enheter och mellan ämnen minskade jämfört med på en välfungerande arbetsmarknadsprocess. Möten med
-Självkänsla och framtidstro för gymnasieelever år 2, index med 7,5 \* 7,3 \* 7,6
-tidigare år, vilket indikerar en ökad likvärdighet. Utifrån kommuninvånare har skett genom alternativa digitala skala 0–10 enligt Skolinspektionens skolenkät.
-resultaten kan vi dra slutsatsen att vi fortsatt behöver vara lösningar i den mån det är möjligt. Utöver individuella
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Arbets- 1,9 3,0 2,2 2,8 2,5
-uthålliga i arbetet för en mer likvärdig skola. möten har under hösten gruppverksamhet påbörjats förmedlingen och SCB) (procent)
-digitalt.
-Andel vuxna personer som inte återkommer till försörjningsstöd 75 73 78 82 90
+Fler elever i grundskolan blev behöriga till gymnasie-
+skolan och det genomsnittliga betygsmedelvärdet ökade
+2020\. Även jämfört med riket och utifrån Kungsbackas
+förutsättningar förbättrades utfallet mot föregående
+år. Differensen i betygsutfall mellan pojkar och flickor,
+mellan enheter och mellan ämnen minskade jämfört med
+tidigare år, vilket indikerar en ökad likvärdighet. Utifrån
+resultaten kan vi dra slutsatsen att vi fortsatt behöver vara
+uthålliga i arbetet för en mer likvärdig skola.
 Andelen elever med gymnasieexamen är svagt uppåtgå-
-inom ett år efter avslutat försörjningsstöd, (procent)
-ende, och betygsmedelvärdet har ökat från 13,8 till 14,0. Hanteringen av pandemin har gjort att vi till största del
-\*Enkäten genomförs vartannat år.
-Jämfört med riket och jämförbara kommuner är Kungs- behövt fokusera på att kunna leverera vår kärnverksam-
-backas studieresultat goda, men har fortfarande en stor het. Samtidigt har pandemin påskyndat digitaliseringen
-avvikelse mot förväntad nivå utifrån förutsättningarna. och inom gymnasieskolan ställde vi om till distansun-
-dervisning i princip över en natt och kunde därigenom
-I vår satsning ”Tillsammans för varje barn” har två team, genomföra undervisning för våra elever. Under våren
-ett för yngre och ett för äldre barn, bildats i Hålabäcks- genomfördes ett stort arbete i syfte att förbereda För-
-området och som under året jobbat med en handfull skola & Grundskola på ett beslut om allmän stängning
-familjer. I arbetet kartläggs bland annat barnens behov, av skolor och/eller förskolor. Från och med slutet av året
-och familjerådgivning och kontinuerliga träffar erbjuds. har enheter behövt stängas under en begränsad tid och i
-Lärdomar visar att det är viktigt med tidiga insatser och årskurs 7–9 har undervisningen bedrivits på distans.
+ende, och betygsmedelvärdet har ökat från 13,8 till 14,0.
+Jämfört med riket och jämförbara kommuner är Kungs-
+backas studieresultat goda, men har fortfarande en stor
+avvikelse mot förväntad nivå utifrån förutsättningarna.
+
+I vår satsning ”Tillsammans för varje barn” har två team,
+ett för yngre och ett för äldre barn, bildats i Hålabäcks-
+området och som under året jobbat med en handfull
+familjer. I arbetet kartläggs bland annat barnens behov,
+och familjerådgivning och kontinuerliga träffar erbjuds.
+Lärdomar visar att det är viktigt med tidiga insatser och
 samverkan. Arbetet har utöver att komma varje barn/
-familj tillgodo under året, även lett till att varaktiga Pandemin har inneburit ökat tryck på ekonomisk råd-
-former för samverkan som ger resultat på riktigt arbetats givning, då människor riskerar att gå i konkurs eller bli
-fram för framtida bruk. Under hösten startade ett team arbetssökande. Även konsumentvägledningen har ökat
-upp för Aranäsgymnasiet och Elof Lindälvs Gymna- då många resor, evenemang och flyg har blivit inställda.
+familj tillgodo under året, även lett till att varaktiga
+former för samverkan som ger resultat på riktigt arbetats
+fram för framtida bruk. Under hösten startade ett team
+upp för Aranäsgymnasiet och Elof Lindälvs Gymna-
 sium där insatser diskuterades och påbörjades med ett
-50 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 51
+
+par elever. Vi startade också upp ett team som utgår från
+Varlaskolan.
+
+Kungsbackas unika arbetsmarknadsprocess har utveck-
+lats ytterligare genom processoptimering och en tydlig
+handlingsplan. Detta har minimerat de delar där resur-
+serna inte har använts på det mest effektiva sättet och där
+det funnits risk att kommuninvånarna inte når själv-
+försörjning den snabbaste vägen. Trots pandemin och
+dess följder med bland annat högre arbetslöshet har det
+ekonomiska biståndet inte ökat under året, vilket tyder
+på en välfungerande arbetsmarknadsprocess. Möten med
+kommuninvånare har skett genom alternativa digitala
+lösningar i den mån det är möjligt. Utöver individuella
+möten har under hösten gruppverksamhet påbörjats
+digitalt.
+Hanteringen av pandemin har gjort att vi till största del
+behövt fokusera på att kunna leverera vår kärnverksam-
+het. Samtidigt har pandemin påskyndat digitaliseringen
+och inom gymnasieskolan ställde vi om till distansun-
+dervisning i princip över en natt och kunde därigenom
+genomföra undervisning för våra elever. Under våren
+genomfördes ett stort arbete i syfte att förbereda För-
+skola & Grundskola på ett beslut om allmän stängning
+av skolor och/eller förskolor. Från och med slutet av året
+har enheter behövt stängas under en begränsad tid och i
+årskurs 7–9 har undervisningen bedrivits på distans.
+Pandemin har inneburit ökat tryck på ekonomisk råd-
+givning, då människor riskerar att gå i konkurs eller bli
+arbetssökande. Även konsumentvägledningen har ökat
+då många resor, evenemang och flyg har blivit inställda.
+
+50 Kungsbacka kommuns årsredovisning 2020
+
+Analys
+I båda utbildningsförvaltningarna har de senaste åren
+fokuserats mot mer långsiktiga utvecklingsinsatser. Det
+regionala samarbetet From Great to Excellent, FGTE,
+och satsningen på att stärka det pedagogiska ledarskapet
+är exempel på detta. Utöver detta pågår ett antal utveck-
+lingsinsatser som ligger i linje med det som inom den
+pedagogiska forskningen pekas ut som riktningsgivare
+för en framgångsrik skolutveckling. Det handlar om ett
+tydligt pedagogiskt ledarskap, systematisk och skolbase-
+rad kompetensutveckling, samspel i förbättringsarbetet
+och utveckling av lärande professionella gemenskaper.
+Det är dessa tillsammans med en ständig utveckling av
+undervisningen som ger en långsiktig framgångsrik skol-
+utveckling med förbättrad måluppfyllelse som effekt.
+En effekt av hanteringen kring coranapandemin har varit
+att det på bredden i organisation finns en ännu bättre för-
+måga att använda digitaliseringens möjligheter i möten
+och undervisning. Bedömningen är att distansundervis-
+ningen i både gymnasieskolan och grundskolan fungerat
+väl, men inneburit en ansträngning för organisationen.
+
+FÖRVALTNINGSBERÄTTELSE
+
+Pandemin har haft en stor påverkan på arbetsmark-
+nadsprocessen och det har varit ovisst exakt hur plane-
+ringen framåt ska se ut. Verksamheten har ställt om och
+anpassats under året. Genom hög flexibilitet och snabb
+omställning till bland annat digitala möten har arbe-
+tet med att utveckla arbetsmarknadsprocessen kunnat
+fortgå.
+För målets fokusområden ser vi en förflyttning framåt.
+Kunskapsresultaten har förbättrats både för grundsko-
+lan och gymnasieskolan och målvärdena har uppnåtts.
+Arbetsmarknadsprocessen har fortsatt att optimeras och
+utbetalning av ekonomiskt bistånd har inte ökat trots
+pandemin. Även andelen vuxna personer som inte åter-
+kommit till försörjningsstöd har ökat.
+
+Skolinspektionens skolenkät genomfördes inte under
+2020 så på indikatorn om självkänsla och framtidstro
+finns inget utfall. Vi kan dock se i den enkät som genom-
+förs i samverkan med övriga kommuner i Göteborgsregi-
+onen att utfallet i motsvarande frågor har förbättrats.
+
+Indikator                             2017  2018  2019  2020 Målvärde
+2020
+Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvär- 229 240 238 246 245
+det utgörs av summan av de 17 bästa betygen i elevens slutbe-
+tyg och kan max vara 340.
+Genomsnittlig betygspoäng för gymnasiets avgångselevers 13,9 13,9 13,8 14,0 14
+betygspoäng som kan vara max 20.
+Självkänsla och framtidstro för gymnasieelever år 2, index med 7,5 \* 7,3 \* 7,6
+skala 0–10 enligt Skolinspektionens skolenkät.
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Arbets- 1,9 3,0 2,2 2,8 2,5
+förmedlingen och SCB) (procent)
+Andel vuxna personer som inte återkommer till försörjningsstöd 75 73 78 82 90
+inom ett år efter avslutat försörjningsstöd, (procent)
+\*Enkäten genomförs vartannat år.
+
+Kungsbacka kommuns årsredovisning 2020 51
 
 <!-- sida 29 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
 ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
-de själva är intresserade av att delta i. Det finns ett stort Med den ökade digitala mognaden har vi kunnat ställa
-engagemang och drivkraft i att göra något för sig själva om istället för att ställa in, och hittat nya former för
-och sina medmänniskor för att utforma sin egen vardag. exempelvis möten och utbildningar. Vårt uppdrag kräver
+
 Fokusområden                                              Trend
-Många kommunala anläggningar är på gång, där noggrannhet och samverkan som tar tid, samtidigt som
-föreningarna har möjligheter att vara delaktiga i utform- digitaliseringen springer före. Det är en balansgång för
-I Kungsbacka skapar vi förutsättningar för invånare, kunder och →                  ningen. Det gäller till exempel Kungsbacka sporthall, kommunens verksamheter att vidareutveckla de positiva
+I Kungsbacka skapar vi förutsättningar för invånare, kunder och →
 företag att vara medskapande i att utforma det goda livet.
-Nordhallands ridklubb, skejtparken och nya arenan. effektivare arbetssätten utifrån Ett Kungsbacka, sam-
-I projektet Lätt & Rätt, som ska bidra till en mer service- tidigt som behovet finns av att arbeta långsiktigt och
-inriktad myndighetsutövning och som är en viktig del uthålligt i många processer.
-när det kommer till att invånare, företag och besökare ska Det finns ännu inga mätvärden som kan visa på att den
-känna sig välkomna, sedda och korrekt bemötta i kontakt kraftiga utvecklingen av kommunens digitalisering
-med kommunen, har det genomförts insatser under på helheten har stimulerat invånarnas medskapande.
-året. Ett exempel är ”Nyfiken på näringslivet” som är ett Förvaltningarnas erfarenheter av sin digitalisering under
-forum för att diskutera näringslivsfrågor och dagsaktu- året låter oss ana att våra invånare har tagit vara på de nya
-ella ämnen mellan förvaltningar, ofta med en företagare digitala möjligheterna till dialog, kommunikation och
-på besök.                         medskapande.
-Samtidigt som möjligheterna har ökat har värdet
-Pandemin har utmanat kommunen i att vara en attraktiv Nöjd-inflytande index (NII) sjunkit. Kungsbackas
+
 Färg- och teckenförklaring
-arbetsgivare. Många medarbetare har bidragit till enorma resultat när det gäller medborgarnas syn på sitt infly-
-insatser under året och flera av dessa lyftes fram på med- tande i kommunen sticker ut lite i år. Resultatet sjunker
-I mål eller nära målet → Positiv utveckling under 2020                    arbetardagen som gick av stapeln i december. Kommunen inom samtliga områden, framförallt inom förtroende,
-fortsätter satsa på att utbilda alla kommunens chefer i till skillnad från snittet och kommuner med 50 000 eller
-På väg mot målet      ←  Negativ utveckling under 2020                    Utvecklande ledarskap, något som bedöms vara en nyckel fler invånare där resultaten stiger eller är oförändrade,
-till framgång för de välfärdsutmaningar kommunen står med något enstaka undantag. Resultatet för påverkan
-Långt kvar till målet —  Oförändrat eller blandat                         inför.                            hamnar för första gången under gränsen för godkänt i
-Kungsbacka. Inget område har säkerställd förändring,
-Analys
-men sett till att Kungsbackas resultat har sjunkit över tid
-Pandemin med alla dess bieffekter har under året tagit är det inte sannolikt att tappet över tid beror på slumpen.
+
+I mål eller nära målet → Positiv utveckling under 2020
+
+På väg mot målet     ←   Negativ utveckling under 2020
+
+Långt kvar till målet —  Oförändrat eller blandat
+
 Måluppfyllelse
-sändning, ett steg mot ett annorlunda samtal mellan mycket fokus och energi från hela organisationen, Förtroende är det område som tappar mest och resultatet
-Den samlade bedömningen är att vi har tagit stora steg kommunen och invånarna. Analyser visar att presskonfe- samtidigt som den även har dominerat invånarnas sjunker på samtliga frågor; kommunens politiker arbetar
-främst inom fokusområdet digitalisering och att vi under renserna har haft stor positiv påverkan på årets medierap- vardag. Inom detta mål har utmaningen blivit en kata- för kommunens bästa, hur ansvarstagande kommunens
-året har fått nya sätt att möta invånare, företag och besö- portering och på internkommunikationen. lysator och inom flera fokusområden har stora framsteg politiker är, hur kommunens högre tjänstemän arbe-
-kare. Det har skapat en plattform som gör att vi är på god                          gjorts. Digitaliseringstakten och den digitala mognaden tar för kommunens bästa och hur väl politiska beslut
-väg mot måluppfyllelse.           Vi har tagit beslut om en ny digital handlingsplan som har ökat kraftigt i kommunen, samtidigt som många genomförs. För att bryta den nedåtgående trenden och
-visar vilka digitaliseringsområden Kungsbacka som verksamheter har tvingats att tänka om och tänka nytt. göra invånare i Kungsbacka nöjdare krävs arbete för att
+Den samlade bedömningen är att vi har tagit stora steg
+främst inom fokusområdet digitalisering och att vi under
+året har fått nya sätt att möta invånare, företag och besö-
+kare. Det har skapat en plattform som gör att vi är på god
+väg mot måluppfyllelse.
 Det här har vi gjort
-kommun ska satsa på de kommande tre åren. Områdena Detta möjliggör nya sätt att möta invånaren och i det öka stärka förtroendet och fortsätta att skapa möjligheter till
-Mycket av året har präglats av en omställning till en är välfärdsteknik för självständighet, digitala samhälls- medskapandet och delaktigheten. påverkan. Att åstadkomma detta kräver samarbete inom
-digital miljö, både i kontakt med kommuninvånare kanaler, digital samhällsbyggnadsprocess och effektiva               hela kommunen. Många goda exempel på medskapande
-och kommunens interna arbete. Övergången till dis- arbetssätt. Den digitala handlingsplanen ska fungera               finns.
-tansundervisning på gymnasiet resulterade i en digital som vägledning i förvaltningarnas arbete. Några nya
-kompetenshöjning för både lärare och elever. Skolorga- satsningar har påbörjats, exempelvis införande av en ny
-nisationerna har därigenom ökat sin förmåga att använda e-tjänstplattform och en ny webb, kungsbacka.se. Indikator        2017  2018  2019   2020 Målvärde
-digitala verktyg för att skapa alternativa lärmiljöer, såsom För att möjliggöra att invånare, kunder och företag är                                2020
-filmad undervisning.              medskapande i utformningen av lokalsamhället finns Nöjd-inflytande index för hur kommuninvånarna bedömer möj- 46 47 43 41 48
-bland annat Kungsbackas innovationsmodell, som tidigt ligheterna till inflytande (SCB:s medborgarundersökning, skala
+
+Mycket av året har präglats av en omställning till en
+digital miljö, både i kontakt med kommuninvånare
+och kommunens interna arbete. Övergången till dis-
+tansundervisning på gymnasiet resulterade i en digital
+kompetenshöjning för både lärare och elever. Skolorga-
+nisationerna har därigenom ökat sin förmåga att använda
+digitala verktyg för att skapa alternativa lärmiljöer, såsom
+filmad undervisning.
+Många e-tjänster har tagits fram och användningen av
+dem har ökat, bland annat för att enklare kunna följa sitt
+bygglovsärende, göra en orosanmälan till socialtjänsten,
+slänga avfall i annan kommun eller söka tillstånd hos
+Miljö- & Hälsoskydd. Kompetenscentrum har markant
+ökat andelen ansökningar om ekonomiskt bistånd via
+e-tjänst och spelat in vägledningslektioner för SFI-elever.
+Kommunen har genomfört pressträffar för att möta
+medias och allmänhetens behov av information om hur
+kommunen hanterar pandemin. I samband med det har
+kommunen testat nya ingångar såsom att sakkunniga och
+verksamhetsansvariga intervjuas av en skolklass i direkt-
+
+sändning, ett steg mot ett annorlunda samtal mellan
+kommunen och invånarna. Analyser visar att presskonfe-
+renserna har haft stor positiv påverkan på årets medierap-
+portering och på internkommunikationen.
+
+Vi har tagit beslut om en ny digital handlingsplan som
+visar vilka digitaliseringsområden Kungsbacka som
+kommun ska satsa på de kommande tre åren. Områdena
+är välfärdsteknik för självständighet, digitala samhälls-
+kanaler, digital samhällsbyggnadsprocess och effektiva
+arbetssätt. Den digitala handlingsplanen ska fungera
+som vägledning i förvaltningarnas arbete. Några nya
+satsningar har påbörjats, exempelvis införande av en ny
+e-tjänstplattform och en ny webb, kungsbacka.se.
+För att möjliggöra att invånare, kunder och företag är
+medskapande i utformningen av lokalsamhället finns
+bland annat Kungsbackas innovationsmodell, som tidigt
+bjuder in till dialog och delaktighet. Under året har ett
+stort antal verksamheter utbildats och coachats i model-
+len. Även nya former för dialog och medskapande har
+testats. Ett nämnvärt exempel är samrådsdialogen kring
+den nya översiktsplanen som genomfördes i monterform
+på Kungsmässan.
+Ett annat exempel på medskapande är Kultur & Fritids
+seniorverksamhet, som har blivit tre gånger så stor med
+samma kommunala resurser. Seniorerna bygger själva
+organiskt verksamheten större genom att de agerar
+ambassadörer, ledare och deltagare för den verksamhet
+
+52 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
+
+de själva är intresserade av att delta i. Det finns ett stort
+engagemang och drivkraft i att göra något för sig själva
+och sina medmänniskor för att utforma sin egen vardag.
+Många kommunala anläggningar är på gång, där
+föreningarna har möjligheter att vara delaktiga i utform-
+ningen. Det gäller till exempel Kungsbacka sporthall,
+Nordhallands ridklubb, skejtparken och nya arenan.
+I projektet Lätt & Rätt, som ska bidra till en mer service-
+inriktad myndighetsutövning och som är en viktig del
+när det kommer till att invånare, företag och besökare ska
+känna sig välkomna, sedda och korrekt bemötta i kontakt
+med kommunen, har det genomförts insatser under
+året. Ett exempel är ”Nyfiken på näringslivet” som är ett
+forum för att diskutera näringslivsfrågor och dagsaktu-
+ella ämnen mellan förvaltningar, ofta med en företagare
+på besök.
+Pandemin har utmanat kommunen i att vara en attraktiv
+arbetsgivare. Många medarbetare har bidragit till enorma
+insatser under året och flera av dessa lyftes fram på med-
+arbetardagen som gick av stapeln i december. Kommunen
+fortsätter satsa på att utbilda alla kommunens chefer i
+Utvecklande ledarskap, något som bedöms vara en nyckel
+till framgång för de välfärdsutmaningar kommunen står
+inför.
+Analys
+Pandemin med alla dess bieffekter har under året tagit
+mycket fokus och energi från hela organisationen,
+samtidigt som den även har dominerat invånarnas
+vardag. Inom detta mål har utmaningen blivit en kata-
+lysator och inom flera fokusområden har stora framsteg
+gjorts. Digitaliseringstakten och den digitala mognaden
+har ökat kraftigt i kommunen, samtidigt som många
+verksamheter har tvingats att tänka om och tänka nytt.
+Detta möjliggör nya sätt att möta invånaren och i det öka
+medskapandet och delaktigheten.
+
+Med den ökade digitala mognaden har vi kunnat ställa
+om istället för att ställa in, och hittat nya former för
+exempelvis möten och utbildningar. Vårt uppdrag kräver
+noggrannhet och samverkan som tar tid, samtidigt som
+digitaliseringen springer före. Det är en balansgång för
+kommunens verksamheter att vidareutveckla de positiva
+effektivare arbetssätten utifrån Ett Kungsbacka, sam-
+tidigt som behovet finns av att arbeta långsiktigt och
+uthålligt i många processer.
+Det finns ännu inga mätvärden som kan visa på att den
+kraftiga utvecklingen av kommunens digitalisering
+på helheten har stimulerat invånarnas medskapande.
+Förvaltningarnas erfarenheter av sin digitalisering under
+året låter oss ana att våra invånare har tagit vara på de nya
+digitala möjligheterna till dialog, kommunikation och
+medskapande.
+Samtidigt som möjligheterna har ökat har värdet
+Nöjd-inflytande index (NII) sjunkit. Kungsbackas
+resultat när det gäller medborgarnas syn på sitt infly-
+tande i kommunen sticker ut lite i år. Resultatet sjunker
+inom samtliga områden, framförallt inom förtroende,
+till skillnad från snittet och kommuner med 50 000 eller
+fler invånare där resultaten stiger eller är oförändrade,
+med något enstaka undantag. Resultatet för påverkan
+hamnar för första gången under gränsen för godkänt i
+Kungsbacka. Inget område har säkerställd förändring,
+men sett till att Kungsbackas resultat har sjunkit över tid
+är det inte sannolikt att tappet över tid beror på slumpen.
+Förtroende är det område som tappar mest och resultatet
+sjunker på samtliga frågor; kommunens politiker arbetar
+för kommunens bästa, hur ansvarstagande kommunens
+politiker är, hur kommunens högre tjänstemän arbe-
+tar för kommunens bästa och hur väl politiska beslut
+genomförs. För att bryta den nedåtgående trenden och
+göra invånare i Kungsbacka nöjdare krävs arbete för att
+stärka förtroendet och fortsätta att skapa möjligheter till
+påverkan. Att åstadkomma detta kräver samarbete inom
+hela kommunen. Många goda exempel på medskapande
+finns.
+
+Indikator                            2017   2018  2019  2020 Målvärde
+2020
+Nöjd-inflytande index för hur kommuninvånarna bedömer möj- 46 47 43 41 48
+ligheterna till inflytande (SCB:s medborgarundersökning, skala
 0–100).
-Många e-tjänster har tagits fram och användningen av bjuder in till dialog och delaktighet. Under året har ett
-dem har ökat, bland annat för att enklare kunna följa sitt stort antal verksamheter utbildats och coachats i model- DIMIOS1, digital mognad och grundläggande digitala förutsätt- - - - \*\*\* \*
-bygglovsärende, göra en orosanmälan till socialtjänsten, len. Även nya former för dialog och medskapande har ningar
-slänga avfall i annan kommun eller söka tillstånd hos testats. Ett nämnvärt exempel är samrådsdialogen kring Hållbart medarbetarengagemang, ett index för medarbetarnas \*\* 76 \*\* \*\*\* 79
-Miljö- & Hälsoskydd. Kompetenscentrum har markant den nya översiktsplanen som genomfördes i monterform samlade uppfattning om områdena motivation, ledarskap och
+DIMIOS1, digital mognad och grundläggande digitala förutsätt- - - - \*\*\* \*
+ningar
+Hållbart medarbetarengagemang, ett index för medarbetarnas \*\* 76 \*\* \*\*\* 79
+samlade uppfattning om områdena motivation, ledarskap och
 styrning, skala 1–100 enligt Medarbetarenkäten.
-ökat andelen ansökningar om ekonomiskt bistånd via på Kungsmässan.
-e-tjänst och spelat in vägledningslektioner för SFI-elever.                         Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 80 77 91 \*\*\* 85
-Kommunen har genomfört pressträffar för att möta Ett annat exempel på medskapande är Kultur & Fritids beräknas utifrån nio nyckeltal med skala 1–20 och visar hur
+Jämställdhetsindex, Jämix. Antal poäng av max 180. Jämix 80 77 91 \*\*\* 85
+beräknas utifrån nio nyckeltal med skala 1–20 och visar hur
 jämställda arbetsvillkor, arbetsmiljö och anställningsvillkor det
-medias och allmänhetens behov av information om hur seniorverksamhet, som har blivit tre gånger så stor med
 är i organisationen
-kommunen hanterar pandemin. I samband med det har samma kommunala resurser. Seniorerna bygger själva
-kommunen testat nya ingångar såsom att sakkunniga och organiskt verksamheten större genom att de agerar \* Ny indikator från och 2020. \*\*Enkäten genomförs vartannat år. \*\*\*Siffrorna publiceras senare.
-verksamhetsansvariga intervjuas av en skolklass i direkt- ambassadörer, ledare och deltagare för den verksamhet 1 Ett kvalitativt värde som forskare bakom rapporten inte tycker man bör använda som indikator i detta sammanhang. Det pågår ett nationellt
+\* Ny indikator från och 2020. \*\*Enkäten genomförs vartannat år. \*\*\*Siffrorna publiceras senare.
+1 Ett kvalitativt värde som forskare bakom rapporten inte tycker man bör använda som indikator i detta sammanhang. Det pågår ett nationellt
 arbete att ta fram ett digitaliseringsindex. Det kommer baseras bland annat på Dimios. Det är Rise på uppdrag av Digg och finansierat av Vinnova
 som håller i arbetet och Kungsbacka har varit/är med i referensgruppen.
-52 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 53
+
+Kungsbacka kommuns årsredovisning 2020 53
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
@@ -1951,24 +3293,38 @@ FÖRVALTNINGSBERÄTTELSE                                                        
 
 Direktiv     –  äldre    medarbetare
 
-I syfte att uppfylla strategin med att fler jobbar mer och ha ett positivt synsätt till äldre medarbetare. Begreppet
-att vara en attraktiv arbetsgivare vill Kungsbacka att man Framtidssamtal etableras som en del av utvecklingssam-
-ska ha möjlighet att jobba efter pensionsåldern. Mycket talet då chefen lyfter frågor om arbetstagarens framtid
-kompetens finns hos dessa medarbetare och många vill några år innan pension, för att motivera medarbetaren att
-arbeta men i andra former. Kungsbacka kommun önskar arbeta längre. Arbetstagaren ska bli medveten om vilka
-att de ska kunna stanna kvar längre. åtgärder som erbjuds och vilka individuella lösningar som
-kan bli aktuella.
+I syfte att uppfylla strategin med att fler jobbar mer och
+att vara en attraktiv arbetsgivare vill Kungsbacka att man
+ska ha möjlighet att jobba efter pensionsåldern. Mycket
+kompetens finns hos dessa medarbetare och många vill
+arbeta men i andra former. Kungsbacka kommun önskar
+att de ska kunna stanna kvar längre.
 Kommundirektören har därför fått i uppdrag att ta fram
-ett regelverk med ett antal olika valmöjligheter för att Förslagen ska ses som alternativ av möjligheter utifrån
-jobba efter pensionsåldern.       individens och verksamhetens förutsättningar och till-
-lämpas med stor flexibilitet: Exempelvis dubblerad insätt-
+ett regelverk med ett antal olika valmöjligheter för att
+jobba efter pensionsåldern.
+
 Det här har vi gjort
-ning till tjänstepension, nedsatt tjänstgöringsgrad med
-Direktivet är uppfyllt i och med att kommunfullmäktige delvis bibehållna förmåner, gratis hälsoundersökning,
-i slutet av året antog nya riktlinjer. Dessa börjar gälla från pensionsinformation, lön som premie och andra åtgärder
-1 januari 2021 och ska fungera som ett stöd för chefer i såsom distansarbete om så är möjligt, prova andra arbets-
-deras arbete med att få medarbetare att vilja jobba kvar uppgifter och friskvård på arbetstid.
+Direktivet är uppfyllt i och med att kommunfullmäktige
+i slutet av året antog nya riktlinjer. Dessa börjar gälla från
+1 januari 2021 och ska fungera som ett stöd för chefer i
+deras arbete med att få medarbetare att vilja jobba kvar
 längre. Riktlinjerna lägger vikt vid att organisationen ska
+
+ha ett positivt synsätt till äldre medarbetare. Begreppet
+Framtidssamtal etableras som en del av utvecklingssam-
+talet då chefen lyfter frågor om arbetstagarens framtid
+några år innan pension, för att motivera medarbetaren att
+arbeta längre. Arbetstagaren ska bli medveten om vilka
+åtgärder som erbjuds och vilka individuella lösningar som
+kan bli aktuella.
+Förslagen ska ses som alternativ av möjligheter utifrån
+individens och verksamhetens förutsättningar och till-
+lämpas med stor flexibilitet: Exempelvis dubblerad insätt-
+ning till tjänstepension, nedsatt tjänstgöringsgrad med
+delvis bibehållna förmåner, gratis hälsoundersökning,
+pensionsinformation, lön som premie och andra åtgärder
+såsom distansarbete om så är möjligt, prova andra arbets-
+uppgifter och friskvård på arbetstid.
 
 BILD
 
@@ -1981,28 +3337,51 @@ FÖRVALTNINGSBERÄTTELSE                                                        
 Bildtext
 Balanskravsresultat                                                                 FOTO: xxxx xxxx
 
-Balanskravet som infördes år 2000 regleras i kommu- dessa avyttringar bidrar till en god ekonomisk hushåll-
-nallagen och innebär ett uttryckligt krav på ekonomisk ning, exempelvis kostnadsbesparingar, i framtiden. Åter-
-balans mellan intäkter och kostnader. Balanskravet föring ska även ske av orealiserade vinster och förluster i
-innebär att kommuner ska upprätta en budget årligen där värdepapper. Eftersom kommunen redovisar pensions-
-intäkterna överstiger kostnaderna. Skulle kostnaderna förplikterna enligt fullfonderingsmodellen justeras även
-för ett enskilt år överstiga intäkterna ska underskottet denna effekt i balanskravsresultatet.
+Balanskravet som infördes år 2000 regleras i kommu-
+nallagen och innebär ett uttryckligt krav på ekonomisk
+balans mellan intäkter och kostnader. Balanskravet
+innebär att kommuner ska upprätta en budget årligen där
+intäkterna överstiger kostnaderna. Skulle kostnaderna
+för ett enskilt år överstiga intäkterna ska underskottet
 återställas senast inom en treårsperiod. Balanskravet
-omfattar kommunen men inte koncernen. Kungsbacka kommun har uppfyllt balanskravet sedan
-dess införande och har därmed inga underskott att
-Enligt gällande normering ska balanskravsutredningen återhämta. 2020 uppgår balanskravsresultatet till 392
-ske på samma sätt i alla kommuner genom att ett miljoner. Årets resultat om 415 miljoner har justerats för
-bestämt antal delposter redovisas. Huvudprincipen är två poster. Dessa är reavinster från anläggningstillgångar
-att intäkterna ska överstiga kostnaderna. Däremot ska om 4 miljoner samt effekten av fullfondsredovisning för
-realisationsvinster till följd av försäljning av anläggnings- pensioner om 19 miljoner. Då kommunen saknar finan-
-tillgångar inte räknas in i resultatet då dessa inte anses siella placeringar finns inget att justera för dessa delar.
-utgöra löpande verksamhet. Realisationsvinster från Några realisationsvinster/förluster enligt undantagsmöj-
-exploateringsverksamheten ska däremot räknas in. lighet har heller inte bedömts föreligga.
-Utöver justering för försäljning av anläggningstillgångar Kungsbacka kommun har inte beslutat att tillämpa någon
-ges möjlighet att justera resultatet för realisationsvinster/ resultatutjämningsreserv (RUR) vilket medför att ingen
-förluster som uppstått vid avyttring av tillgångar om redogörelse av sådan görs.
+omfattar kommunen men inte koncernen.
+Enligt gällande normering ska balanskravsutredningen
+ske på samma sätt i alla kommuner genom att ett
+bestämt antal delposter redovisas. Huvudprincipen är
+att intäkterna ska överstiga kostnaderna. Däremot ska
+realisationsvinster till följd av försäljning av anläggnings-
+tillgångar inte räknas in i resultatet då dessa inte anses
+utgöra löpande verksamhet. Realisationsvinster från
+exploateringsverksamheten ska däremot räknas in.
 
-Balanskravsutredning, mkr                               2019  2020
+Utöver justering för försäljning av anläggningstillgångar
+ges möjlighet att justera resultatet för realisationsvinster/
+förluster som uppstått vid avyttring av tillgångar om
+
+Balanskravsutredning, mkr
+
+dessa avyttringar bidrar till en god ekonomisk hushåll-
+ning, exempelvis kostnadsbesparingar, i framtiden. Åter-
+föring ska även ske av orealiserade vinster och förluster i
+värdepapper. Eftersom kommunen redovisar pensions-
+förplikterna enligt fullfonderingsmodellen justeras även
+denna effekt i balanskravsresultatet.
+Kungsbacka kommun har uppfyllt balanskravet sedan
+dess införande och har därmed inga underskott att
+återhämta. 2020 uppgår balanskravsresultatet till 392
+miljoner. Årets resultat om 415 miljoner har justerats för
+två poster. Dessa är reavinster från anläggningstillgångar
+om 4 miljoner samt effekten av fullfondsredovisning för
+pensioner om 19 miljoner. Då kommunen saknar finan-
+siella placeringar finns inget att justera för dessa delar.
+Några realisationsvinster/förluster enligt undantagsmöj-
+lighet har heller inte bedömts föreligga.
+
+Kungsbacka kommun har inte beslutat att tillämpa någon
+resultatutjämningsreserv (RUR) vilket medför att ingen
+redogörelse av sådan görs.
+
+2019  2020
 
 \*2019 års jämförelsetal är justerat med anledning av ändrad redovisningsprincip avseende investeringsbidrag.
 
@@ -2025,180 +3404,586 @@ Balanskravsutredning, mkr                               2019  2020
 
 <!-- sida 32 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
 
-Våra medarbetare       Ledardagen och
-flera av dessa förväntas bli chefer i
-Väsentliga                                                                                                                        Medarbetardagen
-Kungsbacka kommun framöver. Under 2020 blev vi 6 661 månads-
-anställda medarbetare i Kungsbacka 1 december gick årets Ledardag och
-Utbildningsprogrammet Utveck- kommun, en marginell ökning från Medarbetardag av stapeln, detta år
+Väsentliga
+
 personalförhållanden
-lande ledarskap (UL) fokuserar på föregående år då antalet månads- i digitalt format. Syftet med Ledar-
-det personliga ledarskapet och att få anställda medarbetare var 6 659. dagen och Medarbetardagen är att
-chefer och ledare utvecklas så att de Andelen anställda kvinnor under 2020 uppmärksamma medarbetare och
-kan leda ett framgångsrikt utveck- var 80,3 procent och medelåldern ledare som utmärkt sig särskilt under
-lingsarbete. Under året har 30 chefer för kommunens medarbetare var året. Under Ledardagen delades
+
 Kungsbacka kommuns vision, mål och fokusområden uttrycker att vi ska vara
-genomfört programmet. 27 chefer 45 år, vilket ligger i linje med hur priser ut inom kategorierna Årets
 en attraktiv arbetsgivare med modiga medskapande medarbetare och ledare.
-har även genomfört en utbildning könsfördelning och genomsnittlig utvecklande ledare och Årets nytän-
 För att uppfattas som en attraktiv arbetsgivare har vi sett ett behov av att
-i Förnyat Utvecklande Ledarskap ålder ser ut inom offentlig sektor på kande ledare. På Medarbetardagen
 arbeta med vårt arbetsgivarvarumärke, både internt och externt.
-(FULL) där chefen får en möjlighet riksnivå. Att medarbetarantalet har delades pris ut i fyra olika kategorier
-att utveckla och fördjupa sina kun- varit jämförelsevis statiskt kan vara baserade på vår arbetsplatskultur,
+
 Nulägesanalys av vårt
-Kungsbacka kommun har under per tjänst, vilket är en ökning från skaper om Utvecklande Ledarskap ett resultat av en stramare budget på där de nominerade hyllades för sina
 arbetsgivarvarumärke
-året deltagit på bland annat Future fjolårets 14 ansökningar per tjänst. ytterligare. förvaltningarna.     insatser under det gångna året. Dessa
-En viktig del i arbetet med att Skills och VARM-mässan genom En rimlig slutsats utifrån rådande                                   evenemang är viktiga för att bygga
-utveckla vårt arbetsgivarvarumärke digitala mässmontrar. Syftet är att situation med pågående pandemi Den digitala versionen har lanserats Andel medarbetare som arbetar stolthet i organisationen och får
-handlar om att identifiera nuläges- marknadsföra Kungsbacka kommun och ovisshet på arbetsmarknaden av Kungsbackaledaren Bas, vårt heltid har ökat jämfört med motsva- mycket höga betyg i vår utvärdering.
-bilden. Under 2020 har vi påbörjat som en framtida arbetsgivare samt är att kommunen uppfattas som en andra utbildningsprogram för chefer rande period föregående år, och vi
-arbetet med att undersöka hur vi öka kunskapen om vilka karriär- trygg och attraktiv arbetsgivare. med fokus på arbetsgivarrollen och kan se en uppåtgående trend över tid.
-uppfattas som arbetsgivare. Syftet möjligheter som finns inom offentlig             det formella i chefsuppdraget. Den Andelen medarbetare som arbetar
-är att vi ska attrahera, rekrytera och verksamhet. Personalomsättningen under året  nya digitala programutformningen heltid har ökat med 0,8 procent. Det
+En viktig del i arbetet med att
+utveckla vårt arbetsgivarvarumärke
+handlar om att identifiera nuläges-
+bilden. Under 2020 har vi påbörjat
+arbetet med att undersöka hur vi
+uppfattas som arbetsgivare. Syftet
+är att vi ska attrahera, rekrytera och
+behålla rätt medarbetare genom att
+identifiera och lyfta medarbetar-
+erbjudanden som särskiljer oss på
+arbetsmarknaden. En undersök-
+ning via LinkedIn om hur nyan-
+ställda medarbetare upplever oss
+som arbetsgivare samt vad externa
+målgrupper har för bild av oss som
+arbetsgivare, har givit oss en insikt
+i hur vi behöver kommunicera med
+potentiella medarbetare. Vi kommer
+utveckla ett koncept för kommuni-
+kation som är långsiktigt och kan
+anpassas efter förvaltning, verksamhet
+och målgrupp.
+Praktik & mässor
+Att ta emot praktikanter är ett
+forum för att möta framtidens
+arbetskraft. Studenter kan nu fylla i
+en praktikansökan via webben, en ny
+process som förenklar hanteringen av
+ansökningar internt samt resulterar
+i ett mer professionellt bemötande
+av studenter som är intresserade av
+Kungsbacka kommun.
+Som en följd av pandemin blev den
+traditionella utformningen av prao
+inställd. Samtliga förvaltningar har
+i samverkan med kommunens skolor
+hittat alternativa sätt att skapa inblick
+i arbetslivet för våra skolungdomar
+under rådande omständigheter, bland
+annat genom digitala uppgifter.
+
+Kungsbacka kommun har under
+året deltagit på bland annat Future
+Skills och VARM-mässan genom
+digitala mässmontrar. Syftet är att
+marknadsföra Kungsbacka kommun
+som en framtida arbetsgivare samt
+öka kunskapen om vilka karriär-
+möjligheter som finns inom offentlig
+verksamhet.
+Sociala medier
+Vi har under året satt en strategi för
+våra sociala medier, där innehållet
+ska synkronisera med övrig kom-
+munikation. Syftet med strategin är
+bland annat att synliggöra utveck-
+lingen i kommunen, att förmedla
+bilden av Kungsbacka som en
+attraktiv kommun att bo, verka och
+vistas i samt stärka relationen till
+Kungsbacka och visa ett mångsidigt
+Kungsbacka.
+Rekryteringsläget
+Den pågående pandemin har
+påverkat arbetet för kommunens
+rekryteringscenter, som haft ett
+tätt samarbete med Vikariecenter
+för att rekrytera timvikarier till de
+verksamheter som haft störst behov
+utifrån rådande situation. Vi har
+fortsatt att arbeta med proaktiva
+insatser med chefer som har rekry-
+teringsbehov inom svårrekryterade
+yrkesgrupper. Under året har vi haft
+ute 613 platsannonser med totalt
+14 689 sökanden för tjänster i
+Kungsbacka kommun. Det har
+sålunda varit i snitt 18 sökanden
+per tjänst som kan jämföras mot
+fjolårets 11 sökanden per tjänst. 57
+chefstjänster har annonserats under
+året med ett snitt på 24 ansökningar
+
+per tjänst, vilket är en ökning från
+fjolårets 14 ansökningar per tjänst.
+En rimlig slutsats utifrån rådande
+situation med pågående pandemi
+och ovisshet på arbetsmarknaden
+är att kommunen uppfattas som en
+trygg och attraktiv arbetsgivare.
+Personalomsättningen under året
+är relativt oförändrad jämfört med
+föregående år. Vi konstaterade en
+nedåtgående trend under 2019, under
+2020 har personalomsättningen ökat
+med en halv procent. Det blir intres-
+sant att fortsatt följa utvecklingen
+under 2021 då den lokala arbets-
+marknaden påverkas av ett antal
+nyetableringar och arbetsmarknaden
+i stort förhoppningsvis stabiliseras
+och återanpassar sig efter pandemin.
+Den interna rörligheten var cirka
+4 procent. Kungsbacka har alltså
+relativt många som byter syssla inom
+kommunen vilket är bra då det leder
+till att man stannar längre i Kungs-
+backa och att medarbetarna upplever
+att de kan få nya utmaningar inom
+kommunen. Den externa rörligheten
+ligger på 9,4 procent och anses vara en
+nivå som är rimlig och inte proble-
+matisk.
+LEDARSKAP  OCH
+MEDARBETARSKAP
+Våra ledare
+Under året har Kungsbacka kommun
+genomfört orienteringsprogrammet
+Jag vill bli chef, som vänder sig till
+medarbetare som vill få ökad kun-
+skap om och inblick i vad chefskap
+innebär. Totalt 33 medarbetare har
+genomför programmet under året och
+
+58 Kungsbacka kommuns årsredovisning 2020
+
+FÖRVALTNINGSBERÄTTELSE
+
+flera av dessa förväntas bli chefer i
+Kungsbacka kommun framöver.
+
+Utbildningsprogrammet Utveck-
+lande ledarskap (UL) fokuserar på
+det personliga ledarskapet och att få
+chefer och ledare utvecklas så att de
+kan leda ett framgångsrikt utveck-
+lingsarbete. Under året har 30 chefer
+genomfört programmet. 27 chefer
+har även genomfört en utbildning
+i Förnyat Utvecklande Ledarskap
+(FULL) där chefen får en möjlighet
+att utveckla och fördjupa sina kun-
+skaper om Utvecklande Ledarskap
+ytterligare.
+Den digitala versionen har lanserats
+av Kungsbackaledaren Bas, vårt
+andra utbildningsprogram för chefer
+med fokus på arbetsgivarrollen och
+det formella i chefsuppdraget. Den
+nya digitala programutformningen
+av Kungsbackaledaren Bas möjliggör
+ett mer flexibelt lärande för våra nya
+chefer, oberoende av tid och plats.
+I kommunen arbetar 266 chefer.
+Under 2020 uppgick antal medarbe-
+tare per chef till 19,1 vilket innebär
+en minskning i relation till före-
+gående år. Även antal medarbetare
+per enhetschef har minskat jämfört
+med 2019. Antalet medarbetare per
+enhetschef under året var 23,3.
+
+Våra medarbetare
+Under 2020 blev vi 6 661 månads-
+anställda medarbetare i Kungsbacka
+kommun, en marginell ökning från
+föregående år då antalet månads-
+anställda medarbetare var 6 659.
+Andelen anställda kvinnor under 2020
+var 80,3 procent och medelåldern
+för kommunens medarbetare var
+45 år, vilket ligger i linje med hur
+könsfördelning och genomsnittlig
+ålder ser ut inom offentlig sektor på
+riksnivå. Att medarbetarantalet har
+varit jämförelsevis statiskt kan vara
+ett resultat av en stramare budget på
+förvaltningarna.
+Andel medarbetare som arbetar
+heltid har ökat jämfört med motsva-
+rande period föregående år, och vi
+kan se en uppåtgående trend över tid.
+Andelen medarbetare som arbetar
+heltid har ökat med 0,8 procent. Det
+är de kvinnliga medarbetarna som
+står för majoriteten av ökningen.
+Ökningen kan härledas till utveck-
+lingsinsatser som påbörjades 2018 i
+och med kollektivavtalet Heltid
+som norm.
+
+Heltid – det normala, procent
+2020
+Andel kvinnor som har heltid 77,3
+Andel män som har heltid 89,6
+Andel heltid totalt 79,6
+
+Ledardagen och
+Medarbetardagen
+1 december gick årets Ledardag och
+Medarbetardag av stapeln, detta år
+i digitalt format. Syftet med Ledar-
+dagen och Medarbetardagen är att
+uppmärksamma medarbetare och
+ledare som utmärkt sig särskilt under
+året. Under Ledardagen delades
+priser ut inom kategorierna Årets
+utvecklande ledare och Årets nytän-
+kande ledare. På Medarbetardagen
+delades pris ut i fyra olika kategorier
+baserade på vår arbetsplatskultur,
+där de nominerade hyllades för sina
+insatser under det gångna året. Dessa
+evenemang är viktiga för att bygga
+stolthet i organisationen och får
+mycket höga betyg i vår utvärdering.
+
 Yngre
-behålla rätt medarbetare genom att            är relativt oförändrad jämfört med    av Kungsbackaledaren Bas möjliggör är de kvinnliga medarbetarna som
-Sociala medier                                                                                                  än 30 år
-identifiera och lyfta medarbetar-             föregående år. Vi konstaterade en     ett mer flexibelt lärande för våra nya står för majoriteten av ökningen. 11,1 %
-erbjudanden som särskiljer oss på Vi har under året satt en strategi för nedåtgående trend under 2019, under chefer, oberoende av tid och plats. 30–39 år
+än 30 år
+11,1 %
+30–39 år
 60 år
 21,4 %
-arbetsmarknaden. En undersök- våra sociala medier, där innehållet 2020 har personalomsättningen ökat       Ökningen kan härledas till utveck- och äldre
-ning via LinkedIn om hur nyan- ska synkronisera med övrig kom- med en halv procent. Det blir intres- I kommunen arbetar 266 chefer. lingsinsatser som påbörjades 2018 i 12,3 %
-ställda medarbetare upplever oss munikation. Syftet med strategin är sant att fortsatt följa utvecklingen Under 2020 uppgick antal medarbe- och med kollektivavtalet Heltid
-som arbetsgivare samt vad externa bland annat att synliggöra utveck- under 2021 då den lokala arbets- tare per chef till 19,1 vilket innebär som norm.
-målgrupper har för bild av oss som lingen i kommunen, att förmedla marknaden påverkas av ett antal en minskning i relation till före-
-Heltid – det normala, procent 50–59 år 40–49 år
-arbetsgivare, har givit oss en insikt bilden av Kungsbacka som en nyetableringar och arbetsmarknaden gående år. Även antal medarbetare 27,9 %   27,4 %
-i hur vi behöver kommunicera med attraktiv kommun att bo, verka och i stort förhoppningsvis stabiliseras per enhetschef har minskat jämfört 2020
-potentiella medarbetare. Vi kommer vistas i samt stärka relationen till och återanpassar sig efter pandemin. med 2019. Antalet medarbetare per Andel kvinnor som har heltid 77,3
-utveckla ett koncept för kommuni- Kungsbacka och visa ett mångsidigt                enhetschef under året var 23,3. Andel män som har heltid 89,6
-kation som är långsiktigt och kan Kungsbacka. Den interna rörligheten var cirka
-Andel heltid totalt 79,6
-anpassas efter förvaltning, verksamhet        4 procent. Kungsbacka har alltså                                                    Andel medarbetare utifrån ålder.
-Rekryteringsläget
-och målgrupp.                                 relativt många som byter syssla inom
-Den pågående pandemin har kommunen vilket är bra då det leder
-Praktik & mässor                                                                    Antal månadsanställda per förvaltning 2020
-påverkat arbetet för kommunens till att man stannar längre i Kungs-
-Att ta emot praktikanter är ett rekryteringscenter, som haft ett backa och att medarbetarna upplever
-forum för att möta framtidens tätt samarbete med Vikariecenter att de kan få nya utmaningar inom Förvaltning Antal anställda Andel kvinnor  Andel män
-arbetskraft. Studenter kan nu fylla i för att rekrytera timvikarier till de kommunen. Den externa rörligheten Byggnadsnämnden 101 63,4         36,6
-en praktikansökan via webben, en ny verksamheter som haft störst behov ligger på 9,4 procent och anses vara en Förskola & Grundskola 2 667 85,5 14,6
-process som förenklar hanteringen av utifrån rådande situation. Vi har nivå som är rimlig och inte proble-
-Gymnasium & Arbetsmarknad       523          64,8          35,2
-ansökningar internt samt resulterar fortsatt att arbeta med proaktiva matisk.
-Individ & Familjeomsorg        790           83,3          16,7
-i ett mer professionellt bemötande insatser med chefer som har rekry-
-LEDARSKAP  OCH
-av studenter som är intresserade av teringsbehov inom svårrekryterade               Kommunstyrelsen                 126          73,8          26,2
-MEDARBETARSKAP
-Kungsbacka kommun.     yrkesgrupper. Under året har vi haft                         Kultur & Fritid                196           68,9          31,1
-Våra ledare
-ute 613 platsannonser med totalt
-Miljö & Hälsoskydd              101          63,4          36,6
-Som en följd av pandemin blev den 14 689 sökanden för tjänster i Under året har Kungsbacka kommun
-Service                        790            71            29
-traditionella utformningen av prao Kungsbacka kommun. Det har genomfört orienteringsprogrammet
-inställd. Samtliga förvaltningar har sålunda varit i snitt 18 sökanden Jag vill bli chef, som vänder sig till Teknik 246         37,9          62,1
-i samverkan med kommunens skolor per tjänst som kan jämföras mot medarbetare som vill få ökad kun- Vård & Omsorg   1 243         91,7           8,3
-hittat alternativa sätt att skapa inblick fjolårets 11 sökanden per tjänst. 57 skap om och inblick i vad chefskap
-Totalt i kommunen              6 661         80,3          19,7
-i arbetslivet för våra skolungdomar chefstjänster har annonserats under innebär. Totalt 33 medarbetare har
-under rådande omständigheter, bland året med ett snitt på 24 ansökningar genomför programmet under året och \*Då några anställningar spänner över flera förvaltningar blir summan på raden Totalt något mindre än summeringen av antalet på varje rad.
-annat genom digitala uppgifter.
-58 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 59
+och äldre
+12,3 %
+50–59 år  40–49 år
+27,9 %     27,4 %
+
+Andel medarbetare utifrån ålder.
+
+Antal månadsanställda per förvaltning 2020
+
+Förvaltning              Antal anställda Andel kvinnor Andel män
+
+```osaker-tabell
+Byggnadsnämnden                101           63,4         36,6
+Förskola & Grundskola         2 667          85,5         14,6
+
+Gymnasium & Arbetsmarknad      523           64,8         35,2
+Individ & Familjeomsorg        790           83,3         16,7
+Kommunstyrelsen                126           73,8         26,2
+Kultur & Fritid                196           68,9         31,1
+Miljö & Hälsoskydd             101           63,4         36,6
+Service                        790            71           29
+Teknik                         246           37,9         62,1
+
+Vård & Omsorg                 1 243          91,7          8,3
+Totalt i kommunen             6 661          80,3         19,7
+```
+
+\*Då några anställningar spänner över flera förvaltningar blir summan på raden Totalt något mindre än summeringen av antalet på varje rad.
+
+Kungsbacka kommuns årsredovisning 2020 59
 
 <!-- sida 33 -->
 
-FÖRVALTNINGSBERÄTTELSE                                                                                                               FÖRVALTNINGSBERÄTTELSE
+FÖRVALTNINGSBERÄTTELSE
+
+ARBETSMILJÖ
+OCH HÄLSA
+Coronapandemin
+
+Utbrottet av pandemin har i stor
+uträckning präglat arbetet inom
+HR-organisationen och arbets-
+miljöarbetet under året. HR har
+formulerat den arbetsgivarpolitiska
+hållningen för Kungsbacka kommun
+och också ingått i det kommunöver-
+gripande stabsarbetet som pågick
+under våren på grund av pandemin.
+Förvaltningarna för Individ &
+Familjeomsorg samt för Vård &
+Omsorg har verksamhet som vänder
+sig till de invånare som identifie-
+rats vara i riskgrupper för covid-19.
+Inom arbetsmiljö har många frågor
+och företeelser uppstått som varit
+okända sen tidigare och det har
+inneburit utmaning i beslut och
+ställningstaganden. Vi har lyckats
+framgångsrikt genom att vi tidigt
+påbörjade risk-och konsekvensana-
+lyser tillsammans med skyddsor-
+ganisation. Med tät samverkan och
+kontinuerliga skyddskommittéer har
+vi säkrat arbetsmiljön och fullföljt
+skyddsarbetet på ett bra sätt. För-
+ändringsarbetet som skett handlar
+om att verksamheten har fått ställa
+om för att minimera smittsprid-
+ning bland våra omsorgstagare och
+klienter. Detta arbete har främjats av
+en bra samverkan med arbetstaga-
+rorganisationerna där vårt samarbete
+har skapat goda förutsättningar för
+medarbetare, chefer och organisa-
+tion att hantera förändringar.
+På flera av våra förvaltningar har
+många medarbetare arbetat på distans
+i större utsträckning än tidigare,
+vilket resulterat i en ökad digital
+mognad i vår organisation. De
+digitala arbetssätt som vi utvecklat
+kommer att göra oss mer flexibla och
+effektiva i framtiden.
+En viktig del i arbetsmiljöarbetet
+har bestått i att stötta chefer och
+medarbetare i att upprätthålla en god
+arbetsmiljö hemifrån, då våra medar-
+betare uppmanats att arbeta hemma i
+så stor uträckning som möjlig för att
+
+minska smittspridningen. En rutin
+som möjliggör att låna hem teknisk
+utrustning som exempelvis bild-
+skärm implementerades, och utbild-
+ningar i att ”leda på distans” har
+erbjudits till förvaltningarnas chefer
+för att underlätta omställningen.
+Arbetsmiljömål
+Kommunen som arbetsgivare har
+enligt Arbetsmiljölagen ett ansvar
+för att det finns mål för arbetsmiljö-
+arbetet. Övergripande mål för
+Kungsbacka kommuns arbetsmiljö-
+arbete har tagits fram i samverkan
+med de fackliga parterna samt kom-
+munstyrelsens arbetsutskott, och
+antogs av Kommunfullmäktige
+i oktober 2020.
+KIA – Kommunernas Informa­
+tionssystem om Arbetsmiljö
+För att åtgärda och kunna före-
+bygga ohälsa och olycksfall på
+grund av förutsättningar i arbetet,
+följs anmälningar gällande tillbud
+och arbetsolyckor upp. KIA är ett
+webbaserat informationssystem som
+chefer och medarbetare i kommunen
+kan använda för att rapportera in
+olycksfall och tillbud. Under året
+har KIA implementerats på samtliga
+förvaltningar i kommunen. KIA ger
+förutsättningar att arbeta förebygg-
+ande med arbetsmiljön och skapa ett
+mer effektivt arbetssätt för chefer
+och för samverkansgrupper inom
+ramen för arbetet i skyddskommitté.
+Under 2020 har 1 151 tillbud, 313
+olycksfall och 24 arbetssjukdomar
+rapporterats.
+Medarbetarundersökningar
+Kungsbacka kommun har sett ett
+behov att utveckla metoder för att
+genomföra medarbetarundersök-
+ningar då forskning på området
+indikerar att traditionella med-
+arbetarundersökningar har liten
+effekt på det verksamhetsnära
+arbetsmiljöarbetet. Under 2020 har
+pulsmätningar i någon form genom-
+förts på samtliga förvaltningar.
+Pulsmätningar innebär att korta,
+digitala arbetsmiljöenkäter skickats
+ut till medarbetare mer frekvent för
+att få en temperaturmätning på hur
+
+60 Kungsbacka kommuns årsredovisning 2020
+
+medarbetarnas arbetsmiljö fungerar
+här och nu. Uppföljning kan ske på
+bland annat efterföljande APT och
+tanken är att gruppen på ett tidigt
+stadie ska kunna fånga upp såväl frisk-
+som riskfaktorer. Pulsmätningar
+utgör en undersökningsmetod i det
+systematiska arbetsmiljöarbetet med
+fokus på den psykosociala arbetsmiljön
+och ger chefer förutsättning att kunna
+arbeta proaktivt och agera i realtid på
+de signaler som resultatet indikerar.
+Call for care
+Upprepad korttidsfrånvaro (dag 1–14)
+kan vara tecken på ohälsa och
+kommande längre sjukskrivning.
+För att minska sjuktalen och öka
+frisknärvaron har vi under 2020
+arbetat med projektet ”Call for care”.
+Den som är sjuk ringer ett särskilt
+nummer och får råd och hjälp av
+en sjukvårdsutbildad person. Syftet
+är att få medarbetare att snabbare
+komma i tjänst igen. Projektet har
+påverkats starkt av pandemin då
+sjuktalen ökat kraftigt och det har
+därför varit svårt att utvärdera effek-
+ten av tjänsten. Projektet har förlängts
+en bit in på 2021 och en ny utvärdering
+kommer att ske innan vi tar ställning
+till eventuell fortsättning.
+Sjukfrånvaro
+Den totala sjukfrånvaron under
+2020 var 7,6 procent vilket innebär
+en ökning om 1 procent jämfört
+med 2019. En rimlig förklaring
+till ökningen är vårens utbrott av
+Covid-19 som fortfarande påverkar
+sjuktalen. Vi ser också en ökning i
+sjukfrånvaron generellt hos kom-
+munerna i Göteborgsregionen.
+Kungsbacka kommun är fortsatt den
+kommun som ligger lägst beträffande
+sjukfrånvaro. Sjukfrånvaron nådde
+sin kulmen under mars/april, under
+sommaren såg vi en nedåtgående
+trend där sjukfrånvaron låg lägre
+än motsvarande period 2019. Under
+hösten skärptes läget kring smitt-
+spridning i regionen och vi såg en
+ökad sjukfrånvaro, särskilt inom
+våra relationstunga förvaltningar för
+Vård & Omsorg, Individ & Familje-
+omsorg, Förskola & Grundskola och
+Service.
+
+Sjukfrånvaron för kvinnor upp-
+mättes till 8,2 procent och motsva-
+rande siffra för män var 5,1 procent.
+Resultatet ligger i linje med övriga
+kommuner i Göteborgsregionen där
+kvinnor generellt påvisar en högre
+sjukfrånvaro än män.
+Sjukfrånvaro, andel i procent
+2019 2020
+Sjukfrånvaro Kvinnor 7,2 8,2
+Sjukfrånvaro Män 4,3 5,1
+
+Sjukfrånvaro Totalt 6,6 7,6
+
+Lägst total sjukfrånvaro i Kungs-
+backa kommun uppvisade kom-
+munstyrelsens förvaltning och
+förvaltningen för Kultur & Fritid.
+Högst total sjukfrånvaro uppmättes
+på förvaltningen Vård & Omsorg.
+Den totala korttidssjukfrånva-
+ron (dag 1–14) under 2020 var 4,1
+procent och långtidssjukfrånvaron
+3,5 procent i Kungsbacka kommun.
+Långtidssjukfrånvaron har sjunkit
+något i jämförelse med 2019 medan
+korttidssjukfrånvaron har ökat.
+Ökningen i korttidssjukfrånva-
+ron kan kopplas samman med den
+rådande pandemin.
+Sjukfrånvaro utifrån ålder,
+andel i procent
+2019 2020
+Sjukfrånvaro, 6,1 7,7
+anställda i åldrarna
+29 år eller yngre
+Sjukfrånvaro, 5,8 6,7
+anställda i åldrarna
+30–49 år
+Sjukfrånvaro, 7,7 8,7
+anställda i åldrarna
+50 år eller äldre
+En jämlik arbetsplats
+I Kungsbacka kommun ska alla
+behandlas likvärdigt i frågor om
+arbete, anställnings- och andra
+arbetsvillkor samt utveckling i arbe-
+tet. Detta innebär att strävan efter
+ökad variation och normkritiskt
+tänkande ska vara en naturlig del av
+all verksamhet och att vi har nollto-
+lerans mot diskriminering. Arbetet
+för jämställdhet tar avstamp i en
+kommungemensam plan för aktiva
+
+FÖRVALTNINGSBERÄTTELSE
+
+åtgärder inom jämställdhet och jäm-
+likhet. Några exempel på priorite-
+rade åtgärder är att belysa och utreda
+löneskillnaderna mellan kvinnor
+och män, att undersöka skillnaden
+mellan möjliga karriär vägar inom
+mans- respektive kvinnodominerade
+yrken samt verka för ett jämställt
+föräldraskap.
+En jämställd lönepolitik
+Inför löneöversynen 2020 gjordes
+analyser utifrån marknadsläge och
+utifrån lagkravet om jämställda
+löner. Analyserna indikerade att
+lönerna inom Kungsbacka kommun
+ligger väl till i jämförelse med nära-
+liggande kommuner. I löneöversyn
+2020 gjordes strategiska priorite-
+ringar utifrån osakliga löneskill-
+nader till följande grupper som i
+analysen hade en lägre medianlön än
+motsvarande likvärdiga befattningar:
+Restaurangchefer, Socialsekreterare
+(LVU/LVM), Personliga assistenter,
+Lärare Gymnasiesärskolan, Bibliote-
+karier, Skolbibliotekarier, Skolkura-
+torer och vissa Enhetschefer.
 
 Avslutningssamtal
-minska smittspridningen. En rutin medarbetarnas arbetsmiljö fungerar Sjukfrånvaron för kvinnor upp- åtgärder inom jämställdhet och jäm-
-ARBETSMILJÖ                                                                                                                       och exitenkät
-som möjliggör att låna hem teknisk här och nu. Uppföljning kan ske på mättes till 8,2 procent och motsva- likhet. Några exempel på priorite-
-OCH HÄLSA
-utrustning som exempelvis bild- bland annat efterföljande APT och rande siffra för män var 5,1 procent. rade åtgärder är att belysa och utreda I Kungsbacka kommun genom-
-Coronapandemin
-skärm implementerades, och utbild- tanken är att gruppen på ett tidigt Resultatet ligger i linje med övriga löneskillnaderna mellan kvinnor förs ett avslutningssamtal med alla
-Utbrottet av pandemin har i stor ningar i att ”leda på distans” har stadie ska kunna fånga upp såväl frisk- kommuner i Göteborgsregionen där och män, att undersöka skillnaden tillsvidareanställda medarbetare som
-uträckning präglat arbetet inom erbjudits till förvaltningarnas chefer som riskfaktorer. Pulsmätningar kvinnor generellt påvisar en högre mellan möjliga karriär vägar inom väljer att avsluta sin anställning hos
-HR-organisationen och arbets- för att underlätta omställningen. utgör en undersökningsmetod i det sjukfrånvaro än män. mans- respektive kvinnodominerade oss. Avslutningssamtalet syftar till
-miljöarbetet under året. HR har               systematiska arbetsmiljöarbetet med                          yrken samt verka för ett jämställt att fånga upp unika erfarenheter från
-Arbetsmiljömål                                               Sjukfrånvaro, andel i procent
-formulerat den arbetsgivarpolitiska           fokus på den psykosociala arbetsmiljön                       föräldraskap.          verksamheten och identifiera möjliga
-hållningen för Kungsbacka kommun Kommunen som arbetsgivare har och ger chefer förutsättning att kunna 2019 2020                   utvecklingsområden. Avslutnings-
-En jämställd lönepolitik
-och också ingått i det kommunöver- enligt Arbetsmiljölagen ett ansvar arbeta proaktivt och agera i realtid på Sjukfrånvaro Kvinnor 7,2 8,2 samtalet resulterar också i en ökad
-gripande stabsarbetet som pågick för att det finns mål för arbetsmiljö- de signaler som resultatet indikerar. Sjukfrånvaro Män 4,3 5,1 Inför löneöversynen 2020 gjordes chans för att medarbetaren lämnar
-under våren på grund av pandemin. arbetet. Övergripande mål för                                            analyser utifrån marknadsläge och organisationen med en positiv
-Call for care                         Sjukfrånvaro Totalt 6,6 7,6
-Kungsbacka kommuns arbetsmiljö-                                                     utifrån lagkravet om jämställda känsla och fortsätter att agera som
-Förvaltningarna för Individ & arbete har tagits fram i samverkan Upprepad korttidsfrånvaro (dag 1–14)      löner. Analyserna indikerade att en ambassadör för Kungsbacka
-Familjeomsorg samt för Vård & med de fackliga parterna samt kom- kan vara tecken på ohälsa och Lägst total sjukfrånvaro i Kungs- lönerna inom Kungsbacka kommun kommun.
-Omsorg har verksamhet som vänder munstyrelsens arbetsutskott, och kommande längre sjukskrivning. backa kommun uppvisade kom- ligger väl till i jämförelse med nära-
-sig till de invånare som identifie- antogs av Kommunfullmäktige För att minska sjuktalen och öka munstyrelsens förvaltning och liggande kommuner. I löneöversyn Utöver avslutningssamtalet får med-
-rats vara i riskgrupper för covid-19. i oktober 2020. frisknärvaron har vi under 2020 förvaltningen för Kultur & Fritid. 2020 gjordes strategiska priorite- arbetare som avslutar sin anställning
-Inom arbetsmiljö har många frågor             arbetat med projektet ”Call for care”. Högst total sjukfrånvaro uppmättes ringar utifrån osakliga löneskill- i Kungsbacka kommun ta del av en
-KIA – Kommunernas Informa­
-och företeelser uppstått som varit            Den som är sjuk ringer ett särskilt   på förvaltningen Vård & Omsorg. nader till följande grupper som i digital exitenkät. Några fördelar
-tionssystem om Arbetsmiljö
-okända sen tidigare och det har               nummer och får råd och hjälp av       Den totala korttidssjukfrånva- analysen hade en lägre medianlön än med exitenkäten är att den möjliggör
-inneburit utmaning i beslut och För att åtgärda och kunna före- en sjukvårdsutbildad person. Syftet ron (dag 1–14) under 2020 var 4,1 motsvarande likvärdiga befattningar: att jämföra resultat samt följa upp
-ställningstaganden. Vi har lyckats bygga ohälsa och olycksfall på är att få medarbetare att snabbare procent och långtidssjukfrånvaron Restaurangchefer, Socialsekreterare resultatet statistiskt över tid. Resul-
-framgångsrikt genom att vi tidigt grund av förutsättningar i arbetet, komma i tjänst igen. Projektet har 3,5 procent i Kungsbacka kommun. (LVU/LVM), Personliga assistenter, tatet av exitenkäten 2020 indikerar
-påbörjade risk-och konsekvensana- följs anmälningar gällande tillbud påverkats starkt av pandemin då Långtidssjukfrånvaron har sjunkit Lärare Gymnasiesärskolan, Bibliote- att majoriteten av respondenterna är
-lyser tillsammans med skyddsor- och arbetsolyckor upp. KIA är ett sjuktalen ökat kraftigt och det har något i jämförelse med 2019 medan karier, Skolbibliotekarier, Skolkura- ganska eller mycket nöjda med sitt
-ganisation. Med tät samverkan och webbaserat informationssystem som därför varit svårt att utvärdera effek- korttidssjukfrånvaron har ökat. torer och vissa Enhetschefer. arbete i Kungsbacka kommun och
-kontinuerliga skyddskommittéer har chefer och medarbetare i kommunen ten av tjänsten. Projektet har förlängts Ökningen i korttidssjukfrånva- eventuellt skulle kunna tänka sig att
-vi säkrat arbetsmiljön och fullföljt kan använda för att rapportera in en bit in på 2021 och en ny utvärdering ron kan kopplas samman med den arbeta i Kungsbacka kommun igen i
-skyddsarbetet på ett bra sätt. För- olycksfall och tillbud. Under året kommer att ske innan vi tar ställning rådande pandemin.    framtiden.
-ändringsarbetet som skett handlar har KIA implementerats på samtliga till eventuell fortsättning.
-Sjukfrånvaro utifrån ålder,
-om att verksamheten har fått ställa förvaltningar i kommunen. KIA ger
-Sjukfrånvaro                          andel i procent        Nyckeltal 2020
-om för att minimera smittsprid- förutsättningar att arbeta förebygg-
-ning bland våra omsorgstagare och ande med arbetsmiljön och skapa ett Den totala sjukfrånvaron under 2019 2020 NYCKELTAL                 Utfall Utfall Utfall
+och exitenkät
+I Kungsbacka kommun genom-
+förs ett avslutningssamtal med alla
+tillsvidareanställda medarbetare som
+väljer att avsluta sin anställning hos
+oss. Avslutningssamtalet syftar till
+att fånga upp unika erfarenheter från
+verksamheten och identifiera möjliga
+utvecklingsområden. Avslutnings-
+samtalet resulterar också i en ökad
+chans för att medarbetaren lämnar
+organisationen med en positiv
+känsla och fortsätter att agera som
+en ambassadör för Kungsbacka
+kommun.
+Utöver avslutningssamtalet får med-
+arbetare som avslutar sin anställning
+i Kungsbacka kommun ta del av en
+digital exitenkät. Några fördelar
+med exitenkäten är att den möjliggör
+att jämföra resultat samt följa upp
+resultatet statistiskt över tid. Resul-
+tatet av exitenkäten 2020 indikerar
+att majoriteten av respondenterna är
+ganska eller mycket nöjda med sitt
+arbete i Kungsbacka kommun och
+eventuellt skulle kunna tänka sig att
+arbeta i Kungsbacka kommun igen i
+framtiden.
+
+Nyckeltal 2020
+NYCKELTAL                    Utfall Utfall Utfall
 2018 2019 2020
-klienter. Detta arbete har främjats av mer effektivt arbetssätt för chefer 2020 var 7,6 procent vilket innebär Sjukfrånvaro, 6,1 7,7
-en bra samverkan med arbetstaga- och för samverkansgrupper inom en ökning om 1 procent jämfört anställda i åldrarna Resursmått
-29 år eller yngre
-rorganisationerna där vårt samarbete ramen för arbetet i skyddskommitté. med 2019. En rimlig förklaring    Anställda andel kvinnor, procent 81,4 80,7 80,3
-har skapat goda förutsättningar för Under 2020 har 1 151 tillbud, 313 till ökningen är vårens utbrott av Sjukfrånvaro, 5,8 6,7
+Resursmått
+Anställda andel kvinnor, procent 81,4 80,7 80,3
 Antal medarbetare per enhetschef 23,3 23,8 23,3
-anställda i åldrarna
-medarbetare, chefer och organisa- olycksfall och 24 arbetssjukdomar Covid-19 som fortfarande påverkar
-30–49 år               Andel heltid, procent          77,2 78,8 79,6
-tion att hantera förändringar. rapporterats.  sjuktalen. Vi ser också en ökning i
-sjukfrånvaron generellt hos kom-      Sjukfrånvaro, 7,7 8,7  Anställda totalt              6 581 6 659 6 661
-Medarbetarundersökningar                                     anställda i åldrarna
-På flera av våra förvaltningar har            munerna i Göteborgsregionen.
-50 år eller äldre      Effektmått
-många medarbetare arbetat på distans Kungsbacka kommun har sett ett Kungsbacka kommun är fortsatt den
-i större utsträckning än tidigare, behov att utveckla metoder för att kommun som ligger lägst beträffande  Personalomsättning (intern och extern), 15 13,5 14
-En jämlik arbetsplats  procent
-vilket resulterat i en ökad digital genomföra medarbetarundersök- sjukfrånvaro. Sjukfrånvaron nådde
-mognad i vår organisation. De ningar då forskning på området sin kulmen under mars/april, under I Kungsbacka kommun ska alla Sjukfrånvaro totalt, procent 6,6 6,6 7,6
-digitala arbetssätt som vi utvecklat indikerar att traditionella med- sommaren såg vi en nedåtgående behandlas likvärdigt i frågor om Sjukfrånvaro, andel av sjukfrånvaro 60 dagar 38,2 40,4 32,8
-kommer att göra oss mer flexibla och arbetarundersökningar har liten trend där sjukfrånvaron låg lägre arbete, anställnings- och andra eller mer, procent
-effektiva i framtiden. effekt på det verksamhetsnära än motsvarande period 2019. Under arbetsvillkor samt utveckling i arbe-
+Andel heltid, procent         77,2 78,8 79,6
+
+Anställda totalt             6 581 6 659 6 661
+Effektmått
+Personalomsättning (intern och extern), 15 13,5 14
+procent
+Sjukfrånvaro totalt, procent   6,6  6,6  7,6
+Sjukfrånvaro, andel av sjukfrånvaro 60 dagar 38,2 40,4 32,8
+eller mer, procent
 Sjukfrånvaro, anställda i åldrarna 29 år - 6,1 7,7
-arbetsmiljöarbetet. Under 2020 har hösten skärptes läget kring smitt- tet. Detta innebär att strävan efter eller yngre, procent
-En viktig del i arbetsmiljöarbetet pulsmätningar i någon form genom- spridning i regionen och vi såg en ökad variation och normkritiskt
+eller yngre, procent
 Sjukfrånvaro, anställda i åldrarna 30–49 år, - 5,8 6,7
-har bestått i att stötta chefer och förts på samtliga förvaltningar. ökad sjukfrånvaro, särskilt inom tänkande ska vara en naturlig del av procent
-medarbetare i att upprätthålla en god Pulsmätningar innebär att korta, våra relationstunga förvaltningar för all verksamhet och att vi har nollto-
+procent
 Sjukfrånvaro, anställda i åldrarna 50 år - 7,7 8,7
-arbetsmiljö hemifrån, då våra medar- digitala arbetsmiljöenkäter skickats Vård & Omsorg, Individ & Familje- lerans mot diskriminering. Arbetet
 eller äldre, procent
-betare uppmanats att arbeta hemma i ut till medarbetare mer frekvent för omsorg, Förskola & Grundskola och för jämställdhet tar avstamp i en
 Sjukfrånvaro kvinnor, procent  7,2  7,2  8,2
-så stor uträckning som möjlig för att att få en temperaturmätning på hur Service.   kommungemensam plan för aktiva
 Sjukfrånvaro män, procent      3,8  4,3  5,1
-60 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 61
+
+Kungsbacka kommuns årsredovisning 2020 61
 
 <!-- sida 34 -->
 
@@ -2206,29 +3991,28 @@ FÖRVALTNINGSBERÄTTELSE                                                        
 
 Förväntad                utveckling
 
-Årsredovisningen är en redogörelse och analys av året Kungsbackas utmaningar framöver speglar till stor del
-2020, men utgör också ett viktigt underlag till kom- bilden som lyfts fram i SKR:s ekonomirapport. Föränd-
-mande års ekonomiska planering och ekonomistyrning. ringar i demografin medför krav på fortsatta effektive-
-Kungsbacka kommun beslutar om budgeten för kom- ringar samtidigt som investeringsutgifterna beräknas
-mande år i juni månad vilket innebär att processen med bli fortsatt höga. Därtill syns i likhet med riket en lägre
-årsredovisningen knyter an direkt till budgetprocessen. befolkningsutveckling än tidigare år även i Kungsbacka
-under 2020. Befolkningstillväxten har varit stark de
-2020 har på många sätt varit ett annorlunda år vid en senaste åren. För perioden 2010–2019 ökade befolk-
-jämförelse historiskt. Resultatet för såväl kommunen ningen i kommunen med 12 procent, och Kungsbacka
-som kommunkoncernen är det högsta hittills. Samtidigt var bland de fyrtiotal kommuner med störst tillväxt sett
-innebar 2020 en rad olika faktorer som gör det svårt att till befolkningen. Huruvida 2020 års vikande trend är
-jämföra rakt av med andra år. Under året erhölls ökade här för att stanna återstår att se. Utmaningen kopplad till
-generella statsbidrag med anledning av Coronapandemin. ökande befolkning och därmed krav på utbyggd kommu-
-Samtidigt visade sig skatteunderlaget vika i en mindre nal service samt en förändrad demografi kvarstår dock
-omfattning än vad som befarades vid inledningen av oavsett.
+Årsredovisningen är en redogörelse och analys av året
+2020, men utgör också ett viktigt underlag till kom-
+mande års ekonomiska planering och ekonomistyrning.
+Kungsbacka kommun beslutar om budgeten för kom-
+mande år i juni månad vilket innebär att processen med
+årsredovisningen knyter an direkt till budgetprocessen.
+2020 har på många sätt varit ett annorlunda år vid en
+jämförelse historiskt. Resultatet för såväl kommunen
+som kommunkoncernen är det högsta hittills. Samtidigt
+innebar 2020 en rad olika faktorer som gör det svårt att
+jämföra rakt av med andra år. Under året erhölls ökade
+generella statsbidrag med anledning av Coronapandemin.
+Samtidigt visade sig skatteunderlaget vika i en mindre
+omfattning än vad som befarades vid inledningen av
 året. Kommunen erhöll ersättning för samtliga sjuklöner
-under perioden april–juli samt för högre sjuklönekostna- Budgeten för kommande år ger uttryck för fortsatt höga
-der än normalt under resterande del av året. Därtill gavs ambitioner, både i form av utökad service till kommu-
-möjlighet att få ersättning för merkostnader till följd av nens invånare som fortsatt höga investeringsnivåer. En
-pandemin. Samtidigt som många verksamheter upplevde förutsättning för detta är att kommunen även kommande
-ett större tryck till följd av pandemin gick vissa mer på år kan genomföra nödvändiga effektiviseringar, och på BILD
-lågvarv till följd av rådande restriktioner. Detta innebar så vis bedriva verksamheten inom rådande ekonomiska
-de facto att kostnaderna inom dessa verksamheter mins- ramar.
+under perioden april–juli samt för högre sjuklönekostna-
+der än normalt under resterande del av året. Därtill gavs
+möjlighet att få ersättning för merkostnader till följd av
+pandemin. Samtidigt som många verksamheter upplevde
+ett större tryck till följd av pandemin gick vissa mer på
+lågvarv till följd av rådande restriktioner. Detta innebar
+de facto att kostnaderna inom dessa verksamheter mins-
 kade. Därtill bidrog ett relativt stort tillskott från explo-
 ateringsverksamheten, samt ett antal försäljningar av
 fastigheter i kommunkoncernen till att årets resultat blev
@@ -2255,7 +4039,30 @@ kommunerna framöver.1
 1 Ekonomirapporten, oktober 2020. Sveriges kommuner & regioner.
 sida 29 ff.
 
-62 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 63
+Kungsbackas utmaningar framöver speglar till stor del
+bilden som lyfts fram i SKR:s ekonomirapport. Föränd-
+ringar i demografin medför krav på fortsatta effektive-
+ringar samtidigt som investeringsutgifterna beräknas
+bli fortsatt höga. Därtill syns i likhet med riket en lägre
+befolkningsutveckling än tidigare år även i Kungsbacka
+under 2020. Befolkningstillväxten har varit stark de
+senaste åren. För perioden 2010–2019 ökade befolk-
+ningen i kommunen med 12 procent, och Kungsbacka
+var bland de fyrtiotal kommuner med störst tillväxt sett
+till befolkningen. Huruvida 2020 års vikande trend är
+här för att stanna återstår att se. Utmaningen kopplad till
+ökande befolkning och därmed krav på utbyggd kommu-
+nal service samt en förändrad demografi kvarstår dock
+oavsett.
+Budgeten för kommande år ger uttryck för fortsatt höga
+ambitioner, både i form av utökad service till kommu-
+nens invånare som fortsatt höga investeringsnivåer. En
+förutsättning för detta är att kommunen även kommande
+år kan genomföra nödvändiga effektiviseringar, och på                      BILD
+så vis bedriva verksamheten inom rådande ekonomiska
+ramar.
+
+62 Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 63
 
 <!-- sida 35 -->
 
@@ -3546,23 +5353,26 @@ SÄRREDOVISNING                                                                 
 Avfall    och    Återvinning
 
 Resultaträkning Bokslut Budget Bokslut
-2019  2020  2020 Avsättning för täckning av deponier
+2019 2020  2020  Avsättning för täckning av deponier
 Verksamhetens Intäkter 86,9 90,1 87,0 Avfall och återvinning har ett antal deponier där
 Kostnader för arbetskraft -3,8 -4,2 -3,4 avsättningar gjorts för kommande återställningar.
+
 Övriga Verksamhets- -70,6 -75,6 -81,5
 • Barnamossens Deponi har haft kostnader på
 kostnader
 0,6 miljoner kronor, som har belastat Barnamossens
-Avskrivningar    -1,3 -3,1  -1,5
+Avskrivningar    -1,3  -3,1  -1,5
 fond för återställning. Vid bokslut så uppgick fonden
-Verksamhetens   ­75,7 ­82,9 ­86,4  till 65,6 miljoner kronor.
+Verksamhetens    ­75,7 ­82,9 ­86,4 till 65,6 miljoner kronor.
 Kostnader
 • Under föregående år gjordes avsättning för Svin-
-Verksamhetens   11,2   7,2   0,6   holmens deponi om ytterligare 100 miljoner kronor.
+Verksamhetens    11,2  7,2   0,6   holmens deponi om ytterligare 100 miljoner kronor.
 Nettokostnader
 • Övriga kommunala deponier har haft kostnader på
 Finansiella intäkter 0,0 0,0 0,0   1,1 miljoner kronor, som har belastat fonden
+
 Finansiella kostnader -0,3 -1,0 -0,3 Övriga deponier. Vid bokslut så uppgick fonden till
+
 32,9 miljoner kronor.
 Resultat efter skatter 10,9 6,2 0,3
 • Förvaltningen ser i dagsläget inget mer behov av medel
@@ -3575,39 +5385,57 @@ ackumulerade
 ningsvis att genomföras under 2021. Täckning av Toms
 resultatet
 deponi är nu startat och kommer att vara klart i början
-Årets resultat   0,0   0,0   0,0
+Årets resultat    0,0  0,0   0,0
 på 2021. Det pågår undersökningar på Svinholmen
+
 deponi, och att erhålla tillgång till marken på
-Ackumulerat resultat för 12,0 18,2 12,3 Bräckornas deponi.                                        BILD
+
+Ackumulerat resultat för 12,0 18,2 12,3 Bräckornas deponi.                                       BILD
 Avfall och Återvinning
 Investeringar
+
 Miljoner       Bokslut Budget Bokslut
 Årets resultat
-2019  2020  2020
+2019 2020  2020
 För 2020 uppgick resultatet till 0,3 miljoner kronor, Inkomster 0 0 0
 vilket är 5,9 miljoner sämre än budget. Då en stor del
 Utgifter        -1 485 -7 745 -3 007
 av avfallsverksamhetens resultat beror på kostnader och
 Netto           ­1 485 ­7 745 ­3 007
 intäkter för materialen som tas emot på våra återvinnings-
+
 centraler är det svårt att förutse resultatet. Under 2020
 tillkom skatt på avfallsförbränning och en högre kostnad
 för att ta hand om slam från enskilda avlopp. Verksam-
 hetens fond är efter året + 12,3 miljoner kronor.
-En budgetavvikelse på ca 4,7 miljoner kronor prognosti-
-Intäkterna är i nivå med föregående år, dock är de klart seras på helår för investeringar på Avfall & Återvinning.
-lägre än budgeterat, vilket beror på lägre försäljningsin- Avvikelsen beror delvis på att projekt har fördröjts och
-täkter med 2,3 miljoner kronor för insamlat avfall försenats men också på att vissa resurser avsattes för
-vid återvinningscentralerna och lägre intäkter för insam- investeringar i samband med byggnation av den tillfälliga
-lat hushållsavfall 0,7 miljoner kronor. Verksamhetens återvinningscentralen i Frillesås. Denna har dock inte
-kostnader är 10,7 miljoner högre än föregående år vilket bekostats av avfallskollektivet utan av Kommunstyrelsen
-dels beror på den förbränningsskatt som infördes 1 april då flytten var en förutsättning för kommande exploate-
-2020, dels på att det totala antalet besök på återvinnings- ringar.
+
+Intäkterna är i nivå med föregående år, dock är de klart
+lägre än budgeterat, vilket beror på lägre försäljningsin-
+täkter med 2,3 miljoner kronor för insamlat avfall
+vid återvinningscentralerna och lägre intäkter för insam-
+lat hushållsavfall 0,7 miljoner kronor. Verksamhetens
+kostnader är 10,7 miljoner högre än föregående år vilket
+dels beror på den förbränningsskatt som infördes 1 april
+2020, dels på att det totala antalet besök på återvinnings-
 centralerna under 2020 ökatde med drygt 8 procent från
-2019\. Det innebär att kostnaderna för omhändertagande En ombudgetering kommer att begäras på 2,6 miljoner
-av avfall ökat i motsvarande grad. Dessutom är kostna- kronor för att färdigställa och fortsätta de arbeten som
-derna för att omhänderta slam från enskilda avlopp högre pågår.                     Bildtext FOTO: xxxx xxxx
+2019\. Det innebär att kostnaderna för omhändertagande
+av avfall ökat i motsvarande grad. Dessutom är kostna-
+derna för att omhänderta slam från enskilda avlopp högre
 än förra året.
+
+En budgetavvikelse på ca 4,7 miljoner kronor prognosti-
+seras på helår för investeringar på Avfall & Återvinning.
+Avvikelsen beror delvis på att projekt har fördröjts och
+försenats men också på att vissa resurser avsattes för
+investeringar i samband med byggnation av den tillfälliga
+återvinningscentralen i Frillesås. Denna har dock inte
+bekostats av avfallskollektivet utan av Kommunstyrelsen
+då flytten var en förutsättning för kommande exploate-
+ringar.
+En ombudgetering kommer att begäras på 2,6 miljoner
+kronor för att färdigställa och fortsätta de arbeten som
+pågår.                                           Bildtext FOTO: xxxx xxxx
+
 80 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 81
 
 <!-- sida 44 -->
@@ -3615,12 +5443,11 @@ derna för att omhänderta slam från enskilda avlopp högre pågår.           
 SÄRREDOVISNING                                                                                                                             SÄRREDOVISNING
 
 Kungsbacka          bredband
-
 Bildtext
 FOTO: xxxx xxxx
 
 Miljoner kronor Bokslut Budget Bokslut ter som kostnader understiger budgeterat. De lägre
-2019  2020  2020
+2019 2020  2020
 intäkterna förklaras främst av färre kommersiella
 Verksamhetens Intäkter 28,3 34,7 31,1 och kommunala anslutningar. De lägre kostnaderna
 Kostnader för arbetskraft -4,6 -3,2 -1,9 förklaras främst av lägre personalkostnader samt lägre
@@ -3633,42 +5460,53 @@ Den totala mängden nya anslutningar via kommuni-
 Verksamhetens   ­16,5 ­18,6 ­18,5  kationsoperatören under 2020 är 964 stycken.
 Kostnader
 Investeringar
-Verksamhetens    1,6   2,2   2,3
+Verksamhetens     1,6  2,2   2,3
 Nettokostnader
 Finansiella intäkter 0,0 0,0 0,0    Miljoner     Bokslut Budget Bokslut
-2019 2020  2020
+2019  2020  2020
 Finansiella kostnader 0,0 0,0 0,0
 Inkomster       8,4  10,0  13,8
 Resultat efter skatter ­1,5 2,2 2,3
-och finansnetto                     Utgifter      -47,6 -53,5 -47,4
-Resultatet överfört till det 1,5 2,2 2,3 Netto    ­39,1 ­43,5, ­33,6
+och finansnetto                     Utgifter       -47,6 -53,5 -47,4
+Resultatet överfört till det 1,5 2,2 2,3 Netto     ­39,1 ­43,5, ­33,6
 ackumulerade
 resultatet
-Årets resultat   0,0   0,0   0,0
-Fibernätet har byggts ut för 47,6 miljoner kronor 2020.
-Ackumulerat resultat ­1,5 ­2,2 2,3 Nettosumman för 2020 är 33,6 miljoner kronor vilket
+Årets resultat    0,0  0,0   0,0
+
+Ackumulerat resultat ­1,5 ­2,2 2,3
 för Kba Bredband
-är 5,6 miljoner kronor lägre än 2019.                  BILDER
 Årets resultat
-Byggnationen sker löpande men fyra pågående arbeten
-Årets resultat innan reglering mot fonden är 2,3 miljoner är försenade. Dessa är två redundanta fiberbyggnationer
-kronor att jämföra med ett budgeterat resultat på i Frillesås och i Gröninge, nya noder med avbrottsfri
-2,2 miljoner kronor. Verksamhetens resultat är alltså kraft och kommunikationsutrustning.
+
+Årets resultat innan reglering mot fonden är 2,3 miljoner
+kronor att jämföra med ett budgeterat resultat på
+2,2 miljoner kronor. Verksamhetens resultat är alltså
 0,1 miljoner kronor bättre än budgeterat.
+Det positiva resultatet innebär att fonden hamnar på
+2,7 miljoner kronor vid utgången av 2020. Såväl intäk-
+
+Fibernätet har byggts ut för 47,6 miljoner kronor 2020.
+Nettosumman för 2020 är 33,6 miljoner kronor vilket
+är 5,6 miljoner kronor lägre än 2019.                  BILDER
+
+Byggnationen sker löpande men fyra pågående arbeten
+är försenade. Dessa är två redundanta fiberbyggnationer
+i Frillesås och i Gröninge, nya noder med avbrottsfri
+kraft och kommunikationsutrustning.
 Anslutningstakten är fortfarande relativt hög vilket
-Det positiva resultatet innebär att fonden hamnar på medfört att intäkterna uppgått till 13,8 miljoner vilket
-2,7 miljoner kronor vid utgången av 2020. Såväl intäk- är 3,8 miljoner mer än budget.
+medfört att intäkterna uppgått till 13,8 miljoner vilket
+är 3,8 miljoner mer än budget.
 
 Bildtext
 FOTO: xxxx xxxx
 
-82 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 83
+82 Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 83
 
 <!-- sida 45 -->
 
 UPPLYSNINGAR OM DRIFT & INVESTERINGSREDOVISNINGENS UPPBYGGNAD                                             UPPLYSNINGAR OM DRIFT & INVESTERINGSREDOVISNINGENS UPPBYGGNAD
 
 Upplysningar                   om       drift       &
+
 Driftredovisning                    Investeringsredovisning
 investeringsredovisningens                                                           Nämnd            Intäkt Kostnad     Nämnd                   Utgift
 Kommunstyrelse                      Kommunstyrelse
@@ -3679,57 +5517,90 @@ Summa enligt resultaträkning        Summa enligt investeringsredovisningen
 
 Resultaträkning                     Kassaflödesanalys
 Verksamhetens intäkter              Löpande verksamhet
+
 Verksamhetens kostnader             Investeringsverksamhet
 Följande avsnitt beskriver översiktligt sambanden mellan de                          Avskrivningar                       Finansieringsverksamhet
 olika ekonomiska rapporterna i årsredovisningen.                                     Nettokostnader                      Utbetalning av infrastruktur
 Skatteintäkter                      Årets kassaflöde
 Statsbidrag och utjämning
+
 Allmänt                           Balansräkning                                      Verksamhetens resultat
 Finansnetto
 Nämnderna följer löpande upp beslutad nämndbudget. I Balansräkningen utgörs av kommunens tillgångar, Extraordinära poster
-april, augusti samt december görs en samlad uppföljning respektive skulder och egna kapital. Summan av till- Årets resultat
-för hela Kungsbacka kommun. I driftuppföljningen gör gångar å ena sidan och skulder och eget kapital å andra
-varje nämnd en uppföljning av sina intäkter respektive sidan är alltid lika.
-Balansräkning
+
+april, augusti samt december görs en samlad uppföljning
+för hela Kungsbacka kommun. I driftuppföljningen gör
+varje nämnd en uppföljning av sina intäkter respektive
 kostnader. Detta inkluderar interna poster, såväl mellan
-Principer för interndebitering                                          Anläggningstillgångar
-de olika nämnderna som internt inom nämnden. Detta                                                        Omsättningstillgångar
-medför en total bild över nämndens mellanhavanden. Poster som berör driftredovisningen:                   Eget kapital
-Riktlinjer för de främsta interna transaktionerna redo- Kungsbacka kommun har en relativt stor interndebitering. Avsättningar
-görs för i separat stycke nedan.  Merparten av interndebiteringen till nämnderna sker inom                Skulder
-ramen för beslutad internhandel hos Servicenämnden.
+de olika nämnderna som internt inom nämnden. Detta
+medför en total bild över nämndens mellanhavanden.
+Riktlinjer för de främsta interna transaktionerna redo-
+görs för i separat stycke nedan.
 Resultaträkning
-Internhandeln omfattar bland annat:
-I boksluten redovisas en resultaträkning för Kungs- • Internhyra och lokalvård
-backa kommun. Denna bygger till del på nämndernas • IT-relaterade kostnader
-driftredovisningar, men behöver justeras för de interna • Måltider
-posterna. Detta görs genom att interna och interninterna • Gemensam administration  Bildtext
-FOTO: xxxx xxxx
+I boksluten redovisas en resultaträkning för Kungs-
+backa kommun. Denna bygger till del på nämndernas
+driftredovisningar, men behöver justeras för de interna
+posterna. Detta görs genom att interna och interninterna
 poster elimineras. Således erhålls ett externt utfall som
-speglar kommunens verkliga intäkter och kostnader. Därtill sker interndebitering av fordonskostnader då
-Resultaträkningens uppställning följer lag om kommunal fordonshanteringen är samlad under Service.
+speglar kommunens verkliga intäkter och kostnader.
+Resultaträkningens uppställning följer lag om kommunal
 bokföring och redovisning. Resultaträkningens olika
-rader summeras till årets resultat som i sin tur tillförs det Poster i redovisningen som kalkylmässigt simuleras är:
-egna kapitalet i balansräkningen vid årets slut. • Personalomkostnader
-• Kapitalkostnader
+rader summeras till årets resultat som i sin tur tillförs det
+egna kapitalet i balansräkningen vid årets slut.
 Investeringsredovisning
-Uppföljning av pågående investeringar görs löpande Poster som finns i resultaträkningen men inte drift-
-under året. I april, augusti samt december görs en samlad redovisningen är skatteintäkter, generella statsbidrag
-uppföljning för Kungsbacka kommun. Investeringsredo- och utjämning, samt finansiella intäkter och kostnader.
+
+respektive skulder och egna kapital. Summan av till- Årets resultat
+gångar å ena sidan och skulder och eget kapital å andra
+sidan är alltid lika.
+Balansräkning
+Principer för interndebitering                                          Anläggningstillgångar
+Omsättningstillgångar
+Poster som berör driftredovisningen:                                    Eget kapital
+Kungsbacka kommun har en relativt stor interndebitering.                Avsättningar
+Merparten av interndebiteringen till nämnderna sker inom                Skulder
+ramen för beslutad internhandel hos Servicenämnden.
+Internhandeln omfattar bland annat:
+• Internhyra och lokalvård
+• IT-relaterade kostnader
+• Måltider
+• Gemensam administration                        Bildtext
+FOTO: xxxx xxxx
+Därtill sker interndebitering av fordonskostnader då
+fordonshanteringen är samlad under Service.
+Poster i redovisningen som kalkylmässigt simuleras är:
+• Personalomkostnader
+• Kapitalkostnader
+
+Uppföljning av pågående investeringar görs löpande
+under året. I april, augusti samt december görs en samlad
+uppföljning för Kungsbacka kommun. Investeringsredo-
 visningen innefattar utgifter för att exempelvis bygga ett
-nytt badhus, nya gator, skolor med mera. Investeringen Poster som berör investeringsredovisningen:
-blir en anläggningstillgång i kommunens balansräkning. Interna projektresurser belastar investeringsredovisningen
-Anläggningstillgången skrivs av över sin nyttjandetid med direkta kostnader i form av lönekostnad inklusive
-vilket resulterar i årliga kostnader för avskrivningar. personalomkostnad. Beräkningen följer rekommendation
-Investeringarna påverkar därmed kassaflödesanalysen R4, Materiella anläggningstillgångar från Rådet för
-i form av utbetalningar, balansräkningen i form av kommunal redovisning.
+nytt badhus, nya gator, skolor med mera. Investeringen
+blir en anläggningstillgång i kommunens balansräkning.
+Anläggningstillgången skrivs av över sin nyttjandetid
+vilket resulterar i årliga kostnader för avskrivningar.
+Investeringarna påverkar därmed kassaflödesanalysen
+i form av utbetalningar, balansräkningen i form av
 anläggningstillgångar, samt resultaträkningen i form
 av avskrivningar.
+
+Poster som finns i resultaträkningen men inte drift-
+redovisningen är skatteintäkter, generella statsbidrag
+och utjämning, samt finansiella intäkter och kostnader.
+
+Poster som berör investeringsredovisningen:
+Interna projektresurser belastar investeringsredovisningen
+med direkta kostnader i form av lönekostnad inklusive
+personalomkostnad. Beräkningen följer rekommendation
+R4, Materiella anläggningstillgångar från Rådet för
+kommunal redovisning.
+
 Kassaflödesanalys
 Kassaflödesanalysen redogör för de likvida flödena under
 året, det vill säga in- och utbetalningar under räken-
 skapsåret.
-84 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 85
+
+84 Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 85
 
 <!-- sida 46 -->
 
@@ -3740,81 +5611,94 @@ Driftredovisning
 samlat nettoutfall om 4 832 miljoner kronor vilket är 141 åtgärderna har löpande följts inom ramen för kommun-
 miljoner bättre än budgeterat. Avvikelsen motsvarar 2,8 styrelsens uppsiktsplikt och kommer fortgå under 2021.
 procent av budgeten.
+
 Kommunstyrelsen redovisar ett överskott om 25 miljo-
-Kommunens avgiftsfinansierade verksamheter redovisar ner. Överskottet förklaras främst av lägre kostnader för
+
 I följande avsnitt sker en uppföljning av kommunens driftredovisning. Redovisningen
-ingen avvikelse då deras över respektive underskott regle- färdtjänst och omsorgsresor, högre planintäkter samt
 sker brutto för att ge en så detaljerad bild över respektive verksamhet som möj-
-ras gentemot respektive abonnentkollektiv. att medel reserverade för diverse kommungemensamma
 ligt. I slutet av tabellen justeras för interna poster för att kunna härleda beloppen till
-projekt ej nyttjats fullt ut. Överskottet hos kommunsty-
 den externa resultaträkningen. Mer om hur de olika finansiella rapporterna hänger
-Byggnadsnämnden redovisar ett överskott gentemot relsen har till stor del en koppling till pågående pandemi
 ihop framgår av särskilt avsnitt. För mer ingående analyser av nämnderna hänvisas till
-budget om 2 miljoner. Överskottet förklaras främst av och bedöms ej vara något bestående över tid.
 nämndernas egna årsredovisningar som görs tillgängliga på kommunens hemsida.
+
+Kommunens avgiftsfinansierade verksamheter redovisar
+ingen avvikelse då deras över respektive underskott regle-
+ras gentemot respektive abonnentkollektiv.
+
+Byggnadsnämnden redovisar ett överskott gentemot
+budget om 2 miljoner. Överskottet förklaras främst av
 högre bygglovsintäkter än budgeterat men även lägre
+
+ner. Överskottet förklaras främst av lägre kostnader för
+färdtjänst och omsorgsresor, högre planintäkter samt
+att medel reserverade för diverse kommungemensamma
+projekt ej nyttjats fullt ut. Överskottet hos kommunsty-
+relsen har till stor del en koppling till pågående pandemi
+och bedöms ej vara något bestående över tid.
+
 personalkostnader till följd av vakanser. Avvikelsen beror Service och Service fastigheter redovisar ett överskott om
 främst på ökad efterfrågan på bygglov och kartunderlag 13 miljoner. Överskottet förklaras av lägre personal-
-Nämnd             Budget        Bokslut 2020            Bokslut 2019
+Nämnd              Budget        Bokslut 2020           Bokslut 2019
 2020                                                           samt en mer ändamålsenlig taxa baserad på genomsnitt- kostnader än budgeterat, samt lägre fastighetsrelaterade
 lig handläggningstid inte byggnadens yta. Resterande kostnader med 8 miljoner. Exempelvis understiger ener-
-Belopp i mkr     Nettoan- Intäkter Kostnader Netto- Avvikelse Intäkter Kostnader Netto-
-slag             kostnader                 kostnader           avvikelse är i första hand en effekt av restriktioner till gikostnaderna budgeterat till följd av förhållandevis låga
+Belopp i mkr      Nettoan- Intäkter Kostnader Netto- Avvikelse Intäkter Kostnader Netto-
+slag             kostnader                  kostnader          avvikelse är i första hand en effekt av restriktioner till gikostnaderna budgeterat till följd av förhållandevis låga
 följd av Covid-19 då resor, utbildningar och gemen- elpriser under 2020.
-Byggnadsnämnden     -30    45     -73   -28     2     26    -45    -20
+Byggnadsnämnden      -30    45    -73    -28    2     26     -45   -20
 samma personalaktiviteter inte har genomförts som
-Kultur & fritid     -242   32    -265   -233    9     48    -267  -219
+Kultur & fritid     -242    32   -265   -233    9     48    -267   -219
 planerats. Överskottet reduceras något till följd av lägre Teknik skattefinansierad verksamhet redovisar ett överskott
-Förskola & Grundskola -2 014 305 -2 246 -1 940 74    277   -2 223 -1 946           intäkter inom miljö- och hälsoskydd. om 8 miljoner. Överskottet förklaras till stor del av lägre
-Gymnasium & Arbetsmarknad -547 176 -721 -545    2    206    -729  -523                                               personal- och kapitalkostnader än budgeterat. Därtill
+Förskola & Grundskola -2 014 305 -2 246 -1 940  74    277  -2 223 -1 946           intäkter inom miljö- och hälsoskydd. om 8 miljoner. Överskottet förklaras till stor del av lägre
+Gymnasium & Arbetsmarknad -547 176 -721 -545    2     206   -729   -523                                               personal- och kapitalkostnader än budgeterat. Därtill
 Kultur & Fritid redovisar ett överskott gentemot budget bidrar erhållen ersättning för sjuklöner till överskottet.
-Individ & Familjeomsorg -666 343 -1 016 -673    -7   343   -1 030 -686
+Individ & Familjeomsorg -666 343 -1 016 -673    -7    343  -1 030  -686
 om 9 miljoner. Överskottet förklaras främst av lägre per-
-Kommunfullmäktige    -4     0     -3     -3     1      0     -4    -4
+Kommunfullmäktige    -4      0     -3    -3     1      0     -4     -4
 sonal- och kapitalkostnader. På grund av pandemin har Vård & Omsorg redovisar ett överskott om 13 miljoner
-Kommunrevision       -3     0     -3     -3     0      0     -3    -3              stor del verksamheten fått ställas om och/eller begränsats, vilket motsvarar 1,4 procent av budgeten. Överskottet
-Kommunstyrelse      -319   27    -321   -294   25     25    -318  -293             vilket har påverkat behovet av timanställda och inneburit förklaras till stor del av att merkostnader till följd av
+Kommunrevision       -3      0     -3    -3     0      0     -3     -3             stor del verksamheten fått ställas om och/eller begränsats, vilket motsvarar 1,4 procent av budgeten. Överskottet
+Kommunstyrelse      -319    27   -321   -294    25    25    -318   -293            vilket har påverkat behovet av timanställda och inneburit förklaras till stor del av att merkostnader till följd av
 att tjänster varit vakanta under längre tid. Pandemin har pandemin täckts av erhållna statsbidrag, samtidigt som
-Miljö & Hälsoskydd   -1     0     -1     -1     0     14    -28    -14
+Miljö & Hälsoskydd   -1      0     -1    -1     0     14     -28   -14
 även påverkat våra intäkter negativt, men det har kom- vissa verksamheter haft lägre kostnader än föregående
-Service             -43    502   -540   -38     5    495    -523   -28
+Service              -43   502   -540    -38    5     495   -523   -28
 penserats av statsbidrag, bland annat för ersättning för år. Exempelvis har dagomsorgsverksamhet och växel-
-Service fastighet   -32    667   -691   -24     8    635   -648    -13             sjuklönekostnader på grund av pandemin. vård varit stängt under delar av pandemin. Därtill bidrar
-Teknik, skattefinansierad -144 100 -236 -136    8     62    -197  -135                                               erhållen ersättning för sjuklöner till resultatet.
+Service fastighet    -32   667   -691    -24    8     635   -648   -13             sjuklönekostnader på grund av pandemin. vård varit stängt under delar av pandemin. Därtill bidrar
+Teknik, skattefinansierad -144 100 -236 -136    8     62    -197   -135                                               erhållen ersättning för sjuklöner till resultatet.
 verksamhet                                                                         Förskola & Grundskola redovisar ett överskott om 74 mil-
-Valnämnden           -1     0      0     0      0      2     -3     -1             joner, vilket motsvarar 3,7 procent av budgeten. Nämn- Avgiftsfinansierade verksamheter redovisar sitt resultat
+Valnämnden           -1      0     0      0     0      2     -3     -1             joner, vilket motsvarar 3,7 procent av budgeten. Nämn- Avgiftsfinansierade verksamheter redovisar sitt resultat
 dens överskott beror till stor del på att det varit färre barn gentemot respektive abonnentkollektiv vilket gör att
-Vård & Omsorg       -928   691  -1 606  -915   13    629   -1 535 -906
+Vård & Omsorg       -928   691  -1 606  -915    13    629  -1 535  -906
 i förskolan, fritidshemmen och grundskolan än vad som utfallet inte påverkar kommunens resultat. För mer detal-
 Summa skattefinansierade ­4 973 2 888 ­7 720 ­4 832 141 2 763 ­7 554 ­4 791
 budgeterats för. Den pågående pandemin har bidragit jer kring de olika kollektiven, se avsnittet särredovisning.
 nämnder
 till den positiva budgetavvikelsen. Den har inneburit
 ökade sjukskrivningar samtidigt som sjuklönerna för Övrigt verksamhetsövergripande omfattar kostnader för
-VA                   0     169   -169    0      0    151    -151    0              april–december har kompenserats från staten och färre pensioner, kommunens exploateringsverksamhet samt
-timvikarier har anlitats.         budgeterade medel för kapitalkostnader och hyror för
-Avfall & Återvinning 0     87     -87    0      0     76    -76     0
+VA                    0    169   -169     0     0     151   -151    0              april–december har kompenserats från staten och färre pensioner, kommunens exploateringsverksamhet samt
+timvikarier har anlitats.          budgeterade medel för kapitalkostnader och hyror för
+Avfall & Återvinning  0     87    -87     0     0     76     -76    0
 kommande projekt. Överskottet förklaras främst av
-Bredband             0     27     -27    0      0     25    -25     0
+Bredband              0     27    -27     0     0     25     -25    0
 Gymnasium & Arbetsmarknad redovisar ett överskott att medel för avskrivningar och hyra ej nyttjats i den
-Summa avgiftsfinansierade 0 283  ­283    0      0    252    ­252    0              om 2 miljoner. Överskottet förklaras främst av erhållen utsträckning som budgeterats. Detta förklaras dels av en
+Summa avgiftsfinansierade 0 283  ­283     0     0     252   ­252    0              om 2 miljoner. Överskottet förklaras främst av erhållen utsträckning som budgeterats. Detta förklaras dels av en
 nämnder
 ersättning för sjuklöner samt lägre personal- och kapital- lägre investeringstakt under året, dels att en del projekt
-kostnader än budgeterat.          förskjutits i tid.
-Övrigt verksamhetsövergri- -29 176 -108  69    98    203    -150   53
+kostnader än budgeterat.           förskjutits i tid.
+
+Övrigt verksamhetsövergri- -29 176 -108  69     98    203   -150    53
 pande                                                                              Individ & Familjeomsorg redovisar ett underskott om
-Delsumma           ­5 002 3 347 ­8 110 ­4 763  238  3 218  ­7 955 ­4 737           7 miljoner vilket motsvarar 1 procent av budgeten.
+Delsumma           ­5 002 3 347 ­8 110 ­4 763  238   3 218 ­7 955 ­4 737           7 miljoner vilket motsvarar 1 procent av budgeten.
 Underskottet förklaras främst av kostnader för köpta
-Justering interna poster -2 094 2 094    0          -2 006 2 006    0
+Justering interna poster  -2 094 2 094    0         -2 006  2 006   0
 platser inom Myndighet stöd och behandling. Utöver
 Verksamhetens nettokostnad -5 002 1 253 -6 017 -4 763 238 1 213 -5 950 -4 737
 förvaltningens arbete utifrån åtgärdsplan har tillskott av
-Varav avskrivningar         -    344                   -    315     -              statliga medel samt ersättning för sjuklönekostnader som
+Varav avskrivningar          -    344                  -     315     -             statliga medel samt ersättning för sjuklönekostnader som
 arbetsgivaren haft under perioden april-december vilket
 förbättrat årets resultat. Nämnden har fortsatt arbetet
 med sin handlingsplan för budget i balans under 2020
 vilket visat sig ge effekt. Prognosen i delårsbokslutet var
+
 86 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 87
 
 <!-- sida 47 -->
@@ -3896,163 +5780,340 @@ Totalsumma                              ­115  944  829 1 301   472
 
 <!-- sida 48 -->
 
-EXPLOATERING                                                                                                                                 EXPLOATERING
+EXPLOATERING
 
 Exploatering
 
-tidigare markanvisning har lämnats tillbaka. Ny mark-                 Bilder på motstående sida från Kolla Parkstad, Aranäs,
-anvisning sker tidigast under 2021/2022.                              parkeringshuset som är en del av Väster om ån, och det
-nya badhuset i november.
-Väster om ån
 Kommunens exploateringsverksamhet, utvecklar och
-iordningsställer mark för bostads- och verksamhets- Väster om ån är det hittills största stadsomvandlings-
-områden. Exploateringsprojekten sträcker sig över flera projektet i Kungsbacka. Centrala staden kommer att
-år, vilket gör att slutredovisning för många projekt ligger byggas ut med bostäder, handel och kontor. Projektet
-flera år fram i tiden. Inkomsterna består av intäkter för omfattar ett område från Alléskolan i söder till
-markförsäljning och av exploateringsbidrag från explo- Kungsmässan i norr.
-atörerna. Utgifterna består av kostnader för inköp och                                          BILDER
-iordningsställande av mark samt utgifter för att bygga ut Inom kvarteret Valand ska det byggas ca 300 bostäder
-kommunala anläggningar inom exploateringsområdena. varav hälften hyresrätter, kontor och lokaler för handel.
-Under 2020 såldes en tomt i Kolla Parkstad verksamhets- Parkeringshuset är klart. Projektering av gator,
-område och en i Skårby.           ledningar och övrig infrastruktur pågår. Utbyggnaden
-av hela kvarteret Valand pågår flera år framöver.
+iordningsställer mark för bostads- och verksamhets-
+områden. Exploateringsprojekten sträcker sig över flera
+år, vilket gör att slutredovisning för många projekt ligger
+flera år fram i tiden. Inkomsterna består av intäkter för
+markförsäljning och av exploateringsbidrag från explo-
+atörerna. Utgifterna består av kostnader för inköp och
+iordningsställande av mark samt utgifter för att bygga ut
+kommunala anläggningar inom exploateringsområdena.
+Under 2020 såldes en tomt i Kolla Parkstad verksamhets-
+område och en i Skårby.
 Skårby vårdboende
-2020 påbörjades byggnation av de två första bostads-
-En ny detaljplan har antagits under 2020 i syfte att möjlig- kvarteren som beräknas vara klara för inflyttning första
-göra för ett nytt vård- och omsorgsboende. Kommunen kvartalet 2022. Projektering av omkringliggande gator
-har sålt marken under året till Eksta som kommer att runt dessa kvarter pågår och utbyggnad påbörjas 2021.
+En ny detaljplan har antagits under 2020 i syfte att möjlig-
+göra för ett nytt vård- och omsorgsboende. Kommunen
+har sålt marken under året till Eksta som kommer att
 bygga och sedan hyra ut till kommunen. I samband med
-projektet bygger kommunen ut infrastruktur i området i Nästa etapp i detta projekt är kvarter Ejdern och det
-form av lokalgata samt cirkulation på Göteborgsvägen. planeras att byggas ca 250 bostäder och ett parkeringshus.
-Kolla Parkstad etapp 2            Annebergs centrum
-Kolla Parkstad är det största bostadsprojektet i Kungsbacka Intill Annebergs pendelstation planeras det för ett nytt
-kommun. Området innehåller hyresrätter, bostadsrätter centrum som ska stärka Anneberg som tätort. Plan-
-och äganderätter. Här byggs radhus, kedjehus och fler- området kommer att innehålla ca 200 bostäder, vård- och
-familjshus. Utbyggnad av gator och annan infrastruktur omsorgsboende, förskola, gruppbostad samt lokaler för
-pågår och beräknas vara klart under 2021. verksamheter och handel. Kommunen är markägare och
-Serneke har tilldelats markanvisning. Nu pågår arbete
+projektet bygger kommunen ut infrastruktur i området i
+form av lokalgata samt cirkulation på Göteborgsvägen.
+Kolla Parkstad etapp 2
+Kolla Parkstad är det största bostadsprojektet i Kungsbacka
+kommun. Området innehåller hyresrätter, bostadsrätter
+och äganderätter. Här byggs radhus, kedjehus och fler-
+familjshus. Utbyggnad av gator och annan infrastruktur
+pågår och beräknas vara klart under 2021.
 Särö centrum
-med att ta fram en detaljplan som är beräknad att vara
-I området ska 75–100 bostäder byggas. Markförsäljning för antagen under 2021.
+I området ska 75–100 bostäder byggas. Markförsäljning för
 bostäder skedde 2017. Även mark för verksamhetslokaler
-Duvehed verksamhetsområde
 ska säljas. Gator och parkering har byggts klart. Inom
-området kommer det även att byggas ett äldreboende Duvehed är nästa verksamhetsområde som ska utvecklas
-och detta påbörjades under 2019 och har färdigställts och det ligger i Fjärås stationssamhälle. Kommunen äger
-under 2020.                       fastigheter Duvehed 2:14 som är en fastighet som ligger
-bredvid järnvägen med närhet till motorvägen i Fjärås.
+området kommer det även att byggas ett äldreboende
+och detta påbörjades under 2019 och har färdigställts
+under 2020.
 Stadsdel Aranäs
-I projektet har kommunen hittills haft utgifter för att
-I sydöstra Kungsbacka fortsätter den nya stadsdelen växa köpa in kompletterande mark till området. Området är
-fram med två nya områden Aranäs 3 och 4. klart för etablering. Utbyggnad av gator och va har skett
-under 2019/2020 och två tomter i området har sålts, där
-I Aranäs 3 planerar kommunen för exploatering av ytter- handpenning betalats in under 2020.
+
+I sydöstra Kungsbacka fortsätter den nya stadsdelen växa
+fram med två nya områden Aranäs 3 och 4.
+
+I Aranäs 3 planerar kommunen för exploatering av ytter-
 ligare mark för bostadsändamål med ca 280 bostäder,
-Kolla Parkstad verksamhetsområde
 parkeringshus och butikslokaler. Detaljplanen innebär
-en utbyggnad av bostäder och centrumfunktioner i tre Tre fastigheter är bildade inom området varav en såldes år
-kvarter i varierande höjder. Närmast järnvägen i öster 2020. Markanvisning har skett till ytterligare en fastighet.
-föreslås markparkeringar och ett grönt stråk inklusive ett Utbyggnad av gator och VA till verksamhetsområdet
-bullerskydd samt en återvinningsplats. Bostäderna kan utförs inom projektet Kolla etapp 2.
+en utbyggnad av bostäder och centrumfunktioner i tre
+kvarter i varierande höjder. Närmast järnvägen i öster
+föreslås markparkeringar och ett grönt stråk inklusive ett
+bullerskydd samt en återvinningsplats. Bostäderna kan
 tidigast börja byggas under 2022.
+I Aranäs 4 planeras det för ca 160 bostäder, ny skola
+och butikslokaler och hälften av dessa kommer att vara
+hyresrätter. Detaljplanen vann laga kraft under 2018 men
+
+90  Kungsbacka kommuns årsredovisning 2020
+
+EXPLOATERING
+
+tidigare markanvisning har lämnats tillbaka. Ny mark-
+anvisning sker tidigast under 2021/2022.
+Väster om ån
+
+Väster om ån är det hittills största stadsomvandlings-
+projektet i Kungsbacka. Centrala staden kommer att
+byggas ut med bostäder, handel och kontor. Projektet
+omfattar ett område från Alléskolan i söder till
+Kungsmässan i norr.
+Inom kvarteret Valand ska det byggas ca 300 bostäder
+varav hälften hyresrätter, kontor och lokaler för handel.
+Parkeringshuset är klart. Projektering av gator,
+ledningar och övrig infrastruktur pågår. Utbyggnaden
+av hela kvarteret Valand pågår flera år framöver.
+2020 påbörjades byggnation av de två första bostads-
+kvarteren som beräknas vara klara för inflyttning första
+kvartalet 2022. Projektering av omkringliggande gator
+runt dessa kvarter pågår och utbyggnad påbörjas 2021.
+Nästa etapp i detta projekt är kvarter Ejdern och det
+planeras att byggas ca 250 bostäder och ett parkeringshus.
+
+Annebergs centrum
+Intill Annebergs pendelstation planeras det för ett nytt
+centrum som ska stärka Anneberg som tätort. Plan-
+området kommer att innehålla ca 200 bostäder, vård- och
+omsorgsboende, förskola, gruppbostad samt lokaler för
+verksamheter och handel. Kommunen är markägare och
+Serneke har tilldelats markanvisning. Nu pågår arbete
+med att ta fram en detaljplan som är beräknad att vara
+antagen under 2021.
+Duvehed verksamhetsområde
+Duvehed är nästa verksamhetsområde som ska utvecklas
+och det ligger i Fjärås stationssamhälle. Kommunen äger
+fastigheter Duvehed 2:14 som är en fastighet som ligger
+bredvid järnvägen med närhet till motorvägen i Fjärås.
+I projektet har kommunen hittills haft utgifter för att
+köpa in kompletterande mark till området. Området är
+klart för etablering. Utbyggnad av gator och va har skett
+under 2019/2020 och två tomter i området har sålts, där
+handpenning betalats in under 2020.
+Kolla Parkstad verksamhetsområde
+
+Tre fastigheter är bildade inom området varav en såldes år
+2020\. Markanvisning har skett till ytterligare en fastighet.
+Utbyggnad av gator och VA till verksamhetsområdet
+utförs inom projektet Kolla etapp 2.
 Kungsmässan
-I Aranäs 4 planeras det för ca 160 bostäder, ny skola Utbyggnad av Kungsmässan är klar och arbetet med
-och butikslokaler och hälften av dessa kommer att vara Borgmästargatan är klart. Samtliga utgifter betalas av
-hyresrätter. Detaljplanen vann laga kraft under 2018 men Aranäs.
-90  Kungsbacka kommuns årsredovisning 2020                                                                                    Kungsbacka kommuns årsredovisning 2020 91
+Utbyggnad av Kungsmässan är klar och arbetet med
+Borgmästargatan är klart. Samtliga utgifter betalas av
+Aranäs.
+
+Bilder på motstående sida från Kolla Parkstad, Aranäs,
+parkeringshuset som är en del av Väster om ån, och det
+nya badhuset i november.
+
+BILDER
+
+Kungsbacka kommuns årsredovisning 2020 91
 
 <!-- sida 49 -->
 
-UPPLYSNINGAR OM REDOVISNINGSPRINCIPER                                                                                     UPPLYSNINGAR OM REDOVISNINGSPRINCIPER
+UPPLYSNINGAR OM REDOVISNINGSPRINCIPER
 
-För gränsdragning mellan investering och underhåll gäller Under 2020 har avsättning för visstidspension upptagits
 Redovisningsprinciper
-att när en anläggningstillgång eller komponent i en anlägg- till ett belopp om 10 miljoner inklusive löneskatt. Därtill
-ning byts ut eller nyanskaffas redovisas det som en investe- har avsättning gjorts för flytt av ledning inom kvarteret
-ring. Kostnader för akut underhåll, åtgärder för skadegö- Valand om 7 miljoner.
+
 Kommunens redovisning används som en grund för framtida beslut och när ansvar ska utkrävas.
-relser samt måleriarbeten definieras som återställande av en
-Redovisningen ska förmedla en rättvisande bild av kommunens ekonomiska ställning. I följande                          Handpenningar exploatering
-byggdel, och redovisas som driftkostnad vid anskaffningen.
+Redovisningen ska förmedla en rättvisande bild av kommunens ekonomiska ställning. I följande
 avsnitt beskriver vi de regler som vi följt i vår redovisning samt de avsteg som föreligger.
-Handpenningar i pågående exploateringsområden redo-
-Lånekostnader
-visas som kortfristig skuld till dess att resultatföring sker.
-Den kommunala redovisningen regleras genom lag om finansiella kostnader skiljer sig från vad som är jämförelse- Ränta under byggtid, kreditivränta, tillämpas för projekt
-Leasing
-kommunal bokföring och redovisning (2018:597). Lagen störande i verksamhetens kostnader. över 5 miljoner kronor, som pågår under mer än ett
-stadgar bland annat att bokföring och redovisning ska                               kalenderår. Kreditivränta baseras på kommunens genom- Från och med 2019 redovisas leasingavtal avseende
-fullgöras enligt god redovisningssed, vilket definieras För 2020 har reavinster från exploateringsverksamheten snittliga upplåningsränta. fordon med startdatum från 2019-01-01 som finansiell
-som praxis hos en kvalitativt representativ krets av tagits upp som jämförelsestörande poster. Omfattningen           leasing. Detta innebär att avtalen återfinns dels som en
-TILLGÅNGAR
-bokföringsskyldiga. Lagstiftningen kompletteras med av dessa framgår i not.                                           materiell anläggningstillgång, dels en långfristig skuld.
-Immateriella och materiella
-rekommendationer från Rådet för kommunal redovisning,                                                                 Effekten på resultaträkningen sker i form av avskrivning
-INTÄKTER                                         anläggningstillgångar
-(RKR). Detta innebär bland annat att:                                                                                 och ränta. Tidigare avtal redovisas likt tidigare år som
-Skatteintäkter
-Anläggningstillgångarna har i balansräkningen uppta- operationell leasing. Hyresavtal redovisas fortsatt som
-• Intäkter redovisas i den omfattning det är sannolikt Den preliminära slutavräkningen för skatteintäkter gits till anskaffningsvärdet efter avdrag för verkställda operationell leasing.
-att de ekonomiska tillgångarna kommer att tillgodo- baseras på Sveriges kommuner och regioners (SKR) avskrivningar/nedskrivningar. Planenliga avskrivningar
-SAMMANSTÄLLDA   RÄKENSKAPER
-göras kommunen och intäkterna kan beräknas på ett decemberprognos i enlighet med rekommendation R2 har beräknats på objektens anskaffningsvärden. Tillgångar
-– KONCERNREDOVISNING
-tillförlitligt sätt.              från Rådet för kommunal redovisning.             avsedda för stadigvarande bruk eller innehav med en nytt-
-• Fordringar har upptagits till de belopp varmed de                                 jandeperiod om minst 3 år klassificeras som anläggnings- De sammanställda räkenskaperna omfattar kommu-
-Offentliga investeringsbidrag
-beräknas inflyta.                                                                  tillgång om beloppet överstiger gränsen för mindre värde. nens och koncernen Eksta Bostads AB:s verksamhet.
-och anslutningsavgifter
-• Skulder har upptagits till de belopp varmed de                                    Gränsen för mindre värde är 50 000 kr. De sammanställda räkenskaperna är ett sammandrag av
-beräknas flöda ut.                Offentliga investeringsbidrag och anslutningsavgifter tas upp                      kommunens och Ekstas resultat- och balansräkningar
-Omsättningstillgångar
-• Tillgångar och skulder har upptagits till som en förutbetald intäkt och redovisas bland långfristiga                samt kassaflödesanalyser med tillhörande noter. Där-
-anskaffningsvärde.                skulder och periodiseras över objektets nyttjandeperiod. Exploateringsfastigheter redovisas som en omsättnings- till ingår koncernen i bedömningen av god ekonomisk
-• Periodiseringar av inkomster och utgifter har skett                               tillgång. Försäljning av tomter tillgodogörs/ belastar hushållning.
-Privata investeringsbidrag
-enligt god redovisningssed.                                                        löpande resultatet och osålda tomter redovisas som
-Privata investeringsbidrag intäktsförs i takt med utbygg- omsättningstillgångar.   I samband med de sammanställda räkenskaperna har
+
+Den kommunala redovisningen regleras genom lag om
+kommunal bokföring och redovisning (2018:597). Lagen
+stadgar bland annat att bokföring och redovisning ska
+fullgöras enligt god redovisningssed, vilket definieras
+som praxis hos en kvalitativt representativ krets av
+bokföringsskyldiga. Lagstiftningen kompletteras med
+rekommendationer från Rådet för kommunal redovisning,
+(RKR). Detta innebär bland annat att:
+• Intäkter redovisas i den omfattning det är sannolikt
+att de ekonomiska tillgångarna kommer att tillgodo-
+göras kommunen och intäkterna kan beräknas på ett
+tillförlitligt sätt.
+• Fordringar har upptagits till de belopp varmed de
+beräknas inflyta.
+• Skulder har upptagits till de belopp varmed de
+beräknas flöda ut.
+• Tillgångar och skulder har upptagits till
+anskaffningsvärde.
+• Periodiseringar av inkomster och utgifter har skett
+enligt god redovisningssed.
 Förändrade redovisningsprinciper under året
-naden i enlighet med RKR R2 som gäller från 2020.                                  internvinster inom kommunkoncernen eliminerats i sin
-Bidrag till statlig infrastruktur
-Privata investeringsbidrag kostnadsförs från 2020 i takt                                                              helhet. Därtill har interna poster av väsentlig betydelse
+Privata investeringsbidrag kostnadsförs från 2020 i takt
+med utbyggnaden istället för att periodiseras över tillgång-
+ens nyttjandetid. Förändringen ligger i linje med RKR R2
+Intäkter som gäller från 2020. Byte av redovisningsprincip
+har skett i enlighet med RKR R12 ”Byte av redovisnings-
+principer, ändringar i uppskattningar och bedömningar samt
+rättelser av fel”. Justering har skett av ingående värden för
+eget kapital och jämförelsetalen för 2019 har räknats om.
+Se not under Eget kapital för mer information.
+Rättelse av fel avseende ålderspension har skett under året.
+Byte av redovisningsprincip har skett i enlighet med RKR
+R12 ”Byte av redovisningsprinciper, ändringar i uppskatt-
+ningar och bedömningar samt rättelser av fel”. Justering har
+skett av ingående värden för eget kapital. Jämförelsetalen
+för 2019 har ej räknats om då det ej bedömts som praktiskt
+möjligt. Se not under Eget kapital för mer information.
+
+Utgifter för rivning och sanering redovisas från 2020
+som en kostnad i resultaträkningen. Tidigare år har dessa
+räknats in i anskaffningsvärdet för en investering.
+Jämförelsestörande poster
+De poster som vi i tilläggsupplysningarna redovisat som
+jämförelsestörande har bedömts att på ett tydligt sätt
+påverka jämförelsen med motsvarande poster tidigare år.
+Någon beloppsgräns har inte fastställts eftersom exempel-
+vis skillnaden mellan vad som är jämförelsestörande i
+
+finansiella kostnader skiljer sig från vad som är jämförelse-
+störande i verksamhetens kostnader.
+
+För 2020 har reavinster från exploateringsverksamheten
+tagits upp som jämförelsestörande poster. Omfattningen
+av dessa framgår i not.
+INTÄKTER
+Skatteintäkter
+Den preliminära slutavräkningen för skatteintäkter
+baseras på Sveriges kommuner och regioners (SKR)
+decemberprognos i enlighet med rekommendation R2
+från Rådet för kommunal redovisning.
+Offentliga investeringsbidrag
+och anslutningsavgifter
+
+Offentliga investeringsbidrag och anslutningsavgifter tas upp
+som en förutbetald intäkt och redovisas bland långfristiga
+skulder och periodiseras över objektets nyttjandeperiod.
+Privata investeringsbidrag
+Privata investeringsbidrag intäktsförs i takt med utbygg-
+naden i enlighet med RKR R2 som gäller från 2020.
+
 Markförsäljningar
-med utbyggnaden istället för att periodiseras över tillgång-                        Kommunen har enligt lag om vissa kommunala befogen- eliminerats. Obeskattade reserver med avdrag för upp-
-ens nyttjandetid. Förändringen ligger i linje med RKR R2 Markförsäljningar redovisas som kortfristig skuld till heter (2009:47) rätt att lämna bidrag till statlig infrastruktur. skjuten skatt har redovisats som eget kapital.
-Intäkter som gäller från 2020. Byte av redovisningsprincip dess att resultatföring sker. Av lag om kommunal bokföring och redovisning (2018:597)
-har skett i enlighet med RKR R12 ”Byte av redovisnings-                             framgår att sådana bidrag antingen kan redovisas som Undantagsregeln om företag vars verksamhet är av obetyd-
+Markförsäljningar redovisas som kortfristig skuld till
+dess att resultatföring sker.
 KOSTNADER
-principer, ändringar i uppskattningar och bedömningar samt                          en kostnad i resultaträkningen eller tas upp i balans- lig omfattning har tillämpats för de övriga koncernföreta-
 Avskrivningar
-rättelser av fel”. Justering har skett av ingående värden för                       räkningen under posten Bidrag till statlig infrastruktur. gen, Stiftelsen Tjolöholm och Fastighets AB S:ta Gertrud.
-eget kapital och jämförelsetalen för 2019 har räknats om. Kommunen använder nominell metod för beräkning av Vilka bidrag som tagits upp samt beslutad avskrivnings-
-VÄSENTLIGA AVSTEG  FRÅN
-Se not under Eget kapital för mer information. avskrivningar, det vill säga linjär avskrivning på ursprung- tid framgår av not.
-GÄLLANDE  LAGSTIFTNING
+
+Kommunen använder nominell metod för beräkning av
+avskrivningar, det vill säga linjär avskrivning på ursprung-
 ligt anskaffningsvärde. Huvudprincipen är att avskrivning
-AVSÄTTNINGAR  OCH SKULDER         Pensionsredovisning
-Rättelse av fel avseende ålderspension har skett under året. påbörjas månaden efter att tillgången tas i bruk.
-Deponier
-Byte av redovisningsprincip har skett i enlighet med RKR                                                              Kommunen avviker från gällande lagstiftning då kom-
-R12 ”Byte av redovisningsprinciper, ändringar i uppskatt- Avskrivningstiden baseras på bedömd nyttjandetid uppdelat Under 2015 och 2016 gjordes kostnadsbedömningar för munen redovisar pensionsförpliktelserna enligt fullfond-
-ningar och bedömningar samt rättelser av fel”. Justering har per komponent.         sluttäckning av nedlagda deponier i kommunen avseende smodellen. Detta innebär att ansvarsförbindelsen lyfts in
-skett av ingående värden för eget kapital. Jämförelsetalen                          bland annat Barnamossen och Svinholmen, men även ett i balansräkningen som en avsättning. I enlighet med Lag
+påbörjas månaden efter att tillgången tas i bruk.
+Avskrivningstiden baseras på bedömd nyttjandetid uppdelat
+per komponent.
+
 Komponentavskrivning
-för 2019 har ej räknats om då det ej bedömts som praktiskt                          antal mindre deponier. Avsättningar har tagits upp till (2018:597) om kommunal bokföring och redovisning ska
-möjligt. Se not under Eget kapital för mer information. Övergången till komponentavskrivning har i Kungsbacka de belopp som bedöms krävas för att reglera förpliktel- en förpliktelse att betala ut pensionsförmåner som intjä-
-skett etappvis. Under 2016 infördes komponentindelning serna som kommunen har. Under 2019 gjordes en utökad nats före år 1998 inte tas upp som skuld eller avsättning.
-Utgifter för rivning och sanering redovisas från 2020 för lokaler och fritidsanläggningar. Under 2017 infördes avsättning avseende Svinholmen med 100 miljoner
-som en kostnad i resultaträkningen. Tidigare år har dessa komponentindelning på investeringar i infrastruktur. Under kronor. Avsättningarnas storlek per sista december 2020 Motiven för att redovisa enligt fullfondering är att det
-räknats in i anskaffningsvärdet för en investering. 2018 infördes komponentindelning av vatten- avlopp- och är 200 (202) miljoner kronor. ger en mer rättvisande bild av kommunens finansiella
-renhållningsanläggningar.                                                          ställning och att de grundläggande principerna om öppen
-Jämförelsestörande poster                                                           Övriga avsättningar
-och tydlig redovisning följs på ett bättre sätt. Ställnings-
+Övergången till komponentavskrivning har i Kungsbacka
+skett etappvis. Under 2016 infördes komponentindelning
+för lokaler och fritidsanläggningar. Under 2017 infördes
+komponentindelning på investeringar i infrastruktur. Under
+2018 infördes komponentindelning av vatten- avlopp- och
+renhållningsanläggningar.
 Gränsdragning mellan drift och investering
-De poster som vi i tilläggsupplysningarna redovisat som                             Avsättningar har tagits upp till det belopp som bedöms tagandet grundar sig på beslut i kommunfullmäktige.
-jämförelsestörande har bedömts att på ett tydligt sätt Tillgångar avsedda för stadigvarande bruk eller innehav krävas för att reglera förpliktelser i framtiden.
-påverka jämförelsen med motsvarande poster tidigare år. med en nyttjandeperiod om minst 3 år klassificeras som        Effekten på resultat och ställning framgår av not för
-Någon beloppsgräns har inte fastställts eftersom exempel- en anläggningstillgång om beloppet överstiger gränsen för   pensionsavsättningar.
-vis skillnaden mellan vad som är jämförelsestörande i mindre värde. Gränsen för mindre värde är 50 000 kronor.
-92 Kungsbacka kommuns årsredovisning 2020                                                                                     Kungsbacka kommuns årsredovisning 2020 93
+Tillgångar avsedda för stadigvarande bruk eller innehav
+med en nyttjandeperiod om minst 3 år klassificeras som
+en anläggningstillgång om beloppet överstiger gränsen för
+mindre värde. Gränsen för mindre värde är 50 000 kronor.
+
+92 Kungsbacka kommuns årsredovisning 2020
+
+För gränsdragning mellan investering och underhåll gäller
+att när en anläggningstillgång eller komponent i en anlägg-
+ning byts ut eller nyanskaffas redovisas det som en investe-
+ring. Kostnader för akut underhåll, åtgärder för skadegö-
+relser samt måleriarbeten definieras som återställande av en
+byggdel, och redovisas som driftkostnad vid anskaffningen.
+Lånekostnader
+Ränta under byggtid, kreditivränta, tillämpas för projekt
+över 5 miljoner kronor, som pågår under mer än ett
+kalenderår. Kreditivränta baseras på kommunens genom-
+snittliga upplåningsränta.
+TILLGÅNGAR
+Immateriella och materiella
+anläggningstillgångar
+
+Anläggningstillgångarna har i balansräkningen uppta-
+gits till anskaffningsvärdet efter avdrag för verkställda
+avskrivningar/nedskrivningar. Planenliga avskrivningar
+har beräknats på objektens anskaffningsvärden. Tillgångar
+avsedda för stadigvarande bruk eller innehav med en nytt-
+jandeperiod om minst 3 år klassificeras som anläggnings-
+tillgång om beloppet överstiger gränsen för mindre värde.
+Gränsen för mindre värde är 50 000 kr.
+Omsättningstillgångar
+Exploateringsfastigheter redovisas som en omsättnings-
+tillgång. Försäljning av tomter tillgodogörs/ belastar
+löpande resultatet och osålda tomter redovisas som
+omsättningstillgångar.
+Bidrag till statlig infrastruktur
+
+Kommunen har enligt lag om vissa kommunala befogen-
+heter (2009:47) rätt att lämna bidrag till statlig infrastruktur.
+Av lag om kommunal bokföring och redovisning (2018:597)
+framgår att sådana bidrag antingen kan redovisas som
+en kostnad i resultaträkningen eller tas upp i balans-
+räkningen under posten Bidrag till statlig infrastruktur.
+Vilka bidrag som tagits upp samt beslutad avskrivnings-
+tid framgår av not.
+AVSÄTTNINGAR  OCH SKULDER
+Deponier
+Under 2015 och 2016 gjordes kostnadsbedömningar för
+sluttäckning av nedlagda deponier i kommunen avseende
+bland annat Barnamossen och Svinholmen, men även ett
+antal mindre deponier. Avsättningar har tagits upp till
+de belopp som bedöms krävas för att reglera förpliktel-
+serna som kommunen har. Under 2019 gjordes en utökad
+avsättning avseende Svinholmen med 100 miljoner
+kronor. Avsättningarnas storlek per sista december 2020
+är 200 (202) miljoner kronor.
+Övriga avsättningar
+Avsättningar har tagits upp till det belopp som bedöms
+krävas för att reglera förpliktelser i framtiden.
+
+UPPLYSNINGAR OM REDOVISNINGSPRINCIPER
+
+Under 2020 har avsättning för visstidspension upptagits
+till ett belopp om 10 miljoner inklusive löneskatt. Därtill
+har avsättning gjorts för flytt av ledning inom kvarteret
+Valand om 7 miljoner.
+Handpenningar exploatering
+
+Handpenningar i pågående exploateringsområden redo-
+visas som kortfristig skuld till dess att resultatföring sker.
+Leasing
+Från och med 2019 redovisas leasingavtal avseende
+fordon med startdatum från 2019-01-01 som finansiell
+leasing. Detta innebär att avtalen återfinns dels som en
+materiell anläggningstillgång, dels en långfristig skuld.
+Effekten på resultaträkningen sker i form av avskrivning
+och ränta. Tidigare avtal redovisas likt tidigare år som
+operationell leasing. Hyresavtal redovisas fortsatt som
+operationell leasing.
+SAMMANSTÄLLDA   RÄKENSKAPER
+– KONCERNREDOVISNING
+De sammanställda räkenskaperna omfattar kommu-
+nens och koncernen Eksta Bostads AB:s verksamhet.
+De sammanställda räkenskaperna är ett sammandrag av
+kommunens och Ekstas resultat- och balansräkningar
+samt kassaflödesanalyser med tillhörande noter. Där-
+till ingår koncernen i bedömningen av god ekonomisk
+hushållning.
+
+I samband med de sammanställda räkenskaperna har
+internvinster inom kommunkoncernen eliminerats i sin
+helhet. Därtill har interna poster av väsentlig betydelse
+eliminerats. Obeskattade reserver med avdrag för upp-
+skjuten skatt har redovisats som eget kapital.
+Undantagsregeln om företag vars verksamhet är av obetyd-
+lig omfattning har tillämpats för de övriga koncernföreta-
+gen, Stiftelsen Tjolöholm och Fastighets AB S:ta Gertrud.
+
+VÄSENTLIGA AVSTEG  FRÅN
+GÄLLANDE  LAGSTIFTNING
+Pensionsredovisning
+Kommunen avviker från gällande lagstiftning då kom-
+munen redovisar pensionsförpliktelserna enligt fullfond-
+smodellen. Detta innebär att ansvarsförbindelsen lyfts in
+i balansräkningen som en avsättning. I enlighet med Lag
+(2018:597) om kommunal bokföring och redovisning ska
+en förpliktelse att betala ut pensionsförmåner som intjä-
+nats före år 1998 inte tas upp som skuld eller avsättning.
+Motiven för att redovisa enligt fullfondering är att det
+ger en mer rättvisande bild av kommunens finansiella
+ställning och att de grundläggande principerna om öppen
+och tydlig redovisning följs på ett bättre sätt. Ställnings-
+tagandet grundar sig på beslut i kommunfullmäktige.
+
+Effekten på resultat och ställning framgår av not för
+pensionsavsättningar.
+
+Kungsbacka kommuns årsredovisning 2020 93
 
 <!-- sida 50 -->
 
@@ -5413,6 +7474,7 @@ då konsumtionsutsläppen följer invånarnas ekonomi. Tyvärr saknas fortfarand
 möjlighet att bryta ned data för konsumtionsparametrar på kommunal nivå varför de
 endast redovisas på riksnivå.
 
+CO2 utsläpp 2008-2018 i Sverige per invånare
 3,5                                             12
 
 3                                              10
@@ -5426,6 +7488,10 @@ endast redovisas på riksnivå.
 0,5                                             2
 0                                              0
 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Offentlig konsumtion     Investeringar
+Hushållens konsumtion av livsmedel Hushållens konsumtion av transporter
+Hushållens konsumtion av boende Hushållens konsumtion av övrigt
+Totalt
 
 Utsläppen i Kungsbacka från transporter har ökat sedan 1990 trots att andelen miljöbilar
 nu är ca 15 procent och att vi per person kör mindre samt att varje bil rullar kortare
@@ -5435,25 +7501,24 @@ förklaringar är installation av solceller, bergvärme, värmeväxlare och likn
 (se diagram nedan).
 
 31
-rå/not
-CO2 utsläpp 2008-2018 i Sverige per invånare
-Offentlig konsumtion     Investeringar
-Hushållens konsumtion av livsmedel Hushållens konsumtion av transporter
-Hushållens konsumtion av boende Hushållens konsumtion av övrigt
-Totalt
+
+ton/år
 
 <!-- sida 83 -->
 
 Figur. Utsläpp av CO2 från kommunens geografiska yta. Omfattar endast transporter
 och energi.
 
+CO2 - utsläpp i Kungsbacka 1990 och 2018
+
 160000
 140000
 120000
 100000
 80000
-60000
+60000                                       CO2 1990
 40000
+CO2 2018
 20000
 0
 Egen  Industri (energi Transporter Arbetsmaskiner
@@ -5491,10 +7556,8 @@ flygresor under 2020 var 114 varav 24 var kortare än 50 mil. För samtliga foss
 kommunen (se tabell).
 
 32
-rå/not
-CO2 - utsläpp i Kungsbacka 1990 och 2018
-CO2 1990
-CO2 2018
+
+ton/år
 
 <!-- sida 84 -->
 
@@ -6289,12 +8352,9 @@ Kommunstyrelsen                                 Kungsbacka kommun
 
 4 Årets  riskanalys
 
-4.1 Risker - Till plan
-
-Uppföljningsrapport intern kontroll 2020 6
-tehkilonnaS
 Sannolikhet Konsekvens
-4  Mycket vanligt - Allvarlig/stor inverkan
+
+4.1 Risker - Till plan              4  Mycket vanligt - Allvarlig/stor inverkan
 exempelvis 1 gång (så stor att den inte
 per vecka   får inträffa)
 4    8   12    16
@@ -6319,6 +8379,10 @@ Hög
 1     2    3    4                  Medel
 Låg
 Konsekvens
+
+Uppföljningsrapport intern kontroll 2020 6
+
+Sannolikhet
 
 [Tabell 107-1](handlingar.tabeller/107-1.csv)
 
@@ -6746,8 +8810,6 @@ Kungsbacka kommun
 
 I matrisen beskrivs de risker som identifierats i arbetet med riskanalys och som tagits med till plan.
 
-Uppföljningsrapport Intern kontroll 2020 6
-tehkilonnaS
 4    8  12   16        Kritisk    Sannolikhet Konsekvens
 4
 3                 Hög
@@ -6771,6 +8833,10 @@ Konsekvens
 obefintlig) - intressenter och
 exempelvis 1 gång kommunen)
 per 10 år
+
+Uppföljningsrapport Intern kontroll 2020 6
+
+Sannolikhet
 
 [Tabell 121-1](handlingar.tabeller/121-1.csv)
 
@@ -16321,104 +18387,122 @@ kommuner och landstings kommungruppsindelning.
 
 <!-- sida 357 -->
 
-Statens offentliga utredningar  2020
+Statens  offentliga utredningar 2020
 
 Kronologisk förteckning
 
-1\. Översyn av yrket personlig assistent 21. Sveriges museum om Förintelsen.
-– ett viktigt yrke som förtjänar bra + Holocaust Remembrance and
-villkor. S.            Representation. Documentation
-2\. Skärpta regler om utländska from a Research Conference. Ku.
-månggiften. Ju.      22. Motorfordonspooler
-3\. Hållbar slamhantering. M. – på väg mot ökad delning av motor-
-fordon. Fi.
+1\. Översyn av yrket personlig assistent
+– ett viktigt yrke som förtjänar bra
+villkor. S.
+2\. Skärpta regler om utländska
+månggiften. Ju.
+3\. Hållbar slamhantering. M.
 4\. Vägen till en klimatpositiv framtid. M.
-23\. Hälso- och sjukvård i det civila
 5\. Fler ruttjänster och höjt tak
-försvaret – underlag till
 för rutavdraget. Fi.
-försvarspolitisk inriktning. S.
 6\. En begriplig och trygg sjukförsäkring
-24\. Tillsammans för en välfungerande
 med plats för rehabilitering. S.
-sjukskrivnings- och rehabiliterings-
-7\. Brott mot djur – Skärpta straff och ett process. S.
+7\. Brott mot djur – Skärpta straff och ett
 mer effektivt sanktionssystem. N.
-25\. Ett nationellt biljettsystem
-8\. Starkare kommuner – med kapacitet för all kollektivtrafik. I.
+8\. Starkare kommuner – med kapacitet
 att klara välfärdsuppdraget. Fi.
-26\. En sjukförsäkring anpassad efter
-9\. Kunskapsläget på kärnavfalls- individen. S.
+9\. Kunskapsläget på kärnavfalls-
 området 2020. Steg för steg. Var står
-27\. Högre växel i minoritetspolitiken.
 vi? Vart går vi? M.
-Stärkt samordning och uppföljning.
-10\. Stärkt lokalt åtgärdsarbete – att nå Ku.
+10\. Stärkt lokalt åtgärdsarbete – att nå
 målet Ingen övergödning. M.
-28\. En mer likvärdig skola
-11\. Kompletterande bestämmelser – minskad skolsegregation och för-
-till EU:s förordning om utländska bättrad resurstilldelning. U.
+11\. Kompletterande bestämmelser
+till EU:s förordning om utländska
 direktinvesteringar. Ju.
-29\. En ny myndighet för att stärka det
-12\. Nya kapitaltäckningsregler psykologiska försvaret. Ju.
+12\. Nya kapitaltäckningsregler
 för värdepappersbolag. Fi.
-30\. En moderniserad arbetsrätt. A.
 13\. Att kriminalisera överträdelser av
-31\. En ny mervärdesskattelag.
 EU-förordningar. N.
-Del 1 och 2. Fi.
 14\. Framtidens teknik i omsorgens tjänst.
-32\. Grundpension. Några anslutande
 S.
-frågor. S.
 15\. Strukturförändring och investering
-33\. Gemensamt ansvar
 i hälso- och sjukvården – lärdomar
-– en modell för planering och dimen-
 från exemplet NKS. S.
-sionering av gymnasial utbildning.
-16\. Ett effektivare regelverk för utlännings- Del 1 och 2. U.
+16\. Ett effektivare regelverk för utlännings-
 ärenden med säkerhetsaspekter. Ju.
+17\. Grönt sparande. Fi.
+18\. Framtidens järnvägsunderhåll. I.
+19\. God och nära vård. En reform för ett
+hållbart hälso- och sjukvårdssystem. S.
+20\. Skatt på modet – för att få bort
+skadliga kemikalier. Fi.
+
+21\. Sveriges museum om Förintelsen.
+\+ Holocaust Remembrance and
+Representation. Documentation
+from a Research Conference. Ku.
+22\. Motorfordonspooler
+– på väg mot ökad delning av motor-
+fordon. Fi.
+23\. Hälso- och sjukvård i det civila
+försvaret – underlag till
+försvarspolitisk inriktning. S.
+24\. Tillsammans för en välfungerande
+sjukskrivnings- och rehabiliterings-
+process. S.
+25\. Ett nationellt biljettsystem
+för all kollektivtrafik. I.
+26\. En sjukförsäkring anpassad efter
+individen. S.
+27\. Högre växel i minoritetspolitiken.
+Stärkt samordning och uppföljning.
+Ku.
+28\. En mer likvärdig skola
+– minskad skolsegregation och för-
+bättrad resurstilldelning. U.
+29\. En ny myndighet för att stärka det
+psykologiska försvaret. Ju.
+30\. En moderniserad arbetsrätt. A.
+31\. En ny mervärdesskattelag.
+Del 1 och 2. Fi.
+32\. Grundpension. Några anslutande
+frågor. S.
+33\. Gemensamt ansvar
+– en modell för planering och dimen-
+sionering av gymnasial utbildning.
+Del 1 och 2. U.
 34\. Stärkt kvalitet och likvärdighet
-17\. Grönt sparande. Fi. i fritidshem och pedagogisk omsorg. U.
-18\. Framtidens järnvägsunderhåll. I. 35. Kontroll för ökad tilltro
-19\. God och nära vård. En reform för ett – en ny myndighet för att förebygga,
-hållbart hälso- och sjukvårdssystem. S. förhindra och upptäcka felaktiga ut-
-20\. Skatt på modet – för att få bort betalningar från välfärdssystemen. Fi.
-skadliga kemikalier. Fi. 36. Ett nationellt sammanhållet system
+i fritidshem och pedagogisk omsorg. U.
+35\. Kontroll för ökad tilltro
+– en ny myndighet för att förebygga,
+förhindra och upptäcka felaktiga ut-
+betalningar från välfärdssystemen. Fi.
+36\. Ett nationellt sammanhållet system
 för kunskapsbaserad vård
 – ett system, många möjligheter. S.
 
 <!-- sida 358 -->
 
-37\. Ett nytt regelverk för arbetslöshets- 59. Innovation som drivkraft
-försäkringen. A.      – från forskning till nytta. U.
-38\. Ökad trygghet för visselblåsare. A. 60. Det skatterättsliga företrädaransvaret
-39\. Kärnavfallsrådets yttrande över SKB:s – en översyn. Fi.
-Fud-program 2019. M. 61. Ändrade regler om säkerställda
-40\. En gemensam utbildning inom obligationer. Fi.
-statsförvaltningen. Fi. 62. En samlad djurhälsoreglering.
-41\. Kommuner som utförare Del 1 och 2. N.
-av tjänster åt Arbetsförmedlingen 63. Barnkonventionen och svensk rätt. A.
-– en analys av de rättsliga förutsätt- 64. Hästnäringens finansiering på den
-ningarna. A.          omreglerade spelmarknaden. Fi.
-42\. En annan möjlighet till särskilt stöd. 65. 55 år och karensval. N.
+37\. Ett nytt regelverk för arbetslöshets-
+försäkringen. A.
+38\. Ökad trygghet för visselblåsare. A.
+39\. Kärnavfallsrådets yttrande över SKB:s
+Fud-program 2019. M.
+40\. En gemensam utbildning inom
+statsförvaltningen. Fi.
+41\. Kommuner som utförare
+av tjänster åt Arbetsförmedlingen
+– en analys av de rättsliga förutsätt-
+ningarna. A.
+42\. En annan möjlighet till särskilt stöd.
 Reglering av kommunala resurs-
-66\. Samverkande krafter
 skolor. U.
-– för stärkt kvalitet och likvärdighet
-43\. Bygga, bedöma, betygssätta inom k omvux för elever med svenska
-– betyg som bättre motsvarar som andraspråk. U.
+43\. Bygga, bedöma, betygssätta
+– betyg som bättre motsvarar
 elevernas kunskaper. U.
-67\. Förskola för alla barn
-44\. Grundlagsskadestånd – ett rättighets- – för bättre språkutveckling
-skydd för enskilda. Ju. i svenska. U.
-45\. Ett ändamålsenligt skydd för tryck- 68. Försvarets radioanstalts
-och yttrandefriheten. Ju. internationella samarbete
-46\. En gemensam angelägenhet. – en översyn av regelverket. Fö.
-Vol. 1 och 2. Fi.    69. Äldre har aldrig varit yngre – allt fler
-47\. Hållbar socialtjänst. En ny social- kan och vill arbeta längre. S.
-tjänstlag. Del 1 och 2. S. 70. Fast omsorgskontakt i hemtjänsten. S.
+44\. Grundlagsskadestånd – ett rättighets-
+skydd för enskilda. Ju.
+45\. Ett ändamålsenligt skydd för tryck-
+och yttrandefriheten. Ju.
+46\. En gemensam angelägenhet.
+Vol. 1 och 2. Fi.
+47\. Hållbar socialtjänst. En ny social-
+tjänstlag. Del 1 och 2. S.
 48\. Skatt på engångsartiklar. Fi.
 49\. Enhetlig och effektiv marknads-
 kontroll. UD.
@@ -16442,124 +18526,208 @@ näthat. Ku.
 melser om cybersäkerhetscertifiering.
 Fö.
 
+59\. Innovation som drivkraft
+– från forskning till nytta. U.
+60\. Det skatterättsliga företrädaransvaret
+– en översyn. Fi.
+61\. Ändrade regler om säkerställda
+obligationer. Fi.
+62\. En samlad djurhälsoreglering.
+Del 1 och 2. N.
+63\. Barnkonventionen och svensk rätt. A.
+64\. Hästnäringens finansiering på den
+omreglerade spelmarknaden. Fi.
+65\. 55 år och karensval. N.
+66\. Samverkande krafter
+– för stärkt kvalitet och likvärdighet
+inom k omvux för elever med svenska
+som andraspråk. U.
+67\. Förskola för alla barn
+– för bättre språkutveckling
+i svenska. U.
+68\. Försvarets radioanstalts
+internationella samarbete
+– en översyn av regelverket. Fö.
+69\. Äldre har aldrig varit yngre – allt fler
+kan och vill arbeta längre. S.
+70\. Fast omsorgskontakt i hemtjänsten. S.
+
 <!-- sida 359 -->
 
-Statens offentliga utredningar  2020
+Statens  offentliga utredningar 2020
 
 Systematisk förteckning
 
-Arbetsmarknadsdepartementet Ändrade regler om säkerställda
-En moderniserad arbetsrätt. [30] obligationer. [61]
-Ett nytt regelverk för arbetslöshets- Hästnäringens finansiering på den
-försäkringen. [37]    omreglerade spelmarknaden. [64]
+Arbetsmarknadsdepartementet
+En moderniserad arbetsrätt. [30]
+Ett nytt regelverk för arbetslöshets-
+försäkringen. [37]
 Ökad trygghet för visselblåsare. [38]
-Försvarsdepartementet
 Kommuner som utförare
-av tjänster åt Arbetsförmedlingen EU:s cybersäkerhetsakt
-– en analys av de rättsliga förut- – kompletterande nationella bestäm-
-sättningarna. [41]    melser om cybersäkerhetscertifiering.
-[58]
+av tjänster åt Arbetsförmedlingen
+– en analys av de rättsliga förut-
+sättningarna. [41]
 Barnkonventionen och svensk rätt. [63]
-Försvarets radioanstalts
-internationella samarbete
 Finansdepartementet
-– en översyn av regelverket. [68]
 Fler ruttjänster och höjt tak
 för rutavdraget. [5]
-Infrastrukturdepartementet
 Starkare kommuner – med kapacitet att
-Framtidens järnvägsunderhåll. [18]
 klara välfärdsuppdraget. [8]
-Ett nationellt biljettsystem
 Nya kapitaltäckningsregler
-för all kollektivtrafik. [25]
 för värdepappersbolag. [12]
-Innovation genom information. [55]
 Grönt sparande. [17]
 Skatt på modet – för att få bort skadliga
-kemikalier. [20]    Justitiedepartementet
-Motorfordonspooler    Skärpta regler om utländska
-– på väg mot ökad delning av motor- månggiften. [2]
-fordon. [22]        Kompletterande bestämmelser
-En ny mervärdesskattelag. till EU:s förordning om utländska
-Del 1 och 2. [31]     direktinvesteringar. [11]
-Kontroll för ökad tilltro Ett effektivare regelverk för utlännings-
-– en ny myndighet för att förebygga, ärenden med säkerhetsaspekter. [16]
-förhindra och upptäcka felaktiga ut- En ny myndighet för att stärka det
-betalningar från välfärdssystemen. [35] psykologiska försvaret. [29]
-En gemensam utbildning inom Grundlagsskadestånd – ett rättighetsskydd
-statsförvaltningen. [40] för enskilda. [44]
-En gemensam angelägenhet. Ett ändamålsenligt skydd för tryck-
-Vol. 1 och 2. [46]    och yttrandefriheten. [45]
-Skatt på engångsartiklar. [48] En ny lag om konsumentskydd vid köp
-Enklare skatteregler för enskilda närings- och vissa andra avtal. [51]
-idkare. [50]        En långsiktigt hållbar migrationspolitik.
-Rutavdrag för äldre. [52] [54]
-Det skatterättsliga företrädaransvaret Ett särskilt hedersbrott. [57]
+kemikalier. [20]
+Motorfordonspooler
+– på väg mot ökad delning av motor-
+fordon. [22]
+En ny mervärdesskattelag.
+Del 1 och 2. [31]
+Kontroll för ökad tilltro
+– en ny myndighet för att förebygga,
+förhindra och upptäcka felaktiga ut-
+betalningar från välfärdssystemen. [35]
+En gemensam utbildning inom
+statsförvaltningen. [40]
+En gemensam angelägenhet.
+Vol. 1 och 2. [46]
+Skatt på engångsartiklar. [48]
+Enklare skatteregler för enskilda närings-
+idkare. [50]
+Rutavdrag för äldre. [52]
+Det skatterättsliga företrädaransvaret
 – en översyn. [60]
+
+Ändrade regler om säkerställda
+obligationer. [61]
+Hästnäringens finansiering på den
+omreglerade spelmarknaden. [64]
+Försvarsdepartementet
+EU:s cybersäkerhetsakt
+– kompletterande nationella bestäm-
+melser om cybersäkerhetscertifiering.
+[58]
+Försvarets radioanstalts
+internationella samarbete
+– en översyn av regelverket. [68]
+Infrastrukturdepartementet
+Framtidens järnvägsunderhåll. [18]
+Ett nationellt biljettsystem
+för all kollektivtrafik. [25]
+Innovation genom information. [55]
+Justitiedepartementet
+Skärpta regler om utländska
+månggiften. [2]
+Kompletterande bestämmelser
+till EU:s förordning om utländska
+direktinvesteringar. [11]
+Ett effektivare regelverk för utlännings-
+ärenden med säkerhetsaspekter. [16]
+En ny myndighet för att stärka det
+psykologiska försvaret. [29]
+Grundlagsskadestånd – ett rättighetsskydd
+för enskilda. [44]
+Ett ändamålsenligt skydd för tryck-
+och yttrandefriheten. [45]
+En ny lag om konsumentskydd vid köp
+och vissa andra avtal. [51]
+En långsiktigt hållbar migrationspolitik.
+[54]
+Ett särskilt hedersbrott. [57]
 
 <!-- sida 360 -->
 
-Kulturdepartementet   Hälso- och sjukvård i det civila försvaret
-Sveriges museum om Förintelsen. – underlag till försvarspolitisk
-\+ Holocaust Remembrance and inriktning. [23]
-Representation. Documentation Tillsammans för en välfungerande sjuk-
-from a Research Conference. [21] skrivnings- och rehabiliteringsprocess.
-Högre växel i minoritetspolitiken. Stärkt [24]
-samordning och uppföljning. [27] En sjukförsäkring anpassad efter individen.
-Det demokratiska samtalet i en digital [26]
-tid. Så stärker vi motståndskraften Grundpension. Några anslutande frågor.
-mot desinformation, propaganda och [32]
-näthat. [56]         Ett nationellt sammanhållet system för
-kunskapsbaserad vård
-Miljödepartementet      – ett system, många möjligheter. [36]
-Hållbar slamhantering. [3] Hållbar socialtjänst. En ny socialtjänstlag.
-Del 1 och 2. [47]
+Kulturdepartementet
+Sveriges museum om Förintelsen.
+\+ Holocaust Remembrance and
+Representation. Documentation
+from a Research Conference. [21]
+Högre växel i minoritetspolitiken. Stärkt
+samordning och uppföljning. [27]
+Det demokratiska samtalet i en digital
+tid. Så stärker vi motståndskraften
+mot desinformation, propaganda och
+näthat. [56]
+Miljödepartementet
+Hållbar slamhantering. [3]
 Vägen till en klimatpositiv framtid. [4]
-Äldre har aldrig varit yngre – allt fler kan
 Kunskapsläget på kärnavfalls-
-och vill arbeta längre. [69]
 området 2020. Steg för steg. Var står
-vi? Vart går vi? [9] Fast omsorgskontakt i hemtjänsten. [70]
+vi? Vart går vi? [9]
 Stärkt lokalt åtgärdsarbete – att nå målet
-Ingen övergödning. [10] Utbildningsdepartementet
-Kärnavfallsrådets yttrande över SKB:s En mer likvärdig skola
-Fud-program 2019. [39] – minskad skolsegregation och för-
-bättrad resurstilldelning. [28]
-Näringsdepartementet  Gemensamt ansvar
-– en modell för planering och dimen-
+Ingen övergödning. [10]
+Kärnavfallsrådets yttrande över SKB:s
+Fud-program 2019. [39]
+Näringsdepartementet
 Brott mot djur – Skärpta straff och ett
-sionering av gymnasial utbildning.
 mer effektivt sanktionssystem. [7]
-Del 1 och 2. [33]
 Att kriminalisera överträdelser av
-Stärkt kvalitet och likvärdighet i fritids-
 EU-förordningar. [13]
-hem och pedagogisk omsorg. [34]
 Personuppgiftsbehandling vid antals-
-En annan möjlighet till särskilt stöd.
 beräkning inför klinisk forskning. [53]
-Reglering av kommunala resurs-
 En samlad djurhälsoreglering.
-skolor. [42]
 Del 1 och 2. [62]
-Bygga, bedöma, betygssätta
 55 år och karensval. [65]
+Socialdepartementet
+Översyn av yrket personlig assistent – ett
+viktigt yrke som förtjänar bra villkor.
+[1]
+En begriplig och trygg sjukförsäkring med
+plats för rehabilitering. [6]
+Framtidens teknik i omsorgens tjänst. [14]
+Strukturförändring och investering
+i hälso- och sjukvården – lärdomar
+från exemplet NKS. [15]
+God och nära vård. En reform för ett
+hållbart hälso- och sjukvårdssystem.
+[19]
+
+Hälso- och sjukvård i det civila försvaret
+– underlag till försvarspolitisk
+inriktning. [23]
+Tillsammans för en välfungerande sjuk-
+skrivnings- och rehabiliteringsprocess.
+[24]
+En sjukförsäkring anpassad efter individen.
+[26]
+Grundpension. Några anslutande frågor.
+[32]
+Ett nationellt sammanhållet system för
+kunskapsbaserad vård
+– ett system, många möjligheter. [36]
+Hållbar socialtjänst. En ny socialtjänstlag.
+Del 1 och 2. [47]
+Äldre har aldrig varit yngre – allt fler kan
+och vill arbeta längre. [69]
+Fast omsorgskontakt i hemtjänsten. [70]
+Utbildningsdepartementet
+En mer likvärdig skola
+– minskad skolsegregation och för-
+bättrad resurstilldelning. [28]
+Gemensamt ansvar
+– en modell för planering och dimen-
+sionering av gymnasial utbildning.
+Del 1 och 2. [33]
+Stärkt kvalitet och likvärdighet i fritids-
+hem och pedagogisk omsorg. [34]
+En annan möjlighet till särskilt stöd.
+Reglering av kommunala resurs-
+skolor. [42]
+Bygga, bedöma, betygssätta
 – betyg som bättre motsvarar elevernas
 kunskaper. [43]
-Socialdepartementet   Innovation som drivkraft –från forskning
-Översyn av yrket personlig assistent – ett till nytta. [59]
-viktigt yrke som förtjänar bra villkor. Samverkande krafter
-[1]                    – för stärkt kvalitet och likvärdighet
-En begriplig och trygg sjukförsäkring med inom komvux för elever med svenska
-plats för rehabilitering. [6] som andraspråk. [66]
-Framtidens teknik i omsorgens tjänst. [14] Förskola för alla barn
-Strukturförändring och investering – för bättre språkutveckling
-i hälso- och sjukvården – lärdomar i svenska. [67]
-från exemplet NKS. [15]
-God och nära vård. En reform för ett Utrikesdepartementet
-hållbart hälso- och sjukvårdssystem. Enhetlig och effektiv marknadskontroll.
-[19]                   [49]
+Innovation som drivkraft –från forskning
+till nytta. [59]
+Samverkande krafter
+– för stärkt kvalitet och likvärdighet
+inom komvux för elever med svenska
+som andraspråk. [66]
+Förskola för alla barn
+– för bättre språkutveckling
+i svenska. [67]
+Utrikesdepartementet
+Enhetlig och effektiv marknadskontroll.
+[49]
 
 <!-- sida 361 -->
 
@@ -18904,9 +21072,9 @@ Ny arena inom Kungsbacka sportcenter        Kungsbacka kommun
 De mest väsentliga skillnaderna mellan att kommuner direkt äger eller hyr
 verksamhetslokaler är kopplade till flexibilitet och kontroll. I de fall kommuner
 väljer att hyra av egna fastighetsbolag bibehålls flexibiliteten i kommunkoncernen.
+
 Att frånhända sig kontrollen över långsiktigt strategiska lägen kan komplicera
 kommunens förhandlingsposition i de fall verksamheterna ska bedrivas även efter
-
 den inledande hyresperioden. Fördelen med ett tidsbestämt åtagande kan därmed bli
 en nackdel.
 
@@ -18923,23 +21091,31 @@ tomträtt för att ytterligare stärka skyddet för den speciella användningen 
 tomträttsavtal.
 
 För- och nackdelar med att en extern part svarar för investeringen (+/-)
-
 \+                            -
 Kan innebära att kommunen inte Kommunens fördelaktiga
 behöver ta ansvar för framtida finansieringsvillkor nyttjas inte.
 underhåll och behov av specialist- Vinstmarginal till extern part.
 kompetens. Beror på hur avtalets
+
 villkor är tecknade.
 
-Villkoren är kända och kostnaderna De direkta finansiella kostnaderna är ofta
-är förutsägbara enligt avtalet. En högre vid förhyrning än vid ägande, varför
-koppling till index kan dock innebära vinsterna måste kunna inhämtas på andra
-en viss osäkerhet.          områden.
+Villkoren är kända och kostnaderna
+är förutsägbara enligt avtalet. En
+koppling till index kan dock innebära
+en viss osäkerhet.
 
-Flexibilitet vid kortsiktiga lokalbehov, Beroendeförhållande till extern part.
+Flexibilitet vid kortsiktiga lokalbehov,
+exempelvis vid tillfälliga demogra-
+fiska svängningar.
 
-exempelvis vid tillfälliga demogra- Kommunens handlingsalternativ och
-fiska svängningar.          flexibilitet minskar vid långa avtal.
+De direkta finansiella kostnaderna är ofta
+högre vid förhyrning än vid ägande, varför
+vinsterna måste kunna inhämtas på andra
+områden.
+
+Beroendeförhållande till extern part.
+Kommunens handlingsalternativ och
+flexibilitet minskar vid långa avtal.
 
 Kommunen kan få ta del av nyttan av
 en extern samhällsfastighetsägares
@@ -19477,26 +21653,42 @@ Göteborgsregionen 2010
 
 <!-- sida 441 -->
 
-=i;-: TYRENS
 TILLGÄNGLIGHET
 
-Kungsbacka består av flera mindre orter. En Där tar det mer än dubbelt så lång tid att åka buss jämfört
+Kungsbacka består av flera mindre orter. En
 
-tillgänglighetsanalys mellan orter som har något form av med bil, från Åsa station och Kullavik krävs också ett byte.
+tillgänglighetsanalys mellan orter som har något form av
 centrum med handel och handelsplatserna Kungsmässan, Inlag,
-Studier har visat att människor är mindre benägna att välja
 Hede Fashion Outlet samt Innerstaden har utförts.
-cykeln vid resor längre än fem kilometer. Detta betyder för
-Utbudet mellan orterna varierar men gemensamt är att alla Kungsbackas del att det endast är platser inom centralorten
-utom Anneberg har en livsmedelsbutik samt pizzeria/gatukök. som ligger inom cykelavstånd till handelsplatserna, med
-Orterna Åsa, Frillesås, Onsala och Särö har störst utbud av undantag för Anneberg som ligger inom cykelavstånd till
-verksamheter.                             Hede.
-Att Kungsbacka är en bilberoende kommun syns tydligt. Från Tillgången på parkeringsplatser är också god, särskilt i
-flertalet orter är det väsentligt enklare att välja bilen som anslutning till Åsa station och i Särö centrum. För mer
-transportmedel framför kollektivtrafik eller cykel. detaljerad information se bilaga på sid. 104.
+
+Utbudet mellan orterna varierar men gemensamt är att alla
+utom Anneberg har en livsmedelsbutik samt pizzeria/gatukök.
+Orterna Åsa, Frillesås, Onsala och Särö har störst utbud av
+verksamheter.
+
+Att Kungsbacka är en bilberoende kommun syns tydligt. Från
+flertalet orter är det väsentligt enklare att välja bilen som
+transportmedel framför kollektivtrafik eller cykel.
 
 Hede Fashion Outlet ligger minst tillgängligt via kollektivtrafik,
 framförallt från tätorterna Frillesås, Åsa station och Kullavik.
+
+=i;-: TYRENS
+
+Där tar det mer än dubbelt så lång tid att åka buss jämfört
+med bil, från Åsa station och Kullavik krävs också ett byte.
+
+Studier har visat att människor är mindre benägna att välja
+cykeln vid resor längre än fem kilometer. Detta betyder för
+Kungsbackas del att det endast är platser inom centralorten
+som ligger inom cykelavstånd till handelsplatserna, med
+undantag för Anneberg som ligger inom cykelavstånd till
+Hede.
+
+Tillgången på parkeringsplatser är också god, särskilt i
+anslutning till Åsa station och i Särö centrum. För mer
+
+detaljerad information se bilaga på sid. 104.
 
 15                                     ©TYRÉNS 2016
 
@@ -19639,34 +21831,50 @@ nuvarande resecentrum.
 
 :i;-:
 TYRENS
-TILLGÄNGLIGHET                OCH      FLÖDEN
+TILLGÄNGLIGHET                 OCH     FLÖDEN
 
-Läge och tillgängligheten med bil samt kollektivtrafik är starkt Resevaneundersökningen anger också att i Kungsbacka och i
+Läge och tillgängligheten med bil samt kollektivtrafik är starkt
+påverkande på handelns förutsättningar. Cyklister och
+fotgängare bidrar också till ett flöde för handeln. Men till
+skillnad från lägen i större städer (Stockholm, Göteborg och
 
-påverkande på handelns förutsättningar. Cyklister och Onsala sker mindre andel av förflyttningarna med bil än för
-fotgängare bidrar också till ett flöde för handeln. Men till kommunen som helhet. Andelen cykelresor är störst i
-skillnad från lägen i större städer (Stockholm, Göteborg och Kungsbacka tätort men i centrum är den lägre än för kommunen
-Malmö) är flöden av cyklister och fotgängare för små för att vara i helhet, andelen resor till fots är dock väsentligt större än i alla
-avgörande för handelns framgång i Kungsbacka. andra kommundelar. Fjärås är den kommundel som har störst
-andel bilresor. Den kommundel där man har högst andel
+Malmö) är flöden av cyklister och fotgängare för små för att vara
+avgörande för handelns framgång i Kungsbacka.
+
 Följaktligen är en trend att knutpunkter i städer ger allt mer
-kollektivresor är Kungsbacka Kolla.
 utrymme för att utveckla handelsplatser och kravet på god
-Kommunen
 tillgänglighet med flera trafikslag fortsätter att öka
 (stationslägen, resecentrum, cykelparkeringar vid
-■ Bil (Bil som förare. Bil som passa,:erare)
 handelsplatser, p-anslutningar, gångstråk etc.)
-Bu\$.\$
+
 Resmönster i Kungsbacka kommun.En kommunal
-■ Järnv,g (T1g/pendeltåg och Spårvogn/lokaltlg)
 resvaneundersökning gjordes i kommunen oktober 2017 och
-■ CykeVetc)'kel
 färdmedelsfördelningen visar att bilen används till 69 procent av
-■ Tillfou
+
 alla resor, kollektivtrafik (buss och tåg) 15 procent.
+
+Resevaneundersökningen anger också att i Kungsbacka och i
+Onsala sker mindre andel av förflyttningarna med bil än för
+kommunen som helhet. Andelen cykelresor är störst i
+Kungsbacka tätort men i centrum är den lägre än för kommunen
+
+i helhet, andelen resor till fots är dock väsentligt större än i alla
+andra kommundelar. Fjärås är den kommundel som har störst
+andel bilresor. Den kommundel där man har högst andel
+kollektivresor är Kungsbacka Kolla.
+
+Kommunen
+
+■ Bil (Bil som förare. Bil som passa,:erare)
+Bu\$.\$
+■ Järnv,g (T1g/pendeltåg och Spårvogn/lokaltlg)
+
+■ CykeVetc)'kel
+■ Tillfou
 ■ "nnat
+
 Källa: Kungsbacka kommun
+
 20                                     ©TYRÉNS 2016
 
 <!-- sida 447 -->
@@ -19996,26 +22204,40 @@ Summa     51    406   Summa    13   547
 
 <!-- sida 453 -->
 
-KOMMERSIELLA                FÖRUTSÄTTNINGAR                        :i;-:
+KOMMERSIELLA                FÖRUTSÄTTNINGAR                         :i;-:
 TYRENS
 INNERSTADEN
 
-Tyréns har tittat särskilt på de kommersiella förutsättningarna Mer specifikt för Innerstaden har noterats att det saknas givna
+Tyréns har tittat särskilt på de kommersiella förutsättningarna
+för Innerstaden. Med Innerstaden avses den historiska
+stadskärnan, med Centrum ett större område som omfattar
+Innerstaden, stationen, kvValand/Ejdern och Kungsmässan.
 
-för Innerstaden. Med Innerstaden avses den historiska starka stråk med målpunkter som kan styra flöden. Storgatan är
-stadskärnan, med Centrum ett större område som omfattar idag det enda stråk med en sammanhållen handel. På övriga
-Innerstaden, stationen, kvValand/Ejdern och Kungsmässan. gator kan det vara relativt stora (för en stad i Kungsbackas
-storlek) avstånd mellan handel och andra målpunkter.
 Utmaningen för Innerstaden är att befintlig handelsstruktur är
-utspridd, förenklat ”allt finns överallt”. Vidare saknas en När det kommer till Innerstadens entréer saknas visuell
-stadsmässighet som binder ihop Centrums olika delar. koppling och en rekommendation är att tydliggöra entréerna. En
-Utvecklingen av kv. Valand/Ejdern har här stor betydelse. annan brist är kopplingen till/läget vid ån och de potentiella
-sollägen som finns där.
-Tydligt ur handelns perspektiv är också att strukturen stöder ett
-stort bilbehov. Dessa två förutsättningar påverkar möjligheterna Slutligen är Innerstaden sett till utbud en av de mindre
-för Innerstaden på ett övergripande plan. handelsplatserna och för att stärka attraktiviteten behöver
-utbudet förbättras. Det behöver inte nödvändigtvis vara med
+utspridd, förenklat ”allt finns överallt”. Vidare saknas en
 
+stadsmässighet som binder ihop Centrums olika delar.
+Utvecklingen av kv. Valand/Ejdern har här stor betydelse.
+
+Tydligt ur handelns perspektiv är också att strukturen stöder ett
+stort bilbehov. Dessa två förutsättningar påverkar möjligheterna
+för Innerstaden på ett övergripande plan.
+
+Mer specifikt för Innerstaden har noterats att det saknas givna
+starka stråk med målpunkter som kan styra flöden. Storgatan är
+idag det enda stråk med en sammanhållen handel. På övriga
+gator kan det vara relativt stora (för en stad i Kungsbackas
+
+storlek) avstånd mellan handel och andra målpunkter.
+När det kommer till Innerstadens entréer saknas visuell
+
+koppling och en rekommendation är att tydliggöra entréerna. En
+annan brist är kopplingen till/läget vid ån och de potentiella
+sollägen som finns där.
+
+Slutligen är Innerstaden sett till utbud en av de mindre
+handelsplatserna och för att stärka attraktiviteten behöver
+utbudet förbättras. Det behöver inte nödvändigtvis vara med
 handel utan kan även vara offentlig/privat service, nöjen, kafé,
 restaurang, gym med mera.
 
@@ -20703,27 +22925,42 @@ Malin Jarl              Eva Kjellgren           Daniel Petersson
 
 UTVECKLING             AV    KUNGSBACKAS               SJÄL     SKAPAR
 
-EN   ATTRAKTIV            STAD       OCH     KOMMUN                \~e:  TYRENS
+EN    ATTRAKTIV           STAD       OCH     KOMMUN                 \~e: TYRENS
 
-Mycket pekar på att platsers unika eller särskiljande En stark identitet/själ har dessutom positiv
-egenskaper får allt större betydelse för förmågan att påverkan på människors trivsel. Trivseln bidrar till
-attrahera invånare, besökare och näringsliv. Städer i Sverige att människor engagerar sig i sitt område och den
-och världen blir allt mer lika varandra när det gäller upplevda tryggheten ökar. Sammantaget innebär
-kommersiellt utbud, modern arkitektur etc. detta att platser och byggnader blir bättre
-Samtidigt ökar möjligheten för oss människor att välja omhändertagna och mer värda, vilket gynnar både
-bostadsort utifrån fler faktorer än enbart jobb och/eller fastighetsägare och kommunen.
+Mycket pekar på att platsers unika eller särskiljande
+egenskaper får allt större betydelse för förmågan att
+attrahera invånare, besökare och näringsliv. Städer i Sverige
+och världen blir allt mer lika varandra när det gäller
+kommersiellt utbud, modern arkitektur etc.
+Samtidigt ökar möjligheten för oss människor att välja
+bostadsort utifrån fler faktorer än enbart jobb och/eller
 utbildningsmöjligheter.
-Kunskap om platsens själ är ett bra komplement
-Eftersom vi kan pendla allt längre till en lägre kostnad och till ett visionsarbete, som vägledning vid
-arbeta/studera på distans kan vi i större utsträckning välja utvärdering av olika alternativa exploateringar och
-en bostadsort som är trevlig att vistas i, som möjliggör ett som underlag för konkret utveckling av platsers
-tryggt familjeliv eller som erbjuder spännande upplevelser fysiska och funktionella kvaliteter. Det handlar bl.a.
-på fritiden.                             om att kartlägga människors relation till och
-uppfattning om platsens kvaliteter och utifrån
-Genom att arbeta strategiskt med stadens själ kan detta förstå vad som skapar platsens attraktivitet
-Kungsbacka kommun, fastighetsägare, bostadsbolag och och själ/identitet.
+Eftersom vi kan pendla allt längre till en lägre kostnad och
+arbeta/studera på distans kan vi i större utsträckning välja
+en bostadsort som är trevlig att vistas i, som möjliggör ett
+tryggt familjeliv eller som erbjuder spännande upplevelser
+på fritiden.
+Genom att arbeta strategiskt med stadens själ kan
+Kungsbacka kommun, fastighetsägare, bostadsbolag och
 näringsliv tillsammans påverka och stärka platsens
 attraktivitet och konkurrenskraft.
+
+En stark identitet/själ har dessutom positiv
+påverkan på människors trivsel. Trivseln bidrar till
+att människor engagerar sig i sitt område och den
+upplevda tryggheten ökar. Sammantaget innebär
+detta att platser och byggnader blir bättre
+omhändertagna och mer värda, vilket gynnar både
+fastighetsägare och kommunen.
+Kunskap om platsens själ är ett bra komplement
+till ett visionsarbete, som vägledning vid
+utvärdering av olika alternativa exploateringar och
+som underlag för konkret utveckling av platsers
+fysiska och funktionella kvaliteter. Det handlar bl.a.
+om att kartlägga människors relation till och
+uppfattning om platsens kvaliteter och utifrån
+detta förstå vad som skapar platsens attraktivitet
+och själ/identitet.
 
 60                                     ©TYRÉNS 2016
 
@@ -20731,30 +22968,49 @@ attraktivitet och konkurrenskraft.
 
 :i;-:
 TYRENS
-EN   WORKSHOP             OM     KUNGSBACKAS               SJÄL
 
-Vad är egentligen platsens själ? Vad är betydelsefullt att bevara handelsutredning och framtagna visionsbilder) samt en
-när man bygger om och vad är viktigt att ta med när man bygger föreläsning av Mia Wahlström i ämnen ”Vad är platsens själ?”.
-nytt?                                       Deltagarna delades sedan in i fem mindre grupper, och varje
-grupp fick följande uppgifter att arbeta med:
+EN    WORKSHOP            OM     KUNGSBACKAS               SJÄL
+
+Vad är egentligen platsens själ? Vad är betydelsefullt att bevara
+när man bygger om och vad är viktigt att ta med när man bygger
+nytt?
 Mia Wahlström, Tekn. Dr i samhällsplanering och rådgivare inom
-strategisk stadsutveckling, har i sin avhandling forskat i dessa 1. Fundera individuellt: Hur skulle du beskriva Kungsbackas
-frågor. Om man definierar platsens själ (även kallad identitet) som själ med dina egna ord?
-det som särskiljer en plats från en annan, liknande plats, visar 2. Diskutera svaren på uppgift 1. inom grupper och utveckla:
-hennes forskning att platsens själ har två viktiga byggstenar. Den hur kan detta ”manifesteras” och synas för att locka
-viktigaste komponenten är människans relation till platsen, ofta invånare, besökare och näringsliv/aktörer?
-kopplat till stolthet, tillhörighet och hemmakänsla. Den andra 3. Diskutera i gruppen: Vad bör a)bevaras b)förändras och
-komponenten är människans uppfattning om platsens fysiska och utvecklas i kommunen mot bakgrund av ovanstående.
+strategisk stadsutveckling, har i sin avhandling forskat i dessa
+frågor. Om man definierar platsens själ (även kallad identitet) som
+det som särskiljer en plats från en annan, liknande plats, visar
+hennes forskning att platsens själ har två viktiga byggstenar. Den
+viktigaste komponenten är människans relation till platsen, ofta
+kopplat till stolthet, tillhörighet och hemmakänsla. Den andra
+komponenten är människans uppfattning om platsens fysiska och
 funktionella kvaliteter –dvs hur man uppfattar fysiska element och
-miljöer samt serviceutbudet.                Mot slutet av workshopen redovisade grupperna sina svar, som
-då även kommenterades av övriga deltagare.
-Inom ramen för detta uppdrag diskuterades Kungsbackas själ i en Tyréns har sammanställt resultatet från grupparbetet och
-workshop den 20/8 2019. Deltagarna var representanter för redovisar detta med hjälp av tre olika ordmoln. Ett ordmoln
-kommun (både tjänstepersoner och politiker), fastighetsägare och skapas genom att alla svar från deltagarna i workshopen läggs
-handlare.                                   samman och sedan räknas hur många gånger varje ord
-förekommer. Ju oftare ett ord förekommer, desto större blir det
-Workshopen inleddes med en presentation av hittills genomförda presenterat i ordmolnet.
+miljöer samt serviceutbudet.
+Inom ramen för detta uppdrag diskuterades Kungsbackas själ i en
+workshop den 20/8 2019. Deltagarna var representanter för
+kommun (både tjänstepersoner och politiker), fastighetsägare och
+handlare.
+Workshopen inleddes med en presentation av hittills genomförda
 moment i uppdraget (resultat från -
+
+handelsutredning och framtagna visionsbilder) samt en
+föreläsning av Mia Wahlström i ämnen ”Vad är platsens själ?”.
+Deltagarna delades sedan in i fem mindre grupper, och varje
+grupp fick följande uppgifter att arbeta med:
+1\. Fundera individuellt: Hur skulle du beskriva Kungsbackas
+själ med dina egna ord?
+2\. Diskutera svaren på uppgift 1. inom grupper och utveckla:
+hur kan detta ”manifesteras” och synas för att locka
+invånare, besökare och näringsliv/aktörer?
+3\. Diskutera i gruppen: Vad bör a)bevaras b)förändras och
+utvecklas i kommunen mot bakgrund av ovanstående.
+Mot slutet av workshopen redovisade grupperna sina svar, som
+då även kommenterades av övriga deltagare.
+Tyréns har sammanställt resultatet från grupparbetet och
+redovisar detta med hjälp av tre olika ordmoln. Ett ordmoln
+skapas genom att alla svar från deltagarna i workshopen läggs
+samman och sedan räknas hur många gånger varje ord
+förekommer. Ju oftare ett ord förekommer, desto större blir det
+presenterat i ordmolnet.
+
 61                                     ©TYRÉNS 2016
 
 <!-- sida 488 -->
@@ -20827,47 +23083,67 @@ Handel bi t ria                           hamntötget
 TYRENS
 TYRÉNS        KOMMENTARER
 
-Workshopen visar på att det finns en otydlig bild om vad Mia Wahlströms forskning indikerar att det finns vissa kvaliteter som
-som är Kungsbackas själ. Stadens kvaliteter stämmer in på har starkt samband med att en stad har en stark identitet/själ –
-många mindre städer; nära till allt, mysigt, tryggt, bekvämt, oberoende av vilken stad som studeras. Dessa kvaliteter är: förekomst
-enkelt etc. Men, många nämner också t.ex. Innerstaden, av konst, statyer och symboler på offentliga platser samt att det finns
-torgen, trähusen, småskaligheten, handelshistoriken, ån, historier om platsen som man gärna berättar för andra. Även estetik (att
-kopplingen till havet och den genuina känslan, vilket känns det är en vacker stad), mysiga gång-/cykelstråk samt trygghet och ett
-mer unikt för Kungsbacka och därmed bättre att bygga gott rykte påverkar själ/identitet positivt.
+Workshopen visar på att det finns en otydlig bild om vad
+som är Kungsbackas själ. Stadens kvaliteter stämmer in på
+många mindre städer; nära till allt, mysigt, tryggt, bekvämt,
+enkelt etc. Men, många nämner också t.ex. Innerstaden,
+torgen, trähusen, småskaligheten, handelshistoriken, ån,
+kopplingen till havet och den genuina känslan, vilket känns
+mer unikt för Kungsbacka och därmed bättre att bygga
 vidare på. Detta förstärks ytterligare på frågan om vad som
-bör bevaras, där flera av grupperna tar upp dessa. Relativt Forskningen visar således att användande av berättelser, via t.ex. konst
-sett är det färre ord i ordmolnet för bevara, men det beror och symboler, är ett sätt att lyfta fram en stads själ. Att skapa mysiga
-troligtvis på att uppgiften inte prioriterades av grupperna platser och stråk längs Kungsbackaån ligger också i linje med
-och därför inte riktigt hanns med.     forskningsresultaten. Det är ån som står för den tydligaste kopplingen
-till havet, kopplingen är en viktigt del av Kungsbackas historia som
-Enligt deltagarna kan det mesta av det som nämndes som handelsstad och en stark del av Kungsbackas själ. Trähusbebyggelsen i
-deltagarnas själ utvecklas vidare, framförallt å-rummet, Innerstaden står för estetiken, men det är viktigt att ny bebyggelse
-Innerstaden och kopplingen till havet. Under ”utveckla” harmonierar med befintlig samt att den håller hög arkitektonisk kvalitet.
-nämns också konsten, pulsen, innergårdarna, berättelserna Vilken typ av arkitektur som passar bäst är dock svårt att säga. I vissa
-och marknadsföringen. Det tycks finnas en brist på att lyfta fall kan ny modern arkitektur lyfta fram den bevarade äldre bebyggelsen
-de berättelser som redan finns. Även specifika platser i på ett fint sätt, medan det i andra fall passar bättre när den nya
-staden respektive kommunen bör utvecklas, såsom: bebyggelse när så lik den äldre som möjligt.
+bör bevaras, där flera av grupperna tar upp dessa. Relativt
+sett är det färre ord i ordmolnet för bevara, men det beror
+troligtvis på att uppgiften inte prioriterades av grupperna
+och därför inte riktigt hanns med.
+Enligt deltagarna kan det mesta av det som nämndes som
+deltagarnas själ utvecklas vidare, framförallt å-rummet,
+Innerstaden och kopplingen till havet. Under ”utveckla”
+nämns också konsten, pulsen, innergårdarna, berättelserna
+och marknadsföringen. Det tycks finnas en brist på att lyfta
+de berättelser som redan finns. Även specifika platser i
+staden respektive kommunen bör utvecklas, såsom:
 Kungsmässan, Vattentornet, Gamla realskolan, Gottskär,
 Fjärås och Fyren.
+
+Mia Wahlströms forskning indikerar att det finns vissa kvaliteter som
+har starkt samband med att en stad har en stark identitet/själ –
+oberoende av vilken stad som studeras. Dessa kvaliteter är: förekomst
+av konst, statyer och symboler på offentliga platser samt att det finns
+historier om platsen som man gärna berättar för andra. Även estetik (att
+det är en vacker stad), mysiga gång-/cykelstråk samt trygghet och ett
+gott rykte påverkar själ/identitet positivt.
+Forskningen visar således att användande av berättelser, via t.ex. konst
+och symboler, är ett sätt att lyfta fram en stads själ. Att skapa mysiga
+platser och stråk längs Kungsbackaån ligger också i linje med
+forskningsresultaten. Det är ån som står för den tydligaste kopplingen
+till havet, kopplingen är en viktigt del av Kungsbackas historia som
+handelsstad och en stark del av Kungsbackas själ. Trähusbebyggelsen i
+Innerstaden står för estetiken, men det är viktigt att ny bebyggelse
+harmonierar med befintlig samt att den håller hög arkitektonisk kvalitet.
+Vilken typ av arkitektur som passar bäst är dock svårt att säga. I vissa
+fall kan ny modern arkitektur lyfta fram den bevarade äldre bebyggelsen
+på ett fint sätt, medan det i andra fall passar bättre när den nya
+bebyggelse när så lik den äldre som möjligt.
+
 64                                     ©TYRÉNS 2016
 
 <!-- sida 491 -->
 
 :i;-:
 TYRENS
-SLUTSATSER            -  STADENS          SJÄL
+SLUTSATSER            -   STADENS         SJÄL
 
-Workshopen visar tydligt att det finns stor potential i att Här skulle å-rummet kunna utvecklas ytterligare, med ännu fler
-arbeta med Kungsbackas själ –både utvecklande och trivsamma platser och mysiga stråk för både gång och cykel. Det
-bevarande. Innerstaden, med sina torg, sin småskalighet och är idag möjligt att färdas med mindre båtar hela vägen ut till
-sin genuina, fina trähusbebyggelse är en viktigt bärare av havet, vilket skulle vara en tillgång både för boende och turister.
+Workshopen visar tydligt att det finns stor potential i att
+arbeta med Kungsbackas själ –både utvecklande och
+bevarande. Innerstaden, med sina torg, sin småskalighet och
+sin genuina, fina trähusbebyggelse är en viktigt bärare av
 stadens själ. Denna miljö bevaras, men kan samtidigt
-utvecklas. Ett sätt är att lyfta fram olika berättelser från De resultat som nämnts och kommenterats här, bygger på
-Kungsbackas historia (både äldre och modern) via konst, uttalanden från representanter från kommunen, fastighetsägare
-statyer och andra symboler. Stadens innergårdar är kanske och handlare i Kungsbacka. För att kunna göra en mer komplett
-inte unika, men en viktigt del av Innerstadens trähuskaraktär analys av Kungsbackas själ och hur den kan utvecklas är det
-och de skulle därför kunna utvecklas mer. Det finns en önskan dock vår starka rekommendation att man också tar reda på vad
-att Innerstaden ska bli mer full av liv och rörelse – invånarna tycker.
+utvecklas. Ett sätt är att lyfta fram olika berättelser från
+Kungsbackas historia (både äldre och modern) via konst,
+statyer och andra symboler. Stadens innergårdar är kanske
+inte unika, men en viktigt del av Innerstadens trähuskaraktär
+och de skulle därför kunna utvecklas mer. Det finns en önskan
+att Innerstaden ska bli mer full av liv och rörelse –
 workshopdeltagarna föreslog bl.a. fler boende och
 arbetsplatser i staden. Den typen av åtgärder tar tyvärr oftast
 lång tid att få till stånd, men däremot kan olika evenemang
@@ -20876,6 +23152,17 @@ investeringskostnad.
 En annan viktig del av själen utgörs av Kungsbackaån och
 kopplingen till havet, vilka tillsammans har haft en avgörande
 betydelse för Kungsbackas historia som handelsstad.
+
+Här skulle å-rummet kunna utvecklas ytterligare, med ännu fler
+trivsamma platser och mysiga stråk för både gång och cykel. Det
+är idag möjligt att färdas med mindre båtar hela vägen ut till
+havet, vilket skulle vara en tillgång både för boende och turister.
+De resultat som nämnts och kommenterats här, bygger på
+uttalanden från representanter från kommunen, fastighetsägare
+och handlare i Kungsbacka. För att kunna göra en mer komplett
+analys av Kungsbackas själ och hur den kan utvecklas är det
+dock vår starka rekommendation att man också tar reda på vad
+invånarna tycker.
 
 65                                     ©TYRÉNS 2016
 
@@ -21416,8 +23703,6 @@ I denna del presenteras en prognos som visar hur stora ytor som kan komma i ansp
 
 <!-- sida 511 -->
 
-:i;-:
-TYRENS
 HANDELSPOTENTIAL
 
 Tyréns har i uppdrag att analysera och beräkna handelspotential och ytbehov för
@@ -21427,36 +23712,42 @@ För att få en fast utgångspunkt för beräkningarna av omsättningspotentiale
 en kalibrering gjorts av nuvarande faktiska detaljhandelsomsättning inom
 
 dagligvaror och sällanköpsvaror, samt för restaurang/café (år 2018).
-Utifrån nuläget med befintlig omsättning och
 Därefter har möjliga framtida marknadsandelar (2028) bedöms och vilken
-framtida marknadsunderlag för detaljhandel, kan en
+
 omsättningsutveckling och ytbehov det motsvarar. Bedömningen utgår från det
-bedömning av möjlig framtida marknadsandel och
 egna sammanlagda utbudets konkurrenskraft gentemot framtida konkurrens.
-framtida omsättningsprognos i sin tur visa hur stora
 Beräkningarna görs uppdelat per branscher och utifrån Tyrénserfarenheter av
-ytor för handel som kan komma i anspråk.
 omsättning per kvm och bransch.
 
-85                                     ©TYRÉNS 2016
+85
+
+:i;-:
+TYRENS
+
+Utifrån nuläget med befintlig omsättning och
+framtida marknadsunderlag för detaljhandel, kan en
+bedömning av möjlig framtida marknadsandel och
+framtida omsättningsprognos i sin tur visa hur stora
+ytor för handel som kan komma i anspråk.
+
+©TYRÉNS 2016
 
 <!-- sida 512 -->
 
-=i;-: TYRENS
 HANDELSPOTENTIAL
 
-Följande fem faktorer är viktigast för en säker bedömning av (cid:127) De enskilda detaljhandels-och restaurang/café-företagens
+Följande fem faktorer är viktigast för en säker bedömning av
 
-framtida omsättningspotential för detaljhandel och restaurang/ framtida konkurrenskraft inom sina respektive branscher i de
-café för en handelsplats. En verksamhets omsättning är grunden rådande konkurrenssituationen
+framtida omsättningspotential för detaljhandel och restaurang/
+café för en handelsplats. En verksamhets omsättning är grunden
 för om etableringen blir varaktig och för att säkra långsiktiga
-Marknadsanalysen kan kvantifiera, belysa och värdera de fyra
 investeringar.
-förstnämnda faktorernas inverkan på framtida omsättning för en
-(cid:127) Rätt avgränsning och indelning av en handelsplats handelsplats. Den sista faktorn –butikerna konkurrenskraft -
-marknadsområde -med hänsyn till läge, tillgänglighet (bil, antas vara i nivå med de bästa branschföreträdarna i
-kollektivtrafik, gång och cykel), konkurrens och upptagningsområdet, vilket gäller såväl befintliga som
-attraktionskraft                       nytillkomna företag.
+
+(cid:127) Rätt avgränsning och indelning av en handelsplats
+marknadsområde -med hänsyn till läge, tillgänglighet (bil,
+kollektivtrafik, gång och cykel), konkurrens och
+attraktionskraft
+
 (cid:127) Marknadens storlek i MSEK och hur den kan tänkas växa i
 olika branscher (nuläge och potential)
 
@@ -21466,6 +23757,20 @@ och i framtiden
 (cid:127) Funktionell utformning och atmosfär som handelsplats vad
 gäller lättillgänglighet, var butikerna är placerade samt
 bekväm och tillräcklig parkering
+
+=i;-: TYRENS
+
+(cid:127) De enskilda detaljhandels-och restaurang/café-företagens
+framtida konkurrenskraft inom sina respektive branscher i de
+rådande konkurrenssituationen
+
+Marknadsanalysen kan kvantifiera, belysa och värdera de fyra
+förstnämnda faktorernas inverkan på framtida omsättning för en
+handelsplats. Den sista faktorn –butikerna konkurrenskraft -
+antas vara i nivå med de bästa branschföreträdarna i
+upptagningsområdet, vilket gäller såväl befintliga som
+
+nytillkomna företag.
 
 86                                     ©TYRÉNS 2016
 
@@ -23682,38 +25987,48 @@ Kungsbacka Kontorsanalys, december 2020 14
 
 <!-- sida 580 -->
 
+I dagsläget är utbudet av nya kontorsytor
+begränsad och efterfrågan på kontor är
+idag låg –en spegling av hur marknaden
+ser ut. Topphyror i Kungsbacka för kontor
+uppgår till 1 600 kr/kvm/år i centrum. Detta
+är en nivå som innebär stora utmaningar
+för nyproduktion på marknadsmässiga
+grunder. Se mer om nuläge och bakom-
+liggande resonemang i bilaga.
+
+Totalt innebär planerade projekt en ökning
+
+A
+
 1
 2
+
 0
+
 Kungsbacka                           2i   framtiden
 
 b
-
 e
 f
-I dagsläget är utbudet av nya kontorsytor av kontorsytan i Kungsbacka med cirka
+av kontorsytan i Kungsbacka med cirka
 L
-begränsad och efterfrågan på kontor är 50 000 kvm LOA\* vilket motsvarar cirka
-idag låg –en spegling av hur marknaden 3 500 nya kontorssysselsattAa.
-ser ut. Topphyror i Kungsbacka för kontor
+50 000 kvm LOA\* vilket motsvarar cirka
+3 500 nya kontorssysselsattAa.
 Planerade projekt berör frIamförallt centrum
-uppgår till 1 600 kr/kvm/år i centrum. Detta
 och Hede. På föregåRende sidor beskrivs
-är en nivå som innebär stora utmaningar
 hur attraktivitetsnivån påverkas av
-för nyproduktion på marknadsmässiga         E
+E
 volymen kontor och kontorssysselsatta.
-grunder. Se mer om nuläge och bakom-
-liggande resonemang i bilaga.    Vilken effekTt på attraktiviteten innebär dom
+Vilken effekTt på attraktiviteten innebär dom
 planerade projekten mätt som ökade
-Totalt innebär planerade projekt en ökning
 hyresnivåer?
 
 \* 20 procent avgår i annan
 kommersiell verksamhet och
 relationen LOA/BTA sätts till Källa: Kungsbacka kommun, pågående projekt
 0,85. Varje sysselsatt kräver
-A                           15 kvm LOA
+15 kvm LOA
 Kungsbacka Kontorsanalys, december 2020 15
 
 [Tabell 580-1](handlingar.tabeller/580-1.csv)
@@ -23731,33 +26046,46 @@ Kungsbacka Kontorsanalys, december 2020 15
 
 <!-- sida 581 -->
 
-1
-2
-0
-2
+Antalet kontorssysselsatta fram till 2050
+beräknas öka i Kungsbacka med cirka 4 500
+personer, se figur på sida 9. Planerna
+beskrivna på föregående sida uppfyller med
+rimlig precision den framtida kontors-
+sysselsättningstillväxten. En fortsatt
+yteffektivisering, med fler sysselsatta på
+samma yta, förväntas i det redan existerande
+beståndet.
 
-b
-
-e
-Antalet kontorssysselsatta fram till 2050 verksamheter) och en förbättrad moderfnitet Innan dess är risken för investeringen stor
-beräknas öka i Kungsbacka med cirka 4 500 ger ett tillskott till hyresnivån. vilket kan innebära svårigheter att locka
-L
-personer, se figur på sida 9. Planerna                            investerare till platsen.
-beskrivna på föregående sida uppfyller med När planerna är fullt genomföArda nås hyres-
-rimlig precision den framtida kontors- nivåer på kontorsmarknaden där nyproduktion Modellen visar därtill att både Hede och
-I
-sysselsättningstillväxten. En fortsatt börjar bli möjlig på marknadsmässiga villkor. Borgås/Varla tappar i attraktivitet gentemot
-R
-yteffektivisering, med fler sysselsatta på                        Centrum, eftersom majoriteten av produktions-
-samma yta, förväntas i det redan existerande Då det är utmanande att nyproducera kontor planerna lokaliseras till centrum. Kontor vid
-E
-beståndet.                       till de hyresnivåer som råder idag är det värt Hede station blir även i framtiden mycket
-att poängteraT att hyresnivån som citeras nås utmanande.
-Frågan är då i vilken utsträckning först när 37 500 kvm LOA uppnåtts.
+Frågan är då i vilken utsträckning
 nyproduktionen som planeras medför ökad
 attraktivitet för Kungsbackas kontorsmarknad
 och vilken effekt det får på framtida
 hyresnivåer.
+
+1
+2
+
+0
+2
+
+b
+e
+verksamheter) och en förbättrad moderfnitet Innan dess är risken för investeringen stor
+ger ett tillskott till hyresnivån. vilket kan innebära svårigheter att locka
+L
+investerare till platsen.
+När planerna är fullt genomföArda nås hyres-
+nivåer på kontorsmarknaden där nyproduktion Modellen visar därtill att både Hede och
+I
+börjar bli möjlig på marknadsmässiga villkor. Borgås/Varla tappar i attraktivitet gentemot
+R
+Centrum, eftersom majoriteten av produktions-
+Då det är utmanande att nyproducera kontor planerna lokaliseras till centrum. Kontor vid
+E
+till de hyresnivåer som råder idag är det värt Hede station blir även i framtiden mycket
+att poängteraT att hyresnivån som citeras nås utmanande.
+först när 37 500 kvm LOA uppnåtts.
+
 Skattning av hyra med Evidens stadskvalitets-
 T
 modell, se sid 12, innebär en hyrestillväxt från
@@ -23768,7 +26096,7 @@ förbättrat kontorskluster. Men även ett ökat
 utbud av butiker och restauranger (urbana
 R
 Källa: Värderingsdata (Cushman& Wakefield) och Evidens
-A                 \*Intervjuer indikerar att nyproduktionshyror ligger en bit över 2 000 kr/kvm/år
+A                \*Intervjuer indikerar att nyproduktionshyror ligger en bit över 2 000 kr/kvm/år
 Kungsbacka Kontorsanalys, december 2020 16
 
 [Tabell 581-1](handlingar.tabeller/581-1.csv)
@@ -25443,98 +27771,122 @@ möjlighet för samtliga föreningar att komma in med anbud.
 
 <!-- sida 622 -->
 
-En värdefull mötesplats                         Stärka skolan
-Framtidens idrottshall är en                    Framtidens idrottshall stärker
-mötesplats i vardagen, oavsett                  skolans hälsofrämjande uppdrag
-var den uppförs, genom att erbjuda              och tillgängliggör den viktiga
-ett brett, gränsöverskridande                   vardagsrörelsen för fler.
+En värdefull mötesplats
+Framtidens idrottshall är en
+mötesplats i vardagen, oavsett
+var den uppförs, genom att erbjuda
+ett brett, gränsöverskridande
 innehåll där idrott och rörelse
 är i fokus.
+
+En värdEenfu vläl mrdöetfeuslpl mlatöstesplats
+Tillgänglig rörelse
+Framtidens idrottshall är
+FramtidenFsra idmrtoitdtesnhsa lidl äror tetnsh inakllulde äranrd ee, tnillg änglig och
+tilltalar en bred målgrupp oavsett
+mötesplatms öi tveasrpdlaagtse ni v, oaarvdsaegtkeötnn , å,l doera, bvosstadesotrtt e ller
+funktionsvariation. I en tid med
+var den upvpafrö dresn, g uepnpofmör ast, tg eernmboejrum stidll aaasitt tta neder obchj puoldariase rad
+tillgång till idrott och hälsa verkar
+ett brett, gertät nbsreötvte, grsrkärnisdöavnedresfr kamrtiiddenas idnrodttseha ll för ett
+jämlikt idrottande genom låga
+innehåll dinänr eidhråoltlt d oäcrh i drörroetlts oetrcö shkla rr oöchr geenlosme at t fokusera
+på lusten till idrott, rörelse och det
+är i fokus.ä r i fokus. som finns runtomkring.
+Stödja föreningar
+Framtidens idrottshall skapar
+förutsättningar för livslång
+rörelseförståelse/rörelseglädje
+och stödjer en förenings-
+gemenskap som ger trygghet
+och sammanhang för fler.
+
+Stärka skolan
+Framtidens idrottshall stärker
+skolans hälsofrämjande uppdrag
+och tillgängliggör den viktiga
+vardagsrörelsen för fler.
 En ekologiskt,
 ekonomiskt och socialt
 hållbar byggnad
 Framtidens idrottshall är en
 hållbar byggnad med innovativa
 lösningar som möter framtida
-En värdEenfu vläl mrdöetfeuslpl mlatö
-T
-st
-il
-e
-lgä
-s
-ng
-p
-lig
-l a
-rör
-t
-e
-s
-lse
 Stärka sSktmiäoljörlkraakv,n sakap sark lånogsilktaigan
 fastighetsvärden och främjar den
-Framtidens idrottshall är
-FramtidenFsra idmrtoitdtesnhsa lidl äror tetnsh inakllulde äranrd ee, tnillg änglig och FramtidenFsrsoa icidmalar itonittedgtresatnihonsaen li.dl srotättrskhear ll stärker
-tilltalar en bred målgrupp oavsett
-mötesplatms öi tveasrpdlaagtse ni v, oaarvdsaegtkeötnn , å,l doera, bvosstadesotrtt e ller skolans hsäklsoolafrnäsm hjäalnsdoefr uäpmpjdanradge uppdrag
-funktionsvariation. I en tid med
-var den upvpafrö dresn, g uepnpofmör ast, tg eernmboejrum stidll aaasitt tta neder obchj puoldariase rad och tillgäoncghli gtiglölgrä dnegnl ivgigkötri gdae n viktiga
-tillgång till idrott och hälsa verkar
-ett brett, gertät nbsreötvte, grsrkärnisdöavnedresfr kamrtiiddenas idnrodttseha ll för ett vardagsrövraerldseangs fröörr fleelsre.n för fler.
-jämlikt idrottande genom låga
-innehåll dinänr eidhråoltlt d oäcrh i drörroetlts oetrcö shkla rr oöchr geenlosme at t fokusera
-på lusten till idrott, rörelse och det
-är i fokus.ä r i fokus. som finns runtomkring.
+FramtidenFsrsoa icidmalar itonittedgtresatnihonsaen li.dl srotättrskhear ll stärker
+skolans hsäklsoolafrnäsm hjäalnsdoefr uäpmpjdanradge uppdrag
+och tillgäoncghli gtiglölgrä dnegnl ivgigkötri gdae n viktiga
+vardagsrövraerldseangs fröörr fleelsre.n för fler.
+
 Värdeskapande lösningar
 Framtidens idrottshall har
-En ekoloEgni sekkto,l ogiskt,
 kvalitativa och konkreta
 gestaltningslösningar där
-Stödja föreningar                                                                                            ekonomeiksoknt oomchi sskotc oiaclht socialt
 volymeffektivitet och fler-
-Framtidens idrottshall skapar                                           funktionalitet skapar värde
-förutsättningar för livslång                                            för både kommun, brukare             hållbar hbåylglbgnara dbyggnad
-rörelseförståelse/rörelseglädje                                         och byggaktör.
-och stödjer en förenings-                                                                                    FramtidenFsra idmrtoitdtesnhsa lidl äror tetnsh all är en
-gemenskap som ger trygghet
-och sammanhang för fler.                                                                                     hållbar byhgågllnbaadr mbyegdg innando mvaetdiv ian novativa
-lösningarl ösosnmi nmgöatre sro fmra mmtöitdear framtida
-miljökravm, sikljaöpkarra lvå, nskgaspikatri glåan gsiktiga
+funktionalitet skapar värde
+för både kommun, brukare
+och byggaktör.
+
 TillgängTliilgl gräönregllsige rörelse
-fastighetsfvasätridgehne toscvhä frrdäemnj oacrh d efrnä mjar den
 FramtidenFsra idmrtoitdtesnhsa lidl äror ttshall är
-sociala instoegciraaltaio inneteng.rationen.
+
 inkluderainndkelu, tdiellrgaänndgel,i gti ollcghä nglig och
-tilltalar etni lbltraelda mr eånlg brruepdp m oåalvgsreutpt p oavsett Konceptprogram för
+tilltalar etni lbltraelda mr eånlg brruepdp m oåalvgsreutpt p oavsett
 kön, ålderk, öbnos, åtalddesro, rbto esltlaerd sort eller
 funktionsfvuanrkiatitoionnsv. Ia ernia ttiido nm. eI de n tid med
-Framtidens             idrottshall
+
 mer stillamsiettra sntdilela oscihtt apnoldaer oiscehr apdo lariserad
 tillgång titlill ildgårontgt toicllh i dhräoltsta o vcehr khaärls a verkar
 framtidenfsra idmrtoitdtesnhsa lidl fröort testht all för ett
 jämlikt idjräomttlaikntd ied greonttoamnd leåg gae nom låga
-Gymnastikförbundet,       Basketbollförbundet,
 trösklar otcrhös gkelnaorm oc aht tg feonkoumse artat fokusera
-på lusten ptiål ll uidsrtoetnt ,t riöllr iedlsroet ot,c rhö dreelts e och det Volleybollförbundet, Innebandyförbundet,
+
+på lusten ptiål ll uidsrtoetnt ,t riöllr iedlsroet ot,c rhö dreelts e och det
 som finnss roumn fitonmnks rriunngt.omkring.
+
+Konceptprogram                    för
+
+Framtidens              idrottshall
+
+Gymnastikförbundet,       Basketbollförbundet,
+
+Volleybollförbundet,     Innebandyförbundet,
 Handbollförbundet      och  White   Arkitekter  AB
-Augusti   2020
+
+Augusti  2020
+
+Stödja fSötröednjian fgöarreningar
+FramtidenFsra idmrtoitdtesnhsa lidl srkotatpsahra ll skapar
+
+förutsättnföinrugatsrä ftötrn liinvgsalårn fögr livslång
+rörelseförrsötråeellsseef/örrösrteåleslesgel/ärdöjree lseglädje
+och stödjeorc ehn s ftöördejnerin egns f-örenings-
+gemenskagpe msoemns gkearp tr syogmg hgeetr trygghet
+
+och sammoachn hsaamngm föarn flhearn.g för fler.
+
+En ekoloEgni sekkto,l ogiskt,
+ekonomeiksoknt oomchi sskotc oiaclht socialt
+hållbar hbåylglbgnara dbyggnad
+
+FramtidenFsra idmrtoitdtesnhsa lidl äror tetnsh all är en
+hållbar byhgågllnbaadr mbyegdg innando mvaetdiv ian novativa
+lösningarl ösosnmi nmgöatre sro fmra mmtöitdear framtida
+
+miljökravm, sikljaöpkarra lvå, nskgaspikatri glåan gsiktiga
+fastighetsfvasätridgehne toscvhä frrdäemnj oacrh d efrnä mjar den
+sociala instoegciraaltaio inneteng.rationen.
+
 VärdeskVaäpradnedske alöpsannidneg laörsningar
 FramtidenFsra idmrtoitdtesnhsa lidl hroatrt shall har
 kvalitativkav oaclhit aktoinvak roectha konkreta
 gestaltninggessltöasltnniinnggasrl ödsänr ingar där
-Stödja fSötröednjian fgöarreningar
+
 volymeffevkotlyivmiteefft oeckhti flveitre-t och fler-
-FramtidenFsra idmrtoitdtesnhsa lidl srkotatpsahra ll skapar
 funktionafulintektt sikonapaalirt evtä srkdaep ar värde
-förutsättnföinrugatsrä ftötrn liinvgsalårn fögr livslång
 för både kfoömr bmåudne ,k bormukmauren , brukare
-rörelseförrsötråeellsseef/örrösrteåleslesgel/ärdöjree lseglädje
 och byggaokcthö br.yggaktör.
-och stödjeorc ehn s ftöördejnerin egns f-örenings-
-gemenskagpe msoemns gkearp tr syogmg hgeetr trygghet
-och sammoachn hsaamngm föarn flhearn.g för fler.
 
 <!-- sida 623 -->
 
@@ -25629,121 +27981,266 @@ nnnnnnnn
 
 <!-- sida 626 -->
 
+Bakgrund  och
+avgränsningar
+
+Det finns idag en stor efterfrågan på
+fler idrottshallar på många platser i
+Sverige, framförallt i våra tillväxtregioner.
+Avsaknaden av hallar begränsar många
+idrottsföreningarnas möjlighet till trä-
+ning. Detta ger dåliga förutsättningar för
+skolämnet idrott och hälsa att uppfylla
+läroplanen, vilket är en begränsning i
+en av grundpelarna inom folkhälsan. En
+stor del av dagens hallar tillkom under
+andra halvan av 1900-talet, under en
+period då en stor del av den samhälls-
+service vi har idag formades och
+byggdes. Dessa byggnader är i många
+fall tekniskt uttjänta och omoderna, eller
+ej längre ändamålsenliga. Och även
+om byggandet har ökat de senaste
+åren så ökar behoven av idrottshallar
+för föreningar och skolor i samma takt.
+Som exempel finns det siffror på att
+mer än 1000 skolor behöver byggas de
+närmsta tio åren, och till dem en stor
+mängd idrottshallar.
+Många av de idrottshallar som byggs
+idag ser i stort sett likadana ut som
+de gjorde på 1900-talet, i alla fall vad
+det gäller tillgängliga ytor för aktivitet
+där rådande normer behöver utmanas.
+Det finns därför ett stort behov av att
+reformera synen på hur en idrottshall
+
+ska utformas och av den anledningen
+har Basketboll-, Gymnastik-, Handbolls,
+Innebandy- och Volleybollförbundet
+tillsammans med White arkitekter inlett
+ett samarbete för att ta fram ett koncept
+för hur framtidens moderna idrottshall
+för idrott och skola kan se ut. Detta
+material, ”Framtidens idrottshall”, är ett
+första steg i det arbetet.
+Den idrottshall som beskrivs här
+ska i första hand kunna användas för
+träning inom respektive idrott och för
+skolornas undervisning i idrott och
+hälsa. Anläggningen ska även kunna
+användas till tävling på lägre nivåer
+inom respektive idrott. Detta projekt
+omfattar alltså inte en arena för tävlingar
+på högre nivåer med de krav på läktare
+etc som kommer med det. I arbetet
+har vi främst tittat på idrottshallens
+utformning. Placering och omgivning
+är också centralt för hallens använd-
+ning och attraktivitet och har därför
+beskrivits översiktligt. Arbetet har inte
+haft som mål att leverera en komplett
+typlösning eller en ritning utan fokuserar
+på grundläggande värden och mål och
+beskriver hur dessa kan omsättas i en
+byggd miljö.
+I materialet används begreppet
+”Idrottshall” för den anläggning som
+beskrivs. ”Gymnastiksal” är ett ord som
+vanligtvis används för mindre idrottshal-
+
 1\. INLEDNING
 
 Foto: White arkitekter, Thomas Zaar
 
-Bakgrund och
-ska utformas och av den anledningen lar kopplade till skolan, den plats där
-avgränsningar          har Basketboll-, Gymnastik-, Handbolls, det som förr kallades Skolgymnastik
-Innebandy- och Volleybollförbundet utövas. ”Sporthall” är ett annat ord,
-Det finns idag en stor efterfrågan på tillsammans med White arkitekter inlett ofta vardagligt använt istället för
-fler idrottshallar på många platser i ett samarbete för att ta fram ett koncept ”Idrottshall”.
-Sverige, framförallt i våra tillväxtregioner. för hur framtidens moderna idrottshall Arbetet har pågått under 2019 och
-Avsaknaden av hallar begränsar många för idrott och skola kan se ut. Detta 2020.
-idrottsföreningarnas möjlighet till trä- material, ”Framtidens idrottshall”, är ett
-ning. Detta ger dåliga förutsättningar för första steg i det arbetet. Syfte och målsättning
-skolämnet idrott och hälsa att uppfylla Den idrottshall som beskrivs här
-läroplanen, vilket är en begränsning i ska i första hand kunna användas för Den moderna idrottshallen för idrott och
-en av grundpelarna inom folkhälsan. En träning inom respektive idrott och för skola ska kännetecknas av yteffektivitet
-stor del av dagens hallar tillkom under skolornas undervisning i idrott och och multifunktionalitet. Eftersom det
-andra halvan av 1900-talet, under en hälsa. Anläggningen ska även kunna är en stor brist på idrottshallar så
-period då en stor del av den samhälls- användas till tävling på lägre nivåer behöver de som byggs vara effektiva
-service vi har idag formades och inom respektive idrott. Detta projekt både i yta och volym för att kunna
-byggdes. Dessa byggnader är i många omfattar alltså inte en arena för tävlingar rymma så många aktiviteter och utövare
-fall tekniskt uttjänta och omoderna, eller på högre nivåer med de krav på läktare som möjligt. Den strävar också efter
-ej längre ändamålsenliga. Och även etc som kommer med det. I arbetet flerfunktionalitet, att så många ytor som
-om byggandet har ökat de senaste har vi främst tittat på idrottshallens möjligt i anläggningen med fördel skall
-åren så ökar behoven av idrottshallar utformning. Placering och omgivning ha flera olika funktioner. Även rörelse-
-för föreningar och skolor i samma takt. är också centralt för hallens använd- förståelse och rörelseglädje skall prägla
-Som exempel finns det siffror på att ning och attraktivitet och har därför hela anläggningen, inte bara idrottsytan
-mer än 1000 skolor behöver byggas de beskrivits översiktligt. Arbetet har inte i hallrummet. Det är något som skall
-närmsta tio åren, och till dem en stor haft som mål att leverera en komplett triggas redan när man gör entré i hallen
-mängd idrottshallar.   typlösning eller en ritning utan fokuserar eller uppehåller sig utanför.
-Många av de idrottshallar som byggs på grundläggande värden och mål och Framtidens idrottshall skall också
-idag ser i stort sett likadana ut som beskriver hur dessa kan omsättas i en beskriva flera dimensioner av idrottshal-
-de gjorde på 1900-talet, i alla fall vad byggd miljö. lens värde och vad i utformningen som
-det gäller tillgängliga ytor för aktivitet I materialet används begreppet är centralt för att möjliggöra dessa.
-där rådande normer behöver utmanas. ”Idrottshall” för den anläggning som Detta för att idrottshallarna ska byggas
-Det finns därför ett stort behov av att beskrivs. ”Gymnastiksal” är ett ord som långsiktigt, hållbart, resurseffektivt och
-reformera synen på hur en idrottshall vanligtvis används för mindre idrottshal- fylla sin viktiga funktion i samhällsbyg-
+lar kopplade till skolan, den plats där
+det som förr kallades Skolgymnastik
+utövas. ”Sporthall” är ett annat ord,
+ofta vardagligt använt istället för
+”Idrottshall”.
+Arbetet har pågått under 2019 och
+2020\.
+
+Syfte och målsättning
+Den moderna idrottshallen för idrott och
+skola ska kännetecknas av yteffektivitet
+och multifunktionalitet. Eftersom det
+är en stor brist på idrottshallar så
+behöver de som byggs vara effektiva
+både i yta och volym för att kunna
+rymma så många aktiviteter och utövare
+som möjligt. Den strävar också efter
+flerfunktionalitet, att så många ytor som
+möjligt i anläggningen med fördel skall
+ha flera olika funktioner. Även rörelse-
+förståelse och rörelseglädje skall prägla
+hela anläggningen, inte bara idrottsytan
+i hallrummet. Det är något som skall
+triggas redan när man gör entré i hallen
+eller uppehåller sig utanför.
+Framtidens idrottshall skall också
+beskriva flera dimensioner av idrottshal-
+lens värde och vad i utformningen som
+är centralt för att möjliggöra dessa.
+Detta för att idrottshallarna ska byggas
+långsiktigt, hållbart, resurseffektivt och
+fylla sin viktiga funktion i samhällsbyg-
+
 5
 
 <!-- sida 627 -->
 
 1\. INLEDNING
 
-Illustrerad processbeskrivning
-
-gandet. En norm för framtida hallbyg- av dessa. Syftet är istället att se till de och prioriteringar gjorts i nära dialog
-gande.                 lokala behoven i varje projekt och att med projektets styrgrupp.
-Det material som beskriver Fram- ha som mål att låta så många rum och I den kunskapsgenererande delen
-tidens idrottshall har flera målgrupper. funktioner överlappa varandra så att ingick workshops, dialog, djupintervjuer
-Främst de som planerar och bygger flerfunktionalitet och volymeffektivitet och konsultation av specialister. Urvalet
-idrottshallar, både inom den kommunala uppnås, och därmed även kostnadsef- av fokusgrupper har gjorts utifrån
-och den privata världen. Materialet fektivitet. en normmedveten utgångspunkt.
-skall genom det omfattande arbete            Se utvecklad förklaring i kapitlet
-som genomförts ge en bred bild av Metod och  Kunskapsinhämtning med brukargrup-
-vad idrottande och rörelse är idag och       per.
-genomförande
-vilka utmaningar som finns, samtidigt          Projektet har haft en styrgrupp
-som det skall ge förslag på lösningar        bestående av representanter från de
-och angreppssätt till planerings- och I arbetet med framtidens idrottshall har fem initiativtagande idrottsförbunden:
-byggprocessen. Kommuner och andra en bred kunskapsinhämtning varit en Lena Wallin-Kantzy, Basketboll-
-anläggningsägare ska kunna använda viktig del. Genom en kombination av förbundet; Daniel Glimvert,
-sig av hela eller delar av konceptunder- uppsökande dialoger och djupintervjuer Gymnastikförbundet; Per Ekberg,
-laget när de ska bygga eller upphandla har flera olika målgrupper, brukargrup- Handbollförbundet; Mattias Linell,
-en idrottshall.        per, intressenter, specialister mm Innebandyförbundet och Adrian Norrby,
-Materialet skall också kunna bidragit. En extra viktig grupp har varit Volleybollförbundet.
-användas av föreningar i dialog med barn och ungdomar; de huvudsakliga Från White arkitekter har Niklas
-kommuner eller när en skola står slutanvändarna av idrottshallarna. Singstedt, ansvarig arkitekt och
-inför ett förändringsarbete. Materialet Genom att arbeta integrerat med Rebecca Rubin, arkitekt och processle-
-beskriver flera olika rum och funktioner det kunskapsgenererande arbetet och dare medverkat.
-utan att föreslå en optimal kombination skissarbetet har möjligheter identifierats
+gandet. En norm för framtida hallbyg-
+gande.
+Det material som beskriver Fram-
+tidens idrottshall har flera målgrupper.
+Främst de som planerar och bygger
+idrottshallar, både inom den kommunala
+och den privata världen. Materialet
+skall genom det omfattande arbete
+som genomförts ge en bred bild av
+vad idrottande och rörelse är idag och
+vilka utmaningar som finns, samtidigt
+som det skall ge förslag på lösningar
+och angreppssätt till planerings- och
+byggprocessen. Kommuner och andra
+anläggningsägare ska kunna använda
+sig av hela eller delar av konceptunder-
+laget när de ska bygga eller upphandla
+en idrottshall.
+Materialet skall också kunna
+användas av föreningar i dialog med
+kommuner eller när en skola står
+inför ett förändringsarbete. Materialet
+beskriver flera olika rum och funktioner
+utan att föreslå en optimal kombination
 
 6
+
+av dessa. Syftet är istället att se till de
+lokala behoven i varje projekt och att
+ha som mål att låta så många rum och
+funktioner överlappa varandra så att
+flerfunktionalitet och volymeffektivitet
+uppnås, och därmed även kostnadsef-
+fektivitet.
+
+Metod och
+genomförande
+
+I arbetet med framtidens idrottshall har
+en bred kunskapsinhämtning varit en
+viktig del. Genom en kombination av
+uppsökande dialoger och djupintervjuer
+har flera olika målgrupper, brukargrup-
+per, intressenter, specialister mm
+bidragit. En extra viktig grupp har varit
+barn och ungdomar; de huvudsakliga
+slutanvändarna av idrottshallarna.
+Genom att arbeta integrerat med
+det kunskapsgenererande arbetet och
+skissarbetet har möjligheter identifierats
+
+Illustrerad processbeskrivning
+
+och prioriteringar gjorts i nära dialog
+med projektets styrgrupp.
+I den kunskapsgenererande delen
+ingick workshops, dialog, djupintervjuer
+och konsultation av specialister. Urvalet
+av fokusgrupper har gjorts utifrån
+en normmedveten utgångspunkt.
+Se utvecklad förklaring i kapitlet
+Kunskapsinhämtning med brukargrup-
+per.
+Projektet har haft en styrgrupp
+bestående av representanter från de
+fem initiativtagande idrottsförbunden:
+Lena Wallin-Kantzy, Basketboll-
+förbundet; Daniel Glimvert,
+Gymnastikförbundet; Per Ekberg,
+Handbollförbundet; Mattias Linell,
+Innebandyförbundet och Adrian Norrby,
+Volleybollförbundet.
+Från White arkitekter har Niklas
+Singstedt, ansvarig arkitekt och
+Rebecca Rubin, arkitekt och processle-
+dare medverkat.
 
 <!-- sida 628 -->
 
 Tack  till:
 
 Medverkande:
-Volleybollförbundet
-Workshop i Täljehallen med förbundens Martin Kihlström, Paul Engström, Maria Wallén,
-ungdomar                           David Ottosson, Karin Manole, Lasse Broström,
-Ivona, Adrian, Gustav (volleyboll) Ebba, Moa (gymnastik) Noah Yvonne Ohlsson
+Workshop i Täljehallen med förbundens
+ungdomar
+Ivona, Adrian, Gustav (volleyboll) Ebba, Moa (gymnastik) Noah
 (innebandy) Tintin, Lukas, Oliver (basket)
-Övriga experter och sakkunniga:
+
 Workshop på Arena Satelliten i Sollentuna med
-förbundens ungdomar                LOA fonden
-Rebecka (gymnastik), David, Oliver, Noomi, Siri (basket) Viktor Oliver Vange, Udviklingskonsulent
+förbundens ungdomar
+Rebecka (gymnastik), David, Oliver, Noomi, Siri (basket) Viktor
 (handboll) Olga, Hjalmar, Arvid (volleyboll) + föräldrar och
-ledare                             Riksidrottsförbundet
-Jonnie Nordensky och Martin Englund,
-Workshop med ungdomar på Högdalens Projektledare: anläggnings- och idrottsmiljöfrågor
+ledare
+
+Workshop med ungdomar på Högdalens
 Fritidsgård
-Julia, Fakhraddin, Bhekar samt samtal med fritidsledare Fozie Kristin Ekblom, Projektledare Rörelsesatsning i
-och John                           skolan
-Träff med mammor i Vårberg, Vårbergs kvinnofika Sveriges Kommuner och Regioner
-Nils-Olof Zethrin, expert fritid och idrott
-Intervju med idrottslärare         Avd. för tillväxt och samhällsbyggnad
+Julia, Fakhraddin, Bhekar samt samtal med fritidsledare Fozie
+och John
+Träff med mammor i Vårberg, Vårbergs kvinnofika
+
+Intervju med idrottslärare
 Magnus Wallner, Hammarbyskolan Norra, Stockholm
-Svenska Parasportförbundet
-genom Magnus Krossén, projektledare
+
 Sakkunniga från de fem förbunden:
-Varberg Kommun
-Basketbollförbundet                Mia Svedjeblad, lokalstrateg och Susanne Dani,
-Henrik Smedberg, Camilla Altéus, David Gerges verksamhetsutvecklare Kultur- och fritidsförvalt-
-ningen
+
+Basketbollförbundet
+Henrik Smedberg, Camilla Altéus, David Gerges
 Innebandyförbundet
-Stefan Angeskog, Patrik Eklund, Niklas Nordén, Martin Uppsala kommun
-Hjelmberg, Ebba Wengström          Mikael Franzen, Strateg, lokalförsörjning idrotts-
-och fritidsanläggningar
+Stefan Angeskog, Patrik Eklund, Niklas Nordén, Martin
+Hjelmberg, Ebba Wengström
+
 Handbollförbundet
-Adam Engström, Lennart Söderström, Conny Jädersten Unisport
-Andreas Rantzow, Mattias Juthe och Oskar Nilsson
+Adam Engström, Lennart Söderström, Conny Jädersten
+
 Gymnastikförbundet
 Jonas Juhl, Louise Nordenberg, Pia Josephson
+
+Volleybollförbundet
+Martin Kihlström, Paul Engström, Maria Wallén,
+David Ottosson, Karin Manole, Lasse Broström,
+Yvonne Ohlsson
+
+Övriga experter och sakkunniga:
+LOA fonden
+
+Oliver Vange, Udviklingskonsulent
+Riksidrottsförbundet
+Jonnie Nordensky och Martin Englund,
+Projektledare: anläggnings- och idrottsmiljöfrågor
+
+Kristin Ekblom, Projektledare Rörelsesatsning i
+skolan
+
+Sveriges Kommuner och Regioner
+Nils-Olof Zethrin, expert fritid och idrott
+Avd. för tillväxt och samhällsbyggnad
+Svenska Parasportförbundet
+genom Magnus Krossén, projektledare
+
+Varberg Kommun
+Mia Svedjeblad, lokalstrateg och Susanne Dani,
+verksamhetsutvecklare Kultur- och fritidsförvalt-
+ningen
+
+Uppsala kommun
+Mikael Franzen, Strateg, lokalförsörjning idrotts-
+och fritidsanläggningar
+Unisport
+
+Andreas Rantzow, Mattias Juthe och Oskar Nilsson
 
 7
 
@@ -25759,8 +28256,8 @@ utmaningar
 <!-- sida 630 -->
 
 9
-Foto:
-Gymnastikförbundet
+
+Fo to : G ym nas tik fö rbunde t
 
 <!-- sida 631 -->
 
@@ -25768,124 +28265,231 @@ Hälsa       -  vår    gemensamma
 
 framtidsutmaning
 
-Folkhälsopolitiska mål inaktiva skattar sin hälsa och livskvalitet tredjedel medlemmar i en idrottsfören-
-Det övergripande syftet med Sveriges lägre än de som är fysiskt aktiva. De ing, bland unga med högt utbildnings-
-folkhälsopolitik är att skapa samhälle- som utövar sin fysiska aktivitet i och ekonomiskt kapital är 80 procent
-liga förutsättningar för en god hälsa för organiserad form (idrottsförening eller medlemmar i en idrottsförening. Många
-hela befolkningen. Särskilt angeläget annan organiserad verksamhet) skattar anläggningar för idrott och motion har
-är det att hälsan förbättras för de sin hälsa högre än de som är fysiskt också begränsade öppettider eller är
-grupper som är mest utsatta för ohälsa. aktiva på egen hand enligt Ung Livsstil. helt stängda för allmänheten.
-Ökad fysisk aktivitet utgör ett av elva        Sammantaget premieras de socio-
-folkhälsomål. Här identifieras huvud- Ojämlik tillgång till hälsa och ekonomiskt starka, de med tillgång till
-områden: mer fysisk aktivitet i förskola, rörelse bil och de som redan är föreningsaktiva
-skola och i anslutning till arbetet; mer Närheten och tillgången till platser vilket speglas i föreningsmedlemskap
-fysisk aktivitet under fritiden samt att och sammanhang för fysisk aktivitet och nyttjande av platser för organi-
-äldre, långtidssjukskrivna och funktions- är avgörande för hur fysiskt aktiv en serad och spontanidrott. Utifrån ett
-hindrade aktivt erbjuds möjligheter till person är. Det är därför viktigt att i planeringsperspektiv är därför demo-
-motion eller träning på sina egna villkor. planering och förvaltning säkerställa krati- och jämlikhetsaspekter på rörelse
-(Välfärdsredovisning 2016). Även FN:s goda livsmiljöer som tillgängliggör och hälsa viktiga att beakta avseende
-konvention om barnets rättigheter, som och inspirerar till rörelse för fler. Här placering och gestaltning av platser för
-inkorporerades i svensk lag 1 januari är den jämlika tillgången och närheten rörelse, däribland idrottshallar.
-2020, lyfter alla barns (människor under till idrottshallar, andra motionsanlägg- Enligt Boverkets rapport Planera
-18 år) lika rätt till god hälsa och goda ningar och spontanidrottsplatser samt för rörelse är idag många anläggningar
-levnadsvanor samt att till fullo delta i möjligheten att delta i skolans idrott och för idrott placerade i utkanten av eller
-rekreations- och fritidsaktiviteter. idrottsföreningsliv central. utanför tätorten. Detta försvårar för
-Det finns också stora skillnader i människor att nå dessa platser till
-Hälsoutmaningen idag   utbud i socioekonomiskt starkare och fots, på cykel eller med lokaltrafiken.
-Förändrade livsförutsättningar, arbets- svagare områden vad gäller kultur- och Forskning visar att den som bor med
-sätt och teknikutveckling har i allt högre idrottsanläggningar. Forskning visar många vardagsmålpunkter, vilket en
-grad skapat ett passivt vardagsliv och ett starkt samband mellan deltagande idrottshall är för många, inom 3 km är
-allt färre lever idag upp till WHO:s i organiserad idrottsaktivitet och benägna att i högre utsträckning röra
-rekommendationer för fysisk aktivitet. socioekonomisk status bland barn: sig för egen maskin till och från sina
-Människors minskade fysiska aktivitet andelen unga som föreningsidrottar vardagsmålpunkter. Det medför förutom
-innebär stora hälsorelaterade samhälls- är högst i socioekonomiskt starka positiva hälsoeffekter ökad rörelsefrihet
-kostnader, som ökar den ekonomiska grupper och lägst i svaga. Bland unga för barn och ungdomar och mindre
-pressen på en redan ansträngd med både lågt utbildningskapital och börda för föräldrar att skjutsa till träning
-offentlig sektor. 2013 uppgick lågt ekonomiskt kapital är en knapp och tävling. Utifrån ett planerings- och
+Folkhälsopolitiska mål
+Det övergripande syftet med Sveriges
+folkhälsopolitik är att skapa samhälle-
+liga förutsättningar för en god hälsa för
+hela befolkningen. Särskilt angeläget
+är det att hälsan förbättras för de
+grupper som är mest utsatta för ohälsa.
+Ökad fysisk aktivitet utgör ett av elva
+folkhälsomål. Här identifieras huvud-
+områden: mer fysisk aktivitet i förskola,
+skola och i anslutning till arbetet; mer
+fysisk aktivitet under fritiden samt att
+äldre, långtidssjukskrivna och funktions-
+hindrade aktivt erbjuds möjligheter till
+motion eller träning på sina egna villkor.
+(Välfärdsredovisning 2016). Även FN:s
+konvention om barnets rättigheter, som
+inkorporerades i svensk lag 1 januari
+2020, lyfter alla barns (människor under
+18 år) lika rätt till god hälsa och goda
+levnadsvanor samt att till fullo delta i
+rekreations- och fritidsaktiviteter.
+Hälsoutmaningen idag
+Förändrade livsförutsättningar, arbets-
+sätt och teknikutveckling har i allt högre
+grad skapat ett passivt vardagsliv och
+allt färre lever idag upp till WHO:s
+rekommendationer för fysisk aktivitet.
+Människors minskade fysiska aktivitet
+innebär stora hälsorelaterade samhälls-
+kostnader, som ökar den ekonomiska
+pressen på en redan ansträngd
+offentlig sektor. 2013 uppgick
 hälsorelaterade kostnader till 11% av
 BNP enligt SCB. Ett ökat välmående
-och en bättre folkhälsa har alltså ett Den   viktigaste  vinsten
+och en bättre folkhälsa har alltså ett
 stort samhällsekonomiskt värde där
-en mer fysiskt aktiv befolkning innebär i hälsa som  idrotten
+en mer fysiskt aktiv befolkning innebär
 en friskare befolkning som behöver
-kan  skapa   är att hjälpa
 sjukvård och andra välfärdstjänster i
-mindre utsträckning.                   ungdomar     och  unga
+mindre utsträckning.
 Idag finns tydliga skillnader i hälsa
-mellan olika grupper i befolkningen:   vuxna   som   idrottar
+mellan olika grupper i befolkningen:
 kön, ålder, inkomst och utbildningsnivå
-att hitta idrotts-  och
 är faktorer som har ett starkt samband
-med folkhälsa enligt folkhälsomyndig-  motionsformer      för resten
+med folkhälsa enligt folkhälsomyndig-
 heten. Incitamenten är därför stora för
-att skapa en utveckling mot en ökad    av  livet.
+att skapa en utveckling mot en ökad
 tillgång till rörelse och hälsa för fler.
 Fysisk aktivitet har en direkt inverkan
-på barns självbild: de som är fysiskt  Idrottens samhällsnytta Christer Malm & Andreas
+på barns självbild: de som är fysiskt
+
+inaktiva skattar sin hälsa och livskvalitet
+lägre än de som är fysiskt aktiva. De
+som utövar sin fysiska aktivitet i
+organiserad form (idrottsförening eller
+annan organiserad verksamhet) skattar
+sin hälsa högre än de som är fysiskt
+aktiva på egen hand enligt Ung Livsstil.
+Ojämlik tillgång till hälsa och
+rörelse
+Närheten och tillgången till platser
+och sammanhang för fysisk aktivitet
+är avgörande för hur fysiskt aktiv en
+person är. Det är därför viktigt att i
+planering och förvaltning säkerställa
+goda livsmiljöer som tillgängliggör
+och inspirerar till rörelse för fler. Här
+är den jämlika tillgången och närheten
+till idrottshallar, andra motionsanlägg-
+ningar och spontanidrottsplatser samt
+möjligheten att delta i skolans idrott och
+idrottsföreningsliv central.
+Det finns också stora skillnader i
+utbud i socioekonomiskt starkare och
+svagare områden vad gäller kultur- och
+idrottsanläggningar. Forskning visar
+ett starkt samband mellan deltagande
+i organiserad idrottsaktivitet och
+socioekonomisk status bland barn:
+andelen unga som föreningsidrottar
+är högst i socioekonomiskt starka
+grupper och lägst i svaga. Bland unga
+med både lågt utbildningskapital och
+lågt ekonomiskt kapital är en knapp
+
+tredjedel medlemmar i en idrottsfören-
+ing, bland unga med högt utbildnings-
+och ekonomiskt kapital är 80 procent
+medlemmar i en idrottsförening. Många
+anläggningar för idrott och motion har
+också begränsade öppettider eller är
+helt stängda för allmänheten.
+Sammantaget premieras de socio-
+ekonomiskt starka, de med tillgång till
+bil och de som redan är föreningsaktiva
+vilket speglas i föreningsmedlemskap
+och nyttjande av platser för organi-
+serad och spontanidrott. Utifrån ett
+planeringsperspektiv är därför demo-
+krati- och jämlikhetsaspekter på rörelse
+och hälsa viktiga att beakta avseende
+placering och gestaltning av platser för
+rörelse, däribland idrottshallar.
+Enligt Boverkets rapport Planera
+för rörelse är idag många anläggningar
+för idrott placerade i utkanten av eller
+utanför tätorten. Detta försvårar för
+människor att nå dessa platser till
+fots, på cykel eller med lokaltrafiken.
+Forskning visar att den som bor med
+många vardagsmålpunkter, vilket en
+idrottshall är för många, inom 3 km är
+benägna att i högre utsträckning röra
+sig för egen maskin till och från sina
+vardagsmålpunkter. Det medför förutom
+positiva hälsoeffekter ökad rörelsefrihet
+för barn och ungdomar och mindre
+börda för föräldrar att skjutsa till träning
+och tävling. Utifrån ett planerings- och
+
+Den  viktigaste   vinsten
+
+i hälsa som   idrotten
+kan  skapa   är att hjälpa
+
+ungdomar     och  unga
+vuxna   som  idrottar
+
+att hitta idrotts- och
+motionsformer     för resten
+
+av livet.
+
+Idrottens samhällsnytta Christer Malm & Andreas
 Isaksson, 2017
+
 10
 
 <!-- sida 632 -->
+
+fritidsförvaltningsperspektiv finns därför
+goda skäl att intensifiera arbetet mot en
+mer jämlik tillgång till rörelse och hälsa
+bland barn och unga.
+
+Rörelsevanor i vardagen
+Tidigt etablerade rörelsevanor med
+fokus på rörelseglädje skapar de bästa
+förutsättningarna för en livslång fysisk
+aktivitet. Idag rör sig barn allt mindre,
+allra tydligast syns det bland barn med
+svagare socioekonomisk status. Att
+säkerställa alla barns jämlika tillgång till
+rörelse och rörelseglädje är därför en
+god offentlig investering utifrån så väl
+ett kort- som långsiktigt perspektiv.
+De senaste decennierna har barns
+rörelsefrihet minskat drastiskt, framfö-
+rallt på grund av en ökad biltrafik, brist
+på säkra cykel- och gångvägar och
+föräldrars oro i ett förändrat samhälls-
+klimat. Barns begränsade rörelsefrihet
+har en stor negativ inverkan på deras
+möjligheter till vardagsrörelse och
+deltagande i olika fritidsaktiviteter
+menar Boverket i sin rapport Gör plats
+för barn.
+I växande städer och tillväxtorter
+är krympta och hårdprogrammerade
+förskole- och skolgårdar ytterligare
+faktorer som begränsar barns
+vardagsrörelse. Bristen på platser för
+utforskande och utmanande rörelse
+och lek hämmar barnens utveckling av
 
 2\. NULÄGE OCH UTMANINGAR
 
 Slutsatser:
 • Närheten och tillgången
-fritidsförvaltningsperspektiv finns därför rörelseförståelse och kan skapa livs-
+rörelseförståelse och kan skapa livs-
 till platser och
-goda skäl att intensifiera arbetet mot en långa negativa hälsoeffekter däribland
+långa negativa hälsoeffekter däribland
 sammanhang för fysisk
-mer jämlik tillgång till rörelse och hälsa ökad risk för benskörhet, övervikt och
+ökad risk för benskörhet, övervikt och
 aktivitet är avgörande för
-bland barn och unga.   fetma, hjärt- och kärlsjukdomar och
+fetma, hjärt- och kärlsjukdomar och
 hur fysiskt aktiv en person
 psykisk ohälsa.
 är.
-Rörelsevanor i vardagen
 • Tidigt etablerade
-Tidigt etablerade rörelsevanor med Rörelse hela livet
+Rörelse hela livet
 rörelsevanor med fokus på
-fokus på rörelseglädje skapar de bästa Det finns ett starkt samband mellan
+Det finns ett starkt samband mellan
 rörelseförståelse skapar
-förutsättningarna för en livslång fysisk fysisk aktivitet och livskvalitet också
+fysisk aktivitet och livskvalitet också
 de bästa förutsättningarna
-aktivitet. Idag rör sig barn allt mindre, bland äldre. Förutom mindre sjukdom
+bland äldre. Förutom mindre sjukdom
 för den livslånga fysiska
-allra tydligast syns det bland barn med ger fysisk aktivitet ökad livskvalitet
+ger fysisk aktivitet ökad livskvalitet
 aktiviteten.
-svagare socioekonomisk status. Att tack vare mer energi, ökat oberoende
-säkerställa alla barns jämlika tillgång till och större social aktivitet. Förväntade • Att säkerställa alla barns
-rörelse och rörelseglädje är därför en vinster i färre antal sjukdomsfall handlar jämlika tillgång till rörelse
-god offentlig investering utifrån så väl främst om att sjukdomar debuterar eller och rörelseförståelse
-ett kort- som långsiktigt perspektiv. blir allvarliga senare i livet. Det betyder är en god offentlig
-De senaste decennierna har barns fler år med god hälsa och längre liv. investering.
-rörelsefrihet minskat drastiskt, framfö- Utifrån ett hälsoekonomiskt perspektiv • Det är viktigt att
-rallt på grund av en ökad biltrafik, brist innebär idrott för medelålders och äldre sänka trösklarna för
-på säkra cykel- och gångvägar och en stor potential att bidra till bättre tonåringar, vuxna och
-föräldrars oro i ett förändrat samhälls- hälsa för den äldre befolkningen, med äldre att närsomhelst
-klimat. Barns begränsade rörelsefrihet minskade samhällskostnader som följd. i livet bli en del av
-har en stor negativ inverkan på deras            rörelsegemenskapen.
-möjligheter till vardagsrörelse och
+tack vare mer energi, ökat oberoende
+och större social aktivitet. Förväntade • Att säkerställa alla barns
+vinster i färre antal sjukdomsfall handlar jämlika tillgång till rörelse
+främst om att sjukdomar debuterar eller och rörelseförståelse
+blir allvarliga senare i livet. Det betyder är en god offentlig
+fler år med god hälsa och längre liv. investering.
+Utifrån ett hälsoekonomiskt perspektiv • Det är viktigt att
+innebär idrott för medelålders och äldre sänka trösklarna för
+en stor potential att bidra till bättre tonåringar, vuxna och
+hälsa för den äldre befolkningen, med äldre att närsomhelst
+minskade samhällskostnader som följd. i livet bli en del av
+rörelsegemenskapen.
 • De som är fysiskt inaktiva
-deltagande i olika fritidsaktiviteter
 skattar sin hälsa och
-menar Boverket i sin rapport Gör plats
 livskvalitet lägre än de
-för barn.
 som är fysiskt aktiva.
-I växande städer och tillväxtorter
 • De som utövar sin fysiska
-är krympta och hårdprogrammerade
 aktivitet i organiserad
-förskole- och skolgårdar ytterligare
 form skattar sin hälsa
-faktorer som begränsar barns
 högre än de som är fysiskt
-vardagsrörelse. Bristen på platser för
 aktiva på egen hand.
-utforskande och utmanande rörelse
-och lek hämmar barnens utveckling av
+
 Foto: Gymnastikförbundet, Thron Ullberg
+
 11
 
 <!-- sida 633 -->
@@ -25894,101 +28498,210 @@ Idrotten         i skolan        och
 
 idrottshallens              utveckling
 
-Skolämnet Idrott och hälsa namnet Idrott och hälsa antyder så är idrottshall nära till hands (ca 20% enligt
-Det skolämne vi idag kallar Idrott och fokus både på rörelse och kroppslig studie från RF). Idag ser vi också en
-hälsa infördes i och med den allmänna förmåga och förståelse samt förståelse tilltagande brist på både idrottshallar
-folkskolans tillblivelse 1842, då under för vad som påverkar förmåga och och utemiljöer för idrott och rörelse i
-namnet Gymnastik. Mot slutet av hälsa. Centralt är också kunskap städerna när kampen om värdefull mark
-1800-talet utvecklades anpassade relaterat till friluftsliv och utevistelse. är ett problem. Nybyggda skolor i täta
-lokaler och utrustning, bland annat Hur kan det då kopplas till stadsmiljöer får ibland helt enkelt inte
-ribbstolen, utifrån en syn på gym- idrottshallens rumsliga förutsättningar? plats med idrottsanläggningar.
-nastik som till stor del baserades på Man kan säga att en ändamålsenligt Därtill har etableringen av friskolor
-Linggymnastikens tankar om precisa utformad idrottshall skapar bättre skapat en ny syn på skollokaler.
-kroppsövningar. Utrustning som till stor förutsättningar för att klara ämnets Speciallokaler som idrottshallar är
-del fortfarande utgör standard. I början innehåll. Kortfattat handlar det om sällan en del av de egna skollokalerna.
-av 1900-talet ersätts gymnastiken grundläggande motorik genom tex lekar, Ofta hyr man in sig i andra hallar eller så
-allt mer av lek, spel och idrott. 1915 danser och redskapsanvändning till mer fokuserar man på andra sätt att bedriva
-bildas Skolidrottsförbundet, och det specifika aktiviteter, idrotter och styr- undervisningen så att man inte blir lika
-blir gradvis en mer allsidig och varierad keträning och kondition för grundskola beroende av idrottshallar, tex genom
-undervisning. Med tiden breddas och gymnasium. För att möta de målen fler friluftsdagar eller samarbeten med
-ämnet allt mer med mer fokus på behövs rum för rörelse och aktivitet och lokala föreningar. Just inhyrningen i
-konditionsträning och mot slutet av plats för teori, samlingar, redovisningar, andras hallar ställer även det krav på
-seklet, när ämnet får sitt nuvarande samtal med mera. utformning, av tex förråd.
-namn, täcker det också en bredare syn          Enligt ett regeringsbeslut 2019
-på hälsa och livsstil. Skolans tillgång till idrottshallar har ämnet utökats med 100 timmar i
-Skolgymnastik skall begreppsmäs- Tillgången till idrottshallar för skolorna grundskolan, ett medvetet val där man
-sigt inte förväxlas med Skolidrott som är inte självklar, under många decennier satsar mer på idrott och hälsa för barn
-omfattar organiserat idrottande i skolan så har det funnits skolor, framförallt och unga. Redan idag står idrotten
-utanför själva skolämnet. Som ämnes- på landsbygden, som inte har haft en i skolan för omkring 30% av barns
+Skolämnet Idrott och hälsa
+Det skolämne vi idag kallar Idrott och
+hälsa infördes i och med den allmänna
+folkskolans tillblivelse 1842, då under
+namnet Gymnastik. Mot slutet av
+1800-talet utvecklades anpassade
+lokaler och utrustning, bland annat
+ribbstolen, utifrån en syn på gym-
+nastik som till stor del baserades på
+Linggymnastikens tankar om precisa
+kroppsövningar. Utrustning som till stor
+del fortfarande utgör standard. I början
+av 1900-talet ersätts gymnastiken
+allt mer av lek, spel och idrott. 1915
+bildas Skolidrottsförbundet, och det
+blir gradvis en mer allsidig och varierad
+undervisning. Med tiden breddas
+ämnet allt mer med mer fokus på
+konditionsträning och mot slutet av
+seklet, när ämnet får sitt nuvarande
+namn, täcker det också en bredare syn
+på hälsa och livsstil.
+Skolgymnastik skall begreppsmäs-
+sigt inte förväxlas med Skolidrott som
+omfattar organiserat idrottande i skolan
+utanför själva skolämnet. Som ämnes-
+
+namnet Idrott och hälsa antyder så är
+fokus både på rörelse och kroppslig
+förmåga och förståelse samt förståelse
+för vad som påverkar förmåga och
+hälsa. Centralt är också kunskap
+relaterat till friluftsliv och utevistelse.
+Hur kan det då kopplas till
+idrottshallens rumsliga förutsättningar?
+Man kan säga att en ändamålsenligt
+utformad idrottshall skapar bättre
+förutsättningar för att klara ämnets
+innehåll. Kortfattat handlar det om
+grundläggande motorik genom tex lekar,
+danser och redskapsanvändning till mer
+specifika aktiviteter, idrotter och styr-
+keträning och kondition för grundskola
+och gymnasium. För att möta de målen
+behövs rum för rörelse och aktivitet och
+plats för teori, samlingar, redovisningar,
+samtal med mera.
+Skolans tillgång till idrottshallar
+Tillgången till idrottshallar för skolorna
+är inte självklar, under många decennier
+så har det funnits skolor, framförallt
+på landsbygden, som inte har haft en
+
+idrottshall nära till hands (ca 20% enligt
+studie från RF). Idag ser vi också en
+tilltagande brist på både idrottshallar
+och utemiljöer för idrott och rörelse i
+städerna när kampen om värdefull mark
+är ett problem. Nybyggda skolor i täta
+stadsmiljöer får ibland helt enkelt inte
+plats med idrottsanläggningar.
+Därtill har etableringen av friskolor
+skapat en ny syn på skollokaler.
+Speciallokaler som idrottshallar är
+sällan en del av de egna skollokalerna.
+Ofta hyr man in sig i andra hallar eller så
+fokuserar man på andra sätt att bedriva
+undervisningen så att man inte blir lika
+beroende av idrottshallar, tex genom
+fler friluftsdagar eller samarbeten med
+lokala föreningar. Just inhyrningen i
+andras hallar ställer även det krav på
+utformning, av tex förråd.
+Enligt ett regeringsbeslut 2019
+har ämnet utökats med 100 timmar i
+grundskolan, ett medvetet val där man
+satsar mer på idrott och hälsa för barn
+och unga. Redan idag står idrotten
+i skolan för omkring 30% av barns
+
 Ur läroplanen:
-kontinuerligt delta i skolans fysiska aktiviteter och
+
 ”Undervisningen i ämnet idrott och hälsa ska syfta
-bidra till att eleverna utvecklar en god kroppsuppfatt-
 till att eleverna utvecklar allsidiga rörelseförmågor
-ning och tilltro till sin egen fysiska förmåga.
 och intresse för att vara fysiskt aktiva och vistas i
-naturen. Genom undervisningen ska eleverna få möta Genom undervisningen ska eleverna utveckla
-många olika slags aktiviteter. Eleverna ska också ges förmågan att vistas i utemiljöer och naturen under
-möjlighet att utveckla kunskaper om vad som påverkar olika årstider och få förståelse för värdet av ett
-den fysiska förmågan och hur man kan påverka sin aktivt friluftsliv. Undervisningen ska även bidra till
-hälsa genom hela livet. Eleverna ska även ges förut- att eleverna utvecklar kunskaper om risker och
-sättningar för att utveckla goda levnadsvanor samt säkerhetsfaktorer i samband med fysiska aktiviteter
-ges kunskaper om hur fysisk aktivitet förhåller sig till och hur man agerar i nödsituationer.
-psykiskt och fysiskt välbefinnande.   Genom undervisningen i ämnet idrott och hälsa
-Undervisningen ska ge eleverna möjlighet att ska eleverna sammanfattningsvis ges förutsättningar
-utveckla kunskaper i att planera, genomföra och att utveckla sin förmåga att röra sig allsidigt i olika
-värdera olika rörelseaktiviteter. Eleverna ska genom fysiska sammanhang, planera, praktiskt genomföra
-undervisningen också utveckla kunskaper om och värdera idrott och andra fysiska aktiviteter
-begrepp som beskriver fysiska aktiviteter och ges utifrån olika synsätt på hälsa, rörelse och livsstil,
-förutsättningar att ta ställning i frågor som rör idrott, genomföra och anpassa utevistelser och friluftsliv
-hälsa och livsstil. Genom undervisningen ska eleverna efter olika förhållanden och miljöer, och förebygga
-ges möjlighet att utveckla sin samarbetsförmåga risker vid fysisk aktivitet samt hantera nödsituationer
-och respekt för andra. Undervisningen ska skapa på land och i vatten.”
+naturen. Genom undervisningen ska eleverna få möta
+många olika slags aktiviteter. Eleverna ska också ges
+möjlighet att utveckla kunskaper om vad som påverkar
+den fysiska förmågan och hur man kan påverka sin
+hälsa genom hela livet. Eleverna ska även ges förut-
+sättningar för att utveckla goda levnadsvanor samt
+ges kunskaper om hur fysisk aktivitet förhåller sig till
+psykiskt och fysiskt välbefinnande.
+Undervisningen ska ge eleverna möjlighet att
+utveckla kunskaper i att planera, genomföra och
+värdera olika rörelseaktiviteter. Eleverna ska genom
+undervisningen också utveckla kunskaper om
+begrepp som beskriver fysiska aktiviteter och ges
+förutsättningar att ta ställning i frågor som rör idrott,
+hälsa och livsstil. Genom undervisningen ska eleverna
+ges möjlighet att utveckla sin samarbetsförmåga
+och respekt för andra. Undervisningen ska skapa
 förutsättningar för alla elever att under hela sin skoltid
+
+kontinuerligt delta i skolans fysiska aktiviteter och
+bidra till att eleverna utvecklar en god kroppsuppfatt-
+ning och tilltro till sin egen fysiska förmåga.
+Genom undervisningen ska eleverna utveckla
+förmågan att vistas i utemiljöer och naturen under
+olika årstider och få förståelse för värdet av ett
+aktivt friluftsliv. Undervisningen ska även bidra till
+att eleverna utvecklar kunskaper om risker och
+säkerhetsfaktorer i samband med fysiska aktiviteter
+och hur man agerar i nödsituationer.
+Genom undervisningen i ämnet idrott och hälsa
+ska eleverna sammanfattningsvis ges förutsättningar
+att utveckla sin förmåga att röra sig allsidigt i olika
+fysiska sammanhang, planera, praktiskt genomföra
+och värdera idrott och andra fysiska aktiviteter
+utifrån olika synsätt på hälsa, rörelse och livsstil,
+genomföra och anpassa utevistelser och friluftsliv
+efter olika förhållanden och miljöer, och förebygga
+risker vid fysisk aktivitet samt hantera nödsituationer
+på land och i vatten.”
+
 12
 
 <!-- sida 634 -->
+
+fysiska aktivitet och har således en
+mycket viktig roll att spela för barns
+jämlika möjligheter till rörelse och
+välmående.
+
+Idrottshallens utveckling
+Idrottshallen som typologi har
+förändrats ganska lite sedan den blev
+en del av samhällsbygget. Den tidiga
+idrottsrörelsen handlade i stor utsträck-
+ning om utomhusidrotter. De aktiviteter
+som utfördes inomhus var främst
+gymnastik och fysisk träning samt
+tennis. Allmänna idrottshallar för hundra
+år sedan var därför små och utrustade
+för gymnastik. Från 30-talet kommer
+den allt populärare handbollens
+spelplan att dimensionera idrottshal-
+larna, vars golv målas upp med flera
+linjer för idrotter som ryms inom måttet
+20x40 meter. Utvecklingen drevs också
+av byggnadsteknikens möjligheter
+att bygga stora rum. Till skolor byggs
+fortfarande mindre gymnastiksalar. På
+1900-talets andra hälft ökade byggan-
+det parallellt med grundskolereformen
+
+som kräver fler idrottshallar till skolorna.
+Idrottshallar kombineras nu också ofta
+med sim- eller bowlinghallar, ibland
+med servering.
+
+Idrottshallen idag
+Idag har vi ett bestånd som till stor del
+uppfördes under 1900-talets andra
+del. Beståndet innefattar en blandning
+av mindre skolgymnastiksalar, som inte
+möter bollsporternas behov mer än i
+de yngsta åldrarna, och större hallar
+som möter både skolans och idrottens
+behov men som är kvar i 20x40-tänket
+som etablerades för snart hundra år
+sedan. På senare år har det också
+uppförts mer renodlade bollhallar som
+inte mött gymnastikens behov där idéer
+om enkelhet och låga kostnader varit
+i fokus. Idrottshallar som möter behov
+som har varit men inte de behov vi har
+framför oss.
 
 2\. NULÄGE OCH UTMANINGAR
 
 Slutsatser:
 • Många av dagens idrottshallar
-fysiska aktivitet och har således en som kräver fler idrottshallar till skolorna.
 är inte ändamålsenliga sett till
-mycket viktig roll att spela för barns Idrottshallar kombineras nu också ofta
 läroplanen, de möter inte det
-jämlika möjligheter till rörelse och med sim- eller bowlinghallar, ibland
 fokus som ställs på allsidig
-välmående.             med servering.
 rörelse.
-Idrottshallens utveckling Idrottshallen idag  • Dagens idrottshallar möter
-Idrottshallen som typologi har Idag har vi ett bestånd som till stor del inte skolämnets behov av
-förändrats ganska lite sedan den blev uppfördes under 1900-talets andra teoretisk undervisning.
-en del av samhällsbygget. Den tidiga del. Beståndet innefattar en blandning • Skolans behov av
-idrottsrörelsen handlade i stor utsträck- av mindre skolgymnastiksalar, som inte idrottslokaler har ökat då
-ning om utomhusidrotter. De aktiviteter möter bollsporternas behov mer än i ämnet utökats.
-som utfördes inomhus var främst de yngsta åldrarna, och större hallar
+• Dagens idrottshallar möter
+inte skolämnets behov av
+teoretisk undervisning.
+• Skolans behov av
+idrottslokaler har ökat då
+ämnet utökats.
 • Brister i samhällsplaneringen
-gymnastik och fysisk träning samt som möter både skolans och idrottens
 skapar sämre tillgång till
-tennis. Allmänna idrottshallar för hundra behov men som är kvar i 20x40-tänket
 idrottshallar i tätbebyggda
-år sedan var därför små och utrustade som etablerades för snart hundra år
 samhällen och städer.
-för gymnastik. Från 30-talet kommer sedan. På senare år har det också
 • Idrottshallens utformning
-den allt populärare handbollens uppförts mer renodlade bollhallar som
 bygger på gamla normer och
-spelplan att dimensionera idrottshal- inte mött gymnastikens behov där idéer
 behov.
-larna, vars golv målas upp med flera om enkelhet och låga kostnader varit
-linjer för idrotter som ryms inom måttet i fokus. Idrottshallar som möter behov • Särskilt dimensionering
-20x40 meter. Utvecklingen drevs också som har varit men inte de behov vi har utifrån 20x40 meter grundar
-av byggnadsteknikens möjligheter framför oss.   sig på gamla normer som
-att bygga stora rum. Till skolor byggs          behöver omprövas.
-fortfarande mindre gymnastiksalar. På
-1900-talets andra hälft ökade byggan-
-det parallellt med grundskolereformen
+• Särskilt dimensionering
+utifrån 20x40 meter grundar
+sig på gamla normer som
+behöver omprövas.
 
 Gymnastiksal i Mariaskolan i Stockholm runt år 1930
 Foto: Stockholmskällan
@@ -26001,134 +28714,243 @@ Idrottsrörelsen               samhällsnytta
 
 och     utvecklingspotential
 
-Föreningsidrotten idag uppmuntras av föreningarna och ses genom att förbättra barns koncentration
-Föreningsidrotten breda motionsverk- som mycket viktigt för utvecklingen och vakenhet. Barn och ungdomar i
-samhet har en rad positiva effekter för av rörelseförmåga och långsiktigt åldrarna 10–16 år verkade ha mest
-individen och skapar stor samhällsnytta, engagemang och aktivitet. Att vara kognitiv nytta av den fysiska aktiviteten
-vilket beskrivs bra i rapporten Idrottens med i en förening och röra sig i grupp enligt ovan nämnda rapport. Dess
-samhällsnytta från Riksidrottsförbundet. är roligt, det skapar gemenskap och möjlighet att inkludera många grupper
-Föreningsidrotten står för en betydande sammanhang, deltagarna får möjlig- i samhället är stor och återspeglar
-del av vår befolknings vardagliga fysiska het att öva sociala färdigheter och Riksidrottsförbundets värdegrund:
-aktivitet vilket ger ökad livskvalitet, samverkan samt att vara en del i och ”Alla som vill, oavsett nationalitet,
-välmående och livsglädje, såväl fysisk utveckla en verksamhet. Detta gäller etniskt ursprung, religion, ålder, kön
-som psykisk.           alla åldersgrupper. Dessutom har eller sexuell läggning samt fysiska och
-Idag är det vanligt att man deltar regelbunden fysisk aktivitet visat sig psykiska förutsättningar, får vara med i
-i flera olika idrotter parallellt vilket ha en positiv inverkan på skolresultat föreningsdriven idrottsverksamhet.”
+Föreningsidrotten idag
+Föreningsidrotten breda motionsverk-
+samhet har en rad positiva effekter för
+individen och skapar stor samhällsnytta,
+vilket beskrivs bra i rapporten Idrottens
+samhällsnytta från Riksidrottsförbundet.
+Föreningsidrotten står för en betydande
+del av vår befolknings vardagliga fysiska
+aktivitet vilket ger ökad livskvalitet,
+välmående och livsglädje, såväl fysisk
+som psykisk.
+Idag är det vanligt att man deltar
+i flera olika idrotter parallellt vilket
 
-För att nå målen i Strategi 2025 har svensk Inkluderande idrott för alla
-idrott valt att arbeta utifrån fem prioriterade 2025 känner sig pojkar och flickor, män och kvinnor och i olika
-utvecklingsresor. Tillsammans stakar de ut åldrar och med olika förutsättningar och bakgrund välkomna till
-vägen mot framtidens idrott.        idrottsföreningen. Föreningens verksamhet ger människor med
-De fem utvecklingsresorna är:       olika förmåga möjlighet att vara med. Träningen utvecklas efter
-individens kapacitet vilket utvecklar rörelseförståelse. 2025
-speglar medlemmarna i idrottsrörelsen befolkningen i Sverige.
-En ny syn på träning och tävling    Möjligheten att träna, tävla och engagera sig i en förening är inte
-beroende av individens ekonomiska förutsättningar eller var man
+uppmuntras av föreningarna och ses
+som mycket viktigt för utvecklingen
+av rörelseförmåga och långsiktigt
+engagemang och aktivitet. Att vara
+med i en förening och röra sig i grupp
+är roligt, det skapar gemenskap och
+sammanhang, deltagarna får möjlig-
+het att öva sociala färdigheter och
+samverkan samt att vara en del i och
+utveckla en verksamhet. Detta gäller
+alla åldersgrupper. Dessutom har
+regelbunden fysisk aktivitet visat sig
+ha en positiv inverkan på skolresultat
+
+genom att förbättra barns koncentration
+och vakenhet. Barn och ungdomar i
+åldrarna 10–16 år verkade ha mest
+kognitiv nytta av den fysiska aktiviteten
+enligt ovan nämnda rapport. Dess
+möjlighet att inkludera många grupper
+i samhället är stor och återspeglar
+Riksidrottsförbundets värdegrund:
+”Alla som vill, oavsett nationalitet,
+etniskt ursprung, religion, ålder, kön
+eller sexuell läggning samt fysiska och
+psykiska förutsättningar, får vara med i
+föreningsdriven idrottsverksamhet.”
+
+För att nå målen i Strategi 2025 har svensk
+idrott valt att arbeta utifrån fem prioriterade
+utvecklingsresor. Tillsammans stakar de ut
+vägen mot framtidens idrott.
+De fem utvecklingsresorna är:
+
+En ny syn på träning och tävling
 2025 har vi en idrottsrörelse där alla får plats att idrotta utifrån
-bor.
 sina villkor oavsett ambition, ålder, kön, prestationsnivå eller
-andra förutsättningar. Träning och tävling utformas så att utöva- Jämställdhet för en framgångsrik idrott
-ren mår bra, har roligt och utvecklas under hela livet. Utveckling 2025 har vi en jämställd idrott. Idrottsrörelsen ser en jämställd
-av rörelseförståelse är i centrum vilket gör att fler får förutsätt- verksamhet som en förutsättning för, och ett tecken på, en
-ningar att idrotta mer. Samtidigt väljer många andra former för framgångsrik idrott. Män och kvinnor har samma makt att forma
-idrottande. Alla tränar, det är det vi har gemensamt. De som vill idrotten och sitt deltagande i idrottsrörelsen. Möjligheterna är lika
-tävlar. Föreningarna kompletterar varandra och samverkar både för alla oavsett kön, att utöva och leda idrott. Alla som vill, oavsett
-med varandra och med andra aktörer. Det finns alternativ för kön, ska få vara med i föreningsdriven idrottsverksamhet.Idrotten
-människor med olika ambitioner – inom idrottsrörelsen, hela livet. utformar verksamheten så att den ger alla som deltar en trygg
-2025 har idrotten på alla nivåer utvecklat strukturer, stödsystem gemenskap. Män och kvinnor har lika stort inflytande i beslutande
-och beteenden vilket bidragit till att medlemmarna är mer aktiva och rådgivande organ. Arbetsformer och fördelning av uppdrag
-under längre tid. Det är naturligt att idrotta i en förening under utformas så att män och kvinnor har lika stora möjligheter att
-hela livet.                         medverka. Idrottsrörelsen tillämpar jämställdhetsintegrering i sin
-Den moderna föreningen engagerar    verksamhet.
-2025 har vi en stark och levande idrottsrörelse som tar vara Ett stärkt ledarskap
-på människors engagemang och inspirerar till delaktighet. 2025 har svensk idrott ett starkt ledarskap i alla delar av
-Medlemskapet är moderniserat. Det är enkelt och välkomnande organisationen. Såväl tränare, ledare och förtroendevalda känner
-att engagera sig oavsett bakgrund, ålder, kön eller andra till och leder enligt svensk idrotts värdegrund. Ledarskapet
-förutsättningar. Föreningar bildas och utvecklas med verksam- är individanpassat och genomsyras av ett gott bemötande.
-Förutsättningarna för att vara idrottsledare är anpassade efter
+andra förutsättningar. Träning och tävling utformas så att utöva-
+ren mår bra, har roligt och utvecklas under hela livet. Utveckling
+av rörelseförståelse är i centrum vilket gör att fler får förutsätt-
+ningar att idrotta mer. Samtidigt väljer många andra former för
+idrottande. Alla tränar, det är det vi har gemensamt. De som vill
+tävlar. Föreningarna kompletterar varandra och samverkar både
+med varandra och med andra aktörer. Det finns alternativ för
+människor med olika ambitioner – inom idrottsrörelsen, hela livet.
+2025 har idrotten på alla nivåer utvecklat strukturer, stödsystem
+och beteenden vilket bidragit till att medlemmarna är mer aktiva
+under längre tid. Det är naturligt att idrotta i en förening under
+hela livet.
+Den moderna föreningen engagerar
+2025 har vi en stark och levande idrottsrörelse som tar vara
+på människors engagemang och inspirerar till delaktighet.
+Medlemskapet är moderniserat. Det är enkelt och välkomnande
+att engagera sig oavsett bakgrund, ålder, kön eller andra
+förutsättningar. Föreningar bildas och utvecklas med verksam-
 het i linje med idrottsrörelsens gemensamma mål samt den
-olika individers livssituation. Svensk idrott har attraktiva ledarut-
 idrottsspecifika identiteten.Människor vill engagera sig och är
-bildningar med hög kvalitet på alla nivåer. Samtal om utveckling,
 stolta över att vara en del av sin förening och av idrottsrörelsen.
-normer och värderingar är levande i föreningar och förbund. Att
 Föreningen har antagit nya former där grunden är människors
-ha varit idrottsledare är en stark merit för framtida karriär och
 vilja att vara med och bidra. Föreningens möten hålls i såväl
-svensk idrott är och uppfattas som Sveriges ledande ledarskola.
 gamla som nya forum och verksamheten kännetecknas av glädje,
 gemenskap och öppenhet.
-Läs vidare på www.strategi2025.se
+
 14
+
+Inkluderande idrott för alla
+2025 känner sig pojkar och flickor, män och kvinnor och i olika
+åldrar och med olika förutsättningar och bakgrund välkomna till
+idrottsföreningen. Föreningens verksamhet ger människor med
+olika förmåga möjlighet att vara med. Träningen utvecklas efter
+individens kapacitet vilket utvecklar rörelseförståelse. 2025
+speglar medlemmarna i idrottsrörelsen befolkningen i Sverige.
+Möjligheten att träna, tävla och engagera sig i en förening är inte
+beroende av individens ekonomiska förutsättningar eller var man
+bor.
+Jämställdhet för en framgångsrik idrott
+2025 har vi en jämställd idrott. Idrottsrörelsen ser en jämställd
+verksamhet som en förutsättning för, och ett tecken på, en
+framgångsrik idrott. Män och kvinnor har samma makt att forma
+idrotten och sitt deltagande i idrottsrörelsen. Möjligheterna är lika
+för alla oavsett kön, att utöva och leda idrott. Alla som vill, oavsett
+kön, ska få vara med i föreningsdriven idrottsverksamhet.Idrotten
+utformar verksamheten så att den ger alla som deltar en trygg
+gemenskap. Män och kvinnor har lika stort inflytande i beslutande
+och rådgivande organ. Arbetsformer och fördelning av uppdrag
+utformas så att män och kvinnor har lika stora möjligheter att
+medverka. Idrottsrörelsen tillämpar jämställdhetsintegrering i sin
+verksamhet.
+Ett stärkt ledarskap
+2025 har svensk idrott ett starkt ledarskap i alla delar av
+organisationen. Såväl tränare, ledare och förtroendevalda känner
+till och leder enligt svensk idrotts värdegrund. Ledarskapet
+är individanpassat och genomsyras av ett gott bemötande.
+Förutsättningarna för att vara idrottsledare är anpassade efter
+olika individers livssituation. Svensk idrott har attraktiva ledarut-
+bildningar med hög kvalitet på alla nivåer. Samtal om utveckling,
+normer och värderingar är levande i föreningar och förbund. Att
+ha varit idrottsledare är en stark merit för framtida karriär och
+svensk idrott är och uppfattas som Sveriges ledande ledarskola.
+Läs vidare på www.strategi2025.se
 
 <!-- sida 636 -->
 
 ”
 Så  många    som
 
-Utmaningar och möjligheter Det skall finnas fler spontana
-möjligt, så  länge
-En central utmaning är att öka idrottens rörelsemöjligheter. Idag erbjuder
-som   möjligt  i en      tillgänglighet genom hela livet. Det skall hallarna sällan möjlighet till rörelse för
-ske genom bland annat fler idrottshallar. de som inte deltar i den organiserade
+möjligt,  så länge
+som   möjligt  i en
+
 så bra  verksamhet
-Idag råder större efterfrågan än utbud aktiviteten. Det kan vara föräldrar
-på idrottshallar, vilket begränsar eller syskon som väntar på sina barn,
 som   möjligt.
-möjligheterna till aktivitet för alla. ungdomar som bara hänger eller de
-Ökad jämlikhet är ett annat mål, att som av andra skäl vistas nära hallen.
-RF, 2019                 idrottshallens brukare ska spegla hela Till sist målet att öka jämställdheten.
-samhället. För många som har behov Idag är idrottsrörelsen inte jämställd;
-av rörelse och gemenskap är trösklarna färre kvinnor än män sitter på förtro-
-idag allt för höga, till exempel socio- endeposter, är aktiva som tränare och
-ekonomiskt svagare grupper, äldre och ledare, färre flickor än pojkar idrottar,
-Målen med Strategi 2025 personer med funktionsnedsättningar. fler flickor än pojkar slutar idrotta i
-Strategi 2025 är idrottsförbundens Det skall vara lätt att vara nybörjare, högstadie- och gymnasieålder, färre
-gemensamma vision som ska hela livet. Idag kan ett elitfokus göra det kvinnor än män kan försörja sig på
-vägleda föreningsidrotten till en mer svårt att börja i en idrottsförening redan elitidrott – färre flickor än pojkar kan
-inkluderande rörelse med fokus i de yngre tonåren, det vill säga om drömma om idrottsframgången som
-på bred motionsidrott och livslång man inte har börjat i ung ålder. I tonåren nyckeln till en social förändringsresa.
-rörelseglädje. Utvecklingen innebär att lämnar dessutom många föreningsidrot- Först när den är jämställd maximeras
-alla oavsett ålder och ambitionsnivå ten. Ett ökat fokus på rörelseglädje, samhällsnyttan.
-ska ges möjlighet att idrotta i en både i idrottshallens gestaltning och
-förening under hela livet och kan verksamhetens innehåll främjar livslång
-sammanfattas: Utveckling för att fler rörelse och gör det lättare att vara
-ska få del av idrottens stora värden. De nybörjare hela livet.
+
+RF, 2019
+
+Målen med Strategi 2025
+Strategi 2025 är idrottsförbundens
+gemensamma vision som ska
+vägleda föreningsidrotten till en mer
+inkluderande rörelse med fokus
+på bred motionsidrott och livslång
+rörelseglädje. Utvecklingen innebär att
+alla oavsett ålder och ambitionsnivå
+ska ges möjlighet att idrotta i en
+förening under hela livet och kan
+sammanfattas: Utveckling för att fler
+ska få del av idrottens stora värden. De
 övergripande målen är idrottsrörelsens
 gem ensamma mål och därför har också
-Specialidrottsförbunden ett ind irekt Slutsatser:
+Specialidrottsförbunden ett ind irekt
 ansvar att leda sina föreningar mot dem.
-• Möjligheten att utöva flera olika idrotter samtidigt
-Målen är:                   långt upp i åldrarna främjar både rörelseglädje och
-Livslångt idrottande        rörelseförståelse. Här är samverkan mellan idrotter viktig.
+Målen är:
+Livslångt idrottande
 • Svensk idrott ska vidareutveckla
-• Ett idrottsutövande som i stor utsträckning fokuserar
 verksamheten så att barn, unga,
-på glädje och utforskande snarare än prestation är mer
 vuxna och äldre väljer att idrotta i
-inkluderande och främjar ett idrottande längre upp i
 förening under hela livet.
-åldrarna.
 • Svensk idrott ska nå fler idrottsliga
-• En jämställd idrott förutsätter förändrade normer och
 framgångar internationellt.
-attityder, samträning upp i åldrarna är ett effektfullt sätt
-att förändra normer och att betona likheter istället för
 Idrottens värdegrund är vår styrka
-olikheter.
 • Alla lever och leder enligt Svensk
-idrotts värdegrund.     • En jämlik idrott förutsätter lägre trösklar för de som inte
-har en naturlig koppling till idrottsföreningsgemenskapen.
-Idrott i förening           Skolan är en naturlig och självklar plattform och
-• Svensk idrott ska vidareutvecklas, samarbetspartner för detta.
-samverka med andra aktörer och • Att samla föreningar skapar en långt mer jämställd
-ge goda möjligheter att idrotta i målpunkt. Genom utbyten mellan de olika idrotterna och
-förening.                 föreningarna i sig erhålls en mer jämställd fördelning av
-barn och unga.
+idrotts värdegrund.
+
+Idrott i förening
+• Svensk idrott ska vidareutvecklas,
+samverka med andra aktörer och
+ge goda möjligheter att idrotta i
+förening.
+
 Idrotten gör Sverige starkare
-• Det behövs fler och mer ändamålsenliga idrottshallar.
 • Idrottsrörelsen är en ännu starkare
 samhällsaktör.
+
+Utmaningar och möjligheter
+En central utmaning är att öka idrottens
+tillgänglighet genom hela livet. Det skall
+ske genom bland annat fler idrottshallar.
+Idag råder större efterfrågan än utbud
+på idrottshallar, vilket begränsar
+möjligheterna till aktivitet för alla.
+Ökad jämlikhet är ett annat mål, att
+idrottshallens brukare ska spegla hela
+samhället. För många som har behov
+av rörelse och gemenskap är trösklarna
+idag allt för höga, till exempel socio-
+ekonomiskt svagare grupper, äldre och
+personer med funktionsnedsättningar.
+Det skall vara lätt att vara nybörjare,
+hela livet. Idag kan ett elitfokus göra det
+svårt att börja i en idrottsförening redan
+i de yngre tonåren, det vill säga om
+man inte har börjat i ung ålder. I tonåren
+lämnar dessutom många föreningsidrot-
+ten. Ett ökat fokus på rörelseglädje,
+både i idrottshallens gestaltning och
+verksamhetens innehåll främjar livslång
+rörelse och gör det lättare att vara
+nybörjare hela livet.
+
+Det skall finnas fler spontana
+rörelsemöjligheter. Idag erbjuder
+hallarna sällan möjlighet till rörelse för
+de som inte deltar i den organiserade
+aktiviteten. Det kan vara föräldrar
+eller syskon som väntar på sina barn,
+ungdomar som bara hänger eller de
+som av andra skäl vistas nära hallen.
+Till sist målet att öka jämställdheten.
+Idag är idrottsrörelsen inte jämställd;
+färre kvinnor än män sitter på förtro-
+endeposter, är aktiva som tränare och
+ledare, färre flickor än pojkar idrottar,
+fler flickor än pojkar slutar idrotta i
+högstadie- och gymnasieålder, färre
+kvinnor än män kan försörja sig på
+elitidrott – färre flickor än pojkar kan
+drömma om idrottsframgången som
+nyckeln till en social förändringsresa.
+Först när den är jämställd maximeras
+samhällsnyttan.
+
+Slutsatser:
+
+• Möjligheten att utöva flera olika idrotter samtidigt
+långt upp i åldrarna främjar både rörelseglädje och
+rörelseförståelse. Här är samverkan mellan idrotter viktig.
+• Ett idrottsutövande som i stor utsträckning fokuserar
+på glädje och utforskande snarare än prestation är mer
+inkluderande och främjar ett idrottande längre upp i
+åldrarna.
+• En jämställd idrott förutsätter förändrade normer och
+attityder, samträning upp i åldrarna är ett effektfullt sätt
+att förändra normer och att betona likheter istället för
+olikheter.
+• En jämlik idrott förutsätter lägre trösklar för de som inte
+har en naturlig koppling till idrottsföreningsgemenskapen.
+Skolan är en naturlig och självklar plattform och
+samarbetspartner för detta.
+• Att samla föreningar skapar en långt mer jämställd
+målpunkt. Genom utbyten mellan de olika idrotterna och
+föreningarna i sig erhålls en mer jämställd fördelning av
+barn och unga.
+• Det behövs fler och mer ändamålsenliga idrottshallar.
+
 15
 
 <!-- sida 637 -->
@@ -26137,40 +28959,40 @@ Att    idrotta       med       funktions-
 
 nedsättning
 
-Lika möjligheter för alla för barn ska bedrivas utifrån ett Ett led i ökad inkludering är en ökad
-Barn och unga med funktionsnedsätt- barnrättsperspektiv. FN:s konvention medvetenhet om existerande normer.
-ning har inte alltid tillgång till en om barns rättigheter och konventionen En normmedveten idrott innebär att
-inkluderande idrott, idrottsundervisning om rättigheter för personer med vi är medvetna om vilka normer som
-eller en aktiv fritid. Det leder inte enbart funktionsnedsättning fastslår att: påverkar oss och kan förhålla oss till
-till utebliven fysisk aktivitet, utan också • barn med funktionsnedsättning dem och att vi lyfter upp och synliggör
-att man riskerar att gå miste om en ska ha lika rättigheter som andra rådande privilegier och begränsningar
-social knytpunkt med meningsfulla barn att delta i lek, rekreation, för utövare och ledare. Vidare att vi
-relationer och sammanhang. fritidsverksamhet och idrott, arbetar aktivt för ledarskap, resurs-
-Till skillnad från majoriteten av däribland inom utbildningssystemet. fördelning och representation som
-barn och unga, som någon gång är • barn med funktionsnedsättning ska minimerar ojämlikhet och ojämställdhet
-medlemmar i en idrottsförening, är det ha ett aktivt deltagande i samhället – ett arbete där ansvaret för förändring
-förhållandevis få barn och unga med och har rätt till rekreation som bidrar framför allt ligger på dem som har makt
-funktionsnedsättning som regelbundet till individuell utveckling. och är mest självklara i sammanhanget.
-deltar i någon form av organiserad • alla barn ska skyddas mot alla
-idrott. Ofta handlar det om att alltför få former av diskriminering. Tillgänglighet
-anläggningar tillgänglighetsanpassats        Bristande tillgänglighet är sedan
-i enlighet med rådande tillgänglig- Inkluderande miljöer 2015 en form av diskriminering enligt
-hetslagar, barnkonventionen och En inkluderande miljö ger användarna, Diskrimineringslagen. Diskriminering
-konventionen för mänskliga rättigheter oavsett eventuella kognitiva och fysiska förekommer när en person med funk-
-för personer med funktionsnedsätt- förutsättningar, möjlighet att ta del tionsnedsättning missgynnas genom
-ning. Det får till följd att barn med av aktiviteter och gemenskap i hela att tillräckliga åtgärder för tillgänglighet
-funktionsnedsättning ofta behöver miljön. För att lyckas med att skapa en inte har vidtagits för att den personen
-förflytta sig långt till de anläggningar inkluderande miljö krävs att lokaler och ska komma i en jämförbar situation med
-som är tillgänglighetsanpassade verksamheter klarar att anpassa sig personer utan denna funktionsnedsätt-
-och erbjuder aktiviteter anpassade efter användarna och inte tvärtom. Det ning. Kraven vad gäller tillgänglighet
-utifrån deras behov. En viktig faktor för kan innebära att en större variation av ser väldigt olika ut, utifrån olika typer av
-träningens varaktighet är just avståndet miljöer som kan möta olika behov hos funktionsnedsättningar och individuella
-till träningslokalen. Förutom den fysiska olika individer behöver utformas. behov. För att uppnå lagkrav om en
-tillgängligheten finns en stor risk att En inkluderande idrott för alla utgör tillgänglig fysisk miljö är det viktigt att
-idrottens prestations- och tävlingslogik en av fem utvecklingsresor i idrottsrö- inte endast se till den fysiska tillgänglig-
-ges för stort utrymme framför idrottsge- relsens pågående arbete inom ramen heten. Miljön ska vara tillgänglig också
-menskapens rörelseglädje och därmed för Strategi 2025. Målet kan ses på för brukare med annorlunda kognition
-hindrar möjligheten till delaktighet på föregående uppslag. och ”osynliga funktionsnedsättningar”
+Lika möjligheter för alla
+Barn och unga med funktionsnedsätt-
+ning har inte alltid tillgång till en
+inkluderande idrott, idrottsundervisning
+eller en aktiv fritid. Det leder inte enbart
+till utebliven fysisk aktivitet, utan också
+att man riskerar att gå miste om en
+social knytpunkt med meningsfulla
+relationer och sammanhang.
+Till skillnad från majoriteten av
+barn och unga, som någon gång är
+medlemmar i en idrottsförening, är det
+förhållandevis få barn och unga med
+funktionsnedsättning som regelbundet
+deltar i någon form av organiserad
+idrott. Ofta handlar det om att alltför få
+anläggningar tillgänglighetsanpassats
+i enlighet med rådande tillgänglig-
+hetslagar, barnkonventionen och
+konventionen för mänskliga rättigheter
+för personer med funktionsnedsätt-
+ning. Det får till följd att barn med
+funktionsnedsättning ofta behöver
+förflytta sig långt till de anläggningar
+som är tillgänglighetsanpassade
+och erbjuder aktiviteter anpassade
+utifrån deras behov. En viktig faktor för
+träningens varaktighet är just avståndet
+till träningslokalen. Förutom den fysiska
+tillgängligheten finns en stor risk att
+idrottens prestations- och tävlingslogik
+ges för stort utrymme framför idrottsge-
+menskapens rörelseglädje och därmed
+hindrar möjligheten till delaktighet på
 lika villkor.
 Idrott har möjlighet att öka hälsan
 i form av fysiskt, psykiskt och socialt
@@ -26189,70 +29011,215 @@ som själva har funktionsnedsättningar
 kan man nå nya adepter och få dem att
 bli fysiskt aktiva.
 Idrottsrörelsen säger att all idrott
-Alla kan gympa Rullstolsbasket, Start your impossible Camp
-Foto: Gymnastikförbundet     Foto: Parasportförbundet
+
+för barn ska bedrivas utifrån ett
+barnrättsperspektiv. FN:s konvention
+om barns rättigheter och konventionen
+om rättigheter för personer med
+funktionsnedsättning fastslår att:
+• barn med funktionsnedsättning
+ska ha lika rättigheter som andra
+barn att delta i lek, rekreation,
+fritidsverksamhet och idrott,
+däribland inom utbildningssystemet.
+• barn med funktionsnedsättning ska
+ha ett aktivt deltagande i samhället
+och har rätt till rekreation som bidrar
+till individuell utveckling.
+• alla barn ska skyddas mot alla
+former av diskriminering.
+Inkluderande miljöer
+En inkluderande miljö ger användarna,
+oavsett eventuella kognitiva och fysiska
+förutsättningar, möjlighet att ta del
+av aktiviteter och gemenskap i hela
+miljön. För att lyckas med att skapa en
+inkluderande miljö krävs att lokaler och
+verksamheter klarar att anpassa sig
+efter användarna och inte tvärtom. Det
+kan innebära att en större variation av
+miljöer som kan möta olika behov hos
+olika individer behöver utformas.
+En inkluderande idrott för alla utgör
+en av fem utvecklingsresor i idrottsrö-
+relsens pågående arbete inom ramen
+för Strategi 2025. Målet kan ses på
+föregående uppslag.
+
+Alla kan gympa
+Foto: Gymnastikförbundet
+
+Ett led i ökad inkludering är en ökad
+medvetenhet om existerande normer.
+En normmedveten idrott innebär att
+vi är medvetna om vilka normer som
+påverkar oss och kan förhålla oss till
+dem och att vi lyfter upp och synliggör
+rådande privilegier och begränsningar
+för utövare och ledare. Vidare att vi
+arbetar aktivt för ledarskap, resurs-
+fördelning och representation som
+minimerar ojämlikhet och ojämställdhet
+– ett arbete där ansvaret för förändring
+framför allt ligger på dem som har makt
+och är mest självklara i sammanhanget.
+Tillgänglighet
+Bristande tillgänglighet är sedan
+2015 en form av diskriminering enligt
+Diskrimineringslagen. Diskriminering
+förekommer när en person med funk-
+tionsnedsättning missgynnas genom
+att tillräckliga åtgärder för tillgänglighet
+inte har vidtagits för att den personen
+ska komma i en jämförbar situation med
+personer utan denna funktionsnedsätt-
+ning. Kraven vad gäller tillgänglighet
+ser väldigt olika ut, utifrån olika typer av
+funktionsnedsättningar och individuella
+behov. För att uppnå lagkrav om en
+tillgänglig fysisk miljö är det viktigt att
+inte endast se till den fysiska tillgänglig-
+heten. Miljön ska vara tillgänglig också
+för brukare med annorlunda kognition
+och ”osynliga funktionsnedsättningar”
+
+Rullstolsbasket, Start your impossible Camp
+Foto: Parasportförbundet
+
 16
 
 <!-- sida 638 -->
+
+som exempelvis neuropsykiatriska
+funktionsnedsättningar (NPF).
+Det kräver kunskap om hur miljön
+utformas på ett tillgängligt sätt avse-
+ende orienterbarhet, undvikande av
+trängsel, ljussättning, utblick mm.
+Några grundläggande utform-
+ningsaspekter
+Nedan följer ett antal utform-
+ningsaspekter att ta hänsyn till
+vid planering och utformningav en
+idrottshall.
+Orienterbarhet
+Personer med kognitiva funktions-
+nedsättningar eller synnedsättning
+kan ha svårt att orientera sig i okända
+och otydliga miljöer vilket kan skapa
+otrygghet och osäkerhet. Det är därför
+viktigt att miljön i sin helhet är tydlig och
+konsekvent samt enkel att överblicka
+och förstå. Faktorer som materialitet,
+färgsättning, proportioner, dagsljus-
+insläpp, skuggverkan samt belysning
+påverkar vår förmåga att uppleva rum
+och att hitta i omgivningen och kan
+därför aktivt användas i utformningen
+för att skapa en begriplig helhet.
+Tillgängliga miljöer för fysiskt
+funktionsnedsatta
+Regelverk och riktlinjer för att skapa
+tillgängliga miljöer för personer med
+fysiska och sensoriska nedsättningar
+har varit tydligare än de för kognitiva
+och utvecklingsbetingade nedsätt-
+ningar, genom tex BBR och Bygg ikapp
+som idag styr byggandet. Vad gäller
+befintliga äldre byggnader är arbetet
+med att anpassa dessa långt ifrån
+färdigt. I många fall rör det sig om min-
+dre anpassningar, s k enkelt avhjälpta
+hinder (HIN), som är ganska enkla och
+inte så kostnadskrävande att avhjälpa.
+Om möjligt kan man också inhämta
+synpunkter från handikappråd eller en
+referensgrupp bestående av personer
+med egna funktionsnedsättningar.
+Negativa effekter av trängsel -
+Crowding
+De flesta människor upplever trängsel
 
 2\. NULÄGE OCH UTMANINGAR
 
 Slutsatser:
 
-som exempelvis neuropsykiatriska • Tillgängliga miljöer gynnar alla, oavsett
-funktionsnedsättningar (NPF). funktionsvariation.
-Det kräver kunskap om hur miljön • Betrakta idrottshallen som en hel miljö, inte bara enskilda
-utformas på ett tillgängligt sätt avse- rum.
-ende orienterbarhet, undvikande av
+• Tillgängliga miljöer gynnar alla, oavsett
+funktionsvariation.
+• Betrakta idrottshallen som en hel miljö, inte bara enskilda
+rum.
 • Ha tydliga mål för tillgängliga och inkluderande miljöer
-trängsel, ljussättning, utblick mm.
 genom hela skapandeprocessen.
 • Olika rum som kan anpassas skapar möjligheter för fler.
-Några grundläggande utform-
-ningsaspekter           • Beakta tillgängligheten utifrån alla aspekter, det vill
-Nedan följer ett antal utform- säga fysiska (ex rörelse), sensoriska (ex syn och hörsel),
-ningsaspekter att ta hänsyn till kognitiva (ex ADHD och autism) och intellektuella
-vid planering och utformningav en funktionsnedsättningar (ex Downs syndrom).
-idrottshall.
-Orienterbarhet
-Personer med kognitiva funktions-
-nedsättningar eller synnedsättning och trånga utrymmen som besvärliga att att sortera inkommande visuella stimuli
-kan ha svårt att orientera sig i okända vistas i. För personer med exempelvis kan för många objekt och ljuseffekter
-och otydliga miljöer vilket kan skapa neuropsykiatriska funktionsnedsätt- i ett rum ha en energikrävande och
-otrygghet och osäkerhet. Det är därför ningar kan den personliga integri- uttröttande effekt. Detsamma gäller
-viktigt att miljön i sin helhet är tydlig och tetssfären vara större och man upplever användande av en stor mängd olika
-konsekvent samt enkel att överblicka fler negativa stressrelaterade effekter av material och olika färgskalor i samma
-och förstå. Faktorer som materialitet, trängsel, såsom stresspåslag, aggres- miljö. Här är det viktigt att kunna
-färgsättning, proportioner, dagsljus- sivitet, ångest och försämrad inlärning. tillhandahålla olika typer av rum och
-insläpp, skuggverkan samt belysning Rum med ett högt flöde av människor att med enkla medel kunna anpassa
-påverkar vår förmåga att uppleva rum behöver gestaltas med detta i åtanke. rummen genom att till exempel kunna
-och att hitta i omgivningen och kan En väl genomtänkt schemaläggning skärma av vid behov.
-därför aktivt användas i utformningen utgör också grunden för att undvika
-för att skapa en begriplig helhet. trängsel i lokalerna. Personlig integritet
-Att värna den personliga integriteten är
-Tillgängliga miljöer för fysiskt Förutsättningar för god ljudmiljö alltid viktigt och byggnader där många
-funktionsnedsatta      Barn har andra anatomiska förutsätt- personer möts som inte alltid har en
-Regelverk och riktlinjer för att skapa ningar i sina hörselorgan än vuxna. En relation, blir detta extra viktigt. Många
-tillgängliga miljöer för personer med alltför bullrig miljö stjäl uppmärksamhet i tonåren är känsliga för att exponera
-fysiska och sensoriska nedsättningar och energi till att uppfatta vad någon sig för varandra och andra. Personer
-har varit tydligare än de för kognitiva som talar säger istället för att den som med nedsatt motorik eller fysiska
-och utvecklingsbetingade nedsätt- lyssnar kan ta del av budskapet i det funktionsnedsättningar kan vara extra
-ningar, genom tex BBR och Bygg ikapp som sägs. Buller har också negativ känsliga för andras blickar vid moment
-som idag styr byggandet. Vad gäller effekt på pedagogers och ledares som omklädning och i utövandet av
-befintliga äldre byggnader är arbetet röstkapacitet. Buller har med andra ord idrottsaktiviteter. Även här skall det
-med att anpassa dessa långt ifrån negativa effekter för alla människor, men därför finnas olika platser med olika
-färdigt. I många fall rör det sig om min- särskilt drabbade är exempelvis barn exponeringsgrad och möjligheter
-dre anpassningar, s k enkelt avhjälpta med hörselskada eller med neuropsy- till avskärmning genom till exempel
-hinder (HIN), som är ganska enkla och kiatriska funktionsnedsättningar. För draperier.
-inte så kostnadskrävande att avhjälpa. dessa är det ännu mer energikrävande
-Om möjligt kan man också inhämta att ta del av talat budskap i en bullrig
-synpunkter från handikappråd eller en miljö.
-referensgrupp bestående av personer
-med egna funktionsnedsättningar. Visuellt buller
+• Beakta tillgängligheten utifrån alla aspekter, det vill
+säga fysiska (ex rörelse), sensoriska (ex syn och hörsel),
+kognitiva (ex ADHD och autism) och intellektuella
+funktionsnedsättningar (ex Downs syndrom).
+
+och trånga utrymmen som besvärliga att
+vistas i. För personer med exempelvis
+neuropsykiatriska funktionsnedsätt-
+ningar kan den personliga integri-
+tetssfären vara större och man upplever
+fler negativa stressrelaterade effekter av
+trängsel, såsom stresspåslag, aggres-
+sivitet, ångest och försämrad inlärning.
+Rum med ett högt flöde av människor
+behöver gestaltas med detta i åtanke.
+En väl genomtänkt schemaläggning
+utgör också grunden för att undvika
+trängsel i lokalerna.
+Förutsättningar för god ljudmiljö
+Barn har andra anatomiska förutsätt-
+ningar i sina hörselorgan än vuxna. En
+alltför bullrig miljö stjäl uppmärksamhet
+och energi till att uppfatta vad någon
+som talar säger istället för att den som
+lyssnar kan ta del av budskapet i det
+som sägs. Buller har också negativ
+effekt på pedagogers och ledares
+röstkapacitet. Buller har med andra ord
+negativa effekter för alla människor, men
+särskilt drabbade är exempelvis barn
+med hörselskada eller med neuropsy-
+kiatriska funktionsnedsättningar. För
+dessa är det ännu mer energikrävande
+att ta del av talat budskap i en bullrig
+miljö.
+Visuellt buller
 För många synintryck kan hämma vår
-Negativa effekter av trängsel - uppmärksamhet och koncentration.
-Crowding               För personer med neuropsykiatriska
-De flesta människor upplever trängsel funktionsnedsättningar med svårighet
+uppmärksamhet och koncentration.
+För personer med neuropsykiatriska
+funktionsnedsättningar med svårighet
+
+att sortera inkommande visuella stimuli
+kan för många objekt och ljuseffekter
+i ett rum ha en energikrävande och
+uttröttande effekt. Detsamma gäller
+användande av en stor mängd olika
+material och olika färgskalor i samma
+miljö. Här är det viktigt att kunna
+tillhandahålla olika typer av rum och
+att med enkla medel kunna anpassa
+rummen genom att till exempel kunna
+skärma av vid behov.
+Personlig integritet
+Att värna den personliga integriteten är
+alltid viktigt och byggnader där många
+personer möts som inte alltid har en
+relation, blir detta extra viktigt. Många
+i tonåren är känsliga för att exponera
+sig för varandra och andra. Personer
+med nedsatt motorik eller fysiska
+funktionsnedsättningar kan vara extra
+känsliga för andras blickar vid moment
+som omklädning och i utövandet av
+idrottsaktiviteter. Även här skall det
+därför finnas olika platser med olika
+exponeringsgrad och möjligheter
+till avskärmning genom till exempel
+draperier.
+
 17
 
 <!-- sida 639 -->
@@ -26261,121 +29228,258 @@ Kunskapsinhämtning                         med
 
 brukargrupper
 
-Utvalda fokusgrupper   Barnen
-För att skapa en ändamålsenlig En majoritet av barnen åker hem mellan Barnen beskriver fram-
-idrottshall är det centralt att komplettera skola och träning. Men där avstånden är tidens idrottshall såhär:
-fackkunskap med kunskap om behov långa mellan skola, hem och idrottshall
-och erfarenheter hos nuvarande och så finns inte alltid tiden att åka hem • Bra
-framtida brukare. Därför har ett urval vilket skapar ett behov av öppna • Spännande
-av fokusgrupper konsulterats under verksamheter utan krav på konsumtion. • Rolig
-arbetet. Urvalet av fokusgrupper utgår Platser där det går att göra läxor, värma • Kul
-ifrån ett normmedvetet perspektiv, mat eller köpa riktig mat. Det skulle • Stor
-för att skapa en ännu bättre miljö för kunna vara fritidsgårdar öppna även för • Lugnande
-de redan föreningsaktiva och stärka yngre åldrar (de flesta fritidsgårdar har • Ny
-de aspekter som de tycker är viktiga i en nedre åldersgräns på 13 år). • Trevlig
-hallen och samtidigt förstå och bättre Många barn är beroende av föräldrar • Tillsammans
-möta upp behov hos de grupper som eller andra vuxna för att ta sig till sin
-idag står utanför föreningsidrotten och idrottshall. De barn som bor nära
-därmed ofta utanför idrottshallen. sin idrottshall, med goda gång- och Möjligheten att se vad som händer på
-cykelbaneförbindelser, går eller cyklar planen är viktig för barnen, dels för att
-Dialog med föreningsaktiva barn själva eller med kompisar under som- se på andra som tränar men också
-och ungdomar           marhalvåret. De barn som åker kollektivt för att snabbt kunna se när det är
-De föreningsaktiva barnen är en central till träningen blir ofta hämtade med bil deras tur att plocka fram redskap och
-målgrupp för framtidens idrottshall från träningen eftersom busskorten vara på planen. Inte beroende av en
-eftersom de använder hallen både slutat gälla och föräldrarna generellt känsla av att tiden på planen var knapp
-under skoltid och fritid. Barn- och tycker det är för mörkt och sent att ta utan snarare att längtan var stor och
-ungdomsverksamheten är den mest sig hem på egen hand. förväntningarna höga – ”nu är det min
-omfattande för de flesta idrottsfören- I samtalen med barnen framgick tur!”. Att plocka fram redskap är inget
-ingar varför det är viktigt att förstå deras tydligt att idrottshallen är en plats för barnen såg som jobbigt utan som något
-upplevelse av och behov kring idrotts- utforskande, glädjefylld rörelse och roligt de gör tillsammans med sina
-hallen. Beroende på ålder har barnen gemenskap. Barnen beskrev en gemen- vänner, för att förbereda en aktivitet de
-olika vardagsliv och olika möjlighet skap som bottnade dels i föreningens längtar till.
-att själva påverka och ansvara för sin förmåga att samla många vilket skapar Den betoning på cuper, individuell
-fritid. I detta arbete har två åldersspann känsla av tillhörighet och möjliggör spel prestationsutveckling och grupptill-
-representerats, barn i åldrarna 11-13 men också i idrottshallens förmåga att hörighet som fanns bland ungdomarna
-och ungdomar i åldrarna 15-18. De samla många olika på en och samma
-idrottsföreningar som deltagit represen- plats där det som förenar är just rörel-
-”
-terar de fem initiativtagande förbunden. sen. Det levande flödet av människor
-Det känns   som
-in och ut från hallen var något positivt,
-något levandegörande och spän- en hall när det är
-nande – det skapar känslan av oändliga
-De största värdena av    möjligheter att träffa nya vänner varje fler.
-föreningsaktiviteten enligt dag. Emellertid är det viktigt att det går
-att vara både i flödet och betrakta det
+Utvalda fokusgrupper
+För att skapa en ändamålsenlig
+idrottshall är det centralt att komplettera
+fackkunskap med kunskap om behov
+och erfarenheter hos nuvarande och
+framtida brukare. Därför har ett urval
+av fokusgrupper konsulterats under
+arbetet. Urvalet av fokusgrupper utgår
+ifrån ett normmedvetet perspektiv,
+för att skapa en ännu bättre miljö för
+de redan föreningsaktiva och stärka
+de aspekter som de tycker är viktiga i
+hallen och samtidigt förstå och bättre
+möta upp behov hos de grupper som
+idag står utanför föreningsidrotten och
+därmed ofta utanför idrottshallen.
+Dialog med föreningsaktiva barn
+och ungdomar
+De föreningsaktiva barnen är en central
+målgrupp för framtidens idrottshall
+eftersom de använder hallen både
+under skoltid och fritid. Barn- och
+ungdomsverksamheten är den mest
+omfattande för de flesta idrottsfören-
+ingar varför det är viktigt att förstå deras
+upplevelse av och behov kring idrotts-
+hallen. Beroende på ålder har barnen
+olika vardagsliv och olika möjlighet
+att själva påverka och ansvara för sin
+fritid. I detta arbete har två åldersspann
+representerats, barn i åldrarna 11-13
+och ungdomar i åldrarna 15-18. De
+idrottsföreningar som deltagit represen-
+terar de fem initiativtagande förbunden.
+
+De största värdena av
+föreningsaktiviteten enligt
 barnen:
-från sidan. Läktaren och bänkar längst - Pojke, dialog med föreningsaktiva
-väggar är viktiga platser som erbjuder
+
 • Mycket laganda
-barnen möjlighet att betrakta andra saknades helt hos barnen. De hade
 • Kul att vara så många
-samtidigt som de erbjuder plats för mycket lite fokus på det egna laget eller
 • Vi har kul!
-samvaro och möten.    idrotten, det är föreningen, idrottshallen
 • Att vi tar hand om varandra,
-Barnen uttrycker också ett behov av och det sammanhang de skapar för
 det finns mycket omtanke
-platser för betraktelse som är mindre rörelse och gemenskap som barnen
 inom laget
-exponerade, krypin där man ser snarare tycks värdesätta. Många av barnen var
 • Att man får träffa nya vänner
-än blir sedd, mellanrum där aktivitetsni- aktiva inom flera idrotter, speciellt de
 • Att träffa nya personer hela
-vån är lägre men närheten till flödet är som sysslade med bollsporter.
 tiden
-sådan att det går att återansluta lätt. Det är tydligt att idrottshallen
 • Att vi är många
+
+Barnen
+En majoritet av barnen åker hem mellan
+skola och träning. Men där avstånden är
+långa mellan skola, hem och idrottshall
+så finns inte alltid tiden att åka hem
+vilket skapar ett behov av öppna
+verksamheter utan krav på konsumtion.
+Platser där det går att göra läxor, värma
+mat eller köpa riktig mat. Det skulle
+kunna vara fritidsgårdar öppna även för
+yngre åldrar (de flesta fritidsgårdar har
+en nedre åldersgräns på 13 år).
+Många barn är beroende av föräldrar
+eller andra vuxna för att ta sig till sin
+idrottshall. De barn som bor nära
+sin idrottshall, med goda gång- och
+cykelbaneförbindelser, går eller cyklar
+själva eller med kompisar under som-
+marhalvåret. De barn som åker kollektivt
+till träningen blir ofta hämtade med bil
+från träningen eftersom busskorten
+slutat gälla och föräldrarna generellt
+tycker det är för mörkt och sent att ta
+sig hem på egen hand.
+I samtalen med barnen framgick
+tydligt att idrottshallen är en plats för
+utforskande, glädjefylld rörelse och
+gemenskap. Barnen beskrev en gemen-
+skap som bottnade dels i föreningens
+förmåga att samla många vilket skapar
+känsla av tillhörighet och möjliggör spel
+men också i idrottshallens förmåga att
+samla många olika på en och samma
+plats där det som förenar är just rörel-
+sen. Det levande flödet av människor
+in och ut från hallen var något positivt,
+något levandegörande och spän-
+nande – det skapar känslan av oändliga
+möjligheter att träffa nya vänner varje
+dag. Emellertid är det viktigt att det går
+att vara både i flödet och betrakta det
+från sidan. Läktaren och bänkar längst
+väggar är viktiga platser som erbjuder
+barnen möjlighet att betrakta andra
+samtidigt som de erbjuder plats för
+samvaro och möten.
+Barnen uttrycker också ett behov av
+platser för betraktelse som är mindre
+exponerade, krypin där man ser snarare
+än blir sedd, mellanrum där aktivitetsni-
+vån är lägre men närheten till flödet är
+sådan att det går att återansluta lätt.
+
+Barnen beskriver fram-
+tidens idrottshall såhär:
+
+• Bra
+• Spännande
+• Rolig
+• Kul
+• Stor
+• Lugnande
+• Ny
+• Trevlig
+• Tillsammans
+
+Möjligheten att se vad som händer på
+planen är viktig för barnen, dels för att
+se på andra som tränar men också
+för att snabbt kunna se när det är
+deras tur att plocka fram redskap och
+vara på planen. Inte beroende av en
+känsla av att tiden på planen var knapp
+utan snarare att längtan var stor och
+förväntningarna höga – ”nu är det min
+tur!”. Att plocka fram redskap är inget
+barnen såg som jobbigt utan som något
+roligt de gör tillsammans med sina
+vänner, för att förbereda en aktivitet de
+längtar till.
+Den betoning på cuper, individuell
+prestationsutveckling och grupptill-
+hörighet som fanns bland ungdomarna
+”
+Det  känns   som
+
+en hall när  det är
+fler.
+
+\- Pojke, dialog med föreningsaktiva
+
+saknades helt hos barnen. De hade
+mycket lite fokus på det egna laget eller
+idrotten, det är föreningen, idrottshallen
+och det sammanhang de skapar för
+rörelse och gemenskap som barnen
+tycks värdesätta. Många av barnen var
+aktiva inom flera idrotter, speciellt de
+som sysslade med bollsporter.
+Det är tydligt att idrottshallen
+
 18
 
 <!-- sida 640 -->
 
+är positivt laddad för de barn som
+deltog liksom att det är en plats där de
+spenderar mycket av sin fritid. I samtalet
+med barnen framkom att idrottshallen
+gärna kan spilla över även på utemiljön.
+Möjligheter till lekträning utanför där de
+kan hänga med vänner både före och
+efter träning lyftes fram som ovanligt
+men önskvärt. Det kan vara lekplatser
+för äldre barn, som utmanar fysiskt
+samtidigt som de utgör spännande
+mötesplatser – en kombination av lek,
+träning och samvaro i ett. Även mötes-
+platser inomhus är viktiga för barnen,
+platser där de kan äta, göra läxor och
+umgås före och efter träningen. De
+berättade om aktiverande platser med
+möjligheter till exempelvis pingis och
+fotbollsspel men också avkopplande
+platser med mjuka och gröna inslag
+som lugnar.
+Ungdomarna
+De flesta ungdomar åker hem mellan
+skola och träning. De ungdomar som
+har långt hem är dock beroende av en
+plats där de kan vila, göra läxor och äta
+mellan skola och träning. Här saknas
+generellt kvalitativa platser som är både
+trivsamma och praktiska med möjlighet
+att värma matlådor eller köpa riktig mat.
+Jämfört med de yngre barnen är
+
+ungdomarna mindre beroende av
+föräldrar eller andra vuxna för att ta
+sig till och från idrottshallen. De åker
+främst kommunalt på vinterhalvåret,
+under sommarhalvåret är det fler som
+cyklar, går eller – de som har – åker
+moped. Transporten med kollektiv-
+trafiken fungerar olika bra beroende
+på idrottshallens läge, de hallar som
+ligger mer avsides och med mindre täta
+förbindelser skapar mycket väntetid
+för ungdomarna som tar tid från läxor,
+socialt umgänge och viktiga mellanmål.
+Det finns dock de ungdomar som ”helst
+inte får åka själva” till idrottshallarna
+eftersom föräldrarna upplever områ-
+dena som oroliga och otrygga vilket
+skapar ett stort beroende av föräldrar
+eller andra vuxna för att överhuvudtaget
+kunna ta sig till idrottshallen och
+därmed fortsätta utöva sin idrott. Det
+går att ana att detta fenomen har både
+jämställdhets- och socioekonomiska
+aspekter.
+Många av ungdomarna går på skolor
+med idrottsprofil vilket, i kombination
+med en hög träningsfrekvens, innebär
+att idrottandet upptar en stor del av
+tillvaron och starkt påverkar ungdomar-
+nas välmående och identitetsskapande.
+Detta ställer krav på både förening och
+idrottshall att svara upp mot ungdo-
+
 2\. NULÄGE OCH UTMANINGAR
 
-är positivt laddad för de barn som ungdomarna mindre beroende av De största värdena av
-deltog liksom att det är en plats där de föräldrar eller andra vuxna för att ta
+De största värdena av
 föreningsaktiviteten enligt
-spenderar mycket av sin fritid. I samtalet sig till och från idrottshallen. De åker
 ungdomarna:
-med barnen framkom att idrottshallen främst kommunalt på vinterhalvåret,
-gärna kan spilla över även på utemiljön. under sommarhalvåret är det fler som
+
 • Spela cup!
-Möjligheter till lekträning utanför där de cyklar, går eller – de som har – åker
 • Göra roliga saker i laget
-kan hänga med vänner både före och moped. Transporten med kollektiv-
 • Spela i bättre lag
-efter träning lyftes fram som ovanligt trafiken fungerar olika bra beroende
 • Gemenskapen – folk vill att
-men önskvärt. Det kan vara lekplatser på idrottshallens läge, de hallar som
 man ska lyckas
-för äldre barn, som utmanar fysiskt ligger mer avsides och med mindre täta
 • Alla känner alla, man blir bra
-samtidigt som de utgör spännande förbindelser skapar mycket väntetid
 vänner
-mötesplatser – en kombination av lek, för ungdomarna som tar tid från läxor,
 • Möjlighet att gå upp, att
-träning och samvaro i ett. Även mötes- socialt umgänge och viktiga mellanmål.
 utvecklas
-platser inomhus är viktiga för barnen, Det finns dock de ungdomar som ”helst
 • Att träffa andra
-platser där de kan äta, göra läxor och inte får åka själva” till idrottshallarna
-umgås före och efter träningen. De eftersom föräldrarna upplever områ-
-berättade om aktiverande platser med dena som oroliga och otrygga vilket marnas behov att känna sig sedda,
-möjligheter till exempelvis pingis och skapar ett stort beroende av föräldrar inkluderade och betydelsefulla. Men
-fotbollsspel men också avkopplande eller andra vuxna för att överhuvudtaget också att svara upp mot deras behov
-platser med mjuka och gröna inslag kunna ta sig till idrottshallen och av möjlighet att göra läxor, äta och
-som lugnar.            därmed fortsätta utöva sin idrott. Det återhämta sig ordentligt – många av
-går att ana att detta fenomen har både ungdomarna har träningstider som gör
-Ungdomarna             jämställdhets- och socioekonomiska att de kommer hem sent på kvällen.
-De flesta ungdomar åker hem mellan aspekter.   Möjligheterna att möta framförallt
-skola och träning. De ungdomar som Många av ungdomarna går på skolor de äldre spelarna är viktigt för ungdo-
-har långt hem är dock beroende av en med idrottsprofil vilket, i kombination marna. Att se och inspireras av deras
-plats där de kan vila, göra läxor och äta med en hög träningsfrekvens, innebär träningar är lärorikt men också en morot
-mellan skola och träning. Här saknas att idrottandet upptar en stor del av – ”det där kan vara jag snart”. Därför är
-generellt kvalitativa platser som är både tillvaron och starkt påverkar ungdomar- åskådarplatser och synlighet viktigt för
-trivsamma och praktiska med möjlighet nas välmående och identitetsskapande. ungdomarna. De önskar också större
-att värma matlådor eller köpa riktig mat. Detta ställer krav på både förening och möjlighet till spontanträning av den
-Jämfört med de yngre barnen är idrottshall att svara upp mot ungdo- egna idrotten, att kunna ”nöta” före och
+marnas behov att känna sig sedda,
+inkluderade och betydelsefulla. Men
+också att svara upp mot deras behov
+av möjlighet att göra läxor, äta och
+återhämta sig ordentligt – många av
+ungdomarna har träningstider som gör
+att de kommer hem sent på kvällen.
+Möjligheterna att möta framförallt
+de äldre spelarna är viktigt för ungdo-
+marna. Att se och inspireras av deras
+träningar är lärorikt men också en morot
+– ”det där kan vara jag snart”. Därför är
+åskådarplatser och synlighet viktigt för
+ungdomarna. De önskar också större
+möjlighet till spontanträning av den
+egna idrotten, att kunna ”nöta” före och
 
 Dialog med föreningsaktiva barn i Satelliten, Sollentuna. Dialog med föreningsaktiva ungdommar i Täljehallen, Södertälje.
 Foto: White arkitekter             Foto: White arkitekter
@@ -26386,140 +29490,295 @@ Foto: White arkitekter             Foto: White arkitekter
 
 Ungdomarna beskriver
 framtidens idrottshall
-Ungdomarna är ambivalenta till om besöka den.
 såhär:
-det är bra att idrottshallen erbjuder mer Ungdomarna lockas av hallar där
-trivsamma platser för social samvaro. man kan utöva många olika sporter. De
+
 • Fräsch
-För egen del vill de gärna kunna är inte en del av föreningsidrotten idag,
 • Rymlig
-nyttja platser av café och ungdoms- även om de är fysiskt aktiva på sin fritid
 • Trygg
-gårdskaraktär med mjuka och sociala genom att nyttja spontanfotbollsplaner
 • Epic - framtidsaktig, utveck-
-inslag som soffor och pingisbord, eller spela pingis på fritidsgården
 lad teknologi
-men de landar ändå i att det är bäst tillsammans med vänner. Det finns
-att idrottshallen inte är för inbjudande emellertid en vilja och hos vissa en stor
-eftersom de då tror att andra ungdomar längtan att delta i organiserad idrotts-
-efter huvudträningen för att bli bättre. som inte idrottar kommer vilja hänga där aktivitet vilket samtliga gjort tidigare,
-Gemenskapen och prestationen är och förstöra. Ungdomarna är mycket ofta i annat land. Förutom ekonomiska
-i fokus för ungdomarna, att ha roligt medvetna om gränsen mellan de som trösklar så är det framförallt information
-och lyckas tillsammans med sin grupp. är innanför respektive utanför idrotts- som saknas, mentala trösklar och en
-Några ungdomar uttrycker värdet av föreningsgemenskapen. De diskuterar trötthet på att komma utifrån och att
-närheten till andra idrotter och möjlighe- möjligheten att tydliggöra gränsen ha pressen att överprestera för att
-ten att utöva dessa i anslutning till den mellan innanförskapet och utanförska- bevisa att man duger tillräckligt för att
-egna träningen. Annars är det snarare pet genom olika tillgänglighetslösningar få vara med. Fritidsgården däremot är
-möjligheten till varierad fysträning, som passerkort/klubbkort. en trygg plats att vara på, de kommer
-rehabiliteringsträning, egen träning Vistelsemöjligheterna i anslutning hit för att träffa ungdomsledarna och
-och uppvärmning som efterfrågas, till huvudträningen och planen är idag sina vänner, för att spela pingis eller
-framförallt i form av ett välutrustat gym. ofta begränsade till enstaka bänkar bara hänga. Fritidsgården har generösa
-Det är viktigt med transparens och i hörn eller redskap. Ungdomarna öppettider på eftermiddagar och kvällar
-närhet, den som är i gymmet ska inte uttrycker ett behov av mer utrymme i (även helger) och har inget krav på
-känna sig utanför utan det ska kännas direkt anslutning till planen där de kan föranmälan, det är bara att hänga med/
-som en naturlig förlängning av själva hänga före och efter huvudträningen dyka upp. Detta är sannolikt en stor
-planen – hallens hjärta. (även under träningen för de med långa tröskelsänkare som ökar tillgänglighe-
-träningspass), där de kan samlas inför ten och besöken.
-och efter träningen med sin grupp och
-Föreningsgemenskapen är värdefull sin ledare, där de kan prata med vänner Samtal med mammor och deras
-och en stor anledning till engagemang. och där de kan prata med tränare. barn i Vårberg
-Vissa ungdomar är aktiva även som Vissa ungdomar nyttjar även Ett av landets många områden med
-tränare för yngre barn, ofta i anslutning idrottshallens utemiljö för fysträning, mycket lågt föreningsdeltagandet
-till den egna träningen. Idag saknas egen träning och uppvärmning. Idag är Vårberg. Genom att söka upp
-ofta platser för samvaro, för att hänga tycker de att de flesta utemiljöer inte är stadsdelsförvaltningens organiserade
-med vänner men också för att äta och så tilltalande eller skapar förutsättningar Kvinnofika kunde ett samtal kring
-göra läxor. Omklädningsrummen har en för träning. Det är också utomhus, i fritidsaktiviteter och de upplevda
-sådan potential men är ofta ofräscha i anslutning till idrottshallen, som de möjligheterna att delta i idrottsförening
-termer av icke-inbjudande gestaltning flesta ungdomar säger att de träffar föras. Då flera studier visar att man i
-(kalt och hårt), bristfällig städning, vänner och andra ungdomar som inte hög grad föds in i föreningsidrotten
-och toaletter utan papper och tvål. De idrottar. är det centralt att förstå mammornas
-upplevs också ofta som obehagliga i          perspektiv och utforska hur framtidens
-termer av exponering. Dels är de ofta Samtal med ungdomar på idrottshall skulle inkludera även dem.
-planerade och placerade så att andra Högdalens fritidsgård Generellt saknas vetskap om att det
-ser rakt in i omklädningsrummet när Barn och unga som står utanför finns ett föreningsliv. I några fall finns ett
-dörren öppnas vilket gör att många idrottsföreningarna söker sig ofta fri- intresse, ett av barnen har själva försökt
-väljer att byta om hemma eller på en tidsaktiviteter som fritidsgård, bibliotek hitta en basketförening, men inte fått
-låsbar toalett. Dels är ljudexponeringen och simhall. I samtal med ungdomar stöd och helt enkelt haft svårt att förstå
-hög i omklädningsrummen, de är ofta på Högdalens fritidsgård kommer hur man ska gå tillväga. Det verkar
-stora och kala vilket gör att ljuden från kvaliteter de ser i ”sin” verksamhet fram finnas en lucka mellan kommun och
-hallen tränger sig in och skapar en som skulle gynna vistelsekvaliteter i förening och ingen som aktivt ansvarar
-obehaglig stressfylld känsla. framtidens idrottshall och få dem att för att inkludera och jobba uppsökande
+
+efter huvudträningen för att bli bättre.
+Gemenskapen och prestationen är
+i fokus för ungdomarna, att ha roligt
+och lyckas tillsammans med sin grupp.
+Några ungdomar uttrycker värdet av
+närheten till andra idrotter och möjlighe-
+ten att utöva dessa i anslutning till den
+egna träningen. Annars är det snarare
+möjligheten till varierad fysträning,
+rehabiliteringsträning, egen träning
+och uppvärmning som efterfrågas,
+framförallt i form av ett välutrustat gym.
+Det är viktigt med transparens och
+närhet, den som är i gymmet ska inte
+känna sig utanför utan det ska kännas
+som en naturlig förlängning av själva
+planen – hallens hjärta.
+
+Föreningsgemenskapen är värdefull
+och en stor anledning till engagemang.
+Vissa ungdomar är aktiva även som
+tränare för yngre barn, ofta i anslutning
+till den egna träningen. Idag saknas
+ofta platser för samvaro, för att hänga
+med vänner men också för att äta och
+göra läxor. Omklädningsrummen har en
+sådan potential men är ofta ofräscha i
+termer av icke-inbjudande gestaltning
+(kalt och hårt), bristfällig städning,
+och toaletter utan papper och tvål. De
+upplevs också ofta som obehagliga i
+termer av exponering. Dels är de ofta
+planerade och placerade så att andra
+ser rakt in i omklädningsrummet när
+dörren öppnas vilket gör att många
+väljer att byta om hemma eller på en
+låsbar toalett. Dels är ljudexponeringen
+hög i omklädningsrummen, de är ofta
+stora och kala vilket gör att ljuden från
+hallen tränger sig in och skapar en
+obehaglig stressfylld känsla.
+
 20
 
+Ungdomarna är ambivalenta till om
+det är bra att idrottshallen erbjuder mer
+trivsamma platser för social samvaro.
+För egen del vill de gärna kunna
+nyttja platser av café och ungdoms-
+gårdskaraktär med mjuka och sociala
+inslag som soffor och pingisbord,
+men de landar ändå i att det är bäst
+att idrottshallen inte är för inbjudande
+eftersom de då tror att andra ungdomar
+som inte idrottar kommer vilja hänga där
+och förstöra. Ungdomarna är mycket
+medvetna om gränsen mellan de som
+är innanför respektive utanför idrotts-
+föreningsgemenskapen. De diskuterar
+möjligheten att tydliggöra gränsen
+mellan innanförskapet och utanförska-
+pet genom olika tillgänglighetslösningar
+som passerkort/klubbkort.
+Vistelsemöjligheterna i anslutning
+till huvudträningen och planen är idag
+ofta begränsade till enstaka bänkar
+i hörn eller redskap. Ungdomarna
+uttrycker ett behov av mer utrymme i
+direkt anslutning till planen där de kan
+hänga före och efter huvudträningen
+(även under träningen för de med långa
+träningspass), där de kan samlas inför
+och efter träningen med sin grupp och
+sin ledare, där de kan prata med vänner
+och där de kan prata med tränare.
+Vissa ungdomar nyttjar även
+idrottshallens utemiljö för fysträning,
+egen träning och uppvärmning. Idag
+tycker de att de flesta utemiljöer inte är
+så tilltalande eller skapar förutsättningar
+för träning. Det är också utomhus, i
+anslutning till idrottshallen, som de
+flesta ungdomar säger att de träffar
+vänner och andra ungdomar som inte
+idrottar.
+Samtal med ungdomar på
+Högdalens fritidsgård
+Barn och unga som står utanför
+idrottsföreningarna söker sig ofta fri-
+tidsaktiviteter som fritidsgård, bibliotek
+och simhall. I samtal med ungdomar
+på Högdalens fritidsgård kommer
+kvaliteter de ser i ”sin” verksamhet fram
+som skulle gynna vistelsekvaliteter i
+framtidens idrottshall och få dem att
+
+besöka den.
+Ungdomarna lockas av hallar där
+man kan utöva många olika sporter. De
+är inte en del av föreningsidrotten idag,
+även om de är fysiskt aktiva på sin fritid
+genom att nyttja spontanfotbollsplaner
+eller spela pingis på fritidsgården
+tillsammans med vänner. Det finns
+emellertid en vilja och hos vissa en stor
+längtan att delta i organiserad idrotts-
+aktivitet vilket samtliga gjort tidigare,
+ofta i annat land. Förutom ekonomiska
+trösklar så är det framförallt information
+som saknas, mentala trösklar och en
+trötthet på att komma utifrån och att
+ha pressen att överprestera för att
+bevisa att man duger tillräckligt för att
+få vara med. Fritidsgården däremot är
+en trygg plats att vara på, de kommer
+hit för att träffa ungdomsledarna och
+sina vänner, för att spela pingis eller
+bara hänga. Fritidsgården har generösa
+öppettider på eftermiddagar och kvällar
+(även helger) och har inget krav på
+föranmälan, det är bara att hänga med/
+dyka upp. Detta är sannolikt en stor
+tröskelsänkare som ökar tillgänglighe-
+ten och besöken.
+Samtal med mammor och deras
+barn i Vårberg
+Ett av landets många områden med
+mycket lågt föreningsdeltagandet
+är Vårberg. Genom att söka upp
+stadsdelsförvaltningens organiserade
+Kvinnofika kunde ett samtal kring
+fritidsaktiviteter och de upplevda
+möjligheterna att delta i idrottsförening
+föras. Då flera studier visar att man i
+hög grad föds in i föreningsidrotten
+är det centralt att förstå mammornas
+perspektiv och utforska hur framtidens
+idrottshall skulle inkludera även dem.
+Generellt saknas vetskap om att det
+finns ett föreningsliv. I några fall finns ett
+intresse, ett av barnen har själva försökt
+hitta en basketförening, men inte fått
+stöd och helt enkelt haft svårt att förstå
+hur man ska gå tillväga. Det verkar
+finnas en lucka mellan kommun och
+förening och ingen som aktivt ansvarar
+för att inkludera och jobba uppsökande
+
 <!-- sida 642 -->
+
+”
+Jag  spelade
+
+basket   tidigare
+när  vi bodde  i
+
+Kurdistan,   men   nu
+vet jag  inte riktigt
+
+hur  man  hittar ett
+lag.
+
+\- 13 årig tjej, Vårbergs torsdagsfika
+
+i tillräcklig grad. Också tillgång till
+hallen är central, hallens placering och
+utformning har stora konsekvenser för
+tillgängligheten och möjligheten att
+locka fler.
+Kostnad för deltagande är en
+stor barriär. För den som inte har
+pengar till barnens vardagskläder är
+terminsavgifter en omöjlig utgift, särskilt
+när deltagande även förutsätter inköp
+av kläder, skor och annan utrustning.
+Detta skapar en stress som hindrar
+föräldrar att ens utforska möjligheterna
+till deltagande; bara tanken på att det
+ska kosta pengar gör att föräldrarna inte
+vill närma sig.
+Kortare engagemang i nära
+samband till skolan, exempelvis
+skollovsverksamhet är en jättepotential
+för att skapa en mer långvarig relation
+med barnen och familjerna. Där kan
+man berätta om förutsättningarna för
+deltagarna och de möjligheter som de
+flesta föreningarna erbjuder de barn
+och familjer som av ekonomiska skäl
+annars inte kan delta.
+Samtal med idrottslärare på
+Hammarbyskolan Norra
+Idrotten i skolan är den verksamhet
+som erbjuder vardagsrörelse för flest
+barn, likaså är det en introduktion till
+idrottshallen och rörelseförmåga som
+ska finnas tillgänglig för alla barn,
+oavsett förmåga eller förutsättningar.
+I skolan finns alla barn, idrotten blir
+därför en naturlig samarbetspartner
 
 2\. NULÄGE OCH UTMANINGAR
 
 Slutsatser:
-”
-Jag  spelade           för idrottsföreningarna i olika typer av
-• Det behövs plats för gemen-
+
+för idrottsföreningarna i olika typer av
 breddningssatsningar, exemplifierat i
-basket   tidigare        bl.a. Handslaget och Idrottslyftet. skap, organiserad och
-spontan, i rörelse och i vila.
+bl.a. Handslaget och Idrottslyftet.
 Rörelseförståelse är essensen i
-när vi bodde   i
-undervisningen, framförallt på låg- och • Idrottshallen behöver bättre
-Kurdistan,   men   nu    mellanstadiet. Detta ställer krav på möta upp vardagsbehov
-tillgång till utrustning för att bygga utanför själva idrottsaktivi-
-vet jag inte  riktigt    hinderbanor och facilitera olika övningar teten så som plats att äta,
-som byggs av idrottsläraren i förväg umgänge, återhämtning och
-hur  man  hittar ett
-eller av idrottsläraren och barnen till- läxläsning.
-lag.                     sammans. Utrustning som lätt kan dras • Det är viktigt att ta tillvara
+undervisningen, framförallt på låg- och
+mellanstadiet. Detta ställer krav på
+tillgång till utrustning för att bygga
+hinderbanor och facilitera olika övningar
+som byggs av idrottsläraren i förväg
+eller av idrottsläraren och barnen till-
+
+• Det behövs plats för gemen-
+skap, organiserad och
+spontan, i rörelse och i vila.
+• Idrottshallen behöver bättre
+möta upp vardagsbehov
+utanför själva idrottsaktivi-
+teten så som plats att äta,
+umgänge, återhämtning och
+läxläsning.
+
+sammans. Utrustning som lätt kan dras • Det är viktigt att ta tillvara
 fram, liksom tillgängliga och närligg- på idrottshallens alla
 ande förråd. Utrustningen som finns möjligheter att tillgänglig-
-\- 13 årig tjej, Vårbergs torsdagsfika tillgänglig - och används frekvent - är göra och locka till rörelse,
+tillgänglig - och används frekvent - är göra och locka till rörelse,
 den klassiska gymnastikhallens men det från det stora hallgolvet ut
 vore önskvärt att den kompletteras av till intilliggande närmiljö.
-i tillräcklig grad. Också tillgång till annan utrustning som även den lockar
-• Idrottshallen skall placeras
-hallen är central, hallens placering och och utmanar till rörelse men samtidigt
+annan utrustning som även den lockar
+•  Idrottshallen skall placeras
+och utmanar till rörelse men samtidigt
 tillgängligt och tryggt,
-utformning har stora konsekvenser för möter upp dagens idrottsrörelse med
+möter upp dagens idrottsrörelse med
 nära barnens naturliga
-tillgängligheten och möjligheten att inslag av ex parkour och klättervägg.
+inslag av ex parkour och klättervägg.
 målpunkter.
-locka fler.            Att samnyttja utrustning med idrottsför-
-• En allmän kunskap
-Kostnad för deltagande är en eningar, speciellt gymnastikföreningar,
+Att samnyttja utrustning med idrottsför-
+•  En allmän kunskap
+eningar, speciellt gymnastikföreningar,
 om föreningsidrottens
-stor barriär. För den som inte har är en framgångsfaktor för ett brett
+är en framgångsfaktor för ett brett
 är inte att ta för givet.
-pengar till barnens vardagskläder är utrustningsutbud. Samverkan med
+utrustningsutbud. Samverkan med
 Synlighet och uppsökande
-terminsavgifter en omöjlig utgift, särskilt olika idrottsföreningar generellt är en
+olika idrottsföreningar generellt är en
 verksamhet är därför ett
-när deltagande även förutsätter inköp framgångsfaktor för breddat deltagande
+framgångsfaktor för breddat deltagande
 viktigt verktyg för att öka
-av kläder, skor och annan utrustning. i idrottsföreningar. Det finns stor poten-
+i idrottsföreningar. Det finns stor poten-
 föreningsdeltagandet.
-Detta skapar en stress som hindrar tial att använda hallen för den typen av
-föräldrar att ens utforska möjligheterna aktiviteter mellan fritidsverksamhet och • Integrerade verksamheter
-till deltagande; bara tanken på att det föreningsverksamhet (ofta vid 16-17). är viktiga, både nära
-ska kosta pengar gör att föräldrarna inte En idrottshall för rörelseglädje och samverkan med skola och
-vill närma sig.        rörelseförståelse är emellertid mer än med andra kommunala
-Kortare engagemang i nära utrustning i det stora hallrummet. Hela fritidsverksamheter.
-samband till skolan, exempelvis hallen ska locka till rörelse och utmana • Kostnader och krav på egen
-skollovsverksamhet är en jättepotential rörelseförståelse: trappor kan vara utrustning är höga trösklar.
-för att skapa en mer långvarig relation utmanande ”likt lustiga huset men utan Varje hall bör ha utrymme
-med barnen och familjerna. Där kan att de rör sig”, all yta för förflyttning för utlåningsverksamhet
-man berätta om förutsättningarna för kan vara lekfullt utformat för att skapa och främja ett delnings-
-deltagarna och de möjligheter som de rörelseglädje och rörelse hela vägen in ekonomiskt agerande inom
-flesta föreningarna erbjuder de barn i hallrummet. Även hallens utsida bör föreningarna.
-och familjer som av ekonomiska skäl bättre visa vad hallen är och erbjuder.
-annars inte kan delta. Vägen till och in i hallen ska även den
+tial att använda hallen för den typen av
+aktiviteter mellan fritidsverksamhet och • Integrerade verksamheter
+föreningsverksamhet (ofta vid 16-17). är viktiga, både nära
+En idrottshall för rörelseglädje och samverkan med skola och
+rörelseförståelse är emellertid mer än med andra kommunala
+utrustning i det stora hallrummet. Hela fritidsverksamheter.
+hallen ska locka till rörelse och utmana • Kostnader och krav på egen
+rörelseförståelse: trappor kan vara utrustning är höga trösklar.
+utmanande ”likt lustiga huset men utan Varje hall bör ha utrymme
+att de rör sig”, all yta för förflyttning för utlåningsverksamhet
+kan vara lekfullt utformat för att skapa och främja ett delnings-
+rörelseglädje och rörelse hela vägen in ekonomiskt agerande inom
+i hallrummet. Även hallens utsida bör föreningarna.
+bättre visa vad hallen är och erbjuder.
+Vägen till och in i hallen ska även den
 utmana och locka till rörelse.
-Samtal med idrottslärare på Hallen som den är utformad idag utvecklingspotential, idag sker de flesta
-Hammarbyskolan Norra   främjar de som tar plats och trivs i konflikter under idrottslektionerna där,
-Idrotten i skolan är den verksamhet prestationsmoment. De som hellre framförallt pga deras ofta perifera läge
-som erbjuder vardagsrörelse för flest drar sig undan i sin rörelse (oavsett och avsaknaden av vuxna.
-barn, likaså är det en introduktion till förmåga) får ingen plats eftersom
-idrottshallen och rörelseförmåga som planen i många skolidrottshallar är det
-ska finnas tillgänglig för alla barn, samma som hallgolvet - det finns ingen
-oavsett förmåga eller förutsättningar. mindre exponerad zon runtomkring.
-I skolan finns alla barn, idrotten blir Här finns stor utvecklingspotential.
-därför en naturlig samarbetspartner Även omklädningsrummen har stor
+Hallen som den är utformad idag utvecklingspotential, idag sker de flesta
+främjar de som tar plats och trivs i konflikter under idrottslektionerna där,
+prestationsmoment. De som hellre framförallt pga deras ofta perifera läge
+drar sig undan i sin rörelse (oavsett och avsaknaden av vuxna.
+förmåga) får ingen plats eftersom
+planen i många skolidrottshallar är det
+samma som hallgolvet - det finns ingen
+mindre exponerad zon runtomkring.
+Här finns stor utvecklingspotential.
+Även omklädningsrummen har stor
+
 21
 
 <!-- sida 643 -->
@@ -26558,30 +29817,11 @@ för samling och uppvärmning. Flera
 av barnen kommenterar att hallen är i
 dåligt skick, vilket även en större andel
 
-Slutsatser:
-• Hallbristen är en stor
-begränsning för de
-föreningsaktiva.
-• I motsats till bristen önskar
-man sig en stor och rymlig
-hall, som tillgängliggör idrott
-alla dygnets timmar.
-• De svarande ser framtidens
-idrottshall som en
-samlingsplats som skapas
-och genomsyras av glädje,
-gemenskap, och möten.
-• En stor andel av föräldrarna
-skulle vilja träna medan
-Kartan redovisar geografisk position för       barnen är aktiva.
-1700 av de som svarade på enkäten.          • Många hallar nås främst med
-bil.
+Kartan redovisar geografisk position för
+1700 av de som svarade på enkäten.
 
 22
-duolcdrow
-01-30-0202
-1/1
-moc.sduolcdrow.www//:sptth
+
 av föräldrarna poängterar.
 I fritextsvaren att beskriva framtidens
 idrottshall med ett ord speglas
@@ -26594,23 +29834,21 @@ Det viktigaste i framtidens
 idrottshall
 På frågan om vad som är viktigast
 i framtidens idrottshall är det två
-Samtliga enkätdeltagares ord
 aspekter som utmärker sig. Att det är
-om framtidens idrottshall.
 en mötesplats för både vuxna och barn
-och att det är en plats för att idrotta och hall ska vara en samlingsplats och en
-röra på sig. Föräldrarna och tränarna mötesplats. Några av de framträdande
-väljer i första hand vikten av att det är orden beskriver en atmosfär, hallen
-en mötesplats för både vuxna och barn ska vara välkomnande, inbjudande,
-medan de föreningsaktiva barnen och inspirerande, modern och en plats för
-ungdomarna valt de tre aspekterna; glädje och rörelseglädje. Den ska vara
-utrymmet att få röra sig på, möjligheten en flexibel, funktionell, rymlig, stor och
-att röra sig på flera olika sätt samt öppen multihall. Sammantaget kan
-utrymme att hänga med kompisar. detta beskriva en hall där utrymmesbrist
-Beträffande föräldrarnas aktivitet eller bristande funktion inte är en
-i hallen är det 64% som tittar på sina aspekt, utan där hallen istället hela tiden
-barn när de tränar. På frågan om vad erbjuder rum och material för rörelse.
-föräldrarna skulle vilja göra medan På olika sätt, och för många.
+och att det är en plats för att idrotta och
+röra på sig. Föräldrarna och tränarna
+väljer i första hand vikten av att det är
+en mötesplats för både vuxna och barn
+medan de föreningsaktiva barnen och
+ungdomarna valt de tre aspekterna;
+utrymmet att få röra sig på, möjligheten
+att röra sig på flera olika sätt samt
+utrymme att hänga med kompisar.
+Beträffande föräldrarnas aktivitet
+i hallen är det 64% som tittar på sina
+barn när de tränar. På frågan om vad
+föräldrarna skulle vilja göra medan
 barnen tränar svarar drygt en tredjedel
 att de skulle vilja träna själva, vilket är
 lika många som svarar att de vill titta
@@ -26630,6 +29868,50 @@ Att känna gemenskap är en central
 del i föreningslivet och understryks även
 av enkätdeltagarna. Framtidens idrotts-
 
+Samtliga enkätdeltagares ord
+om framtidens idrottshall.
+hall ska vara en samlingsplats och en
+mötesplats. Några av de framträdande
+orden beskriver en atmosfär, hallen
+ska vara välkomnande, inbjudande,
+inspirerande, modern och en plats för
+glädje och rörelseglädje. Den ska vara
+en flexibel, funktionell, rymlig, stor och
+öppen multihall. Sammantaget kan
+detta beskriva en hall där utrymmesbrist
+eller bristande funktion inte är en
+aspekt, utan där hallen istället hela tiden
+erbjuder rum och material för rörelse.
+På olika sätt, och för många.
+
+Slutsatser:
+
+• Hallbristen är en stor
+begränsning för de
+föreningsaktiva.
+• I motsats till bristen önskar
+man sig en stor och rymlig
+hall, som tillgängliggör idrott
+alla dygnets timmar.
+• De svarande ser framtidens
+idrottshall som en
+samlingsplats som skapas
+och genomsyras av glädje,
+gemenskap, och möten.
+• En stor andel av föräldrarna
+skulle vilja träna medan
+barnen är aktiva.
+• Många hallar nås främst med
+bil.
+
+2020-03-10
+
+wordcloud
+
+https://www.wordclouds.com
+
+1/1
+
 <!-- sida 644 -->
 
 Bilder från webbenkät, som visar de svarandes favoritplats i hallen. Merpaten av bilderna visar det stora hall-
@@ -26648,19 +29930,8 @@ hallen!
 <!-- sida 646 -->
 
 25
-Foton:
-Daniel
-Sternholm,
-Unisport,
-LOA-fonden,
-Thomas
-Zaar,
-White
-arkitekter,
-Robert
-Boman,
-Basketbollförbundet,
-Parasportförbundet
+
+Fo ton : D an ie l S te rnho lm , Un ispo rt, LOA -fonden , Thom as Zaa r, W h ite a rk itek te r, Robe rt Bom an , B aske tbo llfö rbunde t, Pa raspo rtfö rbunde t
 
 <!-- sida 647 -->
 
@@ -26668,32 +29939,84 @@ Det     här     är   Framtidens
 
 idrottshall
 
-Framtidens idrottshall skall planeras väntan, pauser och umgänge, som och redskap för gymnastiken. Dessa
-och utformas för rörelseglädje och också kan inspirerar och ge möjlighet ytor kompletteras av en friare rörelsezon
-volymeffektivitet. Här skall alla barn, till rörelse. Viktigt är också platser med fasta och flexibla rörelseutma-
-unga och vuxna känna sig välkomna där man kan samlas i större grupp för ningar på olika nivåer.
-och inspireras till lustfylld rörelse och genomgångar, undervisning, peppning Tillsammans utvecklar de en bred
-idrottande. Detta skall prägla hallens och reflektion. Allt detta utgör grunden i palett av rörelseförståelse.
-alla delar. I Framtidens idrottshall skall Framtidens idrottshall.
-det finnas rum för olika aktivitet och       Volymeffektivitet och
-rörelse.               Rörelseglädje från första stund flerfunktionalitet
-Det stora hallrummet är byggnadens Redan på väg till hallen för en lektion Att utforma och använda idrottshallen
-hjärta, med den stora idrottsytan där eller ett träningspass så lockas man till volymeffektivt och flerfunktionellt ger
-de flesta idrotterna ges ett måttstyrt rörelse, man ser aktiviteten inomhus mer nytta och innehåll för mindre
-utrymme att träna och tävla, som är den och utsidan rymmer lekmöjligheter för insats. Det voluminösa hallrummet
-plats där huvuddelen av aktiviteterna stora som små samt redskap för olika nyttjas både för rörelse, stillasittande
-sker och den plats dit flera av de andra typer av rörelse. Byggnadens utsidor och förvaring. Genom rätt längd och
-delarna i hallen skall angränsa. Men det skapar rörelseglädje och utvecklar breddmått maximeras volymeffektiviten.
-skall också finnas plats för rörelse och rörelseförståelse på tak och fasad och En kompakt och lättillgänglig rörelsezon
-aktivitet vid sidan av själva idrottsytan. med ramper där emellan. Den lekfulla i hallrummet erbjuder flera våningsplan
-Framtidens idrottshall skall också ha utforskande rörelsen leder in i entrén av rörelse av olika sort, här kan samling
-plats för styrketräning och gruppträning, som är full av självinstruerande rörelse, och uppvärmning och styrketräning ske
-generöst med utrymme för uppvärmning samtidigt som den ger en direkt inblick samtidigt som det stora hallrummet
-och träning som inte behöver lika stora i det stora hallrummet och den rörelsen nyttjas för huvudträning eller match.
-friytor och takhöjder. Det skall finnas som pågår där. Även kommunikationsytor är
-förvaringsmöjligheter och plats för Väl inne i det stora hallrummet hittar utformade för rörelse genom att tak,
-omklädning kopplat till hallrummet och man ett flertal planer anpassade för de väggar och golv är anpassade för att
-platser, rum och utrymmen för möten, stora matchsporterna och hoppgropar locka till aktivitet.
+Framtidens idrottshall skall planeras
+och utformas för rörelseglädje och
+volymeffektivitet. Här skall alla barn,
+unga och vuxna känna sig välkomna
+och inspireras till lustfylld rörelse och
+idrottande. Detta skall prägla hallens
+alla delar. I Framtidens idrottshall skall
+det finnas rum för olika aktivitet och
+rörelse.
+Det stora hallrummet är byggnadens
+hjärta, med den stora idrottsytan där
+de flesta idrotterna ges ett måttstyrt
+utrymme att träna och tävla, som är den
+plats där huvuddelen av aktiviteterna
+sker och den plats dit flera av de andra
+delarna i hallen skall angränsa. Men det
+skall också finnas plats för rörelse och
+aktivitet vid sidan av själva idrottsytan.
+Framtidens idrottshall skall också ha
+plats för styrketräning och gruppträning,
+generöst med utrymme för uppvärmning
+och träning som inte behöver lika stora
+friytor och takhöjder. Det skall finnas
+förvaringsmöjligheter och plats för
+omklädning kopplat till hallrummet och
+platser, rum och utrymmen för möten,
+
+väntan, pauser och umgänge, som
+också kan inspirerar och ge möjlighet
+till rörelse. Viktigt är också platser
+där man kan samlas i större grupp för
+genomgångar, undervisning, peppning
+och reflektion. Allt detta utgör grunden i
+Framtidens idrottshall.
+Rörelseglädje från första stund
+Redan på väg till hallen för en lektion
+eller ett träningspass så lockas man till
+rörelse, man ser aktiviteten inomhus
+och utsidan rymmer lekmöjligheter för
+stora som små samt redskap för olika
+typer av rörelse. Byggnadens utsidor
+skapar rörelseglädje och utvecklar
+rörelseförståelse på tak och fasad och
+med ramper där emellan. Den lekfulla
+utforskande rörelsen leder in i entrén
+som är full av självinstruerande rörelse,
+samtidigt som den ger en direkt inblick
+i det stora hallrummet och den rörelsen
+som pågår där.
+Väl inne i det stora hallrummet hittar
+man ett flertal planer anpassade för de
+stora matchsporterna och hoppgropar
+
+och redskap för gymnastiken. Dessa
+ytor kompletteras av en friare rörelsezon
+med fasta och flexibla rörelseutma-
+ningar på olika nivåer.
+Tillsammans utvecklar de en bred
+palett av rörelseförståelse.
+Volymeffektivitet och
+flerfunktionalitet
+Att utforma och använda idrottshallen
+volymeffektivt och flerfunktionellt ger
+mer nytta och innehåll för mindre
+insats. Det voluminösa hallrummet
+nyttjas både för rörelse, stillasittande
+och förvaring. Genom rätt längd och
+breddmått maximeras volymeffektiviten.
+En kompakt och lättillgänglig rörelsezon
+i hallrummet erbjuder flera våningsplan
+av rörelse av olika sort, här kan samling
+och uppvärmning och styrketräning ske
+samtidigt som det stora hallrummet
+nyttjas för huvudträning eller match.
+Även kommunikationsytor är
+utformade för rörelse genom att tak,
+väggar och golv är anpassade för att
+locka till aktivitet.
 
 Schema över hallens innehåll
 
@@ -26713,12 +30036,12 @@ K L Ä
 DNING
 S R
 I f n u l u l e t u n r r y s k m s t t r o i a o m m t n i e o e i . n r fl e i e n e r a n v i f i s a d a l r l o r k t i a t f s n ö h r d a s l t e l a , l a f h u s a n a n k m d ti o m - a
-H          M  M       U                          Entré
-O       M
+H          M   M      U                           Entré
+O      M
 Hallrummet
 Mycket för många
 EN
-T                       Mer rörelse
+T                        Mer rörelse
 R
 Mindre rörelse
 É
@@ -26732,8 +30055,8 @@ RING
 S
 KAN
 S
-R            O                     L
-Ö            C                      I
+R            O                      L
+Ö             C                     I
 F             IA
 L YTA
 IROET
@@ -26755,39 +30078,81 @@ G                                    LÄDJE
 M
 E
 S
-26             E L
+26              E L
 R
 Ö
 R
 
 <!-- sida 648 -->
 
+Omklädningsrummen nyttjas även
+de för samling och rörelse, anpassade
+både för skola och föreningar. Rymliga
+och samnyttjade förråd som både
+ansluter till hallrummet och utsidan
+kompletteras med små låsbara enheter,
+Förvaring sker dessutom med plats-
+specifika och integrerade lösningar i
+hela hallen.
+En plats för möten och vardagsliv
+Hallens sociala ytor stärker förenings-
+gemenskapen samtidigt som de
+möjliggör en vidgad gemenskap genom
+att skapa tillfälle och utrymme för möten
+mellan olika människor, olika aktiviteter
+och olika verksamheter.
+För den som har hallen som sin
+vardagslivstillvaro finns plats för att äta,
+göra läxor och träffa vänner före och
+efter träning. Hallens utsida möjliggör
+rörelse oberoende av bokningar eller
+
+öppettider.
+
+En hall som erbjuder mycket för
+många
+Hallen är lättillgänglig, den är placerad
+i ett sammanhang med liv och rörelse
+och nås enkelt med kollektivtrafik.
+Den ligger nära skolan för att skapa
+trygga vägar och öka nyttjandet.
+Trivselskapande belysning och fasader
+som öppnar upp sig mot omgivningen
+är självklara delar i framtidens idrotts-
+hall.
+När du byter om i framtidens idrotts-
+hall väljer du den typ av omklädning
+som känns tryggt, vare sig du vill byta
+om i grupp eller som enskild. Entrén
+har låga trösklar, den är väl synlig och
+lättillgänglig. Väl inne finns det redskap
+att låna och information att hitta. Alla
+inte bara är välkomna, utan känner sig
+också välkomna.
+
 4\. VÄLKOMMEN TILL HALLEN
 
 Visionsbild för Framtidens idrottshall
 
-Omklädningsrummen nyttjas även öppettider.    Hallen erbjuder rum med olika
-de för samling och rörelse, anpassade        exponeringsgrad och skala. Onstage-
-både för skola och föreningar. Rymliga En hall som erbjuder mycket för ytorna där du är som mest exponerad
-och samnyttjade förråd som både många        kompletteras med offstage och
-ansluter till hallrummet och utsidan Hallen är lättillgänglig, den är placerad backstagerum i en mer intim skala.
-kompletteras med små låsbara enheter, i ett sammanhang med liv och rörelse Detta skapar vistelsekvalitéer för många
-Förvaring sker dessutom med plats- och nås enkelt med kollektivtrafik. situationer och behov. Det finns en
-specifika och integrerade lösningar i Den ligger nära skolan för att skapa mängd tillgängliga rörelsemöjligheter på
-hela hallen.           trygga vägar och öka nyttjandet. olika nivåer och av olika karaktär.
-Trivselskapande belysning och fasader Hallen möjliggör samnyttjande mel-
-En plats för möten och vardagsliv som öppnar upp sig mot omgivningen lan olika kompletterande verksamheter
-Hallens sociala ytor stärker förenings- är självklara delar i framtidens idrotts- och blir på så vis en målpunkt för fler.
-gemenskapen samtidigt som de hall.
-möjliggör en vidgad gemenskap genom När du byter om i framtidens idrotts- Hållbar och attraktiv
-att skapa tillfälle och utrymme för möten hall väljer du den typ av omklädning Framtidens idrottshall är byggd i
-mellan olika människor, olika aktiviteter som känns tryggt, vare sig du vill byta hållbara material och möter framtida
-och olika verksamheter. om i grupp eller som enskild. Entrén hållbarhetskrav för hela livscykeln. Med
-För den som har hallen som sin har låga trösklar, den är väl synlig och en attraktiv gestaltning och kvalitativa
-vardagslivstillvaro finns plats för att äta, lättillgänglig. Väl inne finns det redskap material skapas en publik byggnad som
-göra läxor och träffa vänner före och att låna och information att hitta. Alla blir omtyckt och håller längre.
-efter träning. Hallens utsida möjliggör inte bara är välkomna, utan känner sig
-rörelse oberoende av bokningar eller också välkomna.
+Hallen erbjuder rum med olika
+exponeringsgrad och skala. Onstage-
+ytorna där du är som mest exponerad
+kompletteras med offstage och
+backstagerum i en mer intim skala.
+Detta skapar vistelsekvalitéer för många
+situationer och behov. Det finns en
+mängd tillgängliga rörelsemöjligheter på
+olika nivåer och av olika karaktär.
+Hallen möjliggör samnyttjande mel-
+lan olika kompletterande verksamheter
+och blir på så vis en målpunkt för fler.
+Hållbar och attraktiv
+Framtidens idrottshall är byggd i
+hållbara material och möter framtida
+hållbarhetskrav för hela livscykeln. Med
+en attraktiv gestaltning och kvalitativa
+material skapas en publik byggnad som
+blir omtyckt och håller längre.
 
 27
 
@@ -26795,67 +30160,148 @@ rörelse oberoende av bokningar eller också välkomna.
 
 Entrén
 
-Entrén till Framtidens skall bli inspirerad bara genom att del av idrottshallens identitet. Här är
-
-idrottshall lockar till rö- se sig omkring, oavsett ålder eller det viktigt att det går att vara både
-erfarenhet. En entré är också en given i flödet och betrakta det från sidan.
+Entrén till Framtidens
+idrottshall lockar till rö-
 relse från första stund
-mötesplats, här passerar alla som är i Sittvänliga trappor eller gradänger,
 för alla åldrar, här finns
-hallen. Här skall man kunna träffa de lösa stolar och bord och bänkar längs
-varken en undre eller en man känner och ta tillvara på idrottshal- väggar är viktiga platser som erbjuder
-övre gräns. Det är attrak- lens möjlighet att skapa möten mellan besökarna möjlighet att betrakta andra
-de som inte känner varandra. I entrén samtidigt som de erbjuder plats för
-tivt att gå in och den er-
-kan man fördriva tid i väntan på ett samvaro och möten. Platser där man
-bjuder ett rum att landa
-pass, en lektion eller en vän. Entrén är också kan läsa läxor eller utrymme för
-i. Både för den som är på också en plats där det finns möjlighet att kunna vara för sig själv. Att äta och
-väg till träning, för den att ta en paus mellan matcher eller dricka för att fylla på med energi eller
-träningspass, där man kan äta och för att ha trevligt behövs i en idrottshall,
-som följer med och för
-dricka.               där dagarna kan bli långa. Där blir ett
-den som inte varit där ti-
-café med servering ett tillskott och en
-digare.                Ett rikt innehåll     möjlighet för föreningar eller skolelever
-Lusten att röra på sig när man kliver in i att få prova att driva en verksamhet och
-Att närma sig och kliva in i en idrottshall Framtidens idrottshall väcks genom att få ett tillskott till klubbkassan. I caféet
-kan för många vara en del av den dag- kunna se rakt in i hallen och direkt ta del bör det också finnas möjlighet att värma
-liga rutinen, men för andra något helt av hallens aktiviteter. Golv och väggar medhavd mat. Allt detta är så kallade
-nytt. Att utforma en entré till att bjuda förses med utrustning för grundmoto- vistelsestödjande delar som uppmunt-
-in är att sänka idrottshallens trösklar risk rörelse såsom klättergrepp, mjuka rar till att intuitivt sätta sig ner, skapa
-och erbjuda fler hallens möjligheter att och hårda golv blandat, ribbstolar, ihop eller röra sig tillsammans.
-röra sig. I publika byggnader pratar man balansutmaningar, golvmönster med Entrén är också en bra plats för
-ofta om att skapa en landningsplats, en mera. Saker som utmanar besökaren låneservice av utrustning såsom bollar,
-plats innanför dörrarna där man i egen eller lockar till lek för de yngsta. skor, band och kanske ett bytesrum
-takt kan skaffa sig koll på läget och få Entrén som mötesplats skapas där urvuxna kläder och utrustning kan
-en överblick. Att kliva in i Framtidens genom att möjliggöra olika platser att få nytt liv hos andra, något som också
-idrottshall skall också vara att känna sitta eller vara på. Det levande flödet av kan administreras av föreningarna eller
-rörelseglädje från första stund, man många olika är viktigt, det är en central skolan.
+varken en undre eller en
 
-Entré med plats för spontan rörelse. En offstageyta för en stunds ro, i nära
-Virring Skole, Danmark anslutning till entrén. Multihuset Pulsen,
-Foto: LOA Fonden, Leif Tuxen Salling, Danmark. Foto: LOA Fonden,
-Esben Zollner
+övre gräns. Det är attrak-
+tivt att gå in och den er-
+bjuder ett rum att landa
+i. Både för den som är på
+väg till träning, för den
+som följer med och för
+den som inte varit där ti-
+
+digare.
+
+Att närma sig och kliva in i en idrottshall
+kan för många vara en del av den dag-
+liga rutinen, men för andra något helt
+nytt. Att utforma en entré till att bjuda
+in är att sänka idrottshallens trösklar
+och erbjuda fler hallens möjligheter att
+röra sig. I publika byggnader pratar man
+ofta om att skapa en landningsplats, en
+plats innanför dörrarna där man i egen
+takt kan skaffa sig koll på läget och få
+en överblick. Att kliva in i Framtidens
+idrottshall skall också vara att känna
+rörelseglädje från första stund, man
+
 28
+
+skall bli inspirerad bara genom att
+se sig omkring, oavsett ålder eller
+erfarenhet. En entré är också en given
+mötesplats, här passerar alla som är i
+hallen. Här skall man kunna träffa de
+man känner och ta tillvara på idrottshal-
+lens möjlighet att skapa möten mellan
+de som inte känner varandra. I entrén
+kan man fördriva tid i väntan på ett
+pass, en lektion eller en vän. Entrén är
+också en plats där det finns möjlighet
+att ta en paus mellan matcher eller
+träningspass, där man kan äta och
+dricka.
+Ett rikt innehåll
+Lusten att röra på sig när man kliver in i
+Framtidens idrottshall väcks genom att
+kunna se rakt in i hallen och direkt ta del
+av hallens aktiviteter. Golv och väggar
+förses med utrustning för grundmoto-
+risk rörelse såsom klättergrepp, mjuka
+och hårda golv blandat, ribbstolar,
+balansutmaningar, golvmönster med
+mera. Saker som utmanar besökaren
+eller lockar till lek för de yngsta.
+Entrén som mötesplats skapas
+genom att möjliggöra olika platser att
+sitta eller vara på. Det levande flödet av
+många olika är viktigt, det är en central
+
+Entré med plats för spontan rörelse.
+Virring Skole, Danmark
+Foto: LOA Fonden, Leif Tuxen
+
+del av idrottshallens identitet. Här är
+det viktigt att det går att vara både
+i flödet och betrakta det från sidan.
+Sittvänliga trappor eller gradänger,
+lösa stolar och bord och bänkar längs
+väggar är viktiga platser som erbjuder
+besökarna möjlighet att betrakta andra
+samtidigt som de erbjuder plats för
+samvaro och möten. Platser där man
+också kan läsa läxor eller utrymme för
+att kunna vara för sig själv. Att äta och
+dricka för att fylla på med energi eller
+för att ha trevligt behövs i en idrottshall,
+där dagarna kan bli långa. Där blir ett
+café med servering ett tillskott och en
+möjlighet för föreningar eller skolelever
+att få prova att driva en verksamhet och
+få ett tillskott till klubbkassan. I caféet
+bör det också finnas möjlighet att värma
+medhavd mat. Allt detta är så kallade
+vistelsestödjande delar som uppmunt-
+rar till att intuitivt sätta sig ner, skapa
+ihop eller röra sig tillsammans.
+Entrén är också en bra plats för
+låneservice av utrustning såsom bollar,
+skor, band och kanske ett bytesrum
+där urvuxna kläder och utrustning kan
+få nytt liv hos andra, något som också
+kan administreras av föreningarna eller
+skolan.
+
+En offstageyta för en stunds ro, i nära
+anslutning till entrén. Multihuset Pulsen,
+Salling, Danmark. Foto: LOA Fonden,
+Esben Zollner
 
 <!-- sida 650 -->
 
 3\. VÄLKOMMEN TILL HALLEN
 
-Tydlig grafik förenklar orienterbarheten och Ett entrerum med välkommnande café, tydlig siktlinje till hallrummet och
-ger karaktär till rummen. EMU Sports hall,      direkt koppling till hallens övre våning.
-Estland. Foto: Salto Architects   Rotebro Idrottshall. Foto: White arkitekter, Thomas Zaar
+Tydlig grafik förenklar orienterbarheten och
+ger karaktär till rummen. EMU Sports hall,
+Estland. Foto: Salto Architects
 
-Entréns placering      utformade, väl synligt från knutpunkter både genom det ljus som byggnadens
-Att göra entrérummet väl synligt utifrån och hållplatser. insida sprider till utsidan och genom
-förstärker såväl målet med idrottshallen     att det möjliggör ”fler ögon på platsen”
-som mötesplats och plats för lustfylld Locka till att gå in genom att skapa en kontakt mellan de
-rörelse, det skall kännas att det är en Entrén är ett av idrottshallens skylt- som är aktiva på insidan och de som
-plats man vill gå till eller komma till. fönster. Genom att förse den med flera finns på utsidan.
-Därför skall den i byggnaden placeras möjligheter att se in så lockas den som
-utifrån hur det är tänkt att stråk och passerar att gå in och delta. Fönsterna Orienterbarhet
-platser utanför planeras eller är ökar dessutom tryggheten vid entrén, Om man redan i entrén kan förstå vad
+Entréns placering
+Att göra entrérummet väl synligt utifrån
+förstärker såväl målet med idrottshallen
+som mötesplats och plats för lustfylld
+rörelse, det skall kännas att det är en
+plats man vill gå till eller komma till.
+Därför skall den i byggnaden placeras
+utifrån hur det är tänkt att stråk och
+platser utanför planeras eller är
+
+Ett entrerum med välkommnande café, tydlig siktlinje till hallrummet och
+direkt koppling till hallens övre våning.
+Rotebro Idrottshall. Foto: White arkitekter, Thomas Zaar
+
+utformade, väl synligt från knutpunkter
+och hållplatser.
+
+Locka till att gå in
+Entrén är ett av idrottshallens skylt-
+fönster. Genom att förse den med flera
+möjligheter att se in så lockas den som
+passerar att gå in och delta. Fönsterna
+ökar dessutom tryggheten vid entrén,
+
+både genom det ljus som byggnadens
+insida sprider till utsidan och genom
+att det möjliggör ”fler ögon på platsen”
+genom att skapa en kontakt mellan de
+som är aktiva på insidan och de som
+finns på utsidan.
+Orienterbarhet
+Om man redan i entrén kan förstå vad
 man kan göra i en idrottshall blir det
 lättare för den som inte har en stark
 platsanknytning att känna sig bekväm
@@ -26880,39 +30326,92 @@ Foto: LOA Fonden, Rune Johansen
 
 Hallrummet
 
-I Framtidens idrottshall komplettera den regelstyrda idrottens mått, och inte så mycket mer, vilket
-
-utnyttjas hela hallrum- utrymme med en zon för friare rörelse ger känslan av att när man kliver in i ett
-som erbjuder plats för spontanidrott, hallrum så är man nästan direkt på den
+I Framtidens idrottshall
+utnyttjas hela hallrum-
 mets volym till rörelse.
-samling och kompletterande träning, aktiva idrottsytan. Många barn och unga
 Den erbjuder både rum
-skapas stora mervärden och det stora uttrycker också ett behov av platser för
-för den regelstyrda idrot- hallrummet kan användas mer effektivt. betraktelse som är mindre exponerade,
-ten och för spontan ut-                      krypin där man ser snarare än blir sedd,
-Hur används hallrummet? mellanrum där aktivitetsnivån är lägre
+
+för den regelstyrda idrot-
+ten och för spontan ut-
 forskande rörelse.
-Det finns stora likheter i hur olika men närheten till flödet är sådan att det
-föreningar använder hallrummet i sin går att återansluta lätt. Möjligheten att
-Hallrummet är den plats i hallen som träning, trots att det är olika idrotter. se vad som händer på planen är viktig
-utgör kärnan i idrottandet. Här knyts I yngre åldrar är träningarna mer för många barn och ungdomar, dels för
-idrottshallens alla delar samman och lekbetonade, här ligger inte fokus på att se på andra som tränar men också
-här pågår majoriteten av aktiviteterna. matcher eller resultat utan på lust att för att snabbt kunna se till exempel när
-Det är ett rum som skall planeras för att idrotta och att röra på sig. De övningar det är deras tur att plocka fram redskap
-innehålla mycket, användas av många som görs är utan fokus på regler och vara på planen.
-och hantera många olika situationer. I eller tävlingsmässiga förutsättningar.
-flera fall är behoven lika, i andra är de Användandet av idrottshallens utrust- Vad skall man utgå ifrån?
-olika, därför skall såväl golv som väggy- ning är också större. När barnen allt Hur stor skall framtidens idrottshall
-tor kunna användas flerfunktionellt. mer övergår till ungdomar så förändras vara? Vilka mått skall vara styrande
-Det finns mycket rörelseglädje och också träningarna till att innehålla mer vad gäller längd bredd och höjd?
-volymeffektivitet att vinna genom att regelstyrd träning, där behoven av Länge har en rådande norm i Sverige
-utveckla hallrummet. Det handlar om korrekt utformade ytor ökar. Samma typ varit ”Fullstor hall med 20x40 plan”,
-att skapa rätt förutsättningar för det av förändring sker i cuper och tävlingar, där dimensioneringen 20x40 meter
-regelstyrda idrottandet, att det finns vilket också ställer andra krav på hallen. relaterar till handbollens och inneban-
-plats för planer och stationer, att det är Skolan använder hallrummet på olika dyns planmått. Därtill har tolkningarna
-rätt rumshöjd på rätt ställe och att det sätt, ofta varvas användningen av hel- av behovet av kringytor varierat och ofta
-finns bra med säkerhetszoner utanför sal, halvsal och uteidrott. Många hallrum inte gjorts större än absolut nödvändigt
-själva idrottsytan. Genom att dessutom är idag utformade utifrån spelplanernas för att hålla nere på kvadratmetrarna i
+
+Hallrummet är den plats i hallen som
+utgör kärnan i idrottandet. Här knyts
+idrottshallens alla delar samman och
+här pågår majoriteten av aktiviteterna.
+Det är ett rum som skall planeras för att
+innehålla mycket, användas av många
+och hantera många olika situationer. I
+flera fall är behoven lika, i andra är de
+olika, därför skall såväl golv som väggy-
+tor kunna användas flerfunktionellt.
+Det finns mycket rörelseglädje och
+volymeffektivitet att vinna genom att
+utveckla hallrummet. Det handlar om
+att skapa rätt förutsättningar för det
+regelstyrda idrottandet, att det finns
+plats för planer och stationer, att det är
+rätt rumshöjd på rätt ställe och att det
+finns bra med säkerhetszoner utanför
+själva idrottsytan. Genom att dessutom
+
+komplettera den regelstyrda idrottens
+utrymme med en zon för friare rörelse
+som erbjuder plats för spontanidrott,
+samling och kompletterande träning,
+skapas stora mervärden och det stora
+hallrummet kan användas mer effektivt.
+Hur används hallrummet?
+Det finns stora likheter i hur olika
+föreningar använder hallrummet i sin
+träning, trots att det är olika idrotter.
+I yngre åldrar är träningarna mer
+lekbetonade, här ligger inte fokus på
+matcher eller resultat utan på lust att
+idrotta och att röra på sig. De övningar
+som görs är utan fokus på regler
+eller tävlingsmässiga förutsättningar.
+Användandet av idrottshallens utrust-
+ning är också större. När barnen allt
+mer övergår till ungdomar så förändras
+också träningarna till att innehålla mer
+regelstyrd träning, där behoven av
+korrekt utformade ytor ökar. Samma typ
+av förändring sker i cuper och tävlingar,
+vilket också ställer andra krav på hallen.
+Skolan använder hallrummet på olika
+sätt, ofta varvas användningen av hel-
+sal, halvsal och uteidrott. Många hallrum
+är idag utformade utifrån spelplanernas
+
+mått, och inte så mycket mer, vilket
+ger känslan av att när man kliver in i ett
+hallrum så är man nästan direkt på den
+aktiva idrottsytan. Många barn och unga
+uttrycker också ett behov av platser för
+betraktelse som är mindre exponerade,
+krypin där man ser snarare än blir sedd,
+mellanrum där aktivitetsnivån är lägre
+men närheten till flödet är sådan att det
+går att återansluta lätt. Möjligheten att
+se vad som händer på planen är viktig
+för många barn och ungdomar, dels för
+att se på andra som tränar men också
+för att snabbt kunna se till exempel när
+det är deras tur att plocka fram redskap
+och vara på planen.
+Vad skall man utgå ifrån?
+Hur stor skall framtidens idrottshall
+vara? Vilka mått skall vara styrande
+vad gäller längd bredd och höjd?
+Länge har en rådande norm i Sverige
+varit ”Fullstor hall med 20x40 plan”,
+där dimensioneringen 20x40 meter
+relaterar till handbollens och inneban-
+dyns planmått. Därtill har tolkningarna
+av behovet av kringytor varierat och ofta
+inte gjorts större än absolut nödvändigt
+för att hålla nere på kvadratmetrarna i
 
 Regelstyrd zon och zon för friare rörelse
 Den regelstyrda zonen är den del av hallrummet där förutsättningarna för att öva inför eller utföra en match är i enlighet med
@@ -26920,45 +30419,90 @@ idrotternas regelverk. Den friare zonen har flerfunktionalitet och friare rörel
 ett komplett hallrum.
 
 30
-Foto:
-White
-arkitekter,
-Thomas
-Zaar
-Foto:
-LOA
-Fonden
+
+Fo to : LOA Fonden
+
+Fo to : W h ite a rk itek te r, Thom as Zaa r
 
 <!-- sida 652 -->
+
+tron om att man sparar pengar, vilket i
+själva verket blir en förlust av funktion
+och användande. Här finns ett stort
+behov av att vidga diskussionen och se
+de mervärden som kan uppstå om man
+släpper på normen, och framförallt se
+vilka mervärden som skapas med andra
+utformningar och mått. Ett hallrum
+behöver heller inte vara rektangulärt,
+även ytor med friare former är använd-
+bara (ej parallellt ställda väggar skapar
+dessutom bättre akustiska förutsätt-
+ningar).
+En regelstyrd zon och en zon för
+friare rörelse
+Oavsett vilken storlek på hall man
+strävar efter eller som rådande situation
+möjliggör så måste man betrakta hall-
+rummet som mer än en ren idrottsyta
+för uppmålade planer. I Framtidens
+idrottshall skall det finnas plats för både
+det regelstyrda och det fria idrottandet.
+En anläggning som skall vara multifunk-
+
+tionell, inkluderande och uppmuntra till
+lustfylld rörelse och aktivitet behöver
+därför rumsliga förutsättningar och ytor
+för att möta det.
+
+Den regelstyrda zonen
+Den regelstyrda ytan skall utformas så
+att förutsättningarna för att öva inför
+eller utföra en match är i enlighet med
+idrotternas regelverk. Planmått 20x40
+är här det mått som täcker in handboll,
+volleyboll, basket och innebandy,
+med flera. Även önskad fri rumshöjd
+måste vara säkerställd här. Önskemål
+ställs också på golv, där inga störande
+skarvar eller olika sviktande underlag
+skall förekomma, alltså bör hoppgropar
+placeras utanför den regelstyrda zonen
+och hål för stolpar och andra infäst-
+ningar skall täckas med lock.
+Rum för mer rörelseglädje
+I Framtidens idrottshall vidgas synen
+på vad rörelse i en idrottshall är
 
 3\. VÄLKOMMEN TILL HALLEN
 
 ”Ninjabana” i direkt anslutning till hallgolvet.
 Foto: Unisport
-tron om att man sparar pengar, vilket i tionell, inkluderande och uppmuntra till och plats för det ges därför. Därtill
-själva verket blir en förlust av funktion lustfylld rörelse och aktivitet behöver behövs mer yta för förvaring, mer eller
-och användande. Här finns ett stort därför rumsliga förutsättningar och ytor mindre tillfällig, det behövs plats för
-behov av att vidga diskussionen och se för att möta det. paus, genomgångar och åskådning.
-de mervärden som kan uppstå om man           Man behöver kunna vara onstage,
-släpper på normen, och framförallt se Den regelstyrda zonen offstage och kanske också backstage. I
-vilka mervärden som skapas med andra Den regelstyrda ytan skall utformas så framtidens idrottshall är den därför den
-utformningar och mått. Ett hallrum att förutsättningarna för att öva inför icke regelstyrda ytan lika viktig som ytor
-behöver heller inte vara rektangulärt, eller utföra en match är i enlighet med för den regelstyrda delen av idrottandet.
-även ytor med friare former är använd- idrotternas regelverk. Planmått 20x40 Det finns därför generösa flerfunktio-
-bara (ej parallellt ställda väggar skapar är här det mått som täcker in handboll, nella ytor vid sidan av huvudplanerna.
-dessutom bättre akustiska förutsätt- volleyboll, basket och innebandy, Ytor som kan nyttjas för uppvärmning,
-ningar).               med flera. Även önskad fri rumshöjd härbärgera lös utrustning, väskor,
-måste vara säkerställd här. Önskemål mindre läktare, åskådare, sekretariat för
-En regelstyrd zon och en zon för ställs också på golv, där inga störande att nämna några. En flerfunktionell frizon
-friare rörelse         skarvar eller olika sviktande underlag som inte inkräktar på den regelstyrda
-Oavsett vilken storlek på hall man skall förekomma, alltså bör hoppgropar idrottsytan, utan istället stödjer
-strävar efter eller som rådande situation placeras utanför den regelstyrda zonen den. Det är en plats där man också
-möjliggör så måste man betrakta hall- och hål för stolpar och andra infäst- kan vara i anslutning till träningen.
-rummet som mer än en ren idrottsyta ningar skall täckas med lock. Vistelsemöjligheterna i anslutning till
-för uppmålade planer. I Framtidens           huvudträningen och planen är idag ofta
-idrottshall skall det finnas plats för både Rum för mer rörelseglädje begränsade till enstaka bänkar i hörn
-det regelstyrda och det fria idrottandet. I Framtidens idrottshall vidgas synen eller redskap. Framförallt ungdomar
-En anläggning som skall vara multifunk- på vad rörelse i en idrottshall är uttrycker ett behov av mer utrymme i
+
+och plats för det ges därför. Därtill
+behövs mer yta för förvaring, mer eller
+mindre tillfällig, det behövs plats för
+paus, genomgångar och åskådning.
+Man behöver kunna vara onstage,
+offstage och kanske också backstage. I
+framtidens idrottshall är den därför den
+icke regelstyrda ytan lika viktig som ytor
+för den regelstyrda delen av idrottandet.
+Det finns därför generösa flerfunktio-
+nella ytor vid sidan av huvudplanerna.
+Ytor som kan nyttjas för uppvärmning,
+härbärgera lös utrustning, väskor,
+mindre läktare, åskådare, sekretariat för
+att nämna några. En flerfunktionell frizon
+som inte inkräktar på den regelstyrda
+idrottsytan, utan istället stödjer
+den. Det är en plats där man också
+kan vara i anslutning till träningen.
+Vistelsemöjligheterna i anslutning till
+huvudträningen och planen är idag ofta
+begränsade till enstaka bänkar i hörn
+eller redskap. Framförallt ungdomar
+uttrycker ett behov av mer utrymme i
 
 31
 
@@ -26980,8 +30524,8 @@ delta i den organiserade föreningsidrot-
 ten. En mindre exponerad zon som i sig
 bidrar till att husera fler i hallen.
 Utnyttja volymen
-Den fria rörelseytan är flerdimensionell Koppling mellan hallgolv och platser högre upp i rummet, blir här en löparbana.
-och tar tillvara på volym och olika behov Spiralen, Kalundborg, Danmark. Foto: LOA Fonden, Rune Johansen
+Den fria rörelseytan är flerdimensionell
+och tar tillvara på volym och olika behov
 av rumshöjd. Det gör det möjligt att ha
 bredare och smalare entresolplan på
 olika nivåer som också ger möjlighet till
@@ -26996,21 +30540,27 @@ använda den fria rörelsezonen genom
 att placera in enklare träningsmaskiner,
 motorikträning, ninjabanor med mera.
 
-Volymeffektiv och inspirerande motorisk hinderbana, kan placeras ovanpå förvaring.
 ”
-Sdr. Felding Hallen, Sönder Felding, Danmark. Foto: LOA Fonden, Rune Johansen
 Vi behöver    en
+
 plats att hänga
 på, nu  hänger   vi
 
-på redskapen.
+på  redskapen.
 
 \- Ungdom, Täljehallen
+
+32
+
+Koppling mellan hallgolv och platser högre upp i rummet, blir här en löparbana.
+Spiralen, Kalundborg, Danmark. Foto: LOA Fonden, Rune Johansen
+
+Volymeffektiv och inspirerande motorisk hinderbana, kan placeras ovanpå förvaring.
+Sdr. Felding Hallen, Sönder Felding, Danmark. Foto: LOA Fonden, Rune Johansen
 
 Plats för paus mellan passen.
 Sdr. Nissum Hallen, Holstebro Kommune, Danmark.
 Foto: LOA Fonden, Rune Johansen
-32
 
 <!-- sida 654 -->
 
@@ -27083,28 +30633,72 @@ enastående  helhet.
 
 3\. VÄLKOMMEN TILL HALLEN
 
-Innebandyn får en större säkerhetszon Rumshöjden kan höjden variera.
-runt om huvudplanen vilket är önskvärt Den fria höjden i hallrummet ska vara Hallrummets enorma rymd bör
-och samtidigt fler mindre spelplaner minst 8 meter för att kunna tillgodose utnyttjas på ett volymeffektivt sätt.
-för 3 mot 3-spel eller kortplaner. Även merparten av den träning som sker i Behovet av rumshöjd gäller ovan
-handbollen får bättre med yta utanför framtidens idrottshallar. Dock finns det angivna planer eller utsedda platser,
-huvudplanen och förutsättningar för tre idrotter och discipliner som kräver en för tillexempel rytmisk gymnastik, vilket
-minihandbollsplaner eller kortplaner. högre takhöjd, till exempel volleyboll, möjliggör lösningar som att lägga in
-Volleybollen, som har den minsta trampolin och rytmisk gymnastik, men ett entresolplan i de delar som inte
-planen, kan då få in upp till 4 bra då främst på högre nivåer. Om takhöj- kräver full höjd, att nyttja utrymmet
-träningsplaner med bra säkerhetszoner dens höjs till 9 meter kan man träna mellan takbalkarna för tex upphissad
-längs sidorna. Slutligen gymnastiken, och tävla på SM-nivå i Trampolin, höjs utrustning. Ovan nämnda mått avser
-där en längre hall möjliggör tumbling i takhöjden till 10 meter kan man spela fri rumshöjd, dvs inga nedhängande
-full längd. Här gör också storleken att internationell volleyboll i hallen och blir lampor, vajrar, ringar, bomsystem eller
-man kan få in fler redskap och stationer takhöjden 11 meter kan man utöva liknande skall finnas.
-som också gör att man kan maximera rytmisk gymnastik på internationell
-nyttjandet. Den här storleken på hallrum nivå. Vissa träningsformer, till exempel Ett alternativt mått på hallrum
-ger också större möjligheter för skolan. gruppträning, behöver inte ens 8 meter Om en mindre hall av olika anledningar
-En hall av denna storlek blir när den i takhöjd, utan kan klara sig med 4–6 är aktuell föreslås ett hallmått på 43x26
-delas två fullgoda hallrum för skolämnet, meter. Slutsatsen blir att det behövs meter. Här skall samma tänk om en hall
-vilket möjliggör en skola på upp till en fri höjd på 8 meter ovan huvudspel- med både regelstyrda zooner och fria
-1200 elever.           planen samt över en hoppgrop, i andra zoner finnas. Här ges goda förutsätt-
-delar finns inte det behovet utan där ningar för en huvudplan med tävlings-
+Innebandyn får en större säkerhetszon
+runt om huvudplanen vilket är önskvärt
+och samtidigt fler mindre spelplaner
+för 3 mot 3-spel eller kortplaner. Även
+handbollen får bättre med yta utanför
+huvudplanen och förutsättningar för tre
+minihandbollsplaner eller kortplaner.
+Volleybollen, som har den minsta
+planen, kan då få in upp till 4 bra
+träningsplaner med bra säkerhetszoner
+längs sidorna. Slutligen gymnastiken,
+där en längre hall möjliggör tumbling i
+full längd. Här gör också storleken att
+man kan få in fler redskap och stationer
+som också gör att man kan maximera
+nyttjandet. Den här storleken på hallrum
+ger också större möjligheter för skolan.
+En hall av denna storlek blir när den
+delas två fullgoda hallrum för skolämnet,
+vilket möjliggör en skola på upp till
+1200 elever.
+
+Rumshöjden
+Den fria höjden i hallrummet ska vara
+minst 8 meter för att kunna tillgodose
+merparten av den träning som sker i
+framtidens idrottshallar. Dock finns det
+idrotter och discipliner som kräver en
+högre takhöjd, till exempel volleyboll,
+trampolin och rytmisk gymnastik, men
+då främst på högre nivåer. Om takhöj-
+dens höjs till 9 meter kan man träna
+och tävla på SM-nivå i Trampolin, höjs
+takhöjden till 10 meter kan man spela
+internationell volleyboll i hallen och blir
+takhöjden 11 meter kan man utöva
+rytmisk gymnastik på internationell
+nivå. Vissa träningsformer, till exempel
+gruppträning, behöver inte ens 8 meter
+i takhöjd, utan kan klara sig med 4–6
+meter. Slutsatsen blir att det behövs
+en fri höjd på 8 meter ovan huvudspel-
+planen samt över en hoppgrop, i andra
+delar finns inte det behovet utan där
+
+kan höjden variera.
+Hallrummets enorma rymd bör
+utnyttjas på ett volymeffektivt sätt.
+Behovet av rumshöjd gäller ovan
+angivna planer eller utsedda platser,
+för tillexempel rytmisk gymnastik, vilket
+möjliggör lösningar som att lägga in
+ett entresolplan i de delar som inte
+kräver full höjd, att nyttja utrymmet
+mellan takbalkarna för tex upphissad
+utrustning. Ovan nämnda mått avser
+fri rumshöjd, dvs inga nedhängande
+lampor, vajrar, ringar, bomsystem eller
+liknande skall finnas.
+Ett alternativt mått på hallrum
+Om en mindre hall av olika anledningar
+är aktuell föreslås ett hallmått på 43x26
+meter. Här skall samma tänk om en hall
+med både regelstyrda zooner och fria
+zoner finnas. Här ges goda förutsätt-
+ningar för en huvudplan med tävlings-
 
 Principiella planlösningar där relationen mellan fri rörelseyta och regelstyrd yta varierar.
 
@@ -27118,15 +30712,24 @@ grundhallmåttet i ett övre plan.
 
 Det optimala hallrumsmåttet
 
-Ett hallrumsmått på 46x32 meter möjlig- liggör ett volymeffektivt nyttjande genom
-gör bra med yta för både regelstyrd idrott entresolplan i olika nivåer (streckprickade
-och fri rörelse. En zon med tävlingsmått för linjer). Här kan mobila läktare också pla-
-bollsporter (20x40 meter) placeras centralt, ceras. Hallbredden gör att basketplan i
-med fri rumshöjd 8 meter. Utanför det gene- fullängd och kortplaner för handboll och
-rösa kring- och säkerhetsytor i tre riktning- innebandy ryms, likaså fyra övningsplaner i
-ar. Längs ena långsidan en väl tilltagen zon volleyboll. Rummet kan delas av med ridå-
-för friare rörelse med hoppgropar, samling, vägg.
+Ett hallrumsmått på 46x32 meter möjlig-
+gör bra med yta för både regelstyrd idrott
+och fri rörelse. En zon med tävlingsmått för
+bollsporter (20x40 meter) placeras centralt,
+med fri rumshöjd 8 meter. Utanför det gene-
+rösa kring- och säkerhetsytor i tre riktning-
+ar. Längs ena långsidan en väl tilltagen zon
+för friare rörelse med hoppgropar, samling,
 paus mm där andra krav på rumshöjd möj-
+
+liggör ett volymeffektivt nyttjande genom
+entresolplan i olika nivåer (streckprickade
+linjer). Här kan mobila läktare också pla-
+ceras. Hallbredden gör att basketplan i
+fullängd och kortplaner för handboll och
+innebandy ryms, likaså fyra övningsplaner i
+volleyboll. Rummet kan delas av med ridå-
+vägg.
 
 37
 
@@ -27134,20 +30737,46 @@ paus mm där andra krav på rumshöjd möj-
 
 3\. VÄLKOMMEN TILL HALLEN
 
-mått och den frizon för friare rörelse, möjligheten att ha fler skolklasser igång träning anpassad för olika nivåer och
-hoppgrop, samling och paus som är samtidigt minskar. Att planera för ännu åldrar. Då idrottshallar används av olika
-basen i Framtidens idrottshall. Jämfört mindre hallar än så ger ännu större verksamheter och idrotter så ställs krav
-med det större måttet så medför en begränsningar för föreningsidrotten och på utrustningen och det finns också
-mindre hall med dessa mått färre akti- rekommenderas inte. stora möjligheter till samnyttjande och
-viteter och färre individer (såväl elever    användning för flera, inte minst mellan
-som föreningsaktiva). Besparingarna Utrustning för många skola och föreningar. Utrustningen
-blir mindre än begränsningarna det Olika typer av idrottsverksamhet kräver sorteras ofta också i fast och lös,
-ger. Möjligheterna till övningsplaner för olika typer av inredning och redskap där fast inredning och redskap (ex
-bollsporterna försämras, med kortare i hallen. Men en hel del utrustning bomsystem, fasta mål och korgar,
-övningsplaner på tvären samt endast används brett över olika verksamheter klätterutrustning) vanligtvis bekostas
-tre volleybollplaner för övning. Även och möjliggör lustfylld och effektiv och sköts av fastighetsägaren medan
+mått och den frizon för friare rörelse,
+hoppgrop, samling och paus som är
+basen i Framtidens idrottshall. Jämfört
+med det större måttet så medför en
+mindre hall med dessa mått färre akti-
+viteter och färre individer (såväl elever
+som föreningsaktiva). Besparingarna
+blir mindre än begränsningarna det
+ger. Möjligheterna till övningsplaner för
+bollsporterna försämras, med kortare
+övningsplaner på tvären samt endast
+tre volleybollplaner för övning. Även
 
 Det mindre hallrumsmåttet
+
+möjligheten att ha fler skolklasser igång
+samtidigt minskar. Att planera för ännu
+mindre hallar än så ger ännu större
+begränsningar för föreningsidrotten och
+rekommenderas inte.
+
+Utrustning för många
+Olika typer av idrottsverksamhet kräver
+olika typer av inredning och redskap
+i hallen. Men en hel del utrustning
+används brett över olika verksamheter
+och möjliggör lustfylld och effektiv
+
+träning anpassad för olika nivåer och
+åldrar. Då idrottshallar används av olika
+verksamheter och idrotter så ställs krav
+på utrustningen och det finns också
+stora möjligheter till samnyttjande och
+användning för flera, inte minst mellan
+skola och föreningar. Utrustningen
+sorteras ofta också i fast och lös,
+där fast inredning och redskap (ex
+bomsystem, fasta mål och korgar,
+klätterutrustning) vanligtvis bekostas
+och sköts av fastighetsägaren medan
 
 Ett hallrumsmått på 43x26 meter möjliggör yta mindre zon för friare rörelse, samling, paus
 för både regelstyrd idrott och fri rörelse. En mm. Mindre entresollösning finns. Den kortare
@@ -27162,58 +30791,127 @@ tre riktningar. Längs ena långsidan en något
 
 3\. VÄLKOMMEN TILL HALLEN
 
-den lösa (ex mattor, plintar, bänkar) kan för att minska skaderisken vid inlärning rustning som plintar, tjockmattor etc.
-tillhöra antingen fastighetsägaren eller av nya hopp. I en hall med optimala finns tillgänglig i varje hall. Gymnastiken
-någon hyresgäst. Hit kan man också mått så kan man placera hoppgropar är den idrott som i särklass har mest
-räkna material som koner, västar och utanför linjerade spelplaner med ett lös utrustning, där nästan all utrust-
-bollar.                löst golv som går att lyfta undan. Även ning är användbar för såväl idrotten
-nedsänkta trampoliner kan finnas under i skolan som för andra idrotter. Men
-Fast utrustning        golv. Lämpligen kan de placeras där en man har också lös utrustning som är
-I hallen föreslås en basutrustning av eventuell utskjutbar läktare finns. mer specifik och kräver utbildning för
-gymnastikredskap som är användbar Utöver den fasta basutrustning som att kunna använda på ett säkert sätt.
-för såväl skolan som föreningsidrotten. beskrivs nedan så kan förstås idrotts- Här behöver man komma överens
-Dessa för många bekanta redskap ger hallar utrustas med annan utrustning över verksamhetsgränserna vad som
-bra förutsättningar för grundläggande som kompletterar. Basutrustningen kan skall vara tillgängligt för alla. För mer
-motorik och rörelseträning i skolans också ersättas med annan utrustning information om gymnastikens utrustning
-idrottsundervisning. De är grundläg- om så är motiverat. Viktigt är ändå att hänvisas till Gymnastikförbundet och
-gande inom gymnastiken och används skapa möjligheter för mångsidig träning rapporten Redskapshallar För träning
-även i hög grad inom andra idrotter, och rörelse för olika åldrar och nivåer inom Svensk Gymnastik samt SKR:s
-främst i de lägre åldrarna för att skapa där rörelseglädje och flerfunktion är Måttbok.
-träningsstationer, för balans och i fokus om hallen skall användas av Flera av idrotterna/disciplinerna
-motorik och som del av en hinderbana. många. Utrustningen skall också alltid har större lös utrustning som behöver
-Utöver utrustning för gymnastik anpassas efter den lokal skolans och fästas i golvet, t.ex. volleyboll- och
-och rörelseträning bör idrottshallen föreningens behov och nivå. Viktigt är badmintonstolpar – räck, barr, ringar,
-innehålla mål för handboll och basket att golv förses med infästningsbeslag etc. inom gymnastiken. Då t.ex.
-samt redskapshissar.   för den utrustningen. innebandy behöver ett slätt golv är det
-Flera av gymnastikens discipliner har       viktigt att dessa fästen göms under
-mycket höga och svåra hopp där man Lös utrustning golvet och att det blir så få luckor för
-gärna har en landningsgrop (hoppgrop) Det är också viktigt att lös standardut- detta som möjligt.
-Fast utrustning           Lös utrustning
+den lösa (ex mattor, plintar, bänkar) kan
+tillhöra antingen fastighetsägaren eller
+någon hyresgäst. Hit kan man också
+räkna material som koner, västar och
+bollar.
 
-Ribbstolar (minst 4 i bredd) 32 Satsbrädor, skola 4 Små mjuka mattor, inkl 20
-vagn
-Dubbelbommar (4 m)   4    Satsbrädor, tävling 4
-Mattvåd (12x2 m, alt 4
-Ringpar              8    Trampetter, skola 4
-14x2 m)
-Uppsättningar linor (4 m) 4 Trampetter, tävling 4
-Airtrack 15x2 m med 1
-Matthissar (2+2)     4    Flipperdynor, inkl vagn 4 variabel fläkt
-Redskapshissar       8    Kil              2     Tumblinggolv   1
-Basketkorgar (för helplan och Voltkudde    2
+Fast utrustning
+I hallen föreslås en basutrustning av
+gymnastikredskap som är användbar
+för såväl skolan som föreningsidrotten.
+Dessa för många bekanta redskap ger
+bra förutsättningar för grundläggande
+motorik och rörelseträning i skolans
+idrottsundervisning. De är grundläg-
+gande inom gymnastiken och används
+även i hög grad inom andra idrotter,
+främst i de lägre åldrarna för att skapa
+träningsstationer, för balans och
+motorik och som del av en hinderbana.
+Utöver utrustning för gymnastik
+och rörelseträning bör idrottshallen
+innehålla mål för handboll och basket
+samt redskapshissar.
+Flera av gymnastikens discipliner har
+mycket höga och svåra hopp där man
+gärna har en landningsgrop (hoppgrop)
+
+Fast utrustning
+
+Ribbstolar (minst 4 i bredd) 32
+Dubbelbommar (4 m)   4
+Ringpar              8
+Uppsättningar linor (4 m) 4
+
+Matthissar (2+2)     4
+Redskapshissar       8
+Basketkorgar (för helplan och
 tvärplaner)
-Klätternät       2
 Handbollsmål (helplan, lösa mål
-Bomsadlar, inkl vagn 8
 tvärplan)
+Speglar (sammanhängande, finns
+lösningar med speglar bakom
+ribbstolar)
+
+för att minska skaderisken vid inlärning
+av nya hopp. I en hall med optimala
+mått så kan man placera hoppgropar
+utanför linjerade spelplaner med ett
+löst golv som går att lyfta undan. Även
+nedsänkta trampoliner kan finnas under
+golv. Lämpligen kan de placeras där en
+eventuell utskjutbar läktare finns.
+Utöver den fasta basutrustning som
+beskrivs nedan så kan förstås idrotts-
+hallar utrustas med annan utrustning
+som kompletterar. Basutrustningen kan
+också ersättas med annan utrustning
+om så är motiverat. Viktigt är ändå att
+skapa möjligheter för mångsidig träning
+och rörelse för olika åldrar och nivåer
+där rörelseglädje och flerfunktion är
+i fokus om hallen skall användas av
+många. Utrustningen skall också alltid
+anpassas efter den lokal skolans och
+föreningens behov och nivå. Viktigt är
+att golv förses med infästningsbeslag
+för den utrustningen.
+Lös utrustning
+Det är också viktigt att lös standardut-
+
+rustning som plintar, tjockmattor etc.
+finns tillgänglig i varje hall. Gymnastiken
+är den idrott som i särklass har mest
+lös utrustning, där nästan all utrust-
+ning är användbar för såväl idrotten
+i skolan som för andra idrotter. Men
+man har också lös utrustning som är
+mer specifik och kräver utbildning för
+att kunna använda på ett säkert sätt.
+Här behöver man komma överens
+över verksamhetsgränserna vad som
+skall vara tillgängligt för alla. För mer
+information om gymnastikens utrustning
+hänvisas till Gymnastikförbundet och
+rapporten Redskapshallar För träning
+inom Svensk Gymnastik samt SKR:s
+Måttbok.
+Flera av idrotterna/disciplinerna
+har större lös utrustning som behöver
+fästas i golvet, t.ex. volleyboll- och
+badmintonstolpar – räck, barr, ringar,
+etc. inom gymnastiken. Då t.ex.
+innebandy behöver ett slätt golv är det
+viktigt att dessa fästen göms under
+golvet och att det blir så få luckor för
+detta som möjligt.
+
+Lös utrustning
+
+Satsbrädor, skola 4    Små mjuka mattor, inkl 20
+vagn
+Satsbrädor, tävling 4
+Mattvåd (12x2 m, alt 4
+Trampetter, skola 4
+14x2 m)
+Trampetter, tävling 4
+Airtrack 15x2 m med 1
+Flipperdynor, inkl vagn 4 variabel fläkt
+Kil              2     Tumblinggolv   1
+Voltkudde        2
+Klätternät       2
+Bomsadlar, inkl vagn 8
 12
-Speglar (sammanhängande, finns Nedslagsmattor
-lösningar med speglar bakom (Tjockmattor)
-ribbstolar)               Räck (2 m)       4
+Nedslagsmattor
+(Tjockmattor)
+Räck (2 m)       4
 Bänkar          10
 Plintar, 7-del   6
 Skumplint        6
 Pallplintar, inkl vagn 12
+
 39
 
 <!-- sida 661 -->
@@ -27251,60 +30949,133 @@ verksamheter så kan en större projektor behövas, kompletterat med en mindre s
 interaktiva lek- och rörelsehjälpmedel.
 • Eluttag - behovet av eluttag i hallen kan inte underskattas, inte minst för laddning av mobiltelefoner.
 
-Åskådningsplatser      Kan en fast läktare också kombineras kunna nyttjas effektivt. En stor hall bör
-Behovet av läktare behöver avgöras med en trappa för att hantera nivåskill- kunna delas i två delar med en ridåvägg
-från fall till fall, vad finns till exempel i nader och skapa en naturlig hängplats? som är ljudtät, det ger bäst förutsätt-
-övriga idrottshallar på orten? Vilken nivå En mer flexibel läktarlösning är ningar för att kunna ha olika lektioner
-spelar klubbarna på? Viktigt är att det mobila läktare, dvs mindre nedfällbara eller träningar i de olika delarna. Utöver
-finns plats att sitta på eller hänga på när från vägg eller utdragbara teleskop- det så finns fördelar med att placera in
-man tittar på match eller träning, platser läktare som kan tas fram vid mindre ytterligare rumsavdelare i halldelarna för
-där man också kan fördriva tid i väntan arrangemang och även fungera som att kunna ha olika moment i olika delar.
-på att någon annan skall bli klar med sitt mindre avlastningsytor inne i hallen. Det kan göras med enklare avdelare
-träningspass. Här finns det möjligheter Placering av läktare måste göras så att typ nät eller enkelsidig duk. Även ytorna
-att tänka kreativt för att hitta flexibla de inte stör eller utgör fara för aktivite- utanför spelplanerna eller rummen som
-läktarlösningar där golvyta och läktare terna i hallrummet, ej heller placeras så angränsar till hallrummet kan med fördel
-enkelt kan anpassas efter aktivitetens att de i infällt läge tar golvyta. De skall delas av eller skärmas av med vik- eller
-behov. I en modern skol- och inte vara ett störande moment. ridåväggar.
+Åskådningsplatser
+Behovet av läktare behöver avgöras
+från fall till fall, vad finns till exempel i
+övriga idrottshallar på orten? Vilken nivå
+spelar klubbarna på? Viktigt är att det
+finns plats att sitta på eller hänga på när
+man tittar på match eller träning, platser
+där man också kan fördriva tid i väntan
+på att någon annan skall bli klar med sitt
+träningspass. Här finns det möjligheter
+att tänka kreativt för att hitta flexibla
+läktarlösningar där golvyta och läktare
+enkelt kan anpassas efter aktivitetens
+behov. I en modern skol- och
 träningshall bör det inte finnas några
-fasta större läktare som standard då Linjer  Ljuset i hallrummet
-dessa oftast bara blir monofunktionella För aktuella regler för linjering av planer Den artificiella belysningen skall
-och ytkrävande. Men vid användande hänvisas till SKR:s Måttbok. utformas så att den bidrar till en
-av fasta läktare skall möjligheten att       attraktiv miljö som är hälsosam och
-använda ytan under en läktare tas till Rumsavdelare motverkar olyckor. Belysningen skall
-vara. Kan den användas till förvaring? Ett hallrum av den storlek som föreslås vara anpassad för den verksamhet som
-Kan den användas för uppvärmning? här behöver kunna delas av för att förekommer till exempel ställer tävlingsi-
+fasta större läktare som standard då
+dessa oftast bara blir monofunktionella
+och ytkrävande. Men vid användande
+av fasta läktare skall möjligheten att
+använda ytan under en läktare tas till
+vara. Kan den användas till förvaring?
+Kan den användas för uppvärmning?
 
 40
 
-<!-- sida 662 -->
+Kan en fast läktare också kombineras
+med en trappa för att hantera nivåskill-
+nader och skapa en naturlig hängplats?
+En mer flexibel läktarlösning är
+mobila läktare, dvs mindre nedfällbara
+från vägg eller utdragbara teleskop-
+läktare som kan tas fram vid mindre
+arrangemang och även fungera som
+mindre avlastningsytor inne i hallen.
+Placering av läktare måste göras så att
+de inte stör eller utgör fara för aktivite-
+terna i hallrummet, ej heller placeras så
+att de i infällt läge tar golvyta. De skall
+inte vara ett störande moment.
+Linjer
+För aktuella regler för linjering av planer
+hänvisas till SKR:s Måttbok.
 
-3\. VÄLKOMMEN TILL HALLEN
+Rumsavdelare
+Ett hallrum av den storlek som föreslås
+här behöver kunna delas av för att
+
+kunna nyttjas effektivt. En stor hall bör
+kunna delas i två delar med en ridåvägg
+som är ljudtät, det ger bäst förutsätt-
+ningar för att kunna ha olika lektioner
+eller träningar i de olika delarna. Utöver
+det så finns fördelar med att placera in
+ytterligare rumsavdelare i halldelarna för
+att kunna ha olika moment i olika delar.
+Det kan göras med enklare avdelare
+typ nät eller enkelsidig duk. Även ytorna
+utanför spelplanerna eller rummen som
+angränsar till hallrummet kan med fördel
+delas av eller skärmas av med vik- eller
+ridåväggar.
+Ljuset i hallrummet
+Den artificiella belysningen skall
+utformas så att den bidrar till en
+attraktiv miljö som är hälsosam och
+motverkar olyckor. Belysningen skall
+vara anpassad för den verksamhet som
+förekommer till exempel ställer tävlingsi-
+
+<!-- sida 662 -->
 
 Åskådarplats/avbytarbänk i fönsternisch. Samling, åskådning, träning och
 Edsbergshallen, Sollentuna. Foto: White arki- paus. Runavik, Färöarna. Foto:
 tekter, Anders Bobert LOA Fonden, Martin Sirkovsky
 
-Trappa mellan entré och hallrum blir läktarplats. Plats för paus och åskådning.
-Rotebrohallen, Sollentuna. Foto: White arkitekter, Thomas Zaar Sporthal de Rietlanden, Leylstad, Holland.
+Trappa mellan entré och hallrum blir läktarplats.
+Rotebrohallen, Sollentuna. Foto: White arkitekter, Thomas Zaar
+
+drotten högre krav än vad skolan gör.
+Belysning ska ej vara riktad så att den
+stör eller bländar brukarna. Ljusstyrkan
+bör också gå att reglera i lokalen, där
+det maximala luxtalet skall följa gällande
+standard utifrån den verksamhet som
+skall förekomma, men den bör också
+kunna anpassas till situationen vid tex
+olika träningssituationer eller aktiviteter.
+Viktigt! I en idrottshall där akrobatik
+förekommer, får det aldrig förbli helt
+mörkt vid till exempel strömavbrott. Det
+kan innebära livsfara för exempelvis en
+gymnast som befinner sig flera meter i
+luften under ett hopp.
+Väl anpassat dagsljus i en
+idrottshall är en stor kvalitet. Det har
+hälsofrämjande effekter på människan,
+
+UV-ljus motverkar bakteriespridning
+och det sparar på elanvändandet. Men
+det är också omdiskuterat då en del
+upplever det som störande, framförallt
+i match och tävlingssammanhang.
+Dagsljusinsläpp behöver därför
+placeras med omsorg. Lågt och med
+fördel mot norr är en bra utgångspunkt.
+Även indirekt dagsljus fungerar bra.
+Utvändig solavskärmning och möjlighet
+att kunna reglera ljusinsläppet inifrån
+är också bra lösningar som möjliggör
+kvalitén och motar problemen. Att ha
+dagsljusinsläpp, dvs fönster i marknivå
+i en idrottshall bidrar också till en
+transparens och en öppenhet som
+samhällets publika byggnader bör ha.
+Det ger förbipasserande möjlighet att ta
+
+3\. VÄLKOMMEN TILL HALLEN
+
+Plats för paus och åskådning.
+Sporthal de Rietlanden, Leylstad, Holland.
 Foto: Schlangen+Koenis Architecten
-drotten högre krav än vad skolan gör. UV-ljus motverkar bakteriespridning del av vad som händer i en idrottshall,
-Belysning ska ej vara riktad så att den och det sparar på elanvändandet. Men kanske ett första steg till att börja delta.
-stör eller bländar brukarna. Ljusstyrkan det är också omdiskuterat då en del Omvänt bidrar också öppenheten till en
-bör också gå att reglera i lokalen, där upplever det som störande, framförallt trevligare och tryggare miljö utanför våra
-det maximala luxtalet skall följa gällande i match och tävlingssammanhang. idrottshallar, speciellt när de placeras i
-standard utifrån den verksamhet som Dagsljusinsläpp behöver därför tätbebyggda områden.
-skall förekomma, men den bör också placeras med omsorg. Lågt och med
-kunna anpassas till situationen vid tex fördel mot norr är en bra utgångspunkt.
-olika träningssituationer eller aktiviteter. Även indirekt dagsljus fungerar bra.
-Viktigt! I en idrottshall där akrobatik Utvändig solavskärmning och möjlighet
-förekommer, får det aldrig förbli helt att kunna reglera ljusinsläppet inifrån
-mörkt vid till exempel strömavbrott. Det är också bra lösningar som möjliggör
-kan innebära livsfara för exempelvis en kvalitén och motar problemen. Att ha
-gymnast som befinner sig flera meter i dagsljusinsläpp, dvs fönster i marknivå
-luften under ett hopp. i en idrottshall bidrar också till en
-Väl anpassat dagsljus i en transparens och en öppenhet som
-idrottshall är en stor kvalitet. Det har samhällets publika byggnader bör ha.
-hälsofrämjande effekter på människan, Det ger förbipasserande möjlighet att ta
+del av vad som händer i en idrottshall,
+kanske ett första steg till att börja delta.
+Omvänt bidrar också öppenheten till en
+trevligare och tryggare miljö utanför våra
+idrottshallar, speciellt när de placeras i
+tätbebyggda områden.
 
 41
 
@@ -27312,25 +31083,47 @@ hälsofrämjande effekter på människan, Det ger förbipasserande möjlighet at
 
 Rum       för    mer      rörelse
 
-I Framtidens idrottshall rörelse och träning än den traditionella och träningstider effektiviseras. Tiden
-
-skapas rörelseglädje och idrottshallen. Den ger också plats på planen kan varieras med tid i andra
-för fler individer och fler aktiviteter delar av hallen. Det här gör också att
+I Framtidens idrottshall rörelse och träning än den traditionella
+skapas rörelseglädje och idrottshallen. Den ger också plats
+för fler individer och fler aktiviteter
 utvecklas rörelseför-
-samtidigt. Här finns platser för rörelseglädjen ökar och att motståndet
+samtidigt. Här finns platser för
 ståelse. Här finns alltid
-individuell träning eller träning i grupp, eller steget till att börja röra på sig
-tillgång till utforskande för rehabilitering, fysträning, motorisk minskar, när möjligheterna blir fler.
-rörelse, puls, lekfullhet, träning, dans med mera. Även plats att Idrottandet beskrivs ofta som
-träna för de som egentligen bara har flera träningsformer som tillsammans
+individuell träning eller träning i grupp,
+tillgång till utforskande för rehabilitering, fysträning, motorisk
+rörelse, puls, lekfullhet, träning, dans med mera. Även plats att
+träna för de som egentligen bara har
 möjlighet att pröva nytt
-följt med någon annan till träningen. Det utgör just en specifik idrott alternativt
+följt med någon annan till träningen. Det
 och att hitta utmaningar
-finns också plats för den som bara vill bara en allmänträning. Utöver den
-på olika nivåer.       utmana sig själv eller för de som kallar idrottspecifika träningen är dessa
-rörelse för lek. Genom att möjliggöra styrka, kondition och grundmotorik.
-Framtidens idrottshall erbjuder träning utanför hallrummet så kan också Framtidens idrottshall behöver
-betydligt fler platser och möjligheter till träningspass göras mer variationsrika därför möta dessa behov. I Framtidens
+finns också plats för den som bara vill
+på olika nivåer.       utmana sig själv eller för de som kallar
+rörelse för lek. Genom att möjliggöra
+Framtidens idrottshall erbjuder träning utanför hallrummet så kan också
+betydligt fler platser och möjligheter till träningspass göras mer variationsrika
+
+En svårnyttjad korridor blir en plats för lek och uppvärmning genom enkel grafik på golvet.
+Foto:Unisport
+
+Plats för spontan grundmotorisk övning i korridor.
+Foto: Unisport
+
+42
+
+och träningstider effektiviseras. Tiden
+på planen kan varieras med tid i andra
+delar av hallen. Det här gör också att
+rörelseglädjen ökar och att motståndet
+eller steget till att börja röra på sig
+minskar, när möjligheterna blir fler.
+Idrottandet beskrivs ofta som
+flera träningsformer som tillsammans
+utgör just en specifik idrott alternativt
+bara en allmänträning. Utöver den
+idrottspecifika träningen är dessa
+styrka, kondition och grundmotorik.
+Framtidens idrottshall behöver
+därför möta dessa behov. I Framtidens
 idrottshall kan detta göras i det stora
 hallrummet, i mer ändamålsenliga rum
 eller lika gärna i byggnadens korridorer
@@ -27348,8 +31141,7 @@ utanför hallen, så kan man även nå
 andra grupper än de som organiserat
 tränar i hallen, till exempel medföljande
 familjemedlemmar eller kompisar.
-En svårnyttjad korridor blir en plats för lek och uppvärmning genom enkel grafik på golvet.
-Foto:Unisport Grundmotorisk träning
+Grundmotorisk träning
 Alla barn och unga behöver
 grundmotorisk träning, därför är det
 viktigt att alla delar i en idrottshall i
@@ -27368,16 +31160,10 @@ lustfylld och tillgänglig. Men plats för
 det grundmotoriska rörelsebehovet är
 också tacksamt att sprida i byggnaden
 för att uppmuntra till det spontana.
-Plats för spontan grundmotorisk övning i korridor.
-Foto: Unisport
-42
 
 <!-- sida 664 -->
 
-3\. VÄLKOMMEN TILL HALLEN
-
-Fast utrustning och banor för grundmotorisk träning utmanar och inspirerar.
-Gruppträning i mindre skala                                Foto: Unisport
+Gruppträning i mindre skala
 För att maximera nyttjandet av en
 hall kan flera delar av framförallt
 gymnastikens verksamheter bedrivas
@@ -27392,9 +31178,7 @@ för skol och övrig föreningsidrott. Här
 kan uppvärmningar, fysträning i grupp,
 mindre ytkrävande idrotter, dans mm
 utföras. Den bör utrustas med tanke
-En välutrustad multisal som ett bra komplement till det stora hallrummet.
 på flerfunktion med musikanläggning,
-Stokkebaeksskolen, Hesselager, Danmark. Foto: LOA Fonden, Leif Tuxen
 speglar och anslutande förråd. Med en
 bra rumshöjd kan den också användas
 av bollsporterna som en minihall för
@@ -27413,44 +31197,96 @@ och hyras ut separat. För att maximera
 nyttjandet av en sådan lokal kan den
 med fördel utformas så att den även
 går att använda för annan verksamhet,
+
+3\. VÄLKOMMEN TILL HALLEN
+
+Fast utrustning och banor för grundmotorisk träning utmanar och inspirerar.
+Foto: Unisport
+
+En välutrustad multisal som ett bra komplement till det stora hallrummet.
+Stokkebaeksskolen, Hesselager, Danmark. Foto: LOA Fonden, Leif Tuxen
+
 Gruppträningsrum med direkt anslutning till det stora hallrummet förenklar användandet
 avsevärt. Spiralen, Kalundborg, Danmark. Foto: LOA Fonden, Rune Johansen
+
 43
 
 <!-- sida 665 -->
 
 3\. VÄLKOMMEN TILL HALLEN
 
-finns det till exempel en skrivtavla eller utrustning, material på väggar och golv. ningsrum med mera. Att till exempel
-en digital skärm så kan det också bli Ett sådant träningsutrymme bör ligga i ha motionscyklar i eller alldeles intill
-en teorisal för skolundervisning eller direkt anslutning till hallrummet, så att hallrummet ger möjligheten att kunna
-en samlingslokal för tex klubbens en eller flera personer kan träna där värma upp eller hålla värmen under ett
-föreningsmöten. En multisal är också utan att splittras från gruppen. Det ger träningspass. Cyklarna kan då även
-användbar för de minsta skolbarnen också bra möjlighet för en lärare eller användas av till exempel föräldrar som
-eller skolans fritidsverksamhet som ledare att ha uppsikt över träningsrum- tittar på sina barns träningar. Ständig
-rörelserum. Även här kan vikväggar met. Rummet får med fördel också närhet till individuell träning, oavsett
-skapa fler möjligheter i samma rum. ligga nåbart från entrén för att göra det form, förenklar också för den i en grupp
-lättillgängligt. Styrketräning sker både som tillfälligt vill eller behöver göra
-Styrketräning          med fria vikter, med maskiner, med något annat än övriga gruppen.
-Allt mer fokus inom träningen läggs enkla redskap som bollar och gum-
-på styrketräning som komplement till miband eller med kroppen som motvikt.
-den mer idrottsspecifika träningen. I vissa moment och med vissa maskiner
-Den är viktig som skadeförebyggande krävs det att en ledare eller lärare är
-träning och även rehabilitering efter en med, vilket gör att ett styrketräningsrum
-skada. Den är också viktig för att stärka gärna får utformas som två zoner,
-kroppen och därmed utvecklas inom en yttre lätt tillgänglig med enklare
-idrottandet. På senare tid har också redskap och en inre med utrustning
-styrka blivit populärare som enskild som kan stängas om. Med bra kontakt
-träningsform allt längre ned i åldrarna. till kringliggande rum och en zonering
-Flera idrotter erbjuder idag den typen för enklare respektive mer avancerad
-av träning i högre grad för att ge mer träning blir styrketräningen också mer
-variation och en större bredd, och tillgänglig och inkluderande.
-därmed göra idrotten och träningen mer Som ett komplement, eller ett
-attraktiv.             enklare alternativ till detta bör enklare
-Att i en idrottshall utforma ett styrketräningsmöjligheter finnas i andra
-specifikt rum för styrketräning ger bäst delar av en idrottshall också, den skall
-möjligheter för att skapa de bästa kunna finnas i det stora hallrummet,
-förutsättningarna bland annat vad gäller i korridorer, biytor, entré, omkläd-
+finns det till exempel en skrivtavla eller
+en digital skärm så kan det också bli
+en teorisal för skolundervisning eller
+en samlingslokal för tex klubbens
+föreningsmöten. En multisal är också
+användbar för de minsta skolbarnen
+eller skolans fritidsverksamhet som
+rörelserum. Även här kan vikväggar
+skapa fler möjligheter i samma rum.
+Styrketräning
+Allt mer fokus inom träningen läggs
+på styrketräning som komplement till
+den mer idrottsspecifika träningen.
+Den är viktig som skadeförebyggande
+träning och även rehabilitering efter en
+skada. Den är också viktig för att stärka
+kroppen och därmed utvecklas inom
+idrottandet. På senare tid har också
+styrka blivit populärare som enskild
+träningsform allt längre ned i åldrarna.
+Flera idrotter erbjuder idag den typen
+av träning i högre grad för att ge mer
+variation och en större bredd, och
+därmed göra idrotten och träningen mer
+attraktiv.
+Att i en idrottshall utforma ett
+specifikt rum för styrketräning ger bäst
+möjligheter för att skapa de bästa
+förutsättningarna bland annat vad gäller
+
+utrustning, material på väggar och golv.
+Ett sådant träningsutrymme bör ligga i
+direkt anslutning till hallrummet, så att
+en eller flera personer kan träna där
+utan att splittras från gruppen. Det ger
+också bra möjlighet för en lärare eller
+ledare att ha uppsikt över träningsrum-
+met. Rummet får med fördel också
+ligga nåbart från entrén för att göra det
+lättillgängligt. Styrketräning sker både
+med fria vikter, med maskiner, med
+enkla redskap som bollar och gum-
+miband eller med kroppen som motvikt.
+I vissa moment och med vissa maskiner
+krävs det att en ledare eller lärare är
+med, vilket gör att ett styrketräningsrum
+gärna får utformas som två zoner,
+en yttre lätt tillgänglig med enklare
+redskap och en inre med utrustning
+som kan stängas om. Med bra kontakt
+till kringliggande rum och en zonering
+för enklare respektive mer avancerad
+träning blir styrketräningen också mer
+tillgänglig och inkluderande.
+Som ett komplement, eller ett
+enklare alternativ till detta bör enklare
+styrketräningsmöjligheter finnas i andra
+delar av en idrottshall också, den skall
+kunna finnas i det stora hallrummet,
+i korridorer, biytor, entré, omkläd-
+
+ningsrum med mera. Att till exempel
+ha motionscyklar i eller alldeles intill
+hallrummet ger möjligheten att kunna
+värma upp eller hålla värmen under ett
+träningspass. Cyklarna kan då även
+användas av till exempel föräldrar som
+tittar på sina barns träningar. Ständig
+närhet till individuell träning, oavsett
+form, förenklar också för den i en grupp
+som tillfälligt vill eller behöver göra
+något annat än övriga gruppen.
 
 Spontan möjlighet till fysträning i direkt anslutning till hallrummet. Korridor med träningsutrustning och uppvärmning i
 Sdr. Felding Hallen, Sönder Felding, Danmark. anslutning till hall . Tornhöj idrottscenter, Aalborg, Dan-
@@ -27488,46 +31324,107 @@ Runavik, Färöarna. Foto: LOA Fonden, Martin Sirkovsky Foto:Unisport
 
 Rum       för    mindre         rörelse
 
-I framtidens idrotts-  I dagens hallar sker detta antingen Omklädningsrummen används i
-
-hall finns rum där akti- inne i hallrummet på golvet eller på många hallar idag som en plats för
-en läktare. Vanligt under cuper och genomgångar inför eller efter träning
+I framtidens idrotts-
+hall finns rum där akti-
 vitet och rörelse inte är
-sammandrag är också att man har eller tävling/match. Ofta i samband med
 det primära. Rum för att
-genomgångar i ej ändamålsenliga ombyte. Med en genomtänkt utform-
-samla den mindre grup- omklädningsrum eller tillgängliga biytor. ning, rätt utrustning och med något
-pen, rum för utbildning Att samlas före och efter en träning är mer tilltagna ytor av omklädningsdelen
-också en viktig del i det sociala, att göra så skapas direkt ett mervärde då
+
+samla den mindre grup-
+pen, rum för utbildning
 eller för administration
-idrottshallen till en mötesplats. omklädningsrummet får ytterligare en
 och planering. Dessa rum
-För föreningsidrotten kan det vara funktion. Se kapitlet om Att byta om för
-ska möjliggöra samnytt- samlingar i form av möten utanför mer detaljer. Viktigt att komma ihåg är
-jande av fler verksamhe- själva träningen, det kan vara även här att en genomgång i ett omklädningsrum
-teoretisk undervisning av olika längd kan medföra problem med att blanda
+ska möjliggöra samnytt-
+jande av fler verksamhe-
+
 ter och föreningstyper.
-och form samt vid genomgångar inför, pojkar och flickor.
-under eller efter ett idrottspass eller En multisal, som beskrivs under
-Benämningen på det som i skolans under en tävling. kapitlet Mer rörelse är en given plats för
-värld tidigare kallades Skolgymnastik,       större samlingar eller teorigenomgångar
-till dagens Idrott och hälsa speglar Att hitta och använda rätt platser för skolan när den utrustas med
-inte bara hur innehållet har förändrats Att inrymma en ren teorisal i en sittmöjligheter och skrivtavla/digital
-utan indikerar också ett behov av andra idrottshall är inte det primära målet, det skärm.
-typer av funktioner än renodlade rum för är viktigare att hitta ändamålsenliga Ett café med serveringsdel kan
-idrott. I de fall där idrottshallen ligger platser för behoven man har, både för användas och svara mot flera behov.
-i direkt kontakt med en skolbyggnad skola och föreningsidrott. Det kan vara Även hallrummet bör utformas för att
-finns en klar samnyttjandechans i att en gradäng där en större grupp lyssnar möjliggöra samlingar och genom-
-nyttja ett klassrum för längre teoripass, till en som instruerar, det kan vara en gångar. En läktare i kombination med en
-men där så inte är fallet blir en separat samling bord och stolar för att kunna rörlig skrivtavla eller digital skärm kan bli
-teori- eller samlingssal dåligt utnyttjad. sitta i grupper, ett rum med en möble- ett spontant genomgångsrum. Att visa
-Lika viktigt är att kunna samlas för ring som möjliggör att alla får komma till inspelad rörlig bild blir allt vanligare som
-genomgångar av olika längd och form tals eller en plats där två, tre personer nämnts tidigare.
-inför, under eller efter en lektion. kan prata enskilt. Här gäller det att se Det spontana snacket eller den
-För föreningsidrotten finns också möjligheterna i de rum och platser som korta avstämningen är också en viktig
-behov av att samla en grupp för att vanligtvis finns i en idrottshall, eller att del i både det social och som det mer
-lyssna, prata, diskutera eller analysera. hitta nya. formella. Utforma därför idrottshallen
+
+Benämningen på det som i skolans
+värld tidigare kallades Skolgymnastik,
+till dagens Idrott och hälsa speglar
+inte bara hur innehållet har förändrats
+utan indikerar också ett behov av andra
+typer av funktioner än renodlade rum för
+idrott. I de fall där idrottshallen ligger
+i direkt kontakt med en skolbyggnad
+finns en klar samnyttjandechans i att
+nyttja ett klassrum för längre teoripass,
+men där så inte är fallet blir en separat
+teori- eller samlingssal dåligt utnyttjad.
+Lika viktigt är att kunna samlas för
+genomgångar av olika längd och form
+inför, under eller efter en lektion.
+För föreningsidrotten finns också
+behov av att samla en grupp för att
+lyssna, prata, diskutera eller analysera.
+
 PERSPEKTIVBILD ENTRÉ
+
+I dagens hallar sker detta antingen
+inne i hallrummet på golvet eller på
+en läktare. Vanligt under cuper och
+sammandrag är också att man har
+genomgångar i ej ändamålsenliga
+omklädningsrum eller tillgängliga biytor.
+Att samlas före och efter en träning är
+också en viktig del i det sociala, att göra
+idrottshallen till en mötesplats.
+För föreningsidrotten kan det vara
+samlingar i form av möten utanför
+själva träningen, det kan vara även här
+teoretisk undervisning av olika längd
+och form samt vid genomgångar inför,
+under eller efter ett idrottspass eller
+under en tävling.
+Att hitta och använda rätt platser
+Att inrymma en ren teorisal i en
+idrottshall är inte det primära målet, det
+är viktigare att hitta ändamålsenliga
+platser för behoven man har, både för
+skola och föreningsidrott. Det kan vara
+en gradäng där en större grupp lyssnar
+till en som instruerar, det kan vara en
+samling bord och stolar för att kunna
+sitta i grupper, ett rum med en möble-
+ring som möjliggör att alla får komma till
+tals eller en plats där två, tre personer
+kan prata enskilt. Här gäller det att se
+möjligheterna i de rum och platser som
+vanligtvis finns i en idrottshall, eller att
+hitta nya.
+
+Omklädningsrummen används i
+många hallar idag som en plats för
+genomgångar inför eller efter träning
+eller tävling/match. Ofta i samband med
+ombyte. Med en genomtänkt utform-
+ning, rätt utrustning och med något
+mer tilltagna ytor av omklädningsdelen
+så skapas direkt ett mervärde då
+omklädningsrummet får ytterligare en
+funktion. Se kapitlet om Att byta om för
+mer detaljer. Viktigt att komma ihåg är
+att en genomgång i ett omklädningsrum
+kan medföra problem med att blanda
+pojkar och flickor.
+En multisal, som beskrivs under
+kapitlet Mer rörelse är en given plats för
+större samlingar eller teorigenomgångar
+för skolan när den utrustas med
+sittmöjligheter och skrivtavla/digital
+skärm.
+Ett café med serveringsdel kan
+användas och svara mot flera behov.
+Även hallrummet bör utformas för att
+möjliggöra samlingar och genom-
+gångar. En läktare i kombination med en
+rörlig skrivtavla eller digital skärm kan bli
+ett spontant genomgångsrum. Att visa
+inspelad rörlig bild blir allt vanligare som
+nämnts tidigare.
+Det spontana snacket eller den
+korta avstämningen är också en viktig
+del i både det social och som det mer
+formella. Utforma därför idrottshallen
 
 Trappa, gradäng och plats för genomgång i ett. Café med ordnat utrymme att samlas på.
 Stokkebaeksskolen, Hesselager, Danmark. Foto: LOA Fonden, Leif Tuxen Oddense Hallen, Spottrup, Danmark.
@@ -27536,32 +31433,57 @@ Foto: LOA Fonden
 
 <!-- sida 668 -->
 
+med många olika naturliga mötesplat-
+ser, till exempel en korridor med plats
+för en sittplats, eller en trappa som kan
+vara en minigradäng
+
+Plats för det administrativa
+Att göra plats för ett rum för idrottens
+administrativa behov skapar såklart
+nytta och mervärden. De vanligaste
+behoven är kansli, domarrum och
+lärararbetsplats, tre funktioner som
+utan större problem kan samsas om
+samma yta. På skoltid handlar det om
+ett arbetsrum för en eller flera lärare.
+En lärararbetsplats kan finnas i skolans
+huvudbyggnad om det finns en direkt
+anslutning, men ett lärarrum i idrottshal-
+len medför också vuxennärvaro i större
+grad på dagtid. Därför är en placering
+med bra överblick över de sociala
+ytorna ett plus, vilket också gör rummet
+och personen man söker lättare att
+hitta för besökare eller elever. Kan
+man dessutom få till en överblick över
+
+hallrummet är det ett mervärde.
+Behov av kansli är väldigt beroende
+av lokala förutsättningar och föreningar-
+nas behov, men ett rum med arbetsplats
+och förvaring är grunden. Kansliet kan
+även det vara delvis bemannat vissa
+tider på dagen, eller tas i bruk när det
+är aktiviteter i hallen. Då kan rummet
+även få funktion som domarrum eller
+funktionärsrum. Låsbara skåp är alla
+betjänta av, kanske också en tillgänglig
+skrivare/kopiator. Direkt dagsljus är
+förstås eftersträvansvärt och är också
+ett lagkrav om det är ett arbetsrum för
+lärare. Rummet bör också utrustas med
+omklädningsdel med dusch. Att kombi-
+nera lärarrum, kansli och domarrum bör
+rätt utformat inte vara ett problem, utan
+snarare en möjlighet att få till trevligare
+rum och samnyttjansmöjligheter kring
+skrivare, duschar mm.
+
 3\. VÄLKOMMEN TILL HALLEN
 
-med många olika naturliga mötesplat- hallrummet är det ett mervärde.
-ser, till exempel en korridor med plats Behov av kansli är väldigt beroende
-för en sittplats, eller en trappa som kan av lokala förutsättningar och föreningar-
-vara en minigradäng    nas behov, men ett rum med arbetsplats
-och förvaring är grunden. Kansliet kan
-Plats för det administrativa även det vara delvis bemannat vissa
-Att göra plats för ett rum för idrottens tider på dagen, eller tas i bruk när det
-administrativa behov skapar såklart är aktiviteter i hallen. Då kan rummet
-nytta och mervärden. De vanligaste även få funktion som domarrum eller
-behoven är kansli, domarrum och funktionärsrum. Låsbara skåp är alla
-lärararbetsplats, tre funktioner som betjänta av, kanske också en tillgänglig
-utan större problem kan samsas om skrivare/kopiator. Direkt dagsljus är
-samma yta. På skoltid handlar det om förstås eftersträvansvärt och är också
-ett arbetsrum för en eller flera lärare. ett lagkrav om det är ett arbetsrum för
-En lärararbetsplats kan finnas i skolans lärare. Rummet bör också utrustas med
-huvudbyggnad om det finns en direkt omklädningsdel med dusch. Att kombi-
-anslutning, men ett lärarrum i idrottshal- nera lärarrum, kansli och domarrum bör
-len medför också vuxennärvaro i större rätt utformat inte vara ett problem, utan
-grad på dagtid. Därför är en placering snarare en möjlighet att få till trevligare
-med bra överblick över de sociala rum och samnyttjansmöjligheter kring
-ytorna ett plus, vilket också gör rummet skrivare, duschar mm.
-och personen man söker lättare att
-hitta för besökare eller elever. Kan              Spontan mötesplats i hallrummet.
-man dessutom få till en överblick över          Rotebro Idrottshall, Sollentuna. Foto:
+Spontan mötesplats i hallrummet.
+Rotebro Idrottshall, Sollentuna. Foto:
 White arkitekter, Thomas Zaar
 
 Spontan mötesplats i entrén.
@@ -27573,50 +31495,115 @@ Foto: LOA Fonden, Rune Johansen
 
 Förvaring
 
-I Framtidens idrottshall den är säker så att inga olyckor sker. meter hög, tröskelfri, med motordriven
-
-får fler tillgång till mer. Att plocka fram redskap är inte enbart rullport. Riktvärde för ytan är minst 75
-något som barnen ser som jobbigt utan kvm, fördelat över eventuella halldelar.
+I Framtidens idrottshall
+får fler tillgång till mer.
 Rymliga förråd i direkt
-har också ha ett värde som något roligt Om annan verksamhet än idrott skall in
 anslutning till hallrum-
-de gör tillsammans med sina vänner, för i hallen (tex kulturverksamhet) så måste
-met samt nåbara från   att förbereda en aktivitet de längtar till. extra utrymme tillskapas som inte tar yta
-utsida samnyttjas av                         från idrotten.
-Förrådsförvaring        De stora förråden kompletteras med
+met samt nåbara från
+
+utsida samnyttjas av
 föreningsliv och skola.
-Att kunna ha utrustning tillsammans mindre låsbara förvaringsutrymmen
 Genomtänkta lösningar
-åtkomlig för flera är något som kan för tex det som krävs för respektive
-ger volymeffektiv förva- skapa stora mervärden och komma till föreningsadministration, domarklockor
-ring nära till hands.  glädje för flera brukare. En bra lösning etc.
+ger volymeffektiv förva-
+ring nära till hands.
+
+Skolans och föreningsidrotternas
+behov av förvaring utgår ifrån samma
+grundläggande principer, det skall
+finnas tillräckligt med förvaringsutrymme
+och det skall vara lättåtkomligt. Detta
+för att spara tid vid igångsättning av
+träningspass eller lektioner. Men vad
+som skall förvaras skiljer sig lite åt.
+Bland föreningsidrotterna så är det
+innebandyn med matchsargen och
+framförallt gymnastiken med alla mattor,
+hoppredskap med mera som har mest
+skrymmande utrustning. Likaså har
+skolans idrott stort behov av förvaring
+av det som kan ses som en idrottshalls
+basutrustning. Skolans och gymnas-
+tikens utrustning är till viss del den
+samma, utrustning som gärna andra
+idrotter också vill ha tillgång till. Såväl i
+skolans idrott som föreningsidrotten är
+barnen med och plockar fram och tar
+undan utrustning. Det gör att förvaring
+och transport måste utformas så att
+
+den är säker så att inga olyckor sker.
+Att plocka fram redskap är inte enbart
+något som barnen ser som jobbigt utan
+har också ha ett värde som något roligt
+de gör tillsammans med sina vänner, för
+att förbereda en aktivitet de längtar till.
+Förrådsförvaring
+Att kunna ha utrustning tillsammans
+åtkomlig för flera är något som kan
+skapa stora mervärden och komma till
+glädje för flera brukare. En bra lösning
 är att den gemensamma utrustningen
-Skolans och föreningsidrotternas placeras i ett eller flera förråd i vilka Förvaring i hallrummet
-behov av förvaring utgår ifrån samma föreningarna och skolan sen kan ha Att nyttja hallens volym för förvaring
-grundläggande principer, det skall mindre låsbara delar för det man inte är en outnyttjad möjlighet. Det finns
-finnas tillräckligt med förvaringsutrymme anser sig kunna dela. Det i form av skåp idag vanliga lösningar för att hissa
-och det skall vara lättåtkomligt. Detta eller ett flexibelt gallerbursystem som upp viss typ av utrustning, till exempel
-för att spara tid vid igångsättning av kan anpassas över tid. Här behöver tjockmattor eller tumblinggolv men det
-träningspass eller lektioner. Men vad man då utgå från antalet föreningar som skulle kunna göras med mycket fler
-som skall förvaras skiljer sig lite åt. kommer ha tillgång till hallen. redskap, framförallt inom gymnastiken.
-Bland föreningsidrotterna så är det En nödvändig förutsättning för den Även utrymmen under läktare, trap-
-innebandyn med matchsargen och flyttbara utrustningen är tillräckligt stora por, gradänger kan användas. Att
-framförallt gymnastiken med alla mattor, redskapsrum gällande såväl både höjd, sprida ut redskap i hallen med smarta
-hoppredskap med mera som har mest djup och bredd. Förvaringsutrymmen förvaringslösningar underlättar också i
-skrymmande utrustning. Likaså har bör finnas i direkt anslutning till den vardagliga träningen, när allt skall
-skolans idrott stort behov av förvaring aktivitetsytorna. Är hallen delbar bör det fram på kort tid, tex volleybollstolpar på
-av det som kan ses som en idrottshalls finnas likvärdiga förråd till alla delar. vägg nära planen. Gymnastikutrustning
-basutrustning. Skolans och gymnas- Mängden och typen av redskap gör sig också bra nedfälld i gropar, tex
-tikens utrustning är till viss del den i föreningsidrotten är beroende av mattor och trampoliner.
-samma, utrustning som gärna andra antalet deltagare och verksamhetens
-idrotter också vill ha tillgång till. Såväl i inriktning. De flesta redskapen förvaras Uteförråd
-skolans idrott som föreningsidrotten är på vagnar och det är en stor fördel Förrådsrum nåbart utifrån bör också
-barnen med och plockar fram och tar om redskapen kan rullas rakt ut från finnas för att tillgodose uteidrotten för
-undan utrustning. Det gör att förvaring förråden in i hallen och att öppningen att öka möjligheten att ha organiserad
-och transport måste utformas så att utförs minst 3 meter bred gånger 2.5 och mångfacetterad träning på hallens
+placeras i ett eller flera förråd i vilka
+föreningarna och skolan sen kan ha
+mindre låsbara delar för det man inte
+anser sig kunna dela. Det i form av skåp
+eller ett flexibelt gallerbursystem som
+kan anpassas över tid. Här behöver
+man då utgå från antalet föreningar som
+kommer ha tillgång till hallen.
+En nödvändig förutsättning för den
+flyttbara utrustningen är tillräckligt stora
+redskapsrum gällande såväl både höjd,
+djup och bredd. Förvaringsutrymmen
+bör finnas i direkt anslutning till
+aktivitetsytorna. Är hallen delbar bör det
+finnas likvärdiga förråd till alla delar.
+Mängden och typen av redskap
+i föreningsidrotten är beroende av
+antalet deltagare och verksamhetens
+inriktning. De flesta redskapen förvaras
+på vagnar och det är en stor fördel
+om redskapen kan rullas rakt ut från
+förråden in i hallen och att öppningen
+utförs minst 3 meter bred gånger 2.5
+
+meter hög, tröskelfri, med motordriven
+rullport. Riktvärde för ytan är minst 75
+kvm, fördelat över eventuella halldelar.
+Om annan verksamhet än idrott skall in
+i hallen (tex kulturverksamhet) så måste
+extra utrymme tillskapas som inte tar yta
+från idrotten.
+De stora förråden kompletteras med
+mindre låsbara förvaringsutrymmen
+för tex det som krävs för respektive
+föreningsadministration, domarklockor
+etc.
+Förvaring i hallrummet
+Att nyttja hallens volym för förvaring
+är en outnyttjad möjlighet. Det finns
+idag vanliga lösningar för att hissa
+upp viss typ av utrustning, till exempel
+tjockmattor eller tumblinggolv men det
+skulle kunna göras med mycket fler
+redskap, framförallt inom gymnastiken.
+Även utrymmen under läktare, trap-
+por, gradänger kan användas. Att
+sprida ut redskap i hallen med smarta
+förvaringslösningar underlättar också i
+den vardagliga träningen, när allt skall
+fram på kort tid, tex volleybollstolpar på
+vägg nära planen. Gymnastikutrustning
+gör sig också bra nedfälld i gropar, tex
+mattor och trampoliner.
+Uteförråd
+Förrådsrum nåbart utifrån bör också
+finnas för att tillgodose uteidrotten för
+att öka möjligheten att ha organiserad
+och mångfacetterad träning på hallens
 
 Gropar med flyttbara golv. Tumblinggolv upphissat i tak och läktare nedfällbara från vägg.
-Sdr. Felding Hallen, Sönder Felding, Danmark.           Foto: Unisport
+Sdr. Felding Hallen, Sönder Felding, Danmark.          Foto: Unisport
 Foto: LOA Fonden, Rune Johansen
 48
 
@@ -27629,39 +31616,60 @@ Låsbar del
 Öppen del
 
 Entré
-utsida. Genom att göra det nåbart från med sig personliga tillhörigheter, såsom det kan vara på läktarplats om sådan
-Låsbar del
-utsidan så besparar man sig långa väskor ytterkläder mm, in i hallen. Ofta finns eller gärna i inbyggd anpassad
-transporter och smuts in i byggnaden. grundat i att man kommer ombytt direkt förvaring med laddningsmöjlighet för
-Entré
-utifrån utan att passera omklädnings- mobiltelefoner väl synliga. Låsbara
-Personlig förvaring    rummet eller att man inte vågar lämna skåp i omklädningsrum, korridorer mm
-Utöver förvaring av idrottsutrustning så kläder mm inne i omklädningsrummet. tenderar till att mest stå oanvända.
-Hallrum
-finns behov av personlig förvaring. Idag Därför behövs plats för detta inne i hal-
-är det snarare regel än undantag att len, antingen i form av golvyta som inte
-föreningsidrottare och allmänheten tar inkräktar på idrotts eller aktivitetsytan,
-Hallrum
+utsida. Genom att göra det nåbart från
+utsidan så besparar man sig långa
+transporter och smuts in i byggnaden.
+
+Personlig förvaring
+Utöver förvaring av idrottsutrustning så
+finns behov av personlig förvaring. Idag
+är det snarare regel än undantag att
+föreningsidrottare och allmänheten tar
+
 Förvaringsmöjligheter
+
+med sig personliga tillhörigheter, såsom
+väskor ytterkläder mm, in i hallen. Ofta
+grundat i att man kommer ombytt direkt
+Entré
+utifrån utan att passera omklädnings-
+rummet eller att man inte vågar lämna
+kläder mm inne i omklädningsrummet.
+Hallru
+Därför behövs plats för detta inne i hal-
+len, antingen i form av golvyta som inte
+inkräktar på idrotts eller aktivitetsytan,
 Öppen del
+
+det kan vara på läktarplats om sådan
+Låsbar del
+finns eller gärna i inbyggd anpassad
+förvaring med laddningsmöjlighet för
+mobiltelefoner väl synliga. Låsbara
+skåp i omklädningsrum, korridorer mm
+tenderar till att mest stå oanvända.
+
+Hallrum
+
 Lättillgänglig förvaring         Förråd i källarplan nåbar med
 i förråd med rullport för        hiss, samordnas med hisspla-
 alltmöjligt.             Låsbar delcering i byggnaden.
+
 Entré
 
-Öppen del            Förvaring upphissad
+Öppen del               Förvaring upphissad
 i tak mellan takbalkar            Förvaring under fast inred-
 Hallrum
 eller längs väggar                ning såsom läktare, trappor
 utanför spelytor. För             gradänger, för mattor och
-Låsbar del tex mattor, trampoliner,         annan lös utrustning.
+Låsbar del tex mattor, trampoliner,        annan lös utrustning.
 tracks, mål mm.
 Entré
 
-Närförvaring i                   Förvaring infälld i vägg bakom
-infällda utrymmen i              ribbstol, spegelvägg etc,
-vägg för tex väskor,             för mattor och annan platt
-mindre utrustning och            utrustning.
+Närförvaring i                    Förvaring infälld i vägg bakom
+infällda utrymmen i               ribbstol, spegelvägg etc,
+vägg för tex väskor,              för mattor och annan platt
+mindre utrustning och             utrustning.
 Hallrum
 redskap.
 
@@ -27674,69 +31682,151 @@ med mera.
 
 <!-- sida 671 -->
 
-Att    byta      om
+Att    byta     om
 
-Framtidens idrottshall idag gjort att många fastighetsägare kommer ombytta till träningen och inte
-
-har omklädningsrum som ifrågasätter omklädningsrummens plats duschar alls eller duschar hemma. Men
-i idrottshallen.      det finns ändå en önskan om att kunna
+Framtidens idrottshall
+har omklädningsrum som
 är attraktivt gestaltade,
-träffas innan och efter ett pass, där
 som med genomtänkt
-Behövs omklädningsrum? många ser omklädningsrummet som
-utformning blir flerfunk- Ska det då finnas omklädningsrum en lite mer avskild plats för detta. För
-tionella och inkluderande i Framtidens idrottshall? Det sam- många är det en plats för gemenskap
-mantagna svaret på det är ja, men de och kompisskap.
+
+utformning blir flerfunk-
+tionella och inkluderande
 genom att möjliggöra fle-
-behöver utformas på andra sätt för att
 ra sätt att byta om på.
-möta dagens behov. Att duscha är en Nya lösningar
-grundläggande hygien och fostrans- Så hur kan omklädningsrummen
-Att byta om i samband med ett fråga, därför är det viktigt att inte bygga utformas för att möta dagens behov?
-träningspass eller en lektion är inte bort möjligheten utan snarare att göra Ibland kan ett kompakt, yteffektivt
-längre den naturliga ritual som det den mer attraktiv. Många understryker omklädningsrum för en mindre grupp
-tidigare har varit. Anledningen till det också att omklädning tillsammans har barn vara en bra och trygg lösning
-är flera, det handlar till stor del om nya en viktig normvidgande funktion i ett för den lilla gruppen. En lösning som
-vanor, man rör sig idag naturligare i samhälle där våra kroppsideal blir allt är vanligt förekommande idag. Men
-det offentliga iförd träningskläder, allt snävare. genom att tänka flerfunktion och ytef-
-fler får skjuts till hallen i bil och kan Önskemålen och kraven är många, fektivitet kan både kostnadsbesparingar
-därmed komma ombytta för att nämna omklädningsrum skall vara tillgängliga, göras och mervärden uppstå.
-några. Det har också i modern tid trygga, inbjudande, yteffektiva, hela Vissa utformningsaspekter ger
-skett en förflyttning från att främst se och rena, hållbara och välanvända. I tryggare och mer använda omkläd-
-till det kollektivas behov till att istället skolans värld är det fortfarande näst ningsrum. Att hindra insyn utifrån är helt
-respektera den enskilda individens intill standard att man byter kläder till avgörande för tryggheten. Detta kan
-integritet. För många människor är det lektionen och det är eftersträvansvärt åstadkommas med väl planerade place-
-idag heller inte självklart att klä om inför att duscha efteråt, även om vanorna där ring av väggar och dörrar. Att kunna se
-andra. Beroende på vem man är, den ändras.   men inte synas när man duschar skapar
-kulturella bakgrunden, självkänsla, ålder,   trygghet och blir allt vanligare. Därför
-tillhörighet till en grupp etc känner man Skolans och föreningarnas ska duschbås förses med dörrar.
-sig olika bekväm med att vara naken nyttjande  Genom att utforma omklädningen
-i grupp. En annan inverkande otrygg- Skolans standardbehov består i att ha så att två omklädningsrum delar på ett
-hetsfaktor är också den verklighet vi har två omklädningsrum till varje klass, ett gemensamt duschrum kan yta sparas
-där tekniken har gjort att bilder kan tas för pojkar och ett för flickor. Detta inne- utan att funktionen behöver försämras.
-och spridas nästan överallt. Allt detta bär omklädningsrums enheter för ca 15 En klass kan då sköta sitt ombyte på
-har på många platser lett till en situation barn. Man behöver alltså kunna byta om ena sidan, en annan på den andra utan
-där de traditionella omklädningsrum- inför skolgymnastiken, lämna kläderna i att behöva mötas. En förutsättning är
-men används allt mindre och de utsätts omklädningsrummet och sedan duscha dock att de är av samma kön. Resultatet
-också ofta för skadegörelse. Kostnaden och byta om efter skolgymnastiken. blir yteffektivare och med färre duschar.
-för omklädningsrum är också ofta en Inom föreningsidrotten ser det mer
-fråga i ett projekt och det finns också olika ut, beroende på åldrar, idrott Mer än ett omklädningsrum
-en oro och en risk för dyra vattenskador och vanor, men en tydlig tendens är Kan omklädningsrummet användas till
-vid skadegörelse. Dessa faktorer har att övervägande majoritet av barnen mer än bara omklädning utifrån skolans
+
+Att byta om i samband med ett
+träningspass eller en lektion är inte
+längre den naturliga ritual som det
+tidigare har varit. Anledningen till det
+är flera, det handlar till stor del om nya
+vanor, man rör sig idag naturligare i
+det offentliga iförd träningskläder, allt
+fler får skjuts till hallen i bil och kan
+därmed komma ombytta för att nämna
+några. Det har också i modern tid
+skett en förflyttning från att främst se
+till det kollektivas behov till att istället
+respektera den enskilda individens
+integritet. För många människor är det
+idag heller inte självklart att klä om inför
+andra. Beroende på vem man är, den
+kulturella bakgrunden, självkänsla, ålder,
+tillhörighet till en grupp etc känner man
+sig olika bekväm med att vara naken
+i grupp. En annan inverkande otrygg-
+hetsfaktor är också den verklighet vi har
+där tekniken har gjort att bilder kan tas
+och spridas nästan överallt. Allt detta
+har på många platser lett till en situation
+där de traditionella omklädningsrum-
+men används allt mindre och de utsätts
+också ofta för skadegörelse. Kostnaden
+för omklädningsrum är också ofta en
+fråga i ett projekt och det finns också
+en oro och en risk för dyra vattenskador
+vid skadegörelse. Dessa faktorer har
+
+idag gjort att många fastighetsägare
+ifrågasätter omklädningsrummens plats
+i idrottshallen.
+
+Behövs omklädningsrum?
+Ska det då finnas omklädningsrum
+i Framtidens idrottshall? Det sam-
+mantagna svaret på det är ja, men de
+behöver utformas på andra sätt för att
+möta dagens behov. Att duscha är en
+grundläggande hygien och fostrans-
+fråga, därför är det viktigt att inte bygga
+bort möjligheten utan snarare att göra
+den mer attraktiv. Många understryker
+också att omklädning tillsammans har
+en viktig normvidgande funktion i ett
+samhälle där våra kroppsideal blir allt
+snävare.
+Önskemålen och kraven är många,
+omklädningsrum skall vara tillgängliga,
+trygga, inbjudande, yteffektiva, hela
+och rena, hållbara och välanvända. I
+skolans värld är det fortfarande näst
+intill standard att man byter kläder till
+lektionen och det är eftersträvansvärt
+att duscha efteråt, även om vanorna där
+ändras.
+Skolans och föreningarnas
+nyttjande
+Skolans standardbehov består i att ha
+två omklädningsrum till varje klass, ett
+för pojkar och ett för flickor. Detta inne-
+bär omklädningsrums enheter för ca 15
+barn. Man behöver alltså kunna byta om
+inför skolgymnastiken, lämna kläderna i
+omklädningsrummet och sedan duscha
+och byta om efter skolgymnastiken.
+Inom föreningsidrotten ser det mer
+olika ut, beroende på åldrar, idrott
+och vanor, men en tydlig tendens är
+att övervägande majoritet av barnen
+
+”
+Jag   duschar     inte  i
+
+hallen!
+
+\- tjej som tränar gymnastik, 15 år, Täljehallen
+
+50
+
+kommer ombytta till träningen och inte
+duschar alls eller duschar hemma. Men
+det finns ändå en önskan om att kunna
+träffas innan och efter ett pass, där
+många ser omklädningsrummet som
+en lite mer avskild plats för detta. För
+många är det en plats för gemenskap
+och kompisskap.
+Nya lösningar
+Så hur kan omklädningsrummen
+utformas för att möta dagens behov?
+Ibland kan ett kompakt, yteffektivt
+omklädningsrum för en mindre grupp
+barn vara en bra och trygg lösning
+för den lilla gruppen. En lösning som
+är vanligt förekommande idag. Men
+genom att tänka flerfunktion och ytef-
+fektivitet kan både kostnadsbesparingar
+göras och mervärden uppstå.
+Vissa utformningsaspekter ger
+tryggare och mer använda omkläd-
+ningsrum. Att hindra insyn utifrån är helt
+avgörande för tryggheten. Detta kan
+åstadkommas med väl planerade place-
+ring av väggar och dörrar. Att kunna se
+men inte synas när man duschar skapar
+trygghet och blir allt vanligare. Därför
+ska duschbås förses med dörrar.
+Genom att utforma omklädningen
+så att två omklädningsrum delar på ett
+gemensamt duschrum kan yta sparas
+utan att funktionen behöver försämras.
+En klass kan då sköta sitt ombyte på
+ena sidan, en annan på den andra utan
+att behöva mötas. En förutsättning är
+dock att de är av samma kön. Resultatet
+blir yteffektivare och med färre duschar.
+Mer än ett omklädningsrum
+Kan omklädningsrummet användas till
+mer än bara omklädning utifrån skolans
 behov? Ja, genom att skapa ett större
 rum för ombyte uppstår möjligheten att
 använda rummet även för samlingar,
-”
 uppvärmning, genomgångar eller enk-
-Jag   duschar     inte  i
 lare träning. En plats där klassen eller
 laget/gruppen kan samlas innan eller
-hallen!
 efter en aktivitet, här fördriver man tid
 mellan tex matcher/tävlingar under en
-\- tjej som tränar gymnastik, 15 år, Täljehallen cup eller liknande. Även som samlings-
+cup eller liknande. Även som samlings-
 lokal fyller många omklädningsrum en
-50
 
 <!-- sida 672 -->
 
@@ -27758,12 +31848,13 @@ ljusgenomsläpplig plast eller Idag måste vi också möta det behov
 glas får man indirekt dagsljus av egna omklädningsrum som männ-
 Entré
 Translucent glasparti in i omklädningsrummet iskor som varken identifierar sig som
-Entré                  och samtidigt en  män eller kvinnor har. Här blir också en
+Entré                 och samtidigt en   män eller kvinnor har. Här blir också en
 Translucent glasparti
 användbar skrivtavla i tillgänglighetsanpassad toalett med
-omklädningsdelen. dusch nåbar från samma plats som
+omklädningsdelen.  dusch nåbar från samma plats som
 Hallrum                              övriga omklädningsrum en bra lösning.
 Om ett sådant rum får tilltagna mått så
+
 Utgång mot hall bör utformas kan det också bli ett omklädningsrum
 Hallrum
 Sluss              så att dörrar inte slår upp i för en funktionsnedsatt besökare
@@ -27773,19 +31864,18 @@ också en lämplig plats för en Ett omklädningsrum nåbart från utsidan
 vattenstation.    är också en bra lösning för att stötta
 Omklädning               Omklädning
 uteidrott och vardagsmotion, såsom
-löpning.
-Att skapa olika omklädningsmöjlig-
-funktion, man har genomgångar, enklare placering i hallen. Till detta kan man ha heter i en idrottshall är helt enkelt ett
-uppvärmning eller rundar av dagen ombytesrum, dvs helt utan angränsande bra sätt att möta olika besökares olika
-gemensamt. Här finns en stor potential duschrum. Ett rum som får ännu bättre behov.
-att utveckla flerfunktionella omkläd- förutsättningar att kunna bli mer än ett
-ningsrum, rum med högre trivselfaktorer rum för bara omklädning.
+
+funktion, man har genomgångar, enklare
+uppvärmning eller rundar av dagen
+gemensamt. Här finns en stor potential
+att utveckla flerfunktionella omkläd-
+ningsrum, rum med högre trivselfaktorer
 och verktyg för tex teorigenomgång
-såsom skrivtavlor.     Omklädning för alla
-Att kunna ha större omklädningsrum Det faktum att många idag av olika
-har flera fördelar. Ett större omkläd- anledningar inte kan eller vill byta om i
-ningsrum för 30-40 personer kan skapa grupp gör lösningen med en tillgäng-
-en anonymitet som är mer bekväm lighetsanpassad toalett med dusch i
+såsom skrivtavlor.
+Att kunna ha större omklädningsrum
+har flera fördelar. Ett större omkläd-
+ningsrum för 30-40 personer kan skapa
+en anonymitet som är mer bekväm
 samtidigt som rummet kan bli så stort
 att det skapar förutsättningar för en
 större variation i flerfunktionalitet när det
@@ -27805,9 +31895,24 @@ Duschbåset i sig tar större yta i anspråk
 per person än omklädningsrum för
 grupper, men skapar å andra sidan
 förutsättningar för en mer flexibel
+
+löpning.
+Att skapa olika omklädningsmöjlig-
+placering i hallen. Till detta kan man ha heter i en idrottshall är helt enkelt ett
+ombytesrum, dvs helt utan angränsande bra sätt att möta olika besökares olika
+duschrum. Ett rum som får ännu bättre behov.
+förutsättningar att kunna bli mer än ett
+rum för bara omklädning.
+Omklädning för alla
+Det faktum att många idag av olika
+anledningar inte kan eller vill byta om i
+grupp gör lösningen med en tillgäng-
+lighetsanpassad toalett med dusch i
+
 En attraktiv och annorlunda utformning av inredning och rum höjer trivseln i
 omklädningsrummet. Omklädningsrum för flickor, Fremad Valby, Danmark.
 Foto: LOA Fonden, Rune Johansen
+
 51
 
 <!-- sida 673 -->
@@ -27869,126 +31974,239 @@ träning.
 
 Omklädningsrum med större ombytesyta i olika avdelningar där utformningen 53
 ger karaktär och trivsel. Tårnhöjskolen, Aalborg. Foto: LOA Fonden
-MO
-ATYB
-ANÄRT
-SATÖM
-IROET
+
+TEORI
+
+MÖTAS TRÄNA BYTA OM
 
 <!-- sida 675 -->
 
 Rum       för    mer      och     fler
 
-Framtidens idrottshall er- samlings- och informationspunkt.
-
-bjuder verksamheter som Tillgången till rörelse och hälsa ökar när
-det som hallen erbjuder öppnas upp
+Framtidens idrottshall er-
+bjuder verksamheter som
 kompletterar idrotten för
-för fler och idrottsrörelsen får närmare
 att erbjuda mer för fler.
-till nya målgrupper som har hallen som
-vardagsmiljö eller målpunkt. Även den
-Som nämnts tidigare så har folkhälso- offentliga förvaltningens främjande
-politiken som mål att skapa god och och förebyggande arbete förenklas
-jämlik hälsa i hela befolkningen och här genom en gemensam samlingsplats där
-är bra förutsättningar för fysiks aktivitet, offentliga resurser kan nyttjas av fler.
-rörelseglädje och rörelsegemenskap Ett bredare utbud gör också att
-i både organiserad och spontan form de redan föreningsaktiva får ökade
-viktig. I Framtidens idrottshall kan möjligheter att vistas i hallen före och
-skol- och föreningsidrotten göra mer efter träning vilket skapar utrymme
-genom att inkludera fler. Om man att göra läxor, ta del av det offentliga Arena Satelliten, Sollentuna, multibyggnad
-med idrottshallar, scenrum och fritidsgård.
-blandar verksamheter och istället för kultur- och fritidsutbudet, träffa vänner
-Foto: White arkitekter, Mikael Olsson
-att tänka ”lika för alla”, som ofta skapar och fler trygga vuxna. En mer levande
-ett enkelriktat ”one size fits all”-utbud, och socialt varierad miljö kan bli en
-tänker ”mer för fler” lyfts människors trygg och trivsam plats för fler. En hall idrottshallen som skolans samlingssal
-olika behov och förutsättningar och där rörelse och gemenskap är i fokus för avslutningar mm, istället för att
-istället skapas ett mångfacetterat och snarare än tävling och prestation skapar bygga en aula.
-inkluderande utbud.    en öppnare och mer tillåtande atmosfär
-där människor - och idrottare - växer Fritidsgård i hallen
-Fler brukare           och utvecklas utifrån den egna ambi- Forskning kring ungas livsstil visar att
-Genom att komplettera idrottsgemen- tionsnivån. barn som står utanför föreningslivet
-skapen med andra gemenskaper kan Den lokala kontexten avgör självklart i högre grad nyttjar andra former av
-framtidens idrottshall erbjuda mer för vilka verksamheter som bäst kan offentligt finansierat fritidsutbud som
-fler och skapa värden på individ och samnyttja en lokal. Men vissa kom- fritidsgård och bibliotek vilka inte lika
-samhällsnivå. Det kan ske genom att mungemensamma verksamheter har uttalat erbjuder möjligheter till fysisk
-möjliggöra samnyttjande av idrottshal- uppenbarliga fördelar av samnyttjande aktivitet. Att förlägga fritidsgårdsverk-
-lens rum för skolans fritidsverksamhet, och samverkan för att tillgängliggöra samhet till hallen har potential att inklu-
-fritidsgård, seniorverksamhet eller rörelse och hälsa för fler. dera fler ungdomar i rörelsegemenskap
-offentlig kulturverksamhet. Då blir hallen   samtidigt som det tillgängliggör ett
-på ett naturligt sätt en målpunkt för Fritidsverksamhet fritidsutbud utanför idrotten för de för-
-fler grupper samtidigt som nyttjande- Skolan är den plats där alla barn eningsaktiva ungdomarna. Fritidsgårdar
-graden blir högre över fler av dygnets vistas under vardagarna. Många barn har ofta ett innehåll som efterfrågas
-timmar och det offentliga kultur- och i yngre åldrar, framförallt lågstadiet av de föreningsaktiva ungdomarna för
-fritidsutbudet kan få en gemensam men även mellanstadiet, vistas också framtidens idrottshall. Att på samma
-på Fritids efter skoldagens slut. Att plats kunna göra läxor, umgås med flera
-förlägga Fritids i idrottshallen erbjuder olika vänner, träffa både förenings- och
+
+Som nämnts tidigare så har folkhälso-
+politiken som mål att skapa god och
+jämlik hälsa i hela befolkningen och här
+är bra förutsättningar för fysiks aktivitet,
+rörelseglädje och rörelsegemenskap
+i både organiserad och spontan form
+viktig. I Framtidens idrottshall kan
+skol- och föreningsidrotten göra mer
+genom att inkludera fler. Om man
+blandar verksamheter och istället för
+att tänka ”lika för alla”, som ofta skapar
+ett enkelriktat ”one size fits all”-utbud,
+tänker ”mer för fler” lyfts människors
+olika behov och förutsättningar och
+istället skapas ett mångfacetterat och
+inkluderande utbud.
+Fler brukare
+Genom att komplettera idrottsgemen-
+skapen med andra gemenskaper kan
+framtidens idrottshall erbjuda mer för
+fler och skapa värden på individ och
+samhällsnivå. Det kan ske genom att
+möjliggöra samnyttjande av idrottshal-
+lens rum för skolans fritidsverksamhet,
+fritidsgård, seniorverksamhet eller
+offentlig kulturverksamhet. Då blir hallen
+på ett naturligt sätt en målpunkt för
+fler grupper samtidigt som nyttjande-
+graden blir högre över fler av dygnets
+timmar och det offentliga kultur- och
+fritidsutbudet kan få en gemensam
 ”
-verksamheten att nyttja rörelsemöj- ungdomsledare, delta i flera olika typer
-Vi tycker  om  att
-ligheter samtidigt som det förenklar av fritidsaktiviteter (både organiserade
-det strategiska samarbetet mellan och on-demand) förenklar ungdomar-
-gå till biblioteket
-fritidspedagogerna och föreningsledare nas livspussel och tillgängliggör flera
-och  simhallen,          för att inkludera fler olika barn i idrotts- olika former för rörelse och gemenskap
-föreningarna. Att stärka kopplingen vilket ökar sannolikheten att fler stannar
-jag vet inte om
-mellan skolans fritidsverksamhet och kvar i rörelsegemenskapen.
-idrottsförening skapar kontinuitet och
+Vi tycker  om   att
+gå  till biblioteket
+
+och  simhallen,
+jag vet  inte om
+
 det finns  en
-trygghet för barnen samtidigt som det Seniorverksamhet i hallen
-idrottshall här.         ökar vuxennärvaron och vidgar barnens Utöver föreningarnas äldre så har också
-sociala nätverk. För skolans del finns den offentliga främjande seniorverk-
-också en stor fördel i att kunna nyttja samheten behov av mötesplatser
+idrottshall  här.
+
 \- mamma i Vårberg
+
 54
 
+samlings- och informationspunkt.
+Tillgången till rörelse och hälsa ökar när
+det som hallen erbjuder öppnas upp
+för fler och idrottsrörelsen får närmare
+till nya målgrupper som har hallen som
+vardagsmiljö eller målpunkt. Även den
+offentliga förvaltningens främjande
+och förebyggande arbete förenklas
+genom en gemensam samlingsplats där
+offentliga resurser kan nyttjas av fler.
+Ett bredare utbud gör också att
+de redan föreningsaktiva får ökade
+möjligheter att vistas i hallen före och
+efter träning vilket skapar utrymme
+att göra läxor, ta del av det offentliga
+kultur- och fritidsutbudet, träffa vänner
+och fler trygga vuxna. En mer levande
+och socialt varierad miljö kan bli en
+trygg och trivsam plats för fler. En hall
+där rörelse och gemenskap är i fokus
+snarare än tävling och prestation skapar
+en öppnare och mer tillåtande atmosfär
+där människor - och idrottare - växer
+och utvecklas utifrån den egna ambi-
+tionsnivån.
+Den lokala kontexten avgör självklart
+vilka verksamheter som bäst kan
+samnyttja en lokal. Men vissa kom-
+mungemensamma verksamheter har
+uppenbarliga fördelar av samnyttjande
+och samverkan för att tillgängliggöra
+rörelse och hälsa för fler.
+Fritidsverksamhet
+Skolan är den plats där alla barn
+vistas under vardagarna. Många barn
+i yngre åldrar, framförallt lågstadiet
+men även mellanstadiet, vistas också
+på Fritids efter skoldagens slut. Att
+förlägga Fritids i idrottshallen erbjuder
+verksamheten att nyttja rörelsemöj-
+ligheter samtidigt som det förenklar
+det strategiska samarbetet mellan
+fritidspedagogerna och föreningsledare
+för att inkludera fler olika barn i idrotts-
+föreningarna. Att stärka kopplingen
+mellan skolans fritidsverksamhet och
+idrottsförening skapar kontinuitet och
+trygghet för barnen samtidigt som det
+ökar vuxennärvaron och vidgar barnens
+sociala nätverk. För skolans del finns
+också en stor fördel i att kunna nyttja
+
+Arena Satelliten, Sollentuna, multibyggnad
+med idrottshallar, scenrum och fritidsgård.
+Foto: White arkitekter, Mikael Olsson
+
+idrottshallen som skolans samlingssal
+för avslutningar mm, istället för att
+bygga en aula.
+Fritidsgård i hallen
+Forskning kring ungas livsstil visar att
+barn som står utanför föreningslivet
+i högre grad nyttjar andra former av
+offentligt finansierat fritidsutbud som
+fritidsgård och bibliotek vilka inte lika
+uttalat erbjuder möjligheter till fysisk
+aktivitet. Att förlägga fritidsgårdsverk-
+samhet till hallen har potential att inklu-
+dera fler ungdomar i rörelsegemenskap
+samtidigt som det tillgängliggör ett
+fritidsutbud utanför idrotten för de för-
+eningsaktiva ungdomarna. Fritidsgårdar
+har ofta ett innehåll som efterfrågas
+av de föreningsaktiva ungdomarna för
+framtidens idrottshall. Att på samma
+plats kunna göra läxor, umgås med flera
+olika vänner, träffa både förenings- och
+ungdomsledare, delta i flera olika typer
+av fritidsaktiviteter (både organiserade
+och on-demand) förenklar ungdomar-
+nas livspussel och tillgängliggör flera
+olika former för rörelse och gemenskap
+vilket ökar sannolikheten att fler stannar
+kvar i rörelsegemenskapen.
+Seniorverksamhet i hallen
+Utöver föreningarnas äldre så har också
+den offentliga främjande seniorverk-
+samheten behov av mötesplatser
+
 <!-- sida 676 -->
+
+och platser för rörelse och aktiviteter.
+Detsamma gäller pensionärsföreningar
+eller lokala nätverk för seniorer. Att
+förlägga delar av den offentligt stödda
+seniorverksamheten till idrottshallen
+tillgängliggör hallens rörelsemöjligheter.
+Samtidigt förenklas det strategiska
+samarbetet mellan seniorverksamhet
+och idrottsföreningen för att förstå
+behov och förutsättningar och därmed
+öka andelen idrottsföreningsaktiva
+seniorer.
+Att inkludera seniorverksamhet
+skapar nya sociala sammansättningar
+i idrottshallen och ökar möjligheten till
+möten och gemenskap mellan genera-
+tioner. Detta kan göras genom att från
+kommunen förlägga senior verksamhe-
+ten i hallen eller genom att en av hallens
+ytor, t.ex ett av de stillsamma rummen,
+entrén eller liknande ibland upplåts till
+seniorverksamhetens träffar.
+Kulturverksamhet
+Vilken kulturverksamhet som är relevant
+i hallen är förstås olika beroende på
+lokal kontext, behov och förutsättningar.
+Utifrån ett verksamhetsbryggande per-
+
+spektiv kan satellitverksamhet kopplat
+till bibliotek och kulturskola vara en
+god idé. Kulturskolan och idrotten har
+många gemensamma nämnare i termer
+av rum för rörelse (dans, teater, cirkus,
+estradpoesi etc). I samverkan med
+fritidsgårdsverksamhet har nämnda
+verksamheterna en enorm potential
+till samverkan och samnyttjande av
+lokaler som är både resurseffektivt och
+\- framförallt - möter upp behov från en
+mångfald av ungdomar. Såväl hallrum
+som styrketränings och gruppträ-
+ningsutrymmen samt omklädning är
+klart användbara. I det fall utrymmet är
+begränsat, kan även en bokhylla med en
+trivsam läshörna eller en utställningsyta
+för lokala konstnärer vara ett sätt att
+inkludera kulturella element som berikar
+hallens atmosfär och attraktivitet för fler.
+Fler rörelser
+Att föreningsidrotten breddas är
+en möjlighet att tillgängliggöra det
+lustfyllda och upptäckande rörelsemöj-
+ligheterna. Skapas förutsättningar för
+fler föreningar att nyttja hallen breddas
+paletten av så väl olika varianter av
 
 3\. VÄLKOMMEN TILL HALLEN
 
 ”
 En  tjej som
+spelar  basket,   inte
 
-och platser för rörelse och aktiviteter. spektiv kan satellitverksamhet kopplat
-spelar  basket,  inte
-Detsamma gäller pensionärsföreningar till bibliotek och kulturskola vara en
-eller lokala nätverk för seniorer. Att god idé. Kulturskolan och idrotten har en baskettjej.
-förlägga delar av den offentligt stödda många gemensamma nämnare i termer
-seniorverksamheten till idrottshallen av rum för rörelse (dans, teater, cirkus,
+en  baskettjej.
+
 \- det finns inga baskettjejer, med det finns
-tillgängliggör hallens rörelsemöjligheter. estradpoesi etc). I samverkan med
 många tjejer som spelar basket. En nyckel
-Samtidigt förenklas det strategiska fritidsgårdsverksamhet har nämnda
 för att fortsatt ha dem i föreningslivet är
-samarbetet mellan seniorverksamhet verksamheterna en enorm potential
 att verksamheten är utformad utifrån ett
-och idrottsföreningen för att förstå till samverkan och samnyttjande av
 helhetsperspektiv – idrott/skola/fritid/
-behov och förutsättningar och därmed lokaler som är både resurseffektivt och
 familj/vänner menar rapporten ”Goda
-öka andelen idrottsföreningsaktiva - framförallt - möter upp behov från en
 idrottsliga utvecklingsmiljöer.
-seniorer.              mångfald av ungdomar. Såväl hallrum
-Att inkludera seniorverksamhet som styrketränings och gruppträ-
-skapar nya sociala sammansättningar ningsutrymmen samt omklädning är
-i idrottshallen och ökar möjligheten till klart användbara. I det fall utrymmet är
-möten och gemenskap mellan genera- begränsat, kan även en bokhylla med en rörelse som målgrupper som söker sig
-tioner. Detta kan göras genom att från trivsam läshörna eller en utställningsyta till hallen.
-kommunen förlägga senior verksamhe- för lokala konstnärer vara ett sätt att Genom att värna bredden av de som
-ten i hallen eller genom att en av hallens inkludera kulturella element som berikar bokar hallen och tillgängliggöra mindre
-ytor, t.ex ett av de stillsamma rummen, hallens atmosfär och attraktivitet för fler. bokningsbara delar, som rum mot fasad,
-entrén eller liknande ibland upplåts till    stillsamma rum, och ”mer rörelse”-
-seniorverksamhetens träffar. Fler rörelser   rummen kan man skapa rum för fler
-Att föreningsidrotten breddas är lokala föreningar som till exempel skate,
-Kulturverksamhet       en möjlighet att tillgängliggöra det brottning, boule, löpning etc.
-Vilken kulturverksamhet som är relevant lustfyllda och upptäckande rörelsemöj-
-i hallen är förstås olika beroende på ligheterna. Skapas förutsättningar för
-lokal kontext, behov och förutsättningar. fler föreningar att nyttja hallen breddas
-Utifrån ett verksamhetsbryggande per- paletten av så väl olika varianter av
 
-Rörelse hela livet.    Idrottshall kompletterad med bibliotek och kultur.
+rörelse som målgrupper som söker sig
+till hallen.
+Genom att värna bredden av de som
+bokar hallen och tillgängliggöra mindre
+bokningsbara delar, som rum mot fasad,
+stillsamma rum, och ”mer rörelse”-
+rummen kan man skapa rum för fler
+lokala föreningar som till exempel skate,
+brottning, boule, löpning etc.
+
+Rörelse hela livet.     Idrottshall kompletterad med bibliotek och kultur.
 Foto: Gymnastikförbundet  Vodskov Kultur & Idraetscenter, Vodskov, Danmark.
 Foto: LOA Fonden, Rune Johansen
 55
@@ -27997,46 +32215,109 @@ Foto: LOA Fonden, Rune Johansen
 
 Hallens         utsida
 
-Framtidens idrottshall är visst motstånd måste ta sig på kvällstid. närmsta omgivning blir därmed en
-både volymeffektiv och Platsen utanför idrottshallen bör vara en möjlighet att öka tillgängligheten och
-plats där besöket egentligen börjar, här lockelsen till hallen, samtidigt som det
+Framtidens idrottshall är
+både volymeffektiv och
 inkluderande genom att
-möter man upp med sina kompisar, här ökar hälsovinsterna.
 använda fasadens och
-värmer man upp innan.
-närmiljöns potential till                    Platsens utformning
-rörelseglädje. Den tar Platsens potential    Platsen utanför idrottshallen skall präg-
-Om platsen utanför idrottshallen las av rörelse och aktivitet, men det får
+
+närmiljöns potential till
+rörelseglädje. Den tar
 tillvara utomhusmiljön
-utformas för aktivitet och rörelse så gärna också finnas utrymme för att sitta
 och den möjlighet att ut-
-blir det också en potential för många ner och pausa. Inte sällan är idrottshal-
-veckla rörelseförståelse av idrottsföreningarna att utvidga len uppförd på en skolgård eller i nära
-som den erbjuder. På så verksamheten och på så vis skapa mer anslutning till skola, vilket förstås gör att
-plats för träning. Uteträningen blir ett en samverkan med skolan om utform-
+veckla rörelseförståelse
+som den erbjuder. På så
+
 sätt skapas också trygga
-bra komplement till inneträning. Att vara ningen behöver göras så att utrustning
 miljöer runt idrottshallen.
-aktiv utomhus har också en naturligt och utformning gagnar båda. Vad vill
-friare association än den rörelse som man då ha nära en idrottshall? Frågan
-Hallens utsida är ofta en outnyttjad sker i en bokad hall. Den kan vara mer är kanske snarare hur man vill ha det.
-potential för att bidra till mer rörelse och spontan och ger ofta upphov till att vi Till exempel har naturlika miljöer såsom
-stärka idrottshallen som mötesplats. rör oss tillsammans med fler än den utrustning i trä, oregelbunden mark,
-Det gäller både att nyttja byggnadens planerade inomhusträningen. Det blir naturlig topografi bra förutsättningar
-utsidor och den närliggande marken. också en bra plats att visa upp den för motorisk träning. Naturlika miljöer
-När en ny idrottshall uppförs så kommer organiserad idrotten på och på så vis är också mer könsneutrala, det vill
-det att skapas en ny plats i samhället locka fler till att delta. säga de används mer jämlikt av pojkar
-dit många kommer. Få byggnader har Utomhusaktiviteter har också och flickor. Multifunktionella ytor leder
-så hög nyttjandegrad som idrottshallar, hälsofrämjande effekter när de kombi- till större variation och möjlighet, en
-från tidig morgon till nära midnatt sju nerar lekfull rörelse med naturkontakt multiplan som inte är direkt utformad för
-dagar i veckan. Att utnyttja det flöde av vilket genererar en aktivitet och ett en idrott ger mer och friare användning.
-människor som kommer dit för att träna socialt samspel som också påverkar Ett utegym är också tacksamt att ha
-och umgås till att skapa en attraktiv barnets mentala färdigheter. Forskning vid en idrottshall, då det ger möjlighet
-plats utifrån lusten att röra sig är därför visar också att uteaktivitet kan bidra till fysträning för såväl skolbarn som
-självklar. En plats där många är och till mentalt välbefinnande genom föreningsaktiva. Men det är också något
-vill vara skapar också trygghet i det stressreducering, återhämtning och som fler kan dra nytta av, till exempel
-offentliga rummet, idrottshallen blir inte uppbyggnaden av olika exekutiva föräldrar uppmuntras då att träna
-en ödslig plats dit man kanske med funktioner. Utomhusmiljön i hallens samtidigt som man väntar på ett barn.
+
+Hallens utsida är ofta en outnyttjad
+potential för att bidra till mer rörelse och
+stärka idrottshallen som mötesplats.
+Det gäller både att nyttja byggnadens
+utsidor och den närliggande marken.
+När en ny idrottshall uppförs så kommer
+det att skapas en ny plats i samhället
+dit många kommer. Få byggnader har
+så hög nyttjandegrad som idrottshallar,
+från tidig morgon till nära midnatt sju
+dagar i veckan. Att utnyttja det flöde av
+människor som kommer dit för att träna
+och umgås till att skapa en attraktiv
+plats utifrån lusten att röra sig är därför
+självklar. En plats där många är och
+vill vara skapar också trygghet i det
+offentliga rummet, idrottshallen blir inte
+en ödslig plats dit man kanske med
+
+visst motstånd måste ta sig på kvällstid.
+Platsen utanför idrottshallen bör vara en
+plats där besöket egentligen börjar, här
+möter man upp med sina kompisar, här
+värmer man upp innan.
+
+Platsens potential
+Om platsen utanför idrottshallen
+utformas för aktivitet och rörelse så
+blir det också en potential för många
+av idrottsföreningarna att utvidga
+verksamheten och på så vis skapa mer
+plats för träning. Uteträningen blir ett
+bra komplement till inneträning. Att vara
+aktiv utomhus har också en naturligt
+friare association än den rörelse som
+sker i en bokad hall. Den kan vara mer
+spontan och ger ofta upphov till att vi
+rör oss tillsammans med fler än den
+planerade inomhusträningen. Det blir
+också en bra plats att visa upp den
+organiserad idrotten på och på så vis
+locka fler till att delta.
+Utomhusaktiviteter har också
+hälsofrämjande effekter när de kombi-
+nerar lekfull rörelse med naturkontakt
+vilket genererar en aktivitet och ett
+socialt samspel som också påverkar
+barnets mentala färdigheter. Forskning
+visar också att uteaktivitet kan bidra
+till mentalt välbefinnande genom
+stressreducering, återhämtning och
+uppbyggnaden av olika exekutiva
+funktioner. Utomhusmiljön i hallens
+
+närmsta omgivning blir därmed en
+möjlighet att öka tillgängligheten och
+lockelsen till hallen, samtidigt som det
+ökar hälsovinsterna.
+
+Platsens utformning
+Platsen utanför idrottshallen skall präg-
+las av rörelse och aktivitet, men det får
+gärna också finnas utrymme för att sitta
+ner och pausa. Inte sällan är idrottshal-
+len uppförd på en skolgård eller i nära
+anslutning till skola, vilket förstås gör att
+en samverkan med skolan om utform-
+ningen behöver göras så att utrustning
+och utformning gagnar båda. Vad vill
+man då ha nära en idrottshall? Frågan
+är kanske snarare hur man vill ha det.
+Till exempel har naturlika miljöer såsom
+utrustning i trä, oregelbunden mark,
+naturlig topografi bra förutsättningar
+för motorisk träning. Naturlika miljöer
+är också mer könsneutrala, det vill
+säga de används mer jämlikt av pojkar
+och flickor. Multifunktionella ytor leder
+till större variation och möjlighet, en
+multiplan som inte är direkt utformad för
+en idrott ger mer och friare användning.
+Ett utegym är också tacksamt att ha
+vid en idrottshall, då det ger möjlighet
+till fysträning för såväl skolbarn som
+föreningsaktiva. Men det är också något
+som fler kan dra nytta av, till exempel
+föräldrar uppmuntras då att träna
+samtidigt som man väntar på ett barn.
 
 Utomhus miljön kompletterad med ojämna ytor skapar oväntade aktiviteter och lockar till rörel- Lek och rörelse på tak på idrottshall.
 seglädje. Drakenbergsparken, Stockholm. Foto: White arkitekter. Treklöverhallen, Stepping, Danmark.
@@ -28055,23 +32336,58 @@ Utegym, möjliggör lustfylld träning utanför hallen. En väl synlig och inbju
 Konditaget, Köpenhamn. Foto: Peter Sorensen, By och Havn bidrar till tryggare miljöer. Edsbergshallen, Sollentuna. Foto:
 White arkitekter, Anders Bobert
 
-En hall som dessutom är placerad i Byggnadens utsida låg del bli lättillgänglig både utifrån och
-anslutning till en motionsslinga utökar Att se på hallens fasad som en möjlig- inifrån. Att skapa visuell kontakt mellan
-möjligheterna än mer.  het att skapa rörelseglädje på utsidan ute och inne är generellt en fördel, det
-Att skapa en yta för dans ute är är ofta en outnyttjad möjlighet. Alla ger en ledare eller lärare möjlighet till
-också populärt, här får det gärna byggnader behöver en fasad, oftast en uppsikt när delar av en grupp är ute. Att
-finnas möjlighet att spela musik plan vertikal yta. Kan den aktiveras på aktivera fasaden runt om byggnaden
-trådlöst genom utomhushögtalare. andra sätt, tex som bollplank, klätter- och att skapa visuell kontakt mellan
-Parkeringsplatser bör inte få den bästa vägg med mera så skapas direkt ett ute och inne är också ett sätt att öka
-ytan framför idrottshallen. Även om mervärde. Andra praktiska utformnings- tryggheten runt om byggnaden.
-behovet av parkering finns så bör den detaljer som förenklar och förbättrar Vårt mörka kalla klimat är en av
-läggas en bit bort. En parkeringsyta möjligheterna till att nyttja uteytan är till flera förutsättningar som begränsar
-som mest används på kvällar och helger exempel möjlighet att ta vatten, eluttag möjligheten att utnyttja utomhusmiljöer.
-kan också med tex målade linjer vara och trådlös musikspelning. Även takytan Men genom att komplettera hallens
-något annat på dagtid. Platsen utanför används allt mer som plats för rörelse, närmiljö, med skärmtak eller fristående
-byggnaden skall också utformas så att allt vanligare i och med att vi bygger väderskydd och addera belysning så
-den leder besökaren in. våra samhällen tätare. Men även i en kan nyttjandet öka även på dygnets
-mer rymlig planering kan takytan på en mörka timmar.
+En hall som dessutom är placerad i
+anslutning till en motionsslinga utökar
+möjligheterna än mer.
+Att skapa en yta för dans ute är
+också populärt, här får det gärna
+finnas möjlighet att spela musik
+trådlöst genom utomhushögtalare.
+Parkeringsplatser bör inte få den bästa
+ytan framför idrottshallen. Även om
+behovet av parkering finns så bör den
+läggas en bit bort. En parkeringsyta
+som mest används på kvällar och helger
+kan också med tex målade linjer vara
+något annat på dagtid. Platsen utanför
+byggnaden skall också utformas så att
+den leder besökaren in.
+
+Byggnadens utsida
+Att se på hallens fasad som en möjlig-
+het att skapa rörelseglädje på utsidan
+är ofta en outnyttjad möjlighet. Alla
+byggnader behöver en fasad, oftast en
+plan vertikal yta. Kan den aktiveras på
+andra sätt, tex som bollplank, klätter-
+vägg med mera så skapas direkt ett
+mervärde. Andra praktiska utformnings-
+detaljer som förenklar och förbättrar
+möjligheterna till att nyttja uteytan är till
+exempel möjlighet att ta vatten, eluttag
+och trådlös musikspelning. Även takytan
+används allt mer som plats för rörelse,
+allt vanligare i och med att vi bygger
+våra samhällen tätare. Men även i en
+mer rymlig planering kan takytan på en
+
+låg del bli lättillgänglig både utifrån och
+inifrån. Att skapa visuell kontakt mellan
+ute och inne är generellt en fördel, det
+ger en ledare eller lärare möjlighet till
+uppsikt när delar av en grupp är ute. Att
+aktivera fasaden runt om byggnaden
+och att skapa visuell kontakt mellan
+ute och inne är också ett sätt att öka
+tryggheten runt om byggnaden.
+Vårt mörka kalla klimat är en av
+flera förutsättningar som begränsar
+möjligheten att utnyttja utomhusmiljöer.
+Men genom att komplettera hallens
+närmiljö, med skärmtak eller fristående
+väderskydd och addera belysning så
+kan nyttjandet öka även på dygnets
+mörka timmar.
 
 57
 
@@ -28091,69 +32407,153 @@ idrottshall
 
 Hallens         placering
 
-Medan   köns-
-Framtidens idrottshall är som skapar trygghet. En av de mest skillnaderna är
-
-placerad nära och tryggt. påtagliga är möjligheten att se och bli
-ganska  begränsade
-sedd, att inte vara ensam på platsen
+Framtidens idrottshall är
+placerad nära och tryggt.
 Det är lätt att röra sig hit
+till fots och med cykel.
+
+Den är tillgänglig för de
+som behöver den mest.
+
+Idrottshallens plats i samhälls-
+byggandet
+I Sverige har vi i mer än hundra år haft
+en stark urbanisering, våra städer och
+tätorter växer mer relativt sett än på de
+flesta håll i Europa. Idag bygger och
+planerar vi också allt tätare och med
+blandstaden som ideal för att kunna
+leva hållbarare. Vi utnyttjar allt mer
+befintlig infrastruktur och samhälls-
+service. Det är i den här miljön många
+av våra kommande idrottshallar kommer
+att uppföras.
+Att locka till vardagsrörelse är en
+central folkhälsofråga i en tid då stil-
+lasittandet ökar för många. Redan när
+en ny hall skall placeras så finns stora
+möjligheter att bidra till ökad rörelse
+och tillgänglighet.
+Faktorer som påverkar till-
+gängligheten
+En hall som kräver skjuts med bil, och
+därmed medföljande vuxen, gör den
+mer otillgänglig för många. Att ha bil
+är ett privilegium som inte alla tillgår.
+Även tryggheten är avgörande för
+rörelsefriheten. Om det är tryggt runt
+hallen kan barnen ta sig dit för egen
+maskin, annars varken får de eller vill de.
+Vad som känns tryggt beror på vem du
+är och det finns ett flertal olika aspekter
+
+som skapar trygghet. En av de mest
+påtagliga är möjligheten att se och bli
+sedd, att inte vara ensam på platsen
 och inte heller vara där med ett så litet
-till fots och med cykel.                       i högstatus-
 antal personer så att man kan känna sig
-Den är tillgänglig för de utsatt.              områdena,   framstår
-som behöver den mest.   Brist på kännedom om vad en
-alltså flickorna i
+utsatt.
+Brist på kännedom om vad en
 idrottshall och föreningslivet är kan
 också vara en exkluderande faktor som
+gör att de som inte är födda in i fören-
+ingslivet kommer längre ifrån. Genom
+att placera hallen i ett sammanhang
+med liv och rörelse skapas både en
+ökad trygghet och en ökad synlighet för
+de som rör sig i samhället. Dessutom
+ökar det möjligheten för hallen att bli en
+mötesplats för fler.
+Var i länet, kommunen eller staden
+en ny hall byggs är viktigt ur ett resurs-
+fördelningsperspektiv, hänsyn behöver
+tas till hur fördelningen av hallar ser ut
+i kommunen/länet/staden. Finns det
+områden som helt saknar tillgång till
+idrottshall, och i så fall varför? Närhet
+till hallen skapar tillgänglighet, och inte
+sällan visar det sig att de grupper som
+generellt har lägre föreningsdeltagande
+också har svårare att ta sig till hallen.
+Hur hallen skall placeras
+För att skapa mer vardagsrörelse och
+en tillgänglig hall är det allra viktigast
+att den kan nå den till fots eller med
+cykel. Det är också viktigt att den ligger
+nära en kollektivtrafikhållplats. Att nå
+hallen för egen maskin är viktigare än
+närheten till en hållplats då turtäthet
+eller begränsningar i kollektivtrafikkort
+på kvällar och helger kan bli ett hinder.
+Som nämnts ovan är en placering i
+ett sammanhang med liv och rörelse
+
+Människor    med  ”god”  tillgång till
+
+idrottsanläggningar    visar sig vara 43
+procent  mer  benägna    att motionera
+
+regelbundet   jämfört  med   människor
+med   ”dålig” tillgång till anläggningar.
+
+Giles-Corti & Donovan, 2003
+
+60
+
+Medan    köns-
+
+skillnaderna   är
+ganska   begränsade
+
+i högstatus-
+områdena,    framstår
+
+alltså flickorna i
 lågstatusområdena
-Idrottshallens plats i samhälls- gör att de som inte är födda in i fören-
-byggandet              ingslivet kommer längre ifrån. Genom som de stora
-I Sverige har vi i mer än hundra år haft att placera hallen i ett sammanhang
-en stark urbanisering, våra städer och med liv och rörelse skapas både en ”förlorarna”.
-tätorter växer mer relativt sett än på de ökad trygghet och en ökad synlighet för
-flesta håll i Europa. Idag bygger och de som rör sig i samhället. Dessutom Ungas livsstil i låg- och högstatusområ-
-planerar vi också allt tätare och med ökar det möjligheten för hallen att bli en den - en studie i åldersgruppen 13-16,
-blandstaden som ideal för att kunna mötesplats för fler. Elofsson, Blomdahl, Legheden, Åkesson,
-leva hållbarare. Vi utnyttjar allt mer Var i länet, kommunen eller staden 2014
-befintlig infrastruktur och samhälls- en ny hall byggs är viktigt ur ett resurs-
-service. Det är i den här miljön många fördelningsperspektiv, hänsyn behöver
-av våra kommande idrottshallar kommer tas till hur fördelningen av hallar ser ut viktigt. Centrala lägen i stadsdelen eller
-att uppföras.          i kommunen/länet/staden. Finns det på orten har mer liv och rörelse än i
-Att locka till vardagsrörelse är en områden som helt saknar tillgång till utkanten. Här är dessutom tillgång till
-central folkhälsofråga i en tid då stil- idrottshall, och i så fall varför? Närhet kollektivtrafik större. Synligheten ökar
-lasittandet ökar för många. Redan när till hallen skapar tillgänglighet, och inte dessutom då fler kommer se hallen
-en ny hall skall placeras så finns stora sällan visar det sig att de grupper som i förbifarten och möjligheten till ett
-möjligheter att bidra till ökad rörelse generellt har lägre föreningsdeltagande bredare innehåll, mer för fler, ökar. Med
-och tillgänglighet.    också har svårare att ta sig till hallen. det också möjligheterna till att nå de
+
+som   de stora
+
+”förlorarna”.
+
+Ungas livsstil i låg- och högstatusområ-
+den - en studie i åldersgruppen 13-16,
+Elofsson, Blomdahl, Legheden, Åkesson,
+2014
+
+viktigt. Centrala lägen i stadsdelen eller
+på orten har mer liv och rörelse än i
+utkanten. Här är dessutom tillgång till
+kollektivtrafik större. Synligheten ökar
+dessutom då fler kommer se hallen
+i förbifarten och möjligheten till ett
+bredare innehåll, mer för fler, ökar. Med
+det också möjligheterna till att nå de
 grupper som föreningsidrotten kämpar
-Faktorer som påverkar till- Hur hallen skall placeras för att nå. Många idrottshallar som
-gängligheten           För att skapa mer vardagsrörelse och planeras och uppförs idag ligger i direkt
-En hall som kräver skjuts med bil, och en tillgänglig hall är det allra viktigast samband med en skola, då det ökar
-därmed medföljande vuxen, gör den att den kan nå den till fots eller med nyttjandegraden på dagtid avsevärt. Här
-mer otillgänglig för många. Att ha bil cykel. Det är också viktigt att den ligger finns många fördelar och mervärden. En
-är ett privilegium som inte alla tillgår. nära en kollektivtrafikhållplats. Att nå hall som ligger nära barnens vardags-
-Även tryggheten är avgörande för hallen för egen maskin är viktigare än målpunkter (skolan, fritids, fritidsgård
-rörelsefriheten. Om det är tryggt runt närheten till en hållplats då turtäthet etc) stärker barnens platsanknytning,
-hallen kan barnen ta sig dit för egen eller begränsningar i kollektivtrafikkort det ökar deras möjlighet att ta sig
-maskin, annars varken får de eller vill de. på kvällar och helger kan bli ett hinder. till idrottsaktiviteten. Det ökar också
-Vad som känns tryggt beror på vem du Som nämnts ovan är en placering i möjligheterna till samnyttjande med
-är och det finns ett flertal olika aspekter ett sammanhang med liv och rörelse skola, fritids och fritidsgård. Även
+för att nå. Många idrottshallar som
+planeras och uppförs idag ligger i direkt
+samband med en skola, då det ökar
+nyttjandegraden på dagtid avsevärt. Här
+finns många fördelar och mervärden. En
+hall som ligger nära barnens vardags-
+målpunkter (skolan, fritids, fritidsgård
+etc) stärker barnens platsanknytning,
+det ökar deras möjlighet att ta sig
+till idrottsaktiviteten. Det ökar också
+möjligheterna till samnyttjande med
+skola, fritids och fritidsgård. Även
 samnyttjandet av skolgård och idrotts-
 hallens närmiljö är fruktsamt för båda,
-Människor   med   ”god”  tillgång till         lustfylld rörelse blir en del av skolbar-
+lustfylld rörelse blir en del av skolbar-
 nens vardag under raster och före och
-idrottsanläggningar    visar sig vara 43       efter skoltid. Är skola och idrottshall
+efter skoltid. Är skola och idrottshall
 inte helt i anknytning till varandra är
-procent  mer  benägna   att motionera
 det viktigt att tänka på hur kopplingen
-regelbundet   jämfört  med  människor          mellan dem ser ut, med avseende på
+mellan dem ser ut, med avseende på
 trafik med mera. En hall som är placerad
-med  ”dålig”  tillgång till anläggningar.      i anslutning till ett rekreationsområde
+i anslutning till ett rekreationsområde
 ökar möjligheterna till utevistelse och
-Giles-Corti & Donovan, 2003                    att skapa värden för fler. Då hallen
+att skapa värden för fler. Då hallen
 placeras i närheten av en rekreations-
-60
 
 <!-- sida 682 -->
 
@@ -28200,51 +32600,120 @@ kollektivtrafikförbindelser.
 
 Den      hållbara         byggnaden
 
-En hållbar byggnad är en nollenerginivåer i energianvändning och av växthusgaser till atmosfären, för att
-
-byggnad som håller över en lag för energideklarationer införts. därefter uppnå negativa utsläpp.
-Sedan några år tillbaka vidgades
+En hållbar byggnad är en
+byggnad som håller över
 tid och dessutom är ef-
-detta till att även omfatta den energi- Hållbart över tid
 fektivt i yta, volym och
-användning och klimatpåverkan som För att nå målet att bygga hållbart och
-användning.            byggtiden och byggmaterialen står möta de ökande krav som kommer finns
-för, alltså både innan byggnaden sätts det en central ingång; att använda det
-Olika hållbarhetsaspekter i drift men också tiden efter det att vi redan har och det vi uppfört så länge
-Ofta beskrivs hållbarhet i tre huvud- byggnadens tas ur bruk. Regeringen som möjligt. Att få till långa brukstider
-delar, den sociala, den ekonomiska och avser därför att införa krav på klimatde- förbättrar LCA avsevärt. För att uppnå
-den ekologiska. I flera av de tidigare klaration vid uppförande av ny byggnad en idrottshall med lång livslängd och
-kapitlen har den sociala hållbarheten från 2022. Det är ett steg i en styrning hög nyttjandegrad så är möjligheten
-lyfts på flera sätt bland annat som mot en minskad klimatpåverkan från till flexibel användning samt kvalitet i
-en inkluderande byggnad och en byggnader redan från uppförandet, byggande och gestaltning två bärande
-mötesplats. Även ekonomiska aspekter då klimatdeklarationer redovisar faktorer.
-som flerfunktion har nämnts. Här följer klimatpåverkan från byggnadens En flexibel användning uppnås
-en övergripande kartläggning av de livscykel, inklusive byggskedet. Ett genom att planera och utforma rummen
-byggnadsekologiska utmaningarna och steg på vägen till en klimatdeklaration för olika funktioner. Rum utformade bara
-möjligheterna som en idrottshall ger är att börja använda livscykelanalyser för en funktion tenderar till att bli svår-
-upphov till.           (LCA) för att identifiera och kvantifi- använda över tid om behoven förändras.
-era byggnadernas klimatpåverkan. Flexibel användning är också att kunna
-Kommande myndighetskrav och Av allt att döma kommer större krav anpassa utifrån efterfrågan, att skapa
-den hållbara utvecklingen på återbruk också att ställas. Detta robusta rum som tål förändring.
-Vad som är att betrakta som hållbart kommer att bli utmaningen i närtid, att Att bygga kvalitativt skapar lång-
-byggande har förändrats en del på tänka långsiktigt och redan från början siktiga värden. Det innefattar att välja
-senare år. I början på 2000-talet låg ha med sig hur idrottshallen kan få ett bra material som håller och inte kräver
-energianvändningen i en byggnad långt liv, kan möta och anpassas efter onödigt underhåll eller blir uttjänta, och
-under användning i fokus, det vill behov och förändringar och även kunna att välja material som kan bytas när
-säga att få ner energiförbrukningen i återbrukas, del för del. Byggsektorn har slitage går för långt. Kvalitet handlar
-driftskedet genom återvinning av värme, dessutom samlat sig och utarbetat en också om gestaltning, att utforma
-effektiva och förnyelsebara energikäl- färdplan för en klimatneutral värdecykel byggnader med arkitektonisk kvalitet
-lor och täta och välisolerade hus. I för att svara mot regeringens klimatmål, och detaljutformning håller över tid
-byggregler har därför krav på nära- där Sverige 2045 ska ha nettoutsläpp och minskar också skadegörelse. En
-• Tydligt mål och vision • Materialets • Robust byggnad • Demonterbarhet
-• Hållbar gestaltning långsiktiga påverkan • Flexibilitet • Rena material
-• Samverkan mellan på klimatet • Flerfunktion   • Återanvänd i andra
-kompetenser  • Påverkan under                   hallprojekt
+
+användning.
+
+Olika hållbarhetsaspekter
+Ofta beskrivs hållbarhet i tre huvud-
+delar, den sociala, den ekonomiska och
+den ekologiska. I flera av de tidigare
+kapitlen har den sociala hållbarheten
+lyfts på flera sätt bland annat som
+en inkluderande byggnad och en
+mötesplats. Även ekonomiska aspekter
+som flerfunktion har nämnts. Här följer
+en övergripande kartläggning av de
+byggnadsekologiska utmaningarna och
+möjligheterna som en idrottshall ger
+upphov till.
+Kommande myndighetskrav och
+den hållbara utvecklingen
+Vad som är att betrakta som hållbart
+byggande har förändrats en del på
+senare år. I början på 2000-talet låg
+energianvändningen i en byggnad
+under användning i fokus, det vill
+säga att få ner energiförbrukningen i
+driftskedet genom återvinning av värme,
+effektiva och förnyelsebara energikäl-
+lor och täta och välisolerade hus. I
+byggregler har därför krav på nära-
+
+nollenerginivåer i energianvändning och
+en lag för energideklarationer införts.
+Sedan några år tillbaka vidgades
+detta till att även omfatta den energi-
+användning och klimatpåverkan som
+byggtiden och byggmaterialen står
+för, alltså både innan byggnaden sätts
+i drift men också tiden efter det att
+byggnadens tas ur bruk. Regeringen
+avser därför att införa krav på klimatde-
+klaration vid uppförande av ny byggnad
+från 2022. Det är ett steg i en styrning
+mot en minskad klimatpåverkan från
+byggnader redan från uppförandet,
+då klimatdeklarationer redovisar
+klimatpåverkan från byggnadens
+livscykel, inklusive byggskedet. Ett
+steg på vägen till en klimatdeklaration
+är att börja använda livscykelanalyser
+(LCA) för att identifiera och kvantifi-
+era byggnadernas klimatpåverkan.
+Av allt att döma kommer större krav
+på återbruk också att ställas. Detta
+kommer att bli utmaningen i närtid, att
+tänka långsiktigt och redan från början
+ha med sig hur idrottshallen kan få ett
+långt liv, kan möta och anpassas efter
+behov och förändringar och även kunna
+återbrukas, del för del. Byggsektorn har
+dessutom samlat sig och utarbetat en
+färdplan för en klimatneutral värdecykel
+för att svara mot regeringens klimatmål,
+där Sverige 2045 ska ha nettoutsläpp
+
+• Tydligt mål och vision • Materialets • Robust byggnad
+• Hållbar gestaltning långsiktiga påverkan • Flexibilitet
+• Samverkan mellan på klimatet • Flerfunktion
+kompetenser  • Påverkan under
 byggtiden
+
+av växthusgaser till atmosfären, för att
+därefter uppnå negativa utsläpp.
+
+Hållbart över tid
+För att nå målet att bygga hållbart och
+möta de ökande krav som kommer finns
+det en central ingång; att använda det
+vi redan har och det vi uppfört så länge
+som möjligt. Att få till långa brukstider
+förbättrar LCA avsevärt. För att uppnå
+en idrottshall med lång livslängd och
+hög nyttjandegrad så är möjligheten
+till flexibel användning samt kvalitet i
+byggande och gestaltning två bärande
+faktorer.
+En flexibel användning uppnås
+genom att planera och utforma rummen
+för olika funktioner. Rum utformade bara
+för en funktion tenderar till att bli svår-
+använda över tid om behoven förändras.
+Flexibel användning är också att kunna
+anpassa utifrån efterfrågan, att skapa
+robusta rum som tål förändring.
+Att bygga kvalitativt skapar lång-
+siktiga värden. Det innefattar att välja
+bra material som håller och inte kräver
+onödigt underhåll eller blir uttjänta, och
+att välja material som kan bytas när
+slitage går för långt. Kvalitet handlar
+också om gestaltning, att utforma
+byggnader med arkitektonisk kvalitet
+och detaljutformning håller över tid
+och minskar också skadegörelse. En
+• Demonterbarhet
+• Rena material
+• Återanvänd i andra
+hallprojekt
 
 PLANERA/                                  ÅTER
 BYGG       ANVÄNDNING
-PROJEKTERA                              ANVÄNDNING
+PROJEKTERA                             ANVÄNDNING
 
 62
 
@@ -28252,47 +32721,104 @@ PROJEKTERA                              ANVÄNDNING
 
 4\. ATT SKAPA EN IDROTTSHALL
 
-fin offentlig byggnad blir ofta omtyckt byggnadsvolymer, genom att orientera kan te sig litet ackumuleras till att bli en
-och hanteras därmed mer varsamt. En byggnaden rätt och välja rätt klimatskal stor del av byggnadens klimatpåverkan
-byggnad som bevaras snarare än som samt genom att välja energisnåla med tiden. Lägst klimatavtryck kom-
-överges när åren går. En tredje hållbar tekniska system. Att granska och välja mer av förnybar energi, som solceller
-faktor som nämnts tidigare är att bygga giftfria material är grundläggande. Detta och solfångare och andra förnybara
-volymeffektivt. Att få in mer innehåll på gäller både om man vill återanvända ett energislag.
-mindre yta är att bygga hållbart och material eller bygga in nya. Målgruppen Att utforma byggnaden så att dess
-resurseffektivt.       barn är, när dom växer och utvecklas, volym och stomme samverkar med de
-dessutom extra receptiva för gifter. tekniska systemen kan minska behovet
-Livscykel och miljö/klimat                   av energi. Andra bidragande faktorer till
-påverkan i byggnadens olika Byggskedet       en byggnads klimatavtryck kan komma
-skeden                 I en byggnads liv har byggskedet gett från behovet av att byta ut material och
-upphov till ett stort klimatavtryck redan möbler eller om- och utbyggnad. Att
-Planering och projektering från dag ett. Den aspekt som ger störst utforma en byggnad med hänsyn till
-I det arbete som föregår ett byggande påverkan är materialframställningen. framtida ändrade behov eller genom
-sätts förutsättningarna för byggnadens Därför är det av största vikt att välja generella lösningar som möter flera
-klimatpåverkan. Här bestäms byggna- material noggrant utifrån dess klimat- behov kan ge en lägre klimatpåverkan
-dens utformning i helhet och detalj samt påverkan. Materialaspekter att sträva på sikt.
-val av material och tekniska system. efter är förnybarhet, återvunna material,
-Man kan planera för människors behov material med miljödata eller utformade Återanvändning
-på ett sätt som uppmuntrar en hållbar för återbruk. Olika tillverkare kan orsaka Att planera byggnader för återanvänd-
-livsstil. Man bör också ta tillvara så olika utsläpp för likvärdiga byggmaterial, ning och att återanvända material
-mycket som möjligt av det som redan varför upphandling är ett viktigt verktyg. eller möbler vid nybyggnad, som
-finns på platsen, till exempel genom att     kommer från andra byggnader, minskar
-bygga om, hellre än att riva och bygga Användning klimatavtrycket i dagens och morgon-
-nytt. Genom kloka design- och material- Klimatavtrycket från en byggnad under dagens byggnader. Att förbereda för
-val kan man skapa energieffektiva hus användning kommer framförallt från demonterbarhet är ett sätt att säkra att
-med låg förbrukning och där den energi energibehovet. Energin behövs för upp- byggnaden kan komma att ingå i ett
-som används är förnybar. Behovet av värmning, ventilation, varmvatten och cirkulärt kretslopp.
-energi minskas genom att optimera belysning med mera. Det som varje år
+fin offentlig byggnad blir ofta omtyckt
+och hanteras därmed mer varsamt. En
+byggnad som bevaras snarare än som
+överges när åren går. En tredje hållbar
+faktor som nämnts tidigare är att bygga
+volymeffektivt. Att få in mer innehåll på
+mindre yta är att bygga hållbart och
+resurseffektivt.
+Livscykel och miljö/klimat
+påverkan i byggnadens olika
+skeden
+
+Planering och projektering
+I det arbete som föregår ett byggande
+sätts förutsättningarna för byggnadens
+klimatpåverkan. Här bestäms byggna-
+dens utformning i helhet och detalj samt
+val av material och tekniska system.
+Man kan planera för människors behov
+på ett sätt som uppmuntrar en hållbar
+livsstil. Man bör också ta tillvara så
+mycket som möjligt av det som redan
+finns på platsen, till exempel genom att
+bygga om, hellre än att riva och bygga
+nytt. Genom kloka design- och material-
+val kan man skapa energieffektiva hus
+med låg förbrukning och där den energi
+som används är förnybar. Behovet av
+energi minskas genom att optimera
+
+byggnadsvolymer, genom att orientera
+byggnaden rätt och välja rätt klimatskal
+samt genom att välja energisnåla
+tekniska system. Att granska och välja
+giftfria material är grundläggande. Detta
+gäller både om man vill återanvända ett
+material eller bygga in nya. Målgruppen
+barn är, när dom växer och utvecklas,
+dessutom extra receptiva för gifter.
+Byggskedet
+I en byggnads liv har byggskedet gett
+upphov till ett stort klimatavtryck redan
+från dag ett. Den aspekt som ger störst
+påverkan är materialframställningen.
+Därför är det av största vikt att välja
+material noggrant utifrån dess klimat-
+påverkan. Materialaspekter att sträva
+efter är förnybarhet, återvunna material,
+material med miljödata eller utformade
+för återbruk. Olika tillverkare kan orsaka
+olika utsläpp för likvärdiga byggmaterial,
+varför upphandling är ett viktigt verktyg.
+Användning
+Klimatavtrycket från en byggnad under
+användning kommer framförallt från
+energibehovet. Energin behövs för upp-
+värmning, ventilation, varmvatten och
+belysning med mera. Det som varje år
+
+kan te sig litet ackumuleras till att bli en
+stor del av byggnadens klimatpåverkan
+med tiden. Lägst klimatavtryck kom-
+mer av förnybar energi, som solceller
+och solfångare och andra förnybara
+energislag.
+Att utforma byggnaden så att dess
+volym och stomme samverkar med de
+tekniska systemen kan minska behovet
+av energi. Andra bidragande faktorer till
+en byggnads klimatavtryck kan komma
+från behovet av att byta ut material och
+möbler eller om- och utbyggnad. Att
+utforma en byggnad med hänsyn till
+framtida ändrade behov eller genom
+generella lösningar som möter flera
+behov kan ge en lägre klimatpåverkan
+på sikt.
+Återanvändning
+Att planera byggnader för återanvänd-
+ning och att återanvända material
+eller möbler vid nybyggnad, som
+kommer från andra byggnader, minskar
+klimatavtrycket i dagens och morgon-
+dagens byggnader. Att förbereda för
+demonterbarhet är ett sätt att säkra att
+byggnaden kan komma att ingå i ett
+cirkulärt kretslopp.
 
 Idrottshallspecifika hållbarhetsaspekter:
 
 Varje byggnad har sina plats- eller situationsspecifika förutsättningar för att kunna bli hållbara.
 För idrottshallar finns ett antal aspekter att arbeta med för att byggnaden ska bli så robust och
 självförsörjande som möjligt.
+
 • En hög rumshöjd innebär att använd luft värms och stiger uppåt, vilket nyttjas till naturlig
 ventilation istället för energikrävande mekanisk.
 • Stora yttertak lämpar sig till solenergi eller hantering av dagvatten med växtbeklädda tak.
 • Växtbeklädda tak bidrar till ökad biologisk mångfald.
-
 • I idrottshallar är varmvattenanvändningen stor och kan försörjas av förnybar energi, genom
 solfångare och solceller.
 • Varmt spillvatten från duschar kan värmeväxlas till nytt varmvatten.
@@ -28304,122 +32830,240 @@ bristande.
 
 <!-- sida 685 -->
 
-Strategisk           planering
+Strategisk            planering
 
 Framtidens idrottshall
-En utgångspunkt  för att förändra ojämlikhet är
 är en del av kommunens
-att synliggöra hur ojämlikhet skapas och upp-
 strategiska planering, den
-rätthålls. Det innebär att titta på de normer som
 svarar på det behov som
-ligger till grund för den egna verksamheten och
+
 är störst och skapas och
-undersöka  vilka villkor de skapar för brukare
 utvecklas genom lokal
-förankring.             och invånare. Normer ramar in det som ses som
-normalt och naturligt. De är nödvändiga för att
-Det är viktigt att vara medveten om alla vi ska kunna samspela i samhället, men de kan
+förankring.
+
+Det är viktigt att vara medveten om alla
 planprocessens skeden för att kunna
-också fungera som begränsningar. Ett normkri-
 arbeta med hallfrågan på ett strategiskt
-sätt och säkra att hallar planeras och tiskt arbete är ett förändringsarbete som tar sin
+sätt och säkra att hallar planeras och
 placeras på ett samhällsnyttigt sätt.
-utgångspunkt  i den egna organisationen.
 Annas är risken att behoven konstateras
 allt för sent i processen och förutsätt-
-ningarna försämras. Genom att koppla Normkritiskt arbete, SKL, 2011
+ningarna försämras. Genom att koppla
 planeringen av hallar till ordinarie plan-
 och förvaltningsprocess möjliggörs
 samnyttjande och en tydligare kartlägg-
-ning av behov och möjligheter i relation inkluderande resultat. Medborgare kan långsiktig och övergripande utveck-
-till kommunens övriga utveckling. göras delaktiga i beslut och processer lingsstrategi och grunddragen i den
-på flera sätt och nivåer. För att hitta rätt avsedda användningen av mark- och
-Inkluderande planering form av delaktighet finns en särskild vattenområden. Den hanterar frågor
-För att erbjuda likvärdiga möjligheter för delaktighetstrappa som bland annat om allmänna intressen, riksintressen
-alla våra medborgare att tillgå hallakti- SKR har skrivit om att ta hjälp av. Ett och om hur den byggda miljön ska
-viteten och därmed öka samhällsnyttan annat verktyg som rekommenderas användas, utvecklas och bevaras.
-av hallarna behöver man arbeta aktivt från bland annat SKR är att ta fram en Idrottshallars utveckling sker till
-inkluderande även i planeringsproces- konsekvensbedömning för att bedöma stor del kopplat till utveckling av nya
-sen. Nuläget behöver kartläggas och skillnader i hälsa i områden i samband skolor vilket ofta är en konsekvens av
-fokusgrupper behöver identifieras. För med beslutsfattande. bostadsutveckling. Utvecklingsläget
-att skapa en inkluderande hall bör ett       bör därför kartläggas och behov av nya
-normmedvetet arbetssätt implemente- Översiktsplanen hallar identifieras för att åstadkomma en
-ras genom processens alla steg. Översiktsplanen formulerar strategier strategisk och inkluderande placering
-Att arbeta med brukargrupper för för kommunens långsiktigt hållbara av en ny hall.
-att komplettera den fackmannamässiga utveckling med utgångspunkt i den Samtidigt bör nuläget kartläggas,
-kunskapen är centralt för att nå ett politiska målbilden. Den anger en befolkningsdata tas fram och analyse-
+ning av behov och möjligheter i relation
+till kommunens övriga utveckling.
+Inkluderande planering
+För att erbjuda likvärdiga möjligheter för
+alla våra medborgare att tillgå hallakti-
+viteten och därmed öka samhällsnyttan
+av hallarna behöver man arbeta aktivt
+inkluderande även i planeringsproces-
+sen. Nuläget behöver kartläggas och
+fokusgrupper behöver identifieras. För
+att skapa en inkluderande hall bör ett
+normmedvetet arbetssätt implemente-
+ras genom processens alla steg.
+Att arbeta med brukargrupper för
+att komplettera den fackmannamässiga
+kunskapen är centralt för att nå ett
+
+En utgångspunkt för att förändra ojämlikhet är
+att synliggöra hur ojämlikhet skapas och upp-
+
+rätthålls. Det innebär att titta på de normer som
+ligger till grund för den egna verksamheten och
+undersöka vilka villkor de skapar för brukare
+och invånare. Normer ramar in det som ses som
+
+normalt och naturligt. De är nödvändiga för att
+vi ska kunna samspela i samhället, men de kan
+också fungera som begränsningar. Ett normkri-
+
+tiskt arbete är ett förändringsarbete som tar sin
+utgångspunkt i den egna organisationen.
+
+Normkritiskt arbete, SKL, 2011
+
+inkluderande resultat. Medborgare kan
+göras delaktiga i beslut och processer
+på flera sätt och nivåer. För att hitta rätt
+form av delaktighet finns en särskild
+delaktighetstrappa som bland annat
+SKR har skrivit om att ta hjälp av. Ett
+annat verktyg som rekommenderas
+från bland annat SKR är att ta fram en
+konsekvensbedömning för att bedöma
+skillnader i hälsa i områden i samband
+med beslutsfattande.
+Översiktsplanen
+Översiktsplanen formulerar strategier
+för kommunens långsiktigt hållbara
+utveckling med utgångspunkt i den
+politiska målbilden. Den anger en
+
+långsiktig och övergripande utveck-
+lingsstrategi och grunddragen i den
+avsedda användningen av mark- och
+vattenområden. Den hanterar frågor
+om allmänna intressen, riksintressen
+och om hur den byggda miljön ska
+användas, utvecklas och bevaras.
+Idrottshallars utveckling sker till
+stor del kopplat till utveckling av nya
+skolor vilket ofta är en konsekvens av
+bostadsutveckling. Utvecklingsläget
+bör därför kartläggas och behov av nya
+hallar identifieras för att åstadkomma en
+strategisk och inkluderande placering
+av en ny hall.
+Samtidigt bör nuläget kartläggas,
+befolkningsdata tas fram och analyse-
+
 BEFINTLIG     ÖVERSIKTSPLAN DETALJPLAN  GENOMFÖRANDE HALL I BRUK
 SITUATION
+
 Kartlägg nuläge  Skapa tillräckligt Utforma tillsammans Fortsätt att samverka
 och hitta strategiskt utrymme för hall och ytor - Samverka med de för att utveckla
 viktiga hallsats- rumt hallen, säkerställ en lokala aktörerna för verksamheten och
 ningar.          inkluderande placering att skräddar sy en hall nyttjandet av hallen.
 inom detaljplaneområ- som svarar på det
-det.          lokala behovet och
+det.           lokala behovet och
 inkluderar fler.
 64
 
 <!-- sida 686 -->
 
+ras och synliggöra skillnader i hälsa på
+lokal och regional nivå. Utan underlag
+vet man inte vilka skillnader man ska
+komma tillrätta med, risken är att man
+antar skillnader och samtidigt undanlå-
+ter att förändra rådande ojämlikhet.
+I detta översiktliga skede har man
+också möjlighet att komplettera kommu-
+nens rörelseerbjudanden, för att möta
+flera behov och identifiera synergier
+mellan olika strategiska satsningar på
+hälsa.
+Detaljplan
+I detta skede fördelas marken inom
+ett avgränsat område till olika lämpliga
+användningar. Lämpligheten bedöms
+utifrån beskaffenhet, läge och
+behov. Planen tas fram enligt en väl
+definierad process för att säkra insyn
+för berörda och för att få fram ett bra
+beslutsunderlag som är möjligt och som
+går att förankra. I detaljplanen fördelas
+ytan mellan detaljplaneområdets olika
+funktioner. Här definieras skolgårdars
+yta och bostadskvartersutbredning,
+vilka stråk som har större eller mindre
+utrymme för gång, cykel, lek etc. I detta
+skede identifieras behov och möjlig-
+heter utifrån den specifika platsen, de
+lokala behoven och möjligheterna.
+För idrottshallens del är det här
+viktigt att säkra att ytan och höjdan-
+givelser för hallen är tillräckligt stor
+och att hallens placering inom detalj-
+planeområdet gynnar rörelseglädje,
+rörelsefrihet och tillgänglighet för fler
+Delaktighetstrappa
+
+De olika trappstegen är (1) information, (2)
+konsultation, (3) dialog, (4) inflytande och
+(5) medbeslutande. Delaktighetstrappan
+ska ses som en hjälp till att strukturera
+medborgardialogen i förhållande till de
+beslut de förtroendevalda ska fatta med
+utgångspunkt i de lokala förutsättningar
+som råder. (SKRs beskrivning av trappan).
+
 4\. ATT SKAPA EN IDROTTSHALL
+
+enligt beskrivningen i kapitlet Hallens
+placering. Även ytor för parkering och
+angöring sätts i detaljplaneskedet och
+behöver bevakas
+I detta skede bör det aktivt
+inkluderande arbetet ske både genom
+förvaltningsöverskridande samverkan
+och genom uppsökande av både
+föreningsliv av olika slag och grupper
+som ofta står utanför föreningsidrotten.
+Genomförande - Utforma hallen
+inför byggnation
+Efter detaljplaneskedet fortsätter
+arbetet med utformningen av
+byggnaden. Utifrån de begränsningar
+i höjd och utbredning på mark som
+framkommit i detaljplaneskedet
+fortsätter arbetet med att utforma
+byggnaden i sin helhet och i sina olika
+delar. Ett arbete som vanligtvis sker i en
+projektgrupp bestående av arkitekter
+och andra teknikkonsulter.
+Även i detta skede finns mycket att
+vinna på ett samarbete utanför projekt-
+gruppen för att få till en lokalt förankrad
+normmedveten designprocess. Man kan
+antingen arbeta vidare med de grupper
+som identifierats redan i tidigare skeden
+eller söka upp identifierar komplet-
+terande grupper. De grupper man väljer
+att arbeta med bör vara de som redan
+är aktiva i det lokala föreningslivet, såväl
+större som mindre grupper, men också
+grupper som står utanför föreningslivet.
+I såväl planeringen som genomförande
+och sökandet efter information och
 
 ”
 Integrera
-ras och synliggöra skillnader i hälsa på enligt beskrivningen i kapitlet Hallens
-lokal och regional nivå. Utan underlag placering. Även ytor för parkering och och samordna
-vet man inte vilka skillnader man ska angöring sätts i detaljplaneskedet och
+
+och  samordna
 planeringen
-komma tillrätta med, risken är att man behöver bevakas
-antar skillnader och samtidigt undanlå- I detta skede bör det aktivt av hallar i
-ter att förändra rådande ojämlikhet. inkluderande arbetet ske både genom
-I detta översiktliga skede har man förvaltningsöverskridande samverkan kommunens
-också möjlighet att komplettera kommu- och genom uppsökande av både
+
+av  hallar i
+kommunens
+
 ordinarie
-nens rörelseerbjudanden, för att möta föreningsliv av olika slag och grupper
-flera behov och identifiera synergier som ofta står utanför föreningsidrotten. planering
-mellan olika strategiska satsningar på
-hälsa.                 Genomförande - Utforma hallen redan i tidiga
-inför byggnation
+planering
+
+redan   i tidiga
 skeden!
-Detaljplan             Efter detaljplaneskedet fortsätter
-I detta skede fördelas marken inom arbetet med utformningen av
-ett avgränsat område till olika lämpliga byggnaden. Utifrån de begränsningar Mikael Franzen, Uppsala Kommun
-användningar. Lämpligheten bedöms i höjd och utbredning på mark som
-utifrån beskaffenhet, läge och framkommit i detaljplaneskedet
-behov. Planen tas fram enligt en väl fortsätter arbetet med att utforma
-definierad process för att säkra insyn byggnaden i sin helhet och i sina olika svar skall också idrottsförbundens
-för berörda och för att få fram ett bra delar. Ett arbete som vanligtvis sker i en kunskap nyttjas, såväl de centrala som
-beslutsunderlag som är möjligt och som projektgrupp bestående av arkitekter de mer lokala. Det är återigen viktigt
-går att förankra. I detaljplanen fördelas och andra teknikkonsulter. att identifiera trappsteg på deltagande
-ytan mellan detaljplaneområdets olika Även i detta skede finns mycket att trappan och att låta rätt kompetens
-funktioner. Här definieras skolgårdars vinna på ett samarbete utanför projekt- hålla i dialogen. I genomförandeproces-
-yta och bostadskvartersutbredning, gruppen för att få till en lokalt förankrad sen finns stora fördelar i att vad gäller
-vilka stråk som har större eller mindre normmedveten designprocess. Man kan specifika aspekter eller lösningar prova
-utrymme för gång, cykel, lek etc. I detta antingen arbeta vidare med de grupper sig fram, att i skala 1:1 testa och justera
-skede identifieras behov och möjlig- som identifierats redan i tidigare skeden innan projektet står klart.
-heter utifrån den specifika platsen, de eller söka upp identifierar komplet- Syftet med medskapande i denna
-lokala behoven och möjligheterna. terande grupper. De grupper man väljer process är att hitta platsspecifika
-För idrottshallens del är det här att arbeta med bör vara de som redan konkreta behov och synergier så att
-viktigt att säkra att ytan och höjdan- är aktiva i det lokala föreningslivet, såväl gestaltningen på bästa möjliga sätt
-givelser för hallen är tillräckligt stor större som mindre grupper, men också skapar förutsättningar att skapa en hall
-och att hallens placering inom detalj- grupper som står utanför föreningslivet. för fler.
-planeområdet gynnar rörelseglädje, I såväl planeringen som genomförande
-rörelsefrihet och tillgänglighet för fler och sökandet efter information och
-Delaktighetstrappa
-De olika trappstegen är (1) information, (2)
-konsultation, (3) dialog, (4) inflytande och
+
+Mikael Franzen, Uppsala Kommun
+
+svar skall också idrottsförbundens
+kunskap nyttjas, såväl de centrala som
+de mer lokala. Det är återigen viktigt
+att identifiera trappsteg på deltagande
+trappan och att låta rätt kompetens
+hålla i dialogen. I genomförandeproces-
+sen finns stora fördelar i att vad gäller
+specifika aspekter eller lösningar prova
+sig fram, att i skala 1:1 testa och justera
+innan projektet står klart.
+Syftet med medskapande i denna
+process är att hitta platsspecifika
+konkreta behov och synergier så att
+gestaltningen på bästa möjliga sätt
+skapar förutsättningar att skapa en hall
+för fler.
+
 MEDBESLUTANDE
-(5) medbeslutande. Delaktighetstrappan
-ska ses som en hjälp till att strukturera
+
 INFLYTANDE
-medborgardialogen i förhållande till de
-beslut de förtroendevalda ska fatta med
+
 DIALOG
-utgångspunkt i de lokala förutsättningar
-som råder. (SKRs beskrivning av trappan).
 KONSULTATION
+
 INFORMATION
+
 65
 
 <!-- sida 687 -->
@@ -28427,47 +33071,46 @@ INFORMATION
 Vidare        läsning
 
 Strategi 2025
-Riksidrottsförbundet                Parker och naturområden - riktlinjer för jämställd-
-https://www.strategi2025.se/        hetsarbete
-Göteborgs stad, Park och natur
-Idrottens samhällsnytta –en sammanfattning https://goteborg.se/wps/wcm/connect/7857827d-cb5c-
-Riksidrottsförbundet                4a37-a598-461e8fc9db6c/Parker+och+naturområden\_
-https://www.rf.se/globalassets/riksidrottsforbundet/ Riktlinjer+för+jämställdhetsarbete.pdf?MOD=AJPERES
+Riksidrottsförbundet
+https://www.strategi2025.se/
+
+Idrottens samhällsnytta –en sammanfattning
+Riksidrottsförbundet
+https://www.rf.se/globalassets/riksidrottsforbundet/
 nya-dokument/nya-dokumentbanken/ovrigt/idrottens-
-samhallsnytta-kortversion.pdf       Inkluderande Lärmiljöer
-ARQ/White arkitekter
-Idrotten vill - Idrottens idéprogram Planeringsverktyg för inkluderande skolmiljöer.
-Riksidrottsförbundet                https://whitearkitekter.com/se/research-development/
-https://www.rf.se/omriksidrottsforbundet/idrottsrorelsens- inkluderande-larmiljoer/
+samhallsnytta-kortversion.pdf
+Idrotten vill - Idrottens idéprogram
+Riksidrottsförbundet
+https://www.rf.se/omriksidrottsforbundet/idrottsrorelsens-
 styrandedokument/idrottenvillidrottsrorelsensideprogram/
-Inkluderande skateanläggningar
-Måttboken                           White research lab
-SKR                                 Rapport om att skapa inkluderande skatemiljöer.
-Detaljerade mått för ca 70 olika idrotter. https://white.egnyte.com/dl/OjHBGVaNXL
+
+Måttboken
+SKR
+Detaljerade mått för ca 70 olika idrotter.
 https://skr.se/skolakulturfritid/kulturfritid/idrottochanlagg-
-ningar/mattboken.1908.html          Orten i rörelse - jämställdhet och cykling
-Haninge kommun
-Redskapshallar - För träning inom svensk gymnastik Exempel på Inkluderande process och implementering.
-Svensk gymnastik                    https://www.haninge.se/bygga-bo-och-miljo/klimat-och-
-Kompletterande information till Måttboken för gymnastik. miljo/orten-i-rorelse-jamstalldhet-och-cykling/
+ningar/mattboken.1908.html
+Redskapshallar - För träning inom svensk gymnastik
+Svensk gymnastik
+Kompletterande information till Måttboken för gymnastik.
 https://www.gymnastik.se/forforeningar/traningsmiljoeran-
-laggningar/stodmaterial/            Skolans nya plats i staden
-Boverket
-Läroplan LGR 11                     Om planering av skolor och idrottshallar i stadsmiljö.
-Skolverket                          https://www.boverket.se/globalassets/publikationer/
-Grundskolans läroplan och information om hur den används. dokument/2017/skolans-nya-plats-i-staden.pdf
+laggningar/stodmaterial/
+
+Läroplan LGR 11
+Skolverket
+Grundskolans läroplan och information om hur den används.
 https://www.skolverket.se/undervisning/grundskolan/
-laroplan-och-kursplaner-for-grundskolan Rörelseriks stadsutveckling
-RF och Movium
-Gör jämlikt gör skillnad            Finns det plats för idrott och aktivitet när tätorten blir
-SKR                                 tätare?
-Samling för socialhållbarhet minskar skillnaderna i hälsa. https://www.rf.se/contentassets/bee89d-
-https://webbutik.skr.se/sv/artiklar/gor-jamlikt-gor-skillnad-. 0096b24191a6472c964648175b/rorelserik-stadsut-
-html                                veckling.pdf
+laroplan-och-kursplaner-for-grundskolan
+
+Gör jämlikt gör skillnad
+SKR
+Samling för socialhållbarhet minskar skillnaderna i hälsa.
+https://webbutik.skr.se/sv/artiklar/gor-jamlikt-gor-skillnad-.
+html
 Gör plats för barn och unga!
 Boverket
 https://www.boverket.se/sv/om-boverket/publicerat-av-
 boverket/publikationer/2015/gor-plats-for-barn-och-unga1/
+
 Barn och ungas utemiljöer
 Boverket
 https://www.boverket.se/sv/samhallsplanering/uppdrag/
@@ -28478,6 +33121,42 @@ https://www.boverket.se/sv/om-boverket/publicerat-av-
 boverket/publikationer/2013/planera-for-rorelse/
 
 66
+
+Parker och naturområden - riktlinjer för jämställd-
+hetsarbete
+Göteborgs stad, Park och natur
+https://goteborg.se/wps/wcm/connect/7857827d-cb5c-
+4a37-a598-461e8fc9db6c/Parker+och+naturområden\_
+Riktlinjer+för+jämställdhetsarbete.pdf?MOD=AJPERES
+Inkluderande Lärmiljöer
+ARQ/White arkitekter
+Planeringsverktyg för inkluderande skolmiljöer.
+https://whitearkitekter.com/se/research-development/
+inkluderande-larmiljoer/
+
+Inkluderande skateanläggningar
+White research lab
+Rapport om att skapa inkluderande skatemiljöer.
+https://white.egnyte.com/dl/OjHBGVaNXL
+
+Orten i rörelse - jämställdhet och cykling
+Haninge kommun
+Exempel på Inkluderande process och implementering.
+https://www.haninge.se/bygga-bo-och-miljo/klimat-och-
+miljo/orten-i-rorelse-jamstalldhet-och-cykling/
+Skolans nya plats i staden
+Boverket
+Om planering av skolor och idrottshallar i stadsmiljö.
+https://www.boverket.se/globalassets/publikationer/
+dokument/2017/skolans-nya-plats-i-staden.pdf
+
+Rörelseriks stadsutveckling
+RF och Movium
+Finns det plats för idrott och aktivitet när tätorten blir
+tätare?
+https://www.rf.se/contentassets/bee89d-
+0096b24191a6472c964648175b/rorelserik-stadsut-
+veckling.pdf
 
 <!-- sida 688 -->
 

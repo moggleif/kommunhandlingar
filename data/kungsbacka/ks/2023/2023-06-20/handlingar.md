@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20241125184016id_/https://kungsbacka.se/d
 sha256: a2a89430caa8a95b71194deaed53f24a2b2b4e1d1ed39d5ed597d9b59edfc980
 bytes: 36849435
 sidor: 396
-hamtad: 2026-10-20T09:53:43+00:00
-konverterad: 2026-10-20T09:58:00+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T11:35:12+00:00
+konverterad: 2026-11-17T11:38:12+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 25, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 83, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 154, 155, 156, 184, 215, 227, 228, 229, 230, 231, 232, 233, 296, 313, 319, 327]
 figurer: [14, 25, 42, 71, 77, 78, 80, 83, 87, 89, 96, 97, 99, 100, 102, 103, 105, 106, 107, 108, 111, 113, 115, 117, 118, 123, 124, 125, 134, 136, 139, 165, 175, 176, 178, 183, 189, 190, 191, 192, 196, 197, 198, 199, 200, 201, 203, 207, 215, 224, 225, 230, 231, 232, 233, 304, 305, 307, 308, 309, 310, 312, 313, 314, 315, 318, 319, 320, 321, 322, 323, 324, 325, 327, 328, 329, 330, 332, 334, 335, 336, 337, 346, 348, 349, 350, 353, 355, 357, 358, 361, 362, 363, 364, 365, 368, 369, 370, 371, 372, 379]
 tolkade: []
@@ -467,23 +467,25 @@ ekonomistyrprinciperna är det nämnden som ansvarar för att prioritera riskern
 I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns med beskrivning i tabellen nedan.
 
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
-
-8
-tehkilonnaS
 4     8    12     16
 4
+
 3     6     9     12
 3              1 4
 
 ```osaker-tabell
        2     4     6     8
+
 2              2     3
+
        1     2     3     4
 ```
 
 1
+
 1     2     3     4
 Konsekvens
+
 Sannolikhet           Konsekvens
 Kritisk
 Hög       4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den inte får
@@ -495,6 +497,10 @@ Låg                               intressenter och kommunen)
 och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda intressenter och
 obefintlig) - exempelvis 1 gång per 10 år kommunen)
+
+8
+
+Sannolikhet
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
@@ -702,8 +708,6 @@ ORFÖRANDEBESLUT
 Datum
 2023-04-14
 Dianenummer
-
-GA 2023-00009 Kungsbacka
 
 Stiftelsen Arvid och Hildur Anderssons donation 2023
 
@@ -1660,7 +1664,7 @@ Kjel
 till registret. I annat fall kommer en utbetalningsavi att skickas till Fastighetsägarens
 folkbokföringsadress.
 
-Om betalning inte sker inom avtalad tid och utgår ränta enligt 6 \$ räntelagen från sista
+Om betalning inte sker inom avtalad tid och utgår ränta enligt 6 § räntelagen från sista
 betalningsdag tills betalning sker.
 
 Tillträde
@@ -5548,7 +5552,7 @@ Kungsbacka kommun SAMMANTRÄDESPROTOKOLL 10 (171)
 Byggnadsnämndens arbetsutskott Datum
 2022-05-25
 
-\$ 263
+§ 263
 
 Uppdrag att upprätta förslag till detaljplan
 för bostäder inom Kläppa 1:12 m.fl. i Åsa
@@ -5577,7 +5581,7 @@ främst med hänsyn till platsens topografi och stationsnära läge.
 
 Beslutsunderlag
 
-Samhällsbyggnadskontorets tjänsteskrivelse, 2022-05-13 Protokollsutradag, 2022-04-26 KS \$91
+Samhällsbyggnadskontorets tjänsteskrivelse, 2022-05-13 Protokollsutradag, 2022-04-26 KS §91
 Projektbeställning för detaljplan för bostäder inom Kläppa 1:12, 1:13 och del av 1:105, 2022-03-08,
 reviderad 2022-05-02
 
@@ -5627,7 +5631,7 @@ Uppdrag, politiska beslut m.m.
 
 Samhällsbyggnadskontoret har fått i uppdrag att upprätta ny ”Detaljplan för
 bostäder inom Kläppa 1:12 m.fl.” Detaljplanen, genom beslut i
-Byggnadsnämndens arbetsutskott, 2022-05-25, \$ 263.
+Byggnadsnämndens arbetsutskott, 2022-05-25, § 263.
 
 Kommunstyrelsen beslutade den 24 april 2018 att godkänna planprogram för
 bostäder inom fastigheterna Stockalid 1:4, Kläppa 1:12, 1:13, 1:15 m.fl.
@@ -5681,7 +5685,7 @@ under planarbetet, avtalsförhandlingar och genomförbarhet.
 1:13, Kläppa 1:105 och Stockalid 1:9, samt omfattar även Stockalid 1:4, Kläppa
 S:1, Kläppa S:6 och Harestorp S:2.
 
-3.2 — Fastigheten Kläppa 1:12 ägs av Derome Hus AB och Stockalid 1:9 ägs av
+3.2 Fastigheten Kläppa 1:12 ägs av Derome Hus AB och Stockalid 1:9 ägs av
 Stockalid 1:9 AB (dotterbolag till Derome Hus AB). Fastigheterna Kläppa 1:13
 och Kläppa 1:105 ägs av en privatperson.
 
@@ -5977,8 +5981,6 @@ Kommundirektör
 Varberg 2023- 05-17
 För Stockalid 1:9
 
-Otto Mostler
-
 Kungsbacka 2023-I5 — 22
 För Kläppa 1:13 och Kläppa 1:105
 
@@ -5998,6 +6000,12 @@ detaljplanen för Stockalid 1:4 till den östra infarten för denna detaljplan.
 Sign
 
 <!-- sida 148 -->
+
+Detaljplan för bostäder inom Kläppa 1:12 m.fl. 9/10
+
+Bilaga B: Karta över planområdet
+
+-— a bj - SÅ
 
 <!-- sida 149 -->
 
@@ -8039,15 +8047,14 @@ KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkk
 
 KKKKKKKKKuuuuuuuuunnnnnnnnngggggggggsssssssssbbbbbbbbbaaaaaaaaaccccccccckkkkkkkkkaaaaaaaaa HHHHHHHHHaaaaaaaaammmmmmmmmmmmmmmmmmeeeeeeeeerrrrrrrrrööööööööö 777777777:::::::::333333333 (((((((((333333333)))))))))
 
-N 6373264
+0     200   400   600m                                  N 6373264
 Skala 1:7 000, SWEREF 99 TM, RH 2000.
 
 Sökande
-494523
-E
-334723
-E
-0     200   400   600m
+
+E 325494
+
+E 327433
 
 <!-- sida 216 -->
 
@@ -8399,8 +8406,6 @@ Sökande:
 
 <!-- sida 227 -->
 
-Ar laga vå sid Z
-
 Kungsbacka Kommun
 Plan & Bygg
 434 81 Kungsbacka
@@ -8471,7 +8476,7 @@ Ort och datum
 
 <!-- sida 231 -->
 
-Project - Full Path to File
+0+100
 
 0+120 0+140
 
@@ -8479,18 +8484,27 @@ Project - Full Path to File
 
 0+180
 
-0+000.00
-+24.62
+25086
 
-574
-2504 2
+0+200
 
-002.700 048222
-+25.21 +25.43
+0+220
 
-0+200 0+220 0+240 0+260
+2574
+
++25.21
+
+0+240
+
+0+023.70 048222
+
++25.43
 
 4.506
+
+0+260
+
+0+280
 
 7.868
 
@@ -8524,45 +8538,42 @@ BÅRATORP
 
 FMT AB
 
+HERMANSBY 210
+442 73 KÄRNA
 INFOGFMTMARK.SE
+
 WWW. FMTMARK.SE
 
-UPPDRAG NR
+FRAMTIDENS MARRTJÄNST-
+
+UPPDRAG NR HANDLÄGGARE
 REF.NR
 
 DATUM
 2023-04-13
 
 KOORDINATSYSTEM
-
-FAT
-
-FRAMTIDENS MARRTJÄNST-
-
-HANDLÄGGARE
-
 Sweden/SWEREF99 12 00 = RH2000
 
+PLATS/BESTÄLLARE ELLER LIKNANDE
 BÅRATORP
 
+VÄG, BEFINTLIG MARK
 PLAN & PROFIL
 
-PLATS/BESTÄLLARE ELLER LIKNANDE
+SKALA RITNINGSNUMMER REV
 
-VÄG, BEFINTLIG MARK
-
-SKALA
-
-A3
-
-RITNINGSNUMMER REV
-M-10-2-1-PROFIL
+A3 M-10-2-1-PROFIL
 
 Project - Modified Date
 
-<!-- sida 232 -->
-
 Project - Full Path to File
+
+0+000.00
+
++24.62
+
+<!-- sida 232 -->
 
 0480 04500 04520 01540 01560
 70
@@ -8570,7 +8581,7 @@ Project - Full Path to File
 04560 01600 01620 01680
 70
 50 —
-FA nn 60
+arr nn 60
 6.349
 40
 50
@@ -8608,9 +8619,9 @@ A3 M-10-2-2-PROFIL
 
 Project - Modified Date
 
-<!-- sida 233 -->
-
 Project - Full Path to File
+
+<!-- sida 233 -->
 
 14000
 
@@ -8643,8 +8654,7 @@ Project - Full Path to File
 30
 
 04985.36
-
-+41.53
+44153
 
 8.576
 
@@ -8692,6 +8702,8 @@ RITNINGSNUMMER REV
 M-10-2-3-PROFIL
 
 Project - Modified Date
+
+Project - Full Path to File
 
 <!-- sida 234 -->
 
@@ -11515,12 +11527,11 @@ Remiss – Boverkets förslag till föreskrifter om översiktsplan; med konsekve
 
 54
 
-2202/8564
-
-rnd
-:dllätstsaF Box 534, 371 23 Karlskrona
+Box 534, 371 23 Karlskrona
 Telefon: 0455-35 30 00
 Webbplats: www.boverket.se
+
+Fastställd: dnr 4658/2022
 
 <!-- sida 297 -->
 
@@ -12171,50 +12182,60 @@ tätort.
 
 Diagram: Andel av befolkningen boende i närhet (400 m) av kollektivtrafikstation (2019). Endast hållplatser med
 regelbundna avgångar inkluderas. Källa: SCB
-näl
-smlohkcotS
-näl
-alasppU
-näl
-sdnalatöG
-artsäV
-näl
-sdnalnamredöS
-näl
-sdnaltögretsÖ
-näl
-enåkS
-näl
-sgrobelväG
-näl
-sanralaD
-näl
-sdnallaH
-näl
-orberÖ
-näl
-sdnalrronretsäV
-näl
-sgnipöknöJ
-näl
-snettobretsäV
-näl
-sdnalnamtsäV
-näl
-egnikelB
-näl
-snettobrroN
-näl
-sdnaltmäJ
-näl
-sgrebonorK
-näl
-ramlaK
-näl
-sdnalmräV
-näl
-sdnaltoG
-datsmlaH grebneklaF grebraV akcabsgnuK mlohaL etlyH
+
+Stockholms län
+
+Uppsala län
+
+Västra Götalands län
+
+Södermanlands län
+
+Östergötlands län
+
+Skåne län
+
+Gävleborgs län
+
+Dalarnas län
+
+Hallands län
+
+Örebro län
+
+Västernorrlands län
+
+Jönköpings län
+
+Västerbottens län
+
+Västmanlands län
+
+Blekinge län
+
+Norrbottens län
+
+Jämtlands län
+
+Kronobergs län
+
+Kalmar län
+
+Värmlands län
+
+Gotlands län
+
+Halmstad
+
+Falkenberg
+
+Varberg
+
+Kungsbacka
+
+Laholm
+
+Hylte
 
 <!-- sida 314 -->
 
@@ -12314,37 +12335,60 @@ UPPFÖLJNING OCH INDIKATORER
 
 HALLAND SKA VARA EN MER ATTRAKTIV, INKLUDERANDE OCH KONKURRENSKRAFTIG REGION ÅR 2020 ÄN ÅR 2014
 Mål                      Indikatorer           Följs upp i
-Regionförstoring genom utveckling av Restid/turtäthet till Stockholm, Uppföljning till Tillväxtstrategin
-kollektivtrafik och infrastruktur, såväl Göteborg, Malmö och Helsingborg –
-söderut som norrut. Fortsatt arbete för mätpunkt Halmstad och Varberg
+
+Regionförstoring genom utveckling av
+kollektivtrafik och infrastruktur, såväl
+söderut som norrut. Fortsatt arbete för
 goda förbindelser med Stockholm
-Utvecklade former för samverkan och            Uppföljning till Tillväxtstrategin
+Utvecklade former för samverkan och
 samplanering mellan kollektivtrafik,
 infrastruktur, samhälls- och
 bebyggelseplanering
-Attraktiva stadsmiljöer med mötesplatser Deltagande och publik vid ett Uppföljning till Tillväxtstrategin
-som främjar företagsamhet, innovationer urval strategiskt utvalda
-och kultur               arrangemang och
+Attraktiva stadsmiljöer med mötesplatser
+som främjar företagsamhet, innovationer
+och kultur
+
+En koldioxidneutral ekonomi och
+fossiloberoende transporter
+
+Restid/turtäthet till Stockholm, Uppföljning till Tillväxtstrategin
+Göteborg, Malmö och Helsingborg –
+mätpunkt Halmstad och Varberg
+
+Uppföljning till Tillväxtstrategin
+
+Deltagande och publik vid ett Uppföljning till Tillväxtstrategin
+urval strategiskt utvalda
+arrangemang och
 mötesplatser. Huspriser i
 Halland
-En koldioxidneutral ekonomi och Andel förnyelsebar energi, Uppföljning till Tillväxtstrategin
-fossiloberoende transporter Koldioxidutsläpp
+Andel förnyelsebar energi, Uppföljning till Tillväxtstrategin
+Koldioxidutsläpp
 
 KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SAMHÄLLSUTVECKLING
 Mål                      Indikatorer           Följs upp i
-
 Kollektivtrafikens marknadsandel av totalt Resandestatistik Kollektivtrafikplanen
 resande ska vara minst 30% år 2030.
-Kollektivtrafiken ska bidra till positiv Skattekraft, Flyttningsöverskott Uppföljning till Tillväxtstrategin
-ekonomisk utveckling genom att bidra till från övriga Sverige till Hallands
-tillväxt genom arbetsmarknadsförstoring län
-Trafikintäkterna från resenärerna ska Biljettintäkter och trafikkostnader Hallandstrafiken ekonomiska
-utgöra minst 60 procent av                     redovisning
+
+Kollektivtrafiken ska bidra till positiv
+ekonomisk utveckling genom att bidra till
+tillväxt genom arbetsmarknadsförstoring
+Trafikintäkterna från resenärerna ska
+utgöra minst 60 procent av
 trafikkostnaderna baserat på det totala
 utbudet av den allmänna kollektivtrafiken
 i Halland sett över en längre tidsperiod
-Kollektivtrafiken ska drivas med fossilfria Utsläppsnivåer fordonsdatabas Kollektivtrafikplan
-bränslen                 FRIDA
+Kollektivtrafiken ska drivas med fossilfria
+bränslen
+
+Skattekraft, Flyttningsöverskott Uppföljning till Tillväxtstrategin
+från övriga Sverige till Hallands
+län
+Biljettintäkter och trafikkostnader Hallandstrafiken ekonomiska
+redovisning
+
+Utsläppsnivåer fordonsdatabas Kollektivtrafikplan
+FRIDA
 
 <!-- sida 317 -->
 
@@ -12435,6 +12479,8 @@ Pandemins påverkan på de inledande månaderna med rekommendationer om social
 distansering tillsammans med den långsiktiga påverkan på kollektivt resande så som
 distansarbete och förändrade resvanor ligger till grund för utfallet.
 
+Marknadsandel Halland 2011 - 2022
+
 20%
 18%
 16%
@@ -12447,8 +12493,60 @@ distansarbete och förändrade resvanor ligger till grund för utfallet.
 4%
 2%
 0%
-1102 2102 2102 3102 3102 4102 4102 4102 5102 5102 6102 6102 6102 7102 7102 8102 8102 9102 9102 9102 0202 0202 1202 1202 1202 2202 2202
-Marknadsandel Halland 2011 - 2022
+
+2011
+
+2012
+
+2012
+
+2013
+
+2013
+
+2014
+
+2014
+
+2014
+
+2015
+
+2015
+
+2016
+
+2016
+
+2016
+
+2017
+
+2017
+
+2018
+
+2018
+
+2019
+
+2019
+
+2019
+
+2020
+
+2020
+
+2021
+
+2021
+
+2021
+
+2022
+
+2022
 
 <!-- sida 320 -->
 
@@ -12672,6 +12770,8 @@ Siffrorna för 2022 visar att 59,5 procent av kunderna är nöjda med Hallandstr
 procent av allmänheten. I undersökningen framgår också att 79 procent av hallänningarna är
 nöjda med sin senaste resa.
 
+Nöjdhet kund/allmänhet Halland
+
 70,0%
 60,0%
 
@@ -12682,9 +12782,62 @@ nöjda med sin senaste resa.
 20,0%
 10,0%
 0,0%
-1102 2102 2102 3102 3102 4102 4102 4102 5102 5102 6102 6102 6102 7102 7102 8102 8102 9102 9102 9102 0202 0202 1202 1202 1202 2202 2202
-Nöjdhet kund/allmänhet Halland
+
 Nöjd allmänhet HALLAND Nöjd kund HALLAND
+
+2011
+
+2012
+
+2012
+
+2013
+
+2013
+
+2014
+
+2014
+
+2014
+
+2015
+
+2015
+
+2016
+
+2016
+
+2016
+
+2017
+
+2017
+
+2018
+
+2018
+
+2019
+
+2019
+
+2019
+
+2020
+
+2020
+
+2021
+
+2021
+
+2021
+
+2022
+
+2022
 
 <!-- sida 328 -->
 
@@ -12750,13 +12903,21 @@ användning är det varken miljö- eller klimatmässigt motiverat att bedriva ko
 att öka beläggningsgraden ombord sker fortsatt utveckling inom fordonsindustrin med nya
 motortekniker och effektivare drivmedel.
 
-Mål                                   Indikatorer/Uppföljning
-Kollektivtrafiken ska drivas med fossilfria bränslen Utsläppsnivåer - fordonsdatabas FRIDA
-Ökad elektrifiering inom busstrafiken Antal elbussar – fordonsdatabas FRIDA
-Energianvändning per km. (kWh/km)     kWh/km – fordonsdatabas FRIDA
+Mål
+Kollektivtrafiken ska drivas med fossilfria bränslen
 
-Energianvändning per personkm (kWh/pkm) kWh/person km – fordonsdatabas FRIDA
-Energianvändning (MWh)                Totalt MWh – fordonsdatabas FRIDA
+Ökad elektrifiering inom busstrafiken
+Energianvändning per km. (kWh/km)
+Energianvändning per personkm (kWh/pkm)
+Energianvändning (MWh)
+
+Indikatorer/Uppföljning
+Utsläppsnivåer - fordonsdatabas FRIDA
+
+Antal elbussar – fordonsdatabas FRIDA
+kWh/km – fordonsdatabas FRIDA
+kWh/person km – fordonsdatabas FRIDA
+Totalt MWh – fordonsdatabas FRIDA
 
 <!-- sida 330 -->
 

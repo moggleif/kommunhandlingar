@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190835id_/https://kungsbacka.se/d
 sha256: de7a7261392f443dfba6a00b3668658a0443cea8b61ecdbb2cba984f99e04005
 bytes: 999146
 sidor: 68
-hamtad: 2026-11-02T10:14:59+00:00
-konverterad: 2026-11-02T10:15:12+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T13:50:44+00:00
+konverterad: 2026-11-17T13:50:59+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok]
@@ -1456,7 +1456,6 @@ SOU 2020:67                              Författningsförslag
 
 – tidigare skolstart och undan- – tidigare skolstart och undan-
 tag från skyldigheten att fullgöra tag från skyldigheten att fullgöra
-
 skolplikt i förskoleklass (11– skolplikt i förskoleklass och obli-
 11 b §§),             gatorisk förskola (11–11 b §§),
 – när skolplikten upphör och rätten att därefter slutföra skol-
@@ -1469,19 +1468,27 @@ grundskolan           förskoleklassen och grundskolan
 
 4 §5
 Skolplikten ska börja fullgö- Skolplikten ska börja fullgö-
-ras i förskoleklassen. Därefter ska ras i den obligatoriska förskolan.
-skolplikten fullgöras i grundskolan Därefter ska skolplikten fullgöras
-eller i den skolform där barnet i förskoleklassen och sedan i grund-
-tas emot enligt 5, 6 eller 7 §, om skolan eller i den skolform där bar-
-inte skolplikten fullgörs på något net tas emot enligt 5, 6 eller 7 §, om
-annat sätt enligt bestämmelserna inte skolplikten fullgörs på något
+
+ras i förskoleklassen. Därefter ska
+skolplikten fullgöras i grundskolan
+eller i den skolform där barnet
+tas emot enligt 5, 6 eller 7 §, om
+inte skolplikten fullgörs på något
+annat sätt enligt bestämmelserna
+
+ras i den obligatoriska förskolan.
+Därefter ska skolplikten fullgöras
+i förskoleklassen och sedan i grund-
+skolan eller i den skolform där bar-
+net tas emot enligt 5, 6 eller 7 §, om
+inte skolplikten fullgörs på något
+
 i 24 kap.             annat sätt enligt bestämmelserna
 i 24 kap.
 Skolplikten kan dock börja full- Skolplikten kan dock börja
 göras direkt i grundskolan, grund- fullgöras direkt i förskoleklassen,
 särskolan, specialskolan eller same- grundskolan, grundsärskolan,
 skolan enligt 11 a och 11 b §§. specialskolan eller sameskolan
-
 enligt 11, 11 a och 11 b §§.
 
 10 §6
@@ -1551,7 +1558,6 @@ SOU 2020:67                              Författningsförslag
 
 Beslut i frågan enligt första stycket 2 fattas av
 1\. rektorn när det gäller grundskolan och sameskolan,
-
 2\. Specialpedagogiska skolmyndigheten när det gäller special-
 skolan, och
 3\. barnets hemkommun när det gäller grundsärskolan.
@@ -1560,22 +1566,38 @@ skolan, och
 Ett barn som har beviljats upp- Ett barn som har beviljats upp-
 skjuten skolplikt och som ska tas skjuten skolplikt och som ska tas
 emot i grundsärskolan får, ut- emot i grundsärskolan får, ut-
-över vad som anges i 11 a §, börja över vad som anges i 11 a §, börja
-fullgöra skolplikten i grundsär- fullgöra skolplikten i grundsär-
-skolan utan att först ha gått ut skolan utan att först ha gått ut
-förskoleklassen, om barnets vård- den obligatoriska förskolan eller
-nadshavare begär det hos hem- förskoleklassen, om barnets vård-
-kommunen.             nadshavare begär det hos hem-
+
+över vad som anges i 11 a §, börja
+fullgöra skolplikten i grundsär-
+skolan utan att först ha gått ut
+förskoleklassen, om barnets vård-
+nadshavare begär det hos hem-
+kommunen.
+
+över vad som anges i 11 a §, börja
+fullgöra skolplikten i grundsär-
+skolan utan att först ha gått ut
+den obligatoriska förskolan eller
+förskoleklassen, om barnets vård-
+nadshavare begär det hos hem-
 kommunen.
 
 12 §10
 Skolplikten upphör vid ut- Skolplikten upphör vid ut-
-gången av vårterminen det tionde gången av vårterminen det elfte
-året eller, om eleven går i special- året eller, om eleven går i special-
-skolan, det elfte året efter det att skolan, det tolfte året efter det att
-eleven börjat fullgöra skolplikten, eleven börjat fullgöra skolplikten,
-om inte annat följer av 13 eller om inte annat följer av 13 eller
-14 §.                 14 §.
+
+gången av vårterminen det tionde
+året eller, om eleven går i special-
+skolan, det elfte året efter det att
+eleven börjat fullgöra skolplikten,
+om inte annat följer av 13 eller
+14 §.
+
+gången av vårterminen det elfte
+året eller, om eleven går i special-
+skolan, det tolfte året efter det att
+eleven börjat fullgöra skolplikten,
+om inte annat följer av 13 eller
+14 §.
 
 17 §11
 En elev i förskoleklassen, Ett barn i den obligatoriska för-
@@ -1599,7 +1621,6 @@ Författningsförslag                        SOU 2020:67
 
 Den obligatoriska verksam- Den obligatoriska verksam-
 heten får omfatta högst 190 dagar heten får omfatta högst 190 dagar
-
 per läsår och åtta timmar eller, i per läsår och åtta timmar eller, i
 förskoleklassen och de två lägsta den obligatoriska förskolan, för-
 årskurserna, sex timmar per dag. skoleklassen och de två lägsta års-
@@ -1608,16 +1629,28 @@ gas till lördagar, söndagar eller dan verksamhet får inte förläggas
 andra helgdagar.      till lördagar, söndagar eller andra
 helgdagar.
 Regeringen eller den myndighet som regeringen bestämmer får
+
 meddela föreskrifter om avvikelser från andra stycket för elever i
+
 grundsärskolan och specialskolan.
-Om en elev i förskoleklassen, Om ett barn i den obligatori-
-grundskolan, grundsärskolan, ska förskolan eller en elev i för-
-specialskolan eller sameskolan skoleklassen, grundskolan, grund-
-utan giltigt skäl uteblir från den särskolan, specialskolan eller same-
-obligatoriska verksamheten, ska skolan utan giltigt skäl uteblir från
-rektorn se till att elevens vård- den obligatoriska verksamheten,
-nadshavare samma dag informe- ska rektorn se till att barnets eller
-ras om att eleven har varit från- elevens vårdnadshavare samma dag
+Om en elev i förskoleklassen,
+grundskolan, grundsärskolan,
+specialskolan eller sameskolan
+utan giltigt skäl uteblir från den
+obligatoriska verksamheten, ska
+rektorn se till att elevens vård-
+nadshavare samma dag informe-
+ras om att eleven har varit från-
+
+Om ett barn i den obligatori-
+ska förskolan eller en elev i för-
+skoleklassen, grundskolan, grund-
+särskolan, specialskolan eller same-
+skolan utan giltigt skäl uteblir från
+den obligatoriska verksamheten,
+ska rektorn se till att barnets eller
+elevens vårdnadshavare samma dag
+
 varande. Om det finns särskilda informeras om att barnet eller
 skäl behöver elevens vårdnads- eleven har varit frånvarande. Om
 havare inte informeras samma dag. det finns särskilda skäl behöver
@@ -1641,36 +1674,53 @@ SOU 2020:67                              Författningsförslag
 
 19 §
 En elev i en skolform som av- Ett barn eller en elev i en skol-
-
 ses i 17 § får på begäran av elev- form som avses i 17 § får på be-
-ens vårdnadshavare befrias från gäran av barnets eller elevens vård-
-skyldighet att delta i obligatoriska nadshavare befrias från skyldig-
-inslag i undervisningen om det het att delta i obligatoriska inslag
-finns synnerliga skäl. Ett sådant i undervisningen om det finns syn-
-beslut får endast avse enstaka till- nerliga skäl. Ett sådant beslut får
-fällen under ett läsår. endast avse enstaka tillfällen under
+
+ens vårdnadshavare befrias från
+skyldighet att delta i obligatoriska
+inslag i undervisningen om det
+finns synnerliga skäl. Ett sådant
+beslut får endast avse enstaka till-
+fällen under ett läsår.
+
+gäran av barnets eller elevens vård-
+nadshavare befrias från skyldig-
+het att delta i obligatoriska inslag
+i undervisningen om det finns syn-
+nerliga skäl. Ett sådant beslut får
+endast avse enstaka tillfällen under
 ett läsår.
+
 Rektorn beslutar om befrielse. Rektorn får inte uppdra åt någon
 annan att fatta sådana beslut.
 
 19 a §12
-Om en elev har upprepad eller Om ett barn eller en elev har
-längre frånvaro från den verksam- upprepad eller längre frånvaro
-het som avses i 17 § ska rektorn, från den verksamhet som avses i
-oavsett om det är fråga om giltig 17 § ska rektorn, oavsett om det
-eller ogiltig frånvaro, se till att från- är fråga om giltig eller ogiltig från-
-varon skyndsamt utreds om det varo, se till att frånvaron skynd-
+
+Om en elev har upprepad eller
+längre frånvaro från den verksam-
+het som avses i 17 § ska rektorn,
+oavsett om det är fråga om giltig
+eller ogiltig frånvaro, se till att från-
+varon skyndsamt utreds om det
+
+Om ett barn eller en elev har
+upprepad eller längre frånvaro
+från den verksamhet som avses i
+17 § ska rektorn, oavsett om det
+är fråga om giltig eller ogiltig från-
+varo, se till att frånvaron skynd-
+
 inte är obehövligt. Utredningen samt utreds om det inte är obe-
 ska genomföras i samråd med ele- hövligt. När det gäller barn i den
 ven och elevens vårdnadshavare obligatoriska förskolan ska utred-
 samt med elevhälsan.  ningen genomföras i samråd med
 barnets vårdnadshavare. När det
 gäller elever i övriga skolformer
-
 ska utredningen genomföras i sam-
 råd med eleven och elevens vård-
 nadshavare samt med elevhälsan.
 Om förutsättningarna för en utredning om särskilt stöd enligt
+
 3 kap. 7 § är uppfyllda ska även en sådan utredning inledas.
 När en utredning om en elevs När en utredning om ett barns
 frånvaro har inletts ska rektorn se eller en elevs frånvaro har inletts
@@ -1687,43 +1737,79 @@ Författningsförslag                        SOU 2020:67
 
 21 §13
 Hemkommunen ska se till att Hemkommunen ska se till att
-
 skolpliktiga barn som inte går i skolpliktiga barn som inte går i
-dess förskoleklass, grundskola eller dess obligatoriska förskola, för-
-grundsärskola på något annat sätt skoleklass, grundskola eller grund-
-får föreskriven utbildning. särskola på något annat sätt får
+
+dess förskoleklass, grundskola eller
+grundsärskola på något annat sätt
+får föreskriven utbildning.
+
+Hemkommunen ska i frågor
+som rör skolpliktiga elever som
+avses i 19 a § vid behov samordna
+
+dess obligatoriska förskola, för-
+skoleklass, grundskola eller grund-
+särskola på något annat sätt får
 föreskriven utbildning.
-Hemkommunen ska i frågor Hemkommunen ska i frågor
-som rör skolpliktiga elever som som rör skolpliktiga barn och ele-
-avses i 19 a § vid behov samordna ver som avses i 19 a § vid behov
-insatser med samhällsorgan, orga- samordna insatser med samhälls-
-nisationer eller andra som berörs. organ, organisationer eller andra
-I fråga om utlämnande av uppgifter som berörs. I fråga om utlämnande
-gäller de begränsningar som följer av uppgifter gäller de begräns-
-av 29 kap. 14 § och offentlighets- ningar som följer av 29 kap. 14 §
-och sekretesslagen (2009:400). och offentlighets- och sekretess-
+Hemkommunen ska i frågor
+som rör skolpliktiga barn och ele-
+ver som avses i 19 a § vid behov
+
+insatser med samhällsorgan, orga-
+nisationer eller andra som berörs.
+I fråga om utlämnande av uppgifter
+gäller de begränsningar som följer
+av 29 kap. 14 § och offentlighets-
+och sekretesslagen (2009:400).
+
+samordna insatser med samhälls-
+organ, organisationer eller andra
+som berörs. I fråga om utlämnande
+av uppgifter gäller de begräns-
+ningar som följer av 29 kap. 14 §
+och offentlighets- och sekretess-
 lagen (2009:400).
 
 22 §14
 Huvudmannen ska se till att Huvudmannen ska se till att
-eleverna i huvudmannens för- barnen i huvudmannens obligato-
-skoleklass, grundskola och grund- riska förskola och eleverna i huvud-
-särskola fullgör sin skolgång. mannens förskoleklass, grund-
-Huvudmannen för specialskolan skola och grundsärskola fullgör
-och huvudmannen för samesko- sin skolgång. Huvudmannen för
-lan ska se till att elever i utbild- specialskolan och huvudmannen
 
-ning under deras ledning fullgör för sameskolan ska se till att barn
-sin skolgång.         och elever i utbildning under deras
+eleverna i huvudmannens för-
+skoleklass, grundskola och grund-
+särskola fullgör sin skolgång.
+Huvudmannen för specialskolan
+och huvudmannen för samesko-
+lan ska se till att elever i utbild-
+ning under deras ledning fullgör
+sin skolgång.
+
+När en skolpliktig elev börjar
+
+barnen i huvudmannens obligato-
+riska förskola och eleverna i huvud-
+mannens förskoleklass, grund-
+skola och grundsärskola fullgör
+sin skolgång. Huvudmannen för
+specialskolan och huvudmannen
+för sameskolan ska se till att barn
+och elever i utbildning under deras
 ledning fullgör sin skolgång.
-När en skolpliktig elev börjar När ett skolpliktigt barn eller
-eller slutar vid en skolenhet med en skolpliktig elev börjar eller
-en annan huvudman än hemkom- slutar vid en förskoleenhet eller en
-munen eller det hos en sådan hu- skolenhet med en annan huvud-
-vudman har inletts en utredning om man än hemkommunen, eller det
-elevens frånvaro enligt 19 a §, ska hos en sådan huvudman har in-
-huvudmannen snarast lämna upp- letts en utredning om barnets eller
-gift om detta till hemkommunen. elevens frånvaro enligt 19 a §, ska
+När ett skolpliktigt barn eller
+
+eller slutar vid en skolenhet med
+en annan huvudman än hemkom-
+munen eller det hos en sådan hu-
+vudman har inletts en utredning om
+elevens frånvaro enligt 19 a §, ska
+huvudmannen snarast lämna upp-
+gift om detta till hemkommunen.
+
+en skolpliktig elev börjar eller
+slutar vid en förskoleenhet eller en
+skolenhet med en annan huvud-
+man än hemkommunen, eller det
+hos en sådan huvudman har in-
+letts en utredning om barnets eller
+elevens frånvaro enligt 19 a §, ska
 
 13 Senaste lydelse 2018:608.
 14 Senaste lydelse 2018:608.
@@ -1744,23 +1830,34 @@ ror på att elevens vårdnadshavare sin skolgång och detta beror på
 inte har gjort vad denne är skyl- att barnets eller elevens vårdnads-
 dig att göra för att så ska ske, får havare inte har gjort vad denne är
 hemkommunen förelägga elevens skyldig att göra för att så ska ske,
-vårdnadshavare att fullgöra sina får hemkommunen förelägga bar-
-skyldigheter. För en elev i special- nets eller elevens vårdnadshavare
-skolan, sameskolan eller förskole- att fullgöra sina skyldigheter. För
-klass vid en skolenhet med spe- en elev i specialskolan, samesko-
-cialskola eller sameskola är det i lan eller förskoleklass vid en skol-
-stället huvudmannen för respek- enhet med specialskola eller same-
-tive skolform som får förelägga skola är det i stället huvudmannen
-elevens vårdnadshavare att full- för respektive skolform som får
-göra sina skyldigheter. förelägga elevens vårdnadshavare
+
+vårdnadshavare att fullgöra sina
+skyldigheter. För en elev i special-
+skolan, sameskolan eller förskole-
+klass vid en skolenhet med spe-
+cialskola eller sameskola är det i
+stället huvudmannen för respek-
+tive skolform som får förelägga
+elevens vårdnadshavare att full-
+göra sina skyldigheter.
+
+får hemkommunen förelägga bar-
+nets eller elevens vårdnadshavare
+att fullgöra sina skyldigheter. För
+en elev i specialskolan, samesko-
+lan eller förskoleklass vid en skol-
+enhet med specialskola eller same-
+skola är det i stället huvudmannen
+för respektive skolform som får
+förelägga elevens vårdnadshavare
 att fullgöra sina skyldigheter. Det-
+
 samma ska gälla för ett barn i en
 förskola som huvudmannen för
 sameskolan är huvudman för med
 stöd av ett avtal med en kommun
 om samverkan enligt 23 kap. 24 §.
 Ett föreläggande enligt första stycket får förenas med vite.
-
 Ett beslut om föreläggande gäller omedelbart om inte annat beslutas.
 
 8 kap.
@@ -2153,7 +2250,6 @@ Författningsförslag                        SOU 2020:67
 
 kommunen under samma förutsätt-
 ningar som enligt 16 a § tredje
-
 stycket gäller för barn som valt en
 annan förskoleenhet än den där
 kommunen annars skulle ha place-
@@ -2162,16 +2258,26 @@ rat dem.
 25 kap.
 2 §
 Kommunen ska sträva efter att Kommunen ska sträva efter att
-i stället för förskola eller fritids- i stället för förskola eller fritids-
-hem erbjuda ett barn pedagogisk hem erbjuda ett barn pedagogisk
-omsorg om barnets vårdnads- omsorg om barnets vårdnads-
-havare önskar det. Kommunen ska havare önskar det. Kommunen ska
-ta skälig hänsyn till vårdnadshavar- ta skälig hänsyn till vårdnadshavar-
-nas önskemål om verksamhets- nas önskemål om verksamhets-
-form.                 form. Pedagogisk omsorg får dock
+
+i stället för förskola eller fritids-
+hem erbjuda ett barn pedagogisk
+omsorg om barnets vårdnads-
+havare önskar det. Kommunen ska
+ta skälig hänsyn till vårdnadshavar-
+nas önskemål om verksamhets-
+form.
+
+i stället för förskola eller fritids-
+hem erbjuda ett barn pedagogisk
+omsorg om barnets vårdnads-
+havare önskar det. Kommunen ska
+ta skälig hänsyn till vårdnadshavar-
+nas önskemål om verksamhets-
+form. Pedagogisk omsorg får dock
 inte erbjudas i stället för den obli-
 gatoriska förskolan enligt 8 kap.
 7 b §.
+
 Sådan omsorg som avses i första stycket ska genom pedagogisk
 verksamhet stimulera barns utveckling och lärande.
 Barn som av fysiska, psykiska eller andra skäl behöver särskilt
@@ -2201,7 +2307,6 @@ SOU 2020:67                              Författningsförslag
 
 5\. skolskjuts enligt 9 kap. 15 b § 5. skolskjuts enligt 8 kap. 16 a §
 första stycket, 9 kap. 15 c § första första stycket, 8 kap. 16 b § första
-
 stycket, 10 kap. 32 § första stycket, stycket, 9 kap. 15 b § första stycket,
 10 kap. 33 § första stycket, 11 kap. 9 kap. 15 c § första stycket, 10 kap.
 31 § första stycket, 11 kap. 32 § 32 § första stycket, 10 kap. 33 §
@@ -2212,6 +2317,7 @@ stycket,              18 kap. 30 § första stycket eller
 6\. ekonomiskt stöd till inackordering enligt 15 kap. 32 § eller
 18 kap. 32 § första stycket,
 7\. medgivande att fullgöra skolplikten på annat sätt eller åter-
+
 kallelse av sådant medgivande enligt 24 kap. 23 eller 24 §,
 8\. rätt till bidrag enligt 25 kap. 10 eller 15 § eller återkallelse av
 sådan rätt enligt 26 kap. 13 §,
@@ -2220,15 +2326,24 @@ sådan rätt enligt 26 kap. 13 §,
 11\. vitesföreläggande enligt 26 kap. 27 §.
 
 8 §18
-Beslut av Sameskolstyrelsen får överklagas hos allmän förvalt-
-ningsdomstol i fråga om
-1\. föreläggande för vårdnads- 1. föreläggande för vårdnads-
-havare att fullgöra sina skyldig- havare att fullgöra sina skyldig-
-heter enligt 7 kap. 23 §, eller heter enligt 7 kap. 23 §,
-2\. kostnadsfria resor enligt 2. kostnadsfria resor enligt
 
-9 kap. 15 d § första stycket eller 9 kap. 15 d § första stycket eller
-13 kap. 23 § första stycket. 13 kap. 23 § första stycket, eller
+Beslut av Sameskolstyrelsen får överklagas hos allmän förvalt-
+
+ningsdomstol i fråga om
+1\. föreläggande för vårdnads-
+havare att fullgöra sina skyldig-
+heter enligt 7 kap. 23 §, eller
+2\. kostnadsfria resor enligt
+9 kap. 15 d § första stycket eller
+13 kap. 23 § första stycket.
+
+1\. föreläggande för vårdnads-
+havare att fullgöra sina skyldig-
+heter enligt 7 kap. 23 §,
+2\. kostnadsfria resor enligt
+9 kap. 15 d § första stycket eller
+13 kap. 23 § första stycket, eller
+
 3\. skolskjuts till den obligato-
 riska förskolan enligt 8 kap. 16 c §.
 

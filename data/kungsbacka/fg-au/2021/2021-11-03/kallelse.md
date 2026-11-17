@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190916id_/https://kungsbacka.se/d
 sha256: 14b844c135cfa57f3fce68efa91e8675a5b029168683285eb689ce6f2120e2da
 bytes: 1095993
 sidor: 23
-hamtad: 2026-10-28T09:31:52+00:00
-konverterad: 2026-10-28T09:32:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:45:59+00:00
+konverterad: 2026-11-17T12:47:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok]
@@ -93,19 +93,19 @@ KUNGSBACKA  KOMMUN
 
 3(4)
 
-Ärende                Beteckning Förslag
+Ärende
 
-10\. Antagande av          2021-01033 Nämnden för Förskola & Grundskola antar
-dokumenthanteringsplan för      Dokumenthanteringsplan för kommungemensamma
-kommungemensamma                stödprocesser, beslutad av Kommunstyrelsen 2021-
-stödprocesser                   08-24 § 202.
-Dokumenthanteringsplan för kommungemensamma
-Kl 10.30                        stödprocesser, beslutad av Kommunstyrelsen 2018-
-01-23 § 13, upphör därmed att gälla.
+10\. Antagande av
+dokumenthanteringsplan för
+kommungemensamma
+stödprocesser
+
+Kl 10.30
+
 Frida Byrsten, verksamhetschef
 
-11\. Pågående Skolinspektions- och 2021-00002 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
+11\. Pågående Skolinspektions- och
+Barn och elevombudsärenden,
 inklusive ärenden som utreds
 inom Förskola & Grundskolas
 klagomålshantering 2021
@@ -114,25 +114,45 @@ Kl 10.35
 
 Frida Byrsten, verksamhetschef
 
-12\. Slutrapport From Great to 2021-01225 Nämnden för Förskola och Grundskola har tagit del
-Excellent. Endast till nämnd?   av informationen och antecknar informationen i
-protokollet.
+12\. Slutrapport From Great to
+Excellent. Endast till nämnd?
+
 Karolina Reinhold,
 utvecklingsledare
 
-13\. Information - Förskola & 2021-00022 Nämnden för Förskola och Grundskola har tagit del
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+13\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
+
+Beteckning Förslag
+
+2021-01033 Nämnden för Förskola & Grundskola antar
+Dokumenthanteringsplan för kommungemensamma
+stödprocesser, beslutad av Kommunstyrelsen 2021-
+08-24 § 202.
+Dokumenthanteringsplan för kommungemensamma
+stödprocesser, beslutad av Kommunstyrelsen 2018-
+01-23 § 13, upphör därmed att gälla.
+
+2021-00002 Arbetsutskottet har tagit del av informationen och
+antecknar informationen i protokollet.
+
+2021-01225 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+2021-00022 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
 
 Kl 10.45
 
 14\. Extraärende. Åsa Gårdskolan. 2021-01342 Att nämnden får underlag om hur förvaltningen
-Johan Tolinsson (S).            arbetar i syfte skapa de bästa förutsättningar för
+Johan Tolinsson (S).             arbetar i syfte skapa de bästa förutsättningar för
 elever att nå sina mål och en bra arbetsmiljö för
 anställd personal.
 Att kommunikationen förbättras till föräldrar efter
 önskemål enligt senaste mötet mellan politiker och
-
 föräldrar Åsa Gårdskola.
 Löpande information åtminstone till arbetsutskottet.
 
@@ -516,7 +536,6 @@ Matsal/fikarum 8—
 HI Olycksfall Tillbud Riskobservation
 Aktivitet
 Diagrammet visar de vanligast förekommande (upp till 10). Antal händelser där det inte är angivet: 172
-Undervisning 152 |
 Lek och spel 47 -
 Aktivitet på rast 45 a
 Övrig 25
@@ -530,7 +549,7 @@ Administrativt arbete 6—-=
 
 HI Olycksfall Tillbud Riskobservation
 
-IA QI ÄLL ( ”) NÄ GA åt Är AE BT” 2(8)
+IA QI ÄLL ( ”) NÄ G) år Är AE BT” 2(8)
 
 <!-- sida 15 -->
 
@@ -693,10 +712,7 @@ Utbildningslokal
 
 Allmän plats
 Kök/storkök
-
 Entré
-
-SA NNÖWBN
 
 Aktivitet
 
@@ -752,6 +768,8 @@ Frånvaro
 
 IA QMIÄL ( ÄG) ås |» År AED eV” 6(8)
 
+SA NNÖWBN
+
 <!-- sida 19 -->
 
 Faktisk sjukfrånvaro
@@ -784,7 +802,7 @@ Försäkringskassan (FK) 1-0
 Afa Försäkring (TFA) 1-3
 0 1 2 3 4
 
-IA QI ÄLL ( ”) NÄ GA åt Är AE BT” 7(8)
+IA QI ÄLL ( ”) NÄ G) år Är AE BT” 7(8)
 
 <!-- sida 20 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172404id_/https://kungsbacka.se/d
 sha256: 64265cdb5d56bd7863bbfb3ddbbd2283d59cf911bc5ea6185be74620b6a2bb20
 bytes: 1809835
 sidor: 15
-hamtad: 2026-10-29T11:09:13+00:00
-konverterad: 2026-10-29T11:09:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:32:57+00:00
+konverterad: 2026-11-17T13:33:20+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -111,13 +111,13 @@ Nämnden för Kultur & Fritid Datum
 2021-05-20
 Innehåll
 §22 Dnr 2021-00100
-APprilupplöljning 2021-::2ssssssssssemsssnssessonsssssovsssvsssasssusssanssnsssvessusssnsssnsssuensnnes +
+Aprilupplöljning 2021-::2ssssssssssemsssnssossonssssssssssvsssasssusssanssnsssvessusssusssnsssuessnnes +
 §23 Dnr 2021-00102
 Beslut om riktlinjer för priser och stipendier ...sssssssssssseserssrrsrreeernrennernrennrnnnn 5
 § 24 Daor 2021-00095
 Extra stöd till föreningar med anledning av coronapandemin .... 6
 §25 Dar 2021-00101
-Anmälan av delegationsbeslut maj 2021 =msssssssrsessersrserssersrsrsrnsseserrrnesnrrernernrrena 9
+Anmälan av delegationsbeslut maj 2021 smssssssrsessessseserersrsrsrnsseserrsnernrrerernrrrns 9
 §26 Dur 2021-00116
 Initiativärende - Digitala konstrundor och historierundor .... 10
 §27 Dnr 2021-00093

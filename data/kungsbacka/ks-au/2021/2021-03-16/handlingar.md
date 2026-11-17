@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320071501id_/https://www.kungsbacka
 sha256: [2010262ba627dc77dcc1035827f87989e5ab8236805bd5a4de2690c4b45fdc7e, dc175c1985ee017e84faaf0d0b71c43c4f424cccbfcb8eb8b67bb9e261727c1c, 8ac15940e620a9e52dd3d387a8087058eb202373a0d836318979d97bc6394c13, 8eecc4fa5365ebad92074a20f104cc11d14e94f8544fe0c688127639ed1ff622, cbe8a7d8eece9dada9689ebb3e765754bb67ba44229d7047ff5303af514e55d2, c7d3f4d4ded7f6bfd36c576214a250c00cbc2c42f16b54e7afdccc71efba0c9a]
 bytes: [153625, 1365183, 376829, 377591, 1273306, 3932135]
 sidor: 592
-hamtad: 2026-10-31T09:51:57+00:00
-konverterad: 2026-10-31T09:55:34+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T14:01:05+00:00
+konverterad: 2026-11-17T14:03:03+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok]
@@ -996,7 +996,17 @@ Den reservkraft som finns tillgänglig idag på vård- och omsorgsboendena har v
 otillräcklig. Det finns nu två mobila reservkraftverk med en kapacitet på 120 kilovoltampere (kVA)
 styck. Dessa upphandlades 2008 av Vård & Omsorg via Service. Sedan dess har behovet av el ökat
 markant på boendena, vilket syns på diagrammet här nedan, och reservkraften är därför kraftigt
+\-                                   -
+\-                                   -
 
+-MOBILT  RESERVKRAFTVERK            -BEDAGÅRDEN
+-BUKÄRRSGÅRDEN                      -EKHAGA
+-KOLLA                              -LÖFTAGÅRDEN
+-MÅHAGA                             -SIGNESHUS
+TÖLÖ SMEDJA                         VALLA HEDBERG
+
+VICKAN                              ÅSA
+Linjär (MOBILT RESERVKRAFTVERK)
 600
 
 450
@@ -1007,16 +1017,8 @@ markant på boendena, vilket syns på diagrammet här nedan, och reservkraften �
 
 0
 2007                    2012                    2020
-AVk
-\-                                   -
-\-                                   -
--MOBILT  RESERVKRAFTVERK            -BEDAGÅRDEN
--BUKÄRRSGÅRDEN                      -EKHAGA
--KOLLA                              -LÖFTAGÅRDEN
--MÅHAGA                             -SIGNESHUS
-TÖLÖ SMEDJA                         VALLA HEDBERG
-VICKAN                              ÅSA
-Linjär (MOBILT RESERVKRAFTVERK)
+
+kVA
 
 <!-- sida 26 -->
 
@@ -7596,7 +7598,6 @@ Denna förordning träder i kraft den 1 januari 2025.
 SOU 2021:2                               Författningsförslag
 
 1.4   Förslag till förordning om ändring i förordningen
-
 (2012:811) med instruktion för Universitets-
 och högskolerådet
 
@@ -7608,14 +7609,23 @@ Nuvarande lydelse     Föreslagen lydelse
 
 1 §
 Universitets- och högskole- Universitets- och högskole-
-rådet ansvarar för uppgifter i fråga rådet ansvarar för uppgifter i fråga
-om service, samordning, främ- om service, samordning, främ-
-jande och utvecklande verksam- jande och utvecklande verksam-
-het samt internationellt samarbete het samt internationellt samarbete
-och mobilitet inom utbildnings- och mobilitet inom utbildnings-
-området.              området och för service och sam-
+
+rådet ansvarar för uppgifter i fråga
+om service, samordning, främ-
+jande och utvecklande verksam-
+het samt internationellt samarbete
+och mobilitet inom utbildnings-
+området.
+
+rådet ansvarar för uppgifter i fråga
+om service, samordning, främ-
+jande och utvecklande verksam-
+het samt internationellt samarbete
+och mobilitet inom utbildnings-
+området och för service och sam-
 ordning av medborgarskapsprovet
 enligt förordningen (0000:000) om
+
 medborgarskapsprov i svenska och
 samhällskunskap.
 
@@ -7625,10 +7635,9 @@ Denna förordning träder i kraft den 1 januari 2025.
 
 <!-- sida 176 -->
 
-Författningsförslag                        SOU 2021:2
+Författningsförslag                         SOU 2021:2
 
 1.5   Förslag till förordning om ändring i förordningen
-
 (2015:1047) med instruktion för Statens
 skolverk
 
@@ -7647,6 +7656,7 @@ förhållande till övriga berörda parter,
 rör nyanlända personer,
 3\. verka för att generationsmålet och miljökvalitetsmålen nås och
 vid behov föreslå åtgärder för miljöarbetets utveckling,
+
 4\. ha ett samlat ansvar (sektorsansvar) för frågor om de nationella
 minoriteterna och de nationella minoritetsspråken inom ramen för
 sitt verksamhetsområde vilket innefattar att verka samlande,
@@ -7654,19 +7664,28 @@ stödjande och pådrivande i förhållande till berörda parter,
 5\. främja användningen och utvecklingen av validering inom
 kommunal vuxenutbildning,
 6\. inom ramen för sitt verk- 6. inom ramen för sitt verk-
-
 samhetsområde stödja kommu- samhetsområde stödja kommu-
 ner och andra huvudmän i arbetet ner och andra huvudmän i arbetet
 med säkerhet och krisberedskap, med säkerhet och krisberedskap,
 och
-7\. ha ett samlat ansvar (sek- 7. ha ett samlat ansvar (sek-
-torsansvar) inom ramen för sitt torsansvar) inom ramen för sitt
-verksamhetsområde när det gäller verksamhetsområde när det gäller
-de statliga insatserna för att ta till- de statliga insatserna för att ta till-
-vara digitaliseringens möjligheter vara digitaliseringens möjligheter
-för ökad måluppfyllelse och lik- för ökad måluppfyllelse och lik-
-värdighet, vilket innefattar att värdighet, vilket innefattar att
-vara samlande, stödjande och på- vara samlande, stödjande och på-
+
+7\. ha ett samlat ansvar (sek-
+torsansvar) inom ramen för sitt
+verksamhetsområde när det gäller
+de statliga insatserna för att ta till-
+vara digitaliseringens möjligheter
+för ökad måluppfyllelse och lik-
+värdighet, vilket innefattar att
+vara samlande, stödjande och på-
+
+7\. ha ett samlat ansvar (sek-
+torsansvar) inom ramen för sitt
+verksamhetsområde när det gäller
+de statliga insatserna för att ta till-
+vara digitaliseringens möjligheter
+för ökad måluppfyllelse och lik-
+värdighet, vilket innefattar att
+vara samlande, stödjande och på-
 
 1 Senaste lydelse 2019:1289.
 

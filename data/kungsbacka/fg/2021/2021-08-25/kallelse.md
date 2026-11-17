@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404184457id_/https://kungsbacka.se/d
 sha256: 8e1db5f879c1625e99e7cb0dd024293fd7314477a86fafede166326aeb0f5c53
 bytes: 7684114
 sidor: 121
-hamtad: 2026-10-28T10:47:31+00:00
-konverterad: 2026-10-28T10:47:58+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:08:53+00:00
+konverterad: 2026-11-17T13:09:32+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2760,40 +2760,61 @@ materialet   – Skolverket  from  mars  2021
 
 <!-- sida 81 -->
 
-Kunskapskrav     svenska  år 9 , nuvarande    kursplan            Kunskapskrav    svenska   år 9 , ny
+Kunskapskrav     svenska   år 9 , nuvarande   kursplan
 
-Eleven kan läsa skönlitteratur och sakprosatexter med flyt genom att, på etti Eleven samtalar om och diskuterar varierande ämnen på ett sätt som till viss del utvecklar
-huvudsak fungerande sätt, välja och använda lässtrategier utifrån olika texters särdrag. samtalen och diskussionerna. Eleven framför åsikter med till viss del underbyggda argument.
-Genom att göra enklasammanfattningar av olika texters innehåll med visskoppling till Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak
-tidsaspekter, orsakssamband och andra texter visar eleven grundläggande läsförståelse. fungerande struktur och innehåll och viss anpassning till syfte, mottagare och sammanhang.
-Dessutom kan eleven utifrån egna erfarenheter, olika livsfrågor och omvärldsfrågor tolka och Eleven skriver olika slags texter med viss språklig variation, i huvudsak fungerande struktur och
-föraenklaoch till viss delunderbyggda resonemang om tydligt framträdande budskapi olika innehåll samt viss anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer
-verk. Eleven kan också föra enklaresonemang om verket med kopplingar till dess språkliga normer på ett i huvudsak fungerande sätt. Eleven läser skönlitteratur och
-upphovsman. Eleven drar då till viss delunderbyggda slutsatser om hur verket har påverkats sakprosatexter med flyt och visar grundläggande läsförståelse. Dessutom sammanfattar eleven
+Eleven kan läsa skönlitteratur och sakprosatexter med flyt genom att, på etti
+huvudsak fungerande sätt, välja och använda lässtrategier utifrån olika texters särdrag.
+Genom att göra enklasammanfattningar av olika texters innehåll med visskoppling till
+tidsaspekter, orsakssamband och andra texter visar eleven grundläggande läsförståelse.
 
-av det historiska och kulturella sammanhang som det har tillkommit i. olika texter med viss säkerhet. Eleven för enkla resonemang om innehållet i olika texter. Eleven
-Eleven kan skriva olika slags texter med vissspråklig variation,enkeltextbindning samti visar också grundläggande kunskaper om skönlitteratur och de sammanhang som olika verk
-huvudsak fungerande anpassning till texttyp, språkliga normer och strukturer. De berättande har tillkommit i. Eleven söker och väljer med viss säkerhet information från olika källor och
-texter eleven skriver innehåller enklagestaltande beskrivningar och berättargrepp samt presenterar informationen på ett i huvudsak fungerande sätt, med egna formuleringar,
-dramaturgi med enkeluppbyggnad. Eleven kan söka, välja ut och sammanställa information ämnesrelaterat språk samt citat och källhänvisningar. Eleven för till viss del underbyggda
-från ettavgränsaturval av källor och för då enkla och till viss del underbyggda resonemang resonemang om informationens och källornas trovärdighet och relevans. Eleven för utifrån
-om informationens och källornas trovärdighet och relevans. Sammanställningarna givna exempel enkla resonemang om några aspekter av språk och språkbruk i Sverige och
-innehåller enklabeskrivningar och förklaringar,enkeltämnesrelaterat språk samt i Norden.
+Dessutom kan eleven utifrån egna erfarenheter, olika livsfrågor och omvärldsfrågor tolka och
+föraenklaoch till viss delunderbyggda resonemang om tydligt framträdande budskapi olika
+verk. Eleven kan också föra enklaresonemang om verket med kopplingar till dess
+upphovsman. Eleven drar då till viss delunderbyggda slutsatser om hur verket har påverkats
+av det historiska och kulturella sammanhang som det har tillkommit i.
+Eleven kan skriva olika slags texter med vissspråklig variation,enkeltextbindning samti
+huvudsak fungerande anpassning till texttyp, språkliga normer och strukturer. De berättande
+texter eleven skriver innehåller enklagestaltande beskrivningar och berättargrepp samt
+dramaturgi med enkeluppbyggnad. Eleven kan söka, välja ut och sammanställa information
+
+från ettavgränsaturval av källor och för då enkla och till viss del underbyggda resonemang
+om informationens och källornas trovärdighet och relevans. Sammanställningarna
+innehåller enklabeskrivningar och förklaringar,enkeltämnesrelaterat språk samt i
 huvudsak fungerande struktur, citat och källhänvisningar. Genom att kombinera olika
-
 texttyper, estetiska uttryck och medier så att de olika delarna samspelar på ett i
 huvudsak fungerande sätt kan eleven förstärka och levandegöra sina texters budskap.
 Dessutom kan eleven geenklaomdömen om texters innehåll och uppbyggnad och utifrån
 respons bearbeta texter mot ökad tydlighet, kvalitet och uttrycksfullhet på ett i
 huvudsak fungerande sätt.
+
 Eleven kan samtala om och diskutera varierande ämnen genom att ställa frågor och framföra
 åsikter med enkla och till viss delunderbyggda argument på ett sätt som till viss del för
 samtalen och diskussionerna framåt. Dessutom kan eleven förbereda och
 genomföra enklamuntliga redogörelser med i huvudsak fungerande struktur och innehåll
-
 och vissanpassning till syfte, mottagare och sammanhang. Eleven kan föra enkla och till viss
 delunderbyggda resonemang om svenska språkets historia, ursprung och särdrag samt
 jämföra med närliggande språk och beskriva tydligt framträdande likheter och skillnader.
+
+Kunskapskrav    svenska   år 9 , ny
+
+Eleven samtalar om och diskuterar varierande ämnen på ett sätt som till viss del utvecklar
+samtalen och diskussionerna. Eleven framför åsikter med till viss del underbyggda argument.
+Dessutom förbereder och genomför eleven muntliga framställningar med i huvudsak
+fungerande struktur och innehåll och viss anpassning till syfte, mottagare och sammanhang.
+
+Eleven skriver olika slags texter med viss språklig variation, i huvudsak fungerande struktur och
+innehåll samt viss anpassning till texttyp, syfte, mottagare och sammanhang. Eleven följer
+språkliga normer på ett i huvudsak fungerande sätt. Eleven läser skönlitteratur och
+sakprosatexter med flyt och visar grundläggande läsförståelse. Dessutom sammanfattar eleven
+olika texter med viss säkerhet. Eleven för enkla resonemang om innehållet i olika texter. Eleven
+visar också grundläggande kunskaper om skönlitteratur och de sammanhang som olika verk
+har tillkommit i. Eleven söker och väljer med viss säkerhet information från olika källor och
+presenterar informationen på ett i huvudsak fungerande sätt, med egna formuleringar,
+ämnesrelaterat språk samt citat och källhänvisningar. Eleven för till viss del underbyggda
+
+resonemang om informationens och källornas trovärdighet och relevans. Eleven för utifrån
+givna exempel enkla resonemang om några aspekter av språk och språkbruk i Sverige och
+Norden.
 
 <!-- sida 82 -->
 
@@ -3183,7 +3204,6 @@ Förvaltningschef                   Verksamhetschef Myndighet och stöd
 <!-- sida 98 -->
 
 CN D)
-and ban a
 ( . Se tfedemokKraterna
 
 Motion om handlingsplan för suicidprevention Kungsbacka 210307
@@ -3248,7 +3268,6 @@ Med anledning av ovanstående föreslår Sverigedemokraterna i Kungsbacka fullm�
 
 Sverigedemokraterna Kungsbacka genom
 
-; PAR /
 4 Z MD EZ LIBS TA
 Carita Boulwén (SD)
 

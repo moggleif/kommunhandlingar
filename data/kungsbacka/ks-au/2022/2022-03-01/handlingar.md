@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319201040id_/https://www.kungsbacka.
 sha256: 493d85008266f1c99e71a1145a2c1b44bd93c3b510b385b981658c55aae031e9
 bytes: 80464333
 sidor: 134
-hamtad: 2026-10-26T11:22:06+00:00
-konverterad: 2026-10-26T11:24:12+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:05:53+00:00
+konverterad: 2026-11-17T12:07:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
@@ -1062,7 +1062,7 @@ EÉ
 a Öka nyttjandet av klubbstugan (”fritidsgård”) som en plats där ungdomarna kan
 befinna sig mellan skolan och träningen.
 =  Arbets-, mötes-, och domarrum.
-2 Föreningen växer, antal medlemmar ökar.
+2 > Föreningen växer, antal medlemmar ökar.
 2 > Uthyrning till PRO, studiecirklar och andra idrottsföreningar m. m.
 2 > Orten Fjärås växer.
 
@@ -1365,7 +1365,7 @@ För kommunens helägda bolag eller helägda stiftelser, utgår en marknads-
 mässig årlig borgensavgift på utnyttjad borgen, baserad på bolagets/stiftelsens
 bedömda villkor att erhålla krediter i marknaden utan kommunal borgen.
 
-erg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik Vallda Anneberg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik!
+erg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavikValldaAnneberg KungsbackaSäröFjäråsAsaFrillesåsOnsalaKullavik!
 
 Kungsbacka kommun » 434 81 Kungsbacka « 0300-83 40 00
 infoQkungsbacka.se « www.kungsbacka.se
@@ -3035,7 +3035,6 @@ Justerare                         Expedierat/bestyrkt
 
 'D :
 ; DB Cerigedemokraterna
-uu |
 
 Motion om klassisk arkitektur i centrala Kungsbacka
 
@@ -3825,27 +3824,50 @@ BRIXLY [KANOZI] skiss 2021-11-26 UPE
 
 <!-- sida 104 -->
 
+1,5 ROK
+2 RoK
+3 ROK
+4 ROK
+
+TOT
+
+13
+12
+
+32
+
+alt:
+
+1,5 ROK
+2RoK
+3 RoK
+4 RoK
+
+TOT
+
+13
+11
+
+31
+
 BRIXLY
 
 Sammanställning
 
-alt:
-
 1RoK 2 1RoK 1
-1,5 RoK 2 1,5 RoK 2
-2 RoK 13 2 RoK 13
-3 RoK 12 3 RoK n
-4 RoK 3 4 RoK 4
-TOT 32 TOT 31
 
 Frillesås nya centrumkvarter tillför fler bostäder och ett
+
 mer varierat bostadsutbud nära service. Byggnadens
+
 skala och enkla husformer med sadeltak är hämtad från
+
 omkringkringliggande villor och trädgårdar.
 
 eo - BTA: 2931 kvm
 
 e — antallgh: 31-32 (beroende på en eller två Igh i tor-
+
 nets översta våningen).
 
 e Lokal mot gatuhörnet stärker Frillesås centrum.
@@ -3859,6 +3881,7 @@ e 3 vån, 3+1 vån och 4+1 vån= vanligt trapphus
 e Förråd inne ilgh
 
 e - Odlingsbalkonger skapar en grön fasad som sköts av
+
 de boende själva.
 
 e Gemensam uteplats på takterrass med växthus.
@@ -3870,6 +3893,7 @@ e Antal p-platser bil: 29
 [KANOZI]
 
 Frillesås centrumkvarter
+
 skiss 2021-11-26 UPE
 
 <!-- sida 105 -->
@@ -4409,8 +4433,6 @@ Ful HusmanHagberg”
 
 FASTIGHETSUTDRAG
 
-FASTIGHET
-
 KUNGSBACKA ALGUSERED 1:134
 
 Aktualitet fastighetsregistret: 2019-05-20
@@ -4909,13 +4931,14 @@ Föreslagen åtgärd bedöms därmed vara i linje med kommunens strategiska
 planering. Ansökan bedöms sålunda uppfylla lämplighets- och hushållningskraven i 2 kap. 2-3 §
 PBL.
 
-2N21 AR I5
-
 Arbetsutskottet bedömer vidare att ändrad användning är ett sätt säkra att byggnaderna underh
 för att bevara områdets höga kulturhistoriska värde. Arbetsutskottet bedömer att bostäder är en
-Justerare Expedierat/bestyrkt
 
 RN 8 241
+
+Justerare Expedierat/bestyrkt
+
+2N21 AR I5
 
 Färhandohaclad
 

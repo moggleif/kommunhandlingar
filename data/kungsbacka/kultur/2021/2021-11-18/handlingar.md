@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319191315id_/https://www.kungsbacka.
 sha256: 58c06a745b358083e3d7b36c42baa2569f6d0ea9d53d43d79d10384ba0b5fb1f
 bytes: 6610819
 sidor: 65
-hamtad: 2026-10-28T09:16:58+00:00
-konverterad: 2026-10-28T09:17:07+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:40:51+00:00
+konverterad: 2026-11-17T12:41:00+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1052,19 +1052,20 @@ Ridklubb                898 594 22 500  876 094   876 094
 
 <!-- sida 30 -->
 
-KUB1000, v20, 2012-05-23
-
 KUNGSBACKA KOMMUN
 KULTUR & FRITID
 
 2021 -10- 27
 
+Kungsbacka
+
 DiariCehlosssssesssrsssersssnssrnrnnsr sög
 
 Överenskommelse om samverkan i drogförebyggande arbete
+12\)
 
-Parter: Kungsbacka kommun och Öckerö kommun.
-Överenskommelse har träffats mellan parterna enligt nedan:
+Parter: Kungsbacka kommun och Öckerö kommun. Datum
+Överenskommelse har träffats mellan parterna enligt nedan: 2021-08-30
 
 Syfte:
 
@@ -1094,31 +1095,21 @@ från Kungsbacka kommun, dock max 50 000kr/år.
 
 4, Beloppetfaktureras månadsvis.
 
-Kungsbacka
+Kultur & Fritid Kungsbacka kommun
+Astrid Bayard Kultur & Fritid
 
-1 (2)
+Direkt 0300-83 5221 434 81 Kungsbacka
 
-Datum
+astrid.bayard(Qkungsbacka.se Besöksadress
 
-2021-08-30
-
-Kultur & Fritid
-
-Astrid Bayard
-
-Direkt 0300-83 5221
-astrid.bayard(Qkungsbacka.se
-
-Kungsbacka kommun
-Kultur & Fritid
-
-434 81 Kungsbacka
-Besöksadress
 Borgmästaregatan 5 B
+
 Telefon 0300-8340 00
 Fax 0300-8347 04
 
 www.kungsbacka.se
+
+KUB1000, v20, 2012-05-23
 
 <!-- sida 31 -->
 
@@ -1144,16 +1135,12 @@ Ort och datum, Ulrika Granfors, Förvaltnin
 Kum spbacka 2(672 LL WU I gäflninan
 U )
 
-Ku n N I ba Ac AR /0v Y FENA (3 2 Br 3
-
 Ort och datum, Astrid Bayard, Utvecklingschef
 
 Ort och datum, Veronica NN
 
 Ä A Omj- På RER
 Ockera COCi!0-L| | -
-
-Z V SA jä».
 Fakturaadress: | J- jet
 Fakturan VS
 
@@ -1330,21 +1317,33 @@ Fritidsbank                       -     eller        ”Prylbibliotek”
 
 Vägval
 
-1\.  Bli  medlem      i Fritidsbanken                    2.   Skapa    en  liknande     verksamhet
+1\.  Bli medlem       i Fritidsbanken
 
-ideell   förening                                        med    ett  annat   namn
+ideell   förening
 
-• Fördelar   med   att ingå i en  färdig,               • Nackdelar    med   att behöva   utforma
-utarbetad   modell,   lätt att bygga                    en  egen  modell,   mer  arbete   att
+•  Fördelar  med   att  ingå i en färdig,
+utarbetad   modell,   lätt att bygga
 
-vidare  på andras   erfarenheter                        skapa   vår variant  i stället för att
+vidare  på andras   erfarenheter
 
-kopiera   rakt av  från andra   kommuner
-• Stöd  från  en central   organisation
-• Större  frihet, vi gör som   vi vill
-• Vissa  begränsningar    i denna
-modell,  vi kan  inte  göra precis   som
+•  Stöd  från  en central  organisation
+
+•  Vissa begränsningar     i denna
+modell,  vi kan  inte göra  precis  som
+
 vi vill
+
+2\.  Skapa    en   liknande    verksamhet
+
+med    ett  annat    namn
+
+•  Nackdelar   med   att  behöva   utforma
+en egen   modell,  mer   arbete  att
+
+skapa  vår  variant  i stället för att
+kopiera  rakt  av från  andra  kommuner
+
+•  Större  frihet, vi gör som   vi vill
 
 <!-- sida 43 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319202633id_/https://www.kungsbacka.
 sha256: ef1af843ff9c63e202d8b976c706465cfdd1bf7b15eb3405c6b10ef7ca3b6e88
 bytes: 10174010
 sidor: 217
-hamtad: 2026-10-27T09:45:21+00:00
-konverterad: 2026-10-27T09:46:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:12:50+00:00
+konverterad: 2026-11-17T12:13:14+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -491,22 +491,30 @@ Nämnden för Valnämnd                            Kungsbacka kommun
 
 4.1 Risker - Till plan
 
-Uppföljningsrapport intern kontroll 2021 5
-tehkilonnaS
 4          8          12         16
 3
+
 4
+
 3          6          9          12
 1 2 4 5
+
 3
+
 2          4          6           8
 6
 2
+
 1          2          3           4
+
 1
+
 1          2          3          4
+
 Konsekvens
+
 5 Hög 1 Medel Totalt: 6
+
 Kritisk        Sannolikhet          Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den
@@ -519,6 +527,10 @@ berörda intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 intressenter och kommunen)
 år
+
+Uppföljningsrapport intern kontroll 2021 5
+
+Sannolikhet
 
 <!-- sida 22 -->
 
@@ -4603,136 +4615,144 @@ Valmyndigheten
 
 <!-- sida 201 -->
 
+Hej alla,
+
+Hoppas att ni alla har haft en skön och
+avkopplande julledighet och kommer
+tillbaka med ny energi för att planera för
+valen den 11 september. Med detta brev
+vill jag berätta om vad vi på
+Valmyndigheten har arbetat med under
+2021 och hur vi ser på arbetet under
+valåret.
+
+Under det gångna året har vi arbetat med
+att förbereda valen 2022. Den helt
+övervägande största arbetsinsatsen, som
+tar mer än 50 procent av vår arbetstid är
+utvecklandet av Valid. Det är ett stort
+utvecklingsarbete delvis beroende på att
+IT-stödet för valadministrationen består
+av så många olika delar. Som ni redan vet
+styr vi arbetet på tid, det måste vara klart
+till valet och till de olika datum inför valet
+då olika saker ska göras (statistik,
+valdistrikt, valsedlar, anmälan av partier
+och kandidater, beställningar av
+valmaterial osv). Vi kan inte skjuta fram
+leveranser i tid och om något riskerar att
+bli försenat tvingas vi skära bort
+funktionalitet. Vi kommer att leverera ett
+
+modernt och flexibelt IT-stöd men det
+kommer att vara funktioner som vi alla
+önskat som inte finns med i denna
+version, helt enkelt för att vi tvingats
+prioritera funktioner som är tvingade för
+valets genomförande. Arbetet med
+utvecklingen av Valid fortsätter efter valen
+2022 och vi kommer att släppa nya
+versioner där funktionaliteten successivt
+byggs ut. Valid är ett modernt, flexibelt
+och säkert IT-stöd som kommer att
+fungera som stöd för valadministrationen
+under många år framöver.
+
+Under året har vi, utöver arbetet med
+Valid, också prioriterat insatser som
+stärker valadministrationens samlade
+förmåga att genomföra val och som leder
+till ett mer standardiserat och likartat
+
+Postadress: Box 12191, 102 25 Stockholm
+Telefon: 010-57 57 000 www.val.se
+
 1(2)
 Datum
 2022-01-13
 
-Hej alla,                       valgenomförande där väljaren ska känna
+valgenomförande där väljaren ska känna
 igen sig oavsett var man röstar. Vår
-Hoppas att ni alla har haft en skön och
 ambition är hela tiden att, utifrån era
-avkopplande julledighet och kommer
 behov, vara navet i valadministrationen
-tillbaka med ny energi för att planera för
 och ha en stark roll som central
-valen den 11 september. Med detta brev
 valmyndighet. En viktig men spännande
-vill jag berätta om vad vi på
+
 utmaning! Några insatser vi prioriterat vid
-Valmyndigheten har arbetat med under
 sidan av arbetet med Valid är
-2021 och hur vi ser på arbetet under
 valcentralen.val.se, vägledande
-valåret.
 ställningstaganden och ny grafisk profil
 för valadministrationen.
-Under det gångna året har vi arbetat med
 Valcentralen.val.se är en webbplats för oss
-att förbereda valen 2022. Den helt
 som arbetar med val, där ni ska finna allt
-övervägande största arbetsinsatsen, som
 det stöd ni behöver. Den skapar
-tar mer än 50 procent av vår arbetstid är
 förutsättningar för oss att kunna arbeta
-utvecklandet av Valid. Det är ett stort
 med information och utbildning på ett
-utvecklingsarbete delvis beroende på att
 flexibelt, effektivt och mer lättillgängligt
-IT-stödet för valadministrationen består
 sätt. Vi hoppas att den i framtiden ska
-av så många olika delar. Som ni redan vet
 vara ert nav i valarbetet och den plats ni
-styr vi arbetet på tid, det måste vara klart
 går till när ni behöver information.
-till valet och till de olika datum inför valet
-då olika saker ska göras (statistik,
+
 De vägledande ställningstaganden som
-valdistrikt, valsedlar, anmälan av partier
 Valmyndigheten beslutat om och som
-och kandidater, beställningar av
 finns på valcentralen.val.se, ska också
-valmaterial osv). Vi kan inte skjuta fram
 skapa möjligheter till likartade juridiska
-leveranser i tid och om något riskerar att
 tolkningar på områden där vi uppfattat att
-bli försenat tvingas vi skära bort
 det finns många frågor och ibland också
-funktionalitet. Vi kommer att leverera ett
 olika tolkningar. Valmyndigheten kommer
-modernt och flexibelt IT-stöd men det
 att besluta om flera ställningstaganden
-kommer att vara funktioner som vi alla
 även under 2022. Eftersom formen är ny
-önskat som inte finns med i denna
 sedan 2020 så blir det inledningsvis många
-version, helt enkelt för att vi tvingats
 beslutade vägledande ställningstaganden. I
-prioritera funktioner som är tvingade för
 framtiden tror vi att det kommer att vara
-valets genomförande. Arbetet med
 mer av enstaka beslut, efter behov.
-utvecklingen av Valid fortsätter efter valen
-2022 och vi kommer att släppa nya Vi har också utvecklat en grafisk profil för
-versioner där funktionaliteten successivt valkommunikation. Den bidrar till att
-byggs ut. Valid är ett modernt, flexibelt skapa igenkänning i valadministrationens
-och säkert IT-stöd som kommer att kommunikation med allmänheten. Ni kan
-fungera som stöd för valadministrationen använda profilen för skyltning,
-under många år framöver.        informationsmaterial och profilprodukter
+
+Vi har också utvecklat en grafisk profil för
+valkommunikation. Den bidrar till att
+skapa igenkänning i valadministrationens
+kommunikation med allmänheten. Ni kan
+använda profilen för skyltning,
+informationsmaterial och profilprodukter
 för allmänna val och nationella
-Under året har vi, utöver arbetet med
 folkomröstningar. Den finns att hitta på
-Valid, också prioriterat insatser som
 valcentralen.
-stärker valadministrationens samlade
-förmåga att genomföra val och som leder Som ni säkert uppmärksammat har
-till ett mer standardiserat och likartat riksdagen nu beslutat proposition
-Postadress: Box 12191, 102 25 Stockholm
-Telefon: 010-57 57 000 www.val.se
+
+Som ni säkert uppmärksammat har
+riksdagen nu beslutat proposition
 
 <!-- sida 202 -->
 
-2(2)
-Datum
-2020-10-13
+2021/22:52, om förstärkt skydd för väljare
+vid röstmottagningen, som ska träda i
+kraft 1 februari 2022. En av
+förändringarna där är att Valmyndighetens
+utbildningsuppdrag stärks och tydliggörs.
+Vi får utökade resurser för att producera
+utbildningsmaterial och det blir
+obligatoriskt för valadministrationen att
+använda det utbildningsmaterial som
+Valmyndigheten producerat.
 
-2021/22:52, om förstärkt skydd för väljare gå bakom avskärmningarna för att fylla på
-vid röstmottagningen, som ska träda i valsedlar. Partierna är däremot fortfarande
-kraft 1 februari 2022. En av    ansvariga för distributionen av valsedlar
-förändringarna där är att Valmyndighetens till val- och röstningslokaler. Många av er
-utbildningsuppdrag stärks och tydliggörs. har arbetat på detta sätt under flera val,
-Vi får utökade resurser för att producera medan det är nytt för andra.
-utbildningsmaterial och det blir Valmyndigheten kommer att
-obligatoriskt för valadministrationen att kommunicera kring dessa förändringar i
-använda det utbildningsmaterial som den stora rikstäckande
-Valmyndigheten producerat.      kommunikationskampanjen till väljare.
-
-Uppdraget kommer sent inför valen 2022 Slutligen är utbildningsmaterial på
-och det medför begränsade möjligheter säkerhetsområdet helt nytt sedan 2018.
-för oss på Valmyndigheten att hinna tolka Det är ett område där vi, genom att vi
-och utveckla utbildningsproduktionen sökt bidrag från MSB, kunnat höja vår
-inför detta val. Vi har börjat och är på god samlade förmåga kraftigt. Även det hittar
-väg men kommer inte att hinna klart med ni på valcentralen.
+Uppdraget kommer sent inför valen 2022
+och det medför begränsade möjligheter
+för oss på Valmyndigheten att hinna tolka
+och utveckla utbildningsproduktionen
+inför detta val. Vi har börjat och är på god
+väg men kommer inte att hinna klart med
 allt till detta val. Vi ser framför oss ett fast
-Det var några av de viktigaste
 utbildningsmaterial, som det ska vara
-förändringarna inför valen i september.
 möjligt för alla kommuner och
-Till dess når ni oss i våra ordinarie kanaler
 utlandsmyndigheter att använda. Det
-och förstås på valcentralen.val.se.
+
 kommer att finnas möjligheter att ersätta
 eller lägga till lokal information. Vi
-Med önskan om ett gott samarbete under
 försöker också styra tydligt var vår
-valåret.
 grafiska profil och logotyp används och
 var den kan användas tillsammans med
 kommunens logotyp osv. Vi ser också att
-det obligatoriska materialet befinner sig på Med vänliga hälsningar,
+det obligatoriska materialet befinner sig på
 en övergripande nivå och att målet är att
-Anna Nyqvist
 det ska finnas olika typer av
-Kanslichef
 fördjupningsmaterial som går att använda
 av kommuner, utifrån behov. Några
 exempel på fördjupningsmaterial är hot
@@ -4742,6 +4762,7 @@ kommer att fortsätta efter valen 2022.
 Genom samarbetet med er har vi en tydlig
 vision om hur vi ska arbeta och vi
 återkommer till det under året.
+
 Den kanske största förändringen för er
 kommuner till valen 2022 är ansvaret för
 att lägga ut även namnvalsedlarna i
@@ -4749,6 +4770,41 @@ valsedelställen. Det är en stor förändring
 som Valmyndigheten tror kommer leda
 till bättre ordning i valsedelställen och det
 är också positivt att partier inte behöver
+
+2(2)
+Datum
+2020-10-13
+
+gå bakom avskärmningarna för att fylla på
+valsedlar. Partierna är däremot fortfarande
+ansvariga för distributionen av valsedlar
+till val- och röstningslokaler. Många av er
+har arbetat på detta sätt under flera val,
+medan det är nytt för andra.
+
+Valmyndigheten kommer att
+kommunicera kring dessa förändringar i
+den stora rikstäckande
+kommunikationskampanjen till väljare.
+Slutligen är utbildningsmaterial på
+säkerhetsområdet helt nytt sedan 2018.
+
+Det är ett område där vi, genom att vi
+sökt bidrag från MSB, kunnat höja vår
+samlade förmåga kraftigt. Även det hittar
+ni på valcentralen.
+Det var några av de viktigaste
+förändringarna inför valen i september.
+
+Till dess når ni oss i våra ordinarie kanaler
+och förstås på valcentralen.val.se.
+Med önskan om ett gott samarbete under
+valåret.
+
+Med vänliga hälsningar,
+
+Anna Nyqvist
+Kanslichef
 
 <!-- sida 203 -->
 

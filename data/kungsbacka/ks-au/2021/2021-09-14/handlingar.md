@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320122527id_/https://www.kungsbacka.
 sha256: 60446dbc3b43e36b179eb220ffa47a5d2c56f01469a7390b6b6c49260945583d
 bytes: 19484341
 sidor: 101
-hamtad: 2026-10-28T10:23:24+00:00
-konverterad: 2026-10-28T10:24:02+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:59:49+00:00
+konverterad: 2026-11-17T13:02:09+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [9, 41, 42, 71, 72, 73, 74, 75, 76, 77, 78]
 figurer: [15, 24, 25, 30, 32, 33, 34, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 83]
 tolkade: []
@@ -1559,7 +1559,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 41 -->
 
-[] Klngsbackabolna RA
 2021-03- 31
 Motion till Kf-möte 2021-03-29 DN sssssssssssssessnrsrnrnnsrnnnen nanna
 
@@ -2015,28 +2014,35 @@ perspektivet inte beaktas om inte gängse beredning sker.
 
 <!-- sida 54 -->
 
-2\. Inledning                                         o  På vilket sätt har barnrättsperspektivet beaktats i
-denna samverkan?
+2\. Inledning
+
 2.1. Bakgrund
- Hur har nämnden för gymnasium & arbetsmarknad arbetat
 Kommunrevisionen har beslutat att genomföra en förstudie
-förebyggande med den aktuella gruppen, exempelvis i
+
 om kommunstyrelsen, nämnden för gymnasium & arbets-
-syfte att undvika behov av akutboende?
 marknad och Tempohus arbete avseende boendefrågan för
-o  Hur har barnrättsperspektivet beaktats i detta arbete?
 nyanlända barn och familjer. En mer utförlig bakgrunds-
- Hur styrs boendefrågor för utsatta grupper, däribland
 beskrivning återfinns i bilaga 1.
+
+o På vilket sätt har barnrättsperspektivet beaktats i
+denna samverkan?
+
+ Hur har nämnden för gymnasium & arbetsmarknad arbetat
+förebyggande med den aktuella gruppen, exempelvis i
+syfte att undvika behov av akutboende?
+
+o Hur har barnrättsperspektivet beaktats i detta arbete?
+ Hur styrs boendefrågor för utsatta grupper, däribland
 barn?
+
 2.2. Syfte och frågor
-o  Hur beaktas barnrättsperspektivet i frågor som rör
+o Hur beaktas barnrättsperspektivet i frågor som rör
 boende för utsatta barn?
 Förstudiens syfte har varit att översiktligt kartlägga hur
 berörda parter har hanterat barnets bästa och barn-  Hur hanteras frågan om bostäder för utsatta grupper ur
 ett långsiktigt perspektiv?
 konventionen i relation till frågan om boende.
- Hur  styr och  samordnar  kommunstyrelsen en
+ Hur  styr  och  samordnar kommunstyrelsen en
 Förstudien utgör ett kunskapsunderlag för kommunrevisionen
 sammanhållen etablerings- och integrationsverksamhet
 i det fortsatta granskningsarbetet. I förstudien har följande
@@ -2057,393 +2063,606 @@ Förstudien har genomförts genom dokumentstudier och
 rörande kontraktens längd, uppsägningar och den aktuella
 intervjuer. Källförteckning framgår av bilaga 2.
 målgruppen?
+
 4
 
 <!-- sida 55 -->
 
-3\. Barnkonventionen                                För att kommuners arbete ska utgå från FN:s konvention om
-Barnkonventionen syftar till att ge barn oavsett bakgrund rätt barnets rättigheter krävs ett barnrättsperspektiv. Ett barn-
-att behandlas med respekt och att få komma till tals. Bland rättsperspektiv är ett perspektiv som motsvarar
-annat ska det i alla åtgärder som rör barn i första hand konventionens barnsyn, det vill säga utgår ifrån grund-
+3\. Barnkonventionen
+Barnkonventionen syftar till att ge barn oavsett bakgrund rätt
 
-beaktas vad som bedöms vara barnets bästa. Sverige principerna i FN:s barnkonvention.
+att behandlas med respekt och att få komma till tals. Bland
+annat ska det i alla åtgärder som rör barn i första hand
+beaktas vad som bedöms vara barnets bästa. Sverige
 ratificerade barnkonventionen 1990. FN:s barnkonvention är
-Kommunfullmäktige i Kungsbacka antog 2014 en policy
 svensk lag sedan den 1 januari 2020. Enligt lagen ska barnets
-avseende barnkonventionen. Av den framgår att Kungsbacka
 rättigheter beaktas vid avvägningar och bedömningar som
-görs i ärenden som rör barn. I lag och konvention återfinns kommun vill:
+görs i ärenden som rör barn. I lag och konvention återfinns
 även skrivningar kring barnets rätt till levnadsstandard.
- tillsammans med barn och unga i Kungsbacka kommun
-bygga hållbara strukturer för att barn och unga ska
+
 Barnkonventionen slår fast barnets rätt till den levnads-
-kunna tillgodogöra sig sina rättigheter
 standard som krävs för barnets fysiska, psykiska, andliga,
- att vuxna som arbetar i kommunen ska vara skickliga
 moraliska och sociala utveckling. Konventionsstaterna ska
-och modiga aktörer för barn och unga gällande deras
-vidta lämpliga åtgärder för att bistå barnets vårdnadshavare rättigheter
-för att säkerställa barnets rätt till en skälig levnadsstandard.  att barn och unga i kommunen ska känna till sina
-Vid behov ska staterna även erbjuda materiellt bistånd och rättigheter och ha verktyg att använda dem
-utarbeta stödprogram för att garantera denna rättighet  att barn och unga i kommunen ska ha en trygg,
-gällande bostad.                                       utvecklande och hälsosam livsmiljö samt att de barn
-och unga som lever i en utsatt situation ska känna sig
+vidta lämpliga åtgärder för att bistå barnets vårdnadshavare
+för att säkerställa barnets rätt till en skälig levnadsstandard.
+
+Vid behov ska staterna även erbjuda materiellt bistånd och
+utarbeta stödprogram för att garantera denna rättighet
+gällande bostad.
+
 Enligt FN:s barnrättskommitté ska rätten till bostad tolkas
-inkluderade och ha förutsättningar att påverka sina liv.
 som en rätt att bo någonstans i trygghet, fred och under
 värdiga former. Kommittén betonar att rätten till bostad
-I kommunen finns även framtagna mallar för barnrättsbaserat
 hänger samman  med  alla andra rättigheter i barn-
-beslutsunderlag samt för prövning av barnets bästa.
+
 konventionen. Bostaden behöver skapa förutsättningar för
 barnet att få sin rätt tillgodosedd till lek, vila och fritid.
 Bostaden behöver också skapa förutsättningar till studiero i
 hemmet för att säkra barnets rätt till utbildning.
+
+För att kommuners arbete ska utgå från FN:s konvention om
+barnets rättigheter krävs ett barnrättsperspektiv. Ett barn-
+rättsperspektiv är ett perspektiv som motsvarar
+
+konventionens barnsyn, det vill säga utgår ifrån grund-
+principerna i FN:s barnkonvention.
+
+Kommunfullmäktige i Kungsbacka antog 2014 en policy
+avseende barnkonventionen. Av den framgår att Kungsbacka
+kommun vill:
+
+  tillsammans med barn och unga i Kungsbacka kommun
+bygga hållbara strukturer för att barn och unga ska
+kunna tillgodogöra sig sina rättigheter
+  att vuxna som arbetar i kommunen ska vara skickliga
+och modiga aktörer för barn och unga gällande deras
+rättigheter
+
+  att barn och unga i kommunen ska känna till sina
+rättigheter och ha verktyg att använda dem
+  att barn och unga i kommunen ska ha en trygg,
+utvecklande och hälsosam livsmiljö samt att de barn
+och unga som lever i en utsatt situation ska känna sig
+inkluderade och ha förutsättningar att påverka sina liv.
+
+I kommunen finns även framtagna mallar för barnrättsbaserat
+beslutsunderlag samt för prövning av barnets bästa.
+
 5
 
 <!-- sida 56 -->
 
-4\. Etableringsboende                               kommunen. Av ägardirektivet för Tempohus framgår att
-Alla kommuner ska varje år ta emot ett bestämt antal Tempohus ska samverka med Eksta och kommunen för att
-personer som anvisas av Migrationsverket för bosättning och mottagandet av nyanlända i Kungsbacka ska ske på ett
+4\. Etableringsboende
+Alla kommuner ska varje år ta emot ett bestämt antal
 
-som har fått uppehållstillstånd. Fördelningen påverkas av hur ekonomiskt och socialt hållbart sätt.
+personer som anvisas av Migrationsverket för bosättning och
+som har fått uppehållstillstånd. Fördelningen påverkas av hur
 många nyanlända som kommunen har tagit emot tidigare och
-Beslutet om tvåårskontrakt för etableringsboende beslutades
 hur den lokala arbetsmarknaden ser ut. Kommunerna
-av Tempohus styrelse genom fastställande av riktlinjer för
 ansvarar för att ta emot nyanlända för bosättning enligt
-hyresfrågor. Av riktlinjerna framgår att Tempohus syfte är att
+
 bosättningslagen.
-erbjuda tillfälliga bostäder, främst för nyanlända som
 Rättspraxis1 ger kommuner rätt att säga upp nyanländas
-placerats i Kungsbacka. Den boende ska själv skyndsamt söka
+
 hyreskontrakt efter det att den tvååriga etableringstiden gått
-permanent bostad och ska vid kontraktskrivande uppvisa att
 ut. I bosättningslagen framgår inga direkta krav på vilken typ
-de står i Kungsbackas kö för bostadsförmedling och liknande
 av bostad som ska erbjudas vid etableringstiden eller om
-kösystem i andra städer.
 boendet får begränsas till en viss tid. Av förarbetena till
 bosättningslagen framgår dock att intentionen är att
-5\. Ansvarsfördelning avseende etableringsboende
+
 kommunerna i så stor utsträckning som möjligt bör erbjuda de
-I Kungsbacka kommun är flera parter på olika sätt ansvariga
 nyanlända som anvisas permanenta bostäder, men att det
-för frågor kopplat till boende för nyanlända:
 inte kan uteslutas att kommuner tvingas erbjuda bostäder av
-tillfällig karaktär för att kunna fullgöra sin skyldighet. Kommunstyrelsen ansvarar för att:
- Leda, besluta och samordna en  sammanhållen
+tillfällig karaktär för att kunna fullgöra sin skyldighet.
+
 I Kungsbacka kommun erbjuds nyanlända tidsbegränsade
-etablerings- och integrationsverksamhet för nyanlända
 boenden under två år. Kommunfullmäktige beslutade i maj
-invandrare och ensamkommande barn.
+
 2018 att godkänna att Eksta bildade ett dotterbolag,
-Tempohus ska:
 Tempohus AB, för hantering av temporära bostäder. Enligt
- Uppföra och förvalta temporära bostäder. Bygglovet
 Ekstas bolagsordning ska Eksta förvalta bostadshus med
-för bostäderna sträcker sig till 2026.
 hyresrätter och därmed främja bostadsförsörjningen i
+
 1 Kammarrättens dom 2018-03-26 (Mål nr 4155-18)
+
+kommunen. Av ägardirektivet för Tempohus framgår att
+Tempohus ska samverka med Eksta och kommunen för att
+
+mottagandet av nyanlända i Kungsbacka ska ske på ett
+ekonomiskt och socialt hållbart sätt.
+
+Beslutet om tvåårskontrakt för etableringsboende beslutades
+av Tempohus styrelse genom fastställande av riktlinjer för
+hyresfrågor. Av riktlinjerna framgår att Tempohus syfte är att
+erbjuda tillfälliga bostäder, främst för nyanlända som
+
+placerats i Kungsbacka. Den boende ska själv skyndsamt söka
+permanent bostad och ska vid kontraktskrivande uppvisa att
+de står i Kungsbackas kö för bostadsförmedling och liknande
+kösystem i andra städer.
+
+5\. Ansvarsfördelning avseende etableringsboende
+I Kungsbacka kommun är flera parter på olika sätt ansvariga
+för frågor kopplat till boende för nyanlända:
+
+Kommunstyrelsen ansvarar för att:
+
+  Leda, besluta och samordna en sammanhållen
+etablerings- och integrationsverksamhet för nyanlända
+invandrare och ensamkommande barn.
+Tempohus ska:
+
+  Uppföra och förvalta temporära bostäder. Bygglovet
+för bostäderna sträcker sig till 2026.
+
 6
 
 <!-- sida 57 -->
 
-Nämnden för gymnasium och arbetsmarknad ansvarar för att: intervju att frågan inte bereddes med hjälp av förvaltningen. I
-  Utveckla och driva arbetet med etablering av ensam- intervju uppges att barnperspektivet beaktades i dialogerna
-kommande barn, ensamstående vuxna och familjer. mellan kommunstyrelsens presidium och styrelsen för
+Nämnden för gymnasium och arbetsmarknad ansvarar för att:
+  Utveckla och driva arbetet med etablering av ensam-
 
-  Ansvarar  för  myndighetsutövning avseende    Tempohus. Det finns däremot inget dokumenterat avseende
-försörjningsstöd och övrigt ekonomiskt bistånd samt barnperspektivet och hur detta beaktades vad avser
-bistånd i form av akut boende.                kontraktets längd och att barnfamiljer riskerar att stå utan
-boende efter tvåårskontrakten löper ut.
+kommande barn, ensamstående vuxna och familjer.
+  Ansvarar  för  myndighetsutövning avseende
+försörjningsstöd och övrigt ekonomiskt bistånd samt
+bistånd i form av akut boende.
 
 Därtill har nämnden för individ och familjeomsorg ansvar för
-7\. Hur har Tempohus beaktat barnperspektivet i
 bistånd i form av tillfälligt boende och skyddat boende vid våld
-relation till kontrakt och uppsägningar?
 i nära relationer samt bistånd i form av boende för grupper
-Vid intervju med VD och styrelseordförande för Tempohus
+
 som har svårt för att få och behålla boenden på den ordinarie
-uppges att Tempohus fört diskussioner utifrån barn-
 bostadsmarknaden.
-perspektivet. Av intervjun har det inte framgått på vilket sätt
-6\. Hur har kommunstyrelsen beaktat barnperspektivet Tempohus tagit hänsyn till barnperspektivet vid beslutet om
-i relation till Eksta/Tempushus vad avser kontrakt och kontraktslängden avseende boende för nyanlända.
+
+6\. Hur har kommunstyrelsen beaktat barnperspektivet
+i relation till Eksta/Tempushus vad avser kontrakt och
+
 uppsägning?
-Tempohus har inte genomfört någon dokumenterad barn-
 Inför att Tempohus beslutade om att anta riktlinjerna där
-konsekvensanalys i samband med beslutet om riktlinjerna för
 kontrakten ska gälla i två års tid fördes samtal mellan
-tvåårskontrakten. Det görs heller inte vid uppsägning av
 kommunstyrelsens presidium och ordföranden i styrelsen för
-tvåårskontrakten. Det finns inget dokumenterat om att
+
 Tempohus. Av intervjuer framkommer att samtalen mellan
-Tempohus har beaktat barnperspektivet i frågan.
 kommunstyrelsens presidium och ordförande för styrelsen i
 Tempohus resulterade i att kontrakten skulle sammanfalla
 med etableringsperioden och därför vara gällande två år. De
 samtal som fördes angående frågan dokumenterades inte.
+
 Inför och under dialogen mellan kommunstyrelsens presidium
+
 och Tempohus styrelse avseendetvåårskontrakten framgår av
+
+intervju att frågan inte bereddes med hjälp av förvaltningen. I
+intervju uppges att barnperspektivet beaktades i dialogerna
+
+mellan kommunstyrelsens presidium och styrelsen för
+Tempohus. Det finns däremot inget dokumenterat avseende
+barnperspektivet och hur detta beaktades vad avser
+kontraktets längd och att barnfamiljer riskerar att stå utan
+
+boende efter tvåårskontrakten löper ut.
+
+7\. Hur har Tempohus beaktat barnperspektivet i
+relation till kontrakt och uppsägningar?
+Vid intervju med VD och styrelseordförande för Tempohus
+
+uppges att Tempohus fört diskussioner utifrån barn-
+perspektivet. Av intervjun har det inte framgått på vilket sätt
+Tempohus tagit hänsyn till barnperspektivet vid beslutet om
+
+kontraktslängden avseende boende för nyanlända.
+Tempohus har inte genomfört någon dokumenterad barn-
+
+konsekvensanalys i samband med beslutet om riktlinjerna för
+tvåårskontrakten. Det görs heller inte vid uppsägning av
+tvåårskontrakten. Det finns inget dokumenterat om att
+
+Tempohus har beaktat barnperspektivet i frågan.
+
 7
 
 <!-- sida 58 -->
 
-8\. Vilken samverkan har skett mellan Tempohus,     söka  akutboende2. Samverkan  inför  uppsägning
-nämnden  för gymnasium  och arbetsmarknad  och     dokumenteras eller protokollförs inte. Det finns heller inga
-kommunstyrelsen   rörande   kontraktets  längd,    dokumenterade samverkansformer för syftet eller ansvars-
-uppsägningar och den aktuella målgruppen?          fördelningen vid samverkan.
+8\. Vilken samverkan har skett mellan Tempohus,
+nämnden  för gymnasium  och  arbetsmarknad och
+kommunstyrelsen   rörande   kontraktets  längd,
 
+uppsägningar och den aktuella målgruppen?
 Vid intervju uppges att samverkan avseende kontraktets
-8.1 På vilket sätt har barnrättsperspektivet beaktats i
 längd ägt rum genom samtal mellan kommunstyrelsens
-denna samverkan?
 presidium och styrelsen för Tempohus. Vidare uppges att
-I intervju med kommunstyrelsens presidium och Tempushus
+
 båda parter var överens om att längden på kontrakt för
-styrelseordförande uppges att barnrättsperspektivet fanns
 Tempohus skulle vara två år. Denna samverkan finns inte
-med vid samtalen om kontraktens längd. Däremot finns det
 dokumenterad. Nämnden för gymnasium och arbetsmarknad
-inget dokumenterat avseende barnperspektivet i fråga om
 deltog inte i samtal eller samverkan avseende kontraktets
-kontraktslängd. Det framgår således inte hur barnrätts-
 längd.
-perspektivet beaktades i samverkan.
+
 Enligt intervjuer fastställdes kontraktets längd till två år i syfte
-Det finns inte något strukturerat samverkansarbete för att
 att kontraktets längd skulle sammanfalla med etablerings-
-säkerställa att barnrättsperspektivet beaktas inför att
+
 perioden.
-nyanlända familjers kontrakt löper ut.
 Sex månader innan tvåårsperioden gått ut säger Tempohus
-Vidare framkommer att samverkan inte är barnrättsbaserad,
+
 upp kontrakten. I samband med uppsägningen informerar
-det vill säga att barnkonsekvensanalyser och eller prövning av
 Tempohus nämnden för gymnasium och arbetsmarknad om
-barnets bästa har gjorts inför att familjerna måste lämna sina
 vilka familjer som kommer flytta ut. Genom informationen kan
-temporära boenden och flytta in i ett akutboende. Barnen har
 nämnden för gymnasium och arbetsmarknad löpande följa
-inte hörts inför att de ska lämna sitt tillfälliga boende och
 upp hur många bostadskontrakt som löper ut samt hur många
-flytta till akutboende. Det saknas även dokumentation på om
+
 av familjerna som hittat egen bostad. Nämnden tar även fram
-kommunstyrelsen, Tempohus eller nämnden för gymnasium
 och följer upp prognoser på hur många personer som behöver
-2 Av skriftlig information från förvaltningen för gymnasium och arbetsmarknad boende och 46 står utan. Av dessa 46 är det 215 personer som är berörda varav
-framkommer att 55 kontrakt upphör under 2021, varav 9 hushåll har hittat eget 141 barn. Förvaltningen prognosticerar att totalt 185 personer, varav 123 som
+
+2 Av skriftlig information från förvaltningen för gymnasium och arbetsmarknad
+framkommer att 55 kontrakt upphör under 2021, varav 9 hushåll har hittat eget
+
+söka  akutboende2. Samverkan   inför uppsägning
+dokumenteras eller protokollförs inte. Det finns heller inga
+dokumenterade samverkansformer för syftet eller ansvars-
+
+fördelningen vid samverkan.
+
+8.1 På vilket sätt har barnrättsperspektivet beaktats i
+denna samverkan?
+I intervju med kommunstyrelsens presidium och Tempushus
+styrelseordförande uppges att barnrättsperspektivet fanns
+med vid samtalen om kontraktens längd. Däremot finns det
+
+inget dokumenterat avseende barnperspektivet i fråga om
+kontraktslängd. Det framgår således inte hur barnrätts-
+perspektivet beaktades i samverkan.
+
+Det finns inte något strukturerat samverkansarbete för att
+säkerställa att barnrättsperspektivet beaktas inför att
+nyanlända familjers kontrakt löper ut.
+
+Vidare framkommer att samverkan inte är barnrättsbaserad,
+det vill säga att barnkonsekvensanalyser och eller prövning av
+barnets bästa har gjorts inför att familjerna måste lämna sina
+
+temporära boenden och flytta in i ett akutboende. Barnen har
+inte hörts inför att de ska lämna sitt tillfälliga boende och
+flytta till akutboende. Det saknas även dokumentation på om
+kommunstyrelsen, Tempohus eller nämnden för gymnasium
+
+boende och 46 står utan. Av dessa 46 är det 215 personer som är berörda varav
+141 barn. Förvaltningen prognosticerar att totalt 185 personer, varav 123 som
 bor i Tempohus, kommer behöva akutboende under 2021.
 8
 
 <!-- sida 59 -->
 
-och arbetsmarknad har resonerat kring om barnen ska komma 8.1 Hur har barnrättsperspektivet beaktats i detta arbete?
-till tals i frågan.                                Av intervju framkommer att barnrättsperspektivet beaktas
-först när ett akutboende blir aktuellt för en familj. Detta
-9\. Hur har nämnden för gymnasium och arbetsmarknad eftersom förvaltningen inte kan utgå från att en familj
-arbetat med den aktuella gruppen, exempelvis i syfte kommer bli bostadslös innan familjen de facto är bostadslös.
+och arbetsmarknad har resonerat kring om barnen ska komma
+till tals i frågan.
 
-att undvika behov av akutboende?                   Barnrättsperspektivet beaktas när nämnden enligt
-Under etableringsperioden har nämnden för gymnasium och socialtjänstlagen fattar beslut om akutboende.
+9\. Hur har nämnden för gymnasium och arbetsmarknad
+
+arbetat med den aktuella gruppen, exempelvis i syfte
+att undvika behov av akutboende?
+Under etableringsperioden har nämnden för gymnasium och
 arbetsmarknad flera insatser som förvaltningen arbetar med
-10\. Hur styrs boendefrågor för utsatta grupper,
+
 för att stötta familjerna när de söker efter permanenta
-däribland barn?
 boenden.
-Boendefrågan för utsatta grupper styrs genom kommunens
+
 Vid mottagande/bosättning i Kungsbacka upprättas en boplan
-bostadsförsörjningsprogram antaget av kommunfullmäktige i
 som syftar till att nyanlända ska hitta en permanent bostad.
-april 2020. Nuvarande bostadsförsörjningsprogram gäller för
 Planerna upprättas för respektive individ och i varje ärende
-perioden 2019-2025. I programmet finns ett avsnitt som
 används tolk. Boplanen innehåller aktiviteter som den
-berör frågan om bostäder för utsatta grupper. I avsnittet
 nyanlända ska genomföra. Bland annat kan nyanlända besöka
-framkommer att Kungsbacka kommun behöver verka aktivt
+
 förvaltningen och få hjälp med att söka bostad genom en
-för att personer som inte har tak över huvudet ska komma in
 boendekoordinator. Det aktiva bostadssöket dokumenteras i
-ärendet i förvaltningens verksamhetssystem. Varje månad på den ordinarie bostadsmarknaden. Vidare framgår att
-ska minst 20 bostäder sökas. Det finns även krav på att kommunen behöver ha bra boendestöd och ibland använda
-nyanlända ska stå i bostadskö. Förvaltningen följer månadsvis bostadsgarantier. Det framgår även av bostadsförsörjnings-
-upp att nyanlända sökt bostäder.                   programmet att kommunen erbjuder tvåårskontrakt för
-nyanlända samt att de aktivt ska söka egen bostad under
+ärendet i förvaltningens verksamhetssystem. Varje månad
+ska minst 20 bostäder sökas. Det finns även krav på att
+nyanlända ska stå i bostadskö. Förvaltningen följer månadsvis
+
+upp att nyanlända sökt bostäder.
 Förvaltningen kan även tillhandahålla tolk för att säkerställa
-etableringstiden. Av bostadsförsörjningsprogrammet fram-
+
 att nyanlända förstår vad tvåårskontrakten innebär samt att
-går inte vad kommunen ska göra för att verka aktivt för att
 nyanlända får rätt hjälp för att kunna söka permanent bostad
-på egen hand.                                      personer ska komma in på den ordinarie bostadsmarknaden.
+på egen hand.
+
+8.1 Hur har barnrättsperspektivet beaktats i detta arbete?
+Av intervju framkommer att barnrättsperspektivet beaktas
+först när ett akutboende blir aktuellt för en familj. Detta
+eftersom förvaltningen inte kan utgå från att en familj
+
+kommer bli bostadslös innan familjen de facto är bostadslös.
+Barnrättsperspektivet beaktas när nämnden enligt
+socialtjänstlagen fattar beslut om akutboende.
+
+10\. Hur  styrs boendefrågor för utsatta grupper,
+däribland barn?
+
+Boendefrågan för utsatta grupper styrs genom kommunens
+bostadsförsörjningsprogram antaget av kommunfullmäktige i
+april 2020. Nuvarande bostadsförsörjningsprogram gäller för
+
+perioden 2019-2025. I programmet finns ett avsnitt som
+berör frågan om bostäder för utsatta grupper. I avsnittet
+framkommer att Kungsbacka kommun behöver verka aktivt
+för att personer som inte har tak över huvudet ska komma in
+
+på den ordinarie bostadsmarknaden. Vidare framgår att
+kommunen behöver ha bra boendestöd och ibland använda
+bostadsgarantier. Det framgår även av bostadsförsörjnings-
+
+programmet att kommunen erbjuder tvåårskontrakt för
+nyanlända samt att de aktivt ska söka egen bostad under
+etableringstiden. Av bostadsförsörjningsprogrammet fram-
+går inte vad kommunen ska göra för att verka aktivt för att
+
+personer ska komma in på den ordinarie bostadsmarknaden.
+
 9
 
 <!-- sida 60 -->
 
-Det framgår inte heller vad som avses med bra boendestöd 10.1 Hur beaktas barnrättsperspektivet i frågor som rör
-eller bostadsgarantier.                            boende för utsatta barn?
-Kommunfullmäktige beslutade om bostadsförsörjningsplanen
+Det framgår inte heller vad som avses med bra boendestöd
+eller bostadsgarantier.
+
 Av intervju framgår att kommunen har börjat arbeta för att
-i april 2020. Av beslutsunderlag i ärendet framgår inte att
 säkerställa att en andel av nybyggda lägenheter tillfaller
-barnrättsperspektivet har beaktats vid handläggning av
+
 kommunen som i sin tur kan hyra ut lägenheter till utsatta
-ärendet eller vid beslutet. I kommunledningskontorets
 grupper. Vidare framgår att det finns en ambition att arbeta
-tjänsteskrivelse i ärendet framgår inkomna synpunkter
 för att säkerställa ett utbud av olika typer av boenden i flera
-avseende programmet från bland annat Länsstyrelsen.
+
 delar av Kungsbacka. Detta för att skapa inkluderande
-Länsstyrelsen bedömer sammantaget att programmet inte
 samhällen där barnfamiljer inte ska behöva flytta till en ny
-lever upp till kraven i lagstiftningen utan att det behövs en
 kommundel.
-djupare analys av den demografiska utvecklingen av
-efterfrågan på bostäder, bostadsbehovet för särskilda
+
 På tjänstepersonsnivå finns en samverkansgrupp, Hållbart
-grupper och marknadsförutsättningar. Vidare efterfrågar
 boende, med representanter från förvaltningen för individ och
-länsstyrelsen en långsiktig plan för mottagandet av nyanlända
+
 familjeomsorg, förvaltningen för service och förvaltningen för
-samt en jämställdhetsanalys i förslaget till bostads-
 gymnasium och arbetsmarknad. Syftet med Hållbart Boende
-försörjningsprogram.
 är att strategiskt samarbete kring boendefrågor och bostads-
 planering samt tydliggöra ansvar mellan förvaltningarna och
-Av intervjuer framgår att barnperspektivet beaktas i
+
 undvika dubbelarbete. Vid intervju uppges att samverkans-
-samhällsplaneringen. Vid framtagande av översiktsplan och
 gruppen arbete är strukturerat och bidrar till ett helhets-
-detaljplan finns dels barnrättsspecialist och en planarkitekt
 perspektiv där barnperspektivet beaktas. Vid samverkan förs
-som utbildats inom barnperspektivet, dels finns framtagna
 mötesanteckningar. Vi har inom ramen för förstudien inte
-riktlinjer och rutiner för att säkerställa att barnperspektivet
+
 tagit del av mötesanteckningarna.
+
+10.1 Hur beaktas barnrättsperspektivet i frågor som rör
+boende för utsatta barn?
+Kommunfullmäktige beslutade om bostadsförsörjningsplanen
+i april 2020. Av beslutsunderlag i ärendet framgår inte att
+
+barnrättsperspektivet har beaktats vid handläggning av
+ärendet eller vid beslutet. I kommunledningskontorets
+tjänsteskrivelse i ärendet framgår inkomna synpunkter
+
+avseende programmet från bland annat Länsstyrelsen.
+Länsstyrelsen bedömer sammantaget att programmet inte
+lever upp till kraven i lagstiftningen utan att det behövs en
+djupare analys av den demografiska utvecklingen av
+
+efterfrågan på bostäder, bostadsbehovet för särskilda
+grupper och marknadsförutsättningar. Vidare efterfrågar
+länsstyrelsen en långsiktig plan för mottagandet av nyanlända
+
+samt en  jämställdhetsanalys i förslaget till bostads-
+försörjningsprogram.
+
+Av  intervjuer framgår att barnperspektivet beaktas i
+samhällsplaneringen. Vid framtagande av översiktsplan och
+detaljplan finns dels barnrättsspecialist och en planarkitekt
+som utbildats inom barnperspektivet, dels finns framtagna
+
+riktlinjer och rutiner för att säkerställa att barnperspektivet
 integreras i samhällsplaneringen.
+
 Vid placering av nyanlända och utsatta grupper i akutboende
 tas även hänsyn till att barnfamiljer inte ska placeras i ett
 boende tillsammans med ensamstående män.
+
 10
 
 <!-- sida 61 -->
 
-11\. Hur hanteras frågan om bostäder för utsatta    bostadsmarknaden. Vidare framgår att kommunen behöver
-grupper ur ett långsiktigt perspektiv?             ha bra boendestöd och ibland använda bostadsgarantier. Det
-framgår inte vidare hur frågan om bostäder för utsatta
+11\. Hur hanteras frågan om bostäder för utsatta
+grupper ur ett långsiktigt perspektiv?
+
 Av intervju framgår att kommunen uppges arbeta långsiktigt
-grupper hanteras ur ett långsiktigt perspektiv.
 med frågan om bostäder för utsatta grupper på flera sätt. Dels
 genom kommunens översiktsplan och bostadsförsörjnings-
-12\. Hur styr och samordnar kommunstyrelsen en
+
 program, dels förs dialog med privata fastighetsägare för att
-sammanhållen   etablerings- och    integrations-
 kommunen ska få ta del av en andel av de lägenheter som
-verksamhet kopplat till boendefrågan?
 byggs för att säkra tillgången av lägenheter för utsatta
-grupper.                                           Av kommunstyrelsens reglemente framgår att kommun-
-styrelsen ansvarar för beslut om samordning mellan nämnder
+grupper.
+
 Kommunens översiktsplan är från 2006 och aktualiserades av
-och gränsdragning mellan nämnders kompetens. Kommun-
 kommunfullmäktige 2018. Av intervju framgår att en ny
-styrelsen ansvarar för att en effektiv och ändamålsenlig
 översiktsplan är under framtagande i förvaltningen för beslut
-organisation upprätthålls som ger effekt på helheten.
+
 i kommunfullmäktige vid ny mandatperiod. Vad gäller utsatta
-grupper framgår det av översiktsplanen att förvaltningen för Vidare framgår att kommunstyrelsen leder, beslutar och
-individ och familjeomsorg möter människor som kan ha samordnar en sammanhållen etablerings- och integrations-
-svårighet att få tag på bostad. Vidare framgår att olika verksamhet för nyanlända invandrare och ensamkommande
-bostadsformer är viktigt för att undvika segregerade barn utifrån av kommunfullmäktige fastställda etablerings-
-områden. Fungerande centrum i varje kommundel ska skapa och integrationsmål samt kvalitetsnivå.
+grupper framgår det av översiktsplanen att förvaltningen för
+individ och familjeomsorg möter människor som kan ha
+svårighet att få tag på bostad. Vidare framgår att olika
+bostadsformer är viktigt för att undvika segregerade
+
+områden. Fungerande centrum i varje kommundel ska skapa
 naturliga mötesplatser och kan också medverka till icke
-Kommunstyrelsen har antagit en riktlinje för integration i
 segregerad miljö. Ytterligare beskrivning av kommunens
-november 2019. Av riktlinjen framkommer att mottagande av
 långsiktiga arbete med bostäder för utsatta grupper framgår
-nyanlända och ensamkommande barn finns med i kommunens
 inte.
+
+I kommunens bostadsförsörjningsprogram framkommer att
+kommun behöver verka aktivt för att personer som inte har
+
+tak över huvudet ska komma  in på  den ordinarie
+
+bostadsmarknaden. Vidare framgår att kommunen behöver
+ha bra boendestöd och ibland använda bostadsgarantier. Det
+framgår inte vidare hur frågan om bostäder för utsatta
+
+grupper hanteras ur ett långsiktigt perspektiv.
+
+12\. Hur styr och samordnar  kommunstyrelsen en
+sammanhållen   etablerings-  och   integrations-
+verksamhet kopplat till boendefrågan?
+
+Av kommunstyrelsens reglemente framgår att kommun-
+styrelsen ansvarar för beslut om samordning mellan nämnder
+och gränsdragning mellan nämnders kompetens. Kommun-
+
+styrelsen ansvarar för att en effektiv och ändamålsenlig
+organisation upprätthålls som ger effekt på helheten.
+
+Vidare framgår att kommunstyrelsen leder, beslutar och
+samordnar en sammanhållen etablerings- och integrations-
+verksamhet för nyanlända invandrare och ensamkommande
+barn utifrån av kommunfullmäktige fastställda etablerings-
+och integrationsmål samt kvalitetsnivå.
+
+Kommunstyrelsen har antagit en riktlinje för integration i
+november 2019. Av riktlinjen framkommer att mottagande av
+
+nyanlända och ensamkommande barn finns med i kommunens
 ordinarie långsiktiga bostadsplanering och kommunen strävar
-I kommunens bostadsförsörjningsprogram framkommer att efter att inte ha särlösningar för dessa målgrupper.
-kommun behöver verka aktivt för att personer som inte har Kommunen strävar även efter att mottagandet ska fördelas
-tak över huvudet ska komma  in på den  ordinarie   jämnt över kommunen. Vidare framgår av riktlinjen att
+efter att inte ha särlösningar för dessa målgrupper.
+Kommunen strävar även efter att mottagandet ska fördelas
+jämnt över kommunen. Vidare framgår av riktlinjen att
+
 11
 
 <!-- sida 62 -->
 
-kommunen endast garanterar genomgångsboende3 under 13. Slutsatser
+kommunen endast garanterar genomgångsboende3 under
 etableringsfasen.
-Förstudiens syfte har varit att översiktligt kartlägga hur
-Av riktlinjer framkommer följande:                 berörda parter har hanterat barnets bästa och barn-
-  I första hand ska Tempohus erbjuda de nyanlända konventionen i relation till frågan om boende.
+
+Av riktlinjer framkommer följande:
+  I första hand ska Tempohus erbjuda de nyanlända
 genomgångsboende i bostäder som ägs eller hyrs av
-Vår sammantagna slutsats är att det inte finns former för hur
 Tempohus.
-  I andra hand ska nyanlända erbjudas genomgångs- barnet bästa eller barnkonventionen ska beaktas i frågan som
-boende i kommunens egna lokaler som förvaltas av rör barnfamiljernas situation vid etableringsboenden och där
-Service Fastigheter.                          familjer riskerar att stå utan bostad.
+
+  I andra hand ska nyanlända erbjudas genomgångs-
+boende i kommunens egna lokaler som förvaltas av
+Service Fastigheter.
   I tredje hand ska nyanlända erbjudas genomgångs-
-boende i form av tillfälligt inrättade sovsalar i Dialogen mellan kommunstyrelsens presidium och ordförande
-kommunens  lokaler som förvaltas av Service   i styrelsen för Tempohus avseende tvåårskontrakten
-Fastigheter.                                  bereddes inte med hjälp av förvaltningen. Barnperspektivet
-uppges ha beaktats i dialog mellan kommunstyrelsens
+boende i form av tillfälligt inrättade sovsalar i
+kommunens  lokaler som förvaltas av Service
+Fastigheter.
+
 Riktlinjen beskriver kommunens förväntningar på den
-presidium och styrelseordförande för Tempohus. Däremot
+
 nyanlände. Kommunen har samma förväntningar på ensam-
-finns inget dokumenterat avseende barnperspektivet och hur
 kommande barn, nyanlända barn och nyanlända vuxna som
-detta beaktades vad avser kontraktets längd och att
 finns på övriga kommuninvånare. Alla kommuninvånare har
-barnfamiljer riskerar att stå utan boende efter tvåårs-
 likvärdiga rättigheter och skyldigheter.
-kontrakten löper ut.
+
 Nyanlända ska vara aktiva i att söka eget boende samt ta
-Förstudien visar att barnperspektivet inte har beaktats av
 ansvar för att ordna boende för eventuella anhöriga som
-kommunstyrelsen eller av Tempohus i samverkan inför samt
 kommer senare. Kommunen ska ge information om hur man
-söker eller köper en bostad. De nyanlända ska kunna klara sin vid beslut om riktlinjer för tvåårskontrakt.
+
+söker eller köper en bostad. De nyanlända ska kunna klara sin
 egen hyra och hyran ska inte subventioneras.
+
 3 Tillfälliga bostäder med korttidskontrakt och utan besittningsrätt.
+
+13\. Slutsatser
+
+Förstudiens syfte har varit att översiktligt kartlägga hur
+berörda parter har hanterat barnets bästa och barn-
+konventionen i relation till frågan om boende.
+
+Vår sammantagna slutsats är att det inte finns former för hur
+barnet bästa eller barnkonventionen ska beaktas i frågan som
+
+rör barnfamiljernas situation vid etableringsboenden och där
+familjer riskerar att stå utan bostad.
+
+Dialogen mellan kommunstyrelsens presidium och ordförande
+i styrelsen för Tempohus avseende tvåårskontrakten
+bereddes inte med hjälp av förvaltningen. Barnperspektivet
+
+uppges ha beaktats i dialog mellan kommunstyrelsens
+presidium och styrelseordförande för Tempohus. Däremot
+finns inget dokumenterat avseende barnperspektivet och hur
+detta beaktades vad avser kontraktets längd och att
+
+barnfamiljer riskerar att stå utan boende efter tvåårs-
+kontrakten löper ut.
+
+Förstudien visar att barnperspektivet inte har beaktats av
+kommunstyrelsen eller av Tempohus i samverkan inför samt
+vid beslut om riktlinjer för tvåårskontrakt.
+
 12
 
 <!-- sida 63 -->
 
-Förstudien visar att det i huvudsak finns ett etablerat barnrättsperspektivet inför att barnfamiljers bostadskontrakt
-arbetssätt mellan Tempohus och nämnden för gymnasium och sägs upp av Tempohus. Förstudien visar att nämnden för
-arbetsmarknad för samverkan inför att kontrakten löper ut, gymnasium och arbetsmarknad genomför barnkonsekvens-
+Förstudien visar att det i huvudsak finns ett etablerat
+arbetssätt mellan Tempohus och nämnden för gymnasium och
 
-men att detta inte är dokumenterat eller inbegriper ett analys avseende nyanlända barnfamiljer efter etablerings-
-barnrättsperspektiv. Enligt vår mening skapar avsaknaden av perioden i de fall barnfamiljerna blir hemlösa.
+arbetsmarknad för samverkan inför att kontrakten löper ut,
+men att detta inte är dokumenterat eller inbegriper ett
+barnrättsperspektiv. Enligt vår mening skapar avsaknaden av
 dokumenterade riktlinjer och/eller rutiner för samverkan en
-Kommunstyrelsens styrning av arbetet med etablerings- och
+
 risk för att ansvarsfördelningen blir otydlig och att samverkan
-integrationsverksamheten kopplat till boendefrågan görs
 riskerar brista vad gäller beaktandet av barnrätts-
-genom riktlinjen för integration samt bostadsförsörjnings-
 perspektivet.
-programmet. En målsättning för integrationen är att inte ha
-Vi noterar att samverkan inte är barnrättsbaserad, det vill särlösningar för berörda målgrupper. Det finns även en
-säga att barnkonsekvensanalyser och eller prövning av samverkansgrupp för att strategiskt arbete med hållbara
-barnets bästa inte har gjorts inför att familjerna måste lämna boenden för att tydliggöra ansvar och roller i arbets-
-sina temporära boenden. Barnen har inte hörts i frågan. Vi processerna samt undvika dubbelarbete mellan förvaltningar.
+
+Vi noterar att samverkan inte är barnrättsbaserad, det vill
+säga att barnkonsekvensanalyser och eller prövning av
+
+barnets bästa inte har gjorts inför att familjerna måste lämna
+sina temporära boenden. Barnen har inte hörts i frågan. Vi
 noterar även att det saknas dokumentation på om kommun-
-Sammanfattningsvis visar förstudien att barnrätts-
 styrelsen, Tempohus eller nämnden för gymnasiet och
-perspektivet inte har varit närvarande i den politiska
+
 arbetsmarknad har resonerat kring om barnen ska komma till
-styrningen eller samverkan avseende boendefrågan för
 tals i frågan.
-nyanlända barnfamiljer. Det saknas dokumentation i
-Förstudien visar att nämnden för gymnasium och arbets- samverkan rörande barnrättsperspektivet i boendefrågan för
-marknad arbetar med insatser för att stödja nyanlända med nyanlända barnfamiljer. Vidare bereddes beslutet om
-att söka permanent boende. Förvaltningen kan tillhandahålla tvåårskontrakt för etableringsboende inte med hjälp av
-tolk om nödvändigt samt följer månadsvis upp att de förvaltningen. För framtida beslut som avser nyanländas
-nyanlända sökt bostad.                             boendesituation ser vi en risk för att barnrättsperspektivet
-inte beaktas om inte gängse beredning sker.
+
+Förstudien visar att nämnden för gymnasium och arbets-
+marknad arbetar med insatser för att stödja nyanlända med
+att söka permanent boende. Förvaltningen kan tillhandahålla
+
+tolk om nödvändigt samt följer månadsvis upp att de
+nyanlända sökt bostad.
+
 Vidare visar förstudien att det inte finns dokumenterat att
 barnkonsekvensanalys genomförts eller hänsyn har tagits till
+
+barnrättsperspektivet inför att barnfamiljers bostadskontrakt
+sägs upp av Tempohus. Förstudien visar att nämnden för
+
+gymnasium och arbetsmarknad genomför barnkonsekvens-
+analys avseende nyanlända barnfamiljer efter etablerings-
+perioden i de fall barnfamiljerna blir hemlösa.
+
+Kommunstyrelsens styrning av arbetet med etablerings- och
+integrationsverksamheten kopplat till boendefrågan görs
+
+genom riktlinjen för integration samt bostadsförsörjnings-
+programmet. En målsättning för integrationen är att inte ha
+särlösningar för berörda målgrupper. Det finns även en
+samverkansgrupp för att strategiskt arbete med hållbara
+
+boenden för att tydliggöra ansvar och roller i arbets-
+processerna samt undvika dubbelarbete mellan förvaltningar.
+
+Sammanfattningsvis visar förstudien att barnrätts-
+perspektivet inte har varit närvarande i den politiska
+styrningen eller samverkan avseende boendefrågan för
+
+nyanlända barnfamiljer. Det saknas dokumentation i
+samverkan rörande barnrättsperspektivet i boendefrågan för
+nyanlända barnfamiljer. Vidare bereddes beslutet om
+tvåårskontrakt för etableringsboende inte med hjälp av
+
+förvaltningen. För framtida beslut som avser nyanländas
+boendesituation ser vi en risk för att barnrättsperspektivet
+inte beaktas om inte gängse beredning sker.
+
 13
 
 <!-- sida 64 -->
@@ -2463,48 +2682,70 @@ Ernst & Young AB
 
 <!-- sida 65 -->
 
-Bilaga 1. Bakgrund                                 barnkonventionen. Bostaden behöver också skapa förutsätt-
-ningar till studiero i hemmet för att säkra barnets rätt till
+Bilaga 1. Bakgrund
+
 Nyanlända i Kungsbacka kommun erbjuds boende under den
-utbildning enligt artikel 28 och 29 i barnkonventionen.
 tvååriga etableringsperioden. Det framgår att ett antal
-Bostaden ska stödja barnets rätt till liv och utveckling i
 familjers kontrakt håller på att löpa ut och att familjerna
-enlighet med konventionens artikel 6.
 därmed lämna sina tillfälliga bostäder.
-I Kungsbacka kommun är flera parter på olika sätt ansvariga
+
 FN:s barnkonvention är svensk lag sedan den 1 januari 2020\*.
-för frågor kopplat till boende för nyanlända:
+
 Enligt lagen ska barnets rättigheter beaktas vid avvägningar
 och bedömningar som görs i ärenden som rör barn. I lag och
-Kommunstyrelsen ansvarar för att:
 konvention återfinns även skrivningar kring barnets rätt till
-levnadsstandard.                                      Leda, besluta och samordna en  sammanhållen
-etablerings- och integrationsverksamhet för nyanlända
+levnadsstandard.
+
 Artikel 27 i barnkonventionen slår fast barnets rätt till den
-invandrare och ensamkommande barn.
+
 levnadsstandard som krävs för barnets fysiska, psykiska,
-Tempohus ska:
 andliga, moraliska och sociala utveckling. Konventions-
-staterna ska vidta lämpliga åtgärder för att bistå barnets  Uppföra och förvalta temporära bostäder. Bygglovet
-för bostäderna sträcker sig till 2026.
+staterna ska vidta lämpliga åtgärder för att bistå barnets
 vårdnadshavare för att säkerställa barnets rätt till en skälig
-Nämnden för gymnasium och arbetsmarknad ansvarar för
+
 levnadsstandard och vid behov erbjuda materiellt bistånd och
-att:
 utarbeta stödprogram för att garantera denna rättighet
 gällande bostad. Enligt FN:s kommitté för barnets rättigheter
- Utveckla och driva arbetet med etablering av ensam-
 ska rätten till bostad tolkas som en rätt att bo någonstans i
-kommande barn, ensamstående vuxna och familjer.
+
 trygghet, fred och under värdiga former.
- Ansvarar  för   myndighetsutövning avseende
-försörjningsstöd och övrigt ekonomiskt bistånd samt
+
 FN:s barnrättskommitté betonar att rätten till bostad hänger
-bistånd i form av akut boende.
 samman med  alla andra rättigheter i barnkonventionen.
 Bostaden behöver skapa förutsättningar för barnet att få sin
 rätt tillgodosedd till lek, vila och fritid enligt artikel 31 i
+
+barnkonventionen. Bostaden behöver också skapa förutsätt-
+ningar till studiero i hemmet för att säkra barnets rätt till
+
+utbildning enligt artikel 28 och 29 i barnkonventionen.
+Bostaden ska stödja barnets rätt till liv och utveckling i
+enlighet med konventionens artikel 6.
+
+I Kungsbacka kommun är flera parter på olika sätt ansvariga
+för frågor kopplat till boende för nyanlända:
+
+Kommunstyrelsen ansvarar för att:
+
+  Leda, besluta och samordna en sammanhållen
+etablerings- och integrationsverksamhet för nyanlända
+
+invandrare och ensamkommande barn.
+Tempohus ska:
+
+  Uppföra och förvalta temporära bostäder. Bygglovet
+för bostäderna sträcker sig till 2026.
+Nämnden för gymnasium och arbetsmarknad ansvarar för
+
+att:
+
+  Utveckla och driva arbetet med etablering av ensam-
+kommande barn, ensamstående vuxna och familjer.
+  Ansvarar  för  myndighetsutövning avseende
+försörjningsstöd och övrigt ekonomiskt bistånd samt
+
+bistånd i form av akut boende.
+
 15
 
 <!-- sida 66 -->
@@ -2948,6 +3189,16 @@ Sign:
 
 <!-- sida 75 -->
 
+1:500
+
+Skala
+
+Karta tillhörande arrendeavtal för del av Kungsbacka 2:2
+
+Kungsbacka kommun 2004-06-28
+
+uBejebaggnöpina
+
 <!-- sida 76 -->
 
 <!-- sida 77 -->
@@ -3001,12 +3252,8 @@ verksamhet.
 Ändring av kulör på fasad NCS S2502-Y Svart plåttak RAL 7021.
 
 Bygg- och miljöförvaltningen, Kungsbacka kommun • 0300-83 40 00 • (e-post borttagen) • kungsbacka.se
-41-60-1202
-–
-698100-1202
-D
-–
-volggyB
+
+Bygglov – D 2021-001896 – 2021-06-14
 
 <!-- sida 79 -->
 

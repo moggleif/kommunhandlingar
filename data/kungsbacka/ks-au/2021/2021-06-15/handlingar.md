@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320071411id_/https://www.kungsbacka.
 sha256: 616df3669404a1a6a69f589d4165d77413c6c0903b9a165c1f61a539ec16b20b
 bytes: 21291770
 sidor: 261
-hamtad: 2026-10-28T11:50:07+00:00
-konverterad: 2026-10-28T11:52:14+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:17:48+00:00
+konverterad: 2026-11-17T13:19:21+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr]
@@ -159,36 +159,29 @@ Kommundirektör                Biträdande kommundirektör
 
 <!-- sida 8 -->
 
-KUB2000, v2.0, 2012-05-23
-
 Gymnasium och arbetsmarknad
 2020-04-30
 
 Kungsbacka
-
 Arvid och Hildur Anderssons fond våren 2021
-
 Tillgängligt belopp för utdelning år 2021 är 31 848 kr.
-
 Styrelsen för Arvid och Hildur Anderssons fond föreslår för kommunstyrelsen att
 följande tilldelas stipendium våren 2021:
-
 Elin Hysén (L)
 Ordförande
 Nämnden för Gymnasium och Arbetsmarknad
-
 Gymnasium & Arbetsmarknad Kungsbacka kommun
 Clara Engstrand 434 43 Kungsbacka
-Direkt 0300-83 43 37 Bejöksalress
-
-clara.engstrand(ÅQkungsbacka.se rd g
-\> Qkung Vägmästaren, Syréngatan 1
+Direkt 0300-83 43 37 2
+dorksnpelesnäggangtnds YNäomästaren öordanden I
 
 Telefon 0300-83 40 00
 Fax 0300-83 47 04
 
 gymnasiumocharbetsmarknad(ÅQkungsbacka.se
 www.kungsbacka.se
+
+KUB2000, v2.0, 2012-05-23
 
 <!-- sida 9 -->
 
@@ -367,8 +360,6 @@ Förvaltningschef                   Registrator
 
 <!-- sida 13 -->
 
-KUBB6000, 2.0, 2019-06-04
-
 ANSÖKAN OM PENGAR UR ERIK HJÄLMLÖVS STIFTELSE
 
 Gäller: [ ] Rekreationsresor Inköp av blommor till lokaler
@@ -381,8 +372,6 @@ Kungsbacka kommun registreras det som allmän handling och dina personuppgifter 
 ärendet. Läs mer om dataskydd och hur vi hanterar dina personuppgifter på www.kungsbacka.se/dataskydd 1 (2)
 Namn Personnummer
 
-| oa å
-
 | Aktivitetshuset Regnbågen på
 
 Adress
@@ -393,28 +382,34 @@ Postnummer och postort =
 
 434 42 Kungsbacka
 
-E-post. Telefonnummer
+E-post. Telefonnummer oo
 | Lisa.molin(akungsbacka.se | 0300-835131
 
-Namn på person som är behjälplig med ansökan Telefonnummer
-| X | Xx
+Xx | Xx
 
 Ansökan avser
+
 | Jyckens hunddagis, som var en sysselsättningsplats för människor med psykisk ohälsa i åldrarna 20-65 år, är
+
 | nedlagt. Istället har dessa människor börjat gå till aktivitetshuset Regnbågen, som är en kommunal verksamhet,
+
 och för att det ska bli en meningsfull sysselsättning för dem har vi handledare haft i uppdrag att försöka ta reda
 
 | på vad de själva önskar i aktivitet.
 
-| Det har visat sig att många har intresse av växter och natur så vi håller på att bygga upp aktiviteten ”gröna rum” i |
-
+| Det har visat sig att många har intresse av växter och natur så vi håller på att bygga upp aktiviteten ”gröna rum” i
 både inne och utomhusmiljö. Det är härligt att vara omgiven av gröna växter, men det är också stimulerande att
+
 | driva upp plantor från fröer för att sedan planteras ut och som resultat kanske skördas och tillagas i Regnbågens
 kök där deltagarna har möjlighet att både laga maten som serveras och äta den.
+
 | Tanken är att deltagarna ska vara delaktiga i val av växter och att de ska få skapa en oas där de kan finna
 hjärnvila, avkoppling och samtidigt få livsinspiration.
+
 | I Regnbågens trädgård finns idag ett litet land, några pallkragar och ett äppelträd. Själva aktivitetshuset har
+
 | rabatter på kortsidorna, så det finns utrymme för utveckling samt underhåll av det som redan är befintligt. Men
+
 | då det råder sparbeting i Kommunen testar vi här med Erik Hjälmlövs stiftelse. |
 
 Bifoga följande dokument. Samtliga dokument krävs för att din ansökan ska kunna behandlas.
@@ -443,6 +438,8 @@ Box 104 14 Storgatan 37 0300-83 40 00 individochfamiljeomsorgÅMkungsbacka.se
 434 24 Kungsbacka Fax vardochomsorg(Mkungsbacka.se
 
 0300-703 99 www.kungsbacka.se
+
+KUBB6000, 2.0, 2019-06-04
 
 <!-- sida 14 -->
 
@@ -2771,46 +2768,53 @@ Kungsbacka kommun
 
 <!-- sida 72 -->
 
-0202/2984
-
-rnd
-:dllätstsaF
 Datum       Processnummer Diarienummer
 2021-03-23        3.10 1201/2021
+
 Myndigheten ftlr samhallsplanering.
 byggande och boende
 Regeringskansliet
 Finansdepartementet
+
 (e-post borttagen)
+
 Önskemål om utökat bemyndigande att meddela föreskrifter
 för friytor för lek och utevistelse vid skolor, förskolor,
 fritidshem och annan jämförlig verksamhet
+
 Boverket lämnar härmed förslag till ändring i 10 kap. 9 § plan- och
 byggförordningen (2011:338), PBF. Förslaget avser ett utökat bemyndigande
 för Boverket att meddela föreskrifter om friyta för lek och utevistelse vid
 fritidshem, skolor, förskolor och annan jämförlig verksamhet enligt 8 kap. 9 §
 andra stycket samt 10 och 11 §§ plan- och bygglagen (2010:900), PBL.
+
 Boverket önskar ett utökat bemyndigande att meddela föreskrifter om friyta för
 lek och utevistelse enligt 8 kap. 9 § andra stycket samt 10 och 11 §§ PBL.
 Boverket vill kunna ställa bindande krav på kvaliteter och placering av friytor
 för lek och utevistelse vid fritidshem, skolor, förskolor och annan jämförlig
 verksamhet. Boverket har dock inte för avsikt att genom föreskrifter ställa krav
 på friytornas storlek.
+
 Bakgrund
 Boverket tog år 2015, på uppdrag av regeringen, fram vägledningen ”Gör plats
 för barn och unga! En vägledning för planering, utformning och förvaltning av
 skolors och förskolors utemiljö”. I samband med vägledningen utarbetade och
 beslutade Boverket också allmänna råd – Boverkets allmänna råd (2015:1) om
 friytor för lek och utevistelse vid skolor, förskolor och fritidshem.
+
 Under remissen av de allmänna råden framförde flera remissinstanser att det är
 nödvändigt med föreskrifter för att tvinga kommuner och byggaktörer att se till
 att behovet av tillräckligt stor friyta vid skola och förskola tillgodoses.
 Boverket bedömde emellertid att det då var lämpligt att som första steg besluta
 om vägledning och allmänna råd och att en så ingripande reglering som
+
 föreskrifter inte var motiverad. Boverket skrev dock i konsekvensutredningen
 att man avsåg att utvärdera effekterna av de allmänna råden. Om utvärderingen
+
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
 E-post: (e-post borttagen) | Webbplats: www.boverket.se
+
+Fastställd: dnr 4892/2020
 
 <!-- sida 73 -->
 
@@ -7424,25 +7428,36 @@ skred som uppstår till följd av
 Tabell 4. Resultatmål, kunskapsmål och åtgärdsmål kopplade till fokusområdet Kulturarvet.
 Kulturarvet
 
-Resultatmål          Kunskapsmål/åtgärdsmål
-2.1. Påverkan på Kungsbacka 2.1.1. Kunskapsmål. De övergripande konsekvenserna för
-innerstad vid översvämning är Kungsbacka innerstad vid ett beräknat högsta
-känd.                flöde/extremnivå i havet är kända och berörda aktörer
+Resultatmål
+2.1. Påverkan på Kungsbacka
+innerstad vid översvämning är
+känd.
+
+2.2. Kända fornlämningar och
+områden av riksintresse skadas
+inte vid översvämningar med
+beräknat högsta
+flöde/extremnivå i havet eller
+lägre.
+
+Kunskapsmål/åtgärdsmål
+2.1.1. Kunskapsmål. De övergripande konsekvenserna för
+Kungsbacka innerstad vid ett beräknat högsta
+flöde/extremnivå i havet är kända och berörda aktörer
 känner till möjliga åtgärder för att skydda eller återhämta
 sig.
 
-2.2. Kända fornlämningar och 2.2.1. Kunskapsmål. Länsstyrelsen har kunskap om
-områden av riksintresse skadas samtliga kända fornlämningar och dess värde, sårbarhet
-inte vid översvämningar med
+2.2.1. Kunskapsmål. Länsstyrelsen har kunskap om
+samtliga kända fornlämningar och dess värde, sårbarhet
 och skyddsmöjligheter vid översvämning med beräknat
-beräknat högsta
 högsta flöde/extremnivå i havet.
-flöde/extremnivå i havet eller
-lägre.               2.2.2. Åtgärdsmål. Länsstyrelsen har säkerställt att det finns
+2.2.2. Åtgärdsmål. Länsstyrelsen har säkerställt att det finns
 underlag som beskriver hur återställnings-/räddningsarbete
 ska utföras i områden av kulturhistoriskt värde.
+
 Tabell 5. Resultatmål, kunskapsmål och åtgärdsmål kopplade till fokusområdet Miljön.
 Miljön
+
 Resultatmål          Kunskapsmål/åtgärdsmål
 3.1. Inga föroreningar sprids 3.1.1. Kunskapsmål. Tillsynsmyndigheterna och eventuell
 och orsakar långsiktiga verksamhetsutövare och/eller fastighetsägare har kunskap
@@ -9703,8 +9718,6 @@ Namnförtydligande
 
 <!-- sida 243 -->
 
-LEGAL418326300v2
-
 KS/2018:646
 1(13)
 
@@ -9753,6 +9766,8 @@ Det område som är aktuellt för att genomföra projektet är markerat ungefär
 
 röd linje på karta, bilaga A, Exploateringsområdet.
 Exploateringsområdet utgörs av två områden
+
+LEGAL418326300v2
 
 <!-- sida 244 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319214403id_/https://www.kungsbacka.
 sha256: 6df01695b355ac03e6c08685910ecc5a17d87e5175b4d0666f09213dcf8d10b1
 bytes: 2786409
 sidor: 68
-hamtad: 2026-10-31T09:35:00+00:00
-konverterad: 2026-10-31T09:38:50+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T13:53:09+00:00
+konverterad: 2026-11-17T13:53:31+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -457,17 +457,19 @@ RC                      Restaurangchef
 I
 
 1 Beslutanderätten innefattar följande:
+
+• Beslut att inleda upphandling
+• Beslut att godkänna tilldelning, gäller även återta
+tilldelning
+• Beslut att underteckna avtal efter
+att avtalsspärren löpt ut alternativt
+
 efter att domstol avslagit ansökan
 om överprövning
-• Beslut att inleda upphandling
 • Beslut att avbryta upphandling, gäller även återta
-• Beslut att godkänna tilldelning, gäller även återta
 avbrytande
-tilldelning
 • Beslut om ändring och tillägg till avtal
-• Beslut att underteckna avtal efter
 • Beslut om utkrävande av vite enligt avtal
-att avtalsspärren löpt ut alternativt
 • Beslut om uppsägning eller hävning av avtal
 12
 

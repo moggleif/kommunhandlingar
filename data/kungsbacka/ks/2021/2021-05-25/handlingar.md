@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320045910id_/https://www.kungsbacka
 sha256: [a8b994cd434642c2fb7a7f5def92b36005d38a2b16cc0494c0c0fe3ec8c57607, 7c3f20f1e35fa7b251213030dbe70a8c277e4c8609505b61b3a23a653b1513f0, 33f2aecf72459e804de9c00303411b7beea5cf179a6b91c9a06945ad9c465343, 2c4de6ab3a26cc1799b772791d83705cf5b0fbb12e7eb16a6967a5ce011667a8]
 bytes: [62907981, 20245041, 7867144, 20619626]
 sidor: 1006
-hamtad: 2026-10-29T10:29:13+00:00
-konverterad: 2026-10-29T10:43:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:26:09+00:00
+konverterad: 2026-11-17T13:32:54+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad]
@@ -1108,655 +1108,423 @@ nämnden i samband med delårs- och årsbokslut.
 
 <!-- sida 31 -->
 
-I
-SATSIV
-
-HCO
-
-AKREV
-
-,OB
-
-TTA
-
-NUMMOK
-
-VITKARTTA
-
-NE
-nedårmosukoF
-,voheb
-akilo
-röf
-öjlimsdanggyb
-ednareripsni
-dem
-redätsob
-avitkartta
-snnif
-akcabsgnuK
-I
-
-ralitssvil
-hco
-renoitareneg
-reöjlim
-aggyrt
-hco
-ednanmokläv
-rah
-akcabsgnuK
-
-netybtu
-avitaerk
-hco
-reslevelppu
-,noitaerker
-,oravmas
-röf
-restalpsetöm
-snnif
-akcabsgnuK
-I
-
-tta
-tevil
-åf tta
-röf
-döts
-revöheb
-nam
-rän
-grosmo
-dog
-ne
-råf
-hco
-ggyrt
-nam
-rä akcabsgnuK
-I
-
-aregnuf
-dnerT
-gninttäslåM
-0202
-9102
-8102
-rotakidnI
-2202 akÖ
-432
-105
-redätsob
-edajröbåp
-latnA
-akÖ
-842
-814
-redätsob
-adllätsgidräf
-latnA
-02
-<
-5
-51
-42
-renummok
-segirevS
-va
-gniknar
-i gnirecalp
-sakcabsgnuK
-,aveL
-tta tsäB
-sukoF
-negnindit
-tgilne
-akÖ
-\*
-åp
-avel
-hco ob
-tta
-stalp
-ne
-mos
-nenummok
-mo
-gninttafppu
-sanranåvnI
-)gninkösrednuragrobdem
-s:BCS(
-aksniM
-780
-5
-833 4
-927
-4
-)eranåvni
-000
-001/latna(
-eranåvni
-rep ttorb
-adlämnA
-akÖ
-% 88
-% 98
-%
-88
-nysstehleh
-,grosmoerdlä
-tsnäjtmeh
-gninmödebrakurB
-akÖ
-% 18
-% 38
-%
-48
-nysstehleh
-,grosmoerdlä
-edneob
-tliksräs
-gninmödebrakurB
-akÖ
-% 67
-% 69
-nysstehleh
-\- tlatot
-grosmoejlimaf
-hco
--dividni
-gninmödebrakurB
-.1202
-nårf
-ayn
-rä anrogårf
-hco
-mo
-strojg
-rah gninkösrednuragrobdem
-s:BCS\*
-ÖJLIM
-MASOSLÄH
-NE
-HCO
-GNILKCEVTU
-RABLLÅH
-NE
-nedårmosukoF
-.imonoke
-rabllåh
-tgitkisgnål
-ne
-dem
-rexäv
-akcabsgnuK
-
-alabolg
-hco
-nelåmöjlim
-allenoitan
-ed
-nårfi
-rågtu
-etebraöjlim
-akcabsgnuK
-
-.telatvaratsämgroB
-tmas
-nelåmstehrabllåh
-.tksikysp
-mos
-tksisyf
-lävås
-arb
-råm
-akcabsgnuK
-i
-agnU
-
-dnerT
-gninttäslåM
-0202
-9102
-8102
-rerotakidnI
-2202 aksniM
-\*
-\*
-2,2
-.eranåvni
-rep
-not
-i nirtsudni
-nä
-rerotkes
-agirvö
-nårf
-ppälstudixoidloK
-\*\*
-)renummokokE
-segirevS
-:alläK(
-akÖ
-\*
-47
-37
-segirevS
-:alläK(
-.kifartvitkellok
-dem adrojg
-eranåvni
-rep
-roser
-latnA
-)renummokokE
-akÖ
-\*
-%47
-%37
-segirevS
-:alläK(
-.nekifartvitkellok
-i nelsnärb
-arabynröf
-lednA
-)renummokokE
-aksniM
-823
-453
-724
-dem
-roseretsnäjt
-snenummok
-röf
-)hWk(
-ammittawolik
-i igrenetropsnarT
-)renummokokE
-segirevS
-:alläK(
-.eratebrasrå
-rep
-lib
-aksniM
-01,0
-41,0
-71,0
-rep
-not
-i lib
-dem
-roseretsnäjt
-snenummok
-nårf
-ppälstudixoidloK
-)renummokokE
-segirevS
-:alläK(
-.eratebrasrå
-71
 t t
 )' )' '           )' )'
 t   t   t  I    I
 
+EN ATTRAKTIV KOMMUN ATT BO, VERKA OCH VISTAS I
+
+Fokusområden
+
+ I Kungsbacka finns attraktiva bostäder med inspirerande byggnadsmiljö för olika behov,
+
+generationer och livsstilar
+
+ Kungsbacka har välkomnande och trygga miljöer
+
+ I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten
+
+ I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att
+
+fungera
+
+Indikator
+
+2018
+
+2019
+
+2020
+
+Målsättning
+
+Trend
+
+2022
+
+Antal påbörjade bostäder
+
+501
+
+234
+
+Öka
+
+Antal färdigställda bostäder
+
+418
+
+248
+
+Öka
+
+Bäst att Leva, Kungsbackas placering i ranking av Sveriges kommuner
+
+24
+
+15
+
+5
+
+< 20
+
+enligt tidningen Fokus
+
+Invånarnas uppfattning om kommunen som en plats att bo och leva på
+
+\*
+
+Öka
+
+(SCB:s medborgarundersökning)
+
+Anmälda brott per invånare (antal/100 000 invånare)
+
+4 729
+
+4 338
+
+5 087
+
+Minska
+
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn
+
+88 %
+
+89 %
+
+88 %
+
+Öka
+
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn
+
+84 %
+
+83 %
+
+81 %
+
+Öka
+
+Brukarbedömning individ- och familjeomsorg totalt - helhetssyn
+
+96 %
+
+76 %
+
+Öka
+
+\* SCB:s medborgarundersökning har gjorts om och frågorna är nya från 2021.
+
+EN HÅLLBAR UTVECKLING OCH EN HÄLSOSAM MILJÖ
+
+Fokusområden
+
+ Kungsbacka växer med en långsiktigt hållbar ekonomi.
+
+ Kungsbacka miljöarbete utgår ifrån de nationella miljömålen och globala
+
+hållbarhetsmålen samt Borgmästaravtalet.
+
+ Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+
+Indikatorer
+
+2018
+
+2019
+
+2020
+
+Målsättning
+
+Trend
+
+2022
+
+Koldioxidutsläpp från övriga sektorer än industrin i ton per invånare.
+
+2,2
+
+\*
+
+\*
+
+Minska
+
+(Källa: Sveriges Ekokommuner)
+
+\*\*
+
+Antal resor per invånare gjorda med kollektivtrafik. (Källa: Sveriges
+
+73
+
+74
+
+\*
+
+Öka
+
+Ekokommuner)
+
+Andel förnybara bränslen i kollektivtrafiken. (Källa: Sveriges
+
+73%
+
+74%
+
+\*
+
+Öka
+
+Ekokommuner)
+
+Transportenergi i kilowattimma (kWh) för kommunens tjänsteresor med
+
+427
+
+354
+
+328
+
+Minska
+
+bil per årsarbetare. (Källa: Sveriges Ekokommuner)
+
+Koldioxidutsläpp från kommunens tjänsteresor med bil i ton per
+
+0,17
+
+0,14
+
+0,10
+
+Minska
+
+årsarbetare. (Källa: Sveriges Ekokommuner)
+
+17
+
 <!-- sida 32 -->
 
-aksniM
+I I\      I I\\
 
-001
-
-.0302
-llit
-0202
-nårf
-
-eranåvni
-
-rep %03
-
-dem
-aksnim
-
-aks llåhsuh
-
-nårf llafvA
-.07
-rä
-0302
-edrävlåm
-,001 edrävtratS
-aksniM
-001
-rep
-%
-04
-dem aksnim
-aks
-retehmaskrev
-snenummok
-nårf llafvA
-.06 rä
-0302 edrävlåm
-,001
-edrävtratS
-.dllätsnasditleh
-akÖ
-:4 kÅ
-:4 kÅ
-:4 kÅ
-rokcilF
-–
-teisanmyg
-1 sruksrå
-tmas
-,8 hco
-4 sruksrå
-i asläh sagnU
-%58
-%98
-%19
-)revele
-dem latmasosläh
-sakcabsgnuK
-i naslähvelE(
-:8 kÅ
-:8 kÅ
-:8 kÅ
-%07
-%37
-%57
-:yg
-1
-kÅ
-:yg
-1 kÅ %85
-%07
-akÖ
-:4 kÅ
-:4 kÅ
-:4 kÅ
-rakjoP
-–
-teisanmyg
-1 sruksrå
-tmas
-,8 hco
-4 sruksrå
-i asläh sagnU
-%88
-%19
-%19
-)revele
-dem latmasosläh
-sakcabsgnuK
-i naslähvelE(
-:8 kÅ
-:8 kÅ
-:8 kÅ
-%48
-%88
-%88
-:yg
-1
-kÅ
-:yg
-1 kÅ
-%08
-%16
-1202
-netsöh
-rednu sarecilbuP\*
-nigetartstamilK
-tgilne
-0302 rå
-5,1\*\*
-EGIREVSTSÄV
-I
-TETAMILKSGATERÖF
-ATSÄB
-nedårmosukoF
-.roksinnäm
-ammasgateröf
-hco
-rerönerpertne
-röf eraröggiljöm
-ne
-rä nenummoK
-
-hco
-redividni
-röf
-edåb
-gnirelbate
-bbans
-hco
-nelläfllitstebra
-ayn
-iv
-råf
-akcabsgnuK
-I
-
-.gnindlibtu
-hco
-vilsgnirän
-nallem
-nakrevmas
-moneg
-gateröf
-dnerT
-gninttäslåM
-0202
-9102
-8102
-rotakidnI
-2202 akÖ
-66
-26
-36
-llit
-gninvötustehgidnym
-sanrenummok
-va
-gnintämecivres
-s:RKS ,tkisnI
-ruh
-röf
-,001–0
-xednisgyteb
-tgävnammas
-nårfitu
-xedni-dnuk
-djöN .gateröf
-snummok
-akcabsgnuK
-remödeb
-nenummok
-i gateröf
-.tetamilksgateröf
-va led gitkiv
-ne
-rä nekliv
-,gninvötustehgidnym
-akÖ
-3,3
-4,3
-2,3
-.tamilksgateröf
-srenummok
-va gninkösrednudytitta
-svilsgnirän
-tksnevS
-i tetamilksgateröf
-remödeb
-gateröf
-räd
-,6–1
-alaks nårfitu
-edrävledeM
-.nummok
-akcabsgnuK
-akÖ
-\*
-016 72
-937
-62
-latna
-,gninklofebgad
-ttaslessyS
-%
-0,5
-\*
-% 0,5
-% 0,5
-nenoigersgrobetöG
-moni
-gninklofebgad
-ttaslessys
-va lednA
-akÖ
-\*
-% 0,81
-% 8,71
-rå 47
-\- 61
-eranåvni
-va ledna
-,tehmasgateröF
-akÖ
-\*
-2,21
-4,21
-rå 46
-\- 61 eranåvni
-000
-1 rep
-gateröf
-edatratsyn latnA
-)snevkerfsgnirelbate( eranes
-sarecilbuP
-\*
-81 I I\ I I\\
 t     \   \  t t I
+
+Avfall från hushåll ska minska med 30% per invånare från 2020 till 2030.
+
+100
+
+Minska
+
+Startvärde 100, målvärde 2030 är 70.
+
+Avfall från kommunens verksamheter ska minska med 40 % per
+
+100
+
+Minska
+
+heltidsanställd. Startvärde 100, målvärde 2030 är 60.
+
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor
+
+Åk 4:
+
+Åk 4:
+
+Åk 4:
+
+Öka
+
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
+
+91%
+
+89%
+
+85%
+
+Åk 8:
+
+Åk 8:
+
+Åk 8:
+
+75%
+
+73%
+
+70%
+
+Åk 1 gy: Åk 1 gy:
+
+58%
+
+70%
+
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar
+
+Åk 4:
+
+Åk 4:
+
+Åk 4:
+
+Öka
+
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
+
+91%
+
+91%
+
+88%
+
+Åk 8:
+
+Åk 8:
+
+Åk 8:
+
+88%
+
+88%
+
+84%
+
+Åk 1 gy: Åk 1 gy:
+
+61%
+
+80%
+
+\*Publiceras under hösten 2021
+
+\* \*1,5 år 2030 enligt Klimatstrategin
+
+BÄSTA FÖRETAGSKLIMATET I VÄSTSVERIGE
+
+Fokusområden
+
+ Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
+
+ I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och
+
+företag genom samverkan mellan näringsliv och utbildning.
+
+Indikator
+
+2018
+
+2019 2020 Målsättning
+
+Trend
+
+2022
+
+Insikt, SKR:s servicemätning av kommunernas myndighetsutövning till
+
+63
+
+62
+
+66
+
+Öka
+
+företag. Nöjd kund-index utifrån sammanvägt betygsindex 0–100, för hur
+
+företag i kommunen bedömer Kungsbacka kommuns
+
+myndighetsutövning, vilken är en viktig del av företagsklimatet.
+
+Svenskt näringslivs attitydundersökning av kommuners företagsklimat.
+
+3,2
+
+3,4
+
+3,3
+
+Öka
+
+Medelvärde utifrån skala 1–6, där företag bedömer företagsklimatet i
+
+Kungsbacka kommun.
+
+Sysselsatt dagbefolkning, antal
+
+26 739 27 610
+
+\*
+
+Öka
+
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen
+
+5,0 % 5,0 %
+
+\*
+
+5,0 %
+
+Företagsamhet, andel av invånare 16 - 74 år
+
+17,8 % 18,0 % \*
+
+Öka
+
+Antal nystartade företag per 1 000 invånare 16 - 64 år
+
+12,4
+
+12,2
+
+\*
+
+Öka
+
+(etableringsfrekvens)
+
+\* Publiceras senare
+
+18
 
 <!-- sida 33 -->
 
-TEVIL
+I KUNGSBACKA UTVECKLAS VI HELA LIVET
 
-ALEH
+Fokusområden
 
-IV
+ Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-SALKCEVTU
+ I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
-AKCABSGNUK
+\* Enkäten genomförs vartannat år.
 
-I
-nedårmosukoF
-.alsnäkvläjs
-dog
-hco
-teticapak
-alluf
-nis
-ån
-tta
-röf
-salkcevtu
-ramodgnu
-hco
-nraB
-
-.vil
-ttis
-mo
-dnah
-at
-tta
-agåmröf
-nege
-snejlimaf
-hco
-snedividni
-skräts
-akcabsgnuK
-I
-
-.rå
-tannatrav
-sröfmoneg
-netäknE\*
-DYTITTA
-NEPPÖ
-NE
-HCO
-ELLÄHMAS
-EDNAPAKSDEMTTE
-nedårmosukoF
-arav
-tta
-gateröf
-hco
-rednuk
-,eranåvni
-röf
-ragninttästuröf
-iv
-rapaks
-akcabsgnuK
-I
-
-.tevil
-adog
-ted
-amroftu
-tta
-i
-ednapaksdem
-i
-attömeb
-tkerrok
-hco
-addes
-,anmokläv
-ditlla
-gis
-rennäk
-eraköseb
-hco
-gateröf
-,eranåvnI
-
-.nenummok
-dem
-tkatnok
-.ttässtebra
-eravitkeffe
-hco
-retsnäjt
-eratrams
-rattih
-iv
-tta
-rög
-negniresilatigiD
-
-ednapaksdem
-hco
-agidom
-dem
-eravigstebra
-vitkartta
-ne
-rä
-nummok
-akcabsgnuK
-
-.eradel
-hco
-eratebradem
-91
+ETT MEDSKAPANDE SAMHÄLLE OCH EN ÖPPEN ATTITYD
+
+Fokusområden
+
+ I Kungsbacka skapar vi förutsättningar för invånare, kunder och företag att vara
+
+medskapande i att utforma det goda livet.
+
+ Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i
+
+kontakt med kommunen.
+
+ Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+
+ Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande
+
+medarbetare och ledare.
+
+19
 
 [Tabell 33-1](handlingar.tabeller/33-1.csv)
 
@@ -1992,380 +1760,103 @@ medarbetare och skapa en god arbetsmiljö, men även att nyttja tekniska innovat
 
 <!-- sida 40 -->
 
-26
-pågår
-kontinuerligt
-i Sverige
-och utgör
-ett
-hot mot vårt
-välstånd
-och
-vår
-demokrati.
-Säkerhetspolisen
-konstaterar
-att cyberspionage
-från främmande
-makt
-redan idag
-Digitala
-lösningar
-ökar
-även
-risken
-för
-hot
-mot den digitala
-infrastrukturen.
-klimatet. mängder
-energi
-och denna
-trend
-har
-därför
-visat sig ha
-en starkt
-negativ
-effekt
-på
-”original”
-av digitala
-filer. Men
-blockkedjetransaktioner
-kräver
-idag
-enorma
-(non-fungible
-tokens).
-Innovativ
-blockkedjeteknik
-möjliggör
-att
-köpa
-och sälja
-kraftfulla
-verktyg
-för
-massövervakning.
-En trend som
-växer
-stort
-under
-2021
-är
-NFT
-till
-spridning av
-desinformation
-och
-polariseringar
-i samhället.
-Ny
-teknik
-har
-skapat
-har
-vi t ex sett hur
-internet
-och
-sociala
-medier
-i allt större
-utsträckning
-har bidragit
-Tekniska
-innovationer
-får ofta
-oväntade
-långsiktiga konsekvenser.
-De
-senaste
-åren
-Teknikutvecklingen
-innebär
-inte bara
-stora
-möjligheter
-utan
-även
-stora
-risker.
-förvaltningsövergripande
-samverkan
-att
-öka.
-verksamheter
-ska
-riskera
-kraftigt
-försämrad
-kvalitet kommer
-behovet
-av
-besparingar,
-utan
-tvärtom
-att
-kostnaderna
-fortsätter öka.
-För
-att
-inte
-vissa
-kostnader.
-På kort
-sikt
-är det
-inte troligt
-att teknikutvecklingen
-innebär
-ekonomiska
-digitaliseringen,
-men
-det ständigt
-ökande
-behovet av
-IT-system
-medför
-höga
-Jämfört
-med andra
-kommuner
-har
-Kungsbacka
-kommit
-långt
-vad
-gäller
-framtidens
-arbete
-kommer
-att
-bedrivas
-hemifrån.
-tillfälliga,
-men många
-av dem
-kan
-antas
-vara permanenta.
-En
-ansenlig
-del av
-huvudsakligen
-på
-distans
-genom
-ett
-digitalt
-arbetssätt.
-Vissa
-omställningar
-är
-kommunikation
-på distans.
-Och
-inom
-flera
-samhällsfunktioner
-sker
-arbetet
-nu
-som
-annars hade
-tagit
-flera år.
-Skolan
-bytte
-t ex mycket
-snabbt
-till
-undervisning
-och
-En
-direkt effekt
-av coronapandemin
-blev
-en snabb digital
-omställning,
-en utveckling
-hälso-
-och sjukvård
-bedrivs.
-hemmet
-i mycket
-större
-utsträckning
-vara
-den plats där
-framtidens
-socialtjänst
-och
-grund
-utifrån data
-som
-samlas
-in via
-sensorer
-i klassrummen.
-Och
-troligen
-kommer
-framtidens
-skola
-skulle
-fysiska
-miljöer
-och
-undervisning
-kunna
-utformas
-på bättre
-Men
-tekniken möjliggör
-även
-högre
-kvalitet
-och större
-anpassning
-för
-olika behov.
-I
-mervärde.
-Inom
-t ex vård
-och
-skola
-kan
-tillgängligheten
-öka.
-kan
-avlasta personalen
-så att
-dessa
-kan
-fokusera
-på situationer
-där
-de
-skapar
-att
-lindra den resursbrist
-som
-råder
-inom
-vissa yrkesgrupper.
-Digitala
-medarbetare
-möjligheter
-till effektiviseringar.
-Förhoppningen
-är att
-digitaliseringen
-ska hjälpa
-till
-Inom
-många kommunala
-verksamhetsområden
-kommer
-teknikutvecklingen
-att
-skapa
-tillgängliga
-online
-senast
-2030\.
-digitalisering
-av
-offentlig
-service
-fastslås
-att alla viktiga
-offentliga
-tjänster
-bör
-vara
-förordning
-om dataförvaltning
-i Europa
-och en AI-strategi.
-När
-det
-gäller
-fram
-till 2030. Den
-kommer
-att ge
-upphov
-till många
-initiativ,
-däribland
-en ny
-presenterat
-en strategi
-och vision
-för
-digital
-omställning
-av
-ekonomi
-och
-samhälle
-klimatutmaningar
-som
-återhämtningen
-efter
-pandemin.
-EU-kommissionen
-har
-Inom
-EU ses digitalisering
-som
-en
-central
-pusselbit för
-att klara
-så
-väl
-snabba
-och individanpassade
-lösningar.
-digitala
-och mobila
-tjänster
-ökar
-förväntan
-på att kommuner
-erbjuder
-enkla,
-ännu
-större förändringar.
-Våra
-invånares
-ständigt ökande
-användning
-av
-väntas
-utvecklingen
-av
-artificiell
-intelligens
-och Internet
-of
-Things
-att
-leda till
-Informationsteknik
-genomsyrar
-idag
-hela
-vårt samhälle
-och
-i framtiden
-Tekniken
-förändras
 U!f•
+
+T ekn iken förändras
+
+Inform ationstekn ik genom syrar idag hela vårt sam hälle och i fram tiden
+
+vän tas u tveck lingen av artificiell in telligens och In ternet of Th ings att leda till
+
+ännu större förändringar. V åra invånares ständ ig t ökande användn ing av
+
+d ig itala och m ob ila tjänster ökar förvän tan på att komm uner erb juder enk la,
+
+snabba och ind iv idanpassade lösn ingar.
+
+Inom EU ses d ig italisering som en cen tral pusselb it för att k lara så väl
+
+k lim atu tm an ingar som återhäm tn ingen efter pandem in . EU -komm issionen har
+
+presen terat en strateg i och v ision för d ig ital om ställn ing av ekonom i och sam hälle
+
+fram till 2030 . D en komm er att ge upphov till m ånga in itiativ , därib land en ny
+
+förordn ing om dataförvaltn ing i Europa och en A I-strateg i. N är det gäller
+
+d ig italisering av offen tlig serv ice fastslås att alla v ik tiga offen tliga tjänster bör vara
+
+tillgäng liga on line senast 2030 .
+
+Inom m ånga komm unala verksam hetsom råden komm er tekn iku tveck lingen att skapa
+
+m ö jligheter till effek tiv iseringar. Förhoppn ingen är att d ig italiseringen ska h jälpa till
+
+att lindra den resursbrist som råder inom v issa yrkesgrupper. D ig itala m edarbetare
+
+kan av lasta personalen så att dessa kan fokusera på situationer där de skapar
+
+m ervärde. Inom t ex vård och sko la kan tillgäng ligheten öka.
+
+M en tekn iken m ö jliggör även högre kvalitet och större anpassn ing för o lika behov . I
+
+fram tidens sko la sku lle fysiska m iljöer och underv isn ing kunna u tform as på bättre
+
+grund u tifrån data som sam las in v ia sensorer i k lassrumm en . O ch tro ligen komm er
+
+hemm et i m ycket större u tsträckn ing vara den p lats där fram tidens socialtjänst och
+
+hälso- och sjukvård bedrivs.
+
+En d irek t effek t av coronapandem in b lev en snabb d ig ital om ställn ing , en u tveck ling
+
+som annars hade tag it flera år. Sko lan by tte t ex m ycket snabb t till underv isn ing och
+
+komm un ikation på d istans. O ch inom flera sam hällsfunk tioner sker arbetet nu
+
+huvudsak ligen på d istans genom ett d ig italt arbetssätt. V issa om ställn ingar är
+
+tillfälliga, m en m ånga av dem kan an tas vara perm anen ta. En ansen lig del av
+
+fram tidens arbete komm er att bedrivas hem ifrån .
+
+Jäm fört m ed andra komm uner har K ungsbacka komm it lång t vad gäller
+
+d ig italiseringen , m en det ständ ig t ökande behovet av IT -system m edför höga
+
+kostnader. På kort sik t är det in te tro lig t att tekn iku tveck lingen innebär ekonom iska
+
+besparingar, u tan tvärtom att kostnaderna fortsätter öka. För att in te v issa
+
+verksam heter ska riskera kraftig t försäm rad kvalitet komm er behovet av
+
+förvaltn ingsövergripande sam verkan att öka.
+
+Tekn iku tveck lingen innebär in te bara stora m ö jligheter u tan även stora risker.
+
+Tekn iska innovationer får ofta ovän tade långsik tiga konsekvenser. D e senaste åren
+
+har v i t ex sett hur in ternet och sociala m ed ier i allt större u tsträckn ing har b idrag it
+
+till spridn ing av desinform ation och po lariseringar i sam hället. N y tekn ik har skapat
+
+kraftfu lla verk tyg för m assövervakn ing . En trend som växer stort under 2021 är NFT
+
+(non-fung ib le tokens). Innovativ b lockked jetekn ik m ö jliggör att köpa och sälja
+
+”orig inal” av d ig itala filer. M en b lockked jetransak tioner kräver idag enorm a
+
+m ängder energ i och denna trend har därför v isat sig ha en stark t negativ effek t på
+
+k lim atet.
+
+D ig itala lösn ingar ökar även risken för ho t m o t den d ig itala infrastruk turen .
+
+Säkerhetspo lisen konstaterar att cybersp ionage från främm ande m ak t redan idag
+
+pågår kon tinuerlig t i Sverige och u tgör ett ho t m o t vårt välstånd och vår dem okrati.
+
+26
 
 <!-- sida 41 -->
 
@@ -5002,49 +4493,91 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar kraf-
 tigt varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i • Besparingsmöjligheter, strukturomvandlingar
-olika lokaler. Dessutom förmedlar kommunen olika slags • Volymutökning befintlig plats
-boenden för grupper i samhället som har svårt att få bostad • Expansion nya områden
-på vanligt sätt. Det kan handla om boenden för äldre, per- • Icke lagstyrd verksamhet
-soner med funktionsnedsättning, nyanlända samt socialt • Kvalitets-höjningar befintliga lokaler
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
 utsatta personer. Kommunen både äger och hyr in lokaler
-och boenden.                      Behoven har därefter kostnadsbedömts utifrån nyckeltal
-framtagna av Service avseende både investeringsutgifter
-Kommunfullmäktige har antagit följande lokalpolicy: och driftkostnader.
+och boenden.
+
+Kommunfullmäktige har antagit följande lokalpolicy:
 Kommunen ska genom aktiv lokalförsörjning tillhandahålla och
-bibehålla ändamålsenliga och kostnadseffektiva lokaler över tiden. Nya hyror för lokalinvesteringar samt inhyrda boenden
-budgeteras centralt och nämnden erhåller ram motsva-
-Varje år beslutar nämnderna om bedömt lokalbehov de rande 80 procent av hyran när lokalen är klar att tas i bruk.
-kommande fem åren baserat på befolkningsprognoser och Resterande 20 procent finansieras inom respektive nämnds
-lokalprognoser. Dessa behov sammanställs i en behovslista ram. Ramtilldelning utgår inte för verksamhetsanpass-
-som bearbetas vidare till en lokalplan som ska vara möjlig ningar av lokaler.
+bibehålla ändamålsenliga och kostnadseffektiva lokaler över tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs i en behovslista
+som bearbetas vidare till en lokalplan som ska vara möjlig
 att genomföra ekonomiskt, tidsmässigt och fysiskt. Lokal-
-planen utgör del av kommunens flerårsbudget. Investeringsbudget och hyresmedel för lokaler och boen-
-den tillhör kommunstyrelsen och kommunstyrelsen kan
+planen utgör del av kommunens flerårsbudget.
+
 Lokalbehov
-justera mellan olika lokalprojekt under året.
 Nämnderna i Kungsbacka kommun har lämnat in bostads-
-och lokalbehov för perioden 2021–2025. Nämndernas Byggprojekt i Lokalplanen får startas upp om de understi-
-beslutade behov bestod av en sammanfattning av lokal- ger 15 miljoner i investeringsbelopp. För projekt som
-behoven uttryckt i form av volymmått, till exempel antal överstiger 15 miljoner kronor ska igångsättning beslutas av
-platser, antal elever eller antal förskolebarn. Behoven har kommunstyrelsen. Igångsättningsbeslut krävs även för de
-därefter kostnadsbedömts utifrån nyckeltal framtagna av hyresobjekt som ligger i lokalplanen.
+och lokalbehov för perioden 2021–2025. Nämndernas
+beslutade behov bestod av en sammanfattning av lokal-
+behoven uttryckt i form av volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven har
+därefter kostnadsbedömts utifrån nyckeltal framtagna av
 Service avseende både investeringsutgifter samt driftskost-
-nader. Lokalplanen har sedan beretts utifrån ett plane- I samband med kommunens investering i nya lokaler
-rings- och genomförandeperspektiv samt med utgångs- avsätts 1 procent av byggutgiften till konstnärlig utsmyck-
-punkt i nedanstående politiska prioriteringar. ning. Nämnden för Kultur & Fritid får ansvaret att upp-
-handla och besluta om den konstnärliga utsmyckningen.
-Lokalbehoven har prioriterats och omfördelats enligt den Ett särskilt belopp avsätts som kan fördelas olika mellan
-så kallade fyrstegsmodellen vilket innebär: de lokaler som byggs. Det innebär att det inte alltid blir
-1\. Inte tillgodose behovet alls  1 procent i konstnärlig utsmyckning per lokal utan det
-2\. Leda om ”strömmar” av elever, boende etc. till ledig kan variera mellan olika lokaler men det blir alltid max 1
-kapacitet i befintliga lokaler  procent totalt per år. Gäller bara byggnaderna.
+nader. Lokalplanen har sedan beretts utifrån ett plane-
+rings- och genomförandeperspektiv samt med utgångs-
+punkt i nedanstående politiska prioriteringar.
+
+Lokalbehoven har prioriterats och omfördelats enligt den
+så kallade fyrstegsmodellen vilket innebär:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
 3\. Bygga om- eller till befintliga lokaler
-4\. Bygga nya lokaler             Vid investeringar i infrastruktur (gator och vägar mm)
-samt i de fall kommunen hyr in lokal från extern fastig-
-Lokalbehoven har också kategoriserats i fallande ordning hetsägare får ställning tas till konstnärlig utsmyckning i
-utifrån om behoven avser:         varje enskilt projekt
+4\. Bygga nya lokaler
+
+Lokalbehoven har också kategoriserats i fallande ordning
+utifrån om behoven avser:
+
 44 Kommunbudget 2021 och plan 2022–2023
+
+• Besparingsmöjligheter, strukturomvandlingar
+• Volymutökning befintlig plats
+• Expansion nya områden
+• Icke lagstyrd verksamhet
+• Kvalitets-höjningar befintliga lokaler
+
+Behoven har därefter kostnadsbedömts utifrån nyckeltal
+framtagna av Service avseende både investeringsutgifter
+och driftkostnader.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Byggprojekt i Lokalplanen får startas upp om de understi-
+ger 15 miljoner i investeringsbelopp. För projekt som
+överstiger 15 miljoner kronor ska igångsättning beslutas av
+kommunstyrelsen. Igångsättningsbeslut krävs även för de
+hyresobjekt som ligger i lokalplanen.
+
+I samband med kommunens investering i nya lokaler
+avsätts 1 procent av byggutgiften till konstnärlig utsmyck-
+ning. Nämnden för Kultur & Fritid får ansvaret att upp-
+handla och besluta om den konstnärliga utsmyckningen.
+Ett särskilt belopp avsätts som kan fördelas olika mellan
+de lokaler som byggs. Det innebär att det inte alltid blir
+1 procent i konstnärlig utsmyckning per lokal utan det
+kan variera mellan olika lokaler men det blir alltid max 1
+procent totalt per år. Gäller bara byggnaderna.
+
+Vid investeringar i infrastruktur (gator och vägar mm)
+samt i de fall kommunen hyr in lokal från extern fastig-
+hetsägare får ställning tas till konstnärlig utsmyckning i
+varje enskilt projekt
 
 <!-- sida 102 -->
 
@@ -5113,85 +4646,106 @@ Kommunens behov av utbyggnad av förskolor beskrivs nedan, uttryckt i antal barn
 fungera som skollokaler. Kommunens behov om utbyggnad av förskolor uttrycks nedan i antalet barn.
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
-221  Gällinge förskola       40
+221 Gällinge förskola       40
 224 a Gårdskulla förskola avveckling -40
 224 b Liljans förskola avveckling -40
-226  Anneberg förskola                          120
-230  Björkris utbildningslokaler etapp 1 400
-232  Trollelyckan förskola avveckling -40
-233  Frillesås förskola               160
-234  Klockaregårdens förskola avveckling -160
-231  Björkris utbildningslokaler etapp 2       400
-306  Norra Bräckaskolan avetablering -220
-310  Frillesåsskolan om- och nybyggnad 290
-inklusive bibliotek
-334  Frillesås paviljonger avveckling x
-324  Varlaskolan tillbyggnad     300
-329  Toråsskolan tillf. paviljong avveckling -100
+226 Anneberg förskola                          120
+230 Björkris utbildningslokaler etapp 1 400
+232 Trollelyckan förskola avveckling -40
 
-332  Björkrisskola paviljong avveckling -100
-333  Åsaskolan matsal och klassrum x
-128  Varlaskolan fullmåtts idrottshall x
-136  Björkris fullmåtts idrottshall    x
-Summa antal förskolebarn   70    160  260   0  520
+233 Frillesås förskola               160
+234 Klockaregårdens förskola avveckling -160
+231 Björkris utbildningslokaler etapp 2       400
+306 Norra Bräckaskolan avetablering -220
+310 Frillesåsskolan om- och nybyggnad 290
+inklusive bibliotek
+334 Frillesås paviljonger avveckling x
+324 Varlaskolan tillbyggnad     300
+329 Toråsskolan tillf. paviljong avveckling -100
+332 Björkrisskola paviljong avveckling -100
+333 Åsaskolan matsal och klassrum x
+128 Varlaskolan fullmåtts idrottshall x
+136 Björkris fullmåtts idrottshall    x
+Summa antal förskolebarn  70    160  260   0  520
 
 Noter
-230 Björkris utbildningslokaler etapp 1
+
 221 Gällinge förskola
-Området är föremål för exploatering av nytt bostadsområde.
 Området är föremål för exploatering av nya bostäder. Dess-
-Nya utbildningsplatser måste därför byggas.
 utom behöver förskolan täcka behovet av befintliga försko-
 lebarn som idag använder skollokaler men på sikt ökar över
-231 Björkris utbildningslokaler etapp 2
 elevantalet och då behövs skollokalerna för skolverksamhet.
-Området är föremål för exploatering av nytt bostadsområde.
 Åtgärder behöver göras i befintligt kök för att klara av ökad
-Nya utbildningsplatser måste därför byggas.
 kapacitet.
-232 Trollelyckan förskola avveckling
 224 a Gårdskulla förskola avveckling
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
 Förskola i centrala Kungsbacka måste ersättas på grund av
-lokaler samt att den tekniska livslängden har nått sitt mål.
 den tekniska livslängden har nått sitt mål.
-233 Frillesås förskola
 224 b Liljans förskola avveckling
-Ny förskola byggs för att ersätta Klockaregårdens paviljong
 Förskola i centrala Kungsbacka måste ersättas på grund av
-förskola.
 att tillfälligt bygglov.
-234 Klockaregårdens förskola avveckling
+
 226 Anneberg förskola
-Paviljong avvecklas när ny förskola i Frillesås står färdig
 Området är föremål för exploatering av nya bostäder. Nya
 förskolelokaler måste därför byggas. Samordning sker med
-306 Norra Bräckaskolan avetablering
 projekt 807 Anneberg vård- och omsorgsboende.
+
+46 Kommunbudget 2021 och plan 2022–2023
+
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+231 Björkris utbildningslokaler etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt mål.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong
+förskola.
+
+234 Klockaregårdens förskola avveckling
+Paviljong avvecklas när ny förskola i Frillesås står färdig
+306 Norra Bräckaskolan avetablering
 I samband med driftsättning av nya Bräckaskolan kommer
 de tillfälliga skollokalerna att avvecklas.
-46 Kommunbudget 2021 och plan 2022–2023
 
 <!-- sida 104 -->
 
+310 Frillesåsskolan om- och nybyggnad inklusive bibliotek
+I takt med att befolkningen i Frillesås ökar blir det allt mer
+aktuellt att möta utvecklingen med utökning av och mer
+ändamålsenliga skollokaler. Som en konsekvens av ny- och
+ombyggnadsprojektet kommer befintliga tillfälliga lokaler
+att kunna avvecklas.
+324 Varlaskolan tillbyggnad
+Om- och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
+idrottshall
+329 Toråsskolan tillfälliga paviljong - avveckling
+Paviljong måste ersättas på grund av att tillfälligt bygglov
+upphör.
+
 LOKALPLAN
 
-310 Frillesåsskolan om- och nybyggnad inklusive bibliotek 332 Björkris skola paviljong avvecklas
-I takt med att befolkningen i Frillesås ökar blir det allt mer I samband med ny skola kan en paviljong i Björkris lämnas.
-aktuellt att möta utvecklingen med utökning av och mer
-ändamålsenliga skollokaler. Som en konsekvens av ny- och 333 Åsaskolan matsal och klassrum
-ombyggnadsprojektet kommer befintliga tillfälliga lokaler Behov att öka antalet platser i matsal och klassrum för att
-att kunna avvecklas.              skapa god arbetsmiljö för pedagoger och elever.
-324 Varlaskolan tillbyggnad       334 Frillesåsskolans paviljonger avveckling
-Om- och tillbyggnation av skola för att ersätta befintliga När ny skolbyggnad står färdig så avvecklas 4 st paviljonger.
-specialsalar som nått sin tekniska livslängd och ta hand
-om ökat elevantal inom de centrala delarna av Kungsbacka. 128 Varlaskolan fullmåtts idrottshall
-Samordning sker med projekt 128 Varlaskolan fullmåtts Varlaskolans idrottshall behöver ersättas med en ny full-
-idrottshall                       måttshall som tillgodoser skolverksamhetens och förenings-
+332 Björkris skola paviljong avvecklas
+I samband med ny skola kan en paviljong i Björkris lämnas.
+
+333 Åsaskolan matsal och klassrum
+Behov att öka antalet platser i matsal och klassrum för att
+skapa god arbetsmiljö för pedagoger och elever.
+334 Frillesåsskolans paviljonger avveckling
+När ny skolbyggnad står färdig så avvecklas 4 st paviljonger.
+
+128 Varlaskolan fullmåtts idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
 livets behov. Samordning sker med projekt 324 Varlaskolans
-329 Toråsskolan tillfälliga paviljong - avveckling tillbyggnad.
-Paviljong måste ersättas på grund av att tillfälligt bygglov
-upphör.                           136 Björkris fullmåtts idrottshall
+tillbyggnad.
+136 Björkris fullmåtts idrottshall
 I samband med en ny skola planeras ny fullmåtts idrotts-
 hall som tillgodoser skolverksamhetens och föreningslivets
 behov. Samordning sker med projekt 331 Björkris skola.
@@ -5220,14 +4774,15 @@ gruppbostad och 6 st som servicebostad eller att alla 12 nyttjas som servicebost
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
 405 BMSS LSS Vallda          12
-413 Gruppbostad barn                  4
+413 Gruppbostad barn                   4
 414 BMSS Anneberg                          12
 415 BMSS Kolla               14
 502 Servicebostad Söderstaden 10
 504 Servicebostad Björkris                 10
 505 Särskild bostadsförmedling (SBF) 10 10 10 10 10
 507 BMSS                              12
-508 BMSS                                  20
+508 BMSS                                   20
+
 509 BMSS                                       20
 Summa boendeplatser och lägenheter 46 10 26 52 30
 
@@ -5244,17 +4799,27 @@ Utformning av boende med särskild service kan vara att
 414 BMSS Anneberg                 man bygger 12 st bostäder som antingen kan nyttjas som 6
 Behov av gruppbostäder planeras in i kommande nya st gruppbostad och 6 st som servicebostad eller att alla 12
 område.                           nyttjas som servicebostad.
-415 Gruppbostad Kolla             508 BMSS
-Behov av gruppbostäder planeras in i kommande nya Utformning av boende med särskild service kan vara att
-område.                           man bygger 12 stycken bostäder som antingen kan nyttjas
-som 6 st gruppbostad och 6 st som servicebostad eller att
-502 Servicebostad Söderstaden     alla 12 nyttjas som servicebostad.
+
+415 Gruppbostad Kolla
+Behov av gruppbostäder planeras in i kommande nya
+område.
+502 Servicebostad Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Servicebostad Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+508 BMSS
+Utformning av boende med särskild service kan vara att
+man bygger 12 stycken bostäder som antingen kan nyttjas
+som 6 st gruppbostad och 6 st som servicebostad eller att
+alla 12 nyttjas som servicebostad.
 509 BMSS
-504 Servicebostad Björkris        Utformning av boende med särskild service kan vara att
-Servicebostäder med gemensam lokal för personalstöd man bygger 12 st bostäder som antingen kan nyttjas som 6
+Utformning av boende med särskild service kan vara att
+man bygger 12 st bostäder som antingen kan nyttjas som 6
 st gruppbostad och 6 st som servicebostad eller att alla 12
 nyttjas som servicebostad.
+
 48 Kommunbudget 2021 och plan 2022–2023
 
 <!-- sida 106 -->
@@ -5268,47 +4833,67 @@ omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende    -26       40
+805 Ekhaga vård- och omsorgsboende   -26       40
 806 Särö vård- och omsorgsboende 80
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården                     -48
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården                    -48
+
 809 Hemtjänstlokal                x
-Summa boendeplatser          80  120  -74  80   40
+Summa boendeplatser         80  120  -74  80   40
 
 Noter
+
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård- och omsorgsboende med 120 lägen-
+heter i kommunen. Planeras för en hemtjänstlokal i boendet,
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
+Modernisering befintligt eller nybyggnad av boendet.
+Avveckling av 26 lägenheter samt nybyggnation av 40 nya
+lägenheter.
+
 806 Särö vård- och omsorgsboende
 Planering av nytt vård- och omsorgsboende med 80 lägen-
-803 Björkris vård- och omsorgsboende heter i Särö. I samband med nybyggnationen avvecklas
-Planering av nytt vård- och omsorgsboende med 120 lägen- Bukärrsgårdens vård-och omsorgsboende i Särö.
-heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      807 Anneberg vård- och omsorgsboende
+heter i Särö. I samband med nybyggnationen avvecklas
+Bukärrsgårdens vård-och omsorgsboende i Särö.
+807 Anneberg vård- och omsorgsboende
 Planering av nytt vård- och omsorgsboende med 80 lägen-
-805 Ekhaga vård- och omsorgsboende heter i kommunen.
-Modernisering befintligt eller nybyggnad av boendet.
-Avveckling av 26 lägenheter samt nybyggnation av 40 nya 808 Bukärrsgården
-lägenheter.                       Planeras att avvecklas.
+heter i kommunen.
+
+808 Bukärrsgården
+Planeras att avvecklas.
 
 Övrigt
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
-1202 Tillfälliga lokaler      x   x    x    x   x
+1202 Tillfälliga lokaler     x    x   x    x    x
 1404 Parkeringshus kvarter Aranäs x
 1405 Ersättningslokaler för tillfälliga bygglov x x x x x
 1406 Klovstens omlastningsstation x
 1408 Skyddsrum ersättning simhallen x
 1409 Administrativa lokaler etapp 1 x
-1410 Engångskostnader         x
+1410 Engångskostnader        x
 
 Noter
-1406 Klovstens omlastningscentral
-1202 Tillfälliga lokaler          Vid utbyggnad av Klovstens område behöver omlastnings-
-Medel för tillfälliga lokaler eller enskilda lösningar på kort station ny plats, lokalisering pågår.
+
+1202 Tillfälliga lokaler
+Medel för tillfälliga lokaler eller enskilda lösningar på kort
 sikt.
-1408 Skyddsrum ersättning simhallen
 1404 Parkeringshus kvarter Aranäs
-Parkeringshus behöver byggas för att kunna utveckla 1409 Administrativa lokaler etapp 1
-Söderstaden/Centrum med bland annat fler bostäder. Avveckling delar av administrativa lokaler.
-1405 Ersättningslokaler för lokaler med tillfälliga bygglov 1410 Engångskostnader
+Parkeringshus behöver byggas för att kunna utveckla
+Söderstaden/Centrum med bland annat fler bostäder.
+
+1405 Ersättningslokaler för lokaler med tillfälliga bygglov
+
+1406 Klovstens omlastningscentral
+Vid utbyggnad av Klovstens område behöver omlastnings-
+station ny plats, lokalisering pågår.
+1408 Skyddsrum ersättning simhallen
+
+1409 Administrativa lokaler etapp 1
+Avveckling delar av administrativa lokaler.
+
+1410 Engångskostnader
 Kommunbudget 2021 och plan 2022–2023 49
 
 <!-- sida 107 -->
@@ -5486,49 +5071,91 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar kraf-
 tigt varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i • Besparingsmöjligheter, strukturomvandlingar
-olika lokaler. Dessutom förmedlar kommunen olika slags • Volymutökning befintlig plats
-boenden för grupper i samhället som har svårt att få bostad • Expansion nya områden
-på vanligt sätt. Det kan handla om boenden för äldre, per- • Icke lagstyrd verksamhet
-soner med funktionsnedsättning, nyanlända samt socialt • Kvalitets-höjningar befintliga lokaler
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
 utsatta personer. Kommunen både äger och hyr in lokaler
-och boenden.                      Behoven har därefter kostnadsbedömts utifrån nyckeltal
-framtagna av Service avseende både investeringsutgifter
-Kommunfullmäktige har antagit följande lokalpolicy: och driftkostnader.
+och boenden.
+
+Kommunfullmäktige har antagit följande lokalpolicy:
 Kommunen ska genom aktiv lokalförsörjning tillhandahålla och
-bibehålla ändamålsenliga och kostnadseffektiva lokaler över tiden. Nya hyror för lokalinvesteringar samt inhyrda boenden
-budgeteras centralt och nämnden erhåller ram motsva-
-Varje år beslutar nämnderna om bedömt lokalbehov de rande 80 procent av hyran när lokalen är klar att tas i bruk.
-kommande fem åren baserat på befolkningsprognoser och Resterande 20 procent finansieras inom respektive nämnds
-lokalprognoser. Dessa behov sammanställs i en behovslista ram. Ramtilldelning utgår inte för verksamhetsanpass-
-som bearbetas vidare till en lokalplan som ska vara möjlig ningar av lokaler.
+bibehålla ändamålsenliga och kostnadseffektiva lokaler över tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs i en behovslista
+som bearbetas vidare till en lokalplan som ska vara möjlig
 att genomföra ekonomiskt, tidsmässigt och fysiskt. Lokal-
-planen utgör del av kommunens flerårsbudget. Investeringsbudget och hyresmedel för lokaler och boen-
-den tillhör kommunstyrelsen och kommunstyrelsen kan
+planen utgör del av kommunens flerårsbudget.
+
 Lokalbehov
-justera mellan olika lokalprojekt under året.
 Nämnderna i Kungsbacka kommun har lämnat in bostads-
-och lokalbehov för perioden 2021–2025. Nämndernas Byggprojekt i Lokalplanen får startas upp om de understi-
-beslutade behov bestod av en sammanfattning av lokal- ger 15 miljoner i investeringsbelopp. För projekt som
-behoven uttryckt i form av volymmått, till exempel antal överstiger 15 miljoner kronor ska igångsättning beslutas av
-platser, antal elever eller antal förskolebarn. Behoven har kommunstyrelsen. Igångsättningsbeslut krävs även för de
-därefter kostnadsbedömts utifrån nyckeltal framtagna av hyresobjekt som ligger i lokalplanen.
+och lokalbehov för perioden 2021–2025. Nämndernas
+beslutade behov bestod av en sammanfattning av lokal-
+behoven uttryckt i form av volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven har
+därefter kostnadsbedömts utifrån nyckeltal framtagna av
 Service avseende både investeringsutgifter samt driftskost-
-nader. Lokalplanen har sedan beretts utifrån ett plane- I samband med kommunens investering i nya lokaler
-rings- och genomförandeperspektiv samt med utgångs- avsätts 1 procent av byggutgiften till konstnärlig utsmyck-
-punkt i nedanstående politiska prioriteringar. ning. Nämnden för Kultur & Fritid får ansvaret att upp-
-handla och besluta om den konstnärliga utsmyckningen.
-Lokalbehoven har prioriterats och omfördelats enligt den Ett särskilt belopp avsätts som kan fördelas olika mellan
-så kallade fyrstegsmodellen vilket innebär: de lokaler som byggs. Det innebär att det inte alltid blir
-1\. Inte tillgodose behovet alls  1 procent i konstnärlig utsmyckning per lokal utan det
-2\. Leda om ”strömmar” av elever, boende etc. till ledig kan variera mellan olika lokaler men det blir alltid max 1
-kapacitet i befintliga lokaler  procent totalt per år. Gäller bara byggnaderna.
+nader. Lokalplanen har sedan beretts utifrån ett plane-
+rings- och genomförandeperspektiv samt med utgångs-
+punkt i nedanstående politiska prioriteringar.
+
+Lokalbehoven har prioriterats och omfördelats enligt den
+så kallade fyrstegsmodellen vilket innebär:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
 3\. Bygga om- eller till befintliga lokaler
-4\. Bygga nya lokaler             Vid investeringar i infrastruktur (gator och vägar mm)
-samt i de fall kommunen hyr in lokal från extern fastig-
-Lokalbehoven har också kategoriserats i fallande ordning hetsägare får ställning tas till konstnärlig utsmyckning i
-utifrån om behoven avser:         varje enskilt projekt
+4\. Bygga nya lokaler
+
+Lokalbehoven har också kategoriserats i fallande ordning
+utifrån om behoven avser:
+
 44 Kommunbudget 2021 och plan 2022–2023
+
+• Besparingsmöjligheter, strukturomvandlingar
+• Volymutökning befintlig plats
+• Expansion nya områden
+• Icke lagstyrd verksamhet
+• Kvalitets-höjningar befintliga lokaler
+
+Behoven har därefter kostnadsbedömts utifrån nyckeltal
+framtagna av Service avseende både investeringsutgifter
+och driftkostnader.
+
+Nya hyror för lokalinvesteringar samt inhyrda boenden
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
+
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Byggprojekt i Lokalplanen får startas upp om de understi-
+ger 15 miljoner i investeringsbelopp. För projekt som
+överstiger 15 miljoner kronor ska igångsättning beslutas av
+kommunstyrelsen. Igångsättningsbeslut krävs även för de
+hyresobjekt som ligger i lokalplanen.
+
+I samband med kommunens investering i nya lokaler
+avsätts 1 procent av byggutgiften till konstnärlig utsmyck-
+ning. Nämnden för Kultur & Fritid får ansvaret att upp-
+handla och besluta om den konstnärliga utsmyckningen.
+Ett särskilt belopp avsätts som kan fördelas olika mellan
+de lokaler som byggs. Det innebär att det inte alltid blir
+1 procent i konstnärlig utsmyckning per lokal utan det
+kan variera mellan olika lokaler men det blir alltid max 1
+procent totalt per år. Gäller bara byggnaderna.
+
+Vid investeringar i infrastruktur (gator och vägar mm)
+samt i de fall kommunen hyr in lokal från extern fastig-
+hetsägare får ställning tas till konstnärlig utsmyckning i
+varje enskilt projekt
 
 <!-- sida 112 -->
 
@@ -5597,85 +5224,106 @@ Kommunens behov av utbyggnad av förskolor beskrivs nedan, uttryckt i antal barn
 fungera som skollokaler. Kommunens behov om utbyggnad av förskolor uttrycks nedan i antalet barn.
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
-221  Gällinge förskola       40
+221 Gällinge förskola       40
 224 a Gårdskulla förskola avveckling -40
 224 b Liljans förskola avveckling -40
-226  Anneberg förskola                          120
-230  Björkris utbildningslokaler etapp 1 400
-232  Trollelyckan förskola avveckling -40
-233  Frillesås förskola               160
-234  Klockaregårdens förskola avveckling -160
-231  Björkris utbildningslokaler etapp 2       400
-306  Norra Bräckaskolan avetablering -220
-310  Frillesåsskolan om- och nybyggnad 290
-inklusive bibliotek
-334  Frillesås paviljonger avveckling x
-324  Varlaskolan tillbyggnad     300
-329  Toråsskolan tillf. paviljong avveckling -100
+226 Anneberg förskola                          120
+230 Björkris utbildningslokaler etapp 1 400
+232 Trollelyckan förskola avveckling -40
 
-332  Björkrisskola paviljong avveckling -100
-333  Åsaskolan matsal och klassrum x
-128  Varlaskolan fullmåtts idrottshall x
-136  Björkris fullmåtts idrottshall    x
-Summa antal förskolebarn   70    160  260   0  520
+233 Frillesås förskola               160
+234 Klockaregårdens förskola avveckling -160
+231 Björkris utbildningslokaler etapp 2       400
+306 Norra Bräckaskolan avetablering -220
+310 Frillesåsskolan om- och nybyggnad 290
+inklusive bibliotek
+334 Frillesås paviljonger avveckling x
+324 Varlaskolan tillbyggnad     300
+329 Toråsskolan tillf. paviljong avveckling -100
+332 Björkrisskola paviljong avveckling -100
+333 Åsaskolan matsal och klassrum x
+128 Varlaskolan fullmåtts idrottshall x
+136 Björkris fullmåtts idrottshall    x
+Summa antal förskolebarn  70    160  260   0  520
 
 Noter
-230 Björkris utbildningslokaler etapp 1
+
 221 Gällinge förskola
-Området är föremål för exploatering av nytt bostadsområde.
 Området är föremål för exploatering av nya bostäder. Dess-
-Nya utbildningsplatser måste därför byggas.
 utom behöver förskolan täcka behovet av befintliga försko-
 lebarn som idag använder skollokaler men på sikt ökar över
-231 Björkris utbildningslokaler etapp 2
 elevantalet och då behövs skollokalerna för skolverksamhet.
-Området är föremål för exploatering av nytt bostadsområde.
 Åtgärder behöver göras i befintligt kök för att klara av ökad
-Nya utbildningsplatser måste därför byggas.
 kapacitet.
-232 Trollelyckan förskola avveckling
 224 a Gårdskulla förskola avveckling
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
 Förskola i centrala Kungsbacka måste ersättas på grund av
-lokaler samt att den tekniska livslängden har nått sitt mål.
 den tekniska livslängden har nått sitt mål.
-233 Frillesås förskola
 224 b Liljans förskola avveckling
-Ny förskola byggs för att ersätta Klockaregårdens paviljong
 Förskola i centrala Kungsbacka måste ersättas på grund av
-förskola.
 att tillfälligt bygglov.
-234 Klockaregårdens förskola avveckling
+
 226 Anneberg förskola
-Paviljong avvecklas när ny förskola i Frillesås står färdig
 Området är föremål för exploatering av nya bostäder. Nya
 förskolelokaler måste därför byggas. Samordning sker med
-306 Norra Bräckaskolan avetablering
 projekt 807 Anneberg vård- och omsorgsboende.
+
+46 Kommunbudget 2021 och plan 2022–2023
+
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+231 Björkris utbildningslokaler etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt mål.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong
+förskola.
+
+234 Klockaregårdens förskola avveckling
+Paviljong avvecklas när ny förskola i Frillesås står färdig
+306 Norra Bräckaskolan avetablering
 I samband med driftsättning av nya Bräckaskolan kommer
 de tillfälliga skollokalerna att avvecklas.
-46 Kommunbudget 2021 och plan 2022–2023
 
 <!-- sida 114 -->
 
+310 Frillesåsskolan om- och nybyggnad inklusive bibliotek
+I takt med att befolkningen i Frillesås ökar blir det allt mer
+aktuellt att möta utvecklingen med utökning av och mer
+ändamålsenliga skollokaler. Som en konsekvens av ny- och
+ombyggnadsprojektet kommer befintliga tillfälliga lokaler
+att kunna avvecklas.
+324 Varlaskolan tillbyggnad
+Om- och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
+idrottshall
+329 Toråsskolan tillfälliga paviljong - avveckling
+Paviljong måste ersättas på grund av att tillfälligt bygglov
+upphör.
+
 LOKALPLAN
 
-310 Frillesåsskolan om- och nybyggnad inklusive bibliotek 332 Björkris skola paviljong avvecklas
-I takt med att befolkningen i Frillesås ökar blir det allt mer I samband med ny skola kan en paviljong i Björkris lämnas.
-aktuellt att möta utvecklingen med utökning av och mer
-ändamålsenliga skollokaler. Som en konsekvens av ny- och 333 Åsaskolan matsal och klassrum
-ombyggnadsprojektet kommer befintliga tillfälliga lokaler Behov att öka antalet platser i matsal och klassrum för att
-att kunna avvecklas.              skapa god arbetsmiljö för pedagoger och elever.
-324 Varlaskolan tillbyggnad       334 Frillesåsskolans paviljonger avveckling
-Om- och tillbyggnation av skola för att ersätta befintliga När ny skolbyggnad står färdig så avvecklas 4 st paviljonger.
-specialsalar som nått sin tekniska livslängd och ta hand
-om ökat elevantal inom de centrala delarna av Kungsbacka. 128 Varlaskolan fullmåtts idrottshall
-Samordning sker med projekt 128 Varlaskolan fullmåtts Varlaskolans idrottshall behöver ersättas med en ny full-
-idrottshall                       måttshall som tillgodoser skolverksamhetens och förenings-
+332 Björkris skola paviljong avvecklas
+I samband med ny skola kan en paviljong i Björkris lämnas.
+
+333 Åsaskolan matsal och klassrum
+Behov att öka antalet platser i matsal och klassrum för att
+skapa god arbetsmiljö för pedagoger och elever.
+334 Frillesåsskolans paviljonger avveckling
+När ny skolbyggnad står färdig så avvecklas 4 st paviljonger.
+
+128 Varlaskolan fullmåtts idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
 livets behov. Samordning sker med projekt 324 Varlaskolans
-329 Toråsskolan tillfälliga paviljong - avveckling tillbyggnad.
-Paviljong måste ersättas på grund av att tillfälligt bygglov
-upphör.                           136 Björkris fullmåtts idrottshall
+tillbyggnad.
+136 Björkris fullmåtts idrottshall
 I samband med en ny skola planeras ny fullmåtts idrotts-
 hall som tillgodoser skolverksamhetens och föreningslivets
 behov. Samordning sker med projekt 331 Björkris skola.
@@ -5704,14 +5352,15 @@ gruppbostad och 6 st som servicebostad eller att alla 12 nyttjas som servicebost
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
 405 BMSS LSS Vallda          12
-413 Gruppbostad barn                  4
+413 Gruppbostad barn                   4
 414 BMSS Anneberg                          12
 415 BMSS Kolla               14
 502 Servicebostad Söderstaden 10
 504 Servicebostad Björkris                 10
 505 Särskild bostadsförmedling (SBF) 10 10 10 10 10
 507 BMSS                              12
-508 BMSS                                  20
+508 BMSS                                   20
+
 509 BMSS                                       20
 Summa boendeplatser och lägenheter 46 10 26 52 30
 
@@ -5728,17 +5377,27 @@ Utformning av boende med särskild service kan vara att
 414 BMSS Anneberg                 man bygger 12 st bostäder som antingen kan nyttjas som 6
 Behov av gruppbostäder planeras in i kommande nya st gruppbostad och 6 st som servicebostad eller att alla 12
 område.                           nyttjas som servicebostad.
-415 Gruppbostad Kolla             508 BMSS
-Behov av gruppbostäder planeras in i kommande nya Utformning av boende med särskild service kan vara att
-område.                           man bygger 12 stycken bostäder som antingen kan nyttjas
-som 6 st gruppbostad och 6 st som servicebostad eller att
-502 Servicebostad Söderstaden     alla 12 nyttjas som servicebostad.
+
+415 Gruppbostad Kolla
+Behov av gruppbostäder planeras in i kommande nya
+område.
+502 Servicebostad Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Servicebostad Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+508 BMSS
+Utformning av boende med särskild service kan vara att
+man bygger 12 stycken bostäder som antingen kan nyttjas
+som 6 st gruppbostad och 6 st som servicebostad eller att
+alla 12 nyttjas som servicebostad.
 509 BMSS
-504 Servicebostad Björkris        Utformning av boende med särskild service kan vara att
-Servicebostäder med gemensam lokal för personalstöd man bygger 12 st bostäder som antingen kan nyttjas som 6
+Utformning av boende med särskild service kan vara att
+man bygger 12 st bostäder som antingen kan nyttjas som 6
 st gruppbostad och 6 st som servicebostad eller att alla 12
 nyttjas som servicebostad.
+
 48 Kommunbudget 2021 och plan 2022–2023
 
 <!-- sida 116 -->
@@ -5752,47 +5411,67 @@ omsorgsboende uttrycks nedan i form av antal platser.
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende    -26       40
+805 Ekhaga vård- och omsorgsboende   -26       40
 806 Särö vård- och omsorgsboende 80
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården                     -48
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården                    -48
+
 809 Hemtjänstlokal                x
-Summa boendeplatser          80  120  -74  80   40
+Summa boendeplatser         80  120  -74  80   40
 
 Noter
+
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård- och omsorgsboende med 120 lägen-
+heter i kommunen. Planeras för en hemtjänstlokal i boendet,
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
+Modernisering befintligt eller nybyggnad av boendet.
+Avveckling av 26 lägenheter samt nybyggnation av 40 nya
+lägenheter.
+
 806 Särö vård- och omsorgsboende
 Planering av nytt vård- och omsorgsboende med 80 lägen-
-803 Björkris vård- och omsorgsboende heter i Särö. I samband med nybyggnationen avvecklas
-Planering av nytt vård- och omsorgsboende med 120 lägen- Bukärrsgårdens vård-och omsorgsboende i Särö.
-heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      807 Anneberg vård- och omsorgsboende
+heter i Särö. I samband med nybyggnationen avvecklas
+Bukärrsgårdens vård-och omsorgsboende i Särö.
+807 Anneberg vård- och omsorgsboende
 Planering av nytt vård- och omsorgsboende med 80 lägen-
-805 Ekhaga vård- och omsorgsboende heter i kommunen.
-Modernisering befintligt eller nybyggnad av boendet.
-Avveckling av 26 lägenheter samt nybyggnation av 40 nya 808 Bukärrsgården
-lägenheter.                       Planeras att avvecklas.
+heter i kommunen.
+
+808 Bukärrsgården
+Planeras att avvecklas.
 
 Övrigt
 
 Lokaltyp och beskrivning 2021 2022 2023 2024 2025
-1202 Tillfälliga lokaler      x   x    x    x   x
+1202 Tillfälliga lokaler     x    x   x    x    x
 1404 Parkeringshus kvarter Aranäs x
 1405 Ersättningslokaler för tillfälliga bygglov x x x x x
 1406 Klovstens omlastningsstation x
 1408 Skyddsrum ersättning simhallen x
 1409 Administrativa lokaler etapp 1 x
-1410 Engångskostnader         x
+1410 Engångskostnader        x
 
 Noter
-1406 Klovstens omlastningscentral
-1202 Tillfälliga lokaler          Vid utbyggnad av Klovstens område behöver omlastnings-
-Medel för tillfälliga lokaler eller enskilda lösningar på kort station ny plats, lokalisering pågår.
+
+1202 Tillfälliga lokaler
+Medel för tillfälliga lokaler eller enskilda lösningar på kort
 sikt.
-1408 Skyddsrum ersättning simhallen
 1404 Parkeringshus kvarter Aranäs
-Parkeringshus behöver byggas för att kunna utveckla 1409 Administrativa lokaler etapp 1
-Söderstaden/Centrum med bland annat fler bostäder. Avveckling delar av administrativa lokaler.
-1405 Ersättningslokaler för lokaler med tillfälliga bygglov 1410 Engångskostnader
+Parkeringshus behöver byggas för att kunna utveckla
+Söderstaden/Centrum med bland annat fler bostäder.
+
+1405 Ersättningslokaler för lokaler med tillfälliga bygglov
+
+1406 Klovstens omlastningscentral
+Vid utbyggnad av Klovstens område behöver omlastnings-
+station ny plats, lokalisering pågår.
+1408 Skyddsrum ersättning simhallen
+
+1409 Administrativa lokaler etapp 1
+Avveckling delar av administrativa lokaler.
+
+1410 Engångskostnader
 Kommunbudget 2021 och plan 2022–2023 49
 
 <!-- sida 117 -->
@@ -10361,13 +10040,10 @@ Sign
 
 Bilaga A
 
-i il LI | d i 7 I ye
-IH Hog | i | Ia
 ' Lu fa NA Oka IT ONDA
 Programkarta Bostadskvarter, småhus i upp till tre väningar.
 Teckenförklaring" Bostadskvarter, flerbostadshus i upp till sex
 
-LL Jr steg
 Caprtetolögsökate (förskola, skola, idrotts-
 
 ll). Byggnader i upp till tré våningar föreslås
@@ -10729,7 +10405,7 @@ därför, för utbyggnaden av allmän plats inom och i anslutning till
 Exploateringsområdet, erlägga exploateringsbidrag till Kommunen som
 motsvarar den faktiska kostnaden.
 
-7.3  Exploateringsbidraget ska erläggas i takt med genomförande och Bolaget ska
+7.3 — Exploateringsbidraget ska erläggas i takt med genomförande och Bolaget ska
 därmed anses ha erlagt erforderliga gatukostnader med avseende på
 Detaljplanen.
 
@@ -10798,7 +10474,7 @@ utan ersättningsanspråk på motparten.
 
 14\. - Överlåtelse av avtal och fastigheter
 
-14.1 Bolaget äger ej rätt att, utan kommunstyrelsens skriftliga medgivande, överlåta
+14.1 — Bolaget äger ej rätt att, utan kommunstyrelsens skriftliga medgivande, överlåta
 Avtalet på annan.
 
 14.2 — Bolaget är vidare skyldiga att skriftligen meddela Kommunen vid eventuell
@@ -12584,11 +12260,27 @@ Intervjuade funktioner:
 
 <!-- sida 282 -->
 
+Kungsbacka
+
+Kommunfullmäktiges presidium
+
+Revisionsrapport – Granskning av det systematiska
+arbetsmiljöarbetet
+
+Kommunrevisionen har vid sitt möte den 22 mars 2021 antagit bifogad revisionsrapport.
+Granskningens syfte har varit att bedöma om det systematiska arbetsmiljöarbetet bedrivs
 1 (1)
-
+ändamålsenligt, det vill säga i enlighet med lagar, föreskrifter samt kommunfullmäktiges
+mål, riktlinjer och beslut.
 Datum
-
+Rapporten översänds för kännedom.
 2021-03-22
+
+För revisorerna i Kungsbacka kommun
+
+Birgitta Litsegård         Stefan Strömgren
+
+Kommunrevisionens ordförande Vice ordförande kommunrevisionen
 
 Kommunrevision                                               Kungsbacka kommun
 434 81 Kungsbacka
@@ -12598,23 +12290,8 @@ Telefon vx 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-20-01-6002
-,0.1
-v
-001BUK
-mroFinu
-Kungsbacka
-Kommunfullmäktiges presidium
-Revisionsrapport – Granskning av det systematiska
-arbetsmiljöarbetet
-Kommunrevisionen har vid sitt möte den 22 mars 2021 antagit bifogad revisionsrapport.
-Granskningens syfte har varit att bedöma om det systematiska arbetsmiljöarbetet bedrivs
-ändamålsenligt, det vill säga i enlighet med lagar, föreskrifter samt kommunfullmäktiges
-mål, riktlinjer och beslut.
-Rapporten översänds för kännedom.
-För revisorerna i Kungsbacka kommun
-Birgitta Litsegård         Stefan Strömgren
-Kommunrevisionens ordförande Vice ordförande kommunrevisionen
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 283 -->
 
@@ -13504,26 +13181,36 @@ Mål 13: Bekämpa klimatförändringarna
 UPPFÖLJNING OCH INDIKATORER
 
 HALLAND SKA VARA EN MER ATTRAKTIV, INKLUDERANDE OCH KONKURRENSKRAFTIG REGION ÅR 2020 ÄN ÅR 2014
-Mål                       Indikatorer          Följs upp i
+Mål                      Indikatorer           Följs upp i
 Regionförstoring genom utveckling av Restid/turtäthet till Stockholm, Uppföljning till Tillväxtstrategin
 kollektiv- trafik och infrastruktur, såväl Göteborg, Malmö och Helsingborg –
 söderut som norrut. Fortsatt arbete för goda mätpunkt Halmstad och Varberg
 förbindelser med Stockholm
-Utvecklade former för samverkan och            Uppföljning till Tillväxtstrategin
+
+Utvecklade former för samverkan och
 sam- planering mellan kollektivtrafik,
 infrastruktur, samhälls- och
 bebyggelseplanering
-Attraktiva stadsmiljöer med mötesplatser som Deltagande och publik vid ett Uppföljning till Tillväxtstrategin
-främjar företagsamhet, innovationer och urval strategiskt utvalda
-kultur                    arrangemang och mötesplatser.
-Huspriser i Halland
-En koldioxidneutral ekonomi och fossil- Andel förnyelsebar energi, Uppföljning till Tillväxtstrategin
-oberoende transporter     Koldioxid- utsläpp
-KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SAMHÄLLSUTVECKLING
-Mål                       Indikatorer          Följs upp i
+Attraktiva stadsmiljöer med mötesplatser som
+främjar företagsamhet, innovationer och
+kultur
+En koldioxidneutral ekonomi och fossil-
+oberoende transporter
 
+Uppföljning till Tillväxtstrategin
+
+Deltagande och publik vid ett Uppföljning till Tillväxtstrategin
+urval strategiskt utvalda
+arrangemang och mötesplatser.
+Huspriser i Halland
+Andel förnyelsebar energi, Uppföljning till Tillväxtstrategin
+Koldioxid- utsläpp
+
+KOLLEKTIVTRAFIKEN I HALLAND SKA BIDRA TILL HÖG ATTRAKTIVITET OCH EN HÅLLBAR SAMHÄLLSUTVECKLING
+Mål                      Indikatorer           Följs upp i
 Kollektivtrafikens marknadsandel av totalt Resandestatistik Kollektivtrafikplanen
 resande ska vara minst 30% år 2030.
+
 Kollektivtrafiken ska bidra till positiv Skattekraft, Flyttningsöverskott Uppföljning till Tillväxtstrategin
 ekonomisk utveckling genom att bidra till från övriga Sverige till Hallands
 tillväxt genom arbetsmarknadsförstoring län
@@ -17358,77 +17045,94 @@ Föredragande i målet har varit föredragande juristen Lars Elfving.
 
 <!-- sida 390 -->
 
-Sida 1 av 2
-
-www.domstol.se
-50-0202
-• gnilkcevtuslotsmod
-röf
-.dvA
-,tekrevslotsmoD
-va
-tarecudorP
-•
-TP
-\-
-v
-3
-ditednagalkrevÖ
-–
-30-RF
-ednagalkrevö
-röf
-ragninsivnA
 Bilaga 1
+
 lIt"li.i
-SVERIGES     DOMSTOLAR
+
+SVERIGES    DOMSTOLAR
+
 Hur man  överklagar
 FR-03
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-Vill du att beslutet ska ändras i någon del kan ta upp ditt överklagande (läs mer om
-du överklaga. Här får du veta hur det går till. prövningstillstånd längre ner).
-3\. Tala om vilka bevis du vill hänvisa till.
-Förklara vad du vill visa med varje bevis.
+
+Vill du att beslutet ska ändras i någon del kan
+du överklaga. Här får du veta hur det går till.
+
 Överklaga skriftligt inom 3 veckor
-Skicka med skriftliga bevis som inte redan
-Tiden räknas oftast från den dag som du fick finns i målet.
+
+Tiden räknas oftast från den dag som du fick
 del av det skriftliga beslutet. I vissa fall räknas
-tiden i stället från beslutets datum. Det gäller 4. Lämna namn och personnummer eller
-om beslutet avkunnades vid en muntlig organisationsnummer.
+tiden i stället från beslutets datum. Det gäller
+om beslutet avkunnades vid en muntlig
 förhandling, eller om rätten vid förhandlingen
-Lämna aktuella och fullständiga uppgifter
 gav besked om datum för beslutet.
-om var domstolen kan nå dig: postadresser,
-e-postadresser och telefonnummer.
+
 För en part som företräder det allmänna (till
-exempel myndigheter) räknas tiden alltid från Om du har ett ombud, lämna också
-den dag domstolen meddelade beslutet. ombudets kontaktuppgifter.
-Observera att överklagandet måste ha kommit 5. Skicka eller lämna in överklagandet till
-in till domstolen när tiden går ut.  förvaltningsrätten. Du hittar adressen i
-beslutet.
+exempel myndigheter) räknas tiden alltid från
+den dag domstolen meddelade beslutet.
+
+Observera att överklagandet måste ha kommit
+in till domstolen när tiden går ut.
+
 Vilken dag går tiden ut?
-Sista dagen för överklagande är samma veckodag Vad händer sedan?
+Sista dagen för överklagande är samma veckodag
 som tiden börjar räknas. Om du exempelvis fick
-Förvaltningsrätten kontrollerar att överklagan-
 del av beslutet måndagen den 2 mars går tiden ut
-måndagen den 23 mars.             det kommit in i rätt tid. Har det kommit in för
-sent avvisar domstolen överklagandet. Det
+måndagen den 23 mars.
 Om sista dagen infaller på en lördag, söndag eller
-innebär att beslutet gäller.
 helgdag, midsommarafton, julafton eller nyårs-
 afton, räcker det att överklagandet kommer in
-Om överklagandet kommit in i tid, skickar
 nästa vardag.
-förvaltningsrätten överklagandet och alla
-handlingar i målet vidare till kammarrätten.
-Har du tidigare fått brev genom förenklad Så här gör du
-delgivning kan även kammarrätten skicka brev
+
+Så här gör du
+
 1\. Skriv förvaltningsrättens namn och
-på detta sätt.
 målnummer.
+
 2\. Förklara varför du tycker att beslutet ska
 ändras. Tala om vilken ändring du vill ha
 och varför du tycker att kammarrätten ska
+
+ta upp ditt överklagande (läs mer om
+prövningstillstånd längre ner).
+
+3\. Tala om vilka bevis du vill hänvisa till.
+Förklara vad du vill visa med varje bevis.
+Skicka med skriftliga bevis som inte redan
+finns i målet.
+
+4\. Lämna namn och personnummer eller
+organisationsnummer.
+Lämna aktuella och fullständiga uppgifter
+om var domstolen kan nå dig: postadresser,
+e-postadresser och telefonnummer.
+
+Om du har ett ombud, lämna också
+ombudets kontaktuppgifter.
+
+5\. Skicka eller lämna in överklagandet till
+förvaltningsrätten. Du hittar adressen i
+beslutet.
+
+Vad händer sedan?
+Förvaltningsrätten kontrollerar att överklagan-
+det kommit in i rätt tid. Har det kommit in för
+sent avvisar domstolen överklagandet. Det
+innebär att beslutet gäller.
+
+Om överklagandet kommit in i tid, skickar
+förvaltningsrätten överklagandet och alla
+handlingar i målet vidare till kammarrätten.
+
+Har du tidigare fått brev genom förenklad
+delgivning kan även kammarrätten skicka brev
+på detta sätt.
+
+Sida 1 av 2
+
+www.domstol.se
+
+Anvisningar för överklagande FR-03 – Överklagandetid 3 v - PT • Producerat av Domstolsverket, Avd. för domstolsutveckling • 2020-05
 
 <!-- sida 391 -->
 
@@ -21075,7 +20779,6 @@ EU Compliance DoCs © Microsoft 2021
 Överklagande
 
 Beslut: Kommunstyrelsen i Kungsbacka kommuns beslut den 11 december, KS 1130/2020
-Klagande: Ill >: ock com
 Min begäran
 
 Jag begär att kammarrätten förklarar att de efterfrågade handlingarna är allmänna
@@ -21294,10 +20997,10 @@ Ett överklagande som kommit in i rätt tid skickas vidare till kammarrätten om
 <!-- sida 492 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+D
 Kommunstyrelsen
 Datum
 2020-11-24
-D
 Kungsbacka
 
 Plats och tid för Kungsbackarummet, Storgatan 37 Klockan 13.00–16.55
@@ -24417,35 +24120,46 @@ FÖRVALTNINGSRÄTTEN         FÖRELÄGGANDE                Aktbilaga 8
 I GÖTEBORG                 2021-04-16                  Mål nr. 4338-21
 Avd. 3
 
-643567
-
-dI.koD
 Kungsbacka kommun
+
 §26
+
 ./. Kungsbacka kommun
 Målet gäller: laglighetsprövning enligt kommunallagen
+
 Domstolen har fått in handlingar i målet. Handlingarna följer med detta brev.
+
 Lämna ett yttrande till domstolen
 Ni ska lämna in ett skriftligt yttrande där ni bemöter det som står i handlingarna.
 Domstolen måste ha yttrandet senast den 30 april 2021. När tiden har gått ut kan
 domstolen komma att avgöra målet, även om något svar inte kommit in.
+
 När ni skickar in yttrandet
 Uppge namn, målnummer 4338-21 och mobilnummer eller annat telefonnummer ni kan nås
 på. Lämna också e-postadress, så att vi kan skicka handlingar i målet via e-post.
+
 Skicka gärna in handlingarna med e-post, helst i PDF-format. De behöver då inte lämnas på
 annat sätt. För högre säkerhet än vanlig e-post, använd www.domstol.se/kontaktformular.
+
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
 gärna vid frågor – ni når oss enklast per telefon 031-732 70 00.
+
 Gunilla Falk
+
 Bifogade handlingar: aktbilaga 1
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Sten Sturegatan 14 måndag–fredag Box 53197 (e-post borttagen)
 08:00–16:00 400 15 Göteborg
 Telefon                                    Webbplats
 031 - 732 70 00                            www.forvaltningsrattenigoteborg.domstol.se
+
+Dok.Id 765346
 
 <!-- sida 564 -->
 
@@ -26407,106 +26121,124 @@ strategi AB, Newsec Advice AB, Savills Sweden AB och Svefa AB. De är utarbetade
 Sektionen För Fastighetsvärdering inom Samhällsbyggarna och är avsedda för auktoriserade värderare inom Samhällsbyggarna. Villkoren
 gäller från 2010-12-01 vid värdering av hela, delar av fastigheter, tomträtter, byggnader på ofri grund eller liknande värderingsuppdrag inom
 Sverige. Såvitt ej annat framgår av värdeutlåtandet gäller följande;
+
 1 Värdeutlåtandets omfattning
-1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast 3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
-egendom eller motsvarande med tillhörande rättigheter och inte för den skada som kan åsamkas uppdragsgivaren eller
-skyldigheter i form av servitut, ledningsrätt, samfälligheter tredje man som en konsekvens av att värdebedömningen är
-och övriga rättigheter eller skyldigheter som framgår av ut- felaktig på grund av att värderingsobjektet är i behov av
-drag från Fastighetsregistret hänförligt till värderingsobjektet. sanering eller att det föreligger någon annan form av
-miljömässig belastning.
+1.1 Värderingsobjektet omfattar i värdeutlåtandet angiven fast
+egendom eller motsvarande med tillhörande rättigheter och
+skyldigheter i form av servitut, ledningsrätt, samfälligheter
+och övriga rättigheter eller skyldigheter som framgår av ut-
+drag från Fastighetsregistret hänförligt till värderingsobjektet.
 1.2 Värdeutlåtandet omfattar även, i förekommande fall, till
-värderingsobjektet hörande fastighetstillbehör och byggnads- 4 Besiktning, tekniskt skick
-tillbehör, dock ej industritillbehör i annan omfattning än vad 4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
-som framgår av utlåtandet.         som beskrivs i utlåtandet är baserad på översiktlig okulär
-besiktning. Utförd besiktning har ej varit av sådan karaktär att
-1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från den uppfyller säljarens upplysningsplikt eller köparens under-
-Fastighetsregistret. Den information som erhållits genom sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
-Fastighetsregistret har förutsatts vara korrekt och fullständig, objektet förutsätts ha det skick och den standard som okulär-
-varför ytterligare utredning av legala förhållanden och besiktningen indikerade vid besiktningstillfället.
+värderingsobjektet hörande fastighetstillbehör och byggnads-
+tillbehör, dock ej industritillbehör i annan omfattning än vad
+som framgår av utlåtandet.
+1.3 Kontroll av inskrivna rättigheter har skett genom utdrag från
+Fastighetsregistret. Den information som erhållits genom
+Fastighetsregistret har förutsatts vara korrekt och fullständig,
+varför ytterligare utredning av legala förhållanden och
 dispositionsrätt ej vidtagits. Vad gäller legala förhållanden
-utöver vad som framgår av Fastighetsregistret har dessa 4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
-enbart beaktats i den omfattning information därom lämnats förhållanden på egendomen, under marken eller i byggnaden,
-skriftligen av uppdragsgivaren/ägaren eller dennes ombud. som skulle påverka värdet. Inget ansvar tas för
+utöver vad som framgår av Fastighetsregistret har dessa
+enbart beaktats i den omfattning information därom lämnats
+skriftligen av uppdragsgivaren/ägaren eller dennes ombud.
 Förutom det som framgår av utdrag från Fastighetsregistret
-• sådant som skulle kräva specialistkompetens eller speciella
 samt av uppgifter som lämnats av uppdragsgivaren/ägaren
-kunskaper för att upptäcka.
 eller dennes ombud har det förutsatts att värderingsobjektet
-• funktionen (skadefriheten) och/eller konditionen hos bygg-
 inte belastas av icke inskrivna servitut, nyttjanderättsavtal
-nadsdetaljer, mekanisk utrustning, rörledningar eller
 eller andra avtal som i något avseende begränsar fastighets-
-elektriska komponenter.
 ägarens rådighet över egendomen samt att värderingsobjektet
 inte belastas av betungande utgifter, avgifter eller andra
-5 Ansvar
 gravationer. Vidare har det förutsatts att värderingsobjektet
-5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
 inte är föremål för tvist i något avseende.
-följd av fel i värdeutlåtandet skall framställas inom ett år från
-värderingstidpunkten (datum för undertecknande av värde-
 2 Förutsättningar för värdeutlåtande
-ringen).
 2.1 Den information som innefattas i värdeutlåtandet har in-
 samlats från källor som bedömts vara tillförlitliga. Samtliga
-5.2 Det maximala skadestånd som kan utgå för påvisad skada till
 uppgifter som erhållits genom uppdragsgivaren/ägaren eller
-följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
 dennes ombud och eventuella nyttjanderättshavare, har
-ringstidpunkten.
 förutsatts vara korrekta. Uppgifterna har endast kontrollerats
 genom en allmän rimlighetsbedömning. Vidare har förutsatts
-6 Värdeutlåtandets aktualitet
 att inget av relevans för värdebedömningen har utelämnats av
-6.1 Beroende på att de faktorer som påverkar värderingsobjektets
 uppdragsgivaren/ägaren eller dennes ombud.
-marknadsvärde förändras över tiden är den värdebedömning
-som återges i utlåtandet gällande endast vid värdetidpunkten
 2.2 De areor som läggs till grund för värderingen har erhållits
-med de förutsättningar och reservationer som angivits i utlå-
 genom uppdragsgivaren/ägaren eller dennes ombud. Värde-
-tandet.
 raren har förlitat sig på dessa areor och har inte mätt upp dem
 på plats eller på ritningar, men areorna har kontrollerats
-6.2 Framtida in- och utbetalningar samt värdeutveckling som
 genom en rimlighetsbedömning. Areorna har förutsatts vara
-redovisas i utlåtandet i förekommande fall, har gjorts utifrån
 uppmätta i enlighet med vid varje tillfälle gällande ”Svensk
-ett scenario som, enligt värderarens uppfattning, återspeglar
 Standard”.
-fastighetsmarknadens förväntningar om framtiden. Värdebe-
-dömningen innebär inte någon utfästelse om faktisk framtida
 2.3 Vad avser hyres- och arrendeförhållanden eller andra
-kassaflödes- och värdeutveckling.
 nyttjanderätter, har värdebedömningen i förekommande fall
 utgått från gällande hyres- och arrendeavtal samt övriga
-7 Värdeutlåtandets användande
 nyttjanderättsavtal. Kopior av dessa eller andra handlingar
-7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
 utvisande relevanta villkor har erhållits av uppdrags-
-uppdragsgivaren och skall användas i sin helhet till det syfte
 givaren/ägaren eller dennes ombud.
-som anges i utlåtandet.
 2.4 Värderingsobjektet förutsätts dels uppfylla alla erforderliga
-7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
 myndighetskrav och för fastigheten gällande villkor, såsom
-värderaren endast för direkt eller indirekt skada som kan
 planförhållanden etc, dels ha erhållit alla erforderliga myndig-
-drabba uppdragsgivaren om utlåtandet används enligt 7.1.
 hetstillstånd för dess användning på sätt som anges i ut-
-Värderaren är fri från allt ansvar för skada som drabbat tredje
 låtandet.
-man till följd av att denne använt sig av värdeutlåtandet eller
-uppgifter i detta.
 3 Miljöfrågor
 3.1 Värdebedömningen gäller under förutsättningen att mark eller
-7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
 byggnader inom värderingsobjektet inte är i behov av sane-
-refereras till i något annat skriftligt dokument, måste värde-
 ring eller att det föreligger någon annan form av miljömässig
-ringsföretaget godkänna innehållet och på vilket sätt
 belastning.
+
+3.2 Mot bakgrund av vad som framgår av 3.1 ansvarar värderaren
+inte för den skada som kan åsamkas uppdragsgivaren eller
+tredje man som en konsekvens av att värdebedömningen är
+felaktig på grund av att värderingsobjektet är i behov av
+sanering eller att det föreligger någon annan form av
+miljömässig belastning.
+4 Besiktning, tekniskt skick
+4.1 Den fysiska konditionen hos de anläggningar (byggnader osv)
+som beskrivs i utlåtandet är baserad på översiktlig okulär
+besiktning. Utförd besiktning har ej varit av sådan karaktär att
+den uppfyller säljarens upplysningsplikt eller köparens under-
+sökningsplikt enligt 4 kap 19 § Jordabalken. Värderings-
+objektet förutsätts ha det skick och den standard som okulär-
+besiktningen indikerade vid besiktningstillfället.
+4.2 Värderaren tar inget ansvar för dolda fel eller icke uppenbara
+förhållanden på egendomen, under marken eller i byggnaden,
+som skulle påverka värdet. Inget ansvar tas för
+• sådant som skulle kräva specialistkompetens eller speciella
+kunskaper för att upptäcka.
+• funktionen (skadefriheten) och/eller konditionen hos bygg-
+nadsdetaljer, mekanisk utrustning, rörledningar eller
+elektriska komponenter.
+5 Ansvar
+5.1 Eventuella skadeståndsanspråk till följd av påvisad skada till
+följd av fel i värdeutlåtandet skall framställas inom ett år från
+värderingstidpunkten (datum för undertecknande av värde-
+ringen).
+5.2 Det maximala skadestånd som kan utgå för påvisad skada till
+följd av fel i värdeutlåtandet är 25 prisbasbelopp vid värde-
+ringstidpunkten.
+6 Värdeutlåtandets aktualitet
+6.1 Beroende på att de faktorer som påverkar värderingsobjektets
+marknadsvärde förändras över tiden är den värdebedömning
+som återges i utlåtandet gällande endast vid värdetidpunkten
+med de förutsättningar och reservationer som angivits i utlå-
+tandet.
+6.2 Framtida in- och utbetalningar samt värdeutveckling som
+redovisas i utlåtandet i förekommande fall, har gjorts utifrån
+ett scenario som, enligt värderarens uppfattning, återspeglar
+fastighetsmarknadens förväntningar om framtiden. Värdebe-
+dömningen innebär inte någon utfästelse om faktisk framtida
+kassaflödes- och värdeutveckling.
+7 Värdeutlåtandets användande
+7.1 Innehållet i värdeutlåtandet med tillhörande bilagor tillhör
+uppdragsgivaren och skall användas i sin helhet till det syfte
+som anges i utlåtandet.
+7.2 Används värdeutlåtandet för rättsliga förfoganden, ansvarar
+värderaren endast för direkt eller indirekt skada som kan
+drabba uppdragsgivaren om utlåtandet används enligt 7.1.
+Värderaren är fri från allt ansvar för skada som drabbat tredje
+man till följd av att denne använt sig av värdeutlåtandet eller
+uppgifter i detta.
+7.3 Innan värdeutlåtandet eller delar av det reproduceras eller
+refereras till i något annat skriftligt dokument, måste värde-
+ringsföretaget godkänna innehållet och på vilket sätt
 utlåtandet skall återges.
+
 2010-12-01 Ver 2
 
 <!-- sida 602 -->
@@ -40373,36 +40105,47 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Rolf-Arne Ullaeus
 Av kommunfullmäktige
 utsedd lekmannarevisor
-F2MID-5BNGW-JZSU3-4L4EV-E5JJY-IG5SV
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: VS5GI-YJJ5E-VE4L4-3USZJ-WGNB5-DIM2F
 
 <!-- sida 854 -->
+
+Penn30
 
 Signaturerna i detta dokument är juridiskt bindande. Dokumentet är signerat genom Penneo™ för säker digital signering.
 Tecknarnas identitet har lagrats, och visas nedan.
 
 "Med min signatur bekräftar jag innehållet och alla datum i detta dokumentet."
 
+,,                                    ,,
+
 Undertecknare                        Undertecknare
 Serienummer: 19390820xxxx            Serienummer: 19490508xxxx
 IP: 81.234.xxx.xxx                   IP: 217.214.xxx.xxx
+\~                                     \~
 2021-03-2507:34:52Z                  2021-03-2509:15:38Z
-
+BankfD                                BankfD
+,,                                    ,,
 Undertecknare                        Undertecknare
 Serienummer: 19470824xxxx            Serienummer: 19530318xxxx
 IP: 185.183.xxx.xxx                  IP: 217.208.xxx.xxx
-2021-03-2509:30:10Z                  2021-03-2510:34:35Z
+2021-03-2509:30:10Z           \~      2021-03-2510:34:35Z            \~
+BankfD                                BankfD
+
+,,                                    ,,
 
 Undertecknare                        Undertecknare 2
 Serienummer: 19680303xxxx            Serienummer: 19620106xxxx
 IP: 83.209.xxx.xxx                   IP: 90.235.xxx.xxx
-2021-03-3012:40:10Z                  2021-03-3015:59:08Z
+2021-03-3012:40:10Z           \~      2021-03-3015:59:08Z            \~
+BankfD                                BankfD
+,,
 
 Undertecknare 3
 Serienummer: 19531029xxxx
 IP: 78.82.xxx.xxx
-2021-03-3106:18:20Z
+2021-03-3106:18:20Z           \~
+BankfD
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat med Penneo e-
 signeringsdatan i dokumentet är säkrad och validerad genom det datorgenererade signature service \<(e-post borttagen)> Detta garanterar att dokumentets
@@ -40412,22 +40155,8 @@ innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera
 använda Penneos validator, som finns på https://penneo.com/validate
 Hur man verifierar originaliteten hos dokumentet
 Detta dokument är skyddat genom ett Adobe CDS certifikat. När du öppnar
-F2MID-5BNGW-JZSU3-4L4EV-E5JJY-IG5SV
-:lekcyntnemukod
-oenneP
-Penn30
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,
-\~
-BankfD
+
+Penneo dokumentnyckel: VS5GI-YJJ5E-VE4L4-3USZJ-WGNB5-DIM2F
 
 <!-- sida 855 -->
 
@@ -41148,7 +40877,7 @@ nyproduktion genom att utrymmet för egenfinansieringen ökar.
 
 Omflyttningen har under 2020 varit något högre jämfört
 
-med föregående år 7.5 4 (62). Det beror delvis på den riktade
+med föregående år 7.5 2 (62), Det beror delvis på den riktade
 aktivitet som vi genomfört. Vi har arbetat med att kartlägga
 oriktiga hyresförhållanden i beståndet, främst i form av
 otillåtna andrahandsuthyrningar. Projektet har medfört att
@@ -41397,7 +41126,7 @@ perioden arbetar vi på bred front i organisationen med målar-
 betet. Läs mer om det nya målarbetet under avsnittet vision
 och mål
 
-åRSREDOVISNING 2020
+åARSREDOVISNING 2020
 
 FÖRVALTNINGSBERÄTTELSE | SIDA 8
 
@@ -41940,7 +41669,7 @@ egenbyggnation. Utmaningen är, likt många andra förtätnings-
 projekt, att lösa infrastrukturen och få acceptans av berörda
 grannar och andra intressenter.
 
-Kyrkstigen.Eörlanda
+Kyrkstigen.EFörlanda
 
 åRSREDOVISNING 2020
 
@@ -42007,7 +41736,6 @@ Energicontrollers
 
 Personal
 -£FU gode klimal hoa
-personalen är guld värt!
 
 Att satsa på våra medarbetare genom att erbjuda friskvård och
 utbildning samt att arbeta för en god gemenskap har vi sett
@@ -42437,9 +42165,9 @@ Miljö — vårt signum och vår VISION summa 34-35
 
 Projekt i fokus 2020: Särö vård- och omsorgsboende .... 36
 
-Projektt foRUS 20207 LIKSHÖmsSprojekEBl210 =amamiumwssrsmarsmrsvsmnmskmiakentnareysminsskuE TENNIS 36
+Projektt foRUS 20207 LIKSHÖmsSprojekEBl210 =amamsumwssrsmsmersssmnmekviakentnareysmusskuE TNE 36
 
-IRNOVEROF OCK UV IOKIPIG sägs saras rer OANSRATTAR NN 37
+IRNOVEROF OCK UVEIOKIPIG sägs startas nr ORNSRATTARN NN 37
 
 Hållbarhetsrapport
 ERala frumliaena boende
@@ -42492,8 +42220,6 @@ kommun:
 Styrelsen:
 mål- och
 affarsplan
-
-agardirektiv
 
 ÅRSREDOVISNING 2020
 
@@ -42604,29 +42330,25 @@ fokus ligger på kundnöjdhet och klimatpåverkan.
 
 åÄRSREDOVISNING 2020
 
-Betydelse för intressenter
-
 Kommun
 politiker
 
 Styrelse
 
 Samarbets-
-
 partners Kunder
 
 EKSTA
 
 Branschorga Kungsbacka Leveran-
+
 nisationer torer
 
-Myndig- Hyres-
-heter gäster
+Hyres-
+gäster
 
 Med-
 arbetare
-
-Mycket hög
 
 Under övervakning
 
@@ -42639,12 +42361,14 @@ leverantörer
 Trygg och säker arbetsmiljö
 Utvecklande ledarskap och samverkan
 
-Mycket hög
-\>
-
+Mycket hög -
 Betydelse för Eksta Bostads AB S
 
 Hål. LBART | SIDA 27
+
+Betydelse för intressenter
+
+Mycket hög
 
 <!-- sida 898 -->
 
@@ -42984,14 +42708,14 @@ bemötande ligger högt upp på listan.
 Vår tillgänglighet för våra kunder ska vara god både ute i våra
 områden och i kundtjänsten. Under året har vi arbetat med
 att utveckla digitala tjänster för att underlätta ytterligare för
-våra hyresgäster. ett arbete som skyndats på av Covicl-19. Vi
+våra hyresgäster. ett arbete som skyndats på av Covic-19. Vi
 arbetar hela tiden för att få en effektivare och mer tillgänglig
 kundtjänst. Vi utvecklar vår webbplattform med bla FAQ. och
 vi erbjuder att möta hyresgästerna via chattfunktion.
 
 Mycket skötsel och underhåll behöver göras ute i våra områ-
 den, speciellt sommartid, såsom att måla staket, rensa ogrås
-osv. Via vår hyresgäåsttidning annonserar vi möjligheten till våra
+osv. Via vår hyresgåsttidning annonserar vi möjligheten till våra
 hyresgäster (och utomstående) i rätt ålder att söka sommar-
 jobb och LIA-platser. Detta, tror vi, inte bara ger värde för de
 individer som anmäler intresse, utan bidrar även till trygghet,
@@ -43094,7 +42818,6 @@ F
 
 Respekt
 
-\- för män
 och molverkanade av
 
 Vi på Eksta ska behandla alla människor lika och visa respekt
@@ -43302,7 +43025,7 @@ avfall är att få våra hyresgäster att sortera rätt. Vi ser dock en
 
 tar FAO SSA
 
-2019-01-01- 2019-12-31 — 387 066 KG
+2019-01-01- 2019-12-31 = 387 066 KG
 
 [EE ER Re STORE BES Cs On
 2020-01-01 - 2020-12-31 = 436 671KG
@@ -44114,8 +43837,6 @@ Fastighetsskatt 2020 2012 2020 2012
 Beräknad fastighetsskatt 6149 110 6 382 604 6 101791 6 348 904
 Korrigering fastighetsskatt 0 0 0 0
 Summa fastighetsskatt 6149 110 6 382 604 610179 6348 904
-Korrigering fastighetsskatt avser tidigare taxeringar.
-
 Övriga kostnader 2012 2020 2019
 Förlust avyttring anläggningstillgångar 0 0 -15 573 701 0
 Summa övriga kostnader [] 0 -15 573 701 0
@@ -44126,7 +43847,7 @@ Markanläggningar 1376 528 1253 242 1376498 1253 242
 Byggnadsinventarier 766 638 741 309 766 638 741 309
 Inventarier 1751 112 1425 921 1748 254 1425 255
 Nedskrivning 0 20 000 000 0 20000 000
-U i Lt] 8782042 0 8782 042
+U i [!] 8782042 0 8782 042
 Summa av- och nedskrivningar 79 666 206 103 603 325 78 304 162 103 514 388
 
 ÅRSREDOVISNING 2020
@@ -44404,8 +44125,6 @@ kommun som säkerhet för de kommunala borgensåtagandena. Dessa kommunala borge
 3.259.902.385) inom en total borgensram om 3.726.000.000 .
 
 Eventualförpliktelsen innebär ett åtagande gentemot Fastigo vilket kan falla ut vid en konflikt. Garantibeloppet är 305.557. Samtliga ställda säkerheter
-
-avser När
 
 åRETS RESULTAT | SIDA 52
 
@@ -44815,8 +44534,6 @@ id.
 
 Bankip SÅ
 
-i.
-
 BankiD SÅ
 
 Av kommunfullmäktige
@@ -44830,8 +44547,6 @@ utsedd lekmannarevisor
 id.
 
 BankiD SA
-
-id CZ
 
 BankiD ”W
 
@@ -44858,8 +44573,6 @@ GRANSKNINGSRAPPORT | SIDA 58
 åRSREDOVISNING 2020
 
 Energistipendium 2020
-
--Frergikick och energistipendium
 
 TILL IVAR FRANZÉNS MINNE
 
@@ -45336,36 +45049,47 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Rolf-Arne Ullaeus
 Av kommunfullmäktige
 utsedd lekmannarevisor
-AVLUI-B6F0Y-1UF63-G1OPF-JNK8H-CN7TW
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: WT7NC-H8KNJ-FPO1G-36FU1-Y0F6B-IULVA
 
 <!-- sida 940 -->
+
+Penn30
 
 Signaturerna i detta dokument är juridiskt bindande. Dokumentet är signerat genom Penneo™ för säker digital signering.
 Tecknarnas identitet har lagrats, och visas nedan.
 
 "Med min signatur bekräftar jag innehållet och alla datum i detta dokumentet."
 
+,,                                    ,,
+
 Undertecknare                        Undertecknare
 Serienummer: 19390820xxxx            Serienummer: 19490508xxxx
 IP: 81.234.xxx.xxx                   IP: 217.214.xxx.xxx
+\~                                     \~
 2021-03-2507:34:52Z                  2021-03-2509:15:38Z
-
+BankfD                                BankfD
+,,                                    ,,
 Undertecknare                        Undertecknare
 Serienummer: 19470824xxxx            Serienummer: 19530318xxxx
 IP: 185.183.xxx.xxx                  IP: 217.208.xxx.xxx
-2021-03-2509:30:10Z                  2021-03-2510:34:35Z
+2021-03-2509:30:10Z           \~      2021-03-2510:34:35Z            \~
+BankfD                                BankfD
+
+,,                                    ,,
 
 Undertecknare                        Undertecknare 2
 Serienummer: 19680303xxxx            Serienummer: 19620106xxxx
 IP: 83.209.xxx.xxx                   IP: 90.235.xxx.xxx
-2021-03-3012:40:10Z                  2021-03-3015:59:08Z
+2021-03-3012:40:10Z           \~      2021-03-3015:59:08Z            \~
+BankfD                                BankfD
+,,
 
 Undertecknare 3
 Serienummer: 19531029xxxx
 IP: 78.82.xxx.xxx
-2021-03-3106:18:20Z
+2021-03-3106:18:20Z           \~
+BankfD
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat med Penneo e-
 signeringsdatan i dokumentet är säkrad och validerad genom det datorgenererade signature service \<(e-post borttagen)> Detta garanterar att dokumentets
@@ -45375,22 +45099,8 @@ innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera
 använda Penneos validator, som finns på https://penneo.com/validate
 Hur man verifierar originaliteten hos dokumentet
 Detta dokument är skyddat genom ett Adobe CDS certifikat. När du öppnar
-AVLUI-B6F0Y-1UF63-G1OPF-JNK8H-CN7TW
-:lekcyntnemukod
-oenneP
-Penn30
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,
-\~
-BankfD
+
+Penneo dokumentnyckel: WT7NC-H8KNJ-FPO1G-36FU1-Y0F6B-IULVA
 
 <!-- sida 941 -->
 
@@ -45429,36 +45139,47 @@ utsedd lekmannarevisor     utsedd lekmannarevisor
 Rolf-Arne Ullaeus
 Av kommunfullmäktige
 utsedd lekmannarevisor
-NYHZI-ZDB2G-A3TOE-SPXKE-NADBE-EILAH
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: HALIE-EBDAN-EKXPS-EOT3A-G2BDZ-IZHYN
 
 <!-- sida 942 -->
+
+Penn30
 
 Signaturerna i detta dokument är juridiskt bindande. Dokumentet är signerat genom Penneo™ för säker digital signering.
 Tecknarnas identitet har lagrats, och visas nedan.
 
 "Med min signatur bekräftar jag innehållet och alla datum i detta dokumentet."
 
+,,                                    ,,
+
 Undertecknare                        Undertecknare
 Serienummer: 19390820xxxx            Serienummer: 19490508xxxx
 IP: 81.234.xxx.xxx                   IP: 217.214.xxx.xxx
+\~                                     \~
 2021-03-2507:34:52Z                  2021-03-2509:15:38Z
-
+BankfD                                BankfD
+,,                                    ,,
 Undertecknare                        Undertecknare
 Serienummer: 19470824xxxx            Serienummer: 19530318xxxx
 IP: 185.183.xxx.xxx                  IP: 217.208.xxx.xxx
-2021-03-2509:30:10Z                  2021-03-2510:34:35Z
+2021-03-2509:30:10Z           \~      2021-03-2510:34:35Z            \~
+BankfD                                BankfD
+
+,,                                    ,,
 
 Undertecknare                        Undertecknare 2
 Serienummer: 19680303xxxx            Serienummer: 19620106xxxx
 IP: 83.209.xxx.xxx                   IP: 90.235.xxx.xxx
-2021-03-3012:40:10Z                  2021-03-3015:59:08Z
+2021-03-3012:40:10Z           \~      2021-03-3015:59:08Z            \~
+BankfD                                BankfD
+,,
 
 Undertecknare 3
 Serienummer: 19531029xxxx
 IP: 78.82.xxx.xxx
-2021-03-3106:18:20Z
+2021-03-3106:18:20Z           \~
+BankfD
 
 Detta dokument är digitalt signerat genom Penneo.com. Den digitala dokumentet i Adobe Reader bör du se att dokumentet är certifierat med Penneo e-
 signeringsdatan i dokumentet är säkrad och validerad genom det datorgenererade signature service \<(e-post borttagen)> Detta garanterar att dokumentets
@@ -45468,22 +45189,8 @@ innesluten i denna PDF, för framtida validering om så krävs. Du kan verifiera
 använda Penneos validator, som finns på https://penneo.com/validate
 Hur man verifierar originaliteten hos dokumentet
 Detta dokument är skyddat genom ett Adobe CDS certifikat. När du öppnar
-NYHZI-ZDB2G-A3TOE-SPXKE-NADBE-EILAH
-:lekcyntnemukod
-oenneP
-Penn30
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,                                    ,,
-\~                                     \~
-BankfD                                BankfD
-,,
-\~
-BankfD
+
+Penneo dokumentnyckel: HALIE-EBDAN-EKXPS-EOT3A-G2BDZ-IZHYN
 
 <!-- sida 943 -->
 
@@ -46211,7 +45918,7 @@ Helene Andersson, ordförande
 
 Helene Andersson, ordförande i Samordningsförbundet i Halland
 
-fn
+fn nn
 
 ; 5 : , Sida 2
 Signering av justerare

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172408id_/https://kungsbacka.se/d
 sha256: 6a5b5ff6452a1699dd413078905fbf36ebc9050e990123305606f24090c60831
 bytes: 7844568
 sidor: 120
-hamtad: 2026-10-27T10:55:05+00:00
-konverterad: 2026-10-27T10:55:25+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:29:57+00:00
+konverterad: 2026-11-17T12:30:11+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -877,37 +877,65 @@ Forskningsfrågor                                 år      1-3        Gymnasiet
 
 Hur stödjer
 Hur kan arbetet mellan
-förstelärarorganisationen                                           Hur har filmandet och analysen
-elevhälsoteam och arbetslag Vilka synliga hot tar fokus från            Hur har den kollegiala
-skolans didaktiska                                                 av undervisningen påverkat
-utvecklas för att främja undervisningen, samt i vilken              diskussionen kring filmandet
-utvecklingsarbete genom                                                läraren (den egna och
-elevernas lärande och omfattning förekommer de?                        påverkat läraren?
-kollegialt lärande i                                                kollegans/kollegornas)?
+förstelärarorganisationen
+elevhälsoteam och arbetslag Vilka synliga hot tar fokus från
+skolans didaktiska
+utvecklas för att främja undervisningen, samt i vilken
+utvecklingsarbete genom
+elevernas lärande och omfattning förekommer de?
+kollegialt lärande i
 välmående?
 ämnesdidaktiska grupper?
-Hur arbetar lärarna i                      Hur ser lärarna på sambandet
-Svenska/Svenska som                          mellan pedagogisk tillgänglig
-Hur har elevhälsan och lärarna                  Hur upplever eleverna sina                    Vad är goda relationer? Hur
-andraspråk, Matematik och                     lärmiljö och elevernas lärande?
-samt elever arbetar med det                    förutsättningar för lärande                   skapas goda relationer? Hur
-Engelska på Osbecksgymnasiet,                  Vilka framgångsrika strategier i
-hållbara hälsosamma lärandet                   utifrån fysisk, pedagogisk och                 skapas mellanrummet som
-Laholm med likvärdig,                       undervisningen används för att
-över tid?                                    social lärmiljö?                           gynnar elevernas lärande?
-individuell skriftlig återkoppling i           leda och stimulera alla elevers
-lärplattformen V-klass?                            lärande?
+Hur arbetar lärarna i
+Svenska/Svenska som
+Hur har elevhälsan och lärarna                  Hur upplever eleverna sina
+andraspråk, Matematik och
+samt elever arbetar med det                    förutsättningar för lärande
+Engelska på Osbecksgymnasiet,
+hållbara hälsosamma lärandet                   utifrån fysisk, pedagogisk och
+Laholm med likvärdig,
+över tid?                                   social lärmiljö?
+individuell skriftlig återkoppling i
+lärplattformen V-klass?
 Hur har förutsättningar skapats
-Hur upplever eleverna att Hur kan vi förmå och stödja
+Hur upplever eleverna att
 för förstelärare att kunna bidra
-lärarna skapar en tillgänglig pojkar som grupp så att de kan
+lärarna skapar en tillgänglig
 till utvecklingsarbete och vilka
-lärmiljö på de     nå sin optimala kapacitet i
+lärmiljö på de
 goda exempel i hur förstelärarna
-högskoleförberedande  skolan och därmed öka sin
+högskoleförberedande
 bedriver skolutveckling genom
-programmen?            måluppfyllelse?
+programmen?
 kollegialt lärande finns?
+
+Hur har filmandet och analysen
+av undervisningen påverkat
+läraren (den egna och
+kollegans/kollegornas)?
+
+Hur ser lärarna på sambandet
+mellan pedagogisk tillgänglig
+lärmiljö och elevernas lärande?
+Vilka framgångsrika strategier i
+undervisningen används för att
+leda och stimulera alla elevers
+lärande?
+
+Hur kan vi förmå och stödja
+pojkar som grupp så att de kan
+nå sin optimala kapacitet i
+skolan och därmed öka sin
+måluppfyllelse?
+
+Hur har den kollegiala
+diskussionen kring filmandet
+påverkat läraren?
+
+Vad är goda relationer? Hur
+skapas goda relationer? Hur
+skapas mellanrummet som
+gynnar elevernas lärande?
 
 <!-- sida 53 -->
 
@@ -1035,23 +1063,42 @@ har på olika sätt fått spridning i varje kommun.
 
 Lärdomar               följeforskning
 
-År 1: Hur  gestaltar  sig  samtalen   mellan          År  2: Vilken  syn  på barnet/eleven
-deltagarna   i FGTE   kursen?:                        framkommer      i samtalen?
+År  1: Hur  gestaltar  sig samtalen   mellan
+deltagarna    i FGTE  kursen?:
 
-Deltagarens   lärande,  relaterat till den egna       Lärarna   i studien har en traditionell bild av
-praktiken, har  fått stå tillbaka då man i            eleverna   i termer av hur de  pratar om  dem
+Deltagarens   lärande,  relaterat till den egna
+praktiken,  har fått stå tillbaka då man  i
 
-gruppen   arbetar med   utvecklingsproblem            och  hur de  beter sig i
+gruppen   arbetar  med  utvecklingsproblem
 
-som  inte alltid är relevanta för individens          undervisningssammanhang.
-undervisningspraktik.   Sammanfattningsvis            Utifrån deras  respektive  förväntningar  på
+som   inte alltid är relevanta för individens
+undervisningspraktik.   Sammanfattningsvis
 
-visar detta på  en motsättning  mellan                varandras   roller, framgår det att lärare och
+visar detta  på en motsättning   mellan
 
-gruppens   och  individens tillägnande  av            elever  i vissa fall har rent motstridiga idéer om
-forskningsmetodik    relaterat till respektive        hur  de bästa  förutsättningarna  för ett ökat
+gruppens   och  individens  tillägnande av
+forskningsmetodik    relaterat till respektive
 
-fokusområde.                                          lärande  ser ut.
+fokusområde.
+
+År 2: Vilken  syn  på  barnet/eleven
+
+framkommer      i samtalen?
+
+Lärarna  i studien har en  traditionell bild av
+
+eleverna  i termer av  hur de pratar om   dem
+och  hur de beter  sig i
+
+undervisningssammanhang.
+
+Utifrån deras  respektive  förväntningar  på
+varandras   roller, framgår det att lärare och
+
+elever i vissa fall har rent motstridiga idéer om
+
+hur de  bästa förutsättningarna   för ett ökat
+lärande  ser ut.
 
 <!-- sida 59 -->
 
@@ -2834,12 +2881,18 @@ Page 44 (47)
 
 <!-- sida 116 -->
 
-Gy/Vux: Hur har förutsättningar Hur upplever eleverna att lärarna Hur kan vi förmå och stödja
-skapats för förste-lärare att kunna bidra skapar en tillgänglig lärmiljö på de pojkar som grupp så att de kan nå
-till utvecklingsarbete och vilka goda högskoleförberedande programmen? sin optimala kapacitet i skolan
-exempel i hur förstelärarna bedriver     och därmed öka sin
-skolutveckling genom kollegialt          måluppfyllelse?
+Gy/Vux: Hur har förutsättningar
+skapats för förste-lärare att kunna bidra
+till utvecklingsarbete och vilka goda
+exempel i hur förstelärarna bedriver
+skolutveckling genom kollegialt
 lärande finns?
+
+Hur upplever eleverna att lärarna Hur kan vi förmå och stödja
+skapar en tillgänglig lärmiljö på de pojkar som grupp så att de kan nå
+högskoleförberedande programmen? sin optimala kapacitet i skolan
+och därmed öka sin
+måluppfyllelse?
 
 Page 45 (47)
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319204912id_/https://www.kungsbacka.
 sha256: 7f6d1f2a8b5c6881ef86875a77baeb34eb3a1cecea87a1e189155ad09293eae5
 bytes: 5951179
 sidor: 151
-hamtad: 2026-10-31T08:21:43+00:00
-konverterad: 2026-10-31T08:22:27+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:43:42+00:00
+konverterad: 2026-11-17T13:44:11+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1977,7 +1977,7 @@ Stämmer ganska bra
 
 stämmer Stämmer ganska Stämmer varken bra stämmer stämmer Vet ej
 mycket dåligt dåligt eller dåligt ganska bra mycket bra
-Jag är insatt i min arbetsplats mål 0.790 1.5490 6.540 ID, 260 24 4090 0. 7590
+Jag är insatt i min arbetsplats mål 07990 1.5490 6.540 ID, 260 24 4090 0. 7590
 Min arbetsplats mål följs upp och 1.5490 63190 157990 45,5396 26,0090 3,50
 utvärderas på ett bra sätt
 Jag vet vad som förväntas av mig i mitt 0.539 0,30 T3T9Y0 36,5490 b3,I500 0.790
@@ -2000,7 +2000,6 @@ NPS
 Ö Kritiker & Passiv Ö Ambassadörer
 
 42 84
-15,26K 21,054 11,0526 22,114
 
 <!-- sida 67 -->
 

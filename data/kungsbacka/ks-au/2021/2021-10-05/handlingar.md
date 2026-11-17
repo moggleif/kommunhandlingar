@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320070853id_/https://www.kungsbacka.
 sha256: d72e8ff0a6937797787d8e5df1cabd73ccbbfb4520f484fbf3b2ab17b14dca45
 bytes: 21287753
 sidor: 464
-hamtad: 2026-10-28T09:55:05+00:00
-konverterad: 2026-10-28T09:56:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:52:59+00:00
+konverterad: 2026-11-17T12:54:08+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7273,8 +7273,6 @@ Mot bakgrund av detta finns därför behov av att revidera del av Taxan för
 tillståndsprövning LBE, punkt 12, samt del av tillhörande Taxebestämmel-
 ser, 18.
 
-la / |
-
 <!-- sida 170 -->
 
 SÖN RÄDDNINGSTJÄNSTEN
@@ -11664,18 +11662,10 @@ styrdokument Enheternas förmåga.
 
 Tabell 4. RSG:s förmåga redovisad per styrka och nivå. Nivå 1 innebär en grundförmåga, nivå 2 en utökad
 grundförmåga och nivå 3 innebär specialförmåga.
-
-inkluderat bemanning och anspänningstid
-
-För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
-förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i det
-operativa arbetet och övningsverksamheten ska därför synliggöra vad vi övar, varför och
-vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra och effektiva
-
-37 (56)
-)kes 09( 6-1 adnulörF )kes 09( 6-1 adråG )kes 09( 4-1 adråG akrytsgaD )kes 09( 6-1 aladetroK )kes 09( 6-1 deregnA )kes 09( 4-1 adnalsroT )kes 09( 6-1 ybdnuL )kes 09( 4-1 ladnlöM )kes 09( 4-1 emodniL )kes 09( 4-1 mureL )kes 09( 6-1 akcabsgnuK )kes 09( 4-1 öjsrejÖ )kes 024( 4-1 mureL )kes 084( 4-1 akcabsgnuK )kes 003( 4-1 såsellirF )kes 003( 4-1 ekcylnlöM )kes 003( 4-1 sådniH )kes 003( 2 -1 adnalväR )kes 003( 4-1 ösnoD )kes 006( 2 öjsrejÖ
 Enheternas förmåga Räddningstjänsten Storgöteborg
+inkluderat bemanning och anspänningstid
 Heltid            RiB
+
 Förmåga
 BRAND I BYGGNAD
 Brand i byggnad
@@ -11725,6 +11715,53 @@ Förmåga nivå 1
 Förmåga nivå 2 (inkluderar nivå 1)
 Förmåga nivå 3 (inkluderar nivå 1 & 2) / Specialförmåga. Förmåga och tillika spetsresurs som kan verka inom hela förbundet.
 Förmågan utgår till stor del från riskbilden inom respektive stationsområde
+För att upprätthålla förmågan att genomföra räddningsinsatser och utöva ledning genom-
+förs kontinuerligt övningar och utbildningar. RSG strävar efter att hålla en hög kvalitet i det
+operativa arbetet och övningsverksamheten ska därför synliggöra vad vi övar, varför och
+vad det ska leda till. Ett systematiskt kvalitetsarbete är avgörande för säkra och effektiva
+37 (56)
+
+Frölunda 1-6 (90 sek)
+
+Gårda 1-6 (90 sek)
+
+Gårda 1-4 (90 sek)
+
+Dagstyrka
+
+Kortedala 1-6 (90 sek)
+
+Angered 1-6 (90 sek)
+
+Torslanda 1-4 (90 sek)
+
+Lundby 1-6 (90 sek)
+
+Mölndal 1-4 (90 sek)
+
+Lindome 1-4 (90 sek)
+
+Lerum 1-4 (90 sek)
+
+Kungsbacka 1-6 (90 sek)
+
+Öjersjö 1-4 (90 sek)
+
+Lerum 1-4 (420 sek)
+
+Kungsbacka 1-4 (480 sek)
+
+Frillesås 1-4 (300 sek)
+
+Mölnlycke 1-4 (300 sek)
+
+Hindås 1-4 (300 sek)
+
+Rävlanda 1- 2 (300 sek)
+
+Donsö 1-4 (300 sek)
+
+Öjersjö 2 (600 sek)
 
 <!-- sida 268 -->
 
@@ -12159,62 +12196,79 @@ Remissversion: Handlingsprogram 2020–2023
 
 Placering av brandstationer med räddningsstyrkor samt vilken förmåga som finns på
 respektive brandstation framgår i kapitel 8.1.1.
+
 Tabell 8. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid olycka med farligt ämne.
 
-Område               Förmåga som omfattas av
+Område              Förmåga som omfattas av
+
+Brand i brandfarlig vätska och gas
+
+Farliga ämnen
+
+Farliga ämnen, nivå 2 (indikering)
+
+Farliga ämnen, nivå 3 (kem 3)
+
+Avancerad Indikering
+
+Sanering
+
+Förstärkt resurs för brand i
+brandfarlig vätska
+
+Storskalig oljebrandsläckning (SMC)
+
+UAS - Unmanned Aerial System
+
+Oljeskyddscontainer
+
+MIRG (Maritime Incident Response
+Group)
 
 \- att snabbt rädda enstaka personer som befinner sig i fara i område
 med brandfarlig vätska eller gas,
 \- att släcka brand i spill av olja eller polär produkt från tankbil eller
-Brand i brandfarlig vätska och gas
 järnvägsvagn,
 \- att släcka brand i mindre cistern med olja eller polär produkt,
 \- att kyla hotad cistern vid brand i cistern för brandfarlig vara.
 \- att snabbt rädda enstaka personer som befinner sig i område med
 farliga ämnen,
 \- att genomföra livräddande sanering av enstaka personer,
-Farliga ämnen
 \- att indikera brännbar atmosfär och annan farlig miljö,
 \- att akut begränsa skadeutbredningen genom övertäckning,
 uppsamling, och nedtvättning.
 \- att indikera riskområde för vanligt förekommande
-Farliga ämnen, nivå 2 (indikering)
 industrikemikalier
+
 \- att genomföra insats i område/utrymme med farliga ämnen
-Farliga ämnen, nivå 3 (kem 3) - att begränsa skadeutbredning genom tätning, övertäckning,
+\- att begränsa skadeutbredning genom tätning, övertäckning,
 uppsamling, impaktering, överpumpning, kylning och nedtvättning.
 \- att vara en nationell resurs vid olyckor med farliga ämnen, genom
 att kunna identifiera ett okänt ämne.
-Avancerad Indikering
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att vara en nationell resurs för sanering av flera kontaminerade
 personer vid olyckor med farliga ämnen.
-Sanering
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att möjliggöra kylning med vatten och släckförmåga med skum för
-Förstärkt resurs för brand i
 större bränder i brandfarlig vätska med hjälp av skumbilar, stor-
-brandfarlig vätska
 pump, slang och armaturer.
 \- att självständigt eller med hjälp av andra SMC-enheter släcka större
 bränder i oljedepåer.
-Storskalig oljebrandsläckning (SMC)
 Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
 (SMC).
 \- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
 \- att med länsa inringa olja runt en båt eller skydda vikar, vattendrag
-Oljeskyddscontainer
 och strandområden från oljepåslag.
+
 \- att med en grupp om ett befäl och 5 brandmän, som enskilt eller
 tillsammans med MIRG-styrkor från andra räddningstjänster, bistå
 Sjöfartsverket eller Kustbevakningen vid statlig räddningstjänst till
-MIRG (Maritime Incident Response
 havs.
-Group)
 Förmågan regleras genom avtal mellan RSG och Sjöfartsverket samt
 Kustbevakningen.
+
 46 (56)
 
 <!-- sida 277 -->
@@ -12222,41 +12276,54 @@ Kustbevakningen.
 Remissversion: Handlingsprogram 2020–2023
 
 8.2.5 Naturolycka
+
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
 av enstaka personer. För mer komplicerade räddningsinsatser vid naturolyckor krävs
-
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 9)
+
 Placering av brandstationer med räddningsstyrkor samt vilken förmåga som finns på
 respektive brandstation framgår avsnitt 8.1.1.
-
 Tabell 9. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
 
-Område               Förmåga som omfattas av
+Område
+
+Resurs för ras och tung räddning
+(RTR)
+
+Terrängtransport
+
+Nationell förstärkningsresurs för
+urban sök- och räddning (NUSAR)
+
+UAS - Unmanned Aerial System
+
+Förmåga som omfattas av
 
 \- att genomföra räddningsinsatser vid naturolyckor där tunga fordon
 är inblandade såsom lastbilar, bussar och tåg,
-Resurs för ras och tung räddning
 \- att genomföra räddningsinsatser vid byggnadskollapser vid
-(RTR)
 naturolyckor genom stabiliserande åtgärder och att söka efter
 personer vid dessa händelser
 \- att genomföra transport av materiel eller personal i väglös terräng
-Terrängtransport       eller på väg med begränsad framkomlighet med MC, bandvagn
+eller på väg med begränsad framkomlighet med MC, bandvagn
 eller annat terrängfordon.
 \- att vara en nationell sök- och räddningsresurs för att söka efter och
 rädda människor vid stora komplexa räddningsinsatser med
-Nationell förstärkningsresurs för kollapsade byggnadskonstruktioner, orsakade av till exempel
-urban sök- och räddning (NUSAR) naturkatastrofer, olyckor, terrordåd eller krig.
+kollapsade byggnadskonstruktioner, orsakade av till exempel
+naturkatastrofer, olyckor, terrordåd eller krig.
 Förmågan regleras genom avtal mellan RSG och MSB
 \- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
+genomförande av räddningsinsatsen i form av bild och film från
 ovan.
+
 8.2.6 Drunkning
+
 Samtliga heltids- och RiB-styrkor kan utföra en första insats vid drunkningsolyckor. För mer
 komplicerade räddningsinsatser med behov av vattendykare, större båt etc. krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 10)
+
 Tabell 10. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
-Område               Förmåga som omfattas av
+Område              Förmåga som omfattas av
 
 \- att rädda enstaka personer i ytläge eller på grunt vatten,
 Vattenlivräddning
@@ -12264,14 +12331,14 @@ Vattenlivräddning
 \- att med hjälp av båt med olika storlek bedriva räddningsinsats på
 och invid hav, sjöar och vattendrag. Båtarnas användningsområde
 kan sammanfattas till följande:
-\-  Livräddning vid hot om hopp från bro.
-\-  Resursuppbyggnad (personal och material) till södra
+\- Livräddning vid hot om hopp från bro.
+\- Resursuppbyggnad (personal och material) till södra
 Räddningsbåt
 skärgården vid större händelse.
-\-  Brandbekämpning vid bränder i fastigheter nära vatten och
+\- Brandbekämpning vid bränder i fastigheter nära vatten och
 vid brand i fartyg.
-\-  Dykplattform vid insats med vattendykare.
-\-  Andra räddningsuppdrag på och vid insjöar och vattendrag.
+\- Dykplattform vid insats med vattendykare.
+\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
 \- att utföra räddningsdykning ner till 40 meters djup för att utföra
 sök och livräddningssinsats.
 \- RSG är en del i den internationella organisationen DiveSMART för
@@ -12279,6 +12346,7 @@ Räddningsdykare (vatten)
 att både kunna ta hjälp av andra organisationers vattendykare och
 hjälpa andra organisationer vid större komplexa olyckor med behov
 av vattendykare.
+
 47 (56)
 
 <!-- sida 278 -->

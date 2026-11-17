@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320083120id_/https://www.kungsbacka.
 sha256: a850332ea5a75c7f102459cc0ac5f28ded9c6e90062f406893ece0d79452f121
 bytes: 226642674
 sidor: 2091
-hamtad: 2026-10-27T10:18:27+00:00
-konverterad: 2026-10-27T10:32:22+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:16:18+00:00
+konverterad: 2026-11-17T12:25:11+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad]
@@ -3237,43 +3237,68 @@ or, Bokmärken".
 <!-- sida 95 -->
 
 Läsinstruktioner
-Författare                Avdelning Datum      Reviderad Version Sida
+
+Författare                Avdelning Datum     Reviderad Version Sida
 Benjamin Yousefi          AFI       2021-09-27 2021-10-01 1.1 9 (38)
 Normering och främjande   Noteringar
 FormatE                   RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
 Dokumentet senast sparat fredag den 1 oktober 2021.
 
 2.3.3 Underlagets struktur
-
 I Figur 2 illustreras strukturen av underlaget som skickats ut på remiss. Underlaget kan ses ur fyra
 perspektiv.
 
 1\. Från Riksarkivets perspektiv som ansvarig 3. Från perspektivet av de verksamheter som
 myndighet för underlaget är utgångspunkten ska tolka och förstå underlaget i det enskilda
-den fortlöpande förvaltningen. Till exempel, fallet, där Riksarkivet är endast en bland övri-
-omvärldsbevakning, rättsliga och tekniska ut- ga, är utgångspunkten de arkivrättsliga kraven
-redningar. Resultatet av förvaltning kan tas som avgränsar och preciserar de tekniska kra-
-med i konsekvensutredningen och, eller författ- ven. De tekniska kraven kan emellertid komp-
-ningskommentarerna, vilka sedan kan påverka lettera eller utöka de arkivrättsliga kraven. Till
-författningsförslagen TeK. Denna process rep- exempel, eftersom de arkivrättsliga kraven en-
-resenteras av de uppgående pilarna till vänster dast reglerar vissa delar, eller för att det saknas
-med färgen gult.                   arkivrättsliga krav för ett fall. De tekniska krav-
-en kan närmare förklaras av författningskom-
-2\. Från perspektivet av arkivmyndigheter eller mentarerna till TeK. Denna process represen-
-andra med motsvarande ansvar, där Riksarki- teras av pilarna till höger med färgen orange.
+
+den fortlöpande förvaltningen. Till exempel,
+omvärldsbevakning, rättsliga och tekniska ut-
+redningar. Resultatet av förvaltning kan tas
+med i konsekvensutredningen och, eller författ-
+ningskommentarerna, vilka sedan kan påverka
+författningsförslagen TeK. Denna process rep-
+resenteras av de uppgående pilarna till vänster
+med färgen gult.
+
+2\. Från perspektivet av arkivmyndigheter eller
+andra med motsvarande ansvar, där Riksarki-
 v et är endast en bland övriga, är utgångs-
-punkten författningsförslagen TeK som sätter 4. Det sista perspektivet är från de som har ett
-gränserna för vilka materiel och metoder intresse i att förstå de bakomliggande anled-
-som kan närmare användas av    enskilda ningarna till varför underlaget ens finns.
-verksamheter som ska överlämna            Till exempel, problembeskrivningen,
+punkten författningsförslagen TeK som sätter
+
+fallet, där Riksarkivet är endast en bland övri-
+ga, är utgångspunkten de arkivrättsliga kraven
+som avgränsar och preciserar de tekniska kra-
+ven. De tekniska kraven kan emellertid komp-
+lettera eller utöka de arkivrättsliga kraven. Till
+exempel, eftersom de arkivrättsliga kraven en-
+dast reglerar vissa delar, eller för att det saknas
+arkivrättsliga krav för ett fall. De tekniska krav-
+en kan närmare förklaras av författningskom-
+mentarerna till TeK. Denna process represen-
+teras av pilarna till höger med färgen orange.
+
+4\. Det sista perspektivet är från de som har ett
+
+gränserna för vilka materiel och metoder
+som kan närmare användas av
+verksamheter som ska överlämna
+allmänna handlingar till dem. Denna
+utgångspunkt representeras
+av pilarna till vänster med
+färgen orange.
+
+intresse i att förstå de bakomliggande anled-
+enskilda ningarna till varför underlaget ens finns.
+Till exempel, problembeskrivningen,
 fall
-allmänna handlingar till dem. Denna       den rättsliga grunden till författnings-
-utgångspunkt representeras  RA-FS ArK          förslagen, och resonemangen
-av pilarna till vänster med                      för valda styrmedel. Denna
-färgen orange.                                  steg representeras av pilen
+den rättsliga grunden till författnings-
+RA-FS ArK         förslagen, och resonemangen
+för valda styrmedel. Denna
+steg representeras av pilen
 till höger med färgen
 RA-FS TeK
 gult.
+
 Författningskommentarer
 
 Konsekvensutredning
@@ -6788,54 +6813,65 @@ avbildningar.           – Ikoner i PNG.
 
 <!-- sida 162 -->
 
-Fall          S. Beskrivning             Exempel
-– Voxlar i MNG.
+Fall           S. Beskrivning            Exempel
+–  Voxlar i MNG.
+
 Databaser och dataupp- 60 Särskilda tekniska krav på tekniska skick – Databaser i binära format i data-
-sättningar       som ger en form och funktion till struk- bashanterare för relationsdata-
+sättningar        som ger en form och funktion till struk- bashanterare för relationsdata-
 turer och relationer mellan värden som baser som MariaDB, MySQL,
 organiseras i grafer, objekt, tabellform, PostgreSQL, SQLite.
-eller på annat sätt.    – Platta, även benämnda flata, da-
+eller på annat sätt.   –  Platta, även benämnda flata, da-
 tabaser i textformat som CSV,
 FLF, och TSV.
-– Nyckel-värde-databaser som
+–  Nyckel-värde-databaser som
 Berkeley DB eller Redis.
 
 Informationsformat 63 Särskilda tekniska krav på tekniska skick – Dataformat som JSON.
 som ger en form och funktion till infor- – Datascheman som DTD, XSD.
 mationsstrukturer i symboler vanligtvis – Datum och klockslag.
 avsedda att läsas eller kunna läsas av – Frågespråk som SQL.
-människor.              – Identifieringskoder,
+människor.             –  Identifieringskoder,
 landskoder, språkkoder.
-– Metaspråk och notationer och
+–  Metaspråk och notationer och
 som BNF och UML.
-– Märkspråk som BBCode, HTML,
+–  Märkspråk som BBCode, HTML,
 Markdown, XML, men även så-
 dana som RTF och LaTeX.
-– Programmeringsspråk som C,
+–  Programmeringsspråk som C,
 Javascript, Python, Rust.
-– Reguljära uttryck (RegEx).
-– Stilmallar som CSS.
+–  Reguljära uttryck (RegEx).
+–  Stilmallar som CSS.
 Kommunikation och 71 Särskilda tekniska krav på tekniska skick – E-post
-protokoll        som ger en form och funktion till medd- – MMS
+protokoll         som ger en form och funktion till medd- – MMS
 elanden i kommunikation. – SMS
-– Snabbmeddelanden
-Ljud          72 Särskilda tekniska krav på tekniska skick – Instruktioner och notationer för
+–  Snabbmeddelanden
+Ljud           72 Särskilda tekniska krav på tekniska skick – Instruktioner och notationer för
 som ger en form och funktion till effekt- syntetisk ljud i MIDI.
 er, musik, tal, och andra vibrerande våg- – Ljudsamplingar i PCM.
 or inspelade som samplingar eller besk- – Ljudspår i en video.
 rivna som instruktioner för uppspelning. – Musik i MP3.
-Organisering och sam- 78 Särskilda tekniska krav på tekniska egen- – Bifogade datafiler till en e-post.
-manställning     skaper och funktionaliteter som ordnar, – Dokument med bilder, text eller
-kombinerar, eller kompilerar formaten i video i kontorsdokument och
-det tekniska skicket genom att länka ell- kalkylblad.
-er sammansätta ihop dem till en förenad – Inneslutning av datafiler i arkiv-
-form och funktion.        format som TAR och ZIP, eller
+
+Organisering och sam- 78 Särskilda tekniska krav på tekniska egen-
+manställning      skaper och funktionaliteter som ordnar,
+kombinerar, eller kompilerar formaten i
+det tekniska skicket genom att länka ell-
+er sammansätta ihop dem till en förenad
+form och funktion.
+
+– Bifogade datafiler till en e-post.
+– Dokument med bilder, text eller
+video i kontorsdokument och
+kalkylblad.
+– Inneslutning av datafiler i arkiv-
+format som TAR och ZIP, eller
 av binär data med base64.
+
 – Hyperlänkar till dokument och
 webbsidor.
 – Arkivpaket som AIP, DIP, SIP.
 – Webbsidor med bilder, text och
 video i HTML.
+
 Rörlig bild och video 88 Särskilda tekniska krav på tekniska skick – Film, klipp, eller animationer
 som ger en form och funktion till rörlig som sekventiella bildrutor i
 bild och video med eller utan ljud som APNG eller GIF.
@@ -6873,54 +6909,84 @@ hashvärde i SHA-2 256.
 3.2.1. Autenticitet, dataintegritet, tillitsmodeller, och äkthet
 
 Tabell 5 Allmänna tekniska krav på Autenticitet, dataintegritet, tillitsmodeller, och äkthet.
-
-\# Fall                   Krav   Skäl                             Exempel
-1\. K ryptering, helt eller delvist, av ett tek- Får inte Kryptering medför en alltför stor risk att dekryptering – Kryptering av ett dokument som begränsar möj-
-niskt skick.                  med tiden inte kommer att vara möjligt med följd att det ligheten att kopiera text eller skriva ut vilket för-
-dels försvårar eller förhindrar användning och hantering, hindrar praktisk användning och vidareutnyttjan-
-dels fullständigt omintetgör återgivning. Kryptering vid de.
-framställning av det tekniska skicket när det avser digi- – Lösenord med en hög entropi riskerar att glömm-
-tala signaturer och liknande teknik för att påvisa datainte- as bort, medan en låg entropi motsäger behov och
-gritet och, eller äkthet är emellertid tillåtet genom särskil- krav på att ha ett lösenord.
-da krav för Underskrifter, stämplar, och förseglingar (s. – Teknisk metadata för dekryptering kan korrupter-
-99).                                as.
-2\. T illfällig kryptering, helt eller delvist, Får En kryptering av ett tekniskt skick som endast omfattar – Kryptering av lagringsenheter för transport.
-av ett tekniskt skick.        en begränsad tidsperiod, vanligtvis som en säkerhets- – Kryptering av uppkoppling för nätverkstrafik.
+\# Fall                   Krav    Skäl
+1\. K ryptering, helt eller delvist, av ett tek- Får inte Kryptering medför en alltför stor risk att dekryptering
+niskt skick.                   med tiden inte kommer att vara möjligt med följd att det
+dels försvårar eller förhindrar användning och hantering,
+dels fullständigt omintetgör återgivning. Kryptering vid
+framställning av det tekniska skicket när det avser digi-
+tala signaturer och liknande teknik för att påvisa datainte-
+gritet och, eller äkthet är emellertid tillåtet genom särskil-
+da krav för Underskrifter, stämplar, och förseglingar (s.
+99).
+2\. T illfällig kryptering, helt eller delvist, Får En kryptering av ett tekniskt skick som endast omfattar
+av ett tekniskt skick.         en begränsad tidsperiod, vanligtvis som en säkerhets-
 åtgärd varefter dekryptering förutsätts, bör inte medföra
 sådana risker som avses i fall #1. En fortsatt lagring, eller
 användning och hantering av det krypterade tekniska
 skicket skulle däremot aktualisera fall #1.
-3\. K ondensat för att påvisa att ett tekniskt Får Kryptografiska hashfunktioner är särskilt lämpade för att – Algoritmen ger inte upphov till kollisioner mellan
-skick är unik avgränsad information i framställa kondensat av information. Ett kondensat är be- olika mängder information.
-förhållande till annan information. ständigt i den utsträckning det är säkert. Med andra ord, – Algoritmen är inte mottaglig till attacker som utö-
-behov av och krav på beständighet överlappar med behov kade-längd attacker (eng. Length extension att-
-av och krav på säkerhet. Det förutsätter att informationen ack) för hemliga meddelanden.
-som låg till underlag för beräkningen av kondensat finns – Tillföra slumpmässiga tillägg (eng. salt) för att
-tillgänglig för att åter kunna utföra beräkningen. skapa unika varianser av kondensat av samma in-
-formation som annars ska ge samma kondensat.
-4\. K ontrollsumma för att påvisa att ett Bör Kontrollfunktioner för att beräkna kontrollsummor är av- – Cyklisk redundanskontroll i CRC-32.
+
+3\. K ondensat för att påvisa att ett tekniskt Får Kryptografiska hashfunktioner är särskilt lämpade för att
+skick är unik avgränsad information i framställa kondensat av information. Ett kondensat är be-
+förhållande till annan information. ständigt i den utsträckning det är säkert. Med andra ord,
+behov av och krav på beständighet överlappar med behov
+av och krav på säkerhet. Det förutsätter att informationen
+som låg till underlag för beräkningen av kondensat finns
+tillgänglig för att åter kunna utföra beräkningen.
+
+4\. K ontrollsumma för att påvisa att ett Bör Kontrollfunktioner för att beräkna kontrollsummor är av-
 tekniskt skick inte har förändrats. sedda att upptäcka oväntade fel vid användning och han-
+
+Exempel
+– Kryptering av ett dokument som begränsar möj-
+ligheten att kopiera text eller skriva ut vilket för-
+hindrar praktisk användning och vidareutnyttjan-
+de.
+– Lösenord med en hög entropi riskerar att glömm-
+as bort, medan en låg entropi motsäger behov och
+krav på att ha ett lösenord.
+– Teknisk metadata för dekryptering kan korrupter-
+as.
+– Kryptering av lagringsenheter för transport.
+– Kryptering av uppkoppling för nätverkstrafik.
+
+– Algoritmen ger inte upphov till kollisioner mellan
+olika mängder information.
+– Algoritmen är inte mottaglig till attacker som utö-
+kade-längd attacker (eng. Length extension att-
+ack) för hemliga meddelanden.
+– Tillföra slumpmässiga tillägg (eng. salt) för att
+skapa unika varianser av kondensat av samma in-
+formation som annars ska ge samma kondensat.
+– Cyklisk redundanskontroll i CRC-32.
 
 40
 
 <!-- sida 165 -->
 
-\# Fall                   Krav   Skäl                             Exempel
-tering av information. Det har påträffats att kontrollfunk- – Information som dekomprimeras får samma kon-
-tioner använder eller beskrivs som en typ av hashfunk- trollsumma som informationen hade innan kom-
-tion. Algoritmer för kontrollfunktioner är emellertid inte primeringen. Sådana metoder är inbyggda i form-
-avsedda att påvisa att informationen är unik, varför kon- at som FLAC och FFV1.
-trollfunktioner inte ska sammanblandas med kryptografi- – Kontrollsiffran i personnummer.
+\# Fall                   Krav    Skäl
+tering av information. Det har påträffats att kontrollfunk-
+tioner använder eller beskrivs som en typ av hashfunk-
+tion. Algoritmer för kontrollfunktioner är emellertid inte
+avsedda att påvisa att informationen är unik, varför kon-
+trollfunktioner inte ska sammanblandas med kryptografi-
 ska hashfunktioner. Kontrollfunktioner har betydelse för
 elektroniska handlingars beständighet genom att kunna
 påvisa att en återgivning utgår från samma information
 som vid framställning.
 
+Exempel
+– Information som dekomprimeras får samma kon-
+trollsumma som informationen hade innan kom-
+primeringen. Sådana metoder är inbyggda i form-
+at som FLAC och FFV1.
+– Kontrollsiffran i personnummer.
+
 3.2.2. Implementering
 
 3.2.2.1. Arkitektur
-Tabell 6 Allmänna tekniska krav på implementering av arkitektur.
 
+Tabell 6 Allmänna tekniska krav på implementering av arkitektur.
 \# Fall                   Krav    Skäl                            Exempel
 1\. A vgränsa och separera implementerin- Bör Abstrakta koncept ska inte sammanblandas när det finns – Skilj mellan mekanism och policy.
 gen av format i ett tekniskt skick. tekniska egenskaper och funktionaliteter för att separera – Skilj mellan modell, vy, och kontroll.
@@ -6930,10 +6996,9 @@ i.
 –  Undvik attribut för CSS och Javascript i element
 för HTML.
 
-3.2.2.2. Omsluta och innesluta
+3.2.2.2.Omsluta och innesluta
 
 Tabell 7 Allmänna tekniska krav på implementering av omslutning och inneslutning.
-
 \# Fall                   Krav    Skäl                            Exempel
 1\. O msluta och, eller innesluta alla format Bör Att använda och hantera tekniska skick vars format är – Format som är vanligt förekommande att omsluta
 nödvändiga och tillräckliga för att imp- länkade och separerade kan med tiden bli problematiskt. och, eller innesluta: bilder, digitala signaturer,
@@ -6944,38 +7009,78 @@ lan två eller flera format för ett tekniskt skick är därför
 
 <!-- sida 166 -->
 
-\# Fall                   Krav    Skäl                            Exempel
-lämpligt med hänsyn till behovet av den elektroniska – Tekniska egenskaper och funktionaliteter som
-handlingens beständighet.          kan vara svårare att omsluta och, eller innesluta
-är sådana som är beroende av specifika filsystem,
-operativsystem, och, eller programbibliotek.
-2\. I ett tekniskt skick för en elektronisk Får Ett tekniskt skick utgörs av alla omslutna och inneslutna – Ett kontorsdokument som framställts som PDF/A
-handling som uppfyller kraven i denna (villkorat) format, varför samtliga måste uppfylla kraven i denna -3a kan även bifogas det resulterande PDF/A-3-
-författning, omsluta eller innesluta ett författning. För de fall ett tekniskt skick inte är lämpligt dokumentet, eftersom det finns ett särskilt krav
-annat tekniskt skick som representerar gäller vad som sägs i 4 kap. 4 §. En arkivmyndighet, ell- som tillåter en sådan Organisering och samman-
-samma elektroniska handling men som er annan med motsvarande ansvar, kan emellertid även ställning (s. 78). Det förutsätter att det resulterade
-inte uppfyller de tekniska kraven i den- tillåta en strategi för bevarande där en elektronisk hand- PDF/A-3a-dokumentet uppfyller alla krav.
-na författning.                ling som representeras med två eller flera tekniska skick,
+\# Fall                   Krav
+
+2\. I ett tekniskt skick för en elektronisk Får
+handling som uppfyller kraven i denna (villkorat)
+författning, omsluta eller innesluta ett
+annat tekniskt skick som representerar
+samma elektroniska handling men som
+inte uppfyller de tekniska kraven i den-
+na författning.
+
+3.2.2.3. Teknisk metadata
+
+Tabell 8 Allmänna tekniska krav på implementering av teknisk metadata.
+
+\# Fall                   Krav
+1\. T ekniska metadata som annotationer Bör
+och kommentarer i relationsdatabaser.
+
+2\. T eknisk metadata om teckenkodningen Bör
+i textformatet.
+
+Skäl
+lämpligt med hänsyn till behovet av den elektroniska
+handlingens beständighet.
+
+Ett tekniskt skick utgörs av alla omslutna och inneslutna
+format, varför samtliga måste uppfylla kraven i denna
+författning. För de fall ett tekniskt skick inte är lämpligt
+gäller vad som sägs i 4 kap. 4 §. En arkivmyndighet, ell-
+er annan med motsvarande ansvar, kan emellertid även
+tillåta en strategi för bevarande där en elektronisk hand-
+ling som representeras med två eller flera tekniska skick,
 varav minst ett uppfyller kraven i denna författning, bev-
 aras tillsammans. För dessa fall finns det alltså minst ett
 tekniskt skick som inte är lämpligt men det avser inte att
 uppfylla samma syfte som det tekniska skicket som är
 lämpligt, varför 4 kap. 4 § inte är tillämpligt.
 
-3.2.2.3. Teknisk metadata
+Skäl
+Teknisk metadata om värden i fält, och logiska relation-
+er mellan kolumner, tabeller och databaser kan anges
+som kommentarer i relationsdatabasen om relations-
+databashanteringsprogrammet har stöd för det.
 
-Tabell 8 Allmänna tekniska krav på implementering av teknisk metadata.
-\# Fall                   Krav    Skäl                            Exempel
-1\. T ekniska metadata som annotationer Bör Teknisk metadata om värden i fält, och logiska relation- – MariaDB och MySQL har stöd för att ange
-och kommentarer i relationsdatabaser. er mellan kolumner, tabeller och databaser kan anges COMMENT 'string' (1024 characters) till tabeller
-som kommentarer i relationsdatabasen om relations- och kolumner, medan PostgreSQL har COMMENT ON
-databashanteringsprogrammet har stöd för det. [databas object].
-
-2\. T eknisk metadata om teckenkodningen Bör Avkodningen av ett textformat kan bli fel om den tekni- – HTML \<meta charset="utf-8">
-i textformatet.                ska miljön antingen inte kan tolka eller har andra grund- – Python -\*- coding: utf-8 -\*-
-inställningar för teckenkodningen. Till exempel, felak- – XML \<?xml version="1.0" encoding="utf-8" ?>
+Avkodningen av ett textformat kan bli fel om den tekni-
+ska miljön antingen inte kan tolka eller har andra grund-
+inställningar för teckenkodningen. Till exempel, felak-
 tig metadata har angetts vid överföring, eller att ett prog-
 ram är inställt att alltid implementera en annan tecken-
+
+Exempel
+– Tekniska egenskaper och funktionaliteter som
+kan vara svårare att omsluta och, eller innesluta
+är sådana som är beroende av specifika filsystem,
+operativsystem, och, eller programbibliotek.
+
+– Ett kontorsdokument som framställts som PDF/A
+-3a kan även bifogas det resulterande PDF/A-3-
+dokumentet, eftersom det finns ett särskilt krav
+som tillåter en sådan Organisering och samman-
+ställning (s. 78). Det förutsätter att det resulterade
+PDF/A-3a-dokumentet uppfyller alla krav.
+
+Exempel
+– MariaDB och MySQL har stöd för att ange
+COMMENT 'string' (1024 characters) till tabeller
+och kolumner, medan PostgreSQL har COMMENT ON
+[databas object].
+
+– HTML \<meta charset="utf-8">
+– Python -\*- coding: utf-8 -\*-
+– XML \<?xml version="1.0" encoding="utf-8" ?>
 
 42
 
@@ -7015,75 +7120,129 @@ och mer precisa konverteringar.
 
 <!-- sida 168 -->
 
-3.2.2.5. Tolkning av specifikation
+3.2.2.5.Tolkning av specifikation
+
 Tabell 10 Allmänna tekniska krav på implementering vid tolkning av specifikation.
 
-\# Fall                   Krav    Skäl                            Exempel
-1\. T ekniskt skick som ger en form och Får inte Specifikationer för tekniska skick avser vanligtvis att ge – Att använda bilder för att representera text, med
-funktion för ett innehåll som inte är av- en form och funktion lämpligt för en typ av innehåll. följd att texten inte kan kopieras.
-sett för den formen och funktionen en- Den formen och funktionen kan emellertid implemen- – Att försöka ”stryka över” information genom att
-ligt specifikationen för det tekniska ski- teras för en annan typ av innehåll än vad som är avsedd. ändra färgen på text och bakgrund till svart färg,
-cket.                          Problemet är att vid återgivning av det tekniska skicket men med följd att text fortfarande kan kopieras.
-kan andra implementatörer endast utgå från vad som – Att använda kalkylblad eller tabeller för att rep-
-följer av specifikationen för det tekniska skicket. Det vill resentera annat än tabulär data såsom layout, med
-säga, att formen och funktionen representerar avsedd typ följd att vidare bearbetning försvåras.
-av innehåll. Konsekvensen är att formen och funktionen – Att använda textformat för databaser för att lagra
-i andra program antingen inte återges som förväntat, relationsdatabaser med följd att relationerna i da-
-återges men med oförutsägbara konsekvenser, eller åter- tabasen förloras.
+\# Fall
+1\. T ekniskt skick som ger en form och
+funktion för ett innehåll som inte är av-
+sett för den formen och funktionen en-
+ligt specifikationen för det tekniska ski-
+cket.
+
+Krav    Skäl
+Får inte Specifikationer för tekniska skick avser vanligtvis att ge
+en form och funktion lämpligt för en typ av innehåll.
+Den formen och funktionen kan emellertid implemen-
+teras för en annan typ av innehåll än vad som är avsedd.
+Problemet är att vid återgivning av det tekniska skicket
+kan andra implementatörer endast utgå från vad som
+följer av specifikationen för det tekniska skicket. Det vill
+säga, att formen och funktionen representerar avsedd typ
+av innehåll. Konsekvensen är att formen och funktionen
+i andra program antingen inte återges som förväntat,
+återges men med oförutsägbara konsekvenser, eller åter-
 ges men kan inte användas och hanteras som avsett.
-2\. T ekniskt skick med tekniska egenskaper Får inte Ett program kan ha stöd för att lagra tekniska egenskaper – LibreOffice kan omsluta ett ODT-dokument i ett
-och funktionaliteter som inte uttrycklig- och funktionaliteter i ett format som inte framgår av spe- PDF/A-1-dokument, vilket varken är ogiltig enli-
-en är tillåtet eller som är uttryckligen cifikationen för formatet. Till exempel, genom att speci- gt veraPDF eller förbjuden enligt PDF/A-1.
-förbjudet enligt specifikationen för det fikationen har utökats eller tolkats extensivt av imple- – Digitala signaturer är inte uttryckligen förbjudna
-tekniska skicket.              mentatören. Problemet är att vid återgivning av det tek- i PDF/A-1, varför de har införts genom en teknisk
-niska skicket kan andra implementatörer endast utgå anteckning av tredje part.
-från vad som följer av specifikationen för det tekniska – Leverantörsspecifika tillägg i CSS; moz, ms, web-
-skicket. Konsekvensen är att ett andra program antingen kit.
-inte återger formatet som förväntat, återger det men med – Leverantörsspecifika implementeringar av SQL.
-oförutsägbara konsekvenser, eller återger det men det – Varianser i utökningen av ASCII 7-bit till 8-bit.
-kan inte användes och hanteras som avsett. – Implementeringar av DocX och ODT i LibreOffi-
+
+2\. T ekniskt skick med tekniska egenskaper Får inte Ett program kan ha stöd för att lagra tekniska egenskaper
+och funktionaliteter som inte uttrycklig- och funktionaliteter i ett format som inte framgår av spe-
+en är tillåtet eller som är uttryckligen cifikationen för formatet. Till exempel, genom att speci-
+förbjudet enligt specifikationen för det fikationen har utökats eller tolkats extensivt av imple-
+tekniska skicket.              mentatören. Problemet är att vid återgivning av det tek-
+niska skicket kan andra implementatörer endast utgå
+från vad som följer av specifikationen för det tekniska
+skicket. Konsekvensen är att ett andra program antingen
+inte återger formatet som förväntat, återger det men med
+oförutsägbara konsekvenser, eller återger det men det
+kan inte användes och hanteras som avsett.
+
+3\. T ekniska egenskaper och funktionali- Får Problemet för fall där en specifikation endast uppmanar
+teter som enligt specifikationen anting- (villkorat) till en viss implementering är att vissa implementatörer
+en bör eller bör inte implementeras. kan tolka det som ”ska” medan andra som ”får” eller ”får
+inte”. Konsekvensen är att implementeringar kan variera
+mellan program. En verksamhet bör därför vara upp-
+märksam på sådana tekniska krav i specifikationer vid
+
+Exempel
+– Att använda bilder för att representera text, med
+följd att texten inte kan kopieras.
+– Att försöka ”stryka över” information genom att
+ändra färgen på text och bakgrund till svart färg,
+men med följd att text fortfarande kan kopieras.
+– Att använda kalkylblad eller tabeller för att rep-
+resentera annat än tabulär data såsom layout, med
+följd att vidare bearbetning försvåras.
+– Att använda textformat för databaser för att lagra
+relationsdatabaser med följd att relationerna i da-
+tabasen förloras.
+
+– LibreOffice kan omsluta ett ODT-dokument i ett
+PDF/A-1-dokument, vilket varken är ogiltig enli-
+gt veraPDF eller förbjuden enligt PDF/A-1.
+– Digitala signaturer är inte uttryckligen förbjudna
+i PDF/A-1, varför de har införts genom en teknisk
+anteckning av tredje part.
+– Leverantörsspecifika tillägg i CSS; moz, ms, web-
+kit.
+– Leverantörsspecifika implementeringar av SQL.
+– Varianser i utökningen av ASCII 7-bit till 8-bit.
+– Implementeringar av DocX och ODT i LibreOffi-
 ce respektive MS Office.
-3\. T ekniska egenskaper och funktionali- Får Problemet för fall där en specifikation endast uppmanar – Enligt RFC 2396 kan vissa sökvägar innehålla [
-teter som enligt specifikationen anting- (villkorat) till en viss implementering är att vissa implementatörer och ], utan att behöva procentkoda dem, vilket
-en bör eller bör inte implementeras. kan tolka det som ”ska” medan andra som ”får” eller ”får implementeras av klassen java.net.URI. I RFC
-inte”. Konsekvensen är att implementeringar kan variera 3986 som ersatte RFC 2396, angavs istället att så-
-mellan program. En verksamhet bör därför vara upp- dana sökvägar bör inte innehålla respektive teck-
-märksam på sådana tekniska krav i specifikationer vid en. Implementeringen kunde inte ändras utan att
+– Enligt RFC 2396 kan vissa sökvägar innehålla [
+och ], utan att behöva procentkoda dem, vilket
+implementeras av klassen java.net.URI. I RFC
+3986 som ersatte RFC 2396, angavs istället att så-
+dana sökvägar bör inte innehålla respektive teck-
+en. Implementeringen kunde inte ändras utan att
 
 44
 
 <!-- sida 169 -->
 
-\# Fall                   Krav    Skäl                            Exempel
+\# Fall
+
+3.2.3. Komprimering
+
+Tabell 11 Allmänna tekniska krav på komprimering.
+
+\# Fall
+1\. F örlustfri komprimering av ett tekniskt
+skick.
+
+2\. F örlustfri komprimering av ett tekniskt
+skick med mindre lämpliga komprime-
+ringar.
+
+3\. F örlustfri komprimering av ett tekniskt
+skick med maximal komprimering.
+
+Krav    Skäl                            Exempel
 implementering, och dokumentera dem så att en annan påverka bakåtkompatibiliteten med befintliga
 implementatör kan göra samma implementering. källkoder som var beroende av klassen. Det finns
 andra implementeringar av specifikationen som
 tolkat kravet som ”får inte”, varför utfaller kom-
 mer att bli olika mellan dessa program.
 
-3.2.3. Komprimering
-
-Tabell 11 Allmänna tekniska krav på komprimering.
-
-\# Fall                   Krav    Skäl                            Exempel
-1\. F örlustfri komprimering av ett tekniskt Ska Huvudregeln är att för fall komprimering implementeras – DEFLATE
-skick.                         ska den vara förlustfri. För de flesta fall är detta det mest – FFV1
+Krav    Skäl                            Exempel
+Ska     Huvudregeln är att för fall komprimering implementeras – DEFLATE
+ska den vara förlustfri. För de flesta fall är detta det mest – FFV1
 lämpliga utgångspunkten med hänsyn till vad som sägs – FLAC
 för fall #6, eftersom från ett tekniskt skick som har för- – LZW
 lustfri komprimering kan implementeras ett nytt tekniskt
 skick som har förlustgivande komprimering, medan det
 omvända inte är möjligt.
-2\. F örlustfri komprimering av ett tekniskt Får Ett tekniskt skick kan ha en förlustfri komprimering som – Förlustfri AV1
-skick med mindre lämpliga komprime- (villkorat) enligt denna författning anses mindre lämplig förutsatt – Förlustfri AAC
-ringar.                        att en verksamhet har dels kunskap om program och in- – Förlustfri MPEG-4 AVC
+Får     Ett tekniskt skick kan ha en förlustfri komprimering som – Förlustfri AV1
+(villkorat) enligt denna författning anses mindre lämplig förutsatt – Förlustfri AAC
+att en verksamhet har dels kunskap om program och in- – Förlustfri MPEG-4 AVC
 ställningar för att kunna implementera den, dels resurser – Förlustfri Motion JPEG 2000
 för att senare om nödvändigt kunna omkomprimera till
 en mer lämplig komprimering, och tekniskt kontrollera
 resultatet. En verksamhet som saknar sådana förutsätt-
 ningar bör alltså överväga andra förlustfria komprimer-
 ingar.
-3\. F örlustfri komprimering av ett tekniskt Bör En förlustfri komprimering ska inte orsaka informa- – Kompressionsnivåer i Zlib, från ingen komprime-
-skick med maximal komprimering. tionsförlust och den enda anledningen att inte alltid im- ring (0) till maximal komprimering (9).
+Bör     En förlustfri komprimering ska inte orsaka informa- – Kompressionsnivåer i Zlib, från ingen komprime-
+tionsförlust och den enda anledningen att inte alltid im- ring (0) till maximal komprimering (9).
 plementera maximal komprimering är att den tekniska
 processen kan kräva mer datorresurser vid komprimer-
 ing och, eller dekomprimering.
@@ -7092,9 +7251,21 @@ ing och, eller dekomprimering.
 
 <!-- sida 170 -->
 
-\# Fall                   Krav    Skäl                            Exempel
-4\. F örlustgivande komprimering av ett Får Ett tekniskt skick ska uppfylla vad som sägs i fall #1 om – AV1
-tekniskt skick.        (villkorat) det avser en handling som ska bevaras för all framtid – AAC
+\# Fall
+4\. F örlustgivande komprimering av ett
+tekniskt skick.
+
+5\. F örlustgivande komprimering av ett
+tekniskt skick med maximal kvalitet
+eller minimal komprimering.
+
+6\. F örlustgivande komprimering av ett
+tekniskt skick som redan har förlustgiv-
+ande komprimering.
+
+Krav    Skäl                            Exempel
+Får     Ett tekniskt skick ska uppfylla vad som sägs i fall #1 om – AV1
+(villkorat) det avser en handling som ska bevaras för all framtid – AAC
 och, eller överlämnas till en arkivmyndighet, eller annan – JPEG
 med motsvarande ansvar. Med andra ord, förlustgivande – JPEG 2000
 komprimering är endast tillåtet för fall handlingar inte – MP3
@@ -7104,46 +7275,66 @@ för artefakter även med en hög kvalitet eller låg kompri- – Theora
 mering, och deras potentiella alternativa användningar – Vorbis
 och hanteringar begränsas för all framtid med hänsyn till
 vad som sägs för fall #6.
-5\. F örlustgivande komprimering av ett Bör En förlustgivande komprimering orsakar informations- – Kompressionsnivåer i JPEG, från minimal kvalit-
-tekniskt skick med maximal kvalitet förluster, varför dessa förluster bör minimeras med hän- et (0) till maximal kvalitet (100).
-eller minimal komprimering.    syn till behovet av beständighet oavsett kostnaden på da-
+
+Bör     En förlustgivande komprimering orsakar informations-
+förluster, varför dessa förluster bör minimeras med hän-
+syn till behovet av beständighet oavsett kostnaden på da-
 torresurser och minskad hastighet vid komprimering och
 dekomprimering. För andra behov och krav kan det där-
 emot finnas anledning att prioritera minskade kostnader
 på datorresurser eller snabbare hastighet.
-6\. F örlustgivande komprimering av ett Får inte En förlustgivande komprimering av information som re- – Att åter spara en bild i JPEG, även med kvalitet
-tekniskt skick som redan har förlustgiv- dan har komprimerats förlustgivande resulterar i ackum- 100, i JPEG, kommer att implementera en förlust-
-ande komprimering.             ulerade informationsförluster. Det krävs dels kunskap fri komprimering igen.
-om, dels speciella program för att använda och hantera – Att ladda upp en video i MPEG-4 AVC till en
-tekniska skick med förlustgivande komprimering. Till videotjänst på Internet som sedan kodar om den
-exempel, en bild med förlustgivande komprimering kan igen med förlustgivande komprimering.
+Får inte En förlustgivande komprimering av information som re-
+dan har komprimerats förlustgivande resulterar i ackum-
+ulerade informationsförluster. Det krävs dels kunskap
+om, dels speciella program för att använda och hantera
+tekniska skick med förlustgivande komprimering. Till
+exempel, en bild med förlustgivande komprimering kan
 kopieras från ett filformat till ett annat, men om det sker
 en omkodning med en förlustgivande komprimering för-
 värras informationsförlusterna. Det finns program som
 kan hantera förlustgivande komprimering utan att åter
 implementera en förlustgivande komprimering.
 
+– Kompressionsnivåer i JPEG, från minimal kvalit-
+et (0) till maximal kvalitet (100).
+
+– Att åter spara en bild i JPEG, även med kvalitet
+100, i JPEG, kommer att implementera en förlust-
+fri komprimering igen.
+– Att ladda upp en video i MPEG-4 AVC till en
+videotjänst på Internet som sedan kodar om den
+igen med förlustgivande komprimering.
+
 46
 
 <!-- sida 171 -->
 
 3.2.4. Licenser och patent
-Tabell 12 Allmänna tekniska krav på licenser och patent.
 
-\# Fall                   Krav    Skäl                            Exempel
-1\. V al av specifikation med licenser som Bör inte Det finns fem typer av licenser att skilja mellan, varav – Avgifter kan aktualiseras vid distribution till slut-
-begränsar implementeringen av ett tek- tre kan aktualisera detta fall. En typ är patentlicenser användare av program som kodar och avkodar
-niskt skick.                   som kan ställa patenträttsliga krav på kodningen eller av- AAC, MPEG-4 AVC, MPEG-H HEVC.
-kodningen av ett format. Till exempel, kräva avgifter för – Avgifter kan aktualiseras vid återgivning till slut-
-att implementera ett tekniskt skick eller förbjuda prog- användare av MPEG-4 AVC.
-ram som saknar patentlicens att lagenligt implementera – Källkod med en licens kan bli inkompatibel med
-ett tekniskt skick. Sådana patentlicenser är därför per källkod med en annan licens.
-definition mindre lämpliga med hänsyn till behovet av – Källkod får inte ändras, eller får inte distribueras.
-beständighet. En annan typ är programlicenser som kan – Teckensnitt kan ha engångs- eller löpande avgif-
-ställa upphovsrättsliga krav på användningen och hanter- ter, och begränsa användningen till dels antal an-
-ingen av källkod och program. Till exempel, öppen käll- vändare, datorer, sidor, eller återgivningar, dels
-kod eller ”gratisprogram”. Det ska emellertid uppmärk- form och funktion som mobil, tryck eller webb,
-sammas att det finns programlicenser som avser att reg- dels länkat eller omslutet i ett dokument.
+Tabell 12 Allmänna tekniska krav på licenser och patent.
+\# Fall
+
+1\. V al av specifikation med licenser som
+begränsar implementeringen av ett tek-
+niskt skick.
+
+2\. V al av specifikation som omfattas av
+påstådda patentkrav.
+
+Krav   Skäl
+Bör inte Det finns fem typer av licenser att skilja mellan, varav
+tre kan aktualisera detta fall. En typ är patentlicenser
+som kan ställa patenträttsliga krav på kodningen eller av-
+kodningen av ett format. Till exempel, kräva avgifter för
+att implementera ett tekniskt skick eller förbjuda prog-
+ram som saknar patentlicens att lagenligt implementera
+ett tekniskt skick. Sådana patentlicenser är därför per
+definition mindre lämpliga med hänsyn till behovet av
+beständighet. En annan typ är programlicenser som kan
+ställa upphovsrättsliga krav på användningen och hanter-
+ingen av källkod och program. Till exempel, öppen käll-
+kod eller ”gratisprogram”. Det ska emellertid uppmärk-
+sammas att det finns programlicenser som avser att reg-
 lera användningen och hanteringen av patent. Till exem-
 pel, GPL v3 och MPL v2. Den tredje typen är tecken-
 snittslicenser, vilka är programlicenser, eftersom tecken-
@@ -7156,8 +7347,24 @@ ningen och hanteringen av innehållet som återges. Till
 exempel, filmer, fotografier, musik, eller litteratur, vilka
 kan vara licenserade under CC (eng. Creative Comm-
 ons). Den andra är varumärkeslicenser.
-2\. V al av specifikation som omfattas av Bör inte Utgångspunkten är att undvika specifikationer som om- – AAC
-påstådda patentkrav.           fattas av påstådda patentkrav. Som framgår av alla redo- – AV1
+
+Exempel
+– Avgifter kan aktualiseras vid distribution till slut-
+användare av program som kodar och avkodar
+AAC, MPEG-4 AVC, MPEG-H HEVC.
+– Avgifter kan aktualiseras vid återgivning till slut-
+användare av MPEG-4 AVC.
+– Källkod med en licens kan bli inkompatibel med
+källkod med en annan licens.
+– Källkod får inte ändras, eller får inte distribueras.
+– Teckensnitt kan ha engångs- eller löpande avgif-
+ter, och begränsa användningen till dels antal an-
+vändare, datorer, sidor, eller återgivningar, dels
+form och funktion som mobil, tryck eller webb,
+dels länkat eller omslutet i ett dokument.
+
+Bör inte Utgångspunkten är att undvika specifikationer som om- – AAC
+fattas av påstådda patentkrav. Som framgår av alla redo- – AV1
 gjorda fall för patent kan det emellertid vara svårt att av- – AVIF
 göra om en specifikation är helt fri från patentkrav. Mån- – DNG
 ga specifikationer omfattas dessutom av patentkrav som – HEIF
@@ -7167,69 +7374,125 @@ ett försvar mot andras påstådda patentkrav, och är inte – HEVC
 
 <!-- sida 172 -->
 
-\# Fall                   Krav    Skäl                            Exempel
+\# Fall                    Krav
+
+3\. V al av specifikation som omfattas av Får
+påstådda patentkrav, men patentinneha- (villkorat)
+varna är villig att förhandla om patent-
+licens på rättvisa, rimliga och icke-dis-
+kriminerande villkor.
+
+4\. V al av specifikation som omfattas av Får
+påstådda patentkrav, men patenthavar- (villkorat)
+na antingen utfäster att avstå från att
+göra ett patentanspråk, eller utfärdar en
+patentlicens som är mer öppen.
+
+5\. V al av specifikation som omfattas av Bör
+påstådda patentkrav, men vilka alla har (villkorat)
+upphört att vara gällande.
+
+Skäl                             Exempel
 alltid avsedda att begränsa öppenheten av specifikation- – JPEG 2000
 en. En verksamhet måste emellertid uppmärksamma om- – MPEG-4 AVC
 ständigheterna som gäller för en specifikation, avväga – PDF
 verksamhetens behov och krav mot eventuella risker
 med att använda mindre öppna specifikationer.
-3\. V al av specifikation som omfattas av Får Inom unionsrätten är FRAND-villkor tillåtna. Dessa vill- – AAC
-påstådda patentkrav, men patentinneha- (villkorat) kor kan vara förenliga med mer öppna licenser, men har – HEIF
-varna är villig att förhandla om patent- i praktiken medfört hinder för öppen källkod. Till exem- – HEVC
-licens på rättvisa, rimliga och icke-dis- pel, krav på att individuella licenser inte kan föras vidare – JPEG 2000
-kriminerande villkor.          har medfört hinder för att distribuera öppen källkod. En – MPEG-4 AVC
+
+Inom unionsrätten är FRAND-villkor tillåtna. Dessa vill- – AAC
+kor kan vara förenliga med mer öppna licenser, men har – HEIF
+i praktiken medfört hinder för öppen källkod. Till exem- – HEVC
+pel, krav på att individuella licenser inte kan föras vidare – JPEG 2000
+har medfört hinder för att distribuera öppen källkod. En – MPEG-4 AVC
 verksamhet måste därför säkerställa att FRAND-villkor-
 en är förenliga med mer öppna licenser. Till exempel,
 genom att tillämpa ”GPL v3 eller senare” och, eller
 ”MPL 2.0 eller senare”.
-4\. V al av specifikation som omfattas av Får En patentinnehavare kan erbjuda mer öppna licenser. Ett – AV1
-påstådda patentkrav, men patenthavar- (villkorat) problem är att det inte finns ett hinder mot att patentinne- – AVIF
-na antingen utfäster att avstå från att havaren ändrar sig med tiden. Det kan därför fortfarande – Baslinjen JP2
-göra ett patentanspråk, eller utfärdar en finnas ett behov av en juridisk riskanalys beroende på – DNG
-patentlicens som är mer öppen. omständigheterna. Ju starkare formulering i patentlicen- – PDF
+
+En patentinnehavare kan erbjuda mer öppna licenser. Ett –
+problem är att det inte finns ett hinder mot att patentinne- –
+havaren ändrar sig med tiden. Det kan därför fortfarande –
+finnas ett behov av en juridisk riskanalys beroende på –
+omständigheterna. Ju starkare formulering i patentlicen- –
 sen till en specifikation om att patentkrav inte kan eller
 kommer att hävdas och att patentlicensen inte kan åter-
 kallas desto mer lämplig blir specifikationen. Till exem-
 pel, att licensen är i princip ”oåterkallelig”, eller att pat-
 enten i källkod täcks av ”GPL v3 eller senare” och, eller
 ”MPL 2.0 eller senare”.
-5\. V al av specifikation som omfattas av Bör För kända patenthavare med patentkrav som omfattar – Patenten för LZW har utgått, men det finns andra
-påstådda patentkrav, men vilka alla har (villkorat) specifikationen men inte längre är giltiga ska inte ett pat- patentkrav på ”förbättrade LZW” som fortfarande
-upphört att vara gällande.     entintrång längre vara möjligt. Problemet är att det fort- är aktuella.
-farande inte förhindrar att okända patentinnehavare kan – Olika patentkrav på MP3 upphörde gradvis att gä-
-träda fram och hävda patentkrav på andra delar av speci- lla i olika jurisdiktioner över en period av flera år.
-fikationen. Det kan därför finnas ett behov av en juridisk – Alla patentkrav på MPEG-2 har upphört år 2018
-riskanalys beroende på omständigheterna. i alla jurisdiktioner med undantag för Malaysia
+För kända patenthavare med patentkrav som omfattar –
+specifikationen men inte längre är giltiga ska inte ett pat-
+entintrång längre vara möjligt. Problemet är att det fort-
+farande inte förhindrar att okända patentinnehavare kan –
+träda fram och hävda patentkrav på andra delar av speci-
+fikationen. Det kan därför finnas ett behov av en juridisk –
+riskanalys beroende på omständigheterna.
+
+AV1
+AVIF
+Baslinjen JP2
+DNG
+PDF
+
+Patenten för LZW har utgått, men det finns andra
+patentkrav på ”förbättrade LZW” som fortfarande
+är aktuella.
+Olika patentkrav på MP3 upphörde gradvis att gä-
+lla i olika jurisdiktioner över en period av flera år.
+Alla patentkrav på MPEG-2 har upphört år 2018
+i alla jurisdiktioner med undantag för Malaysia
 där kraven fortfarande gäller (2021-06-01).
 
 48
 
 <!-- sida 173 -->
 
-\# Fall                   Krav    Skäl                            Exempel
-6\. V al av specifikation som inte omfattas Bör För dessa fall är problemet att det fortfarande är möjligt – FSF (eng. Free Software Foundation) tolkade att
-av påstådda patentkrav, antingen för att (villkorat) att okända patentinnehavare träder fram och hävdar pat- patentkraven på LZW omfattade endast kodning,
-det inte finns några patenthavare som entkrav på delar av en specifikation. Det kan därför finn- varför avkodningen var fri från patentkrav.
-hävdar patentkrav eller för att patent- as ett behov av en juridisk riskanalys beroende på oms- – Upphovspersonerna bakom PNG avsåg och förk-
-kraven inte tolkas omfatta specifikatio- tändigheterna i det enskilda fallet. larade att specifikationen är fri från patentkrav.
-nen.                                                           –  Kodak ansåg inte att deras patentkrav omfattade
+\# Fall
+6\. V al av specifikation som inte omfattas
+av påstådda patentkrav, antingen för att
+det inte finns några patenthavare som
+hävdar patentkrav eller för att patent-
+kraven inte tolkas omfatta specifikatio-
+nen.
+
+7\. L icensering av källkod framställt i off-
+entlig verksamhet.
+
+8\. V al av tekniska hjälpmedel med öppen
+hårdvara.
+
+Krav   Skäl
+Bör    För dessa fall är problemet att det fortfarande är möjligt
+(villkorat) att okända patentinnehavare träder fram och hävdar pat-
+entkrav på delar av en specifikation. Det kan därför finn-
+as ett behov av en juridisk riskanalys beroende på oms-
+tändigheterna i det enskilda fallet.
+
+Exempel
+– FSF (eng. Free Software Foundation) tolkade att
+patentkraven på LZW omfattade endast kodning,
+varför avkodningen var fri från patentkrav.
+– Upphovspersonerna bakom PNG avsåg och förk-
+larade att specifikationen är fri från patentkrav.
+– Kodak ansåg inte att deras patentkrav omfattade
 SVG.
-7\. L icensering av källkod framställt i off- Bör En offentlig verksamhet som framställer elektroniska – Apache License
-entlig verksamhet.             handlingar i form och funktion av program äger som hu- – BSD License (clause 1, 2, 3)
+
+Bör    En offentlig verksamhet som framställer elektroniska – Apache License
+handlingar i form och funktion av program äger som hu- – BSD License (clause 1, 2, 3)
 vudregel källkoden till programmet, om det inte har avta- – GPLv3
 lats bort. Handlingarna kan vara eller bli allmänna, men – MIT License
 om det saknas en tydlig licens för källkoden kan det med – MPL 2.0
 tiden försvåra för andra offentliga verksamheter och all-
 mänheten att använda och hantera källkoden. Till exem-
 pel, att anpassa och distribuera källkoden.
-8\. V al av tekniska hjälpmedel med öppen Bör Öppen hårdvara, precis som öppen källkod, förbättrar – Hårdvarubeskrivande språk, förkortat på engel-
-hårdvara.                      förutsättningarna för beständighet i allmänhet och arkiv- ska som HDL (eng. Hardware Description Lang-
+Bör    Öppen hårdvara, precis som öppen källkod, förbättrar – Hårdvarubeskrivande språk, förkortat på engel-
+förutsättningarna för beständighet i allmänhet och arkiv- ska som HDL (eng. Hardware Description Lang-
 beständighet i synnerhet.          uage).
-–  ISA som RISC-V för CPU.
-–  Kopplingsscheman (eng. Circuit diagram).
-–  Kretskortslayout eller mönsterkort, förkortat på
+– ISA som RISC-V för CPU.
+– Kopplingsscheman (eng. Circuit diagram).
+– Kretskortslayout eller mönsterkort, förkortat på
 engelska som PCB (eng. Printed Circuit Board).
-–  Tekniska ritningar av hårdvara.
+– Tekniska ritningar av hårdvara.
 
 49
 
@@ -14103,43 +14366,67 @@ value, code element, code point, code set value eller bara code.
 
 <!-- sida 318 -->
 
+Författare
+Benjamin Yousefi
+Normering och främjande
+FormatE
+
+Möjlig orsak
+
+Det kan finnas flera benämningar
+eller källor till en och samma stan-
+dard, specifikation, eller rekommen-
+dation.
+
+Det kan finnas en mängd olika versi-
+oner av en standard, specifikation
+eller rekommendation.
+
+Tillgång till källunderlag kan vara be-
+gränsad av avgifter, företagssekre-
+tess, eller andra hinder.
+
+Tolkningen av källunderlag varierar.
+
+Implementering av källunderlag var-
+ierar.
+
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  81 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+
+Avdelning Datum  Reviderad  Version Sida
+AFI, BDI 2021-09-30         1.0  81 (1135)
+Noteringar
+RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
 Dokumentet senast sparat torsdag den 30 september 2021.
 
-Möjlig orsak           Exempel
+Exempel
 
-Det kan finnas flera benämningar – JPEG standarden återfinns som ISO/IEC och ITU-T
-eller källor till en och samma stan- Recommendation, och JFIF som Ecma International TR.
-dard, specifikation, eller rekommen-
+– JPEG standarden återfinns som ISO/IEC och ITU-T
+Recommendation, och JFIF som Ecma International TR.
 – Windows- eller CP- 1252 associeras felaktigt till ISO 8859-1
-dation.
 (Latin-1) vilket motsvaras egentligen av Windows- eller CP-
 28591, men vars felaktiga association blivit standardiserad
 genom HTML++.
-Det kan finnas en mängd olika versi- – PKCS #7 Cryptographic Message Syntax Standard (CMS)
-oner av en standard, specifikation återfinns som IETF informativ RFC 2315 (PKCS #7),
-eller rekommendation.   standardiserad i RFC 2630 (CMS), ersatt av RFC 3369 (CMS)
+
+– PKCS #7 Cryptographic Message Syntax Standard (CMS)
+återfinns som IETF informativ RFC 2315 (PKCS #7),
+standardiserad i RFC 2630 (CMS), ersatt av RFC 3369 (CMS)
 och 3370 (CMS algoritmer). RFC 3369, ersatt av 3852 (CMS),
 och uppdaterad genom RFC 4853 (multipla signatärer) och 5083
 (”Authenticated-Enveloped-Data” innehållstyp). RFC 3369 (CMS)
 ersattes senare av RFC 5652 (CMS), medan RFC 3370 (CMS
 algoritmer) har uppdaterats genom 5754 (använda SHA2 i CMS).
 
-Tillgång till källunderlag kan vara be- – Flertalet standarder från ISO är avgiftsbelagda.
-gränsad av avgifter, företagssekre-
+– Flertalet standarder från ISO är avgiftsbelagda.
+
 – Dokumentation av proprietär format, protokoll, och API, kan vara
-tess, eller andra hinder.
 helt eller delvis opublicerade, eller om publicerade, bristfälliga.
-Tolkningen av källunderlag varierar. – En specifikation som använder ”bör inte” kan tolkas vid vissa
+
+– En specifikation som använder ”bör inte” kan tolkas vid vissa
 implementeringar som ”ska inte” och av andra som ”kan”.5
 
-Implementering av källunderlag var- – Renderingen av HTML-dokument varierar beroende på vilken
-ierar.                  webbläsaren och vilken version av webbläsaren som används.
-
+– Renderingen av HTML-dokument varierar beroende på vilken
+webbläsaren och vilken version av webbläsaren som används.
 – PDF/A-1a framställt i LibreOffice 4.0 skiljer sig från PDF/A-1a
 framställt i LibreOffice 5.0.
 
@@ -17386,12 +17673,12 @@ man följs åt och kan hanteras samtidigt, vilket innebär smidigare hantering o
 <!-- sida 380 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  143 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
-Dokumentet senast sparat torsdag den 30 september 2021.
 
+Författare              Avdelning Datum   Reviderad  Version Sida
+Benjamin Yousefi        AFI, BDI 2021-09-30          1.0  143 (1135)
+Normering och främjande Noteringar
+FormatE                 RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+Dokumentet senast sparat torsdag den 30 september 2021.
 2\. KÄLLUNDERLAGENS     HIERARKI
 
 Det följer av Källunderlag och deras omfattning att en specifikation är de handlingar som ensam eller
@@ -17402,25 +17689,45 @@ källunderlag.
 
 Tabell 19 Exempel på primära, sekundära, tertiära och övriga källunderlag.
 
-Dignitet Beskrivning            Källunderlag i form av till exempel…
+Dignitet Beskrivning
 
-Primära  Normerande, objektiva, styrande; – Texter i akademiska eller vetenskapliga papper,
-specificerar och definierar formatet artiklar, dokument, litteratur, källkod eller
-eller hur det kan implementeras ge- kommentarer i källkod, format,41 standarder,
-nom algoritmer, data, datastruktu- tekniska anteckningar (eng. technical notes), eller
-rer antingen i faktisk kod, pseudo- på webbplatser.
+Primära  Normerande, objektiva, styrande;
+specificerar och definierar formatet
+eller hur det kan implementeras ge-
+nom algoritmer, data, datastruktu-
+rer antingen i faktisk kod, pseudo-
 kod, eller mer generella beskrivnin-
-– Manuella implementeringar som är avsedda att
 gar.
+
+Sekundära Vägledande; tolkningar, slutsatser,
+värderingar; hur det primära käll-
+underlaget ska läsas, förstås och
+användas.
+
+Tertiära Informativa; varken normerande el-
+ler vägledande, men värderar de
+sekundära källunderlagen genom
+att tolka, kommentera eller organi-
+sera dem.
+
+Källunderlag i form av till exempel…
+
+– Texter i akademiska eller vetenskapliga papper,
+artiklar, dokument, litteratur, källkod eller
+kommentarer i källkod, format,41 standarder,
+tekniska anteckningar (eng. technical notes), eller
+på webbplatser.
+– Manuella implementeringar som är avsedda att
 vara eller kan användas som referensimp-
 lementeringar (testfiler).
 – Automatiserade implementeringar som är avsedda
 att vara eller kan användas som refe-
 rensimplementeringar.
-Sekundära Vägledande; tolkningar, slutsatser, – Texter som behandlar hela, delar eller del av det
-värderingar; hur det primära käll- primära källunderlaget. Till exempel, algoritmer
-underlaget ska läsas, förstås och eller datastrukturer, i akademiska eller veten-
-användas.               skapliga papper, artiklar, dokument, litteratur,
+
+– Texter som behandlar hela, delar eller del av det
+primära källunderlaget. Till exempel, algoritmer
+eller datastrukturer, i akademiska eller veten-
+skapliga papper, artiklar, dokument, litteratur,
 tekniska anteckningar (eng. technical notes),
 bloggar eller webbplatser såsom Rosetta Code,
 Stack Exchange.
@@ -17429,53 +17736,62 @@ tutorials), vilka kan innehålla exempel på kod.
 – Format framställt genom manuella eller auto-
 matiserade implementeringar utifrån det primära
 källunderlaget.
-Tertiära Informativa; varken normerande el- – Uppslagsverk som sammanställer diverse primära
-ler vägledande, men värderar de och, eller sekundära källunderlag.
-sekundära källunderlagen genom
+– Uppslagsverk som sammanställer diverse primära
+och, eller sekundära källunderlag.
 – Sammanfattningar, diskussioner och kommentarer
-att tolka, kommentera eller organi-
 av sekundära källunderlaget på webbplatser såsom
-sera dem.
 Rosetta Code, Stack Exchange, Wikipedia.
 – Format framställt genom manuella eller auto-
 matiserade implementeringar utifrån det sekundära
 källunderlaget.
+
 41 Till exempel, märkspråk. För binära format är kommentarer i formatet ovanligt, men det finns undantag. Till
 exempel, PDF tillåter kommentarer.
 
 <!-- sida 381 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  144 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+
+Författare              Avdelning Datum   Reviderad  Version Sida
+Benjamin Yousefi        AFI, BDI 2021-09-30          1.0  144 (1135)
+Normering och främjande Noteringar
+FormatE                 RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
 Dokumentet senast sparat torsdag den 30 september 2021.
 
-Dignitet Beskrivning            Källunderlag i form av till exempel…
+Dignitet Beskrivning
 
-Övriga   Allt annat källunderlag som finns – Ordböcker, allmänna referensverk eller upps-
-tillgängligt och som primära, sekun- lagsverk.
+Övriga   Allt annat källunderlag som finns
+tillgängligt och som primära, sekun-
 dära, och tertiära källunderlag exp-
-– Kulturella konventioner i en organisation, projekt
 licit eller implicit utgår från.
-eller arbetslag som bestämmer arbetsverktyg,
-Implicita förutsättningar kan vara kodkonventioner och -utveckling (eng. best
-en presumtion eller ett antagande practices, coding patterns, naming conventions,
-om att läsaren vet hur facktexter style guides).
+Implicita förutsättningar kan vara
+en presumtion eller ett antagande
+om att läsaren vet hur facktexter
 ska läsas, kan läsa engelska, eller
-– Språkliga förutsättningar, allt från att behöva kunna
 har tillräckliga grundläggande och
-engelska till att kunna läsa programkod, algoritmer,
 avancerade datatekniska kunskap-
-och notationer, såsom binära, matematiska, och
 er för att tillgodogöra sig källunder-
-BNF (Backus-Naur form).
 laget.
+
+Källunderlag i form av till exempel…
+
+– Ordböcker, allmänna referensverk eller upps-
+lagsverk.
+– Kulturella konventioner i en organisation, projekt
+eller arbetslag som bestämmer arbetsverktyg,
+kodkonventioner och -utveckling (eng. best
+practices, coding patterns, naming conventions,
+style guides).
+– Språkliga förutsättningar, allt från att behöva kunna
+engelska till att kunna läsa programkod, algoritmer,
+och notationer, såsom binära, matematiska, och
+BNF (Backus-Naur form).
+
 Allt primärt källunderlag är normativt, medan sekundära och tertiära källunderlag understödjer tolk-
 ningen eller implementeringen av primära respektive sekundära källunderlag. Finns det ett sekund-
 ärt eller tertiärt källunderlag så finns det per definition ett primärt respektive sekundärt källunderlag.
 Det är alltså det primära källunderlaget som utgör specifikationen.
+
 Ett sekundärt källunderlag förutsätter alltså att det finns ett primärt källunderlag att tolka och imple-
 mentera. Sekundära källunderlag är inte nödvändiga för implementering, men kan närmare exemp-
 lifiera eller annars underlätta tolkningen eller implementeringen av primära källunderlag. Uppmärk-
@@ -17483,6 +17799,7 @@ samma skillnaden mellan å ena sidan program och format som referensimplementeri
 vara primära källunderlag, å andra sidan program och format som en implementering utifrån en refe-
 rensimplementering, vilket rör sig om en tolkning av det primära källunderlaget. Det vill säga, ett
 sekundärt källunderlag.
+
 Tertiära källunderlag kan ligga till grund för att läsa och förstå sekundära och primära källunderlag.
 Dessa kan vara nödvändiga för att få en överblick av eller bakgrund till allt källunderlag, men speci-
 ficerar inte nödvändigtvis något om formatet. Uppmärksamma här att en slutanvändare som fram-
@@ -17496,6 +17813,7 @@ ligare av att programmet som användes endast hade stöd för en begränsad upps
 egenskaper för formatet. Med andra ord, ur ett omvänt perspektiv kan det tertiära källunderlaget
 endast ge en begränsad inblick i vilka tekniska egenskaper som ett format stödjer, och ger lite, om
 någon, ledning om metoder för implementering.
+
 Slutligen måste en skillnad göras mellan å ena sidan primära, sekundära, och tertiära källunderlag,
 å andra sidan allt annat källunderlag som finns tillgängligt vilket som primära, sekundära, och tertiära
 källunderlag explicit eller implicit utgår från. Det övriga källunderlaget kan vara grundläggande eller
@@ -19769,14 +20087,15 @@ Grafikprocessor – SP (eng. Streaming Processors), SM En processor specialisera
 <!-- sida 424 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  187 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+
+Författare              Avdelning Datum   Reviderad  Version Sida
+Benjamin Yousefi        AFI, BDI 2021-09-30          1.0  187 (1135)
+Normering och främjande Noteringar
+FormatE                 RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
 Dokumentet senast sparat torsdag den 30 september 2021.
 
-Materiel     Metod                     Kommentar
-– AA (eng. Anti-Aliasing) terade beräkningar och grafisk presenta-
+Materiel     Metod                      Kommentar
+– AA (eng. Anti-Aliasing)  terade beräkningar och grafisk presenta-
 tion. Det är inte ovanligt att GPU används
 – HDR (eng. High-dynamic-range
 för andra typer av beräkningar. Till exem-
@@ -19786,42 +20105,65 @@ pel, inom finans, fysik, matematik, statis-
 ras som GPGPU (eng. General Purpose
 – Videokodek
 computing on GPU).
-Högtalare    – Elektrodynamisk         Teknisk utrustning för att audiellt repre-
+Högtalare    – Elektrodynamisk          Teknisk utrustning för att audiellt repre-
 sentera innehåll vid återgivning.
 – Sub-bas (eng. subwoofer)
-Kamera       – Komplementär MOS eller CMOS (eng. Teknisk utrustning för att fånga stillbilder
-Complementary Metal Oxide eller rörliga bilder. Till exempel, mobilka-
-Semiconductor)           mera, systemkamera, videokamera, webb-
-kamera, övervakningskamera.
+
+Kamera       – Komplementär MOS eller CMOS (eng.
+Complementary Metal Oxide
+Semiconductor)
 – Laddningskopplad enhet eller CCD
 (eng. Charge-Coupled Device)
-Lagringsenhet – Halvledare             Teknisk utrustning för att lagra informa-
-(sekundärt                             tion. Till exempel, CD-DVD, SD-kort,
+
+Lagringsenhet – Halvledare
+(sekundärt
 – Magnetisk
-datorminne)                            SSD, USB-minne.
+datorminne)
 – Optisk
-Moderkort    – Anslutningar (M.2, U.2, Sockeltyp, Ett mönsterkort som utgör stommen för
-USB)                     ett datorsystem.
+Moderkort    – Anslutningar (M.2, U.2, Sockeltyp,
+USB)
 – Busskontakter (PCI)
 – Gränssnitt (AHCI, NVMe, PCIe)
+
 – Integrerade komponenter (CPU,
 datorminne, GPU, nätverk)
 – Fysisk utformning
-Mikrofon     – Elektretmikrofon, elektrodynamisk Teknisk utrustning för att fånga ljud.
+
+Mikrofon     – Elektretmikrofon, elektrodynamisk
 mikrofon, kondensatormikrofon.
 – Riktningskarakteristik (rundriktad,
 enkelriktad, dubbelriktad)
 
-Pekdon       – Datormus (3D, mekanisk, optisk) Teknisk utrustning för att mata in position
-i en rymd med hjälp av ett pekdon.
+Pekdon       – Datormus (3D, mekanisk, optisk)
 – Pekpenna eller mänskligt finger,
 styrkula, styrplatta, styrspak
-Skanner      – Kontaktsensor eller CIS (Contact Teknisk utrustning för att koda eller av-
-Image Sensor)            koda innehåll. Till exempel, filmrutor, fysi-
-ska objekt (3D), dokument, rutkod, streck-
+
+Skanner      – Kontaktsensor eller CIS (Contact
+Image Sensor)
 – Laddningskopplad enhet eller CCD
-kod.
 (eng. Charge-Coupled Device)
+
+Teknisk utrustning för att fånga stillbilder
+eller rörliga bilder. Till exempel, mobilka-
+mera, systemkamera, videokamera, webb-
+kamera, övervakningskamera.
+
+Teknisk utrustning för att lagra informa-
+tion. Till exempel, CD-DVD, SD-kort,
+SSD, USB-minne.
+
+Ett mönsterkort som utgör stommen för
+ett datorsystem.
+
+Teknisk utrustning för att fånga ljud.
+
+Teknisk utrustning för att mata in position
+i en rymd med hjälp av ett pekdon.
+
+Teknisk utrustning för att koda eller av-
+koda innehåll. Till exempel, filmrutor, fysi-
+ska objekt (3D), dokument, rutkod, streck-
+kod.
 
 <!-- sida 425 -->
 
@@ -66736,12 +67078,12 @@ begreppsbruk.
 <!-- sida 1273 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  1036 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
-Dokumentet senast sparat torsdag den 30 september 2021.
 
+Författare              Avdelning Datum   Reviderad  Version Sida
+Benjamin Yousefi        AFI, BDI 2021-09-30          1.0  1036 (1135)
+Normering och främjande Noteringar
+FormatE                 RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+Dokumentet senast sparat torsdag den 30 september 2021.
 ‒ Att använda och hantera materiel och metoder säkert. Till exempel, att granska specifikationer,
 källkod, att endast installera program från tillförlitliga källor, att tillämpa säkerhetsuppdateringar,
 att inte tillåta anslutning av okända externa anslutningar.
@@ -66753,18 +67095,18 @@ att skydda inmatningen av personliga koder.
 ‒ Att använda materiel och metoder för att säkra tekniska hjälpmedel och elektroniska handlingar.
 Till exempel, att implementera behörighetssystem eller loggsystem eller att implementera krypto-
 grafiska algoritmer i hårdvara och mjukvara.
+
 ‒ At använda elektroniska handlingar för att säkra tekniska hjälpmedel och elektroniska handlingar.
 Till exempel, program för att övervaka, analysera och filtrera Internettrafik, eller program för att
 analysera datafiler för att upptäcka och ta bort skadliga program.
-
 1.5. Kryptering
 – ETSI 119 300 (Guidance on the use of standards for cryptographic suites)
-– ETSI 119 312 (Cryptographic Suites)
 
+– ETSI 119 312 (Cryptographic Suites)
 – FIPS 140-3 (Security Requirements for Cryptographic Modules)
 1.6. Oavvislighet
-– ISO/IEC 13888 (Non-repudiation)
 
+– ISO/IEC 13888 (Non-repudiation)
 1.7. Tillitsmodell
 En tillitsmodell är, förenklat, en modell för hur användare kan etablera tillit till varandra och informa-
 tion i datorbaserade centrala eller distribuerade system. Modellerna kan användas för att säkerställa
@@ -66773,23 +67115,33 @@ Tabell 43.
 
 Tabell 43 Översikt av några tillitsmodeller med exempel på mekanism för att förverkliga dem.
 
-Modell         Beskrivning                  Exempel på mekanism
+Modell          Beskrivning
 
-Web of trust   Ett decentraliserat referenssystem där an- – kryptering
+Web of trust    Ett decentraliserat referenssystem där an-
 vändarna intygar tillförlitligheten av informa-
-[OpenPGP] PKI                               – [kryptografisk] hash-funktion
+[OpenPGP] PKI
 tion. Till exempel, att en publik nyckel tillhör
 angiven utställare.
-[X.509] PKI    Ett referenssystem där en central användare – kryptering
+[X.509] PKI     Ett referenssystem där en central användare
 granskar och intygar tillförlitligheten av infor-
-– [kryptografisk] hash-funktion
 mation i form av ett certifikat. Till exempel, att
 ett nyckelpar tillhör angiven utställare.
-Tidsstämplar i Ett länkat referenssystem som omsluter in- – [kryptografisk] hash-funktion
-blockkedja     formationen om dataintegriteten av annan in-
+Tidsstämplar i  Ett länkat referenssystem som omsluter in-
+blockkedja      formationen om dataintegriteten av annan in-
 formation tillsammans med uppgifter om dat-
 um och tid, vilka representerar ny information
 som kan omslutas av en annan tidsstämpel.
+
+Exempel på mekanism
+
+– kryptering
+– [kryptografisk] hash-funktion
+
+– kryptering
+
+– [kryptografisk] hash-funktion
+
+– [kryptografisk] hash-funktion
 
 <!-- sida 1274 -->
 
@@ -66960,13 +67312,14 @@ för varför handlingen, om den blir allmän, kan gallras.
 <!-- sida 1277 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
-Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  1040 (1135)
-Normering och främjande  Noteringar
-FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
-Dokumentet senast sparat torsdag den 30 september 2021.
 
+Författare              Avdelning Datum   Reviderad  Version Sida
+Benjamin Yousefi        AFI, BDI 2021-09-30          1.0  1040 (1135)
+Normering och främjande Noteringar
+FormatE                 RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
+Dokumentet senast sparat torsdag den 30 september 2021.
 2.6. Säkerhet
+
 – ISO/IEC 24772 (Avoiding vulnerabilities in programming languages)
 
 3\. IMPLEMENTERING
@@ -66978,33 +67331,52 @@ ett program framställs eller används för att automatisera eller manuellt geno
 avkodningen.
 
 3.1. Om de olika fallen i bilagan
-Fall                Kommentar
 
-Tekniskt skick med en form och Ett grundläggande problem är att användare kan med eller utan avsikt
-funktion för ett innehåll som inte göra tekniska val för att framställa en form och funktion som inte är
-är avsett för den formen och lämpligt för att använda och hantera det avsedda innehållet. För en dator
-funktionen enligt specifikation- är formen och funktionen endast binär data och det finns ingen teknisk
-en för det tekniska skicket. metod för att avgöra om rätt format har valts för rätt form och funktion.
+Fall                 Kommentar
+
+Tekniskt skick med en form och
+funktion för ett innehåll som inte
+är avsett för den formen och
+funktionen enligt specifikation-
+en för det tekniska skicket.
+
+Tekniskt skick med tekniska eg-
+enskaper och funktionaliteter
+som inte uttryckligen är tillåtet
+eller som är uttryckligen för-
+bjudet enligt specifikationen för
+det tekniska skicket.
+
+Tekniska egenskaper och funk-
+tionaliteter som enligt specifika-
+tionen antingen bör eller bör
+inte implementeras.
+
+Ett grundläggande problem är att användare kan med eller utan avsikt
+göra tekniska val för att framställa en form och funktion som inte är
+lämpligt för att använda och hantera det avsedda innehållet. För en dator
+är formen och funktionen endast binär data och det finns ingen teknisk
+metod för att avgöra om rätt format har valts för rätt form och funktion.
 Med andra ord, att formaten som utgör det tekniska skicket kan tekniskt
 vara felfria, men vid återgivning kan oväntade former och funktioner upp-
 stå. Konsekvensen är innehållet riskerar dels att inte återges som förvän-
 tat, dels att inte kunna användas och hanteras som avsett, dels att andra
 oförutsägbara användningar och hanteringar kan uppstå, vilket öppnar
 upp för säkerhetshål.
-Tekniskt skick med tekniska eg- Ett grundläggande problem med inkonsekvent implementering är att spe-
-enskaper och funktionaliteter cifikationer tolkas olika, och därmed får olika implementeringar. Till exem-
-som inte uttryckligen är tillåtet pel, på grund av att de är otydliga eller att de kan utökas med program-
-eller som är uttryckligen för- specifika tillägg. Konsekvensen blir att vissa program kan stödja funktion-
-bjudet enligt specifikationen för aliteter som inte andra program stödjer, varför det tekniska skicket jämfört
-det tekniska skicket. med den avsedda specifikationen blir ”fel”. Jämför detta fall med det före-
+Ett grundläggande problem med inkonsekvent implementering är att spe-
+cifikationer tolkas olika, och därmed får olika implementeringar. Till exem-
+pel, på grund av att de är otydliga eller att de kan utökas med program-
+specifika tillägg. Konsekvensen blir att vissa program kan stödja funktion-
+aliteter som inte andra program stödjer, varför det tekniska skicket jämfört
+med den avsedda specifikationen blir ”fel”. Jämför detta fall med det före-
 gående fallet där det tekniska skicket blir ”rätt” men formen och funktionen
 kan bli ”fel”. Ett sätt att försöka hantera problemet är att endast tillåta funk-
 tionaliteter som uttryckligen är tillåtna i en specifikation och som alla prog-
 ram ska kunna förväntas och krävas implementera.
-Tekniska egenskaper och funk- Ett grundläggande problem med inkonsekvent implementering är att spe-
-tionaliteter som enligt specifika- cifikationer avsiktligen öppnar upp för alternativa implementeringar. Detta
-tionen antingen bör eller bör fall jämfört med det föregående fallet är svårare att avgränsa och precis-
-inte implementeras. era eftersom det är fråga om lämpligheten av ett vägval i ett enskilt fall.
+Ett grundläggande problem med inkonsekvent implementering är att spe-
+cifikationer avsiktligen öppnar upp för alternativa implementeringar. Detta
+fall jämfört med det föregående fallet är svårare att avgränsa och precis-
+era eftersom det är fråga om lämpligheten av ett vägval i ett enskilt fall.
 Dessa fall behöver därför dokumenteras för att framtida implementeringar
 ska kunna göra samma vägval, eller åtminstone samma avvägningar.
 
@@ -67126,33 +67498,50 @@ policyn i fallet avsåg upphovsrätten till innehållet och inte specifika paten
 <!-- sida 1280 -->
 
 Författningskommentarer
-Författare               Avdelning Datum  Reviderad  Version Sida
+
+Författare               Avdelning Datum   Reviderad Version Sida
 Benjamin Yousefi         AFI, BDI 2021-09-30         1.0  1043 (1135)
 Normering och främjande  Noteringar
 FormatE                  RA-KS 2021-00018, tidigare dnr RA 22-2018-791.
 Dokumentet senast sparat torsdag den 30 september 2021.
-
 betydelse i sammanhanget.320 En närmare redogörelse av rättspraxis inom patenträtten faller utanför
 dessa författningskommentarer,321 även om Patentbarheten av program kommer att kort beröras.
 
 Tabell 44 Det mest påfallande problemet är att det alltid kan finnas patenthavare som kan göra anspråk på patent. Med
 andra ord, det går inte med absolut säkerhet ha vetskap om att det inte finns någon okänd patenthavare någonstans som
 kan göra anspråk på ett patentkrav.
-När patenthavare och
+
 När patenthavare och patentkrav är kända
+
+Patenthavare En patenthavare har hävdat En patenthavare kan hävda
+att ett eller flera patentkrav att ett eller flera patentkrav
+omfattar en eller flera tekni- omfattar en eller flera tekni-
+ska metoder i en specifika- ska metoder i en specifika-
+tion eller implementering. tion eller implementering.
+
+Patentkrav Ett eller flera patentkrav kan utvärderas och alternativa tek-
+niska metoder kan övervägas.
+
+Upphörande Om den tekniska metoden omfattades av ett eller flera pa-
+tentkrav bör den kunna användas av alla när patenten upp-
+hört.
+
+När patenthavare och
 patentkrav är okända
-Patenthavare En patenthavare har hävdat En patenthavare kan hävda En patenthavare kan hävda
-att ett eller flera patentkrav att ett eller flera patentkrav att ett eller flera patentkrav
-omfattar en eller flera tekni- omfattar en eller flera tekni- omfattar en eller flera tekni-
-ska metoder i en specifika- ska metoder i en specifika- ska metoder i en specifika-
-tion eller implementering. tion eller implementering. tion eller implementering.
-Patentkrav Ett eller flera patentkrav kan utvärderas och alternativa tek- Det finns ingen information
-niska metoder kan övervägas.         om en eller flera tekniska me-
+
+En patenthavare kan hävda
+att ett eller flera patentkrav
+omfattar en eller flera tekni-
+ska metoder i en specifika-
+tion eller implementering.
+Det finns ingen information
+om en eller flera tekniska me-
 toder kan omfattas av ett ell-
 er flera patentkrav.
-Upphörande Om den tekniska metoden omfattades av ett eller flera pa- Det är inte möjligt att veta när
-tentkrav bör den kunna användas av alla när patenten upp- ett eller flera patentkrav upp-
-hört.                                hör.
+
+Det är inte möjligt att veta när
+ett eller flera patentkrav upp-
+hör.
 
 5.1.1. Jurisdiktion
 
@@ -67166,7 +67555,6 @@ finns dessutom andra juridiska mekanismer som det enhetliga patentsystemet i Eur
 kompletterar det europeiska patentsystemenet.
 
 5.1.1.1. Internationell rätt
-
 Internationella patentansökningar grundar sig i Konvention om patentsamarbete, förkortat på engel-
 ska som PCT (eng. Patent Cooperation Treaty). Konventionen är en multilateral traktat med för när-
 varande 152 anslutna stater. Denna konvention administreras av WIPO (eng. World Intellectual Pro-
@@ -82177,20 +82565,29 @@ möjliga inställningar.     – Implementera specifika standarder, till ex-
 
 Konsekvensutredning
 
-Kunskaper Grundläggande              Avancerade
-
+Kunskaper Grundläggande
 – Välja lämpliga format [som ett program im-
 plementerar] för specifika handlingar.
-Generella – Orientera sig i diverse gränssnitt för att – Orientera sig i diverse standarder.
-kunna välja lämpliga format och inställnin- – Ställa krav på standarder och deras imp-
+Generella – Orientera sig i diverse gränssnitt för att
+kunna välja lämpliga format och inställnin-
 gar.
+– Förstå principerna bakom programmen
+och formaten.
+
+Avancerade
+
+– Orientera sig i diverse standarder.
+
+– Ställa krav på standarder och deras imp-
 lementeringar, och program och inställnin-
-– Förstå principerna bakom programmen gar som är nödvändiga för verksamhetens
-och formaten.                behov och krav.
+gar som är nödvändiga för verksamhetens
+behov och krav.
+
 2.3.6.5 Konsekvenser
 De direkta eller indirekta konsekvenserna av nuläget som direkt eller indirekt påverkar att materiel
 och metoder för olika fall inte uppfyller krav med hänsyn till behovet av beständighet antas möjliggöra
 eller förverkliga följande risker:
+
 – Förutsättningar saknas för att framställa elektroniska handlingar med hänsyn till behovet av be-
 ständighet (a. 2.3.6.5.1)
 – Förutsättningar saknas för att styra val av materiel och metoder (a. 2.3.6.5.2)
@@ -82204,11 +82601,11 @@ kan implementeras i konkreta fall. Risken kan minskas eller helt hanteras genom 
 ningen av verksamhetens materiel och metoder. Detta kräver styrning från verksamhetens ledning,
 men nuläget indikerar en risk för att Förutsättningar saknas för att styra val av materiel och metoder
 (a. 2.3.6.5.2).
+
 Konsekvensen med Bristfälliga begreppsapparater och konceptuella ramverk (a. 2.3.6.6.1) är att det
 saknas kunskap om de underliggande förhållandena som ger en elektronisk handling form och
 funktion. Risken är att verksamheter utgår från symtomen och inte de egentliga problemen till varför
 elektroniska handlingar inte kan användas och hanteras över tid.
-
 2.3.6.5.2 Förutsättningar saknas för att styra val av materiel och metoder
 En konsekvens av nuläget är att det råder brist på personer med kunskap om och kompetens inom
 data- och informationsteknik i många, om inte alla, delar av samhället. Det finns därför anledning att
@@ -101433,8 +101830,6 @@ ANVÄNDNING AV MARK OCH VATTEN
 
 Allmänna platser
 
-CCGATA Lokaltrafik
-
 HIINATURIII  Naturområde
 
 TGCVÄG > Gång och cykelväg
@@ -101591,7 +101986,7 @@ Organlsallonsnummer
 
 559321-4439
 
-« | Objeklets registrerlngsdatum « + « >» | Företag h gl
+« | Objeklets registrerlngsdatum « + + >» | Företag h gl
 2021-06-08 2021-09-08
 Dokumenlet skapat - Sida |
 2021-09-08 15:08 3 (3)
@@ -102569,7 +102964,7 @@ Följande VA-anläggningar ska uföras inom Planområdet:
 e Vatten-, dagvatten- och spillvattenledningar för försörjning av de nya
 fastigheternas behov.
 
-oe Öppen dagvattenlösning inom Park;
+e Öppen dagvattenlösning inom Park;
 
 Kommunen, genom förvaltningen för Teknik är huvudman för de allmänna VA-
 anläggningarna inklusive öppen dagvattenlösning inom kommunal allmän platsmark.
@@ -103354,7 +103749,6 @@ eller andra belastningar enligt punkt 9 ovan. Vid Tillträdesdagen garanterar S�
 
 Fastigheten är fri från penninginteckningar och att Fastigheten inte är föremål för
 
-\=
 Sign
 
 <!-- sida 1977 -->
@@ -103576,7 +103970,6 @@ för Stockalid 1:4
 
 Franklin Eck
 
-rr ostads AB
 rister Kilersjö
 
 KBA Bostadsutveckling AB
@@ -103661,35 +104054,44 @@ Vänersborgs tingsrätt
 Mark- och miljödomstolen
 (e-post borttagen)
 
+Mål nr P 1428-21
+m. fl. ./. Kungsbacka kommun
+
+angående överklagande av kommunfullmäktige i Kungsbacka kommuns beslut
+2021-03- 09 §27 att anta detaljplan för Åsa 4:144 m. fl.
+
+Kungsbacka kommun, Kommunen, får härmed yttra sig över överklagandena av
+Kommunens beslut att anta detaljplan för Åsa 4:144 m. fl.
+
+Inställning
+
+Kommunen yrkar att mark- och miljödomstolen avslår överklagandena från
+
+och fastställer kommunfullmäktige i Kungsbackas beslut
+2021-03-09, § 27, diarienummer 2019-00214, att anta detaljplan för Åsa 4:144,
+Kungsbacka kommun.
+
+Kommunen yrkar att mark- och miljödomstolen avvisar överklagandet från
+ägare till fastigheten Åsa 4:109.
+
+Grunder
+Bakgrund
+
+Åsa är en av kommunens prioriterade utvecklingsorter. Fördjupning av
+översiktsplanen för Åsa pekar på att stråket mellan centrum och stationsläget ska
+
+stärkas. Detta ska göras genom komplettering av bostäder och företag. Planområdet
+för Åsa 4:144 med flera ligger längs med detta viktiga utvecklingsstråk. En
+förtätning av centrum ger bättre underlag för kollektivtrafik, kommersiell service och
+
 Samhällsbyggnadskontoret                                     Kungsbacka kommun
 434 81 Kungsbacka
 Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
-Mål nr P 1428-21
-m. fl. ./. Kungsbacka kommun
-angående överklagande av kommunfullmäktige i Kungsbacka kommuns beslut
-2021-03- 09 §27 att anta detaljplan för Åsa 4:144 m. fl.
-Kungsbacka kommun, Kommunen, får härmed yttra sig över överklagandena av
-Kommunens beslut att anta detaljplan för Åsa 4:144 m. fl.
-Inställning
-Kommunen yrkar att mark- och miljödomstolen avslår överklagandena från
-och fastställer kommunfullmäktige i Kungsbackas beslut
-2021-03-09, § 27, diarienummer 2019-00214, att anta detaljplan för Åsa 4:144,
-Kungsbacka kommun.
-Kommunen yrkar att mark- och miljödomstolen avvisar överklagandet från
-ägare till fastigheten Åsa 4:109.
-Grunder
-Bakgrund
-Åsa är en av kommunens prioriterade utvecklingsorter. Fördjupning av
-översiktsplanen för Åsa pekar på att stråket mellan centrum och stationsläget ska
-stärkas. Detta ska göras genom komplettering av bostäder och företag. Planområdet
-för Åsa 4:144 med flera ligger längs med detta viktiga utvecklingsstråk. En
-förtätning av centrum ger bättre underlag för kollektivtrafik, kommersiell service och
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 1987 -->
 
@@ -104096,187 +104498,85 @@ Figur 9: Principsektion av gång- och cykelsträk på banvallen
 
 Claga 1
 
-parkering N
-
-e4
+j ”PLANBESTÄMMELSER
+Följande gäller og RR Utseende (ny bebyggelse)
+Endast angiven användning och utformning är tillåten. f Ny bebyggelse utformas med stående
+Bestämmelser utan beteckning gäller inom hela området. träpanel och sadeltak av lertegel som
+ansluter till karaktärsdrag hos bebyggelse i
+GRÄNSER omgivningen
+NN. —— :— = Detaljplanegräns tb Tak på huvudbyggnader utförs som
+: ——— — Användningsgräns sadekak
+7 Varsamhet (befintlig bebyggelse)
+ANVÄNDNING AV MARK OCH VATTEN k De karaktärdrag och värden hos
+Allmänna platser bebyggelsen som angivits i
+planbeskrivningens kapitel om
+SATA Labinäk gestaltningsprinciper ska särskilt beaktas vid
+GÄNG Gängväg ändring
+GÅNG CYKEL = Gång- och cykelväg Säl
+P Kvartersmark a Byggnaden fär inte rivas
+\- Bostader ADMINI IVA BEST/
+NISTRATI ÄMMELSER
+Zz Be Bostäder och centrurmändamål - 5 sn
+Markreservat för allmännyttiga ändamål
+UTNYTTJANDEGRADI/FASTIGHETSINDELNING vu Marken ska vara tillgänglig för allmännyttiga
+e Största totala byggnadsarea är 800 m? och underjordiska ledningar
+q största byggnadsarea per byggnad är 100 ut Marken ska vara tillgänglig för allmännyttiga
+) z m underjordiska ledningar och allmännyttig
+z e Komplementbyggnader får sammanlagt ha lufttedning
+en byggnadsarea om 100
+: Genomförandetid
+u« Byggnaden får inte användas för Genomförandetiden är 5 år från den dag planen vinner laga kraft
+\- bostadsändamål
+e: Största sammanlagda byggnadsarea är 800 Ändrad lovplikt, lov med villkor
+1 IM? och störast area per byggnad är 400 m2 Marklov krävs även för fällning av träd markerade med svart
+dj punkt
+å Av
+Pärkering N Huvudmannaskap
+? | | CC J Byggnad får inte uppföras Kommunen är inte huvudman för allmän plats
+\- ss Marken får med undantag av uthus och
+i — garage inte förses med byggnader
+\- ÅA i MARKENS ANORDNANDE
+4 & Mark och vegetation
+tt NN n Marken får inte hårdgöras utan ska vara
+e4 B po tillgänglig för dagvattenhantering och natur
+I d nm Marken får inte asfalteras. plank/staket som
+entreer + + + är högre än 1,2 meter får inte uppföras
+i 4 a g PI
+RR d ns Plantering och träd får finnas
+| re E ne Teknikbyggnad får finnas
+. =p
+EEG EN parkering Parkeringsplats ska finnas
+Fa Se Utfart och stängsel
+| Å ar N je-:-0-:—  Utfartsförbud med användningsgräns
+LAT KOR OR PLACERING, UTFORMNING, UTFÖRANDE
+i le fe Placering
+: g p Huvudbyggnad ska placeras minst 2 meter
+i T fir från tomtgränsen
+Lod tig P Garageportar får inte anordnas mot gata
+i I närmare än 6 meter från gata
+ed | Utformning och omfattning
+Å [| Högsta antal våningar
+" Högsta antal/Föreskriven antal våningar
+v Högsta antal våningar
+entreer Entråer ska placeras mot omgivande gator
+och gång- och cykelstråk
+v: Högsta nockhöjd är 5 meter och minsta Detaljplan för Åsa centrum etapp 1 Samrådshandling
+taklutning är 35 grader
+Berga [Fear
+vi Suterrängvåning ska anordnas utöver Asa 4:144 m fl Trsiäs sir
+högsta våningsantal iÅsa Aäsmmes |engx
+Free
+vi Högsta nockhöjd är 5 meter och minsta Kungsbacka kommun Koeplacka | stones |BN SAX
+SR Upprättad i \<månad är» Reviderad i \<månadår> — | juu,
+Ar Minsta taklutning i grader
+PLANKARTA Br
+Mara Malone sotarjon
+Panassre 2012-00
+id ed bord Standardförfarande Plankostnadsavtal
 
 F39AD ONYD
 
-)
-
-pr
-EJ NM
-| A
-TA
-4
-\+
-\-
-\-
-\+
-v
-
-rd =p
-| i Å I +
-5 MIL ot
-oh
-
-\| | =
-
 & ller"
-
-PLANKARTA
-
-PLANBESTÄMMELSER
-Följande gäller åden med
-Endast angiven användning och utformning är tillåten.
-Bestämmelser utan beteckning gäller inom hela området.
-
-GRÄNSER
-——:— Detaljplanegräns
-—:—  — Användningsgräns
-
-ANVÄNDNING AV MARK OCH VATTEN
-Allmänna platser
-
-GÄTA Lokaltrafik
-GÄNG Gängväg
-GÅNG CYKEL = Gång- och cykelväg
-Kvartersmark
-B Bostäder
-Be Bostäder och centrumändamål
-
-UTNYTTJANDEGRADI/FASTIGHETSINDELNING
-
-e Största totala byggnadsarea är 800 m?2 och
-största byggnadsarea per byggnad är 100
-m
-
-e Komplementbyggnader får sammanlagt ha
-en byggnadsarea om 100
-
-e Byggnaden får inte användas för
-bostadsändamål
-
-e: Största sammanlagda byggnadsarea är 800
-
-IM? och störast area per byggnad är 400 m2
-
-AV
-
-CC Byggnad får inte uppföras
-Marken får med undantag av uthus och
-
-garage inte förses med byggnader
-
-MARKENS ANORDNANDE
-
-Mark och vegetation
-
-n Marken får inte hårdgöras utan ska vara
-tillgänglig för dagvattenhantering och natur
-
-nm Marken får inte asfalteras. plank/staket som
-är högre än 1,2 meter får inte uppföras
-
-ns Plantering och träd får finnas
-
-ne Teknikbyggnad får finnas
-
-parkering Parkeringsplats ska finnas
-
-Utfart och stängsel
-jo-:-0-:—  Utfartsförbud med användningsgräns
-
-PLACERING, UTFORMNING, UTFÖRANDE
-
-Placering
-
-p Huvudbyggnad ska placeras minst 2 meter
-från tomtgränsen
-
-P 'Garageportar får inte anordnas mot gata
-
-närmare än 6 meter från gata
-Utformning och omfattning
-[| Högsta antal våningar
-" Högsta antal/Föreskriven antal våningar
-
-v Högsta antal våningar
-
-entreer Entråer ska placeras mat omgivande gator
-och gång- och cykelstråk
-
-v Högsta nockhöjd är 5 meter och minsta
-taklutning är 35 grader
-
-vi Suterrängvåning ska anordnas utöver
-högsta våningsantal
-
-vi Högsta nockhöjd är 5 meter och minsta
-taklutning är 35 grader.
-
-MM Minsta taklutning i grader
-
-Utseende (ny bebyggelse)
-
-f Ny bebyggelse utformas med stående
-träpanel och sadeltak av lertegel som
-ansluter till karaktärsdrag hos bebyggelse i
-
-omgivningen
-hb Tak på huvudbyggnader utförs som
-sadeltak
-Varsamhet (befintlig bebyggelse)
-k De karaktärdrag och värden hos
-
-bebyggelsen som angivits i
-planbeskrivningens kapitel om
-gestaltningsprinciper ska särskilt beaktas vid
-ändring
-
-och
-
-a Byggnaden fär inte rivas
-
-ADMINISTRATIVA BESTÄMMELSER
-Markreservat för allmännyttiga ändamål
-
-v Marken ska vara tillgänglig för allmännyttiga
-underjordiska ledningar
-
-ut Marken ska vara tillgänglig för allmännyttiga
-underjordiska ledningar och allmännyttig
-luftledning
-
-Genomförandetid
-Genomförandetiden är 5 år från den dag planen vinner laga kraft
-
-Ändrad lovplikt, lov med villkor
-
-Marklov krävs även för fällning av träd markerade med svart
-punkt
-
-Huvudmannaskap
-
-Kommunen är inte huvudman för allmän plats
-
-Detaljplan för Åsa centrum etapp 1 Samrådshandling
-Beard [Fear
-
-Asa 4144 m fl Era
-Aläemad BN GX
-
-i Åsa Kr
-
-Kungsbacka kommun Koeptack: | äpstemed BN EXX
-
-Upprättad i \<månad är» Reviderad i \<månadår> — | juu,
-
-Hara Malone Sofa jod vie
-
-Panassre 2012-00
-
-Standardförfarande Plankostnadsavtal
 
 <!-- sida 1997 -->
 
@@ -104286,12 +104586,10 @@ Område A: Gångbana utmed Kläppavägen
 
 Typsektion:
 
-Kärbana
+Kaärbana
 
 H
 2
-
-SN >= NE emsärnasdid
 
 Överbyggnader:
 Gång- och cykelbana (A1) | ÖVERBYGGNAD TJOCKLEK (mm)
@@ -104429,43 +104727,56 @@ VÄNERSBORGS  TINGSRÄTT     FÖRELÄGGANDE                Aktbilaga 12
 Mark- och miljödomstolen   2021-10-26                  Mål nr P 1428-21
 R2
 
-267935
-
-dI.koD
 Kungsbacka kommun
+
 Stadshuset
 434 81 Kungsbacka
+
 Parter:          m.fl. ./. Kungsbacka kommun m. fl.
 Målet gäller: överklagande av Kommunfullmäktige i Kungsbacka kommuns beslut 2021-03-
 09 §27 att anta detaljplan för Åsa 4:144 m.fl.
+
 Domstolen handlägger ovanstående mål. De handlingar som inlett målet finns bifogade.
+
 Svara i målet
 Lämna in ett skriftligt svar till domstolen och tala om ifall ni går med på eller motsätter er det
 som begärs i handlingarna. Om ni motsätter er – förklara varför.
+
 Vill ni lägga fram några bevis ska ni tala om det. Förklara vad ni vill visa med varje bevis.
 Skicka in de skriftliga bevis som inte redan finns i målet. Om ni begär förhör med vittnen ska
 ni lämna deras namn samt adress, e-post och telefon.
+
 Svara i tid
 Domstolen måste ha ert svar senast den 16 november 2021. Om ni inte svarar kan målet
 ändå komma att avgöras.
+
 När ni skickar in svaret
+
 Skicka gärna in handlingar i målet med e-post, helst i PDF-format. Om ni vill skicka dem på
 ett säkert sätt kan ni göra det via www.domstol.se/kontaktformular. För handlingar som ska
 signeras, använd istället www.domstol.se/digitalhandling.
 Uppge ert namn, målnummer P 1428-21 och det telefonnummer som ni kan nås på. Lämna
 också e-postadress, så att vi framöver kan skicka handlingar i målet via e-post.
+
 Har ni frågor?
 På webbplatsen finns information om domstolen och om handläggningen. Kontakta oss
 gärna vid frågor – ni når oss enklast per telefon 0521-270 273.
+
 Silvia Mugnaini
+
 Bifogade handlingar: aktbilaga 1-2, 7
+
 Sida 1 (av 2)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 539762
 
 <!-- sida 2003 -->
 
@@ -104895,11 +105206,9 @@ NAN förstör Åsa”
 
 sa
 
-CR I
 RDR RESET
 
 Få
-yo RAN
 
 <!-- sida 2016 -->
 
@@ -105495,18 +105804,14 @@ YBSGALNI
 42
 llahsttordI B2                                             32 52 62
 3
-Box
-8774,
-402
-76
-Göteborg
-www.norconsult.se
-Norconsult
-AB
-Tfn
-031-50
-70
-00
+
+N o rconsu lt AB
+
+T fn 031 -50 70 00
+
+Box 8774 , 402 76 G ö tebo rg
+
+www .no rconsu lt.se
 
 <!-- sida 2032 -->
 
@@ -105612,18 +105917,14 @@ YBSGALNI
 42
 llahsttordI B2                                             32 52 62
 3
-Box
-8774,
-402
-76
-Göteborg
-www.norconsult.se
-Norconsult
-AB
-Tfn
-031-50
-70
-00
+
+N o rconsu lt AB
+
+T fn 031 -50 70 00
+
+Box 8774 , 402 76 G ö tebo rg
+
+www .no rconsu lt.se
 
 <!-- sida 2033 -->
 

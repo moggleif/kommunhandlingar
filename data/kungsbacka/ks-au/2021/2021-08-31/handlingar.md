@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320145045id_/https://www.kungsbacka.
 sha256: d44dbe4a3158cf7dd3842c41c20ec0d1cef3dc5e405d9532fe3f033ede7b2729
 bytes: 8409073
 sidor: 99
-hamtad: 2026-10-28T10:37:58+00:00
-konverterad: 2026-10-28T10:38:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:08:05+00:00
+konverterad: 2026-11-17T13:08:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -414,7 +414,8 @@ Kommunstyrelsen i samtliga halländska kommuner
 
 <!-- sida 11 -->
 
-2021-05-06
+\~
+R egion Halland                                     2021-05-06
 
 Överenskommelse       om   regional  medfinansiering
 2021-2027
@@ -441,33 +442,43 @@ utgör en egen del av den regionala medfinansieringen.
 
 För 2021 till 2027 gäller:
 
-Regional
+Regional                                           Summa
 medfinansiering
 2021-2027
 
-1(2)
-noigeR dnallaH
-datsmlaH
-grebneklaF
-mlohaL
-etlyH
-grebraV
-akcabsgnuK
-\~
-Region  Halland
-Summa
 Summa per år 7 000 3 100 1 400 800 300 1 900 2 500 17 000
 000   000   000  000  000 000   000   000
+
 Fakturering sker med en tredjedel av årsavgiften varje tertial.
+
 Respektive part äger rätten att säga upp överenskommelsen för kommande år
 innan årsskiftet. Om en part bryter överenskommelsen faller den för alla
 ingående parter.
+
 Grundläggande  förutsättningar
 De regionala medfinansieringsmedlen ska användas till insatser/aktiviter som
 syftar till regional utveckling. För att säkerställa regional nytta och kvalitet
 avsätts vissa medel för övergripande samverkanskostnader och arbete med
 horisontella kriterier, det vill säga, hållbar utveckling (ekonomisk, social och
 ekologisk).
+
+1(2)
+
+Region
+
+Halland
+
+Halmstad
+
+Falkenberg
+
+Laholm
+
+Hylte
+
+Varberg
+
+Kungsbacka
 
 <!-- sida 12 -->
 
@@ -3098,15 +3109,15 @@ B
 Livet       i Forsbergen
 
 •ꢀ Småskaligstadsmiljö medomsorgsfulltutformadbebyggelse
-
 •ꢀ Blandadebostadsformer som behovsanpassasienstrategisketapputbyggnad
-•ꢀ Sociala rum planerasigator,torgochmötesplatser
 
+•ꢀ Sociala rum planerasigator,torgochmötesplatser
 •ꢀ Serviceutbudförallaåldrarsäkerställerettenklarevardagsliv
+
 •ꢀ Starkidentitet koppladtillkultur-ochnaturmiljö byggervärde
 •ꢀ Lockanderekreationskvalitetermedgolfbanan, Rolfsån,promenadstråkoch
-
 slottsmiljön
+
 •ꢀ Enintegreradstadsvävsom förlängerinnerstadenmotnaturen
 
 \_J
@@ -3117,44 +3128,81 @@ o   □
 
 ?
 
-På goda grunder                   utblickar, rekreationsmöjligheter och omsorgsfullt grunden för att Forsbergen ska kunna erbjuda goda primärt socialt rum och programmeras för aktiviteter
-gestaltade bostäder. Etapputbyggnaden innebär livsmiljöer för många målgrupper. Bostadsbehovet och möten. Frånpromenaden med hunden till
+På goda grunder
 Forsbergen vill erbjuda en unik livsmiljö på goda
-att varje fas behöver tillgodose grundläggande behöver utvärderas efter varje etapp och mätas hockeymålet på gatan så ska känslan avett socialt
 grunder. Med rötterna i en anrik kulturmiljö står
-funktioner och kvalitativa värden för att varje i en omvärldsanalys –hur ser Kungsbackas grannskap vara tydlig. Vägar dras så att människor
 Forsbergen för lika delar historia som framtid. Det är
-person som flyttar in ska uppleva Forsbergen som bostadsutbud ut och vad behöver kompletteras kan gå och cykla genom stadsdelen och att
 den lokala kontexten, kopplingen till Gåsevadholms
-ett attraktivt område. Det innebär rent praktiskt att med? Stommen är den struktur med huvudgatan gatumiljön och de offentliga rummen är inbjudande
 slott, bergslandskapet och den rika naturmiljön
-från start ha tillräcklig infrastruktur, serviceutbud, som ryggrad och kvarteren som skapar en för allmänheten och skapar det naturliga stråket
 som gör området unikt och attraktivt. Att koppla an
-verksamheter, blandade boendeformer och rumslighet utifrån vilken bostäder och verksamheter mot centrala Kungsbacka.
 stadsdelens identitet och uttryck till den historiska
-rekreativa värden och analysera hur etapperna placeras. Det gör att etapperna bidrar till en helhet
 miljön är den trygga förankringen som skapar
-bygger på och kompletterar varandra. på strukturnivå men kan särskiljas på kvartersnivå Närheten till centrum, god kollektivtrafik, ett
 utrymme för lekfullhet och innovation.
-och hitta innovativa behovsanpassade lösningar i serviceutbud för alla åldrar och den gröna närmiljön
-Etapputbyggnad                    varje fas.                        med möjlighet för rekreation, inte minst tack vare
+
 Funktioner och kvalitet
-golfbanan, skapar tillsammans med omsorgsfullt
-Forsbergens fulla utbyggnad kan innebära upp emot
-Livet i Forsbergen bygger på att hela behovstrappan                 Levande stadsmiljö                utformade bostäder och stadsrum en livsmiljö att
-8000 bostäder och under de 20 år som planeringen
-är uppfylld –från de mest basala behoven så som                                                       vara stolt över!
-sträcker sig kommer samhället förändras och En levande småskalig stadsmiljö kräver noga
+Livet i Forsbergen bygger på att hela behovstrappan
+är uppfylld –från de mest basala behoven så som
 en tillgänglig och säker trafikmiljö, bra serviceutbud
-sociala strukturer att utvecklas. Boendeformerna avvägda målpunkter, stråk och innehåll för både
 och hälsosamma miljövärden till behovet avvackra
-behöver vara flexibla och ett blandat utbud är boende, verksamma och besökare. Gatan är ett
+
 Hantering avhållbarhetsmål:
+1!!11111111111
+
+utblickar, rekreationsmöjligheter och omsorgsfullt
+gestaltade bostäder. Etapputbyggnaden innebär
+att varje fas behöver tillgodose grundläggande
+funktioner och kvalitativa värden för att varje
+person som flyttar in ska uppleva Forsbergen som
+ett attraktivt område. Det innebär rent praktiskt att
+från start ha tillräcklig infrastruktur, serviceutbud,
+verksamheter, blandade boendeformer och
+rekreativa värden och analysera hur etapperna
+bygger på och kompletterar varandra.
+Etapputbyggnad
+
+Forsbergens fulla utbyggnad kan innebära upp emot
+8000 bostäder och under de 20 år som planeringen
+sträcker sig kommer samhället förändras och
+sociala strukturer att utvecklas. Boendeformerna
+behöver vara flexibla och ett blandat utbud är
+
+grunden för att Forsbergen ska kunna erbjuda goda
+livsmiljöer för många målgrupper. Bostadsbehovet
+behöver utvärderas efter varje etapp och mätas
+i en omvärldsanalys –hur ser Kungsbackas
+bostadsutbud ut och vad behöver kompletteras
+med? Stommen är den struktur med huvudgatan
+som ryggrad och kvarteren som skapar en
+rumslighet utifrån vilken bostäder och verksamheter
+placeras. Det gör att etapperna bidrar till en helhet
+på strukturnivå men kan särskiljas på kvartersnivå
+och hitta innovativa behovsanpassade lösningar i
+varje fas.
+Levande stadsmiljö
+En levande småskalig stadsmiljö kräver noga
+avvägda målpunkter, stråk och innehåll för både
+boende, verksamma och besökare. Gatan är ett
+
+primärt socialt rum och programmeras för aktiviteter
+och möten. Frånpromenaden med hunden till
+hockeymålet på gatan så ska känslan avett socialt
+grannskap vara tydlig. Vägar dras så att människor
+kan gå och cykla genom stadsdelen och att
+gatumiljön och de offentliga rummen är inbjudande
+för allmänheten och skapar det naturliga stråket
+mot centrala Kungsbacka.
+Närheten till centrum, god kollektivtrafik, ett
+serviceutbud för alla åldrar och den gröna närmiljön
+med möjlighet för rekreation, inte minst tack vare
+golfbanan, skapar tillsammans med omsorgsfullt
+utformade bostäder och stadsrum en livsmiljö att
+vara stolt över!
+
 I
-1!!11111111111                                                                                                                                   7 (16)
+7 (16)
 0   BAL     ·;--\~---
 KOBERG
-B R  I X LV        DER     J':\~ 1         2020-09-20
+B  R I X  LV        DER    J':\~ 1         2020-09-20
 FÖRVALTNINGAB
 
 <!-- sida 75 -->

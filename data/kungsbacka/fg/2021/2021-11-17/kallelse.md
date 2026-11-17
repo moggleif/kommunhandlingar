@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172358id_/https://kungsbacka.se/d
 sha256: c444519032c37b88740a99f95c07e8a6482350c37a4da30693659b7be0eedbf4
 bytes: 4564193
 sidor: 82
-hamtad: 2026-10-28T09:17:29+00:00
-konverterad: 2026-10-28T09:18:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:41:07+00:00
+konverterad: 2026-11-17T12:41:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
@@ -155,7 +155,6 @@ Matsal/fikarum 8—
 HI Olycksfall Tillbud Riskobservation
 Aktivitet
 Diagrammet visar de vanligast förekommande (upp till 10). Antal händelser där det inte är angivet: 172
-Undervisning 152 |
 Lek och spel 47 -
 Aktivitet på rast 45 a
 Övrig 25
@@ -362,7 +361,7 @@ Axl 2-0 OO
 Armbåge 2-1,
 Rygg (ej nacke) 1 1
 Hand, harded 1-000,nk,kn/ENr 6
-HiIsnracke 1-ÅZÅqÅrNNel
+HiIsnrnacke 1-0 H00j1ll]
 Arm 1-0
 
 Anmälan
@@ -388,10 +387,7 @@ Utbildningslokal
 
 Allmän plats
 Kök/storkök
-
 Entré
-
-SA NNÖWBN
 
 Aktivitet
 
@@ -447,6 +443,8 @@ Frånvaro
 
 IA IA för Kommuner, tillhandahålls av Afa Försäkring 6(8)
 
+SA NNÖWBN
+
 <!-- sida 8 -->
 
 Faktisk sjukfrånvaro
@@ -501,7 +499,7 @@ Personlig kontakt 1-1
 
 Objekt
 Antal händelser där det inte är angivet: 1
-Hushållsmaskin/köksuttustring 2--NO€<((O[U[[< [TT
+Hushållsmaskin/köksuttustring 2--NO”€<((!A[I[l[[l[lN»l[
 Elev/barn 2
 
 Annan person 1 Fn
