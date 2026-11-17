@@ -1,9 +1,10 @@
-"""Krav: K5 och K19 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016, ADR-0024 och
-ADR-0031.
-Test: tests/test_konvertering.py och tests/test_celler.py.
+"""Krav: K5, K19 och K61 i docs/02-KRAV.md, ADR-0005, ADR-0009, ADR-0016, ADR-0024,
+ADR-0031 och ADR-0087.
+Test: tests/test_konvertering.py, tests/test_celler.py och tests/test_rutkanter.py.
 
 En säker tabell är avgränsad av ritade linjer: streck och fyllda
-rektanglar som är högst 2 punkter breda eller höga. Den har minst ett ord,
+rektanglar som är högst 2 punkter breda eller höga, och kanten där två
+bredare fyllda rektanglar möts (`rutkanter.py`). Den har minst ett ord,
 så att ett rutnät utan text inte är en tabell, varje ord inom tabellens
 yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer än ett
 tal.
@@ -21,7 +22,7 @@ import re
 from pdfplumber.page import Page
 from pdfplumber.table import Table
 
-from kommunhandlingar.konvertering import markdown
+from kommunhandlingar.konvertering import markdown, rutkanter
 from kommunhandlingar.konvertering.falt import falt, radvis
 from kommunhandlingar.konvertering.text import TAL
 
@@ -41,9 +42,9 @@ FOTNOT = re.compile(r"(?<=\d)\*+(?!\d)")
 def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
     """De säkra tabellerna, och de som fälldes för att en cell rymmer flera
     tal."""
-    linjer = sida.lines + [
-        r for r in sida.rects if min(r["width"], r["height"]) <= LINJEBREDD
-    ]
+    smala = [r for r in sida.rects if smal(r)]
+    ytor = [r for r in sida.rects if r["fill"] and not smal(r)]
+    linjer = sida.lines + smala + rutkanter.gemensamma(ytor)
     if len(linjer) < 2:
         return [], []
     installning = {
@@ -55,6 +56,10 @@ def sakra(sida: Page, ord_: list[dict]) -> tuple[list[Table], list[Table]]:
     hela = [t for t in sida.find_tables(installning) if ar_hel(t, ord_)]
     fallda = [t for t in hela if rymmer_flera_tal(t, ord_)]
     return [t for t in hela if t not in fallda], fallda
+
+
+def smal(ruta: dict) -> bool:
+    return min(ruta["width"], ruta["height"]) <= LINJEBREDD
 
 
 def ar_hel(tabell: Table, ord_: list[dict]) -> bool:

@@ -1986,3 +1986,25 @@ Issue [#314](https://github.com/moggleif/kungsbackakommun/issues/314).
 - **När** de visas för en region
 - **Så** säger texten "revisionen", "styrelsen" och "gemensamma planer",
   inget som bara gäller en kommun.
+
+## K61 — Kolumner utan streck mellan cellerna hålls isär
+
+Hur och varför står i
+[ADR-0087](decisions/0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md)
+och [Konvertering och kvalitet](03-ARKITEKTUR.md#konvertering-och-kvalitet).
+Issue [#318](https://github.com/moggleif/kungsbackakommun/issues/318).
+
+- **Givet** en tabell där varje cell är en fylld ruta och två kolumner
+  bara skiljs av att deras rutor möts kant i kant, utan något streck
+  emellan
+- **När** dokumentet konverteras
+- **Så** står kolumnerna i var sin kolumn i tabellen, och texten i den
+  ena flätas inte ihop med texten i den andra.
+- **Givet** en tabell med streck där en rad har en färgad bakgrund över
+  hela bredden
+- **När** dokumentet konverteras
+- **Så** ger bakgrunden ingen ny cellgräns, som förut.
+- **Givet** två fyllda rutor med text som inte möts, utan mellanrum
+  emellan
+- **När** dokumentet konverteras
+- **Så** blir de ingen tabell, som förut.
