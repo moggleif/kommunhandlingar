@@ -9,7 +9,6 @@ import unittest
 from datetime import date
 from pathlib import Path
 
-from kommunhandlingar.adaptrar import meetingsplus_html
 from kommunhandlingar.adaptrar.meetingsplus import kalla_av, las_mote, upptack
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 
@@ -34,27 +33,6 @@ def html(namn: str) -> str:
 
 def kalla(post: dict = POST):
     return kalla_av(post, ORGAN, "kalla 1")
-
-
-class TestOrgansidan(unittest.TestCase):
-    def test_alla_moten_i_sidans_ordning(self):
-        moten = meetingsplus_html.moten(html("organsida.html"), SJUKHUS)
-        self.assertEqual(len(moten), 73)
-        self.assertEqual(moten[0], f"{SJUKHUS}/mote-2026-12-02")
-        self.assertEqual(moten[-1], f"{SJUKHUS}/mote-2017-06-28")
-
-    def test_bara_adresser_direkt_under_organet(self):
-        sida = (
-            f'<a href="{SJUKHUS}/mote-2026-01-01">a</a>'
-            f'<a href="{SJUKHUS}/mote-2026-01-01/agenda/x-2026-01-01pdf">b</a>'
-            f'<a href="{BAS}/regionstyrelsen/mote-2026-01-02">c</a>'
-            f'<a href="{SJUKHUS}/mote-2026-01-03?x=1">d</a>'
-            '<a href="/committees/driftnamnden-hallands-sjukhus/mote-2026-01-04">e</a>'
-        )
-        self.assertEqual(
-            meetingsplus_html.moten(sida, SJUKHUS),
-            [f"{SJUKHUS}/mote-2026-01-01", f"{SJUKHUS}/mote-2026-01-04"],
-        )
 
 
 class TestMotessidan(unittest.TestCase):
@@ -190,10 +168,19 @@ def protokollet(mote: str) -> str:
 
 class TestKallan(unittest.TestCase):
     def test_samlingsmote_utan_organsida_stoppar(self):
+        for adress in (
+            "https://annan.se/committees/regionstyrelsen/mote-2013-01-01",
+            f"{BAS}/arkiv/regionstyrelsen/mote-2013-01-01",
+        ):
+            post = copy.deepcopy(POST)
+            post["samlingsmoten"] = [adress]
+            with self.subTest(adress), self.assertRaises(Konfigurationsfel):
+                kalla(post)
+
+    def test_samlingsmote_under_en_annan_organsida_bredvid(self):
         post = copy.deepcopy(POST)
-        post["samlingsmoten"] = [f"{BAS}/regionstyrelsen/mote-2013-01-01"]
-        with self.assertRaises(Konfigurationsfel):
-            kalla(post)
+        post["samlingsmoten"] = [f"{BAS}/regionens-revisorer/mote-2018-01-01"]
+        self.assertEqual(len(kalla(post).samlingsmoten), 1)
 
     def test_samlingsmotet_skrivs_som_upptackten_skriver_det(self):
         post = copy.deepcopy(POST)

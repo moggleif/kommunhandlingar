@@ -47,13 +47,11 @@ def kalla_av(post: dict, organ_id: list[str], var: str) -> Kalla:
 
 
 def samlingsmote(adress: str, sidor: dict[str, str], var: str) -> str:
-    """Mötessidan direkt under en organsida, skriven som upptäckten skriver den."""
-    organsida, _, sista = adress.rstrip("/").rpartition("/")
-    if organsida not in {s.rstrip("/") for s in sidor.values()} or not (
-        meetingsplus_html.MOTESDATUM.search(sista)
-    ):
+    """Mötessidan direkt under en organsida bredvid källans, skriven som
+    upptäckten skriver den."""
+    if not any(meetingsplus_html.under_en_organsida(adress, s) for s in sidor.values()):
         raise Konfigurationsfel(f"{var}: samlingsmötet {adress} är inget möte i källan")
-    return f"{organsida}/{sista}"
+    return adress.rstrip("/")
 
 
 def upptack(
@@ -64,7 +62,7 @@ def upptack(
     avvisade: list[Avvisad] = []
     missade: set[tuple[str, date]] = set()
     for organ, organsida in kalla.sidor.items():
-        for motessida in meetingsplus_html.moten(hamta_sida(organsida), organsida):
+        for motessida in egna_moten(kalla, organ, hamta_sida(organsida)):
             try:
                 html = hamta_sida(motessida)
             except Hamtfel as fel:
@@ -74,6 +72,13 @@ def upptack(
             nya, bort = las_mote(kalla, organ, motessida, html)
             kandidater, avvisade = kandidater + nya, avvisade + bort
     return utan_missade_dagar(kandidater, missade), avvisade
+
+
+def egna_moten(kalla: Kalla, organ: str, html: str) -> list[str]:
+    """Ett möte under ett annat organs sida i källan är det organets (ADR-0080)."""
+    andra = {s.rstrip("/") for o, s in kalla.sidor.items() if o != organ}
+    moten = meetingsplus_html.moten(html, kalla.sidor[organ])
+    return [m for m in moten if m.rpartition("/")[0] not in andra]
 
 
 def utan_missade_dagar(

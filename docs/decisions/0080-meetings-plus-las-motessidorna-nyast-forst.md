@@ -187,3 +187,23 @@ dokument så att indexet stämmer, ungefär 200 MB. Det ger omkring 550 MB,
 under gränsen. Priset är att en länk med `#sida-N` till en bilaga,
 från målen, spåren eller punktkorten, landar högst upp på sidan utan
 text, och att Markdown-filen saknar sidankare.
+
+**Tillägg 2026-11-17, möten under en annan adress.** Ett organ som bytt
+namn behåller sin sida, men en del av mötena ligger under en annan sida
+bredvid den, till exempel den gemensamma nämnden för hemsjukvård och
+hjälpmedel, vars möten från 2022 ligger under
+`/committees/gemensam-namnd-for-hemsjukvard-och-hjalpmedel-23088/`.
+Organsidan länkar till dem, men adaptern tog bara möten direkt under
+organets egen adress och hoppade tyst över resten: 89 möten hos fem av
+regionens 17 organ. Nu är varje länk på organsidan till en sida direkt
+under en organsida, organets egen eller en annan bredvid den, ett av
+organets möten, utom de som ligger under ett annat organs sida i
+källan. Ingen organsida i regionen länkade 2026-11-17 till ett annat
+organs möten, men en ruta med kommande möten för alla organ hade annars
+lagt dem hos fel organ. Mötets egen adress avgör fortfarande vad som är
+kallelse och protokoll, så de andra mötena läses som de egna.
+
+Ett av mötena, revisorernas `regionens-revisorer/mote-2018-01-01`, rymmer
+ett helt års rapporter och är ett samlingsmöte. Därför får ett
+samlingsmöte i kommunfilen nu ligga under en organsida bredvid källans,
+inte bara under en av dem (K57).

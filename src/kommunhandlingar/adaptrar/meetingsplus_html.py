@@ -57,16 +57,24 @@ def lankar(html: str, sidadress: str) -> list[tuple[str, str]]:
 
 
 def moten(html: str, organsida: str) -> list[str]:
-    """Mötessidorna i sidans ordning: adresser direkt under organets, med
-    ett datum i sista delen."""
-    organ = urlsplit(organsida).path.rstrip("/")
+    """Mötessidorna i sidans ordning: adresser direkt under en organsida,
+    med ett datum i sista delen. Ett organ som bytt namn har en del av
+    mötena under en annan organsida än sin egen (ADR-0080)."""
     funna: dict[str, None] = {}
     for adress, _ in lankar(html, organsida):
         delar = urlsplit(adress)
-        forald, _, sista = delar.path.rpartition("/")
-        if forald == organ and MOTESDATUM.search(sista) and not delar.query:
-            funna[f"{delar.scheme}://{delar.netloc}{delar.path}"] = None
+        utan_fraga = f"{delar.scheme}://{delar.netloc}{delar.path}"
+        if under_en_organsida(utan_fraga, organsida) and not delar.query:
+            funna[utan_fraga] = None
     return list(funna)
+
+
+def under_en_organsida(motessida: str, organsida: str) -> bool:
+    """Mötessidan har ett datum i sista delen och ligger direkt under en
+    sida i samma katalog som organsidan."""
+    forald, _, sista = motessida.rstrip("/").rpartition("/")
+    organkatalog = organsida.rstrip("/").rpartition("/")[0]
+    return forald.rpartition("/")[0] == organkatalog and bool(MOTESDATUM.search(sista))
 
 
 def filer(html: str, motessida: str) -> list[Fil]:

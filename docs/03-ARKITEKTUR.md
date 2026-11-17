@@ -572,12 +572,16 @@ kf = "https://exempelby.se/committees/fullmaktige"
 | Fält                  | Betyder                                                      |
 | --------------------- | ------------------------------------------------------------ |
 | `kalla.sidor`         | Organets id och adressen till organets sida. Organet är sidans. |
-| `kalla.samlingsmoten` | Mötessidor som rymmer flera sammanträdens filer, oftast ett helt års protokoll. Varje adress ligger direkt under en av organsidorna och har ett datum i sista delen; ett avslutande `/` tas bort. Utelämnas annars. |
+| `kalla.samlingsmoten` | Mötessidor som rymmer flera sammanträdens filer, oftast ett helt års protokoll. Varje adress ligger direkt under en organsida, en i källan eller en annan bredvid dem, och har ett datum i sista delen; ett avslutande `/` tas bort. Utelämnas annars. |
 | `kalla.monster`       | Hur ett samlingsmötes filnamn ger typ och datum. Utelämnas utan samlingsmöten. |
 
 - **Mötena** är länkarna på organets sida vars adress ligger direkt under
-  organsidans och vars sista del har ett datum `ÅÅÅÅ-MM-DD`, som
-  `mote-2026-09-30` eller `mote-2023-01-20-12741`. Datumet är mötets.
+  en organsida, organets egen eller en annan bredvid den, och vars sista
+  del har ett datum `ÅÅÅÅ-MM-DD`, som `mote-2026-09-30` eller
+  `mote-2023-01-20-12741`. Datumet är mötets. Mötet hör till organet vars
+  sida länkar till det, utom när det ligger under ett annat organs sida i
+  källan. Ett organ som bytt namn länkar så till sina möten under den
+  andra adressen.
   Sidans övriga länkar, till exempel menyn, är inga möten.
 - **En mötessida som inte går att hämta** nämns i sammanfattningen med
   filnamnet `mötessidan` och felets orsak, och organets alla kandidater
