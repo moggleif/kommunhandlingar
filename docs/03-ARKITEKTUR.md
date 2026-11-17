@@ -914,7 +914,13 @@ nattkörningen checkar inte in något
   att det gäller varje tal i dokumentet.
 - **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
-  som färgade rader och kolumner, är inga linjer. Tabellen har minst två
+  som färgade rader och kolumner, är inga linjer. Men där två bredare
+  fyllda ytor möts kant i kant, högst 1 punkt isär eller över
+  varandra, och längs minst
+  2 punkter, är den gemensamma kanten en linje, eftersom Word ritar varje
+  cell som en egen ruta också där inget streck syns
+  ([ADR-0087](decisions/0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md)).
+  Ytornas yttre kanter är fortfarande inga linjer. Tabellen har minst två
   rader och två kolumner och minst ett ord, varje ord inom dess yta har
   sin mittpunkt i en cell, och ingen cell rymmer mer än ett tal. Ett
   rutnät utan text, som stödlinjerna i ett diagram eller en tabell vars

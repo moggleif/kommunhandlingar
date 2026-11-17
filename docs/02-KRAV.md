@@ -2012,3 +2012,29 @@ Hur och varför står i
 - **Så** står rutan bredvid grafen, urvalet "Gäller" och förvalet i Ett år
   i taget för målens sista år, och Ett år i taget jämför inte målens
   första år med året innan.
+
+## K61 — Kolumner utan streck mellan cellerna hålls isär
+
+Hur och varför står i
+[ADR-0087](decisions/0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md)
+och [Konvertering och kvalitet](03-ARKITEKTUR.md#konvertering-och-kvalitet).
+Issue [#318](https://github.com/moggleif/kungsbackakommun/issues/318).
+
+- **Givet** en tabell där varje cell är en fylld ruta och två kolumner
+  bara skiljs av att deras rutor möts kant i kant, utan något streck
+  emellan
+- **När** dokumentet konverteras
+- **Så** står kolumnerna i var sin kolumn i tabellen, och texten i den
+  ena flätas inte ihop med texten i den andra.
+- **Givet** en tabell med streck där en rad har en färgad bakgrund över
+  hela bredden
+- **När** dokumentet konverteras
+- **Så** ger bakgrunden ingen ny cellgräns, som förut.
+- **Givet** en tabell där varje cell är en fylld ruta och raderna bara
+  skiljs av att deras rutor möts, utan vågrätt streck emellan
+- **När** dokumentet konverteras
+- **Så** står raderna på var sin rad i tabellen.
+- **Givet** två fyllda rutor med text och ett mellanrum emellan, så att
+  de inte möts
+- **När** dokumentet konverteras
+- **Så** blir de ingen tabell, som förut.

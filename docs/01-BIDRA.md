@@ -100,7 +100,8 @@ python3 -m kommunhandlingar.hamta kommuner/kungsbacka.toml /tmp/kommunhandlingar
 PDF-fixturerna i `tests/fixtures/pdf/` skapas av `skapa.py`, som behöver
 reportlab, pypdf och Pillow, `skapa_skarvar.py` och `skapa_spalter.py`,
 som behöver reportlab, `skapa_hogkant.py`, som behöver reportlab och
-Pillow, och `skapa_kort.py`, som behöver reportlab och pypdf. De är inte
+Pillow, `skapa_kort.py`, som behöver reportlab och pypdf, och
+`skapa_delade.py` och `skapa_rutor.py`, som behöver reportlab. De är inte
 projektets beroenden. Testerna av hämtningen läser `kort.pdf`, som saknar
 inskannade sidor, så att de inte väntar på OCR; testerna av konverteringen
 läser `sidor.pdf`.

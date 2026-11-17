@@ -31,7 +31,7 @@ Regler för det här repot, utöver MADR:
 | 0002 | [Kort AGENTS.md, faserna som skills och en egen granskningsagent](0002-kort-agentfil-faser-som-skills-och-egen-granskare.md) | accepted |
 | 0003 | [Dokumentet identifieras av sin plats i modellen och en källnyckel; sha256 är versionen](0003-dokumentets-identitet-och-datamodell.md) | accepted |
 | 0004 | [Inkrementell körning: poolen är tillståndet och adressen är signalen](0004-inkrementell-korning-poolen-ar-tillstandet.md) | accepted (0019 lägger till omkonvertering vid en annan version) |
-| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje, 0034 fäller avskurna tabeller, 0036 tar bort mellanslag inne i en siffra) |
+| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje, 0034 fäller avskurna tabeller, 0036 tar bort mellanslag inne i en siffra, 0087 räknar kanten mellan två cellrutor som linje) |
 | 0006 | [Körningen sker varje natt i GitHub Actions och checkar in data direkt till `main` efter datakontrollerna](0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md) | accepted (0075 ger varje dokument en egen tidsgräns) |
 | 0007 | [Poolen är en ögonblicksbild: det som en gång checkats in tas inte bort, och historiken skrivs inte om](0007-poolen-ar-en-ogonblicksbild.md) | accepted |
 | 0008 | [Kommunkonfigurationen skrivs i TOML, en fil per kommun, och artigheten per värd står i en gemensam fil](0008-kommunkonfigurationen-i-toml.md) | accepted |
@@ -110,3 +110,4 @@ Regler för det här repot, utöver MADR:
 | 0084 | [Handlingar och protokoll är menyns första post, och kalendern har ingen stig](0084-handlingar-och-protokoll-i-menyn.md) | accepted |
 | 0085 | [Lokaler och investeringar, remisser och yttranden och överenskommelser och vårdval blir tre nya slag av spår över tid](0085-lokaler-remisser-och-overenskommelser-som-spar.md) | accepted |
 | 0086 | [Alla sidor över tid visar samma år, från poolens första till innevarande](0086-alla-sidor-over-tid-visar-samma-ar.md) | accepted |
+| 0087 | [Kanten där två fyllda cellrutor möts är en cellgräns](0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md) | accepted |
