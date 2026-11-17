@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319201526id_/https://www.kungsbacka.
 sha256: 004901f55b0a88b81bf2947c8bd8e668329948c317bf7e38a815db5371c93553
 bytes: 3100537
 sidor: 68
-hamtad: 2026-10-27T10:12:57+00:00
-konverterad: 2026-10-27T10:13:15+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T12:14:03+00:00
+konverterad: 2026-11-17T12:14:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok]
@@ -2462,79 +2462,137 @@ Kungsbacka kommun är en attraktiv tillväxtkommun, geografiskt placerad i en av
 Sveriges starkaste tillväxt- och arbetsmarknadsregioner. Antalet invånare ökar
 varje år och nya lokaler behövs för att möta behovet från befolkningsökningen.
 
-Kommunen har en omfattande verksamhet som bedrivs i Det övergripande målet med lokalförsörjningen är att
-olika lokaler. Dessutom förmedlar kommunen olika slags uppnå en god ekonomisk hushållning med lokaler och
-boenden för grupper i samhället som har svårt att få bostad service och därmed kunna frigöra resurser till kommu-
-på vanligt sätt. Det kan handla om boenden för äldre, per- nens kärnverksamheter. Det leder i förlängningen till ett
-soner med funktionsnedsättning, nyanlända samt socialt effektivt lokalutnyttjande och lägre kostnader totalt sett för
-utsatta personer. Kommunen både äger och hyr in lokaler hela kommunen.
+Kommunen har en omfattande verksamhet som bedrivs i
+olika lokaler. Dessutom förmedlar kommunen olika slags
+boenden för grupper i samhället som har svårt att få bostad
+på vanligt sätt. Det kan handla om boenden för äldre, per-
+soner med funktionsnedsättning, nyanlända samt socialt
+utsatta personer. Kommunen både äger och hyr in lokaler
 och boenden.
-Handläggningen av lokalbehoven behöver ske enligt ned-
-Kommunfullmäktige har antagit följande lokalpolicy: anstående principer:
-Kommunen ska genom aktiv lokalförsörjning tillhandahålla • Lokalbehov ska omhändertas enligt lokalförsörjnings-
-och bibehålla ändamålsenliga och kostnadseffektiva lokaler över processens olika steg för effektiv hantering.
-tiden.                             • Lokalbehov ska prioriteras utifrån den så kallade
-Prioriteringsprincipen i fallande ordning:
-Varje år beslutar nämnderna om bedömt lokalbehov de 1. L okalbehov som inte är lagstyrd verk-
-kommande fem åren baserat på befolkningsprognoser och samhet och lokalbehov som utgörs av
-lokalprognoser. Dessa behov sammanställs av kommunens kvalitetshöjningar i befintliga lokaler
-lokalgrupp till en lokalbehovsplan som bearbetas vidare till har lägst prioritet.
-en lokalplan som ska vara möjlig att genomföra ekono- 2. L okalbehov på grund av ny exploatering
-miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del har medel prioritet.
-av kommunens flerårsbudget beslutas av kommunfullmäk- 3. L okalbehov som beror på struktur-
-tige.                                        omvandlingar och som ger minskade
-driftskostnader samt lokalbehov på
+
+Kommunfullmäktige har antagit följande lokalpolicy:
+Kommunen ska genom aktiv lokalförsörjning tillhandahålla
+och bibehålla ändamålsenliga och kostnadseffektiva lokaler över
+tiden.
+
+Varje år beslutar nämnderna om bedömt lokalbehov de
+kommande fem åren baserat på befolkningsprognoser och
+lokalprognoser. Dessa behov sammanställs av kommunens
+lokalgrupp till en lokalbehovsplan som bearbetas vidare till
+en lokalplan som ska vara möjlig att genomföra ekono-
+miskt, tidsmässigt och fysiskt. Lokalplanen som utgör del
+av kommunens flerårsbudget beslutas av kommunfullmäk-
+tige.
+
 Lokalförsörjningsprocessen
+För enhetlig och tydlig hantering av lokalbehoven ska
+samtliga lokalbehov handläggas enligt den så kallade
+lokalförsörjningsprocessen som inleds med en lokalplane-
+ringsprocessfas. Handläggningen av lokalbehov ska vara
+gemensam för kommunens samtliga förvaltningar och
+processen ska användas för behov som löses genom inves-
+teringar i egna lokaler och genom inhyrda lokaler. Genom-
+förandeprocessen hanterar de lokalprojekt som krävs för att
+omsätta behov till färdiga lokaler.
+
+Det övergripande målet med lokalförsörjningen är att
+uppnå en god ekonomisk hushållning med lokaler och
+service och därmed kunna frigöra resurser till kommu-
+nens kärnverksamheter. Det leder i förlängningen till ett
+effektivt lokalutnyttjande och lägre kostnader totalt sett för
+hela kommunen.
+
+Handläggningen av lokalbehoven behöver ske enligt ned-
+anstående principer:
+• Lokalbehov ska omhändertas enligt lokalförsörjnings-
+processens olika steg för effektiv hantering.
+• Lokalbehov ska prioriteras utifrån den så kallade
+Prioriteringsprincipen i fallande ordning:
+1\. L okalbehov som inte är lagstyrd verk-
+samhet och lokalbehov som utgörs av
+kvalitetshöjningar i befintliga lokaler
+har lägst prioritet.
+2\. L okalbehov på grund av ny exploatering
+har medel prioritet.
+3\. L okalbehov som beror på struktur-
+omvandlingar och som ger minskade
+driftskostnader samt lokalbehov på
 grund av volymutökningar inom befint-
-För enhetlig och tydlig hantering av lokalbehoven ska liga områden har högst prioritet.
-samtliga lokalbehov handläggas enligt den så kallade • Lokallösningar ska väljas utifrån lokaleffektivitet
-lokalförsörjningsprocessen som inleds med en lokalplane- enligt den så kallade Fyrstegsmodellen. Modellen
-ringsprocessfas. Handläggningen av lokalbehov ska vara innebär att lokallösningar ska övervägas och väljas
-gemensam för kommunens samtliga förvaltningar och enligt nedan angiven prioritetsordning:
-processen ska användas för behov som löses genom inves- 1. Inte tillgodose behovet alls
-teringar i egna lokaler och genom inhyrda lokaler. Genom- 2. Leda om ”strömmar” av elever, boende etc. till ledig
-förandeprocessen hanterar de lokalprojekt som krävs för att kapacitet i befintliga lokaler
-omsätta behov till färdiga lokaler. 3. Bygga om eller till befintliga lokaler
+liga områden har högst prioritet.
+• Lokallösningar ska väljas utifrån lokaleffektivitet
+enligt den så kallade Fyrstegsmodellen. Modellen
+innebär att lokallösningar ska övervägas och väljas
+enligt nedan angiven prioritetsordning:
+1\. Inte tillgodose behovet alls
+2\. Leda om ”strömmar” av elever, boende etc. till ledig
+kapacitet i befintliga lokaler
+3\. Bygga om eller till befintliga lokaler
 4\. Bygga nya lokaler
+
 Lokalplanering     Genomförande
 
 Behov   Insamling Förstudie Projektering Genomför- Avslut
-& utredning                ande
+& utredning               ande
 Behovsfas
 
 44 Kommunbudget 2022 och plan 2023–2024
 
 <!-- sida 60 -->
 
+• Lokallösningar ska föreslås och väljas utifrån att
+”Minska behovet av att bygga nytt genom att samut-
+nyttja och bygga mer flexibelt” vilket innebär att loka-
+ler eller lokaldelar så långt det är möjligt planeras för
+att kunna samnyttjas och användas för flera ändamål.
+• Investeringar i egenägda lokaler ska genomföras om
+verksamheten har ett långsiktigt lokalbehov.
+• Inhyrning ska prövas som ett alternativ till att äga
+fastigheter, och väljas om det råder osäkerhet om verk-
+samhetens framtida innehåll och/eller omfattning och
+med hänsyn till behovstid eller om investeringsmedel
+saknas för egna investeringar.
+• Arbetet med lokalförsörjning ska bedrivas genom ett
+tätt samarbete med berörda förvaltningar.
+
+Lokalbehov 2022–2026
+Nämnderna i Kungsbacka kommun har lämnat in bostads-
+och lokalbehov för perioden 2022–2026. Nämndernas
+beslutade behov uttrycks i volymmått, till exempel antal
+platser, antal elever eller antal förskolebarn. Behoven
+bearbetas och kostnadsbedöms utifrån nyckeltal framtagna
+av Service avseende både investeringsutgifter samt drifts-
+kostnader. Lokalplanen bereds utifrån ett planerings- och
+genomförandeperspektiv samt med utgångspunkt i ovan
+nämnda principer.
+
 INVESTERING OCH EXPLOATERING
 
 Nya hyror för lokalinvesteringar samt inhyrda boenden
-• Lokallösningar ska föreslås och väljas utifrån att budgeteras centralt och nämnden erhåller ram motsva-
-”Minska behovet av att bygga nytt genom att samut- rande 80 procent av hyran när lokalen är klar att tas i bruk.
-nyttja och bygga mer flexibelt” vilket innebär att loka- Resterande 20 procent finansieras inom respektive nämnds
-ler eller lokaldelar så långt det är möjligt planeras för ram. Ramtilldelning utgår inte för verksamhetsanpass-
-att kunna samnyttjas och användas för flera ändamål. ningar av lokaler.
-• Investeringar i egenägda lokaler ska genomföras om
-verksamheten har ett långsiktigt lokalbehov. Investeringsbudget och hyresmedel för lokaler och boen-
-• Inhyrning ska prövas som ett alternativ till att äga den tillhör kommunstyrelsen och kommunstyrelsen kan
-fastigheter, och väljas om det råder osäkerhet om verk- justera mellan olika lokalprojekt under året.
-samhetens framtida innehåll och/eller omfattning och
-med hänsyn till behovstid eller om investeringsmedel Projekt i lokalplanen får startas upp om de understiger 15
-saknas för egna investeringar.  miljoner i investeringsbelopp. För projekt som överstiger
-• Arbetet med lokalförsörjning ska bedrivas genom ett 15 miljoner kronor ska igångsättning beslutas av kommun-
-tätt samarbete med berörda förvaltningar. styrelsen.
+budgeteras centralt och nämnden erhåller ram motsva-
+rande 80 procent av hyran när lokalen är klar att tas i bruk.
+Resterande 20 procent finansieras inom respektive nämnds
+ram. Ramtilldelning utgår inte för verksamhetsanpass-
+ningar av lokaler.
 
-Lokalbehov 2022–2026
+Investeringsbudget och hyresmedel för lokaler och boen-
+den tillhör kommunstyrelsen och kommunstyrelsen kan
+justera mellan olika lokalprojekt under året.
+
+Projekt i lokalplanen får startas upp om de understiger 15
+miljoner i investeringsbelopp. För projekt som överstiger
+15 miljoner kronor ska igångsättning beslutas av kommun-
+styrelsen.
+
 I samband med kommunens investering i nya loka-
-Nämnderna i Kungsbacka kommun har lämnat in bostads- ler avsätts 1 procent av byggutgiften till konstnärlig
-och lokalbehov för perioden 2022–2026. Nämndernas utsmyckning. Nämnden för Kultur & Fritid får ansvaret
-beslutade behov uttrycks i volymmått, till exempel antal att upphandla och besluta om den konstnärliga utsmyck-
-platser, antal elever eller antal förskolebarn. Behoven ningen. Ett särskilt belopp avsätts som kan fördelas olika
-bearbetas och kostnadsbedöms utifrån nyckeltal framtagna mellan de lokaler som byggs. Det innebär att det inte alltid
-av Service avseende både investeringsutgifter samt drifts- blir 1 procent i konstnärlig utsmyckning per lokal utan
-kostnader. Lokalplanen bereds utifrån ett planerings- och det kan variera mellan olika lokaler men det blir alltid
-genomförandeperspektiv samt med utgångspunkt i ovan max 1 procent totalt per år. Gäller bara byggnaderna. Vid
-nämnda principer.                 investeringar i infrastruktur (gator och vägar mm) samt i
+ler avsätts 1 procent av byggutgiften till konstnärlig
+utsmyckning. Nämnden för Kultur & Fritid får ansvaret
+att upphandla och besluta om den konstnärliga utsmyck-
+ningen. Ett särskilt belopp avsätts som kan fördelas olika
+mellan de lokaler som byggs. Det innebär att det inte alltid
+blir 1 procent i konstnärlig utsmyckning per lokal utan
+det kan variera mellan olika lokaler men det blir alltid
+max 1 procent totalt per år. Gäller bara byggnaderna. Vid
+investeringar i infrastruktur (gator och vägar mm) samt i
 de fall kommunen hyr in lokal från extern fastighetsägare
 får ställning tas till konstnärlig utsmyckning i varje enskilt
 projekt.
@@ -2608,117 +2666,165 @@ för att fungera både som förskole- och skollokaler. Kommunens behov om utbygg
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 207 Fjärås Må förskola                         120
 224 b Liljan förskola avveckling -40
+
 226 Anneberg förskola                     120
 227 Kolla förskola                        160
-
 230 Björkris utbildningslokaler etapp 1 620
 231 Björkris utbildningslokaler etapp 2   180
 232 Trollelyckan förskola avveckling x
 233 Frillesås förskola           160
+
 234 Klockaregården förskola avveckling -160
 235 Åsa förskola etapp 1         120
-
-236 Åsa förskola etapp 2                   80
+236 Åsa förskola etapp 2                  80
 237 Åsa (Stora Loket) förskola avveckling -80
-238 Villa Emilia avveckling            x
+238 Villa Emilia avveckling           x
 239 Kvarteret Liljan förskola                  120
 324 Varlaskolan tillbyggnad 300
+
 329 Toråsskolan tillf. paviljong avveckling -100
 332 Björkris skola paviljong avveckling -100
-
 334 Frillesåsskolan paviljonger avveckling x
 335 Iserås skola                          200
-336 Åsa skola                                  500
+336 Åsa skola                                 500
 337 Åsa skola utbyggnad tillfällig lösning 150
-338 Kvarteret Liljan skola                     400
-339 Kvarteret Liljan idrottshall                x
 
+338 Kvarteret Liljan skola                    400
+339 Kvarteret Liljan idrottshall                x
 340 Klinnekärr förskola avveckling x
-341 Fjordskolan paviljong avveckling        x
+341 Fjordskolan paviljong avveckling       x
 128 Varlaskolan fullmått idrottshall x
 136 Björkris fullmått idrottshall x
 140 Iserås fullmått idrottshall                 x
-1202a Engelska skolan, skolpeng x x    x
-Summa utbildningsplatser 160 790   0  660 1 140
+
+1202a Engelska skolan, skolpeng x x   x
+Summa utbildningsplatser 160 790  0   660 1 140
 
 Noter
+
+207 Fjärås Må förskola
+Området är föremål för exploatering av nya bostäder. Nya
+förskolelokaler måste därför byggas.
+224 b Liljan förskola avveckling
+Förskola i centrala Kungsbacka måste ersättas på grund av
+att tillfälligt bygglov upphör.
+
 226 Anneberg förskola
 Området är föremål för exploatering av nya bostäder. Nya
-207 Fjärås Må förskola
 förskolelokaler måste därför byggas. Samordning sker med
-Området är föremål för exploatering av nya bostäder. Nya
 projekt 807 Anneberg vård- och omsorgsboende, projekt 414
-förskolelokaler måste därför byggas.
 Annebergs Bmss och projekt 1503 Datahall.
-224 b Liljan förskola avveckling
 227 Kolla förskola
-Förskola i centrala Kungsbacka måste ersättas på grund av
 Stort underskott av förskoleplatser i Kollaområdet ger behov
-att tillfälligt bygglov upphör.
 av förskola med 160 platser
+
 Kommunbudget 2022 och plan 2023–2024 47
 
 <!-- sida 63 -->
 
 INVESTERING OCH EXPLOATERING
 
-230 Björkris utbildningslokaler etapp 1 335 Iserås skola
-Området är föremål för exploatering av nytt bostadsområde. Delar av Iseråsskolan måste avvecklas då fastighetens har
-Nya utbildningsplatser måste därför byggas. Samordning nått sin tekniska livslängd och behöver ersättas med nya
-med projekt 136 Björkris fullmåtts idrottshall. lokaler. Samordning sker med projekt 140 Iserås fullmåtts
-idrottshall.
+230 Björkris utbildningslokaler etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 136 Björkris fullmåtts idrottshall.
 231 Björkris utbildningslokaler etapp 2
-Området är föremål för exploatering av nytt bostadsområde. 336 Åsa skola
-Nya utbildningsplatser måste därför byggas. Samordning Området är föremål för exploatering av nya bostadsområden.
-med projekt 230 utbildningslokal etapp 1. Nya utbildningsplatser måste därför byggas.
-232 Trollelyckan förskola avveckling 337 Åsa skola utbyggnad tillfällig lösning
-Förskola i Frillesås avvecklas på grund av ej ändamålsenliga Behov av ökade antal utbildningsplatser innan projekt 336
-lokaler samt att den tekniska livslängden har nått sitt slut. Åsa skola står klar. Utredning pågår.
-233 Frillesås förskola            338 Kvarteret Liljan skola
-Ny förskola byggs för att ersätta Klockaregårdens paviljong- Området är föremål för exploatering av nya bostadsområ-
-förskola.                         den. Nya utbildningsplatser måste därför byggas. Samordnas
-med projekt 339 Kvarteret liljan idrottshall och projekt 239
-234 Klockaregården förskola avveckling kvarteret Liljan förskola.
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
+med projekt 230 utbildningslokal etapp 1.
+
+232 Trollelyckan förskola avveckling
+Förskola i Frillesås avvecklas på grund av ej ändamålsenliga
+lokaler samt att den tekniska livslängden har nått sitt slut.
+233 Frillesås förskola
+Ny förskola byggs för att ersätta Klockaregårdens paviljong-
+förskola.
+234 Klockaregården förskola avveckling
 Paviljong avvecklas när ny förskola projekt 233 i Frillesås
-står färdig.                      339 Kvarteret Liljan idrottshall
-Området är föremål för exploatering av nya bostadsområden.
-235 Åsa förskola etapp 1          Nya utbildningsplatser måste därför byggas. Samordnas med
-Området är föremål för exploatering av nytt bostadsområde. projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
-Nya utbildningsplatser måste därför byggas. Liljan förskola.
-236 Åsa förskola etapp 2          340 Klinnekärr förskola avveckling
-Området är föremål för exploatering av nytt bostadsområde. Paviljong måste avvecklas på grund av att tillfälligt bygglov
-Nya utbildningsplatser måste därför byggas. Samordning upphör.
+står färdig.
+
+235 Åsa förskola etapp 1
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas.
+236 Åsa förskola etapp 2
+Området är föremål för exploatering av nytt bostadsområde.
+Nya utbildningsplatser måste därför byggas. Samordning
 projekt 237 Åsa förskola avveckling.
-341 Fjordskolans paviljong avvecklas
-237 Åsa (Stora Loket) förskola avveckling Paviljong måste avvecklas på grund av att behovet flyttas till
-Paviljong avvecklas när ny förskola i Åsa står färdig projekt 335 Iseråsskolan.
-238 Villa Emilia avveckling       128 Varlaskolan fullmått idrottshall
-Avveckling av paviljong då inget behov finns och att hyresav- Varlaskolans idrottshall behöver ersättas med en ny full-
-talet löper ut.                   måttshall som tillgodoser skolverksamhetens och förenings-
-livets behov. Samordning sker med projekt 324 Varlaskolans
-239 Kvarteret Liljan förskola     tillbyggnad. Projektet startades 2019.
+237 Åsa (Stora Loket) förskola avveckling
+Paviljong avvecklas när ny förskola i Åsa står färdig
+
+238 Villa Emilia avveckling
+Avveckling av paviljong då inget behov finns och att hyresav-
+talet löper ut.
+239 Kvarteret Liljan förskola
 Området är föremål för exploatering av nya bostadsområden.
-Nya utbildningsplatser måste därför byggas. Samordnas med 136 Björkris fullmått idrottshall
-projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan I samband med en ny skola planeras ny fullmåtts idrotts-
-idrottshall.                      hall som tillgodoser skolverksamhetens och föreningslivets
-behov. Samordning sker med projekt 331 Björkris etapp 1.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 338 Kv Liljan skola och projekt 339 Kvarteret Liljan
+idrottshall.
 324 Varlaskolan tillbyggnad
-Om­ och tillbyggnation av skola för att ersätta befintliga 140 Iserås fullmått idrottshall
-specialsalar som nått sin tekniska livslängd och ta hand I samband med en ny skola planeras ny fullmåtts idrotts-
-om ökat elevantal inom de centrala delarna av Kungsbacka. hall som tillgodoser skolverksamhetens och föreningslivets
-Samordning sker med projekt 128 Varlaskolan fullmåtts behov. Samordning sker med projekt 335 Iserås skola.
+Om­ och tillbyggnation av skola för att ersätta befintliga
+specialsalar som nått sin tekniska livslängd och ta hand
+om ökat elevantal inom de centrala delarna av Kungsbacka.
+Samordning sker med projekt 128 Varlaskolan fullmåtts
 idrottshall. Projektet startades 2019.
-1202 a Engelska skolan skolpeng
-329 Toråsskolan tillfällig paviljong avvecklas Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
-Paviljong avvecklas på grund av att tillfälligt bygglov upphör. skola till Engelska skolan enligt tilldelningsmodell för privata
-utförare inom skolverksamheten och fritidshemsverksam-
-332 Björkris skola paviljong avveckling heten.
+329 Toråsskolan tillfällig paviljong avvecklas
+Paviljong avvecklas på grund av att tillfälligt bygglov upphör.
+
+332 Björkris skola paviljong avveckling
 I samband med ny skola projekt 230 Björkris etapp 1 avveck-
 las paviljong i Björkris 1.
 334 Frillesåsskolan paviljonger avveckling
 När ny skolbyggnad i Frillesås står färdig så avvecklas 4
 stycken paviljonger då hyresavtal upphör.
 48 Kommunbudget 2022 och plan 2023–2024
+
+335 Iserås skola
+Delar av Iseråsskolan måste avvecklas då fastighetens har
+nått sin tekniska livslängd och behöver ersättas med nya
+lokaler. Samordning sker med projekt 140 Iserås fullmåtts
+idrottshall.
+336 Åsa skola
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas.
+337 Åsa skola utbyggnad tillfällig lösning
+Behov av ökade antal utbildningsplatser innan projekt 336
+Åsa skola står klar. Utredning pågår.
+
+338 Kvarteret Liljan skola
+Området är föremål för exploatering av nya bostadsområ-
+den. Nya utbildningsplatser måste därför byggas. Samordnas
+med projekt 339 Kvarteret liljan idrottshall och projekt 239
+kvarteret Liljan förskola.
+339 Kvarteret Liljan idrottshall
+Området är föremål för exploatering av nya bostadsområden.
+Nya utbildningsplatser måste därför byggas. Samordnas med
+projekt 336 Kvarteret liljan skola och projekt 239 kvarteret
+Liljan förskola.
+340 Klinnekärr förskola avveckling
+Paviljong måste avvecklas på grund av att tillfälligt bygglov
+upphör.
+341 Fjordskolans paviljong avvecklas
+Paviljong måste avvecklas på grund av att behovet flyttas till
+projekt 335 Iseråsskolan.
+
+128 Varlaskolan fullmått idrottshall
+Varlaskolans idrottshall behöver ersättas med en ny full-
+måttshall som tillgodoser skolverksamhetens och förenings-
+livets behov. Samordning sker med projekt 324 Varlaskolans
+tillbyggnad. Projektet startades 2019.
+136 Björkris fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 331 Björkris etapp 1.
+140 Iserås fullmått idrottshall
+I samband med en ny skola planeras ny fullmåtts idrotts-
+hall som tillgodoser skolverksamhetens och föreningslivets
+behov. Samordning sker med projekt 335 Iserås skola.
+1202 a Engelska skolan skolpeng
+Lokalpeng/elevpeng vilken fördelas från Förskola & Grund-
+skola till Engelska skolan enligt tilldelningsmodell för privata
+utförare inom skolverksamheten och fritidshemsverksam-
+heten.
 
 <!-- sida 64 -->
 
@@ -2738,40 +2844,50 @@ Utformning av boende med särskild service kan vara att man bygger 12 stycken bo
 stycken gruppbostad och 6 stycken som servicebostad eller att alla 12 nyttjas som servicebostad.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-413 Bmss barn                               4
-414 Bmss Anneberg                          12
-502 Bmss Söderstaden              10
 
+413 Bmss barn                              4
+414 Bmss Anneberg                          12
+502 Bmss Söderstaden             10
 504 Bmss Björkris                     10
 505 Bostäder SBF och referensboende 10 10 10 10 10
-507 Bmss                          12
-508 a Bmss                             12
-508 b Bmss                             12
-508 c Bmss                             8
-508 d Bmss                                  2
+507 Bmss                         12
+508 a Bmss                            12
 
+508 b Bmss                            12
+508 c Bmss                            8
+508 d Bmss                                 2
 508 e Bmss                                 12
-508 f Bmss                                  6
-508 g Bmss                                      12
+508 f Bmss                                 6
+508 g Bmss                                     12
 508 h Bmss                                      6
-508 i Bmss                                      2
-508 j Bmss                 (12-)16
-510 Ordinärt boende           2   2    2    2   2
 
+508 i Bmss                                      2
+508 j Bmss                (12-)16
+510 Ordinärt boende          2    2   2    2    2
 Summa boendeplatser och lägenheter 28 34 54 48 32
 
 Noter
 
-413 Bmss barn                     504 Bmss Björkris
-Gruppbostad för barn, 4 platser.  Servicebostäder med gemensam lokal för personalstöd
-414 Bmss Anneberg                 505 Bostäder SBF och referensboende
-Behov av gruppbostäder planeras in i kommande nya Särskild bostadsförsörjningskö är avsedd för personer som
-område. Samordnas med projekt 1503 Datahall, projekt 807 inte själv kan skaffa en bostad på grund av starka sociala
-vård- och omsorgsboende Anneberg och projekt 226 Anne- och/eller medicinska skäl. Referensboende hyrs ut till kom-
-berg förskola.                    muninvånare som har starkt behov av en bostad och inte på
-egen hand har förmåga att lösa sin situation.
+413 Bmss barn
+Gruppbostad för barn, 4 platser.
+
+414 Bmss Anneberg
+Behov av gruppbostäder planeras in i kommande nya
+område. Samordnas med projekt 1503 Datahall, projekt 807
+vård- och omsorgsboende Anneberg och projekt 226 Anne-
+berg förskola.
 502 Bmss Söderstaden
 Servicebostäder med gemensam lokal för personalstöd.
+
+504 Bmss Björkris
+Servicebostäder med gemensam lokal för personalstöd
+
+505 Bostäder SBF och referensboende
+Särskild bostadsförsörjningskö är avsedd för personer som
+inte själv kan skaffa en bostad på grund av starka sociala
+och/eller medicinska skäl. Referensboende hyrs ut till kom-
+muninvånare som har starkt behov av en bostad och inte på
+egen hand har förmåga att lösa sin situation.
 
 Kommunbudget 2022 och plan 2023–2024 49
 
@@ -2827,43 +2943,51 @@ Kommunens behov av nya vård- och omsorgsboende uttrycks nedan i form av antal p
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
 803 Björkris vård- och omsorgsboende 120
-805 Ekhaga vård- och omsorgsboende -26     40
 
-807 Anneberg vård- och omsorgsboende       80
-808 Bukärrsgården avveckling                x
+805 Ekhaga vård- och omsorgsboende -26    40
+807 Anneberg vård- och omsorgsboende      80
+808 Bukärrsgården avveckling               x
 809 Hemtjänstlokal Hede flytt x
-810 Pölagården avveckling     x
-Summa boendeplatser     120  -26   0  120
+810 Pölagården avveckling    x
+Summa boendeplatser     120 -26   0   120
 
 Noter
 
-803 Björkris vård- och omsorgsboende 808 Bukärrsgården avveckling
-Planering av nytt vård­ och omsorgsboende med 120 lägen- Planeras att avyttras när hyrestiden upphör.
+803 Björkris vård- och omsorgsboende
+Planering av nytt vård­ och omsorgsboende med 120 lägen-
 heter i kommunen. Planeras för en hemtjänstlokal i boendet,
-projekt 809.                      809 Hemtjänstlokal Hede flytt
-Planeras att samordnas med projekt 803 Björkris vård­ och
-805 Ekhaga vård- och omsorgsboende omsorgsboende.
+projekt 809.
+805 Ekhaga vård- och omsorgsboende
 Modernisering befintligt eller nybyggnad av boendet. Avveck-
-ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe- 810 Pölagården avveckling
-ter.                              Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
-till förmån för Åsa HVB.
+ling av 26 lägenheter samt nybyggnation av 40 nya lägenhe-
+ter.
 807 Anneberg vård- och omsorgsboende
 Planering av nytt vård­ och omsorgsboende med 80 lägenhe-
 ter i kommunen. Samordnas med projekt 1503 Datahall, pro-
 jekt 414 BMSS Anneberg och projekt 226 Anneberg förskola.
 
+808 Bukärrsgården avveckling
+Planeras att avyttras när hyrestiden upphör.
+
+809 Hemtjänstlokal Hede flytt
+Planeras att samordnas med projekt 803 Björkris vård­ och
+omsorgsboende.
+810 Pölagården avveckling
+Hemtjänsten ska flytta och lämna lokaldelen på Pölagården
+till förmån för Åsa HVB.
+
 Service
 Lokalbehoven omfattar Service Måltid, Service Fastigheter och Service IT.
 
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-1407 Kullaviksskolan ombyggnad kök och      x
+1407 Kullaviksskolan ombyggnad kök och     x
 matsal
 1500 Kapareskolans ombyggnad kök x
 1501 Fjordskolan mottagningskök x
-
-1502 Iseråsskolan mottagningskök            x
-1503 Datahall                               x
+1502 Iseråsskolan mottagningskök           x
+1503 Datahall                              x
 1504 Toalettbyggnad Åsa camping x
+
 1505 Toalettbyggnad Gårda brygga badplats x
 
 Kommunbudget 2022 och plan 2023–2024 51
@@ -2873,40 +2997,48 @@ Kommunbudget 2022 och plan 2023–2024 51
 INVESTERING OCH EXPLOATERING
 
 Noter
-1503 Datahall
+
 1407 Kullaviksskolan ombyggnad kök och matsal
-Datahall/Serverrum och lagring för flertalet av kommunens
 Behov av att bygga om Kullaviksskolans mottagningskök och
-verksamhetssystem.
 matsal för att en förbättrad kvalitet utifrån nuvarande nivå,
 samt för en förbättrad arbetsmiljö.
-1504 Toalettbyggnad Åsa camping
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 1500 Kapareskolan ombyggnad kök
-ver ersättas.
 Den totala produktionen behöver utöka produktionskapa-
 citeten på Kapareskolans tillagningskök. Samordnas med
-1505 Toalettbyggnad Gårda brygga badplats
 projekt 1501 Fjordskolan mottagningskök och projekt 1502
-Befintlig byggnad har passerat sitt tekniska slutår och behö-
 Iseråsskolans mottagningskök.
-ver ersättas.
 1501 Fjordskolan mottagningskök
 Nytt mottagningskök och avveckla av tre befintliga mottag-
 ningskök på skolan. Samordnas med projekt 1500 Kaparesko-
 lans ombyggnad.
+
 1502 Iseråsskolan mottagningskök
 Nytt mottagningskök och avveckla befintligt kök som
 uppnått tekniskt slutdatum. Samordnas med projekt 335
 Iseråsskolan
+
+1503 Datahall
+Datahall/Serverrum och lagring för flertalet av kommunens
+verksamhetssystem.
+1504 Toalettbyggnad Åsa camping
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
+1505 Toalettbyggnad Gårda brygga badplats
+Befintlig byggnad har passerat sitt tekniska slutår och behö-
+ver ersättas.
+
 Lokaltyp och beskrivning 2022 2023 2024 2025 2026
-131 Arena inkl skyddsrum              x
+131 Arena inkl skyddsrum               x
 1202 Tillfälliga lösningar eller oförutsedda x x x x x
 händelser
 1406 Duveheds omlastningsstation x
 1408 Skyddsrum Kvarteret Liljan                 x
-1410 Engångskostnader        x    x   x    x    x
+
+1410 Engångskostnader        x    x    x    x   x
+
 Noter
+
 131 Arena inklusive skyddsrum     1408 Skyddsrum Kvarteret Liljan
 Arenahall med placering söder om Kungsbacka Sportcenter. Exploateringen av kvarteret gör att befintligt skyddsrum
 måste ersättas.

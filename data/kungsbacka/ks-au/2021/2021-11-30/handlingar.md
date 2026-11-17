@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320070818id_/https://www.kungsbacka.
 sha256: d6ca57648b2ba50bec310371195a4135505e9d1d34be306d2e111ba5a934297f
 bytes: 117503024
 sidor: 445
-hamtad: 2026-10-28T09:01:47+00:00
-konverterad: 2026-10-28T09:05:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:37:45+00:00
+konverterad: 2026-11-17T12:40:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -370,7 +370,6 @@ Justerare                        Expedierat/bestyrkt
 
 <!-- sida 12 -->
 
-KUNGS: / ORKA KOMMUN |
 KOMMUNSTYRELSEN
 
 2071 -11- 03
@@ -1455,10 +1454,6 @@ Sf, JK
 
 Justerare = Utdragsbestyrkande
 
-I
-
-I 3
-
 id Fd
 
 dl
@@ -1526,7 +1521,6 @@ Handläggare: Jill Karipidou
 Till kommunstyrelsen
 
 KUNG:
-KOM
 
 Revidering av dokumenthanteringsplan och arkivbeskrivning för kommunstyrelsen
 
@@ -7565,53 +7559,105 @@ Underlag      till planansökan
 
 <!-- sida 378 -->
 
-Valla          4:78
-
 Bakgrund
+Jordbruksverket och Länsstyrelsen
+lämnade 2019-05-21 positivt besked
 
-NN
-
-Bakgrund                                                         Syfte
-Jordbruksverket och Länsstyrelsen som kan bedömas som lucktomt och som I väntan på att kommunen skulle tilldela
-
-lämnade 2019-05-21 positivt besked ligger till grund för en bygglovsansökan ärendet en handläggare för bedömning
-till ansökan om att förvärva fastigheten som lämnades in till kommunen sommaren av förhandsbeskeden kontaktar
-Vallda 4:78. Avsikten med förvärvet var 2020.                    fastighetsägaren Liljewall arkitekter.
+till ansökan om att förvärva fastigheten
+Vallda 4:78. Avsikten med förvärvet var
 exploatering för bostadsändamål samt
+att skapa goda rekreationsmöjligheter för
 
-att skapa goda rekreationsmöjligheter för Juni 2020 får fastighetsägaren besked Liljewalls uppdrag är att ta fram underlag
-de som bor i området. Jordbruksverket att bygglovsansökan måste kompletteras till ansökan om planbesked för övriga
-hänvisar till Kungsbackas översiktsplan eller förtydligas och att en väg är att lämna markområden inom stamfastigheten
-där fastigheten ligger inom ett utpekat in ansökan om förhandsbesked istället Vallda 4:78. I uppdraget ingår en analys
-utvecklingsområde för Vallda tätort. samt att ansökan bör delas upp i två delar av platsens förutsättningar, kommunens
+de som bor i området. Jordbruksverket
+hänvisar till Kungsbackas översiktsplan
+där fastigheten ligger inom ett utpekat
+utvecklingsområde för Vallda tätort.
 
-Jordbruksverket bedömer därför att med två tomter per ansökan, 2 tomter vid riktlinjer och bedöma möjligheten till att få
-egendomen är avsedd för annat ändamål ”Knallen” och 2 tomter vid ”gården”. ett positivt planbesked.
-än jord- och skogsbruk och lämnar tillstånd VA- enheten på Kungsbacka kommun
-till förvärvet.                 meddelar i september 2020 att de norra Denna handling fokuserar på området
-tomterna på förhandsbesked “Knallen” som vi kallar Vallda Knallen i fastighetens
+Jordbruksverket bedömer därför att
+egendomen är avsedd för annat ändamål
+än jord- och skogsbruk och lämnar tillstånd
+till förvärvet.
 
-Med detta beslut som grund köper Vallda kan införlivas i verksamhetsområdet med norra del. I området ingår de 2 tomterna
-bostäder AB hela fastigheten Vallda 4:78 närliggande ledningar för både vatten, vid “Knallen” som tidigare fått negativt
-och påbörjar då sina kontakter med spillvatten och dagvatten. De två tomter på förhandssbesked.                                   Fastigheten Vallda 4:78, Karta: hitta.se
+Med detta beslut som grund köper Vallda
+bostäder AB hela fastigheten Vallda 4:78
+och påbörjar då sina kontakter med
+Lantmäteriet och Kungsbacka kommun för
 
-Lantmäteriet och Kungsbacka kommun för förhandsbeskedet “Gården” kan anslutas
-att få stöd i den fortsatta handläggningen. via avtal till ledningarna på Bratåsvägen.
-Våren 2020 kontaktar Vallda bostäder Där fi nns vatten och spillvatten.
-AB kommunen för att få vägledning i Ärendet bedöms därefter av kommunen
-hur fastigheten och dess olika delar vara komplett med alla handlingar som
+att få stöd i den fortsatta handläggningen.
+Våren 2020 kontaktar Vallda bostäder
+AB kommunen för att få vägledning i
+hur fastigheten och dess olika delar
 
-kan exploateras. Rekommendationen behövs för att ta ett beslut.
+kan exploateras. Rekommendationen
 som ges då av samhällsbyggnadschefen
 är att samlad bebyggelse ska föregås
 av en planansökan men att enskilda
-
 tomter, lucktomter, kan prövas med
+
 förhandsbesked eller bygglov och hänvisar
 till bygglovsavdelningen. Fastighetsägaren
 har identifi erat 4 tomter inom fastigheten
 
 2  BAKGRUND
+
+som kan bedömas som lucktomt och som
+ligger till grund för en bygglovsansökan
+som lämnades in till kommunen sommaren
+
+2020\.
+
+Juni 2020 får fastighetsägaren besked
+att bygglovsansökan måste kompletteras
+
+eller förtydligas och att en väg är att lämna
+in ansökan om förhandsbesked istället
+samt att ansökan bör delas upp i två delar
+med två tomter per ansökan, 2 tomter vid
+
+”Knallen” och 2 tomter vid ”gården”.
+VA- enheten på Kungsbacka kommun
+meddelar i september 2020 att de norra
+tomterna på förhandsbesked “Knallen”
+kan införlivas i verksamhetsområdet med
+
+närliggande ledningar för både vatten,
+spillvatten och dagvatten. De två tomter på
+förhandsbeskedet “Gården” kan anslutas
+via avtal till ledningarna på Bratåsvägen.
+
+Där fi nns vatten och spillvatten.
+Ärendet bedöms därefter av kommunen
+vara komplett med alla handlingar som
+behövs för att ta ett beslut.
+
+Valla           4:78
+
+Bakgrund
+
+NN
+
+Syfte
+
+I väntan på att kommunen skulle tilldela
+ärendet en handläggare för bedömning
+av förhandsbeskeden kontaktar
+fastighetsägaren Liljewall arkitekter.
+
+Liljewalls uppdrag är att ta fram underlag
+till ansökan om planbesked för övriga
+markområden inom stamfastigheten
+Vallda 4:78. I uppdraget ingår en analys
+
+av platsens förutsättningar, kommunens
+riktlinjer och bedöma möjligheten till att få
+ett positivt planbesked.
+
+Denna handling fokuserar på området
+som vi kallar Vallda Knallen i fastighetens
+norra del. I området ingår de 2 tomterna
+vid “Knallen” som tidigare fått negativt
+
+förhandssbesked.                                                Fastigheten Vallda 4:78, Karta: hitta.se
 
 <!-- sida 379 -->
 
@@ -7631,7 +7677,7 @@ Karta: Lantmäteriet.se
 
 <!-- sida 380 -->
 
-Kungsbacka                         kommun
+Kungsbacka                          kommun
 
 Strategi    och   planering
 
@@ -7639,36 +7685,59 @@ Strategi    och   planering
 
 Den  stora infl yttningen till Kungsbacka   är barnfamiljer   från övriga
 
-delar av  Göteborgsregionen.    Denna   grupp  efterfrågar  småhus   och större
+delar av Göteborgsregionen.     Denna   grupp  efterfrågar småhus    och större
 
-lägenheter  med   god tillgång till barnomsorg   och  skola i närområdet.
+lägenheter  med  god  tillgång till barnomsorg   och  skola i närområdet.
 
-Detta  innebär  att det behöver  byggas   småhus   i olika former  från
+Detta innebär   att det behöver  byggas  småhus    i olika former från
 
 radhus,  grupphus   till villatomter.
 
-Förutsättningar                 Förslag till ny ÖP 2021          Bostadsförsörjningsprogram
-Området för den tänkta exploateringen Enligt granskningshandlingen “Vårt Kommunens målsättning för
-ligger inom Vallda och är i dag inte detalj- framtida Kungsbacka” ligger området inom bostadsbyggandet omfattar planering
-planelagt. Området är cirka 22 700 m2 utvecklingsområdet Vallda - yttre del med för 500 bostäder per år under
+Förutsättningar
+Området för den tänkta exploateringen
+ligger inom Vallda och är i dag inte detalj-
 
-stort och ligger norr om Dyrestamsvägen, följande beskrivning:   perioden 2019– 2023. I aktuellt
-inom bostadsområdet Högaryd.    De yttre delarna av utvecklingsorterna bostadsförsörjningsprogram återfi nns
-domineras ofta av villabebyggelse. endast ett utpekat nybyggnadsprojekt
-ÖP 2006                         På några ställen kan villabebyggelsen i Vallda: Vallda Backa 1:6 med 120
+planelagt. Området är cirka 22 700 m2
+stort och ligger norr om Dyrestamsvägen,
+inom bostadsområdet Högaryd.
 
-Enligt kommunens översiktsplan, kompletteras.                    bostäder.
+ÖP 2006
+Enligt kommunens översiktsplan,
 ÖP06, ingår det aktuella området i
 utvecklingsområdet för Vallda. Inriktningen
+
 för utvecklingsområdet är att komplettera
 området med bostäder, arbetsplatser,
-
 service och rekreationsområden.
 Fastigheten ligger utanför den del som
 pekats ut som utredningsområde för
-grönplan men inom den del som beskrivs
 
+grönplan men inom den del som beskrivs
 omfattas av riksintresse/natura 2000.
+
+Förslag till ny ÖP 2021
+Enligt granskningshandlingen “Vårt
+framtida Kungsbacka” ligger området inom
+
+utvecklingsområdet Vallda - yttre del med
+följande beskrivning:
+De yttre delarna av utvecklingsorterna
+domineras ofta av villabebyggelse.
+
+På några ställen kan villabebyggelsen
+kompletteras.
+
+Bostadsförsörjningsprogram
+Kommunens målsättning för
+bostadsbyggandet omfattar planering
+
+för 500 bostäder per år under
+perioden 2019– 2023. I aktuellt
+bostadsförsörjningsprogram återfi nns
+endast ett utpekat nybyggnadsprojekt
+
+i Vallda: Vallda Backa 1:6 med 120
+bostäder.
 
 4  FÖRUTSÄTTNINGAR
 
@@ -7682,28 +7751,38 @@ Gollf
 Mot Kungsbacka
 NN
 
-Vallldaaaa trreeekkkaaanntt
 Fraammttiiidaaaabbbyyygggggnaaatiiioonnnn
 Mot Vallda Sandö naturreservat,
 bad och Sandö hamn
 Lerkil
-Lägeee
+
 MöjjjligggGCCC-kkkkkoopppppllingggg
+
+VaaalllllddaaaKKKKKnnnnaaaallleeeennnn
+
+Elljjjusssssspppååååårr       Gåångggg- ooooccchhh
+cykkkeelllväääägggg
+
+Iddddddrrroottttttttssshhhaaaaaallllll
+
+Vallldaaaa trreeekkkaaanntt
+
+Lägeee
 Vallda Knallen ligger cirka 5,5 kilometer
 från Kungsbacka tätort, söder om
-VaaalllllddaaaKKKKKnnnnaaaallleeeennnn
 Sandövägen som går mellan Vallda
+
 Trekant och Lerkil.
 
 Området ligger i nära anslutning till övrig
 bebyggelse med god tillgänglighet till
-Elljjjusssssspppååååårr       Gåångggg- ooooccchhh
 kringliggande områden, rekreation och
-cykkkeelllväääägggg
+
 offentlig service.
 Vallldaaaakkyyyyrkkkkaaa
 Längs Sandövägen går kollektivtrafi k och
 gång- och cykelväg. Det fi nns även en
+
 gång- och cykelväg genom skogspartiet
 mellan bostadsområdet Högaryd
 och Torsåsskolan. Den föreslagna
@@ -7711,13 +7790,13 @@ exploateringen gör det möjligt att
 GGGGooooolfbbbbannnaa
 förlänga gång- och cykeltrafi ken norrut
 till befi ntlig och framtida bebyggelse invid
-Iddddddrrroottttttttssshhhaaaaaallllll                                   Sandövägen. Denna GC-koppling skulle
+Sandövägen. Denna GC-koppling skulle
 bidra till en mer trafi ksäker skolväg för
 boende i området.
 
 MMMMMMMMMMMMMaaaaaataaaaffffffäääääärrrrrrrrr
 
-Vallda Knallen                Skola/förskola                Busshållplats
+Vallda Knallen                 Skola/förskola                Busshållplats
 
 5  FÖRUTSÄTTNINGAR
 
@@ -7806,37 +7885,59 @@ Dyrestensvägen
 +36                             Skala 1:100
 
 AAAAAAAAAAAA
-Anpassning
-+50
-• Ny bebyggelse anpassas till
-landskapets topografi .
+
 BBBBBBBBBBBBB
+
+BBBBBBBBBBBBBBBB
+
+AAAAAAAAAAAAAA
+
+Landskkkapsbbiild
+Landskapet i Vallda är som helhet öppet med åkrar och hagmarks-
+partier. Bebyggelsen består av äldre jordbruksfastigheter,
+
+nybyggda småhus och små fritidshus.Exploateringsområdet
+består huvudsakligen av naturmark. Sluttningarna ner mot
+Dyrenstensvägen är klädda i en tät vegetation. I områdets övre del
+har skogen nyligen avverkats.
+
++50
+
++60
++45
+
++35
+
+Höjdföörrhållaanndenn
+Markhöjderna varierar kraftigt inom området. Där bebyggelse
+
+planeras mot Dyrestensvägen varierar markhöjderna mellan ca 40
+-50 m över havet. I områdets nordvästra del fi nns ett fl ackare parti
+där marknivån är ca 60 m över havet. Mellan områdets övre och
+lägre del fi nns en markant höjdrygg. Från området lutar marken
+söderut mot Brf Vallda och norrut mot Sandövägen.
+
+Anpassning
+
+• Ny bebyggelse anpassas till
+
+landskapets topografi .
 • Bebyggelse består av fl era mindre
 enheter som fördelas på områdets
-+60
 övre och lägre del.
-+45
+
 • Vegetationen på sluttningarna
-BBBBBBBBBBBBBBBB
 bevaras i så stor utsträckning som
 möjligt.
-AAAAAAAAAAAAAA                                                                               • Bebyggelsens höjd regleras så att
+• Bebyggelsens höjd regleras så att
+
 den underordnar sig vegetationen i
-+35
 området.
 • Områdets historia ska fortsatt vara
 avläsbar
-Landskkkapsbbiild                                       Höjdföörrhållaanndenn
+
 Förslaget bedöms inte påverka
-Landskapet i Vallda är som helhet öppet med åkrar och hagmarks- Markhöjderna varierar kraftigt inom området. Där bebyggelse
 landskapsbilden påtagligt negativt
-partier. Bebyggelsen består av äldre jordbruksfastigheter, planeras mot Dyrestensvägen varierar markhöjderna mellan ca 40
-nybyggda småhus och små fritidshus.Exploateringsområdet -50 m över havet. I områdets nordvästra del fi nns ett fl ackare parti
-består huvudsakligen av naturmark. Sluttningarna ner mot där marknivån är ca 60 m över havet. Mellan områdets övre och
-Dyrenstensvägen är klädda i en tät vegetation. I områdets övre del
-lägre del fi nns en markant höjdrygg. Från området lutar marken
-har skogen nyligen avverkats.
-söderut mot Brf Vallda och norrut mot Sandövägen.
 
 8  FÖRUTSÄTTNINGAR
 
@@ -7846,39 +7947,121 @@ Förslaget
 
 N
 
-Området avgränsas av befi ntlig bebyggelse, skogsparti och vägar. Området är högt beläget och omfattas inte av särskilda skydd för Gällande detaljplaner
-utpekade fornminnen eller risk för höga fl öden                Karta: Kungsbackakartan
+Området avgränsas av befi ntlig bebyggelse, skogsparti och vägar. Området är högt beläget och omfattas inte av särskilda skydd för
+utpekade fornminnen eller risk för höga fl öden
 Karta: Skogsstyrelsen
+
 Beskrivning
 
-Mellan Dyrestensvägen och Högarydsvägen före- bebyggelse utmed höjdkurvorna för att minska inom området. Mellan den övre parkeringen och både utbyggd gc-väg. Infarten från Sandövägen
-slås ett nytt bostadsområde med 36 lägenheter och behov av markåtgärder. Samtliga bostadshus Högarydsvägen i norr anordnas ytterligare en till Dyrestensvägen samt utbyggt kommunalt
+Mellan Dyrestensvägen och Högarydsvägen före-
+slås ett nytt bostadsområde med 36 lägenheter och
+12 radhus. Merparten av byggnaderna placeras i
+områdets övre del, “Knallen”. Mot nordväst föreslås
 
-12 radhus. Merparten av byggnaderna placeras i uppförs med två våningar för att underordna sig anslutning som reserveras för räddningsfordon och vatten och avlopp bedöms ha god kapacitet för
-områdets övre del, “Knallen”. Mot nordväst föreslås vegetationen i området. Runt om byggnaderna gc-trafi k.         tillkommande bostäder. Bebyggelsen placeras cirka
-radhus och fl erbostadshus som följer strukturen fi nns möjlighet att skapa utemiljöer för lek och                  150 meter från Sandövägen som är en källa till
-för angränsade villabebyggelse. Vid parkeringen rekreation. Mellan områdets övre och lägre del Förslaget bedöms bidra till en god helhetsverkan vägtrafi kbuller. Avståndet bedöms vara tillräckligt
+radhus och fl erbostadshus som följer strukturen
+för angränsade villabebyggelse. Vid parkeringen
+och utmed bostadsgatan föreslås ytterligare
+fyra fl erbostadshus som får en friare placering i
 
-och utmed bostadsgatan föreslås ytterligare kan gångstigar och trappor anläggas för att öka då de fyller en lucka i befi ntlig bebyggelse för att ny bebyggelse ska klara riktvärden för buller
-fyra fl erbostadshus som får en friare placering i tillgängligheten inom området. och knyter samman Boklokområdet söder om i fasad.
-anpassning till områdets topografi .                                         Dyrenstensvägen med villabebyggelsen och
-Angöring till området sker från Dyrenstensvägen. framtida byggnation norr om exploateringsområdet. Området är inte tidigare ianspråktaget för bostads-
-I exploateringsområdets nedre del föreslås två Boende uppe på knallen är hänvisade till Den planerade bostadsgatan kommer bidra till ändamål och marken utgörs av skogsmark utan
+anpassning till områdets topografi .
 
-fl erbostadshus i anslutning till Dyrenstensvägen. den östra infarten för att på så sätt begränsa ökad tillgänglighet då den möjliggör gc-trafi k mellan utpekade naturvärden. Området utgörs inte av
-Byggnadsvolymerna är placerade som en naturlig antalet trafi krörelser vid bostäderna utmed Högarydsvägen och Dyrestensvägen, och vidare brukningsvärd jordbruksmark eller skogsmark
-fortsättning på den höjdrygg som fi nns i området Dyrestensvägen. Den planerade bostadsgatan söderut mot skola, affär och idrottsanläggningar. som har betydelse för skogsnäringen. Det framgår
-och kommer tillsammans med befi ntlig bebyggelse i utformas för att minimera inverkan i befi ntlig                  i beslutet från Jordbruksverket att Länsstyrelsen
+I exploateringsområdets nedre del föreslås två
+fl erbostadshus i anslutning till Dyrenstensvägen.
 
-söder bidra till att rama in gaturummet. terräng och ges tillräckligt utrymme för att säker- En exploatering bedöms vara förenligt med delar fastighetsägarens bedömning att marken är
-ställa framkomlighet för exempelvis sopbil och kommunens översiktliga planering och förhindrar avsedd för annat ändamål än jord- och skogsbruk.
-Topografi n i exploateringsområdet är en utmaning varutransporter. Parkeringsytor placeras mellan inte heller tillgängligheten genom fastigheten Området utgörs av ett mindre markområde, som
-för byggnation men ger samtidigt möjlighet att byggnaderna i områdets övre och lägre del. Vallda 7:48 till det i översiktsplanen föreslagna saknar huvudbyggnad, och som ligger mellan andra
+Byggnadsvolymerna är placerade som en naturlig
+fortsättning på den höjdrygg som fi nns i området
+och kommer tillsammans med befi ntlig bebyggelse i
+söder bidra till att rama in gaturummet.
 
-skapa ett unikt boende som anpassas till områdets Närheten till busshållplatsen på Sandövägen området för ”vardagsnära friluftsliv”. Området ligger bebyggda mindre fastigheter eller markområden.
-naturförutsättningar. I de branta partierna placeras (ca 300 m gångväg) motiverar ett lågt p-tal strategiskt till med närheten till Sandövägen med
+Topografi n i exploateringsområdet är en utmaning
+för byggnation men ger samtidigt möjlighet att
+skapa ett unikt boende som anpassas till områdets
+naturförutsättningar. I de branta partierna placeras
+
+bebyggelse utmed höjdkurvorna för att minska
+behov av markåtgärder. Samtliga bostadshus
+uppförs med två våningar för att underordna sig
+
+vegetationen i området. Runt om byggnaderna
+fi nns möjlighet att skapa utemiljöer för lek och
+rekreation. Mellan områdets övre och lägre del
+kan gångstigar och trappor anläggas för att öka
+
+tillgängligheten inom området.
+
+Angöring till området sker från Dyrenstensvägen.
+Boende uppe på knallen är hänvisade till
+
+den östra infarten för att på så sätt begränsa
+antalet trafi krörelser vid bostäderna utmed
+Dyrestensvägen. Den planerade bostadsgatan
+utformas för att minimera inverkan i befi ntlig
+terräng och ges tillräckligt utrymme för att säker-
+
+ställa framkomlighet för exempelvis sopbil och
+varutransporter. Parkeringsytor placeras mellan
+byggnaderna i områdets övre och lägre del.
+Närheten till busshållplatsen på Sandövägen
+
+(ca 300 m gångväg) motiverar ett lågt p-tal
+
+inom området. Mellan den övre parkeringen och
+Högarydsvägen i norr anordnas ytterligare en
+anslutning som reserveras för räddningsfordon och
+
+gc-trafi k.
+
+Förslaget bedöms bidra till en god helhetsverkan
+då de fyller en lucka i befi ntlig bebyggelse
+
+och knyter samman Boklokområdet söder om
+Dyrenstensvägen med villabebyggelsen och
+framtida byggnation norr om exploateringsområdet.
+Den planerade bostadsgatan kommer bidra till
+
+ökad tillgänglighet då den möjliggör gc-trafi k mellan
+Högarydsvägen och Dyrestensvägen, och vidare
+söderut mot skola, affär och idrottsanläggningar.
+
+En exploatering bedöms vara förenligt med
+
+kommunens översiktliga planering och förhindrar
+inte heller tillgängligheten genom fastigheten
+Vallda 7:48 till det i översiktsplanen föreslagna
+området för ”vardagsnära friluftsliv”. Området ligger
+
+strategiskt till med närheten till Sandövägen med
 
 9  FÖRSLAG
+
+Gällande detaljplaner
+Karta: Kungsbackakartan
+
+både utbyggd gc-väg. Infarten från Sandövägen
+till Dyrestensvägen samt utbyggt kommunalt
+
+vatten och avlopp bedöms ha god kapacitet för
+tillkommande bostäder. Bebyggelsen placeras cirka
+150 meter från Sandövägen som är en källa till
+vägtrafi kbuller. Avståndet bedöms vara tillräckligt
+
+för att ny bebyggelse ska klara riktvärden för buller
+i fasad.
+
+Området är inte tidigare ianspråktaget för bostads-
+
+ändamål och marken utgörs av skogsmark utan
+utpekade naturvärden. Området utgörs inte av
+brukningsvärd jordbruksmark eller skogsmark
+som har betydelse för skogsnäringen. Det framgår
+i beslutet från Jordbruksverket att Länsstyrelsen
+
+delar fastighetsägarens bedömning att marken är
+avsedd för annat ändamål än jord- och skogsbruk.
+Området utgörs av ett mindre markområde, som
+saknar huvudbyggnad, och som ligger mellan andra
+
+bebyggda mindre fastigheter eller markområden.
 
 <!-- sida 386 -->
 
@@ -8207,8 +8390,6 @@ Sign
 <!-- sida 395 -->
 
 <!-- sida 396 -->
-
-Bilaga A
 
 Uppdaterad 191206 1/7
 PRINCIPAVTAL
@@ -8680,8 +8861,6 @@ Bilaga B
 
 <!-- sida 405 -->
 
-uniform KUB100 v 1,1, 2012-05-20
-
 Kungsbacka
 
 KUNGSBACKA KOMMUN 1 (2)
@@ -8723,8 +8902,7 @@ Följande utförs av Samhällsbyggnadskontoret, Planavdelningen i samråd med Be
 genomförandebeskrivning, eventuellt gestaltningsprogram samt övrigt
 informationsmaterial för samråd och granskning.
 2\. Grundkarta och fastighetsförteckning.
-\|
-3\. Skisser och utredningar som fordras vid framtagande av detaljplan, |
+3\. Skisser och utredningar som fordras vid framtagande av detaljplan,
 
 4, Samrådsredogörelse efter samråd och ett granskningsutlåtande efter granskning
 
@@ -8738,6 +8916,8 @@ underrättelse/granskning, antagande och arkivering.
 
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
+
+uniform KUB100 v 1,1, 2012-05-20
 
 <!-- sida 406 -->
 
@@ -9337,8 +9517,6 @@ Bilaga B
 
 <!-- sida 417 -->
 
-uniForm KUB100 v 1.1, 2012-05-20
-
 Kungsbacka
 
 KUNGSBACKA KOMMUN 1 (2)
@@ -9363,7 +9541,6 @@ Aytalet är upprättat mellan SW Fastigheter kommanditbolag, nedan kallad Bestä
 Samhällsbyggnadskontorets planavdelning, nedan kallad Planavdelningen.
 
 Information
-
 På kommunstyrelsens sammanträde 2019-11-26 avses följande att beslutas:
 
 \- Kommunstyrelsen beslutar att inleda en planeringsprocess för fastigheterna Alafors
@@ -9397,6 +9574,8 @@ underrättelse/granskning, antagande och arkivering.
 8\. Vid planarbetets påbörjande startfaktureras 2594 (tjugofem) av en uppskattad
 plankostnad exklusive utredningar, enligt punkt 1-6.
 
+uniForm KUB100 v 1.1, 2012-05-20
+
 <!-- sida 418 -->
 
 KUNGSBACKA KOMMUN
@@ -9427,7 +9606,7 @@ SW Fastigheter KB (916553-2418)
 
 Kungsbacka den.. 4 (
 
-ENTRE LEEKYSTSEEETETTETSTEETER TER TET
+ENTRE LEENYSTSYEEETETSTTTSEETIR TER TET
 
 Samhällsbyggnadskontoret/Byggnadsnämnden
 

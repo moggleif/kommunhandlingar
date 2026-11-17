@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241115044348id_/https://kungsbacka.se/d
 sha256: d3d43992d8014f6984040a624ce9c1b2068cbb07c5d462fe7263508fbb686169
 bytes: 391176
 sidor: 19
-hamtad: 2026-10-20T08:22:23+00:00
-konverterad: 2026-10-20T08:22:40+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T11:22:48+00:00
+konverterad: 2026-11-17T11:22:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ok, ok, tabell-osaker, ok]
@@ -91,33 +91,33 @@ förvaltningschef
 Ulrika Qvist, kvalitets- och
 utvecklingschef
 
-Johan Frisén, ekonomichef \$ 107
+Johan Frisén, ekonomichef § 107
 Sandra Ohlsson,
 
-HR & Kommunikationschef \$ 107
+HR & Kommunikationschef § 107
 Maria Rosenberg, verksamhetschef
-Lokalförsörjning \$\$ 108-109
-Semir Robovic, lokalplanerare \$ 108
+Lokalförsörjning §§ 108-109
+Semir Robovic, lokalplanerare § 108
 Astrid Bayard, verksamhetschef
-Personalförsörjning & Kundstöd \$ 110
+Personalförsörjning & Kundstöd § 110
 Eva Andersen,
-konsumentrådgivare \$ 110
+konsumentrådgivare § 110
 
 Anna Björnör,
 
-ekonomisk rådgivning \$ 110
+ekonomisk rådgivning § 110
 Martin Funkerud, enhetschef
-Fastighet administration \$ 111
+Fastighet administration § 111
 Mats Söderström,
 
 tillförordnad verksamhetschef
-Fastighet \$\$ 111—112, 117
+Fastighet §§ 111—112, 117
 
 Johan Arvidsson,
 
-enhetschef Fastighet säkerhet \$ 112
+enhetschef Fastighet säkerhet § 112
 
-\$ 106-117
+§ 106-117
 
 Paragrafer
 

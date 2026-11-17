@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220319212250id_/https://www.kungsbacka
 sha256: [baa7e276e21459759d641614710aa7ff11360c1b12f2259f4ba86f3b85e33e36, 598de1499ef8bcc5262165fb2499314a275be0941aa6b0b61d585949545d4096]
 bytes: [4020580, 5111005]
 sidor: 587
-hamtad: 2026-10-31T11:00:54+00:00
-konverterad: 2026-10-31T11:06:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T14:21:56+00:00
+konverterad: 2026-11-17T14:23:25+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1946,7 +1946,6 @@ Denna förordning träder i kraft den 1 januari 2025.
 SOU 2021:2                               Författningsförslag
 
 1.4   Förslag till förordning om ändring i förordningen
-
 (2012:811) med instruktion för Universitets-
 och högskolerådet
 
@@ -1958,14 +1957,23 @@ Nuvarande lydelse     Föreslagen lydelse
 
 1 §
 Universitets- och högskole- Universitets- och högskole-
-rådet ansvarar för uppgifter i fråga rådet ansvarar för uppgifter i fråga
-om service, samordning, främ- om service, samordning, främ-
-jande och utvecklande verksam- jande och utvecklande verksam-
-het samt internationellt samarbete het samt internationellt samarbete
-och mobilitet inom utbildnings- och mobilitet inom utbildnings-
-området.              området och för service och sam-
+
+rådet ansvarar för uppgifter i fråga
+om service, samordning, främ-
+jande och utvecklande verksam-
+het samt internationellt samarbete
+och mobilitet inom utbildnings-
+området.
+
+rådet ansvarar för uppgifter i fråga
+om service, samordning, främ-
+jande och utvecklande verksam-
+het samt internationellt samarbete
+och mobilitet inom utbildnings-
+området och för service och sam-
 ordning av medborgarskapsprovet
 enligt förordningen (0000:000) om
+
 medborgarskapsprov i svenska och
 samhällskunskap.
 
@@ -1975,10 +1983,9 @@ Denna förordning träder i kraft den 1 januari 2025.
 
 <!-- sida 50 -->
 
-Författningsförslag                        SOU 2021:2
+Författningsförslag                         SOU 2021:2
 
 1.5   Förslag till förordning om ändring i förordningen
-
 (2015:1047) med instruktion för Statens
 skolverk
 
@@ -1997,6 +2004,7 @@ förhållande till övriga berörda parter,
 rör nyanlända personer,
 3\. verka för att generationsmålet och miljökvalitetsmålen nås och
 vid behov föreslå åtgärder för miljöarbetets utveckling,
+
 4\. ha ett samlat ansvar (sektorsansvar) för frågor om de nationella
 minoriteterna och de nationella minoritetsspråken inom ramen för
 sitt verksamhetsområde vilket innefattar att verka samlande,
@@ -2004,19 +2012,28 @@ stödjande och pådrivande i förhållande till berörda parter,
 5\. främja användningen och utvecklingen av validering inom
 kommunal vuxenutbildning,
 6\. inom ramen för sitt verk- 6. inom ramen för sitt verk-
-
 samhetsområde stödja kommu- samhetsområde stödja kommu-
 ner och andra huvudmän i arbetet ner och andra huvudmän i arbetet
 med säkerhet och krisberedskap, med säkerhet och krisberedskap,
 och
-7\. ha ett samlat ansvar (sek- 7. ha ett samlat ansvar (sek-
-torsansvar) inom ramen för sitt torsansvar) inom ramen för sitt
-verksamhetsområde när det gäller verksamhetsområde när det gäller
-de statliga insatserna för att ta till- de statliga insatserna för att ta till-
-vara digitaliseringens möjligheter vara digitaliseringens möjligheter
-för ökad måluppfyllelse och lik- för ökad måluppfyllelse och lik-
-värdighet, vilket innefattar att värdighet, vilket innefattar att
-vara samlande, stödjande och på- vara samlande, stödjande och på-
+
+7\. ha ett samlat ansvar (sek-
+torsansvar) inom ramen för sitt
+verksamhetsområde när det gäller
+de statliga insatserna för att ta till-
+vara digitaliseringens möjligheter
+för ökad måluppfyllelse och lik-
+värdighet, vilket innefattar att
+vara samlande, stödjande och på-
+
+7\. ha ett samlat ansvar (sek-
+torsansvar) inom ramen för sitt
+verksamhetsområde när det gäller
+de statliga insatserna för att ta till-
+vara digitaliseringens möjligheter
+för ökad måluppfyllelse och lik-
+värdighet, vilket innefattar att
+vara samlande, stödjande och på-
 
 1 Senaste lydelse 2019:1289.
 
@@ -24783,7 +24800,6 @@ Personalchef             Förvaltningschef
 
 <!-- sida 578 -->
 
-| ” ;
 YE  Soerigedemokraterna
 
 Kungsbacka 200611
@@ -24853,8 +24869,6 @@ språktest med språkkrav enligt Socialstyrelsens rekommendationer för användn
 kunskaper i svenska språket ska ges möjlighet till språklyft.
 
 Sverigedemokraterna Kungsbacka genom
-
-\- j /
 
 Carita Boulwén (SD) -
 

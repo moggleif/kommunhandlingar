@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190857id_/https://kungsbacka.se/d
 sha256: a0b37348daaf7dd62201444405bb3e154b654ab9b9f4b3320b5f90822ef543b8
 bytes: 3870580
 sidor: 71
-hamtad: 2026-11-02T11:01:03+00:00
-konverterad: 2026-11-02T11:01:30+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T14:12:04+00:00
+konverterad: 2026-11-17T14:12:35+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -1316,26 +1316,38 @@ och    andra     texter.
 
 <!-- sida 46 -->
 
+Skapa   intresse för berättelser,  bilder
+
+och  texter  i olika medier, såväl
+
+digitala som   andra
+
+Skapa   intresse för skriftspråk  samt
+
+förståelse  för symboler   och  hur  de
+
+används    för att förmedla  budskap
+
 Verka  för att barnet  utvecklar
 
-Skapa  intresse  för berättelser,  bilder                                                     ett nyanserat   talspråk  och
+ett nyanserat   talspråk  och
 
-och  texter i olika medier,  såväl                                                        ordförråd   samt  förmåga    att
-digitala som   andra                                                             leka  med  ord,  berätta, uttrycka
+ordförråd   samt  förmåga   att
 
+leka med   ord, berätta,  uttrycka
 tankar  och  ställa frågor
 ,.
 
-Genom    språklekar,   förebygga
+Genom    språklekar,  förebygga
+
 lässvårigheter   och  ge barnen
-Skapa  intresse  för skriftspråk  samt
-en  mjukare   start i skolan.
-förståelse  för symboler   och  hur de
-Mötet   med  skriftspråket  kan
-används   för att förmedla   budskap
+en mjukare    start i skolan.
+
+Mötet  med   skriftspråket  kan
+
 bli mer  meningsfullt,
 
-glädjerikt  och  lustfyllt
+glädjerikt  och lustfyllt
 
 <!-- sida 47 -->
 

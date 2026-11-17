@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319185229id_/https://www.kungsbacka.
 sha256: bd0d41b26c9a4bb36c4182a8b851a452ba8c4d9f7d052e0761ae4b217060ffe3
 bytes: 15206885
 sidor: 398
-hamtad: 2026-10-31T08:20:11+00:00
-konverterad: 2026-10-31T08:21:40+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:42:41+00:00
+konverterad: 2026-11-17T13:43:39+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1273,27 +1273,38 @@ Vårt        framtida              Kungsbacka                     -   översikts
 
 Granskning     1 mars   – 30  april 2021
 
-En översiktsplan är vägledande i hur
-Strategi 2040
-Välkommen    med  synpunkter!                                                                                      kommunen  vill använda mark och vatten.
-Översiktsplanen visar var kommunen vill
-bygga, var vi ska bevara naturområden
+Välkommen    med  synpunkter!
+
 Dina synpunkter är viktiga. Var med och tyck till
-om vårt framtida Kungsbacka!                                                                                       och hur vi vill utveckla vår infrastruktur.
-Fram till 30 april 2021 kan du tycka till om vårt                                                                  Tyck till om kommunens förslag till översiktsplan via
-förslag till ny översiktsplan för Kungsbacka                                                                       (e-post borttagen)
-kommun. Granskningen pågår mellan 1 mars                                                                           Skriv ”synpunkt översiktsplan” i ämnesraden.
+om vårt framtida Kungsbacka!
+Fram till 30 april 2021 kan du tycka till om vårt
+förslag till ny översiktsplan för Kungsbacka
+kommun. Granskningen pågår mellan 1 mars
 och 30 april 2021. De synpunkter som kommer
-in sammanställer vi och använder som under-                                                                        När du skriver, tänk på att en översiktsplan hanterar
-lag till det fortsatta arbetet och som underlag                                                                    övergripande och långsiktiga frågor.
+in sammanställer vi och använder som under-
+lag till det fortsatta arbetet och som underlag
 till politikernas beslut om ny översiktsplan.
 Du kan lämna synpunkter via mejl
+
 (e-post borttagen)
 Skriv ”synpunkt översiktsplan” i ämnesraden
 
 Vid frågor kontakta gärna:
 (e-post borttagen)
 Kungsbacka Direkt 0300 83 40 00
+
+En översiktsplan är vägledande i hur
+Strategi 2040
+kommunen  vill använda mark och vatten.
+Översiktsplanen visar var kommunen vill
+bygga, var vi ska bevara naturområden
+och hur vi vill utveckla vår infrastruktur.
+Tyck till om kommunens förslag till översiktsplan via
+(e-post borttagen)
+Skriv ”synpunkt översiktsplan” i ämnesraden.
+
+När du skriver, tänk på att en översiktsplan hanterar
+övergripande och långsiktiga frågor.
 
 Översiktsplaneprocessen                Mark- och va(cid:321) enanvändning
 Framtagandet av en ny översiktsplan görs enligt en väl defi nie-
@@ -11976,8 +11987,6 @@ Summa Särökometernas Handbollklubb                                       38 24
 
 <!-- sida 280 -->
 
-UV BIWN KH
-
 A B (6 D S F
 
 Kvittning av fakturor mot bidrag under 2021
@@ -12014,6 +12023,8 @@ I
 t
 I
 I
+
+UV BIWN K
 
 <!-- sida 281 -->
 
@@ -12321,19 +12332,28 @@ alla  lokaler   och    titta på   systematisk       samordning        mellan   
 
 <!-- sida 294 -->
 
-Internt inom  KFT                            Internt inom  kommunen                    Med   föreningslivet och andra  externa
+Internt inom  KFT                            Internt inom  kommunen
 
-• Elektronens  rivning samt  flytt till          • Kulturskolan  in i skolor                       •Hembygdsmuseet
+• Elektronens  rivning samt  flytt till          • Kulturskolan  in i skolor
 
-Fyren/Esteten                                  • Daglig verksamhet   på  KFT och  IF:s
-•Samlokalisering    i Sporthallen
+Fyren/Esteten                                  • Daglig verksamhet   på  KFT och IF:s
+
 ”sysselsättningen”  till Fyren/Esteten
-•Kullaviks  IF och Maleviksskolan
 • Ekstas kvarterslokaler
+
+Med   föreningslivet och  andra externa
+
+•Hembygdsmuseet
+
+•Samlokalisering    i Sporthallen
+
+•Kullaviks  IF och Maleviksskolan
+
 •Utställningslokaler   hos  Aranäs
+
 Fastigheter
 
-•Futsal bereds   inte plats  alls i
+•Futsal  bereds  inte  plats alls i
 
 lokalerna
 
@@ -12345,7 +12365,7 @@ lokalerna
 
 Studieförbunden
 
-•Arenan   där  flera föreningar  ska
+•Arenan   där  flera föreningar   ska
 
 samverka
 
@@ -12576,7 +12596,7 @@ Omvärldsbevakning — några exempel
 
 « Halmstad ofta O-taxa för barn och unga 0-20 år.
 
-FKAN 1 RFECFI VFAK NYTT TAXFYYSTFM KUNCSKACKA KORAKATIN anA S<
+FKAN 1 RFECFI VFAK NYTT TAXFSYSTFM KUNCSKACKA KORAKETIN anA S<
 
 <!-- sida 309 -->
 
@@ -13378,7 +13398,6 @@ Justerare                         Expedierat/bestyrkt
 <!-- sida 340 -->
 
 CN D)
-and ban a
 ( . Se tfedemokKraterna
 
 Motion om handlingsplan för suicidprevention Kungsbacka 210307
@@ -13443,7 +13462,6 @@ Med anledning av ovanstående föreslår Sverigedemokraterna i Kungsbacka fullm�
 
 Sverigedemokraterna Kungsbacka genom
 
-; PAR /
 4 Z MD EZ LIBS TA
 Carita Boulwén (SD)
 
@@ -14230,7 +14248,6 @@ Pa
 [So
 
 ee hö ( Y
-| brer vå
 
 Överklagan angående belysning Rydet IP på nya
 

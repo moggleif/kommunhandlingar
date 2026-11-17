@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190836id_/https://kungsbacka.se/d
 sha256: 86c211676ece96e626a229dcbf25c0ca4d137ce7ec057f7ea39d6216e488af4c
 bytes: 10168708
 sidor: 154
-hamtad: 2026-10-29T10:24:49+00:00
-konverterad: 2026-10-29T10:25:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:24:51+00:00
+konverterad: 2026-11-17T13:25:22+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, tabell-osaker, ok, ok, ocr, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -319,7 +319,7 @@ Ett       medskapande                                 samhälle                 
 
 Kommunövergripande mål
 
-STEN EN ES EN EN TES
+[]
 
 SI Cd
 
@@ -360,6 +360,8 @@ livet.
 Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen.
 Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och ledare.
+
+STEN TR EN RES EN EN TES
 
 <!-- sida 25 -->
 
@@ -485,7 +487,6 @@ Arbetet med ”Svinnprojeketet”
 
 <!-- sida 31 -->
 
-tt
 | | Kungsbacka
 
 Svi
@@ -526,7 +527,6 @@ Tallrikssvinn 3920
 
 2020
 
-Läs
 \|
 
 Kungsbacka
@@ -1515,23 +1515,6 @@ rörelsemönster från Frillesås. Antalet elever ligger dock under hela periode
 skolorna har löst det ökade behovet genom att använda lokalerna flexibelt och maximera antalet
 elever per rum. Matsalskapacitet samt tillgång till specialsalar har dock varit en stor utmaning.
 
-Bild 5. Prognos för elevutveckling i Åsa (upptagningsområde Åsaskolan och Åsa Gårdsskola)
-
-baserat på andel elever HT20 samt befolkningsprognos daterad februari 2021.
-
-Under perioden 2022 till 2026 visar prognoserna på en marginell topp i antalet grundskoleelever i
-Åsa. Behovet av elevplatser för årskurserna 7 - 9 är 360 - 380 platser under prognosperioden.
-Kapaciteten är svårbedömd då båda skolorna är F-9 och det inte går att beräkna en kapacitet endast
-
-Skolplatse r för elever i Åsa från 2022 Sida 9 av 35
-gnilkcevtU
-tmas
-gninklofeb
-åp
-nagårfretfe
-restalpeloksröf redös
-edårmo
-såsellirF
 Antal elever totalt
 1
 1
@@ -1586,6 +1569,24 @@ Antal elevplatser - kapacitet
 Antal elever i F-6 enligt prognos
 307 289  305 293 315  313 339 327  324 322 323
 Antal elever i åk 7-9 enligt prognos
+Bild 5. Prognos för elevutveckling i Åsa (upptagningsområde Åsaskolan och Åsa Gårdsskola)
+baserat på andel elever HT20 samt befolkningsprognos daterad februari 2021.
+Under perioden 2022 till 2026 visar prognoserna på en marginell topp i antalet grundskoleelever i
+Åsa. Behovet av elevplatser för årskurserna 7 - 9 är 360 - 380 platser under prognosperioden.
+Kapaciteten är svårbedömd då båda skolorna är F-9 och det inte går att beräkna en kapacitet endast
+Skolplatse r för elever i Åsa från 2022 Sida 9 av 35
+
+Utveckling
+
+befolkning samt
+
+efterfrågan på
+
+förskoleplatser
+
+område söder
+
+Frillesås
 
 [Tabell 60-1](kallelse.tabeller/60-1.csv)
 
@@ -4256,28 +4257,44 @@ Strategiskt område: Förnyelseförmåga och konkurrenskraft
 Strategins mål
 Hållbar tillväxt byggd på konkurrenskraft, grön omställning
 samt ett attraktivt och inkluderande samhälle
+
 Strategiskt område
 Förnyelseförmåga och konkurrenskraft
 Mål strategiskt område
 En region med internationell konkurrenskraft och hållbar tillväxt
 
-Prioriteringar               Delmål
+Prioriteringar              Delmål
 Stimulera entreprenörskap och stödja företag i Fler nya företag och ökad överlevnadsgrad
 uppstartsfasen
-Främja den tekniska utvecklingen och digitala Fler kunskapsintensiva företag och jobb i
-omställningen i det halländska näringslivet regionen
-Främja internationalisering bland företagen Fler exportföretag och ökade exportintäkter till
+
+Främja den tekniska utvecklingen och digitala
+omställningen i det halländska näringslivet
+Främja internationalisering bland företagen
+
+Stimulera och attrahera offentliga och privata in-
+vesteringar i forskning och utveckling
+
+Stärka företagens innovationskapacitet
+
+Positionera Halland för att attrahera besökare,
+kompetenser, företag och investeringar
+Stimulera till hållbar omställning av det
+halländska näringslivet
+
+Fler kunskapsintensiva företag och jobb i
+regionen
+Fler exportföretag och ökade exportintäkter till
 regionen
 
-Stimulera och attrahera offentliga och privata in- Ökade investeringar i FoU bland regionens
-vesteringar i forskning och utveckling aktörer
+Ökade investeringar i FoU bland regionens
+aktörer
 
-Stärka företagens innovationskapacitet Fler innovativa företag i regionen
+Fler innovativa företag i regionen
 
-Positionera Halland för att attrahera besökare, Regionen ska attrahera fler etableringar, besö-
-kompetenser, företag och investeringar kare och kompetenser
-Stimulera till hållbar omställning av det Fler företag ska bedriva ett aktivt mångfalds-,
-halländska näringslivet      klimat- och miljöarbete
+Regionen ska attrahera fler etableringar, besö-
+kare och kompetenser
+Fler företag ska bedriva ett aktivt mångfalds-,
+klimat- och miljöarbete
 
 För att uppnå långsiktig regional utveckling och tillväxt behövs goda förutsättningar
 för entreprenörskap och innovation, som i sin tur genererar arbetstillfällen för män-

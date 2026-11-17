@@ -12,12 +12,12 @@ kalla_url: [https://web.archive.org/web/20220320070818id_/https://www.kungsbacka
 sha256: [e113e17e22d5809e21902b1d3312fd7eda01ee73dcea6b885b2c7324e37a324d, da56bac843fa15eb723b63282fc9cc3a250aa63fab4e66f4f12c2e9ad9727a44]
 bytes: [30626769, 37955652]
 sidor: 270
-hamtad: 2026-10-29T09:53:37+00:00
-konverterad: 2026-10-29T10:01:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:21:13+00:00
+konverterad: 2026-11-17T13:24:47+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 31, 120, 132, 136, 141, 143, 154, 160, 165, 166, 168, 169, 176, 179, 180, 184, 192, 198, 199, 200, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 259, 260, 263, 264, 265, 266, 267]
 figurer: [7, 15, 18, 20, 47, 51, 62, 75, 95, 100, 101, 104, 113, 125, 128, 129, 130, 132, 133, 135, 136, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 176, 178, 179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 196, 200, 205, 211, 212, 213, 214, 216, 217, 223, 224, 225, 226, 227, 229, 230, 231, 232, 233, 234, 243, 244, 246, 247, 249, 250, 251, 252, 253, 255, 256, 257, 258, 259, 261, 262, 263, 264, 265, 266, 267, 270]
 tolkade: []
@@ -200,7 +200,6 @@ a
 1 / |
 Kv ng ba re 6) Ia dim pl ev favasS
 
-Fn DJ
 Postnummer . Telefonnummer
 
 5
@@ -275,8 +274,7 @@ Alternativ 1 (använd antingen alternativ 1 eller 2)
 Jag har granskat den skriftliga redovisningen av hurd et kommunala partistödet har använts och att det finns underlag som styrker
 uppgiftema. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet an vänts.
 
-INambjökty rtydligåhde Datum a AN
-— 2ot0-0F-12
+da rtydligåhde Datum a AN
 
 Granskningsrapport
 
@@ -360,7 +358,6 @@ Alternativ 1 (använd antingen alternativ 1 eller 2)
 uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
 
 Underskrift-
-as jättlt" RR ———
 
 Telefon
 
@@ -974,11 +971,9 @@ Underskrift
 
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
 
-RAR
 \- Nämmörtydligaride =
 
 Datum a
-\- Pg PJ om PD 2 ”'IT4
 Ingegärd Salmose AC AS SJR £ a
 
 fö |
@@ -1077,8 +1072,6 @@ bifogas.
 
 <!-- sida 23 -->
 
-ITivggAet & Traditzon
-
 Redovisning av hur kommunalt partistöd har använts och
 
 fördelats under år 2020
@@ -1157,8 +1150,6 @@ Kassör
 
 fa
 
-i H M
-
 Sverigedemokraterna i Kungsbacka
 e Adress: Gottskärsvägen 48
 
@@ -1173,7 +1164,6 @@ Härmed intygas att partiet har följt ändamålet för regler för partistöd i
 Datum Ort
 
 MOZR7 Kunnas hala
-I
 
 <!-- sida 25 -->
 
@@ -1263,8 +1253,6 @@ Ban kosfpa der
 (108
 
 Summa utgifter för aktiviteter under perioden
-
-= IL553
 
 <!-- sida 26 -->
 
@@ -5087,8 +5075,19 @@ goteborg.se
 
 <!-- sida 126 -->
 
-Text markerad med grön färg har införts som förtydligande efter                                           Förord
+Text markerad med grön färg har införts som förtydligande efter
 trafiknämndens sammanträde 2021-03-18.
+
+Trafikkontoret
+Box 2403
+(adress borttagen)
+403 16 Göteborg
+Titel: Slutrapport Åtgärdsvalsstudie Dag Hammarskjölds boulevard
+Författare: Pia Nyberg, Samhällsplanering, trafikkontoret, Göteborgs Stad &
+Staffan Sandberg, Samhällsplanering, trafikkontoret, Göteborgs Stad
+Grafisk form och layout: Visuell kommunikation Göteborgs Stad
+
+Förord
 
 Detta är remissversionen av rapporten för det utredningsarbete
 som genomförts inom ramen för trafikkontorets åtgärdsvalsstudie
@@ -5100,66 +5099,58 @@ genomförandet av den stadsutveckling som den fördjupade
 
 Utredningsarbetet har genomförts i nära samverkan med övriga
 planerande förvaltningar i Göteborgs Stad under åren 2017-2020.
-
 Ett stort tack till Ramböll med uppdragsledare Vidar Glette, som
 varit studiens huvudkonsult. Tack också till Trivector med upp-
 dragsledare PG Andersson som bidragit med specialistkompetens
 för spårväg. Och slutligen men absolut inte minst ett stort tack
 till Helena Boström på Prové AB som hållit samman arbetet i den
 förvaltningsövergripande projektgruppen.
+
 Trevlig läsning!
 
 önskar Pia Nyberg, huvudförfattare och biträdande projektledare,
 och Staffan Sandberg, projektledare, trafikkontoret.
 
-Trafikkontoret
-Box 2403
-(adress borttagen)
-403 16 Göteborg
-Titel: Slutrapport Åtgärdsvalsstudie Dag Hammarskjölds boulevard
-Författare: Pia Nyberg, Samhällsplanering, trafikkontoret, Göteborgs Stad &
-Staffan Sandberg, Samhällsplanering, trafikkontoret, Göteborgs Stad
-Grafisk form och layout: Visuell kommunikation Göteborgs Stad
-
 <!-- sida 127 -->
 
 Innehåll
 
-Inledning                                           9
-Del 1. Varför boulevard? Just på denna plats?      19
+Inledning                                            9
+
+Del 1. Varför boulevard? Just på denna plats?       19
 Del 2. Utgångspunkter för en omvandling av Dag Hammarskjöldsleden 25
 
 2.1. Överblick av utgångspunkter                   27
 2.2. Kapaciteten i kollektivtrafiksystemet         35
-
 2.3. Vägvalen påverkar stadsbyggnadsidén           45
+
 Del 3. Vad är en lämplig utformning av Dag Hammarskjölds boulevard? 53
 3.1. Boulevardens innehåll, funktion och rum       55
 
 3.2. Boulevardförslaget i korthet                  63
 3.3. Konsekvenser av presenterat boulevardförslag  85
-
 3.4. Bortvalda alternativ                          95
+
 Del 4. Vägen framåt                                105
-4.1. Genomförande                                  107
+4.1. Genomförande                                 107
 
-4.2. Riskanalys                                    117
-4.3. Slutsatser och fortsatt arbete                127
+4.2. Riskanalys                                   117
+4.3. Slutsatser och fortsatt arbete               127
 
-Bilagor                                                                           Övrigt utredningsmaterial som inte är bilagt denna rapport
-Bilaga 3 Utformningsförslag (daterad 2021-02-25)                                  Gångtidsberäkningar för spårväg (daterad 2019-12-12)
+Bilagor
+Bilaga 3 Utformningsförslag (daterad 2021-02-25)
 
-Bilaga 4 PM Utformning (daterad 2021-02-25)                                       PM Kapacitet spårväg Frölundabanan (daterad 2020-07-06)
-Bilaga 5 Rapport Boulevarder och stadsutveckling (daterad 2018-03-10)             PM Korsningskapacitet (daterad 2020-11-24)
+Bilaga 4 PM Utformning (daterad 2021-02-25)
+Bilaga 5 Rapport Boulevarder och stadsutveckling (daterad 2018-03-10)
+Bilaga 6 PM Historisk tillbakablick spårväg (daterad 2020-11-11)
 
-Bilaga 6 PM Historisk tillbakablick spårväg (daterad 2020-11-11)                  PM Kostnader (daterad 2020-12-07)
-Bilaga 7 PM Trafik (daterad 2021-02-22)                                           Bilaga till PM Kostnader (daterad 2020-05-20)
-Bilaga 8 PM Kollektivtrafik (daterad 2020-12-22)                                  PM Trafikanalys Dag Hammarskjölds boulevard (daterad 2019-06-17)
+Bilaga 7 PM Trafik (daterad 2021-02-22)
+Bilaga 8 PM Kollektivtrafik (daterad 2020-12-22)
 
-Bilaga 9 PM Cykel (daterad 2020-11-11)                                            PM Trafikanalys DH boulevard och Södra centrumlänken (daterad 2018-12-13)
-Bilaga 10 PM Parkering (daterad 2020-11-12)                                       PM Tunnellogik Linnéplatsen Annedalsmotet (daterad 2020-06-30)
+Bilaga 9 PM Cykel (daterad 2020-11-11)
+Bilaga 10 PM Parkering (daterad 2020-11-12)
+Bilaga 11 PM Skyfall (daterad 2020-12-17)
 
-Bilaga 11 PM Skyfall (daterad 2020-12-17)                                         PM Övergripande trafikanalys Sampers (daterad 2020-12-29)
 Bilaga 12 PM Genomförande 2020-12-11)
 Bilaga 13 PM Nya spårvägar och stadsutveckling (daterad 2020-12-21)
 
@@ -5169,69 +5160,142 @@ Bilaga 15 PM Luftkvalitet (daterad 2020-07-05)
 Bilaga 16 PM Bulleranalyser (daterad 2020-12-21)
 (Bilaga 1 och 2 utgörs av denna slutrapport och sändlistan för remissen)
 
-4                                                                                                                                                            5
+4
+
+Övrigt utredningsmaterial som inte är bilagt denna rapport
+
+Gångtidsberäkningar för spårväg (daterad 2019-12-12)
+PM Kapacitet spårväg Frölundabanan (daterad 2020-07-06)
+PM Korsningskapacitet (daterad 2020-11-24)
+
+PM Kostnader (daterad 2020-12-07)
+Bilaga till PM Kostnader (daterad 2020-05-20)
+
+PM Trafikanalys Dag Hammarskjölds boulevard (daterad 2019-06-17)
+PM Trafikanalys DH boulevard och Södra centrumlänken (daterad 2018-12-13)
+PM Tunnellogik Linnéplatsen Annedalsmotet (daterad 2020-06-30)
+
+PM Övergripande trafikanalys Sampers (daterad 2020-12-29)
+
+5
 
 <!-- sida 128 -->
 
-Sammanfattning                                                                                            Västtrafik bekostar tillkommande kollektivtrafikering med spårväg
+Sammanfattning
+
+Denna åtgärdsvalsstudie är resultatet av ett uppdrag från Göte-
+borgs Stads kommunfullmäktige till trafiknämnden. Uppdrags-
+formuleringen är: ”En åtgärdsvalsstudie för Dag Hammarskjölds
+boulevard, gällande både trafiklösning och stadsutveckling, ska
+genomföras”. Denna rapport kommer att gå på remiss tillsammans
+med den fördjupade översiktsplanen för Högsbo-Frölunda och
+följer samma remisstid: 1 april - 28 juni. Efter genomförd remiss
+kommer trafikkontoret att återkomma med en handling för beslut
+i trafiknämnden i början av år 2022. Avsikten är att lämna förslag
+till inriktningsbeslut för fortsatt hantering efter åtgärdsvalsstudiens
+slutförande, vilka samordnas med förslag till den fördjupade
+översiktsplanen för Högsbo-Frölunda. Målsättningen är att kom-
+munfullmäktige ska ta beslut om både åtgärdsvalsstudien och den
+fördjupade översiktsplanen Högsbo-Frölunda före sommaren 2022.
+
+En boulevard med stadsbana är möjlig att genomföra i Dag Ham-
+marskjöldsledens sträckning, enligt det förslag som presenteras
+i i denna rapport med bilagor. Boulevarden utgör ryggraden i
+den fördjupade översiktsplanens föreslagna stadsutveckling och
+möjliggör omvandlingen av dagens verksamhetsområde i östra
+Högsbo till blandstad. Den är således en helt integrerad del av
+förslaget till stadsutveckling enligt den fördjupade översiktsplanen.
+Stadsutvecklingen kring boulevarden innebär bostäder för upp till
+cirka 20 000 invånare.
+
+Ett genomförande av boulevardförslaget kommer att innebära
+klart övervägande positiva konsekvenser inom stadsutvecklings-
+området som den är en del av, men den innebär samtidigt stora
+utmaningar för det övergripande trafiksystemet som den är en
+del av. Det kommer att finnas många utmaningar också i den
+lokala skalan, inte minst etableringen av trafiktekniska lösningar
+som hanterar behovet av fotgängare och cyklisters tillgänglighet
+i samverkan med behovet av kapacitetsstark kollektivtrafik. Bou-
+levarden kommer också att behöva kunna hantera relativt stora
+flöden av biltrafik samt utryckningstrafik. Det kan dock konstateras
+att förslaget tydligt verkar för både en hållbar mobilitet och goda
+stadsmiljöer.
+För att skapa de förutsättningar som möjliggör en boulevardom-
+vandling och stadsutveckling, krävs åtgärder både inom och utan-
+för åtgärdsvalsstudiens mandat. Studien pekar på vilka åtgärder
+som ligger utanför studiens mandat och vilken effekt de behöver
+
+ge för att stödja boulevardomvandlingen. Den enskilt viktigaste åt-
+gärden är ett genomförande av Målbild Koll 2035. Det krävs också
+åtgärder i ett tidsperspektiv bortom år 2035, där en järnväg mellan
+Kungsbacka och Haga station via Järnbrott är en potentiell nyckel
+för framtiden i detta område, men även för staden som helhet.
+Ett genomförande av boulevarden och stadsutvecklingen enligt
+förslaget i studien kommer att få omfattande ekonomisk påverkan
+för Göteborgs Stad, både gällande kostnader och intäkter. Det
+kommer också att krävas medfinansiering från andra offentliga ak-
+törer. Ett genomförande kommer att innebära kostnader för allmän
+plats och framförallt infrastruktur. Det kommer också att krävas att
+6
+
+Västtrafik bekostar tillkommande kollektivtrafikering med spårväg
 och buss. Dessutom kommer det att krävas investeringar utanför
 området, för att möjliggöra den förändring i biltrafiksystemet som
 boulevarden medför. Det handlar om investeringar för att få fler
-Denna åtgärdsvalsstudie är resultatet av ett uppdrag från Göte-                                           att åka med kollektivtrafik, till exempel från södra Göteborg och
-borgs Stads kommunfullmäktige till trafiknämnden. Uppdrags-                                               Kungsbacka, vilket innebär investeringar av Trafikverket och Västra
-formuleringen är: ”En åtgärdsvalsstudie för Dag Hammarskjölds                                             Götalandsregionen. Kostnader för detta är delvis uppskattade i
-boulevard, gällande både trafiklösning och stadsutveckling, ska                                           Målbild Koll 2035.
-genomföras”. Denna rapport kommer att gå på remiss tillsammans
-med den fördjupade översiktsplanen för Högsbo-Frölunda och                                                Kostnadsbedömningen för en boulevard inklusive spårväg är
-följer samma remisstid: 1 april - 28 juni. Efter genomförd remiss                                         2500 miljoner kronor, i 2020 års prisnivå. Anläggningskostnaden
-kommer trafikkontoret att återkomma med en handling för beslut                                            för spårväg är uppskattat till cirka 890 miljoner kronor. I denna
-i trafiknämnden i början av år 2022. Avsikten är att lämna förslag                                        kostnadsbedömning ingår inte rivning av trafikplatser etcetera,
-till inriktningsbeslut för fortsatt hantering efter åtgärdsvalsstudiens                                   som krävs för att kunna bygga spårvägen. Dessa kostnader ingår
-slutförande, vilka samordnas med förslag till den fördjupade                                              i totalsumman 2500 miljoner kronor. Utöver denna kostnadsbe-
-översiktsplanen för Högsbo-Frölunda. Målsättningen är att kom-                                            dömning har en riskreserv uppskattats och lagts till ovanstående
-munfullmäktige ska ta beslut om både åtgärdsvalsstudien och den                                           kostnad. Riskreserven avser främst att ta höjd för förändringar av
-fördjupade översiktsplanen Högsbo-Frölunda före sommaren 2022.                                            förslaget och framförallt vad som anses ingå i objektet. Riskreser-
+att åka med kollektivtrafik, till exempel från södra Göteborg och
+Kungsbacka, vilket innebär investeringar av Trafikverket och Västra
+Götalandsregionen. Kostnader för detta är delvis uppskattade i
+Målbild Koll 2035.
+
+Kostnadsbedömningen för en boulevard inklusive spårväg är
+2500 miljoner kronor, i 2020 års prisnivå. Anläggningskostnaden
+för spårväg är uppskattat till cirka 890 miljoner kronor. I denna
+kostnadsbedömning ingår inte rivning av trafikplatser etcetera,
+som krävs för att kunna bygga spårvägen. Dessa kostnader ingår
+i totalsumman 2500 miljoner kronor. Utöver denna kostnadsbe-
+dömning har en riskreserv uppskattats och lagts till ovanstående
+kostnad. Riskreserven avser främst att ta höjd för förändringar av
+förslaget och framförallt vad som anses ingå i objektet. Riskreser-
 ven har bedömts till 1000 miljoner kronor. Sammantaget innebär
-En boulevard med stadsbana är möjlig att genomföra i Dag Ham-                                             det en kostnadsbedömning inklusive riskreserv på 2500-3500
-marskjöldsledens sträckning, enligt det förslag som presenteras                                           miljoner kronor.
-i i denna rapport med bilagor. Boulevarden utgör ryggraden i
-den fördjupade översiktsplanens föreslagna stadsutveckling och                                            I studien redovisas bedömningar av spårvägssystemets kapacitet
-möjliggör omvandlingen av dagens verksamhetsområde i östra                                                i sin helhet, med bakgrund i tidiga bedömningar av genomförbar-
-Högsbo till blandstad. Den är således en helt integrerad del av                                           heten av Målbild Koll2035. Dessa är bedömningar i ett tidigt skede
-förslaget till stadsutveckling enligt den fördjupade översiktsplanen.                                     och kan komma att förändras när kunskapen om dessa frågor
-Stadsutvecklingen kring boulevarden innebär bostäder för upp till                                         fördjupas över tid. Men med nu föreliggande kunskap om dessa
-cirka 20 000 invånare.                                                                                    förhållanden, är utgångspunkten att ta hänsyn till och anpassa
+det en kostnadsbedömning inklusive riskreserv på 2500-3500
+miljoner kronor.
+
+I studien redovisas bedömningar av spårvägssystemets kapacitet
+i sin helhet, med bakgrund i tidiga bedömningar av genomförbar-
+heten av Målbild Koll2035. Dessa är bedömningar i ett tidigt skede
+och kan komma att förändras när kunskapen om dessa frågor
+fördjupas över tid. Men med nu föreliggande kunskap om dessa
+förhållanden, är utgångspunkten att ta hänsyn till och anpassa
 förslaget och stadsutvecklingen till detta. Det är i linje med försik-
-Ett genomförande av boulevardförslaget kommer att innebära                                                tighetsprincipen. Om ny kunskap visar på mindre begränsningar
-klart övervägande positiva konsekvenser inom stadsutvecklings-                                            öppnar det upp för mer stadsutveckling och i förslaget föreslås inte
-området som den är en del av, men den innebär samtidigt stora                                             åtgärder som omöjliggör en sådan utveckling.
-utmaningar för det övergripande trafiksystemet som den är en
-del av. Det kommer att finnas många utmaningar också i den                                                I studien uppmärksammas flera olika risker som är kopplade till
-lokala skalan, inte minst etableringen av trafiktekniska lösningar                                        stadsutvecklingen och boulevardomvandlingen. En grundläggan-
-som hanterar behovet av fotgängare och cyklisters tillgänglighet                                          de förutsättning för utvecklingen är genomförandet av Målbild
-i samverkan med behovet av kapacitetsstark kollektivtrafik. Bou-                                          Koll2035. Den innebär bland annat att dagens expressbusstrafike-
-levarden kommer också att behöva kunna hantera relativt stora                                             ring i Dag Hammarskjöldsleden ska flyttas till Söder-/Västerleden,
-flöden av biltrafik samt utryckningstrafik. Det kan dock konstateras                                      genom konceptet metrobuss. En rad stora frågor behöver lösas
-att förslaget tydligt verkar för både en hållbar mobilitet och goda                                       innan metrobusskonceptets genomförande och om delar av
-stadsmiljöer.                                                                                             målbilden inte genomförs kommer det att påverka förutsättning-
+tighetsprincipen. Om ny kunskap visar på mindre begränsningar
+öppnar det upp för mer stadsutveckling och i förslaget föreslås inte
+åtgärder som omöjliggör en sådan utveckling.
+I studien uppmärksammas flera olika risker som är kopplade till
+stadsutvecklingen och boulevardomvandlingen. En grundläggan-
+de förutsättning för utvecklingen är genomförandet av Målbild
+Koll2035. Den innebär bland annat att dagens expressbusstrafike-
+ring i Dag Hammarskjöldsleden ska flyttas till Söder-/Västerleden,
+
+genom konceptet metrobuss. En rad stora frågor behöver lösas
+innan metrobusskonceptets genomförande och om delar av
+målbilden inte genomförs kommer det att påverka förutsättning-
 arna för boulevardområdets utveckling. Att helt och hållet bygga
-För att skapa de förutsättningar som möjliggör en boulevardom-                                            områdets utveckling på exempelvis metrobussens införande, är
-vandling och stadsutveckling, krävs åtgärder både inom och utan-                                          därför en riskfylld planering. Av det skälet presenterar studien
-för åtgärdsvalsstudiens mandat. Studien pekar på vilka åtgärder                                           exempelvis ett förslag på en alternativ trafikering av expressbussar,
-som ligger utanför studiens mandat och vilken effekt de behöver                                           om Målbild Koll 2035 inte genomförs fullt ut.
-ge för att stödja boulevardomvandlingen. Den enskilt viktigaste åt-
-gärden är ett genomförande av Målbild Koll 2035. Det krävs också                                          En påtaglig risk är att utbyggnaden av området kring boulevarden
-åtgärder i ett tidsperspektiv bortom år 2035, där en järnväg mellan                                       föregår boulevardutbyggnaden och stadsbanan. Den utvecklingen
-Kungsbacka och Haga station via Järnbrott är en potentiell nyckel                                         är startad med detaljplan för Olof Asklund och kan komma att fort-
-för framtiden i detta område, men även för staden som helhet.                                             sätta med omvandling av det tidigare industriområdet för Pripps
+områdets utveckling på exempelvis metrobussens införande, är
+därför en riskfylld planering. Av det skälet presenterar studien
+exempelvis ett förslag på en alternativ trafikering av expressbussar,
+om Målbild Koll 2035 inte genomförs fullt ut.
+En påtaglig risk är att utbyggnaden av området kring boulevarden
+föregår boulevardutbyggnaden och stadsbanan. Den utvecklingen
+är startad med detaljplan för Olof Asklund och kan komma att fort-
+sätta med omvandling av det tidigare industriområdet för Pripps
 och eventuellt flera andra planer. Om det sker kommer värdet
-Ett genomförande av boulevarden och stadsutvecklingen enligt                                              av en investering i boulevard med stadsbana - som möjliggör en
-förslaget i studien kommer att få omfattande ekonomisk påverkan                                           hållbar mobilitet - att reduceras. Detta då mer bilburna resmönster
-för Göteborgs Stad, både gällande kostnader och intäkter. Det                                             hunnit etableras och högre parkeringstal varit nödvändiga, för
-kommer också att krävas medfinansiering från andra offentliga ak-                                         att kollektivtrafiken inte varit tillräcklig vid planeringstillfället för
-törer. Ett genomförande kommer att innebära kostnader för allmän                                          detaljplanerna.
-plats och framförallt infrastruktur. Det kommer också att krävas att Fotograf: Frida Winter
-6                                                                                                                                                            7
+av en investering i boulevard med stadsbana - som möjliggör en
+hållbar mobilitet - att reduceras. Detta då mer bilburna resmönster
+hunnit etableras och högre parkeringstal varit nödvändiga, för
+att kollektivtrafiken inte varit tillräcklig vid planeringstillfället för
+detaljplanerna.
+Fotograf: Frida Winter
+7
 
 <!-- sida 129 -->
 
@@ -5243,167 +5307,247 @@ Bildkälla: Stadsbyggnadskontoret, Göteborgs Stad
 
 <!-- sida 130 -->
 
-I detta kapitel presenteras bakgrunden till och                                                           Effekten av omvandlingen behöver bli att området får en mindre
-barriäreffekt och istället börja läka samman staden, i synnerhet
+I detta kapitel presenteras bakgrunden till och
 uppdraget för projektet Dag Hammarskjölds
+
+boulevard. Vidare presenteras begreppet Dag
+Hammarskjöldstaden och dess innebörd.
+
+Bakgrund
+
+Staden är inne i en fas av kraftig befolkningstillväxt och den
+utvecklingen spås fortsätta under lång tid. Idag har staden cirka
+565 000 invånare. År 2035 förväntas invånarantalet ha ökat till cirka
+700 000 personer och år 2050 till närmare 800 000 personer. Detta
+innebär att staden behöver ha en mer effektiv markanvändning,
+för att vår gemensamma markreserv ska räcka till och användas på
+bästa sätt. Fler bostäder och kommunal service behöver tillkomma
+och fler resor behöver möjliggöras. Detta samtidigt som staden
+behöver minska sin klimatpåverkan och stadens grönstruktur
+behöver tas omhand på ett sätt som både främjar goda livsmiljöer
+och ekologisk hållbarhet. För stadens trafiksystem innebär en mer
+effektiv markanvändning att befintlig infrastruktur i högre grad
+behöver nyttjas för gång-, cykel- och kollektivtrafik – en hållbar
+mobilitet. När staden växer med fler invånare blir en motsvarande
+biltrafiktillväxt vare sig ekologiskt, ekonomiskt eller socialt hållbar.
+
+Mot bakgrund av detta har de planerande förvaltningarna i Göte-
+borg sedan flera år tillbaka fått en inriktning från politiken om att
+arbeta för en omdaning av Dag Hammarskjöldsleden. Samtidigt
+ska intilliggande östra Högsbo industriområde omvandlas till
+blandstad.
+
+Dag Hammarskjöldsleden utformades under en tid då tillgänglig-
+heten till staden i huvudsak skulle lösas med god framkomlighet
+för privatbilismen. Leden är därför utformad för att kunna hantera
+betydligt högre biltrafikflöden än de som går där idag, i en mycket
+hög hastighet. Det betyder att leden tar en mycket stor yta i
+anspråk för att tillhandahålla god framkomlighet i hög hastighet i
+mellancentrala delar av staden, för en relativt liten andel av staden
+befolkning. Detta är inte en yteffektiv, hållbar markanvändning.
+
+Om staden ska kunna fortsätta att växa enligt målsättningarna
+behöver staden fortsätta arbeta för både en mer hållbar mobilitet
+och goda stadsmiljöer. Boulevardisering är inte en lämplig åtgärd
+för alla stadens trafikleder, men en omvandling av Dag Hammar-
+skjöldsleden har möjlighet att bidra till både goda stadsmiljöer
+och hållbar mobilitet. Utrymmet som leden upptar behöver då
+ge utrymme för fotgängare och cyklister, samt tillhandahålla mer
+kapacitetsstark kollektivtrafik än idag. Vidare behöver idag oanvän-
+da ytor kompletteras med en funktionsblandad stadsbebyggelse.
+Lokaliseringen av bostäder, verksamheter, handel och service
+har stor påverkan på resbehov och bilanvändande och är den
+långsiktigt mest betydelsefulla åtgärden när det gäller att minska
+transportbehoven och bidra till hållbart resande.
+
+10
+
+Effekten av omvandlingen behöver bli att området får en mindre
+barriäreffekt och istället börja läka samman staden, i synnerhet
 Frölunda och östra Högsbo. På så sätt kan stadsomvandlingen ske
-boulevard. Vidare presenteras begreppet Dag                                                               i linje med budskapet i stadens strategiska dokument; nämligen att
+i linje med budskapet i stadens strategiska dokument; nämligen att
 \-
 Göteborg ska bli en stad som erbjuder ett enklare vardagsliv för fler
-Hammarskjöldstaden och dess innebörd.
 i en nära, sammanhållen och robust stad.
-Uppdraget:   en icke-traditionell
-Bakgrund
-åtgärdsvalsstudie
-Staden är inne i en fas av kraftig befolkningstillväxt och den
-utvecklingen spås fortsätta under lång tid. Idag har staden cirka                                         En omvandling av Dag Hammarskjöldsleden till en boulevard är
-565 000 invånare. År 2035 förväntas invånarantalet ha ökat till cirka                                     en åtgärd som funnits på den politiska dagordningen i Göteborg
-700 000 personer och år 2050 till närmare 800 000 personer. Detta                                         en längre tid. Redan år 2010 beslutade byggnadsnämnden att ge i
-innebär att staden behöver ha en mer effektiv markanvändning,                                             uppdrag åt stadsbyggnadskontoret att sammanställa planerings-
-för att vår gemensamma markreserv ska räcka till och användas på                                          förutsättningar för hur Dag Hammarskjöldsleden kan göras om till
-bästa sätt. Fler bostäder och kommunal service behöver tillkomma                                          en stadsboulevard och hur områdena på bägge sidor kan utvecklas
-och fler resor behöver möjliggöras. Detta samtidigt som staden                                            till blandstad. Detta resulterade i en förstudie, som färdigställdes
-behöver minska sin klimatpåverkan och stadens grönstruktur                                                år 2015. I kommunfullmäktiges budget samma år, nämndes också
-behöver tas omhand på ett sätt som både främjar goda livsmiljöer                                          att ett utredningsarbete skulle påbörjas för en spårväg längs Dag
+
 .
-och ekologisk hållbarhet. För stadens trafiksystem innebär en mer                                 . •     Hammarskjöldsleden. Två år senare kompletterades förstudien
-effektiv markanvändning att befintlig infrastruktur i högre grad                             ----·--I- -
-J.
-\-
-·
-\-
-;
-\- ·
-\:
-'
-i
-från 2015 med en visualisering av hur en hög exploatering runt
-behöver nyttjas för gång-, cykel- och kollektivtrafik – en hållbar                       ..         ..    boulevardens hela sträckning skulle kunna se ut. I denna saknades
-mobilitet. När staden växer med fler invånare blir en motsvarande                             .. I   \~    dock tillräcklig beskrivning av hur bland annat trafikföringen för
+•
+.
+J.·; :i
+----·--I- ----·'
+..         ..
+.. I    \~
 -'• Il
-biltrafiktillväxt vare sig ekologiskt, ekonomiskt eller socialt hållbar.                                  alla trafikslag till, från och genom området ska lösas.
 Röd streckad linje: Åtgärdsvalsstudiens och ge-
-Mot bakgrund av detta har de planerande förvaltningarna i Göte-                   nomförandeplanens geografiska avgränsning. År 2017 gav därför Göteborgs Stads kommunfullmäktige ett upp-
+nomförandeplanens geografiska avgränsning.
 \- Röd heldragen linje: Avgränsning för åtgärder.
-borg sedan flera år tillbaka fått en inriktning från politiken om att                                     drag till trafiknämnden att ”En åtgärdsvalsstudie för Dag Hammar-
-arbeta för en omdaning av Dag Hammarskjöldsleden. Samtidigt                                               skjölds boulevard, gällande både trafiklösning och stadsutveckling,
-ska intilliggande östra Högsbo industriområde omvandlas till                                              ska genomföras”. Resultatet av detta uppdrag är denna åtgärdsvals-
-blandstad.                                                                                                studie. Den här studien är därför inte en åtgärdsvalsstudie i tradi-
-tionell mening, där man rekommenderar lämpliga åtgärder först
-Dag Hammarskjöldsleden utformades under en tid då tillgänglig-
-efter att ha analyserat utgångsläget och prövat tänkbara lösningar.
-heten till staden i huvudsak skulle lösas med god framkomlighet
-I denna studie var istället valet av åtgärd klart när studien påbör-
-för privatbilismen. Leden är därför utformad för att kunna hantera
-jades: nämligen att omvandla Dag Hammarskjöldsleden till boule-
-betydligt högre biltrafikflöden än de som går där idag, i en mycket
-vard. Uppdraget innebär därför istället att pröva förutsättningarna
-hög hastighet. Det betyder att leden tar en mycket stor yta i
-Röd streckad linje: Den fördjupade översikspla- för att omvandla den kommunala Dag Hammarskjöldsleden till
-anspråk för att tillhandahålla god framkomlighet i hög hastighet i                nens geografiska avgränsning - .
-\-                  boulevard, från Järnbrott i söder till Linnéplatsen i norr. Studien
-mellancentrala delar av staden, för en relativt liten andel av stadens
+
+Röd streckad linje: Den fördjupade översikspla-
 \-
-ska således besvara hur leden kan omvandlas till boulevard på ett
-befolkning. Detta är inte en yteffektiv, hållbar markanvändning.
-lämpligt sätt.
-Om staden ska kunna fortsätta att växa enligt målsättningarna
+nens geografiska avgränsning.
+\-
+\-
 \--
+
+Uppdraget:    en icke-traditionell
+
+åtgärdsvalsstudie
+
+En omvandling av Dag Hammarskjöldsleden till en boulevard är
+en åtgärd som funnits på den politiska dagordningen i Göteborg
+en längre tid. Redan år 2010 beslutade byggnadsnämnden att ge i
+uppdrag åt stadsbyggnadskontoret att sammanställa planerings-
+förutsättningar för hur Dag Hammarskjöldsleden kan göras om till
+en stadsboulevard och hur områdena på bägge sidor kan utvecklas
+till blandstad. Detta resulterade i en förstudie, som färdigställdes
+år 2015. I kommunfullmäktiges budget samma år, nämndes också
+att ett utredningsarbete skulle påbörjas för en spårväg längs Dag
+Hammarskjöldsleden. Två år senare kompletterades förstudien
+från 2015 med en visualisering av hur en hög exploatering runt
+boulevardens hela sträckning skulle kunna se ut. I denna saknades
+dock tillräcklig beskrivning av hur bland annat trafikföringen för
+alla trafikslag till, från och genom området ska lösas.
+År 2017 gav därför Göteborgs Stads kommunfullmäktige ett upp-
+drag till trafiknämnden att ”En åtgärdsvalsstudie för Dag Hammar-
+skjölds boulevard, gällande både trafiklösning och stadsutveckling,
+ska genomföras”. Resultatet av detta uppdrag är denna åtgärdsvals-
+studie. Den här studien är därför inte en åtgärdsvalsstudie i tradi-
+tionell mening, där man rekommenderar lämpliga åtgärder först
+
+efter att ha analyserat utgångsläget och prövat tänkbara lösningar.
+I denna studie var istället valet av åtgärd klart när studien påbör-
+jades: nämligen att omvandla Dag Hammarskjöldsleden till boule-
+vard. Uppdraget innebär därför istället att pröva förutsättningarna
+för att omvandla den kommunala Dag Hammarskjöldsleden till
+boulevard, från Järnbrott i söder till Linnéplatsen i norr. Studien
+ska således besvara hur leden kan omvandlas till boulevard på ett
+lämpligt sätt.
 Som grund för vad som kan anses vara en lämplig omvandling,
-behöver staden fortsätta arbeta för både en mer hållbar mobilitet
 har denna studie utgått ifrån om och isåfall hur omvandlingen kan
-och goda stadsmiljöer. Boulevardisering är inte en lämplig åtgärd
 bidra till en hållbar mobilitet och goda stadsmiljöer. Av uppdrags-
-för alla stadens trafikleder, men en omvandling av Dag Hammar-
 formuleringen kan man utläsa att det finns en vilja att en boulevar-
-skjöldsleden har möjlighet att bidra till både goda stadsmiljöer
 domvandling ska kombineras med stadsutveckling i stråket. Därför
-och hållbar mobilitet. Utrymmet som leden upptar behöver då
 har det varit viktigt att studien fokuserat på hur en boulevardom-
-ge utrymme för fotgängare och cyklister, samt tillhandahålla mer
 vandling kan skapa förutsättningar för goda stadsmiljöer. Det är
-kapacitetsstark kollektivtrafik än idag. Vidare behöver idag oanvän-
 också nödvändigt att fokusera på hur en boulevardomvandling
-da ytor kompletteras med en funktionsblandad stadsbebyggelse.
 kan skapa förutsättningar att bidra till en hållbar mobilitet. Detta
-Lokaliseringen av bostäder, verksamheter, handel och service
 då leden är ett av stadens viktigaste kommunikationsstråk idag och
-har stor påverkan på resbehov och bilanvändande och är den
 trafiksystemet i högre grad behöver bidra till att staden kan utveck-
-långsiktigt mest betydelsefulla åtgärden när det gäller att minska
 las i mer ekonomiskt, ekologiskt och socialt hållbar riktning.
-transportbehoven och bidra till hållbart resande.
+
 ..
+
 Bildkälla: Stadsbyggnadskontoret, Göteborgs
 Stad
-10                                                                                                                                                           11
+11
 
 <!-- sida 131 -->
 
-Uppdrag i samverkan                                                                                        • att utvärdera i vilken utsträckning en omdaning till boulevard
-i detta stråk bidrar till hållbar mobilitet och goda stadsmiljöer.
+Uppdrag i samverkan
+
 Genomförandet av denna åtgärdsvalsstudie är ett uppdrag som
 ska ske i samverkan med byggnadsnämnden, fastighetsnämnden
-och park- och naturnämnden, i en förvaltningsövergripande                                                 Läsanvisning
+och park- och naturnämnden, i en förvaltningsövergripande
 organisation. Denna arbetsgrupp har haft i uppdrag att utifrån ett
-stadsbyggnadsmässigt helhetsperspektiv ta fram:                                                           Denna rapport är upplagd på följande sätt:
-• ett förslag till en gemensam målbild                                                                    • Del 1 - Varför boulevard? Just på denna plats?
-I denna del ges en bakgrund till varför en boulevard utreds
+stadsbyggnadsmässigt helhetsperspektiv ta fram:
+• ett förslag till en gemensam målbild
+
 • en åtgärdsvalsstudie (ÅVS) för Dag Hammarskjölds boulevard
-i Dag Hammarskjöldsledens stråk. Avsnittet presenterar
-• en fördjupad översiktsplan (FÖP) för Högsbo-Frölunda med                                                  motiven till en boulevardisering och tillhörande utbyggnad av
-Dag Hammarskjöldsleden                                                                                    kollektivtrafiken i stadens olika strategiska dokument
-• en genomförandeplan för områdets utveckling                                                             • Del 2 - Utgångspunkter för en omvandling av Dag Hammar-
-skjöldsleden
+• en fördjupad översiktsplan (FÖP) för Högsbo-Frölunda med
+Dag Hammarskjöldsleden
+
+• en genomförandeplan för områdets utveckling
 Detta innebär att det finns tre leveranser som alla har betydelse för
-I kapitel 2.1. redovisas en överblick över de viktigaste förut-
 omvandlingen av Dag Hammarskjöldsleden: en åtgärdsvalsstudie,
-sättningarna för att omvandla leden till en boulevard. I det
 en fördjupad översiktsplan och en genomförandeplan. Leveranser-
-efterföljande kapitlet diskuteras kollektivtrafiksystemets
 na har olika politisk dignitet men stöttar varandra i förståelsen av
-kapacitet och begränsning, samt vad det innebär för stads-
 vad stadsomvandlingen i detta område ska uppnå och hur den ska
-utvecklingen i Göteborg. Kollektivtrafiksystemets kapacitet
 gå till. Delprojekten har olika geografisk avgränsning.
-ställer staden inför viktiga vägval. I kapitel 2.3. presenteras hur
-vägvalen påverkar den stadsbyggnadsidé som finns för Dag
+
 Dialog med parter utanför stadens organisation
-Hammarskjöldstaden.
-Under studien har en samverkan genoförts med andra parter,                                                 • Del 3 - Vad är en lämplig utformning av Dag Hammarskjölds
+Under studien har en samverkan genoförts med andra parter,
 utanför stadens organisation. Göteborgs Stad har under åren 2019-
-boulevard?
-2020 medverkat i en av statens offentliga utredningar ”Samordning                                            I kapitel 3.1. redovisas det innehåll och de funktioner som
-för byggande” som drivits av finansdepartementet. Staden har                                                 eftersträvas med den framtida boulevarden. I det efterföl-
-medverkat med den fördjupade översiktsplanen Högsbo-Frölunda,                                                jande kapitlet beskrivs en möjlig utformning av Dag Ham-
-och omvandlingen av Dag Hammarskjöldsleden till boulevard,                                                   marskjölds boulevard. Förslaget som presenteras är inte den
-som aktuellt planeringsprojekt. I utredningen har en arena för                                               enda möjliga utformningen. Men det har bedömts vara den
-dialog etablerats där Trafikverket, Västra Götalandsregionen,                                                mest lämpliga utformningen efter analys av funktionerna
-Länsstyrelsen, Västtrafik och Göteborgs Stad haft en kontinuerlig                                            som eftersträvas, samt flera viktiga genomförandeaspekter:
-dialogprocess under två års tid. I de dialogerna har trafikfrågor och                                        till exempel höjdsättning, befintliga ledningar, skyfalls- och
-infrastruktur varit ett helt centralt tema, där omvandlingen till bou-                                       dagvattenhantering, intilliggande stadsutveckling samt kapa-
-levard varit en tydlig fokuspunkt med dess påverkan på omgivande                                             citeten i kollektiv- och biltrafiksystemet. I kapitel 3.3. redovisas
-transportsystem. Arbetet har resulterat i en avsiktsförklaring som                                           sedan konsekvenserna av boulevardförslaget. I kapitel 3.4. ges
-beskriver de gemensamma intentionerna för den framtida utveck-                                               en kort presentation av de utformningsalternativ för boulevar-
-lingen av området Högsbo-Frölunda.                                                                           den som har valts bort av olika anledningar.
-Vid sidan av nämnda dialog har denna åtgärdsvalsstudie genom-                                              • Del 4 - Vägen framåt
-fört en mötesserie med representanter för Västra Götalandsre-                                                Denna del inleds med ett kapitel om genomförande. Här
-gionen och Västtrafik under åren 2019-2020. Detta med syftet                                                 diskuteras bland annat en lämplig etappindelning och
-att genomföra en fördjupad dialog om kollektivtrafikfrågor och                                               utbyggnadsordning, tillsammans med genomförda kost-
-infrastruktur.                                                                                               nadsberäkningar. I kapitel 4.2. diskuteras sedan en översiktlig
-riskanalys, samt hur vissa av dessa risker kan hanteras. Avslut-
-ningsvis redovisas de övergripande slutsatser som har dragits
+2020 medverkat i en av statens offentliga utredningar ”Samordning
+för byggande” som drivits av finansdepartementet. Staden har
+medverkat med den fördjupade översiktsplanen Högsbo-Frölunda,
+och omvandlingen av Dag Hammarskjöldsleden till boulevard,
+som aktuellt planeringsprojekt. I utredningen har en arena för
+dialog etablerats där Trafikverket, Västra Götalandsregionen,
+Länsstyrelsen, Västtrafik och Göteborgs Stad haft en kontinuerlig
+dialogprocess under två års tid. I de dialogerna har trafikfrågor och
+infrastruktur varit ett helt centralt tema, där omvandlingen till bou-
+levard varit en tydlig fokuspunkt med dess påverkan på omgivande
+transportsystem. Arbetet har resulterat i en avsiktsförklaring som
+beskriver de gemensamma intentionerna för den framtida utveck-
+lingen av området Högsbo-Frölunda.
+
+Vid sidan av nämnda dialog har denna åtgärdsvalsstudie genom-
+fört en mötesserie med representanter för Västra Götalandsre-
+gionen och Västtrafik under åren 2019-2020. Detta med syftet
+att genomföra en fördjupad dialog om kollektivtrafikfrågor och
+infrastruktur.
+
 Syfte
-inom arbetet med studien, samt det fortsatta arbete som
-ligger närmast i tiden vid en eventuell fortsatt planering av en
+
 Mot bakgrund av ovanstående resonemang är syftet med genom-
-boulevardomvandling av Dag Hammarskjöldsleden.
 förandet av denna åtgärdsvalsstudie:
 • att ta fram en studie som visar vilka åtgärder som krävs för
 att åstadkomma en boulevard i Dag Hammarskjöldsledens
 sträckning, där både trafiklösningar och stadsutveckling har
 hanterats.
-12                                                                                                                                                           13
+
+12
+
+• att utvärdera i vilken utsträckning en omdaning till boulevard
+i detta stråk bidrar till hållbar mobilitet och goda stadsmiljöer.
+
+Läsanvisning
+
+Denna rapport är upplagd på följande sätt:
+• Del 1 - Varför boulevard? Just på denna plats?
+I denna del ges en bakgrund till varför en boulevard utreds
+i Dag Hammarskjöldsledens stråk. Avsnittet presenterar
+motiven till en boulevardisering och tillhörande utbyggnad av
+kollektivtrafiken i stadens olika strategiska dokument
+
+• Del 2 - Utgångspunkter för en omvandling av Dag Hammar-
+skjöldsleden
+I kapitel 2.1. redovisas en överblick över de viktigaste förut-
+sättningarna för att omvandla leden till en boulevard. I det
+efterföljande kapitlet diskuteras kollektivtrafiksystemets
+kapacitet och begränsning, samt vad det innebär för stads-
+utvecklingen i Göteborg. Kollektivtrafiksystemets kapacitet
+ställer staden inför viktiga vägval. I kapitel 2.3. presenteras hur
+vägvalen påverkar den stadsbyggnadsidé som finns för Dag
+Hammarskjöldstaden.
+• Del 3 - Vad är en lämplig utformning av Dag Hammarskjölds
+boulevard?
+I kapitel 3.1. redovisas det innehåll och de funktioner som
+eftersträvas med den framtida boulevarden. I det efterföl-
+jande kapitlet beskrivs en möjlig utformning av Dag Ham-
+marskjölds boulevard. Förslaget som presenteras är inte den
+enda möjliga utformningen. Men det har bedömts vara den
+mest lämpliga utformningen efter analys av funktionerna
+som eftersträvas, samt flera viktiga genomförandeaspekter:
+till exempel höjdsättning, befintliga ledningar, skyfalls- och
+dagvattenhantering, intilliggande stadsutveckling samt kapa-
+citeten i kollektiv- och biltrafiksystemet. I kapitel 3.3. redovisas
+sedan konsekvenserna av boulevardförslaget. I kapitel 3.4. ges
+
+en kort presentation av de utformningsalternativ för boulevar-
+den som har valts bort av olika anledningar.
+• Del 4 - Vägen framåt
+Denna del inleds med ett kapitel om genomförande. Här
+diskuteras bland annat en lämplig etappindelning och
+utbyggnadsordning, tillsammans med genomförda kost-
+nadsberäkningar. I kapitel 4.2. diskuteras sedan en översiktlig
+riskanalys, samt hur vissa av dessa risker kan hanteras. Avslut-
+ningsvis redovisas de övergripande slutsatser som har dragits
+inom arbetet med studien, samt det fortsatta arbete som
+ligger närmast i tiden vid en eventuell fortsatt planering av en
+boulevardomvandling av Dag Hammarskjöldsleden.
+
+13
 
 <!-- sida 132 -->
 
@@ -5411,148 +5555,159 @@ en målbild som utvecklas
 Målbilden består inledningsvis av en illustration med strategiska frågeställ-
 ningar som behöver besvaras i projketet. Målbilden kommer efter hand
 utvecklas och ge svar på frågorna. Svaren kommer visa hur Göteborg Stad
-planerar för en fortsatt utveckling av Dag Hammarskjöldstaden.
-1\. Kan fler ges tillgång och
+planerar för en fortsatt utveckling av Dag Hammarskjöldstaden.       3. Kan Axel Dahlströms
+2\. Kan den västra sidan av torg göras tillgängligt för
+1\. Kan fler ges tillgång och dalgången kompletteras flera?
+med ytterligare bostäder?
 närhet till kusten?
-Frölunda torg     Ru 6 d .Hu d r k a an l t e illg n änglighet för                              ST K A V D A B S O R G T U A E L R T E A S V G A A R T D A V O s b o o r m a d u e l d e b t v e b a t o ä r y d u d r e l e e r r v e o v a c a r n h d ll . t k B r b o ä e m d g o p r m e la u p e n r p t l f e e e r t å r a n b v d o d e a u e p l n r e r v d o n a m e r ? d d e e n k r a o lä d p n s p d t l r a s å k s k a o i o f ä t r l a d d t e r i e l t l ” s P b t a a o r d i l s w s d e e r l c a ” r .
 
-fotgängare och cyklister
-säkerställas?                                                                            Historiskt skapades boulevarder när städernas befästningsvallar
-revs och omvandlades till promenadstråk. Flera av dessa anlades 5 .Hur ska
-fordonstrafikens 11. Hur ska bebyggelse                                                           dock tvärs igenom befintliga kvarter och föregicks av omfattande 4. Hur ska upplevda framkomlighet utformas? och platser med fina barriärer överbryggas? n kvalitéer nyttjas, var rivning. Efterhand har sedan bebyggelsen utmed dessa boule-
-a        behövs nya tillägg? t                                                               varder förtätats, varpå boulevarderna blivit delar av ett större a
-g                                                                                             sammanhang. 9. Hur ska befintliga grönytor i 10. Hur löses parkeringen
-nyttjas? Kan grönområden n i området när mark-
-k s n a y m ta m s a s n a h m än m g a a n n d ti e ll g s r tr ö å n k a ? c o p a a n r n k a e t r ä in n g d s a y m to å r l a ? nvänds för I dag har begreppet boulevard utvidgats till att beskriva en bred
-r a                                                                                            trädplanterad huvudgata i större städer, ofta med stora trafikflö-
-M                                                                          B
-15\. Hur ska öst-västliga                                               O                    den. Omvandling av trafikleder är form av boulevardisering som U
-Dag Hammarskjölds s u
+axel Dahl-
+7\. Hur säkerställer vi
+Frölunda torg     Ruddalen              u fö tb rs y k g o g lo n r a o d c e h n ö a v v r i s g k olor, ströms torg
+kommunal service?
+
+8\. Hur ska parker,
+6 .Hur kan tillgänglighet för rekreationsområden och
+fotgängare och cyklister     utbildningslokaler placeras
+säkerställas?                i området så att de
+t   fungerar alla tider på året
+5 .Hur ska                         u  och dygnet?
+n
+fordonstrafikens 11. Hur ska bebyggelse n
+4 b . a H rri u ä r r e s r k a ö v u e p r p b l r e y v g d g a a s? framkomlighet u n tformas? o kv c a h l i p té la e t r s n e y r t m tja e s d , fi v n a a r la n 1 M 4 a . r H kl u a r n d sk s a g atan utvecklas?
+a t a    behövs nya tillägg? 1 lo 2 k . a K la a t n o r a g n d le r v a a m u i p n p d , r e d s g 1 k u o 3 tf l . o l e r H m kt u i a v r s t r k a g a fi e n k n a o p t m l t a ra , n k t e i t l r l i v a o s c h o ch Marklands-
+9\. Hur ska befintliga grönytor i g 10. Hur löses parkeringen behövs nya torg? a t a från området? gatan
+nyttjas? Kan grönområden n i området när mark-   n
+knytas samman till gröna o parkeringsytor används för
+sammanhängande stråk? c annat ändamål?
+a r                                                18. Kan innerstaden växa
+M                                                  mot söder?
+15\. Hur ska öst-västliga 16. Var finns 17. Vilken roll spelar
+stråk förläggas och     förutsättningar för den
+Dag
+Hammarskjölds u
 a
-t t
 t
-r f
 t
-å o
-ra
-k rm
-k
 f
 t
-ö
-i
+o
+ra
+rm
+kti
 a
 v
-r s
+s
 a
-lä s
+s
 o
-g å
-c
-g
-h
-a a s t
+å
+c h
+a t
 k
 t
 o
-o d
+d
 p
-c e
+e
 p
-h b
-l a
+b
+la
 li
 r
-r                                                               L E
-V A
+r                b
+b
+e
+e
+f
 h
-så
-a
-l
+o
+ö
+lk
+v
+n
+s
+i n
+fö
+g
 r
+s
+a
+tä
+tt
+t h
+lo
+e
+k
+t
+a
+s
+l
+o
+s
+m
+er vice
+d
+i
+H
+d
+e
+a
 e
 t
-d
-il
-e
-lk
-s
+m
+n
+n
+m
 o
 fr
-m
-ån
-m
-e
-it
-t t
-u
-b
-n
-e
-d
-fi
-e
-n
 r
-t
+a
+a
+d
+r
+m
+\-
 s
+s
+k
+t
+y
+i
+j
+d
+d
+ö
+a
 l
-e
-ig
-n
+l
+i
+d
+g
+D
+s
+a
 t
 a
+a
+s
 g
-re
-a t
 d
-u
+tr
 e
-ru
-le
-m
-n a
-o
-v
-c h
-1 9
-s
-0
-y
-0
-ft
-\-
-e
-t
-t
-a l
-m
-et
-e
-.
-d
-D e
-o
-s
-m
-sa
-v a
-u
-n
-tg
-d
 å
-li
-r
-n gen
-samman dalgångens boulevard                                             R
-stadsdelar?                                                             D                   är oftast att man vill minska biltrafikens miljöpåverkan och skapa
-Boulevarder ingår i ett nät av olika gatutyper.
-19\. Ska verksamheter
-med tunga transporter och                                                                                       stadsmiljöer som ökar stadens eller stadsdelens attraktivitet för
+n
+k
+?
+et
+samman dalgångens bboouulleevvaarrdd och lokalt stadsliv ska 23. Hur kan tillgängligheten
+stadsdelar?             uppstå?                 till park- och grönområden
+19\. Ska verksamheter                                                som Botaniska,
+med tunga transporter och                                           Ängårdsbergen och
 21\. Hur ska Dag
-bostäder blandas söder om 20. Hur ska befintliga Hammarskjöldsleden se ut?                                      boende och verksamheter. I många fall är också förbättrad kollek- Otto Elanders gata? handels- och
-verksamhetsområden nås?                                                                            tivtrafik i form av spårväg ett viktigt skäl till omdaning, där spårtra-
+bostäder blandas söder om 20. Hur ska befintliga Hammarskjöldsleden se ut? 22. Kan dagvatten från Slottskogen förbättras?
+Otto Elanders gata? handels- och                        dalgången runt Dag
+verksamhetsområden nås?                   Hammarskjölddalgångens
 O d h
 ner s
 ga
@@ -5596,153 +5751,117 @@ t
 r
 t ?
 att
-DDaagg HHaaMMMMaaRRsskkjjÖÖLLDDssttaaDDeenn
-fi
-B
-k
-o
-e
-u
-n
-le
-t
-v
+DDaagg HHaaMMMMaa
+synli
+RR
+ggöra
+ss
+s i s
+kk
+tadsb
+jj
+ilden
+ÖÖ
+?
+LLDDssttaaDDeenn
 a
-a
-r
-r
-ö
-d
-v
-e
-e
-r
-r
-s
-e
-o
-n
-m
-d
-i
-e
-n
-l
-g
-a
-å
-v
-r
-b
-i s
-il
-t
-t
-a
-r
-d
-afi
-su
-ke
-tv
-n
-e
-s
-c
-f
-k
-u
-l
-n
-in
-k
-g
-t
-s
-io
-p
-n
-ro
-.
-jekt är en annan
-a
-form av nutida boulevardisering. Dessa boulevarder är oftast inte
--- ssttrraatteeggiisskkaa ffrrååggeessttäällllnniinnggaarr iinnfföörr ffoorrttssaatttt aarrbbeettee bundna till ett befintligt gaturum och kan utformas med större
+-- ssttrraatteeggiisskkaa ffrrååggeessttäällllnniinnggaarr iinnfföörr ffoorrttssaatttt aarrbbeettee
+
+Det  gemensamma       projektet Dag
+
+Hammarskjöldstaden
+
+I den gemensamma arbetsgruppen för denna åtgärdsvalsstudie,
+genomförandeplanen och den fördjupade översiktsplanen, såg vi
+tidigt att vi eftersträvar samma värden med boulevardomvandling-
+en, som när vi bygger stad. Då uppstod begreppet Dag Hammar-
+skjöldstaden.
+
 Till Dag Hammarskjöldstaden hör också
-frihet tillsammans med omgivande bebyggelse. Dessa boulevarder
-Det gemensamma       projektet  Dag        en målbild - ett dokument som togs fram i
-är ofta breda då dagens stadsplanering ställer krav på ytor för flera
+en målbild - ett dokument som togs fram i
 inledningsfasen av detta projekt. Inledningsvis
-Hammarskjöldstaden                         bestod den av denna illustration med strate-                   olika ändamål såsom trafik, vistelse och grönska. I vissa fall kan
+bestod den av denna illustration med strate-
 giska frågeställningar som behövde besvaras
-omdaningen av en befintlig trafikled utgöra stommen i ett stadsut-
 i projektet. Svaren på frågorna har vuxit fram
-I den gemensamma arbetsgruppen för denna åtgärdsvalsstudie,                                               vecklingsprojekt.
 under projektet och visar hur Göteborgs Stad
-genomförandeplanen och den fördjupade översiktsplanen, såg vi planerar för en fortsatt utveckling av Dag
-tidigt att vi eftersträvar samma värden med boulevardomvandling- Hammarskjöldstaden.                      Boulevarder kan ha både tekniska, ekonomiska, sociala och eko-
-en, som när vi bygger stad. Då uppstod begreppet Dag Hammar-                                              logiska funktioner. En teknisk funktion är att de kan strukturera
-skjöldstaden.                                                                                             flöden av trafik och infrastruktur i staden. Det finns dock ingen
-entydig definition av vad boulevard är för typ av gata, men The
-Defintionen av begreppet håller fortfarande på att förfinas. I                                            Boulevard Book: History, Evolution, Design of Multiway Boulevards1
-nuläget används det i princip för all pågående planering som rör                                          kategoriserar följande typer:
+planerar för en fortsatt utveckling av Dag
+Hammarskjöldstaden.
+
+Defintionen av begreppet håller fortfarande på att förfinas. I
+nuläget används det i princip för all pågående planering som rör
 boulevardomvandlingen och den tillhörande stadsutveckling som
-föreslås ske längs boulevarden och i östra Högsbo, från Marklands-                                         • ”Boulevard street” – Den enklaste formen av boulevard består
-platsen till Radiomotet/Järnbrottsmotet. Detta är ytor som idag                                              av en bred central körbana med breda trädkantade gångba-
-används för trafikändamål, verksamheter, markparkering och                                                   nor på varje sida.
+föreslås ske längs boulevarden och i östra Högsbo, från Marklands-
+platsen till Radiomotet/Järnbrottsmotet. Detta är ytor som idag
+används för trafikändamål, verksamheter, markparkering och
 impediment. Här finns en mycket stor stadsutvecklingspotential,
 samtidigt som befintligt verksamhetsområde i östra Högsbo fyller
 en viktig funktion i att erbjuda arbetstillfällen för stadens invånare.
+
 Det övergripande målet som har formulerats för Dag Hammar-
 skjöldstaden är:
+
 ”Dag Hammarskjöldstaden är en grön och tät blandstad som består av
 sammanbundna stadsdelar utan upplevda barriärer. Dag Hammar-
 skjöldstadens identitet grundas i existerande områdens karaktär och ny
 bebyggelse formas efter dalgångens förutsättningar.”
-Denna målformulering redovisades för Byggnadsnämnden,                                                     ”Boulevard street” (stadsgata, 30-40 meter)
+
+Denna målformulering redovisades för Byggnadsnämnden,
 Trafiknämnden, Fastighetsnämnden och Park- och naturnämnden
-under våren 2018.                                                                                         1 Jacobs, Allan B.; Macdonald, Elizabeth och Rofé, Yodan. 2002. The Boulevard
+under våren 2018.
+
+14
+
+ST K A V D A B S O R G T U A E L R T E A S V G A A R T D A V O s b o o r m a d u e l d e b t v e b a t o ä r y d u d r e l e e r r v e o v a c a r n h d ll . t k B r b o ä e m d g o p r m e la u p e n r p t l f e e e r t å r a n b v d o d e a u e p l n r e r v d o n a m e r ? d d e e n k r a o lä d p n s p d t l r a s å k s k a o i o f ä t r l a d d t e r i e l t l ” s P b t a a o r d i l s w s d e e r l c a ” r .
+
+Historiskt skapades boulevarder när städernas befästningsvallar
+revs och omvandlades till promenadstråk. Flera av dessa anlades
+dock tvärs igenom befintliga kvarter och föregicks av omfattande
+rivning. Efterhand har sedan bebyggelsen utmed dessa boule-
+varder förtätats, varpå boulevarderna blivit delar av ett större
+sammanhang.
+
+I dag har begreppet boulevard utvidgats till att beskriva en bred
+trädplanterad huvudgata i större städer, ofta med stora trafikflö-
+B
+O                   den. Omvandling av trafikleder är form av boulevardisering som
+U
+L E                 har tillkommit under senare delen av 1900-talet. Dessa utgår
+V
+A                   således från ett befintligt gaturum och syftet med omvandlingen
+R
+D                   är oftast att man vill minska biltrafikens miljöpåverkan och skapa
+Boulevarder ingår i ett nät av olika gatutyper.
+stadsmiljöer som ökar stadens eller stadsdelens attraktivitet för
+boende och verksamheter. I många fall är också förbättrad kollek-
+tivtrafik i form av spårväg ett viktigt skäl till omdaning, där spårtra-
+fiken tar över en del av biltrafikens funktion.
+Boulevarder som ingår i stadsutvecklingsprojekt är en annan
+form av nutida boulevardisering. Dessa boulevarder är oftast inte
+bundna till ett befintligt gaturum och kan utformas med större
+frihet tillsammans med omgivande bebyggelse. Dessa boulevarder
+är ofta breda då dagens stadsplanering ställer krav på ytor för flera
+olika ändamål såsom trafik, vistelse och grönska. I vissa fall kan
+omdaningen av en befintlig trafikled utgöra stommen i ett stadsut-
+vecklingsprojekt.
+Boulevarder kan ha både tekniska, ekonomiska, sociala och eko-
+logiska funktioner. En teknisk funktion är att de kan strukturera
+flöden av trafik och infrastruktur i staden. Det finns dock ingen
+entydig definition av vad boulevard är för typ av gata, men The
+Boulevard Book: History, Evolution, Design of Multiway Boulevards1
+kategoriserar följande typer:
+• ”Boulevard street” – Den enklaste formen av boulevard består
+av en bred central körbana med breda trädkantade gångba-
+nor på varje sida.
+
+”Boulevard street” (stadsgata, 30-40 meter)
+
+1 Jacobs, Allan B.; Macdonald, Elizabeth och Rofé, Yodan. 2002. The Boulevard
 Book: History, Evolution, Design of Multiway Boulevards. The MIT Press.
-nedatsdlöjksrammaH
-gaD
-\- 405081
-tpecnoK
-.noisiv
-hco
-dliblåM
-terotnokkfiarT
-& terotnoksdanggybsdatS
-,negnintlavröfrutan
-hco
--kraP
-,terotnokstehgitsaF
-3\. Kan Axel Dahlströms
-2\. Kan den västra sidan av torg göras tillgängligt för
-dalgången kompletteras flera?
-med ytterligare bostäder?
-axel Dahl- 7. Hur säkerställer vi utbyggnaden av skolor, förskolor och övrig ströms torg kommunal service? 8. Hur ska parker, rekreationsområden och
-utbildningslokaler placeras
-i området så att de
-t   fungerar alla tider på året
-u   och dygnet?
-n
-n la                1 M 4 a . r H kl u a r n d sk s a g atan utvecklas? n
-d     13. Hur kan attraktiv 1 lo 2 k . a K la a t n o r a g n d le r v a a m u i p n p d , r e s g k u o tf l o le rm kti a v s tr a g fi e k n o p m la , n t e il r l a o s c h o ch Marklands-
-behövs nya torg? a t från området? gatan a
-n
-18\. Kan innerstaden växa
-mot söder?
-16\. Var finns 17. Vilken roll spelar
-förutsättningar för den det nord-sydliga stråket befolkningstäthet som
-i den framtida Dag behövs för att lokal service Hammarskjöldstaden?
-boulevard     och lokalt stadsliv ska 23. Hur kan tillgängligheten
-uppstå?                 till park- och grönområden
-som Botaniska,
-Ängårdsbergen och
-Slottskogen förbättras? 22. Kan dagvatten från dalgången runt Dag
-Hammarskjölddalgångens
-synliggöras i stadsbilden?
-14                                                                                                                                                           15
+15
+
+Målbild och vision. Koncept 180504 - Dag Hammarskjöldstaden
+
+Fastighetskontoret, Park- och naturförvaltningen, Stadsbyggnadskontoret & Trafikkontoret
 
 <!-- sida 133 -->
 
@@ -5783,189 +5902,202 @@ på       denna              plats?
 
 <!-- sida 135 -->
 
-I denna del presenteras motiven som stadens olika                                                         leden till en boulevard med spårväg för att bryta den barriär som
-ÖVERSIKTSPLAN  \~ \~ S G t ö a t d e borgs             ANGERED C leden utgör idag och istället säkerställa att den nytillkomna blandade
+I denna del presenteras motiven som stadens olika
 strategiska dokument ger till en boulevardisering
+
+av Dag Hammarskjödsleden, med tillhörande
+kollektivtrafikutbyggnad.
+
+Vad  säger stadens   översiktsplan?
+
+I stadens nya översiktsplan, som förväntas bli antagen under år
+2022, anges att Göteborgs fortsatta utbyggnad framför allt ska ske
+inom det sammanhängande stadsområdet. Utbyggnadsstrategin
+pekar på att staden har potential att växa genom att bland annat
+omvandla överdimensionerad infrastruktur och tidigare industri-
+områden, i kombination med förtätning i redan byggda stadsdelar.
+Med strategin tas också ett första steg mot en flerkärning struktur,
+genom satsningar på att utveckla tyngdpunkter i mellanstaden och
+att låta innerstaden växa.
+
+Den nya översiktsplanen behöver skapa förutsättningar för att
+bygga ut cirka 120 000 nya bostäder och tillhörande samhällsser-
+vice, då befolkningen väntas växa med 250 000 nya invånare till
+år 2050. En klar majoritet av alla nya bostäder föreslås tillkomma
+i mellanstaden, vilket är den typ av stadsområde som Dag Ham-
+marskjöldsledens omgivning räknas till. Mellanstaden är särskilt
+intressant med tanke på dess närhet till centrum, vilket både ger en
+god tillgänglighet till centrala staden och goda förutsättningar att
+skapa hållbara resmönster.
+
+I översiktsplanen har man sett att det finns en större utbygg-
+nadskapacitet i sydvästra Göteborg, jämfört med i övriga delar av
+mellanstaden. Detta uppges bland annat vara kopplat till en om-
+vandling av Högsbos industriområde till mer blandad bebyggelse.
+
+Den  fördjupade   översiktsplanen
+visar vägen
+
+Den nya översiktsplanen har två fördjupningar, varav en omfattar
+Högsbo och Frölunda med Dag Hammarskjöldsleden. I det poli-
+tiska uppdraget som gavs från kommunfullmäktige år 2017 om
+att ta fram den fördjupade översiktsplanen, angavs att arbetet
+särskilt skulle pröva en omvandling av Dag Hammarskjöldsleden
+till boulevard. Dessutom skulle planen stödja genomförandet av
+Målbild Koll2035.
+
+Fördjupningen bygger vidare på den kommunövergripande
+planens inriktning och har som utgångspunkt att möjliggöra en
+fortsatt bebyggelseutveckling. Nästan all utbyggnadskapacitet i
+sydvästra Göteborg ligger inom den fördjupade översiktsplanens
+område. I planen framhålls att en viktig ambition är att:
+
+”låta den sammanhållna, blandade stadsbebyggelsen växa, genom att
+omvandla delar av Högsbo industriområde till blandad stadsbebyggelse.
+Detta förutsätter då en samtidig förändring av Dag Hammarskjölds-
+
+20
+
+leden till en boulevard med spårväg för att bryta den barriär som
+ÖVERSIKTSPLAN  \~ \~ S G t ö a t d e borgs             ANGERED C leden utgör idag och istället säkerställa att den nytillkomna blandade
 FÖR GÖTEBORG                                                  stadsbebyggelsen verkligen får förutsättningar att på ett sammanhållet
 RYMDTORGET
-av Dag Hammarskjödsleden, med tillhörande   Samrådshandling december 2018                SELMA LAGERLÖFS TORG vis knytas samman med den redan befintliga bebyggelsen i Frölunda,
+Samrådshandling december 2018                SELMA LAGERLÖFS TORG vis knytas samman med den redan befintliga bebyggelsen i Frölunda,
 PARTILLE C
 BACKAP B L R A U N NNSBO GGAAMMLLEESSTTAADDEENN Högsbo, Järnbrott, Flatås och andra angränsande områden.”
-kollektivtrafikutbyggnad.                                                            SÖRRED WIESELGRENSPLATSEN VVAALLLLHHAAMMRRAA
+SÖRRED WIESELGRENSPLATSEN VVAALLLLHHAAMMRRAA
 VVÅÅRRVVÄÄDDEERRSSTTOORRGGEETT LLIINNDDHHOOLLMMEENN ÖÖ.. SSJJUUKKHHUUSSEETT (Fördjupad översiktsplan för Högsbo-Frölunda med Dag Hammar-
 HAGA KORSVÄGEN
 sköljdsleden)
 I
 MARKLANDSGATAN
 F TO RÖ RG LU NDA MÖLNDALS STADSKÄRNA Ett förverkligande av planförslaget i den fördjupade översiktspla-
-Vad säger  stadens  översiktsplan?                                                           ÅBRO
+ÅBRO
 nen bygger därför på att Dag Hammarskjöldsleden omvandlas till
 boulevard. Vidare anger planförslaget att det, söder om Marklands-
-I stadens nya översiktsplan, som förväntas bli antagen under år                    Målbild Koll2035
+Målbild Koll2035
 platsen, finns goda möjligheter att skapa en boulevard som kantas
-2022, anges att Göteborgs fortsatta utbyggnad framför allt ska ske
 Kollektivtrafikprogram för stomnätet
 av bebyggelse på bägge sidor i form av en rutnätsstad.
-inom det sammanhängande stadsområdet. Utbyggnadsstrategin                          i Göteborg, Mölndal och Partille
-pekar på att staden har potential att växa genom att bland annat                   April 2018. Antaget av Västra Götalandsregionen, Göteborgs Stad,
+i Göteborg, Mölndal och Partille
+April 2018. Antaget av Västra Götalandsregionen, Göteborgs Stad,
 Mölndals stad och Partille kommun.
-omvandla överdimensionerad infrastruktur och tidigare industri-
-områden, i kombination med förtätning i redan byggda stadsdelar.
-Med strategin tas också ett första steg mot en flerkärning struktur,
-genom satsningar på att utveckla tyngdpunkter i mellanstaden och Samrådshandlingen för den nya översiktspla-
+
+Samrådshandlingen för den nya översiktspla-
 nen. Den färdiga planen blir en digital produkt.
-att låta innerstaden växa.                                                         MÅLBILD KOLL 2035
-Den nya översiktsplanen behöver skapa förutsättningar för att                      Västra Götalandsregionen, Västtra-
-bygga ut cirka 120 000 nya bostäder och tillhörande samhällsser-                   fik, Göteborgs Stad, Mölndals stad
-vice, då befolkningen väntas växa med 250 000 nya invånare till                    och Partille kommun har tagit fram
-år 2050. En klar majoritet av alla nya bostäder föreslås tillkomma                 en gemensam målbild - Målbild
-i mellanstaden, vilket är den typ av stadsområde som Dag Ham-                      Koll2035 - som visar hur kollektiv-
-marskjöldsledens omgivning räknas till. Mellanstaden är särskilt                   trafiken behöver utvecklas fram
-intressant med tanke på dess närhet till centrum, vilket både ger en               till 2035 för att attrahera och ta
-god tillgänglighet till centrala staden och goda förutsättningar att               hand om betydligt fler resenärer.
-skapa hållbara resmönster.
-Målbilden är en vidareutveckling
-I översiktsplanen har man sett att det finns en större utbygg-                     av Kollektivtrafikprogrammet
-nadskapacitet i sydvästra Göteborg, jämfört med i övriga delar av                  K2020 och fokuserar på stomnä-
-mellanstaden. Detta uppges bland annat vara kopplat till en om-                    tet, det som idag omfattar spår-
-vandling av Högsbos industriområde till mer blandad bebyggelse.                    vagns- och stombusstrafik samt
-expressbussar och pendeltåg där
+
 Avgränsning mellan inner-, mellan- och ytters-
-Den  fördjupade   översiktsplanen          tad i stadens översiktsplan.            de trafikerar storstadsområdet. Illustration från den fördjupade översiktsplanen som visar den utveckling som planeras
-(Röd streckad linje visar den fördjupade över-                 längs boulevarden.
-visar vägen                                siktsplanens område).                   Målbilden utgör ett underlag til
-revideringar av trafikförsörjnings- Vad säger Målbild Koll2035?
-ÖVERSIKTSPLAN FÖR GÖTEBORG !'iif.t Göteborgs programmet för Västra Göta-
-Den nya översiktsplanen har två fördjupningar, varav en omfattar FÖRDJUPAD FÖR \~ Stad
-landsregionen och konkretiserar Utvecklingen av kollektivtrafikens stomnät baseras på ett antal
-Högsbo och Frölunda med Dag Hammarskjöldsleden. I det poli- HÖGSBO-FRÖLUNDA MED
-kollektivtrafikutvecklingen i kom- principer. Dessa består bland annat av att snabba och tydliga tvär-
-tiska uppdraget som gavs från kommunfullmäktige år 2017 om DAG HAMMARSKJÖLDLEDEN
-SAMRÅDSHANDLING DECEMBER 2018          munernas översiktsplaner, bo- förbindelser införs, att stomnätet kompletteras med ett snabbnät
-att ta fram den fördjupade översiktsplanen, angavs att arbetet
-stadsförsörjningsprogram, utbygg- och att det samlas i utpekade stråk.
-särskilt skulle pröva en omvandling av Dag Hammarskjöldsleden
-nadsplaner och trafikstrategier.
-till boulevard. Dessutom skulle planen stödja genomförandet av                                            Målbilden föreslår inte helt nya trafikslag, utan utgår ifrån att
-Målbilden har status som kollektiv-
-Målbild Koll2035.                                                                                         infrastrukturen för befintliga trafikslag behöver förstärkas och
-trafikprogram i de tre kommunerna.
-kompletteras. Den ser också att trafikslagen behöver utvecklas till
-Fördjupningen bygger vidare på den kommunövergripande
-tydliga trafikkoncept, med egenskaper som är lätta att uppfatta för
-planens inriktning och har som utgångspunkt att möjliggöra en
-resenärerna. Koncepten ska också ha en väldefinierad funktion i
-fortsatt bebyggelseutveckling. Nästan all utbyggnadskapacitet i
-kollektivtrafikens framtida stomnät. Koncepten utgörs av stadsba-
-sydvästra Göteborg ligger inom den fördjupade översiktsplanens
-na, spårvagn, citybuss och metrobuss.
-område. I planen framhålls att en viktig ambition är att:
-En klar majoritet av alla kollektivtrafikresor i Göteborg idag görs
-”låta den sammanhållna, blandade stadsbebyggelsen växa, genom att
-med spårvagn. I Målbild Koll2035 föreslås spårvägssystemet fort-
-omvandla delar av Högsbo industriområde till blandad stadsbebyggelse.
-satt utgöra stommen i storstadsområdets kollektivtrafiksystem. De
-Detta förutsätter då en samtidig förändring av Dag Hammarskjölds-
-Samrådshandlingen för den fördjupade över-                     spårvägar som har det största resandet i kombination med långt
+tad i stadens översiktsplan.
+(Röd streckad linje visar den fördjupade över-
+siktsplanens område).
+ÖVERSIKTSPLAN FÖR GÖTEBORG !'iif.t Göteborgs
+\~ Stad
+FÖRDJUPAD FÖR
+HÖGSBO-FRÖLUNDA MED
+DAG HAMMARSKJÖLDLEDEN
+SAMRÅDSHANDLING DECEMBER 2018
+
+Samrådshandlingen för den fördjupade över-
 siktsplanen. Den färdiga planen blir en digital
 produkt.
-20                                                                                                                                                           21
+
+MÅLBILD KOLL 2035
+
+Västra Götalandsregionen, Västtra-
+fik, Göteborgs Stad, Mölndals stad
+och Partille kommun har tagit fram
+en gemensam målbild - Målbild
+Koll2035 - som visar hur kollektiv-
+trafiken behöver utvecklas fram
+till 2035 för att attrahera och ta
+hand om betydligt fler resenärer.
+
+Målbilden är en vidareutveckling
+av Kollektivtrafikprogrammet
+K2020 och fokuserar på stomnä-
+tet, det som idag omfattar spår-
+vagns- och stombusstrafik samt
+expressbussar och pendeltåg där
+de trafikerar storstadsområdet.
+Målbilden utgör ett underlag til
+revideringar av trafikförsörjnings-
+programmet för Västra Göta-
+landsregionen och konkretiserar
+kollektivtrafikutvecklingen i kom-
+munernas översiktsplaner, bo-
+stadsförsörjningsprogram, utbygg-
+nadsplaner och trafikstrategier.
+Målbilden har status som kollektiv-
+trafikprogram i de tre kommunerna.
+
+Illustration från den fördjupade översiktsplanen som visar den utveckling som planeras
+längs boulevarden.
+
+Vad  säger  Målbild  Koll2035?
+
+Utvecklingen av kollektivtrafikens stomnät baseras på ett antal
+principer. Dessa består bland annat av att snabba och tydliga tvär-
+förbindelser införs, att stomnätet kompletteras med ett snabbnät
+och att det samlas i utpekade stråk.
+Målbilden föreslår inte helt nya trafikslag, utan utgår ifrån att
+infrastrukturen för befintliga trafikslag behöver förstärkas och
+kompletteras. Den ser också att trafikslagen behöver utvecklas till
+tydliga trafikkoncept, med egenskaper som är lätta att uppfatta för
+resenärerna. Koncepten ska också ha en väldefinierad funktion i
+kollektivtrafikens framtida stomnät. Koncepten utgörs av stadsba-
+na, spårvagn, citybuss och metrobuss.
+
+En klar majoritet av alla kollektivtrafikresor i Göteborg idag görs
+med spårvagn. I Målbild Koll2035 föreslås spårvägssystemet fort-
+satt utgöra stommen i storstadsområdets kollektivtrafiksystem. De
+spårvägar som har det största resandet i kombination med långt
+
+21
 
 <!-- sida 136 -->
 
-avstånd till centrum pekas ut som stadsbana. Stadsbanornas funk-                                          Vad säger  stadens  trafikstrategi?
+avstånd till centrum pekas ut som stadsbana. Stadsbanornas funk-
+tion är att erbjuda direktresor till och från City1 längs relativt långa
+stråk med många boende. Målet är att en resa från en tyngpunkt till
+City ska ta max 15 minuter med stadsbana.
+
+I målbilden pekas Dag Hammarskjöldsleden ut som ett av fem
+stadsbanestråk i Göteborg. Den föreslås gå i ledens sträckning, från
+Marklandsplatsen till Järnbrott, med två mellanliggande hållplat-
+ser: Tunnlandsgatan och Marconimotet. Målbilden öppnar också
+för att stadsbanan i Dag Hammarskjöldsleden kan behöva förläng-
+as söderut, längs väg 158, på längre sikt.
+I Målbildens nytto- och behovsbeskrivning för stadsbanan kan
+läsas:
+
+Dag Hammarskjöldsstråket är under utredning för kraftig förtätning
+med 20 000 tillkommande bostäder och därtill verksamheter. Om am-
+bitionen följs kommer stråket p.g.a. kapacitetsskäl att behöva trafikeras
+av spårväg. Då avståndet till city är långt, motsvarar Frölundabanan,
+så blir en ny spårvägslänk en del av stadsbanenätet. En välfungerande
+bytespunkt vid Järnbrott/Radiomotet mellan Metrobuss och stadsbana
+erbjuder resenärer från hela södra storstadsområdet att resa snabbt och
+effektivt mot södra och västra innerstaden i Göteborg.
+
+Vidare pekar målbilden inte ut hela Dag Hammarskjöldsleden som
+ett stråk för den stadsnära expressbusstrafiken, vilket det är idag.
+Den pekar dock ut sträckan mellan Annedalsmotet och Linnéplat-
+sen som Citybusstråk, samt införandet av det nya busskonceptet
+metrobuss.
+\-
+Utpekade stråk och bytespunkter.
+\-
+\-
+Stadsbana
+\-
+Spårvagn                        ANGERED C
+-Citybuss
+Metrobuss
+Linbana
+BACKA
+
+Vad  säger stadens   trafikstrategi?
 ANTAGEN AV TRAFIKNÄMNDEN FEBRUARI 2014
-s
-ti
-t
-o
-rå
-n
-k
-ä
-m
-r a
-e
-t
-d
-t e
-m
-rb
-ån
-ju
-g
-d
-a
-a
-b
-d
-o
-ir
-e
-e
-n
-k
-d
-tr
-e
-e
-.
-s
-M
-or
-å l
-t
-e
-il
-t
-l o
-är
-c h
-at
-f
-t
-r
-e
-ån
-n
-C
-re
-it
-s
-y
-a
-1
-f
-l
-r
-ä
-å
-n
-n
-g
-e
-s
-n
-r e
-t
-l
-y
-a
-n
-t
-g
-iv
-p
-t
-u
-lå
-n
-n
-k
-g
-t
-a
-ti ll
 30min
 TRAFI
 G
@@ -5993,196 +6125,112 @@ R
 5
 Ett av trafikstrategins huvudmål är att bidra till attraktiva stadsmil-
 TYNGD                              EN NÄRA STORSTAD
-City ska ta max 15 minuter med stadsbana.         30 min PUNKT                                            jöer och ett rikt stadsliv. Detta ska ske genom att:
+30 min PUNKT                                            jöer och ett rikt stadsliv. Detta ska ske genom att:
 3
 0
-I
-s t
-m
-ad
-ål
-s
-b
-b
-i
-a
-ld
-n
-e
-e
-n
-s t
-p
-rå
-e
-k
-k a
-i
-s
-G
-D
-öt
-a
-e
-g
-b
-H
-or
-a
-g
-m
-. D
-m
-e
-a
-n
-rs
-f
-k
-ö
-j
-r
-ö
-e
-l
-s
-d
-l
-s
-å
-l
-s
-e d
-g
-e
-å
-n
-i l
-u
-e
-t
-d
-s
-e
-o
-n
-m
-s s
-e
-tr
-t
-ä
-t
-c
-a
-k
-v
-n
-f
-i
-e
-n
-m
-g, från  T P Y U N N G K D T 15 min CITY 15
+m                                             • ge gående och cyklister förtur och anpassa hastigheter efter i
+T P Y U N N G K D T 15 min CITY 15
 min
-m in                                          • g
-fö
-e
-r s
-g
-t
-å
-a
-e
-h
-n
-a
-d
-n
-e
-d
-o
-g
-c
-å
-h
-e
-c
-n
-y
-d
-k
-e
-lister förtur och anpassa hastigheter efter i
-Marklandsplatsen till Järnbrott, med två mellanliggande hållplat-
-• omdisponera gaturummet och skapa mer yta där människor
+in
+första hand gående
+
 TYNGD
-ser: Tunnlandsgatan och Marconimotet. Målbilden öppnar också PUNKT
-för att stadsbanan i Dag Hammarskjöldsleden kan behöva förläng-
+PUNKT
 30
 min
-vill vistas och röra sig
-as söderut, längs väg 158, på längre sikt.           P M UN Å K L T                                        • skapa ett mer finmaskigt och sammanhängande gatunät utan
-barriärer
-I Målbildens nytto- och behovsbeskrivning för stadsbanan kan RReessttiiddssmmålåeln M ovåalnb bieldty dKeor allt2t 0d3et5f.rån Vårväderstorget
-I trafikstrategin ges flera konkreta exempel på åtgärder för att
-läsas:
-Källa: Västra Götalandsregionen, Göteborgs                     uppnå de olika huvudmålen. En av de åtgärder som nämns är att
+MÅL
+PUNKT
+
+RReessttiiddssmmålåeln M ovåalnb bieldty dKeor allt2t 0d3et5f.rån Vårväderstorget
+Källa: Västra Götalandsregionen, Göteborgs
 Stad, Mölndals stad & Partille kommun. 2018.
-Dag Hammarskjöldsstråket är under utredning för kraftig förtätning                                        omvandla Dag Hammarskjöldsleden till boulevard. Att minska
 Målbild Koll2035.
-med 20 000 tillkommande bostäder och därtill verksamheter. Om am-                                         de stora trafikledernas barriäreffekter lyfts också fram som en
 URVAL AV KOLLEKTIVTRA-
-bitionen följs kommer stråket p.g.a. kapacitetsskäl att behöva trafikeras                                 åtgärd. Det finns flera sätt att minska trafikledernas barriäreffekter.
 FIKKONCEPTEN I MÅLBILD
-av spårväg. Då avståndet till city är långt, motsvarar Frölundabanan,                                     I trafikstrategin lyfts bland annat omdaning till stadsboulevarder,
-KOLL2035                                TRAFIKSTRATEGI FÖR EN NÄRA
-så blir en ny spårvägslänk en del av stadsbanenätet. En välfungerande                                     fler planskilda korsningsmöjligheter eller överdäckning fram som
-STORSTAD
-bytespunkt vid Järnbrott/Radiomotet mellan Metrobuss och stadsbana STADSBANA                              alternativ.
-erbjuder resenärer från hela södra storstadsområdet att resa snabbt och Spårvagnstrafiken differentieras Sedan år 2014 har Göteborg en
-effektivt mot södra och västra innerstaden i Göteborg. till två koncept: Stadsbana och antagen trafikstrategi. Uppdraget
-Sammanfattning
-Spårvagn. Stadsbana knyter ihop         att ta fram trafikstrategin gavs
-Vidare pekar målbilden inte ut hela Dag Hammarskjöldsleden som
-längre stråk med ett mycket stort       av kommunstyrelsen år 2011.
-ett stråk för den stadsnära expressbusstrafiken, vilket det är idag.                                      Det är mot denna bakgrund som tanken om att boulevardisera
+KOLL2035
+
+STADSBANA
+Spårvagnstrafiken differentieras
+till två koncept: Stadsbana och
+Spårvagn. Stadsbana knyter ihop
+längre stråk med ett mycket stort
 resande, erbjuder direktresor till
-Den pekar dock ut sträckan mellan Annedalsmotet och Linnéplat-                     Strategin anger ett antal mål och Dag Hammarskjöldsleden ska läsas: att staden förväntas växa
 City och kör normalt på egen bana
-sen som Citybusstråk, samt införandet av det nya busskonceptet                     inriktningar, som ska bidra till att mycket kraftigt till år 2050 och behöver möjliggöra för en så hållbar
 med planskilda korsningar - se-
-metrobuss.                                                                         skapa ett enklare vardagsliv i en stadsexpansion som möjligt. I praktiken innebär detta bland annat
 parerad från annan trafik - och
-\-                                                                                 konkurrenskraftig, nära storstad. att omvandla och förtäta bebyggelsen i det sammanhängande
-Utp - ekade stråk och bytespunkter.        har längre mellan hållplatserna.
-\-                                                                                 Trafikstrategins tre huvudmål är: stadsområdet på ett klokt sätt, där stadens förutsättningar att
-Stadsbana
-\-                                         METROBUSS                                                      minska resbehoven och främja en hållbar mobilitet är bäst.
-Spårvagn                       ANGERED C
--Citybuss                                 Metrobusskonceptet består av             • ett lättillgängligt regioncen-
-Metrobuss                                                                         trum                För att stödja stadsomvandlingen i sydvästra Göteborg och bidra
+har längre mellan hållplatserna.
+
+METROBUSS
+Metrobusskonceptet består av
 snabb busstrafik mellan stadens
-Linbana                                                                                               till både hållbar mobilitet och goda stadsmiljöer i Södra Mellansta-
-tyngd- och målpunkter. Den kör           • attraktiva stadsmiljöer och
-den behöver Dag Hammarskjöldsleden omvandlas till boulevard.
-på egna banor i huvudsak längs             ett rikt stadsliv
+tyngd- och målpunkter. Den kör
+på egna banor i huvudsak längs
 befintliga trafikleder och har långt
-• Nordens logistikcentrum
 mellan stationerna. Dagens stads-
-BACKA
-nära expressbusstrafik ingår i det      Tillsammans med strategin för
-framtida metrobusskonceptet.            utbyggnadsplanering, grönstra-
+nära expressbusstrafik ingår i det
+framtida metrobusskonceptet.
+
+TRAFIKSTRATEGI FÖR EN NÄRA
+STORSTAD
+
+Sedan år 2014 har Göteborg en
+antagen trafikstrategi. Uppdraget
+att ta fram trafikstrategin gavs
+av kommunstyrelsen år 2011.
+Strategin anger ett antal mål och
+inriktningar, som ska bidra till att
+skapa ett enklare vardagsliv i en
+
+konkurrenskraftig, nära storstad.
+Trafikstrategins tre huvudmål är:
+• ett lättillgängligt regioncen-
+trum
+
+• attraktiva stadsmiljöer och
+ett rikt stadsliv
+• Nordens logistikcentrum
+
+Tillsammans med strategin för
+utbyggnadsplanering, grönstra-
+
+• omdisponera gaturummet och skapa mer yta där människor
+vill vistas och röra sig
+• skapa ett mer finmaskigt och sammanhängande gatunät utan
+barriärer
+
+I trafikstrategin ges flera konkreta exempel på åtgärder för att
+uppnå de olika huvudmålen. En av de åtgärder som nämns är att
+omvandla Dag Hammarskjöldsleden till boulevard. Att minska
+de stora trafikledernas barriäreffekter lyfts också fram som en
+åtgärd. Det finns flera sätt att minska trafikledernas barriäreffekter.
+I trafikstrategin lyfts bland annat omdaning till stadsboulevarder,
+fler planskilda korsningsmöjligheter eller överdäckning fram som
+alternativ.
+
+Sammanfattning
+
+Det är mot denna bakgrund som tanken om att boulevardisera
+Dag Hammarskjöldsleden ska läsas: att staden förväntas växa
+mycket kraftigt till år 2050 och behöver möjliggöra för en så hållbar
+stadsexpansion som möjligt. I praktiken innebär detta bland annat
+att omvandla och förtäta bebyggelsen i det sammanhängande
+stadsområdet på ett klokt sätt, där stadens förutsättningar att
+minska resbehoven och främja en hållbar mobilitet är bäst.
+
+För att stödja stadsomvandlingen i sydvästra Göteborg och bidra
+till både hållbar mobilitet och goda stadsmiljöer i Södra Mellansta-
+den behöver Dag Hammarskjöldsleden omvandlas till boulevard.
+
 tegin och den antagna visionen
 BRUNNSBO GAMLESTADEN CITYBUSS
 för Älvstaden, visar trafikstrategin
 GUSTAVS-
-BACKAPLAN PLATSEN     Citybuss är en vidareutveckling och
+BACKAPLAN PLATSEN      Citybuss är en vidareutveckling och
 VÅRVÄDERS-                                                                  en riktning för Göteborgs markan-
 TORGET
-SVINGELN         renodling av dagens stombuss och
-LINDHOLMEN CITY                                                        vändning de närmaste 20 åren.
-JÄRN-                    har samma uppdrag som koncep-
+SVINGELN          renodling av dagens stombuss och
+LINDHOLMEN CITY                                                       vändning de närmaste 20 åren.
+JÄRN-                     har samma uppdrag som koncep-
 TORGET
 IVARSBERG BE S R T G I E G T - HA K G O A RS- LISEBERG tet Spårvagn (dock med något läg-
 VÄGEN
@@ -6193,16 +6241,19 @@ Citybusskonceptet ska knyta ihop
 KUNGSSTEN
 stråk med ett stort resande och er-
 MARKLANDS-  DELSJÖN
-GATAN                    bjuda direktresor till City. Koncep-
+GATAN                     bjuda direktresor till City. Koncep-
 tet kör på egna banor i stråk där
+
 det annars är låg framkomlighet.
 FRÖLUNDA             KNUTPUNKT
 TORG               MÖLNDALSBRO
 JÄRNBROTT
+
 Källa: Västra Götalandsregionen, Göteborgs Stad, Mölndals stad & Partille kommun. 2018.
 Målbild Koll2035.
 1 Omfattar idag i princip staden innanför Vallgraven och området runt
 Centralstationen.
+
 22                                                                                                                                                           23
 
 <!-- sida 137 -->
@@ -6229,65 +6280,41 @@ Bildkälla: Stadsbyggnadskontoret, Göteborgs Stad
 
 <!-- sida 139 -->
 
-Centrum
-
-I detta kapitel presenteras de viktigaste                                                                 cirka 5 miljoner kronor/år, under de kommande 30 åren. En annan
-utformning av leden skulle kunna innebära att mycket av ledens
+I detta kapitel presenteras de viktigaste
 utgångspunkterna som sätter ramarna för en
-underhållsbehov kan byggas bort.
+
 omvandling av Dag Hammarskjöldsleden till
 boulevard.
-En järnväg  kan  bli aktuell här
-Frölunda           Mölndal
-Arbetet med en utveckling av kollektivtrafiksystemet i detta och
+
 Hela del 2 av denna rapport diskuterar utgångspunkter för en
-angränsande planeringsarbeten, har visat på en potentiell möjlig-
 boulevardomvandling och utveckling av Dag Hammarskjöldsta-
-het att anlägga en ny järnväg inom Göteborg. Möjligheten med en
 den. Delen är uppdelad i 3 kapitel. I detta första kapitel presenteras
-utveckling av järnvägssystemet (med koppling till Västlänken) har
 en överblick av de viktigaste utgångspunkterna som sätter ramarna
-utretts tidigare i olika studier och det finns ett utredningsområde
 för en omvandling av Dag Hammarskjöldsleden till boulevard.
-för järnväg i detta område i nu gällande översiktsplan. Sträckning-
 I nästföljande kapitel (2.2) presenteras kollektivtrafiksystemets
-en för denna går från Haga station vidare söderut i väg 158:s stråk,
 kapacitet och begränsningar närmare, samt vad det innebär för
-till Kungsbacka C. En sådan utbyggnad av järnvägssystemet har en
 stadsutvecklingen i Göteborg. I kapitel 2.3 diskuteras hur de vägval
-Nya Hovås
-stor inneboende potential för hela Göteborgs Stad och Göteborgs-
 som presenteras i kapitel 2.2 påverkar de olika stadsbyggnadsidéer
-regionens utveckling - särskilt med en eventuell vidareutveckling
 som finns för Dag Hammarskjöldstaden.
-där även Hamnbanan och Bohusbanan ansluts till Västlänken.
-Dagens funktion: trafikled (motorväg) med Fotograf: Frida Winter
-hög kapacitet och mycket god framkomlighet
-för regional och kommunal biltrafik.                           En utbyggnad av järnvägssystemet på detta sätt skulle få långtgå-
+
 Dag  Hammarskjöldsledens       läge och
-ende strukturerande effekter för Göteborgs stadsutveckling. Den
-roll idag                                                                                                 skulle också medföra konsekvenser för bland annat Göteborgsre-
-gionens och arbetsmarknadsregionens utveckling, samt stadens
-Dag Hammarskjöldsleden är en cirka 5 km lång trafikled som                                                roll som regioncentrum. Utbyggnaden av järnvägssystemet har
-sträcker sig i nord-sydlig riktning mellan Järnbrottsmotet och                                            också nationell betydelse och kan påverka möjligheten till nationell
-Linnéplatsen. Med sin långa sträckning går leden genom två                                                tågtillgänglighet både för gods och människor. Det är därför en
-stadsdelar: Askim-Frölunda-Högsbo och Majorna-Linné. År 2017-           Hede                              mycket viktigt strategisk fråga för flera aktörer och behöver därför
-2018 trafikerade cirka 24 000 fordon/dygn sträckan norr om                                                utredas närmare.
+
+roll idag
+
+Dag Hammarskjöldsleden är en cirka 5 km lång trafikled som
+sträcker sig i nord-sydlig riktning mellan Järnbrottsmotet och
+Linnéplatsen. Med sin långa sträckning går leden genom två
+stadsdelar: Askim-Frölunda-Högsbo och Majorna-Linné. År 2017-
+2018 trafikerade cirka 24 000 fordon/dygn sträckan norr om
 Marklandsplatsen och cirka 31-37 000 fordon/dygn sträckan söder
-Stadsutvecklingspotentialen kring en/flera järnvägsstationer
 om Marklandsplatsen. Trafiken längs stråket har överlag minskat
-varierar mycket beroende på var de skulle lokaliseras i det här om-
-betydligt under de senaste årtiondena, om än i olika utsträckning      Kungsbacka
-rådet. Om en järnväg från Haga station vidare söderut i väg 158:s
+betydligt under de senaste årtiondena, om än i olika utsträckning
 på olika delsträckor.
-stråk skulle bli aktuell, är linjedragningen fortfarande inte klarlagd.
-Leden är idag en viktig länk i stadens övergripande vägnät och                                            Alternativ för både den västra och östra sidan om Dag Hammar-
-förbinder Övre Husargatan, Per Dubbsgatan, Högsboleden, Mar-                                              skjöldsleden har undersökts översiktligt, liksom en linjedragning i
-Stadsutvecklingen i Dag Hammarskjöldstaden
-gretebergsgatan, Marconigatan, A Odhners gata, Radiovägen och                                             Dag Hammarskjöldsleden. En linjedragning i Dag Hammarskjölds-
-behöver ta hänsyn till en eventuell framtida
-Frölunda Smedjegata med varandra. Samtidigt är den ett av de                      järnväg genom området, med tillhörande ledens sträckning får stor inverkan på boulevardomvandlingen,
-kapacitetsstarka och mest gena transportstråken för regional och                  station(er).
+Leden är idag en viktig länk i stadens övergripande vägnät och
+förbinder Övre Husargatan, Per Dubbsgatan, Högsboleden, Mar-
+gretebergsgatan, Marconigatan, A Odhners gata, Radiovägen och
+Frölunda Smedjegata med varandra. Samtidigt är den ett av de
+kapacitetsstarka och mest gena transportstråken för regional och
 kommunal bil- och kollektivtrafik, samt pendlingscykeltrafik från
 sydvästra Göteborg till stadskärnan - det vill säga för genomfart-
 strafik. Det är en av de viktigaste planeringsförutsättningarna för en
@@ -6295,92 +6322,195 @@ framtida omvandling av leden och stadsutveckling i trafikområdets
 direkta närhet och omgivning. En omvandling av en storskalig
 trafikled av den här typen kommer nämligen att få stora effekter
 på både resmönstren inom området och trafiksystemet utanför
+
 området, särskilt omkringliggande trafikleder.
+
 Konstruktioner   som   börjar nå sin
+
 livslängd
+
 Många av brokonstruktionerna längs Dag Hammarskjöldsleden är
 cirka 50 år gamla. Deras beräknade livslängd är 80-100 år och inom
 en inte alltför lång tid kommer det därför finnas ett stort under-
 hålls- och reinvesteringsbehov för dessa. En mycket översiktlig
 kostnadsuppskattning är att underhållet för brokonstruktionerna är
+
+28
+
+Centrum
+
+cirka 5 miljoner kronor/år, under de kommande 30 åren. En annan
+utformning av leden skulle kunna innebära att mycket av ledens
+underhållsbehov kan byggas bort.
+
+En  järnväg  kan  bli aktuell här
+Frölunda           Mölndal
+Arbetet med en utveckling av kollektivtrafiksystemet i detta och
+angränsande planeringsarbeten, har visat på en potentiell möjlig-
+het att anlägga en ny järnväg inom Göteborg. Möjligheten med en
+utveckling av järnvägssystemet (med koppling till Västlänken) har
+utretts tidigare i olika studier och det finns ett utredningsområde
+för järnväg i detta område i nu gällande översiktsplan. Sträckning-
+en för denna går från Haga station vidare söderut i väg 158:s stråk,
+till Kungsbacka C. En sådan utbyggnad av järnvägssystemet har en
+Nya Hovås
+stor inneboende potential för hela Göteborgs Stad och Göteborgs-
+regionens utveckling - särskilt med en eventuell vidareutveckling
+där även Hamnbanan och Bohusbanan ansluts till Västlänken.
+Dagens funktion: trafikled (motorväg) med Fotograf: Frida Winter
+hög kapacitet och mycket god framkomlighet
+för regional och kommunal biltrafik.                          En utbyggnad av järnvägssystemet på detta sätt skulle få långtgå-
+ende strukturerande effekter för Göteborgs stadsutveckling. Den
+skulle också medföra konsekvenser för bland annat Göteborgsre-
+gionens och arbetsmarknadsregionens utveckling, samt stadens
+roll som regioncentrum. Utbyggnaden av järnvägssystemet har
+också nationell betydelse och kan påverka möjligheten till nationell
+tågtillgänglighet både för gods och människor. Det är därför en
+Hede                             mycket viktigt strategisk fråga för flera aktörer och behöver därför
+utredas närmare.
+Stadsutvecklingspotentialen kring en/flera järnvägsstationer
+varierar mycket beroende på var de skulle lokaliseras i det här om-
+Kungsbacka
+rådet. Om en järnväg från Haga station vidare söderut i väg 158:s
+stråk skulle bli aktuell, är linjedragningen fortfarande inte klarlagd.
+Alternativ för både den västra och östra sidan om Dag Hammar-
+skjöldsleden har undersökts översiktligt, liksom en linjedragning i
+Stadsutvecklingen i Dag Hammarskjöldstaden
+Dag Hammarskjöldsleden. En linjedragning i Dag Hammarskjölds-
+behöver ta hänsyn till en eventuell framtida
+järnväg genom området, med tillhörande ledens sträckning får stor inverkan på boulevardomvandlingen,
+station(er).
+
 Bildkälla: Stadsbyggnadskontoret, Göteborgs Bildkälla: Stadsbyggnadskontoret, Göteborgs
 Stad                                   Stad
-28                                                                                                                                                           29
+29
 
 <!-- sida 140 -->
 
-som då behöver samsas med ett spårreservat för järnväg på delar                                           En stor del av den  lokala trafiken
+som då behöver samsas med ett spårreservat för järnväg på delar
 av sträckan. Järnvägen har förutsatts behöva passera över Söder-/
-behöver   ske med   gång  och  cykel
 Västerleden. Norr om Söder-/Västerleden förutsätts järnvägen så
 snart som möjligt gå ner under mark, hela vägen till Haga station.
-Utöver en kapacitetsstark kollektivtrafik behöver stadsdelen också
-Den fördjupade översiktsplanen för Högsbo-Frölunda redovisar                                              möjliggöra att en stor del av de lokala resorna, inom stadsdelen,
-inte utredningsområdena för samtliga sträckningar som har                                                 kan genomföras med gång och cykel. Biltrafiken ska ges utrymme
-studerats. Antalet utredningsområden som redovisas på markan-                                             i stadsdelen, men inte med samma typ av framkomlighet för
-vändningskartan har begränsats och en sträckning via till exempel                                         genomfartstrafik som idag. Detta är nödvändigt för att det ska
-Frölunda Torg redovisas inte. De potentiella järnvägssträckningar                                         vara möjligt att genomföra stadsutvecklingen intill boulevarden.
-som översiktligt har studerats av Trafikverket redovisas i figuren till                                   Denna omställning mot ett mer hållbart resande krävs också för att
-höger. I ett eventuellt fortsatt utredningsarbete om järnväg enligt                                       stadens klimatmål ska kunna nås.
+
+Den fördjupade översiktsplanen för Högsbo-Frölunda redovisar
+inte utredningsområdena för samtliga sträckningar som har
+studerats. Antalet utredningsområden som redovisas på markan-
+vändningskartan har begränsats och en sträckning via till exempel
+Frölunda Torg redovisas inte. De potentiella järnvägssträckningar
+som översiktligt har studerats av Trafikverket redovisas i figuren till
+höger. I ett eventuellt fortsatt utredningsarbete om järnväg enligt
 Trafikverkets studie kommer det att vara av intresse att studera
 samtliga sträckningar som studien har redovisat som tänkbara.
-Dag  Hammarskjölds     boulevard
-behöver   länka ihop  öst och  väst
+
 Dag  Hammarskjöldstaden       behöver
-grundas   på en kapacitetsstark                                                   Fotograf: Frida Winter  Göteborg är en stad där skillnaderna bland invånarnas livsvillkor är
-stora och ojämlikheten är utbredd. En del i att förbättra situationen
+grundas   på en  kapacitetsstark
+
 kollektivtrafik
-Illustration som visar de fem alternativ för                   och åstadkomma ett mer jämlikt Göteborg är att arbeta för en mer
-en järnvägssträckning som ursprungligen                        likvärdig tillgänglighet till stadens gemensamma rum. Idag delas
-fler. Satsning på kol
-När staden växer och invånarna blir fler behöver trafiksystemet analyserades översiktligt av Trafikverket. Det pålitligheten, framf staden av ett antal fysiska och mentala barriärer. För att de gemen-
-blå alternativet (längst västerut) ströks senare         till viktiga målpunkter
+
+När staden växer och invånarna blir fler behöver trafiksystemet
 användas mer effektivt och byggas ut där det är nödvändigt. All
-av genomförbarhetsskäl.                                        samma offentliga rummen ska bli mer tillgängliga för alla behöver
-om- och utbyggnad av trafiksystemet behöver ställas i relation                                        Planer
-låtelsef dessa barriärer överbryggas.
-till hur det gagnar stadens mobilitet på bästa sätt och bidrar Källa: Trafikverket. 2020. Pendeltåg i kollektiv-
-trafikreservatet. Ärendenummer 2020/86077.
-med tillgänglighet för så många invånare som möjligt. Dag Ham-                                            Dag Hammarskjöldsleden är en av stadens stora fysiska barriärer.
-marskjöldstaden behöver därför grundas på en kapacitetsstark                                              Med sin utbredning avskärmar den effektivt Frölunda och östra
-kollektivtrafikstruktur, så att nuvarande och tillkommande invånare                                       Högsbo från varandra. Den försämrar också tillgängligheten till
-här kan genomföra sina längre resor med kollektivtrafik i avsevärt                                        några av stadens viktigaste parker och naturområden: Slottssko-
-högre utsträckning än idag.                                                                               gen, Botaniska trädgården och Änggårdsbergen.
-En boulevardomvandling påverkar också resenärer från södra                                                Stadsutveckling är ett viktigt verktyg i att binda samman områ-
-Göteborg (längs områdena runt väg 158), som idag reser med                                                den och platser som tidigare varit åtskilda och på så sätt bidra
-den stadsnära expressbusstrafiken längs Dag Hammarskjöldsle-                                              till att staden blir mer tillgänglig, sammanhållen och jämlik. En
-den. Behoven för dessa resenärer behöver tas i beaktande vid en                                           omvandling av Dag Hammarskjöldsleden behöver därför bidra till
-omvandling, så att de erbjuds en så attraktiv resa som möjligt.                                           att dagens barriärverkan minskar och att målpunkterna längs med
-sträckan tillgängliggörs för fler av stadens invånare. Samtidigt som
+om- och utbyggnad av trafiksystemet behöver ställas i relation
+till hur det gagnar stadens mobilitet på bästa sätt och bidrar
+med tillgänglighet för så många invånare som möjligt. Dag Ham-
+marskjöldstaden behöver därför grundas på en kapacitetsstark
+kollektivtrafikstruktur, så att nuvarande och tillkommande invånare
+här kan genomföra sina längre resor med kollektivtrafik i avsevärt
+högre utsträckning än idag.
+En boulevardomvandling påverkar också resenärer från södra
+Göteborg (längs områdena runt väg 158), som idag reser med
+den stadsnära expressbusstrafiken längs Dag Hammarskjöldsle-
+den. Behoven för dessa resenärer behöver tas i beaktande vid en
+
+omvandling, så att de erbjuds en så attraktiv resa som möjligt.
 Införandet av metrobuss, enligt Målbild Koll2035, är en viktig
-Dag Hammarskjöldstaden kommer att få en viktig funktion som
 pusselbit för kollektivtrafikstrukturen i Dag Hammarskjöldstaden.
-sammanbindande länk, är det samtidigt ett så pass stort stadsom-
 Enligt målbilden ska de stadsnära expressbussarnas funktion idag
-råde att det måste få en tydlig egen identitet.
 (norrut från Järnbrott) ges en annan trafikering för att bland annat
 möjliggöra andra reserelationer och avlasta City. Stadsbanan och
-metrobussen behöver tillsammans bli de bärande färdmedlen för                                             Viktiga genomförandefrågor
+metrobussen behöver tillsammans bli de bärande färdmedlen för
 både befintliga invånare och ha potentialen att attrahera en stor
 del av de nya invånare som kommer att flytta till sydvästra Göte-
-Lång utbyggnadstid - i etapper
 borg. Detta för att möjliggöra att de något längre resorna inom/till/
-från denna stadsdel ska kunna ske på ett hållbart och attraktivt sätt.                                    Utbyggnaden av Dag Hammarskjöldstaden är ett omfattande
-stadsutvecklingsprojekt som kommer att ta lång tid att bygga ut.
+från denna stadsdel ska kunna ske på ett hållbart och attraktivt sätt.
+
 I arbetet med att hitta en lämplig utbyggnad av kollektivtrafiksys-
-Stadsutvecklingen behöver därför anpassas till en etapputbygg-
 temet, som kan matcha stadsutvecklingen, har dock framkommit
-nad, så att den framväxande staden fungerar under uppbyggna-
 att stadens kollektivtrafiksystem har inneboende begränsningar.
-den.
 Dessa får särskilt stor effekt i centrala Göteborg men även i stadens
 sydvästra del, vilket påverkar möjligheterna till stadsutveckling.
-Mer att läsa om detta finns i kapitel 2.2.                                                                Mobilitet under utbyggnadstiden
-Mobiliteten behöver anpassas i de olika etapperna av stadsutveck-
-Text markerad med grön färg har införts som förtydligande efter trafiknämndens sammanträ-                 lingen, där resandet från områden utanför Dag Hammarskjöldsta-
+Mer att läsa om detta finns i kapitel 2.2.
+
+Text markerad med grön färg har införts som förtydligande efter trafiknämndens sammanträ-
 de 2021-03-18.
+
+30
+
+Illustration som visar de fem alternativ för
+en järnvägssträckning som ursprungligen
+analyserades översiktligt av Trafikverket. Det
+blå alternativet (längst västerut) ströks senare
+av genomförbarhetsskäl.
+Källa: Trafikverket. 2020. Pendeltåg i kollektiv-
+trafikreservatet. Ärendenummer 2020/86077.
+
+En stor del av  den  lokala trafiken
+
+behöver   ske med   gång   och cykel
+
+Utöver en kapacitetsstark kollektivtrafik behöver stadsdelen också
+möjliggöra att en stor del av de lokala resorna, inom stadsdelen,
+kan genomföras med gång och cykel. Biltrafiken ska ges utrymme
+i stadsdelen, men inte med samma typ av framkomlighet för
+genomfartstrafik som idag. Detta är nödvändigt för att det ska
+vara möjligt att genomföra stadsutvecklingen intill boulevarden.
+Denna omställning mot ett mer hållbart resande krävs också för att
+stadens klimatmål ska kunna nås.
+
+Dag  Hammarskjölds     boulevard
+
+behöver   länka  ihop öst och  väst
+
+Göteborg är en stad där skillnaderna bland invånarnas livsvillkor är
 Fotograf: Frida Winter
-30                                                                                                                                                           31
+stora och ojämlikheten är utbredd. En del i att förbättra situationen
+och åstadkomma ett mer jämlikt Göteborg är att arbeta för en mer
+likvärdig tillgänglighet till stadens gemensamma rum. Idag delas
+fler. Satsning på kol
+pålitligheten, framf staden av ett antal fysiska och mentala barriärer. För att de gemen-
+till viktiga målpunkter
+samma offentliga rummen ska bli mer tillgängliga för alla behöver
+Planer
+låtelsef dessa barriärer överbryggas.
+Dag Hammarskjöldsleden är en av stadens stora fysiska barriärer.
+Med sin utbredning avskärmar den effektivt Frölunda och östra
+Högsbo från varandra. Den försämrar också tillgängligheten till
+några av stadens viktigaste parker och naturområden: Slottssko-
+gen, Botaniska trädgården och Änggårdsbergen.
+Stadsutveckling är ett viktigt verktyg i att binda samman områ-
+den och platser som tidigare varit åtskilda och på så sätt bidra
+till att staden blir mer tillgänglig, sammanhållen och jämlik. En
+omvandling av Dag Hammarskjöldsleden behöver därför bidra till
+att dagens barriärverkan minskar och att målpunkterna längs med
+sträckan tillgängliggörs för fler av stadens invånare. Samtidigt som
+Dag Hammarskjöldstaden kommer att få en viktig funktion som
+sammanbindande länk, är det samtidigt ett så pass stort stadsom-
+råde att det måste få en tydlig egen identitet.
+Viktiga genomförandefrågor
+
+Lång utbyggnadstid - i etapper
+
+Utbyggnaden av Dag Hammarskjöldstaden är ett omfattande
+stadsutvecklingsprojekt som kommer att ta lång tid att bygga ut.
+Stadsutvecklingen behöver därför anpassas till en etapputbygg-
+nad, så att den framväxande staden fungerar under uppbyggna-
+den.
+
+Mobilitet under utbyggnadstiden
+Mobiliteten behöver anpassas i de olika etapperna av stadsutveck-
+
+lingen, där resandet från områden utanför Dag Hammarskjöldsta-
+Fotograf: Frida Winter
+31
 
 <!-- sida 141 -->
 
@@ -6621,7 +6751,7 @@ og . . | En framtida befolkning
 Antal invånare i dag och i fram- å cirka 98 500 i området
 tiden. Varje cirkel representerar j på cirka omradet.
 
-6 2000 individer (nattbefolkning). EässsEe 5 Å : SS S = ; | | | |) | |) | |) 3
+6 2000 individer (nattbefolkning). EässgEe 5 Å : SS S = ; | | | |) | |) | |) 3
 Sn NS rä mA SAS 000005
 
 | ) Nuvarande befolkning inom FÖP-området: = 53 000
@@ -6649,277 +6779,439 @@ pade översiktsplanens område pågår bostadsprojekt för närmare
 
 <!-- sida 144 -->
 
-kvadranten. Detta utan större kompletterande förstärkningar i                                             Utredningsarbetena för den fördjupade översiktsplanen och
-trafiksystemet. Bostäderna lokaliseras dock huvudsakligen i kollek-                                       denna åtgärdsvalsstudie har tillsammans studerat hur omfattande
-tivtrafiknära lägen, det vill säga i närheten av Frölundabanan. Men                                       stadsutveckling som kan föreslås, givet kollektivtrafiksystemets
-merparten av de tillkommande invånarnas arbetsplatser kommer                                              kapacitet. Huvudfrågan har varit om kollektivtrafiken kan försörja
-att ligga utanför det direkta närområdet, samtidigt som målpunk-                                          en utbyggnad för knappt 100 000 invånare inom den fördjupade
-terna i stadskärnan fortsatt kommer att ha en stor dragningskraft.                                        översiktsplanens område. Om inte, hur stor utbyggnad är möjlig?
+kvadranten. Detta utan större kompletterande förstärkningar i
+trafiksystemet. Bostäderna lokaliseras dock huvudsakligen i kollek-
+tivtrafiknära lägen, det vill säga i närheten av Frölundabanan. Men
+merparten av de tillkommande invånarnas arbetsplatser kommer
+att ligga utanför det direkta närområdet, samtidigt som målpunk-
+terna i stadskärnan fortsatt kommer att ha en stor dragningskraft.
 Reseanspråken kommer därför att öka och många fler resor behöva
 ske med kollektivtrafik till andra delar av staden och regionen.
-Vad säger analysresultaten gällande
-kollektivtrafikens kapacitet?
-Hur påverkas   Dag
-I kapacitetsanalyserna har dels studerats hur mycket spårvägstrafik
-Hammarskjöldstaden      av  pågående                                                                      som kan erbjudas den fördjupade översiktsplanens område som
-helhet1 och dels en möjlig fördelning av spårvägstrafiken mellan en
+
+Hur  påverkas  Dag
+Hammarskjöldstaden       av pågående
+
 förtätning  i sydväst?
-stadsbana i boulevarden och Frölundabanan. Analyserna har utgått
-ifrån olika scenarier för både efterfrågan på och utbud av kollektiv-
+
 Som tidigare nämnts föreslår Målbild Koll2035 att det ska finnas två
-trafik. En ingående beskrivning av förutsättningar och beräkningar
 stadsbanor i sydvästra Göteborg: Frölundabanan och stadsbanan i
-finns i bilaga 8 PM Kollektivtrafik.
 Dag Hammarskjöldsledens sträckning. Mellan Annedalsmotet och
-Fotograf: Rebecca Havedal              Fotograf: Rebecca Havedal
-Marklandsplatsen går de dock i gemensam sträckning, på samma                                              Analysresultaten visar att cirka 6000 personer kommer att ha ett
-ANALYS AV EFTERFRÅGAN                   ANALYS AV UTBUD
-bana. Detta innebär att spårtrafiken på de båda banorna behöver                                           behov av att resa med spårväg från den fördjupade översikts-
-balanseras gentemot varandra, så att man inte överskrider maxka- Efterfrågan på resor är beroende Möjligt framtida utbud av spår- planens område till centrala Göteborg (under maxtimmen), om
-paciteten på sträckan Annedalsmotet-Marklandsplatsen. av dels hur många människor som vägstrafik har studerats i sex olika planförslagets fulla potential realiseras (knappt 100 000 invånare).
-bor och verkar inom området,            scenarier (”A”, ”B”, ”C”, ”D”, ”E” och ”F”). Detta motsvarar en efterfrågan som möter trafikstrategins mål
+Marklandsplatsen går de dock i gemensam sträckning, på samma
+bana. Detta innebär att spårtrafiken på de båda banorna behöver
+balanseras gentemot varandra, så att man inte överskrider maxka-
+paciteten på sträckan Annedalsmotet-Marklandsplatsen.
+
 Denna studie bedömer att det finns kapacitetsutrymme att införa
-samt hur och i vilken omfattning        Scenarierna varierar med avseende för resande från området. Den förutsätter dock att bland annat
 en helt ny spårvägslinje på sträckan söder om Annedalsmotet.
-de reser. I efterfrågeanalyserna        på antal turer, längd på vagnar och metrobuss blir ett attraktivt alternativ för kollektivtrafikresor via de
 För att det ska finnas tillräcklig kollektivtrafikkapacitet för stadsut-
-har hela den fördjupade översikts-      antal linjer. För samtliga scenarion statliga trafiklederna. Denna resandeefterfrågan från 6000 perso-
 vecklingen i Dag Hammarskjöldstaden krävs dock att stadsbanan
-planens område omfattats. Det           valdes komfortkapaciteten1 ut som ner, för kollektivtrafikresor norrut från området under morgonens
 i boulevarden trafikeras av två spårvägslinjer. På grund av behovet
-är pendling till och från stadsde-      dimensionerande för beläggningen maxtimme, är den som har använts som dimensionerande för att
 att balansera trafiken på boulevardens stadsbana med den på
-larna under dygnets mest belas-         på en linje. Detta för att spårvagnas dra slutsatser i studien.
 Frölundabanan, behöver därför en av spårvägslinjerna på Frölunda-
-tade timme1 som har beräknats.          teoretiska maxkapacitet alltid är hö-
-banan flyttas och bli en av boulevardens spårvägslinjer, åtminstone                                       Som nämndes i del 1 av denna rapport pekar Målbild Koll2035 ut
-gre än resenärernas upplevda max-
-mellan Marklandsplatsen och Musikvägens hållplats.                                                        stadsbana som nödvändig i boulevarden (av kapacitetsskäl) för att
-I korthet har fyra olika scenarier
-kapacitet (komfortkapaciteten).
-möta framtida efterfrågan från exploatering i området. Trafikana-
-för efterfrågan analyserats: ”2040
+banan flyttas och bli en av boulevardens spårvägslinjer, åtminstone
+mellan Marklandsplatsen och Musikvägens hållplats.
 När det nu pågår omfattande förtätning i Frölunda, Kaverös och
-Lågt”, ”2040 Troligt lågt”, ”2040       Scenario C valdes ut som dimen- lyserna som genomförts i denna studie har kunnat validera den
 Flatås, innebär det att alltmer av den tillgängliga kollektivtrafikka-
-Troligt högt” och ”2040 Högt” (se       sionerande utbudsscenario. Detta slutsatsen. Detta genom att visa att en kollektivtrafikförsörjning
+
 paciteten på Frölundabanan kommer att intecknas för de framtida
-kolumn till höger). Samtliga har haft   är det scenario som maximerar med enbart buss inte skulle vara tillräcklig för den fördjupade över-
 invånarna i banans närhet. Ju längre tiden går kommer det alltså
-målår 2040 och utgått ifrån en full     kapaciteten med hänsyn till be- siktsplanens maximala stadsutveckling (knappt 100 000 invånare).
 att bli svårare att flytta en av spårvägslinjerna till Dag Hammar-
-utbyggnad inom den fördjupade           gränsningar i omgivande plan-
-skjölds boulevard. Den pågående planeringen påverkar därmed                                               Även utbudet av kollektivtrafikresor med spårvägstrafiken analyse-
-översiktsplanens område, det vill       korsningar i det anslutande spår-
-Dag Hammarskjöldstadens framväxt i hög utsträckning.                                                      rades med hjälp av scenarier. Resultaten ger att den dimensione-
-säga cirka 100 000 invånare totalt.     vägsnätet. Det förutsätter dock att
-rande kapacitet som bör användas är 5000 personer per timme och
-flaskhalsar i centrala Göteborg har
-riktning. Som jämförelse ligger idag kapaciteten på 3600 personer
-Samtliga scenarion förutom
-Balanserad   stadsutveckling                                                       byggts bort, så att det är möjligt att
-per timme och riktning. Ändå upplevs en del av turerna på linjer på
-”2040 Högt”, baseras på antagan-
-trafikera med den ytterligare linje
-eftersträvas                               det om att fördelningen mellan                                 Frölundabanan vara högt belagda idag.
-som dess trafikupplägg innebär.
-buss och spårvagn är ungefär
-Det förutsätter troligen också att Sammantaget överstiger alltså den dimensionerande efterfrågan
-Utgångspunkten för det förvaltningsgemensamma arbetet har densamma som dagens relativa
-Lindholmsförbindelsen är byggd. på 6000 personer (per timme) kapaciteten på 5000 personer (per
-varit att stadsutvecklingen behöver vara balanserad gentemot fördelning mellan trafikslagen,
-De andra scenarierna valdes bort timme), med 1000 personer per timme. Efterfrågan på kollektiv-
-kollektivtrafikens kapacitet. Detta för att invånarna ska kunna ha en samt att resandet i maxtimme
-på grund av att de förutsätter en trafikresor med spårväg behöver därför anpassas till det möjligt
-fortsatt god kollektivtrafikförsörjning och därmed god tillgänglig- och maxriktning följer samma
-högre turtäthet. Det ökar i sin tur framtida utbudet. Detta bör ske genom att anpassa stadsutveck-
-het till staden, samtidigt som stadens mål för ett hållbart resande mönster som dagens resande.
-osäkerheten för huruvida de är lingen till en lägre utbyggnadsvolym.
+skjölds boulevard. Den pågående planeringen påverkar därmed
+Dag Hammarskjöldstadens framväxt i hög utsträckning.
+
+Balanserad   stadsutveckling
+
+eftersträvas
+
+Utgångspunkten för det förvaltningsgemensamma arbetet har
+varit att stadsutvecklingen behöver vara balanserad gentemot
+kollektivtrafikens kapacitet. Detta för att invånarna ska kunna ha en
+fortsatt god kollektivtrafikförsörjning och därmed god tillgänglig-
+het till staden, samtidigt som stadens mål för ett hållbart resande
 fortsatt kan nås.
+
+”Styrande för när och om omvandlingen kan ske är att kollektivtrafik-
+kapacieteten ökar i motsvararande takt som befolkningen och behovet av
+förändrade resmönster kräver”.
+(ur Fördjupad översiktsplan för Högsbo-Frölunda med Dag Hammar-
+sköljdsleden).
+38
+
+Fotograf: Rebecca Havedal
+ANALYS AV EFTERFRÅGAN
+
+Efterfrågan på resor är beroende
+av dels hur många människor som
+bor och verkar inom området,
+samt hur och i vilken omfattning
+de reser. I efterfrågeanalyserna
+har hela den fördjupade översikts-
+planens område omfattats. Det
+är pendling till och från stadsde-
+larna under dygnets mest belas-
+tade timme1 som har beräknats.
+
+I korthet har fyra olika scenarier
+för efterfrågan analyserats: ”2040
+Lågt”, ”2040 Troligt lågt”, ”2040
+Troligt högt” och ”2040 Högt” (se
+kolumn till höger). Samtliga har haft
+målår 2040 och utgått ifrån en full
+utbyggnad inom den fördjupade
+översiktsplanens område, det vill
+säga cirka 100 000 invånare totalt.
+
+Samtliga scenarion förutom
+”2040 Högt”, baseras på antagan-
+det om att fördelningen mellan
+buss och spårvagn är ungefär
+densamma som dagens relativa
+fördelning mellan trafikslagen,
+samt att resandet i maxtimme
+och maxriktning följer samma
+mönster som dagens resande.
+
+1 maxtimmen som inträffar på
+morgonen.
+
+Fotograf: Rebecca Havedal
+ANALYS AV UTBUD
+
+Möjligt framtida utbud av spår-
+vägstrafik har studerats i sex olika
+scenarier (”A”, ”B”, ”C”, ”D”, ”E” och ”F”).
+Scenarierna varierar med avseende
+på antal turer, längd på vagnar och
+antal linjer. För samtliga scenarion
+valdes komfortkapaciteten1 ut som
+dimensionerande för beläggningen
+på en linje. Detta för att spårvagnas
+teoretiska maxkapacitet alltid är hö-
+gre än resenärernas upplevda max-
+kapacitet (komfortkapaciteten).
+
+Scenario C valdes ut som dimen-
+sionerande utbudsscenario. Detta
+är det scenario som maximerar
+kapaciteten med hänsyn till be-
+gränsningar i omgivande plan-
+korsningar i det anslutande spår-
+vägsnätet. Det förutsätter dock att
+flaskhalsar i centrala Göteborg har
+byggts bort, så att det är möjligt att
+trafikera med den ytterligare linje
+som dess trafikupplägg innebär.
+Det förutsätter troligen också att
+Lindholmsförbindelsen är byggd.
+De andra scenarierna valdes bort
+på grund av att de förutsätter en
+högre turtäthet. Det ökar i sin tur
+osäkerheten för huruvida de är
 möjliga att genomföra, givet de
 inneboende begränsningarna i
-”Styrande för när och om omvandlingen kan ske är att kollektivtrafik-
 ett markbundet spårvägssystem.
-kapacieteten ökar i motsvararande takt som befolkningen och behovet av
-förändrade resmönster kräver”.                                                     1 Komfortkapacitet = antalet
-(ur Fördjupad översiktsplan för Högsbo-Frölunda med Dag Hammar- 1 maxtimmen som inträffar på sittplatser + 40 procent av antalet 1 summerat i ett tvärsnitt på Frölundabanan, mellan Marklandsplatsen och
-sköljdsleden).                               morgonen.                              ståplatser.            Annedalsmotet.
-38                                                                                                                                                           39
+
+1 Komfortkapacitet = antalet
+sittplatser + 40 procent av antalet
+ståplatser.
+
+Utredningsarbetena för den fördjupade översiktsplanen och
+denna åtgärdsvalsstudie har tillsammans studerat hur omfattande
+stadsutveckling som kan föreslås, givet kollektivtrafiksystemets
+kapacitet. Huvudfrågan har varit om kollektivtrafiken kan försörja
+en utbyggnad för knappt 100 000 invånare inom den fördjupade
+översiktsplanens område. Om inte, hur stor utbyggnad är möjlig?
+
+Vad säger analysresultaten gällande
+
+kollektivtrafikens kapacitet?
+I kapacitetsanalyserna har dels studerats hur mycket spårvägstrafik
+som kan erbjudas den fördjupade översiktsplanens område som
+helhet1 och dels en möjlig fördelning av spårvägstrafiken mellan en
+stadsbana i boulevarden och Frölundabanan. Analyserna har utgått
+ifrån olika scenarier för både efterfrågan på och utbud av kollektiv-
+trafik. En ingående beskrivning av förutsättningar och beräkningar
+finns i bilaga 8 PM Kollektivtrafik.
+
+Analysresultaten visar att cirka 6000 personer kommer att ha ett
+behov av att resa med spårväg från den fördjupade översikts-
+planens område till centrala Göteborg (under maxtimmen), om
+planförslagets fulla potential realiseras (knappt 100 000 invånare).
+Detta motsvarar en efterfrågan som möter trafikstrategins mål
+för resande från området. Den förutsätter dock att bland annat
+metrobuss blir ett attraktivt alternativ för kollektivtrafikresor via de
+statliga trafiklederna. Denna resandeefterfrågan från 6000 perso-
+ner, för kollektivtrafikresor norrut från området under morgonens
+maxtimme, är den som har använts som dimensionerande för att
+dra slutsatser i studien.
+
+Som nämndes i del 1 av denna rapport pekar Målbild Koll2035 ut
+stadsbana som nödvändig i boulevarden (av kapacitetsskäl) för att
+möta framtida efterfrågan från exploatering i området. Trafikana-
+lyserna som genomförts i denna studie har kunnat validera den
+slutsatsen. Detta genom att visa att en kollektivtrafikförsörjning
+med enbart buss inte skulle vara tillräcklig för den fördjupade över-
+siktsplanens maximala stadsutveckling (knappt 100 000 invånare).
+
+Även utbudet av kollektivtrafikresor med spårvägstrafiken analyse-
+rades med hjälp av scenarier. Resultaten ger att den dimensione-
+rande kapacitet som bör användas är 5000 personer per timme och
+riktning. Som jämförelse ligger idag kapaciteten på 3600 personer
+per timme och riktning. Ändå upplevs en del av turerna på linjer på
+Frölundabanan vara högt belagda idag.
+Sammantaget överstiger alltså den dimensionerande efterfrågan
+på 6000 personer (per timme) kapaciteten på 5000 personer (per
+timme), med 1000 personer per timme. Efterfrågan på kollektiv-
+trafikresor med spårväg behöver därför anpassas till det möjligt
+framtida utbudet. Detta bör ske genom att anpassa stadsutveck-
+lingen till en lägre utbyggnadsvolym.
+
+1 summerat i ett tvärsnitt på Frölundabanan, mellan Marklandsplatsen och
+Annedalsmotet.
+39
 
 <!-- sida 145 -->
 
-Den  fördjupade   översiktsplanen   kan                                                                   vagnen till Frölunda”. Det innebär att staden inte kan fullfölja
-utvecklingen inom Målbild Koll2035, med stadsbana hela vägen till
+Den  fördjupade   översiktsplanen    kan
+
 behöva   begränsas
-Radiomotet/Järnbrott i boulevardens sträckning. Detta på grund av
-att ingen av spårvägslinjerna längs Frölundabanan då kan flyttas till
+
 En övergripande slutsats från kapacitetsanalyserna är att spårvägs-
-att enbart trafikera boulevarden, hela vägen mellan Marklandsplat-
 systemets kapacitet medför begränsningar för hur omfattande
-sen och Radiomotet/Järnbrott. De två spårvägslinjerna som trafi-
 stadsutvecklingen inom den fördjupade översiktsplanens område
-kerar boulevarden söder om Marklandsplatsen behöver svänga av
 kan bli. Begränsningarna har sin grund i att det finns ett maxtak
-vid Marconimotet och därefter fortsätta trafikera Frölundabanan,
 för hur många spårvagnar som kan trafikera i markplan genom
-mellan Musikvägen och Frölunda torg. Detta för att tillhandahålla
 korsningar i centrala Göteborg. Det påverkar i sin tur hur stor
-tillräcklig spårvägskapacitet längs södra delen av Frölundabanan.
 kollektivtrafikkapacitet som kan erbjudas till sydvästra Göteborg.
-Staden behöver fatta ett beslut om vilken av dessa vägar man vill
 Med nu känd kunskap motsvarar ovan nämnda begränsning till ett
-gå, eftersom pågående planering fortgår så länge inget annat med-
 resande på 5000 personer under maxtimmen, en markanvändning
-delas. Båda alternativen får följdeffekter för stadsutvecklingen.
 på cirka 85 000 invånare inom den fördjupade översiktsplanen. Det
 skulle innebära en reducering med cirka 15 000 invånare från den
-fulla potentialen i området om knappt 100 000 invånare.                                                   Finns det vägar  runt
-spårvägsbegränsningen?
+fulla potentialen i området om knappt 100 000 invånare.
+
 I spårvägsbegränsningen      uppstår
-På lång sikt kan det finnas flera sätt att komma förbi spårvägsbe-
+
 ett första vägval
+
+I denna situation uppstår ett första vägval för staden att göra. An-
+tingen kan staden välja att bejaka utvecklingen i Målbild Koll2035
+och arbeta för att anlägga en stadsbana i Dag Hammarskjöldsle-
+dens sträckning. Detta är scenario ”Med stadsbana till Järnbrott”.
+Valet att göra det får till följd att en del av all pågående - samt all
+tillkommande - planering väster om leden (i Frölunda, Högsbo, Ka-
+verös och Tynnered) måste bromsas permanent eller tills en järnväg
+angör Frölunda. Annars kommer inte kollektivtrafikkapaciteten att
+räcka till för de nya bostäderna i dessa områden.
+Det andra alternativet är att bejaka den pågående planeringen
+väster om leden och låta den färdigställas. Detta är scenario ”Med
+
+Nutid
+Vägval nr 1:
+
+Bejaka pågående planering eller
+bejaka Målbild Koll2035?
+
+”MED VAGNEN TILL FRÖLUNDA”
+• Pågående planering bejakas
+• Stadsbanan i boulevarden slutar i Marconimotet och svänger
+av mot Musikplatsen
+• Nästan all pågående planering i Frölunda kan fortsätta
+• Dag Hammarskjöldstaden söder om A Odhners gata realiseras
+inte.
+
+”MED STADSBANA TILL JÄRNBROTT”
+• Målbild Koll2035 bejakas
+• Stadsbanan i boulevarden går ända till Radiomotet/Järnbrott
+• En del av all pågående planering, samt all tillkommande
+planering i Frölunda/Tynnered måste bromsas permanent eller
+tills tåget är på plats
+
+40
+
+vagnen till Frölunda”. Det innebär att staden inte kan fullfölja
+utvecklingen inom Målbild Koll2035, med stadsbana hela vägen till
+Radiomotet/Järnbrott i boulevardens sträckning. Detta på grund av
+att ingen av spårvägslinjerna längs Frölundabanan då kan flyttas till
+att enbart trafikera boulevarden, hela vägen mellan Marklandsplat-
+sen och Radiomotet/Järnbrott. De två spårvägslinjerna som trafi-
+kerar boulevarden söder om Marklandsplatsen behöver svänga av
+vid Marconimotet och därefter fortsätta trafikera Frölundabanan,
+mellan Musikvägen och Frölunda torg. Detta för att tillhandahålla
+tillräcklig spårvägskapacitet längs södra delen av Frölundabanan.
+
+Staden behöver fatta ett beslut om vilken av dessa vägar man vill
+gå, eftersom pågående planering fortgår så länge inget annat med-
+delas. Båda alternativen får följdeffekter för stadsutvecklingen.
+
+Finns  det vägar  runt
+spårvägsbegränsningen?
+
+På lång sikt kan det finnas flera sätt att komma förbi spårvägsbe-
 gränsningen och möjliggöra för att den fulla potentialen i den
 fördjupade översiktsplanens förverkligas:
-I denna situation uppstår ett första vägval för staden att göra. An-
-tingen kan staden välja att bejaka utvecklingen i Målbild Koll2035                                         • Ett alternativ vore om en ny järnväg drogs inom planområdet
-och arbeta för att anlägga en stadsbana i Dag Hammarskjöldsle-                                               och minst en station anlades, antingen i Frölunda eller Järn-
-dens sträckning. Detta är scenario ”Med stadsbana till Järnbrott”.                                           brott. Då skulle kollektivtrafiksystemets kapacitet öka avse-
-Valet att göra det får till följd att en del av all pågående - samt all                                      värt, vilket möjliggör hela den önskade stadsutvecklingen.
-tillkommande - planering väster om leden (i Frölunda, Högsbo, Ka-                                            Järnvägsalternativet har flest fördelar, men är en lösning som
-verös och Tynnered) måste bromsas permanent eller tills en järnväg                                           medför stora investeringar och kan vara på plats först om flera
-angör Frölunda. Annars kommer inte kollektivtrafikkapaciteten att                                            decennier.
-räcka till för de nya bostäderna i dessa områden.
+
+• Ett alternativ vore om en ny järnväg drogs inom planområdet
+och minst en station anlades, antingen i Frölunda eller Järn-
+brott. Då skulle kollektivtrafiksystemets kapacitet öka avse-
+värt, vilket möjliggör hela den önskade stadsutvecklingen.
+Järnvägsalternativet har flest fördelar, men är en lösning som
+medför stora investeringar och kan vara på plats först om flera
+decennier.
 • Ett annat alternativ vore att försöka komma förbi begräns-
-Det andra alternativet är att bejaka den pågående planeringen                                                ningarna i spårvägssystemet i centrum av Göteborg. Det
-väster om leden och låta den färdigställas. Detta är scenario ”Med                                           skulle kräva att spårvägen planskiljs i sin helhet, i alla de
+ningarna i spårvägssystemet i centrum av Göteborg. Det
+skulle kräva att spårvägen planskiljs i sin helhet, i alla de
 punkter där den möter andra anspråk i markplan. Det bedöms
 Tidslinje
 som mindre effektivt, troligt och genomförbart.
-Nutid
 • Ett tredje alternativ vore att prioritera den fördjupade över-
-Vägval nr 1:
 siktsplanens område och behov av kollektivtrafikkapacitet,
-Bejaka pågående planering eller                                                                    före någon annan del av Göteborg. Det vill säga fördela
-bejaka Målbild Koll2035?                                                                        tillgänglig spårvägskapacitet på ett annat sätt. Huruvida det är
+före någon annan del av Göteborg. Det vill säga fördela
+tillgänglig spårvägskapacitet på ett annat sätt. Huruvida det är
 trafiktekniskt möjligt att nå Frölunda-Högsbo med så många
-”MED VAGNEN TILL FRÖLUNDA”                                                                                  vagnar som isåfall krävs, ligger dock utanför denna studies
-• Pågående planering bejakas                                                                               avgränsning att utreda.
-• Stadsbanan i boulevarden slutar i Marconimotet och svänger
-av mot Musikplatsen
-Järnvägsmöjligheten     leder till nästa
-• Nästan all pågående planering i Frölunda kan fortsätta
-• Dag Hammarskjöldstaden söder om A Odhners gata realiseras                                             vägval
-inte.
+vagnar som isåfall krävs, ligger dock utanför denna studies
+avgränsning att utreda.
+
+Järnvägsmöjligheten     leder  till nästa
+
+vägval
+
 Staden står således inför en eventuell boulevard- och stadsom-
 vandling av Dag Hammarskjöldsleden och östra Högsbo, samtidigt
-”MED STADSBANA TILL JÄRNBROTT”
 som det finns begränsningar i utbyggnaden av befintligt kollektiv-
-• Målbild Koll2035 bejakas
 trafiksystem. Möjligheten att etablera en järnvägsstation i området
-• Stadsbanan i boulevarden går ända till Radiomotet/Järnbrott
 öppnar dock nya möjligheter för den framtida stadsutvecklingen i
-• En del av all pågående planering, samt all tillkommande
 sydvästra Göteborg.
-planering i Frölunda/Tynnered måste bromsas permanent eller
-tills tåget är på plats
-40                                                                                                                                                           41
+
+41
 
 <!-- sida 146 -->
 
-Stadsutvecklingspotentialen för en stadsdel med en järnvägssta- En eventuell järnvägsstation i Frölunda skulle
-tion med regional tillgänglighet, är helt annorlunda jämfört med landa i en stadsmiljö med hög bostadstäthet.
-Vägval nr 1:                    Vägval nr 2:
+Stadsutvecklingspotentialen för en stadsdel med en järnvägssta-
+tion med regional tillgänglighet, är helt annorlunda jämfört med
 den för stadsdelar utan en station. En järnvägsstation med regional
-Bejaka pågående             Utifrån att vi ska planera för tåg -
 tillgänglighet i så nära anslutning till det regioncentrum som
-planering eller         går tåget via Frölunda eller Järnbrott och
 Göteborg är, är en unik lokaliseringsfaktor för många intressen.
-bejaka Målbild                vilken effekt får det för
 Stadens aktörer behöver begrunda hur man ska välja att förvalta
-Kol2035?                     stadsutvecklingen?
 en sådan möjlighet och fatta aktiva beslut. Den nuvarande och
-Tids-
 nära förestående stadsutvecklingen inom hela den fördjupade
+översiktsplanens område kan få helt avgörande effekter för om
+järnvägsstation blir aktuell att lokalisera i området.
+
+Med anledning av att det kan finnas en möjlighet att lokalisera
+en järnvägsstation i Dag Hammarskjöldstaden, ställs staden inför
+nästa vägval:
+
+• Vill staden skapa förutsättningar för att realisera den fördjupa-
+de översiktsplanens fulla potential?
+• Om ja, vill man arbeta för att en tågstation ska lokaliseras i
+antingen Frölunda eller Järnbrott?
+Beroende på hur staden valde att agera vid vägval 1, kommer olika
+scenarier att vara aktuella vid detta vägval, se figuren nästa sida.
+Om staden valde att bejaka pågående planering vid förra vägvalet
+(”Med vagnen till Frölunda”), vilar hela framväxten av boulevarden
+
+söder om Marconimotet på beslutet i vägval 2.
+
+Staden behöver vara drivkraften i järnvägsfrågan
+Järnvägsmöjligheten innebär mycket stora osäkerheter - för lång
+tid framöver. Om en järnväg blir aktuell kommer det exempelvis
+att dröja lång tid innan vi vet vilken sträckning som är möjlig. Men
+redan nu kan staden skapa sig en uppfattning om vilken sträckning
+man tycker är mest lämplig. Möjligheterna till stadsutveckling
+skiljer sig helt åt beroende på om en järnvägsstation lokaliseras i
+
+Frölunda eller Järnbrott.
+Det är viktigt att stadens förvaltningar landar i en gemensamt lång-
+siktig idé om en önskad framtid och fattar aktiva beslut som leder i
+den riktningen. På så sätt kan staden också föra en tydlig linje mot
+berörda aktörer och intressenter och tillse att den stadsutveckling
+som sker i närtid också gagnar staden på lång sikt. Exempelvis har
+dialogen med Trafikverket tydliggjort att staden behöver vara den
+drivande aktören om en järnväg ska komma till stånd i sydvästra
+Göteborg. Om en järnväg ingår i stadens önskade framtid krävs
+således att staden både är en drivande aktör i frågan och fattar
+aktiva stadsuvecklingsbeslut som stödjer en sådan linje. I annat fall
+riskerar den önskade utvecklingen att omöjliggöras.
+
+Stadsutvecklingens samband med trafiksystemet och dess kapa-
+citet är både många och komplexa. Sambanden blir dessutom än
+mer komplexa av tidsaspekten - där mer kortsiktig exploatering
+och utbyggnad inom den närmaste 15-20-årsperioden ibland
+behöver ställas i relation till stadens attraktivitet, utvecklingsmöjlig-
+het och trafikförsörjning på lång sikt. I slutänden kommer förutsätt-
+ningarna för att åstadkomma en hållbar stadsutveckling i Göteborg
+att vara starkt beroende av i vilken grad som stadsutvecklingen och
+trafiksystemet balanseras.
+
+42
+
+En eventuell järnvägsstation i Frölunda skulle
+landa i en stadsmiljö med hög bostadstäthet.
+
+Fotograf: Frida Winter
+
+En järnvägsstation i Järnbrott skulle landa i en
+stadsmiljö som antingen kan få högt bostads-
+eller verksamhetsinnehåll.
+
+Fotograf: Frida Winter
+
+Vägval nr 1:                     Vägval nr 2:
+Bejaka pågående             Utifrån att vi ska planera för tåg -
+planering eller          går tåget via Frölunda eller Järnbrott och
+bejaka Målbild                vilken effekt får det för
+Kol2035?                     stadsutvecklingen?
+Tids-
 linje
 Nutid
-översiktsplanens område kan få helt avgörande effekter för om
-järnvägsstation blir aktuell att lokalisera i området.                                                     ”MAXIMALT MED SPÅR I FRÖLUNDA”
+”MAXIMALT MED SPÅR I FRÖLUNDA”
 • Frölunda får både stadsbana och tåg
-Med anledning av att det kan finnas en möjlighet att lokalisera                                              • All pågående planering i Frölunda kan fortsätta
-en järnvägsstation i Dag Hammarskjöldstaden, ställs staden inför                                             • Tågstationen landar mitt i ett bostadsområde
+• All pågående planering i Frölunda kan fortsätta
+• Tågstationen landar mitt i ett bostadsområde
 Om tåget går
-nästa vägval:                                                                                                • (I detta scenario bör en av Frölundabanans spårvägslinjer
+• (I detta scenario bör en av Frölundabanans spårvägslinjer
 via Frölunda
 ledas om till Radiomotet/Järnbrott, så att Dag Hammar-
-• Vill staden skapa förutsättningar för att realisera den fördjupa-
 ”MED VAGNEN TILL          skjöldstaden söder om A Odhners gata kan utvecklas med
-de översiktsplanens fulla potential?
 FRÖLUNDA”               stadsbanan som grund)
-• Om ja, vill man arbeta för att en tågstation ska lokaliseras i
 Om tåget går
-antingen Frölunda eller Järnbrott?
 via Järnbrott
 ”NÄSTA UPPEHÅLL, JÄRNBROTT!”
-Fotograf: Frida Winter
-Beroende på hur staden valde att agera vid vägval 1, kommer olika
 • All pågående planering i Frölunda kan fortsätta
-scenarier att vara aktuella vid detta vägval, se figuren nästa sida.
 • Stadsbanan viker av västerut i Marconimotet
-Om staden valde att bejaka pågående planering vid förra vägvalet
 • När tåget är på plats kan Dag Hammarskjöldstaden söder
-(”Med vagnen till Frölunda”), vilar hela framväxten av boulevarden
 om A Odhners gata utvecklas till en regional knutpunkt,
-söder om Marconimotet på beslutet i vägval 2.
 med regionala centrumfunktioner och verksamheter
-Staden behöver vara drivkraften i järnvägsfrågan
 ”NÄSTA UPPEHÅLL, FRÖLUNDA!”
-Järnvägsmöjligheten innebär mycket stora osäkerheter - för lång
 • Stadsbana till Radiomotet/Järnbrott
-tid framöver. Om en järnväg blir aktuell kommer det exempelvis
 Om tåget går • Dag Hammarskjöldstaden söder om A Odhners gata kan
-att dröja lång tid innan vi vet vilken sträckning som är möjlig. Men
 via Frölunda utvecklas till kommunal knutpunkt
-redan nu kan staden skapa sig en uppfattning om vilken sträckning
 • En del av all pågående planering samt all tillkommande
-man tycker är mest lämplig. Möjligheterna till stadsutveckling                      ”MED STADSBANA
+”MED STADSBANA
 planering i Frölunda/Tynnered måste bromsas tills tåget
-skiljer sig helt åt beroende på om en järnvägsstation lokaliseras i                 TILL JÄRNBROTT”
+TILL JÄRNBROTT”
 är på plats
-Frölunda eller Järnbrott.
 Om tåget går
 • När tåget är på plats kan den maximala planeringen för
 via Järnbrott
-Det är viktigt att stadens förvaltningar landar i en gemensamt lång-                                          både Frölunda och Dag Hammarskjöldstaden realiseras
-siktig idé om en önskad framtid och fattar aktiva beslut som leder i
-En järnvägsstation i Järnbrott skulle landa i en
-den riktningen. På så sätt kan staden också föra en tydlig linje mot
-stadsmiljö som antingen kan få högt bostads-                    ”PÅ RÄLS MED MÅLBILD KOLL2035”
-berörda aktörer och intressenter och tillse att den stadsutveckling eller verksamhetsinnehåll.
+både Frölunda och Dag Hammarskjöldstaden realiseras
+”PÅ RÄLS MED MÅLBILD KOLL2035”
 • Stadsbanan kan nedgraderas och få mer lokal roll
-som sker i närtid också gagnar staden på lång sikt. Exempelvis har
 • När tåget är på plats kan Dag Hammarskjöldstaden söder
-dialogen med Trafikverket tydliggjort att staden behöver vara den
 om A Odhners gata utvecklas till både en kommunal och
-drivande aktören om en järnväg ska komma till stånd i sydvästra
 regional knutpunkt
-Göteborg. Om en järnväg ingår i stadens önskade framtid krävs
 • En del av all pågående planering samt all tillkommande
-således att staden både är en drivande aktör i frågan och fattar
 planering i Frölunda/Tynnered måste bromsas permanent
-aktiva stadsuvecklingsbeslut som stödjer en sådan linje. I annat fall
-riskerar den önskade utvecklingen att omöjliggöras.
-Vad händer   om  Järnbrott  får både
-Stadsutvecklingens samband med trafiksystemet och dess kapa-
-citet är både många och komplexa. Sambanden blir dessutom än                                              stadsbana   och järnväg?
-mer komplexa av tidsaspekten - där mer kortsiktig exploatering
-och utbyggnad inom den närmaste 15-20-årsperioden ibland                                                  Om staden aktivt börjar driva järnvägsfrågan och en järnväg
-behöver ställas i relation till stadens attraktivitet, utvecklingsmöjlig-                                 kommer till stånd inom/nära Dag Hammarskjöldstaden, kommer
-het och trafikförsörjning på lång sikt. I slutänden kommer förutsätt-                                     den att fylla både ett regionalt och ett kommunalt resbehov. Detta
-ningarna för att åstadkomma en hållbar stadsutveckling i Göteborg                                         då järnvägen dels blir ett attraktivt färdmedel för resor Kungsbacka
-att vara starkt beroende av i vilken grad som stadsutvecklingen och                                       till Göteborg. Men också för att den blir attraktiv för resor från den
-trafiksystemet balanseras.
-Fotograf: Frida Winter
-42                                                                                                                                                           43
+Vad  händer  om   Järnbrott  får både
+stadsbana   och  järnväg?
+Om staden aktivt börjar driva järnvägsfrågan och en järnväg
+kommer till stånd inom/nära Dag Hammarskjöldstaden, kommer
+den att fylla både ett regionalt och ett kommunalt resbehov. Detta
+då järnvägen dels blir ett attraktivt färdmedel för resor Kungsbacka
+
+till Göteborg. Men också för att den blir attraktiv för resor från den
+
+43
 
 <!-- sida 147 -->
 
@@ -6980,180 +7272,285 @@ Fotograf: Frida Winter
 
 <!-- sida 148 -->
 
-I detta kapitel presenteras hur vägvalen i                                                                centrala delarna av östra Högsbo industriområde finns det kvar en
-del ytor för industri- och/eller företagsområden.
+I detta kapitel presenteras hur vägvalen i
 föregående kapitel påverkar den stadsbyggnadsidé
+
 som finns för Dag Hammarskjöldstaden. Vilken typ
-Sträckan  söder  om  Marconimotet
 av omgivande stadsbebyggelse staden har som
-kan utvecklas  på  olika sätt - eller
+
 mål att skapa runt boulevarden, blir avgörande för
-inte alls
 boulevardens utformning och genomförande.
+
+Den  fördjupade   översiktsplanen
+
+sätter ramarna
+
+Givet att staden nu står inför en boulevard- och stadsomvandling,
+kombinerat med begränsningar i befintligt kollektivtrafiksystem
+och möjligheten att etablera en eventuell järnväg i området,
+aktualiseras frågan: vad ska Dag Hammarskjöldstaden bli för typ
+av stadsdel? Vad är stadsbyggnadsidén för den stadsdel, där Dag
+Hammarskjölds boulevard kan bli det centrala huvudstråket?
+Det är den fördjupade översiktsplanen för Högsbo-Frölunda som
+sätter ramarna för innehållet i den stadsbebyggelse som föreslås
+tillkomma på stora delar av sträckan längs med den framtida boule-
+varden, i Dag Hammarskjöldstaden.
+
+I planen är boulevarden ryggraden i Dag Hammarskjöldstadens
+omvandlingsområde. Omvandlingen syftar till att denna del av
+staden gradvis utvecklas från att bestå av stadsdelar omgivna
+av barriärer, till en stad där stadsdelarna är mer integrerade och
+kopplas samman av boulevarden, gator eller grönområden. För
+att binda ihop dalgången på bägge sidor om boulevarden i en
+sammanlänkad stadsbebyggelse, ska västra sidans gatunät bilda
+stommen i en övergripande rutnätsstruktur som återspeglas på
+den östra sidan av dalgången. På detta sätt skapas raka och direkta
+kopplingar mellan dalgångens bägge sidor.
+
+I planen delas Dag Hammarskjölds boulevard och den omkringlig-
+gande staden in i tre delsträckor:
+
+• På den norra delsträckan omges boulevarden av parkmiljöer
+och befintlig bostadsbebyggelse.
+• På den mellersta delsträckan byggs en ny kvartersstad upp
+som breder ut sig främst mot öster, men som också kopplas
+samman med den västliga sidan i genomgående östvästliga
+stråk.
+
+• På den södra delsträckan kommer på sikt en stadsbebyggelse,
+som liknar den på mellersta delträckan, att byggas upp.
+Skalan anpassas dock till Järnbrotts befintliga bebyggelse på
+boulevardens västra sida. I denna del kommer dagvattenhan-
+tering och skyfallsytor att påverka stadsbilden.
+Planförslaget föreslår blandstad i stora områden runt boulevarden.
+Blandstad är en bred bestämmelse som kan tillåta stor variation
+i markanvändningen. Det som eftersträvas i denna geografi är
+dock i första hand en bebyggelse med stort inslag av bostäder. I de
+
+46
+
+centrala delarna av östra Högsbo industriområde finns det kvar en
+del ytor för industri- och/eller företagsområden.
+
+Sträckan  söder  om   Marconimotet
+kan  utvecklas  på olika sätt - eller
+
+inte alls
+
 I föregående kapitel presenterades de vägval som staden står inför
 gällande stadsutvecklingen i sydvästra Göteborg, både i närtid och
 framtid. Mot bakgrund av hur vi i staden väljer att agera i dessa
-Den  fördjupade   översiktsplanen
 viktiga vägval, kan utvecklingen i delar av Dag Hammarskjöldsta-
-sätter ramarna
 den gå i väldigt olika riktning. Detta gäller särskilt sträckan söder
 om Marconimotet.
-Givet att staden nu står inför en boulevard- och stadsomvandling,
-kombinerat med begränsningar i befintligt kollektivtrafiksystem                                           För att sträckan söder om Marconimotet ska kunna omvandlas i
-och möjligheten att etablera en eventuell järnväg i området,                                              enlighet med planförslaget i den fördjupade översiktsplanen, krävs
+
+För att sträckan söder om Marconimotet ska kunna omvandlas i
+enlighet med planförslaget i den fördjupade översiktsplanen, krävs
 Fotograf: Frida Winter
-aktualiseras frågan: vad ska Dag Hammarskjöldstaden bli för typ                                           att det finns en kapacitetsstark kollektivtrafik på sträckan: antingen
+att det finns en kapacitetsstark kollektivtrafik på sträckan: antingen
 Fokus:
-av stadsdel? Vad är stadsbyggnadsidén för den stadsdel, där Dag                                           i form av stadsbana eller tåg. Det kommer dock att dröja länge
+i form av stadsbana eller tåg. Det kommer dock att dröja länge
 bostäder
-Hammarskjölds boulevard kan bli det centrala huvudstråket?                                                innan vi vet huruvida ett tåg kan bli aktuellt. Det finns en risk att
+innan vi vet huruvida ett tåg kan bli aktuellt. Det finns en risk att
 det aldrig byggs ut en järnväg i detta område. Om staden då har
-Det är den fördjupade översiktsplanen för Högsbo-Frölunda som
 bejakat pågående planering i det första vägvalet (scenario ”Med
-sätter ramarna för innehållet i den stadsbebyggelse som föreslås
 vagnen till Frölunda”) innebär det att sträckan söder om Marconi-
-tillkomma på stora delar av sträckan längs med den framtida boule-
 motet kanske inte kommer att få någon typ av spårbunden kollek-
-varden, i Dag Hammarskjöldstaden.
 tivtrafik alls. I en sådan situation kommer en av de grundläggande
 förutsättningarna för stadsutveckling här att saknas. En inriktning
-I planen är boulevarden ryggraden i Dag Hammarskjöldstadens
 mot ”Med vagnen till Frölunda” riskerar alltså att omöjliggöra
-omvandlingsområde. Omvandlingen syftar till att denna del av
 förverkligandet av hela den södra delen av boulevarden och Dag
-staden gradvis utvecklas från att bestå av stadsdelar omgivna
 Hammarskjöldstaden.
-av barriärer, till en stad där stadsdelarna är mer integrerade och
-kopplas samman av boulevarden, gator eller grönområden. För
 Men om stadens vägval inneburit att en spårbunden kollektivtrafik
-att binda ihop dalgången på bägge sidor om boulevarden i en
 (stadsbana eller tåg) kommer på plats söder om Marconimotet,
-sammanlänkad stadsbebyggelse, ska västra sidans gatunät bilda
 finns de grundläggande trafikala förutsättningarna på plats för att
-stommen i en övergripande rutnätsstruktur som återspeglas på
 realisera den fördjupade översiktsplanens fullständiga förslag till
-den östra sidan av dalgången. På detta sätt skapas raka och direkta
 stadsomvandling.
-kopplingar mellan dalgångens bägge sidor.
 Fokus:
-I planen delas Dag Hammarskjölds boulevard och den omkringlig-                     mål-/tyngdpunkt med stor andel Fokus bostäder eller tyngdpunkt?
-gande staden in i tre delsträckor:                                                       verksamheter
+mål-/tyngdpunkt med stor andel Fokus bostäder eller tyngdpunkt?
+verksamheter
 Den fördjupade översiktsplanen har inte haft samma detaljerings-
-• På den norra delsträckan omges boulevarden av parkmiljöer                                              nivå som denna åtgärdsvalsstudie. Den lämnar därför ett visst
-och befintlig bostadsbebyggelse.                                                                       handlingsutrymme vad gäller markanvändningen i anslutning till
+nivå som denna åtgärdsvalsstudie. Den lämnar därför ett visst
+handlingsutrymme vad gäller markanvändningen i anslutning till
 boulevarden, sydost om Marconimotet i östra Högsbo. Den stora
-• På den mellersta delsträckan byggs en ny kvartersstad upp
 frågan handlar om huruvida fokus i förtätningen ska ligga på att
-som breder ut sig främst mot öster, men som också kopplas
 etablera mestadels bostäder, eller utveckla östra Högsbo till mer
-samman med den västliga sidan i genomgående östvästliga
 av en tyngdpunkt i staden och eventuellt regionen. I denna fråga
-stråk.
 är staden inte ensam aktör. En utveckling av östra Högsbo kräver
-• På den södra delsträckan kommer på sikt en stadsbebyggelse,                                            samarbete med flera av samhällets aktörer, inte minst näringslivet
-som liknar den på mellersta delträckan, att byggas upp.                                                och Västra Götalandsregionen. Men genom planmonopolet har
-Skalan anpassas dock till Järnbrotts befintliga bebyggelse på                                          staden en särställning i att skapa en gemensam målbild för stadsut-
-boulevardens västra sida. I denna del kommer dagvattenhan-                                             vecklingen och vara drivande i att den förverkligas.
-tering och skyfallsytor att påverka stadsbilden.
+samarbete med flera av samhällets aktörer, inte minst näringslivet
+och Västra Götalandsregionen. Men genom planmonopolet har
+staden en särställning i att skapa en gemensam målbild för stadsut-
+vecklingen och vara drivande i att den förverkligas.
 Med anledning av detta har denna åtgärdsvalsstudie fördjupat sig
-Planförslaget föreslår blandstad i stora områden runt boulevarden.                                        i markanvändningsfrågan och tagit fram ett antal fördjupningar,
-Blandstad är en bred bestämmelse som kan tillåta stor variation                                           som mycket översiktligt vidareutvecklar den fördjupade översikts-
-i markanvändningen. Det som eftersträvas i denna geografi är                                              planens stadsbyggnadsidé. Detta för att visa på att det finns en stor
-dock i första hand en bebyggelse med stort inslag av bostäder. I de
+i markanvändningsfrågan och tagit fram ett antal fördjupningar,
+som mycket översiktligt vidareutvecklar den fördjupade översikts-
+planens stadsbyggnadsidé. Detta för att visa på att det finns en stor
 Fotograf: Frida Winter
-46                                                                                                                                                           47
+47
 
 <!-- sida 149 -->
 
-variation av stadsutvecklingspotential i östra Högsbo, söder om                                           Med ett högt bostadsinnehåll skulle området kunna bli ett attrak-
-Marconimotet. Alla fördjupningar ryms inom planförslagets ramar. ”NÄSTA UPPEHÅLL, FRÖLUNDA!” ”PÅ RÄLS MED MÅLBILD tivt område för boende, med mycket god möjlighet till resor inom
-• Stadsbana till Radiomotet/          KOLL2035”              staden men också med en attraktiv uppkoppling till regional och
-Järnbrott                            • Stadsbanan kan nedgraderas nationell järnväg.
+variation av stadsutvecklingspotential i östra Högsbo, söder om
+Marconimotet. Alla fördjupningar ryms inom planförslagets ramar.
+
 Söder  om  Marconi   - med  enbart
-• Dag Hammarskjöldstaden                 och få mer lokal roll
-söder om A Odhners gata              • När tåget är på plats kan Dag
 stadsbana
-Söder  om  Marconi   - med  både  tåg
-kan utvecklas till kommunal            Hammarskjöldstaden söder
-knutpunkt                              om A Odhners gata utveck-
-Det scenario som lägger grunden för denna fördjupning är                                                  och stadsbana
-• En del av all pågående                 las till både en kommunal
+
+Det scenario som lägger grunden för denna fördjupning är
 ”Nästa uppehåll, Frölunda!” eller eventuellt ”Maximalt med spår i
-planering samt all tillkom-            och regional knutpunkt
-Frölunda”. För att ”Maximalt med spår i Frölunda” ska möjliggöra                                          Det scenario som lägger grunden för denna fördjupning är ”På räls
-mande planering i Frölunda/
-denna fördjupning krävs att man leder om en av Frölundabanans                                             med Målbild Koll2035”. Med både ett tåg och en stadsbana som
-Tynnered måste bromsas tills
-spårvägslinjer till Radiomotet/Järnbrott efter att tåget har kommit                                       stannar i Radiomotet/Järnbrott, har staden i detta fall möjlighet
-tåget är på plats
-på plats.                                                                                                 att omvandla östra Högsbo i riktning mot en stadsdel med samma
-• När tåget är på plats kan
-goda förutsättningar som tåg ger möjlighet till i fördjupningen
-Med ett tåg som stannar i Frölunda och en stadsbana som går hela den maximala planeringen
-ovan. Skillnaden är att i denna fördjupning ges både boende och
-vägen från Marklandsplatsen till Radiomotet/Järnbrott, har staden för både Frölunda och
-de som arbetar i området ännu bättre möjligheter till resande inom
-möjlighet att omvandla östra Högsbo i riktning mot: Dag Hammarskjöldstaden
-staden, med den kapacitetsstarka stadsbanan. Stadsbanan kom-
-realiseras
-pletterar det mycket snabba tåget genom både sin högre turtäthet
+Frölunda”. För att ”Maximalt med spår i Frölunda” ska möjliggöra
+denna fördjupning krävs att man leder om en av Frölundabanans
+spårvägslinjer till Radiomotet/Järnbrott efter att tåget har kommit
+på plats.
+
+Med ett tåg som stannar i Frölunda och en stadsbana som går hela
+vägen från Marklandsplatsen till Radiomotet/Järnbrott, har staden
+möjlighet att omvandla östra Högsbo i riktning mot:
+
 • ett högt bostadsinnehåll eller
-och högre integrering i staden.
 • ett fortsatt högt verksamhetsinnehåll, men i riktning mot fler
-”MAXIMALT MED SPÅR I
 yteffektiva verksamheter
-FRÖLUNDA”
-”Nollalternativet” - en olämplig
-Med inriktning mot fortsatt högt verksamhetsinnehåll skulle • Frölunda får både stadsbana
-området söder om A Odhners gata kunna bli ett växande verksam- och tåg                                    utveckling
-hetsområde på lång sikt och fungera mer som en mål-/tyngdpunkt • All pågående planering i
-i staden. Viss bostadsförtätning skulle kunna komplettera detta, Frölunda kan fortsätta                   Nollalternativet innebär att den fördjupade översiktsplanen för
-men den skulle i huvudsak ske norr om A Odhners gata. • Tågstationen landar mitt i ett                    Högsbo-Frölunda inte antas. Istället fortsätter den fördjupade
-bostadsområde                                              översiktsplanen för Fässbergsdalen att gälla, tillsammans med
+
+Med inriktning mot fortsatt högt verksamhetsinnehåll skulle
+området söder om A Odhners gata kunna bli ett växande verksam-
+hetsområde på lång sikt och fungera mer som en mål-/tyngdpunkt
+i staden. Viss bostadsförtätning skulle kunna komplettera detta,
+men den skulle i huvudsak ske norr om A Odhners gata.
 Med en ökning av antalet arbetstillfällen skulle närområdenas
-• (I detta scenario bör en av                                planprogram i området.
 behov av att pendla in till centrumkärnan och andra arbetsplats-
-Frölundabanans spårvägslin-
-områden, kunna minska. Minskade resbehov är positivt både på                                              ”Nollalternativet” innebär en utbyggnad till viss del i östra Högsbo,
-jer ledas om till Radiomotet/
-lokal nivå, men även på kommunal nivå för hela stadens trafiksys-                                         men utan tillkomsten av en stadsbana och boulevard. Scenariot
-Järnbrott, så att Dag Ham-
-tem. Hur stor andel av de närboende invånarna som arbetar inom                                            bygger istället på kollektivtrafikförsörjning med buss i Dag Ham-
-marskjöldstaden söder om A
-området kommer dock vara beroende av bland annat arbetsplat-                                              marskjöldsleden. Detta är inte en robust lösning med tanke på de
-Odhners gata kan utvecklas
-sernas karaktär.                                                                                          identifierade kapacitetsproblemen för kollektivtrafiken i city.
-med stadsbanan som grund)
-”Nollalternativet” innebär att:
-Söder  om  Marconi   - med  enbart  tåg     ”NÄSTA UPPEHÅLL, JÄRNBROTT!”
-• Pågående planering (+ ca 20 000 inv.) genomförs
-• All pågående planering i
-Det scenario som lägger grunden för denna fördjupning är ”Nästa Frölunda kan fortsätta                     • Öar med hög bostadstäthet bildas i östra Högsbo
-uppehåll, Järnbrott!”. Med ett tåg som stannar i Järnbrott och en • Stadsbanan viker av västerut
-• Hög förtätning sker på den västra sidan av leden
-stadsbana som inte fortsätter söder om Marconimotet, har staden i i Marconimotet
-detta fall möjlighet att omvandla östra Högsbo i riktning mot: • När tåget är på plats kan Dag             • Dag Hammarskjöldsleden fortsätter att vara en trafikled som
-trafikeras av expressbussar
-Hammarskjöldstaden söder
+områden, kunna minska. Minskade resbehov är positivt både på
+lokal nivå, men även på kommunal nivå för hela stadens trafiksys-
+tem. Hur stor andel av de närboende invånarna som arbetar inom
+området kommer dock vara beroende av bland annat arbetsplat-
+sernas karaktär.
+
+Söder  om  Marconi   - med  enbart  tåg
+
+Det scenario som lägger grunden för denna fördjupning är ”Nästa
+uppehåll, Järnbrott!”. Med ett tåg som stannar i Järnbrott och en
+stadsbana som inte fortsätter söder om Marconimotet, har staden i
+detta fall möjlighet att omvandla östra Högsbo i riktning mot:
+
 • ett mycket högt bostadsinnehåll eller
-om A Odhners gata utveck-                                   • Sannolikheten för en järnväg med framtida station(er) i områ-
-• ett fortsatt högt verksamhetsinnehåll, men i riktning mot las till en regional knutpunkt,                 det minskar drastiskt, då staden väljer att inte aktivt planera
-verksamheter av regional karaktär (till exempel hälso- och med regionala centrumfunk-                     för det
-sjukvårdsinrättningar, högre utbildningsverksamhet, sport-/ tioner och verksamheter
-Vidare innebär ”Nollalternativet” att nuvarande brokonstruktioner
+• ett fortsatt högt verksamhetsinnehåll, men i riktning mot
+verksamheter av regional karaktär (till exempel hälso- och
+sjukvårdsinrättningar, högre utbildningsverksamhet, sport-/
 fritids-/eventanläggningar)
-behöver underhållas, då Dag Hammarskjöldsleden fortsätter att
+
 Med inriktning mot verksamheter skulle östra Högsbo kunna
-vara en trafikled. ”Nollalternativet” medför därmed också betydan-
 utvecklas till en stor mål-/tyngdpunkt för både staden och regio-
-de investeringskostnader, men utan att frigöra intilliggande mark
 nen. I centrum för tyngdpunkten ligger järnvägsstationen. Mar-
-för exploatering och stadsomvandling.
 kanvändningen runt denna behöver avvägas noga. Detta för att
-maximera stationens roll som lokaliseringsfaktor för verksamheter                                         Sammantaget är ”Nollalternativet” en fullt möjlig - men inte lämplig
-som vill etablera sig i en storstadsregion, med närhet till mycket                                        utveckling - då tänkbara konsekvenser av en sådan utveckling vore:
+maximera stationens roll som lokaliseringsfaktor för verksamheter
+som vill etablera sig i en storstadsregion, med närhet till mycket
 god regional och kommunal tillgänglighet.
-48                                                                                                                                                           49
+
+48
+
+”NÄSTA UPPEHÅLL, FRÖLUNDA!”
+• Stadsbana till Radiomotet/
+Järnbrott
+• Dag Hammarskjöldstaden
+söder om A Odhners gata
+kan utvecklas till kommunal
+knutpunkt
+• En del av all pågående
+planering samt all tillkom-
+mande planering i Frölunda/
+Tynnered måste bromsas tills
+tåget är på plats
+• När tåget är på plats kan
+den maximala planeringen
+för både Frölunda och
+Dag Hammarskjöldstaden
+realiseras
+
+”MAXIMALT MED SPÅR I
+FRÖLUNDA”
+• Frölunda får både stadsbana
+och tåg
+• All pågående planering i
+Frölunda kan fortsätta
+• Tågstationen landar mitt i ett
+bostadsområde
+• (I detta scenario bör en av
+Frölundabanans spårvägslin-
+jer ledas om till Radiomotet/
+Järnbrott, så att Dag Ham-
+marskjöldstaden söder om A
+Odhners gata kan utvecklas
+med stadsbanan som grund)
+
+”NÄSTA UPPEHÅLL, JÄRNBROTT!”
+• All pågående planering i
+Frölunda kan fortsätta
+• Stadsbanan viker av västerut
+i Marconimotet
+
+• När tåget är på plats kan Dag
+Hammarskjöldstaden söder
+om A Odhners gata utveck-
+las till en regional knutpunkt,
+med regionala centrumfunk-
+tioner och verksamheter
+
+Med ett högt bostadsinnehåll skulle området kunna bli ett attrak-
+”PÅ RÄLS MED MÅLBILD   tivt område för boende, med mycket god möjlighet till resor inom
+KOLL2035”              staden men också med en attraktiv uppkoppling till regional och
+• Stadsbanan kan nedgraderas nationell järnväg.
+och få mer lokal roll
+• När tåget är på plats kan Dag
+Söder  om  Marconi   - med  både  tåg
+Hammarskjöldstaden söder
+om A Odhners gata utveck-
+och stadsbana
+las till både en kommunal
+och regional knutpunkt
+Det scenario som lägger grunden för denna fördjupning är ”På räls
+med Målbild Koll2035”. Med både ett tåg och en stadsbana som
+stannar i Radiomotet/Järnbrott, har staden i detta fall möjlighet
+att omvandla östra Högsbo i riktning mot en stadsdel med samma
+goda förutsättningar som tåg ger möjlighet till i fördjupningen
+ovan. Skillnaden är att i denna fördjupning ges både boende och
+de som arbetar i området ännu bättre möjligheter till resande inom
+staden, med den kapacitetsstarka stadsbanan. Stadsbanan kom-
+pletterar det mycket snabba tåget genom både sin högre turtäthet
+och högre integrering i staden.
+”Nollalternativet”  - en olämplig
+utveckling
+
+Nollalternativet innebär att den fördjupade översiktsplanen för
+Högsbo-Frölunda inte antas. Istället fortsätter den fördjupade
+översiktsplanen för Fässbergsdalen att gälla, tillsammans med
+planprogram i området.
+”Nollalternativet” innebär en utbyggnad till viss del i östra Högsbo,
+men utan tillkomsten av en stadsbana och boulevard. Scenariot
+bygger istället på kollektivtrafikförsörjning med buss i Dag Ham-
+marskjöldsleden. Detta är inte en robust lösning med tanke på de
+
+identifierade kapacitetsproblemen för kollektivtrafiken i city.
+”Nollalternativet” innebär att:
+
+• Pågående planering (+ ca 20 000 inv.) genomförs
+• Öar med hög bostadstäthet bildas i östra Högsbo
+
+• Hög förtätning sker på den västra sidan av leden
+• Dag Hammarskjöldsleden fortsätter att vara en trafikled som
+trafikeras av expressbussar
+
+• Sannolikheten för en järnväg med framtida station(er) i områ-
+det minskar drastiskt, då staden väljer att inte aktivt planera
+för det
+Vidare innebär ”Nollalternativet” att nuvarande brokonstruktioner
+behöver underhållas, då Dag Hammarskjöldsleden fortsätter att
+vara en trafikled. ”Nollalternativet” medför därmed också betydan-
+de investeringskostnader, men utan att frigöra intilliggande mark
+för exploatering och stadsomvandling.
+
+Sammantaget är ”Nollalternativet” en fullt möjlig - men inte lämplig
+utveckling - då tänkbara konsekvenser av en sådan utveckling vore:
+
+49
 
 <!-- sida 150 -->
 
@@ -7215,76 +7612,236 @@ Fotograf: Rebecca Havedal
 
 <!-- sida 153 -->
 
-I detta kapitel presenteras det specifika målet för                                                       stråk som binder ihop stadsdelen och adderar både sociala och ekologiska
-värden.”
+I detta kapitel presenteras det specifika målet för
 denna åtgärdsvalsstudie, tillsammans med det
-(ur Fördjupad översiktsplan för Högsbo-Frölunda med Dag Hammar-
-innehåll och de funktioner som vi ser är viktiga                                                          sköljdsleden).
-för att uppnå målet. Utifrån detta diskuteras
-utformningen av boulevarden, givet boulevardens                                                           Eftersträvade  trafikala funktioner
 
+innehåll och de funktioner som vi ser är viktiga
+för att uppnå målet. Utifrån detta diskuteras
+
+utformningen av boulevarden, givet boulevardens
 roll som stadsrum.
-Hur byggs spårväg i stadsmiljö på andra platser
-idag?
-Mål                                                                                                       Inom ramen för denna studie har en kortare genomlysning gjorts
-av hur man har byggt spårväg under de senaste tio åren i andra
-Åtgärdsvalsstudien tar avstamp i det övergripande mål som har                                             europeiska städer, jämförbara med Göteborg1. Avsikten har varit att
-formulerats för Dag Hammarskjöldstaden (se Inledningskapitlet).                                           få en bild av de senaste trenderna kring europeisk spårvägsutbygg-
-Utifrån det har följande mål formulerats för denna åtgärdsvalsstu-                                        nad i stadsmiljö.
+
+Mål
+
+Åtgärdsvalsstudien tar avstamp i det övergripande mål som har
+formulerats för Dag Hammarskjöldstaden (se Inledningskapitlet).
+Utifrån det har följande mål formulerats för denna åtgärdsvalsstu-
 die:
+
+Dag Hammarskjölds boulevard ska stödja stadsomvandlingen i Västra
+Göteborg och bidra till både hållbar mobilitet och goda stadsmiljöer.
+
+För att uppnå detta mål har denna studie preciserat ett antal
+funktioner som boulevarden behöver fylla, både ur ett trafikalt
+perspektiv och för det omgivande stadsrummet.
+Arbetet har utgått ifrån att en boulevard- och stadsomvandling
+kommer att vara möjlig för hela sträckan mellan Linnéplatsen och
+Järnbrottsmotet.
+
+Eftersträvade  stadsmiljöfunktioner
+
+En av de viktigaste delarna i goda stadsmiljöer är människor -
+folkliv. Möjligheten att se och interagera med andra människor är
+fundamental för att vilja och våga vistas i det offentliga rummet,
+dag- som kvällstid. Att Dag Hammarskjölds boulevard blir en viktig
+pulsåder i staden, som genererar stadsliv och mänsklig aktivitet är
+därför helt avgörande för om detta blir en fungerande stadsmiljö i
+framtiden eller inte.
+
+För att attrahera människor till boulevarden krävs att det finns
+målpunkter med dragningskraft. Boulevarden behöver därför
+omges av en stadsbebyggelse som ger så goda förutsättningar
+som möjligt för att lokalisera målpunkter och verksamheter här.
+Vidare behöver boulevarden ge goda förutsättningar för människor
+att både vistas och röra sig i området. Här krävs både tillräckliga
+ytor för gångtrafik, likväl som platser att vistas på. Boulevarden
+
+behöver innehålla en variation av platser, både vad gäller storlek
+och användningsområden. På så sätt kan den stadsmiljö som växer
+fram runt boulevarden bli en spännande och omväxlande stadsmil-
+jö. Platserna som skapas behöver bidra till att utveckla grönstruk-
+turen i området, då gröna kvaliteter saknas i stora delar av området
+som omger leden idag.
+”Attraktiva gröna offentliga rum spelar en viktig roll som identitets-
+skapare i omvandlingen av industriområden till blandad stadsmiljö.
+Genom plantering av träd och annan grönska i gatumiljön skapas gröna
+
+56
+
+stråk som binder ihop stadsdelen och adderar både sociala och ekologiska
+värden.”
+(ur Fördjupad översiktsplan för Högsbo-Frölunda med Dag Hammar-
+sköljdsleden).
+
+Eftersträvade   trafikala funktioner
+
+Hur byggs spårväg i stadsmiljö på andra platser
+
+idag?
+Inom ramen för denna studie har en kortare genomlysning gjorts
+av hur man har byggt spårväg under de senaste tio åren i andra
+europeiska städer, jämförbara med Göteborg1. Avsikten har varit att
+få en bild av de senaste trenderna kring europeisk spårvägsutbygg-
+nad i stadsmiljö.
+
 I de undersökta exemplen kan generellt sägas att trenden varit
 Fotograf: Frida Winter                 Fotograf: Rebecca Havedal
-Dag Hammarskjölds boulevard ska stödja stadsomvandlingen i Västra                                         att skapa en kapacitetsstark kollektivtrafik som är tillgänglig i de
-Göteborg och bidra till både hållbar mobilitet och goda stadsmiljöer.                                     områden som den trafikerar. För att uppnå tillgänglighet har man
+att skapa en kapacitetsstark kollektivtrafik som är tillgänglig i de
+områden som den trafikerar. För att uppnå tillgänglighet har man
 försökt skapa närhet till bebyggelse och undvika planskildheter
-För att uppnå detta mål har denna studie preciserat ett antal
 vid hållplatser. Trenden har också varit att minimera barriäreffekter
-funktioner som boulevarden behöver fylla, både ur ett trafikalt
 och delvis omfördela utrymme och kapacitet från biltrafiken till
-perspektiv och för det omgivande stadsrummet.
 spårtrafiken. Syftet med detta har varit att uppnå ett effektivare
-Arbetet har utgått ifrån att en boulevard- och stadsomvandling                                            transportsystem, som både kan stödja stadsutvecklingen och ge
-kommer att vara möjlig för hela sträckan mellan Linnéplatsen och                                          ökade fastighetsvärden. I de fall som projekten har genomförts, har
-Järnbrottsmotet.                                                                                          syftet uppnåtts.
+transportsystem, som både kan stödja stadsutvecklingen och ge
+ökade fastighetsvärden. I de fall som projekten har genomförts, har
+syftet uppnåtts.
 I västra Tyskland var byggnationen av snabba korsningsfria spår-
-Eftersträvade  stadsmiljöfunktioner                                                                       vägar på särskild banvall, ett ideal under 1960- och 70-talen. Under
+vägar på särskild banvall, ett ideal under 1960- och 70-talen. Under
 de senaste årtiondena har man generellt frångått byggnationen av
-En av de viktigaste delarna i goda stadsmiljöer är människor -                                            planskilda kapacitetsstarka spårvägar, bland annat med hänvisning
-folkliv. Möjligheten att se och interagera med andra människor är                                         till att de skapa otrygghet. Under de senaste årtiondena har man
-fundamental för att vilja och våga vistas i det offentliga rummet,                                        istället valt att bygga spårväg i markplan för att uppnå en ökad
-dag- som kvällstid. Att Dag Hammarskjölds boulevard blir en viktig                                        närhet och tillgänglighet, lägre kostnader och ge kollektivtrafiken
-pulsåder i staden, som genererar stadsliv och mänsklig aktivitet är                                       en tydligare närvaro i stadsrummet:
-därför helt avgörande för om detta blir en fungerande stadsmiljö i
+planskilda kapacitetsstarka spårvägar, bland annat med hänvisning
+till att de skapa otrygghet. Under de senaste årtiondena har man
+istället valt att bygga spårväg i markplan för att uppnå en ökad
+närhet och tillgänglighet, lägre kostnader och ge kollektivtrafiken
+en tydligare närvaro i stadsrummet:
+
 ”De flesta tyska större städer har en mobilitetsplan som syftar till att
-framtiden eller inte.
 minska biltrafiken och då är spårvagnens närvaro i gaturummet inte
-För att attrahera människor till boulevarden krävs att det finns                                          längre ett kapacitetsproblem utan en symbol för det moderna sättet att
-målpunkter med dragningskraft. Boulevarden behöver därför                                                 resa samtidigt som den bidrar till att minska ytorna för biltrafiken.”
-omges av en stadsbebyggelse som ger så goda förutsättningar                                               (Ny spårväg i stadsmiljö - hur gör man i Sverige och Europa?, Trivector,
-som möjligt för att lokalisera målpunkter och verksamheter här.                                           2020:3)
-Vidare behöver boulevarden ge goda förutsättningar för människor
+längre ett kapacitetsproblem utan en symbol för det moderna sättet att
+resa samtidigt som den bidrar till att minska ytorna för biltrafiken.”
+(Ny spårväg i stadsmiljö - hur gör man i Sverige och Europa?, Trivector,
+2020:3)
+
 Eftersträvade funktioner för kollektivtrafik
-att både vistas och röra sig i området. Här krävs både tillräckliga
-ytor för gångtrafik, likväl som platser att vistas på. Boulevarden                                        I enlighet med Målbild Koll2035 är denna studies huvudinriktning
-behöver innehålla en variation av platser, både vad gäller storlek                                        att boulevarden inte ska innehålla flera parallella kollektivtrafikslag
-och användningsområden. På så sätt kan den stadsmiljö som växer                                           på hela sträckan när den är färdigställd, det vill säga både stadsba-
-fram runt boulevarden bli en spännande och omväxlande stadsmil-                                           na och express-/metrobuss i separata busskörfält. Färdigställandet
-jö. Platserna som skapas behöver bidra till att utveckla grönstruk-                                       av en ny effektiv spårbunden trafik mellan Marklandsplatsen och
-turen i området, då gröna kvaliteter saknas i stora delar av området                                      Radiomotet, i kombination med införandet av metrobusskoncep-
-som omger leden idag.                                                                                     tet, förväntas kunna ersätta dagens region-/expressbusstrafik på
+I enlighet med Målbild Koll2035 är denna studies huvudinriktning
+
+att boulevarden inte ska innehålla flera parallella kollektivtrafikslag
+på hela sträckan när den är färdigställd, det vill säga både stadsba-
+na och express-/metrobuss i separata busskörfält. Färdigställandet
+av en ny effektiv spårbunden trafik mellan Marklandsplatsen och
+Radiomotet, i kombination med införandet av metrobusskoncep-
+tet, förväntas kunna ersätta dagens region-/expressbusstrafik på
 leden. Detta är samtidigt fördelaktigt ur ett stadsmiljöperspektiv,
-”Attraktiva gröna offentliga rum spelar en viktig roll som identitets-
 1 Genomlysningen har främst omfattat tyska och nordiska spårvägsutbyggna-
-skapare i omvandlingen av industriområden till blandad stadsmiljö.
 der, då dessa blivit del av ett befintligt spårvägsnät. Franska exempel har inte
-Genom plantering av träd och annan grönska i gatumiljön skapas gröna                                       inkluderats då dessa byggts i städer som dittills saknat spårväg.
+inkluderats då dessa byggts i städer som dittills saknat spårväg.
 Fotograf: Martin Söderqvist            Fotograf: Lo Birgersson
-56                                                                                                                                                           57
+57
 
 <!-- sida 154 -->
 
-MVÅAL DO ÄCRH U GSTTÖMRTAAENTBIEONGGRIGAERRS 333
-TRSAtrFaItKegSiT fRörA TreEsGorI
+då expressbussarnas behov av hög framkomlighet inte bedöms
+samspela väl med de stadsmiljöfunktioner som eftersträvas i
+boulevarden.
+
+Sträckan norr om Annedalsmotet är dock utpekad som Citybuss-
+tråk i Målbild Koll2035. Detta innebär att boulevarden ska möjlig-
+göra för en trafikering med Citybuss, inom de två körfält som finns
+tillgängliga i varje riktning. Behoven för citybussen och hur dessa
+tas omhand norr om Annedalsmotet behöver studeras mer i detalj i
+det fortsatta arbetet.
+I planeringen av den spårbundna kollektivtrafiken längs boule-
+varden har denna åtgärdsvalsstudie använt Målbild Koll2035:s
+guidelines. Målbildens guidelines anger nedanstående rikt- och
+gränsvärden för utformning av stadens framtida stadsbanestråk:
+
+Målbild Koll2035:s guidelines för stadsbana.
+
+TUR-   MAX-  HÅLPLATS- KORSNINGAR SEPARERING
+TÄTHET HASTIGHET AVSTÅND
+GRÖN 5/7,5/10 minst minst planskilda egen spårbana
+NIVÅ
+min   70 km/h 1000 m      (utan buss)
+GUL  7,5/10/15 minst minst signalpriori- egen spårbana
+NIVÅ
+min   50 km/h 600 m terad i plan, (gemensam
+i anslutning med buss)
+till hållplats
+Målbilden pekar ut en stadsbana i Dag Hammarskjöldsledens
+sträckning, vilket tydliggör dess funktion som viktigt kommunalt
+kollektivtrafikstråk. Men för att möjliggöra den eftersträvade stads-
+utvecklingen som också ska binda ihop Frölunda och östra Högsbo,
+krävs att lokala resor inom Dag Hammarskjöldstaden möjliggörs på
+ett bra sätt. Det innebär att stadsbanan behöver bidra till en god
+tillgänglighet också inom Dag Hammarskjöldstaden och inte enbart
+för de kollektivtrafikresenärer som reser genom stråket.
+
+Huvudinriktningen för denna åtgärdsvalsstudie har varit att stads-
+banan i Dag Hammarskjöldstråket ska utformas med större effek-
+tivitet och framkomlighet än Frölundabanan. På Frölundabanan är
+framför allt hållplatsavstånden för korta. Ambitionen i denna studie
+har varit att möjliggöra för stadsbana på grön nivå i boulevarden
+\- i så stor utsträckning som det har ansetts vara lämpligt - givet
+en avvägning mellan eftersträvansvärda trafikala funktioner och
+stadsmiljöfunktioner. Där grön nivå inte ansetts lämpligt uppnås
+ändå gul nivå. För att uppnå både kapacitetsstark kollektivtrafik
+och attraktiva stadsmiljöer är det nödvändigt att använda gul nivå
+på vissa sträckor. Exempelvis bedöms en maxhastighet om 50 km/h
+vara mest lämpligt på den mest tätbebyggda delen av boulevar-
+den.
+
+Målbildens guidelines är dock olika lätta att förverkliga utifrån de
+eftersträvade funktionerna för både trafik och stadsmiljö. Grön nivå
+för turtäthet och separering är exempelvis lättare att tillgodose
+än grön nivå för hastighet, hållplatsavstånd och korsningar. De
+tre senare är också svåra att se som fristående indikatorer, då de
+samverkar i hög utsträckning. En högre tillåten hastighet är exem-
+
+58
+
+MÅLBILD KOLL2035:s
+GUIDELINES
+
+Guidelines för målbildens koncept
+visar vilka egenskaper stomnätets
+delar behöver ha för att tillsammans
+uppfylla kvalitetsmålen. De funge-
+rar även som verktyg för att iden-
+tifiera nödvändiga åtgärder i varje
+enskilt stråk och är tänkta att an-
+vändas i vidare utredningsarbeten.
+
+GRÖN NIVÅ
+Grön nivå beskriver riktvärdet. I
+de fall kollektivtrafikens anspråk
+hamnar i konflikt med andra
+intressen på en delsträcka, kan
+en sänkning till gul nivå för vis-
+sa parametrar vara motiverad.
+GUL NIVÅ
+Gul nivå beskriver gränsvärdet
+för kvalitetskraven. Så länge
+gul nivå används i begränsad
+omfattning och standarden i
+övrigt är grön, kan en linje eller
+ett stråk som helhet anses leva
+upp till konceptets kvalitetskrav.
+
+HUR ANVÄNDS GUIDELINES?
+När en linje eller ett stråk ska pla-
+neras ses varje delsträcka över
+och bedöms gentemot Guidelines
+parametrar. En delsträcka beteck-
+nas som grön om samtliga infra-
+strukturparametrar uppfyller grön
+nivå. Om en eller flera parametrar
+endast uppfyller gul nivå blir den
+delsträckan gul. Om någon av pa-
+rametrarna varken uppnår grön
+eller gul nivå blir sträckan röd.
+
+Kvaliteten anses hög om hela
+sträckan är grön. Om några del-
+sträckor är gula kan kvaliteten anses
+vara god förutsatt att merparten av
+hela stråket ändå är grön. Även i de
+fall där en röd delsträcka existerar
+kan kvaliteten anses tillräcklig, för-
+utsatt att sträckan är mycket kort
+
+Källa: Västra Götalandsregionen,
+Göteborgs Stad, Mölndals stad & Partille
+kommun. 2018. Målbild Koll2035.
+
 tjänster. Detta gäller även tillämpningar för att förbättra framkomlighet och kvalitet i
 spårbunden trafik och annan kollektivtrafik. Tillsammans med andra väghållare och
 myndigheter och i samarbete med kommersiella aktörer ska staden erbjuda kvalitets-
@@ -7293,13 +7850,9 @@ erbjuda ’öppen data’ och förberedda testrutter.
 Samspelet mellan olika typer av fordon och trafik- och stadsmiljön kommer att öka,
 vilket understryker vikten av att staden kan erbjuda en digital infrastruktur vid sidan av
 gator och vägar.
-Samordnad trafikledning: Trafikkontoret
-och Trafikverket bedriver under 2013–2014
-en försöksverksamhet med målet att
-Principiell struktur för användning informera och vägleda trafikanter dygnet
-av vägar och gator              runt. Det sker i nära samverkan med
-vägassistans, räddningstjänst, polis och
-kollektivtrafiken.
+Principiell struktur för användning
+av vägar och gator
+
 Kör Nära
 I alla miljöer där oskyddade trafikanter samspelar med motorfordons-
 trafik behöver fordonshastigheten vara låg, från gångfart till 30 km/h.
@@ -7322,6 +7875,18 @@ nationella och regionala vägarna. Detta vägnät fyller en viktig funktion
 för näringslivets transporter och kollektivtrafik och utgör stommen för
 biltrafikförflyttningar. Trafiken här ska flyta så effektivt som möjligt och
 skyltad hastighet kan variera mellan 60-80 km/h.
+
+MVÅAL DO ÄCRH U GSTTÖMRTAAENTBIEONGGRIGAERRS 333
+TRSAtrFaItKegSiT fRörA TreEsGorI
+
+Samordnad trafikledning: Trafikkontoret
+och Trafikverket bedriver under 2013–2014
+en försöksverksamhet med målet att
+informera och vägleda trafikanter dygnet
+runt. Det sker i nära samverkan med
+vägassistans, räddningstjänst, polis och
+kollektivtrafiken.
+
 Appen Cykelstaden från Trafikkontoret
 underlättar cyklingen, men är även en
 plattform för felanmälningar och annan
@@ -7330,117 +7895,11 @@ bygger på på öppen data (data.goteborg.se)
 från olika verksamheter inom staden som
 är tillgänglig för andra utvecklare av
 IT­tjänster.
-då expressbussarnas behov av hög framkomlighet inte bedöms                                                pelvis till väldigt liten nytta om hållplatsavståndet inte möjliggör
-MÅLBILD KOLL2035:s
-samspela väl med de stadsmiljöfunktioner som eftersträvas i                                               att nå denna på längre sträckor. Planskildhet innebär också en
-GUIDELINES
-boulevarden.                                                                                              investering som inte har tillräcklig nytta om man inte uppnår den
-Guidelines för målbildens koncept                             högre hastigheten och längre hållplatsavståndet.
-Sträckan norr om Annedalsmotet är dock utpekad som Citybuss-
-visar vilka egenskaper stomnätets
-tråk i Målbild Koll2035. Detta innebär att boulevarden ska möjlig-                                        Inom åtgärdsvalsstudien har vi undersökt hur en stadsbana skulle
-delar behöver ha för att tillsammans
-göra för en trafikering med Citybuss, inom de två körfält som finns                                       kunna utformas för att uppnå grön nivå i samtliga kvalitetskrav. En
-uppfylla kvalitetsmålen. De funge-
-tillgängliga i varje riktning. Behoven för citybussen och hur dessa                                       stadsbana helt enligt grön nivå skulle framför allt leda till en kraftig
-rar även som verktyg för att iden-
-tas omhand norr om Annedalsmotet behöver studeras mer i detalj i                                          försämring för omgivande stadsutveckling och möjligheten att
-tifiera nödvändiga åtgärder i varje
-det fortsatta arbetet.                                                                                    skapa goda stadsmiljöer. Detta alternativ har därför valts bort (se
-enskilt stråk och är tänkta att an-
-vidare under kapitel 3.4).
-I planeringen av den spårbundna kollektivtrafiken längs boule- vändas i vidare utredningsarbeten.               TRAFIKSTRATEGI FÖR EN NÄRA STORSTAD – 39
-varden har denna åtgärdsvalsstudie använt Målbild Koll2035:s
-GRÖN NIVÅ                                                     Eftersträvade funktioner för biltrafik
-guidelines. Målbildens guidelines anger nedanstående rikt- och
-Grön nivå beskriver riktvärdet. I
-gränsvärden för utformning av stadens framtida stadsbanestråk:                                            Med sin sträckning genom två stadsdelar och med en ändpunkt
-de fall kollektivtrafikens anspråk
-i innerstaden (Linnéplatsen), kommer boulevarden även fortsätt-
-hamnar i konflikt med andra
-Målbild Koll2035:s guidelines för stadsbana.
-ningsvis att vara aktuell för trafik till stadens viktiga målpunkter
-intressen på en delsträcka, kan
-TUR-  MAX-   HÅLPLATS- KORSNINGAR SEPARERING                                                         som ligger längs/nära boulevarden. Som huvudstråk i den framväx-
-en sänkning till gul nivå för vis-
-TÄTHET HASTIGHET AVSTÅND                                                                             ande Dag Hammarskjöldstaden kommer den också att behöva fylla
-sa parametrar vara motiverad.
-en viktig funktion som möjliggörare för det lokala stadslivet och
-GRÖN 5/7,5/10 minst minst planskilda egen spårbana
-NIVÅ                                        GUL NIVÅ                                                      därmed också för den lokala mobiliteten. Den kraftiga barriärver-
-min    70 km/h 1000 m      (utan buss)
-Gul nivå beskriver gränsvärdet                                kan som leden har idag måste därför minska.
-GUL  7,5/10/15 minst minst signalpriori- egen spårbana för kvalitetskraven. Så länge
-Detta betyder att biltrafiken behöver prioriteras lägre gentemot
-NIVÅ min    50 km/h 600 m terad i plan, (gemensam gul nivå används i begränsad
-andra trafikslag och att framkomligheten för framför allt regional
-i anslutning med buss) omfattning och standarden i
-biltrafik inte kan bejakas i samma utsträckning som idag. Framkom-
-till hållplats      övrigt är grön, kan en linje eller
-ligheten för lokal och kommunal biltrafik behöver dock möjliggö-
-ett stråk som helhet anses leva
-ras, om än i olika utsträckning på olika sträckor. Med detta förskjuts
-Målbilden pekar ut en stadsbana i Dag Hammarskjöldsledens upp till konceptets kvalitetskrav.
-stråkets funktion; från genomfart och infart till centrum, till ett stråk
-sträckning, vilket tydliggör dess funktion som viktigt kommunalt
-HUR ANVÄNDS GUIDELINES?                                       som leder trafik till målpunkter längs boulevarden. Boulevarden
-kollektivtrafikstråk. Men för att möjliggöra den eftersträvade stads-
-När en linje eller ett stråk ska pla-                         kommer då inte längre vara den snabbaste resvägen från Järnbrott
-utvecklingen som också ska binda ihop Frölunda och östra Högsbo,
-neras ses varje delsträcka över                               till Järntorget, men behöver fortfarande kunna erbjuda möjlighe-
-krävs att lokala resor inom Dag Hammarskjöldstaden möjliggörs på
-och bedöms gentemot Guidelines                                ten att nå målpunkter i centrala staden, till exempel Sahlgrenska
-ett bra sätt. Det innebär att stadsbanan behöver bidra till en god
-parametrar. En delsträcka beteck-                             eller Linnéplatsen.
-tillgänglighet också inom Dag Hammarskjöldstaden och inte enbart
-nas som grön om samtliga infra-
-för de kollektivtrafikresenärer som reser genom stråket.
-Givet ovanstående resonemang och de trafikanalyser som har
-strukturparametrar uppfyller grön
-genomförts i studien, eftersträvas att boulevarden utformas till en
-Huvudinriktningen för denna åtgärdsvalsstudie har varit att stads- nivå. Om en eller flera parametrar
-gata som kan hantera trafikflöden mellan 20-30 000 fordon/dygn. I
-banan i Dag Hammarskjöldstråket ska utformas med större effek- endast uppfyller gul nivå blir den
-detta ryms också områdestrafik med buss.
-tivitet och framkomlighet än Frölundabanan. På Frölundabanan är delsträckan gul. Om någon av pa-
-framför allt hållplatsavstånden för korta. Ambitionen i denna studie rametrarna varken uppnår grön
-Boulevarden behöver också fungera som utryckningsväg. Det
-har varit att möjliggöra för stadsbana på grön nivå i boulevarden eller gul nivå blir sträckan röd.
-innebär att det är viktigt att kunna passera och köra fortare än
-\- i så stor utsträckning som det har ansetts vara lämpligt - givet
-annan vägtrafik på gatan.
-Kvaliteten anses hög om hela
-en avvägning mellan eftersträvansvärda trafikala funktioner och
-sträckan är grön. Om några del-
-stadsmiljöfunktioner. Där grön nivå inte ansetts lämpligt uppnås
-sträckor är gula kan kvaliteten anses                         Eftersträvade funktioner för cykeltrafik
-ändå gul nivå. För att uppnå både kapacitetsstark kollektivtrafik
-vara god förutsatt att merparten av
-och attraktiva stadsmiljöer är det nödvändigt att använda gul nivå                                        Längs den västra sidan av Dag Hammarskjöldsleden går ett av
-hela stråket ändå är grön. Även i de
-på vissa sträckor. Exempelvis bedöms en maxhastighet om 50 km/h                                           stadens viktigaste pendlingscykelstråk idag. I stadens cykelpro-
-fall där en röd delsträcka existerar
-vara mest lämpligt på den mest tätbebyggda delen av boulevar-                                             gram2 pekas också hela Dag Hammarskjölsledens sträckning ut
-kan kvaliteten anses tillräcklig, för-
-den.                                                                                                      som en korridor för pendlingscykelnätet. Det är därför viktigt att
-utsatt att sträckan är mycket kort
-förutsättningarna för pendlingscykeltrafiken ges så goda förutsätt-
-Målbildens guidelines är dock olika lätta att förverkliga utifrån de
-Källa: Västra Götalandsregionen,                              ningar som möjligt, inom ramen för en boulevardomvandling. Ett
-eftersträvade funktionerna för både trafik och stadsmiljö. Grön nivå
-Göteborgs Stad, Mölndals stad & Partille                      pendlingscykelstråk är därför planerat att finnas i Dag Hammar-
-för turtäthet och separering är exempelvis lättare att tillgodose kommun. 2018. Målbild Koll2035.
-skjöldstaden.
-än grön nivå för hastighet, hållplatsavstånd och korsningar. De
-tre senare är också svåra att se som fristående indikatorer, då de
-samverkar i hög utsträckning. En högre tillåten hastighet är exem-
-2 Göteborgs Stad. 2015. Cykelprogram för en nära storstad.
-revfäB
-niraK
-:otoF
+
 PRINCIPIELL STRUKTUR FÖR
 ANVÄNDNING AV VÄGAR OCH
 GATOR
+
 KÖR IN
 En tätbebyggd miljö behöver ett
 huvudgatunät som gör det möj-
@@ -7453,7 +7912,8 @@ donshastigheten bestäms av vilka
 korsningsanspråk människorna i
 staden har i olika sektioner. Skyltad
 hastighet i detta huvudgatunät
-kan variera mellan 30-60 km/h. -
+kan variera mellan 30-60 km/h.
+\-
 KÖR RUNT
 Det finns ett huvudvägnät i Göte-
 borg som i huvudsak utgörs av de
@@ -7467,127 +7927,240 @@ som möjligt och skyltad hastighet
 kan variera mellan 60-80 km/h.
 Källa: Göteborgs Stad. 2014. Trafikstra-
 tegi för en nära storstad.
+
 Framtida funktion: huvudgata (övergripande
 länk/genomfartsgata) med god tillgänglighet
 för biltrafik.
 Centrum
-Frölunda            Mölndal
-58                                                                                                                                                           59
+
+Frölunda
+
 Nya Hovås
+
+pelvis till väldigt liten nytta om hållplatsavståndet inte möjliggör
+att nå denna på längre sträckor. Planskildhet innebär också en
+investering som inte har tillräcklig nytta om man inte uppnår den
+högre hastigheten och längre hållplatsavståndet.
+
+Inom åtgärdsvalsstudien har vi undersökt hur en stadsbana skulle
+kunna utformas för att uppnå grön nivå i samtliga kvalitetskrav. En
+stadsbana helt enligt grön nivå skulle framför allt leda till en kraftig
+försämring för omgivande stadsutveckling och möjligheten att
+skapa goda stadsmiljöer. Detta alternativ har därför valts bort (se
+vidare under kapitel 3.4).
+TRAFIKSTRATEGI FÖR EN NÄRA STORSTAD – 39
+Eftersträvade funktioner för biltrafik
+
+Med sin sträckning genom två stadsdelar och med en ändpunkt
+i innerstaden (Linnéplatsen), kommer boulevarden även fortsätt-
+ningsvis att vara aktuell för trafik till stadens viktiga målpunkter
+som ligger längs/nära boulevarden. Som huvudstråk i den framväx-
+ande Dag Hammarskjöldstaden kommer den också att behöva fylla
+en viktig funktion som möjliggörare för det lokala stadslivet och
+därmed också för den lokala mobiliteten. Den kraftiga barriärver-
+kan som leden har idag måste därför minska.
+Detta betyder att biltrafiken behöver prioriteras lägre gentemot
+andra trafikslag och att framkomligheten för framför allt regional
+
+biltrafik inte kan bejakas i samma utsträckning som idag. Framkom-
+ligheten för lokal och kommunal biltrafik behöver dock möjliggö-
+ras, om än i olika utsträckning på olika sträckor. Med detta förskjuts
+stråkets funktion; från genomfart och infart till centrum, till ett stråk
+som leder trafik till målpunkter längs boulevarden. Boulevarden
+kommer då inte längre vara den snabbaste resvägen från Järnbrott
+till Järntorget, men behöver fortfarande kunna erbjuda möjlighe-
+ten att nå målpunkter i centrala staden, till exempel Sahlgrenska
+eller Linnéplatsen.
+Givet ovanstående resonemang och de trafikanalyser som har
+genomförts i studien, eftersträvas att boulevarden utformas till en
+gata som kan hantera trafikflöden mellan 20-30 000 fordon/dygn. I
+detta ryms också områdestrafik med buss.
+
+Boulevarden behöver också fungera som utryckningsväg. Det
+innebär att det är viktigt att kunna passera och köra fortare än
+annan vägtrafik på gatan.
+
+Eftersträvade funktioner för cykeltrafik
+
+Längs den västra sidan av Dag Hammarskjöldsleden går ett av
+stadens viktigaste pendlingscykelstråk idag. I stadens cykelpro-
+gram2 pekas också hela Dag Hammarskjölsledens sträckning ut
+som en korridor för pendlingscykelnätet. Det är därför viktigt att
+förutsättningarna för pendlingscykeltrafiken ges så goda förutsätt-
+ningar som möjligt, inom ramen för en boulevardomvandling. Ett
+pendlingscykelstråk är därför planerat att finnas i Dag Hammar-
+Mölndal
+skjöldstaden.
+
+2 Göteborgs Stad. 2015. Cykelprogram för en nära storstad.
+59
+
 Hede
+
 Kungsbacka
+
+Foto: Karin Bäfver
 
 <!-- sida 155 -->
 
-Boulevardens    olika rum                                                                                 Skiftande stadsrum längs sträckan
+Boulevardens    olika rum
 
-Som tidigare nämnts är målsättningen för den framtida Dag
 I denna åtgärdsvalsstudie har Livsrumsmodellen använts för att
-Hammarskjöldstaden att dess identitet ska grundas i existerande
 analysera vilken typ av gatu- och stadsrum som Dag hammar-
-områdens karaktär och ny bebyggelse formas efter dalgångens
 skjölds boulevard behöver bli i framtiden för att de eftersträvade
-förusättningar. Karaktären på områdena som omger Dag Hammar-
 funktionerna ska kunna nås. Livsrumsmodellen definierar ett antal
 Källa: Vägverket & SKL. 2008. Rätt fart i staden.
-skjöldsleden idag är skiftande. Detta innebär att förutsättningarna
 olika stadsrum utifrån deras karaktärsdrag. Modellen kan användas
-LIVSRUMSMODELLENS OLIKA                                        för att skapa olika typer av stadsrum varierar längs sträckan. I höjd
+LIVSRUMSMODELLENS OLIKA
 för att beskriva hur potentialen i olika typer av stadsrum skiljer sig
-RUM                                                            med Slottsskogen finns exempelvis inte samma möjlighet att
+RUM
 åt, givet rummens gestaltning och läge i staden.
-tillskapa dubbelsidig bebyggelse och samspel mellan rummets
-TRANSPORTRUM
-I ett stadsrum utgör markytan ”golvet” i rummet, medan omgiv-                                             väggar, som söder om Marklandsplatsen. Men här finns istället
-Rum för enbart motorfordonstrafik,
-ningen utgör rummets ”väggar”. Livsrumsmodellens beskrivning av                                           stora natur- och kulturvärden som bör få prägla stadsrummet. De
-där gång- och cykelpassager på ett
-olika stadsrums potential utgår ifrån hur väl ”väggarna” och ”golvet”                                     skiftande förutsättningarna gör att boulevarden föreslås utformas i
-bekvämt och tryggt sätt är separe-
-samspelar i sin utformning, vilket får betydelse för hur rummet                                           tre delsträckor - alla med sin egen utpräglade karaktär:
-rade. Väggarna vänder inte sina an-
+
+I ett stadsrum utgör markytan ”golvet” i rummet, medan omgiv-
+ningen utgör rummets ”väggar”. Livsrumsmodellens beskrivning av
+olika stadsrums potential utgår ifrån hur väl ”väggarna” och ”golvet”
+samspelar i sin utformning, vilket får betydelse för hur rummet
 upplevs och används. För att åstadkomma ett lättförståeligt stads-
-språk mot rummet. Transportrum-                                 • den norra delen, norr om Marklandsplatsen: starkt präglad av
 och gaturum som används och upplevs på det sätt som är tänkt,
-met omgärdas av barriärer, synliga                                de omkringliggande höga natur- och kulturvärdena.
 är det viktigt att rummets väggar och golv samspelar. Med detta
+menas att utformningen av markytan och omgivningen måste
+fungera tillsammans och tydliggöra vilket slags stadsrum det är och
+vilken roll det spelar i staden som helhet.
+
+TRANSPORTRUM
+Rum för enbart motorfordonstrafik,
+där gång- och cykelpassager på ett
+bekvämt och tryggt sätt är separe-
+rade. Väggarna vänder inte sina an-
+språk mot rummet. Transportrum-
+met omgärdas av barriärer, synliga
 eller osynliga. Transportrummet
-menas att utformningen av markytan och omgivningen måste                                                   • den mellersta delen, mellan Marklandsplatsen och Radiotor-
-Fotograf: Frida Winter
 har en renodlad trafikuppgift. Dess
-fungera tillsammans och tydliggöra vilket slags stadsrum det är och                                          get: starkt präglad av den täta stadsbebyggelse som föreslås
 karaktär påverkas ringa av hastig-
-vilken roll det spelar i staden som helhet.                                                                  utvecklas.
 hetsnivån, varför den inte behöver
-• den södra delen, söder om Radiotorget: delsträckan där det
+
 Idag är Dag Hammarskjöldsledens stadsrum ett utpräglat trans- bedömas. För övergripande huvud-
-råder störst öppenhet för den framtida stadsutvecklingens
 portrum - en stadsmotorväg med höga hastighetsnivåer och nät bör transportrum eftersträvas.
-inriktning
 planskilda korsningar (gångbroar och -tunnlar) för fotgängare och
 MJUKTRAFIKRUM
-cyklister. I åtgärdsvalsstudiens uppdrag kan utläsas en vilja att                                         Utan denna uppdelning i tre delsträckor med olika karaktär,
+cyklister. I åtgärdsvalsstudiens uppdrag kan utläsas en vilja att
 Rum som omfattar större delen
-leden ska omvandlas till en annan typ av stadsrum, med annan                                              skulle Dag Hammarskjölds boulevard inte visa hänsyn till de olika
+leden ska omvandlas till en annan typ av stadsrum, med annan
 av stadens/tätortens gaturum.
-gestaltning och fler funktioner än den rena transportfunktion som                                         omkringliggande områdena. Dessutom skulle det bli ett mycket
+gestaltning och fler funktioner än den rena transportfunktion som
 Väggarna i rummen uttrycker ett
-leden har idag.                                                                                           avlångt och enformigt stadsrum. För de trafikanter som kommer
+leden har idag.
 3 • Hastighetsnivånsa bentydselspe förr åstakdsb ypggnåad skkvaloitetnerntaakt och närvaro.
-att uppleva hela stadsrummets sträckning (främst vägtrafikanter,
-Mot bakgrund av de eftersträvade funktionerna som nämns ovan, Rummet bör tillmötesgå männ-
-kollektivtrafikresenärer och pendlingscyklister) skulle det bli en
-föreslås den framtida Dag Hammarskjölds boulevard utformas till iskors anspråk att lätt röra sig i
-monoton stadsupplevelse. Det riskerar i sin tur att leda till sämre
-ett stadsrum med kvaliteter som återfinns till största delen i ett rummets längs- och tvärsriktning. I
-efterlevnad av hastighetsgränserna bland motorfordonstrafikanter-
-mjuktrafikrum, men till viss del också i ett integrerat transportrum. rummet ska bilister och oskyddade
-na, vilket försämrar trafiksäkerheten.
-Detta då anspråken på att korsa och vistas i gaturummet längs trafikanter samspela. Biltrafikens
-boulevarden kommer att öka kraftigt, samtidigt som väg- och spår- ytor begränsas så långt det går
-”Dilemmat planeringen då kommer till, ur hastighetssynpunkt, består i
-trafiken behöver få en viss grundläggande framkomlighet i detta med hänsyn till gatornas funktion.
-att de långa sammanhängande stråken frestar bilisterna till högre hastig-
+
+Mot bakgrund av de eftersträvade funktionerna som nämns ovan,
+föreslås den framtida Dag Hammarskjölds boulevard utformas till
+ett stadsrum med kvaliteter som återfinns till största delen i ett
+mjuktrafikrum, men till viss del också i ett integrerat transportrum.
+Detta då anspråken på att korsa och vistas i gaturummet längs
+boulevarden kommer att öka kraftigt, samtidigt som väg- och spår-
+trafiken behöver få en viss grundläggande framkomlighet i detta
 stråk – en av stadens huvudgator. Korsningsmöjligheterna behöver
-heter samtidigt som många oskyddade trafikanter vistas i gaturummen.”
-INTEGRERAT TRANSPORTRUM
 därför vara tydliga och strukturerade och kan inte bygga på enbart
-(Rätt fart i staden, Vägverket & SKL, 2008:30)
-Oskyddade trafikanter kan färdas
 samspel mellan trafikanterna. Detta är viktigt för att skapa ett
-i rummet men har ringa anspråk
 stadsrum med god trafiksäkerhet för oskyddade trafikanter.
-på att korsa det. Det finns också                              Variation och kontinuitet
-Vilken typ av stadsrum man har som målsättning att åstadkomma ringa anspråk på vistelse i rummet.
-Samtidigt som de olika delsträckorna föreslås få tydligt åtskilda
-får betydelse för bland annat vilken hastighetsnivå för väg- och Väggarna vänder sig mot rummet
-karaktärer, är det viktigt att hitta designelement som kan förmedla
-spårvägstrafiken som blir lämplig, samt typ och avstånd mellan men har ringa anspråk på det. Det
-en viss kontinuitet längs hela boulevardens sträckning – från Järn-
-korsningarna. En omdaning från dagens stadsmotorväg till en är långa avstånd mellan entréerna.
-brottsmotet till Linnéplatsen. Detta bör bland annat ske genom
-boulevard, som också möjliggör ett lokalt stadsliv och bostadsbe- Korsningsanspråket uppkommer
-sammanhängande grönska och kontinuitet i bebyggelsens tak- och
-byggelse, innebär bland annat att hastighetsnivån behöver sänkas. i anslutning till korsningar mellan
-fasadlinjer. Men det kan också ske genom exempelvis ett samord-
-de integrerade transportrummen
-nat materialval i ytbeläggningar, planteringar och möbleringar,
+
+Vilken typ av stadsrum man har som målsättning att åstadkomma
+får betydelse för bland annat vilken hastighetsnivå för väg- och
+spårvägstrafiken som blir lämplig, samt typ och avstånd mellan
+korsningarna. En omdaning från dagens stadsmotorväg till en
+boulevard, som också möjliggör ett lokalt stadsliv och bostadsbe-
+byggelse, innebär bland annat att hastighetsnivån behöver sänkas.
+
 ”Gatan har ju inte bara en funktionell roll i staden, utan är ett av stadens
-eller andra livsrum. I rummet har
-samt användning av samma typ av belysning längs hela sträckan.
 viktigaste och mest strukturbildande stadsbyggnadselement. Det innebär
-oskyddade trafikanter ett anspråk
 att en analys av hastighetsnivåerna i staden även måste beakta hela det
-på trygghet i form av andra tra-
 stadsrum som gatan är en del av.”
-fikanters närvaro men utan att
 (Rätt fart i staden, Vägverket & SKL, 2008:19)
+
+Rummet bör tillmötesgå männ-
+iskors anspråk att lätt röra sig i
+rummets längs- och tvärsriktning. I
+rummet ska bilister och oskyddade
+trafikanter samspela. Biltrafikens
+ytor begränsas så långt det går
+med hänsyn till gatornas funktion.
+
+INTEGRERAT TRANSPORTRUM
+Oskyddade trafikanter kan färdas
+i rummet men har ringa anspråk
+på att korsa det. Det finns också
+ringa anspråk på vistelse i rummet.
+Väggarna vänder sig mot rummet
+men har ringa anspråk på det. Det
+är långa avstånd mellan entréerna.
+Korsningsanspråket uppkommer
+i anslutning till korsningar mellan
+de integrerade transportrummen
+eller andra livsrum. I rummet har
+oskyddade trafikanter ett anspråk
+på trygghet i form av andra tra-
+fikanters närvaro men utan att
 samspela med dem. Gaturummet
+
 har som regel en transportfunktion.
+
 Källa: Vägverket & SKL. 2008. Rätt fart
 i staden.
+
+60
+
+Skiftande stadsrum längs sträckan
+
+Som tidigare nämnts är målsättningen för den framtida Dag
+Hammarskjöldstaden att dess identitet ska grundas i existerande
+områdens karaktär och ny bebyggelse formas efter dalgångens
+förusättningar. Karaktären på områdena som omger Dag Hammar-
+skjöldsleden idag är skiftande. Detta innebär att förutsättningarna
+för att skapa olika typer av stadsrum varierar längs sträckan. I höjd
+med Slottsskogen finns exempelvis inte samma möjlighet att
+tillskapa dubbelsidig bebyggelse och samspel mellan rummets
+väggar, som söder om Marklandsplatsen. Men här finns istället
+stora natur- och kulturvärden som bör få prägla stadsrummet. De
+skiftande förutsättningarna gör att boulevarden föreslås utformas i
+tre delsträckor - alla med sin egen utpräglade karaktär:
+• den norra delen, norr om Marklandsplatsen: starkt präglad av
+de omkringliggande höga natur- och kulturvärdena.
+
+• den mellersta delen, mellan Marklandsplatsen och Radiotor-
+Fotograf: Frida Winter
+get: starkt präglad av den täta stadsbebyggelse som föreslås
+utvecklas.
+• den södra delen, söder om Radiotorget: delsträckan där det
+råder störst öppenhet för den framtida stadsutvecklingens
+inriktning
+Utan denna uppdelning i tre delsträckor med olika karaktär,
+skulle Dag Hammarskjölds boulevard inte visa hänsyn till de olika
+omkringliggande områdena. Dessutom skulle det bli ett mycket
+avlångt och enformigt stadsrum. För de trafikanter som kommer
+att uppleva hela stadsrummets sträckning (främst vägtrafikanter,
+kollektivtrafikresenärer och pendlingscyklister) skulle det bli en
+monoton stadsupplevelse. Det riskerar i sin tur att leda till sämre
+efterlevnad av hastighetsgränserna bland motorfordonstrafikanter-
+na, vilket försämrar trafiksäkerheten.
+
+”Dilemmat planeringen då kommer till, ur hastighetssynpunkt, består i
+att de långa sammanhängande stråken frestar bilisterna till högre hastig-
+heter samtidigt som många oskyddade trafikanter vistas i gaturummen.”
+(Rätt fart i staden, Vägverket & SKL, 2008:30)
+
+Variation och kontinuitet
+
+Samtidigt som de olika delsträckorna föreslås få tydligt åtskilda
+karaktärer, är det viktigt att hitta designelement som kan förmedla
+en viss kontinuitet längs hela boulevardens sträckning – från Järn-
+brottsmotet till Linnéplatsen. Detta bör bland annat ske genom
+sammanhängande grönska och kontinuitet i bebyggelsens tak- och
+fasadlinjer. Men det kan också ske genom exempelvis ett samord-
+nat materialval i ytbeläggningar, planteringar och möbleringar,
+samt användning av samma typ av belysning längs hela sträckan.
+
 Fotograf: Lo Birgersson
-60                                                                                                                                                           61
+61
 
 <!-- sida 156 -->
 
@@ -8781,97 +9354,167 @@ A ODHNERS GATA
 
 <!-- sida 159 -->
 
-för att man ska kunna uppnå de eftersträvade funktionerna med                                             sidan uppges att det är lämpligast att den tillkommande bebyggel-
-boulevardiseringen.                                                                                       sen utformas som stadskvarter.
+för att man ska kunna uppnå de eftersträvade funktionerna med
+boulevardiseringen.
+
+Boulevardens    läge
+
+Boulevarden förläggs i huvudsak i samma läge som den befintliga
+Dag Hammarskjöldsleden. Söder om Flatåsmotet föreslår åtgärds-
+valsstudien att boulevarden förskjuts något till ett mer östligt läge
+och den nya cirkulationsplats som föreslås vid Marklandsplatsen
+föreslås förläggas i ett något mer västligt läge jämfört med leden
+idag. Sammantaget ger dessa små öst-västliga förskjutningar större
+exploateringsytor, jämfört med att behålla dagens sträckning i sin
+helhet. Dessutom möjliggör det att boulevarden kan kantas av
+en dubbelsidig bebyggelse med minst ett kvartersdjup på dessa
+sträckor. Den föreslagna lokaliseringen av boulevarden med en
+liten förskjutning åt öster längs stora delar har också styrts av stora
+underjordiska ledningar, som är förlagda längs den befintliga
+ledens sträckning.
+
+För sträckan mellan Linnéplatsen och Annedalsmotet kan boule-
+varden antingen förskjutas något till ett västligt eller östligt läge.
+Med ett östligt läge kan bebyggelse på ömse sidor om boulevar-
+den tillskapas. Dubbelsidig bebyggelse kan vara mycket positivt
+för stadsrummet och bidra med upplevelser längs boulevarden,
+givet att bebyggelsen utformas på ett omsorgsfullt och intressant
+sätt. Ett västligt läge skulle istället innebära att tillkommande
+bebyggelse endast kan ske på boulevardens östra sida. Det ger en
+lägre exploatering och gör att boulevarden inte får en stödjande
+stadsbebyggelse på bägge sidor. Men det västliga läget innebär
+istället att dalgångens landskapsrum bibehålls. Den fördjupade
+översiktsplanen möjliggör för båda alternativen, men rekommen-
+derar ett västligt läge, medan åtgärdsvalsstudien ser större fördelar
+med att förskjuta boulevarden åt ett östligt läge.
+
+Potential för omgivande
+stadsutveckling
+
+Med en omdaning av leden till boulevard skapas förutsättningar
+för omfattande stadsutveckling. Det finns en stor stadsutveck-
+lingspotential längs den framtida boulevarden, dock inte i samma
+utsträckning på hela sträckan.
+
+Den största potentialen finns på den mellersta delsträckan, mellan
+Marklandsplatsen och Radiotorget, särskilt i kollektivtrafikens
+hållplatslägen. Här föreslår den fördjupade översiktsplanen att
+bostadsområden får växa fram på boulevardens östra sida, anting-
+en i form av kvarter eller som enskilda flerbostadshus, på sträckan
+mellan Marklandsplatsen och Flatåsmotet. I randen mot Äng-
+gårdsbergen föreslås bostadsområdena anpassas efter topografin.
+Marklandsplatsens karaktär som bytespunkt föreslås förstärkas
+med ytterligare inslag av centrumbebyggelse. På sträckan från
+Flatåsmotet till Radiotorget föreslår planen att en rutnätsstad
+etableras på den östra sidan om boulevarden. Även för den västra
+
+68
+
+HASTIGHET I STADSMILJÖ
+
+Mänsklig hastighet är en förutsätt-
+ning för en attraktiv stadsmiljö.
+Ambitionen i Göteborgs fram-
+gångsrika trafiksäkerhetsarbete
+ska vara fortsatt hög, allt färre ska
+skadas i trafiken. En nyckel till den
+säkra och attraktiva stadsmiljön
+utan barriärer är att där gående och
+cyklister rör sig, vistas och samspe-
+Fotograf: Stina Olsson                  lar med annan trafik ska mänsklig
+hastighet vara en förutsättning.
+
+Lägre hastighet för fordonstra-
+fiken minskar också bullret. En
+låg fordonshastighet innebär att
+samspelet mellan trafikanter för-
+bättras vilket innebär möjligheter
+till ett bättre flyt i motorfordon-
+strafiken. Detta kan bidra till en
+bättre luftkvalitet vilket har en
+positiv inverkan på människors
+hälsa. En låg hastighet ska vara
+inriktningen för den absoluta ma-
+joriteten av alla gator i stadsmiljö.
+För att ge utrymme för människor
+och stadsliv behöver vi tänka om,
+och ge mer yta till kapacitetsstarka
+transportslag som fotgängare och
+kollektivtrafik. Fordon med hög
+hastighet kräver ett större utrym-
+me, vilket medför att motorfordon
+upptar en förhållandevis stor areal
+
+per resande, och än mer om parke-
+ring läggs till. Med sänkt hastighet i
+stadsrummet kan ytan för motorfor-
+don minskas genom smalare körfält
+och mindre radier, samtidigt som
+tillgängligheten för bilister och dist-
+ribution finns kvar. På detta sätt ska-
+pas utrymme för tillräckligt breda
+trottoarer med möjlighet att strosa,
+flanera eller skynda på samma yta.
+Källa: Göteborgs Stad. 2014. Trafikstra-
+tegi för en nära storstad.
+
+Fotograf: Rebecca Havedal
+
+sidan uppges att det är lämpligast att den tillkommande bebyggel-
+sen utformas som stadskvarter.
 
 På sträckan söder om Radiotorget föreslår den fördjupade över-
-Boulevardens    läge                                                                                      siktsplanen att rutnätsstaden fortsätter etableras på den östra
+siktsplanen att rutnätsstaden fortsätter etableras på den östra
 sidan och stadskvarter på den västra sidan om boulevarden.
-Boulevarden förläggs i huvudsak i samma läge som den befintliga
-HASTIGHET I STADSMILJÖ Norr om Marklandsplatsen dominerar närvaron av park- och
-Dag Hammarskjöldsleden. Söder om Flatåsmotet föreslår åtgärds-
+Norr om Marklandsplatsen dominerar närvaron av park- och
 naturområden genom Slottsskogen, Botaniska trädgården och
-valsstudien att boulevarden förskjuts något till ett mer östligt läge              Mänsklig hastighet är en förutsätt-
 Änggårdsbergen. Här finns därför betydligt mindre exploaterbar
-och den nya cirkulationsplats som föreslås vid Marklandsplatsen                    ning för en attraktiv stadsmiljö.
 yta än på mellersta sträckan. Här behöver också framkomligheten
-föreslås förläggas i ett något mer västligt läge jämfört med leden                 Ambitionen i Göteborgs fram-
 för spårvägstrafiken värnas, för att utgöra ett attraktivt transport-
-idag. Sammantaget ger dessa små öst-västliga förskjutningar större                 gångsrika trafiksäkerhetsarbete
 medel för boende söder om Marklandsplatsen. Den begränsade
-exploateringsytor, jämfört med att behålla dagens sträckning i sin                 ska vara fortsatt hög, allt färre ska
 tillkommande bebyggelse som föreslås tillkomma är vid Margrete-
-helhet. Dessutom möjliggör det att boulevarden kan kantas av                       skadas i trafiken. En nyckel till den
 bergsmotet, vid Karlsrofältet, samt norr om Annedalsmotet. Men
-en dubbelsidig bebyggelse med minst ett kvartersdjup på dessa                      säkra och attraktiva stadsmiljön
+
 endast under förutsättning att områdets höga kulturmiljövärden
-sträckor. Den föreslagna lokaliseringen av boulevarden med en                      utan barriärer är att där gående och
 inte påverkas väsentligt negativt.
-liten förskjutning åt öster längs stora delar har också styrts av stora            cyklister rör sig, vistas och samspe-
-underjordiska ledningar, som är förlagda längs den befintliga Fotograf: Stina Olsson lar med annan trafik ska mänsklig Norr om Annedalsmotet finns möjlighet att antingen förlägga
-ledens sträckning.                                                                 hastighet vara en förutsättning. bebyggelse enbart på den östra sidan om boulevarden, eller på
+Norr om Annedalsmotet finns möjlighet att antingen förlägga
+bebyggelse enbart på den östra sidan om boulevarden, eller på
 ömse sidor om den (det vill säga på den östra sidan, samt mellan
-För sträckan mellan Linnéplatsen och Annedalsmotet kan boule-                      Lägre hastighet för fordonstra-
 boulevard och spårväg). Detta är beroende av om boulevarden för-
-varden antingen förskjutas något till ett västligt eller östligt läge.             fiken minskar också bullret. En
 läggs i ett östligt eller västligt läge. Utformningen av en eventuell
-Med ett östligt läge kan bebyggelse på ömse sidor om boulevar-                     låg fordonshastighet innebär att
 tillkommande bebyggelse mellan Linnéplatsen och Annedalsmotet
-den tillskapas. Dubbelsidig bebyggelse kan vara mycket positivt                    samspelet mellan trafikanter för-
 måste anpassas till omkringliggande natur- och kulturvärden.
-för stadsrummet och bidra med upplevelser längs boulevarden,                       bättras vilket innebär möjligheter
-givet att bebyggelsen utformas på ett omsorgsfullt och intressant                  till ett bättre flyt i motorfordon-
-sätt. Ett västligt läge skulle istället innebära att tillkommande                  strafiken. Detta kan bidra till en Aktiva bottenvåningar
-bebyggelse endast kan ske på boulevardens östra sida. Det ger en                   bättre luftkvalitet vilket har en
+
+Aktiva bottenvåningar
 På sträckan mellan Marklandsplatsen och Radiotorget finns det
-lägre exploatering och gör att boulevarden inte får en stödjande                   positiv inverkan på människors
 förutsättningar för att service och handel ska kunna etableras i
-stadsbebyggelse på bägge sidor. Men det västliga läget innebär                     hälsa. En låg hastighet ska vara
 bottenvåningarna. Detta gäller särskilt i närheten av den framtida
-istället att dalgångens landskapsrum bibehålls. Den fördjupade                     inriktningen för den absoluta ma-
 kollektivtrafikens hållplatser och de öst-västliga kopplingarna över
-översiktsplanen möjliggör för båda alternativen, men rekommen-                     joriteten av alla gator i stadsmiljö.
 boulevarden.
-derar ett västligt läge, medan åtgärdsvalsstudien ser större fördelar
-För att ge utrymme för människor
-med att förskjuta boulevarden åt ett östligt läge.
-och stadsliv behöver vi tänka om,
-Skyltad hastighet
-och ge mer yta till kapacitetsstarka
-Potential för omgivande                                                            transportslag som fotgängare och
+
+Skyltad  hastighet
+
 Vägtrafikens hastighet har avgörande betydelse för vilka vistelse-
-kollektivtrafik. Fordon med hög
-stadsutveckling                                                                                           kvaliteter som kan uppstå längs med boulevarden, både gällande
-hastighet kräver ett större utrym-
+kvaliteter som kan uppstå längs med boulevarden, både gällande
 luft- och bullernivå. Längs de sträckor som föreslås få tät omkring-
-me, vilket medför att motorfordon
-Med en omdaning av leden till boulevard skapas förutsättningar                                            liggande stadsbebyggelse kommer flest människor att vistas och
-upptar en förhållandevis stor areal
-för omfattande stadsutveckling. Det finns en stor stadsutveck-                                            då är det viktigt att vägtrafikens hastighet bidrar till en godkänd
-per resande, och än mer om parke-
-lingspotential längs den framtida boulevarden, dock inte i samma                                          luftkvalitet och bullernivå. Norr om Radiotorget föreslås därför
-ring läggs till. Med sänkt hastighet i
-utsträckning på hela sträckan.                                                                            hastighetsgränsen vara 40 km/h. Detta bedöms vara den mest
-stadsrummet kan ytan för motorfor-
+liggande stadsbebyggelse kommer flest människor att vistas och
+då är det viktigt att vägtrafikens hastighet bidrar till en godkänd
+luftkvalitet och bullernivå. Norr om Radiotorget föreslås därför
+hastighetsgränsen vara 40 km/h. Detta bedöms vara den mest
 lämpliga hastighetsgränsen i förhållande till omgivande stadsmiljö,
-Den största potentialen finns på den mellersta delsträckan, mellan                 don minskas genom smalare körfält
 samt till efterlevnaden hos trafikanterna. 40 km/h har under lång
-Marklandsplatsen och Radiotorget, särskilt i kollektivtrafikens                    och mindre radier, samtidigt som
 tid diskuterats att bli ny bashastighet i Sverige och skulle då vara
-hållplatslägen. Här föreslår den fördjupade översiktsplanen att                    tillgängligheten för bilister och dist-
 den gräns som ersätter 50 km/h.
-bostadsområden får växa fram på boulevardens östra sida, anting-                   ribution finns kvar. På detta sätt ska-
-en i form av kvarter eller som enskilda flerbostadshus, på sträckan                pas utrymme för tillräckligt breda Mellan Radiotorget och Järnbrottsmotet föreslås hastighetsgrän-
-mellan Marklandsplatsen och Flatåsmotet. I randen mot Äng-                         trottoarer med möjlighet att strosa, sen initialt vara 60 km/h. Här bedöms det i nuläget inte finnas lika
-gårdsbergen föreslås bostadsområdena anpassas efter topografin.                    flanera eller skynda på samma yta. hög potential till omkringliggande tät stadsbebyggelse med stora
-Marklandsplatsens karaktär som bytespunkt föreslås förstärkas                                             anspråk på vistelse, som längs med sträckorna där hastigheten fö-
-Källa: Göteborgs Stad. 2014. Trafikstra-
-med ytterligare inslag av centrumbebyggelse. På sträckan från                                             reslås vara 40 km/h. Om det längre fram bedöms vara mer lämpligt
-tegi för en nära storstad.
-Flatåsmotet till Radiotorget föreslår planen att en rutnätsstad                                           att även ha 40 km/h som hastighetsgräns söder om Radiotorget,
-etableras på den östra sidan om boulevarden. Även för den västra                                          möjliggör denna studies boulevardförslag en sådan inriktning.
-Fotograf: Rebecca Havedal
-68                                                                                                                                                           69
+
+Mellan Radiotorget och Järnbrottsmotet föreslås hastighetsgrän-
+sen initialt vara 60 km/h. Här bedöms det i nuläget inte finnas lika
+hög potential till omkringliggande tät stadsbebyggelse med stora
+anspråk på vistelse, som längs med sträckorna där hastigheten fö-
+reslås vara 40 km/h. Om det längre fram bedöms vara mer lämpligt
+att även ha 40 km/h som hastighetsgräns söder om Radiotorget,
+möjliggör denna studies boulevardförslag en sådan inriktning.
+
+69
 
 <!-- sida 160 -->
 
@@ -8949,7 +9592,7 @@ tet - om
 400m 135 2 &
 «en fyrvägskorsning i förlängningen av Gustaf Melins gata,
 N
-söder om Marconimotet (QQ) Markranasa. Xx K 2 >)
+söder om Marconimotet (0 markranasa. Xx K 2 >)
 € Prickskyttestigen 250m 200m Lokalgatorna föreslås också förskjutas något i nord-sydlig riktning,
 Korsningsanspråk och -möjligheter för gång- och tta, Gin Ko En anledning an och cykelpassage. Denna lösning föreslås
 cykeltrafikanter (200m) |
@@ -8969,14 +9612,14 @@ Marklandsplatsen och Radiotorget, kommer korsningsanspråken € Tuppfjätsgatan
 
 P MN g 9g P £ Halvtumsgatan 425m JL 200m « att den förväntas kunna ge ett jämnare trafikflöde in mot
 att vara stora. Detsamma gäller norr om Annedalsmotet - om . signalkorsningarna, vilket ger ett bättre kapacitetsutnyttjande
-
-| or le Lr Vv ,
 boulevarden förläggs i ett östligt läge och dubbelsidig stadsbebyg- S Verktumsgatan AM osm 9 g g P yt
 gelse skapas. På den södra delsträckan, samt mellan Marklands- Selar ee Koreeeeennnnnnn)] 5 Att förskjuta lokalgatorna i nord-sydlig riktning ger också förut-
+
 o 125m - N - o sälen a - -
 platsen och Annedalsmotet, kommer korsningsanspråken att & Stenkastsgatan Xx sättningar för genomgående siktlinjer. Men detta förutsätter att
 vara betydligt mindre (undantaget vid Botaniska trädgårdens nya &€ Ögonmåttsgatan sosm = 200m man samlar de gemensamma anspråken (exempelvis cykelväg,
 hållplatsläge, se nedan). £ Armlängdsgatan Vv grönytor, dagvattenhantering) på ”rätt” sida i de anslutande
+
 Pp g gdsg Å y
 
 Med förväntningen på att korsningsanspråken ska öka, föreslås att
@@ -9017,77 +9660,113 @@ på val av lösning för hållplats.
 
 <!-- sida 161 -->
 
-Om boulevarden istället hade utformats med övergångsställen                                               Stadsbanan längs norra delsträckan
+Om boulevarden istället hade utformats med övergångsställen
 ”efter” korsningarna hade både trafiken från boulevarden och den
-Norr om Marklandsplatsen bibehåller spårtrafiken dagens fram-
 anslutande lokalgatan behövt stanna samtidigt när en fotgängare
-komlighet och föreslås ligga kvar i befintligt planskilt läge, väster
 passerat.
-om boulevarden. Detta på grund av bland annat höjdskillnaderna
-Lösningen med höger in-höger ut för de anslutande gatorna inne-                                           i Annedalsmotet, barriäreffekten från spårtrafikens turtäthet, samt
-bär att parallellgatorna till boulevarden får en viktig roll. Befintliga                                  spårväxlarna vid Annedalsmotet och Slottsskogens vagnhall. Att
-nord-sydliga parallellgator föreslås därför vara kvar. Därtill föreslås                                   förlägga spårtrafiken centralt i boulevarden här, i markplan, har
-en ny gata på den södra delsträckans västra sida. Carl Skottsbergs                                        studerats men valts bort (se vidare i kapitel 3.4)
+
+Lösningen med höger in-höger ut för de anslutande gatorna inne-
+bär att parallellgatorna till boulevarden får en viktig roll. Befintliga
+nord-sydliga parallellgator föreslås därför vara kvar. Därtill föreslås
+en ny gata på den södra delsträckans västra sida. Carl Skottsbergs
 gata, på den östra sidan om boulevardens norra delsträcka, bibe-
-Två hållplatser föreslås längs denna sträcka: Linnéplatsen och
 hålls också för att möjliggöra kantstensparkering och angöring till
-Botaniska trädgården. Nuvarande hållplats med namnet Botaniska
 befintliga fastigheter.
+
+Nytt kollektivtrafiksystem
+
+Den kapacitetsstarka kollektivtrafiken på sträckan Linnéplatsen-
+Radiomotet/Järnbrottsmotet föreslås utgöras av en stadsbana,
+både av kapacitetsskäl och för att det är det kollektivtrafikkoncept
+som föreslås i Målbild Koll2035.
+Som nämndes i kapitel 2.2 kommer det att krävas att den nya
+stadsbanan trafikeras av två linjer, vilket innebär att en av spår-
+vägslinjerna på Frölundabanan behöver flyttas och trafikera
+boulevarden. Detta för att det ska finnas tillräcklig kollektivtrafikka-
+pacitet för stadsutvecklingen i Dag Hammarskjöldstaden, samt att
+maxkapaciteten på sträckan Annedalsmotet-Marklandsplatsen inte
+ska överskridas. Det kommer också att krävas en trafikering med
+45 metersvagnar. Turtätheten med en spårvägslinje bör vara på 6-7
+minuter.
+
+Med utformningen enligt förslaget i denna studie uppnår stadsba-
+nan längs boulevarden gul standard för tre av Målbild Koll2035:s
+guidelines och grön standard för resterande två (på sträckan från
+Linnéplatsen till Radiomotet/Järnbrott):
+
+Sammanvägd bedömning av hur stadsbanan på hela sträckan uppfyller guidelines.
+
+Turtätheten är hög på sträckan från Linnéplatsen till Radiotorget
+men är lägre på den södra delsträckan. Maxhastigheten kan vara
+hög på sträckan Linnéplatsen till Marklandsplatsen, men är sedan
+lägre på sträckan söder om Marklandsplatsen. Hållplatsavståndet
+är i snitt minst 1000 meter och uppfyller grön standard. Kors-
+ningarna är planskilda från Linnéplatsen till Marklandsplatsen. På
+sträckan Marklandsplatsen-Radiomotet/Järnbrott är två korsningar
+signalprioriterade vid hållplats och tre signalprioriterade utan
+hållplatsstopp. Sammantaget bedöms det uppfylla gul standard för
+korsningsutformning. Stadsbanan går på egen spårbana på hela
+sträckan.
+
+72
+
+Stadsbanan längs norra delsträckan
+
+Norr om Marklandsplatsen bibehåller spårtrafiken dagens fram-
+komlighet och föreslås ligga kvar i befintligt planskilt läge, väster
+om boulevarden. Detta på grund av bland annat höjdskillnaderna
+i Annedalsmotet, barriäreffekten från spårtrafikens turtäthet, samt
+spårväxlarna vid Annedalsmotet och Slottsskogens vagnhall. Att
+förlägga spårtrafiken centralt i boulevarden här, i markplan, har
+studerats men valts bort (se vidare i kapitel 3.4)
+Två hållplatser föreslås längs denna sträcka: Linnéplatsen och
+Botaniska trädgården. Nuvarande hållplats med namnet Botaniska
 trädgården flyttas längre norrut, till ett läge i höjd med trädgårdens
 entré. I det nya läget för Botaniska trädgårdens stadsbanehåll-
-Nytt kollektivtrafiksystem                                                                                plats etableras en ny, bred gångpassage mellan trädgården och
+plats etableras en ny, bred gångpassage mellan trädgården och
 Slottsskogen. Denna korsningsmöjlighet förväntas bli mycket
-Den kapacitetsstarka kollektivtrafiken på sträckan Linnéplatsen-                                          attraktiv, både för resenärer med spårvägen och för människor i
-Radiomotet/Järnbrottsmotet föreslås utgöras av en stadsbana,                                              omgivningen och behöver därför utformas för att kunna hantera
-både av kapacitetsskäl och för att det är det kollektivtrafikkoncept Fotograf: Lo Birgersson Fotograf: Rebecca Havedal ett stort gångflöde. Passagen behöver också vara hastighetssäkrad
-som föreslås i Målbild Koll2035.                                                                          gentemot vägtrafiken.
-Som nämndes i kapitel 2.2 kommer det att krävas att den nya                                               Stadsbanan på denna delsträcka håller grön standard idag enligt
-stadsbanan trafikeras av två linjer, vilket innebär att en av spår-                                       målbildens guidelines och fortsätter att göra det även med en flytt
-vägslinjerna på Frölundabanan behöver flyttas och trafikera                                               av Botaniska trädgårdens hållplats norrut. Att ha två hållplatser har
-boulevarden. Detta för att det ska finnas tillräcklig kollektivtrafikka-                                  inte ansetts motiverat och skulle reducera sträckan till gul standard
-pacitet för stadsutvecklingen i Dag Hammarskjöldstaden, samt att                                          med avseende på hållplatsavstånd.
-maxkapaciteten på sträckan Annedalsmotet-Marklandsplatsen inte
-ska överskridas. Det kommer också att krävas en trafikering med                                           Stadsbanan längs mellersta delsträckan
-45 metersvagnar. Turtätheten med en spårvägslinje bör vara på 6-7
+attraktiv, både för resenärer med spårvägen och för människor i
+omgivningen och behöver därför utformas för att kunna hantera
+Fotograf: Lo Birgersson                Fotograf: Rebecca Havedal ett stort gångflöde. Passagen behöver också vara hastighetssäkrad
+gentemot vägtrafiken.
+
+Stadsbanan på denna delsträcka håller grön standard idag enligt
+målbildens guidelines och fortsätter att göra det även med en flytt
+av Botaniska trädgårdens hållplats norrut. Att ha två hållplatser har
+inte ansetts motiverat och skulle reducera sträckan till gul standard
+med avseende på hållplatsavstånd.
+
+Stadsbanan längs mellersta delsträckan
 Vid Marklandsplatsen kopplas stadsbanan och Frölundabanan
-minuter.
 samman i anslutning till befintligt hållplatsläge. Därefter leds den
-Med utformningen enligt förslaget i denna studie uppnår stadsba-                                          nya stadsbanan söderut längs den nord-sydliga delen av Prickskyt-
-nan längs boulevarden gul standard för tre av Målbild Koll2035:s                                          testigen och därefter in centralt i boulevarden, via den nya cirku-
-guidelines och grön standard för resterande två (på sträckan från                                         lationsplats som föreslås. Resterande sträcka ned till Radiotorget
-Linnéplatsen till Radiomotet/Järnbrott):                                                                  ligger stadsbanan centralt i boulevarden.
-Sammanvägd bedömning av hur stadsbanan på hela sträckan uppfyller guidelines.                             Tre hållplatser föreslås längs denna sträcka: Marklandsplatsen (två
+nya stadsbanan söderut längs den nord-sydliga delen av Prickskyt-
+testigen och därefter in centralt i boulevarden, via den nya cirku-
+lationsplats som föreslås. Resterande sträcka ned till Radiotorget
+ligger stadsbanan centralt i boulevarden.
+
+Tre hållplatser föreslås längs denna sträcka: Marklandsplatsen (två
 nya hållplatslägen i anslutning till de befintliga), Flatåsmotet och
 Marconimotet. En hållplats vid Flatåsmotet är bland annat viktig
 med tanke på närheten till Högsbo sjukhus och den planerade
 omvandlingen av skjutbaneområdet.
+
 Vid Marconimotet delas spårtrafiken upp på två banor: en i sydlig
 riktning och en i västlig riktning, i Marconigatans sträckning. Banan
-Turtätheten är hög på sträckan från Linnéplatsen till Radiotorget
 i västlig riktning är nödvändig för att en av spårvägslinjerna på
-men är lägre på den södra delsträckan. Maxhastigheten kan vara
 Frölundabanan ska kunna svänga vid Musikvägens hållplats och
-hög på sträckan Linnéplatsen till Marklandsplatsen, men är sedan
 trafikera boulevarden mellan Marconimotet och Marklandsplatsen.
-lägre på sträckan söder om Marklandsplatsen. Hållplatsavståndet
 Denna fördelning av spårtrafiken är en förutsättning för att etablera
-är i snitt minst 1000 meter och uppfyller grön standard. Kors-
 en boulevard med tillräcklig kapacitet i spårtrafiken för att möj-
-ningarna är planskilda från Linnéplatsen till Marklandsplatsen. På
 liggöra den stadsutveckling som den fördjupade översiktsplanen
-sträckan Marklandsplatsen-Radiomotet/Järnbrott är två korsningar
 föreslår, utan att öka belastningen på det övergripande spårvägs-
-signalprioriterade vid hållplats och tre signalprioriterade utan
 nätet. Denna lösning kräver inte heller inköp av fler spårvagnar och
-hållplatsstopp. Sammantaget bedöms det uppfylla gul standard för
 har sannolikt också ingen/positiv påverkan på restiden från Frölun-
-korsningsutformning. Stadsbanan går på egen spårbana på hela
 da/Tynnered mot centrum. På den här sträckan av Marconigatan
-sträckan.
 finns dock planer på bebyggelse. Dessa planer behöver förhålla sig
 till att spårtrafiken behöver gå på egen bana här och inte i bland-
 trafik.
-72                                                                                                                                                           73
+
+73
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
@@ -9097,164 +9776,236 @@ trafik.
 
 <!-- sida 162 -->
 
-Stadsbanans hastighet är lägre på denna delsträcka, jämfört med                                           område också bör förläggas i anslutning till Radiomotet, så att
-på den norra delsträckan. Två av fyra korsningar i plan saknar                                            möjligheterna för byte till stadsbana eller områdestrafik maximeras
-ett samtidigt hållplatsstopp, vilket innebär en låg standard med                                          för resenärerna. I nuläget bedömer dock Västra Götalandsregionen
-avseende på denna guideline. Hållplatsavståndet är dock cirka 850                                         att en bytespunkt vid Kobbegårdsbron i Järnbrott är den bästa ur
-meter på denna delsträcka och spårvägen går på egen banvall.                                              ett metrobussperspektiv. Denna studie ser att en sådan lokalisering
-Sammantaget bedöms sträckan uppfylla gul standard enligt                                                  innebär en risk för kollektivtrafikens attraktivitet och beskriver
-guidelines, men med låg standard för korsningsutformning.                                                 därför detta mer ingående under kapitel 4.2 Riskanalys.
+Stadsbanans hastighet är lägre på denna delsträcka, jämfört med
+på den norra delsträckan. Två av fyra korsningar i plan saknar
+ett samtidigt hållplatsstopp, vilket innebär en låg standard med
+avseende på denna guideline. Hållplatsavståndet är dock cirka 850
+meter på denna delsträcka och spårvägen går på egen banvall.
+Sammantaget bedöms sträckan uppfylla gul standard enligt
+guidelines, men med låg standard för korsningsutformning.
 
 I det fortsatta arbetet behöver man studera vidare huruvida det är
-Eventuell förlängning av stadsbanan
 möjligt att förlägga en av Frölundabanans spårvägslinjer till boule-
 varden på sättet som föreslås ovan. Vidare behöver pågående och
-Ändhållplatsens föreslagna utformning omöjliggör inte en förläng-
 framtida planeringsarbeten utgå ifrån att spåren i Marconigatan
-ing söder om Järnbrottsmotet i framtiden. En förlängning ses dock
 ska gå på egen banvall centralt i gatan och inte i blandtrafik.
-som mycket osannolik av kapacitetsskäl och presenteras därför
-närmare under kapitel 3.4 Bortvalda alternativ.
+
 Stadsbanan längs södra delsträckan
-Om den södra delsträckan inte realiseras med tåg som huvudsaklig                                          Kompletterande     busstrafik
+
+Om den södra delsträckan inte realiseras med tåg som huvudsaklig
 kollektivtrafik, behöver stadsbanan fortsätta i både västlig och
-Fotograf: Asbjörn Hanssen
-sydlig riktning från Marconimotet. De södergående spåren föreslås                                         Som tidigare nämnts förväntas dagens region-/expressbusstrafik
-fortsätta centralt i boulevardens sträckning, tills de viker av mot                                       kunna ersättas i boulevarden när metrobusskonceptet och den
-öster i höjd med Radiomotet, för att angöra sin ändstation i östra                                        nya effektiva spårbundna trafiken, mellan Marklandsplatsen och
-Högsbo.                                                                                                   Radiomotet, färdigställts. Avståndet mellan stadsbanans hållplatser
-kommer dock att variera mellan cirka 700 och 1300 meter. En
+sydlig riktning från Marconimotet. De södergående spåren föreslås
+fortsätta centralt i boulevardens sträckning, tills de viker av mot
+öster i höjd med Radiomotet, för att angöra sin ändstation i östra
+Högsbo.
 Mellan Radiotorget och ändhållplatsen föreslås ingen hållplats i ett
-busstrafik som kompletterar spårtrafiken och ökar tillgängligheten
+
 tidigt skede av boulevardomvandlingen och stadsutvecklingen.
-till denna kommer därför att behövas, så kallad områdestrafik.
 Detta beror på att tätheten i den omgivande bebyggelsen är lägre,
-Områdestrafiken är viktig för att kunna erbjuda tätare hållplatsav-
 jämfört med på den mellersta delsträckan. Förslaget lämnar dock
-stånd och kortare väg från bostäder till kollektivtrafiken. Busstrafik
 en öppning för att i framtiden kunna lägga till en hållplats på
-som idag sker parallellt med leden (exempelvis längs Antenngatan/
 denna sträcka, i höjd med Gustaf Melins gata, om förutsättningarna
-Distansgatan) fyller denna typ av funktion och förväntas kunna
 är sådana att det anses lämpligt.
-ligga kvar.
 Hållplatsavståndet blir stort på denna delsträcka, på grund av att
-Busstrafiken i området kommer, i mycket högre utsträckning än
 det inte föreslås en hållplats på mitten av sträckan. Det kan komma
-idag, att ha en trafikmatande funktion till de stora bytespunkterna
 att krävas en ytterligare hållplats. Utan en ytterligare hållplats är
-med spårväg. Upplägget som föreslås i denna studie är att bussar
 avståndet 1300 meter. Hastigheten kan eventuellt vara högre än 50
-matar till Marklandsplatsen och Linnéplatsen, där resenärer byter
 km/h - och isåfall 60 km/h - men det återstår att utreda. Turtätheten
-till spårväg. Till exempel kan stombusslinje 16, som idag är en ge-
 blir lägre på denna delsträcka jämfört med på de andra delsträck-
-nomgående linje till centrum, övergå till att bli en kapacitetsstark
-orna. Sammantaget är bedömningen att delsträckan uppfyller                        Dagens pendlingscykelstråk på den västra
-sidan om Dag Hammarskjöldsleden. matarlinje från Högsbo till Marklandsplatsen.
+orna. Sammantaget är bedömningen att delsträckan uppfyller
 guidelines på gul nivå.
-Det kan bli aktuellt för lokal-/ stombussar att trafikera boulevarden
-längs kortare sträckor, men då i blandtrafik. Den lokala busstrafiken
+
 Ändhållplatsen blir viktig knutpunkt
-på den västra sidan skulle kunna korsa boulevarden vid Marconi-
-För att ändhållplatsen ska upplevas som en trygg och attraktiv                                            motet och fortsätta på den östra sidan och vice versa, vilket skulle
-plats bör hållplatsen placeras där kompletterande bebyggelse                                              ge intressanta resmöjligheter inom området. En linjenätsutredning
-med varierande innehåll kan anläggas. Stadsbanans ändhållplats                                            behöver genomföras för att studera vidare den kompletterande
-bör därför förläggas i närheten av Radiomotet. En sådan placering                                         busstrafiken.
+För att ändhållplatsen ska upplevas som en trygg och attraktiv
+plats bör hållplatsen placeras där kompletterande bebyggelse
+med varierande innehåll kan anläggas. Stadsbanans ändhållplats
+bör därför förläggas i närheten av Radiomotet. En sådan placering
 erbjuder bättre förutsättningar för förtätning, jämfört med en
 ändhållplats i närmare anslutning till Söderleden där bebyggelse-
-möjligheterna är mer begränsade. Vid Radiomotet finns dessutom                                            Cykeltrafik
+möjligheterna är mer begränsade. Vid Radiomotet finns dessutom
 goda möjligheter för byte till områdestrafik med lokalbuss.
-Längs den västra sidan av Dag Hammarskjöldsleden går ett viktigt
+
 Utformningen av ändhållplatsen behöver också ta höjd för en
-pendlingscykelstråk idag. Det är viktigt att förutsättningarna för
 möjlig framtida järnvägsstation, samt ansluta till metrobussen på
-pendlingscykeltrafiken ges så goda förutsättningar som möjligt,
 ett bra sätt. Lokaliseringen och utformningen av denna strategiska
-inom ramen för en boulevardomvandling. Ett prioriterat pendlings-
 bytespunkt i söder kommer att ha stor påverkan på kollektivtra-
-cykelstråk är därför planerat att finnas i Dag Hammarskjöldstaden.
 fikens attraktivitet och potentialen för överflyttning av biltrafik.
+Denna studie ser därför att en framtida metrobusshållplats i detta
+
+74
+
+område också bör förläggas i anslutning till Radiomotet, så att
+möjligheterna för byte till stadsbana eller områdestrafik maximeras
+för resenärerna. I nuläget bedömer dock Västra Götalandsregionen
+att en bytespunkt vid Kobbegårdsbron i Järnbrott är den bästa ur
+ett metrobussperspektiv. Denna studie ser att en sådan lokalisering
+innebär en risk för kollektivtrafikens attraktivitet och beskriver
+därför detta mer ingående under kapitel 4.2 Riskanalys.
+
+Eventuell förlängning av stadsbanan
+
+Ändhållplatsens föreslagna utformning omöjliggör inte en förläng-
+ing söder om Järnbrottsmotet i framtiden. En förlängning ses dock
+som mycket osannolik av kapacitetsskäl och presenteras därför
+närmare under kapitel 3.4 Bortvalda alternativ.
+
+Kompletterande     busstrafik
+Fotograf: Asbjörn Hanssen
+Som tidigare nämnts förväntas dagens region-/expressbusstrafik
+kunna ersättas i boulevarden när metrobusskonceptet och den
+nya effektiva spårbundna trafiken, mellan Marklandsplatsen och
+Radiomotet, färdigställts. Avståndet mellan stadsbanans hållplatser
+kommer dock att variera mellan cirka 700 och 1300 meter. En
+busstrafik som kompletterar spårtrafiken och ökar tillgängligheten
+till denna kommer därför att behövas, så kallad områdestrafik.
+Områdestrafiken är viktig för att kunna erbjuda tätare hållplatsav-
+stånd och kortare väg från bostäder till kollektivtrafiken. Busstrafik
+som idag sker parallellt med leden (exempelvis längs Antenngatan/
+Distansgatan) fyller denna typ av funktion och förväntas kunna
+ligga kvar.
+
+Busstrafiken i området kommer, i mycket högre utsträckning än
+idag, att ha en trafikmatande funktion till de stora bytespunkterna
+med spårväg. Upplägget som föreslås i denna studie är att bussar
+matar till Marklandsplatsen och Linnéplatsen, där resenärer byter
+till spårväg. Till exempel kan stombusslinje 16, som idag är en ge-
+nomgående linje till centrum, övergå till att bli en kapacitetsstark
+Dagens pendlingscykelstråk på den västra
+sidan om Dag Hammarskjöldsleden. matarlinje från Högsbo till Marklandsplatsen.
+Det kan bli aktuellt för lokal-/ stombussar att trafikera boulevarden
+längs kortare sträckor, men då i blandtrafik. Den lokala busstrafiken
+på den västra sidan skulle kunna korsa boulevarden vid Marconi-
+motet och fortsätta på den östra sidan och vice versa, vilket skulle
+ge intressanta resmöjligheter inom området. En linjenätsutredning
+behöver genomföras för att studera vidare den kompletterande
+busstrafiken.
+
+Cykeltrafik
+
+Längs den västra sidan av Dag Hammarskjöldsleden går ett viktigt
+pendlingscykelstråk idag. Det är viktigt att förutsättningarna för
+pendlingscykeltrafiken ges så goda förutsättningar som möjligt,
+inom ramen för en boulevardomvandling. Ett prioriterat pendlings-
+cykelstråk är därför planerat att finnas i Dag Hammarskjöldstaden.
 Detta kommer troligen att fortsätta ligga på den västra sidan av
 Fotograf: Asbjörn Hanssen
-Denna studie ser därför att en framtida metrobusshållplats i detta
-74                                                                                                                                                           75
+
+75
 
 <!-- sida 163 -->
 
-boulevarden, då flera viktiga kopplingar mot omgivningen ansluter                                          • att anlägga cykelparkering för bostäder och verksamheter i
-till det.                                                                                                    enlighet med stadens riktlinjer1
+boulevarden, då flera viktiga kopplingar mot omgivningen ansluter
+till det.
 
-Tyngdpunkten för den planerade stadsomvandlingen ligger på                                                 • att samla parkeringarna (för exempelvis boende) i gemensam-
-den östra sidan om boulevarden. På denna sida är cykelvägnätet                                               ma anläggningar (parkeringshus/mobilitetshubbar)
-begränsat idag och här kommer det att behövas både nya och                                                 • att lokalisera boendeparkering på ett tillräckligt avstånd från
-effektiva cykelstråk, både inom området samt med anslutning till                                             bostäder och verksamheter, så att motivationen ökar för att
-boulevarden.                                                                                                 resa med kollektivtrafik, cykel och gång
-
-Vid utvalda korsningar behöver cykelnätet på den östra sidan                                               • att arbeta för att prissättningen för bilparkering ska vara
-kopplas till det föreslagna pendlingscykelstråket på den västra                                              marknadsmässig och helt skilt från bostadshyra/-avgift
+Tyngdpunkten för den planerade stadsomvandlingen ligger på
+den östra sidan om boulevarden. På denna sida är cykelvägnätet
+begränsat idag och här kommer det att behövas både nya och
+effektiva cykelstråk, både inom området samt med anslutning till
+boulevarden.
+Vid utvalda korsningar behöver cykelnätet på den östra sidan
+kopplas till det föreslagna pendlingscykelstråket på den västra
 sidan.
-• att eftersträva samnyttjande av parkeringsplatser i hela
-Väster om Flatås, i Dag Hammarskjöldstadens influensområde, är                                               området, där möjlighet finns
-det idag omständligt att röra sig som cyklist mellan Marconigatan                                          • att undvika personliga parkeringsplatser i möjligaste mån
+
+Väster om Flatås, i Dag Hammarskjöldstadens influensområde, är
+det idag omständligt att röra sig som cyklist mellan Marconigatan
 och Tunnlandsgatan. Här föreslås därför en ny cykelväg i nord-syd-
 lig riktning, genom bostads- och sjukhusområdet, som ett komple-
 ment till cykelvägarna längs boulevarden. Denna cykelväg föreslås
-Kantstensparkering
-ersätta cykelvägen längs med Frölundabanan, som föreslogs i ÅVS Fotograf: Martin Vennersten & Stina Olsson
-Södra Mellanstaden.                                                                                       Det parkeringsbehov som skapas norr om Annedalsmotet bör san-
-nolikt hanteras inom respektive fastighet. Kantstensparkering kan
-dock vara aktuellt här, särskilt på den östra sidan. Om bebyggelse
-Gångtrafik                                                                                                på båda sidor om boulevarden blir aktuellt, kan det vara möjligt
-med kantstensparkering även på den västra sidan.
+ersätta cykelvägen längs med Frölundabanan, som föreslogs i ÅVS
+Södra Mellanstaden.
+
+Gångtrafik
+
 Med en boulevardomvandling och tillhörande stadsutveckling
-väntas attraktiviteten för gångtrafik öka betydligt i området, på                                         Mellan Annedalsmotet och Marklandsplatsen bedöms inte be-
-båda sidor av boulevarden. Detta innebär att det behöver finnas                                           hovet av kantstensparkering vara så stort. På denna sträcka kan
-tillräckliga och sammanhängande gångytor för fotgängare. Gång-                                            trafikflödena bli relativt höga här även i framtiden, vilket också vore
-trafikflödena kommer dock att variera mycket för olika delsträckor,                                       problematiskt. På denna sträcka finns det möjlighet till kantstens-
-beroende på innehållet i stadsrummet och vilka målpunkter i om-                                           parkering längs parallellgatan Carl Skottsbergs gata.
+väntas attraktiviteten för gångtrafik öka betydligt i området, på
+båda sidor av boulevarden. Detta innebär att det behöver finnas
+tillräckliga och sammanhängande gångytor för fotgängare. Gång-
+trafikflödena kommer dock att variera mycket för olika delsträckor,
+beroende på innehållet i stadsrummet och vilka målpunkter i om-
 givningen som kan nås inom gångavstånd. Kring kollektivtrafikens
-Mellan Marklandsplatsen och Radiotorget föreslås kantstenspar-
 hållplatslägen kommer attraktiviteten för handel och verksamheter
-kering på båda sidor om boulevarden. Detta för att skapa goda
 i gatuplan att bli störst och därför kan gångytorna i dessa lägen
-förutsättningar för aktiva bottenvåningar i den omgivande bebyg-
 behöva dimensioneras för större gångflöden (med bredder om
-gelsen. Kantstensparkeringen kan också bidra till upplevelsen av
 cirka 4-5 meter).
-ett händelserikt gaturum, där hastigheten behöver hållas lägre. På
-den östra sidan, söder om Gruvgatan, kan dock möjligheterna till
-Parkering  och  mobilitet                                                                                 kantstensparkering vara begränsade på grund av ytor för hantering
-av dagvatten och skyfall.
+
+Parkering  och  mobilitet
+
 En framtida parkeringsstrategi för Dag Hammarskjöldstaden
-Söder om Radiotorget är kantstensparkering längs boulevarden
 behöver hantera parkeringsbehovet för både bilister och cyklister i
-inte aktuellt, på grund av den högre hastighetsgränsen.
 befintliga och tillkommande bostäder, samt för besökare, service-
 och godstransporter och pendlare till arbetsplatser inom området.
-Strategin behöver också hantera de som använder bil i kombina-                                            Pendelparkering
+Strategin behöver också hantera de som använder bil i kombina-
 tion med andra transportmedel genom området och då har behov
-Pendelparkeringar behövs i anslutning till större knutpunkter för
 av pendelparkeringsmöjlighet. Tillgängligheten till och standarden
-kollektivtrafiken, till exempel vid Järnbrottsmotet.
 på cykelnätet kan också påverka behovet och dimensioneringen av
 parkeringsplatser för bil.
-Utformning
+
 Den övergripande strategin för parkering inom Dag Hammar-
 skjöldstaden är:
-Vistelseytor
 • att arbeta för reducerade parkeringstal i denna del av Göte-
-borg, då den stadsomvandling som föreslås innebär förändra-                                            Boulevardförslaget är utformat för att både möjliggöra mobi-
-de bedömningsgrunder                                                                                   litet och vistelse - i boulevardens stadsrum - särskilt söder om
+borg, då den stadsomvandling som föreslås innebär förändra-
+de bedömningsgrunder
+
+76
+
+• att anlägga cykelparkering för bostäder och verksamheter i
+enlighet med stadens riktlinjer1
+• att samla parkeringarna (för exempelvis boende) i gemensam-
+ma anläggningar (parkeringshus/mobilitetshubbar)
+
+• att lokalisera boendeparkering på ett tillräckligt avstånd från
+bostäder och verksamheter, så att motivationen ökar för att
+resa med kollektivtrafik, cykel och gång
+• att arbeta för att prissättningen för bilparkering ska vara
+marknadsmässig och helt skilt från bostadshyra/-avgift
+
+• att eftersträva samnyttjande av parkeringsplatser i hela
+området, där möjlighet finns
+• att undvika personliga parkeringsplatser i möjligaste mån
+
+Kantstensparkering
+Fotograf: Martin Vennersten & Stina Olsson
+Det parkeringsbehov som skapas norr om Annedalsmotet bör san-
+nolikt hanteras inom respektive fastighet. Kantstensparkering kan
+dock vara aktuellt här, särskilt på den östra sidan. Om bebyggelse
+på båda sidor om boulevarden blir aktuellt, kan det vara möjligt
+med kantstensparkering även på den västra sidan.
+Mellan Annedalsmotet och Marklandsplatsen bedöms inte be-
+hovet av kantstensparkering vara så stort. På denna sträcka kan
+trafikflödena bli relativt höga här även i framtiden, vilket också vore
+problematiskt. På denna sträcka finns det möjlighet till kantstens-
+parkering längs parallellgatan Carl Skottsbergs gata.
+
+Mellan Marklandsplatsen och Radiotorget föreslås kantstenspar-
+kering på båda sidor om boulevarden. Detta för att skapa goda
+förutsättningar för aktiva bottenvåningar i den omgivande bebyg-
+gelsen. Kantstensparkeringen kan också bidra till upplevelsen av
+ett händelserikt gaturum, där hastigheten behöver hållas lägre. På
+den östra sidan, söder om Gruvgatan, kan dock möjligheterna till
+kantstensparkering vara begränsade på grund av ytor för hantering
+av dagvatten och skyfall.
+Söder om Radiotorget är kantstensparkering längs boulevarden
+inte aktuellt, på grund av den högre hastighetsgränsen.
+
+Pendelparkering
+Pendelparkeringar behövs i anslutning till större knutpunkter för
+kollektivtrafiken, till exempel vid Järnbrottsmotet.
+
+Utformning
+
+Vistelseytor
+Boulevardförslaget är utformat för att både möjliggöra mobi-
+litet och vistelse - i boulevardens stadsrum - särskilt söder om
 Marklandsplatsen. Förslaget innebär att fordonsrörelserna får sina
+
 1 Göteborgs Stad. 2018. Riktlinjer för mobilitet och parkering i detaljplaner och
 bygglov.
 Fotograf: Rebecca Havedal
-76                                                                                                                                                           77
+77
 
 <!-- sida 164 -->
 
-respektive utrymmen i den centrala delen av boulevarden, medan                                            En gatusektion där träden placeras närmare fasaderna.
+respektive utrymmen i den centrala delen av boulevarden, medan
 fotgängarnas ytor är placerade längs med boulevardens kanter, i
 anslutning till bebyggelsen. Det är här är förutsättningar för vistelse
 behöver skapas.
@@ -9265,58 +10016,80 @@ mindre parkmiljöer. Vid Botaniska trädgårdens huvudentré föreslås
 exempelvis en ”förpark” i höjd med den nya passagen över bou-
 levarden och spårvägen, med koppling till hållplatsen. De mindre
 parkmiljöerna kan med fördel ha breddade ytor för att möjliggöra
-Men man kan också välja att placera två av trädraderna närmare
 både vistelse och multifunktion. Genom multifunktionella lösning-
-fasaderna, i anslutning till de ytor som används av fotgängare
 ar i gaturummet (däribland dagvattenhantering och skyfallsfördröj-
-och cyklister (se ovan). I detta alternativ kan man med fördel
 ning/-hantering) möjliggörs både bredare gång- och cykelstråk och
-använda träd av mindre storlek närmast fasaden och större träd
 ett mindre monotont stadsrum.
+
+Boulevardens nord-sydliga utbredning gör att det finns en större
+attraktivitet för vistelse på boulevardens östra sida, tack vare bättre
+solförhållanden.
+
+Grönska
+För att boulevardens stadsrum ska bli befolkat, krävs att flera
+stadsmiljökvaliteter förverkligas så att det blir möjligt och attraktivt
+att vistas här. Att plantera träd är en sådan kvalitet. Huvudinrikt-
+
+ningen för Dag Hammarskjöldstaden är därför att den framtida
+boulevarden behöver inslag av mycket grönska. Träden är ett av
+de viktigaste designelementen i boulevardförslaget. De förmedlar
+också en kontinuitet längs den annars varierade boulevarden.
+I denna studie har flera alternativ studerats gällande trädens
+placering och rumsbildande effekt. Vilket alternativ som slutligen
+genomförs kommera att behöva studeras vidare, ur flera olika
+aspekter. Men huvudinriktningen för boulevarden är att träden är
+nödvändiga och generellt bör vara fördelade över fyra trädrader,
+där så är möjligt. Minst två av trädraderna bör bli stora som fullvux-
+na.
+
+Boulevardförslaget presenterar ett förslag där fyra trädrader är
+jämnt fördelade i gatusektionen. Det ger en gata som är uppdelad i
+flera lika stora rum (se nedan).
+En gatusektion där träden är jämnt fördelade.
+
+,,,--....
+I   ' \ I
+
+78
+
+En gatusektion där träden placeras närmare fasaderna.
+
+Men man kan också välja att placera två av trädraderna närmare
+fasaderna, i anslutning till de ytor som används av fotgängare
+och cyklister (se ovan). I detta alternativ kan man med fördel
+använda träd av mindre storlek närmast fasaden och större träd
 som vetter mot motorfordonstrafiken. Här gör träden störst nytta
 för gång- och cykeltrafikanterna, då de dels separerar gång- och
-Boulevardens nord-sydliga utbredning gör att det finns en större
 cykeltrafiken och därigenom minskar konflikterna mellan dessa
-attraktivitet för vistelse på boulevardens östra sida, tack vare bättre
 Fotograf: Rebecca Havedal trafikslag. Dessutom skapar träden två mindre stadsrum i mänsklig
-solförhållanden.
 skala under trädkronorna. Det ger ett mer intimt stadsrum, som
 främjar vistelse och ett mer långsamt tempo, i det annars breda
-Grönska
 stadsrum som boulevarden utgör. Utan kronan från det mindre
-För att boulevardens stadsrum ska bli befolkat, krävs att flera                                           trädet närmast fasaden, kan de (troligt) höga husfasaderna upple-
-stadsmiljökvaliteter förverkligas så att det blir möjligt och attraktivt                                  vas ”påträngande” för fotgängarna. Med en sådan här fördelning av
-att vistas här. Att plantera träd är en sådan kvalitet. Huvudinrikt-                                      träden skapas samtidigt ett större rum för motorfordonstrafiken i
-ningen för Dag Hammarskjöldstaden är därför att den framtida                                              den centrala delen av gatan, mellan trädraderna.
-boulevarden behöver inslag av mycket grönska. Träden är ett av
+trädet närmast fasaden, kan de (troligt) höga husfasaderna upple-
+vas ”påträngande” för fotgängarna. Med en sådan här fördelning av
+träden skapas samtidigt ett större rum för motorfordonstrafiken i
+den centrala delen av gatan, mellan trädraderna.
+
 I båda gatusektionerna ovan föreslås en grönremsa på vardera sida
-de viktigaste designelementen i boulevardförslaget. De förmedlar
 om spårvägen. Denna yta kan fylla flera funktioner. Dels är det den-
-också en kontinuitet längs den annars varierade boulevarden.
 na yta som tas i anspråk för perronger och väderskydd vid spårvä-
-I denna studie har flera alternativ studerats gällande trädens                                            gens hållplatser. Däremellan kan den användas för plantering, med
-placering och rumsbildande effekt. Vilket alternativ som slutligen                                        vegetation som är anpassad till spårvägens funktion. Beroende på
-genomförs kommera att behöva studeras vidare, ur flera olika                                              växtsammansättning kan ytan exempelvis gynna den biologiska
-aspekter. Men huvudinriktningen för boulevarden är att träden är                                          mångfalden och fyller då en viktig ekologisk funktion.
-nödvändiga och generellt bör vara fördelade över fyra trädrader,
+gens hållplatser. Däremellan kan den användas för plantering, med
+vegetation som är anpassad till spårvägens funktion. Beroende på
+växtsammansättning kan ytan exempelvis gynna den biologiska
+mångfalden och fyller då en viktig ekologisk funktion.
+
 I boulevardförslaget föreslås grönremsan vara 3 meter bred. För
-där så är möjligt. Minst två av trädraderna bör bli stora som fullvux-
 alternativet där träden placeras närmare fasaderna, finns dock
-na.
 möjligheter till ytterligare variation:
-Boulevardförslaget presenterar ett förslag där fyra trädrader är
 • antingen en 3 meter bred grönremsa, vilket ger ett mer
-jämnt fördelade i gatusektionen. Det ger en gata som är uppdelad i
 visuellt homogent intryck samt 4,5 meter breda gång- och
-flera lika stora rum (se nedan).
 vistelseytor under de små träden närmast fasaden. Denna
-En gatusektion där träden är jämnt fördelade.                                                                bredd på grönremsan kan också ha en bullerdämpande effekt.
+bredd på grönremsan kan också ha en bullerdämpande effekt.
+
 • eller en 1 meter bred grönremsa, vilket skulle ge 6,5 meter
 breda gång- och vistelseytor. Med denna bredd på gång- och
 vistelseytorna ges bättre förutsättningar för exempelvis
-,,,--....
 uteserveringar och offentliga möbleringar, vilket starkt bidrar
-I   ' \ I
 till att ”befolka” gatan. Det har i sin tur positiva effekter för
 gaturummets attraktivitet. En breddad gångyta gör också
 att träden får en bättre placering i förhållande till fasaderna,
@@ -9327,75 +10100,102 @@ för att bland annat rymma passager och hållplatser. Det skulle
 innebära att man behöver göra ett uppehåll i de stora trädens
 trädrad, medan de mindre träden inte påverkas. Denna
 utformning ger en större variation i gaturummet, vilket kan
-Fotograf: Frida Winter                 Fotograf: Rebecca Havedal  bidra till en bättre hastighetsefterlevnad.
-78                                                                                                                                                           79
+Fotograf: Frida Winter                 Fotograf: Rebecca Havedal bidra till en bättre hastighetsefterlevnad.
+79
 
 <!-- sida 165 -->
 
-En gatusektion med en 3 meter bred grönremsa på vardera sida om spårvägen.                                Exempel på hur skyfalls- och dagvattenhanteringen i bäckfåran på den östra sidan kan kombi-
+En gatusektion med en 3 meter bred grönremsa på vardera sida om spårvägen.
+
+En gatusektion med en 1 meter bred grönremsa på vardera sida om spårvägen.
+
+Sammantaget finns det således olika alternativ när det gäller
+trädens placering i den framtida boulevardens stadsrum. Genom-
+förbarheten för de olika alternativen kräver vidare studier.
+
+Dagvatten och skyfall
+När det gäller dagvatten- och skyfallshanteringen i Dag Ham-
+marskjöldstaden, följer den huvudinriktningen i den fördjupade
+översiktsplanen. Planen prioriterar mångfunktionalitet och blå-
+gröna lösningar framför andra lösningar, för att både säkerställa
+funktionen för vattenhanteringen och bidra till stadens attraktivi-
+tet. Sådana lösningar kan dessutom bidra till stadens biologiska
+mångfald och leverera ekosystemtjänster.
+
+Den fördjupade översiktsplanen föreslår också att boulevarden
+fortsatt ska kunna fungera som skyfallsled och -yta efter omvand-
+lingen. Här krävs fördjupade analyser om vad det innebär i detalj,
+samt samråd med Räddningstjänsten gällande boulevardens
+fortsatta funktion som utymningsväg. Boulevardförslaget är
+utformat för att boulevarden ska kunna fungera som skyfallsled
+på en övergripande nivå, efter en ombyggnad, men vidare studier
+avseende viss detaljutformning kommer att krävas.
+
+Sammantaget rekommenderas att skyfalls- och dagvattenhan-
+teringen i boulevarden (och intilliggande kvarter söder om
+Marklandsplatsen) sker ytligt, tillsammans med den befintliga
+underliggande kulverten på östra sidan. I höjd med Synhållsgatan/
+Gruvgatan och vidare söderut föreslås att man återskapar en
+bäckfåra i ett stadsmässigt utförande på den östra sidan. Detta för
+att ta omhand de större vattenvolymer som väntas här. De förvän-
+tade vattenmängderna blir högre ju längre söderut i boulevarden
+man kommer. Bäckfåran behöver därför utformas för att kunna ta
+omhand större vattenflöden på den södra delsträckan, jämfört med
+i den mellersta. Här krävs dock fördjupade studier gällande genom-
+förbarheten av en sådan lösning.
+
+80
+
+Exempel på hur skyfalls- och dagvattenhanteringen i bäckfåran på den östra sidan kan kombi-
 neras med trädplantering, på den södra delsträckan.
 
 Den fördjupade översiktsplanens rekommendationen för skyfalls-
-En gatusektion med en 1 meter bred grönremsa på vardera sida om spårvägen.
 och dagvattenhanteringen inom östra Högsbo går i linje med
 samverkansöverenskommelsen, vilket är positivt. Rekommendatio-
 nen är att:
+
 • samplanera och samlokalisera vattenfrågorna med utveck-
 lingen av allmän plats inom området i så stor utsträckning
 som möjligt
 • minska hårdgörandegraden i verksamhetsområdet och låt
 dagvattenhanteringen vara en del av att tillföra grönska och
-Sammantaget finns det således olika alternativ när det gäller                                                vatten till den idag hårdgjorda miljön.
-trädens placering i den framtida boulevardens stadsrum. Genom-
+vatten till den idag hårdgjorda miljön.
+
 • ta fram en vattenplan på delavrinningsområdesnivå för att
-förbarheten för de olika alternativen kräver vidare studier.
 säkerställa tillräcklig funktion och plats för skyfall och dagvat-
 tenhantering
-Dagvatten och skyfall
 • utveckla och säkerställ tillräckliga skyfallssåtgärder för områ-
-När det gäller dagvatten- och skyfallshanteringen i Dag Ham-                                                 dets utveckling
-marskjöldstaden, följer den huvudinriktningen i den fördjupade
+dets utveckling
+
 • skapa ny struktur för dagvattenhantering med inriktning mot
-översiktsplanen. Planen prioriterar mångfunktionalitet och blå-
 ytlig avledning och samlade dagvattenanläggningar
-gröna lösningar framför andra lösningar, för att både säkerställa
-funktionen för vattenhanteringen och bidra till stadens attraktivi- Principutformning för bäckfåran på den meller- För den västra sidan om boulevarden är den fördjupade översikts-
-tet. Sådana lösningar kan dessutom bidra till stadens biologiska sta delsträckan.                         planens rekommendationen för skyfalls- och dagvattenhantering-
-mångfald och leverera ekosystemtjänster.                                                                  en att:
-Den fördjupade översiktsplanen föreslår också att boulevarden                                              • värna och säkerställa utpekade platser och stråk för skyfall och
-fortsatt ska kunna fungera som skyfallsled och -yta efter omvand-                                            om påverkan på strukturen sker ska funktionen i hela åtgärds-
-lingen. Här krävs fördjupade analyser om vad det innebär i detalj,                                           kedjan säkerställas
-samt samråd med Räddningstjänsten gällande boulevardens
+Principutformning för bäckfåran på den meller-                För den västra sidan om boulevarden är den fördjupade översikts-
+sta delsträckan.                                              planens rekommendationen för skyfalls- och dagvattenhantering-
+en att:
+
+• värna och säkerställa utpekade platser och stråk för skyfall och
+om påverkan på strukturen sker ska funktionen i hela åtgärds-
+kedjan säkerställas
 • värna, utveckla och säkerställ utpekade platser för samlad
-fortsatta funktion som utymningsväg. Boulevardförslaget är
 dagvattenhantering från befintlig bebyggelse
-utformat för att boulevarden ska kunna fungera som skyfallsled
-på en övergripande nivå, efter en ombyggnad, men vidare studier                                            • Prioritera ytliga dagvattenlösningar som bidrar till biologisk
-avseende viss detaljutformning kommer att krävas.                                                            mångfald och ekosystemtjänster
+
+• Prioritera ytliga dagvattenlösningar som bidrar till biologisk
+mångfald och ekosystemtjänster
 (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:28)(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:30)(cid:21)(cid:20)(cid:19)(cid:18)(cid:17)(cid:19)(cid:16)
 Även för detta område krävs fördjupade analyser av vilka sektioner
-Sammantaget rekommenderas att skyfalls- och dagvattenhan-
-Principutformning för bäckfåran på den södra                   inom boulevardstråket som ska fungera för dagvatten/skyfall.
-teringen i boulevarden (och intilliggande kvarter söder om
+Principutformning för bäckfåran på den södra                  inom boulevardstråket som ska fungera för dagvatten/skyfall.
 delsträckan, där den behöver kunna ta om-
 Vägbanan är prioriterad som utrymningsväg och behöver skyddas
-Marklandsplatsen) sker ytligt, tillsammans med den befintliga hand större vattenmängder.
+hand större vattenmängder.
 mot skyfall.
-underliggande kulverten på östra sidan. I höjd med Synhållsgatan/
-Gruvgatan och vidare söderut föreslås att man återskapar en
-bäckfåra i ett stadsmässigt utförande på den östra sidan. Detta för
 Sektionsritningar
-att ta omhand de större vattenvolymer som väntas här. De förvän-
-tade vattenmängderna blir högre ju längre söderut i boulevarden
 Nedan presenteras de sektionsritningar som har tagits fram inom
-man kommer. Bäckfåran behöver därför utformas för att kunna ta
 ramen för denna studie. Sektionsritningar för hela boulevardsträck-
-omhand större vattenflöden på den södra delsträckan, jämfört med
 an (Linnéplatsen-Järnbrott) presenteras.
-i den mellersta. Här krävs dock fördjupade studier gällande genom-
-förbarheten av en sådan lösning.
+
 (cid:31)(cid:30)(cid:29)(cid:28)(cid:27)(cid:28)(cid:26)(cid:25)(cid:24)(cid:23)(cid:22)(cid:30)(cid:21)(cid:20)(cid:19)(cid:18)(cid:17)(cid:19)(cid:16)
-80                                                                                                                                                           81
+
+81
 
 <!-- sida 166 -->
 
@@ -9437,7 +10237,6 @@ Sektion som tar hänsyn till att befintliga ledningar ligger kvar, vilket möjli
 Marklandsplatsen-Syvnhållsgatan kunna förlängas även till denna sträcka och då möjliggöra fyra trädrader.
 
 AIR NA DIE
-dningspaket 1!
 
 83
 
@@ -9455,54 +10254,111 @@ Fotograf: Frida Winter
 
 <!-- sida 168 -->
 
-I det här kapitlet presenteras de huvudsakliga                                                            dock en ytlig dagvattenhantering utgöra ett kvalitativt inslag på
-Stadsmiljökvaliteter Bytespunkt
-längs boulevarden Ny tyngdpunkt den här delsträckan.
+I det här kapitlet presenteras de huvudsakliga
 konsekvenserna av boulevardförslaget som
-Befintligt torg
-presenterades i föregående kapitel.                 �                                 Linnéplatsen Gröna platser/torg
-�                                           Park/grönområde Rumsupplevelse
-Grön koppling
-Möjlig koppling Med boulevardförslaget får de olika delsträckorna en utformning
-I arbetet med att ta fram det boulevardförslag som presenteras i �                              S vi t s r t å e k l s m ek e v d a s li ä té rskild som tar hänsyn till omgivande stadsområden (bland annat Slotts-
+
+presenterades i föregående kapitel.                  �
+�
+
+I arbetet med att ta fram det boulevardförslag som presenteras i �
 denna rapport, utgick vi ifrån att både de eftersträvade trafikala
-Annedalsmotet skogen, Änggården, Flatås, Järnbrott). Därtill lägger det grunden
 och stadsmiljöfunktionerna skulle kunna uppnås. Förändringarna
-för att den långa raka sträcka som Dag Hammarskjöldsleden utgör,
 �
 som föreslås handlar i grunden om att bygga stad för ett stort
-                                                     ska kunna bli ett omväxlande och händelserikt stadsrum, där det är
-antal invånare, i ett område som idag har en annan användning.                      Slottsskogen
-spännande och intressant att vistas och färdas.
-Botaniska
-Området runt boulevarden kommer att få en i stora delar förändrad                               trädgården
-karaktär och stadsmiljöer växa fram med både gator och platser.                                           För att ändå förmedla en kontinuitet i boulevarden skapar boule-
-Boulevardens stadsrum kommer att bli en fullständig förändring                                            vardförslaget förutsättningar för att två till fyra trädrader ska kunna
+
+antal invånare, i ett område som idag har en annan användning.
+Området runt boulevarden kommer att få en i stora delar förändrad
+karaktär och stadsmiljöer växa fram med både gator och platser.
+Boulevardens stadsrum kommer att bli en fullständig förändring
 �
-jämfört med det transportrum som leden är idag.                                                           kanta boulevarden på hela sträckan. Trädens viktiga rumsbildande
-�                                                     effekt bedöms dela upp det annars breda gatusektionen i flera min-
-Konsekvenserna av boulevardförslaget utvärderas utifrån huru- �                                           dre rum och göra så att de rum som nyttjas av framför allt fotgäng-
-Änggården
+jämfört med det transportrum som leden är idag.
+�
+Konsekvenserna av boulevardförslaget utvärderas utifrån huru- �
 vida det skapar förutsättningar för goda stadsmiljöer och hållbar
-are och cyklister, får en mer mänsklig skala. Detta är nödvändigt för
 Fotograf: Marit Lissda�niels
 mobilitet.
-boulevardens attraktivitet som ett stadsrum.
-Slottsskogsvallen
-Skapar  boulevarden    förutsättningar                                                                    Buller
-Änggårdsbergen
-för goda  stadsmiljöer?                                                                                   En god ljudmiljö är en förutsättning för en hållbar och attraktiv
-stad. Även om inte alla stadsrum har en god ljudmiljö behöver
-Marklandsgatan
-Den fördjupade översiktsplanen ger förutsättningar för att bou-                                           staden planera så att tillgången till goda ljudmiljöer finns inom
+Skapar  boulevarden    förutsättningar
+för goda  stadsmiljöer?
+Den fördjupade översiktsplanen ger förutsättningar för att bou-
 �
-levarden och dess omgivning får en utformning och ett innehåll                                            området kring boulevarden.
+levarden och dess omgivning får en utformning och ett innehåll
 �
 som varierar utefter omgivande bebyggels och topografi. Med en
+boulevardisering och tillhörande stadsutveckling blir detta område
+en sammanhängande del av staden och barriäreffekten minskar.
+Stadsmiljö- och vistelsekvaliteter
+�
+�
+Sträckan mellan Marklandsplatsen och Radiotorget bedöms
+�
+kunna få höga stadsmiljö- och vistelsekvaliteter. Dels möjliggör
+�
+boulevardförslaget att bebyggelse kan förläggas utmed hela
+�
+denna sträcka och att den ges en kontinuerlig fasad- och taklinje.
+�
+Dessutom ger förslaget plats för ett flertal platsbildningar av olika �
+storlek. Dessa består dels av de tyngdpunkter som kan uppstå runt Fotograf: Martin Söde � rqvist
+stadsbanans hållplatser, samt av mindre gröna platser och torg. �
+Tillsammans med aktiva bottenvåningar i bebyggelsen (gärna �
+längs stora delar av denna sträcka) bör detta skapa en variation av �
+målpunkter som både genererar aktivitetet och vila/rekreation. �
+Norr om Marklandsplatsen kommer betydligt mindre intilliggande
+exploatering att skapas, vilket gör att stadsmiljökvaliteterna här
+�
+blir lägre gentemot söder om Marklandsplatsen. Längs med denna
+sträcka föreslås inte heller lika många små gröna platser och torg.
+Men här bedöms den direkta närheten till Slottsskogen och Bota- �
+�
+niska trädgården bidra med så mycket grönska till stadsrummet att
+de, tillsammans med träden i boulevarden, skapar en upplevelse av
+att man rör sig genom en park. Tillsammans med Slottsskogsvallen �
+bör därför de rekreativa värdena kunna bli höga här.
+�
+Sträckan söder om Radiotorget bedöms inte kunna få lika höga �
+vistelsekvaliteter som den tätare stadsmiljön på den mellersta
+delsträckan, där hastighetsgränsen är lägre och rörelse- och vistel-
+semöjligheter kan samspela mer. Med omsorgsfull utformning kan
+Fotograf: Frida Winter
+86
+
+dock en ytlig dagvattenhantering utgöra ett kvalitativt inslag på
+Stadsmiljökvaliteter Bytespunkt
+längs boulevarden Ny tyngdpunkt den här delsträckan.
+Befintligt torg
+Linnéplatsen Gröna platser/torg
+Park/grönområde Rumsupplevelse
+Grön koppling
+Möjlig koppling Med boulevardförslaget får de olika delsträckorna en utformning
+Stråk med särskild
+vistelsekvalité som tar hänsyn till omgivande stadsområden (bland annat Slotts-
+Annedalsmotet skogen, Änggården, Flatås, Järnbrott). Därtill lägger det grunden
+för att den långa raka sträcka som Dag Hammarskjöldsleden utgör,
+ska kunna bli ett omväxlande och händelserikt stadsrum, där det är
+Slottsskogen
+spännande och intressant att vistas och färdas.
+Botaniska
+trädgården
+För att ändå förmedla en kontinuitet i boulevarden skapar boule-
+vardförslaget förutsättningar för att två till fyra trädrader ska kunna
+kanta boulevarden på hela sträckan. Trädens viktiga rumsbildande
+effekt bedöms dela upp det annars breda gatusektionen i flera min-
+dre rum och göra så att de rum som nyttjas av framför allt fotgäng-
+Änggården
+are och cyklister, får en mer mänsklig skala. Detta är nödvändigt för
+boulevardens attraktivitet som ett stadsrum.
+Slottsskogsvallen
+Buller
+Änggårdsbergen
+En god ljudmiljö är en förutsättning för en hållbar och attraktiv
+stad. Även om inte alla stadsrum har en god ljudmiljö behöver
+Marklandsgatan
+staden planera så att tillgången till goda ljudmiljöer finns inom
+området kring boulevarden.
 Panncentralen        En mycket översiktlig bulleranalys1 har genomförts för boule-
-boulevardisering och tillhörande stadsutveckling blir detta område                   Frölundaborg
+Frölundaborg
 vardförslaget. Resultaten visar att ljudnivåerna, för en framtida
-en sammanhängande del av staden och barriäreffekten minskar.                                   Skjutbanan
+Skjutbanan
 b
 kr
 e
@@ -9593,200 +10449,188 @@ n
 g
 s
 \-
-Stadsmiljö- och vistelsekvaliteter
-�                                                     gelse får vid fasad beror på hur staden planerar det nya området.
-�
+gelse får vid fasad beror på hur staden planerar det nya området.
 Ljudnivåerna påverkas exempelvis av avståndet till gatans mitt,
-Sträckan mellan Marklandsplatsen och Radiotorget bedöms
-�                                                     bebyggelsestrukturen, mjuk mark, trafikmängderna, hastigheter
-kunna få höga stadsmiljö- och vistelsekvaliteter. Dels möjliggör
-�                                                     och ytbeläggning.
-boulevardförslaget att bebyggelse kan förläggas utmed hela
-�
-denna sträcka och att den ges en kontinuerlig fasad- och taklinje.
-�                                                     De ljudnivåer som har beräknats för boulevardförslaget på sträckan
-Dessutom ger förslaget plats för ett flertal platsbildningar av olika �               Flatås torg         Marklandsplatsen-Radiotorget, motsvarar de nivåer som staden
-storlek. Dessa består dels av de tyngdpunkter som kan uppstå runt Fotograf: Martin Söde � rqvist
+bebyggelsestrukturen, mjuk mark, trafikmängderna, hastigheter
+och ytbeläggning.
+De ljudnivåer som har beräknats för boulevardförslaget på sträckan
+Flatås torg         Marklandsplatsen-Radiotorget, motsvarar de nivåer som staden
 har idag runt sina flaneringsstråk och cykelbanor längs Södra
-stadsbanans hållplatser, samt av mindre gröna platser och torg. �
 Vägen och Linnégatan. Dessa gaturum används flitigt idag för både
-Tillsammans med aktiva bottenvåningar i bebyggelsen (gärna �
 gång, cykel, uteserveringar, torg och parker, även om ljudnivåerna
-längs stora delar av denna sträcka) bör detta skapa en variation av �                                     är höga. Ljudnivåerna på var sida om den framtida boulevarden
-målpunkter som både genererar aktivitetet och vila/rekreation. �
-Marconi                kommer, med stor sannolikhet, ha ljudnivåer som är över normal
+är höga. Ljudnivåerna på var sida om den framtida boulevarden
+Marconi               kommer, med stor sannolikhet, ha ljudnivåer som är över normal
 panncentral
 samtalsnivå beroende på utformning. Viktigt är därför att det fort-
-Norr om Marklandsplatsen kommer betydligt mindre intilliggande
-exploatering att skapas, vilket gör att stadsmiljökvaliteterna här                   Radiotorget          satta arbetet med utformning av gaturummet, fasader och grönska
-�
+Radiotorget          satta arbetet med utformning av gaturummet, fasader och grönska
 strävar efter att påverka ljudnivåerna i positiv riktning.
-blir lägre gentemot söder om Marklandsplatsen. Längs med denna
-sträcka föreslås inte heller lika många små gröna platser och torg.
 I den fortsatta planeringen av en boulevardomvandling krävs
-Men här bedöms den direkta närheten till Slottsskogen och Bota- �
 fördjupade bullerutredningar.
-�
-niska trädgården bidra med så mycket grönska till stadsrummet att
-de, tillsammans med träden i boulevarden, skapar en upplevelse av
-att man rör sig genom en park. Tillsammans med Slottsskogsvallen �                                        Luft
-bör därför de rekreativa värdena kunna bli höga här.
+Luft
 När staden växer och inriktas mot förtätning i centrala och/eller
-�
 kollektivtrafiknära områden ges bättre förutsättningar att resa på
-Sträckan söder om Radiotorget bedöms inte kunna få lika höga �
 annat sätt än med bil. En högre andel gång-, cykel- och kollektivtra-
-vistelsekvaliteter som den tätare stadsmiljön på den mellersta
-delsträckan, där hastighetsgränsen är lägre och rörelse- och vistel-
 1 Ljudnivåer för kommunal service, tysta sidor och uteplatser för bostäder har
-semöjligheter kan samspela mer. Med omsorgsfull utformning kan                                             inte inkluderats i analysen. Detta behöver analyseras i det fortsatta arbetet.
-Fotograf: Frida Winter
-86                                                                                                                                                           87
+inte inkluderats i analysen. Detta behöver analyseras i det fortsatta arbetet.
+87
 
 <!-- sida 169 -->
 
-fik har positiva effekter för miljö och hälsa. Samtidigt finns det en                                     Kollektivtrafikens begränsningar blir särskilt tydliga för utveckling-
-risk för lokalt dålig luftkvalitet i exempelvis förtätade gaturum.                                        en inom den fördjupade översiktsplanens område. Målsättningen
-för antalet invånare inom hela området till år 2050 kan behöva
+fik har positiva effekter för miljö och hälsa. Samtidigt finns det en
+risk för lokalt dålig luftkvalitet i exempelvis förtätade gaturum.
+
 Det finns miljökvalitetsnormer (MKN) för en rad olika luftförore-
-justeras ned, från knappt 100 000 till cirka 85 000 invånare. Detta
 ningar. Göteborg är det framför allt halterna av kvävedioxid som
-för att kunna hanteras inom den kapacitet som finns tillgänglig i
 riskerar att överskrida normerna. Därför har en beräkning genom-
-kollektivtrafiken, via spårvägen i första hand.
 förts av kvävedioxidhalterna för det föreslagna gaturummet kring
-Dag Hammarskjölds boulevard, på sträckan mellan Marconi- och                                              Utifrån den förväntade bebyggelseutvecklingen och strävan efter
-Flatåsmotet.                                                                                              en ökad andel hållbart resande, kommer behoven av resor med
-hållbara färdmedel att öka betydligt fram till år 2050. Efterfrågan
+Dag Hammarskjölds boulevard, på sträckan mellan Marconi- och
+Flatåsmotet.
 Resultatet av beräkningarna visar att risken är liten för att mil-
-på antalet resor med gång, cykel och kollektivtrafik kommer att öka
 jökvalitetsnormerna för kvävedioxid överskrids i det planerade
-från cirka 79 000 till cirka 193 000. Detta är mer än en fördubbling.
 gaturummet. Det är troligt att även halterna av samtliga andra
-Samtidigt beräknas resandet med bil till och från området ligga på
 luftföroreningar underskrider sina respektive miljökvalitetsnormer,
-ungefär dagens nivåer och genomfartstrafiken beräknas minska.
 eftersom kvävedioxid i regel är den luftförorening som ligger högst
-Andelen gående, cyklister och kollektivtrafikresenärer år 2050
+
 i förhållande till sitt gränsvärde i Göteborg.
+
+Dagvatten och skyfall
+Boulevardförslaget är utformat för att boulevarden ska kunna
+fungera som skyfallsled på en övergripande nivå, efter en ombygg-
+nad. Förslaget ger en generell förbättring när det gäller risken för
+vatten på vägbanan, jämfört med nuläget. Flera av trafikmoten
+idag är lågpunkter där det samlas vatten på delar av vägbanan
+redan vid relativt måttliga regnmängder. En upphöjd vägbana vid
+
+dessa trafikplatser tillsammans med en jämn lutning i avrinningens
+huvudriktning, kommer att innebära en förbättring jämfört med
+nuläget.
+
+Bidrar boulevarden    till hållbar
+
+mobilitet  på kommunal     nivå?
+
+Resbehov
+Boulevardisering är inte en lämplig åtgärd för alla stadens trafik-
+leder, men har bedömts fungera och vara positivt på denna plats
+ur både ett trafik- och stadsmiljöperspektiv. En stadsutveckling i
+Frölunda-Högsbo med boulevarden och stadsbanan som de vikti-
+gaste strukturella infrastrukturtillskotten, innebär att ett stort antal
+nya invånare får en bostad i regionens kärna med god tillgång till
+hållbara färdmedel. De befintliga invånarna bedöms också få en
+ökad och mer nära tillgång till service och annat utbud för varda-
+gens behov.
+
+En omfattande omvandling av Högsbos industriområde till
+blandstad kan innebära att det blir färre arbetstillfällen för de som
+bor och arbetar lokalt i Frölunda och Högsbo idag. Det finns en stor
+risk för att invånarna i dessa stadsdelar i ännu högre grad än idag
+blir beroende av pendling ut från området, i riktning mot framfö-
+rallt centrala Göteborg. Både antalet och andelen invånare som
+behöver pendla ut från området kommer att öka. Det är varken
+det mest effektiva eller samhällsekonomiskt lönsamma sättet att
+utnyttja kollektivtrafiken.
+
+88
+
+Kollektivtrafikens begränsningar blir särskilt tydliga för utveckling-
+en inom den fördjupade översiktsplanens område. Målsättningen
+för antalet invånare inom hela området till år 2050 kan behöva
+justeras ned, från knappt 100 000 till cirka 85 000 invånare. Detta
+för att kunna hanteras inom den kapacitet som finns tillgänglig i
+kollektivtrafiken, via spårvägen i första hand.
+
+Utifrån den förväntade bebyggelseutvecklingen och strävan efter
+en ökad andel hållbart resande, kommer behoven av resor med
+hållbara färdmedel att öka betydligt fram till år 2050. Efterfrågan
+på antalet resor med gång, cykel och kollektivtrafik kommer att öka
+från cirka 79 000 till cirka 193 000. Detta är mer än en fördubbling.
+Samtidigt beräknas resandet med bil till och från området ligga på
+ungefär dagens nivåer och genomfartstrafiken beräknas minska.
+Andelen gående, cyklister och kollektivtrafikresenärer år 2050
 förväntas därför bli betydligt större än andelen bilister.
 Antalet resor med olika färdmedel idag och med olika tidshorisont. (Resekalkyl)
-Dagvatten och skyfall
 Fotograf: Lo Birgersson
 Resande med olika färdmedel idag och i
-Boulevardförslaget är utformat för att boulevarden ska kunna                                                               framtiden
-fungera som skyfallsled på en övergripande nivå, efter en ombygg-
+framtiden
 300 000
-nad. Förslaget ger en generell förbättring när det gäller risken för
 250 000
-vatten på vägbanan, jämfört med nuläget. Flera av trafikmoten                                                200 000
-idag är lågpunkter där det samlas vatten på delar av vägbanan
-150 000                         Bil
-redan vid relativt måttliga regnmängder. En upphöjd vägbana vid
-100 000                         Kollektivtrafik
-dessa trafikplatser tillsammans med en jämn lutning i avrinningens
+200 000
+150 000                        ■ Bil
+100 000                        I Kollektivtrafik
 50 000                         Cykel
-huvudriktning, kommer att innebära en förbättring jämfört med                                                                                Gång
+Gång
 0
-nuläget.                                                                                                           Nuvarande Pågående FÖP
+Nuvarande Pågående FÖP
 planering
 Tidshorisont
-Bidrar boulevarden    till hållbar                                                                        Kollektivtrafikresenärer
-mobilitet  på kommunal     nivå?                                                                          Den omfattande kollektivtrafiknära stadsutvecklingen inom
+Kollektivtrafikresenärer
+Den omfattande kollektivtrafiknära stadsutvecklingen inom
 Högsbo-Frölunda kommer totalt sett att innebära många fler
 resenärer i kollektivtrafiken: upp till cirka 5000 resenärer per timme2
-Resbehov
 med spårvägen. Det är en knapp tredubbling jämfört med dagens
-Boulevardisering är inte en lämplig åtgärd för alla stadens trafik-                                       spårvägsresenärer.
-leder, men har bedömts fungera och vara positivt på denna plats
+spårvägsresenärer.
 Etableringen av en stadsbana innebär att boende och verksamma i
-ur både ett trafik- och stadsmiljöperspektiv. En stadsutveckling i
 området erbjuds en kapacitetsstark och attraktiv spårväg. Restiden3
-Frölunda-Högsbo med boulevarden och stadsbanan som de vikti-
 för stadsbanan, mellan hållplats Radiomotet/Järnbrott och hållplats
-gaste strukturella infrastrukturtillskotten, innebär att ett stort antal
 Domkyrkan, har beräknats till cirka 20 minuter. Detta uppfyller
-nya invånare får en bostad i regionens kärna med god tillgång till
 restidskraven enligt Målbild Koll 2035. På delen Marconimotet-Ra-
-hållbara färdmedel. De befintliga invånarna bedöms också få en
 diomotet/Järnbrott kommer turtätheten att vara en spårvagn
-ökad och mer nära tillgång till service och annat utbud för varda-
 minst var sjunde minut. På övriga delar av boulevarden kommer
-gens behov.
 turtätheten att vara högre, då det finns fler spårvägslinjer som
-En omfattande omvandling av Högsbos industriområde till                                                   trafikerar.
-blandstad kan innebära att det blir färre arbetstillfällen för de som
+trafikerar.
 En utgångspunkt för denna studie har varit att den stadsnära
-bor och arbetar lokalt i Frölunda och Högsbo idag. Det finns en stor
 expressbusstrafik som trafikerar på Dag Hammarskjöldsleden
-risk för att invånarna i dessa stadsdelar i ännu högre grad än idag
 idag, ska trafikera Söder-/Västerleden (i metrobusskonceptet)
-blir beroende av pendling ut från området, i riktning mot framfö-
 efter en boulevardutbyggnad. En del av dagens expressbussre-
-rallt centrala Göteborg. Både antalet och andelen invånare som
-behöver pendla ut från området kommer att öka. Det är varken                                              2 under förmiddagen i riktning mot centrum.
-det mest effektiva eller samhällsekonomiskt lönsamma sättet att
+
+2 under förmiddagen i riktning mot centrum.
 3 Restiden baseras på en största tillåten hastighet (STH) på 50 km/h på de delar
-utnyttja kollektivtrafiken.                                                                                av spårvägen som går i boulevarden och upp till STH 70 km/h på de sträckor
+av spårvägen som går i boulevarden och upp till STH 70 km/h på de sträckor
 där den går på särskild banvall.
+
 Fotograf: Rebecca Havedal
-ledemdräf
-rep
-hco
-gad
-rep
-roser
-latnA
-■
-I
-88                                                                                                                                                           89
+89
+
+Antal resor per dag och per färdmedel
 
 <!-- sida 170 -->
 
-senärer4 kommer dock fortsatt att ha en målpunkt som bäst nås                                             I storleksordningen 8-10 000 fordon per dygn av genomfartstrafi-
-via boulevarden. Dessa kommer att behöva byta från metrobuss                                              ken ser ut att välja Västerleden istället, då deras målpunkter ligger
-till stadsbana, vid bytespunkten i Radiomotet/Järnbrott. Med det                                          utanför Dag Hammarskjöldsstråket.
+senärer4 kommer dock fortsatt att ha en målpunkt som bäst nås
+via boulevarden. Dessa kommer att behöva byta från metrobuss
+till stadsbana, vid bytespunkten i Radiomotet/Järnbrott. Med det
 trafikupplägg som föreslås i denna studie finns det utrymme på
-Prognostiserade skillnader i trafiknätet, efter genomförandet av Dag Hammarskjölds Boule-
-stadsbanan för dessa resenärer, även under morgonens maxtimme.                                            vard och en förtätning motsvarande den fördjupade översiktsplanen.
+stadsbanan för dessa resenärer, även under morgonens maxtimme.
 Dessa resenärer kommer dock att få en längre restid, främst på
 grund av bytet men också till viss del på grund stadsbanans något
 lägre medelhastighet.
+
 Restiden med metrobuss kan dock bli kortare i många reserelatio-
 ner. Ett exempel är resan från Frölunda Torg till City, som kommer
 vara snabbare än dagens bussresa (enligt Trafikverkets ÅVS Metro-
 buss).
-
 Metrobussen kommer att behöva hantera ett stort antal resande
+
 från hela den fördjupade översiktsplanens område. Idag bedöms
 cirka 1500 resenärer resa ut från området och det antalet kan
 komma att fördubblas med hänsyn till områdets tillväxt och
 målsättning om ökat resande med kollektivtrafik. Här finns det en
 osäkerhet i vilken omfattning metrobussystemet kan hantera och
 svälja denna efterfrågan. Trafikverkets ÅVS Metrobuss har hittills
-inte redovisat material på en sådan detaljeringsnivå att det har gått                                     Om denna överflyttning kan hanteras med en fortsatt acceptabel
-att utläsa hur kapaciteten fördelats geografiskt i detta system. Det                                      framkomlighet på Västerleden, beror på vilka andra åtgärder som
-har heller inte gått att utläsa om det finns tillgänglig kvarvarande                                      kommer att genomföras inom detta område och Göteborgsregio-
-kapacitet för den fördjupade översiktsplanens område, vid bytes-                                          nen i stort.
+inte redovisat material på en sådan detaljeringsnivå att det har gått
+att utläsa hur kapaciteten fördelats geografiskt i detta system. Det
+har heller inte gått att utläsa om det finns tillgänglig kvarvarande
+kapacitet för den fördjupade översiktsplanens område, vid bytes-
 punkterna i Järnbrott och Frölunda Torg.
-Utifrån en trafikanalys med Göteborgs stads trafikmodell6 ökar
-trafikflödet på Västerleden från cirka 60 000 fordon per dygn idag
-till 70 000 fordon, om boulevarden byggs ut och den fördjupade
-Bilister                                                                                                  översiktsplanens markanvändning till cirka 85 000 invånare
-förverkligas. Den största delen av trafikökningen kommer av att
+
+Bilister
+
 Utifrån genomförda trafikanalyser5 finns det potential för att an-
-ledens funktion förändras, snarare än av att markanvändningen
 passa Dag Hammarskjöldsledens roll till trafikstrategins mål genom
-förändras. Högre flöden på Västerleden ökar risken för kö och
 att bygga om den till boulevard. Genom att minska hastigheten
-förlängda restider. Konsekvenserna av ökade trafikflöden och olika
 för vägtrafik längs stråket, kan genomfartstrafiken minska och
-prognosförutsättningar, Trafikverkets basprognos och Hållbarhets-
 tillgängligheten för gående och cyklister därmed öka. Kapaciteten
-scenario, fördjupas i kapitlet Riskanalys.
 för biltrafik kommer dock att vara tillräcklig för den trafik som
-efterfrågar denna rutt.                                                                                   Prognostiserade flöden i trafiknätet, efter genomförandet av Dag Hammarskjölds Boulevard
-och en förtätning motsvarande den fördjupade översiktsplanen.
+efterfrågar denna rutt.
 Boulevard innebär en annan funktion för vägtrafiken i stråket, där
 utformningen prioriterar vägtrafik som inte har samma krav på kor-
 ta restider över längre avstånd. Enligt analysresultaten kommer en
@@ -9795,100 +10639,163 @@ som infart till Dag Hammarskjöldstaden och Södra Mellanstaden.
 Men trafik mot centrum och Parkgatan/Nya allén väljer (enligt
 analysresultat) Söder-/Västerleden, Oscarsleden och väg E6, på
 grund av kortare restider via dessa vägar. En bilresa mellan Järn-
+
 brottsmotet och Linnéplatsen kommer att ta cirka 5-10 minuter
 längre tid beroende på trafiksituation. Medelhastigheten är idag 53
 km/h på denna sträcka under högtrafik. Med en boulevard kommer
 medelhastigheten vara cirka 25 km/h, vilket kan jämföras med
 Alléstråket.
+
 4 Totalt upp mot 2000 resenärer per dag i huvudsak från områden runt väg 158,
 vilket motsvarar cirka 300 resenärer i maxtimmen (norrut på morgonen).
-5 Ramböll. 2019. Trafikanalys Dag Hammarskjölds Boulevard, delutredning.                                  6 som bygger på trafikstrategins mål.
-90                                                                                                                                                           91
+5 Ramböll. 2019. Trafikanalys Dag Hammarskjölds Boulevard, delutredning.
+90
+
+I storleksordningen 8-10 000 fordon per dygn av genomfartstrafi-
+ken ser ut att välja Västerleden istället, då deras målpunkter ligger
+utanför Dag Hammarskjöldsstråket.
+Prognostiserade skillnader i trafiknätet, efter genomförandet av Dag Hammarskjölds Boule-
+vard och en förtätning motsvarande den fördjupade översiktsplanen.
+
+Om denna överflyttning kan hanteras med en fortsatt acceptabel
+framkomlighet på Västerleden, beror på vilka andra åtgärder som
+kommer att genomföras inom detta område och Göteborgsregio-
+nen i stort.
+
+Utifrån en trafikanalys med Göteborgs stads trafikmodell6 ökar
+trafikflödet på Västerleden från cirka 60 000 fordon per dygn idag
+till 70 000 fordon, om boulevarden byggs ut och den fördjupade
+översiktsplanens markanvändning till cirka 85 000 invånare
+förverkligas. Den största delen av trafikökningen kommer av att
+ledens funktion förändras, snarare än av att markanvändningen
+förändras. Högre flöden på Västerleden ökar risken för kö och
+förlängda restider. Konsekvenserna av ökade trafikflöden och olika
+prognosförutsättningar, Trafikverkets basprognos och Hållbarhets-
+scenario, fördjupas i kapitlet Riskanalys.
+
+Prognostiserade flöden i trafiknätet, efter genomförandet av Dag Hammarskjölds Boulevard
+och en förtätning motsvarande den fördjupade översiktsplanen.
+
+6 som bygger på trafikstrategins mål.
+91
 
 <!-- sida 171 -->
 
-Cyklister                                                                                                 en för resande med cykel, att antalet cykelresor kan komma att
-fyrdubblas gentemot dagens resande. Detta under förutsättningen
+Cyklister
+
 Hur cyklister påverkas beror av vilken typ av ärende och förväntan
-att målsättningarna nås. Pendlingscykelstråket i boulevardförslaget
 de har på sin resa. De längre pendlingsresorna följer exempelvis en
-är dimensionerat för detta.
 annan logik än kortare cykelresor för andra ärenden och är i högre
 utsträckning beroende av cykelvägarnas standard och framkomlig-
-het.                                                                                                      Kollektivtrafikresenärer
-Med en kompletterande områdestrafik till stadsbanan bedöms Dag
+het.
 En stor förändring för de cyklister som idag reser genom området
-Hammarskjöldstaden både få en god lokal och kommunal tillgäng-
 på den mycket framkomliga pendlingscykelbanan, är att den
-lighet med kollektivtrafik.
 kommer att integreras i staden på ett sätt som innebär fler kors-
 ningar. Detta gör det omöjligt att bibehålla dagens mycket goda
-Flytten av Botaniska trädgårdens hållplats kommer att tillgänglig-
 framkomlighet och restiden kommer att öka för dessa resenärer.
-göra Botaniska trädgården på ett avsevärt bättre sätt än idag. Den
 Istället erbjuds de en mer attraktiv sträcka, med varierade visuella
-kommer också att innebära bättre förutsättningar för att skapa en
 intryck, mindre buller och lägre luftföroreningshalter.
+
+Bidrar boulevarden    till hållbar
+
+mobilitet  på lokal nivå?
+
+Resbehov
+
+En förutsättning för att de lokala resorna ska öka i andel sett till det
+totala resandet, är att antalet lokala målpunkter ökar. En funktions-
+blandning med en ökad andel verksamheter i området är därför en
+viktig del i stadsomvandlingen och skapar samtidigt förutsättning-
+ar för ett hållbart resande.
+
+Fotgängare
+
+Med stadsutvecklingen och boulevarden etableras ett nytt gatunät
+som öppnar för fler vägval och mindre maskvidd i gångvägnätet.
+En övergripande bedömning är att den stadsutveckling som före-
+slås kommer att ge en mer positiv upplevelse för fotgängare och
+innebära att många fler får möjlighet att röra sig i den här delen av
+staden till fots. Det innebär också att många fler människor kom-
+mer att finnas i området under en större del av dygnet jämfört med
+idag, inte minst i delarna öster om boulevarden.
+
+Fotgängares möjlighet att röra sig i området förändras från att
+enbart ha kunnat korsa flödena av fordonstrafik planskilt, till att i
+hög utsträckning passera i samma plan som dessa. Barn, äldre och
+personer med funktionsvariationer kan därmed få det svårare att
+röra sig över boulevarden jämfört med den nuvarande ledutform-
+ningen, då interaktionen med större fordonsflöden ökar.
+
+Cyklister
+
+Cyklister som ska göra korta resor inom stadsdelen kommer att
+gagnas av stadsutvecklingen, där fler ärenden troligen kan genom-
+föras inom ett kortare avstånd. På samma sätt som för fotgängare
+kommer dessutom det mer finmaskiga gatunätet och de fler vägval
+som står till buds, att vara positivt för cyklister som ska göra korta
+resor.
+Den kraftiga befolkningstillväxten inom den fördjupade översikts-
+planens område innebär, tillsammans med den ökade målsättning-
+
+92
+
+en för resande med cykel, att antalet cykelresor kan komma att
+fyrdubblas gentemot dagens resande. Detta under förutsättningen
+att målsättningarna nås. Pendlingscykelstråket i boulevardförslaget
+är dimensionerat för detta.
+
+Kollektivtrafikresenärer
+
+Med en kompletterande områdestrafik till stadsbanan bedöms Dag
+Hammarskjöldstaden både få en god lokal och kommunal tillgäng-
+lighet med kollektivtrafik.
+
+Flytten av Botaniska trädgårdens hållplats kommer att tillgänglig-
+göra Botaniska trädgården på ett avsevärt bättre sätt än idag. Den
+kommer också att innebära bättre förutsättningar för att skapa en
 trygg och attraktiv hållplats, jämfört med dagens lokalisering. Men
 flytten kommer att innebära längre gång- och cykelresor för en
 del av de som använder hållplatsen idag, framförallt boende och
-Bidrar boulevarden    till hållbar
 verksamma i Änggården.
 Fotograf: Lo Birgersson
-mobilitet  på lokal nivå?
 Bilister
-Resbehov
+
 För att upprätthålla tillgängligheten för bilister bedöms medelhas-
-En förutsättning för att de lokala resorna ska öka i andel sett till det                                  tigheten för biltrafiken längs stråket behöva hålla cirka 20-30 km/h.
-totala resandet, är att antalet lokala målpunkter ökar. En funktions-                                     Med en lägre medelhastighet längs stråket riskerar tillgängligheten
-blandning med en ökad andel verksamheter i området är därför en                                           med bil till viktiga målpunkter längs stråket bli dålig. Högre medel-
-viktig del i stadsomvandlingen och skapar samtidigt förutsättning-                                        hastigheter riskerar istället att försämra tillgängligheten för gående
-ar för ett hållbart resande.                                                                              och cyklister, samt tillgängligheten till kollektivtrafiken. Restiden
+tigheten för biltrafiken längs stråket behöva hålla cirka 20-30 km/h.
+Med en lägre medelhastighet längs stråket riskerar tillgängligheten
+med bil till viktiga målpunkter längs stråket bli dålig. Högre medel-
+hastigheter riskerar istället att försämra tillgängligheten för gående
+och cyklister, samt tillgängligheten till kollektivtrafiken. Restiden
 längs stråket, mellan Järnbrottsmotet och Annedalsmotet, bedöms
 därför behöva vara mellan 10 och 15 minuter. Detta kan jämföras
-Fotgängare
 mot dagens cirka 5 minuter, under förmiddagens högtrafik.
-Med stadsutvecklingen och boulevarden etableras ett nytt gatunät
 Med de hastighetssänkningar som föreslås kommer boulevardens
-som öppnar för fler vägval och mindre maskvidd i gångvägnätet.
 trafikflöde att ha varierande hastighet på olika sträckor. Sträckor
-En övergripande bedömning är att den stadsutveckling som före-
 med få korsningsanspråk och korsningar kommer att ha en högre
-slås kommer att ge en mer positiv upplevelse för fotgängare och
+
 medelhastighet, medan sträckor med fler korsningsanspråk och
-innebära att många fler får möjlighet att röra sig i den här delen av
 korsningar kommer att få en lägre medelhastighet.
-staden till fots. Det innebär också att många fler människor kom-
-mer att finnas i området under en större del av dygnet jämfört med
 Åtgärdsförslagets hastighetssänkningar kommer att ha en påver-
-idag, inte minst i delarna öster om boulevarden.
 kan på markanvändningen och tillgängligheten i olika delar av
 området. Exempelvis kommer den föreslagna hastighetsgränsen
-Fotgängares möjlighet att röra sig i området förändras från att
 60 km/h söder om Radiotorget, innebära att bilister kan få förbätt-
-enbart ha kunnat korsa flödena av fordonstrafik planskilt, till att i
 rad tillgänglighet till vissa fastigheter längs den södra delsträckan,
-hög utsträckning passera i samma plan som dessa. Barn, äldre och
 jämfört med idag då angöring sker via lokalgator på östra och
-personer med funktionsvariationer kan därmed få det svårare att
 västra sidan.
-röra sig över boulevarden jämfört med den nuvarande ledutform-
-ningen, då interaktionen med större fordonsflöden ökar.
-Konsekvenser    för övriga trafikala
-Cyklister
+
+Konsekvenser    för övriga  trafikala
+
 funktioner
-Cyklister som ska göra korta resor inom stadsdelen kommer att
-gagnas av stadsutvecklingen, där fler ärenden troligen kan genom-
+
 Godstrafik
-föras inom ett kortare avstånd. På samma sätt som för fotgängare
-kommer dessutom det mer finmaskiga gatunätet och de fler vägval                                           Boulevarden kommer inte att vara en lika attraktiv gata för den
-som står till buds, att vara positivt för cyklister som ska göra korta                                    tunga godstrafiken som dagens led. Av det skälet kommer troligen
-resor.                                                                                                    antalet godstransporter att sjunka. Markomvandlingen i östra Hög-
+
+Boulevarden kommer inte att vara en lika attraktiv gata för den
+tunga godstrafiken som dagens led. Av det skälet kommer troligen
+antalet godstransporter att sjunka. Markomvandlingen i östra Hög-
 sbo innebär troligen också färre verksamheter som genererar tunga
-Den kraftiga befolkningstillväxten inom den fördjupade översikts-
-planens område innebär, tillsammans med den ökade målsättning-
+
 Fotograf: Rebecca Havedal
-92                                                                                                                                                           93
+93
 
 <!-- sida 172 -->
 
@@ -9942,138 +10849,207 @@ Fotograf: Lo Birgersson
 
 <!-- sida 173 -->
 
-I detta kapitel presenteras ett urval av de                                                               Om kollektivtrafikens turtäthet mot förmodan inte skulle bli en
-begränsning i framtiden, skulle ett borttagande av planskildheten
+I detta kapitel presenteras ett urval av de
 alternativa utformningar för boulevarden som har
-kräva att man höjer upp hela Annedalsmotet. Detta för att hantera
-studerats under arbetets gång, men som valts bort                                                         de stora höjdskillnaderna mellan Per Dubbsgatan och boulevarden.
-Detta är en mycket omfattande åtgärd som både är kostnadsdri-
+
+studerats under arbetets gång, men som valts bort
 av olika anledningar.
-vande och skapar en ”vägg” mot Slottsskogen. Dessutom ser den i
-nuläget inte ut att kunna frigöra ytor för annan markanvändning.
-För mer information om samtliga studerade alternativ, se bilaga 4                                         Huruvida denna lösning fungerar fullt ut i detalj har inte studerats.
-PM Utformning.                                                                                            Sammantaget ser åtgärdsvalsstudien att denna lösning inte bör
-utforskas vidare av staden.
-Två parallella gaturum                                                                                    Boulevardförslaget som presenteras i denna studie föreslår istället
-andra åtgärder för att minska Annedalsmotet visuella och faktiska
-Möjligheten att dela upp boulevarden i två separata gaturum har                                           barriäreffekt. Förslaget innebär att biltrafikens ytor i motet minskas,
-studerats översiktligt i denna studie. En sådan lösning hade inne-                                        både genom färre och smalare körfält. Dessutom föreslås att vissa
-burit att norr- och södergående vägtrafik hade förlagts i två paral-                                      av ramperna som kopplar mot Per Dubbsgatan kan tas bort eller
-lella gaturum, separerade av bebyggelse. En sådan lösning skulle                                          nyttjas för andra ändamål, till exempel gång-/cykeltrafik och/eller
-ge fördelar för fotgängare och cyklister som då inte behöver korsa                                        vegetation/dagvattenhantering. Om man tar bort en av ramperna
-ett lika brett gaturum som boulevarden nu föreslås bli. Gaturum-                                          på västra sidan frigör man ytor som kan möjliggöra en dubbelsidig
-met blir också lättare att tolka då trafiken endast går i en riktning.                                    bebyggelse längs med boulevarden.
+
+För mer information om samtliga studerade alternativ, se bilaga 4
+PM Utformning.
+
+Två parallella gaturum
+
+Möjligheten att dela upp boulevarden i två separata gaturum har
+studerats översiktligt i denna studie. En sådan lösning hade inne-
+burit att norr- och södergående vägtrafik hade förlagts i två paral-
+lella gaturum, separerade av bebyggelse. En sådan lösning skulle
+ge fördelar för fotgängare och cyklister som då inte behöver korsa
+ett lika brett gaturum som boulevarden nu föreslås bli. Gaturum-
+met blir också lättare att tolka då trafiken endast går i en riktning.
 Lösningen innebär dock flera stora nackdelar, vilka är anledningen
 till att denna lösning har valts bort:
-Centralt placerad   stadsbana   på
+
 • I mellanstaden är attraktiviteten för att etablera verksamheter
-norra delsträckan
 som förknippas med stadsliv lägre än i innerstaden. För att
 skapa en så hög potential som möjligt för företagsetablering-
-I denna studie har vi också studerat möjligheten att förlägga
 ar och andra målpunkter givet Dag Hammarskjölstadens plats
-stadsbanan centralt i boulevarden (mellan körfälten), även på den
 i staden, har bedömningen varit att Dag Hammarskjöldstaden
-norra delsträckan. En flytt av spåren till ett centralt läge i plan är
 bör utformas med ett huvudstråk istället för två. Detta för att
-inte möjligt ur ett trafikeringsperspektiv. Detta på grund av den
 närboende och människor som passerar genom området
-framtida spårtrafikens turtäthet, som gör att Annedalsmotet och
 ska koncentreras till ett stråk och därmed utgöra ett större
-även spårtrafiken i Margretebergsmotet, fortsatt behöver vara
 kundunderlag, vilket i förlängningen är positivt för att attrahe-
-planskilda. Detta för att möjliggöra för andra trafikanter att kunna
 ra verksamheter.
-passera spårtrafiken i dessa korsningar och spårtrafiken att kunna
-• Lösningen med två parallella stråk är mer ytkrävande, jämfört                                          behålla sin restid på sträckan.
+• Lösningen med två parallella stråk är mer ytkrävande, jämfört
 med att etablera ett huvudstråk. Ytan för den mellanliggande
 bebyggelsen blir dessutom för smal för att kunna rymma ett
-Centralt placerad   stadsbana   vid
 helt kvarter. Sammantaget leder detta till ett sämre markut-
-Skiss över centralt placerad stadsbana vid
 nyttjande jämfört med den föreslagna lösningen med ett
-Marklandsplatsen.       Marklandsplatsen
 huvudstråk.
-Vid Marklandsplatsen har två tänkbara lägen för spårvägens kopp-
-Annedalsmotet     i plan                                                                                  ling mot Frölundabanan och ett nytt hållplatsläge studerats:
-• ett östligt läge, med en ”kraftsamling” längs boulevarden och
+
+Annedalsmotet     i plan
+
 I förstudien och tillhörande visualisering (från år 2015 respektive
-en parallell trevägskorsning för spåren. En variant av denna
 2017\) föreslogs att planskildheten i Annedalsmotet skulle tas bort
-lösning redovisades i illustrationen till förstudien för Dag
 och motet förläggas i markplan. Denna idé har studerats vidare
-Hammarskjölds boulevard (från 2017).
 översiktligt i denna studie och valts bort av flera skäl.
-• ett västligt läge, i anslutning till befintlig hållplats på Frölun-
+
 Det främsta skälet är att det är mycket riskabelt att genomföra en
-dabanan. Detta pekas ut som huvudalternativ i denna studie.
 så omfattande åtgärd ur ett trafikeringsperspektiv. Den framtida
-Det östra alternativet innebär vissa fördelar gällande spårvägens
 kollektivtrafiken i det här området behöver trafikeras med en högre
-framkomlighet längs boulevarden, då den inte behöver trafikera
 turtäthet än idag. Detta då spårtrafiken från både Frölundabanan
-via Marklandsplatsens nuvarande hållplatsläge. Men alternativet
 och den kommande Innerstadsringen ska passera i Annedalsmotet.
-innebär också vissa nackdelar och har därför valts bort:
 Turtätheten begränsar möjligheten för andra trafikslag att passera
 i plan i så hög utstsräckning att korsningar med andra trafikslag i
-• Dels innebär det en sämre tillgänglighet till hållplatsen för
 plan inte kommer att fungera här.
+
+96
+
+Om kollektivtrafikens turtäthet mot förmodan inte skulle bli en
+begränsning i framtiden, skulle ett borttagande av planskildheten
+kräva att man höjer upp hela Annedalsmotet. Detta för att hantera
+de stora höjdskillnaderna mellan Per Dubbsgatan och boulevarden.
+Detta är en mycket omfattande åtgärd som både är kostnadsdri-
+vande och skapar en ”vägg” mot Slottsskogen. Dessutom ser den i
+nuläget inte ut att kunna frigöra ytor för annan markanvändning.
+Huruvida denna lösning fungerar fullt ut i detalj har inte studerats.
+Sammantaget ser åtgärdsvalsstudien att denna lösning inte bör
+utforskas vidare av staden.
+
+Boulevardförslaget som presenteras i denna studie föreslår istället
+andra åtgärder för att minska Annedalsmotet visuella och faktiska
+barriäreffekt. Förslaget innebär att biltrafikens ytor i motet minskas,
+både genom färre och smalare körfält. Dessutom föreslås att vissa
+av ramperna som kopplar mot Per Dubbsgatan kan tas bort eller
+nyttjas för andra ändamål, till exempel gång-/cykeltrafik och/eller
+vegetation/dagvattenhantering. Om man tar bort en av ramperna
+på västra sidan frigör man ytor som kan möjliggöra en dubbelsidig
+bebyggelse längs med boulevarden.
+
+Centralt  placerad  stadsbana   på
+norra  delsträckan
+
+I denna studie har vi också studerat möjligheten att förlägga
+stadsbanan centralt i boulevarden (mellan körfälten), även på den
+norra delsträckan. En flytt av spåren till ett centralt läge i plan är
+inte möjligt ur ett trafikeringsperspektiv. Detta på grund av den
+framtida spårtrafikens turtäthet, som gör att Annedalsmotet och
+även spårtrafiken i Margretebergsmotet, fortsatt behöver vara
+planskilda. Detta för att möjliggöra för andra trafikanter att kunna
+passera spårtrafiken i dessa korsningar och spårtrafiken att kunna
+behålla sin restid på sträckan.
+
+Centralt  placerad  stadsbana   vid
+Skiss över centralt placerad stadsbana vid
+Marklandsplatsen.      Marklandsplatsen
+
+Vid Marklandsplatsen har två tänkbara lägen för spårvägens kopp-
+ling mot Frölundabanan och ett nytt hållplatsläge studerats:
+• ett östligt läge, med en ”kraftsamling” längs boulevarden och
+en parallell trevägskorsning för spåren. En variant av denna
+lösning redovisades i illustrationen till förstudien för Dag
+Hammarskjölds boulevard (från 2017).
+
+• ett västligt läge, i anslutning till befintlig hållplats på Frölun-
+dabanan. Detta pekas ut som huvudalternativ i denna studie.
+Det östra alternativet innebär vissa fördelar gällande spårvägens
+framkomlighet längs boulevarden, då den inte behöver trafikera
+via Marklandsplatsens nuvarande hållplatsläge. Men alternativet
+innebär också vissa nackdelar och har därför valts bort:
+
+• Dels innebär det en sämre tillgänglighet till hållplatsen för
 befintliga boende.
-96                                                                                                                                                           97
+
+97
 
 <!-- sida 174 -->
 
-• Dels har en förutsättning för denna studie varit att det ska                                           Stadsbana   helt enligt grön  nivå
+• Dels har en förutsättning för denna studie varit att det ska
 gå att förtäta och skapa en stadsmässighet runt det nya
-hållplatsläget på boulevardens stadsbana. Detta är viktigt för                                         Som nämndes i kapitel 3.1. har ambitionen i denna åtgärdsvalsstu-
-att kunna skapa en närvaro på platsen, som bidrar till att detta                                       die varit att möjliggöra för stadsbana på grön nivå i boulevarden - i
-blir en trygg plats. I det östliga läget kan omkringliggande                                           så stor utsträckning som det har ansetts vara lämpligt. En avväg-
-ytor vara svåra att få tillgång till för omvandling, vilket innebär                                    ning mellan eftersträvansvärda trafikala funktioner och stadsmil-
-att den nödvändiga förtätningen kan omöjliggöras.                                                      jöfunktioner har legat till grund för när grön nivå ansetts lämpligt
-och inte.
+hållplatsläget på boulevardens stadsbana. Detta är viktigt för
+att kunna skapa en närvaro på platsen, som bidrar till att detta
+blir en trygg plats. I det östliga läget kan omkringliggande
+ytor vara svåra att få tillgång till för omvandling, vilket innebär
+att den nödvändiga förtätningen kan omöjliggöras.
 
-Direktkoppling   mellan   boulevarden                                                                     En etablering av stadsbana helt enligt Målbild Koll2035:s gröna
-nivå har inte bedömts vara möjlig att förlägga i markplan i bou-
-och Högsboleden
-levarden. Detta på grund av att stadsbana enligt grön nivå bland
-annat ska hålla mycket hög hastighet och har behov av planskild
+Direktkoppling   mellan   boulevarden
+och  Högsboleden
+
 I denna studie har också undersökts en genare koppling mellan
-framkomlighet i korsningar. Detta skulle ge stadsbanan en kraftig
 Högsboleden och boulevarden, än den som presenteras i förslaget.
-barriäreffekt, vilket inte stödjer den stadsutveckling som eftersträ-
 Denna idé återfinns i ”Historisk stadsplaneanalys”, som har utgjort
-vas här.
 ett inspirationsunderlag i det tidiga skissarbetet. Lösningen skulle
 innebära en vägdragning genom det nuvarande idrottsområdet,
-strax söder om Frölundaborg och Slottsskogsvallen, med anslut-                                            Planskild stadsbana?
+strax söder om Frölundaborg och Slottsskogsvallen, med anslut-
 ning till boulevarden i en trevägskorsning.
-Eftersom ett alternativ i markplan bedömts vara oförenligt med
-Fördelen med denna lösning är att den har potential att öppna upp                                         den efterstävade stadsutvecklingen, är frågan om en planskild
-och tillgängliggöra idrottsområdet, samtidigt som den avlastar                                            stadsbana i boulevarden vore tänkbar? En planskild stadsbana med
-både dagens förbindelse förbi Marklandsplatsen, mot Flatåsmotet                                           dess stationer förläggs då antingen under mark eller på en upphöjd
-och den norra kopplingen via Margretebergsgatan.                                                          högbana. Detta har inte heller bedömts vara förenligt med den
-vision som kunnat utläsas för boulevarden och dess tillhörande
-Lösningen har dock valts bort med anledning av dess svårigheter                                           stadsutveckling, där den lättillgängliga spårvägen är ryggraden.
+
+Fördelen med denna lösning är att den har potential att öppna upp
+och tillgängliggöra idrottsområdet, samtidigt som den avlastar
+både dagens förbindelse förbi Marklandsplatsen, mot Flatåsmotet
+och den norra kopplingen via Margretebergsgatan.
+
+Lösningen har dock valts bort med anledning av dess svårigheter
 att hantera höjdskillnaderna på väg och spårväg längs sträckan.
-Bedömningen i nuläget är också att det är nödvändigt att behålla                                          Vidare hade en planskild lösning behövt ha mycket långa avstånd
-planskildheten mellan spårväg och biltrafik här, på liknande sätt                                         mellan hållplatserna för att kunna nå restidsvinster. Det kräver i sin
-som vid Margretebergsmotet. Detta för att inte påverka Frölunda-                                          tur en omfattande matande områdestrafik med buss till hållplat-
-banans framkomlighet negativt, i synnerhet om en högre turtäthet                                          serna. En planskild stadsbana helt enligt grön nivå hade således
-ska kunna bli aktuellt i framtiden. För att kunna bibehålla plan-                                         riskerat att bli en oattraktiv lösning, med sämre förutsättningar att
-skildheten skulle resultatet bli en relativt omfattande trafikplats,                                      nå de högt uppsatta målen för resande med kollektivtrafik för det
-med spår- och biltrafik i två nivåer. Detta skulle ha stor påverkan                                       stora antal människor som planeras bo här. Detta stärks av resul-
-på omgivningen och innebära behov av sprängning på grund                                                  taten från den medborgardialog som genomfördes under arbetet
-av platsens förutsättningar. Korsningen skulle därför bli kostsam                                         med målbilden, där exempelvis högbana inte ansågs passa i mer
-och resultera i att den befintliga planskilda trafikplatsen ersattes                                      tätbebyggda områden.
+Bedömningen i nuläget är också att det är nödvändigt att behålla
+planskildheten mellan spårväg och biltrafik här, på liknande sätt
+som vid Margretebergsmotet. Detta för att inte påverka Frölunda-
+banans framkomlighet negativt, i synnerhet om en högre turtäthet
+ska kunna bli aktuellt i framtiden. För att kunna bibehålla plan-
+skildheten skulle resultatet bli en relativt omfattande trafikplats,
+med spår- och biltrafik i två nivåer. Detta skulle ha stor påverkan
+på omgivningen och innebära behov av sprängning på grund
+av platsens förutsättningar. Korsningen skulle därför bli kostsam
+och resultera i att den befintliga planskilda trafikplatsen ersattes
 med en ny liknande struktur. Det skulle varken bidra till minskade
-En planskild spårväg innebär också högre kostnader jämfört med
 biltrafikflöden, ökad stadsmiljökvalitet eller attraktivitet för gående
-en lösning i markplan, med 2-3 gånger högre kostnader för en
 och cyklister längs sträckan.
+
+Skiss över direktkoppling mellan boulevarden och Högsboleden.
+
+98
+
+Stadsbana    helt enligt grön  nivå
+
+Som nämndes i kapitel 3.1. har ambitionen i denna åtgärdsvalsstu-
+die varit att möjliggöra för stadsbana på grön nivå i boulevarden - i
+så stor utsträckning som det har ansetts vara lämpligt. En avväg-
+ning mellan eftersträvansvärda trafikala funktioner och stadsmil-
+jöfunktioner har legat till grund för när grön nivå ansetts lämpligt
+och inte.
+
+En etablering av stadsbana helt enligt Målbild Koll2035:s gröna
+nivå har inte bedömts vara möjlig att förlägga i markplan i bou-
+levarden. Detta på grund av att stadsbana enligt grön nivå bland
+annat ska hålla mycket hög hastighet och har behov av planskild
+framkomlighet i korsningar. Detta skulle ge stadsbanan en kraftig
+barriäreffekt, vilket inte stödjer den stadsutveckling som eftersträ-
+vas här.
+
+Planskild stadsbana?
+
+Eftersom ett alternativ i markplan bedömts vara oförenligt med
+den efterstävade stadsutvecklingen, är frågan om en planskild
+stadsbana i boulevarden vore tänkbar? En planskild stadsbana med
+dess stationer förläggs då antingen under mark eller på en upphöjd
+högbana. Detta har inte heller bedömts vara förenligt med den
+vision som kunnat utläsas för boulevarden och dess tillhörande
+stadsutveckling, där den lättillgängliga spårvägen är ryggraden.
+
+Vidare hade en planskild lösning behövt ha mycket långa avstånd
+mellan hållplatserna för att kunna nå restidsvinster. Det kräver i sin
+tur en omfattande matande områdestrafik med buss till hållplat-
+serna. En planskild stadsbana helt enligt grön nivå hade således
+riskerat att bli en oattraktiv lösning, med sämre förutsättningar att
+nå de högt uppsatta målen för resande med kollektivtrafik för det
+stora antal människor som planeras bo här. Detta stärks av resul-
+taten från den medborgardialog som genomfördes under arbetet
+med målbilden, där exempelvis högbana inte ansågs passa i mer
+tätbebyggda områden.
+En planskild spårväg innebär också högre kostnader jämfört med
+en lösning i markplan, med 2-3 gånger högre kostnader för en
 upphöjd lösning och 4-5 gånger högre kostnader för en lösning
 under mark.
-Skiss över direktkoppling mellan boulevarden och Högsboleden.
+
 En planskild lösning blir också investeringsmässigt svår att motive-
 ra med en kompletterande spårbana till Frölundabanan via Marco-
 nigatan, i enlighet med huvudförslaget. Med denna del borträknad
@@ -10086,87 +11062,125 @@ mycket svårt att överhuvudtaget lösa alla trafikkonflikter i samma
 plan. Mer om alternativet med en planskild stadsbana finns att läsa
 i bilaga 13 PM Nya spårvägar och stadsutveckling och bilaga 14 PM
 Planskild spårväg.
+
 Fotograf: Frida Winter
-98                                                                                                                                                           99
+99
 
 <!-- sida 175 -->
 
-Partiellt planskild stadsbana?                                                                             • Avståndet mellan Marklandsplatsen och Botaniska trädgår-
-dens hållplats är endast cirka 850 meter och skulle eventuellt
+Partiellt planskild stadsbana?
+
 Att partiellt planskilja stadsbanan vore att planskilja den i de stora
-kunna utgå för att uppnå grön nivå fullt ut. Ett annat alternativ
 korsningarna, likt Hjalmar Brantingsgatans lösning. En sådan
-vore att behålla hållplatsen, men endast trafikera den under
 lösning innebär dels stora tråg/ramper på sidan om gatukorsning-
-evenemang då den är högt använd.
 arna. Dessutom innebär det att man vill uppnå en så hög hastighet
-som möjligt mellan korsningarna, för att maximera nyttan av de                                             • Nästa hållplats söder om Marklandsplatsen lokaliseras
-planskilda korsningarna och den extra investering de har inneburit.                                          1 kilometer söderut, vilket blir cirka 300 meter söder om
-Det innebär i sin tur att det inte är aktuellt ed gång- och cykelkors-                                       Flatåsmotet.
+som möjligt mellan korsningarna, för att maximera nyttan av de
+planskilda korsningarna och den extra investering de har inneburit.
+Det innebär i sin tur att det inte är aktuellt ed gång- och cykelkors-
 ningar på sträckorna mellan de stora planskilda korsningarna. Den
-• Därefter lokaliseras nästa hållplats i höjd med Radiotorget.
 här lösningen stödjer inte den stadsutveckling som eftersträvas för
-området.                                                                                                   • Den sista hållplatsen innan Väster-/Söderleden lokaliseras
-vid Radiovägen. Hit blir avståndet dock endast 800 meter. På
-1970-talet planerade man för en vändslinga norr om Radiovä-
+området.
+
 Stadsbana på den gamla banvallen - tekniskt
-gen. Det innebär att det inte är förberett för en spårvägspas-
 möjligt alternativ för stadsbana enligt grön nivå
-sage av Radiovägen. Om en fortsatt dragning av spårvägen
-söderut längs väg 158 ändå skulle bli aktuell kan hållplatsen
+
 En tekniskt möjlig lösning för att möjliggöra stadsbana helt enligt
-vid Radiovägen utgå, då omgivande boendetäthet är låg
 målbildens gröna standard, vore att utnyttja den gamla banvallen
-och avståndet är för litet till den norrut liggande hållplatsen.
 för Säröbanan där pendlingscykelbanan går idag. På 1970-talet
-Dessutom skulle ett byte till express-/metrobuss istället
 fanns det planer om att anlägga en spårväg här och samtliga
-kunna ske vid en hållplats längs väg 158. Det skulle då krävas
 trafikmot längs Dag Hammarskjöldsleden har anpassats för detta.
-matning med områdestrafik (buss) till hållplatsen i höjd med
 Denna lösning skulle kunna fungera som en nödlösning för nollal-
-Radiotorget.
 ternativet och dess exploateringsnivåer. I nollalternativet är kollek-
-tivtrafiken med expressbussar otillräcklig, men med denna lösning                                         Byggandet av stadsbanan på den gamla banvallen innebär en om-
-skulle spårvägen kunna erbjuda tillräcklig kollektivtrafikkapacitet.                                      planering för pendlingscykelbanan. I vissa avsnitt kan den rymmas
-Bostäderna som, enligt nollalternativet, byggs i östra Högsbo skulle                                      öster om stadsbanan.
+tivtrafiken med expressbussar otillräcklig, men med denna lösning
+skulle spårvägen kunna erbjuda tillräcklig kollektivtrafikkapacitet.
+Bostäderna som, enligt nollalternativet, byggs i östra Högsbo skulle
 dock ligga på ett relativt långt avstånd från spårvägen (som ligger
-på andra sidan leden).                                                                                    I detta alternativ behöver befintliga brokonstruktioner reinvesteras,
-för att upprätthålla den planskilda strukturen för ledens och spår-
-I jämförelse med huvudförslaget i denna studie blir resandet troli-                                       vägens funktion. Kostnaden för det är uppskattad till 900 miljoner
-gen lägre med en stadsbana på den gamla banvallen, relativt sett.                                         kronor till år 2050. Kostnaden för ny spårväg i den förberedda drag-
-Det resulterar i ett högre bilresande från de nya exploateringarna.                                       ningen är inte utredd men om den kräver liknande underbyggnad
-Detta då en begränsad närhet till kollektivtrafik motiverar behov av                                      som huvudförslaget, motsvarar 3,5 kilometer i detta alternativ cirka
-relativt sett högre parkeringstal. För att ändå motivera byggandet                                        675 miljoner kronor.
+på andra sidan leden).
+
+I jämförelse med huvudförslaget i denna studie blir resandet troli-
+gen lägre med en stadsbana på den gamla banvallen, relativt sett.
+Det resulterar i ett högre bilresande från de nya exploateringarna.
+Detta då en begränsad närhet till kollektivtrafik motiverar behov av
+relativt sett högre parkeringstal. För att ändå motivera byggandet
 av stadsbanan på banvallen är det då troligen nödvändigt att låta
-den fortsätta söderut långs väg 158 till Brottkärrsmotet. Den skulle                                      Sammantaget innebär en satsning på stadsutveckling baserad
-då kunna avlasta expressbussarna och göra en exploatering i de                                            på stadsbana enligt fullständig grön standard i detta område en
-södra kommundelarna möjlig där tillgängligheten är en begräns-                                            annan typ av stadsutveckling än målbilden för den fördjupade
-ning för utbyggnad.                                                                                       översiktsplanen och en minskning av antalet nya bostäder i Frölun-
-da-Högsbo till trolig förmån för fler bostäder i Askim/Hovås.
+den fortsätta söderut långs väg 158 till Brottkärrsmotet. Den skulle
+då kunna avlasta expressbussarna och göra en exploatering i de
+södra kommundelarna möjlig där tillgängligheten är en begräns-
+ning för utbyggnad.
 Med banvallslösningen skulle dock inte stadsbanas kapacitet
 utnyttjas fullt ut, då Dag Hammarskjöldsleden inte skulle byggas
-om. Därmed skulle inte heller markytorna på och runt leden vara                                           Pendlingscykelbana     centralt i
+om. Därmed skulle inte heller markytorna på och runt leden vara
+
 tillgängliga eller lämpliga för byggande av bostäder. Rimligen
-boulevarden
 sänks inte hastigheten på leden, då man bevarar den funktion den
 har idag och bullernivåerna fortsätter därför vara höga. En översikt-
-En lösning där pendlingscykelstråket förläggs i ett centralt läge
 lig uppskattning är att bostäder för cirka 5-10 000 färre invånare
-i boulevarden, parallellt med spårvägen, har studerats. Denna
 blir möjliga inom området, i jämförelse med en boulevard. Detta
-lösning rekommenderas dock inte av följande skäl:
 medför att den förslagna spårvägskopplingen i Marconigatan inte
-behöver byggas ut i detta alternativ.                                                                      • den ger en större risk för korsningskonflikter mellan cykel och
-spårtrafik vid hållplatserna
+behöver byggas ut i detta alternativ.
 Enligt målbilden ska stadsbana enligt grön nivå ha ett hållplats-
-• cyklister från både östra och västra sidan får sämre tillgänglig-
 avstånd om minst 1000 meter. Detta innebär att den planerade
-het till pendlingscykelbanan
 hållplatslokaliseringen från 1970-talet, med tillhörande passager
 under och över leden, inte fungerar fullt ut då avstånden mellan
 hållplatserna är kortare:
-100                                                                                                                                                           101
+
+100
+
+• Avståndet mellan Marklandsplatsen och Botaniska trädgår-
+dens hållplats är endast cirka 850 meter och skulle eventuellt
+kunna utgå för att uppnå grön nivå fullt ut. Ett annat alternativ
+vore att behålla hållplatsen, men endast trafikera den under
+evenemang då den är högt använd.
+
+• Nästa hållplats söder om Marklandsplatsen lokaliseras
+1 kilometer söderut, vilket blir cirka 300 meter söder om
+Flatåsmotet.
+• Därefter lokaliseras nästa hållplats i höjd med Radiotorget.
+• Den sista hållplatsen innan Väster-/Söderleden lokaliseras
+vid Radiovägen. Hit blir avståndet dock endast 800 meter. På
+1970-talet planerade man för en vändslinga norr om Radiovä-
+gen. Det innebär att det inte är förberett för en spårvägspas-
+
+sage av Radiovägen. Om en fortsatt dragning av spårvägen
+söderut längs väg 158 ändå skulle bli aktuell kan hållplatsen
+vid Radiovägen utgå, då omgivande boendetäthet är låg
+och avståndet är för litet till den norrut liggande hållplatsen.
+Dessutom skulle ett byte till express-/metrobuss istället
+kunna ske vid en hållplats längs väg 158. Det skulle då krävas
+matning med områdestrafik (buss) till hållplatsen i höjd med
+Radiotorget.
+Byggandet av stadsbanan på den gamla banvallen innebär en om-
+planering för pendlingscykelbanan. I vissa avsnitt kan den rymmas
+öster om stadsbanan.
+
+I detta alternativ behöver befintliga brokonstruktioner reinvesteras,
+för att upprätthålla den planskilda strukturen för ledens och spår-
+vägens funktion. Kostnaden för det är uppskattad till 900 miljoner
+kronor till år 2050. Kostnaden för ny spårväg i den förberedda drag-
+ningen är inte utredd men om den kräver liknande underbyggnad
+som huvudförslaget, motsvarar 3,5 kilometer i detta alternativ cirka
+675 miljoner kronor.
+
+Sammantaget innebär en satsning på stadsutveckling baserad
+på stadsbana enligt fullständig grön standard i detta område en
+annan typ av stadsutveckling än målbilden för den fördjupade
+översiktsplanen och en minskning av antalet nya bostäder i Frölun-
+da-Högsbo till trolig förmån för fler bostäder i Askim/Hovås.
+
+Pendlingscykelbana     centralt  i
+
+boulevarden
+
+En lösning där pendlingscykelstråket förläggs i ett centralt läge
+i boulevarden, parallellt med spårvägen, har studerats. Denna
+lösning rekommenderas dock inte av följande skäl:
+
+• den ger en större risk för korsningskonflikter mellan cykel och
+spårtrafik vid hållplatserna
+• cyklister från både östra och västra sidan får sämre tillgänglig-
+het till pendlingscykelbanan
+
+101
 
 <!-- sida 176 -->
 
@@ -10269,330 +11283,546 @@ Fotograf: Frida Winter
 
 <!-- sida 179 -->
 
-I detta kapitel redovisas lämplig etappindelning                                                          fungera bra under ombyggnaden kommer både väg- och kollektiv-
-trafiksystemet att behöva anpassas under byggtiden.
+I detta kapitel redovisas lämplig etappindelning
 och utbyggnadsordning av boulevarden och
-Den långa omvandlingstiden gör att olika trafikeringslösningar
+
 resterande delar av Dag Hammarskjöldstaden.
+
+Utgångspunkter
+
+Ett genomförande av boulevarden och hela/delar av Dag Hammar-
+skjöldstaden är ett mycket omfattande och komplext stadsutveck-
+lingsprojekt. Det vilar väldigt mycket potential för framväxten av
+en framtida stadsdel i området. För att förvalta denna potential på
+bästa sätt är det viktigt att staden utgår styr planeringen i önskad
+riktning och fattar aktiva beslut i respektive vägval.
+Kollektivtrafikens kapacitet och utbyggnad är en nyckelfråga för
+genomförandet. Stadsomvandlingen runt boulevarden är beroen-
+
+de av utbyggnaden av en stadsbana och eventuellt en järnväg, om
+inte de tillkommande invånarnas mobilitet ska bygga på att resa
+med bil - vilket inte är en hållbar utveckling.
+Västra Götalandsregionen (VGR) är den regionala kollektivtrafik-
+myndigheten och ansvarar för kollektivtrafiken i Västra Götaland.
+I dialogen med VGR har framkommit att finansieringen för en
+stadsbana i Dag Hammarskjöldstaden tidigast kan bli aktuell efter
+år 2035. Ser man till en eventuell järnvägs tillkomst i detta område
+ligger det också långt fram i tiden. Med den omfattande planering
+som krävs för en utbyggnad av en järnväg, särskilt i ett tättbebyggt
+område såsom detta, kan en järnväg tidigast vara på plats efter
+2040\. Men dessa tidsangivelser är mycket osäkra i dagsläget.
+
+Ytterligare en komplicerande faktor är att bebyggelseutvecklingen
+och utbyggnaden av stadsbanan behöver gå i takt under genom-
+förandetiden. Detta för att en kapacitetsstark kollektivtrafik ska
+hinna färdigställas tills dess att de nya invånarna flyttar in. I annat
+fall hinner invånarna etablera resvanor som högst sannolikt kom-
+mer att baseras på bilresor, då nuvarande kollektivtrafikkapacitet
+inte kommer att vara tillräcklig. Ytterligare en anledning att låta
+bebyggelseutvecklingen och kollektivtrafikutbyggnaden gå i takt
+är att det kan möjliggöra för staden att erhålla exploateringsbidrag
+för stadsbanan, från exploatörerna. Detta kan bli ett mycket viktigt
+tillskott till finansieringen av hela Dag Hammarskjöldstaden.
+
+Boulevardomvandlingen, med utbyggnaden av stadsbanan och
+en eventuell järnväg är stora infrastrukturprojekt. Dessa kommer
+att ta många år att genomföra. Detta innebär att staden kommer
+att behöva samordna infrastruktur- och bebyggelseprojekten här
+under lång tid.
+
+Trafik under  byggtiden
+
+Den långa utbyggnadstiden av Dag Hammarskjöldstaden kommer
+att ha stor påverkan på både befintliga och framtida invånare
+samt resenärer som färdas i stråket. För att hela trafiksystemet ska
+
+108
+
+fungera bra under ombyggnaden kommer både väg- och kollektiv-
+trafiksystemet att behöva anpassas under byggtiden.
+
+Den långa omvandlingstiden gör att olika trafikeringslösningar
 kommer att bli aktuella, beroende på i vilket skede av byggnatio-
 nen som stadsutvecklingsprojekten befinner sig. Huvudregeln
 är dock att cykel- och kollektivtrafikens framkomlighet behöver
-Utgångspunkter                                                                                            prioriteras högre än biltrafikens under byggtiden. Det innebär i
+prioriteras högre än biltrafikens under byggtiden. Det innebär i
 första hand att undvika ändrade färdvägar för kollektivtrafiken,
-Ett genomförande av boulevarden och hela/delar av Dag Hammar-                                             samt att kompletterande kollektivtrafik finns på plats i god tid
-skjöldstaden är ett mycket omfattande och komplext stadsutveck-                                           innan behovet uppstår. Det kan också innebära behov av separata
-lingsprojekt. Det vilar väldigt mycket potential för framväxten av                                        busskörfält och att man bibehåller planskildheten för kollektiv- och
-en framtida stadsdel i området. För att förvalta denna potential på                                       pendelcykeltrafik (i korsningar med andra trafikslag) under så
-bästa sätt är det viktigt att staden utgår styr planeringen i önskad                                      stor del av byggtiden som möjligt. Spårväg och cykelvägar bör
-riktning och fattar aktiva beslut i respektive vägval.                                                    prioriteras högt i utbyggnadsordningen för hela området, så att de
+samt att kompletterande kollektivtrafik finns på plats i god tid
+innan behovet uppstår. Det kan också innebära behov av separata
+busskörfält och att man bibehåller planskildheten för kollektiv- och
+pendelcykeltrafik (i korsningar med andra trafikslag) under så
+stor del av byggtiden som möjligt. Spårväg och cykelvägar bör
+prioriteras högt i utbyggnadsordningen för hela området, så att de
 möjliggör för en effektiv cykel- och kollektivtrafikering redan från
-Kollektivtrafikens kapacitet och utbyggnad är en nyckelfråga för
 dag ett när nya boende och verksamheter flyttar in.
-genomförandet. Stadsomvandlingen runt boulevarden är beroen-
-de av utbyggnaden av en stadsbana och eventuellt en järnväg, om                                           Föreslagen huvudprincip för trafik under byggtiden är att så myck-
-inte de tillkommande invånarnas mobilitet ska bygga på att resa                                           et som möjligt av trafikomläggningen ska ske inom Dag Hammar-
-med bil - vilket inte är en hållbar utveckling.                                                           skjöldstråket. Framkomligheten för bil-, cykel- och kollektivtrafik
+
+Föreslagen huvudprincip för trafik under byggtiden är att så myck-
+et som möjligt av trafikomläggningen ska ske inom Dag Hammar-
+skjöldstråket. Framkomligheten för bil-, cykel- och kollektivtrafik
 kommer att påverkas, men stråkets bredd ger goda förutsättningar
-Västra Götalandsregionen (VGR) är den regionala kollektivtrafik-
 för att begränsa den negativa påverkan på omgivningen.
-myndigheten och ansvarar för kollektivtrafiken i Västra Götaland.
-I dialogen med VGR har framkommit att finansieringen för en                                               Eftersom en omvandling till boulevard på sikt innebär en lägre
-stadsbana i Dag Hammarskjöldstaden tidigast kan bli aktuell efter                                         framkomlighet för den genomgående biltrafiken, kan påverkan
-år 2035. Ser man till en eventuell järnvägs tillkomst i detta område                                      under byggtiden fungera som en stegvis övergång mot en succes-
-ligger det också långt fram i tiden. Med den omfattande planering                                         sivt sänkt hastighetsgräns och vägbredd till slutmålet: 40 km/h i en
-som krävs för en utbyggnad av en järnväg, särskilt i ett tättbebyggt                                      stadsmässig miljö.
-område såsom detta, kan en järnväg tidigast vara på plats efter
-2040\. Men dessa tidsangivelser är mycket osäkra i dagsläget.
+Eftersom en omvandling till boulevard på sikt innebär en lägre
+framkomlighet för den genomgående biltrafiken, kan påverkan
+under byggtiden fungera som en stegvis övergång mot en succes-
+sivt sänkt hastighetsgräns och vägbredd till slutmålet: 40 km/h i en
+stadsmässig miljö.
+
+Kollektivtrafikering, under och efter utbyggna-
+den av etapp 1.
+\- Lila: spårväg med bedömd högre standard än
+den gulmarkerade enligt Målbild Koll2035.
+\- Gul: spårväg med bedömd lägre standard än
+den lilamarkerade enligt Målbild Koll2035.
+\- Streckad blå: busslinjer i blandtrafik.
+\- Heldragen blå: busslinjer i busskörfält.
+
 Etappindelning    och
-Ytterligare en komplicerande faktor är att bebyggelseutvecklingen
+
 utbyggnadsordning
-och utbyggnaden av stadsbanan behöver gå i takt under genom-
-förandetiden. Detta för att en kapacitetsstark kollektivtrafik ska
+
 Omfattningen av boulevardiseringen av Dag Hammarskjöldsleden
-hinna färdigställas tills dess att de nya invånarna flyttar in. I annat
-Kollektivtrafikering, under och efter utbyggna- med tillhörande stadsutveckling, gör det helt nödvändigt att
-fall hinner invånarna etablera resvanor som högst sannolikt kom-                  den av etapp 1.
+med tillhörande stadsutveckling, gör det helt nödvändigt att
 dela in omvandlingen i olika etapper. Nedan följer en beskrivning
-mer att baseras på bilresor, då nuvarande kollektivtrafikkapacitet
-\- Lila: spårväg med bedömd högre standard än av den övergripande etappindelning och utbyggnadsordning
-inte kommer att vara tillräcklig. Ytterligare en anledning att låta
-den gulmarkerade enligt Målbild Koll2035. som vi har bedömt vara realistisk och mest lämplig, i detta tidiga
-bebyggelseutvecklingen och kollektivtrafikutbyggnaden gå i takt                   - Gul: spårväg med bedömd lägre standard än
+av den övergripande etappindelning och utbyggnadsordning
+som vi har bedömt vara realistisk och mest lämplig, i detta tidiga
 planeringsskede. Att trafiksystemet fungerar väl under och efter
-är att det kan möjliggöra för staden att erhålla exploateringsbidrag              den lilamarkerade enligt Målbild Koll2035.
-\- Streckad blå: busslinjer i blandtrafik. byggtiden har varit en viktig parameter för den etappindelning och
-för stadsbanan, från exploatörerna. Detta kan bli ett mycket viktigt
-\- Heldragen blå: busslinjer i busskörfält. utbyggnadsordning som presenteras. Utbyggnaden föreslås ske i
-tillskott till finansieringen av hela Dag Hammarskjöldstaden.
+byggtiden har varit en viktig parameter för den etappindelning och
+utbyggnadsordning som presenteras. Utbyggnaden föreslås ske i
 etappernas ordningsföljd.
-Boulevardomvandlingen, med utbyggnaden av stadsbanan och
-en eventuell järnväg är stora infrastrukturprojekt. Dessa kommer
+
 Etapp 1 - ”det gröna startskottet” samt pågående
-att ta många år att genomföra. Detta innebär att staden kommer
 planering
-att behöva samordna infrastruktur- och bebyggelseprojekten här                                 ,.
-under lång tid.                                                                           +··-·.          I den första etappen färdigställs pågående planering på den
-' •      västra sidan om Dag Hammarskjöldsleden, i bland annat Frölunda,
+,.
++··-·.         I den första etappen färdigställs pågående planering på den
+' •     västra sidan om Dag Hammarskjöldsleden, i bland annat Frölunda,
 Kaverös och Högsbo. Omfattningen av den pågående planeringen
-Trafik under  byggtiden
-.        behöver avvägas mot stadsutvecklingens omfattning i Dag Ham-
-.        marskjöldstadens etapp 2.
-Den långa utbyggnadstiden av Dag Hammarskjöldstaden kommer                                       .•
+.       behöver avvägas mot stadsutvecklingens omfattning i Dag Ham-
+.       marskjöldstadens etapp 2.
+.•
 •
-att ha stor påverkan på både befintliga och framtida invånare                                             Den föreslagna passagen mellan Botaniska trädgården och Slotts-
+Den föreslagna passagen mellan Botaniska trädgården och Slotts-
 6·-
-samt resenärer som färdas i stråket. För att hela trafiksystemet ska                                      skogen ger mervärden för hela staden och föreslås också etableras
+skogen ger mervärden för hela staden och föreslås också etableras
 i etapp 1. Detta sker i samband med flytten av Botaniska trädgår-
-108                                                                                                                                                           109
+
+109
 
 <!-- sida 180 -->
 
-dens spårvägshållplats till ett läge längre norrut. Passagen skulle                                       sätt skulle vara aktuellt för den expressbusslinje som används
-mycket väl kunna fungera som ett ”grönt startskott” för hela Dag                                          av de resenärer vars målpunkt ligger längs boulevarden (övriga
-Hammarskjölds boulevard. I det här skedet handlar det dock om en                                          expressbusslinjer blir en del av metrobusskonceptet). Ett alternativ
-temporär utformning av passagen, då en fullständig omvandling                                             till denna lösning vore att expressbussen vänder vid Marconimotet
-kan ske först i samband med boulevardomvandlingen på den norra                                            eller angör Frölunda torg, där resenärerna istället får göra sitt byte.
-delsträckan. Detta på grund av att hela gatusektionen förändras i                                         Fördelen med att kunna resa med buss hela vägen till Marklands-
-samband med boulevardiseringen.                                                                           platsen, för de som reser till/från väg 158, är att de ges en direktresa
+dens spårvägshållplats till ett läge längre norrut. Passagen skulle
+mycket väl kunna fungera som ett ”grönt startskott” för hela Dag
+Hammarskjölds boulevard. I det här skedet handlar det dock om en
+temporär utformning av passagen, då en fullständig omvandling
+kan ske först i samband med boulevardomvandlingen på den norra
+delsträckan. Detta på grund av att hela gatusektionen förändras i
+samband med boulevardiseringen.
+
+Etapp 2 - omvandling norr om Marconimotet
+
+I den andra etappen genomförs först boulevardomvandlingen
+mellan Marklandsplatsen och Marconimotet. Stadsbanan byggs nu
+ut från Marklandsplatsen till Marconimotet och vidare västerut (i
+Marconigatan) till Musikplatsen. Metrobussfunktionen på Söder-/
+Västerleden behöver finnas på plats när denna etapp påbörjas.
+
+På sträckan mellan Marklandsplatsen och Marconimotet bör be-
+byggelsen förläggas utmed boulevarden i första hand, för att skapa
+väggarna i det stadsrum som eftersträvas. Efterhand kan sedan
+bebyggelsen växa i utåtriktning från boulevarden. Den tillkom-
+mande bebyggelsen behöver ske i takt med utbyggnaden av den
+nya stadsbanan på sträckan. För att kunna bygga ut den möjliga
+bebyggelsen norr om A Odhners gata behöver omfattningen av
+förtätningen i Frölundabanans närområden (bland annat Frölunda,
+Kaverös och Högsbo) i den föregående etappen ha anpassats.
+
+Det är viktigt att expressbusstrafikens tillgänglighet till Marklands-
+platsen säkerställs i form av temporära busskörfält under utbygg-
+naden av boulevarden och stadsbanan i denna etapp. Detta för att
+i möjligaste mån undvika negativ påverkan på framkomligheten
+för dagens genomgående expressbusstrafik, så att resenärer från
+söder om Järnbrottsmotet får möjlighet till effektiva byten. Under
+det fortsatta utredningsarbetet kan det visa sig vara mer lämpligt
+att expressbusstrafiken endast ska trafikera sträckan in till Marconi-
+motet. I sådana fall behöver Marconimotet utformas för att kunna
+erbjuda en attraktiv bytesfunktion för kollektivtrafikresenärer
+söderifrån, samt en effektiv vändningsmöjlighet för busstrafiken. I
+nuvarande utredningsskede bedöms dock detta vara mindre lämp-
+ligt och åtgärdsvalsstudien förordar därför att expressbusstrafiken
+trafikerar hela sträckan in till Marklandsplatsen.
+Införandet av temporära busskörfält kan påverka biltrafikens
+framkomlighet under byggtiden. För att säkerställa utrymme för
+busstrafiken kan en omläggning av biltrafiken till parallella stråk
+bli aktuell - under vissa perioder på vissa delsträckor. Söder om
+Marklandsplatsen finns det parallella stråk på både västra och
+östra sidan, som kan ha potential att användas under byggtiden på
+sträckor där omläggning inte ryms inom Dag Hammarskjöldstråket.
+
+Lokalgatorna på östra sidan bör vara mer lämpliga än de på västra
+sidan, givet gatornas omgivande markanvändning idag.
+Även efter att boulevardomvandlingen och stadsbanan är färdig-
+ställda norr om Marconimotet, finns det fortfarande ett behov
+för expressbussar att trafikera sträckan mellan Marconimotet och
+Marklandsplatsen - med den framkomlighet som boulevarden
+möjliggör. Detta på grund av att stadsbanan inte är utbyggd på
+hela sträckan ned till Radiomotet/Järnbrott. En trafikering på detta
+
+110
+
+aiil"lllll!il""!ll'!!iil'!!!l"lil'!!!IJ'
+
+Kollektivtrafikering, under utbyggnaden av
+etapp 2.
+
+\- Heldragen lila: spårväg med bedömd högre
+standard än den gulmarkerade enligt Målbild
+Koll2035.
+\- Lila pilmarkering: spårväg under utbyggnad.
+\- Gul: spårväg med bedömd lägre standard än
+den heldragna lilamarkerade enligt Målbild
+Koll2035.
+\- Streckad blå: busslinjer i blandtrafik.
+\- Heldragen blå: busslinjer i busskörfält.
+
+Kollektivtrafikering, när etapp 2 är färdigställd.
+\- Lila: spårväg med bedömd högre standard än
+den gulmarkerade enligt Målbild Koll2035.
+\- Gul: spårväg med bedömd lägre standard än
+den lilamarkerade enligt Målbild Koll2035.
+\- Streckad blå: busslinjer i blandtrafik.
+\- Heldragen blå: busslinjer i busskörfält.
+
+sätt skulle vara aktuellt för den expressbusslinje som används
+av de resenärer vars målpunkt ligger längs boulevarden (övriga
+expressbusslinjer blir en del av metrobusskonceptet). Ett alternativ
+till denna lösning vore att expressbussen vänder vid Marconimotet
+eller angör Frölunda torg, där resenärerna istället får göra sitt byte.
+Fördelen med att kunna resa med buss hela vägen till Marklands-
+platsen, för de som reser till/från väg 158, är att de ges en direktresa
 till en knutpunkt som erbjuder fler bytesmöljligheter än vad
 Marconimotet kommer att kunna göra.
-Etapp 2 - omvandling norr om Marconimotet
-aiil"lllll!il""!ll'!!iil'!!!l"lil'!!!IJ'
-I den andra etappen genomförs först boulevardomvandlingen                                                 När boulevardomvandlingen och stadsbanan är färdigställda
-mellan Marklandsplatsen och Marconimotet. Stadsbanan byggs nu                                             mellan Marklandsplatsen och Marconimotet behöver boulevardise-
-ut från Marklandsplatsen till Marconimotet och vidare västerut (i                                         ringen av den norra delsträckan påbörjas. Förutsättningarna för ett
-Marconigatan) till Musikplatsen. Metrobussfunktionen på Söder-/                                           genomförande av boulevarden på denna delsträcka skiljer sig dock
-Västerleden behöver finnas på plats när denna etapp påbörjas.                                             åt jämfört med söder om Marklandsplatsen, bland annat gällande
-Kollektivtrafikering, under utbyggnaden av
+
+När boulevardomvandlingen och stadsbanan är färdigställda
+mellan Marklandsplatsen och Marconimotet behöver boulevardise-
+ringen av den norra delsträckan påbörjas. Förutsättningarna för ett
+genomförande av boulevarden på denna delsträcka skiljer sig dock
+åt jämfört med söder om Marklandsplatsen, bland annat gällande
 möjligheterna till intäkter från kommunal markförsäljning. Det kan
-etapp 2.
-På sträckan mellan Marklandsplatsen och Marconimotet bör be-                                              därför bli nödvändigt att dela upp boulevardiseringen på den norra
-byggelsen förläggas utmed boulevarden i första hand, för att skapa - Heldragen lila: spårväg med bedömd högre delsträckan i flera faser. Detta för att inte hela sträckan ska stå orörd
-standard än den gulmarkerade enligt Målbild
-väggarna i det stadsrum som eftersträvas. Efterhand kan sedan                                             under lång tid efter att omvandlingen mellan Marklandsgatan och
-Koll2035.
-bebyggelsen växa i utåtriktning från boulevarden. Den tillkom- - Lila pilmarkering: spårväg under utbyggnad. Marconiplatsen har genomförts.
-mande bebyggelsen behöver ske i takt med utbyggnaden av den - Gul: spårväg med bedömd lägre standard än
-nya stadsbanan på sträckan. För att kunna bygga ut den möjliga den heldragna lilamarkerade enligt Målbild Ett sätt att dela upp processen vore att sänka hastigheten till
-Koll2035.
-bebyggelsen norr om A Odhners gata behöver omfattningen av - Streckad blå: busslinjer i blandtrafik.      60 km/h i ett första steg och genomföra olika temporära åtgärder1.
-förtätningen i Frölundabanans närområden (bland annat Frölunda, - Heldragen blå: busslinjer i busskörfält. Detta för att få ett jämnare tempo i boulevarden som helhet och
-Kaverös och Högsbo) i den föregående etappen ha anpassats.                                                signalera att en förändring av gaturummet ligger nära i tiden. En
+därför bli nödvändigt att dela upp boulevardiseringen på den norra
+delsträckan i flera faser. Detta för att inte hela sträckan ska stå orörd
+under lång tid efter att omvandlingen mellan Marklandsgatan och
+Marconiplatsen har genomförts.
+
+Ett sätt att dela upp processen vore att sänka hastigheten till
+60 km/h i ett första steg och genomföra olika temporära åtgärder1.
+Detta för att få ett jämnare tempo i boulevarden som helhet och
+signalera att en förändring av gaturummet ligger nära i tiden. En
 effekt av detta är att kollektivtrafikens attraktivitet ökar gentemot
-Det är viktigt att expressbusstrafikens tillgänglighet till Marklands-                                    biltrafikens, vilket i förlängningen främjar en hållbar mobilitet.
-platsen säkerställs i form av temporära busskörfält under utbygg-                                         Därefter behöver boulevardiseringen fullföljas i sin helhet, så att
-naden av boulevarden och stadsbanan i denna etapp. Detta för att                                          boulevarden blir ett sammanhängande gaturum på hela sträckan
-i möjligaste mån undvika negativ påverkan på framkomligheten                                              mellan Linnéplatsen och Marconimotet.
-för dagens genomgående expressbusstrafik, så att resenärer från
+biltrafikens, vilket i förlängningen främjar en hållbar mobilitet.
+Därefter behöver boulevardiseringen fullföljas i sin helhet, så att
+boulevarden blir ett sammanhängande gaturum på hela sträckan
+mellan Linnéplatsen och Marconimotet.
+
 Kollektivtrafikering, under utbyggnaden av
-söder om Järnbrottsmotet får möjlighet till effektiva byten. Under
+
 etapp 3.
-det fortsatta utredningsarbetet kan det visa sig vara mer lämpligt                                        Etapp 3 - omvandling söder om Marconimotet
+Etapp 3 - omvandling söder om Marconimotet
 \- Heldragen lila: spårväg med bedömd högre
-att expressbusstrafiken endast ska trafikera sträckan in till Marconi-
-standard än den gulmarkerade enligt Målbild Den tredje etappens förverkligande är beroende av hur vi i staden
-motet. I sådana fall behöver Marconimotet utformas för att kunna                  Koll2035.
+
+standard än den gulmarkerade enligt Målbild
+Koll2035.
+\- Streckad lila: eventuell spårväg.
+\- Streckad röd: eventuell järnväg. Schematisk
+bild av järnvägsreservaten i den fördjupade
+översiktsplanen.
+\- Gul: spårväg med bedömd lägre standard än
+den heldragna lilamarkerade enligt Målbild
+
+Den tredje etappens förverkligande är beroende av hur vi i staden
 agerar i de olika vägvalen som presenterades i kapitel 2.2 (samt
-erbjuda en attraktiv bytesfunktion för kollektivtrafikresenärer                   - Streckad lila: eventuell spårväg.
-Kollektivtrafikering, när etapp 2 är färdigställd.
-\- Streckad röd: eventuell järnväg. Schematisk på nästa sida). Sträckan söder om Marconimotet kan förverkligas
-söderifrån, samt en effektiv vändningsmöjlighet för busstrafiken. I
-\- Lila: spårväg med bedömd högre standard än bild av järnvägsreservaten i den fördjupade med antingen en stadsbana, en järnväg (med tillhörande station)
-nuvarande utredningsskede bedöms dock detta vara mindre lämp-
-den gulmarkerade enligt Målbild Koll2035. översiktsplanen.     eller både en stadsbana och järnväg. Om stadens vägval möjlig-
-ligt och åtgärdsvalsstudien förordar därför att expressbusstrafiken - Gul: spårväg med bedömd lägre standard än - Gul: spårväg med bedömd lägre standard än
-trafikerar hela sträckan in till Marklandsplatsen. den lilamarkerade enligt Målbild Koll2035. den heldragna lilamarkerade enligt Målbild gjort att etappen kan genomföras, sker den avslutande delen av
-\- Streckad blå: busslinjer i blandtrafik. Koll2035.            boulevardomvandlingen och eventuellt stadsbanans utbyggnad i
-Införandet av temporära busskörfält kan påverka biltrafikens - Heldragen blå: busslinjer i busskörfält. - Streckad blå: busslinjer i blandtrafik. denna etapp, på sträckan mellan Marconimotet och Radiomotet/
+på nästa sida). Sträckan söder om Marconimotet kan förverkligas
+med antingen en stadsbana, en järnväg (med tillhörande station)
+eller både en stadsbana och järnväg. Om stadens vägval möjlig-
+gjort att etappen kan genomföras, sker den avslutande delen av
+
+Koll2035.              boulevardomvandlingen och eventuellt stadsbanans utbyggnad i
+\- Streckad blå: busslinjer i blandtrafik.
+denna etapp, på sträckan mellan Marconimotet och Radiomotet/
 \- Heldragen blå: busslinjer i busskörfält.
-framkomlighet under byggtiden. För att säkerställa utrymme för                                     •      Järnbrottsmotet.
-busstrafiken kan en omläggning av biltrafiken till parallella stråk
+Järnbrottsmotet.
+•
 Beroende på vilken målsättning som staden och övriga involverade
-bli aktuell - under vissa perioder på vissa delsträckor. Söder om                                  .
-.    aktörer tar fram för detta område, kan innehållet i denna etapp se
-Marklandsplatsen finns det parallella stråk på både västra och                                     . . 3111
+.
+.   aktörer tar fram för detta område, kan innehållet i denna etapp se
+. . 3111
 väldigt olika ut - särskilt när det gäller den omkringliggande stads-
-östra sidan, som kan ha potential att användas under byggtiden på                                  .
-.  :      utvecklingen och huruvida staden börjar förbereda för en eventuell
-sträckor där omläggning inte ryms inom Dag Hammarskjöldstråket.
-:      järnväg med tillhörande station(er). Stadsutvecklingen kan ske mot
-Lokalgatorna på östra sidan bör vara mer lämpliga än de på västra                                  :
+.
+.  :     utvecklingen och huruvida staden börjar förbereda för en eventuell
+:     järnväg med tillhörande station(er). Stadsutvecklingen kan ske mot
 \:
-..     i huvudsak någon av följande inriktningar:
-sidan, givet gatornas omgivande markanvändning idag.
+\:
+..    i huvudsak någon av följande inriktningar:
 \:
 1\. .\~     • ett högt eller mycket högt bostadsinnehåll
-Även efter att boulevardomvandlingen och stadsbanan är färdig-
 I I
-ställda norr om Marconimotet, finns det fortfarande ett behov                                 := " = i ; : • ett fortsatt högt verksamhetsinnehåll, men i riktning mot fler
-för expressbussar att trafikera sträckan mellan Marconimotet och                                             yteffektiva verksamheter
-=  . . :
-Marklandsplatsen - med den framkomlighet som boulevarden
+• ett fortsatt högt verksamhetsinnehåll, men i riktning mot fler
+:= " = i ; :
+yteffektiva verksamheter
+= . . :
+
 .➔
-möjliggör. Detta på grund av att stadsbanan inte är utbyggd på                                , •ila•.,•• . \~ ...• • 1 Till exempel reducera antalet körfält med hjälp av vägmålning eller temporära
-hela sträckan ned till Radiomotet/Järnbrott. En trafikering på detta
+.
+, •ila•.,•• \~ ...• • 1 Till exempel reducera antalet körfält med hjälp av vägmålning eller temporära
 planteringar.
-110                                                                                                                                                           111
+
+111
 
 <!-- sida 181 -->
 
-• ett fortsatt högt verksamhetsinnehåll, men i riktning mot                                              Om en järnvägsstation kommer att anläggas i området bör den lig-
-verksamheter av regional karaktär (till exempel hälso- och                                             ga i centrum för en eventuell tyngdpunkt. Markanvändningen runt
-sjukvårdsinrättningar, högre utbildningsverksamhet, sport-/                                            stationen behöver avvägas noga. Detta för att maximera stationens
-fritids-/eventanläggningar)                                                                            roll som lokaliseringsfaktor för verksamheter som vill etablera
-sig i en storstadsregion, med närhet till mycket god regional och
+• ett fortsatt högt verksamhetsinnehåll, men i riktning mot
+verksamheter av regional karaktär (till exempel hälso- och
+sjukvårdsinrättningar, högre utbildningsverksamhet, sport-/
+fritids-/eventanläggningar)
 Med inriktning mot fortsatt högt verksamhetsinnehåll skulle östra
-kommunal tillgänglighet.
+
 Högsbo kunna utvecklas till en mål-/tyngdpunkt i staden och
 eventuell regionen.
+
+Vägval nr 1:                    Vägval nr 2:
+Bejaka pågående             Utifrån att vi ska planera för tåg -
+planering eller         går tåget via Frölunda eller Järnbrott och
+bejaka Målbild                vilken effekt får det för
+Kol2035?                      stadsutvecklingen?
+
+Nutid
+”MAXIMALT MED SPÅR I FRÖLUNDA”
+• Frölunda får både stadsbana och tåg
+• All pågående planering i Frölunda kan fortsätta
+• Tågstationen landar mitt i ett bostadsområde
+Om tåget går
+• (I detta scenario bör en av Frölundabanans spårvägslinjer
+via Frölunda
+ledas om till Radiomotet/Järnbrott, så att Dag Hammar-
+”MED VAGNEN TILL          skjöldstaden söder om A Odhners gata kan utvecklas med
+FRÖLUNDA”               stadsbanan som grund)
+Om tåget går
+via Järnbrott
+”NÄSTA UPPEHÅLL, JÄRNBROTT!”
+• All pågående planering i Frölunda kan fortsätta
+• Stadsbanan viker av västerut i Marconimotet
+• När tåget är på plats kan Dag Hammarskjöldstaden söder
+om A Odhners gata utvecklas till en regional knutpunkt,
+med regionala centrumfunktioner och verksamheter
+”NÄSTA UPPEHÅLL, FRÖLUNDA!”
+• Stadsbana till Radiomotet/Järnbrott
+Om tåget går • Dag Hammarskjöldstaden söder om A Odhners gata kan
+via Frölunda utvecklas till kommunal knutpunkt
+• En del av all pågående planering samt all tillkommande
+”MED STADSBANA
+planering i Frölunda/Tynnered måste bromsas tills tåget
+TILL JÄRNBROTT”
+är på plats
+Om tåget går
+• När tåget är på plats kan den maximala planeringen för
+via Järnbrott
+både Frölunda och Dag Hammarskjöldstaden realiseras
+”PÅ RÄLS MED MÅLBILD KOLL2035”
+• Stadsbanan kan nedgraderas och få mer lokal roll
+• När tåget är på plats kan Dag Hammarskjöldstaden söder
+om A Odhners gata utvecklas till både en kommunal och
+regional knutpunkt
+• En del av all pågående planering samt all tillkommande
+planering i Frölunda/Tynnered måste bromsas permanent
+112
+
+Om en järnvägsstation kommer att anläggas i området bör den lig-
+ga i centrum för en eventuell tyngdpunkt. Markanvändningen runt
+stationen behöver avvägas noga. Detta för att maximera stationens
+roll som lokaliseringsfaktor för verksamheter som vill etablera
+sig i en storstadsregion, med närhet till mycket god regional och
+kommunal tillgänglighet.
+
 Utbyggnadsordning
 ”Nollalternativet”
 
 Som tidigare nämnts innebär ”Nollalternativet” att den fördjupade
-Vägval nr 1:                    Vägval nr 2:
 översiktsplanen för Högsbo-Frölunda inte antas. Istället fortsätter
-Bejaka pågående             Utifrån att vi ska planera för tåg -
 den fördjupade översiktsplanen för Fässbergsdalen att gälla
-planering eller         går tåget via Frölunda eller Järnbrott och
 tillsammans med planprogram i området. Nollalternativet innebär
-bejaka Målbild                vilken effekt får det för
 således att boulevarden inte genomförs. Det innebär också att
-Kol2035?                     stadsutvecklingen?
 stadsbanan mellan Marklandsplatsen och Radiomotet/Järnbrott
 Tids-
 inte byggs ut.
 linje
-Nutid
-”MAXIMALT MED SPÅR I FRÖLUNDA”                                                    I den första etappen för ”Nollalternativet” kan pågående planering
-• Frölunda får både stadsbana och tåg                                           färdigställas på den västra sidan om Dag Hammarskjöldsleden, i
-• All pågående planering i Frölunda kan fortsätta                               bland annat Frölunda, Kaverös och Högsbo.
-• Tågstationen landar mitt i ett bostadsområde
-Om tåget går                                                                                I efterföljande etapper färdigställs pågående och påbörjad bo-
-• (I detta scenario bör en av Frölundabanans spårvägslinjer
-via Frölunda                                                                                stadsförtätning i östra Högsbo, både norr och söder om A Odhners
-ledas om till Radiomotet/Järnbrott, så att Dag Hammar-
+I den första etappen för ”Nollalternativet” kan pågående planering
+färdigställas på den västra sidan om Dag Hammarskjöldsleden, i
+bland annat Frölunda, Kaverös och Högsbo.
+I efterföljande etapper färdigställs pågående och påbörjad bo-
+stadsförtätning i östra Högsbo, både norr och söder om A Odhners
 gata. Den påbörjade förtätningen söder om A Odhners gata tar
-”MED VAGNEN TILL          skjöldstaden söder om A Odhners gata kan utvecklas med
 inte höjd för en framtida järnvägsstation i området, som sannolikt
-FRÖLUNDA”               stadsbanan som grund)
 inte heller blir verklighet då staden väljer att inte aktivt planera för
-Om tåget går                                                                                det. Invånarna i dessa bostadsöar i Högsbos verksamhetsområde
-via Järnbrott ”NÄSTA UPPEHÅLL, JÄRNBROTT!”                                                  kommer troligen att använda bil i stor utsträckning. Detta då
-• All pågående planering i Frölunda kan fortsätta                               Dag Hammarskjöldsledens utformning som trafikled kommer att
-• Stadsbanan viker av västerut i Marconimotet                                   kvarstå och kollektivtrafiken utgörs av befintlig busstrafik, vars
-• När tåget är på plats kan Dag Hammarskjöldstaden söder                        kapacitetsutrymme är mycket begränsat.
-om A Odhners gata utvecklas till en regional knutpunkt,
-med regionala centrumfunktioner och verksamheter
-Kostnader   och intäkter
-”NÄSTA UPPEHÅLL, FRÖLUNDA!”                                                       Kostnader
-• Stadsbana till Radiomotet/Järnbrott
-Om tåget går • Dag Hammarskjöldstaden söder om A Odhners gata kan                           Ett genomförande av boulevarden och stadsutvecklingen enligt
-via Frölunda utvecklas till kommunal knutpunkt                                              förslaget i studien kommer att få omfattande ekonomisk påverkan
+det. Invånarna i dessa bostadsöar i Högsbos verksamhetsområde
+kommer troligen att använda bil i stor utsträckning. Detta då
+Dag Hammarskjöldsledens utformning som trafikled kommer att
+kvarstå och kollektivtrafiken utgörs av befintlig busstrafik, vars
+kapacitetsutrymme är mycket begränsat.
+
+Kostnader   och  intäkter
+
+Kostnader
+
+Ett genomförande av boulevarden och stadsutvecklingen enligt
+förslaget i studien kommer att få omfattande ekonomisk påverkan
 för Göteborgs Stad, både gällande kostnader och intäkter. Det
-• En del av all pågående planering samt all tillkommande
-”MED STADSBANA                                                                                           kommer också att krävas medfinansiering från andra offentliga ak-
-planering i Frölunda/Tynnered måste bromsas tills tåget
-TILL JÄRNBROTT”                                                                                          törer. Ett genomförande kommer att innebära kostnader för allmän
-är på plats
-Om tåget går                                                                                plats och framförallt infrastruktur. Det kommer också att krävas att
-• När tåget är på plats kan den maximala planeringen för
-via Järnbrott                                                                               Västtrafik bekostar tillkommande kollektivtrafikering med spårväg
-både Frölunda och Dag Hammarskjöldstaden realiseras
+kommer också att krävas medfinansiering från andra offentliga ak-
+törer. Ett genomförande kommer att innebära kostnader för allmän
+plats och framförallt infrastruktur. Det kommer också att krävas att
+Västtrafik bekostar tillkommande kollektivtrafikering med spårväg
 och buss. Dessutom kommer det att krävas investeringar utanför
 området, för att möjliggöra den förändring i biltrafiksystemet som
-”PÅ RÄLS MED MÅLBILD KOLL2035”                                                    boulevarden medför. Det handlar om investeringar för att få fler
-• Stadsbanan kan nedgraderas och få mer lokal roll                              att åka med kollektivtrafik, till exempel från södra Göteborg och
-• När tåget är på plats kan Dag Hammarskjöldstaden söder                        Kungsbacka, vilket innebär investeringar av Trafikverket och Västra
-om A Odhners gata utvecklas till både en kommunal och                          Götalandsregionen. Kostnader för detta är delvis uppskattade i
-regional knutpunkt                                                             Målbild Koll 2035.
-• En del av all pågående planering samt all tillkommande
+boulevarden medför. Det handlar om investeringar för att få fler
+att åka med kollektivtrafik, till exempel från södra Göteborg och
+Kungsbacka, vilket innebär investeringar av Trafikverket och Västra
+Götalandsregionen. Kostnader för detta är delvis uppskattade i
+Målbild Koll 2035.
+
 Kostnadsbedömningen för en boulevard inklusive spårväg är
-planering i Frölunda/Tynnered måste bromsas permanent
 2500 miljoner kronor, i 2020 års prisnivå. Anläggningskostnaden
-112                                                                                                                                                           113
+
+113
 
 <!-- sida 182 -->
 
-för spårväg är uppskattat till cirka 890 miljoner kronor. I denna                                         Gemensamma lösningar behöver redan i tidiga skeden konkre-
-0 0,5 1 1,5 2km
-kostnadsbedömning ingår inte rivning av trafikplatser etcetera                                            tiseras till en nivå som visar att de är genomförbara längre fram.
-som krävs för att kunna bygga spårvägen. Dessa kostnader ingår i                                          Avsiktsförklaringar eller avtal gällande mobilitet och parkering kan
-totalsumman 2500 miljoner kronor.                                                                         skrivas i detaljplaneskedet för att garantera aktörernas åtaganden
-och ambitionsnivå. Det är helt avgörande att det finns medel av-
+för spårväg är uppskattat till cirka 890 miljoner kronor. I denna
+kostnadsbedömning ingår inte rivning av trafikplatser etcetera
+som krävs för att kunna bygga spårvägen. Dessa kostnader ingår i
+totalsumman 2500 miljoner kronor.
+
 Utöver denna kostnadsbedömning har en riskreserv uppskattats
-satta för att arbeta med mobilitet och parkering på detta sätt samt
 och lagts till ovanstående kostnad. Riskreserven avser främst att
-att strategin blir tydlig och kommuniceras från tidigt skede, genom
 ta höjd för förändringar av förslaget och framförallt vad som anses
-detaljplan och framförallt i bygglovsskedet.
 ingå i objektet. Riskreserven har bedömts till 1000 miljoner kronor.
 Sammantaget innebär det en kostnadsbedömning inklusive
-riskreserv på 2500-3500 miljoner kronor.                                                                  Miljöfrågor
-Stråk för byggtransporter Miljöfrågor kommer att bli en viktig aspekt av ett så omfattande
+riskreserv på 2500-3500 miljoner kronor.
+
 Intäkter
-Första etapp
-Senare omvandling    projekt som boulevardomvandlingen kan bli. Lägger man till
-Marken som frigörs vid en boulevardomvandling är till stora delar                 Vilka stråk som används för byggtransporter omkringliggande stadsutveckling där många nya bostäder ska
-kommunal mark och vid en försäljning kommer den ge intäkter                       beror på massornas start- och målpunkt. Trans- etableras, blir miljöaspekterna än viktigare.
-porter via A Odhners gata bör vara aktuellt
+
+Marken som frigörs vid en boulevardomvandling är till stora delar
+kommunal mark och vid en försäljning kommer den ge intäkter
 till staden. På kommunal mark inom Dag Hammarskjöldsstaden
-för ombyggnad kring Marconigatan/Marconi-
-bedöms cirka 2000 – 5000 bostäder som en trolig exploatering.                     motet, men också för delar av boulevardens
-Byggtransporter och masshantering
-Fastighetskontoret redovisar dessa intäkter och kostnader i den                   sträckning norr och söder om denna punkt.
-Byggtransporter via Högsboleden kan istället
-genomförandeplan som de tagit fram parallellt med denna studie                                            Baserat på uppgifter från jordartskartan finns det begränsade
-bli aktuellt från omvandlingen längre norrut,
-och den fördjupade översiktsplanen.                                               både kring Marklandsplatsen och Margre- mängder berg inom omvandlingsområdet. Detta innebär sannolikt
-tebergsmotet. Dessa innebär dock en större att betydande massor för vägbyggande måste föras in i området.
-påverkan på befintlig bebyggelse.
-Delar av underbyggnaden från befintlig väg, inklusive bankar vid
+bedöms cirka 2000 – 5000 bostäder som en trolig exploatering.
+Fastighetskontoret redovisar dessa intäkter och kostnader i den
+genomförandeplan som de tagit fram parallellt med denna studie
+och den fördjupade översiktsplanen.
+
 Kostnader ”Nollalternativet”
-av- och påfarter, bör kunna användas i ny vägbyggnad.
+
 I syfte att också bedöma kostnader som är kopplade till ”Nolla-
-lternativet” har en enkel kostnadsbedömning genomförts. Den                                               Genom att samplanera hela/delar av boulevardomvandlingen med
-omfattar endast en bedömning av de kostnader som krävs för att                                            andra större infrastrukturprojekt i omgivningen, finns eventuellt en
-nyinvestera i brokonstruktioner, som motsvarar de befintliga efter                                        möjlighet att finna gemensamma lösningar för masshanteringen.
-att deras tekniska livslängd uppnåtts.                                                                    Detta skulle i sin tur kunna reducera projektets negativa miljöpå-
-verkan från omfattande byggtransporter. Lindholmsförbindelsen
-På sträckan mellan Linnéplatsen och Järnbrottsmotet finns det                                             är ett av de större projekt i omgivningen som skulle kunna vara
-sammanlagt ett tiotal brokonstruktioner som kan behöva ersättas                                           aktuellt för viss samplanering.
+lternativet” har en enkel kostnadsbedömning genomförts. Den
+omfattar endast en bedömning av de kostnader som krävs för att
+nyinvestera i brokonstruktioner, som motsvarar de befintliga efter
+att deras tekniska livslängd uppnåtts.
+På sträckan mellan Linnéplatsen och Järnbrottsmotet finns det
+sammanlagt ett tiotal brokonstruktioner som kan behöva ersättas
 från år 2040. Att nyinvestera i konstruktioner som motsvarar dessa
-innebär en kostnad på cirka 900 miljoner kronor. Underhållskostna-                                        En del schaktmassor bör kunna läggas på hög inom området och
-den för dessa broar, från idag fram till dess tekniska livslängds slut,                                   användas som ytskikt i senare omvandling om lämpliga ytor finns,
-kan uppskattas till cirka 5 miljoner kronor per år.                                                       men andra massor kommer också att behöva transporteras ut från
-området. Betong från rivning av broar kan också behöva transpor-
-teras ut från området.
-Genomförandet     av  parkerings-  och
-I nuläget förväntas behovet av byggtransporter till och från områ-
+innebär en kostnad på cirka 900 miljoner kronor. Underhållskostna-
+
+den för dessa broar, från idag fram till dess tekniska livslängds slut,
+kan uppskattas till cirka 5 miljoner kronor per år.
+
+Genomförandet      av parkerings-   och
+
 mobilitetsfrågor
-det i samband med rivning och ombyggnad bli omfattande. För att
-hantera dessa transporter finns det viktiga stråk i omgivningen som
+
 Strategier för mobilitet och parkering bör utarbetas i ett så tidigt
-kan avlasta Dag Hammarskjöldstråket. Avlastningen och dirigering
 skede som möjligt. Genom en strategisk inriktning kan parkerings-
-av byggtransporter till dessa stråk kan behövas för att bland annat
 tal och mobilitetslösningar utformas för att vara ett stöd och bidra
-säkerställa framkomligheten för en effektiv kollektivtrafik genom
 till att framtida mål för färmedelseandelar och resealstring uppfylls.
-stråket under byggtid.
 Det kan också användas för att ställa krav i kommande markanvis-
 ningar, för att skapa tydlighet gentemot fastighetsägare.
-Förorenade massor
+
 Ju tidigare frågor kring mobilitet och parkering hanteras i det
-Undersökningar kring vilka material som kan återvinnas och
 fortsatta arbetet, desto större är möjligheterna att samverka kring
-återbrukas inom området bör göras som en del i en mer detaljerad
 gemensamma lösningar som till exempel samlade parkeringsan-
-genomförandeplanering i kommande skeden. Då kan det också bli
 läggningar/mobilitetshubbar. Samverkan kan både ske mellan
-aktuellt att ta prov av material och markförhållanden. Mer att läsa
 olika fastighetsägare och aktörer inom en detaljplan, men med
-om detta finns i fastighetskontorets genomförandeplan för Dag
 fördel även över plangränserna. Detta för att uppnå störst positiva
-Hammarskjöldstaden.
 effekter på markanvändning och mobilitet.
-114                                                                                                                                                           115
+
+114
+
+0 0,5 1 1,5 2km
+
+Stråk för byggtransporter
+Första etapp
+Senare omvandling
+Vilka stråk som används för byggtransporter
+beror på massornas start- och målpunkt. Trans-
+porter via A Odhners gata bör vara aktuellt
+för ombyggnad kring Marconigatan/Marconi-
+motet, men också för delar av boulevardens
+sträckning norr och söder om denna punkt.
+Byggtransporter via Högsboleden kan istället
+bli aktuellt från omvandlingen längre norrut,
+både kring Marklandsplatsen och Margre-
+tebergsmotet. Dessa innebär dock en större
+påverkan på befintlig bebyggelse.
+
+Gemensamma lösningar behöver redan i tidiga skeden konkre-
+tiseras till en nivå som visar att de är genomförbara längre fram.
+Avsiktsförklaringar eller avtal gällande mobilitet och parkering kan
+skrivas i detaljplaneskedet för att garantera aktörernas åtaganden
+och ambitionsnivå. Det är helt avgörande att det finns medel av-
+satta för att arbeta med mobilitet och parkering på detta sätt samt
+att strategin blir tydlig och kommuniceras från tidigt skede, genom
+detaljplan och framförallt i bygglovsskedet.
+
+Miljöfrågor
+
+Miljöfrågor kommer att bli en viktig aspekt av ett så omfattande
+projekt som boulevardomvandlingen kan bli. Lägger man till
+omkringliggande stadsutveckling där många nya bostäder ska
+etableras, blir miljöaspekterna än viktigare.
+
+Byggtransporter och masshantering
+
+Baserat på uppgifter från jordartskartan finns det begränsade
+mängder berg inom omvandlingsområdet. Detta innebär sannolikt
+att betydande massor för vägbyggande måste föras in i området.
+Delar av underbyggnaden från befintlig väg, inklusive bankar vid
+av- och påfarter, bör kunna användas i ny vägbyggnad.
+
+Genom att samplanera hela/delar av boulevardomvandlingen med
+andra större infrastrukturprojekt i omgivningen, finns eventuellt en
+möjlighet att finna gemensamma lösningar för masshanteringen.
+Detta skulle i sin tur kunna reducera projektets negativa miljöpå-
+verkan från omfattande byggtransporter. Lindholmsförbindelsen
+är ett av de större projekt i omgivningen som skulle kunna vara
+aktuellt för viss samplanering.
+En del schaktmassor bör kunna läggas på hög inom området och
+användas som ytskikt i senare omvandling om lämpliga ytor finns,
+men andra massor kommer också att behöva transporteras ut från
+området. Betong från rivning av broar kan också behöva transpor-
+teras ut från området.
+
+I nuläget förväntas behovet av byggtransporter till och från områ-
+det i samband med rivning och ombyggnad bli omfattande. För att
+hantera dessa transporter finns det viktiga stråk i omgivningen som
+kan avlasta Dag Hammarskjöldstråket. Avlastningen och dirigering
+av byggtransporter till dessa stråk kan behövas för att bland annat
+säkerställa framkomligheten för en effektiv kollektivtrafik genom
+stråket under byggtid.
+
+Förorenade massor
+
+Undersökningar kring vilka material som kan återvinnas och
+återbrukas inom området bör göras som en del i en mer detaljerad
+genomförandeplanering i kommande skeden. Då kan det också bli
+aktuellt att ta prov av material och markförhållanden. Mer att läsa
+om detta finns i fastighetskontorets genomförandeplan för Dag
+Hammarskjöldstaden.
+
+115
 
 <!-- sida 183 -->
 
@@ -10604,247 +11834,368 @@ Fotograf: Lo Birgersson
 
 <!-- sida 184 -->
 
-I det här kapitlet presenteras de största riskerna                                                        Om  bebyggelseutvecklingen       och
+I det här kapitlet presenteras de största riskerna
+som identifierats under projektets gång, samt hur
 
-som identifierats under projektets gång, samt hur                                                         utbyggnaden     av kollektivtrafiken
-det fortsatta arbetet med boulevardomvandlingen                                                           inte går i takt
-
+det fortsatta arbetet med boulevardomvandlingen
 kan hantera dessa.
+
+Om   stadsomvandlingen      inte
+
+förbereder   för en eventuell
+järnvägsstation
+
+Som tidigare nämnts står staden inför flera stora vägval gällande
+förverkligandet av Dag Hammarskjöldstaden. Valet om huruvida
+en järnväg med tillhörande station(er) är ett önskvärt inslag eller
+inte, blir avgörande för om järnvägen kommer att ha möjlighet att
+förverkligas eller ej.
+
+Staden äger inte rådigheten för den regionala järnvägsplanering-
+en; det gör Västra Götalandsregionen. Det finns därför en risk att
+järnvägen inte blir av även om staden landar i att den är önskvärd.
+
+I nuläget råder mycket stor osäkerhet om var det är tekniskt möjligt
+att dra en järnväg inom den fördjupade översiktsplanens område.
+Att utreda olika möjliga korridorer är ett omfattande arbete som
+kommer att ta flera år. Om staden landar i slutsatsen att en järnväg
+är önskvärd, krävs att man driver en aktiv markanvändningsplane-
+ring som förbereder för och maximerar potentialen för en järnväg
+med tillhörande station(er) under tiden den utreds. Med det menas
+en planering för en/flera järnvägsstation(er), där stora ytor runt
+potentiella station(er) förhåller sig till att kanske komma att bli i
+den direkta närheten av en regional knutpunkt.
+
+Om staden inte driver en aktiv markanvändningsplanering för
+järnvägen tills dess att den är fullt utredd, uppstår två huvudsakliga
+risker:
+• utan en/flera järnvägsstation(er) försvinner möjligheten att
+realisera den fördjupade översiktsplanens maximala stads-
+utvecklingspotential. Detta på grund av spårvägssystemets
+begränsningar.
+
+• om man i nuläget väljer att gå vidare med annan planering,
+som i framtiden omöjliggör en/flera station(er) på strategiska
+platser, minskar värdet av hela järnvägslinjen. Det ökar i sin
+tur sannolikheten för att man inte går vidare med planeringen
+av det nya järnvägsstråket. Det finns således en övergripande
+risk för att värdereducerande planering för en etablering av
+en järnvägslinje, påverkar hela beslutet att faktiskt etablera
+den eller inte. Järnvägssystemet har potentialen att kunna bli
+lösningen för ett planskilt kollektivtrafiksystem i hela stor-
+stadsområdet för Göteborg. Besluten som fattas för järnvägen
+i sydvästra Göteborg påverkar därför hela staden i förläng-
+ningen. Nyttan av de enskilda ingående delarna i järnvägssys-
+temet är beroende av de andra ingående delarna för sitt eget
+bidrag till helheten.
+
+118
+
+Om   bebyggelseutvecklingen       och
+
+utbyggnaden     av  kollektivtrafiken
+inte går  i takt
+
 För ett genomförande av Dag Hammarskjöldstaden är det nödvän-
 digt att bebyggelseutvecklingen och utbyggnaden av stadsbanan
 i Dag Hammarskjöldstaden går i takt. Det finns dock en tydlig risk
-Om  stadsomvandlingen      inte                                                                           att viss bebyggelseutveckling kommer att gå före utbyggnaden
+att viss bebyggelseutveckling kommer att gå före utbyggnaden
 av kollektivtrafiken. Det övergripande problemet med en sådan
-förbereder  för en eventuell
 utveckling är att det inte kommer finnas ett tillräckligt reseutbud
-järnvägsstation                                                                                           som möter resbehovet och stadens målsättningar om ett hållbart
+som möter resbehovet och stadens målsättningar om ett hållbart
 resande. Utan stadsbanan kommer de nya invånarna inte att ha ett
-Som tidigare nämnts står staden inför flera stora vägval gällande                                         attraktivt kollektivtrafikalternativ att nyttja vid inflytt. I ett sådant
-förverkligandet av Dag Hammarskjöldstaden. Valet om huruvida                                              scenario hinner invånarna sannolikt etablera och cementera
-en järnväg med tillhörande station(er) är ett önskvärt inslag eller                                       resvanor som baseras på bilresor. I förlängningen påverkar det det
-inte, blir avgörande för om järnvägen kommer att ha möjlighet att                                         övergripande trafiksystemet genom förvärrade köproblem och
+attraktivt kollektivtrafikalternativ att nyttja vid inflytt. I ett sådant
+scenario hinner invånarna sannolikt etablera och cementera
+resvanor som baseras på bilresor. I förlängningen påverkar det det
+övergripande trafiksystemet genom förvärrade köproblem och
 '\\
-förverkligas eller ej.                                                                                    trängsel.
-Staden äger inte rådigheten för den regionala järnvägsplanering-                                          Flytt till ny bostad är ett av få tillfällen då det är som lättast för
-en; det gör Västra Götalandsregionen. Det finns därför en risk att ''' \_ \_., . , ,i . \_i . . ... . . \_i • ! . • människor att förändra sina resvanor i en mer hållbar riktning. Att
+trängsel.
+Flytt till ny bostad är ett av få tillfällen då det är som lättast för
+''' \_ \_., . , ,i . \_i . . ... . . \_i • ! . •   människor att förändra sina resvanor i en mer hållbar riktning. Att
 .
-järnvägen inte blir av även om staden landar i att den är önskvärd. .                                     förändra dem i efterhand är betydligt svårare. Staden behöver
+.                                           förändra dem i efterhand är betydligt svårare. Staden behöver
 ..
 därför utnyttja tillfällena i den omfattande inflyttningen till Dag
 11 • lf • ..,
-I nuläget råder mycket stor osäkerhet om var det är tekniskt möjligt ■ \~ • - -!I : I ' li • . .. .. • .. . ■ Hammarskjöldstaden till fullo, för att etablera hållbara resvanor för
-att dra en järnväg inom den fördjupade översiktsplanens område.
+• I' .. .
+■ \~ - -!I : li • ... • .. ■                    Hammarskjöldstaden till fullo, för att etablera hållbara resvanor för
 så många invånare som möjligt.
-Att utreda olika möjliga korridorer är ett omfattande arbete som
-kommer att ta flera år. Om staden landar i slutsatsen att en järnväg                                      Om bebyggelseutvecklingen föregår stadsbanan kommer staden
-är önskvärd, krävs att man driver en aktiv markanvändningsplane- .                                        också att förlora möjligheten att erhålla exploateringsbidrag för
+Om bebyggelseutvecklingen föregår stadsbanan kommer staden
+.                                           också att förlora möjligheten att erhålla exploateringsbidrag för
 .
-ring som förbereder för och maximerar potentialen för en järnväg .. . .. . .                              stadsbanan. Dessa hade kunnat bli ett mycket viktigt tillskott till
+.. . .. . .                                  stadsbanan. Dessa hade kunnat bli ett mycket viktigt tillskott till
 .
-med tillhörande station(er) under tiden den utreds. Med det menas                                         finansieringen av hela Dag Hammarskjöldstaden.
-en planering för en/flera järnvägsstation(er), där stora ytor runt
+finansieringen av hela Dag Hammarskjöldstaden.
 Om utbyggnaden av stadsbanan istället skulle föregå bebyggel-
-potentiella station(er) förhåller sig till att kanske komma att bli i . .
-. . .                                         seutvecklingen, och byggas ut i ett svep på hela sträckan, skulle
-den direkta närheten av en regional knutpunkt.             .  . .
-.                                             sannolikt möjligheten till exploateringsbidrag också gå förlorad.
-O j r ä is m r k n e v s r ä t : a g d e e n n t i i l n ls t e d e d s r s iv a e t r t e d n e a n k ä t r iv f u m ll a t r u k t a r n ed vä d n , u d p n p in s g tå sp r t la v n å e h r u in v g u d fö s r a kliga .. . .. . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . D m st e o e t r d t a a i u d d t å e g t i u f t t t e e b m r y l g p å g n o n g t. a t E d f n ö s t r s e a å k d in t a e k n n o s m fö ta s r d t b e s o r b n s a t a n ä f d e rå i e n n r v i s e n a s t t t e s e n s r k i i n n u g g ll e e s n k k u . u l n le n i a n n h e ä b n ä g r a a
+. .
+. . .                                        seutvecklingen, och byggas ut i ett svep på hela sträckan, skulle
+.
+.  .
+.                                            sannolikt möjligheten till exploateringsbidrag också gå förlorad.
+.. . .. . . . .. . . . . . . . . . .. . . . . . . . . . . . . . . . D m st e o e t r d t a a i u d d t å e g t i u f t t t e e b m r y l g p å g n o n g t. a t E d f n ö s t r s e a å k d in t a e k n n o s m fö ta s r d t b e s o r b n s a t a n ä f d e rå i e n n r v i s e n a s t t t e s e n s r k i i n n u g g ll e e s n k k u . u l n le n i a n n h e ä b n ä g r a a
 . . . .
 . ,. . -•
-• utan en/flera järnvägsstation(er) försvinner möjligheten att
-realisera den fördjupade översiktsplanens maximala stads-                                              Om  spårvägslänken     i Marconigatan
-utvecklingspotential. Detta på grund av spårvägssystemets
-inte kan genomföras    alls eller
-begränsningar.
-behöver   gå i blandtrafik
-• om man i nuläget väljer att gå vidare med annan planering,
-som i framtiden omöjliggör en/flera station(er) på strategiska
+Om   spårvägslänken    i Marconigatan
+inte kan  genomföras    alls eller
+behöver   gå  i blandtrafik
 Om lösningen med spårvägslänken i Marconigatan inte visar sig
-platser, minskar värdet av hela järnvägslinjen. Det ökar i sin
 vara möjlig, innebär det ett stort problem för kollektivtrafikförsörj-
-tur sannolikheten för att man inte går vidare med planeringen
 ningen av Dag Hammarskjöldsstaden. Det kommer då inte vara
-av det nya järnvägsstråket. Det finns således en övergripande
 möjligt att trafikera delen Marklandsplatsen-Marconimotet med
-risk för att värdereducerande planering för en etablering av
-. .                                         de två spårvägslinjer som krävs för en utbyggnad av Dag Hammar-
-en järnvägslinje, påverkar hela beslutet att faktiskt etablera . .
+. .                                        de två spårvägslinjer som krävs för en utbyggnad av Dag Hammar-
+. .
 skjöldsstaden norr om A Odhners gata.
-den eller inte. Järnvägssystemet har potentialen att kunna bli
-lösningen för ett planskilt kollektivtrafiksystem i hela stor-                                         Vägtrafikflödet längs Marconigatan väntas vara stort även i framti-
-stadsområdet för Göteborg. Besluten som fattas för järnvägen . .                                       den, vilket gör att spårvägen behöver gå på egen banvall fram till
-i n s in yd g v e ä n s . t N ra y t G ta ö n te a b v o d rg e p en åv s e ki r l k d a a r i d n ä g r å fö en r d he e l d a e s l t a a r d n e a n i i j ä fö rn rl v ä ä n g g s - sys- . . . .. . . . . • • .•. a i b n l s a lu n t d n t i r n a g fi e k n b m ör e u d n F d r v ö i l k u a n s d , d ab å a s n p a å n rv . ä E g n e l n ö s i n n i t n e g s k d u ä l r l e s p få å r t v il ä lr g ä e ck n l i g g å r
+Vägtrafikflödet längs Marconigatan väntas vara stort även i framti-
+.       .                                           den, vilket gör att spårvägen behöver gå på egen banvall fram till
+. . . .. . . . . • • .•.                              a i b n l s a lu n t d n t i r n a g fi e k n b m ör e u d n F d r v ö i l k u a n s d , d ab å a s n p a å n rv . ä E g n e l n ö s i n n i t n e g s k d u ä l r l e s p få å r t v il ä lr g ä e ck n l i g g å r
 •
-temet är beroende av de andra ingående delarna för sitt eget • • •                                     framkomlighet med en sådan lösning. Det skulle troligen ge myck-
-bidrag till helheten.                                      •                                           et negativ påverkan på restiden med spårvägen och därmed vara
+• •
+•                                          framkomlighet med en sådan lösning. Det skulle troligen ge myck-
+•                                          et negativ påverkan på restiden med spårvägen och därmed vara
 Fotograf: Isabelle Andersson
-118                                                                                                                                                           119
+119
 
 <!-- sida 185 -->
 
-negativ för kollektivtrafikens attraktivitet. Pågående och framtida                                       digt att boulevarden till viss del anpassas till att expressbussfunk-
-förtätningsplaner utmed denna sträcka av Marconigatan behöver                                             tionen finns kvar i detta fall. Detta kan exempelvis ske genom att
-därför förhålla sig till spårvägen behöver gå i eget utrymme.                                             antalet öst-västliga passagemöjligheter minskas och/eller att man
-bör pröva möjligheten till att ge prioritet för busstrafiken i trafik-
-signalerna. Även kantstensparkeringen längs boulevarden kan
-Om  metrobusskonceptet       inte
-behöva utgå, vilket innebär att behoven av angöring för besökare
-genomförs                                                                                                 och leveranser till verksamheter längs boulevarden, ökar på de
-parallella stråken. Biltrafikflödena på de parallella nord-sydliga
-Planeringen av kollektivtrafiksystemet enligt Målbild Koll2035                                            gatorna till boulevarden kan också komma att öka, då expressbuss-
-innebär att man etablerar metrobuss på det statliga vägnätet, med                                         trafiken försvårar för lokalgatornas utformningsprincip enligt höger
-en flytt av dagens expressbusstrafik på Dag Hammarskjöldsleden                                            in-höger ut.
+negativ för kollektivtrafikens attraktivitet. Pågående och framtida
+förtätningsplaner utmed denna sträcka av Marconigatan behöver
+därför förhålla sig till spårvägen behöver gå i eget utrymme.
+
+Om   metrobusskonceptet      inte
+genomförs
+
+Planeringen av kollektivtrafiksystemet enligt Målbild Koll2035
+innebär att man etablerar metrobuss på det statliga vägnätet, med
+en flytt av dagens expressbusstrafik på Dag Hammarskjöldsleden
 till Söder-/Västerleden. Avsikten är att huvuddelen av resenärerna
-Sammantaget skulle detta alternativ innebära en lägre framkom-
 som idag reser längs Dag Hammarskjöldsleden från väg 158, ska
-lighet för bussarna, med lägre hastighetsgräns och korsningar med
 kunna nå sina målpunkter med metrobuss istället. Som tidigare
-övrig vägtrafik och oskyddade trafikanter. Men det skulle vara på
 nämnts kommer dock en del av resenärerna fortsatt att ha en
-en begränsad sträcka: från Järnbrott till Marklandsplatsen. Det vill
 målpunkt som nås enklast via Dag Hammarskjöldsstråket. Tanken
-säga inte hela vägen vidare till centrum, enligt den linjesträckning
 är att dessa ska byta från metrobuss till stadsbana i Järnbrott, enligt
-expressbussarna har idag via Övre Husargatan och Alléstråket.
-Fotograf: Rebecca Havedal
 Målbild Koll2035.
-Förutsättningarna för framtidens expressbusstrafikering kommer
+
 Ett metrobussystem på Söder-/Västerleden skulle ha stor påverkan
-dock troligen att förändras och medföra att det inte längre blir
 på resmönster och efterfrågan på kollektivtrafikresor i hela sydväs-
-rationellt att ha linjesträckningar för regional expressbusstrafik
 tra Göteborg. I nuläget finns dock en stor osäkerhet kring systemet,
-genom centrum. I planeringen för den framtida spårvägslänken
 både när det gäller genomförande och utformning. Men samtliga
-”Allélänken”, kommer exempelvis kapaciteten för vägtrafiken att
 scenarier utom ”Nollalternativet” bygger på att en annan trafikering
-anpassas till en lägre nivå än dagens utformning. Med det följer
 för dagens expressbussar är möjlig, likt metrobussystemet, så att
-att busstrafiken inte kommer att få eget utrymme eller sådan hög
 dessa inte behöver trafikera Dag Hammarskjölds boulevard när den
-framkomlighet med övrig vägtrafik, på det sätt som råder idag. Det
 är färdigställd.
-finns också planer på att etablera en spårväg i Övre Husargatan och
-En risk är att det kommer att saknas förutsättningar för omfattande                                       utnyttja dagens busskörfält.
+
+En risk är att det kommer att saknas förutsättningar för omfattande
 trafikering med metrobuss (eller motsvarande expressbusstrafik)
 på Söder-/Västerleden. Exempelvis krävs sannolikt en ökad kapaci-
-Om  metrobusskonceptet       inte blir
 tet genom Gnistängstunneln för att omfattande kollektivtrafik med
-buss ska vara möjlig på Västerleden. En sådan åtgärd är förknippad                                        tillräckligt attraktivt
+buss ska vara möjlig på Västerleden. En sådan åtgärd är förknippad
 med en hög investeringkostnad och det finns en risk att finansie-
-ringen till den inte finns tillgänglig.                                                                   I bedömningen av efterfrågan på resor med stadsbanan har denna
-studie förutsatt att metrobussen blir så attraktiv att alla1 potentiella
+ringen till den inte finns tillgänglig.
+
 Det vore för riskabelt att låta planeringen av boulevardomvand-
-resande väljer att resa med detta koncept för sin resa mot centrum
 lingen och tillhörande omfattande stadsutveckling vara helt
-och övriga delar av staden där metrobusskoncept ska trafikera.
 avhängig etableringen av metrobussfunktionen och en flytt av
-expressbussfunktionen till Söder-/Västerleden. Därför krävs alterna-                                      Om det av någon anledning blir så att metrobussalternativet inte
-tiv som kan möta denna risk.                                                                              kommer att uppnå den kvalitet som är tänkt, finns det en risk att
-fler (än vad denna studie bedömt) väljer att resa med stadsbanan
-från Järnbrott mot centrum. Det skulle innebära att beläggningen
+expressbussfunktionen till Söder-/Västerleden. Därför krävs alterna-
+tiv som kan möta denna risk.
+
 Hantering av risk
-på stadsbanan ökar. Därmed kan det bli svårt att upprätthålla
-Ett tänkbart alternativ är att låta express- eller metrobussar trafikera                                  den eftersträvade kvalitetsnivån på stadsbanan, med en belägg-
-boulevarden, från Järnbrott till Marklandsplatsen. Vid Marklands-                                         ningsgrad motsvarande en spårvagns komfortkapacitet. Om
-platsen skulle bussresenärerna kunna byta till flera olika spårvägs-                                      efterfrågan på resor med stadsbanan, från resenärer utanför Dag
-linjer, för resan mot centrum eller andra målpunkter. Bussarna                                            Hammarskjöldstaden, blir mycket stor kan det uppstå platsbrist på
-fortsätter därefter ut till Västerleden, via Högsboleden.                                                 spårvagnen.
-Det här alternativet skulle innebära att expressbussarna går                                              Denna risk finns inte enbart efter ett eventuellt färdigställande av
-parallellt med stadsbanan på hela/delar av sträckan. Bussarna bör                                         stadsbanan till Radiomotet/Järnbrott, utan också redan i samband
-då inte stanna på någon hållplats mellan Järnbrott och Marklands-                                         med den andra utbyggnadsetappen (när en expressbusslinje
-platsen.                                                                                                  föreslås fortsatt trafikera till Marklandsplatsen). Efterfrågan på
-resande med den linjen kan vara större än en linje kan hantera, om
+
+Ett tänkbart alternativ är att låta express- eller metrobussar trafikera
+boulevarden, från Järnbrott till Marklandsplatsen. Vid Marklands-
+platsen skulle bussresenärerna kunna byta till flera olika spårvägs-
+linjer, för resan mot centrum eller andra målpunkter. Bussarna
+fortsätter därefter ut till Västerleden, via Högsboleden.
+Det här alternativet skulle innebära att expressbussarna går
+parallellt med stadsbanan på hela/delar av sträckan. Bussarna bör
+då inte stanna på någon hållplats mellan Järnbrott och Marklands-
+platsen.
+
 Det här alternativet är långt ifrån den standard som metrobusskon-
 ceptet egentligen är tänkt att hålla. Därför är det troligen nödvän-
+
+120
+
+digt att boulevarden till viss del anpassas till att expressbussfunk-
+tionen finns kvar i detta fall. Detta kan exempelvis ske genom att
+antalet öst-västliga passagemöjligheter minskas och/eller att man
+bör pröva möjligheten till att ge prioritet för busstrafiken i trafik-
+signalerna. Även kantstensparkeringen längs boulevarden kan
+behöva utgå, vilket innebär att behoven av angöring för besökare
+och leveranser till verksamheter längs boulevarden, ökar på de
+parallella stråken. Biltrafikflödena på de parallella nord-sydliga
+gatorna till boulevarden kan också komma att öka, då expressbuss-
+trafiken försvårar för lokalgatornas utformningsprincip enligt höger
+in-höger ut.
+
+Sammantaget skulle detta alternativ innebära en lägre framkom-
+lighet för bussarna, med lägre hastighetsgräns och korsningar med
+övrig vägtrafik och oskyddade trafikanter. Men det skulle vara på
+en begränsad sträcka: från Järnbrott till Marklandsplatsen. Det vill
+säga inte hela vägen vidare till centrum, enligt den linjesträckning
+expressbussarna har idag via Övre Husargatan och Alléstråket.
+Fotograf: Rebecca Havedal
+Förutsättningarna för framtidens expressbusstrafikering kommer
+dock troligen att förändras och medföra att det inte längre blir
+rationellt att ha linjesträckningar för regional expressbusstrafik
+genom centrum. I planeringen för den framtida spårvägslänken
+”Allélänken”, kommer exempelvis kapaciteten för vägtrafiken att
+anpassas till en lägre nivå än dagens utformning. Med det följer
+att busstrafiken inte kommer att få eget utrymme eller sådan hög
+framkomlighet med övrig vägtrafik, på det sätt som råder idag. Det
+finns också planer på att etablera en spårväg i Övre Husargatan och
+utnyttja dagens busskörfält.
+
+Om   metrobusskonceptet      inte blir
+
+tillräckligt attraktivt
+
+I bedömningen av efterfrågan på resor med stadsbanan har denna
+studie förutsatt att metrobussen blir så attraktiv att alla1 potentiella
+resande väljer att resa med detta koncept för sin resa mot centrum
+och övriga delar av staden där metrobusskoncept ska trafikera.
+
+Om det av någon anledning blir så att metrobussalternativet inte
+kommer att uppnå den kvalitet som är tänkt, finns det en risk att
+fler (än vad denna studie bedömt) väljer att resa med stadsbanan
+från Järnbrott mot centrum. Det skulle innebära att beläggningen
+på stadsbanan ökar. Därmed kan det bli svårt att upprätthålla
+den eftersträvade kvalitetsnivån på stadsbanan, med en belägg-
+ningsgrad motsvarande en spårvagns komfortkapacitet. Om
+efterfrågan på resor med stadsbanan, från resenärer utanför Dag
+Hammarskjöldstaden, blir mycket stor kan det uppstå platsbrist på
+spårvagnen.
+
+Denna risk finns inte enbart efter ett eventuellt färdigställande av
+stadsbanan till Radiomotet/Järnbrott, utan också redan i samband
+med den andra utbyggnadsetappen (när en expressbusslinje
+föreslås fortsatt trafikera till Marklandsplatsen). Efterfrågan på
+resande med den linjen kan vara större än en linje kan hantera, om
+
 1 Undantaget är de resenärer, vars målpunkt enklast nås via boulevarden.
 Fotograf: Rebecca Havedal
-120                                                                                                                                                           121
+121
 
 <!-- sida 186 -->
 
-de övriga metrobusslinjerna på trafiklederna inte blir tillräckligt                                       Om  man   beslutar  att genomföra
+de övriga metrobusslinjerna på trafiklederna inte blir tillräckligt
 attraktiva.
-Södra  centrumlänken
 
-Om  metrobusshållplatsen     förläggs                                                                     Om Södra centrumlänken skulle komma till ett genomförande med
-en tunnelmynning vid Marklandsplatsen, innebär det en risk för
+Om   metrobusshållplatsen     förläggs
 vid Kobbegårdsbron
-hela boulevardens idé och funktion. Den nu rådande planerings-
-inriktningen för Södra Centrumlänken är att den blir en länk för
+
 I Målbild Koll2035 är planeringen inriktad på att anlägga en bytes-
-vägtrafik. Den skulle då få ett omfattande trafikflöde, vilket innebär
 punkt mellan stadsbanan och express-/metrobussen i Järnbrott,
-att trafik kommer att söka sig Marklandsplatsen via boulevarden.
 nära Söderleden. I nuläget bedömer därför Västra Götalandsregio-
-nen att en bytespunkt vid Kobbegårdsbron i Järnbrott är den bästa                                         Södra centrumlänken är ett projekt som hämtar sin nytta från
-ur ett metrobussperspektiv. Detta med anledning av fördelarna                                             förkortade restider för vägtrafiken och den skulle behöva en stark
-utifrån restid och möjligheten till rationell trafikering.                                                vägkoppling till Högsboleden för maximal nytta. Ett genomförande
-av detta projekt vore inte i samklang med stadens planeringsin-
+nen att en bytespunkt vid Kobbegårdsbron i Järnbrott är den bästa
+ur ett metrobussperspektiv. Detta med anledning av fördelarna
+utifrån restid och möjligheten till rationell trafikering.
+
 En bytespunkt i anslutning till Kobbegårdsbron har studerats
-rikning för en omställning mot hållbara resor. Det har spekulerats
 närmare i åtgärdsvalsstudien, som en möjlig lokalisering även för
-i om länken kunde fungera som en kollektivtrafiklänk istället. De
 stadsbanans ändhållplats. Resultaten har dock visat att Järnbrott
-trafikala relationer som det kunde innebära har dock inte utforskats
 är en plats där det är svårt att kombinera angöring enligt metro-
-i denna studie.
 busskonceptet, med en attraktiv bytespunkt för resenären. Från
-ett resenärs- och stadsutvecklingsperspektiv skulle en station Bildkälla: Stadsbyggnadskontoret, Göteborgs Länkens anslutning till boulevarden skulle innebära en mycket
-Stad
-vid Kobbegårdsbron riskera att vara otrygg, svår att försörja med                                         kraftig lokal stadsmiljöpåverkan runt Marklandsplatsen. För att
-bytesmöjligheter till övrig busstrafik, samtidigt som den har mindre                                      kunna passera boulevardens spårväg och sedan fortsätta direkt till
-potential att stödja stadsutvecklingen i området.                                                         Högsboleden skulle det krävas nya planskildheter, då turtätheten
-för boulevardens spårväg på denna plats inte kan hantera stora
-korsande trafikflöden.
+ett resenärs- och stadsutvecklingsperspektiv skulle en station
+vid Kobbegårdsbron riskera att vara otrygg, svår att försörja med
+bytesmöjligheter till övrig busstrafik, samtidigt som den har mindre
+potential att stödja stadsutvecklingen i området.
+
 Hantering av risk
 Ett alternativ som fortfarande innebär en rationell trafikering men
-Om  man   beslutar  att inte
 som också är attraktivt ur resenärs- och stadsutvecklingsperspektiv,
 vore att förlägga bytespunkten för metrobussen vid Radiomotet.
-genomföra    Lindholmsförbindelsen
 De flesta express-/metrobusslinjerna bedöms trafikera både väg
 158 och Frölunda torg, vilket innebär att merparten behöver
-Lindholmsförbindelsen är en kollektivtrafikförbindelse som knyter
 svänga i Järnbrottsmotet. En angöring vid Radiomotet enligt figu-
-samman Göteborg över älven. Utan den finns en risk att stadsut-
 ren till höger skulle då innebära en mindre avvikelse från rutten,
-vecklingsmöjligheterna i Dag Hammarskjöldsstaden försämras, till
 jämfört med om bytespunkten låg vid Kobbegårdsbron.
-Trafikeringsförslag bytespunkt Radiomotet.                     exempel ur ett arbetsmarknadsperspektiv.
-Vidare är bedömningen att det vid Radiomotet finns goda möj- - Blå: metrobuss.                            I denna studie har det bedömts vara möjligt att tillföra den fördju-
-ligheter till ett byte i en gemensam hållplats för både stadsbana - Grön: områdestrafik med buss.
+
+Vidare är bedömningen att det vid Radiomotet finns goda möj-
+ligheter till ett byte i en gemensam hållplats för både stadsbana
+och metrobuss. Det bör också finnas goda möjligheter för byte till
+områdestrafik med buss vid den här platsen. Denna områdestrafik
+avser både den öst-västliga gröna kopplingen som visas i kartan,
+men också busstrafik från Sisjön via Kobbegårdsbron och busstrafik
+mot norr genom östra Högsbo (som kompletterar stadsbanan).
+Den här samlade bytesfunktionen har inte bedömts vara möjlig att
+etablera vid Kobbegårdsbron.
+
+För den eventuella genomgående metrobusslinje, som skulle fung-
+era som en ringlinje och inte trafikera väg 158, är det också möjligt
+att etablera en hållplats vid den samlade hållplatsen vid Radiomo-
+tet. Men för just denna eventuella linje är det ett alternativ med
+begränsad nytta, i jämförelse med de andra kollektivtrafiklinjerna.
+Det kan därför vara mer lämpligt för den genomgående linjen att
+endast stanna på Frölunda Torg och att resenärer med målpunkt
+längs Dag Hammarskjöldsstråket istället byter till Frölundabanan
+där.
+
+122
+
+Om   man   beslutar  att genomföra
+
+Södra  centrumlänken
+
+Om Södra centrumlänken skulle komma till ett genomförande med
+en tunnelmynning vid Marklandsplatsen, innebär det en risk för
+hela boulevardens idé och funktion. Den nu rådande planerings-
+inriktningen för Södra Centrumlänken är att den blir en länk för
+vägtrafik. Den skulle då få ett omfattande trafikflöde, vilket innebär
+att trafik kommer att söka sig Marklandsplatsen via boulevarden.
+Södra centrumlänken är ett projekt som hämtar sin nytta från
+förkortade restider för vägtrafiken och den skulle behöva en stark
+vägkoppling till Högsboleden för maximal nytta. Ett genomförande
+av detta projekt vore inte i samklang med stadens planeringsin-
+rikning för en omställning mot hållbara resor. Det har spekulerats
+i om länken kunde fungera som en kollektivtrafiklänk istället. De
+trafikala relationer som det kunde innebära har dock inte utforskats
+i denna studie.
+
+Bildkälla: Stadsbyggnadskontoret, Göteborgs                   Länkens anslutning till boulevarden skulle innebära en mycket
+Stad
+kraftig lokal stadsmiljöpåverkan runt Marklandsplatsen. För att
+kunna passera boulevardens spårväg och sedan fortsätta direkt till
+Högsboleden skulle det krävas nya planskildheter, då turtätheten
+för boulevardens spårväg på denna plats inte kan hantera stora
+korsande trafikflöden.
+
+Om   man   beslutar  att inte
+genomföra     Lindholmsförbindelsen
+
+Lindholmsförbindelsen är en kollektivtrafikförbindelse som knyter
+samman Göteborg över älven. Utan den finns en risk att stadsut-
+vecklingsmöjligheterna i Dag Hammarskjöldsstaden försämras, till
+
+Trafikeringsförslag bytespunkt Radiomotet.                    exempel ur ett arbetsmarknadsperspektiv.
+\- Blå: metrobuss.                                             I denna studie har det bedömts vara möjligt att tillföra den fördju-
+\- Grön: områdestrafik med buss.
 pade översiktsplanens område en ny spårvägslinje. Men om den
 \- Röd: stadsbana.
-och metrobuss. Det bör också finnas goda möjligheter för byte till
-\- Streckad röd: läge för möjlig kompletterande                 planerade Lindholmsförbindelsen inte genomförs, kan risken öka
-områdestrafik med buss vid den här platsen. Denna områdestrafik bytespunkt.                               för att denna nya spårvägslinje inte blir möjlig att lägga till i spår-
-avser både den öst-västliga gröna kopplingen som visas i kartan,
+\- Streckad röd: läge för möjlig kompletterande                planerade Lindholmsförbindelsen inte genomförs, kan risken öka
+bytespunkt.                                                   för att denna nya spårvägslinje inte blir möjlig att lägga till i spår-
 vägssystemet.
-men också busstrafik från Sisjön via Kobbegårdsbron och busstrafik
-mot norr genom östra Högsbo (som kompletterar stadsbanan).                                                Som tidigare nämnts kan det också finnas en möjlighet att tillföra
-Den här samlade bytesfunktionen har inte bedömts vara möjlig att                                          området ytterligare spårvägslinje genom att prioritera denna del av
-etablera vid Kobbegårdsbron.                                                                              staden före andra delar av staden ur ett spårvägsperspektiv. Utan
+Som tidigare nämnts kan det också finnas en möjlighet att tillföra
+området ytterligare spårvägslinje genom att prioritera denna del av
+staden före andra delar av staden ur ett spårvägsperspektiv. Utan
 Lindholmsförbindelsen är dock den möjligheten relativt osannolik.
-För den eventuella genomgående metrobusslinje, som skulle fung-
-era som en ringlinje och inte trafikera väg 158, är det också möjligt Järnbrott
-att etablera en hållplats vid den samlade hållplatsen vid Radiomo-                                        Ökade   trafikflöden på  Västerleden
-tet. Men för just denna eventuella linje är det ett alternativ med
-begränsad nytta, i jämförelse med de andra kollektivtrafiklinjerna.                                       En förändring av Dag Hammarskjöldsledens funktion idag som
-Det kan därför vara mer lämpligt för den genomgående linjen att                                           trafikled, innebär sannolikt att genomfartstrafiken2 på leden idag
-endast stanna på Frölunda Torg och att resenärer med målpunkt                                             framförallt väljer Västerleden för att nå sina målpunkter istället. Om
-längs Dag Hammarskjöldsstråket istället byter till Frölundabanan                                          den samlade trafikbelastningen på Västerleden blir för hög innebär
-där.
-Pilegården                                          2 trafik som inte har sin målpunkt i nära anslutning till leden.
-122                                                                                                                                                           123
+Järnbrott
+Ökade   trafikflöden  på Västerleden
+
+En förändring av Dag Hammarskjöldsledens funktion idag som
+trafikled, innebär sannolikt att genomfartstrafiken2 på leden idag
+framförallt väljer Västerleden för att nå sina målpunkter istället. Om
+den samlade trafikbelastningen på Västerleden blir för hög innebär
+
+Pilegården                                         2 trafik som inte har sin målpunkt i nära anslutning till leden.
+
+123
 
 <!-- sida 187 -->
 
-det att stadens övergripande flöden, samt regional och nationell                                          beslut, till exempel gällande en fördubbling av trängselskatten. Ex-
-trafik riskerar försämrad framkomlighet och ökade restider.                                               empel på åtgärder är utredning för sänkt hastighet på Västerleden,
-införandet av metrobuss på Västerleden och utredning för järnväg
+det att stadens övergripande flöden, samt regional och nationell
+trafik riskerar försämrad framkomlighet och ökade restider.
+
 Trafikprognoserna inom denna och andra studier visar att trafikflö-
-mellan Haga station och Kungsbacka via väg 158.
 det på Västerleden varierar mellan 50 000-80 000 fordon per dygn,
 med en boulevard. Variationen beror på vilken prognos som an-
 vänts i analysmodellen, samt vilka åtgärder som ingått i analysen.
@@ -10855,6 +12206,7 @@ Hållbarhetsscenariot. I detta scenario har flera åtgärder lagts till i
 Trafikverkets basprognos. Hållbarhetsscenariot innehåller en rad
 mycket kraftfulla styrmedel för att få effekter i trafiksystemet i
 enlighet med trafikstrategins målsättning. Det omfattar också ett
+
 generellt antagande om restidsvinster i kollektivtrafiken, vilket i sig
 bygger på mycket omfattande åtgärder.
 I Hållbarhetsscenariot är flödet på Västerleden cirka 45 000 fordon
@@ -10887,18 +12239,25 @@ där ett antal beslutade och finansierade åtgärder och styrmedel
 har använts, men inte några andra åtgärder som påverkar trafiken i
 riktning mot trafikstrategins mål - det vill säga en utgångspunkt för
 åtgärder.
-
 För att hantera risken med ökade trafikflöden på Västerleden be-
 hövs en bred satsning på åtgärder i Hållbarhetsscenariots riktning.
 Dessa åtgärder verkar för ett ökat resande i kollektivtrafiken och
 med cykel. Tillsammans med åtgärder som mer precist riktas mot
+
 att hantera trängseleffekter på Västerleden blir boulevarden ge-
 nomförbar. Hållbarhetsscenariot är ett resultat av mycket kraftfulla
 åtgärder som verkar mycket brett i transportsystemet. Men de
 förutsätter också mycket omfattande investeringar och politiska
-Fotograf: Frida Winter
 
-124                                                                                                                                                           125
+124
+
+beslut, till exempel gällande en fördubbling av trängselskatten. Ex-
+empel på åtgärder är utredning för sänkt hastighet på Västerleden,
+införandet av metrobuss på Västerleden och utredning för järnväg
+mellan Haga station och Kungsbacka via väg 158.
+
+Fotograf: Frida Winter
+125
 
 <!-- sida 188 -->
 
@@ -10912,239 +12271,366 @@ Fotograf: Rebecca Havedal
 
 <!-- sida 189 -->
 
-I detta kapitel redovisas denna åtgärdsvalsstudies                                                           möjliggöra den föreslagna utvecklingen av spårtrafiken som
-beskrivs i målbilden. Detta då kapacitetstaket överskrids i de
+I detta kapitel redovisas denna åtgärdsvalsstudies
 slutsatser. Slutsatser presenteras både gällande
-centrala delarna av spårvägsnätet.
+
 kollektivtrafiksystemets kapacitet och funktioner
-• Spårvägssystemets kapacitet medför begränsningar för hur
-som boulevarden behöver uppfylla för att fungera                                                             omfattande stadsutvecklingen inom den fördjupade över-
-siktsplanens område kan bli.
+som  boulevarden behöver uppfylla för att fungera
+
 ur både ett trafikalt och stadsmiljöperspektiv.
-• Spårtrafiken på Frölundabanan och en stadsbana i Dag
 Avslutningsvis presenteras slutsatserna
-Hammarskjöldsleden behöver balanseras gentemot varandra,
+
 gällande genomförandefrågor och huruvida
-för att inte överskrida maxkapaciteten.
-boulevardförslaget bidrar till en hållbar mobilitet                                                        • Med pågående förtätning i Frölunda, Kaverös och Flatås,
-och goda stadsmiljöer.                                                                                       intecknas alltmer av den tillgängliga kollektivtrafikkapacite-
-ten på Frölundabanan. Detta påverkar planeringen för Dag
-Hammarskjöldstadens framväxt i mycket hög utsträckning.
+boulevardförslaget bidrar till en hållbar mobilitet
+
+och goda stadsmiljöer.
+
 En boulevard med stadsbana är möjlig att genomföra enligt det
-• Spårlänken i Marconigatan behöver gå på egen banvall, vilket
 förslag som presenteras i i denna rapport med bilagor. Boulevarden
-pågående förtätningsplaner behöver förhålla sig till.
 utgör ryggraden i stadsutvecklingen och möjliggör omvandlingen
-av dagens verksamhetsområde till blandstad. Den är en helt inte-                                           • Staden har ett antal kritiska vägval att göra gällande huruvida
-grerad del av förslaget till stadsutveckling enligt den fördjupade                                           man ska bejaka pågående planering eller Målbild Koll2035.
-översiktsplanen Högsbo-Frölunda.                                                                             Valen kommer att vara avgörande för om den fördjupade
-översiktsplanens fulla potential kommer att kunna realiseras.
+av dagens verksamhetsområde till blandstad. Den är en helt inte-
+grerad del av förslaget till stadsutveckling enligt den fördjupade
+
+översiktsplanen Högsbo-Frölunda.
 Ett genomförande kommer till klart övervägande del innebära
-• Införandet av både metrobusskonceptet och en stadsbana
 positiva konsekvenser inom stadsutvecklingsområdet som den är
-i boulevarden är nödvändigt av kapacitetsskäl, för att möta
 en del av, men den innebär samtidigt utmaningar för det övergri-
-framtida efterfrågan från exploatering i den fördjupade över-
 pande trafiksystemet som den är en del av.
-siktsplanens område. En kollektivtrafikförsörjning med enbart
-Det kommer att finnas många utmaningar också i den lokala                                                    buss vore inte tillräcklig för planens maximala stadsutveckling
-skalan, inte minst etableringen av trafiktekniska lösningar som                                              (knappt 100 000 invånare).
+
+Det kommer att finnas många utmaningar också i den lokala
+skalan, inte minst etableringen av trafiktekniska lösningar som
 hanterar behovet av fotgängare och cyklisters tillgänglighet i
-• Det finns sannolikt inte utrymme i stadens spårvägssystem för
 samverkan med behovet av kapacitetsstark kollektivtrafik. Bou-
-den ytterligare linje som en förlängning av stadsbanan till Nya
 levarden kommer också att behöva kunna hantera relativt stora
-Hovås (i enlighet med Målbild Koll 2035) skulle kräva .
 flöden av biltrafik samt utryckningstrafik. Det kan dock konstateras
 att förslaget tydligt verkar för både en hållbar mobilitet och goda
-stadsmiljöer.                                                                                             Slutsatser
-Denna studie har också kommit till slutsatsen att åtgärder enligt                                         - vilka funktioner behöver
+stadsmiljöer.
+
+Denna studie har också kommit till slutsatsen att åtgärder enligt
 Målbild Koll 2035 inte ensamt är tillräckliga för att täcka resande-
-en boulevard   i Dag
 behovet i kollektivtrafiksystemet på lång sikt. Det krävs sannolikt
-också en järnväg med stationer inom området för att möjliggöra                                            Hammarskjöldsleden      fylla?
+också en järnväg med stationer inom området för att möjliggöra
 den fulla utbyggnaden inom den fördjupade översiktsplanen.
-Järnväg krävs också som åtgärd för att ta om hand resandet utanför                                        För att åstadkomma en boulevard i Dag Hammarskjöldsledens
-planområdet och medverka till en nödvändig förändring av                                                  sträckning, där både trafiklösningar och stadsutveckling hanteras,
-resmönster i Göteborgs ytterområden och i grannkommuner.                                                  behöver man utforma ett stadsrum som uppnår följande funktio-
-ner:
-Slutsatser om  kollektivtrafikens                                                                          • ett stadsrum med omgivande stadsbebyggelse, på de sträckor
-där det anses lämpligt
+Järnväg krävs också som åtgärd för att ta om hand resandet utanför
+planområdet och medverka till en nödvändig förändring av
+resmönster i Göteborgs ytterområden och i grannkommuner.
+
+Slutsatser  om  kollektivtrafikens
 kapacitet
+
+Följande slutsatser har kunnat dras gällande kollektivtrafiksyste-
+mets kapacitet:
+
+• Stadens kollektivtrafiksystem börjar bli hårt ansträngt. Plane-
+ringen för det framtida Göteborg, med en 50 procentig tillväxt
+av antalet invånare, gör att kollektivtrafiksystemets kapacitet i
+markplan blir otillräcklig.
+• I Göteborgs Stads fortsatta arbete med att verkställa Målbild
+Koll2035 har tidiga analyser visat att det är svårt att fullt ut
+
+128
+
+möjliggöra den föreslagna utvecklingen av spårtrafiken som
+beskrivs i målbilden. Detta då kapacitetstaket överskrids i de
+centrala delarna av spårvägsnätet.
+• Spårvägssystemets kapacitet medför begränsningar för hur
+omfattande stadsutvecklingen inom den fördjupade över-
+
+siktsplanens område kan bli.
+• Spårtrafiken på Frölundabanan och en stadsbana i Dag
+Hammarskjöldsleden behöver balanseras gentemot varandra,
+för att inte överskrida maxkapaciteten.
+• Med pågående förtätning i Frölunda, Kaverös och Flatås,
+intecknas alltmer av den tillgängliga kollektivtrafikkapacite-
+ten på Frölundabanan. Detta påverkar planeringen för Dag
+Hammarskjöldstadens framväxt i mycket hög utsträckning.
+
+• Spårlänken i Marconigatan behöver gå på egen banvall, vilket
+pågående förtätningsplaner behöver förhålla sig till.
+• Staden har ett antal kritiska vägval att göra gällande huruvida
+man ska bejaka pågående planering eller Målbild Koll2035.
+Valen kommer att vara avgörande för om den fördjupade
+översiktsplanens fulla potential kommer att kunna realiseras.
+
+• Införandet av både metrobusskonceptet och en stadsbana
+i boulevarden är nödvändigt av kapacitetsskäl, för att möta
+framtida efterfrågan från exploatering i den fördjupade över-
+siktsplanens område. En kollektivtrafikförsörjning med enbart
+buss vore inte tillräcklig för planens maximala stadsutveckling
+(knappt 100 000 invånare).
+• Det finns sannolikt inte utrymme i stadens spårvägssystem för
+den ytterligare linje som en förlängning av stadsbanan till Nya
+Hovås (i enlighet med Målbild Koll 2035) skulle kräva .
+
+Slutsatser
+
+\- vilka funktioner  behöver
+en  boulevard   i Dag
+
+Hammarskjöldsleden       fylla?
+
+För att åstadkomma en boulevard i Dag Hammarskjöldsledens
+sträckning, där både trafiklösningar och stadsutveckling hanteras,
+behöver man utforma ett stadsrum som uppnår följande funktio-
+ner:
+• ett stadsrum med omgivande stadsbebyggelse, på de sträckor
+där det anses lämpligt
+
 • ett stadsrum vars omgivande bebyggelse har aktiva bottenvå-
 ningar och entréer mot gatan
-Följande slutsatser har kunnat dras gällande kollektivtrafiksyste-
-mets kapacitet:                                                                                            • ett stadsrum med varierande karaktär, men vars gestaltning
+• ett stadsrum med varierande karaktär, men vars gestaltning
 ändå förmedlar en viss kontinuitet längs hela sträckan - i
-• Stadens kollektivtrafiksystem börjar bli hårt ansträngt. Plane-
 planteringarna, fasadlinjen och bebyggelsens taklinje
-ringen för det framtida Göteborg, med en 50 procentig tillväxt
-av antalet invånare, gör att kollektivtrafiksystemets kapacitet i                                       • ett stadsrum med tydliga platsbildningar av olika storlek,
-markplan blir otillräcklig.                                                                               bland annat där det tidigare fanns planskilda trafikmot
-• I Göteborgs Stads fortsatta arbete med att verkställa Målbild                                           • ett stadsrum med generösa vistelseytor
-Koll2035 har tidiga analyser visat att det är svårt att fullt ut Fotograf: Frida Winter
-128                                                                                                                                                           129
+
+• ett stadsrum med tydliga platsbildningar av olika storlek,
+bland annat där det tidigare fanns planskilda trafikmot
+• ett stadsrum med generösa vistelseytor
+Fotograf: Frida Winter
+
+129
 
 <!-- sida 190 -->
 
-• ett stadsrum med grönska, bland annat i form av träd                                                      brott. Dessa resenärer, som är en klar minoritet av det samlade
-resandet från söder, kommer sannolikt att få en längre restid.
+• ett stadsrum med grönska, bland annat i form av träd
 • ett stadsrum med en luft- och ljudmiljö som möjliggör vistelse
-Övriga resenärer, som är den övervägande majoriteten, kan
-• ett stadsrum med goda sol- och dagsljusförhållanden                                                       få en kortare restid med ett metrobusskoncept på lederna
-jämfört med idag. Framförallt får de ett utökat bussutbud och
+
+• ett stadsrum med goda sol- och dagsljusförhållanden
 • ett stadsrum som kan härbärgera dagvatten- och skyfallsytor
-en högre reskomfort med ett metrobusskoncept.
+
 • ett stadsrum som möjliggör kapacitetsstark och attraktiv
-• en annan lösning för stadsbanans ändhållplats och bytesmöj-
 kollektivtrafik i eget utrymme i markplan
-ligheten mellan metrobuss och stadsbana, jämfört med den
 • ett stadsrum med pendlingscykelbana
-som är eftersträvansvärd utifrån metrobussens målsättning.
+
 • ett stadsrum med god trafiksäkerhet
-• att stadsbanans utformning och högsta tillåtna hastighet
-• ett stadsrum med fler och tydligt strukturerade korsningsmöj-                                             anpassas till att kunna skapa förutsättningar för stadsutveck-
-ligheter för fotgängare och cyklister                                                                     ling på de olika delsträckorna och det omvända. Samman-
-taget möter huvudförslaget kraven på restid enligt Målbild
+• ett stadsrum med fler och tydligt strukturerade korsningsmöj-
+ligheter för fotgängare och cyklister
+
 • ett stadsrum vars anslutande gator har en god uppkoppling
-Koll2035.
 mot omgivningen
-• att det kommer att vara fullt möjligt att köra bil på boulevar-
 • ett stadsrum som kan hantera trafikflöden mellan 20-30 000
-den, men med lägre hastighet än idag. Kapaciteten kommer
 fordon/dygn, där utpekade citybussanspråk och områdestra-
-att vara tillräcklig för den efterfrågan på biltrafik som har
 fik med buss också ryms
-prognostiserats. Med två körfält i varje riktning får bilister
-• ett stadsrum som är utryckningsväg                                                                        förutsättningar att lämna utrymme åt utryckningstrafiken att
-passera i en högre hastighet.
+
+• ett stadsrum som är utryckningsväg
 Det boulevardförslag som presenteras i denna åtgärdsvalsstudie
 är ett möjligt sätt att utforma en boulevard, som uppfyller samtliga
-ovanstående funktioner.                                                                                   För att en boulevardomvandling och stadsutveckling ska vara möj-
+ovanstående funktioner.
+
+Slutsatser
+\- i vilken utsträckning  bidrar
+
+boulevardomvandlingen        till hållbar
+mobilitet  och  goda  stadsmiljöer?
+
+Hållbar mobilitet på kommunal nivå
+
+• På ett övergripande plan är en boulevardomvandling en viktig
+del av en stadsövergripande omställning till ett mer hållbart
+transportsystem då:
+• ytan används mer effektivt
+
+• avsevärt fler människor än idag kan resa med lägre
+miljöpåverkan i boulevarden
+• många människor får möjlighet till ett boende med nära
+tillgång till regionens kärna
+
+Åtgärdsvalsstudiens presenterade boulevardförslag innebär:
+• att de längre cykelresorna i stråket kommer att ges högre ka-
+pacitet genom bredare ytor och en tryggare och mer befolkad
+omgivning, samtidigt kommer en integrering av cykelbanan i
+en stadsomvandling kommer att innebära en begränsning av
+dagens höga framkomlighet
+
+• att stadsbanan ersätter dagens resor med expressbuss i leden
+sträckning. Det är en nödvändig men inte oproblematisk
+förändring. De resenärer som bor söder om Järnbrottsmotet
+och har sin målpunkt i närheten av den framtida boulevarden
+kommer därför att behöva göra ett byte till stadsbanan i Järn-
+130
+
+brott. Dessa resenärer, som är en klar minoritet av det samlade
+resandet från söder, kommer sannolikt att få en längre restid.
+Övriga resenärer, som är den övervägande majoriteten, kan
+få en kortare restid med ett metrobusskoncept på lederna
+jämfört med idag. Framförallt får de ett utökat bussutbud och
+en högre reskomfort med ett metrobusskoncept.
+
+• en annan lösning för stadsbanans ändhållplats och bytesmöj-
+ligheten mellan metrobuss och stadsbana, jämfört med den
+som är eftersträvansvärd utifrån metrobussens målsättning.
+• att stadsbanans utformning och högsta tillåtna hastighet
+anpassas till att kunna skapa förutsättningar för stadsutveck-
+ling på de olika delsträckorna och det omvända. Samman-
+taget möter huvudförslaget kraven på restid enligt Målbild
+Koll2035.
+
+• att det kommer att vara fullt möjligt att köra bil på boulevar-
+den, men med lägre hastighet än idag. Kapaciteten kommer
+att vara tillräcklig för den efterfrågan på biltrafik som har
+prognostiserats. Med två körfält i varje riktning får bilister
+förutsättningar att lämna utrymme åt utryckningstrafiken att
+passera i en högre hastighet.
+
+För att en boulevardomvandling och stadsutveckling ska vara möj-
 lig krävs även följande åtgärder utanför åtgärdsvalsstudiens mandat:
-Slutsatser                                                                                                 • investeringar enligt Målbild Koll 2035, med genomförandet av
+
+• investeringar enligt Målbild Koll 2035, med genomförandet av
 till exempel Allélänken och Lindholmsförbindelsen.
-\- i vilken utsträckning bidrar
 • investeringar i spårvagnar som är 45 meter, samt fler turer i
-boulevardomvandlingen       till hållbar
 spårvägsnätet, vilket de nya linjerna längs den nya stadsba-
-mobilitet  och goda   stadsmiljöer?                                                                          nan behöver.
+nan behöver.
+
 • att staden kan växa inom det omgivande statliga trafikledsys-
 temets begränsningar och förutsättningar. En överflyttning av
-Hållbar mobilitet på kommunal nivå
 genomfartstrafik (med centrala Göteborg som målpunkt) till
-• På ett övergripande plan är en boulevardomvandling en viktig                                              framför allt Västerleden, behöver hanteras med åtgärder så att
-del av en stadsövergripande omställning till ett mer hållbart                                             framkomligheten på trafiklederna fortsatt når målsättningar
-transportsystem då:                                                                                       om framkomlighet och dess funktion för både nationella,
+framför allt Västerleden, behöver hanteras med åtgärder så att
+framkomligheten på trafiklederna fortsatt når målsättningar
+om framkomlighet och dess funktion för både nationella,
 regionala och stadenövergripande flöden.
-• ytan används mer effektivt
 • att det sker en bred satsning på åtgärder i Hållbarhetsscena-
-• avsevärt fler människor än idag kan resa med lägre
 riots riktning, som verkar för ökat resande i kollektivtrafiken
-miljöpåverkan i boulevarden
 och med cykel, tillsammans med åtgärder som mer precist
-• många människor får möjlighet till ett boende med nära                                                 riktas mot att hantera dess effekter. Utan en sådan satsning
-tillgång till regionens kärna                                                                           blir boulevardomvandlingen svårare att genomföra på grund
-Åtgärdsvalsstudiens presenterade boulevardförslag innebär:                                                   av de trängseleffekter som uppstår i det statliga trafikleds-
+riktas mot att hantera dess effekter. Utan en sådan satsning
+blir boulevardomvandlingen svårare att genomföra på grund
+av de trängseleffekter som uppstår i det statliga trafikleds-
 systemet, i synnerhet på Västerleden. I detta sammanhang
-• att de längre cykelresorna i stråket kommer att ges högre ka-                                             är det värt att nämna att en järnväg längs väg 158-stråket
-pacitet genom bredare ytor och en tryggare och mer befolkad                                               skulle få stor betydelse för utvecklingen av resandet i stråket
-omgivning, samtidigt kommer en integrering av cykelbanan i                                                och den skulle få direkt påverkan på möjligheterna att bygga
-en stadsomvandling kommer att innebära en begränsning av                                                  stad i detta område, då den konkret bidrar till en omställning i
-dagens höga framkomlighet                                                                                 Hållbarhetsscenariots riktning.
-• att stadsbanan ersätter dagens resor med expressbuss i leden                                            • att express-/metrobussarna trafikerar Västerleden och att
-sträckning. Det är en nödvändig men inte oproblematisk                                                    byte mellan dessa och stadsbanan sker i Radiomotet/Järn-
-förändring. De resenärer som bor söder om Järnbrottsmotet                                                 brottsmotet, i enlighet med Målbild Koll 2035. Om det inte
-och har sin målpunkt i närheten av den framtida boulevarden                                               blir verklighet finns det ett alternativ där bussarna fortsatt
-kommer därför att behöva göra ett byte till stadsbanan i Järn- Fotograf: Frida Winter                     trafikerar delar av boulevarden.
-130                                                                                                                                                           131
+är det värt att nämna att en järnväg längs väg 158-stråket
+skulle få stor betydelse för utvecklingen av resandet i stråket
+och den skulle få direkt påverkan på möjligheterna att bygga
+stad i detta område, då den konkret bidrar till en omställning i
+Hållbarhetsscenariots riktning.
+
+• att express-/metrobussarna trafikerar Västerleden och att
+byte mellan dessa och stadsbanan sker i Radiomotet/Järn-
+brottsmotet, i enlighet med Målbild Koll 2035. Om det inte
+blir verklighet finns det ett alternativ där bussarna fortsatt
+Fotograf: Frida Winter                                           trafikerar delar av boulevarden.
+131
 
 <!-- sida 191 -->
 
-Hållbar mobilitet på lokal nivå                                                                           Slutsatser
+Hållbar mobilitet på lokal nivå
 
-• Stadsutvecklingen i och med boulevardomvandlingen ger                                                  - genomförandefrågor
+• Stadsutvecklingen i och med boulevardomvandlingen ger
 ökad tillgänglighet till vardagens utbud och samtidigt bättre
-möjligheter att gå och cykla inom området, vilket har övervä-                                           • Studiens kostnadsbedömning för byggandet av en boulevard
-gande fördelar för flertalet fotgängare och cyklister.                                                    och en spårväg pekar på en investering i storleksordningen
-2500 - 3500 miljoner kronor, vilket endast omfattar en mycket
+möjligheter att gå och cykla inom området, vilket har övervä-
+gande fördelar för flertalet fotgängare och cyklister.
 • En del av de gångbroar som finns idag bör bevaras för att
-avgränsad yta för boulevarden och spårvägen. Det kommer
 underlätta för de fotgängare som kommer att ha svårt att
-att krävas avsevärda investeringar inom hela Dag Hammar-
 passera över boulevarden.
-skjöldstadens geografiska avgränsning för att åstadkomma
-• Förslaget att anlägga kantstensparkering på delar av boule-                                               tillhörande stadsutveckling. Kostnadsbedömningen är gjord
-varden, främst på den mellersta delsträckan, kommer att ge                                                i ett tidigt skede, med stora osäkerheter och kräver därför
-tillgänglighet till lokaler och verksamheter längs boulevarden.                                           fortsatt analys.
-• Föreslagna korsningar kommer att kunna hantera de tra-                                                  • Det kommer att finnas intäkter från försäljning av kommunal
-fikflöden som bedömts vara sannolika på boulevarden och                                                   mark som frigörs vid en boulevardomvandling. Utöver detta
-anslutande gator, utan att omfattande köbildning uppstår.                                                 kan det finnas ytterligare intäktsmöjligheter, men de är
-I något fall kan det krävas en cirkulationsplats istället för                                             betydligt mer osäkra:
+
+• Förslaget att anlägga kantstensparkering på delar av boule-
+varden, främst på den mellersta delsträckan, kommer att ge
+tillgänglighet till lokaler och verksamheter längs boulevarden.
+• Föreslagna korsningar kommer att kunna hantera de tra-
+fikflöden som bedömts vara sannolika på boulevarden och
+anslutande gator, utan att omfattande köbildning uppstår.
+I något fall kan det krävas en cirkulationsplats istället för
 signalreglerad korsning.
-• Staden kan erhålla exploateringsbidrag för byggandet av
-• Hållplatserna längs stadsbanan har en sådan placering och ett                                               övergripande anläggningar
+
+• Hållplatserna längs stadsbanan har en sådan placering och ett
 inbördes avstånd som behövs för att kunna ge god tillgänglig-
-• Eventuell medfinansiering från Västra Götalandsregionen
 het för invånarnas något längre resor. En lokal busstrafik som
-för anläggande av spårväg
 kompletterar spårtrafiken och ökar tillgängligheten till denna,
-kommer därför att behövas. Tillsammans bedöms dessa ge en                                                  • Eventuella stadsmiljöavtal
+kommer därför att behövas. Tillsammans bedöms dessa ge en
 god lokal tillgänglighet.
-• ”Nollalternativet” – att behålla dagens trafikled – innebär ock-
-så investeringar, framför allt underhåll av befintliga brokon-
+
 Goda stadsmiljöer
-struktioner. Att nyinvestera i konstruktioner som motsvarar
-dessa innebär en kostnad på cirka 900 miljoner kronor.
 • Boulevardomvandlingen är en strukturell åtgärd som möj-
-liggör den fördjupade översiktsplanens fullständiga stads-                                              • Den första utbyggnadsetappen omfattar att bejaka pågående
-utvecklingspotential: ett stort antal bostäder blir möjliga på                                            planering i Frölunda och Tynnered, tillsammans med flytta
-kommunalt ägd mark, i ett område med hög efterfrågan, där                                                 Botaniska trädgårdens hållplats och etablera en passage över
-möjligheterna att resa hållbart kommer att bli goda.                                                      dagens led i anslutning till hållplatsen.
-• Det presenterade boulevardförslaget skapar förutsättningar                                              • Den andra utbyggnadsetappen omfattar att genomföra
-för variation och tydliga platsbildningar på ett väl avvägt sätt,                                         boulevardomvandlingen mellan Marklandsplatsen och Mar-
-vilket ger möjligheter för upplevelser/händelser längs boule-                                             conimotet, i takt med stadsutvecklingen kring den. Etappen
-varden.                                                                                                   bör avslutas med att genomföra boulevardomvandlingen på
-den norra delsträckan, innan den tredje och sista etappen
+liggör den fördjupade översiktsplanens fullständiga stads-
+utvecklingspotential: ett stort antal bostäder blir möjliga på
+kommunalt ägd mark, i ett område med hög efterfrågan, där
+möjligheterna att resa hållbart kommer att bli goda.
+
+• Det presenterade boulevardförslaget skapar förutsättningar
+för variation och tydliga platsbildningar på ett väl avvägt sätt,
+vilket ger möjligheter för upplevelser/händelser längs boule-
+varden.
 • Trafikanalyserna visar att bullernivåerna från vägtrafiken
-genomförs.
 kommer att vara på en nivå som medger vistelse och samtal,
-även om det är i en trafikerad storstadsmiljö.                                                          • Den sista utbyggnadsetappen är avhängig om stadsutveck-
-lingen är möjlig att försörja med en kollektivtrafikering med
+även om det är i en trafikerad storstadsmiljö.
+
 • Luftanalyser visar att emissionerna bör ligga under gällande
-spårväg och/eller järnväg. Detta är i sin tur beroende av hur
 riktvärden.
-omfattande förtätningen i Frölunda och Tynnered i tidigare
 • Träd som bärande rumsbildande element i boulevarden
-etapper har blivit.
 skapar ett tak och bildar nödvändiga mindre rum i boulevard-
 rummet.
-Fortsatt arbete
+
 • Boulevardförslaget är utformat för att boulevarden ska kunna
 fungera som skyfallsled på en övergripande nivå, efter en
-När denna studie avslutas under 2022 kommer det att behövas ett
 ombyggnad.
+
+132
+
+Slutsatser
+
+\- genomförandefrågor
+
+• Studiens kostnadsbedömning för byggandet av en boulevard
+och en spårväg pekar på en investering i storleksordningen
+2500 - 3500 miljoner kronor, vilket endast omfattar en mycket
+avgränsad yta för boulevarden och spårvägen. Det kommer
+att krävas avsevärda investeringar inom hela Dag Hammar-
+skjöldstadens geografiska avgränsning för att åstadkomma
+tillhörande stadsutveckling. Kostnadsbedömningen är gjord
+i ett tidigt skede, med stora osäkerheter och kräver därför
+fortsatt analys.
+• Det kommer att finnas intäkter från försäljning av kommunal
+mark som frigörs vid en boulevardomvandling. Utöver detta
+kan det finnas ytterligare intäktsmöjligheter, men de är
+betydligt mer osäkra:
+
+• Staden kan erhålla exploateringsbidrag för byggandet av
+övergripande anläggningar
+• Eventuell medfinansiering från Västra Götalandsregionen
+för anläggande av spårväg
+
+• Eventuella stadsmiljöavtal
+• ”Nollalternativet” – att behålla dagens trafikled – innebär ock-
+så investeringar, framför allt underhåll av befintliga brokon-
+struktioner. Att nyinvestera i konstruktioner som motsvarar
+dessa innebär en kostnad på cirka 900 miljoner kronor.
+
+• Den första utbyggnadsetappen omfattar att bejaka pågående
+planering i Frölunda och Tynnered, tillsammans med flytta
+Botaniska trädgårdens hållplats och etablera en passage över
+dagens led i anslutning till hållplatsen.
+• Den andra utbyggnadsetappen omfattar att genomföra
+boulevardomvandlingen mellan Marklandsplatsen och Mar-
+conimotet, i takt med stadsutvecklingen kring den. Etappen
+bör avslutas med att genomföra boulevardomvandlingen på
+den norra delsträckan, innan den tredje och sista etappen
+genomförs.
+
+• Den sista utbyggnadsetappen är avhängig om stadsutveck-
+lingen är möjlig att försörja med en kollektivtrafikering med
+spårväg och/eller järnväg. Detta är i sin tur beroende av hur
+omfattande förtätningen i Frölunda och Tynnered i tidigare
+etapper har blivit.
+
+Fortsatt  arbete
+
+När denna studie avslutas under 2022 kommer det att behövas ett
 inriktningsbeslut för ett fortsatt arbete. Om staden vill gå vidare
 med en stadsutveckling enligt den fördjupade översiktsplanen
 för Högsbo-Frölunda och med en boulevard enligt denna studie,
 krävs det ett förvaltningsövergripande arbete i en fortsatt utbygg-
 nadsplanering. I en sådan fortsättning kommer det krävas många
 kompletterande studier.
+
 Fotograf: Frida Winter
-132                                                                                                                                                           133
+133
 
 <!-- sida 192 -->
 
-10-30-1202
-
-:mutaD
-datS
-sgrobetöG
 Kontakt
+
 Telefon:
 031-365 00 00 (Göteborgs Stads kontaktcenter)
 E-post:
 (e-post borttagen)
+
+Göteborgs Stad Datum: 2021-03-01
 
 <!-- sida 193 -->
 
@@ -11329,7 +12815,7 @@ Support-Id: BCA-224
 
 Si ARN
 
-———A"
+—— LL
 \-
 
 Yr
@@ -11548,7 +13034,7 @@ Kartan har ingen rättsverkan. Jämför med beslut i lantmäterihandlingar. Aktu
 
 <!-- sida 205 -->
 
-Kungsbacka           kommun
+Kungsbacka          kommun
 
 Ansökan om planbesked
 Kungsbacka
@@ -11556,12 +13042,13 @@ Kungsbacka
 Uppgiftsnamn                           Uppgiftsvärde
 
 Uppgifter om dig som söker
+
 Dagens datum                          2021-02-28
 Jag är medveten om att en avgift kommer att tas ut för Ja
 planbeskedet, även om jag får avslag.
-
 Är du som ansöker om planbesked privatperson eller från Privatperson
 ett företag?
+
 Personnummer
 Förnamn
 Efternamn
@@ -11570,33 +13057,48 @@ Efternamn
 Postnummer
 
 Telefonnummer
-E-postadress                                       .se
+E-postadress                                        .se
 
 Fakturaadress                         Använd samma adressuppgifter som
 ovan
 Är du som ansöker ägare till fastigheten eller Ja
 fastigheterna i ansökan?
 Om fastigheten
+
 Fastighetsbeteckning                  Släps-Kullen 2:298
 
 Gatuadress
 Fastighetsbeteckning                  Släps-Kullen 2:296
+
 Gatuadress
 Fastighetsbeteckning                  Släps-Kullen 2:71
 
-Gatuadress                            Flera
+Gatuadress
 Kartunderlag
-Ritning eller karta över aktuellt område Ansökan om Planbesked dat 210226 -
-signerad.pdf
-Ritning eller karta över aktuellt område Orienteringskarta för 4 st nybilade
-fastigheter 210211.pdf
-Ritning eller karta över aktuellt område Orienteringskarta adress 210211.pdf
 
-Ritning eller karta över aktuellt område Orienteringskarta nuvarande utseende
+Ritning eller karta över aktuellt område
+
+Ritning eller karta över aktuellt område
+
+Ritning eller karta över aktuellt område
+Ritning eller karta över aktuellt område
+
+Ritning eller karta över aktuellt område
+
+Ritning eller karta över aktuellt område
+
+Flera
+
+Ansökan om Planbesked dat 210226 -
+signerad.pdf
+Orienteringskarta för 4 st nybilade
+fastigheter 210211.pdf
+Orienteringskarta adress 210211.pdf
+Orienteringskarta nuvarande utseende
 flygbild 210211.pdf
-Ritning eller karta över aktuellt område Orienteringskarta sökande fastigheter i
+Orienteringskarta sökande fastigheter i
 Detaljplan S79.pdf
-Ritning eller karta över aktuellt område Jämförelsekarta - referens efter
+Jämförelsekarta - referens efter
 ansökan om planbesked till Detaljplan
 S79F.pdf
 
@@ -11803,13 +13305,9 @@ ORIENTERINGSKARTA
 
 AM TP
 
-[&PS-KULLEN
-
 AT
 
 T
-
-bj ne
 
 "Pode
 Lå Hal
@@ -11894,7 +13392,7 @@ Endast angiven användning och utformning är tillåten. Bestämmelser
 utan beteckning gäller inom hela planområdet.
 
 GRÄNSBETECKNINGAR
-— ce 2 > = Planområdesgräns
+— ce 2 == DPlanområdesgräns
 Egenskapsgräns
 
 ANVÄNDNING AV MARK
@@ -12358,6 +13856,19 @@ B: Karta över den nya fastigheten för Kungsbacka tennisklubbs verksamhet
 
 <!-- sida 224 -->
 
+1j2
+
+Bilaga A
+
+Karta över Objekten
+
+= Objekten
+
+Hall inom Varla 12:68
+
+I I
+Id
+
 <!-- sida 225 -->
 
 2/2
@@ -12569,7 +14080,6 @@ Vid protokollet
 
 <!-- sida 231 -->
 
-ME
 KUNGSBACK/Å TENNISKLUBB
 
 Protokoll styrelsemöte
@@ -13260,14 +14770,13 @@ Zz
 Förteckning över bilagor:
 
 Karta över Fastigheten mm.
-
 Arrendeavtal och nyttjanderättsavtal
 Provsvar miljöteknisk markundersökning
 Bygglovsritningar
 
-vUOow>e
-
 Sign
+
+vUOow>e
 
 <!-- sida 243 -->
 
@@ -13512,8 +15021,6 @@ AS
 
 <!-- sida 255 -->
 
-KUNGSBACKA TENNISKLUBB
-
 12 c Beslut om reviderad kalkyl och reviderat mandat avseende ny anläggning
 Se ovån, 12 a.
 
@@ -13574,8 +15081,6 @@ Nr
 oss SSE
 
 <!-- sida 256 -->
-
-TENNISKLUBB
 
 d) &n revisor jämte suppleant (ersättare) för en tid av ett år. I detta val får inte styrelsens ledamöter
 delta, Valberedningens förslag är: KTK anlitar PwcC.
@@ -13688,7 +15193,6 @@ Arrendeavtal hall,
 Varla 12:68
 
 Kungsmässan
-negävalraV
 
 Borgmästaregatan
 
@@ -13697,6 +15201,8 @@ Varlaskolan
 Arrendeavtal hall,
 
 Staren 11
+
+Varlavägen
 
 <!-- sida 260 -->
 
@@ -13898,13 +15404,12 @@ I
 
 <!-- sida 264 -->
 
-Bilaga
-
-D
 lll■ll\~■IDIIIIRllllllll\~+-
+
 1
 Fasad A1 -Sydösl
 11:200
+
 11  1111
 \~         \~          \~
 1
@@ -13936,6 +15441,8 @@ MITTR
 . ini' \_Affl-100
 t r r r
 
+B ilaga D
+
 <!-- sida 265 -->
 
 Bilaga D
@@ -13952,16 +15459,17 @@ i •                        • ·1
 
 <!-- sida 266 -->
 
-Bilaga
-
-D
 .\~.
+
 '°'\~
 \+             EB33 EB33
 \+   ,0,
 [EB]
+
 [EE3]
+
 0
+
 [EB]                                                                        - 1·=
 Kungsbacka Tennishall
 BYGGLOVSHANDUNG \~
@@ -13972,20 +15480,25 @@ SKÅR8'f'3<1
 MCflR
 \~ -1111
 
+B ilaga D
+
 <!-- sida 267 -->
 
 Bilaga D
 
-Nyttjanderättsavtal utomhusbanor,
-Varla 12:68
-negävalraV
 \~
 ·\~ z\~  ·f
 i - \~ " "V " l ' ' ' " \~ \~ \~ \~. f! . f \~ § \~
 § C l i \~ ,\~ i i.
 "  • I . ; i i\~
+
 Borgmästaregatan
+
+Nyttjanderättsavtal utomhusbanor,
 Varlaskolan
+Varla 12:68
+
+Varlavägen
 
 <!-- sida 268 -->
 

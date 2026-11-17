@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319212408id_/https://www.kungsbacka.
 sha256: b69e1f526fde94d3aca44222098301791b888daa9259139c5fd55a1e4919c120
 bytes: 7110913
 sidor: 229
-hamtad: 2026-10-29T11:16:14+00:00
-konverterad: 2026-10-29T11:16:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:34:42+00:00
+konverterad: 2026-11-17T13:35:28+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -73,31 +73,39 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag
 
-5\.  Remiss - Boverkets promemoria 2021-00523 Nämnden för Förskola och Grundskola antar
-"Önskemål om utökat             yttrandet över Boverkets promemoria "Önskemål om
-bemyndigande att meddela        utökat bemyndigande att meddela föreskrifter för
-föreskrifter för friytor för lek friytor för lek och utevistelse vid skolor, förskolor,
-och utevistelse vid skolor,     fritidshem och annan jämförlig verksamhet", 2021-
-förskolor, fritidshem och annan 04-30 och översänder det till kommunfullmäktige
-jämförlig verksamhet, KS 2021-  för fastställande.
+5\. Remiss - Boverkets promemoria 2021-00523
+"Önskemål om utökat
+bemyndigande att meddela
+föreskrifter för friytor för lek
+och utevistelse vid skolor,
+förskolor, fritidshem och annan
+jämförlig verksamhet, KS 2021-
 00458
+
+Nämnden för Förskola och Grundskola antar
+yttrandet över Boverkets promemoria "Önskemål om
+utökat bemyndigande att meddela föreskrifter för
+friytor för lek och utevistelse vid skolor, förskolor,
+fritidshem och annan jämförlig verksamhet", 2021-
+04-30 och översänder det till kommunfullmäktige
+för fastställande.
 
 16.50
 
 Frida Byrsten, verksamhetschef
 
-6\.  Kommunrevisionen - Ernst & 2021-00251 Nämnden för Förskola & Grundskola beslutar om
-Young - Revisionsrapport -      åtgärder med anledning av Revisionsrapport -
-granskning av det systematiska  granskning av det systematiska arbetsmiljöarbetet
+6\. Kommunrevisionen - Ernst &
+Young - Revisionsrapport -
+granskning av det systematiska
+arbetsmiljöarbetet 2020
 
-arbetsmiljöarbetet 2020         2020.
+Kl 17.00
 
-Kl 17.00                        Nämnden uppdrar åt skolchefen för Förskola och
-Grundskola att återredovisa åtgärderna på
-Helena Hellman, personalchef    nämndmöte 2021-10-31
+Helena Hellman, personalchef
 
-7\.  Uppföljning och prognos per 2021-00588 Nämnden för Förskola och Grundskola godkänner
-april 2021                      uppföljning och prognos per april 2021.
+7\. Uppföljning och prognos per
+
+april 2021
 
 Kl 17.10
 
@@ -106,16 +114,29 @@ biträdande förvaltningschef
 
 Paus 17.20-17.40
 
-8\.  SKA delrapport 2. Normer och 2021-00472 Nämnden för Förskola och Grundskola har tagit del
-värden, delaktighet och         av informationen och antecknar informationen i
-inflytande                      protokollet.
+2021-00251 Nämnden för Förskola & Grundskola beslutar om
+åtgärder med anledning av Revisionsrapport -
+granskning av det systematiska arbetsmiljöarbetet
+2020\.
+
+Nämnden uppdrar åt skolchefen för Förskola och
+Grundskola att återredovisa åtgärderna på
+nämndmöte 2021-10-31
+
+2021-00588 Nämnden för Förskola och Grundskola godkänner
+
+uppföljning och prognos per april 2021.
+
+8\. SKA delrapport 2. Normer och 2021-00472 Nämnden för Förskola och Grundskola har tagit del
+värden, delaktighet och          av informationen och antecknar informationen i
+inflytande                       protokollet.
 
 Kl 17.40
 
 Magnus Fogelblad,
-
 verksamhetscontroller
 Anna Sörensen,
+
 utvecklingsledare
 
 <!-- sida 3 -->
@@ -569,84 +590,77 @@ LLuupppp ii sskkoollaann..iinndddd 44                            22001188--0033-
 
 Bakgrund
 
-Det ungdomspolitiska målet är att alla ungdomar del i skolan, under lektionstid. På så vis kan den
-mellan 13 och 25 år ska ha goda levnadsvill- ordinarie planerade undervisningen påverkas av
-kor, makt att forma sina liv och inflytande över den tid som enkäten tar att göra. Detta kan inne-
-samhällsutvecklingen (regeringens proposition bära mer press på både lärare och elever att hinna
-2013/14:191). Ungdomsenkäten Lupp (Lokal med samtliga mål utifrån kursplanen. Lupp kan
-uppföljning av ungdomspolitiken) är ett verktyg dock användas som en naturlig del i undervis-
-för att ta reda på hur ungas livssituation ser ut lo- ningen och vara ett bra komplement till det cen-
-kalt och på så vis följa upp hur väl det ungdoms- trala innehållet i kursplanen för både grundskola
-politiska målet följs. Frågorna i enkäten ger svar och gymnasium. Istället för att ta tid från den or-
-på hur unga i er kommun, stadsdel eller region ser dinarie undervisningen kan Lupp vara en del av
-på inflytande och demokrati, situationen i skolan, den. Denna handledning visar flera möjligheter
-möjligheten till arbete, sin egen hälsa och trygg- till lektionsupplägg utifrån Lupp-enkätens inne-
-het, sin fritid, och hur de ser på sin egen framtid. håll och kan fungera som ett hjälpmedel för dig
-Enkäten finns i tre varianter för olika ålders- som arbetar med Lupp och ungdomspolitiska frå-
-grupper: 13–16, 16–19 och 19–25 år. Både enkä- gor på lokal nivå.
+Det ungdomspolitiska målet är att alla ungdomar
+mellan 13 och 25 år ska ha goda levnadsvill-
+kor, makt att forma sina liv och inflytande över
+samhällsutvecklingen (regeringens proposition
+2013/14:191). Ungdomsenkäten Lupp (Lokal
+uppföljning av ungdomspolitiken) är ett verktyg
+för att ta reda på hur ungas livssituation ser ut lo-
+kalt och på så vis följa upp hur väl det ungdoms-
+politiska målet följs. Frågorna i enkäten ger svar
+på hur unga i er kommun, stadsdel eller region ser
+på inflytande och demokrati, situationen i skolan,
+möjligheten till arbete, sin egen hälsa och trygg-
+het, sin fritid, och hur de ser på sin egen framtid.
+Enkäten finns i tre varianter för olika ålders-
+grupper: 13–16, 16–19 och 19–25 år. Både enkä-
 ten 13–16 år och 16–19 år genomförs till största
+
+LLuupppp ii sskkoollaann..iinndddd 55
+
+del i skolan, under lektionstid. På så vis kan den
+ordinarie planerade undervisningen påverkas av
+den tid som enkäten tar att göra. Detta kan inne-
+bära mer press på både lärare och elever att hinna
+med samtliga mål utifrån kursplanen. Lupp kan
+dock användas som en naturlig del i undervis-
+ningen och vara ett bra komplement till det cen-
+trala innehållet i kursplanen för både grundskola
+och gymnasium. Istället för att ta tid från den or-
+dinarie undervisningen kan Lupp vara en del av
+den. Denna handledning visar flera möjligheter
+till lektionsupplägg utifrån Lupp-enkätens inne-
+håll och kan fungera som ett hjälpmedel för dig
+som arbetar med Lupp och ungdomspolitiska frå-
+gor på lokal nivå.
 
 5
 
-LLuupppp ii sskkoollaann..iinndddd 55                            22001188--0033--1166 0088::5566::2266
+22001188--0033--1166 0088::5566::2266
 
 <!-- sida 18 -->
 
 Handledningens                 innehåll
 
-Den här handledningen är till för kommuner som Handledningens
+Den här handledningen är till för kommuner som
 har valt att använda sig av Lupp som verktyg
-upplägg
 för att ta reda på mer om ungas levnadsvillkor
 på lokal nivå. Lupp är mer än en enkät och kan
 tillsammans med andra metoder och verktyg ge
-Handledningen består av fem kapitel. Kapitel 1
 stöd i det lokala arbetet med att implementera
-avslutas med en ordlista med begrepp och ord
 och utveckla ett ungdomsperspektiv.
-som kan vara svåra för eleverna att förstå. Allt för
 Fokus i denna handledning ligger på hur Lupp
-att ge en bättre ordförståelse inför och under en-
 kan användas under lektioner i svenska och sam-
-kätens genomförande. Kapitel 2 och 3 samman-
 hällskunskap, eftersom enkätens innehåll har
-fattar först det centrala innehållet i kursplanerna
 störst koppling till de ämnenas kursplaner. En-
-för svenska och för samhällskunskap. Därefter
 kätens innehåll kan dock även användas inom
-ger de förslag på hur du kan lägga upp Lupp-
 andra ämnen. Till exempel i ämnet matematik
-lektioner som sker inom respektive ämne. Du får
 där statistikkunskap ingår, eller idrott- och hälsa
-flera förslag på övningar som utgår från Lupp-
 med fokus på enkätens fritids- och hälsofrågor.
-enkätens frågor. Övningarna passar både elever
 Se denna handledning som ett exempel på hur
-i årskurs 7–9 (grundskolan) och årskurs 1–3
 kommunen och skolan kan samarbeta kring de-
-(gymnasium). I kapitel 4 ger vi tips på hur ni i din
 mokratiuppdraget och Lupp. Komplettera gärna
-kommun kan skapa en egen lärarhandledning. Vi
 med eget pedagogiskt material och övningar som
-redogör också för hur tidigare Lupp-kommuner
 gör det lokala demokratiarbetet i kommunen till
-använt sig av Lupp i skolundervisningen. kapi-
 ett lärande för eleverna.
-tel 5 får du avslutningsvis några tips om andra
 I första hand vänder sig handledningen till dig
-material och metoder som Lupp-samordnare eller
 som är Lupp-ansvarig eller Lupp-samordnare i
-lärare kan använda för att prata om exempelvis
 din kommun. Handledningens lektionsupplägg
-politik och demokrati i skolan.
 är tänkta som förslag på hur du som Lupp-sam-
-För att veta mer om innehållet och frågorna i
 ordnare kan arbeta när du kommer till skolklasser
-Lupp-enkäten, besök gärna mucf.se/ungdoms-
 och håller i särskilda Lupp-lektioner. En Lupp-
-enkäten-lupp eller hör av dig till oss som arbetar
 lektion kan hållas inför att eleverna gör enkä-
-med Lupp.
 ten, och ger dem på så vis större förståelse för
 enkätens innehåll. Det går dock även att genom-
 föra lektioner med anknytning till Lupp vid andra
@@ -656,8 +670,39 @@ kommit eller under en temadag eller temavecka.
 att själva arbeta med frågor som har anknytning
 till Lupp, exempelvis mänskliga rättigheter eller
 lokal demokrati.
+
+Handledningens
+
+upplägg
+
+Handledningen består av fem kapitel. Kapitel 1
+avslutas med en ordlista med begrepp och ord
+som kan vara svåra för eleverna att förstå. Allt för
+att ge en bättre ordförståelse inför och under en-
+kätens genomförande. Kapitel 2 och 3 samman-
+fattar först det centrala innehållet i kursplanerna
+för svenska och för samhällskunskap. Därefter
+ger de förslag på hur du kan lägga upp Lupp-
+lektioner som sker inom respektive ämne. Du får
+flera förslag på övningar som utgår från Lupp-
+enkätens frågor. Övningarna passar både elever
+i årskurs 7–9 (grundskolan) och årskurs 1–3
+(gymnasium). I kapitel 4 ger vi tips på hur ni i din
+kommun kan skapa en egen lärarhandledning. Vi
+redogör också för hur tidigare Lupp-kommuner
+använt sig av Lupp i skolundervisningen. kapi-
+tel 5 får du avslutningsvis några tips om andra
+material och metoder som Lupp-samordnare eller
+lärare kan använda för att prata om exempelvis
+politik och demokrati i skolan.
+För att veta mer om innehållet och frågorna i
+Lupp-enkäten, besök gärna mucf.se/ungdoms-
+enkäten-lupp eller hör av dig till oss som arbetar
+med Lupp.
+
 6
-LLuupppp ii sskkoollaann..iinndddd 66                            22001188--0033--1166 0088::5566::2266
+
+LLuupppp ii sskkoollaann..iinndddd 66                           22001188--0033--1166 0088::5566::2266
 
 <!-- sida 19 -->
 
@@ -667,57 +712,129 @@ Inför en Lupp-lektion är det bra om eleverna känner till och förstår inne-
 börden av följande ord och begrepp. Varje ord går förstås att diskutera
 och förklara mer fördjupat än vad som görs i denna ordlista.
 
-Aktivitet används i Lupp-enkäten om Ekonomi är sådant som handlar om att Rasism är en åsikt att jordens
-en syssla eller sysselsättning, till skaffa, förvalta och använda pengar människor är olika mycket värda
-exempel ett arbete, idrottsaktivitet eller och andra värdefulla saker. beroende på var de kommer ifrån och
-fritidsaktivitet.                    hur de ser ut. I Sverige har vi en lag
-Fritid är den del av dygnet och veckan (diskrimineringslagen) som förbjuder
-Attrahera betyder att dra till sig. I som inte upptas av arbete eller skola, rasism.
-Lupp-enkäten används begreppet i måltider och sömn.
-frågan om ens sexuella läggning.     Sexuella trakasserier är att kränka
-Förening är en organiserad grupp någon på ett sexuellt sätt. Det kan till
-Barnkonventionen\* är ett rättsligt personer som har ett gemensamt exempel vara att ta på någon på ett sätt
-bindande internationellt avtal som slår intresse av något slag. Föreningar har som personen inte gillar eller att säga
-fast att barn är individer med egna en fast form med årsmöten och en vald kränkande sexuella kommentarer. I
-rättigheter, inte föräldrars eller andra styrelse. Till exempel kan det vara en Sverige har vi en lag (diskrimineringsla-
-vuxnas ägodelar. Konventionen teater- eller idrottsförening. gen) mot sexuella trakasserier.
+Aktivitet används i Lupp-enkäten om
+en syssla eller sysselsättning, till
+exempel ett arbete, idrottsaktivitet eller
+fritidsaktivitet.
+Attrahera betyder att dra till sig. I
+Lupp-enkäten används begreppet i
+frågan om ens sexuella läggning.
+Barnkonventionen\* är ett rättsligt
+bindande internationellt avtal som slår
+fast att barn är individer med egna
+rättigheter, inte föräldrars eller andra
+vuxnas ägodelar. Konventionen
 innehåller 54 artiklar och finns som en
-trygghet för alla barn, det vill säga Inflytande och delaktighet handlar om Ungdomsförbund är en organisation
-personer i åldern 0–18 år. Fyra av vilken möjlighet du som medborgare eller förening skapad av och med unga.
-dessa artiklar är grundläggande och har att påverka dina levnadsvillkor och Ett ungdomsförbund kan vara politiskt
-vägledande, och dessa ska alltid få vara med i de beslut som rör dig. Det och kopplat till ett parti eller ha en
-beaktas i frågor som rör barn: är en av demokratins grunder. annan inriktning.
+trygghet för alla barn, det vill säga
+personer i åldern 0–18 år. Fyra av
+dessa artiklar är grundläggande och
+vägledande, och dessa ska alltid
+beaktas i frågor som rör barn:
 Artikel 2: Alla barn har samma
-rättigheter och lika värde. Kränkning är ett angrepp mot någons Ungdomsråd eller ungdomsfullmäk-
-Artikel 6: Alla barn har rätt till liv och person, frihet, frid eller ära, en handling tige är ett lokalt inflytandeforum för och
-utveckling.       som strider mot allmän folkrätt. I av unga. Ungdomsråd och ungdoms-
-Artikel 12: Barnets bästa ska beaktas Sverige har vi en lag (diskrimineringsla- fullmäktige ger en möjlighet för unga att
-vid alla beslut som rör barn. gen) som förbjuder kränkningar. kunna påverka och ha inflytande i
-Artikel 13: Alla barn har rätt att   kommunala politiska beslut.
-uttrycka sin mening och få den Medborgarförslag är ett förslag som
-respekterad.      den som är folkbokförd i en kommun Ungdomsperspektiv är ett ord som
-eller i ett landsting kan lämna till används för att framhålla att de beslut
-Demonstration är ett sätt att visa vad fullmäktige om frågor inom kommunens som berör unga också bör utgå från
-man tycker i en fråga och att försöka eller landstingets ansvarsområden, och ungas egna röster samt utifrån kunskap
-skapa förändringar genom att väcka som politikerna i fullmäktige då tar upp om ungas livsvillkor och erfarenheter.
-uppmärksamhet.    till beslut. Rätten att lämna in Unga bör betraktas som en mångfald
-medborgarförslag gäller även barn och individer. De bör få stöd att bli
-Det ungdomspolitiska målet (prop. ungdomar liksom utländska medbor- självständiga och ha möjlighet till
-2013/14:191) innebär att alla ungdomar gare utan lokal rösträtt. inflytande i samhället.
+rättigheter och lika värde.
+Artikel 6: Alla barn har rätt till liv och
+utveckling.
+Artikel 12: Barnets bästa ska beaktas
+vid alla beslut som rör barn.
+Artikel 13: Alla barn har rätt att
+uttrycka sin mening och få den
+respekterad.
+Demonstration är ett sätt att visa vad
+man tycker i en fråga och att försöka
+skapa förändringar genom att väcka
+uppmärksamhet.
+Det ungdomspolitiska målet (prop.
+2013/14:191) innebär att alla ungdomar
 mellan 13 och 25 år ska ha goda
-levnadsvillkor, makt att forma sina liv Postnummer är till för att förtydliga och
-och inflytande över samhällsutveck- tala om vart ett brev eller paket ska \*Vill du veta mer om barnkonventionen
-lingen.           skickas. Dagens system med fem siffror och den nationella ungdomspolitiken?
-har använts i Sverige sedan 1968. Se www.unicef.se/barnkonventionen
+levnadsvillkor, makt att forma sina liv
+och inflytande över samhällsutveck-
+lingen.
+
+Ekonomi är sådant som handlar om att
+skaffa, förvalta och använda pengar
+och andra värdefulla saker.
+Fritid är den del av dygnet och veckan
+som inte upptas av arbete eller skola,
+måltider och sömn.
+Förening är en organiserad grupp
+personer som har ett gemensamt
+intresse av något slag. Föreningar har
+en fast form med årsmöten och en vald
+styrelse. Till exempel kan det vara en
+teater- eller idrottsförening.
+Inflytande och delaktighet handlar om
+vilken möjlighet du som medborgare
+har att påverka dina levnadsvillkor och
+få vara med i de beslut som rör dig. Det
+är en av demokratins grunder.
+Kränkning är ett angrepp mot någons
+person, frihet, frid eller ära, en handling
+som strider mot allmän folkrätt. I
+Sverige har vi en lag (diskrimineringsla-
+gen) som förbjuder kränkningar.
+Medborgarförslag är ett förslag som
+den som är folkbokförd i en kommun
+eller i ett landsting kan lämna till
+fullmäktige om frågor inom kommunens
+eller landstingets ansvarsområden, och
+som politikerna i fullmäktige då tar upp
+till beslut. Rätten att lämna in
+medborgarförslag gäller även barn och
+ungdomar liksom utländska medbor-
+gare utan lokal rösträtt.
+Postnummer är till för att förtydliga och
+tala om vart ett brev eller paket ska
+skickas. Dagens system med fem siffror
+har använts i Sverige sedan 1968.
+
+Rasism är en åsikt att jordens
+människor är olika mycket värda
+beroende på var de kommer ifrån och
+hur de ser ut. I Sverige har vi en lag
+(diskrimineringslagen) som förbjuder
+rasism.
+Sexuella trakasserier är att kränka
+någon på ett sexuellt sätt. Det kan till
+exempel vara att ta på någon på ett sätt
+som personen inte gillar eller att säga
+kränkande sexuella kommentarer. I
+Sverige har vi en lag (diskrimineringsla-
+gen) mot sexuella trakasserier.
+Ungdomsförbund är en organisation
+eller förening skapad av och med unga.
+Ett ungdomsförbund kan vara politiskt
+och kopplat till ett parti eller ha en
+annan inriktning.
+Ungdomsråd eller ungdomsfullmäk-
+tige är ett lokalt inflytandeforum för och
+av unga. Ungdomsråd och ungdoms-
+fullmäktige ger en möjlighet för unga att
+kunna påverka och ha inflytande i
+kommunala politiska beslut.
+Ungdomsperspektiv är ett ord som
+används för att framhålla att de beslut
+som berör unga också bör utgå från
+ungas egna röster samt utifrån kunskap
+om ungas livsvillkor och erfarenheter.
+Unga bör betraktas som en mångfald
+individer. De bör få stöd att bli
+självständiga och ha möjlighet till
+inflytande i samhället.
+\*Vill du veta mer om barnkonventionen
+och den nationella ungdomspolitiken?
+Se www.unicef.se/barnkonventionen
 och www.mucf.se
+
 Tips: Dela in klassen i mindre grupper. Välj ut några av orden och låt
 grupperna diskutera deras betydelse.
+
 7
-LLuupppp ii sskkoollaann..iinndddd 77                            22001188--0033--1166 0088::5566::2266
+
+LLuupppp ii sskkoollaann..iinndddd 77                           22001188--0033--1166 0088::5566::2266
 
 <!-- sida 20 -->
 
-Lupp      i ämnet         svenska
+Lupp      i  ämnet        svenska
 
 Hur kan Lupp användas i undervisningen i ämnet svenska? I detta kapitel
 redogör vi först för kursplanens centrala innehåll för att på så vis ge en klar
@@ -727,6 +844,7 @@ tema och övningar. Vi föreslår lektionsupplägg som kan användas i ämnet
 svenska i årskurs 7–9 i grundskolan och årskurs 1–3 i gymnasiet.
 
 Centralt    innehåll    i svenska
+
 årskurs 7–9 (grundskola)
 
 I läroplanen för ämnet svenska går att läsa att manhang; urskilja språkliga strukturer och följa
@@ -742,18 +860,25 @@ Centralt    innehåll    i svenska
 
 årskurs 1–3 (gymnasium)
 
-I svenska ska eleverna ges rikliga tillfällen att och föreställningsvärldar. Undervisningen ska
-tala, skriva, läsa och lyssna. Undervisningen i även bidra till att eleverna utvecklar kunskaper
-svenska ska utveckla elevernas förmåga att an- om hur man söker, sammanställer och kritiskt
-vända skönlitteratur och andra typer av texter och granskar information från olika källor. Den ska
-medier som källa till självinsikt och förståelse av också uppmana eleverna till nya tankesätt och
-andra människors erfarenheter, livsvillkor, tankar öppna upp för nya perspektiv.
+I svenska ska eleverna ges rikliga tillfällen att
+tala, skriva, läsa och lyssna. Undervisningen i
+svenska ska utveckla elevernas förmåga att an-
+vända skönlitteratur och andra typer av texter och
+medier som källa till självinsikt och förståelse av
+andra människors erfarenheter, livsvillkor, tankar
+
+och föreställningsvärldar. Undervisningen ska
+även bidra till att eleverna utvecklar kunskaper
+om hur man söker, sammanställer och kritiskt
+granskar information från olika källor. Den ska
+också uppmana eleverna till nya tankesätt och
+öppna upp för nya perspektiv.
 
 Källa: Skolverkets kursplan 2011 i ämnet svenska (gymnasium).
 
 8
 
-LLuupppp ii sskkoollaann..iinndddd 88                            22001188--0033--1166 0088::5566::2266
+LLuupppp ii sskkoollaann..iinndddd 88                           22001188--0033--1166 0088::5566::2266
 
 <!-- sida 21 -->
 
@@ -764,39 +889,52 @@ vi lägga fokus på valet av tema till lektionsupplägget samt vilka frågor
 från enkäten som kan passa.
 
 Välj tema för Lupp-lektionen
-
-Börja med att välja ett tema till lektionsuppläg- att leda ett samtal och bemöta argument. I nästa
-get. Temat kan gärna motsvara ett område i Lupp- avsnitt ger vi exempel på frågor som kan passa
-enkäten, exempelvis skola, fritid eller trygghet. utifrån kursplanen och olika teman. I början av
-Låt sedan valet av tema vägleda vilka enkätfrågor lektionen kan det vara bra att ha en kortare ge-
-och diskussionsfrågor ni använder under lektio- nomgång av ord och begrepp (se Ordlista) som
-nen. Ämnet svenska har bland annat ett fokus på eleverna behöver förstå.
+Börja med att välja ett tema till lektionsuppläg-
+get. Temat kan gärna motsvara ett område i Lupp-
+enkäten, exempelvis skola, fritid eller trygghet.
+Låt sedan valet av tema vägleda vilka enkätfrågor
+och diskussionsfrågor ni använder under lektio-
+nen. Ämnet svenska har bland annat ett fokus på
 att utveckla elevens ordförståelse och kunskap i
 
-Du                                          Politik
+att leda ett samtal och bemöta argument. I nästa
+avsnitt ger vi exempel på frågor som kan passa
+utifrån kursplanen och olika teman. I början av
+lektionen kan det vara bra att ha en kortare ge-
+nomgång av ord och begrepp (se Ordlista) som
+eleverna behöver förstå.
+
+Du                                         Politik
 och din               Framtid               och sam-
 familj                                       hälle
 
 Välj ett
-Arbete                                     Trygghet
+Arbete                                      Trygghet
 tema
 
-Fritid                 Skola                 Hälsa
+Fritid                Skola                  Hälsa
 
 9
 
-LLuupppp ii sskkoollaann..iinndddd 99                            22001188--0033--1166 0088::5566::2266
+LLuupppp ii sskkoollaann..iinndddd 99                           22001188--0033--1166 0088::5566::2266
 
 <!-- sida 22 -->
 
 Välj enkätfrågor att arbeta med under lektionen
 
-Med kursplanen för svenska som utgångspunkt Om du vill se hela enkäten med alla frågor och
-är det möjligt att använda alla olika frågor från svarsalternativ, se vår webbplats:
-Lupp-enkäten, dels i arbetet med ordförståelse www.mucf.se/ungdomsenkäten-lupp
-dels i olika diskussionsövningar. I denna hand- Frågorna är uppdelade efter område och alfabe-
-ledning har vi valt att lyfta fram några frågor för tisk ordning där B1 betyder att frågan är fråga ett
-varje tema eller område.    inom området fritid.
+Med kursplanen för svenska som utgångspunkt
+är det möjligt att använda alla olika frågor från
+Lupp-enkäten, dels i arbetet med ordförståelse
+dels i olika diskussionsövningar. I denna hand-
+ledning har vi valt att lyfta fram några frågor för
+varje tema eller område.
+
+Om du vill se hela enkäten med alla frågor och
+svarsalternativ, se vår webbplats:
+www.mucf.se/ungdomsenkäten-lupp
+Frågorna är uppdelade efter område och alfabe-
+tisk ordning där B1 betyder att frågan är fråga ett
+inom området fritid.
 
 Fritid
 B1. Hur mycket eller lite tycker du att det finns att göra på fritiden?
@@ -820,7 +958,7 @@ G3. Skulle du kunna tänka dig starta ett eget företag i framtiden?
 
 10
 
-LLuupppp ii sskkoollaann..iinndddd 1100                          22001188--0033--1166 0088::5566::2266
+LLuupppp ii sskkoollaann..iinndddd 1100                         22001188--0033--1166 0088::5566::2266
 
 <!-- sida 23 -->
 
@@ -856,29 +994,52 @@ LLuupppp ii sskkoollaann..iinndddd 1111                          22001188--0033-
 
 Gör så här:
 
-1\. Rita upp en stor ruta på tavlan 4. Skriv efter ett tag upp Det här
-och skriv upp det begrepp eller är inte politik utanför rutan. Låt
-område ni ska diskutera, exem- eleverna brainstorma om vad som
-pelvis politik. Be eleverna brain- inte är politik. Skriv upp allt som
-storma om vad som är politik. kommer från eleverna utanför ru-
-Låt eleverna fritt ta ordet, och på- tan.
+1\. Rita upp en stor ruta på tavlan
+och skriv upp det begrepp eller
+område ni ska diskutera, exem-
+pelvis politik. Be eleverna brain-
+storma om vad som är politik.
+Låt eleverna fritt ta ordet, och på-
 minn dem om att de ska försöka
-att inte analysera det de har tänkt 5. Du kan låta eleverna brainstor-
-säga innan de säger det. Ingen i ma klart först och sedan diskutera
-gruppen får uttrycka sig negativt vad som kommit upp på tavlan,
-om det någon annan säger. Man eller ha en pågående diskussion
-argumenterar för sin sak, inte mot medan eleverna kommer med för-
-någon annans.      slag.
+att inte analysera det de har tänkt
+säga innan de säger det. Ingen i
+gruppen får uttrycka sig negativt
+om det någon annan säger. Man
+argumenterar för sin sak, inte mot
+någon annans.
 
-2\. Om eleverna har svårt att kom- 6. Utifrån de förslag som finns på
-ma igång, låt dem sitta två och två tavlan kan du inleda en diskus-
-i bikupor och diskutera sinsemel- sion om vad som hamnade var.
-lan vad som är politik, innan den Påminn om att är det är okej och
-gemensamma brainstormingen även bra att ändra åsikt om man
-startar.           upptäcker en bättre idé. Du kan
-använda egna frågor eller utgå
-3\. Skriv upp allt som kommer från frågorna nedan.
+2\. Om eleverna har svårt att kom-
+ma igång, låt dem sitta två och två
+i bikupor och diskutera sinsemel-
+lan vad som är politik, innan den
+gemensamma brainstormingen
+startar.
+
+3\. Skriv upp allt som kommer
 från deltagarna i rutan på tavlan.
+
+4\. Skriv efter ett tag upp Det här
+är inte politik utanför rutan. Låt
+eleverna brainstorma om vad som
+inte är politik. Skriv upp allt som
+kommer från eleverna utanför ru-
+tan.
+
+5\. Du kan låta eleverna brainstor-
+ma klart först och sedan diskutera
+vad som kommit upp på tavlan,
+eller ha en pågående diskussion
+medan eleverna kommer med för-
+slag.
+
+6\. Utifrån de förslag som finns på
+tavlan kan du inleda en diskus-
+sion om vad som hamnade var.
+Påminn om att är det är okej och
+även bra att ändra åsikt om man
+upptäcker en bättre idé. Du kan
+använda egna frågor eller utgå
+från frågorna nedan.
 
 Håller alla med om vad som hamnade vid begreppet politik och vad
 som hamnade vid Det här är inte politik?
@@ -895,21 +1056,41 @@ ner sina förslag på och sedan sätta upp direkt på tavlan, i rutan eller utan
 
 12
 
-LLuupppp ii sskkoollaann..iinndddd 1122                          22001188--0033--1166 0088::5566::2277
+LLuupppp ii sskkoollaann..iinndddd 1122                         22001188--0033--1166 0088::5566::2277
 
 <!-- sida 25 -->
+
+HHeettaa ssttoolleenn ––
+vväärrddeerriinnggssöövvnniinngg
+
+TTiidd:: 2200 mmiinn
+
+MMaatteerriiaall:: SSttoollaarr ppllaacceerraaddee
+ii eenn rriinngg
+
+Gör så här:
+
+Förbered övningen genom att placera stolarna i
+en ring. En stol lämnas tom när alla har satt sig.
+Du som leder övningen, läs upp påståendena ett
+efter ett. De som inte håller med sitter kvar på
+sina stolar medan de som håller med ställer sig
+upp och byter stol med någon annan som också
+ställde sig upp. Om det bara är en person som re-
+ser sig byter hen till den tomma stolen. Låt några
+medverkande berätta hur de tänkte (både de som
+ställde sig upp och de som valde att sitta kvar)
+innan ni går vidare med nästa påstående. Kom
+ihåg att det inte finns några rätt eller fel!
 
 Heta stolen är en värderingsövning som låter
 eleven reflektera och diskutera utifrån ett antal
 påståenden som klassen får ta ställning till sittan-
 de i en ring. Eleven får även öva sig i att motivera
 sina åsikter (United sisters, 2013).
-HHeettaa ssttoolleenn ––
-vväärrddeerriinnggssöövvnniinngg
 
-TTiidd:: 2200 mmiinn
-MMaatteerriiaall:: SSttoollaarr ppllaacceerraaddee Förslag på påståenden
-ii eenn rriinngg             – Jag känner mig trygg i mitt bostadsområde.
+Förslag på påståenden
+– Jag känner mig trygg i mitt bostadsområde.
 – Jag vet vart jag ska vända mig om jag vill för-
 ändra något i min kommun.
 – Jag känner att jag som elev kan påverka min
@@ -917,23 +1098,22 @@ skolgång.
 – I min skola har alla elever lika rättigheter.
 Skiljer det sig mellan årskurser och i kön?
 – Jag känner tilltro till samhället och de som
-Gör så här:
 bestämmer i min kommun.
 – Det är bara äldre människor som engagerar
-Förbered övningen genom att placera stolarna i sig i politiska frågor.
-en ring. En stol lämnas tom när alla har satt sig. – På min fritid finns det mycket för mig att välja
-Du som leder övningen, läs upp påståendena ett mellan att göra.
-efter ett. De som inte håller med sitter kvar på – Jag vet vad jag vill göra när jag är vuxen.
-sina stolar medan de som håller med ställer sig
-upp och byter stol med någon annan som också
+sig i politiska frågor.
+– På min fritid finns det mycket för mig att välja
+mellan att göra.
+– Jag vet vad jag vill göra när jag är vuxen.
+
 Att tänka på!
-ställde sig upp. Om det bara är en person som re- Ingen ska behöva delta om en övning känns obe-
-ser sig byter hen till den tomma stolen. Låt några kväm. Se till att eleverna vet att de kan avstå. Det
-medverkande berätta hur de tänkte (både de som är upp till dig som leder övningen att avgöra om
-ställde sig upp och de som valde att sitta kvar) övningen fungerar i gruppen. Ingen i gruppen får
-innan ni går vidare med nästa påstående. Kom uttrycka sig negativt om det någon annan säger.
-ihåg att det inte finns några rätt eller fel! Man argumenterar för sin sak, inte mot någon an-
+Ingen ska behöva delta om en övning känns obe-
+kväm. Se till att eleverna vet att de kan avstå. Det
+är upp till dig som leder övningen att avgöra om
+övningen fungerar i gruppen. Ingen i gruppen får
+uttrycka sig negativt om det någon annan säger.
+Man argumenterar för sin sak, inte mot någon an-
 nans.
+
 Tips: Börja gärna denna övning med några test-påståenden som är neutrala.
 Till exempel:
 – Jag har hellre fler läxor än prov. – Frukt är godis.
@@ -942,11 +1122,11 @@ till maten.
 
 13
 
-LLuupppp ii sskkoollaann..iinndddd 1133                          22001188--0033--1166 0088::5566::2288
+LLuupppp ii sskkoollaann..iinndddd 1133                         22001188--0033--1166 0088::5566::2288
 
 <!-- sida 26 -->
 
-Lupp   i ämnet     samhällskunskap
+Lupp    i ämnet    samhällskunskap
 
 Detta kapitel handlar om hur Lupp-enkätens innehåll kan användas i ämnet samhällskun-
 skap. Även här redogör vi först för kursplanens centrala innehåll för att ge en klar bild av
@@ -954,69 +1134,100 @@ vad från kursplanen som går att koppla samman med Lupp-enkätens innehåll. H�
 också flera exempel på övningar som både kan användas i grundskola och på gymnasie-
 nivå. Liksom i ämnet svenska kan övningarna kopplas till de flesta av enkätens områden.
 
-Centralt   innehåll   i samhällskunskap
+Centralt   innehåll    i samhällskunskap
 
 årskurs 7–9 (grundskola)
 
-I ämnet samhällskunskap för årskurs 7–9 ska landsting och kommuner, samt var olika beslut
-eleven få förståelse för och kunskap om ungdo- fattas och hur de påverkar individer, grupper och
-mars identiteter, livsstilar och välbefinnande och samhället i stort, liksom kunskap om Sveriges
-hur detta påverkas av till exempel socioekono- grundlagar. Ämnet ska även ta upp individers och
-misk bakgrund, kön och sexuell läggning. Eleven gruppers möjligheter att påverka beslut och sam-
-ska även få kunskap om Sveriges politiska sys- hällsutveckling samt hur man inom ramen för
-tem med Europeiska unionen, riksdag, regering, den demokratiska processen kan påverka beslut.
+I ämnet samhällskunskap för årskurs 7–9 ska
+eleven få förståelse för och kunskap om ungdo-
+mars identiteter, livsstilar och välbefinnande och
+hur detta påverkas av till exempel socioekono-
+misk bakgrund, kön och sexuell läggning. Eleven
+ska även få kunskap om Sveriges politiska sys-
+tem med Europeiska unionen, riksdag, regering,
+
+landsting och kommuner, samt var olika beslut
+fattas och hur de påverkar individer, grupper och
+samhället i stort, liksom kunskap om Sveriges
+grundlagar. Ämnet ska även ta upp individers och
+gruppers möjligheter att påverka beslut och sam-
+hällsutveckling samt hur man inom ramen för
+den demokratiska processen kan påverka beslut.
+
 Källa: Skolverkets kursplan 2011 (reviderad 2016) i ämnet samhällskunskap (grundskola).
 
-Centralt  innehåll   i kursen   Samhällskunskap       1
+Centralt   innehåll  i kursen   Samhällskunskap        1
 
 årskurs 1–3 (gymnasium)
 
-I kursen samhällskunskap 1 på gymnasiet ska sive barns och ungdomars rättigheter i enlighet
-eleverna få förutsättningar för att utveckla kun- med Barnkonventionen samt om medborgarnas
-skaper om människors livsvillkor i samhället. möjligheter att påverka politiska beslut på de
-Undervisningen ska behandla gruppers och in- olika nivåerna. Eleverna ska även få utveckla ett
-dividers identitet, relationer och sociala livsvill- vetenskapligt förhållningssätt till samhällsfrågor
-kor med utgångspunkt i att människor grupperas och en förståelse av det vetenskapliga arbetet med
-utifrån kategorier som skapar både gemenskap samhällsfrågor. Kursen ska ta upp olika metoder
-och utanförskap. Eleverna ska ges möjlighet att för att samla in och bearbeta information. Den ska
-utveckla kunskaper om frågor som berör makt, även bidra till att skapa förutsättningar för ett ak-
-demokrati, jämställdhet, privat- och samhälls- tivt deltagande i samhällslivet.
+I kursen samhällskunskap 1 på gymnasiet ska
+eleverna få förutsättningar för att utveckla kun-
+skaper om människors livsvillkor i samhället.
+Undervisningen ska behandla gruppers och in-
+dividers identitet, relationer och sociala livsvill-
+kor med utgångspunkt i att människor grupperas
+utifrån kategorier som skapar både gemenskap
+och utanförskap. Eleverna ska ges möjlighet att
+utveckla kunskaper om frågor som berör makt,
+demokrati, jämställdhet, privat- och samhälls-
 ekonomi och de mänskliga rättigheterna, inklu-
+
+sive barns och ungdomars rättigheter i enlighet
+med Barnkonventionen samt om medborgarnas
+möjligheter att påverka politiska beslut på de
+olika nivåerna. Eleverna ska även få utveckla ett
+vetenskapligt förhållningssätt till samhällsfrågor
+och en förståelse av det vetenskapliga arbetet med
+samhällsfrågor. Kursen ska ta upp olika metoder
+för att samla in och bearbeta information. Den ska
+även bidra till att skapa förutsättningar för ett ak-
+tivt deltagande i samhällslivet.
+
 Källa: Skolverkets kursplan 2011 (reviderad 2016) för kurserna Samhällskunskap 1a och 1b
 (gymnasieskola).
 
 14
 
-LLuupppp ii sskkoollaann..iinndddd 1144                          22001188--0033--1166 0088::5566::2288
+LLuupppp ii sskkoollaann..iinndddd 1144                         22001188--0033--1166 0088::5566::2288
 
 <!-- sida 27 -->
 
 Förberedelser
 
-Innan vi går vidare till avsnittet där valet av öv- Låt sedan valet av tema vägleda vilka enkätfrågor
-ningar presenteras, ska vi lägga fokus på valet av och diskussionsfrågor ni använder under lektio-
-tema till lektionsupplägget samt vilka frågor från nen. Ämnet svenska har bland annat ett fokus på
-enkäten som kan passa.      att utveckla elevens ordförståelse och kunskap i
+Innan vi går vidare till avsnittet där valet av öv-
+ningar presenteras, ska vi lägga fokus på valet av
+tema till lektionsupplägget samt vilka frågor från
+enkäten som kan passa.
+
+Välj tema för lektionen
+Börja med att välja ett tema till lektionsuppläg-
+get. Temat kan gärna motsvara ett område i Lupp-
+enkäten, exempelvis skola, fritid eller trygghet.
+
+Låt sedan valet av tema vägleda vilka enkätfrågor
+och diskussionsfrågor ni använder under lektio-
+nen. Ämnet svenska har bland annat ett fokus på
+att utveckla elevens ordförståelse och kunskap i
 att leda ett samtal och bemöta argument. I nästa
-Välj tema för lektionen     avsnitt ger vi exempel på frågor som kan passa
-Börja med att välja ett tema till lektionsuppläg- utifrån temat och kursplanerna för samhällskun-
-get. Temat kan gärna motsvara ett område i Lupp- skap. I början av lektionen kan det vara bra att
-enkäten, exempelvis skola, fritid eller trygghet. ha en kortare genomgång av ord och begrepp (se
+avsnitt ger vi exempel på frågor som kan passa
+utifrån temat och kursplanerna för samhällskun-
+skap. I början av lektionen kan det vara bra att
+ha en kortare genomgång av ord och begrepp (se
 Ordlista) som eleverna behöver förstå.
 
-Du                                          Politik
+Du                                         Politik
 och din               Framtid               och sam-
 familj                                       hälle
 
 Välj ett
-Arbete                                     Trygghet
+Arbete                                      Trygghet
 tema
 
-Fritid                 Skola                 Hälsa
+Fritid                Skola                  Hälsa
 
 15
 
-LLuupppp ii sskkoollaann..iinndddd 1155                          22001188--0033--1166 0088::5566::2288
+LLuupppp ii sskkoollaann..iinndddd 1155                         22001188--0033--1166 0088::5566::2288
 
 <!-- sida 28 -->
 
@@ -1075,28 +1286,70 @@ skola och temat politik och samhälle.
 Gör så här:
 
 Praktisk del:
-• Se till att ha gott om plats där övningen ska Fråga 1: Känner du till vilka rättigheter
-göras och att det tydligt går att bilda fyra hörn. du har enligt Barnkonventionen?
+• Se till att ha gott om plats där övningen ska
+göras och att det tydligt går att bilda fyra hörn.
 
-• Börja övningen med att låta eleverna röra sig i a. Nej, jag vet inte alls vad barnkonventionen
-rummet och ta ställning till två frågor som rör. är för något.
+• Börja övningen med att låta eleverna röra sig i
+rummet och ta ställning till två frågor som rör.
 
-• Läs upp frågorna en och en och låt varje b. Nej, jag känner inte till rättigheterna i barn-
-hörn motsvara ett svar på varje fråga. konventionen.
+• Läs upp frågorna en och en och låt varje
+hörn motsvara ett svar på varje fråga.
 
-• Är det svårt för gruppen att komma ihåg c. Ja, jag känner till rättigheterna i barnkon-
-de olika svarsalternativen? Skriv dem på ventionen – men vet inte vad de innebär för
-lappar och sätt dem i respektive hörn. mig i praktiken.
+• Är det svårt för gruppen att komma ihåg
+de olika svarsalternativen? Skriv dem på
+lappar och sätt dem i respektive hörn.
 
-• Uppmana deltagarna att var och en ställa sig d. Ja, jag känner till rättigheterna i barnkonven-
-i det hörn som representerar deras åsikt bäst. tionen – och vet vad de kan innebära för mig
+• Uppmana deltagarna att var och en ställa sig
+i det hörn som representerar deras åsikt bäst.
+
+Fråga 1: Känner du till vilka rättigheter
+du har enligt Barnkonventionen?
+
+a. Nej, jag vet inte alls vad barnkonventionen
+är för något.
+
+b. Nej, jag känner inte till rättigheterna i barn-
+konventionen.
+
+c. Ja, jag känner till rättigheterna i barnkon-
+ventionen – men vet inte vad de innebär för
+mig i praktiken.
+
+d. Ja, jag känner till rättigheterna i barnkonven-
+tionen – och vet vad de kan innebära för mig
 i praktiken.
 
 17
 
-LLuupppp ii sskkoollaann..iinndddd 1177                          22001188--0033--1166 0088::5566::2288
+LLuupppp ii sskkoollaann..iinndddd 1177                         22001188--0033--1166 0088::5566::2288
 
 <!-- sida 30 -->
+
+Fråga 2: Tror du vuxna i allmänhet känner
+till barnets rättigheter enligt barnkon-
+ventionen?
+
+a. Nej, jag tror att de flesta vuxna inte vet vad
+barnkonventionen är för något.
+
+b. Nej, jag tror att de flesta vuxna inte känner
+till barnets rättigheter i barnkonventionen.
+
+c. Ja, jag tror att de flesta vuxna känner till
+barnets rättigheter i barnkonventionen –
+men inte bryr sig så mycket om dem.
+
+d. Ja, jag tror att de flesta vuxna känner till
+barnets rättigheter i barnkonventionen – och
+försöker ta hänsyn till dem.
+
+Efter varje fråga, låt deltagarna berätta varför de
+ställt sig i ett specifikt hörn. Är det något hörn
+som endast en deltagare valt att ställa sig? Då kan
+du som leder övningen gärna ställa dig i samma
+hörn, för att minska den utsatta positionen.
+
+LLuupppp ii sskkoollaann..iinndddd 1188
 
 Teoretisk del:
 Efter att du har frågat deltagarna om deras upp-
@@ -1116,33 +1369,23 @@ främsta rummet vid alla beslut som rör barn. Men
 vad är barnets bästa?
 – Vad skulle det innebära om Barnkonventionen
 blev till lag?
-Fråga 2: Tror du vuxna i allmänhet känner – Vilka artiklar ur konventionen anser du är extra
-till barnets rättigheter enligt barnkon- viktiga för just dig?
-ventionen?                  – Hur kan vi i klassrummet och i skolan använda
+– Vilka artiklar ur konventionen anser du är extra
+viktiga för just dig?
+– Hur kan vi i klassrummet och i skolan använda
 oss av Barnkonventionen? Gör vi det idag?
-a. Nej, jag tror att de flesta vuxna inte vet vad
-barnkonventionen är för något.
+
 Att tänka på:
 Ingen ska behöva delta om en övning känns obe-
-b. Nej, jag tror att de flesta vuxna inte känner kväm. Se till att eleverna vet att de kan avstå. Det
-till barnets rättigheter i barnkonventionen. är upp till dig som leder övningen att avgöra om
+kväm. Se till att eleverna vet att de kan avstå. Det
+är upp till dig som leder övningen att avgöra om
 övningen fungerar i gruppen. Ingen i gruppen får
-c. Ja, jag tror att de flesta vuxna känner till uttrycka sig negativt om det någon annan säger.
-barnets rättigheter i barnkonventionen – Man argumenterar för sin sak, inte mot någon an-
-men inte bryr sig så mycket om dem. nans.
-d. Ja, jag tror att de flesta vuxna känner till
-barnets rättigheter i barnkonventionen – och
-försöker ta hänsyn till dem.
-
-Efter varje fråga, låt deltagarna berätta varför de
-ställt sig i ett specifikt hörn. Är det något hörn
-som endast en deltagare valt att ställa sig? Då kan
-du som leder övningen gärna ställa dig i samma
-hörn, för att minska den utsatta positionen.
+uttrycka sig negativt om det någon annan säger.
+Man argumenterar för sin sak, inte mot någon an-
+nans.
 
 18
 
-LLuupppp ii sskkoollaann..iinndddd 1188                          22001188--0033--1166 0088::5566::2288
+22001188--0033--1166 0088::5566::2288
 
 <!-- sida 31 -->
 
@@ -1160,117 +1403,120 @@ på flera sätt än genom sin rösträtt. Övningen pas-
 sar särskilt bra för temat politik och samhälle.
 Om er kommun använder sig av medborgarför-
 slag eller inte kan variera., så ta först reda på vad
-som gäller i er kommun. Förklara sedan för klas- tänker, och är samtidigt en inflytandeform som är
-sen hur medborgarförslag funkar och vad syftet lagstyrd. Det innebär att du som är folkbokförd i
-med övningen är. Klassen kan få välja att endast kommunen eller i en kommun inom landstinget
-göra detta som en övning eller att skapa ett riktigt får, om fullmäktige har beslutat det, väcka ären-
-medborgarförslag, alltså ett politiskt ärende som den i fullmäktige (Kommunlagen 8 kap § 1).
+som gäller i er kommun. Förklara sedan för klas-
+sen hur medborgarförslag funkar och vad syftet
+med övningen är. Klassen kan få välja att endast
+göra detta som en övning eller att skapa ett riktigt
+medborgarförslag, alltså ett politiskt ärende som
 de skickar till era kommunala beslutfattare.
-Denna övning kan du koppla
-Vad är ett medborgarförslag? till följande enkätfrågor om
-”1 § Den som är folkbokförd i kommunen Politik och samhälle:
-eller i en kommun inom landstinget får, D3. Vilka möjligheter har du att föra fram dina
-om fullmäktige har beslutat det, väcka åsikter till dem som bestämmer i kommunen?
+
+Vad är ett medborgarförslag?
+”1 § Den som är folkbokförd i kommunen
+eller i en kommun inom landstinget får,
+om fullmäktige har beslutat det, väcka
 ärenden i fullmäktige (medborgarför-
-slag). Detsamma gäller unionsmedbor- D4. Vill du vara med och på-
-gare som avses i 1 kap. 5 § andra stycket.” verka i frågor i din kommun?
+slag). Detsamma gäller unionsmedbor-
+gare som avses i 1 kap. 5 § andra stycket.”
 Källa: Kommunallagen
-8 kap § 1 (1990:900) D4b. Till vem eller vart vänder du dig om du
-skulle vilja påverka något i din kommun?
+8 kap § 1 (1990:900)
+
 I Sveriges kommuner finns flera sätt för alla
-kommuninvånare att påverka framtida beslut. Ett Att tänka på:
-av dem är att skriva ett medborgarförslag. Alla Denna övning kan ta tid. Om det behövs kan du
-som är folkbokförda i en kommun kan lämna ett korta ner den genom att endast göra övningen till
-sådant förslag till sin hemkommun eller lands- och med punkt 3. Vill klassen fortsätta och göra
-ting. Medborgarförslaget kan vara en idé eller ett ett eller flera medborgarförslag? Gå vidare till
-förslag till förändring som rör hela kommunen. punkt 6 om ni har tid, eller diskutera med elever-
-Förslaget kan hjälpa kommunens politiker att nas lärare om de kan få fortsätta vid någon senare
-lättare veta vad kommunens invånare tycker och lektion.
+kommuninvånare att påverka framtida beslut. Ett
+av dem är att skriva ett medborgarförslag. Alla
+som är folkbokförda i en kommun kan lämna ett
+sådant förslag till sin hemkommun eller lands-
+ting. Medborgarförslaget kan vara en idé eller ett
+förslag till förändring som rör hela kommunen.
+Förslaget kan hjälpa kommunens politiker att
+lättare veta vad kommunens invånare tycker och
+
+tänker, och är samtidigt en inflytandeform som är
+lagstyrd. Det innebär att du som är folkbokförd i
+kommunen eller i en kommun inom landstinget
+får, om fullmäktige har beslutat det, väcka ären-
+den i fullmäktige (Kommunlagen 8 kap § 1).
+
+Denna övning kan du koppla
+till följande enkätfrågor om
+Politik och samhälle:
+D3. Vilka möjligheter har du att föra fram dina
+åsikter till dem som bestämmer i kommunen?
+
+D4. Vill du vara med och på-
+verka i frågor i din kommun?
+
+D4b. Till vem eller vart vänder du dig om du
+skulle vilja påverka något i din kommun?
+
+Att tänka på:
+Denna övning kan ta tid. Om det behövs kan du
+korta ner den genom att endast göra övningen till
+och med punkt 3. Vill klassen fortsätta och göra
+ett eller flera medborgarförslag? Gå vidare till
+punkt 6 om ni har tid, eller diskutera med elever-
+nas lärare om de kan få fortsätta vid någon senare
+lektion.
 
 19
 
-LLuupppp ii sskkoollaann..iinndddd 1199                          22001188--0033--1166 0088::5566::2299
+LLuupppp ii sskkoollaann..iinndddd 1199                         22001188--0033--1166 0088::5566::2299
 
 <!-- sida 32 -->
 
 Gör så här:
 
-1\. Börja med att ge varje elev ett antal post-it- 5. Ta nu de lappar som fått flest klistermärken
-lappar och tre klistermärken. Be varje elev kort efter omgång två. Dela in klassen i lika många
-skriva ner idéer som de vill förverkliga i sin kom- grupper som det finns lappar. Fördela lapparna,
-mun. Till exempel gratis buss inom kommunen, en till varje grupp. Låt varje grupp försöka for-
-fler öppna fritidsverksamheter, fler inflytande-fo- mulera ett medborgarförslag utifrån förslaget på
-rum för unga eller bättre mat i skolan. Det finns sin lapp. Var noga med att ge tydliga instruktioner
-ingen gräns för hur många idéer de skriver ner. om vad som krävs av ett medborgarförslag i er
-Avbryt efter 5–10 minuter.  kommun.
+1\. Börja med att ge varje elev ett antal post-it-
+lappar och tre klistermärken. Be varje elev kort
+skriva ner idéer som de vill förverkliga i sin kom-
+mun. Till exempel gratis buss inom kommunen,
+fler öppna fritidsverksamheter, fler inflytande-fo-
+rum för unga eller bättre mat i skolan. Det finns
+ingen gräns för hur många idéer de skriver ner.
+Avbryt efter 5–10 minuter.
 
-2\. Låt eleverna sätta upp alla post-it-lappar på 6. Låt varje grupp redovisa sitt förslag. Låt klas-
-tavlan så att hela klassen kan ta del av förslagen. sen tillsammans bestämma om de vill skicka in
-Sortera bort de förslag som är likadana. Be sedan ett eller flera förslag till kommunen för vidare
-alla elever att markera de tre förslag som de gil- handläggning.
+2\. Låt eleverna sätta upp alla post-it-lappar på
+tavlan så att hela klassen kan ta del av förslagen.
+Sortera bort de förslag som är likadana. Be sedan
+alla elever att markera de tre förslag som de gil-
 lar bäst genom att sätta sina klistermärken på de
 lapparna.
 
 3\. Dela upp post-it-lapparna i två grupper så att
 de förslag som fått flest klistermärken sitter på
-B
-e
-a
-n
-n
-a
-d r
-s
-a
-i d
-s
-a
-id
-n
-a
-a
-n
-v
-. H
-ta
-u
-v
-r
-la
-b
-n
-l e
-o
-v
-c h
-re
-d
-s
-e
-u l
-a
-t
-n
-at
-d
-e
-r
-t
-a
-?
-förslagen på den
-ästa
-förslaget
+ena sidan av tavlan och de andra förslagen på den
+andra sidan. Hur blev resultatet?
+
 4\. Ge eleverna ytterligare två klistermärken var.
 Ta nu de lappar som fått flest klistermärken och
 låt alla elever markera två av dessa förslag med
 sina klistermärken. Vilka förslag markerar elev-
 erna?
+
+5\. Ta nu de lappar som fått flest klistermärken
+efter omgång två. Dela in klassen i lika många
+grupper som det finns lappar. Fördela lapparna,
+en till varje grupp. Låt varje grupp försöka for-
+mulera ett medborgarförslag utifrån förslaget på
+sin lapp. Var noga med att ge tydliga instruktioner
+om vad som krävs av ett medborgarförslag i er
+kommun.
+
+6\. Låt varje grupp redovisa sitt förslag. Låt klas-
+sen tillsammans bestämma om de vill skicka in
+ett eller flera förslag till kommunen för vidare
+handläggning.
+
+B
+ästa
+förslaget
+
 Tips! Sortera in förslagen, med hjälp utav klassen, i å ena sidan sådana
 förslag som rör skolan och som går att påverka genom elevråd och klassråd,
 och å andra sidan sådana förslag som kräver ett kommunalt politiskt beslut.
+
 20
-LLuupppp ii sskkoollaann..iinndddd 2200                          22001188--0033--1166 0088::5566::2299
+
+LLuupppp ii sskkoollaann..iinndddd 2200                         22001188--0033--1166 0088::5566::2299
 
 <!-- sida 33 -->
 
@@ -1280,24 +1526,35 @@ Tid: 60–75 min
 Material: A4-papper i olika färger (en färg för varje område),
 Sax, tejp och penna, ett vitt A3-papper.
 
-Hur mycket pengar har en kommun och hur för- Vad är en medborgarbudget?
-delas pengarna på skola, sjukvård och fritid? Medborgarbudget är ett samlingsbegrepp för mo-
-Denna övning ger eleven kunskap och förstå- deller där medborgare involveras i prioriteringar
-else för hur den lokala samhällsekonomin kan se av de gemensamma resurserna. Medborgarbud-
-ut i en kommun. Eleven får möjlighet att själv get används i alla världsdelar, framförallt av
-bestämma hur mycket pengar som ska användas kommuner men även på regional nivå. Metoden
-till olika områden, som vård och omsorg eller medborgarbudget ökar medborgarnas engage-
-grundskola. Övningen kan göras i flera steg, och mang och stärker den sociala sammanhållningen.
-du som leder övningen bestämmer hur fördjupad (Medborgarbudget i Sverige, Europa och värl-
-den ska vara. Det är även möjligt att hålla en lek- den, SKL 2012).
+Hur mycket pengar har en kommun och hur för-
+delas pengarna på skola, sjukvård och fritid?
+Denna övning ger eleven kunskap och förstå-
+else för hur den lokala samhällsekonomin kan se
+ut i en kommun. Eleven får möjlighet att själv
+bestämma hur mycket pengar som ska användas
+till olika områden, som vård och omsorg eller
+grundskola. Övningen kan göras i flera steg, och
+du som leder övningen bestämmer hur fördjupad
+den ska vara. Det är även möjligt att hålla en lek-
 tion där du endast berättar om hur kommunens
 ekonomi ser ut och hur mycket pengar som läggs
 på respektive område, utan att göra själva öv-
 ningen.
 
+Vad är en medborgarbudget?
+Medborgarbudget är ett samlingsbegrepp för mo-
+deller där medborgare involveras i prioriteringar
+av de gemensamma resurserna. Medborgarbud-
+get används i alla världsdelar, framförallt av
+kommuner men även på regional nivå. Metoden
+medborgarbudget ökar medborgarnas engage-
+mang och stärker den sociala sammanhållningen.
+(Medborgarbudget i Sverige, Europa och värl-
+den, SKL 2012).
+
 21
 
-LLuupppp ii sskkoollaann..iinndddd 2211                          22001188--0033--1166 0088::5566::3300
+LLuupppp ii sskkoollaann..iinndddd 2211                         22001188--0033--1166 0088::5566::3300
 
 <!-- sida 34 -->
 
@@ -1348,33 +1605,51 @@ LLuupppp ii sskkoollaann..iinndddd 2222                          22001188--0033-
 
 <!-- sida 35 -->
 
-1\. Dela in klassen i fyra grupper (cirka fem–åtta delar pengarna på. Börja med att skriva ner alla
-personer per grupp). Låt varje grupp få ett A3- områden och underkategorier. Fundera sedan på
-papper och en bunt A4-papper i olika färger samt hur ni vill fördela era pengar.
+1\. Dela in klassen i fyra grupper (cirka fem–åtta
+personer per grupp). Låt varje grupp få ett A3-
+papper och en bunt A4-papper i olika färger samt
 penna, sax och klister eller tejp. Ge klassen ett
-dilemma:                     Exempel: 50 kr lägger jag på utbildning och
-Kommunen har en budget på 1 000 kr som ni förskola, varav 20 kr på grundskola och 10 kr
-valfritt får fördela på följande områden där varje vardera på förskola och gymnasium. Resterande
-område har en färg.         verksamheter inom utbildning och förskola får 0
-kr.
+dilemma:
+Kommunen har en budget på 1 000 kr som ni
+valfritt får fördela på följande områden där varje
+område har en färg.
+
 Omsorg och stöd
-2\. När varje grupp är nöjd med sin fördelning ska
-Utbildning och förskola   de illustrera den med hjälp av A4-papper som de
-Uppleva och göra          fäster på ett A3-papper.
-Låt varje A4-papper motsvara ett område. Klipp
+
+Utbildning och förskola
+Uppleva och göra
+
 Kommun, näringsliv och politik
-ut staplar ur pappren som motsvarar den del av
-Bo och leva               budgeten som gruppen fördelat på respektive
-område. Se stapeldiagram för exempel på hur
-Ni måste ge pengar till varje område men väljer budgetens fördelning kan se ut.
+Bo och leva
+
+Ni måste ge pengar till varje område men väljer
 själva hur mycket. Ni väljer också fritt vilka delar
 (underkategorier) inom varje område som ni för-
+
+delar pengarna på. Börja med att skriva ner alla
+områden och underkategorier. Fundera sedan på
+hur ni vill fördela era pengar.
+
+Exempel: 50 kr lägger jag på utbildning och
+förskola, varav 20 kr på grundskola och 10 kr
+vardera på förskola och gymnasium. Resterande
+verksamheter inom utbildning och förskola får 0
+kr.
+
+2\. När varje grupp är nöjd med sin fördelning ska
+de illustrera den med hjälp av A4-papper som de
+fäster på ett A3-papper.
+Låt varje A4-papper motsvara ett område. Klipp
+ut staplar ur pappren som motsvarar den del av
+budgeten som gruppen fördelat på respektive
+område. Se stapeldiagram för exempel på hur
+budgetens fördelning kan se ut.
 
 Diagram 1 – exempel på hur en budgetfördelning kan se ut.
 
 23
 
-LLuupppp ii sskkoollaann..iinndddd 2233                          22001188--0033--1166 0088::5566::3300
+LLuupppp ii sskkoollaann..iinndddd 2233                         22001188--0033--1166 0088::5566::3300
 
 <!-- sida 36 -->
 
@@ -1414,22 +1689,33 @@ LLuupppp ii sskkoollaann..iinndddd 2244                          22001188--0033-
 
 <!-- sida 37 -->
 
-Skapa       en    egen
+Skapa        en    egen
 
 lärarhandledning
 
-Lupp i skolan är ett exempel på hur Lupp- betet med att integrera ett ungdomsperspektiv?
-enkätens innehåll kan användas i skolan och Eller har skolan redan planerat in att diskutera
-kopplas till kursplanen för olika ämnen. Använd Barnkonventionen vid FN-dagen? Det kan
-gärna skriften som en inspiration om er kom- också vara ett bra tillfälle att i undervisningen
-mun vill ta fram en egen lärarhandledning eller ta upp frågor om ungas delaktighet och infly-
-en metod för kommunens Lupp-samordnare. tande. Samla gärna in idéer från denna skrift
-Kanske har er kommun beslutat om en årlig men även från omvärlden för att skapa just er
-demokrativecka eller demokratidag där bland metod att arbeta utifrån. I detta kapitel har vi
-annat ungas levnadsvillkor diskuteras och där samlat ett par exempel på hur andra kommuner
-det finns en naturlig ingång för det lokala ar- har gjort för att arbeta med Lupp i skolan.
+Lupp i skolan är ett exempel på hur Lupp-
+enkätens innehåll kan användas i skolan och
+kopplas till kursplanen för olika ämnen. Använd
+gärna skriften som en inspiration om er kom-
+mun vill ta fram en egen lärarhandledning eller
+en metod för kommunens Lupp-samordnare.
+Kanske har er kommun beslutat om en årlig
+demokrativecka eller demokratidag där bland
+annat ungas levnadsvillkor diskuteras och där
+det finns en naturlig ingång för det lokala ar-
 
-Hur   har  kommuner        tidigare
+betet med att integrera ett ungdomsperspektiv?
+Eller har skolan redan planerat in att diskutera
+Barnkonventionen vid FN-dagen? Det kan
+också vara ett bra tillfälle att i undervisningen
+ta upp frågor om ungas delaktighet och infly-
+tande. Samla gärna in idéer från denna skrift
+men även från omvärlden för att skapa just er
+metod att arbeta utifrån. I detta kapitel har vi
+samlat ett par exempel på hur andra kommuner
+har gjort för att arbeta med Lupp i skolan.
+
+Hur   har   kommuner       tidigare
 
 använt    Lupp    i undervisningen?
 
@@ -1444,25 +1730,43 @@ Några kommuner har även skrivit liknande hand-
 
 25
 
-LLuupppp ii sskkoollaann..iinndddd 2255                          22001188--0033--1166 0088::5566::3300
+LLuupppp ii sskkoollaann..iinndddd 2255                         22001188--0033--1166 0088::5566::3300
 
 <!-- sida 38 -->
 
-Lärarhandledning            Kommunkunskap
-– Ale och Mora kommun       – Haparanda stad
-Ale och Mora kommun har båda tagit fram en David Jordansson, före detta ungdomssamordna-
-lärarhandledning för lokal uppföljning av ung- re i Haparanda stad, tog tidigt i Lupp-processen
-domspolitiken. Dessa handledningar utgår från kontakt med kommunens barn- och utbildnings-
-Lupp-enkätens frågor och handlar om hur lärare förvaltning och skolor för att undersöka vilka
-kan använda enkätens innehåll i ämnena svens- möjligheter till kontakt som fanns med eleverna,
-ka, samhällskunskap, idrott & hälsa, matematik, under lektionstid.
+Lärarhandledning
+– Ale och Mora kommun
+Ale och Mora kommun har båda tagit fram en
+lärarhandledning för lokal uppföljning av ung-
+domspolitiken. Dessa handledningar utgår från
+Lupp-enkätens frågor och handlar om hur lärare
+kan använda enkätens innehåll i ämnena svens-
+ka, samhällskunskap, idrott & hälsa, matematik,
 kemi/naturkunskap både inom grundskola och
-gymnasium. Moras lärarhandledning tar även ”Jag sökte i Skolverkets utbildningspla-
-upp återkoppling till politiken gällande hur man ner och såg ganska snabbt att Lupp ryms
-kan återkoppla Lupp-resultatet till politiken och i ämnet samhällskunskap och till viss del i
-hur ansvaret för Lupp-arbetet kan fördelas mel- svenska (bland annat läsförståelse – ord-
-lan skola, tjänstemän och politik (Mora kommun, definitioner och argumentationsteknik).”
-2012).                              (David Jordansson, före detta
+gymnasium. Moras lärarhandledning tar även
+upp återkoppling till politiken gällande hur man
+kan återkoppla Lupp-resultatet till politiken och
+hur ansvaret för Lupp-arbetet kan fördelas mel-
+lan skola, tjänstemän och politik (Mora kommun,
+2012).
+
+LLuupppp ii sskkoollaann..iinndddd 2266
+
+Kommunkunskap
+– Haparanda stad
+David Jordansson, före detta ungdomssamordna-
+re i Haparanda stad, tog tidigt i Lupp-processen
+kontakt med kommunens barn- och utbildnings-
+förvaltning och skolor för att undersöka vilka
+möjligheter till kontakt som fanns med eleverna,
+under lektionstid.
+
+”Jag sökte i Skolverkets utbildningspla-
+ner och såg ganska snabbt att Lupp ryms
+i ämnet samhällskunskap och till viss del i
+svenska (bland annat läsförståelse – ord-
+definitioner och argumentationsteknik).”
+(David Jordansson, före detta
 ungdomssamordnare, Haparanda stad)
 
 Utifrån skolans kursplaner skapade David lek-
@@ -1482,7 +1786,7 @@ lärare och elever.
 
 26
 
-LLuupppp ii sskkoollaann..iinndddd 2266                          22001188--0033--1166 0088::5566::3311
+22001188--0033--1166 0088::5566::3311
 
 <!-- sida 39 -->
 
@@ -3798,15 +4102,15 @@ bosatta i Särö/Kullavik ska tolkas försiktigt utifrån låg 0
 svarsfrekvens i gruppen.             Åk8           Gy2
 Resultat från Lupp 2020, Kungsbacka kommun
 
-Elevinflytande                    Vad jag får lära mig     67 26
+Elevinflytande                    Vad jag får lära mig 26  67      Vill
 Arbetsformer\*            81
-–vad eleverna villoch upplever att de får            36
+–vad eleverna villoch upplever att de får            36            Får
 Läxorna             73
 18
 vara med och bestämma om i skolan
 Proven             71
 19
-Schemat              72
+Åk8     Schemat              72
 12
 Maten               76
 10
@@ -3818,41 +4122,31 @@ Skolmiljön ute     52
 28
 Vad jag får lära mig      72
 27
-Arbetsformer\*             89
+Enkätfrågor: Hur mycket eller lite villdu som elev Arbetsformer\* 89
 51
-Läxorna               83
-28
-Proven                83
-31
-Schemat               77
-14
-Maten               78
-9
-Skolans ”regler”    56 28
-Skolmiljön inne       62
-28
-Skolmiljön ute   44
-19
-0  20  40  60  80  100
-Resultat från Lupp 2020, Kungsbacka kommun
-8kÅ
-2yG
-Vill
-Får
-Åk8
-Enkätfrågor: Hur mycket eller lite villdu som elev
 vara med och bestämma om följande? respektive
-Hur mycket eller lite upplever du att du som elev får
-vara med och bestämma när det gäller följande?
-Samma svarsalternativ för båda frågor: Väldigt lite/ Gy2
+Läxorna               83
+Hur mycket eller lite upplever du att du som elev får 28
+vara med och bestämma när det gäller följande? Proven         83
+31
+Samma svarsalternativ för båda frågor: Väldigt lite/ Gy2 Schemat 77
+14
 ingenting; Ganska lite; Ganska mycket; Väldigt
-mycket.
-\*Formulering i enkäten: Hur vi ska arbeta, till
-exempel grupparbete/projektarbete.
+Maten               78
+mycket.                                        9
+\*Formulering i enkäten: Hur vi ska arbeta, till Skolans ”regler” 28 56
+exempel grupparbete/projektarbete.  Skolmiljön inne       62
+28
 Resultaten visar andelen som svarat ganska eller
-väldigt mycket på respektive fråga, baserat på
-minst 1 060 svar i åk8 och 656 svar i gy2. Procent
+Skolmiljön ute   44
+väldigt mycket på respektive fråga, baserat på   19
+minst 1 060 svar i åk8 och 656 svar i gy2. Procent 0 20 40 60 80 100
+Resultat från Lupp 2020, Kungsbacka kommun
 42
+
+Gy2
+
+Åk8
 
 <!-- sida 87 -->
 
@@ -4496,39 +4790,37 @@ Resultat från Lupp 2020, Kungsbacka kommun
 
 <!-- sida 98 -->
 
+Självskattad  kunskap  i relation till uppfattning om de flesta vuxnas
+kunskap   om  barnets rättigheter i barnkonventionen
+
+Procent
 100
 7    6    8    10   9    10
-90 20 13 19 12 20 14 17 15 18
+90 20 13 19 12 20 14 17 15 18    Vet inte vad BK är
 80
 27 19 26  29
 70 19  19   19   21        23
-60   33   35   31
+60   33   35   31                Känner inte till
 50
 40 34  37   31   39 36 44 38 34 35
-30
+Känner till men bryr
+30                               sig inte så mycket
 47   47   47
 20
-10 27  25   30   23 27 22 27 25 26
-0
-
-Resultat från Lupp 2020, Kungsbacka kommun
-vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV vläjS anxuV
-Självskattad  kunskap  i relation till uppfattning om de flesta vuxnas
-kunskap   om  barnets rättigheter i barnkonventionen
-Procent
-Vet inte vad BK är
-Känner inte till
-Känner till men bryr
-sig inte så mycket
-Enkätfrågor: Känner du till vilka rättigheter du har enligt barnkonventionen? samt Tror du att vuxna i Känner till och
-allmänhet känner till barnets rättigheter enligt           försöker ta hänsyn
+E en n l k ig ä t t f b rå a g rn o k r: o K nv ä e n n n t e io r n d e u n t ? il l s v a i m lka t T r r ä o t r t i d gh u e a te tt r v d u u x n h a a r i 10 27 25 30 23 27 22 27 25 26 Känner till och
+allmänhet känner till barnets rättigheter enligt 0         försöker ta hänsyn
 barnkonventionen?
 För svarsalternativ, se föregående bilder.
 Resultaten baseras på minst 1 048 svar i åk8 och Åk8: Åk8: Åk8: Gy2: Gy2: Gy2:
 minst 678 svar i gy2.       Samtliga Tjejer Killar Samtliga Tjejer Killar
+Resultat från Lupp 2020, Kungsbacka kommun
+
 Egna   kunskaper    om  rättigheterna   i barnkonventionen
+
 2017, 2020
+
 2017     2020
+
 Procent
 100
 80
@@ -4548,6 +4840,30 @@ positiva svarsalternativen.            Åk8                Gy2
 Resultat från Lupp 2020, Kungsbacka kommun
 
 54
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
+
+Själv
+
+Vuxna
 
 <!-- sida 99 -->
 
@@ -6387,13 +6703,13 @@ Delfrågorna är rangordnade efter andelen av samtliga som
 svarat lite/mycket sämre.                Procent 0 20 40 60  80
 Resultat från Lupp 2020, Kungsbacka kommun
 Förändrad    livssituation
-Möjligheten till extrajobb  53 6
-på  grund   av                             Fritiden 11     40
+Möjligheten till extrajobb 6 53 Sämre
+på  grund   av                             Fritiden 11     40      Bättre
 Psykiska hälsan 24
 12
 Corona-pandemin                        Livet som helhet 23
 14
-Kompisumgänget  22
+Åk8    Kompisumgänget  22
 16
 Fysiska hälsan 17
 19
@@ -6407,38 +6723,28 @@ Möjligheten till extrajobb    60
 5
 Fritiden        38
 11
-Psykiska hälsan    36
-11
-Skolsituationen    34
-12
-Fysiska hälsan 25
-19
-Livet som helhet 24
-11
-Kompisumgänget   24 16
-Familjens ekonomi 12
-8
-Familjerelationen 10
-20
-0 10 20 30 40 50 60 70
-Resultat från Lupp 2020, Kungsbacka kommun
-8kÅ
-2yG
-Sämre
-Bättre
-Åk8
 Enkätfråga: Om du tänker på hur det är nu och hur det var
-innan Corona-pandemin började –På vilket sätt har ditt liv
-förändrats på grund av Corona-pandemin?, följt av nio
+Psykiska hälsan    36
+innan Corona-pandemin började –På vilket sätt har ditt liv 11
+förändrats på grund av Corona-pandemin?, följt av nio Skolsituationen 34
+12
 delfrågor.                     Gy2
-Svarsalternativ: Mycket sämre; Lite sämre; Ungefär lika
-som innan; Lite bättre; Mycket bättre.
-Resultaten visar andelen som svarat lite eller mycket sämre
-respektive lite eller mycket bättre på respektive delfråga,
-baserat på minst 1 038 svar i åk8 och 670 svar i gy2.
-Delfrågorna är rangordnade efter andelen som svarat
-lite/mycket sämre, per målgrupp.            Procent
+Fysiska hälsan 25
+Svarsalternativ: Mycket sämre; Lite sämre; Ungefär lika 19
+Livet som helhet 24
+som innan; Lite bättre; Mycket bättre.              11
+Resultaten visar andelen som svarat lite eller mycket sämre Kompisumgänget 16 24
+respektive lite eller mycket bättre på respektive delfråga, Familjens ekonomi 12
+baserat på minst 1 038 svar i åk8 och 670 svar i gy2. 8
+Familjerelationen 10
+Delfrågorna är rangordnade efter andelen som svarat   20
+lite/mycket sämre, per målgrupp.            Procent 0 10 20 30 40 50 60 70
+Resultat från Lupp 2020, Kungsbacka kommun
 88
+
+Gy2
+
+Åk8
 
 <!-- sida 133 -->
 
@@ -6617,44 +6923,51 @@ Begäran om yttrande
 
 <!-- sida 138 -->
 
-0202/2984
-
-rnd
-:dllätstsaF
 Datum       Processnummer Diarienummer
 2021-03-23        3.10 1201/2021
+
 Regeringskansliet
 Finansdepartementet
+
 (e-post borttagen)
+
 Önskemål om utökat bemyndigande att meddela föreskrifter
 för friytor för lek och utevistelse vid skolor, förskolor,
 fritidshem och annan jämförlig verksamhet
+
 Boverket lämnar härmed förslag till ändring i 10 kap. 9 § plan- och
 byggförordningen (2011:338), PBF. Förslaget avser ett utökat bemyndigande
 för Boverket att meddela föreskrifter om friyta för lek och utevistelse vid
 fritidshem, skolor, förskolor och annan jämförlig verksamhet enligt 8 kap. 9 §
 andra stycket samt 10 och 11 §§ plan- och bygglagen (2010:900), PBL.
+
 Boverket önskar ett utökat bemyndigande att meddela föreskrifter om friyta för
 lek och utevistelse enligt 8 kap. 9 § andra stycket samt 10 och 11 §§ PBL.
 Boverket vill kunna ställa bindande krav på kvaliteter och placering av friytor
 för lek och utevistelse vid fritidshem, skolor, förskolor och annan jämförlig
 verksamhet. Boverket har dock inte för avsikt att genom föreskrifter ställa krav
 på friytornas storlek.
+
 Bakgrund
 Boverket tog år 2015, på uppdrag av regeringen, fram vägledningen ”Gör plats
 för barn och unga! En vägledning för planering, utformning och förvaltning av
 skolors och förskolors utemiljö”. I samband med vägledningen utarbetade och
 beslutade Boverket också allmänna råd – Boverkets allmänna råd (2015:1) om
 friytor för lek och utevistelse vid skolor, förskolor och fritidshem.
+
 Under remissen av de allmänna råden framförde flera remissinstanser att det är
 nödvändigt med föreskrifter för att tvinga kommuner och byggaktörer att se till
 att behovet av tillräckligt stor friyta vid skola och förskola tillgodoses.
 Boverket bedömde emellertid att det då var lämpligt att som första steg besluta
 om vägledning och allmänna råd och att en så ingripande reglering som
+
 föreskrifter inte var motiverad. Boverket skrev dock i konsekvensutredningen
 att man avsåg att utvärdera effekterna av de allmänna råden. Om utvärderingen
+
 Boverket, Box 534, 371 23 Karlskrona | Telefon: 0455-35 30 00
 E-post: (e-post borttagen) | Webbplats: www.boverket.se
+
+Fastställd: dnr 4892/2020
 
 <!-- sida 139 -->
 

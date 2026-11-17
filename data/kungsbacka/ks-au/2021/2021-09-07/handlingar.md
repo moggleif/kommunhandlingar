@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320071119id_/https://www.kungsbacka.
 sha256: 36e50f79efd8de31b6a24f91fa61a4c1fdbb97a0afa8308f3d95af0f82078e28
 bytes: 7875577
 sidor: 67
-hamtad: 2026-10-28T10:31:30+00:00
-konverterad: 2026-10-28T10:31:49+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:06:23+00:00
+konverterad: 2026-11-17T13:07:43+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1018,7 +1018,6 @@ Justerare                         Expedierat/bestyrkt
 <!-- sida 28 -->
 
 CN D)
-and ban a
 ( . Se tfedemokKraterna
 
 Motion om handlingsplan för suicidprevention Kungsbacka 210307

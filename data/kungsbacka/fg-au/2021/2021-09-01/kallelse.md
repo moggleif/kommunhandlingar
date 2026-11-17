@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190842id_/https://kungsbacka.se/d
 sha256: a087d6969195db34ff40c9ef48200ee63a545d362153def2ad917f1203299305
 bytes: 4871148
 sidor: 58
-hamtad: 2026-10-28T10:37:27+00:00
-konverterad: 2026-10-28T10:37:40+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T13:07:47+00:00
+konverterad: 2026-11-17T13:07:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -69,24 +69,20 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-Ärende                Beteckning Förslag
+Ärende                 Beteckning Förslag
 
-5\.  Förskoleplatser i Gällinge 2021-00986 Förvaltningen lämnar två olika förslag till nämnden
+5\. Förskoleplatser i Gällinge 2021-00986 Förvaltningen lämnar två olika förslag till nämnden
 för Förskola & Grundskola att ta ställning till;
 Kl 09.50
 Nämnden för Förskola & Grundskola förespråkar att
-Anna Mclaren,                   kommunstyrelsen beslutar om en utökad budget för
-utvecklingsledare               projektet Gällinge förskola.
+Anna Mclaren,                    kommunstyrelsen beslutar om en utökad budget för
+utvecklingsledare                projektet Gällinge förskola.
 Skolchef
 eller
 
-Nämnden för Förskola & Grundskola förespråkar att
-kommunstyrelsen beslutar att pågående upphandling
-avbryts.
+6\. Delårsrapport augusti 2021
 
-6\.  Delårsrapport augusti 2021 2021-00980 Nämnden för Förskola och Grundskola har tagit del
-av redovisningen och informationen antecknas i
-Kl 10.05                        protokollet.
+Kl 10.05
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
@@ -94,40 +90,55 @@ Helena Hellman, personalchef
 Magnus Fogelblad,
 verksamhetscontroller
 
-7\.  Resursfördelningsmodell 2022 2021-00977 Nämnden för Förskola & Grundskola godkänner
-förslag till Resursfördelningsmodell 2022.
+7\. Resursfördelningsmodell 2022
+
 Kl 10.15
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-8\.  "Skolmiljarden" Utökad 2021-00914 Nämnden för Förskola & Grundskola beslutar om att
-satsning gällande tillfällig    fördela sin andel av den utökade satsningen av
-förstärkning av statligt stöd till statsbidraget skolmiljarden enligt samma princip
-skolväsendet 2021               som de tillkommit kommunen. Lika fördelning per
-elev i årskurs F-9 till både kommunala och
-Kl 10.25                        fristående grundskor.
+8\. "Skolmiljarden" Utökad
+satsning gällande tillfällig
+förstärkning av statligt stöd till
+skolväsendet 2021
+
+Kl 10.25
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
+Nämnden för Förskola & Grundskola förespråkar att
+kommunstyrelsen beslutar att pågående upphandling
+avbryts.
+
+2021-00980 Nämnden för Förskola och Grundskola har tagit del
+av redovisningen och informationen antecknas i
+protokollet.
+
+2021-00977 Nämnden för Förskola & Grundskola godkänner
+förslag till Resursfördelningsmodell 2022.
+
+2021-00914 Nämnden för Förskola & Grundskola beslutar om att
+fördela sin andel av den utökade satsningen av
+statsbidraget skolmiljarden enligt samma princip
+som de tillkommit kommunen. Lika fördelning per
+elev i årskurs F-9 till både kommunala och
+fristående grundskor.
+
 <!-- sida 3 -->
 
-KUNGSBACKA  KOMMUN
+Ärende
 
-3(3)
+9\. Taxor nyetablering fristående
+förskolor
 
-Ärende                Beteckning Förslag
+Kl 10.35
 
-9\.  Taxor nyetablering fristående 2021-00941 Vid ansökan om godkännande som enskild
-förskolor                       huvudman för fristående förskola eller fristående
-fritidshem vid nyetablering tas avgift ut.
-Kl 10.35                        Taxan bestäms till 10 000 kr.
-Taxa och avgiftsuttag införs från 2022-01-01.
 Frida Byrsten, verksamhetschef
 
-10\. Pågående Skolinspektions- och 2021-00002 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
+10\. Pågående Skolinspektions- och
+Barn och elevombudsärenden,
+
 inklusive ärenden som utreds
 inom Förskola & Grundskolas
 klagomålshantering 2021
@@ -136,15 +147,33 @@ Kl 10.45
 
 Frida Byrsten, verksamhetschef
 
-11\. Information - Förskola & 2021-00022 Nämnden för Förskola och Grundskola har tagit del
-
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+11\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
 
 Kl 10.50
 
-Anders Ekström                    Lars Sundbom
-ordförande                        sekreterare
+KUNGSBACKA  KOMMUN
+
+3(3)
+
+Beteckning Förslag
+
+2021-00941 Vid ansökan om godkännande som enskild
+huvudman för fristående förskola eller fristående
+fritidshem vid nyetablering tas avgift ut.
+Taxan bestäms till 10 000 kr.
+Taxa och avgiftsuttag införs från 2022-01-01.
+
+2021-00002 Arbetsutskottet har tagit del av informationen och
+antecknar informationen i protokollet.
+
+2021-00022 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+Anders Ekström                   Lars Sundbom
+ordförande                       sekreterare
 
 <!-- sida 4 -->
 

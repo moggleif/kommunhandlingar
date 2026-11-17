@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190219id_/https://kungsbacka.se/d
 sha256: bd5bd1df6d6a480c0e55ed37c174969ef902de3871e56fc8985cce20bf0a5de6
 bytes: 14938309
 sidor: 131
-hamtad: 2026-10-13T01:14:18+00:00
-konverterad: 2026-10-13T01:17:20+00:00
-pipeline: kommunhandlingar 0.8.7 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:07:29+00:00
+konverterad: 2026-11-17T12:09:05+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok]
@@ -1771,8 +1771,6 @@ Resultat vid avslut i kommunens
 arbetsmarknadsverksamhet, deltagare
 som börjat studera, andel
 
-E
-
 1090
 
 9Y
@@ -1832,8 +1830,6 @@ IN) och anhöriga (flyktingar) 20-64 år, andel
 Förväntat värde förvärvsarbetande
 skyddsbehövande och anhöriga
 (flyktingar) 20-64 år, andel (260)
-
-EJ
 
 49,70
 
@@ -2601,7 +2597,6 @@ Kostnad med (-) intäkter med (+), belopp i tkr
 äran om resultatdisponering 2021
 
 Spec | Driftredo Bokslut 2021 Orsak samt nä egär fill bokslut 2021 Motivering (för varje projekt anges motivering). För typ 3 begäran om överföring till resultatfond lämnas särskild redovisning av prestationsmått eller andra
-Ansvivks/ | visnir färderir fier som visar att ö uppstått genom egna iviseringar.
 proj IF
 mn
 [4 IE E förslag till beslut
@@ -2839,8 +2834,6 @@ Nämnden för Gymnasium & Arbetsmarknad
 
 4.1 Risker - Till plan
 
-Sannolikhet
-
 NN ww AB
 
 O'Hög Medel Totalt: 12
@@ -2873,6 +2866,8 @@ Lindrig (uppfattas som liten av berörda
 intressenter och kommunen)
 Försumbar (obetydlig för berörda
 intressenter och kommunen)
+
+Sannolikhet
 
 <!-- sida 57 -->
 

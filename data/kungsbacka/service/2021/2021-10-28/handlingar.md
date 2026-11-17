@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319202836id_/https://www.kungsbacka.
 sha256: 8bbf3a45bf03ee08a337adb2b7406e10ba86237d9618580e07c9e70ebf8937df
 bytes: 6206100
 sidor: 82
-hamtad: 2026-10-28T09:34:05+00:00
-konverterad: 2026-10-28T09:34:22+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T12:47:28+00:00
+konverterad: 2026-11-17T12:48:16+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1746,35 +1746,37 @@ Sida 7 av 7
 
 <!-- sida 43 -->
 
-60-01-0102
-
-,0.2
-v
-176BUK
-mroFinu
 BEHOVSBESKRIVNING
+
 1 (5)
+
 Datum                            Benämning
 2021-09-29                       Produktionskök centrala-norra Kungsbacka
+
 Initiativtagare
 Namn och enhet                   E-postadress        Telefon
 Lokalgrupp /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
 Christian Lindbäck /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 VERKSAMHETSBESKRIVNING- SERVICEOMRÅDE MÅLTIDER
+
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,4 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 19 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå. Totalt finns idag en produktionskapacitet på totalt ca 21 000 (19 500 Gymn/skola)
 lunchportioner då fördelat över hela kommunen men i vissa områden kan det då vara felfördelat dvs, vi har en högre
 produktionsmöjlighet där det inte behövs och en mindre där det skulle behövas.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 12
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 5st. är förlagda på äldreboenden.
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
+
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför en
 viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
@@ -1783,14 +1785,18 @@ vagnuppställning, diskning, rengöring, tvätt och servering som skall var dime
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
 funktioner som omklädningsrum, personalutrymmen och återvinning- och avfallsrum, matsal inplanerade. Omklädningsrum,
 personalutrymmen och toaletter samt återvinning- och avfallsrum ska separeras för att minska kontamineringsrisker
+
 Tillagningskök och mottagningskök utformas för den produktionsinriktning som valts utav Serviceområde måltider samt efter
 antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik och flöden beaktas för god hygien och effektiva
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
 Kungsbacka kommun
 Postadress      Besöksadress    Telefon        Webbplats
 434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
+
+uniForm KUB671 v 2.0, 2010-10-06
 
 <!-- sida 44 -->
 
@@ -1966,35 +1972,37 @@ Beräknad kostnad:
 
 <!-- sida 48 -->
 
-60-01-0102
-
-,0.2
-v
-176BUK
-mroFinu
 BEHOVSBESKRIVNING
+
 1 (5)
+
 Datum                            Benämning
 2021-09-29                       Ombyggnad-förändring av 27 stk. hemkök på förskolor
+
 Initiativtagare
 Namn och enhet                   E-postadress        Telefon
 Lokalgrupp /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
 Christian Lindbäck /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 VERKSAMHETSBESKRIVNING- SERVICEOMRÅDE MÅLTIDER
+
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,4 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 19 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå. Totalt finns idag en produktionskapacitet på totalt ca 21 000 (19 500 Gymn/skola)
 lunchportioner då fördelat över hela kommunen men i vissa områden kan det då vara felfördelat dvs, vi har en högre
 produktionsmöjlighet där det inte behövs och en mindre där det skulle behövas.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 12
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 5st. är förlagda på äldreboenden.
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
+
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför
 en viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
@@ -2003,14 +2011,18 @@ vagnuppställning, diskning, rengöring, tvätt och servering som skall var dime
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
 funktioner som omklädningsrum, personalutrymmen och återvinning- och avfallsrum, matsal inplanerade. Omklädningsrum,
 personalutrymmen och toaletter samt återvinning- och avfallsrum ska separeras för att minska kontamineringsrisker
+
 Tillagningskök och mottagningskök utformas för den produktionsinriktning som valts utav Serviceområde måltider samt efter
 antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik och flöden beaktas för god hygien och effektiva
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
 Kungsbacka kommun
 Postadress      Besöksadress    Telefon        Webbplats
 434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
+
+uniForm KUB671 v 2.0, 2010-10-06
 
 <!-- sida 49 -->
 
@@ -2205,36 +2217,38 @@ Beräknad kostnad:
 
 <!-- sida 53 -->
 
-60-01-0102
-
-,0.2
-v
-176BUK
-mroFinu
 BEHOVSBESKRIVNING
+
 1 (6)
+
 Datum                            Benämning
 2021-09-29                       Behovsbeskrivning Ombyggnad av gymnasieskolors
 matsal
+
 Initiativtagare
 Namn och enhet                   E-postadress        Telefon
 Lokalgrupp /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
 Christian Lindbäck /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 VERKSAMHETSBESKRIVNING- SERVICEOMRÅDE MÅLTIDER
+
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,4 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 19 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå. Totalt finns idag en produktionskapacitet på totalt ca 21 000 (19 500 Gymn/skola)
 lunchportioner då fördelat över hela kommunen men i vissa områden kan det då vara felfördelat dvs, vi har en högre
 produktionsmöjlighet där det inte behövs och en mindre där det skulle behövas.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 12
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 5st. är förlagda på äldreboenden.
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
+
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför en
 viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
@@ -2243,14 +2257,18 @@ vagnuppställning, diskning, rengöring, tvätt och servering som skall var dime
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
 funktioner som omklädningsrum, personalutrymmen och återvinning- och avfallsrum, matsal inplanerade. Omklädningsrum,
 personalutrymmen och toaletter samt återvinning- och avfallsrum ska separeras för att minska kontamineringsrisker
+
 Tillagningskök och mottagningskök utformas för den produktionsinriktning som valts utav Serviceområde måltider samt efter
 antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik och flöden beaktas för god hygien och effektiva
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
 Kungsbacka kommun
 Postadress      Besöksadress    Telefon        Webbplats
 434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
+
+uniForm KUB671 v 2.0, 2010-10-06
 
 <!-- sida 54 -->
 
@@ -2443,35 +2461,37 @@ Beräknad kostnad:
 
 <!-- sida 59 -->
 
-60-01-0102
-
-,0.2
-v
-176BUK
-mroFinu
 BEHOVSBESKRIVNING
+
 1 (5)
+
 Datum                            Benämning
 2021-09-29                       Ombyggnad till mottagningskök Åsaskolan
+
 Initiativtagare
 Namn och enhet                   E-postadress        Telefon
 Lokalgrupp /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 Kontaktperson för behovsbeskrivningen
 Namn och enhet                   E-postadress        Telefon
 Christian Lindbäck /Serviceområde Måltider (e-post borttagen) 0300-837889
+
 VERKSAMHETSBESKRIVNING- SERVICEOMRÅDE MÅLTIDER
+
 Serviceområde Måltider tillhandahåller i dagsläget ca 6,4 miljoner goda och näringsriktiga måltider per år till förskolor,
 skolor och äldreboenden inom Kungsbacka kommun. I dagsläget tillagas och serveras ca 19 500 lunchportioner varje dag,
 därtill serveras frukost, mellanmål, middag eller färdigförpackad mat för hemleverans. En stor andel av måltiderna
 specialkost-anpassas ner på individnivå. Totalt finns idag en produktionskapacitet på totalt ca 21 000 (19 500 Gymn/skola)
 lunchportioner då fördelat över hela kommunen men i vissa områden kan det då vara felfördelat dvs, vi har en högre
 produktionsmöjlighet där det inte behövs och en mindre där det skulle behövas.
+
 Verksamheten är uppdelad i olika måltidsområden med tillagningskök och mottagningskök. I dagsläget har vi totalt 12
 tillagningskök fördelade över kommunen som tillagar och levererar till ca 100 mottagningskök. 7st. tillagningskök är på
 skola/gymnasier, 5st. är förlagda på äldreboenden.
 I dagsläget produceras måltiderna på två olika produktionsätt antingen genom ”Cook Serve” – varm-matlagning, varm-
 distribution och varm-servering eller alternativt genom ”Cook Chill” – varm-matlagning, nedkylning, kyld-distribution, och
 återuppvärmning för varm-servering i våra olika mottagningskök.
+
 Serviceområde Måltider arbetar utefter FAMM-Modellen, (Five Aspects Meal Model), som bygger på fem begrepp översatta
 till Rummet/Miljön, Mötet, Produkten/Maten, Styrningen och Stämningen/Atmosfären. Rätt utformade lokaler är därför en
 viktig faktor för att ge förutsättningar till en god måltidsupplevelse.
@@ -2480,14 +2500,18 @@ vagnuppställning, diskning, rengöring, tvätt och servering som skall var dime
 Köksmaskiner och köksinredning är anpassade till kökets funktion och beredningsnivå. I anslutning till köket är övriga
 funktioner som omklädningsrum, personalutrymmen och återvinning- och avfallsrum, matsal inplanerade. Omklädningsrum,
 personalutrymmen och toaletter samt återvinning- och avfallsrum ska separeras för att minska kontamineringsrisker
+
 Tillagningskök och mottagningskök utformas för den produktionsinriktning som valts utav Serviceområde måltider samt efter
 antal ätande och typ köksfunktion som är lämpad för verksamheten. Logistik och flöden beaktas för god hygien och effektiva
 flöden.
 Serviceområde Måltiders verksamhet är främst beroende av tre primära faktorer för att kunna bedriva sin verksamhet,
 Lokaler/utrustning, Personal och Råvaror – utan en av de tre så kan verksamheten inte leverera till kund.
+
 Kungsbacka kommun
 Postadress      Besöksadress    Telefon        Webbplats
 434 81 Kungsbacka Stadshuset, Storgatan 37 vx 0300-83 40 00 www.kungsbacka.se
+
+uniForm KUB671 v 2.0, 2010-10-06
 
 <!-- sida 60 -->
 

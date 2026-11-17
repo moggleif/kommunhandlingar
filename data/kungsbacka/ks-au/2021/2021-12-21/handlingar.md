@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320070833id_/https://www.kungsbacka.
 sha256: 41d36cd574336a2d3fb083faf7da19ff58141e7cad7346ed5fe8e6126267946e
 bytes: 5905596
 sidor: 13
-hamtad: 2026-10-27T10:47:34+00:00
-konverterad: 2026-10-27T10:47:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:27:33+00:00
+konverterad: 2026-11-17T12:27:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr]
@@ -490,7 +490,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 13 -->
 
-[ ” / /
 . Sverigedemokraterna
 Kungsbacka 211201
 Motion

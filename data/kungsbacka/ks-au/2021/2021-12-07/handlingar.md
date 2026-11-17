@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320133530id_/https://www.kungsbacka.
 sha256: ab973437ed91c48cf531a1d04f68d9b6896a9537597969a50d402810a13fb5c9
 bytes: 107364784
 sidor: 364
-hamtad: 2026-10-27T11:12:26+00:00
-konverterad: 2026-10-27T11:18:53+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:32:04+00:00
+konverterad: 2026-11-17T12:37:25+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ej-konverterad, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr]
@@ -262,17 +262,6 @@ Kommundirektör                Biträdande kommundirektör
 
 <!-- sida 8 -->
 
-Kungsbacka kommun
-434 81 Kungsbacka
-Besöksadress
-Vägmästaren, Syréngatan 1
-Telefon 0300-83 40 00
-Fax 0300-83 47 04
-(e-post borttagen)
-www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
 Utredning avseende handlingsplan för ett större och aktivare
 ansvar för att människor som står långt från arbetsmarknaden
 1 (5)
@@ -283,12 +272,14 @@ Kungsbacka kommun har under en längre tid arbetat för att arbetslösa med
 försörjningsstöd snabbt ska nå en egen försörjning. Detta sker genom Kungsbackas
 unika arbetsmarknadsprocess som bland annat hämtat inspiration från den så kallade
 Trelleborgsmodellen.
+
 En avgörande del i arbetet handlar om att de insatser som ska erbjudas ska vara
 relevanta, ha en nära arbetsmarknadskoppling och för den enskilda individen
 resultera i en ökad kompetens som kan medföra en ordinarie anställning.
 Utgångspunkten är att arbetsmarknadsinsatserna inte består av konstruerade
 arbetsuppgifter utan är riktiga och reella och sker i en ordinarie arbetsplatsmiljö.
 Förvaltningen för Gymnasium & Arbetsmarknad har ansvaret för Kungsbackas
+
 arbetsmarknadsprocess och detta förslag till handlingsplan passar väl in i det arbete
 som pågår vid förvaltningen.
 Kungsbacka kommun är största arbetsgivare i kommunen och kan i egenskap av sin
@@ -296,12 +287,24 @@ storlek och sitt uppdrag, erbjuda varierande arbetsuppgifter över vitt skilda
 verksamhetsområden. Cirka 6 700 månadsavlönade medarbetare arbetar inom
 framförallt vård, omsorg, skola och barnomsorg, serviceyrken och teknikfunktioner.
 Årligen rekryteras cirka 1000 personer till olika arbetsuppgifter och anställningar.
+
 Via kommunens vikariecenter hanteras och samordnas också en mängd timavlönade
 vikarier till de större förvaltningarna.
 Under många år har arbetsmarknadsprognoser visat att kompetensförsörjning
 kommer att bli en stor utmaning för kommunal sektor och då inte minst inom vård,
 omsorg och utbildning. De senaste årens pandemi har tillfälligt bromsat upp bristen
 på personal, men kompetensbristen bedöms trots det slå igenom starkt då offentlig
+
+Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Vägmästaren, Syréngatan 1
+Telefon 0300-83 40 00
+Fax 0300-83 47 04
+(e-post borttagen)
+www.kungsbacka.se
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 9 -->
 
@@ -1961,7 +1964,7 @@ Datum             Version
 Dnr/Beteckning
 TSV 2019-5394
 
-1 .2  Förslag till ändring av trafikförordningen (1998:1276)
+1.2   Förslag till ändring av trafikförordningen (1998:1276)
 Härigenom föreskrivs i fråga om trafikförordningen (1998:1276)
 att 1 kap. 4 § och 3 kap. 6 § ska ha följande lydelse.
 
@@ -1977,15 +1980,23 @@ Bestämmelserna om gående gäller även den som
 2\. för, leder, skjuter eller drar sparkstötting, lekfordon eller liknande
 fordon,
 3\. leder, skjuter eller drar cykel, moped, motorcykel, barnvagn eller
+
 rullstol, eller
 4\. för ett motordrivet fordon avsett att föras av gående.
 
-Bestämmelserna om gående gäller Bestämmelserna om gående gäller
-även den som i gångfart själv för även den som i gångfart själv för en
-1\. en rullstol, eller    rullstol eller ett annat fordon, utan
-2\. ett annat eldrivet fordon, utan tramp- eller vevanordning, som är
-tramp- eller vevanordning, som är en cykel och är avsett för
-att anse som en cykel.    användning av personer med fysisk
+Bestämmelserna om gående gäller
+även den som i gångfart själv för
+1\. en rullstol, eller
+2\. ett annat eldrivet fordon, utan
+tramp- eller vevanordning, som är
+att anse som en cykel.
+
+Bestämmelserna om gående gäller
+även den som i gångfart själv för en
+rullstol eller ett annat fordon, utan
+tramp- eller vevanordning, som är
+en cykel och är avsett för
+användning av personer med fysisk
 funktionsnedsättning.
 
 3 kap.
@@ -1996,14 +2007,25 @@ för vilka enligt 1 kap. 4 § andra stycket bestämmelserna om gående ska
 tillämpas. Cyklar och tvåhjuliga mopeder klass II ska vid färd på väg föras
 på cykelbana om sådan finns.
 
-Cyklande och förare av tvåhjuliga Om särskild försiktighet iakttas får
-mopeder klass II får dock om dock
-särskild försiktighet iakttas använda 1. cyklande och förare av
-körbanan i stället för cykelbanan om tvåhjuliga mopeder klass II använda
-1\. den cyklande fyllt 15 år, och körbanan även om det finns en
-2\. den högsta tillåtna hastigheten cykelbana när det är lämpligare med
-på körbanan är högst 50 kilometer i hänsyn till färdmålets läge, och
-timmen och i övrigt när det är 2. cyklar med fler än två hjul eller
+Cyklande och förare av tvåhjuliga
+mopeder klass II får dock om
+särskild försiktighet iakttas använda
+körbanan i stället för cykelbanan om
+1\. den cyklande fyllt 15 år, och
+2\. den högsta tillåtna hastigheten
+på körbanan är högst 50 kilometer i
+
+timmen och i övrigt när det är
+
+Om särskild försiktighet iakttas får
+dock
+1\. cyklande och förare av
+tvåhjuliga mopeder klass II använda
+körbanan även om det finns en
+cykelbana när det är lämpligare med
+hänsyn till färdmålets läge, och
+
+2\. cyklar med fler än två hjul eller
 en cykel som drar en cykelkärra
 
 4 Senaste lydelse 2010:1100.
@@ -7124,35 +7146,61 @@ frågeställningar tillsammans..
 
 <!-- sida 145 -->
 
-5
-
 UPPLÄGG
 
-Den här rapporten är strukturerad kring de fem        Rapporten redovisar insikter för fyra primära
-områden som studien identifierat som intressanta ur   målgrupper;
+Den här rapporten är strukturerad kring de fem
+områden som studien identifierat som intressanta ur
+
 kunskapssynpunkt, och de insikter som studien gett
-upphov till på respektive område.                     •   Allmänheten
-•   Användare av elcykel respektive elsparkcykel
+upphov till på respektive område.
+
 Områdena  och de viktigaste insikterna presenteras
-först i en sammanställning – för den som har begränsad •  Medarbetare inom Hemtjänsten Helsingborg som
-tid för att läsa rapporten rekommenderar vi att börja     använder elcykel i sitt arbete
-med denna sida, och sedan dyka djupare i det som      •   Yrkesförare som kör i stadstrafik
-
+först i en sammanställning – för den som har begränsad
+tid för att läsa rapporten rekommenderar vi att börja
+med denna sida, och sedan dyka djupare i det som
 känns mest relevant.
-De fyra ovanstående grupperna har för den
-Rapporten går sedan igenom de fem områdena var för    kvantitativa datan olika många genomförda intervjuer.
-sig, först i ett avsnitt kring elcyklar, och sedan för Dessutom förekommer det specifika frågor där endast
-elsparkcyklar. I varje avsnitt underbygger och visar vi på de med ett visst svar på en tidigare fråga svarar. I vissa
-den data som lett fram till insikterna för området. Varje fall är antalet intervjuer lågt, och vi uppmanar till att
-område utgör ett kapitel och varje del i kapitlet     tolka dessa resultat med försiktighet.
-(elcykel/elsparkcykel) avslutas med en sammanfattning
-av insikterna.                                        I tabellen på efterföljande sida finns en genomgång av
-antalet intervjuer för respektive steg och delgrupp.
-Sist i rapporten finns en avslutande diskussion där vi
 
-ser till de större perspektiven kring eldrivna        Hemtjänsten och yrkesförare saknar för några enstaka
-enpersonsfordon, och identifierar bakomliggande       frågor alternativet ”vet ej” på grund av ett tekniskt fel.
-mönster och tendenser.                                Detta finns noterat bredvid de aktuella diagrammen.
+Rapporten går sedan igenom de fem områdena var för
+sig, först i ett avsnitt kring elcyklar, och sedan för
+
+elsparkcyklar. I varje avsnitt underbygger och visar vi på
+den data som lett fram till insikterna för området. Varje
+område utgör ett kapitel och varje del i kapitlet
+(elcykel/elsparkcykel) avslutas med en sammanfattning
+av insikterna.
+
+Sist i rapporten finns en avslutande diskussion där vi
+ser till de större perspektiven kring eldrivna
+
+enpersonsfordon, och identifierar bakomliggande
+mönster och tendenser.
+
+5
+
+Rapporten redovisar insikter för fyra primära
+målgrupper;
+
+•   Allmänheten
+•   Användare av elcykel respektive elsparkcykel
+
+•   Medarbetare inom Hemtjänsten Helsingborg som
+använder elcykel i sitt arbete
+•   Yrkesförare som kör i stadstrafik
+
+De fyra ovanstående grupperna har för den
+kvantitativa datan olika många genomförda intervjuer.
+
+Dessutom förekommer det specifika frågor där endast
+de med ett visst svar på en tidigare fråga svarar. I vissa
+fall är antalet intervjuer lågt, och vi uppmanar till att
+tolka dessa resultat med försiktighet.
+
+I tabellen på efterföljande sida finns en genomgång av
+antalet intervjuer för respektive steg och delgrupp.
+
+Hemtjänsten och yrkesförare saknar för några enstaka
+frågor alternativet ”vet ej” på grund av ett tekniskt fel.
+Detta finns noterat bredvid de aktuella diagrammen.
 
 <!-- sida 146 -->
 
@@ -7176,34 +7224,48 @@ Totalt antal intervjuer (kvalitativa och kvantitativa)
 
 <!-- sida 147 -->
 
-7
-
 INLEDNING
 
-Samhällets assimilering av nya fenomen och beteenden  När nya fenomen introduceras i ett samspel finner de
-sker gradvis, och utan omfattande longitudinella studier inte omedelbart sin plats. Det tar tid innan det skapats
+Samhällets assimilering av nya fenomen och beteenden
+
+sker gradvis, och utan omfattande longitudinella studier
 är det ofta svårt att i detalj förstå vilka variabler och
-nya normer, och de nya fenomenen blivit en naturlig del i
 drivkrafter som varit avgörande i etableringen av ett
-samspelet. I arbetet med den här studien har det blivit
 system.
-tydligt att både elcyklar och elsparkcyklar befinner sig i
-Vårt beteende i trafiken beskrivs ofta som ett samspel. en sådan process – nya normer för hur de nya fordonen
-Ett samspel är delvis regelstyrt men också en ömsesidig ska passas in i samspelet i trafiken håller på att etableras.
+
+Vårt beteende i trafiken beskrivs ofta som ett samspel.
+Ett samspel är delvis regelstyrt men också en ömsesidig
 påverkan – andras beteende avgör hur du reagerar, och
-Vi vill med den här rapporten peka på vikten av att regler
 dina reaktioner påverkar i sin tur dina medtrafikanters
-och kommunikation tar ömsesidigheten i normbildningen
+
 beteende. De normer som gäller för ett samspel är inte
-i beaktande, och pekar ut en hållbar riktning för
 samma  sak som regler, men regler kan fungera som ett
-stöd; både i etableringen av normer och upprätthållandet samspelet att utvecklas i.
+stöd; både i etableringen av normer och upprätthållandet
 av dem.
+
 Samspelet i trafiken kan liknas vid samtalets samspel. Ett
 samtal styrs av vissa givna normer – strävan efter
 koherens, turtagning, erbjudande-/ accepterande-
+
 strukturer, och reparens d.v.s. att i efterhand korrigera sitt
 beteende.
+
+7
+
+När nya fenomen introduceras i ett samspel finner de
+inte omedelbart sin plats. Det tar tid innan det skapats
+nya normer, och de nya fenomenen blivit en naturlig del i
+
+samspelet. I arbetet med den här studien har det blivit
+tydligt att både elcyklar och elsparkcyklar befinner sig i
+en sådan process – nya normer för hur de nya fordonen
+ska passas in i samspelet i trafiken håller på att etableras.
+
+Vi vill med den här rapporten peka på vikten av att regler
+och kommunikation tar ömsesidigheten i normbildningen
+
+i beaktande, och pekar ut en hållbar riktning för
+samspelet att utvecklas i.
 
 <!-- sida 148 -->
 
@@ -7236,7 +7298,7 @@ gäller för elcykel och elsparkcykel, uppger störst andelar att man skulle vä
 
 Bland allmänheten anser över hälften att elcyklar bidrar till ökad otrygghet i trafiken. Brist på kunskap om trafikregler, för hög topp-
 j hastighet och hänsynslösa förare anses vara de viktigaste orsakerna. Runt 2 26 av allmänheten har varit med om olycka som involverade en
-Ilan elcykel, och ca 15 9 har varit med om ett olyckstillbud med elcykel. För elsparkcyklar anser ca 75 26 bland allmänheten att de bidrar till
+Ian elcykel, och ca 15 9 har varit med om ett olyckstillbud med elcykel. För elsparkcyklar anser ca 75 26 bland allmänheten att de bidrar till
 ökad otrygghet i trafiken. Även bland elsparkcyklisterna själva anser hela 64 96 att de bidrar till otrygghet. Ca 5 96 av allmänheten har varit
 med om en olycka som involverade en elsparkcykel, och ca 15 96 uppger att de har varit med om ett olyckstillbud med elsparkcykel.
 
@@ -8202,12 +8264,10 @@ INSTÄLLNINGEN
 UT SOM DEN PÅSTÅENDEN ATTITYD
 Se ELCYKEL - ALLMÄNHETEN
 
-ELCYKEL SKAPAR MÖJLIGHETER 020 2070 4020 607 804 10024
 Elcyklar bidrar till ökad otrygghet i 2996 io
 OCH MER HALLBART RESANDE trafiken
 
 Elcyklar är inblandade i olyckor i —-
-es eo . Oo 0
 Ett frågebatteri kring grunden till attityderna högre grad än vanliga cyklar
 
 till elcyklar gav följande resultat:
@@ -8227,7 +8287,6 @@ nya möjligheter för resandet. Cykelinfrastrukturen behöver =
 67 2” instämmer i att elcyklar bidrar
 
 till ett mer hållbart resande. Det är bra att elcykel finns, men 50ch
-H o o AH
 framförallt för de som har svårt att...
 
 För de negativa påståendena sticker två
@@ -9116,7 +9175,7 @@ VIKTIGASTE ANLEDNINGARNA TILL ANVÄNDNING -
 
 ELCYKEL
 
-ON 2020 40€0 604
+ON 2020 4070 604
 
 Det är roligt/det är en skön känsla att cykla på elcykel
 Slippa uppförsbacke/uppförsbackar
@@ -9238,7 +9297,6 @@ För resor till/från arbete eller studier TiN/från arbete/studier
 ersätter elcykeln främst bil, men även
 kollektivtrafik och cykel.
 
-sn sou. a m Till/från fritidsaktivi 9
 Aven för fritidsaktiviteter är det ill/från fritidsaktiviteter
 
 framförallt bilresor som ersätts, men även
@@ -9404,7 +9462,7 @@ en Voi till jobbet." "Det är bättre för
 u" - kostymen än att
 Använder dem y
 
-PÅ FRITIDEN, I JOBBET ELLER SOM  (FTSSKAA \<o CEN
+PÅ FRITIDEN, I JOBBET ELLER SOM  (FTSSKA < CEN
 FÖRLÄNGNING AV KOLLEKTIVTRAFIK VS
 
 förlängning av
@@ -9953,7 +10011,6 @@ vad som gäller angående elcyklar:
 Hur upplever du kommunikationen från
 din arbetsgivare kring vad som gäller
 
-o . . . .
 9 20 anser att informationen varit otydlig kring att använda elcyklar i arbetet?
 
 eller mycket otydlig.
@@ -10016,8 +10073,6 @@ GÄLLANDE ELCYKEL
 
 ON 1020
 
-Trafikverket 20
-
 2070 3000
 
 STÖRST ANDEL SKULLE SÖKA INFO
@@ -10062,7 +10117,7 @@ os
 
 mm cr
 
-a cr
+mm cr
 
 mm 33
 
@@ -10705,7 +10760,7 @@ De som kör elcykel har sällan hjälm
 
 EH Yrkesförare
 
-207
+2070
 
 40€0
 
@@ -10933,12 +10988,12 @@ ELCYKEL I TRAFIKEN
 | I] LJ LJ
 SEPARERADE KORFALT AR DEN ox 108 2096 3096
 | I] LJ
-FORBATTRING FLEST VILL SE Fler och tydligare/utmärkta/separerade... KENNNNNNNNNNNNNNNN 25906
+FORBATTRING FLEST VILL SE Fler och tydligare/utmärkta/separerade... KENNNNNNNNNNNNNNN 2590,
 
 Ökad hänsyn/ansvar för användaren HIN 72,
 
 Den förbättringsåtgärd som tydligast Tydligare regelverk HEN 62
-efterfrågas för att motverka otrygghet Krav på körkort/utbildning HEN 60
+efterfrågas för att motverka otrygghet Krav på körkort/utbildning HEN 65
 kring elcyklar är separerade körfält.
 
 Inför parkeringar (med möjlighet till... HI 42
@@ -11190,10 +11245,6 @@ vägbanor/cykelbanor/gågator för att inrymma...
 
 170
 
-\=
-ER
-"E
-
 H Yrkesförare
 
 Bas: 419
@@ -11220,7 +11271,7 @@ JÄMFÖRBAR OLYCKSFREKVENS
 FÖR ELSPARK- OCH ELCYKLISTER
 
 Andelen som varit med om en olycka som
-involverar elsparkcykel varierar mellan 3 4 Hja  HNej Bla — HNej
+involverar elsparkcykel varierar mellan 3 4 Bla  HNej Bla — HNej
 
 (0)
 och 56. OLYCKOR ELSPARKCYKEL- OLYCKOR ELSPARKCYKEL -
@@ -11378,7 +11429,7 @@ användningen av elsparkcyklar i stor
 utsträckning sker spontant.
 
 Det är mer förvånande att så många
-som 27 26 uppger att de oftast eller
+som 27 20 uppger att de oftast eller
 alltid använder hjälm.
 
 Det är sannolikt att de flesta av
@@ -11476,84 +11527,126 @@ mellan kl. 16-04 som mellan klockan 04-16.
 
 <!-- sida 248 -->
 
-108
-
 AVSLUTANDE           DISKUSSION
 
-FRAMTIDEN    FÖR  ELCYKEL    & ELSPARKCYKEL
+FRAMTIDEN    FÖR  ELCYKEL   & ELSPARKCYKEL
 
-I arbetet med den här undersökningen har vi kunnat identifiera    Det fundamentala attributionsfelet innebär att vi gärna
+I arbetet med den här undersökningen har vi kunnat identifiera
+vissa intressanta mönster med bäring på frågor kring hur
 
-vissa intressanta mönster med bäring på frågor kring hur          förklarar andras misstag i form av karaktärsdrag medan
-samhället framgent ska välja att reglera och/eller stötta         vi har en förkärlek till att förklara våra egna misstag med
-användningen av elcyklar och elsparkcyklar. I detta avslutande    omständigheter. I den fortsatta utvecklingen kring
-avsnitt tar vi upp de viktigaste av dessa mönster.                elcyklar, elsparkcyklar och andra nya fordonstyper är det
+samhället framgent ska välja att reglera och/eller stötta
+användningen av elcyklar och elsparkcyklar. I detta avslutande
+avsnitt tar vi upp de viktigaste av dessa mönster.
 
-viktigt att komma ihåg att en person inte genomgår en
 Elcyklar och elsparkcyklar har snabbt blivit en del av vardagen i
-förvandling vad gäller karaktärsdrag bara för att hen
 Sverige. I likhet med andra nya fenomen så varierar människors
-väljer det ena eller det andra fordonet. Det är inte heller
+
 uppfattning om de nya fordonen mellan olika grupper–vissa är
-så att en viss typ av fordon drar till sig i huvudsak
 översvallande positiva och ser möjligheter, andra är negativt
-hänsynslösa människor. Vi måste, som samhälle vara
 inställda, och mest ser problem.
-observanta kring våra egna fördomar.
-1\.  Både elcyklister och elsparkcyklister beskrivs av många som
-1\.  Det sägs att ingen blir profet i sin egen stad. Det kan
+
+1\. Både elcyklister och elsparkcyklister beskrivs av många som
+
 okunniga kring regler och hänsynslösa i trafiken. Kanske finns
-även sägas gälla för elcyklisterna. Den främsta
 det beteenden hos dessa trafikanter som gett upphov till de
-rekryteringsbasen för elcyklister är rimligen cyklister.
 åsikterna, men det måste också ställas mot faktumet att även
-Cyklister är också de som upplever störst problem med
+
 användarna av elcyklar och elsparkcyklar upplever att de har
-elcyklister. Detta beror i hög grad på att de konkurrerar
 bristande kunskap och att de bidrar till otrygghet. Det är
-om samma  utrymme, men också på att de färdas på
 osannolikt att dessa trafikanter i någon större utsträckning
-fordon som har många likheter men också olika
+
 går in för att skapa otrygghet eller bryta mot regler. Det är
-förutsättningar.
 däremot är sannolikt att de är offer för det som kallas för ”det
 fundamentala attributionsfelet”.
 
-<!-- sida 249 -->
+108
 
-109
+Det fundamentala attributionsfelet innebär att vi gärna
+förklarar andras misstag i form av karaktärsdrag medan
+
+vi har en förkärlek till att förklara våra egna misstag med
+omständigheter. I den fortsatta utvecklingen kring
+elcyklar, elsparkcyklar och andra nya fordonstyper är det
+viktigt att komma ihåg att en person inte genomgår en
+
+förvandling vad gäller karaktärsdrag bara för att hen
+väljer det ena eller det andra fordonet. Det är inte heller
+så att en viss typ av fordon drar till sig i huvudsak
+
+hänsynslösa människor. Vi måste, som samhälle vara
+observanta kring våra egna fördomar.
+
+1\.  Det sägs att ingen blir profet i sin egen stad. Det kan
+även sägas gälla för elcyklisterna. Den främsta
+
+rekryteringsbasen för elcyklister är rimligen cyklister.
+Cyklister är också de som upplever störst problem med
+elcyklister. Detta beror i hög grad på att de konkurrerar
+
+om samma  utrymme, men också på att de färdas på
+fordon som har många likheter men också olika
+förutsättningar.
+
+<!-- sida 249 -->
 
 AVSLUTANDE           DISKUSSION
 
-FRAMTIDA    UTVECKLING    KRING   ELCYKEL   & ELSPARKCYKEL
+FRAMTIDA    UTVECKLING    KRING  ELCYKEL   & ELSPARKCYKEL
 
-Även elcyklisterna, som ju i många fall också är eller har varit För de som går in i en sådan jämförelse med en tydlig
+Även elcyklisterna, som ju i många fall också är eller har varit
+cyklister, ser själva att det finns problem och oklarheter – men
 
-cyklister, ser själva att det finns problem och oklarheter – men preferens för elcykel är det lätt att hitta argument för att
-problemen är delvis också dolda, det råder delade meningar    elcyklar skapar större samhällsnytta än elsparkcyklar; det
-bland elcyklisterna om vad som gäller, men en och en anser    används för längre resor, ersätter i högre grad bil och
-de sig i viss utsträckning veta vad som gäller; hur fort elcyklar kollektivtrafik, kan komma de till nytta som har svårt att
+problemen är delvis också dolda, det råder delade meningar
+bland elcyklisterna om vad som gäller, men en och en anser
+de sig i viss utsträckning veta vad som gäller; hur fort elcyklar
 
-får gå, vilken typ av trafikant man är som elcyklist, var man får använda vanlig cykel och de kan i relativt stor
-cykla elcykel.                                                utsträckning enkelt integreras i den befintliga
-trafikmiljön.
+får gå, vilken typ av trafikant man är som elcyklist, var man får
+cykla elcykel.
+
 En möjlig lösning är att fokusera på att göra det lätt att göra
-rätt som elcyklist. Det kan åstadkommas genom tydliga vägar   Men i en sådan jämförelse är det lätt att missa ett enkelt
-till information om regler och lagar, obligatoriska kurser,   faktum; en elcykel är nästan alltid privatägd och de
+rätt som elcyklist. Det kan åstadkommas genom tydliga vägar
+till information om regler och lagar, obligatoriska kurser,
 
-körkort, certifiering eller nudgingåtgärder i trafikmiljön.   flesta modeller kostar över tio tusen kronor. Det är inte
-Genom att utbilda och höja kunskapen bland elcyklisterna      alla som kan eller vill göra en sådan investering.
-själva går det även att få positiva effekter för andra        Elsparkcyklar däremot erbjuder en mycket låg tröskel för
+körkort, certifiering eller nudgingåtgärder i trafikmiljön.
+Genom  att utbilda och höja kunskapen bland elcyklisterna
+själva går det även att få positiva effekter för andra
+trafikantgrupper – elcyklisternas ökade säkerhet i trafiken blir
 
-trafikantgrupper – elcyklisternas ökade säkerhet i trafiken blir att prova på – både ekonomiskt (en kortare tur kostar
-ett sätt att även visa deras medtrafikanter vad som gäller.   oftast under 20 kr) och i och med att de är tillgängliga i
+ett sätt att även visa deras medtrafikanter vad som gäller.
+3\. Denna studie är ett exempel på att elcyklar och elsparkcyklar
+
+lockar till jämförelse mellan de två fordonen och de som
+framför dem.
+
+109
+
+För de som går in i en sådan jämförelse med en tydlig
+preferens för elcykel är det lätt att hitta argument för att
+
+elcyklar skapar större samhällsnytta än elsparkcyklar; det
+används för längre resor, ersätter i högre grad bil och
+kollektivtrafik, kan komma de till nytta som har svårt att
+använda vanlig cykel och de kan i relativt stor
+
+utsträckning enkelt integreras i den befintliga
+trafikmiljön.
+
+Men i en sådan jämförelse är det lätt att missa ett enkelt
+faktum; en elcykel är nästan alltid privatägd och de
+flesta modeller kostar över tio tusen kronor. Det är inte
+
+alla som kan eller vill göra en sådan investering.
+Elsparkcyklar däremot erbjuder en mycket låg tröskel för
+att prova på – både ekonomiskt (en kortare tur kostar
+
+oftast under 20 kr) och i och med att de är tillgängliga i
 gatumiljön.
-3\.  Denna studie är ett exempel på att elcyklar och elsparkcyklar
-lockar till jämförelse mellan de två fordonen och de som      Argumentet att alla som kör elsparkcykel borde köra
-framför dem.                                                  elcykel istället tar inte hänsyn till socioekonomiska
-faktorer – och att ny teknik i princip alltid genomgår flera
 
+Argumentet att alla som kör elsparkcykel borde köra
+elcykel istället tar inte hänsyn till socioekonomiska
+faktorer – och att ny teknik i princip alltid genomgår flera
 mognadsfaser och förfinande förändringar innan de når
+
 ett brett folkligt genomslag.
 
 <!-- sida 250 -->
@@ -11606,34 +11699,34 @@ WORKSHOP
 
 TRANSPORTSTYRELSEN
 PROJEKT: Facilitering Dialog kring Eldrivna D Testa att zooma in D skapa en post-it
-enpersonsfordon
 
 och ut
 
+enpersonsfordon
+
 .e” lol l—- + fen
+
+ja
+
+[
 
 (meny längst ner till höger)
 
 WORKSHOP 24 NOV-20
 
-anta OO vr
-
 Dp NV TRANSPORT —
 AA STY R E LS E N (menyn till vänster)
 
-.. . NNovieati
-
 Välkommen till Transportstyrelsens workshop! avigation
-
 Till höger ser du föruppgiften vi bett er alla göra NR frssesses
-
 innan workshopen TIL TT om
-. LJ CV | |
 
 vänster musknapp. på datorn, använd två
 Klicka och "dra" dig runt arbetsytan. fingrar för att navigera
 
 Ta C kl! Håll nere mellanslag och klicka på | | Om du har en touchpad
+
+anta OO vr
 
 <!-- sida 254 -->
 
@@ -11759,12 +11852,11 @@ Josefine Montelius
 Transportstyrelsen 1. Nils Kumar
 Ludvika 2. Point
 ABB, Charlie Norman, Dan 3. Kongsvinger (Norge)
-Andersson - Gränshandel rel
-\- Kongsvinger Festning SS - Kristofe
-= -Fotbol förslag till Få fler perspektiv och
-\- framtida lösningar petas uppdraget. Olika
-e a Erfarenhetsutby
-för olika fordon, te UA
+Andersson - Gränshandel
+\- Kongsvinger Festning | Kristofer Elo
+framtida Ilosningar 5.
+& a N 8 Erfarenhetsutby HR RES r h
+för olika fordon, te PER mn
 SE - lagstiftning Väg framåt i det Erfarenhetsutbyte
 Stadsbyggnasfö . ortsatta arbete
 rvaltningen -infrastruktur etc.
@@ -11773,8 +11865,8 @@ Hav,Öar,Festival
 . Har inga Höra om allas utmaningar,
 Jakob Olingdal förväntningar :) mål.
 \- Linköpings Ska bli Vill gärna höra idéer om
-kommun - ab lösningar - vi vet att mycket
-\- Sveg | spännande att kan bli bättre men måste
+kommun ab lösningar - vi vet att mycket
+\- Sveg spännande att kan bli bättre men måste
 \- Natur, fjäll, Dia log och se vad som sker ng hitta raka kössingen med
 träbjörn kti o verkyg hur vi
 perSspe tiv pa ska jobba i
@@ -11789,10 +11881,12 @@ att få in
 Oo
 synpunkter på
 Lära mig mer om .
-eldrivna verkliga behov
+eldrivna ve rkliga behov
 
 enpersonsfordon
 och workshops
+
+= -Fotbol förslag till Få fler perspektiv och
 
 <!-- sida 260 -->
 
@@ -11904,10 +11998,8 @@ POST-ITS PÅ PERSONLIG OS sn utifrån nu bra med
 ”TANKEYTA”. EEE gällande min bild
 
 lagstiftning,
-2\. TURAS OM ATT DRA IN Kommentar: En föreskrifter etc.
-POST-IT LAPPARNA TILL DEN reaktionstest finns i appen
-! pp
 
+POST-IT LAPPARNA TILL DEN reaktionstest finns i appen
 GEMENSAMMA ARBETSYTAN - för att testa om
 LÄS SNABBT UPP VAD SOM Ar at är on Kommentar:
 
@@ -11972,7 +12064,6 @@ personuppgifter
 Hålla
 användare
 personligen
-
 ansvariga
 
 Utbildning
@@ -11986,12 +12077,12 @@ FORDON
 Kommentar:
 
 Problem
-Kommentar: gor bra gångfart svårt
-frin, Eu att följa upp
-definition for cykel, sen är NMUNen exv. gågator
-frågan om SA inte — stiftning 828
+Kommentar: borbro gångfart svårt
+kommer Gatfraen — SOM att följa upp
+cyke .
+frågan om en cykel inte stiftning ör
 
-möter de kraven - exv. typen
+möter de kraven - exv.
 effekten är för hög. uktur,
 
 Återkommer till frågan — sarinte
@@ -12010,25 +12101,27 @@ som monitorer fordonet
 (accelerometer och GPS).
 Exempel Århus hur man har
 applicerat sensorer/infrastruktur
+
 för att följa upp/styra
 användningen
+Kommentar: Graden 1
+av ansvar beror på
+Kommentar:
 
-Kommentar: Graden
+om man hyr eller
+äger. Vad är
 
-av ansvar beror på mv ta
-om man hyr eller ommentar:
-. d: Zone management kan
-. äger. Vad är göras ihop med
 likheter/gemensamt
+?
 
+Zone management kan
+göras ihop med
 kommunerna i Sverige.
 Kommunikationen med
 användarna vilka zoner
 man finns på elcykeln och
 farten reduceras
 automatiskt
-
-?
 
 Geo zone
 
@@ -12047,34 +12140,29 @@ almän problemtisk,
 OPERATÖR & KOMMUN
 
 Mangel på även bil, men miljön
-beskyttede / användni
-cykelbaner tvinger området I kontexten scootraras
-fort folk på nn olsotörklanen ren skapar ny utmaning Vi behover positiva
-operatörerna, men det klare vilkår effekter döljs
-sköts väl bra, men hur kan Kommentar: Det bakom det
+beskyttede / användnings
+cykelbaner tvinger området / kontexten scootraras
+folk på KommentarVi har en skapar ny utmaning V/; sitiva
+fortovet/trottaren avsiktsförklaring med Vi behover offokt er döljs
+operatörerna, men det PR klare vilkår
+sköts väl bra, men hur kan : bakom det
 man göra för att få mer behövs inte tillstånd för
 ordning? Det blir mer saker att ställa ut fordonen, negativa
-det blir mycket sake
-de borde inte var: Det är som ligger på våra "
+det blir mycket saker
+de borde inte var: Det är som ligger på våra
 allmänna plats
-på trottoaren, volymen/mängdern (ordningsregler?) Drift och
-borde betraktas 250m är problemet.
-el Hur skulle det bli underhåll?
-UJ SUN en cyk när det blir större Blir det konflikt med andr. vad behövs
-an som efterfrågan och flere trafisklag? Parkering mm, nej de Tillstånd?
-fotgängare cyklar?? får anpassa sig till befintliga operatör/kommun?
-avsatta ytor. En politisk "het
-tet” - fri är det är
-Ja stämmer Man I Pbenov förort
-. . men ima är
-med jU INN > utormadepå ett annat sätt som
-problemfor mark kräver mer
+ordé 2 kel Hur skulle det bli underhåll?
+UUSI cyk när det blir större vad behövs
+an som efterfrågan och flere Re FER ERE AE Tillstånd?
+mean yvor. a politisk "het
+tet" - frågan är om det är
+Ja stämmer se men el sparkcyklarna är
+med Ju Ingen utformade på ett annat sätt som
 muleringen ”
 reglering av — avsiktsförklari
-flytt av cykelparkering — I
+flytt av cykelparkering = i
 öka k
 0\) rdo n omsättning, ac
-parkerin | skapa plats
 gsplatse
 r'
 Möten med
@@ -12092,6 +12180,10 @@ tex parkering. elsparkcykel
 ta från bilar &
 ge till
 elsparkcyklar
+
+definition for cykel, sen är NMUNen exv. gågator
+
+fotgängare cyklar?? får anpassa sig till befintliga operatör/kommun?
 
 <!-- sida 264 -->
 
@@ -12193,21 +12285,18 @@ Regler för parkering
 och fordonsflytt Vad
 kan kommuner göra
 (alla fordon)? + att
-
 använder förstår Regel
 efterlevnad
 behöver bli
-
 VI måste använda bättre
-
 reglerna som är
 
 mer/bättre -
 
 Inte vad gäller
 
-Fear enerella
-krav/mål G Se till
+Kommunala
+krav/mål Generella Se till
 (2 [Plan och ene
 parkeringsre
 och kvalitet av bästa
@@ -12222,7 +12311,7 @@ lagen? utformning av
 Regler för infrastruktur
 cykel och LOU Tillstånd
 Friad 0 >
-a Hantering av Regler för när
+Krav på Hantering av Regler för när
 Regler för poser Vad det fordonen oy de inte längre Krav på
 utrustning r är fordon tillstånd enligt
 utrustning fö förbrukat sin utan avfall GDPR = Miljöbalken ordningslagen
@@ -12235,9 +12324,10 @@ Baserat på ramverk skulle
 effektivitet, lokal hjälpa
 miljöpåverkan she
 e Oklart vad
-Oklart om det. Hurkommuner kan I som gäller
-krävs ökad flexibilitet till kopplat till
-ytterligare krav ex över dygnet/året ordningslagen
+Hur kommuner kan i
+Oklart om det. MISKOmmunerR som gäller
+I i
+ytterligare krav ex over aygnetåret ordningslagen
 \- flexibilitet vn OD
 v men Ö
 ha I staden? Oftast
@@ -12258,6 +12348,8 @@ användare?
 Ordningslagen
 = oklart vad
 som gäller
+
+krävs ökad flexibilitet till kopplat till
 
 <!-- sida 266 -->
 
@@ -12420,8 +12512,6 @@ eförbjud
 
 trafik påg
 gångbana
-
-\+ Q
 
 Kommentar: Är
 det biltrafiken
@@ -12741,7 +12831,6 @@ LTF:er stelbent skulle hjälp Färre
 ERE I Försämrad användare av
 ravs: lagstiftning attraktivitet — mikrobolitet - Osäkert om
 Flersom << för dennatyp kanske inte det gör
-Fler bryter mot av fordon önskat? någon riktig
 föreskrifter. Flera kt skillnad?
 Behövs nya föreskrifter
 vägmärken? och skyltar
@@ -12766,7 +12855,6 @@ uenighederne MIRO :) medverkande — mellan många
 parter krävs
 
 Tack för idag!
-BN cs I Der
 
 <!-- sida 272 -->
 
@@ -12828,60 +12916,30 @@ TRANSPORTSTYRELSEN
 PROJEKT: Facilitering Dialog kring Eldrivna
 enpersonsfordon
 
-WORKSHOP 24/26 NOV-20
-
-A
-
-VW TRANSPORT
-
-STYRELSEN
-
-Välkommen till Transportstyrelsens workshop!
-Till höger ser du föruppgiften vi bett er alla göra
-innan workshopen.
-
-Tack!
-
-1 Testa att zooma in
+1 Testa att zooma in 2 Skapa en post-it
 och ut
 
-.” lol l— + I 60
+WORKSHOP 24/26 NOV-20 20 sfEF)- -
 
 (meny längst ner till höger)
 
-för att göra
+b V TRANSPORT
+4 STYRELSEN
 
-post-it lappen
-större, "dra" i
-ett av hörnen
+för att göra (menyn till vänster)
 
-Navigation
+Välkommen till Transportstyrelsens workshop!
+Till höger ser du föruppgiften vi bett er alla göra Navigation
+VI I
+innan workshopen.
+| =» CD I»
 
-=» CD I»
+Håll nere mellanslag och klicka på Xx Om du har en touchpad
+vänster musknapp. på datorn, använd två
 
-SEELE E5
-SEED
-
-Håll nere mellanslag och klicka på
-vänster musknapp.
-Klicka och "dra" dig runt arbetsytan.
-
-ö
-
-2 Skapa en post-it
+Klicka och "dra" dig runt arbetsytan. fingrar för att navigera
 
 antas 050oO0H ur
-
-(menyn till vänster)
-
-RÅG
-
-Å |
-—— X —
-
-Om du har en touchpad
-på datorn, använd två
-fingrar för att navigera
 
 <!-- sida 282 -->
 
@@ -12891,7 +12949,6 @@ Vad heter du?
 . so so Johan Sundman Nils Kuma
 Vilken organisation jobbar du för? Trafikkontoret Stockholms stad Point
 Skärgård ARS OEM
-a rgard, et e natur 2 3
 \- Fotboll
 \- Skog
 
@@ -12952,25 +13009,13 @@ Unmute Start Video
 (meny längst ner till vänster)
 
 k
-
 \=
-
 T
-
 0\) Navigation
-
 MH
-
 /
-
 Ö
-
-= E
-
 H
-
-ED NY oo MÅ
-
 Bulk mode ST
 Håll nere mellanslag och klicka på X Om du har en touchpad
 vänster musknapp. på datorn, använd två
@@ -13135,7 +13180,7 @@ Optimerat våra fordon Fol(forskning och Lyckat arbete mot
 när de är parkerat fel - Ä branschen och från
 batteri tid, ofta fel på kn mopeder genom 2021, integrerad
 scooter, inte beteende i hjälmanvändning dialog med hjälm och blinkers
-forsta skeded vid arbetsresor moped branschen Meka nanNRAne
+forsta skeded vid arbetsresor moped branschen Mycka nana RAne
 Tydliga krav OO Ö utbyte =belöning för
 på våra hjälp
 användare:
@@ -13463,7 +13508,6 @@ Folk känner Smart cities? Olika ru kulonepoliöke = LOI (letter polistillstånd
 UTGLLSEIBYUENLSLAD ELLI Trafikregler reglarna eller nr Trafikförordninge — | YRKEN Is användarmijö === ofintent) räcker inte Ö
 POST-ITS PÅ PERSONLIG Trafikregler tänker att de företag pga det foljat med I n för alla i tidigsked ill fö operatör
 och . städerna (CO2 fria med till för
-"TANKEYTA". gäller själva tydliga standarder tex. handler om utveckling (så år xx etc) - universell design - följer inte
 ordnjggsregler blinker, broms... Kordaarern DM ,Snabbe- ESP har o sor plane kommuner operatör I)
 rithär kan diskutera och
 involvera I
@@ -13612,13 +13656,12 @@ DISKUSSION
 
 VAD TYCKER DU ATT TRANSPORTSTYRELSEN KAN
 
-. 140 KDU EA LER DIN ORGANISATION VAD KAN Sör TI SANMANS 2 GORA FÖR ATT STÖTTA I SVETE ATT FÖRENKLA
 | | REGLERNA, UNDERLÄTTA FÖR ANVÄNDARNA OCH ÖKA
 SÄKERHETEN I TRAFIKEN?
 SE SA Fortsätta KS älskat
 Sprida = godaexempel = Samverka KAR samverka Se möjligheter, Grunda beslut ändringar i
 användareom — | KUNSKAP | fömmore md medenmar samverka Tael Uvekngen förändringar) — SAN GT Väghålare
-lagar och AR och entreprenörer effekter Nol Mislonens (ev. lagar)
+lagar och AR och entreprenörer effekter No! Mislonens (ev. lagar)
 regler. sprida samverka mm principer
 kunskap in ra Lyfta fra
 somm sfvet | webben goda ” Forum för
@@ -13633,7 +13676,6 @@ tydigamen — Samverkan — — dningslagen —  förbudföe = min PR
 JT REN gnu - AE = Jämföra med Vara delaktiga i initiera ett
 på drift och ry Hi biltrafikens den nödvändiga nationellt Tr Utreda hur trim
 framgångar ESSER demoprojekt i möjlgheten att — Ejtillåtet att o ej godkända
-utifrån ett av regelverken för samverkan för ett hantera parkering framröra cyklar reellt kan
 systemperspektiv. Ökad säker oket tryggt och säkert och framförande = elsparkcykel minska i trafik
 Information GCM-system på gångbanor av — På gångbana
 Isparkcyklar,
@@ -14861,7 +14903,7 @@ Kungsbacka 4:52 inom etapp 2 av verksamhetsområdet i Klovsten (nedan ”Servitu
 2 Syfte
 
 Syftet med detta avtal är att komplettera Samarbetsavtal 2 och reglera parternas intentioner kring det
-fortsatta utvecklandet av och markägandet inom etapp 2, med anledning av bl a Sexvitutsavtalet.
+fortsatta utvecklandet av och markägandet inom etapp 2, med anledning av bl a Servitutsavtalet.
 Intentionerna ska sedan formaliseras och detaljregleras i kommande avtal mellan Parterna.
 
 <!-- sida 336 -->
@@ -15161,7 +15203,6 @@ VIAVEST AB
 Klovsten
 
 p>aygl
-rg
 
 MKB Bilaga 3
 Vattenkarta
@@ -15244,7 +15285,7 @@ Bygg EL 1 st | Skåp 1 I 6000 | 6000 | Elektrik | st > 10 690 6900 12900) 12900 
 oe ABTI1 70/100 40mm | 100 m? || | o | ABTIL | m | 100 | 250 | 25000 25000 250
 Sep-dec 21 Arbetsväg i öster | 4500 m? 125 125 L 225 Eta 3 4000 | 12000 | Slitlager | fon 200 - 920 . 18000 512750 114
 ee |Avverkning för arbetsväg öster 4500 m? 100 | a | | I | 0 Förstärkn | ton | 500 150 | 75000 p 125000] 28 |
-Fyllning väg 4500 | m > 125 solo 225 1 1 0 | Betong [ten 18 | 4000 | 72000 554750 123
+Fyllning väg 4500 | m > 125 solo 225 1 1 0 | Betong [ten 18 | 4000 | 72000 554750, 123
 Start okt 21 Geologisk barriär i öster 1 st] MH 40 I Mm | UI Mattor | st | 20 | 2000 —- 40000 83600 83600
 Jordschakt ner till lera 1 st | 80 | 160 I 0 st 0 sas 250400
 Utläggning lera 1 st 8 | 160 | | oh | ar | | [) Å 250400] 250400
@@ -15263,11 +15304,10 @@ danne fn FIS T t 1 ' —T I sr TR
 Maj-Sep 22 ÅAvvattning i väster 600 m | Lo | 0 mi - 0 0 0
 Jordschakt för öppet dike 300 | om | | 1 0 dia 800 om | 300 500 | 150000 150000) — 500
 Schakt för ledning 300 | m 80 80 160 ' 160 0 Sprängare | st I 200000 200000 706400] 2355
-I . - å ] Ra — ot cl BER I I
 |Ledningsbädd ledning 300 m” 40 . 40 | | 80 80 | I ] 0 0-32 ton 200 | 125 | 25000 278200 927
 L Kringfyllning ledning 1 I m? Å 40 - 4 40 407 | Lo | 032 Tion] 300 125 | 37500 193100, 193100
 NB inkl. betecknB10-1000 4 st 0 NB | st 4 40000 | 160000 160000) 40000
-| Geotextil 2300 | om? = | TT | rr | Geotextil  m? 2300 | 6 13800 13800] 6 |
+| Geotextil 2300 | om? = | OT TT | rr | Geotextil  m? 2300 | 6 13800 13800] 6 |
 Inmätning av ledningar 1 | - | | 0 st 1 | 20000 | 20000 20000) 20000
 | Utsättning, avvägning ot Te | 0 lst) I 10000 10000 10000] 10000
 Filmning, dokumentation | I st | —E | = | | 0 st 1 10000 10000 10000 10000

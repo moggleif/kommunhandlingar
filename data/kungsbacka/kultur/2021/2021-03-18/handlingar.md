@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220404172429id_/https://kungsbacka.se/d
 sha256: a01495c03e365a3701164c253b9e6725a40084e4180490a161828ef037685750
 bytes: 44129124
 sidor: 253
-hamtad: 2026-11-02T10:37:20+00:00
-konverterad: 2026-11-02T10:39:39+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T13:53:46+00:00
+konverterad: 2026-11-17T13:55:17+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ej-konverterad, ok, ocr, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ej-konverterad, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ocr, ej-konverterad, ok, ocr, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ej-konverterad, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ej-konverterad, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [59, 60, 61, 70, 71, 73, 76, 77, 78, 79, 90, 93, 94, 97, 98, 99, 100, 101, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 149, 150, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 169, 177, 178, 180, 182, 186, 190, 191, 192, 193, 195, 197, 198, 199]
 figurer: [22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 64, 71, 72, 73, 74, 75, 76, 90, 93, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 116, 117, 118, 119, 120, 121, 123, 124, 125, 126, 129, 130, 131, 132, 133, 134, 135, 136, 137, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 205, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253]
 tolkade: []
@@ -3074,15 +3074,12 @@ arbetet. MUCF står för utvärderingen av arbetet.
 I bilaga finns en beskrivning av det planerade arbetet i uppdraget.
 
 Datam +! Of OS CL -2 |
-W Ul fe
 
 Kungsbacka kommun
 
 Ulrika Granfors Stefan Holmgren
 
 <!-- sida 79 -->
-
-9339
 
 Polismyndigheten
 
@@ -3140,7 +3137,7 @@ Göteborg
 
 405 90 Göteborg
 
-III
+9339
 
 003949
 
@@ -3560,7 +3557,8 @@ www.kungsbacka.se/mhtaxa
 
 AVSÄNDARE/RETURADRESS
 Kungsbacka kommun, 434 81 Kungsbacka
-100000
+
+000001
 
 <!-- sida 91 -->
 
@@ -4006,6 +4004,27 @@ pension 59 94
 
 <!-- sida 146 -->
 
+Befolkningsutveckling 2010-2020
+
+Kungsbacka
+
+Befolkningsutveckling 2010-2020
+
+5000
+
+mv
+Fa
+
+3000
+
+2000
+
+1000
+
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+
+— Födda = === Döda = === [nflyttade Utflyttade
+
 <!-- sida 147 -->
 
 Befolkningsprognos (reviderad februari 2021)
@@ -4055,7 +4074,6 @@ fe 210 > Förskola och fritids. ee Ersättning sjukskrivningar 49 mnkr
 Ersättning sjukskrivningar ar Aldreomsorg, stora skillnader, lägre i ett antal Merkostnader covid-19 23 mnkr
 Summa 25,7 kommuner. . a
 Nettokostnadsutveckling, stora skillnader, lägre i några Krisstöd 1 mnkr
-SR |
 merkostnader eller Merkostnader Covid-19 hälso- och regtoner. S umma:? 231 mn kr
 intäktsförluster sjukvård och omsorg 21,0 —
 Intäktsförlust Kollektivtrafik 3,0
@@ -4270,40 +4288,49 @@ Så planerar vi att det ska bli
 
 <!-- sida 158 -->
 
-Miljoner
-
 Resultatet
-
-Kungsbacka
 
 Resultatets andel av skatt o
 
-450 statsbidrag (20) 415
+450 statsbidrag (9260)
 
 400
+350
+300
+250
 
-350 1,97 3,69
+200
 
-300 2,990
-
-213
-250 2,90
-3,590
-200 179 176 2.190
-15
-96 104 1,090
-10
-
-2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
-Så blev det Så planerar vi att det ska bli
-
-O
-
-O
+179 163 171
+150
+104
+100 96 89
 
 O
 
 Oo
+
+Kungsbacka
+
+415
+
+1,90 3.624
+
+2,90
+
+273
+2,99
+3,5940
+176 2;190
+1,090 il |
+
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+
+Så blev det
+
+Så planerar vi att det ska bli
+
+Miljoner
 
 <!-- sida 159 -->
 

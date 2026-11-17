@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320144517id_/https://www.kungsbacka.
 sha256: e01c9e684b30bbfebafc2696e4cecb9545ebdae958d4f2a8e6150e594a1dd62f
 bytes: 207136
 sidor: 4
-hamtad: 2026-10-31T09:51:52+00:00
-konverterad: 2026-10-31T09:51:57+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T14:01:01+00:00
+konverterad: 2026-11-17T14:01:05+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, ok, ok]
@@ -40,29 +40,38 @@ Kungsbackarummet, Storgatan 37
 
 Val av justerare                Monica Neptun
 
-1\.  Rapport från nämnden för Vård 2021-00271 Förslag till beslut i kommunfullmäktige
-& Omsorg om ej verkställda      Kommunfullmäktige noterar rapport från nämnden
-beslut enligt SoL och LSS,      för Vård & Omsorg enligt 16 kap 6 f §
-kvartal 4 2020                  socialtjänstlagen och 28 f § lagen om stöd och
+1\. Rapport från nämnden för Vård 2021-00271 Förslag till beslut i kommunfullmäktige
+& Omsorg om ej verkställda       Kommunfullmäktige noterar rapport från nämnden
+beslut enligt SoL och LSS,       för Vård & Omsorg enligt 16 kap 6 f §
+kvartal 4 2020                   socialtjänstlagen och 28 f § lagen om stöd och
 service till vissa funktionshindrade till protokollet.
 
-2\.  Rapport från nämnden för 2021-00285 Förslag till beslut i kommunfullmäktige
-Individ & Familjeomsorg enligt  Kommunfullmäktige noterar rapport från nämnden
-socialtjänstlagen och lagen om  för Individ & Familjeomsorg enligt 16 kap 6 f §
-
-stöd och service till vissa     socialtjänstlagen och 28 f § lagen om stöd och
-funktionshindrade kvartal 4     service till vissa funktionshindrade till protokollet.
+2\. Rapport från nämnden för
+Individ & Familjeomsorg enligt
+socialtjänstlagen och lagen om
+stöd och service till vissa
+funktionshindrade kvartal 4
 2020
 
-3\.  Fördelning av stadsbidrag från 2021-00306 Förslag till beslut i kommunfullmäktige
-Skolverket                      Kommunfullmäktige fördelar Kungsbacka kommuns
+3\. Fördelning av stadsbidrag från
+Skolverket
+
+2021-00285 Förslag till beslut i kommunfullmäktige
+Kommunfullmäktige noterar rapport från nämnden
+för Individ & Familjeomsorg enligt 16 kap 6 f §
+socialtjänstlagen och 28 f § lagen om stöd och
+service till vissa funktionshindrade till protokollet.
+
+2021-00306 Förslag till beslut i kommunfullmäktige
+
+Kommunfullmäktige fördelar Kungsbacka kommuns
 andel av skolmiljarden med 7 169 477 kronor till
 nämnden för Förskola & Grundskola och 2 745 920
 kronor till nämnden för Gymnasium &
 Arbetsmarknad.
 
 Andrea Egerlundh                                             Kungsbacka kommun
-Kommunledningskontoret                                        434 81 Kungsbacka
+Kommunledningskontoret                                       434 81 Kungsbacka
 Direkt 0300-834272
 (e-post borttagen)                                  Besöksadress
 Stadshuset, Storgatan 37

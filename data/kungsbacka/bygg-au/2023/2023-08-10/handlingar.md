@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250516133948id_/https://kungsbacka.se/d
 sha256: 3b3bc237d3e8194254f8cd8308cd526196e36fb358eee0aef34dda43e01e5c7a
 bytes: 1156798
 sidor: 7
-hamtad: 2026-10-20T09:44:03+00:00
-konverterad: 2026-10-20T09:44:18+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T11:33:39+00:00
+konverterad: 2026-11-17T11:33:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr]
@@ -277,7 +277,6 @@ Gårdå Så
 [sed Härkila I. Mälltorp
 Håkankila cen Rygal— Aratorp
 å innahult , Offentlig & Aktiv &
-in a M
 "= MD. mö - Tlagnad för
 än Sven elbilsladdning
 RN Skene — Örby
@@ -344,8 +343,6 @@ orsaker än att ladda och där inte marknadsaktörer bygger ut.
 )
 
 [3]
-
-I UUAA ( A Vv VUONMAS
 
 S
 

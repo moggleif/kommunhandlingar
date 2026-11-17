@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319220111id_/https://www.kungsbacka.
 sha256: d2b012e339142380821849b4b89234fc4f2014bfd5085af34739b40b949c8fdc
 bytes: 44276454
 sidor: 145
-hamtad: 2026-10-27T09:35:18+00:00
-konverterad: 2026-10-27T09:36:44+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:11:46+00:00
+konverterad: 2026-11-17T12:12:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -1737,7 +1737,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 44 -->
 
-( AA vr ou
 | .  Nverigedemokrater HA
 Förslag till beslut i kommunstyrelsen Kungsbacka 210921
 
@@ -2001,7 +2000,6 @@ Med detta som bakgrund yrkar jag:
 » att kommunfullmäktige beslutar om att ta fram ett förslag på hur tjänstepersoner i berörda
 
 förvaltningar kan stödja samtliga partier även utanför majoriteten med sina budgetförslag
-FA ENTER Caen
 
 Ledamot Kommunfullmäktige
 
@@ -2201,7 +2199,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 54 -->
 
-| ” . / /
 | .  Nverigedemokrater HA
 
 210824
@@ -2243,7 +2240,7 @@ representanter från de partier i fullmäktige som inte är representerade i KSA
 
 -Att ändra benämningen från Budgetberedning till Verksamhetsberedning
 
-Carita Boutwén (SD)
+Carita Boulwén (SD)
 
 Stefan Jägnert (SD)
 
@@ -2956,6 +2953,13 @@ Informationssäkerhet
 UPPFÖLJNING AV GRANSKNING AV
 INFORMATIONSSÄKERHET
 
+Uppföljning av granskning av informationssäkerhet                 1 (4)
+
+Datum
+2021-08-26
+Nedan framgår granskningens rekommendationer samt kommunstyrelsen och övriga
+nämnders gemensamma svar på de frågor som ställts i aktuell uppföljning 2021.
+
 Kommunstyrelsens förvaltning                                 Kungsbacka kommun
 Lotta Blomqvist                                               434 81 Kungsbacka
 Säkerhets- och beredskapschef
@@ -2965,14 +2969,8 @@ Fax 0300-83 47 04
 (e-post borttagen)
 (e-post borttagen)
 www.kungsbacka.se
-92-50-3102
-,0.2v
-,2001BUK
-Uppföljning av granskning av informationssäkerhet                 1 (4)
-Datum
-2021-08-26
-Nedan framgår granskningens rekommendationer samt kommunstyrelsen och övriga
-nämnders gemensamma svar på de frågor som ställts i aktuell uppföljning 2021.
+
+KUB1002, v2.0, 2013-05-29
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
 
@@ -5147,8 +5145,6 @@ PLANOMRÅDE
 
 Re
 
-tv TM FR MR RR
-
 VY FRÅN VÄST
 
 VY FRÅN ÖST
@@ -5262,8 +5258,6 @@ O
 
 4
 
-Sr i| () |
-
 7 p-platser
 0\) 3
 
@@ -5275,7 +5269,6 @@ NN
 
 SITUATIONSPLAN I SKALA 1:1000
 
-tD La
 a 2 HKP, 6 p-platser 2
 
 ÖJLIG INFART ALT.
@@ -5305,8 +5298,6 @@ VY FRÅN ÖST
 VY FRÅN VÄST
 
 PLANOMRÅDET Skala 1:2500(A3)
-
-| q ch
 
 FRILLESÅS-RYA 2:3, LURENDAL 1:3 I ANSÖKAN PLANBESKED
 

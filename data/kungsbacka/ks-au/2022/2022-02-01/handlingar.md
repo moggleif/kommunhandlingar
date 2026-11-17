@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320083041id_/https://www.kungsbacka.
 sha256: c863468727c1f01616b3a3a4a42217d0a95b0edd58578b88da248589bd08b219
 bytes: 11625403
 sidor: 96
-hamtad: 2026-10-27T09:49:04+00:00
-konverterad: 2026-10-27T09:49:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:13:21+00:00
+konverterad: 2026-11-17T12:13:56+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -1581,7 +1581,7 @@ dess verksamhet.
 \|
 § 12 Underlag och principer för kostnadsfördelning
 Principerna för kostnadsfördelning för ÖFS verksamhet, vilka kostnader som omfattas och
-hur dessa ska regleras framgår av 7§, 8§, 108 och 118 i Samverkansavtalet och gäller med
+hur dessa ska regleras framgår av 7§, 8§, 108 och 11§ i Samverkansavtalet och gäller med
 följande tillägg och förtydliganden.
 
 Underlaget för kostnadsfördelningen ska, utöver vad som anges i Samverkansavtalet, även
@@ -1723,9 +1723,8 @@ FIA
 | vil I Överförmyndare
 (tm i Samverkan
 
-I
+,:
 å 0 a
-ARYCA + KUNGSBAC + MÖLNDAL + PARTILL
 
 Tillägg till Samverkansavtal 2015 om gemensam överförmyndarorganisation för Härryda, Kungsbacka, Mölndal och Partille kommuner
 
@@ -1745,6 +1744,8 @@ STeIaN SVENSSON Per Bäckström
 Kommunstyrelsens ordförande Kommundirektör
 
 8 (8)
+
+ARYCA + KUNGSBAC + MÖLNDAL + PARTILL
 
 <!-- sida 42 -->
 
@@ -2095,7 +2096,6 @@ Reglemente för k ommunrevisionen Sida 5 av 5
 <!-- sida 51 -->
 
 ÄNDRINGSREGISTER
-
 Datum
 2021-11-30
 Diarienummer
@@ -2104,8 +2104,8 @@ KS 2021-00946
 Ändringsregister för kommunrevisionens reglemente
 
 Ingress
-
 Nuvarande lydelse               Föreslagen lydelse
+
 Utöver det som föreskrivs i kommunallagen
 eller andra författningar och i Gemensamt
 reglemente för kommunstyrelsen och nämnder
@@ -2114,31 +2114,57 @@ i detta reglemente.
 
 1 § Revisionens roll uppdrag
 
-Nuvarande lydelse                Föreslagen lydelse
-Revisorerna och lekmannarevisorerna Kommun- och lekmannarevisorerna
-(revisionen)                     (revisionen) med sakkunniga biträden som
+Nuvarande lydelse
+
+Revisorerna och lekmannarevisorerna
+(revisionen)
+
+är fullmäktiges och ytterst
+medborgarnas demokratiska instrument för
+granskning och kontroll av den verksamhet
+som bedrivs i styrelser, nämnder,
+fullmäktigeberedningar och företag.
+Revisionen har en central roll när det gäller att
+säkerställa insynen i och kontrollen av all
+verksamhet som kommunen ansvarar för.
+Den har därmed en viktig funktion i
+den lokala självstyrelsen. Revisionen kan
+skänka legitimitet och förtroende åt
+verksamheten, men också vara förmedlare av
+väsentlig och nödvändig kritik. Med sina
+insatser kan revisionen också generera bidrag
+
+till förbättring och utveckling.
+Den övergripande revisionsuppgiften i
+kommunen är att granska om verksamheten
+följer fullmäktiges beslut och om
+verksamheten uppnår de politiska målen inom
+
+Föreslagen lydelse
+
+Kommun- och lekmannarevisorerna
+(revisionen) med sakkunniga biträden som
 revisionen anlitar
-är fullmäktiges och ytterst      är fullmäktiges och ytterst medborgarnas
+är fullmäktiges och ytterst medborgarnas
+demokratiska instrument för granskning och
+kontroll av den verksamhet som bedrivs i
+styrelser, nämnder samt
+fullmäktigeberedningar och företag.
+Revisionen har en central roll när det gäller att
+säkerställa insynen i och kontrollen av all
+verksamhet som kommunen ansvarar för.
+Revisionen har därmed en viktig funktion i den
+lokala självstyrelsen. Revisionen kan skänka
+legitimitet och förtroende åt verksamheten,
+men också vara förmedlare av väsentlig och
+nödvändig kritik. Med sina insatser kan
 
-medborgarnas demokratiska instrument för demokratiska instrument för granskning och
-granskning och kontroll av den verksamhet kontroll av den verksamhet som bedrivs i
-som bedrivs i styrelser, nämnder, styrelser, nämnder samt
-fullmäktigeberedningar och företag. fullmäktigeberedningar och företag.
-Revisionen har en central roll när det gäller att Revisionen har en central roll när det gäller att
-säkerställa insynen i och kontrollen av all säkerställa insynen i och kontrollen av all
-verksamhet som kommunen ansvarar för. verksamhet som kommunen ansvarar för.
-Den har därmed en viktig funktion i Revisionen har därmed en viktig funktion i den
-den lokala självstyrelsen. Revisionen kan lokala självstyrelsen. Revisionen kan skänka
-skänka legitimitet och förtroende åt legitimitet och förtroende åt verksamheten,
-verksamheten, men också vara förmedlare av men också vara förmedlare av väsentlig och
-väsentlig och nödvändig kritik. Med sina nödvändig kritik. Med sina insatser kan
-insatser kan revisionen också generera bidrag revisionen också generera bidrag till
-till förbättring och utveckling. förbättring och utveckling.
-
-Den övergripande revisionsuppgiften i Den övergripande revisionsuppgiften i
-kommunen är att granska om verksamheten kommunen är att granska om verksamheten
-följer fullmäktiges beslut och om följer fullmäktiges beslut och om
-verksamheten uppnår de politiska målen inom verksamheten uppnår de politiska målen inom
+revisionen också generera bidrag till
+förbättring och utveckling.
+Den övergripande revisionsuppgiften i
+kommunen är att granska om verksamheten
+följer fullmäktiges beslut och om
+verksamheten uppnår de politiska målen inom
 
 Kommunledningskontoret                                Kungsbacka kommun
 Kansliet                                               434 81 Kungsbacka
@@ -2153,52 +2179,77 @@ www.kungsbacka.se
 
 KUNGSBACKA KOMMUN                                           2 (8)
 
-givna ekonomiska ramar. En väsentlig del är givna ekonomiska ramar. En väsentlig del är
-att främja arbetet med styrning och kontroll av att främja arbetet med styrning och kontroll av
-verksamheten.                    verksamheten.
-Att vara revisor och lekmannarevisor är ett Att vara revisor och lekmannarevisor är ett
-förtroendeuppdrag vars syfte är att med förtroendeuppdrag vars syfte är att med
+givna ekonomiska ramar. En väsentlig del är
+att främja arbetet med styrning och kontroll av
+verksamheten.
 
-oberoende, saklighet och integritet främja, oberoende, saklighet och integritet främja,
-granska och bedöma verksamheten. granska och bedöma verksamheten.
+Att vara revisor och lekmannarevisor är ett
+förtroendeuppdrag vars syfte är att med
+oberoende, saklighet och integritet främja,
+granska och bedöma verksamheten.
+
+Revisorerna granskar årligen i den omfattning
+som följer av god revisionssed all verksamhet
+som bedrivs inom nämndernas
+verksamhetsområden. De granskar på samma
+sätt genom de revisorer eller
+lekmannarevisorer som utsetts i kommunala
+bolag och stiftelser verksamheten i dessa.
+Revisorerna prövar om verksamheten sköts på
+ett ändamålsenligt och från ekonomisk
+synpunkt tillfredsställande sätt, om
+räkenskaperna är rättvisande och om den
+interna kontrollen som görs inom nämnderna
+är tillräcklig.
+
+givna ekonomiska ramar. En väsentlig del är
+att främja arbetet med styrning och kontroll av
+verksamheten.
+
+Att vara revisor och lekmannarevisor är ett
+förtroendeuppdrag vars syfte är att med
+oberoende, saklighet och integritet främja,
+granska och bedöma verksamheten.
 Kommunrevisionen och lekmannarevisorerna
 är oberoende, sakliga och har hög integritet
 när de granskar och bedömer verksamheten.
-Revisorerna granskar årligen i den omfattning
+
 Revisorerna granskar årligen i den omfattning
 som följer av god revisionssed all verksamhet
-som följer av god revisionssed all verksamhet
-som bedrivs inom nämndernas
 som bedrivs inom nämndernas
 verksamhetsområden. De granskar på samma
-verksamhetsområden. De granskar på samma
-sätt genom de revisorer eller
 sätt genom de revisorer eller
 lekmannarevisorer som utsetts i kommunala
-lekmannarevisorer som utsetts i kommunala
-bolag och stiftelser verksamheten i dessa.
 bolag och stiftelser verksamheten i dessa.
 Revisorerna prövar om verksamheten sköts på
-Revisorerna prövar om verksamheten sköts på
 ett ändamålsenligt och från ekonomisk
-ett ändamålsenligt och från ekonomisk
-synpunkt tillfredsställande sätt, om
+
 synpunkt tillfredsställande sätt, om
 räkenskaperna är rättvisande och om den
-räkenskaperna är rättvisande och om den
-interna kontrollen som görs inom nämnderna
 interna kontrollen som görs inom nämnderna
 är tillräcklig.
-är tillräcklig.
+
 § 2 Revisionens formella reglering
-Nuvarande lydelse               Föreslagen lydelse
-Revisionsarbetet ska bedrivas med Revisionsarbetet ska bedrivas med
-utgångspunkt från bestämmelserna i lag, utgångspunkt från bestämmelserna i lag,
-”God redovisningssed i kommunal ”God redovisningssed i kommunal
-verksamhet”, utfärdade ägardirektiv samt verksamhet”, utfärdade ägardirektiv samt
-detta reglemente.               detta reglemente.
+
+Nuvarande lydelse
+
+Revisionsarbetet ska bedrivas med
+utgångspunkt från bestämmelserna i lag,
+”God redovisningssed i kommunal
+verksamhet”, utfärdade ägardirektiv samt
+detta reglemente.
+
+Föreslagen lydelse
+
+Revisionsarbetet ska bedrivas med
+utgångspunkt från bestämmelserna i lag,
+”God redovisningssed i kommunal
+verksamhet”, utfärdade ägardirektiv samt
+detta reglemente.
+
 § 3 Revisorernas antal och organisation
-Nuvarande lydelse               Föreslagen lydelse
+Nuvarande lydelse                Föreslagen lydelse
+
 Kungsbacka kommun har fem-sju revisorer Kungsbacka kommun har fem-sju minst fem
 som efter allmänna val utses av fullmäktige revisorer som efter allmänna val utses av
 för en mandatperiod. Uppdraget är slutfört när fullmäktige för en mandatperiod. Uppdraget är
@@ -2213,27 +2264,35 @@ KUNGSBACKA KOMMUN                                           3 (8)
 
 mandatperioden inleds därför med dubbla mandatperioden inleds därför med dubbla
 grupper revisorer.              grupper revisorer.
+
 Om en revisor avgår eller uppdraget på något Om en revisor avgår eller uppdraget på något
 sätt upphör under mandatperioden förrättar sätt upphör under mandatperioden förrättar
 fullmäktige fyllnadsval snarast möjligt. fullmäktige fyllnadsval snarast möjligt.
 
 § 4 Val av ordförande
-
 Nuvarande lydelse               Föreslagen lydelse
-Fullmäktige skall, för den tid som fullmäktige Fullmäktige skall, för den tid som fullmäktige
 
+Fullmäktige skall, för den tid som fullmäktige Fullmäktige skall, för den tid som fullmäktige
 bestämmer, välja en ordförande  bestämmer, välja en ordförande och en vice
 och en vice ordförande.         ordförande.
 
 § 5 Val av lekmannarevisorer i kommunala bolag samt revisorer i stiftelser
 
-Nuvarande lydelse               Föreslagen lydelse
-För att främja ett fullt samordnat För att främja ett fullt samordnat
-revisionsarbete utser fullmäktige samtliga revisionsarbete utser fullmäktige samtliga
-kommunens revisorer till lekmannarevisorer i kommunens revisorer till lekmannarevisorer i
-aktiebolag samt revisorer i kommunens aktiebolag samt revisorer i kommunens
+Nuvarande lydelse
 
-stiftelser.                     stiftelser.
+För att främja ett fullt samordnat
+revisionsarbete utser fullmäktige samtliga
+kommunens revisorer till lekmannarevisorer i
+aktiebolag samt revisorer i kommunens
+stiftelser.
+
+Föreslagen lydelse
+
+För att främja ett fullt samordnat
+revisionsarbete utser fullmäktige samtliga
+kommunens revisorer till lekmannarevisorer i
+aktiebolag samt revisorer i kommunens
+stiftelser.
 
 § 6 Revisionens arbetssätt
 Nuvarande lydelse               Föreslagen lydelse
@@ -2242,13 +2301,22 @@ Revisorerna arbetar samfällt med hela Revisorerna arbetar samfällt samlat med 
 granskningsuppdraget.           granskningsuppdraget.
 
 § 7 Revisorernas uppgifter
-Nuvarande lydelse               Föreslagen lydelse
 
-Utöver granskningsuppdraget svarar Utöver granskningsuppdraget svarar
-revisorerna för granskningen av till revisorerna för granskningen av till
-kommunen lämnade donationsstiftelser i de kommunen lämnade donationsstiftelser i de
-fall donationsstiftelsen inte enligt lag ska ha fall donationsstiftelsen inte enligt lag ska ha
-auktoriserad eller godkänd revisor auktoriserad eller godkänd revisor.
+Nuvarande lydelse
+Utöver granskningsuppdraget svarar
+
+revisorerna för granskningen av till
+kommunen lämnade donationsstiftelser i de
+fall donationsstiftelsen inte enligt lag ska ha
+auktoriserad eller godkänd revisor
+
+Föreslagen lydelse
+Utöver granskningsuppdraget svarar
+
+revisorerna för granskningen av till
+kommunen lämnade donationsstiftelser i de
+fall donationsstiftelsen inte enligt lag ska ha
+auktoriserad eller godkänd revisor.
 
 § 8 Revisorer för bolag och stiftelser
 Nuvarande lydelse               Föreslagen lydelse
@@ -2264,32 +2332,42 @@ utse auktoriserade och godkända revisorer. utse auktoriserade eller godkända r
 § 9 Misstanke om brott
 Nuvarande lydelse               Föreslagen lydelse
 
-Om revisorerna i sin granskning finner att det Om revisorerna i sin granskning finner att det
-föreligger misstanke om brott ska de anmäla föreligger misstanke om brott ska de anmäla
-förhållandet till berörd nämnd/styrelse. Om förhållandet till berörd nämnd/styrelse. Om
-nämnden/styrelsen finner att det föreligger nämnden/styrelsen finner att det föreligger
-misstanke om brott och inte utan oskäligt misstanke om brott och inte utan oskäligt
-dröjsmål vidtar åtgärder, är revisorerna dröjsmål vidtar åtgärder, är revisorerna
-skyldiga att rapportera agerandet till skyldiga att rapportera agerandet till
-fullmäktige.                    fullmäktige.
+Om revisorerna i sin granskning finner att det
+föreligger misstanke om brott ska de anmäla
+förhållandet till berörd nämnd/styrelse. Om
+nämnden/styrelsen finner att det föreligger
+misstanke om brott och inte utan oskäligt
+dröjsmål vidtar åtgärder, är revisorerna
+skyldiga att rapportera agerandet till
+fullmäktige.
+
+Om revisorerna i sin granskning finner att det
+föreligger misstanke om brott ska de anmäla
+förhållandet till berörd nämnd/styrelse. Om
+nämnden/styrelsen finner att det föreligger
+misstanke om brott och inte utan oskäligt
+dröjsmål vidtar åtgärder, är revisorerna
+skyldiga att rapportera agerandet till
+fullmäktige.
 
 § 10 Initiativrätt
-Nuvarande lydelse               Föreslagen lydelse
 
+Nuvarande lydelse               Föreslagen lydelse
 Revisorerna har rätt att väcka ärenden i Revisorerna har rätt att väcka ärenden i
 nämnder, styrelser, fullmäktige och nämnder, styrelser, fullmäktige och
 fullmäktigeberedningar med anledning av sin fullmäktigeberedningar med anledning av sin
 granskning.                     granskning.
 
 § 11 Revisorernas ekonomi
-Nuvarande lydelse               Föreslagen lydelse
 
+Nuvarande lydelse               Föreslagen lydelse
 Kommunfullmäktiges presidium har i uppgift Kommunfullmäktiges presidium har i uppgift
 att bereda budget för revisorernas, att bereda budget för revisorernas,
 lekmannarevisorernas och utsedda revisorer i lekmannarevisorernas och utsedda revisorer i
 stiftelsers verksamhet.         stiftelsers verksamhet
 
 budgetram för kommunrevisionen.
+
 Efter verksamhetsåret ska presidiet granska Efter verksamhetsåret ska presidiet granska
 av revisorerna upprättad rapport över den rapport som revisorerna upprättar över
 räkenskaper och verksamhet och redovisa sina räkenskaper och sin verksamhet.
@@ -2311,14 +2389,23 @@ revision samt sakkunniga biträden till dessa. revision samt sakkunniga biträde
 § 13 Revisorernas sakkunniga biträden
 Nuvarande lydelse               Föreslagen lydelse
 
-Revisorerna och lekmannarevisorerna anlitar Revisorer och lekmannarevisorer anlitar
-själva sakkunniga i den         själva sakkunniga i den
-omfattning som behövs för att fullgöra omfattning som behövs för att fullgöra
-granskning enligt god revisionssed. granskning enligt god revisionssed.
-Vid upphandling tillämpas kommunens Vid upphandling tillämpas kommunens
-upphandlingsregler. Beslut om upphandling upphandlingsregler. Beslut om upphandling
+Revisorerna och lekmannarevisorerna anlitar
+själva sakkunniga i den
+omfattning som behövs för att fullgöra
+granskning enligt god revisionssed.
+Vid upphandling tillämpas kommunens
+upphandlingsregler. Beslut om upphandling
+
+fattas av revisorerna själva.
+
+Revisorer och lekmannarevisorer anlitar
+själva sakkunniga i den
+omfattning som behövs för att fullgöra
+granskning enligt god revisionssed.
+Vid upphandling tillämpas kommunens
+upphandlingsregler. Beslut om upphandling
 samt tilldelningsbeslut
-fattas av revisorerna själva.   fattas av revisorerna själva.
+fattas av revisorerna själva.
 
 § 14 Sakkunnigas rätt till upplysning
 Nuvarande lydelse               Föreslagen lydelse
@@ -2329,15 +2416,15 @@ revisorernas rätt till upplysningar gäller också revisorernas rätt till uppl
 de sakkunniga biträdena.        de sakkunniga biträdena.
 
 § 15 Revisorernas arbetsformer
-
 Nuvarande lydelse               Föreslagen lydelse
-Ordföranden kallar revisorerna till Ordföranden kallar revisorerna till
 
+Ordföranden kallar revisorerna till Ordföranden kallar revisorerna till
 sammankomster i granskningsarbetet och sammankomster i granskningsarbetet och till
 till sammanträden i ärenden om sin sammanträden i ärenden om sin förvaltning
 förvaltning och om jäv.         och om jäv. Fråga om jäv ställs vid
 sammanträdet.
 Enskilda revisorer får till dessa sammanträden Enskilda revisorer får till dessa sammanträden
+
 kalla även sakkunniga och andra experter kalla även sakkunniga och andra experter
 samt förtroendevalda i          samt förtroendevalda i
 fullmäktigeberedningar och nämnder. fullmäktigeberedningar och nämnder.
@@ -2349,27 +2436,44 @@ Nuvarande lydelse               Föreslagen lydelse
 
 KUNGSBACKA KOMMUN                                           6 (8)
 
-Ordförande ansvarar för att     Ordförande ansvarar för att
-minnesanteckningar förs vid revisorernas minnesanteckningar förs vid revisorernas
-sammankomster. En skrivelse i revisorernas sammankomster. En skrivelse i revisorernas
-namn i granskningsarbetet fordrar namn i granskningsarbetet fordrar att
-att alla revisorer är ense om skrivelsens alla revisorer är ense om skrivelsens
-innehåll. Skrivelsen ska undertecknas innehåll. Skrivelsen ska undertecknas
-av ordföranden och av ytterligare en person av ordföranden och av ytterligare en person
-som revisorerna utser.          som revisorerna utser.
+Ordförande ansvarar för att
+minnesanteckningar förs vid revisorernas
+sammankomster. En skrivelse i revisorernas
+namn i granskningsarbetet fordrar
+att alla revisorer är ense om skrivelsens
+innehåll. Skrivelsen ska undertecknas
+av ordföranden och av ytterligare en person
+som revisorerna utser.
+
+Ordförande ansvarar för att
+minnesanteckningar förs vid revisorernas
+sammankomster. En skrivelse i revisorernas
+namn i granskningsarbetet fordrar att
+alla revisorer är ense om skrivelsens
+innehåll. Skrivelsen ska undertecknas
+av ordföranden och av ytterligare en person
+som revisorerna utser.
 
 § 17 Revisionens förvaltning
 Nuvarande lydelse               Föreslagen lydelse
 
 De beslut som revisorerna fattar om De beslut som revisorerna fattar om
 förvaltning och jäv ska tas upp i protokoll. förvaltning och jäv ska tas upp i protokoll.
-Ordföranden ansvarar för att protokoll Ordföranden ansvarar för att protokoll
-upprättas. Protokollet justeras av ordföranden upprättas. Protokollet justeras av ordföranden
-och en annan revisor. Revisorerna kan besluta och en annan revisor. Revisorerna kan besluta
 
-att en paragraf i protokollet ska justeras att en paragraf i protokollet ska justeras
-omedelbart. Paragrafen ska redovisas omedelbart. Paragrafen ska redovisas
-skriftligt innan den justeras.  skriftligt innan den justeras.
+Ordföranden ansvarar för att protokoll
+upprättas. Protokollet justeras av ordföranden
+och en annan revisor. Revisorerna kan besluta
+att en paragraf i protokollet ska justeras
+omedelbart. Paragrafen ska redovisas
+skriftligt innan den justeras.
+
+Ordföranden ansvarar för att protokoll
+upprättas. Protokollet justeras av ordföranden
+och en annan revisor. Revisorerna kan besluta
+att en paragraf i protokollet ska justeras
+omedelbart. Paragrafen ska redovisas
+skriftligt innan den justeras.
+
 Kommunrevisionen lämnar ekonomirapporter
 över sin egen förvaltning enligt
 kommunfullmäktiges regelverk.
@@ -2379,15 +2483,16 @@ Nuvarande lydelse               Föreslagen lydelse
 
 Revisionsberättelse lämnas till fullmäktige vid Revisionsberättelse lämnas till fullmäktige vid
 den tidpunkt som fullmäktige bestämmer. den tidpunkt som fullmäktige bestämmer.
+
 Till revisionsberättelsen fogas en förteckning Till revisionsberättelsen fogas en förteckning
 över de granskningsrapporterna  över de granskningsrapporterna granskningar
-
 som rapporterats till fullmäktige under det som rapporterats till fullmäktige under det
 senaste året. Likadant förfarande gäller för senaste året. Likadant förfarande gäller för
 lekmannarevisorerna.            lekmannarevisorerna.
 De sakkunnigas rapporter kan överlämnas till De sakkunnigas rapporter kan överlämnas till
 fullmäktige successivt, varefter de fullmäktige successivt, varefter de
 färdigställs, vilket ska anses vara detsamma färdigställs, vilket ska anses vara detsamma
+
 som att dessa fogas till revisionsberättelsen. som att dessa fogas till revisionsberättelsen.
 
 <!-- sida 57 -->
@@ -2410,23 +2515,41 @@ fullmäktiges ledamöter.
 § 19 Rapportering till kommunfullmäktige
 Nuvarande lydelse               Föreslagen lydelse
 
-Revisorerna redovisar löpande resultaten i Revisorerna redovisar löpande resultaten i
-granskningsrapporten till fullmäktige av granskningsrapporten till fullmäktige av
-respektive ansvarig revisor. Så snart en respektive ansvarig revisor. Så snart en
-granskning är avslutad tillställs granskning är avslutad tillställs
-fullmäktiges presidium granskningsrapporten. fullmäktiges presidium granskningsrapporten.
-Fullmäktiges presidium svarar   Fullmäktiges presidium svarar
-för vidare spridning till fullmäktiges för vidare spridning till fullmäktiges
-ledamöter.                      ledamöter.
+Revisorerna redovisar löpande resultaten i
+granskningsrapporten till fullmäktige av
+respektive ansvarig revisor. Så snart en
+granskning är avslutad tillställs
+fullmäktiges presidium granskningsrapporten.
+Fullmäktiges presidium svarar
+för vidare spridning till fullmäktiges
+ledamöter.
+
+Revisorerna redovisar löpande resultaten i
+granskningsrapporten till fullmäktige av
+respektive ansvarig revisor. Så snart en
+granskning är avslutad tillställs
+fullmäktiges presidium granskningsrapporten.
+Fullmäktiges presidium svarar
+för vidare spridning till fullmäktiges
+ledamöter.
 
 § 19 Revisorernas utlåtande om delårsrapporten
-Nuvarande lydelse               Föreslagen lydelse
 
-Revisorernas utlåtande om delårsrapport ska Revisorernas utlåtande om delårsrapport ska
-lämnas till fullmäktige vid den tidpunkt som lämnas till fullmäktige vid den tidpunkt som
-fullmäktige bestämmer. Utlåtandet lämnas fullmäktige bestämmer. Utlåtandet lämnas
-också direkt till fullmäktiges presidium inför också direkt till fullmäktiges presidium inför
-deras behandling av delårsrapporten. deras behandling av delårsrapporten.
+Nuvarande lydelse
+Revisorernas utlåtande om delårsrapport ska
+
+lämnas till fullmäktige vid den tidpunkt som
+fullmäktige bestämmer. Utlåtandet lämnas
+också direkt till fullmäktiges presidium inför
+deras behandling av delårsrapporten.
+
+Föreslagen lydelse
+Revisorernas utlåtande om delårsrapport ska
+
+lämnas till fullmäktige vid den tidpunkt som
+fullmäktige bestämmer. Utlåtandet lämnas
+också direkt till fullmäktiges presidium inför
+deras behandling av delårsrapporten.
 
 <!-- sida 58 -->
 
@@ -3919,7 +4042,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 95 -->
 
-| ” ;
 YE  Soerigedemokraterna
 
 Kungsbacka 200611

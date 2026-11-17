@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172412id_/https://kungsbacka.se/d
 sha256: f4ad99ac3d7cd840e0582bbba3cd6e4c96e569258a2cab34ad6f8c42cb2e1550
 bytes: 2978468
 sidor: 14
-hamtad: 2026-10-26T10:53:08+00:00
-konverterad: 2026-10-26T10:53:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T11:59:15+00:00
+konverterad: 2026-11-17T12:00:09+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -130,7 +130,7 @@ ledningsprocesser och StödPprOCeSSCl .... 7
 Initiativ offentlig konst alla kommundelar ...ssmsssessrssssrrrrsrrnrrrsrrnrrrerrrrrrrrnn nt 8
 § 18 Dnr 2021-00148
 
-Beslut arkivalSVarig ...ssssssssssssrreserrrrrsssrrrreserrrresrrrnrresrrrnnrsrrnnrrs rr r nte rr n rr rn nn 9
+Beslut arkivalSVarig ...ssessssssssrereserrrrrserrrrreserrrrerrrnrresrrnnnrs rr nrr rss r rss rn nr rr rna 9
 § 19 Dnr 2022-00077
 
 Ansökan extra bidrag OK LÖftal.a .... 10

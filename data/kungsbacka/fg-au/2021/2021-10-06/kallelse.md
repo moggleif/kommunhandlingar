@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404190846id_/https://kungsbacka.se/d
 sha256: 7da2533ae7242c78a683d4d082142803814bac6d7ac52904fa0a3571c5bdfc97
 bytes: 9176013
 sidor: 135
-hamtad: 2026-10-28T09:54:20+00:00
-konverterad: 2026-10-28T09:54:45+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T12:52:11+00:00
+konverterad: 2026-11-17T12:52:52+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -124,43 +124,63 @@ KUNGSBACKA  KOMMUN
 
 4(4)
 
-Ärende                Beteckning Förslag
+Ärende
 
-15\. Lära för livet priset 2021 2021-00853 Nämnden för förskola & Grundskola ha tagit del av
-informationen och antecknar informationen till
-Kl 13.40                        protokollet. Ordförande har beslutat till vem priset
-ska delas ut.
+15\. Lära för livet priset 2021
+
+Kl 13.40
+
 Ordförande Anders Ekström
 (M)
 
-16\. Sammanträdestider 2022 2021-01054 Nämnden antar följande förslag till
-Förskola och Grundskola         sammanträdestider för 2022 till: 19 januari, 16
-februari, 16 mars, 20 april, 18 maj, 16 juni, 24
-Kl 13.45                        augusti, 21 september, 19 oktober 16
-november och 14 december.
+16\. Sammanträdestider 2022
+Förskola och Grundskola
+
+Kl 13.45
+
 Lars Sundbom, utvecklare
 
-17\. Pågående Skolinspektions- och 2021-00002 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
+17\. Pågående Skolinspektions- och
+Barn och elevombudsärenden,
 inklusive ärenden som utreds
 inom Förskola & Grundskolas
-
 klagomålshantering 2021
 
 Kl 13.50
 
 Frida Byrsten, verksamhetschef
 
-18\. Information - Förskola & 2021-00022 Nämnden för Förskola och Grundskola har tagit del
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+18\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
+
+Beteckning Förslag
+
+2021-00853 Nämnden för förskola & Grundskola ha tagit del av
+informationen och antecknar informationen till
+protokollet. Ordförande har beslutat till vem priset
+ska delas ut.
+
+2021-01054 Nämnden antar följande förslag till
+sammanträdestider för 2022 till: 19 januari, 16
+
+februari, 16 mars, 20 april, 18 maj, 16 juni, 24
+augusti, 21 september, 19 oktober 16
+november och 14 december.
+
+2021-00002 Arbetsutskottet har tagit del av informationen och
+antecknar informationen i protokollet.
+
+2021-00022 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
 
 Kl 13.55
 
 Skolchef
 
-Anders Ekström                    Lars Sundbom
-ordförande                        sekreterare
+Anders Ekström                   Lars Sundbom
+ordförande                       sekreterare
 
 <!-- sida 5 -->
 

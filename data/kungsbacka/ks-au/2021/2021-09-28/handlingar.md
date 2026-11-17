@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320090946id_/https://www.kungsbacka.
 sha256: 1becf09e65c52bb77d4f1333d4658950dda6336b3866d2944f7774137e84859d
 bytes: 7769262
 sidor: 70
-hamtad: 2026-10-28T09:58:43+00:00
-konverterad: 2026-10-28T09:59:08+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T12:55:00+00:00
+konverterad: 2026-11-17T12:57:26+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -247,7 +247,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 10 -->
 
-[ NM ov /
 . Nverigedemokraterna
 
 210824
@@ -340,7 +339,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 12 -->
 
-| ” . / /
 | .  Nverigedemokrater HA
 
 210824
@@ -717,7 +715,7 @@ Vi ser idag en fortsatt tillbakagång av demokratin i världen och det är en si
 beklaglig och på sikt illavarslande. Ett exempel är den ledande demokratin i världen, USA, som
 stadigt har fallit i mätningar under flera år.
 
-Attacken på USAs kongress den 6 januari 2021 och den allvarliga situationen som uppstod har
+Attacken på USAS kongress den 6 januari 2021 och den allvarliga situationen som uppstod har
 blivit en påminnelse om demokratins skörhet men också det faktiska behovet av att gemensamt
 värna om dess principer och ideal samt vårda dess strukturer. Vi behöver gemensamt agera och
 uppmärksamma demokratin för att reflektera men också inspirera varandra kring demokratins

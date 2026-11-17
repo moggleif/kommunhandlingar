@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20251213095007id_/https://kungsbacka.se/d
 sha256: b5be9ab4b1105417463e84a5976797d2ec5b695922cf6b2ef5a46edf1068f467
 bytes: 1605737
 sidor: 37
-hamtad: 2026-11-07T11:33:36+00:00
-konverterad: 2026-11-07T11:34:02+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T11:46:46+00:00
+konverterad: 2026-11-17T11:47:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok]
@@ -951,35 +951,47 @@ Informations beskrivning    Sida 13 av 13
 
 <!-- sida 27 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
-
 TJÄNSTESKRIVELSE
 
-Kungsbacka
 Nämnden för Förskola & Grundskola
+
 Arkivbeskrivning och arkivförteckning för Förskola & Grundskola
 
-1 (1)
-Enligt Arkivlagen som trädde i kraft 1991-07-01 skall arkivbeskrivning och Datum
-arkivförteckning revideras fortlöpande. Arkivmyndigheten/kommunarkivet begär att 2007-04-02
+Enligt Arkivlagen som trädde i kraft 1991-07-01 skall arkivbeskrivning och
+arkivförteckning revideras fortlöpande. Arkivmyndigheten/kommunarkivet begär att
 nämnden reviderar ovanstående handlingar.
-D
 
-Kommunfullmäktige i Kungsbacka kommun antog 1992-06-11, § 98, ett 07-65/16
+Kommunfullmäktige i Kungsbacka kommun antog 1992-06-11, § 98, ett
 arkivreglemente som gäller fr.o.m 1992-07-01, där det finns bestämmelser om
 arkivvård för kommunens myndigheter.
+
 Förslag till beslut
+
 Nämnden för Förskola & Grundskola godkänner reviderad arkivbeskrivning och
 arkivförteckning, daterade 2007-03-16.
-Anette Liedström-Hjorth -
-Förvaltningschef
-Förskola & Grundskola Kungsbacka kommun
 
+Anette Liedström-Hjorth
+Förvaltningschef
+
+Kungsbacka
+
+1 (1)
+
+Datum
+
+2007-04-02
+
+Dnr
+
+07-65/16
+
+Förskola & Grundskola
 Renée Rydberg
 Direkt 0300-83 41 45
 
 renee.rydberg(Akungsbacka.se
 
+Kungsbacka kommun
 434 81 Kungsbacka
 
 Besöksadress
@@ -993,9 +1005,9 @@ forskola.grundskola(AQkungsbacka.se
 
 www. kungsbacka.se
 
-<!-- sida 28 -->
-
 uniForm KUB100 v 1.0, 2006-10-02
+
+<!-- sida 28 -->
 
 Kungsbacka
 
@@ -1044,6 +1056,8 @@ forskola.grundskola(Adkungsbacka.se
 www.kungsbacka.se
 
 renee.rydberg(Åakungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 29 -->
 
@@ -1304,11 +1318,7 @@ Utdragsbestyrkande
 
 —
 
-LL (MA ll fe
-
 <!-- sida 34 -->
-
-uniForm KUB100 v 1.0, 2006-10-02
 
 Kungsbacka
 
@@ -1350,9 +1360,19 @@ www.kungsbacka.se
 
 renee.rydberg(åQkungsbacka.se
 
+uniForm KUB100 v 1.0, 2006-10-02
+
 <!-- sida 35 -->
 
 TJÄNSTESKRIVELSE
+
+Pågående anmälningsärenden hos Skolinspektionen och Barn-
+och elevombudet (Beo), inklusive ärenden som utreds inom          1 (3)
+Förskola & Grundskolas klagomålshantering per den 24 januari
+Datum
+2023\.
+2023-01-24
+Nya ärenden
 
 Förskola & Grundskola                                        Kungsbacka kommun
 Frida Byrsten                                                 434 81 Kungsbacka
@@ -1362,16 +1382,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 (e-post borttagen)
 www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
-Pågående anmälningsärenden hos Skolinspektionen och Barn-
-och elevombudet (Beo), inklusive ärenden som utreds inom          1 (3)
-Förskola & Grundskolas klagomålshantering per den 24 januari
-Datum
-2023\.
-2023-01-24
-Nya ärenden
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 35-1](kallelse.tabeller/35-1.csv)
 
