@@ -57,14 +57,16 @@ def lankar(html: str, sidadress: str) -> list[tuple[str, str]]:
 
 
 def moten(html: str, organsida: str) -> list[str]:
-    """Mötessidorna i sidans ordning: adresser direkt under organets, med
-    ett datum i sista delen."""
-    organ = urlsplit(organsida).path.rstrip("/")
+    """Mötessidorna i sidans ordning: adresser direkt under en organsida,
+    med ett datum i sista delen. Ett organ som bytt namn har en del av
+    mötena under en annan organsida än sin egen (ADR-0080)."""
+    organen = urlsplit(organsida).path.rstrip("/").rpartition("/")[0]
     funna: dict[str, None] = {}
     for adress, _ in lankar(html, organsida):
         delar = urlsplit(adress)
         forald, _, sista = delar.path.rpartition("/")
-        if forald == organ and MOTESDATUM.search(sista) and not delar.query:
+        under_ett_organ = forald.rpartition("/")[0] == organen
+        if under_ett_organ and MOTESDATUM.search(sista) and not delar.query:
             funna[f"{delar.scheme}://{delar.netloc}{delar.path}"] = None
     return list(funna)
 

@@ -43,17 +43,46 @@ class TestOrgansidan(unittest.TestCase):
         self.assertEqual(moten[0], f"{SJUKHUS}/mote-2026-12-02")
         self.assertEqual(moten[-1], f"{SJUKHUS}/mote-2017-06-28")
 
-    def test_bara_adresser_direkt_under_organet(self):
+    def test_bara_adresser_direkt_under_en_organsida(self):
         sida = (
             f'<a href="{SJUKHUS}/mote-2026-01-01">a</a>'
             f'<a href="{SJUKHUS}/mote-2026-01-01/agenda/x-2026-01-01pdf">b</a>'
-            f'<a href="{BAS}/regionstyrelsen/mote-2026-01-02">c</a>'
             f'<a href="{SJUKHUS}/mote-2026-01-03?x=1">d</a>'
             '<a href="/committees/driftnamnden-hallands-sjukhus/mote-2026-01-04">e</a>'
+            f'<a href="{BAS}/mote-2026-01-05">f</a>'
         )
         self.assertEqual(
             meetingsplus_html.moten(sida, SJUKHUS),
             [f"{SJUKHUS}/mote-2026-01-01", f"{SJUKHUS}/mote-2026-01-04"],
+        )
+
+    def test_moten_under_organets_tidigare_sida(self):
+        hemsjukvard = f"{BAS}/gemensam-namnd-for-hemsjukvard-och-hjalpmedel"
+        tidigare = f"{hemsjukvard}-23088/mote-2022-02-11"
+        sida = (
+            f'<a href="{hemsjukvard}-23088/mote-2026-12-02">a</a>'
+            f'<a href="{tidigare}">b</a>'
+            f'<a href="{hemsjukvard}/mote-2021-12-10">c</a>'
+        )
+        self.assertEqual(
+            meetingsplus_html.moten(sida, hemsjukvard),
+            [
+                f"{hemsjukvard}-23088/mote-2026-12-02",
+                tidigare,
+                f"{hemsjukvard}/mote-2021-12-10",
+            ],
+        )
+
+    def test_tidigare_sidans_kallelse_ar_organets(self):
+        mote = f"{BAS}/driftnamnd-kollektivtrafik/mote-2023-02-24"
+        sida = (
+            f'<a href="{mote}/agenda/kallelse-dnkt-2023-02-24pdf?downloadMode=open">'
+            "Kallelse DNKT 2023-02-24.pdf</a>"
+        )
+        kandidater, _ = las_mote(kalla(), "hs", mote, sida)
+        self.assertEqual(
+            [(k.organ, k.typ, k.datum) for k in kandidater],
+            [("hs", "kallelse", date(2023, 2, 24))],
         )
 
 

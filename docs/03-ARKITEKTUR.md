@@ -576,8 +576,10 @@ kf = "https://exempelby.se/committees/fullmaktige"
 | `kalla.monster`       | Hur ett samlingsmötes filnamn ger typ och datum. Utelämnas utan samlingsmöten. |
 
 - **Mötena** är länkarna på organets sida vars adress ligger direkt under
-  organsidans och vars sista del har ett datum `ÅÅÅÅ-MM-DD`, som
-  `mote-2026-09-30` eller `mote-2023-01-20-12741`. Datumet är mötets.
+  en organsida, organets egen eller en annan bredvid den, och vars sista
+  del har ett datum `ÅÅÅÅ-MM-DD`, som `mote-2026-09-30` eller
+  `mote-2023-01-20-12741`. Datumet är mötets och organet sidans. Ett organ
+  som bytt namn länkar så till sina möten under den andra adressen.
   Sidans övriga länkar, till exempel menyn, är inga möten.
 - **En mötessida som inte går att hämta** nämns i sammanfattningen med
   filnamnet `mötessidan` och felets orsak, och organets alla kandidater

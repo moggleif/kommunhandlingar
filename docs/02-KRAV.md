@@ -1877,6 +1877,11 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 - **Så** blir varje PDF på varje möte som sidan listar en kandidat:
   kallelsen och protokollet med sina typer och bilagorna under
   ärendepunkterna som `bilaga`, alla med mötets datum.
+- **Givet** en organsida som också länkar till möten under en annan
+  organsida bredvid sin egen, som när organet bytt namn
+- **När** upptäckten körs
+- **Så** blir de mötena organets på samma sätt som mötena under den egna
+  sidan.
 - **Givet** en bilaga under protokollet med samma filnamn som en bilaga
   under kallelsen
 - **När** mötet läses
