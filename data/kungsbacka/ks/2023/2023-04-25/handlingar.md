@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241126065037id_/https://kungsbacka.se/d
 sha256: fc9f1b7c8dba49a3161f19cbb8dc5df39456c41fd0d81c8ebebc75af55b66f1a
 bytes: 181438011
 sidor: 254
-hamtad: 2026-10-20T10:47:09+00:00
-konverterad: 2026-10-20T10:50:11+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:55:10+00:00
+konverterad: 2026-11-17T01:57:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -571,12 +571,7 @@ Sign
 
 3/3
 
-Bevittnas:
-
-Bevittnas:
-
-Mia JSchm OM
-/
+Bevittnas: Bevittnas:
 
 Förteckning över bilagor:
 
@@ -588,9 +583,9 @@ Markavtal
 
 Kostnad för ny transformatorstation
 
-JOow>
-
 Sign
+
+JOow>
 
 <!-- sida 17 -->
 
@@ -604,22 +599,18 @@ Planområ
 
 <!-- sida 19 -->
 
-220414 v2
-
-G&G Sk ND Ez I (4)
-
 Mellan Kungsbacka Energi AB (556424-0728), nedan kallat KEAB, och
 Kungsbacka kommun, nedan kallad Kommunen, har träffats följande
 
 AVTAL
 
-\$ 1 Bakgrund
+§ 1 Bakgrund
 Avtalets syfte är att reglera formerna för samverkan mellan parterna och
 
 skapa regler för upplåtelse av mark för ledningar i och på Kommunens mark
 för distribution av energi inom Kungsbacka kommun.
 
-\$ 2 Samråd
+§ 2 Samråd
 Det är viktigt att energiförsörjningen samordnas med annan verksamhet un-
 
 der ömsesidigt hänsynstagande. För samråd i frågor rörande denna försörj-
@@ -627,7 +618,7 @@ ning skall KEAB delta i det samarbete som finns mellan Kommunen och led-
 
 ningsdragande organisationer.
 
-\$ 3 Upplåtelse
+§ 3 Upplåtelse
 Kommunen medger KEAB rätt att för all framtid bibehålla och underhålla be-
 
 fintliga ledningar med tillbehör för distribution av energi i allmän platsmark
@@ -652,7 +643,7 @@ kostnader som anläggandet kan förorsaka Kommunen, inklusive kostnader
 för eventuellt förkortad livslängd på Kommunens vägar och övriga anlägg-
 ningar till följd av KEAB:s verksamhet enligt ovan.
 
-\$ 4 Arbetets bedrivande
+§ 4 Arbetets bedrivande
 Samtliga anläggningsarbeten på häri beskrivna anläggningar skall bedrivas
 så att minsta olägenhet vållas allmänheten och Kommunens berörda förvalt-
 
@@ -663,6 +654,8 @@ de till ett skick likvärdigt med det området hade innan arbetet påbörjades. 
 sättning för Kommunens arbete skall basera på Kommunens självkostnader
 
 och debiteras efter utfört arbete.
+
+220414 v2
 
 <!-- sida 20 -->
 
@@ -676,7 +669,7 @@ Parterna tillhandahåller utan ersättning tillgängliga och erforderliga kartor
 
 KEAB skall svara för inmätning i enlighet med MBK-avtal.
 
-\$ 5 Flyttning av befintlig anläggning
+§ 5 Flyttning av befintlig anläggning
 Vid planläggning, planändring eller ändrade förhållanden i övrigt som kan
 
 medföra flyttning av KEAB:s befintliga anläggning skall parterna samråda
@@ -729,7 +722,7 @@ uppsåt eller oaktsamhet.
 Ersättning enligt detta avtal utgår inte för skadestånd och viten som part kan
 bli tvungen att utge till tredje man till följd av avtal.
 
-\$ 8 Avtalstid mm
+§ 8 Avtalstid mm
 Detta avtal, som ersätter alla tidigare avtal mellan Kungsbacka kommun och
 
 Kommunen har rätt att med omedelbar verkan säga upp avtalet om KEAB i
@@ -755,7 +748,7 @@ rör KEAB:s rätt enligt detta avtal skall Kommunen i förhållande till förvä
 
 göra förbehåll för KEAB:s rätt enligt detta avtal.
 
-\$10 Villkor för avtalets giltighet
+§10 Villkor för avtalets giltighet
 Avtalet fordrar för sin giltighet att det godkänns av kommunfullmäktige.
 
 30 femme 2062.
@@ -913,7 +906,7 @@ ny detaljplan för kvarteret Gjutaren och Liljan, Detaljplanen. Kommunen har tag
 fram förslag till Detaljplan och förslaget har varit utställt för samråd mellan 2022-
 05-03 och 2022-05-31. Granskning planeras till våren 2023.
 
-Ett principavtal (KS/2021-05-25, \$ 150), Principavtalet, har tecknats mellan
+Ett principavtal (KS/2021-05-25, § 150), Principavtalet, har tecknats mellan
 Kommunen, Bolaget och Köparen. Principavtalet föreskriver att ett
 genomförandeavtal, ska upprättas innan Detaljplanen kan antas av
 Byggnadsnämnden.
@@ -1131,7 +1124,7 @@ fastigheter inom kvarteret. Syftet med förstudien var att utreda lämplig
 markanvändning inom ett större område i anslutning till Gjutaren 2 samt om
 fortsatt planarbete genom planprogram eller detaljplan var aktuellt.
 
-Kommunstyrelsen upphävde beslutet 2017-10-17 \$ 235, KS/2017:393 \$ 235, att
+Kommunstyrelsen upphävde beslutet 2017-10-17 § 235, KS/2017:393 § 235, att
 ge kommundirektören i uppdrag att upprätta en förstudie för Gjutaren 2 samt ett
 större område i anslutning till rubricerad fastighet. Kommunstyrelsen beslutade
 vidare att ge kommundirektören i uppdrag att upprätta planprogram för kvarteret
@@ -1602,10 +1595,8 @@ Kommundirektör
 
 Bevittnas: —
 
-| ,
 CA Ska. ( als SOY
 
-DA /
 PJ ESSAN
 
 NV /
@@ -1655,7 +1646,7 @@ KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 34 (60)
 Kommunstyrelsen Datum
 2021-05-25
 
-\$ 150 Dnr 2020-00909
+§ 150 Dnr 2020-00909
 
 Godkännande av principavtal med Riksbyggen för detaljplan för
 stadsutveckling inom kvarteret Gjutaren och Liljan samt markanvisning
@@ -1692,7 +1683,7 @@ planerar kommunen att markanvisa efter laga kraft vunnen detaljplan.
 
 Beslutsunderlag
 
-Kommunstyrelsens arbetsutskott 2021-05-04, \$ 172
+Kommunstyrelsens arbetsutskott 2021-05-04, § 172
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2021-04-12
 
@@ -6080,7 +6071,7 @@ Trafikverket.
 Upplysning
 
 Beslut fattat med stöd av delegering. Kommunstyrelsens delegeringsförteckning: punkt 3.1.1, 2019-01-
-15, \$ 20. att besluta på nämndens vägnar i brådskande ärenden. Ärendet är brådskande då svar senast
+15, § 20. att besluta på nämndens vägnar i brådskande ärenden. Ärendet är brådskande då svar senast
 ska ha inkommit till Trafikverket den 2 november.
 
 Sammanfattning av ärendet
@@ -6979,43 +6970,45 @@ central, Haga och Korsvägen. Effekterna av Västlänken innebär att tågen kom
 restiderna blir kortare och resenärerna kan nå fler platser utan att byta färdmedel. Västlänken innebär
 även spår för fjärrtågen på Göteborgs central frigörs, detta i och med att pendel- och regiontågen inte
 behöver åka ut samma väg som de kommer in. På detta sätt frigörs kapacitet på centralstationen.
+
 Pendel-, region- och fjärrtågtrafiken kan därmed bli tätare (Västlänken, 2020).
 
 Västlänken är en ny tågtunnel under Göteborg som möjliggör genomgående tågtrafik utan
 riktningsbyte och avlastar säckbangården på Göteborg Central. Nya stationer byggs vid Korsvägen och
-
 Haga. Nuvarande station Liseberg avvecklas. Byggstart sker 2018 och planerad trafikstart 2026.
 
 Värö station
 Parterna är överens om att påbörja planeringen för en station i Värö med inriktningen att trafik ska
 kunna startas under 2026. Enligt Region Hallands intentioner i fastställt Regionalt
 Trafikförsörjningsprogram ligger en ny station i Väröbacka närmst i tid av nya stationslägen utmed
+
 Västkustbanan, men denna etablering får inte äventyra robustheten i befintligt system och det blir
 därmed viktigt att säkerställa att spårkapacitet finns mellan norra Halland och Göteborg. En
 funktionsutredning kring möjliga placeringar av en station i Väröbacka har pågått under ÅVS:ens
 gång. Ett antal möjliga placeringar har diskuterats i samband med detta. Dock har inga beslut fattats
-
 varför det slutliga förslaget för en placering inte har beslutats.
 
 Inom ramen för ÅVS Varberg-Göteborg utreds hur och när det ur trafikal synvinkel är möjligt med ett
 uppehåll i Värö.
 
 Varbergstunneln
-Projekt Varbergstunneln innebär att Västkustbanan
 Projektet Varbergstunneln är en tunnel under
-leds genom en cirka 3,1 kilometer lång tunnel under
 Varberg och ombyggnad av stationsområdet.
-centrala Varberg. Det blir ett nytt stationshus med
 Denna etapp utgör sista länken i Halland för
-nedgång till plattformarna, som är placerade i ett
+
 att bygga ut Västkustbanan till dubbelspår. När
-nedsänkt tråg vid norra tunnelmynningen. En ny
 denna är färdigställd återstår enkelspår på
-godsbangård byggs vid Getterön. Totalt ska omkring
 Västkustbanan endast på en sträcka norr om
-7,5 kilometer nytt dubbelspår byggas på sträckan.
 Helsingborg. Byggtid för Varbergstunneln är
 2019-2024.
+
+Projekt Varbergstunneln innebär att Västkustbanan
+leds genom en cirka 3,1 kilometer lång tunnel under
+centrala Varberg. Det blir ett nytt stationshus med
+nedgång till plattformarna, som är placerade i ett
+nedsänkt tråg vid norra tunnelmynningen. En ny
+godsbangård byggs vid Getterön. Totalt ska omkring
+7,5 kilometer nytt dubbelspår byggas på sträckan.
 
 <!-- sida 175 -->
 
@@ -7152,12 +7145,10 @@ Hänsynsmålet vars syfte är att säkerställa tillgängligheten till transport
 ske på ett säkert och hållbart sätt7.
 
 2.1.Transportpolitiska mål
-
 De transportpolitiska målen ligger till grund för statens åtgärder inom transportområdet och därmed
 även för denna åtgärdsvalsstudie:
 
 Övergripande mål:
-
 ”Transportpolitikens mål ska vara
 att säkerställa en
 samhällsekonomiskt
@@ -7166,21 +7157,28 @@ transportförsörjning
 för medborgarna och näringslivet i
 hela landet”.
 
-Funktionsmål:              Hänsynsmål:
+Funktionsmål:
 
-”Transportsystemets utformning, funktion "Transportsystemets utformning och
-och användning ska medverka till att ge användning ska anpassas till att
-alla en grundläggande tillgänglighet med ingen ska dödas eller skadas
-allvarligt. Det ska också bidra till att
+”Transportsystemets utformning, funktion
+och användning ska medverka till att ge
+alla en grundläggande tillgänglighet med
 god kvalitet och användbarhet samt bidra
-miljökvalitetsmålen uppnås och att
 till utvecklingskraft i hela landet.
-ökad hälsa uppnås."
 Transportsystemet ska vara jämställt, det
 vill säga likvärdigt svara mot kvinnors
 respektive mäns transportbehov.”
+
+Hänsynsmål:
+"Transportsystemets utformning och
+användning ska anpassas till att
+ingen ska dödas eller skadas
+allvarligt. Det ska också bidra till att
+miljökvalitetsmålen uppnås och att
+ökad hälsa uppnås."
+
 Figur 4 Sveriges transportpolitiska mål (prop. 2008/09:93)
 Nollvisionen
+
 Riksdagen har fastslagit ett långsiktigt trafiksäkerhetsmål som innebär att ingen ska dödas eller skadas
 allvarligt till följd av trafikolyckor – nollvisionen. Vägtransportsystemets utformning och funktion ska
 anpassas till de krav som följer av detta.
@@ -8232,14 +8230,8 @@ Kungsbacka station ger de mellersta spåren möjlighet till effektiv vändning o
 deras förlängning ges möjlighet till uppställning av tåg över natt. Spår 3 ligger
 kvar på samma läge som idag. För Hede station är spår 1 och 2 är dagens
 befintliga spår och ligger kvar i samma läge som idag.
-Figur14Förslag
-till
-4-spår
-och
-ny
-station
-i
-Kungsbacka
+
+F igur14Förslag till 4-spår och ny sta tion i Kungsbacka
 
 <!-- sida 209 -->
 

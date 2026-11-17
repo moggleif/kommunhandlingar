@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250802180147id_/https://kungsbacka.se/d
 sha256: a102f10d7f59a0b9cc8c97cc436ad7a9410a788f723b62da2ac51cc5c308fb4b
 bytes: 9248329
 sidor: 135
-hamtad: 2026-10-20T10:06:49+00:00
-konverterad: 2026-10-20T10:07:50+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:35:53+00:00
+konverterad: 2026-11-17T01:36:48+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ocr, ok, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok]
@@ -228,9 +228,7 @@ det kommersiella intresset.
 
 Karta sate ÄG TRE (61 ww u sel [2], | Karta från
 OO SIRborg Mkr Ra www.uppladdning.nu
-ve Im andres da ” 10
 OM RA (16) Örsta Boseerga 5 fe Q Teckenförklaring: Laddplatsen är
-[5] SN vaneham 9 -
 
 mm
 
@@ -667,7 +665,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 9 (25)
 Datum
 2013-09-10
-\$ 122 KS11-00172/42
+§ 122 KS11-00172/42
 
 Policy för fordon och tillämpningsanvisningar
 
@@ -727,7 +725,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 10 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 «  Tjänstevikten hos personbilar ska inte understiga 900 kg och inte överstiga 1900
 kg.
@@ -738,13 +736,13 @@ kg.
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2011-08-23, \$ 195
+Kommunstyrelsen, 2011-08-23, § 195
 Kommunstyrelsens förvaltning, skrivelse 2013-04-18
-Kommunstyrelsens arbetsutskott, 2013-05-14, \$ 179
-Kommunstyrelsen, 2013-05-21, \$ 138
+Kommunstyrelsens arbetsutskott, 2013-05-14, § 179
+Kommunstyrelsen, 2013-05-21, § 138
 Kommunstyrelsens förvaltning, skrivelse 2013-06-17
-Kommunstyrelsens arbetsutskott, 2013-08-13, \$ 232
-Kommunstyrelsen, 2013-08-20, \$ 186
+Kommunstyrelsens arbetsutskott, 2013-08-13, § 232
+Kommunstyrelsen, 2013-08-20, § 186
 
 Anförande
 
@@ -784,7 +782,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 11 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 Proposition
 
@@ -910,7 +908,7 @@ Justeringsmännens signatur:
 
 Sida 1 av 1
 
-KF \$122/13
+KF §122/13
 Bilaga A
 
 <!-- sida 21 -->
@@ -1861,105 +1859,302 @@ Departementsråd
 <!-- sida 43 -->
 
 EN                                                                    EN
-o n
-D
-s u
-I R
-b s
-E
-t
-C
-a n
-T
-t
-I
-i a
-V
-t
-E
-i o
-O
-n a
-F
-n
-T
-d
-H
-c o
-EC
-E
-m
-UO
-E
-m
-RM
-U
-u
-OM
-R
-n
-P E
-I S
-O P
-i c a
-AS
-E
-t i
-NI
-O
-P
-A
-o n
-N
-r o
-N
-oD
-p o s a l f
-P A R L
-f e x p l i
-i r e c t i v
-B r
-C O
-2 0
-o r a
-I A M
-c i t e n
-e )
-u s s
-M
-2 3 /
-E N
-v i r
-e l s , 2 2 .3
-( 2 0 2 3 ) 1
-0 0 8 5 ( C
-T A N D
-o n m e n t
-.2 0 2 3
-6 6 f i n
-O D )
-O F T
-a l c l a
-a
-H
-i m
-l
-E
+
 s
+
+im
+
+IL
+
+la
+
 C
-( G
-O
-r
-U
-e e
+
+C
+
 N
+
 n
+
+U
+
+ee
+
+O
+
+r
+
 C
-C
-I
+
+G
+
+(
+
+E
+
+s
+
 l
+
+H
+
+a
+
+im
+
+3 in
+
+T
+
+la
+
+2 f
+
+)
+
+F
+
+c
+
+0 6 D
+
+l
+
+.2 6
+
+O
+
+O
+
+ta
+
+.3 1
+
+D
+
+) C
+
+n
+
+2
+
+(
+
+e
+
+2 3
+
+5
+
+N
+
+, 2
+
+8
+
+A m
+
+ls 0
+
+0
+
+n
+
+(2
+
+T
+
+o
+
+e
+
+/0
+
+r
+
+ss
+
+3
+
+N
+
+i
+
+uM
+
+2
+
+E
+
+v
+
+r O
+
+0
+
+n
+
+B C
+
+2
+
+a M
+
+e
+
+t
+
+r
+
+IA
+
+i )
+
+fo
+
+ic e
+
 L
-a i m s
+
+l iv
+
+l
+
+t
+
+sa
+
+R
+
+xp c
+
+o
+
+A
+
+e e
+
+p
+
+P
+
+f ir
+
+o
+
+o D
+
+N
+
+r
+
+N
+
+P
+
+n
+
+N IO
+
+A
+
+io
+
+A
+
+E
+
+t
+
+E S
+
+P
+
+a
+
+P IS
+
+O
+
+ic
+
+M
+
+R
+
+n
+
+ROM
+
+U
+
+u
+
+U O
+
+E m
+
+E C
+
+E
+
+om
+
+H
+
+c
+
+T
+
+d
+
+n
+
+F
+
+a
+
+O
+
+n
+
+E
+
+io
+
+t
+
+IV
+
+ia
+
+t
+
+T
+
+n
+
+C
+
+ta
+
+E
+
+s
+
+R
+
+b
+
+I
+
+u
+
+D
+
+s
+
+on
 
 <!-- sida 44 -->
 
@@ -6584,7 +6779,7 @@ Sammanställning av delegeringsbeslut juni 2023
 
 Beslut
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-04-26 \$ 45 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-04-26 § 45 under
 perioden 2023-04-01 till 2023-05-25,
 
 Sammanfattning
@@ -6593,25 +6788,25 @@ Sammanfattning
 enligt delegationslistan |ev. omfattning
 
 23 Tillsvidareanställning Jessica Larsén 2023-04-01
-LAS, AB \$\$ 3-5 Arbetsledare EC
+LAS, AB §§ 3-5 Arbetsledare EC
 kollektivavtal,
 
 lönepolicy mm
 
 232 Tillsvidareanställning Jessica Larsén NP023-04-01
-LAS, AB \$\$ 3-5 Administratör EC
+LAS, AB §§ 3-5 Administratör EC
 kollektivavtal,
 
 lönepolicy mm
 
 2 Tillsvidareanställning Nina Magnusson — h023-04-03
-LAS, AB \$\$ 3-5 Lokalvårdare EC Lokalvård
+LAS, AB §§ 3-5 Lokalvårdare EC Lokalvård
 kollektivavtal,
 
 lönepolicy mm
 
 PER TG Tillsvidareanställning Johan Arvidsson P023-04-03
-LAS, AB \$\$ 3-5 Brandskyddssamordnare |EC Fastighet
+LAS, AB §§ 3-5 Brandskyddssamordnare |EC Fastighet
 kollektivavtal,
 lönepolicy mm
 1 C) Kungsbacka kommun

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319201600id_/https://www.kungsbacka.
 sha256: a285153c64ff20f0c719d0c1895077ac7baa37413229128dd2cc42cda7c50767
 bytes: 2755253
 sidor: 36
-hamtad: 2026-10-27T09:48:26+00:00
-konverterad: 2026-10-27T09:48:35+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T03:38:27+00:00
+konverterad: 2026-11-17T03:38:35+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -135,25 +135,25 @@ KUNGSBACKA  KOMMUN
 
 Ärende                Beteckning Förslag
 
-11\. Förslag till beslut om avsteg 2022-00139
+11\. Förslag till beslut om avsteg
 från tremånadersregeln
 
 Kl 10.50
 
 Frida Byrsten, verksamhetschef
 
-12\. Återremiss - Revidering av 2022-00021 Nämnden för förskola och grundskola beslutade att
-Regler för förskola, fritidshem återremittera ärendet till arbetsutskottet.
+12\. Återremiss - Revidering av
+Regler för förskola, fritidshem
 och pedagogisk omsorg i
+
 Kungsbacka kommun
 
 Kl 11.05
 
 Frida Byrsten, verksamhetschef
 
-13\. Pågående Skolinspektions- och 2022-00007 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
-
+13\. Pågående Skolinspektions- och
+Barn och elevombudsärenden,
 inklusive ärenden som utreds
 inom Förskola & Grundskolas
 klagomålshantering 2022
@@ -162,16 +162,28 @@ Kl 11.15
 
 Frida Byrsten, verksamhetschef
 
-14\. Information - Förskola & 2022-00006 Nämnden för Förskola och Grundskola har tagit del
-Grundskola arbetsutskott och    av informationen och antecknar informationen i
-nämnd                           protokollet.
+14\. Information - Förskola &
+Grundskola arbetsutskott och
+nämnd
 
 Kl 11.20
 
 Skolchef
 
-Anders Ekström                    Lars Sundbom
-ordförande                        sekreterare
+2022-00139
+
+2022-00021 Nämnden för förskola och grundskola beslutade att
+återremittera ärendet till arbetsutskottet.
+
+2022-00007 Arbetsutskottet har tagit del av informationen och
+antecknar informationen i protokollet.
+
+2022-00006 Nämnden för Förskola och Grundskola har tagit del
+av informationen och antecknar informationen i
+protokollet.
+
+Anders Ekström                   Lars Sundbom
+ordförande                       sekreterare
 
 <!-- sida 4 -->
 

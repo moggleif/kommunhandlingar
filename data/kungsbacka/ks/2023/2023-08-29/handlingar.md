@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241125152908id_/https://kungsbacka.se/d
 sha256: 808af26929ae33a1ea3b9748641ebaea0ca7ddf015aa34fec6090cb1a57c4edf
 bytes: 35384413
 sidor: 244
-hamtad: 2026-10-20T09:31:54+00:00
-konverterad: 2026-10-20T09:34:00+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:21:08+00:00
+konverterad: 2026-11-17T01:22:55+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr]
@@ -378,7 +378,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -2397,105 +2397,302 @@ efterlevnad, sanktioner och påföljder som framgår av direktiven.
 <!-- sida 55 -->
 
 EN                                                                    EN
-o n
-D
-s u
-I R
-b s
-E
-t
-C
-a n
-T
-t
-I
-i a
-V
-t
-E
-i o
-O
-n a
-F
-n
-T
-d
-H
-c o
-EC
-E
-m
-UO
-E
-m
-RM
-U
-u
-OM
-R
-n
-P E
-I S
-O P
-i c a
-AS
-E
-t i
-NI
-O
-P
-A
-o n
-N
-r o
-N
-oD
-p o s a l f
-P A R L
-f e x p l i
-i r e c t i v
-B r
-C O
-2 0
-o r a
-I A M
-c i t e n
-e )
-u s s
-M
-2 3 /
-E N
-v i r
-e l s , 2 2 .3
-( 2 0 2 3 ) 1
-0 0 8 5 ( C
-T A N D
-o n m e n t
-.2 0 2 3
-6 6 f i n
-O D )
-O F T
-a l c l a
-a
-H
-i m
-l
-E
+
 s
+
+im
+
+IL
+
+la
+
 C
-( G
-O
-r
-U
-e e
+
+C
+
 N
+
 n
+
+U
+
+ee
+
+O
+
+r
+
 C
-C
-I
+
+G
+
+(
+
+E
+
+s
+
 l
+
+H
+
+a
+
+im
+
+3 in
+
+T
+
+la
+
+2 f
+
+)
+
+F
+
+c
+
+0 6 D
+
+l
+
+.2 6
+
+O
+
+O
+
+ta
+
+.3 1
+
+D
+
+) C
+
+n
+
+2
+
+(
+
+e
+
+2 3
+
+5
+
+N
+
+, 2
+
+8
+
+A m
+
+ls 0
+
+0
+
+n
+
+(2
+
+T
+
+o
+
+e
+
+/0
+
+r
+
+ss
+
+3
+
+N
+
+i
+
+uM
+
+2
+
+E
+
+v
+
+r O
+
+0
+
+n
+
+B C
+
+2
+
+a M
+
+e
+
+t
+
+r
+
+IA
+
+i )
+
+fo
+
+ic e
+
 L
-a i m s
+
+l iv
+
+l
+
+t
+
+sa
+
+R
+
+xp c
+
+o
+
+A
+
+e e
+
+p
+
+P
+
+f ir
+
+o
+
+o D
+
+N
+
+r
+
+N
+
+P
+
+n
+
+N IO
+
+A
+
+io
+
+A
+
+E
+
+t
+
+E S
+
+P
+
+a
+
+P IS
+
+O
+
+ic
+
+M
+
+R
+
+n
+
+ROM
+
+U
+
+u
+
+U O
+
+E m
+
+E C
+
+E
+
+om
+
+H
+
+c
+
+T
+
+d
+
+n
+
+F
+
+a
+
+O
+
+n
+
+E
+
+io
+
+t
+
+IV
+
+ia
+
+t
+
+T
+
+n
+
+C
+
+ta
+
+E
+
+s
+
+R
+
+b
+
+I
+
+u
+
+D
+
+s
+
+on
 
 <!-- sida 56 -->
 
@@ -9430,7 +9627,7 @@ Sammanträdesdatum
 
 2014-02-19
 
-\$9
+§9
 
 Utredning kring förutsättningar för visning av värdefulla
 föremål
@@ -9513,7 +9710,7 @@ Bavitfnas?
 
 <!-- sida 203 -->
 
-FESENSSIISARENSENOEST  FIRGRAESIPISSSOR NISSAN nn grn
+FESENSSIISARESENSOEST  FIRGRAPIIPASSSOENIESA SNES grn
 
 Kungsbacka stadsfullmäktige
 
@@ -9632,7 +9829,7 @@ manträde med Stadsfullmäktige i Kungsbacka
 
 den 11 september 1969.
 
-\$ 120.
+§ 120.
 
 Företogs till behandling en av stadsfullmäktigeledamoten
 herr Gösta Svensson såsom egen motion upptagen framställning

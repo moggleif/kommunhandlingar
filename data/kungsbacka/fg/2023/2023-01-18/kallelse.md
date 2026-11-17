@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240329120219id_/https://kungsbacka.se/d
 sha256: 9341c17425a36d0c3a8b65d40138a210d578a297cbd4414cb82b1c932f0afe5b
 bytes: 37677763
 sidor: 71
-hamtad: 2026-11-07T11:47:13+00:00
-konverterad: 2026-11-07T11:48:46+00:00
-pipeline: kommunhandlingar 0.10.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:24:03+00:00
+konverterad: 2026-11-17T02:24:22+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1496,44 +1496,58 @@ Tabell 4.1: Sammanställda resultat från stabilitetsberäkning
 
 <!-- sida 44 -->
 
-1,02
+BBiillaaggaa 11
 
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70  72
-Distance
-noitavelE
+4 Massupplag Kv 5, 6
+Beställare
+Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
+Morgenstern-Price
+2022-12-01
+
+Materials
+Lera, djup, KV5,6,8 od
+Sprängsten
+Torrskorpelera                                                     1,02
+
 1:3
 14
 1:3
 12
+
 10
+
 8
+
 6
+
 4
+
 2
+
 0
+
 -2
-m
-4
-BBiillaaggaa 11
-4 Massupplag Kv 5, 6
-Beställare
-Totalsäkerhetsanalys/Partialsäkerhetsanalys
-Morgenstern-Price
-2022-12-01
-Materials
-Lera, djup, KV5,6,8 od
-Sprängsten
-Torrskorpelera
-Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top C-Rate of C-Maximum Piezometric
+0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70  72
+Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top C-Rate of C-MaximDumistPaienzcomeetric
 Material Model Weight Cohesion Friction (°) Unit Wt. of Layer Change (kPa) Line
 (kN/m³) (kPa) Angle (°)  Above Water (kPa) ((kN/m²)/m)
 Table (kN/m³)
 1
+
 1
+
 Torrskorpelera S=f(depth) 17                             16    0       0        1
+
 4_1 Odränerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-12-01                                  A3 1:200
+
+Elevation
+
+4 m
 
 [Tabell 44-1](kallelse.tabeller/44-1.csv)
 
@@ -1543,93 +1557,119 @@ X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Mas
 
 <!-- sida 45 -->
 
-1,01
-
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70  72
-Distance
-noitavelE
-14
-12
-10
-8
-6
-4
-2
-0
--2
-m
-4
 Bilaga 2
+
 4 Massupplag Kv 5, 6
 Beställare
 Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
 Morgenstern-Price
 2022-12-01
+
 Materials
 Lera, djup, KV5,6,8 komb
 Sprängsten
-Torrskorpelera
-Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top of C-Rate of C-Maximum Cu-Top Cu-Rate of C/Cu Piezometric
+Torrskorpelera                                                    1,01
+
+14
+
+12
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+-2
+0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70  72
+Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top of C-Rate of C-MaxiDmuismtaCnuc-Teop Cu-Rate of C/Cu Piezometric
 Material Model Weight Cohesion Friction (°) Unit Wt. Layer Change (kPa) of  Change  Ratio Line
 (kN/m³) (kPa) Angle (°)   Above Water (kPa) ((kN/m²)/m)    Layer ((kN/m²)/m)
 Table (kN/m³)                    (kPa)
 Lera, djup, Combined, 16            23,9                 1,15   0,092            10    0,8     0,1  1
 KV5,6,8 komb S=f(depth)
+
 Sprängsten Mohr-Coulomb 20  0       37,6   0    16                                                  1
+
 Torrskorpelera S=f(depth) 17                             16     0       0                           1
+
 4_2 Kombinerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-12-01                                  A3 1:200
+
+Elevation
+
+4 m
 
 <!-- sida 46 -->
 
-1,00
-
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
-Distance
-noitavelE
-14
-12
-10
-8
-6
-4
-2
-0
--2
-noitavelE
-14
-1:3                                                            1:3
-12
-10
-8
-6
-4
-2
-0
--2
-m
-5
 Bilaga 3
+
 6 Massupplag Kv 8
 Beställare
 Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
 Morgenstern-Price
 2022-12-01
+
 Materials
-Lera, djup, KV5,6,8 od
+Lera, djup, KV5,6,8 od                    1,00
 Sprängsten
 Torrskorpelera
-Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top C-Rate of C-Maximum Piezometric
+
+14                                                                                                                                          14
+
+1:3                                                            1:3
+
+```osaker-tabell
+12                                                                                                                                          12
+
+10                                                                                                                                          10
+
+ 8                                                                                                                                          8
+
+ 6                                                                                                                                          6
+
+ 4                                                                                                                                          4
+
+ 2                                                                                                                                          2
+
+ 0                                                                                                                                          0
+
+ -2                                                                                                                                         -2
+  0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
+```
+
+Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top DisC-tRaantec oef C-Maximum Piezometric
 Material Model Weight Cohesion Friction (°) Unit Wt. of Layer Change (kPa) Line
 (kN/m³) (kPa) Angle (°)  Above Water (kPa) ((kN/m²)/m)
 Table (kN/m³)
 1
+
 1
+
 Torrskorpelera S=f(depth) 17                             16    0       0        1
+
 6_1 Odränerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-12-01                                  A3 1:200
+
+Elevation
+
+5 m
+
+Elevation
 
 [Tabell 46-1](kallelse.tabeller/46-1.csv)
 
@@ -1639,54 +1679,65 @@ X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Mas
 
 <!-- sida 47 -->
 
-1,00
-
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
-Distance
-noitavelE
-14
-12
-10
-8
-6
-4
-2
-0
--2
-noitavelE
-14
-1:3                                                            1:3
-12
-10
-8
-6
-4
-2
-0
--2
-m
-5
 Bilaga 4
+
 6 Massupplag Kv 8
 Beställare
 Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
 Morgenstern-Price
 2022-12-01
+
 Materials
-Lera, djup, KV5,6,8 komb
+Lera, djup, KV5,6,8 komb                  1,00
 Sprängsten
 Torrskorpelera
-Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top of C-Rate of C-Maximum Cu-Top Cu-Rate of C/Cu Piezometric
+
+14                                                                                                                                          14
+
+1:3                                                            1:3
+
+```osaker-tabell
+12                                                                                                                                          12
+
+10                                                                                                                                          10
+
+ 8                                                                                                                                          8
+
+ 6                                                                                                                                          6
+
+ 4                                                                                                                                          4
+
+ 2                                                                                                                                          2
+
+ 0                                                                                                                                          0
+
+ -2                                                                                                                                         -2
+  0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
+```
+
+Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-TopD ofisCta-Rnactee of C-Maximum Cu-Top Cu-Rate of C/Cu Piezometric
 Material Model Weight Cohesion Friction (°) Unit Wt. Layer Change (kPa) of  Change  Ratio Line
 (kN/m³) (kPa) Angle (°)   Above Water (kPa) ((kN/m²)/m)    Layer ((kN/m²)/m)
 Table (kN/m³)                    (kPa)
 Lera, djup, Combined, 16            23,9                 1,15   0,092            10    0,8     0,1  1
 KV5,6,8 komb S=f(depth)
+
 Sprängsten Mohr-Coulomb 20  0       37,6   0    16                                                  1
+
 Torrskorpelera S=f(depth) 17                             16     0       0                           1
+
 6_2 Kombinerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-12-01                                  A3 1:200
+
+Elevation
+
+5 m
+
+Elevation
 
 <!-- sida 48 -->
 
@@ -1790,53 +1841,64 @@ Partialsäkerhetsfaktorn för denna geometri uppgår till 1,06.
 
 <!-- sida 54 -->
 
-1,06
-
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
-Distance
-noitavelE
-14
-12
-10
-8
-6
-4
-2
-0
--2
-noitavelE
-14
-1:3                                                            1:3
-12
-10
-8
-6
-4
-2
-0
--2
-m
-4
 Bilaga 1
+
 2 Massupplag 4m
 Beställare
 Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
 Morgenstern-Price
 2022-10-27
+
 Materials
 Lera, djup, od
 Sprängsten
+1,06
 Torrskorpelera
+
+14                                                                                                                                          14
+
+1:3                                                            1:3
+
+```osaker-tabell
+12                                                                                                                                          12
+
+10                                                                                                                                          10
+
+ 8                                                                                                                                          8
+
+ 6                                                                                                                                          6
+
+ 4                                                                                                                                          4
+
+ 2                                                                                                                                          2
+
+ 0                                                                                                                                          0
+
+ -2                                                                                                                                         -2
+  0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
+```
+
 Color Name      Slope Stability Unit Effective Effective Phi-B Constant C-Top C-Rate of C-Maximum Piezometric
 Material Model Weight Cohesion Friction (°) Unit Wt. of Change (kPa) Line
+Distance
 (kN/m³) (kPa) Angle (°)  Above Water Layer ((kN/m²)/m)
 Table (kN/m³) (kPa)
 1
 1
 Torrskorpelera S=f(depth) 17                             16   0       0        1
+
 2_1 Odränerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-10-27                                  A3 1:200
+
+Elevation
+
+4 m
+
+Elevation
 
 [Tabell 54-1](kallelse.tabeller/54-1.csv)
 
@@ -1846,54 +1908,64 @@ X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Mas
 
 <!-- sida 55 -->
 
-1,06
-
-0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
-Distance
-noitavelE
-14
-12
-10
-8
-6
-4
-2
-0
--2
-noitavelE
-14
-1:3                                                            1:3
-12
-10
-8
-6
-4
-2
-0
--2
-m
-4
 Bilaga 2
+
 2 Massupplag 4m
 Beställare
 Totalsäkerhetsanalys/Partialsäkerhetsanalys
+
 Morgenstern-Price
 2022-10-27
+
 Materials
 Lera, djup, komb
 Sprängsten
+1,06
 Torrskorpelera
+
+14                                                                                                                                          14
+
+1:3                                                            1:3
+
+```osaker-tabell
+12                                                                                                                                          12
+
+10                                                                                                                                          10
+
+ 8                                                                                                                                          8
+
+ 6                                                                                                                                          6
+
+ 4                                                                                                                                          4
+
+ 2                                                                                                                                          2
+
+ 0                                                                                                                                          0
+
+ -2                                                                                                                                         -2
+```
+
 Color Name        Slope Stability Unit Effective Effective Phi-B Constant C-Top C-Rate of C-Maximum Cu-Top Cu-Rate of C/Cu Piezometric
+0   2   4   6   8  10  12  14  16  18  20  22  24  26  28 30  32  34  36  38  40  42  44  46  48  50 52  54  56  58  60  62  64  66  68  70
 Material Model Weight Cohesion Friction (°) Unit Wt. of Layer Change (kPa) of Change Ratio Line
 (kN/m³) (kPa) Angle (°)  Above Water (kPa) ((kN/m²)/m)    Layer ((kN/m²)/m)
+Distance
 Table (kN/m³)                    (kPa)
 Lera, djup, komb Combined, 16        23,9                  1,2   0,13             8     0,9     0,115 1
 S=f(depth)
 Sprängsten   Mohr-Coulomb 20  0      37,6   0    16                                                  1
 Torrskorpelera S=f(depth) 17                               16    0       0                           1
 2_2 Kombinerad analys
+
 X:\Goteborg\Geoteknik -13955-\ANBUD OCH UPPDRAG\2022\222222\G22164 Björkris Massupplag\03_Produktdokument\9_Geoteknik\G.02_BerSäktanbinigli\t0e1t\_\_mStaabsisliuteptspblaergä.kgnsinzg\\
+
 2022-10-27                                  A3 1:200
+
+Elevation
+
+4 m
+
+Elevation
 
 <!-- sida 56 -->
 
@@ -1929,28 +2001,20 @@ meter
 3 m
 eter
 
-Kv11 Phubb
-11 m
-
-35 m
-m
-4
-Kv8
-8 m
-26 m
-m 3 7 m
-25 m
-m 3
-Kv5
-\~2400m3                             \~2300m3        \~6200m3
-m
-4
 SKÅRBY 6:27 3    SKÅRBY 6:28 3      SKÅRBY 6:28 1  SKÅRBY 6:24
-Kv6
-38,06 m
-62,17 m
-\~8000m3
+Kv5               Kv6                Kv8         Kv11 Phubb
+7 m              38,06 m            8 m            11 m
+25 m             62,17 m            26 m           35 m
+\~2400m3           \~8000m3           \~2300m3        \~6200m3
 SLÄNTLUTNING = 1:3
+
+3 m
+
+4 m
+
+3 m
+
+4 m
 
 <!-- sida 57 -->
 

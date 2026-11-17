@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240331190343id_/https://kungsbacka.se/d
 sha256: 17fe1e717a67911aebb88bde8823db36bd71adbec77c874d3059538505be4cc1
 bytes: 1527036
 sidor: 14
-hamtad: 2026-10-26T10:07:28+00:00
-konverterad: 2026-10-26T10:07:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:07:57+00:00
+konverterad: 2026-11-17T03:08:08+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok]
@@ -198,7 +198,6 @@ för tjejer som har svåra besvär av mensvärk eller annat kopplat till menscyk
 
 <!-- sida 6 -->
 
-RR |
 Prisförslag - 130 mensskyddsa utomater (4 påfyllningar av mensskydd per år) REDLOCKER
 
 Produkt
@@ -443,6 +442,14 @@ Justerare                         Expedierat/bestyrkt
 
 TJÄNSTESKRIVELSE
 
+Pågående anmälningsärenden hos Skolinspektionen och Barn-
+och elevombudet (Beo), inklusive ärenden som utreds inom          1 (3)
+Förskola & Grundskolas klagomålshantering per den 25 maj
+Datum
+2022\.
+2022-05-25
+Nya ärenden
+
 Förskola & Grundskola                                        Kungsbacka kommun
 Frida Byrsten                                                 434 81 Kungsbacka
 Direkt 0300-83 44 69
@@ -453,16 +460,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 41 64
 (e-post borttagen)
 www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
-Pågående anmälningsärenden hos Skolinspektionen och Barn-
-och elevombudet (Beo), inklusive ärenden som utreds inom          1 (3)
-Förskola & Grundskolas klagomålshantering per den 25 maj
-Datum
-2022\.
-2022-05-25
-Nya ärenden
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 12-1](kallelse.tabeller/12-1.csv)
 

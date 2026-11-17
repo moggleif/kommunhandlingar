@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319232220id_/https://www.kungsbacka.
 sha256: 15d4580a9a21c1053ccc7247f88fdaed9d51cd76771d9b18b7b9262ad370636c
 bytes: 5120745
 sidor: 214
-hamtad: 2026-10-31T08:18:20+00:00
-konverterad: 2026-10-31T08:19:19+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T04:07:04+00:00
+konverterad: 2026-11-17T04:07:41+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -9882,27 +9882,38 @@ Vårt        framtida              Kungsbacka                     -   översikts
 
 Granskning     1 mars   – 30  april 2021
 
-En översiktsplan är vägledande i hur
-Strategi 2040
-Välkommen    med  synpunkter!                                                                                      kommunen  vill använda mark och vatten.
-Översiktsplanen visar var kommunen vill
-bygga, var vi ska bevara naturområden
+Välkommen    med  synpunkter!
+
 Dina synpunkter är viktiga. Var med och tyck till
-om vårt framtida Kungsbacka!                                                                                       och hur vi vill utveckla vår infrastruktur.
-Fram till 30 april 2021 kan du tycka till om vårt                                                                  Tyck till om kommunens förslag till översiktsplan via
-förslag till ny översiktsplan för Kungsbacka                                                                       (e-post borttagen)
-kommun. Granskningen pågår mellan 1 mars                                                                           Skriv ”synpunkt översiktsplan” i ämnesraden.
+om vårt framtida Kungsbacka!
+Fram till 30 april 2021 kan du tycka till om vårt
+förslag till ny översiktsplan för Kungsbacka
+kommun. Granskningen pågår mellan 1 mars
 och 30 april 2021. De synpunkter som kommer
-in sammanställer vi och använder som under-                                                                        När du skriver, tänk på att en översiktsplan hanterar
-lag till det fortsatta arbetet och som underlag                                                                    övergripande och långsiktiga frågor.
+in sammanställer vi och använder som under-
+lag till det fortsatta arbetet och som underlag
 till politikernas beslut om ny översiktsplan.
 Du kan lämna synpunkter via mejl
+
 (e-post borttagen)
 Skriv ”synpunkt översiktsplan” i ämnesraden
 
 Vid frågor kontakta gärna:
 (e-post borttagen)
 Kungsbacka Direkt 0300 83 40 00
+
+En översiktsplan är vägledande i hur
+Strategi 2040
+kommunen  vill använda mark och vatten.
+Översiktsplanen visar var kommunen vill
+bygga, var vi ska bevara naturområden
+och hur vi vill utveckla vår infrastruktur.
+Tyck till om kommunens förslag till översiktsplan via
+(e-post borttagen)
+Skriv ”synpunkt översiktsplan” i ämnesraden.
+
+När du skriver, tänk på att en översiktsplan hanterar
+övergripande och långsiktiga frågor.
 
 Översiktsplaneprocessen                Mark- och va(cid:321) enanvändning
 Framtagandet av en ny översiktsplan görs enligt en väl defi nie-

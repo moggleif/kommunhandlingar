@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241127003329id_/https://kungsbacka.se/d
 sha256: 4108835d211e549dbc7d91dc04dc8e99161ab41b981caa060d8f37b8c2aeb40c
 bytes: 114192415
 sidor: 837
-hamtad: 2026-10-20T09:03:42+00:00
-konverterad: 2026-10-20T09:07:59+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:07:29+00:00
+konverterad: 2026-11-17T01:11:23+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3016,7 +3016,7 @@ Kommunen och Exploatören kallas gemensamt Parterna
 BAKGRUND OCH FÖRUTSÄTTNINGAR
 Uppdrag, politiska beslut m.m.
 
-Byggnadsnämnden beslutade 2016-06-15 \$ 179 att en detaljplan för
+Byggnadsnämnden beslutade 2016-06-15 § 179 att en detaljplan för
 verksamhetsområde inom Varla 3:22 med tillägg av Varla 3:34 samt del av Varla
 
 2:198 ska upprättas.
@@ -3528,7 +3528,7 @@ detaljplanen är nedan åtgärder kända i dagsläget;
 
 » Eventuell flytt av privata VA-ledningar som ligger inom kvartersmark på
 fastigheten Varla 3:22 och betjänar fastigheten Varla 3:34. Nytt läge eller ny
-anslutningspunkt till allmänt VA-nät utreds 1 samband med projektering av övriga
+anslutningspunkt till allmänt VA-nät utreds i samband med projektering av övriga
 va-ledningar i området.
 
 = Flytt av el-ledningar tillhörande Ellevio som ligger inom kvartersmark inom
@@ -3647,7 +3647,7 @@ Kommunen för nedlagda plankostnader, vilket regleras i ett separat plankostnads
 26.1 — Avtalet får inte utan Kommunens skriftliga medgivande överlåtas på annan.
 Exploatören ska i god tid innan avsedd överlåtelse begära sådant medgivande.
 Kommunens medgivande förutsätter att ny part övertar de skyldigheter och ställer den
-säkerhet som gäller för Exploatören enligt Avtalet, Vid överlåtelse till helägt bolag
+säkerhet som gäller för Exploatören enligt Avtalet. Vid överlåtelse till helägt bolag
 inom samma koncern som Exploatören tillhör, ska medgivande enligt ovan lämnas om
 inte särskilda skäl föreligger emot ett sådant medgivande.
 
@@ -4626,13 +4626,8 @@ Förstudie för Hedeleden (2012)
 En förstudie togs fram för Hedeleden 2012. Den visar två tänkbara vägsträckningar inom
 ett större utredningsområde.
 
-I förstudien för Hedeleden finns
-ett större utredningsområde inom
-de rosastreckade linjerna. Två olika
-tänkbara sträckningar av Hedeleden
-är markerade med tunn röd linje.
-
 Masterplan Hede station 2025
+
 En masterplan/förstudie togs
 fram 2016 för stationsområdet
 vid Hedestation. Arbetet syftade
@@ -4643,7 +4638,6 @@ kunna stödja den stadsutveckling
 som planeras i dess närområde.
 Masterplanen godkändes av kom-
 munstyrelsen 2016-03-15 § 45.
-
 Direktiv till planprogram
 
 Kommunstyrelsen beslutade
@@ -4652,9 +4646,17 @@ rektiv som skulle ligga till grund
 för planprogrammet. Direktiven
 finns under rubriken Uppdrag.
 
+8 Planprogram nordöstra Kungsbacka
+
+I förstudien för Hedeleden finns
+ett större utredningsområde inom
+de rosastreckade linjerna. Två olika
+tänkbara sträckningar av Hedeleden
+är markerade med tunn röd linje.
+
 Hede masterplan, godkänd av KS 2016
 
-8 Planprogram nordöstra Kungsbacka              Planprogram nordöstra Kungsbacka 9
+Planprogram nordöstra Kungsbacka 9
 
 <!-- sida 131 -->
 
@@ -6363,8 +6365,7 @@ Kommunfullmäktige SAMMANTRÄDESPROTOKOLL = - 16 (36)
 Kv NG FEET EDA MUN manträdesdatum
 2010-09-07
 2010 -09- 22
-rg RE
-\$ 161 KS09-00129/21
+§ 161 KS09-00129/21
 
 Genomförandeavtal för fastigheterna Glädjen 7-9
 
@@ -6402,8 +6403,8 @@ inte kan ordnas inom det egna fastighetsinnehavet
 Beslutsunderlag
 
 Kommunstyrelsens förvaltning, skrivelse 2010-07-06
-Kommunstyrelsens arbetsutskott 2010-08-10, \$ 232
-Kommunstyrelsen 2010-08-17, \$ 167
+Kommunstyrelsens arbetsutskott 2010-08-10, § 232
+Kommunstyrelsen 2010-08-17, § 167
 
 Proposition
 Ordföranden ställer proposition på kommunstyrelsens förslag, med redaktionellt
@@ -6734,51 +6735,38 @@ finns i det nya området och i Särö.
 
 FUNKTIONER         I NÄROMRÅDET
 
-Inom en bekväm räckvidd på cirka 1,5 km olika destinationer och utforska närliggande
+Inom en bekväm räckvidd på cirka 1,5 km
+från Bukärr 1:5 finner man Särö centrum. Här
+erbjuds en mängd viktiga serviceinrättningar
 
-från Bukärr 1:5 finner man Särö centrum. Här områden.
-erbjuds en mängd viktiga serviceinrättningar Sammanfattningsvis erbjuder närheten till
-och faciliteter som möter invånarnas behov. Det Särö centrum invånarna i Bukärr 1:5 en
-tar endast 2 minuter med bil, 4 minuter med bekväm tillgång till viktiga serviceinrättningar
-cykel eller cirka 10 minuters promenad för att nå och möjligheter. Här kan de hitta matvaror,
-centrum.                                njuta av matupplevelser, få tillgång till hälso-
-och tandvård samt enkelt resa till olika
-Särö centrum ger tillgång till en mataffär där destinationer.
+och faciliteter som möter invånarnas behov. Det
+tar endast 2 minuter med bil, 4 minuter med
+cykel eller cirka 10 minuters promenad för att nå
+centrum.
+
+Särö centrum ger tillgång till en mataffär där
 invånarna kan handla dagligvaror och andra
-
-nödvändigheter. Dessutom finns ett urval av FÖRSKOLOR OCH SKOLOR
+nödvändigheter. Dessutom finns ett urval av
 restauranger som skapar möjligheter till trevliga
-I närområdet kring Bukärr 1:5 finns flera
+
 matupplevelser och social samvaro.
-förskolor och en grundskola inom bekvämt
-avstånd. Inom en radie av en kilometer
+
 Förutom mat och restauranger finns även
-finns tillgång till både en förskola och en
 tillgång till andra viktiga tjänster i området.
-grundskola för årskurs 1-5, vilket ger närhet
 Här finns en tandläkarmottagning och en
-och smidig tillgänglighet för de yngre barnen.
 vårdcentral, vilket underlättar för invånarna att
-Vid en utvidgning av avståndet till cirka
 få tillgång till sjukvård och tandvård.
-2,5 kilometer ökar tillgängligheten till tre
-ytterligare förskolor och en grundskola för
+
 Särö centrum fungerar också som ett
-årskurs 6-9. Denna utvidgning möter behoven
 transportnav där invånarna kan få tillgång till
-för barn i olika åldersgrupper i området.
+
 olika kollektivtrafikalternativ. Genom närheten
 till resecentrum kan invånarna enkelt ta sig till
+
 m
-k                                                 Förskola
+k
 5
 2,
-Grundskola
-Åk: 1-5
-Grundskola
-Åk: 6-9
-Busshållplats
-1 km
 
 SÄRÖ
 CENTRUM
@@ -6786,7 +6774,44 @@ CENTRUM
 Skala: 1:100 000 (vid A4 stående)
 5 km                                                           Skala: 1:10 000 (vid A4 stående)
 500 m
-Ärendenummer: #79797 | Datum: 2023-06-21 11:16                                                                                                           Bilaga 1 sida 3 av 9
+Ärendenummer: #79797 | Datum: 2023-06-21 11:16
+
+olika destinationer och utforska närliggande
+områden.
+Sammanfattningsvis erbjuder närheten till
+Särö centrum invånarna i Bukärr 1:5 en
+bekväm tillgång till viktiga serviceinrättningar
+
+och möjligheter. Här kan de hitta matvaror,
+njuta av matupplevelser, få tillgång till hälso-
+och tandvård samt enkelt resa till olika
+destinationer.
+
+FÖRSKOLOR    OCH SKOLOR
+
+I närområdet kring Bukärr 1:5 finns flera
+förskolor och en grundskola inom bekvämt
+avstånd. Inom en radie av en kilometer
+finns tillgång till både en förskola och en
+grundskola för årskurs 1-5, vilket ger närhet
+och smidig tillgänglighet för de yngre barnen.
+Vid en utvidgning av avståndet till cirka
+2,5 kilometer ökar tillgängligheten till tre
+ytterligare förskolor och en grundskola för
+
+årskurs 6-9. Denna utvidgning möter behoven
+för barn i olika åldersgrupper i området.
+
+Förskola
+
+Grundskola
+Åk: 1-5
+Grundskola
+Åk: 6-9
+Busshållplats
+1 km
+
+Bilaga 1 sida 3 av 9
 
 <!-- sida 181 -->
 
@@ -6953,26 +6978,34 @@ N
 <!-- sida 184 -->
 
 STADSVILLOR
-VILLOR
-NORRA  OMRÅDET
+
 NORRA   OMRÅDET
 
 Bilderna ovan är inspiration från andra projekt och visar på möjlig
-Bilderna ovan är inspiration från andra projekt och visar på möjlig
 karaktär för stadsvillorna. I stadsvillorna finns två fulla plan med fyra
-karaktär för villorna. I villaområdet finns mindre enfamiljshus som är
 bostäder i vardera byggnad på cirka 100 kvm var. Bostadsformen
-fördelade över 1 1/2 plan. Denna bebyggelsestil bidrar till att behålla en
 möjliggör energieffektivitet genom att bostäderna delar ytterväggar, vilket
-känsla av rymd och öppenhet i området tillsammans med de generösa
 resulterar i en mer energisnål bebyggelse jämfört med fristående hus.
-tomerna tomterna. Bostadsformen kontrasterar mot stadsvillorna och
-erbjuder ett mer privat boende.
+
 Hushållen delar även en generös tomt som sträcker sig mellan
 byggnaderna. Här finns möjlighet till en park för rekreation och en lekplats
 där barnen kan leka och ha roligt. Park och lekplats kommer dessutom
 
-Ärendenummer: #79797 | Datum: 2023-06-21 11:16                                                                                                           Bilaga 1 sida 7 av 9
+Ärendenummer: #79797 | Datum: 2023-06-21 11:16
+
+VILLOR
+
+NORRA  OMRÅDET
+
+Bilderna ovan är inspiration från andra projekt och visar på möjlig
+
+karaktär för villorna. I villaområdet finns mindre enfamiljshus som är
+fördelade över 1 1/2 plan. Denna bebyggelsestil bidrar till att behålla en
+känsla av rymd och öppenhet i området tillsammans med de generösa
+tomerna tomterna. Bostadsformen kontrasterar mot stadsvillorna och
+erbjuder ett mer privat boende.
+
+Bilaga 1 sida 7 av 9
 
 <!-- sida 185 -->
 
@@ -7031,14 +7064,26 @@ gemenskapen i Särö.
 
 VA
 
-VATTEN     OCH    AVLOPP                                                          SAMMANFATTNING
+VATTEN     OCH    AVLOPP
 
-Kapacitet                                                                         Förslag till ny detaljplan
+Kapacitet
 
-Bukärr 1:5 ligger nära centrala Särö som har kommunalt vatten och avlopp och      Bukärr 1:5 är för närvarande en omfattande fastighet med potential att dela upp
-möjlighet kan finnas för att koppla på befintliga stammar och utvidgas till det nya sig i flera nya bostads- och samhällsfunktionsfastigheter. I förslaget är det viktigt
-området. Nyligen har nya stammar för kommunalt vatten och avlopp dragits till     att bevara områdets öppenhet och karaktär, vilket innebär att fastigheterna
-Hagryd- Dala vilket kan utgöra ytterligare en möjlig nod för påkoppling.          kommer att vara generösa i storlek och bebyggelsen kommer att vara småskalig.
+Bukärr 1:5 ligger nära centrala Särö som har kommunalt vatten och avlopp och
+möjlighet kan finnas för att koppla på befintliga stammar och utvidgas till det nya
+området. Nyligen har nya stammar för kommunalt vatten och avlopp dragits till
+
+Hagryd- Dala vilket kan utgöra ytterligare en möjlig nod för påkoppling.
+
+Ärendenummer: #79797 | Datum: 2023-06-21 11:16
+
+SAMMANFATTNING
+
+Förslag till ny detaljplan
+
+Bukärr 1:5 är för närvarande en omfattande fastighet med potential att dela upp
+sig i flera nya bostads- och samhällsfunktionsfastigheter. I förslaget är det viktigt
+att bevara områdets öppenhet och karaktär, vilket innebär att fastigheterna
+kommer att vara generösa i storlek och bebyggelsen kommer att vara småskalig.
 
 Skogen kommer att förbli en framträdande del av området och dess karaktär.
 Särskilt fokus kommer att läggas på att bevara grönområden genom att skapa
@@ -7054,11 +7099,10 @@ markerad i den västra delen av Bukärr 1:5. Det området kommer att förbli en
 öppen parkmiljö som kan samspela med den valda samhällsfunktionen.
 
 Tack vare sin närhet till Särö centrum och viktiga faciliteter finns förutsättningar
-
 för att utveckla Bukärr 1:5 till ett livligt område och locka nya invånare till
 kommunen genom att erbjuda nya bostäder.
 
-Ärendenummer: #79797 | Datum: 2023-06-21 11:16                                                                                                           Bilaga 1 sida 9 av 9
+Bilaga 1 sida 9 av 9
 
 <!-- sida 187 -->
 
@@ -7920,7 +7964,7 @@ Bilaga 1 – Källförteckning .................................................
 
 <!-- sida 212 -->
 
-1\. Sammanställd bedömning  och slutsatser
+1\. Sammanställd  bedömning  och slutsatser
 
 Den uppföljande granskningen visar att styrelse och nämnder delvis Nämnden för Individ & familjeomsorg
 har omhändertagit de rekommendationer som lämnades i 2021 års
@@ -7928,33 +7972,55 @@ Granskning av åtgärdsarbetet inom nämnden för Individ- &
 granskningar. Utifrån bedömningen att rekommendationerna inte
 eller endast delvis är omhändertagna kvarstår följande familjeomsorg
 rekommendationer:
- Säkerställ att nämndens styrning och uppföljning omfattar
-barnperspektivet i enlighet med lag och föreskrifter
+  Säkerställ att nämndens styrning och uppföljning omfattar
+
 Kommunstyrelsen
-Granskning av kommunens interna kontroller för att motverka  Säkerställa att risk- och konsekvensanalyser genomförs och
-följs upp på ett systematiskt sätt i enlighet med nämndens
+Granskning av kommunens interna kontroller för att motverka
 välfärdsbrott.
-ledningssystem för systematiskt kvalitetsarbete
   Tillse att en kommunövergripande handlingsplan för att
 motverka kvalificerade välfärdsbrott utarbetas
-Granskning av kommunens interna kontroller för att motverka
-  Tillse att kommunövergripande riktlinjer kopplat till välfärdsbrott
+  Tillse att kommunövergripande riktlinjer kopplat till
 kvalificerade välfärdsbrott i vidare bemärkelse utarbetas
-  Tillse att uppföljningen av nämnders arbete mot kvalificerade  Tillse att handläggare ute i linjen har det stöd som behövs i
-välfärdsbrott förstärks                           form av rutiner, metoder och verktyg för att förebygga,
-  Tillse att kommunens övergripande samordning, infrastruktur upptäcka och utreda kvalificerade välfärdsbrott
-och stödverksamhet för arbetet mot välfärdsbrott förstärks  Tillse att kompetensnivån kring kvalificerade välfärdsbrott
-  Tillse att nämnder samlar information och för statistik kopplat höjs genom att en anpassad utbildningsplan utarbetas och
-till kvalificerade välfärdsbrott och regelbundet rapporterar implementeras
-dessa till kommunstyrelsen                       Tillse att nämndspecifika riktlinjer utarbetas som ger konkret
+  Tillse att uppföljningen av nämnders arbete mot kvalificerade
+välfärdsbrott förstärks
+
+  Tillse att kommunens övergripande samordning, infrastruktur
+och stödverksamhet för arbetet mot välfärdsbrott förstärks
+  Tillse att nämnder samlar information och för statistik kopplat
+till kvalificerade välfärdsbrott och regelbundet rapporterar
+dessa till kommunstyrelsen
+
+Nämnden för service
+Granskning av måltidsverksamhet
+  Överväg att inför styrning samt följa upp kvalitetsmål
+gällande kundnöjdheten för måltidsverksamheten
+  Tydliggör uppföljningen av mål i styrkort eftersom inte alla
+mål följs upp med ordinarie processer i april- och
+delårsuppföljningen
+
+barnperspektivet i enlighet med lag och föreskrifter
+  Säkerställa att risk- och konsekvensanalyser genomförs och
+följs upp på ett systematiskt sätt i enlighet med nämndens
+ledningssystem för systematiskt kvalitetsarbete
+
+Granskning av kommunens interna kontroller för att motverka
+välfärdsbrott
+
+  Tillse att handläggare ute i linjen har det stöd som behövs i
+form av rutiner, metoder och verktyg för att förebygga,
+upptäcka och utreda kvalificerade välfärdsbrott
+  Tillse att kompetensnivån kring kvalificerade välfärdsbrott
+höjs genom att en anpassad utbildningsplan utarbetas och
+implementeras
+  Tillse att nämndspecifika riktlinjer utarbetas som ger konkret
 stöd till nämnderna för hur arbetsuppgifter kopplade till
-Nämnden för service                                    området ska utföras
-Granskning av måltidsverksamhet                       Tillse att arbetet med kontrollaktiviteter sker systematiskt
-  Överväg att inför styrning samt följa upp kvalitetsmål och riskbaserat för att motverka avsiktliga felutbetalningar
-gällande kundnöjdheten för måltidsverksamheten   Tillse att statistik förs över relevanta nyckeltal avseende
-  Tydliggör uppföljningen av mål i styrkort eftersom inte alla kvalificerade välfärdsbrott och att dessa rapporteras till
-mål följs upp med ordinarie processer i april- och intressenter inom och utanför kommunen
-delårsuppföljningen                              Tillse att samverkansformer internt och externt ses över för
+området ska utföras
+  Tillse att arbetet med kontrollaktiviteter sker systematiskt
+och riskbaserat för att motverka avsiktliga felutbetalningar
+  Tillse att statistik förs över relevanta nyckeltal avseende
+kvalificerade välfärdsbrott och att dessa rapporteras till
+intressenter inom och utanför kommunen
+  Tillse att samverkansformer internt och externt ses över för
 att tillse ändamålsenliga erfarenhetsutbyten och
 metodutveckling
 
@@ -7986,30 +8052,45 @@ intressenter inom och utanför kommunen
 
 2\. Inledning
 
-2.1. Bakgrund                                      2.2. Syfte
-EY har på uppdrag av de förtroendevalda revisorerna i Kungsbacka Syftet med granskningen har varit att bedöma om berörda nämnder
-kommun genomfört en uppföljning av 2021 års fördjupade och styrelse vidtagit åtgärder utifrån de ursprungliga
-granskningar. Uppföljningen har genomförts inom ramen för revisionsrapporternas rekommendationer.
+2.1. Bakgrund
+EY har på uppdrag av de förtroendevalda revisorerna i Kungsbacka
+kommun genomfört en uppföljning av 2021 års fördjupade
+granskningar. Uppföljningen har genomförts inom ramen för
 kommunrevisionens grundläggande granskning.
-2.3. Metod
+
 Den uppföljande granskningen omfattar följande granskningar:
-Uppföljningen har genomförts genom dokumentstudier och skriftliga
-  Granskning av måltidsverksamheten             frågor. Skriftliga frågor har ställts till berörd förvaltning. De skriftliga
-  Granskning av lokalförsörjning och hantering av frågorna har utgått från de rekommendationer som lämnades i
-verksamhetslokaler                            respektive granskningsrapport samt styrelse och nämnders
-  Granskning av individ- och familjeomsorgnämndens ursprungliga svar till revisionen.
+  Granskning av måltidsverksamheten
+  Granskning av lokalförsörjning och hantering av
+verksamhetslokaler
+
+  Granskning av individ- och familjeomsorgnämndens
 åtgärdsarbete
-Källförteckning återfinns i bilaga 1. Samtliga berörda nämnder och
   Granskning av interna kontroller kopplade till risken för
-styrelsen har getts möjlighet att sakfelskontrollera rapporten.
 kvalificerade välfärdsbrott
+
 I granskningarna lämnades sammanlagt:
+
  fem rekommendationer till kommunstyrelsen
  elva rekommendationer till nämnden för Individ &
 Familjeomsorg
  sju rekommendationer till nämnden för Gymnasium &
 Arbetsmarknad
  sex rekommendationer till nämnden för Service.
+
+2.2. Syfte
+Syftet med granskningen har varit att bedöma om berörda nämnder
+och styrelse vidtagit åtgärder utifrån de ursprungliga
+revisionsrapporternas rekommendationer.
+
+2.3. Metod
+Uppföljningen har genomförts genom dokumentstudier och skriftliga
+frågor. Skriftliga frågor har ställts till berörd förvaltning. De skriftliga
+frågorna har utgått från de rekommendationer som lämnades i
+respektive granskningsrapport samt styrelse och nämnders
+ursprungliga svar till revisionen.
+
+Källförteckning återfinns i bilaga 1. Samtliga berörda nämnder och
+styrelsen har getts möjlighet att sakfelskontrollera rapporten.
 
 5
 
@@ -8032,43 +8113,68 @@ bedömning var att nämnden i stort säkerställt en ändamålsenlig styrning oc
 
 <!-- sida 216 -->
 
-Tydliggör uppföljningen av Nämnden svarade att verksamhetsplaner med styrkort Uppföljningen visar att uppföljningen av mål i styrkort Inte omhändertagen
-mål i styrkort eftersom inte beslutas av förvaltningen och uppföljning sker för att följa inte har förändrats sedan granskningen 2021. Nämnden har inte åtgärdat
-alla mål följs upp med utvecklingen. I samband med bokslut lämnar förvaltningen   rekommendationen.
-Av svar från förvaltningen framgår att förvaltningen
-ordinarie processer i kommentarer, utifrån verksamhetsplan och styrkort, till     Nämnden har inte
-följer en stor mängd nyckeltal för att få kunskap om
-apriluppföljning och nämnden. Om betydande avvikelser uppkommer redovisas         tydliggjort uppföljningen av
-hur det går för verksamheterna. De nyckeltal som
-delårsrapport.    detta för nämnden.                                              mål i styrkort.
-lyfts för information till nämnden påvisar en trend i
-Uppföljningen består
-Vid varje nämndsmöte redovisar förvaltningen nyckeltal från negativ eller positiv riktning, förflyttning av resultat,
-fortsatt av en beskrivning
-styrkortet som har betydande avvikelse, både positivt och och/eller bibehållen god kvalitet i respektive
-av arbetet inom olika
-negativ avvikelse. Redovisningen omfattar utfall och verksamhet.
-områden vilket enligt vår
+Tydliggör uppföljningen av Nämnden svarade att verksamhetsplaner med styrkort
+mål i styrkort eftersom inte beslutas av förvaltningen och uppföljning sker för att följa
+alla mål följs upp med utvecklingen. I samband med bokslut lämnar förvaltningen
+ordinarie processer i kommentarer, utifrån verksamhetsplan och styrkort, till
+apriluppföljning och nämnden. Om betydande avvikelser uppkommer redovisas
+delårsrapport.    detta för nämnden.
+Vid varje nämndsmöte redovisar förvaltningen nyckeltal från
+styrkortet som har betydande avvikelse, både positivt och
+negativ avvikelse. Redovisningen omfattar utfall och
 målvärde. I mötesprotokollet för nämnden noteras vilka
-Uppföljningen av förvaltningens styrkort är en bild varken är en
 verksamheter vars mått har redovisats.
-tvåvägskommunikation. Nämnden har alltid möjlighet uppföljning av en indikator
-Nämnden anser att uppföljningen av mål i styrkort är tydlig att ställa frågor och efterfråga nyckeltal. Varje enskilt eller en avvikelsebaserad
-och följer den ordning, beskriven ovan, som är beslutad i nyckeltal är i sig inte relevant för nämnden att följa. uppföljning. Det finns
-nämnden.                          De behöver analyseras och sättas i ett större enligt vår mening inte en
-sammanhang, vilket bland annat görs i delårs- och tydligt logik i vad som
-årsrapporteringen.            redovisas för nämnden vid
-uppföljningstillfällena. Vi
+Nämnden anser att uppföljningen av mål i styrkort är tydlig
+och följer den ordning, beskriven ovan, som är beslutad i
+nämnden.
+
+Uppföljningen visar att uppföljningen av mål i styrkort Inte omhändertagen
+
+inte har förändrats sedan granskningen 2021.
+Av svar från förvaltningen framgår att förvaltningen
+följer en stor mängd nyckeltal för att få kunskap om
+hur det går för verksamheterna. De nyckeltal som
+lyfts för information till nämnden påvisar en trend i
+negativ eller positiv riktning, förflyttning av resultat,
+och/eller bibehållen god kvalitet i respektive
+verksamhet.
+Uppföljningen av förvaltningens styrkort är en
+tvåvägskommunikation. Nämnden har alltid möjlighet
+att ställa frågor och efterfråga nyckeltal. Varje enskilt
+nyckeltal är i sig inte relevant för nämnden att följa.
+De behöver analyseras och sättas i ett större
+sammanhang, vilket bland annat görs i delårs- och
+årsrapporteringen.
 I samband med att nämnden för Service tar fram en
-noterar dock att ett arbete
 ny målbild under 2023 arbetar förvaltningen med att
-pågår med avsikt att
 definiera nyckeltal kopplade till målbilden som ska
-tydliggöra uppföljningen av
 följas upp av nämnden. Detta tror förvaltningen
-mål i styrkort.
 kommer bidra till att tydliggöra uppföljningen av mål i
+
+Nämnden har inte åtgärdat
+rekommendationen.
+Nämnden har inte
+tydliggjort uppföljningen av
+mål i styrkort.
+Uppföljningen består
+fortsatt av en beskrivning
+av arbetet inom olika
+områden vilket enligt vår
+bild varken är en
+uppföljning av en indikator
+eller en avvikelsebaserad
+uppföljning. Det finns
+enligt vår mening inte en
+tydligt logik i vad som
+redovisas för nämnden vid
+uppföljningstillfällena. Vi
+noterar dock att ett arbete
+pågår med avsikt att
+tydliggöra uppföljningen av
+mål i styrkort.
+
 styrkort.
+
 7
 
 <!-- sida 217 -->
@@ -10994,43 +11100,59 @@ Godsplanen:     En  SULP    för den   framtida  staden
 
 <!-- sida 283 -->
 
-Göteborgs Stads styrsystem     Om Göteborgs Stads styrande
+Göteborgs Stads styrsystem
+
+Utgångspunkterna för styrningen av Göteborgs
+
+Stad är lagar och författningar, den politiska
+viljan och stadens invånare, brukare och kunder.
+För att förverkliga utgångspunkterna behövs
+förutsättningar av olika slag. Stadens politiker
+har möjlighet att genom styrande dokument
+beskriva hur de vill realisera den politiska viljan.
+Inom Göteborgs Stad gäller de styrande
+dokument som antas av kommunfullmäktige och
+
+kommunstyrelsen. Därutöver fastställer nämnder
+och bolagsstyrelser egna styrande dokument för
+sin egen verksamhet. Kommunfullmäktiges
+budget är det övergripande och överordnade
+styrande dokumentet för Göteborgs Stads
+nämnder och bolagsstyrelser.
+
+Göteborgs Stads godsplan 2024 - 2035
+
+Om  Göteborgs Stads styrande
 dokument
 
 Göteborgs Stads styrande dokument är våra
 förutsättningar för att vi ska göra rätt saker på
 rätt sätt. De anger vad nämnder/styrelser och
 förvaltningar/bolag ska göra, vem som ska göra
+
 det och hur det ska göras. Styrande dokument är
 samlingsbegreppet för dessa dokument.
-
 Stadens grundläggande principer såsom
 demokratisk grundsyn, principer om mänskliga
 rättigheter och icke-diskriminering omsätts i
 praktisk verksamhet genom att de integreras i
+
 stadens ordinarie beslutsprocesser. Beredning av
 och beslut om styrande dokument har en stor
 betydelse för förverkligandet av dessa principer i
-
 stadens verksamheter.
-Utgångspunkterna för styrningen av Göteborgs
-Stad är lagar och författningar, den politiska De styrande dokumenten ska göra det tydligt
-viljan och stadens invånare, brukare och kunder. både för organisationen och för invånare,
-För att förverkliga utgångspunkterna behövs brukare, kunder, leverantörer, samarbetspartners
-förutsättningar av olika slag. Stadens politiker och andra intressenter vad som förväntas av
-har möjlighet att genom styrande dokument förvaltningar och bolag. De styrande
-beskriva hur de vill realisera den politiska viljan. dokumenten ligger till grund för att utkräva
-Inom Göteborgs Stad gäller de styrande ansvar när vi inte arbetar i enlighet med vad som
-dokument som antas av kommunfullmäktige och är beslutat.
-kommunstyrelsen. Därutöver fastställer nämnder
-och bolagsstyrelser egna styrande dokument för
-sin egen verksamhet. Kommunfullmäktiges
-budget är det övergripande och överordnade
 
-styrande dokumentet för Göteborgs Stads
-nämnder och bolagsstyrelser.
+De styrande dokumenten ska göra det tydligt
+både för organisationen och för invånare,
+brukare, kunder, leverantörer, samarbetspartners
+och andra intressenter vad som förväntas av
+förvaltningar och bolag. De styrande
+dokumenten ligger till grund för att utkräva
+ansvar när vi inte arbetar i enlighet med vad som
 
-Göteborgs Stads godsplan 2024 - 2035                       2 (27)
+är beslutat.
+
+2 (27)
 
 <!-- sida 284 -->
 
@@ -13779,12 +13901,12 @@ Byggnadsnämnden Datum
 2023-06-15
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt Plan- och
-bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen konstaterades att ett
+bygglagen 4 kap. 34 § och Miljöbalken 6 kap. 11 §. Vid undersökningen konstaterades att ett
 genomförande av planen inte innebär betydande miljöpåverkan, varför en miljöbedömning med
 särskild miljökonsekvensbeskrivning inte har gjorts.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2023-05-25 \$ 148
+Byggnadsnämndens arbetsutskott 2023-05-25 § 148
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-05-12
 
@@ -13874,52 +13996,47 @@ Synpunkter Synpunkter
 
 <!-- sida 348 -->
 
-Bakgrund                                                                            Detaljplanen omfattar 63 fastigheter bildade för bostadsändamål. Av dessa är endast 14
-stycken obebyggda. Bebyggelsen utgörs av större och mindre enbostadshus, varav 45
-stycken bebos året om. Flera byggnader avviker från gällande detaljplan med avseende på
-Uppdrag                                                                             byggnadsarea. Planen omfattar också allmän plats för vägar och för naturmark.
-Byggnadsnämndens arbetsutskott beslutade 2017-03-09 § 100 att uppdra åt förvaltningen att Genomförandetiden för detaljplanen har gått ut.
+Bakgrund
+
+Uppdrag
+Byggnadsnämndens arbetsutskott beslutade 2017-03-09 § 100 att uppdra åt förvaltningen att
 upprätta en ändring av detaljplan V64 för bostäder inom Lunna 9:43 m.fl. i Vallda.
 
-Uppdraget gavs med stöd av då aktuell översiktsplan, ÖP06, som angav att områden med Strandskydd
+Uppdraget gavs med stöd av då aktuell översiktsplan, ÖP06, som angav att områden med
 kommunalt vatten och spillvatten men med en detaljplan som begränsade bebyggelsen till
-Det område som detaljplaneändringen omfattar ingår idag i detaljplan V64, en tidigare bygg-
 fritidshus skulle genomgå en planändring för att möjliggöra åretruntbostadshus.
-nadsplan som vann laga kraft 1969. Området omfattas inte av strandskydd och strandskyd-
-det inträder inte då detaljplanen endast ändras.
+
 Planens syfte och huvuddrag
-Syftet med detaljplaneändringen är att skapa moderna och mer ändamålsenliga bestämmel- Vatten och spillvatten
+
+Syftet med detaljplaneändringen är att skapa moderna och mer ändamålsenliga bestämmel-
 ser gällande byggrätterna inom planområdet för V64.
-Planområdet omfattas av kommunalt verksamhetsområde för vatten och spillvatten. Anlägg-
-ningen är utbyggd.
+
 Läge, areal och markägoförhållanden
+
 Planområdet ligger längs med Lunnavägen, cirka fyra kilometer från Vallda centrum. Plan-
-Förutsättningar       inom   området      och   i nu-
 området består idag av ett till stora delar utbyggt bostadsområde på cirka 17 hektar. Marken
-ägs av privatpersoner. Infrastruktur, såsom vägar och ledningar för vatten och spillvatten, är varande detaljplan
+ägs av privatpersoner. Infrastruktur, såsom vägar och ledningar för vatten och spillvatten, är
 utbyggt.
-Inom planområdet tillåts användningen bostad och denna användning ändras inte genom
-planändringen. Platsen har prövats lämplig för bostadsbebyggelse genom nuvarande detalj-
-Tidigare    ställningstaganden                                                      plan och förutsättningarna för detta har inte ändrats. Nedan följer därför en kort redogörelse
-för de bestämmelser som gäller i nuvarande detaljplan samt en beskrivning av dagvatten-
-hanteringen inom området idag. Inga andra förutsättningar eller intressen berörs av planänd-
-Riksintressen                                                                       ringen.
+
+Tidigare    ställningstaganden
+
+Riksintressen
 Planområdet omfattas av riksintresse högexploaterad kust MB 4:4 och riksintresse för rörligt
-friluftsliv MB 4:2.                                                                 Regleringar genom nuvarande detaljplan
-Hela planområdet ingår idag i en detaljplan som tillåter mindre bostadshus. Området är till Nuvarande detaljplan, V64, reglerar användningen inom området till bostäder som ska
-övervägande del bebyggt med bostadshus som bebos året om. All infrastruktur, vägar och uppföras fristående och i en våning. Vind får inte inredas och källare inte utföras. Bygg-
-ledningar, finns på plats.                                                          nadshöjden begränsas till 3,5 meter och tak får inte ges en större lutning än 27 grader. Varje
-tomtplats får endast bebyggas med en huvudbyggnad om högst 60 kvadratmeter och en
+friluftsliv MB 4:2.
+
+Hela planområdet ingår idag i en detaljplan som tillåter mindre bostadshus. Området är till
+övervägande del bebyggt med bostadshus som bebos året om. All infrastruktur, vägar och
+ledningar, finns på plats.
 Ett genomförande av planen bedöms inte medföra att områdets natur- och kulturvärden
-komplementbyggnad om högst 20 kvadratmeter byggnadsarea. Genom så kallad prickad
 påtagligt skadas eller påverkas negativt. Ett genomförande av planen bedöms inte heller
-mark regleras var inom fastigheterna bebyggelse får uppföras. Detaljplanen reglerar också
 påverka turism och friluftsliv negativt.
-minsta fastighetsstorlek till 900 kvadratmeter.
+
 Översiktliga planer
 Planområdet ligger inte inom någon av de i kommunens översiktsplan utpekade utvecklings-
 orterna.
+
 Detaljplaner
+
 Inom området finns idag en gällande detaljplan, V64. Detaljplanen antogs som en bygg-
 nadsplan som fick laga kraft 1969-10-26. Avsikten med byggnadsplanen var att möjliggöra
 för fristående bostadsbebyggelse med högst en våning utan inredd vind för fritidsändamål.
@@ -13928,29 +14045,86 @@ genom infiltration. Senare gjordes en planändring som fick laga kraft 1982-03-1
 innebar en minskad byggrätt till sammanlagt 80 kvadratmeter byggnadsarea. Anledningen
 till ändringen var att området saknade kommunalt vatten och avlopp och därför var olämp-
 ligt för åretruntbostadshus.
-4 Planbeskrivning                                                                                                              Planbeskrivning 5
+
+4 Planbeskrivning
+
+Detaljplanen omfattar 63 fastigheter bildade för bostadsändamål. Av dessa är endast 14
+stycken obebyggda. Bebyggelsen utgörs av större och mindre enbostadshus, varav 45
+stycken bebos året om. Flera byggnader avviker från gällande detaljplan med avseende på
+byggnadsarea. Planen omfattar också allmän plats för vägar och för naturmark.
+Genomförandetiden för detaljplanen har gått ut.
+
+Strandskydd
+Det område som detaljplaneändringen omfattar ingår idag i detaljplan V64, en tidigare bygg-
+nadsplan som vann laga kraft 1969. Området omfattas inte av strandskydd och strandskyd-
+det inträder inte då detaljplanen endast ändras.
+
+Vatten och spillvatten
+Planområdet omfattas av kommunalt verksamhetsområde för vatten och spillvatten. Anlägg-
+ningen är utbyggd.
+
+Förutsättningar       inom    området     och   i nu-
+
+varande     detaljplan
+
+Inom planområdet tillåts användningen bostad och denna användning ändras inte genom
+planändringen. Platsen har prövats lämplig för bostadsbebyggelse genom nuvarande detalj-
+plan och förutsättningarna för detta har inte ändrats. Nedan följer därför en kort redogörelse
+för de bestämmelser som gäller i nuvarande detaljplan samt en beskrivning av dagvatten-
+hanteringen inom området idag. Inga andra förutsättningar eller intressen berörs av planänd-
+ringen.
+
+Regleringar genom nuvarande detaljplan
+
+Nuvarande detaljplan, V64, reglerar användningen inom området till bostäder som ska
+uppföras fristående och i en våning. Vind får inte inredas och källare inte utföras. Bygg-
+nadshöjden begränsas till 3,5 meter och tak får inte ges en större lutning än 27 grader. Varje
+tomtplats får endast bebyggas med en huvudbyggnad om högst 60 kvadratmeter och en
+komplementbyggnad om högst 20 kvadratmeter byggnadsarea. Genom så kallad prickad
+mark regleras var inom fastigheterna bebyggelse får uppföras. Detaljplanen reglerar också
+minsta fastighetsstorlek till 900 kvadratmeter.
+
+Planbeskrivning 5
 
 <!-- sida 349 -->
 
-Nuvarande detaljplan reglerar inte bebyggelsens placering i förhållande till fastighetsgräns. Planändringens innebörd
+Nuvarande detaljplan reglerar inte bebyggelsens placering i förhållande till fastighetsgräns.
 Enligt övergångsbestämmelserna till plan- och bygglagen ska därför 39 § Byggnadsstadgan
-tillämpas som planbestämmelse vad gäller placering av byggnad. Detta innebär att byggna- Avsikten med ändring av detaljplan V64 inom Lunnaberg är att anpassa planen till rådande
-der ska placeras minst 4,5 meter från fastighetsgräns.                              förhållanden samt göra plansituationen inom fastigheterna mer aktuell och funktionell. Änd-
-ringen innebär justeringar av vissa planbestämmelser men följer gällande detaljplans syfte.
-Dagvatten                                                                           Genom detaljplaneändringen tydliggörs vad som är möjligt att bygga inom fastigheterna
-samt var byggnader ska placeras i förhållande till fastighetsgräns. Den ändrade detaljplanen
+tillämpas som planbestämmelse vad gäller placering av byggnad. Detta innebär att byggna-
+der ska placeras minst 4,5 meter från fastighetsgräns.
+
+Dagvatten
+
 Det finns inga dagvattenledningar inom området utan dagvatten från fastigheter avvattnas
-innebär att fastigheter kan bebyggas med större byggnader än vad som är möjligt idag.
 via ytliga rinnvägar, vägdiken, till två avrinningsområden, ett söderut och ett norrut. Mer-
-parten av planområdet avvattnas norr ut.                                            Den skillnad som detaljplaneändringen innebär får inte större omgivningspåverkan än den
-som redan idag, genom gällande detaljplan, har prövats som lämplig.
+parten av planområdet avvattnas norr ut.
 Vatten från ett fåtal fastigheter i det sydvästra hörnet av planområdet avvattnas söder ut och
-vattnet passerar då det sammanhängande våtmarksområdet Bolgen och hamnar slutligen i Nedan följder en redogörelse för de bestämmelser som fortsätter att gälla, bestämmelser som
-vattenförekomsten Knapabäcken som mynnar i kustvattenförekomsten Öckerösund.        tillkommer samt bestämmelser som upphör att gälla.
+vattnet passerar då det sammanhängande våtmarksområdet Bolgen och hamnar slutligen i
+vattenförekomsten Knapabäcken som mynnar i kustvattenförekomsten Öckerösund.
+
 Huvuddelen av yt- och dagvatten från planområdet rinner norr ut. På grund av topografin i
-form av Brunns väg blir vattnet vid höga flöden stående då vägen utgör en barriär. Det finns Planbestämmelser som fortsätter gälla inom ändring av detalj-
-inte någon trumma under vägen och vattnet når därför inte Stockaån. Vattnet infiltreras i plan
+form av Brunns väg blir vattnet vid höga flöden stående då vägen utgör en barriär. Det finns
+inte någon trumma under vägen och vattnet når därför inte Stockaån. Vattnet infiltreras i
 marken.
+
+6 Planbeskrivning
+
+Planändringens        innebörd
+
+Avsikten med ändring av detaljplan V64 inom Lunnaberg är att anpassa planen till rådande
+förhållanden samt göra plansituationen inom fastigheterna mer aktuell och funktionell. Änd-
+ringen innebär justeringar av vissa planbestämmelser men följer gällande detaljplans syfte.
+Genom detaljplaneändringen tydliggörs vad som är möjligt att bygga inom fastigheterna
+samt var byggnader ska placeras i förhållande till fastighetsgräns. Den ändrade detaljplanen
+innebär att fastigheter kan bebyggas med större byggnader än vad som är möjligt idag.
+
+Den skillnad som detaljplaneändringen innebär får inte större omgivningspåverkan än den
+som redan idag, genom gällande detaljplan, har prövats som lämplig.
+Nedan följder en redogörelse för de bestämmelser som fortsätter att gälla, bestämmelser som
+tillkommer samt bestämmelser som upphör att gälla.
+
+Planbestämmelser som  fortsätter gälla inom ändring av detalj-
+plan
 Användningen inom kvartersmark regleras i nuvarande detaljplan V64 till bostadsändamål.
 Denna användning berörs inte genom planändringen utan är densamma även fortsättnings-
 vis. Även nuvarande bestämmelse om minsta fastighetsstorlek fortsätter gälla. Detaljplanen
@@ -13959,10 +14133,11 @@ får bebyggas med ett enbostadshus och en komplementbyggnad. Även det i planen 
 utfartsförbudet finns kvar.
 
 Tabell 1. Planbestämmelser som fortsätter att gälla inom ändring av detaljplan
-Planbestämmelser som tillkommer inom ändring av detaljplan
 
+Planbestämmelser som  tillkommer inom ändring av detaljplan
 Genom planändringen tillåts inom varje fastighet en sammanlagd byggnadsarea 180 kva-
 dratmeter. Komplementbyggnadens byggnadsarea begränsas till 50 kvadratmeter.
+
 Planändringen innebär att detaljplanen reglerar den tillkommande bebyggelsens placering i
 förhållande till fastighetsgräns. Bestämmelser om nockhöjd för huvudbyggnad och komple-
 mentbyggnad är nya och ersätter en generell bestämmelse om byggnadshöjd på 3,5 meter i
@@ -13970,11 +14145,10 @@ nuvarande plan. Bestämmelsen om nockhöjd i kombination med en lägsta takvinke
 grader innebär en teoretisk begränsning av byggnadshöjden utan att påverka möjligheten till
 takkupor eller frontespis. Dessa bestämmelser gäller för ny- och tillbyggnader vilket innebär
 att befintliga byggnader som avviker från dessa inte blir planstridiga genom planändringen.
-
 En ny bestämmelse reglerar att endast friliggande enbostadshus är tillåtet vilket tydliggör
 detaljplanens syfte.
 
-6 Planbeskrivning                                                                                                              Planbeskrivning 7
+Planbeskrivning 7
 
 [Tabell 349-1](handlingar.tabeller/349-1.csv)
 
@@ -13987,8 +14161,26 @@ detaljplanens syfte.
 
 <!-- sida 350 -->
 
-Dagvatten
+Tabell 2. Planbestämmelser som tillkommer inom ändring av detaljplan
 
+Planbestämmelser som  upphör att gälla inom ändring av de-
+taljplan
+Genom planändringen upphör ett antal bestämmelser att gälla. Bestämmelsen om mark som
+inte får bebyggas, så kallad prickad mark, och tillhörande bestämmelsegräns tas bort och
+ersätts med bestämmelser om hur byggnader ska placeras i förhållande till fastighetsgräns.
+Bestämmelsen om att byggnader ska placeras fristående tas också bort och ersätts med en
+motsvarande reglering att detaljplanen endast tillåter friliggande enbostadshus.
+
+Bestämmelserna som begränsar antalet våningar till en, inte tillåter att vind inreds eller att
+källare utförs tas bort då dessa bestämmelser är kopplade till områdets tidigare användning
+för fritidshusändamål. Av samma anledning ersätts detaljplanens reglering av maximal
+exploatering i syfte att möjliggöra för helårsbostäder.
+
+Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan
+
+8 Planbeskrivning
+
+Dagvatten
 Planändringen innebär att en större yta av vardera fastighet kan bebyggas. Huvuddelen av
 planområdet är redan utbyggt undantaget 14 fastigheter. För att fördröja och rena dagvatten
 så nära källan som möjligt bör omhändertagande av dagvatten så långt det är möjligt göras
@@ -13996,40 +14188,29 @@ på kvartersmark inom varje fastighet i planområdet. Vardera fastigheten som be
 ha möjlighet att fördröja ett 10-års regn innan det leds vidare. Genom reglering av minsta
 fastighetsstorlek i kombination med största tillåtna byggnadsarea möjliggörs utrymme för
 lokal fördröjning inom respektive fastighet.
+
 För att förbättra dagvattensituationen ytterligare vore det lämpligt att tillskapa en dagvatten-
 damm norr om Lunnabergsvägen i det huvudsakliga rinnstråket. Detaljplanen anger här
 användningen allmän plats, park, vilket möjliggör dagvattenanläggning.
 
-Tabell 2. Planbestämmelser som tillkommer inom ändring av detaljplan
-
 Möjlig placering av dag-
-Planbestämmelser som upphör att gälla inom ändring av de-
 vattendamm för fördröjning
-taljplan
-Genom planändringen upphör ett antal bestämmelser att gälla. Bestämmelsen om mark som
-inte får bebyggas, så kallad prickad mark, och tillhörande bestämmelsegräns tas bort och
-ersätts med bestämmelser om hur byggnader ska placeras i förhållande till fastighetsgräns.
-Bestämmelsen om att byggnader ska placeras fristående tas också bort och ersätts med en
-motsvarande reglering att detaljplanen endast tillåter friliggande enbostadshus.
-Bestämmelserna som begränsar antalet våningar till en, inte tillåter att vind inreds eller att
-källare utförs tas bort då dessa bestämmelser är kopplade till områdets tidigare användning
-för fritidshusändamål. Av samma anledning ersätts detaljplanens reglering av maximal
-exploatering i syfte att möjliggöra för helårsbostäder.
+
 Planområdesgräns V64
 
 Figur 2. Bilden visar avrinninsområden inom detaljplan V64.
 
 Genomförandetid
+
 Genomförandetiden för planändringen är 5 år räknat från det datum då planen fått laga
 kraft.
-
 Under genomförandetiden har fastighetsägarna en lagstadgad rätt att bygga i enlighet med
 detaljplanen och detaljplanen får inte ändras utan att synnerliga skäl föreligger. Efter ge-
 nomförandetidens slut fortsätter planen att gälla tills kommunen tar fram en ny plan, ändrar
 gällande plan eller upphäver gälande plan. Fastighetsägarna äger efter genomförandetidens
-Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan          slut ingen rätt till ersättning för förlorade rättigheter som fanns i den ursprungliga planen.
+slut ingen rätt till ersättning för förlorade rättigheter som fanns i den ursprungliga planen.
 
-8 Planbeskrivning                                                                                                              Planbeskrivning 9
+Planbeskrivning 9
 
 [Tabell 350-1](handlingar.tabeller/350-1.csv)
 
@@ -14052,47 +14233,36 @@ Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan  
 
 <!-- sida 351 -->
 
-Överväganden        och   konsekvenser                                              För återstående del av planområdet, som avvattnas norr ut, gör kommunen bedömningen att
-yt- och dagvatten från området inte påverkar någon recipient.
+Överväganden        och   konsekvenser
 
 Nollalternativ
-Miljökvalitetsnormer för luft
-Om planändringen inte antas kan fastigheterna inom området inte bebyggas med större Miljökvalitetsnormerna för luftkvalitet överskrids främst i anslutning till betydligt mer
-huvudbyggnad än 60 kvadratmeter. Det är sannolikt att området trots detta kommer att trafikerade vägar än vad som finns inom planområdet. Kungsbacka är medlemmar i Gö-
-bebos året runt då det redan idag är så och eftersom det finns kommunalt vatten och av- teborgsregionens luftvårdsförbund och utför kontinuerliga mätningar och beräkningar i
-lopp. De fastigheter som är obebyggda kommer troligtvis att bebyggas enligt gällande plan Kungsbacka stad.
+Om planändringen inte antas kan fastigheterna inom området inte bebyggas med större
+huvudbyggnad än 60 kvadratmeter. Det är sannolikt att området trots detta kommer att
+bebos året runt då det redan idag är så och eftersom det finns kommunalt vatten och av-
+lopp. De fastigheter som är obebyggda kommer troligtvis att bebyggas enligt gällande plan
 och kompletteras med så kallade Atterfallsåtgärder för att maximera byggnadsarean. Den
-Bedömningen kan erfarenhetsmässigt göras att MKN för luftkvalitet inte äventyras utan
 omgivningspåverkan som området får med gällande detaljplan bedöms därför inte skilja sig
-underskrids med marginal.
 från den som en ändrad detaljplan skulle ge.
-Buller
+
 Miljökonsekvenser
-Planområdet innehåller endast små lokalgator och trafikmängderna är små. Väster om plan-
-området passerar Lunnavägen.
+
 Undersökning
-Planändringen innebär inte någon annan användning av området än vad nuvarande detalj-
 Med stöd av undersökningen (Samhällsbyggnadskontoret 2022-04-08) gör kommunen den
-plan bedömt som lämplig. Omfattningen av bebyggelsen påverkas inte heller och planänd-
 sammanvägda bedömningen att den aktuella ändringen av detaljplanen inte ger upphov till
-ringen innebär därför inte mer fordonstrafik till och från platsen. Därför är det en rimlig
 betydande miljöpåverkan (som avses i Miljöbedömningsförordningen SFS 2017:966 och Mil-
-bedömning att bullernivåerna inte kommer att påverkas av att detaljplanenen genomförs.
 jöbalkens 6 kap). Någon miljökonsekvensbeskrivning, enligt 4 kap 34§ PBL behöver därför
 inte upprättas.
-Genomförandebeskrivning
+
 Miljökvalitetsnormer för vatten
-Ändringen av detaljplanen berör endast kvartersmark där fastigheter för bostadsändamål är
 Ytvatten och dagvatten inom området rinner från området, norr ut och söder ut, på grund av
-bildade och all infrastruktur, såsom vägar och ledningar för vatten och spillvatten, redan är
 topografin.
-utbyggt. Inget ytterligare genomförande krävs för att fastigheterna ska bli ändamålsenlig.
 Söder ut hamnar vattnet i vattenförekomsten Knapabäcken som mynnar i kustvattenföre-
 komsten Öckerösund. Vattenförekomsten Knapabäcken har klassificerats till Måttlig eko-
 logisk status samt Uppnår ej god kemisk status. Miljökvalitetsnormen är bestämd till God
 ekologisk status till 2027. Kustvattenförekomsten Öckerösund har klassificerats till God eko-
 logisk status samt Uppnår ej god kemisk status. Miljökvalitetsnormen är bestämd till God
 ekologisk status.
+
 Det planändringen möjliggör i förhållande till vad som är möjligt med gällande plan innebär
 en liten skillnad i det vatten som lämnar området. Ett genomförande av detaljplaneändring-
 en bedöms därför ha marginell effekt på recipienten och bedöms inte försvåra möjligheten
@@ -14100,6 +14270,7 @@ att nå beslutade miljökvalitetsnormer.
 Det planändringen möjliggör i förhållande till vad som är möjligt med gällande plan innebär
 en liten skillnad i mängd och kvalitet på det vatten som lämnar området. Inom varje fastig-
 het ska ett 10-årsregn kunna fördröjas.
+
 För det sydvästra hörnet av planområdet, som avvattnas till Knapabäcken och Öckerösund,
 via Bolgen, möjliggör planändringen för en utbyggnad om cirka 20 % i förhållande till vad
 som är utbyggt idag. Av 16 fastigheter är 15 bebyggda och ianspråktagna som trädgårdstom-
@@ -14108,10 +14279,41 @@ detaljplaneändringen bedöms vara liten.
 Utifrån områdets karaktär som villaområde med lokalgator görs bedömningen att förore-
 ningshalterna i yt- och dagvatten från området är låga. Även om Knapabäcken bedömts som
 känslig finns det enligt kommunen inte något behov av rening av yt- och dagvatten.
+
 Ett genomförande av detaljplaneändringen inom det sydvästra området bedöms därför ha
 marginell effekt på recipienten och bedöms inte försvåra möjligheten att nå beslutade miljö-
 kvalitetsnormer.
-10 Planbeskrivning                                                                                                             Planbeskrivning 11
+
+10 Planbeskrivning
+
+För återstående del av planområdet, som avvattnas norr ut, gör kommunen bedömningen att
+yt- och dagvatten från området inte påverkar någon recipient.
+
+Miljökvalitetsnormer för luft
+
+Miljökvalitetsnormerna för luftkvalitet överskrids främst i anslutning till betydligt mer
+trafikerade vägar än vad som finns inom planområdet. Kungsbacka är medlemmar i Gö-
+teborgsregionens luftvårdsförbund och utför kontinuerliga mätningar och beräkningar i
+Kungsbacka stad.
+Bedömningen kan erfarenhetsmässigt göras att MKN för luftkvalitet inte äventyras utan
+underskrids med marginal.
+
+Buller
+Planområdet innehåller endast små lokalgator och trafikmängderna är små. Väster om plan-
+området passerar Lunnavägen.
+
+Planändringen innebär inte någon annan användning av området än vad nuvarande detalj-
+plan bedömt som lämplig. Omfattningen av bebyggelsen påverkas inte heller och planänd-
+ringen innebär därför inte mer fordonstrafik till och från platsen. Därför är det en rimlig
+bedömning att bullernivåerna inte kommer att påverkas av att detaljplanenen genomförs.
+
+Genomförandebeskrivning
+
+Ändringen av detaljplanen berör endast kvartersmark där fastigheter för bostadsändamål är
+bildade och all infrastruktur, såsom vägar och ledningar för vatten och spillvatten, redan är
+utbyggt. Inget ytterligare genomförande krävs för att fastigheterna ska bli ändamålsenlig.
+
+Planbeskrivning 11
 
 <!-- sida 352 -->
 
@@ -14943,8 +15145,8 @@ Planrevideringen omfattar följande handlingar
 Bakgrund
 
 Rubricerade byggnadsplan är fastställa 1969 10 16. För plan-
-området gäller nybyggnadsförbud enligt \$\$109, 110 byggnads-
-lagen. Motivet för föreliggande nybyggnads förbud enligt \$109
+området gäller nybyggnadsförbud enligt §§109, 110 byggnads-
+lagen. Motivet för föreliggande nybyggnads förbud enligt §109
 byggnadslagen är att en planändring som formellt reglerar om-
 rådets användning för fritidsbebyggelse eftersträvas.
 
@@ -15317,7 +15519,7 @@ bostäder med särskild service (Bmss) och vård- och omsorgsboende inom samma b
 kommunen handlingsfrihet i en framtid om behovet av förskoleplatser minskar.
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt Plan- och
-bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen konstaterades att ett
+bygglagen 4 kap. 34 § och Miljöbalken 6 kap. 11 §. Vid undersökningen konstaterades att ett
 genomförande av planen inte innebär betydande miljöpåverkan, varför en miljöbedömning med
 särskild miljökonsekvensbeskrivning inte har gjorts.
 
@@ -15332,7 +15534,7 @@ Byggnadsnämnden Datum
 2023-08-24
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2023-08-10 \$ 208
+Byggnadsnämndens arbetsutskott 2023-08-10 § 208
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-07-28
 
@@ -24899,7 +25101,7 @@ elektroniskt är avgiftsfritt. Inskanning av 40 sidor kostar 110 kr. Inskanning 
 
 En avgift får inte tas ut för att göra en sammanställning av uppgifter ur upptagningar
 för automatiserad behandling som går att göra med så kallade rutinbetonade åtgärder
-(2 kap. 3 \$ tredje stycket TF). Avgift kan endast beräknas vad gäller att skapa en kopia
+(2 kap. 3 § tredje stycket TF). Avgift kan endast beräknas vad gäller att skapa en kopia
 (t.ex. genom skanning) och att lämna ut en sådan. Sammanställningar som inte kan
 göras med rutinbetonade åtgärder är inte allmän handling.
 
@@ -27745,7 +27947,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 10 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 «  Tjänstevikten hos personbilar ska inte understiga 900 kg och inte överstiga 1900
 kg.
@@ -27756,13 +27958,13 @@ kg.
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2011-08-23, \$ 195
+Kommunstyrelsen, 2011-08-23, § 195
 Kommunstyrelsens förvaltning, skrivelse 2013-04-18
-Kommunstyrelsens arbetsutskott, 2013-05-14, \$ 179
-Kommunstyrelsen, 2013-05-21, \$ 138
+Kommunstyrelsens arbetsutskott, 2013-05-14, § 179
+Kommunstyrelsen, 2013-05-21, § 138
 Kommunstyrelsens förvaltning, skrivelse 2013-06-17
-Kommunstyrelsens arbetsutskott, 2013-08-13, \$ 232
-Kommunstyrelsen, 2013-08-20, \$ 186
+Kommunstyrelsens arbetsutskott, 2013-08-13, § 232
+Kommunstyrelsen, 2013-08-20, § 186
 
 Anförande
 
@@ -27793,8 +27995,6 @@ Paragrafen fortsätter
 
 Justerare
 
-ME
-
 Expedierat/bestyrkt
 
 <!-- sida 801 -->
@@ -27804,7 +28004,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 11 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 Proposition
 
@@ -27850,8 +28050,6 @@ Beslutsexpediering
 Samtliga nämnder/förvaltningar, KSF;FH, KKFFS, SEUpph
 
 Justerare
-
-HE
 
 Expedierat/bestyrkt
 
@@ -27930,9 +28128,7 @@ SUMMA: | 38 | 22 1 0 0
 Justeringsmännens signatur:
 ; Sida 1 av 1
 
-MM
-
-KF \$122/13
+KF §122/13
 Bilaga A
 
 <!-- sida 803 -->
@@ -28073,7 +28269,7 @@ Justeringsmännens signatur:
 
 4 ”. MM IA Sida 1 av 1
 
-ke \$122/13
+ke §122/13
 
 Bilaga B
 

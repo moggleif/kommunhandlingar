@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250516143405id_/https://kungsbacka.se/d
 sha256: a0cef2662febb3d786574fc69b6427a034781b9b5e8bba8e536902659a849d14
 bytes: 327536
 sidor: 4
-hamtad: 2026-10-20T09:34:22+00:00
-konverterad: 2026-10-20T09:34:32+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:23:16+00:00
+konverterad: 2026-11-17T01:23:24+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ok, ok]
@@ -73,7 +73,7 @@ Avgiften för beslutet är 23 125 kronor.
 Avgiften är fastställd i taxan för
 Byggnadsnämndens verksamhet,
 beslutad i Kommunfullmäktige 2022-12-
-06 \$ 236.
+06 § 236.
 
 Förslag till beslut i
 byggnadsnämndens arbetsutskott
@@ -86,7 +86,7 @@ Avgiften för beslutet är 7 500 kronor.
 Avgiften är fastställd i taxan för
 Byggnadsnämndens verksamhet,
 beslutad i Kommunfullmäktige 2022-12-
-06 \$ 236.
+06 § 236.
 
 204\)
 Ärende Beteckning |Förslag Tid

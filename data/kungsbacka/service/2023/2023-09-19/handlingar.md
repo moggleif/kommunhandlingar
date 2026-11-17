@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20241202225233id_/https://kungsbacka.se/d
 sha256: 9d00050cb7055259416232cd15bd2f7e70fa28dbc0e9a869ba4903a238cf9f20
 bytes: 19269180
 sidor: 175
-hamtad: 2026-10-20T09:10:45+00:00
-konverterad: 2026-10-20T09:16:43+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:14:07+00:00
+konverterad: 2026-11-17T01:17:35+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok]
 tal_obekraftade: [41, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 174]
 figurer: []
 tolkade: []
@@ -2377,7 +2377,6 @@ Checklistor Antura Digitalt | Vid
 inaktualitet
 Dokumentation rörande | Antura Digitalt | Vid
 avsteg från inaktualitet
-oiekter;
 anvispingar tekniska
 krav och anvisningar
 (TKA)
@@ -2430,7 +2429,6 @@ breeler +mektunbtet
 Systemhandlingar (SH) | Ibinder Digitalt | Vid Innefattar Tekniska beskrivningar och
 inaktualitet Tekniskt funktionsprogram
 2 2 inaltuali
-lid - — sid
 ganlet; | Digital inaltuali
 Tidplan Antura Digitalt | Vid
 inaktualitet
@@ -2489,6 +2487,47 @@ Informationshanteringsplan
 
 <!-- sida 67 -->
 
+Genomföra projekt
+(forts.)
+
+M ler Pod - Distalt | Vid Tillod 13018 i SharePoi
+inaltualj; . .
+Matenaibeskrivning ? inaletuali
+— - — sid Tod T  ShorePoi
+Meaterialförteelning YERRe 2 inaltuali S ; Fastiohetsdel jon
+Modellfiler (CAD) Ibinder Digitalt | Se anm. Senaste versionen av bygghandling och
+P- relationshandling förs över till P: bevaras+
+LER övr llras vid inaltualitet
+Muyndighetsbeslut Antura Digitalt/ | Vid Från t.ex. Bygg & Miljö, Teknik,
+Papper | inaktualitet Länsstyrelsen. Innefattar t.ex. slutbesked.
+Mätningar Ibinder Digitalt | Vid Överförs till Pythagoras vid projektavslut.
+Pythageras inaktualitet T.ex. buller, fukt
+Tilleel | i SharePei
+S | Fastiohetsdol jon;
+Obligatorisk Ibinder Digitalt | Vid Överförs till Pythagoras vid projektavslut.
+ventilationskontroll, Pythageras inaktualitet Toch med2018 + SharePomt
+protokoll Samarbetrum Fartohetdolneptatem
+Orienteringsritningar Ibinder Digitalt | Vid Överförs till P: och Pythagoras efter
+och serviceritningar P- inaktualitet projektavslut.
+, HAST - 2005-02 TAMM Jets
+Säkerhet (från-eel 12018)
+oduktblad — ad od ;  SharePei
+YERRE 2 inaletuali . .
+— - — sd C É )
+Projektdolmmenttöpa ? inaletuali
+Protokoll Ibinder Digitalt | Se anm. Överförs till Pythagoras vid projektavslut.
+Pythagoras Gallras efter att det har ersatts av ett annat
+
+protokoll, eller 10 år efter att byggnaden har
+avyttrats.
+
+Kungsbacka kommun
+Sida 19 av 64
+
+Informationshanteringsplan
+
+Kopia finns i Putl | hs a
+
 <!-- sida 68 -->
 
 Genomföra projekt
@@ -2509,10 +2548,11 @@ lat; 2 dtningar. 2 naltualitet 2 2
 ER öv lrag vid: å litet
 Ritningsförteckning Ibinder Digitalt | Bevaras Senaste versionen överförs till P: och
 P- Se anm. Pythagoras efter projektavslut.
-PFej övr as B-Deve |
+
 — p — Bevar | PISA förs till Po ef
 RitningsmölQiler Digitalt il ; olationshandline bevaras
 Rumsbeskrivning Ibinder Digitalt | Vid Överförs till P: och Pythagoras efter
+
 P- inaktualitet projektavslut.
 2018\)
 Rumsfunktionsprogram | Antura Digitalt | Vid
@@ -2528,7 +2568,7 @@ Informationshanteringsplan
 
 Samordnat Ibinder Digitalt | Vid Överförs till Pythagoras vid projektavslut.
 provningsprotokoll Pythagoras inaktualitet FH eehhed2O0 1 + SharePomt
-(SamarbetsrumFastigehetsdekumentation)
+(Samarbetsrum Fastighetsdeokumentation)
 Genomföra projekt | Service under garantitid | Ibinder Digitalt | Vid Överförs till Pythagoras vid projektavslut.
 (forts.) Pythageras inaktualitet FTHleeh med 2018 SharePoint
 naktuabitet 2018
@@ -2556,7 +2596,7 @@ Informationshanteringsplan
 fanktionsbeslrivni inaktuali
 Tekniska beskrivningar | Ibinder Digitalt | Vid Överförs till P: och Pythagoras efter
 P- inaktualitet projektavslut.
-a finns i Put |
+Keep ars Pat 20eeras
 Tillsynshandlingar Diarium Digitalt | Bevaras Handlingar i tillsynsärende där
 byggnadsnämnden utövar tillsyn över
 kommunens fastigheter.
@@ -2565,7 +2605,7 @@ Utvalda byggmaterial SundaHus Digitalt | Vid
 inaktualitet
 inaltuali
 Otrustningsförteckning 8 inaletuali
-Ptrustningsksta Digital inaletuali
+; trustningslista Digital inaletuali
 Avsluta och Checklistor Antura Digitalt | Vid
 utvärdera inaktualitet
 Erfarenhetsåterföring Antura Digitalt | Vid
@@ -2577,6 +2617,8 @@ Kungsbacka kommun
 Sida 22 av 64
 
 Informationshanteringsplan
+
+a finns i Put |
 
 <!-- sida 71 -->
 
@@ -2609,13 +2651,11 @@ Anläggarintyg SharePoint/ Digitalt | Vid Samarbetsrum - Fastighetsdokumentation
 Pythagoras inaktualitet
 , Pi ati e 8 inaltuali e
 2 2 inaltuali e
-— — harePoi — Vid - - -
 : ? inaletuali 2
 Besiktnings- SharePoint/ Digitalt | Se anm. Samarbetsrum - Fastighetsdokumentation
 dokumentation gällande | P:/ Gallras efter att det har ersatts av ett annat
 myndighetskrav Pythagoras protokoll, eller 10 år efter att byggnaden har
 avyttrats.
-P- Samarbetsrum Fastiehetsdekumentatior
 Gallras-efteratt-dethar-ersattsavettannat
 avyttrats-
 Beskrivningar SharePoint/ Digitalt | Vid Samarbetsrum - Fastighetsdokumentation
@@ -2723,12 +2763,11 @@ naktualitet
 naktualitet
 Inventarieförteckning SharePoint Digitalt | Vid Samarbetsrum - Fastighetsdokumentation
 inaktualitet
-Pythageras naktnalitet
+Pythageras mnaktnalitet
 Lokalplan SharePoint Digitalt | Bevaras Samarbetsrum - Lokalgruppen
 Luftflödesprotokoll SharePoint/ Digitalt | Vid Samarbetsrum - Fastighetsdokumentation
 P:/ inaktualitet
 Pythagoras
-| ; - — vid - - -
 2 ineltuali a - . 1
 
 Kungsbacka kommun
@@ -2834,14 +2873,12 @@ förvaltning (forts.)
 
 Servitut och SharePoint Digitalt | Bevaras Samarbetsrum - Fastighetsdokumentation
 ledningsrätter
-kötsek tioner harePei — vad - - -
 E inaltuali e
 lutbesiktni SharePoi sit q ichetsdol -
 — harePo: oe - q Fastishetsdel -
 besked herePoi Distak |Bevar : a Fastishetsdel -
 älerhetsdatal harePoi — Vid - -
 ; inaletuali e
-älkerhetsföreskrifter harePei —S Vid - - -
 2 inaktuali e
 Tekniska beskrivningar | SharePoint/ Digitalt | Vid Samarbetsrum - Fastighetsdokumentation
 BE inaktualitet
@@ -2870,8 +2907,6 @@ Informationshanteringsplan
 
 kommungemensam informations-
 hanteringsplan för ledningsprocesser
-
-versiktsol horePe: soteld - -
 
 Kungsbacka kommun Informationshanteringsplan
 Sida 31 av 64
@@ -2975,7 +3010,7 @@ Sida 35 av 64
 <!-- sida 84 -->
 
 Processgrupp: Uthyrning
-Process: Leda-Styra-Organisera - Se kommungemensam dekumenrthanteringsphlan
+Process: Leda-Styra-Organisera - Se kommungemensam dekumenthanteringsphlan
 informationshanteringsplan för stödprocesser
 Process: Hyra ut lokal eller fastighet
 Processnummer: 2.6.4.1
@@ -3112,7 +3147,6 @@ Pythagoras
 Räddningstjänstens SharePoint Digitalt Vid Samarbetsrum - Säkerhet
 brandlarms- inaktualitet
 anläggningar
-P- Ha ualtet
 Tillstånd brandfarliga SharePoint Digitalt Vid Samarbetsrum - Fastighetsdokumentation
 Varor inaktualitet Samarbetsrum - Säkerhet
 
@@ -3153,7 +3187,6 @@ Aktivitet Handling Förvaring Format Bevara/Gallra | Anmärkning
 Hantera system, Batteriberäkning för SharePot Dieitalt Vid SäHerbottetr kortet
 nycklar och passersystem-eHer inaktralitet
 övervakning inbrottslarm
-— SharePei — Sd kod
 2 phörighe Digitalt inaletuali
 idefunlt; e
 passersyster
@@ -3162,7 +3195,6 @@ inbrotts- och inaktualitet
 passagesystem
 Kameraövervakning, Lokal Digitalt Se anm. Gallras efter 14-90 44390 dagar.
 filmer kameraserver Bevismaterial sparas längre om behov finns.
-I - LG harePo: — Vid : —
 2 inaldtuali
 Larmsändarprov SharePoint/ Digitalt Vid Samarbetsrum - Fastighetsdokumentation
 Pythagoras inaktualitet
@@ -3372,7 +3404,7 @@ anläggning livsmedelsanläggning, | Hos respektive Papper = | inaktualitet rest
 godkännande samt festauranechef diarieförs i Diarium där den finns digitalt.
 beslut om enhetschef
 riskklassificering
-Inspektionsrapporter Diarium/ Digitalt/ | Vid Papperskopian förvaras i pärm hes-espektive
+Inspektionsrapporter Diarium/ Digitalt/ | Vid Papperskopian förvaras i pärm hes-fespektive
 Hos respektive Papper inaktualitet festaurangehef på respektive enhet, samt
 festaurangehef diarieförs i Diarium där den finns digitalt.
 enhetschef
@@ -3729,7 +3761,7 @@ Aktivitet Handling Förvaring Format | Bevara/Gallra | Anmärkning
 Leda-Styra- Verksamhetsberättelse och | Diarium Digitalt | Bevaras
 Organisera plan
 
-Avtal med andra Diarium/ Digitalt/” | Bevaras
+Avtal med andra Diarium/ Digitalt/ | Bevaras
 
 kommuner Närarkiv Papper
 
@@ -5785,7 +5817,7 @@ Sammanställning av delegeringsbeslut september 2023
 
 Beslut
 
-Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-04-26 \$ 45 under
+Beslut fattade med stöd av nämnden för Service delegeringsförteckning 2023-04-26 § 45 under
 perioden 2023-07-07 till 2023-08-29,
 
 Sammanfattning
@@ -5793,19 +5825,19 @@ Sammanfattning
 Ärende/ärendegrupp Beslut, insats samt Beslutsfattare IBeslutsdatum | Dnr
 enligt delegationslistan |ev. omfattning
 2.3.2 Tillsvidareanställning Kristina Uddh 2023-07-01
-LAS, AB \$\$ 3-5 Lokalvårdare EC
+LAS, AB §§ 3-5 Lokalvårdare EC
 kollektivavtal,
 lönepolicy mm
 2.3.2 Tillsvidareanställning Carina Gustafsson h023-07-03
-LAS, AB \$\$ 3-5 Måltidsbiträde EC
+LAS, AB §§ 3-5 Måltidsbiträde EC
 kollektivavtal,
 lönepolicy mm
 2.3.2 Tillsvidareanställning Lisa Jägnert 2023-07-03
-LAS, AB \$\$ 3-5 Lokalvårdare EC
+LAS, AB §§ 3-5 Lokalvårdare EC
 kollektivavtal,
 lönepolicy mm
 2.3.2 Tillsvidareanställning Lisa Jägnert 2023-07-03
-LAS, AB \$\$ 3-5 Lokalvårdare EC
+LAS, AB §§ 3-5 Lokalvårdare EC
 kollektivavtal,
 lönepolicy mm
 1 2) Kungsbacka kommun

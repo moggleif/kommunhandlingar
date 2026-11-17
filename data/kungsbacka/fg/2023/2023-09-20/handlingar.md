@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240404204729id_/https://kungsbacka.se/d
 sha256: d1fd43257efcfcaa7988cb6db60a970cd86f42dea85ff87fddd6ccd8067623b4
 bytes: 6413829
 sidor: 148
-hamtad: 2026-10-20T09:09:48+00:00
-konverterad: 2026-10-20T09:10:20+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:13:20+00:00
+konverterad: 2026-11-17T01:13:49+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2398,53 +2398,56 @@ Med skolenhet avses sådan skolenhet
 
 <!-- sida 52 -->
 
-Skolverket                                    Bilaga
-Dnr 2022:854
+Skolverket
 
-som anges i 1 kap. 3 § skollagen
-(2010:800).
 Med skolenhet avses sådan
 skolenhet som anges i 1 kap. 3 §
-skollagen (2010:800).
 
+skollagen (2010:800).
 Registret ska även innehålla
 uppgifter om enskilda
 utbildningsanordnare som har getts
 tillstånd att sätta betyg, anordna
 prövning samt utfärda betyg och intyg
-enligt bestämmelser som gäller för
 
+enligt bestämmelser som gäller för
 skolväsendet för utbildning
 motsvarande kommunal
 vuxenutbildning enligt 6 kap. 1 § första
 stycket 1 förordningen (2011:1108) om
 vuxenutbildning.
 
+Bilaga
+Dnr 2022:854
+
+som anges i 1 kap. 3 § skollagen
+(2010:800).
+
 5 a §
 Registret får innehålla uppgifter om
-förskoleenheter inom skolväsendet. Med
 
+förskoleenheter inom skolväsendet. Med
 förskoleenhet avses sådan förskoleenhet
 som anges i 1 kap. 3 § skollagen
 (2010:800).
 Registret får även innehålla
 uppgifter om
-1\. fritidshem vars huvudman
 
+1\. fritidshem vars huvudman
 kommunen har godkänt enligt 2 kap. 7 §
 andra stycket skollagen (2010:800),
 2\. enskilda utbildningsanordnare
 som utför kommunal vuxenutbildning på
 entreprenad enligt 23 kap. skollagen,
-3\. internationella skolor enligt
 
+3\. internationella skolor enligt
 24 kap. 2 § skollagen,
 4\. utbildning vid särskilda
 ungdomshem enligt 24 kap. 8 och 9 §§
 skollagen,
 5\. utbildning för intagna i kriminal-
-vårdsanstalt enligt 24 kap. 10 §
 
+vårdsanstalt enligt 24 kap. 10 §
 skollagen,
 6\. utbildning eller särskild
 undervisning enligt 24 kap. 16–19 §§
@@ -2454,53 +2457,63 @@ skollagen,
 
 <!-- sida 53 -->
 
-Skolverket                                    Bilaga
+Skolverket
+
+Uppgifterna i det allmänna
+skolenhetsregistret ska användas av
+den personuppgiftsansvarige för att
+1\. avisera andra register om
+ändringar av uppgifterna i registret
+(ändringsavisering),
+
+2\. göra urval av uppgifter ur
+registret (urvalsdragning),
+3\. komplettera och kontrollera
+uppgifter i andra register, och
+4\. komplettera och kontrollera
+uppgifter i övrigt om de skolenheter
+
+som omfattas av registret.
+
+Bilaga
 Dnr 2022:854
 
 7\. svenska utlandsskolor som
 bedriver verksamhet med statsbidrag
 enligt förordningen (1994:519) om
 statsbidrag till utbildning av
-utlandssvenska barn och ungdomar, och
 
+utlandssvenska barn och ungdomar, och
 8\. enskilda utbildningsanordnare
 som har getts tillstånd att sätta betyg,
 anordna prövning samt utfärda betyg
 och intyg enligt bestämmelser som
 gäller för skolväsendet för utbildning
-motsvarande kommunal vuxenutbildning
 
+motsvarande kommunal vuxenutbildning
 enligt 6 kap. 1 § förordningen
 (2011:1108) om vuxenutbildning.
 Med enskild utbildningsanordnare
 avses i denna förordning även en
 folkhögskola som bedrivs av en kommun
+
 eller en region.
 
 6 §
-Uppgifterna i det allmänna Personuppgifterna i registret får
 
-skolenhetsregistret ska användas av behandlas för att föra en aktuell
-den personuppgiftsansvarige för att förteckning över sådan utbildning och
-1\. avisera andra register om annan verksamhet som anges i denna
-ändringar av uppgifterna i registret förordning.
-(ändringsavisering),
-2\. göra urval av uppgifter ur
-
-registret (urvalsdragning),
-3\. komplettera och kontrollera
-uppgifter i andra register, och
-4\. komplettera och kontrollera
-uppgifter i övrigt om de skolenheter
-som omfattas av registret.
+Personuppgifterna i registret får
+behandlas för att föra en aktuell
+förteckning över sådan utbildning och
+annan verksamhet som anges i denna
+förordning.
 
 Skolverket får, utöver det som
 anges i första stycket, behandla
 personuppgifter i registret om det är
 nödvändigt för
 1\. uppföljning och utvärdering av
-sådan utbildning och annan verksamhet
 
+sådan utbildning och annan verksamhet
 som anges i denna förordning,
 2\. att kontrollera
 verksamhetsföreträdares identitet och
@@ -2622,55 +2635,70 @@ kriminalvårdsanstalt enligt 24 kap. 10 §
 
 <!-- sida 56 -->
 
-Skolverket                                    Bilaga
+Skolverket
+
+Statens skolverk får meddela före-
+skrifter om vilka uppgifter som ska
+lämnas av huvudmännen för att
+
+registret ska kunna innehålla de
+uppgifter som anges i 8 §.
+
+Statens skolverk ska avgiftsfritt
+
+hålla uppgifter ur skolenhetsregistret
+tillgängligt för allmänheten genom en
+publik webbplats.
+
+Bilaga
 Dnr 2022:854
 
 skollagen som Skolverket behöver för
 registret enligt 8 §.
 
 13 §
-Statens skolverk får meddela före- Statens skolverk får meddela före-
-skrifter om vilka uppgifter som ska skrifter om vilka uppgifter som ska
-lämnas av huvudmännen för att lämnas av huvudmännen för att registret
-registret ska kunna innehålla de ska kunna innehålla de uppgifter som
+Statens skolverk får meddela före-
+skrifter om vilka uppgifter som ska
+lämnas av huvudmännen för att registret
 
-uppgifter som anges i 8 §. anges i 8 §.
+ska kunna innehålla de uppgifter som
+anges i 8 §.
 Skolverket får även meddela
 föreskrifter om vilka uppgifter som ska
 lämnas
 – av huvudmännen för annan
-utbildning och verksamhet som omfattas
 
+utbildning och verksamhet som omfattas
 av registret, och
 – av de enskilda
 utbildningsanordnarna som getts
 tillstånd att sätta betyg, anordna
 prövning samt utfärda betyg och intyg
-för utbildning motsvarande kommunal
 
+för utbildning motsvarande kommunal
 vuxenutbildning enligt 6 kap. 1 §
 förordningen (2011:1108) om
 vuxenutbildning.
 Skolverket får utöver vad som anges
 i första och andra styckena meddela
-föreskrifter om vilka uppgifter som ska
 
+föreskrifter om vilka uppgifter som ska
 lämnas av kommunerna i fråga om
 ärenden om godkännanden av enskild
 som huvudman enligt 2 kap. 7 §
 skollagen (2010:800).
 
 14 §
-Statens skolverk ska avgiftsfritt Statens skolverk ska avgiftsfritt
-hålla uppgifter ur skolenhetsregistret hålla uppgifter ur skolenhetsregistret
+Statens skolverk ska avgiftsfritt
 
-tillgängligt för allmänheten genom en tillgängliga för allmänheten genom en
-publik webbplats.        publik webbplats.
+hålla uppgifter ur skolenhetsregistret
+tillgängliga för allmänheten genom en
+publik webbplats.
 Det som anges i första stycket
 gäller inte
 – uppgifter om personnummer eller
-samordningsnummer, och
 
+samordningsnummer, och
 – kontaktuppgifter till enskilda.
 
 6 (6)
@@ -5463,7 +5491,7 @@ Helena Hellman
 Personalchef
 Förvaltningen Förskola och Grundskola
 
-& helena.hellman(QMkungsbacka.se
+& helena.hellman(Qkungsbacka.se
 
 PLAN
 

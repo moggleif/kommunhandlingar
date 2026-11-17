@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319204232id_/https://www.kungsbacka.
 sha256: 6984ce24227322183aea5c0e04574bb209f3914de4fb2f827a37f22c76a9e826
 bytes: 1600295
 sidor: 66
-hamtad: 2026-10-26T10:48:40+00:00
-konverterad: 2026-10-26T10:48:55+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:20:44+00:00
+konverterad: 2026-11-17T03:20:59+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok]
@@ -1249,45 +1249,67 @@ Sida 8
 
 <!-- sida 32 -->
 
-2\.  Kommunens          övergripande         arbete     med     Agenda      2030
+2\.  Kommunens           övergripande         arbete     med    Agenda       2030
 
-Roll och ansvarsfördelning    avseende   hållbarhetsarbetet   i Kungsbacka    (forts.)
+Roll och  ansvarsfördelning   avseende   hållbarhetsarbetet    i Kungsbacka    (forts.)
 
-Enheten Hållbar utveckling                                    Utmaningar i det övergripande hållbarhetsarbetet
-
-Enheten Hållbar utveckling arbetar huvudsakligen med strategisk och Kungsbackas arbetar med hållbar utveckling med utgångspunkt i de tre
-►                                                             ►
-långsiktigt samhällsplanering.                                dimensionerna, social-, ekologisk- och ekonomisk hållbarhet. Till
-Enheten ansvarar bland annat för att driva och samordna kommunens exempel är kommunfullmäktiges tre fokusområden för En hållbar
+Enheten Hållbar utveckling
+Enheten Hållbar utveckling arbetar huvudsakligen med strategisk och
 ►
-arbete kopplat till hållbarhet och Agenda 2030.               utveckling och en hälsosam miljö utformade efter respektive dimension.
-Även nämndernas och förvaltningarnas målarbete utgår från de tre
+långsiktigt samhällsplanering.
+Enheten ansvarar bland annat för att driva och samordna kommunens
+►
+arbete kopplat till hållbarhet och Agenda 2030.
 Enhetens roll innebär att stödja och vägleda de övriga nämnderna och
 ►
-dimensionerna.
 förvaltningarna i deras hållbarhetsutveckling. Enheten stöttar upp
-respektive nämnd och förvaltning i de mål och aktiviteter respektive ► Utefter dessa dimensioner har enheten Hållbar utveckling även
-verksamhet har tagit framkopplat till de globala hållbarhetsmålen. identifierat viktiga utmaningar för det kommunövergripande håll-
-barhetsarbetet i kommunen.
+respektive nämnd och förvaltning i de mål och aktiviteter respektive
+verksamhet har tagit framkopplat till de globala hållbarhetsmålen.
 Enheten ansvarar också för att varje år samordna hållbarhetsbokslutet
 ►
-som avser kommunensbidrag till Agenda 2030.               ►   Inom social hållbarhet ser enheten Hållbar utveckling utmaningar med
-ungas framtidstrooch hälsa, jämställdhet ochintegration.
+som avser kommunensbidrag till Agenda 2030.
 Enheten har valt att inte skapa några nya handlingsplaner, eller
 ►
-strategiska dokument\* kopplade till Agenda 2030, med argumentet att ► Inom ekologisk hållbarhet ser enheten Hållbar utveckling utmaningar
-fokus i nuläget är på att genomföra aktiviteter som skapar resultat i inom klimat, transport, energi, kemikalier, cirkulära kretslopp och
-praktiken.                                                    bevarande av biologiskmångfald.
-►   Enheten möjliggör också för att det finns tillgång till rätt kompetens när ► Inom ekonomisk hållbarhet ser enheten Hållbar utveckling en utmaning
-beslut som inkluderar aspekter om hållbar utveckling skatas.  att hållbarhetsarbetet kan visa en långsiktig nytta även i det ekonomiska
-perspektivet.
+strategiska dokument\* kopplade till Agenda 2030, med argumentet att
+fokus i nuläget är på att genomföra aktiviteter som skapar resultat i
+praktiken.
+Enheten möjliggör också för att det finns tillgång till rätt kompetens när
+►
+beslut som inkluderar aspekter om hållbar utveckling skatas.
 I intervjuerna framkommer att det finns ett etablerat förtroende för
-►                                                                                          Social hållbarhet
+►
 enhetens kunskap, arbete ochdess uppgift.
+
+Utmaningar i det övergripande hållbarhetsarbetet
+Kungsbackas arbetar med hållbar utveckling med utgångspunkt i de tre
+►
+dimensionerna, social-, ekologisk- och ekonomisk hållbarhet. Till
+exempel är kommunfullmäktiges tre fokusområden för En hållbar
+utveckling och en hälsosam miljö utformade efter respektive dimension.
+Även nämndernas och förvaltningarnas målarbete utgår från de tre
+dimensionerna.
+Utefter dessa dimensioner har enheten Hållbar utveckling även
+►
+identifierat viktiga utmaningar för det kommunövergripande håll-
+barhetsarbetet i kommunen.
+Inom social hållbarhet ser enheten Hållbar utveckling utmaningar med
+►
+ungas framtidstrooch hälsa, jämställdhet ochintegration.
+Inom ekologisk hållbarhet ser enheten Hållbar utveckling utmaningar
+►
+inom klimat, transport, energi, kemikalier, cirkulära kretslopp och
+bevarande av biologiskmångfald.
+Inom ekonomisk hållbarhet ser enheten Hållbar utveckling en utmaning
+►
+att hållbarhetsarbetet kan visa en långsiktig nytta även i det ekonomiska
+perspektivet.
+Social hållbarhet
+
 Hållbar
 utveckling
-Ekologisk                Ekonomisk
-hållbarhet               hållbarhet
+
+Ekologisk                 Ekonomisk
+hållbarhet                hållbarhet
 \*Utöver exempelvis strategier för klimat, kemikalier och avfall.
 Bild 5: De tre dimensionerna av hållbarhet, som definierat i
 Brundtlandrapporten(1987).
@@ -1390,21 +1412,30 @@ Sida 12
 
 <!-- sida 36 -->
 
-3\.  Nämndernas          målarbete       kopplat      till Agenda      2030
+3\.  Nämndernas          målarbete        kopplat     till Agenda      2030
 
-Förvaltningen   för Teknik (forts.)
+Förvaltningen   för Teknik  (forts.)
 
 Kungsbackas miljöarbete utgår från de nationella miljömålen, de globala hållbarhetsmålen samt Borgmästaravtalet
 
-3\. Energi                                                    4. Cykelkommun
-Den största energiförbrukningen på teknik sker genom pumpning av Under 2021 har förvaltningen byggt cykelbanor vid Klockaregatan och
-►                                                            ►
-dricksvatten och avloppsvatten, samt vid produktion av dricksvatten och Östra Särövägen samt finns flercykelbanor inplanerade för2022.
-rening av avfallsvatten. Förvaltningen har tagit fram en plan för Vid Hede och Kungsbacka station har cykelgarage inrättats där invånare
+3\. Energi
+Den största energiförbrukningen på teknik sker genom pumpning av
 ►
-tillskottsvatten som innebär att tre områden ska utredas och åtgärdas kan hyra låst förvaring av cykel både natt och dag (totalt 16 platser).
-årligen. Den viktigaste åtgärden för att minska energiförbrukningen är Vid Kungsbacka station har det varit uppskattat och det är nu kötid för
-att se till att ledningsnäten håller tätt.                   att få en plats. En förstudie har påbörjats för att utveckla tjänsten.
+dricksvatten och avloppsvatten, samt vid produktion av dricksvatten och
+rening av avfallsvatten. Förvaltningen har tagit fram en plan för
+tillskottsvatten som innebär att tre områden ska utredas och åtgärdas
+årligen. Den viktigaste åtgärden för att minska energiförbrukningen är
+att se till att ledningsnäten håller tätt.
+
+4\. Cykelkommun
+Under 2021 har förvaltningen byggt cykelbanor vid Klockaregatan och
+►
+Östra Särövägen samt finns flercykelbanor inplanerade för2022.
+Vid Hede och Kungsbacka station har cykelgarage inrättats där invånare
+►
+kan hyra låst förvaring av cykel både natt och dag (totalt 16 platser).
+Vid Kungsbacka station har det varit uppskattat och det är nu kötid för
+att få en plats. En förstudie har påbörjats för att utveckla tjänsten.
 Förvaltningen har genomfört olika kampanjer för att få fler till att välja
 ►
 cykeln som färdmedel. Vintercykelkampanjen samlade cirka 25
@@ -1416,6 +1447,7 @@ byts ut till fots eller cykel.
 Förvaltningen har köpt in fyra elcykar för att internet öka cyklingen och
 ►
 föregåmed gott exempel.
+
 Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
 Förvaltningen för Teknik har också valt att i delårsrapporten presentera planering och genomförande av investeringar har tagits fram. Den nya
@@ -1472,33 +1504,48 @@ Sida 14
 
 <!-- sida 38 -->
 
-3\.  Nämndernas          målarbete       kopplat      till Agenda      2030
+3\.  Nämndernas          målarbete        kopplat     till Agenda      2030
 
-Byggnadsnämnden       och nämnden    för Miljö- och Hälsoskydd
+Byggnadsnämnden       och  nämnden    för Miljö- och Hälsoskydd
 
 Byggnadsnämnden och nämnden för Miljö- och Hälsoskydd arbetar med kommunfullmäktiges mål En hållbar utveckling och en hälsosam miljö. Utöver det har
-
 nämnden även valt att bryta ner fokusområdena Kungsbackas miljöarbete utgår från de nationella miljömålen, de globala hållbarhetsmålen samt Borgmästar-
 avtalet och Unga i Kungsbacka må bra såväl fysiskt som psykiskt i tre mål\*. För både det övergripande målet och för de nämndspecifika målen finns mål-
 sättning ochindikatorer. Nämnden har brutit ner fokusområdenai de följande tre delmålen:
 
-Mål:  en hållbar  utveckling  och  en hälsosam    miljö
+Mål:  en hållbar  utveckling  och  en hälsosam   miljö
 
 Kungsbackas miljöarbete utgår från de nationella miljömålen, de globala hållbarhetsmålen samt Borgmästaravtalet Unga i Kungsbacka mår bra både fysiskt och psykiskt
 
-1\. Byggnadsnämnden och nämnden för Miljö- 2. Nämnden för Miljö- och Hälsoskydd ska 3. Nämnden för Miljö- och Hälsoskydd ska
-och Hälsoskydd ska arbeta hållbart – socialt, säkerställa livsmedel, drick- och badvatten inte genom sin tillsyn verka för god inomhusmiljöer i
-ekonomiskt och miljövänligt.             är skadligt för invånarna.               förskolor, skolor och äldreboenden.
-Byggnadsnämnden ska arbeta med miljö och Nämnden  för Miljö- och Hälsoskydd ska   Nämnden för Miljö- och Hälsoskydd ska ha
-►                                        ►                                        ►
-hållbarhet genom att fokusera bebyggelse, utföra kontroll så att de livsmedel som extra fokus på ljus, buller och ventilation
-bostäder och verksamheter i huvudsak vid produceras, saluförs och serveras i      och  luftkvalitet i skolor, förskolor och
-utvecklingsområden, serviceorterna och   Kungsbacka kommun är säkra och att kons- äldreboenden och aktivt verka för att
-centralorterna.                          umenter inte vilseleds.                  gällande lagstiftning efterlevs.
-Nämnden för Miljö-och Hälsoskydd ska i sin Nämnden ska utföra kontroller för att
+1\. Byggnadsnämnden och nämnden för Miljö-
+och Hälsoskydd ska arbeta hållbart – socialt,
+ekonomiskt och miljövänligt.
+
+Byggnadsnämnden ska arbeta med miljö och
+►
+hållbarhet genom att fokusera bebyggelse,
+bostäder och verksamheter i huvudsak vid
+utvecklingsområden, serviceorterna och
+centralorterna.
+Nämnden för Miljö-och Hälsoskydd ska i sin
+►
+tillsynsplanering ha de nationella miljömålen
+och globala hållbarhetsmålen i fokus.
+
+2\. Nämnden för Miljö- och Hälsoskydd ska 3. Nämnden  för Miljö- och Hälsoskydd ska
+säkerställa livsmedel, drick- och badvatten inte genom sin tillsyn verka för god inomhusmiljöer i
+är skadligt för invånarna.               förskolor, skolor och äldreboenden.
+
+Nämnden för Miljö- och Hälsoskydd ska    Nämnden för Miljö- och Hälsoskydd ska ha
 ►                                        ►
-tillsynsplanering ha de nationella miljömålen säkerställa att dricks- och badvatten inte är
-och globala hållbarhetsmålen i fokus.    skadliga för invånarna.
+utföra kontroll så att de livsmedel som  extra fokus på ljus, buller och ventilation
+produceras, saluförs och serveras i      och luftkvalitet i skolor, förskolor och
+Kungsbacka kommun är säkra och att kons- äldreboenden och aktivt verka för att
+umenter inte vilseleds.                  gällande lagstiftning efterlevs.
+Nämnden  ska utföra kontroller för att
+►
+säkerställa att dricks- och badvatten inte är
+skadliga för invånarna.
 
 \*Nämnden har inte fastställt några nämndspecifika mål för fokusområdet Kungsbacka växer med en långsiktigt hållbar ekonomi.
 
@@ -1543,47 +1590,63 @@ Sida 16
 
 <!-- sida 40 -->
 
-3\.  Nämndernas          målarbete       kopplat      till Agenda      2030
+3\.  Nämndernas          målarbete        kopplat     till Agenda      2030
 
-Bygg-  och Miljöförvaltningen   (forts.)
+Bygg-  och  Miljöförvaltningen  (forts.)
 
 Hållbarhetsarbete                        Kommunöverskridande samarbete            Exempel på prioriterade utmaningar
 
 Av intervju framkommer att förvaltningen är I nämndbudgeten 2021 beskrivs vikten av Av förvaltningen framkommer att i sam-
 ►                                        ►                                        ►
 i ett tidigt stadium gällande hållbarhets- ett samspelt Kungsbacka för att nå     band med prioritering av behovsstyrd tillsyn
-frågor inom ramen för målarbetet. För 2021 kommunens mål. Bygg- och Miljöför-     under hösten kommer   de  nationella
+frågor inom ramen för målarbetet. För 2021 kommunens mål. Bygg- och Miljöför-     under hösten  kommer  de  nationella
 saknas tydliga aktiviteter kopplade till valtningen uppger att hållbarhetsarbetet miljömålen och globala hållbarhetsmålen
 nämndernas gemensammamålsättningar.      utvecklas stadigt genom samarbete i kom- vara i fokus för Miljö- och Hälsoskydd.
-Det anges däremot att det pågår arbete för munen.                                 Förvaltningen kommer även att beakta
+
+Det anges däremot att det pågår arbete för munen.
 ►
-att hitta lämpliga aktiviteter och att det Förvaltningen vill vara med och bidra till åtgärder i vattendirektivet.
+att hitta lämpliga aktiviteter och att det Förvaltningen vill vara med och bidra till
 ►
-finns en vilja att stärka kompetensen inom ”ett” Kungsbacka genom att delta i projekt Förvaltningen kommer påbörja en inven-
+finns en vilja att stärka kompetensen inom ”ett” Kungsbacka genom att delta i projekt
+området. Förvaltningen planerar för      från början istället för att endast bidra med
+utbildningsinsats gällande hållbarhets-  tillsyn i efterhand. Kommunens resurser kan
+frågor under slutet av 2021. Detta som en på så vis användas mer effektivt. Ett bra
+del att stärka det egna arbetet med      arbete som exempel på detta beskrivs vara
+fullmäktiges ochnämndernas mål.          inom den  gemensamma  styrgrupp och
+Även om förvaltningen är i ett tidigt stadie i arbetsgrupp somfinns förVatten och Avfall.
 ►
-området. Förvaltningen planerar för      från början istället för att endast bidra med tering av vattenskyddsområde.
-utbildningsinsats gällande hållbarhets-  tillsyn i efterhand. Kommunens resurser kan Miljö- och Hälsoskydd kommer även under
+arbetet mot  kommunfullmäktiges och      Förvaltningen upplever också att enheten
 ►
-frågor under slutet av 2021. Detta som en på så vis användas mer effektivt. Ett bra hösten inventera Fjärås Bräckas vatten-
-del att stärka det egna arbetet med      arbete som exempel på detta beskrivs vara skyddsområde för att säkerställa att
-fullmäktiges ochnämndernas mål.          inom den gemensamma  styrgrupp och       kommunens dricksvatten skyddas. Genom
-Även om förvaltningen är i ett tidigt stadie i arbetsgrupp somfinns förVatten och Avfall. inventering kan eventuella risker som kan
+nämndens mål så ser förvaltningen en     Hållbar utveckling bidrar med kompetens
+
+Förvaltningen kommer även att beakta
+åtgärder i vattendirektivet.
+Förvaltningen kommer påbörja en inven-
 ►
-arbetet mot kommunfullmäktiges och       Förvaltningen upplever också att enheten påverka vattenskyddsområdet åtgärdas och
+tering av vattenskyddsområde.
+Miljö- och Hälsoskydd kommer även under
 ►
-nämndens mål så ser förvaltningen en     Hållbar utveckling bidrar med kompetens  därigenom också säkerställa dricksvattnet\*.
+hösten inventera Fjärås Bräckas vatten-
+skyddsområde för att säkerställa att
+kommunens dricksvatten skyddas. Genom
+inventering kan eventuella risker som kan
+påverka vattenskyddsområdet åtgärdas och
+därigenom också säkerställa dricksvattnet\*.
+
 naturlig utveckling av sitt hållbarhetsarbete och stöd gällande förvaltningens ut- Förvaltningen ser också utmaning i att hitta
 ►
 genom att de också styrs av lagstiftning, vecklingsarbete mot En hållbar utveckling målsättningar och aktiviteter som både är
-nationell vägledning och kommunens       och hälsosammiljö.                       rimliga utifrån deras uppdrag och
-översiktsplan som har ökat fokus på miljö-                                        komplettera det som redan  finns i
+nationell vägledning och kommunens       och hälsosammiljö.                       rimliga utifrån deras uppdrag  och
+översiktsplan som har ökat fokus på miljö-                                        komplettera det som  redan finns i
 och hälsofrågor.                                                                  lagstiftning ochnationell vägledning.
+
 Förvaltningen beskriver att myndighetsut-
 ►
 övningen är en viktig del i att nå målen i
 Agenda 2030. Exempelvis beaktas både
 miljömål och hållbarhetsmål i behovs-
 utredningen förden operativa tillsynen.
+
 \*Nämnden för Teknik har ansvaret för dricksvattenförsörjningen.
 Sida 17
 
@@ -1621,51 +1684,73 @@ Sida 18
 
 <!-- sida 42 -->
 
-3\.  Nämndernas          målarbete       kopplat      till Agenda      2030
+3\.  Nämndernas          målarbete        kopplat     till Agenda      2030
 
 Nämnden    för Service  (forts.)
 
-Strategisk lokalplanering och alternativa energikällor        Goda måltider med minskad klimatpåverkan
-
-Vi eftersträvar kostnadseffektiva byggnader med så liten miljöpåverkan Måltidsverksamheten kännetecknas av utveckling och nytänkande, en
-►                                                            ►
-som  möjligt, vilket gäller såväl val av material som en effektiv välkomnande miljö och goda måltider. Genom årstidsanpassade menyer
-energianvändning. Dessutom ökar användandet av egenproducerad samt valda råvarorfår vi en minskad miljö-och klimatpåverkan.
-energi.                                                       I ett ytterligare steg mot god hushållning arbetar vi med att minska
+Strategisk lokalplanering och alternativa energikällor
+Vi eftersträvar kostnadseffektiva byggnader med så liten miljöpåverkan
 ►
-mängden avfallfrån både produktion(köket)ochservering (matsalen).
+som möjligt, vilket gäller såväl val av material som en effektiv
+energianvändning. Dessutom ökar användandet av egenproducerad
+energi.
+
 IT-miljön förenklar vårt arbete
+
 Utifrån kriterierna ekonomi, nytta och miljö väljer vi bästa tänkbara
 ►
-driftformförkommunensverksamhetssystem.                   Effektiv och miljömärkt fordonshantering
+driftformförkommunensverksamhetssystem.
+Lokalvård på nytt sätt
+
+Vi testar nya arbetssätt med ny teknik och nya metoder för att på ett
+►
+enklare och smartare sätt utföra vårt uppdrag med fortsatt hög
+ambition att minska verksamhetens miljöbelastning.
+
+Goda måltider med minskad klimatpåverkan
+Måltidsverksamheten kännetecknas av utveckling och nytänkande, en
+►
+välkomnande miljö och goda måltider. Genom årstidsanpassade menyer
+samt valda råvarorfår vi en minskad miljö-och klimatpåverkan.
+I ett ytterligare steg mot god hushållning arbetar vi med att minska
+►
+mängden avfallfrån både produktion(köket)ochservering (matsalen).
+
+Effektiv och miljömärkt fordonshantering
 Vår gemensamma  fordonshantering levererar rätt kvalitet med
 ►
-Lokalvård på nytt sätt                                           hållbarhet i fokus i nära samarbete med övriga förvaltningar. Genom
-Vi testar nya arbetssätt med ny teknik och nya metoder för att på ett samarbetet anpassar kommunens verksamheter sina val av transport-
-►
-enklare och smartare sätt utföra vårt uppdrag med fortsatt hög medel på ett effektivt och miljösmart sätt, vilket leder till bättre
-ambition att minska verksamhetens miljöbelastning.            resursutnyttjande, sänkta driftkostnader och minskad miljöpåverkan.
+hållbarhet i fokus i nära samarbete med övriga förvaltningar. Genom
+samarbetet anpassar kommunens verksamheter sina val av transport-
+medel på ett effektivt och miljösmart sätt, vilket leder till bättre
+resursutnyttjande, sänkta driftkostnader och minskad miljöpåverkan.
 
 Sida 19
 
 <!-- sida 43 -->
 
-3\.  Nämndernas          målarbete       kopplat      till Agenda      2030
+3\.  Nämndernas          målarbete        kopplat     till Agenda      2030
 
 Förvaltningen   för Service
 
 Förvaltningen för Service arbetar med de övergripande verksamhetsområdena Digital Center, Personalförsörjning och Kundstöd, Inköp, Fastigheter,
 Lokalförsörjning, Måltid, Lokalvård och Fordon. Varje verksamhetsområde har verksamhetsplaner och styrkort som beskriver hur verksamheten arbetar med
 nämndens målbild 2023 samt det kommunövergripande målet En hållbar utveckling och en hälsosam miljö. Nedan beskrivs hur respektive verksamhet bidrar till
-
 En hållbarutveckling och enhälsosammiljö i år:
 
-Fastigheter                                                   Inköp
-Verksamheten bidrar till att uppnå målet genom arbetet med strategin Hållbar konsumtion har varit ett prioriterat initiativ. Kommunen är en
-►                                                             ►
-Hållbara fastigheter. Strategin innefattar energianvändning, skapa stor konsument som kan skapa en positiv effekt genom att förändra sina
-giftfria miljöer, återanvända material och inventarier samt skapa egna köp och vanor. Utvecklingen med kommunens konsumtion fort-
-förutsättningar föralla verksamheter att kunna källsortera.   sätter föratt göraden mer genomtänkt,cirkulär ochresurseffektiv.
+Fastigheter
+Verksamheten bidrar till att uppnå målet genom arbetet med strategin
+►
+Hållbara fastigheter. Strategin innefattar energianvändning, skapa
+giftfria miljöer, återanvända material och inventarier samt skapa
+förutsättningar föralla verksamheter att kunna källsortera.
+
+Inköp
+Hållbar konsumtion har varit ett prioriterat initiativ. Kommunen är en
+►
+stor konsument som kan skapa en positiv effekt genom att förändra sina
+egna köp och vanor. Utvecklingen med kommunens konsumtion fort-
+sätter föratt göraden mer genomtänkt,cirkulär ochresurseffektiv.
+
 Verksamheten ställer energi och miljökrav vid inhyrning av lokaler, för Verksamheten arbetar med att ha hållbarhet och miljökrav finns med
 ►                                                             ►
 att inte verksamheter som sker i inhyrda lokaler ska utsättas för farliga som en aspekt i upphandlingar ochaffärer.
@@ -1689,6 +1774,7 @@ privatpersoner och föreningar att nyttja lokaler. Genom att
 tillgängliggöra och använda lokalytor mer gemensamt kan kommunen
 på ett effektivare sätt använda befintliga resurser och därigenom
 minska behovet av nybyggnation.
+
 Sida 20
 
 <!-- sida 44 -->
@@ -2387,13 +2473,13 @@ förbällrade klimateffekter. lin hättre och snabbare växande skoe kan ta upp 
 skillnad från en cvörd skog som endast kan lagra en begränsad mängd kol.
 
 [us med stommar av trä fungerar som köllager och ger även mycket mindre utsläpp av koldioxid
-under byggprocessen än hus med betongstommar, Totta påvisas I IVL Svenska MMiljölnsliunlet och
+under byggprocessen än hus med betongstommar, Totta påvisas I IVL Svenska Miljölnsliunlet och
 Sveriges Byagindustriers studier - ett nyproducerat flerbostadsbus med inasstv träxtorime har
 tydlivt lägre klimatpåverkan jämfört med betangstamme,
 
 Linköpings universitet har i en studie visat att gcnom all bygea hälften av alla kommande
 flerhostadshns I trä kan Sverige minska. sin Klimatbelastnina botydligi. Studien visar även att
-köllagrinaen söm tppstår I bas med trästomme kotmpecaserar för emellan 60 och 100 procent av
+köllagrinaen söm tppstår I bas med trästomme kotmpeaserar för emellan 60 och 100 procent av
 den belastning som tillverkningen av träkussystemen medför.
 
 Pen histariska nackdolon med träbyggande och braudrisk är sedan lång tid tillbaka undanröjd. De
@@ -2408,10 +2494,8 @@ by2agandet, Fi moderat Kunsostacka bygger ckolopiskt, socialt och ekovwniriski h
 
 Socaldemokralerma föreslår
 
-all Eoogsbacka kommun tar fram en fräbrggnadsstratcsi som scr över hor Kunmgshacka
+all Eoogsbacka kommun tar fram en fräbrggnadsstratcri som scr över hor Kungshkacka
 som konmin kan främja trä som byggnadsmaterial
-
-RA
 
 OVE Pr
 Eva Borg (53 ;

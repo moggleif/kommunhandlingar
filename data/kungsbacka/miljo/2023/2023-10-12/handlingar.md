@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250317142851id_/https://kungsbacka.se/d
 sha256: c43361a7e1a2b781d459730d9e1b7f704c4eb737ae2df11f96a97bbc9b0e22a9
 bytes: 3971336
 sidor: 65
-hamtad: 2026-10-20T08:59:08+00:00
-konverterad: 2026-10-20T08:59:25+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:05:15+00:00
+konverterad: 2026-11-17T01:05:31+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -275,7 +275,7 @@ förbättrade prognosen per augusti är att Byggnadsnämnden beviljats 2,1 miljo
 kopplat till Kommunfullmäktiges direktiv om innovation och nya arbetssätt.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2023-09-14 \$ 231
+Byggnadsnämndens arbetsutskott 2023-09-14 § 231
 
 Bygg- och miljöförvaltningens tjänsteskrivelse, 2023-09-06
 Delårsrapport per augusti för Byggnadsnämnden, 2023-09-08

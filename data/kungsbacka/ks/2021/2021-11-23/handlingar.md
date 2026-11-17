@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172533id_/https://kungsbacka.se/d
 sha256: c37831cf53a79fc99f6a99a1eca46f4ed1f533dfc7ca568ce7eb3b318ab419ed
 bytes: 24182018
 sidor: 287
-hamtad: 2026-10-28T09:12:49+00:00
-konverterad: 2026-10-28T09:13:41+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T03:45:16+00:00
+konverterad: 2026-11-17T03:45:55+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4590,39 +4590,59 @@ jöbalken2 uppfylls. En länstransportplan innebär alltid en betydande miljöp�
 kan enligt förordning (1998:905) om miljökonsekvensbeskrivningar och miljö-
 bedömningar.3
 
-Strategisk miljöbedömning av länstransportpla- En miljökonsekvensbeskrivning ska inne-
-ner omfattar en process med:   hålla:
-
-Avgränsningssamråd. Avgränsning av MKB  En sammanfattning av planens innehåll.
-skickas till berörda remissinstanser. Formellt sam-  En identifiering, beskrivning och bedömning
-rådsmöte med berörd Länsstyrelse. av rimliga alternativ.
-Miljökonsekvensbeskrivning ska tas fram som bi-  Nollalternativ (miljöns sannolika utveckling
-läggs det planförslag som går ut på remiss. om planen eller programmet inte genom-
-förs).
+Strategisk miljöbedömning av länstransportpla-
+ner omfattar en process med:
+Avgränsningssamråd. Avgränsning av MKB
+skickas till berörda remissinstanser. Formellt sam-
+rådsmöte med berörd Länsstyrelse.
+Miljökonsekvensbeskrivning ska tas fram som bi-
+läggs det planförslag som går ut på remiss.
 Beaktande av remissvar. Hänsyn ska tas till mil-
-  Nulägesbeskrivning (miljöförhållandena i de
 jökonsekvensbeskrivningen och inkomna syn-
-områden som kan antas komma att påverkas
 punkter innan planen antas.
-betydligt och befintliga miljöproblem som är
-Planrevidering. Om länsplanen uppdateras inför relevanta för planen eller programmet.
+Planrevidering. Om länsplanen uppdateras inför
 redovisning till regeringen eller slutlig fastställelse
-  Identifiering, beskrivning och bedömning av
 ska också MKBn uppdateras.
-de betydande miljöeffekter som genomfö-
-Särskild sammanfattning. När det slutliga plan- randet av planen kan antas medföra.
-förslaget antas ska en särskild sammanfattning tas  Beskrivning av åtgärder som planeras för att
-fram som beskriver;               förebygga, hindra, motverka eller avhjälpa
-1\. hur miljöaspekterna har integrerats i planen el- betydande negativa miljöeffekter.
-ler programmet,                  En sammanfattning av de överväganden som
-2\. hur hänsyn har tagits till miljökonsekvensbe- har gjorts bakom val av alternativ.
-skrivningen och inkomna synpunkter,  En redogörelse för de åtgärder som planeras
-3\. skälen för att planen eller programmet har an- för uppföljning och övervakning av den be-
-tagits i stället för de alternativ som övervägts, och tydande miljöpåverkan som genomförandet
-4\. vilka åtgärder som planeras för att övervaka av planen medför.
-och följa upp den betydande miljöpåverkan som  En sammanfattning av punkterna ovan.
+Särskild sammanfattning. När det slutliga plan-
+förslaget antas ska en särskild sammanfattning tas
+fram som beskriver;
+1\. hur miljöaspekterna har integrerats i planen el-
+ler programmet,
+2\. hur hänsyn har tagits till miljökonsekvensbe-
+skrivningen och inkomna synpunkter,
+3\. skälen för att planen eller programmet har an-
+tagits i stället för de alternativ som övervägts, och
+4\. vilka åtgärder som planeras för att övervaka
+och följa upp den betydande miljöpåverkan som
 genomförandet av planen eller programmet med-
 för. Lag (2017:955).
+
+En miljökonsekvensbeskrivning ska inne-
+hålla:
+ En sammanfattning av planens innehåll.
+ En identifiering, beskrivning och bedömning
+av rimliga alternativ.
+ Nollalternativ (miljöns sannolika utveckling
+om planen eller programmet inte genom-
+förs).
+ Nulägesbeskrivning (miljöförhållandena i de
+områden som kan antas komma att påverkas
+betydligt och befintliga miljöproblem som är
+relevanta för planen eller programmet.
+ Identifiering, beskrivning och bedömning av
+de betydande miljöeffekter som genomfö-
+randet av planen kan antas medföra.
+ Beskrivning av åtgärder som planeras för att
+förebygga, hindra, motverka eller avhjälpa
+betydande negativa miljöeffekter.
+ En sammanfattning av de överväganden som
+har gjorts bakom val av alternativ.
+ En redogörelse för de åtgärder som planeras
+för uppföljning och övervakning av den be-
+tydande miljöpåverkan som genomförandet
+av planen medför.
+ En sammanfattning av punkterna ovan.
+
 Själva andemeningen i de lagkrav som finns är att den strategiska bedömningen
 ska påverka innehållet i planen. Bedömningar av betydande miljöpåverkan bör
 göras tidigt i processen, när det finns alternativa inriktningar till planförslag
@@ -4820,15 +4840,16 @@ vag--och-jarnvagsprojekt/miljobedomning-och-miljobeskrivning/
 Trivector Traffic
 
 Tabell 2-1 Sammanfattning av bedömningsgrunder
-FOKUSOMRÅDE                                   MÅL                                                      BEDÖMNINGASPEKTER/KRITERIER
+FOKUSOMRÅDE                                  MÅL                                                      BEDÖMNINGASPEKTER/KRITERIER
 
 Tillgänglighet Målbild 2030
-Fokusområde Transportpolitiska mål och preciseringar
+Fokusområde Transportpolitiska mål och preciseringar     Miljökvalitetsmål Övriga nationella mål Aspekter        Bedömningskriterier
 Agenda 2030
-Miljökvalitetsmål Övriga nationella mål Aspekter         Bedömningskriterier
+
 Funktionsmålet tillgänglighet: Förutsättningarna för Aktiv mobilitet                       Andel gång- & cykelresor
 Robust planering
 att välja kollektivtrafik, gång och cykel förbättras Klimatpåverkan                        Andel kollektivtrafikresor
+
 Klimat                                                                                            Efterfrågan på biltransporter
 Trafikens klimatpåverkan
 Klimatpåverkan Begränsad klimatpåverkan Etappmål klimat till 2030 Energianvändning per fordonskilometer inom resp. trafikslag
@@ -4836,40 +4857,14 @@ Infrastrukturens klimatpåver-
 Påverkan på energianvändning vid byggande, drift och underhåll
 kan
 Antal personer exponerade för bullernivåer högre än riktvärden
+
 Buller                                   Buller          Antal exponerade för höga bullernivåer
+
 Betydelse för förekomst av områden med hög ljudmiljökvalitet
 God bebygd miljö
 Fysisk aktivitet i transportsystemet
-Aktiv mobilitet                            Aktivt resande
-T
-bu
-ill
-d
-g ä
-o
-n
-c
-g
-h
-l i
-a
-g
-k
-h
-t
-e
-iv
-t
-it
-f
-e
-ö
-t
-r
-e
-b
-r
-a rn, personer med funktinsnedsättningar och äldre till ut-
+Tillgänglighet för barn, personer med funktinsnedsättningar och äldre till ut-
+Aktiv mobilitet                             Aktivt resande  bud och aktiviteter
 Tillgängligheten med kollektivtrafik, till fots och med cykel till utbud och aktivi-
 Hälsa                                                                                             teter
 Frisk luft/ Bara naturlig försur-             Transportsystemets totala emissioner av kväveoxider (NOx) och partiklar
@@ -4877,33 +4872,32 @@ ning                                          (PM10)
 Luftkvalitet                               Luft            Halter av emissioner av kväveoxider (NOx) och partiklar (PM10) i tätorter
 Frisk luft                                    med åtgärdsprogram för MKN
 Antalet personer exponerade för halter över MKN
-Trafiksäkerhet                Etappmål trafiksäkerhet Trafiksäkerhet
-D
-di
-ö
-s
-d
-te
-a
-r
-d
-)
-e och allvarligt skadade motortrafikanter (inklusvie MC, men ej mope-
-Hänsynsmålet miljö: Transportsektorn bidrar till att
+
+Etappmål trafiksäkerhet
+Trafiksäkerhet
 till 2030
-Trafiksäkerhet  Dödade och allvarligt skadade GCM-trafikanter
+Hänsynsmålet miljö: Transportsektorn bidrar till att
 miljökvalitetsmålet Begränsad klimatpåverkan nås
-genom en stegvis ökad energieffektivitet i transport-
 Levande sjöar och vattendrag
-Vatten - Ekologiska värden Kvalitet på vatten och vattenförhållandena ur ekologisk synpunkt
+genom en stegvis ökad energieffektivitet i transport-
 Giftfri miljö
 systemet och ett brutet beroende av fossila bräns-
-len. År 2030 bör Sverige ha en fordonsflotta som är                        Förorenade område Betydelse för förorenade områden
+len. År 2030 bör Sverige ha en fordonsflotta som är
 Resurser oberoende av fossila bränslen.
-Skyddsvärda områden Betydelse för skyddsvärda områden
 tillgängliga för
-människan                                                                          Skyddsvärda områden Betydelse för bakgrundshalt metaller
+människan
+
+Dödade och allvarligt skadade motortrafikanter (inklusvie MC, men ej mope-
+Trafiksäkerhet
+dister)
+Trafiksäkerhet  Dödade och allvarligt skadade GCM-trafikanter
+Vatten - Ekologiska värden Kvalitet på vatten och vattenförhållandena ur ekologisk synpunkt
+Förorenade område Betydelse för förorenade områden
+Skyddsvärda områden Betydelse för skyddsvärda områden
+Skyddsvärda områden Betydelse för bakgrundshalt metaller
+
 God bebyggd miljö             Skyddsvärda områden Betydelse för bakgrundshalt sulfidjordar
+
 Skyddsvärda områden Betydelse för skyddsvärda områden under driftskede
 Betydelse för upprätthållande och utveckling av landskapets utmärkande ka-
 Landskap - form och skala raktär och kvaliteter – avseende delaspekterna skala, struktur eller visuell ka-
@@ -4920,7 +4914,8 @@ samt djurliv
 Landskap
 Biologisk mångfald, växtliv
 Betydelse för intrång i livsmiljöer
-Biologisk mångfald Rikt- växt och djurliv   samt djurliv
+Biologisk mångfald Rikt- växt och djurliv    samt djurliv
+
 Biologisk mångfald, växtliv
 Betydelse för att värna den naturliga, inhemska biologiska mångfalden
 samt djurliv
@@ -6058,12 +6053,12 @@ Planförslaget går i positiv riktning för de flesta hållbarhetsaspekterna som
 levanta för miljöbedömningen. Planen bidrar i både positiv riktning avseende
 aktiv mobilitet, buller, luftkvalitet och trafiksäkerhet, i både positiv och negativ
 riktning avseende klimatpåverkan, och i negativ riktning avseende biologisk
-
 mångfald, se Tabell 5-3.
+
 Tabell 5-3. Bedömning av i vilken riktning som länsplanen (planförslag 2022-2033) går mot de hållbar-
 hetsaspekter (Agenda 2030) som är relevanta för miljöbedömningen.
-
 Mål     Bedömning Kommentar
+
 Aktiv mobilitet   Merparten av åtgärderna bidrar till att öka andelen gång- och cy-
 kelresor samt att öka tillgängligheten med gång och cykel till utbud
 och aktiviteter. Detta bedöms gälla även vägobjekten som omfat-
@@ -6077,16 +6072,28 @@ seende antal omkomna och svårt skadade i trafiken, se Tabell 5-4.
 
 Tabell 5-4. Bedömning av i vilken riktning som länsplanen (planförslag 2022-2033) går mot avseende
 etappmålet inom trafiksäkerhet.
-Mål              Bedömning Kommentar
-Antalet omkomna till följd av tra- Planförslaget bedöms bidra i en positiv riktning vad
-fikolyckor inom vägtrafiken, sjö- gäller dödade och allvarligt skadade. Trafiksäkerhet
-farten respektive luftfarten ska är idag en integrerad del av infrastrukturplane-
-halveras till år 2030. Antalet ringen. Smärre åtgärder i potter för trafiksäkerhet
-omkomna inom bantrafiken ska och gång- och cykelåtgärder har som huvudsyfte att
-halveras till år 2030. Antalet all- bidra till ökad trafiksäkerhet, i första hand för oskyd-
-varligt skadade inom respektive dade trafikanter. Även de större vägobjekten ger tra-
-trafikslag ska till år 2030 minska fiksäkerhetsvinster. Ombyggnaden av väg 940 inne-
-med minst 25 procent.   bär exempelvis mötesseparering, med mycket goda
+
+Mål
+Antalet omkomna till följd av tra-
+fikolyckor inom vägtrafiken, sjö-
+farten respektive luftfarten ska
+halveras till år 2030. Antalet
+omkomna inom bantrafiken ska
+halveras till år 2030. Antalet all-
+varligt skadade inom respektive
+trafikslag ska till år 2030 minska
+med minst 25 procent.
+
+Bedömning Kommentar
+Planförslaget bedöms bidra i en positiv riktning vad
+gäller dödade och allvarligt skadade. Trafiksäkerhet
+är idag en integrerad del av infrastrukturplane-
+ringen. Smärre åtgärder i potter för trafiksäkerhet
+och gång- och cykelåtgärder har som huvudsyfte att
+bidra till ökad trafiksäkerhet, i första hand för oskyd-
+dade trafikanter. Även de större vägobjekten ger tra-
+fiksäkerhetsvinster. Ombyggnaden av väg 940 inne-
+bär exempelvis mötesseparering, med mycket goda
 trafiksäkerhetseffekter.
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)

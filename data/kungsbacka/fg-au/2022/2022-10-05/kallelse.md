@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240217020014id_/https://kungsbacka.se/d
 sha256: 39f10434c5cc4be01208ff1aac9e0b20656bd5b4843fc5e2af60c7d6d8b0d03f
 bytes: 1864016
 sidor: 49
-hamtad: 2026-10-26T09:36:45+00:00
-konverterad: 2026-10-26T09:36:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T02:48:30+00:00
+konverterad: 2026-11-17T02:48:42+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -75,49 +75,58 @@ KUNGSBACKA  KOMMUN
 
 2(3)
 
-Ärende                Beteckning Förslag
+Ärende                 Beteckning Förslag
 
-6\.  Nämndbudget 2023.     2022-01277 Nämnden beslutar att
+6\. Nämndbudget 2023.      2022-01277 Nämnden beslutar att
 Avstämning
- godkänna nämndbudget 2023 med
-Kl 09.50                             verksamhetsmål och ramfördelning
- uppdra åt förvaltningschefen att upprätta
+  godkänna nämndbudget 2023 med
+Kl 09.50                              verksamhetsmål och ramfördelning
+
+  uppdra åt förvaltningschefen att upprätta
 Julia Tryggvadottir Tollesson,
 förvaltningsbudget för 2023
 biträdande förvaltningschef
- uppdra åt förvaltningschefen att göra
+  uppdra åt förvaltningschefen att göra
 nödvändiga omfördelningar i
 förvaltningsbudgeten utifrån specifika
 förutsättningar och behov
 
-7\.  Grundbelopp fristående 2022-01278 Nämnden för Förskola & Grundskola beslutar att
-verksamhet 2023. Avstämning     anta grundbelopp för fristående verksamhet enligt
+7\. Grundbelopp fristående 2022-01278 Nämnden för Förskola & Grundskola beslutar att
+verksamhet 2023. Avstämning      anta grundbelopp för fristående verksamhet enligt
 bifogade förslag.
 Kl 10.20
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-8\.  Trafiksäkerhet Ölmevallaskolan 2022-01279 Förslag till beslut
+8\. Trafiksäkerhet Ölmevallaskolan 2022-01279 Förslag till beslut
 
 Kl 10.25
 
 Julia Tryggvadottir Tollesson,
 biträdande förvaltningschef
 
-9\.  Lära för livet priset 2022 2022-01094 Nämnden för förskola & Grundskola ha tagit del av
-informationen och antecknar informationen till
+9\. Lära för livet priset 2022
 
-Kl 10.35                        protokollet. Ordförande har beslutat till vem priset
-ska delas ut.
+Kl 10.35
+
 Ordförande Anders Ekström
+
 (M)
 
-10\. Pågående Skolinspektions- och 2022-00007 Arbetsutskottet har tagit del av informationen och
-Barn och elevombudsärenden,     antecknar informationen i protokollet.
+10\. Pågående Skolinspektions- och
+Barn och elevombudsärenden,
 inklusive ärenden som utreds
 inom Förskola och Grundskolas
 klagomålshantering 2022
+
+2022-01094 Nämnden för förskola & Grundskola ha tagit del av
+informationen och antecknar informationen till
+protokollet. Ordförande har beslutat till vem priset
+ska delas ut.
+
+2022-00007 Arbetsutskottet har tagit del av informationen och
+antecknar informationen i protokollet.
 
 Kl 10.45
 
@@ -624,31 +633,30 @@ Lokalbehov 2024-2028 utblicksår 2029-2033 12
 
 <!-- sida 18 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Utbildningsplatser grundskola Fjärås/Gällinge
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 I Fjärås/Gällinge finns tre kommunala grundskolor, Gällingeskolan F-5, Fjärås Bräckaskolan F-5 och
 Smedingeskolan 6-9. Dessa skolor ska täcka upp behovet av utbilndningsplatser i området.
+
 Funktionen för åk 7-9 i området har en kapacitet för 450 elever. Under 2021 rustades ytskikt och
 lärmiljöer upp vilket skapade bättre förutsättningar för eleverna. Fortfarande finns dock begränsningar i
 skolans kapacitet för att kunna möta efterfrågan på elevplatser i området under prognosperioden.
 Begräsningar som kvarstår är matsal och kök, grupprum, lokaler för elevhälsa, toaletter och
 café/uppehållsyta.
 700
+
 600                  580 576 597 602 591 591 583 586
 564
 545
@@ -669,6 +677,13 @@ café/uppehållsyta.
 Antal elever i 6-9 enligt prognos 361 408 420 410 432 468 482 495 507 500 499 492 494
 Antal barn totalt 12-15år 447 494 519 545 564 580 576 597 602 591 591 583 586
 Pedagogisk kapacitet (verksamhet) 380 450 450 450 450 450 450 450 450 450 450 450 450
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 [Tabell 18-1](kallelse.tabeller/18-1.csv)
 
@@ -800,34 +815,35 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 22 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Utbildningsplatser förskola Norr (nordväst)
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 I nordväst finns idag sju förskolor fördelat på Kullavik, Malevik och Särö. Behovet av förskoleplatser
 fördelat på alla områden är ojämnt. I ett av områdena är det brist på förskoleplatser och i samma område
 finns utöver två kommunala verksamheter tre fristående aktörer.
+
 Funktionen för kommunal förskola i området har idag en kapacitet på 115 platser och byggnaderna där
 verksamheterna är i ägs och förvaltas av EKSTA.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET
 Befolkningsprognosen visar på ett ökat behov av utbildningsplatser för barn i åldern 1-5år, främst i Särö
 och Malevik. Fördelningen på kapacitet i området är ojämn och de lediga platser som finns i området är i
 Kullavik. På våren minskar kapaciteten i hela området och förskolorna är nära sin högsta
 beläggningsgrad.
+
 1000
+
 800
 734 730 735 741 748 752 754 761 763
 697 678 691 691 697 708
@@ -847,6 +863,13 @@ upptagningsområde
 Antal barn totalt 431 370 464 399 472 403 358 359 365 361 367 370 371 375 375
 Kapacitet (fastställd) 488 493 513 493 493 475 475 475 475 475 475 475 475 475 475
 Behov förskoleplatser Kullavik/Malevik/Särö 2019-2031 kontra kapacitet i området.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 23 -->
 
@@ -982,28 +1005,28 @@ Ja, NYKO 2 (Särö).
 
 <!-- sida 26 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Förskola Anneberg/Älvsåker
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 Förändring i tidigare inlämnat behov (Lokalplan 23-27, 226 Anneberg förskola samverkanshus).
+
 I Anneberg/Älvsåker finns tre kommunala förskolor, Älvsåkers förskola, Lindströms förskola och
 Annebergs förskola. Dessa förskolor ska täcka upp behovet av förskoleplatser i området. En fristående
 förskola finns i området.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
+
 Utbyggnaden av Anneberg stadsdel medför att fler bostäder kommer att byggas. Förskolorna i området
 har inte kapaciteten att ta emot det ökade antalet barn. Av den anledningen bör ytterligare förskoleplatser
 tillskapas.
@@ -1091,6 +1114,12 @@ VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 åldern 1-5år som vill goda förutsättningar för skolgång i sitt område.
 \- Kopplingen till kommunens vision avseende en skola i framkant gynnas.
 \- Skapa jämlika lärmiljöer i Kungsbacka kommuns utbildningslokaler.
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 27 -->
 
@@ -1155,29 +1184,28 @@ Ja, NYKO 8 (Anneberg).
 
 <!-- sida 29 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Grundskola Onsala
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 I Onsala finns fyra kommunala grundskolor, Iseråsskolan F-6, Fjordskolan F-6, Presseskolan F-6 och
 Kapareskolan 7-9. Dessa skolor ska täcka upp behovet av utbildningsplatser i området.
+
 Funktionen för åk 7-9 i området har idag en teoretisk kapacitet på 420 platser. Förutom kapaciteten som
 är underdimensionerad utifrån efterfrågan på elevplatser behöver byggnadernas skick och lokalernas
 ändamålsenlighet uppfylla de krav skolverksamhet har idag.
 900
+
 800        775 783 796 814 770
 751 755
 700                           713 699    699
@@ -1190,18 +1218,28 @@ Funktionen för åk 7-9 i området har idag en teoretisk kapacitet på 420 plats
 300
 200
 100
+
 0
 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031
 Antal elever totalt 545 555 521 490 511 540 517 479 470 457 470 452 453
 13-15 (alla i upptagningsområde) 751 755 775 783 796 814 770 713 699 680 699 673 675
 Teoretisk kapacitet (fastighet) 510 510 510 420 420 420 420 420 420 420 420 420 420
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 Skolfunktionen för elever i åldern 13-15år i Onsala uppnår inte det behov av elevplatser som efterfrågas
 och lokalernas ändamålsenlighet är undermålig. Senaste kapacitetsutredningen från 2022 visar att
 skolans teoretiska kapacitet understiger behovet kraftigt trots att befolkningsprognosen för området
 pekar på en sjunkande andel elever i åldern 13-15år. Det möjliggör för kommunen att åtgärda behovet i
 ett skede där trycket på skolenheten inte stiger under prognosperioden.
+
 Svårigheter att bibehålla gruppstorlekar i befintliga lokaler i specialämnen.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 30 -->
 
@@ -1272,30 +1310,35 @@ Ja, NYKO 4 (Onsala).
 
 <!-- sida 32 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Utbildningsplatser förskola Centrum Norr (Hede/Tölö/Voxlöv)
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 Befolkningsutvecklingen inom centrala Kungsbacka stiger i takt med nybyggnation av bostäder. I
 Nordöstra Kungsbacka stad där Hede station, Voxlöv och Tölö ängar ingår planeras för en stor
 utbyggnad de kommande åren. Hedeleden ska byggas ut för att underlätta transporter och koppla ihop
 områdena. Bostadsområdena ska ha ett varierat bostadsutbud och utrymme för kommunal service.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
 Befolkningsprognosen visar på ett ökat behov av utbildningsplatser för barn i åldern 1-5år i området
 Hede/Tölö/Voxlöv i takt med att nya bostäder byggs i området.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 33 -->
 
@@ -1416,30 +1459,30 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 36 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Utbildningsplatser grundskola Kv. Liljan (Centrum C)
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 Förändring tidigare inlämnat behov. (Lokalplan 23-27, 338 Kvarteret Liljan skola)
+
 I Centrum C finns två kommunala grundskolor, Tingbergsskolan F-6 och Varlaskolan 7-9. Dessa skolor
 ska täcka upp behovet av utbildningsplatser i området Centrum C.
 Funktionen för åk F-6 i området har idag en teoretisk kapacitet på 320 platser. Förutom kapaciteten som
 är underdimensionerad utifrån efterfrågan på elevplatser behöver byggnadernas skick och lokalernas
 ändamålsenlighet uppfylla de krav skolverksamhet har idag.
+
 600
+
 498
 
 ```osaker-tabell
@@ -1452,6 +1495,7 @@ Funktionen för åk F-6 i området har idag en teoretisk kapacitet på 320 plats
 320 320 320 320 320 320 320 320 320 320
 300 300 300
 200
+
 0
 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031
 Teoretisk kapacitet - fastighet
@@ -1466,6 +1510,13 @@ Skolfunktionen för elever i åldern 6-12år i Centrum C uppnår inte det behov 
 efterfrågas och lokalernas ändamålsenlighet är undermålig. Kapacitetsutredning genomfördes våren
 2022 och visar att skolans teoretiska kapacitet understiger behovet kraftigt och befolkningsprognosen för
 området pekar på en ökning av elever i åldern 6-12år.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 37 -->
 
@@ -1539,49 +1590,63 @@ Ja, NYKO 1 (Kungsbacka stad)
 
 <!-- sida 39 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Anpassningar befintliga lokaler grundskola Åsa
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 Åsaskolan är idag en F-9 skola med kapacitet för 800 elever från hösten 2023. När nya Ölmevallaskolan
 är klar hösten 2026 kommer Åsaskolan bli en skola för åk 4-9. I samband med omorganiseringen i Åsa
 behöver anpassningar av befintliga lokaler utföras.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
+
 Befintliga lokaler och utemiljö på Åsaskolan behöver anpassas efter en åk 4-9 organisation. Specialsalar
 som slöjd, No, hkk, bild, musik och elevcafeteria behöver ses över och kapacitetssäkras. Likaså
 funktionella ytor för elevhälsa, administration och personalarbetsplatser.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 \- Skapa en robusthet i samhällsfunktioner i Åsa och kunna erbjuda alla barn i åldern 10-15år som
 vill goda förutsättningar för skolgång i sitt område.
+
 \- Kopplingen till kommunens vision avseende en skola i framkant gynnas.
 \- Skapa jämlika lärmiljöer i Kungsbacka kommuns utbildningslokaler.
+
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
 Vi kan inte erbjuda alla barn i åldern 10-15år skolgång i Åsa. Elever måste bussas till annan skola inom
 kommunen. Kapaciteten på andra skolenheter behöver i så fall ses över.
+
 VAD FÅR FUNKTIONSETABLERINGEN  FÖR KONSEKVENS  PÅ NUVARANDE
+
 VERKSAMHETSLOKALISERING?
 Flera förvaltningar behöver vara involverade och föra dialog med varandra. Verksamheten behöver får
 löpande information och vara delaktiga i processerna.
+
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Ja, Koncept för utbildningslokaler 1.5 samt Strategi för lokalförsörjning för utbildningsplatser.
+
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER.
 Säkra upp 800 elevplatser åk 4-9.
+
 Utegårdarnas utformning av stor betydelse då de kan möjliggöra för verksamheten att bedriva
 verksamhet utomhus året om, ex. funktion för uteklassrum.
 Kvalitéer/krav utifrån koncept och gällande regler och riktlinjer.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 40 -->
 
@@ -1643,48 +1708,62 @@ KUNGSBACKA  KOMMUN
 
 <!-- sida 42 -->
 
-Kungsbacka kommun
-Ekonomi
-Besöksadress    Telefon
-434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
-Fax
-0300-83 47 04  www.kungsbacka.se
 MALL FÖR BEHOVSBESKRIVNING
 För hantering av Lokalinvesteringar
+
 Datum             Benämning
 2022-09-23        Anpassning och utökning befintliga lokaler förskola Åsa Gård
+
 Initiativtagare
 Namn och enhet           E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
 Förvaltningens lokalansvarig
 Namn och förvaltning     E-postadress                Arbetstelefon
 Anna Flinck              (e-post borttagen)   0300-835318
+
 VERKSAMHETSBESKRIVNING
 Åsa Gårdsskolan är idag en grundskola med stora begränsningar i möjligheten till att skapa goda
 lärmiljöer. Skolans lokaler är byggd utifrån ett koncept med små grupper. Det innebär att en klass på 25
 elever inte få plats i ett klassrum, vilket medför problematik vid organisering, bemanning och ekonomi
 för skolan. Om Åsa Gårdsskolan anpassas kan befintliga lokaler fortsätta att användas till förskola.
+
 VARFÖR BEHÖVER  NÅGOT  GÖRAS, VAD HAR FÖRANLETT BEHOVET?
+
 Befintliga lokaler och utemiljö på Åsa Gårdsskolan behöver anpassas till förskola med start sommaren
 2026 när Åsa Gårdsskolans verksamhet flyttar till Ölmevallaskolan (förutsätter att Ölmevallaskolan blir
 klar enligt tidsplan) för att tillskapa förskoleplatser i området. Avveckling av tillfälliga
 paviljonglösningar och dyra externa lokaler möjliggörs.
+
 VAD ÄR DEN FÖRVÄNTANDE  NYTTAN?
 \- Skapa en robusthet i samhällsfunktioner i Åsa och kunna erbjuda alla barn i åldern 1-5år som vill
 goda förutsättningar för skolgång i sitt område.
+
 \- Kopplingen till kommunens vision avseende en skola i framkant gynnas.
 \- Skapa jämlika lärmiljöer i Kungsbacka kommuns utbildningslokaler.
+
 VAD BLIR KONSEKVENSEN  AV UTEBLIVEN FUNKTION?
+
 Vi kan inte erbjuda alla barn i åldern 1-5år förskoleplats i Åsa. Vårdnadshavare får erbjudande om annan
 placering inom kommunen. Kapaciteten på andra förskoleenheter behöver i så fall ses över.
+
 VAD FÅR FUNKTIONSETABLERINGEN  FÖR KONSEKVENS  PÅ NUVARANDE
 VERKSAMHETSLOKALISERING?
 Flera förvaltningar behöver vara involverade och föra dialog med varandra. Verksamheten behöver får
 löpande information och vara delaktiga i processerna.
+
 KONCEPTSHANDLINGAR   FINNS ATT TILLGÅ. (JA/NEJ)
 Ja, Koncept för utbildningslokaler 1.5 samt Strategi för lokalförsörjning för utbildningsplatser.
+
 DIMENSIONERADE  LOKALBEHOV, ANTAL PERSONER.
+
 Säkra upp behovet av förskoleplatser i Åsa, totalt behov av 400 platser i området.
+
+Kungsbacka kommun
+Ekonomi
+Besöksadress    Telefon
+434 81 Kungsbacka Vägmästaren, Syréngatan 1 0300-83 40 00 (e-post borttagen)
+Fax
+0300-83 47 04  www.kungsbacka.se
 
 <!-- sida 43 -->
 
@@ -1772,17 +1851,6 @@ www.kungsbacka.se
 
 TJÄNSTESKRIVELSE
 
-Förskola & Grundskola                                        Kungsbacka kommun
-Frida Byrsten                                                 434 81 Kungsbacka
-Besöksadress
-Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-Fax 0300-83 41 64
-(e-post borttagen)
-www.kungsbacka.se
-62-20-3102
-,0.2v
-,1001BUK
 Pågående anmälningsärenden hos Skolinspektionen och Barn-
 och elevombudet (Beo), inklusive ärenden som utreds inom
 1 (3)
@@ -1791,6 +1859,17 @@ Datum
 september 2022.
 2022-09-28
 Nya ärenden
+
+Förskola & Grundskola                                        Kungsbacka kommun
+Frida Byrsten                                                 434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+Fax 0300-83 41 64
+(e-post borttagen)
+www.kungsbacka.se
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 46-1](kallelse.tabeller/46-1.csv)
 

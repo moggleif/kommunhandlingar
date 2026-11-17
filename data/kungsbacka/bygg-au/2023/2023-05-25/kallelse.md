@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250523121902id_/https://kungsbacka.se/d
 sha256: c07796688bca8ebf3d98977ff8b92bdeeb267233edc22d62f9d3c58115341717
 bytes: 577504
 sidor: 5
-hamtad: 2026-10-20T10:30:31+00:00
-konverterad: 2026-10-20T10:30:44+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T01:47:49+00:00
+konverterad: 2026-11-17T01:47:58+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ok, ocr]
@@ -128,7 +128,7 @@ på grund av att beslutet har tagit mer än
 10+5 veckor. Kostnaden är uträknad efter
 Taxa för Byggnadsnämndens verksamhet,
 beslutad i Kommunfullmäktige 2020-09-08
-\$ 97.
+§ 97.
 
 <!-- sida 3 -->
 
@@ -147,7 +147,7 @@ Avgiften för beslutet är 19 200 kronor.
 Avgiften är uträknad efter Taxa för
 
 Byggnadsnämndens verksamhet, beslutad i
-Kommunfullmäktige 2022-12-06 \$ 236.
+Kommunfullmäktige 2022-12-06 § 236.
 
 SINTORP 4:142 - Bygglov för
 
@@ -172,7 +172,7 @@ blir därför 0 kronor.”
 
 Avgiften är uträknad efter taxa för
 byggnadsnämndens verksamhet, beslutad i
-kommunfullmäktige 2020-09-08 \$ 97.
+kommunfullmäktige 2020-09-08 § 97.
 
 Kostnaden för beslutet blir därför 0 kronor.
 
@@ -193,7 +193,7 @@ Avgiften för beslutet är 7500 kronor.
 
 Avgiften är uträknad efter Taxa för
 Byggnadsnämndens verksamhet, beslutad i
-Kommunfullmäktige 2022-12-06 \$ 236.
+Kommunfullmäktige 2022-12-06 § 236.
 
 5 min
 

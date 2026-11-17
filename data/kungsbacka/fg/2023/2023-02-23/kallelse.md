@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240228121804id_/https://kungsbacka.se/d
 sha256: 25c53d48b38a3a829a65a0804b1dcfb56792a158b9e49fd76b3d1f959582ba46
 bytes: 4256841
 sidor: 150
-hamtad: 2026-10-26T08:45:22+00:00
-konverterad: 2026-10-26T08:46:01+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T02:13:14+00:00
+konverterad: 2026-11-17T02:14:57+00:00
+pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -427,35 +427,47 @@ Biträdande förvaltningschef        Verksamhetschef myndighet och stöd
 
 <!-- sida 14 -->
 
-uniForm KUB100 v 1.0, 2006-10-02
-
 TJÄNSTESKRIVELSE
 
-Kungsbacka
 Nämnden för Förskola & Grundskola
+
 Arkivbeskrivning och arkivförteckning för Förskola & Grundskola
 
-1 (1)
-Enligt Arkivlagen som trädde i kraft 1991-07-01 skall arkivbeskrivning och Datum
-arkivförteckning revideras fortlöpande. Arkivmyndigheten/kommunarkivet begär att 2007-04-02
+Enligt Arkivlagen som trädde i kraft 1991-07-01 skall arkivbeskrivning och
+arkivförteckning revideras fortlöpande. Arkivmyndigheten/kommunarkivet begär att
 nämnden reviderar ovanstående handlingar.
-D
 
-Kommunfullmäktige i Kungsbacka kommun antog 1992-06-11, § 98, ett 07-65/16
+Kommunfullmäktige i Kungsbacka kommun antog 1992-06-11, § 98, ett
 arkivreglemente som gäller fr.o.m 1992-07-01, där det finns bestämmelser om
 arkivvård för kommunens myndigheter.
+
 Förslag till beslut
+
 Nämnden för Förskola & Grundskola godkänner reviderad arkivbeskrivning och
 arkivförteckning, daterade 2007-03-16.
-Anette Liedström-Hjorth -
-Förvaltningschef
-Förskola & Grundskola Kungsbacka kommun
 
+Anette Liedström-Hjorth
+Förvaltningschef
+
+Kungsbacka
+
+1 (1)
+
+Datum
+
+2007-04-02
+
+Dnr
+
+07-65/16
+
+Förskola & Grundskola
 Renée Rydberg
 Direkt 0300-83 41 45
 
 renee.rydberg(Akungsbacka.se
 
+Kungsbacka kommun
 434 81 Kungsbacka
 
 Besöksadress
@@ -469,9 +481,9 @@ forskola.grundskola(AQkungsbacka.se
 
 www. kungsbacka.se
 
-<!-- sida 15 -->
-
 uniForm KUB100 v 1.0, 2006-10-02
+
+<!-- sida 15 -->
 
 Kungsbacka
 
@@ -520,6 +532,8 @@ forskola.grundskola(Adkungsbacka.se
 www.kungsbacka.se
 
 renee.rydberg(Åakungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 16 -->
 
@@ -780,11 +794,7 @@ Utdragsbestyrkande
 
 —
 
-LL (MA ll fe
-
 <!-- sida 21 -->
-
-uniForm KUB100 v 1.0, 2006-10-02
 
 Kungsbacka
 
@@ -825,6 +835,8 @@ forskola.grundskola(Mkungsbacka.se
 www.kungsbacka.se
 
 renee.rydberg(åQkungsbacka.se
+
+uniForm KUB100 v 1.0, 2006-10-02
 
 <!-- sida 22 -->
 
