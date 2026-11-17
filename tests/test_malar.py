@@ -72,7 +72,7 @@ class TestEttArITaget(unittest.TestCase):
 
     def test_ar_med_dokument_men_utan_mal(self):
         html = aret(sida(dokumentar=(2022, 2023, 2024)), 2023)
-        self.assertIn("Poolens dokument från organet 2023 har inga mål.", html)
+        self.assertIn("Poolen har inga av organets mål för 2023.", html)
 
     def test_protokollen_det_aret(self):
         html = sida(uppfoljda=UPPFOLJDA)
@@ -104,7 +104,11 @@ class TestPerspektiven(unittest.TestCase):
         ]
         self.assertEqual(vyer, sorted(vyer))
         self.assertLess(html.index('class="urval"'), vyer[0])
-        self.assertIn('<div class="arval" role="group" aria-label="År" hidden>', html)
+        self.assertIn(
+            '<div class="arval" role="group" aria-label="År" '
+            'data-forval="2026" hidden>',
+            html,
+        )
         self.assertIn("// Krav: K50 i docs/02-KRAV.md, ADR-0073.", html)
 
 

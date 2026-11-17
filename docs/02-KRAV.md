@@ -905,7 +905,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Givet** sidan om målen
 - **När** den visas
 - **Så** står en tabell och en linjegraf med antal nämndmål och direktiv
-  per år, från första till sista år med mål, en linje per slag. Tabellen
+  per år, för kommunens år (K60), en linje per slag. Tabellen
   har också antalet uppföljningar som målfilen läser årets mål ur, och
   antalet mål med en bedömning. Ett år utan mål i filen står som tomt, inte
   noll, och linjen bryts där.
@@ -949,7 +949,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **När** den visas
 - **Så** står överst det senaste årets antal och grafen över antal per
   år, med tabellen hopfälld under. Sedan kommer en tidslinje och ett kort
-  per mål, med år från målens första till sista år.
+  per mål, med kommunens år (K60).
 - **Givet** tidslinjen
 - **När** den visas
 - **Så** har den en rad per rubrik, nämndmålen för sig och direktiven för
@@ -1669,8 +1669,8 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Så** gäller valet i alla tre perspektiven.
 - **Givet** Ett år i taget
 - **När** perspektivet visas
-- **Så** finns en knapp per år från målens första till sista år, och utan
-  val är det senaste året valt. För året står årets antal, ett kort per mål
+- **Så** finns en knapp per år för kommunens år (K60), och utan
+  val är målens senaste år valt. För året står årets antal, ett kort per mål
   med årets rubrik, formulering, status och källa, märkt när målet är nytt
   för året, vilka mål som fanns året innan men inte i år, och protokollens
   uppföljningar och dragningar om målen det året med paragraf och länk.
@@ -1986,3 +1986,29 @@ Issue [#314](https://github.com/moggleif/kungsbackakommun/issues/314).
 - **När** de visas för en region
 - **Så** säger texten "revisionen", "styrelsen" och "gemensamma planer",
   inget som bara gäller en kommun.
+
+## K60 — Alla sidor över tid visar samma år
+
+Hur och varför står i
+[ADR-0086](decisions/0086-alla-sidor-over-tid-visar-samma-ar.md) och
+[Åren på sidorna över tid](03-ARKITEKTUR.md#åren-på-sidorna-över-tid).
+
+- **Givet** en kommun vars äldsta dokument i poolen är från 2013 och en
+  webbplats som byggs 2026
+- **När** ett organs sida om mål och direktiv eller om ett spår över tid
+  byggs
+- **Så** har tidslinjen, korten och, på målsidan, grafen, tabellen och Ett
+  år i taget en kolumn för varje år 2013–2026, också när organets egna
+  rader bara finns några av åren.
+- **Givet** en rad i någon av kommunens filer med ett år före poolens
+  första år eller efter byggåret, som en budget för nästa år
+- **När** sidorna byggs
+- **Så** börjar eller slutar alla kommunens sidor över tid med det året.
+- **Givet** ett år på målsidan utan dokument från organet och utan mål
+- **När** sidan byggs
+- **Så** är året en lucka i poolen om det inte ligger efter byggåret.
+- **Givet** en målsida vars sista år med mål ligger före kommunens sista år
+- **När** den visas
+- **Så** står rutan bredvid grafen, urvalet "Gäller" och förvalet i Ett år
+  i taget för målens sista år, och Ett år i taget jämför inte målens
+  första år med året innan.

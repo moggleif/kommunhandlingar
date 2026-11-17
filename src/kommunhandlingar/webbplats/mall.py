@@ -1,4 +1,4 @@
-"""Krav: K14, K18, K22, K26, K27, K28, K36, K37, K39 och K51 i docs/02-KRAV.md,
+"""Krav: K14, K18, K22, K26, K27, K28, K36, K37, K39, K51 och K60 i docs/02-KRAV.md,
 ADR-0074 och ADR-0083 för temat. Test: tests/test_webbplats.py och
 tests/test_tema.py."""
 
@@ -86,6 +86,8 @@ class Mall:
     spar: dict[str, dict[str, list[Steg]]] = field(default_factory=dict)
     # Detaljplanernas projekt per kommun och plan (K46).
     projekt: dict[str, dict[str, Projekt]] = field(default_factory=dict)
+    # Åren som sidorna över tid visar, per kommun (K60).
+    aren: dict[str, range] = field(default_factory=dict)
 
     @property
     def en_kommun(self) -> bool:

@@ -39,9 +39,13 @@ def aren(underlag: Underlag) -> str:
     avsnitt = "".join(arsavsnitt(underlag, a) for a in reversed(underlag.ar))
     return (
         '<h2 id="aren">Ett år i taget</h2>'
-        f'<div class="arval" role="group" aria-label="År" hidden>{knappar}</div>'
-        + avsnitt
+        f'<div class="arval" role="group" aria-label="År" '
+        f'data-forval="{senaste_malar(underlag.spar)}" hidden>{knappar}</div>' + avsnitt
     )
+
+
+def senaste_malar(spar: list[list[Mal]]) -> int:
+    return max(m.ar for malen in spar for m in malen)
 
 
 def arsavsnitt(underlag: Underlag, ar: int) -> str:
@@ -53,7 +57,7 @@ def innehall(underlag: Underlag, ar: int) -> str:
         return f"<h3>{ar}</h3><p>Lucka i poolen: inga dokument från organet {ar}.</p>"
     if not pa_aret(underlag.spar, ar):
         return (
-            f"<h3>{ar}</h3><p>Poolens dokument från organet {ar} har inga mål.</p>"
+            f"<h3>{ar}</h3><p>Poolen har inga av organets mål för {ar}.</p>"
             + protokollen(underlag, ar)
         )
     malen = [m for spar in underlag.spar for m in spar]
@@ -67,19 +71,24 @@ def innehall(underlag: Underlag, ar: int) -> str:
     )
 
 
+# Åren är kommunens (K60), så målens första år är inte alltid det första.
+def forsta_malar(spar: list[list[Mal]]) -> int:
+    return min(m.ar for malen in spar for m in malen)
+
+
 def pa_aret(spar: list[list[Mal]], ar: int) -> set[int]:
     return {nr for nr, malen in enumerate(spar) if any(m.ar == ar for m in malen)}
 
 
 # Bara året efter ett år som går att jämföra med har något nytt.
 def nytt(underlag: Underlag, ar: int) -> set[int]:
-    if ar == underlag.ar[0] or ar - 1 in underlag.luckor:
+    if ar == forsta_malar(underlag.spar) or ar - 1 in underlag.luckor:
         return set()
     return pa_aret(underlag.spar, ar) - pa_aret(underlag.spar, ar - 1)
 
 
 def jamforelse(underlag: Underlag, ar: int) -> str:
-    if ar == underlag.ar[0]:
+    if ar == forsta_malar(underlag.spar):
         return "<p>Det första året med mål på sidan.</p>"
     if ar - 1 in underlag.luckor:
         return (
@@ -117,7 +126,7 @@ def arskort(underlag: Underlag, nr: int, ar: int) -> str:
     arets = [m for m in malen if m.ar == ar]
     markor = [*slagen(arets), *(["nytt"] if nr in nytt(underlag, ar) else [])]
     return (
-        f"<article {egenskaper(nr, malen, underlag.ar)}>"
+        f"<article {egenskaper(nr, malen)}>"
         f'<p class="markor">{" ".join(f"<span>{m}</span>" for m in markor)}</p>'
         f"<h4>{rubrik(arets_rubrik(malen, ar))}</h4>{rader(arets)}"
         f"{fokusomraden(underlag, nr, ar)}</article>"
