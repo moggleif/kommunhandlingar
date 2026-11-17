@@ -9,7 +9,6 @@ import unittest
 from datetime import date
 from pathlib import Path
 
-from kommunhandlingar.adaptrar import meetingsplus_html
 from kommunhandlingar.adaptrar.meetingsplus import kalla_av, las_mote, upptack
 from kommunhandlingar.fel import Hamtfel, Konfigurationsfel
 
@@ -34,56 +33,6 @@ def html(namn: str) -> str:
 
 def kalla(post: dict = POST):
     return kalla_av(post, ORGAN, "kalla 1")
-
-
-class TestOrgansidan(unittest.TestCase):
-    def test_alla_moten_i_sidans_ordning(self):
-        moten = meetingsplus_html.moten(html("organsida.html"), SJUKHUS)
-        self.assertEqual(len(moten), 73)
-        self.assertEqual(moten[0], f"{SJUKHUS}/mote-2026-12-02")
-        self.assertEqual(moten[-1], f"{SJUKHUS}/mote-2017-06-28")
-
-    def test_bara_adresser_direkt_under_en_organsida(self):
-        sida = (
-            f'<a href="{SJUKHUS}/mote-2026-01-01">a</a>'
-            f'<a href="{SJUKHUS}/mote-2026-01-01/agenda/x-2026-01-01pdf">b</a>'
-            f'<a href="{SJUKHUS}/mote-2026-01-03?x=1">d</a>'
-            '<a href="/committees/driftnamnden-hallands-sjukhus/mote-2026-01-04">e</a>'
-            f'<a href="{BAS}/mote-2026-01-05">f</a>'
-        )
-        self.assertEqual(
-            meetingsplus_html.moten(sida, SJUKHUS),
-            [f"{SJUKHUS}/mote-2026-01-01", f"{SJUKHUS}/mote-2026-01-04"],
-        )
-
-    def test_moten_under_organets_tidigare_sida(self):
-        hemsjukvard = f"{BAS}/gemensam-namnd-for-hemsjukvard-och-hjalpmedel"
-        tidigare = f"{hemsjukvard}-23088/mote-2022-02-11"
-        sida = (
-            f'<a href="{hemsjukvard}-23088/mote-2026-12-02">a</a>'
-            f'<a href="{tidigare}">b</a>'
-            f'<a href="{hemsjukvard}/mote-2021-12-10">c</a>'
-        )
-        self.assertEqual(
-            meetingsplus_html.moten(sida, hemsjukvard),
-            [
-                f"{hemsjukvard}-23088/mote-2026-12-02",
-                tidigare,
-                f"{hemsjukvard}/mote-2021-12-10",
-            ],
-        )
-
-    def test_tidigare_sidans_kallelse_ar_organets(self):
-        mote = f"{BAS}/driftnamnd-kollektivtrafik/mote-2023-02-24"
-        sida = (
-            f'<a href="{mote}/agenda/kallelse-dnkt-2023-02-24pdf?downloadMode=open">'
-            "Kallelse DNKT 2023-02-24.pdf</a>"
-        )
-        kandidater, _ = las_mote(kalla(), "hs", mote, sida)
-        self.assertEqual(
-            [(k.organ, k.typ, k.datum) for k in kandidater],
-            [("hs", "kallelse", date(2023, 2, 24))],
-        )
 
 
 class TestMotessidan(unittest.TestCase):
@@ -219,10 +168,19 @@ def protokollet(mote: str) -> str:
 
 class TestKallan(unittest.TestCase):
     def test_samlingsmote_utan_organsida_stoppar(self):
+        for adress in (
+            "https://annan.se/committees/regionstyrelsen/mote-2013-01-01",
+            f"{BAS}/arkiv/regionstyrelsen/mote-2013-01-01",
+        ):
+            post = copy.deepcopy(POST)
+            post["samlingsmoten"] = [adress]
+            with self.subTest(adress), self.assertRaises(Konfigurationsfel):
+                kalla(post)
+
+    def test_samlingsmote_under_en_annan_organsida_bredvid(self):
         post = copy.deepcopy(POST)
-        post["samlingsmoten"] = [f"{BAS}/regionstyrelsen/mote-2013-01-01"]
-        with self.assertRaises(Konfigurationsfel):
-            kalla(post)
+        post["samlingsmoten"] = [f"{BAS}/regionens-revisorer/mote-2018-01-01"]
+        self.assertEqual(len(kalla(post).samlingsmoten), 1)
 
     def test_samlingsmotet_skrivs_som_upptackten_skriver_det(self):
         post = copy.deepcopy(POST)

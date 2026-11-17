@@ -1881,7 +1881,7 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
   organsida bredvid sin egen, som när organet bytt namn
 - **När** upptäckten körs
 - **Så** blir de mötena organets på samma sätt som mötena under den egna
-  sidan.
+  sidan, utom de som ligger under ett annat organs sida i källan.
 - **Givet** en bilaga under protokollet med samma filnamn som en bilaga
   under kallelsen
 - **När** mötet läses
@@ -1904,8 +1904,8 @@ och [Meetings Plus](03-ARKITEKTUR.md#meetings-plus).
 - **När** kandidatlistan skrivs
 - **Så** står de efter övriga levande kandidater, med det nyaste mötet
   först över alla organ.
-- **Givet** ett samlingsmöte som inte ligger direkt under någon
-  organsida i källan, eller vars sista del inte har något datum
+- **Givet** ett samlingsmöte som inte ligger direkt under en organsida
+  bredvid någon i källan, eller vars sista del inte har något datum
 - **När** kommunfilen läses
 - **Så** stoppas körningen innan något hämtas.
 
