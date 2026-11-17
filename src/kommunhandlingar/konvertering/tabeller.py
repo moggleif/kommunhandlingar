@@ -2,12 +2,10 @@
 ADR-0031 och ADR-0087.
 Test: tests/test_konvertering.py, tests/test_celler.py och tests/test_rutkanter.py.
 
-En säker tabell är avgränsad av ritade linjer: streck och fyllda
-rektanglar som är högst 2 punkter breda eller höga, och kanten där två
-bredare fyllda rektanglar möts (`rutkanter.py`). Den har minst ett ord,
-så att ett rutnät utan text inte är en tabell, varje ord inom tabellens
-yta ska ha sin mittpunkt i en cell, och ingen cell får rymma mer än ett
-tal.
+En säker tabell är avgränsad av ritade linjer: streck, fyllda rektanglar
+högst 2 punkter breda eller höga och kanten där två bredare möts
+(`rutkanter.py`). Den har minst ett ord, varje ord inom dess yta har
+mittpunkten i en cell, och ingen cell rymmer mer än ett tal.
 
 Talen i en cell känns igen vidare än `text.TAL`, med decimalpunkt,
 plustecken, parentes, enhet och fotnotsstjärna, eftersom ett tal för mycket bara fäller

@@ -3,11 +3,14 @@
 Körs för hand med reportlab, som inte är projektets beroende:
 `python tests/fixtures/pdf/skapa_rutor.py`.
 
-1. En tabell som Word ritar den: en vit ruta per cell, streck runt om och
-   mellan raderna, men inget streck mellan Uppdrag och Kommentar.
+1. En tabell som Word ritar den: en ruta per cell, blå i rubrikraden och
+   vit under, streck runt om och mellan raderna, men inget streck mellan
+   Uppdrag och Kommentar.
 2. En tabell med streck överallt, där en rad har en färgad bakgrund över
    nästan hela bredden, 4 punkter innanför strecken.
 3. Två färgade rutor med text som inte möts.
+4. Samma tabell som på sida 1 med streck mellan kolumnerna, men inget
+   mellan raderna under rubriken.
 """
 
 from itertools import pairwise
@@ -28,13 +31,11 @@ RADER = [
 
 
 def cellrutor(c: Canvas) -> None:
-    c.setStrokeColorRGB(1, 1, 1)
     for i, (topp, botten) in enumerate(pairwise(Y)):
         c.setFillColorRGB(*(BLA if i == 0 else VIT))
         for vanster, hoger in pairwise(X):
             c.rect(vanster, botten, hoger - vanster, topp - botten, stroke=0, fill=1)
     c.setFillColorRGB(0, 0, 0)
-    c.setStrokeColorRGB(0, 0, 0)
 
 
 def text(c: Canvas) -> None:
@@ -52,7 +53,7 @@ def word_tabell(c: Canvas) -> None:
     text(c)
 
 
-def farjad_rad(c: Canvas) -> None:
+def fargad_rad(c: Canvas) -> None:
     c.setFillColorRGB(0.98, 0.85, 0.88)
     c.rect(X[0] + 4, Y[2] + 4, X[-1] - X[0] - 8, Y[1] - Y[2] - 8, stroke=0, fill=1)
     c.setFillColorRGB(0, 0, 0)
@@ -72,9 +73,18 @@ def rutor_isar(c: Canvas) -> None:
     c.drawString(235, 740, "Höger ruta")
 
 
+def rader_utan_streck(c: Canvas) -> None:
+    cellrutor(c)
+    for y in (Y[0], Y[1], Y[-1]):
+        c.line(X[0], y, X[-1], y)
+    for x in X:
+        c.line(x, Y[0], x, Y[-1])
+    text(c)
+
+
 def main() -> None:
     c = Canvas(str(HAR / "rutor.pdf"), pagesize=(595, 842))
-    for sida in (word_tabell, farjad_rad, rutor_isar):
+    for sida in (word_tabell, fargad_rad, rutor_isar, rader_utan_streck):
         sida(c)
         c.showPage()
     c.save()

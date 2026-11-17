@@ -31,6 +31,10 @@ class TestGemensamma(unittest.TestCase):
         kanter = gemensamma([ruta(0, 0, 100, 50), ruta(20, 50, 200, 90)])
         self.assertEqual([lage(k) for k in kanter], [(20, 50, 100, 50)])
 
+    def test_rutor_precis_1_punkt_isar_ger_en_kant(self):
+        kanter = gemensamma([ruta(0, 0, 10.5, 50), ruta(11.5, 0, 20, 50)])
+        self.assertEqual([lage(k) for k in kanter], [(11, 0, 11, 50)])
+
     def test_rutor_med_mellanrum_ger_ingen_kant(self):
         self.assertEqual(gemensamma([ruta(0, 0, 100, 50), ruta(102, 0, 200, 50)]), [])
 
@@ -64,6 +68,12 @@ class TestRutorPdf(unittest.TestCase):
 
     def test_rutor_som_inte_mots_blir_ingen_tabell(self):
         self.assertEqual(self.sidor[2].tabeller, [])
+
+    def test_rader_utan_streck_halls_isar(self):
+        (tabell,) = self.sidor[3].tabeller
+        self.assertEqual(
+            [rad[0] for rad in tabell], ["Mål", "Digital vardag", "Hållbarhet"]
+        )
 
 
 if __name__ == "__main__":

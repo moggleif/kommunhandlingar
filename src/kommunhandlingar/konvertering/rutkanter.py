@@ -7,7 +7,9 @@ streck är ritat. Rutornas yttre kanter räknas inte, så en färgad rad
 eller kolumn blir ingen gräns (ADR-0005).
 """
 
+import math
 from collections import defaultdict
+from collections.abc import Callable
 
 GLAPP = 1  # punkter mellan två rutor som ändå möts kant i kant
 KORTASTE = 2  # punkter som rutorna minst ska mötas längs
@@ -18,15 +20,18 @@ def gemensamma(rutor: list[dict]) -> list[dict]:
     return [*mots(rutor, "x1", "x0", lodrat), *mots(rutor, "bottom", "top", vagrat)]
 
 
-def mots(rutor: list[dict], slut: str, borjan: str, kant) -> list[dict]:
+def mots(rutor: list[dict], slut: str, borjan: str, kant: Callable) -> list[dict]:
+    """Rutorna slås upp efter heltalspunkt, eftersom en sida kan ha tusentals
+    rutor och alla par vore för långsamt. Två värden högst 1 isär har
+    heltalsdelar högst 1 isär."""
     efter_borjan = defaultdict(list)
     for ruta in rutor:
-        efter_borjan[round(ruta[borjan])].append(ruta)
+        efter_borjan[math.floor(ruta[borjan])].append(ruta)
     granne = (
         (a, b)
         for a in rutor
         for steg in (-1, 0, 1)
-        for b in efter_borjan[round(a[slut]) + steg]
+        for b in efter_borjan[math.floor(a[slut]) + steg]
         if abs(a[slut] - b[borjan]) <= GLAPP
     )
     return [k for a, b in granne if (k := kant(a, b))]

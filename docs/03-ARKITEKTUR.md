@@ -915,7 +915,8 @@ nattkörningen checkar inte in något
 - **En säker tabell** är avgränsad av ritade linjer: streck och fyllda
   rektanglar som är högst 2 punkter breda eller höga. Bredare fyllda ytor,
   som färgade rader och kolumner, är inga linjer. Men där två bredare
-  fyllda ytor möts kant i kant, högst 1 punkt isär och längs minst
+  fyllda ytor möts kant i kant, högst 1 punkt isär eller över
+  varandra, och längs minst
   2 punkter, är den gemensamma kanten en linje, eftersom Word ritar varje
   cell som en egen ruta också där inget streck syns
   ([ADR-0087](decisions/0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md)).

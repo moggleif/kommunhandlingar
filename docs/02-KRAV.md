@@ -2004,7 +2004,11 @@ Issue [#318](https://github.com/moggleif/kungsbackakommun/issues/318).
   hela bredden
 - **När** dokumentet konverteras
 - **Så** ger bakgrunden ingen ny cellgräns, som förut.
-- **Givet** två fyllda rutor med text som inte möts, utan mellanrum
-  emellan
+- **Givet** en tabell där varje cell är en fylld ruta och raderna bara
+  skiljs av att deras rutor möts, utan vågrätt streck emellan
+- **När** dokumentet konverteras
+- **Så** står raderna på var sin rad i tabellen.
+- **Givet** två fyllda rutor med text och ett mellanrum emellan, så att
+  de inte möts
 - **När** dokumentet konverteras
 - **Så** blir de ingen tabell, som förut.

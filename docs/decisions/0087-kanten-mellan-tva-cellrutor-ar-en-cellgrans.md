@@ -42,7 +42,7 @@ hålls kolumnerna isär utan att färgade rader blir cellgränser igen?
 Valt: A, eftersom den ger tillbaka just den gräns Word ritat, och en
 ensam färgad yta inte möter någon annan yta och därför inte ger någon
 kant. Två bredare fyllda ytor som möts kant i kant, högst 1 punkt isär
-och längs minst 2 punkter, ger en linje längs den gemensamma kanten,
+eller över varandra och längs minst 2 punkter, ger en linje längs den gemensamma kanten,
 lodrät eller vågrät. Reglerna för en säker tabell gäller sedan som
 förut: varje ord ska ha sin mittpunkt i en cell, och ingen cell får
 rymma mer än ett tal.
@@ -66,6 +66,9 @@ Poolens version höjs till 0.12.0. Poolen rättas när den konverteras om
 * Dåligt, eftersom en rubrikcell som ritats som två rutor ovanpå
   varandra, som `Tid / Tillskottsbelastning`, blir två rader. Talen står
   rätt.
+* Dåligt, eftersom ett staplat stapeldiagram eller en värmekarta, där
+  fyllda rutor möts med etiketter i, kan bli en säker tabell, och då
+  inte räknas som figur. Stickprovet hittade inget sådant fall.
 * Neutralt, eftersom CSV:erna på en sida numreras om när poolen
   konverteras om, som i ADR-0031.
 
@@ -73,7 +76,7 @@ Poolens version höjs till 0.12.0. Poolen rättas när den konverteras om
 
 `tests/test_rutkanter.py` prövar kanterna mellan rutor, och sidorna i
 `tests/fixtures/pdf/rutor.pdf` prövar en tabell med cellrutor, en
-färgad rad och två rutor som inte möts. Facit ska inte bli sämre.
+färgad rad, två rutor som inte möts och rader som bara skiljs av rutor. Facit ska inte bli sämre.
 
 ## Pros and Cons of the Options
 
@@ -121,7 +124,13 @@ färgad rad och två rutor som inte möts. Facit ska inte bli sämre.
 4. **Bara lodräta kanter** prövades också. Det undvek att rubrikcellen
    delades, men förlorade tabeller på 9 sidor i fem handlingar, bland
    dem budget- och volymtabeller, där raderna bara skiljs av rutor. Därför räknas båda riktningarna.
-5. **Beslutet.** Projektägaren har som stående regel att arbetet körs
+5. **Granskningen (fas 6)** hittade att rutor exakt 1 punkt isär kunde
+   missas av uppslaget efter heltal, att raderna som bara skiljs av rutor
+   inte prövades från en PDF, och att ett diagram av rutor kan bli en
+   tabell. De två första rättades med test; det tredje står under
+   Consequences.
+6. **Beslutet.** Projektägaren har som stående regel att arbetet körs
    enligt rekommendationen, och analysen rekommenderade A.
 
-Ompröva beslutet om en tabell där två ytor möts kant i kant ger fel tal.
+Ompröva beslutet om en tabell där två ytor möts kant i kant ger fel tal,
+eller ett diagram av rutor blir en tabell.
