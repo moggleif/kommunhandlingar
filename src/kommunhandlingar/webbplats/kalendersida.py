@@ -53,6 +53,7 @@ table.kalender td { height: 5rem; }
 .dag { display: block; font-size: 0.8rem; color: var(--dampad); }
 details { margin-bottom: 1rem; }
 .urval label { display: inline-block; margin: 0 1rem 0.25rem 0; }
+.alla { margin: 0 0 0.5rem; }
 .o-gruppmöte { border: 2px dotted var(--kant); color: var(--dampad); background: none; }
 """
 
@@ -163,7 +164,9 @@ def urval(organen: list[str], namn: dict[str, str]) -> str:
         f"{escape(namn[organ])}</label>"
         for organ in organen
     )
-    return f'<fieldset class="urval"><legend>Organ som visas</legend>{rutor}</fieldset>'
+    alla = '<p class="alla" hidden><button type="button">Dölj alla</button></p>'
+    rubrik = f"<legend>Organ som visas</legend>{alla}"
+    return f'<fieldset class="urval">{rubrik}{rutor}</fieldset>'
 
 
 def kallank(kalla: str) -> str:
