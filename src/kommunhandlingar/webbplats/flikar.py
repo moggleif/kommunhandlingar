@@ -6,7 +6,7 @@ flikarna på organets sidor byggs ur samma lista.
 """
 
 from kommunhandlingar.webbplats.mall import Mall, menypost
-from kommunhandlingar.webbplats.sparslag import SLAGEN
+from kommunhandlingar.webbplats.slagen import SLAGEN
 
 MAL = "mal-och-direktiv"
 SAMMANTRADEN = "sammantraden"

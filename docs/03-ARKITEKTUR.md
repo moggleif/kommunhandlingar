@@ -292,7 +292,8 @@ src/kommunhandlingar/
   webbplats/       startsidan, statussidorna, organens och dokumentens sidor,
                    kalendern, målen, lokalbehoven, initiativärendena,
                    handlingsplanerna, redovisningarna, detaljplanerna med
-                   sina projekt, granskningarna och avvikelserna, och
+                   sina projekt, granskningarna, investeringarna,
+                   remisserna, överenskommelserna och avvikelserna, och
                    indexet, paragraferna och llms.txt (steg 3)
 kommuner/<kommun>.toml
 kalender/<kommun>.csv  sammanträdena i kalendern, skrivna för hand (K22)
@@ -306,6 +307,9 @@ redovisningar/<kommun>.csv  nämndernas redovisningar steg för steg, skrivna f�
 detaljplaner/<kommun>.csv  detaljplanerna steg för steg, skrivna för hand (K44)
 projekt/<kommun>.csv     detaljplanernas projekt på kommunens webbplats, skrivna för hand (K46)
 granskningar/<kommun>.csv  revisionens granskningar steg för steg, skrivna för hand (K43)
+investeringar/<kommun>.csv  lokaler och investeringar steg för steg, skrivna för hand (K59)
+remisser/<kommun>.csv  remisser och yttranden steg för steg, skrivna för hand (K59)
+overenskommelser/<kommun>.csv  överenskommelser och vårdval steg för steg, skrivna för hand (K59)
 hamtning.toml
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].md
 data/<kommun>/<organ>/<år>/<datum>[-<lopnr>]/<typ>[-<namn>].tabeller/<sida>[-<sista sida>]-<nr>.csv
@@ -1825,14 +1829,14 @@ varje push till `main`, för hand och när ett issue med etiketten
   antalet dokument och det äldsta och senaste datumet. Tabellen har en
   rad per organ i kommunfilens ordning, med varje utskott direkt under
   organet i `hor_till`, och kolumnerna Sammanträden och en per slags sida
-  över tid. Med `grupper` i kommunfilen står varje grupp i en egen
+  över tid som något av kommunens organ har (K59). Med `grupper` i kommunfilen står varje grupp i en egen
   `<tbody>` med gruppens namn som rubrik. En cell länkar till sidan med
   antalet och vad som räknas: sammanträden, mål (spår i målfilen) eller
   saker (olika namn i spårfilen, med slagets ord, som "12 behov"). Ett
   organ utan sidan får ett streck.
 - **Flikarna** (K39, `webbplats/flikar.py`) står överst på organets sida
   och dess sidor över tid: Sammanträden, Mål och direktiv och sedan
-  spårslagen i ordningen i `sparslag.SLAGEN`, bara de som organet har.
+  spårslagen i ordningen i `slagen.SLAGEN`, bara de som organet har.
   Översikten och flikarna läser samma lista (`flikar.overtid`), så att en
   ny slags sida syns på båda.
 - **Statussidan** (`<kommun>/status.html`) räknar ur front matter i varje `.md` under
@@ -2435,7 +2439,36 @@ med de här skillnaderna:
   säger att det gäller granskningen.
 - **Formerna** som faserna ritas med delas av alla slag och står i
   `sparformer.py`. Slaget står i `granskningsslag.py` och listas i
-  `sparslag.py` med de andra.
+  `slagen.py` med de andra.
+
+## Lokaler, remisser och överenskommelser
+
+Hur och varför står i
+[ADR-0085](decisions/0085-lokaler-remisser-och-overenskommelser-som-spar.md)
+(K59). Tre slag av spår över tid som Kungsbackas sidor inte använder men
+en region behöver. En kommun med en fil `<slag>/<kommun>.csv` får en sida
+`<kommun>/<organ>/<slag>.html` för varje organ med rader i filen. Filen,
+kontrollen och sidan är redovisningarnas ([Redovisningar](#redovisningar)),
+utan värden, med de här kolumnerna och faserna:
+
+- **`investeringar`**, kolumnen `investering`, rubriken "Lokaler och
+  investeringar": `behov` (behov, förslag eller avsiktsförklaring),
+  `beslut` (beslut om lokal, hyresavtal eller investering), `pagar` och
+  `utfort`. Lokalbehoven ([Lokalbehov](#lokalbehov)) följer en kommuns
+  lokalplan med löpnummer och prioritet; det här slaget följer organets
+  egna beslut. Slaget står i `investeringsslag.py`.
+- **`remisser`**, kolumnen `remiss`, rubriken "Remisser och yttranden":
+  `remiss` (remissen eller begäran om yttrande), `yttrande` (organets
+  svar) och `beslut` (svaret eller beslutet i sista instans). Motioner står
+  bland initiativärendena och revisionsrapporter bland granskningarna.
+  Slaget står i `remissslag.py`.
+- **`overenskommelser`**, kolumnen `overenskommelse`, rubriken
+  "Överenskommelser och vårdval": `forslag`, `beslut`, `revidering`,
+  `uppfoljning` och `uppsagd`. Hyresavtal står bland investeringarna.
+  Slaget står i `overenskommelseslag.py`.
+- **Listan** över alla slag, i flikarnas och kolumnernas ordning, står i
+  `slagen.py`. Kommunens översikt har bara kolumner för de slag som något
+  organ har, så att en kommun inte får tomma kolumner för en annans slag.
 
 ## Sammanträdets sida
 

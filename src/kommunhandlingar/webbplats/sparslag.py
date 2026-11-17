@@ -4,14 +4,13 @@ tests/test_initiativ.py, tests/test_handlingsplaner.py,
 tests/test_redovisningar.py, tests/test_detaljplaner.py.
 
 Slagen av spår över tid: vad som skiljer lokalbehoven, initiativärendena,
-handlingsplanerna, redovisningarna och detaljplanerna åt, och listan
-över alla slag. Filen är längre än målet för att varje slag är data i
-ett stycke. Granskningarna står i `granskningsslag.py` för att filen
-annars går över den hårda gränsen. Allt annat är gemensamt (`spar.py`,
+handlingsplanerna, redovisningarna och detaljplanerna åt. Filen är
+längre än målet för att varje slag är data i ett stycke. De andra slagen
+står i egna filer för att filen annars går över den hårda gränsen, och
+listan över alla i `slagen.py`. Allt annat är gemensamt (`spar.py`,
 `sparsida.py`, `sparformer.py`).
 """
 
-from kommunhandlingar.webbplats.granskningsslag import GRANSKNINGAR
 from kommunhandlingar.webbplats.spar import Slag
 from kommunhandlingar.webbplats.sparformer import (
     BOCK,
@@ -143,7 +142,7 @@ HANDLINGSPLANER = Slag(
         "<p>En plan står med när den har ett eget steg i nämndens eller "
         "fullmäktiges protokoll eller handlingar: ett uppdrag, ett beslut, ett "
         "yttrande, en återrapport eller en uppföljning. Organets egna planer "
-        "står med, och kommunens planer där organet har ett eget steg. "
+        "står med, och gemensamma planer där organet har ett eget steg. "
         "Planer som bara nämns, den interna kontrollplanen och planer för "
         "enskilda elever står inte med. Avsändaren står när planen kommer "
         "ur en motion eller ett initiativ, som källan skriver den. Varje steg "
@@ -238,13 +237,4 @@ DETALJPLANER = Slag(
         "samma fastighet, eller projektet är ett planprogram (ADR-0069).</p>"
     ),
     adr="0067-detaljplanerna-foljs-som-redovisningarna.md",
-)
-
-SLAGEN = (
-    LOKALBEHOV,
-    INITIATIV,
-    HANDLINGSPLANER,
-    REDOVISNINGAR,
-    DETALJPLANER,
-    GRANSKNINGAR,
 )

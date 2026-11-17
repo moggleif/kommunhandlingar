@@ -14,7 +14,8 @@ kalender med kommunens sammanträden och partiernas gruppmöten,
 nämndernas och fullmäktiges mål och direktiv, nämndernas lokalbehov,
 initiativärenden, handlingsplaner och redovisningar, fullmäktiges
 motioner, detaljplanerna med kommunens projekt och deras dokument och
-revisionens granskningar år för år, organens sammanträden 2026
+revisionens granskningar år för år, för en region också lokaler och
+investeringar, remisser och överenskommelser, organens sammanträden 2026
 punkt för punkt, länkade från kalendern, och de fel i källan som ska meddelas
 kommunen går att läsa på webbplatsen:
 <https://moggleif.github.io/kungsbackakommun/>.

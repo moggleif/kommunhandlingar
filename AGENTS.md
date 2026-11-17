@@ -76,6 +76,9 @@ krav eller ett test. Det betyder:
 | Detaljplanerna steg för steg                    | `detaljplaner/<kommun>.csv`        |
 | Detaljplanernas projekt på kommunens webbplats  | `projekt/<kommun>.csv`             |
 | Revisionens granskningar steg för steg          | `granskningar/<kommun>.csv`        |
+| Lokaler och investeringar steg för steg         | `investeringar/<kommun>.csv`       |
+| Remisser och yttranden steg för steg            | `remisser/<kommun>.csv`            |
+| Överenskommelser och vårdval steg för steg      | `overenskommelser/<kommun>.csv`    |
 | Hämtningens User-Agent och intervall per värd   | `hamtning.toml`                    |
 | Front matter-schemat och tabellernas format     | `docs/03-ARKITEKTUR.md`            |
 | Ett dokuments härkomst och kvalitet (värdena)   | front matter i dokumentets `.md`   |
