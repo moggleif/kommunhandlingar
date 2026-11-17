@@ -31,6 +31,11 @@ from kommunhandlingar.webbplats.sparkort import (
 
 EGEN_STIL = Path(__file__).with_name("spar.css")
 BESLUTEN = "/blob/main/docs/decisions/"
+AREN = (
+    "<p>Åren är desamma på alla organs sidor över tid, från poolens första "
+    "år till i år, så att sidorna går att jämföra (ADR-0086). Ett år utan "
+    "steg står tomt.</p>"
+)
 
 
 def adress(kommun: Kommun, organ: str, slag: Slag) -> str:
@@ -47,7 +52,7 @@ def sparsida(mall: Mall, vy: Vy, stegen: list[Steg]) -> str:
         + f"<style>{STIL.read_text(encoding='utf-8')}"
         f"{EGEN_STIL.read_text(encoding='utf-8')}</style>"
         + slag.inledning
-        + f"<details><summary>Om sidan</summary>{slag.metod}<p>Hur och varför "
+        + f"<details><summary>Om sidan</summary>{slag.metod}{AREN}<p>Hur och varför "
         f'står i <a href="{escape(KALLKOD + BESLUTEN + slag.adr)}">'
         f"ADR-{slag.adr[:4]}</a>.</p></details>"
         + sammandrag(slag, sakerna)

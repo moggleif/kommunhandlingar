@@ -1,5 +1,5 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56 och K58 i
-docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56, K58 och K60
+i docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py,
@@ -27,6 +27,7 @@ from kommunhandlingar.webbplats import (
     spar,
     uppfoljningar,
 )
+from kommunhandlingar.webbplats.arspann import arspann, radernas_ar
 from kommunhandlingar.webbplats.dokumentsida import dokumentsida
 from kommunhandlingar.webbplats.kalendersida import kalendersida
 from kommunhandlingar.webbplats.llms import llms
@@ -54,7 +55,14 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
         for s in SLAGEN
     }
     projekten = las_projekten(rot, kommuner, sparen[DETALJPLANER.id])
+    aren = {
+        k.id: arspann(
+            rot / "data" / k.id, radernas_ar(k.id, malen, uppfoljda, sparen), byggd.year
+        )
+        for k in kommuner
+    }
     mall = Mall(kommuner, repo, byggd, kalendrar, malen, uppfoljda, sparen, projekten)
+    mall = replace(mall, aren=aren)
     ut.mkdir(parents=True, exist_ok=True)
     if not mall.en_kommun:
         (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
@@ -109,7 +117,7 @@ def bygg_sparen(ut: Path, mall: Mall, kommun: Kommun, organ: str) -> None:
     for slag in SLAGEN:
         alla = mall.spar[slag.id].get(kommun.id, [])
         if stegen := [s for s in alla if s.organ == organ]:
-            vy = Vy.over(slag, kommun, stegen)
+            vy = Vy.over(mall, slag, kommun, stegen)
             if slag == DETALJPLANER:
                 vy = replace(vy, projekt=mall.projekt.get(kommun.id, {}))
             html = sparsida(mall, vy, stegen)

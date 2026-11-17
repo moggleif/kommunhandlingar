@@ -107,7 +107,9 @@ class TestLasning(unittest.TestCase):
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(LOKALBEHOV, exempelby(), stegen)
+            vy = Vy.over(
+                Mall([exempelby()], REPO, TID), LOKALBEHOV, exempelby(), stegen
+            )
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_ett_behov_per_rad_och_ett_ar_per_kolumn(self):
@@ -144,7 +146,7 @@ class TestSidan(unittest.TestCase):
     def test_utan_steg_i_namndens_lokalbehov_inget_urval_for_senaste_aret(self):
         with lasta() as stegen:
             utan = [s for s in stegen if s.fas != "lokalbehov"]
-            vy = Vy.over(LOKALBEHOV, exempelby(), utan)
+            vy = Vy.over(Mall([exempelby()], REPO, TID), LOKALBEHOV, exempelby(), utan)
             html = sparsida(Mall([exempelby()], REPO, TID), vy, utan)
         self.assertNotIn('data-urval="senaste"', html)
         self.assertIn("<script>", html)

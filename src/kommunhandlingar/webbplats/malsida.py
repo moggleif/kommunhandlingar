@@ -1,5 +1,5 @@
-"""Krav: K26, K27, K29, K35, K39 och K50 i docs/02-KRAV.md, ADR-0044, ADR-0045,
-ADR-0050, ADR-0051, ADR-0056 och ADR-0073. Test: tests/test_mal.py,
+"""Krav: K26, K27, K29, K35, K39, K50 och K60 i docs/02-KRAV.md, ADR-0044,
+ADR-0045, ADR-0050, ADR-0051, ADR-0056, ADR-0073 och ADR-0086. Test: tests/test_mal.py,
 tests/test_malkort.py, tests/test_malar.py och tests/test_fokusomraden.py.
 
 Sidan om ett organs mål och direktiv: en hopfälld del om metoden, antalet
@@ -53,6 +53,9 @@ METOD = (
     "formulering i pekrutan och i kortets historik. En delårsrapport ger en "
     "prognos, som har en streckad ram. Ett år utan dokument i poolen är en "
     "lucka i poolen, inte ett år utan mål.</p>"
+    "<p>Åren är desamma på alla organs sidor över tid, från poolens första "
+    "år till i år, så att sidorna går att jämföra. Ett år utan mål står "
+    "tomt.</p>"
 )
 FOKUS = (
     "<p>Ett mål med fokusområden har dem under sig i tidslinjen och i sitt "
@@ -89,8 +92,8 @@ def adress(kommun: Kommun, organ: str) -> str:
     return f"{kommun.id}/{organ}/{MAL}.html"
 
 
-# Alla mål är samma organs, och åren går från målens första till sista år.
-# Ett år utan både dokument och mål är en lucka: ett år med mål ur ett
+# Alla mål är samma organs, och åren är kommunens (K60). Ett år fram till
+# byggåret utan både dokument och mål är en lucka: ett år med mål ur ett
 # senare dokument, som en årsredovisning, är det inte.
 def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) -> str:
     organ = malen[0].organ
@@ -99,17 +102,18 @@ def malsida(mall: Mall, kommun: Kommun, malen: list[Mal], organets: list[dict]) 
     sidans = adress(kommun, organ)
     namn = next(o.namn[0] for o in kommun.organ if o.id == organ)
     spar = sparen(malen)
-    ar = range(min(m.ar for m in malen), max(m.ar for m in malen) + 1)
+    malar = {m.ar for m in malen}
+    ar = mall.arspann(kommun.id, malar)
     dokumentar = {int(d["datum"][:4]) for d in organets}
-    luckor = set(ar) - dokumentar - {m.ar for m in malen}
+    luckor = set(range(ar[0], mall.byggd.year + 1)) - dokumentar - malar
     innehall = (
         flikar(mall, kommun.id, organ, MAL)
         + f"<style>{STIL.read_text(encoding='utf-8')}</style>"
         + INLEDNING
-        + fore_malen(min(dokumentar), ar[0])
+        + fore_malen(min(dokumentar), min(malar))
         + om_sidan(mall, any(m.huvudmal for m in malen))
-        + statistik(malen, uppfoljda, protokoll)
-        + urval(ar[-1], {m.slag for m in malen})
+        + statistik(malen, uppfoljda, protokoll, ar)
+        + urval(max(malar), {m.slag for m in malen})
         + PERSPEKTIV
         + vy(
             "tidslinje",

@@ -1982,3 +1982,24 @@ Issue [#314](https://github.com/moggleif/kungsbackakommun/issues/314).
 - **När** de visas för en region
 - **Så** säger texten "revisionen", "styrelsen" och "gemensamma planer",
   inget som bara gäller en kommun.
+
+## K60 — Alla sidor över tid visar samma år
+
+Hur och varför står i
+[ADR-0086](decisions/0086-alla-sidor-over-tid-visar-samma-ar.md) och
+[Åren på sidorna över tid](03-ARKITEKTUR.md#åren-på-sidorna-över-tid).
+
+- **Givet** en kommun vars äldsta dokument i poolen är från 2013 och en
+  webbplats som byggs 2026
+- **När** ett organs sida om mål och direktiv eller om ett spår över tid
+  byggs
+- **Så** har tidslinjen, korten och, på målsidan, grafen, tabellen och Ett
+  år i taget en kolumn för varje år 2013–2026, också när organets egna
+  rader bara finns några av åren.
+- **Givet** en rad i någon av kommunens filer med ett år före poolens
+  första år eller efter byggåret, som en budget för nästa år
+- **När** sidorna byggs
+- **Så** börjar eller slutar alla kommunens sidor över tid med det året.
+- **Givet** ett år på målsidan utan dokument från organet och utan mål
+- **När** sidan byggs
+- **Så** är året en lucka i poolen om det inte ligger efter byggåret.

@@ -109,3 +109,4 @@ Regler för det här repot, utöver MADR:
 | 0083 | [Temaknappen står i Giffås sajtrad, och valet gäller på projektets alla sajter](0083-temaknappen-i-giffas-sajtrad.md) | accepted |
 | 0084 | [Handlingar och protokoll är menyns första post, och kalendern har ingen stig](0084-handlingar-och-protokoll-i-menyn.md) | accepted |
 | 0085 | [Lokaler och investeringar, remisser och yttranden och överenskommelser och vårdval blir tre nya slag av spår över tid](0085-lokaler-remisser-och-overenskommelser-som-spar.md) | accepted |
+| 0086 | [Alla sidor över tid visar samma år, från poolens första till innevarande](0086-alla-sidor-over-tid-visar-samma-ar.md) | accepted |

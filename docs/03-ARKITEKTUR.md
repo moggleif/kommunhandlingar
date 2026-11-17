@@ -2472,6 +2472,26 @@ utan värden, med de här kolumnerna och faserna:
   `slagen.py`. Kommunens översikt har bara kolumner för de sidor över tid
   som något organ har, mål och direktiv inräknade, så att en kommun inte får tomma kolumner för en annans slag.
 
+## Åren på sidorna över tid
+
+Hur och varför står i
+[ADR-0086](decisions/0086-alla-sidor-over-tid-visar-samma-ar.md) (K60).
+Sidorna om mål och direktiv och om spåren över tid har en kolumn per år
+i tidslinjen, en per år i korten och, på målsidan, en per år i grafen,
+tabellen och Ett år i taget. Åren är desamma för alla organ och sidor i
+en kommun, så att de går att jämföra.
+
+- **Spannet** (`arspann.py`) börjar med det tidigaste av poolens första
+  år, alltså den äldsta årskatalogen under `data/<kommun>/<organ>/`, och
+  de år som någon rad i kommunens mål-, uppföljnings- och spårfiler har.
+  Det slutar med det senaste av året då webbplatsen byggs och radernas
+  år, så att en budget för nästa år syns.
+- **Ett år utan rader** är en tom kolumn. På målsidan är ett år fram
+  till byggåret utan både dokument från organet och mål en lucka i
+  poolen; ett år efter byggåret är det inte.
+- **Rutan bredvid grafen** och urvalet "Gäller" står för målens senaste
+  år, inte spannets.
+
 ## Sammanträdets sida
 
 Hur och varför står i

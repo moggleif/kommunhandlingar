@@ -53,7 +53,7 @@ class TestSidorna(unittest.TestCase):
         for slag, namn, fas, text in FALL:
             with self.subTest(slag.id):
                 stegen = las(slag, rad(namn, fas, text))
-                vy = Vy.over(slag, exempelby(), stegen)
+                vy = Vy.over(Mall([exempelby()], REPO, TID), slag, exempelby(), stegen)
                 html = sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
                 self.assertIn(f">{namn}</a></th>", html)
                 self.assertIn(f"<dt>{slag.faser[fas][1]}</dt><dd>1</dd>", html)

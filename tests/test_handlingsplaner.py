@@ -58,7 +58,9 @@ def lasta():
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(HANDLINGSPLANER, exempelby(), stegen)
+            vy = Vy.over(
+                Mall([exempelby()], REPO, TID), HANDLINGSPLANER, exempelby(), stegen
+            )
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_en_plan_utan_avsandare_far_ingen(self):

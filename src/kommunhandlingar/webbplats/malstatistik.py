@@ -51,9 +51,8 @@ class Antal:
 
 
 def statistik(
-    malen: list[Mal], uppfoljningar: list[Uppfoljning], protokollar: set[int]
+    malen: list[Mal], uppfoljningar: list[Uppfoljning], protokollar: set[int], ar: range
 ) -> str:
-    ar = range(min(m.ar for m in malen), max(m.ar for m in malen) + 1)
     slagen = [s for s in SLAG if any(m.slag == s for m in malen)]
     antal = [rakna([m for m in malen if m.ar == a], slagen) for a in ar]
     namnden = [
@@ -66,7 +65,7 @@ def statistik(
     ]
     return (
         '<h2 id="antal">Antal per år</h2><div class="sammandrag">'
-        + arets_ruta(malen, uppfoljningar, protokollar, ar[-1])
+        + arets_ruta(malen, uppfoljningar, protokollar, max(m.ar for m in malen))
         + f'<div class="ruta">{graf(list(ar), serier)}</div></div>'
         + "<details><summary>Tabell över antal per år</summary>"
         + tabell(ar, slagen, antal, namnden)
@@ -75,8 +74,8 @@ def statistik(
     )
 
 
-# Året har mål: det senaste året har alltid det, eftersom åren slutar med
-# målens sista år, och Ett år i taget visar rutan bara för år med mål.
+# Året har mål: rutan bredvid grafen gäller målens senaste år, och Ett år
+# i taget visar rutan bara för år med mål.
 def senaste(ar: int, slagen: list[str], antal: Antal, namnden: tuple | None) -> str:
     tal = list(zip(antal.per_slag, (FLERTAL[s] for s in slagen), strict=True))
     if namnden:

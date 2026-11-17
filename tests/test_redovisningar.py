@@ -33,7 +33,7 @@ RADER = (
 BESTALLNING = re.compile(r"(Redovisning|Utredning|Information)\b")
 
 
-def sida() -> str:
+def steg() -> list:
     with tempfile.TemporaryDirectory() as tmp:
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(RUBRIK + RADER, encoding="utf-8")
@@ -43,8 +43,12 @@ def sida() -> str:
             (data / dok).write_text(
                 dokument(organ, datum, text=text, per_sida="[ok]"), encoding="utf-8"
             )
-        stegen = spar.las(fil, exempelby(), data, REDOVISNINGAR)
-    vy = Vy.over(REDOVISNINGAR, exempelby(), stegen)
+        return spar.las(fil, exempelby(), data, REDOVISNINGAR)
+
+
+def sida() -> str:
+    stegen = steg()
+    vy = Vy.over(Mall([exempelby()], REPO, TID), REDOVISNINGAR, exempelby(), stegen)
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

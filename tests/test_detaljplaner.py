@@ -41,7 +41,10 @@ def sida(projekten: dict | None = None) -> str:
                 dokument(organ, datum, text=text, per_sida="[ok]"), encoding="utf-8"
             )
         stegen = spar.las(fil, exempelby(), data, DETALJPLANER)
-    vy = replace(Vy.over(DETALJPLANER, exempelby(), stegen), projekt=projekten or {})
+    vy = replace(
+        Vy.over(Mall([exempelby()], REPO, TID), DETALJPLANER, exempelby(), stegen),
+        projekt=projekten or {},
+    )
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

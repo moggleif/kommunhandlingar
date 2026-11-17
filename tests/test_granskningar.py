@@ -59,7 +59,7 @@ def las(rader: str) -> list[spar.Steg]:
 
 def sida() -> str:
     stegen = las(RAPPORT + bedomning("inte") + SVAR)
-    vy = Vy.over(GRANSKNINGAR, exempelby(), stegen)
+    vy = Vy.over(Mall([exempelby()], REPO, TID), GRANSKNINGAR, exempelby(), stegen)
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

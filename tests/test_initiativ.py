@@ -118,7 +118,7 @@ class TestAvsandaren(unittest.TestCase):
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(INITIATIV, exempelby(), stegen)
+            vy = Vy.over(Mall([exempelby()], REPO, TID), INITIATIV, exempelby(), stegen)
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_ett_arende_per_rad_med_avsandaren(self):
