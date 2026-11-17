@@ -2237,7 +2237,9 @@ Hur och varför står i
 [ADR-0058](decisions/0058-initiativarenden-foljs-som-lokalbehoven.md).
 En kommun med en fil `initiativ/<kommun>.csv` får en sida
 `<kommun>/<organ>/initiativ.html` för varje organ med rader i filen
-(K37), länkad från organets sida bredvid lokalbehoven. Filen, kontrollen
+(K37), länkad från organets sida bredvid lokalbehoven under fliken
+"Initiativ och motioner", eftersom fullmäktiges motioner följs på samma
+sida som nämndernas initiativärenden. Filen, kontrollen
 och sidan är lokalbehovens ([Lokalbehov](#lokalbehov)), med de här
 skillnaderna:
 

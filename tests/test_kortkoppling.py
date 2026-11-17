@@ -51,7 +51,7 @@ class TestKortkoppling(unittest.TestCase):
     def test_kortet_lankas_och_ar_tolkat_nar_sidan_har_andra_nummer(self):
         lankar = kortlankar(exempelby(), [(INITIATIV, [steg(3), steg(4)])], INDEX)
         adress = "exempelby/fsn/initiativ.html#sak-0"
-        rubrik = "Initiativärenden, Förskole- och skolnämnden: Ny skola"
+        rubrik = "Initiativ och motioner, Förskole- och skolnämnden: Ny skola"
         self.assertEqual(lankar["FSN-2024-1"], [Kortlank(adress, rubrik, False)])
         self.assertEqual(lankar["FSN-2024-3"], [Kortlank(adress, rubrik, True)])
 

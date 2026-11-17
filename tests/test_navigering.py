@@ -145,7 +145,7 @@ class TestNavigering(unittest.TestCase):
         self.assertIn('<a href="exempelby/fsn/initiativ.html">2 ärenden</a>', html)
         self.assertNotIn("exempelby/bun/", html)
         self.assertEqual(html.count('<td class="tom">'), 2)
-        for rubrik in ("Mål och direktiv", "Initiativärenden"):
+        for rubrik in ("Mål och direktiv", "Initiativ och motioner"):
             self.assertIn(f'<th scope="col">{rubrik}</th>', html)
         for rubrik in ("Lokalbehov", "Detaljplaner", "Lokaler och investeringar"):
             self.assertNotIn(f'<th scope="col">{rubrik}</th>', html)
@@ -199,7 +199,7 @@ class TestNavigering(unittest.TestCase):
         html = flikar(self.mall, "exempelby", "fsn", SAMMANTRADEN)
         self.assertIn('href="fsn.html" aria-current="page">Sammanträden', html)
         self.assertIn('href="fsn/mal-och-direktiv.html">Mål och direktiv', html)
-        self.assertIn('href="fsn/initiativ.html">Initiativärenden', html)
+        self.assertIn('href="fsn/initiativ.html">Initiativ och motioner', html)
         self.assertNotIn("lokalbehov", html)
         self.assertLess(html.index("Mål och direktiv"), html.index("Initiativ"))
 
