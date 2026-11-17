@@ -73,14 +73,14 @@ Regler för det här repot, utöver MADR:
 | 0047 | [Alla organ läses ur arkivets Sitevision-kopior, utan att vänta på att konverteringen blir färdig](0047-alla-organ-lases-ur-arkivet.md) | accepted |
 | 0048 | [När samma möte finns ur arkivet från två plattformar vinner dokumentet med högst kvalitet](0048-hogst-kvalitet-vinner-mellan-plattformarna.md) | accepted |
 | 0049 | [Ett mötes filer av samma typ hos Episerver slås ihop till ett dokument, med delarnas adresser och sha256 i front matter](0049-ett-motes-filer-slas-ihop-till-ett-dokument.md) | accepted |
-| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik, 0073 lägger till ett år i taget och en väljare mellan perspektiven) |
+| 0050 | [Målsidan visas som en tidslinje över alla mål och ett kort per mål, med sammandraget överst](0050-malsidan-visas-som-tidslinje-och-malkort.md) | accepted (0051 ger tidslinjen en rad per rubrik, 0073 lägger till ett år i taget och en väljare mellan perspektiven, 0086 ger alla sidor kommunens år) |
 | 0051 | [Tidslinjen visar varje rubrik på en egen rad och markerar nya formuleringar](0051-tidslinjen-visar-varje-rubrik-och-nya-formuleringar.md) | accepted |
 | 0052 | [Nattkörningen öppnar sin PR med en egen token och mergas automatiskt när kontrollerna gått igenom](0052-nattkorningen-mergar-sin-pr-sjalv.md) | accepted |
 | 0053 | [Tidigare sammanträden läses ur poolens mappar och skrivs i kalenderfilen, och listan döljer dem bakom en knapp](0053-tidigare-sammantraden-las-ur-poolens-mappar.md) | accepted |
 | 0054 | [Webbplatsen visar avvikelserna i källan ur de öppna issuen, hämtade när den byggs](0054-avvikelserna-pa-webbplatsen-ur-issuen.md) | accepted |
 | 0055 | [Ett dokument som granskats för hand märks med datumet i `granskad` och konverteras inte om, och två OCR-fel rättas i konverteringen](0055-granskade-dokument-konverteras-inte-om.md) | accepted |
 | 0056 | [Kommunfullmäktiges mål står på en egen målsida, med fokusområdena under sina mål och färgen i källan som bedömning](0056-kommunfullmaktiges-mal-med-fokusomraden-och-farg.md) | accepted |
-| 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | accepted |
+| 0057 | [Lokalbehoven följs steg för steg ur alla organs dokument, i en CSV per kommun, och visas som målsidan](0057-lokalbehoven-foljs-steg-for-steg-ur-alla-organs-dokument.md) | accepted (0086 ger alla sidor kommunens år) |
 | 0058 | [Initiativärendena följs steg för steg som lokalbehoven, med samma kod och avsändaren som värde](0058-initiativarenden-foljs-som-lokalbehoven.md) | accepted |
 | 0059 | [Handlingsplanerna följs steg för steg som initiativärendena, med en länk till själva planen](0059-handlingsplanerna-foljs-som-initiativen.md) | accepted |
 | 0060 | [Kommunens sida blir en översikt över organen och deras sidor, organets sidor får flikar och statusen en egen sida](0060-navigeringen-med-oversikt-och-flikar.md) | accepted |
@@ -96,7 +96,7 @@ Regler för det här repot, utöver MADR:
 | 0070 | [Indexet byggs med webbplatsen som JSON Lines per kommun, med en `llms.txt` som ingång, och checkas inte in](0070-indexet-och-ingangen-byggs-med-webbplatsen.md) | accepted |
 | 0071 | [Protokollen delas per paragraf när webbplatsen byggs, och `arenden` fylls med paragrafernas diarienummer vid konverteringen](0071-protokollen-delas-per-paragraf-vid-bygget.md) | accepted |
 | 0072 | [Partiernas gruppmöten räknas fram ur kommunstyrelsens datum när kalendern byggs, och visas diskret som en vana](0072-gruppmotena-raknas-fram-ur-kommunstyrelsens-datum.md) | accepted |
-| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | accepted |
+| 0073 | [Målsidan får tre perspektiv att välja mellan – tidslinje, ett år i taget och målkort – och valet står i adressen](0073-malsidan-far-tre-perspektiv-att-valja-mellan.md) | accepted (0086 ger alla sidor kommunens år) |
 | 0074 | [Webbplatsen följer läsarens ljusa eller mörka inställning, med en knapp i övre högra hörnet som minns valet](0074-webbplatsen-har-ljust-och-morkt-tema.md) | accepted |
 | 0075 | [Ett dokument får konverteras i högst 30 minuter och blir annars `ej-konverterad` med `fel: tidsgrans`](0075-ett-dokument-far-en-egen-tidsgrans.md) | accepted |
 | 0076 | [Arkivet konverterar om sina egna dokument från en annan version av poolen, efter luckorna](0076-arkivet-konverterar-om-sina-egna-dokument.md) | accepted |
@@ -109,4 +109,5 @@ Regler för det här repot, utöver MADR:
 | 0083 | [Temaknappen står i Giffås sajtrad, och valet gäller på projektets alla sajter](0083-temaknappen-i-giffas-sajtrad.md) | accepted |
 | 0084 | [Handlingar och protokoll är menyns första post, och kalendern har ingen stig](0084-handlingar-och-protokoll-i-menyn.md) | accepted |
 | 0085 | [Lokaler och investeringar, remisser och yttranden och överenskommelser och vårdval blir tre nya slag av spår över tid](0085-lokaler-remisser-och-overenskommelser-som-spar.md) | accepted |
+| 0086 | [Alla sidor över tid visar samma år, från poolens första till innevarande](0086-alla-sidor-over-tid-visar-samma-ar.md) | accepted |
 | 0087 | [Kanten där två fyllda cellrutor möts är en cellgräns](0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md) | accepted |

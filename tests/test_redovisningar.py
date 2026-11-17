@@ -13,6 +13,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import REDOVISNINGAR
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
@@ -33,7 +34,7 @@ RADER = (
 BESTALLNING = re.compile(r"(Redovisning|Utredning|Information)\b")
 
 
-def sida() -> str:
+def steg() -> list:
     with tempfile.TemporaryDirectory() as tmp:
         fil, data = Path(tmp) / "exempelby.csv", Path(tmp) / "data"
         fil.write_text(RUBRIK + RADER, encoding="utf-8")
@@ -43,8 +44,12 @@ def sida() -> str:
             (data / dok).write_text(
                 dokument(organ, datum, text=text, per_sida="[ok]"), encoding="utf-8"
             )
-        stegen = spar.las(fil, exempelby(), data, REDOVISNINGAR)
-    vy = Vy.over(REDOVISNINGAR, exempelby(), stegen)
+        return spar.las(fil, exempelby(), data, REDOVISNINGAR)
+
+
+def sida() -> str:
+    stegen = steg()
+    vy = Vy(REDOVISNINGAR, exempelby(), aren(stegen)["exempelby"])
     return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
 

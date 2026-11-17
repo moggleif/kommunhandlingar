@@ -12,7 +12,8 @@
 
   function passar(mal, val) {
     if (val === "alla") return true;
-    if (val === "aktiv" || val === "bytt") return mal.dataset[val] === "ja";
+    if (val === "aktiv") return mal.dataset.sista === urval.dataset.sista;
+    if (val === "bytt") return mal.dataset.bytt === "ja";
     return mal.dataset.slag.split(" ").indexOf(val) >= 0;
   }
 

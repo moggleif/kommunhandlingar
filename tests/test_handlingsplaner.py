@@ -12,6 +12,7 @@ from kommunhandlingar.webbplats.mall import Mall
 from kommunhandlingar.webbplats.sparkort import Vy
 from kommunhandlingar.webbplats.sparsida import sparsida
 from kommunhandlingar.webbplats.sparslag import HANDLINGSPLANER
+from tests.aren import aren
 from tests.test_mal import ROT
 from tests.test_webbplats import REPO, TID, dokument, exempelby
 
@@ -58,7 +59,7 @@ def lasta():
 class TestSidan(unittest.TestCase):
     def sida(self) -> str:
         with lasta() as stegen:
-            vy = Vy.over(HANDLINGSPLANER, exempelby(), stegen)
+            vy = Vy(HANDLINGSPLANER, exempelby(), aren(stegen)["exempelby"])
             return sparsida(Mall([exempelby()], REPO, TID), vy, stegen)
 
     def test_en_plan_utan_avsandare_far_ingen(self):

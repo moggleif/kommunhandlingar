@@ -38,12 +38,12 @@ def slagen(malen: list[Mal]) -> list[str]:
     return [*andra, malen[-1].slag]
 
 
-def egenskaper(nr: int, malen: list[Mal], ar: range) -> str:
-    aktiv = "ja" if malen[-1].ar == ar[-1] else "nej"
+# Urvalet "Gäller" jämför spårets sista år med målens sista år i skriptet.
+def egenskaper(nr: int, malen: list[Mal]) -> str:
     bytt = "ja" if len(forsta(malen)) > 1 else "nej"
     return (
         f'data-mal="{nr}" data-slag="{" ".join(slagen(malen))}" '
-        f'data-aktiv="{aktiv}" data-bytt="{bytt}"'
+        f'data-sista="{malen[-1].ar}" data-bytt="{bytt}"'
     )
 
 

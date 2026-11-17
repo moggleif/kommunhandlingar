@@ -50,7 +50,7 @@ def kort(nr: int, malen: list[Mal], ar: range, luckor: set[int]) -> str:
     borjan, slut = malen[0].ar, malen[-1].ar
     aren = str(borjan) if borjan == slut else f"{borjan}–{slut}"
     return (
-        f'<article id="mal-{nr}" {egenskaper(nr, malen, ar)}>'
+        f'<article id="mal-{nr}" {egenskaper(nr, malen)}>'
         f'<p class="markor"><span>{" och ".join(slagen(malen))}</span> '
         f"<span>{aren}</span></p>"
         f"<h3>{rubrik(rubriken(malen))}</h3>{tidigare(malen)}{formulering(malen)}"

@@ -1,5 +1,6 @@
-"""Krav: K36, K37, K38 och K46 i docs/02-KRAV.md, ADR-0057, ADR-0058,
-ADR-0059 och ADR-0069. Test: tests/test_lokalbehov.py, tests/test_initiativ.py,
+"""Krav: K36, K37, K38, K46 och K60 i docs/02-KRAV.md, ADR-0057, ADR-0058,
+ADR-0059, ADR-0069 och ADR-0086. Test: tests/test_lokalbehov.py,
+tests/test_initiativ.py, tests/test_arspann.py,
 tests/test_handlingsplaner.py, tests/test_projekt.py.
 
 Ett kort per sak, under tidslinjen, som målkorten: åren, vem som står
@@ -26,14 +27,10 @@ Sak = tuple[str, list[Steg], list[str]]
 class Vy:
     slag: Slag
     kommun: Kommun
+    # Kommunens år (K60).
     ar: range
     # Sakernas projekt på kommunens webbplats, per namn (K46).
     projekt: dict[str, Projekt] = field(default_factory=dict)
-
-    @classmethod
-    def over(cls, slag: Slag, kommun: Kommun, stegen: list[Steg]) -> "Vy":
-        aren = [s.ar for s in stegen]
-        return cls(slag, kommun, range(min(aren), max(aren) + 1))
 
 
 def korten(vy: Vy, sakerna: list[Sak]) -> str:

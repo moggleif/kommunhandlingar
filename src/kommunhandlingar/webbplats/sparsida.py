@@ -16,7 +16,7 @@ from pathlib import Path
 from kommunhandlingar.konfiguration import Kommun
 from kommunhandlingar.webbplats.flikar import flikar
 from kommunhandlingar.webbplats.mall import KALLKOD, Mall, sida
-from kommunhandlingar.webbplats.malsida import SKRIPT, STIL
+from kommunhandlingar.webbplats.malsida import AREN, SKRIPT, STIL
 from kommunhandlingar.webbplats.mandatperiod import kolumner, rubriker
 from kommunhandlingar.webbplats.spar import Slag, Steg
 from kommunhandlingar.webbplats.sparikon import teckenforklaring
@@ -47,7 +47,7 @@ def sparsida(mall: Mall, vy: Vy, stegen: list[Steg]) -> str:
         + f"<style>{STIL.read_text(encoding='utf-8')}"
         f"{EGEN_STIL.read_text(encoding='utf-8')}</style>"
         + slag.inledning
-        + f"<details><summary>Om sidan</summary>{slag.metod}<p>Hur och varför "
+        + f"<details><summary>Om sidan</summary>{slag.metod}{AREN}<p>Hur och varför "
         f'står i <a href="{escape(KALLKOD + BESLUTEN + slag.adr)}">'
         f"ADR-{slag.adr[:4]}</a>.</p></details>"
         + sammandrag(slag, sakerna)
