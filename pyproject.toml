@@ -14,7 +14,7 @@ dependencies = [
   "pypdfium2==5.15.0",
   "pillow==13.0.0",
   # Webbplatsen renderar dokumenten (ADR-0023); testerna prövar texten (ADR-0021).
-  "markdown-it-py==4.2.0",
+  "markdown-it-py==4.3.0",
 ]
 
 [project.optional-dependencies]
