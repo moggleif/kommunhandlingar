@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4caf9626199293fa964480b5/1757503260
 sha256: 483e8d4bb1af6a1b9cc88890634e9999f505be7bd61438ab4e34cf2d56d48d0f
 bytes: 717914
 sidor: 12
-hamtad: 2026-11-08T20:32:49+00:00
-konverterad: 2026-11-08T20:32:53+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T11:14:16+00:00
+konverterad: 2026-11-18T11:14:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -179,14 +179,6 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
-Bokslut Budget Prognos  Budget-  Delår  Delår  Avvikelse
-Miljoner kronor
-2024    2025   2025   avvikelse 2024    2025    delår
-Valnämnden      -1,6    -0,4    -0,4     0,0    -1,4    -0,2     1,2
-
-Periodens
--1,6    -0,4    -0,4     0,0    -1,4    -0,2     1,2
-resultat
 Sammanfattning - text till kommunstyrelsen
 Valnämndens prognos för 2025 bedöms ligga i nivå med fastställd budget. Eftersom 2025 inte är ett valår är
 verksamheten begränsad. Den skillnad som kan noteras jämfört med 2024 förklaras av att val till
@@ -199,6 +191,15 @@ Ingen förändring i prognos.
 6
 
 [Tabell 7-1](handlingar.tabeller/7-1.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Budget-<br>avvikelse | Delår<br>2024 | Delår<br>2025 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Valnämnden | -1,6 | -0,4 | -0,4 | 0,0 | -1,4 | -0,2 | 1,2 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Periodens<br>resultat | -1,6 | -0,4 | -0,4 | 0,0 | -1,4 | -0,2 | 1,2 |
+
+[Tabell 7-2](handlingar.tabeller/7-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

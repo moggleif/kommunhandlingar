@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5fe7e16619c033c26982724/17695862671
 sha256: 09b8979e40ac4701cb5520e85033bd54f63d181d488d760cacac776287a90f80
 bytes: 4476522
 sidor: 54
-hamtad: 2026-11-08T20:33:09+00:00
-konverterad: 2026-11-08T20:33:29+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:14:35+00:00
+konverterad: 2026-11-18T11:14:56+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [40, 41]
 figurer: [12]
 tolkade: []
@@ -365,11 +365,12 @@ Punkt 1 är inte aktuell för valnämnden.
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Efterlevnad till Ja<br>rekryteringsprocessen |
-| --- | --- |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 2 Kommunövergripande risk: Bristande följsamhet Ja<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande risk - Risk för korruption Ja<br>och välfärdsbrottslighet |
-|  | 4 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Efterlevnad till<br>rekryteringsprocessen | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 2 | Kommunövergripande risk: Bristande följsamhet<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning | Ja |
+| Verksamhet |  | 3 | Kommunövergripande risk - Risk för korruption<br>och välfärdsbrottslighet | Ja |
+|  |  | 4 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 <!-- sida 14 -->
 
@@ -405,8 +406,10 @@ Ej aktuell.
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut<br>2024 | Bokslut<br>2025 | Kostnad för<br>verksamhet mnkr<br>Bokslut<br>2024 | Bokslut<br>2025 |
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
 | --- | --- | --- | --- | --- |
+|  | Bokslut<br>2024 | Bokslut<br>2025 | Bokslut<br>2024 | Bokslut<br>2025 |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -844,12 +847,6 @@ Nämndens årsredovisning 2025
 
 Drift (belopp miljoner kronor)
 
-Budgetavvike
-Uppföljningsnivå (belopp i mkr) Bokslut 2024 Budget 2025 Bokslut 2025
-lse 2025
-Valnämnden                       -1,6      -0,4       -0,3       0,1
-Summa                            -1,6      -0,4       -0,3       0,1
-
 Skillnaderna mellan åren beror på om det varit valår samt om nämnden fått mer budget än vad
 grundbehovet kräver.
 Prognossäkerhet 2025
@@ -863,6 +860,13 @@ Inga viten eller rättstvister föreligger.
 5
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
+
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike<br>lse 2025 |
+| --- | --- | --- | --- | --- |
+| Valnämnden | -1,6 | -0,4 | -0,3 | 0,1 |
+| Summa | -1,6 | -0,4 | -0,3 | 0,1 |
+
+[Tabell 29-2](handlingar.tabeller/29-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2025 |
 | --- | --- | --- | --- |
@@ -1485,8 +1489,6 @@ gäller fortfarande att de måste transpor-
 teras till respektive valdistrikt på valdagen,
 vilket kan innebära en omfattande logistisk
 hantering.
-
-Vg
 
 | Vad innebär
 Y förändringen i praktiken?

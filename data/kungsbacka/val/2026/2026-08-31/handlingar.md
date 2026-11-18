@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44cc0f291a01f48d79c72ae4/1787577773
 sha256: c78860563c921fc462edce69e08d6ed9df455d20dbb4f07222b26bab0f817a90
 bytes: 4447743
 sidor: 84
-hamtad: 2026-11-08T20:33:43+00:00
-konverterad: 2026-11-08T20:34:56+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:15:09+00:00
+konverterad: 2026-11-18T11:16:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -812,19 +812,13 @@ Ort och datum (fylls i digitalt)
 
 Kungsbacka 2026-03-13
 
-”Luccolbykrg
 HÅ
 
 Datum |
 
 Underskrift
 
-ff
-
 Underskrift
-
-2772 kJ
-SP MAO
 
 —
 
@@ -835,7 +829,6 @@ Namnförtydligande |
 
 \|
 
-(TONA /) IG Z AA |
 JA
 
 VAL V0180 01
@@ -1971,9 +1964,6 @@ Du får inte ofta e-post från (e-post borttagen). Läs om varför det här är 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
 
-Webbversion | Skicka vidare
-
-Nyhetsbrev  Kommuner
 17 JUNI
 
 Hej!
@@ -1997,6 +1987,13 @@ tillfälle ges. Innan semestern kommer jag att besöka Almedalen för att bland
 annat prata om hur vi skyddar de allmänna valen, val och AI och röstning och
 tillgänglighet - hur man röstar med funktionsnedsättning. Kanske träffar jag
 några av er där? Kom fram och säg hej i så fall, det är alltid så roligt att träffa er
+
+[Tabell 57-1](handlingar.tabeller/57-1.csv)
+
+| Webbversion \| Skicka vidare |  |
+| --- | --- |
+|  |  |
+|  | Nyhetsbrev Kommuner |
 
 <!-- sida 58 -->
 
@@ -2140,10 +2137,6 @@ Till:                  Valnämnden
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
 
-Webbversion | Skicka vidare
-
-Nyhetsbrev  Kommuner
-
 24 JUNI
 
 Hej!
@@ -2161,6 +2154,13 @@ Nu finns korta repetitionsfilmer publicerade för röstmottagare i förtidsröst
 röstmottagare i vallokal och ordförande i vallokal.
 
 Läs hela nyheten på länken >
+
+[Tabell 62-1](handlingar.tabeller/62-1.csv)
+
+| Webbversion \| Skicka vidare |  |
+| --- | --- |
+|  |  |
+|  | Nyhetsbrev Kommuner |
 
 <!-- sida 63 -->
 
@@ -2243,11 +2243,6 @@ Till: Valnämnden \<(e-post borttagen)>
 
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
-De senaste nyheterna från Valmyndigheten
-
-Webbversion | Skicka vidare
-
-Nyhetsbrev  Kommuner
 
 3 JULI
 
@@ -2263,6 +2258,13 @@ Valcentralen >
 Engelska    och  andra   språk  på  val.se
 
 Nu finns en engelskspråkig version av val.se. Vi har också publicerat
+
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| De senaste nyheterna från Valmyndigheten<br>Webbversion \| Skicka vidare |  |
+| --- | --- |
+|  |  |
+|  | Nyhetsbrev Kommuner |
 
 <!-- sida 66 -->
 
@@ -2326,10 +2328,6 @@ Till:                  Valnämnden
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
 
-Webbversion | Skicka vidare
-
-Nyhetsbrev  Kommuner
-
 8 JULI
 
 Hej!
@@ -2349,6 +2347,13 @@ Fyra kommuner kommer genomföra lokala folkomröstningar på valdagen den
 13 september – Leksand, Ljungby, Mark och Tierp.
 
 Läs hela nyheten på länken >
+
+[Tabell 68-1](handlingar.tabeller/68-1.csv)
+
+| Webbversion \| Skicka vidare |  |
+| --- | --- |
+|  |  |
+|  | Nyhetsbrev Kommuner |
 
 <!-- sida 69 -->
 
@@ -2399,10 +2404,6 @@ Till:                  Valnämnden
 Varning: Det här e-postmeddelandet är skickat från en extern adress. Klicka inte på länkar eller
 öppna bifogade filer om du inte känner igen avsändaren och vet att innehållet är säkert.
 
-Webbversion | Skicka vidare
-
-Nyhetsbrev  Kommuner
-
 29 JULI
 
 Hej!
@@ -2422,6 +2423,13 @@ förekommer valsedlar med olika former av fel som uppstått i produktionen. I
 den här nyheten beskriver vi hur dessa ska hanteras.
 
 Läs hela nyheten på länken >
+
+[Tabell 71-1](handlingar.tabeller/71-1.csv)
+
+| Webbversion \| Skicka vidare |  |
+| --- | --- |
+|  |  |
+|  | Nyhetsbrev Kommuner |
 
 <!-- sida 72 -->
 

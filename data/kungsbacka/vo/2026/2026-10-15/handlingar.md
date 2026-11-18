@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.dedd4261a115a113768e09a/17918092512
 sha256: e6a8a6361eb90d92e12caf7e791895decd894c9a81239745a60e16f8c267725d
 bytes: 12160129
 sidor: 360
-hamtad: 2026-11-08T20:22:38+00:00
-konverterad: 2026-11-08T20:26:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:03:41+00:00
+konverterad: 2026-11-18T11:07:46+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [47, 48, 49, 50, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342]
 figurer: [14, 22, 39, 44, 55, 60, 61, 72, 76, 77, 78, 79, 80, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 100, 101, 102, 119, 120, 122, 132, 134, 135, 136, 139, 140, 161, 162, 163, 166, 168, 170, 171, 192, 193, 194, 197, 198, 206, 208, 209, 210, 211, 212, 213, 214, 216, 217, 218, 223, 225, 227, 229, 231, 237, 238, 243, 250, 254, 256, 261, 262, 263, 264, 291, 309, 331, 351]
 tolkade: []
@@ -1944,14 +1944,20 @@ december 2021 att höja minimibeloppet i 8 kap. 7 § socialtjänstlagen. Lagänd
 
 Taxor och avgifter som berörs av det förändrade prisbasbeloppet, PBB, för 2027 visas i tabellen nedan.
 
-Område                               2027  2026         Beräkning
-Förbehållsbelopp ensamstående         7 345 7 296 1,4789 av prisbasbeloppet/12
+Område                                                  Beräkning
+Förbehållsbelopp ensamstående                    1,4789 av prisbasbeloppet/12
 Förbehållsbelopp gifta och sammanboende 5 993 5 953 1,2066 av prisbasbeloppet/12
 
 Förbehållsbelopp ensamstående under 65 år 8 080 8 025 Förhöjt förbehållsbelopp med 10%
 Förbehållsbelopp gifta och sammanboende under 65 år 6 592 6 548 Förhöjt förbehållsbelopp med 10%
 Omsorgsavgift högkostnad (maxtaxa)    2 678 2 660 0,5392\*prisbasbeloppet/12
 Hyra särskilt boende (utanför hyreslagen) 2 751 2 733 0,5539\*prisbasbeloppet/12
+
+[Tabell 52-1](handlingar.tabeller/52-1.csv)
+
+| 2027 | 2026 |
+| --- | --- |
+| 7 345 | 7 296 |
 
 <!-- sida 53 -->
 
@@ -1967,8 +1973,8 @@ Avgift för dagomsorg                   30     30 Maxtaxa / 90
 
 Nyttigheter som räknas upp för 2027, visas i tabellen nedan.
 
-Nyttigheter som uppräknas           2027    2026   Beräkning
-Kostnad för korttidsplats mat           154     149 Helabonnemang/30
+Nyttigheter som uppräknas                          Beräkning
+Kostnad för korttidsplats mat                      Helabonnemang/30
 
 Kostnad för dagomsorg mat/fika           78      76 Uppräknas med Service index
 Helabonnemang mat äldreboende          4 605   4 471 Uppräknas med Service index
@@ -1977,6 +1983,12 @@ Hygienabonnemang inkl moms          150kr/mån 150kr/mån
 Arian Faily                        Emelie Sandberg
 
 Förvaltningschef                   Biträdande Förvaltningschef
+
+[Tabell 53-1](handlingar.tabeller/53-1.csv)
+
+| 2027 | 2026 |
+| --- | --- |
+| 154 | 149 |
 
 <!-- sida 54 -->
 
@@ -8420,7 +8432,7 @@ Sensitive Information (C2)
 
 [Tabell 191-1](handlingar.tabeller/191-1.csv)
 
-| nov dec jan feb mar apr |  |  |  |  |  |  |  |
+|  | nov | dec | jan |  | feb | mar | apr |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Klagomål Ekhaga | 0 | 1 | 0 |  | 0 | 0 | 0 |
 | Klagomål Vickan | 0 | 0 | 1 |  | 0 | 0 | 0 |
@@ -8581,8 +8593,9 @@ Sensitive Information (C2)
 
 [Tabell 195-1](handlingar.tabeller/195-1.csv)
 
-| Område | Hur kontroll<br>genomförts | Resultat / brister | Åtgärder |
+| Område | Hur kontroll | Resultat / brister | Åtgärder |
 | --- | --- | --- | --- |
+|  | genomförts |  |  |
 | Social dokumentation<br>(IBIC) | Stickprov, kollegial<br>granskning | God kvalitet, behov<br>av fortsatt<br>utveckling enligt<br>IBIC | Utbildning, handledning,<br>gemensamma<br>genomgångar |
 | Genomförandeplaner | Uppföljning via<br>journalsystem | Varierande<br>aktualitet | Påminnelsefunktion,<br>förstärkt<br>kontaktmannaskap |
 | Basala hygienrutiner | Observationer,<br>hygienmätningar | Förbättrad<br>följsamhet men<br>fortsatt fokus krävs | Åtgärdsplan, utbildning,<br>hygienombud, uppföljning |

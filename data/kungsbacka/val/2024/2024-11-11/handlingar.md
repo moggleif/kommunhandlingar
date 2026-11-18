@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee12135294a3/1731061735
 sha256: 5615e8b78036d77633146bdbc7e76ec56517860ec12be89799f9379a68876c89
 bytes: 6564326
 sidor: 400
-hamtad: 2026-11-08T20:30:34+00:00
-konverterad: 2026-11-08T20:31:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:12:07+00:00
+konverterad: 2026-11-18T11:13:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -670,75 +670,70 @@ Nämndbudget 2025
 
 8.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Upphandling, policy                                KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2024-04-09 § 60
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
 8.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-
 15
+
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+
+[Tabell 18-19-2](handlingar.tabeller/18-19-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
 
 <!-- sida 19 -->
 
 Valnämnden                                       Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 8.1.3 Styrdokument beslutade av Valnämnden
-
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning för valnämnden               VN 2024-09-09 §29
 
 8.2 Taxa
 
 8.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 16
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning för valnämnden | VN 2024-09-09 §29 |
+
+[Tabell 19-2](handlingar.tabeller/19-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 20 -->
 
@@ -1031,28 +1026,24 @@ Kategori "personal" berör inte valnämnden.
 
 5.2 Risker - Ej till plan
 
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Ekonomi        Kommunövergrip
-ande risk:
-Resurser till                    2. Lindrig
-innovation,                  (uppfattas som
-digitalisering och 2. Mindre vanligt liten av berörda
-omställning till            intressenter och
-nya arbetssätt för             kommunen)
-framtidens
-välfärd
-
 9
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+
+[Tabell 30-31-2](handlingar.tabeller/30-31-2.csv)
+
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 31 -->
 
@@ -1060,12 +1051,6 @@ Valnämnden                                       Kungsbacka kommun
 Intern kontrollplan 2025
 
 10
-
-[Tabell 31-1](handlingar.tabeller/31-1.csv)
-
-| Kategorier<br>Informationssäke<br>rhet,<br>administration,<br>inköp... | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-| --- | --- |
-|  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
 
 <!-- sida 32 -->
 
@@ -4101,17 +4086,13 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
+[Tabell 109-1](handlingar.tabeller/109-1.csv)
 
-| Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
-| --- | --- |
-| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
-| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
-| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
+|  | Utvecklingsråd | Användarforum | Avstämningsmöte | Leverantörsmöte | Avtalsuppföljning | Systemförvaltarforum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |  |  |  |  |  |
+| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |  |  |  |  |  |
+| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |  |  |  |  |  |
 
 <!-- sida 110 -->
 
@@ -4160,6 +4141,14 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
+
+[Tabell 110-1](handlingar.tabeller/110-1.csv)
+
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| --- | --- |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 111 -->
 
@@ -4303,15 +4292,15 @@ och IT-infrastruktur. Det är ett obligatoriskt dokument och ska finnas för sam
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 
-|  | Grundavtal PUB-avtal Förvaltningsplan Uppföljningsrapport Service Level Agreement |
-| --- | --- |
-| Publik tjänst | Nej Nej Nej Nej Nej |
-| Myndighetstjänst | Nej Nej Nej Nej Nej |
-| Kommersiell tjänst | Nej Ja Nej Nej Nej |
-| Digitalt verktyg | Ja Ja Ja Ja Nej |
-| Verksamhetssystem | Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja |
-| IT-infrastruktur | Ja Ja Ja Ja Ja |
+|  | Grundavtal | PUB-avtal | Förvaltningsplan | Uppföljningsrapport | Service Level Agreement |
+| --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Myndighetstjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Kommersiell tjänst | Nej Ja Nej Nej Nej |  |  |  |  |
+| Digitalt verktyg | Ja Ja Ja Ja Nej |  |  |  |  |
+| Verksamhetssystem | Ja Ja Ja Ja Ja |  |  |  |  |
+| Plattform | Ja Ja Ja Ja Ja |  |  |  |  |
+| IT-infrastruktur | Ja Ja Ja Ja Ja |  |  |  |  |
 
 <!-- sida 114 -->
 
@@ -4464,9 +4453,11 @@ Manualer sparas digitalt på Insidan (Sharepoint) och gallras vid inaktualitet.
 
 I tabellen nedan framgår vilka dokument som har en mall i modellen för digitala tjänster och system.
 
-Dokument         Mallens namn
+[Tabell 116-1](handlingar.tabeller/116-1.csv)
 
-Förvaltningsplan Förvaltningsplan mall.docx
+| Dokument | Mallens namn |
+| --- | --- |
+| Förvaltningsplan Förvaltningsplan mall.docx |  |
 
 <!-- sida 117 -->
 
@@ -8697,75 +8688,70 @@ Nämndbudget 2025
 
 8.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Upphandling, policy                                KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2024-04-09 § 60
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
 8.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-
 15
+
+[Tabell 217-1](handlingar.tabeller/217-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+
+[Tabell 217-218-2](handlingar.tabeller/217-218-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
 
 <!-- sida 218 -->
 
 Valnämnden                                       Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 8.1.3 Styrdokument beslutade av Valnämnden
-
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning för valnämnden               VN 2024-09-09 §29
 
 8.2 Taxa
 
 8.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 16
+
+[Tabell 218-1](handlingar.tabeller/218-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning för valnämnden | VN 2024-09-09 §29 |
+
+[Tabell 218-2](handlingar.tabeller/218-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 219 -->
 
@@ -9058,28 +9044,24 @@ Kategori "personal" berör inte valnämnden.
 
 5.2 Risker - Ej till plan
 
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Ekonomi        Kommunövergrip
-ande risk:
-Resurser till                    2. Lindrig
-innovation,                  (uppfattas som
-digitalisering och 2. Mindre vanligt liten av berörda
-omställning till            intressenter och
-nya arbetssätt för             kommunen)
-framtidens
-välfärd
-
 9
 
 [Tabell 229-1](handlingar.tabeller/229-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+
+[Tabell 229-230-2](handlingar.tabeller/229-230-2.csv)
+
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 230 -->
 
@@ -9087,12 +9069,6 @@ Valnämnden                                       Kungsbacka kommun
 Intern kontrollplan 2025
 
 10
-
-[Tabell 230-1](handlingar.tabeller/230-1.csv)
-
-| Kategorier<br>Informationssäke<br>rhet,<br>administration,<br>inköp... | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-| --- | --- |
-|  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
 
 <!-- sida 231 -->
 
@@ -12128,17 +12104,13 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 308-309-1](handlingar.tabeller/308-309-1.csv)
+[Tabell 308-1](handlingar.tabeller/308-1.csv)
 
-| Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
-| --- | --- |
-| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
-| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
-| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
+|  | Utvecklingsråd | Användarforum | Avstämningsmöte | Leverantörsmöte | Avtalsuppföljning | Systemförvaltarforum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |  |  |  |  |  |
+| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |  |  |  |  |  |
+| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |  |  |  |  |  |
 
 <!-- sida 309 -->
 
@@ -12187,6 +12159,14 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
+
+[Tabell 309-1](handlingar.tabeller/309-1.csv)
+
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| --- | --- |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 310 -->
 
@@ -12330,15 +12310,15 @@ och IT-infrastruktur. Det är ett obligatoriskt dokument och ska finnas för sam
 
 [Tabell 312-1](handlingar.tabeller/312-1.csv)
 
-|  | Grundavtal PUB-avtal Förvaltningsplan Uppföljningsrapport Service Level Agreement |
-| --- | --- |
-| Publik tjänst | Nej Nej Nej Nej Nej |
-| Myndighetstjänst | Nej Nej Nej Nej Nej |
-| Kommersiell tjänst | Nej Ja Nej Nej Nej |
-| Digitalt verktyg | Ja Ja Ja Ja Nej |
-| Verksamhetssystem | Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja |
-| IT-infrastruktur | Ja Ja Ja Ja Ja |
+|  | Grundavtal | PUB-avtal | Förvaltningsplan | Uppföljningsrapport | Service Level Agreement |
+| --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Myndighetstjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Kommersiell tjänst | Nej Ja Nej Nej Nej |  |  |  |  |
+| Digitalt verktyg | Ja Ja Ja Ja Nej |  |  |  |  |
+| Verksamhetssystem | Ja Ja Ja Ja Ja |  |  |  |  |
+| Plattform | Ja Ja Ja Ja Ja |  |  |  |  |
+| IT-infrastruktur | Ja Ja Ja Ja Ja |  |  |  |  |
 
 <!-- sida 313 -->
 
@@ -12491,9 +12471,11 @@ Manualer sparas digitalt på Insidan (Sharepoint) och gallras vid inaktualitet.
 
 I tabellen nedan framgår vilka dokument som har en mall i modellen för digitala tjänster och system.
 
-Dokument         Mallens namn
+[Tabell 315-1](handlingar.tabeller/315-1.csv)
 
-Förvaltningsplan Förvaltningsplan mall.docx
+| Dokument | Mallens namn |
+| --- | --- |
+| Förvaltningsplan Förvaltningsplan mall.docx |  |
 
 <!-- sida 316 -->
 
