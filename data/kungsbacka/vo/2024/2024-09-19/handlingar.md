@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.49d36ef2191e50b885087c30/1726492429
 sha256: 9acd019678948dcfef0df259d49e09fa74c579a411e9fe8b4e6baed4bdb086d0
 bytes: 21907192
 sidor: 545
-hamtad: 2026-11-08T19:51:40+00:00
-konverterad: 2026-11-08T19:55:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:30:18+00:00
+konverterad: 2026-11-18T10:34:23+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 190, 191, 192, 193, 194, 195, 196]
-figurer: [1, 51, 58, 60, 63, 65, 66, 73, 75, 77, 79, 84, 89, 105, 113, 114, 116, 119, 121]
+figurer: [1, 51, 58, 60, 63, 65, 66, 73, 75, 77, 79, 84, 89, 105, 113, 114, 116]
 tolkade: []
 granskad: null
 ---
@@ -1390,11 +1390,6 @@ Fokusområde
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man behöver
 stöd för att få livet att fungera"
 
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Personalkontinuitet, antal personal som en
-hemtjänstmottagare möter under 14 dagar, 17,3 17,9 19
-medelvärde, egenregi
 Resultat för 2024 redovisas på helårsbasis; Årsredovisning 2024
 
 2.2.2 Andelen enskilda i våra verksamheter som har en aktuell genomförandeplan ska
@@ -1406,18 +1401,7 @@ Fokusområde
 
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man behöver
 stöd för att få livet att fungera".
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
 
-Andel aktuella genomförandeplaner inom
-\-     89,5 %  98,3 %
-vård- och omsorgsboende, egenregi
-Andel aktuella genomförandeplaner inom
-\-     78,3 %  96,7 %
-hemtjänsten, egenregi
-Andel aktuella genomförandeplaner inom
-\-     84,6 %  77,3 %
-korttidsboende, egenregi
 Resultat för 2024 redovisas på helårsbasis; Årsredovisning 2024
 
 2.3 En hållbar utveckling och en hälsosam miljö
@@ -1433,51 +1417,27 @@ som också skyddar och främjar biologisk mångfald.
 
 7
 
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar,<br>medelvärde, egenregi | 17,3 | 17,9 | 19 |  |  |
+
+[Tabell 32-2](handlingar.tabeller/32-2.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel aktuella genomförandeplaner inom<br>vård- och omsorgsboende, egenregi | - | 89,5 % | 98,3 % |  |  |
+| Andel aktuella genomförandeplaner inom<br>hemtjänsten, egenregi | - | 78,3 % | 96,7 % |  |  |
+| Andel aktuella genomförandeplaner inom<br>korttidsboende, egenregi | - | 84,6 % | 77,3 % |  |  |
+
 <!-- sida 33 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2024
 
-Indikatorer                    Utfall Utfall
-Utfall 2023
-2021    2022
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 88 %  85 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 93 % 90 % 91 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 77 % 72 %  79 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 92 % 93 %  92 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-68 %    65 %    73 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-88 %    85 %    86 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 98 97
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 72,1 84,5
-Startvärde 100, målvärde 2030 är 60.
 2.4 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
@@ -1487,25 +1447,24 @@ mellan näringsliv och utbildning.
 
 8
 
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall 2023 |
+| --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 88 % | 85 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 93 % | 90 % | 91 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 77 % | 72 % | 79 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 93 % | 92 % |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 68 % | 65 % | 73 % |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 88 % | 85 % | 86 % |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 98 | 97 |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 72,1 | 84,5 |  |
+
 <!-- sida 34 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2024
 
-Indikatorer                    Utfall Utfall  Utfall
-2021    2022   2023
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 66 70     67
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,5     3,4     3,4
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
 2.5 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -1542,6 +1501,13 @@ behov av stöd från kommunen med tillsyn under natten får sitt behov tillgodos
 
 9
 
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 |
+
 <!-- sida 35 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
@@ -1557,32 +1523,8 @@ Målet är delvis uppnått genom att vi ser goda effekter av införandet men vi 
 varför inte en större andel av invånare har tillsyn med kamera på natten. Enligt SKR skall 1,5% av de som är
 över 80 år ha tillsyn via kamera för att kommunen skall ha gjort en fullständig implementering.
 
-Indikatorer                    Utfall Utfall  Utfall
-2021    2022   2023
-
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-239     237    236,5
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,6 % 1,7 % 1,7 %
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,7
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 14,3 14,4 14,3
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 67 % 69 % 73 %
-försörjningsstöd (%)
-Kostnad utbetalt ekonomiskt bistånd,
-414     376     325
-kr/invånare (Kolada)
 2.6 Ett medskapande samhälle och öppen attityd
+
 Beslutats av
 Kommunfullmäktige
 
@@ -1597,6 +1539,17 @@ Sammanfattning av nämndens arbete med målet
 Delaktighet och medskapande är en viktig del inom ramen för förvaltningens arbete med ett samhälle i
 
 10
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 239 | 237 | 236,5 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,6 % | 1,7 % | 1,7 % |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. | 7,7 |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 14,3 | 14,4 | 14,3 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 67 % | 69 % | 73 % |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 414 | 376 | 325 |
 
 <!-- sida 36 -->
 
@@ -1669,13 +1622,15 @@ Kommentar på nämndmål
 Sammanfattning av förvaltningens arbete med nämndsmålet sammanfattas ovan under rubriken Sammanfattning
 av nämndens arbete med målet.
 
-Indikatorer                    Utfall Utfall  Utfall
-2021    2022   2023
-Personalomsättning, egenregi  12,6 %  14,1 %  15,1 %
-
 Resultat för 2024 redovisas på helårsbasis, Årsredovisning 2024
 
 12
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- |
+| Personalomsättning, egenregi | 12,6 % | 14,1 % | 15,1 % |
 
 <!-- sida 38 -->
 
@@ -1751,33 +1706,27 @@ kr/inv 65+         7
 Nettokostnadsavvikelse 5,7 % 9,2 % 6,9 %     8 %
 4.2 Prestationsmått
 
-Namn                        Utfall Utfall  Utfall Utfall
-2020    2021   2022   2023
-Antal lägenheter på vård- och
-668     694     694       704
-omsorgsboende
-Antal lägenheter för korttids/växelvård 62 62 62      60
-Beläggningsgrad vård- och
-\-      92 %   97 %      96 %
-omsorgsboende
-Antal timmar hemtjänst     580 297 582 438 537 632 545 404
-Kö till vård- och omsorgsboende 29  20      53        67
-
 4.3 Effektmått
 
-Namn                        Utfall Utfall  Utfall Utfall
-2020    2021   2022   2023
-Brukar personal i hemsjukvården alltid
-96 %     -    -          98 %
-eller oftast bemöta dig på ett bra sätt?
-Andel som sammantaget är mycket eller
-81 %     -    77 %       76 %
-ganska nöjda med sitt särskilda boende.
-Andel som sammantaget är mycket eller
-88 %     -    91 %       91 %
-ganska nöjda med sin hemtjänst.
-
 14
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+|  | Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+|  | Antal lägenheter på vård- och<br>omsorgsboende | 668 | 694 | 694 | 704 |
+|  | Antal lägenheter för korttids/växelvård | 62 | 62 | 62 | 60 |
+|  | Beläggningsgrad vård- och<br>omsorgsboende | - | 92 % | 97 % | 96 % |
+|  | Antal timmar hemtjänst | 580 297 | 582 438 | 537 632 | 545 404 |
+|  | Kö till vård- och omsorgsboende | 29 | 20 | 53 | 67 |
+
+[Tabell 39-2](handlingar.tabeller/39-2.csv)
+
+|  | Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+|  | Brukar personal i hemsjukvården alltid<br>eller oftast bemöta dig på ett bra sätt? | 96 % | - | - | 98 % |
+|  | Andel som sammantaget är mycket eller<br>ganska nöjda med sitt särskilda boende. | 81 % | - | 77 % | 76 % |
+|  | Andel som sammantaget är mycket eller<br>ganska nöjda med sin hemtjänst. | 88 % | - | 91 % | 91 % |
 
 <!-- sida 40 -->
 
@@ -5274,48 +5223,6 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 3.1.1 Lokalbehov Vård och omsorgsboende
 
-Beskrivning                       Budget Plan Plan Plan Plan Plan
-Löpnr                    Kategorisera
-2025  2026 2027 2028 2029 2030
-Anneberg vård och     Volymökningar
-807                                                      80
-omsorgsboende       befintlig plats
-Bukärrsgården vård och Volymökningar
-808                                     X
-omsorgsboende avveckling hyra befintlig plats
-Reservkraft 11 st vård och
-811 omsorgsboende       Strukturomvandlingar, X X X
-besparingsmöjligheter
-Administrativ lokal
-813 Omsorgenshus avveckling Strukturomvandlingar, X
-besparingsmöjligheter
-Hemtjänst Sjöallén 9F
-814 ersättningslokal    Strukturomvandlingar, X
-besparingsmöjligheter
-Hemtjänst Sjöallén 9F
-815 avveckling lokal    Strukturomvandlingar, X
-besparingsmöjligheter
-Signeshus vård och    Volymökningar
-816                                    100
-omsorgsboende       befintlig plats
-Ekhaga vård och
-817 omsorgsboende       Strukturomvandlingar, X
-besparingsmöjligheter
-Ekhaga ersättning/avveckling
-818 verksamhetslokal Hsv Strukturomvandlingar, X
-besparingsmöjligheter
-Enhetligt låssystem vård och
-omsorgsboenden      Strukturomvandlingar, X
-besparingsmöjligheter
-Digitala Trygghetslarm vård och
-omsorgsboenden      Strukturomvandlingar, X
-besparingsmöjligheter
-Bygga ut wifi och data på vård Volymökningar
-X
-och omsorgsboende   befintlig plats
-Anslutningspunkt nödvatten
-vård och omsorgsboenden Strukturomvandlingar, X
-besparingsmöjligheter
 Noter KF beslutade lokalbehov.
 Lokalbehov som har ett löpnummer är KF beslutade och, har upprättad Behovsbeskrivning sedan
 tidigare. Behovsbeskrivning för om- och nybyggnation av vård och omsorgsboende utgörs av
@@ -5325,6 +5232,26 @@ Koncepthandling.
 kommunen. Samordnas med projekt 226, Anneberg förskola, samt med projekt 144 Bibliotek i
 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 11
+
+[Tabell 119-1](handlingar.tabeller/119-1.csv)
+
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+| 807 | Anneberg vård och<br>omsorgsboende | Volymökningar<br>befintlig plats |  |  |  |  | 80 |  |
+| 808 | Bukärrsgården vård och<br>omsorgsboende avveckling hyra | Volymökningar<br>befintlig plats | X |  |  |  |  |  |
+| 811 | Reservkraft 11 st vård och<br>omsorgsboende | Strukturomvandlingar,<br>besparingsmöjligheter | X | X | X |  |  |  |
+| 813 | Administrativ lokal<br>Omsorgenshus avveckling | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+| 814 | Hemtjänst Sjöallén 9F<br>ersättningslokal | Strukturomvandlingar,<br>besparingsmöjligheter | X |  |  |  |  |  |
+| 815 | Hemtjänst Sjöallén 9F<br>avveckling lokal | Strukturomvandlingar,<br>besparingsmöjligheter | X |  |  |  |  |  |
+| 816 | Signeshus vård och<br>omsorgsboende | Volymökningar<br>befintlig plats | 100 |  |  |  |  |  |
+| 817 | Ekhaga vård och<br>omsorgsboende | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+| 818 | Ekhaga ersättning/avveckling<br>verksamhetslokal Hsv | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+|  | Enhetligt låssystem vård och<br>omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+|  | Digitala Trygghetslarm vård och<br>omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+|  | Bygga ut wifi och data på vård<br>och omsorgsboende | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
+|  | Anslutningspunkt nödvatten<br>vård och omsorgsboenden | Strukturomvandlingar,<br>besparingsmöjligheter |  | X |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 120 -->
 
@@ -5410,13 +5337,6 @@ Service monterad anslutningspunkt 2024. (Utredning finns sekretessmarkerad i Cic
 3.1.2 Utblicksår 2031-2035
 
 Tabell
-Löp Beskrivning                      Plan   Plan Plan  Plan  Plan
-Kategorisera
-nr                                   2031  2032  2033  2034  2035
-
-Nytt vård och omsorgsboende Volymökningar
-X                80
-befintlig plats
 
 3.2 Administrativa lokaler
 För att nämnden ska tillgodose kommunens lagstadgade skyldigheter behöver förvaltningen arbeta
@@ -5438,6 +5358,15 @@ byggas i Kungsbacka stad. I översiktsplanen anges även att kommunen kommer att
 övriga två stationsorter, Anneberg och Åsa. I utvecklings orterna kommer större delen av
 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 13
+
+[Tabell 121-1](handlingar.tabeller/121-1.csv)
+
+| Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  | Nytt vård och omsorgsboende | Volymökningar<br>befintlig plats | X |  |  | 80 |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 122 -->
 
@@ -5462,8 +5391,10 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 14
 
 [Tabell 122-1](handlingar.tabeller/122-1.csv)
 
-| Löpnr | Beskrivning<br>Verksamhetslokal för<br>Hemsjukvård IF i centrala<br>Kungsbacka med tillhörande<br>tjänstebilsparkering och<br>laddstolpar. | Kategorisera<br>Volymökningar<br>befintlig plats | Budget<br>2025 | Plan<br>2026<br>X | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  | Verksamhetslokal för<br>Hemsjukvård IF i centrala<br>Kungsbacka med tillhörande<br>tjänstebilsparkering och<br>laddstolpar. | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
 |  | Ersättande verksamhetslokal för<br>Kullavik Hemtjänst med<br>tillhörande parkeringsplatser<br>med laddstolpar för tjänstebilar | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
 |  | Verksamhetslokal digital<br>Hemtjänst och Hemsjukvård | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
 |  | Centralförråd grundutrustning<br>Hjälpmedel | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
@@ -5650,7 +5581,8 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 5
 | Vård- och<br>omsorgsboende | Antal<br>lägenheter | Inriktning | Antal<br>lägenheter<br>korttidsboende/<br>växelvård | Lägenheter<br>möjliga för<br>parboende |
 | --- | --- | --- | --- | --- |
 | Bedagården våbo | 27 | 27 demens |  |  |
-| Björkris våbo | 120 | 60 demens<br>60 somatik | 1 g e ropsykiatri<br>korttid | 1, möjlig via<br>anpassning |
+| Björkris våbo | 120 | 60 demens<br>60 somatik | 1 g e ropsykiatri | 1, möjlig via |
+|  |  |  | korttid | anpassning |
 | Blåvingevägen<br>våbo | 62 | 30 demens<br>32 somatik |  | 2 |
 | Ekhaga våbo | 94 | 10 demens<br>84 somatik |  | 17 |
 | Kolla våbo | 71 | 24 demens<br>47 somatik |  | 3 |
@@ -5658,9 +5590,14 @@ Lokalbehov 2025–2029, utblicksår 2030-2034 5
 | Måhaga våbo | 58 | 32demens<br>26 somatik |  |  |
 | Sandlyckan våbo | 60 | 40 demens<br>20 somatik |  |  |
 | Signeshus våbo | Tillfälligt stängt<br>för<br>ombyggnation |  |  |  |
-| Smedjans<br>korttids/växelvård | 50 |  | 25 somatik korttid<br>20 demens korttid<br>5 växelvård<br>demens |  |
+| Smedjans<br>korttids/växelvård | 50 |  | 25 somatik korttid |  |
+|  |  |  | 20 demens korttid |  |
+|  |  |  | 5 växelvård |  |
+|  |  |  | demens |  |
 | Särö våbo | 80 | 60 demens<br>20 somatik |  |  |
-| Vickan våbo | 40 | 20 demens<br>10 somatik | 3 somatik korttid<br>7 somatik<br>växelvård |  |
+| Vickan våbo | 40 | 20 demens<br>10 somatik | 3 somatik korttid |  |
+|  |  |  | 7 somatik |  |
+|  |  |  | växelvård |  |
 | Åsa våbo | 60 | 49 demens<br>11 somatik |  | 2 |
 
 <!-- sida 130 -->
@@ -5951,8 +5888,6 @@ KUNGSBACKA KOMMUN
 Förvaltningschef Vård & Omsorg
 Arian Faily
 
-Y ) NV VA 4 AR
-
 <!-- sida 138 -->
 
 BEHOVSBESKRIVNING DIGITALA TRYGGHETSLARM PÅ VÅRD
@@ -6142,8 +6077,6 @@ Nidingden—
 
 Förvaltningschef Vård & Omsorg
 Arian Faily
-
-hy vy P— oa
 
 <!-- sida 142 -->
 
@@ -6874,8 +6807,6 @@ Nidingen —
 Förvaltningschef Vård & Omsorg
 Arian Faily
 
-Wu Y/n
-
 <!-- sida 156 -->
 
 BEHOVSBESKRIVNING ERSÄTTNINGSLOKAL ELLER
@@ -6965,10 +6896,6 @@ Inom varje distrikt finns verksamhetsenheter för hemsjukvård.
 
 Kullavik
 lemtjaänst
-
-. N 6 | Ned
-6 Må arg NN FNS ERA NER
-Vallda. IRL I I pFjärås
 
 hemtjänst  — hemtjänst
 f ” cg
@@ -7316,8 +7243,6 @@ Nidinden
 Förvaltningschef Vård & Omsorg
 Arian Faily
 
-fr
-
 <!-- sida 164 -->
 
 BEHOVSBESKRIVNING VERKSAMHETSLOKAL FÖR DIGITAL
@@ -7622,8 +7547,6 @@ Arian Faily 2
 )
 
 [( 7 SZ
-
-IN ] ) | ) VA
 
 <!-- sida 169 -->
 
@@ -7941,8 +7864,6 @@ FP
 
 Förvaltningschef Vård & Omsorg
 Arian Faily
-
-Y vv
 
 <!-- sida 175 -->
 
@@ -8290,12 +8211,9 @@ irtskär
 
 Nidingen—
 C I
-137
 
 Förvaltningschef Vård & Omsorg
 Arian Faily
-
-Yvwv ff
 
 <!-- sida 182 -->
 
@@ -8648,8 +8566,6 @@ Nidingen L
 
 Förvaltningschef Vård & Omsorg
 Arian Faily
-
-ma
 
 <!-- sida 189 -->
 

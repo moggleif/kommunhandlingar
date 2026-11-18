@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.33ee11921959c11f9ef315aa/1742217930
 sha256: fcfe910dec9082ddc585d3d99943c29f73cfb595e731ee98bdb992fbe194133d
 bytes: 31427364
 sidor: 180
-hamtad: 2026-11-08T19:59:12+00:00
-konverterad: 2026-11-08T20:03:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+hamtad: 2026-11-18T10:37:35+00:00
+konverterad: 2026-11-18T10:41:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168]
 figurer: []
 tolkade: []
@@ -3772,8 +3772,6 @@ omsorgsboendet utan skriftligt tillstånd från beställaren.
 
 Sida 7/28
 
-la
-
 <!-- sida 76 -->
 
 Driftentreprenad Vickan vård- och omsorgsboende 19/119:1
@@ -4085,8 +4083,6 @@ Juldagen
 Annandag jul
 
 Sida 12/28
-
-IM
 
 <!-- sida 81 -->
 
@@ -4683,11 +4679,8 @@ bästa i fokus och med minsta möjliga störning i de enskildas dagliga liv och 
 
 Sida 23/28
 N
-N
 
 f
-
-Maa
 
 <!-- sida 92 -->
 
@@ -4903,7 +4896,6 @@ Sida 27/28
 
 VÄN
 TA AA
-MES fa ÅA
 
 <!-- sida 96 -->
 
@@ -4918,7 +4910,6 @@ Köpare Säljare
 Kungsbacka kommun Vardaga Äldreomsorg AB
 2120001256 5565736450
 Ort / datum Ort / datum
-Los packka 2008-20 Sanz 20 -0€-20
 A
 Underskrift
 | /
@@ -4926,7 +4917,6 @@ Namnförtydligande | 5 / Namnförtydligande
 va Apel Å Lsa N(NAEISSON Fredrik Gren
 Befattning Dj Befattning
 : jo fe pe
-j Sf ae SA 6 Å Cd VET FIP C UN
 z
 
 Sida 28/28
@@ -5014,7 +5004,7 @@ För Vardagas uppdrag avseende vård- och omsorgsboendet ”Ekhaga” har Parter
 uppdrag som däri särskilt angivits (”Driftentreprenadsavtal 4").
 
 Parterna har under år 2021 fört diskussioner om Vardagas utförande av uppdragen enligt
-Driftentreprenadavtal 1, — Driftentreprenadavtal 2, — Driftentreprenadavtal 3 och
+Driftentreprenadavtal 1,  Driftentreprenadavtal 2, — Driftentreprenadavtal 3 och
 Driftentreprenadavtal 4 (härefter gemensamt ”Driftentreprenadsavtalen”). Mot bakgrund av de
 diskussioner som Parterna har fört har Parterna kommit överens om att lägga diskussionerna
 bakom sig och att ingå detta Avtal med de villkor som framgår av nedan.
@@ -5088,8 +5078,6 @@ Ort och datum
 
 KUNGSBACKA KOMMUN VARDAGA ÄLDREOMSORG AB
 
-7
-é 2 Ulla Tausevl
 va - lr JIAuseU
 Hravn Forsne Ulla Tansen d
 Ordförande nämnden för Vård & Omsorg VD Vardaga Äldreomsorg AB
@@ -6870,8 +6858,6 @@ lokaler.
 
 Sida 1/31 2?
 
-lea
-
 <!-- sida 136 -->
 
 Driftentreprenad Ekhaga vård- och omsorgsboende 19/119:2
@@ -7955,8 +7941,6 @@ Sida 22/31
 
 A
 
-Maa
-
 <!-- sida 157 -->
 
 Driftentreprenad Ekhaga värd- och omsorgsboende 19/119:2
@@ -8069,8 +8053,6 @@ Fakturering ska ske månadsvis i efterskott.
 Utföraren ska bifoga detaljerat debiteringsunderlag till faktura, med belagda platser per dag.
 
 Sida 24/31
-
-MN
 
 <!-- sida 159 -->
 
@@ -8406,6 +8388,39 @@ Sida 30/31
 
 <!-- sida 165 -->
 
+Driftentreprenad Ekhaga vård- och omsorgsboende
+
+Detta avtal har upprättats i två likalydande exemplar, varav parterna har tagit var sitt.
+Bindande avtal föreligger när båda parter undertecknat detta avtal.
+
+Underskrift av behörig avtalstecknare:
+
+Köpare Säljare
+
+Kungsbacka kommun Vardaga Äldreomsorg AB
+2120001256 5565736450
+
+Ort / datum Ort / datum
+
+Underskrift / NV Undejfskrift /”)
+
+Namnförtydligande
+
+Kg)
+
+Namnförtydligande / Ja /
+-— 4 4 O > /) / PE 4
+
+\- C Fredrik Gren
+
+Befattning
+
+Befattning / f |
+
+Sida 31/31
+
+19/119:2
+
 <!-- sida 166 -->
 
 Slutligt 2022-03-15
@@ -8489,7 +8504,7 @@ För Vardagas uppdrag avseende vård- och omsorgsboendet ”Ekhaga” har Parter
 uppdrag som däri särskilt angivits (”Driftentreprenadsavtal 4").
 
 Parterna har under år 2021 fört diskussioner om Vardagas utförande av uppdragen enligt
-Driftentreprenadavtal 1, — Driftentreprenadavtal 2, — Driftentreprenadavtal 3 och
+Driftentreprenadavtal 1,  Driftentreprenadavtal 2, — Driftentreprenadavtal 3 och
 Driftentreprenadavtal 4 (härefter gemensamt ”Driftentreprenadsavtalen”). Mot bakgrund av de
 diskussioner som Parterna har fört har Parterna kommit överens om att lägga diskussionerna
 bakom sig och att ingå detta Avtal med de villkor som framgår av nedan.
@@ -8563,8 +8578,6 @@ Ort och datum
 
 KUNGSBACKA KOMMUN VARDAGA ÄLDREOMSORG AB
 
-7
-é 2 Ulla Tausevl
 va - lr JIAuseU
 Hravn Forsne Ulla Tansen d
 Ordförande nämnden för Vård & Omsorg VD Vardaga Äldreomsorg AB
@@ -8619,11 +8632,11 @@ www.kungsbacka.se
 
 [Tabell 169-1](handlingar.tabeller/169-1.csv)
 
-| 2024 | 2025 |
-| --- | --- |
-| Omsorg per timme 496 | 521 |
-| Service per timme 453 | 476 |
-| OPI 4,6% | 5,0% |
+|  | 2024 | 2025 |
+| --- | --- | --- |
+| Omsorg per timme | 496 | 521 |
+| Service per timme | 453 | 476 |
+| OPI | 4,6% | 5,0% |
 
 <!-- sida 170 -->
 
