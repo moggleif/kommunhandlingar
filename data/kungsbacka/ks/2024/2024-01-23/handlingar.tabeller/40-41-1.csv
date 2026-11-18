@@ -1,0 +1,35 @@
+BAS,Befattning,"Antal
+anställningar","Medianlön
+kvinna","Andel
+kvinnor",BAS,Befattning,"Antal
+anställningar","Medianlön
+man",Andel män,"Differens
+medianlön
+i procent"
+C,Dagbarnvårdare,10,28 250,100 %,B,IT-tekniker,9,31 355,89 %,90
+C,Dagbarnvårdare,10,28 250,100 %,B,Vaktmästare,5,31 425,80 %,90
+C,Omsorgsbiträde,12,27 700,75 %,B,IT-tekniker,9,31 355,89 %,88
+C,Omsorgsbiträde,12,27 700,75 %,B,Vaktmästare,5,31 425,80 %,88
+D,Äldrekonsulent,10,29 450,90 %,C,Anläggningstekn,10,34 325,100 %,86
+D,Äldrekonsulent,10,29 450,90 %,C,IT-tekniker supp,12,33 000,92 %,89
+E,Bibliotekarie Skola,6,32 994,100 %,D,Instruktör,11,38 288,91 %,86
+E,Lärare Modersmål,18,32 100,72 %,D,Instruktör,11,38 288,91 %,84
+E,Lärare Modersmål,18,32 100,72 %,D,Teatertekniker,5,35 500,80 %,90
+E,Ungd.konsulent,21,32 000,62 %,D,Instruktör,11,38 288,91 %,84
+E,Ungd.konsulent,21,32 000,62 %,D,Teatertekniker,5,35 500,80 %,90
+F,Arbetsmarkn.sekr,15,36 850,80 %,E,Arbetsledare,8,41 100,88 %,90
+F,Bibliotekarie,31,33 980,84 %,D,Instruktör,11,38 288,91 %,89
+F,Bibliotekarie,31,33 980,84 %,E,Arbetsledare,8,41 100,88 %,83
+F,Fritidspedagog,36,36 525,61 %,E,Arbetsledare,8,41 100,88 %,89
+F,Lärare Förskola,457,37 000,98 %,E,Arbetsledare,8,41 100,88 %,90
+F,Socialpedagog,9,34 225,67 %,D,Instruktör,11,38 288,91 %,89
+F,Socialpedagog,9,34 225,67 %,E,Arbetsledare,8,41 100,88 %,83
+F,Stud o yrkesväg,23,37 000,96 %,E,Arbetsledare,8,41 100,88 %,90
+G,Familjebehandlare,35,39 400,71 %,F,Fastighetsförvalt,6,43 700,83 %,90
+G,Metodutvecklare,21,38 800,86 %,F,Fastighetsförvalt,6,43 700,83 %,89
+G,Planerare,5,36 025,80 %,E,Arbetsledare,8,41 100,88 %,88
+G,Planerare,5,36 025,80 %,F,Fastighetsförvalt,6,43 700,83 %,82
+G,Planerare,5,36 025,80 %,F,IT-tekniker spec,7,41 200,100 %,87
+G,Planerare,5,36 025,80 %,F,Projekt.ing,7,40 100,71 %,90
+G,Planerare,5,36 025,80 %,F,Systemutvecklare,5,41 200,60 %,87
+G,Restaurangchef,9,39 050,89 %,F,Fastighetsförvalt,6,43 700,83 %,89
