@@ -1,8 +1,10 @@
-Kategorier,Nr Risker Vad kan gå fel?,"Sanno-
-likhet","Konse- Risk-
-kvens färg","Risk-
-värde","Till Anledning till att Övrig kommentar
-plan risk ej tas till plan"
+Kategorier,Nr,Risker,Vad kan gå fel?,"Sanno-
+likhet","Konse-
+kvens","Risk-
+färg","Risk-
+värde","Till
+plan","Anledning till att
+risk ej tas till plan",Övrig kommentar
 Personal,"1 Risk att Förvaltningen saknar
 förvaltningen personal med
 saknar personal rätt/tillräcklig kompetens
@@ -24,7 +26,7 @@ Förvaltningen når inte
 sina mål för
 verksamheten. Beroende
 av konsulter vilket kan
-leda till höga kostnader.","2.
+leda till höga kostnader.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -36,7 +38,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Risken hanteras Risken har med lite
@@ -44,37 +46,37 @@ inom ramen för olika fomuleringar
 verksamhets- funnits med sedan
 planering och 2021
 kompetens-
-försörjning."
+försörjning.",,
 ,"2 Risk att Risk för felaktiga beslut,
 introduktion av nya felaktigt utlämnande av
 medarbetare inte handling, risk för
-fungerar som tänkt. förtroendeskada","2.
+fungerar som tänkt. förtroendeskada",,,"2.
 Mindre
 vanligt","3.
 Kännbar
 (uppfatta
-s som","Risk
+s som",,"Risk
 bör
 åtgärd
 as","Nej Det finns
 fungerande
 checklistor och
-rutiner, ingen"
-,,,"besvära
+rutiner, ingen",,
+,,,,,"besvära
 nde för
 berörda
 intresse
 nter och
 kommun
-en)",,"prioriterad risk till
-2025."
+en)",,,"prioriterad risk till
+2025.",,
 ,"3 Kommunövergripan Nya spelregler
 de risk: Resurs- (Arbetstidsdirektivet etc.)
 och kompetensbrist för resursplanering och
 schemaläggning medför
 ökat behov av resurser
 och eller omställning till
-nya arbetssätt.","2.
+nya arbetssätt.",,,"2.
 Mindre
 vanligt","2.
 Lindrig
@@ -85,7 +87,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Arbetstidsdirektivet Risk sedan 2024.
@@ -93,12 +95,12 @@ inte aktuell risk för Ingen gemensam
 Bygg & Miljö. granskningspunkt. Tas
 upp av nämnderna där
 det är relevant för
-egna verksamheten."
+egna verksamheten.",,
 ,"4 Kommunövergripan Risk för otillräcklig
 de risk: Efterlevnad referenstagning, risk för
 till felaktiga uppgifter om
 rekryteringsproces personer, risk att fel
-sen personer anställs.","2.
+sen personer anställs.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -110,10 +112,10 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
-as",Ja Ny risk 2025
+as",Ja Ny risk 2025,,
 Ekonomi,"5 Kommunövergripan Fel i redovisningen kan
 de risk: leda till svårigheter att
 Grundläggande digitalisera, felaktiga
@@ -123,7 +125,7 @@ Nationella jämförelser blir
 missvisande och fel
 fördelningar enligt
 nationella
-fördelningssystem .","3.
+fördelningssystem .",,,"3.
 Vanligt","2.
 Lindrig
 (uppfatta
@@ -133,7 +135,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Omhändertas inom Risk sedan 2024.
@@ -143,4 +145,4 @@ uppföljning. upp av nämnderna där
 Granskning av det är relevant för den
 kontering görs egna verksamheten.
 löpande under
-året."
+året.",,

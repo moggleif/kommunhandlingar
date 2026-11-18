@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.200e637a19913f2eef1261e2/1757077571
 sha256: f8b1bb2d0a92b07e6a36077aa6dc7ec14a9bed95e21a0778192164c295b8b2ca
 bytes: 273703
 sidor: 6
-hamtad: 2026-11-08T19:34:53+00:00
-konverterad: 2026-11-08T19:34:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T10:06:43+00:00
+konverterad: 2026-11-18T10:06:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -181,18 +181,10 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
-Bokslut Budget Prognos  Budget-  Delår   Delår Avvikelse
-Miljoner kronor
-2024    2025    2025  avvikelse 2024    2025    delår
-Nämnden för
-Miljö &         -0,8    -1,0    -1,0     0,0    -0,6    -0,7    -0,1
-Hälsoskydd
-Periodens
--0,8    -1,0    -1,0     0,0    -0,6    -0,7    -0,1
-resultat
 Sammanfattning - text till kommunstyrelsen
 Från och med 1 januari 2020 har nämnden för Miljö & Hälsoskydd endast budgetansvar för nämndens egen
 driftsbudget, 1,0 miljoner kronor. Prognosen per augusti visar att nämnden har en budget i balans för 2025.
+
 Analys och kommentarer - text till nämnden
 Förändring helårsprognos
 
@@ -202,6 +194,13 @@ Prognosen för helåret är oförändrad jämfört med uppföljningen per april.
 5
 
 [Tabell 6-1](handlingar.tabeller/6-1.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Budget-<br>avvikelse | Delår<br>2024 | Delår<br>2025 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nämnden för<br>Miljö &<br>Hälsoskydd | -0,8 | -1,0 | -1,0 | 0,0 | -0,6 | -0,7 | -0,1 |
+| Periodens<br>resultat | -0,8 | -1,0 | -1,0 | 0,0 | -0,6 | -0,7 | -0,1 |
+
+[Tabell 6-2](handlingar.tabeller/6-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

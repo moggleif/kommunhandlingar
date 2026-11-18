@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5ea575a19367eedc86179a1/17328684636
 sha256: ad43ce3acb93c223b883eb1d261576457cb327b7664b5af90412b34ac02dc8a3
 bytes: 3693178
 sidor: 155
-hamtad: 2026-11-08T19:33:25+00:00
-konverterad: 2026-11-08T19:33:57+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:05:07+00:00
+konverterad: 2026-11-18T10:05:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -530,42 +530,44 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 14-21-2](handlingar.tabeller/14-21-2.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Risken hanteras<br>förvaltningen (uppfattas som inom ramen för<br>saknar personal besvärande för verksamhets-<br>2. Mindre vanligt<br>med berörda planering och<br>rätt/tillräcklig intressenter och kompetens-<br>kompetens kommunen) försörjning. |
-| --- | --- |
-|  | Risk att 3. Kännbar Det finns<br>introduktion av (uppfattas som fungerande<br>nya medarbetare besvärande för checklistor och<br>2. Mindre vanligt<br>inte fungerar som berörda rutiner, ingen<br>tänkt. intressenter och prioriterad risk till<br>kommunen) 2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 2. Lindrig Arbetstidsdirektivet<br>övergripande (uppfattas som inte aktuell risk för<br>risk: Resurs- och 2. Mindre vanligt liten av berörda Bygg & Miljö.<br>kompetensbrist intressenter och<br>kommunen) |
-| Ekonomi | Kommun- Omhändertas inom<br>övergripande ramen för ordinarie<br>2. Lindrig<br>risk: verksamhet-<br>(uppfattas som<br>Grundläggande suppföljning.<br>3. Vanligt liten av berörda<br>redovisning Granskning av<br>intressenter och<br>kvalitetsbrister kontering görs<br>kommunen)<br>löpande under<br>året. |
-|  | Kommun- Risken<br>övergripande omhändertas inom<br>risk: Resurser till 2. Lindrig ordinarie<br>innovation, (uppfattas som verksamhets-<br>digitalisering och 2. Mindre vanligt liten av berörda planering och<br>omställning till intressenter och uppföljning.<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
-|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>3. Kännbar<br>kundfakturor gemensam risk<br>(uppfattas som<br>"Debiteringsrutiner<br>besvärande för<br>3. Vanligt " har genomförts<br>berörda<br>under 2022-2023<br>intressenter och<br>med goda resultat.<br>kommunen)<br>Inte prioriterat för<br>granskning 2025. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk att Denna risk har<br>delegations- funnits med sedan<br>ordning inte följs 2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>3. Kännbar övergripande risk<br>(uppfattas som 2022-2023.<br>besvärande för Granskningarna av<br>2. Mindre vanligt<br>berörda stickprov som<br>intressenter och gjorts har inte visat<br>kommunen) på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att 3. Kännbar Utbildningsinsatser<br>diarieföring inte (uppfattas som har genomförts.<br>sker korrekt besvärande för Inte prioriterat för<br>2. Mindre vanligt<br>berörda granskning 2025.<br>intressenter och<br>kommunen) |
-|  | Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning i intern<br>obehöriga kontroll 2025.<br>händer. |
-|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>4. Allvarlig/stor<br>krasch av förvaltningens<br>inverkan (så stor<br>verksamhets- 2. Mindre vanligt ordinarie<br>att den inte får<br>system säkerhetsarbete.<br>inträffa)<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
-|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>3. Kännbar<br>hantering av<br>(uppfattas som<br>känsliga<br>besvärande för<br>2. Mindre vanligt personuppgifter,<br>berörda<br>dessa ska inte<br>intressenter och<br>lagras i<br>kommunen)<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig hanteras inom<br>3. Kännbar<br>hantering i ramen för risken<br>(uppfattas som<br>enskilda ärenden om<br>besvärande för<br>på grund av 2. Mindre vanligt välfärdsbrottslighet<br>berörda<br>förfalskade och korruption.<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
-|  | Utlämnande av En omfattande<br>handlingar sker utbildningsinsats<br>inte enligt rutiner har genomförts för<br>3. Kännbar registraturen under<br>(uppfattas som 2020-2022. Arbete<br>besvärande för pågår med nya<br>2. Mindre vanligt<br>berörda arbetssätt där<br>intressenter och kunden själv kan<br>kommunen) hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Hänvisning av Ingår i<br>mail och telefon "vardagsrutinerna".<br>görs inte vid Påminnelser och<br>2. Lindrig<br>frånvaro information om<br>(uppfattas som<br>rutiner publiceras<br>2. Mindre vanligt liten av berörda<br>på intranätet<br>intressenter och<br>"Insidan" inför<br>kommunen)<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Kommun- Omhändertas inom<br>övergripande ramen för<br>risk: förvaltningens<br>informations- informations-<br>säkerhet; skydd säkerhetsarbete.<br>av information Inte prioriterat för<br>mot obehörig granskning 2025.<br>tillgång Se verksamhet-<br>3. Kännbar sriskerna "Risk för<br>(uppfattas som intrång, obehörig<br>besvärande för åtkomst eller<br>2. Mindre vanligt<br>berörda avslöjad sekretess<br>intressenter och på grund av stöld<br>kommunen) och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- Förvaltningens<br>övergripande verksamhetssyste<br>risk: It-säkerhet m EDP Vision och<br>- Bristande ByggR driftas<br>driftmiljö hos internt av digitalt<br>3. Kännbar<br>leverantörer center inte hos<br>(uppfattas som<br>externa<br>besvärande för<br>2. Mindre vanligt leverantörer. De<br>berörda<br>risker som trots allt<br>intressenter och<br>finns hanteras<br>kommunen)<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
-| Verksamhet | Risk för okritisk Berörd nyanställd<br>tolkning av all personal utbildas i<br>digital kartans<br>information i noggrannhet.<br>kartsystemet Risken har tagit<br>avseende 3. Kännbar still plan i<br>innehåll, (uppfattas som Byggnads-<br>aktualitet och besvärande för nämndens<br>2. Mindre vanligt<br>noggrannhet. berörda internkontrollplan i<br>intressenter och flera år, senast<br>kommunen) 2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
-|  | Risk för Historiskt är det<br>felaktigheter i ovanligt med fel<br>mätningsuppdrag vid<br>3. Kännbar<br>mätningsuppdrag.<br>(uppfattas som<br>Utbildning av<br>besvärande för<br>2. Mindre vanligt personal och<br>berörda<br>service(kalibrering)<br>intressenter och<br>av instrument görs<br>kommunen)<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Risk för Snarlik<br>påtryckningar kommunövergripa<br>3. Kännbar<br>utifrån / otillbörlig nde "Risk för<br>(uppfattas som<br>påverkan på korruption" tas till<br>besvärande för<br>personal och 3. Vanligt plan istället för<br>berörda<br>beslutsfattare denna<br>intressenter och<br>verksamhets-<br>kommunen)<br>specifika risk som<br>funnits med länge. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Antalet avgifts-<br>handläggningstid reduktioner av<br>för bygglovsärenden<br>bygglovsärenden har minskat jämfört<br>inte hålls med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>3. Kännbar finns rapporter i<br>(uppfattas som Power BI där<br>besvärande för verksamheten kan<br>3. Vanligt<br>berörda följa antalet<br>intressenter och reduktioner. Det är<br>kommunen) en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
-|  | Risk att Verksamheterna<br>myndighetsbeslu har fungerande<br>t inte håller rutiner för att<br>tillräcklig kvalitet upprätthålla en<br>3. Kännbar<br>god kvalitet på<br>(uppfattas som<br>myndighetsbeslut.<br>besvärande för<br>2. Mindre vanligt Stickprovs-<br>berörda<br>granskning 2021–<br>intressenter och<br>2023 visar inte<br>kommunen)<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för bristande Det finns en<br>leverans av process för beslut,<br>myndighets- uppföljning och<br>uppdraget revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>3. Kännbar kvartalsvis i<br>(uppfattas som nämnden för Miljö<br>besvärande för & Hälsoskydd.<br>3. Vanligt<br>berörda Verksamhets-<br>intressenter och statistik för bygglov<br>kommunen) redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Förskottsbetalad Livsmedelskontroll<br>tillsyn utförs inte en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>3. Kännbar kvar enligt taxa för<br>(uppfattas som miljöbalkstillsynen.<br>besvärande för Verksamheterna<br>2. Mindre vanligt<br>berörda arbetar aktivt med<br>intressenter och frågan och<br>kommunen) prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Hantering av Förvaltningen har<br>personuppgifter ett fungerande<br>sker inte korrekt dataskyddsarbete<br>2. Lindrig<br>där<br>(uppfattas som<br>personuppgifts-<br>3. Vanligt liten av berörda<br>incidenter<br>intressenter och<br>rapporteras till<br>kommunen)<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
-|  | Överklaganden 3. Kännbar Förvaltningen har<br>hanteras inte (uppfattas som fungerande rutiner<br>korrekt besvärande för för att hantera<br>2. Mindre vanligt<br>berörda överklaganden.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2025. |
-|  | Risk att fel i Rutiner finns och<br>statistikrapporter 3. Kännbar fungerar, inte<br>leder till sämre (uppfattas som prioriterat för<br>eller felaktiga besvärande för granskning 2025.<br>2. Mindre vanligt<br>beslut berörda Hanteras inom<br>intressenter och ramen för ordinarie<br>kommunen) verksamhets-<br>uppföljning. |
-|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2025.<br>resurser |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Risk att<br>förvaltningen<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken hanteras<br>inom ramen för<br>verksamhets-<br>planering och<br>kompetens-<br>försörjning. |
+|  |  | Risk att<br>introduktion av<br>nya medarbetare<br>inte fungerar som<br>tänkt. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Det finns<br>fungerande<br>checklistor och<br>rutiner, ingen<br>prioriterad risk till<br>2025. |
+|  |  | Kommun-<br>övergripande<br>risk: Resurs- och<br>kompetensbrist | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Arbetstidsdirektivet<br>inte aktuell risk för<br>Bygg & Miljö. |
+| Ekonomi |  | Kommun-<br>övergripande<br>risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Omhändertas inom<br>ramen för ordinarie<br>verksamhet-<br>suppföljning.<br>Granskning av<br>kontering görs<br>löpande under<br>året. |
+|  |  | Kommun-<br>övergripande<br>risk: Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Risken<br>omhändertas inom<br>ordinarie<br>verksamhets-<br>planering och<br>uppföljning. |
+|  |  | Risk för fel vid<br>hantering av<br>kundfakturor | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Granskning av<br>kommun-<br>gemensam risk<br>"Debiteringsrutiner<br>" har genomförts<br>under 2022-2023<br>med goda resultat.<br>Inte prioriterat för<br>granskning 2025. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Risk att<br>delegations-<br>ordning inte följs | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Denna risk har<br>funnits med sedan<br>2021 som<br>förvaltnings-<br>specifik risk 2022<br>och som kommun-<br>övergripande risk<br>2022-2023.<br>Granskningarna av<br>stickprov som<br>gjorts har inte visat<br>på några allvarliga<br>avvikelser. Det<br>finns fungerande<br>rutiner i<br>verksamheterna.<br>Inte prioriterat för<br>granskning 2025. |
+|  |  | Risk att<br>diarieföring inte<br>sker korrekt | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utbildningsinsatser<br>har genomförts.<br>Inte prioriterat för<br>granskning 2025. |
+|  |  | Risk att<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. | 2. Mindre vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Denna risk<br>hanteras inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete<br>på förvaltningen.<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
+|  |  | Risk för<br>oplanerade<br>driftstopp eller<br>krasch av<br>verksamhets-<br>system | 2. Mindre vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Denna risk<br>hanteras inom<br>ramen för<br>förvaltningens<br>ordinarie<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning i intern<br>kontroll 2025. |
+|  |  | Risk för intrång,<br>obehörig åtkomst<br>eller avslöjad<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Denna risk tas<br>omhand inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete.<br>Det finns rutiner för<br>hantering av<br>lösenord och<br>aktuella rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning 2025. |
+|  |  | Felaktig<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | hanteras inom<br>ramen för risken<br>om<br>välfärdsbrottslighet<br>och korruption. |
+|  |  | Utlämnande av<br>handlingar sker<br>inte enligt rutiner | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | En omfattande<br>utbildningsinsats<br>har genomförts för<br>registraturen under<br>2020-2022. Arbete<br>pågår med nya<br>arbetssätt där<br>kunden själv kan<br>hämta handlingar<br>digitalt. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Hänvisning av<br>mail och telefon<br>görs inte vid<br>frånvaro | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ingår i<br>"vardagsrutinerna".<br>Påminnelser och<br>information om<br>rutiner publiceras<br>på intranätet<br>"Insidan" inför<br>semestertider. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Kommun-<br>övergripande<br>risk:<br>informations-<br>säkerhet; skydd<br>av information<br>mot obehörig<br>tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Omhändertas inom<br>ramen för<br>förvaltningens<br>informations-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025.<br>Se verksamhet-<br>sriskerna "Risk för<br>intrång, obehörig<br>åtkomst eller<br>avslöjad sekretess<br>på grund av stöld<br>och/eller<br>oaktsamhet." och<br>"Risk att<br>säkerhetsklassat<br>material avseende<br>GIS/Kartan lämnas<br>ut eller på annat<br>sätt kommer i<br>obehöriga händer. |
+|  |  | Kommun-<br>övergripande<br>risk: It-säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningens<br>verksamhetssyste<br>m EDP Vision och<br>ByggR driftas<br>internt av digitalt<br>center inte hos<br>externa<br>leverantörer. De<br>risker som trots allt<br>finns hanteras<br>inom ramen för<br>ordinarie IT-<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning 2025. |
+| Verksamhet |  | Risk för okritisk<br>tolkning av all<br>digital<br>information i<br>kartsystemet<br>avseende<br>innehåll,<br>aktualitet och<br>noggrannhet. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Berörd nyanställd<br>personal utbildas i<br>kartans<br>noggrannhet.<br>Risken har tagit<br>still plan i<br>Byggnads-<br>nämndens<br>internkontrollplan i<br>flera år, senast<br>2023. Tidigare<br>granskningar<br>visade inte på<br>några avvikelser.<br>Inte prioriterad till<br>granskning 2025. |
+|  |  | Risk för<br>felaktigheter i<br>mätningsuppdrag | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Historiskt är det<br>ovanligt med fel<br>vid<br>mätningsuppdrag.<br>Utbildning av<br>personal och<br>service(kalibrering)<br>av instrument görs<br>regelbundet. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Risk för<br>påtryckningar<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Snarlik<br>kommunövergripa<br>nde "Risk för<br>korruption" tas till<br>plan istället för<br>denna<br>verksamhets-<br>specifika risk som<br>funnits med länge. |
+|  |  | Risk att<br>handläggningstid<br>för<br>bygglovsärenden<br>inte hålls | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Antalet avgifts-<br>reduktioner av<br>bygglovsärenden<br>har minskat jämfört<br>med pandemiåren<br>2020-2022.<br>Avgiftsreduktioner<br>na kommer inte att<br>kunna vara 0 st.<br>handläggning-<br>stiderna för<br>enskilda ärenden<br>kan dra ut på tiden<br>av olika skäl. Det<br>finns rapporter i<br>Power BI där<br>verksamheten kan<br>följa antalet<br>reduktioner. Det är<br>en prioriterad fråga<br>att hålla korta<br>handläggningstider<br>. Mediantiden för<br>bygglov under jan-<br>aug 2024 är 2,9<br>veckor.<br>Förhandsbesked<br>12,5 veckor. Inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning |
+|  |  | Risk att<br>myndighetsbeslu<br>t inte håller<br>tillräcklig kvalitet | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Verksamheterna<br>har fungerande<br>rutiner för att<br>upprätthålla en<br>god kvalitet på<br>myndighetsbeslut.<br>Stickprovs-<br>granskning 2021–<br>2023 visar inte<br>någon allvarlig<br>avvikelse. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Risk för bristande<br>leverans av<br>myndighets-<br>uppdraget | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Det finns en<br>process för beslut,<br>uppföljning och<br>revidering av<br>tillsynsplaner<br>(miljöbalkstillsyn)<br>och kontrollplan<br>(livsmedel).<br>Uppföljning görs<br>kvartalsvis i<br>nämnden för Miljö<br>& Hälsoskydd.<br>Verksamhets-<br>statistik för bygglov<br>redovisas till<br>nämnden av<br>verksamhetschef<br>regelbundet.<br>Risken hanteras<br>inom ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Förskottsbetalad<br>tillsyn utförs inte | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Livsmedelskontroll<br>en övergår till<br>100% efterhands-<br>debitering från och<br>med 1 januari<br>2024. Endast en<br>mindre del av<br>förskottsbetalning<br>kvar enligt taxa för<br>miljöbalkstillsynen.<br>Verksamheterna<br>arbetar aktivt med<br>frågan och<br>prioriterar<br>förskottsbetalad<br>tillsyn. Hanteras<br>nom ramen för<br>ordinarie<br>verksamhets-<br>uppföljning. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Hantering av<br>personuppgifter<br>sker inte korrekt | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>ett fungerande<br>dataskyddsarbete<br>där<br>personuppgifts-<br>incidenter<br>rapporteras till<br>nämnderna. Inte<br>prioriterat för<br>granskning 2025. |
+|  |  | Överklaganden<br>hanteras inte<br>korrekt | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>fungerande rutiner<br>för att hantera<br>överklaganden.<br>Inte prioriterat för<br>granskning 2025. |
+|  |  | Risk att fel i<br>statistikrapporter<br>leder till sämre<br>eller felaktiga<br>beslut | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Rutiner finns och<br>fungerar, inte<br>prioriterat för<br>granskning 2025.<br>Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning. |
+|  |  | Risk att<br>verksamhets-<br>utveckling och<br>innovation<br>nedprioriteras på<br>grund av<br>bristande<br>resurser | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken hanteras<br>inom ramen för<br>ordinarie budget<br>och<br>uppföljningsarbete.<br>inte prioriterat för<br>granskning 2025. |
 
 <!-- sida 15 -->
 
@@ -1010,17 +1012,15 @@ Nämndbudget 2025
 
 4.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens område,
-lagen om sprängämnesprekursorer, lagen om gaturenhållning och skyltning KF 2023-12-14 § 195
-samt lagen om åtgärder mot föroreningar från fartyg
-Taxa för offentlig kontroll av livsmedel och vissa jordbruksprodukter KF 2022-12-06 § 237
-
-Taxa för prövning och tillsyn enligt alkohollagen, lag om tobak och liknande
-produkter, lag om handel med vissa receptfria läkemedel och lag om tobaksfria KF 2023-06-14 § 76
-nikotinprodukter.
-
 8
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Taxa för prövning och tillsyn inom miljöbalkens och strålskyddslagens område,<br>lagen om sprängämnesprekursorer, lagen om gaturenhållning och skyltning<br>samt lagen om åtgärder mot föroreningar från fartyg | KF 2023-12-14 § 195 |
+| Taxa för offentlig kontroll av livsmedel och vissa jordbruksprodukter | KF 2022-12-06 § 237 |
+| Taxa för prövning och tillsyn enligt alkohollagen, lag om tobak och liknande<br>produkter, lag om handel med vissa receptfria läkemedel och lag om tobaksfria<br>nikotinprodukter. | KF 2023-06-14 § 76 |
 
 <!-- sida 35 -->
 
@@ -3397,11 +3397,51 @@ sker på huvudkontoret. I dessa butiker fokuserar vi istället på det lokalt in
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
-| Information om allergener för<br>livsmedel som inte är<br>färdigförpackade<br>= livsmedel som är oförpackade,<br>ligger i en förpackning som<br>lämnas över en disk eller<br>förpackas på konsumentens<br>begäran | Har företaget ett arbetssätt som säkerställer att kunderna får rätt information om<br>allergena ingredienser på svenska? Informationen får ges muntligen eller skriftligen.<br>Om verksamheten använder sig av etiketter eller skyltar med fullständig<br>ingrediensförteckning och som tagits fram centralt så ska allergener vara framhävda.<br>Verifiera rutinen genom stickprov där du ber verksamheten att visa att de lämnar rätt<br>information. Informationen kan finnas på förpackningar/produktdatablad/receptur<br>eller underlag från leverantör.<br>OBS! I de fall där butiken själva ansvarar för utformning av märkning på skyltar, vid<br>tex bake-off, eller etiketter i charken med fullständig ingrediensförteckning så görs<br>samma kontroll som vi gör på färdigförpackade livsmedel hos verksamheter som<br>utformar märkning. | Kontrollwiki: Livsmedel som inte<br>är färdigförpackade<br>Livstecknet: skyldigheter vid<br>information om "spår av" | B02=2.2 (information om<br>allergener, på svenska,<br>framhävda allergener) |
-| Obligatoriska uppgifter för<br>färdigförpackade livsmedel hos<br>verksamheter som inte utformar<br>märkning:<br>• Svensk ingrediensförteckning<br>• Allergener är framhävda | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade<br>livsmedel är märkta med en ingrediensförteckning på svenska och att allergenerna är<br>framhävda. Verifiera genom att välja ut ett lämpligt antal produkter inom olika<br>produktgrupper.<br>Meddela även kontrollmyndigheten för det företag som ansvarar för informationen<br>om det är brister i informationen. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, allergener är<br>framhävda) |
-| Obligatoriska uppgifter på svenska för<br>färdigförpackade livsmedel hos<br>verksamheter som utformar märkning:<br>• Samtliga ingredienser är deklarerade<br>• Allergener är framhävda | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade<br>livsmedel är märkta med samtliga ingredienser på svenska och att allergenerna är<br>framhävda.<br>Verifiera genom ett lämpligt stort stickprov där du granskar information på produkter<br>ur olika produktgrupper. Jämför informationen med<br>receptur/produktdatablad/märkning på annat språk. | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, samtliga ingredienser,<br>allergener är framhävda) |
-| System för återkallande - hantering av<br>i cke-säkra livsmedel | Syftet med kontrollen är att butiken ska se till att det inte finns osäkra livsmedel till<br>försäljning i butiken. Om butiken får en återkallelse, det kan tex vara ett produktlarm<br>från butikens leverantörer. Hur arbetar man efter den återkallelse man får in och hur<br>får man bort aktuella och osäkra produkter från försäljning? Hur säkerställer man att<br>produkten inte hamnar ute i butik igen? Utgå gärna från ett återkallande som skett<br>inom den närmsta tiden och be dem visa hur de agerade när de fick in aktuellt larm.<br>Vad gör de om de själva eller slutkonsument upptäcker osäkra livsmedel i deras<br>butik? Hos de stora kedjorna fokuserar vi på det sortiment som de inte köper in<br>centralt utan själva köper in.<br>Verifiera att de snabbt kan få fram informationen genom att du väljer ut en produkt,<br>och ber företaget visa hur mycket som köpts in och hur mycket som finns kvar i lager. | Kontrollwiki: Information och<br>spårbarhet i samband med<br>å terkallelse - | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra) |
-| System för spårbarhet | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg bakåt? Fokusera på det<br>lokala sortimentet hos kedjor. Välj varor enligt följande ordning om det är aktuellt:<br>1. Kött med svenskt ursprung<br>2. Ekologiskt/KRAVmärkt kött<br>3. Annat kött<br>4. Annat livsmedel<br>Vid misstanke om livsmedelsbedrägeri, kontakta kontrollmyndigheten för det<br>avsändande företaget för att se att leverantören finns registrerad/godkänd? | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (system för<br>spårbarhet) |
+| Information om allergener för | Har företaget ett arbetssätt som säkerställer att kunderna får rätt information om<br>allergena ingredienser på svenska? Informationen får ges muntligen eller skriftligen.<br>Om verksamheten använder sig av etiketter eller skyltar med fullständig<br>ingrediensförteckning och som tagits fram centralt så ska allergener vara framhävda.<br>Verifiera rutinen genom stickprov där du ber verksamheten att visa att de lämnar rätt<br>information. Informationen kan finnas på förpackningar/produktdatablad/receptur<br>eller underlag från leverantör.<br>OBS! I de fall där butiken själva ansvarar för utformning av märkning på skyltar, vid<br>tex bake-off, eller etiketter i charken med fullständig ingrediensförteckning så görs<br>samma kontroll som vi gör på färdigförpackade livsmedel hos verksamheter som<br>utformar märkning. | Kontrollwiki: Livsmedel som inte<br>är färdigförpackade<br>Livstecknet: skyldigheter vid<br>information om "spår av" | B02=2.2 (information om<br>allergener, på svenska,<br>framhävda allergener) |
+| livsmedel som inte är |  |  |  |
+| färdigförpackade |  |  |  |
+|  |  |  |  |
+| = livsmedel som är oförpackade, |  |  |  |
+| ligger i en förpackning som |  |  |  |
+| lämnas över en disk eller |  |  |  |
+| förpackas på konsumentens |  |  |  |
+| begäran |  |  |  |
+|  |  |  |  |
+| Obligatoriska uppgifter för | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, allergener är<br>framhävda) |
+| färdigförpackade livsmedel hos | livsmedel är märkta med en ingrediensförteckning på svenska och att allergenerna är |  |  |
+| verksamheter som inte utformar | framhävda. Verifiera genom att välja ut ett lämpligt antal produkter inom olika |  |  |
+| märkning: | produktgrupper. |  |  |
+| • Svensk ingrediensförteckning |  |  |  |
+| • Allergener är framhävda | Meddela även kontrollmyndigheten för det företag som ansvarar för informationen |  |  |
+|  | om det är brister i informationen. |  |  |
+| Obligatoriska uppgifter på svenska för | Kontrollera att företaget har ett arbetssätt som säkerställer att färdigförpackade | Kontrollwiki - obligatorisk<br>märkning | B02=2.2 (information på<br>svenska, samtliga ingredienser,<br>allergener är framhävda) |
+| färdigförpackade livsmedel hos | livsmedel är märkta med samtliga ingredienser på svenska och att allergenerna är |  |  |
+| verksamheter som utformar märkning: | framhävda. |  |  |
+|  | Verifiera genom ett lämpligt stort stickprov där du granskar information på produkter |  |  |
+| • Samtliga ingredienser är deklarerade | ur olika produktgrupper. Jämför informationen med |  |  |
+| • Allergener är framhävda | receptur/produktdatablad/märkning på annat språk. |  |  |
+|  |  |  |  |
+| System för återkallande - hantering av | Syftet med kontrollen är att butiken ska se till att det inte finns osäkra livsmedel till | Kontrollwiki: Information och<br>spårbarhet i samband med<br>å terkallelse - | J01=10.1 (system för<br>tillbakadragande av livsmedel<br>som inte är säkra) |
+| i cke-säkra livsmedel | försäljning i butiken. Om butiken får en återkallelse, det kan tex vara ett produktlarm |  |  |
+|  | från butikens leverantörer. Hur arbetar man efter den återkallelse man får in och hur |  |  |
+|  | får man bort aktuella och osäkra produkter från försäljning? Hur säkerställer man att |  |  |
+|  | produkten inte hamnar ute i butik igen? Utgå gärna från ett återkallande som skett |  |  |
+|  | inom den närmsta tiden och be dem visa hur de agerade när de fick in aktuellt larm. |  |  |
+|  | Vad gör de om de själva eller slutkonsument upptäcker osäkra livsmedel i deras |  |  |
+|  | butik? Hos de stora kedjorna fokuserar vi på det sortiment som de inte köper in |  |  |
+|  | centralt utan själva köper in. |  |  |
+|  |  |  |  |
+|  | Verifiera att de snabbt kan få fram informationen genom att du väljer ut en produkt, |  |  |
+|  | och ber företaget visa hur mycket som köpts in och hur mycket som finns kvar i lager. |  |  |
+| System för spårbarhet | Kan företaget snabbt få fram uppgifter om spårbarhet ett steg bakåt? Fokusera på det | Kontrollwiki: Information och<br>spårbarhet i samband med<br>återkallelse - | H01=8.1 (system för<br>spårbarhet) |
+|  | lokala sortimentet hos kedjor. Välj varor enligt följande ordning om det är aktuellt: |  |  |
+|  |  |  |  |
+|  | 1. Kött med svenskt ursprung |  |  |
+|  | 2. Ekologiskt/KRAVmärkt kött |  |  |
+|  | 3. Annat kött |  |  |
+|  | 4. Annat livsmedel |  |  |
+|  | Vid misstanke om livsmedelsbedrägeri, kontakta kontrollmyndigheten för det |  |  |
+|  | avsändande företaget för att se att leverantören finns registrerad/godkänd? |  |  |
 
 <!-- sida 88 -->
 
@@ -3411,25 +3451,19 @@ Butik och detaljhandel - Hygien
 
 15
 
-[Tabell 88-1](handlingar.tabeller/88-1.csv)
+[Tabell 88-89-1](handlingar.tabeller/88-89-1.csv)
 
 | Löpande inriktning | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Tid- och temperaturer | Finns arbetssätt för att ta hand om de största riskerna som finns inom området.<br>Kontrollera hur företaget säkerställer rätt temperatur hela vägen från mottagning till<br>försäljning. Fokusera på lättfördärvliga livsmedel, finns några speciellt känsliga<br>råvaror eller processer? Ex. tillagning av kyckling, eller sushi. Vissa temperaturkrav i<br>avsnitt VIII i 853/2004 är tillämpliga på detaljhandeln (ex infrysning av rå fisk för sushi<br>och kokning av skaldjur). | Livsmedelsverket: 853/2004<br>avsnitt VIII – | J08=10.8 (bibehållen kylkedja,<br>varmhållning, upptining)<br>K01=11.1 (system för att ta<br>hand om riskerna: nedkylning,<br>tillagning) |
+|  |  |  |  |
+| Säker hantering av livsmedel genom | Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk för<br>att korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur<br>utbildas ny personal inom området? Fokusera på den hantering eller de livsmedel där<br>det är störst risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av rengöring<br>fokusera på redskap och utrustning i kontakt med aktuella livsmedel.<br>Verifiera kontrollen genom att prata med den person utför aktuell hantering och<br>genom att granska faktiska förhållanden. | Kontrollwiki - Kontroll av<br>mikrobiologiska faror<br>Kontrollwiki: rengöring<br>Kontrollwiki: personlig hygien<br>Kontrollwiki: Norovirus<br>smittspridning | J03=10.3 (hygien under<br>processens gång, faktiska<br>förhållanden)<br>J04=10.4 (personlig hygien,<br>faktiska förhållanden)<br>J05=10.5 (känner personalen<br>till arbetssätt) |
+| hela flödet |  |  |  |
 
 <!-- sida 89 -->
 
 24-10-30
-Säker hantering av livsmedel genom Hur säkerställer verksamheten att livsmedel hanteras på ett säkert sätt utan risk för Kontrollwiki - Kontroll av J03=10.3 (hygien under
-hela flödet           att korskontamineras av personal, inredning/utrustning eller andra livsmedel. Hur mikrobiologiska faror processens gång, faktiska
-utbildas ny personal inom området? Fokusera på den hantering eller de livsmedel där Kontrollwiki: rengöring förhållanden)
-det är störst risker, ex rå kyckling, ätfärdiga livsmedel. Vid kontroll av rengöring Kontrollwiki: personlig hygien
-J04=10.4 (personlig hygien,
-fokusera på redskap och utrustning i kontakt med aktuella livsmedel. Kontrollwiki: Norovirus
-faktiska förhållanden)
-Verifiera kontrollen genom att prata med den person utför aktuell hantering och smittspridning
-genom att granska faktiska förhållanden.                            J05=10.5 (känner personalen
-till arbetssätt)
+
 Butik och detaljhandel - Årlig inriktning 2025-2026
 
 16
@@ -3439,11 +3473,18 @@ Butik och detaljhandel - Årlig inriktning 2025-2026
 | 2025 | Beskrivning | Länkar | Rapportering |
 | --- | --- | --- | --- |
 | Operativt mål 8: Spårbarhet kött | Verifiera uppgift om svenskt ursprung för färskt och fryst kött av nöt, gris, får och<br>lamm, samt fågel. Målet omfattar såväl helt som bitat och malet kött, förpackat och<br>oförpackat. Kontrollerna ska utföras i samtliga led i livsmedelskedjan efter slakt som<br>släpper ut färskt eller fryst kött av svenskt ursprung på marknaden. | Kontrollwiki op-8 |  |
-| Operativt mål 6:<br>Livsmedelsinformation vid e-handel | Kontrollen syftar till att verifiera att livsmedelsinformationen på webbplatsen stämmer<br>med informationen på förpackningarna. | Kontrollwiki op-6 |  |
+|  |  |  |  |
+| Operativt mål 6: | Kontrollen syftar till att verifiera att livsmedelsinformationen på webbplatsen stämmer<br>med informationen på förpackningarna. | Kontrollwiki op-6 |  |
+| Livsmedelsinformation vid e-handel |  |  |  |
+|  |  |  |  |
 | Operativt mål 11: Spårbarhet ägg | Verifiera att aktörer som producerar och/eller släpper ut svenska hönsägg på<br>marknaden kan visa att de uppfyller de spårbarhetskrav som finns samt att den<br>information som medföljer äggen är korrekt. | NKP-webben op-11 |  |
-| Operativt mål 12: Aktörer som släpper<br>ut honung på marknaden | Spårbarhetskontroller hos företag som handlar med honung. Syftet är att säkerställa<br>att aktörer som släpper ut honung på marknaden har registrerat sin anläggning, i de fall<br>verksamheten har en sådan organisation och kontinuitet att den kan anses utgöra ett<br>livsmedelsföretag. | NKP-webben op-12 |  |
+|  |  |  |  |
+| Operativt mål 12: Aktörer som släpper | Spårbarhetskontroller hos företag som handlar med honung. Syftet är att säkerställa<br>att aktörer som släpper ut honung på marknaden har registrerat sin anläggning, i de fall<br>verksamheten har en sådan organisation och kontinuitet att den kan anses utgöra ett<br>livsmedelsföretag. | NKP-webben op-12 |  |
+| ut honung på marknaden |  |  |  |
+|  |  |  |  |
 | 2026 | Beskrivning | Länkar | Rapportering |
-| Administrativa krav, ekologiska<br>l ivsmedel | Kontrollera att aktörer som framställer, bereder (inkl märker), förvarar ekologiska<br>livsmedel, har e-handel eller importerar/exporterar ekologiska livsmedel från tredje<br>land eller som släpper ut sådana produkter på marknaden har anmält sådan<br>verksamhet till kontrollorgan enligt de krav som ställs i artikel 28 i förordning (EG) nr<br>834/2007. Skriv en notering om verksamheten har eller inte har några ekologiska<br>livsmedel och datum i anteckningen på objektet. | Kontrollwiki: Administrativa<br>krav<br>Kontrollwiki: - Kontroll av<br>ekologiska livsmedel | A04=1.4 (anmälan om<br>beredning/ import/förvaring av<br>ekologiska produkter) |
+| Administrativa krav, ekologiska | Kontrollera att aktörer som framställer, bereder (inkl märker), förvarar ekologiska<br>livsmedel, har e-handel eller importerar/exporterar ekologiska livsmedel från tredje<br>land eller som släpper ut sådana produkter på marknaden har anmält sådan<br>verksamhet till kontrollorgan enligt de krav som ställs i artikel 28 i förordning (EG) nr<br>834/2007. Skriv en notering om verksamheten har eller inte har några ekologiska<br>livsmedel och datum i anteckningen på objektet. | Kontrollwiki: Administrativa<br>krav<br>Kontrollwiki: - Kontroll av<br>ekologiska livsmedel | A04=1.4 (anmälan om<br>beredning/ import/förvaring av<br>ekologiska produkter) |
+| l ivsmedel |  |  |  |
 
 <!-- sida 90 -->
 
@@ -4308,91 +4349,31 @@ Undervisning (komvux, fhsk) Lågt    3      0      25      0
 |  |  | Täkter | Högt | 4 | 24 | 24 | 24 |
 |  | Styrd tid | Krossanläggning | - |  |  |  |  |
 |  |  | Täkter | - | 3 | 45 | 45 | 45 |
-| Vatten | Behovsprioriterad tid | Dagvattenanläggningar | Lågt | 55 | 60 | 60 | 60 |
+|  | Behovsprioriterad tid | Dagvattenanläggningar | Lågt | 55 | 60 | 60 | 60 |
 |  |  | Fritidsbåtshamn | Normalt | 36 | 0 | 0 | 0 |
 |  |  | Vattenskyddsområde | Normalt | 1 | 70 | 50 | 50 |
-|  | Styrd tid | Fritidsbåtshamnar | - | 35 | 210 | 210 | 210 |
+| Vatten | Styrd tid | Fritidsbåtshamnar | - | 35 | 210 | 210 | 210 |
 |  |  | Tvätterier | - | 1 | 0 | 9 | 0 |
 |  |  | Vattenskyddsområde | - | 2 | 12 | 12 | 12 |
 
 <!-- sida 115 -->
 
-Tillsynsområde Fokusområde Åtgärder Tillsynsaktiviteter
-Tillsynsmyndigheten sammanställer beslutade dispenser som kan beröra
-grunda havsvikar under 2022.
-Tillsynsmyndigheten följer upp beslut om nekade dispenser, vilket görs genom
-tillsyn i/vid prioriterade grunda exponeringsskyddade havsvikar fr o m. 2023.
-Tillsynsmyndigheten följer upp givna dispenser, vilket görs genom tillsyn av
-villkor i/vid grunda exponeringsskyddade havsvikar fr o m. 2022.
-Tillsynsmyndigheten planerar och genomför tillsyn i/vid grunda
-exponeringsskyddade havsvikar och där det är skäligt föreläggs om
-återställelse under 2023-2024.
+[Tabell 115-1](handlingar.tabeller/115-1.csv)
 
-Operativa mål År A O n b s s v . a lä r s ig k m om yn m d e ig n h ta e r t Planerar att genomföra/delta Kommentar
-Förslag att undersöka möjligheterna under år 2024 inför
-2025
-Kommun och länsstyrelsPrioriteras bort av resursskä2025
-2025                Förslag att undersöka möjligheterna under år 2024 inför
-Kommun och länsstyrelsPrioriteras bort av resursskä2025
-2025                Förslag att undersöka möjligheterna under år 2024 inför
-Kommun och länsstyrelsPrioriteras bort av resursskä2025
-2024                Ingår i strandskyddstillsyn. Inspektörer har gått utbildning
-Kommun och länsstyrelsDeltar enligt strategin om grunda havsvikar
-
-Naturtillsyn Påverkan på naturvärden i grunda    Minst 30 % av nekade
-havsvikar                                dispenser i/vid
-exponeringsskyddade 2025
-grunda vikar har följts
-upp genom tillsyn
-under perioden 2022-
-2024\.         Kommun och länsstyrelse
-Minst 10 % av givna
-dispenser i/vid
-exponeringsskyddade
-2025
-grunda vikar har följts
-upp genom tillsyn
-under perioden 2022-
-2024\.         Kommun och länsstyrelse
-Tillsynsmyndigheterna kartlägger gällande tillstånd för miljöfarliga
-verksamheter meddelade enligt miljöskyddslagen och miljöbalken och
-2023
-omfattningen av ändringar sedan tillstånd gavs. Kartläggningen utgår från den
-mall som Naturvårdsverket tillhandahåller. (2022-2025) Kommun och länsstyrelsSlutförd Kartläggning genomfördes under år 2023
-Tillsynsmyndigheterna bedömer för vilka verksamheter det finns behov av att
-vidta åtgärder för att verksamheterna ska ha aktuella miljöbalkstillstånd och 2023
-vilka åtgärder som är lämpliga att vidta. Syftet är att kunna rangordna och Uppdatering av tillstånden sker löpande i samband med
-prioritera behov av åtgärder. (2023-2025) Kommun och länsstyrelsDeltar enligt strategin tillsyn
-Senast under 2024 har
-samtliga
-tillsynsmyndigheter
-Uppdaterade miljöbalkstillstånd
-genomfört en
-kartläggning av
-miljöfarliga
-tillsynsobjekt som
-omfattas av tillstånd 2023
-som har meddelats
-med stöd av
-miljöbalken och
-miljöskyddslagen samt
-omfattningen av
-ändringar sedan
-tillstånd gavs. Kommun och länsstyrelse
-Tillsynsmyndigheterna använder
-det nationella handläggarstödet
-2024
-för att hitta de verksamheter som
-har störst potentiell
-Fordonstvättar och miljöbelastning. (2023)              Kommun  Deltar enligt strategin
-fordonsverkstäder Tillsynsmyndigheterna deltar i en nationell tillsynskampanj avseende
-2024
-fordonstvättar och/eller fordonsverkstäder (nov 2023 - maj 2024) Kommun Deltar enligt strategin Planerar att delta när det nationella projektet startar
-Minst 80 % av alla
-kommuner deltar i den
-2024
-nationella
-tillsynskampanjen. Kommun
+| Tillsynsområde | Fokusområde | Åtgärder | Tillsynsaktiviteter | Operativa mål | År | Ansvarig myndighet<br>Obs. läs kommentar | Planerar att genomföra/delta | Kommentar |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Naturtillsyn | Påverkan på naturvärden i grunda<br>havsvikar |  | Tillsynsmyndigheten sammanställer beslutade dispenser som kan beröra<br>grunda havsvikar under 2022. |  | 2025 | Kommun och länsstyrels | Prioriteras bort av resursskä | Förslag att undersöka möjligheterna under år 2024 inför<br>2025 |
+|  |  |  | Tillsynsmyndigheten följer upp beslut om nekade dispenser, vilket görs genom<br>tillsyn i/vid prioriterade grunda exponeringsskyddade havsvikar fr o m. 2023. |  | 2025 | Kommun och länsstyrels | Prioriteras bort av resursskä | Förslag att undersöka möjligheterna under år 2024 inför<br>2025 |
+|  |  |  | Tillsynsmyndigheten följer upp givna dispenser, vilket görs genom tillsyn av<br>villkor i/vid grunda exponeringsskyddade havsvikar fr o m. 2022. |  | 2025 | Kommun och länsstyrels | Prioriteras bort av resursskä | Förslag att undersöka möjligheterna under år 2024 inför<br>2025 |
+|  |  |  | Tillsynsmyndigheten planerar och genomför tillsyn i/vid grunda<br>exponeringsskyddade havsvikar och där det är skäligt föreläggs om<br>återställelse under 2023-2024. |  | 2024 | Kommun och länsstyrels | Deltar enligt strategin | Ingår i strandskyddstillsyn. Inspektörer har gått utbildning<br>om grunda havsvikar |
+|  |  |  |  | Minst 30 % av nekade<br>dispenser i/vid<br>exponeringsskyddade<br>grunda vikar har följts<br>upp genom tillsyn<br>under perioden 2022-<br>2024. | 2025 | Kommun och länsstyrelse |  |  |
+|  |  |  |  | Minst 10 % av givna<br>dispenser i/vid<br>exponeringsskyddade<br>grunda vikar har följts<br>upp genom tillsyn<br>under perioden 2022-<br>2024. | 2025 | Kommun och länsstyrelse |  |  |
+|  | Uppdaterade miljöbalkstillstånd |  | Tillsynsmyndigheterna kartlägger gällande tillstånd för miljöfarliga<br>verksamheter meddelade enligt miljöskyddslagen och miljöbalken och<br>omfattningen av ändringar sedan tillstånd gavs. Kartläggningen utgår från den<br>mall som Naturvårdsverket tillhandahåller. (2022-2025) |  | 2023 | Kommun och länsstyrels | Slutförd | Kartläggning genomfördes under år 2023 |
+|  |  |  | Tillsynsmyndigheterna bedömer för vilka verksamheter det finns behov av att<br>vidta åtgärder för att verksamheterna ska ha aktuella miljöbalkstillstånd och<br>vilka åtgärder som är lämpliga att vidta. Syftet är att kunna rangordna och<br>prioritera behov av åtgärder. (2023-2025) |  | 2023 | Kommun och länsstyrels | Deltar enligt strategin | Uppdatering av tillstånden sker löpande i samband med<br>tillsyn |
+|  |  |  |  | Senast under 2024 har<br>samtliga<br>tillsynsmyndigheter<br>genomfört en<br>kartläggning av<br>miljöfarliga<br>tillsynsobjekt som<br>omfattas av tillstånd<br>som har meddelats<br>med stöd av<br>miljöbalken och<br>miljöskyddslagen samt<br>omfattningen av<br>ändringar sedan<br>tillstånd gavs. | 2023 | Kommun och länsstyrelse |  |  |
+|  | Fordonstvättar och<br>fordonsverkstäder | Tillsynsmyndigheterna använder<br>det nationella handläggarstödet<br>för att hitta de verksamheter som<br>har störst potentiell<br>miljöbelastning. (2023) |  |  | 2024 | Kommun | Deltar enligt strategin |  |
+|  |  |  | Tillsynsmyndigheterna deltar i en nationell tillsynskampanj avseende<br>fordonstvättar och/eller fordonsverkstäder (nov 2023 - maj 2024) |  | 2024 | Kommun | Deltar enligt strategin | Planerar att delta när det nationella projektet startar |
+|  |  |  |  | Minst 80 % av alla<br>kommuner deltar i den<br>nationella<br>tillsynskampanjen. | 2024 | Kommun |  |  |
 
 <!-- sida 116 -->
 

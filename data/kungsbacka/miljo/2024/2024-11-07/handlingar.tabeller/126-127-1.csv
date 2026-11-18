@@ -4,14 +4,14 @@ Processgrupp:,Utöva tillsyn enligt miljöbalken - Hälsoskydd,,,,
 Process:,Tillsyn av strandbad,,,,
 Processnummer:,7.5.6.36,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
-"Föra protokoll vid
-tillsynsbesök",Protokoll,EDP Vision,Digitalt,10 år,
-,Tjänsteanteckning,EDP Vision,Digitalt,10 år,"Tjänsteanteckning av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
+Föra protokoll vid,Protokoll,EDP Vision,Digitalt,10 år,
+tillsynsbesök,,,,,
+,Tjänsteanteckning,EDP Vision,Digitalt,10 år,Tjänsteanteckning av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
 ,Fotografi,EDP Vision,Digitalt,10 år,
 ,Informationstavla,EDP Vision,Digitalt,10 år,
-,"Kontaktuppgifter till
-kommun",EDP Vision,Digitalt,10 år,
+,Kontaktuppgifter till,EDP Vision,Digitalt,10 år,
+,kommun,,,,
 ,Skylt vattenkvalité,EDP Vision,Digitalt,10 år,
 ,Skylt hundförbud,EDP Vision,Digitalt,10 år,
 ,Skylt vattendjup,EDP Vision,Digitalt,10 år,
@@ -22,16 +22,16 @@ kommun",EDP Vision,Digitalt,10 år,
 ,Brygga,EDP Vision,Digitalt,10 år,
 ,Badstege,EDP Vision,Digitalt,10 år,
 ,Städning,EDP Vision,Digitalt,10 år,
-,Hygienutrymme,EDP Vision,Digitalt,10 år,"Dusch, handfat, toalett, tvål papper,
-pappershanddukar, desinfektionsmedel."
+,Hygienutrymme,EDP Vision,Digitalt,10 år,"Dusch, handfat, toalett, tvål papper,"
+,,,,,"pappershanddukar, desinfektionsmedel."
 ,Omklädningsrum,EDP Vision,Digitalt,10 år,
-,Smitta/Smittskydd,EDP Vision,Digitalt,10 år,"Smitta eller annan olägenhet för människors
-hälsa, objektburen smitta."
+,Smitta/Smittskydd,EDP Vision,Digitalt,10 år,Smitta eller annan olägenhet för människors
+,,,,,"hälsa, objektburen smitta."
 Granska information,Inkomna synpunkter,EDP Vision,Digitalt,10 år,
-,Korrespondens,EDP Vision,Digitalt,10 år,"Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-,"Begäran om
-komplettering",EDP Vision,Digitalt,10 år,
+,Korrespondens,EDP Vision,Digitalt,10 år,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+,Begäran om,EDP Vision,Digitalt,10 år,
+,komplettering,,,,
 Besluta,Beslut,EDP Vision,Digitalt,Bevaras,
 "Delge beslut och signerat
 delgivningskvitto kommer

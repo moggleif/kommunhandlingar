@@ -4,34 +4,30 @@ Processgrupp:,Utöva tillsyn livsmedelsanläggningar,,,,
 Process:,Tillsyn av livsmedelsanläggning,,,,
 Processnummer:,7.6.6.01,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
-"Utföra tillsyn och begära in
-kompletterande uppgifter",Fotografi,EDP Vision,Digitalt,Bevaras,
-,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
-Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
+Utföra tillsyn och begära in,Fotografi,EDP Vision,Digitalt,Bevaras,
+kompletterande uppgifter,Korrespondens,EDP Vision,Digitalt,Se anmärkning,Korrespondens av betydelse bevaras.
+,,,,,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
 ,Produktspecifikation,EDP Vision,Digitalt,Bevaras,
 ,Provrapport,EDP Vision,Digitalt,Bevaras,
-"Underrätta
-verksamhetsutövaren",Kontrollrapport,EDP Vision,Digitalt,Bevaras,
-"Skicka underrättelse inför
-nekande beslut och
-verksamhetsutövaren
-kommer in med svar","Kommunicera enligt
-förvaltningslagen",EDP Vision,Digitalt,Bevaras,
-,"Svar på kommunicering
-enligt förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+Underrätta,Kontrollrapport,EDP Vision,Digitalt,Bevaras,
+verksamhetsutövaren,,,,,
+Skicka underrättelse inför,Kommunicera enligt,EDP Vision,Digitalt,Bevaras,
+nekande beslut och,förvaltningslagen,,,,
+verksamhetsutövaren,Svar på kommunicering,EDP Vision,Digitalt,Bevaras,
+kommer in med svar,enligt förvaltningslagen,,,,
 "Verksamhetsutövaren har
 vidtagit åtgärder",Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
 Tjänsteanteckning av ringa eller tillfällig
 betydelse rensas när ärendet avslutas."
 Besluta om rättelse,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
 ,Beslut,EDP Vision,Digitalt,Bevaras,
-"Delge beslut och signerat
-delgivningskvitto kommer in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
-,"Påminnelse signering
-delgivningskvitto",EDP Vision,Digitalt,5 år,
-Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
-överklagande och omprövning."
+Delge beslut och signerat,Delgivningskvitto,EDP Vision,Digitalt,5 år,
+delgivningskvitto kommer in,Påminnelse signering,EDP Vision,Digitalt,5 år,
+,,,,,
+,delgivningskvitto,,,,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera"
+,,,,,överklagande och omprövning.
 Verksamhetsområde:,Hantera ärende enligt livsmedelslagen,,,,
 Processgrupp:,Utöva tillsyn livsmedelsanläggningar,,,,
 Process:,Tillsyn av dricksvattenanläggning,,,,
@@ -53,10 +49,10 @@ rensas när ärendet avslutas."
 "Skicka underrättelse inför
 nekande beslut och
 verksamhetsutövaren
-kommer in med svar","Kommunicera enligt
-förvaltningslagen",EDP Vision,Digitalt,10 år,
-,"Svar på kommunicering
-enligt förvaltningslagen",EDP Vision,Digitalt,10 år,
+kommer in med svar",Kommunicera enligt,EDP Vision,Digitalt,10 år,
+,förvaltningslagen,,,,
+,Svar på kommunicering,EDP Vision,Digitalt,10 år,
+,enligt förvaltningslagen,,,,
 "Verksamhetsutövaren har
 vidtagit åtgärder",Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
 Tjänsteanteckning av ringa eller tillfällig
@@ -75,13 +71,13 @@ Processgrupp:,Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: S
 Process:,Inkommen RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder),,,,
 Processnummer:,7.6.7.01,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
-RASFF kommer in,"Rapport risker i
-livsmedelskedjan",EDP Vision,Digitalt,5 år,
-Utreda,Korrespondens,EDP Vision,Digitalt,5 år,"Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-,Tjänsteanteckning,EDP Vision,Digitalt,5 år,"Tjänsteanteckning av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-"Återrapportera till
-livsmedelsverket att
-verksamheten har tagit bort
-produkten ur sortimentet",Kontrollrapport,EDP Vision,Digitalt,5 år,
+RASFF kommer in,Rapport risker i,EDP Vision,Digitalt,5 år,
+,livsmedelskedjan,,,,
+Utreda,Korrespondens,EDP Vision,Digitalt,5 år,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+,Tjänsteanteckning,EDP Vision,Digitalt,5 år,Tjänsteanteckning av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+Återrapportera till,Kontrollrapport,EDP Vision,Digitalt,5 år,
+livsmedelsverket att,,,,,
+verksamheten har tagit bort,,,,,
+produkten ur sortimentet,,,,,

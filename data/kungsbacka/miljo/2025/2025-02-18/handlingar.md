@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4a9fcfaa1950506f026c6861/1740039512
 sha256: d7492f7dbb28082cfcf834b9976e4a54cc16d2680b8e4fe0c96756c5cd7a7591
 bytes: 1985033
 sidor: 38
-hamtad: 2026-11-08T19:34:00+00:00
-konverterad: 2026-11-08T19:34:12+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:05:42+00:00
+konverterad: 2026-11-18T10:05:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [16]
 figurer: []
 tolkade: []
@@ -266,14 +266,8 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
-Uppföljningsnivå                                       Budgetavvikelse
-Bokslut 2023 Budget 2024 Bokslut 2024
-(belopp i mkr)                                             2024
-Nämnden för Miljö &
--1,0        -1,0      -0,8           0,2
-Hälsoskydd
-Summa                       -1,0        -1,0      -0,8           0,2
 Kommentarer
+
 Jämfört med budget har nämnden en positiv budgetavvikelse på +0,2 miljoner kronor. Det är i första hand
 kostnaderna för arvoden som varit något lägre är budgeterat för året. De övriga kostnaderna är i balans med
 budget.
@@ -291,6 +285,13 @@ en resultatfond.
 7
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
+
+| Uppföljningsnivå<br>(belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvikelse<br>2024 |
+| --- | --- | --- | --- | --- |
+| Nämnden för Miljö &<br>Hälsoskydd | -1,0 | -1,0 | -0,8 | 0,2 |
+| Summa | -1,0 | -1,0 | -0,8 | 0,2 |
+
+[Tabell 8-2](handlingar.tabeller/8-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2024 |
 | --- | --- | --- | --- |

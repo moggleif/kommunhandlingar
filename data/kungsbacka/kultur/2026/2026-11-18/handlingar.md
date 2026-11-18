@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.f4ce0ed1a1ce40718e5629b/17947729316
 sha256: 8d1db812f5e07c1766f9610b66ca2edb4e7b8e142ca0b162fcb568db6708f1d3
 bytes: 5271682
 sidor: 117
-hamtad: 2026-11-16T08:21:26+00:00
-konverterad: 2026-11-16T08:21:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:51:45+00:00
+konverterad: 2026-11-18T09:52:13+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4247,6 +4247,7 @@ Budgeten har fördelats ut på 2 år. Samma belopp som tidigare
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | Reinvesteringar- utbyte konstgräsmatta | 5 500 | 4 800 | 8 000 | 4 900 | 5 000 | 5 000 | 5 000 | 5 000 | 5 000 | 5 000 | 5 000 |
 |  | Övriga investeringar |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Tingberget friidrott | 16 000 |  |  |  |  |  |  |  |  |  |  |
 |  | Motionsspår, Åsa |  |  | 3 500 | 3 500 |  |  |  |  |  |  |  |
 |  | Ospecificerat 2029-2033 |  | 2 500 | 1 500 | 1 500 | 4 500 | 5 000 | 5 000 | 5 000 | 3 000 | 5 000 | 5 000 |

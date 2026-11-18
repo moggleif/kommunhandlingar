@@ -4,25 +4,23 @@ Processgrupp:,Hantera dispensansökningar,,,,
 Process:,Prövning dispens årlig tömning av oljeavskiljare,,,,
 Processnummer:,7.5.5.05,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
-"Ansökan med bilagor
-kommer in och
-mottagningsbekräftelse
-skickas ut",Ansökan,EDP Vision,Digitalt,Bevaras,
+Ansökan med bilagor,Ansökan,EDP Vision,Digitalt,Bevaras,
+kommer in och,,,,,
+mottagningsbekräftelse,,,,,
 ,5-årsbesiktning,EDP Vision,Digitalt,Bevaras,
+skickas ut,,,,,
 ,Mottagningsbekräftelse,EDP Vision,Digitalt,5 år,
-Granska,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
-Tjänsteanteckning av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
-Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-"Besluta samt skicka ut
-tidkort",Beslut,EDP Vision,Digitalt,Bevaras,
-,Tidkort,EDP Vision,Digitalt,5 år,
-"Delge beslut och signerat
-delgivningskvitto kommer
-in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
-,"Påminnelse signering
-delgivningskvitto",EDP Vision,Digitalt,5 år,
-Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
-överklagande och omprövning."
+Granska,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,Tjänsteanteckning av betydelse bevaras.
+,,,,,Tjänsteanteckning av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+,Korrespondens,EDP Vision,Digitalt,Se anmärkning,Korrespondens av betydelse bevaras.
+,,,,,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+Besluta samt skicka ut,Beslut,EDP Vision,Digitalt,Bevaras,
+tidkort,Tidkort,EDP Vision,Digitalt,5 år,
+,,,,,
+Delge beslut och signerat,Delgivningskvitto,EDP Vision,Digitalt,5 år,
+delgivningskvitto kommer,Påminnelse signering,EDP Vision,Digitalt,5 år,
+in,delgivningskvitto,,,,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera"
+,,,,,överklagande och omprövning.
