@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.6d76bb7f1963d5107e616b38/1744889265
 sha256: d178e2700094e0c15edf559e7c33c9c81fe374c8a409920ab84c1c04752fbf66
 bytes: 323783886
 sidor: 1716
-hamtad: 2026-11-08T22:25:21+00:00
-konverterad: 2026-11-08T22:44:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T13:20:52+00:00
+konverterad: 2026-11-18T13:40:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [541, 542, 543, 544, 545, 546, 579, 581, 593, 594, 595, 596, 597, 606, 607, 608, 609, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 776, 777, 1025, 1027, 1029, 1030, 1031, 1032, 1034, 1035, 1037, 1040, 1041, 1084, 1085, 1086, 1090, 1092, 1093, 1160, 1162, 1164, 1165, 1166, 1167, 1169, 1170, 1172, 1175, 1176, 1219, 1220, 1221, 1225, 1227, 1228, 1265, 1266, 1267, 1268, 1269, 1270, 1271, 1272, 1273, 1274, 1275, 1276, 1277, 1278, 1279, 1280, 1281, 1282, 1283, 1284, 1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1294, 1295, 1296, 1297, 1298, 1299, 1300, 1301, 1302, 1303, 1304, 1305, 1306, 1307, 1308, 1309, 1310, 1311, 1312, 1313, 1320, 1321, 1322, 1323, 1324, 1325, 1340, 1384, 1471, 1472, 1473, 1474, 1475, 1476, 1481, 1482, 1483, 1484, 1485, 1486, 1487, 1488, 1489, 1672, 1693, 1701, 1716]
-figurer: [553, 554, 555, 568, 569, 570, 571, 572, 573, 575, 576, 577, 578, 579, 580, 591, 593, 594, 595, 596, 597, 599, 603, 606, 609, 612, 613, 614, 615, 616, 617, 618, 619, 620, 622, 630, 633, 639, 641, 648, 649, 650, 651, 652, 654, 655, 656, 657, 658, 659, 666, 667, 668, 670, 672, 676, 677, 678, 679, 680, 686, 694, 696, 697, 699, 701, 702, 703, 704, 705, 706, 709, 710, 712, 713, 718, 720, 722, 723, 725, 726, 727, 728, 730, 735, 950, 972, 974, 976, 988, 990, 992, 1004, 1008, 1020, 1026, 1027, 1028, 1030, 1031, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1055, 1056, 1057, 1058, 1060, 1061, 1062, 1063, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1099, 1109, 1132, 1136, 1155, 1161, 1162, 1163, 1165, 1166, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1190, 1191, 1192, 1193, 1195, 1196, 1197, 1198, 1200, 1201, 1202, 1203, 1204, 1205, 1206, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1234, 1244, 1332, 1333, 1336, 1339, 1340, 1342, 1343, 1344, 1345, 1346, 1351, 1358, 1373, 1374, 1375, 1376, 1383, 1384, 1397, 1398, 1408, 1422, 1431, 1445, 1446, 1447, 1488, 1489, 1496, 1497, 1499, 1504, 1525, 1528, 1545, 1560, 1564, 1571, 1572, 1577, 1578, 1579, 1580, 1584, 1585, 1588, 1591, 1593, 1594, 1601, 1602, 1604, 1605, 1608, 1611, 1612, 1615, 1616, 1618, 1619, 1620, 1621, 1622, 1623, 1627, 1628, 1629, 1630, 1631, 1633, 1637, 1640, 1641, 1642, 1643, 1644, 1645, 1648, 1649, 1650, 1660, 1693]
+figurer: [553, 554, 555, 568, 569, 570, 571, 572, 573, 575, 576, 577, 578, 579, 580, 591, 593, 594, 595, 596, 597, 599, 603, 606, 609, 612, 613, 614, 615, 616, 617, 618, 619, 620, 622, 630, 633, 639, 641, 648, 649, 650, 651, 652, 654, 655, 656, 657, 658, 659, 666, 667, 668, 670, 672, 676, 677, 678, 679, 680, 686, 694, 696, 697, 699, 701, 702, 703, 704, 705, 706, 709, 710, 712, 713, 718, 720, 722, 723, 725, 726, 727, 728, 730, 735, 950, 972, 974, 976, 988, 990, 992, 1004, 1008, 1020, 1026, 1027, 1028, 1030, 1031, 1033, 1034, 1035, 1036, 1037, 1038, 1039, 1040, 1041, 1043, 1044, 1045, 1046, 1047, 1048, 1049, 1050, 1051, 1052, 1053, 1055, 1056, 1057, 1058, 1060, 1061, 1062, 1063, 1065, 1066, 1067, 1068, 1069, 1070, 1071, 1073, 1074, 1075, 1076, 1077, 1078, 1079, 1080, 1081, 1082, 1083, 1084, 1088, 1089, 1090, 1091, 1092, 1093, 1094, 1095, 1096, 1097, 1099, 1109, 1132, 1136, 1155, 1161, 1162, 1163, 1165, 1166, 1168, 1169, 1170, 1171, 1172, 1173, 1174, 1175, 1176, 1178, 1179, 1180, 1181, 1182, 1183, 1184, 1185, 1186, 1187, 1188, 1190, 1191, 1192, 1193, 1195, 1196, 1197, 1198, 1200, 1201, 1202, 1203, 1204, 1205, 1206, 1208, 1209, 1210, 1211, 1212, 1213, 1214, 1215, 1216, 1217, 1218, 1219, 1223, 1224, 1225, 1226, 1227, 1228, 1229, 1230, 1231, 1232, 1234, 1244, 1332, 1333, 1336, 1339, 1340, 1342, 1343, 1344, 1345, 1346, 1351, 1358, 1373, 1374, 1375, 1376, 1383, 1384, 1397, 1398, 1408, 1422, 1431, 1445, 1446, 1447, 1488, 1489, 1496, 1497, 1499, 1504, 1525, 1528, 1545, 1560, 1564, 1565, 1571, 1572, 1577, 1578, 1579, 1580, 1584, 1585, 1588, 1591, 1593, 1594, 1601, 1602, 1604, 1605, 1608, 1611, 1612, 1615, 1616, 1618, 1619, 1620, 1621, 1622, 1623, 1627, 1628, 1629, 1630, 1631, 1633, 1637, 1640, 1641, 1642, 1643, 1644, 1645, 1648, 1649, 1650, 1660, 1693]
 tolkade: []
 granskad: null
 ---
@@ -11418,7 +11418,6 @@ RA
 jen + EN GA =
 
 så AN
-PTA DO Fe KJ
 JG 2 .
 
 Fastighetsbeteckning: KUNGSBACKA BÅNGSBO 4:1
@@ -11929,8 +11928,6 @@ www.cedasakustik.se
 
 <!-- sida 613 -->
 
-Vv ST ag a pa
-BA ETT | —-
 \- o0-€e
 
 Projektnamn: Bångsbo 4:1
@@ -12607,8 +12604,6 @@ byggherredrivna planprocesser från Wendelstrand i Härryda och GoCo Health
 Innovation City i Mölndal.
 
 <!-- sida 641 -->
-
-Broods Gro br BROODS
 
 (adress borttagen), 436 57 Ho infoQbroods.se
 
@@ -25518,14 +25513,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        4 (15)
 
 [Tabell 955-1](handlingar.tabeller/955-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -25747,7 +25741,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 960 -->
 
@@ -25807,7 +25802,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 961 -->
 
@@ -25962,16 +25958,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -25999,6 +25988,18 @@ En Grundavgift per år 14.1 a) 428 kr 428 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        13 (15)
 
+[Tabell 964-1](handlingar.tabeller/964-1.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 964-2](handlingar.tabeller/964-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 965 -->
 
 § 18
@@ -26007,7 +26008,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -26035,8 +26035,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        14 (15)
 
 [Tabell 965-1](handlingar.tabeller/965-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -30959,7 +30960,7 @@ Andel av total befolkningen
 
 [Tabell 1084-1](handlingar.tabeller/1084-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -31159,17 +31160,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 1087 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -31177,18 +31197,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 1087-1](handlingar.tabeller/1087-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 1088 -->
 
@@ -31341,7 +31349,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 1091-1](handlingar.tabeller/1091-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |
@@ -36473,7 +36481,7 @@ Andel av total befolkningen
 
 [Tabell 1219-1](handlingar.tabeller/1219-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -36673,17 +36681,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 1222 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -36691,18 +36718,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 1222-1](handlingar.tabeller/1222-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 1223 -->
 
@@ -36855,7 +36870,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 1226-1](handlingar.tabeller/1226-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |
@@ -40098,7 +40113,7 @@ Exploateringsbidraget ska delas utifrån i detaljplanen erhållen byggrätt, enl
 21, ska fördelas mellan parterna enligt nedan.
 
 Inom delområde 1 fördelas kostnaderna enligt följande:
-55 94 Kungsbacka kommun
+55 24 Kungsbacka kommun
 
 31 24 Balder i Kungsbacka AB
 
@@ -40891,7 +40906,6 @@ Sommunstyrelsens förvaltning, skrivelse 2007-06-15
 Expedierat/bestyrkt
 
 MB
-TA EES
 LÅ
 
 <!-- sida 1326 -->
@@ -48260,7 +48274,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
@@ -48831,7 +48845,7 @@ Länsstyrelsens synpunkter - prövningsgrunder enligt 11
 kap. 10 8 PBL
 
 Länsstyrelsen bedömer med hänsyn till ingripandegrunderna i 11 kap. 10
-\$& PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
+\$ PBL och nu kända förhållanden att Länsstyrelsen kan komma att pröva
 kommunens beslut att anta detaljplanen.
 
 Länsstyrelsen befarar att:
@@ -52579,19 +52593,25 @@ basavstånd för typområde industri, inte 150.
 Felaktighet bekräftad av Norconsult via mail
 2024-09-30.
 
+3    2024-03-20 MKB till granskningshandling Sara Rydbeck, Katarina Sara Rydbeck, Sara Rydbeck
+Lönnebo Stagnell, Annie Patirica Brobeck
+Johansson, Kajsa Jakobsson,
+Johan Hultman, Anna-Lena
+Frennborn
+2    2022-05-30 Externgranskad samrådshandling Annie Johansson, Sara Patricia Brobeck Sara Rydbeck
+Rydbeck, Kajsa Jakobsson,
+Johan Hultman, Anna-Lena
+Frennborn
+1    2022-05-10 Konceptversion för externgranskning Annie Johansson Patricia Brobeck Sara Rydbeck
+Sara Rydbeck
+Kajsa Jakobsson
+Johan Hultman
+Anna-Lena Frennborn
 Version Datum Beskrivning      Upprättat       Granskat   Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 2 av 95
-
-[Tabell 1565-1](handlingar.tabeller/1565-1.csv)
-
-| 3 | 2024-03-20 | MKB till granskningshandling | Sara Rydbeck, Katarina<br>Lönnebo Stagnell, Annie<br>Johansson, Kajsa Jakobsson,<br>Johan Hultman, Anna-Lena<br>Frennborn | Sara Rydbeck,<br>Patirica Brobeck | Sara Rydbeck |
-| --- | --- | --- | --- | --- | --- |
-| 2 | 2022-05-30 | Externgranskad samrådshandling | Annie Johansson, Sara<br>Rydbeck, Kajsa Jakobsson,<br>Johan Hultman, Anna-Lena<br>Frennborn | Patricia Brobeck | Sara Rydbeck |
-| 1 | 2022-05-10 | Konceptversion för externgranskning | Annie Johansson<br>Sara Rydbeck<br>Kajsa Jakobsson<br>Johan Hultman<br>Anna-Lena Frennborn | Patricia Brobeck | Sara Rydbeck |
 
 <!-- sida 1566 -->
 
@@ -53069,13 +53089,30 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 | Miljöaspekt | Omfattning |
 | --- | --- |
-| Trafik | Påverkan på trafiksituationen inom och kring planområdet utifrån olika transportsätt,<br>påverkan på trafiknätet från lastbilstransport under både anläggningsfasen och efter<br>projektets genomförande. |
-| Buller från trafik och<br>verksamheter | Påverkan på trafikbullernivåer från väg och järnväg, samt industrirelaterat buller inom<br>planområdet och i närliggande områden. |
-| Luftmiljö | Påverkan på områdets luftmiljö utifrån gällande miljökvalitetsnormer för luft samt<br>verksamheternas luktstörning. |
-| Risk och sårbarhet | Påverkan på den totala riskbilden i området kopplat till verksamheterna och närheten<br>till Västkustbanan. Risken för olyckor med farligt gods, samhällskonsekvenser om<br>fjärrvärmeverket respektive reningsverket inte fungerar, sårbarheten med att ett<br>fjärrvärmeverk, reningsverk och västkustbanan finns inom samma närområde, samt<br>risken för kumulativa effekter. Konsekvenserna från oavsiktliga olyckshändelser och<br>antagonistiska hot, samt resonemang kring alternativ lokalisering och hur komplettering<br>av ytterligare reningsverk och fjärrvärmeverk skulle kunna påverka robusthet jämfört<br>med utbyggnad. |
-| Vattenförhållanden | Påverkan på dagvatten, utsläpp från verksamheten till recipienterna Kungsbackaån och<br>Kungsbackafjorden, skyfall och översvämning. Hantering av dagvatten och planens<br>påverkan på miljökvalitetsnormer (MKN). |
-| Naturmiljö och friluftsliv | Påverkan på naturmiljön, värden för biologisk mångfald och friluftsliv, samt på<br>recipienterna Kungsbackaån och Natura 2000-området Kungsbackafjorden. Planens<br>påverkan genom närsalts- och föroreningsbelastning på recipienter och dess växt- och<br>djurliv. |
-| Skyddade områden och<br>skyddsbestämmelser | Påverkan på skyddade områden och skyddsbestämmelser, såsom Natura 2000-<br>området Kungsbackafjorden och riksintresset för kommunikation Västkustbanan. |
+| Trafik | Påverkan på trafiksituationen inom och kring planområdet utifrån olika transportsätt, |
+|  | påverkan på trafiknätet från lastbilstransport under både anläggningsfasen och efter |
+|  | projektets genomförande. |
+| Buller från trafik och | Påverkan på trafikbullernivåer från väg och järnväg, samt industrirelaterat buller inom |
+| verksamheter | planområdet och i närliggande områden. |
+| Luftmiljö | Påverkan på områdets luftmiljö utifrån gällande miljökvalitetsnormer för luft samt |
+|  | verksamheternas luktstörning. |
+| Risk och sårbarhet | Påverkan på den totala riskbilden i området kopplat till verksamheterna och närheten |
+|  | till Västkustbanan. Risken för olyckor med farligt gods, samhällskonsekvenser om |
+|  | fjärrvärmeverket respektive reningsverket inte fungerar, sårbarheten med att ett |
+|  | fjärrvärmeverk, reningsverk och västkustbanan finns inom samma närområde, samt |
+|  | risken för kumulativa effekter. Konsekvenserna från oavsiktliga olyckshändelser och |
+|  | antagonistiska hot, samt resonemang kring alternativ lokalisering och hur komplettering |
+|  | av ytterligare reningsverk och fjärrvärmeverk skulle kunna påverka robusthet jämfört |
+|  | med utbyggnad. |
+| Vattenförhållanden | Påverkan på dagvatten, utsläpp från verksamheten till recipienterna Kungsbackaån och |
+|  | Kungsbackafjorden, skyfall och översvämning. Hantering av dagvatten och planens |
+|  | påverkan på miljökvalitetsnormer (MKN). |
+| Naturmiljö och friluftsliv | Påverkan på naturmiljön, värden för biologisk mångfald och friluftsliv, samt på |
+|  | recipienterna Kungsbackaån och Natura 2000-området Kungsbackafjorden. Planens |
+|  | påverkan genom närsalts- och föroreningsbelastning på recipienter och dess växt- och |
+|  | djurliv. |
+| Skyddade områden och | Påverkan på skyddade områden och skyddsbestämmelser, såsom Natura 2000- |
+| skyddsbestämmelser | området Kungsbackafjorden och riksintresset för kommunikation Västkustbanan. |
 
 <!-- sida 1576 -->
 
@@ -53130,13 +53167,13 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1576-1](handlingar.tabeller/1576-1.csv)
 
-| Positiv påverkan |  | Värde/kvalitet av tillskapad aspekt/nytta |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Mycket högt | Högt | Måttligt | Litet |
-| d<br>a<br>p<br>a<br>/g k a<br>n s llit tty<br>in n<br>tta å /tk<br>fm p e<br>te p<br>O titn s a<br>a<br>v<br>k | Stor |  |  |  |  |
-|  | Medelstor |  |  |  |  |
-|  | Måttlig |  |  |  |  |
-|  | Liten |  |  |  |  |
+| Positiv påverkan |  |  |  | Värde/kvalitet av tillskapad aspekt/nytta |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Mycket högt | Högt | Måttligt | Litet |
+| /g<br>n<br>in<br>tta<br>fm<br>O | d<br>a<br>p<br>a<br>k<br>s<br>llit<br>å<br>p<br>te<br>titn<br>a<br>v<br>k | a<br>tty<br>n<br>/tk<br>e<br>p<br>s<br>a | Stor |  |  |  |  |
+|  |  |  | Medelstor |  |  |  |  |
+|  |  |  | Måttlig |  |  |  |  |
+|  |  |  | Liten |  |  |  |  |
 
 <!-- sida 1577 -->
 
@@ -53243,12 +53280,24 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1580-1](handlingar.tabeller/1580-1.csv)
 
-| Detaljplan | Referens i<br>figur 3.3 | År för<br>antagande | Översiktlig beskrivning |
+| Detaljplan | Referens i | År för | Översiktlig beskrivning |
 | --- | --- | --- | --- |
-| Stadsplan för Stadsäga 450<br>i Kungsbacka och Hanhals<br>registerområden | K86 | 1987 | Majoriteten av planområdet, inklusive markerade fjärrvärmeverk<br>och reningsverk, är betecknat som allmänt område. En remsa<br>av mark längs med hela plangränsen är betecknad som s.k.<br>prickmark, dvs. mark som inte får bebyggas. |
-| Tillägg till stadsplan för<br>Stadsäga 450 i Kungsbacka<br>Hanhals registerområde | K86A | 1999 | Inom mark som enligt ovan detaljplan utlagts som parkmark<br>finns ett befintligt bergrum som tidigare använts av civilförsvaret.<br>Enligt tilläggsplanen ges marken planbestämmelsen bergrum<br>för att ge rätt att under parkmarken anlägga bergrum. |
-| Detaljplan för Hammargård<br>1:7 m.fl. – Utbyggnad av<br>fjärrvärmeverk m.m. | KP111 | 2002 | Planområdet är betecknat som industrimark, med några remsor<br>mark i utkanten av området som inte får bebyggas eller har<br>anordnats som planterat skyddsområde som inte får hårdgöras. |
-| Ändringsplan för detaljplan<br>för del av Kungsbacka 6:27<br>m.fl. i Kungsbacka tätort | KP111A | 2003 | Revidering av gällande detaljplan KP111 för att möjliggöra<br>justering av läget för planerad ackumulatortank, skorsten och<br>placering av pannhus och bränslelager, vilka har inarbetats i<br>plan KP111A. |
+|  | figur 3.3 | antagande |  |
+| Stadsplan för Stadsäga 450 | K86 | 1987 | Majoriteten av planområdet, inklusive markerade fjärrvärmeverk |
+| i Kungsbacka och Hanhals |  |  | och reningsverk, är betecknat som allmänt område. En remsa |
+| registerområden |  |  | av mark längs med hela plangränsen är betecknad som s.k. |
+|  |  |  | prickmark, dvs. mark som inte får bebyggas. |
+| Tillägg till stadsplan för | K86A | 1999 | Inom mark som enligt ovan detaljplan utlagts som parkmark |
+| Stadsäga 450 i Kungsbacka |  |  | finns ett befintligt bergrum som tidigare använts av civilförsvaret. |
+| Hanhals registerområde |  |  | Enligt tilläggsplanen ges marken planbestämmelsen bergrum |
+|  |  |  | för att ge rätt att under parkmarken anlägga bergrum. |
+| Detaljplan för Hammargård | KP111 | 2002 | Planområdet är betecknat som industrimark, med några remsor |
+| 1:7 m.fl. – Utbyggnad av |  |  | mark i utkanten av området som inte får bebyggas eller har |
+| fjärrvärmeverk m.m. |  |  | anordnats som planterat skyddsområde som inte får hårdgöras. |
+| Ändringsplan för detaljplan | KP111A | 2003 | Revidering av gällande detaljplan KP111 för att möjliggöra |
+| för del av Kungsbacka 6:27 |  |  | justering av läget för planerad ackumulatortank, skorsten och |
+| m.fl. i Kungsbacka tätort |  |  | placering av pannhus och bränslelager, vilka har inarbetats i |
+|  |  |  | plan KP111A. |
 
 <!-- sida 1581 -->
 
@@ -53637,9 +53686,14 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1590-1](handlingar.tabeller/1590-1.csv)
 
-| Väg | Leq dag<br>(06-18) | Leq kväll<br>(18-22) samt lör-,<br>sön- och<br>helgdag (06-18) | Leq natt<br>(22-06) | Lmax natt<br>(22-06) |
+| Väg | Leq dag | Leq kväll | Leq natt | Lmax natt |
 | --- | --- | --- | --- | --- |
-| Utgångspunkt för olägenhets-<br>bedömning vid bostäder, skolor,<br>förskolor och vårdlokaler | 50 dBA | 45 dBA | 40 dBA | 55 dBA |
+|  | (06-18) | (18-22) samt lör-, | (22-06) | (22-06) |
+|  |  | sön- och |  |  |
+|  |  | helgdag (06-18) |  |  |
+| Utgångspunkt för olägenhets- | 50 dBA | 45 dBA | 40 dBA | 55 dBA |
+| bedömning vid bostäder, skolor, |  |  |  |  |
+| förskolor och vårdlokaler |  |  |  |  |
 
 <!-- sida 1591 -->
 
@@ -53966,9 +54020,12 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1598-1](handlingar.tabeller/1598-1.csv)
 
-|  | Stoft<br>(ton/år) | CO<br>2<br>(ton/år) | CO<br>(ton/år) | NOx<br>(ton/år) | Svavel<br>(ton/år) |
+|  | Stoft | CO<br>2 | CO | NOx | Svavel |
 | --- | --- | --- | --- | --- | --- |
-| Nuvarande förhållanden (benämnt<br>”utbyggnadsalternativet” i MKB:n till<br>tillståndsansökan) | 7,0 | 912 | 68 | 36 | 0,1 |
+|  | (ton/år) | (ton/år) | (ton/år) | (ton/år) | (ton/år) |
+| Nuvarande förhållanden (benämnt | 7,0 | 912 | 68 | 36 | 0,1 |
+| ”utbyggnadsalternativet” i MKB:n till |  |  |  |  |  |
+| tillståndsansökan) |  |  |  |  |  |
 
 <!-- sida 1599 -->
 
@@ -54206,8 +54263,9 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1604-1](handlingar.tabeller/1604-1.csv)
 
-| Typ av bebyggelse | Basavstånd/reducerat avstånd<br>Västkustbanan (m) |
+| Typ av bebyggelse | Basavstånd/reducerat avstånd |
 | --- | --- |
+|  | Västkustbanan (m) |
 | Bebyggelsefritt | 30/20 |
 | Industri (teknisk anläggning) | 50/20 |
 | Kontor | 50/20 |
@@ -54599,17 +54657,6 @@ den ekologiska kvoten till 0,37. För att uppnå god status behöver halten av t
 Tabell 11.1 Ekologisk och kemisk status i samt miljökvalitetsnormer för ekologisk och kemisk ytvattenstatus i närmast
 belägna vattenförekomsterna i Kungsbackaån och Inre Kungsbackafjorden.
 
-Vattenförekomst           Status             Miljökvalitetsnorm
-ID          Namn     Ekologisk Kemisk    Ekologisk Kemisk
-WA82828105  Kungsbackaån - Måttlig Uppnår ej god God  God kemisk
-Mynningen till Lillån status status ekologisk status\*
-status 2033
-WA21723833  Inre           Måttlig Uppnår ej god God  God kemisk
-Kungsbackafjorden status status   ekologisk status\*
-status 2027
-\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
-tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden)
-
 Figur 11.3. Vattenförekomst Kungsbackaån (Mynningen-Lillån) och röd ring visar planområdet (VISS, 2024a).
 
 De klassade hydromorfologiska kvalitetsfaktorerna varierar och har antingen hög eller otillfredsställande
@@ -54618,6 +54665,15 @@ vattendrag” otillfredsställande status på grund av att närområdet utgörs 
 och/eller anlagda ytor. Övriga kvalitetsfaktorer bedöms ha hög till måttlig status.
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida 52 av 95
+
+[Tabell 1615-1](handlingar.tabeller/1615-1.csv)
+
+| Vattenförekomst |  | Status |  | Miljökvalitetsnorm |  |
+| --- | --- | --- | --- | --- | --- |
+| ID | Namn | Ekologisk | Kemisk | Ekologisk | Kemisk |
+| WA82828105 | Kungsbackaån -<br>Mynningen till Lillån | Måttlig<br>status | Uppnår ej god<br>status | God<br>ekologisk<br>status 2033 | God kemisk<br>status\* |
+| WA21723833 | Inre<br>Kungsbackafjorden | Måttlig<br>status | Uppnår ej god<br>status | God<br>ekologisk<br>status 2027 | God kemisk<br>status\* |
+| \*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av<br>tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden) |  |  |  |  |  |
 
 <!-- sida 1616 -->
 
@@ -55848,11 +55904,15 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 1649-1](handlingar.tabeller/1649-1.csv)
 
-| Fornsök-referens | Status | Beskrivning | Placering i förhållande till<br>planområdet |
+| Fornsök-referens | Status | Beskrivning | Placering i förhållande till |
 | --- | --- | --- | --- |
-| L1997:4759 | Ingen antikvarisk<br>bedömning | Stensättning | I sydöstra hörnet av<br>planområdet |
-| L1997:4829 | Ingen antikvarisk<br>bedömning | Boplatsområde | I sydöstra hörnet av<br>planområdet |
-| L1997:4250 | Övrig kulturhistorisk<br>lämning | Gropavfall | Strax söder om planområdet |
+|  |  |  | planområdet |
+| L1997:4759 | Ingen antikvarisk | Stensättning | I sydöstra hörnet av |
+|  | bedömning |  | planområdet |
+| L1997:4829 | Ingen antikvarisk | Boplatsområde | I sydöstra hörnet av |
+|  | bedömning |  | planområdet |
+| L1997:4250 | Övrig kulturhistorisk | Gropavfall | Strax söder om planområdet |
+|  | lämning |  |  |
 | L1997:6843 | Möjlig fornlämning | Fornborg | Strax norr om planområdet |
 
 <!-- sida 1650 -->
@@ -56773,7 +56833,7 @@ minnesdagen.
 
 Kommunfulhnäktigeledamöter
 
-Vi Mdgdaålena SYyRdqvist (S) Johan Tolinsson (S) Ann-Louise Lundqvist (S)/
+VV Mdgdalena SYyRdqvist (S) Johan Tolinsson (S) Ann-Louise Lundqvist (S)/
 
 Ermin Skorié (S) Shabnam Zamani (S Lafs Ericsson (S) ”—
 
@@ -58660,8 +58720,6 @@ ar .
 SD Socialdemokraterna
 
 Motion 2024-09-28
-
-(8 corssomseamrasmr VE
 
 F ra mtid e n S fo | kh ä | Sa Levnadsvanornas bidrag till hälsa -
 

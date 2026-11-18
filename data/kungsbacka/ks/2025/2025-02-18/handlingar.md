@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.42aac4b1194d846c2fcf1032/1739534411
 sha256: 6fa418c3de52ea0b5801063caf4b107176ececab8ce615aa85c3f47d9722ca15
 bytes: 55469329
 sidor: 727
-hamtad: 2026-11-08T22:20:37+00:00
-konverterad: 2026-11-08T22:23:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T13:15:52+00:00
+konverterad: 2026-11-18T13:19:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [9, 226, 436, 437, 438, 506, 507, 555, 596, 599, 688]
 figurer: [9, 38, 40, 43, 44, 46, 47, 48, 50, 52, 54, 55, 58, 60, 62, 64, 66, 67, 68, 69, 71, 73, 74, 83, 85, 86, 88, 89, 91, 93, 95, 97, 99, 102, 104, 105, 106, 108, 109, 110, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 125, 127, 130, 131, 132, 133, 134, 139, 142, 143, 153, 154, 166, 169, 170, 173, 177, 185, 186, 187, 188, 189, 190, 194, 196, 197, 198, 199, 201, 202, 203, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 215, 216, 218, 219, 220, 221, 222, 223, 224, 281, 283, 286, 287, 289, 290, 291, 293, 295, 297, 298, 300, 303, 305, 307, 309, 311, 312, 313, 314, 316, 318, 319, 328, 330, 331, 333, 334, 336, 338, 340, 342, 344, 346, 348, 349, 350, 352, 353, 355, 358, 359, 360, 361, 362, 363, 364, 365, 366, 368, 370, 372, 374, 375, 377, 378, 379, 380, 381, 386, 389, 390, 400, 401, 413, 447, 448, 449, 450, 451, 464, 465, 497, 515, 516, 517, 518, 520, 555, 568, 571, 576, 579, 581, 582, 584, 585, 586, 587, 590, 595, 599, 600, 602, 603, 607, 608, 610, 611, 613, 614, 615, 616, 623, 624, 625, 656, 660, 661, 663, 667, 669, 683, 685, 686, 687, 688, 689, 690]
 tolkade: []
@@ -969,37 +969,12 @@ i sig kommer nyföretagandet i Kungsbacka att öka jämfört med 2023.
 
 5.2 Resursmått
 
-Namn                             Utfall  Utfall Utfall Utfall Utfall
-2020   2021  2022    2023   2024
-Digital mognadsgrad                54 %  51,9 %  53,4 %   57 %     \*
-
-Ledtid detaljplan från projektstart till antagande,
-23     25      27     31      28
-anges i månader
 \* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
+
 5.3 Prestationsmått
 
-Ledtid planbesked till projektstart, anges i
-5,35     24      24      31      32
-månader
 5.4 Effektmått
 
-Namn                                Utfall Utfall Utfall Utfall Utfall
-2020   2021  2022   2023   2024
-Kommunen arbetar aktivt för att förbättra integration
-22 % 26,6 %
-och delaktighet av människor i samhället
-Kommunens information om vad du kan göra för att
-54,5 % 44,6 %
-minska din miljö- och klimatpåverkan
-Kommunikation vid större förändringar i kommunen,
-48,7   48,3
-exempelvis stadsplanering, byggnationer
-Antal nystartade företag per tusen invånare
-13,1   13,8   12,8   10,3   \*
-(etableringsfrekvens)
-Antal arbetsställen                 11 384 11 603 11 808 11 948   \*
-Sysselsatt dagbefolkning, 15–74 år  27 384 28 167 28 494 28 586   \*
 De tre översta måtten är ifrån SCB:s medborgarundersökning. Vi har inte deltagit i undersökningen sedan 2022, måttet utgår ur
 uppföljningen 2025.
 \* Ännu ej publicerad
@@ -1008,12 +983,31 @@ uppföljningen 2025.
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Digital mognadsgrad | 54 % | 51,9 % | 53,4 % | 57 % | \* |
+| Ledtid detaljplan från projektstart till antagande,<br>anges i månader | 23 | 25 | 27 | 31 | 28 |
+
+[Tabell 25-2](handlingar.tabeller/25-2.csv)
+
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Upprättade detaljplaner | 10 | 11 | 12 | 9 | 10 |
 | Antal företagsärenden i tillståndslotsen | 32 | 46 | 50 | 60 | 46 |
 | Planlagda bostäder | 336 | 662 | 381 | 386 | 248 |
 | Automatiserade processer | 10 | 11 | 3 | 7 | 7 |
+| Ledtid planbesked till projektstart, anges i<br>månader | 5,35 | 24 | 24 | 31 | 32 |
+
+[Tabell 25-3](handlingar.tabeller/25-3.csv)
+
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Kommunen arbetar aktivt för att förbättra integration<br>och delaktighet av människor i samhället |  | 22 % | 26,6 % |  |  |
+| Kommunens information om vad du kan göra för att<br>minska din miljö- och klimatpåverkan |  | 54,5 % | 44,6 % |  |  |
+| Kommunikation vid större förändringar i kommunen,<br>exempelvis stadsplanering, byggnationer |  | 48,7 | 48,3 |  |  |
+| Antal nystartade företag per tusen invånare<br>(etableringsfrekvens) | 13,1 | 13,8 | 12,8 | 10,3 | \* |
+| Antal arbetsställen | 11 384 | 11 603 | 11 808 | 11 948 | \* |
+| Sysselsatt dagbefolkning, 15–74 år | 27 384 | 28 167 | 28 494 | 28 586 | \* |
 
 <!-- sida 26 -->
 
@@ -1163,32 +1157,27 @@ sjukfrånvaron fortfarande låg, inte bara inom förvaltningen utan också i jä
 
 6.4 Resursmått
 
-Namn             Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-
-```osaker-tabell
-Andel heltid       100 %      100 %        100 %      100 %     100 %
-
-Anställda andel kvinnor 73,8 % 74 %        75,8 %     72 %      73,8 %
-Anställda totalt    126        127           124       125        126
-
-Medelålder          44         45            45         46         47
-```
-
 6.5 Effektmått
 
-Bokslut  Bokslut  Bokslut Bokslut  Bokslut
-Namn
-
-```osaker-tabell
-                            2020     2021     2022    2023     2024
-Personalomsättning          12,9 %   7,4 %     11,7 %   8,3 %    4,8 %
-Sjukfrånvaro Kvinnor        2,8 %    2,6 %       3 %    3,3 %    2,3 %
-Sjukfrånvaro Män            2,8 %    0,4 %     1,1 %    0,8 %     1 %
-
-Sjukfrånvaro Totalt         2,8 %    2 %       2,5 %    2,6 %    1,9 %
-```
-
 20
+
+[Tabell 28-1](handlingar.tabeller/28-1.csv)
+
+| Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % | 100 % | 100 % |
+| Anställda andel kvinnor | 73,8 % | 74 % | 75,8 % | 72 % | 73,8 % |
+| Anställda totalt | 126 | 127 | 124 | 125 | 126 |
+| Medelålder | 44 | 45 | 45 | 46 | 47 |
+
+[Tabell 28-2](handlingar.tabeller/28-2.csv)
+
+| Namn | Bokslut<br>2020 | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 12,9 % | 7,4 % | 11,7 % | 8,3 % | 4,8 % |
+| Sjukfrånvaro Kvinnor | 2,8 % | 2,6 % | 3 % | 3,3 % | 2,3 % |
+| Sjukfrånvaro Män | 2,8 % | 0,4 % | 1,1 % | 0,8 % | 1 % |
+| Sjukfrånvaro Totalt | 2,8 % | 2 % | 2,5 % | 2,6 % | 1,9 % |
 
 <!-- sida 29 -->
 
@@ -22322,19 +22311,16 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2021   2022   2023   Målsättning 2025
-Antal påbörjade bostäder            216   848     165         Öka
-Antal färdigställda bostäder       430    363     319         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel-      Öka
 hetssyn (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
@@ -22344,6 +22330,16 @@ Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
 
 Kommunbudget 2025 och plan 2026–2027 19
+
+[Tabell 582-1](handlingar.tabeller/582-1.csv)
+
+| 216 | 848 | 165 |
+| --- | --- | --- |
+| 430 | 363 | 319 |
+| 5 321 | 5 691 | 6 475 |
+| \* | 90 % | 91 % |
+| \* | 74 % | 76 % |
+| \* | 88 % | \* |
 
 <!-- sida 583 -->
 
@@ -22406,17 +22402,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2021   2022   2023    Målsättning 2025
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 70 67 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet.
-Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen       Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
 \*Ännu ej publicerad.
@@ -22427,6 +22423,15 @@ samma människor.
 Foto: Catharina Fyrberg
 
 Kommunbudget 2025 och plan 2026–2027 21
+
+[Tabell 584-1](handlingar.tabeller/584-1.csv)
+
+| 66 | 70 | 67 |
+| --- | --- | --- |
+| 3,5 | 3,4 | 3,4 |
+| 27 384 | 27 695 | \* |
+| 5,1 % | 4,9 % | \* |
+| 18 % | 18 % | \* |
 
 <!-- sida 585 -->
 
@@ -22439,18 +22444,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2021   2022   2023 Målsättning 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet 239 237 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet Öka
 utgörs av summan av de 17 bästa betygen i elevens slutbetyg och kan
 max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- 14,2 14,5 14,3 Öka
+Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- Öka
 äng som kan vara max 20. (Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen 2,6 % 1,7 % 1,7 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen                 Minska
 (Källa: Arbetsförmedlingen och SCB)
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)         Minska
 Andel vuxna personer som inte återkommer till försörjningsstöd inom 67 % 69 % 73 % Öka
 ett år efter avslutat försörjningsstöd (Kolada)
 
 22 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 585-1](handlingar.tabeller/585-1.csv)
+
+| 239 | 237 | 237 |
+| --- | --- | --- |
+| 14,2 | 14,5 | 14,3 |
+| 2,6 % | 1,7 % | 1,7 % |
+| 414 | 376 | 325 |
 
 <!-- sida 586 -->
 
@@ -28448,6 +28461,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 700 -->
 
@@ -28951,6 +28965,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 715 -->
 
@@ -28977,6 +28992,7 @@ Tabell 3
 | Hyra halva 50m-bassängen. | 809 kr/timme + ordinarie entréavgift. |
 | Hyra hel undervisningsbassäng. | 1 385 kr/timme + ordinarie entréavgift. |
 | Övrig kommersiell hyra för bassänger. | Sätts av driftsoperatören. |
+|  |  |
 
 <!-- sida 716 -->
 
