@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.70d00e119a55206bf5521b4/17628627483
 sha256: 58334f80f345bb09477fa79647290e8a9c5985703bb2a87bee9e123e3b00620f
 bytes: 15211064
 sidor: 155
-hamtad: 2026-11-08T19:35:14+00:00
-konverterad: 2026-11-08T19:35:56+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:08:46+00:00
+konverterad: 2026-11-18T10:09:30+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -829,48 +829,40 @@ Nämndbudget 2026
 
 8.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnets rätt                                         KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Översiktsplan för vindkraft                         KF 2021-11-09 § 140
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Dagvatten                                           KF 2023-06-14 § 77
-Vatten- och avloppsanläggning, allmänna bestämmelser för användande KF § 44/09
-Inköp, policy                                       KF § 2021-03-09 § 30
-
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Lokala ordningsföreskrifter                          KF 2020-02-04 § 8
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-
-Reglemente för Miljö & Hälsoskydd                   KF 2023-12-14 § 192
-Offentlig kontroll av livsmedel och vissa jordbruksprodukter KF 2022-12-06 § 237
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-
-Personalföreträdare i nämnder                        KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-
-Personuppgifter - riktlinjer                        KF 2024-03-05 § 33
-VA-policy Kungsbacka kommun                           KS/2017:758
-Taxa för uppdragsverksamhet                         KF 2012-08-14 §152
-
 21
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Översiktsplan för vindkraft | KF 2021-11-09 § 140 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Dagvatten | KF 2023-06-14 § 77 |
+| Vatten- och avloppsanläggning, allmänna bestämmelser för användande | KF § 44/09 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för Miljö & Hälsoskydd | KF 2023-12-14 § 192 |
+| Offentlig kontroll av livsmedel och vissa jordbruksprodukter | KF 2022-12-06 § 237 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Personuppgifter - riktlinjer | KF 2024-03-05 § 33 |
+| VA-policy Kungsbacka kommun | KS/2017:758 |
+| Taxa för uppdragsverksamhet | KF 2012-08-14 §152 |
 
 <!-- sida 23 -->
 
@@ -879,53 +871,52 @@ Nämndbudget 2026
 
 8.1.2 Kommungemensamma regler
 
-Styrdokument                                       Beslutande paragraf/År
-
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 8.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                       Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                           KS 2023-02-21 § 32
-Regler för fakturering och kravhantering            KS 2024-03-19 § 90
 
 8.1.4 Styrdokument beslutade av nämnden för Miljö & Hälsoskydd
 
-Styrdokument                                       Beslutande paragraf/År
-
-Dokumenthanteringsplan                                NMH § 56/18
-Arkivbeskrivning                                      MH § 109/15
-
-Kundkommunikationsstrategi                            MH § 118/16
-Delegeringsförteckning                                NMH § 98/23
-Riktlinjer för serveringstillstånd                     MH § 76/20
-
-Komplettering till Strategi för prövning av enskilda avlopp NMH §59/16
-
 8.1.5 Styrdokument beslutade av miljö- och hälsoskyddsnämnden
 
-Styrdokument                                       Beslutande paragraf/År
-Policy för hantering av byggnation inom områden med planerad VA-sanering MHN § 75/99
-
 22
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 23-2](handlingar.tabeller/23-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Regler för fakturering och kravhantering | KS 2024-03-19 § 90 |
+
+[Tabell 23-3](handlingar.tabeller/23-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Dokumenthanteringsplan | NMH § 56/18 |
+| Arkivbeskrivning | MH § 109/15 |
+| Kundkommunikationsstrategi | MH § 118/16 |
+| Delegeringsförteckning | NMH § 98/23 |
+| Riktlinjer för serveringstillstånd | MH § 76/20 |
+| Komplettering till Strategi för prövning av enskilda avlopp | NMH §59/16 |
+
+[Tabell 23-4](handlingar.tabeller/23-4.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Policy för hantering av byggnation inom områden med planerad VA-sanering | MHN § 75/99 |
 
 <!-- sida 24 -->
 
@@ -936,17 +927,17 @@ Nämndbudget 2026
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Miljöbalken; taxa för prövning och tillsyn inom miljöbalkens område med mera. KF 2023-12-14 § 195
-
-Alkohollagen m.fl.; taxa för prövning och tillsyn enligt alkohollagen, lagen om
-tobak och liknande produkter samt lagen om handel med vissa receptfria KF 2025-06-16 § 120
-läkemedel och lag om tobaksfria nikotinprodukter
-Offentlig kontroll av livsmedel och vissa jordbruksprodukter KF 2022-12-06 § 237
-Taxa för uppdragsverksamhet                         KF 2012-08-14 §152
-
 23
+
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Miljöbalken; taxa för prövning och tillsyn inom miljöbalkens område med mera. | KF 2023-12-14 § 195 |
+| Alkohollagen m.fl.; taxa för prövning och tillsyn enligt alkohollagen, lagen om<br>tobak och liknande produkter samt lagen om handel med vissa receptfria<br>läkemedel och lag om tobaksfria nikotinprodukter | KF 2025-06-16 § 120 |
+| Offentlig kontroll av livsmedel och vissa jordbruksprodukter | KF 2022-12-06 § 237 |
+| Taxa för uppdragsverksamhet | KF 2012-08-14 §152 |
 
 <!-- sida 25 -->
 
@@ -5961,17 +5952,23 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       24 (34)
 
 [Tabell 141-144-1](handlingar.tabeller/141-144-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
 | Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
 |  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
 | Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
 | Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 142 -->
@@ -6015,8 +6012,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       30 (34)
 
 [Tabell 147-148-1](handlingar.tabeller/147-148-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel<br>från butik ska av<br>avfallslämnaren<br>förpackas i särskild<br>påse, säck eller<br>lämnas i tank av typ<br>som godkänts av<br>avfallsansvariga<br>nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |

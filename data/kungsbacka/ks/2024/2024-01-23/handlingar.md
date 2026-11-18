@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1abb884718c8ab9a9f73e7b8/1705474508
 sha256: 9e2d45b2086c80a1c8fbcdc143dd95f235a952a247f40bcbcd3e0244d0b676b6
 bytes: 163597772
 sidor: 589
-hamtad: 2026-11-08T20:50:06+00:00
-konverterad: 2026-11-08T21:00:13+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:33:25+00:00
+konverterad: 2026-11-18T11:43:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [111, 115, 116, 118, 119, 123, 124, 125, 126, 127, 128, 129, 130, 134, 135, 136, 137, 138, 139, 140, 141, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 304, 306, 336, 337, 340, 341, 342, 343, 344, 454, 527, 537, 538, 545, 560, 570, 571, 589]
 figurer: [21, 30, 31, 35, 36, 42, 115, 116, 123, 124, 125, 126, 127, 128, 129, 130, 134, 135, 136, 137, 138, 139, 140, 141, 181, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 232, 236, 249, 260, 262, 263, 264, 265, 274, 275, 279, 284, 287, 320, 360, 380, 435, 437, 439, 451, 518, 527, 537, 545, 555, 560]
 tolkade: []
@@ -561,8 +561,6 @@ Förslag till beslut i kommunstyrelsen
 
 Kommunstyrelsen fastställer lönestrukturen för 2024 enligt nedan:
 
-BASkod 10 p 2024 90 p 2024
-
 Kommunstyrelsen godkänner rapport avseende lönekartläggning 2023 och uppmanar förvaltningarna
 att i löneöversyn 2024 beakta lönesättningen för kvinnodominerande befattningar i BAS-intervall D, F
 och J.
@@ -587,8 +585,9 @@ www.kungsbacka.se
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| A | 23 690 | 28 840 |
+| BASkod | 10 p 2024 | 90 p 2024 |
 | --- | --- | --- |
+| A | 23 690 | 28 840 |
 | B | 24 720 | 31 930 |
 | C | 26 780 | 35 020 |
 | D | 28 840 | 38 110 |
@@ -825,7 +824,7 @@ Kungsbacka kommun
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Kvinnor Män Differens i kronor Differens i procent |  |  |  |  |
+|  | Kvinnor | Män | Differens i kronor | Differens i procent |
 | --- | --- | --- | --- | --- |
 | 2023 | 34 200 | 35 000 | 800 kr | 97,7% |
 | 2021 | 32 285 | 33 100 | 815 kr | 97,5% |
@@ -1314,7 +1313,7 @@ har 100% anställda kvinnor och 42 befattningar uppbärs endast av män.
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| BAS Befattning Antal Procentuell skillnad mellan medianlön för<br>anställningar befattningen i jämförelse med medianlön i<br>berörd BAS |  |  |  |
+| BAS | Befattning | Antal<br>anställningar | Procentuell skillnad mellan medianlön för<br>befattningen i jämförelse med medianlön i<br>berörd BAS |
 | --- | --- | --- | --- |
 | F | Bibliotekarie | 31 | 88% |
 | D | Äldrekonsulent | 10 | 88% |
@@ -1347,7 +1346,7 @@ befattning. För merparten av de större befattningarna är lönespridningen god
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
-| Befattning Antal Medianlön Medianlön män Lönespännvid mellan<br>anställningar kvinnor 10 och 90 percentil |  |  |  |  |
+| Befattning | Antal<br>anställningar | Medianlön<br>kvinnor | Medianlön män | Lönespännvid mellan<br>10 och 90 percentil |
 | --- | --- | --- | --- | --- |
 | Undersköterska | 866 | 30 100 | 28 800 | 23% |
 | Lärare Förskola | 457 | 37 000 | 36 575 | 18% |
@@ -1396,48 +1395,43 @@ Nedan följer en lista på de befattningar där medianlönen för de kvinnodomin
 lägre än för icke kvinnodominerade befattningar. Urvalet är minst 5 medarbetare och en differens på
 minst 10 % mellan medianlönerna.
 
-Differens
-Antal Medianlön Andel         Antal Medianlön    medianlön
-BAS Befattning anställningar kvinna kvinnor BAS Befattning anställningar man Andel män i procent
-C   Dagbarnvårdare 10 28 250 100 % B IT-tekniker 9 31 355 89 % 90
-C   Dagbarnvårdare 10 28 250 100 % B Vaktmästare 5 31 425 80 % 90
-C   Omsorgsbiträde 12 27 700 75 % B IT-tekniker 9 31 355 89 %  88
-C   Omsorgsbiträde 12 27 700 75 % B Vaktmästare 5 31 425 80 %  88
-D   Äldrekonsulent 10 29 450 90 % C Anläggningstekn 10 34 325 100 % 86
-D   Äldrekonsulent 10 29 450 90 % C IT-tekniker supp 12 33 000 92 % 89
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
-E   Bibliotekarie Skola 6 32 994 100 % D Instruktör 11 38 288 91 % 86
-E   Lärare Modersmål 18 32 100 72 % D Instruktör 11 38 288 91 % 84
-E   Lärare Modersmål 18 32 100 72 % D Teatertekniker 5 35 500 80 % 90
-
-E   Ungd.konsulent 21 32 000 62 % D Instruktör 11 38 288 91 %  84
-E   Ungd.konsulent 21 32 000 62 % D Teatertekniker 5 35 500 80 % 90
-F   Arbetsmarkn.sekr 15 36 850 80 % E Arbetsledare 8 41 100 88 % 90
-F   Bibliotekarie 31 33 980 84 % D Instruktör 11  38 288 91 %  89
-
-F   Bibliotekarie 31 33 980 84 % E Arbetsledare 8 41 100 88 %  83
-F   Fritidspedagog 36 36 525 61 % E Arbetsledare 8 41 100 88 % 89
-F   Lärare Förskola 457 37 000 98 % E Arbetsledare 8 41 100 88 % 90
-
-F   Socialpedagog 9 34 225 67 % D Instruktör 11   38 288 91 %  89
-F   Socialpedagog 9 34 225 67 % E Arbetsledare 8  41 100 88 %  83
-F   Stud o yrkesväg 23 37 000 96 % E Arbetsledare 8 41 100 88 % 90
-G   Familjebehandlare 35 39 400 71 % F Fastighetsförvalt 6 43 700 83 % 90
-
-G   Metodutvecklare 21 38 800 86 % F Fastighetsförvalt 6 43 700 83 % 89
-G   Planerare 5     36 025 80 % E Arbetsledare 8  41 100 88 %  88
-G   Planerare 5     36 025 80 % F Fastighetsförvalt 6 43 700 83 % 82
+| BAS | Befattning | Antal<br>anställningar | Medianlön<br>kvinna | Andel<br>kvinnor | BAS | Befattning | Antal<br>anställningar | Medianlön<br>man | Andel män | Differens<br>medianlön<br>i procent |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C | Dagbarnvårdare | 10 | 28 250 | 100 % | B | IT-tekniker | 9 | 31 355 | 89 % | 90 |
+| C | Dagbarnvårdare | 10 | 28 250 | 100 % | B | Vaktmästare | 5 | 31 425 | 80 % | 90 |
+| C | Omsorgsbiträde | 12 | 27 700 | 75 % | B | IT-tekniker | 9 | 31 355 | 89 % | 88 |
+| C | Omsorgsbiträde | 12 | 27 700 | 75 % | B | Vaktmästare | 5 | 31 425 | 80 % | 88 |
+| D | Äldrekonsulent | 10 | 29 450 | 90 % | C | Anläggningstekn | 10 | 34 325 | 100 % | 86 |
+| D | Äldrekonsulent | 10 | 29 450 | 90 % | C | IT-tekniker supp | 12 | 33 000 | 92 % | 89 |
+| E | Bibliotekarie Skola | 6 | 32 994 | 100 % | D | Instruktör | 11 | 38 288 | 91 % | 86 |
+| E | Lärare Modersmål | 18 | 32 100 | 72 % | D | Instruktör | 11 | 38 288 | 91 % | 84 |
+| E | Lärare Modersmål | 18 | 32 100 | 72 % | D | Teatertekniker | 5 | 35 500 | 80 % | 90 |
+| E | Ungd.konsulent | 21 | 32 000 | 62 % | D | Instruktör | 11 | 38 288 | 91 % | 84 |
+| E | Ungd.konsulent | 21 | 32 000 | 62 % | D | Teatertekniker | 5 | 35 500 | 80 % | 90 |
+| F | Arbetsmarkn.sekr | 15 | 36 850 | 80 % | E | Arbetsledare | 8 | 41 100 | 88 % | 90 |
+| F | Bibliotekarie | 31 | 33 980 | 84 % | D | Instruktör | 11 | 38 288 | 91 % | 89 |
+| F | Bibliotekarie | 31 | 33 980 | 84 % | E | Arbetsledare | 8 | 41 100 | 88 % | 83 |
+| F | Fritidspedagog | 36 | 36 525 | 61 % | E | Arbetsledare | 8 | 41 100 | 88 % | 89 |
+| F | Lärare Förskola | 457 | 37 000 | 98 % | E | Arbetsledare | 8 | 41 100 | 88 % | 90 |
+| F | Socialpedagog | 9 | 34 225 | 67 % | D | Instruktör | 11 | 38 288 | 91 % | 89 |
+| F | Socialpedagog | 9 | 34 225 | 67 % | E | Arbetsledare | 8 | 41 100 | 88 % | 83 |
+| F | Stud o yrkesväg | 23 | 37 000 | 96 % | E | Arbetsledare | 8 | 41 100 | 88 % | 90 |
+| G | Familjebehandlare | 35 | 39 400 | 71 % | F | Fastighetsförvalt | 6 | 43 700 | 83 % | 90 |
+| G | Metodutvecklare | 21 | 38 800 | 86 % | F | Fastighetsförvalt | 6 | 43 700 | 83 % | 89 |
+| G | Planerare | 5 | 36 025 | 80 % | E | Arbetsledare | 8 | 41 100 | 88 % | 88 |
+| G | Planerare | 5 | 36 025 | 80 % | F | Fastighetsförvalt | 6 | 43 700 | 83 % | 82 |
+| G | Planerare | 5 | 36 025 | 80 % | F | IT-tekniker spec | 7 | 41 200 | 100 % | 87 |
+| G | Planerare | 5 | 36 025 | 80 % | F | Projekt.ing | 7 | 40 100 | 71 % | 90 |
+| G | Planerare | 5 | 36 025 | 80 % | F | Systemutvecklare | 5 | 41 200 | 60 % | 87 |
+| G | Restaurangchef | 9 | 39 050 | 89 % | F | Fastighetsförvalt | 6 | 43 700 | 83 % | 89 |
 
 <!-- sida 41 -->
 
 KUNGSBACKA  KOMMUN
 19 (21)
 
-G   Planerare 5     36 025 80 % F IT-tekniker spec 7 41 200 100 % 87
-G   Planerare 5     36 025 80 % F Projekt.ing 7   40 100 71 %  90
-G   Planerare 5     36 025 80 % F Systemutvecklare 5 41 200 60 % 87
-
-G   Restaurangchef 9 39 050 89 % F Fastighetsförvalt 6 43 700 83 % 89
 (Bild från 231019).
 
 Många av de kvinnodominerade befattningarna är företrädesvis befattningar med många anställda och
@@ -1461,11 +1455,9 @@ mellan kvinnors och mäns löner har minskat. 2023 har männen en högre medianl
 av BAS-intervallerna och i de övriga sju har kvinnor en högre medianlön än männen.
 
 Tabell: Kostnad för att uppnå jämställda löner.
-BAS   Antal Kvinnors Antal Männens 2023 2022 2021  2020  2019  2018
-kvinnor medianlön män medianlön
+2018
 
 ```osaker-tabell
-A     111   26 100  48    25 300 800   800   1 301 1 225
 B     602   27 100  159   26 500 600   -250  -545  -1 200 -1 200 -2 540
 C     1 792 30 000  367   29 800 200   626   500   -425  -425  -282
 
@@ -1478,6 +1470,12 @@ I     61    52 100  29    52 000 100   -550  -950  -1 700 -1 700 -1 843
 
 J     180   54 000  29    56 000 -2 000 -2 000 -1 300 -1 900 -1 900 -2 950
 ```
+
+[Tabell 41-1](handlingar.tabeller/41-1.csv)
+
+| BAS | Antal<br>kvinnor | Kvinnors<br>medianlön | Antal<br>män | Männens<br>medianlön | 2023 | 2022 | 2021 | 2020 | 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A | 111 | 26 100 | 48 | 25 300 | 800 | 800 | 1 301 | 1 225 |  |
 
 <!-- sida 42 -->
 
@@ -1527,7 +1525,7 @@ samband med löneöversynen kan de inkomma med yrkanden utifrån könsneutrala l
 
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-| Åtgärder Tidpunkt |  |
+| Åtgärder | Tidpunkt |
 | --- | --- |
 | Planera och genomföra satsningar utifrån den årliga analysen av<br>löner utifrån lönestatistik vad gäller lika, likvärdiga och<br>hierarkiska. | I samband med löneöversyn |
 | Följa upp tidigare års genomförda satsningar | Årligen |
@@ -4102,7 +4100,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -4988,7 +4986,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -7334,9 +7332,7 @@ för FHDY Fastigheter i Kungsbacka Kommanditbolag
 
 Namnteckning
 
-/ 7 ARS fp
 gj S ES RE Fo
-d 4 pe CR / FSE
 
 Namnft örtydligande
 
@@ -7355,6 +7351,17 @@ Bilaga A
 Blått område visar exploateringsområdet.
 
 <!-- sida 176 -->
+
+Bilaga B
+
+— 2:198 f €
+votjelgatan gp ge
+
+Gulmarkerat område i kartan ovan visar preliminärt servitutsområde för underjordisk
+
+dagvattenanläggning inom Varla 6:22.
+
+ooo!
 
 <!-- sida 177 -->
 
@@ -7375,11 +7382,7 @@ planområdet.
 
 <!-- sida 179 -->
 
-TA |
-ses ÅN
 NN HT | | NM '
-
-1300 kvm ÅA
 
 CT t ti
 
@@ -9363,7 +9366,7 @@ j! t +
 É jo Lantmäteriet Geodatasamverkan
 YT Naturvårdsverket
 
-rr NK
+JR dn ad SE
 
 Beslut
 
@@ -10237,12 +10240,7 @@ Nielsen, O. 1873. Valdemar Den Andens Jordebog. G.E.C. Gads Forlag.
 Prytz, A. 1930. Anteckningar från hemmanet och badorten Särö i Hallands län, Fjäre härad
 och Släps socken. Göteborg. 163 s. II. prtr. Kart.
 
-! ra 5 :
 Vd KM Y p
-
-\- ME ce
-\>
-k | j
 
 Figur 4 Arter som har hittats inom reservatet: Kattuggla, ädelkronlav & tallticka. Foto: Patrik Olofsson, Viveka Strand,
 Jonas Sundell
@@ -10474,10 +10472,6 @@ Informationsskyltar | Inom 10 år |1 3 Vårdanslaget
 <!-- sida 266 -->
 
 X
-
-LÄNSSTYRELSEN
-
-HALLANDS LÄN
 
 Länsstyrelsen i Hallands län + Postadress: 301 86 Halmstad » Besöksadress: Slottsgatan 2
 010- 224 30 00 » halland Qlansstyrelsen.se  www.lansstyrelsen.se/halland
@@ -10740,8 +10734,6 @@ Platt fjädermossa Neckera Mossor Signalart,
 complanata 2023
 
 Lindskål Holwaya mucida Storsvampar | Signalart, 2001
-
-Jätteticka Meripilus Storsvampar 20 1 6
 giganteus
 
 Grovticka Phaeolus Storsvampar | Signalart, 2021
@@ -10856,8 +10848,6 @@ Tosterups Slott
 | von Sydow, Oscar Erland
 Överåsgatan 19
 
-1412 66 Göteborg =
-
 Sida 2
 
 <!-- sida 274 -->
@@ -10873,19 +10863,10 @@ Beteckning på kartan
 
 L
 
-Särb1:109
-
-| Särö 1:110
-Särö 1:112
-
-(Särö 1:114
-
 | Särö 1:115
 
 |Särö1:116
 
-(Särö 1:117
-| Särö 1:118
 | Särö 1:150
 
 I
@@ -10941,21 +10922,11 @@ C/O Carl von Essen
 
 [ARB
 
-Samma som Särö 1:108
-
-| Samma som Särö 1:108 = =
-
-| Samma som Särö 1:108
-
 | Samma som Särö 1:108 |
 
 | Samma som Särö 1:108
 
 ; Samma som Särö 1:108
-
-| Samma som Särö 1:108
-
-| Samma som Särö 1:108
 
 \- | Gerhard Almgren Byggnads AB a
 
@@ -11000,7 +10971,7 @@ C/O Axel Broms
 Riddargatan 45
 | 114 57 Stockholm
 
-'Anläggningssamfälligheter i inom reservatet (Gemensamlhetseninggningar enligt AL, anläggningar enligt]
+' Anläggningssamfälligheter i inom reservatet (Gemensamlhetseninggningar enligt AL, anläggningar enligt]
 | LSV)
 
 | Beteckning på kartan | Ägare/innehavare, adress | Ändamål |
@@ -11036,21 +11007,14 @@ Rättigheter inom reservatet (servitut, ledningsrätt, nyttjanderätt, vägrätt
 
 | Särö 1:83  Säröhus Hotell & Restaurang AB
 | Säröhusv 12 | |
-
 a | | 429 43 Särö
-
 I Särö 1:86 | Säröhus Hotell & Restaurang AB
-
 ' Säröhusv 12
-
 fe a 1429 43 Särö
-
 | Särö 1:88 | Säröhus Hotell & Restaurang AB
+| | Säröhusv 12 | |
 
-| ' Säröhusv 12 | |
-1429 43 Särö OO [
-
-i Särö 1:273 |Staten Naturvårdsverket | i
+i Särö 1:273 |Staten Naturvårdsverket. | i
 fe | 106 48 Stockholm | |
 | Särö s:2 | Säröns Samfällighetsförening | |
 | | (Kungsbacka) | |
@@ -11081,7 +11045,6 @@ I Belastar
 1429 43 Särö
 
 | Särö 1:273 | Staten Naturvårdsverket oo
-1106 48 Stockholm
 
 NE SEE
 
@@ -11156,19 +11119,11 @@ Lu
 Lantmäteriet
 VIC Natur ID nr 1002073
 
-(Särö 1:52
-
-Särö 1:505
-
 | Belastar
 | Särö 1:273
 
-"Beteckning
 | 13-SLÄ-494
-
-| Till förmån för
 Särö 1:400
-
 \|
 
 ' Belastar
@@ -11195,13 +11150,9 @@ LANTMÄTERIET
 
 | Hammarvid, Annette Maria
 | Åleviksvägen 34
-P9 ABSärd
 
 I Staten Naturvårdsverket -
 1106 48 Stockholm
-
-| Ägare/innehavare, adress = Ändamål =
-fe | Väg i samfälld vägmark
 
 | Rimner, Per Markus
 
@@ -11248,9 +11199,7 @@ Särö s:2
 | Övrigt
 
 "Beteckning —
-
 | 13-SLÄ-495
-Till förmån för
 Särö 1:401
 
 | Belastar
@@ -11264,18 +11213,13 @@ Beteckning
 
 I Till förmån för
 Särö 1:402 oo
-'Belastar =
-Särös2
 
 \|
 
-| Övrigt
-
 | Beteckning
+
 13-SLÄ-516
-
 forte
-
 | Särö 1:405
 
 | Belastar
@@ -11284,8 +11228,6 @@ LANTMÄTERIET
 fa 1
 
 | | Mexon Group AB
-
-1106 48 Stockholm =
 
 2022-07-01
 
@@ -11328,10 +11270,6 @@ I Lesley Invest AB
 
 Sida 8
 
-| Ändamål
-
-| Väg i samfälld vägmark =
-
 EES ANNARS SRS NS GARANTERAS AA
 
 » Ändamål
@@ -11351,10 +11289,7 @@ Särö s:2
 
 Övrigt
 
-Beteckning
 | 13-SLÄ-3664
-| Till förmån för =
-(Särö 1484
 
 I
 I
@@ -11371,9 +11306,7 @@ I
 i
 \=
 
-CM
 | 13-SLÄ-2590
-
 | Till förmån för
 Särö 1:452
 
@@ -11425,14 +11358,8 @@ Alexandersson, Karl Thomas
 ' Däring, Ulf Magnus Christian
 | Soluddsvägen 27
 
-Ändamål
-
-"Väg i samfälld vägmark
-
 = JAndamät nde -
 Väg i samfälld vägmark
-
-1429 43 Särö
 
 ee | Säröns Samfällighetsförening
 
@@ -11446,7 +11373,104 @@ Sida 9
 
 <!-- sida 281 -->
 
+Lantmäteriet 2022-07-01
+
+VIC Natur ID nr 1002073 Sida 10
+Övrigt
+"Beteckning - Ägarefinnehavare, adress Ändamål =
+| 13-SLÄ-1585 fe : Väg i samfälld vägmark
+Till förmån för | i oe
+Särö 1:431 a I Johansson, Sven Sture -
+Utsikten
+' Soluddsvägen 21
+oo 1429 43 Särö
+I Belastar I
+Särö s:2 0 |Säröns Samfällighetsförening —
+| (Kungsbacka)
+C/O Axel Broms
+Riddargatan 45
+fa | 114 57 Stockholm
+Beteckning Ägare/innehavare, adress Ändamål
+13-SLÄ-1586 Väg i samfälld vägmark
+Till förmån för
+Särö 1:432 KB Särö 1:497
+Box 353
+| 461 27 Trollhättan
+Belastar |
+| Särö s:2 | Säröns Samfällighetsförening
+| | (Kungsbacka)
+| C/O Axel Broms
+| Riddargatan 45
+Övrigt ee
+"Beteckning | Ägare/innehavare, adress — | Ändamål =
+| 13-SLÄ1705 fö | Väg i samfälld vägmark
+[Till förmån för Er | FI mr ön Än
+Särö 1:435 oe | Ändetssori; Kiistotfer Herbert
+| | (adress borttagen)
+
+429 43 Särö
+
+Belastar
+
+LANTMÄTERIET
+R L
+
 <!-- sida 282 -->
+
+Lantmäteriet
+VIC Natur ID nr 1002073
+
+Särö s:2
+
+111457 Stockholm =
+
+2022-07-01
+Sida 11
+
+| Säröns Samfällighetsförening
+(Kungsbacka)
+
+i C/O Axel Broms
+Riddargatan 45
+
+Övrigt - a |
+13-SLÄ-519 | Väg i samfälld vägmark |
+Till förmån för oo re Re > Joint pt a |
+Särö 1:408 | Staten Naturvårdsverket |
+fe 1106 48 Stockholm |
+me 7 nn oo i
+Särö s:2 | Säröns Samfällighetsförening | |
+i (Kungsbacka) |
+
+C/O Axel Broms |
+
+| Riddargatan 45 |
+a , 114 57 Stockholm |
+i Övrigt | RR - a |
+
+| 13-SLÄ-1582
+stag
+
+Agare/innehavare, adress
+
+Järna Eg
+
+| Emami, Therése Margaretha Birgitta |
+; 15750 Glen Una Drive |
+| Los Gatos Ca 95030
+(USA
+
+| Emami, Robert
+
+Belastar. =
+Särös2 | Säröns Samfällighetsförening —
+| | (Kungsbacka)
+| | C/O Axel Broms
+| Riddargatan 45 |
+Lo | 114 57 Stockholm |
+
+LANTMÄTERIET
+| | ;
 
 <!-- sida 283 -->
 
@@ -11461,7 +11485,6 @@ VIC Natur ID nr 1002073
 
 ' Övrigt
 
-"Beteckning
 | 13-SLÄ-427
 | Till förmån för
 
@@ -11478,7 +11501,6 @@ Särö s:2
 
 Övrigt
 
-Beteckning —
 | Oinskrivet servitut
 Till förmån för
 
@@ -11491,13 +11513,8 @@ I Belastar
 \|
 
 Övrigt
-\|
-
-Beteckning
 
 | Oinskrivet servitut
-
-Till förmån för.
 
 LANTMÄTERIET
 
@@ -11547,13 +11564,10 @@ BOX 7012
 
 | Ägare/innehavare, adress
 
-Ändamål =
-
 | Väg i samfälld vägmark =
 
 Ändamål
 
-Ändamål
 Ledning
 
 » Basstation för mobiltelefoni
@@ -11580,7 +11594,6 @@ ba a | 650 02 Karlstad
 | Beteckning | | Ägare/innehavare, adress | Ändamål oo
 
 ' 18/153
-Till förmånför = |
 [Särö 1:148 = | Forser, Gunnel Anna Kristina Hård |
 | | Stallbacken 10
 
@@ -11605,10 +11618,8 @@ fö | 429 43 Särö
 | Belastar
 
 Särö 1:150 | Wetter, Gunilla
-
 | | Villa Nordanskog
 | Särö Utsiktsväg 5 |
-SA
 
 Övrigt
 
@@ -11616,15 +11627,53 @@ Handlingen saknar karta. Det är därför osäkert vart rättigheten ligger på 
 
 . Mineral- och torvrättigheter | Ägare/innehavare adress | Anmärkning
 
-Allmän väg | Ägarefinnehavare adress = = Anmärkning
 nga kända
 
 LANTMÄTERIET
-a
 
 Sida 13
 
 <!-- sida 285 -->
+
+Lantmäteriet 2022-07-01
+VIC Natur ID nr 1002073 Sida 14
+Viltvårdsområde — =  Företrädare/förening adress = = | Anmärkning = =
+per men | Sark rn er rei = rr - oa i
+| Planer inom reservatet
+| Byggnadsplan
+; 13-SLA-3647 -
+(Särö 1:83 — | Säröhus Hotell & Restaurang AB = |
+» Säröhusv 12 |
+| 1429 43Särd
+| Särö 1:86 | Säröhus Hotell & Restaurang AB
+. Säröhusv 12
+fö 1429 43 Särö a Å
+Särö 1:88 | Säröhus Hotell & Restaurang AB
+Säröhusv 12
+429 43 Särö
+Särö 1:108 Se delen fastigheter inom reservatet
+Särö 1:109 Samma som Särö 1:108
+Särö 1:110 Samma som Särö 1:108
+Särö 1:112 Samma som Särö 1:108
+| Särö 1:116 | Samma som Särö 1:108 |
+| Särö 1:117 | Samma som Särö 1:108 | |
+| Särö 1:150 | Gerhard Almgren Byggnads AB |
+| | Kyrkogatan 4 |
+bo | 411 15 Göteborg a od
+| Särö 1:273 | Staten Naturvårdsverket |
+\- | 106 48 Stockholm |
+| Särö 1:453 Lindholm, Eva Sara |
+| | Smedjebacken 12
+| 1429 43 Särö
+| Särö 1:457 | Säröhus Hotell & Restaurang AB
+
+I Säröhusv 12
+1429 43 Särö
+
+Övrigt
+
+LANTMÄTERIET
+\-
 
 <!-- sida 286 -->
 
@@ -11656,8 +11705,6 @@ VIC Natur ID nr 1002073 Sida 16
 
 1:391
 3
-
-” | PAA 1208 I Åren vas nar
 
 Figur 1. Utrett område markerat NE blått.
 
@@ -13533,8 +13580,6 @@ Kommundirektör                Biträdande kommundirektör
 SAMMANTRÄDESPROTOKOLL
 
 Styrelsesammanträde
-
-å Å
 
 '
 
@@ -19991,17 +20036,23 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       24 (34)
 
 [Tabell 490-493-1](handlingar.tabeller/490-493-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>• Färg<br>• Lösningsmedel<br>• Kemikalier<br>• Ljuskällor<br>• Bensin och diesel<br>• Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1) andra slag av farligt<br>avfall,<br>(2) annat avfall eller<br>(3) andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
 | Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
 |  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2) annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
 | Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
 | Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 491 -->
@@ -20045,8 +20096,10 @@ Ku ngsbacka kommun            Lokala avfallsföreskrifter       30 (34)
 
 [Tabell 496-497-1](handlingar.tabeller/496-497-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel<br>från butik ska av<br>avfallslämnaren<br>förpackas i särskild<br>påse, säck eller<br>lämnas i tank av typ<br>som godkänts av<br>avfallsansvariga<br>nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |
@@ -21304,7 +21357,6 @@ Gårdå Så
 [sed Härkila I. Mälltorp
 Håkankila cen Rygal— Aratorp
 å innahult , Offentlig & Aktiv &
-in a M
 "= MD. mö - Tlagnad för
 än Sven elbilsladdning
 RN Skene — Örby

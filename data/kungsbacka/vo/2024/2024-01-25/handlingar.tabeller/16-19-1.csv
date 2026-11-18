@@ -78,17 +78,13 @@ kvällsmat. Avser ej att tillreda
 måltider.
 Används endast om det ej ingår i
 annan insats under dagen.",15 minuter per tillfälle,Nej
-Förflyttning,"Används om det endast avser behov
-inom livsområdet förflyttning inne i
-bostaden.
-Används oftast tillsammans med
-annan insats.","5/10/15/20 minuter per
-tillfälle","Dubbelbemanning
-efter bedömning av
-rehab alternativt
-godkänd av
-enhetschef utifrån
-arbetsmiljöskäl."
+Förflyttning,Används om det endast avser behov,5/10/15/20 minuter per,Dubbelbemanning
+,inom livsområdet förflyttning inne i,tillfälle,efter bedömning av
+,bostaden.,,rehab alternativt
+,,,godkänd av
+,Används oftast tillsammans med,,enhetschef utifrån
+,annan insats.,,arbetsmiljöskäl.
+,,,
 Insats natt,"Används när det finns behov av
 fysiskt besök nattetid på grund av
 toalettbehov, dryck, bryta nattfasta
@@ -195,10 +191,11 @@ ringtillsyn",Nej
 att tillförsäkras trygghet och
 säkerhet i vardagen.","10 min per tillfälle vid
 fysiskt besök",
-Digital tillsyn,"Digitalt först
-Norm att tillsyn nattetid sker via
-trygghetskamera.","10/15 minuter per
-tillfälle",Nej
+Digital tillsyn,Digitalt först,10/15 minuter per,Nej
+,,tillfälle,
+,Norm att tillsyn nattetid sker via,,
+,trygghetskamera.,,
+,,,
 Toalettbehov,"Toalettbesök, tömning av kateter,
 byte av inkontinensskydd, rengöring
 av hygienutrymme. Hit räknas också

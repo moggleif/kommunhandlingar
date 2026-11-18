@@ -1,7 +1,19 @@
-"B Befattning Antal Medianlö Andel B Befattning Antal Medianlön Andel Differe
-A anst n kvinna kvinnor A anst man män ns
-S ällda S ällda median
-lön",,,,,,,,,,
+"B
+A
+S",Befattning,"Antal
+anst
+ällda","Medianlö
+n kvinna","Andel
+kvinnor","B
+A
+S",Befattning,"Antal
+anst
+ällda","Medianlön
+man","Andel
+män","Differe
+ns
+median
+lön"
 C,Barnskötare,281,29 703,99 %,B,IT-tekniker,7,32 405,86 %,92
 C,Dagbarnvårdare,7,29 300,100 %,B,IT-tekniker,7,32 405,86 %,90
 C,Elevassistent,159,30 200,76 %,B,IT-tekniker,7,32 405,86 %,93

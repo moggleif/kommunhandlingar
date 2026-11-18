@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.40dca3c719a555f04d07ed9f/1762928400
 sha256: b495bc805ece245996bf99e3478a5cb327179ba8dc0497203fd6b512f1927deb
 bytes: 2459041
 sidor: 44
-hamtad: 2026-11-08T20:32:53+00:00
-konverterad: 2026-11-08T20:33:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:14:20+00:00
+konverterad: 2026-11-18T11:14:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [39]
-figurer: [27, 42, 43]
+figurer: [27, 42]
 tolkade: []
 granskad: null
 ---
@@ -587,90 +587,83 @@ Nämndbudget 2026
 
 8.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnets rätt                                         KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Inköp, policy                                      KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-Personalföreträdare i nämnder                       KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-
-Personuppgifter - riktlinjer                        KF 2024-03-05 § 33
-
 8.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-
 14
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Personuppgifter - riktlinjer | KF 2024-03-05 § 33 |
+
+[Tabell 17-18-2](handlingar.tabeller/17-18-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 18 -->
 
 Valnämnd                                         Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 8.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-Flaggning                                           KS 2023-02-21 § 32
-Regler för fakturering och kravhantering            KS 2024-03-19 § 90
 
 8.1.4 Styrdokument beslutade av Valnämnden
-
-Styrdokument                                      Beslutande paragraf/År
-
-Delegering av beslutanderätt, valnämnden            VN 2024-11-11 § 36
 
 8.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 15
+
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Regler för fakturering och kravhantering | KS 2024-03-19 § 90 |
+
+[Tabell 18-2](handlingar.tabeller/18-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegering av beslutanderätt, valnämnden | VN 2024-11-11 § 36 |
+
+[Tabell 18-3](handlingar.tabeller/18-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 19 -->
 
@@ -989,19 +982,21 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| Kategorier<br>Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| --- | --- |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 28-29-2](handlingar.tabeller/28-29-2.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>Efterlevnad till besvärande för<br>2. Mindre vanligt<br>rekryteringsproce berörda<br>ssen intressenter och<br>kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-|  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Efterlevnad till<br>rekryteringsproce<br>ssen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbygg<br>nad av befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Verksamhet |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 29 -->
 
@@ -1536,33 +1531,21 @@ processen, från planering till genomförande.
 
 Använd checklistan (mfd.se)
 
-Stöd   för  kommunikation
+[Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-Kommunikatörer och anställda i kommunen har en nyckelroll i att
-säkerställa att informationen om valet når alla väljare. Information
-som inte är tillgänglig är i praktiken ett hinder som i värsta fall kan
-göra att människor avstår från att rösta.
-
-MFD erbjuder vägledning och exempel för att skapa tillgänglig
-valinformation, från lättläst text till textning och teckenspråk.
-
-Skapa tillgänglig kommuniation (mfd.se)
-
-Stöd   för  röstmottagare
-
-Röstmottagarnas bemötande är avgörande för väljarnas upplevelse
-av valet. För många väljare med funktionsnedsättning kan
-bemötandet vara skillnaden mellan att kunna rösta självständigt och
-att känna sig utestängd.
-
-MFD har tagit fram en utbildningsfilm och material som ger
-röstmottagare kunskap och verktyg för att möta väljare.
-
-Se filmen och ta del av stödet (mfd.se)
-
-FN:s   rekommendationer           är  tydliga
-
-Demokratisk delaktighet handlar inte bara om att rösta på valdagen. Det handlar också
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | Stöd för kommunikation<br>Kommunikatörer och anställda i kommunen har en nyckelroll i att<br>säkerställa att informationen om valet når alla väljare. Information<br>som inte är tillgänglig är i praktiken ett hinder som i värsta fall kan<br>göra att människor avstår från att rösta.<br>MFD erbjuder vägledning och exempel för att skapa tillgänglig<br>valinformation, från lättläst text till textning och teckenspråk. |  |
+|  |  | Skapa tillgänglig kommuniation (mfd.se) |  |
+|  |  |  |  |
+|  |  | Stöd för röstmottagare<br>Röstmottagarnas bemötande är avgörande för väljarnas upplevelse<br>av valet. För många väljare med funktionsnedsättning kan<br>bemötandet vara skillnaden mellan att kunna rösta självständigt och<br>att känna sig utestängd.<br>MFD har tagit fram en utbildningsfilm och material som ger<br>röstmottagare kunskap och verktyg för att möta väljare. |  |
+|  |  | Se filmen och ta del av stödet (mfd.se) |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+| FN:s rekommendationer är tydliga |  |  |  |
+| Demokratisk delaktighet handlar inte bara om att rösta på valdagen. Det handlar också |  |  |  |
 
 <!-- sida 44 -->
 
@@ -1581,9 +1564,13 @@ demokrati, delaktighet och vad det innebär att vara en fullvärdig medborgare.
 
 Se fler filmer om demokrati
 
-Myndigheten för delaktighet
-(adress borttagen), 117 61 Stockholm         Besök oss på
-Box: 47082, 100 74 Stockholm              www.mfd.se
-Växel: 08-600 84 00                       Facebook
-
 (e-post borttagen)                               LinkedIn
+
+[Tabell 44-1](handlingar.tabeller/44-1.csv)
+
+|  |  |
+| --- | --- |
+| Myndigheten för delaktighet | Besök oss på |
+| (adress borttagen), 117 61 Stockholm |  |
+| Box: 47082, 100 74 Stockholm | www.mfd.se |
+| Växel: 08-600 84 00 | Facebook |

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.6725411a194d849cc4be1583/1739444896
 sha256: 717bec89a9600a0ee046c4a24e842b09ea1f045b3981b6cd6d81b7f3ab1129c1
 bytes: 11254890
 sidor: 161
-hamtad: 2026-11-08T18:56:17+00:00
-konverterad: 2026-11-08T18:57:12+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:23:59+00:00
+konverterad: 2026-11-18T09:24:53+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [11, 12, 23, 31, 139, 149, 150]
-figurer: [6, 7, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 96, 111]
+figurer: [6, 7, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 47, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 96, 111]
 tolkade: []
 granskad: null
 ---
@@ -808,8 +808,6 @@ Motion 2024-09-28
 
 Folkhälsa definieras som den sammantagna hälsan och
 
-(BD cormors annas
-
 F ra mtid e n S fo | kh ä Isa Levnadsvanornas bidrag till hälsa
 
 VET egsersenss
@@ -1159,10 +1157,12 @@ Familjeomsorg, i uppdrag att inrätta stående forum för samarbete med viktiga 
 arbetet med barn och elevers hälsa där fokus är på både riskfaktorer och
 hälsofrämjande insatser.
 
-pf
 Johan Tolinsson (S) pp SS ANNE
+
 Shabnam Zamani (S) GRAN ON |
+
 Per Gunnarsson (S) JA vd IS ) )
+
 Maj-Britt Rane Andersson (S) «CI Ko Ve —
 Ledamöter i kommunfullmäktige
 
@@ -1536,49 +1536,28 @@ de digitala kanalerna för att vara relevanta och anpassa verksamheten. Vi stär
 med kollegorna på Kungsbacka kommuns växel som svarar på frågor från våra turister som är i behov
 av att prata med någon fysiskt. Genom att flytta turistinformationen till digitala kanaler görs kommunen
 mer tillgänglig och relevant för en större målgrupp, samtidigt som resurser effektiviseras.
-Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
-
-Bäst att leva,
-Kungsbackas
-placering i ranking
-3
-av Sveriges
-kommuner enligt
-Tidningen Fokus.
-Antal påbörjade
-216           848                165          141
-bostäder
 
 8
+
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Bäst att leva,<br>Kungsbackas<br>placering i ranking<br>av Sveriges<br>kommuner enligt<br>Tidningen Fokus. | 3 |  |  |  |
+| Antal påbörjade<br>bostäder | 216 | 848 | 165 | 141 |
+| Antal färdigställda<br>bostäder | 430 | 363 | 319 | 109 |
+| Anmälda brott per<br>invånare (antal/100<br>000 invånare) | 5 321 | 5 691 | 6 475 |  |
+| Brukarbedömning<br>hemtjänst<br>äldreomsorg,<br>helhetssyn |  | 90 % | 91 % |  |
+| Brukarbedömning<br>särskilt boende<br>äldreomsorg,<br>helhetssyn |  | 74 % | 76 % |  |
+| Brukarbedömning<br>individ- och<br>familjeomsorg totalt<br>- helhetssyn |  | 88 % |  |  |
 
 <!-- sida 41 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2024
 
-Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
-Antal färdigställda
-430           363                319          109
-bostäder
-Anmälda brott per
-invånare (antal/100 5 321       5 691             6 475
-000 invånare)
-Brukarbedömning
-hemtjänst
-90 %              91 %
-äldreomsorg,
-helhetssyn
-Brukarbedömning
-särskilt boende
-74 %              76 %
-äldreomsorg,
-helhetssyn
-Brukarbedömning
-individ- och
-88 %
-familjeomsorg totalt
-\- helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
@@ -1587,6 +1566,7 @@ Fokusområden
 som också skyddar och främjar biologisk mångfald.
 \- Kungsbacka ska verka för ett socialt hållbart samhälle.
 \- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
+
 Kommunövergripande bedömning
 Vi har inte nått målet men är på rätt väg
 Sammanfattning av nämndens arbete med målet
@@ -1788,140 +1768,40 @@ Nämndens årsredovisning 2024
 under året och tips till polisen har kommit in. En ökad oro för nätverkskriminella i Kungsbackas nöjesmiljöer
 kan komma att påverka tystnadskultur och agerande, så arbetet behöver fortsätta.
 
-Indikatorer       Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
-
-Andelen elever som
-skattat sin egen
-livstillfredsställelse
-som god eller mycket
-god under
-elevhälsosamtalet, ÅK
-88 %         88 %               85 %
-4 i % -
-Flickor.(Elevhälsan i
-Kungsbacka utvecklar
-metod utifrån
-hälsosamtal med
-elever.)
-Andelen elever som
-skattat sin egen
-livstillfredsställelse
-som god eller mycket
-god under
-elevhälsosamtalet, ÅK
-93 %         90 %               91 %
-4 i % - Pojkar.
-(Elevhälsan i
-Kungsbacka utvecklar
-metod utifrån
-hälsosamtal med
-elever.)
-Andelen elever som
-skattat sin egen
-livstillfredsställelse
-som god eller mycket
-god under
-elevhälsosamtalet, ÅK
-77 %         72 %               79 %
-8 i % -
-Flickor.(Elevhälsan i
-Kungsbacka utvecklar
-metod utifrån
-hälsosamtal med
-elever.)
-Andelen elever som
-skattat sin egen
-livstillfredsställelse
-som god eller mycket
-god under
-elevhälsosamtalet, ÅK
-92 %         93 %               92 %
-8 i % -
-Pojkar.(Elevhälsan i
-Kungsbacka utvecklar
-metod utifrån
-hälsosamtal med
-elever.)
 13
+
+[Tabell 45-47-1](handlingar.tabeller/45-47-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 88 % | 88 % | 85 % |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % - Pojkar.<br>(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 93 % | 90 % | 91 % |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 77 % | 72 % | 79 % |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Pojkar.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 92 % | 93 % | 92 % |  |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>flickor. | 68 % | 65 % | 73 % |  |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>pojkar. | 88 % | 85 % | 86 % |  |
+| Avfall från hushåll ska<br>minska med 30% per<br>invånare från 2020 till<br>2030. Startvärde 100,<br>målvärde 2030 är 70. | 98 | 97 |  |  |
+| Avfall från kommunens<br>verksamheter ska<br>minska med 40 % per<br>heltidsanställd.<br>Startvärde 100,<br>målvärde 2030 är 60. | 72,1 | 84,5 |  |  |
+| Energiförbrukning i<br>kommuns lokaler per<br>kvadratmeter |  |  |  |  |
+| Utsläpp till luft av<br>växthusgaser totalt,<br>ton CO2-ekv/inv<br>(Kolada) | 2,48 | 2,27 |  |  |
+| Miljöbilar, andel av<br>totalt antal bilar i det<br>geografiska området,<br>(Kolada) | 17 % | 21,2 % | 24,1 % |  |
+| Slutanvändning av el<br>inom det geografiska<br>området, MWh/inv<br>(Kolada) | 8 | 7 |  |  |
+| Matens<br>klimatpåverkan från de<br>offentliga måltiderna<br>ska minska räknat i kg<br>CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0<br>år 2030. | 1,82 | 1,86 | 1,79 |  |
+| Ekologisk status i<br>Kungsbackafjorden<br>(VISS) |  |  |  |  |
+| Skyddad natur totalt,<br>andel (Kolada) |  |  |  |  |
+| Vattendrag med god<br>ekologisk status, andel<br>(Kolada) | 18,5 | 18,5 |  |  |
 
 <!-- sida 46 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2024
 
-Indikatorer       Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
-Andelen elever som
-har skattat sin egen
-livstillfredsställelse
-som god eller mycket
-68 %         65 %               73 %
-god under
-elevhälsosamtalet,
-Gymnasiet ÅK 1 i% -
-flickor.
-Andelen elever som
-har skattat sin egen
-livstillfredsställelse
-som god eller mycket
-88 %         85 %               86 %
-god under
-elevhälsosamtalet,
-Gymnasiet ÅK 1 i% -
-pojkar.
-Avfall från hushåll ska
-minska med 30% per
-invånare från 2020 till 98        97
-2030\. Startvärde 100,
-målvärde 2030 är 70.
-Avfall från kommunens
-verksamheter ska
-minska med 40 % per
-72,1          84,5
-heltidsanställd.
-Startvärde 100,
-målvärde 2030 är 60.
-Energiförbrukning i
-kommuns lokaler per
-kvadratmeter
-Utsläpp till luft av
-växthusgaser totalt,
-2,48          2,27
-ton CO2-ekv/inv
-(Kolada)
-Miljöbilar, andel av
-totalt antal bilar i det
-17 %         21,2 %           24,1 %
-geografiska området,
-(Kolada)
-Slutanvändning av el
-inom det geografiska
-8             7
-området, MWh/inv
-(Kolada)
-Matens
-klimatpåverkan från de
-offentliga måltiderna
-ska minska räknat i kg 1,82       1,86              1,79
-CO2-ekv/kg livsmedel.
-Målsättningen är 1,0
-år 2030.
 14
 
 <!-- sida 47 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2024
-
-Indikatorer       Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
-Ekologisk status i
-Kungsbackafjorden
-(VISS)
-Skyddad natur totalt,
-andel (Kolada)
-
-Vattendrag med god
-ekologisk status, andel 18,5      18,5
-(Kolada)
 
 3.3 Bästa företagsklimatet i Västsverige
 
@@ -1977,52 +1857,23 @@ skapat ett fungerande samarbete med innerstadsföreningen, Hede Fashion Outlet o
 Invånare och besökare får ett gemensamt utbud kring vad som händer i Kungsbackas stadskärna
 kommunicerat till sig när vi paketerat informationen oberoende på avsändare.
 
-Indikatorer      Utfall 2021   Utfall 2022 Utfall 2023 Utfall 2024
-Insikt, SKRs
-servicemätning av
-kommunernas
-myndighetsutövning
-för företag. Nöjd-
-kund-index utifrån
-sammanvägt
-betygsindex 0-100,  66           70                 67
-för hur företag i
-kommunen bedömer
-Kungsbacka
-kommuns
-myndighetsutövning,
-vilket är en viktig del
-av företagsklimatet.
-Svenskt Näringslivs
-attitydundersökning
-av kommuners
-företagsklimat.
-Medelvärde utifrån
-3,5           3,4                3,4           3,8
-skala 1-6, där
-företag bedömer
-företagsklimatet i
-Kungsbacka
-kommun.
-Sysselsatt
-28 485
-dagbefolkning, antal
-Andel av sysselsatt
-dagbefolkning inom 5,1 %        4,9 %
-Göteborgsregionen
-Företagsamhet,
-andel av invånare  18 %         18 %
-16–74 år
-Antal nystartade
-företag per 1 000
-13,8          12,8
-invånare 16–64 år
-(etableringsfrekvens)
 3.4 I Kungsbacka utvecklas vi hela livet
+
 Beslutats av
 Kommunfullmäktige
 
 16
+
+[Tabell 48-1](handlingar.tabeller/48-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKRs<br>servicemätning av<br>kommunernas<br>myndighetsutövning<br>för företag. Nöjd-<br>kund-index utifrån<br>sammanvägt<br>betygsindex 0-100,<br>för hur företag i<br>kommunen bedömer<br>Kungsbacka<br>kommuns<br>myndighetsutövning,<br>vilket är en viktig del<br>av företagsklimatet. | 66 | 70 | 67 |  |
+| Svenskt Näringslivs<br>attitydundersökning<br>av kommuners<br>företagsklimat.<br>Medelvärde utifrån<br>skala 1-6, där<br>företag bedömer<br>företagsklimatet i<br>Kungsbacka<br>kommun. | 3,5 | 3,4 | 3,4 | 3,8 |
+| Sysselsatt<br>dagbefolkning, antal | 28 485 |  |  |  |
+| Andel av sysselsatt<br>dagbefolkning inom<br>Göteborgsregionen | 5,1 % | 4,9 % |  |  |
+| Företagsamhet,<br>andel av invånare<br>16–74 år | 18 % | 18 % |  |  |
+| Antal nystartade<br>företag per 1 000<br>invånare 16–64 år<br>(etableringsfrekvens) | 13,8 | 12,8 |  |  |
 
 <!-- sida 49 -->
 
@@ -2110,54 +1961,25 @@ mångfald.
 o  Julbordet för seniorer anordnades för tredje året i rad. 50 st frivilliga och 40 st sponsorer gav
 320 st seniorer en jullunch och en social samvaro i en tid av extra kännbar ensamhet.
 
-Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
-Genomsnittligt
-meritvärde i årskurs
-9\. Meritvärdet
-utgörs av summan
-239           237               236,5        237,5
-av de 17 bästa
-betygen i elevens
-slutbetyg och kan
-max vara 340.
-Arbetslöshet för
-ungdomar 16–24 år
-i kommunen. (Källa: 2,6 %       1,7 %             1,7 %
-Arbetsförmedlingen
-och SCB)
-Självkänsla och
-framtidstro för
-gymnasieelever år
-2, index med skala
-0–10 enligt
-Skolenkäten som    7,7
-genomförs enligt
-Skolinspektionens
-skolenkät. Enkäten
-genomförs
-vartannat år.
-
 18
+
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt<br>meritvärde i årskurs<br>9. Meritvärdet<br>utgörs av summan<br>av de 17 bästa<br>betygen i elevens<br>slutbetyg och kan<br>max vara 340. | 239 | 237 | 236,5 | 237,5 |
+| Arbetslöshet för<br>ungdomar 16–24 år<br>i kommunen. (Källa:<br>Arbetsförmedlingen<br>och SCB) | 2,6 % | 1,7 % | 1,7 % |  |
+| Självkänsla och<br>framtidstro för<br>gymnasieelever år<br>2, index med skala<br>0–10 enligt<br>Skolenkäten som<br>genomförs enligt<br>Skolinspektionens<br>skolenkät. Enkäten<br>genomförs<br>vartannat år. | 7,7 |  |  |  |
+| Genomsnittligt<br>betygspoäng för<br>gymnasiets<br>avgångselevers<br>betygspoäng som<br>kan vara max 20. | 14,3 | 14,4 | 14,3 | 14 |
+| Kostnad utbetalt<br>ekonomiskt bistånd,<br>kr/invånare<br>(Kolada) | 414 | 376 | 325 |  |
 
 <!-- sida 51 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2024
 
-Indikatorer     Utfall 2021   Utfall 2022 Utfall 2023  Utfall 2024
-Genomsnittligt
-betygspoäng för
-gymnasiets
-14,3          14,4              14,3           14
-avgångselevers
-betygspoäng som
-kan vara max 20.
-Kostnad utbetalt
-ekonomiskt bistånd,
-414           376                325
-kr/invånare
-(Kolada)
 3.5 Ett medskapande samhälle och öppen attityd
+
 Beslutats av
 Kommunfullmäktige
 
@@ -2258,26 +2080,8 @@ systematisera gemensam planering, prioritering och uppföljning av våra initiat
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2024
 
-Indikatorer        Utfall 2021  Utfall 2022 Utfall 2023  Utfall 2024
-Hållbart
-medarbetarengagemang,
-ett index för
-medarbetarnas samlade
-uppfattning om
-områdena motivation,  78           78                76
-ledarskap och styrning,
-skala 1-100 enligt
-Medarbetarenkäten.
-Mätningen görs
-vartannat år.
-Jämställdhetsindex,
-Jämix. Antal poäng av
-max 180. Jämix
-103          114               122
-beräknas utifrån nio
-nyckeltal med skala 1–
-20\.
 3.6 Uppföljning målbild
+
 Nämnden för Kultur & Fritid beslutade hösten 2023 om en målbild för år 2030. Utifrån målbilden arbetar
 förvaltningen genom fyra fokusområden:
 
@@ -2309,6 +2113,13 @@ utsträckning mår sämre än sina jämnåriga i andra delar av Kungsbacka kommu
 samarbete med Älvsåkerskolans fritidsverksamhet, med cirkus och tvärkonstnärlig gruppundervisning. På Fjärås
 
 21
+
+[Tabell 53-1](handlingar.tabeller/53-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation,<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 | 76 |  |
+| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 103 | 114 | 122 |  |
 
 <!-- sida 54 -->
 
@@ -2796,16 +2607,8 @@ förutsättningar för verksamhetsutveckling genom digitalisering genom:
 • Säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
 
-Indikatorer            Utfall 2023           Utfall 2024
-Status direktiv: Andel
-innovationsprojekt som drivits                                   0,5
-under året
-Status direktiv: Andel av
-bruttokostnaden som avsätts för
-0,6                    0,7
-innovationsarbete och
-digitalisering
 Andel av bruttokostnaden är den andel som redovisats med fridel Innovationsdirektiv
+
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 
 Nämnden för Kultur & Fritid tog under hösten 2023 fram en målbild som sträcker sig fram till 2030. Därur tog
@@ -2814,6 +2617,13 @@ vi utvecklat och testat en gemensam struktur för att stärka styrningen och upp
 fokusområden. Denna struktur omfattar:
 
 30
+
+[Tabell 62-1](handlingar.tabeller/62-1.csv)
+
+| Indikatorer | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- |
+| Status direktiv: Andel<br>innovationsprojekt som drivits<br>under året |  | 0,5 |
+| Status direktiv: Andel av<br>bruttokostnaden som avsätts för<br>innovationsarbete och<br>digitalisering | 0,6 | 0,7 |
 
 <!-- sida 63 -->
 
@@ -4001,23 +3811,23 @@ Uppföljningsrapport intern kontroll 2024
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| Kategorier | Matrisnr Risker Till plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Resurs- och Ja<br>kompetensbrist |
-|  | 2 Kommunövergripande risk: Brister vid Ja<br>referenstagning |
-| Verksamhet | 3 Kommunövergripande risk - Risk för korruption Ja |
-|  | 4 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Resurs- och<br>kompetensbrist | Ja |
+|  |  | 2 | Kommunövergripande risk: Brister vid<br>referenstagning | Ja |
+| Verksamhet |  | 3 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 4 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 [Tabell 97-98-2](handlingar.tabeller/97-98-2.csv)
 
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergrip Kultur & Fritid betalar sällan ut övertidsersättning, istället har vi<br>ande risk: arbetat med schemaändringar.<br>Övertidsersättnin<br>g betalas ut på fel<br>grund |
-| Ekonomi | Kommunövergrip Omhändertas inom ramen för ordinarie verksamhetsuppföljning.<br>ande risk: Granskning av kontering görs löpande under året.<br>Grundläggande<br>redovisning<br>kvalitetsbrister |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-|  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
-| Verksamhet | Rutiner för<br>tillbud/olyckor för<br>besökare/deltaga<br>re i vår<br>verksamhet |
-|  | Nämndspecifik Rutiner och risker måste först identifieras<br>risk: Brist på<br>rutiner som<br>beskriver vilka<br>värderingar som<br>ligger till grund<br>för partnerskap<br>mellan Kultur &<br>Fritid och aktörer<br>inom<br>civilsamhället |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund | Kultur & Fritid betalar sällan ut övertidsersättning, istället har vi<br>arbetat med schemaändringar. |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | Omhändertas inom ramen för ordinarie verksamhetsuppföljning.<br>Granskning av kontering görs löpande under året. |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... |  | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |  |
+|  |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |  |
+| Verksamhet |  | Rutiner för<br>tillbud/olyckor för<br>besökare/deltaga<br>re i vår<br>verksamhet |  |
+|  |  | Nämndspecifik<br>risk: Brist på<br>rutiner som<br>beskriver vilka<br>värderingar som<br>ligger till grund<br>för partnerskap<br>mellan Kultur &<br>Fritid och aktörer<br>inom<br>civilsamhället | Rutiner och risker måste först identifieras |
 
 <!-- sida 98 -->
 
@@ -4164,28 +3974,28 @@ Nämndens självskattning
 
 [Tabell 103-104-1](handlingar.tabeller/103-104-1.csv)
 
-| Område | Frågor Svar, Antal 2024 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2024 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 104 -->
 
@@ -5490,12 +5300,8 @@ Sammanträdesdatum
 
 2009-02-19
 
-KO AnAGN | ,
-s i L CJ j Xx AA
-
-H id Vr VV / j
-
-§ 17 - AH 7” i / / 2
+EO SUI ) (XC
+I / j ve tL Vv f p
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
@@ -5847,7 +5653,6 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-§78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -5920,10 +5725,7 @@ tjänsteskrivelse 2007-09-04 om inrättande av kulturstipendium för ungdom.
 
 Justerare
 
-” IF
 U
-
-WW UU”
 
 | Expedierat/bestyrkt
 

@@ -1,10 +1,6 @@
-"Typ av avfall som ska
-sorteras ut och hållas
-skiljt från annat avfall","Krav på
-utsortering","Krav på
-emballering med
-mera","Instruktion för
-hämtning/lämning"
+Typ av avfall som ska,Krav på,Krav på,Instruktion för
+sorteras ut och hållas,utsortering,emballering med,hämtning/lämning
+skiljt från annat avfall,,mera,
 "Annat avfall än avfall
 under kommunalt ansvar.","Detta avfall ska
 hanteras separat från
@@ -66,6 +62,8 @@ ingått avtal kring
 hämtning av bygg-
 och rivningsavfall
 med kommunen."
+sorteras ut och hållas,utsortering,emballering med,hämtning/lämning
+skiljt från annat avfall,,mera,
 Farligt avfall,"Följande produkter
 eller ämnen utgör
 exempel på vad som
@@ -211,6 +209,8 @@ avfallet inte kan
 spridas eller damma
 vid tömning.","Hämtning sker enligt
 bilaga 2."
+sorteras ut och hållas,utsortering,emballering med,hämtning/lämning
+skiljt från annat avfall,,mera,
 "Komposterbart
 trädgårdsavfall
 (Till komposterbart

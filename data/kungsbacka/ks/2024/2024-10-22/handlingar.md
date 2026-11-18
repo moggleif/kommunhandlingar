@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.518b0d32192711cc07ec6a5a/1729079545
 sha256: 745d404a73a73f2c5cbfee31405be9063507e458218e4e978112a73fd74c1462
 bytes: 140982836
 sidor: 462
-hamtad: 2026-11-08T21:39:10+00:00
-konverterad: 2026-11-08T21:49:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:28:08+00:00
+konverterad: 2026-11-18T12:39:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -348,7 +348,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   3
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
 
-| Belopp i miljoner kronor 2024-08-31 Prognos 2024 |  |  |
+| Belopp i miljoner kronor | 2024-08-31 | Prognos 2024 |
 | --- | --- | --- |
 | Kungsbacka kommun | 209 | 144 |
 | Kommunkoncern | 245 | - |
@@ -397,7 +397,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   4
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Pensioner inklusive särskild löneskatt, miljoner 2023 Prognos 2024<br>kronor |  |  |
+| Pensioner inklusive särskild löneskatt, miljoner<br>kronor | 2023 | Prognos 2024 |
 | --- | --- | --- |
 | Årets pensionskostnader i resultaträkningen | 524 | 630 |
 | Summa pensionsförpliktelser i balansräkningen | 1 946 | 2 219 |
@@ -616,7 +616,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   8
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. | – |
 | Kungsbacka har välkomnande och trygga miljöer. | – |
@@ -717,7 +717,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  10
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kungsbacka växer med en långsiktigt hållbar ekonomi. |  |
 | Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. | → |
@@ -893,7 +893,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  13
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. | → |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. | → |
@@ -941,7 +941,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  14
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
 | I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. | – |
@@ -1045,7 +1045,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  16
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. | → |
 | Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
@@ -1299,7 +1299,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  21
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-| Prognos<br>Balanskravsutredning, miljoner kronor 2023<br>2024 |  |  |
+| Balanskravsutredning, miljoner kronor | 2023 | Prognos<br>2024 |
 | --- | --- | --- |
 | Årets resultat enligt resultaträkningen (fullfondsmodellen) | 231 | 144 |
 | Pensionsförpliktelser före 1998 | 22 | 30 |
@@ -1741,9 +1741,13 @@ Kungsbacka kommun          Delårsbokslut 2024                  30
 
 [Tabell 38-3](handlingar.tabeller/38-3.csv)
 
-| Ack utfall<br>Prognos för Budget för<br>Miljoner kronor totalt tom Prognos 2024 Avvikelse<br>projekt projekt<br>aug 2024 |  |  |  |  |  |
+| Miljoner kronor | Ack utfall | Prognos 2024 | Prognos för | Budget för | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
-| VA sanering Hanhals<br>etapp 1 | -70 | -26,2 | -80 | -80 | 0,0 |
+|  | totalt tom |  |  |  |  |
+|  |  |  | projekt | projekt |  |
+|  | aug 2024 |  |  |  |  |
+| VA sanering Hanhals | -70 | -26,2 | -80 | -80 | 0,0 |
+| etapp 1 |  |  |  |  |  |
 | Framtidens<br>reningsverk | -40,0 | -42 | -1 655 | -1 655 | 0,0 |
 | Ölmanäs reningsverk | -87 | -57 | -107 | -100 | -7,0 |
 
@@ -3167,7 +3171,6 @@ Begäran  om planbesked för Åsa 4:2 och Åsa 4:28 i Åsa.
 
 Ansökan om planbesked
 
-ör
 Åsa 4:2 & 4:28
 Kaminsk . .
 RN 24/06/10 | PLANBESKED | BOSTÄDER | ÅSA KUNGSBACKA | A3 JARO JERTIED NING
@@ -11677,23 +11680,6 @@ Dessa prognosmodeller ingår inte i kapacitetsbedömningen men ger en bild av ol
 kan användas i långsiktig nätplanering. Att förstå helheten av det framtida effektbehovet belyser
 dessutom behovet av att jobba proaktivt med våra kunder.
 
-Proaktiv utbyggnad av nätet
-
-Som nätföretag behöver E.ON arbeta med att bygga ut nätet proaktivt för att kunna möjliggöra
-nyanslutningar löpande och hantera ändrade effektbehov. Prognosen ger oss underlag för att
-arbeta med proaktiv nätutbyggnad.
-
-När det gäller tillkommande större anslutningar kan vi inte påbörja förstärkning av nätet förrän vi
-har försäkrat oss om att en specifik anslutning kommer bli av. Detta i och med att det skulle
-kunna innebära stora kostnader för kundkollektivet och risker att vi förstärker nätet där det sedan
-inte behövs.
-
-Vi ser dock att det är viktigt att vi skapar oss en bild även av omfattningen av tillkommande stora
-anslutningar. Detta är särskilt viktigt i planeringen av projekt i det maskade regionnätet där vi vill
-kunna ta höjd för större tillkommande anslutningar och på så sätt åstadkomma en effektiv
-nätutbyggnad. Vi ser här ett behov av fördjupad nationell och regional samordning kring
-hanteringen av dessa.
-
 Sammanlagring
 Sannolikheten att all installerad effekt i nätet används samtidigt är låg. Till exempel förbrukar ett
 vanligt hushåll mest el på morgonen och på kvällen men mindre under dagen och natten. I kontrast
@@ -11706,6 +11692,23 @@ och produktion. Genom att undersöka hur befintliga kunder inom vissa segment ko
 producerar effekt under olika tider på dygnet och vid olika årstider kan vi skapa dessa effektprofiler.
 
 18
+
+[Tabell 287-1](handlingar.tabeller/287-1.csv)
+
+| Proaktiv utbyggnad av nätet |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Som nätföretag behöver E.ON arbeta med att bygga ut nätet proaktivt för att kunna möjliggöra |  |  |  |  |  |  |
+|  | nyanslutningar löpande och hantera ändrade effektbehov. Prognosen ger oss underlag för att |  |  |  |  |  |  |
+| arbeta med proaktiv nätutbyggnad. | arbeta med proaktiv nätutbyggnad. |  |  |  |  |  |  |
+|  | När det gäller tillkommande större anslutningar kan vi inte påbörja förstärkning av nätet förrän vi |  |  |  |  |  |  |
+|  | har försäkrat oss om att en specifik anslutning kommer bli av. Detta i och med att det skulle |  |  |  |  |  |  |
+|  | kunna innebära stora kostnader för kundkollektivet och risker att vi förstärker nätet där det sedan |  |  |  |  |  |  |
+| inte behövs. | inte behövs. |  |  |  |  |  |  |
+|  | Vi ser dock att det är viktigt att vi skapar oss en bild även av omfattningen av tillkommande stora |  |  |  |  |  |  |
+|  | anslutningar. Detta är särskilt viktigt i planeringen av projekt i det maskade regionnätet där vi vill |  |  |  |  |  |  |
+|  | kunna ta höjd för större tillkommande anslutningar och på så sätt åstadkomma en effektiv |  |  |  |  |  |  |
+|  | nätutbyggnad. Vi ser här ett behov av fördjupad nationell och regional samordning kring |  |  |  |  |  |  |
+| hanteringen av dessa. | hanteringen av dessa. |  |  |  |  |  |  |
 
 <!-- sida 288 -->
 
@@ -14439,7 +14442,7 @@ Beställningscentral 20/113
 \- Om endast 60-75 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 15 000 SEK per kalendermånad.
 
-\- Om endast 50-60 2/4 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
+\- Om endast 50-60 2/6 av totala mängden inkommande samtal besvaras inom fyrtiofem (45) sekunder
 utgår ett vitesbelopp om 25 000 SEK per kalendermånad.
 
 \- Om lägre svarstider än 50 246 av totala mängden inkommande samtal besvaras inom fyrtiofem (45)
@@ -15078,10 +15081,8 @@ Orj// um Ort / datum
 Asta la HUB Lod lbfafrori
 
 rtydligande | Namnförtydligande
-— HALGQ/ VIE TPAGA I DAR Nicssen
 Befattning Befattning
 
-ÖVA sÅ ul vo
 7
 
 Sida 16/16
@@ -19287,7 +19288,7 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: 671EDC200B8BB1849DA97F79E11B804AF6B738BE31
-Transaktionsidentitet: D0146B643FE3098385538319E0968112B4DEBA9BDF
+Transaktionsidentitet: DO146B643FE3098385538319E0968112B4DEBA9BDF
 
 <!-- sida 438 -->
 

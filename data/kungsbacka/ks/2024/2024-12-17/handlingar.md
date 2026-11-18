@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2805ee18/1733995582
 sha256: 1157adc986408bf1cb59c9ac9a04b556bc81eb667aeed5c20a8e4129a289e02f
 bytes: 193217824
 sidor: 528
-hamtad: 2026-11-08T22:02:24+00:00
-konverterad: 2026-11-08T22:09:57+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:54:38+00:00
+konverterad: 2026-11-18T13:02:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -475,8 +475,6 @@ Detta avtal är upprättat i två exemplar varav parterna tagit var sitt.
 
 Datum: 2024- U-0 I Datum: 2024-
 För Kungsbacka kommun För Arrendatorn
-
-Isitelae Melred
 
 Namnförtydligande Namnförtydligande
 
@@ -2193,7 +2191,6 @@ Göran Stenfeldt
 434 37 Kungsbacka
 
 Swede;
-modit ÄN
 
 http://www.stejla.se
 
@@ -2446,8 +2443,6 @@ Sign
 <!-- sida 53 -->
 
 <!-- sida 54 -->
-
-Bilaga A
 
 Uppdaterad 191206 1/7
 
@@ -3186,8 +3181,6 @@ Det område som Bolaget ska utveckla är ungefärligt markerat med röd linje p�
 bilaga A, Projektområdet. Projektområdet kan komma att förändras utifrån vad
 som framkommer under planarbetet, avtalsförhandlingar och genomförbarhe
 
-6 |
-
 <!-- sida 67 -->
 
 Uppdaterad 191206 217
@@ -3340,8 +3333,6 @@ och utförandet ska ske i enlighet med anvisningar från
 Samhällsbyggnadskontoret i syfte att uppfylla de krav som ställs i det formella
 planarbetet.
 
-M
-
 <!-- sida 69 -->
 
 Uppdaterad 191206 4/7
@@ -3413,8 +3404,6 @@ e) Stängning av befintlig utfart mot Älvsåkersvägen samt anläggande av ny u
 väg.
 
 f) Ev. kommunala behov
-
-ee”
 
 <!-- sida 70 -->
 
@@ -4662,7 +4651,7 @@ Belopp indexjusterade inför 2025
 
 [Tabell 99-1](handlingar.tabeller/99-1.csv)
 
-| B1 Planavgift vid bygglov för en-och tvåbostadshus och komplementbyggnadertill en-och<br>tvåbostadshus |  |  |
+| B1 | Planavgift vid bygglov för en-och tvåbostadshus och komplementbyggnadertill en-och<br>tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 1.1 | Nybyggnad och tillbyggnad större än 15,0 m2av en-och tvåbostadshus | 42 336 kr |
@@ -4672,7 +4661,7 @@ Belopp indexjusterade inför 2025
 
 [Tabell 99-2](handlingar.tabeller/99-2.csv)
 
-| B2 Planavgift vid bygglov för byggnader som inte är en-och tvåbostadshus och inte<br>komplementbyggnadtill en-och tvåbostadshus |  |  |
+| B2 | Planavgift vid bygglov för byggnader som inte är en-och tvåbostadshus och inte<br>komplementbyggnadtill en-och tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 2.1 | Ny-och tillbyggnad eller annan ändring, dock ej fasadändring,0 100 kvm (BTA+OPA) | 38 808 kr |
@@ -4682,7 +4671,7 @@ Belopp indexjusterade inför 2025
 
 [Tabell 99-3](handlingar.tabeller/99-3.csv)
 
-| B3 Ansökan om planbesked |  |  |
+| B3 | Ansökan om planbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 3.1 | Planbesked | 27 928 kr |
@@ -4974,7 +4963,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 7 (21
 
 [Tabell 106-1](handlingar.tabeller/106-1.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder<br>som garage, carportar, förråd samt rivning, mur och<br>eldstad förutsatt att det ingår i samma ansökan. | Planenligt | 33 250 kr |
@@ -5026,7 +5015,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 9 (21
 
 [Tabell 108-1](handlingar.tabeller/108-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder<br>samt murar förutsatt att de ingår i samma ansökan | Planenligt | 22 610 kr |
@@ -5103,7 +5092,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 110-1](handlingar.tabeller/110-1.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer<br>detaljplan. | 5 985 kr |
@@ -5112,7 +5101,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 110-2](handlingar.tabeller/110-2.csv)
 
-| A 4 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |  |
+| A 4 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 4.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig ändring av nöjesparker,<br>djurparker, idrottsplatser, skidbackar med liftar, kabinbanor, campingplatser,<br>skjutbanor, småbåtshamnar, friluftsbad, motorbanor och golfbanor | Timdebitering, dock<br>minst 2 timmar |
@@ -5129,7 +5118,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller<br>väsentlig ändring av mur eller plank, med tekniskt<br>samråd | Planenligt | 13 965 kr |
@@ -5150,7 +5139,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 111-2](handlingar.tabeller/111-2.csv)
 
-| A 6 Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |  |
+| A 6 | Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 6.1 | Förlängning av tidsbegränsat bygglov för ändamål av säsongskaraktär inom<br>ramen för tidigare beviljat lov | 50 % avdrag från full<br>avgift |
@@ -5160,7 +5149,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 111-3](handlingar.tabeller/111-3.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 970 kr |
@@ -5171,7 +5160,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 13 (2
 
 [Tabell 112-1](handlingar.tabeller/112-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
+| A 8 | Anmälningspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 8.1 | Rivning av byggnad eller en del av byggnad, med tekniskt samråd | 12 635 kr |
@@ -5228,7 +5217,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 114-1](handlingar.tabeller/114-1.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 15 295 kr |
@@ -5236,7 +5225,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 114-2](handlingar.tabeller/114-2.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 16 625 kr |
@@ -5245,7 +5234,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 114-3](handlingar.tabeller/114-3.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | Förhandsbesked | Utanför planlagt område | 24 605 kr |
@@ -5253,11 +5242,11 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 114-4](handlingar.tabeller/114-4.csv)
 
-| A 12 Villkorsbesked |  |  |
+| A 12 | Villkorsbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 12.1 | Villkorsbesked | Timdebitering, dock<br>minst 2 timmar |
-| A 13 Ingripandebesked |  |  |
+| A 13 | Ingripandebesked |  |
 | Ärendetyp |  | Avgift |
 | A 13.1 | Ingripandebesked | Timdebitering, dock<br>minst 2 timmar |
 
@@ -5267,7 +5256,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (2
 
 [Tabell 115-1](handlingar.tabeller/115-1.csv)
 
-| A 14 Extra tekniska kontroller eller besked |  |  |
+| A 14 | Extra tekniska kontroller eller besked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 320 kr |
@@ -5288,7 +5277,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (2
 
 [Tabell 116-1](handlingar.tabeller/116-1.csv)
 
-| A 15 Upprättande av nybyggnadskarta |  |  |  |
+| A 15 | Upprättande av nybyggnadskarta |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 15.1 | För ny- och tillbyggnad inom<br>detaljplanelagt område. Fastighetens yta<br>0-5000 kvm | Nyupprättande av nybyggnadskarta | 9 975 kr |
@@ -5342,7 +5331,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 118-1](handlingar.tabeller/118-1.csv)
 
-| A 17 Lov för åtgärder som inte kräver lov (frivilliga lov) |  |  |
+| A 17 | Lov för åtgärder som inte kräver lov (frivilliga lov) |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 17.1 | Åtgärd som inte kräver lov, där närliggande eller i princip motsvarande åtgärd<br>finns i någon av taxans övriga tabeller | I enlighet med<br>tillämplig tabell |
@@ -5350,28 +5339,28 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 118-2](handlingar.tabeller/118-2.csv)
 
-| A 18 Andra tids- eller kostnadskrävande åtgärder |  |  |
+| A 18 | Andra tids- eller kostnadskrävande åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 18.1 | Andra tids- eller kostnadskrävande åtgärder | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 118-3](handlingar.tabeller/118-3.csv)
 
-| A 19 Avslag |  |  |
+| A 19 | Avslag |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 19.1 | Avslag | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 118-4](handlingar.tabeller/118-4.csv)
 
-| A 20 Avskrivning |  |  |
+| A 20 | Avskrivning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 20.1 | Avskrivning | Timdebitering, dock<br>minst 1 timme |
 
 [Tabell 118-5](handlingar.tabeller/118-5.csv)
 
-| A 21 Avvisning |  |  |
+| A 21 | Avvisning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 21.1 | Avvisning | Timdebitering, dock<br>minst 2 timmar |
@@ -5382,7 +5371,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 119-1](handlingar.tabeller/119-1.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta. Moms tillkommer. | A4, skala 1:500 | 229 kr<br>+moms |
@@ -5398,7 +5387,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 119-2](handlingar.tabeller/119-2.csv)
 
-| A 23 Digital geografisk information |  |  |  |  |  |  |
+| A 23 | Digital geografisk information |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ärendetyp |  |  |  |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar. Moms tillkommer. | 1-5 ha |  |  | 1 719 kr<br>+moms |  |
@@ -5415,7 +5404,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 120-1](handlingar.tabeller/120-1.csv)
 
-| B 1 Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |  |
+| B 1 | Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 1.1 | Nybyggnad och tillbyggnad större än 15,0 m2 (BYA) av en- och tvåbostadshus | 41 250 kr |
@@ -5425,7 +5414,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 120-2](handlingar.tabeller/120-2.csv)
 
-| B 2 Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |  |
+| B 2 | Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 2.1 | Ny- och tillbyggnad eller annan ändring, dock ej fasadändring, 0 – 100 kvm (BTA+OPA) | 37 825 kr |
@@ -5435,7 +5424,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 120-3](handlingar.tabeller/120-3.csv)
 
-| B 3 Ansökan om planbesked |  |  |
+| B 3 | Ansökan om planbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 3.1 | Planbesked | 26 700 kr |
@@ -5822,69 +5811,70 @@ strategiska planen beskriver  viktiga områden  där kollektivtrafiken
 
 såväl som  kollektivtrafikplaneringen behöver  utvecklas.
 
-Sociala  analyser                       Delaktighet
-– i planering och genomförande        – utveckla dialog med särskilt
-
-fokus barn och unga
-
 SAMMANFATTNING
 
-Den    strategiska       planen     är  en  del   av
-Vad    ska   åstadkommas?
+Den    strategiska       planen      är en   del  av
+Vad    ska  åstadkommas?
 trafikförsörjningsprogrammet
-Den  strategiska planen  innehåller fyra åtgärdsområden    med
+Den  strategiska planen  innehåller fyra åtgärdsområden   med
 
-prioriterade  insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar genomförandet    av trafik­
+prioriterade insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar  genomförandet   av trafik­
 
-avsnittet Åtgärdsområden    och prioriterade  insatser.                          försörjningsprogrammets    mål  om  att kollektivtrafiken ska bidra
+avsnittet Åtgärdsområden    och prioriterade insatser.                          försörjningsprogrammets     mål om  att kollektivtrafiken ska bidra
 till jämlika förutsättningar. Ytterligare konkretiseringar görs
 
-sedan av Västtrafik i en handlingsplan.  I figur 2 beskrivs hur
+sedan  av Västtrafik i en handlingsplan. I figur 2 beskrivs hur
 
-trafikförsörjningsprogrammets    mål och  prioriterade åtgärder
+trafikförsörjningsprogrammets     mål och prioriterade  åtgärder
 
-hänger  ihop med  den  stratgiska planens åtgärdsområden    och
+hänger  ihop  med  den stratgiska planens  åtgärdsområden    och
 
-prioriterade insatser samt  i den handlingsplan  som  Västtrafik
+prioriterade  insatser samt i den handlingsplan  som  Västtrafik
 
-tar fram som  en följd av den strategiska planen.
+tar fram  som  en följd av den strategiska planen.
 
-Hela resan  fungerar                       Trygghet                                                                  Målområde
+Sociala analyser                                                                                                   Trygghet                                                                   Målområde
 
-– för personer med funktions­        – kollektivtrafiken ska kännas
-nedsättning, barn och äldre                trygg och säker                            Trafikförsörjnings-
+– i planering och genomförande                                                                                   – kollektivtrafiken ska kännas
+trygg och säker                           Trafikförsörjnings-
 Mål
 programmet
+Utveckla samverkan kring
+Utveckla och bredda arbetet
+brottsförebyggande arbete och                                                 Prioriterade åtgärder
+med sociala analyser
+trafiksäkerhet
 
-Prioriterade åtgärder
-
-Åtgärds områden
-Strategisk  plan för
-
+Öka kunskapen om olika gruppers                                                                                    Säkerställa kompetens om                                                      Åtgärds områden
+Tillgängliga fordon
+behov och förutsättningar                                                                                           utsatta grupper                          Strategisk  plan  för
 kollektivtrafik på
-jämlika villkor
-Prioriterade insatser
+jämlika  villkor
+Utveckla bemötande, kommunikation                                                                                     Prioriterade insatser
+Åtgärder för ökad trafiksäkerhet
+och information
 
+Utveckla störningshantering
+och störningsinformation
 Handlingsplan   för
 Ytterligare
 kollektivtrafik på
 konkretis eringar
 jämlika  villkor
+Säkerställa kompetens om
+priorierade grupper
 
 Figur 2. Den strategiska planen (beslutas av
-
 infrastruktur- och kollektivtrafiknämnden) i förhållande till
+
 trafikförsörjningsprogrammet  (beslutas av regionfullmäktige)
 Figur 1. Den strategiska planens åtgärdsområden  och prioriterade insatser                                                                                       och den  handlingsplan som  Västtrafik beslutar om.
 
 [Tabell 133-1](handlingar.tabeller/133-1.csv)
 
-| Utveckla och bredda arbetet<br>med sociala analyser | Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser | Utveckla samverkan kring<br>brottsförebyggande arbete och<br>trafiksäkerhet |
-| --- | --- | --- | --- |
-| Öka kunskapen om olika gruppers<br>behov och förutsättningar |  | Tillgängliga fordon | Säkerställa kompetens om<br>utsatta grupper |
-|  |  | Utveckla bemötande, kommunikation<br>och information | Åtgärder för ökad trafiksäkerhet |
-|  |  | Utveckla störningshantering<br>och störningsinformation |  |
-|  |  | Säkerställa kompetens om<br>priorierade grupper |  |
+| Delaktighet<br>– utveckla dialog med särskilt<br>fokus barn och unga | Hela resan fungerar<br>– för personer med funktions­<br>nedsättning, barn och äldre |
+| --- | --- |
+| Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser |
 
 <!-- sida 134 -->
 
@@ -6136,6 +6126,8 @@ ska bidra till jämlika villkor i Västra Götaland ska nås. Planen är
 
 ska ses som  en del av programmet.
 
+UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
+
 Västra     Götalandsregionens              mål
 
 för  social    hållbarhet
@@ -6161,11 +6153,6 @@ ska bidra till en socialt hållbar utveckling i den verksamhet som
 
 bedrivs samt  i avtal och överenskommelser    som  sluts med andra
 
-God  hälsa och                       Jämlikhet  och
-välbefinnande                        lika rättigheter
-
-UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
-
 parter. Det ska märkas  när Västra  Götalandsregionen   prioriterar,
 
 fattar beslut, arbetar främjande  och förebyggande   samt
@@ -6182,26 +6169,31 @@ har olika livsvillkor och förutsättningar. Alla ges till exempel
 inte samma   möjlighet att vara delaktiga i samhället, att ta del
 
 av information  eller att leva ett hälsosamt liv. Västra Götalands­
-
 regionen  ska skapa jämlika  förutsättningar för invånarna.
+
 Måldokumentet    menar   att regionen behöver  riva hinder och hitta
 
 nya lösningar  som  fungerar för fler. För att klara det behöver
 
 kunskapen   om  människors   förutsättningar och  rättigheter öka.
 
-Tillit, trygghet
-och  delaktighet
+God  hälsa och                       Jämlikhet  och                       Tillit, trygghet
+välbefinnande                        lika rättigheter                     och delaktighet
+
+Främja hälsosam uppväxt och          Främja kunskap om jämlikhet            Främja ansvarstagande och
+fullfölja studier                och mänskliga rättigheter             transparent organisation
+
+Främja hälsosamt åldrande och           Identifiera och analysera           Främja frihet från våld, hot,
+motverka ofrivillig ensamhet            orättfärdiga skillnader              kränkningar och tvång
+
+Främja psykisk hälsa och               Främja tillgänglig och
+Främja medskapande och dialog
+förebygga suicid                 inkluderande verksamhet
+
+Främja goda levnadsvanor
+och hållbart arbetsliv
 
 Figur 4. Västra Götalandsregionens Mål för social hållbarhet med tillhörande delmål.
-
-[Tabell 138-1](handlingar.tabeller/138-1.csv)
-
-| Främja hälsosam uppväxt och<br>fullfölja studier | Främja kunskap om jämlikhet<br>och mänskliga rättigheter | Främja ansvarstagande och<br>transparent organisation |
-| --- | --- | --- |
-| Främja hälsosamt åldrande och<br>motverka ofrivillig ensamhet | Identifiera och analysera<br>orättfärdiga skillnader | Främja frihet från våld, hot,<br>kränkningar och tvång |
-| Främja psykisk hälsa och<br>förebygga suicid | Främja tillgänglig och<br>inkluderande verksamhet | Främja medskapande och dialog |
-| Främja goda levnadsvanor<br>och hållbart arbetsliv |  |  |
 
 <!-- sida 139 -->
 
@@ -6323,32 +6315,35 @@ funktionsnedsättning,   barn och äldre,
 ● Trygghet  – kollektivtrafiken ska kännas  trygg och vara säker.
 
 Dessa har sedan  brutits ned i prioriterade insatser.
-Sociala analyser                       Delaktighet                      Hela  resan fungerar                       Trygghet
+Sociala analyser                                                                                                   Trygghet
 
-– i planering och genomförande        – utveckla dialog med särskilt       – för personer med  funktions­        – kollektivtrafiken ska kännas
+– i planering och genomförande                                                                                   – kollektivtrafiken ska kännas
 I följande avsnitt presenteras identifierade utvecklingsbehov  för
-fokus barn och unga               nedsättning, barn och äldre                trygg och säker
+trygg och säker
 varje åtgärdsområde.  Utvecklingsbehoven    sammanfattas   i ett
-antal prioriterade insatser som bedöms   behövas  för att bidra till
-
-en kollektivtrafik på jämlika villkor. De prioriterade insatserna
-
+antal prioriterade insatser som bedöms   behövas  för att bidra till                                                                                                                                     Utveckla samverkan kring
+Utveckla och bredda arbetet
+brottsförebyggande arbete och
+en kollektivtrafik på jämlika villkor. De prioriterade insatserna                           med sociala analyser
+trafiksäkerhet
 kan ha flera sakägare och kräva  samverkan   mellan  olika aktörer
-
-Genomförande           och    uppföljning
-
+Öka kunskapen om olika gruppers                                                                                    Säkerställa kompetens om
+Genomförande           och    uppföljning                                                                                                                              Tillgängliga fordon
+behov och förutsättningar                                                                                           utsatta grupper
 Västtrafik har huvudansvaret   för att omsätta målen  i den
 
-strategiska planen i handling. Detta görs genom   att Västtrafik
-
+strategiska planen i handling. Detta görs genom   att Västtrafik                                                                                               Utveckla bemötande, kommunikation
+Åtgärder för ökad trafiksäkerhet
+och information
 tar fram en intern handlingsplan  som  beskriver  de åtgärder som
-
 ska genomföras   för att nå de uppsatta målen  inom  den utpekade
-
+Utveckla störningshantering
 tidsramen. Förvaltningen   för fastighet stöd och service äger,
-
+och störningsinformation
 förvaltar och underhåller hållplatsutrustning,  resecentrum  och
 depåer.
+Säkerställa kompetens om
+priorierade grupper
 
 Den strategiska planen  följs upp regelbundet  i samband  med   att
 
@@ -6356,12 +6351,9 @@ trafikförsörjningsprogrammet    följs upp.                                   
 
 [Tabell 141-1](handlingar.tabeller/141-1.csv)
 
-| Utveckla och bredda arbetet<br>med sociala analyser | Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser | Utveckla samverkan kring<br>brottsförebyggande arbete och<br>trafiksäkerhet |
-| --- | --- | --- | --- |
-| Öka kunskapen om olika gruppers<br>behov och förutsättningar |  | Tillgängliga fordon | Säkerställa kompetens om<br>utsatta grupper |
-|  |  | Utveckla bemötande, kommunikation<br>och information | Åtgärder för ökad trafiksäkerhet |
-|  |  | Utveckla störningshantering<br>och störningsinformation |  |
-|  |  | Säkerställa kompetens om<br>priorierade grupper |  |
+| Delaktighet<br>– utveckla dialog med särskilt<br>fokus barn och unga | Hela resan fungerar<br>– för personer med funktions­<br>nedsättning, barn och äldre |
+| --- | --- |
+| Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser |
 
 <!-- sida 142 -->
 
@@ -9008,7 +9000,7 @@ Grundläggande     minsta  utbud
 Geografi                                                                                                      Trafiklösningar
 och  öppettider
 
-Landsbygder                                    1 tur- och returresa (flera tidsfönster) mån–fre               Anropsstyrd trafik ex. Närtrafik
+Landsbygder
 
 Tätorter 200–499  invånare
 
@@ -9073,8 +9065,9 @@ Arbets- och studiependling, service- och fritidsresor
 
 [Tabell 175-1](handlingar.tabeller/175-1.csv)
 
-| 2 turer per riktning mån–fre + Närtrafik | Linjelagd trafik, kan vara anropsstyrd |
+| 1 tur- och returresa (flera tidsfönster) mån–fre | Anropsstyrd trafik ex. Närtrafik |
 | --- | --- |
+| 2 turer per riktning mån–fre + Närtrafik | Linjelagd trafik, kan vara anropsstyrd |
 | 5 turer per riktning mån–fre | Linjelagd trafik, kan vara anropsstyrd |
 | 10 turer per riktning mån–fre<br>5 turer per riktning lör–sön | Linjelagd trafik, kan vara anropsstyrd |
 | 16 turer per riktning\* mån–fre, 06–22<br>8 turer per riktning\* lör–sön, 06–22 | Linjelagd trafik, kan vara anropsstyrd |
@@ -17708,7 +17701,7 @@ Jan Österdahl I (M) TVKk Xx I |
 
 Kjell-Åke Andersson | (M) | Vk | Malin Magnusson [XT] |
 
-Franklin Eck | (M) TVK Xx
+Franklin Eck I (M) TVK Xx
 
 Michael Cassaras - (M) | Vk Lars Thelén X
 
@@ -17826,12 +17819,6 @@ Sida 1 av1
 KF § 89/12
 
 fa t å
-
-0 JSverigedemokn pirage D
-CR Verig ATerna
-
-EC : Itvgglet ön Traditinn.
-
 2012-04-10 — Reservation i fråga nr 16 under kvällens kommunfullmäktigemöte om
 antagandet av Översiktsplan för vindkraft, tillägg till Kungsbacka översiktsplan 2006.
 

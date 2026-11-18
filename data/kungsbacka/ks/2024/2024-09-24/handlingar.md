@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.33d6d97191e4f00c90c8a98/17266613739
 sha256: b445137a352d0c771dffff2bd603f93599a6ec0d3fee931d9595ec98414f2181
 bytes: 76037184
 sidor: 630
-hamtad: 2026-11-08T21:33:34+00:00
-konverterad: 2026-11-08T21:39:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:20:44+00:00
+konverterad: 2026-11-18T12:26:27+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [10, 65, 66, 67, 68, 69, 70, 71, 72, 108, 110, 112, 113, 114, 115, 117, 118, 120, 123, 124, 167, 168, 169, 173, 175, 176, 220, 229, 234, 236, 237, 238, 315, 316, 317, 318, 319, 320, 322, 325, 326, 327, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 341, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 379, 380, 381, 414, 415, 416, 459, 462, 465, 483, 486, 630]
 figurer: [10, 30, 65, 66, 67, 68, 69, 70, 71, 72, 80, 84, 103, 109, 110, 111, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 138, 139, 140, 141, 143, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 182, 192, 215, 217, 227, 234, 243, 247, 248, 249, 250, 251, 252, 255, 257, 259, 260, 262, 265, 273, 277, 279, 280, 281, 282, 284, 285, 288, 292, 293, 297, 298, 299, 301, 303, 304, 305, 310, 311, 312, 313, 314, 320, 345, 346, 347, 348, 349, 354, 362, 363, 364, 365, 367, 368, 370, 374, 375, 376, 377, 379, 380, 382, 387, 388, 389, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 416, 420, 421, 422, 423, 424, 426, 427, 429, 432, 433, 434, 435, 437, 450, 454, 457, 459, 460, 462, 464, 465, 467, 472, 475, 478, 481, 483, 486, 489, 494, 495, 508, 548, 580, 581]
 tolkade: []
@@ -799,31 +799,27 @@ Delårsrapport augusti 2024
 
 4.3 Resursmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                   2020      2021       2022      2023       2024
-Andel heltid      99,2 %     100 %     100 %      100 %     100 %
-Anställda andel kvinnor 75,2 % 73,8 %  74,2 %     72,6 %    73,2 %
-Anställda totalt   125        126       124        124       123
-Medelålder         44         45        45         46        47
-```
-
 4.4 Effektmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                   2020      2021       2022      2023       2024
-Personalomsättning 9,1 %     1,6 %     5,8 %      4,2 %      4 %
-Sjukfrånvaro Kvinnor 3,4 %   2,3 %     3,1 %      3,6 %     2,2 %
-Sjukfrånvaro Män  3,6 %      0,3 %      1 %       0,9 %     0,5 %
-Sjukfrånvaro Totalt 3,4 %    1,8 %     2,6 %      2,9 %     1,7 %
-```
-
 12
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Namn | Utfall jan-jun<br>2020 | Utfall jan-jun<br>2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 99,2 % | 100 % | 100 % | 100 % | 100 % |
+| Anställda andel kvinnor | 75,2 % | 73,8 % | 74,2 % | 72,6 % | 73,2 % |
+| Anställda totalt | 125 | 126 | 124 | 124 | 123 |
+| Medelålder | 44 | 45 | 45 | 46 | 47 |
+
+[Tabell 21-2](handlingar.tabeller/21-2.csv)
+
+| Namn | Utfall jan-jun<br>2020 | Utfall jan-jun<br>2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 9,1 % | 1,6 % | 5,8 % | 4,2 % | 4 % |
+| Sjukfrånvaro Kvinnor | 3,4 % | 2,3 % | 3,1 % | 3,6 % | 2,2 % |
+| Sjukfrånvaro Män | 3,6 % | 0,3 % | 1 % | 0,9 % | 0,5 % |
+| Sjukfrånvaro Totalt | 3,4 % | 1,8 % | 2,6 % | 2,9 % | 1,7 % |
 
 <!-- sida 22 -->
 
@@ -1353,21 +1349,23 @@ Internkontrollplan 2025
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
 
-| Kategorier<br>Personal | Sanno- Till<br>Risker Konsekvens<br>likhet plan<br>1 Kommunövergripande risk: 2. 3. Kännbar (uppfattas som Ja<br>Efterlevnad till Mindre besvärande för berörda<br>rekryteringsprocessen vanligt intressenter och kommunen) |
-| --- | --- |
-| Ekonomi | 2 Debiteringsrutiner 2. 3. Kännbar (uppfattas som Ja<br>Mindre besvärande för berörda<br>vanligt intressenter och kommunen) |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 3 Kommunövergripande risk: 3. 3. Kännbar (uppfattas som Ja<br>Bristande följsamhet till Vanligt besvärande för berörda<br>inköpsprocessen; intressenter och kommunen)<br>direktupphandling respektive<br>avtalsuppföljning |
-| Verksamhet | 4 Kommunövergripande risk 2. 4. Allvarlig/stor inverkan (så Ja<br>- Risk för korruption och Mindre stor att den inte får inträffa)<br>välfärdsbrottslighet vanligt |
-|  | 5 Kommunövergripande risk: 3. 3. Kännbar (uppfattas som Ja<br>Förvaltningarnas arbete med att Vanligt besvärande för berörda<br>utveckla intressenter och kommunen)<br>krisledningsorganisationen i<br>egen verksamhet |
+| Kategorier |  | Risker | Sanno-<br>likhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande risk:<br>Efterlevnad till<br>rekryteringsprocessen | 2.<br>Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Ekonomi |  | 2 Debiteringsrutiner | 2.<br>Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 3 Kommunövergripande risk:<br>Bristande följsamhet till<br>inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3.<br>Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Verksamhet |  | 4 Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | 2.<br>Mindre<br>vanligt | 4. Allvarlig/stor inverkan (så<br>stor att den inte får inträffa) | Ja |
+|  |  | 5 Kommunövergripande risk:<br>Förvaltningarnas arbete med att<br>utveckla<br>krisledningsorganisationen i<br>egen verksamhet | 3.<br>Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
 
 [Tabell 36-37-2](handlingar.tabeller/36-37-2.csv)
 
-| Kategorier<br>Personal | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: 3. Kännbar Ingen aktuell risk för<br>Resurs- och kompetensbrist (uppfattas som kommunstyrelsens<br>2.<br>besvärande för verksamheter.<br>Mindre<br>berörda<br>vanligt<br>intressenter och<br>kommunen) |
-| --- | --- |
-| Ekonomi | Kommunövergripande risk: 3. Kännbar Utvecklingsarbete<br>Grundläggande redovisning (uppfattas som pågår bl a med nya<br>2.<br>kvalitetsbrister besvärande för avstämningar och<br>Mindre<br>berörda rapporter (BI)<br>vanligt<br>intressenter och<br>kommunen) |
-|  | Kommunövergripande risk: Omfattas av KFs<br>2. Lindrig<br>Resurser till innovation, direktiv till<br>2. (uppfattas som<br>digitalisering och omställning till nämnderna och följs<br>Mindre liten av berörda<br>nya arbetssätt för framtidens upp i processen för<br>vanligt intressenter och<br>välfärd budget och<br>kommunen)<br>uppföljning. |
-| Kategorier<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp... | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Arbetet med<br>3. Kännbar<br>informationssäkerhet; skydd av informationssäkerhe<br>(uppfattas som<br>information mot obehörig 2. t följer<br>besvärande för<br>tillgång Mindre gemensamma<br>berörda<br>vanligt styrdokument med<br>intressenter och<br>uppföljning i egen<br>kommunen)<br>process. |
-|  | Kommunövergripande risk: It- Tas omhand genom<br>3. Kännbar<br>säkerhet - Bristande driftmiljö inköpsprocessen/lev<br>(uppfattas som<br>hos leverantörer 2. erantörsuppföljning.<br>besvärande för<br>Mindre Även uppföljning<br>berörda<br>vanligt genom<br>intressenter och<br>systemförvaltarmod<br>kommunen)<br>ellen. |
+| Kategorier |  | Risker | Sanno-<br>likhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergripande risk:<br>Resurs- och kompetensbrist | 2.<br>Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ingen aktuell risk för<br>kommunstyrelsens<br>verksamheter. |
+| Ekonomi |  | Kommunövergripande risk:<br>Grundläggande redovisning<br>kvalitetsbrister | 2.<br>Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utvecklingsarbete<br>pågår bl a med nya<br>avstämningar och<br>rapporter (BI) |
+|  |  | Kommunövergripande risk:<br>Resurser till innovation,<br>digitalisering och omställning till<br>nya arbetssätt för framtidens<br>välfärd | 2.<br>Mindre<br>vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Omfattas av KFs<br>direktiv till<br>nämnderna och följs<br>upp i processen för<br>budget och<br>uppföljning. |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | Kommunövergripande risk:<br>informationssäkerhet; skydd av<br>information mot obehörig<br>tillgång | 2.<br>Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Arbetet med<br>informationssäkerhe<br>t följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen<br>process. |
+|  |  | Kommunövergripande risk: It-<br>säkerhet - Bristande driftmiljö<br>hos leverantörer | 2.<br>Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>inköpsprocessen/lev<br>erantörsuppföljning.<br>Även uppföljning<br>genom<br>systemförvaltarmod<br>ellen. |
 
 <!-- sida 37 -->
 
@@ -2488,7 +2486,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -7160,7 +7158,7 @@ Andel av total befolkningen
 
 [Tabell 167-1](handlingar.tabeller/167-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -7360,17 +7358,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 170 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -7378,18 +7395,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 170-1](handlingar.tabeller/170-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 171 -->
 
@@ -7542,7 +7547,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 174-1](handlingar.tabeller/174-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |
@@ -9839,7 +9844,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 236 -->
 
-: Pa - "va rd i Tele oo NN
 RINNA. s Fate 2 sor AR se SÄ Ae TVÄR RE RAS NE Rc
 
 mallnör Yänsstyrelsens i . Hallands län beslut 1974-06 28 . . T |+
@@ -9880,8 +9884,6 @@ a) Med Es betecknat område får användas endast för
 , .
 
 1 mom Med punktprickning betecknad mark får icke bebyggas.
-
-\| |
 3 § — SÄRSKILDA FÖRESKRIFTER ANGÅENDE OMRÅDEN FÖR LEDNINGAR
 1 mom På med u betecknad mark får. icke vidtos anordningar sem
 
@@ -9924,7 +9926,6 @@ an ARR Sen ma ELD SN SER LA LSE. NR a äm Fa
 rm a so ale ser das
 
 Ra tt ; en
-PESO SES v
 
 BYGGNADSSÄTT
 
@@ -16628,8 +16629,6 @@ FASTIGHETER SOM BERÖRS AV PLANÄNDRINGEN
 
 IN 3:27
 
-ra Vd
-
 Sö. bo” SN
 \>"
 x
@@ -16642,7 +16641,6 @@ i
 i
 IG
 \- ! Lill Iksvagen ;
-1 | = ”/
 . 5 |
 Uj
 i
@@ -16656,7 +16654,6 @@ LS 0]
 g [5
 NN ST
 Sw, AN
-DA 3
 2:66 U
 I I
 12 2:60
@@ -18082,7 +18079,7 @@ Avrop förstärkta satsningar trimning och effektivisering i stråk 2 (4)
 
 [Tabell 451-1](handlingar.tabeller/451-1.csv)
 
-| Kommun ÅVS Åtgärdsnamn Sökt belopp |  |  |  |
+| Kommun | ÅVS | Åtgärdsnamn | Sökt belopp |
 | --- | --- | --- | --- |
 | Göteborg | TRV<br>2018/125647 | GC-väg Hovås-Otterbäck | 8 800 000 kr |
 | Göteborg | TRV 2017/43201 | Trafiksäkerhetsåtgärder<br>Bondegärdet och Hjällbo Lillgata | 30 000 000 kr |
@@ -18141,7 +18138,7 @@ Avrop förstärkta satsningar trimning och effektivisering i stråk 3 (4)
 
 [Tabell 452-453-1](handlingar.tabeller/452-453-1.csv)
 
-| Kommun ÅVS Åtgärdsnamn Bidrag |  |  |  |
+| Kommun | ÅVS | Åtgärdsnamn | Bidrag |
 | --- | --- | --- | --- |
 | Lerum | TRV 2017/43201 | Gångpassage vid hpl Ekåsa | 240 000 kr |
 | Lerum | TRV 2017/43201 | Gångpassage vid hpl Annekärr | 240 000 kr |
@@ -20687,68 +20684,49 @@ Tabell 26. Större vägåtgärder.
 
 Större vägåtgärder
 
-Medel i plan Total kostnad
-Förslag till                             Övrig
-Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
-åtgärd                               finansiering
-mnkr         mnkr
-Väg 168,    Väg 168 förbinder Marstrand Brist gällande kapacitet, Ny vägförbindelse. 344 (258) mnkr 560 (442) mnkr Nationell
-Ekelöv - Kareby med Kungälv/E6 via Ytterby. framkomlighet och                                  infrastrukturplan,
-Vägen har begränsad   trafiksäkerhet. Avlastning av       Två alternativa Två alternativa Kungälvs
-framkomlighet, framför allt genomfartstrafik för att      kostnadsbilder kostnadsbilder kommun
-under semester-perioden. förbättra framkomligheten        beroende på beroende på
-Vägen saknar en separerad och minska störningarna         val av korridor. val av korridor.
-gång- och cykel- väg och genom Ytterby.
-dessutom orsakar trafiken
-bullerstörningar, främst i
-Ytterby. Åtgärden möjliggör
-framtida kommunal
-exploatering.
-Väg 161, Rotvik Väg 161 ingår i ett för Befintlig väg har låg standard Mötesfri väg och 270 mnkr 270 mnkr Inget data
-\- Bäcken    transporter och pendling viktigt och ett stort antal bostäder GC-bana.
-regionalt stråk mellan Lysekil, ligger nära vägen. Vägen är
-Uddevalla, Trollhättan, mycket smal och
-Lidköping, Skövde och vägstandarden har stora
-Karlsborg. På aktuell sträcka i brister i förhållande till
-Uddevalla kommun saknas en trafikbelastning, vilken är
-separat gång- och cykelväg och särskilt hög under sommartid.
-oskyddade trafikanter är Det finns inte tillräckligt med
-hänvisade till körbanan. utrymme för oskyddade
-trafikanter.
+Övrig
+Åtgärd
+finansiering
+
+Väg 168,                                                                                       Nationell
+Ekelöv - Kareby                                                                                infrastrukturplan,
+Kungälvs
+kommun
+
+Inget data
+Väg 161, Rotvik
+\- Bäcken
+
 43
+
+[Tabell 496-499-1](handlingar.tabeller/496-499-1.csv)
+
+| Funktion | Brist/behov | Förslag till<br>åtgärd | Medel i plan<br>2022-2033,<br>mnkr | Total kostnad<br>2022-2033,<br>mnkr |
+| --- | --- | --- | --- | --- |
+| Väg 168 förbinder Marstrand<br>med Kungälv/E6 via Ytterby.<br>Vägen har begränsad<br>framkomlighet, framför allt<br>under semester-perioden.<br>Vägen saknar en separerad<br>gång- och cykel- väg och<br>dessutom orsakar trafiken<br>bullerstörningar, främst i<br>Ytterby. Åtgärden möjliggör<br>framtida kommunal<br>exploatering. | Brist gällande kapacitet,<br>framkomlighet och<br>trafiksäkerhet. Avlastning av<br>genomfartstrafik för att<br>förbättra framkomligheten<br>och minska störningarna<br>genom Ytterby. | Ny vägförbindelse. | 344 (258) mnkr<br>Två alternativa<br>kostnadsbilder<br>beroende på<br>val av korridor. | 560 (442) mnkr<br>Två alternativa<br>kostnadsbilder<br>beroende på<br>val av korridor. |
+| Väg 161 ingår i ett för<br>transporter och pendling viktigt<br>regionalt stråk mellan Lysekil,<br>Uddevalla, Trollhättan,<br>Lidköping, Skövde och<br>Karlsborg. På aktuell sträcka i<br>Uddevalla kommun saknas en<br>separat gång- och cykelväg och<br>oskyddade trafikanter är<br>hänvisade till körbanan. | Befintlig väg har låg standard<br>och ett stort antal bostäder<br>ligger nära vägen. Vägen är<br>mycket smal och<br>vägstandarden har stora<br>brister i förhållande till<br>trafikbelastning, vilken är<br>särskilt hög under sommartid.<br>Det finns inte tillräckligt med<br>utrymme för oskyddade<br>trafikanter. | Mötesfri väg och<br>GC-bana. | 270 mnkr | 270 mnkr |
+| Väg 535, Landvettervägen-<br>Partillevägen, förbinder väg 40 i<br>söder med E20 i norr. Vägen är<br>viktig för både lokala och<br>regionala resor och<br>godstransporter samt för<br>kollektivtrafiken i östra<br>Storgöteborg. Vägen är tillåten<br>för dispens- och farligt<br>godstransporter samt är av<br>Trafikverket utpekad som<br>omledningsväg. Åtgärden<br>möjliggör utbyggnad av 3 000<br>bostäder i Partille kommun. | Det finns behov av att öka<br>framkomligheten och<br>trafiksäkerheten för<br>personbilar, lastbilar och<br>kollektivtrafiken samt<br>förbättra tillgängligheten och<br>trafiksäkerheten för gång-<br>och cykeltrafikanter. På den<br>södra delen finns behov av en<br>ny viltpassage för att minska<br>barräreffekten och gynna<br>biologisk mångfald. | Trafiksäkerhet-,<br>kollektivtrafik- och<br>GC-åtgärder. | 138 mnkr | 318 mnkr |
+| Ingår i den så kallade ”inre<br>halvcirkeln” som förbinder E6<br>med inre delar i regionen,<br>mellan Varberg och Borås.<br>Vägen ligger i ett skredrisk-<br>område som innebär stor risk<br>för stabilitetsproblem. | Behov av att få bort<br>stabilitetsproblem, öka<br>framkomligheten, förbättra<br>trafiksäkerheten och minska<br>miljöbelastningen genom<br>Sundholmen. | Mötesfri väg och<br>GC-väg. | 218 mnkr | 218 mnkr |
+| Vägen är en viktig<br>kommunikationsled och<br>utpekad som ett riksintresse.<br>Vägen har partier med<br>närliggande bebyggelse och<br>utfarter med låg standard och<br>bristande siktförhållanden och i<br>västra delen täta<br>korsningsavstånd. | Behov av att förbättra<br>framkomligheten,<br>trafiksäkerheten och<br>vägstandarden men även<br>miljöförhållandena för<br>boende utmed vägen. | Mötesfri väg och<br>GC-väg. | 290 mnkr | 290 mnkr |
+| Väg 41, mellan Varberg och<br>Borås, är ett viktigt<br>komplement till det nationella<br>vägnätet för såväl<br>godstransporter som<br>pendlare. Sett till dess<br>funktion så har vägen en lägre<br>standard och det saknas<br>sammanhängande GC-väg i<br>anslutning till väg 41. Den<br>utpekade sträckan berör den<br>norra delen av väg 41<br>närmare Borås. | Behov av att öka<br>trafiksäkerheten och<br>framkomligheten i ett viktigt<br>stråk mellan Borås och<br>Varberg. | Mötesfri väg. | 80 mnkr | 80 mnkr |
+| Vägen används för regionala<br>godstransporter samt för lokal<br>och regional arbetspendling.<br>Sträckan är utpekad i FPV för<br>godstransporter, dagliga<br>personresor och<br>kollektivtrafik. | Bristfällighet i trafiksäkerhet<br>och tillgänglighet. | Mötesfri väg och<br>GC-väg. | 201 mnkr | 213 mnkr |
+| Väg 168 kopplar samman E6<br>med Marstrand i Kungälvs<br>kommun och är hårt belastad<br>under sommaren. Det finns<br>bland annat ett stort behov av<br>trafiksäkerhetshöjande<br>åtgärder. | De huvudsakliga bristerna är<br>att vägen saknar vägren,<br>avskild väg för gående och<br>cyklister, trygga och<br>tillgänglighetsanpassade<br>busshållplatser samt säkra<br>möjligheter för gående och<br>cyklister att korsa vägen. | GC-väg,<br>trafiksäkerhets-<br>höjande åtgärder. | 24 mnkr | 111 mnkr |
+| Väg 678, som är ett alternativ<br>till väg 44, kopplar samman E6<br>med Vänersborg, Trollhättan<br>och Uddevalla. Sträckan mellan<br>Lerbomotet och<br>Bratterödsmotet saknar<br>mittseparering och är den sista<br>icke trafiksäkra sträckan mellan<br>Trestadsområdet och Göteborg.<br>Trafikverket prioriterar sträckan<br>som omledningsväg för E6. | En ombyggnation av väg 678<br>mellan Grohed och Bratteröd<br>till 2+1 med mittseparering,<br>med syfte att reducera<br>olycksrisken. | Mötesfri väg. | 122 mnkr | 122 mnkr |
+| Väg 156 går genom fyra<br>kommuner: Härryda, Mark,<br>Svenljunga och Tranemo.<br>Genomfartstrafiken på väg 156<br>behöver idag ta sig genom<br>centrala Skene för att ansluta<br>till väg 41. De kommande åren<br>planerar Marks kommun för<br>cirka 740 nya bostäder. För att<br>kunna utveckla centrala Skene<br>med bostäder och<br>verksamheter behöver<br>förbifarten färdigställas. | Genomfartstrafiken i Skene<br>skapar bristande<br>trafiksäkerhet och trygghet,<br>inte minst för oskyddade<br>trafikanter i Skene. Det<br>relativt höga trafikflödet<br>skapar även en miljö utsatt<br>för buller och en försämrad<br>luftkvalitet. Det finns även en<br>risk för köbildning som<br>exempelvis kan påverka<br>kollektivtrafiken. | Standardhöjning<br>av befintlig väg,<br>ny sträckning med<br>hastighet 80 km/h. | 0 mnkr | 268 mnkr |
 
 <!-- sida 497 -->
 
 Större vägåtgärder
 
-Medel i plan Total kostnad
-Förslag till                            Övrig
-Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
-åtgärd                               finansiering
-mnkr         mnkr
+Övrig
+Åtgärd
+finansiering
 
-E20 / Riksväg Väg 535, Landvettervägen- Det finns behov av att öka Trafiksäkerhet-, 138 mnkr 318 mnkr Regional
-40,         Partillevägen, förbinder väg 40 i framkomligheten och kollektivtrafik- och         infrastrukturplan
-Tvärförbindelse söder med E20 i norr. Vägen är trafiksäkerheten för GC-åtgärder.               kollektivtrafik-
-viktig för både lokala och personbilar, lastbilar och                              åtgärd,
-regionala resor och   kollektivtrafiken samt                                       Partille kommun
-godstransporter samt för förbättra tillgängligheten och
-
-kollektivtrafiken i östra
-Storgöteborg. Vägen är tillåten
-för dispens- och farligt
-godstransporter samt är av
-Trafikverket utpekad som
-omledningsväg. Åtgärden
-möjliggör utbyggnad av 3 000
-bostäder i Partille kommun.
-
-trafiksäkerheten för gång-
-och cykeltrafikanter. På den
-södra delen finns behov av en
-ny viltpassage för att minska
-barräreffekten och gynna
-biologisk mångfald.
+E20 / Riksväg                                                                                 Regional
+40,                                                                                           infrastrukturplan
+Tvärförbindelse                                                                               kollektivtrafik-
+åtgärd,
+Partille kommun
 
 Väg 41,                                                                                           Inget data
 Sundholmen
@@ -20759,35 +20737,17 @@ Väg 49, Axvall                                                                 
 
 44
 
-[Tabell 497-1](handlingar.tabeller/497-1.csv)
-
-| Ingår i den så kallade ”inre<br>halvcirkeln” som förbinder E6<br>med inre delar i regionen,<br>mellan Varberg och Borås.<br>Vägen ligger i ett skredrisk-<br>område som innebär stor risk<br>för stabilitetsproblem. | Behov av att få bort<br>stabilitetsproblem, öka<br>framkomligheten, förbättra<br>trafiksäkerheten och minska<br>miljöbelastningen genom<br>Sundholmen. | Mötesfri väg och<br>GC-väg. | 218 mnkr | 218 mnkr |
-| --- | --- | --- | --- | --- |
-| Vägen är en viktig<br>kommunikationsled och<br>utpekad som ett riksintresse.<br>Vägen har partier med<br>närliggande bebyggelse och<br>utfarter med låg standard och<br>bristande siktförhållanden och i<br>västra delen täta<br>korsningsavstånd. | Behov av att förbättra<br>framkomligheten,<br>trafiksäkerheten och<br>vägstandarden men även<br>miljöförhållandena för<br>boende utmed vägen. | Mötesfri väg och<br>GC-väg. | 290 mnkr | 290 mnkr |
-
 <!-- sida 498 -->
 
 Större vägåtgärder
 
-Medel i plan Total kostnad
-Förslag till                             Övrig
-Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
-åtgärd                               finansiering
-mnkr         mnkr
+Övrig
+Åtgärd
+finansiering
 Inget data
-Väg 41, Fritsla Väg 41, mellan Varberg och Behov av att öka Mötesfri väg. 80 mnkr 80 mnkr
-\- Kråkered   Borås, är ett viktigt trafiksäkerheten och
-komplement till det nationella framkomligheten i ett viktigt
-vägnätet för såväl   stråk mellan Borås och
-godstransporter som  Varberg.
-pendlare. Sett till dess
-funktion så har vägen en lägre
-standard och det saknas
-sammanhängande GC-väg i
-anslutning till väg 41. Den
-utpekade sträckan berör den
-norra delen av väg 41
-närmare Borås.
+Väg 41, Fritsla
+\- Kråkered
+
 Väg 49, Skövde                                                                                 Skövde kommun
 \- Igelstorp
 
@@ -20796,56 +20756,22 @@ kommun
 
 45
 
-[Tabell 498-1](handlingar.tabeller/498-1.csv)
-
-| Vägen används för regionala<br>godstransporter samt för lokal<br>och regional arbetspendling.<br>Sträckan är utpekad i FPV för<br>godstransporter, dagliga<br>personresor och<br>kollektivtrafik. | Bristfällighet i trafiksäkerhet<br>och tillgänglighet. | Mötesfri väg och<br>GC-väg. | 201 mnkr | 213 mnkr |
-| --- | --- | --- | --- | --- |
-| Väg 168 kopplar samman E6<br>med Marstrand i Kungälvs<br>kommun och är hårt belastad<br>under sommaren. Det finns<br>bland annat ett stort behov av<br>trafiksäkerhetshöjande<br>åtgärder. | De huvudsakliga bristerna är<br>att vägen saknar vägren,<br>avskild väg för gående och<br>cyklister, trygga och<br>tillgänglighetsanpassade<br>busshållplatser samt säkra<br>möjligheter för gående och<br>cyklister att korsa vägen. | GC-väg,<br>trafiksäkerhets-<br>höjande åtgärder. | 24 mnkr | 111 mnkr |
-
 <!-- sida 499 -->
 
 Större vägåtgärder
 
-Medel i plan Total kostnad
-Förslag till                            Övrig
-Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
-åtgärd                               finansiering
-mnkr         mnkr
+Övrig
+Åtgärd
+finansiering
+Inget data
+Väg 678,
+Grohed -
+Bratteröd
 
-Väg 678,    Väg 678, som är ett alternativ En ombyggnation av väg 678 Mötesfri väg. 122 mnkr 122 mnkr Inget data
-Grohed -    till väg 44, kopplar samman E6 mellan Grohed och Bratteröd
-Bratteröd   med Vänersborg, Trollhättan till 2+1 med mittseparering,
-och Uddevalla. Sträckan mellan med syfte att reducera
-Lerbomotet och        olycksrisken.
-Bratterödsmotet saknar
-mittseparering och är den sista
-icke trafiksäkra sträckan mellan
-Trestadsområdet och Göteborg.
-Trafikverket prioriterar sträckan
-som omledningsväg för E6.
-
-Väg 156,    Väg 156 går genom fyra Genomfartstrafiken i Skene Standardhöjning 0 mnkr 268 mnkr  Marks kommun
-Förbifart   kommuner: Härryda, Mark, skapar bristande  av befintlig väg,
-Skene, Extern Svenljunga och Tranemo. trafiksäkerhet och trygghet, ny sträckning med
-finansiering Genomfartstrafiken på väg 156 inte minst för oskyddade hastighet 80 km/h.
-behöver idag ta sig genom trafikanter i Skene. Det
-
-centrala Skene för att ansluta
-till väg 41. De kommande åren
-planerar Marks kommun för
-cirka 740 nya bostäder. För att
-kunna utveckla centrala Skene
-med bostäder och
-verksamheter behöver
-förbifarten färdigställas.
-
-relativt höga trafikflödet
-skapar även en miljö utsatt
-för buller och en försämrad
-luftkvalitet. Det finns även en
-risk för köbildning som
-exempelvis kan påverka
-kollektivtrafiken.
+Väg 156,                                                                                       Marks kommun
+Förbifart
+Skene, Extern
+finansiering
 
 46
 
@@ -20853,37 +20779,27 @@ kollektivtrafiken.
 
 Större vägåtgärder
 
-Medel i plan Total kostnad
-Förslag till                             Övrig
-Åtgärd           Funktion            Brist/behov                    2022-2033,   2022-2033,
-åtgärd                               finansiering
-mnkr         mnkr
+Övrig
+Åtgärd
+finansiering
 Inget data
-Väg 49       Väg 49 utgör en del av Sträckan har brister gällande Mötesfri väg, 281 mnkr 281 mnkr
-Varnhem      kopplingen Lidköping - Skara trafiksäkerhet då det bland trafiksäkerhets-
-\- Storekullen - Skövde vilket är kopplingen annat finns många höjande åtgärder
-mellan Skaraborgs två största anslutningar. samt GC-väg.
-lokala arbetsområden. Tillgängligheten till
-Sträckan är viktig för busshållplatser och
-godstransporter, då den är en standarden på gång- och
-koppling mellan E20 vid Skara cykelväg längs sträckan är
-och Skövde. Sträckan saknar också bristfällig.
-tågförbindelse.
+Väg 49
+Varnhem
+\- Storekullen
+
 Inget data
-Väg 156,     Väg 156 går genom fyra Sträckan har brister i Mötesfri väg. 256 mnkr 256 mnkr
-Backadal-    kommuner: Härryda, Mark, tillgänglighet samt i
-Bonared      Svenljunga och Tranemo. Den trafiksäkerhet för
-aktuella sträckan kopplar ihop personbilstrafik,
-Marks kommun med riksväg kollektivtrafik och
-40\. De kommande åren godstransporter samt för
-planerar Marks kommun för oskyddade trafikanter. Norr
-cirka 740 nya bostäder. För att om Hjorttorp saknas
-kunna realisera detta och viltstängsel.
-framtida bostadsprojekt
-behöver väg 156 byggas ut på
-sträckan mot riksväg 40.
+Väg 156,
+Backadal-
+Bonared
 
 47
+
+[Tabell 500-1](handlingar.tabeller/500-1.csv)
+
+| Funktion | Brist/behov | Förslag till<br>åtgärd | Medel i plan<br>2022-2033,<br>mnkr | Total kostnad<br>2022-2033,<br>mnkr |
+| --- | --- | --- | --- | --- |
+| Väg 49 utgör en del av<br>kopplingen Lidköping - Skara<br>- Skövde vilket är kopplingen<br>mellan Skaraborgs två största<br>lokala arbetsområden.<br>Sträckan är viktig för<br>godstransporter, då den är en<br>koppling mellan E20 vid Skara<br>och Skövde. Sträckan saknar<br>tågförbindelse. | Sträckan har brister gällande<br>trafiksäkerhet då det bland<br>annat finns många<br>anslutningar.<br>Tillgängligheten till<br>busshållplatser och<br>standarden på gång- och<br>cykelväg längs sträckan är<br>också bristfällig. | Mötesfri väg,<br>trafiksäkerhets-<br>höjande åtgärder<br>samt GC-väg. | 281 mnkr | 281 mnkr |
+| Väg 156 går genom fyra<br>kommuner: Härryda, Mark,<br>Svenljunga och Tranemo. Den<br>aktuella sträckan kopplar ihop<br>Marks kommun med riksväg<br>40. De kommande åren<br>planerar Marks kommun för<br>cirka 740 nya bostäder. För att<br>kunna realisera detta och<br>framtida bostadsprojekt<br>behöver väg 156 byggas ut på<br>sträckan mot riksväg 40. | Sträckan har brister i<br>tillgänglighet samt i<br>trafiksäkerhet för<br>personbilstrafik,<br>kollektivtrafik och<br>godstransporter samt för<br>oskyddade trafikanter. Norr<br>om Hjorttorp saknas<br>viltstängsel. | Mötesfri väg. | 256 mnkr | 256 mnkr |
 
 <!-- sida 501 -->
 
@@ -20896,13 +20812,10 @@ Medel i plan
 Åtgärd         Funktion        Brist/behov    Förslag till åtgärd            berättigad  Övrig finansiering
 2022-2033
 kostnad
-Elfärja, fjärde Miljövänlig   Ökande resandebehov Ny eldriven färja i 10 mnkr  84 mnkr    Västtrafik
-älvskyttel, kollektivtrafikförbindelse över älven och i staden. enlighet med
-Göteborg    över det centrala Kapacitetsproblem i fastställd miljö- och
-älvsnittet i Göteborg. tunga        klimatstrategi för
-kollektivtrafikstråk i City, kollektivtrafiken.
-vilka behöver avlastas
-enligt Målbild Koll2035.
+Elfärja, fjärde                                                                           Västtrafik
+älvskyttel,
+Göteborg
+
 Bytespunkt                                                                                Västfastigheter,
 Haga,                                                                                     Göteborgs Stad
 Målbild
@@ -20927,8 +20840,9 @@ Stenungsunds kommun.
 
 [Tabell 501-1](handlingar.tabeller/501-1.csv)
 
-| Bytespunkt buss/<br>spårvagn och tåg. | Anpassning och<br>utveckling av<br>bytespunkten i samband<br>med byggnation av<br>Västlänkens station<br>Haga. | Nytt resecentrum och<br>tillhörande<br>väginfrastruktur i<br>anslutning till<br>huvuduppgången vid<br>Västlänken station<br>Haga. | 37 mnkr | 74 mnkr |
+| Miljövänlig<br>kollektivtrafikförbindelse<br>över det centrala<br>älvsnittet i Göteborg. | Ökande resandebehov<br>över älven och i staden.<br>Kapacitetsproblem i<br>tunga<br>kollektivtrafikstråk i City,<br>vilka behöver avlastas<br>enligt Målbild Koll2035. | Ny eldriven färja i<br>enlighet med<br>fastställd miljö- och<br>klimatstrategi för<br>kollektivtrafiken. | 10 mnkr | 84 mnkr |
 | --- | --- | --- | --- | --- |
+| Bytespunkt buss/<br>spårvagn och tåg. | Anpassning och<br>utveckling av<br>bytespunkten i samband<br>med byggnation av<br>Västlänkens station<br>Haga. | Nytt resecentrum och<br>tillhörande<br>väginfrastruktur i<br>anslutning till<br>huvuduppgången vid<br>Västlänken station<br>Haga. | 37 mnkr | 74 mnkr |
 | Bytespunkt buss/<br>spårvagn och tåg. | Anpassning och<br>utveckling av<br>bytespunkten i samband<br>med byggnation av<br>Västlänkens station<br>Korsvägen. | Nytt resecentrum i<br>anslutning till<br>huvuduppgången vid<br>Västlänkens station<br>Korsvägen. | 42 mnkr | 85 mnkr |
 | Bytespunkt buss och<br>tåg. | Samla<br>kollektivtrafikresandet<br>till en centralt belägen,<br>attraktiv bytespunkt för<br>att öka andelen hållbara<br>resor. | Ett nytt resecentrum<br>med tillhörande<br>väginfrastruktur i<br>direkt koppling till<br>Stenungsunds<br>centrum. | 86 mnkr | 171 mnkr |
 
@@ -20936,14 +20850,11 @@ Stenungsunds kommun.
 
 Större kollektivtrafikåtgärder
 
-Bidrags-
-Medel i plan
-Åtgärd         Funktion        Brist/behov    Förslag till åtgärd            berättigad  Övrig finansiering
-2022-2033
-kostnad
-Citybusstråk Pendlingsstråk Mölndal Bristande framkomlighet Ett nytt citybusstråk i 82 mnkr 164 mnkr Mölndals Stad
-Toltorp,     - Göteborg       och kapacitet för enlighet med Målbild
-Mölndal,                      kollektivtrafiken. Koll2035.
+Åtgärd                                                                                   Övrig finansiering
+
+Citybusstråk                                                                              Mölndals Stad
+Toltorp,
+Mölndal,
 Målbild
 Koll2035
 Elfärja, hyra,                                                                            Västtrafik,
@@ -20958,28 +20869,25 @@ Lerum                                                                           
 
 [Tabell 502-1](handlingar.tabeller/502-1.csv)
 
-| Miljövänlig<br>kollektivtrafikförbindelse<br>till norra skärgården. | Möjliggöra för boende i<br>norra skärgården att ta<br>sig till knutpunkter som<br>har förbindelse med<br>fastlandet. | Hyra av ett hybrid-/<br>elfartyg, i enlighet med<br>fastställd miljö- och<br>klimatstrategi för<br>kollektivtrafiken. | 20 mnkr | 60 mnkr |
+| Funktion | Brist/behov | Förslag till åtgärd | Medel i plan<br>2022-2033 | Bidrags-<br>berättigad<br>kostnad |
 | --- | --- | --- | --- | --- |
+| Pendlingsstråk Mölndal<br>- Göteborg | Bristande framkomlighet<br>och kapacitet för<br>kollektivtrafiken. | Ett nytt citybusstråk i<br>enlighet med Målbild<br>Koll2035. | 82 mnkr | 164 mnkr |
+| Miljövänlig<br>kollektivtrafikförbindelse<br>till norra skärgården. | Möjliggöra för boende i<br>norra skärgården att ta<br>sig till knutpunkter som<br>har förbindelse med<br>fastlandet. | Hyra av ett hybrid-/<br>elfartyg, i enlighet med<br>fastställd miljö- och<br>klimatstrategi för<br>kollektivtrafiken. | 20 mnkr | 60 mnkr |
 | Bytespunkt buss och tåg | Utveckling av<br>bytespunkten vid Lerums<br>station för att nå mål om<br>hållbart resande i takt<br>med ökad kapacitet på<br>Västra stambanan. | Nytt resecentrum med<br>väntsal. | 63 mnkr | 125 mnkr |
 
 <!-- sida 503 -->
 
 Större kollektivtrafikåtgärder
 
-Bidrags-
-Medel i plan
-Åtgärd         Funktion        Brist/behov    Förslag till åtgärd            berättigad  Övrig finansiering
-2022-2033
-kostnad
-E20 / Rv40  Busskörfält Furulund Ökad framkomlighet och Utvecklat 60 mnkr        Inget data Regional
-Tvärförbindelse, – Partille i norra delen kapacitet för kollektivtrafikstråk              infrastrukturplan
-Målbild     av stråket. Åtgärden kollektivtrafiken. enligt Målbild Koll2035               vägåtgärd,
-Koll2035,   möjliggör utbyggnad av              genom breddning av                        Partille kommun
-Samfinansiering 3 000 bostäder i Partille       befintlig väg med
-till vägåtgärd kommun.                          bland annat
-busskörfält. Se även
-tidigare tabell över
-större vägåtgärder.
+Åtgärd                                                                                   Övrig finansiering
+
+E20 / Rv40                                                                                Regional
+Tvärförbindelse,                                                                          infrastrukturplan
+Målbild                                                                                   vägåtgärd,
+Koll2035,                                                                                 Partille kommun
+Samfinansiering
+till vägåtgärd
+
 Elfärja,                                                                                  Kungälvs kommun
 Marstrand
 
@@ -20992,8 +20900,10 @@ etapp 1
 
 [Tabell 503-1](handlingar.tabeller/503-1.csv)
 
-| Miljövänlig<br>kollektivtrafikförbindelse<br>till Marstrand. | Kungälvs kommun har<br>befogenhet att ingå avtal<br>om allmän kollektivtrafik<br>mellan Koön och<br>Marstrandsön. Kungälvs<br>kommun ska ersätta<br>befintlig färja med en<br>eldriven senast år 2030. | Ny eldriven färja, i<br>enlighet med fastställd<br>miljö- och<br>klimatstrategi för<br>kollektivtrafiken. | 25 mnkr | 50 mnkr |
+| Funktion | Brist/behov | Förslag till åtgärd | Medel i plan<br>2022-2033 | Bidrags-<br>berättigad<br>kostnad |
 | --- | --- | --- | --- | --- |
+| Busskörfält Furulund<br>– Partille i norra delen<br>av stråket. Åtgärden<br>möjliggör utbyggnad av<br>3 000 bostäder i Partille<br>kommun. | Ökad framkomlighet och<br>kapacitet för<br>kollektivtrafiken. | Utvecklat<br>kollektivtrafikstråk<br>enligt Målbild Koll2035<br>genom breddning av<br>befintlig väg med<br>bland annat<br>busskörfält. Se även<br>tidigare tabell över<br>större vägåtgärder. | 60 mnkr | Inget data |
+| Miljövänlig<br>kollektivtrafikförbindelse<br>till Marstrand. | Kungälvs kommun har<br>befogenhet att ingå avtal<br>om allmän kollektivtrafik<br>mellan Koön och<br>Marstrandsön. Kungälvs<br>kommun ska ersätta<br>befintlig färja med en<br>eldriven senast år 2030. | Ny eldriven färja, i<br>enlighet med fastställd<br>miljö- och<br>klimatstrategi för<br>kollektivtrafiken. | 25 mnkr | 50 mnkr |
 | Bytespunkt buss/<br>spårvagn och färja. | Utveckling av<br>bytespunkten med ökad<br>kapacitet, förbättrade<br>flöden samtidigt som<br>tillgänglighetskraven<br>tillgodoses. | Ny flytbrygga inklusive<br>anpassning av<br>intilliggande<br>infrastruktur. | 30 mnkr | 60 mnkr |
 
 <!-- sida 504 -->
@@ -23419,14 +23329,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        4 (15)
 
 [Tabell 562-1](handlingar.tabeller/562-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -23656,7 +23565,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 567 -->
 
@@ -23716,7 +23626,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 568 -->
 
@@ -23871,16 +23782,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -23908,6 +23812,18 @@ En Grundavgift per år 14.1 a) 428 kr 428 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        13 (15)
 
+[Tabell 571-1](handlingar.tabeller/571-1.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 571-2](handlingar.tabeller/571-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 572 -->
 
 § 18
@@ -23916,7 +23832,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -23944,8 +23859,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        14 (15)
 
 [Tabell 572-1](handlingar.tabeller/572-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -24469,14 +24385,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        4 (19)
 
 [Tabell 585-1](handlingar.tabeller/585-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -24688,12 +24603,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (19)
 
 <!-- sida 590 -->
 
-20,00 kr 20,00kr 20,00kr 7,00kr
-c)  Tomtyteavgift per m2                              67,00 kr
-30%    30%    30%     10%
-Avgift för Dagvatten utan att
-d)\*                       -      -      22 200kr -
-förbindelsepunkt är upprättad
 6.2
 
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
@@ -24736,13 +24645,22 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (19)
 
 [Tabell 590-1](handlingar.tabeller/590-1.csv)
 
+| c) | Tomtyteavgift per m2 | 20,00 kr | 20,00kr | 20,00kr | 7,00kr | 67,00 kr |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 30% | 30% | 30% | 10% |  |
+| d)\* | Avgift för Dagvatten utan att | - | - | 22 200kr | - |  |
+|  | förbindelsepunkt är upprättad |  |  |  |  |  |
+
+[Tabell 590-2](handlingar.tabeller/590-2.csv)
+
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
 | Servisavgift | 5.1 a) | 100% | 6.1 a) | 100% |
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 591 -->
 
@@ -24803,7 +24721,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        10 (19)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr (22 kr) | om 28,84 kr (28 kr) |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr (22 kr) | om 28,84 kr (28 kr) |
+| av dagvatten |  |  |
 
 <!-- sida 592 -->
 
@@ -24994,9 +24913,6 @@ b) En avgift per m³ hämtat vatten         23,8 kr (20 kr)
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
 
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor (0,95
-dagvatten                                kr)
-
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
 
@@ -25019,10 +24935,19 @@ Grundavgiften. Följande avgifter ska därvid betalas för respektive ändamål:
 
 V      S     Df    Dg     Total avgift
 
-En Grundavgift per år 14.1 a) 428 kr 428 kr
-(360 kr) (360 kr)
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        16 (19)
+
+[Tabell 597-1](handlingar.tabeller/597-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor (0,95 |
+| --- | --- |
+| dagvatten | kr) |
+
+[Tabell 597-2](handlingar.tabeller/597-2.csv)
+
+| En Grundavgift per år | 14.1 a) | 428 kr | 428 kr |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | (360 kr) | (360 kr) |  |  |  |
 
 <!-- sida 598 -->
 
@@ -25032,19 +24957,18 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 2024
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        17 (19)
 
 [Tabell 598-1](handlingar.tabeller/598-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -25059,8 +24983,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        17 (19)
 
 [Tabell 598-2](handlingar.tabeller/598-2.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |

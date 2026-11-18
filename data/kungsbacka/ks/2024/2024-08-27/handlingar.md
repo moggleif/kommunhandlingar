@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6c78981e191785767f26ec9/17247399721
 sha256: 8c4e59ddadf0fff7950c74fc51617e7220045b0d6a0278959aabb7fc197ea21e
 bytes: 79980515
 sidor: 237
-hamtad: 2026-11-08T21:30:32+00:00
-konverterad: 2026-11-08T21:33:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:17:34+00:00
+konverterad: 2026-11-18T12:20:44+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224]
 figurer: [15, 207, 215, 217, 223]
 tolkade: []
@@ -9560,9 +9560,6 @@ Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet 
 uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
 
 Namnförtydligande z
-SVAN Ve ey
-
-CV |
 
 i” oo
 
@@ -9774,7 +9771,6 @@ marknadsaktiviteter.
 Datum
 
 Ort 2 >
-2RYPGA2 HOKTL-EIR-RA
 
 Sverigedemokraterna i Kungsbacka
 Adress: Gottskärsvägen 48
@@ -9840,11 +9836,13 @@ Granskares anteckningar
 Överföring till Motprestation Kronor
 KD partidistrikt Halland + Gemensamma tjänster 94 300
 \+
+
 Summa överföringar = 94 300
 Underskrift
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
-(|
+
 Telefon
+
 Datum
 
 Granskningsrapport
@@ -9992,15 +9990,18 @@ C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
 Granskares anteckningar
 
 Överföring till Motprestation Kronor
+
 Centerpartiet hallands distrikt — |+ Administration 107 391
 \+
 
 Summa överföringar = 107 391
+
 Underskrift
+
 Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
+
 Namnförtydligande Datum VA
 
--—- . (ES / 7 z
 Bengt Alderin /
 
 Granskhingsrapport
@@ -10027,7 +10028,121 @@ Namnförtydligande Datum
 
 <!-- sida 221 -->
 
+Kungsbacka
+
+15\)
+Kommunstyrelsens förvaltning
+
+2024 -02- 28
+
+NW Norin VBR Ir daaim tinansnsstlÅ a
+
+Redovisning av kommunalt partistöd År 2023
+
+Partiuppgifter
+Parti 63 / ) Jö I ) Organisationsnummer Kontonummer
+
+/
+
+Hook / i "MLS A
+
+£
+
+A Sammanställning
+
+Kronor Granskares anteckningar
+
+Kvarstående partistöd från föregående period (år)
+
+24029
+
+Beviljat partistöd för perioden
+
+Utgifter under perioden (summa B + C)
+
+(2802
+
+Kvarstående partistöd inför kommande period (summa)
+
+"20 7N3
+
+B Redovisning av hur partistödet använts (aktiviteter) Kronor Granskares anteckningar
+
+Aktivitet
+
+(1251
+
+Kommunikation — webb
+
+Kommunikation — annonsering
+
+Kommunikation — trycksaker
+
+Kommunikation — övrigt
+
+Löner och ersättningar till anställd personal
+
+Deltågande i utbildningar, konferenser m.m.
+
+Lokalkostnader
+
+Material (t.ex. IT, kontorsmaterial)
+
+Övrigt, vänligen specificera , 2 -
+B Aa ff Kelpg AC 27
+
+Summa utgifter för aktiviteter under perioden
+
 <!-- sida 222 -->
+
+C Tjänsteutbyte till delar av partiorganisationen utanför kommunen
+
+Granskares anteckningar
+
+Överföring till sil GÅ Motprestation CI/JaAn iso öv ti] Kronor
+Vr ) 6 / dd” 7 Ce i ff UlIO lUngd nIfioh / K-he ok / L
+7 J
+J ; 5 SJ fe del Jå hu di
+4 ij y = oj Å AV AS cl dv emAaxä 5) bh
+7 ;
+Kungih tf | del äv
+CN CA win s ke jifA 4 4
+Summa överföringar = Lå LO
+
+Underskrift
+
+Jag intygar riktigheten i de uppgifter som lämnats i redovisningen
+
+TI
+
+Datum
+T'I nr A j 9 —
+Få 2 7-0 Va - Å J
+
+Granskningsrapport
+
+Alternativ 1 (använd antingen alternativ 1 eller 2)
+
+Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet har använts och att det finns underlag som styrker
+uppgifterna. Min bedömning är att redovisningen ger en rättvisande bild av hur partistödet använts.
+
+mo ooo
+
+Datum
+
+a
+
+Granskningsrapport
+Alternativ 2 (använd antingen alternativ 1 eller 2)
+
+Jag har granskat den skriftliga redovisningen av hur det kommunala partistödet har använts och att det finns underlag som styrker
+uppgifterna. Min bedömning är att redovisningen inte ger en rättvisande bild av hur partistödet använts.
+
+Jag har gjort följande noteringar avseende redovisningen:
+
+Underskrift Telefon
+
+Namnförtydligande Datum
 
 <!-- sida 223 -->
 

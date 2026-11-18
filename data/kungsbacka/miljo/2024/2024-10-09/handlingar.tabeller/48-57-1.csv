@@ -1,13 +1,15 @@
-Kategorier,Nr Risker Vad kan gå fel?,"Sanno-
-likhet","Konse- Risk-
-kvens färg","Risk-
-värde","Till Anledning till att Övrig kommentar
-plan risk ej tas till plan"
-,ekonomisk skada,,"berörda
+Kategorier,Nr,Risker,Vad kan gå fel?,"Sanno-
+likhet","Konse-
+kvens","Risk-
+färg","Risk-
+värde","Till
+plan","Anledning till att
+risk ej tas till plan",Övrig kommentar
+,ekonomisk skada,,,,"berörda
 intresse
 nter och
 kommun
-en)",,"övergripande risk
+en)",,,"övergripande risk
 2022-2023.
 Granskningarna av
 stickprov som
@@ -18,13 +20,13 @@ finns fungerande
 rutiner i
 verksamheterna.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"10 Risk att diarieföring Ärenden/handlingar
 inte sker korrekt diarieförs inte eller faller
 mellan stolarna. Vi följer
 inte förvaltningsrättsliga
 regler, vilket kan leda till
-förtroendeskada.","2.
+förtroendeskada.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -36,20 +38,20 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Utbildningsinsatser
 har genomförts.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"11 Risk att Säkerhetsklassad
 säkerhetsklassat information när det gäller
 material avseende kartan kommer i
 GIS/Kartan lämnas obehöriga händer. Risk
 ut eller på annat för samhällsskada/
 sätt kommer i samhällsstörning.
-obehöriga händer.","2.
+obehöriga händer.",,,"2.
 Mindre
 vanligt","4.
 Allvarlig/
@@ -58,7 +60,7 @@ inverkan
 (så stor
 att den
 inte får
-inträffa)","Risk
+inträffa)",,"Risk
 bör
 åtgärd
 as","Nej Denna risk
@@ -69,14 +71,14 @@ säkerhetsarbete
 på förvaltningen.
 Inte prioriterat för
 granskning i intern
-kontroll 2025."
+kontroll 2025.",,
 ,"12 Risk för oplanerade Risk för driftstopp i
 driftstopp eller förvaltningens IT-stöd
 krasch av som kan medföra stora
 verksamhetssyste kostnader i form av
 m produktionsförluster. Vid
 större olyckor till exempel
-miljöolyckor behöver vi ha","2.
+miljöolyckor behöver vi ha",,,"2.
 Mindre
 vanligt","4.
 Allvarlig/
@@ -84,7 +86,7 @@ stor
 inverkan
 (så stor
 att den
-inte får","Risk
+inte får",,"Risk
 bör
 åtgärd
 as","Nej Denna risk
@@ -93,11 +95,11 @@ ramen för
 förvaltningens
 ordinarie
 säkerhetsarbete.
-Inte prioriterat för"
+Inte prioriterat för",,
 ,"omedelbar åtkomst till
 systemet för att nå viss
-information.",,inträffa),,"granskning i intern
-kontroll 2025."
+information.",,,,inträffa),,,"granskning i intern
+kontroll 2025.",,
 ,"13 Risk för intrång, Obehörig personer kan få
 obehörig åtkomst tillgång till känsliga
 eller avslöjad personuppgifter eller
@@ -109,7 +111,7 @@ hantering av lösenord
 eller att datorer inte låses
 när personal inte är vid
 datorn. Risk för
-förtroendeskada.","2.
+förtroendeskada.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -121,7 +123,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Denna risk tas
@@ -146,7 +148,7 @@ säkerhetsutbildnin
 gar har genomförts
 av alla personal.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"14 Felaktig hantering i Risk för felaktig hantering
 enskilda ärenden i enskilda ärenden på
 på grund av grund av förfalskade
@@ -158,7 +160,7 @@ dokument, bluffsamtal
 eller kapad identitet,
 beslut tas på felaktiga
 grunder, Rättssäkerheten
-sätts ur spel","2.
+sätts ur spel",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -170,17 +172,17 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej hanteras inom
 ramen för risken
 om
 välfärdsbrottslighet
-och korruption."
+och korruption.",,
 ,"15 Utlämnande av Handlingar lämnas inte ut
 handlingar sker inte på rätt sätt. Risk för
-enligt rutiner förtroendeskada.","2.
+enligt rutiner förtroendeskada.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -192,7 +194,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej En omfattande
@@ -206,14 +208,14 @@ kunden själv kan
 hämta handlingar
 digitalt. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"16 Hänvisning av mail Vi kan inte svara i
 och telefon görs tid/långa svarstider, risk
 inte vid frånvaro för förtroendeskada. Vi
 agerar inte på kritisk
 information som skickas
 till obevakad mailbox,
-diarieföring görs inte i tid.","2.
+diarieföring görs inte i tid.",,,"2.
 Mindre
 vanligt","2.
 Lindrig
@@ -224,7 +226,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Ingår i
@@ -236,7 +238,7 @@ på intranätet
 ""Insidan"" inför
 semestertider. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"17 Kommunövergripan - obehöriga kan komma in
 de risk: i system och ta del av
 informationssäkerh information eller ändra
@@ -249,7 +251,7 @@ behörighet till och kan
 informationen har inte rätt
 skyddsnivå. Risk att
 känslig information inte
-skyddas tillräckligt.","2.
+skyddas tillräckligt.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -261,7 +263,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Omhändertas inom Risk sedan 2023.
@@ -280,16 +282,16 @@ på grund av stöld
 och/eller
 oaktsamhet."" och
 ""Risk att
-säkerhetsklassat"
-,,,,,"material avseende
+säkerhetsklassat",,
+,,,,,,,,"material avseende
 GIS/Kartan lämnas
 ut eller på annat
 sätt kommer i
-obehöriga händer."
+obehöriga händer.",,
 ,"18 Kommunövergripan Bristande skydd för data.
 de risk: It-säkerhet - Data kan komma att
 Bristande driftmiljö förloras eller komma i
-hos leverantörer obehöriga händer.","2.
+hos leverantörer obehöriga händer.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -301,7 +303,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Förvaltningens Ny risk 2025.
@@ -318,14 +320,14 @@ inom ramen för
 ordinarie IT-
 säkerhetsarbete.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 Verksamhet,"19 Risk för okritisk Beslut fattas på felaktiga
 tolkning av all osäkra grunder, övertro
 digital information i på kartans noggrannhet
 kartsystemet
 avseende innehåll,
 aktualitet och
-noggrannhet.","2.
+noggrannhet.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -337,7 +339,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Berörd nyanställd
@@ -355,33 +357,33 @@ granskningar
 visade inte på
 några avvikelser.
 Inte prioriterad till
-granskning 2025."
+granskning 2025.",,
 ,"20 Risk för Fel i kartor, avvikelser mot
 felaktigheter i verkligheten och eller
-lämnat bygglov, uppkomst","2.
+lämnat bygglov, uppkomst",,,"2.
 Mindre","3.
 Kännbar
-(uppfatta","Risk
+(uppfatta",,"Risk
 bör
 åtgärd","Nej Historiskt är det
 ovanligt med fel
-vid"
+vid",,
 ,"mätningsuppdrag av tvister och
-skadeståndskrav",vanligt,"s som
+skadeståndskrav",,,vanligt,"s som
 besvära
 nde för
 berörda
 intresse
 nter och
 kommun
-en)",as,"mätningsuppdrag.
+en)",,as,"mätningsuppdrag.
 Utbildning av
 personal och
 service(kalibrering
 ) av instrument
 görs regelbundet.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"21 Risk för Risk att personal och
 påtryckningar beslutsfattare inte har
 utifrån / otillbörlig beredskap att bemöta
@@ -400,7 +402,7 @@ inte opartiska beslut.
 Förtroendeskada kan
 uppstå. Oegentligheter
 såsom mutor, korruption
-och jäv.","3.
+och jäv.",,,"3.
 Vanligt","3.
 Kännbar
 (uppfatta
@@ -411,7 +413,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 ska
 åtgärd
 as","Nej Snarlik
@@ -422,7 +424,7 @@ plan istället för
 denna
 verksamhets-
 specifika risk som
-funnits med länge."
+funnits med länge.",,
 ,"22 Risk att Om vi inte kan hålla
 handläggningstid maximalt 10-veckors
 för handläggningstid för
@@ -434,7 +436,7 @@ vad handläggningen
 kostar utan måste
 reducera avgiften. Detta
 leder till minskade intäkter
-och risk för","3.
+och risk för",,,"3.
 Vanligt","3.
 Kännbar
 (uppfatta
@@ -445,7 +447,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 ska
 åtgärd
 as","Nej Antalet BI-rapporter har
@@ -459,11 +461,11 @@ Avgiftsreduktioner
 na kommer inte att
 kunna vara 0 st.
 handläggnings-
-tiderna för enskilda"
+tiderna för enskilda",,
 ,"budgetunderskott men
 även minskat förtroende
 från våra kunder pga
-långa handläggningstider.",,,,"ärenden kan dra ut
+långa handläggningstider.",,,,,,,"ärenden kan dra ut
 på tiden av olika
 skäl. Det finns
 rapporter i Power
@@ -485,7 +487,7 @@ granskning 2025.
 Hanteras inom
 ramen för ordinarie
 verksamhets-
-uppföljning"
+uppföljning",,
 ,"23 Risk att Lagar och regler liksom
 myndighetsbeslut interna rutiner samt
 inte håller tillräcklig kommunövergripande
@@ -502,7 +504,7 @@ aktuella, tillgängliga eller
 kända för handläggarna.
 Mottagare av beslut
 förstår inte innebörden av
-beslutet.","2.
+beslutet.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -514,7 +516,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Verksamheterna
@@ -529,7 +531,7 @@ granskning 2021-
 någon allvarlig
 avvikelse. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"24 Risk för bristande Planerad tillsyn eller
 leverans av verksamhet utförs inte. Vi
 myndighetsuppdra klarar inte att uppfylla
@@ -547,7 +549,7 @@ planerat, risk för
 tillsynskuld alternativt
 kontrollskuld samt långa
 handläggningstider. Risk
-för förtroendeskada.","3.
+för förtroendeskada.",,,"3.
 Vanligt","3.
 Kännbar
 (uppfatta
@@ -558,7 +560,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 ska
 åtgärd
 as","Nej Det finns en Avser planerad
@@ -584,7 +586,7 @@ inom ordinarie
 verksamhets-
 uppföljning. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"25 Förskottsbetalad Verksamheter som
 tillsyn utförs inte förskottsbetalar årlig avgift
 får inte den tillsynstid som
@@ -596,7 +598,7 @@ miljöbalkstillsyn eller
 kontrollskuld för
 livsmedelstillsyn och
 bristande förtroende från
-våra kunder.","2.
+våra kunder.",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -608,7 +610,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Livsmedelskontroll
@@ -626,18 +628,18 @@ arbetar aktivt med
 frågan och
 prioriterar
 förskottsbetalad
-tillsyn. Hanteras"
-,,,,,"nom ramen för
+tillsyn. Hanteras",,
+,,,,,,,,"nom ramen för
 ordinarie
 verksamhets-
 uppföljning. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"26 Hantering av Risk att personuppgifter
 personuppgifter inte hanteras korrekt och
 sker inte korrekt hamnar på villovägar. Vi
 följer inte lagstiftningens
-krav inom GDPR.","3.
+krav inom GDPR.",,,"3.
 Vanligt","2.
 Lindrig
 (uppfatta
@@ -647,7 +649,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Förvaltningen har
@@ -659,14 +661,14 @@ incidenter
 rapporteras till
 nämnderna. Inte
 prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"27 Överklaganden Risk att överklaganden
 hanteras inte inte expedieras korrekt.
 korrekt Överklaganden når inte
 fram till nästa instans
 (Länsstyrelsen eller annan
 rättsinstans) Risk för
-förtroendeskada","2.
+förtroendeskada",,,"2.
 Mindre
 vanligt","3.
 Kännbar
@@ -678,7 +680,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 bör
 åtgärd
 as","Nej Förvaltningen har
@@ -686,7 +688,7 @@ fungerande rutiner
 för att hantera
 överklaganden.
 Inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"28 Kommunövergripan Generellt: mutor, jäv,
 de risk - Risk för otillbörlig påverkan
 korruption och + Specifikt för respektive
@@ -694,7 +696,7 @@ välfärdsbrottslighet nämnd. Särskilt risk för
 kvalificerad
 välfärdsbrottslighet eller
 arbetslivskriminalitet (A-
-krim)","2.
+krim)",,,"2.
 Mindre
 vanligt","4.
 Allvarlig/
@@ -703,34 +705,34 @@ inverkan
 (så stor
 att den
 inte får
-inträffa)","Risk
+inträffa)",,"Risk
 bör
 åtgärd
-as",Ja Risk sedan 2023.
+as",Ja Risk sedan 2023.,,
 ,"29 Risk att fel i Beslut fattas på felaktiga,
 statistikrapporter osäkra grunder på grund
-leder till sämre eller av till exempel: Felaktig","2.
+leder till sämre eller av till exempel: Felaktig",,,"2.
 Mindre
 vanligt","3.
 Kännbar
-(uppfatta","Risk
+(uppfatta",,"Risk
 bör
 åtgärd","Nej Rutiner finns och Ny risk 2023,
 fungerar, inte granskning 2023 visar
-prioriterat för att det finns"
+prioriterat för att det finns",,
 ,"felaktiga beslut data från källsystem,
 bristande validering av
 data vid uppgradering av
 källsystem, felaktig logik
 vid upprättande av
-rapporter mm",,"s som
+rapporter mm",,,,"s som
 besvära
 nde för
 berörda
 intresse
 nter och
 kommun
-en)",as,"granskning 2025. fungerande rutiner för
+en)",,as,"granskning 2025. fungerande rutiner för
 Hanteras inom rapporter baserade på
 ramen för ordinarie data från EDP Vision
 verksamhets- (Miljö & Hälsoskydds
@@ -741,7 +743,7 @@ statistikrapporter
 baserat på data från
 ByggR behöver
 utvecklas och
-förbättras."
+förbättras.",,
 ,"30 Kommunövergripan Avsaknad av organisation
 de risk: för krisledning och
 Förvaltningarnas bristande förmåga att
@@ -749,7 +751,7 @@ arbete med att hantera störningar i
 utveckla verksamheterna/samhälls
 krisledningsorganis störningar.
 ationen i egen
-verksamhet","3.
+verksamhet",,,"3.
 Vanligt","3.
 Kännbar
 (uppfatta
@@ -760,7 +762,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 ska
 åtgärd
 as","Ja Risk sedan 2024. Krav
@@ -770,7 +772,7 @@ varje mandatperiod
 med årlig uppdatering.
 Se även
 revisionsrapport från
-2022."
+2022.",,
 ,"31 Risk att Svårigheter att finansiera
 verksamhetsutveck verksamhetsutveckling
 ling och innovation och innovationsarbete på
@@ -786,7 +788,7 @@ annan minskad
 finansiering gör att
 verksamhetsutveckling
 nedprioriteras till förmån
-för grunduppdragen.","3.
+för grunduppdragen.",,,"3.
 Vanligt","3.
 Kännbar
 (uppfatta
@@ -797,7 +799,7 @@ berörda
 intresse
 nter och
 kommun
-en)","Risk
+en)",,"Risk
 ska
 åtgärd
 as","Nej Risken hanteras Ny risk inför 2024,
@@ -806,8 +808,8 @@ ordinarie budget direktiv om innovation
 och och nya arbetssätt
 uppföljningsarbete.
 inte prioriterat för
-granskning 2025."
+granskning 2025.",,
 ,"Nämnderna når inte
 Kommunfullmäktiges
 direktiv om innovation och
-nya arbetssätt.",,,,
+nya arbetssätt.",,,,,,,,,

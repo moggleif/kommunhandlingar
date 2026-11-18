@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.26b3aae2194a007ae025178b/1738075496
 sha256: 079dfe6d6ef1d574d685d5bba72a7930a95042403b22b29d34c3101a0e7a9af5
 bytes: 1612865
 sidor: 33
-hamtad: 2026-11-08T20:31:40+00:00
-konverterad: 2026-11-08T20:31:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T11:13:11+00:00
+konverterad: 2026-11-18T11:13:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [25, 30]
 tolkade: []
@@ -512,12 +512,6 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
-Uppföljningsnivå (belopp i                                Budgetavvik
-Bokslut 2023 Budget 2024 Bokslut 2024
-mkr)                                                       else 2024
-Valnämnden                        -0,3      -1,9      -1,6       0,3
-Summa                             -0,3      -1,9      -1,6       0,3
-
 Kommentarer
 Valnämnden har planerat och genomfört val till Europaparlamentet. Valnämnden har en positiv budgetavvikelse
 på 0,3 miljoner kronor, vilket till stor del beror på ett högre statsbidrag än väntat.
@@ -533,6 +527,13 @@ Ej aktuellt då underskott ej föreligger.
 6
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Uppföljningsnivå (belopp i<br>mkr) |  | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik<br>else 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Valnämnden |  | -0,3 | -1,9 | -1,6 | 0,3 |
+| Summa |  | -0,3 | -1,9 | -1,6 | 0,3 |
+
+[Tabell 18-2](handlingar.tabeller/18-2.csv)
 
 | Nämnd (belopp i mkr) | Prognos delår april | Prognos delår augusti | Bokslut 2024 |
 | --- | --- | --- | --- |
@@ -749,17 +750,19 @@ Uppföljningsrapport intern kontroll 2024
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Brister vid Ja<br>referenstagning |
-| --- | --- |
-| Verksamhet | 2 Kommunövergripande risk - Risk för korruption Ja |
-|  | 3 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Brister vid<br>referenstagning | Ja |
+| Verksamhet |  | 2 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 3 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 [Tabell 26-2](handlingar.tabeller/26-2.csv)
 
-| Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund |
-| --- | --- |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-|  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund |  |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... |  | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |  |
+|  |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång |  |
 
 <!-- sida 27 -->
 

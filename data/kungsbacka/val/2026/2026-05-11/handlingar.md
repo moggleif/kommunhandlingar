@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4ebbd38019ddcb7e7206138b/1777972489
 sha256: 64ff9a25e4504c10c6b459fb1ad1ad7aa50f2184041bdf3fef3a732a7f050431
 bytes: 3704144
 sidor: 52
-hamtad: 2026-11-08T20:33:29+00:00
-konverterad: 2026-11-08T20:33:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T11:14:56+00:00
+konverterad: 2026-11-18T11:15:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1342,45 +1342,26 @@ Till utbildningsfilmerna (mfd.se)
 
 <!-- sida 35 -->
 
-Fyra kommuner,   ett gemensamt  mål
-MFD följer fyra kommuner i deras arbete inför valet. I första artikeln delar de hur arbetet
-har dragit igång, vilka frågor de brottas med och hur de planerar framåt.
-
-Läs artikeln och inspireras av hur de arbetar, planerar och löser utmaningar.
-
-Tillgängliga val i praktiken – kommunerna växlar upp (mfd.se).
-
-Mitt val – kunskap ger fler
-möjlighet att rösta
-
-Valdeltagandet bland personer med
-intellektuell funktionsnedsättning (IF) är
-lågt. Mitt val är studiecirkeln som ökar
-kunskapen om demokrati och hur man
-röstar.
-
-Genom att sprida Mitt val via
-omsorgsverksamheter och gode män kan
-ni nå fler väljare och öka förutsättningarna
-att delta i valet.
-
-MFD har publicerat en artikel som
-beskriver hur studiecirkeln fungerar och
-vilka resultat den har haft i tidigare val.
-
-Stuidecirkeln som får fler personer med
-IF att rösta (mfd.se).
-
-Mer   inspiration
-
-Få fler idéer inför valet. På vår webb hittar ni initiativ som stärker
-valdeltagandet.
-
-Initiativ för att främja valdeltagandet (mfd.se)
-
-Myndigheten för delaktighet               Besök oss på
-
 (adress borttagen), 117 61 Stockholm         www.mfd.se
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Fyra kommuner, ett gemensamt mål |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| MFD följer fyra kommuner i deras arbete inför valet. I första artikeln delar de hur arbetet |  |  |  |  |  |
+| har dragit igång, vilka frågor de brottas med och hur de planerar framåt. |  |  |  |  |  |
+| Läs artikeln och inspireras av hur de arbetar, planerar och löser utmaningar. |  |  |  |  |  |
+| Tillgängliga val i praktiken – kommunerna växlar upp (mfd.se). |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Mitt val – kunskap ger fler<br>möjlighet att rösta<br>Valdeltagandet bland personer med<br>intellektuell funktionsnedsättning (IF) är<br>lågt. Mitt val är studiecirkeln som ökar<br>kunskapen om demokrati och hur man<br>röstar.<br>Genom att sprida Mitt val via<br>omsorgsverksamheter och gode män kan<br>ni nå fler väljare och öka förutsättningarna<br>att delta i valet.<br>MFD har publicerat en artikel som<br>beskriver hur studiecirkeln fungerar och<br>vilka resultat den har haft i tidigare val.<br>Stuidecirkeln som får fler personer med<br>IF att rösta (mfd.se). |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  | Mer inspiration<br>Få fler idéer inför valet. På vår webb hittar ni initiativ som stärker<br>valdeltagandet. |  |  |  |
+|  |  | Initiativ för att främja valdeltagandet (mfd.se) |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| Myndigheten för delaktighet |  |  |  | Besök oss på |  |
 
 <!-- sida 36 -->
 

@@ -16,9 +16,9 @@ Täkter & betong,Behovsprioriterad tid,Betongtillverkning,Lågt,1,0,0,12
 ,,Täkter,Högt,4,24,24,24
 ,Styrd tid,Krossanläggning,-,,,,
 ,,Täkter,-,3,45,45,45
-Vatten,Behovsprioriterad tid,Dagvattenanläggningar,Lågt,55,60,60,60
+,Behovsprioriterad tid,Dagvattenanläggningar,Lågt,55,60,60,60
 ,,Fritidsbåtshamn,Normalt,36,0,0,0
 ,,Vattenskyddsområde,Normalt,1,70,50,50
-,Styrd tid,Fritidsbåtshamnar,-,35,210,210,210
+Vatten,Styrd tid,Fritidsbåtshamnar,-,35,210,210,210
 ,,Tvätterier,-,1,0,9,0
 ,,Vattenskyddsområde,-,2,12,12,12

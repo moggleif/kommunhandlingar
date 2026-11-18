@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6036320/1731937622
 sha256: e8e1cd9d8545c2313145a43c4abe47c89b89de52f24a83024a48d1416504a210
 bytes: 20933688
 sidor: 317
-hamtad: 2026-11-08T18:54:03+00:00
-konverterad: 2026-11-08T18:55:06+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:21:35+00:00
+konverterad: 2026-11-18T09:22:41+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [100, 102, 104, 105, 106, 107, 109, 110, 112, 115, 116, 159, 160, 161, 165, 167, 168, 292]
-figurer: [6, 12, 19, 27, 28, 60, 61, 70, 74, 95, 101, 102, 103, 105, 106, 108, 109, 110, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 143, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 184, 207, 242, 243, 244, 245, 246, 248, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 263, 264, 265, 266, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 286, 292, 293]
+figurer: [6, 12, 19, 27, 28, 60, 61, 70, 74, 95, 101, 102, 103, 105, 106, 108, 109, 110, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 130, 131, 132, 133, 135, 136, 137, 138, 140, 141, 142, 143, 144, 145, 146, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 184, 207, 242, 243, 244, 245, 246, 248, 252, 253, 254, 255, 256, 257, 258, 259, 260, 262, 263, 264, 265, 266, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 286, 292]
 tolkade: []
 granskad: null
 ---
@@ -569,23 +569,24 @@ bilstöld var minst vanligt. Majoriteten av de utsatta hushållen upplevde ensta
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Typ av brott | Andel<br>utsatta | Förändring från föregående<br>år | Vanligare<br>bland | Vanligare<br>åldersgrupp |
-| --- | --- | --- | --- | --- |
-| Brott mot enskild person | 20,1% | Ökning | Kvinnor<br>(21,1%) |  |
-| Brott mot enskild person |  |  |  |  |
-| - Hot | 7,7% | Oförändrad | Män | 20-24 år |
-| - Misshandel | Oförändrad | Oförändrad | Män | 16-19 år |
-| - Sexualbrott | Ökning | Ökning | Kvinnor | 20-24 år |
-| - Personrån | 1,0% | Minskning | Män | 20-24 år |
-| - Fickstöld | Oförändrad | Oförändrad | Jämnt |  |
-| - Försäljningsbedrägeri | Ökning | Ökning | Män | 35-44 år |
-| - Kort- och kreditbedrägeri | Ökning | Ökning | Män | 35-44 år |
-| - Nätkränkning | Oförändrad | Oförändrad | Män | 16-19 år |
-| - Trakasserier | Oförändrad | Oförändrad | Kvinnor | 20-24 år |
-| Egendomsbrott mot | 12,7% | Minskning | - |  |
-| hushåll |  |  |  |  |
-| - Cykelstöld | Vanligast | - | - |  |
-| - Bilstöld | Minst vanligt | - | - |  |
+| Typ av brott |  |  | Andel | Förändring från föregående | Vanligare | Vanligare |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | utsatta | år | bland | åldersgrupp |
+| Brott mot enskild person |  |  | 20,1% | Ökning | Kvinnor |  |
+| Brott mot enskild person |  |  |  |  | (21,1%) |  |
+| - Hot |  |  | 7,7% | Oförändrad | Män | 20-24 år |
+| - Misshandel |  |  | Oförändrad | Oförändrad | Män | 16-19 år |
+| - Sexualbrott |  |  | Ökning | Ökning | Kvinnor | 20-24 år |
+| - Personrån |  |  | 1,0% | Minskning | Män | 20-24 år |
+| - Fickstöld |  |  | Oförändrad | Oförändrad | Jämnt |  |
+| - Försäljningsbedrägeri |  |  | Ökning | Ökning | Män | 35-44 år |
+| - Kort- och kreditbedrägeri |  |  | Ökning | Ökning | Män | 35-44 år |
+| - Nätkränkning |  |  | Oförändrad | Oförändrad | Män | 16-19 år |
+| - Trakasserier |  |  | Oförändrad | Oförändrad | Kvinnor | 20-24 år |
+| Egendomsbrott mot |  |  | 12,7% | Minskning | - |  |
+| hushåll |  |  |  |  |  |  |
+| - Cykelstöld |  |  | Vanligast | - | - |  |
+| - Bilstöld |  |  | Minst vanligt | - | - |  |
 
 <!-- sida 23 -->
 
@@ -614,21 +615,31 @@ Sammanfattande tabell
 
 [Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
 
-| Kategori | Andel<br>(%) | Förändring från<br>föregående år | Kommentar |
+| Kategori | Andel | Förändring från | Kommentar |
 | --- | --- | --- | --- |
-| Tror att brottsligheten ökat<br>(senaste 3 år) | 85% | Ökning (från 80%) | Stabil ökning från 2015, tidigare<br>minskning 2007-2014 |
+|  | (%) | föregående år |  |
+| Tror att brottsligheten ökat | 85% | Ökning (från 80%) | Stabil ökning från 2015, tidigare |
+| (senaste 3 år) |  |  | minskning 2007-2014 |
 | Oro för brottslighet i samhället | 53% | Ökning (från 46%) | Uppåtgående trend sedan 2011 |
-| Känner sig otrygga/undviker att gå<br>ut ensamma | 26% | Oförändrad (från<br>27%) | Stabil sedan 2016 med liten ökning<br>2020 |
-| - Män | 18% | - | Män känner sig generellt mindre<br>otrygga |
-| - Kvinnor | 34% | - | Kvinnor känner sig generellt mer<br>otrygga |
+| Känner sig otrygga/undviker att gå | 26% | Oförändrad (från | Stabil sedan 2016 med liten ökning |
+| ut ensamma |  | 27%) | 2020 |
+| - Män | 18% | - | Män känner sig generellt mindre |
+|  |  |  | otrygga |
+| - Kvinnor | 34% | - | Kvinnor känner sig generellt mer |
+|  |  |  | otrygga |
 | Otrygghet bland åldersgrupper |  |  |  |
 | - 16-19 år |  |  | Mest otrygghet bland kvinnor |
 | - 20-24 år | 32% |  | Högst otrygghet bland åldersgrupper |
 | - 45-54 år (kvinnor) |  |  | Minst otrygghet bland kvinnor |
 | Otrygghet baserat på bakgrund |  |  |  |
-| - Svenskfödda med utrikesfödda<br>föräldrar | Högre |  | Större otrygghet jämfört med andra<br>grupper |
-| Otrygghet baserat på<br>socioekonomisk status | Högre |  | Mest otrygghet i socioekonomiskt<br>utsatta områden |
-| Otrygghet baserat på<br>utbildningsnivå | Högre |  | Markanta skillnader utifrån<br>utbildningsnivå |
+| - Svenskfödda med utrikesfödda | Högre |  | Större otrygghet jämfört med andra |
+| föräldrar |  |  | grupper |
+| Otrygghet baserat på | Högre |  | Mest otrygghet i socioekonomiskt |
+| socioekonomisk status |  |  | utsatta områden |
+| Kategori | Andel | Förändring från<br>föregående år | Kommentar |
+|  | (%) |  |  |
+| Otrygghet baserat på | Högre |  | Markanta skillnader utifrån |
+| utbildningsnivå |  |  | utbildningsnivå |
 
 <!-- sida 24 -->
 
@@ -661,20 +672,19 @@ till en minskning år 2017. Därefter skedde en ökning fram till årets mätnin
 
 Sammanfattande tabell
 
-[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Kategori | Andel med stort<br>förtroende (%) | Förändring från<br>föregående år | Kommentar |
-| --- | --- | --- | --- |
-| Förtroende för<br>rättsväsendet som<br>helhet | 49% | Minskning (från<br>53%) | Relativt stabilt fram till minskning 2017, därefter<br>ökning fram till 2023 |
-| Förtroende för polisen | 54% | Minskning (från<br>59%) | Stabilt fram till minskning 2017, därefter ökning<br>fram till 2023 |
-| Förtroende för<br>åklagarna | 42% | Oförändrat (från<br>43%) | Stabilt efter ökning fram till 2009, minskning 2017,<br>därefter stabil nivå |
-| Förtroende för<br>domstolarna | 39% | Minskning (från<br>41%) | Stabil nivå med undantag för 2017-2018 |
-| Förtroende för<br>kriminalvården | 34% | Minskning (från<br>37%) | Ökning över tid med årliga variationer |
-| Förtroende för rättvis<br>hantering av<br>brottsmisstänkta | 44% | Oförändrat (från<br>45%) | Stabil nivå efter minskning 2017, svagt uppåtgående<br>trend |
-| Förtroende för polisens | 51% | Minskning (från<br>54%) | Stabilt från 2008 till 2017, därefter ökning fram till<br>2023 |
-| hantering av |  |  |  |
-| brottsmisstänkta |  |  |  |
-| Förtroende för<br>rättsväsendets<br>hantering av<br>brottsutsatta | 29% | Oförändrat (från<br>30%) | Stabil efter ökning 2008-2011, ny ökning 2018-2021,<br>därefter stabil nivå |
+| Kategori |  | Andel med stort | Förändring från | Kommentar |
+| --- | --- | --- | --- | --- |
+|  |  | förtroende (%) | föregående år |  |
+| Förtroende för |  | 49% | Minskning (från | Relativt stabilt fram till minskning 2017, därefter |
+| rättsväsendet som |  |  |  |  |
+| helhet |  |  | 53%) | ökning fram till 2023 |
+| Förtroende för polisen |  | 54% | Minskning (från | Stabilt fram till minskning 2017, därefter ökning |
+|  |  |  | 59%) | fram till 2023 |
+| Förtroende för |  | 42% | Oförändrat (från | Stabilt efter ökning fram till 2009, minskning 2017, |
+| Förtroende för |  |  |  |  |
+| åklagarna |  |  | 43%) | därefter stabil nivå |
 
 <!-- sida 25 -->
 
@@ -702,6 +712,28 @@ Avslutningsvis, när det kommer till förtroende för hur rättsväsendet behand
 har stort förtroende 29%, vilket är i princip oförändrat jämfört med 2022 (30%). Efter en ökning från 2008
 till 2011 var förtroendet relativt stabilt fram till en ny ökning 2018–2021, för att sedan återigen ligga på en
 stabil nivå.
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+| Kategori |  |  | Andel med stort | Förändring från | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | förtroende (%) | föregående år |  |
+| Förtroende för |  |  | 39% | Minskning (från | Stabil nivå med undantag för 2017-2018 |
+| Förtroende för |  |  |  |  |  |
+| domstolarna |  |  |  | 41%) |  |
+| Förtroende för |  |  | 34% | Minskning (från | Ökning över tid med årliga variationer |
+| Förtroende för |  |  |  |  |  |
+| kriminalvården |  |  |  | 37%) |  |
+| Förtroende för rättvis |  |  | 44% | Oförändrat (från | Stabil nivå efter minskning 2017, svagt uppåtgående |
+| hantering av |  |  |  |  |  |
+| brottsmisstänkta |  |  |  | 45%) | trend |
+| Förtroende för polisens |  |  | 51% | Minskning (från | Stabilt från 2008 till 2017, därefter ökning fram till |
+| hantering av |  |  |  |  |  |
+| brottsmisstänkta |  |  |  | 54%) | 2023 |
+| Förtroende för |  |  | 29% | Oförändrat (från | Stabil efter ökning 2008-2011, ny ökning 2018-2021, |
+| rättsväsendets |  |  |  |  |  |
+| hantering av |  |  |  |  |  |
+| brottsutsatta |  |  |  | 30%) | därefter stabil nivå |
 
 <!-- sida 26 -->
 
@@ -6228,7 +6260,7 @@ Andel av total befolkningen
 
 [Tabell 159-1](handlingar.tabeller/159-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -6428,17 +6460,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 162 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -6446,18 +6497,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 162-1](handlingar.tabeller/162-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 163 -->
 
@@ -6610,7 +6649,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 166-1](handlingar.tabeller/166-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |
@@ -8209,37 +8248,55 @@ Exempel på hur föreningar kan påverkas av det nya stödet
 Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Utvecklingsstödet baseras
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
-Stor      Förening utan egen Förening med hyrd
-inomhusförening anläggning - hyr anläggning
-lokal/anläggning på
 
-timmar
-2026    2029   2026   2029    2026   2029
 \+ Ökat LOK stöd från
-7,5kr till 10kr  150 000 150 000 70 000 70 000 54 000 54 000
+7,5kr till 10kr
 \+ LOK stöd x3
-\- Driftbidrag                   -17 000 -17 000
+\- Driftbidrag
 \- Utveckling /
-Utbildningsbidrag -160 000 -160 000 -103 000 -103 000 -76 000 -76 000
+Utbildningsbidrag
 
 \- Drogpolicy /
-Hälsocertifiering -40 000 -40 000 -31 000 -31 000 -20 000 -20 000
-\- Lovbidrag                      -1 500 -1 500 -4 000  -4 000
+Hälsocertifiering
+\- Lovbidrag
 \- Folkhälsobidrag
-\- Subventioner                                -137 000 -331 000
-\- Höjda taxor   -100 000 -120 000 -5 000 -5 500 -7 000 -7 500
+\- Subventioner
+\- Höjda taxor
 
-Summa      -150 000 -170 000 -87 500 -88 000 -190 000 -384 500
+Summa
 
-\+ Utvecklingsstöd 105 000 200 000 105 000 200 000 105 000 200 000
+\+ Utvecklingsstöd
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
 
-Förändring   -45 000 30 000 17 500 112 000 -85 000 -184 500
+Förändring
 
 Föreningarna har en stor påverkan på utvecklingsstödet. Som beskrivs ovan kan föreningarna söka
 medel utifrån ett treårigt åtagande. Nedan exempel är fiktiva och bör ses som förenklade exempel:
+
+[Tabell 209-1](handlingar.tabeller/209-1.csv)
+
+| Stor<br>inomhusförening<br>2026 | 2029 | Förening utan egen<br>anläggning - hyr<br>lokal/anläggning på<br>timmar<br>2026 | 2029 | Förening med hyrd<br>anläggning<br>2026 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| 150 000 | 150 000 | 70 000 | 70 000 | 54 000 | 54 000 |
+|  |  |  |  |  |  |
+|  |  | -17 000 | -17 000 |  |  |
+| -160 000 | -160 000 | -103 000 | -103 000 | -76 000 | -76 000 |
+| -40 000 | -40 000 | -31 000 | -31 000 | -20 000 | -20 000 |
+|  |  | -1 500 | -1 500 | -4 000 | -4 000 |
+|  |  |  |  |  |  |
+|  |  |  |  | -137 000 | -331 000 |
+| -100 000 | -120 000 | -5 000 | -5 500 | -7 000 | -7 500 |
+|  |  |  |  |  |  |
+| -150 000 | -170 000 | -87 500 | -88 000 | -190 000 | -384 500 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 105 000 | 200 000 | 105 000 | 200 000 | 105 000 | 200 000 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| -45 000 | 30 000 | 17 500 | 112 000 | -85 000 | -184 500 |
 
 <!-- sida 210 -->
 
@@ -10931,28 +10988,26 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 5.2 Risker - Ej till plan
 
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Ekonomi        Kommunövergrip
-ande risk:
-Resurser till                    2. Lindrig
-innovation,                  (uppfattas som
-digitalisering och 2. Mindre vanligt liten av berörda
-omställning till             intressenter och
-nya arbetssätt för             kommunen)
-framtidens
-välfärd
-
 10
 
 [Tabell 293-1](handlingar.tabeller/293-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+
+[Tabell 293-294-2](handlingar.tabeller/293-294-2.csv)
+
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet -<br>Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Verksamhet |  | Nämndspecifik<br>risk: Utbetalt<br>föreningsstöd<br>används till annat<br>än beviljat | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras med det<br>förändrade |
+|  |  |  |  |  | föreningsstödet |
 
 <!-- sida 294 -->
 
@@ -10960,13 +11015,6 @@ Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Intern kontrollplan 2025
 
 11
-
-[Tabell 294-1](handlingar.tabeller/294-1.csv)
-
-| Kategorier<br>Informationssäke<br>rhet,<br>administration,<br>inköp... | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-| --- | --- |
-|  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet - besvärande för<br>2. Mindre vanligt<br>Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-| Verksamhet | Nämndspecifik 3. Kännbar Hanteras med det<br>risk: Utbetalt (uppfattas som förändrade<br>föreningsstöd besvärande för föreningsstödet<br>2. Mindre vanligt<br>används till annat berörda<br>än beviljat intressenter och<br>kommunen) |
 
 <!-- sida 295 -->
 

@@ -1,20 +1,19 @@
-"Kategorier
-Personal","Matrisnr Risker Till plan
-1 Kommunövergripande risk: Processen för avslut Nej
+Kategorier,,Matrisnr,Risker,Till plan
+Personal,,1,"Kommunövergripande risk: Processen för avslut
 av anställning säkerställer inte att alla
 behörigheter till system, lokaler och andra
-tillgångar avslutas."
-Ekonomi,"2 Kommunövergripande risk: Redovisning av Ja
-representation"
-,3 Kommunövergripande risk: Debiteringsrutiner Ja
+tillgångar avslutas.",Nej
+Ekonomi,,2,"Kommunövergripande risk: Redovisning av
+representation",Ja
+,,3,Kommunövergripande risk: Debiteringsrutiner,Ja
 "Informationssäker
 het,
 administration,
-inköp...","4 Kommunövergripande risk: Inköp (granskning Ja
-begränsas till belopp över 100.000:-)"
-,"5 Kommunövergripande risk: Bristande hantering Ja
-av delegationsbeslut"
-,"6 Kommunövergripande risk: Ja
+inköp...",,4,"Kommunövergripande risk: Inköp (granskning
+begränsas till belopp över 100.000:-)",Ja
+,,5,"Kommunövergripande risk: Bristande hantering
+av delegationsbeslut",Ja
+,,6,"Kommunövergripande risk:
 informationssäkerhet; skydd av information mot
-obehörig tillgång"
-Verksamhet,7 Kommunövergripande risk - Risk för korruption Ja
+obehörig tillgång",Ja
+Verksamhet,,7,Kommunövergripande risk - Risk för korruption,Ja

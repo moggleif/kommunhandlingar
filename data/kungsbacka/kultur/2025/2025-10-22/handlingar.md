@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe7528c2cc4/1760626591
 sha256: 5c5df198265e6472d33883cfb53abae640cdbfe680e1052cf09103919f1fcab1
 bytes: 14819709
 sidor: 208
-hamtad: 2026-11-08T19:04:43+00:00
-konverterad: 2026-11-08T19:05:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:34:04+00:00
+konverterad: 2026-11-18T09:34:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
@@ -4383,146 +4383,122 @@ Nämndbudget 2026
 
 11.1 Policys, planer och program
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 11.1.1 Styrdokument beslutade av kommunfullmäktige
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                    KF 2015-03-10 § 30
-Barnets rätt                                         KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-
-Vision 2030                                         KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                      KF 2021-04-13 § 68
-Inköp, policy                                      KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-Reglemente för nämnden för Kultur & Fritid          KF 2022-02-08 § 7
-
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2024-04-09 § 60
-
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-
-Personalföreträdare i nämnder                       KF 2024-02-06 § 8
 
 23
+
+[Tabell 105-1](handlingar.tabeller/105-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 105-106-2](handlingar.tabeller/105-106-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Kultur & Fritid | KF 2022-02-08 § 7 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Kungsbacka kulturskola, taxa | KD 2024-12-12 § 162 |
+| Bibliotek, taxa | KF 2024-12-12 § 163 |
+| Naturum Fjärås Bräcka och Äskhults by, taxa | KF 2024-12-12 § 164 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Reglemente för Kultur & Fritid | KF 2018-06-14 § 108 |
+| Strategi för tätortsnära friluftsliv | KS § 209/17 |
+| Turismstrategi 2017-2021 | KF § 120/17 |
+| Riktlinjer för Årets förening | KF § 115/2021 |
+| Riktlinjer för Årets eldsjäl | KF § 115/2021 |
+| Riktlinjer för Årets förnyare | KF § 115/2021 |
+| Riktlinjer för Idrottsstipendium | KF § 115/2021 |
+| Riktlinjer för Kungsbackas mästare | KF § 115/2021 |
+| Riktlinjer för Ledarstipendium | KF § 115/2021 |
+| Taxa för uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare | 2021 § 176, KS 2020-<br>00395 |
 
 <!-- sida 106 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-
-Kungsbacka kulturskola, taxa                       KD 2024-12-12 § 162
-Bibliotek, taxa                                     KF 2024-12-12 § 163
-Naturum Fjärås Bräcka och Äskhults by, taxa         KF 2024-12-12 § 164
-
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Reglemente för Kultur & Fritid                      KF 2018-06-14 § 108
-Strategi för tätortsnära friluftsliv                  KS § 209/17
-
-Turismstrategi 2017-2021                              KF § 120/17
-Riktlinjer för Årets förening                         KF § 115/2021
-
-Riktlinjer för Årets eldsjäl                          KF § 115/2021
-Riktlinjer för Årets förnyare                         KF § 115/2021
-Riktlinjer för Idrottsstipendium                      KF § 115/2021
-
-Riktlinjer för Kungsbackas mästare                    KF § 115/2021
-Riktlinjer för Ledarstipendium                        KF § 115/2021
-Taxa för uthyrning av lokaler och anläggningar med tillhörande tjänster till 2021 § 176, KS 2020-
-organisationer och enskilda invånare                    00395
-
 11.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Fakturering och kravhantering, regler               KS 2024-03-19 § 90
 11.1.3 Styrdokument beslutade av nämnden för Kultur & Fritid
 
-Styrdokument                                      Beslutande paragraf/År
-Delegationsförteckning för nämnden för Kultur & Fritid KFT § 52/2025
-Idrottsprogram för god folkhälsa                      FH § 55/2018
-
-Dokumenthanteringsplan                               KFT § 50/2021
-
 24
+
+[Tabell 106-1](handlingar.tabeller/106-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Fakturering och kravhantering, regler | KS 2024-03-19 § 90 |
+
+[Tabell 106-107-2](handlingar.tabeller/106-107-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegationsförteckning för nämnden för Kultur & Fritid | KFT § 52/2025 |
+| Idrottsprogram för god folkhälsa | FH § 55/2018 |
+| Dokumenthanteringsplan | KFT § 50/2021 |
+| Stöd till föreningar | KFT § 126/2024 |
+| Program för konstnärlig gestaltning i utemiljön | KT § 19/2017 |
+| Riktlinjer för Kungsbacka Konsthall | KT § 62/2017 |
+| Riktlinjer för Bibbi Malmgrens barnboksfond | KT § 24/2007, reviderad<br>KFT § 51/2019 |
+| Nya normer för studieförbundsbidrag i Kungsbacka kommun | KT § 83/2006 |
+| Riktlinjer för Kungsbacka kommuns kulturpris | KT § 17/2009 |
+| Kulturstipendier för ungdom | KT § 78/2007 |
 
 <!-- sida 107 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Stöd till föreningar                                 KFT § 126/2024
-
-Program för konstnärlig gestaltning i utemiljön       KT § 19/2017
-Riktlinjer för Kungsbacka Konsthall                   KT § 62/2017
-KT § 24/2007, reviderad
-Riktlinjer för Bibbi Malmgrens barnboksfond
-KFT § 51/2019
-Nya normer för studieförbundsbidrag i Kungsbacka kommun KT § 83/2006
-Riktlinjer för Kungsbacka kommuns kulturpris          KT § 17/2009
-Kulturstipendier för ungdom                           KT § 78/2007
-
 11.2 Taxa
 
 11.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Logi, taxa och avgift                               KF 2019-11-05 § 162
-Uthyrning av lokaler och anläggningar med tillhörande tjänster till
-KF 2021-12 07 § 176
-organisationer och enskilda invånare, taxa
-Kungsbacka kulturskola, taxa                       KD 2024-12-12 § 162
-Bibliotek, taxa                                     KF 2024-12-12 § 163
-Naturum Fjärås Bräcka och Äskhults by, taxa         KF 2024-12-12 § 164
-
-Taxa för uthyrning av lokaler och anläggningar med tillhörande tjänster till 2021 § 176, KS 2020-
-organisationer och enskilda invånare                    00395
-
 25
+
+[Tabell 107-1](handlingar.tabeller/107-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Logi, taxa och avgift | KF 2019-11-05 § 162 |
+| Uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare, taxa | KF 2021-12 07 § 176 |
+| Kungsbacka kulturskola, taxa | KD 2024-12-12 § 162 |
+| Bibliotek, taxa | KF 2024-12-12 § 163 |
+| Naturum Fjärås Bräcka och Äskhults by, taxa | KF 2024-12-12 § 164 |
+| Taxa för uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare | 2021 § 176, KS 2020-<br>00395 |
 
 <!-- sida 108 -->
 

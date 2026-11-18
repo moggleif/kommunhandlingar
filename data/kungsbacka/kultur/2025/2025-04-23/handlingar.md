@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63015301961de6ca84abb55/17449678927
 sha256: 39cfdfaad41ab46959adef1fd6a88a8bac34da2b12bd71b96f06e7bc295b628b
 bytes: 6181977
 sidor: 117
-hamtad: 2026-11-08T18:58:38+00:00
-konverterad: 2026-11-08T18:59:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:26:18+00:00
+konverterad: 2026-11-18T09:26:43+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -476,8 +476,9 @@ konsekvensbedömningen:
 
 [Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
-| Gjorda konsekvensbedömningar där yttrande lämnats<br>2021 | 2022 | 2023 | 2024 |
+| Gjorda konsekvensbedömningar där yttrande lämnats |  |  |  |
 | --- | --- | --- | --- |
+| 2021 | 2022 | 2023 | 2024 |
 | Integrationsplattform<br>(SE) | Kontors- och<br>samarbetsverktyg (KS) | Stöd vid separationer<br>(IF) | Digitalt stöd för<br>medborgardialog (KS) |
 | Mitt Arkiv (KS) | Ansökan om stipendium –<br>e-tjänst (GA) | Specialkost (SE) | Specialkost (SE) |
 | E-tjänsteplattform (KS) | Gästnätverk (SE) | Stöd för<br>automatisering av<br>arbets- och<br>beslutsprocesser (KS) | Kompletterande<br>kamerabevakning<br>i grundskolan (FG) |

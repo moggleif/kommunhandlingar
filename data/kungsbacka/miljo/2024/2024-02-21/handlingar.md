@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.740037a718d876d2ccf15016/1708071707
 sha256: 5f7e53822b912ee786151004ee90c9a9621d5eeff5e5d4d5f2f1f69bff99a3ba
 bytes: 1185481
 sidor: 20
-hamtad: 2026-11-08T19:29:22+00:00
-konverterad: 2026-11-08T19:29:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:00:56+00:00
+konverterad: 2026-11-18T10:01:02+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -148,8 +148,9 @@ som helhet, men under året ser vi en minskning inom vissa händelsestyrda ären
 
 [Tabell 4-2](handlingar.tabeller/4-2.csv)
 
-| Utfall (miljoner kronor)<br>Utgifter | Utfall 2021 | Utfall 2022 | Utfall 2023 |
+| Utfall (miljoner kronor) | Utfall 2021 | Utfall 2022 | Utfall 2023 |
 | --- | --- | --- | --- |
+| Utgifter |  |  |  |
 | Inkomster |  |  |  |
 | Netto |  |  |  |
 
@@ -281,6 +282,7 @@ en negativ resultatfond.
 
 | Uppföljningsnivå (belopp i<br>mnkr) | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Budget-<br>avvikelse 2023 |
 | --- | --- | --- | --- | --- |
+|  |  |  |  |  |
 | Nämnden för Miljö & Hälsoskydd | -0,8 | -0,9 | -0,9 | 0,0 |
 | Projekt utbildning | 0 | -0,4 | -0,1 | 0,3 |
 | Summa | -0,8 | -1,3 | -1,0 | 0,3 |

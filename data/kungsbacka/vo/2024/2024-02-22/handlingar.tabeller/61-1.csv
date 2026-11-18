@@ -1,50 +1,69 @@
-"Kategorier
-Personal","Till
-Risker Sannolikhet Konsekvens
-plan
-1 Risk för bristfällig 3. Vanligt 3. Kännbar (uppfattas som Ja
-återhämtning hos besvärande för berörda
-medarbetare och att intressenter och
-förvaltningen bygger upp kommunen)
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
+plan"
+Personal,,"1 Risk för bristfällig
+återhämtning hos
+medarbetare och att
+förvaltningen bygger upp
 höga semestersaldon på
 grund av bristande
 efterlevnad av
-semesterlagen"
-,"2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Resurs- och besvärande för berörda
-kompetensbrist intressenter och
-kommunen)"
-,"3 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Brister vid besvärande för berörda
-referenstagning intressenter och
-kommunen)"
-Ekonomi,"4 Risk för att 2. Mindre vanligt 2. Lindrig (uppfattas som Ja
-representationskostnader liten av berörda intressenter
-redovisas på ett felaktigt och kommunen)
+semesterlagen",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"2 Kommunövergripande
+risk: Resurs- och
+kompetensbrist",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"3 Kommunövergripande
+risk: Brister vid
+referenstagning",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+Ekonomi,,"4 Risk för att
+representationskostnader
+redovisas på ett felaktigt
 sätt på grund av avsiktliga
-eller oavsiktliga fel"
-,"5 Risk för att manuella 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-betalningar hanteras på ett besvärande för berörda
-felaktigt sätt på grund av intressenter och
-avsiktliga eller oavsiktliga kommunen)
-fel"
+eller oavsiktliga fel",2. Mindre vanligt,"2. Lindrig (uppfattas som
+liten av berörda intressenter
+och kommunen)",Ja
+,,"5 Risk för att manuella
+betalningar hanteras på ett
+felaktigt sätt på grund av
+avsiktliga eller oavsiktliga
+fel",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
 "Informations
 säkerhet,
 administratio
-n, inköp...","6 Risk att anställda saknar 3. Vanligt 3. Kännbar (uppfattas som Ja
-kompetens inom besvärande för berörda
-brandsäkerhet. intressenter och
-kommunen)"
-,"7 Risk för att inköp 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-genomförs på ett felaktigt besvärande för berörda
-sätt på grund av att intressenter och
-inköpsprocessen och kommunen)
+n, inköp...",,"6 Risk att anställda saknar
+kompetens inom
+brandsäkerhet.",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"7 Risk för att inköp
+genomförs på ett felaktigt
+sätt på grund av att
+inköpsprocessen och
 tillhörande riktlinjer inte
-efterlevs"
-Verksamhet,"8 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan (så Ja
-risk - Risk för korruption stor att den inte får inträffa)"
-,"9 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Förvaltningarnas besvärande för berörda
-arbete med att utveckla intressenter och
-krisledningsorganisationen kommunen)
-i egen verksamhet"
+efterlevs",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+Verksamhet,,"8 Kommunövergripande
+risk - Risk för korruption",2. Mindre vanligt,"4. Allvarlig/stor inverkan (så
+stor att den inte får inträffa)",Ja
+,,"9 Kommunövergripande
+risk: Förvaltningarnas
+arbete med att utveckla
+krisledningsorganisationen
+i egen verksamhet",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja

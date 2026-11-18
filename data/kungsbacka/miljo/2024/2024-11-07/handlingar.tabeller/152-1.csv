@@ -5,27 +5,23 @@ Process:,Klagomål strandskydd,,,,
 Processnummer:,7.5.7.06,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
 Klagomål kommer in,Klagomål,EDP Vision,Digitalt,Bevaras,
-Granska,Korrespondens,EDP Vision,Digitalt,Se anmärkning,"Korrespondens av betydelse bevaras.
-Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
-,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,"Tjänsteanteckning av betydelse bevaras.
-Tjänsteanteckning av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
+Granska,Korrespondens,EDP Vision,Digitalt,Se anmärkning,Korrespondens av betydelse bevaras.
+,,,,,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
+,Tjänsteanteckning,EDP Vision,Digitalt,Se anmärkning,Tjänsteanteckning av betydelse bevaras.
+,,,,,Tjänsteanteckning av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
 Utföra platsbesök,Inspektionsrapport,EDP Vision,Digitalt,Bevaras,
 ,Fotografi,EDP Vision,Digitalt,Bevaras,
-"Skicka underrättelse inför
-beslut och svar kommer in
-från verksamhetsutövare","Kommunicera enligt
-förvaltningslagen",EDP Vision,Digitalt,Bevaras,
-,"Svar på kommunicering
-enligt förvaltningslagen",EDP Vision,Digitalt,Bevaras,
-"Besluta om åtgärder eller
-avslut",Beslut,EDP Vision,Digitalt,Bevaras,
-,Tidkort,EDP Vision,Digitalt,5 år,
-"Delge beslut och signerat
-delgivningskvitto kommer
-in",Delgivningskvitto,EDP Vision,Digitalt,5 år,
-,"Påminnelse signering
-delgivningskvitto",EDP Vision,Digitalt,5 år,
-Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
-överklagande och omprövning."
+Skicka underrättelse inför,Kommunicera enligt,EDP Vision,Digitalt,Bevaras,
+beslut och svar kommer in,förvaltningslagen,,,,
+från verksamhetsutövare,Svar på kommunicering,EDP Vision,Digitalt,Bevaras,
+,enligt förvaltningslagen,,,,
+Besluta om åtgärder eller,Beslut,EDP Vision,Digitalt,Bevaras,
+avslut,Tidkort,EDP Vision,Digitalt,5 år,
+Delge beslut och signerat,Delgivningskvitto,EDP Vision,Digitalt,5 år,
+delgivningskvitto kommer,Påminnelse signering,EDP Vision,Digitalt,5 år,
+in,,,,,
+,delgivningskvitto,,,,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera"
+,,,,,överklagande och omprövning.

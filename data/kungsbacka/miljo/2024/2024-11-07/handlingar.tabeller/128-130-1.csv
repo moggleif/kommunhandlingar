@@ -4,11 +4,11 @@ Processgrupp:,Utöva tillsyn enligt miljöbalken - Hälsoskydd,,,,
 Process:,Tillsyn av bassängbad,,,,
 Processnummer:,7.5.6.37,,,,
 Aktivitet,Handling,Förvaring,Format,Bevara/Gallra,Anmärkning
-"Skicka ut information om
-tillsynsbesök",Information inför tillsyn,EDP Vision,Digitalt,10 år,
+Skicka ut information om,Information inför tillsyn,EDP Vision,Digitalt,10 år,
+tillsynsbesök,,,,,
 Boka tillsyn,Bokning,EDP Vision,Digitalt,10 år,
-Utföra platsbesök,Tjänsteanteckning,EDP Vision,Digitalt,10 år,"Tjänsteanteckning av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
+Utföra platsbesök,Tjänsteanteckning,EDP Vision,Digitalt,10 år,Tjänsteanteckning av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
 ,Fotografi,EDP Vision,Digitalt,10 år,
 ,Ansvarsfördelning,EDP Vision,Digitalt,10 år,
 ,Avfallshantering,EDP Vision,Digitalt,10 år,
@@ -21,54 +21,49 @@ betydelse rensas när ärendet avslutas."
 ,Kemikalieförteckning,EDP Vision,Digitalt,10 år,
 ,Klagomålshantering,EDP Vision,Digitalt,10 år,
 ,Kosmetiska produkter,EDP Vision,Digitalt,10 år,
-,Smitta/Smittskydd,EDP Vision,Digitalt,10 år,"Smitta eller annan olägenhet för människors
-hälsa."
-,"Lokalens utformning och
-inredning",EDP Vision,Digitalt,10 år,
+,Smitta/Smittskydd,EDP Vision,Digitalt,10 år,Smitta eller annan olägenhet för människors
+,,,,,hälsa.
+,Lokalens utformning och,EDP Vision,Digitalt,10 år,
+,inredning,,,,
 ,Städning,EDP Vision,Digitalt,10 år,
-,"Undersökning och
-bedömning",EDP Vision,Digitalt,10 år,"Av verksamhetens risker ur hälso-
-och miljösynpunkt."
+,Undersökning och,EDP Vision,Digitalt,10 år,Av verksamhetens risker ur hälso-
+,bedömning,,,,och miljösynpunkt.
 ,Underhåll lokal,EDP Vision,Digitalt,10 år,
 ,Ventilation,EDP Vision,Digitalt,10 år,
-,"Allmänna tekniska
-uppgifter renings-
-anläggning",EDP Vision,Digitalt,10 år,
-,"Uppgifter desinfektion
-reningsanläggning",EDP Vision,Digitalt,10 år,
-,"Provtagning,
-övervakning och
-bedömning",EDP Vision,Digitalt,10 år,
+,Allmänna tekniska,EDP Vision,Digitalt,10 år,
+,uppgifter renings-,,,,
+,anläggning,,,,
+,Uppgifter desinfektion,EDP Vision,Digitalt,10 år,
+,reningsanläggning,,,,
+,"Provtagning,",EDP Vision,Digitalt,10 år,
+,övervakning och,,,,
+,bedömning,,,,
 ,Buller,EDP Vision,Digitalt,10 år,
 ,Fukt och mögel,EDP Vision,Digitalt,10 år,
 ,Hygienrutin,EDP Vision,Digitalt,10 år,
 ,Inomhustemperatur,EDP Vision,Digitalt,10 år,
-,Övervakning inomhusluft,EDP Vision,Digitalt,10 år,"Övervakning av kemiska hälsorisker så som
-trihalometaner, trikloramin,
-desinfektionsbiprodukter m.fl."
+,Övervakning inomhusluft,EDP Vision,Digitalt,10 år,Övervakning av kemiska hälsorisker så som
+,,,,,"trihalometaner, trikloramin,"
+,,,,,desinfektionsbiprodukter m.fl.
 ,Rökfri miljö,EDP Vision,Digitalt,10 år,
-Granska och bedöma,"Begäran om
-komplettering",EDP Vision,Digitalt,10 år,
-,Korrespondens,EDP Vision,Digitalt,10 år,"Korrespondens av ringa eller tillfällig
-betydelse rensas när ärendet avslutas."
+Granska och bedöma,Begäran om,EDP Vision,Digitalt,10 år,
+,komplettering,,,,
+,Korrespondens,EDP Vision,Digitalt,10 år,Korrespondens av ringa eller tillfällig
+,,,,,betydelse rensas när ärendet avslutas.
 ,Analysrapport,EDP Vision,Digitalt,10 år,"Provtagning, övervakning och bedömning."
-"Skriva och skicka ut
-inspektionsrapport och
-tidkort",Inspektionsrapport,EDP Vision,Digitalt,Bevaras,
+Skriva och skicka ut,Inspektionsrapport,EDP Vision,Digitalt,Bevaras,
+inspektionsrapport och,,,,,
 ,Tidkort,EDP Vision,Digitalt,10 år,
-"Skicka underrättelse inför
-beslut om föreläggande och
-svar kommer in från
-verksamhetsutövare","Kommunicera enligt
-förvaltningslagen",EDP Vision,Digitalt,Bevaras,
-,"Svar på kommunicering
-enligt förvaltningslagen",EDP Vision,Digitalt,Bevaras,
+tidkort,,,,,
+Skicka underrättelse inför,Kommunicera enligt,EDP Vision,Digitalt,Bevaras,
+beslut om föreläggande och,förvaltningslagen,,,,
+svar kommer in från,Svar på kommunicering,EDP Vision,Digitalt,Bevaras,
+verksamhetsutövare,enligt förvaltningslagen,,,,
 Besluta om föreläggande,Tjänsteskrivelse,EDP Vision,Digitalt,Bevaras,
 ,Beslut,EDP Vision,Digitalt,Bevaras,
-"Delge beslut och signerat
-delgivningskvitto kommer
-in",Delgivningskvitto,EDP Vision,Digitalt,10 år,
-,"Påminnelse signering
-delgivningskvitto",EDP Vision,Digitalt,10 år,
-Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera
-överklagande och omprövning."
+Delge beslut och signerat,Delgivningskvitto,EDP Vision,Digitalt,10 år,
+delgivningskvitto kommer,,,,,
+,Påminnelse signering,EDP Vision,Digitalt,10 år,
+in,delgivningskvitto,,,,
+Överklagan kommer in,Överklagan,EDP Vision,Digitalt,Se anmärkning,"Se separat process, 1.4.4.1 Hantera"
+,,,,,överklagande och omprövning.

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.73e3f2281a1a183b66180feb/1794218530
 sha256: 688d2b5ae1fcce6261964e49cf2fdcdcd1f36821848f7386d9ff3c5db93d338a
 bytes: 3093751
 sidor: 127
-hamtad: 2026-11-09T23:04:30+00:00
-konverterad: 2026-11-09T23:04:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T11:07:46+00:00
+konverterad: 2026-11-18T11:08:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [116]
 figurer: [55, 116]
 tolkade: []
@@ -792,14 +792,8 @@ lösningar
 \- Säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
 
-Indikator                         Målsättning 2026
-Andelen av prioriterade administrativa flöden
-Öka
-digitaliserade/automatiserade 2028.
-Frigjord tid i antal timmar/vecka per enhet som
-Öka
-återförs till kundnära arbete genom digitalisering
 6.1.2 Direktiv - Civil beredskap
+
 Beslutats av
 Kommunfullmäktige
 
@@ -815,6 +809,13 @@ bor i Kungsbacka har ansvar för den kommunala, och därmed också nationella, b
 Ansvarsprincipen är tydlig med att ansvaret ska ligga så nära där ansvaret finns i vardagen. Det innebär att alla
 
 16
+
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Indikator | Målsättning 2026 |
+| --- | --- |
+| Andelen av prioriterade administrativa flöden<br>digitaliserade/automatiserade 2028. | Öka |
+| Frigjord tid i antal timmar/vecka per enhet som<br>återförs till kundnära arbete genom digitalisering | Öka |
 
 <!-- sida 19 -->
 
@@ -989,66 +990,34 @@ Nämndbudget 2027
 
 8.2 Resursmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Kostnad
-äldreomsorg, 70 419   70 918    74 839
-kr/inv 65+
-
-Nettokostnad 8 %      2,7 %     4,6 %
-savvikelse
-Antal
-omsorgstaga
-re i         2 182    2 756     2 830
-verksamhete
-Resursmått
-n över 65 år
-Antal
-omsorgstaga
-re i                   165       173
-verksamhete
-n under 65 år
-Antal
-patienter i
-2 780    2 082     2 174
-hemsjukvård
-en
 8.3 Prestationsmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Antal
-lägenheter
-på vård- och 704       704       704
-omsorgsboe
-nde
-Antal
-lägenheter
-för           60       60        60
-korttids/växel
-Prestationsm
-vård
-ått
-Beläggnings
-grad vård-
-96 %      97 %     97,6 %
-och
-omsorgsboe
-nde
-Antal
-timmar      545 404   548 528  587 759
-hemtjänst
-
 21
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Resursmått | Kostnad<br>äldreomsorg,<br>kr/inv 65+ | 70 419 | 70 918 | 74 839 |  |  |
+|  | Nettokostnad<br>savvikelse | 8 % | 2,7 % | 4,6 % |  |  |
+|  | Antal<br>omsorgstaga<br>re i<br>verksamhete<br>n över 65 år | 2 182 | 2 756 | 2 830 |  |  |
+|  | Antal<br>omsorgstaga<br>re i<br>verksamhete<br>n under 65 år |  | 165 | 173 |  |  |
+|  | Antal<br>patienter i<br>hemsjukvård<br>en | 2 780 | 2 082 | 2 174 |  |  |
+
+[Tabell 23-24-2](handlingar.tabeller/23-24-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Prestationsm<br>ått | Antal<br>lägenheter<br>på vård- och<br>omsorgsboe<br>nde | 704 | 704 | 704 |  |  |
+|  | Antal<br>lägenheter<br>för<br>korttids/växel<br>vård | 60 | 60 | 60 |  |  |
+|  | Beläggnings<br>grad vård-<br>och<br>omsorgsboe<br>nde | 96 % | 97 % | 97,6 % |  |  |
+|  | Antal<br>timmar<br>hemtjänst | 545 404 | 548 528 | 587 759 |  |  |
+|  | Kö till<br>vård- och<br>omsorgsboe<br>nde | 67 | 74 | 99 |  |  |
 
 <!-- sida 24 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2027
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Kö till
-vård- och
-67       74        99
-omsorgsboe
-nde
 
 8.4 Effektmått
 
@@ -1092,51 +1061,36 @@ anställning. Resultatet av samtalen följs upp en gång per år och en analys g
 
 9.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-```osaker-tabell
-Andel heltid         67,4 %    70,1 %    71,3 %
-Sjukfrånvaro Totalt   10 %      10 %      9 %
-
-Sjukfrånvaro Kvinnor 10,3 %    10,5 %    10 %
-Sjukfrånvaro Män      7,5 %    6,9 %      7 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 34,8 % 35,8 % 34 %
-mer
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 36,1 % 37,1 % 35 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 22 % 23 %    25 %
-mer Män
-Anställda totalt      1 429    1 422     1 457
-
 23
+
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
+
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 67,4 % | 70,1 % | 71,3 % |  |  |
+| Sjukfrånvaro Totalt | 10 % | 10 % | 9 % |  |  |
+| Sjukfrånvaro Kvinnor | 10,3 % | 10,5 % | 10 % |  |  |
+| Sjukfrånvaro Män | 7,5 % | 6,9 % | 7 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 34,8 % | 35,8 % | 34 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 36,1 % | 37,1 % | 35 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 22 % | 23 % | 25 % |  |  |
+| Anställda totalt | 1 429 | 1 422 | 1 457 |  |  |
+| Anställda andel kvinnor | 87,8 % | 86,9 % | 86,1 % |  |  |
+| Anställda andel män | 12,2 % | 13,2 % | 13,9 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 5,2 % | 5 % | 5 % |  |  |
+| Korttidssjukfrånvaro Män | 5,1 % | 4,5 % | 4 % |  |  |
+| Långtidssjukfrånvaro | 4,8 % | 5 % | 5 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 5,1 % | 5,4 % | 5 % |  |  |
+| Långtidssjukfrånvaro Män | 2,4 % | 2,4 % | 2 % |  |  |
+| Korttidssjukfrånvaro | 5,2 % | 5 % | 5 % |  |  |
+| Antal medarbetare per<br>enhetschef | 25,3 | 26,8 | 29,8 |  |  |
+| Personalomsättning | 16,4 % | 14,3 % | 12,6 % |  |  |
+| Medelålder | 44 | 44 | 44 |  |  |
 
 <!-- sida 26 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2027
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Anställda andel kvinnor 87,8 % 86,9 %    86,1 %
-
-Anställda andel män  12,2 %    13,2 %    13,9 %
-Korttidssjukfrånvaro Kvinnor 5,2 % 5 %    5 %
-Korttidssjukfrånvaro Män 5,1 % 4,5 %      4 %
-
-Långtidssjukfrånvaro  4,8 %     5 %       5 %
-Långtidssjukfrånvaro Kvinnor 5,1 % 5,4 %  5 %
-
-Långtidssjukfrånvaro Män 2,4 % 2,4 %      2 %
-Korttidssjukfrånvaro  5,2 %     5 %       5 %
-Antal medarbetare per
-25,3      26,8      29,8
-enhetschef
-Personalomsättning   16,4 %    14,3 %    12,6 %
-Medelålder             44       44        44
 
 9.3 Arbetsmiljö
 
@@ -1326,113 +1280,99 @@ Nämndbudget 2027
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Biblioteksplan                                    KF 2025-02-04 § 13
-Reglemente nämnden för Vård & Omsorg              KF 2023-02-07 § 8
-
-Inköp, policy                                     KF 2026-05-05, § 80
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-Integritetspolicy                                 KF 2021-11-09 § 142
-
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-Klimatstrategi                                    KF 2022-05-10 § 77
-
-Invånardialog                                     KF 2014-10-14 § 119
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
 11.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-
 28
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2025-02-04 § 13 |
+| Reglemente nämnden för Vård & Omsorg | KF 2023-02-07 § 8 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+
+[Tabell 30-31-2](handlingar.tabeller/30-31-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 31 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
+
 11.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
-
 11.1.4 Styrdokument beslutade av nämnden för Vård & Omsorg
-
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning                            NVO 2025-12-11 § 183
-
-Ledningssystem för systematiskt kvalitetsarbete   NVO 2024-06-12 § 90
-Lokalbehov 2028-2032, utblicksår 2033-2037        NVO 2026-09-17 §144
-
-Nämndbudget 2026                                  NVO 2025-10-16 §140
-Investeringsplan 2027-2036                        NVO 2026-01-28 §3
-Förfrågningsunderlag LOV                          NVO 2026-08-27 § 121
-
-Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i
-NVO 2018-09-19 § 78
-Kungsbacka kommun
-Informationsbeskrivning 2025                      NVO 2025-04-24 § 60
-Intern kontrollplan 2026                          NVO 2025-11-13 § 164
-Klassificeringsstruktur                           NVO 2023-11-16 § 134
-Informationshanteringsplan                        NVO 2025-11-13 § 165
 
 11.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Patientavgifter inom hemsjukvården, taxa            KF 2020-04-14 § 31
-Vård och omsorg taxa                                KF 2022-10-18 § 159
-
 29
+
+[Tabell 31-1](handlingar.tabeller/31-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
+
+[Tabell 31-2](handlingar.tabeller/31-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | NVO 2025-12-11 § 183 |
+| Ledningssystem för systematiskt kvalitetsarbete | NVO 2024-06-12 § 90 |
+| Lokalbehov 2028-2032, utblicksår 2033-2037 | NVO 2026-09-17 §144 |
+| Nämndbudget 2026 | NVO 2025-10-16 §140 |
+| Investeringsplan 2027-2036 | NVO 2026-01-28 §3 |
+| Förfrågningsunderlag LOV | NVO 2026-08-27 § 121 |
+| Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i<br>Kungsbacka kommun | NVO 2018-09-19 § 78 |
+| Informationsbeskrivning 2025 | NVO 2025-04-24 § 60 |
+| Intern kontrollplan 2026 | NVO 2025-11-13 § 164 |
+| Klassificeringsstruktur | NVO 2023-11-16 § 134 |
+| Informationshanteringsplan | NVO 2025-11-13 § 165 |
+
+[Tabell 31-3](handlingar.tabeller/31-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Patientavgifter inom hemsjukvården, taxa | KF 2020-04-14 § 31 |
+| Vård och omsorg taxa | KF 2022-10-18 § 159 |
 
 <!-- sida 32 -->
 
@@ -2313,16 +2253,16 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Risk för bristfällig 3. Vanligt 3. Kännbar (uppfattas Ja<br>återhämtning hos som besvärande för<br>medarbetare avseende berörda intressenter och<br>dygns- och veckovila kommunen)<br>och bristande<br>efterlevnad till<br>arbetstidslagen. |
-| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 3 Risk att anställda 3. Vanligt 3. Kännbar (uppfattas Ja<br>saknar kompetens inom som besvärande för<br>brandsäkerhet. berörda intressenter och<br>kommunen) |
-|  | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Risk att som besvärande för<br>samhällsutbyggnad inte berörda intressenter och<br>kan ske i planerad takt. kommunen)<br>Ny infrastruktur och<br>exploatering och projekt<br>för underhåll/utbyggnad<br>av befintlig infrastruktur<br>är beroende av varandra<br>(resurser och<br>samplanering). |
-|  | 5 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 6 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-|  | 7 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Risk för otillåten som besvärande för<br>påverkan berörda intressenter och<br>kommunen) |
-|  | 8 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Risk för bristande som besvärande för<br>efterlevnad till NIS2- berörda intressenter och<br>direktivet och gällande kommunen)<br>rutiner och regelverk |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Risk för bristfällig<br>återhämtning hos<br>medarbetare avseende<br>dygns- och veckovila<br>och bristande<br>efterlevnad till<br>arbetstidslagen. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3 Risk att anställda<br>saknar kompetens inom<br>brandsäkerhet. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Risk att<br>samhällsutbyggnad inte<br>kan ske i planerad takt.<br>Ny infrastruktur och<br>exploatering och projekt<br>för underhåll/utbyggnad<br>av befintlig infrastruktur<br>är beroende av varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 5 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 6 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 7 Kommunövergripande<br>risk: Risk för otillåten<br>påverkan | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 8 Kommunövergripande<br>risk: Risk för bristande<br>efterlevnad till NIS2-<br>direktivet och gällande<br>rutiner och regelverk | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 57 -->
 
@@ -2335,13 +2275,13 @@ Intern kontroll 2027
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Ekonomi | Risk för att Risken har varit<br>representationsk med i flera år och<br>1. Försumbar<br>ostnader har inte visat på<br>1. Osannolik (obetydlig för<br>redovisas på ett några<br>(risken är praktiskt berörda<br>felaktigt sätt på oegentligheter.<br>taget obefintlig) intressenter och<br>grund av<br>kommunen)<br>avsiktliga eller<br>oavsiktliga fel |
-|  | Risk för att Risken har varit<br>manuella med i flera år och<br>1. Försumbar<br>betalningar har inte visat på<br>1. Osannolik (obetydlig för<br>hanteras på ett några<br>(risken är praktiskt berörda<br>felaktigt sätt på oegentligheter.<br>taget obefintlig) intressenter och<br>grund av<br>kommunen)<br>avsiktliga eller<br>oavsiktliga fel |
-|  | Kommunövergrip 1. Försumbar Redovisning är<br>ande risk: (obetydlig för inte solitärt<br>Grundläggande 2. Mindre vanligt berörda underlag till<br>redovisning intressenter och inriktningsbeslut.<br>kvalitetsbrister kommunen) |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: It- (uppfattas som inom ramen för<br>säkerhet besvärande för förvaltningens<br>2. Mindre vanligt<br>- Bristande berörda systematiska<br>driftmiljö hos intressenter och informationssäkerh<br>leverantörer kommunen) etsarbete |
-| Verksamhet | Kommunövergrip Nämndens<br>ande risk: 3. Kännbar målgrupp kommer<br>Dämpad (uppfattas som att växa framöver<br>befolkningstillväx besvärande för och därför ser<br>2. Mindre vanligt<br>t med långsiktig berörda nämnden inte<br>påverkan på intressenter och denna risken.<br>kommunala kommunen)<br>verksamheter |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Risk för att<br>representationsk<br>ostnader<br>redovisas på ett<br>felaktigt sätt på<br>grund av<br>avsiktliga eller<br>oavsiktliga fel | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Risken har varit<br>med i flera år och<br>har inte visat på<br>några<br>oegentligheter. |
+|  |  | Risk för att<br>manuella<br>betalningar<br>hanteras på ett<br>felaktigt sätt på<br>grund av<br>avsiktliga eller<br>oavsiktliga fel | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Risken har varit<br>med i flera år och<br>har inte visat på<br>några<br>oegentligheter. |
+|  |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre vanligt | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Redovisning är<br>inte solitärt<br>underlag till<br>inriktningsbeslut. |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken adresseras<br>inom ramen för<br>förvaltningens<br>systematiska<br>informationssäkerh<br>etsarbete |
+| Verksamhet |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Nämndens<br>målgrupp kommer<br>att växa framöver<br>och därför ser<br>nämnden inte<br>denna risken. |
 
 <!-- sida 58 -->
 

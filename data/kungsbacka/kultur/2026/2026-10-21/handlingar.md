@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff4b085/1792051982
 sha256: 79bf03275baacf597e3bfc89d8844e5cfa88e5b361a568fe5577960385e814c8
 bytes: 89218926
 sidor: 419
-hamtad: 2026-11-08T19:16:50+00:00
-konverterad: 2026-11-08T19:20:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:45:59+00:00
+konverterad: 2026-11-18T09:50:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [159, 257, 261, 264, 270, 271, 272, 280, 311, 350, 352, 353, 354, 370, 403, 417]
-figurer: [58, 59, 60, 61, 62, 63, 64, 65, 75, 79, 83, 88, 93, 98, 101, 105, 108, 112, 117, 118, 119, 120, 121, 122, 123, 124, 125, 127, 129, 130, 131, 132, 133, 135, 136, 137, 138, 139, 140, 141, 144, 145, 146, 147, 148, 149, 164, 175, 180, 214, 216, 218, 220, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 236, 240, 244, 246, 247, 248, 249, 251, 252, 254, 255, 258, 259, 262, 266, 268, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 286, 289, 290, 291, 294, 298, 299, 300, 302, 303, 304, 306, 307, 308, 309, 314, 321, 323, 325, 326, 328, 329, 332, 333, 338, 342, 344, 346, 347, 350, 351, 352, 353, 354, 355, 356, 357, 361, 362, 365, 368, 369, 370, 371, 372, 373, 374, 375, 377, 378, 380, 382, 386, 387, 388, 389, 390, 392, 393, 394, 395]
+figurer: [58, 59, 60, 61, 62, 63, 64, 65, 75, 79, 83, 88, 93, 98, 101, 105, 108, 112, 117, 118, 119, 120, 121, 122, 123, 124, 125, 127, 129, 130, 131, 132, 133, 136, 137, 138, 141, 144, 145, 146, 147, 148, 149, 164, 175, 180, 214, 216, 218, 220, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 236, 240, 244, 246, 247, 248, 249, 251, 252, 254, 255, 258, 259, 262, 266, 268, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 286, 289, 290, 291, 294, 298, 299, 300, 302, 303, 304, 306, 307, 308, 309, 314, 321, 323, 325, 326, 328, 329, 332, 333, 338, 342, 344, 346, 347, 350, 351, 352, 353, 354, 355, 356, 357, 361, 362, 365, 368, 369, 370, 371, 372, 373, 374, 375, 377, 378, 380, 382, 386, 387, 388, 389, 390, 392, 393, 394, 395]
 tolkade: []
 granskad: null
 ---
@@ -6364,48 +6364,6 @@ Nämndbudget 2027
 
 10.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Andel heltid         68,4 %    69,5 %    67,7 %
-
-Antal medarbetare per
-19,5      16,8      24,1
-enhetschef
-
-```osaker-tabell
-Sjukfrånvaro Totalt   3,7 %    2,6 %      3 %
-Sjukfrånvaro Kvinnor  3,8 %    2,6 %      4 %
-Sjukfrånvaro Män      3,5 %    2,5 %      3 %
-Korttidssjukfrånvaro  2,1 %    1,9 %      2 %
-```
-
-Korttidssjukfrånvaro Kvinnor 2,2 % 2 %    2 %
-
-Korttidssjukfrånvaro Män 1,7 % 1,5 %      1 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 28,8 % 17,3 % 23 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 25,3 % 8,8 % 19 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 37,6 % 36,6 % 36 %
-mer Män
-
-Anställda totalt      208       216       208
-Anställda andel kvinnor 67,8 % 67,6 %    67,3 %
-
-```osaker-tabell
-Anställda andel män  32,2 %    32,4 %    32,7 %
-
-Personalomsättning    10 %     5,5 %     7,2 %
-Medelålder             47       47        47
-
-Långtidssjukfrånvaro  1,6 %    0,7 %      1 %
-```
-
-Långtidssjukfrånvaro Kvinnor 1,6 % 0,6 %  1 %
-Långtidssjukfrånvaro Män 1,8 %  1 %       1 %
-
 10.3 Arbetsmiljö
 
 10.3.1 Arbetsmiljömål
@@ -6418,6 +6376,30 @@ Kommunens övergripande mål för arbetsmiljöarbetet
 •  Alla medarbetare har möjlighet att ta de raster och pauser de behöver under arbetsdagen.
 
 18
+
+[Tabell 135-1](handlingar.tabeller/135-1.csv)
+
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 68,4 % | 69,5 % | 67,7 % |  |  |
+| Antal medarbetare per<br>enhetschef | 19,5 | 16,8 | 24,1 |  |  |
+| Sjukfrånvaro Totalt | 3,7 % | 2,6 % | 3 % |  |  |
+| Sjukfrånvaro Kvinnor | 3,8 % | 2,6 % | 4 % |  |  |
+| Sjukfrånvaro Män | 3,5 % | 2,5 % | 3 % |  |  |
+| Korttidssjukfrånvaro | 2,1 % | 1,9 % | 2 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,2 % | 2 % | 2 % |  |  |
+| Korttidssjukfrånvaro Män | 1,7 % | 1,5 % | 1 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 28,8 % | 17,3 % | 23 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 25,3 % | 8,8 % | 19 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 37,6 % | 36,6 % | 36 % |  |  |
+| Anställda totalt | 208 | 216 | 208 |  |  |
+| Anställda andel kvinnor | 67,8 % | 67,6 % | 67,3 % |  |  |
+| Anställda andel män | 32,2 % | 32,4 % | 32,7 % |  |  |
+| Personalomsättning | 10 % | 5,5 % | 7,2 % |  |  |
+| Medelålder | 47 | 47 | 47 |  |  |
+| Långtidssjukfrånvaro | 1,6 % | 0,7 % | 1 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 1,6 % | 0,6 % | 1 % |  |  |
+| Långtidssjukfrånvaro Män | 1,8 % | 1 % | 1 % |  |  |
 
 <!-- sida 136 -->
 
@@ -6519,145 +6501,122 @@ Nämndbudget 2027
 
 12.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Biblioteksplan                                    KF 2025-02-04 § 13
-Inköp, policy                                     KF 2026-05-05, § 80
-
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-Integritetspolicy                                 KF 2021-11-09 § 142
-Reglemente för nämnden för Kultur & Fritid        KF 2022-02-08 § 7
-
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-Klimatstrategi                                    KF 2022-05-10 § 77
-
-Invånardialog                                     KF 2014-10-14 § 119
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Kungsbacka kulturskola, taxa                      KF 2024-12-12 § 162
-Bibliotek, taxa                                   KF 2024-12-12 § 163
-
-Naturum Fjärås Bräcka och Äskhults by, taxa       KF 2024-12-12 § 164
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Uthyrning av lokaler och anläggningar med tillhörande tjänster till
-2025-12-11, § 243
-organisationer och enskilda invånare, taxa (gäller fr.o.m. 2026-07-01)
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-Kulturpolitiskt program för Kungsbacka kommun     KF § 167/12
-Strategi för tätortsnära friluftsliv              KS § 209/17
-Turismstrategi 2017-2021                          KF § 120/17
-
 22
+
+[Tabell 139-140-1](handlingar.tabeller/139-140-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2025-02-04 § 13 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Kultur & Fritid | KF 2022-02-08 § 7 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Kungsbacka kulturskola, taxa | KF 2024-12-12 § 162 |
+| Bibliotek, taxa | KF 2024-12-12 § 163 |
+| Naturum Fjärås Bräcka och Äskhults by, taxa | KF 2024-12-12 § 164 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare, taxa (gäller fr.o.m. 2026-07-01) | 2025-12-11, § 243 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Strategi för tätortsnära friluftsliv | KS § 209/17 |
+| Turismstrategi 2017-2021 | KF § 120/17 |
+| Riktlinjer för Årets förening | KF § 115/2021 |
+| Riktlinjer för Årets eldsjäl | KF § 115/2021 |
+| Riktlinjer för Årets förnyare | KF § 115/2021 |
+| Riktlinjer för Idrottsstipendium | KF § 115/2021 |
+| Riktlinjer för Kungsbackas mästare | KF § 115/2021 |
+| Riktlinjer för Ledarstipendium | KF § 115/2021 |
 
 <!-- sida 140 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Riktlinjer för Årets förening                     KF § 115/2021
-
-Riktlinjer för Årets eldsjäl                      KF § 115/2021
-Riktlinjer för Årets förnyare                     KF § 115/2021
-Riktlinjer för Idrottsstipendium                  KF § 115/2021
-
-Riktlinjer för Kungsbackas mästare                KF § 115/2021
-Riktlinjer för Ledarstipendium                    KF § 115/2021
 
 12.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 12.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
 
 12.1.4 Styrdokument beslutade av nämnden för Kultur & Fritid
 
-Styrdokument                                      Beslutande paragraf/År
-
-Delegationsförteckning för nämnden för Kultur & Fritid KFT § 52/2025
-Idrottsprogram för god folkhälsa                  FH § 55/2018
-Dokumenthanteringsplan                            KFT § 50/2021
-
-Stöd till föreningar                              KFT § 126/2024
-Program för konstnärlig gestaltning i utemiljön   KT § 19/2017
-
-Riktlinjer för Kungsbacka Konsthall               KT § 62/2017
-
 23
+
+[Tabell 140-1](handlingar.tabeller/140-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 140-2](handlingar.tabeller/140-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
+
+[Tabell 140-141-3](handlingar.tabeller/140-141-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegationsförteckning för nämnden för Kultur & Fritid | KFT § 52/2025 |
+| Idrottsprogram för god folkhälsa | FH § 55/2018 |
+| Dokumenthanteringsplan | KFT § 50/2021 |
+| Stöd till föreningar | KFT § 126/2024 |
+| Program för konstnärlig gestaltning i utemiljön | KT § 19/2017 |
+| Riktlinjer för Kungsbacka Konsthall | KT § 62/2017 |
+| Riktlinjer för Bibbi Malmgrens barnboksfond | KT § 24/2007, reviderad<br>KFT § 51/2019 |
+| Nya normer för studieförbundsbidrag i Kungsbacka kommun | KT § 83/2006 |
+| Riktlinjer för Kungsbacka kommuns kulturpris | KT § 17/2009 |
+| Kulturstipendier för ungdom | KT § 78/2007 |
 
 <!-- sida 141 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-KT § 24/2007, reviderad
-Riktlinjer för Bibbi Malmgrens barnboksfond
-KFT § 51/2019
-Nya normer för studieförbundsbidrag i Kungsbacka kommun KT § 83/2006
-Riktlinjer för Kungsbacka kommuns kulturpris      KT § 17/2009
-Kulturstipendier för ungdom                       KT § 78/2007
 
 12.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Logi, taxa och avgift                               KF 2019-11-05 § 162
-
-Uthyrning av lokaler och anläggningar med tillhörande tjänster till
-KF 2021-12 07 § 176
-organisationer och enskilda invånare, taxa gäller t.o.m. 2026-06-30)
-Kungsbacka kulturskola, taxa                        KF 2024-12-12 § 162
-Bibliotek, taxa                                     KF 2024-12-12 § 163
-Naturum Fjärås Bräcka och Äskhults by, taxa         KF 2024-12-12 § 164
-Uthyrning av lokaler och anläggningar med tillhörande tjänster till
-2025-12-11, § 243
-organisationer och enskilda invånare, taxa (gäller fr.o.m. 2026-07-01)
-
 24
+
+[Tabell 141-1](handlingar.tabeller/141-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Logi, taxa och avgift | KF 2019-11-05 § 162 |
+| Uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare, taxa gäller t.o.m. 2026-06-30) | KF 2021-12 07 § 176 |
+| Kungsbacka kulturskola, taxa | KF 2024-12-12 § 162 |
+| Bibliotek, taxa | KF 2024-12-12 § 163 |
+| Naturum Fjärås Bräcka och Äskhults by, taxa | KF 2024-12-12 § 164 |
+| Uthyrning av lokaler och anläggningar med tillhörande tjänster till<br>organisationer och enskilda invånare, taxa (gäller fr.o.m. 2026-07-01) | 2025-12-11, § 243 |
 
 <!-- sida 142 -->
 

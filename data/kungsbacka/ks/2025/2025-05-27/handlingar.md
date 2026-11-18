@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4920649e196f63f72e9bd2cc/1748327376
 sha256: 2c07c83d67ce3b550e24265f15d2935cdff33de1fcc731a51538a28a43c62c22
 bytes: 69020174
 sidor: 513
-hamtad: 2026-11-08T22:44:26+00:00
-konverterad: 2026-11-08T22:51:53+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T13:42:33+00:00
+konverterad: 2026-11-18T13:50:00+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [71, 74, 75, 76, 77, 119, 120, 142, 143, 158, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 187, 205, 207, 208, 237, 238, 276, 277, 289, 292, 293, 295, 296, 297, 299, 300, 301, 302, 303, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 317, 319, 321, 323, 324, 325, 326, 327, 328, 329, 332, 334, 335, 338, 339, 340, 341, 342, 344, 345, 346, 347, 348, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 371, 372, 460, 468, 470, 472, 473, 474, 475, 477, 478, 479, 480, 481, 482, 483, 484, 485, 501, 502]
 figurer: [16, 27, 41, 53, 59, 60, 71, 75, 76, 77, 82, 90, 95, 99, 105, 124, 131, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 183, 184, 191, 193, 195, 196, 198, 202, 215, 216, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 320, 321, 322, 326, 328, 329, 330, 331, 332, 334, 338, 339, 340, 341, 342, 343, 347, 348, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 363, 364, 365, 366, 367, 368, 370, 371, 372, 374, 375, 376, 467, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 494, 495, 503]
 tolkade: []
@@ -2748,12 +2748,6 @@ barnen mellan 1–5 år minskar med 187 personer. Antalet tonåringar mellan 13�
 
 12.2 Skatter och generella statsbidrag
 
-Inkomstutjämning,
-andel av rikets 117,8 118,7 118,7 118,5
-skattekraft (%)
-
-Summa intäkter  6 439 6 619 6 861 7 120
-
 Vid uppskattning av vad skatteintäkterna kommer bli under planperioden har vi utgått ifrån
 Sveriges Kommuners och Regioners, SKR:s, bedömning i Cirkulär 25:21. Kommunen får också
 olika statsbidrag. De generella statsbidragen kommer ifrån utjämningssystemet. Systemet syftar till
@@ -2791,15 +2785,17 @@ kommuner i ett län har samma länsvisa skattesats. En enskild kommuns skattesat
 
 [Tabell 68-2](handlingar.tabeller/68-2.csv)
 
-| Belopp i miljoner | Budget | Plan | Plan | Plan |
+| Belopp i miljoner<br>kronor | Budget | Plan | Plan | Plan |
 | --- | --- | --- | --- | --- |
-| kronor | 2025 | 2026 | 2027 | 2028 |
+|  | 2025 | 2026 | 2027 | 2028 |
 | Skatteintäkter | 6 128 | 6 362 | 6 650 | 6 936 |
 | Inkomstutjämning | -119 | -161 | -156 | -168 |
 | Kostnadsutjämning | 17 | 13 | 11 | 29 |
 | Regleringspost | 206 | 200 | 151 | 117 |
 | LSS-utjämning | -12 | -21 | -21 | -21 |
 | Fastighetsavgift | 220 | 226 | 226 | 226 |
+| Inkomstutjämning,<br>andel av rikets<br>skattekraft (%) | 117,8 | 118,7 | 118,7 | 118,5 |
+| Summa intäkter | 6 439 | 6 619 | 6 861 | 7 120 |
 
 <!-- sida 69 -->
 
@@ -2935,7 +2931,7 @@ Procent
 
 [Tabell 72-1](handlingar.tabeller/72-1.csv)
 
-| Tillägg tusen kronor, Tkr Plan 2026 Plan 2027 Plan 2028 |  |  |  |
+| Tillägg tusen kronor, Tkr | Plan 2026 | Plan 2027 | Plan 2028 |
 | --- | --- | --- | --- |
 | Förskola & Grundskola, från och med 2026 | 30 000 | 30 000 | 30 000 |
 | Gymnasium & Arbetsmarknad, från och med 2026 | 3 000 | 3 000 | 3 000 |
@@ -2954,7 +2950,7 @@ Kvarstående övriga tillägg från kommunbudget 2025
 
 [Tabell 73-1](handlingar.tabeller/73-1.csv)
 
-| Tillägg tusen kronor, Tkr Plan 2026 Plan 2027 Plan 2028 |  |  |  |
+| Tillägg tusen kronor, Tkr | Plan 2026 | Plan 2027 | Plan 2028 |
 | --- | --- | --- | --- |
 | Service, ekonomisk rådgivning, ingår i ram | 700 | 700 | 700 |
 | Gymnasium & Arbetsmarknad, ingår i ram | 3 000 | 3 000 | 3 000 |
@@ -3993,10 +3989,6 @@ Plan 2027 Plan 2028
 Tkr                           2026                         2030
 Löpande investeringar          2 500     2 500     2 500     5 000
 
-Budget                      Plan 2029-
-Vård & Omsorg          Tkr           Plan 2027 Plan 2028
-2026                         2030
-
 59
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
@@ -4010,8 +4002,9 @@ Vård & Omsorg          Tkr           Plan 2027 Plan 2028
 
 [Tabell 93-2](handlingar.tabeller/93-2.csv)
 
-| Löpande investeringar | 6 000 | 6 000 | 6 000 | 12 500 |
+| Vård & Omsorg Tkr | Budget<br>2026 | Plan 2027 | Plan 2028 | Plan 2029-<br>2030 |
 | --- | --- | --- | --- | --- |
+| Löpande investeringar | 6 000 | 6 000 | 6 000 | 12 500 |
 | Övriga investeringar | 2 600 | 2 650 | 2 700 | 5 550 |
 | Summa | 8 600 | 8 650 | 8 700 | 18 050 |
 
@@ -7721,7 +7714,7 @@ Kommunen tillhanda innan Avtalet godkänns av Kommunstyrelsen. Säkerheten ska
 
 anläggningar.
 
-24.2 — Säkerheten är avsedd att täcka kostnaderna för de anläggningar och åtaganden m.m.
+24.2 Säkerheten är avsedd att täcka kostnaderna för de anläggningar och åtaganden m.m.
 som Exploatören åtagit sig enligt Avtalet, för det fall Exploatören ej fullgör sina
 skyldigheter enligt Avtalet. Kommunen kan då ta säkerheten i anspråk utan
 Exploatörens medgivande.
@@ -11870,10 +11863,8 @@ och stärka den.
 
 <
 
-\- At
-
 Pra introduktion [.
-ger bra förutsättningar. EmIl började hos oss
+ger bra förutsättningar. EmIL började hos oss
 
 nder 2024 Peter visar hur systemet fungerar.
 
@@ -11915,7 +11906,7 @@ bygga och bemöta situationer där det finns risk för hot och
 våld. Nya medarbetare medverkar exempelvis på kursen
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024
-Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ———
+Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ——
 
 <!-- sida 303 -->
 
@@ -12158,7 +12149,7 @@ en succé. Därför var det en självklarhet att ha ett till
 ännu större och vi hade 150 besökare under dagen.
 Syftet var att visa upp huset för nyfikna besökare och
 
-berätta om boendekonceptet med fokus på trygg- | nn I
+berätta om boendekonceptet med fokus på trygg- | I
 het, gemenskap och aktivitet. ad JINGE
 
 Mängden besökare är ett bevis på att trygghetsbo- Lagt EN
@@ -12191,7 +12182,7 @@ a 2 bade era ag I Å
 man
 
 ÅRS- OCH HÅLLBARHETSREDOVISNING 2024
-Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ———
+Signerat CK, HS, PW, AM, JB, IH, KWMLAL — ——
 
 19
 
@@ -12651,7 +12642,7 @@ Projektet görs i samverkan med Nordr och Jemmet AB som
 stadsrätter och egna hem. Vårt mål är att tillskapa cirka 30
 hyresrätter. Preliminär byggstart är början av 2026. Möjlighet
 till ytterligare exploatering i framtiden finns genom att en
-förstudie är gjord för en etapp II med ca 150 bostäder.
+förstudie är gjord för en etapp Il med ca 150 bostäder.
 
 Signeshus, Kungsbacka
 
@@ -12664,7 +12655,7 @@ sa Signushus så att modern och bra omsorgsverksamhet
 kan bedrivas många år till. Arbetet är planerat att påbörjas
 under hösten 2025 och vara klart året efter.
 
-Ungdomslägenheter '-
+Ungdomslägenheter -
 en väg till första boendet
 
 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -12747,7 +12738,7 @@ meverken är så effektiva att uppvärmningskostnaderna för
 våra hus är bland de lägsta i Sverige. För att säkra driften vid
 eventuellt fel eller störning finns en oljepanna som back-up.
 Storleken på våra fjärrvärmeanläggningar varierar från 100
-KW till 5 MW. En stor del att få lönsamma system grundas
+KW till 5 MW. En stor deli att få lönsamma system grundas
 
 j att få så många användare som möjligt, både internt och
 externt. Detta för att utnyttja energin till fullo. En orosfaktor
@@ -12767,13 +12758,12 @@ värmningslösningar De lämnar då kanske direktverkande el
 och oljepanna bakom sig och går över till Ekstas miljökloka
 alternativ med sol och biobränsle.
 
-DDR DIA |
 SN
 "Vi hart 20/bieRfänstlbanläggni
 söm var värmeprötiluktionsavdelning
 tillsämmans med omhådesänsvarig
 
-slastighetsskötare rondéetar,
+slastighetsskötare rondetar,
 
 \- sa
 
@@ -13025,7 +13015,7 @@ att inspirera varandra och dela med sig av kunskap kan
 bostadsbolagen göra omställningen snabbare än var och
 en för sig. Målet är att Sveriges allmännyttiga bostadsbolag
 ska vara fossilfria senast år 2030 och att energianvändning-
-en ska minska med 30 2. Alla företag som deltar kan också
+en ska minska med 30 24. Alla företag som deltar kan också
 sätta egna mål, som redovisas öppet och transparent inom
 initiativet. För att driva på klimatarbetet ytterligare finns
 också tre frivilliga fokusområden där Eksta arbetar med
@@ -13283,7 +13273,7 @@ ger i passivhusteknik och arbetar med energibesparande
 åtgärder landar nyproduktionsprojekt in under de krav som
 Kommuninvest ställer för att uppnå gröna lån för gröna
 byggnader. Kravet för flerfamiljshus är att nya eller befintliga
-byggnader skall ha minst 20 22 mindre energianvändning
+byggnader skall ha minst 20 24 mindre energianvändning
 per kvadratmeter och år än vad som krävs enligt gällande
 regler (Boverkets byggregler, BBR 29).
 
@@ -13671,7 +13661,7 @@ fastigheter genomgått en värdering på plats. De fastigheter
 som rullande bli besiktigade på plats är utvalda för att få en
 jämn fördelning gällande yta, typ och område mellan åren.
 
-Värderingen baseras på uppgifter kring faktiska hyresavtal
+värderingen baseras på uppgifter kring faktiska hyresavtal
 och erfarenheter av marknadshyror jämte normaliserade
 drift- och underhållskostnader för jämförbara fastigheter
 och tomträtter. Uppgifter om ortspriser utgörs av lagfarna
@@ -13755,7 +13745,7 @@ mkr av bolagets räntekostnader ej är avdragsgilla, vilket
 resulterar i en ökad skatt om 2,6 mkr. Rådande ränteläge
 och fortsatta höga marknadsräntor kommer resultera i att
 bolaget, under närmaste åren, fortsatt kommer ha ökningar
-gällande räntekostnader. Detta i sin tur kommer lega till att
+gällande räntekostnader. Detta i sin tur kommer leda till att
 bolaget fortsätter ligga över gränsen för ränteavdrag, vilket
 då resulterar i ökade skattekostnader.
 
@@ -13819,7 +13809,7 @@ gångar (exklusive pågående nyanläggningar) skrivits av
 med 2,36 2 (2,3 20). Bolagets resultat medger skattemässiga
 avskrivningar enligt ägardirektivet.
 
-Soliditeten fortsätter att stiga till 18,67 2 (17,61 2) men
+Soliditeten fortsätter att stiga till 18,67 2 (17,61 26) men
 uppfyller inte det långsiktiga målet på 20 2. Den justerade
 soliditeten som tar hänsyn till övervärdena i fastighetsbe-
 ståndet uppgår till 41,77 26 (40,99 26) och uppfyller dock
@@ -13889,7 +13879,7 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 326 -->
 
-olyckor. Vid skyddskommitteéns regelbundna möten upp-
+olyckor. Vid skyddskommittens regelbundna möten upp-
 dateras handlingsplanen med åtgärder och uppföljning av
 åtgärders verkan. Hot och våld är en risk som vi har identi-
 fierat och jobbat extra mycket med, både med kartläggning,
@@ -14007,9 +13997,9 @@ nödvändigheten och möjligheten att effektivisera
 energianvändningen ur ett LCA-perspektiv.
 
 Vi skall ta steget mot ett ökat inslag av träbyggnation
-även konstruktionsmåssigt.
+även konstruktionsmässigt.
 
-Vi skall lägga vårt forus på att använda så lite energi
+Vi skall lägga vårt fokus på att använda så lite energi
 som möjligt ur ett livskostnadsperspektiv.
 
 Vi skall använda de energislag som ger minsta
@@ -22015,8 +22005,6 @@ Kungsbacka 23 oktober 2024
 Susanne Andersson (SD) Tobias Eriksson (SD)
 
 Anna-Karin Granber
-
-g/(SD) 7 Stefan.Jägnert (SD)
 
 Mats Dahl (SD) Per Hoel (SD) Marcus Lindälv (SD)
 

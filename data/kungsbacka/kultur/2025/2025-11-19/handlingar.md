@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe4edb/17630423952
 sha256: bbcdabb26fed915419fc001af6e8af8ab1e179c69d7ca0a3cbe59abdcc227a78
 bytes: 3498894
 sidor: 59
-hamtad: 2026-11-08T19:05:28+00:00
-konverterad: 2026-11-08T19:05:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:34:49+00:00
+konverterad: 2026-11-18T09:35:02+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1567,22 +1567,22 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 44-1](handlingar.tabeller/44-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 2 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: som besvärande för<br>informationssäkerhet; berörda intressenter och<br>skydd av information kommunen)<br>mot obehörig tillgång |
-|  | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-| Verksamhet | 5 Nämndspecifik risk: 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>utbetalt föreningsstöd som besvärande för<br>används för annat än berörda intressenter och<br>beviljat kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information<br>mot obehörig tillgång | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 Nämndspecifik risk:<br>utbetalt föreningsstöd<br>används för annat än<br>beviljat | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 44-45-2](handlingar.tabeller/44-45-2.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergrip Förvaltningen är<br>3. Kännbar<br>ande risk: följsam till<br>(uppfattas som<br>Efterlevnad till rekryteringsproces<br>besvärande för<br>rekryteringsproce 2. Mindre vanligt sen och är mycket<br>berörda<br>ssen noggrann med<br>intressenter och<br>referenstagning vid<br>kommunen)<br>anställning. |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip Förvaltningen har<br>ande risk: It- 3. Kännbar förhållandevis få<br>säkerhet - (uppfattas som IT-system, och har<br>Bristande besvärande för en god<br>2. Mindre vanligt<br>driftmiljö hos berörda implementering av<br>leverantörer intressenter och systemförvaltarmo<br>kommunen) dellen där även<br>risken ingår. |
-|  | Kommunövergrip Risken berör inte<br>ande risk: Risk Kultur & Fritids<br>att verksamheter i<br>samhällsutbyggn tillräckligt hög grad<br>ad inte kan ske i för att vara med i<br>planerad takt. Ny 3. Kännbar plan.<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| Verksamhet | Kommunövergrip Kultur & Fritids<br>ande risk: utmaning ligger<br>Dämpad framförallt i att<br>befolkningstillväx fortsätta vara<br>3. Kännbar<br>t med långsiktig relevant för<br>(uppfattas som<br>påverkan på invånarna, då<br>besvärande för<br>kommunala 2. Mindre vanligt invånarnas behov<br>berörda<br>verksamheter och förväntningar<br>intressenter och<br>sätter agendan för<br>kommunen)<br>Kultur & Fritids<br>verksamheter,<br>snarare än själva<br>antalet invånare. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Efterlevnad till<br>rekryteringsproce<br>ssen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen är<br>följsam till<br>rekryteringsproces<br>sen och är mycket<br>noggrann med<br>referenstagning vid<br>anställning. |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk: It-<br>säkerhet -<br>Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>förhållandevis få<br>IT-system, och har<br>en god<br>implementering av<br>systemförvaltarmo<br>dellen där även<br>risken ingår. |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbygg<br>nad av befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken berör inte<br>Kultur & Fritids<br>verksamheter i<br>tillräckligt hög grad<br>för att vara med i<br>plan. |
+| Verksamhet |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Kultur & Fritids<br>utmaning ligger<br>framförallt i att<br>fortsätta vara<br>relevant för<br>invånarna, då<br>invånarnas behov<br>och förväntningar<br>sätter agendan för<br>Kultur & Fritids<br>verksamheter,<br>snarare än själva<br>antalet invånare. |
 
 <!-- sida 45 -->
 

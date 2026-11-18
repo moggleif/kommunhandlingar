@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3f19ad5f18d548ea2e02bd6/17066084049
 sha256: a5a050a32693b8f345d2515811c976ed09c53b438dba3ead964cb177d2093665
 bytes: 4702635
 sidor: 86
-hamtad: 2026-11-08T20:29:34+00:00
-konverterad: 2026-11-08T20:29:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T11:10:57+00:00
+konverterad: 2026-11-18T11:11:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [14, 51, 58, 69, 70, 71, 85, 86]
 tolkade: []
@@ -167,13 +167,6 @@ Nämndens årsredovisning 2023
 
 Drift (belopp mnkr)
 
-Uppföljningsnivå (belopp i                                Budgetavvik
-Bokslut 2022 Budget 2023 Bokslut 2023
-mnkr)                                                      else 2023
-Valnämnden                        -1,4      -1,0      -0,3       0,7
-
-Summa                             -1,4      -1,0      -0,3       0,7
-
 Kommentarer
 Resultatet för valnämndens verksamhet ger ett budgetöverskott på 0,7 miljoner kronor då nämnden fått mer
 budget än grundbehovet kräver. Valnämnden bedriver ingen stor verksamhet år 2023 då det inte är valår
@@ -192,6 +185,14 @@ Ej aktuellt då underskott eller negativ resultatfond ej föreligger
 5
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
+
+| Uppföljningsnivå (belopp i<br>mnkr) |  | Bokslut 2022 | Budget 2023 | Bokslut 2023 | Budgetavvik<br>else 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Valnämnden |  | -1,4 | -1,0 | -0,3 | 0,7 |
+|  |  |  |  |  |  |
+| Summa |  | -1,4 | -1,0 | -0,3 | 0,7 |
+
+[Tabell 8-2](handlingar.tabeller/8-2.csv)
 
 | Nämnd (belopp i mnkr) | Prognos delår april | Prognos delår augusti | Bokslut 2023 |
 | --- | --- | --- | --- |
@@ -375,14 +376,15 @@ Personal inte aktuell för valnämnden.
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Processen för avslut Nej<br>av anställning säkerställer inte att alla<br>behörigheter till system, lokaler och andra<br>tillgångar avslutas. |
-| --- | --- |
-| Ekonomi | 2 Kommunövergripande risk: Redovisning av Ja<br>representation |
-|  | 3 Kommunövergripande risk: Debiteringsrutiner Ja |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 4 Kommunövergripande risk: Inköp (granskning Ja<br>begränsas till belopp över 100.000:-) |
-|  | 5 Kommunövergripande risk: Bristande hantering Ja<br>av delegationsbeslut |
-|  | 6 Kommunövergripande risk: Ja<br>informationssäkerhet; skydd av information mot<br>obehörig tillgång |
-| Verksamhet | 7 Kommunövergripande risk - Risk för korruption Ja |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Processen för avslut<br>av anställning säkerställer inte att alla<br>behörigheter till system, lokaler och andra<br>tillgångar avslutas. | Nej |
+| Ekonomi |  | 2 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+|  |  | 3 | Kommunövergripande risk: Debiteringsrutiner | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 4 | Kommunövergripande risk: Inköp (granskning<br>begränsas till belopp över 100.000:-) | Ja |
+|  |  | 5 | Kommunövergripande risk: Bristande hantering<br>av delegationsbeslut | Ja |
+|  |  | 6 | Kommunövergripande risk:<br>informationssäkerhet; skydd av information mot<br>obehörig tillgång | Ja |
+| Verksamhet |  | 7 | Kommunövergripande risk - Risk för korruption | Ja |
 
 <!-- sida 16 -->
 

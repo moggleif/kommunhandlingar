@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.687e3942192fee121355b3a9/1731329735
 sha256: 679be9de412d75d83eb2045b673d004dc1bd6c08a77b9be1e034cbaf553c79ec
 bytes: 5786955
 sidor: 105
-hamtad: 2026-11-08T19:56:15+00:00
-konverterad: 2026-11-08T19:56:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:34:44+00:00
+konverterad: 2026-11-18T10:35:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [93]
 figurer: [38, 93]
 tolkade: []
@@ -3025,12 +3025,6 @@ lösningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
 
-Indikator                         Målsättning 2025
-Andel innovationsprojekt som drivits under året Öka
-
-Andel av bruttokostnaden som avsätts för
-Öka
-innovationsarbete och digitalisering
 6.1.2 Direktiv - Civil beredskap
 Beslutats av
 Kommunfullmäktige
@@ -3044,6 +3038,13 @@ Civil beredskap handlar om förmågan att förebygga och hantera fredstida kriss
 krig. Förmågan skapas i hela samhället, hos myndigheter, kommuner, regioner, företag och frivilliga. Alla som
 
 17
+
+[Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| Indikator | Målsättning 2025 |
+| --- | --- |
+| Andel innovationsprojekt som drivits under året | Öka |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | Öka |
 
 <!-- sida 77 -->
 
@@ -3131,83 +3132,45 @@ Nämndbudget 2025
 
 7.1 Resursmått
 
-Utfall Utfall  Utfall
-Delområde Nyckeltal
-2023   2022    2023
-Kostnad
-70 419  66 654 70 419
-äldreomsorg, kr/inv 65+
-8 %    6,9 %   8 %
-Nettokostnadsavvikelse
-Resursmått Antal
-omsorgstagare i
-2 182  2 664   2 182
-verksamheten över 65
-år
-Antal patienter i
-2 780  1 994   2 780
-hemsjukvården
 7.2 Prestationsmått
 
-Delområde  Nyckeltal    Utfall 2022 Utfall 2023
-
-Antal
-lägenheter på
-694      704
-vård- och
-omsorgsboende
-Antal
-lägenheter för 62        60
-korttids/växelvård
-Prestationsmått
-Beläggningsgrad
-97 %      96 %
-vård- och
-omsorgsboende
-Antal timmar
-537 632  545 404
-hemtjänst
-Kö till vård-
-och            53        67
-omsorgsboende
 7.3 Effektmått
 
 20
+
+[Tabell 79-1](handlingar.tabeller/79-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2023 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- |
+| Resursmått | Kostnad<br>äldreomsorg, kr/inv 65+ | 70 419 | 66 654 | 70 419 |
+|  | Nettokostnadsavvikelse | 8 % | 6,9 % | 8 % |
+|  | Antal<br>omsorgstagare i<br>verksamheten över 65<br>år | 2 182 | 2 664 | 2 182 |
+|  | Antal patienter i<br>hemsjukvården | 2 780 | 1 994 | 2 780 |
+
+[Tabell 79-2](handlingar.tabeller/79-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- |
+| Prestationsmått | Antal<br>lägenheter på<br>vård- och<br>omsorgsboende | 694 | 704 |
+|  | Antal<br>lägenheter för<br>korttids/växelvård | 62 | 60 |
+|  | Beläggningsgrad<br>vård- och<br>omsorgsboende | 97 % | 96 % |
+|  | Antal timmar<br>hemtjänst | 537 632 | 545 404 |
+|  | Kö till vård-<br>och<br>omsorgsboende | 53 | 67 |
 
 <!-- sida 80 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2025
 
-Delområde    Nyckeltal  Utfall 2022 Utfall 2023 Utfall 2024
-Brukar
-personal i
-hemsjukvården
-Hemsjukvården alltid eller  -      98 %
-oftast bemöta
-dig på ett bra
-sätt?
-Andel som
-sammantaget
-är mycket eller
-ganska nöjda 74 %     76 %     76%
-med sitt
-Vad tycker de
-särskilda
-äldre om
-boende.
-äldreomsorgen?
-Enkätundersökning
-Andel som
-för de över 65 år
-sammantaget
-är mycket eller
-90 %       91 %
-ganska nöjda                   88%
-med sin
-hemtjänst.
-
 21
+
+[Tabell 80-1](handlingar.tabeller/80-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Hemsjukvården | Brukar<br>personal i<br>hemsjukvården<br>alltid eller<br>oftast bemöta<br>dig på ett bra<br>sätt? | - | 98 % |  |
+| Vad tycker de<br>äldre om<br>äldreomsorgen?<br>Enkätundersökning<br>för de över 65 år | Andel som<br>sammantaget<br>är mycket eller<br>ganska nöjda<br>med sitt<br>särskilda<br>boende. | 74 % | 76 % | 76% |
+|  | Andel som<br>sammantaget<br>är mycket eller<br>ganska nöjda<br>med sin<br>hemtjänst. | 90 % | 91 % | 88% |
 
 <!-- sida 81 -->
 
@@ -3218,69 +3181,45 @@ Nämndbudget 2025
 
 8.1 Personalmått
 
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023
-Andel heltid         62,3 %  62,6 %    67,4 %
-
-Andel män som har heltid 81,4 % 74 %   79,2 %
-Medarbetare 40 - 49 år 19,4 % 18,5 %   19,4 %
-Medarbetare 50 - 59 år 31 %  29 %      28,6 %
-
-Medarbetare 60 år och äldre 11,9 % 12,5 % 13,7 %
-
-```osaker-tabell
-Sjukfrånvaro Totalt   9,6 %  10,1 %    10 %
-
-Sjukfrånvaro Kvinnor  9,8 %  10,5 %    10,3 %
-Sjukfrånvaro Män      7 %    6,4 %     7,5 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 36,9 % 34 % 34,8 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 37,6 % 35,2 % 36,1 %
-mer Kvinnor
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 28,1 % 18,1 % 22 %
-mer Män
-
-```osaker-tabell
-Frisknärvaro         41,3 %  36,8 %    38,9 %
-Frisknärvaro Kvinnor 40,6 %  35,5 %    37,6 %
-
-Frisknärvaro Män     50,4 %  48,1 %    48,5 %
-Anställda totalt      1 300  1 397     1 429
-```
-
-Anställda andel kvinnor 89,9 % 88,9 %  87,8 %
-
-Anställda andel män  10,2 %  11,1 %    12,2 %
-Korttidssjukfrånvaro Kvinnor 4,8 % 5,6 % 5,2 %
-Korttidssjukfrånvaro Män 4,4 % 4,8 %   5,1 %
-
-Långtidssjukfrånvaro  4,8 %  4,6 %     4,8 %
-Långtidssjukfrånvaro Kvinnor 5 % 4,9 % 5,1 %
-
-Långtidssjukfrånvaro Män 2,6 % 1,6 %   2,4 %
-Korttidssjukfrånvaro  4,8 %  5,5 %     5,2 %
-
 22
+
+[Tabell 81-82-1](handlingar.tabeller/81-82-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- |
+| Andel heltid | 62,3 % | 62,6 % | 67,4 % |
+| Andel män som har heltid | 81,4 % | 74 % | 79,2 % |
+| Medarbetare 40 - 49 år | 19,4 % | 18,5 % | 19,4 % |
+| Medarbetare 50 - 59 år | 31 % | 29 % | 28,6 % |
+| Medarbetare 60 år och äldre | 11,9 % | 12,5 % | 13,7 % |
+| Sjukfrånvaro Totalt | 9,6 % | 10,1 % | 10 % |
+| Sjukfrånvaro Kvinnor | 9,8 % | 10,5 % | 10,3 % |
+| Sjukfrånvaro Män | 7 % | 6,4 % | 7,5 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 36,9 % | 34 % | 34,8 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 37,6 % | 35,2 % | 36,1 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 28,1 % | 18,1 % | 22 % |
+| Frisknärvaro | 41,3 % | 36,8 % | 38,9 % |
+| Frisknärvaro Kvinnor | 40,6 % | 35,5 % | 37,6 % |
+| Frisknärvaro Män | 50,4 % | 48,1 % | 48,5 % |
+| Anställda totalt | 1 300 | 1 397 | 1 429 |
+| Anställda andel kvinnor | 89,9 % | 88,9 % | 87,8 % |
+| Anställda andel män | 10,2 % | 11,1 % | 12,2 % |
+| Korttidssjukfrånvaro Kvinnor | 4,8 % | 5,6 % | 5,2 % |
+| Korttidssjukfrånvaro Män | 4,4 % | 4,8 % | 5,1 % |
+| Långtidssjukfrånvaro | 4,8 % | 4,6 % | 4,8 % |
+| Långtidssjukfrånvaro Kvinnor | 5 % | 4,9 % | 5,1 % |
+| Långtidssjukfrånvaro Män | 2,6 % | 1,6 % | 2,4 % |
+| Korttidssjukfrånvaro | 4,8 % | 5,5 % | 5,2 % |
+| Antal medarbetare per<br>enhetschef | 28,4 | 27,9 | 25,3 |
+| Personalomsättning | 12,6 % | 14,1 % | 16,4 % |
+| Medarbetare yngre än 30 år | 15,7 % | 17 % | 16,7 % |
+| Medelålder | 44 | 44 | 44 |
+| Medarbetare 30 - 39 år | 22,1 % | 23 % | 21,6 % |
 
 <!-- sida 82 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2025
-
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023
-Antal medarbetare per
-28,4   27,9      25,3
-enhetschef
-Personalomsättning   12,6 %  14,1 %    16,4 %
-Medarbetare yngre än 30 år 15,7 % 17 % 16,7 %
-Medelålder             44    44        44
-
-Medarbetare 30 - 39 år 22,1 % 23 %     21,6 %
 
 8.2 Arbetsmiljö
 
@@ -3452,95 +3391,85 @@ Nämndbudget 2025
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                      KF 2021-04-13 § 68
-Reglemente nämnden för Vård & Omsorg                 KF 2023-02-07 § 8
-Upphandling, policy                                 KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                          KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-
 10.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                       Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
 27
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Reglemente nämnden för Vård & Omsorg | KF 2023-02-07 § 8 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+
+[Tabell 86-87-2](handlingar.tabeller/86-87-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Fakturering och kravhantering, regler | KS 2024-03-19 § 90 |
 
 <!-- sida 87 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                       Beslutande paragraf/År
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Fakturering och kravhantering, regler               KS 2024-03-19 § 90
 10.1.3 Styrdokument beslutade av nämnden för Vård & Omsorg
-
-Styrdokument                                       Beslutande paragraf/År
-Delegeringsförteckning                              NVO 24-09-05 § 103
-
-Ledningssystem för systematiskt kvalitetsarbete     NVO 24-06-12 § 90
-Lokalbehov 2026-2030, utblicksår 2031-2035          NVO 24-09-19 §114
-
-Nämndbudget 2024                                       NVO 2023
-Investeringsplan 2025-2034                          NVO 2023-02-16 § 12
-Förfrågningsunderlag LOV                            NVO 2018-04-18 §43
-
-Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i
-NVO 2018-09-19 § 78
-Kungsbacka kommun
-Arkivbeskrivning 2022                               NVO 2022-05-11 § 52
-Intern kontrollplan 2024                            NVO 24-02-22 § 22
-Klassificeringsstruktur                             NVO 23-11-16 § 134
-Informationshanteringsplan                          NVO 23-11-16 § 134
 
 10.2 Taxa
 
 10.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Patientavgifter inom hemsjukvården, taxa            KF 2020-04-14 § 31
-Taxa för vård och omsorg                            KF 2022-10-18 § 159
-
 28
+
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | NVO 24-09-05 § 103 |
+| Ledningssystem för systematiskt kvalitetsarbete | NVO 24-06-12 § 90 |
+| Lokalbehov 2026-2030, utblicksår 2031-2035 | NVO 24-09-19 §114 |
+| Nämndbudget 2024 | NVO 2023 |
+| Investeringsplan 2025-2034 | NVO 2023-02-16 § 12 |
+| Förfrågningsunderlag LOV | NVO 2018-04-18 §43 |
+| Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i<br>Kungsbacka kommun | NVO 2018-09-19 § 78 |
+| Arkivbeskrivning 2022 | NVO 2022-05-11 § 52 |
+| Intern kontrollplan 2024 | NVO 24-02-22 § 22 |
+| Klassificeringsstruktur | NVO 23-11-16 § 134 |
+| Informationshanteringsplan | NVO 23-11-16 § 134 |
+
+[Tabell 87-2](handlingar.tabeller/87-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Patientavgifter inom hemsjukvården, taxa | KF 2020-04-14 § 31 |
+| Taxa för vård och omsorg | KF 2022-10-18 § 159 |
 
 <!-- sida 88 -->
 
@@ -3788,10 +3717,6 @@ med slutsatser utifrån dokumenterade effekter på arbetsmiljörelaterade faktor
 sömn, sjukfrånvaro och andra relaterade faktorer.
 
 Kommunfullmäktigeledamöter
-
-G | Zz FX
-
-; — ; SJ )
 
 C i Kort Ern i REA ee
 Ermin-Skoric (5) Åsbo Rate SME SS

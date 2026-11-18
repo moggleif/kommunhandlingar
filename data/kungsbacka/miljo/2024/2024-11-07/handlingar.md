@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7241f4f2192bd482d57a4c03/1730454583
 sha256: 6c0959141573b865cdf9561ea002af223db51eb903eaa5d854578d4ab7d4a331
 bytes: 6202986
 sidor: 329
-hamtad: 2026-11-08T19:32:19+00:00
-konverterad: 2026-11-08T19:33:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:03:59+00:00
+konverterad: 2026-11-18T10:05:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1548,11 +1548,14 @@ Informationshanteringsplan                      Sida 31 av 182
 | Process: | Prövning anläggning för bad, disk och tvätt |  |  |  |  |
 | Processnummer: | 7.5.4.1 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan med bilagor<br>kommer in och en<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Bevaras |  |
-|  | Fullmakt | EDP Vision | Digitalt | Bevaras |  |
+| Ansökan med bilagor | Ansökan | EDP Vision | Digitalt | Bevaras |  |
+| kommer in och en | Fullmakt | EDP Vision | Digitalt | Bevaras |  |
+| mottagningsbekräftelse |  |  |  |  |  |
 |  | Situationsplan | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
+| skickas ut |  |  |  |  |  |
 |  | Profilskiss | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
-|  | Produktspecifikation/<br>broschyr | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
+|  | Produktspecifikation/ | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
+|  | broschyr |  |  |  |  |
 |  | Prestandadeklaration | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
 |  | Testrapport | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
 |  | Användarmanual | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
@@ -1564,32 +1567,54 @@ Informationshanteringsplan                      Sida 31 av 182
 |  | Serviceavtal | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
 |  | Utredning | EDP Vision | Digitalt | Bevaras | Senast gällande version. |
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 10 år |  |
-| Hålla informationsmöte<br>med sökande | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Utreda | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 10 år |  |
+|  |  |  |  |  |  |
+| Hålla informationsmöte | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+| med sökande |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Utreda | Begäran om yttrande/ | EDP Vision | Digitalt | 10 år |  |
+|  | remiss |  |  |  |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
 |  | Grundvattenrapport | EDP Vision | Digitalt | 10 år |  |
 |  | Provgropsprotokoll | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta och skicka ut<br>tidkort | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| nekande beslut och svar | förvaltningslagen |  |  |  |  |
+| kommer in från sökanden |  |  |  |  |  |
+| Besluta och skicka ut | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | enligt förvaltningslagen |  |  |  |  |
 |  | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | Bevaras |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Redovisning kommer in | Utförandeintyg och<br>kontrollplan | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | Bevaras |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Redovisning kommer in | Utförandeintyg och | EDP Vision | Digitalt | Bevaras |  |
+|  | kontrollplan |  |  |  |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Driftsättningsprotokoll | EDP Vision | Digitalt | Bevaras |  |
 |  | Serviceavtal | EDP Vision | Digitalt | Bevaras | Senast gällande. |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skicka ut intyg om ny<br>avloppsanläggning till<br>sökande | Intyg | EDP Vision | Digitalt | Bevaras |  |
-| Skicka ut intyg om ny<br>avloppsanläggning och<br>slamsugning till teknik | Intyg | EDP Vision | Digitalt | Bevaras |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skicka ut intyg om ny | Intyg | EDP Vision | Digitalt | Bevaras |  |
+| avloppsanläggning till |  |  |  |  |  |
+| sökande |  |  |  |  |  |
+| Skicka ut intyg om ny | Intyg | EDP Vision | Digitalt | Bevaras |  |
+| avloppsanläggning och |  |  |  |  |  |
+| slamsugning till teknik |  |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 59 -->
 
@@ -1678,19 +1703,59 @@ Informationshanteringsplan                      Sida 37 av 182
 | Process: | Prövning djurhållning inom detaljplanelagt område |  |  |  |  |
 | Processnummer: | 7.5.4.03 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan med bilagor<br>kommer in och<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Ritning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-| Utreda | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Yttrande/remissvar | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
-|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och<br>djurhållningen pågår. Vid nekande eller<br>återtagande av ansökan gallras handlingen<br>efter 10 år. |
+| Ansökan med bilagor | Ansökan | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+| kommer in och |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+| mottagningsbekräftelse |  |  |  |  | återtagande av ansökan gallras handlingen |
+| skickas ut |  |  |  |  | efter 10 år. |
+|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Ritning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+| Utreda | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Begäran om yttrande/ | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  | remiss |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Yttrande/remissvar | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  |  |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
+|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge tillståndet gäller och |
+|  |  |  |  |  | djurhållningen pågår. Vid nekande eller |
+|  |  |  |  |  | återtagande av ansökan gallras handlingen |
+|  |  |  |  |  | efter 10 år. |
 | Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
 | Besluta | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
@@ -1751,9 +1816,10 @@ Informationshanteringsplan                      Sida 41 av 182
 | Process: | Prövning verksamhet eller åtgärd inom vattenskyddsområde |  |  |  |  |
 | Processnummer: | 7.5.4.05 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan/Anmälan med<br>bilagor kommer in och<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Bevaras | Vissa åtgärder kräver tillstånd, för vissa<br>räcker anmälan. |
-|  | Anmälan | EDP Vision | Digitalt | Bevaras |  |
-|  | Mottagningsbekräftelse | EDP Vision | Digitalt | 5 år |  |
+| Ansökan/Anmälan med | Ansökan | EDP Vision | Digitalt | Bevaras | Vissa åtgärder kräver tillstånd, för vissa |
+| bilagor kommer in och |  |  |  |  | räcker anmälan. |
+| mottagningsbekräftelse | Anmälan | EDP Vision | Digitalt | Bevaras |  |
+| skickas ut | Mottagningsbekräftelse | EDP Vision | Digitalt | 5 år |  |
 |  | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Släckvattenutredning | EDP Vision | Digitalt | Bevaras |  |
 |  | Egenkontroll | EDP Vision | Digitalt | Bevaras |  |
@@ -1763,17 +1829,25 @@ Informationshanteringsplan                      Sida 41 av 182
 |  | Ritning | EDP Vision | Digitalt | Bevaras |  |
 |  | Analysresultat | EDP Vision | Digitalt | Bevaras |  |
 | Granska | Begäran om komplettering | EDP Vision | Digitalt | 5 år |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Begäran om yttrande/<br>remiss | EDP Vision | Digitalt | 5 år |  |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Begäran om yttrande/ | EDP Vision | Digitalt | 5 år |  |
+|  | remiss |  |  |  |  |
 |  | Yttrande/remissvar | EDP Vision | Digitalt | Bevaras |  |
 |  | Synpunkter | EDP Vision | Digitalt | Bevaras |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Besluta samt skicka ut<br>tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Besluta samt skicka ut | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Tidkort | EDP Vision | Digitalt | 5 år |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 69 -->
@@ -1793,23 +1867,52 @@ Informationshanteringsplan                      Sida 43 av 182
 | Process: | Prövning dispens för slamtömning |  |  |  |  |
 | Processnummer: | 7.5.5.01 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan kommer in och<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-| U treda | Tjänsteanteckning | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Korrespondens | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Kartbild | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>nekande beslut och svar<br>kommer in från sökanden | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| Ansökan kommer in och | Ansökan | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+| mottagningsbekräftelse |  |  |  |  | nekande eller återtagande av ansökan gallras |
+| skickas ut |  |  |  |  | handlingen efter 10 år. |
+|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+| U treda | Tjänsteanteckning | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Korrespondens | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Kartbild | EDP Vision | Digitalt | S e anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Karta | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+|  | förvaltningslagen |  |  |  |  |
+| Skicka underrättelse inför | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| nekande beslut och svar | enligt förvaltningslagen |  |  |  |  |
+| kommer in från sökanden |  |  |  |  |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid<br>nekande eller återtagande av ansökan gallras<br>handlingen efter 10 år. |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+|  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Bevaras så länge dispensen är gällande. Vid |
+|  |  |  |  |  | nekande eller återtagande av ansökan gallras |
+|  |  |  |  |  | handlingen efter 10 år. |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 71 -->
 
@@ -1828,22 +1931,38 @@ Informationshanteringsplan                      Sida 45 av 182
 | Process: | Prövning förlängd tid för att utföra beslutad åtgärd |  |  |  |  |
 | Processnummer: | 7.5.5.02 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan kommer in och<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| U treda | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Medlemsförteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Läkarutlåtande | EDP Vision | Digital | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Ekonomisk redovisning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Karta | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| Besluta samt skicka ut<br>t idkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-|  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| Ansökan kommer in och | Ansökan | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+| mottagningsbekräftelse |  |  |  |  | avloppsanläggningen har uppfyllts. |
+| skickas ut |  |  |  |  |  |
+|  | Mottagningsbekräftelse | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+| U treda | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Medlemsförteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Läkarutlåtande | EDP Vision | Digital | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Ekonomisk redovisning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+| Utföra platsbesök | Rapport | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Karta | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| t idkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+|  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på |
+|  |  |  |  |  | avloppsanläggningen har uppfyllts. |
+| Delge beslut och signerat | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när åtgärd genomförts och krav på<br>avloppsanläggningen har uppfyllts. |
+| delgivningskvitto kommer |  |  |  |  |  |
+| in |  |  |  |  |  |
 | Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
 |  | Radering av anteckning hos<br>Inskrivningsmyndigheten | EDP Vision | Digitalt | Bevaras |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
@@ -1870,14 +1989,19 @@ Informationshanteringsplan                      Sida 47 av 182
 |  | Växtodlingsplan | EDP Vision | Digitalt | 20 år |  |
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 20 år |  |
 | Granska | Begäran om komplettering | EDP Vision | Digitalt | 20 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 20 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 20 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | 20 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 20 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Inspektionsrapport | EDP Vision | Digitalt | 20 år |  |
-| Besluta samt skicka ut<br>tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | 20 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 20 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 20 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Besluta samt skicka ut | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Tidkort | EDP Vision | Digitalt | 20 år |  |
+|  |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 20 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 20 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 75 -->
 
@@ -1892,16 +2016,26 @@ Informationshanteringsplan                      Sida 48 av 182
 | Process: | Prövning dispens årlig tömning av oljeavskiljare |  |  |  |  |
 | Processnummer: | 7.5.5.05 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Ansökan med bilagor<br>kommer in och<br>mottagningsbekräftelse<br>skickas ut | Ansökan | EDP Vision | Digitalt | Bevaras |  |
+| Ansökan med bilagor | Ansökan | EDP Vision | Digitalt | Bevaras |  |
+| kommer in och |  |  |  |  |  |
+| mottagningsbekräftelse |  |  |  |  |  |
 |  | 5-årsbesiktning | EDP Vision | Digitalt | Bevaras |  |
+| skickas ut |  |  |  |  |  |
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 5 år |  |
-| Granska | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Besluta samt skicka ut<br>tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Granska | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Besluta samt skicka ut | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Tidkort | EDP Vision | Digitalt | 5 år |  |
+|  |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 76 -->
 
@@ -2019,25 +2153,29 @@ Informationshanteringsplan                      Sida 54 av 182
 | Process: | Tillsyn av små avloppsanläggningar |  |  |  |  |
 | Processnummer: | 7.5.6.01 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Information skickas ut<br>inför tillsyn | Information | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+| Information skickas ut | Information | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+| inför tillsyn |  |  |  |  |  |
 |  | Bokning | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 | Utföra tillsyn | Rapport | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Karta | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
-| Utreda | Redovisning<br>avloppsanläggning | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+| Utreda | Redovisning | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
+|  | avloppsanläggning |  |  |  |  |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Egenkontroll | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Utförda åtgärder | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Analysresultat | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Servicerapport | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
-|  | Historisk<br>tillståndshandling | EDP Vision | Digitalt | Se anmärkning | Bevaras om relevant för beslut annars<br>gallras när anläggningen har upphört. |
+|  | Historisk | EDP Vision | Digitalt | Se anmärkning | Bevaras om relevant för beslut annars |
+|  | tillståndshandling |  |  |  | gallras när anläggningen har upphört. |
 |  | Fotografi | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 | Skicka underrättelse inför<br>beslut och svar kommer in<br>från verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 |  | Delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | Se anmärkning | Gallras när anläggningen har upphört. |
@@ -2069,9 +2207,13 @@ Informationshanteringsplan                      Sida 56 av 182
 |  | Analysresultat | EDP Vision | Digitalt | Bevaras |  |
 |  | Provtagningsplan | EDP Vision | Digitalt | Bevaras |  |
 |  | Miljöteknisk markundersökning | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+|  | förvaltningslagen |  |  |  |  |
+|  | Svar på kommunicering enligt | EDP Vision | Digitalt | Bevaras |  |
+|  | förvaltningslagen |  |  |  |  |
 | Besluta samt skicka ut tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
@@ -2093,7 +2235,9 @@ Informationshanteringsplan                      Sida 57 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Begära redovisning och<br>redovisning kommer in | Begäran om uppgift | EDP Vision | Digitalt | 5 år |  |
 |  | Svar | EDP Vision | Digitalt | Bevaras |  |
-| Kommunicera med<br>verksamhetsutövare | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Kommunicera med | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| verksamhetsutövare |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 
 <!-- sida 85 -->
 
@@ -2108,8 +2252,11 @@ Informationshanteringsplan                      Sida 58 av 182
 | Process: | Granskning av kontrollprogram |  |  |  |  |
 | Processnummer: | 7.5.6.04 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Verksamhetsutövare<br>skickar in kontrollprogram | Egenkontrollprogram | EDP Vision | Digitalt | Bevaras |  |
-| Kommunicera med<br>verksamhetsutövare | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Verksamhetsutövare | Egenkontrollprogram | EDP Vision | Digitalt | Bevaras |  |
+| skickar in kontrollprogram |  |  |  |  |  |
+| Kommunicera med | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| verksamhetsutövare |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 86 -->
@@ -2126,7 +2273,9 @@ Informationshanteringsplan                      Sida 59 av 182
 | Processnummer: | 7.5.6.05 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Verksamhetsutövare<br>skickar in kontrollrapport | Kontrollrapport | EDP Vision | Digitalt | Bevaras |  |
-| Kommunicera med<br>verksamhetsutövare | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Kommunicera med | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| verksamhetsutövare |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 87 -->
@@ -2147,12 +2296,22 @@ Informationshanteringsplan                      Sida 60 av 182
 |  | Skrotningsintyg | EDP Vision | Digitalt | 10 år |  |
 |  | Anmälan nytt aggregat | EDP Vision | Digitalt | 10 år |  |
 |  | Årsrapport | EDP Vision | Digitalt | 10 år |  |
-| Granska | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Granska | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skicka underrättelse inför<br>beslut om<br>miljösanktionsavgift och<br>svar kommer in från<br>sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
-| Besluta om godkänd<br>rapport eller<br>miljösanktionsavgift och<br>avgift för handläggning | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 10 år |  |
+| beslut om | förvaltningslagen |  |  |  |  |
+| miljösanktionsavgift och |  |  |  |  |  |
+|  | Svar på kommunicering | EDP Vision | Digitalt | 10 år |  |
+| svar kommer in från |  |  |  |  |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| sökanden |  |  |  |  |  |
+| Besluta om godkänd | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| rapport eller |  |  |  |  |  |
+| miljösanktionsavgift och |  |  |  |  |  |
+| avgift för handläggning |  |  |  |  |  |
 |  | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 10 år |  |
@@ -2176,14 +2335,21 @@ Informationshanteringsplan                      Sida 62 av 182
 | Processnummer: | 7.5.6.07 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Verksamhetsutövare<br>skickar in miljörapport | Rapport | EDP Vision | Digitalt | Bevaras |  |
-| Kommunicera med<br>verksamhetsutövare | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Kommunicera med | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| verksamhetsutövare |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Kvitto från SMP | EDP Vision | Digitalt | 5 år | Svenska miljörapporteringsportalen. |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från sökanden | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta om | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| miljösanktionsavgift |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Underrättelse till | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| kammarkollegiet |  |  |  |  |  |
 
 <!-- sida 90 -->
 
@@ -2199,10 +2365,16 @@ Informationshanteringsplan                      Sida 63 av 182
 | Processnummer: | 7.5.6.08 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Information om kommande<br>periodisk besiktning<br>inkommer | Information | EDP Vision | Digitalt | 5 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-| Rapport inkommer från<br>den periodiska<br>besiktningen | Rapport | EDP Vision | Digitalt | Bevaras |  |
-| Återkoppla till<br>verksamhetsutövaren | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Rapport inkommer från | Rapport | EDP Vision | Digitalt | Bevaras |  |
+| den periodiska |  |  |  |  |  |
+| besiktningen |  |  |  |  |  |
+| Återkoppla till | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| verksamhetsutövaren |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 91 -->
@@ -2218,18 +2390,27 @@ Informationshanteringsplan                      Sida 64 av 182
 | Process: | Rapportering – Installation av cistern |  |  |  |  |
 | Processnummer: | 7.5.6.10 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anmälan med bilagor<br>kommer in och<br>mottagningsbekräftelse<br>skickas ut | Anmälan | EDP Vision | Digitalt | Bevaras | Bevaras med anledning av eventuella<br>framtida utredningar om misstänkt<br>förorenade områden. |
-|  | Installationsprotokoll | EDP Vision | Digitalt | Bevaras |  |
+| Anmälan med bilagor | Anmälan | EDP Vision | Digitalt | Bevaras | Bevaras med anledning av eventuella |
+| kommer in och |  |  |  |  | framtida utredningar om misstänkt |
+| mottagningsbekräftelse |  |  |  |  | förorenade områden. |
+| skickas ut | Installationsprotokoll | EDP Vision | Digitalt | Bevaras |  |
 |  | Kontrollrapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Situationsplan | EDP Vision | Digitalt | Bevaras |  |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
 |  | Mottagningsbekräftelse | EDP Vision | Digitalt | 5 år |  |
-| G ranska | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| G ranska | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Begäran om komplettering | EDP Vision | Digitalt | 5 år |  |
-| Skicka underrättelse inför<br>beslut om<br>miljösanktionsavgift och<br>svar kommer in från<br>sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta om<br>försiktighetsmått | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut om | förvaltningslagen |  |  |  |  |
+| miljösanktionsavgift och | Svar på kommunicering enligt | EDP Vision | Digitalt | Bevaras |  |
+| svar kommer in från | förvaltningslagen |  |  |  |  |
+| sökanden |  |  |  |  |  |
+| Besluta om | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| försiktighetsmått |  |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 | Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
@@ -2252,11 +2433,15 @@ Informationshanteringsplan                      Sida 66 av 182
 | Process: | Rapportering – Cistern som tagits ur bruk |  |  |  |  |
 | Processnummer: | 7.5.6.11 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anmälan om borttagning<br>inkommer | Anmälan | EDP Vision | Digitalt | Bevaras |  |
+| Anmälan om borttagning | Anmälan | EDP Vision | Digitalt | Bevaras |  |
+| inkommer |  |  |  |  |  |
 |  | Borttagningsintyg | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Avgiftsbeslut tas, anmälan<br>godkänns eller icke<br>godkänns | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Avgiftsbeslut tas, anmälan | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| godkänns eller icke | Bekräftelse | EDP Vision | Digitalt | Bevaras |  |
+| godkänns |  |  |  |  |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
@@ -2274,12 +2459,15 @@ Informationshanteringsplan                      Sida 67 av 182
 | Process: | Rapportering - Skrotning av stationär kyl/värmeanläggning |  |  |  |  |
 | Processnummer: | 7.5.6.12 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skrotningsintyg och bilaga<br>kommer in | Skrotningsintyg | EDP Vision | Digitalt | 10 år |  |
-|  | Aggregatförteckning | EDP Vision | Digitalt | 10 år |  |
-| Begära komplettering och<br>svar kommer in | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Svar på begäran | EDP Vision | Digitalt | 10 år |  |
-| Granska | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skicka bekräftelse till<br>verksamhetsutövaren om<br>att ärendet avslutas | Bekräftelse | EDP Vision | Digitalt | 10 år |  |
+| Skrotningsintyg och bilaga | Skrotningsintyg | EDP Vision | Digitalt | 10 år |  |
+| kommer in | Aggregatförteckning | EDP Vision | Digitalt | 10 år |  |
+| Begära komplettering och | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
+| svar kommer in | Svar på begäran | EDP Vision | Digitalt | 10 år |  |
+| Granska | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skicka bekräftelse till | Bekräftelse | EDP Vision | Digitalt | 10 år |  |
+| verksamhetsutövaren om |  |  |  |  |  |
+| att ärendet avslutas |  |  |  |  |  |
 
 <!-- sida 95 -->
 
@@ -2298,9 +2486,12 @@ Informationshanteringsplan                      Sida 68 av 182
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
 |  | Produktblad | EDP Vision | Digitalt | Bevaras |  |
 |  | Informationsblad | EDP Vision | Digitalt | Bevaras |  |
-|  | Rapport | EDP Vision | Digitalt | Bevaras | Exempelvis saneringsrapport,<br>laboratorierapport |
+|  | Rapport | EDP Vision | Digitalt | Bevaras | Exempelvis saneringsrapport, |
+|  |  |  |  |  | laboratorierapport |
 |  | Analysresultat | EDP Vision | Digitalt | Bevaras |  |
-| Skicka ut bekräftelse eller<br>kommunicera gällande<br>inkommen rapportering | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Skicka ut bekräftelse eller | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+| kommunicera gällande |  |  |  |  | Korrespondens av ringa eller tillfällig |
+| inkommen rapportering |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 96 -->
@@ -2322,7 +2513,9 @@ Informationshanteringsplan                      Sida 69 av 182
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Analysresultat | EDP Vision | Digitalt | Bevaras |  |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Återkoppla | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 97 -->
@@ -2340,25 +2533,43 @@ Informationshanteringsplan                      Sida 70 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Boka besök | Bokning | EDP Vision | Digitalt | 5 år |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Rapport | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från sökanden | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-| Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
+| Besluta om | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| miljösanktionsavgift |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Underrättelse till | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| kammarkollegiet |  |  |  |  |  |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| annan |  |  |  |  |  |
+| åklagarmyndigheten |  |  |  |  |  |
 
 <!-- sida 98 -->
 
@@ -2379,16 +2590,22 @@ Informationshanteringsplan                      Sida 72 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Skicka ut information om<br>kommande tillsyn | Information | EDP Vision | Digitalt | 5 år |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Information | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
 | Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
 
 <!-- sida 100 -->
@@ -2406,25 +2623,43 @@ Informationshanteringsplan                      Sida 73 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Boka besök | Bokning | EDP Vision | Digitalt | 5 år |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Rapport | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från sökanden | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-| Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
+| Besluta om | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| miljösanktionsavgift |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Underrättelse till | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| kammarkollegiet |  |  |  |  |  |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| annan |  |  |  |  |  |
+| åklagarmyndigheten |  |  |  |  |  |
 
 <!-- sida 101 -->
 
@@ -2445,25 +2680,43 @@ Informationshanteringsplan                      Sida 75 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Boka uppföljande besök | Bokning | EDP Vision | Digitalt | 5 år |  |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Rapportera efter besök | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Rapport | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från sökanden | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
-| Besluta om<br>miljösanktionsavgift | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Underrättelse till<br>kammarkollegiet | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
+| Besluta om | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| miljösanktionsavgift |  |  |  |  |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Underrättelse till | Underrättelse | EDP Vision | Digitalt | 5 år |  |
+| kammarkollegiet |  |  |  |  |  |
 | Åtalsanmälan | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
 |  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Beslut för kännedom från<br>annan<br>åklagarmyndigheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Beslut för kännedom från | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| annan |  |  |  |  |  |
+| åklagarmyndigheten |  |  |  |  |  |
 
 <!-- sida 103 -->
 
@@ -2560,8 +2813,10 @@ Informationshanteringsplan                      Sida 81 av 182
 | Processnummer: | 7.5.6.21 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Årsrapport kommer in | Årsrapport | EDP Vision | Digitalt | Bevaras |  |
-| Skicka ut bekräftelse på<br>inkommen årsrapport<br>alternativt<br>kompletteringsåtgärder | Begäran om komplettering | EDP Vision | Digitalt | 5 år |  |
-|  | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
+| Skicka ut bekräftelse på | Begäran om komplettering | EDP Vision | Digitalt | 5 år |  |
+| inkommen årsrapport | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
+| alternativt |  |  |  |  |  |
+| kompletteringsåtgärder |  |  |  |  |  |
 
 <!-- sida 109 -->
 
@@ -2576,7 +2831,8 @@ Informationshanteringsplan                      Sida 82 av 182
 | Process: | Tillstånd miljöfarlig verksamhet (extern myndighet) |  |  |  |  |
 | Processnummer: | 7.5.6.22 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Beslut för kännedom<br>inkommer | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Beslut för kännedom | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| inkommer |  |  |  |  |  |
 
 <!-- sida 110 -->
 
@@ -2591,11 +2847,14 @@ Informationshanteringsplan                      Sida 83 av 182
 | Process: | Samråd inför tillståndsansökan miljöbalken |  |  |  |  |
 | Processnummer: | 7.5.6.23 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Information/förfrågan om<br>samråd inkommer | Information | EDP Vision | Digitalt | 5 år |  |
-| Göra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Information/förfrågan om | Information | EDP Vision | Digitalt | 5 år |  |
+| samråd inkommer |  |  |  |  |  |
+| Göra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Karta | EDP Vision | Digitalt | 5 år |  |
 |  | Fotografier | EDP Vision | Digitalt | 5 år |  |
-| Återrapportera | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Återrapportera | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 
 <!-- sida 111 -->
 
@@ -2610,10 +2869,13 @@ Informationshanteringsplan                      Sida 84 av 182
 | Process: | Information om förbränningsanläggning |  |  |  |  |
 | Processnummer: | 7.5.6.24 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Anmälan med bilagor<br>kommer in | Anmälan | EDP Vision | Digitalt | Bevaras |  |
+| Anmälan med bilagor | Anmälan | EDP Vision | Digitalt | Bevaras |  |
+| kommer in |  |  |  |  |  |
 |  | Fullmakt | EDP Vision | Digitalt | Bevaras |  |
 |  | Karta | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Bekräftelse skickas ut | Bekräftelse | EDP Vision | Digitalt | 5 år |  |
 
 <!-- sida 112 -->
@@ -2631,7 +2893,8 @@ Informationshanteringsplan                      Sida 85 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
@@ -2639,30 +2902,43 @@ Informationshanteringsplan                      Sida 85 av 182
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Förändring av verksamhet | EDP Vision | Digitalt | 10 år |  |
 |  | Handtvättställ i<br>behandlingsutrymme | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra<br>skador så som ärrbildningar. |
+|  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra |
+|  |  |  |  |  | skador så som ärrbildningar. |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
-|  | Rengöring, desinfektion<br>och sterilisering | EDP Vision | Digitalt | 10 år |  |
+|  | Rengöring, desinfektion | EDP Vision | Digitalt | 10 år |  |
+|  | och sterilisering |  |  |  |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
-|  | Utslagsvask för<br>fotbadsvatten | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Dokumenterad<br>egenkontroll | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision |  | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+|  | Utslagsvask för | EDP Vision | Digitalt | 10 år |  |
+|  | fotbadsvatten |  |  |  |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Dokumenterad | EDP Vision | Digitalt | 10 år |  |
+|  | egenkontroll |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och | Tidkort | EDP Vision |  | 10 år |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande | förvaltningslagen |  |  |  |  |
+| och svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 | Verksamhetsområde: | Hantera ärenden enligt miljöbalken |  |  |  |  |
 | Processgrupp: | Utöva tillsyn enligt miljöbalken – Hälsoskydd |  |  |  |  |
 | Process: | Tillsyn av hygienisk verksamhet |  |  |  |  |
@@ -2670,36 +2946,51 @@ Informationshanteringsplan                      Sida 85 av 182
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Förändring av verksamhet | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra<br>skador så som ärrbildningar. |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra |
+|  | bedömning av |  |  |  | skador så som ärrbildningar. |
+|  | verksamhetens risker ur |  |  |  |  |
+|  | hälso- och miljösynpunkt |  |  |  |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
-|  | Rengöring, desinfektion<br>och sterilisering | EDP Vision | Digitalt | 10 år |  |
+|  | Rengöring, desinfektion | EDP Vision | Digitalt | 10 år |  |
+|  | och sterilisering |  |  |  |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
 |  | Ålderskontroll | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Dokumenterad<br>egenkontroll | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision |  | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Dokumenterad | EDP Vision | Digitalt | 10 år |  |
+|  | egenkontroll |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och | Tidkort | EDP Vision |  | 10 år |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande | förvaltningslagen |  |  |  |  |
+| och svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 113 -->
 
@@ -2726,11 +3017,14 @@ Informationshanteringsplan                      Sida 89 av 182
 | Process: | Tillsyn solarium |  |  |  |  |
 | Processnummer: | 7.5.6.32 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
-| Korrespondens med<br>verksamhetsutövare | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
+| Korrespondens med | Begäran om | EDP Vision | Digitalt | 10 år |  |
+| verksamhetsutövare | komplettering |  |  |  |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
 |  | Avfallshantering | EDP Vision | Digitalt | 10 år |  |
@@ -2739,38 +3033,53 @@ Informationshanteringsplan                      Sida 89 av 182
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
-|  | Information till<br>och från kund | EDP Vision | Digitalt | 10 år |  |
+|  | Information till | EDP Vision | Digitalt | 10 år |  |
+|  | och från kund |  |  |  |  |
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
-|  | Lokalens utformning och<br>inredning | EDP Vision | Digitalt | 10 år |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa. |
+|  | Lokalens utformning och | EDP Vision | Digitalt | 10 år |  |
+|  | inredning |  |  |  |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning | EDP Vision | Digitalt | 10 år | Bedömningar av verksamhetens risker<br>ur hälso- och miljösynpunkt. |
+|  | Undersökning | EDP Vision | Digitalt | 10 år | Bedömningar av verksamhetens risker |
+|  |  |  |  |  | ur hälso- och miljösynpunkt. |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
-|  | Affisch | EDP Vision | Digitalt | 10 år | Råd för att skydda din hälsa och åldersgräns<br>18 år. |
+|  | Affisch | EDP Vision | Digitalt | 10 år | Råd för att skydda din hälsa och åldersgräns |
+|  |  |  |  |  | 18 år. |
 |  | Märkning | EDP Vision | Digitalt | 10 år | Solarium UV-typ 3. |
 |  | Information om rörskylt | EDP Vision | Digitalt | 10 år |  |
-|  | Information<br>UV-lampor | EDP Vision | Digitalt | 10 år |  |
-|  | Information märk-skyltar<br>och varnings-texter | EDP Vision | Digitalt | 10 år |  |
+|  | Information | EDP Vision | Digitalt | 10 år |  |
+|  | UV-lampor |  |  |  |  |
+|  | Information märk-skyltar | EDP Vision | Digitalt | 10 år |  |
+|  | och varnings-texter |  |  |  |  |
 |  | Exponeringsschema | EDP Vision | Digitalt | 10 år |  |
 |  | Information tidur | EDP Vision | Digitalt | 10 år |  |
-|  | Information<br>nödstoppsknapp | EDP Vision | Digitalt | 10 år |  |
-|  | Information avskärmat<br>solarium | EDP Vision | Digitalt | 10 år |  |
+|  | Information | EDP Vision | Digitalt | 10 år |  |
+|  | nödstoppsknapp |  |  |  |  |
+|  | Information avskärmat | EDP Vision | Digitalt | 10 år |  |
+|  | solarium |  |  |  |  |
 |  | Varningstext UV-strålning | EDP Vision | Digitalt | 10 år |  |
 |  | Beröringsskydd strålkällor | EDP Vision | Digitalt | 10 år |  |
 |  | Skyddsglasögon | EDP Vision | Digitalt | 10 år |  |
-| Granska och bedöma | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision |  | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| Granska och bedöma | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och | Tidkort | EDP Vision |  | 10 år |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande | förvaltningslagen |  |  |  |  |
+| och svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 117 -->
 
@@ -2793,9 +3102,11 @@ Informationshanteringsplan                      Sida 92 av 182
 | Process: | Tillsyn förskolor |  |  |  |  |
 | Processnummer: | 7.5.6.33 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
@@ -2808,24 +3119,34 @@ Informationshanteringsplan                      Sida 92 av 182
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
 |  | Solskydd | EDP Vision | Digitalt | 10 år |  |
 |  | Tvättrutin | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso-<br>och miljösynpunkt. |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision |  | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande<br>och svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso- |
+|  | bedömning |  |  |  | och miljösynpunkt. |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och | Tidkort | EDP Vision |  | 10 år |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande | förvaltningslagen |  |  |  |  |
+| och svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+|  | delgivningskvitto |  |  |  |  |
+| in |  |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 120 -->
 
@@ -2844,9 +3165,11 @@ Informationshanteringsplan                      Sida 94 av 182
 | Process: | Tillsyn av skolor |  |  |  |  |
 | Processnummer: | 7.5.6.34 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
@@ -2859,24 +3182,40 @@ Informationshanteringsplan                      Sida 94 av 182
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
 |  | Solskydd | EDP Vision | Digitalt | 10 år |  |
 |  | Tvättrutin | EDP Vision | Digitalt | 10 år |  |
-|  | Ventilation | EDP Vision | Digitalt | 10 år | Dragskåp kemisal, utsug träslöjd, luftrenare<br>syslöjd, skolans ventilationsaggregat. |
-|  | Dokumenterad<br>egenkontroll | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökningar och<br>bedömningar av<br>verksamhetens risker ur<br>hälso- och<br>miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra<br>skador så som ärrbildningar. |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+|  | Ventilation | EDP Vision | Digitalt | 10 år | Dragskåp kemisal, utsug träslöjd, luftrenare |
+|  |  |  |  |  | syslöjd, skolans ventilationsaggregat. |
+|  | Dokumenterad | EDP Vision | Digitalt | 10 år |  |
+|  | egenkontroll |  |  |  |  |
+|  | Undersökningar och | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra |
+|  | bedömningar av |  |  |  | skador så som ärrbildningar. |
+|  | verksamhetens risker ur |  |  |  |  |
+|  | hälso- och |  |  |  |  |
+|  | miljösynpunkt |  |  |  |  |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande och<br>svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande och | förvaltningslagen |  |  |  |  |
+| svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 122 -->
 
@@ -2886,7 +3225,7 @@ Informationshanteringsplan                      Sida 95 av 182
 
 Informationshanteringsplan                      Sida 96 av 182
 
-[Tabell 123-124-1](handlingar.tabeller/123-124-1.csv)
+[Tabell 123-125-1](handlingar.tabeller/123-125-1.csv)
 
 | Verksamhetstyp: | Infrastruktur och samhällsskydd |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -2895,9 +3234,11 @@ Informationshanteringsplan                      Sida 96 av 182
 | Process: | Tillsyn av lokaler |  |  |  |  |
 | Processnummer: | 7.5.6.35 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
@@ -2906,14 +3247,21 @@ Informationshanteringsplan                      Sida 96 av 182
 |  | Radon | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning av<br>verksamhetens risker<br>ur hälso- och<br>miljösynpunkt | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra<br>skador så som ärrbildningar. |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år | Allergier, smitta/infektion, nickel och andra |
+|  | bedömning av |  |  |  | skador så som ärrbildningar. |
+|  | verksamhetens risker |  |  |  |  |
+|  | ur hälso- och |  |  |  |  |
+|  | miljösynpunkt |  |  |  |  |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
-|  | Dokumenterad<br>ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
+|  | Dokumenterad | EDP Vision | Digitalt | 10 år |  |
+|  | ansvarsfördelning |  |  |  |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
-|  | Förändring av<br>verksamhet | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Förändring av | EDP Vision | Digitalt | 10 år |  |
+|  | verksamhet |  |  |  |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalier | EDP Vision | Digitalt | 10 år |  |
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
@@ -2922,25 +3270,33 @@ Informationshanteringsplan                      Sida 96 av 182
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande och<br>svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande och | förvaltningslagen |  |  |  |  |
+| svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 124 -->
 
 Informationshanteringsplan                      Sida 97 av 182
 
 <!-- sida 125 -->
-
-Överklagan kommer in Överklagan  EDP Vision  Digitalt  Se anmärkning Se separat process, 1.4.4.1 Hantera
-överklagande och omprövning.
 
 Informationshanteringsplan                      Sida 98 av 182
 
@@ -2957,11 +3313,14 @@ Informationshanteringsplan                      Sida 99 av 182
 | Process: | Tillsyn av strandbad |  |  |  |  |
 | Processnummer: | 7.5.6.36 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Föra protokoll vid<br>tillsynsbesök | Protokoll | EDP Vision | Digitalt | 10 år |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Föra protokoll vid | Protokoll | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Informationstavla | EDP Vision | Digitalt | 10 år |  |
-|  | Kontaktuppgifter till<br>kommun | EDP Vision | Digitalt | 10 år |  |
+|  | Kontaktuppgifter till | EDP Vision | Digitalt | 10 år |  |
+|  | kommun |  |  |  |  |
 |  | Skylt vattenkvalité | EDP Vision | Digitalt | 10 år |  |
 |  | Skylt hundförbud | EDP Vision | Digitalt | 10 år |  |
 |  | Skylt vattendjup | EDP Vision | Digitalt | 10 år |  |
@@ -2972,12 +3331,16 @@ Informationshanteringsplan                      Sida 99 av 182
 |  | Brygga | EDP Vision | Digitalt | 10 år |  |
 |  | Badstege | EDP Vision | Digitalt | 10 år |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-|  | Hygienutrymme | EDP Vision | Digitalt | 10 år | Dusch, handfat, toalett, tvål papper,<br>pappershanddukar, desinfektionsmedel. |
+|  | Hygienutrymme | EDP Vision | Digitalt | 10 år | Dusch, handfat, toalett, tvål papper, |
+|  |  |  |  |  | pappershanddukar, desinfektionsmedel. |
 |  | Omklädningsrum | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 | Granska information | Inkomna synpunkter | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
 | Besluta | Beslut | EDP Vision | Digitalt | Bevaras |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
@@ -3000,9 +3363,11 @@ Informationshanteringsplan                      Sida 101 av 182
 | Process: | Tillsyn av bassängbad |  |  |  |  |
 | Processnummer: | 7.5.6.37 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
 |  | Avfallshantering | EDP Vision | Digitalt | 10 år |  |
@@ -3015,33 +3380,52 @@ Informationshanteringsplan                      Sida 101 av 182
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
 |  | Kosmetiska produkter | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
-|  | Lokalens utformning och<br>inredning | EDP Vision | Digitalt | 10 år |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa. |
+|  | Lokalens utformning och | EDP Vision | Digitalt | 10 år |  |
+|  | inredning |  |  |  |  |
 |  | Städning | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso-<br>och miljösynpunkt. |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso- |
+|  | bedömning |  |  |  | och miljösynpunkt. |
 |  | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
-|  | Allmänna tekniska<br>uppgifter renings-<br>anläggning | EDP Vision | Digitalt | 10 år |  |
-|  | Uppgifter desinfektion<br>reningsanläggning | EDP Vision | Digitalt | 10 år |  |
-|  | Provtagning,<br>övervakning och<br>bedömning | EDP Vision | Digitalt | 10 år |  |
+|  | Allmänna tekniska | EDP Vision | Digitalt | 10 år |  |
+|  | uppgifter renings- |  |  |  |  |
+|  | anläggning |  |  |  |  |
+|  | Uppgifter desinfektion | EDP Vision | Digitalt | 10 år |  |
+|  | reningsanläggning |  |  |  |  |
+|  | Provtagning, | EDP Vision | Digitalt | 10 år |  |
+|  | övervakning och |  |  |  |  |
+|  | bedömning |  |  |  |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
-|  | Övervakning inomhusluft | EDP Vision | Digitalt | 10 år | Övervakning av kemiska hälsorisker så som<br>trihalometaner, trikloramin,<br>desinfektionsbiprodukter m.fl. |
+|  | Övervakning inomhusluft | EDP Vision | Digitalt | 10 år | Övervakning av kemiska hälsorisker så som |
+|  |  |  |  |  | trihalometaner, trikloramin, |
+|  |  |  |  |  | desinfektionsbiprodukter m.fl. |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
-| Granska och bedöma | Begäran om<br>komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Granska och bedöma | Begäran om | EDP Vision | Digitalt | 10 år |  |
+|  | komplettering |  |  |  |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Analysrapport | EDP Vision | Digitalt | 10 år | Provtagning, övervakning och bedömning. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande och<br>svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande och | förvaltningslagen |  |  |  |  |
+| svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 129 -->
 
@@ -3118,9 +3502,11 @@ Informationshanteringsplan                      Sida 106 av 182
 | Process: | Tillsyn av idrottsverksamhet |  |  |  |  |
 | Processnummer: | 7.5.6.39 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Städschema | EDP Vision | Digitalt | 10 år |  |
@@ -3133,24 +3519,38 @@ Informationshanteringsplan                      Sida 106 av 182
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
-|  | Underhåll anläggning och<br>tillhörande<br>omklädningsrum | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
+|  | Underhåll anläggning och | EDP Vision | Digitalt | 10 år |  |
+|  | tillhörande |  |  |  |  |
+|  | omklädningsrum |  |  |  |  |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år |  |
+|  | bedömning av |  |  |  |  |
+|  | verksamhetens risker ur |  |  |  |  |
+|  | hälso- och miljösynpunkt |  |  |  |  |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
 | Granska och bedöma | Begäran om komplettering | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande och<br>svar kommer in från<br>verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande och | förvaltningslagen |  |  |  |  |
+| svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 134 -->
 
@@ -3329,9 +3729,11 @@ Informationshanteringsplan                      Sida 114 av 182
 | Process: | Tillsyn av lokaler för förvaring av djur |  |  |  |  |
 | Processnummer: | 7.5.6.43 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Skicka ut information om<br>tillsynsbesök | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| Skicka ut information om | Information inför tillsyn | EDP Vision | Digitalt | 10 år |  |
+| tillsynsbesök |  |  |  |  |  |
 | Boka tillsyn | Bokning | EDP Vision | Digitalt | 10 år |  |
-| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra platsbesök | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Städschema | EDP Vision | Digitalt | 10 år |  |
@@ -3340,23 +3742,32 @@ Informationshanteringsplan                      Sida 114 av 182
 |  | Radon | EDP Vision | Digitalt | 10 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso- och<br>miljösynpunkt. |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år | Av verksamhetens risker ur hälso- och |
+|  | bedömning |  |  |  | miljösynpunkt. |
 |  | Avfall | EDP Vision | Digitalt | 10 år |  |
-|  | Dokumenterad<br>ansvarsfördelning | EDP Vision | Digitalt | 10 år |  |
+|  | Dokumenterad | EDP Vision | Digitalt | 10 år |  |
+|  | ansvarsfördelning |  |  |  |  |
 |  | Buller | EDP Vision | Digitalt | 10 år |  |
 |  | Enskild brunn | EDP Vision | Digitalt | 10 år |  |
 |  | Fukt och mögel | EDP Vision | Digitalt | 10 år |  |
-|  | Förändring av<br>verksamhet | EDP Vision | Digitalt | 10 år |  |
+|  | Förändring av | EDP Vision | Digitalt | 10 år |  |
+|  | verksamhet |  |  |  |  |
 |  | Inomhustemperatur | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalier | EDP Vision | Digitalt | 10 år |  |
 |  | Klagomålshantering | EDP Vision | Digitalt | 10 år |  |
 |  | Tvätt | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa, objektburen smitta. |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa, objektburen smitta. |
 |  | Rökfri miljö | EDP Vision | Digitalt | 10 år |  |
-|  | Undersökning och<br>bedömning av<br>verksamhetens risker ur<br>hälso- och<br>miljösynpunkt | EDP Vision | Digitalt | 10 år |  |
+|  | Undersökning och | EDP Vision | Digitalt | 10 år |  |
+|  | bedömning av |  |  |  |  |
+|  | verksamhetens risker ur |  |  |  |  |
+|  | hälso- och |  |  |  |  |
+|  | miljösynpunkt |  |  |  |  |
 | Granska och bedöma | Underhåll lokal | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
-|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Städschema | EDP Vision | Digitalt | 10 år |  |
 |  | Checklista | EDP Vision | Digitalt | 10 år |  |
 |  | Hygienrutin | EDP Vision | Digitalt | 10 år |  |
@@ -3364,15 +3775,22 @@ Informationshanteringsplan                      Sida 114 av 182
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Broschyr | EDP Vision | Digitalt | 10 år |  |
 |  | Kemikalieförteckning | EDP Vision | Digitalt | 10 år |  |
-| Skriva och skicka ut<br>inspektionsrapport och<br>tidkort | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| Skriva och skicka ut | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
+| inspektionsrapport och |  |  |  |  |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>beslut om föreläggande och | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| svar kommer in från<br>verksamhetsutövare | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| tidkort |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut om föreläggande och | förvaltningslagen |  |  |  |  |
+| svar kommer in från | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövare | enligt förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 142 -->
 
@@ -3432,17 +3850,21 @@ Informationshanteringsplan                      Sida 119 av 182
 | Klagomål inkommer | Klagomål | EDP Vision | Digitalt | 5 år |  |
 |  | Karta | EDP Vision | Digitalt | 5 år |  |
 |  | Störningsdagbok | EDP Vision | Digitalt | 5 år |  |
-| Utreda | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas vid när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utreda | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas vid när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Redovisning kommer in | Åtgärdsförslag | EDP Vision | Digitalt | 5 år |  |
 |  | Redovisning av åtgärder | EDP Vision | Digitalt | 5 år |  |
 | Utföra platsbesök | Rapport | EDP Vision | Digitalt | 5 år |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | 5 år |  |
 |  | Fotografi | EDP Vision | Digitalt | 5 år |  |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från sökanden | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 5 år |  |
-| Besluta samt skicka ut<br>tidkort | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 5 år |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från sökanden | Svar på kommunicering | EDP Vision | Digitalt | 5 år |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta samt skicka ut | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| tidkort | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 5 år |  |
 | Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
 |  | Påminnelse signering<br>delgivningskvitto | EDP Vision | EDP Vision | 5 år |  |
@@ -3528,8 +3950,10 @@ Informationshanteringsplan                      Sida 122 av 182
 | Klagomål kommer in | Klagomål | EDP Vision | Digitalt | 10 år |  |
 |  | Karta | EDP Vision | Digitalt | 10 år |  |
 |  | Störningsdagbok | EDP Vision | Digitalt | 10 år |  |
-| Granska och utreda | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Granska och utreda | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Utföra platsbesök | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Egenkontroll | EDP Vision | Digitalt | 10 år |  |
 |  | Radon | EDP Vision | Digitalt | 10 år |  |
@@ -3543,25 +3967,37 @@ Informationshanteringsplan                      Sida 122 av 182
 |  | Legionella | EDP Vision | Digitalt | 10 år |  |
 |  | Ventilation | EDP Vision | Digitalt | 10 år |  |
 |  | Skadedjur | EDP Vision | Digitalt | 10 år |  |
-|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors<br>hälsa. |
-| Redovisning begärs in från<br>verksamhetsutövaren och<br>redovisning kommer in | Begäran redovisning | EDP Vision | Digitalt | 10 år |  |
-|  | Åtgärdsförslag | EDP Vision | Digitalt | 10 år |  |
-|  | Redovisning åtgärder | EDP Vision | Digitalt | Bevaras |  |
+|  | Smitta/Smittskydd | EDP Vision | Digitalt | 10 år | Smitta eller annan olägenhet för människors |
+|  |  |  |  |  | hälsa. |
+| Redovisning begärs in från | Begäran redovisning | EDP Vision | Digitalt | 10 år |  |
+| verksamhetsutövaren och | Åtgärdsförslag | EDP Vision | Digitalt | 10 år |  |
+| redovisning kommer in | Redovisning åtgärder | EDP Vision | Digitalt | Bevaras |  |
+|  |  |  |  |  |  |
 | Skriva rapport och tidkort | Rapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Inspektionsanteckning | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
-| Kommunicering inför beslut | Kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på<br>kommunicering enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| Kommunicering inför beslut | Kommunicering enligt | EDP Vision | Digitalt | Bevaras |  |
+|  | förvaltningslagen |  |  |  |  |
+|  | Svar på | EDP Vision | Digitalt | Bevaras |  |
+|  | kommunicering enligt |  |  |  |  |
+|  | förvaltningslagen |  |  |  |  |
 | Besluta om föreläggande | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
 |  | Tidkort | EDP Vision | Digitalt | 10 år |  |
 | Anmäla enligt miljöbalken | Åtalsanmälan | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Kommunikation med<br>inskrivningsmyndigheten | Inskrivning till<br>fastighetsregistret | EDP Vision | Digitalt | Bevaras |  |
-|  | Radering av anteckning<br>hos Inskrivnings-<br>myndigheten | EDP Vision | Digitalt | Bevaras |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer |  |  |  |  |  |
+|  | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Kommunikation med | Inskrivning till | EDP Vision | Digitalt | Bevaras |  |
+| inskrivningsmyndigheten | fastighetsregistret |  |  |  |  |
+|  | Radering av anteckning | EDP Vision | Digitalt | Bevaras |  |
+|  | hos Inskrivnings- |  |  |  |  |
+|  | myndigheten |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 | Verksamhetsområde: | Hantera ärenden enligt miljöbalken |  |  |  |  |
 | Processgrupp: | Hantera klagomål i kärnverksamheten hos Miljö & Hälsoskydd |  |  |  |  |
 | Process: | Klagomål störning av djur |  |  |  |  |
@@ -3608,17 +4044,26 @@ Informationshanteringsplan                      Sida 125 av 182
 | Processnummer: | 7.5.7.06 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Klagomål kommer in | Klagomål | EDP Vision | Digitalt | Bevaras |  |
-| Granska | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Granska | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Utföra platsbesök | Inspektionsrapport | EDP Vision | Digitalt | Bevaras |  |
 |  | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>beslut och svar kommer in<br>från verksamhetsutövare | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-| Besluta om åtgärder eller<br>avslut | Beslut | EDP Vision | Digitalt | Bevaras |  |
-|  | Tidkort | EDP Vision | Digitalt | 5 år |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer<br>in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| beslut och svar kommer in | förvaltningslagen |  |  |  |  |
+| från verksamhetsutövare | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+|  | enligt förvaltningslagen |  |  |  |  |
+| Besluta om åtgärder eller | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| avslut | Tidkort | EDP Vision | Digitalt | 5 år |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+| in |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 153 -->
 
@@ -3674,9 +4119,14 @@ Informationshanteringsplan                      Sida 128 av 182
 | Process: | Hantera fråga/information/rådgivning |  |  |  |  |
 | Processnummer: | 7.5.9.01 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Fråga eller information<br>med bilagor kommer in | Fråga/Information | EDP Vision | Digitalt | 5 år |  |
-| Svar till frågeställaren | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Fråga eller information | Fråga/Information | EDP Vision | Digitalt | 5 år |  |
+| med bilagor kommer in |  |  |  |  |  |
+| Svar till frågeställaren | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 
 <!-- sida 156 -->
 
@@ -3691,7 +4141,8 @@ Informationshanteringsplan                      Sida 129 av 182
 | Process: | Beslut för kännedom |  |  |  |  |
 | Processnummer: | 7.5.9.02 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Beslut inkommer från<br>annan instans | Beslut | EDP Vision | Digitalt | 10 år |  |
+| Beslut inkommer från | Beslut | EDP Vision | Digitalt | 10 år |  |
+| annan instans |  |  |  |  |  |
 
 <!-- sida 157 -->
 
@@ -3710,7 +4161,8 @@ Informationshanteringsplan                      Sida 130 av 182
 |  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Fullmakt | EDP Vision | Digitalt | Bevaras |  |
-| Beslut på att verksamheten<br>har registrerats skickas ut | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Beslut på att verksamheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| har registrerats skickas ut |  |  |  |  |  |
 
 <!-- sida 158 -->
 
@@ -3745,10 +4197,15 @@ Informationshanteringsplan                      Sida 132 av 182
 | Processnummer: | 7.6.1.03 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Anmälan kommer in | Anmälan | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras. |
+|  |  |  |  |  | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fullmakt | EDP Vision | Digitalt | Bevaras |  |
-| Beslut på att verksamheten<br>har avregistrerats skickas ut | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Beslut på att verksamheten | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| har avregistrerats skickas ut |  |  |  |  |  |
 
 <!-- sida 160 -->
 
@@ -3766,9 +4223,11 @@ Informationshanteringsplan                      Sida 133 av 182
 | Besluta om riskklassning | Beslut | EDP Vision | Digitalt | 10 år |  |
 |  | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 |  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer in | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 
 <!-- sida 161 -->
 
@@ -3823,9 +4282,13 @@ Informationshanteringsplan                      Sida 136 av 182
 | Processnummer: | 7.6.1.07 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Begäran kommer in | Begäran | EDP Vision | Digitalt | Se anmärkning | Gallras när verksamheten upphört eller<br>inom 10 år. |
-| Granska begäran och<br>kvalitetssäkra | Produktbeskrivning | EDP Vision | Digitalt | Se anmärkning | Kan gallras när verksamheten upphör eller<br>inom 10 år. |
-| Utfärda intyg | Exportintyg | EDP Vision | Digitalt | Se anmärkning | Kan gallras när verksamheten upphör eller<br>inom 10 år. |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. Överklagan<br>avser avgiften. |
+| Granska begäran och | Produktbeskrivning | EDP Vision | Digitalt | Se anmärkning | Kan gallras när verksamheten upphör eller |
+| kvalitetssäkra |  |  |  |  | inom 10 år. |
+| Utfärda intyg | Exportintyg | EDP Vision | Digitalt | Se anmärkning | Kan gallras när verksamheten upphör eller |
+|  |  |  |  |  | inom 10 år. |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. Överklagan |
+|  |  |  |  |  | avser avgiften. |
 
 <!-- sida 164 -->
 
@@ -3840,19 +4303,27 @@ Informationshanteringsplan                      Sida 137 av 182
 | Process: | Tillsyn av livsmedelsanläggning |  |  |  |  |
 | Processnummer: | 7.6.6.01 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Utföra tillsyn och begära in<br>kompletterande uppgifter | Fotografi | EDP Vision | Digitalt | Bevaras |  |
-|  | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras.<br>Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utföra tillsyn och begära in | Fotografi | EDP Vision | Digitalt | Bevaras |  |
+| kompletterande uppgifter | Korrespondens | EDP Vision | Digitalt | Se anmärkning | Korrespondens av betydelse bevaras. |
+|  |  |  |  |  | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Produktspecifikation | EDP Vision | Digitalt | Bevaras |  |
 |  | Provrapport | EDP Vision | Digitalt | Bevaras |  |
-| Underrätta<br>verksamhetsutövaren | Kontrollrapport | EDP Vision | Digitalt | Bevaras |  |
-| Skicka underrättelse inför<br>nekande beslut och<br>verksamhetsutövaren<br>kommer in med svar | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | Bevaras |  |
+| Underrätta | Kontrollrapport | EDP Vision | Digitalt | Bevaras |  |
+| verksamhetsutövaren |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | Bevaras |  |
+| nekande beslut och | förvaltningslagen |  |  |  |  |
+| verksamhetsutövaren | Svar på kommunicering | EDP Vision | Digitalt | Bevaras |  |
+| kommer in med svar | enligt förvaltningslagen |  |  |  |  |
 | Verksamhetsutövaren har<br>vidtagit åtgärder | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Besluta om rättelse | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 5 år |  |
+| delgivningskvitto kommer in | Påminnelse signering | EDP Vision | Digitalt | 5 år |  |
+|  |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Utöva tillsyn livsmedelsanläggningar |  |  |  |  |
 | Process: | Tillsyn av dricksvattenanläggning |  |  |  |  |
@@ -3866,8 +4337,10 @@ Informationshanteringsplan                      Sida 137 av 182
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Analysresultat | EDP Vision | Digitalt | 10 år |  |
 | Underrätta<br>verksamhetsutövaren med<br>resultat av kontroll | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Görs när inga avvikelser påträffats. Tjänste-<br>anteckning av ringa eller tillfällig betydelse<br>rensas när ärendet avslutas. |
-| Skicka underrättelse inför<br>nekande beslut och<br>verksamhetsutövaren<br>kommer in med svar | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
+| Skicka underrättelse inför<br>nekande beslut och<br>verksamhetsutövaren<br>kommer in med svar | Kommunicera enligt | EDP Vision | Digitalt | 10 år |  |
+|  | förvaltningslagen |  |  |  |  |
+|  | Svar på kommunicering | EDP Vision | Digitalt | 10 år |  |
+|  | enligt förvaltningslagen |  |  |  |  |
 | Verksamhetsutövaren har<br>vidtagit åtgärder | Tjänsteanteckning | EDP Vision | Digitalt | Se anmärkning | Tjänsteanteckning av betydelse bevaras.<br>Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
 | Besluta om att vidta<br>åtgärder | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
 |  | Beslut | EDP Vision | Digitalt | Bevaras |  |
@@ -3879,10 +4352,16 @@ Informationshanteringsplan                      Sida 137 av 182
 | Process: | Inkommen RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
 | Processnummer: | 7.6.7.01 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| RASFF kommer in | Rapport risker i<br>livsmedelskedjan | EDP Vision | Digitalt | 5 år |  |
-| Utreda | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Återrapportera till<br>livsmedelsverket att<br>verksamheten har tagit bort<br>produkten ur sortimentet | Kontrollrapport | EDP Vision | Digitalt | 5 år |  |
+| RASFF kommer in | Rapport risker i | EDP Vision | Digitalt | 5 år |  |
+|  | livsmedelskedjan |  |  |  |  |
+| Utreda | Korrespondens | EDP Vision | Digitalt | 5 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 5 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Återrapportera till | Kontrollrapport | EDP Vision | Digitalt | 5 år |  |
+| livsmedelsverket att |  |  |  |  |  |
+| verksamheten har tagit bort |  |  |  |  |  |
+| produkten ur sortimentet |  |  |  |  |  |
 
 <!-- sida 165 -->
 
@@ -3905,11 +4384,14 @@ Informationshanteringsplan                      Sida 140 av 182
 | Process: | Upprättande av RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
 | Processnummer: | 7.6.7.02 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
-| Utreda RASFF och göra<br>platsbesök | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Utreda RASFF och göra | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+| platsbesök |  |  |  |  | betydelse rensas när ärendet avslutas. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 |  | Fotografi | EDP Vision | Digitalt | 10 år |  |
 |  | Kundregister | EDP Vision | Digitalt | 10 år |  |
-| Rapportera till<br>livsmedelsverket | Kontrollrapport | EDP Vision | Digitalt | 10 år |  |
+| Rapportera till | Kontrollrapport | EDP Vision | Digitalt | 10 år |  |
+| livsmedelsverket |  |  |  |  |  |
 
 <!-- sida 168 -->
 
@@ -3925,17 +4407,25 @@ Informationshanteringsplan                      Sida 141 av 182
 | Processnummer: | 7.6.7.03 |  |  |  |  |
 | Aktivitet | Handling | Förvaring | Format | Bevara/Gallra | Anmärkning |
 | Anmälan kommer in | Anmälan | EDP Vision | Digitalt | 10 år |  |
-| Underrätta verksamheten | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
+| Underrätta verksamheten | Korrespondens | EDP Vision | Digitalt | 10 år | Korrespondens av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
 | Göra platsbesök och utreda | Fotografi | EDP Vision | Digitalt | 10 år |  |
-|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig<br>betydelse rensas när ärendet avslutas. |
-| Skicka kontrollrapport till<br>verksamhetsutövare | Kontrollrapport | EDP Vision | Digitalt | 10 år |  |
-| Skicka underrättelse inför<br>nekande beslut och<br>verksamhetsutövaren<br>kommer in med svar | Kommunicera enligt<br>förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
-|  | Svar på kommunicering<br>enligt förvaltningslagen | EDP Vision | Digitalt | 10 år |  |
-| Besluta om att vidta<br>åtgärder | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
-|  | Beslut | EDP Vision | Digitalt | Bevaras |  |
-| Delge beslut och signerat<br>delgivningskvitto kommer in | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-|  | Påminnelse signering<br>delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
-| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera<br>överklagande och omprövning. |
+|  | Tjänsteanteckning | EDP Vision | Digitalt | 10 år | Tjänsteanteckning av ringa eller tillfällig |
+|  |  |  |  |  | betydelse rensas när ärendet avslutas. |
+| Skicka kontrollrapport till | Kontrollrapport | EDP Vision | Digitalt | 10 år |  |
+| verksamhetsutövare |  |  |  |  |  |
+| Skicka underrättelse inför | Kommunicera enligt | EDP Vision | Digitalt | 10 år |  |
+| nekande beslut och | förvaltningslagen |  |  |  |  |
+| verksamhetsutövaren | Svar på kommunicering | EDP Vision | Digitalt | 10 år |  |
+| kommer in med svar | enligt förvaltningslagen |  |  |  |  |
+| Besluta om att vidta | Tjänsteskrivelse | EDP Vision | Digitalt | Bevaras |  |
+| åtgärder | Beslut | EDP Vision | Digitalt | Bevaras |  |
+| Delge beslut och signerat | Delgivningskvitto | EDP Vision | Digitalt | 10 år |  |
+| delgivningskvitto kommer in | Påminnelse signering | EDP Vision | Digitalt | 10 år |  |
+|  |  |  |  |  |  |
+|  | delgivningskvitto |  |  |  |  |
+| Överklagan kommer in | Överklagan | EDP Vision | Digitalt | Se anmärkning | Se separat process, 1.4.4.1 Hantera |
+|  |  |  |  |  | överklagande och omprövning. |
 | Verksamhetsområde: | Hantera ärende enligt livsmedelslagen |  |  |  |  |
 | Processgrupp: | Hantera klagomål & RASFF (Rapid Alert System for Food and Feed: System för snabb varning om livsmedel och foder) |  |  |  |  |
 | Process: | Klagomål livsmedel |  |  |  |  |

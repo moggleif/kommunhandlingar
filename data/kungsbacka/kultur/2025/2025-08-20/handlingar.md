@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.73d35f6c198976c542567649/1755156882
 sha256: 1724f7218e6cacd4e713a8cb9c8f52460f0982bb74511225d5b5fc7e9c607877
 bytes: 2287291
 sidor: 32
-hamtad: 2026-11-08T19:03:19+00:00
-konverterad: 2026-11-08T19:03:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:32:43+00:00
+konverterad: 2026-11-18T09:32:50+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
@@ -1105,59 +1105,29 @@ www.kungsbacka.se
 
 <!-- sida 31 -->
 
-Nummer     Ankom   Namn              Beskrivning
-KFT-2025-00166 2025-08-01 Polisen    Polisanmälan stulen dator på Fyren
-KFT-2025-00165 2025-07-29 HK Aranäs  Intresseanmälan - Skårby Idrottsområde
-KFT-2025-00164 2025-07-16 Länsstyrelsen Hallands län Upphävande av lokal ordningsföreskrift-
-Länsstyrelsen upphäver 15 a § (Förbud mot
-användning av lustgas i berusningssyfte)
+[Tabell 31-1](handlingar.tabeller/31-1.csv)
 
-KFT-2025-00163 2025-07-16 Nordhallands Ansökan om bidrag för digitalisering av Vår Bygd
-Hembygdsförening
-
-KFT-2025-00160 2025-07-01 Ernst & Young Anteckningar från dialog med revisionen
-KFT-2025-00159 2025-06-24 Länsstyrelsen Ansökan om tillstånd att använda metallsökare
-
-KFT-2025-00158 2025-06-30 Tjänsteperson Stf samt fullmakt att öppna brev
-KFT-2025-00157 2025-06-26 Tjänsteperson Avtal mellan Kungsbacka kommun,
-förvaltningen för Kultur och Fritid och Gothia
-cup 2025 avtal Kungsbacka kommun och Gothia
-cup gällande planerna
-KFT-2025-00156 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 122 Svar på
-
-motion från Magdalena Sundqvist (S) m.fl. om
-att inrätta en årlig minnesdag för Förintelsens
-offer i samband med den internationella
-minnesdagen
-KFT-2025-00155 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 121 Svar på
-motion från Susanne Andersson (SD) m.fl. om
-att införa förbud mot användning av lustgas i
-berusningssyfte på offentliga platser i
-Kungsbacka
-KFT-2025-00154 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 116
-
-Redovisning av icke färdigberedda motioner nr 1
-2025
-KFT-2025-00153 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 115
-Uppföljning och prognos april 2025 för
-Kungsbacka kommun
-KFT-2025-00152 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 114
-Kommunbudget 2026, plan 2027-2028
-KFT-2025-00151 2025-06-23 VK Westan  planering framtida beachvolleyboll-anläggning
-KFT-2025-00149 2025-06-11            Mailkonversation förslag En skog för alla /
-Vattenreflektioner
-
-KFT-2025-00148 2025-06-18 Samhällsbyggnadskontoret KS § 137 Lokaliseringsutredning ny isyta för
-träning
-KFT-2025-00147 2025-06-17 Riksteater-föreningen i Mailkonversation Riksteaterföreningen i
-Kungsbacka        Kungsbacka
-
-KFT-2025-00146 2025-06-11 Privatperson Mailkonversation förslag till förbättring Frillesås
-
-bibliotek
-KFT-2025-00145 2025-06-10 Bygg och   Bygglov bod Skårby
-Miljöförvaltningen i
-Kungsbacka
+| Nummer | Ankom | Namn | Beskrivning |
+| --- | --- | --- | --- |
+| KFT-2025-00166 | 2025-08-01 | Polisen | Polisanmälan stulen dator på Fyren |
+| KFT-2025-00165 2025-07-29 HK Aranäs Intresseanmälan - Skårby Idrottsområde |  |  |  |
+| KFT-2025-00164 | 2025-07-16 | Länsstyrelsen Hallands län | Upphävande av lokal ordningsföreskrift-<br>Länsstyrelsen upphäver 15 a § (Förbud mot<br>användning av lustgas i berusningssyfte) |
+| KFT-2025-00163 2025-07-16 Nordhallands Ansökan om bidrag för digitalisering av Vår Bygd<br>Hembygdsförening |  |  |  |
+| KFT-2025-00160 | 2025-07-01 | Ernst & Young | Anteckningar från dialog med revisionen |
+| KFT-2025-00159 2025-06-24 Länsstyrelsen Ansökan om tillstånd att använda metallsökare |  |  |  |
+| KFT-2025-00158 | 2025-06-30 | Tjänsteperson | Stf samt fullmakt att öppna brev |
+| KFT-2025-00157 2025-06-26 Tjänsteperson Avtal mellan Kungsbacka kommun,<br>förvaltningen för Kultur och Fritid och Gothia<br>cup 2025 avtal Kungsbacka kommun och Gothia<br>cup gällande planerna |  |  |  |
+| KFT-2025-00156 | 2025-06-26 | Kommunstyrelsen | Protokollsutdrag 2025-06-16 KF § 122 Svar på<br>motion från Magdalena Sundqvist (S) m.fl. om<br>att inrätta en årlig minnesdag för Förintelsens<br>offer i samband med den internationella<br>minnesdagen |
+| KFT-2025-00155 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 121 Svar på<br>motion från Susanne Andersson (SD) m.fl. om<br>att införa förbud mot användning av lustgas i<br>berusningssyfte på offentliga platser i<br>Kungsbacka |  |  |  |
+| KFT-2025-00154 | 2025-06-26 | Kommunstyrelsen | Protokollsutdrag 2025-06-16 KF § 116<br>Redovisning av icke färdigberedda motioner nr 1<br>2025 |
+| KFT-2025-00153 2025-06-26 Kommunstyrelsen Protokollsutdrag 2025-06-16 KF § 115<br>Uppföljning och prognos april 2025 för<br>Kungsbacka kommun |  |  |  |
+| KFT-2025-00152 | 2025-06-26 | Kommunstyrelsen | Protokollsutdrag 2025-06-16 KF § 114<br>Kommunbudget 2026, plan 2027-2028 |
+| KFT-2025-00151 2025-06-23 VK Westan planering framtida beachvolleyboll-anläggning |  |  |  |
+| KFT-2025-00149 | 2025-06-11 |  | Mailkonversation förslag En skog för alla /<br>Vattenreflektioner |
+| KFT-2025-00148 2025-06-18 Samhällsbyggnadskontoret KS § 137 Lokaliseringsutredning ny isyta för<br>träning |  |  |  |
+| KFT-2025-00147 | 2025-06-17 | Riksteater-föreningen i<br>Kungsbacka | Mailkonversation Riksteaterföreningen i<br>Kungsbacka |
+| KFT-2025-00146 2025-06-11 Privatperson Mailkonversation förslag till förbättring Frillesås<br>bibliotek |  |  |  |
+| KFT-2025-00145 | 2025-06-10 | Bygg och<br>Miljöförvaltningen i<br>Kungsbacka | Bygglov bod Skårby |
 
 <!-- sida 32 -->
 

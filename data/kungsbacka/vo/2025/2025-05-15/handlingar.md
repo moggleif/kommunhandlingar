@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5d477a49196b39710ab4f999/1747050261
 sha256: 6ac0d01e0758dff5c6b1c4f2a20b8bed5002869556ce2bf7aedbb9f23e6292fc
 bytes: 26228288
 sidor: 384
-hamtad: 2026-11-08T20:04:13+00:00
-konverterad: 2026-11-08T20:06:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:44:18+00:00
+konverterad: 2026-11-18T10:46:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -855,11 +855,9 @@ Kommunfullmäktige ger kommunstyrelsen i uppdrag att utreda och presentera ett f
 pensionärs- och seniorråd ska inrättas i Kungsbacka senast 2026.
 
 fonlinfullmäktigeledamöter FOA ( ) ;
-Ua |
 
 ) rn A CALL
 
-| ( LINA -
 Hin SKoric(SjJ— > Maj-Britt Rane Andersson (S)
 
 <!-- sida 22 -->
@@ -927,8 +925,6 @@ Justerare
 MM
 
 Expedierat/bestyrkt
-
-Nod
 
 <!-- sida 23 -->
 
@@ -1059,8 +1055,6 @@ MM
 
 Expedierat/bestyrkt
 
-Nod
-
 <!-- sida 25 -->
 
 KUNGSBACKA KOMMUN
@@ -1190,8 +1184,6 @@ MM
 
 Expedierat/bestyrkt
 
-Nod
-
 <!-- sida 27 -->
 
 KUNGSBACKA KOMMUN
@@ -1320,8 +1312,6 @@ Justerare
 MM
 
 Expedierat/bestyrkt
-
-Nod
 
 <!-- sida 29 -->
 
@@ -2703,7 +2693,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        4 (11)
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Delta i mötesplats civil beredskap för<br>kompetenshöjande insatser och<br>erfarenhetsutbyte | Krisspecialister KLK,<br>Säkerhetssamordnare för<br>olika förvaltningar. | Säkerhet- och<br>beredskapschef |
 | 2025 | Samverka med Regionen och gällande<br>prioriteringar och hur de påverkar<br>kommunens hälso- och sjukvård, hemsjukvård<br>vid samhällsstörning | Säkerhetssamordnare VO,<br>MAS | Förvaltningschef |
@@ -2712,7 +2702,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        4 (11)
 
 [Tabell 63-2](handlingar.tabeller/63-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025-<br>2028 | Delta i arbetet med stationär reservkraft på<br>våbo | Säkerhetssamordnare VO | Förvaltningschef |
 
@@ -2804,7 +2794,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        6 (11)
 
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Förankra kontinuitetsplan i FLG för beslut och tillsättning resurser | Säkerhetssamordnare VO/<br>Krisspecialist KLK | Förvaltningschef |
 | 2025 | Genomför åtgärdsförslag i kontinuitetsplan. | Säkerhetssamordnare VO<br>Arbetsgrupp kontinuitet VO | Förvaltningschef |
@@ -2820,7 +2810,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        6 (11)
 
 [Tabell 65-2](handlingar.tabeller/65-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2028 | Samtliga vård- och omsorgsboende ska ha stationär reservkraft<br>för att hantera samhällskris där verksamheten saknar el. | Service Fastighet<br>/Fastighetsägare/<br>Säkerhetssamordnare Vo | Förvaltningschef |
 
@@ -2868,7 +2858,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (11)
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Revidering och beslut FLG beredskapsplanen löpande | Säkerhetssamordnare VO | Förvaltningschef |
 | 2025 | Bemanning av krisledningsorganisationen i takt med att deltagare<br>lämnar sina uppdrag av olika anledningar | Säkerhetssamordnare<br>VO/Stabschef VO | Förvaltningschef |
@@ -2878,7 +2868,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (11)
 
 [Tabell 66-2](handlingar.tabeller/66-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Fortsätta utveckla förvaltningens krigsorganisation i samråd med<br>övriga förvaltningar | Kommunövergripande<br>krisspecialister/Säkerhetssamord<br>nare VO/FLG VO | Förvaltningschef |
 
@@ -2928,7 +2918,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        8 (11)
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Krisledningsorganisation, utbildning och övning enligt plan | Säkerhetssamordnare<br>VO/Krisspecialist KLK | Förvaltningschef |
 | 2025 | Utbildning och övning av chef i beredskap | Säkerhetssamordnare VO | Förvaltningschef |
@@ -2938,7 +2928,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        8 (11)
 
 [Tabell 67-2](handlingar.tabeller/67-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Planera utbildning och övning inom VO verksamheter, ex<br>katastrofmedicin för omsorgspersonal eller övning med enskilda<br>boenden/hemtjänstgrupper | Säkerhetssamordnare VO och<br>Krisspecialist KLK | Förvaltningschef |
 
@@ -2984,7 +2974,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        9 (11)
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Följ upp avtal mobil reservkraft | Upphandling/<br>Service Fastighet/<br>Säkerhetssamordnare VO | Förvaltningschef |
 | 2025 | Påminna externa fastighetsägare om att säkerställa att ventilationen<br>på vård och omsorgsboenden fungerar inför sommarperiod. | Service Fastighet/<br>Externa Fastighetsägare/<br>Säkerhetssamordnare VO/MAS | Förvaltningschef |
@@ -2993,7 +2983,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        9 (11)
 
 [Tabell 68-2](handlingar.tabeller/68-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -3038,26 +3028,26 @@ Kungsbacka kommun             Riktlinje civil beredskap        10 (11)
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Revidera kommunikationsplan och målgruppskarta löpande efter rådande<br>förhållanden | Säkerhetssamordnare Vo/<br>Kommunikatör VO/FLG Vo | Förvaltningschef |
 | 2025 | Samtliga VC, EC samt andra strategiska funktioner ska genomgå intern<br>utbildning ”Att samspela med media” | Säkerhetssamordnare Vo/<br>Kommunikatör VO/FLG Vo | Förvaltningschef |
 
 [Tabell 69-2](handlingar.tabeller/69-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Löpande öva kriskommunikation med förvaltningens<br>krisledningsorganisation | Säkerhetssamordnare<br>VO/Krisspecialist KLK/ EC VO/FLG<br>VO | Förvaltningschef |
 
 [Tabell 69-3](handlingar.tabeller/69-3.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025-<br>2026 | Se över hur vi kommunicerar med målgruppen Greta och Tage i<br>ämnet krisberedskap. Även anhöriga, Gode män osv. | Säkerhetssamordnare<br>Vo/Kommunikatör VO | Förvaltningschef |
 
 [Tabell 69-4](handlingar.tabeller/69-4.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -14276,7 +14266,7 @@ Kungsbacka kommun         Projekt utbildningsteam               4
 
 [Tabell 367-1](handlingar.tabeller/367-1.csv)
 
-| Genomfört av utbildningsteamet Antal Kommentar |  |  |
+| Genomfört av utbildningsteamet | Antal | Kommentar |
 | --- | --- | --- |
 | Antal delegeringsutbildningar på<br>bas och enkel nivå | 126 st | Flera personer medverkar vid varje<br>utbildningstillfälle |
 | Antal utförda delegeringar | 1426 st |  |
@@ -14346,7 +14336,7 @@ Kungsbacka kommun         Projekt utbildningsteam               6
 
 [Tabell 369-1](handlingar.tabeller/369-1.csv)
 
-| Genomfört av utbildningsteamet Antal Antal som utbildats |  |  |
+| Genomfört av utbildningsteamet | Antal | Antal som utbildats |
 | --- | --- | --- |
 | Utbildningar i palliativ vård och<br>bedömningar vid sviktande hälsa<br>(start 28/8 2024) | 49 | 718 st vilket motsvarar 68,6% av totalt<br>antal anställda omsorgspersonal i<br>vård och omsorg egen regi. Utöver<br>det 43 st från vikarieenheten som fått<br>utbildning i vård i livets slut. |
 | Utbildningar i rehabiliterande<br>förhållningssätt (start 17/2 2025) | 4 | 92 st vilket motsvarar 8,8% av totalt<br>antal anställda omsorgspersonal i<br>vård och omsorg egen regi. |
@@ -14426,7 +14416,7 @@ Kungsbacka kommun         Projekt utbildningsteam               8
 
 [Tabell 371-372-1](handlingar.tabeller/371-372-1.csv)
 
-| Effektmål Resultat Kommentar |  |  |
+| Effektmål | Resultat | Kommentar |
 | --- | --- | --- |
 | Ökad följsamhet till rutin<br>gällande enstaka hembesök | Medelvårdtid hos pågående<br>enstaka hembesök: 44-52<br>dagar. Noteras även att vård<br>pågår regelbundet hos många<br>av dessa personer | Enligt rutin ska enstaka<br>hembesök inte pågå mer än<br>14 dagar |
 | Ökad följsamhet till rutin<br>gällande patientavgifter | Mätning 3 gånger under<br>projektet visar att ca 90-100<br>inskrivna i hemsjukvården<br>som bör ha patientavgift<br>startad ej har det. | Ingen förbättring ses under<br>projekttiden. |
@@ -14508,7 +14498,7 @@ Kungsbacka kommun         Projekt utbildningsteam              10
 
 [Tabell 373-2](handlingar.tabeller/373-2.csv)
 
-| Uppdrag under projekttiden Tillägg till befintligt uppdrag efter<br>projekttiden |  |
+| Uppdrag under projekttiden | Tillägg till befintligt uppdrag efter<br>projekttiden |
 | --- | --- |
 | Kompetensutveckling inom hälso- och<br>sjukvårdens område till<br>- omsorgspersonal<br>- sjuksköterskor<br>inom vård och omsorg egen regi | Förflyttningsutbildning var tredje år till<br>- Omsorgspersonal inom Vård och<br>omsorg egen regi<br>- Vikarieenheten ordinarie vikarier<br>- Vikarieenheten sommarvikarier<br>- Individ och Familjeomsorgs<br>medarbetare |
 | Hela delegeringsprocessen kopplat till<br>sommarvikarier | Hela delegeringsprocessen för vissa<br>delegeringar och delar av processen för andra<br>kopplat till<br>- Individ och familjeomsorgs<br>medarbetare |

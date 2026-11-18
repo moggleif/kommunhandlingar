@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.40873a2119bddb3624dce7a5/1769416743
 sha256: 088450b64be8f3248ef5e84d626e68027fd9f150e81317b2057e185f57b74652
 bytes: 2851491
 sidor: 63
-hamtad: 2026-11-08T20:09:46+00:00
-konverterad: 2026-11-08T20:09:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:49:36+00:00
+konverterad: 2026-11-18T10:49:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -746,17 +746,17 @@ Förvaltningsbudget 2026
 
 [Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
-| Kommunövergripan<br>de mål | Fokusområde<br>n | Nämndmål | Aktiviteter Förväntad effekt |
-| --- | --- | --- | --- |
-|  | I Kungsbacka<br>är vi trygga<br>och får en<br>god vård och<br>omsorg när vi<br>behöver stöd<br>för att få livet<br>att fungera. | Antalet personal<br>som en<br>hemtjänstmottagar<br>e möter under 14<br>dagar ska årligen<br>minska och 2028<br>uppgå till maximalt<br>14 medarbetare | Genom att samla<br>kompetenser kring<br>de arbetsmoment<br>som i störst<br>utsträckning<br>påverkar<br>personalkontinuitete<br>n, nämligen<br>insatsplanering och<br>bemanning ger det<br>oss bättre<br>förutsättning att<br>uppnå vårt mål. Att<br>samla<br>kompetenserna<br>Gemensam<br>under en enhet ger<br>insats &<br>oss också möjlighet<br>bemanningsenhe<br>att arbeta mer<br>t<br>enhetlig över<br>samtliga enheter i<br>våra verksamheter.<br>Enheten ta också<br>hjälp av digitala<br>lösningar för att<br>arbeta mer<br>datadrivet/faktabaser<br>at och effektivt med<br>insatsplanering och<br>bemanning för att ha<br>rätt person på rätt<br>plats utifrån Gretas<br>behov. Sammantag<br>et bör detta hjälpa<br>oss att nå vårt mål. |
-|  |  | Upplevelsen av<br>ensamhet bland<br>äldre i Kungsbacka<br>som får insatser av<br>förvaltningen för<br>Vård & Omsorg ska<br>årligen minska. | Meningsfulla<br>Invånardrivna<br>aktiviteter för vård-<br>aktiviteter utifrån<br>och omsorgstagare<br>kartläggning<br>och ökad nöjdhet<br>över utbud |
-|  |  |  | Kartlägga orsak<br>till upplevd<br>Ökad förståelse för<br>ensamhet<br>och värdefulla<br>(samarbete med<br>underlag till<br>andra<br>nödvändiga åtgärder<br>förvaltningar) |
-| I Kungsbacka<br>utvecklas vi hela livet | I Kungsbacka<br>stärks<br>individens<br>och familjens<br>egen förmåga<br>att ta hand<br>om sitt liv. | Vård-och<br>omsorgstagare i<br>Kungsbacka<br>kommun har en<br>upplevd god hälsa<br>och blir stärkta i<br>fallpreventiva<br>åtgärder | Arbeta med<br>välfärdsteknik,<br>Ökad känsla av<br>tex digitala<br>självständighet och<br>samtal i ordinärt<br>trygghet samt<br>boende samt<br>förbättrade<br>sensorer på vård-<br>möjligheter till<br>och<br>fallprevention.<br>omsorgsboenden |
-|  |  |  | Aktiviteter som<br>Vård- och<br>främjar rörelse i<br>omsorgstagare får<br>samarbete med<br>förbättrad rörlighet<br>Kultur & Fritid<br>och styrka |
-|  |  |  | Styrka- och<br>balansaktiviteter Minskad risk för fall<br>på vård-och och fall som leder till<br>omsorgsboenden skador. |
-|  |  |  | Implementering<br>Ökad känsla av<br>av mobila<br>självständighet och<br>trygghetslarm<br>förbättrad hälsa |
-|  |  |  | Hembesök av<br>rehab vid<br>inskrivning i Tidiga insatser vid<br>hemsjukvården i risk för fall<br>ordinärt boende |
-| Ett medskapande<br>samhälle och öppen<br>attityd | Kungsbacka<br>kommun är<br>en attraktiv<br>arbetsgivare<br>med modiga<br>och<br>medskapande<br>medarbetare<br>och ledare. | Medarbetare hos<br>Vård & Omsorg får<br>den<br>kompetensutveckli<br>ng som krävs för<br>arbetet och kan<br>utvecklas genom<br>vidareutbildning | Ny och befintlig<br>Äldreomsorgslyft<br>personal får<br>et<br>möjlighet att utbilda<br>sig på arbetstid. |
+| Kommunövergripan<br>de mål | Fokusområde<br>n | Nämndmål | Aktiviteter | Förväntad effekt |
+| --- | --- | --- | --- | --- |
+|  | I Kungsbacka<br>är vi trygga<br>och får en<br>god vård och<br>omsorg när vi<br>behöver stöd<br>för att få livet<br>att fungera. | Antalet personal<br>som en<br>hemtjänstmottagar<br>e möter under 14<br>dagar ska årligen<br>minska och 2028<br>uppgå till maximalt<br>14 medarbetare | Gemensam<br>insats &<br>bemanningsenhe<br>t | Genom att samla<br>kompetenser kring<br>de arbetsmoment<br>som i störst<br>utsträckning<br>påverkar<br>personalkontinuitete<br>n, nämligen<br>insatsplanering och<br>bemanning ger det<br>oss bättre<br>förutsättning att<br>uppnå vårt mål. Att<br>samla<br>kompetenserna<br>under en enhet ger<br>oss också möjlighet<br>att arbeta mer<br>enhetlig över<br>samtliga enheter i<br>våra verksamheter.<br>Enheten ta också<br>hjälp av digitala<br>lösningar för att<br>arbeta mer<br>datadrivet/faktabaser<br>at och effektivt med<br>insatsplanering och<br>bemanning för att ha<br>rätt person på rätt<br>plats utifrån Gretas<br>behov. Sammantag<br>et bör detta hjälpa<br>oss att nå vårt mål. |
+|  |  | Upplevelsen av<br>ensamhet bland<br>äldre i Kungsbacka<br>som får insatser av<br>förvaltningen för<br>Vård & Omsorg ska<br>årligen minska. | Invånardrivna<br>aktiviteter utifrån<br>kartläggning | Meningsfulla<br>aktiviteter för vård-<br>och omsorgstagare<br>och ökad nöjdhet<br>över utbud |
+|  |  |  | Kartlägga orsak<br>till upplevd<br>ensamhet<br>(samarbete med<br>andra<br>förvaltningar) | Ökad förståelse för<br>och värdefulla<br>underlag till<br>nödvändiga åtgärder |
+| I Kungsbacka<br>utvecklas vi hela livet | I Kungsbacka<br>stärks<br>individens<br>och familjens<br>egen förmåga<br>att ta hand<br>om sitt liv. | Vård-och<br>omsorgstagare i<br>Kungsbacka<br>kommun har en<br>upplevd god hälsa<br>och blir stärkta i<br>fallpreventiva<br>åtgärder | Arbeta med<br>välfärdsteknik,<br>tex digitala<br>samtal i ordinärt<br>boende samt<br>sensorer på vård-<br>och<br>omsorgsboenden | Ökad känsla av<br>självständighet och<br>trygghet samt<br>förbättrade<br>möjligheter till<br>fallprevention. |
+|  |  |  | Aktiviteter som<br>främjar rörelse i<br>samarbete med<br>Kultur & Fritid | Vård- och<br>omsorgstagare får<br>förbättrad rörlighet<br>och styrka |
+|  |  |  | Styrka- och<br>balansaktiviteter<br>på vård-och<br>omsorgsboenden | Minskad risk för fall<br>och fall som leder till<br>skador. |
+|  |  |  | Implementering<br>av mobila<br>trygghetslarm | Ökad känsla av<br>självständighet och<br>förbättrad hälsa |
+|  |  |  | Hembesök av<br>rehab vid<br>inskrivning i<br>hemsjukvården i<br>ordinärt boende | Tidiga insatser vid<br>risk för fall |
+| Ett medskapande<br>samhälle och öppen<br>attityd | Kungsbacka<br>kommun är<br>en attraktiv<br>arbetsgivare<br>med modiga<br>och<br>medskapande<br>medarbetare<br>och ledare. | Medarbetare hos<br>Vård & Omsorg får<br>den<br>kompetensutveckli<br>ng som krävs för<br>arbetet och kan<br>utvecklas genom<br>vidareutbildning | Äldreomsorgslyft<br>et | Ny och befintlig<br>personal får<br>möjlighet att utbilda<br>sig på arbetstid. |
 
 <!-- sida 23 -->
 
@@ -1160,7 +1160,7 @@ Informationssäkerhet- & dat askydd årsberättelse 2025 Sida 4 av 8
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Beskrivning Antal 2025 Antal 2024 |  |  |
+| Beskrivning | Antal 2025 | Antal 2024 |
 | --- | --- | --- |
 | Begäran om registerutdrag | 9 | 3 |
 | Förfrågningar om förvaltningen behandlar personuppgifter | 0 | 0 |

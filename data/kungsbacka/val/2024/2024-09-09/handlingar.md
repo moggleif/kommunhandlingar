@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2c0e0b6e191975d71558ecc/17252846339
 sha256: f9533c5e9e8acd6276070c13c4cd526639c6200a9b7cb5939b42b24e2f2c7845
 bytes: 2209520
 sidor: 45
-hamtad: 2026-11-08T20:30:24+00:00
-konverterad: 2026-11-08T20:30:34+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:11:54+00:00
+konverterad: 2026-11-18T11:12:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok]
 tal_obekraftade: [41]
 figurer: [40]
 tolkade: []
@@ -284,14 +284,6 @@ Delårsrapport augusti 2024
 
 Utfall och prognos
 
-Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
-Miljoner kronor
-2023   2024    2024  avvikelse 2023    2024    delår
-Valnämnden       -0,3    2,0     1,7     0,3     0,2    1,4      1,2
-
-Periodens
--0,3    2,0     1,7     0,3     0,2    1,4      1,2
-resultat
 Sammanfattning - text till kommunstyrelsen
 Valnämnden har planerat och genomfört val till Europaparlamentet. Valnämnden har en positiv
 prognosavvikelse på 300 000 kronor vilket till stor del beror på ett högre statsbidrag än förväntat.
@@ -301,6 +293,15 @@ Förändring helårsprognos
 8
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Budget-<br>avvikelse | Delår<br>2023 | Delår<br>2024 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Valnämnden | -0,3 | 2,0 | 1,7 | 0,3 | 0,2 | 1,4 | 1,2 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Periodens<br>resultat | -0,3 | 2,0 | 1,7 | 0,3 | 0,2 | 1,4 | 1,2 |
+
+[Tabell 11-2](handlingar.tabeller/11-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

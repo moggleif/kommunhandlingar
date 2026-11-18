@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.760abdd193955bddff37ba2/17337366325
 sha256: 3f6495a04f35c19502831b0326c8d1d36f652cbc6981e61839dee452bc84a2d5
 bytes: 5172294
 sidor: 133
-hamtad: 2026-11-08T19:56:44+00:00
-konverterad: 2026-11-08T19:57:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:35:11+00:00
+konverterad: 2026-11-18T10:35:33+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [9, 42, 47, 52, 62, 63, 64, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 90, 91, 92, 93, 94, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 126, 127]
 tolkade: []
@@ -2001,16 +2001,17 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 53-54-1](handlingar.tabeller/53-54-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Risk för bristfällig 3. Vanligt 3. Kännbar (uppfattas Ja<br>återhämtning hos som besvärande för<br>medarbetare och att berörda intressenter och<br>förvaltningen bygger kommunen)<br>upp höga<br>semestersaldon på<br>grund av bristande<br>efterlevnad av<br>semesterlagen |
-| --- | --- |
-|  | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Resurs- och som besvärande för<br>kompetensbrist berörda intressenter och<br>kommunen) |
-|  | 3 Kommunövergripande 1. Osannolik (risken är 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till praktiskt taget som besvärande för<br>rekryteringsprocessen obefintlig) berörda intressenter och<br>kommunen) |
-| Ekonomi | 4 Risk för att 1. Osannolik (risken är 1. Försumbar (obetydlig Ja<br>representationskostnade praktiskt taget för berörda intressenter<br>r redovisas på ett obefintlig) och kommunen)<br>felaktigt sätt på grund av<br>avsiktliga eller<br>oavsiktliga fel |
-|  | 5 Risk för att manuella 1. Osannolik (risken är 1. Försumbar (obetydlig Ja<br>betalningar hanteras på praktiskt taget för berörda intressenter<br>ett felaktigt sätt på grund obefintlig) och kommunen)<br>av avsiktliga eller<br>oavsiktliga fel |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 6 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 7 Risk att anställda 3. Vanligt 3. Kännbar (uppfattas Ja<br>saknar kompetens inom som besvärande för<br>brandsäkerhet. berörda intressenter och<br>kommunen) |
-| Kategorier<br>Verksamhet | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 9 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Risk för bristfällig<br>återhämtning hos<br>medarbetare och att<br>förvaltningen bygger<br>upp höga<br>semestersaldon på<br>grund av bristande<br>efterlevnad av<br>semesterlagen | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk: Resurs- och<br>kompetensbrist | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 1. Osannolik (risken är<br>praktiskt taget<br>obefintlig) | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 4 Risk för att<br>representationskostnade<br>r redovisas på ett<br>felaktigt sätt på grund av<br>avsiktliga eller<br>oavsiktliga fel | 1. Osannolik (risken är<br>praktiskt taget<br>obefintlig) | 1. Försumbar (obetydlig<br>för berörda intressenter<br>och kommunen) | Ja |
+|  |  | 5 Risk för att manuella<br>betalningar hanteras på<br>ett felaktigt sätt på grund<br>av avsiktliga eller<br>oavsiktliga fel | 1. Osannolik (risken är<br>praktiskt taget<br>obefintlig) | 1. Försumbar (obetydlig<br>för berörda intressenter<br>och kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 6 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 7 Risk att anställda<br>saknar kompetens inom<br>brandsäkerhet. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 8 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 9 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 54 -->
 
@@ -2021,29 +2022,20 @@ Intern kontrollplan 2025
 
 10
 
-[Tabell 54-1](handlingar.tabeller/54-1.csv)
+[Tabell 54-55-1](handlingar.tabeller/54-55-1.csv)
 
-| Kategorier<br>Ekonomi | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip 1. Försumbar Redovisning är<br>ande risk: (obetydlig för inte solitärt<br>Grundläggande 2. Mindre vanligt berörda underlag till<br>redovisning intressenter och inriktningsbeslut.<br>kvalitetsbrister kommunen) |
-| --- | --- |
-|  | Kommunövergrip Risken<br>ande risk: omhändertas inom<br>Resurser till 2. Lindrig ramen för det<br>innovation, (uppfattas som målstyrda arbetet<br>digitalisering och 2. Mindre vanligt liten av berörda och följs upp i<br>omställning till intressenter och ordinarie<br>nya arbetssätt för kommunen) uppföljning.<br>framtidens<br>välfärd |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Risk för att inköp Denna risk är en<br>genomförs på ett dubblett med den<br>felaktigt sätt på 3. Kännbar kommunövergripa<br>grund av att (uppfattas som nde risken<br>inköpsprocessen besvärande för "Bristande<br>2. Mindre vanligt<br>och tillhörande berörda följsamhet till<br>riktlinjer inte intressenter och inköpsprocessen;<br>efterlevs kommunen) direktupphandling<br>respektive<br>avtalsuppföljning" |
-|  | Kommunövergrip 3. Kännbar Risken adresseras<br>ande risk: (uppfattas som inom ramen för<br>informationssäke besvärande för förvaltningens<br>2. Mindre vanligt<br>rhet; skydd av berörda systematiska<br>information mot intressenter och informationssäkerh<br>obehörig tillgång kommunen) etsarbete |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre vanligt | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Redovisning är<br>inte solitärt<br>underlag till<br>inriktningsbeslut. |
+|  |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Risken<br>omhändertas inom<br>ramen för det<br>målstyrda arbetet<br>och följs upp i<br>ordinarie<br>uppföljning. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Risk för att inköp<br>genomförs på ett<br>felaktigt sätt på<br>grund av att<br>inköpsprocessen<br>och tillhörande<br>riktlinjer inte<br>efterlevs | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Denna risk är en<br>dubblett med den<br>kommunövergripa<br>nde risken<br>"Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning" |
+|  |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken adresseras<br>inom ramen för<br>förvaltningens<br>systematiska<br>informationssäkerh<br>etsarbete |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken adresseras<br>inom ramen för<br>förvaltningens<br>systematiska<br>informationssäkerh<br>etsarbete |
 
 <!-- sida 55 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Intern kontrollplan 2025
-
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Kommunövergrip                  3. Kännbar Risken adresseras
-ande risk: It-               (uppfattas som inom ramen för
-säkerhet                     besvärande för förvaltningens
-2\. Mindre vanligt
-\- Bristande                       berörda systematiska
-driftmiljö hos              intressenter och informationssäkerh
-leverantörer                   kommunen) etsarbete
 
 11
 

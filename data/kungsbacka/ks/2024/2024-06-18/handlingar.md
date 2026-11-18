@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.72f9f89f1900fe890bf2f7/171829027765
 sha256: e960f0829cea7920bbae5cec10f34b7fe7894bebc1f662155c05addbb9d4cc1e
 bytes: 25141894
 sidor: 402
-hamtad: 2026-11-08T21:28:20+00:00
-konverterad: 2026-11-08T21:30:32+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:15:19+00:00
+konverterad: 2026-11-18T12:17:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [48, 49, 56, 57, 191, 192, 285, 286, 287, 288, 289, 290, 291, 292, 336, 337, 346, 357]
-figurer: [68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 87, 88, 89, 90, 95, 100, 102, 104, 108, 109, 110, 111, 112, 115, 116, 117, 118, 119, 120, 121, 142, 153, 162, 192, 193, 195, 196, 198, 199, 201, 202, 203, 204, 207, 208, 209, 215, 224, 225, 233, 234, 238, 240, 250, 252, 253, 254, 264, 265, 285, 286, 287, 288, 289, 290, 291, 292, 346]
+figurer: [68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 84, 85, 87, 88, 89, 90, 95, 100, 102, 104, 108, 109, 110, 111, 112, 115, 116, 117, 118, 119, 120, 121, 142, 153, 162, 192, 193, 195, 196, 198, 201, 202, 203, 204, 207, 208, 209, 215, 224, 225, 233, 234, 238, 240, 250, 252, 253, 254, 264, 265, 285, 286, 287, 288, 289, 290, 291, 292, 346]
 tolkade: []
 granskad: null
 ---
@@ -3469,20 +3469,16 @@ om budget avseende verksamhetsåret 2025 beslutas av Regionfullmäktige i juni. 
 budgetram, tillsammans med omhändertagande av kommunernas synpunkter, fastställs därefter
 Kollektivtrafikplanen av Driftnämnd Kollektivtrafik.
 
-Objekt           Beskrivning
-1   Tågtrafik        Västtåg Kungsbacka – Göteborg (Kungsbackapendeln),
-fler avgångar vardagar
-2   Stadsbusstrafik  Utökade öppettider och förstärkt utbud i
-kollektivtrafikstråk
+[Tabell 95-1](handlingar.tabeller/95-1.csv)
 
-3   Regionbusstrafik Utökade öppettider och förstärkt utbud i
-kollektivtrafikstråk
-4   Närtrafik        Utvecklad Närtrafik 2.0
-5   Stadsbusstrafik  Ny stadsbusslinje Tröingedal och Dals ängar
-Falkenberg
-
-6   Regionbusstrafik Översyn av regionbusstrafiken i nordost och sydost
-Varberg
+|  | Objekt | Beskrivning |
+| --- | --- | --- |
+| 1 Tågtrafik Västtåg Kungsbacka – Göteborg (Kungsbackapendeln),<br>fler avgångar vardagar |  |  |
+| 2 Stadsbusstrafik Utökade öppettider och förstärkt utbud i<br>kollektivtrafikstråk |  |  |
+| 3 Regionbusstrafik Utökade öppettider och förstärkt utbud i<br>kollektivtrafikstråk |  |  |
+| 4 Närtrafik Utvecklad Närtrafik 2.0 |  |  |
+| 5 Stadsbusstrafik Ny stadsbusslinje Tröingedal och Dals ängar<br>Falkenberg |  |  |
+| 6 Regionbusstrafik Översyn av regionbusstrafiken i nordost och sydost<br>Varberg |  |  |
 
 <!-- sida 96 -->
 
@@ -7575,11 +7571,11 @@ I detta kapitel beskrivs mål och planeringsstrategier. Strategin innehåller tr
 mål med tillhörande strategier, strategiska inriktningar samt effektmål. Nivåerna illustreras
 i modellen nedanför.
 
-Övergripande mål Strategi       Strategiska     Effektmål
-inriktningar
-Vilket är det  Vilka övergripande Hur genomför vi Vad vill vi uppnå och
-vägledande målet för strategier ska vi använda strategierna? hur vi att insatserna får
-planeringsperioden? för att förverkliga målet?  avsedd effekt?
+Övergripande mål                                Effektmål
+
+Vilket är det                                   Vad vill vi uppnå och
+vägledande målet för                            hur vi att insatserna får
+planeringsperioden?                             avsedd effekt?
 
 Exempel: En    Exempel: Stärk   Exempel: Stärk  Exempel: Minskad
 tillgänglig,   tillgängligheten mellan Västkustbanans kapacitet restid mellan
@@ -7596,6 +7592,13 @@ Varje målområde redogör för
 4\. vilka aktörer som tillsammans ska genomföra strategin.
 
 7
+
+[Tabell 199-1](handlingar.tabeller/199-1.csv)
+
+| Strategi | Strategiska |
+| --- | --- |
+|  | inriktningar |
+| Vilka övergripande<br>strategier ska vi använda<br>för att förverkliga målet? | Hur genomför vi<br>strategierna? |
 
 <!-- sida 200 -->
 
@@ -10371,7 +10374,7 @@ komma från förnybar energi jordbrukssektorn ska minska
 
 <!-- sida 265 -->
 
-Målområde  Strategi      Effektmål i RFP     Effektmål i RUS
+Målområde                                    Effektmål i RUS
 Näringslivet klimatpåverkande
 utsläpp /BRP ska minska
 
@@ -10425,19 +10428,29 @@ ansvarar för.
 
 [Tabell 265-1](handlingar.tabeller/265-1.csv)
 
-|  |  |
+| Strategi | Effektmål i RFP |
 | --- | --- |
+|  |  |
 | Ökad beredskapsförmåga | Antalet förseningar och trafikavbrott<br>ska minska |
-| Attraktiva livsmiljöer | Andelen hallänningar med god<br>tillgång till grönytor och<br>friluftsområden ska öka |
+| Attraktiva livsmiljöer | Andelen hallänningar med god |
+|  | tillgång till grönytor och |
+|  | friluftsområden ska öka |
 |  | Antalet gästnätter i Halland ska öka |
-|  | Andelen hallänningar med god<br>tillgång till privat och offentlig service<br>ska vara god i regionens olika delar |
-|  | Andelen som rekommenderar<br>Halland som boenderegion ska vara<br>högst i Sverige |
+|  | Andelen hallänningar med god |
+|  | tillgång till privat och offentlig service |
+|  | ska vara god i regionens olika delar |
+|  | Andelen som rekommenderar |
+|  | Halland som boenderegion ska vara |
+|  | högst i Sverige |
 | Hållbar<br>bebyggelseutveckling | Antalet nybyggda bostäder ska vara<br>tillräckligt för att möta behoven |
 |  | Andelen hallänningar som bor i<br>kollektivtrafiknära läge ska öka |
 |  | Antalet arbetstillfällen tillgängliga<br>inom 60 minuter med kollektivtrafik<br>ska öka |
-| Hållbar markanvändning<br>för näringslivet | Antalet arbetstagare företagen i<br>Halland når inom 60 minuter ska öka |
+| Hållbar markanvändning | Antalet arbetstagare företagen i |
+| för näringslivet | Halland når inom 60 minuter ska öka |
 | En sammanhållen grön<br>infrastruktur | Följs upp genom de regionala<br>miljömålen som Länsstyrelsen<br>ansvarar för. |
-| Säkra vattnets värde som<br>resurs | Följs upp genom de regionala<br>miljömålen som Länsstyrelsen<br>ansvarar för. |
+| Säkra vattnets värde som | Följs upp genom de regionala |
+| resurs | miljömålen som Länsstyrelsen |
+|  | ansvarar för. |
 
 <!-- sida 266 -->
 
@@ -13702,7 +13715,6 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 336 -->
 
-| ” ;
 YE  Soerigedemokraterna
 
 Kungsbacka 200611
@@ -15021,7 +15033,7 @@ personnumren mot offentliga register. Syftet har varit att komma till rätta med
 
 [Tabell 364-1](handlingar.tabeller/364-1.csv)
 
-| Sökande (inför anställning) Medarbetare (redan anställda) |  |  |
+|  | Sökande (inför anställning) | Medarbetare (redan anställda) |
 | --- | --- | --- |
 | Registerutdrag, avseende beslut om<br>domar i vissa brott | Ja, kontroll ska eller får ske inom<br>vissa definierade kommunala<br>verksamheter | Nej, kontroll av redan anställda har<br>inte lagstöd, förutom för<br>säkerhetsklassade tjänster, se<br>nedan. |
 | Misstankeregister | Ja, ska ske i vissa verksamheter | Nej, har ej lagstöd |
