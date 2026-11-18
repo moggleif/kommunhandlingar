@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ffb847f1a1a1715bb884c5f/1794208275
 sha256: 91ae8c4f7406ad0c00619e187bb5421457b3bd2b2185ca080feb928b8691c65a
 bytes: 34411534
 sidor: 120
-hamtad: 2026-11-09T08:06:58+00:00
-konverterad: 2026-11-09T08:10:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T10:14:23+00:00
+konverterad: 2026-11-18T10:17:50+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -4628,9 +4628,9 @@ timavgiften.
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 
-| 4.1 Årsarbetstid<br>Genomsnittlig årsarbetstid per handläggare (timmar). Kontakta HR för den<br>aktuella tiden i er kommun. (2000 tim enligt SKR schablon).<br>2 000 |  |
+| 4.1 Årsarbetstid |  |
 | --- | --- |
-|  | 2 000 |
+| Genomsnittlig årsarbetstid per handläggare (timmar). Kontakta HR för den<br>aktuella tiden i er kommun. (2000 tim enligt SKR schablon). | 2 000 |
 
 [Tabell 113-2](handlingar.tabeller/113-2.csv)
 
@@ -4774,48 +4774,27 @@ kan vara en förvaltningsgemensam kostnad.
 
 Antal årsarbetskrafter inom livsmedelkontrollen 5,00
 
-Kostnad                          Livsmedelkontrollens andel Livsmedelkontrollens Total kostnad
-av förvaltningens kostnader egna kostnader
-per handläggare
-Löner (livsmedelsinspektörer)                              3 310 000 3 310 000
-Livsmedelsinspektörernas lönekostnader inklusive PO-tillägg
+[Tabell 117-118-1](handlingar.tabeller/117-118-1.csv)
 
-Övriga löner                               310 813 \* 5 =            1 554 063
-Löner till övrig personal, inklusive stödpersonal och 1 554 063
-administrativ personal, som medverkar i den offentliga
-kontrollen samt socialförsäkrings- och pensionsavgifter och
-försäkringskostnader för personalen.
-
-Nämndens kostnader                          63 875 \* 5 =             319 375
-Nämndens kostnader för livsmedelskontrollens  319 375
-myndighetsarbete
-Lokalkostnader och utrustning               60 156 \* 5 =             300 781
-I punkten ingår förvaltningens lokalkostnader och utrustning 300 781
-avseende kontrollen. Försäkringar, underhåll, räntekostnader
-och avskrivningar omfattas också.
-
-IT-utrustning                               14 688 \* 5 =              73 438
-I punkten ingår förvaltningens IT-utrusning för kontrollen. 73 438
-Förvaltning, drift och utveckling av IT-system omfattas. I detta
-ingår också den avskrivningskostnad som systembyggnaden
-medför efter att systemet tagits i drift.
-Kontorsmaterial och skyddsutrustning         8 906 \* 5 =              44 531
-Avser datorer, telefoner, i-pads, böcker, tryckmaterial, 44 531
-kontorsmaterial, tidningar, elektronisk media, prenumerationer,
-laboratoriematerial, arbetskläder, skyddsmaterial etc. som
-förvaltningen budgeterar/faktureras för.
-
-Transportmedel och kommunikation            23 594 \* 5 =             117 969
-Drivmedel, fordonsskatt, leasing/hyra av bilar, trängselskatt, 117 969
-övriga kostnader för transportmedel som förvaltningen
-budgetar/faktureras för. Här ingår också porto, telefoni, IT- och
-datakommunikation som förvaltningen budgeterar/faktureras
-för.
-Utbildning                                  16 500 \* 5 =              82 500
-Kostnader för förvaltningens utbildning av den personal som 82 500
-medverkar i den offentliga kontrollen, med undantag för den
-utbildning som krävs för att erhålla den kompetens som krävs
-för att vara anställd hos de behöriga myndigheterna.
+| Kostnad | Livsmedelkontrollens andel<br>av förvaltningens kostnader<br>per handläggare | Livsmedelkontrollens<br>egna kostnader | Total kostnad |
+| --- | --- | --- | --- |
+| Löner (livsmedelsinspektörer)<br>Livsmedelsinspektörernas lönekostnader inklusive PO-tillägg |  | 3 310 000 | 3 310 000 |
+| Övriga löner<br>Löner till övrig personal, inklusive stödpersonal och<br>administrativ personal, som medverkar i den offentliga<br>kontrollen samt socialförsäkrings- och pensionsavgifter och<br>försäkringskostnader för personalen. | 310 813 \* 5 =<br>1 554 063 |  | 1 554 063 |
+| Nämndens kostnader<br>Nämndens kostnader för livsmedelskontrollens<br>myndighetsarbete | 63 875 \* 5 =<br>319 375 |  | 319 375 |
+| Lokalkostnader och utrustning<br>I punkten ingår förvaltningens lokalkostnader och utrustning<br>avseende kontrollen. Försäkringar, underhåll, räntekostnader<br>och avskrivningar omfattas också. | 60 156 \* 5 =<br>300 781 |  | 300 781 |
+| IT-utrustning<br>I punkten ingår förvaltningens IT-utrusning för kontrollen.<br>Förvaltning, drift och utveckling av IT-system omfattas. I detta<br>ingår också den avskrivningskostnad som systembyggnaden<br>medför efter att systemet tagits i drift. | 14 688 \* 5 =<br>73 438 |  | 73 438 |
+| Kontorsmaterial och skyddsutrustning<br>Avser datorer, telefoner, i-pads, böcker, tryckmaterial,<br>kontorsmaterial, tidningar, elektronisk media, prenumerationer,<br>laboratoriematerial, arbetskläder, skyddsmaterial etc. som<br>förvaltningen budgeterar/faktureras för. | 8 906 \* 5 =<br>44 531 |  | 44 531 |
+| Transportmedel och kommunikation<br>Drivmedel, fordonsskatt, leasing/hyra av bilar, trängselskatt,<br>övriga kostnader för transportmedel som förvaltningen<br>budgetar/faktureras för. Här ingår också porto, telefoni, IT- och<br>datakommunikation som förvaltningen budgeterar/faktureras<br>för. | 23 594 \* 5 =<br>117 969 |  | 117 969 |
+| Utbildning<br>Kostnader för förvaltningens utbildning av den personal som<br>medverkar i den offentliga kontrollen, med undantag för den<br>utbildning som krävs för att erhålla den kompetens som krävs<br>för att vara anställd hos de behöriga myndigheterna. | 16 500 \* 5 =<br>82 500 |  | 82 500 |
+| Resor<br>Kostnader för resor och därmed förbundna traktamenten för<br>den personal som medverkar i den offentliga kontrollen. |  |  |  |
+| Provtagning<br>Livsmedelskontrollens kostnader för provtagning och för<br>laboratorieanalys, laboratorietestning och laboratoriediagnostik<br>som officiella laboratorier tar ut för dessa uppgifter. |  | 10 000 | 10 000 |
+| Summa livsmedelkontrollens kostnader |  |  | 5 812 656 |
+|  |  |  |  |
+| Kommunbidrag<br>Avdrag för anslagsfinansiering/kommunbidrag (kr) |  |  |  |
+| Kommunbidrag<br>Andelanslagsfinsiering/kommunbidrag av kostnader (%) |  |  | 0% |
+| Summa anslag |  |  |  |
+|  |  |  |  |
+| Summa |  |  | 5 812 656 |
 
 <!-- sida 118 -->
 
@@ -4827,19 +4806,6 @@ Summa livsmedelkontrollens kostnader enligt ovan                  5 812 656
 Summa anslag enligt ovan                                              -
 
 Totalkostnader enligt ovan                                        5 812 656
-
-[Tabell 118-1](handlingar.tabeller/118-1.csv)
-
-| Resor<br>Kostnader för resor och därmed förbundna traktamenten för<br>den personal som medverkar i den offentliga kontrollen. |  |  |  |
-| --- | --- | --- | --- |
-| Provtagning<br>Livsmedelskontrollens kostnader för provtagning och för<br>laboratorieanalys, laboratorietestning och laboratoriediagnostik<br>som officiella laboratorier tar ut för dessa uppgifter. |  | 10 000 | 10 000 |
-| Summa livsmedelkontrollens kostnader |  |  | 5 812 656 |
-|  |  |  |  |
-| Kommunbidrag<br>Avdrag för anslagsfinansiering/kommunbidrag (kr) |  |  |  |
-| Kommunbidrag<br>Andelanslagsfinsiering/kommunbidrag av kostnader (%) |  |  | 0% |
-| Summa anslag |  |  |  |
-|  |  |  |  |
-| Summa |  |  | 5 812 656 |
 
 <!-- sida 119 -->
 
