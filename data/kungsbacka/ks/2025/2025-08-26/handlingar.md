@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ed5df63198cae4d8001ca6/17557561150
 sha256: 571b817d95c973cbdfb60c52fca76352fbca9c17f0b1c2a7f897122f1513845d
 bytes: 276797708
 sidor: 387
-hamtad: 2026-11-08T22:57:06+00:00
-konverterad: 2026-11-08T23:07:56+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T22:05:14+00:00
+konverterad: 2026-11-18T22:15:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -555,22 +555,24 @@ Intern kontrollplan 2026
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Kategorier<br>Ekonomi | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Debiteringsrutiner 2. Mindre 3. Kännbar (uppfattas Ja<br>vanligt som besvärande för<br>berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. | 2 3. Vanligt 3. Kännbar (uppfattas Ja<br>Kommunövergripan som besvärande för<br>de risk: Bristande berörda intressenter och<br>följsamhet till kommunen)<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 3 2. Mindre 4. Allvarlig/stor inverkan Ja<br>Kommunövergripan vanligt (så stor att den inte får<br>de risk - Risk för inträffa)<br>korruption och<br>välfärdsbrottslighet |
-|  | 4 2. Mindre 3. Kännbar (uppfattas Ja<br>Kommunövergripan vanligt som besvärande för<br>de risk: berörda intressenter och<br>Förvaltningarnas kommunen)<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | 1 Debiteringsrutiner | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. |  | 2<br>Kommunövergripan<br>de risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3<br>Kommunövergripan<br>de risk - Risk för<br>korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4<br>Kommunövergripan<br>de risk:<br>Förvaltningarnas<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 18-19-2](handlingar.tabeller/18-19-2.csv)
 
-| Kategorier<br>Personal | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunöver- 2. Mindre 3. Kännbar Efterlevnad till gällande<br>gripande risk: vanligt (uppfattas som rutiner har följts upp under<br>Efterlevnad till besvärande för några år och visar på gott<br>rekryterings- berörda resultat. Åtgärder<br>processen intressenter och (information och utbildning)<br>kommunen) har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
-| --- | --- |
-| Ekonomi | Kommunövergripa 2. Mindre 3. Kännbar Utvecklingsarbete pågår bl<br>nde risk: vanligt (uppfattas som a med nya avstämningar<br>Grundläggande besvärande för och rapporter (BI)<br>redovisning berörda<br>kvalitetsbrister intressenter och<br>kommunen) |
-| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, | Kommunövergripa 2. Mindre 3. Kännbar Arbetet med<br>nde risk: vanligt (uppfattas som informationssäkerhet följer<br>informationssäkerh besvärande för gemensamma<br>et; skydd av berörda styrdokument med<br>information mot intressenter och uppföljning i egen process.<br>obehörig tillgång kommunen) |
-| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
-|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
-| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
+| Kategorier |  | Risker | Sannolik<br>het | Konsekvens | Anledning till att risk ej<br>tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunöver-<br>gripande risk:<br>Efterlevnad till<br>rekryterings-<br>processen | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Efterlevnad till gällande<br>rutiner har följts upp under<br>några år och visar på gott<br>resultat. Åtgärder<br>(information och utbildning)<br>har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
+| Ekonomi |  | Kommunövergripa<br>nde risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utvecklingsarbete pågår bl<br>a med nya avstämningar<br>och rapporter (BI) |
+| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, |  | Kommunövergripa<br>nde risk:<br>informationssäkerh<br>et; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Arbetet med<br>informationssäkerhet följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen process. |
+| administra<br>tion, inköp<br>m fl. |  | Kommunövergripa<br>nde risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>inköpsprocessen/leverantö<br>rsuppföljning. Även<br>uppföljning egenom<br>systemförvaltarmodellen. |
+|  |  | Kommunövergripa<br>nde risk: Risk att<br>samhällsutbyggnad<br>inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbyggna<br>d av befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnadsledning<br>(Samhällsbyggnadsproces<br>sen) där vi kommer att<br>arbeta med ”Obruten digital<br>samhällsbyggnadsprocess”<br>samt ”Utbyggnadsplan”. I<br>Samhällsbyggnadsledning<br>finns flera förvaltningar<br>representerade (Teknik,<br>Service, Bygg o Miljö,<br>Kultur o Fritid samt KSF<br>genom SBK och Ekonomi. |
+| Verksamh<br>et |  | Kommunövergripa<br>nde risk: Dämpad<br>befolkningstillväxt<br>med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>budgetprocessen och<br>lokalplanen. |
+|  |  | Risk att<br>kommunstyrelsen<br>inte utövar sin<br>uppsiktsplikt över<br>den kommunala<br>verksamheten på<br>ett ändamålsenligt<br>sätt | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 19 -->
 
@@ -2225,7 +2227,6 @@ Kungsbacka kommun
 
 <!-- sida 60 -->
 
-06-14 SR
 Datum 2025- Y Datum 2025- b£-1Y
 Aranäs Projekt AB JM AB
 
@@ -2293,11 +2294,7 @@ Kolla Parkstad, Kungsbacka
 
 Uppdragsnr: 1051799 Version: 1.0 Datum: 2024-11-11
 
-1
-
 nn
-
-NW NN
 
 Norconsult 4
 
@@ -2334,7 +2331,6 @@ Kerngsutredning kolla parkstad docx
 <!-- sida 65 -->
 
 Mobilitets- och parkeringsutredning Norconsult 4
-Dar (
 
 Kolla Parkstad, Kungsbacka
 Uppdragsnr.: 1051799 Version: 1.0
@@ -2493,11 +2489,8 @@ Norconsult 0
 
 I Tabell 1 ses en översikt över antalet utbyggda bostäder i Kolla Parkstad vid investeringstillfället år 2022.
 
-Tabell 1. Antal utbyggda bost
-
 396
 
-SAÄAPAAA Jb vebfern
 ader vid inventerne
 
 16
@@ -2691,9 +2684,7 @@ Kolla Parkstad, Kungsbacka Norconsult 5
 Uppdragsnr.: 1051799 Version: 1.0
 
 I Figur 3 redovisas befinilga Na samt Ryke baner inom Kolla Parkstad.
-HH
-
-2\)
+HM
 
 Im Vuäralalla
 
@@ -2878,7 +2869,6 @@ vara 0,76 bilplatser/lägenhet och 1,06 bilplatser/hus.
 
 I Tabell 5 presenteras en sammanställning av inventeringsresultaten för område A — Söder.
 
-Tabell 5. Sammanställning av inventeringsresultatet i område A — Söder får 2022)
 Privat bilplats |85 136 62,54
 SR Ö
 Allmän bilplats | 61 141 43,30 122 50 0,76 1.06
@@ -2899,16 +2889,16 @@ Sammanlagt fanns vid inventeringen 74 bilar parkerade i området. Detta ger en b
 
 I Tabell 6 presenteras en sammanställning av inventeringsresultaten för område B — Norr.
 
-Tabell 6. Sammanst ng av invent resultatet i område B — Norr (år 2022).
 Antal Antal P- Beläggnings-| Antal P-behov
 parkerade |platser grad lägenheter Igh
 
 bilar (bp/igh)
 
 Privat bilplats |50 67 74,6N0
-Fe ra
+
 Allmän bilplats | 24 147 16,30 0 59 - 1,25
 Garage - - -
+
 Totalt 74 214 34,64
 
 3.2.2 Område B — Söder
@@ -2962,18 +2952,12 @@ har beräknats vara 0,71 bilplatser/lägenhet och 0,99 bilplatser/hus.
 
 I Tabell 8 presenteras en sammanställning av inventeringsresultaten för område C — Norr.
 
-Sammanställning av inventeringsresultatet I område C — No 022)
-
 Antal Antal P- Beläggnings-/| Antal Antal P-behov P-behov
 parkerade |platser grad lägenheter |småhus Igh hus
 bilar (bp/lgh) (bp/hus)
-
 Privat bilplats |27 41 65,94
-
 Allmän bilplats | 93 103 90,3Y0
-
 Garage 39 39 100240 220 3 71 29
-
 Totalt 159 183 86,94
 
 3.3.2 Område C — Söder
@@ -3003,9 +2987,10 @@ Uppdragsnr.: 1051799 Version: 1.0
 Tabell 9. Sammanställning av inventeringsresultatet I område C — Söder (år 2022).
 
 Privat bilplats |77 115 674
-SK Gö
+
 Allmän bilplats | 87 160 54,44 136 38 0,87 121
 Garage - - -
+
 Totalt 164 275 59,64
 
 3.4 Övriga parkeringsytor
@@ -3021,7 +3006,6 @@ ir reserverade för taxi. övriga 22
 
 nhägnad p
 
-MN nns även en ker a Dersc al sg
 Antal parkerade bilar | Antal P-platser Beläggningsgrad
 
 Kollaskolan? 14 69 20,30
@@ -3149,14 +3133,13 @@ Parkeringsbehoven i avsnitt 3 Inventeringsresultat multipliceras med uppräkning
 tillägget med hänsyn till inventeringstid. I Tabell 12 redovisas det maximala parkeringsbehovet i nuläget och
 maximal nyttjandegrad i nuläget beräknas.
 
-per 2 = | 7
 Maximalt P- i Maximal
 behov nuläge behov nuläge P-behov befintliga nyttjande-
 lägenhet (bp/lgh) | hus (bp/hus) nuläge (bp) |bilplatser grad nuläge
 
 Område A— Norr 10,99 1,39 414 487 85 Yo
 Område A — Söder | 0,87 1,22 168 2177 61 4
-Område B- Norr = |- 1,44 85 214 40 Yo
+Område B- Norr = |- 1,44 85 214 40 4
 Område B — Söder |1,04 1,46 60 91 66 Yo
 Område C — Norr 10,82 1,14 183 183 100 24
 Område C — Söder | 1,00 1,42 189 275 69 4
@@ -3264,8 +3247,6 @@ gt kvarter samt antal tillkommande
 
 gda kvarter.
 
-Tabell 13. Sammanställning av uppskattat antal bostäder i respektive obebyc
-
 parkeringsplatser. Uppskattningarna baseras på en spegling av redan bebyg
 
 Kvarter 5 26 0 26 0 20
@@ -3325,7 +3306,6 @@ olika områdena (A-—C). Det dimensionerande parkeringsbehovet beräknas till 1
 Totalt i Kolla Parkstad, efter exploatering av de obebyggda kvarteren, beräknas det finnas 1 640 platser vilket
 ger ett överskott om 395 platser.
 
-aj. Vid inventering
 ar |
 Antal Framtida, Överskott
 bostäder P-platser maximalt eller brist på
@@ -3364,7 +3344,7 @@ Skolparkeringen är skyltad ”P 1 tim 06-18.
 e 21 bilplatser vid Kolla Parkstads förskola finns tillgängliga för parkering kvälls- och nattid.
 Parkeringsplatserna är skyltade ”P 30 min 06-19".
 
-https iinorconsult385-my.sharepoint.com/personalikarin gamberg norconsult com/documents/desktop kolla 2024-11-11 I Sida 19 av 22
+https ifnorconsult385-my.sharepoint.com/personalikarin gamberg norconsult com/documents/desktop kolla 2024-11-11 I Sida 19 av 22
 
 gsutredning kolla parkstad docx
 
@@ -3555,8 +3535,6 @@ Ugh, hyresrätt
 
 Område B
 \- Söder
-
-(SE
 
 Figur 1. Översikt över Kolla Parkstad.
 
@@ -3808,7 +3786,6 @@ v.sharepomt.com.perso
 Mobili
 
 tets- och parkeringsutredning Norconsult 4
-3 Kungsnasksa Ce
 
 de skisser som finns. Kring kvarter 5, 7, 8 och 9 är redan samtlig gatuparkering färdigställd och det som
 tillkommer är därmed endast privata parkeringsplatser. Kring kvarter 13c finns redan allmänna
@@ -3882,7 +3859,7 @@ ger ett överskott om 395 platser.
 
 t framtida parkeringsbehovet i Kolla Parkstad
 
-55 platser vid Kollaskolan och 21 platser vid Kolla Parkstads förskola). Vid nmventering
+55 platser vid Kollaskolan och 21 platser vid Kolla Parkstads förskola). Vid mventering
 
 sar 14 bilar parkerade på dessa vilket innebär att 72 platser finns tillgängliga
 
@@ -3902,7 +3879,6 @@ Kvarter 13c 39 0 39 14 37 -23
 Totalt obebyggt 142 10 152 113 147 -34
 Totalt Kolla Parkstad |1065 — |182  |1247 1640 [1245 +395
 Reservplatser” 86 - +f2
-Totalt Kolla é 1726 [1245 — [+467
 
 Om ett tillägg med hänsyn till att bilplatser kan vara reserverade för enskilda hushåll görs beräknas det
 framtida parkeringsbehovet vara 1 230 platser för de utbyggda kvarteren respektive 175 platser för de
@@ -4174,7 +4150,7 @@ Exploatörernas kvartersmark inom Exploateringsområdet med boendekort.
 Förutsättningarna för och konsekvenserna av upplåtelse med boendekort är följande:
 
 \- Vid beräkning av parkeringsbehovet för boende och besökare kan behovet genom
-samnyttjande reduceras med 25 94 på all parkering som upplåtes med boendekort.
+samnyttjande reduceras med 25 940 på all parkering som upplåtes med boendekort.
 Beräkning av behovet framgår av bilaga 6, Parkeringsplan.
 
 \- Kvartersmarken för verksamheter i västra delen av Exploateringsområdet skall inte
@@ -4415,13 +4391,9 @@ Stockholm den 7/4 2010 Kungsbacka den 2Y/3 2010
 ägare till exploateringsfastighet för
 
 JM AB'(publ) Kungsbacka kommun som blivande
-/ /
 j bostads-/äganderätt/ägarlägenheter
 
 /
-
-; 4 IL AnAr
-K kamalmi (X NTE
 
 Kungsbacka den ä/ 2010
 
@@ -5060,10 +5032,8 @@ Markera fastigheten eller fastigheterna du begär planbesked för
 Du kan välja att bifoga en situationskarta med tydliga markeringar istället för att markera
 fastigheten eller fastigheterna på denna kartan.
 
-\> |
 \>
 än
-Ms LJ ?
 43
 
 ”SSängpas
@@ -6896,7 +6866,6 @@ Trafikens fortsatta utveckling, former för samverkan
 Utvecklingen av kollektivtrafiken är fortsatt en gemensam angelägenhet för
 Parterna. Parterna ska verka för en sammanhållen strategisk målstyrning utifrån
 regionala och lokala målsättningar för tillväxt och utveckling i Västra Götalands
-län.
 
 Samverkansformer ska etableras för att säkerställa ett arbetssätt där Parterna i en
 gemensam process arbetar fram den strategiska inriktningen för kollektivtrafikens
@@ -7196,7 +7165,7 @@ nivå 2011
 1481 Mölndal 36 816 36816
 1482 Kungälv 26 011 26014
 1484 Lysekil 15 708 -1 296 14 412
-1485 Uddevalla 31 737 -2 993 28 744]
+1485 Uddevalla 31737 -2 993 28 744]
 1486 Strömstad 5932 5 932
 1487 Vänersborg 14 461 14461
 1488 Trollhättan 28 942 28 942
