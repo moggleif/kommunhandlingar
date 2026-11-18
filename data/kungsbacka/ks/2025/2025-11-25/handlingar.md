@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe802f6/1763735030
 sha256: 20f709db365993db67a79cf78cc77b78722809826a517c6a70f10d26b6393445
 bytes: 232738866
 sidor: 1082
-hamtad: 2026-11-09T08:17:36+00:00
-konverterad: 2026-11-09T08:31:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T22:34:03+00:00
+konverterad: 2026-11-18T22:46:12+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [14, 126, 133, 134, 135, 136, 137, 173, 202, 217, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 398, 399, 429, 470, 474, 477, 478, 809, 849, 850, 851, 852, 853, 854, 855, 856, 857, 858, 859, 860, 861, 862, 863, 864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874, 875, 876, 877, 878, 879, 880, 906, 915, 916, 917, 918, 919, 920, 921, 922, 923, 924, 925, 926, 927, 928, 929, 930, 931, 932, 933, 934, 935, 936, 937, 938, 939, 940, 941, 1042, 1043, 1044, 1045, 1046, 1047, 1048, 1049]
 figurer: [61, 123, 126, 138, 143, 144, 145, 148, 153, 154, 156, 162, 164, 179, 202, 210, 211, 212, 213, 214, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 237, 241, 244, 254, 257, 258, 262, 265, 267, 280, 283, 288, 295, 297, 298, 299, 300, 304, 305, 310, 327, 330, 336, 337, 342, 359, 363, 366, 376, 383, 414, 442, 453, 455, 458, 459, 460, 461, 464, 469, 474, 477, 478, 480, 481, 482, 483, 484, 486, 487, 488, 489, 491, 492, 493, 494, 501, 502, 503, 573, 574, 656, 657, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 695, 696, 697, 700, 701, 704, 705, 706, 707, 708, 711, 714, 717, 718, 721, 723, 725, 726, 729, 732, 736, 740, 741, 745, 746, 751, 754, 756, 760, 761, 763, 769, 772, 776, 777, 783, 803, 809, 886, 906, 907, 922, 942, 943, 947, 948, 949, 950, 954, 959, 960, 961, 962, 967, 968, 969, 970, 971, 973, 979, 983, 984, 992, 993, 1011, 1081]
 tolkade: []
@@ -746,44 +746,27 @@ Därtill visar måtten framdrift i planarbetet både vad gäller antal och ledti
 
 7.2 Resursmått
 
-Delområde   Nyckeltal Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026
-
-Ledtid
-detaljplan
-från
-projektstart
-Samhällsbyggnad             27       31       28        31       31
-till
-antagande,
-anges i
-månader
 Från och med 2026 är mätvärdet median istället för medelvärde.
+
 7.3 Prestationsmått
 
-Delområde   Nyckeltal   Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026
-Antal
-Näringsliv  företagsärenden  50       60       46       60       50
-i företagslotsen
-Antagna
-12        9       10       25       25
-detaljplaner
-Planlagda
-bostäder i
-381     386      248      500      500
-antagna
-detaljplaner
-Samhällsbyggnad Antagna
-detaljplaner
-8
-innehållande
-småhus
-Andel
-småhus av totalt
-20 %
-antal planlagda
-bostäder
-
 11
+
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 | Budget 2025 | Budget 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Samhällsbyggnad | Ledtid<br>detaljplan<br>från<br>projektstart<br>till<br>antagande,<br>anges i<br>månader | 27 | 31 | 28 | 31 | 31 |
+
+[Tabell 24-2](handlingar.tabeller/24-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 | Budget 2025 | Budget 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Näringsliv | Antal<br>företagsärenden<br>i företagslotsen | 50 | 60 | 46 | 60 | 50 |
+| Samhällsbyggnad | Antagna<br>detaljplaner | 12 | 9 | 10 | 25 | 25 |
+|  | Planlagda<br>bostäder i<br>antagna<br>detaljplaner | 381 | 386 | 248 | 500 | 500 |
+|  | Antagna<br>detaljplaner<br>innehållande<br>småhus |  |  |  |  | 8 |
+|  | Andel<br>småhus av totalt<br>antal planlagda<br>bostäder |  |  |  |  | 20 % |
 
 <!-- sida 25 -->
 
@@ -792,23 +775,16 @@ Nämndbudget 2026
 
 7.4 Effektmått
 
-Delområde   Nyckeltal      Utfall 2022 Utfall 2023 Utfall 2024
-Antal nystartade
-företag per tusen
-12,8    10,3    12,3
-invånare
-(etableringsfrekvens)
-Näringsliv    Antal
-11 808  11 948   11 987
-arbetsställen
-Sysselsatt
-dagbefolkning, 15- 28 494 28 586
-74 år
-Tillgänglig
-Samhällsbyggnad verksamhetsmark,
-yta i hektar
-
 12
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Näringsliv | Antal nystartade<br>företag per tusen<br>invånare<br>(etableringsfrekvens) | 12,8 | 10,3 | 12,3 |
+|  | Antal<br>arbetsställen | 11 808 | 11 948 | 11 987 |
+|  | Sysselsatt<br>dagbefolkning, 15-<br>74 år | 28 494 | 28 586 |  |
+| Samhällsbyggnad | Tillgänglig<br>verksamhetsmark,<br>yta i hektar |  |  |  |
 
 <!-- sida 26 -->
 
@@ -826,20 +802,16 @@ att kräva.
 
 8.2 Personalmått
 
-Nyckeltal          Utfall 2022 Utfall 2023 Utfall 2024
-Anställda andel män    24,2 %     28 %     26,2 %
-Andel heltid            100 %    100 %     100 %
-
-Antal medarbetare per
-11,9      13,8     10,9
-enhetschef
-
 13
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Sjukfrånvaro Totalt | 2,5 % | 2,6 % | 1,9 % |
+| Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 |
 | --- | --- | --- | --- |
+| Anställda andel män | 24,2 % | 28 % | 26,2 % |
+| Andel heltid | 100 % | 100 % | 100 % |
+| Antal medarbetare per<br>enhetschef | 11,9 | 13,8 | 10,9 |
+| Sjukfrånvaro Totalt | 2,5 % | 2,6 % | 1,9 % |
 | Sjukfrånvaro Kvinnor | 3 % | 3,3 % | 2,3 % |
 | Sjukfrånvaro Män | 1,1 % | 0,8 % | 1 % |
 | Korttidssjukfrånvaro | 1,6 % | 1,4 % | 1,3 % |
@@ -848,9 +820,9 @@ enhetschef
 | Långtidssjukfrånvaro | 0,9 % | 1,2 % | 0,6 % |
 | Långtidssjukfrånvaro Kvinnor | 1,2 % | 1,6 % | 0,8 % |
 | Långtidssjukfrånvaro Män | 0 % | 0 % | 0,2 % |
-| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer | 31,5 % | 29 % | 13,4 % |
-| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer Kvinnor | 35,6 % | 31,8 % | 15,6 % |
-| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer Män | 0 % | 0 % | 0 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 31,5 % | 29 % | 13,4 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 35,6 % | 31,8 % | 15,6 % |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 0 % | 0 % | 0 % |
 | Anställda totalt | 124 | 125 | 126 |
 | Anställda andel kvinnor | 75,8 % | 72 % | 73,8 % |
 | Personalomsättning | 11,7 % | 8,3 % | 4,8 % |
@@ -963,175 +935,141 @@ Nämndbudget 2026
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                  KF 2015-03-10 § 30
-
-Finansverksamhet, policy                          KF 2024-04-09 § 59
-Fördjupad översiktsplan för Tjolöholm             KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad       KF § 2021-11-09 § 140
-
-Reglemente för Kommunstyrelsen                    KF 2024-12-12 § 160
-Anläggningsstöd till samlingslokaler, hembygdsgårdar och liknande byggnader KF 2015-10-15 § 142
-Barnets rätt                                      KF 2014-11-11 §
-
-Donationsstiftelser                               KF 1998-05-14 § 101
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Översiktsplan för vindkraft                       KF 2021-11-09 § 140
-Kommunikation                                     KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                   KF 2021-11-09 § 140
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Regler för arbete mot klotter och skadegörelse    KF 2013-04-16 § 58
-Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter KF 2024-05-07 § 82
-Översiktlig täktplan                              KF 1999-09-09 § 157
-
-Reglemente Krisledningsnämnden                    KF 2024-02-06 § 11
-Inköp, policy                                     KF § 2021-03-09 § 30
-Boendeparkering, regler och taxa                  KF 2024-02-06 § 12
-
-Lokaler och internhyra                            KF 2014-11-11 § 153
-Internationell policy                             KF § 2021-11-09 § 139
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-
-Integritetspolicy                                 KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-
-Klimatstrategi                                    KF 2022-05-10 § 77
-Invånardialog                                     KF 2014-10-14 § 119
-Kommundirektörens instruktion                     KS 2018-01-23 § 14
-
-Privata utförare                                  KF 2024-04-09 § 60
-
 17
+
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Finansverksamhet, policy | KF 2024-04-09 § 59 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2021-11-09 § 140 |
+| Reglemente för Kommunstyrelsen | KF 2024-12-12 § 160 |
+| Anläggningsstöd till samlingslokaler, hembygdsgårdar och liknande byggnader | KF 2015-10-15 § 142 |
+| Barnets rätt | KF 2014-11-11 § |
+| Donationsstiftelser | KF 1998-05-14 § 101 |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Översiktsplan för vindkraft | KF 2021-11-09 § 140 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Regler för arbete mot klotter och skadegörelse | KF 2013-04-16 § 58 |
+| Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter | KF 2024-05-07 § 82 |
+| Översiktlig täktplan | KF 1999-09-09 § 157 |
+| Reglemente Krisledningsnämnden | KF 2024-02-06 § 11 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Kommundirektörens instruktion | KS 2018-01-23 § 14 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Förmåner till förtroendevalda | KF 2023-04-04 § 46 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Markanvisningar och exploateringsavtal | KF 2018-03-06 § 39 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Säkerhets- och beredskapspolicy | KF 2019-12-10 § 189 |
+| Krisberedskap och civilt försvar | KF 2024-02-06 § 10 |
+| Näringslivsstrategi | KF 2020-02-04 § 7 |
+| Plan- och byggverksamhet, taxa 2024 | KF 2023-12-14 § 196 |
+| Finansverksamhet, riktlinjer | KF 2024-04-09 § 59 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Jakt på kommunal mark | KF 2019-10-08 § 142 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Planeringsstrategi för översiktsplanen 2024-2026 | KF 2024-06-13 § 157 |
+| Personuppgifter - riktlinjer | KF 2024-03-05 § 33 |
+| Konkurrensprövning, tillämpningsanvisningar till policy | KF 2011-02-01 § 8 |
+| Dagvattenplan | KF 2023-06-14 § 77 |
+| Kemikalieplan | KF 2021-02-02 § 4 |
+| Kemikalieplan - På väg mot giftfri förskola | KF 2021-02-02 § 4 |
+| Mål, uppföljning och insyn av verksamhet som utförs av privata utförare | KF 2024-04-09 § 60 |
+| Turismstrategi 2017-2021 | KF 2017-08-15 § 120 |
+| Bostadsförsörjning 2025-2029 | KF 2025-05-06 § 92 |
 
 <!-- sida 31 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Förmåner till förtroendevalda                     KF 2023-04-04 § 46
-
-Inköp; Direktupphandling, riktlinjer              KF 2022-10-18 § 160
-Markanvisningar och exploateringsavtal            KF 2018-03-06 § 39
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Säkerhets- och beredskapspolicy                   KF 2019-12-10 § 189
-
-Krisberedskap och civilt försvar                  KF 2024-02-06 § 10
-Näringslivsstrategi                               KF 2020-02-04 § 7
-
-Plan- och byggverksamhet, taxa 2024               KF 2023-12-14 § 196
-Finansverksamhet, riktlinjer                      KF 2024-04-09 § 59
-Inköp, riktlinjer                                 KF 2021-03-09 § 30
-
-Jakt på kommunal mark                             KF 2019-10-08 § 142
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Planeringsstrategi för översiktsplanen 2024-2026  KF 2024-06-13 § 157
-Personuppgifter - riktlinjer                      KF 2024-03-05 § 33
-
-Konkurrensprövning, tillämpningsanvisningar till policy KF 2011-02-01 § 8
-Dagvattenplan                                     KF 2023-06-14 § 77
-Kemikalieplan                                     KF 2021-02-02 § 4
-
-Kemikalieplan - På väg mot giftfri förskola       KF 2021-02-02 § 4
-Mål, uppföljning och insyn av verksamhet som utförs av privata utförare KF 2024-04-09 § 60
-
-Turismstrategi 2017-2021                          KF 2017-08-15 § 120
-Bostadsförsörjning 2025-2029                      KF 2025-05-06 § 92
-
 10.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-
 18
+
+[Tabell 31-32-1](handlingar.tabeller/31-32-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 32 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 UPPDATERING PÅGÅR
+
 10.1.3 Styrdokument beslutade av kommunstyrelsen
-
-Styrdokument                                      Beslutande paragraf/År
-Dokumenthanteringsplan för kommunstyrelsens kärnverksamhet KS 2021-12-14 § 317
-
-Digital strategi                                  KS 2017-03-14 § 61
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Strategi för tätortsnära friluftsliv              KS 2017-09-26 § 209
-Informationshanteringsplan för kommungemensamma ledningsprocesser KS 2023-01-10 § 15
-
-Delegering av beslutanderätt Kommunstyrelsen      KS 2025-02-18 §35
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Parkeringsstrategi                                KS 2017-09-26 § 210
-
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                         KS 2023-02-21 § 32
-
-Informationsförvaltning                           KS 2023-01-10 § 16
-Delegering av beslutanderätt från förvaltningschefen FC 2025-02-26
-Informationshanteringsplan för kommungemensamma stödprocesser KS 2023-05-30 § 108
-
-Arkivbeskrivning KS                               KS 2021-12-14 § 315
-Klassificeringsstruktur för KS kärnverksamhet     KS 2021-12-14 § 316
-Markägande                                        KS 2020-06-23 § 148
-
-Regler för fakturering och kravhantering          KS 2024-03-19 § 90
-Exploatörsdriven planprocess, riktlinjer          KS 2024-05-28 § 142
 
 10.1.4 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Boendeparkering, regler och taxa                  KF 2024-02-06 § 12
-Allmän handling, taxa för kopior                  KF 2021-04-13 § 65
-
-Vigsel, taxa för administrativ service            KF 2021-04-13 § 66
-Plan-och byggverksamhet, taxa 2020                KF 2020-09-08 § 97
-
 19
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Dokumenthanteringsplan för kommunstyrelsens kärnverksamhet | KS 2021-12-14 § 317 |
+| Digital strategi | KS 2017-03-14 § 61 |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Strategi för tätortsnära friluftsliv | KS 2017-09-26 § 209 |
+| Informationshanteringsplan för kommungemensamma ledningsprocesser | KS 2023-01-10 § 15 |
+| Delegering av beslutanderätt Kommunstyrelsen | KS 2025-02-18 §35 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Parkeringsstrategi | KS 2017-09-26 § 210 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Informationsförvaltning | KS 2023-01-10 § 16 |
+| Delegering av beslutanderätt från förvaltningschefen | FC 2025-02-26 |
+| Informationshanteringsplan för kommungemensamma stödprocesser | KS 2023-05-30 § 108 |
+| Arkivbeskrivning KS | KS 2021-12-14 § 315 |
+| Klassificeringsstruktur för KS kärnverksamhet | KS 2021-12-14 § 316 |
+| Markägande | KS 2020-06-23 § 148 |
+| Regler för fakturering och kravhantering | KS 2024-03-19 § 90 |
+| Exploatörsdriven planprocess, riktlinjer | KS 2024-05-28 § 142 |
+
+[Tabell 32-33-2](handlingar.tabeller/32-33-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Vigsel, taxa för administrativ service | KF 2021-04-13 § 66 |
+| Plan-och byggverksamhet, taxa 2020 | KF 2020-09-08 § 97 |
+| Plan- och byggverksamhet, taxa 2011 | KF 2011-12-06 § 246 |
+| Taxa för plan- och byggverksamhet 2023 | KF 2022-12-06 § 236 |
+| Plan- och byggverksamhet, taxa 2024 | KF 2023-12-14 § 196 |
 
 <!-- sida 33 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Nämndbudget 2026
-
-Styrdokument                                      Beslutande paragraf/År
-Plan- och byggverksamhet, taxa 2011               KF 2011-12-06 § 246
-
-Taxa för plan- och byggverksamhet 2023            KF 2022-12-06 § 236
-Plan- och byggverksamhet, taxa 2024               KF 2023-12-14 § 196
 
 20
 
@@ -17840,25 +17778,32 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2022   2023   2024   Målsättning 2026
-Antal påbörjade bostäder           848     165    213         Öka
-Antal färdigställda bostäder       363     319    324         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 691 6 475 6 541 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
 Invånare 16–84 år med avsaknad av tillit till andra          Minska
 (F olkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – 88 % \* 95 % Öka
 h elhetssyn (Kolada)
 \*) Brukarbedömning görs vartannat år för individ- och familjeomsorg.
 
 Kommunbudget 2026 och plan 2027–2028 19
+
+[Tabell 456-1](handlingar.tabeller/456-1.csv)
+
+| 848 | 165 | 213 |
+| --- | --- | --- |
+| 363 | 319 | 324 |
+| 5 691 | 6 475 | 6 541 |
+|  |  |  |
+| 90 % | 91 % | 88 % |
+| 74 % | 76 % | 76 % |
 
 <!-- sida 457 -->
 
@@ -17874,32 +17819,45 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2022    2023   2024 Målsättning 2026
-Total debiterad vattenförbrukning fördelat på antal anslutna till 154 145 145 Minska
+Total debiterad vattenförbrukning fördelat på antal anslutna till Minska
 vattenledningsnätet. (Här ingår förbrukning från hushåll, kommunen
 och privata verksamheter). Liter/person och dygn
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Fossiloberoende personbilar, andel av totalt antal bilar i det 21,2 24,1 \* Öka
+Fossiloberoende personbilar, andel av totalt antal bilar i det  Öka
 geografiska området (%)
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,86 1,69 1,85 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, inklusive 113 115 151 Minska
+Antal kemiska produkter med utfasningsämnen, inklusive        Minska
 hormonstörande ämnen på SIN-listan ska minska i kommunens
 verksamheter. 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 103 92 \* Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \*   Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % \* \*  Öka
-Andelen återbrukade möbler               -      -      \*        Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 85% \* Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 72% Åk 8: 79%
-Åk 1 gy: 65% Åk 1 gy: 73%
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel (Kolada)             Öka
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 93% Åk 8: 92%
 Åk 1 gy: 85% Åk 1 gy: 86%
 \*Ännu ej publicerad.
 
 20 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 457-1](handlingar.tabeller/457-1.csv)
+
+| 154 | 145 | 145 |
+| --- | --- | --- |
+| - | - | 125 |
+| 21,2 | 24,1 | \* |
+| 1,86 | 1,69 | 1,85 |
+| 113 | 115 | 151 |
+| 103 | 92 | \* |
+| måttlig | måttlig | \* |
+| 18,5 % | \* | \* |
+| - | - | \* |
+| Åk 4: 88%<br>Åk 8: 72%<br>Åk 1 gy: 65% | Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | \* |
 
 <!-- sida 458 -->
 
@@ -17913,17 +17871,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2022   2023   2024    Målsättning 2026
-Insikt, SKR:s servicemätning av kommunernas myndighets- 69 66 64 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \*\*        Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16 - 74 år                     Öka
 Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3 % \*\* Öka
 etableringsfrekvens (Kolada)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
@@ -17936,6 +17894,15 @@ Foto: Catharina Fyrberg
 
 Kommunbudget 2026 och plan 2027–2028 21
 
+[Tabell 458-1](handlingar.tabeller/458-1.csv)
+
+| 69 | 66 | 64 |
+| --- | --- | --- |
+| 3,4 | 3,4 | 3,8 |
+| 28 485 | 28 586 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 18 % | 19 % | \*\* |
+
 <!-- sida 459 -->
 
 MÅL OCH DIREKTIV
@@ -17947,17 +17914,24 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2022   2023   2024 Målsättning 2026
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 239 241 242 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom- 15,0 15,1 15,0 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom-  Öka
 mun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 1,7 % 2,3 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 Minska
 
 Elever på Elof Lindälvs gymnasium.
 
 22 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 459-1](handlingar.tabeller/459-1.csv)
+
+| 239 | 241 | 242 |
+| --- | --- | --- |
+| 15,0 | 15,1 | 15,0 |
+| 1,7 % | 1,7 % | 2,3 % |
 
 <!-- sida 460 -->
 
@@ -21788,14 +21762,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
 
 [Tabell 538-1](handlingar.tabeller/538-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -22017,7 +21990,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 543 -->
 
@@ -22077,7 +22051,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 544 -->
 
@@ -22218,8 +22193,6 @@ Om huvudmannen har medgivit att spillvattenmängd avleds till dagvattenledning
 14.8
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                660 kr
-
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -22229,8 +22202,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 [Tabell 546-1](handlingar.tabeller/546-1.csv)
 
-| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
+| a) | Årlig avgift per nyckel | 660 kr |
 | --- | --- | --- |
+| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
 | c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
 <!-- sida 547 -->
@@ -22239,9 +22213,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten
 
 § 16
 
@@ -22270,6 +22241,12 @@ En Grundavgift per år 14.1 a) 480 kr 480 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
+[Tabell 547-1](handlingar.tabeller/547-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 548 -->
 
 § 18
@@ -22278,7 +22255,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1 110 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -22306,8 +22282,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (15)
 
 [Tabell 548-1](handlingar.tabeller/548-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
+| Vinterförvaring | 1 110 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5 280 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2 640 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 210 kr/vecka |
@@ -22529,14 +22506,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (17)
 
 [Tabell 553-1](handlingar.tabeller/553-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -22758,7 +22734,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (17)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 558 -->
 
@@ -22818,7 +22795,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (17)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 559 -->
 
@@ -22988,30 +22966,18 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (17)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                660 kr
-
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
 Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
 2025
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
 
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten
-
 2025
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -23023,9 +22989,28 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (17)
 
 [Tabell 562-1](handlingar.tabeller/562-1.csv)
 
-| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
+| a) | Årlig avgift per nyckel | 660 kr |
 | --- | --- | --- |
+| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
 | c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
+
+[Tabell 562-2](handlingar.tabeller/562-2.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 562-3](handlingar.tabeller/562-3.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten |  |
+
+[Tabell 562-4](handlingar.tabeller/562-4.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
 
 <!-- sida 563 -->
 
@@ -23062,19 +23047,18 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1 110 kr/säsong
 
 2025
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        15 (17)
 
 [Tabell 564-1](handlingar.tabeller/564-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
+| Vinterförvaring | 1 110 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5 280 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2 640 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 210 kr/vecka |
@@ -23089,8 +23073,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        15 (17)
 
 [Tabell 564-2](handlingar.tabeller/564-2.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -24987,8 +24972,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       26 (37)
 
 [Tabell 608-1](handlingar.tabeller/608-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på emballering med<br>mera | Instruktion för hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på emballering med | Instruktion för hämtning/lämning |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | mera |  |
+| skiljt från annat avfall |  |  |  |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat<br>från avfall under<br>kommunalt<br>ansvar enligt 15<br>kap. 20 §<br>miljöbalken. | Fraktionerna ska förvaras<br>och transporteras skilt från<br>varandra och annat avfall.<br>Ska emballeras efter<br>mottagarens<br>villkor. | Kontakta lämplig entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat<br>från kommunalt<br>avfall och avfall<br>under kommunalt<br>Ansvar enligt 15<br>kap. 20 §<br>miljöbalken.<br>Avfallet ska<br>utöver utsortering<br>av farligt avfall<br>samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner ställs<br>specifika krav på<br>emballering, till exempel för<br>asbest (se nedan). | Avfallet lämnas utsorterat på<br>återvinningscentral eller hämtas<br>fastighetsnära av entreprenör som<br>ingått avtal kring hämtning av bygg-<br>och rivningsavfall med kommunen.<br>Annan transportör godtas enligt 15a§ |
 
@@ -25062,8 +25049,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       30 (37)
 
 [Tabell 612-1](handlingar.tabeller/612-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på utsortering | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas |  | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som uppkommer<br>vid normal trädgårdsskötsel<br>däremot inte fällda träd<br>eller avfall som uppstår vid<br>större anläggningsarbeten<br>i en trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings- centralen<br>ska avfallet lämnas enligt<br>instruktioner på plats. | Komposterbart trädgårdsavfall<br>lämnas på återvinningscentral.<br>Hämtning från fastighet kan<br>beställas separat enligt<br>kommunens avfallstaxa.<br>Hämtning av komposterbart<br>trädgårdsavfall sker separat från<br>hämtning av annat grovavfall.<br>För abonnemang med hämtning<br>av komposterbart trädgårdsavfall i<br>kärl, ska avfallet läggas löst i kärlet<br>och inte packas så hårt att<br>tömningen försvåras.<br>Annan transportör godtas enligt<br>15a§<br>Trädgårdsavfall från den egna<br>fastigheten får komposteras på<br>fastigheten. Särskilda regler gäller<br>för avfall som innehåller invasiva<br>växter. |
 
 <!-- sida 613 -->
@@ -25095,8 +25084,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       33 (37)
 
 [Tabell 615-1](handlingar.tabeller/615-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för hämtning/lämning |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med |  |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel från<br>butik ska av<br>avfallslämnaren förpackas i<br>särskild påse, säck eller<br>lämnas i tank av typ som<br>godkänts av<br>avfallsansvariga nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via exempelvis<br>apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till apotek som<br>kommunen har avtal med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar<br>för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör godtas enligt<br>15a§ |
