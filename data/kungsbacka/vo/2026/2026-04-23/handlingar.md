@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfb4cb5f/17767680061
 sha256: ef1315c35c4933f93c67a021c8c5d46de7e0d183699099d538c5089036f5d3c9
 bytes: 13393980
 sidor: 124
-hamtad: 2026-11-08T20:13:34+00:00
-konverterad: 2026-11-08T20:14:42+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:53:15+00:00
+konverterad: 2026-11-18T10:54:23+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1011,7 +1011,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        4 (11)
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Delta i mötesplats civil beredskap för<br>kompetenshöjande insatser och<br>erfarenhetsutbyte | Krisspecialister KLK,<br>Säkerhetssamordnare för<br>olika förvaltningar. | Säkerhet- och<br>beredskapschef |
 | 2025 | Samverka med Regionen och gällande<br>prioriteringar och hur de påverkar<br>kommunens hälso- och sjukvård, hemsjukvård<br>vid samhällsstörning | Säkerhetssamordnare VO,<br>MAS | Förvaltningschef |
@@ -1020,7 +1020,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        4 (11)
 
 [Tabell 23-2](handlingar.tabeller/23-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025-<br>2028 | Delta i arbetet med stationär reservkraft på<br>våbo | Säkerhetssamordnare VO | Förvaltningschef |
 
@@ -1112,7 +1112,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        6 (11)
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Förankra kontinuitetsplan i FLG för beslut och tillsättning resurser | Säkerhetssamordnare VO/<br>Krisspecialist KLK | Förvaltningschef |
 | 2025 | Genomför åtgärdsförslag i kontinuitetsplan. | Säkerhetssamordnare VO<br>Arbetsgrupp kontinuitet VO | Förvaltningschef |
@@ -1128,7 +1128,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        6 (11)
 
 [Tabell 25-2](handlingar.tabeller/25-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2028 | Samtliga vård- och omsorgsboende ska ha stationär reservkraft<br>för att hantera samhällskris där verksamheten saknar el. | Service Fastighet<br>/Fastighetsägare/<br>Säkerhetssamordnare Vo | Förvaltningschef |
 
@@ -1176,7 +1176,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (11)
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Revidering och beslut FLG beredskapsplanen löpande | Säkerhetssamordnare VO | Förvaltningschef |
 | 2025 | Bemanning av krisledningsorganisationen i takt med att deltagare<br>lämnar sina uppdrag av olika anledningar | Säkerhetssamordnare<br>VO/Stabschef VO | Förvaltningschef |
@@ -1186,7 +1186,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (11)
 
 [Tabell 26-2](handlingar.tabeller/26-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Fortsätta utveckla förvaltningens krigsorganisation i samråd med<br>övriga förvaltningar | Kommunövergripande<br>krisspecialister/Säkerhetssamord<br>nare VO/FLG VO | Förvaltningschef |
 
@@ -1236,7 +1236,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        8 (11)
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Krisledningsorganisation, utbildning och övning enligt plan | Säkerhetssamordnare<br>VO/Krisspecialist KLK | Förvaltningschef |
 | 2025 | Utbildning och övning av chef i beredskap | Säkerhetssamordnare VO | Förvaltningschef |
@@ -1246,7 +1246,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        8 (11)
 
 [Tabell 27-2](handlingar.tabeller/27-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Planera utbildning och övning inom VO verksamheter, ex<br>katastrofmedicin för omsorgspersonal eller övning med enskilda<br>boenden/hemtjänstgrupper | Säkerhetssamordnare VO och<br>Krisspecialist KLK | Förvaltningschef |
 
@@ -1292,7 +1292,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        9 (11)
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Följ upp avtal mobil reservkraft | Upphandling/<br>Service Fastighet/<br>Säkerhetssamordnare VO | Förvaltningschef |
 | 2025 | Påminna externa fastighetsägare om att säkerställa att ventilationen<br>på vård och omsorgsboenden fungerar inför sommarperiod. | Service Fastighet/<br>Externa Fastighetsägare/<br>Säkerhetssamordnare VO/MAS | Förvaltningschef |
@@ -1301,7 +1301,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        9 (11)
 
 [Tabell 28-2](handlingar.tabeller/28-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -1346,26 +1346,26 @@ Kungsbacka kommun             Riktlinje civil beredskap        10 (11)
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025 | Revidera kommunikationsplan och målgruppskarta löpande efter rådande<br>förhållanden | Säkerhetssamordnare Vo/<br>Kommunikatör VO/FLG Vo | Förvaltningschef |
 | 2025 | Samtliga VC, EC samt andra strategiska funktioner ska genomgå intern<br>utbildning ”Att samspela med media” | Säkerhetssamordnare Vo/<br>Kommunikatör VO/FLG Vo | Förvaltningschef |
 
 [Tabell 29-2](handlingar.tabeller/29-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Löpande öva kriskommunikation med förvaltningens<br>krisledningsorganisation | Säkerhetssamordnare<br>VO/Krisspecialist KLK/ EC VO/FLG<br>VO | Förvaltningschef |
 
 [Tabell 29-3](handlingar.tabeller/29-3.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025-<br>2026 | Se över hur vi kommunicerar med målgruppen Greta och Tage i<br>ämnet krisberedskap. Även anhöriga, Gode män osv. | Säkerhetssamordnare<br>Vo/Kommunikatör VO | Förvaltningschef |
 
 [Tabell 29-4](handlingar.tabeller/29-4.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 |  |  |  |  |
 
@@ -1867,7 +1867,6 @@ och datahantering
 
 Kungsbacka
 Tydliga strukturer, regler och ansvar för vår data- för att skapa verklig nytta.
-oh FAL |N ee 00
 2= NA R jär
 Gemensamt Tillförlitlig — Tillgänglig Säker Strategisk resurs,
 ramverk med beslutsunderlag,
@@ -1922,8 +1921,6 @@ Vad hände?
 Vi använder data för att
 förstå hur det går i
 verksamheten
-
-\=
 
 00
 —[00
@@ -2295,7 +2292,6 @@ Organisationens Invånarens
 \- Vetenskap, funktion perspektiv
 Så har vi alltid gjort Kunskapsbaserad Känsla och kultur beprövad erfarenhet
 2
-nn ED =;
 Inte veta Följa upp Lägga på mer Våga ta bort Göra samma bättre Tänka helt nytt
 
 Källa: SKR Förflyttning av framtidens socialtjänst

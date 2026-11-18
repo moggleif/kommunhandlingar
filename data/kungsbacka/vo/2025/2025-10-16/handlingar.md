@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2e03992c199c92193a169400/1760341527
 sha256: 5cbc5fa98610754f97d506a3595cdbc72e211c434b356590497c929bb9084325
 bytes: 13346143
 sidor: 169
-hamtad: 2026-11-08T20:07:39+00:00
-konverterad: 2026-11-08T20:08:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:47:32+00:00
+konverterad: 2026-11-18T10:48:41+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [1, 2, 3, 4, 5, 6, 8, 9, 106, 109, 110, 111, 112, 116, 117, 137, 138, 141, 144, 145, 146, 147, 148, 152, 153, 154, 157]
 figurer: [1, 2, 3, 4, 5, 6, 7, 8, 9, 15, 61, 68, 70, 71, 75, 80, 81, 84, 89, 90, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 122, 128, 129, 130, 131, 134, 137, 138, 139, 140, 141, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 154, 155, 156, 157, 159, 160]
 tolkade: []
@@ -117,6 +117,8 @@ Antal fall totalt till Fall genom antal patienter
 •
 
 <!-- sida 8 -->
+
+Frågor och feedback?
 
 <!-- sida 9 -->
 
@@ -226,12 +228,18 @@ december 2021 att höja minimibeloppet i 8 kap. 7 § socialtjänstlagen. Lagänd
 
 Taxor och avgifter som berörs av det förändrade prisbasbeloppet, PBB, för 2026 visas i tabellen nedan.
 
-Område                               2026  2025         Beräkning
-Förbehållsbelopp ensamstående         7 296 7 247 1,4789 av prisbasbeloppet/12
+Område                                                  Beräkning
+Förbehållsbelopp ensamstående                    1,4789 av prisbasbeloppet/12
 Förbehållsbelopp gifta och sammanboende 5 953 5 912 1,2066 av prisbasbeloppet/12
 
 Förbehållsbelopp ensamstående under 65 år 8 025 7 971 Förhöjt förbehållsbelopp med 10%
 Förbehållsbelopp gifta och sammanboende under 65 år 6 548 6 504 Förhöjt förbehållsbelopp med 10%
+
+[Tabell 11-1](handlingar.tabeller/11-1.csv)
+
+| 2026 | 2025 |
+| --- | --- |
+| 7 296 | 7 247 |
 
 <!-- sida 12 -->
 
@@ -249,8 +257,8 @@ Avgift för dagomsorg                   30     29 Maxtaxa / 90
 
 Nyttigheter som räknas upp för 2025, visas i tabellen nedan.
 
-Nyttigheter som uppräknas           2026    2025   Beräkning
-Kostnad för korttidsplats mat           149     145 Helabonnemang/30
+Nyttigheter som uppräknas                          Beräkning
+Kostnad för korttidsplats mat                      Helabonnemang/30
 Kostnad för dagomsorg mat/fika           76      74 Uppräknas med Service index
 Helabonnemang mat äldreboende           4471   4342 Uppräknas med Service index
 
@@ -258,6 +266,12 @@ Hygienabonnemang inkl moms          150kr/mån 150kr/mån
 
 Arian Faily                        Emelie Sandberg
 Förvaltningschef                   Biträdande Förvaltningschef
+
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| 2026 | 2025 |
+| --- | --- |
+| 149 | 145 |
 
 <!-- sida 13 -->
 
@@ -5457,7 +5471,6 @@ uppskattad på
 jobbet är väldigt
 givande.”
 
-LÄ
 \|
 
 €Jag kände mig väldigt Kungsbacka

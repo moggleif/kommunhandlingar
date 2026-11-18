@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.4dbd19e519c47bd57e6e4956/1771312646
 sha256: b8517fdc7333fe00494148a4b32aa78d9a922cb97102505cea0d3cb1cc155574
 bytes: 27640517
 sidor: 306
-hamtad: 2026-11-08T20:09:59+00:00
-konverterad: 2026-11-08T20:12:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T10:49:49+00:00
+konverterad: 2026-11-18T10:52:28+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [99, 100, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 179, 180, 181, 186, 187, 188, 189, 190, 191, 192, 267, 270, 272, 273, 276, 278, 281, 282, 284, 287]
-figurer: [68, 69, 77, 81, 148, 149, 155, 169, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 195, 204, 205, 206, 210, 212, 213, 224, 233, 237, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 255, 256, 257, 258, 259, 260, 261, 262, 267, 268, 269, 270, 271, 272, 273, 274, 276, 277, 278, 280, 281, 282, 283, 284, 285, 286, 287]
+figurer: [68, 69, 77, 148, 149, 155, 169, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 195, 204, 205, 206, 210, 212, 213, 224, 233, 237, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 255, 256, 257, 258, 259, 260, 261, 262, 267, 268, 269, 270, 271, 272, 273, 274, 276, 277, 278, 280, 281, 282, 283, 284, 285, 286, 287]
 tolkade: []
 granskad: null
 ---
@@ -1390,33 +1390,28 @@ och omsorgstagare. Samtalen syftar till att stärka självständighet, bibehåll
 och lämna information om hur kommunen arbetar. En samtalsguide har utvecklats för att främja social
 gemenskap, kost, sömn, fysisk aktivitet och digital delaktighet. Uppföljning tre månader efter samtalet, visar att
 54% av de tillfrågade invånarna/omsorgstagarna gjort förändringar inom dessa ovan nämnda livsområden.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Antal påbörjade bostäder        848       165       213
-Antal färdigställda bostäder    363       319       324
-Anmälda brott mot brottsbalken per invånare
-5 691    6 475     6 541
-antal/100 000 invånare (BRÅ)
 
 7
+
+[Tabell 28-29-1](handlingar.tabeller/28-29-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |
+| Anmälda brott mot brottsbalken per invånare<br>antal/100 000 invånare (BRÅ) | 5 691 | 6 475 | 6 541 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % | 88 % |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % | 78 % |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |
 
 <!-- sida 29 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Brukarbedömning hemtjänst äldreomsorg,
-90 %     91 %      88 %      88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %     76 %      76 %      78 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %               95 %
-totalt - helhetssyn
 3.1.1 Antalet personal som en hemtjänstmottagare möter under 14 dagar ska årligen
 minska och 2025 uppgå till maximalt 14 medarbetare
+
 Beslutats av
 Nämnd
 Fokusområde
@@ -1487,14 +1482,7 @@ kontinuiteten. Ett exempel är att det är fullt på våra korttidsplatser vilke
 med omfattande behov av vård och omsorg efter sjukhusvistelse istället för att komma till korttidsplats. Det i sin
 tur innebär en ansträngd situation för hemtjänsten som ska kunna tillgodose behoven och planera in personal
 vilket påverkar kontinuiteten.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
 
-Personalkontinuitet, antal personal som en
-hemtjänstmottagare möter under 14 dagar, 17,9 19   18,4       21
-medelvärde, egenregi
-Brukarbedömning: Brukar du träffa din fasta
-\-         -       21 %      22 %
-omsorgskontakt inom hemtjänsten?
 3.1.2 Upplevelsen av ensamhet bland äldre i Kungsbacka som får insatser av förvaltningen
 för Vård & Omsorg ska årligen minska.
 
@@ -1514,6 +1502,13 @@ meningsfulla aktiviteter som matlagning och cykling som bidrar till välbefinnan
 Enkätsvaren visar att den upplevda ensamheten är särskilt påtaglig bland omsorgstagare som saknar närstående
 
 9
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar,<br>medelvärde, egenregi | 17,9 | 19 | 18,4 | 21 |
+| Brukarbedömning: Brukar du träffa din fasta<br>omsorgskontakt inom hemtjänsten? | - | - | 21 % | 22 % |
 
 <!-- sida 31 -->
 
@@ -1554,13 +1549,6 @@ minskad upplevd ensamhet.
 Den kartläggningen som genomfördes under första kvartalet, kopplat till upplevelse av aktiviteter på vård -och
 omsorgsboende, resulterade i en arbetsgrupp som arbetar vidare med underlaget (se vidare under direktiv 3.3).
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Upplevd ensamhet bland äldre på vård-och
-30 %     16 %      17 %      14 %
-omsorgsboende
-Upplevd ensamhet bland äldre inom
-9 %       8 %       7 %      10 %
-hemtjänsten
 3.2 En hållbar utveckling och en hälsosam miljö
 
 Beslutats av
@@ -1571,6 +1559,13 @@ Fokusområden
 mångfald.
 
 10
+
+[Tabell 31-1](handlingar.tabeller/31-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Upplevd ensamhet bland äldre på vård-och<br>omsorgsboende | 30 % | 16 % | 17 % | 14 % |
+| Upplevd ensamhet bland äldre inom<br>hemtjänsten | 9 % | 8 % | 7 % | 10 % |
 
 <!-- sida 32 -->
 
@@ -1590,83 +1585,39 @@ och inflytande över sin vård och omsorg. Dessutom förväntas administrativa a
 till effektivare processer och mer nöjda medarbetare. En första utvärdering visade att arbetssättet har lett till
 förbättringar inom delaktighet och inflytande för omsorgstagaren, och högre kvalitet inom dokumentation.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 85 %      85 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 % 89 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 72 % 79 %      73 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 93 % 92 %      89 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %     73 %      75 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %     86 %      88 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 103 92
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 115  223
-Startvärde 100, målvärde 2030 är 60.
-Utsläpp till luft av växthusgaser totalt, ton
-2,27
-CO2-ekv/inv (Kolada)
 11
+
+[Tabell 32-33-1](handlingar.tabeller/32-33-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % | 85 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % | 89 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % | 73 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % | 89 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % | 75 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % | 88 % |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 103 | 92 |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 115 | 223 |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) | 2,27 |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 21,2 % | 24,1 % | 26,5 % |  |
+| Slutanvändning av energi inom det<br>geografiska området, MWh/inv (Kolada) | 15 | 15 |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,86 | 1,79 | 1,85 |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 113 | 115 | 151 |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  |  |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | 97,5 % | 97,5 % |
+| Andelen återbrukade möbler |  |  |  |  |
+| Kommunens verksamheters elförbrukning,<br>total (kWh) | 100 522 | 101 356 | 97 361 | 92 711 |
 
 <!-- sida 33 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 21,2 % 24,1 % 26,5 %
-(Kolada)
-Slutanvändning av energi inom det
-15       15
-geografiska området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,86      1,79     1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 113      115       151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 %
-Vattendrag med god ekologisk status, andel
-18,5
-(Kolada)
-Fossiloberoende personbilar i
-94,6 %    96,2 %    97,5 %   97,5 %
-kommunorganisationen, andel (%)
-Andelen återbrukade möbler
-Kommunens verksamheters elförbrukning,
-100 522   101 356   97 361    92 711
-total (kWh)
 3.3 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
@@ -1678,37 +1629,25 @@ Sammanfattning av nämndens arbete med målet
 Förvaltningen genomför under året, inom ramen för målarbetet, inga specifika aktiviteter kopplat till målet om
 "Bästa företagsklimatet i Västsverige". Däremot har förvaltningen ett ordinarie pågående arbete som är i linje
 med målet, exempelvis konkurrensutsättningsplan.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0–100, för hur företag i 70   67        64        61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
 
 12
+
+[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 70 | 67 | 64 | 61 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1–6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 | 3,6 |
+| Sysselsatt dagbefolkning, antal | 28 494 | 28 586 | 28 426 |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % | 4,9 % |  |
+| Företagsamhet, andel av invånare 16–74 år | 18 % | 19 % |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 12,8 | 10,3 | 12,3 |  |
 
 <!-- sida 34 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4       3,4       3,8       3,6
-utifrån skala 1–6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 494   28 586    28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %    4,9 %     4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 18 % 19 %
-Antal nystartade företag per 1 000 invånare
-12,8      10,3     12,3
-16–64 år (etableringsfrekvens)
 3.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -1738,35 +1677,24 @@ Analys: Under 2026 behöver arbetet fortsätta med att säkerställa att beslut 
 utifrån principen Digitalt först. Arbetet kommer även att inriktas på att ytterligare stärka den personliga
 integriteten för personer med digital nattillsyn genom införande av en lösning med suddad (blurrad) bild i stället
 för klar kamerabild, vilket bedöms kunna öka tryggheten och acceptansen för den digitala insatsen.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-237       237       238
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
 
 13
+
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 237 | 238 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 1,7 % | 2,3 % |  |
+| Genomsnittlig betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,5 | 14,3 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % | 75 % |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 376 | 325 | 306 |  |
 
 <!-- sida 35 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 1,7 % 2,3 %
-SCB)
-Genomsnittlig betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,5  14,3      14        14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 69 % 73 % 75 %
-försörjningsstöd (%)
-
-Kostnad utbetalt ekonomiskt bistånd,
-376       325       306
-kr/invånare (Kolada)
 3.4.1 Vård-och omsorgstagare i Kungsbacka kommun har en upplevd god hälsa och blir
 stärkta i fallpreventiva åtgärder
 Beslutats av
@@ -1847,20 +1775,16 @@ Införandet av välfärdsteknik skapar förutsättningar för invånare att leva
 länge som möjligt. Forskning visar att fysisk aktivitet minskar risken för fall, och att självständiga individer ofta
 skattar sin hälsa högre. Genom att kombinera digitala lösningar med ett hälsofrämjande arbetssätt stärker
 kommunen både individens livskvalitet och omsorgen.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Antal rapporterade fall ska minska 4 008 4 152     3 759     4 120
-
-Upplevt hälsotillstånd, vård-och
-omsorgsboende
-28 %     35 %      34 %      32 %
-(Andel som svarat ”mycket gott/ganska gott” på frågan
-Hur bedömer du ditt allmänna hälsotillstånd?)
-Upplevt hälsotillstånd, hemtjänst
-33 %     35 %      35 %      34 %
-(Andel som svarat ”mycket gott/ganska gott” på frågan
-Hur bedömer du ditt allmänna hälsotillstånd?)
 
 15
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal rapporterade fall ska minska | 4 008 | 4 152 | 3 759 | 4 120 |
+| Upplevt hälsotillstånd, vård-och<br>omsorgsboende<br>(Andel som svarat ”mycket gott/ganska gott” på frågan<br>Hur bedömer du ditt allmänna hälsotillstånd?) | 28 % | 35 % | 34 % | 32 % |
+| Upplevt hälsotillstånd, hemtjänst<br>(Andel som svarat ”mycket gott/ganska gott” på frågan<br>Hur bedömer du ditt allmänna hälsotillstånd?) | 33 % | 35 % | 35 % | 34 % |
 
 <!-- sida 37 -->
 
@@ -1906,17 +1830,14 @@ och personcentrerade metoder förstärkas och spridas brett under 2026.
 Sammanfattning av nämndens arbete med målet
 Se 3.5.1
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76  75
-skala 1–100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114   124
-nyckeltal med skala 1–20.
-
 16
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1–100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |
 
 <!-- sida 38 -->
 
@@ -1988,15 +1909,16 @@ För att utveckla och behålla våra medarbetare behöver vi både erbjuda kompe
 med förbättringar av arbetsmiljön, vilket vi gör i det systematiska arbetsmiljöarbetet samt med olika insatser och
 förändrade arbetssätt som Kungsbackamodellen, gemensam insats- och bemanningsplanering och utveckling av
 arbetet med Winningtemp.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Antal biträden som utbildas till vårdbiträde - -    3         0
-Antal vårdbiträden som utbildas till
-\-         -                  17
-undersköterska
-Upplevd möjlighet till kompetensutveckling - -                6,1
 
 18
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal biträden som utbildas till vårdbiträde | - | - | 3 | 0 |
+| Antal vårdbiträden som utbildas till<br>undersköterska | - | - |  | 17 |
+| Upplevd möjlighet till kompetensutveckling | - | - |  | 6,1 |
 
 <!-- sida 40 -->
 
@@ -2137,13 +2059,7 @@ o  Göteborgs Stad – för att studera vår chefsförsörjning och förändring
 o  Kalmar kommun – med fokus på styrning, arbetssätt och digitalisering.
 o  Partille kommun – som inspirerats av vårt utvecklings- och omställningsarbete inom vård och
 omsorg.
-Indikatorer                        Utfall 2024        Utfall 2025
-Andel innovationsprojekt som drivits under
-42                  10
-året
-Andel av bruttokostnaden som avsätts för
-21                 31,9
-innovationsarbete och digitalisering
+
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 För att hantera de utmaningar nämnden står inför krävs ett ihållande arbete med att förändra arbetssätt och
 effektivisera verksamheten. Nämnden arbetar i många fall både målstyrt och målsökande, både med att förnya
@@ -2169,6 +2085,13 @@ Det målsökande arbete innebär att vi är flexibla och anpassningsbara, vilket
 utnyttja nya möjligheter som uppstår. Detta tillvägagångssätt gör att vi kan vara proaktiva och innovativa i vår
 
 21
+
+[Tabell 42-1](handlingar.tabeller/42-1.csv)
+
+| Indikatorer | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- |
+| Andel innovationsprojekt som drivits under<br>året | 42 | 10 |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | 21 | 31,9 |
 
 <!-- sida 43 -->
 
@@ -2543,18 +2466,15 @@ under helger och skollov. Utöver samverkan med kultur och fritid har även akti
 som en stående aktivitet på inkluderade boende. De nya och utvecklade aktiviteterna erbjuder ett större och mer
 varierat utbud av aktiviteter som främjar fysisk, psykisk och social hälsa hos omsorgstagarna. Under 2026
 kommer det framtagna arbetssättet att implementeras på samtliga vård- och omsorgsboenden.
-Indikatorer          Utfall 2023      Utfall 2024       Utfall 2025
-
-Boende är nöjda med de
-aktiviteter som erbjuds
-62 %             52 %             59 %
-på vård-och
-omsorgsboende
-Upplevd ensamhet bland
-äldre på vård-och      16 %             17 %             14 %
-omsorgsboende
 
 28
+
+[Tabell 49-1](handlingar.tabeller/49-1.csv)
+
+| Indikatorer | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- |
+| Boende är nöjda med de<br>aktiviteter som erbjuds<br>på vård-och<br>omsorgsboende | 62 % | 52 % | 59 % |
+| Upplevd ensamhet bland<br>äldre på vård-och<br>omsorgsboende | 16 % | 17 % | 14 % |
 
 <!-- sida 50 -->
 
@@ -2567,36 +2487,31 @@ Nämndens årsredovisning 2025
 
 5.2 Resursmått
 
-Namn                        Utfall Utfall  Utfall  Utfall  Utfall
-2021    2022   2023    2024    2025
-
-Kostnad äldreomsorg, kr/inv 65+ 64 751 66 654 70 419 70 918
-Nettokostnadsavvikelse      9,2 %  6,9 %    8 %    2,7 %
-Antal omsorgstagare i verksamheten
-2 443  2 664   2 182   2 756   2 830
-över 65 år
-Antal omsorgstagare i verksamheten
-98     137             165    173
-under 65 år
-Antal patienter i hemsjukvården 1 899 1 994 2 780  2 082   2 174
-
 5.3 Prestationsmått
-
-Namn                        Utfall Utfall  Utfall  Utfall  Utfall
-2021    2022   2023    2024    2025
-Antal lägenheter på vård- och
-694     694     704     704    704
-omsorgsboende
-Antal lägenheter för korttids/växelvård 62 62 60    60      60
-Beläggningsgrad vård- och
-92 %    97 %   96 %    97 %   97,6 %
-omsorgsboende
-Antal timmar hemtjänst     582 438 537 632 545 404 548 528 587 759
-Kö till vård- och omsorgsboende 20  53      67      74      99
 
 5.4 Effektmått
 
 29
+
+[Tabell 50-1](handlingar.tabeller/50-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad äldreomsorg, kr/inv 65+ | 64 751 | 66 654 | 70 419 | 70 918 |  |
+|  | Nettokostnadsavvikelse | 9,2 % | 6,9 % | 8 % | 2,7 % |  |
+|  | Antal omsorgstagare i verksamheten<br>över 65 år | 2 443 | 2 664 | 2 182 | 2 756 | 2 830 |
+|  | Antal omsorgstagare i verksamheten<br>under 65 år | 98 | 137 |  | 165 | 173 |
+|  | Antal patienter i hemsjukvården | 1 899 | 1 994 | 2 780 | 2 082 | 2 174 |
+
+[Tabell 50-2](handlingar.tabeller/50-2.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Antal lägenheter på vård- och<br>omsorgsboende | 694 | 694 | 704 | 704 | 704 |
+|  | Antal lägenheter för korttids/växelvård | 62 | 62 | 60 | 60 | 60 |
+|  | Beläggningsgrad vård- och<br>omsorgsboende | 92 % | 97 % | 96 % | 97 % | 97,6 % |
+|  | Antal timmar hemtjänst | 582 438 | 537 632 | 545 404 | 548 528 | 587 759 |
+|  | Kö till vård- och omsorgsboende | 20 | 53 | 67 | 74 | 99 |
 
 <!-- sida 51 -->
 
@@ -2788,118 +2703,54 @@ arbetar systematiskt med arbetsmiljön.
 
 6.4 Resursmått
 
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Andel
-62,3 %  62,6 %   67,4 %  70,1 %   71,3 %
-heltid
-Anställda
-andel     89,9 %  88,9 %   87,8 %  86,9 %   86,1 %
-kvinnor
-Anställda
-10,2 %  11,1 %   12,2 %  13,2 %   13,9 %
-andel män
-Anställda
-1 300    1 397   1 429    1 422   1 457
-totalt
-Antal
-medarbetar
-28,4     27,9     25,3    26,8     29,8
-e per
-enhetschef
-Medelålder 44       44      44       44      44
-Pensionsa
-26       19      11       24      25
-vgångar
 6.5 Effektmått
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Korttidssju
-4,8 %    5,5 %   5,2 %    5 %      5 %
-kfrånvaro
+
 33
+
+[Tabell 54-1](handlingar.tabeller/54-1.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel<br>heltid | 62,3 % | 62,6 % | 67,4 % | 70,1 % | 71,3 % |
+|  | Anställda<br>andel<br>kvinnor | 89,9 % | 88,9 % | 87,8 % | 86,9 % | 86,1 % |
+|  | Anställda<br>andel män | 10,2 % | 11,1 % | 12,2 % | 13,2 % | 13,9 % |
+|  | Anställda<br>totalt | 1 300 | 1 397 | 1 429 | 1 422 | 1 457 |
+|  | Antal<br>medarbetar<br>e per<br>enhetschef | 28,4 | 27,9 | 25,3 | 26,8 | 29,8 |
+|  | Medelålder | 44 | 44 | 44 | 44 | 44 |
+|  | Pensionsa<br>vgångar | 26 | 19 | 11 | 24 | 25 |
+
+[Tabell 54-56-2](handlingar.tabeller/54-56-2.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Korttidssju<br>kfrånvaro | 4,8 % | 5,5 % | 5,2 % | 5 % | 5 % |
+|  | Korttidssju<br>kfrånvaro<br>Kvinnor | 4,8 % | 5,6 % | 5,2 % | 5 % | 5 % |
+|  | Korttidssju<br>kfrånvaro<br>Män | 4,4 % | 4,8 % | 5,1 % | 4,5 % | 4 % |
+|  | Långtidssju<br>kfrånvaro | 4,8 % | 4,6 % | 4,8 % | 5 % | 5 % |
+|  | Långtidssju<br>kfrånvaro<br>Kvinnor | 5 % | 4,9 % | 5,1 % | 5,4 % | 5 % |
+|  | Långtidssju<br>kfrånvaro<br>Män | 2,6 % | 1,6 % | 2,4 % | 2,4 % | 2 % |
+|  | Personalo<br>msättning | 12,6 % | 14,1 % | 16,4 % | 14,3 % | 12,6 % |
+|  | Sjukfrånvar<br>o Kvinnor | 9,8 % | 10,5 % | 10,3 % | 10,5 % | 10 % |
+|  | Sjukfrånvar<br>o Män | 7 % | 6,4 % | 7,5 % | 6,9 % | 7 % |
+|  | Sjukfrånvar<br>o Totalt | 9,6 % | 10,1 % | 10 % | 10 % | 9 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer | 36,9 % | 34 % | 34,8 % | 35,8 % | 34 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer<br>Kvinnor | 37,6 % | 35,2 % | 36,1 % | 37,1 % | 35 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer<br>Män | 28,1 % | 18,1 % | 22 % | 23 % | 25 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>29 år eller<br>yngre | 8,3 % | 8,2 % | 9,6 % | 8,9 % | 9 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>30–49 år | 9,5 % | 9,9 % | 8,7 % | 8,6 % | 8 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>50 år eller<br>äldre | 10 % | 10,9 % | 11,3 % | 11,8 % | 11 % |
 
 <!-- sida 55 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Korttidssju
-kfrånvaro 4,8 %    5,6 %   5,2 %    5 %      5 %
-Kvinnor
-Korttidssju
-kfrånvaro 4,4 %    4,8 %   5,1 %    4,5 %    4 %
-Män
-Långtidssju
-4,8 %    4,6 %   4,8 %    5 %      5 %
-kfrånvaro
-Långtidssju
-kfrånvaro  5 %     4,9 %   5,1 %    5,4 %    5 %
-Kvinnor
-Långtidssju
-kfrånvaro 2,6 %    1,6 %   2,4 %    2,4 %    2 %
-Män
-Personalo
-12,6 %  14,1 %   16,4 %  14,3 %   12,6 %
-msättning
-Sjukfrånvar
-9,8 %   10,5 %   10,3 %  10,5 %    10 %
-o Kvinnor
-Sjukfrånvar
-7 %     6,4 %   7,5 %    6,9 %    7 %
-o Män
-Sjukfrånvar
-9,6 %   10,1 %   10 %     10 %     9 %
-o Totalt
-Sjukfrånvar
-o, andel av
-sjukfrånvar 36,9 % 34 %    34,8 %  35,8 %    34 %
-o 60 dagar
-eller mer
-Sjukfrånvar
-o, andel av
-sjukfrånvar
-37,6 %  35,2 %   36,1 %  37,1 %    35 %
-o 60 dagar
-eller mer
-Kvinnor
-Sjukfrånvar
-o, andel av
-sjukfrånvar
-28,1 %  18,1 %   22 %     23 %     25 %
-o 60 dagar
-eller mer
-Män
-Sjukfrånvar
-o, anställda
-i åldrarna 8,3 %   8,2 %   9,6 %    8,9 %    9 %
-29 år eller
-yngre
 34
 
 <!-- sida 56 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndens årsredovisning 2025
-
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Sjukfrånvar
-o, anställda
-9,5 %    9,9 %   8,7 %    8,6 %    8 %
-i åldrarna
-30–49 år
-Sjukfrånvar
-o, anställda
-i åldrarna 10 %   10,9 %   11,3 %  11,8 %    11 %
-50 år eller
-äldre
 
 35
 
@@ -2945,7 +2796,7 @@ Förvaltningsledningskontoret: -3 255 tkr
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike<br>lse 2025 |
 | --- | --- | --- | --- | --- |
 | Nämnd | -1,2 | -1,4 | -1,3 | 0,1 |
 | Förvaltning Gemensamt | -5,8 | -54,2 | -44,2 | 10,0 |
@@ -3605,16 +3456,17 @@ Internkontrollrapport 2025 -
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Risk för bristfällig återhämtning hos medarbetare Ja<br>och att förvaltningen bygger upp höga<br>semestersaldon på grund av bristande<br>efterlevnad av semesterlagen |
-| --- | --- |
-|  | 2 Kommunövergripande risk: Resurs- och Ja<br>kompetensbrist |
-|  | 3 Kommunövergripande risk: Efterlevnad till Ja<br>rekryteringsprocessen |
-| Ekonomi | 4 Risk för att representationskostnader redovisas Ja<br>på ett felaktigt sätt på grund av avsiktliga eller<br>oavsiktliga fel |
-|  | 5 Risk för att manuella betalningar hanteras på ett Ja<br>felaktigt sätt på grund av avsiktliga eller<br>oavsiktliga fel |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 6 Kommunövergripande risk: Bristande följsamhet Ja<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning |
-|  | 7 Risk att anställda saknar kompetens inom Ja<br>brandsäkerhet. |
-| Verksamhet | 8 Kommunövergripande risk - Risk för korruption Ja<br>och välfärdsbrottslighet |
-|  | 9 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Risk för bristfällig återhämtning hos medarbetare<br>och att förvaltningen bygger upp höga<br>semestersaldon på grund av bristande<br>efterlevnad av semesterlagen | Ja |
+|  |  | 2 | Kommunövergripande risk: Resurs- och<br>kompetensbrist | Ja |
+|  |  | 3 | Kommunövergripande risk: Efterlevnad till<br>rekryteringsprocessen | Ja |
+| Ekonomi |  | 4 | Risk för att representationskostnader redovisas<br>på ett felaktigt sätt på grund av avsiktliga eller<br>oavsiktliga fel | Ja |
+|  |  | 5 | Risk för att manuella betalningar hanteras på ett<br>felaktigt sätt på grund av avsiktliga eller<br>oavsiktliga fel | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 6 | Kommunövergripande risk: Bristande följsamhet<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning | Ja |
+|  |  | 7 | Risk att anställda saknar kompetens inom<br>brandsäkerhet. | Ja |
+| Verksamhet |  | 8 | Kommunövergripande risk - Risk för korruption<br>och välfärdsbrottslighet | Ja |
+|  |  | 9 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 <!-- sida 79 -->
 
@@ -3701,14 +3553,14 @@ Utöver granskningar som nämndens gör över sin egen verksamhet utför andra m
 
 [Tabell 80-1](handlingar.tabeller/80-1.csv)
 
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | Uppföljning av åtgärder från<br>Vård & Omsorg<br>2024 | Information/utbildning<br>referenstagning |
-| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Uppföljning av<br>Vård & Omsorg direktupphandlingar<br>(köpnivå 4-5) | Kunskap kring ämnet<br>behöver spridas i<br>förvaltningen och vi har<br>informerat om Inköps<br>utbildning |
-| Risk att anställda saknar<br>kompetens inom<br>brandsäkerhet. | Kontroll att brandutbildning<br>är genomförd bland alla nya<br>Vård & Omsorg<br>anställda de senaste 6<br>månaderna | Information och<br>uppmaning på<br>chefsmöte till samtliga<br>chefer om vikten att<br>boka medarbetare på<br>brandutbildning |
-| Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | Biståndshandläggning och<br>Vård & Omsorg<br>bostadsanpassningbidraget. | Uppdatera rutin |
-| Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen<br>i egen verksamhet | Granskning av<br>Vård & Omsorg<br>kontinuitetshantering | Arbetet med att utveckla<br>förvaltningens<br>kontinuitetshantering<br>fortsätter under 2026 |
-|  | Uppföljning av<br>förvaltningarnas<br>Vård & Omsorg<br>systematiska<br>beredskapsarbete | Arbetet med att utveckla<br>förvaltningens<br>krisberedskap fortsätter<br>under 2026 |
+| Risker | Enhet | Granskningsaktiviteter | Åtgärder |
+| --- | --- | --- | --- |
+| Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | Vård & Omsorg | Uppföljning av åtgärder från<br>2024 | Information/utbildning<br>referenstagning |
+| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Vård & Omsorg | Uppföljning av<br>direktupphandlingar<br>(köpnivå 4-5) | Kunskap kring ämnet<br>behöver spridas i<br>förvaltningen och vi har<br>informerat om Inköps<br>utbildning |
+| Risk att anställda saknar<br>kompetens inom<br>brandsäkerhet. | Vård & Omsorg | Kontroll att brandutbildning<br>är genomförd bland alla nya<br>anställda de senaste 6<br>månaderna | Information och<br>uppmaning på<br>chefsmöte till samtliga<br>chefer om vikten att<br>boka medarbetare på<br>brandutbildning |
+| Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | Vård & Omsorg | Biståndshandläggning och<br>bostadsanpassningbidraget. | Uppdatera rutin |
+| Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen<br>i egen verksamhet | Vård & Omsorg | Granskning av<br>kontinuitetshantering | Arbetet med att utveckla<br>förvaltningens<br>kontinuitetshantering<br>fortsätter under 2026 |
+|  | Vård & Omsorg | Uppföljning av<br>förvaltningarnas<br>systematiska<br>beredskapsarbete | Arbetet med att utveckla<br>förvaltningens<br>krisberedskap fortsätter<br>under 2026 |
 
 <!-- sida 81 -->
 
@@ -3733,11 +3585,6 @@ när skötseln av en kommunal angelägenhet har lämnats över till någon annan
 Med privata utförare avses utförare som har hand om skötseln av en kommunal angelägenhet (KL kap 10). Som
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym % verksamhet mnkr
-Bokslut Bokslut Bokslut Bokslut
-2024    2025    2024    2025
 
 Inom Vård & Omsorgs verksamhetsområde bedrivs kundval inom hemtjänsten (LOV) och även inom vård- och
 omsorgsboenden som drivs på entreprenad (LOU).
@@ -3764,8 +3611,10 @@ görs.
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| Kundval - hemtjänst | 18,8 | 18,4 | 55,2 | 58,5 |
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
 | --- | --- | --- | --- | --- |
+|  | Bokslut<br>2024 | Bokslut<br>2025 | Bokslut<br>2024 | Bokslut<br>2025 |
+| Kundval - hemtjänst | 18,8 | 18,4 | 55,2 | 58,5 |
 | Vård- och omsorgsboende | 17,8 | 17,6 | 68,1 | 69,6 |
 | Korttidsboende | 15,2 | 19,2 | 5,3 | 12,0 |
 
@@ -3870,26 +3719,27 @@ Nämndens självskattning
 
 [Tabell 84-85-1](handlingar.tabeller/84-85-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-| Område | Frågor Svar 2025<br>Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 85 -->
 
@@ -6483,7 +6333,8 @@ Vård & Omsorg, God och Nära vård, helår 2025               8(16)
 | Andel som bedömt att de alltid eller ofta får deltaga i planeringen. Fr.o.m 2025 är sjuksköterske- och<br>rehabverksamheten sammanslagna i hemsjukvårdsenkäten. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | Sjuksköterske-<br>verksamheten | 70% | - | - | 67% | - |  |
-| Rehabiliterande<br>verksamheten<br>Vård- och<br>omsorgsboende | 71% | - | - | 70% | - |  |
+| Rehabiliterande<br>verksamheten | 71% | - | - | 70% | - |  |
+| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
 | Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
 | Bostad med<br>Särskild Service |  |  |  |  |  |  |
 | Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
@@ -6492,7 +6343,8 @@ Vård & Omsorg, God och Nära vård, helår 2025               8(16)
 | Samordning: Upplever du att de som hjälper dig jobbar tillsammans på ett bra sätt utifrån dina behov? |  |  |  |  |  |  |
 | Andel som bedömt att vården som de får är alltid eller oftast samordnad. Upplevelse av samordning INTERNT i<br>kommunen. Fr.o.m 2025 är sjuksköterske- och rehabverksamheten sammanslagna i hemsjukvårdsenkäten. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
-| Sjuksköterske- och<br>rehabverksamheten<br>Vård- och<br>omsorgsboende | 76% | - | - | 76% | - |  |
+| Sjuksköterske- och<br>rehabverksamheten | 76% | - | - | 76% | - |  |
+| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
 | Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
 | Bostad med<br>Särskild Service |  |  |  |  |  |  |
 | Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
@@ -6614,7 +6466,8 @@ Vård & Omsorg, God och Nära vård, helår 2025              11(16)
 | År 2020 och 2023: Andel som svarat Ja för alla/ja för de flesta. År 2025: Andel som svarat: alltid eller ofta. Fr.o.m<br>2025 är sjuksköterske- och rehabverksamheten sammanslagna i hemsjukvårdsenkäten. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | Sjuksköterske-<br>verksamheten | 95% | - | - | 95% | - |  |
-| Rehabverksamheten<br>Vård- och<br>omsorgsboende | 90% | - | - | 94% | - |  |
+| Rehabverksamheten | 90% | - | - | 94% | - |  |
+| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
 | Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
 | Bostad med Särskild<br>Service |  |  |  |  |  |  |
 | Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |
@@ -6725,7 +6578,8 @@ Vård & Omsorg, God och Nära vård, helår 2025              14(16)
 | Andel som svarat alltid eller ofta. Fr.o.m 2025 är sjuksköterske- och rehabverksamheten sammanslagna i<br>hemsjukvårdsenkäten. |  |  |  |  |  |  |
 |  | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | Sjuksköterske-<br>verksamheten | 89% | - | - | 89% | - |  |
-| Rehabverksamheten<br>Vård- och<br>omsorgsboende | 81% | - | - | 84% | - |  |
+| Rehabverksamheten | 81% | - | - | 84% | - |  |
+| Vård- och<br>omsorgsboende |  |  |  |  |  |  |
 | Ordinärt boende, ev<br>med hemtjänst |  |  |  |  |  |  |
 | Bostad med Särskild<br>Service |  |  |  |  |  |  |
 | Ordinärt boende<br>med personlig<br>assistans |  |  |  |  |  |  |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3f323d7b19afcca1016a8a4/17652840585
 sha256: 54f39697577d7b4bf014a24ac8f92cf506584380addba76597fc3611010548d2
 bytes: 4267307
 sidor: 117
-hamtad: 2026-11-08T20:09:21+00:00
-konverterad: 2026-11-08T20:09:46+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T10:49:13+00:00
+konverterad: 2026-11-18T10:49:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3242,7 +3242,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 80-81-1](handlingar.tabeller/80-81-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning |
 | --- | --- | --- | --- | --- |
 | 3.1.1 | 11 kap 1 §<br>socialtjänstlag | Särskilt boende | Biståndshandläggare |  |
 | 3.1.2 | 11 kap 1 §<br>socialtjänstlag | Parboende | Biståndshandläggare |  |
@@ -3271,7 +3271,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.2.1 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
 | 3.2.2 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – över 10 prisbasbelopp | Enhetschef |  |
@@ -3293,7 +3293,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 82-1](handlingar.tabeller/82-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.3.1 | 32 kap 5-10 §§<br>socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag | Fastställa avgift för enskild | Avgiftshandläggare | I enlighet med av Kommunfullmäktige antagna taxor. |
 | 3.3.2 |  | Nedsättning eller avskrivning av avgift för enskild, vid särskilda<br>skäl | Enhetschef |  |
@@ -3301,7 +3301,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 82-83-2](handlingar.tabeller/82-83-2.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.4.1 | 36 §<br>förvaltningslag | Rättelse av uppenbar felaktighet i beslut till följd av skrivfel,<br>räknefel eller liknande förbiseende | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | Rättelsen ska kommuniceras till den som beslutet<br>berör men är i sig inte ett överklagningsbart beslut.<br>Nämndsekreterare rättar beslut fattade av nämnden i<br>sin helhet. Gäller inte beslut som är överklagbara<br>enligt 13 kap. kommunallag. |
 | 3.4.2 | 37-38 §§<br>förvaltningslag | Ändring av ett pågående gynnande beslut (omprövning) | Delegaten i<br>ursprungsbeslutet | Beslut som är gynnande för enskild får bara ändras<br>till den enskildes nackdel i vissa fall, se 37 § 2 st<br>förvaltningslag. |
@@ -3333,7 +3333,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 84-85-1](handlingar.tabeller/84-85-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.5.1 | 27 kap 2 §<br>socialtjänstlag<br>(lex Sarah) | Bedöma rapporter om missförhållanden och risk för<br>missförhållanden samt anmälan till IVO om allvarligt<br>missförhållande eller påtaglig risk för allvarligt<br>missförhållande inom socialtjänst | Socialt ansvarig<br>samordnare<br>(SAS) | SAS ger information om anmälan till förvaltningschef och<br>nämnden för Vård & Omsorg |
 | 3.5.2 | 3 kap 5-6 §§<br>patientsäkerhets-<br>lag (lex Maria) | Bedöma rapporter om vårdskada samt anmäla händelser till<br>IVO som har medfört eller hade kunnat medföra en allvarlig<br>vårdskada eller annan allvarlig skada till följd av<br>säkerhetsbrister i verksamheten | Medicinskt<br>ansvarig<br>sjuksköterska<br>(MAS), Medicinskt<br>ansvarig för<br>rehabilitering<br>(MAR) | MAS eller MAR ger information om anmälan till<br>förvaltningschef och nämnden för Vård & Omsorg |
@@ -3369,7 +3369,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 
 [Tabell 86-87-1](handlingar.tabeller/86-87-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 4.1 | Attestreglemente,<br>Tillämpnings-<br>anvisningar för<br>attestreglementet | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter, och besluta om beloppsgränser eller<br>begränsad attesträtt. | Förvaltningschef,<br>Biträdande<br>förvaltningschef | Attesträtt innebär rätt att besluta om att godkänna<br>kostnader inom ett verksamhetsområde.<br>Följsamheten av attestreglementet ska årligen<br>kontrolleras, i enlighet med Tillämpningsanvisningar för<br>attestreglementet och av nämnden fastställd kontrollplan.<br>Resultatet av kontrollen ska redovisas till nämnden. |
 | 4.2 |  | Inhyrning, uthyrning och uppsägning av fastigheter, lokaler<br>och lägenheter | Förvaltningschef,<br>verksamhetschef |  |
@@ -3406,7 +3406,7 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 
 [Tabell 88-89-1](handlingar.tabeller/88-89-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Anställa |  |  |
 | 5.1 | 4 § lag om<br>anställningsskydd<br>(LAS), 3-5 §§ Allmänna<br>bestämmelser,<br>lönepolicy | Chefer direkt underställda förvaltningschefen -<br>tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader.<br>Innefattar lönesättning och samtliga övriga<br>anställningsvillkor enligt Kungsbackas lönestruktur. | Förvaltningschef | Tidsbegränsad anställning kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och samtliga övriga<br>anställningsvillkor enligt Kungsbackas lönestruktur. |
@@ -3439,7 +3439,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 90-92-1](handlingar.tabeller/90-92-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 6.1 | Artikel 37<br>Dataskydds-<br>förordningen (GDPR) | Utse dataskyddsombud för nämnden | Förvaltningschef | Beslutet ska anmälas till Integritetsskyddsmyndigheten<br>(IMY). |
 | 6.2 | Artikel 12.5<br>Dataskydds-<br>förordningen (GDPR) | Avslå begäran från enskild om åtgärd enligt artikel 15-22 i<br>dataskyddsförordningen, på grund av att begäran är<br>uppenbart ogrundad eller orimlig. | Förvaltningschef | Avslagsbeslut som rör åtgärd enligt artikel 15-21 kan<br>överklagas till förvaltningsdomstol |
@@ -3487,7 +3487,7 @@ Vid frånvaro så har tillförordnad samma uppdrag som ordinarie förordnad.
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
 
-| Nr Lagrum/stöd Uppdragets omfattning Förordnad Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Uppdragets omfattning | Förordnad | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 1-1 | 6 kap 39 § kommunallagen | Fatta beslut i nämndens ställe i ärenden som är<br>brådskande att nämndens avgörande inte kan avvaktas | Ordförande | Vid ordförandes förfall har vice<br>ordförande beslutanderätt. Vid vice<br>ordförandes förfall har andre vice<br>ordförande beslutanderätt. Vid andre<br>vice ordförandes förfall så övergår<br>beslutsrätten till ledamot i nämnden<br>som företräder samma parti som<br>ordförande, i den ordning som de<br>upptagits i Kommunfullmäktiges<br>protokoll vid inval till nämnden.<br>Beslutet ska anmälas vid nämndens<br>nästkommande sammanträde enligt 6<br>kap 40 § kommunallagen. |
 | 1-2 | 4 kap 2 § hälso- och<br>sjukvårdslagen | Uppdrag som verksamhetschef för den kommunala hälso-<br>och sjukvården | Verksamhetschef med HSL-<br>ansvar<br>Verksamhetschef |  |
