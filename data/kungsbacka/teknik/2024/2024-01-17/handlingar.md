@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.227417af18c8af9fa1e32a69/1705067329
 sha256: 776b4b4f0118b043a00adc36f12ee8d91ffee071bed8dee2efdbd394efcfc5b4
 bytes: 9496923
 sidor: 168
-hamtad: 2026-11-08T10:40:21+00:00
-konverterad: 2026-11-08T10:41:14+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:13:35+00:00
+konverterad: 2026-11-18T01:14:22+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
@@ -5309,7 +5309,6 @@ allmänna ytor och till kommunen kopplade ytor.
 Länsstyrelsen för att effektivt förhindra spridning.
 
 (No
-Poulrers AL AA NYMU
 
 dr < (LET TTSTETTASTTYTETTETTETTS
 
@@ -5916,7 +5915,7 @@ alla byar presenteras på samma sätt. Idag är det svårt att hitta logiken i s
 
 Vi yrkar därför att:
 
-\- - komplettering påbörjas så att namnskyltar sätts upp vid större byar
+\- komplettering påbörjas så att namnskyltar sätts upp vid större byar
 
 Per Gunnarsson, Ledamot Kommunfullmäktige
 Magdalena Sundqvist, Ledamot Kommunfullmäktige
@@ -6339,8 +6338,12 @@ Delegeringsförteckning
 
 [Tabell 146-1](handlingar.tabeller/146-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 3.1 |  | Rätt att skriva under<br>delgivningskvitto ställt till<br>nämnden | FC | X |  |
 | 3.2 | 6 kap. 39 § KL | Besluta i ärenden som är så<br>brådskande att nämndens<br>avgörande inte kan avvaktas | OF |  | Ska anmälas vid<br>nämndens nästa<br>sammanträde |
 | 3.3 | 6 kap. 3–6 §§<br>OSL<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med förbehåll eller<br>att inte lämna ut en allmän<br>handling och besluta om<br>sekretessmarkering | FC | X |  |
@@ -6460,8 +6463,12 @@ Förskola & Grundskola
 
 [Tabell 150-1](handlingar.tabeller/150-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 4.1 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Beslut om lokala<br>trafikföreskrifter avseende<br>hastighetsbegränsning samt<br>avseende tättbebyggt område | AU |  |  |
 | 4.2 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Avslagsbeslut avseende lokala<br>trafikföreskrifter | AU |  |  |
 | 4.3 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Övriga beslut om lokala<br>trafikföreskrifter utom<br>upphävande av inaktuella<br>trafikföreskrifter | AU |  |  |
@@ -6572,8 +6579,12 @@ Kungsbacka
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | FC | X | Beslut överklagas<br>till<br>förvaltningsdomstol |
 | 5.2 | 12 § lag om<br>färdtjänst | Beslut om att återkalla<br>tillstånd till färdtjänst om |  |  |  |
 | 5.2.1 |  | – förutsättningar för tillstånd<br>inte längre finns | FC | X | -:- |
@@ -6589,8 +6600,12 @@ Kungsbacka
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 6.1 | 6 § LAV | Besluta om mindre utökning<br>eller inskränkning av<br>verksamhetsområde för<br>spillvatten, dagvatten eller<br>dricksvatten | AU |  | Enstaka fastigheter i<br>anslutning till<br>befintliga<br>verksamhets-<br>områden |
 | 6.2 | 6 § LAV | Besluta om anslutning till<br>allmän va-anläggning för en<br>fastighet utanför<br>verksamhetsområdet samt<br>beslut om uppsägning av<br>anslutningsavtal | AU |  |  |
 | 6.3 | 38 § LAV | Avtala med fastighetsägare om<br>avgift som inte regleras i va-<br>taxan | FC | X |  |
@@ -6604,8 +6619,12 @@ Kungsbacka
 
 [Tabell 155-1](handlingar.tabeller/155-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 7.1 |  | Besluta i ärenden om<br>tillämpning av taxa för<br>bredband | FC | X |  |
 
 <!-- sida 156 -->
@@ -6784,8 +6803,12 @@ styrmodell
 
 [Tabell 160-161-1](handlingar.tabeller/160-161-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-delegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidare-delegera |  |
+|  |  |  | till |  |  |
 | 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |  |
 | 10.1.1 | LAS, AB §§ 3-5 | Verksamhetschef<br>Tillsvidareanställning och<br>tidsbegränsade anställningar<br>längre än 6 månader | FC |  | I dialog med presidiet<br>under<br>rekryteringsprocessen<br>Tidsbegränsade<br>anställning kortare än 6<br>månader är<br>verkställighet<br>Innefattar lönesättning<br>och samtliga övriga<br>anställningsvillkor<br>enligt Kungsbackas<br>lönestruktur |
 | 10.1.2 | LAS, AB §§ 3-5 | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsade anställningar<br>längre än 6 månader | FC | X | Tidsbegränsade<br>anställning kortare än 6<br>månader är<br>verkställighet<br>Innefattar lönesättning<br>och samtliga övriga<br>anställningsvillkor<br>enligt Kungsbackas<br>lönestruktur |

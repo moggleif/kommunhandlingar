@@ -1,176 +1,269 @@
-Kategorier,"Anledning till att
-Risker Sannolikhet Konsekvens
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Anledning till att
 risk ej tas till plan"
-Personal,"Risk att Risken hanteras
-3. Kännbar
-förvaltningen inom ramen för
+Personal,,"Risk att
+förvaltningen
+saknar personal
+med
+rätt/tillräcklig
+kompetens",2. Mindre vanligt,"3. Kännbar
 (uppfattas som
-saknar personal ordinarie
 besvärande för
-med 2. Mindre vanligt verksamhets-
 berörda
-rätt/tillräcklig planering och
 intressenter och
-kompetens kompetens-
-kommunen)
+kommunen)","Risken hanteras
+inom ramen för
+ordinarie
+verksamhets-
+planering och
+kompetens-
 försörjning."
-,"Risk att Risken hanteras
-förvaltningens 3. Kännbar inom ramen för
-personal inte kan (uppfattas som ordinarie
-möta nya krav på besvärande för utvecklingsarbete,
-3. Vanligt
-anpassning och berörda verksamhets-
-flexibilitet intressenter och planering och
-kommunen) kompetens-
+,,"Risk att
+förvaltningens
+personal inte kan
+möta nya krav på
+anpassning och
+flexibilitet",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Risken hanteras
+inom ramen för
+ordinarie
+utvecklingsarbete,
+verksamhets-
+planering och
+kompetens-
 försörjning."
-Ekonomi,"Kommunövergrip Omhändertas inom
-ande risk: ramen för ordinarie
-Grundläggande 2. Lindrig verksamhets-
-redovisning (uppfattas som uppföljning.
-kvalitetsbrister 3. Vanligt liten av berörda Granskning av
-intressenter och kontering och
-kommunen) redovisning görs
+Ekonomi,,"Kommunövergrip
+ande risk:
+Grundläggande
+redovisning
+kvalitetsbrister",3. Vanligt,"2. Lindrig
+(uppfattas som
+liten av berörda
+intressenter och
+kommunen)","Omhändertas inom
+ramen för ordinarie
+verksamhets-
+uppföljning.
+Granskning av
+kontering och
+redovisning görs
 löpande under
 året."
-,"Risk för fel vid 3. Kännbar Risken
-hantering av (uppfattas som omhändertas inom
-kundfakturor besvärande för ordinarie
-2. Mindre vanligt
-berörda uppföljnings-
-intressenter och processer.
-kommunen)"
+,,"Risk för fel vid
+hantering av
+kundfakturor",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Risken
+omhändertas inom
+ordinarie
+uppföljnings-
+processer."
 "Gemensamma
 områden;
 Informationssäke
 rhet,
 administration,
-inköp m fl.","Risk att Denna risk
-säkerhetsklassat hanteras inom
-material ramen för ordinarie
-avseende 4. Allvarlig/stor informations-
-GIS/Kartan inverkan (så stor säkerhetsarbete
-2. Mindre vanligt
-lämnas ut eller på att den inte får på förvaltningen.
-annat sätt inträffa)
+inköp m fl.",,"Risk att
+säkerhetsklassat
+material
+avseende
+GIS/Kartan
+lämnas ut eller på
+annat sätt
 kommer i
 obehöriga
-händer."
-,"Risk för Denna risk
-oplanerade 4. Allvarlig/stor hanteras inom
-driftstopp eller inverkan (så stor ramen för
-2. Mindre vanligt
-krasch av att den inte får förvaltningens
-verksamhetssyst inträffa) ordinarie
-em säkerhetsarbete."
-,"Risk för intrång, Denna risk tas
-3. Kännbar
-obehörig åtkomst omhand inom
-(uppfattas som
-eller avslöjad ramen för ordinarie
-besvärande för
-sekretess på 2. Mindre vanligt informations-
-berörda
-grund av stöld säkerhetsarbete.
-intressenter och
+händer.",2. Mindre vanligt,"4. Allvarlig/stor
+inverkan (så stor
+att den inte får
+inträffa)","Denna risk
+hanteras inom
+ramen för ordinarie
+informations-
+säkerhetsarbete
+på förvaltningen."
+,,"Risk för
+oplanerade
+driftstopp eller
+krasch av
+verksamhetssyst
+em",2. Mindre vanligt,"4. Allvarlig/stor
+inverkan (så stor
+att den inte får
+inträffa)","Denna risk
+hanteras inom
+ramen för
+förvaltningens
+ordinarie
+säkerhetsarbete."
+,,"Risk för intrång,
+obehörig åtkomst
+eller avslöjad
+sekretess på
+grund av stöld
 och/eller
-kommunen)
-oaktsamhet."
-,"Felaktig Hanteras inom
-3. Kännbar
-hantering i ramen för den
+oaktsamhet.",2. Mindre vanligt,"3. Kännbar
 (uppfattas som
-enskilda ärenden kommunövergripa
 besvärande för
-på grund av 2. Mindre vanligt nde risken om
 berörda
-förfalskade välfärdsbrottslighet
 intressenter och
-dokument eller och korruption
-kommunen)
-bluffsamtal"
-,"Kommunövergrip Inte prioriterad
-ande risk: It- kommuncentralt:
-säkerhet 3. Kännbar Kommentar: ""Tas
-- Bristande (uppfattas som omhand genom
-driftmiljö hos besvärande för inköpsprocessen/
-2. Mindre vanligt
-leverantörer berörda leverantörsuppföljn
-intressenter och ing. Även
-kommunen) uppföljning genom
+kommunen)","Denna risk tas
+omhand inom
+ramen för ordinarie
+informations-
+säkerhetsarbete."
+,,"Felaktig
+hantering i
+enskilda ärenden
+på grund av
+förfalskade
+dokument eller
+bluffsamtal",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Hanteras inom
+ramen för den
+kommunövergripa
+nde risken om
+välfärdsbrottslighet
+och korruption"
+,,"Kommunövergrip
+ande risk: It-
+säkerhet
+- Bristande
+driftmiljö hos
+leverantörer",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Inte prioriterad
+kommuncentralt:
+Kommentar: ""Tas
+omhand genom
+inköpsprocessen/
+leverantörsuppföljn
+ing. Även
+uppföljning genom
 systemförvaltarmo
 dellen."""
-Verksamhet,"Risk att Hanteras inom
-3. Kännbar
-medarbetare ramen för
-(uppfattas som
-utsätts för kommungemensa
-besvärande för
-otillåten påverkan 3. Vanligt m risk
-berörda
+Verksamhet,,"Risk att
+medarbetare
+utsätts för
+otillåten påverkan
 och att detta
-intressenter och
 påverkar
-kommunen)
-beslutsfattande"
-,"Hantering av Hanteras inom
-personuppgifter ramen för ordinarie
-sker inte korrekt informations-
-säkerhetsarbete.
-2. Lindrig
-Förvaltningen har
+beslutsfattande",3. Vanligt,"3. Kännbar
 (uppfattas som
-ett fungerande
-3. Vanligt liten av berörda
-dataskyddsarbete
+besvärande för
+berörda
 intressenter och
+kommunen)","Hanteras inom
+ramen för
+kommungemensa
+m risk"
+,,"Hantering av
+personuppgifter
+sker inte korrekt",3. Vanligt,"2. Lindrig
+(uppfattas som
+liten av berörda
+intressenter och
+kommunen)","Hanteras inom
+ramen för ordinarie
+informations-
+säkerhetsarbete.
+Förvaltningen har
+ett fungerande
+dataskyddsarbete
 där
-kommunen)
 personuppgifts-
 incidenter
 rapporteras till
 nämnderna."
-,"Risk att fel i Hanteras inom
-3. Kännbar
-statistikrapporter ramen för ordinarie
+,,"Risk att fel i
+statistikrapporter
+leder till sämre
+eller felaktiga
+beslut",2. Mindre vanligt,"3. Kännbar
 (uppfattas som
-leder till sämre verksamhets-
 besvärande för
-eller felaktiga 2. Mindre vanligt uppföljning och
 berörda
-beslut systemförvaltning.
 intressenter och
+kommunen)","Hanteras inom
+ramen för ordinarie
+verksamhets-
+uppföljning och
+systemförvaltning.
 Rutiner finns och
-kommunen)
 fungerar"
-,"Risk att Risken hanteras
-verksamhetsutve 3. Kännbar inom ramen för
-ckling och (uppfattas som ordinarie budget
-innovation besvärande för och
-3. Vanligt
-nedprioriteras på berörda uppföljningsarbete.
-grund av intressenter och
-bristande kommunen)
-resurser"
-,"Kommunövergrip Inte prioriterad
-ande risk: 3. Kännbar kommuncentralt.
-Dämpad (uppfattas som Omhändertas inom
-befolkningstillväx besvärande för ramen för ordinarie
-2. Mindre vanligt
-t med långsiktig berörda verksamhetsplaner
-påverkan på intressenter och ing och
-kommunala kommunen) budgetprocesser.
-verksamheter"
-,"Risk att bristande 3. Kännbar Hanteras inom
-datakvalitet (uppfattas som ramen för ordinarie
-försvårar besvärande för verksamhetsutvec
-3. Vanligt
-datadriven berörda kling och
-styrning och intressenter och uppföljning.
-utveckling kommunen)"
-,"Risk för bristande 3. Kännbar Hanteras inom
-förmåga att möta (uppfattas som ramen för ordinarie
-kunders besvärande för utvecklingsarbete.
-3. Vanligt
-förväntningar på berörda
-service och intressenter och
-tillgänglighet kommunen)"
+,,"Risk att
+verksamhetsutve
+ckling och
+innovation
+nedprioriteras på
+grund av
+bristande
+resurser",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Risken hanteras
+inom ramen för
+ordinarie budget
+och
+uppföljningsarbete."
+,,"Kommunövergrip
+ande risk:
+Dämpad
+befolkningstillväx
+t med långsiktig
+påverkan på
+kommunala
+verksamheter",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Inte prioriterad
+kommuncentralt.
+Omhändertas inom
+ramen för ordinarie
+verksamhetsplaner
+ing och
+budgetprocesser."
+,,"Risk att bristande
+datakvalitet
+försvårar
+datadriven
+styrning och
+utveckling",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Hanteras inom
+ramen för ordinarie
+verksamhetsutvec
+kling och
+uppföljning."
+,,"Risk för bristande
+förmåga att möta
+kunders
+förväntningar på
+service och
+tillgänglighet",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda
+intressenter och
+kommunen)","Hanteras inom
+ramen för ordinarie
+utvecklingsarbete."

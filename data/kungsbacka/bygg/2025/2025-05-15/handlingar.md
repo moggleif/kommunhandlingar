@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f1be9/17471202234
 sha256: f73ad293e99b3e3dcfcbc5dbd35b4e19b740fd4813f16244cbbe9b4d4727dc71
 bytes: 1891547
 sidor: 144
-hamtad: 2026-11-08T09:30:57+00:00
-konverterad: 2026-11-08T09:31:22+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:11:54+00:00
+konverterad: 2026-11-18T00:12:13+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7255,8 +7255,9 @@ Boverket
 
 [Tabell 135-1](handlingar.tabeller/135-1.csv)
 
-| Bransch | SNI-kod | 0 | 1–9 | 10–49 | 50–<br>99 | 100–<br>199 | 200–<br>499 | 500+ | Summa |
+| Bransch | SNI-kod | 0 | 1–9 | 10–49 | 50– | 100– | 200– | 500+ | Summa |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | 99 | 199 | 499 |  |  |
 | Tillverkning av monteringsfär-<br>diga trähus | 16.231 | 360 | 131 | 57 | 16 | 3 | 4 | 0 | 571 |
 | Utvecklare av byggprojekt | 41.100 | 821 | 174 | 22 | 0 | 3 | 0 | 0 | 1 020 |
 | Entreprenörer för bostadshus<br>och andra byggnader | 41.200 | 16 485 | 8 976 | 1 263 | 120 | 30 | 18 | 7 | 26 899 |

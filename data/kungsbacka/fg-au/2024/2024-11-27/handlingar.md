@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff852b4/1732526617
 sha256: f6b225dff36c81ebfd040d7e5eefa4e84ee4f7611e0f77bebe51779590046f60
 bytes: 16362850
 sidor: 274
-hamtad: 2026-11-08T09:00:48+00:00
-konverterad: 2026-11-08T09:02:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:44:54+00:00
+konverterad: 2026-11-17T23:46:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3075,7 +3075,7 @@ www.kungsbacka.se
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 73 384 kr |
@@ -5503,14 +5503,14 @@ risk ej tas till plan
 
 [Tabell 183-1](handlingar.tabeller/183-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
-|  | 5 Risk att anmäld 3. Vanligt 3. Kännbar (uppfattas Ja<br>misstänkt kränkande som besvärande för<br>behandling inte utreds berörda intressenter och<br>skyndsamt i tillräcklig kommunen)<br>omfattning. |
-|  | 6 Risk att insatser i 3. Vanligt 3. Kännbar (uppfattas Ja<br>åtgärdsprogram inte som besvärande för<br>motsvarar elevens berörda intressenter och<br>stödbehov kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 2 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 5 Risk att anmäld<br>misstänkt kränkande<br>behandling inte utreds<br>skyndsamt i tillräcklig<br>omfattning. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Risk att insatser i<br>åtgärdsprogram inte<br>motsvarar elevens<br>stödbehov | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 184 -->
 
@@ -5521,11 +5521,11 @@ Intern kontrollplan 2025
 
 [Tabell 184-1](handlingar.tabeller/184-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Ekonomi | Kommunövergrip<br>ande risk:<br>Resurser till 2. Lindrig<br>innovation, (uppfattas som<br>digitalisering och 2. Mindre vanligt liten av berörda<br>omställning till intressenter och<br>nya arbetssätt för kommunen)<br>framtidens<br>välfärd |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-|  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet - besvärande för<br>2. Mindre vanligt<br>Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet -<br>Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 185 -->
 
@@ -5860,7 +5860,7 @@ Underlag för individuell utvärdering och resultatdialog.
 
 [Tabell 195-1](handlingar.tabeller/195-1.csv)
 
-| Syfte Stödfrågor Kommentarer |  |  |
+| Syfte | Stödfrågor | Kommentarer |
 | --- | --- | --- |
 | Nulägesbeskrivning utifrån<br>insamlade data | RESULTAT: Vad visar dina bedömningar/ betygsresultat? Vilka skillnader i<br>resultat och måluppfyllelse ser du mellan till exempel dina klasser, ämnen, flickor<br>och pojkar?<br>PROCESS: Hur har du arbetat för att variera undervisningen utifrån elevernas<br>behov? Hur har du tydliggjort mål, undervisningsinnehåll och betygskriterier och<br>vad eleverna förväntas utveckla? Hur följer vi upp och återkopplar elevernas<br>lärande? Vilka framgångsfaktorer och lärdomar kan du bygga vidare på?<br>STRUKTUR: Hur har ditt sätt att organisera och strukturera undervisningen<br>påverkat elevernas kunskapsutveckling? Hur tänker vi när vi inleder en lektion för<br>att skapa ett tydligt samband med de föregående?<br>Hur tänker vi när vi avslutar en lektion för att sammanfatta innehållet eller fånga<br>upp sådant som eleverna haft svårt att förstå? Hur presenterar vi material eller<br>kunskapsinnehåll som är nytt för eleverna? Till exempel allt på en gång och<br>mycket tid för att arbeta eller i olika steg med elevaktivitet mellan de olika<br>stegen? Vad styr ert val? Hur väljer vi läromedel? Vilka faktorer tar vi hänsyn till?<br>Hur organiserar och leder vi grupparbeten? Hur skapar vi bra grupper? Hur<br>tänker vi om läxor och hemarbete? Om prov och omprov? | RESULTAT:<br>PROCESS:<br>STRUKTUR: |
 | Identifiera brister<br>(negativ avvikelseanalys) | Vilka brister ser du behöver åtgärdas?<br>Vilka brister är viktigast åtgärda först? |  |
@@ -6590,8 +6590,6 @@ Ann-Sofie Melleroth, rektor
 
 CCR
 
-(Mud Het ler M
-
 Kristin Arplöw, rektor
 
 <!-- sida 213 -->
@@ -6938,8 +6936,10 @@ Elevernas ansvar och inflytande           x
 
 | Läroplan för grundskolan samt för<br>förskoleklassen och fritidshemmet, LGR 22 | Inte alls | Till viss<br>del | Till stor<br>del | Helt | Vet ej |
 | --- | --- | --- | --- | --- | --- |
-| Normer och värden<br>Skolan ska aktivt och medvetet påverka och<br>stimulera eleverna att omfatta vårt samhälles<br>gemensamma värderingar och låta dem komma till<br>uttryck i praktisk vardaglig handling i olika<br>sammanhang. |  | x | x |  |  |
-| Kunskaper<br>Skolan ska ansvara för att eleverna inhämtar och<br>utvecklar sådana kunskaper som är nödvändiga<br>för varje individ och samhällsmedlem. Dessa ger<br>också en grund för fortsatt utbildning. Skolan ska<br>bidra till elevernas harmoniska utveckling.<br>Utforskande, nyfikenhet och lust att lära ska utgöra<br>en grund för skolans verksamhet. Skolan ska<br>erbjuda eleverna strukturerad undervisning under<br>lärares ledning, såväl i helklass som enskilt.<br>Lärarna ska sträva efter att i undervisningen<br>balansera och integrera kunskaper i sina olika<br>former. För att elever i behov av stöd för att<br>uppfylla kriterierna för bedömning av kunskaper i<br>matematik, svenska och svenska som andraspråk<br>i lågstadiet ska få det tidigt och anpassat efter sina<br>behov finns det i 3 kap. skollagen (2010:800)<br>bestämmelser om en garanti för tidiga stödinsatser<br>i förskoleklassen och i lågstadiet. Kapitlet<br>innehåller även bestämmelser om stöd för att<br>eleverna ska ha möjlighet att uppfylla de kriterier<br>för bedömning av kunskaper och betygskriterier<br>som minst ska uppfyllas i alla ämnen och<br>årskurser samt bestämmelser om elevernas<br>utveckling mot utbildningens mål i övrigt. |  |  | x |  |  |
+| Normer och värden |  | x | x |  |  |
+| Skolan ska aktivt och medvetet påverka och<br>stimulera eleverna att omfatta vårt samhälles<br>gemensamma värderingar och låta dem komma till<br>uttryck i praktisk vardaglig handling i olika<br>sammanhang. |  |  |  |  |  |
+| Kunskaper |  |  | x |  |  |
+| Skolan ska ansvara för att eleverna inhämtar och<br>utvecklar sådana kunskaper som är nödvändiga<br>för varje individ och samhällsmedlem. Dessa ger<br>också en grund för fortsatt utbildning. Skolan ska<br>bidra till elevernas harmoniska utveckling.<br>Utforskande, nyfikenhet och lust att lära ska utgöra<br>en grund för skolans verksamhet. Skolan ska<br>erbjuda eleverna strukturerad undervisning under<br>lärares ledning, såväl i helklass som enskilt.<br>Lärarna ska sträva efter att i undervisningen<br>balansera och integrera kunskaper i sina olika<br>former. För att elever i behov av stöd för att<br>uppfylla kriterierna för bedömning av kunskaper i<br>matematik, svenska och svenska som andraspråk<br>i lågstadiet ska få det tidigt och anpassat efter sina<br>behov finns det i 3 kap. skollagen (2010:800)<br>bestämmelser om en garanti för tidiga stödinsatser<br>i förskoleklassen och i lågstadiet. Kapitlet<br>innehåller även bestämmelser om stöd för att<br>eleverna ska ha möjlighet att uppfylla de kriterier<br>för bedömning av kunskaper och betygskriterier<br>som minst ska uppfyllas i alla ämnen och<br>årskurser samt bestämmelser om elevernas<br>utveckling mot utbildningens mål i övrigt. |  |  |  |  |  |
 
 <!-- sida 230 -->
 
@@ -6963,12 +6963,17 @@ nätet. Trygghetsenkäten - eleverna får varje läsår fylla i en trygghetsenk�
 
 [Tabell 230-1](handlingar.tabeller/230-1.csv)
 
-| Skola och hem<br>Skolans och vårdnadshavarnas gemensamma<br>ansvar för elevernas skolgång ska skapa de bästa<br>möjliga förutsättningarna för barns och ungdomars<br>utveckling och lärande |  |  | x |  |  |
+| Skola och hem |  |  | x |  |  |
 | --- | --- | --- | --- | --- | --- |
-| Övergång och samverkan<br>Förskoleklassen, fritidshemmet och skolan ska<br>samverka på ett förtroendefullt sätt med varandra<br>och förskolan för att stödja elevernas utveckling<br>och lärande i ett långsiktigt perspektiv. Inför<br>övergångar ska de berörda skolformerna och<br>fritidshemmet utbyta kunskaper, erfarenheter och<br>information om innehållet i utbildningen för att<br>skapa sammanhang, kontinuitet och progression i<br>elevernas utveckling och lärande. Skolan ska även<br>samverka med de gymnasiala utbildningar som<br>eleverna fortsätter till. Det ska även finnas<br>samarbetsformer som syftar till att förbereda<br>eleverna och deras vårdnadshavare inför<br>övergångar. |  |  | x |  |  |
-| Skolan och omvärlden<br>Eleverna ska få en utbildning av hög kvalitet i<br>skolan. De ska också få underlag för att välja<br>fortsatt utbildning. Detta förutsätter att den<br>obligatoriska skolan nära samverkar med de<br>gymnasiala utbildningar som eleverna fortsätter till.<br>Det förutsätter också en samverkan med<br>arbetslivet och närsamhället i övrigt. | x | x |  |  |  |
-| Bedömning och betyg<br>Betyget uttrycker i vilken utsträckning den enskilda<br>eleven har uppfyllt de nationella betygskriterier<br>som finns för respektive ämne. Som stöd för<br>betygssättningen finns ämnesspecifika<br>betygskriterier för olika betygssteg |  | x |  |  |  |
-| Rektorns ansvar<br>Som pedagogisk ledare och chef för lärarna och<br>övrig personal i skolan har rektorn det<br>övergripande ansvaret för att verksamheten som<br>helhet inriktas mot de nationella målen. Rektorn<br>ansvarar för att skolans resultat följs upp och<br>utvärderas i förhållande till de nationella målen,<br>kriterierna för bedömning av kunskaper och<br>betygskriterierna. Rektorn har ansvaret för skolans<br>resultat. |  |  |  |  |  |
+| Skolans och vårdnadshavarnas gemensamma<br>ansvar för elevernas skolgång ska skapa de bästa<br>möjliga förutsättningarna för barns och ungdomars<br>utveckling och lärande |  |  |  |  |  |
+| Övergång och samverkan |  |  | x |  |  |
+| Förskoleklassen, fritidshemmet och skolan ska<br>samverka på ett förtroendefullt sätt med varandra<br>och förskolan för att stödja elevernas utveckling<br>och lärande i ett långsiktigt perspektiv. Inför<br>övergångar ska de berörda skolformerna och<br>fritidshemmet utbyta kunskaper, erfarenheter och<br>information om innehållet i utbildningen för att<br>skapa sammanhang, kontinuitet och progression i<br>elevernas utveckling och lärande. Skolan ska även<br>samverka med de gymnasiala utbildningar som<br>eleverna fortsätter till. Det ska även finnas<br>samarbetsformer som syftar till att förbereda<br>eleverna och deras vårdnadshavare inför<br>övergångar. |  |  |  |  |  |
+| Skolan och omvärlden |  | x |  |  |  |
+| Eleverna ska få en utbildning av hög kvalitet i<br>skolan. De ska också få underlag för att välja<br>fortsatt utbildning. Detta förutsätter att den<br>obligatoriska skolan nära samverkar med de<br>gymnasiala utbildningar som eleverna fortsätter till.<br>Det förutsätter också en samverkan med<br>arbetslivet och närsamhället i övrigt. | x |  |  |  |  |
+| Bedömning och betyg |  | x |  |  |  |
+| Betyget uttrycker i vilken utsträckning den enskilda<br>eleven har uppfyllt de nationella betygskriterier<br>som finns för respektive ämne. Som stöd för<br>betygssättningen finns ämnesspecifika<br>betygskriterier för olika betygssteg |  |  |  |  |  |
+| Rektorns ansvar |  |  |  |  |  |
+| Som pedagogisk ledare och chef för lärarna och<br>övrig personal i skolan har rektorn det<br>övergripande ansvaret för att verksamheten som<br>helhet inriktas mot de nationella målen. Rektorn<br>ansvarar för att skolans resultat följs upp och<br>utvärderas i förhållande till de nationella målen,<br>kriterierna för bedömning av kunskaper och<br>betygskriterierna. Rektorn har ansvaret för skolans<br>resultat. |  |  |  |  |  |
 
 <!-- sida 231 -->
 
@@ -7283,7 +7288,7 @@ Underlag för individuell utvärdering och resultatdialog.
 
 [Tabell 240-1](handlingar.tabeller/240-1.csv)
 
-| Syfte Stödfrågor Kommentarer |  |  |
+| Syfte | Stödfrågor | Kommentarer |
 | --- | --- | --- |
 | Nulägesbeskrivning utifrån<br>insamlade data | RESULTAT: Vad visar dina bedömningar/ betygsresultat? Vilka skillnader i<br>resultat och måluppfyllelse ser du mellan till exempel dina klasser, ämnen, flickor<br>och pojkar?<br>PROCESS: Hur har du arbetat för att variera undervisningen utifrån elevernas<br>behov? Hur har du tydliggjort mål, undervisningsinnehåll och betygskriterier och<br>vad eleverna förväntas utveckla? Hur följer vi upp och återkopplar elevernas<br>lärande? Vilka framgångsfaktorer och lärdomar kan du bygga vidare på?<br>STRUKTUR: Hur har ditt sätt att organisera och strukturera undervisningen<br>påverkat elevernas kunskapsutveckling? Hur tänker vi när vi inleder en lektion för<br>att skapa ett tydligt samband med de föregående?<br>Hur tänker vi när vi avslutar en lektion för att sammanfatta innehållet eller fånga<br>upp sådant som eleverna haft svårt att förstå? Hur presenterar vi material eller<br>kunskapsinnehåll som är nytt för eleverna? Till exempel allt på en gång och<br>mycket tid för att arbeta eller i olika steg med elevaktivitet mellan de olika<br>stegen? Vad styr ert val? Hur väljer vi läromedel? Vilka faktorer tar vi hänsyn till?<br>Hur organiserar och leder vi grupparbeten? Hur skapar vi bra grupper? Hur<br>tänker vi om läxor och hemarbete? Om prov och omprov? | RESULTAT:<br>PROCESS:<br>STRUKTUR: |
 | Identifiera brister<br>(negativ avvikelseanalys) | Vilka brister ser du behöver åtgärdas?<br>Vilka brister är viktigast åtgärda först? |  |

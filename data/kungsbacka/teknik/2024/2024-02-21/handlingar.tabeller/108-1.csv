@@ -1,35 +1,34 @@
-"Kategorier
-Personal","Matrisnr Risker Till plan
-1 Kommunövergripande risk: Processen för avslut Ja
+Kategorier,,Matrisnr,Risker,Till plan
+Personal,,1,"Kommunövergripande risk: Processen för avslut
 av anställning säkerställer inte att alla
 behörigheter till system, lokaler och andra
-tillgångar avslutas."
-Ekonomi,"2 Kommunövergripande risk: Redovisning av Ja
-representation"
-,3 Kommunövergripande risk: Debiteringsrutiner Ja
-,4 Manuella betalningar Ja
+tillgångar avslutas.",Ja
+Ekonomi,,2,"Kommunövergripande risk: Redovisning av
+representation",Ja
+,,3,Kommunövergripande risk: Debiteringsrutiner,Ja
+,,4,Manuella betalningar,Ja
 "Informationssäker
 het,
 administration,
-inköp...","5 Kommunövergripande risk: Bristande styrning av Ja
-förändring av verksamhetsprocesser och system"
-,"6 Kommunövergripande risk: Inköp (granskning Ja
-begränsas till belopp över 100.000:-)"
-,"7 Kommunövergripande risk: Bristande hantering Ja
-av delegationsbeslut"
-,"8 Risk att det uppstår säkerhetsbrister samt brister Ja
+inköp...",,5,"Kommunövergripande risk: Bristande styrning av
+förändring av verksamhetsprocesser och system",Ja
+,,6,"Kommunövergripande risk: Inköp (granskning
+begränsas till belopp över 100.000:-)",Ja
+,,7,"Kommunövergripande risk: Bristande hantering
+av delegationsbeslut",Ja
+,,8,"Risk att det uppstår säkerhetsbrister samt brister
 i styrning och ledning i våra system, till följd av
-bristande följsamhet till gällande riktlinjer."
-,"9 Kommunövergripande risk: Ja
+bristande följsamhet till gällande riktlinjer.",Ja
+,,9,"Kommunövergripande risk:
 informationssäkerhet; skydd av information mot
-obehörig tillgång"
-,10 Risk för avtalsbrott och skadeståndsanspråk Ja
-Verksamhet,"11 Risk för bristfällig dokumentation i samband med Ja
+obehörig tillgång",Ja
+,,10,Risk för avtalsbrott och skadeståndsanspråk,Ja
+Verksamhet,,11,"Risk för bristfällig dokumentation i samband med
 besiktning av nyanslutningar till vatten och
-avlopp"
-,"12 Risk för att felaktiga avgifter tas ut från VA- Ja
-föreningar"
-,13 Risk att information är svår att hitta och återsöka Ja
-,"14 Risk för fel till följd av bristande kvalitet i inlagd Ja
-information i kartan"
-,15 Kommunövergripande risk - Risk för korruption Ja
+avlopp",Ja
+,,12,"Risk för att felaktiga avgifter tas ut från VA-
+föreningar",Ja
+,,13,Risk att information är svår att hitta och återsöka,Ja
+,,14,"Risk för fel till följd av bristande kvalitet i inlagd
+information i kartan",Ja
+,,15,Kommunövergripande risk - Risk för korruption,Ja

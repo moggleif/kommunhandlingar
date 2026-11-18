@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6b3c9de619a7bbdb14110676/1763109230
 sha256: 46eb0cb58df4d1e43f9b04866ce8b19a022f7862fe2258c4fe4211dcedd34935
 bytes: 80181392
 sidor: 594
-hamtad: 2026-11-08T11:15:12+00:00
-konverterad: 2026-11-08T11:24:18+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:42:26+00:00
+konverterad: 2026-11-18T01:49:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
 tal_obekraftade: [142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 154, 155, 156, 160, 161, 162, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 306, 307, 308, 309, 310, 311, 312, 313, 342, 343, 373, 374, 375, 376, 570, 579, 580, 583, 586]
 figurer: [4, 47, 55, 57, 59, 79, 100, 109, 111, 112, 113, 128, 133, 134, 135, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 291, 295, 296, 298, 306, 307, 308, 309, 310, 311, 312, 313, 318, 326, 370, 371, 372, 373, 374, 375, 376, 377, 379, 380, 381, 383, 384, 386, 387, 390, 391, 392, 393, 394, 395, 396, 397, 398, 399, 400, 401, 402, 403, 407, 408, 409, 410, 419, 420, 421, 427, 429, 431, 433, 434, 435, 438, 439, 440, 442, 443, 444, 445, 447, 448, 449, 450, 451, 453, 454, 456, 458, 459, 460, 462, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 479, 480, 482, 483, 484, 485, 486, 489, 492, 499, 500, 514, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570]
 tolkade: []
@@ -889,52 +889,36 @@ Som en del i att erbjuda en trygg och säker arbetsplats kommer förvaltningen u
 
 8.2 Personalmått
 
-Nyckeltal           Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026
-Andel heltid         98,3 %     98 %     98,2 %
-
-Antal medarbetare per
-16,3      11,9      10,7
-enhetschef
-
-```osaker-tabell
-Sjukfrånvaro Totalt   5,1 %    4,1 %     4,8 %
-Sjukfrånvaro Kvinnor  4,8 %    4,5 %     5,5 %
-Sjukfrånvaro Män      5,3 %    3,9 %     4,4 %
-Korttidssjukfrånvaro  3 %      2,7 %     2,5 %
-```
-
-Korttidssjukfrånvaro Kvinnor 2,9 % 2,8 % 2,6 %
-
-Korttidssjukfrånvaro Män 3,1 % 2,7 %     2,5 %
-Långtidssjukfrånvaro  2,1 %    1,4 %     2,4 %
-
 24
+
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
+
+| Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 98,3 % | 98 % | 98,2 % |  |  |
+| Antal medarbetare per<br>enhetschef | 16,3 | 11,9 | 10,7 |  |  |
+| Sjukfrånvaro Totalt | 5,1 % | 4,1 % | 4,8 % |  |  |
+| Sjukfrånvaro Kvinnor | 4,8 % | 4,5 % | 5,5 % |  |  |
+| Sjukfrånvaro Män | 5,3 % | 3,9 % | 4,4 % |  |  |
+| Korttidssjukfrånvaro | 3 % | 2,7 % | 2,5 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,9 % | 2,8 % | 2,6 % |  |  |
+| Korttidssjukfrånvaro Män | 3,1 % | 2,7 % | 2,5 % |  |  |
+| Långtidssjukfrånvaro | 2,1 % | 1,4 % | 2,4 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 1,8 % | 1,7 % | 2,9 % |  |  |
+| Långtidssjukfrånvaro Män | 2,3 % | 1,2 % | 1,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 18,2 % | 21,7 % | 33,7 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 33,4 % | 16,6 % | 26,3 % |  |  |
+| Anställda totalt | 246 | 250 | 228 |  |  |
+| Anställda andel kvinnor | 39,8 % | 41,6 % | 43,4 % |  |  |
+| Anställda andel män | 60,2 % | 58,4 % | 56,6 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 27,8 % | 18,9 % | 29,9 % |  |  |
+| Medelålder | 47 | 47 | 47 |  |  |
+| Personalomsättning | 15,2 % | 9,1 % | 9,3 % |  |  |
 
 <!-- sida 25 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2026
-
-Nyckeltal           Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026
-Långtidssjukfrånvaro Kvinnor 1,8 % 1,7 % 2,9 %
-
-Långtidssjukfrånvaro Män 2,3 % 1,2 %     1,9 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 18,2 % 21,7 % 33,7 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 33,4 % 16,6 % 26,3 %
-mer Män
-Anställda totalt      246       250       228
-
-Anställda andel kvinnor 39,8 % 41,6 %    43,4 %
-Anställda andel män  60,2 %    58,4 %    56,6 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 27,8 % 18,9 % 29,9 %
-mer
-Medelålder             47       47        47
-
-Personalomsättning   15,2 %    9,1 %     9,3 %
 
 8.3 Arbetsmiljö
 
@@ -1385,109 +1369,82 @@ Nämndbudget 2026
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Fördjupad översiktsplan för Tjolöholm               KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad        KF § 2021-11-09 § 140
-Barnets rätt                                         KF 2014-11-11 §
-
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                     KF 2021-11-09 § 140
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Regler för arbete mot klotter och skadegörelse      KF 2013-04-16 § 58
-Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter KF 2024-05-07 § 82
-Dagvatten                                           KF 2023-06-14 § 77
-
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Vatten- och avloppsanläggning, allmänna bestämmelser för användande KF § 44/09
-Enskild väghållning, regler för bidrag                 KF § 17/94
-
-Vägbelysning, regler                                   KF § 61/90
-VA-saneringsprogram                                   KF § 105/08
-
-VA-verksamhetsområde 2024                           KF 2025-08-12 § 152
-Vattentjänstplan                                    KF 2025-03-04 § 34
-Inköp, policy                                       KF 2021-03-09 § 30
-
-Boendeparkering, regler och taxa                    KF 2024-02-06 § 12
-Lokaler och internhyra                              KF 2014-11-11 § 153
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Bredbandsnät, policy                                KF 2018-06-14 § 105
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-
 34
+
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2021-11-09 § 140 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Regler för arbete mot klotter och skadegörelse | KF 2013-04-16 § 58 |
+| Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter | KF 2024-05-07 § 82 |
+| Dagvatten | KF 2023-06-14 § 77 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Vatten- och avloppsanläggning, allmänna bestämmelser för användande | KF § 44/09 |
+| Enskild väghållning, regler för bidrag | KF § 17/94 |
+| Vägbelysning, regler | KF § 61/90 |
+| VA-saneringsprogram | KF § 105/08 |
+| VA-verksamhetsområde 2024 | KF 2025-08-12 § 152 |
+| Vattentjänstplan | KF 2025-03-04 § 34 |
+| Inköp, policy | KF 2021-03-09 § 30 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Bredbandsnät, policy | KF 2018-06-14 § 105 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| VA-utbyggnadsplan 2022-2032 | KF 2020-09-08 § 90 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för Teknik | KF 2021-04-13 § 67 |
+| Färdtjänst; Riksfärdtjänst, tillämpningsregler | KF 2019-12-10 § 182 |
+| Lokala avfallsföreskrifter | 2024-02-06 § 13 |
+| Bredbandsnät, taxa 2025 | KF 2024-06-13 § 159 |
+| Bredbandsnät, taxa 2026 | KF 2025-10-07 § 197 |
+| Avfallstaxa 2026 | KF 2025-11-04 § 223 |
+| Trafikförsörjningsprogram | KF 2024-12-12 § 161 |
+| Vatten och avlopp, taxa 2025 | KF 2024-10-08 § 122 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Personuppgifter - riktlinjer | KF 2024-03-05 § 33 |
+| Riktlinjer för fettavskiljare i Kungsbacka kommun | KF 2023-12-14 § 194 |
+| Taxa för låst cykelparkering i Kungsbacka | KF 2024-10-08 § 121 |
+| Laddning vid Kungsbacka kommuns publika laddstolpar | KF 2024-03-05 § 35 |
+| Taxa för parkeringsavgifter och felparkeringsavgifter | KF 2025-10-07 § 198 |
 
 <!-- sida 35 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-VA-utbyggnadsplan 2022-2032                         KF 2020-09-08 § 90
-
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Reglemente för Teknik                               KF 2021-04-13 § 67
-Färdtjänst; Riksfärdtjänst, tillämpningsregler      KF 2019-12-10 § 182
-
-Lokala avfallsföreskrifter                           2024-02-06 § 13
-Bredbandsnät, taxa 2025                             KF 2024-06-13 § 159
-
-Bredbandsnät, taxa 2026                             KF 2025-10-07 § 197
-Avfallstaxa 2026                                    KF 2025-11-04 § 223
-Trafikförsörjningsprogram                           KF 2024-12-12 § 161
-
-Vatten och avlopp, taxa 2025                        KF 2024-10-08 § 122
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-
-Personalföreträdare i nämnder                       KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-Personuppgifter - riktlinjer                        KF 2024-03-05 § 33
-
-Riktlinjer för fettavskiljare i Kungsbacka kommun   KF 2023-12-14 § 194
-Taxa för låst cykelparkering i Kungsbacka           KF 2024-10-08 § 121
-Laddning vid Kungsbacka kommuns publika laddstolpar KF 2024-03-05 § 35
-
-Taxa för parkeringsavgifter och felparkeringsavgifter KF 2025-10-07 § 198
-
 10.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
-
 35
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 36 -->
 
@@ -1496,50 +1453,45 @@ Nämndbudget 2026
 
 10.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                           KS 2023-02-21 § 32
-
-Regler för fakturering och kravhantering            KS 2024-03-19 § 90
-
 10.1.4 Styrdokument beslutade av nämnden för Teknik
 
-Styrdokument                                      Beslutande paragraf/År
-Attestlista Teknik                                   TE oktober 2024
-
-Delegeringsförteckning nämnden för Teknik           TE 2025-09-24 § 94
-Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för
-TEN § 6/05
-anslutning till Kungsbackas reningsverk
-Vattenförsörjningsplan                              TE 2015-08-19 § 64
-Slamstrategi                                        TE 2025-05-14 § 57
-Kungsbackas gång- och cykelstrategi                 TE 2022-11-16 § 121
-Dokumenthanteringsplan, Kommungemensamma ledningsprocesser TE 2020-09-16 § 85
-
-Riktlinjer för anslutning utanför verksamhetsområde för VA TE 2023-10-18 § 101
-Dokumenthanteringsplan kärnprocesser                TE 2020-09-16 § 84
-Riktlinjer för lekplatsbidrag, särskilt vägbidrag och vägbidrag TE 2019-04-17 §§ 45,46
-
-Riktlinjer för Kungsbacka bredbandsnät              TE 2018-12-12 § 136
-Riktlinjer för foodtrucks och matvagnar             TE 2021-04-21 § 45
-
-Arkivbeskrivning                                    TE 2021-06-16 § 77
-Riktlinjer gällande ledamöters utbildning och planeringsdag TE 2021-06-16 § 78
-Riktlinjer för prioritering av förnyelse av VA-ledningsnät TE 2021-10-20 § 97
-
-Dokumenthanteringsplan, kommungemensamma stödprocesser TE 2022-02-23 § 21
-Målbild och riktlinjer för tillgängliga utomhusmiljöer TE 2022-06-22 § 68
-
-Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst TE 2024-12-11 § 134
-Vägbidrag, bidragsnivåer                            TE 2023-11-15 § 129
-Felparkeringsavgifter                               TE 2023-11-15 § 131
-
 36
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Regler för fakturering och kravhantering | KS 2024-03-19 § 90 |
+
+[Tabell 36-2](handlingar.tabeller/36-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestlista Teknik | TE oktober 2024 |
+| Delegeringsförteckning nämnden för Teknik | TE 2025-09-24 § 94 |
+| Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för<br>anslutning till Kungsbackas reningsverk | TEN § 6/05 |
+| Vattenförsörjningsplan | TE 2015-08-19 § 64 |
+| Slamstrategi | TE 2025-05-14 § 57 |
+| Kungsbackas gång- och cykelstrategi | TE 2022-11-16 § 121 |
+| Dokumenthanteringsplan, Kommungemensamma ledningsprocesser | TE 2020-09-16 § 85 |
+| Riktlinjer för anslutning utanför verksamhetsområde för VA | TE 2023-10-18 § 101 |
+| Dokumenthanteringsplan kärnprocesser | TE 2020-09-16 § 84 |
+| Riktlinjer för lekplatsbidrag, särskilt vägbidrag och vägbidrag | TE 2019-04-17 §§ 45,46 |
+| Riktlinjer för Kungsbacka bredbandsnät | TE 2018-12-12 § 136 |
+| Riktlinjer för foodtrucks och matvagnar | TE 2021-04-21 § 45 |
+| Arkivbeskrivning | TE 2021-06-16 § 77 |
+| Riktlinjer gällande ledamöters utbildning och planeringsdag | TE 2021-06-16 § 78 |
+| Riktlinjer för prioritering av förnyelse av VA-ledningsnät | TE 2021-10-20 § 97 |
+| Dokumenthanteringsplan, kommungemensamma stödprocesser | TE 2022-02-23 § 21 |
+| Målbild och riktlinjer för tillgängliga utomhusmiljöer | TE 2022-06-22 § 68 |
+| Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst | TE 2024-12-11 § 134 |
+| Vägbidrag, bidragsnivåer | TE 2023-11-15 § 129 |
+| Felparkeringsavgifter | TE 2023-11-15 § 131 |
 
 <!-- sida 37 -->
 
@@ -1952,27 +1904,31 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 5.2 Risker - Ej till plan
 
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Personal       Kommunövergrip                  3. Kännbar
-ande risk:                   (uppfattas som
-Efterlevnad till             besvärande för
-2\. Mindre vanligt
-rekryteringsproce                 berörda
-ssen                        intressenter och
-kommunen)
-
 10
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Kategorier<br>Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| --- | --- |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-|  | 4 TEKNIK: Risk för att 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>vägbidrag eller utbetalas som besvärande för<br>på felaktiga grunder berörda intressenter och<br>kommunen) |
-| Verksamhet | 5 TEKNIK: Dämpad 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>befolkningstillväxt och som besvärande för<br>dess påverkan på berörda intressenter och<br>Tekniks kommunen)<br>driftverksamheter |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 4 TEKNIK: Risk för att<br>vägbidrag eller utbetalas<br>på felaktiga grunder | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 TEKNIK: Dämpad<br>befolkningstillväxt och<br>dess påverkan på<br>Tekniks<br>driftverksamheter | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+
+[Tabell 48-50-2](handlingar.tabeller/48-50-2.csv)
+
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Efterlevnad till<br>rekryteringsproce<br>ssen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | TEKNIK: Risk att<br>38 § MBL missas<br>vid upphandling<br>med ny<br>entreprenör som<br>utförare av<br>tjänster som<br>tidigare utförts i<br>egen regi | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) |  |
+|  |  | TEKNIK: Risk för<br>att vi inte<br>genomför<br>nödvändiga<br>omställningar<br>och<br>effektiviseringar<br>så att vi kan möta<br>framtida krav och<br>förutsättningar<br>och ta tillvara<br>möjligheter. | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | TEKNIK: Risk för<br>obehöriga eller<br>felaktiga<br>transaktioner | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbygg<br>nad av befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Verksamhet |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 49 -->
 
@@ -1980,18 +1936,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Intern kontrollplan 2026
 
 11
-
-[Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
-
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>TEKNIK: Risk att<br>38 § MBL missas<br>vid upphandling 2. Lindrig<br>med ny 1. Osannolik (uppfattas som<br>entreprenör som (risken är praktiskt liten av berörda<br>utförare av taget obefintlig) intressenter och<br>tjänster som kommunen)<br>tidigare utförts i<br>egen regi |
-| --- | --- |
-| Ekonomi | Kommunövergrip 2. Lindrig<br>ande risk: (uppfattas som<br>Grundläggande 2. Mindre vanligt liten av berörda<br>redovisning intressenter och<br>kvalitetsbrister kommunen) |
-|  | TEKNIK: Risk för<br>att vi inte<br>genomför<br>nödvändiga 3. Kännbar<br>omställningar (uppfattas som<br>och besvärande för<br>3. Vanligt<br>effektiviseringar berörda<br>så att vi kan möta intressenter och<br>framtida krav och kommunen)<br>förutsättningar<br>och ta tillvara<br>möjligheter. |
-|  | TEKNIK: Risk för 3. Kännbar<br>obehöriga eller (uppfattas som<br>1. Osannolik<br>felaktiga besvärande för<br>(risken är praktiskt<br>transaktioner berörda<br>taget obefintlig)<br>intressenter och<br>kommunen) |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: (uppfattas som<br>informationssäke besvärande för<br>2. Mindre vanligt<br>rhet; skydd av berörda<br>information mot intressenter och<br>obehörig tillgång kommunen) |
-|  | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
 
 <!-- sida 50 -->
 
@@ -8727,7 +8671,6 @@ och metaller.
 GF KONSULT AB
 oteknik
 
-ud AL VM
 eft Askmar
 
 rise
@@ -8810,9 +8753,6 @@ Uppdragsnr: 53 010
 
 5139 113900420 IIGFIBORGAS.XLS
 
-fn f€3
-no to of
-
 HIS AM INS
 
 rv
@@ -8863,7 +8803,7 @@ Ya YH S, Tryckprov | Konprov a en
 12,0 Grå sulfidfl LERA 1,59 76 67 19 19 1,0 0,82
 1,60
 1,58
-15,0 Grå sulfidfl LERA 1,61 73 68 17 27 1,55 0,81
+15,0 Grå sulfidfl LERA 1,61 73 68 17 217 1,55 0,81
 1,61
 Lediga kol är dda för Kat av sp d gi ”) Skjuvhållfastheten, karakteristiskt värde, har utvärderats enl. SGF.s
 Nedanstående förkortningar kan t.ex. användas: laboratoriiekommitté 1984.
@@ -8934,7 +8874,6 @@ NORMALSPÄNNING KPA
 0 80 160 240 320 400 480 560 640
 8000 + + + + + + + t + + + + t + 40
 7600+
-7200 r r
 135
 6800+ r
 6400 +
@@ -8951,7 +8890,6 @@ NORMALSPÄNNING KPA
 ir
 1200+-+ : I
 Food 5
-800 4 M I
 400 +
 0 + 0
 
@@ -8987,41 +8925,36 @@ DJUP: 10.00 M
 NORMALSPÄNNING KPA
 
 0 80 160 240 320 400 480 560 640
-8000 + + + + + + + + + t + 40
-7600+
-72001
+8000 + t + + + t + t + t + 40
+76001
+72004
 
 35
 6800+
 6400+
 6000+ 130
-5600 +
+56001
 S200+
-
-25
-
-0\) -
-
+20
+0\) L
 15
-
-ot L
-
+Or L
 NA
 24007 , +
 \+ +
 \+ +
-2000; + + +10
+2000 + + +10
 \+ +
 \+
 \+
-1600+ 7?
+160074 '
 \+ +
 \+
 \+
-1200+-,4 i I
+1200 17+ i 1
 \+ + S
 \+
-800 + + I
+800 + + 1
 \+
 400
 0
@@ -9033,8 +8966,6 @@ PORTRYCK KPA
 <!-- sida 214 -->
 
 <!-- sida 215 -->
-
-Bila Ga 4
 
 NEDA
 & [0
@@ -9063,8 +8994,6 @@ Provtagare BA
 Produkt Jord
 
 mn, Provets märkning Prov 1:2 0,3-1m
-
-v
 Analysnamn Resultat Enhet Metod/ref
 Torrsubstans 733 g/kg SS 028113-1 G
 Opolära alifatiska kolväten <5.0 mg/kg Ts SS028145-3 G
@@ -9487,7 +9416,7 @@ Forts se Kv D4 3 4B
 D6
 0.0-0.3 Grå mullhaltig LERA 26
 -0,8 Grå rostfi TORRSKORPELERA 32 3 4B
--11 Grå rostfl TORRSKORPELERA 38 3 4B
+-11 Grå rostfil TORRSKORPELERA 38 3 4B
 -2.0 Grå LERA 74 «| 4B
 -3,0 Grå LERA ” 3 4B
 -5,0 Grå LERA 78 3 4B
@@ -9825,13 +9754,9 @@ EEBlixe
 \-
 ,
 
-2 4 /
 « AA. Hedehy?
-LJ ST
 
 NEN
-
-DE
 
 Figur 1 Hede NV
 
@@ -10448,8 +10373,6 @@ vr
 
 Fe
 \:
-
-GF
 
 KONSULT AB
 
@@ -13400,7 +13323,6 @@ FF
 
 L
 
-UD
 D
 
 1\.
@@ -13463,16 +13385,14 @@ NUMMER
 
 lotted: 2025-11-12 13:41:07 by Henry Larsson
 
-Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
+Path: O:NGBGN351958NTNYModellYSektioner.dwg
 
 <!-- sida 374 -->
 
 <!-- sida 375 -->
 
 FG - F6
-BB
 TR
-LV 2 vr |
 SEKTION A-A
 2+1 VÄG t t
 \- o , CA 92 |
@@ -13483,7 +13403,6 @@ SEKTION B-B SEKTION B-B
 BRO ÖVER KUNGSBACKAÅN BRO ÖVER KUNGSBACKAÅN
 ALTERNATIV 2a ALTERNATIV 2b
 
-SEKTION C=C Fr —
 2+1 VÄG SSE
 ÖSTER OM KUNGSBACKAÅN
 
@@ -13518,7 +13437,7 @@ SKALA NUMMER | BET
 
 lotted: 2025-11-12 13:40:36 by Henry Larsson
 
-Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
+Path: O:NGBGN351958NTNYModellYSektioner.dwg
 
 <!-- sida 376 -->
 
@@ -13624,7 +13543,7 @@ SKALA NUMMER | BET
 
 lotted: 2025-11-12 13:41:42 by Henry Larsson
 
-Path: 0O:YGBGN351958NTNYModellYSektioner.dwg
+Path: O:NGBGN351958NTNYModellYSektioner.dwg
 
 <!-- sida 377 -->
 
@@ -20522,7 +20441,10 @@ KUNGSBACKA KOMMUN                                           2 (4)
 | 4.5 | 10 kap.<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning EC<br>Anläggning &<br>Utveckling<br>Trafikingenjör<br>Samordnare | Revidering av<br>befintliga permanenta<br>föreskrifter | 0 st reviderade befintliga permanenta<br>föreskrifter |
 | 4.8 | 13 kap. 3 §<br>trafikförordnin<br>gen<br>(1998:1276) 4<br>kap. 12 §, 15 §<br>17 §<br>trafikförordnin<br>gen | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare | Beslut till transportör<br>och yttrande till<br>Trafikverket om<br>undantag från<br>bestämmelserna om<br>största tillåtna<br>fordonsbredd, -längd<br>och -vikt | 15 beslut till transportör om undantag<br>från bestämmelserna om största<br>tillåtna fordonsbredd, -längd och -vikt<br>7 yttranden till Trafikverket om<br>undantag från bestämmelserna om<br>största tillåtna fordonsbredd, -längd<br>och -vikt |
 | 4.10 | 10 kap. 14 §<br>trafikförordnin<br>gen<br>(1998:1276) | VC Trafik &<br>Utemiljö<br>EC Planering &<br>Utformning<br>EC Anläggning<br>& Utveckling<br>Trafikingenjör<br>Samordnare<br>Vägtekniker | Beslut om föreskrifter<br>vid vägarbete eller<br>liknande arbete samt<br>under kortare tid vid<br>skada eller risk för<br>skada på väg | 5st beslut om föreskrifter vid<br>vägarbete eller liknande arbete samt<br>under kortare tid vid skada eller risk<br>för skada på väg<br>1384 2025-<br>00350 Samariten<br>1384 2025-<br>00354 Samariten<br>1384 2025-<br>00362 Gjutarevägen<br>1384 2025-<br>00363 Norra Torggatan<br>1384 2025-<br>00364 Norra Torggatan |
-| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsa<br>vgift och 1 §<br>lag (1984:318)<br>om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om<br>felparkeringsavgift<br>samt kontrollavgift vid<br>olovlig parkering | Felparkeringsavgifter (gatumark):<br>- 684 st i september<br>- 733 st i oktober<br>Kontrollavgifter (tomtmark):<br>- 177 st i september<br>- 100 st i oktober |
+| 4.13 | 5 § lag<br>(1976:206) om<br>felparkeringsa<br>vgift och 1 §<br>lag (1984:318)<br>om<br>kontrollavgift<br>vid olovlig<br>parkering | Trafikövervaka<br>re | Beslut om | Felparkeringsavgifter (gatumark): |
+|  |  |  | felparkeringsavgift | - 684 st i september |
+|  |  |  | samt kontrollavgift vid | - 733 st i oktober<br>Kontrollavgifter (tomtmark):<br>- 177 st i september<br>- 100 st i oktober |
+|  |  |  | olovlig parkering |  |
 | 4.14 | Vägmärkesför<br>ord ningen SFS<br>2007:90 AFS | VC Trafik &<br>Utemiljö<br>EC drift Gata | Beslut om tillstånd att<br>schakta i gator och<br>vägar för vilka | Aug 13 st Beviljade TA-Grävtillstånd.<br>Sep 19 st Beviljade TA-Grävtillstånd.<br>Okt 12 st Beviljade TA-Grävtillstånd. |
 
 [Tabell 592-2](handlingar.tabeller/592-2.csv)

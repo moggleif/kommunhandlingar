@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.41e129a519eb4ab19c469d5/17812481384
 sha256: 7f2b52cea211568b2bee06d911ee29bfff380a7cc910f2935533635e18448bbb
 bytes: 26837941
 sidor: 124
-hamtad: 2026-11-08T11:35:15+00:00
-konverterad: 2026-11-08T11:36:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T01:58:06+00:00
+konverterad: 2026-11-18T01:58:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -580,15 +580,12 @@ Avgift tas ut för nedan angivna ändamål:
 Ändamål                          Anläggningsavgift Brukningsavgift
 
 V, vattenförsörjning             Ja              Ja
+S, spillvattenavlopp             Ja              Ja
+
+Df, dag- och dränvattenavlopp från fastighet Ja  Ja
+Dg, dagvattenavlopp från allmän platsmark Ja     Ja
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
-
-[Tabell 14-1](handlingar.tabeller/14-1.csv)
-
-| S, spillvattenavlopp | Ja | Ja |
-| --- | --- | --- |
-| Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
-| Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
 <!-- sida 15 -->
 
@@ -806,7 +803,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 19 -->
 
@@ -866,7 +864,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 20 -->
 
@@ -1010,6 +1009,10 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                660 kr
 
+b) En avgift per m³ hämtat dricksvatten   26,40 kr
+
+c) En avgift per m³ hämtat å-vatten\*      5 kr
+
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -1017,21 +1020,12 @@ Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
-
-| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
-| --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
-
 <!-- sida 23 -->
 
 § 15
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten
 
 § 16
 
@@ -1059,6 +1053,12 @@ V      S     Df    Dg    Total avgift
 En Grundavgift per år 14.1 a) 480 kr 480 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten |  |
 
 <!-- sida 24 -->
 
@@ -4469,8 +4469,9 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.1.8 | Riktlinjer för personuppgifts-behandling,<br>GDPR artikel 28 | Ge fullmakt att underteckna personuppgiftsbiträdesavtal för<br>digital tjänst eller system som ska användas gemensamt med en<br>eller flera andra nämnder. | Fc | 1 beslut om att teckna avtal om<br>personuppgiftsbiträdesavtal med<br>Bumbee labs. – AVTAL-2026-00179. |
 | 2.1.31 |  | Sluta avtal inom verksamhetsområde som chef äger ansvar över | Fc<br>Vc | Tecknat avtal om<br>personuppgiftsbiträdesavtal med<br>Bumbee labs den 24 mars, 2026 –<br>AVTAL-2026-00179. |
 
@@ -4482,8 +4483,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 [Tabell 114-1](handlingar.tabeller/114-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 |  |  | Anställa |  |  |
 | 2.3.3 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Fc | - Ekonom, anställd 2026-05-26 av<br>Christer Bergman<br>- Nätplanerare, anställd 2026-05-01 av<br>Per Fjelner<br>- Trafikplanerare, anställd 2026-05-01 av<br>Åsa Dykes |
 
@@ -4495,8 +4497,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 [Tabell 115-116-1](handlingar.tabeller/115-116-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 13st beslut och datum för beslut<br>1384 2026-00096 Borgmästareplatsen<br>1384 2026-00097 Borgmästareplatsen<br>1384 2026-00098 Borgmästareplatsen<br>1384 2026-00099 Borgmästareplatsen<br>1384 2026-00100 Drottninggatan<br>1384 2026-00101 Drottninggatan<br>1384 2026-00102 Guldgubbegatan<br>1384 2026-00103 Drottninggatan<br>1384 2026-00104 Drottninggatan<br>1384 2026-00105 Gymnasiegatan<br>1384 2026-00106 Södra Nygatan<br>1384 2026-00107 Gymnasiegatan<br>1384 2026-00109 Södra Torggatan |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 1st beslut och datum för beslut<br>1384 2026-00114 Badhusparksparkeringen |
 |  |  |  | Samordnare |  |
@@ -4611,8 +4614,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 120-1](handlingar.tabeller/120-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260508, 1 st<br>260518, 1 st<br>260522, 1 st |
 | 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | Fc<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260506, 1 st |
 | 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt uppehåll i sophämtning | Fc<br>Anette<br>Englund<br>administratör<br>inom<br>och Kund &<br>Kommun-<br>ikation | 260505, 1 st<br>260508, 3 st<br>260511, 1 st<br>260512, 1 st<br>260518, 1 st<br>260519, 1 st<br>260525, 3 st<br>260528, 4 st |

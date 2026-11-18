@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6a09db4d199f66014843b04d/1760941979
 sha256: 0ab13103a5c204a246d44d56e8489e7f13601128ff80d471619e8d3e94bfab9f
 bytes: 8146139
 sidor: 194
-hamtad: 2026-11-08T12:16:44+00:00
-konverterad: 2026-11-08T12:17:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:39:43+00:00
+konverterad: 2026-11-18T02:40:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [52, 53, 54, 72, 73, 74, 121]
 figurer: [10, 13, 19, 21, 23, 24, 26, 27, 31, 32, 35, 37, 53, 57, 61, 121, 122, 125, 129, 134, 135, 147, 156, 159, 173]
 tolkade: []
@@ -1566,21 +1566,20 @@ Bilaga 2. Lokalförteckning – Förskola
 <!-- sida 43 -->
 
 NYCKELTAL F-3
-
-Antal klasser
+Mall (Optimerad    för 525 elever)
+SKOLA                                             Antal klasser
 Antal elever
 
 Antal paralleler/arbetslag
+Område
 Antal pedagoger
-
+Projekt Nr:
 NYCKELTAL 4-6
-Antal klasser
+Datum                                             Antal klasser
 Antal elever
-
 Antal paralleler/arbetslag
+Datum rev:
 Antal pedagoger
-
-Antal (st)
 
 HUBB  ÅRSKURS F-3
 
@@ -1588,37 +1587,14 @@ SUMMA
 SUMMA PER ARBETSLAG/HUBB
 HUBB  ÅRSKURS 4-6
 
-Klassrum                                         9
-1.12
-Grupprum                                         9
-1.13
-Fritidshem                                       3
-1.14
-
-Lärararbetsplats                                 3
-1.15
-Samtalsrum                                       3
-1.16
-
 [Tabell 43-1](handlingar.tabeller/43-1.csv)
 
-| Mall (Optimerad för 525 elever)<br>SKOLA |  |
-| --- | --- |
-| Område |  |
-|  |  |
-| Projekt Nr: |  |
-|  |  |
-| Datum |  |
-|  |  |
-| Datum rev: |  |
+| Posnr | Lokaltyp |  |  |
+| --- | --- | --- | --- |
+|  |  |  | Antal (st) |
+| 1.1 | Entre/huvudentre |  |  |
 
 [Tabell 43-2](handlingar.tabeller/43-2.csv)
-
-| Posnr | Lokaltyp |
-| --- | --- |
-| 1.1 | Entre/huvudentre |
-
-[Tabell 43-3](handlingar.tabeller/43-3.csv)
 
 | 1.2 | Klassrum |  | 12 |
 | --- | --- | --- | --- |
@@ -1632,18 +1608,22 @@ Samtalsrum                                       3
 | 1.10 | Förråd |  | 3 |
 | 1.11 | Städ |  | 3 |
 
+[Tabell 43-44-3](handlingar.tabeller/43-44-3.csv)
+
+| 1.12 | Klassrum |  | 9 |
+| --- | --- | --- | --- |
+| 1.13 | Grupprum |  | 9 |
+| 1.14 | Fritidshem |  | 3 |
+| 1.15 | Lärararbetsplats |  | 3 |
+| 1.16 | Samtalsrum |  | 3 |
+| 1.17 | Kapprum |  | 3 |
+| 1.18 | WC |  | 18 |
+| 1.19 | RWC |  | 3 |
+| 1.20 | Förråd |  | 3 |
+| 1.21 | Städ |  | 2 |
+
 <!-- sida 44 -->
 
-Kapprum                                          3
-1.17
-WC                                              18
-1.18
-RWC                                              3
-1.19
-Förråd                                           3
-1.20
-Städ                                             2
-1.21
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 GEMENSAM  LÄRMILJÖ ÅK 3-6 (PROJEKTANPASSAS)
@@ -1706,15 +1686,6 @@ SUMMA
 PROGRAMAREA   OCH LOA SKOLA F-6
 
 ÖVRIGT (ej inkluderat i programyta)
-X
-
-X
-
-X
-
-X
-
-X
 
 [Tabell 45-1](handlingar.tabeller/45-1.csv)
 
@@ -1749,19 +1720,14 @@ X
 | 1.55 | BRA |  | 1,25 |
 | 1.56 | BTA |  |  |
 
-[Tabell 45-46-5](handlingar.tabeller/45-46-5.csv)
+[Tabell 45-5](handlingar.tabeller/45-5.csv)
 
-| 1.57 | Teknikrum |
-| --- | --- |
-| 1.58 | El |
-| 1.59 | Data |
-| 1.60 | Åv-hus |
-| 1.61 | Cykelställ |
-| 1.62 | Uteförråd |
-| 1.63 | Utemiljö F-3 |
-| 1.64 | Utemiljö 4-6 |
-| 1.65 | Angöring |
-| 1.66 | Parkering |
+| 1.57 | Teknikrum |  | X |
+| --- | --- | --- | --- |
+| 1.58 | El |  | X |
+| 1.59 | Data |  | X |
+| 1.60 | Åv-hus |  | X |
+| 1.61 | Cykelställ |  | X |
 
 <!-- sida 46 -->
 
@@ -1771,63 +1737,42 @@ X
 
 X
 
+[Tabell 46-1](handlingar.tabeller/46-1.csv)
+
+| 1.62 | Uteförråd |
+| --- | --- |
+| 1.63 | Utemiljö F-3 |
+| 1.64 | Utemiljö 4-6 |
+| 1.65 | Angöring |
+| 1.66 | Parkering |
+
 <!-- sida 47 -->
 
 SUMMA ÅK F-6
 
-Antal klasser
-Antal elever
+12                                 Antal klasser
+300 Elever per klass          25    Antal elever
 Antal
-paralleler/arbetslag
-Antal pedagoger
+3 Klasser per arbetslag      4    paralleler/arbetslag
+30 Per arbetslag             10    Antal pedagoger
 
 KÖK
-Mottagningskök
-Tillagningskök
+9                                 Mottagningskök
+225 Elever per klass          25    Tillagningskök
 
-Sittplatser i matsal\*
+3 Klasser per arbetslag      3    Sittplatser i matsal\*
+30 Per arbetslag             10
 
 Mall                                           Förstudie
-
-Antal (st)
+Programarea          Area per Luft för antal
+Summa (kvm)                          Antal (st)
+(kvm)                elev   personer (st)
+20
 
 1561     5,2
 520
 
-```osaker-tabell
-65        585                32
-
-15        135                10
-
-75        225                45
-
-30         90                10
-10         30                 6
-```
-
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
-
-| 12 |  |  |
-| --- | --- | --- |
-| 300 | Elever per klass | 25 |
-| 3 | Klasser per arbetslag | 4 |
-| 30 | Per arbetslag | 10 |
-
-[Tabell 47-2](handlingar.tabeller/47-2.csv)
-
-| 9 |  |  |
-| --- | --- | --- |
-| 225 | Elever per klass | 25 |
-| 3 | Klasser per arbetslag | 3 |
-| 30 | Per arbetslag | 10 |
-
-[Tabell 47-3](handlingar.tabeller/47-3.csv)
-
-| Programarea<br>(kvm) | Summa (kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-| --- | --- | --- | --- |
-| 20 |  |  |  |
-
-[Tabell 47-4](handlingar.tabeller/47-4.csv)
 
 | 65 | 780 |  | 32 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1840,6 +1785,24 @@ Antal (st)
 | 5 | 15 |  |  |  |  |
 | 12 | 36 |  |  |  |  |
 | 2 | 6 |  |  |  |  |
+
+[Tabell 47-2](handlingar.tabeller/47-2.csv)
+
+| 65 | 585 |
+| --- | --- |
+| 15 | 135 |
+| 75 | 225 |
+| 30 | 90 |
+| 10 | 30 |
+
+[Tabell 47-3](handlingar.tabeller/47-3.csv)
+
+| 32 |  |  |
+| --- | --- | --- |
+| 10 |  |  |
+| 45 |  |  |
+| 10 |  |  |
+| 6 |  |  |
 
 <!-- sida 48 -->
 
@@ -1957,40 +1920,25 @@ Antal (st)
 
 ÖVRIGA NOTERINGAR
 
-= Ruta att fylla i
+21                                                  = Ruta att fylla i
+525 Elever per klass   25
+Klasser per
+6 arbetslag           4
+60 Per arbetslag      10
 
-Förstudie
-
-Antal (st)
+Förstudie                                FFU
+Summa   Area per               Summa   Area per Luft för antal
+Antal (st)                           Antal (st)
+(kvm)     elev                 (kvm)    elev   personer (st)
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| 21 |  |  |  |
-| --- | --- | --- | --- |
-| 525 | Elever per klass |  | 25 |
-| 6 | Klasser per<br>arbetslag |  | 4 |
-| 60 | Per arbetslag |  | 10 |
-
-[Tabell 51-2](handlingar.tabeller/51-2.csv)
-
-|  | portioner Se separat koncept<br>portioner Se separat koncept<br>3 sittningar<br>1,2 kvm/sittplats |
-| --- | --- |
-|  |  |
-| 195 |  |
-|  |  |
-
-[Tabell 51-3](handlingar.tabeller/51-3.csv)
-
-| FFU |  |  |  |
-| --- | --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-|  |  |  |  |
-
-[Tabell 51-4](handlingar.tabeller/51-4.csv)
-
-| Summa<br>(kvm) | Area per<br>elev |
-| --- | --- |
-|  |  |
+|  |  |  |
+| --- | --- | --- |
+|  | portioner Se separat koncept<br>portioner Se separat koncept<br>3 sittningar |  |
+|  |  |  |
+| 195 |  |  |
+|  | 1,2 kvm/sittplats |  |
 
 <!-- sida 52 -->
 
@@ -2003,10 +1951,12 @@ Antal (st)
 Ruta att fylla i
 
 Relation
-Kommentar
-
+Luft för
+Summa  Area per                                  Kommentar
+antal
+(kvm)  elev
+personer
 Tydlig entre med vindfång
-
 Skärm centralt placerad på vägg. Whiteboard sekundärt placerad.
 
 Med koppling till klassrum.
@@ -2029,12 +1979,6 @@ Yta utan massa dörrar utspridda dörrar, pga möbleringsbart. Går att skärma 
 möblering. Ett av dessa utrymmen ska kunna användas även till lättare hemkunskap åk 6.
 
 Plats för 1 större bord och 2 arbetsplatser samt 1 arbetsskåp per pedagog.
-
-[Tabell 55-1](handlingar.tabeller/55-1.csv)
-
-| Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
-| --- | --- | --- |
-|  |  |  |
 
 <!-- sida 56 -->
 
@@ -2137,52 +2081,34 @@ Svällningsfaktor inkluderar innerväggar samt kommunikationsytor. Verklig siffr
 <!-- sida 63 -->
 
 NYCKELTAL ÅK 7-9
-
-Antal klasser
+Mall  (Optimerad   för 540 elever)
+SKOLA                                             Antal klasser
 Antal elever
 Antal
 paralleler/arbetslag
-
+Område
 Antal pedagoger
-
+Projekt Nr:
 KÖK
-Mottagningskök
+Datum                                             Mottagningskök
 
 Tillagningskök
 
-Sittplatser i matsal
+Datum rev:                                        Sittplatser i matsal
 
-Posnr                Lokaltyp
-Antal (st)
-
-Entre/huvudentre                               1
-1.1
 HUBB  ÅRSKURS 7-9
 
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 
 GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
-Slöjd                                          1
-1.22
-Förråd (slöjd)                                 2
-1.23
-Bild                                           1
-1.24
-Förråd (bild)                                  1
-1.25
 
 [Tabell 63-1](handlingar.tabeller/63-1.csv)
 
-| Mall (Optimerad för 540 elever)<br>SKOLA |  |
-| --- | --- |
-| Område |  |
-|  |  |
-| Projekt Nr: |  |
-|  |  |
-| Datum |  |
-|  |  |
-| Datum rev: |  |
+| Posnr | Lokaltyp |  |  |
+| --- | --- | --- | --- |
+|  |  |  | Antal (st) |
+| 1.1 | Entre/huvudentre |  | 1 |
 
 [Tabell 63-2](handlingar.tabeller/63-2.csv)
 
@@ -2197,6 +2123,14 @@ Förråd (bild)                                  1
 | 1.9 | RWC |  | 6 |
 | 1.10 | Förråd |  | 6 |
 | 1.11 | Städ |  | 6 |
+
+[Tabell 63-3](handlingar.tabeller/63-3.csv)
+
+| 1.22 | Slöjd |  | 1 |
+| --- | --- | --- | --- |
+| 1.23 | Förråd (slöjd) |  | 2 |
+| 1.24 | Bild |  | 1 |
+| 1.25 | Förråd (bild) |  | 1 |
 
 <!-- sida 64 -->
 
@@ -2272,17 +2206,6 @@ PROGRAMAREA   OCH LOA SKOLA ÅK 4-9
 
 ÖVRIGT (ej inkluderat i programyta)
 
-X
-
-X
-
-X
-X
-
-X
-
-X
-
 [Tabell 65-1](handlingar.tabeller/65-1.csv)
 
 | 1.44 | Städcentral |  | 1 |
@@ -2310,13 +2233,13 @@ X
 
 [Tabell 65-4](handlingar.tabeller/65-4.csv)
 
-| 1.57 | Teknikrum |
-| --- | --- |
-| 1.58 | El |
-| 1.59 | Data |
-| 1.60 | Åv-hus |
-| 1.61 | Cykelförråd |
-| 1.62 | Uteförråd |
+| 1.57 | Teknikrum |  | X |
+| --- | --- | --- | --- |
+| 1.58 | El |  | X |
+| 1.59 | Data |  | X |
+| 1.60 | Åv-hus |  | X |
+| 1.61 | Cykelförråd |  | X |
+| 1.62 | Uteförråd |  | X |
 
 <!-- sida 66 -->
 
@@ -2331,53 +2254,31 @@ Parkering                                      X
 
 <!-- sida 67 -->
 
-ÖVRIGA NOTERINGAR
-=      Ruta att fylla i
+18                                   ÖVRIGA NOTERINGAR
+540 Elever per klass          30            =      Ruta att fylla i
 
-Mall
+Klasser per arbetslag
+6                             3
+60 Per arbetslag             10
+
+Mall                                    Förstudie
+Programarea Summa            Luft för antal         Summa  Area per
+Area per elev             Antal (st)
+(kvm)    (kvm)             personer (st)          (kvm)   elev
+20      20
 
 2540     4,7
 423
 
-```osaker-tabell
-220      220                  32
-
- 10      20
-
- 70      70                   32
-
- 15      15
-```
-
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| 18 |  |  |
+|  |  |  |
 | --- | --- | --- |
-| 540 | Elever per klass | 30 |
-| 6 | Klasser per arbetslag | 3 |
-| 60 | Per arbetslag | 10 |
+|  | portioner Se separat koncept<br>Se separat<br>portioner koncept<br>3 sittningar<br>1,2 kvm/sittplats |  |
+|  |  |  |
+| 180 |  |  |
 
 [Tabell 67-2](handlingar.tabeller/67-2.csv)
-
-|  | portioner Se separat koncept<br>Se separat<br>portioner koncept<br>3 sittningar<br>1,2 kvm/sittplats |
-| --- | --- |
-|  |  |
-| 180 |  |
-
-[Tabell 67-3](handlingar.tabeller/67-3.csv)
-
-| Förstudie |  |  |
-| --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev |
-|  |  |  |
-
-[Tabell 67-4](handlingar.tabeller/67-4.csv)
-
-| Programarea<br>(kvm) | Summa<br>(kvm) | Area per elev | Luft för antal<br>personer (st) |
-| --- | --- | --- | --- |
-| 20 | 20 |  |  |
-
-[Tabell 67-5](handlingar.tabeller/67-5.csv)
 
 | 65 | 1170 |  | 32 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -2390,6 +2291,22 @@ Mall
 | 5 | 30 |  |  |  |  |  |  |
 | 8 | 48 |  |  |  |  |  |  |
 | 2 | 12 |  |  |  |  |  |  |
+
+[Tabell 67-3](handlingar.tabeller/67-3.csv)
+
+| 220 | 220 |
+| --- | --- |
+| 10 | 20 |
+| 70 | 70 |
+| 15 | 15 |
+
+[Tabell 67-4](handlingar.tabeller/67-4.csv)
+
+| 32 |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 32 |  |  |  |
+|  |  |  |  |
 
 <!-- sida 68 -->
 
@@ -2498,17 +2415,10 @@ Ruta att fylla i
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
 
-| FFU |  |  |  |
-| --- | --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-|  |  |  |  |
-
-[Tabell 71-2](handlingar.tabeller/71-2.csv)
-
-| Relation |  |  |  |
-| --- | --- | --- | --- |
-| Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
-|  |  |  | (st) |
+| FFU |  |  |  |  | Relation |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |  | Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
+|  |  |  |  |  |  |  |  | (st) |
 
 <!-- sida 72 -->
 
@@ -2714,7 +2624,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
+| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
 <!-- sida 86 -->
 
@@ -2954,7 +2865,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
+| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
 <!-- sida 98 -->
 
@@ -3194,7 +3106,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
+| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
 <!-- sida 110 -->
 
@@ -4436,14 +4349,14 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 148-1](handlingar.tabeller/148-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-| Verksamhet | 4 Risk för driftstörning 3. Vanligt 4. Allvarlig/stor inverkan Ja<br>genom ett dataintrång i (så stor att den inte får<br>kommunens nätverk, inträffa)<br>system eller tekniskt<br>uppkopplad utrustning. |
-|  | 5 Risk att information om 2. Mindre vanligt 2. Lindrig (uppfattas som Ja<br>återkallade eller liten av berörda<br>kontaminerade intressenter och<br>produkter från kommunen)<br>leverantörer inte når<br>berörda medarbetare i<br>tid, vilket kan leda till att<br>felaktiga livsmedel<br>hanteras eller serveras<br>inom verksamheten. |
-|  | 6 Risk för att vi använder 3. Vanligt 2. Lindrig (uppfattas som Ja<br>AI-teknik utan tillräcklig liten av berörda<br>kunskap och förståelse, intressenter och<br>vilket kan leda till brister kommunen)<br>i offentliga underlag. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 4 Risk för driftstörning<br>genom ett dataintrång i<br>kommunens nätverk,<br>system eller tekniskt<br>uppkopplad utrustning. | 3. Vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 5 Risk att information om<br>återkallade eller<br>kontaminerade<br>produkter från<br>leverantörer inte når<br>berörda medarbetare i<br>tid, vilket kan leda till att<br>felaktiga livsmedel<br>hanteras eller serveras<br>inom verksamheten. | 2. Mindre vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 6 Risk för att vi använder<br>AI-teknik utan tillräcklig<br>kunskap och förståelse,<br>vilket kan leda till brister<br>i offentliga underlag. | 3. Vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
 
 <!-- sida 149 -->
 
@@ -4456,20 +4369,20 @@ Intern kontrollplan 2026
 
 [Tabell 149-151-1](handlingar.tabeller/149-151-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergrip Efterlevnad till<br>ande risk: gällande rutiner<br>Efterlevnad till har följts upp<br>rekryteringsproce 3. Kännbar under några år och<br>ssen (uppfattas som visar på gott<br>besvärande för resultat. Åtgärder<br>2. Mindre vanligt<br>berörda (information och<br>intressenter och utbildning) har<br>kommunen) vidtagits vid behov.<br>Följs<br>fortsättningsvis<br>upp på annat sätt. |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip Arbetet med<br>3. Kännbar<br>ande risk: informationssäkerh<br>(uppfattas som<br>informationssäke et följer<br>besvärande för<br>rhet; skydd av 2. Mindre vanligt gemensamma<br>berörda<br>information mot styrdokument med<br>intressenter och<br>obehörig tillgång uppföljning i egen<br>kommunen)<br>process. |
-|  | Kommunövergrip Tas omhand<br>ande risk: It- 3. Kännbar genom<br>säkerhet - (uppfattas som inköpsprocessen/l<br>Bristande besvärande för everantörsuppföljni<br>2. Mindre vanligt<br>driftmiljö hos berörda ng. Även<br>leverantörer intressenter och uppföljning genom<br>kommunen) systemförvaltarmo<br>dellen. |
-|  | Kommunövergrip Hanteras genom<br>ande risk: Risk Samhällsbyggnads<br>att ledning<br>samhällsutbyggn (Samhällsbyggnad<br>ad inte kan ske i sprocessen) där vi<br>planerad takt. Ny kommer att arbeta<br>infrastruktur och med ”Obruten<br>exploatering och digital<br>3. Kännbar<br>projekt för samhällsbyggnads<br>(uppfattas som<br>underhåll/utbygg process” samt<br>besvärande för<br>nad av befintlig 2. Mindre vanligt ”Utbyggnadsplan”.<br>berörda<br>infrastruktur är I<br>intressenter och<br>beroende av Samhällsbyggnads<br>kommunen)<br>varandra ledning finns flera<br>(resurser och förvaltningar<br>samplanering). representerade<br>(Teknik, Service,<br>Bygg o Miljö,<br>Kultur o Fritid samt<br>KSF genom SBK<br>och Ekonomi). |
-| Verksamhet | Risk för att barn, 3. Kännbar Omhändertas<br>elever och (uppfattas som genom<br>omsorgstagare besvärande för måltidsverksamhet<br>2. Mindre vanligt<br>med behov av berörda ens ordinarie<br>specialkost får fel intressenter och rutiner för<br>mat. kommunen) uppföljning. |
-|  | Risk för Det finns rutiner för<br>personuppgiftsin 3. Kännbar att hantera<br>cident kopplat till (uppfattas som sekretessbelagda<br>ärendehanterings besvärande för uppgifter på annat<br>2. Mindre vanligt<br>systemet. berörda sätt, och<br>intressenter och incidentrapporterin<br>kommunen) g ifall det skulle<br>uppstå. |
-|  | Kommunövergrip<br>ande risk: 3. Kännbar Tas omhand<br>Dämpad (uppfattas som genom<br>befolkningstillväx besvärande för budgetprocessen<br>2. Mindre vanligt<br>t med långsiktig berörda och lokalplan.<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att Omhändertas<br>klimatförändringa genom ett proaktivt<br>3. Kännbar<br>r påverkar styr- och<br>(uppfattas som<br>inomhusmiljön, övervakningssyste<br>besvärande för<br>byggnadernas 2. Mindre vanligt m samt infört en ny<br>berörda<br>hållbarhet och ansvarig enhet för<br>intressenter och<br>underhållsbehov, att samordna<br>kommunen)<br>vilket leder till arbetet.<br>ökade kostnader. |
-|  | Risk för Hanteras genom<br>störningar i 3. Kännbar kontiunitetsplaner<br>leveranskedjor (uppfattas som utifrån de<br>och ökade besvärande för viktigaste<br>2. Mindre vanligt<br>kostnader för berörda leverantörerna.<br>material och intressenter och<br>tjänster till följd kommunen)<br>av omvärldsläget. |
-|  | Risk för att det 3. Kännbar Tas hand om i<br>blir dyrare och (uppfattas som lokalplaneringen<br>mer tidskrävande besvärande för och i det löpande<br>2. Mindre vanligt<br>att ställa om till berörda arbete med<br>ökade klimatkrav intressenter och byggprojekt.<br>på byggnation. kommunen) |
-|  | Risk för yttre Kontinuerlig dialog<br>påverkan och för att<br>3. Kännbar<br>desinformation medvetandegöra<br>(uppfattas som<br>som motverkar risken, arbeta med<br>besvärande för<br>våra 2. Mindre vanligt källkritik och att<br>berörda<br>kommunövergrip bemöta<br>intressenter och<br>ande mål och det felaktigheter.<br>kommunen)<br>kommunala<br>uppdraget i stort. |
-|  | Risk för att vi inte Omhändertas<br>möter upp genom<br>2. Lindrig<br>förväntningar och utvecklingsarbete<br>(uppfattas som<br>nya behov på ny och<br>3. Vanligt liten av berörda<br>teknik, till innovationsdirektiv<br>intressenter och<br>exempel digitala et.<br>kommunen)<br>kanaler för<br>självservice. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Efterlevnad till<br>rekryteringsproce<br>ssen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Efterlevnad till<br>gällande rutiner<br>har följts upp<br>under några år och<br>visar på gott<br>resultat. Åtgärder<br>(information och<br>utbildning) har<br>vidtagits vid behov.<br>Följs<br>fortsättningsvis<br>upp på annat sätt. |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Arbetet med<br>informationssäkerh<br>et följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen<br>process. |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet -<br>Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand<br>genom<br>inköpsprocessen/l<br>everantörsuppföljni<br>ng. Även<br>uppföljning genom<br>systemförvaltarmo<br>dellen. |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbygg<br>nad av befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnads<br>ledning<br>(Samhällsbyggnad<br>sprocessen) där vi<br>kommer att arbeta<br>med ”Obruten<br>digital<br>samhällsbyggnads<br>process” samt<br>”Utbyggnadsplan”.<br>I<br>Samhällsbyggnads<br>ledning finns flera<br>förvaltningar<br>representerade<br>(Teknik, Service,<br>Bygg o Miljö,<br>Kultur o Fritid samt<br>KSF genom SBK<br>och Ekonomi). |
+| Verksamhet |  | Risk för att barn,<br>elever och<br>omsorgstagare<br>med behov av<br>specialkost får fel<br>mat. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Omhändertas<br>genom<br>måltidsverksamhet<br>ens ordinarie<br>rutiner för<br>uppföljning. |
+|  |  | Risk för<br>personuppgiftsin<br>cident kopplat till<br>ärendehanterings<br>systemet. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Det finns rutiner för<br>att hantera<br>sekretessbelagda<br>uppgifter på annat<br>sätt, och<br>incidentrapporterin<br>g ifall det skulle<br>uppstå. |
+|  |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand<br>genom<br>budgetprocessen<br>och lokalplan. |
+|  |  | Risk att<br>klimatförändringa<br>r påverkar<br>inomhusmiljön,<br>byggnadernas<br>hållbarhet och<br>underhållsbehov,<br>vilket leder till<br>ökade kostnader. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Omhändertas<br>genom ett proaktivt<br>styr- och<br>övervakningssyste<br>m samt infört en ny<br>ansvarig enhet för<br>att samordna<br>arbetet. |
+|  |  | Risk för<br>störningar i<br>leveranskedjor<br>och ökade<br>kostnader för<br>material och<br>tjänster till följd<br>av omvärldsläget. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>kontiunitetsplaner<br>utifrån de<br>viktigaste<br>leverantörerna. |
+|  |  | Risk för att det<br>blir dyrare och<br>mer tidskrävande<br>att ställa om till<br>ökade klimatkrav<br>på byggnation. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas hand om i<br>lokalplaneringen<br>och i det löpande<br>arbete med<br>byggprojekt. |
+|  |  | Risk för yttre<br>påverkan och<br>desinformation<br>som motverkar<br>våra<br>kommunövergrip<br>ande mål och det<br>kommunala<br>uppdraget i stort. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Kontinuerlig dialog<br>för att<br>medvetandegöra<br>risken, arbeta med<br>källkritik och att<br>bemöta<br>felaktigheter. |
+|  |  | Risk för att vi inte<br>möter upp<br>förväntningar och<br>nya behov på ny<br>teknik, till<br>exempel digitala<br>kanaler för<br>självservice. | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Omhändertas<br>genom<br>utvecklingsarbete<br>och<br>innovationsdirektiv<br>et. |
 
 <!-- sida 150 -->
 
@@ -5480,37 +5393,6 @@ Nämndbudget 2026
 
 8.2 Personalmått
 
-Nyckeltal          Utfall 2022 Utfall 2023 Utfall 2024
-Anställda totalt   811       810       810
-
-Anställda andel kvinnor 69 % 68 %      68 %
-
-```osaker-tabell
-Anställda andel män 31 %     32 %      32 %
-
-Medelålder         48        48        49
-Andel heltid       87 %      88 %      89 %
-```
-
-Antal medarbetare per
-18        17        19
-enhetschef
-
-```osaker-tabell
-Sjukfrånvaro Totalt 7,3 %    6,1 %     6,7 %
-Sjukfrånvaro Kvinnor 8,4 %   7 %       7,9 %
-Sjukfrånvaro Män   4,9 %     4 %       4,3 %
-
-Korttidssjukfrånvaro 3,9 %   3,3 %     3,2 %
-Långtidssjukfrånvaro 3,4 %   2,8 %     3,6 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 34,9 % 34,7 % 39,5 %
-mer
-
-Personalomsättning 8,7 %     6,1 %     5,4 %
-
 8.3 Arbetsmiljö
 
 Den största och viktigaste delen av det systematiska arbetsmiljöarbetet, SAM, bedrivs via enheternas
@@ -5536,6 +5418,24 @@ Kommunens övergripande mål för arbetsmiljöarbetet
   Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 21
+
+[Tabell 176-1](handlingar.tabeller/176-1.csv)
+
+| Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Anställda totalt | 811 | 810 | 810 |  |  |
+| Anställda andel kvinnor | 69 % | 68 % | 68 % |  |  |
+| Anställda andel män | 31 % | 32 % | 32 % |  |  |
+| Medelålder | 48 | 48 | 49 |  |  |
+| Andel heltid | 87 % | 88 % | 89 % |  |  |
+| Antal medarbetare per<br>enhetschef | 18 | 17 | 19 |  |  |
+| Sjukfrånvaro Totalt | 7,3 % | 6,1 % | 6,7 % |  |  |
+| Sjukfrånvaro Kvinnor | 8,4 % | 7 % | 7,9 % |  |  |
+| Sjukfrånvaro Män | 4,9 % | 4 % | 4,3 % |  |  |
+| Korttidssjukfrånvaro | 3,9 % | 3,3 % | 3,2 % |  |  |
+| Långtidssjukfrånvaro | 3,4 % | 2,8 % | 3,6 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 34,9 % | 34,7 % | 39,5 % |  |  |
+| Personalomsättning | 8,7 % | 6,1 % | 5,4 % |  |  |
 
 <!-- sida 177 -->
 
@@ -5727,133 +5627,115 @@ Nämndbudget 2026
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnets rätt                                         KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Reglemente nämnden för Service                      KF 2024-06-13 §96
-Inköp, policy                                      KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-Klimatstrategi                                      KF 2022-05-10 § 77
-
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Fordon och arbetsmaskiner, policy                   KF 2023-10-10 § 157
-Fordon och arbetsmaskiner, riktlinjer               KF 2023-10-10 § 157
-
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-Personalföreträdare i nämnder                       KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-
-Personuppgifter - riktlinjer                        KF 2024-03-05 § 33
-Lokalpolicy och internhyra                            KF § 153/2014
-
-Kemikalieplan för Kungsbacka kommun                  2017-03-07 § 32
-
 10.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
 26
+
+[Tabell 181-1](handlingar.tabeller/181-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Reglemente nämnden för Service | KF 2024-06-13 §96 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Fordon och arbetsmaskiner, policy | KF 2023-10-10 § 157 |
+| Fordon och arbetsmaskiner, riktlinjer | KF 2023-10-10 § 157 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Personuppgifter - riktlinjer | KF 2024-03-05 § 33 |
+| Lokalpolicy och internhyra | KF § 153/2014 |
+| Kemikalieplan för Kungsbacka kommun | 2017-03-07 § 32 |
+
+[Tabell 181-182-2](handlingar.tabeller/181-182-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 182 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 10.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                           KS 2023-02-21 § 32
-Regler för fakturering och kravhantering            KS 2024-03-19 § 90
 
 10.1.4 Styrdokument beslutade av nämnden för Service
 
-Styrdokument                                      Beslutande paragraf/År
-
-Delegeringsförteckning nämnden för Service 2025    NSE 2025-05-15 § 47
-Informationsbeskrivning, nämnden för Service 2024  NSE 2024-10-24 § 81
-Intern kontrollplan 2025                           NSE 2024-11-21 § 87
-
-Investeringsplan Service 2026–2035                  NSE 2025-01-16 § 4
-Klassificeringsstruktur Service                    NSE 2020-03-19 § 24
-
-Konceptlokal BmSS                                  NSE 2021-05-20 § 47
-Koncept idrottshall                                NSE 2023-05-16 § 48
-Koncept kök och matsal, Förskola & Grundskola      NSE 2024-12-11 § 103
-
-Koncept för utbildningslokaler                      NSE 2018-01-24 § 4
-Koncept utemiljö, Förskola & Grundskola            NSE 2024-12-11 § 102
-
-Koncept för vård-och omsorgsboende                  NSE 2018-01-24 § 5
-Målbild 2027                                       NSE 2023-08-24 § 77
-Nämndbudget 2025                                   NSE 2024-11-21 § 86
-
-Policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun NSE 2020-12-21 § 116
-Policy och riktlinjer för kommungemensam hantering av fordon och
-NSE 2023-06-15 § 64
-arbetsmaskiner, Kungsbacka kommun
 27
+
+[Tabell 182-1](handlingar.tabeller/182-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Regler för fakturering och kravhantering | KS 2024-03-19 § 90 |
+
+[Tabell 182-183-2](handlingar.tabeller/182-183-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning nämnden för Service 2025 | NSE 2025-05-15 § 47 |
+| Informationsbeskrivning, nämnden för Service 2024 | NSE 2024-10-24 § 81 |
+| Intern kontrollplan 2025 | NSE 2024-11-21 § 87 |
+| Investeringsplan Service 2026–2035 | NSE 2025-01-16 § 4 |
+| Klassificeringsstruktur Service | NSE 2020-03-19 § 24 |
+| Konceptlokal BmSS | NSE 2021-05-20 § 47 |
+| Koncept idrottshall | NSE 2023-05-16 § 48 |
+| Koncept kök och matsal, Förskola & Grundskola | NSE 2024-12-11 § 103 |
+| Koncept för utbildningslokaler | NSE 2018-01-24 § 4 |
+| Koncept utemiljö, Förskola & Grundskola | NSE 2024-12-11 § 102 |
+| Koncept för vård-och omsorgsboende | NSE 2018-01-24 § 5 |
+| Målbild 2027 | NSE 2023-08-24 § 77 |
+| Nämndbudget 2025 | NSE 2024-11-21 § 86 |
+| Policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun | NSE 2020-12-21 § 116 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner, Kungsbacka kommun | NSE 2023-06-15 § 64 |
+| Reglemente för Nämnden för Service | NSE 2024-03-21 § 26 |
+| Revidering riktlinjer för internhyra av lokaler | NSE 2019-10-10 § 92 |
+| Riktlinjer för inköp av livsmedel | NSE 2024-05-14 §45 |
+| Service Informationshanteringsplan 2025 | NSE 2025-09-25 § 74 |
+| Service Lokalbehov 2025–2029, utblicksår 2030–2034 § 95 | NSE 2023-10-19 § 95 |
 
 <!-- sida 183 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Reglemente för Nämnden för Service                 NSE 2024-03-21 § 26
-Revidering riktlinjer för internhyra av lokaler    NSE 2019-10-10 § 92
-
-Riktlinjer för inköp av livsmedel                   NSE 2024-05-14 §45
-Service Informationshanteringsplan 2025            NSE 2025-09-25 § 74
-
-Service Lokalbehov 2025–2029, utblicksår 2030–2034 § 95 NSE 2023-10-19 § 95
-
 10.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 28
+
+[Tabell 183-1](handlingar.tabeller/183-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 184 -->
 

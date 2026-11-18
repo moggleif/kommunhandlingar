@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93f13df8/1763126440
 sha256: e1e854bdd5c335e5564520902a6ee31c97e887dc63346ec4e438b86efc5df417
 bytes: 16227751
 sidor: 255
-hamtad: 2026-11-08T07:52:43+00:00
-konverterad: 2026-11-08T07:54:14+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:46:10+00:00
+konverterad: 2026-11-17T22:47:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [101, 105, 109, 110, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194]
-figurer: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 31, 50, 78, 94, 96, 98, 100, 102, 103, 104, 106, 107, 108, 109, 158, 159, 161, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 179, 181, 183, 184, 185, 186, 187, 190, 191, 192, 193, 194, 205, 207, 208, 210, 211, 212, 213, 214, 215, 216, 217, 219, 220, 221, 224, 227, 228, 230, 231, 232, 252, 253, 254, 255]
+figurer: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 31, 50, 78, 94, 96, 98, 100, 102, 103, 104, 106, 107, 108, 109, 158, 159, 161, 164, 165, 166, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 179, 181, 183, 184, 185, 186, 187, 190, 191, 192, 193, 194, 205, 210, 214, 216, 217, 219, 220, 227, 230, 231, 232, 252, 253, 254, 255]
 tolkade: []
 granskad: null
 ---
@@ -867,17 +867,18 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 32-33-1](handlingar.tabeller/32-33-1.csv)
 
-| Kategorier<br>Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande risk: 3. Vanligt 3. Kännbar Ja<br>Bristande följsamhet till (uppfattas som<br>inköpsprocessen; besvärande för<br>direktupphandling respektive berörda<br>avtalsuppföljning intressenter och<br>kommunen) |
-| --- | --- |
-|  | 2 Kommunövergripande risk 2. Mindre 4. Allvarlig/stor Ja<br>- Risk för korruption och vanligt inverkan (så stor<br>välfärdsbrottslighet att den inte får<br>inträffa) |
-|  | 3 Kommunövergripande risk: 2. Mindre 3. Kännbar Ja<br>Förvaltningarnas arbete med att vanligt (uppfattas som<br>följa och utveckla det besvärande för<br>systematiska beredskapsarbetet berörda<br>intressenter och<br>kommunen) |
-| Verksamhet | 4 Mottagande i anpassad 2. Mindre 4. Allvarlig/stor Ja<br>gymnasieskola vanligt inverkan (så stor<br>att den inte får<br>inträffa) |
-|  | 5 Mottagande av ungdomar i 2. Mindre 3. Kännbar Ja<br>kommunala aktivitetsansvaret vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 6 Personer med skyddad 2. Mindre 4. Allvarlig/stor Ja<br>identitet vanligt inverkan (så stor<br>att den inte får<br>inträffa) |
-|  | 7 Utdrag från 3. Vanligt 4. Allvarlig/stor Ja<br>belastningsregister före inverkan (så stor<br>anställning att den inte får<br>inträffa) |
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>8 Externa skolplaceringar där 3. Vanligt 3. Kännbar Ja<br>särskilda skäl finns (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 9 Övertidsersättning betalas ut 2. Mindre 3. Kännbar Ja<br>på felaktiga grunder vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 10 Efterlevnad av 3. Vanligt 3. Kännbar Ja<br>informationshanteringsplan (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. |  | 1 Kommunövergripande risk:<br>Bristande följsamhet till<br>inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande risk:<br>Förvaltningarnas arbete med att<br>följa och utveckla det<br>systematiska beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 4 Mottagande i anpassad<br>gymnasieskola | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 5 Mottagande av ungdomar i<br>kommunala aktivitetsansvaret | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 6 Personer med skyddad<br>identitet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 7 Utdrag från<br>belastningsregister före<br>anställning | 3. Vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 8 Externa skolplaceringar där<br>särskilda skäl finns | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 9 Övertidsersättning betalas ut<br>på felaktiga grunder | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 10 Efterlevnad av<br>informationshanteringsplan | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
 
 <!-- sida 33 -->
 
@@ -888,17 +889,19 @@ Intern kontrollplan 2026
 
 11
 
-[Tabell 33-34-1](handlingar.tabeller/33-34-1.csv)
+[Tabell 33-35-1](handlingar.tabeller/33-35-1.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande 3. Kännbar<br>risk: Efterlevnad till (uppfattas<br>rekryteringsprocessen som<br>2. Mindre besvärande<br>vanligt för berörda<br>intressenter<br>och<br>kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. | Kommunövergripande 3. Kännbar<br>risk: (uppfattas<br>informationssäkerhet; som<br>skydd av information 2. Mindre besvärande<br>mot obehörig tillgång vanligt för berörda<br>intressenter<br>och<br>kommunen) |
-|  | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas<br>- Bristande driftmiljö som<br>hos leverantörer 2. Mindre besvärande<br>vanligt för berörda<br>intressenter<br>och<br>kommunen) |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande<br>risk: Risk att<br>samhällsutbyggnad 3. Kännbar<br>inte kan ske i planerad (uppfattas<br>takt. Ny infrastruktur som<br>och exploatering och 2. Mindre besvärande<br>projekt för vanligt för berörda<br>underhåll/utbyggnad av intressenter<br>befintlig infrastruktur är och<br>beroende av varandra kommunen)<br>(resurser och<br>samplanering). |
-| Verksamhet | Åtgärdsprogrammens 4. Eventuell<br>kvalitet Allvarlig/stor granskning 2027.<br>2. Mindre inverkan (så Uppföljning av<br>vanligt stor att den tidigare<br>inte får granskningar.<br>inträffa) |
-|  | Felaktiga Granskning 2024<br>anställningsavtal 3. Kännbar visade att den stora<br>(uppfattas bristen var att det<br>som inte gick att se att<br>2. Mindre besvärande belastningsregister<br>vanligt för berörda uppvisats/begärts<br>intressenter ut. Detta finns med<br>och som egen risk och<br>kommunen) granskningsaktivitet<br>2025 samt 2026. |
-|  | Rutiner mot 3. Kännbar Avvaktar resultat<br>kränkningar följs ej (uppfattas från 2025 års<br>som granskning.<br>besvärande<br>3. Vanligt<br>för berörda<br>intressenter<br>och<br>kommunen) |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas kontroll görs inom<br>vid TAK-placeringar som systematiskt<br>2. Mindre besvärande kvalitetsarbete,<br>vanligt för berörda SOSFS<br>intressenter<br>och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. |  | Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information<br>mot obehörig tillgång | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+|  |  | Kommunövergripande<br>risk: It-säkerhet<br>- Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+|  |  | Kommunövergripande<br>risk: Risk att<br>samhällsutbyggnad<br>inte kan ske i planerad<br>takt. Ny infrastruktur<br>och exploatering och<br>projekt för<br>underhåll/utbyggnad av<br>befintlig infrastruktur är<br>beroende av varandra<br>(resurser och<br>samplanering). | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+| Verksamhet |  | Åtgärdsprogrammens<br>kvalitet | 2. Mindre<br>vanligt | 4.<br>Allvarlig/stor<br>inverkan (så<br>stor att den<br>inte får<br>inträffa) | Eventuell<br>granskning 2027.<br>Uppföljning av<br>tidigare<br>granskningar. |
+|  |  | Felaktiga<br>anställningsavtal | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Granskning 2024<br>visade att den stora<br>bristen var att det<br>inte gick att se att<br>belastningsregister<br>uppvisats/begärts<br>ut. Detta finns med<br>som egen risk och<br>granskningsaktivitet<br>2025 samt 2026. |
+|  |  | Rutiner mot<br>kränkningar följs ej | 3. Vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Avvaktar resultat<br>från 2025 års<br>granskning. |
+|  |  | Bristande<br>barnkonsekvensanalys<br>vid TAK-placeringar | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Uppföljning och<br>kontroll görs inom<br>systematiskt<br>kvalitetsarbete,<br>SOSFS |
+|  |  | Kommunövergripande<br>risk: Dämpad<br>befolkningstillväxt med<br>långsiktig påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
 
 <!-- sida 34 -->
 
@@ -911,18 +914,6 @@ Intern kontrollplan 2026
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Intern kontrollplan 2026
-
-Anledning till att
-Kategorier        Risker           Sannolikhet Konsekvens
-risk ej tas till plan
-Kommunövergripande          3. Kännbar
-risk: Dämpad                (uppfattas
-befolkningstillväxt med         som
-långsiktig påverkan på 2. Mindre besvärande
-kommunala            vanligt för berörda
-verksamheter               intressenter
-och
-kommunen)
 
 13
 
@@ -4133,7 +4124,6 @@ nuvarande och kommande  generationer.
 
 <!-- sida 110 -->
 
-\|
 \|
 \|
 i
@@ -10466,11 +10456,6 @@ samt Ekstas koncern. Tabellen visar även prognos för kommunen och Eksta Bostad
 
 Belopp i miljoner kronor           2025-08-31          Prognos 2025
 
-Kungsbacka kommun                       458                   477
-Eksta Bostads AB (moderbolag)          43,1                   45,2
-
-Eksta Bostads AB (koncern)             46,8                     -
-
 2  Förvaltningsberättelse
 
 2.1 Händelser av väsentlig betydelse
@@ -10503,6 +10488,13 @@ regionernas ekonomi.
 Skatteunderlagstillväxten stiger i år, även om prognosen för både 2024 och 2025 är justerad nedåt.
 
 Kungsbacka kommun          Delårsbokslut 2025                   3
+
+[Tabell 207-1](handlingar.tabeller/207-1.csv)
+
+| Kungsbacka kommun | 458 | 477 |
+| --- | --- | --- |
+| Eksta Bostads AB (moderbolag) | 43,1 | 45,2 |
+| Eksta Bostads AB (koncern) | 46,8 | - |
 
 <!-- sida 208 -->
 
@@ -10537,8 +10529,6 @@ Pensioner
 
 Pensioner inklusive särskild löneskatt, miljoner 2024  Prognos 2025
 kronor
-Årets pensionskostnader i resultaträkningen ink 626           347
-pension förre 1998
 
 Vi förväntar oss att pensionskostnaderna kommer att minska till 347 miljoner kronor 2025, vilket är
 en betydande minskning jämfört med förra året. Det beror huvudsakligen på det lägre
@@ -10557,8 +10547,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   4
 
 [Tabell 208-1](handlingar.tabeller/208-1.csv)
 
-| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
+| Årets pensionskostnader i resultaträkningen ink<br>pension förre 1998 | 626 | 347 |
 | --- | --- | --- |
+| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
 | varav avsättning pensioner före 1998 | 1 229 | 1 190 |
 | varav avsättning pensioner efter 1998 | 973 | 990 |
 
@@ -10621,7 +10612,6 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 Prognos
 Skatter & generella statsbidrag, procent 2022 2023 2024
 2025
-Årlig förändring skatter & statsbidrag 5,0   4,4  2,3    3,5
 
 Kommunens huvudsakliga intäkter är skatteintäkter och statsbidrag och de kommer att öka med
 3,5 procent, vilket är en högre ökningstakt än förra året. Skatteintäkterna ökar med strax under fem
@@ -10670,8 +10660,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 
 [Tabell 210-1](handlingar.tabeller/210-1.csv)
 
-| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
+| Årlig förändring skatter & statsbidrag | 5,0 | 4,4 | 2,3 | 3,5 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
 | Årlig förändring nettokostnader löpande verksamhet | 3,7 | 9,2 | 3,5 | 0,7 |
 | Årlig förändring nettokostnader inkl. finansiella poster | -0,3 | 15,4 | 1,5 | 0,4 |
 
@@ -10680,9 +10671,6 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 Prognos Augusti
 Låneskuld, miljoner kronor    2021  2022  2023   2024
 2025   2025
-Låneskuld till banker och kreditinstitut 1 450 1 300 1 200 1 200 1 050 1 050
-Genomsnittlig upplåningsränta (%) 0,5 0,7  1,3    1,4    1,9     1,8
-Räntekostnad                     8    10    17    17      21     14
 
 Kommunen binder sina lån i enlighet med finanspolicyn. Räntekostnaden för låneskulden har de
 senaste åren legat på en relativt låg nivå beroende på lågt ränteläge. Prognosen är att
@@ -10703,8 +10691,6 @@ Soliditet
 Augusti
 Kommunen, procent                   2021 2022 2023  2024
 2025
-Soliditet inklusive hela pensionsåtagandet 35,5 35,4 35,9 37,4 41,3
-Soliditet enligt blandmodellen       49,6 46,5 46,8 48,2    52,0
 
 Soliditeten anger hur stor del av kommunens tillgångar som är finansierade med eget kapital.
 
@@ -10726,16 +10712,24 @@ Grundskola, som tillsammans kommer överskrida budgeten med 15 miljoner kronor.
 
 Kungsbacka kommun          Delårsbokslut 2025                   7
 
+[Tabell 211-1](handlingar.tabeller/211-1.csv)
+
+| Låneskuld till banker och kreditinstitut | 1 450 | 1 300 | 1 200 | 1 200 | 1 050 | 1 050 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Genomsnittlig upplåningsränta (%) | 0,5 | 0,7 | 1,3 | 1,4 | 1,9 | 1,8 |
+| Räntekostnad | 8 | 10 | 17 | 17 | 21 | 14 |
+
+[Tabell 211-2](handlingar.tabeller/211-2.csv)
+
+| Soliditet inklusive hela pensionsåtagandet | 35,5 | 35,4 | 35,9 | 37,4 | 41,3 |
+| --- | --- | --- | --- | --- | --- |
+| Soliditet enligt blandmodellen | 49,6 | 46,5 | 46,8 | 48,2 | 52,0 |
+
 <!-- sida 212 -->
 
 Prognos
 Miljoner kronor                    2021 2022  2023 2024
 2025
-Avvikelse nämnder                   157  105   -53  51      72
-Avvikelse nämnder/verksamhetens kostnader 2,7 1,8 -0,8 0,9  1,1
-(%)
-
-Avvikelse årets resultat            412  552   99  272     216
 
 I prognosen räknar vi med att årets resultat blir 477 miljoner kronor, vilket är 216 miljoner kronor
 högre än budget. Större delen av plusresultatet finns inom finansverksamheten. Resultatet från
@@ -10779,6 +10773,13 @@ fall där det har gjorts uppdateringar i den officiella statistiken.
 
 Kungsbacka kommun          Delårsbokslut 2025                   8
 
+[Tabell 212-1](handlingar.tabeller/212-1.csv)
+
+| Avvikelse nämnder | 157 | 105 | -53 | 51 | 72 |
+| --- | --- | --- | --- | --- | --- |
+| Avvikelse nämnder/verksamhetens kostnader<br>(%) | 2,7 | 1,8 | -0,8 | 0,9 | 1,1 |
+| Avvikelse årets resultat | 412 | 552 | 99 | 272 | 216 |
+
 <!-- sida 213 -->
 
 Den samlade bilden är att det finns många exempel från nämndernas rapportering som visar att
@@ -10792,15 +10793,6 @@ Följande symboler visar hur långt vi kommit med varje fokusområde.
 2.5.1 Mål: En attraktiv kommun att bo, verka och vistas i
 
 Fokusområden                                            Trend
-
-I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. 
-
-Kungsbacka har välkomnande och trygga miljöer.            –
-I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa 
-utbyten.
-
-I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att 
-fungera.
 
 Prognos måluppfyllelse
 Inom fokusområdet mötesplatser och god omsorg ser vi många exempel på aktiva samarbeten.
@@ -10834,6 +10826,14 @@ fler stannar upp och vistas.
 För första gången har Kulturskolan erbjudit sommarverksamhet, där över 50 barn och unga deltog
 
 Kungsbacka kommun          Delårsbokslut 2025                   9
+
+[Tabell 213-1](handlingar.tabeller/213-1.csv)
+
+| I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. |  |
+| --- | --- |
+| Kungsbacka har välkomnande och trygga miljöer. | – |
+| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa<br>utbyten. |  |
+| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att<br>fungera. |  |
 
 <!-- sida 214 -->
 
@@ -10903,14 +10903,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  10
 
 Fokusområden                                            Trend
 
-Kungsbacka växer med en långsiktigt hållbar ekonomi.      
-
-Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och 
-främjar biologisk mångfald.
-Kungsbacka ska verka för ett socialt hållbart samhälle.   –
-
-Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.     –
-
 Prognos måluppfyllelse
 
 Den svaga trenden när det gäller inflyttning till Kungsbacka kommun verkar vara bruten.
@@ -10946,6 +10938,14 @@ augusti har vi byggt 242 kW solcelleffekt och vi ser ut att nå målet om att ö
 300 kW årligen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  11
+
+[Tabell 215-1](handlingar.tabeller/215-1.csv)
+
+| Kungsbacka växer med en långsiktigt hållbar ekonomi. |  |
+| --- | --- |
+| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. |  |
+| Kungsbacka ska verka för ett socialt hållbart samhälle. | – |
+| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | – |
 
 <!-- sida 216 -->
 
@@ -11061,7 +11061,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 217-1](handlingar.tabeller/217-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. | – |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. |  |
@@ -11142,8 +11142,6 @@ etableringsfrekvens (Kolada)
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
 
 Fokusområden                                            Trend
-Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. –
-I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. 
 
 Prognos måluppfyllelse
 
@@ -11171,6 +11169,12 @@ Rektorer bedömer att kollegialt lärande står för den övervägande delen av 
 utveckling i sin yrkesroll och att det är en viktig rutin i vardagen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  15
+
+[Tabell 219-1](handlingar.tabeller/219-1.csv)
+
+| Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
+| --- | --- |
+| I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. |  |
 
 <!-- sida 220 -->
 
@@ -11232,13 +11236,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  16
 2.5.5 Mål: Ett medskapande samhälle och en öppen attityd
 Fokusområden                                            Trend
 
-I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det 
-goda livet.
-Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i –
-kontakt med kommunen.
-Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande –
-medarbetare och ledare.
-
 Prognos måluppfyllelse
 Målet är ännu inte uppnått, men vi lär oss mycket och tar steg mot ett mer medskapande samhälle.
 Trenden inom fokusområdena skiljer sig inte nämnvärt från tidigare år, men vi bedömer
@@ -11274,14 +11271,21 @@ funktionaliteten och ersätta manuella rutiner med digitala system.
 Målsättning
 Indikator                        2022  2023  2024 2025
 2025
-Hållbart medarbetarengagemang, ett index för 78 76 75 \*    öka
-medarbetarnas samlade uppfattning om områdena
-motivation, ledarskap och styrning, skala 1–100
-enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 \* öka
-Jämix beräknas utifrån nio nyckeltal med skala 1–20
 
 Kungsbacka kommun          Delårsbokslut 2025                  17
+
+[Tabell 221-1](handlingar.tabeller/221-1.csv)
+
+| I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. |  |
+| --- | --- |
+| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
+| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande<br>medarbetare och ledare. | – |
+
+[Tabell 221-2](handlingar.tabeller/221-2.csv)
+
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 76 | 75 | \* | öka |
+| --- | --- | --- | --- | --- | --- |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20 | 114 | 122 | 124 | \* | öka |
 
 <!-- sida 222 -->
 
@@ -11403,9 +11407,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  19
 Målsättning
 Indikator                         2023  2024  2025
 2025
-Andel innovationsprojekt som drivits under året \*\* - - \* öka
-Andel av bruttokostnaden som avsätts för - -   \*      öka
-verksamhetsutveckling och innovation \*
+
 \*) Följs upp i årsbokslutet
 
 2.5.7 Direktiv: Civil beredskap
@@ -11451,6 +11453,12 @@ har stärkt beredskapen för livsmedelsförsörjning, bland annat genom planteri
 stadsmiljö.
 
 Kungsbacka kommun          Delårsbokslut 2025                  20
+
+[Tabell 224-1](handlingar.tabeller/224-1.csv)
+
+| Andel innovationsprojekt som drivits under året \*\* | - | - | \* | öka |
+| --- | --- | --- | --- | --- |
+| Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation \* | - | - | \* | öka |
 
 <!-- sida 225 -->
 
@@ -11625,7 +11633,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  23
 Prognos
 Balanskravsutredning, miljoner kronor           2024
 2025
-Årets resultat enligt resultaträkningen (fullfondsmodellen) 286 477
 
 2.8 Väsentliga personalförhållanden
 Analys av personalmått
@@ -11650,8 +11657,9 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 
 [Tabell 228-1](handlingar.tabeller/228-1.csv)
 
-| Pensionsförpliktelser före 1998 | 25 | -38 |
+| Årets resultat enligt resultaträkningen (fullfondsmodellen) | 286 | 477 |
 | --- | --- | --- |
+| Pensionsförpliktelser före 1998 | 25 | -38 |
 | Årets resultat enligt blandmodellen | 311 | 439 |
 | - Samtliga realisationsvinster | -1 | 0 |
 | +Realisationsvinster enligt undantagsmöjlighet | - | - |
@@ -12138,7 +12146,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  34
 
 [Tabell 238-1](handlingar.tabeller/238-1.csv)
 
-| Miljoner kronor Ack utfall Prognos Prognos för Budget Avvikels<br>totalt tom aug 2025 projekt för e<br>2025 projekt |  |  |  |  |  |
+| Miljoner kronor | Ack utfall<br>totalt tom aug<br>2025 | Prognos<br>2025 | Prognos för<br>projekt | Budget<br>för<br>projekt | Avvikels<br>e |
 | --- | --- | --- | --- | --- | --- |
 | Framtidens reningsverk | -92,3 | -149,0 | -1 655,0 | -1 655,0 | 0,0 |
 | Ölmanäs reningsverk | -110,3 | -4,5 | -110,5 | -104,5 | -6,0 |

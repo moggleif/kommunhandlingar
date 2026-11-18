@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6f2d5e8e19474742dbc1021/17371236269
 sha256: eda5e01664f5432012afaf662cd9c20c53a5b840efab5737a36a2d623ded66e3
 bytes: 14792008
 sidor: 601
-hamtad: 2026-11-08T10:56:40+00:00
-konverterad: 2026-11-08T10:59:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:27:04+00:00
+konverterad: 2026-11-18T01:29:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -732,7 +732,7 @@ sänkt budget sänkt budget sänkt budget
 8 Löpande investeringar — |Fordon 27 800 8000 4000 4000 4 make | 3800 — | med 4,2 mnkr | — 8 000 x Xx x x x
 sänkt budget
 med 0,45 sänkt budget
-5 Löpande investeringar — |Maskiner och redskap Skatt 6050 1400 1400 950 mak 900 — | med 0.5 mnkr | 1400 x x x x x
+5 Löpande investeringar Maskiner och redskap Skatt 6050 1400 1400 950 mak 900 — | med 0.5 mnkr | 1400 x x x x x
 SUMMA 532 MASKINER OCH UTRUSTNING 100 100 15150 | 6150 6 200 5450 10 650 11300 | 11300 | 11300 | 11300 | 11300
 Summa prisnivå 2025 765 000 2510 76 500 | 76 500 76 500 76 500 76 500 76 500176 500! 76 500 | 76 500] 76 500
 investerings- | Projektrelaterade | För beslut | Plan Plan Plan Plan utblick | utblick | Utblick | Utblick | Utblick
@@ -2575,8 +2575,9 @@ KONSEKVENSER
 
 [Tabell 69-1](handlingar.tabeller/69-1.csv)
 
-| Kungsbacka<br>kommun | Strategi 1<br>Mycket stort<br>engagemang | Strategi 2<br>Litet<br>engagemang | Strategi 3<br>Stort<br>engagemang | Strategi 4<br>Stort<br>engagemang |
+|  | Strategi 1 | Strategi 2 | Strategi 3 | Strategi 4 |
 | --- | --- | --- | --- | --- |
+| Kungsbacka<br>kommun | Mycket stort<br>engagemang | Litet<br>engagemang | Stort<br>engagemang | Stort<br>engagemang |
 | Privat aktör | Litet<br>engagemang | Mycket stort<br>engagemang | Mycket litet<br>engagemang | Stort<br>engagemang |
 
 [Tabell 69-2](handlingar.tabeller/69-2.csv)
@@ -4709,14 +4710,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        4 (15)
 
 [Tabell 125-1](handlingar.tabeller/125-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -4938,7 +4938,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 130 -->
 
@@ -4998,7 +4999,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 131 -->
 
@@ -5153,16 +5155,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -5190,6 +5185,18 @@ En Grundavgift per år 14.1 a) 428 kr 428 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2025        13 (15)
 
+[Tabell 134-1](handlingar.tabeller/134-1.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 134-2](handlingar.tabeller/134-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 135 -->
 
 § 18
@@ -5198,7 +5205,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -5226,8 +5232,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2025        14 (15)
 
 [Tabell 135-1](handlingar.tabeller/135-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |

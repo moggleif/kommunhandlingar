@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e78245d19a7bafa93ffcdd/17631034981
 sha256: 3707638dcec12ee5dc98a990f96c288590178510b20fcf6ea7888584513ac3cb
 bytes: 20797685
 sidor: 117
-hamtad: 2026-11-08T09:31:48+00:00
-konverterad: 2026-11-08T09:32:53+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:12:37+00:00
+konverterad: 2026-11-18T00:13:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -438,25 +438,21 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 5.2 Risker - Ej till plan
 
-Anledning till att
-Kategorier     Risker       Sannolikhet   Konsekvens
-risk ej tas till plan
-Personal       Risk att                        3. Kännbar Risken hanteras
-förvaltningen                (uppfattas som inom ramen för
-saknar personal              besvärande för verksamhets-
-2\. Mindre vanligt
-med                               berörda planering och
-rätt/tillräcklig             intressenter och kompetens-
-kompetens                      kommunen) försörjning.
-
 10
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
 
-| Kategorier<br>Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| --- | --- |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+
+[Tabell 11-2](handlingar.tabeller/11-2.csv)
+
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Risk att<br>förvaltningen<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken hanteras<br>inom ramen för<br>verksamhets-<br>planering och<br>kompetens-<br>försörjning. |
 
 <!-- sida 12 -->
 
@@ -467,22 +463,23 @@ Intern kontrollplan 2026
 
 [Tabell 12-15-1](handlingar.tabeller/12-15-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Inte prioriterad<br>ande risk: kommuncentralt.<br>Efterlevnad till Kommentar:<br>rekryteringsproce "Efterlevnad till<br>ssen gällande rutiner<br>har följts upp<br>under några år och<br>visar på gott<br>resultat. Åtgärder<br>(information och<br>utbildning) har<br>3. Kännbar vidtagits vid behov.<br>(uppfattas som Följs<br>besvärande för fortsättningsvis<br>2. Mindre vanligt<br>berörda upp på annat sätt."<br>intressenter och<br>Bygg- och<br>kommunen)<br>miljöförvaltningen<br>har haft goda<br>resultat vid tidigare<br>granskningar<br>därför tas denna<br>risk inte till plan<br>2026.<br>Ingår under<br>paraplyt<br>välfärdsbrottslighet<br>2026 |
-| --- | --- |
-| Ekonomi | Kommunövergrip Omhändertas inom<br>ande risk: ramen för ordinarie<br>2. Lindrig<br>Grundläggande verksamhets-<br>(uppfattas som<br>redovisning uppföljning.<br>3. Vanligt liten av berörda<br>kvalitetsbrister Granskning av<br>intressenter och<br>kontering görs<br>kommunen)<br>löpande under<br>året. |
-|  | Risk för fel vid Granskning av<br>hantering av kommun-<br>kundfakturor gemensam risk<br>"Debiteringsrutiner<br>3. Kännbar<br>" har genomförts<br>(uppfattas som<br>under 2022–2023<br>besvärande för<br>2. Mindre vanligt med goda resultat.<br>berörda<br>risken hanteras<br>intressenter och<br>inom ordinarie<br>kommunen)<br>uppföljnings-<br>process. Inte<br>prioriterat för<br>granskning 2026. |
-| Kategorier<br>Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk att Denna risk<br>säkerhetsklassat hanteras inom<br>material ramen för ordinarie<br>avseende 4. Allvarlig/stor informations-<br>GIS/Kartan inverkan (så stor säkerhetsarbete<br>2. Mindre vanligt<br>lämnas ut eller på att den inte får på förvaltningen.<br>annat sätt inträffa) Inte prioriterat för<br>kommer i granskning inom<br>obehöriga ramen för intern<br>händer. kontroll. |
-|  | Risk för Denna risk<br>oplanerade hanteras inom<br>driftstopp eller ramen för<br>krasch av 4. Allvarlig/stor förvaltningens<br>verksamhetssyst inverkan (så stor ordinarie<br>2. Mindre vanligt<br>em att den inte får säkerhetsarbete.<br>inträffa) Inte prioriterat för<br>granskning inom<br>ramen för intern<br>kontroll. |
-|  | Risk för intrång, Denna risk tas<br>obehörig åtkomst omhand inom<br>eller avslöjad ramen för ordinarie<br>sekretess på informations-<br>grund av stöld säkerhetsarbete.<br>och/eller Det finns rutiner för<br>oaktsamhet. hantering av<br>lösenord och<br>aktuella rutiner för<br>hantering av<br>3. Kännbar<br>känsliga<br>(uppfattas som<br>personuppgifter,<br>besvärande för<br>2. Mindre vanligt dessa ska inte<br>berörda<br>lagras i<br>intressenter och<br>verksamhets-<br>kommunen)<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning inom<br>ramen för intern<br>kontroll. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Felaktig Hanteras inom<br>3. Kännbar<br>hantering i ramen för den<br>(uppfattas som<br>enskilda ärenden kommunövergripa<br>besvärande för<br>på grund av 2. Mindre vanligt nde risken om<br>berörda<br>förfalskade välfärdsbrottslighet<br>intressenter och<br>dokument eller och korruption<br>kommunen)<br>bluffsamtal |
-|  | Kommun- Inte prioriterad<br>övergripande kommuncentralt.<br>risk: 3. Kännbar Kommentar:<br>informations- (uppfattas som "Arbetet med<br>säkerhet; skydd besvärande för informationssäkerh<br>2. Mindre vanligt<br>av information berörda et följer<br>mot obehörig intressenter och gemensamma<br>tillgång kommunen) styrdokument med<br>uppföljning i egen<br>process.” |
-|  | Kommun- Inte prioriterad<br>övergripande kommuncentralt:<br>risk: It-säkerhet - 3. Kännbar Kommentar: "Tas<br>Bristande (uppfattas som omhand genom<br>driftmiljö hos besvärande för inköpsprocessen/<br>2. Mindre vanligt<br>leverantörer berörda leverantörsuppföljn<br>intressenter och ing. Även<br>kommunen) uppföljning genom<br>systemförvaltarmo<br>dellen." |
-|  | Kommun- Inte prioriterad<br>övergripande kommuncentralt.<br>risk: Risk att Kommentar:<br>samhälls- "Hanteras genom<br>utbyggnad inte Samhällsbyggnads<br>kan ske i ledning<br>planerad takt. Ny (Samhällsbyggnad<br>infrastruktur och sprocessen) där vi<br>exploatering och kommer att arbeta<br>projekt för 3. Kännbar med ”Obruten<br>underhåll/ (uppfattas som digital<br>utbyggnad av besvärande för samhällsbyggnads<br>2. Mindre vanligt<br>befintlig berörda process” samt<br>infrastruktur är intressenter och ”Utbyggnadsplan”.<br>beroende av kommunen) I<br>varandra Samhällsbyggnads<br>(resurser och ledning finns flera<br>samplanering). förvaltningar<br>representerade<br>(Teknik, Service,<br>Bygg o Miljö,<br>Kultur o Fritid samt<br>KSF genom SBK<br>och Ekonomi." |
-| Kategorier<br>Verksamhet | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för Hanteras inom<br>påtryckningar 3. Kännbar ramen för den<br>utifrån / otillbörlig (uppfattas som kommun-<br>påverkan på besvärande för övergripande<br>3. Vanligt<br>personal och berörda risken om<br>beslutsfattare intressenter och korruption och<br>kommunen) välfärdsbrottslighet<br>. |
-|  | Hantering av Hanteras inom<br>personuppgifter ramen för ordinarie<br>sker inte korrekt informations-<br>säkerhetsarbete.<br>Förvaltningen har<br>2. Lindrig<br>ett fungerande<br>(uppfattas som<br>dataskyddsarbete<br>3. Vanligt liten av berörda<br>där<br>intressenter och<br>personuppgifts-<br>kommunen)<br>incidenter<br>rapporteras till<br>nämnderna. Inte<br>prioriterat för<br>granskning 2026. |
-|  | Risk att fel i Hanteras inom<br>statistikrapporter ramen för ordinarie<br>3. Kännbar<br>leder till sämre verksamhets-<br>(uppfattas som<br>eller felaktiga uppföljning och<br>besvärande för<br>beslut 2. Mindre vanligt systemförvaltning.<br>berörda<br>Rutiner finns och<br>intressenter och<br>fungerar, inte<br>kommunen)<br>prioriterat för<br>granskning 2026. |
-|  | Risk att Risken hanteras<br>verksamhets- 3. Kännbar inom ramen för<br>utveckling och (uppfattas som ordinarie budget<br>innovation besvärande för och<br>3. Vanligt<br>nedprioriteras på berörda uppföljningsarbete.<br>grund av intressenter och inte prioriterat för<br>bristande kommunen) granskning 2026.<br>resurser |
-|  | Kommunövergrip Inte prioriterad<br>ande risk: kommuncentralt.<br>3. Kännbar<br>Dämpad Kommentar: "Tas<br>(uppfattas som<br>befolknings- omhand genom<br>besvärande för<br>tillväxt med 2. Mindre vanligt budgetprocessen<br>berörda<br>långsiktig och lokalplanen."<br>intressenter och<br>påverkan på<br>kommunen)<br>kommunala<br>verksamheter |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Kommunövergrip<br>ande risk:<br>Efterlevnad till<br>rekryteringsproce<br>ssen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad<br>kommuncentralt.<br>Kommentar:<br>"Efterlevnad till<br>gällande rutiner<br>har följts upp<br>under några år och<br>visar på gott<br>resultat. Åtgärder<br>(information och<br>utbildning) har<br>vidtagits vid behov.<br>Följs<br>fortsättningsvis<br>upp på annat sätt."<br>Bygg- och<br>miljöförvaltningen<br>har haft goda<br>resultat vid tidigare<br>granskningar<br>därför tas denna<br>risk inte till plan<br>2026.<br>Ingår under<br>paraplyt<br>välfärdsbrottslighet<br>2026 |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Omhändertas inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning.<br>Granskning av<br>kontering görs<br>löpande under<br>året. |
+|  |  | Risk för fel vid<br>hantering av<br>kundfakturor | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Granskning av<br>kommun-<br>gemensam risk<br>"Debiteringsrutiner<br>" har genomförts<br>under 2022–2023<br>med goda resultat.<br>risken hanteras<br>inom ordinarie<br>uppföljnings-<br>process. Inte<br>prioriterat för<br>granskning 2026. |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Risk att<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. | 2. Mindre vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Denna risk<br>hanteras inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete<br>på förvaltningen.<br>Inte prioriterat för<br>granskning inom<br>ramen för intern<br>kontroll. |
+|  |  | Risk för<br>oplanerade<br>driftstopp eller<br>krasch av<br>verksamhetssyst<br>em | 2. Mindre vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Denna risk<br>hanteras inom<br>ramen för<br>förvaltningens<br>ordinarie<br>säkerhetsarbete.<br>Inte prioriterat för<br>granskning inom<br>ramen för intern<br>kontroll. |
+|  |  | Risk för intrång,<br>obehörig åtkomst<br>eller avslöjad<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Denna risk tas<br>omhand inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete.<br>Det finns rutiner för<br>hantering av<br>lösenord och<br>aktuella rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i<br>verksamhets-<br>system. Kommun-<br>övergripande<br>webbaserade<br>säkerhetsutbildnin<br>gar har genomförts<br>av alla personal.<br>Inte prioriterat för<br>granskning inom<br>ramen för intern<br>kontroll. |
+|  |  | Felaktig<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras inom<br>ramen för den<br>kommunövergripa<br>nde risken om<br>välfärdsbrottslighet<br>och korruption |
+|  |  | Kommun-<br>övergripande<br>risk:<br>informations-<br>säkerhet; skydd<br>av information<br>mot obehörig<br>tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad<br>kommuncentralt.<br>Kommentar:<br>"Arbetet med<br>informationssäkerh<br>et följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen<br>process.” |
+|  |  | Kommun-<br>övergripande<br>risk: It-säkerhet -<br>Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad<br>kommuncentralt:<br>Kommentar: "Tas<br>omhand genom<br>inköpsprocessen/<br>leverantörsuppföljn<br>ing. Även<br>uppföljning genom<br>systemförvaltarmo<br>dellen." |
+|  |  | Kommun-<br>övergripande<br>risk: Risk att<br>samhälls-<br>utbyggnad inte<br>kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/<br>utbyggnad av<br>befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad<br>kommuncentralt.<br>Kommentar:<br>"Hanteras genom<br>Samhällsbyggnads<br>ledning<br>(Samhällsbyggnad<br>sprocessen) där vi<br>kommer att arbeta<br>med ”Obruten<br>digital<br>samhällsbyggnads<br>process” samt<br>”Utbyggnadsplan”.<br>I<br>Samhällsbyggnads<br>ledning finns flera<br>förvaltningar<br>representerade<br>(Teknik, Service,<br>Bygg o Miljö,<br>Kultur o Fritid samt<br>KSF genom SBK<br>och Ekonomi." |
+| Verksamhet |  | Risk för<br>påtryckningar<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras inom<br>ramen för den<br>kommun-<br>övergripande<br>risken om<br>korruption och<br>välfärdsbrottslighet<br>. |
+|  |  | Hantering av<br>personuppgifter<br>sker inte korrekt | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Hanteras inom<br>ramen för ordinarie<br>informations-<br>säkerhetsarbete.<br>Förvaltningen har<br>ett fungerande<br>dataskyddsarbete<br>där<br>personuppgifts-<br>incidenter<br>rapporteras till<br>nämnderna. Inte<br>prioriterat för<br>granskning 2026. |
+|  |  | Risk att fel i<br>statistikrapporter<br>leder till sämre<br>eller felaktiga<br>beslut | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras inom<br>ramen för ordinarie<br>verksamhets-<br>uppföljning och<br>systemförvaltning.<br>Rutiner finns och<br>fungerar, inte<br>prioriterat för<br>granskning 2026. |
+|  |  | Risk att<br>verksamhets-<br>utveckling och<br>innovation<br>nedprioriteras på<br>grund av<br>bristande<br>resurser | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken hanteras<br>inom ramen för<br>ordinarie budget<br>och<br>uppföljningsarbete.<br>inte prioriterat för<br>granskning 2026. |
+|  |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolknings-<br>tillväxt med<br>långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad<br>kommuncentralt.<br>Kommentar: "Tas<br>omhand genom<br>budgetprocessen<br>och lokalplanen." |
 
 <!-- sida 13 -->
 

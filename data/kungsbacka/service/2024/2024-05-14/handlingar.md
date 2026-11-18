@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3391494/1715764429777
 sha256: 03e8f30437280eb85a8c98aaee1fce297b93265096b1a2fdb6217bbc698fcd36
 bytes: 2290741
 sidor: 37
-hamtad: 2026-11-08T12:10:58+00:00
-konverterad: 2026-11-08T12:11:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T02:35:03+00:00
+konverterad: 2026-11-18T02:35:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [10]
 tolkade: []
@@ -732,26 +732,12 @@ apriluppföljning, delårsrapport och årsredovisning.
 
 3.1.1 Bemötande och tillgänglighet
 
-Nyckeltal                Jan        Feb       Mars    Kommentar
-
-Partnerskapsgrad
-\- Antal utvecklingsinitiativ och
-6       .
-samarbetsprojekt som har genomförts
-med direkt nytta för våra partners.
-Partnerskapsgrad
-\- Andel idéer eller innovativa lösningar
-1
-som har utvecklats
-tillsammans med partners.
-Partnerskapskvalitet
-\- Upplevelse av nöjdhet i                     84%
-partnerskapet.
 Partnerskapsgrad
 Partnerskapsgrad är ett mått på hur många av våra utvecklingsinitiativ och samarbetsprojekt som har genomförts
 med direkt nytta för våra partners. I den första mätningen har detta värde nått 6. Detta positiva resultat visar på
 lyhördhet och samarbete och bekräftar att vi är på rätt väg när det gäller att skapa värde för både vår
 organisation och våra partners.
+
 Andel utvecklade idéer eller innovativa lösningar
 När det gäller andelen idéer eller innovativa lösningar som har utvecklats tillsammans med partner, står detta
 värde för närvarande på 1. Även om detta innebär att få nya idéer har realiserats under perioden, är vi måna om
@@ -759,6 +745,14 @@ att detta skall öka. Vi ser fram emot att arbeta närmare våra partners för a
 nya idéer som kan leda till gemensam framgång.
 
 10
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+|  | Nyckeltal | Jan | Feb | Mars | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  | Partnerskapsgrad<br>- Antal utvecklingsinitiativ och<br>samarbetsprojekt som har genomförts<br>med direkt nytta för våra partners. |  |  | 6 | . |
+|  | Partnerskapsgrad<br>- Andel idéer eller innovativa lösningar<br>som har utvecklats<br>tillsammans med partners. |  |  | 1 |  |
+|  | Partnerskapskvalitet<br>- Upplevelse av nöjdhet i<br>partnerskapet. |  |  | 84% |  |
 
 <!-- sida 20 -->
 
@@ -777,86 +771,30 @@ direkt påverkan på de vi samarbetar med och att vi inkluderar deras fokus i v�
 3.2 Mer för pengarna
 
 3.2.1 Resurshållning och förutsägbarhet
-Nyckeltal        Jan       Feb         Mars     Kommentar
 
-Personalkostnad dividerat
-med förvaltad (egen och
-Fastigheter, R12
-inhyrd) kvm yta de senaste
-\- Personalkostnad per 10,9 kr/kvm 10,9 kr/kvm 11 kr/kvm
-12 månaderna. Små
-kvadratmeter (kvm)
-förändringar det första
-kvartalet.
-Den korta mätserien
-Måltider, R12
-indikerar att verksamheten
-\- Personalkostnadens       58,5%       58,3%
-rör sig i rätt riktning
-andel av omsättningen
-avseende nyckeltalet.
-Mer frånvaro i februari än
-Lokalvård, månadsvärde                          en normalmånad gav
-\- Personalkostnad per 18,6 kr/kvm 18,2 kr/kvm 18,7 kr/kvm tillfälligt en lägre kostnad
-kvadratmeter (kvm)                              per kvm vilket är vanligt för
-den månaden.
-Teamet har de senaste två
-Lokalförsörjning,
-månaderna varit tvungna
-månadsvärde –
-60%       56%         54%      att prioritera projekt och
-Debiterad tid av totalt
-utredningar som inte är
-arbetad tid
-debiterbara.
-Än så länge enbart möjligt
-PF&KS, månadsvärde –
-att mäta för enheterna Kba
-genomsnittlig
-88 kr/ärende 85 kr/ärende 85 kr/ärende samt Service Direkt. Arbete
-personalkostnad per
-pågår för att addera fler
-ärende
-enheter.
-Inköp, månadsvärde –                            Inga större
-inköp med avtalad                               månadsavvikelser, behövs
-91%       90%         92%
-leverantör i procent av                         en längre mätserie för att
-totala antalet inköp                            bättre tolka trenden.
-Korta mätserien indikerar
-Inköp, månadsvärde –
-en positiv trend och blir
-antal fakturor med
-85,4%     85%         86,3%    intressant att följa upp om
-automatiskt flöde av
-det fortsatt vid nästa
-totala antalet fakturor
-rapportering.
 11
+
+[Tabell 20-21-1](handlingar.tabeller/20-21-1.csv)
+
+|  | Nyckeltal | Jan | Feb | Mars | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  | Fastigheter, R12<br>- Personalkostnad per<br>kvadratmeter (kvm) | 10,9 kr/kvm | 10,9 kr/kvm | 11 kr/kvm | Personalkostnad dividerat<br>med förvaltad (egen och<br>inhyrd) kvm yta de senaste<br>12 månaderna. Små<br>förändringar det första<br>kvartalet. |
+|  | Måltider, R12<br>- Personalkostnadens<br>andel av omsättningen |  | 58,5% | 58,3% | Den korta mätserien<br>indikerar att verksamheten<br>rör sig i rätt riktning<br>avseende nyckeltalet. |
+|  | Lokalvård, månadsvärde<br>- Personalkostnad per<br>kvadratmeter (kvm) | 18,6 kr/kvm | 18,2 kr/kvm | 18,7 kr/kvm | Mer frånvaro i februari än<br>en normalmånad gav<br>tillfälligt en lägre kostnad<br>per kvm vilket är vanligt för<br>den månaden. |
+|  | Lokalförsörjning,<br>månadsvärde –<br>Debiterad tid av totalt<br>arbetad tid | 60% | 56% | 54% | Teamet har de senaste två<br>månaderna varit tvungna<br>att prioritera projekt och<br>utredningar som inte är<br>debiterbara. |
+|  | PF&KS, månadsvärde –<br>genomsnittlig<br>personalkostnad per<br>ärende | 88 kr/ärende | 85 kr/ärende | 85 kr/ärende | Än så länge enbart möjligt<br>att mäta för enheterna Kba<br>samt Service Direkt. Arbete<br>pågår för att addera fler<br>enheter. |
+|  | Inköp, månadsvärde –<br>inköp med avtalad<br>leverantör i procent av<br>totala antalet inköp | 91% | 90% | 92% | Inga större<br>månadsavvikelser, behövs<br>en längre mätserie för att<br>bättre tolka trenden. |
+|  | Inköp, månadsvärde –<br>antal fakturor med<br>automatiskt flöde av<br>totala antalet fakturor | 85,4% | 85% | 86,3% | Korta mätserien indikerar<br>en positiv trend och blir<br>intressant att följa upp om<br>det fortsatt vid nästa<br>rapportering. |
+|  | Digitalt Center, R12 –<br>Personalkostnad i<br>förhållande till<br>omsättning | 50% | 49% | 47% | Förseningar i rekryteringar<br>bidrar till utfallet och det<br>behövs en längre<br>tidshorisont för att kunna<br>tolka nyckeltalet värdefullt. |
+|  | Totala förvaltningen, R12<br>– Personalkostnad i<br>förhållande till total<br>omsättning | 31,8% | 31,1% | 31% | Ett nyckeltal som inkluderar<br>väldigt mycket. Utfallen<br>indikerar en positiv trend<br>men större slutsatser kan<br>inte göras med så kort<br>mätserie. |
 
 <!-- sida 21 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2024
 
-Nyckeltal        Jan       Feb         Mars     Kommentar
-Förseningar i rekryteringar
-Digitalt Center, R12 –
-bidrar till utfallet och det
-Personalkostnad i
-50%       49%         47%      behövs en längre
-förhållande till
-tidshorisont för att kunna
-omsättning
-tolka nyckeltalet värdefullt.
-Ett nyckeltal som inkluderar
-Totala förvaltningen, R12                       väldigt mycket. Utfallen
-– Personalkostnad i                             indikerar en positiv trend
-31,8%     31,1%       31%
-förhållande till total                          men större slutsatser kan
-omsättning                                      inte göras med så kort
-mätserie.
 Mätvärden
+
 Nyckeltalen mäts på två olika sätt. En del av nyckeltalen mäts med ett unikt månadsvärde vilket innebär att
 värdet återger utfallet enbart för den enskilda månaden. För vissa nyckeltal har vi en längre mätserie och för
 dessa kan vi rapportera med ett mått som kallas för rullande tolvmånadsperiod, vilket i tabellen förkortas med
@@ -866,7 +804,9 @@ Tabellen anger de första mätvärdena och utgör därmed en slags baslinje för
 för respektive nyckeltal kommer kunna kommenteras mer ingående. Samtliga verksamheter inom förvaltningen
 för Service har ett nyckeltal inom fokusområdet, undantaget Inköpsverksamheten som har två. Därutöver mäts
 även hela förvaltningen på ett nyckeltal där totala personalkostnad i förhållande till omsättningen beräknas.
+
 Om fokusområdet
+
 Tillsammans med våra systerförvaltningar bidrar vi till att kommunen är effektiv och attraktiv för de vi ytterst är
 till för – invånare, företag, föreningar och besökare. Service tar ett samlat grepp för att på bästa sätt hushålla
 med kommunens resurser och skapa kostnadseffektiva och hållbara tjänster. Vi ska arbeta aktivt med att hitta
@@ -877,85 +817,33 @@ benämningen 'Mer för pengarna' som är ett av förvaltningens fokusområden oc
 leveranserna ska öka med bibehållna eller mindre resurser. Ibland beskrivs den här utmaningen som att de
 framtida leveranserna skall öka till 125 procent men enbart med en 75 procentig resursinsats jämfört med
 nuläget.
+
 3.3 Engagerade medarbetare
+
 3.3.1 Engagerade medarbetare
 
-Nyckeltal          Jan     Feb       Mars      Kommentar
-Sjukfrånvaro
-Den totala sjukfrånvaron
-(Andel sjukfrånvarotimmar
-7,48%     uppgår till 7,48% jämfört med
-av den totala arbetade tiden
-7,17% 2023.
-i procent.)
-
 12
+
+[Tabell 21-23-1](handlingar.tabeller/21-23-1.csv)
+
+|  | Nyckeltal | Jan | Feb | Mars | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  | Sjukfrånvaro<br>(Andel sjukfrånvarotimmar<br>av den totala arbetade tiden<br>i procent.) |  |  | 7,48% | Den totala sjukfrånvaron<br>uppgår till 7,48% jämfört med<br>7,17% 2023. |
+|  | Personalomsättning<br>(Antalet tillsvidareanställda<br>medarbetare på Service<br>som avslutat sin anställning<br>i kommunen de senaste 12<br>månaderna. Delat med<br>genomsnittligt antal<br>tillsvidareanställda.) |  |  | 6,21% | Personalomsättningen<br>uppgick till 6,21% i mars<br>2024 jämfört mars 2023 då<br>personalomsättningen var<br>8,36%. |
+|  | Antal<br>kombinationsanställningar |  |  | 36 | Antalet<br>kombinationsanställningar i<br>mars är 36 stycken, 3 på<br>Lokalvård och 33 på Måltider. |
+|  | Andel praktikanter i<br>förhållande till ordinarie<br>bemanning |  |  | 5% | Andelen praktikanter i<br>förhållande till ordinarie<br>bemanning från januari till<br>och med mars är 5 % vilket<br>är en ökning jämfört med<br>2023 då andelen var 3%. |
+|  | Rekommendationsvilja<br>(Andel procent som svarar<br>att de skulle rekommendera<br>Kungsbacka kommun<br>(Ambassadörer), minus de<br>som gett en låg poäng på<br>frågan (Kritiker). Resultatet<br>blir ett värde mellan -100<br>och 100.) |  |  | -11 | Utfallet första kvartalet är<br>- 11. Värdet har minskat<br>sedan januari 2024 då<br>rekommendationsviljan var<br>-8. |
+|  | Medarbetarengagemang<br>(Ett frågeområde i<br>kommunens<br>pulsmätningsverktyg.<br>Maxvärde är 10.) |  |  | 7,4 | Medarbetarengagemangetup<br>pmäts till 7,4 av en 10-gradig<br>skala under första kvartalet. |
+|  | Antal riskobservationer |  |  | 5 | 5 riskobservationer har<br>rapporterats under första<br>kvartalet vilket är en ökning<br>jämfört med samma period<br>2023 då 3 riskobservationer<br>rapporterades. |
+|  | Antal tillbud |  |  | 14 | 14 tillbud har rapporterats<br>under första kvartalet vilket är<br>en minskning jämfört med<br>samma period 2023 då 20<br>tillbud rapporterades. |
+|  | Antal olycksfall |  |  | 39 | 39 olycksfall har rapporterats<br>under första kvartalet vilket är<br>en marginell ökning jämfört<br>med samma period 2023 då<br>37 olycksfall rapporterades. |
+|  | Andel medarbetare som<br>arbetar heltid |  |  | 88% | Andelen medarbetare som<br>har heltid uppgår till 88,36%<br>under mars 2024. Det är en<br>marginell ökning jämfört med<br>mars 2023 då vi andelen var<br>87,77% |
 
 <!-- sida 22 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2024
 
-Nyckeltal          Jan     Feb       Mars      Kommentar
-Personalomsättning
-(Antalet tillsvidareanställda
-Personalomsättningen
-medarbetare på Service
-uppgick till 6,21% i mars
-som avslutat sin anställning
-6,21%     2024 jämfört mars 2023 då
-i kommunen de senaste 12
-personalomsättningen var
-månaderna. Delat med
-8,36%.
-genomsnittligt antal
-tillsvidareanställda.)
-Antalet
-Antal                                          kombinationsanställningar i
-kombinationsanställningar
-36
-mars är 36 stycken, 3 på
-Lokalvård och 33 på Måltider.
-Andelen praktikanter i
-förhållande till ordinarie
-Andel praktikanter i
-bemanning från januari till
-förhållande till ordinarie           5%
-och med mars är 5 % vilket
-bemanning
-är en ökning jämfört med
-2023 då andelen var 3%.
-Rekommendationsvilja
-(Andel procent som svarar
-att de skulle rekommendera                     Utfallet första kvartalet är
-Kungsbacka kommun                              - 11. Värdet har minskat
-(Ambassadörer), minus de             -11       sedan januari 2024 då
-som gett en låg poäng på                       rekommendationsviljan var
-frågan (Kritiker). Resultatet                   -8.
-blir ett värde mellan -100
-och 100.)
-Medarbetarengagemang
-(Ett frågeområde i                             Medarbetarengagemangetup
-kommunens                            7,4       pmäts till 7,4 av en 10-gradig
-pulsmätningsverktyg.                           skala under första kvartalet.
-Maxvärde är 10.)
-5 riskobservationer har
-rapporterats under första
-kvartalet vilket är en ökning
-Antal riskobservationer              5
-jämfört med samma period
-2023 då 3 riskobservationer
-rapporterades.
-14 tillbud har rapporterats
-under första kvartalet vilket är
-Antal tillbud                        14        en minskning jämfört med
-samma period 2023 då 20
-tillbud rapporterades.
-39 olycksfall har rapporterats
-under första kvartalet vilket är
-Antal olycksfall                     39        en marginell ökning jämfört
-med samma period 2023 då
-37 olycksfall rapporterades.
 13
 
 <!-- sida 23 -->
@@ -963,15 +851,6 @@ med samma period 2023 då
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2024
 
-Nyckeltal          Jan     Feb       Mars      Kommentar
-Andelen medarbetare som
-har heltid uppgår till 88,36%
-Andel medarbetare som                          under mars 2024. Det är en
-arbetar heltid
-88%
-marginell ökning jämfört med
-mars 2023 då vi andelen var
-87,77%
 Inom fokusområdet Engagerade medarbetare arbetar vi aktivt för att Services verksamheter ska vara
 medarbetardrivna i högre grad. Varje medarbetares engagemang ska tas tillvara och genom delaktighet vill vi
 skapa en god arbetsmiljö tillsammans. Med satsningen på ett utvecklande medarbetarskap vill vi skapa
@@ -984,85 +863,32 @@ kompetens- och utvecklingsmöjligheter.
 
 3.4.1 Minska miljöpåverkan
 
-Nyckeltal      Jan         Feb         Mars    Kommentar
-Antal kilo koldioxidutsläpp
-Koldioxidutsläpp per
-per kilo inköpta livsmedel.
-kilo inköpta livsmedel 1,68 CO2 1,7 CO2 2,2 CO2
-Mål 1,6 2024, mål 1.0 på
-(Måltider)
-längre sikt.
-Målsättningen är att till 2030
-Totalt matsvinn per
-41g         40g         38g     nå ett maximalt svinn på 30
-portion
-gram per serverat huvudmål.
-Andel % av material i våra
-Miljömedvetna
-byggnadsinvesteringar som
-materialval    81,8%                   82%
-uppfyller krav A-B enligt
-(Lokalförsörjning)
-Sunda hus.
-Ackumulerad inköpt el per
-kvm egenägd yta 2024
-Elanvändning i                                 jämfört med Ackumulerad
-kommunens lokaler i                            inköpt el per kvm egenägd
-jämförelse med förra
-7%          5%
-yta 2023. Den samlade
-året.                                          elanvändningen skall sjunka
-med 2% årligen (förbrukning
-per kvm).
-
 14
+
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
+
+|  | Nyckeltal | Jan | Feb | Mars | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  | Koldioxidutsläpp per<br>kilo inköpta livsmedel<br>(Måltider) | 1,68 CO2 | 1,7 CO2 | 2,2 CO2 | Antal kilo koldioxidutsläpp<br>per kilo inköpta livsmedel.<br>Mål 1,6 2024, mål 1.0 på<br>längre sikt. |
+|  | Totalt matsvinn per<br>portion | 41g | 40g | 38g | Målsättningen är att till 2030<br>nå ett maximalt svinn på 30<br>gram per serverat huvudmål. |
+|  | Miljömedvetna<br>materialval<br>(Lokalförsörjning) | 81,8% |  | 82% | Andel % av material i våra<br>byggnadsinvesteringar som<br>uppfyller krav A-B enligt<br>Sunda hus. |
+|  | Elanvändning i<br>kommunens lokaler i<br>jämförelse med förra<br>året. |  | 7% | 5% | Ackumulerad inköpt el per<br>kvm egenägd yta 2024<br>jämfört med Ackumulerad<br>inköpt el per kvm egenägd<br>yta 2023. Den samlade<br>elanvändningen skall sjunka<br>med 2% årligen (förbrukning<br>per kvm). |
+|  | Solcellsproduktion<br>- Installerad effekt | 3 754kw | 3 754kw | 3 754kw | Årligt mål om 300 kW<br>nyinstallerad effekt solceller.<br>(Totalt installerad effekt vid<br>årets slut 4054kW).<br>Totalt mål 2024-2027 är 1200<br>kW nyinstallerad effekt<br>solceller. Plan för att nå<br>årliga målet är framtaget och<br>förväntas uppnås innan årets<br>slut. |
+|  | Fossiloberoende<br>fordon (Fastigheter) | 71% | 72% | 72% | Kungsbacka kommuns<br>fordon och arbetsmaskiner<br>ska vid nyanskaffning drivas<br>med fossilfritt bränsle för att<br>uppnå klimatneutralitet enligt<br>de nationella klimatmålen. |
+|  | Miljömedvetna inköp |  |  |  | Mätningsmetod är ännu inte<br>på plats, då vi inte har<br>möjlighet att hantera detta<br>manuellt. Lösningen är<br>designad och kommer kunna<br>följas upp i Power BI. |
+|  | Miljömedvetna<br>materialval<br>(Fastigheter) | 0% | 0% | 0% | Andel % av material i vårt<br>fastighetsunderhåll<br>(investeringar) som uppfyller<br>krav A-B enligt Sunda hus.<br>Svårigheter att implementera<br>och följa upp efterlevnad på<br>mindre investeringar.<br>Utbildning och samordnings-<br>insatser pågår. |
 
 <!-- sida 24 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2024
 
-Nyckeltal      Jan         Feb         Mars    Kommentar
-Årligt mål om 300 kW
-nyinstallerad effekt solceller.
-(Totalt installerad effekt vid
-årets slut 4054kW).
-Solcellsproduktion
-3 754kw     3 754kw     3 754kw Totalt mål 2024-2027 är 1200
-\- Installerad effekt
-kW nyinstallerad effekt
-solceller. Plan för att nå
-årliga målet är framtaget och
-förväntas uppnås innan årets
-slut.
-Kungsbacka kommuns
-fordon och arbetsmaskiner
-Fossiloberoende                                ska vid nyanskaffning drivas
-71%         72%         72%
-fordon (Fastigheter)                           med fossilfritt bränsle för att
-uppnå klimatneutralitet enligt
-de nationella klimatmålen.
-Mätningsmetod är ännu inte
-på plats, då vi inte har
-möjlighet att hantera detta
-Miljömedvetna inköp
-manuellt. Lösningen är
-designad och kommer kunna
-följas upp i Power BI.
-Andel % av material i vårt
-fastighetsunderhåll
-(investeringar) som uppfyller
-Miljömedvetna                                  krav A-B enligt Sunda hus.
-materialval    0%          0%          0%      Svårigheter att implementera
-(Fastigheter)                                  och följa upp efterlevnad på
-mindre investeringar.
-Utbildning och samordnings-
-insatser pågår.
 Nyckeltalen är ett urval som representerar en del av det bredare arbetet som pågår för att förbättra och förflytta
 Service mot en än mer hållbar framtid. Urvalet är de mer övergripande mått som används för att följa upp
 förvaltningens arbete kring minskad miljöpåverkan.
 Service strävar kontinuerligt efter att optimera användningen av kommunens resurser och minimera
 miljöpåverkan genom väl avvägda val som balanserar funktion, kvalitet och ekonomi.
+
 Genom att ta ett aktivt ansvar inom våra verksamhetsområden, bidrar Service inte bara till kommunens
 hållbarhetsmål, utan också till en större global hållbarhet. Detta ansvar och engagemang reflekteras i de utvalda
 nyckeltalen som presenteras, vilka illustrerar Services framsteg, utmaningar och pågående arbete inom området.
@@ -1078,16 +904,6 @@ Uppföljning och prognos april 2024
 
 3.5.1 Tillsammans med andra, förbättringar
 
-Nyckeltal     Jan          Feb          Mars          Kommentar
-Innovation
-3            9            0
-(antal idéer)
-Innovation
-0            0            0
-(testade idéer)
-Innovation
-(andel lanserade 0         0            0
-lösningar)
 Förvaltningen för Service har skapat nya arbetssätt för att identifiera idéer, fånga möjligheter och lösa
 utmaningar. En plattform för innovationsarbete och förnyelse av verksamheten är skapad i form av en e-tjänst
 där medarbetare kan lämna idéer och vid sidan av den finns öppna idécaféer på temat innovation. Arbetssätten
@@ -1096,6 +912,14 @@ har testats som en pilot för tre av verksamheterna sedan i november 2023 och fr
 de senare faserna i innovationsarbetet.
 
 16
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+|  | Nyckeltal | Jan | Feb | Mars | Kommentar |
+| --- | --- | --- | --- | --- | --- |
+|  | Innovation<br>(antal idéer) | 3 | 9 | 0 |  |
+|  | Innovation<br>(testade idéer) | 0 | 0 | 0 |  |
+|  | Innovation<br>(andel lanserade<br>lösningar) | 0 | 0 | 0 |  |
 
 <!-- sida 26 -->
 

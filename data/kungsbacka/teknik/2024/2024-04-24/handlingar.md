@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e913d1e/1713531349
 sha256: ad8a95adb634a217fa3515277fb16042343b58ed224e6f09c2c7f754f462cbc3
 bytes: 31102782
 sidor: 402
-hamtad: 2026-11-08T10:42:36+00:00
-konverterad: 2026-11-08T10:46:07+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:15:31+00:00
+konverterad: 2026-11-18T01:18:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: [32, 37, 38, 39, 40, 41, 42, 43, 44, 48, 84, 85, 86, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 371, 372, 373, 374, 379, 380, 381, 382, 383, 384, 385, 386, 390, 395]
 figurer: [1, 26, 28, 30, 33, 37, 38, 40, 41, 42, 43, 44, 45, 49, 50, 54, 55, 56, 57, 58, 59, 61, 66, 67, 68, 69, 70, 72, 84, 85, 86, 89, 102, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 142, 163, 198, 199, 203, 204, 212, 213, 218, 223, 224, 262, 263, 282, 290, 295, 300, 326, 327, 330, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 347, 351, 353]
 tolkade: []
@@ -5606,7 +5606,6 @@ byggas eller ej.
 
 Tabell 0.1 Sammanställning av de viktigaste parametrarna i design av utbyggnadskoncepten för rening av
 mikroföroreningar.
-Parametrar         Enhet                Ozon + GAK-filter
 
 Slamhantering (rötningsalternativet)
 Primärslamuttag från försedimentering samt slam från högflödesrening tillförs råslamlager.
@@ -5618,8 +5617,9 @@ antas spädas till cirka 5% TS.
 
 [Tabell 141-1](handlingar.tabeller/141-1.csv)
 
-| Uppehållstid vid Q<br>dim | min | 15 |
+| Parametrar | Enhet | Ozon + GAK-filter |
 | --- | --- | --- |
+| Uppehållstid vid Q<br>dim | min | 15 |
 | Vattennivå | m | 5 |
 | Ozonbehov vid Q<br>adwf | kg O /d<br>3 | 85 |
 | Ozonbehov vid Q<br>dim | kg O /d<br>3 | 289 |
@@ -5641,6 +5641,12 @@ Massflöden av slam till slambehandlingen som använts för utvärderingen.
 Från        Från
 Från yttre verk Summerat
 försedimentering överskottslam
+Medelslammängder kg TS/d 3414 2672     1370      7457
+för beräkningar år
+2050
+Medelslammängder kg TS/d 2615 2047     1370      6033
+för beräkningar år
+2037
 
 Summerat ger detta en årsmängd på 2722 ton TS per år som runt 2050 skall genomgå
 slambehandling. Som grund i jämförelsen antas att slammängderna från de andra
@@ -5656,12 +5662,6 @@ har gjorts och bedömts rimligt i detta skede.
 | Kg TS/d | 2615 | 3414 | 2047 | 2672 | 1370 | 1370 | 6032 | 7457 |
 | Antagen TS-halt<br>(%) | 2,25 | 2,25 | 1 | 1 | 5 | 5 | 0,94 | 0,94 |
 | m³/d | 116 | 152 | 205 | 267 | 27,7 | 27,4 | 348 | 446 |
-
-[Tabell 142-2](handlingar.tabeller/142-2.csv)
-
-| Medelslammängder<br>för beräkningar år<br>2050 | kg TS/d | 3414 | 2672 | 1370 | 7457 |
-| --- | --- | --- | --- | --- | --- |
-| Medelslammängder<br>för beräkningar år<br>2037 | kg TS/d | 2615 | 2047 | 1370 | 6033 |
 
 <!-- sida 143 -->
 
@@ -6207,6 +6207,17 @@ konstateras utifrån resultatet.
 
 Tabell 5. Poängsättning för övergripande osäkerheter i investeringskalkyl för processalternativ CAS.
 
+CAS
+Sannolikhet Konsekvens Osäkerhet Kommentarer
+Fas 2 kostnad    890 800 169 kr               Bedöms separat
+Rivning utanför investering 1 396 125 kr      Finns bara i ena alternativet,
+bedöms ej.
+Projektering (Fas 1) (5%) 44 540 008 kr 3 1,1 3,4 5 % av investeringskostnad
+Index (2,5% årligen) 69 700 000 kr 4 1,8  7,2 Index antagen till 2,5 % årligen,
+Byggherrekostnader (3%) 30 193 089 kr 3 0,8 2,3 3 % av investeringskostnad
+Aktiva val, osäkerheter (5%) 50 321 815 kr 3 1,3 3,9 5 % av investeringskostnad
+Risker från lista (ca 10%) 92 248 000 kr      Bedöms separat
+
 Summa                                     16,8
 Osäkerhet (utan viktning)                 1,6
 
@@ -6221,21 +6232,17 @@ AGS
 | Komponentnivå | osäkerhet | Kvalitativ | 50 % |
 | Risklistan | osäkerhet | Kvalitativ | 25 % |
 
-[Tabell 156-2](handlingar.tabeller/156-2.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Fas 2 kostnad | 890 800 169 kr |  |  |  | Bedöms separat |
-| Rivning utanför investering | 1 396 125 kr |  |  |  | Finns bara i ena alternativet,<br>bedöms ej. |
-| Projektering (Fas 1) (5%) | 44 540 008 kr | 3 | 1,1 | 3,4 | 5 % av investeringskostnad |
-| Index (2,5% årligen) | 69 700 000 kr | 4 | 1,8 | 7,2 | Index antagen till 2,5 % årligen, |
-| Byggherrekostnader (3%) | 30 193 089 kr | 3 | 0,8 | 2,3 | 3 % av investeringskostnad |
-| Aktiva val, osäkerheter (5%) | 50 321 815 kr | 3 | 1,3 | 3,9 | 5 % av investeringskostnad |
-| Risker från lista (ca 10%) | 92 248 000 kr |  |  |  | Bedöms separat |
-
 <!-- sida 157 -->
 
+Kostnad        Sannolikhet Konsekvens Osäkerhet Kommentarer
+Fas 2 kostnad      814485538 kr              Bedöms separat
+Rivning utanför investering                  Finns bara i ena alternativet, bedöms
+ej.
+Projektering (Fas 1) (5%) 40 724 277 3 1,2 3,5 5 % av investeringskostnad
+Index (2,5% årligen) 60 600 000 4  1,7   6,9 Index antagen till 2,5 % årligen,
+Byggherrekostnader (3%) 27 474 294 3 0,8 2,4 3 % av investeringskostnad
+Aktiva val, osäkerheter (5%) 45 790 491 3 1,3 3,9 5 % av investeringskostnad
+Risker från lista (ca 10%) 86 160 000        Bedöms separat
 Summa              1 075 234 600         16,7
 Osäkerhet (utan viktning)                1,7
 
@@ -6278,27 +6285,42 @@ anläggningar och industrier. Kostnadsbedömningarna påvisar att de antagna sum
 procentsatsena sannolikt är högt kalkylerade. Dock har ingen noggrannare kalkyl för VS, Vent, EL/styr
 utförts då det i nuläget saknas detaljerat kalkylunderlag.
 
-[Tabell 157-1](handlingar.tabeller/157-1.csv)
-
-| Kostnad |  | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| --- | --- | --- | --- | --- | --- |
-| Fas 2 kostnad | 814485538 kr |  |  |  | Bedöms separat |
-| Rivning utanför investering |  |  |  |  | Finns bara i ena alternativet, bedöms<br>ej. |
-| Projektering (Fas 1) (5%) | 40 724 277 | 3 | 1,2 | 3,5 | 5 % av investeringskostnad |
-| Index (2,5% årligen) | 60 600 000 | 4 | 1,7 | 6,9 | Index antagen till 2,5 % årligen, |
-| Byggherrekostnader (3%) | 27 474 294 | 3 | 0,8 | 2,4 | 3 % av investeringskostnad |
-| Aktiva val, osäkerheter (5%) | 45 790 491 | 3 | 1,3 | 3,9 | 5 % av investeringskostnad |
-| Risker från lista (ca 10%) | 86 160 000 |  |  |  | Bedöms separat |
-
 <!-- sida 158 -->
 
 Tabell 7. Poängsättning för komponentfördelade osäkerheter i investeringskalkyl för processalternativ CAS.
-
+CAS
+813 516 136 Sannolikhet Konsekvens Osäkerhet Kommentarer
+Markentreprenör 158 618 312 4  1,0    3,9 Sannolikhet och konsekvens högre pga
+mer markarbete nära järnväg
+Rivningsentreprenör 12 125 000 3 0,1  0,2 Rivning likvärdig i båda alternativen,
+Betongentreprenader 144 620 000 3 0,9 2,7 Mer prefab, mindre osäkerheter i
+utförandet
+Stålstommar,entreprenör 60 200 000 3 0,4 1,1 Ingen skillnad
+Rörentreprenad  18 000 000 4   0,1    0,4 Ingen skillnad
+Ventilationsentreprenad 23 000 000 4 0,1 0,6 Ingen skillnad
+El-entreprenad  90 000 000 4   0,6    2,2 Ingen skillnad
+Process & Maskin 111 952 824 2 0,7    1,4 Ingen skillnad
+Arbetsplatsomkostnader 160 000 000 5 1,0 4,9
+Tillfälliga installationer, 35 000 000 3 0,2 0,6 Ingen skillnad
+provisorier
 Summa            813 516 136          18,1
 Osäkerhet (utan viktning)              1,4
 
 Tabell 8. Poängsättning för komponentfördelade osäkerheter i investeringskalkyl för processalternativ AGS.
+AGS
 
+743822409 Sannolikhet Konsekvens Osäkerhet Kommentarer
+Markentreprenör  123 175 289 3    0,8    2,5
+Rivningsentreprenör 13 400 000 3  0,1    0,3
+Betongentreprenader 121 420 000 4 0,8    3,3
+Stålstommar,entreprenör 57 500 000 3 0,4 1,2 Ingen skillnad
+Rörentreprenad   18 000 000 4     0,1    0,5 Ingen skillnad
+Ventilationsentreprenad 23 000 000 4 0,2 0,6 Ingen skillnad
+El-entreprenad   90 000 000 4     0,6    2,4 Ingen skillnad
+Process & Maskin 117 327 120 2    0,8    1,6 Ingen skillnad
+Arbetsplatsomkostnader 150 000 000 5 1,0 5,0
+Tillfälliga installationer, 30 000 000 3 0,2 0,6 Ingen skillnad
+provisorier
 Summa             743 822 409            17,9
 Osäkerhet (utan viktning)                 1,4
 
@@ -6313,88 +6335,94 @@ subtraheras från 5, som är maxpoäng i processvalsstudiens utvärderingsmodell
 marginellt större osäkerhet för processalternativ CAS. Dock är skillnaderna så små, att ingen säker
 slutsats kan konstateras utifrån resultatet.
 
-[Tabell 158-1](handlingar.tabeller/158-1.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 813 516 136 | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Markentreprenör | 158 618 312 | 4 | 1,0 | 3,9 | Sannolikhet och konsekvens högre pga<br>mer markarbete nära järnväg |
-| Rivningsentreprenör | 12 125 000 | 3 | 0,1 | 0,2 | Rivning likvärdig i båda alternativen, |
-| Betongentreprenader | 144 620 000 | 3 | 0,9 | 2,7 | Mer prefab, mindre osäkerheter i<br>utförandet |
-| Stålstommar,entreprenör | 60 200 000 | 3 | 0,4 | 1,1 | Ingen skillnad |
-| Rörentreprenad | 18 000 000 | 4 | 0,1 | 0,4 | Ingen skillnad |
-| Ventilationsentreprenad | 23 000 000 | 4 | 0,1 | 0,6 | Ingen skillnad |
-| El-entreprenad | 90 000 000 | 4 | 0,6 | 2,2 | Ingen skillnad |
-| Process & Maskin | 111 952 824 | 2 | 0,7 | 1,4 | Ingen skillnad |
-| Arbetsplatsomkostnader | 160 000 000 | 5 | 1,0 | 4,9 |  |
-| Tillfälliga installationer,<br>provisorier | 35 000 000 | 3 | 0,2 | 0,6 | Ingen skillnad |
-
-[Tabell 158-2](handlingar.tabeller/158-2.csv)
-
-| AGS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 743822409 | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Markentreprenör | 123 175 289 | 3 | 0,8 | 2,5 |  |
-| Rivningsentreprenör | 13 400 000 | 3 | 0,1 | 0,3 |  |
-| Betongentreprenader | 121 420 000 | 4 | 0,8 | 3,3 |  |
-| Stålstommar,entreprenör | 57 500 000 | 3 | 0,4 | 1,2 | Ingen skillnad |
-| Rörentreprenad | 18 000 000 | 4 | 0,1 | 0,5 | Ingen skillnad |
-| Ventilationsentreprenad | 23 000 000 | 4 | 0,2 | 0,6 | Ingen skillnad |
-| El-entreprenad | 90 000 000 | 4 | 0,6 | 2,4 | Ingen skillnad |
-| Process & Maskin | 117 327 120 | 2 | 0,8 | 1,6 | Ingen skillnad |
-| Arbetsplatsomkostnader | 150 000 000 | 5 | 1,0 | 5,0 |  |
-| Tillfälliga installationer,<br>provisorier | 30 000 000 | 3 | 0,2 | 0,6 | Ingen skillnad |
-
 <!-- sida 159 -->
 
 Tabell 9. Poängsättning för osäkerheter i risklistan för processalternativ CAS.
+CAS
 
+Beskrivning av Åtgärd / Förtydligande      Sannolikhet Konsekvens Osäkerhet
+riskmoment
+82 248 000
+Åtgärder järnväg Behöver vi sponta längs hela tex? 10 Mkr i 10 000 000 3 0,6 1,8
+kalkyl, 10 Mkr i risk
+Sprängning  Har i budget lagt in hälften av tidigare 13 000 000 3 0,8 2,4
+bedömd kostnad för att spränga allt berg
+inom tomten åt norr. Ingen sprängning ligger
+med i budget för övriga delar av tomten.
+Spontning   Grov uppskattning utifrån nyckeltal med i 4 344 000 3 0,3 0,8
+budget. 20% i risk.
+Pålning     Grov uppskattning utifrån nyckeltal med i 6 904 000 3 0,4 1,3
+budget. 20% i risk.
+Ledningar   Utgått från att ledningar i Envidans underlag 3 500 000 3 0,2 0,6
+är ledningar i mark. Svårt att veta i dagsläget
+vad som kan samförläggas och ej, samt
+schaktdjup och materialkvalitet. 10% risk.
+Innovation  Innovativa val / tillkommande som vi inte vet 8 000 000 3 0,5 1,5
+om idag. 1%
+Hållbarhet  Hållbara val som inte ryms inom satta 8 000 000 3 0,5 1,5
+nyckeltal. 1%
+Byggbarhet  MBR-alternativet är ur denna synvinkel mest 5 000 000 3 0,3 0,9
+komplex då vattnets väg byter riktning.
+AGS-alternativet - finns få referenser i
+Norden.
+CAS-alternativet - trångt inom tomt.
+Processalternativ Risk på process i resp alternativ. 10 000 000 2 0,6 1,2
+Öppna bassänger Ej räknat att bygga in några bassänger där 6 500 000 3 0,4 1,2
+inte Envidan skrivit överbyggnad. Finns det
+risk att tex nya sedimenteringar behöver
+byggas in? Och även bef?
+Ytterligare bassänger Om ytterligare bassänger tillkommer för 5 000 000 3 0,3 0,9
+processalternativ
+Rivning     Budgetpris från entreprenör grovt 2 000 000 3 0,1 0,4
+uppskattad.
 Summa                                                      14,4
 Osäkerhet (utan                                             3,8
 viktning)
 
-[Tabell 159-1](handlingar.tabeller/159-1.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Beskrivning av<br>riskmoment | Åtgärd / Förtydligande | 82 248 000 | Sannolikhet | Konsekvens | Osäkerhet |
-| Åtgärder järnväg | Behöver vi sponta längs hela tex? 10 Mkr i<br>kalkyl, 10 Mkr i risk | 10 000 000 | 3 | 0,6 | 1,8 |
-| Sprängning | Har i budget lagt in hälften av tidigare<br>bedömd kostnad för att spränga allt berg<br>inom tomten åt norr. Ingen sprängning ligger<br>med i budget för övriga delar av tomten. | 13 000 000 | 3 | 0,8 | 2,4 |
-| Spontning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk. | 4 344 000 | 3 | 0,3 | 0,8 |
-| Pålning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk. | 6 904 000 | 3 | 0,4 | 1,3 |
-| Ledningar | Utgått från att ledningar i Envidans underlag<br>är ledningar i mark. Svårt att veta i dagsläget<br>vad som kan samförläggas och ej, samt<br>schaktdjup och materialkvalitet. 10% risk. | 3 500 000 | 3 | 0,2 | 0,6 |
-| Innovation | Innovativa val / tillkommande som vi inte vet<br>om idag. 1% | 8 000 000 | 3 | 0,5 | 1,5 |
-| Hållbarhet | Hållbara val som inte ryms inom satta<br>nyckeltal. 1% | 8 000 000 | 3 | 0,5 | 1,5 |
-| Byggbarhet | MBR-alternativet är ur denna synvinkel mest<br>komplex då vattnets väg byter riktning.<br>AGS-alternativet - finns få referenser i<br>Norden.<br>CAS-alternativet - trångt inom tomt. | 5 000 000 | 3 | 0,3 | 0,9 |
-| Processalternativ | Risk på process i resp alternativ. | 10 000 000 | 2 | 0,6 | 1,2 |
-| Öppna bassänger | Ej räknat att bygga in några bassänger där<br>inte Envidan skrivit överbyggnad. Finns det<br>risk att tex nya sedimenteringar behöver<br>byggas in? Och även bef? | 6 500 000 | 3 | 0,4 | 1,2 |
-| Ytterligare bassänger | Om ytterligare bassänger tillkommer för<br>processalternativ | 5 000 000 | 3 | 0,3 | 0,9 |
-| Rivning | Budgetpris från entreprenör grovt<br>uppskattad. | 2 000 000 | 3 | 0,1 | 0,4 |
-
 <!-- sida 160 -->
 
 Tabell 10. Poängsättning för osäkerheter i risklistan för processalternativ AGS.
+AGS
 
+Beskrivning av riskmoment Åtgärd / Förtydligande Sannolikhet Konsekvens Osäkerhet
+86 160 000
+Åtgärder järnväg Behöver vi sponta längs hela tex? 10 Mkr i 10 000 000 3 0,6 1,7
+kalkyl, 10 Mkr i risk
+Sprängning    Har i budget lagt in hälften av tidigare 13 000 000 3 0,8 2,3
+bedömd kostnad för att spränga allt berg
+inom tomten åt norr. Ingen sprängning
+ligger med i budget för övriga delar av
+tomten.
+Spontning     Grov uppskattning utifrån nyckeltal med i 3 590 000 3 0,2 0,6
+budget. 20% i risk?
+
+Pålning       Grov uppskattning utifrån nyckeltal med i 5 070 000 3 0,3 0,9
+budget. 20% i risk?
+Ledningar     Utgått från att ledningar i Envidans underlag 2 500 000 3 0,1 0,4
+är ledningar i mark. Svårt att veta i dagsläget
+vad som kan samförläggas och ej, samt
+schaktdjup och materialkvalitet. 10% risk.
+Innovation    Innovativa val / tillkommande som vi inte 7 500 000 3 0,4 1,3
+vet om idag. 1%
+
+Hållbarhet    Hållbara val som inte ryms inom satta 7 500 000 3 0,4 1,3
+nyckeltal. 1%
+Byggbarhet    MBR-alternativet är ur denna synvinkel mest 5 000 000 3 0,3 0,9
+komplex då vattnets väg byter riktning.
+AGS-alternativet - finns få referenser i
+Norden.
+CAS-alternativet - trångt inom tomt.
+Processalternativ Risk på process i resp alternativ. 20 000 000 2 1,2 2,3
+Öppna bassänger Ej räknat att bygga in några bassänger där 5 000 000 3 0,3 0,9
+inte Envidan skrivit överbyggnad. Finns det
+risk att tex nya sedimenteringar behöver
+byggas in? Och även bef?
+Ytterligare bassänger Om ytterligare bassänger tillkommer för 5 000 000 3 0,3 0,9
+processalternativ
+Rivning       Budgetpris från entreprenör grovt 2 000 000 3 0,1 0,3
+uppskattad.
 Summa                                                      13,8
 Osäkerhet (utan viktning)                                   3,8
-
-[Tabell 160-1](handlingar.tabeller/160-1.csv)
-
-| AGS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Beskrivning av riskmoment | Åtgärd / Förtydligande | 86 160 000 | Sannolikhet | Konsekvens | Osäkerhet |
-| Åtgärder järnväg | Behöver vi sponta längs hela tex? 10 Mkr i<br>kalkyl, 10 Mkr i risk | 10 000 000 | 3 | 0,6 | 1,7 |
-| Sprängning | Har i budget lagt in hälften av tidigare<br>bedömd kostnad för att spränga allt berg<br>inom tomten åt norr. Ingen sprängning<br>ligger med i budget för övriga delar av<br>tomten. | 13 000 000 | 3 | 0,8 | 2,3 |
-| Spontning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk? | 3 590 000 | 3 | 0,2 | 0,6 |
-| Pålning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk? | 5 070 000 | 3 | 0,3 | 0,9 |
-| Ledningar | Utgått från att ledningar i Envidans underlag<br>är ledningar i mark. Svårt att veta i dagsläget<br>vad som kan samförläggas och ej, samt<br>schaktdjup och materialkvalitet. 10% risk. | 2 500 000 | 3 | 0,1 | 0,4 |
-| Innovation | Innovativa val / tillkommande som vi inte<br>vet om idag. 1% | 7 500 000 | 3 | 0,4 | 1,3 |
-| Hållbarhet | Hållbara val som inte ryms inom satta<br>nyckeltal. 1% | 7 500 000 | 3 | 0,4 | 1,3 |
-| Byggbarhet | MBR-alternativet är ur denna synvinkel mest<br>komplex då vattnets väg byter riktning.<br>AGS-alternativet - finns få referenser i<br>Norden.<br>CAS-alternativet - trångt inom tomt. | 5 000 000 | 3 | 0,3 | 0,9 |
-| Processalternativ | Risk på process i resp alternativ. | 20 000 000 | 2 | 1,2 | 2,3 |
-| Öppna bassänger | Ej räknat att bygga in några bassänger där<br>inte Envidan skrivit överbyggnad. Finns det<br>risk att tex nya sedimenteringar behöver<br>byggas in? Och även bef? | 5 000 000 | 3 | 0,3 | 0,9 |
-| Ytterligare bassänger | Om ytterligare bassänger tillkommer för<br>processalternativ | 5 000 000 | 3 | 0,3 | 0,9 |
-| Rivning | Budgetpris från entreprenör grovt<br>uppskattad. | 2 000 000 | 3 | 0,1 | 0,3 |
 
 <!-- sida 161 -->
 
@@ -6438,8 +6466,9 @@ samma slutsats.
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
-| Osäkerhetsparameter | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>AGS |
+| Osäkerhetsparameter | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+|  | CAS | AGS |
 | Översiktnivå | 1,6 | 1,7 |
 | Komponentnivå | 1,4 | 1,4 |
 | Risklistan | 3,8 | 3,9 |
@@ -10909,14 +10938,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        4 (15)
 
 [Tabell 267-1](handlingar.tabeller/267-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -11146,7 +11174,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 272 -->
 
@@ -11206,7 +11235,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 273 -->
 
@@ -11361,16 +11391,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -11398,6 +11421,18 @@ En Grundavgift per år 14.1 a) 428 kr 428 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        13 (15)
 
+[Tabell 276-1](handlingar.tabeller/276-1.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 276-2](handlingar.tabeller/276-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 277 -->
 
 § 18
@@ -11406,7 +11441,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -11434,8 +11468,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        14 (15)
 
 [Tabell 277-1](handlingar.tabeller/277-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -12373,8 +12408,6 @@ Nilsson (fp), Odd Hessler (s), Åke Eliasson (s), Kenneth Ahlin (v), Patrik Hult
 
 Justerare
 
-AL AA fw | |
-
 Expedierat/bestyrkt
 
 <!-- sida 304 -->
@@ -12435,8 +12468,6 @@ Göran Oskarsson (spi), Stephan Philipsson (kb), Roger Larsson (kb), Maria
 Corneliusson (kb) och Leni Rassbach (kb) reserverar sig mot beslutet.
 
 Justerare
-
-TT
 
 Re fw |
 
@@ -12621,10 +12652,6 @@ forts
 
 Justerare
 
-JA
-
-dl fl
-
 Expedierat/bestyrkt
 
 <!-- sida 308 -->
@@ -12719,7 +12746,7 @@ beredning av följande punkter:
 
 \- 7.2 Taxan för färdtjänst likställs med taxan för övrig kollektivtrafik.
 
-\- 7.6 Färdtjänstresa medger en omvägskörning på 75924 av direktresan (inte ytterli gare
+\- 7.6 Färdtjänstresa medger en omvägskörning på 7594 av direktresan (inte ytterli gare
 20 minuter).
 
 \- Färdtjänstberättigade ges tillstånd till arbetsresor oavsett tjänstgöringsgrad.
@@ -12828,9 +12855,8 @@ Datum
 2013-05-23
 
 fd) Nh Öv
-| j rå fe
 
-Var
+Ok
 Ann-Charlo Sven-Erik Bergström
 
 kommundirektör verksamhetschef
@@ -13203,8 +13229,6 @@ KSF;CN, Region Halland, Hallandstrafiken, TE
 
 Justerare / Expedierat/bestyrkt
 Na— /
-A| ( i
-AD Ah AA
 
 <!-- sida 318 -->
 
@@ -13212,8 +13236,6 @@ TJÄNSTESKRIVELSE
 
 KUNGSBACKA KOMMUN
 KOMMUNSTYRELSEN
-
-\> 2013 -H- 08
 
 Kungsbacka
 
@@ -15970,14 +15992,13 @@ ger inte rätt att parkera där det är förbjudet att stanna eller parkera enli
 trafikförordningen (1998:1276).
 
 2 § Vardagar mellan klockan 8 och 22 gäller dock tillåtelsen att parkera i 1 § mot att
-avgift betalas eller högst I timme i följd mot användande av parkeringsskiva eller
+avgift betalas eller högst 1 timme i följd mot användande av parkeringsskiva eller
 
 motsvarande.
 
 3 § Avgiften i 2 § är enligt taxa D enligt bestämmelserna om avgifter för parkering i
 Kungsbacka kommuns lokala trafikföreskrifter (1384 2019:00038) om
 
-W 8 ÅA
 Teckenförklaring
 
 v
@@ -16034,7 +16055,6 @@ A
 ]
 [|
 25 50, É 100 125
-n n | | i 2 z i
 
 Denna författning träder i kraft den 8 april 2024 då Kungsbacka kommuns lokala
 trafikföreskrifter 1384 2023:00279 om parkering på Lilla Hantverksgatan skall
@@ -16193,8 +16213,6 @@ Avgift enligt taxa A.
 
 \+ LL) [S]
 
-\- sh Ina] FR
-
 Teckenförklaring J
 
 -—  Föreskriftens utbredning lagga
@@ -16203,7 +16221,6 @@ Teckenförklaring J
 2 LYS
 Na
 
-TV Ta OT MS - ANA ARN a fy
 Denna författning träder i kraft den 8 april 2024 då 1384 2023:00273 om parkering på
 
 Resecentrum skall upphöra att gälla.

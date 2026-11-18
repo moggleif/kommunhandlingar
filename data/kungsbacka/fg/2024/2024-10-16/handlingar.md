@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d2536df/1729507792
 sha256: fe4bc39d67c92cf56f29ad94656af52952e499b69325add79c77a6cd6c8d27fc
 bytes: 10596381
 sidor: 162
-hamtad: 2026-11-08T08:21:26+00:00
-konverterad: 2026-11-08T08:21:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:11:08+00:00
+konverterad: 2026-11-17T23:11:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [13]
-figurer: [12, 13, 22, 33, 34, 37, 39, 62, 63, 65, 67, 69, 75, 76, 77, 78, 80, 82, 83, 84, 87, 89, 90, 91, 92, 93, 95, 96, 97, 98, 99, 100, 101, 111, 114, 117, 119, 121, 124, 125, 126, 127, 128, 132, 134, 136, 137, 138, 139, 140, 154, 155, 158, 159]
+figurer: [12, 13, 22, 33, 34, 37, 39, 62, 63, 69, 75, 76, 77, 78, 80, 82, 83, 84, 87, 89, 90, 91, 92, 93, 95, 96, 97, 98, 99, 100, 101, 111, 114, 117, 119, 121, 124, 125, 126, 127, 128, 132, 134, 136, 137, 138, 139, 140, 154, 155, 158, 159]
 tolkade: []
 granskad: null
 ---
@@ -684,9 +684,23 @@ Med vänlig hälsning Johanna
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Överklagande av § 43/24 Dnr 2024-<br>00239 - Konsekvensanalys av<br>besparingar på skolan (Mål nr 5544-24)<br>Kl 17.15-17.35<br>Frida Byrsten, verksamhetschef Tove<br>Bender, utredare | FG-<br>2024-<br>00341 | Nämnden för Förskola och Grundskola antar<br>Yttrande 2024-08-05 som sitt yttrande till<br>Förvaltningsrätten i Göteborg, mål nummer<br>5544- 24.<br>Paragrafen justeras omedelbart. |
+| Överklagande av § 43/24 Dnr 2024- | FG- | Nämnden för Förskola och Grundskola antar |
 | --- | --- | --- |
-| Barnrättsligt perspektiv i<br>beslutsfattandet - information<br>Kl 17.35-17.55<br>Frida Byrsten, verksamhetschef | FG-<br>2024-<br>00483 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
+| 00239 - Konsekvensanalys av |  |  |
+|  |  | Yttrande 2024-08-05 som sitt yttrande till |
+| besparingar på skolan (Mål nr 5544-24) |  |  |
+|  | 2024- | Förvaltningsrätten i Göteborg, mål nummer |
+| Kl 17.15-17.35 |  |  |
+|  | 00341 | 5544- 24. |
+| Frida Byrsten, verksamhetschef Tove |  |  |
+|  |  | Paragrafen justeras omedelbart. |
+| Bender, utredare |  |  |
+| Barnrättsligt perspektiv i | FG- | Nämnden för Förskola & Grundskola har tagit |
+| beslutsfattandet - information |  |  |
+|  | 2024- | del av informationen och antecknar |
+| Kl 17.35-17.55 |  |  |
+|  | 00483 | informationen till protokollet. |
+| Frida Byrsten, verksamhetschef |  |  |
 
 <!-- sida 22 -->
 
@@ -929,9 +943,23 @@ genomgång av vårt mål i Förvaltningsrätten under punkt 6. Se även bifogat.
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Överklagande av § 43/24 Dnr 2024-<br>00239 - Konsekvensanalys av<br>besparingar på skolan (Mål nr 5544-24)<br>Kl 17.15-17.35<br>Frida Byrsten, verksamhetschef Tove<br>Bender, utredare | FG-<br>2024-<br>00341 | Nämnden för Förskola och Grundskola antar<br>Yttrande 2024-08-05 som sitt yttrande till<br>Förvaltningsrätten i Göteborg, mål nummer<br>5544- 24.<br>Paragrafen justeras omedelbart. |
+| Överklagande av § 43/24 Dnr 2024- | FG- | Nämnden för Förskola och Grundskola antar |
 | --- | --- | --- |
-| Barnrättsligt perspektiv i<br>beslutsfattandet - information<br>Kl 17.35-17.55<br>Frida Byrsten, verksamhetschef | FG-<br>2024-<br>00483 | Nämnden för Förskola & Grundskola har tagit<br>del av informationen och antecknar<br>informationen till protokollet. |
+| 00239 - Konsekvensanalys av |  |  |
+|  |  | Yttrande 2024-08-05 som sitt yttrande till |
+| besparingar på skolan (Mål nr 5544-24) |  |  |
+|  | 2024- | Förvaltningsrätten i Göteborg, mål nummer |
+| Kl 17.15-17.35 |  |  |
+|  | 00341 | 5544- 24. |
+| Frida Byrsten, verksamhetschef Tove |  |  |
+|  |  | Paragrafen justeras omedelbart. |
+| Bender, utredare |  |  |
+| Barnrättsligt perspektiv i | FG- | Nämnden för Förskola & Grundskola har tagit |
+| beslutsfattandet - information |  |  |
+|  | 2024- | del av informationen och antecknar |
+| Kl 17.35-17.55 |  |  |
+|  | 00483 | informationen till protokollet. |
+| Frida Byrsten, verksamhetschef |  |  |
 
 <!-- sida 28 -->
 
@@ -1890,11 +1918,25 @@ fristående utbildningslokaler i Kungsbacka stad samt en paviljong på Iseråssk
 
 3.1.1 Lokalbehov grundskola
 
-Beskrivning                       Budget Plan Plan Plan Plan Plan
-Löpnr                    Kategorisera
-2025  2026 2027 2028 2029 2030
-
 Lokalbehov 2026-2030 Utblicksår 2031-2035 8
+
+[Tabell 65-66-1](handlingar.tabeller/65-66-1.csv)
+
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  | Verksamhetsanpassning<br>omdisponering av verksamheter<br>i befintliga lokaler grundskola | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
+|  | Verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>grundskolor | Volymökningar<br>befintlig plats | X | X | X | X | X | X |
+| 335 | Iserås skola | Strukturomvandlingar,<br>besparingsmöjligheter |  |  | 0 |  |  |  |
+| 140 | Iserås idrottshall fullmått |  |  |  | X |  |  |  |
+| 336 | Åsa grundskola |  |  |  |  | 500 |  |  |
+| 338 | Liljan skola |  |  |  | 525 |  |  |  |
+| 339 | Liljan Idrottshall |  |  |  | X |  |  |  |
+| 341 | Fjordskolans pav avveckling<br>och flytt (samordnas med<br>Iseråsskolan) |  |  |  | -100 |  |  |  |
+| 345 | Tingbergsskolan avveckling<br>lokal |  |  |  | -320 |  |  |  |
+| 350 | Avveckling Åsa Gårdsskolan | Strukturomvandlingar,<br>besparingsmöjligheter |  |  |  | -300 |  |  |
+| 359 | Anpassad grundskola | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 66 -->
 
@@ -1913,23 +1955,6 @@ erbjudande av plats ska ske i närhet av barnets bostad är viktig och innebär 
 Lokalbehov 2026-2030 Utblicksår 2031-2035 9
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
-
-| Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Verksamhetsanpassning<br>omdisponering av verksamheter<br>i befintliga lokaler grundskola | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
-|  | Verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>grundskolor | Volymökningar<br>befintlig plats | X | X | X | X | X | X |
-| 335 | Iserås skola | Strukturomvandlingar,<br>besparingsmöjligheter |  |  | 0 |  |  |  |
-| 140 | Iserås idrottshall fullmått |  |  |  | X |  |  |  |
-| 336 | Åsa grundskola |  |  |  |  | 500 |  |  |
-| 338 | Liljan skola |  |  |  | 525 |  |  |  |
-| 339 | Liljan Idrottshall |  |  |  | X |  |  |  |
-| 341 | Fjordskolans pav avveckling<br>och flytt (samordnas med<br>Iseråsskolan) |  |  |  | -100 |  |  |  |
-| 345 | Tingbergsskolan avveckling<br>lokal |  |  |  | -320 |  |  |  |
-| 350 | Avveckling Åsa Gårdsskolan | Strukturomvandlingar,<br>besparingsmöjligheter |  |  |  | -300 |  |  |
-| 359 | Anpassad grundskola | Volymökningar<br>befintlig plats |  | X |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-
-[Tabell 66-2](handlingar.tabeller/66-2.csv)
 
 | Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1989,26 +2014,13 @@ förskola avvecklats under året.
 
 3.2.1 Lokalbehov förskolor
 
-Beskrivning                       Budget Plan Plan Plan Plan Plan
-Löpnr                    Kategorisera
-2025  2026 2027 2028 2029 2030
-
 Lokalbehov 2026-2030 Utblicksår 2031-2035 10
 
-<!-- sida 68 -->
-
-Nämnden för Förskola & Grundskola               Kungsbacka kommun
-
-3.2.2 Utblicksår 2031-2035
-
-Tabell
-
-Lokalbehov 2026-2030 Utblicksår 2031-2035 11
-
-[Tabell 68-1](handlingar.tabeller/68-1.csv)
+[Tabell 67-68-1](handlingar.tabeller/67-68-1.csv)
 
 | Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
 |  | Verksamhetsanpassning för att<br>uppfylla myndighetskrav<br>förskolor | Volymökningar<br>befintlig plats | X | X | X | X | X | X |
 |  | Volymändring förskola<br>Nordväst | Volymökningar<br>befintlig plats |  |  |  | 150 |  |  |
 | 207 | Äppelgårdens förskola |  |  |  | 120 |  |  |  |
@@ -2021,7 +2033,17 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 11
 | 349 | Åsa förskola avveckling<br>paviljong |  |  |  |  | -40 |  |  |
 | 346 | Åsa förskola avveckling<br>paviljong |  |  | -40 |  |  |  |  |
 
-[Tabell 68-2](handlingar.tabeller/68-2.csv)
+<!-- sida 68 -->
+
+Nämnden för Förskola & Grundskola               Kungsbacka kommun
+
+3.2.2 Utblicksår 2031-2035
+
+Tabell
+
+Lokalbehov 2026-2030 Utblicksår 2031-2035 11
+
+[Tabell 68-1](handlingar.tabeller/68-1.csv)
 
 | Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- |

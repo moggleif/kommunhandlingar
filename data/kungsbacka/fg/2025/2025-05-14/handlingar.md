@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e075f73196b001aeb4113b1/1746788044
 sha256: fe3661eb3c0328fc8de124a13f65a02401984fd3bdd698e99e2757bbb1b83459
 bytes: 9417325
 sidor: 124
-hamtad: 2026-11-08T08:27:24+00:00
-konverterad: 2026-11-08T08:28:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:15:59+00:00
+konverterad: 2026-11-17T23:16:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
@@ -604,63 +604,30 @@ www.kungsbacka.se
 <!-- sida 17 -->
 
 Årsplanering
-Uppföljningsområde          Vad                                  Månad   Kommentar/förklaring
 
-Ekonomisk planering och budgetarbete Nämndens underlag till kommande kommunbudget Januari Beslutsärende, avser kommande budgetår
-Ekonomisk planering och budgetarbete Investeringsplan            Januari Beslutsärende
-Myndighetskrav och regelefterlevnad Tillsyn fristående - uppföljningsrapport och plan framåt Januari Beslutsärende
-Uppföljning av elevresultat och undervisning Preliminära betygsresultat Januari Informationsärende
-Ekonomisk uppföljning och prognoser Årsredovisning               Februari Beslutsärende
-Ekonomisk uppföljning och prognoser Ombudgetering - resultatfond föregående år Februari Beslutsärende
-Personal och kompetensförsörjning Systematiskt arbetsmiljöarbete-uppföljning Februari Ingår i Årsredovisning
-Personal och kompetensförsörjning Strategisk kompetensförsörjning- uppföljning Februari Ingår i Årsredovisning
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
 
-Myndighetskrav och regelefterlevnad Uppföljning Intern kontroll  Februari Beslutsärende
-Myndighetskrav och regelefterlevnad Likabehandling och diskriminering- uppföljning 1 Februari Informationsärende
-Barn- och elevhälsa         Helårsrapport God och nära vård      Februari Beslutsärende, FG:s del av rapport
-Personal och kompetensförsörjning Rapportering olycksfall och tillbud 1 Mars Informationsärende
-Myndighetskrav och regelefterlevnad Anmälningsärenden, klagomål och synpunkter Mars Informationsärende, BEO, DO, Skolinspektion
-och huvudmannens klagomålsutredning
-Barn- och elevhälsa         Patientsäkerhetsberättelse           Mars    Beslutsärende
-Barn- och elevhälsa         Uppföljning Barn- och elevhälsaarbete 1 Mars Informationsärende
-Myndighetskrav och regelefterlevnad Skolval och skolplacering    April   Informationsärende
-Myndighetskrav och regelefterlevnad Främja närvaro och förebygga frånvaro uppföljning 1 April Informationsärende
-
-Ekonomisk uppföljning och prognoser Uppföljning och prognos april Maj    Beslutsärende
-Myndighetskrav och regelefterlevnad Dataskydd årsrapport         Maj     Informationsärende
-Uppföljning av elevresultat och undervisning Resultat vårdnadshavarenkät förskola Maj Informationsärende
-Uppföljning av elevresultat och undervisning Resultat elevenkät  Maj     Informationsärende
-Ekonomisk planering och budgetarbete Statsbidrag, att söka och uppföljning Juni Informationsärende
-Uppföljning av elevresultat och undervisning Preliminära betygsresultat Juni Informationsärende
-Ekonomisk uppföljning och prognoser Delårsrapport augusti        September Beslutsärende
-Personal och kompetensförsörjning Strategisk kompetensförsörjning- uppföljning September Informationsärenden, ingår i delårsrapport
-Ekonomisk planering och budgetarbete Resursfördelningsmodell     Oktober Beslutsärende
-
-Ekonomisk planering och budgetarbete Lokalbehov utblicksår       Oktober Beslutsärende
+| Uppföljningsområde<br>Ekonomisk planering och budgetarbete | Vad<br>Nämndens underlag till kommande kommunbudget | Månad<br>Januari | Kommentar/förklaring<br>Beslutsärende, avser kommande budgetår |
+| --- | --- | --- | --- |
+| Ekonomisk planering och budgetarbete | Investeringsplan | Januari | Beslutsärende |
+| Myndighetskrav och regelefterlevnad | Tillsyn fristående - uppföljningsrapport och plan framåt | Januari | Beslutsärende |
+| Uppföljning av elevresultat och undervisning<br>Ekonomisk uppföljning och prognoser<br>Ekonomisk uppföljning och prognoser<br>Personal och kompetensförsörjning<br>Personal och kompetensförsörjning<br>Myndighetskrav och regelefterlevnad<br>Myndighetskrav och regelefterlevnad<br>Barn- och elevhälsa<br>Personal och kompetensförsörjning | Preliminära betygsresultat<br>Årsredovisning<br>Ombudgetering - resultatfond föregående år<br>Systematiskt arbetsmiljöarbete-uppföljning<br>Strategisk kompetensförsörjning- uppföljning<br>Uppföljning Intern kontroll<br>Likabehandling och diskriminering- uppföljning 1<br>Helårsrapport God och nära vård<br>Rapportering olycksfall och tillbud 1 | Januari<br>Februari<br>Februari<br>Februari<br>Februari<br>Februari<br>Februari<br>Februari<br>Mars | Informationsärende<br>Beslutsärende<br>Beslutsärende<br>Ingår i Årsredovisning<br>Ingår i Årsredovisning<br>Beslutsärende<br>Informationsärende<br>Beslutsärende, FG:s del av rapport<br>Informationsärende |
+| Myndighetskrav och regelefterlevnad | Anmälningsärenden, klagomål och synpunkter | Mars | Informationsärende, BEO, DO, Skolinspektion<br>och huvudmannens klagomålsutredning |
+| Barn- och elevhälsa | Patientsäkerhetsberättelse | Mars | Beslutsärende |
+| Barn- och elevhälsa<br>Myndighetskrav och regelefterlevnad<br>Myndighetskrav och regelefterlevnad<br>Ekonomisk uppföljning och prognoser | Uppföljning Barn- och elevhälsaarbete 1<br>Skolval och skolplacering<br>Främja närvaro och förebygga frånvaro uppföljning 1<br>Uppföljning och prognos april | Mars<br>April<br>April<br>Maj | Informationsärende<br>Informationsärende<br>Informationsärende<br>Beslutsärende |
+| Myndighetskrav och regelefterlevnad | Dataskydd årsrapport | Maj | Informationsärende |
+| Uppföljning av elevresultat och undervisning | Resultat vårdnadshavarenkät förskola | Maj | Informationsärende |
+| Uppföljning av elevresultat och undervisning<br>Ekonomisk planering och budgetarbete<br>Uppföljning av elevresultat och undervisning<br>Ekonomisk uppföljning och prognoser | Resultat elevenkät<br>Statsbidrag, att söka och uppföljning<br>Preliminära betygsresultat<br>Delårsrapport augusti | Maj<br>Juni<br>Juni<br>September | Informationsärende<br>Informationsärende<br>Informationsärende<br>Beslutsärende |
+| Personal och kompetensförsörjning<br>Ekonomisk planering och budgetarbete<br>Ekonomisk planering och budgetarbete | Strategisk kompetensförsörjning- uppföljning<br>Resursfördelningsmodell<br>Lokalbehov utblicksår | September<br>Oktober<br>Oktober | Informationsärenden, ingår i delårsrapport<br>Beslutsärende<br>Beslutsärende |
+| Personal och kompetensförsörjning<br>Myndighetskrav och regelefterlevnad<br>Myndighetskrav och regelefterlevnad<br>Myndighetskrav och regelefterlevnad<br>Uppföljning av elevresultat och undervisning<br>Uppföljning av elevresultat och undervisning<br>Systematiskt kvalitetsarbete<br>Ekonomisk planering och budgetarbete | Rapportering olycksfall och tillbud 2<br>Likabehandling och diskriminering- uppföljning 2<br>Skolpliktsuppföljning- rapport<br>Barnkonventionen<br>Offentlig statistik - betyg<br>Läsa-, skriva- och räknagaranti samt resultat åk F-5<br>Huvudmannens Systematiska kvalitetsarbete – årsrapport<br>Grundbelopp | Oktober<br>Oktober<br>Oktober<br>Oktober<br>Oktober<br>Oktober<br>Oktober/<br>November<br>November | Informationsärende<br>Informationsärende<br>Informationsärende<br>Informationsärende, Vartannat år, jämna år<br>Informationsärende<br>Informationsärende<br>Beslutsärende<br>Beslutsärende |
+| Ekonomisk planering och budgetarbete | Nämndbudget | November | Beslutsärende |
+| Myndighetskrav och regelefterlevnad | Främja närvaro och förebygga frånvaro uppföljning 2 | November | Informationsärende |
+| Barn- och elevhälsa | Delårsrapport God och nära vård | November | Beslutsärende, FG:s del av rapport |
+| Krisberedskap och säkerhet | Uppdatering riktlinjer civil beredskap och kontinuitetsplan | November | Beslut-/ Informationsärende |
+| Krisberedskap och säkerhet | Uppdatering krigsorganisation | November | Informationsärende |
+| Barn- och elevhälsa<br>Ekonomisk planering och budgetarbete<br>Ekonomisk planering och budgetarbete<br>Myndighetskrav och regelefterlevnad<br>Övrigt | Uppföljning Barn- och elevhälsaarbete 2<br>Interkommunala ersättningar<br>Förvaltningsbudget<br>Internkontrollplan kommande år<br>Årlig rapport intraprenad | November<br>December<br>December<br>December<br>December | Informationsärende<br>Beslutsärende<br>Beslutsärende<br>Beslutsärende<br>Beslutsärende |
 
 <!-- sida 18 -->
-
-Personal och kompetensförsörjning Rapportering olycksfall och tillbud 2 Oktober Informationsärende
-Myndighetskrav och regelefterlevnad Likabehandling och diskriminering- uppföljning 2 Oktober Informationsärende
-Myndighetskrav och regelefterlevnad Skolpliktsuppföljning- rapport Oktober Informationsärende
-Myndighetskrav och regelefterlevnad Barnkonventionen             Oktober Informationsärende, Vartannat år, jämna år
-Uppföljning av elevresultat och undervisning Offentlig statistik - betyg Oktober Informationsärende
-Uppföljning av elevresultat och undervisning Läsa-, skriva- och räknagaranti samt resultat åk F-5 Oktober Informationsärende
-Systematiskt kvalitetsarbete Huvudmannens Systematiska kvalitetsarbete – årsrapport Oktober/ Beslutsärende
-November
-
-Ekonomisk planering och budgetarbete Grundbelopp                 November Beslutsärende
-Ekonomisk planering och budgetarbete Nämndbudget                 November Beslutsärende
-Myndighetskrav och regelefterlevnad Främja närvaro och förebygga frånvaro uppföljning 2 November Informationsärende
-Barn- och elevhälsa         Delårsrapport God och nära vård      November Beslutsärende, FG:s del av rapport
-Krisberedskap och säkerhet  Uppdatering riktlinjer civil beredskap och kontinuitetsplan November Beslut-/ Informationsärende
-Krisberedskap och säkerhet  Uppdatering krigsorganisation        November Informationsärende
-Barn- och elevhälsa         Uppföljning Barn- och elevhälsaarbete 2 November Informationsärende
-Ekonomisk planering och budgetarbete Interkommunala ersättningar December Beslutsärende
-Ekonomisk planering och budgetarbete Förvaltningsbudget          December Beslutsärende
-
-Myndighetskrav och regelefterlevnad Internkontrollplan kommande år December Beslutsärende
-Övrigt                      Årlig rapport intraprenad            December Beslutsärende
 
 <!-- sida 19 -->
 
@@ -4436,18 +4403,10 @@ KUNGSBACKA
 KOMMUN
 
 =E - 2002-04-22
-
 Handläggare KerstinfElnarsson OCH
-
-SS RUNDESKOLEFÖRVALTNINGEN
 Dnr 127-02-04 | IEEE örskolo- och grundskolenämnden
-
 2008 då 25
-
-| TE on
-
 HL | |
-
 Id -02-07 |
 
 Ansökan om ökat maxtak för volymtimmar — Onsala Småbarnsskola

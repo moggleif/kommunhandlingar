@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3799ce5d19ace0aa77b249a6/1764573510
 sha256: b8f5ff6b67e5d4d9587c361de035005f2a6cf99c0ea638f516726493ced255b6
 bytes: 470486
 sidor: 33
-hamtad: 2026-11-08T08:50:25+00:00
-konverterad: 2026-11-08T08:50:32+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T23:35:26+00:00
+konverterad: 2026-11-17T23:35:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -621,7 +621,7 @@ Transaktionsidentitet: 62246BF972EC66B74483D9E9DD740E4C9C30F6C827
 
 [Tabell 14-15-1](protokoll.tabeller/14-15-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 77 815 kr |

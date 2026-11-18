@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.7118072419d9a48ae7711df/17764152013
 sha256: e0a56d9c72958e220b41e0463b79a2edc445c48f2e2a36def094d8d53a625999
 bytes: 20412871
 sidor: 196
-hamtad: 2026-11-08T07:59:41+00:00
-konverterad: 2026-11-08T08:01:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:51:36+00:00
+konverterad: 2026-11-17T22:53:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [32, 33, 38, 39, 40, 41, 42, 43, 44, 45, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 150, 185]
-figurer: [53, 54, 128, 130, 131, 149, 150, 163, 168]
+figurer: [53, 54, 128, 130, 131, 149, 150, 168]
 tolkade: []
 granskad: null
 ---
@@ -5852,11 +5852,12 @@ Sannolikhet
 
 [Tabell 150-1](handlingar.tabeller/150-1.csv)
 
-| Kategorier<br>Personal | Risker<br>Kommunövergripande risk: Efterlevnad till rekryteringsprocessen<br>(Kungsbacka kommun) |
-| --- | --- |
-| Informationssäker<br>het,<br>administration,<br>inköp... | Kommunövergripande risk: Bristande följsamhet till inköpsprocessen;<br>direktupphandling respektive avtalsuppföljning (Kungsbacka kommun) |
-| Verksamhet | Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet<br>(Kungsbacka kommun) |
-|  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
+| Kategorier |  | Risker |
+| --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Efterlevnad till rekryteringsprocessen<br>(Kungsbacka kommun) |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | Kommunövergripande risk: Bristande följsamhet till inköpsprocessen;<br>direktupphandling respektive avtalsuppföljning (Kungsbacka kommun) |
+| Verksamhet |  | Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet<br>(Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
 
 <!-- sida 151 -->
 
@@ -6338,27 +6339,29 @@ Nämndernas självskattning
 
 16
 
-[Tabell 160-162-1](handlingar.tabeller/160-162-1.csv)
+[Tabell 160-163-1](handlingar.tabeller/160-163-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål och<br>styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-| Område | Frågor Svar 2025<br>Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Område<br>Riskanalys | Frågor Svar 2025<br>Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |
-| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål och<br>styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |  |
+| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 161 -->
 
@@ -6378,10 +6381,6 @@ Internkontrollrapport 2025
 
 Kungsbacka kommun                                Kungsbacka kommun
 Internkontrollrapport 2025
-
-Område        Frågor                                 Svar 2025
-Vi har en fungerande introduktion av nya
-medarbetare
 
 19
 
@@ -6913,7 +6912,7 @@ ekonomi och verksamhet.
 | SE |  |  |  |  |  |  |  |  |  |
 | TE |  |  |  |  |  |  |  |  |  |
 | VO |  |  |  |  |  |  |  |  |  |
-| R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |  |
+|  | R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |
 
 <!-- sida 176 -->
 

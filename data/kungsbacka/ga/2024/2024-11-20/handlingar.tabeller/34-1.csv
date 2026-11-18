@@ -1,42 +1,60 @@
-"Kategorier
-Personal","Till
-Risker Sannolikhet Konsekvens
-plan
-1 Kommunövergripande 2. Mindre vanligt 3. Kännbar Ja
-risk: Efterlevnad till (uppfattas som
-rekryteringsprocessen besvärande för
-berörda intressenter
-och kommunen)"
-"Informationssäkerhet,
-administration,
-inköp...","2 Kommunövergripande 3. Vanligt 3. Kännbar Ja
-risk: Bristande följsamhet (uppfattas som
-till inköpsprocessen; besvärande för
-direktupphandling berörda intressenter
-respektive och kommunen)
-avtalsuppföljning"
-Verksamhet,"3 Rutiner mot kränkningar 3. Vanligt 3. Kännbar Ja
-följs ej (uppfattas som
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
+plan"
+Personal,,"1 Kommunövergripande
+risk: Efterlevnad till
+rekryteringsprocessen",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
 besvärande för
 berörda intressenter
-och kommunen)"
-,"4 Personer med skyddad 1. Osannolik 4. Allvarlig/stor Ja
-identitet (risken är inverkan (så stor att
-praktiskt taget den inte får inträffa)
-obefintlig)"
-,"5 Utdrag från 3. Vanligt 4. Allvarlig/stor Ja
-belastningsregister före inverkan (så stor att
-anställning den inte får inträffa)"
-,"6 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor Ja
-risk - Risk för korruption inverkan (så stor att
-och välfärdsbrottslighet den inte får inträffa)"
-,"7 Kommunövergripande 3. Vanligt 3. Kännbar Ja
-risk: Förvaltningarnas (uppfattas som
-arbete med att utveckla besvärande för
-krisledningsorganisationen berörda intressenter
-i egen verksamhet och kommunen)"
-,"8 Övertidsersättning 2. Mindre vanligt 3. Kännbar Ja
-betalas ut på felaktiga (uppfattas som
-grunder besvärande för
+och kommunen)",Ja
+"Informationssäkerhet,
+administration,
+inköp...",,"2 Kommunövergripande
+risk: Bristande följsamhet
+till inköpsprocessen;
+direktupphandling
+respektive
+avtalsuppföljning",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
 berörda intressenter
-och kommunen)"
+och kommunen)",Ja
+Verksamhet,,"3 Rutiner mot kränkningar
+följs ej",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",Ja
+,,"4 Personer med skyddad
+identitet","1. Osannolik
+(risken är
+praktiskt taget
+obefintlig)","4. Allvarlig/stor
+inverkan (så stor att
+den inte får inträffa)",Ja
+,,"5 Utdrag från
+belastningsregister före
+anställning",3. Vanligt,"4. Allvarlig/stor
+inverkan (så stor att
+den inte får inträffa)",Ja
+,,"6 Kommunövergripande
+risk - Risk för korruption
+och välfärdsbrottslighet",2. Mindre vanligt,"4. Allvarlig/stor
+inverkan (så stor att
+den inte får inträffa)",Ja
+,,"7 Kommunövergripande
+risk: Förvaltningarnas
+arbete med att utveckla
+krisledningsorganisationen
+i egen verksamhet",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",Ja
+,,"8 Övertidsersättning
+betalas ut på felaktiga
+grunder",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",Ja

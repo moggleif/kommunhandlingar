@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.32f2dc5a1995b7e9114b14/175817824251
 sha256: 0476310af09304bf040428539d75e7ff715b0dcc09c048058f3c6312331cd9dd
 bytes: 9332157
 sidor: 191
-hamtad: 2026-11-08T07:50:56+00:00
-konverterad: 2026-11-08T07:51:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:44:45+00:00
+konverterad: 2026-11-17T22:45:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok]
 tal_obekraftade: [160, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191]
 figurer: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 160, 169, 170, 171, 172, 173, 175, 177, 178, 179, 180, 181, 182, 183, 185, 186, 187, 188, 189, 190, 191]
 tolkade: []
@@ -984,38 +984,29 @@ förvaltningens kommunikatörer haft ett kompletterande ansvar som säkerhetssam
 ordinarie säkerhetssamordnare, som delas med förvaltningen för Kultur och Fritid, är nu genomförd och stärker
 vår förmåga ytterligare.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-
-```osaker-tabell
-                               2022   2023    2024    2025    2025
-Antal påbörjade bostäder       848     165     213
-Antal färdigställda bostäder   363     319     324
-```
-
 5
+
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 691 | 6 475 | 6 541 |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |  |
 
 <!-- sida 35 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Anmälda brott per invånare (antal/100 000
-5 691   6 475   6 541
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %   91 %    88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %   76 %    76 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %           95 %
-totalt - helhetssyn
 2.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
+
 Fokusområden
 \- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 \- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar biologisk
@@ -1034,93 +1025,43 @@ andelen dock högre.
 I årets enkät ställdes en kompletterande fråga om orsaker till stress. Av de elever som uppgav stressrelaterade
 besvär angav 69 procent skolarbetet som orsak, följt av osäker framtid (21 procent).
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % 88 % 85 %
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-
 6
+
+[Tabell 35-37-1](handlingar.tabeller/35-37-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % |  |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % |  |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % |  |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 103 | 92 |  |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 115 | 223 |  |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) | 2,27 |  |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 21,2 % | 24,1 % | 26,5 % |  |  |
+| Slutanvändning av energi inom det<br>geografiska området, MWh/inv (Kolada) | 15 | 15 |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,86 | 1,79 | 1,85 |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 113 | 115 | 151 |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  |  |  |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | 97,5 % |  |  |
+| Andelen återbrukade möbler |  |  |  |  |  |
+| Kommunens verksamheters elförbrukning,<br>total (kWh) |  |  |  |  |  |
 
 <!-- sida 36 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 72 % 79 %
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 93 % 92 %
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %   73 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %   86 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 103 92
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 115 223
-Startvärde 100, målvärde 2030 är 60.
-Utsläpp till luft av växthusgaser totalt, ton
-2,27
-CO2-ekv/inv (Kolada)
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 21,2 % 24,1 % 26,5 %
-(Kolada)
-Slutanvändning av energi inom det
-15      15
-geografiska området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,86    1,79   1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 113   115     151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 %
-Vattendrag med god ekologisk status, andel
-18,5
-(Kolada)
 7
 
 <!-- sida 37 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Fossiloberoende personbilar i
-94,6 %  96,2 %  97,5 %
-kommunorganisationen, andel (%)
-Andelen återbrukade möbler
-Kommunens verksamheters elförbrukning,
-total (kWh)
 
 2.2.1 Hälsofrämjande livsstil
 Beslutats av
@@ -1172,14 +1113,6 @@ Delårsrapport augusti 2025
 
 inne i klassrummet.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-God hälsa                      62 %   63 %    59 %    60 %    65 %
-
-Andel som upplevt sig stressade pga
-skolarbetet flera gånger i veckan eller mer de 67 % 69 % 69 % 63 %
-senaste 6 månaderna
-
 2.3 Bästa företagsklimatet i Västsverige
 
 Beslutats av
@@ -1223,6 +1156,13 @@ Collegeplattformar
 
 9
 
+[Tabell 38-1](handlingar.tabeller/38-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| God hälsa | 62 % | 63 % | 59 % | 60 % | 65 % |
+| Andel som upplevt sig stressade pga<br>skolarbetet flera gånger i veckan eller mer de<br>senaste 6 månaderna |  | 67 % | 69 % | 69 % | 63 % |
+
 <!-- sida 39 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
@@ -1265,38 +1205,24 @@ kriterier. Skolan har infört ett diagnostiskt förberedande test för elever i 
 yrkesprov. Detta bedöms ha bidragit till förbättrade resultat. Arbetet i stort syftar till att stärka
 fordonsutbildningarnas attraktionskraft och tillgodose motorbranschens kompetensbehov i regionen.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 70 67     64
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4     3,4     3,8
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-
 10
+
+[Tabell 39-40-1](handlingar.tabeller/39-40-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 70 | 67 | 64 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 |  |  |
+| Sysselsatt dagbefolkning, antal | 28 485 | 28 586 |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år | 18 % | 19 % |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 12,8 | 10,3 |  |  |  |
 
 <!-- sida 40 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Sysselsatt dagbefolkning, antal 28 485 28 586
-Andel av sysselsatt dagbefolkning inom
-4,9 %   4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 18 % 19 %
-Antal nystartade företag per 1 000 invånare
-12,8    10,3
-16–64 år (etableringsfrekvens)
 2.3.1 Gymnasieprogram med stark koppling till arbetslivet
 
 Beslutats av
@@ -1431,35 +1357,23 @@ varav en av dessa har flyttat tillbaka till Ukraina.
 Kommuntalet reviderades den 30 april och landade på 59 personer för LMA enligt lagen om
 massflyktsdirektivet. Det nya talet gäller enbart nya anvisningar enligt LMA.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-237     237     238
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 1,7 % 2,3 %
-SCB)
-Genomsnittligt betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,5 14,3  14      14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 69 % 73 % 75 %
-försörjningsstöd (%)
-
 13
+
+[Tabell 42-43-1](handlingar.tabeller/42-43-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 237 | 238 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 1,7 % | 2,3 % |  |  |
+| Genomsnittligt betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,5 | 14,3 | 14 | 14 |  |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % | 75 % |  |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 376 | 325 | 306 |  |  |
 
 <!-- sida 43 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Kostnad utbetalt ekonomiskt bistånd,
-376     325     306
-kr/invånare (Kolada)
 2.4.1 Välprofilerade och attraktiva gymnasieskolor med hög måluppfyllelse
 
 Beslutats av
@@ -1496,25 +1410,22 @@ som länkar till digital information på våra hemsidor. Detta kommer att möjli
 spara tid för personalen eftersom endast programkatalogerna behöver korrekturläsas, och säkerställa att
 informationen alltid är aktuell. Detta kommer att underlätta arbetet för vår personal samt göra det enklare för
 elever och föräldrar att få tillgång till aktuell information.
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Studiero                       65      64      64              72
-
-Andelen elever med gymnasieexamen 95,1 % 92,5 % 89,4 % 91,1 % 100 %
-Andelen elever med gymnasieexamen inom
-75,9 %  77,3 %  70,8 %          78 %
-3 år
 
 14
+
+[Tabell 43-44-1](handlingar.tabeller/43-44-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Studiero | 65 | 64 | 64 |  | 72 |
+| Andelen elever med gymnasieexamen | 95,1 % | 92,5 % | 89,4 % | 91,1 % | 100 % |
+| Andelen elever med gymnasieexamen inom<br>3 år | 75,9 % | 77,3 % | 70,8 % |  | 78 % |
+| Genomsnittlig betygspoäng | 14,4 | 14,3 | 14 | 14 | 14,6 |
 
 <!-- sida 44 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Genomsnittlig betygspoäng      14,4    14,3    14      14     14,6
 
 2.4.2 Kungsbackas unika arbetsmarknadsprocess för högre måluppfyllelse
 
@@ -1539,44 +1450,27 @@ vara redo för att gå in i projektet i höst.
 Vidare har förvaltningen arbetat med att utveckla och bredda det goda samarbetet med arbetsgivare i
 Kungsbacka. Arbetet har skett målsökande och en tydlig plan för utvecklingsarbetet sattes under maj och juni.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Andel som börjat arbeta vid avslut från
-36 %   31 %    26 %            35 %
-kommunens arbetsmarknadsverksamhet
-Andel som börjat studera vid avslut från
-7 %     8 %     7 %            15 %
-kommunens arbetsmarknadsverksamhet
-Ej återaktualiserade personer med
-försörjningsstöd ett år efter avslutat 69 % 73 % 75 %         75 %
-försörjningsstöd, andel (%)
-Vuxna biståndsmottagare med långvarigt
-35,6 %  38 %    35,1 %          30 %
-ekonomiskt bistånd, andel (%)
-Andel deltagare inom
-arbetsmarknadsverksamheten vars insatser 21 % 26 %            25 %
-avslutats inom 3 månader
-Kursdeltagare på SFI 1A, som avslutat
-371     489     492
-kursen - genomsnittligt antal elevtimmar
-Kursdeltagare på SFI 1B, som avslutat
-348     631     409
-kursen - genomsnittligt antal elevtimmar
-Kursdeltagare på SFI 1C, som avslutat
-271     654     483
-kursen - genomsnittligt antal elevtimmar
 15
+
+[Tabell 44-45-1](handlingar.tabeller/44-45-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel som börjat arbeta vid avslut från<br>kommunens arbetsmarknadsverksamhet | 36 % | 31 % | 26 % |  | 35 % |
+| Andel som börjat studera vid avslut från<br>kommunens arbetsmarknadsverksamhet | 7 % | 8 % | 7 % |  | 15 % |
+| Ej återaktualiserade personer med<br>försörjningsstöd ett år efter avslutat<br>försörjningsstöd, andel (%) | 69 % | 73 % | 75 % |  | 75 % |
+| Vuxna biståndsmottagare med långvarigt<br>ekonomiskt bistånd, andel (%) | 35,6 % | 38 % | 35,1 % |  | 30 % |
+| Andel deltagare inom<br>arbetsmarknadsverksamheten vars insatser<br>avslutats inom 3 månader | 21 % | 26 % |  |  | 25 % |
+| Kursdeltagare på SFI 1A, som avslutat<br>kursen - genomsnittligt antal elevtimmar | 371 | 489 | 492 |  |  |
+| Kursdeltagare på SFI 1B, som avslutat<br>kursen - genomsnittligt antal elevtimmar | 348 | 631 | 409 |  |  |
+| Kursdeltagare på SFI 1C, som avslutat<br>kursen - genomsnittligt antal elevtimmar | 271 | 654 | 483 |  |  |
+| Kursdeltagare på SFI 1D, som avslutat<br>kursen - genomsnittligt antal elevtimmar | 565 | 257 | 210 |  |  |
 
 <!-- sida 45 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Kursdeltagare på SFI 1D, som avslutat
-565     257     210
-kursen - genomsnittligt antal elevtimmar
 2.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -1600,18 +1494,14 @@ förutsättningar. I januari 2025 beslutade förvaltningschef om en handlingspla
 Varje utvecklingsområde har en eller flera ansvariga som driver arbetet vidare. En deluppföljning genomfördes
 vid "Mötesplats Ledare" i juni 2025.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2022   2023    2024    2025    2025
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76 75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114 124
-nyckeltal med skala 1–20.
-
 16
+
+[Tabell 45-1](handlingar.tabeller/45-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |  |
 
 <!-- sida 46 -->
 
@@ -1673,14 +1563,6 @@ identifierar kommande utmaningar där idéer och lösningar efterlyses.
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikator                     Utfall 2025           Målsättning
-Andel innovationsprojekt som
-Öka
-drivits under året
-Andel av bruttokostnaden som
-avsätts för innovationsarbete och                      Öka
-digitalisering
-
 3.2 Direktiv - Civil beredskap
 
 Under 2025 förväntas samtliga nämnder :
@@ -1723,6 +1605,13 @@ samman alla stadier i det livslånga lärandet.
 
 18
 
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+| Indikator | Utfall 2025 | Målsättning |
+| --- | --- | --- |
+| Andel innovationsprojekt som<br>drivits under året |  | Öka |
+| Andel av bruttokostnaden som<br>avsätts för innovationsarbete och<br>digitalisering |  | Öka |
+
 <!-- sida 48 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
@@ -1763,141 +1652,76 @@ Delårsrapport augusti 2025
 
 4.1 Resursmått
 
-Utfall  Utfall Utfall  Utfall  Utfall
-Namn
-2021   2022    2023   2024    2025
-Kostnad per elev i anpassad gymnasieskola
-409 500 435 900 482 600
-(exkl skolskjuts)
-Kostnad per gymnasieelev folkbokförd i
-116 581 121 336 128 872 132 694
-kommunen
-Kostnader för kommunala
-421    327     281     291
-arbetsmarknadsåtgärder, kr/invånare
-Kostnad per gymnasieelev i kommunens
-114 515 119 310 127 281 131 238
-skolor
-Kostnad per gymnasieelev för lokaler 19 400 20 300 21 144 22 553
-Nettokostnad gymnasial vuxenutbildning,
-15 537  18 598 23 545
-kr/heltidsstuderande
 4.2 Prestationsmått
-Namn                           Utfall Utfall Utfall Utfall Utfall Utfall
 
-```osaker-tabell
-                               2020  2021  2022   2023  2024 2025
-Antal elever i anpassad gymnasieskola 69 75 72    69     67
-Antal elever inom SFI          576   488    404   521   493
-```
-
-Deltagare som anvisats till kommunala
-447   276    259   254   257
-arbetsmarknadsåtgärder, antal
-Deltagare i kommunala
-913   749    652   554   521
-arbetsmarknadsåtgärder, antal
-Lärartäthet anpassad gymnasieskola, antal
-3,3    3,8   3,2   3,7    3
-elever per lärare (heltidstj)
-Deltagare inom
-arbetsmarknadsverksamheten som är 24 år 24 % 22 % 19 % 19 % 20 %
-eller yngre, andel
-Antal gymnasieelever i kommunens skolor 2 993 3 007 3 036 2 939 2 864
-Andel folkbokförda gymnasieelever i
-64,4 % 64,3 % 65,9 % 64 % 63,5 %
-kommunens egna skolor
-Antal folkbokförda gymnasieelever 3 649 3 696 3 766 3 806 3 785
-Lärartäthet i gymnasieskolan, antal elever
-14,4  13,4   13,1  13
-per lärare (Heltidstj)
-Inskrivna i etableringsuppdraget under året ,
-256   175    158   155   129
-antal
 20
+
+[Tabell 49-1](handlingar.tabeller/49-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad per elev i anpassad gymnasieskola<br>(exkl skolskjuts) | 409 500 | 435 900 | 482 600 |  |  |
+|  | Kostnad per gymnasieelev folkbokförd i<br>kommunen | 116 581 | 121 336 | 128 872 | 132 694 |  |
+|  | Kostnader för kommunala<br>arbetsmarknadsåtgärder, kr/invånare | 421 | 327 | 281 | 291 |  |
+|  | Kostnad per gymnasieelev i kommunens<br>skolor | 114 515 | 119 310 | 127 281 | 131 238 |  |
+|  | Kostnad per gymnasieelev för lokaler | 19 400 | 20 300 | 21 144 | 22 553 |  |
+|  | Nettokostnad gymnasial vuxenutbildning,<br>kr/heltidsstuderande | 15 537 | 18 598 | 23 545 |  |  |
+
+[Tabell 49-50-2](handlingar.tabeller/49-50-2.csv)
+
+|  | Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Antal elever i anpassad gymnasieskola | 69 | 75 | 72 | 69 | 67 |  |
+|  | Antal elever inom SFI | 576 | 488 | 404 | 521 | 493 |  |
+|  | Deltagare som anvisats till kommunala<br>arbetsmarknadsåtgärder, antal | 447 | 276 | 259 | 254 | 257 |  |
+|  | Deltagare i kommunala<br>arbetsmarknadsåtgärder, antal | 913 | 749 | 652 | 554 | 521 |  |
+|  | Lärartäthet anpassad gymnasieskola, antal<br>elever per lärare (heltidstj) | 3,3 | 3,8 | 3,2 | 3,7 | 3 |  |
+|  | Deltagare inom<br>arbetsmarknadsverksamheten som är 24 år<br>eller yngre, andel | 24 % | 22 % | 19 % | 19 % | 20 % |  |
+|  | Antal gymnasieelever i kommunens skolor | 2 993 | 3 007 | 3 036 | 2 939 | 2 864 |  |
+|  | Andel folkbokförda gymnasieelever i<br>kommunens egna skolor | 64,4 % | 64,3 % | 65,9 % | 64 % | 63,5 % |  |
+|  | Antal folkbokförda gymnasieelever | 3 649 | 3 696 | 3 766 | 3 806 | 3 785 |  |
+|  | Lärartäthet i gymnasieskolan, antal elever<br>per lärare (Heltidstj) | 14,4 | 13,4 | 13,1 | 13 |  |  |
+|  | Inskrivna i etableringsuppdraget under året ,<br>antal | 256 | 175 | 158 | 155 | 129 |  |
+|  | Lämnat etableringsuppdraget under året,<br>antal | 124 | 62 | 52 | 48 | 49 |  |
+|  | Andel lärare med pedagogisk<br>högskoleexamen | 87,5 % | 81,8 % | 87,4 % | 84 % | 84 % |  |
+|  | Andel lärare med lärarlegitimation och<br>behörighet i ämnet (för de lärarkategorier<br>som har legitimationskrav) | 87,2 % | 89,4 % | 82,7 % | 86,3 % | 86,3 % |  |
+|  | Elever i kommunal vuxenutbildning | 2 601 | 2 642 | 2 255 | 2 175 | 2 073 |  |
 
 <!-- sida 50 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Namn                           Utfall Utfall Utfall Utfall Utfall Utfall
-2020  2021  2022   2023  2024 2025
-Lämnat etableringsuppdraget under året,
-124    62    52    48     49
-antal
-Andel lärare med pedagogisk
-87,5 % 81,8 % 87,4 % 84 % 84 %
-högskoleexamen
-Andel lärare med lärarlegitimation och
-behörighet i ämnet (för de lärarkategorier 87,2 % 89,4 % 82,7 % 86,3 % 86,3 %
-som har legitimationskrav)
-Elever i kommunal vuxenutbildning 2 601 2 642 2 255 2 175 2 073
-
 4.3 Effektmått
 
-Namn                                 Utfall Utfall Utfall Utfall Utfall
-2021  2022   2023  2024 2025
-Andel folkbokförda elever med fullföljd
-86,7 % 88,2 % 86 % 84,8 %
-gymnasieutbildning inom 4 år
-Elever på SFI som klarat högsta kurs på studievägen av
-41 %  29 %   39 %  31 %
-nybörjare två år tidigare, andel (%)
-Elever på SFI som fortsätter utbildningen och ej klarar
-högsta kurs på studievägen av nybörjare två år tidigare, 24 % 31 % 28 % 25 %
-andel (%)
-Elever på SFI som avbrutit och ej klarat högsta kurs på
-35 %  40 %   34 %
-studievägen av nybörjare två år tidigare, andel (%)
-Genomsnittligt betygspoäng i kommunens
-14,3   14,4  14,3   14
-gymnasieskolor
-Elever på SFI som avbrutit som antingen arbetar eller
-77 %  72 %   63 %  61 %
-studerar av nybörjare två år tidigare, andel (%)
-Resultat vid avslut i kommunens
-arbetsmarknadsverksamhet, deltagare som börjat 25 % 36 % 31 % 26 %
-arbeta, andel
-Trygghetsindex                       93 %  90 %   90 %  90 %
-Resultat vid avslut i kommunens
-arbetsmarknadsverksamhet, deltagare som börjat 7 % 7 % 8 % 7 %
-studera, andel
-Andel folkbokförda gymnasieelever som tagit examen
-80,3 % 78,1 % 79,9 % 75,3 %
-inom 3 år
-Andel gymnasielever som tagit examen inom 3 år 76,5 % 75,9 % 77,3 % 70,8 %
-Lämnat etableringsuppdraget och börjat arbeta eller
-29 %  27 %   42 %  27 %
-studera (status efter 90 dagar), andel (%)
-Förvärvsarbetande skyddsbehövande och anhöriga
-64,5 % 68,3 %
-(flyktingar) 20-64 år, andel (%)
 21
+
+[Tabell 50-51-1](handlingar.tabeller/50-51-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel folkbokförda elever med fullföljd<br>gymnasieutbildning inom 4 år | 86,7 % | 88,2 % | 86 % | 84,8 % |  |
+|  | Elever på SFI som klarat högsta kurs på studievägen av<br>nybörjare två år tidigare, andel (%) | 41 % | 29 % | 39 % | 31 % |  |
+|  | Elever på SFI som fortsätter utbildningen och ej klarar<br>högsta kurs på studievägen av nybörjare två år tidigare,<br>andel (%) | 24 % | 31 % | 28 % | 25 % |  |
+|  | Elever på SFI som avbrutit och ej klarat högsta kurs på<br>studievägen av nybörjare två år tidigare, andel (%) | 35 % | 40 % | 34 % |  |  |
+|  | Genomsnittligt betygspoäng i kommunens<br>gymnasieskolor | 14,3 | 14,4 | 14,3 | 14 |  |
+|  | Elever på SFI som avbrutit som antingen arbetar eller<br>studerar av nybörjare två år tidigare, andel (%) | 77 % | 72 % | 63 % | 61 % |  |
+|  | Resultat vid avslut i kommunens<br>arbetsmarknadsverksamhet, deltagare som börjat<br>arbeta, andel | 25 % | 36 % | 31 % | 26 % |  |
+|  | Trygghetsindex | 93 % | 90 % | 90 % | 90 % |  |
+|  | Resultat vid avslut i kommunens<br>arbetsmarknadsverksamhet, deltagare som börjat<br>studera, andel | 7 % | 7 % | 8 % | 7 % |  |
+|  | Andel folkbokförda gymnasieelever som tagit examen<br>inom 3 år | 80,3 % | 78,1 % | 79,9 % | 75,3 % |  |
+|  | Andel gymnasielever som tagit examen inom 3 år | 76,5 % | 75,9 % | 77,3 % | 70,8 % |  |
+|  | Lämnat etableringsuppdraget och börjat arbeta eller<br>studera (status efter 90 dagar), andel (%) | 29 % | 27 % | 42 % | 27 % |  |
+|  | Förvärvsarbetande skyddsbehövande och anhöriga<br>(flyktingar) 20-64 år, andel (%) | 64,5 % | 68,3 % |  |  |  |
+|  | Förväntat värde förvärvsarbetande skyddsbehövande<br>och anhöriga (flyktingar) 20-64 år, andel (%) | 66 % | 70,7 % |  |  |  |
+|  | Skyddsbehövande och anhöriga (flyktingar) 20-25 år<br>som varken förvärvsarbetar eller studerar, andel (%) | 9,5 % | 9,5 % | 10,7 % | 11,4 % |  |
+|  | Kursdeltagare i komvux på grundläggande nivå som har<br>avslutat med godkända betyg, i huvudmannens<br>skolenheter, andel av de som avslutat eller avbrutit kurs<br>under året (%) | 76 % | 71 % | 84 % | 86 % |  |
+|  | Kursdeltagare i komvux på gymnasial nivå som har<br>avslutat kurs med godkända betyg, i huvudmannens<br>skolenheter, andel av de som avslutat eller avbrutit kurs<br>under året (%) | 79 % | 76 % | 78 % | 77 % |  |
 
 <!-- sida 51 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
-
-Namn                                 Utfall Utfall Utfall Utfall Utfall
-2021  2022   2023  2024 2025
-Förväntat värde förvärvsarbetande skyddsbehövande
-66 %  70,7 %
-och anhöriga (flyktingar) 20-64 år, andel (%)
-Skyddsbehövande och anhöriga (flyktingar) 20-25 år
-9,5 % 9,5 % 10,7 % 11,4 %
-som varken förvärvsarbetar eller studerar, andel (%)
-Kursdeltagare i komvux på grundläggande nivå som har
-avslutat med godkända betyg, i huvudmannens
-76 %  71 %   84 %  86 %
-skolenheter, andel av de som avslutat eller avbrutit kurs
-under året (%)
-Kursdeltagare i komvux på gymnasial nivå som har
-avslutat kurs med godkända betyg, i huvudmannens
-79 %  76 %   78 %  77 %
-skolenheter, andel av de som avslutat eller avbrutit kurs
-under året (%)
 
 22
 
@@ -2028,77 +1852,47 @@ mer), vilket är en tydlig minskning sedan tidigare år och en positiv utvecklin
 
 5.3 Resursmått
 
-Utfall jan Utfall jan Utfall jan Utfall jan Utfall jan
-Namn              2021 -jun  2022-jun  2023-jun 2024-jun  2025-jun
-
-```osaker-tabell
-                    2021      2022      2023      2024      2025
-Andel heltid       91,4 %    92,5 %    93,1 %    92,8 %    92,5 %
-
-Anställda andel kvinnor 64,1 % 63,8 %  64,2 %    65,3 %     66 %
-Anställda andel män 35,9 %   36,2 %    35,8 %    34,7 %    34,1 %
-
-Anställda totalt    490       486       494       475       464
-```
-
-Antal medarbetare per
-24,6      27,4      20,4      18,7       19
-enhetschef
-Medelålder           48        47        48        48        49
-Pensionsavgångar               4         1         3         3
-
 5.4 Effektmått
 
-Utfall jan Utfall jan Utfall jan Utfall jan Utfall jan
-Namn                   2021 -jun 2022 -jun 2023 -jun 2024 -jun 2025 -jun
-
-```osaker-tabell
-                        2021     2022     2023     2024     2025
-
-Korttidssjukfrånvaro    1,2 %    2 %      1,7 %    1,7 %     2 %
-Korttidssjukfrånvaro Kvinnor 1,4 % 2,4 %  1,8 %     2 %     2,2 %
-Korttidssjukfrånvaro Män 0,9 %   1,5 %    1,6 %    1,3 %    1,6 %
-
-Långtidssjukfrånvaro    2,8 %    4,2 %    3,7 %    2,8 %    2,6 %
-Långtidssjukfrånvaro Kvinnor 3,9 % 5,6 %   5 %     3,5 %    3,3 %
-Långtidssjukfrånvaro Män 0,8 %   2 %      1,3 %    1,4 %    1,3 %
-
-Personalomsättning      4,1 %    6,9 %     4 %     3,3 %    3,4 %
-Sjukfrånvaro Kvinnor    5,3 %    7,9 %    6,8 %    5,5 %    5,4 %
-
-Sjukfrånvaro Män        1,8 %    3,4 %    2,9 %    2,6 %    2,9 %
-Sjukfrånvaro Totalt      4 %     6,3 %    5,4 %    4,5 %    4,6 %
-```
-
-Sjukfrånvaro, andel av
-58,4 %   58,3 %   58,5 %   54,4 %   44,8 %
-sjukfrånvaro 60 dagar eller mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller mer 62,5 % 59,9 % 67 % 59,9 %   48,5 %
-Kvinnor
-
 25
+
+[Tabell 54-1](handlingar.tabeller/54-1.csv)
+
+|  | Namn | Utfall jan<br>2021 -jun<br>2021 | Utfall jan<br>2022-jun<br>2022 | Utfall jan<br>2023-jun<br>2023 | Utfall jan<br>2024-jun<br>2024 | Utfall jan<br>2025-jun<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel heltid | 91,4 % | 92,5 % | 93,1 % | 92,8 % | 92,5 % |
+|  | Anställda andel kvinnor | 64,1 % | 63,8 % | 64,2 % | 65,3 % | 66 % |
+|  | Anställda andel män | 35,9 % | 36,2 % | 35,8 % | 34,7 % | 34,1 % |
+|  | Anställda totalt | 490 | 486 | 494 | 475 | 464 |
+|  | Antal medarbetare per<br>enhetschef | 24,6 | 27,4 | 20,4 | 18,7 | 19 |
+|  | Medelålder | 48 | 47 | 48 | 48 | 49 |
+|  | Pensionsavgångar |  | 4 | 1 | 3 | 3 |
+
+[Tabell 54-55-2](handlingar.tabeller/54-55-2.csv)
+
+|  | Namn | Utfall jan<br>2021 -jun<br>2021 | Utfall jan<br>2022 -jun<br>2022 | Utfall jan<br>2023 -jun<br>2023 | Utfall jan<br>2024 -jun<br>2024 | Utfall jan<br>2025 -jun<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Korttidssjukfrånvaro | 1,2 % | 2 % | 1,7 % | 1,7 % | 2 % |
+|  | Korttidssjukfrånvaro Kvinnor | 1,4 % | 2,4 % | 1,8 % | 2 % | 2,2 % |
+|  | Korttidssjukfrånvaro Män | 0,9 % | 1,5 % | 1,6 % | 1,3 % | 1,6 % |
+|  | Långtidssjukfrånvaro | 2,8 % | 4,2 % | 3,7 % | 2,8 % | 2,6 % |
+|  | Långtidssjukfrånvaro Kvinnor | 3,9 % | 5,6 % | 5 % | 3,5 % | 3,3 % |
+|  | Långtidssjukfrånvaro Män | 0,8 % | 2 % | 1,3 % | 1,4 % | 1,3 % |
+|  | Personalomsättning | 4,1 % | 6,9 % | 4 % | 3,3 % | 3,4 % |
+|  | Sjukfrånvaro Kvinnor | 5,3 % | 7,9 % | 6,8 % | 5,5 % | 5,4 % |
+|  | Sjukfrånvaro Män | 1,8 % | 3,4 % | 2,9 % | 2,6 % | 2,9 % |
+|  | Sjukfrånvaro Totalt | 4 % | 6,3 % | 5,4 % | 4,5 % | 4,6 % |
+|  | Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller mer | 58,4 % | 58,3 % | 58,5 % | 54,4 % | 44,8 % |
+|  | Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller mer<br>Kvinnor | 62,5 % | 59,9 % | 67 % | 59,9 % | 48,5 % |
+|  | Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller mer<br>Män | 37,1 % | 52 % | 22,1 % | 32,9 % | 31,8 % |
+|  | Sjukfrånvaro, anställda i<br>åldrarna 29 år eller yngre | 3,1 % | 7,8 % | 7,5 % | 3,9 % | 0,7 % |
+|  | Sjukfrånvaro, anställda i<br>åldrarna 30-49 år | 3,9 % | 6,2 % | 4,8 % | 4,1 % | 3,9 % |
+|  | Sjukfrånvaro, anställda i<br>åldrarna 50 år eller äldre | 4,2 % | 6,1 % | 5,9 % | 4,9 % | 5,4 % |
 
 <!-- sida 55 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Delårsrapport augusti 2025
-
-Utfall jan Utfall jan Utfall jan Utfall jan Utfall jan
-Namn                   2021 -jun 2022 -jun 2023 -jun 2024 -jun 2025 -jun
-2021     2022     2023     2024     2025
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller mer 37,1 % 52 % 22,1 % 32,9 %   31,8 %
-Män
-Sjukfrånvaro, anställda i
-3,1 %    7,8 %    7,5 %    3,9 %    0,7 %
-åldrarna 29 år eller yngre
-Sjukfrånvaro, anställda i
-3,9 %    6,2 %    4,8 %    4,1 %    3,9 %
-åldrarna 30-49 år
-Sjukfrånvaro, anställda i
-4,2 %    6,1 %    5,9 %    4,9 %    5,4 %
-åldrarna 50 år eller äldre
 
 26
 
@@ -6886,22 +6680,24 @@ Intern kontrollplan 2026
 
 [Tabell 161-1](handlingar.tabeller/161-1.csv)
 
-| Kategorier<br>Ekonomi | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Debiteringsrutiner 2. Mindre 3. Kännbar (uppfattas Ja<br>vanligt som besvärande för<br>berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. | 2 3. Vanligt 3. Kännbar (uppfattas Ja<br>Kommunövergripan som besvärande för<br>de risk: Bristande berörda intressenter och<br>följsamhet till kommunen)<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 3 2. Mindre 4. Allvarlig/stor inverkan Ja<br>Kommunövergripan vanligt (så stor att den inte får<br>de risk - Risk för inträffa)<br>korruption och<br>välfärdsbrottslighet |
-|  | 4 2. Mindre 3. Kännbar (uppfattas Ja<br>Kommunövergripan vanligt som besvärande för<br>de risk: berörda intressenter och<br>Förvaltningarnas kommunen)<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | 1 Debiteringsrutiner | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. |  | 2<br>Kommunövergripan<br>de risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3<br>Kommunövergripan<br>de risk - Risk för<br>korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4<br>Kommunövergripan<br>de risk:<br>Förvaltningarnas<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 161-162-2](handlingar.tabeller/161-162-2.csv)
 
-| Kategorier<br>Personal | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunöver- 2. Mindre 3. Kännbar Efterlevnad till gällande<br>gripande risk: vanligt (uppfattas som rutiner har följts upp under<br>Efterlevnad till besvärande för några år och visar på gott<br>rekryterings- berörda resultat. Åtgärder<br>processen intressenter och (information och utbildning)<br>kommunen) har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
-| --- | --- |
-| Ekonomi | Kommunövergripa 2. Mindre 3. Kännbar Utvecklingsarbete pågår bl<br>nde risk: vanligt (uppfattas som a med nya avstämningar<br>Grundläggande besvärande för och rapporter (BI)<br>redovisning berörda<br>kvalitetsbrister intressenter och<br>kommunen) |
-| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, | Kommunövergripa 2. Mindre 3. Kännbar Arbetet med<br>nde risk: vanligt (uppfattas som informationssäkerhet följer<br>informationssäkerh besvärande för gemensamma<br>et; skydd av berörda styrdokument med<br>information mot intressenter och uppföljning i egen process.<br>obehörig tillgång kommunen) |
-| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
-|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
-| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
+| Kategorier |  | Risker | Sannolik<br>het | Konsekvens | Anledning till att risk ej<br>tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunöver-<br>gripande risk:<br>Efterlevnad till<br>rekryterings-<br>processen | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Efterlevnad till gällande<br>rutiner har följts upp under<br>några år och visar på gott<br>resultat. Åtgärder<br>(information och utbildning)<br>har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
+| Ekonomi |  | Kommunövergripa<br>nde risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utvecklingsarbete pågår bl<br>a med nya avstämningar<br>och rapporter (BI) |
+| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, |  | Kommunövergripa<br>nde risk:<br>informationssäkerh<br>et; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Arbetet med<br>informationssäkerhet följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen process. |
+| administra<br>tion, inköp<br>m fl. |  | Kommunövergripa<br>nde risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>inköpsprocessen/leverantö<br>rsuppföljning. Även<br>uppföljning egenom<br>systemförvaltarmodellen. |
+|  |  | Kommunövergripa<br>nde risk: Risk att<br>samhällsutbyggnad<br>inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbyggna<br>d av befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnadsledning<br>(Samhällsbyggnadsproces<br>sen) där vi kommer att<br>arbeta med ”Obruten digital<br>samhällsbyggnadsprocess”<br>samt ”Utbyggnadsplan”. I<br>Samhällsbyggnadsledning<br>finns flera förvaltningar<br>representerade (Teknik,<br>Service, Bygg o Miljö,<br>Kultur o Fritid samt KSF<br>genom SBK och Ekonomi. |
+| Verksamh<br>et |  | Kommunövergripa<br>nde risk: Dämpad<br>befolkningstillväxt<br>med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>budgetprocessen och<br>lokalplanen. |
+|  |  | Risk att<br>kommunstyrelsen<br>inte utövar sin<br>uppsiktsplikt över<br>den kommunala<br>verksamheten på<br>ett ändamålsenligt<br>sätt | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 162 -->
 

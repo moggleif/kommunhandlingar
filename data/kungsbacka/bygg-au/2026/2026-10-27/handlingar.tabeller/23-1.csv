@@ -1,15 +1,5 @@
 "ratnemmok
-girvÖ
-nalp
-llit
-sat
-je
-ksir
-tta
-llit
-gnindelnA
-nalp
-lliT",,"saretroppar
+girvÖ",,"saretroppar
 eiranidro
 ednaregnuf
 .etebrastehrekäs-snoitamrofni
@@ -85,6 +75,16 @@ nemar
 moni
 saretnaH
 jeN"
+"nalp
+llit
+sat
+je
+ksir
+tta
+llit
+gnindelnA",,,,,,,
+"nalp
+lliT",,,,,,,
 edrävksiR,,"röb sadrägtå
 ksiR","röb sadrägtå
 ksiR","aks sadrägtå
@@ -92,8 +92,7 @@ ksiR","röb sadrägtå
 ksiR","aks sadrägtå
 ksiR","aks sadrägtå
 ksiR"
-"gräfksiR
-snevkesnoK",)nenummok,"girdniL mos adröreb hco )nenummok
+gräfksiR,)nenummok,"girdniL mos adröreb hco )nenummok
 sattafppu( retnessertni
 .2
 va
@@ -113,6 +112,7 @@ sattafppu( retnessertni
 ednarävseb
 sattafppu( retnessertni
 .3"
+snevkesnoK,,,,,,,
 tehkilonnaS,,"tgilnaV
 .3","erdniM tgilnav
 .2","tgilnaV
@@ -123,9 +123,7 @@ tehkilonnaS,,"tgilnaV
 "?lef
 åg
 nak
-daV
-reksiR
-rnsirtaM",".etni
+daV",".etni
 ,etni
 relläg
 saretroppar
@@ -281,3 +279,5 @@ röf agåmröf srednuk
 ksiR
 åp
 32"
+reksiR,,,,,,,
+rnsirtaM,,,,,,,

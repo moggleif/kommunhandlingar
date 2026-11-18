@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.63c8c56619d9a5b19c1f1/1776411562726
 sha256: 47156ef1a802f841000bd84c39b8ccc166ab8fa1c708a46d2116969a74192dd9
 bytes: 5951631
 sidor: 52
-hamtad: 2026-11-08T11:34:31+00:00
-konverterad: 2026-11-08T11:35:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:57:29+00:00
+konverterad: 2026-11-18T01:57:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -296,10 +296,9 @@ Kommunstyrelsen 2005-05-25, 8 124.
 
 | Justerare
 
-I Utdragsbestyrkande
+| Utdragsbestyrkande
 
 | . | i |
-AN GÅ | |
 
 k
 
@@ -358,8 +357,6 @@ Je
 US
 Ne
 
-sf | Pa
-é LL | Å y |
 I i i
 
 <!-- sida 9 -->
@@ -417,7 +414,7 @@ TE, Planeringsavd 2000890vecevcn eCcoGCEEteFöDOoSGÅLDODG
 VA rsäsdarevernnss HOBSERERESSLSTS snor
 TE ososssererersrrsenrsreresir ens nnr
 
-ALI TTTKE KT TTT ET TT TTT TPEPEEEESEe
+MALT TTTKE KT TTT ET TT TSPTEPEPEEEEEEe
 
 = Expedierat / Bestyrkt
 /) Vf Obli32p
@@ -1421,12 +1418,15 @@ Kung sbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 2.1 Allmänt
 
-Nr    Lagrum/stöd              Delegeringens omfattning             Ansvarig Taget beslut och datum för
-delegat  beslutet
-
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 4 (11)
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
+
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
+| --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
+
+[Tabell 40-2](handlingar.tabeller/40-2.csv)
 
 | 2.1.15 |  | Rätt att skriva under delgivningskvitto ställt till nämnden | Fc<br>Registrator<br>Nämnd-<br>sekreterar<br>e | 1 delgivningskvitto underskrivet - E-<br>delgivning beslut 2026-03-11, dnr<br>962-2026, TE-2026-00200. |
 | --- | --- | --- | --- | --- |
@@ -1442,8 +1442,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 
 [Tabell 41-1](handlingar.tabeller/41-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 |  |  | Anställa |  |  |
 | 2.3.3 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Fc | - Parkarbetare, anställd 2026-03-14<br>av Sara Andersson<br>- Parkarbetare, anställd 2026-03-14<br>av Katarina Björklund<br>- Enhetschef, anställd 2026-03-02 av<br>Catarina Sundberg |
 
@@ -1455,8 +1456,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 [Tabell 42-43-1](handlingar.tabeller/42-43-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 15 st beslut och datum för beslut<br>1384 2026-00062 Drottninggatan<br>1384 2026-00063 Drottninggatan<br>1384 2026-00064 Guldgubbegatan<br>1384 2026-00065 Drottninggatan<br>1384 2026-00066 Drottninggatan<br>1384 2026-00073 Södra Torggatan<br>1384 2026-00074 Södra Torggatan<br>1384 2026-00075 Storgatan<br>1384 2026-00076 Storgatan<br>1384 2026-00077 Södra Torggatan<br>1384 2026-00078 Storgatan<br>1384 2026-00079 Kungsbacka torg<br>1384 2026-00080 Storgatan<br>1384 2026-00081 Kyrkogatan<br>1384 2026-00082 Kyrkogatan |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 1st beslut och datum för beslut<br>1384 2026-00069 Borgmästareplatsen |
 |  |  |  | Samordnare<br>Trafik-<br>samordnare |  |
@@ -1561,8 +1563,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260319, 1 st<br>260327, 1 st |
 | 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260320, 1 st<br>260327, 1 st |
 | 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt uppehåll i sophämtning | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260303, 1 st<br>260304, 1 st<br>260310, 3 st<br>260311, 2 st<br>260312, 1 st<br>260316, 1 st<br>260317, 5 st<br>260318, 6 at<br>260319, 3 st<br>260323, 4 st<br>260325, 1 st<br>260327, 4 st<br>260331, 2 st |

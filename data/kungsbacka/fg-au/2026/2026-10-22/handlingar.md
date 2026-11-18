@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acffb5a57/1792414941
 sha256: 7b3c77a800fee395dc2e8d98b13d886c1c1e88e75774345a2228ef7a960255c2
 bytes: 7202772
 sidor: 304
-hamtad: 2026-11-08T09:18:10+00:00
-konverterad: 2026-11-08T09:19:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T23:59:30+00:00
+konverterad: 2026-11-18T00:00:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [36, 257, 259, 260, 263, 264, 265, 267, 271, 273, 275, 276, 278, 280, 291, 293, 295, 296, 297, 298]
 tolkade: []
@@ -414,19 +414,19 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-|  | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Risk för bristande som besvärande för<br>efterlevnad till NIS2- berörda intressenter och<br>direktivet och gällande kommunen)<br>rutiner och regelverk |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Risk för bristande<br>efterlevnad till NIS2-<br>direktivet och gällande<br>rutiner och regelverk | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 15-2](handlingar.tabeller/15-2.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-| Verksamhet | Kommunövergrip<br>ande risk: 3. Kännbar<br>Dämpad (uppfattas som<br>befolkningstillväx besvärande för<br>2. Mindre vanligt<br>t med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Verksamhet |  | Kommunövergrip<br>ande risk:<br>Dämpad<br>befolkningstillväx<br>t med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 16 -->
 
@@ -637,139 +637,117 @@ KUNGSBACKA KOMMUN
 
 Risker 2027 från förvaltningen
 
-Utredning om Frånvaroutredning görs Stärkt arbete med närvaro finns i
-orsak till  inte på elever med förvaltningen, nu med fokus på att
-frånvaro    omfattande frånvaro. snabbt fånga upp elever innan de
-hamnar i stor frånvaro. Samtidigt viktigt
-Förskola &                    att fånga upp de elever som har mer
-Grundskola                    omfattande frånvaro redan. Skollagen 7
-kap. 19 a §
-Om en elev har upprepad eller längre
-frånvaro från den verksamhet som avses
-i 17 § ska rektorn, oavsett om det är fråga
-om giltig eller ogiltig frånvaro, se till att
-frånvaron skyndsamt utreds om det inte
-är obehövligt. Utredningen ska
-genomföras i samråd med eleven och
-elevens vårdnadshavare samt med
-elevhälsan.
+[Tabell 21-23-1](handlingar.tabeller/21-23-1.csv)
 
-Risk för    Bristande efterföljsamhet För att säkerställa att kommunikation
-bristande och till förvaltnings- och sker likvärdigt finns en minsta
-olikvärdig  enhetsgemensamma  gemensamma nämnare för vilka
-information till arbetssätt gällande funktioner som används i systemet tex
-vårdnadshavare dokumentation och schema, dokumentation
-i lärplattformen kommunikation i utvecklingssamtal. Detta gör att
-förvaltningens    vårdnadshavare kan känna igen
-Förskola &  lärplattform gör att kommunikationsvägar oavsett lärare
-Grundskola  vårdnadshavare inte får som kommunicerar. Otydlighet ger risk
-tillgång till adekvat för att information missas, inte
-information rörande förmedlas, ineffektivitet och minskat
-deras barns utbildning. förtroende.
-Elevers behov av Insatser inom särskilt Elever i behov av särskilt stöd kan ha
-särskilt stöd stöd är inte utformade behov både på skoltid och fritidshemstid.
-utreds, planeras specifikt för elevens Fritidshemmets verksamhet har specifika
-och genomförs vistelse i      förutsättningar och om insatserna inte är
-inte utifrån de fritidshemsverksamheten anpassade och implementerade även i
-förutsättningar och därmed risk att denna verksamhet finns risk för att
-
-som finns på eleven inte får rätt stöd. eleven inte får rätt stöd.
-fritidshemmet
-Förskola &
-Grundskola
-
-Felaktig    Utbetalning av externa Exempelvis mätdatum, antal barn,
-utbetalning av bidrag görs utifrån tillstånd är faktorer som påverkar
-bidrag till felaktig information
-fristående
-huvudmän
+| Utredning om | Frånvaroutredning görs |  |  | Stärkt arbete med närvaro finns i<br>förvaltningen, nu med fokus på att<br>snabbt fånga upp elever innan de<br>hamnar i stor frånvaro. Samtidigt viktigt<br>att fånga upp de elever som har mer<br>omfattande frånvaro redan. Skollagen 7<br>kap. 19 a §<br>Om en elev har upprepad eller längre<br>frånvaro från den verksamhet som avses<br>i 17 § ska rektorn, oavsett om det är fråga<br>om giltig eller ogiltig frånvaro, se till att<br>frånvaron skyndsamt utreds om det inte<br>är obehövligt. Utredningen ska<br>genomföras i samråd med eleven och<br>elevens vårdnadshavare samt med<br>elevhälsan. |
+| --- | --- | --- | --- | --- |
+| orsak till | inte på elever med |  |  |  |
+| frånvaro | omfattande frånvaro. |  |  |  |
+|  |  |  |  |  |
+| Förskola & |  |  |  |  |
+| Grundskola |  |  |  |  |
+| Risk för | Bristande efterföljsamhet |  |  | För att säkerställa att kommunikation<br>sker likvärdigt finns en minsta<br>gemensamma nämnare för vilka<br>funktioner som används i systemet tex<br>schema, dokumentation<br>utvecklingssamtal. Detta gör att<br>vårdnadshavare kan känna igen<br>kommunikationsvägar oavsett lärare<br>som kommunicerar. Otydlighet ger risk<br>för att information missas, inte<br>förmedlas, ineffektivitet och minskat<br>förtroende. |
+| bristande och | till förvaltnings- och |  |  |  |
+| olikvärdig | enhetsgemensamma |  |  |  |
+| information till | arbetssätt gällande |  |  |  |
+| vårdnadshavare | dokumentation och |  |  |  |
+| i lärplattformen | kommunikation i |  |  |  |
+|  | förvaltningens |  |  |  |
+| Förskola & | lärplattform gör att |  |  |  |
+| Grundskola | vårdnadshavare inte får |  |  |  |
+|  | tillgång till adekvat |  |  |  |
+|  | information rörande |  |  |  |
+|  | deras barns utbildning. |  |  |  |
+| Elevers behov av | Insatser inom särskilt |  |  | Elever i behov av särskilt stöd kan ha<br>behov både på skoltid och fritidshemstid.<br>Fritidshemmets verksamhet har specifika<br>förutsättningar och om insatserna inte är<br>anpassade och implementerade även i<br>denna verksamhet finns risk för att<br>eleven inte får rätt stöd. |
+| särskilt stöd | stöd är inte utformade |  |  |  |
+| utreds, planeras | specifikt för elevens |  |  |  |
+| och genomförs | vistelse i |  |  |  |
+| inte utifrån de | fritidshemsverksamheten |  |  |  |
+| förutsättningar | och därmed risk att |  |  |  |
+| som finns på | eleven inte får rätt stöd. |  |  |  |
+| fritidshemmet |  |  |  |  |
+|  |  |  |  |  |
+| Förskola & |  |  |  |  |
+| Grundskola |  |  |  |  |
+| Felaktig | Utbetalning av externa |  |  | Exempelvis mätdatum, antal barn,<br>tillstånd är faktorer som påverkar |
+| utbetalning av | bidrag görs utifrån |  |  |  |
+| bidrag till | felaktig information |  |  |  |
+| fristående |  |  |  |  |
+| huvudmän |  |  |  |  |
+|  |  |  |  |  |
+| Förskola & |  |  |  |  |
+| Grundskola |  |  |  |  |
+| Felaktig | Folkbokföringsfel |  |  | Kommunen är skyldig att anmäla<br>misstänkt felaktig folkbokföring till<br>Skatteverk och Försäkringskassa. |
+| folkbokföring | uppmärksammas inte |  |  |  |
+| anmäls inte | vilket kan leda till |  |  |  |
+|  | felaktiga eller otillåtna |  |  |  |
+| Förskola & | ersättningar från |  |  |  |
+| Grundskola | kommun och andra |  |  |  |
+|  | myndigheter, statistik |  |  |  |
+|  | och rättssäker |  |  |  |
+|  | handläggning. |  |  |  |
+| Felaktig | Risk för att betyg |  |  | Särskilda regler finns för hur betyg ska<br>sättas och dokumenteras.<br>Dokumentationen ska säkerställa att det<br>går att styrka vilket betyg som har<br>beslutats, av vem och när. Den gör det<br>möjligt att upptäcka och rätta fel, följa<br>ändringar och ge eleven ett tillförlitligt<br>betygsdokument även långt efter<br>avslutad skolgång. Brister kan skapa<br>osäkerhet om vilket betyg som faktiskt<br>gäller. |
+| hantering av | beslutas, registreras och |  |  |  |
+| betyg | dokumenteras felaktigt, |  |  |  |
+|  | vilket kan påverka |  |  |  |
+| Förskola & | elevernas rättssäkerhet |  |  |  |
+| Grundskola | och möjligheter till |  |  |  |
+|  | fortsatt utbildning samt |  |  |  |
+|  | försvåra insyn, kontroll |  |  |  |
+|  | och rättelse. |  |  |  |
+| Förekomst av | Om det inte finns arenor |  |  | Intresset för att delta i sammankomster<br>med andra föräldrar och verksamhet kan<br>ha minskat och ytterligare förstärkts efter<br>covid.<br>4 kap. 13 §<br>Vid varje förskole- och skolenhet ska det<br>finnas ett eller flera forum för samråd<br>med barnen, eleverna och de<br>vårdnadshavare som avses i 12 §. Där ska<br>sådana frågor behandlas som är viktiga<br>för enhetens verksamhet och som kan ha<br>betydelse för barnen, eleverna och<br>vårdnadshavarna.<br>Inom ramen för ett eller flera sådana<br>forum som avses i första stycket ska<br>barnen, eleverna och vårdnadshavarna<br>informeras om förslag till beslut i sådana<br>frågor som ska behandlas där och ges<br>tillfälle att komma med synpunkter innan<br>beslut fattas.<br>Rektorn ansvarar för att det finns forum<br>för samråd enligt första stycket och för<br>att informations- och<br>samrådsskyldigheten enligt andra<br>stycket fullgörs |
+| forum för | för förskolan att ha |  |  |  |
+| samråd | dialog med |  |  |  |
+|  | vårdnadshavare kring |  |  |  |
+| Förskola & | frågor som är viktiga för |  |  |  |
+| Grundskola | enhetens verksamhet |  |  |  |
+|  | och som kan ha |  |  |  |
+|  | betydelse för barnen, |  |  |  |
+|  | eleverna och |  |  |  |
+|  | vårdnadshavarna finns |  |  |  |
+|  | risk för att |  |  |  |
+|  | vårdnadshavares |  |  |  |
+|  | perspektiv och |  |  |  |
+|  | synpunkter inte fångas |  |  |  |
+|  | upp och beaktas i |  |  |  |
+|  | verksamhetens |  |  |  |
+|  | utveckling. Det kan |  |  |  |
+|  | begränsa deras insyn |  |  |  |
+|  | och inflytande, försvåra |  |  |  |
+|  | samverkan kring barnens |  |  |  |
+|  | behov och minska |  |  |  |
+|  | förtroendet för förskolan. |  |  |  |
+| Avsaknad av | Risk för att skolor och |  |  | Enligt skollag och annan lagstiftning ska<br>skolor och delvis förskolor årligen |
+| uppdaterade | förskolor inte upprättar, |  |  |  |
+| styrdokument | följer upp och |  |  | upprätta dokumentation; ex plan mot<br>kränkande behandling, ordningsregler<br>och förväntansdokument, lokal<br>beredskapsplan och skriftliga rutiner för<br>omhändertagande av mobiltelefoner<br>och annan elektronisk<br>kommunikationsutrustning . Om detta<br>inte aktualiseras årligen finns ökad risk<br>för brister i förebyggande och främjande<br>arbete och minskad beredskap vid<br>händelser |
+|  | uppdaterar föreskrivna |  |  |  |
+| Förskola & | planer, regler och |  |  |  |
+| Grundskola | dokumentation i den |  |  |  |
+|  | omfattning som krävs. |  |  |  |
+|  | Inaktuella eller |  |  |  |
+|  | otillräckligt förankrade |  |  |  |
+|  | underlag kan leda till att |  |  |  |
+|  | risker inte |  |  |  |
+|  | uppmärksammas, att |  |  |  |
+|  | förebyggande insatser |  |  |  |
+|  | uteblir och att ansvar |  |  |  |
+|  | och agerande vid |  |  |  |
+|  | händelser blir otydliga. |  |  |  |
+| Avgift utgår inte | Avgift tas inte ut på |  |  | Vårdnadshavare kan ha rätt till avgiftsfri<br>förskola 15 timmar för barn 3-5 år men<br>otillräcklig uppföljning och att uppgifter<br>inte uppdateras när vistelsetider ökar<br>kan medföra att ingen avgift debiteras.<br>Risk för att vårdnadshavare får betala<br>större summor i efterhand och bristande<br>likvärdighet i tillämpning av taxa. |
+| i förskolan | grund av felaktig/ej |  |  |  |
+|  | uppdaterad information |  |  |  |
+| Förskola & | kring barns vistelsetider i |  |  |  |
+| Grundskola | förskolan. |  |  |  |
 
 <!-- sida 22 -->
 
 KUNGSBACKA KOMMUN
 3 (6)
 
-Förskola &
-Grundskola
-Felaktig    Folkbokföringsfel Kommunen är skyldig att anmäla
-folkbokföring uppmärksammas inte misstänkt felaktig folkbokföring till
-anmäls inte vilket kan leda till Skatteverk och Försäkringskassa.
-felaktiga eller otillåtna
-Förskola &  ersättningar från
-Grundskola  kommun och andra
-myndigheter, statistik
-och rättssäker
-handläggning.
-
-Felaktig    Risk för att betyg Särskilda regler finns för hur betyg ska
-hantering av beslutas, registreras och sättas och dokumenteras.
-betyg       dokumenteras felaktigt, Dokumentationen ska säkerställa att det
-vilket kan påverka går att styrka vilket betyg som har
-Förskola &  elevernas rättssäkerhet beslutats, av vem och när. Den gör det
-Grundskola  och möjligheter till möjligt att upptäcka och rätta fel, följa
-fortsatt utbildning samt ändringar och ge eleven ett tillförlitligt
-försvåra insyn, kontroll betygsdokument även långt efter
-och rättelse.     avslutad skolgång. Brister kan skapa
-osäkerhet om vilket betyg som faktiskt
-gäller.
-Förekomst av Om det inte finns arenor Intresset för att delta i sammankomster
-
-forum för   för förskolan att ha med andra föräldrar och verksamhet kan
-samråd      dialog med        ha minskat och ytterligare förstärkts efter
-vårdnadshavare kring covid.
-Förskola &  frågor som är viktiga för 4 kap. 13 §
-Grundskola  enhetens verksamhet Vid varje förskole- och skolenhet ska det
-och som kan ha    finnas ett eller flera forum för samråd
-betydelse för barnen, med barnen, eleverna och de
-eleverna och      vårdnadshavare som avses i 12 §. Där ska
-vårdnadshavarna finns sådana frågor behandlas som är viktiga
-risk för att      för enhetens verksamhet och som kan ha
-vårdnadshavares   betydelse för barnen, eleverna och
-perspektiv och    vårdnadshavarna.
-synpunkter inte fångas Inom ramen för ett eller flera sådana
-upp och beaktas i forum som avses i första stycket ska
-verksamhetens     barnen, eleverna och vårdnadshavarna
-utveckling. Det kan informeras om förslag till beslut i sådana
-begränsa deras insyn frågor som ska behandlas där och ges
-och inflytande, försvåra tillfälle att komma med synpunkter innan
-samverkan kring barnens beslut fattas.
-behov och minska  Rektorn ansvarar för att det finns forum
-förtroendet för förskolan. för samråd enligt första stycket och för
-att informations- och
-samrådsskyldigheten enligt andra
-stycket fullgörs
-
-Avsaknad av Risk för att skolor och Enligt skollag och annan lagstiftning ska
-uppdaterade förskolor inte upprättar, skolor och delvis förskolor årligen
-
 <!-- sida 23 -->
 
 KUNGSBACKA KOMMUN
 4 (6)
-
-styrdokument följer upp och   upprätta dokumentation; ex plan mot
-uppdaterar föreskrivna kränkande behandling, ordningsregler
-Förskola &  planer, regler och och förväntansdokument, lokal
-Grundskola  dokumentation i den beredskapsplan och skriftliga rutiner för
-omfattning som krävs. omhändertagande av mobiltelefoner
-Inaktuella eller  och annan elektronisk
-otillräckligt förankrade kommunikationsutrustning . Om detta
-underlag kan leda till att inte aktualiseras årligen finns ökad risk
-risker inte       för brister i förebyggande och främjande
-uppmärksammas, att arbete och minskad beredskap vid
-förebyggande insatser händelser
-uteblir och att ansvar
-och agerande vid
-
-händelser blir otydliga.
-Avgift utgår inte Avgift tas inte ut på Vårdnadshavare kan ha rätt till avgiftsfri
-i förskolan grund av felaktig/ej förskola 15 timmar för barn 3-5 år men
-uppdaterad information otillräcklig uppföljning och att uppgifter
-Förskola &  kring barns vistelsetider i inte uppdateras när vistelsetider ökar
-Grundskola  förskolan.        kan medföra att ingen avgift debiteras.
-Risk för att vårdnadshavare får betala
-större summor i efterhand och bristande
-likvärdighet i tillämpning av taxa.
 
 <!-- sida 24 -->
 
@@ -778,32 +756,21 @@ KUNGSBACKA KOMMUN
 
 Risker i plan 2026- redovisas vid årsskiftet
 
-Övergångar mellan Brister i
-skolor eller överlämning kan
-skolformer hanteras leda till att
-inte på ett sätt som elevens behov
-säkerställer elevens inte identifieras
-rätt till en trygg och eller möts i tid.
-sammanhängande
-skolgång.
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-Utredning av stöd Elevers rätt till
-och upprättande av stöd regleras i
-åtgärdsprogram kap 3 i skollagen.
-sker inte skyndsamt Vid misstanke om
-att elev är i behov
-av särskilt stöd
-ska detta utredas
-skyndsamt och
-åtgärdsprogram
-ska upprättas. En
-fördröjd process
-innebär en risk att
-en elev får
-försämrade
-möjligheter att
-utvecklas och nå
-utbildningsmålen.
+| Övergångar mellan | Brister i<br>överlämning kan<br>leda till att<br>elevens behov<br>inte identifieras<br>eller möts i tid. |  |
+| --- | --- | --- |
+| skolor eller |  |  |
+| skolformer hanteras |  |  |
+| inte på ett sätt som |  |  |
+| säkerställer elevens |  |  |
+| rätt till en trygg och |  |  |
+| sammanhängande |  |  |
+| skolgång. |  |  |
+| Utredning av stöd | Elevers rätt till<br>stöd regleras i<br>kap 3 i skollagen.<br>Vid misstanke om<br>att elev är i behov<br>av särskilt stöd<br>ska detta utredas<br>skyndsamt och<br>åtgärdsprogram<br>ska upprättas. En<br>fördröjd process<br>innebär en risk att<br>en elev får<br>försämrade<br>möjligheter att<br>utvecklas och nå<br>utbildningsmålen. |  |
+| och upprättande av |  |  |
+| åtgärdsprogram |  |  |
+| sker inte skyndsamt |  |  |
 
 <!-- sida 25 -->
 
@@ -3486,110 +3453,44 @@ Effektmåtten visar elevernas kunskapsresultat och måluppfyllelse.
 
 8.2 Resursmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-Kostnad
-per inskrivet
-Förskola barn,       183 671   184 293  187 808
-kommunal
-förskola
-Kostnad
-per inskrivet
-Pedagogisk
-barn i      131 824   144 657  146 723
-omsorg
-pedagogisk
-omsorg
-Förskoleklas Kostnad
-83 079    93 900    88 546
-s        per elev
-Kostnad
-kommunal
-Grundskola grundskola 128 512  133 720  135 993
-åk 1-9,
-kr/elev
-Kostnad
-per inskrivet
-Fritidshem barn,     48 258    49 784    51 319
-kommunalt
-fritidshem
-Kostnad
-Anpassad per elev,
-615 200   603 900  634 900
-grundskola anpassad
-grundskola
 8.3 Prestationsmått
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Antal
-inskrivna
-barn per     4,6       4,7       4,6
-årsarbetare,
-Förskola förskola
-Barn 1-5
-år, andel i 88,7 %    89,4 %    87,9 %
-förskola
 
 19
+
+[Tabell 88-1](handlingar.tabeller/88-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Förskola | Kostnad<br>per inskrivet<br>barn,<br>kommunal<br>förskola | 183 671 | 184 293 | 187 808 |  |  |
+| Pedagogisk<br>omsorg | Kostnad<br>per inskrivet<br>barn i<br>pedagogisk<br>omsorg | 131 824 | 144 657 | 146 723 |  |  |
+| Förskoleklas<br>s | Kostnad<br>per elev | 83 079 | 93 900 | 88 546 |  |  |
+| Grundskola | Kostnad<br>kommunal<br>grundskola<br>åk 1-9,<br>kr/elev | 128 512 | 133 720 | 135 993 |  |  |
+| Fritidshem | Kostnad<br>per inskrivet<br>barn,<br>kommunalt<br>fritidshem | 48 258 | 49 784 | 51 319 |  |  |
+| Anpassad<br>grundskola | Kostnad<br>per elev,<br>anpassad<br>grundskola | 615 200 | 603 900 | 634 900 |  |  |
+
+[Tabell 88-90-2](handlingar.tabeller/88-90-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Förskola | Antal<br>inskrivna<br>barn per<br>årsarbetare,<br>förskola | 4,6 | 4,7 | 4,6 |  |  |
+|  | Barn 1-5<br>år, andel i<br>förskola | 88,7 % | 89,4 % | 87,9 % |  |  |
+|  | Andel<br>förskolebarn i<br>enskild regi | 15 % | 15,9 % | 16,3 % |  |  |
+|  | Årsarbetare i<br>förskolan<br>med<br>pedagogisk<br>högskoleexa<br>men | 47 % | 48 % | 51,2 % |  |  |
+| Pedagogisk<br>omsorg | Antal<br>inskrivna<br>barn per<br>personal,<br>pedagogisk<br>omsorg | 4,8 | 5,2 | 4 |  |  |
+|  | Andel (%)<br>inskriv. barn i<br>ensk. regi | 64 % | 69 % | 70 % |  |  |
+| Förskoleklas<br>s | Årsarbetare i<br>förskoleklass<br>med<br>pedagogisk<br>högskoleexa<br>men | 88,3 % | 93,8 % |  |  |  |
+|  | Antal<br>elever/lärare | 17,7 | 20,3 | 22,4 |  |  |
+| Grundskola | Elever/lärare<br>(årsarbetare)<br>i grundskola<br>F-9 | 12,4 | 13 | 12,6 |  |  |
+|  | Elever<br>folkbokf. i<br>kommunen,<br>andel i<br>fristående<br>skola | 19,6 % | 19,8 % | 20,4 % |  |  |
+|  | Lärare<br>med<br>pedagogisk<br>högskoleexa<br>men i<br>kommunal<br>grundskola<br>åk 1-9 | 90,2 % | 92,7 % |  |  |  |
+| Fritidshem | Inskrivna<br>elever per<br>årsarbetare i<br>fritidshem | 20,6 | 24,5 | 22,8 |  |  |
+|  | Årsarbetare i<br>fritidshem<br>med<br>pedagogisk<br>högskoleexa<br>men | 47 % | 49 % | 46 % |  |  |
+| Anpassad<br>grundskola | Antal<br>elever per<br>lärare<br>(heltidstjänst) | 5,4 | 4,6 | 4,4 |  |  |
 
 <!-- sida 89 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2027
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Andel
-förskolebarn i 15 %   15,9 %    16,3 %
-enskild regi
-
-Årsarbetare i
-förskolan
-med          47 %      48 %     51,2 %
-pedagogisk
-högskoleexa
-men
-Antal
-inskrivna
-barn per
-4,8       5,2       4
-personal,
-Pedagogisk pedagogisk
-omsorg   omsorg
-Andel (%)
-inskriv. barn i 64 %   69 %     70 %
-ensk. regi
-Årsarbetare i
-förskoleklass
-med         88,3 %    93,8 %
-Förskoleklas pedagogisk
-s        högskoleexa
-men
-Antal
-17,7      20,3      22,4
-elever/lärare
-Elever/lärare
-(årsarbetare) 12,4     13        12,6
-i grundskola
-F-9
-Elever
-folkbokf. i
-kommunen,
-19,6 %    19,8 %    20,4 %
-andel i
-Grundskola fristående
-skola
-Lärare
-med
-pedagogisk
-högskoleexa
-90,2 %    92,7 %
-men i
-kommunal
-grundskola
-åk 1-9
-Inskrivna
-elever per
-Fritidshem            20,6      24,5      22,8
-årsarbetare i
-fritidshem
 
 20
 
@@ -3597,96 +3498,28 @@ fritidshem
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2027
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
 
-Årsarbetare i
-fritidshem
-med          47 %      49 %     46 %
-pedagogisk
-högskoleexa
-men
-Antal
-Anpassad elever per
-5,4       4,6       4,4
-grundskola lärare
-(heltidstjänst)
 8.4 Effektmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-Andel (%)
-elever i åk. 9
-som uppnått
-betygskriterie
-81,7 %    83,4 %    78,6 %
-rna i alla
-ämnen,
-kommunala
-skolor
-Andel (%)
-elever i
-årskurs 9
-behöriga till
-89,1 %     89 %     86,1 %
-gymnasiesko
-lan,
-kommunala
-skolor
-Grundskola
-Genomsnittli
-gt meritvärde
-236,5    237,5     231,9
-i årskurs 9,
-kommunala
-skolor
-Andel
-elever som
-uppnått
-betygskriterie
-rna i samtliga
-2,2       3,8
-ämnen,
-avvikelse
-från
-modellberäkn
-at värde
-
 21
+
+[Tabell 90-91-1](handlingar.tabeller/90-91-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Grundskola | Andel (%)<br>elever i åk. 9<br>som uppnått<br>betygskriterie<br>rna i alla<br>ämnen,<br>kommunala<br>skolor | 81,7 % | 83,4 % | 78,6 % |  |  |
+|  | Andel (%)<br>elever i<br>årskurs 9<br>behöriga till<br>gymnasiesko<br>lan,<br>kommunala<br>skolor | 89,1 % | 89 % | 86,1 % |  |  |
+|  | Genomsnittli<br>gt meritvärde<br>i årskurs 9,<br>kommunala<br>skolor | 236,5 | 237,5 | 231,9 |  |  |
+|  | Andel<br>elever som<br>uppnått<br>betygskriterie<br>rna i samtliga<br>ämnen,<br>avvikelse<br>från<br>modellberäkn<br>at värde | 2,2 | 3,8 |  |  |  |
+|  | Andel<br>elever som<br>är behöriga<br>till ett<br>yrkesprogra<br>m, avvikelse<br>från<br>modellberäkn<br>at värde | -0,1 | 0,2 |  |  |  |
+|  | Andel<br>elever åk 9<br>behöriga till<br>yrkesprogra<br>m, fristående<br>skolor |  | 96,4 % | 96,5 % |  |  |
+|  | Genomsnittli<br>gt meritvärde<br>i årskurs 9,<br>fristående<br>skolor | 272,2 | 261,5 | 260,3 |  |  |
+|  | Andel<br>elever i åk. 9<br>som uppnått<br>målen i alla<br>ämnen,<br>fristående<br>skolor | 95,3 % | 91,8 % | 92,1 % |  |  |
 
 <!-- sida 91 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2027
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Andel
-elever som
-är behöriga
-till ett
-yrkesprogra  -0,1      0,2
-m, avvikelse
-från
-modellberäkn
-at värde
-Andel
-elever åk 9
-behöriga till
-96,4 %    96,5 %
-yrkesprogra
-m, fristående
-skolor
-Genomsnittli
-gt meritvärde
-272,2    261,5     260,3
-i årskurs 9,
-fristående
-skolor
-Andel
-elever i åk. 9
-som uppnått
-målen i alla 95,3 %   91,8 %    92,1 %
-ämnen,
-fristående
-skolor
 
 22
 
@@ -3712,51 +3545,36 @@ inflytande, psykologisk trygghet och en god samarbetskultur. Dessa faktorer bidr
 
 9.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-```osaker-tabell
-Anställda totalt      2 494    2 366     2 331
-
-Anställda andel kvinnor 85,2 %  86 %     85,3 %
-Anställda andel män  14,8 %     14 %     14,7 %
-Andel heltid         89,8 %    89,2 %    89,6 %
-
-Sjukfrånvaro Totalt   6,5 %    6,6 %      6 %
-Sjukfrånvaro Kvinnor  7 %      7,1 %      6 %
-
-Sjukfrånvaro Män      4 %      3,8 %      3 %
-Korttidssjukfrånvaro  3,4 %    3,2 %      3 %
-```
-
-Korttidssjukfrånvaro Kvinnor 3,5 % 3,4 %  3 %
-
-Korttidssjukfrånvaro Män 2,9 % 2,5 %      2 %
-Långtidssjukfrånvaro  3,1 %    3,4 %      3 %
-
-Långtidssjukfrånvaro Kvinnor 3,4 % 3,7 %  3 %
-Långtidssjukfrånvaro Män 1,2 % 1,3 %      1 %
-Antal medarbetare per
-24,4      23,9      25,4
-enhetschef
-Personalomsättning    9,4 %    7,5 %     6,9 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 36,2 % 38,7 % 39 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 38,2 % 39,8 % 40 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 16,5 % 26,8 % 19 %
-mer Män
-
 23
+
+[Tabell 92-93-1](handlingar.tabeller/92-93-1.csv)
+
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Anställda totalt | 2 494 | 2 366 | 2 331 |  |  |
+| Anställda andel kvinnor | 85,2 % | 86 % | 85,3 % |  |  |
+| Anställda andel män | 14,8 % | 14 % | 14,7 % |  |  |
+| Andel heltid | 89,8 % | 89,2 % | 89,6 % |  |  |
+| Sjukfrånvaro Totalt | 6,5 % | 6,6 % | 6 % |  |  |
+| Sjukfrånvaro Kvinnor | 7 % | 7,1 % | 6 % |  |  |
+| Sjukfrånvaro Män | 4 % | 3,8 % | 3 % |  |  |
+| Korttidssjukfrånvaro | 3,4 % | 3,2 % | 3 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 3,5 % | 3,4 % | 3 % |  |  |
+| Korttidssjukfrånvaro Män | 2,9 % | 2,5 % | 2 % |  |  |
+| Långtidssjukfrånvaro | 3,1 % | 3,4 % | 3 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 3,4 % | 3,7 % | 3 % |  |  |
+| Långtidssjukfrånvaro Män | 1,2 % | 1,3 % | 1 % |  |  |
+| Antal medarbetare per<br>enhetschef | 24,4 | 23,9 | 25,4 |  |  |
+| Personalomsättning | 9,4 % | 7,5 % | 6,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 36,2 % | 38,7 % | 39 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 38,2 % | 39,8 % | 40 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 16,5 % | 26,8 % | 19 % |  |  |
+| Medelålder | 45 | 46 | 46 |  |  |
 
 <!-- sida 93 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2027
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Medelålder             45       46        46
 
 9.3 Arbetsmiljö
 
@@ -4089,107 +3907,88 @@ Nämndbudget 2027
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Inköp, policy                                     KF 2026-05-05, § 80
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-
-Integritetspolicy                                 KF 2021-11-09 § 142
-Reglemente för nämnden för Förskola & Grundskola  KF 2018-06-14 § 109
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-
-Klimatstrategi                                    KF 2022-05-10 § 77
-Invånardialog                                     KF 2014-10-14 § 119
-
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Skolskjuts, övergripande regler för elever i förskoleklass, grundskola och
-KF 2022-11-08 § 181
-grundsärskola
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Allmän stadga för nämnder och styrelser           KF §111/15
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-
 11.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-
 31
+
+[Tabell 100-1](handlingar.tabeller/100-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Förskola & Grundskola | KF 2018-06-14 § 109 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Skolskjuts, övergripande regler för elever i förskoleklass, grundskola och<br>grundsärskola | KF 2022-11-08 § 181 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Allmän stadga för nämnder och styrelser | KF §111/15 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+
+[Tabell 100-101-2](handlingar.tabeller/100-101-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 101 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
-11.1.3 Styrdokument beslutade av nämnden för Förskola & Grundskola
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning nämnden för Förskola & Grundskola NFG 2026-01-28, § 5
 
-Regler för skolskjuts                             NFG 2026-05-20, § 57
-Informationshanteringsplan och klassificeringsstruktur NFG 2025-03-06, § 29
-Regler för kommunal förskola, fritidshem och pedagogisk omsorg i Kungsbacka
-NFG 2024-08-21, § 77
-kommun,
-Riktlinje gällande ANDTS för kommunala förskolor och grundskolor i
-NFG 2025-01-22, § 46
-Kungsbacka kommun
-Kungsbacka kommuns riktlinje för skolval och skolplacering i förskoleklass och
-NFG 2026-05-20, § 55
-grundskola
-Resursfördelningsmodell                           NFG 2025-10-02, § 95
-Riktlinjer för behovsprövning av barnomsorg på kvällar och helger NFG 2023-06-15, § 91
-Riktlinje Civil beredskap                         NGF 2025-11-12, § 120
-Riktlinje för profilklasser                       NFG 2026-09-16, § 87
-Riktlinje för fristående förskola, fritidshem och enskild pedagogisk omsorg i
-NFG 2024-08-21, § 78
-Kungsbacka kommun
+11.1.3 Styrdokument beslutade av nämnden för Förskola & Grundskola
+
 11.1.4 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
-
 32
+
+[Tabell 101-1](handlingar.tabeller/101-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning nämnden för Förskola & Grundskola | NFG 2026-01-28, § 5 |
+| Regler för skolskjuts | NFG 2026-05-20, § 57 |
+| Informationshanteringsplan och klassificeringsstruktur | NFG 2025-03-06, § 29 |
+| Regler för kommunal förskola, fritidshem och pedagogisk omsorg i Kungsbacka<br>kommun, | NFG 2024-08-21, § 77 |
+| Riktlinje gällande ANDTS för kommunala förskolor och grundskolor i<br>Kungsbacka kommun | NFG 2025-01-22, § 46 |
+| Kungsbacka kommuns riktlinje för skolval och skolplacering i förskoleklass och<br>grundskola | NFG 2026-05-20, § 55 |
+| Resursfördelningsmodell | NFG 2025-10-02, § 95 |
+| Riktlinjer för behovsprövning av barnomsorg på kvällar och helger | NFG 2023-06-15, § 91 |
+| Riktlinje Civil beredskap | NGF 2025-11-12, § 120 |
+| Riktlinje för profilklasser | NFG 2026-09-16, § 87 |
+| Riktlinje för fristående förskola, fritidshem och enskild pedagogisk omsorg i<br>Kungsbacka kommun | NFG 2024-08-21, § 78 |
+
+[Tabell 101-2](handlingar.tabeller/101-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
 
 <!-- sida 102 -->
 
@@ -4199,14 +3998,14 @@ Nämndbudget 2027
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Ansökan om godkännande som enskild huvudman för fristående förskola och
-KF 2021-12-07 § 177
-fristående fritidshem, taxa för avgift
-
 33
+
+[Tabell 102-1](handlingar.tabeller/102-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Ansökan om godkännande som enskild huvudman för fristående förskola och<br>fristående fritidshem, taxa för avgift | KF 2021-12-07 § 177 |
 
 <!-- sida 103 -->
 
@@ -9576,7 +9375,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        5 (12)
 
 [Tabell 231-1](handlingar.tabeller/231-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | Årligen | Årligen uppdatera<br>beredskapsplan och<br>kontinuitetsplan, Förskola &<br>Grundskola | Säkerhetssamordnare | Förvaltningschef |
 | 2027 | Stärka den centrala<br>krisledningsorganisationen<br>genom utbildning och<br>erfarenhetsutbyte med andra | Säkerhetssamordnare | Förvaltningschef |
@@ -9658,7 +9457,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (12)
 
 [Tabell 233-1](handlingar.tabeller/233-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | Årligen | Årligen uppdatera<br>kontinuitetsplan | Säkerhetssamordnare | Förvaltningschef |
 | Årligen | Årligen uppdatera plan för<br>krigsorganisation | Säkerhetssamordnare | Förvaltningschef |
@@ -9672,7 +9471,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        7 (12)
 
 [Tabell 233-2](handlingar.tabeller/233-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2030 | Säkerställa infrastrukturen i<br>lokaler, El, vatten, värme. Stöd i<br>projektet Robusta lokaler. | Service<br>fastighet/säkerhets-<br>samordnare<br>FG/enhetschefer | Förvaltningschef |
 
@@ -9763,7 +9562,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        9 (12)
 
 [Tabell 235-1](handlingar.tabeller/235-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | Årligen | Årligen uppdatera centrala<br>rutiner, systematiskt<br>säkerhetsarbete | Säkerhetssamordnare | Förvaltningschef |
 | Årligen | Årligen uppdatera lokala<br>krisplaner | Enhetschefer | Verksamhetschefer |
@@ -9785,7 +9584,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        10 (12)
 
 [Tabell 236-1](handlingar.tabeller/236-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | Årligen | Samtlig personal ska repetera<br>e-utbildningen Fly – Sök skydd<br>– Larma, beredskap för<br>Skolattack | Enhetschefer | Förvaltningschef |
 | 2027 | Fortsatt implementering<br>larmsystem – Utbildning i<br>systemet samt dialoger om<br>användning | Säkerhetssamordnare/<br>Enhetschefer | Förvaltningschef |
@@ -9798,7 +9597,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        10 (12)
 
 [Tabell 236-2](handlingar.tabeller/236-2.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2025-<br>2030 | Krisledningsövning med andra<br>förvaltningar samt deltagande i<br>nationella övningar. | Säkerhetssamordnare | Förvaltningschef |
 
@@ -9846,7 +9645,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        11 (12)
 
 [Tabell 237-1](handlingar.tabeller/237-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Upprätta en plan tillsammans med<br>fristående förskolor och skolor<br>avseende samverkan vid höjd<br>beredskap | Säkerhetssamordnare | Förvaltningschef |
 | 2027 | Uppdatera kommunikationsvägar vi<br>skall använda oss av under kris<br>gentemot privata aktörer och<br>upphandlade leverantörer. | Säkerhetssamordnare | FG/upphandling<br>senheten |
@@ -9891,7 +9690,7 @@ Kungsbacka kommun             Riktlinje civil beredskap        12 (12)
 
 [Tabell 238-1](handlingar.tabeller/238-1.csv)
 
-| ÅR AKTIVITET UTFÖRARE ANSVAR |  |  |  |
+| ÅR | AKTIVITET | UTFÖRARE | ANSVAR |
 | --- | --- | --- | --- |
 | 2027 | Säkerställa tillgång till<br>kommunikationssystem samt utarbeta<br>plan för redundans vid bortfall. | SE/digitalt center | Förvaltningschef |
 | 2027 | Kartlägga förvaltningens behov av<br>förmåga till alternativ kommunikation<br>via alternativ mobil lösning (Teracom) | Säkerhetssamordnare | Förvaltningschef |

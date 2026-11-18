@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff65236/1792139376
 sha256: 0da9d213091a6764da27a70a81beb9c36248733683a5aadaad4cca7c0408b2da
 bytes: 5390863
 sidor: 133
-hamtad: 2026-11-08T08:46:53+00:00
-konverterad: 2026-11-08T08:47:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:31:07+00:00
+konverterad: 2026-11-17T23:31:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -369,12 +369,11 @@ Transaktions-ID: 1085ae38c89f4dbfb63dc65adefbo2b3
 
 Inkomna skrivelser och protokoll till nämnden för tiden 2026-09-09 -- 2026-10-06
 
-Dok.nr DiarieNr   Datum    Beskrivning
-
 [Tabell 10-1](handlingar.tabeller/10-1.csv)
 
-| 59349 | FG-2026-00451 | 2026-09-11 | (Motion) Finansieringsmodeller för förskolan och skolan |
+| Dok.nr | DiarieNr | Datum | Beskrivning |
 | --- | --- | --- | --- |
+| 59349 | FG-2026-00451 | 2026-09-11 | (Motion) Finansieringsmodeller för förskolan och skolan |
 | 59350 | FG-2026-00451 | 2026-09-11 | Beredning av motion -Nämnden för Förskola & Grundskola |
 | 59351 | FG-2026-00451 | 2026-09-11 | Protokollsutdrag Kommunstyrelsens arbetsutskott 2026-09-01 § 256 |
 | 59352 | FG-2026-00451 | 2026-09-11 | Protokollsutdrag Kommunfullmäktige 2026-08-11 § 154 |
@@ -2566,15 +2565,17 @@ Den föreslagna F-6 organisationen vid Gällingeskolan förutsätter därmed en 
 
 undervisningen genomförs vid annan skola. Samtidigt innebär anpassningen av den nuvarande slöjdsalen att
 skolan får ett ytterligare hemklassrum med funktioner för bildundervisning.
-Årskurs           Undervisning på annan skola
-Åk 3              Slöjd
-
-Åk 4              Musik och slöjd
-Åk 5              Musik och slöjd
-Åk 6              Musik, slöjd, hem- och konsumentkunskap och moderna språk.
-Eventuellt delar av idrott och hälsa.
 
 Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 11
+
+[Tabell 75-1](handlingar.tabeller/75-1.csv)
+
+| Årskurs | Undervisning på annan skola |
+| --- | --- |
+| Åk 3 Slöjd |  |
+| Åk 4 Musik och slöjd |  |
+| Åk 5 Musik och slöjd |  |
+| Åk 6 Musik, slöjd, hem- och konsumentkunskap och moderna språk.<br>Eventuellt delar av idrott och hälsa. |  |
 
 <!-- sida 76 -->
 
@@ -2612,10 +2613,6 @@ En F-6 organisation vid Fjärås Bräckaskolan bedöms därmed kunna inrymmas in
 lokaler utifrån nuvarande elevprognos, utan att Hus C tas i anspråk. Delar av undervisningen för årskurs 6
 behöver dock fortsatt genomföras på Smedingeskolan.
 
-Årskurs           Undervisning på annan skola
-Åk 6              Delar av hem- och konsumentkunskap samt eventuellt delar av idrott och
-hälsa
-
 Smedingeskolan – 7-9
 
 Smedingeskolan föreslås organiseras som en 7-9 skola. Förändringen innebär att årskurs 6 inte längre har sin
@@ -2631,6 +2628,12 @@ Undervisningen i moderna språk för årskurs 6 kan samordnas på Fjärås Bräc
 för elever från både Gällingeskolan och Fjärås Bräckaskolan. Om undervisningen förläggs till Fjärås
 
 Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 12
+
+[Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| Årskurs | Undervisning på annan skola |
+| --- | --- |
+| Åk 6 Delar av hem- och konsumentkunskap samt eventuellt delar av idrott och<br>hälsa |  |
 
 <!-- sida 77 -->
 
@@ -2829,28 +2832,6 @@ den samlade transportlösningen.
 Den totala ekonomiska konsekvensen av alternativ B består därmed främst av investerings- och
 hyreskostnaden för anpassningen av Gällingeskolan, transportkostnader samt förändrat kapacitetsutnyttjande
 i befintliga lokaler.
-Ekonomiskt perspektiv Alternativ A - nuvarande Alternativ B - förändrad organisation
-organisation
-Gällingeskolan     Befintliga lokaler används. Gällingeskolans slöjdsal byggs om.
-Preliminär kostnadsbedömning för
-ombyggnad och anpassning av
-slöjdsalen cirka 510 tkr. Kostnaden
-kan förändras när åtgärdernas
-omfattning preciseras.
-Eventuellt anpassning för
-bildundervisning tillkommer.
-Fjärås Bräckaskolan Befintliga lokaler används. Inga identifierade investeringar
-utifrån nuvarande prognos. Hus C
-bedöms inte behöva tas i anspråk
-under prognosperioden.
-Smedingeskolan     Högre elevantal och   Lägre elevantal och
-kapacitetsutnyttjande. kapacitetsutnyttjande. Lokalkostnaden
-per elev ökar när lokalbeståndet
-kvarstår.
-Transporter        Transporter förekommer redan i Transportbehovet förändras. Den
-nuvarande organisation. samlade ekonomiska konsekvensen
-behöver beräknas utifrån den nya
-organisationen.
 
 4.5 Konsekvenser för elever och barnrättsperspektiv
 En förändrad skolorganisation påverkar eleverna främst genom tidpunkten för skolbyte, var undervisningen
@@ -2873,72 +2854,56 @@ mellanstadiet, men har kvar sin ordinarie klasstillhörighet och huvuddelen av u
 
 Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 17
 
+[Tabell 81-1](handlingar.tabeller/81-1.csv)
+
+| Ekonomiskt perspektiv | Alternativ A - nuvarande<br>organisation | Alternativ B - förändrad organisation |
+| --- | --- | --- |
+| Gällingeskolan Befintliga lokaler används. Gällingeskolans slöjdsal byggs om.<br>Preliminär kostnadsbedömning för<br>ombyggnad och anpassning av<br>slöjdsalen cirka 510 tkr. Kostnaden<br>kan förändras när åtgärdernas<br>omfattning preciseras.<br>Eventuellt anpassning för<br>bildundervisning tillkommer. |  |  |
+| Fjärås Bräckaskolan Befintliga lokaler används. Inga identifierade investeringar<br>utifrån nuvarande prognos. Hus C<br>bedöms inte behöva tas i anspråk<br>under prognosperioden. |  |  |
+| Smedingeskolan Högre elevantal och Lägre elevantal och<br>kapacitetsutnyttjande. kapacitetsutnyttjande. Lokalkostnaden<br>per elev ökar när lokalbeståndet<br>kvarstår. |  |  |
+| Transporter Transporter förekommer redan i Transportbehovet förändras. Den<br>nuvarande organisation. samlade ekonomiska konsekvensen<br>behöver beräknas utifrån den nya<br>organisationen. |  |  |
+
 <!-- sida 82 -->
 
 Förflyttningar mellan skolor förekommer redan idag. Elever i årskurs 4-5 på Gällingeskolan transporteras till
 Fjärås Bräckaskolan för musikundervisning. Elever som bor i Gällingeskolans upptagningsområde och går i
 årskurs 6 har idag sin skolgång på Smedingeskolan och behöver därmed resa dit fem dagar per vecka.
-
 I en förändrad organisation behöver fler årskurser på Gällingeskolan resa till annan skola för delar av
 undervisningen. För elever i årskurs 6 förändras samtidigt resmönstret genom att Gällingeskolan blir deras
 ordinarie skola. Genom att samla den undervisning som behöver genomföras vid annan skola bedöms
-resorna kunna begränsas till cirka två dagar per vecka.
 
+resorna kunna begränsas till cirka två dagar per vecka.
 För elever i årskurs 6 på Fjärås Bräckaskolan blir skolan den ordinarie skolmiljön under hela mellanstadiet.
 Eleverna behöver förflytta sig till Smedingeskolan för hem- och konsumentkunskap samt delar av
 undervisningen i idrott och hälsa. Moderna språk genomförs på Fjärås Bräckaskolan eller Smedingeskolan
 för elever från både Fjärås Bräckaskolan och Gällingeskolan. Avståndet mellan Fjärås Bräckaskolan och
 Smedingeskolan är cirka 800 meter.
-En förändrad organisation innebär därmed att eleverna går kvar på sin F-6 skola under hela mellanstadiet,
 
+En förändrad organisation innebär därmed att eleverna går kvar på sin F-6 skola under hela mellanstadiet,
 samtidigt som vissa elevgrupper behöver förflytta sig mellan skolor för delar av undervisningen. För
 Gällingeskolans elever berör förflyttningarna fler årskurser än idag, medan omfattningen av resor för elever i
 årskurs 6 minskar jämfört med nuvarande organisation.
 
-Elevgrupp         Alternativ A - nuvarande Alternativ B - förändrad organisation
-organisation
-
-Gällingeskolan åk 3 All undervisning på Gällingeskolan.
-
-Gällingeskolan åk 4-5 Resor till Fjärås Bräckaskolan för
-musik.
-
-Gällingeskolan åk 6 Smedingeskolan är ordinarie skola.
-Elever resor dit 5 dagar per vecka.
-
-Fjärås Bräckaskolan åk 6 Smedingeskolan är ordinarie skola.
-
-Resor till Fjärås Bräckaskolan för
-slöjd.
-Resor till Fjärås Bräcka för musik,
-slöjd.
-
-Gällingeskolan är ordinarie skola.
-Eleverna behöver resa till
-Smedingeskolan och Fjärås
-Bräckaskolan för delar av
-undervisningen, bland annat till
-Fjärås Bräckaskolan för moderna
-språk.
-Fjärås Bräckaskolan är ordinarie
-
-skola. Förflyttning till
-Smedingeskolan för hemkunskap och
-eventuellt delar av idrott och hälsa.
-Moderna språk genomförs på Fjärås
-Bräckaskolan eller Smedingeskolan.
-
 Vid bedömningen av alternativen behöver konsekvenserna för eleverna vägas samman. En förändrad
 organisation innebär att skolbytet senareläggs till årskurs 7 och att eleverna har sin ordinarie skoltillhörighet
 på samma skola under hela mellanstadiet. Samtidigt innebär organisationen att vissa elevgrupper behöver
-förflytta sig mellan skolor under skoldagen för delar av undervisningen.
 
+förflytta sig mellan skolor under skoldagen för delar av undervisningen.
 Ur ett barnrättsperspektiv behöver dessa förutsättningar vägas samman utifrån elevernas rätt till utbildning
 och förutsättningar för kontinuitet, trygghet, tillgänglighet och likvärdighet. Barnets bästa ska beaktas vid
 beslut som rör barn och elever. Vid ett genomförande behöver undervisning, schemaläggning och transporter
 organiseras så att förflyttningar mellan skolorna får så begränsad påverkan som möjligt på elevernas skoldag.
 
-Kungsbacka kommun  Utredning skolorganisering Fjärås- och Gällingeområdet 18
+Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 18
+
+[Tabell 82-1](handlingar.tabeller/82-1.csv)
+
+| Elevgrupp | Alternativ A - nuvarande<br>organisation | Alternativ B - förändrad organisation |
+| --- | --- | --- |
+| Gällingeskolan åk 3 All undervisning på Gällingeskolan. Resor till Fjärås Bräckaskolan för<br>slöjd. |  |  |
+| Gällingeskolan åk 4-5 Resor till Fjärås Bräckaskolan för Resor till Fjärås Bräcka för musik,<br>musik. slöjd. |  |  |
+| Gällingeskolan åk 6 Smedingeskolan är ordinarie skola. Gällingeskolan är ordinarie skola.<br>Elever resor dit 5 dagar per vecka. Eleverna behöver resa till<br>Smedingeskolan och Fjärås<br>Bräckaskolan för delar av<br>undervisningen, bland annat till<br>Fjärås Bräckaskolan för moderna<br>språk. |  |  |
+| Fjärås Bräckaskolan åk 6 Smedingeskolan är ordinarie skola. Fjärås Bräckaskolan är ordinarie<br>skola. Förflyttning till<br>Smedingeskolan för hemkunskap och<br>eventuellt delar av idrott och hälsa.<br>Moderna språk genomförs på Fjärås<br>Bräckaskolan eller Smedingeskolan. |  |  |
 
 <!-- sida 83 -->
 
@@ -2976,27 +2941,17 @@ och behöver ske i samverkan mellan berörda skolor.
 
 De två alternativen innebär olika förutsättningar för skolornas organisation, lokalutnyttjande och elevernas
 skolgång. Tabellen nedan sammanfattar de huvudsakliga konsekvenser som har identifierats i utredningen.
-Perspektiv          Alternativ A - nuvarande Alternativ B – förändrad
-organisation         organisation
-Skolorganisation    Gällingeskolan och Fjärås Gällingeskolan och Fjärås
-
-Bräckaskolan F-5.    Bräckaskolan F-6. Smedingeskolan
-Smedingeskolan 6-9.  7-9.
-
-Elevernas skolbyte  Eleverna byter till  Eleverna byter till Smedingeskolan
-Smedingeskolan inför årskurs inför årskurs 7.
-6\.
-Årskurs 6           Eleverna har sin huvudsakliga Eleverna har sin huvudsakliga
-undervisning på      undervisning på respektive F-6
-Smedingeskolan.      skola.
-
-Delar av undervisningen genomförs
-vid annan skola.
-Betyg och nationella prov åk 6 Smedingeskolan ansvarar för Ansvaret ligger på respektive F-6
-betygssättning och nationella skola.
-prov.
 
 Kungsbacka kommun Utredning skolorganisering Fjärås- och Gällingeområdet 19
+
+[Tabell 83-1](handlingar.tabeller/83-1.csv)
+
+| Perspektiv | Alternativ A - nuvarande<br>organisation | Alternativ B – förändrad<br>organisation |
+| --- | --- | --- |
+| Skolorganisation Gällingeskolan och Fjärås Gällingeskolan och Fjärås<br>Bräckaskolan F-5. Bräckaskolan F-6. Smedingeskolan<br>Smedingeskolan 6-9. 7-9. |  |  |
+| Elevernas skolbyte Eleverna byter till Eleverna byter till Smedingeskolan<br>Smedingeskolan inför årskurs inför årskurs 7.<br>6. |  |  |
+| Årskurs 6 Eleverna har sin huvudsakliga Eleverna har sin huvudsakliga<br>undervisning på undervisning på respektive F-6<br>Smedingeskolan. skola.<br>Delar av undervisningen genomförs<br>vid annan skola. |  |  |
+| Betyg och nationella prov åk 6 Smedingeskolan ansvarar för Ansvaret ligger på respektive F-6<br>betygssättning och nationella skola.<br>prov. |  |  |
 
 <!-- sida 84 -->
 
@@ -3333,8 +3288,6 @@ därmed möjligöra frigörelse av resurser till kommunens kärnverksamheter. De
 förlängningen till ett effektivt lokalutnyttjande och lägre kostnader totalt sett för hela kommunen.
 
 Lokalplanering Genomförande
-
-» EE prsoarne) 2535) mn |
 
 Behovsfas
 

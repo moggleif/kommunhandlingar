@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.663576d1a1156c4d3b1ecc7/17914575208
 sha256: 62e11e6360cf6153821ec5188be3c62f19adfae6c770d920ca8d469060d98975
 bytes: 41316939
 sidor: 182
-hamtad: 2026-11-08T10:27:13+00:00
-konverterad: 2026-11-08T10:31:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T00:59:06+00:00
+konverterad: 2026-11-18T01:02:32+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok]
 tal_obekraftade: [7, 8, 84, 89, 90, 91, 92, 93, 98, 105, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 159, 164, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
 figurer: [3, 5, 14, 18, 19, 20, 21, 25, 27, 30, 31, 32, 33, 38, 39, 40, 41, 42, 44, 50, 54, 55, 64, 65, 84, 85, 95, 97, 99, 100, 101, 103, 104, 106, 109, 110, 111, 112, 113, 114, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 150, 151, 152, 153, 154, 156, 158, 160, 161, 162, 163, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182]
 tolkade: []
@@ -3922,23 +3922,37 @@ Handläggare:        Elham Sokhango
 
 Sydöstra centrum E1, Söderå fördjupad stabilitetsutredning 107 47 61 PM Geoteknik
 
-2.1   2026-06-09 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-2.0   2025-10-07 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
+2.1
 
-1.2   2023-02-10 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.1   2021-11-22 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.0   2021-10-11 Färdig handling        Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+2.0
+
+1.2
+
+1.1
+
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 | Sida 2 av 22
+
+[Tabell 95-1](handlingar.tabeller/95-1.csv)
+
+| 2026-06-09 | Reviderad handling | Elham | Katarina | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2025-10-07 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2023-02-10 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-11-22 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-10-11 | Färdig handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 96 -->
 
@@ -10340,21 +10354,7 @@ Uppdragsnr.: 107 47 61 Version: 2.1
 Tabell 1: Valda värden för stabilitetsberäkning i sektion D
 Material     (cid:2254) [kPa] ∅(cid:4593) [°] (cid:2185)(cid:4593)[kPa] (cid:2747)[kN/m3]
 (cid:2188)(cid:2203)(cid:2193) (cid:2193)
-Torrskorpelera   20            30          0,1(cid:2185)  18
-(cid:2203)
-Lera 1        13            30          0,1(cid:2185)  16
-(cid:2203)
-Gyttja        13            30          0,1(cid:2185)  14
-(cid:2203)
-Lera 2   13+0,4\*z där z är 0 30         0,1(cid:2185)  16
-(cid:2203)
-på nivå -5
-Lera 3   15+1,5\*z där z är 0 30         0,1(cid:2185)  16
-(cid:2203)
-på nivå -10
-Lera 4   18+1,3\*z där z är 0 30         0,1(cid:2185)  16
-(cid:2203)
-på nivå -12
+
 För de material där det inte har utförts tillbörliga tester har tabellvärlden från ”TRVINFRA-00229,
 Geokonstruktion, Administrativa regler” samt ”TRVINFRA-00230, Geokonstruktion, Dimensionering och
 utformning” används.
@@ -10363,6 +10363,7 @@ odränerad- samt kombinerad analys inom planområdesgränsen. Last som avser pla
 inte beaktats i stabilitetsberäkningen i sektion D då det förutsätts grundläggas med pålar. Då Hantverksgatan
 dimensionerats för upplyft [3] har en last som motsvarar vägkropp och grovbetong placerats på vägen
 motsvarande 14 kPa.
+
 För uppskattning av erforderlig förstärkningsåtgärd i området väster om sektion D, har beräkningen
 kompletterats med sektion G och avser ytan väster om sektion D som inte planeras att belastas med ett
 pålgrundlagd parkeringshus. Beräkningarna för sektion G har utförts dels med en utbredd marklast som
@@ -10373,12 +10374,27 @@ Säkerhetsfaktor har valts för detaljerad utredning enligt IEG rapport 4:2010. 
 säkerhetsfaktorer ska väljas i spannet i Fc≥ 1,7–1,5 för odränerad analys och Fkomb ≥ 1,5–1,4 i kombinerad
 analys. För stabilitetsberäkningar mot Hantverksgatan har säkerhetsfaktor valts i det lägre spannet (Fc≥1,5
 och Fkomb≥1,4) på grund av omfattningen av de geotekniska undersökningarna inom området.
+
 5.3   Resultat
 Utförda stabilitetsberäkningar redovisas i sin helhet i Bilaga 3 för befintliga förhållanden där por- och
 grundvattentryck har valts enligt vad som anges under kapitel 4.4. I Bilaga 4 redovisas stabilitetsberäkningar
 för planerade förhållanden där marklast endast inom planområdet tagits i beaktning eftersom eventuella
 skötselmaskiner inte kan tillträda vegetationsytan längs vägen som är trädbevuxet.
+
 2026-06-09 | Sida 10 av 12
+
+[Tabell 164-1](handlingar.tabeller/164-1.csv)
+
+| Torrskorpelera | 20 | 30 | 0,1(cid:2185)<br>(cid:2203) | 18 |
+| --- | --- | --- | --- | --- |
+| Lera 1 | 13 | 30 | 0,1(cid:2185)<br>(cid:2203) | 16 |
+| Gyttja | 13 | 30 | 0,1(cid:2185)<br>(cid:2203) | 14 |
+| Lera 2 | 13+0,4\*z där z är 0 | 30 | 0,1(cid:2185)<br>(cid:2203) | 16 |
+|  | på nivå -5 |  |  |  |
+| Lera 3 | 15+1,5\*z där z är 0 | 30 | 0,1(cid:2185)<br>(cid:2203) | 16 |
+|  | på nivå -10 |  |  |  |
+| Lera 4 | 18+1,3\*z där z är 0 | 30 | 0,1(cid:2185)<br>(cid:2203) | 16 |
+|  | på nivå -12 |  |  |  |
 
 <!-- sida 165 -->
 

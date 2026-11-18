@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e618e25/17784780854
 sha256: 4b8d42ae057681f50051dc1abc750045dc92efbcac5457c6ad47bc9967876ec4
 bytes: 2543549
 sidor: 60
-hamtad: 2026-11-08T12:20:42+00:00
-konverterad: 2026-11-08T12:20:57+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T02:42:55+00:00
+konverterad: 2026-11-18T02:43:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [3, 27]
 tolkade: []
@@ -462,9 +462,6 @@ apriluppföljning, delårsrapport och årsredovisning.
 
 3.1 Partnerskap
 
-Nyckeltal                                   Januari Februari Mars
-Partnerskapskvalitet: Upplevelse av nöjdhet i partnerskapet 88 %
-
 Om fokusområdet Partnerskap
 Service arbetar aktivt för ett gott partnerskap med sina systerförvaltningar, och bidrar till ett samarbete där
 öppen kommunikation, ömsesidig respekt och förtroende präglar dialogerna. Vi samarbetar nära våra
@@ -481,38 +478,36 @@ framåt.
 
 3.2 Mer för pengarna
 
-Nyckeltal                                   Januari Februari Mars
-13,1    13,2   13,4
-Fastigheter, R12 - Personalkostnad per kvadratmeter (kvm)
-kr/kvm  kr/kvm kr/kvm
-Måltider, R12 - Personalkostnadens andel av omsättningen 54 % 53,9 % 53,9 %
-19,1    19,1   19,1
-Lokalvård, R12 - Personalkostnad per kvadratmeter (kvm)
-kr/kvm  kr/kvm kr/kvm
-Lokalförsörjning, månadsvärde – Debiterad tid av totalt arbetad tid 58 % 56 % 72 %
-UKK, månadsvärde – genomsnittlig personalkostnad per
-85 kr   91 kr  88 kr
-kundcenterärende
 8
+
+[Tabell 11-1](handlingar.tabeller/11-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Partnerskapskvalitet: Upplevelse av nöjdhet i partnerskapet |  |  | 88 % |
+
+[Tabell 11-12-2](handlingar.tabeller/11-12-2.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Fastigheter, R12 - Personalkostnad per kvadratmeter (kvm) | 13,1<br>kr/kvm | 13,2<br>kr/kvm | 13,4<br>kr/kvm |
+|  | Måltider, R12 - Personalkostnadens andel av omsättningen | 54 % | 53,9 % | 53,9 % |
+|  | Lokalvård, R12 - Personalkostnad per kvadratmeter (kvm) | 19,1<br>kr/kvm | 19,1<br>kr/kvm | 19,1<br>kr/kvm |
+|  | Lokalförsörjning, månadsvärde – Debiterad tid av totalt arbetad tid | 58 % | 56 % | 72 % |
+|  | UKK, månadsvärde – genomsnittlig personalkostnad per<br>kundcenterärende | 85 kr | 91 kr | 88 kr |
+|  | Inköp, månadsvärde – inköp med avtalad leverantör i procent av<br>totala antalet inköp | 93,9 % | 90,8 % | 91,8 % |
+|  | Inköp, månadsvärde – antal fakturor med automatiskt flöde av totala<br>antalet fakturor | 94,2 % | 89,5 % | 89,3 % |
+|  | Digitalt Center, R12 – Personalkostnad i förhållande till omsättning | 55 % | 53 % | 54 % |
+|  | Totala förvaltningen, R12 – Personalkostnad i förhållande till total<br>omsättning | 29,2 % | 29,5 % | 29,7 % |
+|  | HR&PF, R12 - Personalkostnad per löst vikarietimme | 12 kr | 13 kr | 13 kr |
 
 <!-- sida 12 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2026
 
-Nyckeltal                                   Januari Februari Mars
-Inköp, månadsvärde – inköp med avtalad leverantör i procent av
-93,9 %  90,8 % 91,8 %
-totala antalet inköp
-Inköp, månadsvärde – antal fakturor med automatiskt flöde av totala
-94,2 %  89,5 % 89,3 %
-antalet fakturor
-Digitalt Center, R12 – Personalkostnad i förhållande till omsättning 55 % 53 % 54 %
-Totala förvaltningen, R12 – Personalkostnad i förhållande till total
-29,2 %  29,5 % 29,7 %
-omsättning
-HR&PF, R12 - Personalkostnad per löst vikarietimme 12 kr 13 kr 13 kr
 Om fokusområdet Mer för pengarna
+
 Service tar ett samlat grepp för att på bästa sätt hushålla med kommunens resurser och skapa
 kostnadseffektiva och hållbara tjänster. Service möter välfärdsutmaningen, där färre ska försörja fler, med
 kreativitet, innovation samt mod och arbetar även aktivt med att hitta effektiva arbetssätt, smarta lösningar
@@ -572,29 +567,6 @@ kvartal och var på samma nivåer även föregående år.
 
 3.3 Engagerade medarbetare
 
-Nyckeltal                                   Januari Februari Mars
-Sjukfrånvaro (Andel sjukfrånvarotimmar i förhållande av den totala
-arbetade tiden.)
-Personalomsättning (Antalet tillsvidareanställda medarbetare som
-avslutat sin anställning i kommunen de senaste 12 månaderna. Delat
-med genomsnittligt antal tillsvidareanställda.)
-Andel praktikanter i förhållande till ordinarie bemanning  5 %
-Rekommendationsvilja (Ett frågeområde i kommunens
-pulsmätningsverktyg. Resultatet redovisas som ett index mellan – 5
-100 och +100, där ett värde över noll indikerar ett positivt utfall.)
-Medarbetarengagemang (Ett frågeområde i kommunens
-pulsmätningsverktyg där resultatet utgörs av ett medelvärde på en 7,7
-tiogradig skala.)
-Antal riskobservationer                                    6
-
-Antal tillbud                                              20
-Antal olycksfall                                           22
-Andel medarbetare som arbetar heltid                       90 %
-
-Personlig utveckling (Ett frågeområde i kommunens
-pulsmätningsverktyg där resultatet utgörs av ett medelvärde på en 7,1
-tiogradig skala.)
-
 Om fokusområdet Engagerade medarbetare
 
 Service arbetar för att vara en attraktiv och omtänksam arbetsgivare som ger medarbetare förutsättningar att
@@ -606,6 +578,21 @@ Nyckeltalen mäts på olika sätt inom fokusområdet:
 och redovisas därför inte i tabellen ovan.
 
 10
+
+[Tabell 13-1](handlingar.tabeller/13-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Sjukfrånvaro (Andel sjukfrånvarotimmar i förhållande av den totala<br>arbetade tiden.) |  |  |  |
+|  | Personalomsättning (Antalet tillsvidareanställda medarbetare som<br>avslutat sin anställning i kommunen de senaste 12 månaderna. Delat<br>med genomsnittligt antal tillsvidareanställda.) |  |  |  |
+|  | Andel praktikanter i förhållande till ordinarie bemanning |  |  | 5 % |
+|  | Rekommendationsvilja (Ett frågeområde i kommunens<br>pulsmätningsverktyg. Resultatet redovisas som ett index mellan –<br>100 och +100, där ett värde över noll indikerar ett positivt utfall.) |  |  | 5 |
+|  | Medarbetarengagemang (Ett frågeområde i kommunens<br>pulsmätningsverktyg där resultatet utgörs av ett medelvärde på en<br>tiogradig skala.) |  |  | 7,7 |
+|  | Antal riskobservationer |  |  | 6 |
+|  | Antal tillbud |  |  | 20 |
+|  | Antal olycksfall |  |  | 22 |
+|  | Andel medarbetare som arbetar heltid |  |  | 90 % |
+|  | Personlig utveckling (Ett frågeområde i kommunens<br>pulsmätningsverktyg där resultatet utgörs av ett medelvärde på en<br>tiogradig skala.) |  |  | 7,1 |
 
 <!-- sida 14 -->
 
@@ -634,19 +621,6 @@ föregående år.
 
 3.4 Hållbarhet
 
-Nyckeltal                                   Januari Februari Mars
-Koldioxidutsläpp per kilo inköpta livsmedel (Måltider) 2 CO2 1,35 CO2 1,25 CO2
-
-Totalt matsvinn per portion                 38 g    41 g   41 g
-Miljömedvetna materialval (Lokalförsörjning) 85 %   85 %   86 %
-Elanvändning i kommunens lokaler i jämförelse med förra året. 0 % 0,2 % 0,1 %
-
-Solcellsproduktion - Installerad effekt     4 250 kw 4 272 kw 4 272 kw
-Fossiloberoende fordon (Fastigheter)        97,5 %  97,5 % 97,5 %
-Miljömedvetna inköp
-
-Miljömedvetna materialval (Fastigheter)     100 %          100 %
-
 Om fokusområdet Hållbarhet
 Service arbetar för att vara ett föredöme i sitt hållbarhetsarbete, ur både ett ekonomiskt, ekologiskt och
 socialt perspektiv. Med hållbarhet i fokus arbetar vi medvetet för att fortsatt bidra till en mer hållbar och
@@ -662,6 +636,19 @@ kg CO₂ per kilo inköpt livsmedel. Under februari och mars, då andelen klimat
 sjönk utfallet till 1,35 respektive 1,25 kg CO₂ per kilo inköpt livsmedel.
 
 11
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Koldioxidutsläpp per kilo inköpta livsmedel (Måltider) | 2 CO2 | 1,35 CO2 | 1,25 CO2 |
+|  | Totalt matsvinn per portion | 38 g | 41 g | 41 g |
+|  | Miljömedvetna materialval (Lokalförsörjning) | 85 % | 85 % | 86 % |
+|  | Elanvändning i kommunens lokaler i jämförelse med förra året. | 0 % | 0,2 % | 0,1 % |
+|  | Solcellsproduktion - Installerad effekt | 4 250 kw | 4 272 kw | 4 272 kw |
+|  | Fossiloberoende fordon (Fastigheter) | 97,5 % | 97,5 % | 97,5 % |
+|  | Miljömedvetna inköp |  |  |  |
+|  | Miljömedvetna materialval (Fastigheter) | 100 % |  | 100 % |
 
 <!-- sida 15 -->
 

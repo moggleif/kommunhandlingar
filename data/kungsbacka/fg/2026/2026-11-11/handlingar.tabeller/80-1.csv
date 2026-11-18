@@ -1,5 +1,4 @@
-Kategorier,"Till
-Risker Sannolikhet Konsekvens
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
 plan"
 "Gemensam
 ma
@@ -8,37 +7,54 @@ Information
 ssäkerhet,
 administrati
 on, inköp m
-fl.","1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja
-risk: Bristande som besvärande för
-följsamhet till berörda intressenter och
-inköpsprocessen; kommunen)
+fl.",,"1 Kommunövergripande
+risk: Bristande
+följsamhet till
+inköpsprocessen;
 direktupphandling
 respektive
-avtalsuppföljning"
-,"2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja
-risk - Risk för korruption (så stor att den inte får
-och välfärdsbrottslighet inträffa)"
-,"3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja
-risk: Förvaltningarnas som besvärande för
-arbete med att följa och berörda intressenter och
-utveckla det kommunen)
-systematiska
-beredskapsarbetet"
-,"4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja
-risk: Risk för bristande som besvärande för
-efterlevnad till NIS2- berörda intressenter och
-direktivet och gällande kommunen)
-rutiner och regelverk"
-Verksamhet,"5 Utredning om orsak till 2. Mindre vanligt 3. Kännbar (uppfattas Ja
-frånvaro som besvärande för
+avtalsuppföljning",3. Vanligt,"3. Kännbar (uppfattas
+som besvärande för
 berörda intressenter och
-kommunen)"
-,"6 Felaktig utbetalning av 2. Mindre vanligt 3. Kännbar (uppfattas Ja
-bidrag till fristående som besvärande för
-huvudmän berörda intressenter och
-kommunen)"
-,"7 Anmälan görs inte till 3. Vanligt 3. Kännbar (uppfattas Ja
-berörda myndigheter som besvärande för
-såsom Polismyndighet, berörda intressenter och
-Skatteverk och kommunen)
-socialtjänst"
+kommunen)",Ja
+,,"2 Kommunövergripande
+risk - Risk för korruption
+och välfärdsbrottslighet",2. Mindre vanligt,"4. Allvarlig/stor inverkan
+(så stor att den inte får
+inträffa)",Ja
+,,"3 Kommunövergripande
+risk: Förvaltningarnas
+arbete med att följa och
+utveckla det
+systematiska
+beredskapsarbetet",2. Mindre vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja
+,,"4 Kommunövergripande
+risk: Risk för bristande
+efterlevnad till NIS2-
+direktivet och gällande
+rutiner och regelverk",2. Mindre vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja
+Verksamhet,,"5 Utredning om orsak till
+frånvaro",2. Mindre vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja
+,,"6 Felaktig utbetalning av
+bidrag till fristående
+huvudmän",2. Mindre vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja
+,,"7 Anmälan görs inte till
+berörda myndigheter
+såsom Polismyndighet,
+Skatteverk och
+socialtjänst",3. Vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja

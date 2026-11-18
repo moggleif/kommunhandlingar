@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4e1e798419ae7f1e7adb11e/17649210941
 sha256: 45b34340cd81bcb6a27b80031392127b9bdeab73accb0919d87ed8c9f988af71
 bytes: 50724065
 sidor: 514
-hamtad: 2026-11-08T09:32:53+00:00
-konverterad: 2026-11-08T09:42:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T00:13:37+00:00
+konverterad: 2026-11-18T00:20:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr]
@@ -10802,7 +10802,7 @@ Kaj
 
 Mur
 
-Se AE As Räcke
+Se AE Räcke
 
 össssr ra saraaa ss rss ss sss en seas s ses a sasse ess ana Släntfot
 
@@ -18455,10 +18455,14 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 | Revision | Datum | Beskrivning | Upprättat av | Granskat av | Godkänt av |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2025-10-17 | Granskningshandling utkast | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 2 | 2025-10-24 | Granskningshandling extern granskning | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 3 | 2025-11-04 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 4 | 2025-11-14 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
+| 1 | 2025-10-17 | Granskningshandling utkast | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 2 | 2025-10-24 | Granskningshandling extern granskning | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 3 | 2025-11-04 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 4 | 2025-11-14 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
 
 <!-- sida 444 -->
 
@@ -18641,12 +18645,19 @@ det fortsatta arbetet.
 
 | Miljöfaktor | Bedömning av konsekvenser |
 | --- | --- |
+|  |  |
 | Naturmiljö | Små negativa konsekvenser |
+|  |  |
 | Kulturmiljö | Stora negativa konsekvenser |
+|  |  |
 | Landskapsbild | Stora negativa konsekvenser |
-| Naturresurser -<br>jordbruksmark | Måttligt negativa konsekvenser |
-| Markförhållanden –<br>geoteknik och markmiljö | Inga/försumbara konsekvenser |
+|  |  |
+| Naturresurser - | Måttligt negativa konsekvenser |
+| jordbruksmark |  |
+| Markförhållanden – | Inga/försumbara konsekvenser |
+| geoteknik och markmiljö |  |
 | Vattenförhållanden | Små positiva konsekvenser |
+|  |  |
 
 <!-- sida 448 -->
 
@@ -19234,20 +19245,37 @@ Figur 4.5.
 
 [Tabell 463-464-1](handlingar.tabeller/463-464-1.csv)
 
-| Nr | Objekt | Omfattas av<br>biotopskydd | Beskrivning och motivering |
+| Nr | Objekt | Omfattas av | Beskrivning och motivering |
 | --- | --- | --- | --- |
-| 1 | Dike | nej | Dike som löper längs med en väg upp till industriområdet i nordostoch har<br>som huvudsyfte att avvattna vägen, vilken gränsar till öppen åkermark.Har<br>funktion som vägdike. |
-| 2 | Dike | nej | Dike som löper mellan en grusväg (Gustafs väg) och anslutande<br>höjdområde i öster, vars syfte är att avvattna vägen. Avskilt från<br>åkermarken. |
-| 3 | Stenröse | ja | Odlingsröse delvis omgivet av yngre träd och buskar som gränsar till<br>öppen jordbruksmark i väster och söder. |
-| 4 | Dike/<br>rätad bäck | ja | Dike/rätad bäck genom övervägande öppen åkermark på ömse sidor av<br>Almedalsvägen. |
+|  |  | biotopskydd |  |
+| 1 | Dike | nej | Dike som löper längs med en väg upp till industriområdet i nordostoch har |
+|  |  |  | som huvudsyfte att avvattna vägen, vilken gränsar till öppen åkermark.Har |
+|  |  |  | funktion som vägdike. |
+| 2 | Dike | nej | Dike som löper mellan en grusväg (Gustafs väg) och anslutande |
+|  |  |  | höjdområde i öster, vars syfte är att avvattna vägen. Avskilt från |
+|  |  |  | åkermarken. |
+| 3 | Stenröse | ja | Odlingsröse delvis omgivet av yngre träd och buskar som gränsar till |
+|  |  |  | öppen jordbruksmark i väster och söder. |
+| 4 | Dike/ | ja | Dike/rätad bäck genom övervägande öppen åkermark på ömse sidor av |
+|  | rätad bäck |  | Almedalsvägen. |
+|  |  | biotopskydd |  |
 | 5 | Dike | ja | Dike som löper genom övervägande öppen åkermark i områdets östra del. |
 | 6 | Stenmur | ja | Bitvis raserad stenmur löper genom öppen åkermark i områdets östra del. |
-| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i<br>områdets östra del. |
-| 8 | Dike och<br>stenmur | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala<br>del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett<br>höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
-| 9 | Dike | nej | Dike som löper genom övervägande öppen åkermark söder om<br>planområdet. Delvis kulverterat i anslutning till en gård. |
-| 10 | Dike och<br>stenmur | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i<br>områdets nordvästra del. Gränsar mot betesmark i väster och något<br>igenväxande åkermark i väster. |
-| 11 | Dike | nej | Dike som löper genom kraftigt igenvuxen åkermark som inte längre kan<br>anses vara aktivt odlad. |
-| 12 | Dike | nej | Dike som löper längs med Benders industrimark i väster och kraftigt<br>igenvuxen åkermark och ett skogbevuxet höjdområde i öster. Åkermarken<br>kan inte anses vara aktivt odlad längre. |
+| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i |
+|  |  |  | områdets östra del. |
+| 8 | Dike och | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala |
+|  | stenmur |  | del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett |
+|  |  |  | höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
+| 9 | Dike | nej | Dike som löper genom övervägande öppen åkermark söder om |
+|  |  |  | planområdet. Delvis kulverterat i anslutning till en gård. |
+| 10 | Dike och | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i |
+|  | stenmur |  | områdets nordvästra del. Gränsar mot betesmark i väster och något |
+|  |  |  | igenväxande åkermark i väster. |
+| 11 | Dike | nej | Dike som löper genom kraftigt igenvuxen åkermark som inte längre kan |
+|  |  |  | anses vara aktivt odlad. |
+| 12 | Dike | nej | Dike som löper längs med Benders industrimark i väster och kraftigt |
+|  |  |  | igenvuxen åkermark och ett skogbevuxet höjdområde i öster. Åkermarken |
+|  |  |  | kan inte anses vara aktivt odlad längre. |
 
 <!-- sida 464 -->
 
@@ -19275,9 +19303,19 @@ Tabell 4.2. Inventeringsresultat.
 
 | Datum | Damm vid centralt höjdområde | Damm i planområdets sydvästra hörn | Väderlek |
 | --- | --- | --- | --- |
-| 13 april<br>2021\* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
-| 20 april<br>2021 | Inga noteringar av romklumpar<br>eller grodor. | Inga individer eller romklumpar av vanlig<br>groda eller åkergroda. Dock hördes 1<br>möjligt spelläte av åkergroda under en<br>kort stund i anslutning till dammen. | Cirka 15-16 grader, molnfri<br>himmel, svag vind. |
-| 17 maj<br>2021 | Två noteringar av mindre vatten-<br>salamander (1 hona och 1 hane) | Inga noteringar av någon art av<br>salamander. | Cirka 10-11 grader, molnfri<br>himmel, svag vind. Cirka 10<br>grader i dammar. |
+| 13 april | Två noteringar av grodor, troligen | Inga noteringar av romklumpar eller | Cirka 8-9 grader, molnfri |
+| 2021\* | av samma individ. Sannolikt | grodor. | himmel, svag vind. |
+|  | vanlig groda då denna |  |  |
+|  | förekommer tidigare på säsongen |  |  |
+|  | än åkergroda. Dock oklart vilken |  |  |
+|  | art då inga spelläten hördes. |  |  |
+| 20 april | Inga noteringar av romklumpar | Inga individer eller romklumpar av vanlig | Cirka 15-16 grader, molnfri |
+| 2021 | eller grodor. | groda eller åkergroda. Dock hördes 1 | himmel, svag vind. |
+|  |  | möjligt spelläte av åkergroda under en |  |
+|  |  | kort stund i anslutning till dammen. |  |
+| 17 maj | Två noteringar av mindre vatten- | Inga noteringar av någon art av | Cirka 10-11 grader, molnfri |
+| 2021 | salamander (1 hona och 1 hane) | salamander. | himmel, svag vind. Cirka 10 |
+|  |  |  | grader i dammar. |
 
 <!-- sida 465 -->
 
@@ -20701,8 +20739,9 @@ Tabell 10.1. Samlad bedömning av detaljplanens miljökonsekvenser.
 
 [Tabell 501-1](handlingar.tabeller/501-1.csv)
 
-| Miljöfaktor | Bedömning av planförslagets<br>konsekvenser | Kommentar |
+| Miljöfaktor | Bedömning av planförslagets | Kommentar |
 | --- | --- | --- |
+|  | konsekvenser |  |
 | Naturmiljö | Små negativa konsekvenser | Sammantaget bedöms att konsekvenserna med avseende<br>på naturvärden blir små dock finns viss osäkerhet gällande<br>utpekade naturvärdesobjekt. Ytterligare utredning av<br>naturvärden rekommenderas för naturvärdesobjekt 2. Vissa<br>ingrepp sker i naturmiljöer med förhöjda naturvärden, men<br>hur stor påverkan blir beror delvis på hur den detaljerade<br>planeringen av verksamhetsytorna görs och vilken hänsyn<br>som då kan tas till områdets naturvärdes- och<br>biotopskyddsobjekt. Genomförandet kommer att kräva<br>dispens från biotopskyddet enligt 7:11 MB (påverkan på<br>stenmurar). |
 | Kulturmiljö | Stora negativa konsekvenser | Planerad utbyggnad innebär en stor förändring av ett idag<br>tydligt läsbart odlingslandskap med lång agrarhistorisk<br>kontinuitet. Storskalig byggnad och volym placeras i ett<br>landskap som bryter visuell kontakt mellan kulturhistoriskt<br>värdefull bebyggelse och omgivande odlingslandskap och<br>rubbar vyer och siktlinjer i omkringliggande kulturmiljöer.<br>Förlust av historiska strukturer såsom stengärdsgårdar och<br>synliga skiftesgränser innebär en minskad förståelse för<br>områdets agrarhistoriska sammanhang. |
 | Landskapsbild | Stora negativa konsekvenser | Sammantaget bedöms konsekvenserna för landskapsbilden<br>vara stora negativa på en lokal nivå då delar av ett öppet<br>odlingslandskap ersätts av ett storskaligt verksamhets-<br>område som bryter helt i skala och karaktär mot omgivande<br>åkermarker. Vidsträckta siktlinjer och vyer bryts, landmärke<br>som ger orienterbarhet i landskapet i form av skogsklädd<br>bergshöjd, tas bort. Planförslaget påverkar även landskapet<br>på regional nivå då Frillesås med omgivande landskap tar<br>ytterligare ett steg från lantligt bysamhälle till mer modern<br>tätort. |
@@ -20761,15 +20800,23 @@ Kungsbacka centrum, vilket bidrar till en bättre miljö i staden. Genom att ge 
 
 [Tabell 502-2](handlingar.tabeller/502-2.csv)
 
-| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan\* | Riktning mot (+) eller från<br>(-) miljökvalitetsmålet |
+| Miljökvalitetsmål |  | Planens lokala | Riktning mot (+) eller från |
 | --- | --- | --- | --- |
+|  |  | miljöpåverkan\* | (-) miljökvalitetsmålet |
 | 1. | Begränsad klimatpåverkan | Liten | - |
+|  |  |  |  |
 | 7. | Ingen övergödning | Liten | + |
+|  |  |  |  |
 | 8. | Levande sjöar och vattendrag | Liten | + |
-| 10. | Hav i balans samt levande<br>kust och skärgård | Liten | + |
+|  |  |  |  |
+| 10. | Hav i balans samt levande | Liten | + |
+|  | kust och skärgård |  |  |
 | 13. | Ett rikt odlingslandskap | Stor | - |
+|  |  |  |  |
 | 15. | God bebyggd miljö | Måttlig | +/- |
+|  |  |  |  |
 | 16. | Ett rikt växt- och djurliv | Liten | - |
+|  |  |  |  |
 
 <!-- sida 503 -->
 
@@ -21393,8 +21440,6 @@ FRILLESÅS-RYA
 3:77
 
 KULLA
-
-1:4 SÄ:
 
 CN ENG
 

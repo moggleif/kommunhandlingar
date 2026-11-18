@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28dcea0d18cf3c913c8de64e/1705299067
 sha256: d0cdbbcfae7593ce393ebb13561508cc1b5a17360a9f4b37067d7846ce3c78e9
 bytes: 4582156
 sidor: 101
-hamtad: 2026-11-08T08:16:54+00:00
-konverterad: 2026-11-08T08:17:31+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:07:37+00:00
+konverterad: 2026-11-17T23:08:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok]
@@ -1291,10 +1291,8 @@ lämplig tidsperiod för att därefter utvärderas.
 
 Komfhunfullmäktigeledamöter
 
-Nara SsAreba
 j — NN on RE 0  ——
 Ermin Skoric (S) Shabnam Zamani (S)
--— - sä j
 \- PE —
 
 Fv f

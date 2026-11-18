@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5ca69e5719c47cd9687cd05b/1771229065
 sha256: 141eb713935202b21e966072bfdc23447aa93fca5aece817e3fb6d9bd7aad924
 bytes: 21866559
 sidor: 194
-hamtad: 2026-11-08T12:18:20+00:00
-konverterad: 2026-11-08T12:20:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:41:03+00:00
+konverterad: 2026-11-18T02:42:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [83, 134, 135, 140, 141, 142, 143, 144, 145, 146, 147, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185]
 figurer: [4, 5, 8, 14, 15, 19, 20, 21, 83, 89, 93, 112, 113, 155, 156]
 tolkade: []
@@ -571,25 +571,11 @@ att säkerställa att invånare snabbt kan få tillgång till livräddande utrus
 ytterligare hjärtstartare installerats utvändigt, och totalt finns nu 65 hjärtstartare strategiskt utplacerade på
 utsidan av kommunens lokaler, att jämföras med 49 för ett år sedan.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Antal påbörjade bostäder        848       165      213
-
-Antal färdigställda bostäder    363       319      324
-Anmälda brott mot brottsbalken per invånare
-5 691     6 475     6 541
-antal/100 000 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %      91 %      88 %      88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %      76 %      76 %      78 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %                95 %
-totalt - helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
+
 Fokusområden
 \- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 \- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar
@@ -598,6 +584,17 @@ och främjar biologisk mångfald.
 \- Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 8
+
+[Tabell 15-1](handlingar.tabeller/15-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |
+| Anmälda brott mot brottsbalken per invånare<br>antal/100 000 invånare (BRÅ) | 5 691 | 6 475 | 6 541 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % | 88 % |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % | 78 % |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |
 
 <!-- sida 16 -->
 
@@ -680,83 +677,36 @@ och information bidrar vi både till minskad klimatpåverkan och till ökad soci
 hushåll och föreningar att sänka sina energikostnader, förbättra inomhusmiljön och stärka sin egen förmåga att
 fatta informerade beslut.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Flickor. 88 % 85 % 85 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 % 89 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - Flickor. 72 % 79 % 73 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - Pojkar. 93 % 92 % 89 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %      73 %      75 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %      86 %      88 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-
 10
+
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 88 % | 85 % | 85 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % | 89 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % - Flickor.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 72 % | 79 % | 73 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 93 % | 92 % | 89 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % | 75 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % | 88 % |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 103 | 92 |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 115 | 223 |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) | 2,27 |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 21,2 % | 24,1 % | 26,5 % |  |
+| Slutanvändning av energi inom det<br>geografiska området, MWh/inv (Kolada) | 15 | 15 |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,86 | 1,79 | 1,85 |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 113 | 115 | 151 |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  |  |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | 97,5 % | 97,5 % |
+| Andelen återbrukade möbler |  |  |  |  |
+| Kommunens verksamheters elförbrukning,<br>total (kWh) | 24 546 718 | 25 049 984 | 24 878 105 | 23 807 765 |
 
 <!-- sida 18 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndens årsredovisning 2025
-
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 103 92
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 115  223
-Startvärde 100, målvärde 2030 är 60.
-Utsläpp till luft av växthusgaser totalt, ton
-2,27
-CO2-ekv/inv (Kolada)
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 21,2 % 24,1 % 26,5 %
-(Kolada)
-Slutanvändning av energi inom det
-15        15
-geografiska området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,86     1,79      1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 113      115      151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 %
-Vattendrag med god ekologisk status, andel
-18,5
-(Kolada)
-Fossiloberoende personbilar i
-94,6 %    96,2 %   97,5 %    97,5 %
-kommunorganisationen, andel (%)
-Andelen återbrukade möbler
-Kommunens verksamheters elförbrukning,
-24 546 718 25 049 984 24 878 105 23 807 765
-total (kWh)
 
 11
 
@@ -814,28 +764,8 @@ inför upphandlingar och vid tilldelningar.
 Nämnden för Service                              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Insikt, SKR:s servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0–100, för hur företag i 70   67        64        61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4       3,4       3,8      3,6
-utifrån skala 1–6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 494   28 586   28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %     4,9 %     4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 18 % 19 %
-Antal nystartade företag per 1 000 invånare
-12,8     10,3      12,3
-16–64 år (etableringsfrekvens)
 3.4 I Kungsbacka utvecklas vi hela livet
+
 Beslutats av
 Kommunfullmäktige
 
@@ -863,6 +793,17 @@ meningsfulla arbetsuppgifter.
 
 13
 
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKR:s servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 70 | 67 | 64 | 61 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1–6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 | 3,6 |
+| Sysselsatt dagbefolkning, antal | 28 494 | 28 586 | 28 426 |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % | 4,9 % |  |
+| Företagsamhet, andel av invånare 16–74 år | 18 % | 19 % |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 12,8 | 10,3 | 12,3 |  |
+
 <!-- sida 21 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -882,24 +823,6 @@ enskilda ärenden och arbetar också förebyggande genom informationsinsatser oc
 grupper, skolor och föreningar. På så sätt får fler invånare kunskap, verktyg och stöd för att utvecklas och fatta
 informerade beslut i olika skeden av livet.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-237       237      238
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 1,7 % 2,3 %
-SCB)
-Genomsnittlig betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,5 14,3       14        14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 69 % 73 % 75 %
-försörjningsstöd (%)
-Kostnad utbetalt ekonomiskt bistånd,
-376       325      306
-kr/invånare (Kolada)
 3.5 Ett medskapande  samhälle och öppen  attityd
 
 Beslutats av
@@ -919,6 +842,16 @@ Kungsbacka Live - en mötesplats för dialog och delaktighet
 Kungsbacka Live fortsätter att vara en aktiv mötesplats där invånare, företag och föreningar kan möta
 
 14
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 237 | 238 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 1,7 % | 2,3 % |  |
+| Genomsnittlig betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,5 | 14,3 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % | 75 % |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 376 | 325 | 306 |  |
 
 <!-- sida 22 -->
 
@@ -947,18 +880,14 @@ Service fortsätter arbetet med att främja det utvecklande medarbetarskapet och
 nämndens målbild. Det har resulterat i ett effektmål för rekommendationsviljan, som förvaltningen ser som ett
 viktigt mått på hur attraktiva vi är.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76  75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114   124
-nyckeltal med skala 1–20.
-
 15
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |
 
 <!-- sida 23 -->
 
@@ -1041,13 +970,6 @@ Kravet på digitalisering och innovation gör att verksamheten ser över upphand
 skede för att säkerställa att vi diskuterar och analyserar frågor och vägval kring innovation och digitalisering i
 avtalsgrupper redan från start.
 
-Indikatorer                       Utfall 2024         Utfall 2025
-
-Andel innovationsprojekt som drivits under
-17                  24
-året
-Andel av bruttokostnaden som avsätts för
-innovationsarbete och digitalisering
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 
 Innovationsledarlabb stärker vår gemensamma förmåga
@@ -1071,6 +993,13 @@ Under året har vi också fortsatt att använda generativ AI som ett stöd i adm
 hjälper oss att skapa texter och sammanfatta information. Det sparar tid, höjer kvaliteten och frigör resurser till
 
 17
+
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
+
+| Indikatorer | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- |
+| Andel innovationsprojekt som drivits under<br>året | 17 | 24 |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering |  |  |
 
 <!-- sida 25 -->
 
@@ -1519,14 +1448,6 @@ apriluppföljning, delårsrapport och årsredovisning.
 
 5.1 Partnerskap
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Partnerskapskvalitet:
-Upplevelse av
-88 %      90 %      93 %                80 %
-nöjdhet i
-partnerskapet
 Om fokusområdet Partnerskap
 Service arbetar aktivt för ett gott partnerskap med sina systerförvaltningar, och bidrar till ett samarbete där
 öppen kommunikation, ömsesidig respekt och förtroende präglar dialogerna. Vi samarbetar nära våra partners
@@ -1542,77 +1463,43 @@ direkt påverkan på de vi samarbetar med och att vi inkluderar deras fokus i v�
 
 5.2 Mer för pengarna
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Fastigheter, R12
-\- Personalkostnad
-12,2 kr/kvm 12,5 kr/kvm 13 kr/kvm       12 kr/kvm
-per kvadratmeter
-(kvm)
-
 26
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+|  | Nyckeltal | Mars | Juli | December | Ackumulerat<br>utfall | Målvärde |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Partnerskapskvalitet:<br>Upplevelse av<br>nöjdhet i<br>partnerskapet | 88 % | 90 % | 93 % |  | 80 % |
+
+[Tabell 33-34-2](handlingar.tabeller/33-34-2.csv)
+
+|  | Nyckeltal | Mars | Juli | December | Ackumulerat<br>utfall | Målvärde |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Fastigheter, R12<br>- Personalkostnad<br>per kvadratmeter<br>(kvm) | 12,2 kr/kvm | 12,5 kr/kvm | 13 kr/kvm |  | 12 kr/kvm |
+|  | Måltider, R12<br>- Personalkostnadens<br>andel av<br>omsättningen | 55,7 % | 55 % | 54,1 % |  | 55,5 % |
+|  | Lokalvård, R12<br>- Personalkostnad<br>per kvadratmeter<br>(kvm) | 19,6 kr/kvm | 19,7 kr/kvm | 19,3 kr/kvm |  | 19 kr/kvm |
+|  | Lokalförsörjning,<br>månadsvärde –<br>Debiterad tid av totalt<br>arbetad tid | 63 % | 71 % | 54 % | 63 % | 65 % |
+|  | Inköp, månadsvärde<br>– inköp med avtalad<br>leverantör i procent<br>av totala antalet<br>inköp | 94 % | 91,3 % | 92 % | 91 % | 92 % |
+|  | Inköp, månadsvärde<br>– antal fakturor med<br>automatiskt flöde av<br>totala antalet fakturor | 89,5 % | 91,8 % | 88,6 % | 89 % | 92 % |
+|  | Digitalt Center, R12 –<br>Personalkostnad i<br>förhållande till<br>omsättning | 47 % | 46 % | 49 % |  | 50 % |
+|  | Totala förvaltningen,<br>R12 –<br>Personalkostnad i<br>förhållande till total<br>omsättning | 29,7 % | 29,6 % | 29,4 % |  | 29,5 % |
+|  | UKK, månadsvärde –<br>genomsnittlig<br>personalkostnad per<br>rådgivningsärende | 1 833 kr | 2 285 kr | 2 123 kr |  |  |
+|  | HR&PF,<br>månadsvärde –<br>genomsnittlig<br>personalkostnad per<br>beställd vikarietimme | 10 kr | 9 kr | 9 kr |  | 10 kr |
 
 <!-- sida 34 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Måltider, R12
-\- Personalkostnadens
-55,7 %    55 %      54,1 %              55,5 %
-andel av
-omsättningen
-Lokalvård, R12
-\- Personalkostnad
-19,6 kr/kvm 19,7 kr/kvm 19,3 kr/kvm     19 kr/kvm
-per kvadratmeter
-(kvm)
-Lokalförsörjning,
-månadsvärde –
-63 %      71 %      54 %      63 %      65 %
-Debiterad tid av totalt
-arbetad tid
-Inköp, månadsvärde
-– inköp med avtalad
-leverantör i procent 94 % 91,3 %  92 %      91 %      92 %
-av totala antalet
-inköp
-Inköp, månadsvärde
-– antal fakturor med
-89,5 %    91,8 %    88,6 %    89 %      92 %
-automatiskt flöde av
-totala antalet fakturor
-Digitalt Center, R12 –
-Personalkostnad i
-47 %      46 %      49 %                50 %
-förhållande till
-omsättning
-Totala förvaltningen,
-R12 –
-Personalkostnad i 29,7 % 29,6 %   29,4 %              29,5 %
-förhållande till total
-omsättning
-UKK, månadsvärde –
-genomsnittlig
-1 833 kr  2 285 kr  2 123 kr
-personalkostnad per
-rådgivningsärende
-HR&PF,
-månadsvärde –
-genomsnittlig 10 kr     9 kr      9 kr                10 kr
-personalkostnad per
-beställd vikarietimme
 Om fokusområdet Mer för pengarna
+
 Service tar ett samlat grepp för att på bästa sätt hushålla med kommunens resurser och skapa kostnadseffektiva
 och hållbara tjänster. Service möter välfärdsutmaningen, där färre ska försörja fler, med kreativitet, innovation
 och mod samt arbetar aktivt med att hitta effektiva arbetssätt, smarta lösningar och drar nytta av
 digitaliseringens möjligheter. Service bjuder också in till medskapande och värderar löpande att vi prioriterar
 rätt saker. Tillsammans med våra systerförvaltningar bidrar vi till att kommunen är effektiv och attraktiv för de
 vi ytterst är till för – invånare, företag, föreningar och besökare.
+
 27
 
 <!-- sida 35 -->
@@ -1679,74 +1566,30 @@ Nämndens årsredovisning 2025
 
 5.3 Engagerade medarbetare
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Sjukfrånvaro (Andel
-sjukfrånvarotimmar i
-förhållande av den 6,5 % 5,9 %    6 %
-totala arbetade
-tiden.)
-Personalomsättning
-(Antalet
-tillsvidareanställda
-medarbetare som
-avslutat sin
-anställning i
-5,3 %     5,8 %     7,1 %
-kommunen de
-senaste 12
-månaderna. Delat
-med genomsnittligt
-antal
-tillsvidareanställda.)
-Andel praktikanter i
-förhållande till 5 %    15 %      23 %               15 %
-ordinarie bemanning
-Rekommendationsvilj
-a (Ett frågeområde i
-kommunens
-pulsmätningsverktyg.
-Resultatet redovisas
--11       -10       -1                 > 0
-som ett index mellan
-–100 och +100, där
-ett värde över noll
-indikerar ett positivt
-utfall.)
-Medarbetarengagem
-ang (Ett frågeområde
-i kommunens
-pulsmätningsverktyg 7,3 7,3       7,5                7,5
-där resultatet utgörs
-av ett medelvärde på
-en tiogradig skala.)
-Antal
-2         6         14
-riskobservationer
-Antal tillbud 20        32        42
-Antal olycksfall 21     37        58
-Andel medarbetare
-88 %      90 %      90 %
-som arbetar heltid
 29
+
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
+
+|  | Nyckeltal | Mars | Juli | December | Ackumulerat<br>utfall | Målvärde |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Sjukfrånvaro (Andel<br>sjukfrånvarotimmar i<br>förhållande av den<br>totala arbetade<br>tiden.) | 6,5 % | 5,9 % | 6 % |  |  |
+|  | Personalomsättning<br>(Antalet<br>tillsvidareanställda<br>medarbetare som<br>avslutat sin<br>anställning i<br>kommunen de<br>senaste 12<br>månaderna. Delat<br>med genomsnittligt<br>antal<br>tillsvidareanställda.) | 5,3 % | 5,8 % | 7,1 % |  |  |
+|  | Andel praktikanter i<br>förhållande till<br>ordinarie bemanning | 5 % | 15 % | 23 % |  | 15 % |
+|  | Rekommendationsvilj<br>a (Ett frågeområde i<br>kommunens<br>pulsmätningsverktyg.<br>Resultatet redovisas<br>som ett index mellan<br>–100 och +100, där<br>ett värde över noll<br>indikerar ett positivt<br>utfall.) | -11 | -10 | -1 |  | > 0 |
+|  | Medarbetarengagem<br>ang (Ett frågeområde<br>i kommunens<br>pulsmätningsverktyg<br>där resultatet utgörs<br>av ett medelvärde på<br>en tiogradig skala.) | 7,3 | 7,3 | 7,5 |  | 7,5 |
+|  | Antal<br>riskobservationer | 2 | 6 | 14 |  |  |
+|  | Antal tillbud | 20 | 32 | 42 |  |  |
+|  | Antal olycksfall | 21 | 37 | 58 |  |  |
+|  | Andel medarbetare<br>som arbetar heltid | 88 % | 90 % | 90 % |  |  |
+|  | Personlig utveckling<br>(Ett frågeområde i<br>kommunens<br>pulsmätningsverktyg<br>där resultatet utgörs<br>av ett medelvärde på<br>en tiogradig skala.) | 6,7 | 6,5 | 7 |  | 7 |
 
 <!-- sida 37 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Personlig utveckling
-(Ett frågeområde i
-kommunens
-pulsmätningsverktyg 6,7 6,5       7                  7
-där resultatet utgörs
-av ett medelvärde på
-en tiogradig skala.)
 Om fokusområdet Engagerade medarbetare
+
 Service arbetar för att vara en attraktiv och omtänksam arbetsgivare som ger medarbetare förutsättningar att
 utvecklas och ta ansvar för att bidra till bästa möjliga service till våra partners. Under året har arbetet inom
 fokusområdet haft ett tydligt fokus på kompetensförsörjning och rekommendationsvilja vilket har konkretiserats
@@ -1787,45 +1630,20 @@ Nämndens årsredovisning 2025
 
 5.4 Hållbarhet
 
-Ackumulerat
-Nyckeltal     Mars      Juli      December            Målvärde
-utfall
-Koldioxidutsläpp per
-kilo inköpta livsmedel 1,43 CO2 1,65 CO2 1,49 CO2 1,49 CO2 1,6 CO2
-(Måltider)
-Totalt matsvinn per
-42 g      40 g      42 g      39,75 g   30 g
-portion
-Miljömedvetna
-materialval   85 %      85 %      85 %      85 %      95 %
-(Lokalförsörjning)
-Elanvändning i
-kommunens lokaler i
--7 %      -8,4 %    -4 %      -4 %      -2 %
-jämförelse med förra
-året.
-Solcellsproduktion
-3 831 kw  4 016 kw  4 250 kw  4 250 kW  4 354 kw
-\- Installerad effekt
-Fossiloberoende
-97,1 %    97,2 %    97,5 %    97,5 %    100 %
-fordon (Fastigheter)
-Miljömedvetna inköp 10,23 % 9,48 % 4,26 %   10,64 %
-Miljömedvetna
-materialval   0 %       98,7 %    99,9 %    100 %     100 %
-(Fastigheter)
 Om fokusområdet Hållbarhet
 Service arbetar för att vara ett föredöme i sitt hållbarhetsarbete, ur både ett ekonomiskt, ekologiskt och socialt
 perspektiv. Med hållbarhet i fokus arbetar vi medvetet för att fortsatt bidra till en mer hållbar och livskraftig
 kommun. Vi strävar efter att optimera kommunens resurser, och att leverera tjänster med minsta möjliga
 miljöpåverkan utifrån kloka och medvetna val i balans med funktion, kvalitet och ekonomi.
 Klimatpåverkan och matsvinn i måltidsverksamheten
+
 Måltider arbetar aktivt med att minska koldioxidutsläppen per kilo livsmedel och redovisar ett utfall som ligger
 väl under fastställt målvärde. Perioder med ökad servering av nötkött, såsom under september månad, medför
 dock tillfälligt en högre miljöpåverkan. Verksamheten bedriver samtidigt ett systematiskt arbete för att minska
 matsvinnet. Matsvinn mäts och följs upp dagligen, och flera åtgärder pågår för att nå målvärdet om 30 gram per
 portion år 2030. Det genomsnittliga matsvinnet för året ligger på 39,5 gram.
 Energieffektivisering och utbyggnad av solenergi
+
 Fastighet redovisar ett utfall där inköpt el till egenägda lokaler har minskat med 4 procent, jämfört med
 målsättningen om 2 procent årlig minskning. Minskningen motsvarar 921 MWh, varav 490 MWh kan härledas
 till ishallen. Cirka hälften av ishallens minskning är rena energieffektiviseringar och den andra hälften tillskrivs
@@ -1837,6 +1655,19 @@ som vi inte helt återhämtar. Arbetet med att identifiera tak med goda föruts�
 solceller pågår för att uppnå målet.
 
 31
+
+[Tabell 38-1](handlingar.tabeller/38-1.csv)
+
+|  | Nyckeltal | Mars | Juli | December | Ackumulerat<br>utfall | Målvärde |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Koldioxidutsläpp per<br>kilo inköpta livsmedel<br>(Måltider) | 1,43 CO2 | 1,65 CO2 | 1,49 CO2 | 1,49 CO2 | 1,6 CO2 |
+|  | Totalt matsvinn per<br>portion | 42 g | 40 g | 42 g | 39,75 g | 30 g |
+|  | Miljömedvetna<br>materialval<br>(Lokalförsörjning) | 85 % | 85 % | 85 % | 85 % | 95 % |
+|  | Elanvändning i<br>kommunens lokaler i<br>jämförelse med förra<br>året. | -7 % | -8,4 % | -4 % | -4 % | -2 % |
+|  | Solcellsproduktion<br>- Installerad effekt | 3 831 kw | 4 016 kw | 4 250 kw | 4 250 kW | 4 354 kw |
+|  | Fossiloberoende<br>fordon (Fastigheter) | 97,1 % | 97,2 % | 97,5 % | 97,5 % | 100 % |
+|  | Miljömedvetna inköp | 10,23 % | 9,48 % | 4,26 % | 10,64 % |  |
+|  | Miljömedvetna<br>materialval<br>(Fastigheter) | 0 % | 98,7 % | 99,9 % | 100 % | 100 % |
 
 <!-- sida 39 -->
 
@@ -2358,38 +2189,31 @@ Nämndens årsredovisning 2025
 
 7.4 Resursmått
 
-Namn          Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 Bokslut 2025
-Andel heltid     82 %       87 %       88 %       89 %      90 %
-Anställda andel
-69 %       69 %       68 %       68 %      68 %
-kvinnor
-Anställda andel män 31 %    31 %       32 %       32 %      32 %
-Anställda totalt  787       811        810        810        821
-Antal medarbetare
-17         18         17        19         20
-per enhetschef
-Medelålder        48         48         48        49         49
-
 7.5 Effektmått
 
-Namn         Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024 Bokslut 2025
-
-Korttids-
-3,3 %      3,9 %      3,3 %     3,2 %       3 %
-sjukfrånvaro
-Långtids-
-3,2 %      3,4 %      2,8 %     3,6 %       3 %
-sjukfrånvaro
-Personal-
-8 %       8,7 %      6,1 %     5,4 %       7,1 %
-omsättning
-Sjukfrånvaro
-7,1 %      8,4 %      7 %       7,9 %       7 %
-kvinnor
-Sjukfrånvaro män 5,1 %     4,9 %      4 %       4,3 %       4 %
-Sjukfrånvaro totalt 6,5 %  7,3 %      6,1 %     6,7 %       6 %
-
 42
+
+[Tabell 49-1](handlingar.tabeller/49-1.csv)
+
+| Namn | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 | Bokslut 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 82 % | 87 % | 88 % | 89 % | 90 % |
+| Anställda andel<br>kvinnor | 69 % | 69 % | 68 % | 68 % | 68 % |
+| Anställda andel män | 31 % | 31 % | 32 % | 32 % | 32 % |
+| Anställda totalt | 787 | 811 | 810 | 810 | 821 |
+| Antal medarbetare<br>per enhetschef | 17 | 18 | 17 | 19 | 20 |
+| Medelålder | 48 | 48 | 48 | 49 | 49 |
+
+[Tabell 49-2](handlingar.tabeller/49-2.csv)
+
+| Namn | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 | Bokslut 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Korttids-<br>sjukfrånvaro | 3,3 % | 3,9 % | 3,3 % | 3,2 % | 3 % |
+| Långtids-<br>sjukfrånvaro | 3,2 % | 3,4 % | 2,8 % | 3,6 % | 3 % |
+| Personal-<br>omsättning | 8 % | 8,7 % | 6,1 % | 5,4 % | 7,1 % |
+| Sjukfrånvaro<br>kvinnor | 7,1 % | 8,4 % | 7 % | 7,9 % | 7 % |
+| Sjukfrånvaro män | 5,1 % | 4,9 % | 4 % | 4,3 % | 4 % |
+| Sjukfrånvaro totalt | 6,5 % | 7,3 % | 6,1 % | 6,7 % | 6 % |
 
 <!-- sida 50 -->
 
@@ -2400,53 +2224,41 @@ Nämndens årsredovisning 2025
 
 8.1 Uppföljning driftbudget
 
-Uppföljningsnivå                                          Budgetavvike
-Bokslut 2024 Budget 2025 Bokslut 2025
-(belopp i mkr)                                             lse 2025
-
-```osaker-tabell
-Gemensam verksamhet Intäkt       28,6      24,1      42,2       18,1
-                    Kostnad     -24,6      -30,3     -44,2     -13,9
-                    Netto         4,0      -6,1       -2,0       4,1
-Digitalt center     Intäkt       83,7      91,6      90,9       -0,7
-
-                    Kostnad     -87,9      -99,2     -97,6       1,6
-                    Netto        -4,2      -7,6       -6,7       0,9
-HR & Personalförsörjning Intäkt  29,8      36,6      35,6       -1,0
-
-                    Kostnad     -42,3      -42,8     -41,9       0,9
-                    Netto       -12,5      -6,2       -6,4      -0,2
-
-UKK                 Intäkt       18,8      23,5      25,3        1,8
-                    Kostnad     -42,0      -48,3     -46,6       1,7
-                    Netto       -23,3      -24,8     -21,3       3,5
-
-Inköp               Intäkt       33,2      31,4      32,1        0,7
-                    Kostnad     -37,0      -35,3     -37,1      -1,8
-                    Netto        -3,9      -3,9       -5,0      -1,1
-
-Måltider            Intäkt      238,7     240,8      241,1       0,3
-                    Kostnad     -249,5    -249,2    -245,2       4,0
-
-                    Netto       -10,7      -8,4       -4,2       4,2
-Lokalvård           Intäkt      137,3     137,4      139,1       1,7
-                    Kostnad      -134     -136,4    -133,1       3,3
-
-                    Netto         3,3       1,1       6,0        4,9
-Fastighet           Intäkt      894,0     920,6      921,0       0,4
-
-                    Kostnad     -903,4    -942,7    -910,3      32,4
-                    Netto        -9,4      -22,1     10,7       32,8
-Lokalförsörjning    Intäkt        2,9       2,1      11,3        9,2
-
-                    Kostnad     -26,0      -42,6     -22,2      20,4
-                    Netto       -23,1      -40,5     -10,9      29,6
-Ram                              71,1     118,6      118,6       0,0
-
-Summa                            -8,7       0,0      78,9       78,9
-```
-
 43
+
+[Tabell 50-1](handlingar.tabeller/50-1.csv)
+
+| Uppföljningsnivå<br>(belopp i mkr) |  | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike<br>lse 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam verksamhet | Intäkt | 28,6 | 24,1 | 42,2 | 18,1 |
+|  | Kostnad | -24,6 | -30,3 | -44,2 | -13,9 |
+|  | Netto | 4,0 | -6,1 | -2,0 | 4,1 |
+| Digitalt center | Intäkt | 83,7 | 91,6 | 90,9 | -0,7 |
+|  | Kostnad | -87,9 | -99,2 | -97,6 | 1,6 |
+|  | Netto | -4,2 | -7,6 | -6,7 | 0,9 |
+| HR & Personalförsörjning | Intäkt | 29,8 | 36,6 | 35,6 | -1,0 |
+|  | Kostnad | -42,3 | -42,8 | -41,9 | 0,9 |
+|  | Netto | -12,5 | -6,2 | -6,4 | -0,2 |
+| UKK | Intäkt | 18,8 | 23,5 | 25,3 | 1,8 |
+|  | Kostnad | -42,0 | -48,3 | -46,6 | 1,7 |
+|  | Netto | -23,3 | -24,8 | -21,3 | 3,5 |
+| Inköp | Intäkt | 33,2 | 31,4 | 32,1 | 0,7 |
+|  | Kostnad | -37,0 | -35,3 | -37,1 | -1,8 |
+|  | Netto | -3,9 | -3,9 | -5,0 | -1,1 |
+| Måltider | Intäkt | 238,7 | 240,8 | 241,1 | 0,3 |
+|  | Kostnad | -249,5 | -249,2 | -245,2 | 4,0 |
+|  | Netto | -10,7 | -8,4 | -4,2 | 4,2 |
+| Lokalvård | Intäkt | 137,3 | 137,4 | 139,1 | 1,7 |
+|  | Kostnad | -134 | -136,4 | -133,1 | 3,3 |
+|  | Netto | 3,3 | 1,1 | 6,0 | 4,9 |
+| Fastighet | Intäkt | 894,0 | 920,6 | 921,0 | 0,4 |
+|  | Kostnad | -903,4 | -942,7 | -910,3 | 32,4 |
+|  | Netto | -9,4 | -22,1 | 10,7 | 32,8 |
+| Lokalförsörjning | Intäkt | 2,9 | 2,1 | 11,3 | 9,2 |
+|  | Kostnad | -26,0 | -42,6 | -22,2 | 20,4 |
+|  | Netto | -23,1 | -40,5 | -10,9 | 29,6 |
+| Ram |  | 71,1 | 118,6 | 118,6 | 0,0 |
+| Summa |  | -8,7 | 0,0 | 78,9 | 78,9 |
 
 <!-- sida 51 -->
 
@@ -3944,14 +3756,14 @@ Internkontrollrapport 2025
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
-| Kategorier | Matrisnr Risker Till plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Efterlevnad till Ja<br>rekryteringsprocessen |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 2 Kommunövergripande risk: Bristande följsamhet Ja<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning |
-| Verksamhet | 3 Risk för driftstörning genom ett dataintrång i Ja<br>kommunens nätverk, system eller tekniskt<br>uppkopplad utrustning. |
-|  | 4 Risk för att barn, elever och omsorgstagare med Ja<br>behov av specialkost får fel mat. |
-|  | 5 Kommunövergripande risk - Risk för korruption Ja<br>och välfärdsbrottslighet |
-|  | 6 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Efterlevnad till<br>rekryteringsprocessen | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 2 | Kommunövergripande risk: Bristande följsamhet<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning | Ja |
+| Verksamhet |  | 3 | Risk för driftstörning genom ett dataintrång i<br>kommunens nätverk, system eller tekniskt<br>uppkopplad utrustning. | Ja |
+|  |  | 4 | Risk för att barn, elever och omsorgstagare med<br>behov av specialkost får fel mat. | Ja |
+|  |  | 5 | Kommunövergripande risk - Risk för korruption<br>och välfärdsbrottslighet | Ja |
+|  |  | 6 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 <!-- sida 85 -->
 
@@ -4195,12 +4007,12 @@ planerar att arbeta med detta under 2026.
 
 [Tabell 90-1](handlingar.tabeller/90-1.csv)
 
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Avtalsuppföljning enligt<br>Service<br>gällande styrdokument | Påminn om utbildningar<br>om avtalshantering |
-|  | Uppföljning av<br>Service direktupphandlingar<br>(köpnivå 4–5) | Behov av ramavtal |
-|  |  | Informera om regler och<br>befintliga utbildningar |
-|  | Granskning av köp över<br>direktupphandlingsnivån<br>Service<br>(köpnivå 6) utanför<br>regelverket | Förtydligande av avrop<br>mot till exempel Adda |
+| Risker | Enhet | Granskningsaktiviteter | Åtgärder |
+| --- | --- | --- | --- |
+| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Service | Avtalsuppföljning enligt<br>gällande styrdokument | Påminn om utbildningar<br>om avtalshantering |
+|  | Service | Uppföljning av<br>direktupphandlingar<br>(köpnivå 4–5) | Behov av ramavtal |
+|  |  |  | Informera om regler och<br>befintliga utbildningar |
+|  | Service | Granskning av köp över<br>direktupphandlingsnivån<br>(köpnivå 6) utanför<br>regelverket | Förtydligande av avrop<br>mot till exempel Adda |
 
 [Tabell 90-91-2](handlingar.tabeller/90-91-2.csv)
 
@@ -4596,27 +4408,27 @@ Nämndens självskattning
 
 [Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
-| Område | Frågor Svar 2025 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 101 -->
 

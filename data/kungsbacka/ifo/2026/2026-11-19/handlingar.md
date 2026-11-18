@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.32a80ba01a1ce4fb9824f08c/1794822451
 sha256: 23ae5bf422e6b426a9c425cd5cb5efbd388027f68d167aa495284a7520e2d456
 bytes: 3959988
 sidor: 113
-hamtad: 2026-11-16T23:12:54+00:00
-konverterad: 2026-11-16T23:13:18+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T02:55:55+00:00
+konverterad: 2026-11-18T02:56:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -862,16 +862,16 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att följa och berörda intressenter och<br>utveckla det kommunen)<br>systematiska<br>beredskapsarbetet |
-|  | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Risk för bristande som besvärande för<br>efterlevnad till NIS2- berörda intressenter och<br>direktivet och gällande kommunen)<br>rutiner och regelverk |
-| Verksamhet | 5 Risk för välfärdsbrott 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>inom privat assistans som besvärande för<br>berörda intressenter och<br>kommunen) |
-|  | 6 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>hantering av tillbud och som besvärande för<br>olycksfall berörda intressenter och<br>kommunen) |
-|  | 7 Risk för brister i 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>referenstagning och (så stor att den inte får<br>kontroller inför inträffa)<br>rekrytering |
-|  | 8 Risk för felaktiga 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>behörigheter i Combine som besvärande för<br>berörda intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensam<br>ma<br>områden;<br>Information<br>ssäkerhet,<br>administrati<br>on, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Risk för bristande<br>efterlevnad till NIS2-<br>direktivet och gällande<br>rutiner och regelverk | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 Risk för välfärdsbrott<br>inom privat assistans | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Risk för bristande<br>hantering av tillbud och<br>olycksfall | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 7 Risk för brister i<br>referenstagning och<br>kontroller inför<br>rekrytering | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 8 Risk för felaktiga<br>behörigheter i Combine | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 24 -->
 
@@ -883,14 +883,14 @@ Intern kontroll 2027
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Ekonomi | Kommunövergrip 2. Lindrig Tidigare års<br>ande risk: (uppfattas som granskning visade<br>Grundläggande 2. Mindre vanligt liten av berörda ej på brister<br>redovisning intressenter och<br>kvalitetsbrister kommunen) |
-| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. | Kommunövergrip 3. Kännbar<br>ande risk: It- (uppfattas som<br>säkerhet besvärande för<br>2. Mindre vanligt<br>- Bristande berörda<br>driftmiljö hos intressenter och<br>leverantörer kommunen) |
-|  | Kommunövergrip Risken<br>ande risk: Risk omhändertas via<br>att lokalbehovsproces<br>samhällsutbyggn sen<br>ad inte kan ske i<br>planerad takt. Ny 3. Kännbar<br>infrastruktur och (uppfattas som<br>exploatering och besvärande för<br>2. Mindre vanligt<br>projekt för berörda<br>underhåll/utbygg intressenter och<br>nad av befintlig kommunen)<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). |
-|  | Kommunövergrip 3. Kännbar Risken<br>ande risk: Risk (uppfattas som omhändertas via<br>för otillåten besvärande för "Risk för korruption<br>2. Mindre vanligt<br>påverkan berörda och<br>intressenter och välfärdsbrottslighet<br>kommunen) ". |
-| Verksamhet | Risk för att Risk kommer<br>3. Kännbar<br>barnrättsperspekt hanteras inom<br>(uppfattas som<br>ivet inte beaktas Kvalitetsplan 2027.<br>besvärande för<br>och 2. Mindre vanligt<br>berörda<br>dokumenteras i<br>intressenter och<br>tillräcklig<br>kommunen)<br>omfattning |
-|  | Risk att riktlinje 2. Lindrig Risk kommer<br>för systematisk (uppfattas som hanteras inom<br>individuppföljnin 2. Mindre vanligt liten av berörda Kvalitetsplan 2027.<br>g inte följs intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Tidigare års<br>granskning visade<br>ej på brister |
+| Gemensamma<br>områden;<br>Informationssäke<br>rhet,<br>administration,<br>inköp m fl. |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>att<br>samhällsutbyggn<br>ad inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbygg<br>nad av befintlig<br>infrastruktur är<br>beroende av<br>varandra<br>(resurser och<br>samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken<br>omhändertas via<br>lokalbehovsproces<br>sen |
+|  |  | Kommunövergrip<br>ande risk: Risk<br>för otillåten<br>påverkan | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken<br>omhändertas via<br>"Risk för korruption<br>och<br>välfärdsbrottslighet<br>". |
+| Verksamhet |  | Risk för att<br>barnrättsperspekt<br>ivet inte beaktas<br>och<br>dokumenteras i<br>tillräcklig<br>omfattning | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risk kommer<br>hanteras inom<br>Kvalitetsplan 2027. |
+|  |  | Risk att riktlinje<br>för systematisk<br>individuppföljnin<br>g inte följs | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Risk kommer<br>hanteras inom<br>Kvalitetsplan 2027. |
 
 <!-- sida 25 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c172736/17652048268
 sha256: e1315e47dd56cc68dbbcb2dac4b8e1b3f2e50909dd51d717d8a3294cd86a278f
 bytes: 15118802
 sidor: 197
-hamtad: 2026-11-08T08:30:32+00:00
-konverterad: 2026-11-08T08:31:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:18:38+00:00
+konverterad: 2026-11-17T23:19:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -623,7 +623,7 @@ Transaktionsidentitet: VISMA_SIGN_02_ATTRIBUTE_SAML_TransactionId
 
 [Tabell 18-19-1](handlingar.tabeller/18-19-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 77 815 kr |
@@ -4190,7 +4190,7 @@ www.kungsbacka.se
 
 [Tabell 106-1](handlingar.tabeller/106-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 77 815 kr |
@@ -4266,7 +4266,7 @@ Transaktionsidentitet: 62246BF972EC66B74483D9E9DD740E4C9C30F6C827
 
 [Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 77 815 kr |
@@ -5359,27 +5359,29 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
 
-| Kategorier<br>Gemen-<br>samma<br>områden;<br>Informations<br>säkerhet,<br>administra-<br>tion, inköp m<br>fl. | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>risk: Bristande följsamhet besvärande för berörda<br>till inköpsprocessen; intressenter och<br>direktupphandling kommunen)<br>respektive<br>avtalsuppföljning |
-| --- | --- |
-|  | 2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan (så Ja<br>risk - Risk för korruption stor att den inte får inträffa)<br>och välfärdsbrottslighet |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>risk: Förvaltningarnas besvärande för berörda<br>arbete med att följa och intressenter och<br>utveckla det systematiska kommunen)<br>beredskapsarbetet |
-| Verksamhet | 4 Utredning av stöd och 3. Vanligt 3. Kännbar (uppfattas som Ja<br>upprättande av besvärande för berörda<br>åtgärdsprogram sker inte intressenter och<br>skyndsamt kommunen) |
-|  | 5 Övergångar mellan skolor 3. Vanligt 3. Kännbar (uppfattas som Ja<br>eller skolformer hanteras besvärande för berörda<br>inte på ett sätt som intressenter och<br>säkerställer elevens rätt till kommunen)<br>en trygg och<br>sammanhängande<br>skolgång. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemen-<br>samma<br>områden;<br>Informations<br>säkerhet,<br>administra-<br>tion, inköp m<br>fl. |  | 1 Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan (så<br>stor att den inte får inträffa) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att följa och<br>utveckla det systematiska<br>beredskapsarbetet | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 4 Utredning av stöd och<br>upprättande av<br>åtgärdsprogram sker inte<br>skyndsamt | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 5 Övergångar mellan skolor<br>eller skolformer hanteras<br>inte på ett sätt som<br>säkerställer elevens rätt till<br>en trygg och<br>sammanhängande<br>skolgång. | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
 
 [Tabell 136-138-2](handlingar.tabeller/136-138-2.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 3. Kännbar<br>övergripande risk: (uppfattas som<br>Efterlevnad till 2. Mindre vanligt besvärande för<br>rekryterings- berörda intressenter<br>processen och kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | Kommun-<br>3. Kännbar<br>övergripande risk:<br>(uppfattas som<br>informations-<br>2. Mindre vanligt besvärande för<br>säkerhet; skydd av<br>berörda intressenter<br>information mot<br>och kommunen)<br>obehörig tillgång |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommun- 3. Kännbar<br>övergripande risk: (uppfattas som<br>It-säkerhet - 2. Mindre vanligt besvärande för<br>Bristande driftmiljö berörda intressenter<br>hos leverantörer och kommunen) |
-|  | Kommun-<br>övergripande risk:<br>Risk att samhälls-<br>utbyggnad inte kan<br>ske i planerad takt.<br>Ny infrastruktur 3. Kännbar<br>och exploatering (uppfattas som<br>och projekt för 2. Mindre vanligt besvärande för<br>underhåll/ berörda intressenter<br>utbyggnad av och kommunen)<br>befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och samplanering). |
-| Verksamhet | Kommun-<br>övergripande risk:<br>3. Kännbar<br>Dämpad<br>(uppfattas som<br>befolkningstillväxt<br>2. Mindre vanligt besvärande för<br>med långsiktig<br>berörda intressenter<br>påverkan på<br>och kommunen)<br>kommunala<br>verksamheter |
-|  | Avsaknad av 3. Kännbar Omhändertas inom<br>uppdaterade (uppfattas som den ordinarie<br>beredskapsplaner 2. Mindre vanligt besvärande för verksamheten.<br>på förskolor och berörda intressenter<br>grundskolor och kommunen) |
-|  | Olikvärdigt Omhändertas inom<br>användande av den ordinarie<br>förvaltnings- verksamheten.<br>3. Kännbar<br>gemensam<br>(uppfattas som<br>lärplattform<br>3. Vanligt besvärande för<br>försvårar<br>berörda intressenter<br>kommunikation och<br>och kommunen)<br>information till<br>elever och<br>vårdnadshavare |
-|  | Dokumentation 3. Kännbar Omhändertas inom<br>inom elevhälsans (uppfattas som den ordinarie<br>icke-medicinska del 3. Vanligt besvärande för verksamheten.<br>sker inte enligt berörda intressenter<br>interna rutiner och kommunen) |
-|  | Fördjupade läs- 3. Kännbar Följ upp inom<br>och (uppfattas som överenskommelsen.<br>skrivutredningar 2. Mindre vanligt besvärande för<br>genomförs inte berörda intressenter<br>enligt rutin och kommunen) |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Enheterna saknar 3. Kännbar Omhändertas inom<br>uppdaterade lokala (uppfattas som den ordinarie<br>styrdokument 2. Mindre vanligt besvärande för verksamheten.<br>berörda intressenter<br>och kommunen) |
-|  | Elevers behov av Omhändertas inom<br>särskilt stöd den ordinarie<br>3. Kännbar<br>utreds, planeras verksamheten.<br>(uppfattas som<br>och genomförs inte<br>2. Mindre vanligt besvärande för<br>utifrån de<br>berörda intressenter<br>förutsättningar som<br>och kommunen)<br>finns på<br>fritidshemmet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommun-<br>övergripande risk:<br>Efterlevnad till<br>rekryterings-<br>processen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. |  | Kommun-<br>övergripande risk:<br>informations-<br>säkerhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+|  |  | Kommun-<br>övergripande risk:<br>It-säkerhet -<br>Bristande driftmiljö<br>hos leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+|  |  | Kommun-<br>övergripande risk:<br>Risk att samhälls-<br>utbyggnad inte kan<br>ske i planerad takt.<br>Ny infrastruktur<br>och exploatering<br>och projekt för<br>underhåll/<br>utbyggnad av<br>befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och samplanering). | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+| Verksamhet |  | Kommun-<br>övergripande risk:<br>Dämpad<br>befolkningstillväxt<br>med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+|  |  | Avsaknad av<br>uppdaterade<br>beredskapsplaner<br>på förskolor och<br>grundskolor | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Omhändertas inom<br>den ordinarie<br>verksamheten. |
+|  |  | Olikvärdigt<br>användande av<br>förvaltnings-<br>gemensam<br>lärplattform<br>försvårar<br>kommunikation och<br>information till<br>elever och<br>vårdnadshavare | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Omhändertas inom<br>den ordinarie<br>verksamheten. |
+|  |  | Dokumentation<br>inom elevhälsans<br>icke-medicinska del<br>sker inte enligt<br>interna rutiner | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Omhändertas inom<br>den ordinarie<br>verksamheten. |
+|  |  | Fördjupade läs-<br>och<br>skrivutredningar<br>genomförs inte<br>enligt rutin | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Följ upp inom<br>överenskommelsen. |
+|  |  | Enheterna saknar<br>uppdaterade lokala<br>styrdokument | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Omhändertas inom<br>den ordinarie<br>verksamheten. |
+|  |  | Elevers behov av<br>särskilt stöd<br>utreds, planeras<br>och genomförs inte<br>utifrån de<br>förutsättningar som<br>finns på<br>fritidshemmet | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Omhändertas inom<br>den ordinarie<br>verksamheten. |
 
 <!-- sida 137 -->
 

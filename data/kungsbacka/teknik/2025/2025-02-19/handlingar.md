@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.3a9ed51194d84d9470edeb6/17395228113
 sha256: 23f9e4cf61ec36d8ececb1db03e069d9e167d43a67a393e534e253089b356d13
 bytes: 37192344
 sidor: 480
-hamtad: 2026-11-08T10:59:41+00:00
-konverterad: 2026-11-08T11:01:51+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:29:20+00:00
+konverterad: 2026-11-18T01:31:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: [145, 146, 231, 330]
-figurer: [54, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 142, 143, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 182, 187, 190, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 237, 240, 241, 249, 250, 257, 258, 259, 260, 265, 266, 267, 268, 270, 272, 273, 274, 275, 279, 299, 301, 306, 307, 309, 311, 312, 315, 316, 317, 318, 319, 323, 324, 325, 326, 327, 328, 329, 334, 338, 347, 349, 350, 351, 366, 367, 368, 369, 374, 376, 377, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 396, 397, 399, 401, 402, 403, 404, 407, 409, 413, 421, 422, 423, 424, 426, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 447, 448, 449, 450, 466, 467, 468, 470]
+figurer: [54, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 142, 143, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 182, 190, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 237, 240, 241, 249, 250, 257, 258, 259, 260, 265, 266, 267, 268, 270, 272, 273, 274, 275, 279, 299, 301, 306, 307, 309, 311, 312, 315, 316, 317, 318, 319, 323, 324, 325, 326, 327, 328, 329, 334, 338, 347, 349, 350, 351, 366, 367, 368, 369, 374, 376, 377, 379, 380, 381, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 394, 396, 397, 399, 401, 402, 403, 404, 407, 409, 413, 421, 422, 423, 424, 426, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, 442, 443, 447, 448, 449, 450, 466, 467, 468, 470]
 tolkade: []
 granskad: null
 ---
@@ -722,26 +722,8 @@ Nämndens årsredovisning 2024
 Hur ansökningsprocessen för färdtjänst ska se ut för att vara enkel och effektiv har varit ett utvecklingsprojekt
 med hög medskapandegrad av både invånare och regionen.
 
-Indikatorer        Utfall 2021  Utfall 2022 Utfall 2023  Utfall 2024
-Hållbart
-medarbetarengagemang,
-ett index för
-medarbetarnas samlade
-uppfattning om
-områdena motivation,  78           78                 76
-ledarskap och styrning,
-skala 1-100 enligt
-Medarbetarenkäten.
-Mätningen görs
-vartannat år.
-Jämställdhetsindex,
-Jämix. Antal poäng av
-max 180. Jämix
-103          114               122
-beräknas utifrån nio
-nyckeltal med skala 1–
-20\.
 3.5.1 Vi arbetar både målstyrande och målsökande och ökar takten i vårt innovationsarbete
+
 Beslutats av
 Nämnd
 Nämndens bedömning
@@ -764,6 +746,13 @@ sopkärl, kontroll av livbojar samt ett arbete som ännu är i sin linda; provta
 omfattande personella insats det idag innebär.
 
 15
+
+[Tabell 15-1](handlingar.tabeller/15-1.csv)
+
+| Indikatorer | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- | --- | --- |
+| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation,<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 | 76 |  |
+| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 103 | 114 | 122 |  |
 
 <!-- sida 16 -->
 
@@ -837,15 +826,6 @@ förutsättningar för verksamhetsutveckling genom digitalisering genom:
 • Säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
 
-Indikatorer            Utfall 2023           Utfall 2024
-Status direktiv: Andel
-innovationsprojekt som drivits ökande         ökande
-under året
-Status direktiv: Andel av
-bruttokostnaden som avsätts för 1 av 250 Milj 0,6 Mkr av 250 Mkr
-innovationsarbete och
-digitalisering
-
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 För att bli mer robusta jobbar vi med att ha två eller fler medarbetare som kan respektive arbetsuppgift. Även
 om en person är huvudansvarig för en arbetsuppgift strävar vi efter att ha minst två som kan varje uppgift, detta
@@ -855,6 +835,13 @@ ledighet, sjukfrånvaro, medarbetare som slutar eller liknande.
 Rekrytering av innovationsledare på heltid avslutas i början av 2025, och är en förstärkning av resurser för att
 
 17
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Indikatorer | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- |
+| Status direktiv: Andel<br>innovationsprojekt som drivits<br>under året | ökande | ökande |
+| Status direktiv: Andel av<br>bruttokostnaden som avsätts för<br>innovationsarbete och<br>digitalisering | 1 av 250 Milj | 0,6 Mkr av 250 Mkr |
 
 <!-- sida 18 -->
 
@@ -994,31 +981,13 @@ Nämndens årsredovisning 2024
 
 5   Kvalitetsdeklarationer
 
-Område           Status Beskrivning           Kommentar
-
-• Efter att anmälan kommit in till
-Teknik ska vi så fort som möjligt
-spärra av eller varningsmarkera
-skador på belysningsanläggning
-som kan orsaka personskador.
-• Vi prioriterar att åtgärda släckt
-lampa vid övergångsställe,
-busshållplats, gångtunnel eller
-trappa.
-• Fel på belysningsanläggning
-Trafik & Utemiljö
-som innebär att tre eller fler
-belysningsstolpar i rad är ur
-funktion ska åtgärdas inom tre
-veckor. Övriga enskilda trasiga
-lampor byter vi antingen vid
-normalt underhåll eller när vi gör
-en uppsamling och byter flera
-enskilda
-trasiga lampor inom samma
-område.
-
 21
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+| Trafik & Utemiljö |  |  | • Efter att anmälan kommit in till<br>Teknik ska vi så fort som möjligt<br>spärra av eller varningsmarkera<br>skador på belysningsanläggning<br>som kan orsaka personskador.<br>• Vi prioriterar att åtgärda släckt<br>lampa vid övergångsställe,<br>busshållplats, gångtunnel eller<br>trappa.<br>• Fel på belysningsanläggning<br>som innebär att tre eller fler<br>belysningsstolpar i rad är ur<br>funktion ska åtgärdas inom tre<br>veckor. Övriga enskilda trasiga<br>lampor byter vi antingen vid<br>normalt underhåll eller när vi gör<br>en uppsamling och byter flera<br>enskilda<br>trasiga lampor inom samma<br>område. |  |
 
 <!-- sida 22 -->
 
@@ -1029,11 +998,12 @@ Nämndens årsredovisning 2024
 
 [Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
-| Område | Status Beskrivning Kommentar<br>När snön faller är det<br>kommunens ansvar att snöröja<br>och halkbekämpa de kommunala<br>vägarna. Vi prioriterar snöröjning<br>för kollektivtrafikens<br>framkomlighet tillsammans med<br>framkomlighet för gående- och<br>cyklister högst. Övriga trafikslag<br>prioriteras därefter, uppställt blir<br>prioriteringen enligt följande:<br>Prioritet I:<br>Resecentrum<br>Gång- och cykelvägar samt<br>busshållplatser.<br>Plogning och flisning inom åtta<br>timmar från att snöfallet upphört<br>eller att kommunen kallat ut för<br>snöröjning.<br>Prioritet II:<br>Huvudvägnätet. Plogning och<br>flisning inom tio timmar från att<br>snöfallet upphört eller att<br>kommunen kallat ut för<br>snöröjning.<br>Prioritet III:<br>Lokalgator. Plogning och flisning<br>inom ett dygn från att snöfallet<br>upphör eller att kommunen kallat<br>ut för snöröjning. |
-| --- | --- |
-|  | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt. Budskap som<br>är av stötande karaktär saneras<br>senast inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Övrigt klotter saneras senast<br>inom en vecka om<br>yttertemperatur och väder tillåter.<br>Vi polisanmäler allt klotter. Vi<br>samarbetar med polisen och<br>arbetar för ökad samverkan inom<br>klotterbekämpning med övriga<br>parter. |
-| Område | Status Beskrivning Kommentar<br>Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |
-| Vatten & avlopp | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+|  |  |  | När snön faller är det<br>kommunens ansvar att snöröja<br>och halkbekämpa de kommunala<br>vägarna. Vi prioriterar snöröjning<br>för kollektivtrafikens<br>framkomlighet tillsammans med<br>framkomlighet för gående- och<br>cyklister högst. Övriga trafikslag<br>prioriteras därefter, uppställt blir<br>prioriteringen enligt följande:<br>Prioritet I:<br>Resecentrum<br>Gång- och cykelvägar samt<br>busshållplatser.<br>Plogning och flisning inom åtta<br>timmar från att snöfallet upphört<br>eller att kommunen kallat ut för<br>snöröjning.<br>Prioritet II:<br>Huvudvägnätet. Plogning och<br>flisning inom tio timmar från att<br>snöfallet upphört eller att<br>kommunen kallat ut för<br>snöröjning.<br>Prioritet III:<br>Lokalgator. Plogning och flisning<br>inom ett dygn från att snöfallet<br>upphör eller att kommunen kallat<br>ut för snöröjning. |  |
+|  |  |  | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt. Budskap som<br>är av stötande karaktär saneras<br>senast inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Övrigt klotter saneras senast<br>inom en vecka om<br>yttertemperatur och väder tillåter.<br>Vi polisanmäler allt klotter. Vi<br>samarbetar med polisen och<br>arbetar för ökad samverkan inom<br>klotterbekämpning med övriga<br>parter. |  |
+|  |  |  | Vi kontrollerar kommunala<br>lekplatser på allmän platsmark<br>regelbundet och en årlig<br>besiktning genomförs. Vi<br>reparerar fel och brister enligt<br>klassificeringen av<br>besiktningsanmärkningarna,<br>allvarliga fel (A-fel) åtgärdas<br>omgående samt fel med mindre<br>risk för skada (B-fel) så snart som<br>möjligt. |  |
+| Vatten & avlopp |  |  | Vi lovar:<br>- Att ge dig information på<br>kommunens hemsida senast<br>inom tre timmar vid vattenläckor<br>som berör mer än 20 hushåll,<br>samt informera via sms om färre<br>än 20 hushåll berörs.<br>- Att det finns möjlighet att hämta<br>vatten vid det drabbade området<br>inom fyra timmar, om läckan inte<br>är lagad innan dess.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Kontrollera vår hemsida innan<br>du ringer för att rapportera att du<br>saknar vatten.<br>- Notera att när vattnet<br>återkommer efter en läcka kan<br>det vara grumligt och/eller vitt.<br>Det beror på avlagringar som<br>släpper inifrån rören och på<br>luftbubblor. Det är ofarligt och går<br>över, men vänta med att tvätta<br>vittvätt.<br>- Ha några större dunkar hemma<br>för att kunna hämta vatten som vi<br>ställer ut i tankar vid längre<br>avbrott. |  |
 
 <!-- sida 23 -->
 
@@ -1049,14 +1019,16 @@ Nämndens årsredovisning 2024
 
 24
 
-[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
+[Tabell 24-26-1](handlingar.tabeller/24-26-1.csv)
 
-| Område | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta<br>vattentips, till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |
-| --- | --- |
-|  | Vi lovar:<br>- Att allt slam som blir kvar när vi<br>renat vårt avloppsvatten återgår<br>till jordbruket där det bidrar till att<br>återföra fosfor och producera nya<br>grödor.<br>- Att vårt slam uppfyller nationella<br>krav för vilka halter av olika<br>ämnen som får finnas i det.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sluta fulspola! Bara spolar ner<br>bajs, kiss och toapapper i<br>toaletten.<br>- Slänga allt annat, till exempel<br>våtservetter, tops, bindor, snus<br>och fimpar i soppåsen för<br>brännbart avfall<br>- Skaffa en papperskorg i<br>badrummet så att skräp inte<br>hamnar i toaletten.<br>- Lämna gamla mediciner på ett<br>apotek. |
-| Område<br>Avfall &<br>Återvinning | Status Beskrivning Kommentar<br>Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>missad hämtning.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |
-|  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |
-| Kungsbacka<br>Bredbandsnät | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+|  |  |  | Vi lovar:<br>- Att alltid leverera bra<br>dricksvatten med god kvalitet,<br>vilket vi ser till genom<br>provtagning och kontroller.<br>- Att förbättra kontrollen genom<br>ny teknik.<br>- Att leverera dricksvatten som<br>räcker för hushållens normala<br>behov.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Spara på vatten, särskilt när vi<br>går ut med uppmaningar om<br>detta.<br>- Ta till dig våra smarta<br>vattentips, till exempel skaffar en<br>regntunna för bevattning i<br>trädgården.<br>- Ha vatten hemma för att kunna<br>klara dig 72 timmar vid en kris.<br>Se gärna krisinformation.se för<br>att lära dig mer om hur mycket<br>vatten, och andra saker, som du<br>kan behöva hemma vid en kris! |  |
+|  |  |  | Vi lovar:<br>- Att allt slam som blir kvar när vi<br>renat vårt avloppsvatten återgår<br>till jordbruket där det bidrar till att<br>återföra fosfor och producera nya<br>grödor.<br>- Att vårt slam uppfyller nationella<br>krav för vilka halter av olika<br>ämnen som får finnas i det.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sluta fulspola! Bara spolar ner<br>bajs, kiss och toapapper i<br>toaletten.<br>- Slänga allt annat, till exempel<br>våtservetter, tops, bindor, snus<br>och fimpar i soppåsen för<br>brännbart avfall<br>- Skaffa en papperskorg i<br>badrummet så att skräp inte<br>hamnar i toaletten.<br>- Lämna gamla mediciner på ett<br>apotek. |  |
+| Avfall &<br>Återvinning |  |  | Vi lovar:<br>- Att tömma sopkärlen hos dig<br>enligt hämtschemat.<br>- Att om tömningen blir försenad<br>informera via hemsidan och<br>avfallsappen.<br>- Att vi tömmer senast dagen<br>efter att vi fått in anmälan om<br>missad hämtning.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Ställa ut dina kärl på rätt dag<br>och att det är lättillgängligt även<br>vid snö och halka.<br>- Vända kärlen med handtagen ut<br>mot vägen för en god arbetsmiljö<br>för de som tömmer. |  |
+|  |  |  | Vi lovar:<br>- Att ta hand om ditt avfall på ett<br>miljöriktigt och ansvarsfullt sätt så<br>att det behandlas på godkända<br>anläggningar för att bli till biogas,<br>materialåtervinnas,<br>energiåtervinnas eller i sista hand<br>deponeras.<br>- Att ge dig information om hur du<br>ska sortera ditt avfall, exempelvis<br>via utskick, hemsidan,<br>avfallsappen och personal på<br>återvinningscentralerna.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Sortera ditt avfall enligt gällande<br>regler.<br>- Förlänga livslängden på dina<br>prylar så vi tillsammans kan<br>minska mängden avfall.<br>- Lämna det som någon annan<br>kan få nytta av till återbruk,<br>istället för att slänga i soporna. |  |
+| Kungsbacka<br>Bredbandsnät |  |  | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder.<br>På det sättet hjälper vi<br>Kungsbackas invånare att ha<br>tillgång till ett stabilt och<br>fungerande nät. |  |
+| Kund &<br>Kommunikation |  |  | Vi lovar:<br>- Att när du kontaktar oss på<br>Teknik ger vi dig ett gott<br>bemötande och återkoppling<br>inom två arbetsdagar samt svar<br>inom tio arbetsdagar.<br>- Att vi håller kontakten tills ditt<br>ärende är avslutat.<br>Då vill vi att du som<br>kommuninvånare hjälper oss<br>genom att:<br>- Använda anvisade<br>kontaktvägar. |  |
 
 <!-- sida 25 -->
 
@@ -1069,21 +1041,6 @@ Nämndens årsredovisning 2024
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
-
-Område           Status Beskrivning           Kommentar
-Vi lovar:
-\- Att när du kontaktar oss på
-Teknik ger vi dig ett gott
-bemötande och återkoppling
-inom två arbetsdagar samt svar
-inom tio arbetsdagar.
-Kund &                  - Att vi håller kontakten tills ditt
-Kommunikation           ärende är avslutat.
-Då vill vi att du som
-kommuninvånare hjälper oss
-genom att:
-\- Använda anvisade
-kontaktvägar.
 
 26
 
@@ -1271,109 +1228,54 @@ några större skillnader jämfört med föregående år.
 
 6.4 Resursmått
 
-Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-Andel heltid   97 %      97,9 %        98,3 %       98 %      98,2 %
-
-Andel kvinnor
-94,3 %     96,9 %        96,9 %     97,1 %       97 %
-som har heltid
-Andel män som
-98,6 %     98,6 %        99,3 %     98,6 %      99,2 %
-har heltid
-Anställda andel
-37,9 %     40,1 %        39,8 %     41,6 %      43,4 %
-kvinnor
-Anställda andel
-62,1 %     59,9 %        60,2 %     58,4 %      56,6 %
-män
-Anställda totalt 246      252            246        250         228
-Antal
-medarbetare    11,2       11,6           12,7        9,4        8,5
-per chef
-Medarbetare
-21 %      20,2 %        22,4 %     21,6 %      24,6 %
-30 - 39 år
-Medarbetare
-24,7 %     27,8 %         26 %      23,2 %      25,9 %
-40 - 49 år
-Medarbetare
-29,2 %     27,4 %        27,2 %       28 %      25,9 %
-50 - 59 år
-Medarbetare
-17,7 %     16,7 %        16,7 %     18,8 %      18,9 %
-60 år och äldre
-Medarbetare
-7,4 %      7,9 %         7,7 %      8,4 %      4,8 %
-yngre än 30 år
-Medelålder      47         47             47         47         47
-Pensionsavgån
-4          6               6          2          9
-gar
 6.5 Effektmått
 
 30
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-|  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Frisknärvaro | 56,1 % | 60,5 % | 50 % | 55,5 % | 55,2 % |
-|  | Frisknärvaro<br>Kvinnor | 60,8 % | 65,1 % | 53,9 % | 56,3 % | 50,9 % |
+|  |  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Andel heltid | 97 % | 97,9 % | 98,3 % | 98 % | 98,2 % |
+|  |  | Andel kvinnor<br>som har heltid | 94,3 % | 96,9 % | 96,9 % | 97,1 % | 97 % |
+|  |  | Andel män som<br>har heltid | 98,6 % | 98,6 % | 99,3 % | 98,6 % | 99,2 % |
+|  |  | Anställda andel<br>kvinnor | 37,9 % | 40,1 % | 39,8 % | 41,6 % | 43,4 % |
+|  |  | Anställda andel<br>män | 62,1 % | 59,9 % | 60,2 % | 58,4 % | 56,6 % |
+|  |  | Anställda totalt | 246 | 252 | 246 | 250 | 228 |
+|  |  | Antal<br>medarbetare<br>per chef | 11,2 | 11,6 | 12,7 | 9,4 | 8,5 |
+|  |  | Medarbetare<br>30 - 39 år | 21 % | 20,2 % | 22,4 % | 21,6 % | 24,6 % |
+|  |  | Medarbetare<br>40 - 49 år | 24,7 % | 27,8 % | 26 % | 23,2 % | 25,9 % |
+|  |  | Medarbetare<br>50 - 59 år | 29,2 % | 27,4 % | 27,2 % | 28 % | 25,9 % |
+|  |  | Medarbetare<br>60 år och äldre | 17,7 % | 16,7 % | 16,7 % | 18,8 % | 18,9 % |
+|  |  | Medarbetare<br>yngre än 30 år | 7,4 % | 7,9 % | 7,7 % | 8,4 % | 4,8 % |
+|  |  | Medelålder | 47 | 47 | 47 | 47 | 47 |
+|  |  | Pensionsavgån<br>gar | 4 | 6 | 6 | 2 | 9 |
+
+[Tabell 30-31-2](handlingar.tabeller/30-31-2.csv)
+
+|  |  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Frisknärvaro | 56,1 % | 60,5 % | 50 % | 55,5 % | 55,2 % |
+|  |  | Frisknärvaro<br>Kvinnor | 60,8 % | 65,1 % | 53,9 % | 56,3 % | 50,9 % |
+|  |  | Frisknärvaro<br>Män | 53,1 % | 57,7 % | 47,4 % | 54,9 % | 58,1 % |
+|  |  | Korttidssjukfrån<br>varo | 2,5 % | 2,4 % | 3 % | 2,7 % | 2,5 % |
+|  |  | Korttidssjukfrån<br>varo Kvinnor | 2 % | 1,9 % | 2,9 % | 2,8 % | 2,6 % |
+|  |  | Korttidssjukfrån<br>varo Män | 2,8 % | 2,8 % | 3,1 % | 2,7 % | 2,5 % |
+|  |  | Långtidssjukfrå<br>nvaro | 3,1 % | 2,5 % | 2,1 % | 1,4 % | 2,4 % |
+|  |  | Långtidssjukfrå<br>nvaro Kvinnor | 3,3 % | 1,4 % | 1,8 % | 1,7 % | 2,9 % |
+|  |  | Långtidssjukfrå<br>nvaro Män | 3 % | 3,3 % | 2,3 % | 1,2 % | 1,9 % |
+|  |  | Personalomsätt<br>ning | 11,9 % | 8 % | 15,2 % | 9,1 % | 9,3 % |
+|  |  | Sjukfrånvaro<br>Kvinnor | 5,3 % | 3,2 % | 4,8 % | 4,5 % | 5,5 % |
+|  |  | Sjukfrånvaro<br>Män | 5,8 % | 6 % | 5,3 % | 3,9 % | 4,4 % |
+|  |  | Sjukfrånvaro<br>Totalt | 5,6 % | 5 % | 5,1 % | 4,1 % | 4,8 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer | 43,6 % | 34,4 % | 27,8 % | 18,9 % | 29,9 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer<br>Kvinnor | 47,4 % | 33,9 % | 18,2 % | 21,7 % | 33,7 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer<br>Män | 41,6 % | 34,6 % | 33,4 % | 16,6 % | 26,3 % |
 
 <!-- sida 31 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
-
-Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-Frisknärvaro
-53,1 %     57,7 %        47,4 %     54,9 %      58,1 %
-Män
-Korttidssjukfrån
-2,5 %      2,4 %          3 %       2,7 %      2,5 %
-varo
-Korttidssjukfrån
-2 %        1,9 %         2,9 %      2,8 %      2,6 %
-varo Kvinnor
-Korttidssjukfrån
-2,8 %      2,8 %         3,1 %      2,7 %      2,5 %
-varo Män
-Långtidssjukfrå
-3,1 %      2,5 %         2,1 %      1,4 %      2,4 %
-nvaro
-Långtidssjukfrå
-3,3 %      1,4 %         1,8 %      1,7 %      2,9 %
-nvaro Kvinnor
-Långtidssjukfrå
-3 %        3,3 %         2,3 %      1,2 %      1,9 %
-nvaro Män
-Personalomsätt
-11,9 %      8 %          15,2 %      9,1 %      9,3 %
-ning
-Sjukfrånvaro
-5,3 %      3,2 %         4,8 %      4,5 %      5,5 %
-Kvinnor
-Sjukfrånvaro
-5,8 %      6 %           5,3 %      3,9 %      4,4 %
-Män
-Sjukfrånvaro
-5,6 %      5 %           5,1 %      4,1 %      4,8 %
-Totalt
-Sjukfrånvaro,
-andel av
-43,6 %     34,4 %        27,8 %     18,9 %      29,9 %
-sjukfrånvaro 60
-dagar eller mer
-Sjukfrånvaro,
-andel av
-sjukfrånvaro 60 47,4 %   33,9 %        18,2 %     21,7 %      33,7 %
-dagar eller mer
-Kvinnor
-Sjukfrånvaro,
-andel av
-sjukfrånvaro 60 41,6 %   34,6 %        33,4 %     16,6 %      26,3 %
-dagar eller mer
-Män
 
 31
 
@@ -1388,18 +1290,6 @@ Nämndens årsredovisning 2024
 
 Drift (belopp mkr)
 
-Uppföljningsnivå (belopp i                                Budgetavvik
-Bokslut 2023 Budget 2024 Bokslut 2024
-mkr)                                                       else 2024
-Drift Skattefinansierad
--227,1     -243,3    -243,1      0,2
-verksamhet
-Drift Vatten och Avlopp           -8,1      -0,7     -10,3      -9,6
-Drift Avfall och Återvinning      -5,9      -1,3      -2,7      -1,4
-Drift Kungsbacka
--1,3       0,9      -1,3      -2,2
-Bredbandsnät
-Summa                           -242,4     -244,4    -257,4     -13,0
 Kommentarer
 Drift Skattefinansierad verksamhet: Den skattefinansierade verksamheten redovisar ett utfall för 2024 på
 243,1 och en budgetavvikelse på 0,2 miljoner kronor. Årets resultat är en avvikelse på 0,08 % och så nära ett
@@ -1429,6 +1319,16 @@ budget är därmed -2,2 miljoner kronor. Främsta anledningen till budgetavvikel
 på grund av den rådande konjunkturen.
 
 32
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Uppföljningsnivå (belopp i<br>mkr) |  | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik<br>else 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Drift Skattefinansierad<br>verksamhet |  | -227,1 | -243,3 | -243,1 | 0,2 |
+| Drift Vatten och Avlopp |  | -8,1 | -0,7 | -10,3 | -9,6 |
+| Drift Avfall och Återvinning |  | -5,9 | -1,3 | -2,7 | -1,4 |
+| Drift Kungsbacka<br>Bredbandsnät |  | -1,3 | 0,9 | -1,3 | -2,2 |
+| Summa |  | -242,4 | -244,4 | -257,4 | -13,0 |
 
 <!-- sida 33 -->
 
@@ -1475,13 +1375,14 @@ Negativa budgetavvikelser:
 
 [Tabell 33-2](handlingar.tabeller/33-2.csv)
 
-| Uppföljningsnivå (belopp i tkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik else 2024 |
+| Uppföljningsnivå (belopp i tkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvik<br>else 2024 |
 | --- | --- | --- | --- | --- |
 | Verksamhetens intäkter | 110,5 | 80,5 | 94,1 | 13,6 |
 | Verksamhetens kostnader | -337,6 | -323,8 | -337,2 | -13,4 |
 | varav personalkostnader | -93,3 | -86,8 | -85,7 | 1,1 |
 | varav verksamhetskostnader | -158,0 | -126,0 | -140,1 | -14,1 |
 | varav kapitalkostnader | -86,3 | -111,0 | -111,4 | -0,4 |
+|  |  |  |  |  |
 | Summa | -227,1 | -243,3 | -243,1 | 0,2 |
 
 <!-- sida 34 -->
@@ -1512,10 +1413,6 @@ Uppföljning drift VA
 
 Balansräkning
 
-Not            År 2023          År 2024
-
-Tillgångar
-
 34
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
@@ -1538,19 +1435,12 @@ Tillgångar
 | Bokslutsdisposition |  | 8,1 | 0,7 | 10,3 |  |
 | Resultat |  | 0,0 | 0,0 | 0,0 |  |
 
-<!-- sida 35 -->
+[Tabell 34-35-3](handlingar.tabeller/34-35-3.csv)
 
-Nämnden för Teknik                               Kungsbacka kommun
-Nämndens årsredovisning 2024
-
-Not 1
-
-35
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| Materiella<br>anläggningstillgångar |  |  |  |
+|  | Not | År 2023 | År 2024 |
 | --- | --- | --- | --- |
+| Tillgångar |  |  |  |
+| Materiella<br>anläggningstillgångar |  |  |  |
 | Mark, byggnader och<br>tekniska anläggningar | 2 | 1621,9 | 1793,9 |
 | Maskiner och inventarier | 2 | 6,2 | 5,8 |
 | Pågående investeringar |  | 98,7 | 214,9 |
@@ -1577,7 +1467,16 @@ Not 1
 | Summa skulder |  | 1742,9 | 2035,4 |
 | Summa eget kapital<br>och skulder |  | 1799,4 | 2081,6 |
 
-[Tabell 35-36-2](handlingar.tabeller/35-36-2.csv)
+<!-- sida 35 -->
+
+Nämnden för Teknik                               Kungsbacka kommun
+Nämndens årsredovisning 2024
+
+Not 1
+
+35
+
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
 | Verksamhetens intäkter | År 2023 | År 2024 |
 | --- | --- | --- |
@@ -1606,8 +1505,9 @@ Fond för framtida nyinvestering År 2023               År 2024
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
 
-| Materiella anläggningstillgångar<br>VA-anläggningar | År 2023 | År 2024 |
+| Materiella anläggningstillgångar | År 2023 | År 2024 |
 | --- | --- | --- |
+| VA-anläggningar |  |  |
 | Ingående bokfört värde | 1270,3 | 1621,9 |
 | Nyanskaffning | 396,7 | 259,7 |
 | Årets avskrivning | -45,1 | -87,7 |
@@ -1640,8 +1540,6 @@ Fond för framtida nyinvestering År 2023               År 2024
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2024
-
-Ingående bokfört värde                   33,7                   45,4
 
 Not 5
 
@@ -1686,8 +1584,9 @@ Intäkterna är 8,4 miljoner kronor lägre jämfört med budget. Brukningsavgift
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Avsättningar under året | 11,7 | 0 |
+| Ingående bokfört värde | 33,7 | 45,4 |
 | --- | --- | --- |
+| Avsättningar under året | 11,7 | 0 |
 | Summa investeringsfond | 45,4 | 45,4 |
 
 [Tabell 37-2](handlingar.tabeller/37-2.csv)
@@ -2642,8 +2541,9 @@ Balansräkning
 
 [Tabell 59-60-2](handlingar.tabeller/59-60-2.csv)
 
-| Miljoner kronor<br>TILLGÅNGAR | No<br>t | År 2023 | År 2024 |
+| Miljoner kronor | No<br>t | År 2023 | År 2024 |
 | --- | --- | --- | --- |
+| TILLGÅNGAR |  |  |  |
 | Materiella anläggningstillgångar |  |  |  |
 | Mark, byggnader och tekniska<br>anläggningar | 2 | 1621,9 | 1793,9 |
 | Maskiner och inventarier | 2 | 6,2 | 5,8 |
@@ -2693,8 +2593,9 @@ Not 2
 
 [Tabell 60-61-2](handlingar.tabeller/60-61-2.csv)
 
-| Materiella anläggningstillgångar<br>(mkr)<br>VA-anläggningar | Bokslut 2023 | Bokslut 2024 |
+| Materiella anläggningstillgångar<br>(mkr) | Bokslut 2023 | Bokslut 2024 |
 | --- | --- | --- |
+| VA-anläggningar |  |  |
 | Ingående bokfört värde | 1270,3 | 1621,9 |
 | Nyanskaffning | 396,7 | 259,7 |
 | Årets avskrivning | -45,1 | -87,7 |
@@ -7269,28 +7170,30 @@ Uppföljningsrapport intern kontroll 2024
 
 [Tabell 183-1](handlingar.tabeller/183-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Brister vid Ja<br>referenstagning |
-| --- | --- |
-| Ekonomi | 2 Manuella betalningar Ja |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 3 Risk att det uppstår säkerhetsbrister samt brister Ja<br>i styrning och ledning i våra system, till följd av<br>bristande följsamhet till gällande riktlinjer. |
-|  | 4 Risk för avtalsbrott och skadeståndsanspråk Ja |
-| Verksamhet | 5 Risk för fel till följd av bristande kvalitet i inlagd Ja<br>information i kartan |
-|  | 6 Kommunövergripande risk - Risk för korruption Ja |
-|  | 7 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Brister vid<br>referenstagning | Ja |
+| Ekonomi |  | 2 | Manuella betalningar | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 3 | Risk att det uppstår säkerhetsbrister samt brister<br>i styrning och ledning i våra system, till följd av<br>bristande följsamhet till gällande riktlinjer. | Ja |
+|  |  | 4 | Risk för avtalsbrott och skadeståndsanspråk | Ja |
+| Verksamhet |  | 5 | Risk för fel till följd av bristande kvalitet i inlagd<br>information i kartan | Ja |
+|  |  | 6 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 7 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 [Tabell 183-184-2](handlingar.tabeller/183-184-2.csv)
 
-| Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk för bristande Risken omhändertas i ordinarie utvecklingsarbete på enheten HR i<br>leveranser mot samverkan med de enheter som mest är berörda. I dialog med<br>invånare till följd enhetschefer sker kontinuerliga uppföljningar med HR och dess<br>av upplevelse av leverans gentemot invånarna.<br>svårrekryterade<br>roller |
-| --- | --- |
-|  | Kommunövergrip Risken omhändertas genom att HR utbildar chefer i förvaltningen<br>ande risk: för att skapa en förståelse kring varför arbetstidsdirektivet finns och<br>Resurs- och hur det påverkar våra medarbetare. Sker i ordinarie linjearbete.<br>kompetensbrist |
-|  | Kommunövergrip Risken omhändertas av HR i ordinarie linjearbete. Information och<br>ande risk: förtydligande sker till samtliga chefer i förvaltningen. Vi följer de<br>Övertidsersättnin kommungemensamma ríktlinjerna som finns.<br>g betalas ut på fel<br>grund |
-| Ekonomi | Kommunövergrip Risken omhändertas i det vanliga linjearbetet av<br>ande risk: ekonomiavdelningen. Informationstillfälle och vid behov<br>Grundläggande kompetenshöjande insatser till cheferna i förvaltningen.<br>redovisning<br>kvalitetsbrister |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergrip Risken omhändertas i linjearbetet t ex genom tätare uppföljning av<br>ande risk: Inköp avtalsefterlevnad samt samverkansmöten med avdelningen för<br>(granskning Upphandling. Utsedd person ansvarar för att uppföljning sker.<br>begränsas till<br>belopp över<br>100.000:-) |
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Risken omhändertas av säkerhetssamordnare samt<br>ande risk: informationsansvarig i förvaltningen genom att gå igenom<br>informationssäke behörigheter i olika system. Detta arbete sker i linjen och kommer<br>rhet; skydd av utföras i samband med säkerhetsklassning av våra system.<br>information mot<br>obehörig tillgång |
-| Verksamhet | Risk för att Risken omhändertas genom Trafik och Utemiljö som kontinuerligt<br>bidrag betalas ut följer upp hanteringen av bidrag. Detta sker i ordinarie linjearbete.<br>till ej berättigade |
-|  | Risk för bristfällig Risken omhändertas genom att EC Rörnät följer upp hur det nya<br>dokumentation i arbetssättet fungerar. Detta sker i ordinarie linjearbete.<br>samband med<br>besiktning av<br>nyanslutningar<br>till vatten och<br>avlopp |
-|  | Risk för att Risken omhändertas av EC Kund och Kommunikation genom<br>felaktiga avgifter uppföljning med berörda medarbetare som ansvarar för fakturering<br>tas ut från VA- av VA-avgifterna. Detta sker i ordinarie linjearbete.<br>föreningar |
-|  | Risk att Risken omhändertas av informationshanteringsansvarig person i<br>information är förvaltningen. Genom gång av dokumenthantering, klassificering<br>svår att hitta och och struktur kommer ske i ordinarie linjearbete.<br>återsöka |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Risk för bristande<br>leveranser mot<br>invånare till följd<br>av<br>svårrekryterade<br>roller | Risken omhändertas i ordinarie utvecklingsarbete på enheten HR i<br>samverkan med de enheter som mest är berörda. I dialog med<br>enhetschefer sker kontinuerliga uppföljningar med HR och dess<br>upplevelse av leverans gentemot invånarna. |
+|  |  | Kommunövergrip<br>ande risk:<br>Resurs- och<br>kompetensbrist | Risken omhändertas genom att HR utbildar chefer i förvaltningen<br>för att skapa en förståelse kring varför arbetstidsdirektivet finns och<br>hur det påverkar våra medarbetare. Sker i ordinarie linjearbete. |
+|  |  | Kommunövergrip<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund | Risken omhändertas av HR i ordinarie linjearbete. Information och<br>förtydligande sker till samtliga chefer i förvaltningen. Vi följer de<br>kommungemensamma ríktlinjerna som finns. |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | Risken omhändertas i det vanliga linjearbetet av<br>ekonomiavdelningen. Informationstillfälle och vid behov<br>kompetenshöjande insatser till cheferna i förvaltningen. |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... |  | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) | Risken omhändertas i linjearbetet t ex genom tätare uppföljning av<br>avtalsefterlevnad samt samverkansmöten med avdelningen för<br>Upphandling. Utsedd person ansvarar för att uppföljning sker. |
+|  |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | Risken omhändertas av säkerhetssamordnare samt<br>informationsansvarig i förvaltningen genom att gå igenom<br>behörigheter i olika system. Detta arbete sker i linjen och kommer<br>utföras i samband med säkerhetsklassning av våra system. |
+| Verksamhet |  | Risk för att<br>bidrag betalas ut<br>till ej berättigade | Risken omhändertas genom Trafik och Utemiljö som kontinuerligt<br>följer upp hanteringen av bidrag. Detta sker i ordinarie linjearbete. |
+|  |  | Risk för bristfällig<br>dokumentation i<br>samband med<br>besiktning av<br>nyanslutningar<br>till vatten och<br>avlopp | Risken omhändertas genom att EC Rörnät följer upp hur det nya<br>arbetssättet fungerar. Detta sker i ordinarie linjearbete. |
+|  |  | Risk för att<br>felaktiga avgifter<br>tas ut från VA-<br>föreningar | Risken omhändertas av EC Kund och Kommunikation genom<br>uppföljning med berörda medarbetare som ansvarar för fakturering<br>av VA-avgifterna. Detta sker i ordinarie linjearbete. |
+|  |  | Risk att<br>information är<br>svår att hitta och<br>återsöka | Risken omhändertas av informationshanteringsansvarig person i<br>förvaltningen. Genom gång av dokumenthantering, klassificering<br>och struktur kommer ske i ordinarie linjearbete. |
 
 <!-- sida 184 -->
 
@@ -7435,12 +7338,6 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym % verksamhet mnkr
-Bokslut Bokslut Bokslut Bokslut
-2023    2024    2023    2024
-
 För 2024 avser siffrorna perioden 2023-11 till 2024-10.
 
 Nedan följer några exempel på hur förvaltningen tar del av kommuninvånarnas perspektiv gällande
@@ -7462,8 +7359,10 @@ Samrådsmöten erbjuds några gånger per år då tjänstemän från kommunen, H
 
 [Tabell 187-1](handlingar.tabeller/187-1.csv)
 
-| Teknik Skatt | 22 % | 20 % | 72 769 | 66 581 |
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
 | --- | --- | --- | --- | --- |
+|  | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2023 | Bokslut<br>2024 |
+| Teknik Skatt | 22 % | 20 % | 72 769 | 66 581 |
 | Avfall och Återvinning | 82 % | 80 % | 82 476 | 92 335 |
 | Kungsbacka Bredbandsnät | 2 % | 2 % | 576 | 691 |
 | Vatten och Avlopp | 6 % | 6 % | 13 478 | 14 991 |
@@ -7635,27 +7534,28 @@ Nämndens självskattning
 
 [Tabell 192-193-1](handlingar.tabeller/192-193-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
-|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Område<br>Riskanalys | Frågor Svar, Antal 2024<br>Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2024 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |  |
+|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 193 -->
 
@@ -9388,9 +9288,6 @@ regler för användandet av pyrotekniska varor i enlighet med vägledning från 
 cirkulär 23:04 och eventuella senare rättspraxis.
 
 2024-12-05
-
-UM. oo I + ) f
-/ Jönn gj) VMA Elia kJ) Uh Å Ai SN - OL VA
 
 Maria Losman, Elisabeth Sahlsten, Clas Rosander och Karin Färnlöf Clarin
 
@@ -12820,21 +12717,6 @@ Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 12 (
 <!-- sida 313 -->
 
 Tabell 1 Publikkapacitet inom Kungsbacka sportcenter och Kungsbacka teater.
-Plats                                        Antal möjliga
-besökare per
-målpunkt
-Kungsbacka teater, föreställning             500
-
-Kungsbacka sporthall A, match                1000
-Kungsbacka ishall, match                     2200
-Kungsbacka boulehall, tävling                200
-Kungsbacka badhus, tävling (maxantal i 50m-bassängdelen och 1000
-75 % beläggning i övriga delar, inkl. anställda)
-Kungsbacka arena, stora Hallen, stort evenemang (match 2500/5500
-sittande publik/konsert stående publik)
-Kungsbacka arena, lilla Hallen, match        200
-
-Kungsbacka arena, fotbollsplanen, match (en läktare/två läktare) 1000/3000
 
 Utöver byggnaderna är idrottsparken, utomhusplanerna och utemiljöerna längs
 Kungsbackaån målpunkter som attraherar besökare, framför allt under vår, sommar
@@ -12870,17 +12752,22 @@ vardag dagtid, vardag kvällstid (måndag – torsdag) och helg (fredag kväll �
 
 Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 13 (50)
 
+[Tabell 313-1](handlingar.tabeller/313-1.csv)
+
+| Plats | Antal möjliga<br>besökare per<br>målpunkt |
+| --- | --- |
+| Kungsbacka teater, föreställning | 500 |
+| Kungsbacka sporthall A, match 1000 |  |
+| Kungsbacka ishall, match | 2200 |
+| Kungsbacka boulehall, tävling 200 |  |
+| Kungsbacka badhus, tävling (maxantal i 50m-bassängdelen och<br>75 % beläggning i övriga delar, inkl. anställda) | 1000 |
+| Kungsbacka arena, stora Hallen, stort evenemang (match 2500/5500<br>sittande publik/konsert stående publik) |  |
+| Kungsbacka arena, lilla Hallen, match | 200 |
+| Kungsbacka arena, fotbollsplanen, match (en läktare/två läktare) 1000/3000 |  |
+
 <!-- sida 314 -->
 
 Tabell 2 Uppskattad mängd personer i arenabyggnaden då inga evenemang pågår, uppdelat på en vecka.
-Vardag   Vardag  Lördag/Söndag
-8–16    16–22  (även fredag kväll)
-Anställda  130       22        22
-Besökare   280      300        450
-
-Antal personer som vistas
-i Kungsbacka arena samtidigt (när 410 320       470
-inga evenemang pågår)
 
 För annexbyggnaden är både innehållet och tidpunkten för byggnation mycket
 osäker. Byggrätten som medges i detaljplanen är 8500 BTA med användningen
@@ -12912,6 +12799,14 @@ annexet i en vardagssituation.
 6 Boverkets byggregler (2011:6) – föreskrifter och allmänna råd, BBR
 
 Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 14 (50)
+
+[Tabell 314-1](handlingar.tabeller/314-1.csv)
+
+|  | Vardag<br>8–16 | Vardag<br>16–22 | Lördag/Söndag<br>(även fredag kväll) |
+| --- | --- | --- | --- |
+| Anställda | 130 | 22 | 22 |
+| Besökare | 280 | 300 | 450 |
+| Antal personer som vistas<br>i Kungsbacka arena samtidigt (när<br>inga evenemang pågår) | 410 | 320 | 470 |
 
 <!-- sida 315 -->
 
@@ -13192,30 +13087,6 @@ Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 21 (
 
 Tabell 5 Beräknad mängd bilparkering kopplat till arenabyggnaden då inga evenemang pågår, uppdelat
 på en vecka och antagande om bilandel på 57 %. (10 % för skolidrott dagtid).
-Vardag 8-16 Vardag 16- Lördag/Söndag
-22      (även fredag
-kväll)
-Kommunala ytor
-
-```osaker-tabell
-        Verksamma     6         1          1
-          Besökare   44        86          86
-
-Summa kommunala ytor 49        87          87
-```
-
-Kommersiella ytor
-
-```osaker-tabell
-         Verksamma    46        11          11
-           Besökare   69        86         172
-
-Summa kommersiella ytor 114     97         183
-```
-
-Summa total efterfrågan på
-bilparkering vid en bilandel på 160 180       270
-57 % (50 % för skolidrott)
 
 Annexets högst osäkra innehåll gör det tillkommande behovet av parkering
 svårbedömt. För att inte riskera att omöjliggöra någon verksamhet att etablera sig har
@@ -13229,16 +13100,7 @@ antaganden ger ett uppskattat behov i antal cykel- respektive bilparkeringar som
 annexbyggnaden medför, se Tabell 6.
 
 Tabell 6 Uppskattad mängd cykel- respektive bilparkering kopplat till annexbyggnaden.
-Vardag 8-16 Vardag 16-22 Lördag/Söndag
-(även fredag
 
-kväll)
-Cykelparkeringsbehov som
-110         40          60
-annexet genererar
-Bilparkeringsbehov som
-400        130         180
-annexet genererar
 2.6.2 Cykel- och mopedparkering
 Cykel- och mopedparkering finns idag i närheten av entréer till verksamheter i
 området. I nuläget finns det totalt 670 parkeringsplatser för cykel i området fördelade
@@ -13246,6 +13108,27 @@ på ytorna i Figur 9. Närmast arenatorget och vid badhuset finns totalt 132 pla
 varav 32 är väderskyddade.
 
 Kungsbacka kommun      Mobilitet- och parkering för Kungsbacka sportcenter 22 (50)
+
+[Tabell 322-1](handlingar.tabeller/322-1.csv)
+
+|  | Vardag 8-16 | Vardag 16-<br>22 | Lördag/Söndag<br>(även fredag<br>kväll) |
+| --- | --- | --- | --- |
+| Kommunala ytor |  |  |  |
+| Verksamma | 6 | 1 | 1 |
+| Besökare | 44 | 86 | 86 |
+| Summa kommunala ytor | 49 | 87 | 87 |
+| Kommersiella ytor |  |  |  |
+| Verksamma | 46 | 11 | 11 |
+| Besökare | 69 | 86 | 172 |
+| Summa kommersiella ytor | 114 | 97 | 183 |
+| Summa total efterfrågan på<br>bilparkering vid en bilandel på<br>57 % (50 % för skolidrott) | 160 | 180 | 270 |
+
+[Tabell 322-2](handlingar.tabeller/322-2.csv)
+
+|  | Vardag 8-16 | Vardag 16-22 | Lördag/Söndag<br>(även fredag<br>kväll) |
+| --- | --- | --- | --- |
+| Cykelparkeringsbehov som<br>annexet genererar | 110 | 40 | 60 |
+| Bilparkeringsbehov som<br>annexet genererar | 400 | 130 | 180 |
 
 <!-- sida 323 -->
 
@@ -16248,10 +16131,10 @@ Avfart söderut
 
 Påfart norrut
 
-Kungsgatan/
 Särö-
 Väg 158               motet                         Onsalavägen
-Påfart söderut
+700 72                              560  108
+880 8,2%    Påfart söderut          700 15,4%
 
 Avfart norrut
 
@@ -16264,8 +16147,8 @@ Påfart norrut
 
 Onsala-
 Väg 940               motet                         Inlagsleden
-
-Påfart söderut
+480 54                              650  110
+800 6,8%    Påfart söderut          1060 10,4%
 
 Avfart norrut
 
@@ -16317,101 +16200,72 @@ Kungsbacka kommun          PM Trafik arenan                     4
 
 [Tabell 422-7](handlingar.tabeller/422-7.csv)
 
-| 700 | 27 |
-| --- | --- |
-| 880 | 3,1% |
+| 700 | 27 |  |
+| --- | --- | --- |
+| 880 | 3,1% | Kungsgatan/ |
 
 [Tabell 422-8](handlingar.tabeller/422-8.csv)
-
-| 700 | 72 |
-| --- | --- |
-| 880 | 8,2% |
-
-[Tabell 422-9](handlingar.tabeller/422-9.csv)
-
-| 560 | 108 |
-| --- | --- |
-| 700 | 15,4% |
-
-[Tabell 422-10](handlingar.tabeller/422-10.csv)
 
 | 350 | 18 |
 | --- | --- |
 | 440 | 4,1% |
 
-[Tabell 422-11](handlingar.tabeller/422-11.csv)
+[Tabell 422-9](handlingar.tabeller/422-9.csv)
 
 | 250 | 0 |
 | --- | --- |
 | 310 | 0,0% |
 
-[Tabell 422-12](handlingar.tabeller/422-12.csv)
+[Tabell 422-10](handlingar.tabeller/422-10.csv)
 
 | 2390 | 36 |
 | --- | --- |
 | 3260 | 1,1% |
 
-[Tabell 422-13](handlingar.tabeller/422-13.csv)
+[Tabell 422-11](handlingar.tabeller/422-11.csv)
 
 | 1400 | 14 |
 | --- | --- |
 | 2873 | 0,5% |
 
-[Tabell 422-14](handlingar.tabeller/422-14.csv)
+[Tabell 422-12](handlingar.tabeller/422-12.csv)
 
 | 870 | 36 |
 | --- | --- |
 | 1310 | 2,7% |
 
-[Tabell 422-15](handlingar.tabeller/422-15.csv)
+[Tabell 422-13](handlingar.tabeller/422-13.csv)
 
-| 290 | 14 |
-| --- | --- |
-| 1220 | 1,1% |
+| 290 | 14 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 1220 | 1,1% |  | 970 | 130 |  |
+|  |  |  | 1480 | 8,8% |  |
 
-[Tabell 422-16](handlingar.tabeller/422-16.csv)
+[Tabell 422-14](handlingar.tabeller/422-14.csv)
 
 | 1370 | 14 |
 | --- | --- |
 | 1420 | 1,0% |
 
-[Tabell 422-17](handlingar.tabeller/422-17.csv)
-
-| 970 | 130 |
-| --- | --- |
-| 1480 | 8,8% |
-
-[Tabell 422-18](handlingar.tabeller/422-18.csv)
-
-| 480 | 54 |
-| --- | --- |
-| 800 | 6,8% |
-
-[Tabell 422-19](handlingar.tabeller/422-19.csv)
-
-| 650 | 110 |
-| --- | --- |
-| 1060 | 10,4% |
-
-[Tabell 422-20](handlingar.tabeller/422-20.csv)
+[Tabell 422-15](handlingar.tabeller/422-15.csv)
 
 | 210 | 0 |
 | --- | --- |
 | 270 | 0,0% |
 
-[Tabell 422-21](handlingar.tabeller/422-21.csv)
+[Tabell 422-16](handlingar.tabeller/422-16.csv)
 
 | 220 | 18 |
 | --- | --- |
 | 180 | 10,0% |
 
-[Tabell 422-22](handlingar.tabeller/422-22.csv)
+[Tabell 422-17](handlingar.tabeller/422-17.csv)
 
 | 1740 | 5 |
 | --- | --- |
 | 2230 | 0,2% |
 
-[Tabell 422-23](handlingar.tabeller/422-23.csv)
+[Tabell 422-18](handlingar.tabeller/422-18.csv)
 
 | 1320 | 18 |
 | --- | --- |
@@ -16457,7 +16311,8 @@ Kungsgatan/
 Särö-
 Väg 158                                                Onsalavägen
 motet
-Påfart söderut
+15700 240                              12500 1090
+19800 1,2%   Påfart söderut            15700 6,9%
 Avfart norrut
 
 Avfart söderut
@@ -16465,9 +16320,11 @@ Påfart norrut
 
 Onsala-
 Väg 940                  motet                         Inlagsleden
-
-Påfart söderut
-
+15700 120                              14800 1090
+19800 0,6%   Påfart söderut            18600 5,9%
+3200 485
+4000 12,1% 3300 485
+4200 11,5%
 Avfart norrut
 
 E6/E20
@@ -16503,71 +16360,35 @@ Kungsbacka kommun          PM Trafik arenan                     6
 
 [Tabell 424-5](handlingar.tabeller/424-5.csv)
 
-| 15700 | 240 |
-| --- | --- |
-| 19800 | 1,2% |
-
-[Tabell 424-6](handlingar.tabeller/424-6.csv)
-
-| 12500 | 1090 |
-| --- | --- |
-| 15700 | 6,9% |
-
-[Tabell 424-7](handlingar.tabeller/424-7.csv)
-
 | 2650 | 0 |
 | --- | --- |
 | 3300 | 0,0% |
 
-[Tabell 424-8](handlingar.tabeller/424-8.csv)
+[Tabell 424-6](handlingar.tabeller/424-6.csv)
 
 | 1900 | 0 |
 | --- | --- |
 | 2400 | 0,0% |
 
-[Tabell 424-9](handlingar.tabeller/424-9.csv)
+[Tabell 424-7](handlingar.tabeller/424-7.csv)
 
 | 39400 | 0 |
 | --- | --- |
 | 49600 | 0,0% |
 
-[Tabell 424-10](handlingar.tabeller/424-10.csv)
+[Tabell 424-8](handlingar.tabeller/424-8.csv)
 
 | 5100 | 0 |
 | --- | --- |
 | 6400 | 0,0% |
 
-[Tabell 424-11](handlingar.tabeller/424-11.csv)
+[Tabell 424-9](handlingar.tabeller/424-9.csv)
 
-| 4000 | 0 |
-| --- | --- |
-| 5000 | 0,0% |
+| 4000 | 0 |  |
+| --- | --- | --- |
+| 5000 | 0,0% |  |
 
-[Tabell 424-12](handlingar.tabeller/424-12.csv)
-
-| 15700 | 120 |
-| --- | --- |
-| 19800 | 0,6% |
-
-[Tabell 424-13](handlingar.tabeller/424-13.csv)
-
-| 14800 | 1090 |
-| --- | --- |
-| 18600 | 5,9% |
-
-[Tabell 424-14](handlingar.tabeller/424-14.csv)
-
-| 3200 | 485 |
-| --- | --- |
-| 4000 | 12,1% |
-
-[Tabell 424-15](handlingar.tabeller/424-15.csv)
-
-| 3300 | 485 |
-| --- | --- |
-| 4200 | 11,5% |
-
-[Tabell 424-16](handlingar.tabeller/424-16.csv)
+[Tabell 424-10](handlingar.tabeller/424-10.csv)
 
 | 36700 | 970 |
 | --- | --- |
@@ -16642,10 +16463,15 @@ sportcenter.docx                                     2020-05-20 | 2(27)
 
 [Tabell 427-1](handlingar.tabeller/427-1.csv)
 
-| 1.1 | 2020-05-20 | Reviderat avstånd mellan<br>Västkustbanan och arenan | Johan<br>Hultman.<br>Robert Kallin | Herman<br>Heijmans | Johan Hultman |
+| 1.1 | 2020-05-20 | Reviderat avstånd mellan | Johan | Herman | Johan Hultman |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2020-03-31 |  | Johan<br>Hultman,<br>Robert Kallin | Herman<br>Heijmans | Johan Hultman |
-| Interngra<br>nskning | 2020-03-30 |  | Johan Hultman |  |  |
+|  |  | Västkustbanan och arenan | Hultman. | Heijmans |  |
+|  |  |  | Robert Kallin |  |  |
+| 1.0 | 2020-03-31 |  | Johan | Herman | Johan Hultman |
+|  |  |  | Hultman, | Heijmans |  |
+|  |  |  | Robert Kallin |  |  |
+| Interngra | 2020-03-30 |  | Johan Hultman |  |  |
+| nskning |  |  |  |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 428 -->

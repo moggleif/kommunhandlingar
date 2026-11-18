@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4c1468c19cc5e180cdc4cc1/17733999096
 sha256: 1bd0af25a4c2e93e5aa687bb1c8dd3ee15f2b63a397088370e4fe59a2355021f
 bytes: 3735627
 sidor: 38
-hamtad: 2026-11-08T11:34:05+00:00
-konverterad: 2026-11-08T11:34:31+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:57:08+00:00
+konverterad: 2026-11-18T01:57:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -612,7 +612,7 @@ TE, Planeringsavd 2000890vecevcn eCcoGCEEteFöDOoSGÅLDODG
 VA rsäsdarevernnss HOBSERERESSLSTS snor
 TE ososssererersrrsenrsreresir ens nnr
 
-ALI TTTKE KT TTT ET TT TTT TPEPEEEESEe
+MALT TTTKE KT TTT ET TT TSPTEPEPEEEEEEe
 
 = Expedierat / Bestyrkt
 /) Vf Obli32p
@@ -766,10 +766,9 @@ Kommunstyrelsen 2005-05-25, 8 124.
 
 | Justerare
 
-I Utdragsbestyrkande
+| Utdragsbestyrkande
 
 | . | i |
-AN GÅ | |
 
 k
 
@@ -828,8 +827,6 @@ Je
 US
 Ne
 
-sf | Pa
-é LL | Å y |
 I i i
 
 <!-- sida 22 -->
@@ -940,8 +937,9 @@ Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.1.9 | Riktlinjer för personuppgifts-behandling,<br>GDPR artikel 28 | Ingå personuppgiftsbiträdesavtal för kommungemensamma<br>digitala tjänster och system. | Bitr. kdir | 1 beslut om PUB-avtal för Svea-<br>projektets etapp 3, daterat 2026-02-<br>23 - TE-2026-00162. |
 | 2.1.17 | 6 kap 15 § KL<br>Gemensamt reglemente för<br>kommunstyrelsen och övriga nämnder i<br>Kungsbacka kommun | Utse ombud med rätt att föra talan i alla mål och ärenden som<br>enligt lag eller annan författning ankommer på nämnden eller på<br>annat sätt faller inom nämndens ansvarsområde. | Fc | Utsett ombud med rätt att föra talan i<br>ärende TE-2026-00143 – Begäran<br>om allmän handling –<br>Nödvattenplan, datum 2026-02-25. |
 
@@ -953,8 +951,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.2.9 |  | Besluta om avslag eller utbetalning av skadeståndskrav,<br>ersättningskrav, självrisker och regresskrav upp till tio<br>prisbasbelopp<br>Upp till tio prisbasbelopp<br>Upp till fem prisbasbelopp | Julia Sjöblom<br>Administratör<br>Kund &<br>kommunikation<br>Fc<br>Fc, Vc | 2026-02-04: 1 beslut om<br>avslag i ärende TE-2025-<br>00375 angående trasig<br>duschdörr vid grävarbete.<br>2026-02-20: 1 beslut om<br>avslag i ärende 2026-00101<br>angående inkomstbortfall på<br>grund av vattenavstängning. |
 
 <!-- sida 28 -->
@@ -965,8 +964,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 |  |  | Anställa |  |  |
 | 2.3.3 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Fc | - VA-ingenjör anställd 2026-02-01 av<br>Mathias Pedersen<br>- VA-ingenjör anställd 2026-02-01 av<br>Mathias Pedersen |
 
@@ -978,8 +978,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 2st beslut och datum för beslut<br>1384 2026-00057 Kungsbacka torg<br>1384 2026-00061 Sunnevägen |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 7st beslut och datum för beslut<br>1384 2026-00051 Hällingsjövägen<br>1384 2026-00052 Tölö Tvärled<br>1384 2026-00053 Söderåleden<br>1384 2026-00056 Södra Torggatan<br>1384 2026-00058 Kungsbacka<br>1384 2026-00059 Kungsbacka<br>1384 2026-00060 Kungsbacka kommun |
 
@@ -1077,8 +1078,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260226,1 st |
 | 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt uppehåll i sophämtning | Fc<br>Anette<br>Englund,<br>och Kund &<br>kommunikation | 260203, 3 st<br>260205,1 st<br>260218, 2 st<br>260219, 1 st<br>260223, 1 st<br>260227, 2 st |
 

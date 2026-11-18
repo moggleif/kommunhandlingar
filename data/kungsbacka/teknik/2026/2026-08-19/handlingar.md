@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6f59eb1b19fd5a1d0ccb78d9/1786685887
 sha256: eebeb28919851e424410e6770b8306cac831ed9deb7ee3f7db3b37e9aea502a7
 bytes: 22033956
 sidor: 367
-hamtad: 2026-11-08T11:36:04+00:00
-konverterad: 2026-11-08T11:37:23+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T01:58:49+00:00
+konverterad: 2026-11-18T01:59:53+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7567,8 +7567,11 @@ Kungsbacka kommun                Avfallstaxa                   29 (40)
 
 [Tabell 199-1](handlingar.tabeller/199-1.csv)
 
-| Material | Maxtaxa kronor/ton<br>(hämtning<br>i container) | Maxtaxa kronor/<br>kubikmeter<br>(hämtning i<br>storsäck) |
+| Material | Maxtaxa kronor/ton<br>(hämtning | Maxtaxa kronor/<br>kubikmeter |
 | --- | --- | --- |
+|  |  | (hämtning i |
+|  | i container) |  |
+|  |  | storsäck) |
 | Trä (ej impregnerat) | 1 150 | 576 |
 | Mineral (som består av sten, tegel, betong,<br>klinker eller keramik) | 2 961 | 2 964 |
 | Metall | 359 | 180 |
@@ -8703,6 +8706,26 @@ presenterade för nämnden 13/5–2026.
 Alla nämnder
 Nämnd              Årsavgifter 25    Förändring Årsavgifter 27
 
+2 227 908 kr          - kr   2 227 908 kr
+Förskola & Grundskola
+
+121 704 kr           - kr     121 704 kr
+Gymnasie & Arbetsmarknad
+840 444 kr           - kr     840 444 kr
+
+Individ & Familjeomsorg
+58 860 kr          - kr      58 860 kr
+Kommunledningskontoret
+
+696 240 kr           - kr     696 240 kr
+Kultur & Fritid
+
+Service               1 864 416 kr     63 360 kr   1 927 776 kr
+
+Teknik (fr a VA)      2 329 320 kr    652 800 kr   2 982 120 kr
+632 628 kr           - kr     632 628 kr
+Vård & Omsorg
+
 Summa årsavgifter     8 771 520 kr    716 160 kr   9 487 680 kr
 
 Det förslag som presenterades 13/5–2026 var ett förslag på att justera produktutbud för kommunal
@@ -8714,18 +8737,6 @@ Mbit motsvarar tjänsten för 1Gbit/s och hanteras därför som denna.
 förslag;
 
 1\. Alternativ 1; En stegvis förändring från 2027 med fullständig justering 2028
-
-[Tabell 226-1](handlingar.tabeller/226-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | - kr | 2 227 908 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | - kr | 121 704 kr |
-| Individ & Familjeomsorg | 840 444 kr | - kr | 840 444 kr |
-| Kommunledningskontoret | 58 860 kr | - kr | 58 860 kr |
-| Kultur & Fritid | 696 240 kr | - kr | 696 240 kr |
-| Service | 1 864 416 kr | 63 360 kr | 1 927 776 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 652 800 kr | 2 982 120 kr |
-| Vård & Omsorg | 632 628 kr | - kr | 632 628 kr |
 
 <!-- sida 227 -->
 
@@ -8745,6 +8756,24 @@ Alla nämnder
 
 Nämnd                   Årsavgifter 25    Förändring      Årsavgifter 27
 
+2 227 908 kr     378 480 kr       2 606 388 kr
+Förskola & Grundskola
+121 704 kr       19 644 kr        141 348 kr
+Gymnasie & Arbetsmarknad
+
+840 444 kr       169 050 kr       1 009 494 kr
+Individ & Familjeomsorg
+696 240 kr       133 032 kr       829 272 kr
+Kultur & Fritid
+1 864 416 kr     718 206 kr       2 582 622 kr
+Service
+2 329 320 kr    1 155 228 kr      3 484 548 kr
+Teknik (fr a VA)
+Vård & Omsorg             632 628 kr       89 436 kr        722 064 kr
+
+58 860 kr       15 714 kr         74 574 kr
+Kommunledningskontoret
+
 8 771 520 kr     2 678 790 kr     11 450 310 kr
 Summa årsavgifter
 
@@ -8754,18 +8783,6 @@ av förändringar i produkter och priser.
 
 •  Förändringen består både av de nya produkter som presenterats för nollalternativet och
 justerade priser
-
-[Tabell 227-1](handlingar.tabeller/227-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | 378 480 kr | 2 606 388 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | 19 644 kr | 141 348 kr |
-| Individ & Familjeomsorg | 840 444 kr | 169 050 kr | 1 009 494 kr |
-| Kultur & Fritid | 696 240 kr | 133 032 kr | 829 272 kr |
-| Service | 1 864 416 kr | 718 206 kr | 2 582 622 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 1 155 228 kr | 3 484 548 kr |
-| Vård & Omsorg | 632 628 kr | 89 436 kr | 722 064 kr |
-| Kommunledningskontoret | 58 860 kr | 15 714 kr | 74 574 kr |
 
 <!-- sida 228 -->
 
@@ -8783,6 +8800,24 @@ Alla nämnder
 Årsavgifter 25    Förändring       Årsavgifter 27
 Nämnd
 
+2 227 908 kr      756 960 kr         2 984 868 kr
+Förskola & Grundskola
+121 704 kr        39 288 kr           160 992 kr
+Gymnasie & Arbetsmarknad
+840 444 kr        338 100 kr         1 178 544 kr
+Individ & Familjeomsorg
+696 240 kr        266 064 kr          962 304 kr
+Kultur & Fritid
+1 864 416 kr     1 436 412 kr        3 300 828 kr
+Service
+
+2 329 320 kr     2 310 456 kr        4 639 776 kr
+Teknik (fr a VA)
+632 628 kr        178 872 kr          811 500 kr
+Vård & Omsorg
+
+58 860 kr        31 428 kr           90 288 kr
+Kommunledningskontoret
 8 771 520 kr     5 357 580 kr        14 129 100 kr
 Summa årsavgifter
 
@@ -8792,18 +8827,6 @@ av förändringar i produkter och priser.
 
 •  Förändringen består av nya produkter och justerade priser
 •  En full förändring i pris och produktutbud till 2027
-
-[Tabell 228-1](handlingar.tabeller/228-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | 756 960 kr | 2 984 868 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | 39 288 kr | 160 992 kr |
-| Individ & Familjeomsorg | 840 444 kr | 338 100 kr | 1 178 544 kr |
-| Kultur & Fritid | 696 240 kr | 266 064 kr | 962 304 kr |
-| Service | 1 864 416 kr | 1 436 412 kr | 3 300 828 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 2 310 456 kr | 4 639 776 kr |
-| Vård & Omsorg | 632 628 kr | 178 872 kr | 811 500 kr |
-| Kommunledningskontoret | 58 860 kr | 31 428 kr | 90 288 kr |
 
 <!-- sida 229 -->
 
@@ -11083,10 +11106,17 @@ vattenförbrukningen per person att sjunka men det är inte möjligt att prognos
 
 [Tabell 287-1](handlingar.tabeller/287-1.csv)
 
-|  | Västra Götalands läns<br>vattenbehov år 2100<br>(m3/dygn) | Västra Götalands läns<br>vattenbehov år 2100 vid<br>högsäsong (m3/dygn) |
+|  |  |  |
 | --- | --- | --- |
+|  | Västra Götalands läns | Västra Götalands läns |
+|  | vattenbehov år 2100 | vattenbehov år 2100 vid |
+|  | (m3/dygn) | högsäsong (m3/dygn) |
+|  |  |  |
 | Hushållens vattenbehov (130 L/p/d) | 284 000 | 325 000 |
-| Totalt dricksvattenbehov i allmän<br>vattenförsörjning (180 L/p/d) | 393 000 | 451 000 |
+|  |  |  |
+| Totalt dricksvattenbehov i allmän<br>vattenförsörjning (180 L/p/d) | 393 000 |  |
+|  |  | 451 000 |
+|  |  |  |
 
 <!-- sida 288 -->
 
@@ -11238,32 +11268,53 @@ Nationellt viktiga dricksvattenresurser
 1\. Göta Älv    2. Vänern       3. Vättern
 
 Regionalt viktiga dricksvattenresurser – grundvatten
-13\. Fänneslunda- 22. Magasinsgrupp Rösjön
+
 4\. Algutstorp-Horla                                 31. Ödskölts moar
-Rångedala       Hornborga Valle Timmersdala
-5\. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
-6\. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
-7\. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
+5\. Backen                                           32. Örbydeltat
 
-8\. Bullarebygden 17. Hökensås  26. Svenljunga
-9\. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
+6\. Blidsberg-Ulricehamn                             33. Östadsdeltat
+7\. Nolåns dalgång                                   34. Östra Frölunda
 
-10\. Nittorp    19. Kolarp      28. Tranemo
+8\. Bullarebygden
+9\. Dalsjöfors
 
-11\. Diseröd Norra 20. Töreboda 29. Ambjörnarp
-12\. Diseröd Södra 21. Hova     30. Sjötofta
+10\. Nittorp
+
+11\. Diseröd Norra
+12\. Diseröd Södra
 
 Regionalt viktiga dricksvattenresurser – ytvatten
 
-35\. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
-36\. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
+35\. Kärnsjön                                        50. Öresjö Viskan
+36\. Lelång                                          51. Östra Nedsjön
 
-37\. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
-38\. Mjörn      43. Södra Bullaresjön 48. Ömmern
+37\. Lygnern                                         52. Östra Öresjön
+38\. Mjörn
 
 39\. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
 
 53
+
+[Tabell 291-1](handlingar.tabeller/291-1.csv)
+
+| 13. Fänneslunda-<br>Rångedala | 22. Magasinsgrupp Rösjön<br>Hornborga Valle Timmersdala |
+| --- | --- |
+| 14. Gråbodeltat | 23. Rådaåsen |
+| 15. Göjeholm | 24. Sandhem-Hömb norr |
+| 16. Hagelberg | 25. Sandhem-Hömb söder |
+| 17. Hökensås | 26. Svenljunga |
+| 18. Kinnarumma-Fritsla | 27. Tibro |
+| 19. Kolarp | 28. Tranemo |
+| 20. Töreboda | 29. Ambjörnarp |
+| 21. Hova | 30. Sjötofta |
+
+[Tabell 291-2](handlingar.tabeller/291-2.csv)
+
+| 40. Rådasjön | 45. Västra Nedsjön |
+| --- | --- |
+| 41. Stora Hällungen | 46. Åsunden |
+| 42. Säven | 47. Yttre Åsunden |
+| 43. Södra Bullaresjön | 48. Ömmern |
 
 <!-- sida 292 -->
 
@@ -12893,8 +12944,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 
 [Tabell 355-1](handlingar.tabeller/355-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.1.25 |  | Yttranden i andra ärenden | Fc<br>Vc | 1 beslut om yttrande daterat 2026-06-<br>29, om Begravningsplats för<br>sällskapsdjur, KS-2022-00505 -<br>TE-2026-00540. |
 | 2.1.29 |  | Söka bidrag å nämndens vägnar | Fc<br>Vc<br>Ec | 1 beslut den 15 juni om en ansökan<br>om EU-bidrag för belysning på och i<br>anslutning till lekplatser. European<br>Urban initiative – EUI, TE-2026-00523<br>EUI04-965 |
 
@@ -12906,8 +12958,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 [Tabell 356-1](handlingar.tabeller/356-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.4.11 | 2 § lagen om flyttning av fordon i vissa fall<br>2 § förordningen om flyttning av fordon i<br>vissa fall | Beslut om flyttning av fordon | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Arbetsledare<br>Trafik-<br>samordnare<br>Trafik-<br>övervakare | 1 beslut den 16 juni.<br>1 beslut den 7 juli.<br>2 beslut den 4 augusti.<br>TE-2026-00032 & TE-2026-00007 |
 | 2.4.13 | 5 § lag (1976:206) om felparkeringsavgift<br>och1 § lag (1984:318) om kontrollavgift vid<br>olovlig parkering | Beslut om felparkeringsavgift samt kontrollavgift vid olovlig<br>parkering | Fc<br>Trafik-<br>övervakare | Totalt antal beslut under juni<br>månad;<br>- 912 Kontrollavgifter<br>- 547 parkeringsanmärkningar |
 

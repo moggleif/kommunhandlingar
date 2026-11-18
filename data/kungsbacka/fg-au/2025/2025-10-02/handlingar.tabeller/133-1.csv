@@ -1,6 +1,12 @@
-FFU,,,
+FFU,,,,,Relation,,,
 Antal (st),"Summa
 (kvm)","Area per
 elev","Luft för antal
-personer (st)"
-,,,
+personer (st)",,"Ant
+al
+(st)","Summa
+(kvm)","Area per
+elev","Luft för
+antal
+personer"
+,,,,,,,,(st)

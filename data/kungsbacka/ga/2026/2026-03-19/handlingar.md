@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5deddcf719cc8cfc836d6c17/1773655708
 sha256: baebddecf9f30aa070e8536408f0940cb2210245e5c604224fa83a7b43513cb0
 bytes: 11083508
 sidor: 344
-hamtad: 2026-11-08T07:57:31+00:00
-konverterad: 2026-11-08T07:59:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:49:59+00:00
+konverterad: 2026-11-17T22:51:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -12871,11 +12871,8 @@ påverkas av gruppstorlek och enskilda löner, eftersom antalet män i dessa bef
 Sammantaget visar analysen inga tecken på systematiskt osakliga löneskillnader mellan kvinnor
 och män med lika arbete. Vissa yrken uppvisar dock återkommande skillnader som bör analyseras
 vidare för att säkerställa att de är sakligt motiverade.
-Befattning            Antal kvinnor Antal män Kvinnors medianlön i förhållande
-till männens medianlön
 
 ```osaker-tabell
-Systemförvaltare      10         6       88%
 Utvecklare            13         3       91%
 Utvecklare IT         6          3       92%
 
@@ -12909,6 +12906,12 @@ Bild: Befattningar med minst två män respektive två kvinnor i befattningen oc
 månadsanställda är mer än 5 % mellan kvinnor och män. Källa BI, 251103.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   11
+
+[Tabell 303-1](handlingar.tabeller/303-1.csv)
+
+| Befattning | Antal kvinnor | Antal män | Kvinnors medianlön i förhållande<br>till männens medianlön |
+| --- | --- | --- | --- |
+| Systemförvaltare | 10 | 6 | 88% |
 
 <!-- sida 304 -->
 
@@ -13199,7 +13202,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   14
 
 [Tabell 306-1](handlingar.tabeller/306-1.csv)
 
-| BAS Antal kvinnor Kvinnors Antal män Männens<br>medianlön medianlön |  |  |  |  |
+| BAS | Antal kvinnor | Kvinnors<br>medianlön | Antal män | Männens<br>medianlön |
 | --- | --- | --- | --- | --- |
 | A | 180 | 27 000 | 88 | 26 500 |
 | B | 517 | 29 000 | 140 | 28 600 |
@@ -13347,9 +13350,6 @@ stora och bärande verksamheter i kommunen.
 Skillnaderna i den hierarkiska lönejämförelsen indikerar en möjlig strukturell undervärdering av
 flera kvinnodominerade yrken.
 
-Antal   Medianlön              Antal   Medianlön Differens
-BAS Befattning    medarbetare kvinna BAS Befattning medarbetare man medianlön
-C   Barnskötare   273     30 400 B   IT-tekniker 6       33 555 91
 C   Dagbarnvårdare 6      29 700 B   IT-tekniker 6       33 555 89
 C   Elevassistent 149     31 190 B   IT-tekniker 6       33 555 93
 C   Personlig assistent 89 30 900 B  IT-tekniker 6       33 555 92
@@ -13382,6 +13382,12 @@ F   Arbetsterapeut 29     40 000 E   Arbetsledare 5      44 100 91
 F   Arkivarie     5       39 000 E   Arbetsledare 5      44 100 88
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   17
+
+[Tabell 309-1](handlingar.tabeller/309-1.csv)
+
+| BAS | Befattning | Antal<br>medarbetare | Medianlön<br>kvinna | BAS | Befattning | Antal<br>medarbetare | Medianlön<br>man | Differens<br>medianlön |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C | Barnskötare | 273 | 30 400 | B | IT-tekniker | 6 | 33 555 | 91 |
 
 <!-- sida 310 -->
 
@@ -13444,9 +13450,8 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   18
 
 medianlön i tre. År 2025 kvarstår vissa skillnader, men de är flera BAS-intervaller som ligger nära
 nollpunkten, vilket tyder på en mer jämställd lönebild än tidigare år.
-2020     2021     2022     2023      2024     2025
 
-A  1 225 kr 1 301 kr 800 kr   800 kr    550 kr   500 kr
+A
 B  -1 200 kr -545 kr -250 kr  600 kr    297 kr   400 kr
 C  -425 kr  500 kr   626 kr   200 kr    201 kr   11 kr
 
@@ -13495,6 +13500,12 @@ personalrörlighet, snarare än direkta osakliga skillnader.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   19
 
+[Tabell 311-1](handlingar.tabeller/311-1.csv)
+
+| 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr | 500 kr |
+
 <!-- sida 312 -->
 
 9.2 Målsättning
@@ -13519,7 +13530,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2025   20
 
 [Tabell 312-313-1](handlingar.tabeller/312-313-1.csv)
 
-| Nr Åtgärd Tidpunkt Ansvar Kommentar/Uppföljning |  |  |  |  |
+| Nr | Åtgärd | Tidpunkt | Ansvar | Kommentar/Uppföljning |
 | --- | --- | --- | --- | --- |
 | 1 | Genomföra regelbundna<br>löneanalyser med fokus på<br>att identifiera och åtgärda<br>osakliga löneskillnader. | Inför<br>löneöversyn | HR-funktion<br>och<br>förvaltningar | Resultatet redovisas i<br>nästa års<br>lönekartläggning. |
 | 2 | Om osakliga löneskillnader<br>identifieras ska riktade<br>löneinsatser ske. | I samband med<br>löneöversyn | HR-funktion<br>och chefer | Åtgärder dokumenteras i<br>uppföljningsrapport. |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4ebbd38019ddcb7e72096869/1778220504
 sha256: 1a82a2fed393f627a2d0c1b8701a7c6e50ddbdf74eedad991d1ed2d83ff8ea71
 bytes: 3609589
 sidor: 85
-hamtad: 2026-11-08T11:35:03+00:00
-konverterad: 2026-11-08T11:35:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T01:57:54+00:00
+konverterad: 2026-11-18T01:58:06+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2483,9 +2483,6 @@ Kung sbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 2.1 Allmänt
 
-Nr    Lagrum/stöd              Delegeringens omfattning             Ansvarig Taget beslut och datum för
-delegat  beslutet
-
 2.1.17 6 kap 15 § KL           Utse ombud med rätt att föra talan i alla mål och ärenden som Fc Utsett ombud med rätt att föra talan i
 enligt lag eller annan författning ankommer på nämnden eller på mål gällande PTS (Post- och
 Gemensamt reglemente för
@@ -2496,12 +2493,16 @@ Kungsbacka kommun
 
 Kungsbacka kommun | 0300-83 40 00 | (e-post borttagen) | www.kungsbacka.se
 
+[Tabell 72-1](handlingar.tabeller/72-1.csv)
+
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
+| --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
+
 <!-- sida 73 -->
 
 2.2 Ekonomi och inköp
 
-Nr    Lagrum/stöd              Delegeringens omfattning             Ansvarig Taget beslut och datum för
-delegat  beslutet
 2.2.9                          Besluta om avslag eller utbetalning av skadeståndskrav, Julia Sjöblom 2026-04-15: ett beslut om
 ersättningskrav, självrisker och regresskrav upp till tio Administratör utbetalning av ersättning i
 prisbasbelopp                       Kund &   ärende 2026-00270,
@@ -2516,6 +2517,12 @@ installation av fiber.
 
 K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6 (11)
 
+[Tabell 73-1](handlingar.tabeller/73-1.csv)
+
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
+| --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
+
 <!-- sida 74 -->
 
 2.3 Personal
@@ -2524,8 +2531,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 |  |  | Anställa |  |  |
 | 2.3.3 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Fc | - Trafikövervakare, anställd 2026-04-<br>27 av Sara Andersson<br>- Drifttekniker, anställd 2026-04-20<br>av Nina Fjellskålnes<br>- Parkarbetare, anställd 2026-04-13<br>av Katarina Björklund<br>- Ekonom, anställd 2026-04-01 av<br>Christer Bergman<br>- Nätverkstekniker, anställd 2026-04-<br>01 av Per Fjelner<br>- Projektledare, anställd 2026-04-01<br>av Jannike Berg |
 
@@ -2537,8 +2545,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8
 
 [Tabell 75-1](handlingar.tabeller/75-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 6st beslut och datum för beslut<br>1384 2026-00070 Kungsbacka torg<br>1384 2026-00071 Storgatan<br>1384 2026-00072 Södra Torggatan<br>1384 2026-00088 Hamntorget<br>1384 2026-00089 Skolgatan<br>1384 2026-00094 Sunnevägen |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör | 0st beslut och datum för beslut. |
 
@@ -2601,8 +2610,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 78-1](handlingar.tabeller/78-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260408, 2 st<br>260413, 1 st<br>260427, 1 st |
 
 <!-- sida 79 -->

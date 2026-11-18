@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb6094451bb/171281514625
 sha256: 8b160f62a894d21d7778e24a5d3fe3fa54f72730b8ae4bd794c5554291f5f47a
 bytes: 11698784
 sidor: 314
-hamtad: 2026-11-08T07:35:59+00:00
-konverterad: 2026-11-08T07:38:42+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:32:37+00:00
+konverterad: 2026-11-17T22:34:45+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -7582,16 +7582,17 @@ kommunen)
 
 [Tabell 232-1](handlingar.tabeller/232-1.csv)
 
-| Kategorier<br>Personal | Risker<br>Kommunövergripande risk: Processen för avslut av anställning säkerställer<br>inte att alla behörigheter till system, lokaler och andra tillgångar avslutas.<br>(Kungsbacka kommun) |
-| --- | --- |
-| Ekonomi | Kommunövergripande risk: Redovisning av representation (Kungsbacka<br>kommun) |
-|  | Kontanthantering (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Debiteringsrutiner (Kungsbacka kommun) |
-| Informationssäker<br>het,<br>administration,<br>inköp... | Kommunövergripande risk: Bristande styrning av förändring av<br>verksamhetsprocesser och system (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Inköp (granskning begränsas till belopp över<br>100.000:-) (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Bristande hantering av delegationsbeslut<br>(Kungsbacka kommun) |
-|  | Kommunövergripande risk: informationssäkerhet; skydd av information<br>mot obehörig tillgång (Kungsbacka kommun) |
-| Verksamhet | Kommunövergripande risk - Risk för korruption (Kungsbacka kommun) |
+| Kategorier |  | Risker |
+| --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Processen för avslut av anställning säkerställer<br>inte att alla behörigheter till system, lokaler och andra tillgångar avslutas.<br>(Kungsbacka kommun) |
+| Ekonomi |  | Kommunövergripande risk: Redovisning av representation (Kungsbacka<br>kommun) |
+|  |  | Kontanthantering (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Debiteringsrutiner (Kungsbacka kommun) |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | Kommunövergripande risk: Bristande styrning av förändring av<br>verksamhetsprocesser och system (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Inköp (granskning begränsas till belopp över<br>100.000:-) (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Bristande hantering av delegationsbeslut<br>(Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: informationssäkerhet; skydd av information<br>mot obehörig tillgång (Kungsbacka kommun) |
+| Verksamhet |  | Kommunövergripande risk - Risk för korruption (Kungsbacka kommun) |
 
 <!-- sida 233 -->
 
@@ -7933,9 +7934,10 @@ Nämndernas självskattning
 
 [Tabell 240-1](handlingar.tabeller/240-1.csv)
 
-| Område<br>Uppdrag och<br>mål | Frågor Svar, Antal 2023<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
+| Område | Frågor | Svar, Antal 2023 |
+| --- | --- | --- |
+| Uppdrag och<br>mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
 
 <!-- sida 241 -->
 
@@ -7946,25 +7948,26 @@ Uppföljningsrapport intern kontroll 2023
 
 [Tabell 241-245-1](handlingar.tabeller/241-245-1.csv)
 
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-| --- | --- |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
-|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-| Område | Frågor Svar, Antal 2023<br>Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att motverka<br>oegentligheter (bland annat mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktivite<br>ter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-| Område | Frågor Svar, Antal 2023<br>Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Område<br>Information/ko<br>mmunikation | Frågor Svar, Antal 2023<br>Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2023 |
+| --- | --- | --- |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |  |
+|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bland annat mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktivite<br>ter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/ko<br>mmunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 242 -->
 
@@ -9614,7 +9617,6 @@ Signering av justerare
 
 på varje sida
 2
-HH
 
 <!-- sida 275 -->
 
@@ -9812,8 +9814,6 @@ Sida 19
 Signering av justerare
 på varje sida
 
-S tt
-
 <!-- sida 280 -->
 
 BILAGA NOT 2
@@ -9858,8 +9858,6 @@ på varje sida
 
 Sida 20
 
-dt
-
 <!-- sida 281 -->
 
 NOT 8-Omsättningstillgångar -Kassa och bank Eve 206
@@ -9885,8 +9883,6 @@ Sida 21
 
 Signering av justerare
 på varje sida
-
-Je
 
 <!-- sida 282 -->
 
@@ -10925,7 +10921,7 @@ ekonomi och verksamhet.
 | TE |  |  |  |  |  |  |  |  |  |
 | VO |  |  |  |  |  |  |  |  |  |
 | VN |  |  |  |  |  |  |  |  |  |
-| R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |  |
+|  | R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |
 
 <!-- sida 306 -->
 

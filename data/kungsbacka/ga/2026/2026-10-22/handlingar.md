@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.664df97b1a13049acff3d770/1792007115
 sha256: e4f7e9ddb5a90ec38b6e0625ed8b2517af741d91a3add8b2c647eb9446295f7a
 bytes: 7088801
 sidor: 292
-hamtad: 2026-11-08T08:05:15+00:00
-konverterad: 2026-11-08T08:06:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:56:04+00:00
+konverterad: 2026-11-17T22:56:43+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [10, 12, 15, 18, 22, 55, 279, 286]
 tolkade: []
@@ -2153,17 +2153,17 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. | 1 Kommunövergripande risk: 3. Vanligt 3. Kännbar Ja<br>Bristande följsamhet till (uppfattas som<br>inköpsprocessen; besvärande för<br>direktupphandling respektive berörda<br>avtalsuppföljning intressenter och<br>kommunen) |
-|  | 2 Kommunövergripande risk 2. Mindre 4. Allvarlig/stor Ja<br>- Risk för korruption och vanligt inverkan (så stor<br>välfärdsbrottslighet att den inte får<br>inträffa) |
-|  | 3 Kommunövergripande risk: 2. Mindre 3. Kännbar Ja<br>Förvaltningarnas arbete med att vanligt (uppfattas som<br>följa och utveckla det besvärande för<br>systematiska beredskapsarbetet berörda<br>intressenter och<br>kommunen) |
-|  | 4 Kommunövergripande risk: 2. Mindre 3. Kännbar Ja<br>Risk för bristande efterlevnad till vanligt (uppfattas som<br>NIS2-direktivet och gällande besvärande för<br>rutiner och regelverk berörda<br>intressenter och<br>kommunen) |
-| Verksamhet | 5 Personer med skyddad 2. Mindre 4. Allvarlig/stor Ja<br>identitet vanligt inverkan (så stor<br>att den inte får<br>inträffa) |
-|  | 6 Externa skolplaceringar där 3. Vanligt 3. Kännbar Ja<br>särskilda skäl finns (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 7 Övertidsersättning betalas ut 2. Mindre 3. Kännbar Ja<br>på felaktiga grunder vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 8 Efterlevnad av 3. Vanligt 3. Kännbar Ja<br>informationshanteringsplan (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 9 Kontroll inför anställning 3. Vanligt 3. Kännbar Ja<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. |  | 1 Kommunövergripande risk:<br>Bristande följsamhet till<br>inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande risk:<br>Förvaltningarnas arbete med att<br>följa och utveckla det<br>systematiska beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 4 Kommunövergripande risk:<br>Risk för bristande efterlevnad till<br>NIS2-direktivet och gällande<br>rutiner och regelverk | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 Personer med skyddad<br>identitet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 6 Externa skolplaceringar där<br>särskilda skäl finns | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 7 Övertidsersättning betalas ut<br>på felaktiga grunder | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 8 Efterlevnad av<br>informationshanteringsplan | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 9 Kontroll inför anställning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
 
 <!-- sida 57 -->
 
@@ -2176,16 +2176,16 @@ Intern kontroll 2027
 
 [Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
 
-| Kategori | Anledning till<br>Risker Sannolikhet Konsekvens att risk ej tas till<br>plan |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas som<br>- Bristande driftmiljö 2. Mindre besvärande för<br>hos leverantörer vanligt berörda<br>intressenter och<br>kommunen) |
-| Verksamhet | Mottagande i 4. Allvarlig/stor 2026 års<br>anpassad 2. Mindre inverkan (så granskning<br>gymnasieskola vanligt stor att den inte visade inga<br>får inträffa) brister. |
-|  | Åtgärdsprogrammens 4. Allvarlig/stor<br>kvalitet 2. Mindre inverkan (så<br>vanligt stor att den inte<br>får inträffa) |
-|  | Rutiner mot Åtgärder<br>3. Kännbar<br>kränkningar följs ej genomförda<br>(uppfattas som<br>utifrån<br>2. Mindre besvärande för<br>granskning 2025.<br>vanligt berörda<br>Ny lagstiftning<br>intressenter och<br>sedan 1 augusti<br>kommunen)<br>2027. |
-|  | Felaktiga utbetalningar 3. Kännbar Uppföljning och<br>ekonomiskt bistånd (uppfattas som kontroll görs<br>2. Mindre besvärande för inom ramen för<br>vanligt berörda det systematiska<br>intressenter och kvalitetsarbetet,<br>kommunen) SOSFS |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas som kontroll görs<br>vid TAK-placeringar 2. Mindre besvärande för inom<br>vanligt berörda systematiskt<br>intressenter och kvalitetsarbete,<br>kommunen) SOSFS |
-|  | Kommunövergripande<br>3. Kännbar<br>risk: Dämpad<br>(uppfattas som<br>befolkningstillväxt<br>2. Mindre besvärande för<br>med långsiktig<br>vanligt berörda<br>påverkan på<br>intressenter och<br>kommunala<br>kommunen)<br>verksamheter |
-|  | Arbetsmiljön inom Ligger med som<br>4. Allvarlig/stor<br>anpassad en risk och<br>inverkan (så<br>gymnasieskola 3. Vanligt uppföljning inom<br>stor att den inte<br>indivdullt program systematiskt<br>får inträffa)<br>arbetsmiljöarbete |
+| Kategori |  | Risker | Sannolikhet | Konsekvens | Anledning till<br>att risk ej tas till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. |  | Kommunövergripande<br>risk: It-säkerhet<br>- Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+| Verksamhet |  | Mottagande i<br>anpassad<br>gymnasieskola | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så<br>stor att den inte<br>får inträffa) | 2026 års<br>granskning<br>visade inga<br>brister. |
+|  |  | Åtgärdsprogrammens<br>kvalitet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så<br>stor att den inte<br>får inträffa) |  |
+|  |  | Rutiner mot<br>kränkningar följs ej | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Åtgärder<br>genomförda<br>utifrån<br>granskning 2025.<br>Ny lagstiftning<br>sedan 1 augusti<br>2027. |
+|  |  | Felaktiga utbetalningar<br>ekonomiskt bistånd | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Uppföljning och<br>kontroll görs<br>inom ramen för<br>det systematiska<br>kvalitetsarbetet,<br>SOSFS |
+|  |  | Bristande<br>barnkonsekvensanalys<br>vid TAK-placeringar | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Uppföljning och<br>kontroll görs<br>inom<br>systematiskt<br>kvalitetsarbete,<br>SOSFS |
+|  |  | Kommunövergripande<br>risk: Dämpad<br>befolkningstillväxt<br>med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
+|  |  | Arbetsmiljön inom<br>anpassad<br>gymnasieskola<br>indivdullt program | 3. Vanligt | 4. Allvarlig/stor<br>inverkan (så<br>stor att den inte<br>får inträffa) | Ligger med som<br>en risk och<br>uppföljning inom<br>systematiskt<br>arbetsmiljöarbete |
 
 <!-- sida 58 -->
 
@@ -3853,141 +3853,77 @@ Nämndbudget 2027
 
 8.1 Resursmått
 
-Utfall Utfall  Utfall
-Delområde     Nyckeltal
-2023   2024    2025
-Kostnad per gymnasieelev folkbokförd i
-128 872 132 694 136 357
-kommunen
-Gymnasieskola
-Kostnad per gymnasieelev i kommunens
-127 281 131 238 134 035
-skolor
-Nettokostnad gymnasial vuxenutbildning,
-Vuxenutbildning                               23 545
-kr/heltidsstuderande
-Anpassad        Kostnad per elev i anpassad gymnasieskola
-482 600 517 000
-gymnasieskola (exkl skolskjuts)
-Kostnader för kommunala
-Arbetsliv                                      281     291    301
-arbetsmarknadsåtgärder, kr/invånare
 8.2 Prestationsmått
-Utfall Utfall Utfall
-Delområde    Nyckeltal
-2023   2024  2025
-Antal gymnasieelever i kommunens skolor 2 939 2 864 2 808
-Andel folkbokförda gymnasieelever i kommunens
-64 %  63,5 % 61,3 %
-egna skolor
-Antal folkbokförda gymnasieelever 3 806  3 785 3 810
-Gymnasieskola  Lärartäthet i gymnasieskolan, antal elever per lärare
-13    12,4   12,9
-(Heltidstj)
-Andel lärare med pedagogisk högskoleexamen 84 % 84 %
-Andel lärare med lärarlegitimation och behörighet i
-ämnet (för de lärarkategorier som har 86,3 % 86,3 % 79,3 %
-legitimationskrav)
-Individer på gymnasial nivå - vuxenutbildning
-Vuxenutbildning Individer på grundläggande nivå - vuxenutbildning
-Elever i kommunal vuxenutbildning 2 175  2 073
-Deltagare som anvisats till kommunala
-254   257    318
-arbetsmarknadsåtgärder, antal
-Deltagare i kommunala arbetsmarknadsåtgärder,
-554   521    536
-antal
-Arbetsliv
-Deltagare inom arbetsmarknadsverksamheten som
-19 %   20 %  22 %
-är 24 år eller yngre, andel
-Inskrivna i etableringsuppdraget under året , antal 155 129 119
-Lämnat etableringsuppdraget under året, antal 48 49 31
-Antal elever i anpassad gymnasieskola 69  67    70
+
 19
+
+[Tabell 97-1](handlingar.tabeller/97-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- |
+| Gymnasieskola | Kostnad per gymnasieelev folkbokförd i<br>kommunen | 128 872 | 132 694 | 136 357 |
+|  | Kostnad per gymnasieelev i kommunens<br>skolor | 127 281 | 131 238 | 134 035 |
+| Vuxenutbildning | Nettokostnad gymnasial vuxenutbildning,<br>kr/heltidsstuderande | 23 545 |  |  |
+| Anpassad<br>gymnasieskola | Kostnad per elev i anpassad gymnasieskola<br>(exkl skolskjuts) | 482 600 | 517 000 |  |
+| Arbetsliv | Kostnader för kommunala<br>arbetsmarknadsåtgärder, kr/invånare | 281 | 291 | 301 |
+
+[Tabell 97-98-2](handlingar.tabeller/97-98-2.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- |
+| Gymnasieskola | Antal gymnasieelever i kommunens skolor | 2 939 | 2 864 | 2 808 |
+|  | Andel folkbokförda gymnasieelever i kommunens<br>egna skolor | 64 % | 63,5 % | 61,3 % |
+|  | Antal folkbokförda gymnasieelever | 3 806 | 3 785 | 3 810 |
+|  | Lärartäthet i gymnasieskolan, antal elever per lärare<br>(Heltidstj) | 13 | 12,4 | 12,9 |
+|  | Andel lärare med pedagogisk högskoleexamen | 84 % | 84 % |  |
+|  | Andel lärare med lärarlegitimation och behörighet i<br>ämnet (för de lärarkategorier som har<br>legitimationskrav) | 86,3 % | 86,3 % | 79,3 % |
+| Vuxenutbildning | Individer på gymnasial nivå - vuxenutbildning |  |  |  |
+|  | Individer på grundläggande nivå - vuxenutbildning |  |  |  |
+|  | Elever i kommunal vuxenutbildning | 2 175 | 2 073 |  |
+| Arbetsliv | Deltagare som anvisats till kommunala<br>arbetsmarknadsåtgärder, antal | 254 | 257 | 318 |
+|  | Deltagare i kommunala arbetsmarknadsåtgärder,<br>antal | 554 | 521 | 536 |
+|  | Deltagare inom arbetsmarknadsverksamheten som<br>är 24 år eller yngre, andel | 19 % | 20 % | 22 % |
+|  | Inskrivna i etableringsuppdraget under året , antal | 155 | 129 | 119 |
+|  | Lämnat etableringsuppdraget under året, antal | 48 | 49 | 31 |
+|  | Antal elever i anpassad gymnasieskola | 69 | 67 | 70 |
+| Anpassad<br>gymnasieskola | Lärartäthet anpassad gymnasieskola, antal elever<br>per lärare (heltidstj) | 3,7 | 3 | 3,4 |
+| Svenska för<br>invandrare | Antal elever inom SFI | 521 | 495 | 398 |
 
 <!-- sida 98 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2027
-Utfall Utfall Utfall
-Delområde    Nyckeltal
-2023   2024  2025
-Anpassad       Lärartäthet anpassad gymnasieskola, antal elever
-3,7    3     3,4
-gymnasieskola per lärare (heltidstj)
-Svenska för
-Antal elever inom SFI              521   495    398
-invandrare
+
 8.3 Effektmått
-Utfall Utfall Utfall
-Delområde   Nyckeltal
-2023  2024   2025
-Andel folkbokförda elever med fullföljd
-86 %  84,8 % 82,4 %
-gymnasieutbildning inom 4 år
-Genomsnittligt betygspoäng i kommunens
-14,3   14    14
-gymnasieskolor
-Gymnasieskola
-Andel folkbokförda gymnasieelever som tagit examen
-79,9 % 75,3 % 77,3 %
-inom 3 år
-Andel gymnasielever som tagit examen inom 3 år 77,3 % 70,8 % 75,6 %
-Kursdeltagare i komvux på grundläggande nivå som
-har avslutat med godkända betyg, i huvudmannens
-84 %  86 %  79 %
-skolenheter, andel av de som avslutat eller avbrutit kurs
-under året (%)
-Vuxenutbildning
-Kursdeltagare i komvux på gymnasial nivå som har
-avslutat kurs med godkända betyg, i huvudmannens
-78 %  77 %  72 %
-skolenheter, andel av de som avslutat eller avbrutit kurs
-under året (%)
-Resultat vid avslut i kommunens
-arbetsmarknadsverksamhet, deltagare som börjat arbeta, 31 % 26 % 30 %
-andel
-Resultat vid avslut i kommunens
-arbetsmarknadsverksamhet, deltagare som börjat studera, 8 % 7 % 6 %
-andel
-Lämnat etableringsuppdraget och börjat arbeta eller
-42 %  27 %  55 %
-studera (status efter 90 dagar), andel (%)
-Arbetsliv
-Förvärvsarbetande skyddsbehövande och anhöriga
-70,2 % 71,8 %
-(flyktingar) 20-64 år, andel (%)
-Studerande skyddsbehövande och anhöriga
-(flyktingar) 20-64 år, andel (%)
-Förväntat värde förvärvsarbetande skyddsbehövande
-72,6 % 73,2 %
-och anhöriga (flyktingar) 20-64 år, andel (%)
-Skyddsbehövande och anhöriga (flyktingar) 20-25 år
-10,7 % 11,4 %
-som varken förvärvsarbetar eller studerar, andel (%)
-Elever på SFI som klarat högsta kurs på studievägen
-39 %  31 %
-av nybörjare två år tidigare, andel (%)
-Svenska för
-invandrare    Elever på SFI som fortsätter utbildningen och ej klarar
-högsta kurs på studievägen av nybörjare två år tidigare, 28 % 25 %
-andel (%)
+
 20
+
+[Tabell 98-99-1](handlingar.tabeller/98-99-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- |
+| Gymnasieskola | Andel folkbokförda elever med fullföljd<br>gymnasieutbildning inom 4 år | 86 % | 84,8 % | 82,4 % |
+|  | Genomsnittligt betygspoäng i kommunens<br>gymnasieskolor | 14,3 | 14 | 14 |
+|  | Andel folkbokförda gymnasieelever som tagit examen<br>inom 3 år | 79,9 % | 75,3 % | 77,3 % |
+|  | Andel gymnasielever som tagit examen inom 3 år | 77,3 % | 70,8 % | 75,6 % |
+| Vuxenutbildning | Kursdeltagare i komvux på grundläggande nivå som<br>har avslutat med godkända betyg, i huvudmannens<br>skolenheter, andel av de som avslutat eller avbrutit kurs<br>under året (%) | 84 % | 86 % | 79 % |
+|  | Kursdeltagare i komvux på gymnasial nivå som har<br>avslutat kurs med godkända betyg, i huvudmannens<br>skolenheter, andel av de som avslutat eller avbrutit kurs<br>under året (%) | 78 % | 77 % | 72 % |
+| Arbetsliv | Resultat vid avslut i kommunens<br>arbetsmarknadsverksamhet, deltagare som börjat arbeta,<br>andel | 31 % | 26 % | 30 % |
+|  | Resultat vid avslut i kommunens<br>arbetsmarknadsverksamhet, deltagare som börjat studera,<br>andel | 8 % | 7 % | 6 % |
+|  | Lämnat etableringsuppdraget och börjat arbeta eller<br>studera (status efter 90 dagar), andel (%) | 42 % | 27 % | 55 % |
+|  | Förvärvsarbetande skyddsbehövande och anhöriga<br>(flyktingar) 20-64 år, andel (%) | 70,2 % | 71,8 % |  |
+|  | Studerande skyddsbehövande och anhöriga<br>(flyktingar) 20-64 år, andel (%) |  |  |  |
+|  | Förväntat värde förvärvsarbetande skyddsbehövande<br>och anhöriga (flyktingar) 20-64 år, andel (%) | 72,6 % | 73,2 % |  |
+|  | Skyddsbehövande och anhöriga (flyktingar) 20-25 år<br>som varken förvärvsarbetar eller studerar, andel (%) | 10,7 % | 11,4 % |  |
+| Svenska för<br>invandrare | Elever på SFI som klarat högsta kurs på studievägen<br>av nybörjare två år tidigare, andel (%) | 39 % | 31 % |  |
+|  | Elever på SFI som fortsätter utbildningen och ej klarar<br>högsta kurs på studievägen av nybörjare två år tidigare,<br>andel (%) | 28 % | 25 % |  |
+|  | Elever på SFI som avbrutit och ej klarat högsta kurs på<br>studievägen av nybörjare två år tidigare, andel (%) | 34 % |  |  |
+|  | Elever på SFI som avbrutit som antingen arbetar eller<br>studerar av nybörjare två år tidigare, andel (%) | 63 % | 61 % | 72 % |
 
 <!-- sida 99 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2027
-Utfall Utfall Utfall
-Delområde   Nyckeltal
-2023  2024   2025
-Elever på SFI som avbrutit och ej klarat högsta kurs på
-34 %
-studievägen av nybörjare två år tidigare, andel (%)
-Elever på SFI som avbrutit som antingen arbetar eller
-63 %  61 %  72 %
-studerar av nybörjare två år tidigare, andel (%)
 
 21
 
@@ -4081,57 +4017,39 @@ för att stärka förvaltningens attraktionskraft som arbetsgivare.
 
 9.2 Personalmått
 
-Utfall  Utfall Utfall Budget   Budget
-Nyckeltal
-2023   2024   2025    2026     2027
-Andel heltid                  93,5 % 92,1 %  91,4 %
-Antal medarbetare per enhetschef 21,5 19,4    18,2
-
-```osaker-tabell
-Sjukfrånvaro Totalt           5,1 %   4,4 %   4 %
-Sjukfrånvaro Kvinnor          6,5 %   5,3 %   5 %
-
-Sjukfrånvaro Män              2,3 %   2,7 %   3 %
-Långtidssjukfrånvaro          3,2 %   2,7 %   2 %
-Långtidssjukfrånvaro Kvinnor  4,4 %   3,4 %   3 %
-
-Långtidssjukfrånvaro Män      0,9 %   1,3 %   1 %
-Anställda totalt               498    493     481
-```
-
-Anställda andel kvinnor       64,9 % 65,3 %  65,9 %
-Anställda andel män           35,1 % 34,7 %  34,1 %
-
-```osaker-tabell
-Korttidssjukfrånvaro Kvinnor  2,1 %   2 %     2 %
-
-Korttidssjukfrånvaro Män      1,5 %   1,4 %   1 %
-Korttidssjukfrånvaro          1,9 %   1,8 %   2 %
-
-Personalomsättning            9,5 %   5,9 %  8,8 %
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-55,6 % 52,9 %  47 %
-eller mer
-
 23
+
+[Tabell 101-102-1](handlingar.tabeller/101-102-1.csv)
+
+| Nyckeltal | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Budget<br>2026 | Budget<br>2027 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 93,5 % | 92,1 % | 91,4 % |  |  |
+| Antal medarbetare per enhetschef | 21,5 | 19,4 | 18,2 |  |  |
+| Sjukfrånvaro Totalt | 5,1 % | 4,4 % | 4 % |  |  |
+| Sjukfrånvaro Kvinnor | 6,5 % | 5,3 % | 5 % |  |  |
+| Sjukfrånvaro Män | 2,3 % | 2,7 % | 3 % |  |  |
+| Långtidssjukfrånvaro | 3,2 % | 2,7 % | 2 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 4,4 % | 3,4 % | 3 % |  |  |
+| Långtidssjukfrånvaro Män | 0,9 % | 1,3 % | 1 % |  |  |
+| Anställda totalt | 498 | 493 | 481 |  |  |
+| Anställda andel kvinnor | 64,9 % | 65,3 % | 65,9 % |  |  |
+| Anställda andel män | 35,1 % | 34,7 % | 34,1 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,1 % | 2 % | 2 % |  |  |
+| Korttidssjukfrånvaro Män | 1,5 % | 1,4 % | 1 % |  |  |
+| Korttidssjukfrånvaro | 1,9 % | 1,8 % | 2 % |  |  |
+| Personalomsättning | 9,5 % | 5,9 % | 8,8 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer | 55,6 % | 52,9 % | 47 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Kvinnor | 62,5 % | 57,9 % | 51 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Män | 19,6 % | 34,3 % | 35 % |  |  |
+| Medelålder | 47 | 48 | 48 |  |  |
 
 <!-- sida 102 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2027
-Utfall  Utfall Utfall Budget   Budget
-Nyckeltal
-2023   2024   2025    2026     2027
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-62,5 % 57,9 %  51 %
-eller mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-19,6 % 34,3 %  35 %
-eller mer Män
-Medelålder                     47      48     48
+
 9.3 Arbetsmiljö
+
 Inom Gymnasium & Arbetsmarknad görs årligen en uppföljning av det systematiska arbetsmiljöarbetet (SAM) i
 förvaltningen. Syftet med uppföljningen är dels att undersöka om organisationen har ändamålsenliga rutiner och
 arbetar efter dem, dels att få indikationer på områden/rutiner som behöver förbättras.
@@ -4379,118 +4297,92 @@ Nämndbudget 2027
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Biblioteksplan                                    KF 2025-02-04 § 13
-Kulturpolitiskt program för Kungsbacka kommun     KF § 167/12
-
-Inköp, policy                                     KF 2026-05-05, § 80
-Lokaler och internhyra                            KF 2014-11-11 § 153
-Internationell policy                             KF § 2021-11-09 § 139
-
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-Integritetspolicy                                 KF 2021-11-09 § 142
-
-Reglemente för nämnden för Gymnasium & Arbetsmarknad KF 2018-06-14 § 110
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-Klimatstrategi                                    KF 2022-05-10 § 77
-
-Invånardialog                                     KF 2014-10-14 § 119
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-
 11.1.2 Kommungemensamma regler
-Styrdokument                           Beslutande paragraf/År
-
-Attestreglemente - tillämpningsanvisningar Ekonomichef 2015-04-01
 
 29
+
+[Tabell 107-1](handlingar.tabeller/107-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2025-02-04 § 13 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Gymnasium & Arbetsmarknad | KF 2018-06-14 § 110 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+
+[Tabell 107-108-2](handlingar.tabeller/107-108-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-Charlotte Järnström<br>2019-08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona Carlsson 2024-12-<br>02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör<br>personuppgifter | Kommunikationschef Annika Jardin 2024-06-<br>01 |
 
 <!-- sida 108 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                           Beslutande paragraf/År
-
-Varumärkesarkitektur och särprofilering
-Visselblåsarfunktionen, regler
-
-Tjänsteresor, regler
-
-AI, Artificiell Intelligens, regler
-
-Publicering av bilder, filmer och ljudupptagningar som utgör
-personuppgifter
-
-Kommundirektören 2021-12-01
-Kommundirektören 2022-11-09
-
-Kommundirektör Ann-Charlotte Järnström
-2019-08-20
-Digitaliseringschef Iwona Carlsson 2024-12-
-02
-Kommunikationschef Annika Jardin 2024-06-
-01
 
 11.1.3 Styrdokument beslutade av nämnden för Gymnasium & Arbetsmarknad
 
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning                            §100/2026
-
-Samverkansavtal för vuxnas lärande inom Göteborgsregionen 2027-2030 § 61/2026
-Lokalbehov 2027-2031                              §120/2025
-Systematiskt arbetsmiljöarbete, 2019-02-26        § 92/02
-
-Drogpolicy skolor                                 § 15/09
-Strategi för internationalisering inom förvaltningen för Gymnasie &
-§ 66/14
-Vuxenutbildning
-Policy för elevers kostnader                      § 21/2017
-Informationshanteringsplan                        §48/2024
-Sponsringspolicy                                  § 60/12
-
-Vägledande riktlinjer för ekonomiskt bistånd      § 19/2026
-Samverkansavtal för gymnasieskolan i Göteborgsregionen 2027/2028 -
-§ 59/2026
-2030/2031
-Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen 2027/2028
-§ 60/2026
-– 2030/2031
-Samverkansavtal för särskild utbildning för vuxna §108/2020
 11.1.4 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
-
 30
+
+[Tabell 108-1](handlingar.tabeller/108-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | §100/2026 |
+| Samverkansavtal för vuxnas lärande inom Göteborgsregionen 2027-2030 | § 61/2026 |
+| Lokalbehov 2027-2031 | §120/2025 |
+| Systematiskt arbetsmiljöarbete, 2019-02-26 | § 92/02 |
+| Drogpolicy skolor | § 15/09 |
+| Strategi för internationalisering inom förvaltningen för Gymnasie &<br>Vuxenutbildning | § 66/14 |
+| Policy för elevers kostnader | § 21/2017 |
+| Informationshanteringsplan | §48/2024 |
+| Sponsringspolicy | § 60/12 |
+| Vägledande riktlinjer för ekonomiskt bistånd | § 19/2026 |
+| Samverkansavtal för gymnasieskolan i Göteborgsregionen 2027/2028 -<br>2030/2031 | § 59/2026 |
+| Samverkansavtal för anpassad gymnasieskola i Göteborgsregionen 2027/2028<br>– 2030/2031 | § 60/2026 |
+| Samverkansavtal för särskild utbildning för vuxna | §108/2020 |
+
+[Tabell 108-2](handlingar.tabeller/108-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
 
 <!-- sida 109 -->
 
@@ -4500,10 +4392,13 @@ Nämndbudget 2027
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument        Beslutande paragraf/År
-Allmän handling, taxa för kopior KF 2021-04-13 § 65
-
 31
+
+[Tabell 109-1](handlingar.tabeller/109-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 110 -->
 

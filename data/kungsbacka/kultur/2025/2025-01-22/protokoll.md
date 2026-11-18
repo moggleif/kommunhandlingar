@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4114947f194a0301afe2d8ed/1737978570
 sha256: a9b10ea976aced932b1e432e4bc8a3baf0431f87e257f8a3b0736afe75ccfdb7
 bytes: 2879171
 sidor: 16
-hamtad: 2026-11-08T18:37:02+00:00
-konverterad: 2026-11-08T18:38:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:59:58+00:00
+konverterad: 2026-11-18T03:00:48+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -137,7 +137,7 @@ förvaltningens förslag, och att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 4 -->
 
@@ -226,7 +226,7 @@ Behovsbeskrivningar, 5 stycken
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 6 -->
 
@@ -257,7 +257,7 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 7 -->
 
@@ -305,7 +305,7 @@ Kommunstyrelsen
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 8 -->
 
@@ -360,7 +360,7 @@ förslag, och att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 9 -->
 
@@ -392,7 +392,7 @@ förslag, och att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 10 -->
 
@@ -437,7 +437,7 @@ Kommunfullmäktige
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 11 -->
 
@@ -472,7 +472,7 @@ Vård & Omsorg
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 12 -->
 
@@ -613,7 +613,7 @@ förslag, och att nämnden bifaller det.
 Det här dokumentet är digitalt signerat
 
 Transaktionsidentitet: DE97OB5SA6023C060CA0256F0AS53325A420FAFF7DFC
-Transaktionsidentitet: 1B9F12D4A1C83A52B6816FA0BDA414C0888BB15304
+Transaktionsidentitet: 1B9F12D4A1C83A52B6816FAO0BDA414C0888BB15304
 
 <!-- sida 16 -->
 

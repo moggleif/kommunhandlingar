@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2da4b3f51a0864b91543b215/1789112180
 sha256: 66fc5635f329adfd9fb606836b9cb2dcf9544ae948f6a1d0b30493ae7a37889a
 bytes: 31211465
 sidor: 258
-hamtad: 2026-11-08T09:49:22+00:00
-konverterad: 2026-11-08T09:50:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T00:26:13+00:00
+konverterad: 2026-11-18T00:27:33+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -965,25 +965,8 @@ föregående år.
 
 4.3 Resursmått
 
-Utfall jan Utfall jan  Utfall jan Utfall jan   Utfall jan
-Namn
-2022-jun 2022 2023-jun 2023 2024-jun 2024 2025-jun 2025 2026-jun 2026
-Andel heltid  95,2 %     97,1 %     97,3 %     98,1 %        99,1 %
-Anställda andel
-65,5 %     60,6 %     58,6 %     55,7 %        54,2 %
-kvinnor
-Anställda andel
-34,6 %     39,5 %     41,4 %     44,3 %        45,8 %
-män
-Anställda totalt 110      109        111        106            107
-Antal
-medarbetare    20          14        14,3       13,6            12
-per enhetschef
-Medelålder     44          43         43         44             44
-Pensionsavgån
-0          1          0          0               1
-gar
 4.4 Effektmått
+
 Utfall jan 2022 Utfall jan 2023 Utfall jan 2024 Utfall jan 2025 Utfall jan 2026
 Namn
 -jun 2022  -jun 2023  -jun 2024   -jun 2025    -jun 2026
@@ -998,6 +981,18 @@ Korttidssjukfrån
 varo Män
 
 12
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+|  | Namn | Utfall jan<br>2022-jun 2022 | Utfall jan<br>2023-jun 2023 | Utfall jan<br>2024-jun 2024 | Utfall jan<br>2025-jun 2025 | Utfall jan<br>2026-jun 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel heltid | 95,2 % | 97,1 % | 97,3 % | 98,1 % | 99,1 % |
+|  | Anställda andel<br>kvinnor | 65,5 % | 60,6 % | 58,6 % | 55,7 % | 54,2 % |
+|  | Anställda andel<br>män | 34,6 % | 39,5 % | 41,4 % | 44,3 % | 45,8 % |
+|  | Anställda totalt | 110 | 109 | 111 | 106 | 107 |
+|  | Antal<br>medarbetare<br>per enhetschef | 20 | 14 | 14,3 | 13,6 | 12 |
+|  | Medelålder | 44 | 43 | 43 | 44 | 44 |
+|  | Pensionsavgån<br>gar | 0 | 1 | 0 | 0 | 1 |
 
 <!-- sida 26 -->
 
@@ -2356,183 +2351,145 @@ Nämndbudget 2027
 
 9.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Fördjupad översiktsplan för Tjolöholm             KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad       KF § 2021-11-09 § 140
-
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-Vision 2030                                       KF 2023-06-14 § 73
-
-Översiktsplan för vindkraft                       KF 2021-11-09 § 140
-Kommunikation                                     KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                   KF 2021-11-09 § 140
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-Inköp, policy                                     KF 2026-05-05, § 80
-
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-Integritetspolicy                                 KF 2021-11-09 § 142
-
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-Klimatstrategi                                    KF 2022-05-10 § 77
-Invånardialog                                     KF 2014-10-14 § 119
-
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-
-Reglemente för Byggnadsnämnden                    KF 2021-05-04 § 81
-Plan- och byggverksamhet, taxa 2024               KF 2023-12-14 § 196
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-2025-10-07, § 195
-bestämmelser (OPF KR-25)
-BN 2025-12-11, § 207
-Plan- och byggverksamhet taxa 2026
-KS 2025-12-16, § 266
-Taxa för Kungsbacka kommuns plan- och byggverksamhet, avser bygglov-,
-KF 2023-12-14 §196
-plan-, kart- och mätningsverksamhet
 19
+
+[Tabell 55-56-1](handlingar.tabeller/55-56-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2021-11-09 § 140 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Översiktsplan för vindkraft | KF 2021-11-09 § 140 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för Byggnadsnämnden | KF 2021-05-04 § 81 |
+| Plan- och byggverksamhet, taxa 2024 | KF 2023-12-14 § 196 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | 2025-10-07, § 195 |
+| Plan- och byggverksamhet taxa 2026 | BN 2025-12-11, § 207<br>KS 2025-12-16, § 266 |
+| Taxa för Kungsbacka kommuns plan- och byggverksamhet, avser bygglov-,<br>plan-, kart- och mätningsverksamhet | KF 2023-12-14 §196 |
+| Plan- och byggverksamhet, taxa 2025 | KS 2024-12-17 § 287 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
 
 <!-- sida 56 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Nämndbudget 2027
 
-Styrdokument                                      Beslutande paragraf/År
-Plan- och byggverksamhet, taxa 2025               KS 2024-12-17 § 287
-
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-
 9.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 9.1.3 Styrdokument beslutade av byggnadsnämnden
-Styrdokument                                      Beslutande paragraf/År
-Delegering av beslutanderätt Byggnadsnämnden      BN 2026-06-25 § 100
-Kompletterande delegeringsförteckning Byggnadsnämnden BN 2026-03-19 § 49
-Arkivredovisning med dokumenthanteringsplan       BN 2018-03-15 § 62
-
-Byggnadsnämndens tillsynsplan 2026-2029           BN 2026-04-15 § 67
-Arkitekturprogram - Ramprogram för Kungsbacka kommun BN 2002-12-05 § 202
-
-Arkitekturprogram - Delprogram: Karaktärisering av Anneberg-Älvsåker BN 2003-06-05 § 112
-Arkitekturprogram - Delprogram: Karaktärisering av Kungsbacka Innerstad BN 2004-06-03 § 104
-Arkitekturprogram - Delprogram: Karaktärisering av Kungsbackas östra
-BN 2004-11-04 § 214
-kommundelar med fokus på Gällinge
-Arkitekturprogram - Delprogram: Karaktärisering av Västra Villastaden BN 2006-03-02 § 51
-Arkitekturprogram - Delprogram: Karaktärisering av Gottskär BN 2006-06-01 § 112
-Områdesbestämmelser och arkitekturprogram för Flamsnäs BN 2008-04-03 § 154
-
-Råd och tips till dig som ska bygga i ett tidigare sommarstugeområde BN 2007-09-06 § 230
-Råd och riktlinjer - Skyltprogram för Kungsbacka  BN 2020-11-26 § 308
-
-Råd och riktlinjer för vindkraftverk som prövas enligt PBL BN 2013-09-05 § 263
-Paletter: Ett färgsättningsprogram för Kungsbacka innerstad BN 2015-03-12 § 64
-Tölö Ängar: Råd och riktlinjer vid gestaltning    BN 2020-02-20 § 36
-
-Bryggor och båthus/sjöbodar i Gottskär - Principer för bygglovsgivning och
-BN 2002-12-05 § 203
-byggande
 
 20
+
+[Tabell 56-1](handlingar.tabeller/56-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 56-57-2](handlingar.tabeller/56-57-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegering av beslutanderätt Byggnadsnämnden | BN 2026-06-25 § 100 |
+| Kompletterande delegeringsförteckning Byggnadsnämnden | BN 2026-03-19 § 49 |
+| Arkivredovisning med dokumenthanteringsplan | BN 2018-03-15 § 62 |
+| Byggnadsnämndens tillsynsplan 2026-2029 | BN 2026-04-15 § 67 |
+| Arkitekturprogram - Ramprogram för Kungsbacka kommun | BN 2002-12-05 § 202 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Anneberg-Älvsåker | BN 2003-06-05 § 112 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Kungsbacka Innerstad | BN 2004-06-03 § 104 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Kungsbackas östra<br>kommundelar med fokus på Gällinge | BN 2004-11-04 § 214 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Västra Villastaden | BN 2006-03-02 § 51 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Gottskär | BN 2006-06-01 § 112 |
+| Områdesbestämmelser och arkitekturprogram för Flamsnäs | BN 2008-04-03 § 154 |
+| Råd och tips till dig som ska bygga i ett tidigare sommarstugeområde | BN 2007-09-06 § 230 |
+| Råd och riktlinjer - Skyltprogram för Kungsbacka | BN 2020-11-26 § 308 |
+| Råd och riktlinjer för vindkraftverk som prövas enligt PBL | BN 2013-09-05 § 263 |
+| Paletter: Ett färgsättningsprogram för Kungsbacka innerstad | BN 2015-03-12 § 64 |
+| Tölö Ängar: Råd och riktlinjer vid gestaltning | BN 2020-02-20 § 36 |
+| Bryggor och båthus/sjöbodar i Gottskär - Principer för bygglovsgivning och<br>byggande | BN 2002-12-05 § 203 |
+| Karaktär Kungsbacka - En beskrivning av stadens byggnadskaraktärer | BN 2011-06-09 § 156 |
+| Råd och riktlinjer för Vallda Heberg 3:20 | BN 2011-12-01 § 309 |
+| Riktlinjer för gestaltning i Lerkil | BN 2015-10-15 § 224 |
+| Sandlyckan Råd och riktlinjer vid gestaltning | BN 2020-02-20 § 36 |
+| Sintorp - Råd och riktlinjer för gestaltning | BN 2020-02-20 § 36 |
+| Råd och riktlinjer för gestaltning - Johan Oscars väg 5-27 | BN 2008-06-04 § 208 |
+| Råd och riktlinjer för gestaltning - Kvarteret Banvallen, Kullavik | BN 2008-06-04 § 209 |
+| Råd och riktlinjer för gestaltning - Kvarteret Tallbacken | BN 2008-06-04 § 210 |
+| Råd och riktlinjer för gestaltning - Smekalles äng: Fastigheterna Kolla 3:10,<br>Kolla 3:35, Kolla 3:37 och Kolla 3:39 | BN 2008-06-04 § 211 |
+| Kolla Parkstad - Råd och riktlinjer för gestaltning | BN 2020-02-20 § 36 |
+| Råd och riktlinjer för gestaltning - Björkris kvarter J, M, N, O | BN 2010-07-01 § 196 |
+| Råd och riktlinjer för gestaltning - Björkris kvarter K | BN 2012-01-12 § 9 |
+| Björkris – Råd och riktlinjer vid gestaltning – Kvarter B och I | BN 2020-02-20 § 36 |
+| Principer för nybyggnad utom detaljplan | BN 2020-02-20 § 37 |
+| Riktlinjer för tolkning av begreppet sammanhållen bebyggelse | 2025-04-24 § 77 |
+| Rutin för hantering av personuppgiftsincident | 2019-11-21 § 367 |
+| Tölö Ängar: Miljö- och kvalitetsprogram för etapp 2 | 2014-11-06, § 353 |
+| Tölö ängar, etapp 2: Råd och riktlinjer | 2015-08-20, § 167 |
+| Sintorps ängar,kompletterande råd och riktlinjer | 2020-02-20 § 36 |
+| Strategidokument 2024-2027 | 2025-04-24 §78 |
 
 <!-- sida 57 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Nämndbudget 2027
 
-Styrdokument                                      Beslutande paragraf/År
-Karaktär Kungsbacka - En beskrivning av stadens byggnadskaraktärer BN 2011-06-09 § 156
-
-Råd och riktlinjer för Vallda Heberg 3:20         BN 2011-12-01 § 309
-Riktlinjer för gestaltning i Lerkil               BN 2015-10-15 § 224
-Sandlyckan Råd och riktlinjer vid gestaltning     BN 2020-02-20 § 36
-
-Sintorp - Råd och riktlinjer för gestaltning      BN 2020-02-20 § 36
-Råd och riktlinjer för gestaltning - Johan Oscars väg 5-27 BN 2008-06-04 § 208
-
-Råd och riktlinjer för gestaltning - Kvarteret Banvallen, Kullavik BN 2008-06-04 § 209
-Råd och riktlinjer för gestaltning - Kvarteret Tallbacken BN 2008-06-04 § 210
-Råd och riktlinjer för gestaltning - Smekalles äng: Fastigheterna Kolla 3:10,
-BN 2008-06-04 § 211
-Kolla 3:35, Kolla 3:37 och Kolla 3:39
-Kolla Parkstad - Råd och riktlinjer för gestaltning BN 2020-02-20 § 36
-Råd och riktlinjer för gestaltning - Björkris kvarter J, M, N, O BN 2010-07-01 § 196
-Råd och riktlinjer för gestaltning - Björkris kvarter K BN 2012-01-12 § 9
-
-Björkris – Råd och riktlinjer vid gestaltning – Kvarter B och I BN 2020-02-20 § 36
-Principer för nybyggnad utom detaljplan           BN 2020-02-20 § 37
-
-Riktlinjer för tolkning av begreppet sammanhållen bebyggelse 2025-04-24 § 77
-Rutin för hantering av personuppgiftsincident     2019-11-21 § 367
-Tölö Ängar: Miljö- och kvalitetsprogram för etapp 2 2014-11-06, § 353
-
-Tölö ängar, etapp 2: Råd och riktlinjer           2015-08-20, § 167
-Sintorps ängar,kompletterande råd och riktlinjer  2020-02-20 § 36
-Strategidokument 2024-2027                        2025-04-24 §78
-
 9.1.4 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                         KS 2023-02-21 § 32
-
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
 
 9.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Plan- och byggverksamhet, taxa 2024                 KF 2023-12-14 § 196
-
 21
+
+[Tabell 57-1](handlingar.tabeller/57-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
+
+[Tabell 57-58-2](handlingar.tabeller/57-58-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Plan- och byggverksamhet, taxa 2024 | KF 2023-12-14 § 196 |
+| Plan- och byggverksamhet taxa 2026 | BN 2025-12-11, § 207<br>KS 2025-12-16, § 266 |
+| Plan- och byggverksamhet, taxa 2025 | KS 2024-12-17 § 287 |
 
 <!-- sida 58 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Nämndbudget 2027
-
-Styrdokument                                      Beslutande paragraf/År
-BN 2025-12-11, § 207
-Plan- och byggverksamhet taxa 2026
-KS 2025-12-16, § 266
-Plan- och byggverksamhet, taxa 2025                 KS 2024-12-17 § 287
 
 22
 

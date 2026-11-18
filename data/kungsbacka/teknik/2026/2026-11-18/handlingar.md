@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.dbbdae71a1ce2dff4c1feff/17945800756
 sha256: eba0f28d8c1a84c3038d49e8eed84518b1fa4e2440e1090b2bd4ddfa86ba7b30
 bytes: 51340412
 sidor: 419
-hamtad: 2026-11-13T15:18:19+00:00
-konverterad: 2026-11-13T15:22:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T02:01:47+00:00
+konverterad: 2026-11-18T02:06:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [44, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 231, 266, 267, 268, 269, 291, 313, 314, 315, 316, 317, 318, 319, 321, 322, 323, 324, 325]
 figurer: [5, 44, 45, 46, 47, 105, 113, 159, 160, 164, 165, 166, 167, 171, 173, 176, 177, 178, 179, 184, 185, 186, 187, 188, 190, 196, 200, 201, 210, 211, 230, 231, 232, 261, 287, 288, 289, 290, 291, 303, 304, 332, 333, 334, 335, 338, 339, 344, 345, 356, 361]
 tolkade: []
@@ -970,50 +970,36 @@ stärks förutsättningar för utveckling och medarbetarnas engagemang.
 
 8.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Andel heltid          98 %     98,2 %    98,2 %
-
-Antal medarbetare per
-11,9      10,7      12,2
-enhetschef
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 21,7 % 33,7 % 42 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 16,6 % 26,3 % 25 %
-mer Män
-Anställda totalt      250       228       230
-
-Anställda andel kvinnor 41,6 % 43,4 %    43,9 %
-Anställda andel män  58,4 %    56,6 %    56,1 %
-
 20
 
-[Tabell 22-1](handlingar.tabeller/22-1.csv)
+[Tabell 22-23-1](handlingar.tabeller/22-23-1.csv)
 
-| Sjukfrånvaro Totalt | 4,1 % | 4,8 % | 4 % |
-| --- | --- | --- | --- |
-| Sjukfrånvaro Kvinnor | 4,5 % | 5,5 % | 5 % |
-| Sjukfrånvaro Män | 3,9 % | 4,4 % | 4 % |
-| Korttidssjukfrånvaro | 2,7 % | 2,5 % | 2 % |
-| Korttidssjukfrånvaro Kvinnor | 2,8 % | 2,6 % | 2 % |
-| Korttidssjukfrånvaro Män | 2,7 % | 2,5 % | 2 % |
-| Långtidssjukfrånvaro | 1,4 % | 2,4 % | 2 % |
-| Långtidssjukfrånvaro Kvinnor | 1,7 % | 2,9 % | 3 % |
-| Långtidssjukfrånvaro Män | 1,2 % | 1,9 % | 2 % |
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 98 % | 98,2 % | 98,2 % |  |  |
+| Antal medarbetare per<br>enhetschef | 11,9 | 10,7 | 12,2 |  |  |
+| Sjukfrånvaro Totalt | 4,1 % | 4,8 % | 4 % |  |  |
+| Sjukfrånvaro Kvinnor | 4,5 % | 5,5 % | 5 % |  |  |
+| Sjukfrånvaro Män | 3,9 % | 4,4 % | 4 % |  |  |
+| Korttidssjukfrånvaro | 2,7 % | 2,5 % | 2 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,8 % | 2,6 % | 2 % |  |  |
+| Korttidssjukfrånvaro Män | 2,7 % | 2,5 % | 2 % |  |  |
+| Långtidssjukfrånvaro | 1,4 % | 2,4 % | 2 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 1,7 % | 2,9 % | 3 % |  |  |
+| Långtidssjukfrånvaro Män | 1,2 % | 1,9 % | 2 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 21,7 % | 33,7 % | 42 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 16,6 % | 26,3 % | 25 % |  |  |
+| Anställda totalt | 250 | 228 | 230 |  |  |
+| Anställda andel kvinnor | 41,6 % | 43,4 % | 43,9 % |  |  |
+| Anställda andel män | 58,4 % | 56,6 % | 56,1 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 18,9 % | 29,9 % | 34 % |  |  |
+| Medelålder | 47 | 47 | 47 |  |  |
+| Personalomsättning | 9,1 % | 9,3 % | 8,9 % |  |  |
 
 <!-- sida 23 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2027
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 18,9 % 29,9 % 34 %
-mer
-Medelålder             47       47        47
-
-Personalomsättning    9,1 %    9,3 %     8,9 %
 
 8.3 Arbetsmiljö
 
@@ -1406,11 +1392,8 @@ Varlavägen mellan Arendalsleden och Stora Bäcksleden planeras även den starta
 | Inkomster | 3 000 | 5 100 | 0 | 0 | 0 |
 | Utgifter | -48 700 | -87 800 | -100 000 | -100 000 | -300 000 |
 | Summa | -45 700 | -82 700 | -100 000 | -100 000 | -300 000 |
-
-[Tabell 29-3](handlingar.tabeller/29-3.csv)
-
+|  |  |  |  |  |  |
 | Löpande investeringar | -3 900 | -6 200 | -10 000 | -9 900 | -30 000 |
-| --- | --- | --- | --- | --- | --- |
 | Övriga investeringar | -17 900 | -44 800 | -60 000 | -50 100 | -146 300 |
 | Reinvesteringar | -23 900 | -31 700 | -30 000 | -40 000 | -123 700 |
 | Summa | -45 700 | -82 700 | -100 000 | -100 000 | -300 000 |
@@ -1534,168 +1517,142 @@ Nämndbudget 2027
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                  KF 2015-03-10 § 30
-
-Fördjupad översiktsplan för Tjolöholm             KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad       KF 2026-03-03 § 30
-Barnets rätt                                      KF 2014-11-11 §
-
-Konkurrensprövning                                KF 2011-02-01 § 8
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                   KF 2021-11-09 § 140
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Arbete mot klotter och skadegörelse, regler       KF 2013-04-16 § 58
-Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter KF 2024-05-07 § 82
-Dagvatten                                         KF 2023-06-14 § 77
-
-Kulturpolitiskt program för Kungsbacka kommun     KF § 167/12
-Vatten- och avloppsanläggning, allmänna bestämmelser för användande KF § 44/09
-Enskild väghållning, regler för bidrag            KF § 17/94
-
-Vägbelysning, regler                              KF § 61/90
-VA-saneringsprogram                               KF § 105/08
-Inköp, policy                                     KF 2026-05-05, § 80
-
-Boendeparkering, regler och taxa                  KF 2024-02-06 § 12
-Lokaler och internhyra                            KF 2014-11-11 § 153
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-
-Integritetspolicy                                 KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-
-Bredbandsnät, policy                              KF 2018-06-14 § 105
-Klimatstrategi                                    KF 2022-05-10 § 77
-Invånardialog                                     KF 2014-10-14 § 119
-
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-VA-utbyggnadsplan 2022-2032                       KF 2020-09-08 § 90
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-
-Reglemente för nämnden för Teknik                 KF 2021-04-13 § 67
-
 30
+
+[Tabell 32-33-1](handlingar.tabeller/32-33-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF 2026-03-03 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Arbete mot klotter och skadegörelse, regler | KF 2013-04-16 § 58 |
+| Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter | KF 2024-05-07 § 82 |
+| Dagvatten | KF 2023-06-14 § 77 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Vatten- och avloppsanläggning, allmänna bestämmelser för användande | KF § 44/09 |
+| Enskild väghållning, regler för bidrag | KF § 17/94 |
+| Vägbelysning, regler | KF § 61/90 |
+| VA-saneringsprogram | KF § 105/08 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Bredbandsnät, policy | KF 2018-06-14 § 105 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| VA-utbyggnadsplan 2022-2032 | KF 2020-09-08 § 90 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för nämnden för Teknik | KF 2021-04-13 § 67 |
+| Färdtjänst; Riksfärdtjänst, tillämpningsregler | KF 2019-12-10 § 182 |
+| Lokala avfallsföreskrifter | 2025-12-11, § 244 |
+| Bredbandsnät, taxa 2026 | 2025-10-07, § 197 |
+| Trafikförsörjningsprogram | KF 2024-12-12 § 161 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+| Riktlinjer för fettavskiljare i Kungsbacka kommun | KF 2023-12-14 § 194 |
+| Taxa för låst cykelparkering i Kungsbacka | KF 2024-10-08 § 121 |
+| Parkeringsavgifter och felparkeringsavgifter, taxa | 2025-10-07, § 198 |
 
 <!-- sida 33 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Färdtjänst; Riksfärdtjänst, tillämpningsregler    KF 2019-12-10 § 182
-
-Lokala avfallsföreskrifter                        2025-12-11, § 244
-Bredbandsnät, taxa 2026                           2025-10-07, § 197
-Trafikförsörjningsprogram                         KF 2024-12-12 § 161
-
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-Riktlinjer för fettavskiljare i Kungsbacka kommun KF 2023-12-14 § 194
-Taxa för låst cykelparkering i Kungsbacka         KF 2024-10-08 § 121
-Parkeringsavgifter och felparkeringsavgifter, taxa 2025-10-07, § 198
 
 10.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 10.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
 
 10.1.4 Styrdokument beslutade av nämnden för Teknik
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestlista Teknik                                TE oktober 2024
-
 31
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 33-2](handlingar.tabeller/33-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
+
+[Tabell 33-34-3](handlingar.tabeller/33-34-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestlista Teknik | TE oktober 2024 |
+| Delegeringsförteckning nämnden för Teknik | TE 2026-08-19 § 82 |
+| Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för<br>anslutning till Kungsbackas reningsverk | TEN § 6/05 |
+| Vattenförsörjningsplan | TE 2015-08-19 § 64 |
+| Slamstrategi | TE 2025-05-14 § 57 |
+| Kungsbackas gång- och cykelstrategi | TE 2017-05-17, § 63 |
+| Dokumenthanteringsplan, Kommungemensamma ledningsprocesser | TE 2020-09-16 § 85 |
+| Riktlinjer för anslutning utanför verksamhetsområde för VA | TE 2023-10-18 § 101 |
+| Dokumenthanteringsplan kärnprocesser | TE 2020-09-16 § 84 |
+| Riktlinjer för Kungsbacka bredbandsnät | TE 2018-12-12 § 136 |
+| Riktlinjer för foodtrucks och matvagnar | TE 2021-04-21 § 45 |
+| Arkivbeskrivning | TE 2021-06-16 § 77 |
+| Riktlinjer gällande ledamöters utbildning och planeringsdag | TE 2021-06-16 § 78 |
+| Riktlinjer för prioritering av förnyelse av VA-ledningsnät | TE 2021-10-20 § 97 |
+| Dokumenthanteringsplan, kommungemensamma stödprocesser | TE 2022-02-23 § 21 |
+| Målbild och riktlinjer för tillgängliga utomhusmiljöer | TE 2022-06-22 § 68 |
+| Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst | TE 2025-12-17 § 139 |
+| Vägbidrag, bidragsnivåer | TE 2023-11-15 § 129 |
+| Kungsbackas gång- och cykelplan | TE 2022-11-16 § 121 |
+| Regelverk för vägbidrag | TE-2026-05-13 § 56 |
+| Åtgärdsplan för lekplatser 2023-2028 | TE-2023-03-22 § 33 - TE-<br>2026-06-17 § 69 |
 
 <!-- sida 34 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning nämnden för Teknik         TE 2026-08-19 § 82
 
-Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för
-TEN § 6/05
-anslutning till Kungsbackas reningsverk
-Vattenförsörjningsplan                            TE 2015-08-19 § 64
-Slamstrategi                                      TE 2025-05-14 § 57
-Kungsbackas gång- och cykelstrategi               TE 2017-05-17, § 63
-Dokumenthanteringsplan, Kommungemensamma ledningsprocesser TE 2020-09-16 § 85
-Riktlinjer för anslutning utanför verksamhetsområde för VA TE 2023-10-18 § 101
-
-Dokumenthanteringsplan kärnprocesser              TE 2020-09-16 § 84
-Riktlinjer för Kungsbacka bredbandsnät            TE 2018-12-12 § 136
-Riktlinjer för foodtrucks och matvagnar           TE 2021-04-21 § 45
-
-Arkivbeskrivning                                  TE 2021-06-16 § 77
-Riktlinjer gällande ledamöters utbildning och planeringsdag TE 2021-06-16 § 78
-Riktlinjer för prioritering av förnyelse av VA-ledningsnät TE 2021-10-20 § 97
-
-Dokumenthanteringsplan, kommungemensamma stödprocesser TE 2022-02-23 § 21
-Målbild och riktlinjer för tillgängliga utomhusmiljöer TE 2022-06-22 § 68
-Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst TE 2025-12-17 § 139
-
-Vägbidrag, bidragsnivåer                          TE 2023-11-15 § 129
-Kungsbackas gång- och cykelplan                   TE 2022-11-16 § 121
-Regelverk för vägbidrag                           TE-2026-05-13 § 56
-
-TE-2023-03-22 § 33 - TE-
-Åtgärdsplan för lekplatser 2023-2028
-2026-06-17 § 69
 10.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Offentlig plats, taxa för begagnande                   KF § 95/97
-
-Färdtjänst, taxa                                    KF 2024-04-09 § 58
-Boendeparkering, regler och taxa                    KF 2024-02-06 § 12
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Avfall taxa 2026                                    2025-11-04, § 223
-Vatten och avlopp, taxa 2026                        2025-12-11, § 242
-Bredbandsnät, taxa 2026                             2025-10-07, § 197
-
-Parkeringsavgifter och felparkeringsavgifter, taxa  2025-10-07, § 198
-
 32
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Offentlig plats, taxa för begagnande | KF § 95/97 |
+| Färdtjänst, taxa | KF 2024-04-09 § 58 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Avfall taxa 2026 | 2025-11-04, § 223 |
+| Vatten och avlopp, taxa 2026 | 2025-12-11, § 242 |
+| Bredbandsnät, taxa 2026 | 2025-10-07, § 197 |
+| Parkeringsavgifter och felparkeringsavgifter, taxa | 2025-10-07, § 198 |
 
 <!-- sida 35 -->
 

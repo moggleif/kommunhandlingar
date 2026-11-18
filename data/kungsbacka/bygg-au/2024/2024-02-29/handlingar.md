@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.8bcd94c18d8729c25b2f612/17086918247
 sha256: 16798bae30d3b1647a729de2ca23fc51d7a4700bfcda118a842cae9d1b036ddd
 bytes: 796352
 sidor: 25
-hamtad: 2026-11-08T10:12:00+00:00
-konverterad: 2026-11-08T10:12:07+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:46:29+00:00
+konverterad: 2026-11-18T00:46:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 12, 16, 18]
 tolkade: []
@@ -543,8 +543,6 @@ anledningen görs beräkningarna i denna plan utifrån heltidstjänster.
 Inventering av byggnadsnämndens diarium
 I december 2023 fanns det i byggnadsnämndens diarium 545 öppna tillsynsärenden.
 
-2023 185           20             125            40
-
 Byggnadsnämndens tillsynsplan 2024-2027 Sida 10
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
@@ -578,6 +576,7 @@ Byggnadsnämndens tillsynsplan 2024-2027 Sida 10
 | 2020 | 222 | 182 | 0 | 40 |
 | 2021 | 241 | 197 | 0 | 44 |
 | 2022 | 239 | 78 | 112 | 49 |
+| 2023 | 185 | 20 | 125 | 40 |
 
 <!-- sida 12 -->
 

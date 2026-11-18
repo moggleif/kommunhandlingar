@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7d495738199c8fe75281b0dc/1760095325
 sha256: d5b496b9df24682123bd92be27f8cd0c1ee35ac101ed972de4317d2a5ee9e5a2
 bytes: 11756247
 sidor: 190
-hamtad: 2026-11-08T07:51:47+00:00
-konverterad: 2026-11-08T07:52:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:45:25+00:00
+konverterad: 2026-11-17T22:46:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [114, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184]
 figurer: [7, 22, 28, 31, 34, 37, 40, 43, 46, 49, 52, 55, 114, 115, 116, 117, 163, 164, 165, 166, 167, 169, 170, 173, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184]
 tolkade: []
@@ -3494,52 +3494,36 @@ som arbetsmiljö och trivsel, för att kunna bli mer attraktiva som arbetsgivare
 
 7.2 Personalmått
 
-Nyckeltal          Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026
-Andel heltid       93 %      93,5 %        92,1 %
-
-Antal medarbetare per
-18,6      21,5           19,4
-enhetschef
-
 19
 
-[Tabell 76-1](handlingar.tabeller/76-1.csv)
+[Tabell 76-77-1](handlingar.tabeller/76-77-1.csv)
 
-| Sjukfrånvaro Totalt | 5,8 % | 5,1 % | 4,4 % |
-| --- | --- | --- | --- |
-| Sjukfrånvaro Kvinnor | 7,3 % | 6,5 % | 5,3 % |
-| Sjukfrånvaro Män | 3,2 % | 2,3 % | 2,7 % |
+| Nyckeltal | Utfall 2022 | Utfall 2023 | Utfall 2024 | Budget 2025 | Budget 2026 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 93 % | 93,5 % | 92,1 % |  |  |
+| Antal medarbetare per<br>enhetschef | 18,6 | 21,5 | 19,4 |  |  |
+| Sjukfrånvaro Totalt | 5,8 % | 5,1 % | 4,4 % |  |  |
+| Sjukfrånvaro Kvinnor | 7,3 % | 6,5 % | 5,3 % |  |  |
+| Sjukfrånvaro Män | 3,2 % | 2,3 % | 2,7 % |  |  |
+| Långtidssjukfrånvaro | 3,8 % | 3,2 % | 2,7 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 5 % | 4,4 % | 3,4 % |  |  |
+| Långtidssjukfrånvaro Män | 1,6 % | 0,9 % | 1,3 % |  |  |
+| Anställda totalt | 509 | 498 | 493 |  |  |
+| Anställda andel kvinnor | 64,6 % | 64,9 % | 65,3 % |  |  |
+| Anställda andel män | 35,4 % | 35,1 % | 34,7 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,2 % | 2,1 % | 2 % |  |  |
+| Korttidssjukfrånvaro Män | 1,6 % | 1,5 % | 1,4 % |  |  |
+| Korttidssjukfrånvaro | 2 % | 1,9 % | 1,8 % |  |  |
+| Personalomsättning | 13,7 % | 9,5 % | 5,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 58,2 % | 55,6 % | 52,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 62,3 % | 62,5 % | 57,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 41,8 % | 19,6 % | 34,3 % |  |  |
+| Medelålder | 47 | 47 | 48 |  |  |
 
 <!-- sida 77 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
-
-Nyckeltal          Utfall 2022 Utfall 2023 Utfall 2024 Budget 2025 Budget 2026
-Långtidssjukfrånvaro 3,8 %   3,2 %         2,7 %
-
-Långtidssjukfrånvaro Kvinnor 5 % 4,4 %     3,4 %
-Långtidssjukfrånvaro Män 1,6 % 0,9 %       1,3 %
-Anställda totalt   509       498             493
-
-Anställda andel kvinnor 64,6 % 64,9 %      65,3 %
-Anställda andel män 35,4 %   35,1 %        34,7 %
-Korttidssjukfrånvaro Kvinnor 2,2 % 2,1 %     2 %
-
-Korttidssjukfrånvaro Män 1,6 % 1,5 %       1,4 %
-Korttidssjukfrånvaro 2 %     1,9 %         1,8 %
-
-Personalomsättning 13,7 %    9,5 %         5,9 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 58,2 % 55,6 %  52,9 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 62,3 % 62,5 %  57,9 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 41,8 % 19,6 %  34,3 %
-mer Män
-Medelålder         47        47              48
 
 7.3 Arbetsmiljö
 
@@ -3759,127 +3743,108 @@ Nämndbudget 2026
 
 9.1 Policys, planer och program
 
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 9.1.1 Styrdokument beslutade av kommunfullmäktige
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                    KF 2015-03-10 § 30
-Barnets rätt                                         KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-
-Vision 2030                                         KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                      KF 2021-04-13 § 68
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Inköp, policy                                      KF § 2021-03-09 § 30
-Lokaler och internhyra                              KF 2014-11-11 § 153
-Internationell policy                              KF § 2021-11-09 § 139
-
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Reglemente för nämnden för Gymnasium & Arbetsmarknad KF 2018-06-14 § 110
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
 
 25
+
+[Tabell 82-1](handlingar.tabeller/82-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 82-83-2](handlingar.tabeller/82-83-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Gymnasium & Arbetsmarknad | KF 2018-06-14 § 110 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
 
 <!-- sida 83 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-
-Inköp, riktlinjer                                   KF 2021-03-09 § 30
-Personalföreträdare i nämnder                       KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                         KF 2024-03-05 § 33
-
 9.1.2 Styrdokument beslutade av nämnden för Gymnasium & Arbetsmarknad
 
-Styrdokument                                      Beslutande paragraf/År
-
-Delegeringsförteckning                                 §83/2025
-Samverkansavtal för vuxnas lärande inom Göteborgsregionen §3/2024
-Lokalbehov 2024-2028                                   §118/2023
-
-Systematiskt arbetsmiljöarbete, 2019-02-26              § 92/02
-Drogpolicy skolor                                       § 15/09
-
-Strategi för internationalisering inom förvaltningen för Gymnasie &
-§ 66/14
-Vuxenutbildning
-Policy för elevers kostnader                           § 21/2017
-Informationshanteringsplan                             §48/2024
-Sponsringspolicy                                        § 60/12
-Vägledande riktlinjer för ekonomiskt bistånd och försörjningsstöd § 21/2023
-Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -
-§ 67/2022
-2026/2027
-Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –
-§ 68/2022
-2026/2027
-Samverkansavtal för särskild utbildning för vuxna      §108/2020
 9.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                           KS 2023-02-21 § 32
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-
 26
+
+[Tabell 83-1](handlingar.tabeller/83-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | §83/2025 |
+| Samverkansavtal för vuxnas lärande inom Göteborgsregionen | §3/2024 |
+| Lokalbehov 2024-2028 | §118/2023 |
+| Systematiskt arbetsmiljöarbete, 2019-02-26 | § 92/02 |
+| Drogpolicy skolor | § 15/09 |
+| Strategi för internationalisering inom förvaltningen för Gymnasie &<br>Vuxenutbildning | § 66/14 |
+| Policy för elevers kostnader | § 21/2017 |
+| Informationshanteringsplan | §48/2024 |
+| Sponsringspolicy | § 60/12 |
+| Vägledande riktlinjer för ekonomiskt bistånd och försörjningsstöd | § 21/2023 |
+| Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -<br>2026/2027 | § 67/2022 |
+| Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –<br>2026/2027 | § 68/2022 |
+| Samverkansavtal för särskild utbildning för vuxna | §108/2020 |
+
+[Tabell 83-84-2](handlingar.tabeller/83-84-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Fakturering och kravhantering, regler | KS 2024-03-19 § 90 |
 
 <!-- sida 84 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                      Beslutande paragraf/År
-Fakturering och kravhantering, regler               KS 2024-03-19 § 90
-
 9.2 Taxa
 
 9.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 27
+
+[Tabell 84-1](handlingar.tabeller/84-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 85 -->
 
@@ -4773,56 +4738,39 @@ som arbetsmiljö och trivsel, för att kunna bli mer attraktiva som arbetsgivare
 
 7.2 Personalmått
 
-Utfall  Utfall Utfall Budget   Budget
-Nyckeltal
-2022    2023   2024   2025     2026
-Andel heltid                 93 %    93,5 %   92,1 %
-Antal medarbetare per enhetschef 18,6 21,5     19,4
-
-```osaker-tabell
-Sjukfrånvaro Totalt          5,8 %   5,1 %    4,4 %
-Sjukfrånvaro Kvinnor         7,3 %   6,5 %    5,3 %
-
-Sjukfrånvaro Män             3,2 %   2,3 %    2,7 %
-```
-
 21
+
+[Tabell 105-106-1](handlingar.tabeller/105-106-1.csv)
+
+| Nyckeltal | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Budget<br>2025 | Budget<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 93 % | 93,5 % | 92,1 % |  |  |
+| Antal medarbetare per enhetschef | 18,6 | 21,5 | 19,4 |  |  |
+| Sjukfrånvaro Totalt | 5,8 % | 5,1 % | 4,4 % |  |  |
+| Sjukfrånvaro Kvinnor | 7,3 % | 6,5 % | 5,3 % |  |  |
+| Sjukfrånvaro Män | 3,2 % | 2,3 % | 2,7 % |  |  |
+| Långtidssjukfrånvaro | 3,8 % | 3,2 % | 2,7 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 5 % | 4,4 % | 3,4 % |  |  |
+| Långtidssjukfrånvaro Män | 1,6 % | 0,9 % | 1,3 % |  |  |
+| Anställda totalt | 509 | 498 | 493 |  |  |
+| Anställda andel kvinnor | 64,6 % | 64,9 % | 65,3 % |  |  |
+| Anställda andel män | 35,4 % | 35,1 % | 34,7 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 2,2 % | 2,1 % | 2 % |  |  |
+| Korttidssjukfrånvaro Män | 1,6 % | 1,5 % | 1,4 % |  |  |
+| Korttidssjukfrånvaro | 2 % | 1,9 % | 1,8 % |  |  |
+| Personalomsättning | 13,7 % | 9,5 % | 5,9 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer | 58,2 % | 55,6 % | 52,9 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Kvinnor | 62,3 % | 62,5 % | 57,9 % |  |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Män | 41,8 % | 19,6 % | 34,3 % |  |  |
+| Medelålder | 47 | 47 | 48 |  |  |
 
 <!-- sida 106 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
 
-Utfall  Utfall Utfall Budget   Budget
-Nyckeltal
-
-```osaker-tabell
-                             2022    2023   2024   2025     2026
-Långtidssjukfrånvaro         3,8 %   3,2 %    2,7 %
-Långtidssjukfrånvaro Kvinnor 5 %     4,4 %    3,4 %
-Långtidssjukfrånvaro Män     1,6 %   0,9 %    1,3 %
-Anställda totalt             509     498        493
-
-Anställda andel kvinnor      64,6 %  64,9 %   65,3 %
-Anställda andel män          35,4 %  35,1 %   34,7 %
-Korttidssjukfrånvaro Kvinnor 2,2 %   2,1 %     2 %
-
-Korttidssjukfrånvaro Män     1,6 %   1,5 %    1,4 %
-Korttidssjukfrånvaro         2 %     1,9 %    1,8 %
-Personalomsättning           13,7 %  9,5 %    5,9 %
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-58,2 %  55,6 %   52,9 %
-eller mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-62,3 %  62,5 %   57,9 %
-eller mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-41,8 %  19,6 %   34,3 %
-eller mer Män
-Medelålder                   47      47         48
 7.3 Arbetsmiljö
+
 Inom Gymnasium & Arbetsmarknad görs årligen en uppföljning av det systematiska arbetsmiljöarbetet (SAM) i
 förvaltningen. Syftet med uppföljningen är dels att undersöka om organisationen har ändamålsenliga rutiner och
 arbetar efter dem, dels att få indikationer på områden/rutiner som behöver förbättras.
@@ -5039,107 +4987,91 @@ Nämndbudget 2026
 
 9.1 Policys, planer och program
 
-Styrdokument                                 Beslutande paragraf/År
-Kommundirektör Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Digitaliseringschef Iwona Carlsson 2024-12-
-AI, Artificiell Intelligens, regler
-02
-Publicering av bilder, filmer och ljudupptagningar som utgör Kommunikationschef Annika Jardin 2024-06-
-personuppgifter                                     01
 9.1.1 Styrdokument beslutade av kommunfullmäktige
-Styrdokument                                       Beslutande paragraf/År
-
-Attestreglemente                                     KF 2015-03-10 § 30
-Barnets rätt                                          KF 2014-11-11 §
-
-Konkurrensprövning                                   KF 2011-02-01 § 8
-Vision 2030                                          KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                       KF 2021-04-13 § 68
-Kulturpolitiskt program för Kungsbacka kommun          KF § 167/12
-Inköp, policy                                       KF § 2021-03-09 § 30
-Lokaler och internhyra                              KF 2014-11-11 § 153
-
-Internationell policy                               KF § 2021-11-09 § 139
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Reglemente för nämnden för Gymnasium & Arbetsmarknad KF 2018-06-14 § 110
-Lokala ordningsföreskrifter                          KF 2020-02-04 § 8
-Ekonomichef 2015-04-
-Attestreglemente - tillämpningsanvisningar
-01
-Klimatstrategi                                       KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                     KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer                KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                    KF 2019-06-11 § 86
 
 27
+
+[Tabell 111-1](handlingar.tabeller/111-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Tjänsteresor, regler | Kommundirektör Ann-Charlotte Järnström<br>2019-08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona Carlsson 2024-12-<br>02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör<br>personuppgifter | Kommunikationschef Annika Jardin 2024-06-<br>01 |
+
+[Tabell 111-112-2](handlingar.tabeller/111-112-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Inköp, policy | KF § 2021-03-09 § 30 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Gymnasium & Arbetsmarknad | KF 2018-06-14 § 110 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-<br>01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2021-03-09 § 30 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
 
 <!-- sida 112 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2026
 
-Styrdokument                                       Beslutande paragraf/År
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-
-Inköp, riktlinjer                                    KF 2021-03-09 § 30
-Personalföreträdare i nämnder                        KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                          KF 2024-03-05 § 33
-
 9.1.2 Styrdokument beslutade av nämnden för Gymnasium & Arbetsmarknad
 
-Beslutande
-Styrdokument
-paragraf/År
-Delegeringsförteckning                                  §83/2025
-Samverkansavtal för vuxnas lärande inom Göteborgsregionen §3/2024
-Lokalbehov 2024-2028                                    §118/2023
-
-Systematiskt arbetsmiljöarbete, 2019-02-26               § 92/02
-Drogpolicy skolor                                        § 15/09
-Strategi för internationalisering inom förvaltningen för Gymnasie & Vuxenutbildning § 66/14
-
-Policy för elevers kostnader                            § 21/2017
-Informationshanteringsplan                              §48/2024
-
-Sponsringspolicy                                         § 60/12
-Vägledande riktlinjer för ekonomiskt bistånd            § 107/2025
-Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -2026/2027 § 67/2022
-
-Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –
-§ 68/2022
-2026/2027
-Samverkansavtal för särskild utbildning för vuxna       §108/2020
 9.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                        Beslutande paragraf/År
-Styrande dokument, riktlinjer        KS 2023-10-10 § 156
-
-Integration, riktlinjer              KS 2019-11-26 § 275
-Personuppgifter - riktlinjer         KS 2024-03-05 § 33
-
-Informationssäkerhet, riktlinjer     KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                            KS 2023-02-21 § 32
-
-Varumärkesarkitektur och särprofilering Kommundirektören 2021-12-01
-Visselblåsarfunktionen, regler    Kommundirektören 2022-11-09
-
-Fakturering och kravhantering, regler KS 2024-03-19 § 90
-
 28
+
+[Tabell 112-1](handlingar.tabeller/112-1.csv)
+
+| Styrdokument | Beslutande<br>paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | §83/2025 |
+| Samverkansavtal för vuxnas lärande inom Göteborgsregionen | §3/2024 |
+| Lokalbehov 2024-2028 | §118/2023 |
+| Systematiskt arbetsmiljöarbete, 2019-02-26 | § 92/02 |
+| Drogpolicy skolor | § 15/09 |
+| Strategi för internationalisering inom förvaltningen för Gymnasie & Vuxenutbildning | § 66/14 |
+| Policy för elevers kostnader | § 21/2017 |
+| Informationshanteringsplan | §48/2024 |
+| Sponsringspolicy | § 60/12 |
+| Vägledande riktlinjer för ekonomiskt bistånd | § 107/2025 |
+| Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -2026/2027 | § 67/2022 |
+| Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –<br>2026/2027 | § 68/2022 |
+| Samverkansavtal för särskild utbildning för vuxna | §108/2020 |
+
+[Tabell 112-2](handlingar.tabeller/112-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-11-09 |
+| Fakturering och kravhantering, regler | KS 2024-03-19 § 90 |
 
 <!-- sida 113 -->
 
@@ -5150,10 +5082,13 @@ Nämndbudget 2026
 
 9.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument        Beslutande paragraf/År
-Allmän handling, taxa för kopior KF 2021-04-13 § 65
-
 29
+
+[Tabell 113-1](handlingar.tabeller/113-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 114 -->
 

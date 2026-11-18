@@ -1,21 +1,19 @@
-Risker,Enhet Granskningsaktiviteter,Åtgärder
+Risker,Enhet,Granskningsaktiviteter,Åtgärder
 "Kommunövergripande
 risk: Bristande följsamhet
 till inköpsprocessen;
 direktupphandling
 respektive
-avtalsuppföljning","Avtalsuppföljning enligt
-Service
+avtalsuppföljning",Service,"Avtalsuppföljning enligt
 gällande styrdokument","Påminn om utbildningar
 om avtalshantering"
-,"Uppföljning av
-Service direktupphandlingar
+,Service,"Uppföljning av
+direktupphandlingar
 (köpnivå 4–5)",Behov av ramavtal
-,,"Informera om regler och
+,,,"Informera om regler och
 befintliga utbildningar"
-,"Granskning av köp över
+,Service,"Granskning av köp över
 direktupphandlingsnivån
-Service
 (köpnivå 6) utanför
 regelverket","Förtydligande av avrop
 mot till exempel Adda"

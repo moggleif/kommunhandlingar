@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.b7a004018f378e8f28e32d/171517970388
 sha256: 2bdf901fe88ebd491917b1a05e2c719c89919ae1cbd65bcd599855373a35caa0
 bytes: 10895562
 sidor: 277
-hamtad: 2026-11-08T07:38:42+00:00
-konverterad: 2026-11-08T07:39:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:34:45+00:00
+konverterad: 2026-11-17T22:35:39+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom]
@@ -4420,7 +4420,13 @@ FÖRVALTNINGSBERÄTTELSE
 EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 
 Fokusområden                                              Trend
+
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. -
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. →
 
 Måluppfyllelse
 
@@ -4460,11 +4466,6 @@ skapa lugn för eleverna har varit att skapa strukturer
 genom att ha tydliga ordningsregler och förhållningssätt
 på skolan.
 
-Björkris vård- och
-omsorgsboende.
-
-32 Kungsbacka kommuns årsredovisning 2023
-
 Kommunen har tillsammans med polisen gjort särskilda
 satsningar runt Särö, då detta område under en längre tid
 haft problem. Tillsammans har vi infört brottspreventiva
@@ -4495,12 +4496,10 @@ hur man ska bete sig vid en kärnkraftsolycka. Gymna-
 sieskolorna har övat inrymning i händelse av en allvarlig
 händelse på skolan, och uppdaterat säkerhetsrutiner.
 
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
+Björkris vård- och
+omsorgsboende.
 
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | → |
+32 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 100 -->
 
@@ -4566,6 +4565,12 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       —
 
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar
+→
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    —
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      ←
+
 Måluppfyllelse
 
 Kommunen har en viktig roll för hållbar utveckling men
@@ -4605,8 +4610,6 @@ I markanvisningen för kvarteret Ejdern arbetar vi fram
 riktlinjer för hållbarhet som kommer att ingå i riktlin-
 jerna för markanvisning och exploateringsavtal.
 
-34 Kungsbacka kommuns årsredovisning 2023
-
 Resor
 Vi har byggt färdigt två kilometer cykelväg vid Släps
 kyrka och förutom en sträcka på 200 meter kan man
@@ -4642,12 +4645,7 @@ processer och att arbeta kunskapsbaserat och systematiskt
 för att motverka studieavbrott. Under året har vi arbetat
 med kartläggning och analys.
 
-[Tabell 101-1](handlingar.tabeller/101-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | — |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | ← |
+34 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 102 -->
 
@@ -5027,6 +5025,14 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
 
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. →
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+→
+ledare.
+
 Måluppfyllelse
 
 Målet är ännu inte uppnått, men vi testar oss fram och tar
@@ -5067,8 +5073,6 @@ I Kungsbacka live på Kungsmässan möter vi numera
 invånarna för samtal om viktiga frågor och möjliggör
 samarbete och medskapande. Det har varit 78 olika event
 med olika teman under året.
-
-40 Kungsbacka kommuns årsredovisning 2023
 
 Vi har genomfört en invånardialog på nytt sätt med hjälp
 av ett digitalt kartverktyg i arbetet med den fördjupade
@@ -5113,12 +5117,7 @@ fört aktiviteter på Kungsbacka Live. Chefspoolen är en ny
 satsning där våra verksamheter får möjlighet att ta in en
 chef med kort varsel för tillfälliga uppdrag.
 
-[Tabell 107-1](handlingar.tabeller/107-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. | → |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | → |
+40 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 108 -->
 
@@ -6768,8 +6767,8 @@ NOTER TILL                              NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
 Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga
 externa hyresavtal samt koncerninterna hyresavtal. externa hyresavtal samt koncerninterna hyresavtal.
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2022 2023 2022 2023 belopp i miljoner kronor 2022 2023 2022 2023
+ernen                      Kommunen   Koncernen
+belopp i miljoner kronor           2023 belopp i miljoner kronor 2022 2023 2022 2023
 Övriga upplysningar (Not 21)            Avsättningar för bidrag till
 statlig infrastruktur
 Kungsbacka kommun redovisar pensionsåtagandet enligt fullfonderingsmo-
@@ -6845,6 +6844,13 @@ Summa avsättning för 195,1 301,3 195,1 301,3
 64 Kungsbacka kommuns årsredovisning 2023
 
 [Tabell 131-1](handlingar.tabeller/131-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2022 | 2023 | 2022 |
+|  |  |  |
+
+[Tabell 131-2](handlingar.tabeller/131-2.csv)
 
 | början | 0,0 |  | 0,0 | 0,0 |
 | --- | --- | --- | --- | --- |

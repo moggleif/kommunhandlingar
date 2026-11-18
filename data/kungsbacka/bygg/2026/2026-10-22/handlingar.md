@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.19326c8b1a1302ccbfb7b783/1792140041
 sha256: c2b3d9bfd73480c292030bc0e32fb49bb6d86ff90a7dad0f1289bd93622a6c4f
 bytes: 63956656
 sidor: 656
-hamtad: 2026-11-08T09:50:48+00:00
-konverterad: 2026-11-08T09:58:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T00:27:33+00:00
+konverterad: 2026-11-18T00:33:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [150, 332, 356, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 454, 455, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 564, 565, 566, 567, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648]
 figurer: [16, 63, 159, 160, 161, 164, 169, 170, 171, 181, 188, 190, 191, 193, 194, 195, 199, 200, 203, 204, 205, 206, 207, 209, 210, 246, 293, 298, 312, 313, 314, 318, 329, 332, 333, 335, 338, 339, 344, 346, 348, 350, 356, 357, 358, 359, 362, 365, 366, 367, 368, 375, 377, 378, 379, 380, 381, 399, 405, 407, 409, 410, 411, 412, 416, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 433, 435, 437, 438, 439, 441, 442, 444, 447, 448, 449, 450, 451, 452, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 493, 497, 498, 499, 500, 504, 506, 509, 510, 511, 512, 517, 518, 519, 520, 521, 523, 529, 533, 534, 543, 544, 563, 568, 596, 597, 629, 649]
 tolkade: []
@@ -20544,9 +20544,12 @@ skötselmaskiner inte kan tillträda vegetationsytan längs vägen som är träd
 | Torrskorpelera | 20 | 30 | 0,1𝒄<br>𝒖 | 18 |
 | Lera 1 | 13 | 30 | 0,1𝒄<br>𝒖 | 16 |
 | Gyttja | 13 | 30 | 0,1𝒄<br>𝒖 | 14 |
-| Lera 2 | 13+0,4\*z där z är 0<br>på nivå -5 | 30 | 0,1𝒄<br>𝒖 | 16 |
-| Lera 3 | 15+1,5\*z där z är 0<br>på nivå -10 | 30 | 0,1𝒄<br>𝒖 | 16 |
-| Lera 4 | 18+1,3\*z där z är 0<br>på nivå -12 | 30 | 0,1𝒄<br>𝒖 | 16 |
+| Lera 2 | 13+0,4\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -5 |  |  |  |
+| Lera 3 | 15+1,5\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -10 |  |  |  |
+| Lera 4 | 18+1,3\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -12 |  |  |  |
 
 <!-- sida 414 -->
 
@@ -21458,23 +21461,37 @@ Handläggare:        Elham Sokhango
 
 Sydöstra centrum E1, Söderå fördjupad stabilitetsutredning 107 47 61 PM Geoteknik
 
-2.1   2026-06-09 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-2.0   2025-10-07 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
+2.1
 
-1.2   2023-02-10 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.1   2021-11-22 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.0   2021-10-11 Färdig handling        Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+2.0
+
+1.2
+
+1.1
+
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 | Sida 2 av 22
+
+[Tabell 433-1](handlingar.tabeller/433-1.csv)
+
+| 2026-06-09 | Reviderad handling | Elham | Katarina | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2025-10-07 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2023-02-10 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-11-22 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-10-11 | Färdig handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 434 -->
 
@@ -29785,7 +29802,6 @@ På regeringens vägnar
 
 Per Bolund
 ,
-Koge UN
 Roger Lind
 Kopia till
 Statsrådsberedningen/SAM
@@ -29878,13 +29894,10 @@ Ted Kransby
 Sie
 a
 
-Va
-
 Handlingen är signerad digitalt och har därför ingen namnunderskrift.
 
 <!-- sida 628 -->
 
-TRA äg
 (el öl LÄNSSTYRELSEN
 SN
 
@@ -30197,7 +30210,6 @@ R BESLUT 316)
 Länsstyrelsen
 Skåne 2017-12-14 Dnr 404-28629-17
 90-B-0352
-Brisyglg
 
 hd = RR RERNRNER
 
@@ -30477,7 +30489,7 @@ att topografin enligt planhandlingarna i minsta möjliga mån ska förändras f�
 bibehålla de naturliga förhållandena blir den reella ytan/volymen för
 dagvattenhantering liten. Den effektiva ytan bedöms snarare vara runt 150 m?, Den
 teoretiska infiltrationshastigheten i finsand (utan motstånd i form av organiskt
-material vid ytan) är 0,00001 m/s ?, Om hela ytan på 1191 m? beräknas kunna
+material vid ytan) är 0,00001 m/s , Om hela ytan på 1191 m? beräknas kunna
 användas kan området infiltrera ca 12 1/s, Vid ett 10-årsregn genereras efter
 exploatering ca 21 1/s inom området, Detta gör att området teoretiskt översväramas
 med 91/s eller ca 6 m? vid en varaktighet på 10 min. Beroende på hur byggnader och
@@ -30541,7 +30553,7 @@ Hälsa och säkerhet
 Då den skyddande sandbanken kan förväntas erodera bort i framtiden blir
 planområdet mycket mer utsatt för risker i samband med höga havsnivåer, I ett
 framtida klimat beräknas havsnivån vid stormar och andra ogynnsamma
-väderförhållanden kunna generera havsnivåer mellan +3 och +3,5 meter 2), vilket
+väderförhållanden kunna generera havsnivåer mellan +3 och +3,5 meter 2). vilket
 stora delar av planområdet ligger lägre än, se Figur 6.1 och med att sandbanken
 
 = försvinner går översvämningsförloppen snabbare än om de som idag hade gått genom

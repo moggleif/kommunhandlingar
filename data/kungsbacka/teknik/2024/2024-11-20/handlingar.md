@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1932ec3d19329b835ff10e23/1731676769
 sha256: 2b2a641ea8f4ea20d37423e42c249cde7c21865f70e162c1293ea5e22377fa4a
 bytes: 11103009
 sidor: 148
-hamtad: 2026-11-08T10:54:53+00:00
-konverterad: 2026-11-08T10:55:42+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:25:33+00:00
+konverterad: 2026-11-18T01:26:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: [62, 63]
 figurer: [13, 41, 46, 57, 58, 59, 62, 63, 66, 71, 76, 81, 86, 91, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119]
 tolkade: []
@@ -702,12 +702,7 @@ lösningar
 • skapa ändamålsenliga tekniska förutsättningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
-Indikator                         Målsättning 2025
 
-Andel innovationsprojekt som drivits under året Öka
-Andel av bruttokostnaden som avsätts för
-Öka
-innovationsarbete och digitalisering
 6.1.2 Direktiv - Civil beredskap
 
 Beslutats av
@@ -723,6 +718,13 @@ bor i Kungsbacka har ansvar för den kommunala, och därmed också nationella, b
 är tydlig med att ansvaret ska ligga så nära där ansvaret finns i vardagen så i kommunen ska alla nämnder ha
 
 18
+
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Indikator | Målsättning 2025 |
+| --- | --- |
+| Andel innovationsprojekt som drivits under året | Öka |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | Öka |
 
 <!-- sida 19 -->
 
@@ -863,66 +865,45 @@ minska sårbarheten i tider av kris och en omvärld där krig tagit plats.
 
 8.2 Personalmått
 
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Andel heltid         97,9 %  98,3 %    98 %
-
-Andel män som har heltid 98,6 % 99,3 % 98,6 %
-Antal medarbetare per
-15,5   16,3      11,9
-enhetschef
-Medarbetare yngre än 30 år 7,9 % 7,7 % 8,4 %
-Medarbetare 30 - 39 år 20,2 % 22,4 %   21,6 %
-Medarbetare 40 - 49 år 27,8 % 26 %     23,2 %
-Medarbetare 50 - 59 år 27,4 % 27,2 %   28 %
-
 23
+
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 | Budget 2024 | Budget 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 97,9 % | 98,3 % | 98 % |  |  |
+| Andel män som har heltid | 98,6 % | 99,3 % | 98,6 % |  |  |
+| Antal medarbetare per<br>enhetschef | 15,5 | 16,3 | 11,9 |  |  |
+| Medarbetare yngre än 30 år | 7,9 % | 7,7 % | 8,4 % |  |  |
+| Medarbetare 30 - 39 år | 20,2 % | 22,4 % | 21,6 % |  |  |
+| Medarbetare 40 - 49 år | 27,8 % | 26 % | 23,2 % |  |  |
+| Medarbetare 50 - 59 år | 27,4 % | 27,2 % | 28 % |  |  |
+| Medarbetare 60 år och äldre | 16,7 % | 16,7 % | 18,8 % |  |  |
+| Sjukfrånvaro Totalt | 5 % | 5,1 % | 4,1 % |  |  |
+| Sjukfrånvaro Kvinnor | 3,2 % | 4,8 % | 4,5 % |  |  |
+| Sjukfrånvaro Män | 6 % | 5,3 % | 3,9 % |  |  |
+| Korttidssjukfrånvaro | 2,4 % | 3 % | 2,7 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 1,9 % | 2,9 % | 2,8 % |  |  |
+| Korttidssjukfrånvaro Män | 2,8 % | 3,1 % | 2,7 % |  |  |
+| Långtidssjukfrånvaro | 2,5 % | 2,1 % | 1,4 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 1,4 % | 1,8 % | 1,7 % |  |  |
+| Långtidssjukfrånvaro Män | 3,3 % | 2,3 % | 1,2 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 33,9 % | 18,2 % | 21,7 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 34,6 % | 33,4 % | 16,6 % |  |  |
+| Anställda totalt | 252 | 246 | 250 |  |  |
+| Anställda andel kvinnor | 40,1 % | 39,8 % | 41,6 % |  |  |
+| Anställda andel män | 59,9 % | 60,2 % | 58,4 % |  |  |
+| Frisknärvaro | 60,5 % | 50 % | 55,5 % |  |  |
+| Frisknärvaro Kvinnor | 65,1 % | 53,9 % | 56,3 % |  |  |
+| Frisknärvaro Män | 57,7 % | 47,4 % | 54,9 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 34,4 % | 27,8 % | 18,9 % |  |  |
+| Medelålder | 47 | 47 | 47 |  |  |
+| Personalomsättning | 8 % | 15,2 % | 9,1 % |  |  |
 
 <!-- sida 24 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2025
-
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Medarbetare 60 år och äldre 16,7 % 16,7 % 18,8 %
-
-```osaker-tabell
-Sjukfrånvaro Totalt   5 %    5,1 %     4,1 %
-Sjukfrånvaro Kvinnor  3,2 %  4,8 %     4,5 %
-Sjukfrånvaro Män      6 %    5,3 %     3,9 %
-
-Korttidssjukfrånvaro  2,4 %  3 %       2,7 %
-```
-
-Korttidssjukfrånvaro Kvinnor 1,9 % 2,9 % 2,8 %
-Korttidssjukfrånvaro Män 2,8 % 3,1 %   2,7 %
-
-Långtidssjukfrånvaro  2,5 %  2,1 %     1,4 %
-Långtidssjukfrånvaro Kvinnor 1,4 % 1,8 % 1,7 %
-
-Långtidssjukfrånvaro Män 3,3 % 2,3 %   1,2 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 33,9 % 18,2 % 21,7 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 34,6 % 33,4 % 16,6 %
-mer Män
-Anställda totalt      252    246       250
-
-Anställda andel kvinnor 40,1 % 39,8 %  41,6 %
-
-```osaker-tabell
-Anställda andel män  59,9 %  60,2 %    58,4 %
-Frisknärvaro         60,5 %  50 %      55,5 %
-
-Frisknärvaro Kvinnor 65,1 %  53,9 %    56,3 %
-Frisknärvaro Män     57,7 %  47,4 %    54,9 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 34,4 % 27,8 % 18,9 %
-mer
-Medelålder             47    47        47
-Personalomsättning    8 %    15,2 %    9,1 %
 
 Vi har inga styrande nyckeltal eller målvärden för 2025 och framåt för något av måtten ovan. Samtliga bedöms ligga på en rimlig nivå
 idag. Dock behöver vi vara uppmärksamma på om trender bryts och trender ssom t ex sjunkande sjukfrånvaro är önskvärd.
@@ -1277,99 +1258,78 @@ Nämndbudget 2025
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Fördjupad översiktsplan för Tjolöholm               KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad        KF § 2021-11-09 § 140
-Barnets rätt                                         KF 2014-11-11 §
-
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                     KF 2021-11-09 § 140
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Regler för arbete mot klotter och skadegörelse      KF 2013-04-16 § 58
-Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter KF 2024-05-07 § 82
-Dagvatten                                           KF 2023-06-14 § 77
-
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Vatten- och avloppsanläggning, allmänna bestämmelser för användande KF § 44/09
-Enskild väghållning, regler för bidrag                 KF § 17/94
-
-Vägbelysning, regler                                   KF § 61/90
-VA-saneringsprogram                                   KF § 105/08
-
-VA-verksamhetsområde 2023                           KF 2024-06-13 § 98
-Upphandling, policy                                KF § 2021-03-09 § 30
-Upphandling- tillämpningsanvisningar till policy      KF § 164/09
-
-Boendeparkering, regler och taxa                    KF 2024-02-06 § 12
-Lokaler och internhyra                              KF 2014-11-11 § 153
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Bredbandsnät, policy                                KF 2018-06-14 § 105
-Klimatstrategi                                      KF 2022-05-10 § 77
-
-Invånardialog                                       KF 2014-10-14 § 119
-
 32
+
+[Tabell 32-33-1](handlingar.tabeller/32-33-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2021-11-09 § 140 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Regler för arbete mot klotter och skadegörelse | KF 2013-04-16 § 58 |
+| Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter | KF 2024-05-07 § 82 |
+| Dagvatten | KF 2023-06-14 § 77 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Vatten- och avloppsanläggning, allmänna bestämmelser för användande | KF § 44/09 |
+| Enskild väghållning, regler för bidrag | KF § 17/94 |
+| Vägbelysning, regler | KF § 61/90 |
+| VA-saneringsprogram | KF § 105/08 |
+| VA-verksamhetsområde 2023 | KF 2024-06-13 § 98 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Upphandling- tillämpningsanvisningar till policy | KF § 164/09 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Bredbandsnät, policy | KF 2018-06-14 § 105 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| VA-utbyggnadsplan 2022-2032 | KF 2020-09-08 § 90 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för Teknik | KF 2021-04-13 § 67 |
+| Lokala avfallsföreskrifter | 2024-02-06 § 13 |
+| Trafikförsörjningsprogram | KF 2023-05-09 § 62 |
+| Riktlinjer för fettavskiljare i Kungsbacka kommun | KF 2023-12-14 § 194 |
+| Taxa för låst cykelparkering i Kungsbacka | KF 2024-10-08 § 121 |
+| Laddning vid Kungsbacka kommuns publika laddstolpar | KF 2024-03-05 § 35 |
+| Riktlinjer - Studiebesök för förtroendevalda i kommunens verksamheter | KF 2024-10-08 § 120 |
 
 <!-- sida 33 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                      Beslutande paragraf/År
-Privata utförare                                    KF 2024-04-09 § 60
-
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-VA-utbyggnadsplan 2022-2032                         KF 2020-09-08 § 90
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Reglemente för Teknik                               KF 2021-04-13 § 67
-Lokala avfallsföreskrifter                           2024-02-06 § 13
-Trafikförsörjningsprogram                           KF 2023-05-09 § 62
-
-Riktlinjer för fettavskiljare i Kungsbacka kommun   KF 2023-12-14 § 194
-Taxa för låst cykelparkering i Kungsbacka           KF 2024-10-08 § 121
-
-Laddning vid Kungsbacka kommuns publika laddstolpar KF 2024-03-05 § 35
-Riktlinjer - Studiebesök för förtroendevalda i kommunens verksamheter KF 2024-10-08 § 120
-
 10.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                           KS 2023-02-21 § 32
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Fakturering och kravhantering, regler               KS 2024-03-19 § 90
-
 33
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Fakturering och kravhantering, regler | KS 2024-03-19 § 90 |
 
 <!-- sida 34 -->
 
@@ -1378,38 +1338,32 @@ Nämndbudget 2025
 
 10.1.3 Styrdokument beslutade av nämnden för Teknik
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestlista Teknik                                   TE oktober 2024
-Delegeringsförteckning nämnden för Teknik           TE 2024-09-25 § 94
-
-Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för
-TEN § 6/05
-anslutning till Kungsbackas reningsverk
-Vattenförsörjningsplan                              TE 2015-08-19 § 64
-Slamstrategi, aktualisering                         TE 2018-05-16 § 57
-Kungsbackas gång- och cykelstrategi                 TE 2022-11-16 § 121
-Dokumenthanteringsplan, Kommungemensamma ledningsprocesser TE 2020-09-16 § 85
-Riktlinjer för anslutning utanför verksamhetsområde för VA TE 2023-10-18 § 101
-
-Dokumenthanteringsplan kärnprocesser                TE 2020-09-16 § 84
-Riktlinjer för lekplatsbidrag, särskilt vägbidrag och vägbidrag TE 2019-04-17 §§ 45,46
-
-Riktlinjer för Kungsbacka bredbandsnät              TE 2018-12-12 § 136
-Riktlinjer för foodtrucks och matvagnar             TE 2021-04-21 § 45
-Arkivbeskrivning                                    TE 2021-06-16 § 77
-
-Riktlinjer gällande ledamöters utbildning och planeringsdag TE 2021-06-16 § 78
-Riktlinjer för prioritering av förnyelse av VA-ledningsnät TE 2021-10-20 § 97
-Dokumenthanteringsplan, kommungemensamma stödprocesser TE 2022-02-23 § 21
-
-Målbild och riktlinjer för tillgängliga utomhusmiljöer TE 2022-06-22 § 68
-Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst TE 2024-01-17 § 9
-
-Vägbidrag, bidragsnivåer                            TE 2023-11-15 § 129
-Felparkeringsavgifter                               TE 2023-11-15 § 131
-
 34
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestlista Teknik | TE oktober 2024 |
+| Delegeringsförteckning nämnden för Teknik | TE 2024-09-25 § 94 |
+| Utsläpp av avloppsvatten från yrkesmässig verksamhet - Råd och regler för<br>anslutning till Kungsbackas reningsverk | TEN § 6/05 |
+| Vattenförsörjningsplan | TE 2015-08-19 § 64 |
+| Slamstrategi, aktualisering | TE 2018-05-16 § 57 |
+| Kungsbackas gång- och cykelstrategi | TE 2022-11-16 § 121 |
+| Dokumenthanteringsplan, Kommungemensamma ledningsprocesser | TE 2020-09-16 § 85 |
+| Riktlinjer för anslutning utanför verksamhetsområde för VA | TE 2023-10-18 § 101 |
+| Dokumenthanteringsplan kärnprocesser | TE 2020-09-16 § 84 |
+| Riktlinjer för lekplatsbidrag, särskilt vägbidrag och vägbidrag | TE 2019-04-17 §§ 45,46 |
+| Riktlinjer för Kungsbacka bredbandsnät | TE 2018-12-12 § 136 |
+| Riktlinjer för foodtrucks och matvagnar | TE 2021-04-21 § 45 |
+| Arkivbeskrivning | TE 2021-06-16 § 77 |
+| Riktlinjer gällande ledamöters utbildning och planeringsdag | TE 2021-06-16 § 78 |
+| Riktlinjer för prioritering av förnyelse av VA-ledningsnät | TE 2021-10-20 § 97 |
+| Dokumenthanteringsplan, kommungemensamma stödprocesser | TE 2022-02-23 § 21 |
+| Målbild och riktlinjer för tillgängliga utomhusmiljöer | TE 2022-06-22 § 68 |
+| Tillämpningsregler, Särskild kollektivtrafik - Färdtjänst | TE 2024-01-17 § 9 |
+| Vägbidrag, bidragsnivåer | TE 2023-11-15 § 129 |
+| Felparkeringsavgifter | TE 2023-11-15 § 131 |
 
 <!-- sida 35 -->
 
@@ -1420,20 +1374,20 @@ Nämndbudget 2025
 
 10.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Offentlig plats, taxa för begagnande                   KF § 95/97
-Färdtjänst, taxa                                    KF 2024-04-09 § 58
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Avfallstaxa 2024                                    KF 2023-12-14 § 194
-VA-taxa 2024                                        KF 2023-11-07 § 171
-
-Vatten och avlopp Taxa 2025                         KF 2024-10-08 § 122
-Bredbandsnät, taxa 2024                             KF 2023-11-07 § 170
-Bredbandsnät, taxa 2025                             KF 2024-06-13 § 99
-
 35
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Offentlig plats, taxa för begagnande | KF § 95/97 |
+| Färdtjänst, taxa | KF 2024-04-09 § 58 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Avfallstaxa 2024 | KF 2023-12-14 § 194 |
+| VA-taxa 2024 | KF 2023-11-07 § 171 |
+| Vatten och avlopp Taxa 2025 | KF 2024-10-08 § 122 |
+| Bredbandsnät, taxa 2024 | KF 2023-11-07 § 170 |
+| Bredbandsnät, taxa 2025 | KF 2024-06-13 § 99 |
 
 <!-- sida 36 -->
 
@@ -1891,12 +1845,13 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Efterlevnad till som besvärande för<br>rekryteringsprocessen berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Ekonomi | 2 TEKNIK: Risk för att vi 4. Mycket vanligt 3. Kännbar (uppfattas Ja<br>inte genomför som besvärande för<br>nödvändiga berörda intressenter och<br>omställningar och kommunen)<br>effektiviseringar så att vi<br>kan möta framtida krav<br>och förutsättningar och<br>ta tillvara möjligheter. |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 3 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande som besvärande för<br>följsamhet till berörda intressenter och<br>inköpsprocessen; kommunen)<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-| Verksamhet | 4 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>och välfärdsbrottslighet inträffa) |
-|  | 5 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorganisation kommunen)<br>en i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 2 TEKNIK: Risk för att vi<br>inte genomför<br>nödvändiga<br>omställningar och<br>effektiviseringar så att vi<br>kan möta framtida krav<br>och förutsättningar och<br>ta tillvara möjligheter. | 4. Mycket vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 3 Kommunövergripande<br>risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 4 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 5 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisation<br>en i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 48 -->
 
@@ -1907,9 +1862,10 @@ Intern kontrollplan 2025
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Vi har ett<br>ande risk: omställningsarbete<br>Resurs- och att göra här<br>kompetensbrist gällande<br>kompetensväxling<br>ar och<br>processkartläggnin<br>2. Lindrig gar av befintliga<br>(uppfattas som arbetssätt. Vi är i<br>2. Mindre vanligt liten av berörda full gång med<br>intressenter och arbetet och det ser<br>kommunen) vi i nuläget som ett<br>rent linjearbete och<br>detta följs upp<br>kontinuerligt av<br>respektive<br>verksamhetschef i<br>samarbete med<br>HR. |
-| --- | --- |
-|  | TEKNIK: Risk att Kommer<br>38 § MBL missas uppmärksammas<br>vid upphandling till berörda chefer<br>med ny och övriga<br>entreprenör som medarbetare som<br>utförare av handhar<br>tjänster som 2. Lindrig upphandlingar<br>tidigare utförts i 1. Osannolik (uppfattas som med nya<br>egen regi (risken är praktiskt liten av berörda entreprenörer.<br>taget obefintlig) intressenter och Detta arbete sker i<br>kommunen) linjen och<br>redovisas i<br>samband med<br>övrig uppföljning<br>gällande<br>upphandling och<br>kvalitet. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Resurs- och<br>kompetensbrist | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Vi har ett<br>omställningsarbete<br>att göra här<br>gällande<br>kompetensväxling<br>ar och<br>processkartläggnin<br>gar av befintliga<br>arbetssätt. Vi är i<br>full gång med<br>arbetet och det ser<br>vi i nuläget som ett<br>rent linjearbete och<br>detta följs upp<br>kontinuerligt av<br>respektive<br>verksamhetschef i<br>samarbete med<br>HR. |
+|  |  | TEKNIK: Risk att<br>38 § MBL missas<br>vid upphandling<br>med ny<br>entreprenör som<br>utförare av<br>tjänster som<br>tidigare utförts i<br>egen regi | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Kommer<br>uppmärksammas<br>till berörda chefer<br>och övriga<br>medarbetare som<br>handhar<br>upphandlingar<br>med nya<br>entreprenörer.<br>Detta arbete sker i<br>linjen och<br>redovisas i<br>samband med<br>övrig uppföljning<br>gällande<br>upphandling och<br>kvalitet. |
 
 <!-- sida 49 -->
 
@@ -1920,12 +1876,13 @@ Intern kontrollplan 2025
 
 [Tabell 49-50-1](handlingar.tabeller/49-50-1.csv)
 
-| Kategorier<br>Ekonomi | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergrip Ekonomichef och<br>ande risk: övriga medlemmar<br>Grundläggande i<br>redovisning förvaltningsledning<br>kvalitetsbrister en för Teknik<br>bedömer att vi har<br>en god följsamhet<br>och kontroll<br>gällande<br>grundläggande<br>redovisning och att<br>kvalitetssäkrar<br>redovisningen<br>kontinuerligt. En<br>stor genomgång<br>av redovisning har<br>utförts under 2024<br>i samband med<br>arbetet att få en<br>budget i balans.<br>Visst arbete<br>kvarstår men det<br>omhändertas i<br>linjearbetet och<br>redovisas inte i<br>internkontrollen. |
-| --- | --- |
-|  | Kommunövergrip Vi har pågående<br>ande risk: rekryteringar och<br>Resurser till arbetar också<br>innovation, metodiskt för att<br>digitalisering och stärka<br>omställning till kompetensen hos<br>nya arbetssätt för medarbetarna. Vi<br>framtidens har en<br>2. Lindrig<br>välfärd innovationsledare<br>(uppfattas som<br>som både utbildar<br>2. Mindre vanligt liten av berörda<br>och stärker<br>intressenter och<br>kulturen på<br>kommunen)<br>förvaltningen.<br>Ytterligare<br>rekryteringar<br>tillkommer som<br>kommer att stärka<br>behovet. Följs upp<br>iförvaltningslednin<br>gen för Teknik. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>TEKNIK: Risk för Vi kommer bevaka<br>obehöriga eller denna risk i<br>felaktiga linjearbetet och<br>3. Kännbar<br>transaktioner göra samtliga<br>(uppfattas som<br>1. Osannolik chefer<br>besvärande för<br>(risken är praktiskt uppmärksamma<br>berörda<br>taget obefintlig) på risken. Översyn<br>intressenter och<br>kommer ske kring<br>kommunen)<br>behörigheter i<br>systemet för att<br>minimera risken. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip Vi är redan<br>ande risk: medvetna om<br>informationssäke denna risk och har<br>rhet; skydd av personer som har<br>information mot ansvar för detta i<br>3. Kännbar<br>obehörig tillgång sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
-|  | Kommunövergrip Vi är redan<br>ande risk: It- medvetna om<br>säkerhet denna risk och har<br>- Bristande personer som har<br>driftmiljö hos ansvar för detta i<br>3. Kännbar<br>leverantörer sina uppdrag. Vi<br>(uppfattas som<br>arbetar<br>besvärande för<br>2. Mindre vanligt kontinuerligt med<br>berörda<br>detta och det<br>intressenter och<br>redovisas till<br>kommunen)<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister |  |  | Ekonomichef och<br>övriga medlemmar<br>i<br>förvaltningsledning<br>en för Teknik<br>bedömer att vi har<br>en god följsamhet<br>och kontroll<br>gällande<br>grundläggande<br>redovisning och att<br>kvalitetssäkrar<br>redovisningen<br>kontinuerligt. En<br>stor genomgång<br>av redovisning har<br>utförts under 2024<br>i samband med<br>arbetet att få en<br>budget i balans.<br>Visst arbete<br>kvarstår men det<br>omhändertas i<br>linjearbetet och<br>redovisas inte i<br>internkontrollen. |
+|  |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Vi har pågående<br>rekryteringar och<br>arbetar också<br>metodiskt för att<br>stärka<br>kompetensen hos<br>medarbetarna. Vi<br>har en<br>innovationsledare<br>som både utbildar<br>och stärker<br>kulturen på<br>förvaltningen.<br>Ytterligare<br>rekryteringar<br>tillkommer som<br>kommer att stärka<br>behovet. Följs upp<br>iförvaltningslednin<br>gen för Teknik. |
+|  |  | TEKNIK: Risk för<br>obehöriga eller<br>felaktiga<br>transaktioner | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Vi kommer bevaka<br>denna risk i<br>linjearbetet och<br>göra samtliga<br>chefer<br>uppmärksamma<br>på risken. Översyn<br>kommer ske kring<br>behörigheter i<br>systemet för att<br>minimera risken. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Vi är redan<br>medvetna om<br>denna risk och har<br>personer som har<br>ansvar för detta i<br>sina uppdrag. Vi<br>arbetar<br>kontinuerligt med<br>detta och det<br>redovisas till<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
+|  |  | Kommunövergrip<br>ande risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Vi är redan<br>medvetna om<br>denna risk och har<br>personer som har<br>ansvar för detta i<br>sina uppdrag. Vi<br>arbetar<br>kontinuerligt med<br>detta och det<br>redovisas till<br>verksamhetschef<br>inom Kund- och<br>Verksamhetsstöd<br>samt för<br>förvaltningschef. |
 
 <!-- sida 50 -->
 

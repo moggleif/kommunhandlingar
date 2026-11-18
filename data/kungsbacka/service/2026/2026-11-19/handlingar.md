@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.dbbdae71a1ce2dff4c60328/17948133548
 sha256: ceacadc03f81c230828e0d5acc85a531ebbf27df3016dfe5c0a87555028efa0a
 bytes: 2555621
 sidor: 94
-hamtad: 2026-11-16T08:21:03+00:00
-konverterad: 2026-11-16T08:21:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T02:45:30+00:00
+konverterad: 2026-11-18T02:45:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [5, 16, 21, 59, 62, 78]
 tolkade: []
@@ -3345,34 +3345,6 @@ Nämndbudget 2027
 
 9.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-```osaker-tabell
-Anställda totalt      810       810       821
-Anställda andel kvinnor 68 %    68 %     68 %
-Anställda andel män   32 %      32 %     32 %
-
-Medelålder             48       49        49
-Andel heltid          88 %      89 %     90 %
-```
-
-Antal medarbetare per
-17       19        20
-enhetschef
-
-```osaker-tabell
-Sjukfrånvaro Totalt   6,1 %    6,7 %      6 %
-Sjukfrånvaro Kvinnor  7 %      7,9 %      7 %
-Sjukfrånvaro Män      4 %      4,3 %      4 %
-Korttidssjukfrånvaro  3,3 %    3,2 %      3 %
-Långtidssjukfrånvaro  2,8 %    3,6 %      3 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 34,7 % 39,5 % 38 %
-mer
-Personalomsättning    6,1 %    5,4 %     7,1 %
-
 9.3 Arbetsmiljö
 Den största och viktigaste delen av det systematiska arbetsmiljöarbetet, SAM, bedrivs på enheternas
 arbetsplatsträffar och genom förvaltningens samverkansgrupp, FSG. Arbetsmiljöarbetet följs upp regelbundet
@@ -3397,6 +3369,24 @@ Kommunens övergripande mål för arbetsmiljöarbetet
 •  Medarbetarna upplever balans mellan krav och resurser i arbetet.
 
 22
+
+[Tabell 81-1](handlingar.tabeller/81-1.csv)
+
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Anställda totalt | 810 | 810 | 821 |  |  |
+| Anställda andel kvinnor | 68 % | 68 % | 68 % |  |  |
+| Anställda andel män | 32 % | 32 % | 32 % |  |  |
+| Medelålder | 48 | 49 | 49 |  |  |
+| Andel heltid | 88 % | 89 % | 90 % |  |  |
+| Antal medarbetare per<br>enhetschef | 17 | 19 | 20 |  |  |
+| Sjukfrånvaro Totalt | 6,1 % | 6,7 % | 6 % |  |  |
+| Sjukfrånvaro Kvinnor | 7 % | 7,9 % | 7 % |  |  |
+| Sjukfrånvaro Män | 4 % | 4,3 % | 4 % |  |  |
+| Korttidssjukfrånvaro | 3,3 % | 3,2 % | 3 % |  |  |
+| Långtidssjukfrånvaro | 2,8 % | 3,6 % | 3 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 34,7 % | 39,5 % | 38 % |  |  |
+| Personalomsättning | 6,1 % | 5,4 % | 7,1 % |  |  |
 
 <!-- sida 82 -->
 
@@ -3599,47 +3589,39 @@ Nämndbudget 2027
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-
-Konkurrensprövning                                KF 2011-02-01 § 8
-Vision 2030                                       KF 2023-06-14 § 73
-
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-Reglemente nämnden för Service                    KF 2024-06-13 §96
-
-Inköp, policy                                     KF 2026-05-05, § 80
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-
-Integritetspolicy                                 KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-Klimatstrategi                                    KF 2022-05-10 § 77
-
-Invånardialog                                     KF 2014-10-14 § 119
-Privata utförare                                  KF 2024-04-09 § 60
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Fordon och arbetsmaskiner, policy                 KF 2023-10-10 § 157
-Fordon och arbetsmaskiner, riktlinjer             KF 2023-10-10 § 157
-
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-Lokalpolicy och internhyra                        KF § 153/2014
-Kemikalieplan för Kungsbacka kommun               2017-03-07 § 32
-
 27
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Reglemente nämnden för Service | KF 2024-06-13 §96 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Fordon och arbetsmaskiner, policy | KF 2023-10-10 § 157 |
+| Fordon och arbetsmaskiner, riktlinjer | KF 2023-10-10 § 157 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+| Lokalpolicy och internhyra | KF § 153/2014 |
+| Kemikalieplan för Kungsbacka kommun | 2017-03-07 § 32 |
 
 <!-- sida 87 -->
 
@@ -3648,84 +3630,74 @@ Nämndbudget 2027
 
 11.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
 11.1.3 Styrdokument beslutade av kommunstyrelsen
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
 
 11.1.4 Styrdokument beslutade av nämnden för Service
 
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning nämnden för Service 2026   NSE 2026-05-12 § 50
-
-Informationshanteringsplan, nämnden för Service 2026 NSE 2026-09-15 § 73
-Intern kontrollplan 2027                          NSE 2026-10-22 § xx
-
-Investeringsplan Service 2027-2036                NSE 2026-01-22 § 3
-Klassificeringsstruktur Service 2026              NSE 2026-09-15 § 73
-Konceptlokal BmSS                                 NSE 2021-05-20 § 47
-
-Koncept idrottshall                               NSE 2023-05-16 § 48
-Koncept kök och matsal, Förskola & Grundskola     NSE 2024-12-11 § 103
-
-Koncept utbildningslokaler, Förskola & Grundskola NSE 2025-10-23 § 81
-Koncept utemiljö, Förskola & Grundskola           NSE 2024-12-11 § 102
-Koncept för vård-och omsorgsboende                NSE 2018-01-24 § 5
-
-Målbild 2027                                      NSE 2023-08-24 § 77
-
 28
+
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
+
+[Tabell 87-2](handlingar.tabeller/87-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
+
+[Tabell 87-88-3](handlingar.tabeller/87-88-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning nämnden för Service 2026 | NSE 2026-05-12 § 50 |
+| Informationshanteringsplan, nämnden för Service 2026 | NSE 2026-09-15 § 73 |
+| Intern kontrollplan 2027 | NSE 2026-10-22 § xx |
+| Investeringsplan Service 2027-2036 | NSE 2026-01-22 § 3 |
+| Klassificeringsstruktur Service 2026 | NSE 2026-09-15 § 73 |
+| Konceptlokal BmSS | NSE 2021-05-20 § 47 |
+| Koncept idrottshall | NSE 2023-05-16 § 48 |
+| Koncept kök och matsal, Förskola & Grundskola | NSE 2024-12-11 § 103 |
+| Koncept utbildningslokaler, Förskola & Grundskola | NSE 2025-10-23 § 81 |
+| Koncept utemiljö, Förskola & Grundskola | NSE 2024-12-11 § 102 |
+| Koncept för vård-och omsorgsboende | NSE 2018-01-24 § 5 |
+| Målbild 2027 | NSE 2023-08-24 § 77 |
+| Nämndbudget 2026 | NSE 2025-11-27 § 101 |
+| Policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun | NSE 2026-02-19 § 19 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner, Kungsbacka kommun | NSE 2023-06-15 § 64 |
+| Reglemente för Nämnden för Service | NSE 2024-03-21 § 26 |
+| Revidering riktlinjer för internhyra av lokaler | NSE 2019-10-10 § 92 |
+| Riktlinjer för inköp av livsmedel | NSE 2024-05-14 §45 |
+| Service Lokalbehov 2028-2032, utblicksår 2033-2037 | NSE 2026-10-22 § xx |
 
 <!-- sida 88 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Nämndbudget 2027
 
-Styrdokument                                      Beslutande paragraf/År
-
-Nämndbudget 2026                                  NSE 2025-11-27 § 101
-Policy och riktlinjer för inköpsverksamheten i Kungsbacka kommun NSE 2026-02-19 § 19
-
-Policy och riktlinjer för kommungemensam hantering av fordon och
-NSE 2023-06-15 § 64
-arbetsmaskiner, Kungsbacka kommun
-Reglemente för Nämnden för Service                NSE 2024-03-21 § 26
-Revidering riktlinjer för internhyra av lokaler   NSE 2019-10-10 § 92
-Riktlinjer för inköp av livsmedel                 NSE 2024-05-14 §45
-Service Lokalbehov 2028-2032, utblicksår 2033-2037 NSE 2026-10-22 § xx
-
 11.1.5 Taxa
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 29
+
+[Tabell 88-1](handlingar.tabeller/88-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 89 -->
 

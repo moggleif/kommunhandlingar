@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d978f5f1a01d631f6a7d63/17872285582
 sha256: 2c235414e738a61f497fff396e26ae9f90102d8e42dadb6c65b3f5104efe1381
 bytes: 4458859
 sidor: 135
-hamtad: 2026-11-08T08:03:41+00:00
-konverterad: 2026-11-08T08:04:11+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:54:54+00:00
+konverterad: 2026-11-17T22:55:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2606,7 +2606,8 @@ Ku ngsbacka kommun Delegeringsförteckning, Nämnden för Gymnasium & Arbetsmark
 | 2.6.22 | 33 kap 2 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd enligt 12 kap 1 § | MyH | Bistånd kan endas återkrävas enligt 33 kap 2 § SoL<br>om det lämnats som förskott på förmån eller<br>ersättning, till den som är indragen i arbetskonflikt<br>eller till den som hindras från att förfoga över sina<br>inkomster eller tillgångar. Beslutet om bistånd ska ha<br>meddelats skriftligt och innehållit uppgifter om grund<br>för återbetalningsskyldighet. |
 | 2.6.23 | 33 kap 1 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som beviljats enligt 12 kap §§<br>1-2 som utgått obehörigen eller med för högt belopp | Ec |  |
 | 2.6.24 | 107 kap 5 §<br>SFB | Beslut om att underrätta Försäkringskassan att nämnden ska uppbära<br>ersättning enligt socialförsäkringsbalken | Ec |  |
-| 2.6.25 | 33 kap 3 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som lämnats enligt 12 kap 2<br>§ | MhY | Bistånd enligt 12 kap 2 § kan endast återkrävas om biståndet<br>beviljats under villkor om återbetalning, har meddelats genom<br>skriftligt beslut och innehållit uppgifter om grund för<br>återbetalningsskyldighet |
+| 2.6.25 | 33 kap 3 §<br>SoL | Beslut om att återkräva ekonomiskt bistånd som lämnats enligt 12 kap 2<br>§ | MhY | Bistånd enligt 12 kap 2 § kan endast återkrävas om biståndet |
+|  |  |  |  | beviljats under villkor om återbetalning, har meddelats genom<br>skriftligt beslut och innehållit uppgifter om grund för<br>återbetalningsskyldighet |
 | 2.6.2 | 33 kap 4-5 §§<br>SoL | Beslut om att föra talan hos förvaltningsrätt om återkrav för ekonomiskt<br>bistånd enligt 9 kap 1-2 §§ och 8 kap 1 § SoL | Vc KC |  |
 
 <!-- sida 82 -->

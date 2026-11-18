@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92022c7/17581277695
 sha256: 27351794ed0f8563be8bf09235445449f3ea444bb8b14b7131551949c5d8e4ec
 bytes: 23422521
 sidor: 90
-hamtad: 2026-11-08T08:28:33+00:00
-konverterad: 2026-11-08T08:29:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:16:56+00:00
+konverterad: 2026-11-17T23:17:44+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [59, 73]
 figurer: [12, 54, 57, 59, 67, 68, 69, 70]
 tolkade: []
@@ -747,12 +747,6 @@ Inom ramen för det arbete som kallas Främjande Fyran är nu flera initiativ ig
 inom området hemmaplanslösningar och skolsociala aktiviteter planeras ”pilotverksamheter” och med start
 under hösten 2025.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2022    2023   2024    2025    2025
-Jag känner mig trygg i skolan (åk 5) 84 % 85 % 84 %
-
-Jag känner mig trygg i skolan (åk 8) 81 % 82 % 84 %
-
 2.2 En hållbar utveckling och en hälsosam miljö
 
 Beslutats av
@@ -791,46 +785,23 @@ stöd och resurser som stärker deras framsteg.
 
 5
 
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Jag känner mig trygg i skolan (åk 5) | 84 % | 85 % | 84 % |  |  |
+| Jag känner mig trygg i skolan (åk 8) | 81 % | 82 % | 84 % |  |  |
+
 <!-- sida 22 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2022    2023   2024    2025    2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 85 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 72 % 79 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 93 % 92 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %    73 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %    86 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
 2.2.1 Utbildningen ska stimulera till ökad trygghet, glädje och fysisk aktivitet
+
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Kungsbackas lärmiljöer ska präglas av trygghet, glädje och studiero. Fysisk aktivitet och social interaktion
 mellan elever ska prioriteras.
@@ -845,6 +816,17 @@ Fokusområde
 \- Social interaktion
 
 6
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % |  |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % |  |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % |  |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % |  |  |  |
 
 <!-- sida 23 -->
 
@@ -1027,13 +1009,6 @@ I syfte att öka måluppfyllelsen och bättre kunna ge enheterna stöd har ett i
 utformats genomförts. Utgångspunkten är att minska generella insatser och öka förutsättningarna för enheter att
 kunna fokusera på och få stöd i från de centrala stödfunktionerna i enhetens specifika utmaningar.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2022    2023   2024    2025    2025
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-237     237     238
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
 2.4.1 Öka undervisningskvaliteten
 
 Beslutats av
@@ -1074,6 +1049,12 @@ tillgång på skolbibliotek. Enligt denna bestämmelse ska varje skola ha tillg�
 för eleverna under skoltid och att eleverna ska ha möjlighet att använda biblioteket under lektionstid.
 
 10
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 237 | 238 |  |  |
 
 <!-- sida 27 -->
 
@@ -1133,18 +1114,14 @@ förståelse för hur arbetstiden påverkar arbetsmiljön.
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2022    2023   2024    2025    2025
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76 75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114 124
-nyckeltal med skala 1–20.
-
 12
+
+[Tabell 28-1](handlingar.tabeller/28-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |  |
 
 <!-- sida 29 -->
 
@@ -1456,57 +1433,22 @@ Delårsrapport augusti 2025
 
 4.2 Resursmått
 
-Namn         Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Kostnad per
-inskrivet barn i
-136 691    127 000    131 824
-pedagogisk
-omsorg
-Kostnad per
-inskrivet barn,
-168 505    175 173    183 671    184 293
-kommunal
-förskola
-Kostnad per
-inskrivet barn,
-46 373     48 538      48 258     49 784
-kommunalt
-fritidshem
-Kostnad per
-elev, anpassad 550 300   547 700    615 200
-grundskola
-Kostnad
-kommunal
-113 067    119 100    128 512    133 720
-grundskola åk
-1-9, kr/elev
-Kostnad för
-undervisning i
-kommunal      65 337     68 215      71 163     71 458
-grundskola åk
-1-9, kr/elev
-Kostnad för
-lokaler i
-kommunal      19 080     21 239      23 130     27 849
-grundskola åk
-1-9, kr/elev
-Kostnad för
-lärverktyg i
-kommunal       4 828      5 840      6 694      5 417
-grundskola åk
-1-9, kr/elev
-Kostnad för
-måltider i
-kommunal       7 520      6 721      6 995      7 605
-grundskola åk
-1-9, kr/elev
-Kostnad
-elevhälsa i
-kommunal       3 394      3 443      4 140      4 042
-grundskola åk
-1-9, kr/elev
-
 19
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+|  |  | Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Kostnad per<br>inskrivet barn i<br>pedagogisk<br>omsorg | 136 691 | 127 000 | 131 824 |  |  |
+|  |  | Kostnad per<br>inskrivet barn,<br>kommunal<br>förskola | 168 505 | 175 173 | 183 671 | 184 293 |  |
+|  |  | Kostnad per<br>inskrivet barn,<br>kommunalt<br>fritidshem | 46 373 | 48 538 | 48 258 | 49 784 |  |
+|  |  | Kostnad per<br>elev, anpassad<br>grundskola | 550 300 | 547 700 | 615 200 |  |  |
+|  |  | Kostnad<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 113 067 | 119 100 | 128 512 | 133 720 |  |
+|  |  | Kostnad för<br>undervisning i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 65 337 | 68 215 | 71 163 | 71 458 |  |
+|  |  | Kostnad för<br>lokaler i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 19 080 | 21 239 | 23 130 | 27 849 |  |
+|  |  | Kostnad för<br>lärverktyg i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 4 828 | 5 840 | 6 694 | 5 417 |  |
+|  |  | Kostnad för<br>måltider i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 7 520 | 6 721 | 6 995 | 7 605 |  |
+|  |  | Kostnad<br>elevhälsa i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 3 394 | 3 443 | 4 140 | 4 042 |  |
 
 <!-- sida 36 -->
 
@@ -1515,139 +1457,59 @@ Delårsrapport augusti 2025
 
 4.3 Prestationsmått
 
-Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Årsarbetare i
-förskoleklass
-med
-91,8 %   96,6 %    93,6 %    88,3 %   93,8 %
-pedagogisk
-högskoleexa
-men
-Antal
-inskrivna
-barn per
-4,2       4,1      4,3       4,8      5,2
-personal,
-pedagogisk
-omsorg
-Barn per
-barngrupp i  11,8      12       12,6     11,9      12,2
-förskola
-Inskrivna
-elever per
-21       17,9      21,6     20,6      24,5
-årsarbetare i
-fritidshem
-Årsarbetare i
-fritidshem
-med
-42 %      42 %      43 %     47 %      49 %
-pedagogisk
-högskoleexa
-men
-Elever/lärare
-(årsarbetare)
-13,3     13,1      13,2     12,4      13
-i grundskola
-F-9
-Antal
-inskrivna
-barn per     4,6       4,6      4,5       4,6      4,7
-årsarbetare,
-förskola
-Barn 1-5 år,
-andel i     86,6 %   87,4 %    85,4 %    88,7 %   89,4 %
-förskola
-Elever
-folkbokf. i
-kommunen,
-11,9 %   16,9 %    17,8 %    18,8 %   18,9 %
-andel i
-fristående
-skola
-Andel
-förskolebarn 15 %     15 %      15 %     15 %      16 %
-i enskild regi
 20
+
+[Tabell 36-37-1](handlingar.tabeller/36-37-1.csv)
+
+|  |  | Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Årsarbetare i<br>förskoleklass<br>med<br>pedagogisk<br>högskoleexa<br>men | 91,8 % | 96,6 % | 93,6 % | 88,3 % | 93,8 % |  |
+|  |  | Antal<br>inskrivna<br>barn per<br>personal,<br>pedagogisk<br>omsorg | 4,2 | 4,1 | 4,3 | 4,8 | 5,2 |  |
+|  |  | Barn per<br>barngrupp i<br>förskola | 11,8 | 12 | 12,6 | 11,9 | 12,2 |  |
+|  |  | Inskrivna<br>elever per<br>årsarbetare i<br>fritidshem | 21 | 17,9 | 21,6 | 20,6 | 24,5 |  |
+|  |  | Årsarbetare i<br>fritidshem<br>med<br>pedagogisk<br>högskoleexa<br>men | 42 % | 42 % | 43 % | 47 % | 49 % |  |
+|  |  | Elever/lärare<br>(årsarbetare)<br>i grundskola<br>F-9 | 13,3 | 13,1 | 13,2 | 12,4 | 13 |  |
+|  |  | Antal<br>inskrivna<br>barn per<br>årsarbetare,<br>förskola | 4,6 | 4,6 | 4,5 | 4,6 | 4,7 |  |
+|  |  | Barn 1-5 år,<br>andel i<br>förskola | 86,6 % | 87,4 % | 85,4 % | 88,7 % | 89,4 % |  |
+|  |  | Elever<br>folkbokf. i<br>kommunen,<br>andel i<br>fristående<br>skola | 11,9 % | 16,9 % | 17,8 % | 18,8 % | 18,9 % |  |
+|  |  | Andel<br>förskolebarn<br>i enskild regi | 15 % | 15 % | 15 % | 15 % | 16 % |  |
+|  |  | Lärare med<br>pedagogisk<br>högskoleexa<br>men i<br>kommunal<br>grundskola<br>åk 1-9 | 85,9 % | 87 % | 88,6 % | 90,2 % | 92,7 % |  |
+|  |  | Årsarbetare i<br>förskolan<br>med<br>pedagogisk<br>högskoleexa<br>men | 48 % | 47 % | 48 % | 47 % | 48 % |  |
 
 <!-- sida 37 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Namn       Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Lärare med
-pedagogisk
-högskoleexa
-men i       85,9 %    87 %     88,6 %    90,2 %   92,7 %
-kommunal
-grundskola
-åk 1-9
-Årsarbetare i
-förskolan
-med
-48 %      47 %      48 %     47 %      48 %
-pedagogisk
-högskoleexa
-men
 4.4 Effektmått
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2021    2022   2023    2024  2025
-Andel elever som klarat alla delprov i
-70 %   67 %    65 %
-svenska åk 3
-Andel elever med provbetyg A-E,
-91,6 %  91,3 %  89,9 %
-matematik åk 6
-Andel elever med provbetyg A-E,
-94 %   93,9 %  93,6 %
-svenska åk 6
-Andel elever i åk 6 som uppnått
-85,3 %  80,1 %  77,3 %  79,4 %
-betygskriterierna i alla ämnen
-Andel (%) elever i åk. 9 som uppnått
-betygskriterierna i alla ämnen, 84,5 % 82 % 81,7 % 83,4 %
-kommunala skolor
-Andel (%) elever i årskurs 9 behöriga till
-89,9 %  88,7 %  89,1 %  89 %
-gymnasieskolan, kommunala skolor
-Genomsnittligt meritvärde i årskurs 9,
-239,2   237    236,5   237,5
-kommunala skolor
-Andel elever som uppnått
-betygskriterierna i samtliga ämnen, 1,2 1   2,2     3,8
-avvikelse från modellberäknat värde
-Andel elever som är behöriga till ett
-yrkesprogram, avvikelse från -1,1   -1,1    -0,1    0,3
-modellberäknat värde
-Genomsnitttligt meritvärde, avvikelse
--5,3    -4,7    -4      -2,8
-från modellberäknat värde
-Andel (%) elever i åk. 9 som uppnått
-betygskriterierna i alla ämnen, 91,7 % 91,1 % 95,3 % 91,8 %
-fristående skolor
 21
+
+[Tabell 37-38-1](handlingar.tabeller/37-38-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel elever som klarat alla delprov i<br>svenska åk 3 |  | 70 % | 67 % | 65 % |  |
+|  | Andel elever med provbetyg A-E,<br>matematik åk 6 |  | 91,6 % | 91,3 % | 89,9 % |  |
+|  | Andel elever med provbetyg A-E,<br>svenska åk 6 |  | 94 % | 93,9 % | 93,6 % |  |
+|  | Andel elever i åk 6 som uppnått<br>betygskriterierna i alla ämnen | 85,3 % | 80,1 % | 77,3 % | 79,4 % |  |
+|  | Andel (%) elever i åk. 9 som uppnått<br>betygskriterierna i alla ämnen,<br>kommunala skolor | 84,5 % | 82 % | 81,7 % | 83,4 % |  |
+|  | Andel (%) elever i årskurs 9 behöriga till<br>gymnasieskolan, kommunala skolor | 89,9 % | 88,7 % | 89,1 % | 89 % |  |
+|  | Genomsnittligt meritvärde i årskurs 9,<br>kommunala skolor | 239,2 | 237 | 236,5 | 237,5 |  |
+|  | Andel elever som uppnått<br>betygskriterierna i samtliga ämnen,<br>avvikelse från modellberäknat värde | 1,2 | 1 | 2,2 | 3,8 |  |
+|  | Andel elever som är behöriga till ett<br>yrkesprogram, avvikelse från<br>modellberäknat värde | -1,1 | -1,1 | -0,1 | 0,3 |  |
+|  | Genomsnitttligt meritvärde, avvikelse<br>från modellberäknat värde | -5,3 | -4,7 | -4 | -2,8 |  |
+|  | Andel (%) elever i åk. 9 som uppnått<br>betygskriterierna i alla ämnen,<br>fristående skolor | 91,7 % | 91,1 % | 95,3 % | 91,8 % |  |
+|  | Jag är nöjd med min skola som helhet<br>(enkät åk 5) | 81 | 71 | 75 | 74 | 74 |
+|  | Jag är nöjd med min skola som helhet<br>(enkät åk 8) | 71 | 65 | 69,2 | 64 | 63 |
+|  | Andel elever åk 9 behöriga till<br>yrkesprogram, fristående skolor | 96,2 % | 94,4 % |  | 96,4 % |  |
+|  | Genomsnittligt meritvärde i årskurs 9,<br>fristående skolor | 249,8 | 252,6 | 272,2 | 261,5 |  |
 
 <!-- sida 38 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport augusti 2025
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2021    2022   2023    2024  2025
-Jag är nöjd med min skola som helhet
-81     71      75      74        74
-(enkät åk 5)
-Jag är nöjd med min skola som helhet
-71     65      69,2    64        63
-(enkät åk 8)
-Andel elever åk 9 behöriga till
-96,2 %  94,4 %          96,4 %
-yrkesprogram, fristående skolor
-Genomsnittligt meritvärde i årskurs 9,
-249,8  252,6   272,2   261,5
-fristående skolor
 Utfall för betyg publiceras i offentlig statistik 25 september (åk 9), 22 oktober (åk 6) samt 26 november (nationella prov).
 
 22

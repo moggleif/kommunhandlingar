@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7dc0295196b0231a1161b9f/17470480369
 sha256: 4723a7cd18cf52a246ec4aa1bf8fd867fcd89edfcdadf7e6a1903df067634e11
 bytes: 4802265
 sidor: 64
-hamtad: 2026-11-08T12:15:01+00:00
-konverterad: 2026-11-08T12:15:31+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:38:20+00:00
+konverterad: 2026-11-18T02:38:44+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8]
 figurer: [5, 7, 8, 11, 35]
 tolkade: []
@@ -280,7 +280,7 @@ entré, Kungsbacka (Läsex planhandlingar)
 
 Lämna dina synpunkter senast den 4 april.
 
-Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan = Kungsbacka
+Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
@@ -757,25 +757,8 @@ bokslut, inklusive apriluppföljning, delårsrapport och årsredovisning.
 
 3.1 Partnerskap
 
-Nyckeltal        Januari          Februari        Mars
-Partnerskapsgrad -
-Antal utvecklingsinitiativ
-och samarbetsprojekt
-7
-som har genomförts
-med direkt nytta för våra
-partners.
-Partnerskapsgrad -
-Antal idéer eller
-innovativa lösningar som
-0
-har utvecklats
-tillsammans med
-partners.
-Partnerskapskvalitet:
-Upplevelse av nöjdhet i                           88 %
-partnerskapet
 Om fokusområdet Partnerskap
+
 Service arbetar aktivt för ett gott partnerskap med sina systerförvaltningar, och bidrar till ett samarbete
 där öppen kommunikation, ömsesidig respekt och förtroende präglar dialogerna. Vi samarbetar nära våra
 partners för att utveckla kostnadseffektiva och hållbara tjänster, som skapar värde för såväl våra
@@ -789,6 +772,14 @@ Antal utvecklade idéer eller innovativa lösningar
 Flera samarbeten pågår och idéer testas i vardagen. Vi kommer inte längre att mäta detta nyckeltal
 
 9
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Partnerskapsgrad -<br>Antal utvecklingsinitiativ<br>och samarbetsprojekt<br>som har genomförts<br>med direkt nytta för våra<br>partners. |  |  | 7 |
+|  | Partnerskapsgrad -<br>Antal idéer eller<br>innovativa lösningar som<br>har utvecklats<br>tillsammans med<br>partners. |  |  | 0 |
+|  | Partnerskapskvalitet:<br>Upplevelse av nöjdhet i<br>partnerskapet |  |  | 88 % |
 
 <!-- sida 20 -->
 
@@ -808,59 +799,28 @@ framåt.
 
 3.2 Mer för pengarna
 
-Nyckeltal        Januari          Februari        Mars
-Fastigheter, R12 -
-Personalkostnad per 12 kr/kvm     12,1 kr/kvm     12,2 kr/kvm
-kvadratmeter (kvm)
-Måltider, R12 -
-Personalkostnadens 56,2 %         56,2 %          55,7 %
-andel av omsättningen
-Lokalvård, R12 -
-Personalkostnad per 19,5 kr/kvm   19,6 kr/kvm     19,6 kr/kvm
-kvadratmeter (kvm)
-Lokalförsörjning,
-månadsvärde –
-61 %             65 %            63 %
-Debiterad tid av totalt
-arbetad tid
-Inköp, månadsvärde –
-inköp med avtalad
-90 %             87 %            94 %
-leverantör i procent av
-totala antalet inköp
-Inköp, månadsvärde –
-antal fakturor med
-88,1 %           88,3 %          89,5 %
-automatiskt flöde av
-totala antalet fakturor
-Digitalt Center, R12 –
-Personalkostnad i
-50 %             51 %            54 %
-förhållande till
-omsättning
-Totala förvaltningen,
-R12 – Personalkostnad i
-29,8 %           30,1 %          29,7 %
-förhållande till total
-omsättning
-UKK, månadsvärde –
-genomsnittlig
-1 612 kr         1 686 kr        1 833 kr
-personalkostnad per
-rådgivningsärende
 10
+
+[Tabell 20-21-1](handlingar.tabeller/20-21-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Fastigheter, R12 -<br>Personalkostnad per<br>kvadratmeter (kvm) | 12 kr/kvm | 12,1 kr/kvm | 12,2 kr/kvm |
+|  | Måltider, R12 -<br>Personalkostnadens<br>andel av omsättningen | 56,2 % | 56,2 % | 55,7 % |
+|  | Lokalvård, R12 -<br>Personalkostnad per<br>kvadratmeter (kvm) | 19,5 kr/kvm | 19,6 kr/kvm | 19,6 kr/kvm |
+|  | Lokalförsörjning,<br>månadsvärde –<br>Debiterad tid av totalt<br>arbetad tid | 61 % | 65 % | 63 % |
+|  | Inköp, månadsvärde –<br>inköp med avtalad<br>leverantör i procent av<br>totala antalet inköp | 90 % | 87 % | 94 % |
+|  | Inköp, månadsvärde –<br>antal fakturor med<br>automatiskt flöde av<br>totala antalet fakturor | 88,1 % | 88,3 % | 89,5 % |
+|  | Digitalt Center, R12 –<br>Personalkostnad i<br>förhållande till<br>omsättning | 50 % | 51 % | 54 % |
+|  | Totala förvaltningen,<br>R12 – Personalkostnad i<br>förhållande till total<br>omsättning | 29,8 % | 30,1 % | 29,7 % |
+|  | UKK, månadsvärde –<br>genomsnittlig<br>personalkostnad per<br>rådgivningsärende | 1 612 kr | 1 686 kr | 1 833 kr |
+|  | HR&PF, månadsvärde –<br>genomsnittlig<br>personalkostnad per<br>beställd vikarietimme | 11 kr | 11 kr | 10 kr |
 
 <!-- sida 21 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Uppföljning och prognos april 2025
 
-Nyckeltal        Januari          Februari        Mars
-HR&PF, månadsvärde –
-genomsnittlig
-11 kr            11 kr           10 kr
-personalkostnad per
-beställd vikarietimme
 Om fokusområdet Mer för pengarna
 
 Service tar ett samlat grepp för att på bästa sätt hushålla med kommunens resurser och skapa
@@ -925,39 +885,20 @@ några större slutsatser.
 
 3.3 Engagerade medarbetare
 
-Nyckeltal        Januari          Februari        Mars
-Antal kombinations-
-35
-anställningar
-Andel praktikanter i
-förhållande till ordinarie                        5 %
-bemanning
-Rekommendationsvilja
-(Andel procent som
-svarar att de skulle
-rekommendera
-Kungsbacka kommun
--11
-som arbetsgivare, minus
-de som gett en låg
-poäng på frågan.
-Resultatet blir ett värde
-mellan -100 och 100.)
-Medarbetarengagemang
-(Ett frågeområde i
-kommunens
-7,3
-pulsmätningsverktyg.
-Medelvärde på en
-tiogradig skala.)
-Antal riskobservationer                           2
-Antal tillbud                                     20
-Antal olycksfall                                  21
-Andel medarbetare som
-88 %
-arbetar heltid
-
 12
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Antal kombinations-<br>anställningar |  |  | 35 |
+|  | Andel praktikanter i<br>förhållande till ordinarie<br>bemanning |  |  | 5 % |
+|  | Rekommendationsvilja<br>(Andel procent som<br>svarar att de skulle<br>rekommendera<br>Kungsbacka kommun<br>som arbetsgivare, minus<br>de som gett en låg<br>poäng på frågan.<br>Resultatet blir ett värde<br>mellan -100 och 100.) |  |  | -11 |
+|  | Medarbetarengagemang<br>(Ett frågeområde i<br>kommunens<br>pulsmätningsverktyg.<br>Medelvärde på en<br>tiogradig skala.) |  |  | 7,3 |
+|  | Antal riskobservationer |  |  | 2 |
+|  | Antal tillbud |  |  | 20 |
+|  | Antal olycksfall |  |  | 21 |
+|  | Andel medarbetare som<br>arbetar heltid |  |  | 88 % |
 
 <!-- sida 23 -->
 
@@ -990,33 +931,20 @@ har minskat marginellt jämfört med samma period föregående år.
 
 3.4 Hållbarhet
 
-Nyckeltal        Januari          Februari        Mars
-Koldioxidutsläpp per kilo
-inköpta livsmedel 1,55 CO2        1,46 CO2        1,43 CO2
-(Måltider)
-Totalt matsvinn per
-38 g             45 g            42 g
-portion
-Miljömedvetna
-materialval      85 %             85 %            85 %
-(Lokalförsörjning)
-Elanvändning i
-kommunens lokaler i
-jämförelse med förra
--7 %
-året.
-Solcellsproduktion
-3 831 kw         3 831 kw        3 831 kw
-\- Installerad effekt
-Fossiloberoende fordon
-96,6 %           97 %            97,1 %
-(Fastigheter)
-Miljömedvetna inköp 16,22 %       3,29 %          10,23 %
-Miljömedvetna
-0 %
-materialval (Fastigheter)
-
 13
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+|  | Nyckeltal | Januari | Februari | Mars |
+| --- | --- | --- | --- | --- |
+|  | Koldioxidutsläpp per kilo<br>inköpta livsmedel<br>(Måltider) | 1,55 CO2 | 1,46 CO2 | 1,43 CO2 |
+|  | Totalt matsvinn per<br>portion | 38 g | 45 g | 42 g |
+|  | Miljömedvetna<br>materialval<br>(Lokalförsörjning) | 85 % | 85 % | 85 % |
+|  | Elanvändning i<br>kommunens lokaler i<br>jämförelse med förra<br>året. |  |  | -7 % |
+|  | Solcellsproduktion<br>- Installerad effekt | 3 831 kw | 3 831 kw | 3 831 kw |
+|  | Fossiloberoende fordon<br>(Fastigheter) | 96,6 % | 97 % | 97,1 % |
+|  | Miljömedvetna inköp | 16,22 % | 3,29 % | 10,23 % |
+|  | Miljömedvetna<br>materialval (Fastigheter) |  |  | 0 % |
 
 <!-- sida 24 -->
 

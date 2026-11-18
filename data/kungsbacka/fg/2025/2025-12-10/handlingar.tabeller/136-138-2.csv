@@ -1,112 +1,137 @@
-"Kategorier
-Personal","Anledning till att
-Risker Sannolikhet Konsekvens
-risk ej tas till plan
-Kommun- 3. Kännbar
-övergripande risk: (uppfattas som
-Efterlevnad till 2. Mindre vanligt besvärande för
-rekryterings- berörda intressenter
-processen och kommunen)"
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Anledning till att
+risk ej tas till plan"
+Personal,,"Kommun-
+övergripande risk:
+Efterlevnad till
+rekryterings-
+processen",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",
 "Gemensamma
 områden;
 Informations-
 säkerhet,
 administration,
-inköp m fl.","Kommun-
-3. Kännbar
+inköp m fl.",,"Kommun-
 övergripande risk:
-(uppfattas som
 informations-
-2. Mindre vanligt besvärande för
 säkerhet; skydd av
-berörda intressenter
 information mot
-och kommunen)
-obehörig tillgång"
-Kategorier,"Anledning till att
-Risker Sannolikhet Konsekvens
-risk ej tas till plan
-Kommun- 3. Kännbar
-övergripande risk: (uppfattas som
-It-säkerhet - 2. Mindre vanligt besvärande för
-Bristande driftmiljö berörda intressenter
-hos leverantörer och kommunen)"
-,"Kommun-
+obehörig tillgång",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",
+,,"Kommun-
+övergripande risk:
+It-säkerhet -
+Bristande driftmiljö
+hos leverantörer",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",
+,,"Kommun-
 övergripande risk:
 Risk att samhälls-
 utbyggnad inte kan
 ske i planerad takt.
-Ny infrastruktur 3. Kännbar
-och exploatering (uppfattas som
-och projekt för 2. Mindre vanligt besvärande för
-underhåll/ berörda intressenter
-utbyggnad av och kommunen)
+Ny infrastruktur
+och exploatering
+och projekt för
+underhåll/
+utbyggnad av
 befintlig
 infrastruktur är
 beroende av
 varandra (resurser
-och samplanering)."
-Verksamhet,"Kommun-
+och samplanering).",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)",
+Verksamhet,,"Kommun-
 övergripande risk:
-3. Kännbar
 Dämpad
-(uppfattas som
 befolkningstillväxt
-2. Mindre vanligt besvärande för
 med långsiktig
-berörda intressenter
 påverkan på
-och kommunen)
 kommunala
-verksamheter"
-,"Avsaknad av 3. Kännbar Omhändertas inom
-uppdaterade (uppfattas som den ordinarie
-beredskapsplaner 2. Mindre vanligt besvärande för verksamheten.
-på förskolor och berörda intressenter
-grundskolor och kommunen)"
-,"Olikvärdigt Omhändertas inom
-användande av den ordinarie
-förvaltnings- verksamheten.
-3. Kännbar
-gemensam
+verksamheter",2. Mindre vanligt,"3. Kännbar
 (uppfattas som
-lärplattform
-3. Vanligt besvärande för
-försvårar
+besvärande för
 berörda intressenter
+och kommunen)",
+,,"Avsaknad av
+uppdaterade
+beredskapsplaner
+på förskolor och
+grundskolor",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)","Omhändertas inom
+den ordinarie
+verksamheten."
+,,"Olikvärdigt
+användande av
+förvaltnings-
+gemensam
+lärplattform
+försvårar
 kommunikation och
-och kommunen)
 information till
 elever och
-vårdnadshavare"
-,"Dokumentation 3. Kännbar Omhändertas inom
-inom elevhälsans (uppfattas som den ordinarie
-icke-medicinska del 3. Vanligt besvärande för verksamheten.
-sker inte enligt berörda intressenter
-interna rutiner och kommunen)"
-,"Fördjupade läs- 3. Kännbar Följ upp inom
-och (uppfattas som överenskommelsen.
-skrivutredningar 2. Mindre vanligt besvärande för
-genomförs inte berörda intressenter
-enligt rutin och kommunen)"
-Kategorier,"Anledning till att
-Risker Sannolikhet Konsekvens
-risk ej tas till plan
-Enheterna saknar 3. Kännbar Omhändertas inom
-uppdaterade lokala (uppfattas som den ordinarie
-styrdokument 2. Mindre vanligt besvärande för verksamheten.
-berörda intressenter
-och kommunen)"
-,"Elevers behov av Omhändertas inom
-särskilt stöd den ordinarie
-3. Kännbar
-utreds, planeras verksamheten.
+vårdnadshavare",3. Vanligt,"3. Kännbar
 (uppfattas som
-och genomförs inte
-2. Mindre vanligt besvärande för
-utifrån de
+besvärande för
 berörda intressenter
+och kommunen)","Omhändertas inom
+den ordinarie
+verksamheten."
+,,"Dokumentation
+inom elevhälsans
+icke-medicinska del
+sker inte enligt
+interna rutiner",3. Vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)","Omhändertas inom
+den ordinarie
+verksamheten."
+,,"Fördjupade läs-
+och
+skrivutredningar
+genomförs inte
+enligt rutin",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)","Följ upp inom
+överenskommelsen."
+,,"Enheterna saknar
+uppdaterade lokala
+styrdokument",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)","Omhändertas inom
+den ordinarie
+verksamheten."
+,,"Elevers behov av
+särskilt stöd
+utreds, planeras
+och genomförs inte
+utifrån de
 förutsättningar som
-och kommunen)
 finns på
-fritidshemmet"
+fritidshemmet",2. Mindre vanligt,"3. Kännbar
+(uppfattas som
+besvärande för
+berörda intressenter
+och kommunen)","Omhändertas inom
+den ordinarie
+verksamheten."

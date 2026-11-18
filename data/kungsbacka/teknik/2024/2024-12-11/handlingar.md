@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe2801239c/1733495158
 sha256: c13b4f8c7037a64c8686b0f6bb278ee56d7cc697bb7d9944a935b52102212fad
 bytes: 13668961
 sidor: 226
-hamtad: 2026-11-08T10:55:42+00:00
-konverterad: 2026-11-08T10:56:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:26:16+00:00
+konverterad: 2026-11-18T01:27:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
 tal_obekraftade: [8, 10, 12, 13, 14, 15, 17, 18, 20, 23, 24, 67, 68, 69, 73, 75, 76, 169, 217, 218]
 figurer: [3, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 39, 40, 41, 43, 44, 45, 46, 48, 49, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 92, 107, 111, 166, 167, 168, 169, 170, 171, 174, 194, 198, 199, 201, 205, 207]
 tolkade: []
@@ -2852,7 +2852,7 @@ Andel av total befolkningen
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -3052,17 +3052,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 70 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -3070,18 +3089,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 71 -->
 
@@ -3234,7 +3241,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 74-1](handlingar.tabeller/74-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7989a46719762712138c4625/1750158707
 sha256: 84cd75f9524ecbafa25bde769d01abfffc949d7a1c8a4625ffbeb4b3f7b9c336
 bytes: 5899200
 sidor: 240
-hamtad: 2026-11-08T12:15:31+00:00
-konverterad: 2026-11-08T12:16:22+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T02:38:44+00:00
+konverterad: 2026-11-18T02:39:23+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [2, 5, 6, 12, 98, 155, 193, 216]
 tolkade: []
@@ -8414,23 +8414,6 @@ Mättat fett (max 10 E%) (g)1 högst   5,7      6,9     8,3      9,3
 
 <!-- sida 183 -->
 
-Fleromättat fett (5–10 E%) (g)     2,8–5,7 3,5–6,9  4,1–8,3 4,7–9,3
-Kolhydrater (45–60 E%) (g)         57–76    70–94   84–112  94–126
-
-Protein (10–20 E%) (g)             13–25    16–31   19–37    21–42
-
-```osaker-tabell
-Fibrer (g)                           6,4      7,8     9,4     10,5
-
-Vitamin C (mg)                        17      24      30       33
-Vitamin D (µg)                       3,0      3,0     3,0      3,0
-
-Folat (µg)                            60      81      93       99
-Järn (mg)                            3,0      3,9     4,5      4,5
-
-Salt (g)                   högst2    1,1      1,3     1,5      1,7
-```
-
 1  1Transfett ska vara lågt som möjligt och ingår därför inte i rekommendationen för mättat fett.
 
 2  2 Bör användas som ett riktvärde och långsiktigt mål eftersom det i dag kan vara svårt att uppnå i
@@ -8458,6 +8441,19 @@ Salt (g)                   högst2    1,1      1,3     1,5      1,7
 19  måltidsutbildning och måltidsmiljö i avsnitten Integrerade måltider respektive Trivsamma måltider.
 
 35
+
+[Tabell 183-1](handlingar.tabeller/183-1.csv)
+
+| Fleromättat fett (5–10 E%) (g) |  | 2,8–5,7 | 3,5–6,9 | 4,1–8,3 | 4,7–9,3 |
+| --- | --- | --- | --- | --- | --- |
+| Kolhydrater (45–60 E%) (g) |  | 57–76 | 70–94 | 84–112 | 94–126 |
+| Protein (10–20 E%) (g) |  | 13–25 | 16–31 | 19–37 | 21–42 |
+| Fibrer (g) |  | 6,4 | 7,8 | 9,4 | 10,5 |
+| Vitamin C (mg) |  | 17 | 24 | 30 | 33 |
+| Vitamin D (µg) |  | 3,0 | 3,0 | 3,0 | 3,0 |
+| Folat (µg) |  | 60 | 81 | 93 | 99 |
+| Järn (mg) |  | 3,0 | 3,9 | 4,5 | 4,5 |
+| Salt (g) | högst2 | 1,1 | 1,3 | 1,5 | 1,7 |
 
 <!-- sida 184 -->
 
