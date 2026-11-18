@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.42ce99219cc5b296bd9fc2b/17732983134
 sha256: 90fd974decb7e507e67534217c135cdddf793ea5a616689bfb40a9ba6c52ac7b
 bytes: 54175492
 sidor: 466
-hamtad: 2026-11-09T08:47:43+00:00
-konverterad: 2026-11-09T08:51:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:01:27+00:00
+konverterad: 2026-11-18T23:04:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [11, 136, 158, 159, 160, 176, 200, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 235, 236, 237, 238, 239, 240, 241, 242, 430, 431]
-figurer: [15, 16, 17, 21, 26, 29, 31, 34, 35, 36, 37, 39, 45, 46, 49, 51, 53, 55, 57, 59, 66, 67, 75, 76, 77, 78, 79, 80, 81, 82, 83, 86, 91, 93, 117, 135, 136, 149, 169, 170, 171, 176, 185, 196, 205, 206, 208, 209, 210, 211, 217, 218, 219, 248, 257, 260, 333, 420, 448, 452, 455, 457]
+figurer: [15, 16, 17, 21, 26, 29, 31, 34, 35, 36, 37, 39, 45, 46, 49, 51, 53, 55, 57, 59, 66, 67, 75, 76, 77, 78, 79, 80, 81, 82, 83, 86, 91, 93, 117, 135, 136, 169, 170, 171, 176, 185, 196, 205, 206, 208, 209, 210, 211, 217, 218, 219, 248, 257, 260, 333, 420, 448, 452, 455, 457]
 tolkade: []
 granskad: null
 ---
@@ -2395,7 +2395,13 @@ FÖRVALTNINGSBERÄTTELSE
 EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 
 Fokusområden                                              Trend
+
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. →
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. -
 
 Måluppfyllelse
 Det är fortsatt en utmaning att få till olika bostadstyper
@@ -2439,8 +2445,6 @@ mellan olika aktörer samt genomfört tillsyn av lokaler
 och områden för att säkerställa trygga miljöer. Vi har
 genomfört utbildningar för att stärkta rutiner för att
 fånga upp barn som är utsatta för brott på nätet.
-
-32 Kungsbacka kommuns årsredovisning 2025
 
 Vi har nu 65 hjärtstartare på utsidan av kommunens
 lokaler, en ökning från 49 stycken för ett år sedan.
@@ -2486,12 +2490,7 @@ Kungsbackas kustnära läge i en stark arbetsmarknads-
 region bidrar till dess attraktionskraft. Kommunen
 utsågs återigen till en av Sveriges superkommuner
 
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | - |
+32 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 43 -->
 
@@ -2577,6 +2576,12 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       →
 
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar
+→
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    —
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      —
+
 Måluppfyllelse
 
 Efter några år med låg befolkningstillväxt har utveck-
@@ -2619,8 +2624,6 @@ sojafärs mot inhemskt producerad ärtfärs. De beräknade
 utsläppen av koldioxid per kilo livsmedel har sjunkit
 drygt 17 procent under året jämfört med förra årets
 resultat.
-
-34 Kungsbacka kommuns årsredovisning 2025
 
 Som ett kvitto på klimatarbetet placerade sig Kungsbacka
 kommun på första plats i rankingen Miljöfordonsdiagnos
@@ -2665,12 +2668,7 @@ samtidigt fortsatt att arbeta med hälsofrämjande utevis-
 telse. Medarbetare har fått utbildning i Häng med oss ut
 och vi har startat projektet Expedition Meningsfull Fritid
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | — |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | — |
+34 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 45 -->
 
@@ -3070,6 +3068,13 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
 
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+—
+ledare.
+
 Måluppfyllelse
 Trenden inom de olika fokusområdena skiljer sig inte
 avsevärt från tidigare år. Vi ser en fortsatt positiv riktning
@@ -3155,12 +3160,6 @@ av ytterligare utveckling. Vidare visar undersökningen
 att det fungerar bra att komma i kontakt med kommunen
 och få svar på frågor men möjligheten till insyn och
 inflytande kan bli bättre.
-
-[Tabell 52-1](handlingar.tabeller/52-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | — |
 
 <!-- sida 53 -->
 
@@ -4786,8 +4785,8 @@ FINANSIELLA RAPPORTER
 
 NOTER TILL                             NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor 2024 2025 2024 2025
+Kommunen   Koncernen                                 ernen
+belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor      2025
 Not 17                                  Not 21
 Förråd, lager och exploateringsfastigheter Avsättningar för pensioner och liknande förpliktelser
 Tekniska förvaltningens förråd
@@ -4863,6 +4862,12 @@ ningen uppgår till 1 191 miljoner kronor.
 Kungsbacka kommuns årsredovisning 2025 69
 
 [Tabell 79-1](handlingar.tabeller/79-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2024 | 2025 | 2024 |
+
+[Tabell 79-2](handlingar.tabeller/79-2.csv)
 
 | Övrig post | 16,3 | 3,9 | 16,3 | 3,9 |
 | --- | --- | --- | --- | --- |
@@ -4974,8 +4979,8 @@ FINANSIELLA RAPPORTER
 
 NOTER TILL                             NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor 2024 2025 2024 2025
+Kommunen   Koncernen                                 ernen
+belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor      2025
 ¹¹Avsättning Belysnings-                Övriga upplysningar
 anläggning, väg 955 Särö
 1 Avsättningen gäller återställning av avfallsdeponi. Barnamossen stängdes 31
@@ -5030,6 +5035,13 @@ nades år 2025. Projektet beräknas starta hösten 2026.
 (Eksta)
 Summa andra avsättningar 316,8 283,3 321,5 283,9
 Kungsbacka kommuns årsredovisning 2025 71
+
+[Tabell 81-1](handlingar.tabeller/81-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2024 | 2025 | 2024 |
+|  |  |  |
 
 <!-- sida 82 -->
 
@@ -6831,13 +6843,13 @@ Internkontrollrapport 2025
 
 [Tabell 118-1](handlingar.tabeller/118-1.csv)
 
-| Kategorier | Matrisnr Risker Till plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Efterlevnad till Ja<br>rekryteringsprocessen |
-| Ekonomi | 2 Debiteringsrutiner Ja |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 3 Kommunövergripande risk: Bristande följsamhet Ja<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning |
-| Verksamhet | 4 Kommunövergripande risk - Risk för korruption Ja<br>och välfärdsbrottslighet |
-|  | 5 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Efterlevnad till<br>rekryteringsprocessen | Ja |
+| Ekonomi |  | 2 | Debiteringsrutiner | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 3 | Kommunövergripande risk: Bristande följsamhet<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning | Ja |
+| Verksamhet |  | 4 | Kommunövergripande risk - Risk för korruption<br>och välfärdsbrottslighet | Ja |
+|  |  | 5 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 <!-- sida 119 -->
 
@@ -7060,27 +7072,27 @@ Nämndens självskattning
 
 [Tabell 124-125-1](handlingar.tabeller/124-125-1.csv)
 
-| Område | Frågor Svar 2025 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 125 -->
 
@@ -7502,11 +7514,12 @@ Sannolikhet
 
 [Tabell 136-1](handlingar.tabeller/136-1.csv)
 
-| Kategorier<br>Personal | Risker<br>Kommunövergripande risk: Efterlevnad till rekryteringsprocessen<br>(Kungsbacka kommun) |
-| --- | --- |
-| Informationssäker<br>het,<br>administration,<br>inköp... | Kommunövergripande risk: Bristande följsamhet till inköpsprocessen;<br>direktupphandling respektive avtalsuppföljning (Kungsbacka kommun) |
-| Verksamhet | Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet<br>(Kungsbacka kommun) |
-|  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
+| Kategorier |  | Risker |
+| --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Efterlevnad till rekryteringsprocessen<br>(Kungsbacka kommun) |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | Kommunövergripande risk: Bristande följsamhet till inköpsprocessen;<br>direktupphandling respektive avtalsuppföljning (Kungsbacka kommun) |
+| Verksamhet |  | Kommunövergripande risk - Risk för korruption och välfärdsbrottslighet<br>(Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
 
 <!-- sida 137 -->
 
@@ -7988,27 +8001,29 @@ Nämndernas självskattning
 
 16
 
-[Tabell 146-148-1](handlingar.tabeller/146-148-1.csv)
+[Tabell 146-149-1](handlingar.tabeller/146-149-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål och<br>styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-| Område | Frågor Svar 2025<br>Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Område<br>Riskanalys | Frågor Svar 2025<br>Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |
-| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål och<br>styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur, av<br>vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om vad<br>intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern kontroll<br>på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer är<br>dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag, synpunkter<br>och klagomål sammanställs och leder till<br>förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till politiskt<br>ansvariga |  |
+| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 147 -->
 
@@ -8028,10 +8043,6 @@ Internkontrollrapport 2025
 
 Kungsbacka kommun                                Kungsbacka kommun
 Internkontrollrapport 2025
-
-Område        Frågor                                 Svar 2025
-Vi har en fungerande introduktion av nya
-medarbetare
 
 19
 

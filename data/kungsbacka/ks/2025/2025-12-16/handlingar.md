@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f66052419afce94c17194bc/1765442358
 sha256: b300f6d21c0578f62568c01a23fda64d75b72a8229f98cedf09021846426f4df
 bytes: 102246330
 sidor: 665
-hamtad: 2026-11-09T08:31:43+00:00
-konverterad: 2026-11-09T08:41:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T22:47:28+00:00
+konverterad: 2026-11-18T22:56:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, tom, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2043,13 +2043,13 @@ Utdrag som bekräftar ensam lagfart för BR (1/1). Byggnadsplan 13-ÖLM-1006
 
 lantmäteriförrättningar, inlösenbeslut eller servitut för parkmark finns registrerade.
 
-Bilaga 2- Lantmäteriet: Fastighetsutdrag[ (2025-05-15)
+Bilaga 2- Lantmäteriet: Fastighetsutdrag [NN (2025-05-15)
 
 Utdrag som bekräftar ensam lagfart för BR (1/1). Byggnadsplan 13-ÖLM-1006
 (1951) gäller, men genomförandetiden har utgått. Inga uppgifter om parkmark, förrättning eller
 gemensamhetsanläggning.
 
-Bilaga 3 - Lantmäteriet: Fastighetsutdrag [ (2025-05-15)
+Bilaga 3 - Lantmäteriet: Fastighetsutdrag[ (2025-05-15)
 
 Utdrag som bekräftar ensam lagfart för BR (1/1). Samma byggnadsplan gäller (13-
 ÖLM-1006) med utgången genomförandetid. Fastigheten är samtaxerad med
@@ -2091,9 +2091,9 @@ Föreningen klargör att:
 
 « den inte äger någon mark,
 
-e deniinte har intresse av ny förrättning,
+e den inte har intresse av ny förrättning,
 
-e och att ingen anledning finns att ompröva samfälligheten.
+« och att ingen anledning finns att ompröva samfälligheten.
 
 Bilaga 9 - Dir. 2025:70 - Regeringens direktiv för utredning om egendomsskyddet
 
@@ -4103,7 +4103,7 @@ till ”intern praxis” eller till en 75 år gammal spökplan utan realisering 
 Jag uppmanar därför kommunstyrelsen att den 26 augusti fatta beslut i enlighet med
 rättsstatens principer:
 
-Antingen redovisa det lagstöd som man menar finns, eller
+e Antingen redovisa det lagstöd som man menar finns, eller
 
 » Förklara planbestämmelsen som ogiltig.
 
@@ -4148,7 +4148,7 @@ ekonomiskt och rekreationellt.
 En central del av översiktsplanen är att överbrygga barriärer som idag begränsar accessen till
 kusten och kopplar samman Åsas centrala delar med havet. Ett område på ca: 37 000 kvm,
 ursprungligen planerat som parkmark men aldrig realiserat, utgör just en sådan barriär.
-Markägaren har visat vilja att finansiera en strandpromenad -—- en lösning som direkt stöder
+Markägaren har visat vilja att finansiera en strandpromenad —- en lösning som direkt stöder
 kommunens ambitioner om ökad rekreation och tillgänglighet. Ändå har inga samtal inletts.
 Detta är anmärkningsvärt, särskilt när markägaren dessutom är öppen för att kombinera detta
 med bebyggelse, vilket kan driva förtätning och utveckling av verksamheter i linje med planens
@@ -4179,7 +4179,7 @@ blomstrande framtid — öppna dörren till samtalet nu!
 
 https://norrahalland.se/debatt/debatt-ge-aasa-en-blomstrande-framtid/47833
 
-I Kungsbacka ska det vara lätt att göra rätt
+I Kungsbacka ska det vara lätt att göra rätt 2
 
 Med vänlig hälsning
 
@@ -4200,7 +4200,7 @@ av planbestämmelsen, trots att jag som fastighetsägare i praktiken hindrats fr
 fastighet i enlighet med min äganderätt. Något lagstöd för denna hållning har inte presenterats.
 Kommunen har heller inte vidtagit någon rättslig prövning av frågan, utan hänvisar till intern
 praxis och invanda arbetssätt. Det är denna vägran att erkänna den faktiska inskränkningens
-existens —- och därmed undvika ersättningsskyldighet- som är det centrala problemet.
+existens — och därmed undvika ersättningsskyldighet- som är det centrala problemet.
 
 Det är viktigt att tydliggöra att rådighetsinskränkningar som inte grundar sig på tillfälliga
 förhållanden, och som varar över längre tid, utgör en form av expropriativt ingrepp. Enligt
@@ -7144,7 +7144,7 @@ internkontrollplaner
 
 beslutsstöd eller mallar som rör lagprövning
 
-2\. Samtliga utbildningsmaterial som rör tj änstemännens skyldighet att inte tillämpa
+2\. Samtliga utbildningsmaterial som rör tjänstemännens skyldighet att inte tillämpa
 grundlagsstridiga föreskrifter
 
 Exempel:
@@ -7586,7 +7586,7 @@ Det förklarar således:
 
 « inte varför grundlagen inte tillämpas,
 e inte varför normprövning inte gjorts,
-e inte varför lagstöd saknas,
+« inte varför lagstöd saknas,
 
 e inte varför kommunen hänvisar till praxis i stället för lag.
 
@@ -7911,7 +7911,7 @@ jag skulle ha missförstått en rättsregel, åligger det kommunen att:
 
 3\. tillämpa korrekt lagstöd ändå,
 
-eftersom det är myndigheten —- inte den enskilde — som har utredningsansvaret och som måste
+eftersom det är myndigheten - inte den enskilde - som har utredningsansvaret och som måste
 säkerställa att ärendet avgörs i enlighet med gällande rätt.
 
 Att jag inte är jurist får givetvis inte innebära att kommunen ställer krav på mig att prestera
@@ -7937,7 +7937,7 @@ Rättsligt stöd för denna begäran
 
 Min begäran grundas på:
 
-» JB 1 kap. 18- utgångspunkt för min rådighet
+« JB 1 kap. 18- utgångspunkt för min rådighet
 
 « RF 1:1 -legalitetsprincipen
 
@@ -7962,7 +7962,7 @@ frågan om normprövningen.
 Planbestämmelsens rättsverkningar och huvudmannaskap enligt PBL 4 och 14 kap.
 
 Eftersom planbestämmelsen anger enskilt huvudmannaskap för parkmarken, men ingen
-lantmärteriförrättning, ingen anläggningsbildning, ingen samfällighet och ingen faktisk huvudman
+lantmäteriförrättning, ingen anläggningsbildning, ingen samfällighet och ingen faktisk huvudman
 existerar, innebär detta att planbestämmelsen aldrig har realiserats och därför saknar materiell
 rättsverkan.
 
@@ -11975,7 +11975,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 7 (21
 
 [Tabell 333-1](handlingar.tabeller/333-1.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder<br>som garage, carportar, förråd samt rivning, mur och<br>eldstad förutsatt att det ingår i samma ansökan. | Planenligt | 33 250 kr |
@@ -12027,7 +12027,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 9 (21
 
 [Tabell 335-1](handlingar.tabeller/335-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder<br>samt murar förutsatt att de ingår i samma ansökan | Planenligt | 22 610 kr |
@@ -12104,7 +12104,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 337-1](handlingar.tabeller/337-1.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer<br>detaljplan. | 5 985 kr |
@@ -12113,7 +12113,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 337-2](handlingar.tabeller/337-2.csv)
 
-| A 4 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |  |
+| A 4 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 4.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig ändring av nöjesparker,<br>djurparker, idrottsplatser, skidbackar med liftar, kabinbanor, campingplatser,<br>skjutbanor, småbåtshamnar, friluftsbad, motorbanor och golfbanor | Timdebitering, dock<br>minst 2 timmar |
@@ -12130,7 +12130,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 338-1](handlingar.tabeller/338-1.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller<br>väsentlig ändring av mur eller plank, med tekniskt<br>samråd | Planenligt | 13 965 kr |
@@ -12151,7 +12151,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 338-2](handlingar.tabeller/338-2.csv)
 
-| A 6 Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |  |
+| A 6 | Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 6.1 | Förlängning av tidsbegränsat bygglov för ändamål av säsongskaraktär inom<br>ramen för tidigare beviljat lov | 50 % avdrag från full<br>avgift |
@@ -12161,7 +12161,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 338-3](handlingar.tabeller/338-3.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 970 kr |
@@ -12172,7 +12172,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 13 (2
 
 [Tabell 339-1](handlingar.tabeller/339-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
+| A 8 | Anmälningspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 8.1 | Rivning av byggnad eller en del av byggnad, med tekniskt samråd | 12 635 kr |
@@ -12229,7 +12229,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 341-1](handlingar.tabeller/341-1.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 15 295 kr |
@@ -12237,7 +12237,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 341-2](handlingar.tabeller/341-2.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 16 625 kr |
@@ -12246,7 +12246,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 341-3](handlingar.tabeller/341-3.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | Förhandsbesked | Utanför planlagt område | 24 605 kr |
@@ -12254,11 +12254,11 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 341-4](handlingar.tabeller/341-4.csv)
 
-| A 12 Villkorsbesked |  |  |
+| A 12 | Villkorsbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 12.1 | Villkorsbesked | Timdebitering, dock<br>minst 2 timmar |
-| A 13 Ingripandebesked |  |  |
+| A 13 | Ingripandebesked |  |
 | Ärendetyp |  | Avgift |
 | A 13.1 | Ingripandebesked | Timdebitering, dock<br>minst 2 timmar |
 
@@ -12268,7 +12268,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (2
 
 [Tabell 342-1](handlingar.tabeller/342-1.csv)
 
-| A 14 Extra tekniska kontroller eller besked |  |  |
+| A 14 | Extra tekniska kontroller eller besked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 320 kr |
@@ -12289,7 +12289,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (2
 
 [Tabell 343-1](handlingar.tabeller/343-1.csv)
 
-| A 15 Upprättande av nybyggnadskarta |  |  |  |
+| A 15 | Upprättande av nybyggnadskarta |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 15.1 | För ny- och tillbyggnad inom<br>detaljplanelagt område. Fastighetens yta<br>0-5000 kvm | Nyupprättande av nybyggnadskarta | 9 975 kr |
@@ -12343,7 +12343,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 345-1](handlingar.tabeller/345-1.csv)
 
-| A 17 Lov för åtgärder som inte kräver lov (frivilliga lov) |  |  |
+| A 17 | Lov för åtgärder som inte kräver lov (frivilliga lov) |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 17.1 | Åtgärd som inte kräver lov, där närliggande eller i princip motsvarande åtgärd<br>finns i någon av taxans övriga tabeller | I enlighet med<br>tillämplig tabell |
@@ -12351,28 +12351,28 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 345-2](handlingar.tabeller/345-2.csv)
 
-| A 18 Andra tids- eller kostnadskrävande åtgärder |  |  |
+| A 18 | Andra tids- eller kostnadskrävande åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 18.1 | Andra tids- eller kostnadskrävande åtgärder | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 345-3](handlingar.tabeller/345-3.csv)
 
-| A 19 Avslag |  |  |
+| A 19 | Avslag |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 19.1 | Avslag | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 345-4](handlingar.tabeller/345-4.csv)
 
-| A 20 Avskrivning |  |  |
+| A 20 | Avskrivning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 20.1 | Avskrivning | Timdebitering, dock<br>minst 1 timme |
 
 [Tabell 345-5](handlingar.tabeller/345-5.csv)
 
-| A 21 Avvisning |  |  |
+| A 21 | Avvisning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 21.1 | Avvisning | Timdebitering, dock<br>minst 2 timmar |
@@ -12383,7 +12383,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 346-1](handlingar.tabeller/346-1.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta. Moms tillkommer. | A4, skala 1:500 | 229 kr<br>+moms |
@@ -12399,7 +12399,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 346-2](handlingar.tabeller/346-2.csv)
 
-| A 23 Digital geografisk information |  |  |  |  |  |  |
+| A 23 | Digital geografisk information |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ärendetyp |  |  |  |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar. Moms tillkommer. | 1-5 ha |  |  | 1 719 kr<br>+moms |  |
@@ -12416,7 +12416,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 347-1](handlingar.tabeller/347-1.csv)
 
-| B 1 Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |  |
+| B 1 | Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 1.1 | Nybyggnad och tillbyggnad större än 15,0 m2 (BYA) av en- och tvåbostadshus | 41 250 kr |
@@ -12426,7 +12426,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 347-2](handlingar.tabeller/347-2.csv)
 
-| B 2 Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |  |
+| B 2 | Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 2.1 | Ny- och tillbyggnad eller annan ändring, dock ej fasadändring, 0 – 100 kvm (BTA+OPA) | 37 825 kr |
@@ -12436,7 +12436,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 347-3](handlingar.tabeller/347-3.csv)
 
-| B 3 Ansökan om planbesked |  |  |
+| B 3 | Ansökan om planbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 3.1 | Planbesked | 26 700 kr |
