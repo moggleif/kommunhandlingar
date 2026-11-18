@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.515f200f1a0adad2ac422f5/17896266011
 sha256: 0c352865240ea4188a3c3c8d31937e8fb11fb643cc929dc92e69ab4b20cc8a5a
 bytes: 26102022
 sidor: 328
-hamtad: 2026-11-09T09:29:26+00:00
-konverterad: 2026-11-09T09:31:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:42:25+00:00
+konverterad: 2026-11-18T23:44:26+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [43, 48, 49, 50, 51, 52, 53, 54, 55, 96, 97, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 293]
 figurer: [88, 90, 106, 113, 116, 120, 122, 124, 125, 128, 129, 130, 131, 132, 133, 135, 136, 138, 143, 147, 150, 151, 152, 156, 159, 160, 161, 175, 215, 243, 278, 318, 321, 323, 324]
 tolkade: []
@@ -760,47 +760,31 @@ Delårsrapport augusti 2026
 
 4.3 Resursmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                 2022       2023       2024       2025      2026
-Andel heltid      100 %     100 %     100 %      99,2 %     99,2 %
-Anställda andel kvinnor 74,2 % 72,6 % 73,2 %     72,8 %     75 %
-Anställda totalt   124       124       123        125        127
-
-Medelålder         45         46        47        48         47
-```
-
 4.4 Effektmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                 2022       2023       2024       2025      2026
-Personalomsättning 5,8 %    4,2 %      4 %       5,6 %      3,1 %
-Sjukfrånvaro Kvinnor 3,1 %  3,6 %      2,2 %      3 %       3,2 %
-
-Sjukfrånvaro Män  1 %       0,9 %      0,5 %     0,3 %      0,7 %
-Sjukfrånvaro Totalt 2,6 %   2,9 %      1,7 %     2,2 %      2,6 %
-```
-
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 31,5 %   27,8 %    19,5 %     17,6 %     37,1 %
-dagar eller mer
-Sjukfrånvaro,
-anställda i åldrarna 0,7 %  0 %        0,4 %      0 %        0 %
-29 år eller yngre
-
-Sjukfrånvaro,
-anställda i åldrarna 2,8 %  3,8 %      2,2 %     1,4 %      1,5 %
-30-49 år
-Sjukfrånvaro,
-anställda i åldrarna 2,4 %  1,6 %      1,1 %     3,5 %      4,1 %
-50 år eller äldre
-
 14
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Namn | Utfall jan-jun<br>2022 |  | Utfall jan-jun<br>2023 |  | Utfall jan-jun<br>2024 | Utfall jan-jun<br>2025 | Utfall jan-jun<br>2026 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Andel heltid |  | 100 % |  | 100 % | 100 % | 99,2 % | 99,2 % |
+| Anställda andel kvinnor |  | 74,2 % |  | 72,6 % | 73,2 % | 72,8 % | 75 % |
+| Anställda totalt |  | 124 |  | 124 | 123 | 125 | 127 |
+| Medelålder |  | 45 |  | 46 | 47 | 48 | 47 |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Namn | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 | Utfall jan-jun<br>2025 | Utfall jan-jun<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 5,8 % | 4,2 % | 4 % | 5,6 % | 3,1 % |
+| Sjukfrånvaro Kvinnor | 3,1 % | 3,6 % | 2,2 % | 3 % | 3,2 % |
+| Sjukfrånvaro Män | 1 % | 0,9 % | 0,5 % | 0,3 % | 0,7 % |
+| Sjukfrånvaro Totalt | 2,6 % | 2,9 % | 1,7 % | 2,2 % | 2,6 % |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 31,5 % | 27,8 % | 19,5 % | 17,6 % | 37,1 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>29 år eller yngre | 0,7 % | 0 % | 0,4 % | 0 % | 0 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>30-49 år | 2,8 % | 3,8 % | 2,2 % | 1,4 % | 1,5 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>50 år eller äldre | 2,4 % | 1,6 % | 1,1 % | 3,5 % | 4,1 % |
 
 <!-- sida 21 -->
 
@@ -957,8 +941,12 @@ Ersättningskrav enligt PBL 14 kap på grund av vägrat rivningslov för byggnad
 | --- | --- | --- | --- |
 | RSG statsbidrag 2022 | Bestridit betalningsansvar | 384 | Nej |
 | RSG statsbidrag 2023 | Bestridit betalningsansvar | 386 | Nej |
-| Ersättning för inskränkning av<br>användning av mark | Ansökan om stämning avvisad av<br>tingsrätten. Pågående<br>överklagandeprocess | 28 750 | Nej |
-| Ersättning på grund av vägrat<br>rivningsloversättning | Stämning vid mark- och<br>miljödomstolen | 21 250 | Nej |
+| Ersättning för inskränkning av | Ansökan om stämning avvisad av | 28 750 | Nej |
+|  | tingsrätten. Pågående |  |  |
+| användning av mark |  |  |  |
+|  | överklagandeprocess |  |  |
+| Ersättning på grund av vägrat | Stämning vid mark- och | 21 250 | Nej |
+| rivningsloversättning | miljödomstolen |  |  |
 
 <!-- sida 25 -->
 
@@ -1430,13 +1418,13 @@ Konsekvens                 obefintlig) - exempelvis 1 gång per intressenter och
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Ekonomi | 1 Debiteringsrutiner inom exploaterings- 2. Mindre 3. Kännbar (uppfattas som Ja<br>verksamheten vanligt besvärande för berörda<br>intressenter och kommunen) |
-| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | 2 Kommunövergripande risk: Bristande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>följsamhet till inköpsprocessen; besvärande för berörda<br>direktupphandling respektive intressenter och kommunen)<br>avtalsuppföljning |
-|  | 3 Kommunövergripande risk - Risk för 2. Mindre 4. Allvarlig/stor inverkan (så Ja<br>korruption och välfärdsbrottslighet vanligt stor att den inte får inträffa) |
-|  | 4 Kommunövergripande risk: 2. Mindre 3. Kännbar (uppfattas som Ja<br>Förvaltningarnas arbete med att följa och vanligt besvärande för berörda<br>utveckla det systematiska beredskapsarbetet intressenter och kommunen) |
-|  | 5 Kommunövergripande risk: Risk för 2. Mindre 3. Kännbar (uppfattas som Ja<br>bristande efterlevnad till NIS2-direktivet och vanligt besvärande för berörda<br>gällande rutiner och regelverk intressenter och kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | 1 Debiteringsrutiner inom exploaterings-<br>verksamheten | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. |  | 2 Kommunövergripande risk: Bristande<br>följsamhet till inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+|  |  | 3 Kommunövergripande risk - Risk för<br>korruption och välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan (så<br>stor att den inte får inträffa) | Ja |
+|  |  | 4 Kommunövergripande risk:<br>Förvaltningarnas arbete med att följa och<br>utveckla det systematiska beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+|  |  | 5 Kommunövergripande risk: Risk för<br>bristande efterlevnad till NIS2-direktivet och<br>gällande rutiner och regelverk | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
 
 <!-- sida 37 -->
 
@@ -1449,14 +1437,14 @@ Intern kontrollplan 2027
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Kategorier | Anledning till att risk ej tas<br>Risker Sannolikhet Konsekvens<br>till plan |
-| --- | --- |
-| Ekonomi | Kommunövergripande risk: 3. Kännbar Tas omhand i<br>Grundläggande redovisning (uppfattas som ekonomgruppens<br>kvalitetsbrister 2. Mindre besvärande för utvecklingsarbete<br>vanligt berörda "Rättvisande redovisning"<br>intressenter och samt i utredning kring<br>kommunen) "prislappsmodellen" |
-| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | Kommunövergripande risk: It- 3. Kännbar Tas omhand som en del av<br>säkerhet - Bristande driftmiljö (uppfattas som inköp och leverantörs-<br>hos leverantörer 2. Mindre besvärande för uppföljning. Även uppföljning<br>vanligt berörda genom systemförvalta-<br>intressenter och rmodellen.<br>kommunen) |
-|  | Kommunövergripande risk: Hanteras genom<br>Risk att samhällsutbyggnad Samhällsbyggnadsledning<br>inte kan ske i planerad takt. (Samhällsbyggnads-<br>Ny infrastruktur och processen) där vi kommer att<br>3. Kännbar<br>exploatering och projekt för arbeta med ”Obruten digital<br>(uppfattas som<br>underhåll/utbyggnad av samhällsbyggnadsprocess”<br>2. Mindre besvärande för<br>befintlig infrastruktur är samt ”Utbyggnadsplan”. I<br>vanligt berörda<br>beroende av varandra Samhällsbyggnadsledning<br>intressenter och<br>(resurser och samplanering). finns flera förvaltningar<br>kommunen)<br>representerade (Teknik,<br>Service, Bygg o Miljö, Kultur<br>o Fritid samt KSF genom<br>SBK och Ekonomi. |
-|  | Kommunövergripande risk: Risken för otillåten påverkan<br>Risk för otillåten påverkan tas om hand på<br>kommunövergripande nivå<br>3. Kännbar<br>genom dels utbildnings-<br>(uppfattas som<br>insatser, dels genom BRÅ-<br>2. Mindre besvärande för<br>arbetet. Ingår också som en<br>vanligt berörda<br>del av risken för korruption<br>intressenter och<br>och välfärdsbrottslighet.<br>kommunen)<br>Nämnderna tar också själva<br>upp utifrån behov och<br>relevans. |
-| Verksamhet | Kommunövergripande risk: 3. Kännbar Tas omhand genom<br>Dämpad befolkningstillväxt (uppfattas som budgetprocessen och<br>med långsiktig påverkan på 2. Mindre besvärande för lokalplanen.<br>kommunala verksamheter vanligt berörda<br>intressenter och<br>kommunen) |
-|  | Risk att kommunstyrelsen 3. Kännbar Tas omhand genom etablerat<br>uppsiktsplikt över den (uppfattas som arbetssätt och dialoger.<br>kommunala verksamheten 2. Mindre besvärande för Avseende ändrad lagstiftning<br>inte utförs ändamålsenligt vanligt berörda tas det omhand genom<br>intressenter och granskning av inköp och<br>kommunen) rapportering privata utförare. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att risk ej tas<br>till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergripande risk:<br>Grundläggande redovisning<br>kvalitetsbrister | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand i<br>ekonomgruppens<br>utvecklingsarbete<br>"Rättvisande redovisning"<br>samt i utredning kring<br>"prislappsmodellen" |
+| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. |  | Kommunövergripande risk: It-<br>säkerhet - Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand som en del av<br>inköp och leverantörs-<br>uppföljning. Även uppföljning<br>genom systemförvalta-<br>rmodellen. |
+|  |  | Kommunövergripande risk:<br>Risk att samhällsutbyggnad<br>inte kan ske i planerad takt.<br>Ny infrastruktur och<br>exploatering och projekt för<br>underhåll/utbyggnad av<br>befintlig infrastruktur är<br>beroende av varandra<br>(resurser och samplanering). | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnadsledning<br>(Samhällsbyggnads-<br>processen) där vi kommer att<br>arbeta med ”Obruten digital<br>samhällsbyggnadsprocess”<br>samt ”Utbyggnadsplan”. I<br>Samhällsbyggnadsledning<br>finns flera förvaltningar<br>representerade (Teknik,<br>Service, Bygg o Miljö, Kultur<br>o Fritid samt KSF genom<br>SBK och Ekonomi. |
+|  |  | Kommunövergripande risk:<br>Risk för otillåten påverkan | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken för otillåten påverkan<br>tas om hand på<br>kommunövergripande nivå<br>genom dels utbildnings-<br>insatser, dels genom BRÅ-<br>arbetet. Ingår också som en<br>del av risken för korruption<br>och välfärdsbrottslighet.<br>Nämnderna tar också själva<br>upp utifrån behov och<br>relevans. |
+| Verksamhet |  | Kommunövergripande risk:<br>Dämpad befolkningstillväxt<br>med långsiktig påverkan på<br>kommunala verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>budgetprocessen och<br>lokalplanen. |
+|  |  | Risk att kommunstyrelsen<br>uppsiktsplikt över den<br>kommunala verksamheten<br>inte utförs ändamålsenligt | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom etablerat<br>arbetssätt och dialoger.<br>Avseende ändrad lagstiftning<br>tas det omhand genom<br>granskning av inköp och<br>rapportering privata utförare. |
 
 <!-- sida 38 -->
 
@@ -6201,10 +6189,17 @@ vattenförbrukningen per person att sjunka men det är inte möjligt att prognos
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
 
-|  | Västra Götalands läns<br>vattenbehov år 2100<br>(m3/dygn) | Västra Götalands läns<br>vattenbehov år 2100 vid<br>högsäsong (m3/dygn) |
+|  |  |  |
 | --- | --- | --- |
+|  | Västra Götalands läns | Västra Götalands läns |
+|  | vattenbehov år 2100 | vattenbehov år 2100 vid |
+|  | (m3/dygn) | högsäsong (m3/dygn) |
+|  |  |  |
 | Hushållens vattenbehov (130 L/p/d) | 284 000 | 325 000 |
-| Totalt dricksvattenbehov i allmän<br>vattenförsörjning (180 L/p/d) | 393 000 | 451 000 |
+|  |  |  |
+| Totalt dricksvattenbehov i allmän<br>vattenförsörjning (180 L/p/d) | 393 000 |  |
+|  |  | 451 000 |
+|  |  |  |
 
 <!-- sida 155 -->
 
@@ -6356,32 +6351,53 @@ Nationellt viktiga dricksvattenresurser
 1\. Göta Älv    2. Vänern       3. Vättern
 
 Regionalt viktiga dricksvattenresurser – grundvatten
-13\. Fänneslunda- 22. Magasinsgrupp Rösjön
+
 4\. Algutstorp-Horla                                 31. Ödskölts moar
-Rångedala       Hornborga Valle Timmersdala
-5\. Backen      14. Gråbodeltat 23. Rådaåsen         32. Örbydeltat
-6\. Blidsberg-Ulricehamn 15. Göjeholm 24. Sandhem-Hömb norr 33. Östadsdeltat
-7\. Nolåns dalgång 16. Hagelberg 25. Sandhem-Hömb söder 34. Östra Frölunda
+5\. Backen                                           32. Örbydeltat
 
-8\. Bullarebygden 17. Hökensås  26. Svenljunga
-9\. Dalsjöfors  18. Kinnarumma-Fritsla 27. Tibro
+6\. Blidsberg-Ulricehamn                             33. Östadsdeltat
+7\. Nolåns dalgång                                   34. Östra Frölunda
 
-10\. Nittorp    19. Kolarp      28. Tranemo
+8\. Bullarebygden
+9\. Dalsjöfors
 
-11\. Diseröd Norra 20. Töreboda 29. Ambjörnarp
-12\. Diseröd Södra 21. Hova     30. Sjötofta
+10\. Nittorp
+
+11\. Diseröd Norra
+12\. Diseröd Södra
 
 Regionalt viktiga dricksvattenresurser – ytvatten
 
-35\. Kärnsjön   40. Rådasjön    45. Västra Nedsjön   50. Öresjö Viskan
-36\. Lelång     41. Stora Hällungen 46. Åsunden      51. Östra Nedsjön
+35\. Kärnsjön                                        50. Öresjö Viskan
+36\. Lelång                                          51. Östra Nedsjön
 
-37\. Lygnern    42. Säven       47. Yttre Åsunden    52. Östra Öresjön
-38\. Mjörn      43. Södra Bullaresjön 48. Ömmern
+37\. Lygnern                                         52. Östra Öresjön
+38\. Mjörn
 
 39\. Norra Bullaresjön 44. Tolken (Ulricehamn) 49. Öresjö Bäveån
 
 53
+
+[Tabell 158-1](handlingar.tabeller/158-1.csv)
+
+| 13. Fänneslunda-<br>Rångedala | 22. Magasinsgrupp Rösjön<br>Hornborga Valle Timmersdala |
+| --- | --- |
+| 14. Gråbodeltat | 23. Rådaåsen |
+| 15. Göjeholm | 24. Sandhem-Hömb norr |
+| 16. Hagelberg | 25. Sandhem-Hömb söder |
+| 17. Hökensås | 26. Svenljunga |
+| 18. Kinnarumma-Fritsla | 27. Tibro |
+| 19. Kolarp | 28. Tranemo |
+| 20. Töreboda | 29. Ambjörnarp |
+| 21. Hova | 30. Sjötofta |
+
+[Tabell 158-2](handlingar.tabeller/158-2.csv)
+
+| 40. Rådasjön | 45. Västra Nedsjön |
+| --- | --- |
+| 41. Stora Hällungen | 46. Åsunden |
+| 42. Säven | 47. Yttre Åsunden |
+| 43. Södra Bullaresjön | 48. Ömmern |
 
 <!-- sida 159 -->
 

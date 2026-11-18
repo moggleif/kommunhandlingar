@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.77ab358719eb489f947b9c/178115919200
 sha256: d446ebcb288fc71223ceaa413bf6612a7069b2e7bc92b0dcbf27e5df5acb0c80
 bytes: 283689611
 sidor: 689
-hamtad: 2026-11-09T09:18:09+00:00
-konverterad: 2026-11-09T09:27:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:31:33+00:00
+konverterad: 2026-11-18T23:40:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -14970,72 +14970,19 @@ Utvärdering av Målbild tåg 2035                           Sida 31
 
 Bilaga  2  – uppföljning    av hastigheter    per  bana
 
-Hastighet
-Hastighet        Hastighet
-2035 enligt
-Bana          2013             nuläge Kommentar
-målbild tåg
-(km/h)           (km/h)
-(km/h)
-Banan har fått höjd kapacitet genom
-Bohusbanan:
-90–140  110–160  90–140 ny mötesstation i Grohed men ingen
-Strömstad–Göteborg
-höjd hastighet.
-Norge-Vänerbanan:                     Enligt förslag ska sträckan Göteborg -
-Kornsjö/Karlstad– 160–200 160–250 160–200 Öxnered höjas till 250km/h. Ingår inte
-Göteborg                              i nuvarande nationell plan.
-Banan har fått höjd kapacitet genom
-ett antal genomförda åtgärder.
-Västra stambanan:                     Långsiktiga planer finns på nytt
-140–200 140–200 140–200
-Hallsberg – Göteborg                  dubbelspår Göteborg - Alingsås,
-vilket skulle höja hastigheten på
-sträckan.
-Göteborg – Borås kommer inte att
-uppnå 320 km/h. Trafikverkets
-positionspapper från 2018 gav en
-inriktning att sträckan Göteborg -
-Götalandsbanan/Kust
-Borås ska ha en hastighet på 250
-till kustbanan: Göteborg 90–140 200–320 90–140
-km/h (dock inte till 2035). Detta
-\- Borås
-förstärktes på grund av regeringens
-beslut i december 2022, om ändrat
-fokus från nya stambanor till fokus på
-regionala järnvägar och underhåll.
-Ingår inte i nuvarande nationella plan
-att höja till 250 km/h. Då SJ redan
-investerat i fordon dimensionerade
-Västkustbanan:
-90–200  160–250 160–200 för denna hastighet, finns en
-Halmstad–Göteborg
-möjlighet att det kan komma med i
-nästkommande nationella plan
-(2026–2037).
-Planeras för en hastighetshöjning
-Älvsborgsbanan:
-90–160   160     90–160 med medel från regional plan. Finns
-Uddevalla–Borås
-ingen tidplan för närvarande.
-Planeras för en hastighetshöjning
-Kinnekullebanan:
-80–100  110–160  80–100 med stöd från regional plan. Finns
-Gårdsjö–Håkantorp
-ingen tidplan för närvarande.
-Banan har fått höjd kapacitet genom
-Jönköpingsbanan:
-90–160   160     90–160 ombyggnad av mötesstationerna
-Falköping–Jönköping
-men ingen höjd hastighet.
-Hastigheten sänktes 2017 på grund
-av dålig spårstandard. Spåren byttes
-Viskadalsbanan: Borås–                2022-2023 men den sänkta
-90–110  110–160  80–110
-Varberg                               hastigheten kvarstod på grund av det
-höga antalet obevakade
-plankorsningar.
+[Tabell 420-1](handlingar.tabeller/420-1.csv)
+
+| Bana | Hastighet<br>2013<br>(km/h) | Hastighet<br>2035 enligt<br>målbild tåg<br>(km/h) | Hastighet<br>nuläge<br>(km/h) | Kommentar |
+| --- | --- | --- | --- | --- |
+| Bohusbanan:<br>Strömstad–Göteborg | 90–140 | 110–160 | 90–140 | Banan har fått höjd kapacitet genom<br>ny mötesstation i Grohed men ingen<br>höjd hastighet. |
+| Norge-Vänerbanan: Enligt förslag ska sträckan Göteborg -<br>Kornsjö/Karlstad– 160–200 160–250 160–200 Öxnered höjas till 250km/h. Ingår inte<br>Göteborg i nuvarande nationell plan. |  |  |  |  |
+| Västra stambanan:<br>Hallsberg – Göteborg | 140–200 | 140–200 | 140–200 | Banan har fått höjd kapacitet genom<br>ett antal genomförda åtgärder.<br>Långsiktiga planer finns på nytt<br>dubbelspår Göteborg - Alingsås,<br>vilket skulle höja hastigheten på<br>sträckan. |
+| Göteborg – Borås kommer inte att<br>uppnå 320 km/h. Trafikverkets<br>positionspapper från 2018 gav en<br>inriktning att sträckan Göteborg -<br>Götalandsbanan/Kust<br>Borås ska ha en hastighet på 250<br>till kustbanan: Göteborg 90–140 200–320 90–140<br>km/h (dock inte till 2035). Detta<br>- Borås<br>förstärktes på grund av regeringens<br>beslut i december 2022, om ändrat<br>fokus från nya stambanor till fokus på<br>regionala järnvägar och underhåll. |  |  |  |  |
+| Västkustbanan:<br>Halmstad–Göteborg | 90–200 | 160–250 | 160–200 | Ingår inte i nuvarande nationella plan<br>att höja till 250 km/h. Då SJ redan<br>investerat i fordon dimensionerade<br>för denna hastighet, finns en<br>möjlighet att det kan komma med i<br>nästkommande nationella plan<br>(2026–2037). |
+| Planeras för en hastighetshöjning<br>Älvsborgsbanan:<br>90–160 160 90–160 med medel från regional plan. Finns<br>Uddevalla–Borås<br>ingen tidplan för närvarande. |  |  |  |  |
+| Kinnekullebanan:<br>Gårdsjö–Håkantorp | 80–100 | 110–160 | 80–100 | Planeras för en hastighetshöjning<br>med stöd från regional plan. Finns<br>ingen tidplan för närvarande. |
+| Banan har fått höjd kapacitet genom<br>Jönköpingsbanan:<br>90–160 160 90–160 ombyggnad av mötesstationerna<br>Falköping–Jönköping<br>men ingen höjd hastighet. |  |  |  |  |
+| Viskadalsbanan: Borås–<br>Varberg | 90–110 | 110–160 | 80–110 | Hastigheten sänktes 2017 på grund<br>av dålig spårstandard. Spåren byttes<br>2022-2023 men den sänkta<br>hastigheten kvarstod på grund av det<br>höga antalet obevakade<br>plankorsningar. |
 
 <!-- sida 421 -->
 
@@ -17659,7 +17606,7 @@ Resandet på huvudlinjerna i Halmstads stadsbusstrafik har haft en stabil och po
 
 [Tabell 503-1](handlingar.tabeller/503-1.csv)
 
-| Trafikslag Klassificering Utbud |  |  |
+| Trafikslag | Klassificering | Utbud |
 | --- | --- | --- |
 | Stadsbuss | Mycket starka stråk | 54 turer per vardag och riktning |
 | Stadsbuss | Starka stråk | 28 turer per vardag och riktning |

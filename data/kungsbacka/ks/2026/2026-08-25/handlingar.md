@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4d978f5f1a01d631f6a1b53/17872062654
 sha256: 59e1ce085774813108d7e7d3615ab3ab62582407f9a475c4b7aa6b30e9abf0c0
 bytes: 19425746
 sidor: 345
-hamtad: 2026-11-09T09:27:19+00:00
-konverterad: 2026-11-09T09:29:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:40:36+00:00
+konverterad: 2026-11-18T23:42:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [8, 9, 10, 11, 12, 13, 14, 302, 303, 304, 305, 306, 307, 308, 311, 331]
 figurer: [8, 9, 10, 11, 12, 13, 14, 168, 178, 179, 180, 216, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 248, 249, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 297, 312, 313, 314, 315, 316, 317, 318, 322, 342, 343]
 tolkade: []
@@ -4418,28 +4418,27 @@ minst en ettårig utbildning på eftergymnasial nivå.
 Tabell 4. Uppskattat antal anställda utan eftergymnasial utbildning
 som påverkas av kravet, två scenarier
 
-9 § 9 LSS  Skattad   Skattad   Antal
-ytterligare
-Anställda Antal
-anställda som
-med högre anställda
-behöver
-utbildning utan högre
-utbildas för
-idag\*, totalt utbildning
-att uppfylla
-idag\*, totalt
-kravet
-A) 13% redan 6 885   47 760    6 776
+9 § 9 LSS
+
+A) 13% redan
 utbildade idag
-B) 20% redan 10 929  43 717    2 732
+B) 20% redan
 utbildade idag
 Socialstyrelsens egna beräkningar. Anm.: \* I denna grupp ingår både månadsavlönade samt timanställda.
+
 I dagsläget uppskattas att mellan 6 885 – 10 929 anställda över hela landet
 redan har en eftergymnasial utbildning. Resultatet visar att ett krav om att
 25 procent ska ha en eftergymnasial utbildning innebär att ytterligare ca.
 2 732 – 6 776 personer behöver uppnå denna utbildningsnivå, vilket medför
+
 62
+
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| Skattad<br>Anställda<br>med högre<br>utbildning<br>idag\*, totalt | Skattad<br>Antal<br>anställda<br>utan högre<br>utbildning<br>idag\*, totalt | Antal<br>ytterligare<br>anställda som<br>behöver<br>utbildas för<br>att uppfylla<br>kravet |
+| --- | --- | --- |
+| 6 885 | 47 760 | 6 776 |
+| 10 929 | 43 717 | 2 732 |
 
 <!-- sida 88 -->
 
@@ -4555,18 +4554,10 @@ bostäder med särskild service för vuxna (Tabell 5).
 
 Tabell 5. Kostnadsanalys för kommuner 9 § 9 LSS
 
-Föreslaget Antal som Extra Extra kostnad Andel av totala kostnaden för
-krav      ska      Kostnad per personal (kr) bostäder med särskild service
-utbildas per år              för vuxna
-(mnkr)
-A) 7 650
-Minst 25%          583     19 598      1,4%
-har efter-
-gymnasial B) 2 732 235     7 902       0,6%
-utbildning\*
 Källa: Socialstyrelsens egna beräkningar Anm.: A utgår från data i enhetsundersökningen, Öppna jämförelser
 – enhetsundersökningen inom LSS, Socialstyrelsen (2025) och B utgår från data i Kompetens i LSS-boenden
 Socialstyrelsen (2021).
+
 3.3 Kostnader     och   intäkter  för
 
 regionerna
@@ -4600,6 +4591,13 @@ regionernas organisation eller verksamhetsformer.
 
 86 Se 17 § LSS.
 65
+
+[Tabell 90-1](handlingar.tabeller/90-1.csv)
+
+| Föreslaget<br>krav | Antal som<br>ska<br>utbildas | Extra<br>Kostnad<br>per år<br>(mnkr) | Extra kostnad<br>per personal (kr) | Andel av totala kostnaden för<br>bostäder med särskild service<br>för vuxna |
+| --- | --- | --- | --- | --- |
+| Minst 25%<br>har efter-<br>gymnasial<br>utbildning\* | A) 7 650 | 583 | 19 598 | 1,4% |
+|  | B) 2 732 | 235 | 7 902 | 0,6% |
 
 <!-- sida 91 -->
 
@@ -12866,28 +12864,43 @@ Zon 2 - Kungsbacka stad – 50 % av högsta avgift.
 Zon 3 - Kungsbacka kommun – 25 % av högsta avgift.
 
 4.3 Taxetabell
+N
+Typ av taxa               Avgift            Kommentar
+r
+Affischpelare och skyltar
+1  (kommersiella)            5 000 kr/år
+
+2  Borttagande av otillåten skyltning Självkostnad
+Butiksexponering, skyltvaror utanför        Tillstånd krävs utifrån
+3  butik                     0 kr/år           tillgänglighet och framkomlighet.
+
+Byggetablering - upplag, bod och 25 kr/m²/påbörjad månad
+4  byggställning             Minimiavgift 500 kr
+Byggnad för teknisk anläggning
+5  (kommersiell)             7 500 kr/år
+6  Byggskyltar, infotavla    1 000 kr/år
+7  Cirkus och tivoli         2 000 kr/plats/dag
+
+200 kr/st/påbörjad vecka
+8  Containeruppställning     8 000 kr/kalenderår
+9  Festivaler, utställningar 5 kr/m²/år
+10 Julgransförsäljning       500 kr/plats/år
+11 Laddstolpar               1 200 kr/stolpe/år
+Fasta platser finns för tillfället
+endast på Lindens Torg.
+Kostnad för el tillkommer efter
+Matvagn eller foodtruck, fast plats per     faktisk förbrukning enligt
+12 år                        3 800 kr/3 lpm plats/år e l m ä t are.
+500 kr/månad
+750 kr/månad ink el
+300 kr/1-3 dagar
+450 kr/1-3 dagar ink el Enligt riktlinjer för upplåtelse av
+13 Mobil matvagn eller foodtruck Elkostnad 500 kr/månad a ll m ä n p l a t s m a r k
+Minigolf, boule, varpa och liknande 2 kr/m²/år.
+14 uthyrningsverksamheter    Minimiavgift 500 kr
 
 Taxa för upplåtelse av allmän platsmark
 Sida 4 av 6
-
-[Tabell 288-1](handlingar.tabeller/288-1.csv)
-
-| N<br>r | Typ av taxa | Avgift | Kommentar |
-| --- | --- | --- | --- |
-| 1 | Affischpelare och skyltar<br>(kommersiella) | 5 000 kr/år |  |
-| 2 | Borttagande av otillåten skyltning | Självkostnad |  |
-| 3 | Butiksexponering, skyltvaror utanför<br>butik | 0 kr/år | Tillstånd krävs utifrån<br>tillgänglighet och framkomlighet. |
-| 4 | Byggetablering - upplag, bod och<br>byggställning | 25 kr/m²/påbörjad månad<br>Minimiavgift 500 kr |  |
-| 5 | Byggnad för teknisk anläggning<br>(kommersiell) | 7 500 kr/år |  |
-| 6 | Byggskyltar, infotavla | 1 000 kr/år |  |
-| 7 | Cirkus och tivoli | 2 000 kr/plats/dag |  |
-| 8 | Containeruppställning | 200 kr/st/påbörjad vecka<br>8 000 kr/kalenderår |  |
-| 9 | Festivaler, utställningar | 5 kr/m²/år |  |
-| 10 | Julgransförsäljning | 500 kr/plats/år |  |
-| 11 | Laddstolpar | 1 200 kr/stolpe/år |  |
-| 12 | Matvagn eller foodtruck, fast plats per<br>år | 3 800 kr/3 lpm plats/år | Fasta platser finns för tillfället<br>endast på Lindens Torg.<br>Kostnad för el tillkommer efter<br>faktisk förbrukning enligt<br>e l m ä t are. |
-| 13 | Mobil matvagn eller foodtruck | 500 kr/månad<br>750 kr/månad ink el<br>300 kr/1-3 dagar<br>450 kr/1-3 dagar ink el<br>Elkostnad 500 kr/månad | Enligt riktlinjer för upplåtelse av<br>a ll m ä n p l a t s m a r k |
-| 14 | Minigolf, boule, varpa och liknande<br>uthyrningsverksamheter | 2 kr/m²/år.<br>Minimiavgift 500 kr |  |
 
 <!-- sida 289 -->
 
@@ -12902,19 +12915,19 @@ Sida 5 av 6
 
 [Tabell 289-1](handlingar.tabeller/289-1.csv)
 
-| 16 | Postbox, paketutlämningsskåp | 500 kr/skåp/år<br>5 000 kr/skåp eller box/år |  |
-| --- | --- | --- | --- |
-| 17 | Skylift och mobilkran (och bygghiss) | 20 kr/m²/påbörjad månad<br>Minimiavgift 500 kr |  |
-| 18 | Telemast med tillhörande byggnad för<br>teknisk anläggning | 30 000 kr/år |  |
-| 19 | Telemast utan tillhörande byggnad för<br>teknisk anläggning | 25 000 kr/år |  |
-| 20 | Tillfällig försäljning | 300 kr/tillfälle 1-3 dagar<br>500 kr/månad |  |
-| 21 | Torgavgift | 85 kr/plats/dag, 3x3 m<br>25 kr/lpm | Gäller för Kungsbacka torg och<br>Lindens torg. |
-| 22 | Trottoarpratare | 0 kr/år | Tillstånd krävs utifrån<br>tillgänglighet och framkomlighet. |
-| 23 | Uteserveringar | 250 kr/m²/år<br>Stakethyra 200 kr/m |  |
-| 24 | För övriga upplåtelser, som inte kan<br>hänföras till någon annan avgiftspost,<br>ska i första hand likställas med annan<br>jämförbar upplåtelse, i andra hand<br>fastställer nämnden för Teknik<br>avgiften för upplåtelsen | 10 kr/m²/år | Avgiften ska dock, enligt 1 § i<br>lag (1957:259) om rätt för<br>kommun att ta ut avgift för vissa<br>upplåtelser av offentlig plats,<br>m.m. vara skäligt med hänsyn till<br>ändamålet med upplåtelsen,<br>nyttjarens fördel av denna,<br>kommunens kostnader med<br>anledning av upplåtelsen och<br>övriga omständigheter. |
-|  |  |  |  |
-|  | Direkt avgränsade ytor för försäljning<br>- serveringstält och liknande,<br>försäljning vid olika typer av<br>tillställningar, konserter med mera | 500 kr/månad<br>300 kr/1-3 dagar | Föreslås tas bort med att<br>m o t s v a r a n d e t a x a f i n n s m e d<br>t i l lf ä l l i g f ö r s ä l jn i n g |
-|  | Försäljningskiosker, bodar och pop-<br>up-containers | 10 000 kr/år | Föreslås tas bort då inga<br>ansökningar inkomna |
+| 16 | Postbox, paketutlämningsskåp | 500 kr/skåp/år<br>5 000 kr/skåp eller box/år |  |  |
+| --- | --- | --- | --- | --- |
+| 17 | Skylift och mobilkran (och bygghiss) | 20 kr/m²/påbörjad månad<br>Minimiavgift 500 kr |  |  |
+| 18 | Telemast med tillhörande byggnad för<br>teknisk anläggning | 30 000 kr/år |  |  |
+| 19 | Telemast utan tillhörande byggnad för<br>teknisk anläggning | 25 000 kr/år |  |  |
+| 20 | Tillfällig försäljning | 300 kr/tillfälle 1-3 dagar<br>500 kr/månad |  |  |
+| 21 | Torgavgift | 85 kr/plats/dag, 3x3 m<br>25 kr/lpm | Gäller för Kungsbacka torg och<br>Lindens torg. |  |
+| 22 | Trottoarpratare | 0 kr/år | Tillstånd kräv<br>tillgänglighet | s utifrån<br>och framkomlighet. |
+| 23 | Uteserveringar | 250 kr/m²/år<br>Stakethyra 200 kr/m |  |  |
+| 24 | För övriga upplåtelser, som inte kan<br>hänföras till någon annan avgiftspost,<br>ska i första hand likställas med annan<br>jämförbar upplåtelse, i andra hand<br>fastställer nämnden för Teknik<br>avgiften för upplåtelsen | 10 kr/m²/år | Avgiften ska dock, enligt 1 § i<br>lag (1957:259) om rätt för<br>kommun att ta ut avgift för vissa<br>upplåtelser av offentlig plats,<br>m.m. vara skäligt med hänsyn till<br>ändamålet med upplåtelsen,<br>nyttjarens fördel av denna,<br>kommunens kostnader med<br>anledning av upplåtelsen och<br>övriga omständigheter. |  |
+|  |  |  |  |  |
+|  | Direkt avgränsade ytor för försäljning<br>- serveringstält och liknande,<br>försäljning vid olika typer av<br>tillställningar, konserter med mera | 500 kr/månad<br>300 kr/1-3 dagar | Föreslås tas bort med att<br>m o t s v a r a n d e t a x a f i n n s m e d<br>t i l lf ä l l i g f ö r s ä l jn i n g |  |
+|  | Försäljningskiosker, bodar och pop-<br>up-containers | 10 000 kr/år | Föreslås tas bort då inga<br>ansökningar inkomna |  |
 
 <!-- sida 290 -->
 
