@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.69662c5a18d8755e10814ac3/1707978389
 sha256: edc2787ecf8261a8afdd867190e32c3bf3eea3a49e3dc17bcec3a3ccc3b7a8ca
 bytes: 61719067
 sidor: 993
-hamtad: 2026-11-08T21:00:13+00:00
-konverterad: 2026-11-08T21:07:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:45:19+00:00
+konverterad: 2026-11-18T11:52:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [10, 98, 99, 122, 168, 171, 209, 210, 212, 217, 236, 237, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 298, 299, 300, 301, 302, 303, 306, 316, 323, 331, 352, 359, 360, 361, 362, 363, 364, 367, 403, 406, 444, 445, 447, 448, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 499, 507, 508, 509, 516, 517, 554, 767, 772, 791, 823, 839, 840, 918, 919, 920, 921, 922, 923, 924, 925, 932, 933, 957, 958, 959, 960, 961, 962, 963, 978, 987, 993]
 figurer: [10, 51, 82, 108, 109, 110, 111, 112, 117, 118, 119, 133, 134, 135, 137, 138, 139, 140, 141, 142, 143, 144, 146, 147, 148, 149, 150, 151, 152, 153, 154, 168, 169, 170, 171, 172, 173, 177, 183, 190, 191, 194, 195, 196, 197, 198, 199, 200, 217, 238, 255, 256, 260, 261, 262, 263, 264, 265, 266, 267, 272, 298, 299, 300, 301, 302, 305, 318, 320, 321, 322, 334, 338, 339, 359, 360, 361, 362, 363, 366, 396, 397, 398, 403, 404, 405, 406, 407, 408, 412, 418, 425, 426, 429, 430, 431, 432, 433, 434, 435, 463, 466, 467, 469, 470, 471, 472, 473, 478, 480, 481, 482, 486, 489, 491, 495, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 523, 525, 526, 527, 528, 530, 535, 539, 542, 544, 768, 769, 775, 779, 780, 809, 810, 851, 858, 914, 918, 919, 920, 921, 922, 923, 924, 925, 957, 958, 959, 960, 961, 962, 963, 987]
 tolkade: []
@@ -802,45 +802,10 @@ Nämndens årsredovisning 2023
 
 5.2 Resursmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-2019    2020    2021   2022    2023
-Ledtid planbesked till projektstart, anges i
-17     5,35     24         24      31
-månader
-Digital mognadsgrad          48%     54%     51,9%    53,4%     57%
-
 5.3 Prestationsmått
-
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-
-```osaker-tabell
-                             2019    2020    2021   2022    2023
-Upprättade detaljplaner       26      10      11         12       9
-
-Antal företagsärenden i tillståndslotsen 15 32 46        50      60
-Planlagda bostäder           424     336      662       381     386
-Automatiserade processer              10      11          3       7
-```
 
 5.4 Effektmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-2019    2020    2021   2022    2023
-Kommunen arbetar aktivt för att förbättra
-integration och delaktighet av människor i 22%        26,6%
-samhället
-Kommunens information om vad du kan
-göra för att minska din miljö- och         54,5%      44,6%
-klimatpåverkan
-
-Kommunikation vid större förändringar i
-kommunen, exempelvis stadsplanering,       48,7         48,3
-byggnationer
-Antal nystartade företag per tusen
-12,2    13,1  13,8         12,5
-invånare (etableringsfrekvens)
-Antal arbetsställen         11 221  11 384 11 603     11 808
-Sysselsatt dagbefolkning, 15-74 år 27 610 27 384 28 167 27 695
 De tre översta måtten är ifrån SCB:s medborgarundersökning och har inget utfall under 2023 då Kungsbacka kommun bara deltar i SCB:s
 medborgarundersökning vartannat år. De tre översta måtten visar på andelen respondenter i SCB:s medborgarundersökning som angett
 svarsalternativen mycket bra och ganska bra.
@@ -848,6 +813,33 @@ Måtten antal nystartade företag, antal arbetsställen samt sysselsatt dagbefol
 uppdaterade siffran.
 
 14
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Ledtid planbesked till projektstart, anges i<br>månader | 17 | 5,35 | 24 | 24 | 31 |
+| Digital mognadsgrad | 48% | 54% | 51,9% | 53,4% | 57% |
+
+[Tabell 23-2](handlingar.tabeller/23-2.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 26 | 10 | 11 | 12 | 9 |
+| Antal företagsärenden i tillståndslotsen | 15 | 32 | 46 | 50 | 60 |
+| Planlagda bostäder | 424 | 336 | 662 | 381 | 386 |
+| Automatiserade processer |  | 10 | 11 | 3 | 7 |
+
+[Tabell 23-3](handlingar.tabeller/23-3.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Kommunen arbetar aktivt för att förbättra<br>integration och delaktighet av människor i<br>samhället |  |  | 22% | 26,6% |  |
+| Kommunens information om vad du kan<br>göra för att minska din miljö- och<br>klimatpåverkan |  |  | 54,5% | 44,6% |  |
+| Kommunikation vid större förändringar i<br>kommunen, exempelvis stadsplanering,<br>byggnationer |  |  | 48,7 | 48,3 |  |
+| Antal nystartade företag per tusen<br>invånare (etableringsfrekvens) | 12,2 | 13,1 | 13,8 | 12,5 |  |
+| Antal arbetsställen | 11 221 | 11 384 | 11 603 | 11 808 |  |
+| Sysselsatt dagbefolkning, 15-74 år | 27 610 | 27 384 | 28 167 | 27 695 |  |
 
 <!-- sida 24 -->
 
@@ -984,30 +976,27 @@ Sjukfrånvaron är fortsatt låg på kommunstyrelsens förvaltning jämfört med
 
 6.4 Resursmått
 
-Namn            Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
-
-```osaker-tabell
-Andel heltid      99,2%      100%      100%          100%      100%
-
-Anställda andel kvinnor 76%  73,8%      74%         75,8%       72%
-Anställda totalt   127        126       127           124       125
-
-Medelålder          44        44        45             45        46
-```
-
 6.5 Effektmått
 
-Namn           Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
-
-```osaker-tabell
-Personalomsättning 10,7%    12,9%      7,4%         11,7%      8,3%
-Sjukfrånvaro Kvinnor 2,4%   2,8%       2,6%           3%       3,3%
-Sjukfrånvaro Män  4,1%      2,8%       0,4%          1,1%      0,8%
-
-Sjukfrånvaro Totalt 2,8%    2,8%        2%           2,5%      2,6%
-```
-
 17
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 99,2% | 100% | 100% | 100% | 100% |
+| Anställda andel kvinnor | 76% | 73,8% | 74% | 75,8% | 72% |
+| Anställda totalt | 127 | 126 | 127 | 124 | 125 |
+| Medelålder | 44 | 44 | 45 | 45 | 46 |
+
+[Tabell 26-2](handlingar.tabeller/26-2.csv)
+
+| Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 10,7% | 12,9% | 7,4% | 11,7% | 8,3% |
+| Sjukfrånvaro Kvinnor | 2,4% | 2,8% | 2,6% | 3% | 3,3% |
+| Sjukfrånvaro Män | 4,1% | 2,8% | 0,4% | 1,1% | 0,8% |
+| Sjukfrånvaro Totalt | 2,8% | 2,8% | 2% | 2,5% | 2,6% |
 
 <!-- sida 27 -->
 
@@ -1955,16 +1944,20 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | --- | --- | --- |
 | Sommarfest x2 | Alla | 25000 |
 | Vård hund | Lilla Grönkulla | 20000 |
-| Biokvällar x2 date 23/10<br>13/11 | Alla | 20000 |
+| Biokvällar x2 date 23/10 | Alla | 20000 |
+| 13/11 |  |  |
 | Spa kvällar | Alla Å-huset | 20000 |
 | Trubadur på enhet | 6 tillfällen | 18000 |
 | Middag på enhet | Alla | 75000 |
 | Nyårsmiddag x2 | Alla | 30000 |
 | Tipspromenader | Alla | 5000 |
-| Samarbete med VO-<br>rörelse/träning på enhet | Alla | 150000 |
-| Personalkostnader för<br>ledsagning och planering | Alla | 100000 |
+| Samarbete med VO- | Alla | 150000 |
+| rörelse/träning på enhet |  |  |
+| Personalkostnader för | Alla | 100000 |
+| ledsagning och planering |  |  |
 | Träffpunkt med VO -äldre | Pension | 1000 |
-| Julpyssel, kranstillverkning x3<br>el.4 | Alla å-huset 2/12 9/12<br>16/12. Åhuset? | 100000 |
+| Julpyssel, kranstillverkning x3 | Alla å-huset 2/12 9/12 | 100000 |
+| el.4 | 16/12. Åhuset? |  |
 | vårda hund | Gåsevadholm | 20000 |
 | Sinnerum | Å huset | 200000 |
 | Side by side cykel | Alla | 150000 |
@@ -7307,8 +7300,8 @@ Ankomstdatum 2022-11-03
 Diarienummer MH-2022-4553
 
 450 201 085 kr
-2073
-År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
+Valt start år             2023          2073
+Nuvärde år 2073         448 333 294 kr                  År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
 0  300 000 000 kr     - kr      300 000 000 kr 300 000 000 kr
 Kalkylränta            2,0%                             1     - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 538 373 kr 304 538 373 kr
 2     - kr    - kr 817,22 817 220 kr 1 868 670 kr 2 581 594 kr 307 119 967 kr
@@ -7366,12 +7359,6 @@ Nuvärde                         35    - kr 1 981 250 kr 817,22 817 220 kr 1 868
 320000 000 kr
 300000 000 kr
 0 1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132333435363738394041424344454647484950
-
-[Tabell 211-1](handlingar.tabeller/211-1.csv)
-
-| Valt start år<br>Nuvärde år 2073 | 2023 |
-| --- | --- |
-|  | 448 333 294 kr |
 
 <!-- sida 212 -->
 
@@ -19206,8 +19193,8 @@ Ankomstdatum 2023-12-11
 Diarienummer MH-2023-4570
 
 450 201 085 kr
-2073
-År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
+Valt start år             2023          2073
+Nuvärde år 2073         448 333 294 kr                  År Investeringar Drift & Underhåll MWh kWh-pris Kemikalier-pris NV NV.Sum
 0  300 000 000 kr     - kr      300 000 000 kr 300 000 000 kr
 Kalkylränta            2,0%                             1     - kr 1 943 250 kr 817,22 817 220 kr 1 868 670 kr 4 538 373 kr 304 538 373 kr
 2     - kr    - kr 817,22 817 220 kr 1 868 670 kr 2 581 594 kr 307 119 967 kr
@@ -19265,12 +19252,6 @@ Nuvärde                         35    - kr 1 981 250 kr 817,22 817 220 kr 1 868
 320000 000 kr
 300000 000 kr
 0 1 2 3 4 5 6 7 8 9 1011121314151617181920212223242526272829303132333435363738394041424344454647484950
-
-[Tabell 446-1](handlingar.tabeller/446-1.csv)
-
-| Valt start år<br>Nuvärde år 2073 | 2023 |
-| --- | --- |
-|  | 448 333 294 kr |
 
 <!-- sida 447 -->
 
@@ -19822,7 +19803,7 @@ regleringsdammen i Tolaredssjön.
 
 e - Ny sänkningsgräns för Tolaredssjön.
 
-e Ny fiskväg i form av en ålyngelledare anläggs vid regleringsdammen i Tolaredssjön.
+e - Ny fiskväg i form av en ålyngelledare anläggs vid regleringsdammen i Tolaredssjön.
 
 e  Flyktväg för ål vid intagsdammen i Gökalidssjön.
 
@@ -28546,6 +28527,14 @@ kommun(mkungsbacka.se
 www. kungsbacka.se
 
 <!-- sida 840 -->
+
+KUNGSBACKA KOMMUN
+2 (2)
+
+Kungsbacka komm
+
+Lisa Andersson Patrik Johansson
+Kommunstyrelsens ordförande Kommunsekreterare
 
 <!-- sida 841 -->
 

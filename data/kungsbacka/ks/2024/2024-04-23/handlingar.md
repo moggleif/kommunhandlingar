@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2f18dd4b18ecb609445e85a/17133546567
 sha256: 405bdbeb76d08365cda43ec3ea890474fcc1859653098fd22a9741aec2b096c1
 bytes: 164852977
 sidor: 420
-hamtad: 2026-11-08T21:13:10+00:00
-konverterad: 2026-11-08T21:19:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T11:58:36+00:00
+konverterad: 2026-11-18T12:05:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr]
 tal_obekraftade: [49, 50, 64, 88, 89, 90, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 115, 116, 117, 118, 119, 120, 124, 126, 134, 135, 136, 156, 157, 168, 169, 170, 171, 172, 173, 174, 180, 206, 207, 208, 385, 402, 413, 419, 420]
 figurer: [46, 53, 58, 59, 63, 68, 78, 79, 80, 81, 82, 83, 115, 116, 117, 118, 119, 120, 125, 126, 134, 135, 190, 194, 208, 245, 300, 301, 302, 310, 317, 371, 377, 381, 382, 390, 420]
 tolkade: []
@@ -7118,7 +7118,7 @@ för gruppbostad/BMSS i en byggnad som Eksta uppför i området. Antalet
 lägenheter och de närmare kraven på bostäderna ska preciseras så snart detta
 är möjligt.
 
-« — Första gången hyreslägenheterna hyrs ut ska minst 90 260 av lägenheterna
+« — Första gången hyreslägenheterna hyrs ut ska minst 90 20 av lägenheterna
 förmedlas via den kommunala bostadskön/bostadsförmedlingen, med
 undantag av minst 10 lägenheter som ska anvisas till Kommunen för
 förmedling till kommunens särskilda bostadsbehov. Parterna kan senare
@@ -13900,13 +13900,15 @@ ombudget 2025 förslag 2024 förslag 2025 2024 2025
 0
 2 000
 
-0         0         0   15 342     0
+[Tabell 341-1](handlingar.tabeller/341-1.csv)
 
-10 934
-2 550
-0         0         0   13 484     0
-
-500         0         0  165 651   500
+| 0 | 0 | 0 | 15 342 | 0 |
+| --- | --- | --- | --- | --- |
+|  |  |  | 10 934 |  |
+|  |  |  | 2 550 |  |
+| 0 | 0 | 0 | 13 484 | 0 |
+|  |  |  |  |  |
+| 500 | 0 | 0 | 165 651 | 500 |
 
 <!-- sida 342 -->
 
@@ -14311,46 +14313,48 @@ ombudget  nämndernas nämndernas budget budget
 <!-- sida 349 -->
 
 ```osaker-tabell
-                              -163     0
-                              -141     0
+ -163     0
+ -141     0
 
-                              -141     0
-                              872      0
-                              -110     0
-                              -103     0
-                              -102     0
-                               -33     0
-                               -23     0
-                               -20     0
+ -141     0
+ 872      0
+ -110     0
+ -103     0
+ -102     0
+  -33     0
+  -23     0
+  -20     0
 
-                               -17     0
-                               -13     0
-                               -11     0
-                               -9      0
-                               -5      0
-                             2 022     0
-                               -4      0
-                               -3      0
-                               -2      0
+  -17     0
+  -13     0
+  -11     0
+  -9      0
+  -5      0
+2 022     0
+  -4      0
+  -3      0
+  -2      0
 
-                               -1      0
-                               -1      0
-                             4 191     0
-                             20 000    0
-   0          0          0   24 547    0
-
-                               -8      0
-
-                              500      0
-                              -207     0
-                             5 526     0
-                             1 000     0
-                             5 725     0
-                             25 000    0
-   0          0          0   37 536    0
-
-60 873    -54 627    -60 873 528 263   0
+  -1      0
+  -1      0
+4 191     0
+20 000    0
 ```
+
+[Tabell 349-1](handlingar.tabeller/349-1.csv)
+
+| 0 | 0 | 0 | 24 547 | 0 |
+| --- | --- | --- | --- | --- |
+|  |  |  | -8 | 0 |
+|  |  |  | 500 | 0 |
+|  |  |  | -207 | 0 |
+|  |  |  | 5 526 | 0 |
+|  |  |  | 1 000 | 0 |
+|  |  |  | 5 725 | 0 |
+|  |  |  | 25 000 | 0 |
+| 0 | 0 | 0 | 37 536 | 0 |
+|  |  |  |  |  |
+| 60 873 | -54 627 | -60 873 | 528 263 | 0 |
 
 <!-- sida 350 -->
 
@@ -16346,8 +16350,6 @@ Justerare                         Expedierat/bestyrkt
 
 rr
 09
-
-Socialdemokraterna
 
 Motion Kungsbacka 2023-09-05
 
