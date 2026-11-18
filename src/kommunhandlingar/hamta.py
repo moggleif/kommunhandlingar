@@ -10,7 +10,8 @@ dess ordning, ett dokument i taget, in i `data/` i samma repo som
 kommunfilen; de som bara ska konverteras om tas sist. Med `--start` gäller
 tidsbudgeten i K11, räknad från jobbets start. Med `--del` slutar steg 2
 efter så många minuter, så att körningen kan spara det klara, och avslutar
-med kod 4 när kandidater väntar inom budgeten (K11, ADR-0088). Utan
+med kod 4 när kandidater väntar inom budgeten; en kandidat som redan
+provats i körningen tas inte om i nästa del (K11, ADR-0088). Utan
 `--arkiv` får `versioner/<kommun>.csv` en rad för varje dokument som kom in
 nytt, med en ny adress eller med en ny sha256, också när steg 2 stoppas av
 ett fel. Med `--utan-omkonvertering` tas bara det nya och ändrade, så att
@@ -25,7 +26,7 @@ from datetime import UTC, date, datetime
 from importlib.metadata import version
 from pathlib import Path
 
-from kommunhandlingar import konfiguration, pool, tidsbudget, versionslogg
+from kommunhandlingar import konfiguration, pool, provade, tidsbudget, versionslogg
 from kommunhandlingar.arkivluckor import ensamma
 from kommunhandlingar.behandla import Steg2, bara_omkonvertering, behandla
 from kommunhandlingar.fel import Konfigurationsfel
@@ -37,6 +38,7 @@ from kommunhandlingar.tidsbudget import Tidsgrans
 
 MER_I_NASTA_DEL = 4
 VANTAR = "väntar på nästa körning"
+AT_SIDAN = "lagd åt sidan vid tidsgränsen"
 
 
 def las_kandidater(fil: Path) -> list[Kandidat]:
@@ -66,7 +68,7 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
             resultat = behandla(steg, kandidat)
         except Tidsgrans:
             print(f"lagd åt sidan vid tidsgränsen: {kandidat.url}", flush=True)
-            utfall["lagd åt sidan vid tidsgränsen"] += 1
+            utfall[AT_SIDAN] += 1
             utfall[VANTAR] += len(kandidater) - nr - 1
             break
         utfall[resultat] += 1
@@ -76,17 +78,10 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
 
 
 def steg2(
-    steg: Steg2,
-    kandidater: list[Kandidat],
-    budget: tuple[datetime | None, datetime],
-    logg: Path | None,
+    steg: Steg2, kandidater: list[Kandidat], mjuk: datetime, logg: Path | None
 ) -> Counter:
-    """Budgeten är jobbets start och den här delens mjuka gräns. Loggen
-    skrivs också när steg 2 stoppas, så att ingen version tappas."""
-    start, mjuk = budget
+    """Loggen skrivs också när steg 2 stoppas, så att ingen version tappas."""
     fore = versionslogg.versioner(steg.pool)
-    if start:
-        tidsbudget.starta_hard_grans(start, nu())
     try:
         return kor(steg, ordna(steg, kandidater), mjuk)
     finally:
@@ -95,12 +90,9 @@ def steg2(
             versionslogg.skriv(logg, versionslogg.nya(fore, steg.pool, steg.tid()))
 
 
-def main(arg: argparse.Namespace) -> int:
-    ocr.kontrollera()
+def bygg_steg(arg: argparse.Namespace, kommun, kandidater: list[Kandidat]) -> Steg2:
     rot = arg.kommunfil.resolve().parent.parent
-    kommun = konfiguration.las(arg.kommunfil)
-    kandidater = las_kandidater(lista(arg.arbetskatalog, kommun.id, arg.arkiv))
-    steg = Steg2(
+    return Steg2(
         data=rot / "data",
         kommun=kommun.id,
         pool=pool.las(rot / "data", kommun.id),
@@ -112,16 +104,33 @@ def main(arg: argparse.Namespace) -> int:
         omkonvertera=kommun.omkonvertera and not arg.utan_omkonvertering,
         ensamma=ensamma(kandidater),
     )
-    logg = None if arg.arkiv else rot / "versioner" / f"{kommun.id}.csv"
+
+
+def main(arg: argparse.Namespace) -> int:
+    ocr.kontrollera()
+    kommun = konfiguration.las(arg.kommunfil)
+    kandidatlista = lista(arg.arbetskatalog, kommun.id, arg.arkiv)
+    kandidater = las_kandidater(kandidatlista)
+    steg = bygg_steg(arg, kommun, kandidater)
+    provfil = provade.fil(kandidatlista) if arg.del_ else None
+    att_prova = ordna(steg, provade.kvar(kandidater, provfil))
+    logg = None if arg.arkiv else steg.data.parent / "versioner" / f"{kommun.id}.csv"
     mjuk = tidsbudget.delens_grans(arg.start, arg.del_, nu())
-    utfall = steg2(steg, kandidater, (arg.start, mjuk), logg)
+    if arg.start:
+        tidsbudget.starta_hard_grans(arg.start, nu())
+    utfall = steg2(steg, att_prova, mjuk, logg)
+    # Kandidaterna tas i ordning, så de provade är de första.
+    provade.skriv(
+        provfil, att_prova[: len(att_prova) - utfall[VANTAR] - utfall[AT_SIDAN]]
+    )
     for resultat, antal in sorted(utfall.items()):
         print(f"{antal} {resultat}")
     return slutkod(utfall, arg.start, mjuk)
 
 
 def slutkod(utfall: Counter, start: datetime | None, mjuk: datetime) -> int:
-    """Kod 4 när delen tog slut före budgeten och kandidater väntar (ADR-0088)."""
+    """Kod 4 när delen tog slut före budgeten och kandidater väntar (ADR-0088).
+    Skriptet som kör delarna, .github/nattkorning/hamta_i_delar.sh, läser den."""
     delen_tog_slut = mjuk < tidsbudget.mjuk_grans(start)
     return MER_I_NASTA_DEL if utfall[VANTAR] and delen_tog_slut else 0
 

@@ -86,8 +86,8 @@ class TestSteg2(Steg2Fall):
     """Steg 2 med en källa som inte går att nå, så att inget konverteras."""
 
     def kor_med_logg(self, logg: Path | None, *kandidater) -> None:
-        budget = (None, tidsbudget.mjuk_grans(None))
-        hamta.steg2(self.steg(list(kandidater)), list(kandidater), budget, logg)
+        mjuk = tidsbudget.mjuk_grans(None)
+        hamta.steg2(self.steg(list(kandidater)), list(kandidater), mjuk, logg)
 
     def test_levande_steg_2_loggar_det_nya(self):
         self.klient.filer["u1"] = "fel:404"

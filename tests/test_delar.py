@@ -1,12 +1,14 @@
 """Krav: K11 i docs/02-KRAV.md, ADR-0088.
-Kod: src/kommunhandlingar/tidsbudget.py och hamta.py."""
+Kod: src/kommunhandlingar/tidsbudget.py, hamta.py och provade.py."""
 
+import tempfile
 import unittest
 from collections import Counter
 from datetime import timedelta
+from pathlib import Path
 
-from kommunhandlingar import hamta, tidsbudget
-from tests.test_hamta import TID
+from kommunhandlingar import hamta, provade, tidsbudget
+from tests.test_hamta import TID, kandidat
 
 
 class TestDelar(unittest.TestCase):
@@ -27,3 +29,23 @@ class TestDelar(unittest.TestCase):
         self.assertEqual(hamta.slutkod(vantar, TID, delen), hamta.MER_I_NASTA_DEL)
         self.assertEqual(hamta.slutkod(vantar, TID, budget), 0)
         self.assertEqual(hamta.slutkod(klart, TID, delen), 0)
+
+
+class TestProvade(unittest.TestCase):
+    def setUp(self):
+        katalog = tempfile.TemporaryDirectory()
+        self.addCleanup(katalog.cleanup)
+        self.fil = provade.fil(Path(katalog.name) / "kb.kandidater.json")
+
+    def test_en_provad_kandidat_tas_inte_om_i_nasta_del(self):
+        a, b, c = (kandidat(f"s:{n}", f"u{n}") for n in (1, 2, 3))
+        self.assertEqual(provade.kvar([a, b, c], self.fil), [a, b, c])
+        provade.skriv(self.fil, [a])
+        provade.skriv(self.fil, [b])
+        self.assertEqual(provade.kvar([a, b, c], self.fil), [c])
+
+    def test_utan_delar_provas_allt(self):
+        a = kandidat("s:1", "u1")
+        provade.skriv(None, [a])
+        self.assertEqual(provade.kvar([a], None), [a])
+        self.assertEqual(self.fil.name, "kb.kandidater.provade")
