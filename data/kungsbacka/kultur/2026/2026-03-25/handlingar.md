@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.37d6657d19d0493bcf1865f2/1774280348
 sha256: 9f034f109930e3ccd97eb81f83a03596866a40d41ab52a4e67a72a6bbaa1058d
 bytes: 6769280
 sidor: 113
-hamtad: 2026-11-08T19:11:14+00:00
-konverterad: 2026-11-08T19:11:51+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:40:25+00:00
+konverterad: 2026-11-18T09:41:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2463,12 +2463,8 @@ Sammanträdesdatum
 
 2009-02-19
 
-KO AnAGN | ,
-s i L CJ j Xx AA
-
-H id Vr VV / j
-
-§ 17 - AH 7” i / / 2
+EO SUI ) (XC
+I / j ve tL Vv f p
 
 Korrigering i bestämmelse för Kungsbacka kommuns
 kulturpris
@@ -2808,7 +2804,6 @@ KUNGSBACKA KOMMUN
 Nämnden för Kultur & Turism SAMMANTRÄDESPROTOKOLL 10 (20)
 Sammanträdesdatum
 2007-09-25
-§78 Kt97-00305/
 
 Inrättande av Kulturstipendier för ungdom
 
@@ -2881,10 +2876,7 @@ tjänsteskrivelse 2007-09-04 om inrättande av kulturstipendium för ungdom.
 
 Justerare
 
-” IF
 U
-
-WW UU”
 
 | Expedierat/bestyrkt
 

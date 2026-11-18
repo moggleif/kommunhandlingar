@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f252f75a/17684637103
 sha256: 1cbe4165d3c3928b5947bb1011a0fee9d18d25a9a879bff35010cc7a6d286e91
 bytes: 6893735
 sidor: 574
-hamtad: 2026-11-08T19:09:23+00:00
-konverterad: 2026-11-08T19:10:53+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:38:39+00:00
+konverterad: 2026-11-18T09:40:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [101]
 figurer: [26, 95, 97, 101, 103, 104, 106, 108, 110, 111, 305, 331, 412, 418]
 tolkade: []
@@ -24137,27 +24137,23 @@ genom Meradigital, arrangerar pop up-bibliotek, och deltar aktivt i lokala aktiv
 vår tillgänglighet och vårt demokratiska uppdrag och arbeta än mer läsfrämjande gentemot kommunens
 förskolor.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Antal påbörjade bostäder        848       165       213
-
-Antal färdigställda bostäder    363       319       324
-Anmälda brott mot brottsbalken per invånare
-5 691    6 475     6 541
-antal/100 000 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %     91 %      88 %      88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %     76 %      76 %      78 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %               95 %
-totalt - helhetssyn
 3.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
 
 7
+
+[Tabell 531-1](handlingar.tabeller/531-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |
+| Anmälda brott mot brottsbalken per invånare<br>antal/100 000 invånare (BRÅ) | 5 691 | 6 475 | 6 541 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % | 88 % |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % | 78 % |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |
 
 <!-- sida 532 -->
 
@@ -24228,84 +24224,39 @@ Ung i Kungsbacka tog emot 37 st feriearbetande ungdomar under sommaren och genom
 samverkansmodell för socialtjänst, skola, polis och fritid) kunde åtta ungdomar med särskilda behov eller i
 riskzon för kriminalitet jobba som ferieledare på Ung i Kungsbackas sommarverksamhet.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 85 %      85 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 % 89 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 72 % 79 %      73 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 93 % 92 %      89 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %     73 %      75 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %     86 %      88 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 103 92
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 115  223
-Startvärde 100, målvärde 2030 är 60.
-Utsläpp till luft av växthusgaser totalt, ton
-2,27
-CO2-ekv/inv (Kolada)
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 21,2 % 24,1 % 26,5 %
-(Kolada)
-Slutanvändning av energi inom det
-15       15
-geografiska området, MWh/inv (Kolada)
-
 9
+
+[Tabell 533-534-1](handlingar.tabeller/533-534-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % | 85 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % | 89 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % | 73 % |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % | 89 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % | 75 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % | 88 % |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 103 | 92 |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 115 | 223 |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) | 2,27 |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 21,2 % | 24,1 % | 26,5 % |  |
+| Slutanvändning av energi inom det<br>geografiska området, MWh/inv (Kolada) | 15 | 15 |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,86 | 1,79 | 1,85 |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 113 | 115 | 151 |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  |  |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | 97,5 % | 97,5 % |
+| Andelen återbrukade möbler |  |  |  |  |
+| Kommunens verksamheters elförbrukning,<br>total (kWh) | 697 191 | 680 630 | 721 427 | 684 403 |
 
 <!-- sida 534 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,86      1,79     1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 113      115       151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 %
-Vattendrag med god ekologisk status, andel
-18,5
-(Kolada)
-Fossiloberoende personbilar i
-94,6 %    96,2 %    97,5 %   97,5 %
-kommunorganisationen, andel (%)
-Andelen återbrukade möbler
-Kommunens verksamheters elförbrukning,
-697 191   680 630  721 427   684 403
-total (kWh)
 3.3 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
 
@@ -24352,29 +24303,8 @@ besöksnäringen. Genom den direkta kontakten förmedlar vi en aktuell och relev
 stärker platsvarumärket och den lokala stoltheten. Vi skapar också möjligheter till dialog och inkludering av
 samhället i destinationsarbetet.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 70   67        64        61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4       3,4       3,8       3,6
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 494   28 586    28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %    4,9 %     4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 18 % 19 %
-Antal nystartade företag per 1 000 invånare
-12,8      10,3     12,3
-16–64 år (etableringsfrekvens)
 3.4 I Kungsbacka utvecklas vi hela livet
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
@@ -24391,6 +24321,17 @@ vid tecken på ogynnsam utveckling. En ny organisering har beslutats, där medar
 samverkar mer sammanhållet och tydligt. Därutöver har översyner och justeringar genomförts av arbetssätten
 
 11
+
+[Tabell 535-1](handlingar.tabeller/535-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 70 | 67 | 64 | 61 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 | 3,6 |
+| Sysselsatt dagbefolkning, antal | 28 494 | 28 586 | 28 426 |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % | 4,9 % |  |
+| Företagsamhet, andel av invånare 16–74 år | 18 % | 19 % |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 12,8 | 10,3 | 12,3 |  |
 
 <!-- sida 536 -->
 
@@ -24440,35 +24381,24 @@ normbrytande beteende. Barnkonsekvensanalyser är en central del i vårt arbete 
 rättigheter alltid finns med i beslutsfattandet. Genom att höja kompetensen i enheter och förvaltningar över hela
 Kungsbacka stärker vi barns möjlighet att komma till tals och ökar delaktigheten. På så sätt bygger vi
 framtidstro och ett samhälle där allas röster räknas.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-237       237       238
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
 
 12
+
+[Tabell 536-537-1](handlingar.tabeller/536-537-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 237 | 237 | 238 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 1,7 % | 2,3 % |  |
+| Genomsnittlig betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,5 | 14,3 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % | 75 % |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 376 | 325 | 306 |  |
 
 <!-- sida 537 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 1,7 % 2,3 %
-SCB)
-Genomsnittlig betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,5  14,3      14        14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 69 % 73 % 75 %
-försörjningsstöd (%)
-
-Kostnad utbetalt ekonomiskt bistånd,
-376       325       306
-kr/invånare (Kolada)
 3.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -24553,25 +24483,19 @@ människor möjlighet att engagera sig, vilket öppnar för delaktighet, inflyta
 därmed inte enbart besökare, utan också aktiva medskapare av festivalen. På så sätt blir festivalen en arena för
 demokratiskt deltagande i praktiken – en plats där alla kan bidra, ta del och känna tillhörighet.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76  75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-
 14
+
+[Tabell 538-539-1](handlingar.tabeller/538-539-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |
 
 <!-- sida 539 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2025
-
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114   124
-nyckeltal med skala 1–20.
 
 3.6 Uppföljning målbild
 
@@ -25034,16 +24958,10 @@ lösningar
 • skapa ändamålsenliga tekniska förutsättningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
-Indikatorer                        Utfall 2024        Utfall 2025
 
-Andel innovationsprojekt som drivits under
-7                  0,7
-året
-Andel av bruttokostnaden som avsätts för
-0,7
-innovationsarbete och digitalisering
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 Under året har förvaltningen stärkt sin kapacitet inom innovation och datadrivet arbetssätt.
+
 Förvaltningen har fokuserat på att skala upp nya arbetssätt, kompetensutveckla medarbetare och bygga en
 innovationskultur i praktiken.
 Publikutveckling är ett gemensamt arbetssätt för användardriven innovation och förnyelse som under året har
@@ -25057,6 +24975,13 @@ långsiktiga innovationsförmåga.
 Förvaltningen har under perioden genomfört två Söka-faser enligt kommunens förnyelsemodell. Arbetet har haft
 
 23
+
+[Tabell 547-1](handlingar.tabeller/547-1.csv)
+
+| Indikatorer | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- |
+| Andel innovationsprojekt som drivits under<br>året | 7 | 0,7 |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | 0,7 |  |
 
 <!-- sida 548 -->
 
@@ -25521,117 +25446,53 @@ förändringar kan ge tydliga utslag i statistiken. Detta är viktigt att ha i �
 
 6.4 Resursmått
 
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Anställda
-andel     71,3 %  69,3 %   67,8 %  67,6 %   67,3 %
-kvinnor
-Anställda
-28,7 %  30,7 %   32,2 %  32,4 %   32,7 %
-andel män
-Anställda
-202     202      208     216      208
-totalt
-
 33
+
+[Tabell 557-558-1](handlingar.tabeller/557-558-1.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Anställda<br>andel<br>kvinnor | 71,3 % | 69,3 % | 67,8 % | 67,6 % | 67,3 % |
+|  | Anställda<br>andel män | 28,7 % | 30,7 % | 32,2 % | 32,4 % | 32,7 % |
+|  | Anställda<br>totalt | 202 | 202 | 208 | 216 | 208 |
+|  | Antal<br>medarbetar<br>e per<br>enhetschef | 18,9 | 21,1 | 19,5 | 16,8 | 24,1 |
+|  | Medelålder | 47 | 48 | 47 | 47 | 47 |
+|  | Pensionsa<br>vgångar | 6 | 2 | 6 | 3 | 5 |
 
 <!-- sida 558 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Antal
-medarbetar
-18,9     21,1     19,5    16,8     24,1
-e per
-enhetschef
-Medelålder 47       48      47       47      47
-Pensionsa
-6        2        6       3        5
-vgångar
 6.5 Effektmått
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Korttidssju
-1,7 %    2,8 %   2,1 %    1,9 %    2 %
-kfrånvaro
-Korttidssju
-kfrånvaro 1,5 %    3 %     2,2 %    2 %      2 %
-Kvinnor
-Korttidssju
-kfrånvaro  2 %     2,3 %   1,7 %    1,5 %    1 %
-Män
-Långtidssju
-1,2 %    2,9 %   1,6 %    0,7 %    1 %
-kfrånvaro
-Långtidssju
-kfrånvaro 1,3 %    2,5 %   1,6 %    0,6 %    1 %
-Kvinnor
-Långtidssju
-kfrånvaro 1,1 %    3,8 %   1,8 %    1 %      1 %
-Män
-Personalo
-8,1 %    5,9 %   10 %     5,5 %   7,2 %
-msättning
-Sjukfrånvar
-2,8 %    5,5 %   3,8 %    2,6 %    4 %
-o Kvinnor
-Sjukfrånvar
-3,1 %    6,1 %   3,5 %    2,5 %    3 %
-o Män
-Sjukfrånvar
-2,9 %    5,6 %   3,7 %    2,6 %    3 %
-o Totalt
-Sjukfrånvar
-o, andel av
-sjukfrånvar 21,8 % 37,3 %  28,8 %  17,3 %    23 %
-o 60 dagar
-eller mer
 
 34
+
+[Tabell 558-559-1](handlingar.tabeller/558-559-1.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Korttidssju<br>kfrånvaro | 1,7 % | 2,8 % | 2,1 % | 1,9 % | 2 % |
+|  | Korttidssju<br>kfrånvaro<br>Kvinnor | 1,5 % | 3 % | 2,2 % | 2 % | 2 % |
+|  | Korttidssju<br>kfrånvaro<br>Män | 2 % | 2,3 % | 1,7 % | 1,5 % | 1 % |
+|  | Långtidssju<br>kfrånvaro | 1,2 % | 2,9 % | 1,6 % | 0,7 % | 1 % |
+|  | Långtidssju<br>kfrånvaro<br>Kvinnor | 1,3 % | 2,5 % | 1,6 % | 0,6 % | 1 % |
+|  | Långtidssju<br>kfrånvaro<br>Män | 1,1 % | 3,8 % | 1,8 % | 1 % | 1 % |
+|  | Personalo<br>msättning | 8,1 % | 5,9 % | 10 % | 5,5 % | 7,2 % |
+|  | Sjukfrånvar<br>o Kvinnor | 2,8 % | 5,5 % | 3,8 % | 2,6 % | 4 % |
+|  | Sjukfrånvar<br>o Män | 3,1 % | 6,1 % | 3,5 % | 2,5 % | 3 % |
+|  | Sjukfrånvar<br>o Totalt | 2,9 % | 5,6 % | 3,7 % | 2,6 % | 3 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer | 21,8 % | 37,3 % | 28,8 % | 17,3 % | 23 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer<br>Kvinnor | 26,9 % | 33,3 % | 25,3 % | 8,8 % | 19 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer<br>Män | 10,1 % | 46,7 % | 37,6 % | 36,6 % | 36 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>29 år eller<br>yngre | 3 % | 5,7 % | 5,8 % | 3,2 % | 2 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>30-49 år | 2,7 % | 4,4 % | 3,6 % | 2 % | 4 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>50 år eller<br>äldre | 3,1 % | 6,9 % | 3,7 % | 3,2 % | 3 % |
 
 <!-- sida 559 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2025
-
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Sjukfrånvar
-o, andel av
-sjukfrånvar
-26,9 %  33,3 %   25,3 %   8,8 %    19 %
-o 60 dagar
-eller mer
-Kvinnor
-Sjukfrånvar
-o, andel av
-sjukfrånvar
-10,1 %  46,7 %   37,6 %  36,6 %    36 %
-o 60 dagar
-eller mer
-Män
-Sjukfrånvar
-o, anställda
-i åldrarna 3 %     5,7 %   5,8 %    3,2 %    2 %
-29 år eller
-yngre
-Sjukfrånvar
-o, anställda
-2,7 %    4,4 %   3,6 %    2 %      4 %
-i åldrarna
-30-49 år
-Sjukfrånvar
-o, anställda
-i åldrarna 3,1 %   6,9 %   3,7 %    3,2 %    3 %
-50 år eller
-äldre
 
 35
 
