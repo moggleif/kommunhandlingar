@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.76caecda1944036d2d5d17dd/1737014048
 sha256: ef3b644057ea81904f787853695b6f74e995b77bad16061eeeda570c6c99e76a
 bytes: 298166803
 sidor: 286
-hamtad: 2026-11-08T22:09:57+00:00
-konverterad: 2026-11-08T22:20:37+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T13:02:31+00:00
+konverterad: 2026-11-18T13:14:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 149, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257]
 figurer: [64, 72, 73, 76, 77, 83, 90, 91, 93, 94, 95, 96, 109, 134, 141, 142, 143, 148, 155, 156, 158, 160]
 tolkade: []
@@ -2399,25 +2399,6 @@ Förslag till beslut i kommunstyrelsen
 
 Kommunstyrelsen fastställer lönestrukturen för 2025 enligt nedan:
 
-BAS     2025 10 p     2025 90 p
-
-```osaker-tabell
-A      24 500        29 800
-
-B      25 500        33 000
-C      27 700        36 200
-D      29 800        39 400
-
-E      31 900        43 600
-F      36 200        49 500
-
-G      39 400        53 700
-H      43 100        58 500
-
-I      47 900        63 800
-J      52 100        69 700
-```
-
 Kommunstyrelsen godkänner rapport avseende lönekartläggning 2024 och uppmanar förvaltningarna
 att i löneöversyn 2025 beakta lönesättningen för kvinnodominerande befattningar i BAS-intervall D, F,
 H och J.
@@ -2439,6 +2420,21 @@ Ulrica Furby
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
+
+[Tabell 61-1](handlingar.tabeller/61-1.csv)
+
+| BAS | 2025 10 p | 2025 90 p |
+| --- | --- | --- |
+| A | 24 500 | 29 800 |
+| B | 25 500 | 33 000 |
+| C | 27 700 | 36 200 |
+| D | 29 800 | 39 400 |
+| E | 31 900 | 43 600 |
+| F | 36 200 | 49 500 |
+| G | 39 400 | 53 700 |
+| H | 43 100 | 58 500 |
+| I | 47 900 | 63 800 |
+| J | 52 100 | 69 700 |
 
 <!-- sida 62 -->
 
@@ -2679,6 +2675,15 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    3
 Nedan uppgifter avser en jämförelse av medianlönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun.
 
+2021             2022             2023                2024
+Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka
+
+```osaker-tabell
+32 132  30 350   32 770   31 000   34 100   32 215   35 600
+33 000  31 000   33 550   31 500   35 000   32 600   36 400
+868     650      780      500      900      385      800
+```
+
 \*Riket =Alla kommuner i Sverige
 
 Löneläget inom respektive förvaltning skiljer sig åt. Kommunstyrelsens förvaltning följt av
@@ -2700,15 +2705,6 @@ befattningar och mellan män och kvinnor som har likvärdiga befattningar. Ett k
 behöver ske på olika nivåer för att lönenivåerna ska vara könsneutrala.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
-
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| 2021 |  | 2022 |  | 2023 |  | 2024 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
-| 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
-| 33 000 | 31 000 | 33 550 | 31 500 | 35 000 | 32 600 | 36 400 |
-| 868 | 650 | 780 | 500 | 900 | 385 | 800 |
 
 <!-- sida 70 -->
 
@@ -3201,7 +3197,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 
 [Tabell 78-79-2](handlingar.tabeller/78-79-2.csv)
 
-| BAS Befattning Antal anställningar En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |  |  |  |
+| BAS | Befattning | Antal anställningar | En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |
 | --- | --- | --- | --- |
 | D | Äldrekonsulent | 9 | 87% |
 | G | Metodutvecklare | 18 | 88% |
@@ -3244,7 +3240,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 
 [Tabell 79-80-1](handlingar.tabeller/79-80-1.csv)
 
-| Befattning Antal Medianlön Medianlön Lönespännvidd<br>anställningar kvinnor män |  |  |  |  |
+| Befattning | Antal<br>anställningar | Medianlön<br>kvinnor | Medianlön<br>män | Lönespännvidd |
 | --- | --- | --- | --- | --- |
 | Undersköterska | 831 | 31 200 | 30 099 | 23% |
 | Lärare Förskola | 463 | 38 400 | 38 000 | 18% |
@@ -3306,7 +3302,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   16
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| B Befattning Antal Medianlö Andel B Befattning Antal Medianlön Andel Differe<br>A anst n kvinna kvinnor A anst man män ns<br>S ällda S ällda median<br>lön |  |  |  |  |  |  |  |  |  |  |
+| B<br>A<br>S | Befattning | Antal<br>anst<br>ällda | Medianlö<br>n kvinna | Andel<br>kvinnor | B<br>A<br>S | Befattning | Antal<br>anst<br>ällda | Medianlön<br>man | Andel<br>män | Differe<br>ns<br>median<br>lön |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | C | Barnskötare | 281 | 29 703 | 99 % | B | IT-tekniker | 7 | 32 405 | 86 % | 92 |
 | C | Dagbarnvårdare | 7 | 29 300 | 100 % | B | IT-tekniker | 7 | 32 405 | 86 % | 90 |
@@ -5930,9 +5926,6 @@ M NUuNUS Arda S5Sön I ter Mo SbrösT
 Kungsbacka den 2019- 3 E”2C
 för Kungsbacka kommun
 
-Hans Forsbr
-
-é | a i ES -
 Fran an Aa fed s/fMo ser
 
 Kor NUNSAA Isens Orc if
@@ -9304,7 +9297,7 @@ förekomst i ytliga fyllnadsmassor har påvisats.
 
 Vid nuvarande markanvändning har massorna bedömts inte utgöra risk. Generellt riktvärde
 för KM överskrids, så risk kan föreligga vid förändrad markanvändning till bostadsändamål —
-om marken används till odling som motsvarar 10946 av det totala intaget av växter för de
+om marken används till odling som motsvarar 1096 av det totala intaget av växter för de
 boende (Intag växter är styrande för KM, och baseras i det fallet på att 10960 av totala intaget
 växter kommer från den aktuella platsen).
 
@@ -9419,7 +9412,7 @@ Lokalt på platsen:
 \- Buller
 \- - Damning
 Regionalt/nationellt:
-\- - Uppfyllnad av deponier
+\-  Uppfyllnad av deponier
 \-  Resursanvändning vid ev. återfyllnad på platsen efter genomförd schaktning
 \- Transporter till och från platsen
 o Miljöpåverkande utsläpp från dessa
@@ -9865,7 +9858,7 @@ Diarienummer: MH-2023-2921-20
 
 Jag har tagit emot ovan angivna handling
 
-€OorOVPEPPECDEFPECCVECPPAFPABPAWWVZJZ—- 0 ++-+m-nmm»> AARAPRONRERPAPPPPEPREPPERPEPRPPPEPPPPE PAPPA PEPPER GPR ARR AA
+€OrOVPEPPECDEVPACVECPPAFPAWBPRZZ”X”V—V m-==s-m.2o2=+-—- AARAPVOVRERPPPPEPREPPERPEPRPPPPEVPPPAAPE PAPPA PEPPAR GPR ARR AA
 
 Datum Underskrift
 
@@ -10574,7 +10567,7 @@ Sida 2 av 3
 
 <!-- sida 240 -->
 
-fred ere —tng RN FB FMTS DRAGNA
+fred ere —tng RN FRYS FM DRAGNA
 
 Metria FastighetSök - Kungsbacka Gjutaren I
 . Taxeringsuppgifter
@@ -11642,13 +11635,11 @@ Källa: Lantmäteriet
 
 <!-- sida 253 -->
 
-Ä / pryd
 /
 MM Grad Aj CJanS
 
 / Ior 7 ÅA bope
 f A
-j A UV: Sale /
 
 Fullmakt
 
