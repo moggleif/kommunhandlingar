@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.41c3c8151a01f3423c0131b2/1787300369
 sha256: 603f11ca59d1352bc9a01a239380f9fd33b44a3c98aacb00261540bd8a854896
 bytes: 205915322
 sidor: 950
-hamtad: 2026-11-09T09:00:49+00:00
-konverterad: 2026-11-09T09:18:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:15:17+00:00
+konverterad: 2026-11-18T23:30:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [80, 83, 84, 176, 180, 183, 184, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 333, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 610, 611, 623, 626, 629, 631, 632, 633, 634, 635, 636, 637, 638, 639, 640, 641, 643, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 659, 660, 661, 662, 663, 664, 665, 668, 670, 674, 675, 676, 677, 678, 680, 681, 682, 683, 684, 695, 696, 697, 698, 699, 700, 701, 702, 703, 704, 706, 707, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723, 724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 746, 764, 765, 766, 767, 768, 769, 770, 771, 772, 774, 775, 776, 777, 778, 779, 780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 919, 920, 941, 950]
 figurer: [23, 34, 46, 50, 52, 54, 56, 57, 61, 62, 63, 64, 65, 66, 67, 71, 76, 80, 83, 84, 86, 90, 93, 94, 95, 97, 98, 99, 100, 107, 108, 109, 110, 119, 148, 159, 161, 164, 165, 166, 167, 170, 175, 180, 183, 184, 186, 187, 188, 189, 190, 192, 193, 194, 195, 197, 198, 199, 200, 209, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 309, 313, 321, 323, 324, 325, 340, 341, 371, 374, 378, 379, 384, 386, 391, 397, 398, 399, 400, 401, 402, 404, 405, 406, 407, 410, 412, 414, 418, 420, 426, 430, 437, 442, 447, 450, 451, 453, 462, 464, 465, 466, 467, 473, 474, 475, 477, 478, 481, 495, 506, 510, 512, 514, 516, 517, 519, 520, 521, 524, 525, 528, 529, 532, 536, 537, 540, 544, 548, 549, 554, 558, 560, 562, 564, 566, 567, 571, 573, 574, 578, 591, 592, 593, 594, 596, 601, 603, 604, 605, 606, 607, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639, 641, 642, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 662, 664, 665, 666, 667, 668, 670, 674, 675, 676, 677, 678, 679, 683, 684, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695, 696, 698, 699, 700, 701, 702, 703, 705, 706, 707, 709, 725, 740, 741, 742, 743, 744, 745, 817, 893]
 tolkade: []
@@ -2758,20 +2758,29 @@ Fokusområden
 när vi behöver stöd för att få livet att fungera.
 
 Indikator                          2023   2024   2025   Målsättning 2027
-Antal färdigställda bostäder        319    324    601         Öka
-Anmälda brott mot brottsbalken per invånare, antal/100 000 6 475 6 541 6 313 Minska
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Invånare 16–84 år med avsaknad av tillit till andra \* 22 % \* Minska
+Invånare 16–84 år med avsaknad av tillit till andra          Minska
 (Folkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 91 % 88 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 76 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ- och familjeomsorg totalt – \* 98 % 96 % Öka
 h elhetssyn (Kolada)
 \*) Undersökningen genomfördes inte detta år .
 
 Kommunbudget 2027 och plan 2028–2029 21
+
+[Tabell 62-1](handlingar.tabeller/62-1.csv)
+
+| 319 | 324 | 601 |
+| --- | --- | --- |
+| 6 475 | 6 541 | 6 313 |
+| \* | 22 % | \* |
+| 91 % | 88 % | 88 % |
+| 76 % | 76 % | 76 % |
 
 <!-- sida 63 -->
 
@@ -2787,23 +2796,23 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2023   2024    2025 Målsättning 2027
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,69 1,85 1,54 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Andelen elever som uppskattar maten i skolan. \* \*      \*        Öka
-Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, 74 75 75 Öka
+Andelen elever som uppskattar maten i skolan.                   Öka
+Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, Öka
 andel (KOLADA)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 92 92 97 Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig Öka
-Vattendrag med god ekologisk status, andel 18,5 % 18,5 % 18,5 % Öka
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel                      Öka
 (Källa: Kolada, VISS, Länsstyrelsen)
 Senaste mätvärdet är från 2021 och motsvarar 18,5 % \*\*
-Andelen återbrukade möbler               -      -     2 %       Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 85% Åk 4: 85% Åk 4: 87% Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 79% Åk 8: 73% Åk 8: 75%
-Åk 1 gy: 73% Åk 1 gy: 75% Åk 1 gy: 79%
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
+
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91% Åk 4: 89% Åk 4: 88% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 92% Åk 8: 89% Åk 8: 89%
 Åk 1 gy: 86% Åk 1 gy: 88% Åk 1 gy: 89%
@@ -2812,6 +2821,19 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91%
 och cykel 3 2017–2021. Det äret cykeln tar slut uppdateras med det slutgiltiga resultatet 5 år tillbaka.
 
 22 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 63-1](handlingar.tabeller/63-1.csv)
+
+| - | 125 |  |
+| --- | --- | --- |
+| 1,69 | 1,85 | 1,54 |
+| \* | \* | \* |
+| 74 | 75 | 75 |
+| 92 | 92 | 97 |
+| måttlig | måttlig | måttlig |
+| 18,5 % | 18,5 % | 18,5 % |
+| - | - | 2 % |
+| Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | Åk 4: 85%<br>Åk 8: 73%<br>Åk 1 gy: 75% | Åk 4: 87%<br>Åk 8: 75%<br>Åk 1 gy: 79% |
 
 <!-- sida 64 -->
 
@@ -2825,23 +2847,32 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2023   2024   2025    Målsättning 2027
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 64 61 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,8 3,6 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 586 28 426 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16–74 år 19 % \*\* \*\*            Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Småföretagarindex, ranking utifrån nio olika dimensioner av 32 1 2 Topp 10
 företagande (Källa: Småföretagarnas riksförbund)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
 \*\*Ännu ej publicerad.
 
 Kommunbudget 2027 och plan 2028–2029 23
+
+[Tabell 64-1](handlingar.tabeller/64-1.csv)
+
+| 66 | 64 | 61 |
+| --- | --- | --- |
+| 3,4 | 3,8 | 3,6 |
+| 28 586 | 28 426 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 19 % | \*\* | \*\* |
 
 <!-- sida 65 -->
 
@@ -2854,18 +2885,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 241 242 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen 15,1 15,0 14,9 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen           Öka
 (hemkommun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 2,3 % \* Minska
-Arbetslösa av befolkningen, 18–65 år (Källa: Kolada) 2,3 % 2,7 % 2,9 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
+Arbetslösa av befolkningen, 18–65 år (Källa: Kolada)          Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 \* Minska
 
 \* Ännu ej publicerad.
 
 24 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| 241 | 242 | 237 |
+| --- | --- | --- |
+| 15,1 | 15,0 | 14,9 |
+| 1,7 % | 2,3 % | \* |
+| 2,3 % | 2,7 % | 2,9 % |
 
 <!-- sida 66 -->
 
@@ -2882,9 +2921,9 @@ och korrekt bemötta i kontakt med kommunen.
 och medskapande medarbetare och ledare.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Antal engagerade i Go Kungsbacka        89     115    169       Öka
-Antal föreningar som ansöker om bidrag för medskapandeprojekt 34 29 52 Öka
-Andelen invånare som upplever ett gott bemötande i kontakt med \* \* 85 Öka
+Antal engagerade i Go Kungsbacka                                Öka
+Antal föreningar som ansöker om bidrag för medskapandeprojekt   Öka
+Andelen invånare som upplever ett gott bemötande i kontakt med  Öka
 tjänsteperson i kommunen (SCB medborgarundersökning)
 Andelen företagare som upplever ett gott bemötande i kontakt med Öka
 kommunen (SKR Insikt)
@@ -2897,6 +2936,15 @@ skala 1–100 enligt Medarbetarenkäten
 \*\*Undersökningen har ändrat frekvens och genomförs numera vartannat år.
 
 Kommunbudget 2027 och plan 2028–2029 25
+
+[Tabell 66-1](handlingar.tabeller/66-1.csv)
+
+| 89 | 115 | 169 |
+| --- | --- | --- |
+| 34 | 29 | 52 |
+| \* | \* | 85 |
+|  |  |  |
+|  |  |  |
 
 <!-- sida 67 -->
 
@@ -7926,25 +7974,32 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2022   2023   2024   Målsättning 2026
-Antal påbörjade bostäder           848     165    213         Öka
-Antal färdigställda bostäder       363     319    324         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 691 6 475 6 541 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
 Invånare 16–84 år med avsaknad av tillit till andra          Minska
 (F olkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – 88 % \* 95 % Öka
 h elhetssyn (Kolada)
 \*) Brukarbedömning görs vartannat år för individ- och familjeomsorg.
 
 Kommunbudget 2026 och plan 2027–2028 19
+
+[Tabell 162-1](handlingar.tabeller/162-1.csv)
+
+| 848 | 165 | 213 |
+| --- | --- | --- |
+| 363 | 319 | 324 |
+| 5 691 | 6 475 | 6 541 |
+|  |  |  |
+| 90 % | 91 % | 88 % |
+| 74 % | 76 % | 76 % |
 
 <!-- sida 163 -->
 
@@ -7960,32 +8015,45 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2022    2023   2024 Målsättning 2026
-Total debiterad vattenförbrukning fördelat på antal anslutna till 154 145 145 Minska
+Total debiterad vattenförbrukning fördelat på antal anslutna till Minska
 vattenledningsnätet. (Här ingår förbrukning från hushåll, kommunen
 och privata verksamheter). Liter/person och dygn
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Fossiloberoende personbilar, andel av totalt antal bilar i det 21,2 24,1 \* Öka
+Fossiloberoende personbilar, andel av totalt antal bilar i det  Öka
 geografiska området (%)
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,86 1,69 1,85 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, inklusive 113 115 151 Minska
+Antal kemiska produkter med utfasningsämnen, inklusive        Minska
 hormonstörande ämnen på SIN-listan ska minska i kommunens
 verksamheter. 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 103 92 \* Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \*   Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % \* \*  Öka
-Andelen återbrukade möbler               -      -      \*        Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 85% \* Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 72% Åk 8: 79%
-Åk 1 gy: 65% Åk 1 gy: 73%
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel (Kolada)             Öka
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 93% Åk 8: 92%
 Åk 1 gy: 85% Åk 1 gy: 86%
 \*Ännu ej publicerad.
 
 20 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 163-1](handlingar.tabeller/163-1.csv)
+
+| 154 | 145 | 145 |
+| --- | --- | --- |
+| - | - | 125 |
+| 21,2 | 24,1 | \* |
+| 1,86 | 1,69 | 1,85 |
+| 113 | 115 | 151 |
+| 103 | 92 | \* |
+| måttlig | måttlig | \* |
+| 18,5 % | \* | \* |
+| - | - | \* |
+| Åk 4: 88%<br>Åk 8: 72%<br>Åk 1 gy: 65% | Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | \* |
 
 <!-- sida 164 -->
 
@@ -7999,17 +8067,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2022   2023   2024    Målsättning 2026
-Insikt, SKR:s servicemätning av kommunernas myndighets- 69 66 64 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \*\*        Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16 - 74 år                     Öka
 Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3 % \*\* Öka
 etableringsfrekvens (Kolada)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
@@ -8022,6 +8090,15 @@ Foto: Catharina Fyrberg
 
 Kommunbudget 2026 och plan 2027–2028 21
 
+[Tabell 164-1](handlingar.tabeller/164-1.csv)
+
+| 69 | 66 | 64 |
+| --- | --- | --- |
+| 3,4 | 3,4 | 3,8 |
+| 28 485 | 28 586 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 18 % | 19 % | \*\* |
+
 <!-- sida 165 -->
 
 MÅL OCH DIREKTIV
@@ -8033,17 +8110,24 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2022   2023   2024 Målsättning 2026
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 239 241 242 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom- 15,0 15,1 15,0 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom-  Öka
 mun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 1,7 % 2,3 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 Minska
 
 Elever på Elof Lindälvs gymnasium.
 
 22 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 165-1](handlingar.tabeller/165-1.csv)
+
+| 239 | 241 | 242 |
+| --- | --- | --- |
+| 15,0 | 15,1 | 15,0 |
+| 1,7 % | 1,7 % | 2,3 % |
 
 <!-- sida 166 -->
 
@@ -20246,54 +20330,87 @@ alternativ
 
 <!-- sida 438 -->
 
-L1997:6092 Stenåldersboplats 5A   Korsar delvis fornlämningen
+L1997:6092                        Korsar delvis fornlämningen
 
-L1997:6022 Boplats   5A           Tangerar fornlämningen
-L1997:5221 Boplats   5A           Korsar delvis fornlämningen
+L1997:6022                        Tangerar fornlämningen
+L1997:5221                        Korsar delvis fornlämningen
 
-L1969:7742 Boplats   4A, 5A       Korsar hela fornlämningen
-L1969:4296 Boplats   4A, 5A       Korsar delvis fornlämningen
+L1969:7742                        Korsar hela fornlämningen
+L1969:4296                        Korsar delvis fornlämningen
 
-L1960:7649 Boplats   4A, 5A, 4D, 5D Korsar delvis fornlämningen
-L1969:4831 Boplats   4A, 5A, 4D, 5D Korsar hela fornlämningen
+L1960:7649                        Korsar delvis fornlämningen
+L1969:4831                        Korsar hela fornlämningen
 
-L1969:4145 Boplats   4A, 5A, 4D, 5D Korsar hela fornlämningen
-L1997:6330 Begravningsplats 4B, 4C, 4D, 5B, Tangerar fornlämningen
-5C, 5D
-L1996:5893 Boplats   4B, 5B       Korsar delvis fornlämningen
+L1969:4145                        Korsar hela fornlämningen
+L1997:6330                        Tangerar fornlämningen
 
-L1996:5362 Boplats   4B, 5B       Korsar hela fornlämningen
-L1996:5765 Boplats   4B, 5B       Korsar delvis fornlämningen
+L1996:5893                        Korsar delvis fornlämningen
 
-L1996:5361 Boplats   4B, 5B       Korsar delvis fornlämningen
-L1996:4995 Boplats   4C, 5C       Korsar delvis fornlämningen
+L1996:5362                        Korsar hela fornlämningen
+L1996:5765                        Korsar delvis fornlämningen
 
-L1996:5498 Boplats   4C, 5C       Korsar hela fornlämningen
-L1996:4997 Stensättning 4C, 5C    Korsar hela fornlämningen
+L1996:5361                        Korsar delvis fornlämningen
+L1996:4995                        Korsar delvis fornlämningen
 
-L1996:5113 Hällristning 4C, 5C    Korsar hela fornlämningen
-L1960:2900 Boplats   4C, 5C       Korsar delvis fornlämningen
+L1996:5498                        Korsar hela fornlämningen
+L1996:4997                        Korsar hela fornlämningen
 
-L1969:3836 Boplats   4C, 5C       Korsar hela fornlämningen
-L1996:2853 Boplats   4D, 5D       Korsar hela fornlämningen
-L1996:2852 Boplats   4D, 5D       Tangerar fornlämningen
+L1996:5113                        Korsar hela fornlämningen
+L1960:2900                        Korsar delvis fornlämningen
 
-L1996:3467 Boplats   4D, 5D       Tangerar fornlämningen
-L1969:4027 Fossil åker 4A, 5A, 4B, 5B, Korsar delvis fornlämningen
-4D, 5D
+L1969:3836                        Korsar hela fornlämningen
+L1996:2853                        Korsar hela fornlämningen
+L1996:2852                        Tangerar fornlämningen
 
-L1969:4121 Fossil åker 4A, 5A, 4B, 5B, Korsar hela fornlämningen
-4D, 5D
-L1969:4514 Boplats   Samtliga alternativ Korsar hela fornlämningen
-L1969:4850 Boplats   Samtliga alternativ Korsar hela fornlämningen
+L1996:3467                        Tangerar fornlämningen
+L1969:4027                        Korsar delvis fornlämningen
 
-L1969:4419 Boplats   Samtliga alternativ Korsar hela fornlämningen
-L1969:4515 Boplats   Samtliga alternativ Korsar hela fornlämningen
+L1969:4121                        Korsar hela fornlämningen
 
-L1969:4649 Boplats   Samtliga alternativ Tangerar fornlämningen
-L1969:4566 Boplats   Samtliga alternativ Tangerar fornlämningen
+L1969:4514                        Korsar hela fornlämningen
+L1969:4850                        Korsar hela fornlämningen
+
+L1969:4419                        Korsar hela fornlämningen
+L1969:4515                        Korsar hela fornlämningen
+
+L1969:4649                        Tangerar fornlämningen
+L1969:4566                        Tangerar fornlämningen
 
 65
+
+[Tabell 438-1](handlingar.tabeller/438-1.csv)
+
+| Stenåldersboplats | 5A |
+| --- | --- |
+| Boplats | 5A |
+| Boplats | 5A |
+| Boplats | 4A, 5A |
+| Boplats | 4A, 5A |
+| Boplats | 4A, 5A, 4D, 5D |
+| Boplats | 4A, 5A, 4D, 5D |
+| Boplats | 4A, 5A, 4D, 5D |
+| Begravningsplats | 4B, 4C, 4D, 5B,<br>5C, 5D |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4C, 5C |
+| Boplats | 4C, 5C |
+| Stensättning | 4C, 5C |
+| Hällristning | 4C, 5C |
+| Boplats | 4C, 5C |
+| Boplats | 4C, 5C |
+| Boplats | 4D, 5D |
+| Boplats | 4D, 5D |
+| Boplats | 4D, 5D |
+| Fossil åker | 4A, 5A, 4B, 5B,<br>4D, 5D |
+| Fossil åker | 4A, 5A, 4B, 5B,<br>4D, 5D |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
 
 <!-- sida 439 -->
 
@@ -21959,24 +22076,23 @@ Figur 39. Utredningskorridorerna och vatten med MKN till havs.
 
 Tabell 11. Vatten med MKN och alternativ som berör.
 
-Objekt ID   Namn             Berörs av    Risk för
-alternativ   påverkan
+Objekt ID                                 Risk för
+påverkan
 
-WA62602702  Veån (Skörvallabäcken) 5A, 4B, 4C, Ingen risk
-WA79515547  Stockaån         4B, 4C, 5B, 5C Ingen risk
+WA62602702                                Ingen risk
+WA79515547                                Ingen risk
 
-WA30340710  Kungsbackaån - Lillån Samtliga på land Ingen risk
-till Finnebäcken
+WA30340710                                Ingen risk
 
-WA25139285  Lillån           4C, 5C       Ingen risk
-WA78444697  Intagsbäcken     Samtliga på land Ingen risk
+WA25139285                                Ingen risk
+WA78444697                                Ingen risk
 
-WA88358571  Risö-Säröarkipelagen H4, H5   Ingen risk
+WA88358571                                Ingen risk
 
-WA64137885  Onsala kustvatten H4, H5      Ingen risk
-WA78397530  Maleviken        H4           Ingen risk
+WA64137885                                Ingen risk
+WA78397530                                Ingen risk
 
-WA33043313  Stallviken       H5           Ingen risk
+WA33043313                                Ingen risk
 
 För att påverka en ytvattenförekomst så pass mycket att dess status
 försämras krävs relativt omfattande och oftast långvarig påverkan på
@@ -21988,6 +22104,20 @@ specifika plats där markkabel eventuellt behöver korsa ett vattendrag.
 Påverkan som kan uppstå är avverkning i anslutning till vattendrag som
 
 105
+
+[Tabell 478-1](handlingar.tabeller/478-1.csv)
+
+| Namn | Berörs av<br>alternativ |
+| --- | --- |
+| Veån (Skörvallabäcken) | 5A, 4B, 4C, |
+| Stockaån | 4B, 4C, 5B, 5C |
+| Kungsbackaån - Lillån<br>till Finnebäcken | Samtliga på land |
+| Lillån | 4C, 5C |
+| Intagsbäcken | Samtliga på land |
+| Risö-Säröarkipelagen | H4, H5 |
+| Onsala kustvatten | H4, H5 |
+| Maleviken | H4 |
+| Stallviken | H5 |
 
 <!-- sida 479 -->
 
@@ -27643,7 +27773,7 @@ lika relevant idag.
 
 Året har präglats av försiktig optimism. Det ekonomiska
 läget har stabiliserats något, även om oron i omvärlden
-består. Räntorna har sjunkit, men våra räntekostnader
+består Räntorna har sjunkit, men våra räntekostnader
 har ökat kraftigt när lån refinansierats från historiskt
 låga nivåer. Samtidigt har taxebundna avgifter fortsatt
 att stiga och påverkat driftkostnaderna. Därför har vi
@@ -28202,7 +28332,7 @@ upplevas som en pålitlig hyresvärd.
 
 Vissa faktorer som påverkat årets resultat har legat utanför
 vår direkta kontroll, medan andra har kunnat hanteras
-genom riktade åtgärder och handlingsplaner. Med fortsatt
+genom riktade åtgärder och handlingsplaner Med fortsatt
 fokus på service, trygghet och bemötande är vår ambition
 att behålla en hög och stabil kundnöjdhet över tid. När våra
 
@@ -29188,7 +29318,7 @@ Bland de större genomförda underhållsarbetena kan näm-
 nas omläggning av yttertak på Liabovägen samt Furubergs-
 vägen 14, renovering av balkonger och trall på Guldvägen,
 tvättning och målning av fasader på Onyxvägen 5, Åsa
-Villaväg, Gamla Tölövägen, Slåttervågen med flera. Vidare
+Villaväg, Gamla Tölövägen, Slåttervägen med flera. Vidare
 har ytskiktsrenoveringar genomförts. på Kyviks Äng 2-6,
 upprustning av utemiljön på Kyviks Äng samt upprustning
 av lekplatsen på Frillesås Trädgårdsväg.
@@ -29254,7 +29384,7 @@ upprustad utegård med boulebana.
 Gemensamma ytor och trygghetsvärd
 
 De gemensamma ytorna - samlingslokal, uterum,
-pergola och hobbyrum = är skapade för att inspirera till
+pergola och hobbyrum - är skapade för att inspirera till
 samvaro och skapa naturliga mötesplatser. Här arbetar
 också en trygghetsvärd som finns som stöd, bollplank
 och initiativtagare till aktiviteter.
@@ -29539,7 +29669,7 @@ kraftigt.
 Passivhus
 
 Ett uttryck som följt med oss genom åren är; "Vi bygger
-med engagemang och ansvar - det har vi alltid gjort". För
+med engagemang och ansvar —- det har vi alltid gjort" För
 oss är det en självklarhet att vi ska bygga energieffektiva,
 hållbara hus som människor kan leva och verka i länge.
 Passivhus är en tät och välisolerad byggnad med energief-
@@ -29665,7 +29795,7 @@ att inspirera varandra och dela med sig av kunskap kan
 bostadsbolagen göra omställningen snabbare än var och
 en för sig. Målet är att Sveriges allmännyttiga bostadsbolag
 ska vara fossilfria senast år 2030 och att energianvändning-
-en ska minska med 30 2. Alla företag som deltar kan också
+en ska minska med 30 24. Alla företag som deltar kan också
 sätta egna mål, som redovisas öppet och transparent inom
 initiativet. För att driva på klimatarbetet ytterligare finns
 också tre frivilliga fokusområden där Eksta arbetar med
@@ -29695,7 +29825,7 @@ Mellan 2022 och 2026 pågår det EU-finansierade
 
 forskningsprojektet ENFLATE, med flera demon- Rundvandring
 
-strationssajter runt om i Europa. Under 2025 var Baödradstänncentra
+strationssajter runt om i Europa. Under 2025 var Baödfradstänneentra
 det Ekstas tur att visa upp den svenska demo- i
 
 siten på Humlevägen i Fjärås. Vi fick långväga
@@ -30062,7 +30192,7 @@ Eftersom Eksta sedan länge bygger med passivhusteknik
 och genomför energibesparande åtgärder uppfyller våra
 nyproduktionsprojekt de krav som Kommuninvest ställer för
 gröna lån. För flerfamiljshus innebär detta att byggnaderna
-ska ha minst 20 24 lägre energianvändning per kvadratmeter
+ska ha minst 20 2 lägre energianvändning per kvadratmeter
 och år än vad som krävs enligt Boverkets byggregler (BBR
 29). Under 2025 har vi säkerställt att samtliga pågående
 nyproduktionsprojekt lever upp till dessa krav, vilket gör att
@@ -30320,7 +30450,7 @@ nivåer. Detta har haft en direkt påverkan på både löpande
 verksamhet och möjligheten att finansiera nyproduktion.
 
 Nyproduktionstakten har varit lägre än tidigare år där
-projekt flyttats fram i tiden. Dock färdigställdes etapp III av
+projekt flyttats fram i tiden. Dock färdigställdes etapp Ill av
 Rya Ängar med 11 lägenheter under sommaren och även
 Särö Trygghetsboende under hösten 2025. Det omfattan-
 de ROT projektet på Rosengatan 18-44 blev färdigt och
@@ -30360,7 +30490,7 @@ kan såklart hänföras till årets löneförhöjning.
 Energianvändningen i vårt bestånd ligger på en fortsatt låg
 nivå och långt under vad branschen har i övrigt. För 2025 var
 genomsnittliga energianvändningen (normalårskorrigerat)
-81,2 Kwh/ma2 och år vilket är en minskning mot föregående
+81,2 Kwh/m2 och år vilket är en minskning mot föregående
 år då siffran var 84,9 Kwh/m2 samtidigt som vi har tagit
 tillvara på hela 4 GWh solenergi under året, vilket påverkar
 bolagets energikostnader positivt.
@@ -30610,7 +30740,7 @@ gångar, exklusive pågående nyanläggningar, skrivits av med
 2,34 2 (2,36 2). Bolagets resultat medger skattemässiga
 avskrivningar i enlighet med ägardirektivet.
 
-Soliditeten uppgår vid årets slut till 19,69 26 (18,67 26) och
+Soliditeten uppgår vid årets slut till 19,69 2 (18,67 26) och
 har därmed stärkts jämfört med föregående år, men un-
 derstiger fortsatt det långsiktiga målet om 20 procent. Den
 
@@ -30622,7 +30752,7 @@ målsättningen.
 
 Konsolideringskravet står fortsatt i viss motsats till ambi-
 tionen att medverka i för kommunen strategiskt viktiga
-utvecklingsprojekt, fträmst inom bostadsproduktionen. Det
+utvecklingsprojekt, främst inom bostadsproduktionen. Det
 långsiktiga arbetet är dock inriktat på att successivt stärka
 den finansiella ställningen och därigenom minska risknivån.
 
