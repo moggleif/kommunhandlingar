@@ -120,8 +120,15 @@ två startas står i K11.
   levande källorna, som då har omkonverteringen kvar och det som kommit
   sedan mötenas jobb, och sedan detsamma med `--arkiv`. Varje
   jobb checkar in och får sin PR för sig. De levande källornas steg är
-  samma i båda jobben, `.github/actions/levande`, och incheckningen är
-  `.github/actions/checka-in`.
+  samma i båda jobben, `.github/actions/levande`.
+- **Steg 2 körs i delar om 15 minuter** (`hamta --del 15`,
+  `.github/nattkorning/hamta_i_delar.sh`,
+  [ADR-0088](decisions/0088-nattkorningen-sparar-var-femtonde-minut.md)).
+  Efter varje del kontrolleras det klara, checkas in och pushas på
+  jobbets gren (`.github/nattkorning/spara.sh`), och sist sparas det som
+  kommit efter den sista delen. Steg 2 avslutar med kod 4 när delen tog
+  slut och kandidater väntar inom budgeten; då börjar nästa del. Faller
+  en kontroll eller en push stoppar jobbet, och det som sparats står kvar.
   Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
   hoppar jobbet över kommunens levande steg 2, skriver det i
   sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
@@ -150,12 +157,14 @@ två startas står i K11.
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas**, och sedan att bara filer
   under `data/` och `versioner/` har ändrats och att inget av dem är
-  binärt. Faller något pushas ingenting.
+  binärt. Faller något pushas ingenting mer.
 - **Varje jobb pushar en egen gren**,
   `nattkorning/<datum>-<körningens id>-moten` och `-arkiv`, och datat
   når `main` genom en PR, där "Ren kod och tester" kör samma
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
-  till `main` bygger om webbplatsen.
+  till `main` bygger om webbplatsen. Grenen får sin PR också när jobbet
+  fallit efter en sparad del, eftersom varje sparad del klarat
+  kontrollerna.
 - **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
   finns, och slår på automatisk merge. Det görs i ett eget jobb på en ny
   runner, utan utcheckning, som får grenens namn som jobb-output; bara det

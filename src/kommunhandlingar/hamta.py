@@ -1,18 +1,20 @@
 """Krav: K4–K6, K8, K9, K11, K13, K16, K52 och K53 i docs/02-KRAV.md, ADR-0004,
-ADR-0018, ADR-0019, ADR-0075 och ADR-0077. Test: tests/test_hamta.py,
+ADR-0018, ADR-0019, ADR-0075, ADR-0077 och ADR-0088. Test: tests/test_hamta.py,
 tests/test_omkonvertering.py, tests/test_tidsbudget.py och
 tests/test_versionslogg.py.
 
 Steg 2: `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog>
-[--arkiv] [--start N] [--utan-omkonvertering]`. Läser kandidatlistan från
-steg 1, med `--arkiv` arkivets, och tar kandidaterna i dess ordning, ett
-dokument i taget, in i `data/` i samma repo som kommunfilen; de som bara
-ska konverteras om tas sist. Med `--start` gäller tidsbudgeten i K11,
-räknad från jobbets start. Utan `--arkiv` får `versioner/<kommun>.csv` en
-rad för varje dokument som kom in nytt, med en ny adress eller med en ny
-sha256, också när steg 2 stoppas av ett fel. Med `--utan-omkonvertering`
-tas bara det nya och ändrade, så att mötessidorna inte väntar på
-omkonverteringen.
+[--arkiv] [--start N] [--del MINUTER] [--utan-omkonvertering]`. Läser
+kandidatlistan från steg 1, med `--arkiv` arkivets, och tar kandidaterna i
+dess ordning, ett dokument i taget, in i `data/` i samma repo som
+kommunfilen; de som bara ska konverteras om tas sist. Med `--start` gäller
+tidsbudgeten i K11, räknad från jobbets start. Med `--del` slutar steg 2
+efter så många minuter, så att körningen kan spara det klara, och avslutar
+med kod 4 när kandidater väntar inom budgeten (K11, ADR-0088). Utan
+`--arkiv` får `versioner/<kommun>.csv` en rad för varje dokument som kom in
+nytt, med en ny adress eller med en ny sha256, också när steg 2 stoppas av
+ett fel. Med `--utan-omkonvertering` tas bara det nya och ändrade, så att
+mötessidorna inte väntar på omkonverteringen.
 """
 
 import argparse
@@ -32,6 +34,9 @@ from kommunhandlingar.hamtning.klient import Klient
 from kommunhandlingar.kandidat import Kandidat, lista
 from kommunhandlingar.konvertering import ocr
 from kommunhandlingar.tidsbudget import Tidsgrans
+
+MER_I_NASTA_DEL = 4
+VANTAR = "väntar på nästa körning"
 
 
 def las_kandidater(fil: Path) -> list[Kandidat]:
@@ -56,13 +61,13 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
     for nr, kandidat in enumerate(kandidater):
         try:
             if steg.tid() >= mjuk:
-                utfall["väntar på nästa körning"] += len(kandidater) - nr
+                utfall[VANTAR] += len(kandidater) - nr
                 break
             resultat = behandla(steg, kandidat)
         except Tidsgrans:
             print(f"lagd åt sidan vid tidsgränsen: {kandidat.url}", flush=True)
             utfall["lagd åt sidan vid tidsgränsen"] += 1
-            utfall["väntar på nästa körning"] += len(kandidater) - nr - 1
+            utfall[VANTAR] += len(kandidater) - nr - 1
             break
         utfall[resultat] += 1
         if resultat.startswith(("ej hämtad", "ej konverterad")):
@@ -71,21 +76,26 @@ def kor(steg: Steg2, kandidater: list[Kandidat], mjuk: datetime) -> Counter:
 
 
 def steg2(
-    steg: Steg2, kandidater: list[Kandidat], start: datetime | None, logg: Path | None
+    steg: Steg2,
+    kandidater: list[Kandidat],
+    budget: tuple[datetime | None, datetime],
+    logg: Path | None,
 ) -> Counter:
-    """Loggen skrivs också när steg 2 stoppas, så att ingen version tappas."""
+    """Budgeten är jobbets start och den här delens mjuka gräns. Loggen
+    skrivs också när steg 2 stoppas, så att ingen version tappas."""
+    start, mjuk = budget
     fore = versionslogg.versioner(steg.pool)
     if start:
         tidsbudget.starta_hard_grans(start, nu())
     try:
-        return kor(steg, ordna(steg, kandidater), tidsbudget.mjuk_grans(start))
+        return kor(steg, ordna(steg, kandidater), mjuk)
     finally:
         tidsbudget.stoppa()
         if logg:
             versionslogg.skriv(logg, versionslogg.nya(fore, steg.pool, steg.tid()))
 
 
-def main(arg: argparse.Namespace) -> None:
+def main(arg: argparse.Namespace) -> int:
     ocr.kontrollera()
     rot = arg.kommunfil.resolve().parent.parent
     kommun = konfiguration.las(arg.kommunfil)
@@ -103,9 +113,17 @@ def main(arg: argparse.Namespace) -> None:
         ensamma=ensamma(kandidater),
     )
     logg = None if arg.arkiv else rot / "versioner" / f"{kommun.id}.csv"
-    utfall = steg2(steg, kandidater, arg.start, logg)
+    mjuk = tidsbudget.delens_grans(arg.start, arg.del_, nu())
+    utfall = steg2(steg, kandidater, (arg.start, mjuk), logg)
     for resultat, antal in sorted(utfall.items()):
         print(f"{antal} {resultat}")
+    return slutkod(utfall, arg.start, mjuk)
+
+
+def slutkod(utfall: Counter, start: datetime | None, mjuk: datetime) -> int:
+    """Kod 4 när delen tog slut före budgeten och kandidater väntar (ADR-0088)."""
+    delen_tog_slut = mjuk < tidsbudget.mjuk_grans(start)
+    return MER_I_NASTA_DEL if utfall[VANTAR] and delen_tog_slut else 0
 
 
 def argument() -> argparse.Namespace:
@@ -114,6 +132,7 @@ def argument() -> argparse.Namespace:
     tolk.add_argument("arbetskatalog", type=Path)
     tolk.add_argument("--arkiv", action="store_true", help="arkivets lista (K16)")
     tolk.add_argument("--start", type=tidsbudget.tidpunkt, help=tidsbudget.START)
+    tolk.add_argument("--del", dest="del_", type=int, help="minuter per del (ADR-0088)")
     tolk.add_argument(
         "--utan-omkonvertering", action="store_true", help="bara nytt och ändrat (K53)"
     )
@@ -122,6 +141,6 @@ def argument() -> argparse.Namespace:
 
 if __name__ == "__main__":
     try:
-        main(argument())
+        sys.exit(main(argument()))
     except Konfigurationsfel as fel:
         sys.exit(f"Stoppad: {fel}")

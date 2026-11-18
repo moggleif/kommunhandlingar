@@ -7,7 +7,7 @@ from datetime import UTC, datetime
 from pathlib import Path, PurePosixPath
 from unittest import mock
 
-from kommunhandlingar import hamta, versionslogg
+from kommunhandlingar import hamta, tidsbudget, versionslogg
 from kommunhandlingar.pool import Pool
 from tests.test_hamta import TID, Steg2Fall, kandidat
 
@@ -86,7 +86,8 @@ class TestSteg2(Steg2Fall):
     """Steg 2 med en källa som inte går att nå, så att inget konverteras."""
 
     def kor_med_logg(self, logg: Path | None, *kandidater) -> None:
-        hamta.steg2(self.steg(list(kandidater)), list(kandidater), None, logg)
+        budget = (None, tidsbudget.mjuk_grans(None))
+        hamta.steg2(self.steg(list(kandidater)), list(kandidater), budget, logg)
 
     def test_levande_steg_2_loggar_det_nya(self):
         self.klient.filer["u1"] = "fel:404"

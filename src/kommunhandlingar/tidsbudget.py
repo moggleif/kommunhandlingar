@@ -1,5 +1,5 @@
-"""Krav: K11 och K52 i docs/02-KRAV.md, ADR-0006 och ADR-0075.
-Test: tests/test_tidsbudget.py.
+"""Krav: K11 och K52 i docs/02-KRAV.md, ADR-0006, ADR-0075 och ADR-0088.
+Test: tests/test_tidsbudget.py och tests/test_delar.py.
 
 Budgetens hårda gräns (docs/03-ARKITEKTUR.md#körning-och-incheckning).
 När den nås avbryts det pågående dokumentet med `Tidsgrans`, utom medan
@@ -42,6 +42,13 @@ def tidpunkt(sekunder: str) -> datetime:
 
 def mjuk_grans(start: datetime | None) -> datetime:
     return datetime.max.replace(tzinfo=UTC) if start is None else start + MJUK
+
+
+def delens_grans(start: datetime | None, minuter: int | None, nu: datetime) -> datetime:
+    """En del av körningen slutar efter sina minuter eller vid budgetens
+    mjuka gräns, det som kommer först (ADR-0088)."""
+    budget = mjuk_grans(start)
+    return budget if minuter is None else min(budget, nu + timedelta(minutes=minuter))
 
 
 def starta_hard_grans(start: datetime, nu: datetime) -> None:

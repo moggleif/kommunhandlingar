@@ -1,5 +1,5 @@
 # Upptäckt och steg 2 för de levande källorna i varje kommun, som båda
-# nattkörningens jobb gör (K11, K53, ADR-0061 och ADR-0077).
+# nattkörningens jobb gör (K11, K53, ADR-0061, ADR-0077 och ADR-0088).
 name: De levande källorna
 description: Upptäckt och steg 2 för varje kommunfil, utan arkivet.
 inputs:
@@ -23,6 +23,5 @@ runs:
             continue
           fi
           [ "$kod" -eq 0 ] || exit "$kod"
-          python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
-            --start "$START" ${{ inputs.flaggor }} | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+          .github/nattkorning/hamta_i_delar.sh "$kommunfil" ${{ inputs.flaggor }}
         done

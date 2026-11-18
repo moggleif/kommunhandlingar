@@ -1,7 +1,8 @@
-# Den schemalagda körningen (K11, K53, ADR-0006, ADR-0015, ADR-0052, ADR-0061
-# och ADR-0077): först mötessidorna, upptäckt och steg 2 för varje kommun,
-# sedan arkivet (K16, ADR-0018) ovanpå deras gren. Varje del kontrolleras,
-# checkas in på en egen gren och får en PR som mergas automatiskt.
+# Den schemalagda körningen (K11, K53, ADR-0006, ADR-0015, ADR-0052, ADR-0061,
+# ADR-0077 och ADR-0088): först mötessidorna, upptäckt och steg 2 för varje
+# kommun, sedan arkivet (K16, ADR-0018) ovanpå deras gren. Var 15:e minut
+# kontrolleras det klara och pushas på jobbets egen gren, som får en PR som
+# mergas automatiskt, också när jobbet faller efter en sparad del.
 name: Nattkörning
 
 on:
@@ -35,8 +36,13 @@ jobs:
     outputs:
       gren: ${{ steps.incheckning.outputs.gren }}
     steps:
-      - name: Jobbets start, som tidsbudgeten räknas från
-        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - name: Jobbets start, som tidsbudgeten räknas från, och dess gren
+        run: |
+          {
+            echo "START=$(date +%s)"
+            echo "DEL=moten"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-moten"
+          } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
           ref: main
@@ -50,10 +56,19 @@ jobs:
         uses: ./.github/actions/levande
         with:
           flaggor: --utan-omkonvertering
+      - name: Det sista som hämtats
+        run: .github/nattkorning/spara.sh "$GREN" "Nattkörning $(date -u +%F), $DEL"
+      # Också när jobbet fallit: det som sparats tidigare har klarat
+      # kontrollerna och får sin PR (ADR-0088).
       - id: incheckning
-        uses: ./.github/actions/checka-in
-        with:
-          del: moten
+        name: Grenen, om något sparats
+        if: always()
+        run: |
+          if git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null; then
+            echo "gren=$GREN" >> "$GITHUB_OUTPUT"
+          else
+            echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Sammanfattning
         if: always()
         run: |
@@ -65,7 +80,7 @@ jobs:
 
   pr-moten:
     needs: moten
-    if: needs.moten.outputs.gren != ''
+    if: ${{ always() && needs.moten.outputs.gren != '' }}
     uses: ./.github/workflows/nattkorning-pr.yml
     with:
       gren: ${{ needs.moten.outputs.gren }}
@@ -85,8 +100,13 @@ jobs:
     outputs:
       gren: ${{ steps.incheckning.outputs.gren }}
     steps:
-      - name: Jobbets start, som tidsbudgeten räknas från
-        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - name: Jobbets start, som tidsbudgeten räknas från, och dess gren
+        run: |
+          {
+            echo "START=$(date +%s)"
+            echo "DEL=arkiv"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-arkiv"
+          } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
           ref: ${{ needs.moten.outputs.gren || 'main' }}
@@ -106,13 +126,21 @@ jobs:
           for kommunfil in kommuner/*.toml; do
             python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
               --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
-            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
-              --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            .github/nattkorning/hamta_i_delar.sh "$kommunfil" --arkiv
           done
+      - name: Det sista som hämtats
+        run: .github/nattkorning/spara.sh "$GREN" "Nattkörning $(date -u +%F), $DEL"
+      # Också när jobbet fallit: det som sparats tidigare har klarat
+      # kontrollerna och får sin PR (ADR-0088).
       - id: incheckning
-        uses: ./.github/actions/checka-in
-        with:
-          del: arkiv
+        name: Grenen, om något sparats
+        if: always()
+        run: |
+          if git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null; then
+            echo "gren=$GREN" >> "$GITHUB_OUTPUT"
+          else
+            echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+          fi
       - name: Sammanfattning
         if: always()
         run: |
@@ -124,7 +152,7 @@ jobs:
 
   pr-arkiv:
     needs: arkiv
-    if: ${{ !cancelled() && needs.arkiv.outputs.gren != '' }}
+    if: ${{ always() && needs.arkiv.outputs.gren != '' }}
     uses: ./.github/workflows/nattkorning-pr.yml
     with:
       gren: ${{ needs.arkiv.outputs.gren }}

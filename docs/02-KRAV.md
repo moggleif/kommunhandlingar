@@ -391,6 +391,12 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   är klart; nästa körning fortsätter med resten, och ett dokument som
   lagts åt sidan syns i körningens sammanfattning.
 
+- **Givet** en körning som hämtar längre än 15 minuter
+- **När** 15 minuter har gått sedan förra sparningen
+- **Så** kontrolleras och checkas det klara in och pushas på körningens
+  gren innan nästa del börjar, så att ett avbrott kostar högst en del
+  ([ADR-0088](decisions/0088-nattkorningen-sparar-var-femtonde-minut.md)).
+
 - **Givet** en körning som har ändrat något
 - **När** den ska checka in
 - **Så** körs datakontrollerna först, och bara om de går igenom checkas
@@ -401,7 +407,7 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 
 - **Givet** en körning som har pushat sin gren, i ett repo med en token
   för körningen
-- **När** körningen slutar
+- **När** körningen slutar, också om den fallit efter en sparad del
 - **Så** har den öppnat en PR från grenen som mergas av sig själv när
   kontrollerna gått igenom; utan token säger sammanfattningen att någon
   ska öppna PR:en (ADR-0052,
@@ -410,8 +416,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en körning vars resultat inte klarar datakontrollerna, som
   stoppas av ett oväntat fel, eller som avbryts innan den checkat in
 - **När** den slutar
-- **Så** ändras ingenting i poolen, körningen syns som misslyckad, och
-  nästa körning börjar från `main` som den är.
+- **Så** ändras ingenting i poolen utom de delar som sparats före felet,
+  körningen syns som misslyckad, och nästa körning börjar från `main` som
+  den är.
 
 - **Givet** en körning där upptäckten i en kommuns levande källor stoppas
   för att en källsida inte går att hämta (K2)
