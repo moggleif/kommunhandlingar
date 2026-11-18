@@ -381,7 +381,7 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Så** görs inget nytt försök, och orsaken är `anslutning` respektive
   `teckenkodning`.
 
-## K11 — Bara färdiga och kontrollerade körningar når poolen
+## K11 — Bara kontrollerade delar av en körning når poolen
 
 - **Givet** en körning, schemalagd eller startad för hand
 - **När** dess tidsbudget är slut
@@ -391,17 +391,28 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   är klart; nästa körning fortsätter med resten, och ett dokument som
   lagts åt sidan syns i körningens sammanfattning.
 
+- **Givet** en körning som hämtar längre än 15 minuter
+- **När** en del av steg 2 har gått i 15 minuter
+- **Så** gör den färdigt dokumentet den håller på med, och det klara
+  kontrolleras, checkas in och pushas på körningens gren innan nästa del
+  börjar, så att ett avbrott kostar högst en del
+  ([ADR-0088](decisions/0088-nattkorningen-sparar-var-femtonde-minut.md)).
+- **Givet** en kandidat som redan provats i en tidigare del av samma
+  körning, också om den inte gick att hämta eller konvertera
+- **När** nästa del börjar
+- **Så** provas den inte igen förrän i nästa körning.
+
 - **Givet** en körning som har ändrat något
 - **När** den ska checka in
 - **Så** körs datakontrollerna först, och bara om de går igenom checkas
-  ändringen in, på en egen gren som en commit som bara rör filer under
-  `data/` och `versioner/` (K53);
+  ändringen in, på en egen gren som en commit per del som bara rör filer
+  under `data/` och `versioner/` (K53);
   den når `main` genom en PR där samma kontroller körs igen
   (ADR-0015).
 
 - **Givet** en körning som har pushat sin gren, i ett repo med en token
   för körningen
-- **När** körningen slutar
+- **När** körningen slutar, också om den fallit efter en sparad del
 - **Så** har den öppnat en PR från grenen som mergas av sig själv när
   kontrollerna gått igenom; utan token säger sammanfattningen att någon
   ska öppna PR:en (ADR-0052,
@@ -410,8 +421,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en körning vars resultat inte klarar datakontrollerna, som
   stoppas av ett oväntat fel, eller som avbryts innan den checkat in
 - **När** den slutar
-- **Så** ändras ingenting i poolen, körningen syns som misslyckad, och
-  nästa körning börjar från `main` som den är.
+- **Så** ändras ingenting i poolen utom de delar som sparats före felet,
+  körningen syns som misslyckad, och nästa körning börjar från `main` som
+  den är.
 
 - **Givet** en körning där upptäckten i en kommuns levande källor stoppas
   för att en källsida inte går att hämta (K2)
@@ -1771,8 +1783,9 @@ och [Versionsloggen](03-ARKITEKTUR.md#versionsloggen).
   ovanpå den grenen, med en egen gren och PR.
 - **Givet** att den första delen faller
 - **När** körningen fortsätter
-- **Så** börjar den andra delen från `main` och tar de levande källorna
-  igen; går de igenom där körs arkivet.
+- **Så** börjar den andra delen från den första delens gren, om något
+  sparats där innan den föll (K11), och annars från `main`, och tar de
+  levande källorna igen; går de igenom där körs arkivet.
 - **Givet** ett dokument från en levande källa som poolen inte har, eller som
   har fått en ny adress eller ett nytt innehåll
 - **När** steg 2 har tagit in det, också när det inte gick att hämta eller

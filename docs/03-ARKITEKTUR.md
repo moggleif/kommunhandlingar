@@ -115,13 +115,27 @@ två startas står i K11.
   ([ADR-0077](decisions/0077-motessidorna-forst-och-en-versionslogg.md)):
   `moten` kör upptäckten och steg 2 för varje kommunfil i `kommuner/`
   utan omkonvertering (`--utan-omkonvertering`), och checkar in; `arkiv`
-  startar när det är klart, från dess gren eller, utan gren eller om
-  `moten` föll, från `main`. Det gör upptäckten om och kör steg 2 för de
+  startar när det är klart, från dess gren eller, utan gren, från `main`.
+  Grenen finns också när `moten` föll efter en sparad del. Det gör upptäckten om och kör steg 2 för de
   levande källorna, som då har omkonverteringen kvar och det som kommit
   sedan mötenas jobb, och sedan detsamma med `--arkiv`. Varje
   jobb checkar in och får sin PR för sig. De levande källornas steg är
-  samma i båda jobben, `.github/actions/levande`, och incheckningen är
-  `.github/actions/checka-in`.
+  samma i båda jobben, `.github/actions/levande`.
+- **Steg 2 körs i delar om 15 minuter** (`hamta --del 15`,
+  `.github/nattkorning/hamta_i_delar.sh`,
+  [ADR-0088](decisions/0088-nattkorningen-sparar-var-femtonde-minut.md)).
+  Efter varje del kontrolleras det klara, checkas in och pushas på
+  jobbets gren (`.github/nattkorning/spara.sh`). Steg 2 avslutar med
+  kod 4 när delen tog slut och kandidater väntar inom budgeten; då börjar
+  nästa del. En kandidat som provats i en del står i
+  `<kommun>[.arkiv].kandidater.provade` bredvid kandidatlistan och tas inte
+  om i nästa del, så att ett dokument som inte går att hämta inte äter
+  varje del. Faller en kontroll eller en push stoppar jobbet, och det som
+  sparats står kvar. Arkivets steg får falla utan att stoppa jobbet, så
+  efter det sparas det som kommit sedan den sista delen, också en commit
+  vars push föll. Grenens namn bestäms när jobbet startar och har
+  körningens försök med, så att en omkörning får en egen gren
+  (`.github/actions/grenen` ger den som output när något sparats).
   Stoppas upptäckten i en kommuns levande källor av en källsida (kod 3)
   hoppar jobbet över kommunens levande steg 2, skriver det i
   sammanfattningen och går vidare (ADR-0061); upptäckten skriver inget i
@@ -150,12 +164,14 @@ två startas står i K11.
   kontrollerat 2026-10-07); ändrar GitHub gränsen ändras budgeten.
 - **Datakontrollerna körs innan något pushas**, och sedan att bara filer
   under `data/` och `versioner/` har ändrats och att inget av dem är
-  binärt. Faller något pushas ingenting.
+  binärt. Faller något pushas ingenting mer.
 - **Varje jobb pushar en egen gren**,
-  `nattkorning/<datum>-<körningens id>-moten` och `-arkiv`, och datat
+  `nattkorning/<datum>-<körningens id>-<försök>-moten` och `-arkiv`, och datat
   når `main` genom en PR, där "Ren kod och tester" kör samma
   kontroller. Har körningen inte ändrat något pushas ingen gren. Mergen
-  till `main` bygger om webbplatsen.
+  till `main` bygger om webbplatsen. Grenen får sin PR också när jobbet
+  fallit efter en sparad del, eftersom varje sparad del klarat
+  kontrollerna, men inte när körningen avbrutits för hand.
 - **Körningen öppnar PR:en själv** när hemligheten `NATTKORNING_TOKEN`
   finns, och slår på automatisk merge. Det görs i ett eget jobb på en ny
   runner, utan utcheckning, som får grenens namn som jobb-output; bara det

@@ -1,7 +1,9 @@
-# Den schemalagda körningen (K11, K53, ADR-0006, ADR-0015, ADR-0052, ADR-0061
-# och ADR-0077): först mötessidorna, upptäckt och steg 2 för varje kommun,
-# sedan arkivet (K16, ADR-0018) ovanpå deras gren. Varje del kontrolleras,
-# checkas in på en egen gren och får en PR som mergas automatiskt.
+# Den schemalagda körningen (K11, K53, ADR-0006, ADR-0015, ADR-0052, ADR-0061,
+# ADR-0077 och ADR-0088): först mötessidorna, upptäckt och steg 2 för varje
+# kommun, sedan arkivet (K16, ADR-0018) ovanpå deras gren. Var 15:e minut
+# kontrolleras det klara och pushas på jobbets egen gren, som får en PR som
+# mergas automatiskt, också när jobbet fallit efter en sparad del; inte när
+# körningen avbrutits för hand.
 name: Nattkörning
 
 on:
@@ -35,11 +37,18 @@ jobs:
     outputs:
       gren: ${{ steps.incheckning.outputs.gren }}
     steps:
-      - name: Jobbets start, som tidsbudgeten räknas från
-        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - name: Jobbets start, som tidsbudgeten räknas från, och dess gren
+        run: |
+          {
+            echo "START=$(date +%s)"
+            echo "DEL=moten"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-${{ github.run_attempt }}-moten"
+          } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
           ref: main
+      - name: Utcheckningens commit, som spara.sh jämför med
+        run: echo "BAS=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
@@ -50,10 +59,10 @@ jobs:
         uses: ./.github/actions/levande
         with:
           flaggor: --utan-omkonvertering
+      # Delarna sparas i steg 2; upptäckten skriver inget i data/.
       - id: incheckning
-        uses: ./.github/actions/checka-in
-        with:
-          del: moten
+        if: always()
+        uses: ./.github/actions/grenen
       - name: Sammanfattning
         if: always()
         run: |
@@ -65,15 +74,16 @@ jobs:
 
   pr-moten:
     needs: moten
-    if: needs.moten.outputs.gren != ''
+    if: ${{ !cancelled() && needs.moten.outputs.gren != '' }}
     uses: ./.github/workflows/nattkorning-pr.yml
     with:
       gren: ${{ needs.moten.outputs.gren }}
     secrets:
       NATTKORNING_TOKEN: ${{ secrets.NATTKORNING_TOKEN }}
 
-  # Från mötenas gren, så att arkivets PR inte krockar med deras; utan gren,
-  # eller om mötessidorna föll, från main (ADR-0077).
+  # Från mötenas gren, så att arkivets PR inte krockar med deras; utan gren
+  # från main. Mötenas gren finns också när jobbet föll efter en sparad del
+  # (ADR-0077, ADR-0088).
   arkiv:
     name: Omkonvertering och arkiv
     needs: moten
@@ -85,11 +95,18 @@ jobs:
     outputs:
       gren: ${{ steps.incheckning.outputs.gren }}
     steps:
-      - name: Jobbets start, som tidsbudgeten räknas från
-        run: echo "START=$(date +%s)" >> "$GITHUB_ENV"
+      - name: Jobbets start, som tidsbudgeten räknas från, och dess gren
+        run: |
+          {
+            echo "START=$(date +%s)"
+            echo "DEL=arkiv"
+            echo "GREN=nattkorning/$(date -u +%F)-${{ github.run_id }}-${{ github.run_attempt }}-arkiv"
+          } >> "$GITHUB_ENV"
       - uses: actions/checkout@v7
         with:
           ref: ${{ needs.moten.outputs.gren || 'main' }}
+      - name: Utcheckningens commit, som spara.sh jämför med
+        run: echo "BAS=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
       - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
@@ -106,13 +123,15 @@ jobs:
           for kommunfil in kommuner/*.toml; do
             python -m kommunhandlingar.upptack "$kommunfil" "$RUNNER_TEMP/arbete" \
               --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
-            python -m kommunhandlingar.hamta "$kommunfil" "$RUNNER_TEMP/arbete" \
-              --arkiv --start "$START" | tee -a "$RUNNER_TEMP/sammanfattning.txt"
+            .github/nattkorning/hamta_i_delar.sh "$kommunfil" --arkiv
           done
+      # Arkivets steg får falla utan att stoppa jobbet, så det som hämtats
+      # efter dess sista sparade del sparas här.
+      - name: Det sista som hämtats
+        run: .github/nattkorning/spara.sh "$GREN" "Nattkörning $(date -u +%F), $DEL, sist"
       - id: incheckning
-        uses: ./.github/actions/checka-in
-        with:
-          del: arkiv
+        if: always()
+        uses: ./.github/actions/grenen
       - name: Sammanfattning
         if: always()
         run: |

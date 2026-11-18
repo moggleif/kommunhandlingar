@@ -1,0 +1,24 @@
+# Jobbets gren som output, om något sparats på den. Körs också när jobbet
+# fallit: varje sparad del har klarat kontrollerna och får sin PR (K11,
+# ADR-0088).
+name: Grenen, om något sparats
+description: Sätter gren när jobbets gren finns i repot.
+outputs:
+  gren:
+    description: grenen, tom när inget sparats
+    value: ${{ steps.grenen.outputs.gren }}
+runs:
+  using: composite
+  steps:
+    - id: grenen
+      shell: bash
+      run: |
+        kod=0
+        git ls-remote --exit-code origin "refs/heads/$GREN" > /dev/null || kod=$?
+        if [ "$kod" -eq 0 ]; then
+          echo "gren=$GREN" >> "$GITHUB_OUTPUT"
+        elif [ "$kod" -eq 2 ]; then
+          echo "Inget nytt i poolen." >> "$GITHUB_STEP_SUMMARY"
+        else
+          exit "$kod"
+        fi
