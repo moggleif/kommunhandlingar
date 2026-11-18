@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.67d5448018f7764eec71016b/1716443065
 sha256: 401fe5463f0e1e97848316bdb30613c13af80c8090aabf3a25a8115f3aed8f1c
 bytes: 82574839
 sidor: 773
-hamtad: 2026-11-08T21:19:52+00:00
-konverterad: 2026-11-08T21:28:20+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T12:07:01+00:00
+konverterad: 2026-11-18T12:15:19+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
 tal_obekraftade: [123, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 231, 388, 389, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 562, 563, 575, 578, 581, 583, 585, 586, 587, 588, 589, 591, 592, 593, 594, 595, 596, 597, 599, 600, 601, 603, 604, 605, 607, 609, 610, 611, 612, 613, 614, 615, 618, 620, 624, 625, 626, 627, 628, 630, 631, 632, 633, 634, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 654, 655, 772, 773]
 figurer: [28, 36, 40, 52, 60, 62, 66, 75, 76, 93, 94, 106, 112, 113, 123, 127, 128, 129, 134, 138, 139, 144, 145, 161, 171, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 200, 201, 213, 216, 228, 231, 233, 235, 236, 237, 238, 239, 240, 241, 243, 244, 245, 246, 247, 248, 249, 256, 272, 274, 295, 296, 297, 298, 299, 306, 307, 311, 313, 334, 335, 336, 337, 343, 347, 352, 355, 356, 357, 360, 361, 371, 384, 387, 388, 389, 393, 394, 395, 396, 413, 417, 418, 419, 420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 430, 431, 432, 439, 441, 442, 445, 446, 451, 475, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 556, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 606, 607, 608, 611, 612, 614, 615, 616, 617, 618, 620, 625, 626, 627, 628, 629, 633, 634, 636, 637, 638, 639, 640, 641, 642, 643, 644, 646, 647, 648, 649, 650, 651, 653, 654, 655, 657, 664, 672, 675, 677, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709, 710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 724, 729, 734, 743, 758]
 tolkade: []
@@ -2124,8 +2124,15 @@ kvalitetsfaktor på 30%. I slambehandlingsalternativen med rötning kan energiti
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Energibalans<br>(MWh) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Energibalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (MWh) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energianvändning: |  |  |  |  |  |
 | Elanvändning | 2 460 | 3 160 | 3 060 | 2 050 | 2 250 |
 | Värmeanvändning | 830 | 0 | 0 | 0 | 420 |
@@ -2204,8 +2211,15 @@ med AGS. AGS + alt 0 är inget reellt alternativ utan är med för referens.
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Klimatbalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (ton CO per år)<br>2e |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Emissioner: |  |  |  |  |  |
 | Direkta emissioner från företagsägda bilar, reservkraft och<br>värme | 16 | 16 | 16 | 16 | 16 |
 | Direkta emissioner av N O<br>2 | 2 010 | 2 010 | 1 720 | 1 720 | 2 010 |
@@ -2422,8 +2436,15 @@ mindre jämfört med lokal rötningsanläggning). Att slambehandlingsalternative
 
 [Tabell 55-1](handlingar.tabeller/55-1.csv)
 
-| Ekonomi<br>(Mkr) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Ekonomi | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (Mkr) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Totala kostnader under 50 år | 6 788 | 8 741 | 7 495 | 6 111 | 6 797 |
 | Utvärdering (poäng) | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
 
@@ -2470,8 +2491,12 @@ har idag plats för 22 personer vilket bedöms kunna behållas.
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
-| Utvärderingskriterium | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Utvärderingskriterium | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  | + | + | + | + | + |
+|  | Rötning | Rötning | Pyrolys | Alt. 0 | Alt. 0+ |
+|  |  | + |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energi | 4,8 | 5,0 | 3,7 | 3,4 | 4,8 |
 | Klimat | 5,0 | 3,2 | 2,6 | 2,6 | 4,6 |
 | Ekonomi | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
@@ -3134,7 +3159,7 @@ köpa in återbrukat material.
 
 | t<br>k<br>e<br>r<br>id<br>n<br>I |  |  |  |  |  | Inbin | dningkol | El | re<br>ila<br>k<br>im<br>e<br>K |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klima | a<br>tpåverk | an |  | t | on CO2e |
+| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klimat | a<br>påverk | an |  | t | on CO2e |
 
 <!-- sida 71 -->
 
@@ -5535,7 +5560,7 @@ ambitionsnivå och/eller hög effektivitet.
 
 [Tabell 124-1](handlingar.tabeller/124-1.csv)
 
-| Tillägg tusen kronor, Tkr Plan 2025 Plan 2026 Plan 2027 |  |  |  |
+| Tillägg tusen kronor, Tkr | Plan 2025 | Plan 2026 | Plan 2027 |
 | --- | --- | --- | --- |
 | Förskola & Grundskola, från och med 2025 som kvarstår<br>i ramen | 14 000 | 14 000 | 14 000 |
 | Individ & Familjeomsorg, från och med 2025 som<br>kvarstår i ramen | 6 000 | 6 000 | 6 000 |
@@ -5555,7 +5580,7 @@ Kvarstående tillägg från kommunbudget 2024 som ingår i befintliga budgetrama
 
 [Tabell 125-1](handlingar.tabeller/125-1.csv)
 
-| Tillägg tusen kronor, Tkr Budget 2024 Plan 2025 Plan 2026 Plan 2027 |  |  |  |  |
+| Tillägg tusen kronor, Tkr | Budget 2024 | Plan 2025 | Plan 2026 | Plan 2027 |
 | --- | --- | --- | --- | --- |
 | Tjolöholm tillfälligt bidrag 2024 | 1 000 |  |  |  |
 | Centralt osakliga löneskillnader. Ingår i ramarna då<br>de är utfördelade till berörda nämnder från och<br>med år 2023 | 3 000 | 3 000 | 3 000 | 3 000 |
@@ -5620,22 +5645,18 @@ hösten 2023 till och med 2024-04-30, samt fullmäktiges beslut om att ramjuster
 finansverksamheten för Räddningstjänstens pensioner (10 898 tusen kronor).
 Internpriser
 
-Uppräkning i
-T jänst    P rismodell                   procent
-
-Hyra per lokaler enligt hyresmodell som
-beslutats i KF § 154/14 Dnr 2014–247.
-Hyror      Beräkning av hyror görs med internränta 2,5% 3 procent
-som utgångspunkt.
-Måltider   Livsmedel                     3 procent
-Lokalvård  Pris per timma                3 procent
-Lönehantering Pris per lönespecifikation 3 procent
-
-Grundkostnadsfördelning per förvaltning,
-Inköp      kostnad per objektsupphandling 3 procent
-Digitalt center Pris per användare och verksamhet 3 procent
-
 38
+
+[Tabell 126-1](handlingar.tabeller/126-1.csv)
+
+| T jänst | P rismodell | Uppräkning i<br>procent |
+| --- | --- | --- |
+| Hyra per lokaler enligt hyresmodell som<br>beslutats i KF § 154/14 Dnr 2014–247.<br>Hyror Beräkning av hyror görs med internränta 2,5% 3 procent<br>som utgångspunkt. |  |  |
+| Måltider Livsmedel 3 procent |  |  |
+| Lokalvård Pris per timma 3 procent |  |  |
+| Lönehantering Pris per lönespecifikation 3 procent |  |  |
+| Grundkostnadsfördelning per förvaltning,<br>Inköp kostnad per objektsupphandling 3 procent |  |  |
+| Digitalt center Pris per användare och verksamhet 3 procent |  |  |
 
 <!-- sida 127 -->
 
@@ -6542,22 +6563,24 @@ skattekollektivet.
 
 Följande tabeller visar investeringarna totalt och per nämnd.
 
+Investeringar totalt,                                        Plan 2025-
+Tusen kronor (Tkr) Budget 2025 Plan 2026 Plan 2027 Plan 2028 Plan 2029 2029
+Löpande investeringar 45 295    42 995  45 595  45 595  43 058  222 538
+
+Lokalinvesteringar SE 77 850    94 600  71 050  55 000  90 000  388 500
+Lokalplan             251 800   469 391 1 098 260 772 354 524 928 3 116 733
+Övriga investeringar  93 350    86 900  88 950  91 000 105 071  465 271
+Reinvesteringar       29 200    37 000  34 200  34 400  35 216  170 016
+Delsumma              497 495   730 886 1 338 055 998 349 798 273 4 363 058
+Exploateringar (in/ut) 220 601  351 338 350 460 360 981 206 246 1 489 626
+
+Delsumma              718 096  1 082 224 1 688 515 1 359 330 1 004 519 5 852 684
+
+Avgiftsfinansierade inv 584 580 971 650 918 850 721 060 525 790 3 721 930
+Summa investeringar inkl
+explotaringar och lokaler 1 302 676 2 053 874 2 607 365 2 080 390 1 530 309 9 574 614
+
 58
-
-[Tabell 146-1](handlingar.tabeller/146-1.csv)
-
-| Investeringar totalt,<br>Tusen kronor (Tkr) | Budget 2025 | Plan 2026 | Plan 2027 | Plan 2028 | Plan 2029 | Plan 2025-<br>2029 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Löpande investeringar | 45 295 | 42 995 | 45 595 | 45 595 | 43 058 | 222 538 |
-| Lokalinvesteringar SE | 77 850 | 94 600 | 71 050 | 55 000 | 90 000 | 388 500 |
-| Lokalplan | 251 800 | 469 391 | 1 098 260 | 772 354 | 524 928 | 3 116 733 |
-| Övriga investeringar | 93 350 | 86 900 | 88 950 | 91 000 | 105 071 | 465 271 |
-| Reinvesteringar | 29 200 | 37 000 | 34 200 | 34 400 | 35 216 | 170 016 |
-| Delsumma | 497 495 | 730 886 | 1 338 055 | 998 349 | 798 273 | 4 363 058 |
-| Exploateringar (in/ut) | 220 601 | 351 338 | 350 460 | 360 981 | 206 246 | 1 489 626 |
-| Delsumma | 718 096 | 1 082 224 | 1 688 515 | 1 359 330 | 1 004 519 | 5 852 684 |
-| Avgiftsfinansierade inv | 584 580 | 971 650 | 918 850 | 721 060 | 525 790 | 3 721 930 |
-| Summa investeringar inkl<br>explotaringar och lokaler | 1 302 676 | 2 053 874 | 2 607 365 | 2 080 390 | 1 530 309 | 9 574 614 |
 
 <!-- sida 147 -->
 
@@ -8110,7 +8133,7 @@ Lokaltyp och beskrivning
 140 = Iserås fullmåttshall
 142 — Naturum Fjärås Bräcka
 143 - Ölmevalla idrottshall (fullmått)
-144 — Bibliotek i Anneberg/Norra kommundelen
+144 Bibliotek i Anneberg/Norra kommundelen
 145 Enkel isyta för träning (ishall)
 
 146 Ny skatehall samt avgående hyra befintlig skatehall
@@ -17882,31 +17905,6 @@ anläggningar och höga hus, är räddningsinsatsens genomförande helt beroende
 till tekniska system och insatsstöd i form av exempelvis insatsplaner.
 
 Tabell 11. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand i byggnad.
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att söka efter och rädda personer i tät brandrök,
-\-  att genomföra utvändig och invändig släckinsats för att bekämpa
-brand,
-\-  att assistera utrymning av personer från utrymningsplatser ur
-brinnande byggnader,
-\-  att assistera utrymning av personer ur brinnande byggnad
-utvändigt via fönster eller balkong med stegutrustning.
-Förmågan Brand i byggnad förutsätter att brandvatten-
-Brand i byggnad
-försörjningen i det kommunala brandpostnätet är utformat efter
-P11483.
-För närmare information om när räddningstjänstens förmåga att
-assistera utrymning av personer ur brinnande byggnad via
-fönster eller balkong med stegutrustning kan ersätta en
-utrymningsväg hänvisas till Råd och anvisning nr 11084.
-Redovisningen i detta dokument kan inte åberopas som underlag
-för en brandteknisk dimensionering.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-\-  att kunna försörja pågående insats med extra andningsluft,
-Depå                -  att försörja pågående insats med dryck och mat,
-\-  att försörja pågående insats med bränsle och materiel.
 
 8.2.2 Brand utomhus
 
@@ -17914,47 +17912,30 @@ Samtliga heltids- och RiB-styrkor kan bekämpa bränder utomhus (Tabell 12).
 
 Tabell 12. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand utomhus.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
-Brand i skog och mark
-\-  att genomföra släckning av brand i skog och mark.
-\-  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
-spårvagn, järnvägsvagn utomhus, eller annat mindre fristående
-objekt,
-Brand i fordon och andra fristående
-\-  att, i livräddande syfte, släcka brand i fordon i tunnel,
-objekt
-undermarksanläggning eller liknande med hänsyn till
-begränsningar och förutsättningar på grund av anläggningens
-utformning.
-
 83 Svenskt Vatten, 2020. P114 - Distribution av dricksvatten. Stockholm: Svenskt Vatten
 84 RSG, 2017. Råd och anvisning nr 110 – Räddningstjänstens insatstid och förmåga. http://www.rsgbg.se/foretag--
 organisation/rad-och-anvisningar/
 
 57 (70)
 
+[Tabell 399-1](handlingar.tabeller/399-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att söka efter och rädda personer i tät brandrök,<br>- att genomföra utvändig och invändig släckinsats för att bekämpa<br>brand,<br>- att assistera utrymning av personer från utrymningsplatser ur<br>brinnande byggnader,<br>- att assistera utrymning av personer ur brinnande byggnad<br>utvändigt via fönster eller balkong med stegutrustning.<br>Förmågan Brand i byggnad förutsätter att brandvatten-<br>Brand i byggnad<br>försörjningen i det kommunala brandpostnätet är utformat efter<br>P11483.<br>För närmare information om när räddningstjänstens förmåga att<br>assistera utrymning av personer ur brinnande byggnad via<br>fönster eller balkong med stegutrustning kan ersätta en<br>utrymningsväg hänvisas till Råd och anvisning nr 11084.<br>Redovisningen i detta dokument kan inte åberopas som underlag<br>för en brandteknisk dimensionering. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+| - att kunna försörja pågående insats med extra andningsluft,<br>Depå - att försörja pågående insats med dryck och mat,<br>- att försörja pågående insats med bränsle och materiel. |  |
+
+[Tabell 399-2](handlingar.tabeller/399-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att bekämpa gräsbrand på äng, i vägslänter, mindre fält,<br>Brand i skog och mark<br>- att genomföra släckning av brand i skog och mark. |  |
+| - att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,<br>spårvagn, järnvägsvagn utomhus, eller annat mindre fristående<br>objekt,<br>Brand i fordon och andra fristående<br>- att, i livräddande syfte, släcka brand i fordon i tunnel,<br>objekt<br>undermarksanläggning eller liknande med hänsyn till<br>begränsningar och förutsättningar på grund av anläggningens<br>utformning. |  |
+
 <!-- sida 400 -->
 
 Handlingsprogram enligt LSO 2024
-
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
-\-  att genomföra insats för livräddning av enstaka personer i
-Brand i fartyg
-brandpåverkat utrymme eller genomföra släckinsats vid brand i
-fartyg förtöjt vid kaj.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-\-  att kunna försörja pågående insats med extra andningsluft,
-Depå                -  att försörja pågående insats med dryck och mat,
-\-  att försörja pågående insats med bränsle och materiel.
-\-  att genomföra transport av materiel eller personal i väglös
-Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
-bandvagn eller annat terrängfordon.
 
 8.2.3 Trafikolycka
 
@@ -17964,35 +17945,32 @@ med specialförmåga (nivå 2 och 3). (Tabell 13)
 
 Tabell 13. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid trafikolycka.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
-\-  att snabbt frigöra fastklämda personer från fordon (personbil,
-Trafikolycka           buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt
-sjukvårdsomhändertagande,
-\-  att stabilisera/säkra fordon vid instabilitet.
-\-  att genomföra losstagning, lyft och säkring vid olyckor med buss,
-Trafikolycka, nivå 3
-tåg, lastbil och andra tunga fordon.
-\-  att genomföra räddningsinsatser vid trafikolyckor där tunga
-fordon är inblandade såsom lastbilar, bussar och tåg,
-Resurs för ras och tungräddning
-\-  att genomföra räddningsinsatser vid byggnadskollapser genom
-(RTR)
-stabiliserande åtgärder och att söka efter personer vid dessa
-händelser.
-Spårvagnslyft       -  att utföra lyft av spårvagn för losstagning av enstaka personer.
-\-  att vid händelse på anläggningar för tågtrafik kunna spännings-
-Arbetsjordning
-prova och utföra arbetsjordning på anläggningen.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 8.2.4 Olycka med farliga ämnen
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
+
 av enstaka personer. För mer komplicerade räddningsinsatser, brand i brandfarliga
 
 58 (70)
+
+[Tabell 400-1](handlingar.tabeller/400-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att släcka brand i mindre fritidsbåt förtöjd vid kaj,<br>- att genomföra insats för livräddning av enstaka personer i<br>Brand i fartyg<br>brandpåverkat utrymme eller genomföra släckinsats vid brand i<br>fartyg förtöjt vid kaj. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+| - att kunna försörja pågående insats med extra andningsluft,<br>Depå - att försörja pågående insats med dryck och mat,<br>- att försörja pågående insats med bränsle och materiel. |  |
+| - att genomföra transport av materiel eller personal i väglös<br>Terrängtransport terräng eller på väg med begränsad framkomlighet med MC,<br>bandvagn eller annat terrängfordon. |  |
+
+[Tabell 400-2](handlingar.tabeller/400-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att spärra av och säkra olycksplatsen mot följdolyckor och brand,<br>- att snabbt frigöra fastklämda personer från fordon (personbil,<br>Trafikolycka buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt<br>sjukvårdsomhändertagande,<br>- att stabilisera/säkra fordon vid instabilitet. |  |
+| - att genomföra losstagning, lyft och säkring vid olyckor med buss,<br>Trafikolycka, nivå 3<br>tåg, lastbil och andra tunga fordon. |  |
+| - att genomföra räddningsinsatser vid trafikolyckor där tunga<br>fordon är inblandade såsom lastbilar, bussar och tåg,<br>Resurs för ras och tungräddning<br>- att genomföra räddningsinsatser vid byggnadskollapser genom<br>(RTR)<br>stabiliserande åtgärder och att söka efter personer vid dessa<br>händelser. |  |
+| Spårvagnslyft - att utföra lyft av spårvagn för losstagning av enstaka personer. |  |
+| - att vid händelse på anläggningar för tågtrafik kunna spännings-<br>Arbetsjordning<br>prova och utföra arbetsjordning på anläggningen. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 401 -->
 
@@ -18000,79 +17978,24 @@ Handlingsprogram enligt LSO 2024
 
 produkter, utsläpp av farliga ämnen mm krävs förstärkning från räddningsstyrkor med
 specialförmåga (nivå 2 och 3). (Tabell 14)
-
 Tabell 14. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid olycka med farligt ämne.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-Brand i brandfarlig vätska och gas
-
-Farliga ämnen
-
-Farliga ämnen, nivå 2 (indikering)
-
-Farliga ämnen, nivå 3 (kem 3)
-
-Farliga ämnen, kemenhet
-
-Avancerad Indikering
-
-Sanering
-
-Förstärkt resurs för brand i
-brandfarlig vätska
-
-Storskalig oljebrandsläckning (SMC)
-
-UAS - Unmanned Aerial System
-
-\- att snabbt rädda enstaka personer som befinner sig i fara i
-område med brandfarlig vätska eller gas,
-\- att släcka brand i spill av olja eller polär produkt från tankbil eller
-järnvägsvagn,
-\- att släcka brand i mindre cistern med olja eller polär produkt,
-\- att kyla hotad cistern vid brand i cistern för brandfarlig vara.
-\- att snabbt rädda enstaka personer som befinner sig i område
-med farliga ämnen,
-\- att genomföra livräddande sanering av enstaka personer,
-\- att indikera brännbar atmosfär och annan farlig miljö,
-\- att akut begränsa skadeutbredningen genom övertäckning,
-uppsamling, och nedtvättning.
-\- att indikera riskområde för vanligt förekommande
-industrikemikalier
-\- att genomföra insats i område/utrymme med farliga ämnen
-\- att begränsa skadeutbredning genom tätning, övertäckning,
-uppsamling, impaktering, överpumpning, kylning och
-nedtvättning.
-
-\- att vara en nationell resurs för keminsatser vid olyckor med
-farliga ämnen med avancerad utrustning och specialutbildad
-personal. De kan bland annat pumpa och samla upp kemikalier,
-impaktera giftiga kondenserade gaser, täta läckage, indikera
-gaser och vätskor.
-Förmågan regleras genom avtal mellan RSG och MSB.
-\- att vara en nationell resurs vid olyckor med farliga ämnen,
-genom att kunna identifiera ett okänt ämne.
-
-Förmågan regleras genom avtal mellan RSG och MSB
-
-\- att vara en nationell resurs för sanering av flera kontaminerade
-personer vid olyckor med farliga ämnen.
-Förmågan regleras genom avtal mellan RSG och MSB
-
-\- att möjliggöra kylning med vatten och släckförmåga med skum
-för större bränder i brandfarlig vätska med hjälp av skumbilar,
-storpump, slang och armaturer.
-\- att självständigt eller med hjälp av andra SMC-enheter släcka
-större bränder i oljedepåer.
-
-Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
-(SMC).
-\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-
 59 (70)
+
+[Tabell 401-1](handlingar.tabeller/401-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att snabbt rädda enstaka personer som befinner sig i fara i<br>område med brandfarlig vätska eller gas,<br>- att släcka brand i spill av olja eller polär produkt från tankbil eller<br>Brand i brandfarlig vätska och gas<br>järnvägsvagn,<br>- att släcka brand i mindre cistern med olja eller polär produkt,<br>- att kyla hotad cistern vid brand i cistern för brandfarlig vara. |  |
+| - att snabbt rädda enstaka personer som befinner sig i område<br>med farliga ämnen,<br>- att genomföra livräddande sanering av enstaka personer,<br>Farliga ämnen<br>- att indikera brännbar atmosfär och annan farlig miljö,<br>- att akut begränsa skadeutbredningen genom övertäckning,<br>uppsamling, och nedtvättning. |  |
+| - att indikera riskområde för vanligt förekommande<br>Farliga ämnen, nivå 2 (indikering)<br>industrikemikalier |  |
+| - att genomföra insats i område/utrymme med farliga ämnen<br>- att begränsa skadeutbredning genom tätning, övertäckning,<br>Farliga ämnen, nivå 3 (kem 3) uppsamling, impaktering, överpumpning, kylning och<br>nedtvättning. |  |
+| - att vara en nationell resurs för keminsatser vid olyckor med<br>farliga ämnen med avancerad utrustning och specialutbildad<br>personal. De kan bland annat pumpa och samla upp kemikalier,<br>impaktera giftiga kondenserade gaser, täta läckage, indikera<br>Farliga ämnen, kemenhet<br>gaser och vätskor.<br>Förmågan regleras genom avtal mellan RSG och MSB. |  |
+| - att vara en nationell resurs vid olyckor med farliga ämnen,<br>genom att kunna identifiera ett okänt ämne.<br>Avancerad Indikering<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att vara en nationell resurs för sanering av flera kontaminerade<br>personer vid olyckor med farliga ämnen.<br>Sanering<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att möjliggöra kylning med vatten och släckförmåga med skum<br>Förstärkt resurs för brand i för större bränder i brandfarlig vätska med hjälp av skumbilar,<br>brandfarlig vätska storpump, slang och armaturer. |  |
+| - att självständigt eller med hjälp av andra SMC-enheter släcka<br>större bränder i oljedepåer.<br>Storskalig oljebrandsläckning (SMC)<br>Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen<br>(SMC). |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 402 -->
 
@@ -18089,45 +18012,12 @@ statlig räddningstjänst till havs.
 Group)
 Förmågan regleras genom avtal mellan RSG och Sjöfartsverket samt
 Kustbevakningen.
-
 8.2.5 Naturolycka
-
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
 av enstaka personer. För mer komplicerade räddningsinsatser vid naturolyckor krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 15)
 
 Tabell 15. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
-
-Område
-
-Resurs för ras och tung räddning
-(RTR)
-
-Terrängtransport
-
-Nationell förstärkningsresurs för
-urban sök- och räddning (NUSAR)
-
-UAS - Unmanned Aerial System
-
-Förmåga och nyckeluppgifter som omfattas av
-
-\- att genomföra räddningsinsatser vid naturolyckor där tunga
-fordon är inblandade såsom lastbilar, bussar och tåg,
-\- att genomföra räddningsinsatser vid byggnadskollapser vid
-naturolyckor genom stabiliserande åtgärder och att söka efter
-personer vid dessa händelser
-\- att genomföra transport av materiel eller personal i väglös
-terräng eller på väg med begränsad framkomlighet med MC,
-bandvagn eller annat terrängfordon.
-\- att vara en nationell sök- och räddningsresurs för att söka efter
-och rädda människor vid stora komplexa räddningsinsatser med
-kollapsade byggnadskonstruktioner, orsakade av till exempel
-naturkatastrofer, olyckor, terrordåd eller krig.
-Förmågan regleras genom avtal mellan RSG och MSB
-\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 
 8.2.6 Drunkning
 
@@ -18136,36 +18026,31 @@ komplicerade räddningsinsatser med behov av vattendykare, större båt etc. kr�
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 16)
 
 Tabell 16. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\- att rädda enstaka personer i ytläge eller på grunt vatten,
-Vattenlivräddning
-\- att rädda enstaka personer ur isvak.
-\- att med hjälp av båt med olika storlek bedriva räddningsinsats på
-och invid hav, sjöar och vattendrag. Båtarnas
-användningsområde kan sammanfattas till följande:
-Räddningsbåt
-\- Livräddning vid hot om hopp från bro.
-\- Resursuppbyggnad (personal och material) till Göteborgs södra
-skärgård vid större händelse.
 
 60 (70)
+
+[Tabell 402-1](handlingar.tabeller/402-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att genomföra räddningsinsatser vid naturolyckor där tunga<br>fordon är inblandade såsom lastbilar, bussar och tåg,<br>Resurs för ras och tung räddning<br>- att genomföra räddningsinsatser vid byggnadskollapser vid<br>(RTR)<br>naturolyckor genom stabiliserande åtgärder och att söka efter<br>personer vid dessa händelser |  |
+| - att genomföra transport av materiel eller personal i väglös<br>Terrängtransport terräng eller på väg med begränsad framkomlighet med MC,<br>bandvagn eller annat terrängfordon. |  |
+| - att vara en nationell sök- och räddningsresurs för att söka efter<br>och rädda människor vid stora komplexa räddningsinsatser med<br>kollapsade byggnadskonstruktioner, orsakade av till exempel<br>Nationell förstärkningsresurs för<br>naturkatastrofer, olyckor, terrordåd eller krig.<br>urban sök- och räddning (NUSAR)<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+
+[Tabell 402-403-2](handlingar.tabeller/402-403-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att rädda enstaka personer i ytläge eller på grunt vatten,<br>Vattenlivräddning<br>- att rädda enstaka personer ur isvak. |  |
+| - att med hjälp av båt med olika storlek bedriva räddningsinsats på<br>och invid hav, sjöar och vattendrag. Båtarnas<br>användningsområde kan sammanfattas till följande:<br>Räddningsbåt<br>- Livräddning vid hot om hopp från bro.<br>- Resursuppbyggnad (personal och material) till Göteborgs södra<br>skärgård vid större händelse. |  |
+| - Brandbekämpning vid bränder i fastigheter nära vatten och<br>vid brand i fartyg.<br>- Dykplattform vid insats med vattendykare.<br>- Andra räddningsuppdrag på och vid insjöar och vattendrag. |  |
+| - att utföra räddningsdykning ner till 40 meters djup för att utföra<br>Räddningsdykare (vatten) sök och livräddningssinsats. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 403 -->
 
 Handlingsprogram enligt LSO 2024
-
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\- Brandbekämpning vid bränder i fastigheter nära vatten och
-vid brand i fartyg.
-\- Dykplattform vid insats med vattendykare.
-\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
-\-  att utföra räddningsdykning ner till 40 meters djup för att utföra
-Räddningsdykare (vatten) sök och livräddningssinsats.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 
 8.2.7 Nödställd person
 
@@ -18176,22 +18061,6 @@ svåråtkomlig plats mm krävs förstärkning från räddningsstyrkor med specia
 och 3). (Tabell 17)
 Tabell 17. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid händelser med nödställd person, t ex
 hot om suicid.
-
-Område                   Förmåga och nyckeluppgifter som omfattas av
-
-\-  att genomföra ett första bemötande av suicidal
-Hot om suicid
-person.
-\-  akut omhändertagande vid olika typer av skador och
-Prehospitalt akut omhändertagande sjukdomar samt HLR.
-\-  att rädda person från svårtillgänglig plats (exempelvis
-master, broar, bergssidor, schakt, kranar,
-Hög höjd                    vindkraftverk),
-\-  att rädda person som fallit ner i brunn, schakt eller
-liknande.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla
-UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
-form av bild och film från ovan.
 
 8.2.8 Avsiktliga händelser
 
@@ -18211,6 +18080,15 @@ området.
 
 61 (70)
 
+[Tabell 403-1](handlingar.tabeller/403-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att genomföra ett första bemötande av suicidal<br>Hot om suicid<br>person. |  |
+| - akut omhändertagande vid olika typer av skador och<br>Prehospitalt akut omhändertagande sjukdomar samt HLR. |  |
+| - att rädda person från svårtillgänglig plats (exempelvis<br>master, broar, bergssidor, schakt, kranar,<br>Hög höjd vindkraftverk),<br>- att rädda person som fallit ner i brunn, schakt eller<br>liknande. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla<br>UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i<br>form av bild och film från ovan. |  |
+
 <!-- sida 404 -->
 
 Handlingsprogram enligt LSO 2024
@@ -18222,34 +18100,12 @@ specialförmåga (nivå 2 och 3). (Tabell 18)
 
 Tabell 18. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid antagonistiska händelser.
 
-Område                   Förmåga och nyckeluppgifter som omfattas av
-
-\-  akut omhändertagande vid olika typer av skador och
-Prehospitalt akut omhändertagande
-sjukdomar samt HLR.
-\-  att genomföra räddningsinsatser vid naturolyckor där
-tunga fordon är inblandade såsom lastbilar, bussar och
-tåg,
-Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid
-byggnadskollapser vid naturolyckor genom
-stabiliserande åtgärder och att söka efter personer vid
-dessa händelser
-\-  att vara en nationell sök- och räddningsresurs för att
-söka efter och rädda människor vid stora komplexa
-räddningsinsatser med kollapsade
-Nationell förstärkningsresurs för urban sök-
-byggnadskonstruktioner, orsakade av till exempel
-och räddning (NUSAR)
-naturkatastrofer, olyckor, terrordåd eller krig.
-Förmågan regleras genom avtal mellan RSG och MSB
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla
-UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
-form av bild och film från ovan.
 8.3 Ledning i räddningstjänsten
 Ledning av räddningstjänstverksamheten i Räddningstjänsten Storgöteborg (RSG) sker i
 huvudsak med egen ledningspersonal, vilka också genom avtal85, 86 utgör kärnan i ett
 gemensamt räddningsledningssystem med räddningstjänsterna i Västra Räddningsregionen
 (VRR). För övergripande ledning och ledning av räddningsinsatser finns det utsedda
+
 ledningsfunktioner, en larm- och ledningscentral, rutiner och lokaler/resurser för stabs-
 verksamhet. Genom samarbetet i Västra Räddningsregionen får RSG, utöver att tillhanda-
 hålla ledning, även tillgång till fler ledningsresurser utöver sina egna.
@@ -18257,6 +18113,7 @@ Den övergripande ledningen består organisatoriskt av vakthavande räddningsche
 vakthavande befäl (VB), regional insatsledare (RIL) och Ledningscentralen (LC) men
 organisering och fördelning av uppgifter för övergripande ledning är anpassningsbara.
 Exempelvis, när RIL avdelas för ledning av enskild räddningsinsats, knyts en IL till den
+
 övergripande ledningen för att öka ledningskapaciteten. Den övergripande ledningen
 tillgodoser bland annat behovet av att, utifrån rådande riskbild, säkerställa att räddnings-
 tjänsten kontinuerligt blir ändamålsenligt organiserad enligt 3 kap. 16 § LSO. Exempel på
@@ -18269,6 +18126,15 @@ av berörda räddningschefer för den kontinuerliga styrningen av samtliga ingå
 86 Avtal samverkan vid räddningstjänst, tecknat mellan räddningstjänsterna inom Västra Räddningsregionen
 
 62 (70)
+
+[Tabell 404-1](handlingar.tabeller/404-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - akut omhändertagande vid olika typer av skador och<br>Prehospitalt akut omhändertagande<br>sjukdomar samt HLR. |  |
+| - att genomföra räddningsinsatser vid naturolyckor där<br>tunga fordon är inblandade såsom lastbilar, bussar och<br>tåg,<br>Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid<br>byggnadskollapser vid naturolyckor genom<br>stabiliserande åtgärder och att söka efter personer vid<br>dessa händelser |  |
+| - att vara en nationell sök- och räddningsresurs för att<br>söka efter och rädda människor vid stora komplexa<br>räddningsinsatser med kollapsade<br>Nationell förstärkningsresurs för urban sök-<br>byggnadskonstruktioner, orsakade av till exempel<br>och räddning (NUSAR)<br>naturkatastrofer, olyckor, terrordåd eller krig.<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla<br>UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i<br>form av bild och film från ovan. |  |
 
 <!-- sida 405 -->
 
@@ -21197,7 +21063,7 @@ för övriga byggnader om metoden ska följas.
 
 [Tabell 484-1](handlingar.tabeller/484-1.csv)
 
-| (kg CO e/BTA, Fler-bo- Småhus Kontor Skolor Försko-<br>2<br>systemgräns 2027, A1- stads- lor<br>A5) hus |  |  |  |  |  |  |
+| (kg CO e/BTA,<br>2<br>systemgräns 2027, A1-<br>A5) |  | Fler-bo-<br>stads-<br>hus | Småhus | Kontor | Skolor | Försko-<br>lor |
 | --- | --- | --- | --- | --- | --- | --- |
 | Referens-<br>värden,<br>KTH-rap-<br>port vers-<br>ion 2,<br>våren 2023. | Median | 373 | 165 | 383 | 379 | 326 |
 |  | Medel | 368 | 165 | 374 | 384 | 339 |
@@ -24119,10 +23985,7 @@ Not
 -22 603
 
 -866
-AES 12
-
 -43 497
-
 666
 
 74
@@ -24589,7 +24452,6 @@ terna kontrollen som vi identifierat.
 
 <!-- sida 559 -->
 
-| Ey
 Si
 -—-
 Sk
@@ -26312,7 +26174,7 @@ var det ca 350 äldre som avnjöt ett trevligt julbord och fick
 möjligheten att knyta kontakt med nya vänner.
 
 LJ
-Millpstartsmöte
+Nillpstartsmöte
 på Aranästeatern
 
 Vad är teknikcollege?
@@ -26731,7 +26593,7 @@ kommun är den enskilt största. Under 2023 har vi anslutit
 Nytt EU Pr é
 
 sätter krav på att 5
-i rökgaserria i
+i rökgaserna i
 
 Transaktion 09222115557513091449
 
@@ -26774,7 +26636,7 @@ nyinvesteringar i nya rökgasfilter för att klara de hårdare
 kraven.
 
 En utmaning är de skenande biobränslepriserna där vi un-
-der de senaste två åren haft höjningar på totalt cirka 5026.
+der de senaste två åren haft höjningar på totalt cirka 5024.
 Detta har lett till att vi i vår tur fått höja priset ut till kund.
 Anledningen till höjningen av biobränslepriserna är ökad
 efterfrågan på biobränsle i Europa samt en vikande pro-
@@ -26932,10 +26794,8 @@ Transaktion 09222115557513091449
 
 Consortium
 
-sum de AArtelys BB Cueva
 & Be Qivl noDA SaK
 Ad 3
-
 HH  HSLUSeS CKW.
 
 \=
@@ -27017,10 +26877,10 @@ förandeformer) för Byggherrarna
 e SIS/TK (Svenska institutet för standarder) ISO
 standard 44001 - affärsrelationer i samverkan
 
-» FEBY (forum för energieffektivt byggande)
+e FEBY (forum för energieffektivt byggande)
 e Teknikcollege Kungsbacka
 
-ee Högskolan i Halmstad - programrådet för
+« Högskolan i Halmstad - programrådet för
 energiingenjörer
 
 e Nationella rådet för industriellt byggande
@@ -27503,7 +27363,7 @@ ar på energieffektiva byggnader, solenergi ihop med att pri-
 sökningen på el mildras har gjort att den negativa påverkan
 inte blev fullt så stor som befarades vid ingången av året.
 Nyproduktionstakten har varit lägre än tidigare år där pro-
-jekt flyttats fram i tiden. Dock byggstartades etapp II av Rya
+jekt flyttats fram i tiden. Dock byggstartades etapp Il av Rya
 Ängar under sommaren och beräknas stå klart för inflytt-
 ning juni 2024. Vidare har ombyggnad av Kommunvägen fd
 Tölö Äldreboende påbörjats för att färdigställa 2 gruppbo-
@@ -27517,7 +27377,7 @@ hyrorna höjdes i genomsnitt 3,926 (1,820).
 Transaktion 09222115557513091449
 
 Sjukfrånvaron ökade under pandemiåren men har nu
-glädjande minskat kraftigt, från 9,1 26 2022 till 4,82 2023, En
+glädjande minskat kraftigt, från 9,1 26 2022 till 4,826 2023, En
 anledning är att flera anställda är tillbaka i arbete igen efter
 långa sjukskrivningar, en annan kan vara införandet av en
 mer flexibel arbetstid för tjänstepersoner. Sjukfrånvaron lig-
@@ -27641,7 +27501,7 @@ marknadsposition
 » Drift- och underhållskostnader i likartade fastigheter
 i jämförelse med dem i den aktuella fastigheten
 
-: Bedömda investeringar och hyresgästanpassningar
+» Bedömda investeringar och hyresgästanpassningar
 Utifrån analysen resulterande driftnetton under kalkylpe
 rioden och ett restvärde vid kalkylperiodens slut diskon-
 teras därefter dessa med den bedömda kalkylräntan. De
@@ -28246,7 +28106,7 @@ Erlagd ränta -75 691 009 -47 708 820 -75 671 978 -47 609 780
 Ökning (+) / minskning ( -) övriga kortfristiga rörelseskulder 13 772 455 8 472 732 10 529 290 9223 604
 Kassaflöde från den löpande verksamheten 211 006 615 156 476 571 206 448 631 156 834 786
 Investeringsverksamheten
-Investeringar i materiella anläggningstillgångar -141 864 510 -180 463 231 -136 214 480 — -187 005 638
+Investeringar i materiella anläggningstillgångar -141 864 510 -180 463 231 -136 214 480 = -187 005 638
 Sålda materiella anläggningstillgångar [0 [0 [0) [0)
 Ökning av finansiella anläggningstillgångar -31 369 -46 090 -31 369 -46 090
 Avyttring/amortering av övriga finansiella

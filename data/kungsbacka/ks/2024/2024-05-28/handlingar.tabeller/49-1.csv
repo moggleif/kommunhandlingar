@@ -1,18 +1,11 @@
-"Energibalans
-(MWh)","AGS
-+
-Rötning","AGS
-+
-Rötning
-+
-Pyrolys","AGS
-+
-Pyrolys","AGS
-+
-Alt. 0","AGS
-+
-Alt. 0+
-(Rötning)"
+Energibalans,AGS,AGS,AGS,AGS,AGS
+,,+,,,
+,,,,,+
+,+,Rötning,+,+,
+(MWh),,,,,Alt. 0+
+,Rötning,+,Pyrolys,Alt. 0,
+,,,,,(Rötning)
+,,Pyrolys,,,
 Energianvändning:,,,,,
 Elanvändning,2 460,3 160,3 060,2 050,2 250
 Värmeanvändning,830,0,0,0,420
