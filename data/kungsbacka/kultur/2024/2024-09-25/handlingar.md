@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6111bcdb1920bbb80f875b21/1727095568
 sha256: 57fe5bd85a3d65dd573d508bb62f187c57671c810a0992c1825fbc6c95671b23
 bytes: 5745236
 sidor: 118
-hamtad: 2026-11-08T18:52:53+00:00
-konverterad: 2026-11-08T18:53:21+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:20:15+00:00
+konverterad: 2026-11-18T09:20:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [47, 48, 49, 50, 51, 52, 53, 54, 55, 58, 60, 62, 73, 76, 81, 82, 83, 84]
 tolkade: []
@@ -478,28 +478,19 @@ o  Stärka civilkurage och tillit till samhället för ökad trygghet i Kungsbac
 o  Kommunen, polisen och näringslivet ska tillsammans aktivt motverka att en narkotikamarknad
 etablerar sig i Kungsbacka.
 
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Bäst att leva, Kungsbackas placering i
-ranking av Sveriges kommuner enligt 3
-Tidningen Fokus.
-Antal påbörjade bostäder       216     848     165       141
-Antal färdigställda bostäder   430     363     319       109
-
-Anmälda brott per invånare (antal/100 000
-5 321  5 691   6 475
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %   91 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %   76 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %
-totalt - helhetssyn
-
 5
+
+[Tabell 15-1](handlingar.tabeller/15-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i<br>ranking av Sveriges kommuner enligt<br>Tidningen Fokus. | 3 |  |  |  |  |
+| Antal påbörjade bostäder | 216 | 848 | 165 | 141 |  |
+| Antal färdigställda bostäder | 430 | 363 | 319 | 109 |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 321 | 5 691 | 6 475 |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn |  | 90 % | 91 % |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn |  | 74 % | 76 % |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 88 % |  |  |  |
 
 <!-- sida 16 -->
 
@@ -570,77 +561,34 @@ respekterad för att få känslan av sammanhang, känna delaktighet och ha framt
 tre taktiska grupper formerats som har var sitt uppdrag; Skolsociala aktiviteter, Hemmaplanslösning och
 Utanförskap (kommunens aktivitetsansvar KAA).
 
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 88 % 85 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 93 % 90 % 91 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 77 % 72 % 79 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 92 % 93 % 92 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-68 %    65 %   73 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-88 %    85 %   86 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 98 97
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 72,1 84,5
-Startvärde 100, målvärde 2030 är 60.
-Energiförbrukning i kommuns lokaler per
-kvadratmeter
-Utsläpp till luft av växthusgaser totalt, ton
-CO2-ekv/inv (Kolada)
-
 7
+
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 88 % | 85 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 93 % | 90 % | 91 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 77 % | 72 % | 79 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 93 % | 92 % |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 68 % | 65 % | 73 % |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 88 % | 85 % | 86 % |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 98 | 97 |  |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 72,1 | 84,5 |  |  |  |
+| Energiförbrukning i kommuns lokaler per<br>kvadratmeter |  |  |  |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) |  |  |  |  |  |
+| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) | 17 % | 21,2 % | 24,1 % |  |  |
+| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) |  |  |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. |  |  |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) |  |  |  |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) |  |  |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |  |  |
 
 <!-- sida 18 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Delårsrapport Augusti 2024
-
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Miljöbilar, andel av totalt antal bilar i det
-17 %   21,2 %  24,1 %
-geografiska området, (Kolada)
-Slutanvändning av el inom det geografiska
-området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada)
-Vattendrag med god ekologisk status, andel
-(Kolada)
 
 2.3 Bästa företagsklimatet i Västsverige
 
@@ -686,27 +634,7 @@ kanaler. Effekten har blivit en bättre tydlighet kring vad vi som kommun kan g�
 (näringsidkarna) - skapa rätt förutsättningar och vara möjliggörare, vad vi kan göra tillsammans och
 vad de kan göra själva. Dessa små insatser har lett till bättre relationer med näringsidkarna i
 Kungsbacka och en ökad trovärdighet för oss som kommun.
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 66 70     67
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,5     3,4     3,4       3,8
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 485
-Andel av sysselsatt dagbefolkning inom
-5,1 %  4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
+
 2.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -727,6 +655,17 @@ livskraftiga föreningar, förbättrad hälsa och breddidrott samt ett ökat sam
 Kungsbacka. Visionen är ett aktivitetshus för alla generationer där människor möts, umgås och lär av
 
 9
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 66 | 70 | 67 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,5 | 3,4 | 3,4 | 3,8 |  |
+| Sysselsatt dagbefolkning, antal | 28 485 |  |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1 % | 4,9 % |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
 
 <!-- sida 20 -->
 
@@ -763,40 +702,23 @@ nominerades under sommaren till priset Plan International Sveriges Flickapris. P
 person eller organisation som har gjort en extra insats för att synliggöra flickors rättigheter och
 motverka kränkningar av dessa antingen i Sverige eller ute i världen.
 
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-239     237    236,5
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,6 % 1,7 % 1,7 %
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,7
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 14,3 14,4 14,3
-max 20.
-
 10
+
+[Tabell 20-21-1](handlingar.tabeller/20-21-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 239 | 237 | 236,5 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,6 % | 1,7 % | 1,7 % |  |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. | 7,7 |  |  |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 14,3 | 14,4 | 14,3 |  |  |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 67 % | 69 % | 73 % |  |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 414 | 376 | 325 |  |  |
 
 <!-- sida 21 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Delårsrapport Augusti 2024
-
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 67 % 69 % 73 %
-försörjningsstöd (%)
-Kostnad utbetalt ekonomiskt bistånd,
-414     376     325
-kr/invånare (Kolada)
 
 2.5 Ett medskapande samhälle och öppen attityd
 Beslutats av
@@ -846,17 +768,6 @@ föreningslivet. Föreningarna har gett synpunkter på vad de nya bärande princ
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Delårsrapport Augusti 2024
 
-Indikatorer                    Utfall Utfall  Utfall Utfall Målvärde
-2021    2022   2023   2024   2024
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 78 76
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 103 114    122
-nyckeltal med skala 1–20.
-
 2.6 Uppföljning målbild 2030
 
 Nämnden för Kultur & Fritid beslutade hösten 2023 om en målbild för år 2030. Utifrån målbilden arbetar
@@ -896,6 +807,13 @@ emellan utökats med en mötesplats för enbart tjejer. På Tjejer emellan arran
 föreläsningar, tjejskejt och workshops. Innehållet styrs helt och hållet av tjejerna själva, och på deras initiativ
 
 12
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikatorer | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Målvärde<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 78 | 76 |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 103 | 114 | 122 |  |  |
 
 <!-- sida 23 -->
 
@@ -1206,15 +1124,16 @@ initiativ.
 Ett annat område vi ser behov av att stärka är att etablera flexibla processer och strukturer. Därför har
 ledningsgruppen beslutat att föra in Kungsbacka kommuns förnyelsemodell i förvaltningens arbete.
 
-Indikatorer                                                 Utfall 2024
-Status direktiv: Andel innovationsprojekt som drivits
-7
-under året
-Status direktiv: Andel av bruttokostnaden som
-avsätts för innovationsarbete och digitalisering
 Andel innovationsprojekt avser antal projekt
 
 19
+
+[Tabell 29-1](handlingar.tabeller/29-1.csv)
+
+| Indikatorer | Utfall 2024 |
+| --- | --- |
+| Status direktiv: Andel innovationsprojekt som drivits<br>under året | 7 |
+| Status direktiv: Andel av bruttokostnaden som<br>avsätts för innovationsarbete och digitalisering |  |
 
 <!-- sida 30 -->
 
@@ -1453,26 +1372,6 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
-Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
-Miljoner kronor
-2023    2024   2024   avvikelse 2023   2024    delår
-Nämnd            -1,2    -1,3    -1,3    0,0    -0,8    -0,8     0,0
-Förvaltningslednin
--11,1   -13,2   -11,9    1,3    -6,8    -7,4    -0,6
-g
-Kvalitet & social
--12,1   -12,1   -12,2    -0,1   -7,2    -8,0    -0,8
-hållbarhet
-Platsvarumärke
--0,9    -4,0    -4,3    -0,3     0     -2,8    -2,8
-&kommunikation
-Fritid &
--160,8 -172,8  -174,5    -1,7  -112,7  -122,5   -9,8
-mötesplatser
-Kultur & demokrati -82,9 -85,0  -86,4    -1,4   -55,1  -57,2    -2,1
-Periodens
--269,0 -288,4  -290,6    -2,2  -182,6  -198,7   -16,1
-resultat
 Från årsskiftet har förvaltningen en ny organisation vilket innebär att Bokslut 2023 och Delår 2023 inte är helt jämförbart med
 nuvarande organisation.
 Sammanfattning - text till kommunstyrelsen
@@ -1494,6 +1393,20 @@ Kvalitet & social hållbarhet: På grund av vakanser har enheten haft möjlighet
 anställa en innovationsledare som arbetar med att stärka förvaltningens kunskap och förmåga att arbeta med
 
 25
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Budget-<br>avvikelse | Delår<br>2023 | Delår<br>2024 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nämnd | -1,2 | -1,3 | -1,3 | 0,0 | -0,8 | -0,8 | 0,0 |
+| Förvaltningslednin<br>g | -11,1 | -13,2 | -11,9 | 1,3 | -6,8 | -7,4 | -0,6 |
+| Kvalitet & social<br>hållbarhet | -12,1 | -12,1 | -12,2 | -0,1 | -7,2 | -8,0 | -0,8 |
+| Platsvarumärke<br>&kommunikation | -0,9 | -4,0 | -4,3 | -0,3 | 0 | -2,8 | -2,8 |
+| Fritid &<br>mötesplatser | -160,8 | -172,8 | -174,5 | -1,7 | -112,7 | -122,5 | -9,8 |
+| Kultur & demokrati | -82,9 | -85,0 | -86,4 | -1,4 | -55,1 | -57,2 | -2,1 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Periodens<br>resultat | -269,0 | -288,4 | -290,6 | -2,2 | -182,6 | -198,7 | -16,1 |
 
 <!-- sida 36 -->
 
@@ -3811,17 +3724,13 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 95-96-1](handlingar.tabeller/95-96-1.csv)
+[Tabell 95-1](handlingar.tabeller/95-1.csv)
 
-| Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
-| --- | --- |
-| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
-| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
-| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
+|  | Utvecklingsråd | Användarforum | Avstämningsmöte | Leverantörsmöte | Avtalsuppföljning | Systemförvaltarforum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |  |  |  |  |  |
+| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |  |  |  |  |  |
+| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |  |  |  |  |  |
 
 <!-- sida 96 -->
 
@@ -3870,6 +3779,14 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
+
+[Tabell 96-1](handlingar.tabeller/96-1.csv)
+
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| --- | --- |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 97 -->
 
@@ -4013,15 +3930,15 @@ och IT-infrastruktur. Det är ett obligatoriskt dokument och ska finnas för sam
 
 [Tabell 99-1](handlingar.tabeller/99-1.csv)
 
-|  | Grundavtal PUB-avtal Förvaltningsplan Uppföljningsrapport Service Level Agreement |
-| --- | --- |
-| Publik tjänst | Nej Nej Nej Nej Nej |
-| Myndighetstjänst | Nej Nej Nej Nej Nej |
-| Kommersiell tjänst | Nej Ja Nej Nej Nej |
-| Digitalt verktyg | Ja Ja Ja Ja Nej |
-| Verksamhetssystem | Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja |
-| IT-infrastruktur | Ja Ja Ja Ja Ja |
+|  | Grundavtal | PUB-avtal | Förvaltningsplan | Uppföljningsrapport | Service Level Agreement |
+| --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Myndighetstjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Kommersiell tjänst | Nej Ja Nej Nej Nej |  |  |  |  |
+| Digitalt verktyg | Ja Ja Ja Ja Nej |  |  |  |  |
+| Verksamhetssystem | Ja Ja Ja Ja Ja |  |  |  |  |
+| Plattform | Ja Ja Ja Ja Ja |  |  |  |  |
+| IT-infrastruktur | Ja Ja Ja Ja Ja |  |  |  |  |
 
 <!-- sida 100 -->
 
@@ -4174,9 +4091,11 @@ Manualer sparas digitalt på Insidan (Sharepoint) och gallras vid inaktualitet.
 
 I tabellen nedan framgår vilka dokument som har en mall i modellen för digitala tjänster och system.
 
-Dokument         Mallens namn
+[Tabell 102-1](handlingar.tabeller/102-1.csv)
 
-Förvaltningsplan Förvaltningsplan mall.docx
+| Dokument | Mallens namn |
+| --- | --- |
+| Förvaltningsplan Förvaltningsplan mall.docx |  |
 
 <!-- sida 103 -->
 

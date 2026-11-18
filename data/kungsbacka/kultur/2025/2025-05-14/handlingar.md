@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.69ba44111969f9e42704c14f/1746688230
 sha256: 253e5793805bac8278af1a01cb8337e50c2308b1e19cac4ebf170fa2307a5ca6
 bytes: 16741418
 sidor: 52
-hamtad: 2026-11-08T18:59:00+00:00
-konverterad: 2026-11-08T19:03:01+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T09:26:43+00:00
+konverterad: 2026-11-18T09:30:41+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -681,7 +681,7 @@ Svara helst via vår e-tjänst: Lämna synpunkter på detaljplan - Kungsbacka
 kommun, du hittar den även på www.kungsbacka.se, sök på aktuella
 projekt.
 
-Du kan även svara via e-post: samhallsbyggnadskontoretQåkungsbacka.se
+Du kan även svara via e-post: samhallsbyggnadskontoretQkungsbacka.se
 eller via post: Samhällsbyggnadskontoret, Kungsbacka kommun, 434 81
 Kungsbacka.
 
@@ -1942,21 +1942,19 @@ Utvärderingsområde - Op rad - 10p cket hög grad - 15p
 1 I vilken grad tillgodoser initiativet en inkluderande miljö?
 
 I vilken grad tillgodoser initiativet en eller flera av de prioriterade
-grupperna? E SS a
 
-I vilken grad ä är initiativet öppet för ärvidra än föreningens medlemmar?
-I vilken grad främjar initiativet folkhälsan?
-I vilken grad främjar initiativet ett demokratiskt samhälle?
+I ERE grad ä är initiativet öppet för andra ä än föreningens medlemmar?
+I vilken grad är Initiativet ett SNökrateke samhälle?
 I vilken grad involverar initiativet samarbete med andra föreningar?
 I vilken grad finns det en långsiktig planering för initiativet?
 I vilken grad finansierar föreningen initiativet?
+
 10 I vilken gi sieras initiativet av externa aktörer genom tex fonder,
 förbi näringsliv o.likn.?
 
 4" I vilken grad bidrar initiativet till att skapa sociala sammanhang? Tex
 aktiviteter för blandade åldrar, ==
 
-I vilken grad ökar ini ativet tryggheten i samhället? Tex a EN
 närvaro på strategiska platser, trygg digital uppväxt o.likn.
 
 Beslutsunderlag
@@ -2109,7 +2107,6 @@ Beslutsfattare Diarie
 lönestruktur mm
 
 delegationslistan
-233 LAS, ar ag och
 kollektivavtal, Sv1Cargansta 8 OC Malin Svarfvar
 
 tidsbegränsade anställningar längre
@@ -2181,7 +2178,7 @@ KFT-2025- 2025-04- Region Halland Hallands biblioteksplan 2026-2029 på
 
 00103 24 remiss
 
-KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS § 73
+KFT-2025- 2025-04- Kommunledningskontoret Protokollsutdrag 2025-04-22 KS 8 73
 
 00102 24 Antagande av
 

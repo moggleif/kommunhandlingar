@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.520de02d19298dc30a4b44a4/1729690341
 sha256: 67ba562c1028c3736077e6e5bdd8c22a99d60f72ace9ee14aa0582fcf8c276e3
 bytes: 13812761
 sidor: 204
-hamtad: 2026-11-08T18:53:21+00:00
-konverterad: 2026-11-08T18:54:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T09:20:49+00:00
+konverterad: 2026-11-18T09:21:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: []
-figurer: [19, 20, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 91, 92, 93, 94, 96, 97, 101, 106, 111, 119, 154, 155, 156, 157, 158, 160, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194]
+figurer: [19, 20, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 60, 61, 62, 63, 64, 65, 67, 68, 69, 72, 91, 92, 93, 94, 96, 97, 101, 106, 111, 119, 154, 155, 156, 157, 158, 160, 164, 165, 166, 167, 168, 169, 170, 171, 172, 174, 175, 176, 177, 178, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194]
 tolkade: []
 granskad: null
 ---
@@ -2055,12 +2055,7 @@ lösningar
 • skapa ändamålsenliga tekniska förutsättningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
-Indikator                         Målsättning 2025
 
-Andel innovationsprojekt som drivits under året Öka
-Andel av bruttokostnaden som avsätts för
-Öka
-innovationsarbete och digitalisering
 6.1.2 Direktiv - Civil beredskap
 
 Beslutats av
@@ -2076,6 +2071,13 @@ bor i Kungsbacka har ansvar för den kommunala, och därmed också nationella, b
 är tydlig med att ansvaret ska ligga så nära där ansvaret finns i vardagen så i kommunen ska alla nämnder ha
 
 15
+
+[Tabell 62-1](handlingar.tabeller/62-1.csv)
+
+| Indikator | Målsättning 2025 |
+| --- | --- |
+| Andel innovationsprojekt som drivits under året | Öka |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | Öka |
 
 <!-- sida 63 -->
 
@@ -2195,67 +2197,45 @@ Nämndbudget 2025
 
 9.2 Personalmått
 
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-
-Andel heltid         70,8 %  66,7 %    68,4 %
-Andel män som har heltid 69,8 % 69,6 % 72,9 %
-
-Antal medarbetare per
-18,9   21,1      19,5
-enhetschef
-
-```osaker-tabell
-Sjukfrånvaro Totalt   2,9 %  5,6 %     3,7 %
-Sjukfrånvaro Kvinnor  2,8 %  5,5 %     3,8 %
-Sjukfrånvaro Män      3,1 %  6,1 %     3,5 %
-Korttidssjukfrånvaro  1,7 %  2,8 %     2,1 %
-```
-
-Korttidssjukfrånvaro Kvinnor 1,5 % 3 % 2,2 %
-
-Korttidssjukfrånvaro Män 2 % 2,3 %     1,7 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 21,8 % 37,3 % 28,8 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 26,9 % 33,3 % 25,3 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 10,1 % 46,7 % 37,6 %
-mer Män
-
-Anställda totalt      202    202       208
-Anställda andel kvinnor 71,3 % 69,3 %  67,8 %
-Anställda andel män  28,7 %  30,7 %    32,2 %
-
-Medarbetare yngre än 30 år 5,9 % 4 %   6,3 %
-Medarbetare 30 - 39 år 20,8 % 21,8 %   22,1 %
-
-Medarbetare 40 - 49 år 28,7 % 28,7 %   28,4 %
-Medarbetare 60 år och äldre 17,3 % 20,3 % 19,7 %
-Medarbetare 50 - 59 år 27,2 % 25,3 %   23,6 %
-
-```osaker-tabell
-Frisknärvaro         68,8 %  48,6 %    60,5 %
-Frisknärvaro Kvinnor 69,7 %  45,4 %    57,3 %
-Frisknärvaro Män     66,7 %  56,3 %    67,6 %
-
-Personalomsättning    8,1 %  5,9 %     10 %
-```
-
 19
+
+[Tabell 66-67-1](handlingar.tabeller/66-67-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 | Budget 2024 | Budget 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 70,8 % | 66,7 % | 68,4 % |  |  |
+| Andel män som har heltid | 69,8 % | 69,6 % | 72,9 % |  |  |
+| Antal medarbetare per<br>enhetschef | 18,9 | 21,1 | 19,5 |  |  |
+| Sjukfrånvaro Totalt | 2,9 % | 5,6 % | 3,7 % |  |  |
+| Sjukfrånvaro Kvinnor | 2,8 % | 5,5 % | 3,8 % |  |  |
+| Sjukfrånvaro Män | 3,1 % | 6,1 % | 3,5 % |  |  |
+| Korttidssjukfrånvaro | 1,7 % | 2,8 % | 2,1 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 1,5 % | 3 % | 2,2 % |  |  |
+| Korttidssjukfrånvaro Män | 2 % | 2,3 % | 1,7 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 21,8 % | 37,3 % | 28,8 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 26,9 % | 33,3 % | 25,3 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 10,1 % | 46,7 % | 37,6 % |  |  |
+| Anställda totalt | 202 | 202 | 208 |  |  |
+| Anställda andel kvinnor | 71,3 % | 69,3 % | 67,8 % |  |  |
+| Anställda andel män | 28,7 % | 30,7 % | 32,2 % |  |  |
+| Medarbetare yngre än 30 år | 5,9 % | 4 % | 6,3 % |  |  |
+| Medarbetare 30 - 39 år | 20,8 % | 21,8 % | 22,1 % |  |  |
+| Medarbetare 40 - 49 år | 28,7 % | 28,7 % | 28,4 % |  |  |
+| Medarbetare 60 år och äldre | 17,3 % | 20,3 % | 19,7 % |  |  |
+| Medarbetare 50 - 59 år | 27,2 % | 25,3 % | 23,6 % |  |  |
+| Frisknärvaro | 68,8 % | 48,6 % | 60,5 % |  |  |
+| Frisknärvaro Kvinnor | 69,7 % | 45,4 % | 57,3 % |  |  |
+| Frisknärvaro Män | 66,7 % | 56,3 % | 67,6 % |  |  |
+| Personalomsättning | 8,1 % | 5,9 % | 10 % |  |  |
+| Medelålder | 47 | 48 | 47 |  |  |
+| Långtidssjukfrånvaro | 1,2 % | 2,9 % | 1,6 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 1,3 % | 2,5 % | 1,6 % |  |  |
+| Långtidssjukfrånvaro Män | 1,1 % | 3,8 % | 1,8 % |  |  |
 
 <!-- sida 67 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2025
-
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Medelålder             47    48        47
-
-Långtidssjukfrånvaro  1,2 %  2,9 %     1,6 %
-Långtidssjukfrånvaro Kvinnor 1,3 % 2,5 % 1,6 %
-Långtidssjukfrånvaro Män 1,1 % 3,8 %   1,8 %
 
 9.3 Arbetsmiljö
 
@@ -2362,105 +2342,92 @@ Nämndbudget 2025
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                      KF 2021-04-13 § 68
-Upphandling, policy                                KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Reglemente för nämnden för Kultur & Fritid          KF 2022-02-08 § 7
-Lokala ordningsföreskrifter                         KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2024-04-09 § 60
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Reglemente för Kultur & Fritid                      KF 2018-06-14 § 108
-
-Strategi för tätortsnära friluftsliv                  KS § 209/17
-Turismstrategi 2017-2021                              KF § 120/17
-
-Riktlinjer för Årets förening                         KF § 115/2021
-Riktlinjer för Årets eldsjäl                          KF § 115/2021
-Riktlinjer för Årets förnyare                         KF § 115/2021
-
 23
+
+[Tabell 70-71-1](handlingar.tabeller/70-71-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Kultur & Fritid | KF 2022-02-08 § 7 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Reglemente för Kultur & Fritid | KF 2018-06-14 § 108 |
+| Strategi för tätortsnära friluftsliv | KS § 209/17 |
+| Turismstrategi 2017-2021 | KF § 120/17 |
+| Riktlinjer för Årets förening | KF § 115/2021 |
+| Riktlinjer för Årets eldsjäl | KF § 115/2021 |
+| Riktlinjer för Årets förnyare | KF § 115/2021 |
+| Riktlinjer för Idrottsstipendium | KF § 115/2021 |
+| Riktlinjer för Kungsbackas mästare | KF § 115/2021 |
+| Riktlinjer för Ledarstipendium | KF § 115/2021 |
 
 <!-- sida 71 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                      Beslutande paragraf/År
-Riktlinjer för Idrottsstipendium                      KF § 115/2021
-
-Riktlinjer för Kungsbackas mästare                    KF § 115/2021
-Riktlinjer för Ledarstipendium                        KF § 115/2021
-
 11.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 11.1.3 Styrdokument beslutade av nämnden för Kultur & Fritid
-Styrdokument                                      Beslutande paragraf/År
-
-Delegationsförteckning för nämnden för Kultur & Fritid KFT § 20/2023
-Idrottsprogram för god folkhälsa                      FH § 55/2018
-
-Dokumenthanteringsplan                               KFT § 50/2021
-Bidrag till föreningar                               KFT § 45/2021
-Program för konstnärlig gestaltning i utemiljön       KT § 19/2017
-
-Riktlinjer för Kungsbacka Konsthall                   KT § 62/2017
-KT § 24/2007, reviderad
-Riktlinjer för Bibbi Malmgrens barnboksfond
-KFT § 51/2019
-Nya normer för studieförbundsbidrag i Kungsbacka kommun KT § 83/2006
-Riktlinjer för Kungsbacka kommuns kulturpris          KT § 17/2009
-Kulturstipendier för ungdom                           KT § 78/2007
 
 11.2 Taxa
 
 11.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Logi, taxa och avgift                               KF 2019-11-05 § 162
-
 24
+
+[Tabell 71-1](handlingar.tabeller/71-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+
+[Tabell 71-2](handlingar.tabeller/71-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegationsförteckning för nämnden för Kultur & Fritid | KFT § 20/2023 |
+| Idrottsprogram för god folkhälsa | FH § 55/2018 |
+| Dokumenthanteringsplan | KFT § 50/2021 |
+| Bidrag till föreningar | KFT § 45/2021 |
+| Program för konstnärlig gestaltning i utemiljön | KT § 19/2017 |
+| Riktlinjer för Kungsbacka Konsthall | KT § 62/2017 |
+| Riktlinjer för Bibbi Malmgrens barnboksfond | KT § 24/2007, reviderad<br>KFT § 51/2019 |
+| Nya normer för studieförbundsbidrag i Kungsbacka kommun | KT § 83/2006 |
+| Riktlinjer för Kungsbacka kommuns kulturpris | KT § 17/2009 |
+| Kulturstipendier för ungdom | KT § 78/2007 |
+
+[Tabell 71-3](handlingar.tabeller/71-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Logi, taxa och avgift | KF 2019-11-05 § 162 |
 
 <!-- sida 72 -->
 
@@ -3381,8 +3348,10 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 10
 
 [Tabell 96-1](handlingar.tabeller/96-1.csv)
 
-| Löpnr<br>114 | Beskrivning<br>Fjärås Fritidscenter | Kategorisera<br>Strukturomvandlingar,<br>besparingsmöjligheter | Budget<br>2025<br>x | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+| 114 | Fjärås Fritidscenter | Strukturomvandlingar,<br>besparingsmöjligheter | x |  |  |  |  |  |
 | 136 | Skårby fullmått idrottshall | Expansion nya<br>områden | x |  |  |  |  |  |
 | 139 | Toalettbyggnad Stättared | Kvalitets-höjningar<br>befintliga lokaler | x | x |  |  |  |  |
 | 145 | Enkel isyta för hockey och<br>konståkning | Icke lagstyrd<br>verksamhet |  |  |  | x |  |  |
@@ -3432,8 +3401,10 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 11
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| Löp<br>nr | Beskrivning<br>Friidrottshall, samordnat med<br>behov av fullmåtts idrottshall<br>vid skola. | Kategorisera<br>Icke lagstyrd<br>verksamhet | Plan<br>2031 | Plan<br>2032 | Plan<br>2033<br>x | Plan<br>2034 | Plan<br>2035 |
+| Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  | Friidrottshall, samordnat med<br>behov av fullmåtts idrottshall<br>vid skola. | Icke lagstyrd<br>verksamhet |  |  | x |  |  |
 |  | Hallar för truppgymnastik,<br>kvinnlig gymn. och parkour | Icke lagstyrd<br>verksamhet | x |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
@@ -4687,37 +4658,55 @@ Exempel på hur föreningar kan påverkas av det nya stödet
 Detta är fiktiva exempel. Utvecklingsstödet är det som beskrivs ovan under Utvecklingsstödet baseras
 på ett treårigt verksamhetsåtagande. Summan under Utvecklingsstödet är ett genomsnitt och inte en
 faktisk summa.
-Stor      Förening utan egen Förening med hyrd
-inomhusförening anläggning - hyr anläggning
-lokal/anläggning på
 
-timmar
-2026    2029   2026   2029    2026   2029
 \+ Ökat LOK stöd från
-7,5kr till 10kr  150 000 150 000 70 000 70 000 54 000 54 000
+7,5kr till 10kr
 \+ LOK stöd x3
-\- Driftbidrag                   -17 000 -17 000
+\- Driftbidrag
 \- Utveckling /
-Utbildningsbidrag -160 000 -160 000 -103 000 -103 000 -76 000 -76 000
+Utbildningsbidrag
 
 \- Drogpolicy /
-Hälsocertifiering -40 000 -40 000 -31 000 -31 000 -20 000 -20 000
-\- Lovbidrag                      -1 500 -1 500 -4 000  -4 000
+Hälsocertifiering
+\- Lovbidrag
 \- Folkhälsobidrag
-\- Subventioner                                -137 000 -331 000
-\- Höjda taxor   -100 000 -120 000 -5 000 -5 500 -7 000 -7 500
+\- Subventioner
+\- Höjda taxor
 
-Summa      -150 000 -170 000 -87 500 -88 000 -190 000 -384 500
+Summa
 
-\+ Utvecklingsstöd 105 000 200 000 105 000 200 000 105 000 200 000
+\+ Utvecklingsstöd
 (Genomsnittligt stöd per
 förening utifrån det belopp
 som frigörs från lokaler)
 
-Förändring   -45 000 30 000 17 500 112 000 -85 000 -184 500
+Förändring
 
 Föreningarna har en stor påverkan på utvecklingsstödet. Som beskrivs ovan kan föreningarna söka
 medel utifrån ett treårigt åtagande. Nedan exempel är fiktiva och bör ses som förenklade exempel:
+
+[Tabell 121-1](handlingar.tabeller/121-1.csv)
+
+| Stor<br>inomhusförening<br>2026 | 2029 | Förening utan egen<br>anläggning - hyr<br>lokal/anläggning på<br>timmar<br>2026 | 2029 | Förening med hyrd<br>anläggning<br>2026 | 2029 |
+| --- | --- | --- | --- | --- | --- |
+| 150 000 | 150 000 | 70 000 | 70 000 | 54 000 | 54 000 |
+|  |  |  |  |  |  |
+|  |  | -17 000 | -17 000 |  |  |
+| -160 000 | -160 000 | -103 000 | -103 000 | -76 000 | -76 000 |
+| -40 000 | -40 000 | -31 000 | -31 000 | -20 000 | -20 000 |
+|  |  | -1 500 | -1 500 | -4 000 | -4 000 |
+|  |  |  |  |  |  |
+|  |  |  |  | -137 000 | -331 000 |
+| -100 000 | -120 000 | -5 000 | -5 500 | -7 000 | -7 500 |
+|  |  |  |  |  |  |
+| -150 000 | -170 000 | -87 500 | -88 000 | -190 000 | -384 500 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 105 000 | 200 000 | 105 000 | 200 000 | 105 000 | 200 000 |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| -45 000 | 30 000 | 17 500 | 112 000 | -85 000 | -184 500 |
 
 <!-- sida 122 -->
 
