@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f9bb92b/1750141335
 sha256: a05be5b128458f99b8f1b3ba583239d0c4be1d7dcdb95b8affb6e61cc708b35d
 bytes: 112255513
 sidor: 474
-hamtad: 2026-11-08T22:51:53+00:00
-konverterad: 2026-11-08T22:57:06+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T13:50:00+00:00
+konverterad: 2026-11-18T13:55:32+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -2959,7 +2959,6 @@ ungas delaktighet, Högt
 nyföretagande
 
 stadsmiljö, livskvalitet Högt
-VAngsnstilväkt dd Medel
 Jomokrati. d elaktighet Mycket högt
 Nätverk, tillgång till Medel-låg
 
@@ -7739,22 +7738,15 @@ av de föreslagna trafikobjekten för 2026, kommer prioritering att ske med utg�
 Västkustbanan är det högst prioriterade kollektivtrafikstråket som knyter samman Halland med
 sin omvärld.
 
-Objekt        Beskrivning
-
-1  Tågtrafik        • Hallandståg Varberg – Göteborg, fler avgångar vardagar
-och helgdagar
-• Öresundståg, utökade öppettider och förstärkt utbud
-2  Regionbusstrafik • L331/350 Halmstad - Harplinge
-• L325 Halmstad - Knäred – Markaryd (Markarydsbussen)
-• X3 Göteborg – Särö – Kullavik
-
-• Ökat antal fordon – Södra Halland
-3  Stadsbusstrafik  • Justerad passning tåg vs buss Varberg
-• L2 Varberg, förlängning till Pilgatan
-• Kungsbacka, utökade öppettider
-• Ökat antal fordon - Halmstad
-
 Figur 16. Förslag trafikförändringar 2026
+
+[Tabell 181-1](handlingar.tabeller/181-1.csv)
+
+|  | Objekt | Beskrivning |
+| --- | --- | --- |
+| 1 Tågtrafik • Hallandståg Varberg – Göteborg, fler avgångar vardagar<br>och helgdagar<br>• Öresundståg, utökade öppettider och förstärkt utbud |  |  |
+| 2 Regionbusstrafik • L331/350 Halmstad - Harplinge<br>• L325 Halmstad - Knäred – Markaryd (Markarydsbussen)<br>• X3 Göteborg – Särö – Kullavik<br>• Ökat antal fordon – Södra Halland |  |  |
+| 3 Stadsbusstrafik • Justerad passning tåg vs buss Varberg<br>• L2 Varberg, förlängning till Pilgatan<br>• Kungsbacka, utökade öppettider<br>• Ökat antal fordon - Halmstad |  |  |
 
 <!-- sida 182 -->
 
@@ -8272,7 +8264,7 @@ Resandet på huvudlinjerna i Halmstads stadsbusstrafik har haft en stabil och po
 
 [Tabell 194-1](handlingar.tabeller/194-1.csv)
 
-| Trafikslag Klassificering Utbud |  |  |
+| Trafikslag | Klassificering | Utbud |
 | --- | --- | --- |
 | Stadsbuss | Mycket starka stråk | 54 turer per vardag och riktning |
 | Stadsbuss | Starka stråk | 28 turer per vardag och riktning |
@@ -16782,14 +16774,14 @@ Exempelvis braskamin, öppen spis, kakelugn eller vedspis
 
 [Tabell 412-1](handlingar.tabeller/412-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |
-| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
-| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |
-| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |  |
+| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
+| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |  |
+| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |  |
 
 [Tabell 412-2](handlingar.tabeller/412-2.csv)
 
@@ -16969,13 +16961,13 @@ Köksspisar, ugnar och andra jämförbara förbränningsanordningar
 
 [Tabell 416-1](handlingar.tabeller/416-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |
-| 3 ggr/år | Avser konventionella pannor. |
-| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |  |
+| 3 ggr/år | Avser konventionella pannor. |  |
+| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
 
 [Tabell 416-2](handlingar.tabeller/416-2.csv)
 
@@ -18620,11 +18612,7 @@ Stefan Jägnert Stefan Vilumsons
 
 Sverigedemokraterna i Kungsbacka
 
-Adress: NN
-
 Postadress: MN
-
-Org nr: ANN
 
 Granskningsintyg
 
@@ -18657,8 +18645,6 @@ Kun | IVUVIUN
 
 Kol g5backa direkt
 Oommunens kundcenter
-
-2025 -03- 17.
 
 År 2024
 
@@ -18777,8 +18763,6 @@ Vänsterpartiet Kungsbacka
 Parti 849400-8587
 
 Kontonummer
-
-\- Åsa
 
 Utdelningsadress E-postadress
 
