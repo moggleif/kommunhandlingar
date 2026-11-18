@@ -1,14 +1,9 @@
-,"Överskriden
-tid, ej betalt","Parkerat på en
-plats med förbud
-att parkera","Parkerat på en
-plats med förbud
-att stanna","Parkerat på en plats
-reserverad för
-rörelsehindrade"
+,Överskriden,Parkerat på en,Parkerat på en,Parkerat på en plats
+,,plats med förbud,plats med förbud,reserverad för
+,"tid, ej betalt",att parkera,att stanna,rörelsehindrade
 Felparkeringsavgift,300 kr,600 kr,800 kr,1 300 kr
 Moms 25%,75 kr,150 kr,200 kr,325 kr
-"Totalt belopp
-felparkeringsavgift (ink.
-moms i de fall överträdelsen
-är momspliktig)",375 kr,750 kr,1 000 kr,1 625 kr
+Totalt belopp,375 kr,750 kr,1 000 kr,1 625 kr
+felparkeringsavgift (ink.,,,,
+moms i de fall överträdelsen,,,,
+är momspliktig),,,,

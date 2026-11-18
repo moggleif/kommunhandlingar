@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.696a1739194d8513e942c9d8/1738926067
 sha256: 36c0df7657efdf55609f2e1fe8a26653846dc34de12053feeed2a26030c3f69d
 bytes: 970234
 sidor: 32
-hamtad: 2026-11-08T09:29:11+00:00
-konverterad: 2026-11-08T09:29:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:10:24+00:00
+konverterad: 2026-11-18T00:10:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -648,18 +648,6 @@ Delårsrapport augusti 2024
 
 4.1 Uppföljning drift delår
 
-Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
-Miljoner kronor
-2023    2024   2024   avvikelse 2023   2024    delår
-Byggnadsnämnde
--1,4    -1,7    -1,5    0,2    -1,0    -0,8     0,2
-n
-Geodata &
-Bygglov
-
-Periodens
--38,7   -39,1   -39,1    0,0    -27,3  -25,4     1,9
-resultat
 4.2 Analys och kommentarer
 
 4.2.1 Resultat per augusti
@@ -685,12 +673,20 @@ utstakningar är lägre än väntat. Den största avvikelsen för intäkterna g�
 
 [Tabell 14-1](handlingar.tabeller/14-1.csv)
 
-| Intäkter | 25,2 | 25 | 26 | 1 | 16,5 | 17,4 | 0,9 |
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Budget-<br>avvikelse | Delår<br>2023 | Delår<br>2024 | Avvikelse<br>delår |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Byggnadsnämnde<br>n | -1,4 | -1,7 | -1,5 | 0,2 | -1,0 | -0,8 | 0,2 |
+|  |  |  |  |  |  |  |  |
+| Geodata &<br>Bygglov |  |  |  |  |  |  |  |
+| Intäkter | 25,2 | 25 | 26 | 1 | 16,5 | 17,4 | 0,9 |
 | Kostnader | -45,7 | -46,5 | -47,4 | -0,9 | -30,7 | -31,6 | -0,9 |
+|  |  |  |  |  |  |  |  |
 | Miljö & Hälsoskydd |  |  |  |  |  |  |  |
 | Intäkter | 17,3 | 19,9 | 19,2 | -0,7 | 10,4 | 12,9 | 2,5 |
 | Kostnader | -34,1 | -35,8 | -35,4 | 0,4 | -22,5 | -23,3 | -0,8 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+| Periodens<br>resultat | -38,7 | -39,1 | -39,1 | 0,0 | -27,3 | -25,4 | 1,9 |
 
 <!-- sida 15 -->
 

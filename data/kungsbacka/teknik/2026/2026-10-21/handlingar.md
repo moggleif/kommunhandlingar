@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a1030d71a13057dd28d1b42/1792389749
 sha256: 65ef7879a5bb8f351634810cd359728110bf9e5c888472cfb9f451d82ee0183e
 bytes: 18420348
 sidor: 164
-hamtad: 2026-11-08T11:38:59+00:00
-konverterad: 2026-11-08T11:39:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T02:01:10+00:00
+konverterad: 2026-11-18T02:01:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3373,11 +3373,16 @@ förseelser som inte är momspliktiga.
 
 [Tabell 92-1](handlingar.tabeller/92-1.csv)
 
-|  | Överskriden<br>tid, ej betalt | Parkerat på en<br>plats med förbud<br>att parkera | Parkerat på en<br>plats med förbud<br>att stanna | Parkerat på en plats<br>reserverad för<br>rörelsehindrade |
+|  | Överskriden | Parkerat på en | Parkerat på en | Parkerat på en plats |
 | --- | --- | --- | --- | --- |
+|  |  | plats med förbud | plats med förbud | reserverad för |
+|  | tid, ej betalt | att parkera | att stanna | rörelsehindrade |
 | Felparkeringsavgift | 300 kr | 600 kr | 800 kr | 1 040 kr |
 | Moms 25% | 75 kr | 150 kr | 200 kr | 260 kr |
-| Totalt belopp<br>felparkeringsavgift (ink.<br>moms i de fall överträdelsen<br>är momspliktig) | 375 kr | 750 kr | 1 000 kr | 1 300 kr |
+| Totalt belopp | 375 kr | 750 kr | 1 000 kr | 1 300 kr |
+| felparkeringsavgift (ink. |  |  |  |  |
+| moms i de fall överträdelsen |  |  |  |  |
+| är momspliktig) |  |  |  |  |
 
 <!-- sida 93 -->
 
@@ -3401,11 +3406,16 @@ och inte blir tillgängliga för de som har parkeringstillstånd för rörelsehi
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
 
-|  | Överskriden<br>tid, ej betalt | Parkerat på en<br>plats med förbud<br>att parkera | Parkerat på en<br>plats med förbud<br>att stanna | Parkerat på en plats<br>reserverad för<br>rörelsehindrade |
+|  | Överskriden | Parkerat på en | Parkerat på en | Parkerat på en plats |
 | --- | --- | --- | --- | --- |
+|  |  | plats med förbud | plats med förbud | reserverad för |
+|  | tid, ej betalt | att parkera | att stanna | rörelsehindrade |
 | Felparkeringsavgift | 300 kr | 600 kr | 800 kr | 1 300 kr |
 | Moms 25% | 75 kr | 150 kr | 200 kr | 325 kr |
-| Totalt belopp<br>felparkeringsavgift (ink.<br>moms i de fall överträdelsen<br>är momspliktig) | 375 kr | 750 kr | 1 000 kr | 1 625 kr |
+| Totalt belopp | 375 kr | 750 kr | 1 000 kr | 1 625 kr |
+| felparkeringsavgift (ink. |  |  |  |  |
+| moms i de fall överträdelsen |  |  |  |  |
+| är momspliktig) |  |  |  |  |
 
 <!-- sida 94 -->
 
@@ -3426,11 +3436,17 @@ Tf förvaltningschef                     Verksamhetschef
 
 [Tabell 94-1](handlingar.tabeller/94-1.csv)
 
-|  | Överskriden<br>tid, ej betalt | Parkerat på en<br>plats med<br>förbud att<br>parkera | Parkerat på en<br>plats med förbud<br>att stanna | Parkerat på en plats<br>reserverad för<br>rörelsehindrade |
+|  | Överskriden | Parkerat på en | Parkerat på en | Parkerat på en plats |
 | --- | --- | --- | --- | --- |
+|  |  | plats med |  |  |
+|  |  | förbud att | plats med förbud | reserverad för |
+|  | tid, ej betalt | parkera | att stanna | rörelsehindrade |
 | Felparkeringsavgift | 240 kr | 480 kr | 640 kr | 1 040 kr |
 | Moms 25% | 60 kr | 120 kr | 160 kr | 260 kr |
-| Totalt belopp<br>felparkeringsavgift (ink.<br>moms i de fall överträdelsen<br>är momspliktig) | 300 kr | 600 kr | 800 kr | 1 300 kr |
+| Totalt belopp | 300 kr | 600 kr | 800 kr | 1 300 kr |
+| felparkeringsavgift (ink. |  |  |  |  |
+| moms i de fall överträdelsen |  |  |  |  |
+| är momspliktig) |  |  |  |  |
 
 <!-- sida 95 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.f4ce0ed1a1ce40718e1ee27/17945743149
 sha256: ddd3856a347ce82aeb61ed767d770a6a07bc00b879e82cf0d3d2c8324c3a77a9
 bytes: 6029207
 sidor: 197
-hamtad: 2026-11-13T15:17:19+00:00
-konverterad: 2026-11-13T15:17:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:56:43+00:00
+konverterad: 2026-11-17T22:57:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3585,18 +3585,18 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 92-93-1](handlingar.tabeller/92-93-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. | 1 Kommunövergripande risk: 3. Vanligt 3. Kännbar Ja<br>Bristande följsamhet till (uppfattas som<br>inköpsprocessen; besvärande för<br>direktupphandling respektive berörda<br>avtalsuppföljning intressenter och<br>kommunen) |
-|  | 2 Kommunövergripande risk 2. Mindre 4. Allvarlig/stor Ja<br>- Risk för korruption och vanligt inverkan (så stor<br>välfärdsbrottslighet att den inte får<br>inträffa) |
-|  | 3 Kommunövergripande risk: 2. Mindre 3. Kännbar Ja<br>Förvaltningarnas arbete med att vanligt (uppfattas som<br>följa och utveckla det besvärande för<br>systematiska beredskapsarbetet berörda<br>intressenter och<br>kommunen) |
-|  | 4 Kommunövergripande risk: 2. Mindre 3. Kännbar Ja<br>Risk för bristande efterlevnad till vanligt (uppfattas som<br>NIS2-direktivet och gällande besvärande för<br>rutiner och regelverk berörda<br>intressenter och<br>kommunen) |
-| Verksamhet | 5 Personer med skyddad 2. Mindre 4. Allvarlig/stor Ja<br>identitet vanligt inverkan (så stor<br>att den inte får<br>inträffa) |
-|  | 6 Externa skolplaceringar där 3. Vanligt 3. Kännbar Ja<br>särskilda skäl finns (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 7 Övertidsersättning betalas ut 2. Mindre 3. Kännbar Ja<br>på felaktiga grunder vanligt (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 8 Efterlevnad av 3. Vanligt 3. Kännbar Ja<br>informationshanteringsplan (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 9 Kontroll inför anställning 3. Vanligt 3. Kännbar Ja<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
-|  | 10 Efterlevnad till 3. Vanligt 3. Kännbar Ja<br>rekryteringsprocessen (uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma områden;<br>Informationssäkerhet,<br>administration, inköp m<br>fl. |  | 1 Kommunövergripande risk:<br>Bristande följsamhet till<br>inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande risk<br>- Risk för korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 3 Kommunövergripande risk:<br>Förvaltningarnas arbete med att<br>följa och utveckla det<br>systematiska beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 4 Kommunövergripande risk:<br>Risk för bristande efterlevnad till<br>NIS2-direktivet och gällande<br>rutiner och regelverk | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 Personer med skyddad<br>identitet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Ja |
+|  |  | 6 Externa skolplaceringar där<br>särskilda skäl finns | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 7 Övertidsersättning betalas ut<br>på felaktiga grunder | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 8 Efterlevnad av<br>informationshanteringsplan | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 9 Kontroll inför anställning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 10 Efterlevnad till<br>rekryteringsprocessen | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ja |
 
 <!-- sida 93 -->
 
@@ -3609,17 +3609,17 @@ Intern kontroll 2027
 
 [Tabell 93-94-1](handlingar.tabeller/93-94-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens risk ej tas till<br>plan |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas<br>- Bristande driftmiljö som<br>hos leverantörer 2. Mindre besvärande<br>vanligt för berörda<br>intressenter<br>och<br>kommunen) |
-| Verksamhet | Mottagande i anpassad 4. 2026 års<br>gymnasieskola Allvarlig/stor granskning visade<br>2. Mindre inverkan (så inga brister.<br>vanligt stor att den<br>inte får<br>inträffa) |
-|  | Åtgärdsprogrammens 4.<br>kvalitet Allvarlig/stor<br>2. Mindre inverkan (så<br>vanligt stor att den<br>inte får<br>inträffa) |
-|  | Rutiner mot kränkningar 3. Kännbar Åtgärder<br>följs ej (uppfattas genomförda<br>som utifrån granskning<br>2. Mindre besvärande 2025. Ny<br>vanligt för berörda lagstiftning sedan<br>intressenter 1 augusti 2027.<br>och<br>kommunen) |
-|  | Felaktiga utbetalningar 3. Kännbar Uppföljning och<br>ekonomiskt bistånd (uppfattas kontroll görs inom<br>som ramen för det<br>2. Mindre besvärande systematiska<br>vanligt för berörda kvalitetsarbetet,<br>intressenter SOSFS<br>och<br>kommunen) |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas kontroll görs inom<br>vid TAK-placeringar som systematiskt<br>2. Mindre besvärande kvalitetsarbete,<br>vanligt för berörda SOSFS<br>intressenter<br>och<br>kommunen) |
-|  | Kommunövergripande 3. Kännbar<br>risk: Dämpad (uppfattas<br>befolkningstillväxt med som<br>långsiktig påverkan på 2. Mindre besvärande<br>kommunala vanligt för berörda<br>verksamheter intressenter<br>och<br>kommunen) |
-|  | Arbetsmiljön inom 4. Ligger med som<br>anpassad Allvarlig/stor en risk och<br>gymnasieskola inverkan (så uppföljning inom<br>3. Vanligt<br>indivduellt program stor att den systematiskt<br>inte får arbetsmiljöarbete<br>inträffa) |
-|  | Obehöriga personer i 4. Ev granskning<br>våra lokaler Allvarlig/stor 2028. Ny rutin och<br>inverkan (så ändrade<br>3. Vanligt<br>stor att den förhållningssätt<br>inte får ges möjlighet att<br>inträffa) först arbetas in. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Gemensamma<br>områden;<br>Informationssäkerhet,<br>administration, inköp<br>m fl. |  | Kommunövergripande<br>risk: It-säkerhet<br>- Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+| Verksamhet |  | Mottagande i anpassad<br>gymnasieskola | 2. Mindre<br>vanligt | 4.<br>Allvarlig/stor<br>inverkan (så<br>stor att den<br>inte får<br>inträffa) | 2026 års<br>granskning visade<br>inga brister. |
+|  |  | Åtgärdsprogrammens<br>kvalitet | 2. Mindre<br>vanligt | 4.<br>Allvarlig/stor<br>inverkan (så<br>stor att den<br>inte får<br>inträffa) |  |
+|  |  | Rutiner mot kränkningar<br>följs ej | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Åtgärder<br>genomförda<br>utifrån granskning<br>2025. Ny<br>lagstiftning sedan<br>1 augusti 2027. |
+|  |  | Felaktiga utbetalningar<br>ekonomiskt bistånd | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Uppföljning och<br>kontroll görs inom<br>ramen för det<br>systematiska<br>kvalitetsarbetet,<br>SOSFS |
+|  |  | Bristande<br>barnkonsekvensanalys<br>vid TAK-placeringar | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) | Uppföljning och<br>kontroll görs inom<br>systematiskt<br>kvalitetsarbete,<br>SOSFS |
+|  |  | Kommunövergripande<br>risk: Dämpad<br>befolkningstillväxt med<br>långsiktig påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas<br>som<br>besvärande<br>för berörda<br>intressenter<br>och<br>kommunen) |  |
+|  |  | Arbetsmiljön inom<br>anpassad<br>gymnasieskola<br>indivduellt program | 3. Vanligt | 4.<br>Allvarlig/stor<br>inverkan (så<br>stor att den<br>inte får<br>inträffa) | Ligger med som<br>en risk och<br>uppföljning inom<br>systematiskt<br>arbetsmiljöarbete |
+|  |  | Obehöriga personer i<br>våra lokaler | 3. Vanligt | 4.<br>Allvarlig/stor<br>inverkan (så<br>stor att den<br>inte får<br>inträffa) | Ev granskning<br>2028. Ny rutin och<br>ändrade<br>förhållningssätt<br>ges möjlighet att<br>först arbetas in. |
 
 <!-- sida 94 -->
 
@@ -4148,15 +4148,18 @@ Förvaltningsbudget 2027
 
 8
 
-[Tabell 109-110-1](handlingar.tabeller/109-110-1.csv)
+[Tabell 109-111-1](handlingar.tabeller/109-111-1.csv)
 
-|  |  |  | Samordnade<br>vägledningsinsatser<br>: En gemensam<br>process mellan<br>utbildningsnivåer,<br>arbetsmarknadsenh<br>eter och<br>vuxenutbildning<br>skapar kontinuitet i<br>vägledningen för<br>både ungdomars<br>utbildningsval och<br>vuxnas omställning.<br>Stöd vid val av<br>gymnasieutbildning:<br>Ungdomar får hjälp<br>att välja<br>gymnasieutbildning<br>ar som matchar<br>deras intressen,<br>styrkor och<br>arbetsmarknadens<br>Utveckla och<br>behov. Detta<br>effektivisera<br>minskar avhopp<br>vägledningsarbete<br>och stärker framtida<br>t med hjälp av AI,<br>anställningsbarhet.<br>digitala verktyg<br>samt mätverktyg.<br>Stöd vid<br>omställning mitt i<br>livet: Personer i<br>arbetslivet får<br>vägledning i att<br>byta karriär,<br>vidareutbilda sig<br>eller omskola sig.<br>Det är viktigt i en<br>föränderlig<br>arbetsmarknad.<br>Stärkta övergångar<br>mellan utbildning<br>och arbete: Tydliga<br>insatser vid<br>övergångar från<br>gymnasiet till<br>arbetslivet eller<br>vidare studier, samt<br>mellan olika<br>karriärsteg, hjälper<br>individer att nå sina<br>mål. |
-| --- | --- | --- | --- |
-|  |  | Direktiv – Ökad<br>kvalitet i<br>matchningsproce<br>ssen | Fortsätta att<br>utveckla och<br>bredda det goda<br>samarbetet med<br>arbetsgivare i<br>Kungsbacka. |
-|  |  |  | Paketering och<br>synliggörande av<br>insatserna och<br>processerna på<br>Kompetenscentru<br>m - leder minskat<br>kompetensgap |
-|  |  |  | Aktivitetskravet –<br>struktur och<br>utveckling. |
-| Ett medskapande<br>samhälle och<br>öppen attityd | Kungsbacka<br>kommun är en<br>attraktiv<br>arbetsgivare med<br>modiga och<br>medskapande<br>medarbetare och<br>ledare. |  | Fortsätta arbeta<br>och stärka våra<br>chefers<br>arbetsmiljö och<br>förutsättningar<br>Struktur för<br>ledningsgrupper<br>och chefsforum<br>Tydliggöra uppdrag<br>inom<br>Verksamhetsstöd &<br>Utveckling<br>Tydliggöra enheten<br>för Skolservice<br>uppdrag<br>Introduktionsplan<br>för nya chefer<br>Tydlig struktur och<br>efterlevnad<br>gällande<br>dokumentation,<br>rutiner, beslut och<br>information<br>Intern<br>kommunikation |
-| Direktiv - Innovation<br>och omställning till<br>nya arbetssätt |  |  | Effekthemtagning:<br>Genomföra<br>effekthemtagning<br>genom att<br>använda<br>nyttokalkylen mer<br>systematiskt i<br>utvecklingsarbetet<br>.<br>Genomföra<br>effekthemtagning<br>genom att använda<br>nyttokalkylen mer<br>systematiskt i<br>utvecklingsarbetet. |
+|  |  |  | Utveckla och<br>effektivisera<br>vägledningsarbete<br>t med hjälp av AI,<br>digitala verktyg<br>samt mätverktyg. | Samordnade<br>vägledningsinsatser<br>: En gemensam<br>process mellan<br>utbildningsnivåer,<br>arbetsmarknadsenh<br>eter och<br>vuxenutbildning<br>skapar kontinuitet i<br>vägledningen för<br>både ungdomars<br>utbildningsval och<br>vuxnas omställning.<br>Stöd vid val av<br>gymnasieutbildning:<br>Ungdomar får hjälp<br>att välja<br>gymnasieutbildning<br>ar som matchar<br>deras intressen,<br>styrkor och<br>arbetsmarknadens<br>behov. Detta<br>minskar avhopp<br>och stärker framtida<br>anställningsbarhet.<br>Stöd vid<br>omställning mitt i<br>livet: Personer i<br>arbetslivet får<br>vägledning i att<br>byta karriär,<br>vidareutbilda sig<br>eller omskola sig.<br>Det är viktigt i en<br>föränderlig<br>arbetsmarknad.<br>Stärkta övergångar<br>mellan utbildning<br>och arbete: Tydliga<br>insatser vid<br>övergångar från<br>gymnasiet till<br>arbetslivet eller<br>vidare studier, samt<br>mellan olika<br>karriärsteg, hjälper<br>individer att nå sina<br>mål. |
+| --- | --- | --- | --- | --- |
+|  |  | Direktiv – Ökad<br>kvalitet i<br>matchningsproce<br>ssen | Fortsätta att<br>utveckla och<br>bredda det goda<br>samarbetet med<br>arbetsgivare i<br>Kungsbacka. |  |
+|  |  |  | Paketering och<br>synliggörande av<br>insatserna och<br>processerna på<br>Kompetenscentru<br>m - leder minskat<br>kompetensgap |  |
+|  |  |  | Aktivitetskravet –<br>struktur och<br>utveckling. |  |
+| Ett medskapande<br>samhälle och<br>öppen attityd | Kungsbacka<br>kommun är en<br>attraktiv<br>arbetsgivare med<br>modiga och<br>medskapande<br>medarbetare och<br>ledare. |  | Fortsätta arbeta<br>och stärka våra<br>chefers<br>arbetsmiljö och<br>förutsättningar<br>Struktur för<br>ledningsgrupper<br>och chefsforum<br>Tydliggöra uppdrag<br>inom<br>Verksamhetsstöd &<br>Utveckling<br>Tydliggöra enheten<br>för Skolservice<br>uppdrag<br>Introduktionsplan<br>för nya chefer<br>Tydlig struktur och<br>efterlevnad<br>gällande<br>dokumentation,<br>rutiner, beslut och<br>information<br>Intern<br>kommunikation |  |
+| Direktiv - Innovation<br>och omställning till<br>nya arbetssätt |  |  | Effekthemtagning:<br>Genomföra<br>effekthemtagning<br>genom att<br>använda<br>nyttokalkylen mer<br>systematiskt i<br>utvecklingsarbetet<br>.<br>Genomföra<br>effekthemtagning<br>genom att använda<br>nyttokalkylen mer<br>systematiskt i<br>utvecklingsarbetet. |  |
+|  |  |  | Driva AI- och<br>datadrivna<br>utvecklingsaktivit<br>eter<br>Utveckling av caset<br>”Elevhälsoindex”.<br>Införande och<br>utveckling av AI-<br>assistenter.<br>Utveckling av<br>Pluggkompis.<br>Utveckling av en<br>SYV-assistent.<br>Genomförande av<br>kompetenslyft inom<br>generativ AI för all<br>personal.<br>Införande av Svea<br>som gemensam AI-<br>plattform. |  |
+|  |  |  | Stärka kultur och<br>organisationens<br>förmåga:<br>Genomföra<br>kompetenshöjand<br>e insatser utifrån<br>behov och<br>förfrågan. Utifrån<br>GR:s<br>kompetensplattfor<br>m |  |
+|  |  |  | Prioriterade<br>områden: Öka<br>andelen<br>målsökande<br>utvecklingsinitiati<br>v som aktivt styr<br>mot våra<br>prioriterade<br>områden. |  |
 
 <!-- sida 110 -->
 
@@ -4172,13 +4175,6 @@ Förvaltningsbudget 2027
 
 10
 
-[Tabell 111-1](handlingar.tabeller/111-1.csv)
-
-|  |  | Driva AI- och<br>datadrivna<br>utvecklingsaktivit<br>eter<br>Utveckling av caset<br>”Elevhälsoindex”.<br>Införande och<br>utveckling av AI-<br>assistenter.<br>Utveckling av<br>Pluggkompis.<br>Utveckling av en<br>SYV-assistent.<br>Genomförande av<br>kompetenslyft inom<br>generativ AI för all<br>personal.<br>Införande av Svea<br>som gemensam AI-<br>plattform. |
-| --- | --- | --- |
-|  |  | Stärka kultur och<br>organisationens<br>förmåga:<br>Genomföra<br>kompetenshöjand<br>e insatser utifrån<br>behov och<br>förfrågan. Utifrån<br>GR:s<br>kompetensplattfor<br>m |
-|  |  | Prioriterade<br>områden: Öka<br>andelen<br>målsökande<br>utvecklingsinitiati<br>v som aktivt styr<br>mot våra<br>prioriterade<br>områden. |
-
 <!-- sida 112 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
@@ -4188,10 +4184,10 @@ Förvaltningsbudget 2027
 
 [Tabell 112-1](handlingar.tabeller/112-1.csv)
 
-|  |  | Kommunikation<br>och<br>förändringsledars<br>kap: Stärka<br>kommunikationen<br>och det indirekta<br>ledarskapet samt<br>linjens<br>förändringsledars<br>kap.<br>Stärka<br>kommunikationen<br>och det indirekta<br>ledarskapet samt<br>linjens<br>förändringsledarska<br>p. |
-| --- | --- | --- |
-|  |  | Portföljstyrning:<br>Förstärkning av<br>den taktiska<br>styrningen genom<br>implementering av<br>portföljstyrning |
-|  |  | Samverkan:<br>Utveckla och<br>stärka samverkan,<br>inklusive att<br>koppla på<br>forskningsaktörer<br>i relevanta<br>utvecklingsinsats<br>er. |
+|  |  |  | Kommunikation<br>och<br>förändringsledars<br>kap: Stärka<br>kommunikationen<br>och det indirekta<br>ledarskapet samt<br>linjens<br>förändringsledars<br>kap.<br>Stärka<br>kommunikationen<br>och det indirekta<br>ledarskapet samt<br>linjens<br>förändringsledarska<br>p. |  |
+| --- | --- | --- | --- | --- |
+|  |  |  | Portföljstyrning:<br>Förstärkning av<br>den taktiska<br>styrningen genom<br>implementering av<br>portföljstyrning |  |
+|  |  |  | Samverkan:<br>Utveckla och<br>stärka samverkan,<br>inklusive att<br>koppla på<br>forskningsaktörer<br>i relevanta<br>utvecklingsinsats<br>er. |  |
 
 <!-- sida 113 -->
 
@@ -4259,10 +4255,10 @@ Förvaltningsbudget 2027
 
 [Tabell 114-1](handlingar.tabeller/114-1.csv)
 
-|  |  | Höjd krisberedskap<br>och robusthet i<br>förvaltningen: Det<br>är viktigt att<br>förvaltningen är<br>förberedd på att<br>hantera kriser och<br>att vi kan fortsätta<br>leverera<br>samhällsviktiga<br>tjänster för att<br>säkerställa<br>invånarnas trygghet<br>och verksamhetens<br>funktion.<br>Förbättrad<br>samordning och<br>kommunikation i<br>Utveckla arbetet<br>kris: Effektiv<br>med<br>samordning och<br>kontinuitetsplaner<br>tydlig<br>för våra<br>kommunikation<br>verksamheter.<br>under en kris är<br>avgörande för att<br>minska förvirring,<br>snabba upp<br>beslutsfattande och<br>säkerställa att alla<br>parter arbetar mot<br>samma mål.<br>Stärkt<br>riskmedvetenhet i<br>organisationen: En<br>hög nivå av<br>riskmedvetenhet<br>bland medarbetare<br>och ledning är<br>nödvändig för att<br>identifiera och<br>hantera potentiella<br>hot i tid. |
-| --- | --- | --- |
-|  |  | Ta fram<br>vägvisande<br>dokument för<br>beredskap och<br>säkerhet för våra<br>verksamheter. |
-|  |  | Förvaltningens<br>krisledningsorgan<br>isation ska öva<br>regelbundet. |
+|  |  |  | Utveckla arbetet<br>med<br>kontinuitetsplaner<br>för våra<br>verksamheter. | Höjd krisberedskap<br>och robusthet i<br>förvaltningen: Det<br>är viktigt att<br>förvaltningen är<br>förberedd på att<br>hantera kriser och<br>att vi kan fortsätta<br>leverera<br>samhällsviktiga<br>tjänster för att<br>säkerställa<br>invånarnas trygghet<br>och verksamhetens<br>funktion.<br>Förbättrad<br>samordning och<br>kommunikation i<br>kris: Effektiv<br>samordning och<br>tydlig<br>kommunikation<br>under en kris är<br>avgörande för att<br>minska förvirring,<br>snabba upp<br>beslutsfattande och<br>säkerställa att alla<br>parter arbetar mot<br>samma mål.<br>Stärkt<br>riskmedvetenhet i<br>organisationen: En<br>hög nivå av<br>riskmedvetenhet<br>bland medarbetare<br>och ledning är<br>nödvändig för att<br>identifiera och<br>hantera potentiella<br>hot i tid. |
+| --- | --- | --- | --- | --- |
+|  |  |  | Ta fram<br>vägvisande<br>dokument för<br>beredskap och<br>säkerhet för våra<br>verksamheter. |  |
+|  |  |  | Förvaltningens<br>krisledningsorgan<br>isation ska öva<br>regelbundet. |  |
 
 <!-- sida 115 -->
 

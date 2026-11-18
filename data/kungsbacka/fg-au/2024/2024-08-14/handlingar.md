@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.560286bd190a2659b0a30d0d/1723444891
 sha256: 710321ee3811b822b04ef7fde5f07b17b5c929e32b6bf6782bd147d4617a649b
 bytes: 8922222
 sidor: 118
-hamtad: 2026-11-08T08:58:56+00:00
-konverterad: 2026-11-08T08:59:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:43:22+00:00
+konverterad: 2026-11-17T23:44:00+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1682,54 +1682,35 @@ Arbetsgivare, Demokrati, ledning, Ekonomi, Hälsa, Integration, Näringsliv, arb
 kollektivavtal styrning juridik sjukvård socialomsorg digitalisering infrastruktur fritid
 SKR Demokrati, ledning, styrning Mänskliga rättigheter, jämlikhet Barnets rättigheter Barnkonventionen är svensk lag Genomförande av barnkonventionen
 Framgångsfaktorer
+Publicerad 10 augusti 2022
 
-Publicerad 10 augusti 2022      Demokrati, ledning, styrning
-
-Mänskliga rättigheter, jämlikhet
 Framgångsfaktorer i nio steg
-Barnets rättigheter
 Många års erfarenheter av lokalt och regionalt barnrättsarbete har visat att det
-Barnkonsekvensanalys
 "nns ett antal framgångsfaktorer som är viktiga att beakta.
-Barnkonventionen är svensk lag
 1\. Ta reda på om det "nns ett beslut i fullmäktige (styrelse) om att arbeta i
-Genomförande av
 enlighet med konventionen
-barnkonventionen
-
 2\. Ta in skrivningar om rättigheterna i alla styrande dokument
+
 Att det "nns skrivningar om rättigheterna i de styrande dokumenten kan sägas motsvara
 transformeringen – att rättigheterna förs in i de lagar där de är relevanta.
 Budgetdokumentet är särskilt viktigt. Det medverkar till att organisationen påminns om frågan
 och prioriteringar synliggörs.
 Skapa inga nya dokument, för in rättigheterna i de dokument som "nns.
-
-Framgångsfaktorer
-Nätverk barnets rättigheter
-Stödstrukturer, modeller
-Utbildningar barnets rättigheter
-Öva barnets rättigheter, kortlek
-Jämställdhet
-
-Kvinnofrid
 3\. Verka för att det ska "nnas ett krav på återrapportering till den politiska nivån
-MR i styrning och ledning
-För att säkra att rättigheterna tillämpas i organisationen är det viktigt med återrapportering till Nationella minoriteter
+För att säkra att rättigheterna tillämpas i organisationen är det viktigt med återrapportering till
 politikerna. De behöver veta vad som är utfört i förhållande till de beslut som är fattade.
-Rasism, diskriminering
+4\. Kartlägg kunskapsnivån
 
-4\. Kartlägg kunskapsnivån        Folkhälsa, jämlik hälsa
-Stöd för samordning
 5\. Besluta om en samordningsfunktion
 
 6\. Tillsätt en arbetsgrupp som är knuten till samordningsfunktionen
-
 7\. Förankra arbetet i hela organisationen
-Alla delar av organisationen behöver vara informerad om vad som pågår.
 
+Alla delar av organisationen behöver vara informerad om vad som pågår.
 8\. Genomför aktiviteter på olika nivåer
 
 9\. Be om handledning och stöd om det behövs
+
 Informationsansvarig
 Marie Lundin Karphammar
 Handläggare
@@ -1747,12 +1728,35 @@ Evenemang  Rapporter och skrifter Cirkulär Handlingar och beslut
 Press      Statistik  Lärande exempel Bloggar
 
 Om SKR           Kommuner och regioner Hjälp
-Lediga jobb      Kort om kommuner och regioner English pages
+Lediga jobb     Kort om kommuner och regioner English pages
 Styrelsehandlingar och beslut Kommuner, lista Lättlästa sidor
 Styrelse och beredningar Fakta om kommuner och regioner Webbkarta
 Kansliorganisation Regioner, lista A-Ö index
 Om SKR                          E-postutskick, prenumerera
+
 Hjälp oss förbättra skr.se| Om kakor| Dataskydd och personuppgifter| Tillgänglighetsredogörelse| SKR:s webbhandbok| LinkedIn| X
+
+[Tabell 42-1](handlingar.tabeller/42-1.csv)
+
+| Demokrati, ledning, styrning |  |
+| --- | --- |
+| Mänskliga rättigheter, jämlikhet |  |
+| Barnets rättigheter |  |
+| Barnkonsekvensanalys |  |
+| Barnkonventionen är svensk lag |  |
+| Genomförande av<br>barnkonventionen |  |
+| Framgångsfaktorer |  |
+| Nätverk barnets rättigheter |  |
+| Stödstrukturer, modeller |  |
+| Utbildningar barnets rättigheter |  |
+| Öva barnets rättigheter, kortlek |  |
+| Jämställdhet |  |
+| Kvinnofrid |  |
+| MR i styrning och ledning |  |
+| Nationella minoriteter |  |
+| Rasism, diskriminering |  |
+| Folkhälsa, jämlik hälsa |  |
+| Stöd för samordning |  |
 
 <!-- sida 43 -->
 
@@ -4466,13 +4470,10 @@ FÖRSKOLA & GRUNDSKOLA
 
 FÖRBUNDSSTYRELSEN GR 2007 -27- 7
 
-je 1
 Protokoll
 2006-12-11
 
 Dnr Aho
-
-Ö2- IMO |
 
 Fä dn dnr SSE
 
@@ -4509,7 +4510,6 @@ Justering av protokollet har tillkännagivits genom anslag på Göteborgs
 kommuns anslagstavla
 
 Rätt utdraget intygar: Od lydlbrey
-/ Å VN
 
 Just:
 

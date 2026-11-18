@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6ed85a58192080e2362c4150/1727073314
 sha256: 47f7d27f40b5b4ca602503f2a9a2b6e444bb6413e263c68b203f6c16207349de
 bytes: 8581094
 sidor: 236
-hamtad: 2026-11-08T10:53:55+00:00
-konverterad: 2026-11-08T10:54:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:24:44+00:00
+konverterad: 2026-11-18T01:25:28+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: [43]
 figurer: [43, 117, 120, 125, 126, 127, 128, 178, 181]
 tolkade: []
@@ -880,30 +880,14 @@ Delårsrapport Augusti 2024
 
 Utfall och prognos
 
-Bokslut Budget Prognos Budget-  Delår  Delår  Avvikelse
-Miljoner kronor
-2023   2024    2024  avvikelse 2023    2024    delår
-Drift
-Skattefinansierad -227,1 -246,4 -245,4   1,0   -157,4 -167,9   -10,5
-verksamhet
-Drift Vatten och
--8,1    -0,7   -9,7    -9,0     2,8    -7,4   -10,2
-Avlopp
-Drift Avfall och
--5,9    -1,3    2,0     3,3    -2,4    1,8      4,2
-Återvinning
-Drift Kungsbacka
--1,3    0,9      0     -0,9    -2,2    -1,3     0,9
-Bredbandsnät
-Periodens
--242,4  -247,5  -253,1   -5,6   -159,2 -174,8   -15,6
-resultat
 Teknik Skatt
+
 Verksamheten redovisar ett utfall för perioden om -167,9 miljoner kronor vilket innebär 1,4 miljoner kronor
 högre än budget. Prognosen per helår är -245,4 miljoner kronor vilket är 1,0 miljoner kronor lägre än budget så
 en större omställning enligt handlingsplan för en budget i balans genomförts. Förvaltningen bedömer att behov
 finns att stärka resultatfonden, efter flera år med uttag, för att kunna parera yttre påverkningar som väder eller
 plötsliga prishöjningar.
+
 Teknik VA.
 
 En budgetavvikelse prognostiseras med ett underskott på 9,0 miljoner kronor gentemot budget.
@@ -924,6 +908,16 @@ miljoner kronor. Den största förklaringen är att kapitalkostnaderna blir läg
 projekt inte kommit igång enligt plan.
 
 16
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Prognos<br>2024 | Budget-<br>avvikelse | Delår<br>2023 | Delår<br>2024 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Drift<br>Skattefinansierad<br>verksamhet | -227,1 | -246,4 | -245,4 | 1,0 | -157,4 | -167,9 | -10,5 |
+| Drift Vatten och<br>Avlopp | -8,1 | -0,7 | -9,7 | -9,0 | 2,8 | -7,4 | -10,2 |
+| Drift Avfall och<br>Återvinning | -5,9 | -1,3 | 2,0 | 3,3 | -2,4 | 1,8 | 4,2 |
+| Drift Kungsbacka<br>Bredbandsnät | -1,3 | 0,9 | 0 | -0,9 | -2,2 | -1,3 | 0,9 |
+| Periodens<br>resultat | -242,4 | -247,5 | -253,1 | -5,6 | -159,2 | -174,8 | -15,6 |
 
 <!-- sida 20 -->
 
@@ -982,18 +976,6 @@ Teknik
 
 5.2.1 Uppföljning Drift Skattefinansierad verksamhet
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2023   2024   s 2024 vikelse 2023   2024   e delår
-Verksamhetens intäkter 110,5 80,5 82,5    2,0   65,3    54,1   -11,2
-Verksamhetens kostnader -337,6 -326,9 -327,9 -1,0 -222,7 -222,0  0,7
-Varav personalkostnader -93,3 -86,8 -86,2 0,6   -64,5   -57,8    6,7
-
-Varav
--158  -127,5 -129,1   -1,6 -101,6   -89,4   12,2
-verksamhetskostnader
-Varav kapitalkostnader -86,3 -112,6 -112,6 0,0  -56,6   -74,8  -18,2
-Periodens resultat -227,1 -246,4 -245,4   1,0  -157,4  -167,9  -10,5
 Analys och kommentar
 Teknik Skatt redovisar ett utfall för perioden om -167,9 miljoner kronor vilket innebär 1,4 miljoner kronor
 högre än budget. Förklaring till underskottet för perioden förklaras främst av:
@@ -1028,6 +1010,17 @@ Detta beror på att Serviceförvaltningen från och med 1 mars 2024 själva skö
 
 18
 
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Progno<br>s 2024 | Budgetav<br>vikelse | Delår<br>2023 | Delår<br>2024 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 110,5 | 80,5 | 82,5 | 2,0 | 65,3 | 54,1 | -11,2 |
+| Verksamhetens kostnader | -337,6 | -326,9 | -327,9 | -1,0 | -222,7 | -222,0 | 0,7 |
+| Varav personalkostnader | -93,3 | -86,8 | -86,2 | 0,6 | -64,5 | -57,8 | 6,7 |
+| Varav<br>verksamhetskostnader | -158 | -127,5 | -129,1 | -1,6 | -101,6 | -89,4 | 12,2 |
+| Varav kapitalkostnader | -86,3 | -112,6 | -112,6 | 0,0 | -56,6 | -74,8 | -18,2 |
+| Periodens resultat | -227,1 | -246,4 | -245,4 | 1,0 | -157,4 | -167,9 | -10,5 |
+
 <!-- sida 22 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -1054,18 +1047,6 @@ från detaljplanearbete, försäljning av fordon och schaktåterställningsavgif
 
 5.2.2 Uppföljning Drift VA
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2023   2024   s 2024 vikelse 2023   2024   e delår
-Verksamhetens intäkter 205,2 232,5 228,5  -4,0 139,2   151,1    11,9
-Verksamhetens kostnader -213,3 -233,2 -238,2 -5,0 -136,4 -158,5 -22,1
-varav personalkostnad -44,8 -48,2 -48,2   0,0   -28,7   -31,3   -2,6
-
-varav
--104,8  -91,6   -94     -2,4  -67,3   -62,9    4,4
-verksamhetskostnad
-varav kapitalkostnad -63,7 -93,4 -96,0    -2,6  -40,4   -64,3  -23,9
-Periodens resultat  -8,1   -0,7   -9,7    -9,0   2,8    -7,4   -10,2
 Analys och kommentar
 En budgetavvikelse prognostiseras med ett underskott på 9,0 miljoner kronor gentemot budget vilket är samma
 prognos som i delår 1.
@@ -1087,6 +1068,17 @@ brukningsavgifter minskat till följd av bevattningsförbudet samt en minskad in
 | --- | --- |
 | Ej aktuellt då nämnden inte prognosticerar underskott<br>för innevarande år. | Resultatfonden uppgår till 4,3 miljoner kronor vilket<br>motsvarar 1,3% av kostnaderna. Prognosticerat<br>överskott om 1,0 milj kronor föreslås därför läggas till<br>fonden. |
 | Summa |  |
+
+[Tabell 22-3](handlingar.tabeller/22-3.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Progno<br>s 2024 | Budgetav<br>vikelse | Delår<br>2023 | Delår<br>2024 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 205,2 | 232,5 | 228,5 | -4,0 | 139,2 | 151,1 | 11,9 |
+| Verksamhetens kostnader | -213,3 | -233,2 | -238,2 | -5,0 | -136,4 | -158,5 | -22,1 |
+| varav personalkostnad | -44,8 | -48,2 | -48,2 | 0,0 | -28,7 | -31,3 | -2,6 |
+| varav<br>verksamhetskostnad | -104,8 | -91,6 | -94 | -2,4 | -67,3 | -62,9 | 4,4 |
+| varav kapitalkostnad | -63,7 | -93,4 | -96,0 | -2,6 | -40,4 | -64,3 | -23,9 |
+| Periodens resultat | -8,1 | -0,7 | -9,7 | -9,0 | 2,8 | -7,4 | -10,2 |
 
 <!-- sida 23 -->
 
@@ -1147,18 +1139,6 @@ Delårsrapport Augusti 2024
 
 5.2.4 Uppföljning Drift Avfall & Återvinning
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2023   2024   s 2024 vikelse 2023   2024   e delår
-Verksamhetens intäkter 94,8 113,9 118,7   4,8   63,8    76,9    13,1
-Verksamhetens kostnader -100,7 -115,2 -116,7 -1,5 -66,2 -75,1   -8,9
-
-varav personalkostnad -4,6 -5,4   -5,4    0,0    -3,1   -3,4    -0,3
-varav
--94,5  -105,2 -109,6   -4,4   -62    -70,3   -8,3
-verksamhetskostnad
-varav kapitalkostnad -1,7  -4,7   -1,7    3,0    -1,1   -1,4    -0,3
-Periodens resultat  -5,9   -1,3    2,0    3,3    -2,4    1,8     4,2
 Analys och kommentar
 Nämnden redovisar ett utfall för perioden om 1,8 miljoner kronor. Nämndens prognos för helåret 2024 är 2
 miljoner kronor. Den största förklaringen är att kapitalkostnaderna blir lägre än budgeterat som en effekt av att
@@ -1189,6 +1169,17 @@ Om underskott består även efter 2024 behöver neddragningar i verksamheten gö
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Progno<br>s 2024 | Budgetav<br>vikelse | Delår<br>2023 | Delår<br>2024 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 94,8 | 113,9 | 118,7 | 4,8 | 63,8 | 76,9 | 13,1 |
+| Verksamhetens kostnader | -100,7 | -115,2 | -116,7 | -1,5 | -66,2 | -75,1 | -8,9 |
+| varav personalkostnad | -4,6 | -5,4 | -5,4 | 0,0 | -3,1 | -3,4 | -0,3 |
+| varav<br>verksamhetskostnad | -94,5 | -105,2 | -109,6 | -4,4 | -62 | -70,3 | -8,3 |
+| varav kapitalkostnad | -1,7 | -4,7 | -1,7 | 3,0 | -1,1 | -1,4 | -0,3 |
+| Periodens resultat | -5,9 | -1,3 | 2,0 | 3,3 | -2,4 | 1,8 | 4,2 |
+
+[Tabell 24-2](handlingar.tabeller/24-2.csv)
+
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | 53 Avfall & Återvinning | -2,3 | 2,0 | 4,3 |
@@ -1200,23 +1191,6 @@ Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport Augusti 2024
 
 5.2.5 Uppföljning Drift Kungsbacka Bredband
-
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-
-```osaker-tabell
-                  2023   2024   s 2024 vikelse 2023   2024   e delår
-Verksamhetens intäkter 36,2 43,7  42,2    -1,5  22,1    26,6     4,5
-Verksamhetens kostnader -37,6 -42,8 -42,2 0,6   -24,3   -27,9   -3,6
-
-varav personalkostnad -4,5 -5,6   -5,0    0,6    -2,8   -3,1    -0,3
-```
-
-varav
--8,8   -7,7   -7,7    0,0    -5,7   -5,6     0,1
-verksamhetskostnad
-varav kapitalkostnad -24,3 -29,5 -29,5    0,0   -15,8   -19,2   -3,4
-Periodens resultat  -1,4   0,9     0,0    -0,9   -2,2   -1,3     0,9
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -1240,6 +1214,17 @@ Förändring helårsprognos
 22
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+| Miljoner kronor | Bokslut<br>2023 | Budget<br>2024 | Progno<br>s 2024 | Budgetav<br>vikelse | Delår<br>2023 | Delår<br>2024 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 36,2 | 43,7 | 42,2 | -1,5 | 22,1 | 26,6 | 4,5 |
+| Verksamhetens kostnader | -37,6 | -42,8 | -42,2 | 0,6 | -24,3 | -27,9 | -3,6 |
+| varav personalkostnad | -4,5 | -5,6 | -5,0 | 0,6 | -2,8 | -3,1 | -0,3 |
+| varav<br>verksamhetskostnad | -8,8 | -7,7 | -7,7 | 0,0 | -5,7 | -5,6 | 0,1 |
+| varav kapitalkostnad | -24,3 | -29,5 | -29,5 | 0,0 | -15,8 | -19,2 | -3,4 |
+| Periodens resultat | -1,4 | 0,9 | 0,0 | -0,9 | -2,2 | -1,3 | 0,9 |
+
+[Tabell 25-2](handlingar.tabeller/25-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
@@ -3680,8 +3665,12 @@ Delegeringsförteckning
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 3.1 |  | Rätt att skriva under<br>delgivningskvitto ställt till<br>nämnden | FC | X |  |
 | 3.2 | 6 kap. 39 § KL | Besluta i ärenden som är så<br>brådskande att nämndens<br>avgörande inte kan avvaktas | OF |  | Ska anmälas vid<br>nämndens nästa<br>sammanträde |
 | 3.3 | 6 kap. 3–6 §§<br>OSL<br>OSL 5 kap 5 § | Utlämnande av allmän<br>handling med förbehåll eller<br>att inte lämna ut en allmän<br>handling och besluta om<br>sekretessmarkering | FC | X |  |
@@ -3821,8 +3810,12 @@ myndigheten
 
 [Tabell 98-1](handlingar.tabeller/98-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 4.1 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Beslut om lokala<br>trafikföreskrifter avseende<br>hastighetsbegränsning samt<br>avseende tättbebyggt område | AU |  |  |
 | 4.2 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Avslagsbeslut avseende lokala<br>trafikföreskrifter | AU |  |  |
 | 4.3 | 10 kap. trafik-<br>förordningen<br>(1998:1276) | Övriga beslut om lokala<br>trafikföreskrifter utom<br>upphävande av inaktuella<br>trafikföreskrifter | AU |  |  |
@@ -3947,8 +3940,12 @@ varje kväll.
 
 [Tabell 101-1](handlingar.tabeller/101-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 5.1 | 6–9 §§ lag<br>(1997:736) om<br>färdtjänst | Beslut om tillstånd till<br>färdtjänst med<br>regelkompletteringar | FC | X | Beslut överklagas<br>till<br>förvaltningsdomstol |
 | 5.2 | 12 § lag om<br>färdtjänst | Beslut om att återkalla<br>tillstånd till färdtjänst om |  |  |  |
 | 5.2.1 |  | – förutsättningar för tillstånd<br>inte längre finns | FC | X | -:- |
@@ -3964,8 +3961,12 @@ varje kväll.
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 6.1 | 6 § LAV | Besluta om mindre utökning<br>eller inskränkning av<br>verksamhetsområde för<br>spillvatten, dagvatten eller<br>dricksvatten | AU |  | Enstaka fastigheter i<br>anslutning till<br>befintliga<br>verksamhets-<br>områden |
 | 6.2 | 6 § LAV | Besluta om anslutning till<br>allmän va-anläggning för en<br>fastighet utanför<br>verksamhetsområdet samt<br>beslut om uppsägning av<br>anslutningsavtal | AU |  |  |
 | 6.3 | 38 § LAV | Avtala med fastighetsägare om<br>avgift som inte regleras i va-<br>taxan | FC | X |  |
@@ -3979,8 +3980,12 @@ varje kväll.
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 7.1 |  | Besluta i ärenden om<br>tillämpning av taxa för<br>bredband | FC | X |  |
 
 <!-- sida 104 -->
@@ -3989,8 +3994,12 @@ varje kväll.
 
 [Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidaredelegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidaredelegera |  |
+|  |  |  | till |  |  |
 | 8.1 | 26 §<br>Lokala<br>avfallsföres<br>krifter för<br>Kungsback<br>a kommun | Besluta om att anvisa<br>hämtningsplats för<br>hushållsavfall | FC | X |  |
 | 8.2 | 31§ Lokala<br>avfallsföre<br>skrifter för<br>Kungsback<br>a kommun | Besluta om justering av<br>avfallsabonnemang vid<br>avvikelse från gällande<br>abonnemang | FC | X |  |
 | 8.3 | 37§ Lokala<br>avfallsföres<br>krifter för<br>Kungsback<br>a kommun | Besluta om godkännande av<br>kompostering av matavfall | FC | X |  |
@@ -4076,8 +4085,12 @@ styrmodell
 
 [Tabell 108-109-1](handlingar.tabeller/108-109-1.csv)
 
-| Nr | Lagrum | Delegeringens omfattning | Delegerat<br>till | Med rätt att<br>vidare-delegera | Anmärkning |
+|  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Med rätt att |  |
+| Nr | Lagrum | Delegeringens omfattning | Delegerat |  | Anmärkning |
+|  |  |  |  | vidare-delegera |  |
+|  |  |  | till |  |  |
 | 10.1 | LAS, AB §§ 3-5 | Anställa |  |  |  |
 | 10.1.1 | LAS, AB §§ 3-5 | Verksamhetschef<br>Tillsvidareanställning och<br>tidsbegränsade anställningar<br>längre än 6 månader | FC |  | I dialog med presidiet<br>under<br>rekryteringsprocessen<br>Tidsbegränsade<br>anställning kortare än 6<br>månader är<br>verkställighet<br>Innefattar lönesättning<br>och samtliga övriga<br>anställningsvillkor<br>enligt Kungsbackas<br>lönestruktur |
 | 10.1.2 | LAS, AB §§ 3-5 | Övriga medarbetare<br>Tillsvidareanställning och<br>tidsbegränsade anställningar<br>längre än 6 månader | FC | X | Tidsbegränsade<br>anställning kortare än 6<br>månader är<br>verkställighet<br>Innefattar lönesättning<br>och samtliga övriga<br>anställningsvillkor<br>enligt Kungsbackas<br>lönestruktur |
@@ -5303,17 +5316,13 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 139-140-1](handlingar.tabeller/139-140-1.csv)
+[Tabell 139-1](handlingar.tabeller/139-1.csv)
 
-| Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
-| --- | --- |
-| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
-| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
-| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
+|  | Utvecklingsråd | Användarforum | Avstämningsmöte | Leverantörsmöte | Avtalsuppföljning | Systemförvaltarforum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |  |  |  |  |  |
+| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |  |  |  |  |  |
+| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |  |  |  |  |  |
 
 <!-- sida 140 -->
 
@@ -5362,6 +5371,14 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
+
+[Tabell 140-1](handlingar.tabeller/140-1.csv)
+
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| --- | --- |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 141 -->
 
@@ -5505,15 +5522,15 @@ och IT-infrastruktur. Det är ett obligatoriskt dokument och ska finnas för sam
 
 [Tabell 143-1](handlingar.tabeller/143-1.csv)
 
-|  | Grundavtal PUB-avtal Förvaltningsplan Uppföljningsrapport Service Level Agreement |
-| --- | --- |
-| Publik tjänst | Nej Nej Nej Nej Nej |
-| Myndighetstjänst | Nej Nej Nej Nej Nej |
-| Kommersiell tjänst | Nej Ja Nej Nej Nej |
-| Digitalt verktyg | Ja Ja Ja Ja Nej |
-| Verksamhetssystem | Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja |
-| IT-infrastruktur | Ja Ja Ja Ja Ja |
+|  | Grundavtal | PUB-avtal | Förvaltningsplan | Uppföljningsrapport | Service Level Agreement |
+| --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Myndighetstjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Kommersiell tjänst | Nej Ja Nej Nej Nej |  |  |  |  |
+| Digitalt verktyg | Ja Ja Ja Ja Nej |  |  |  |  |
+| Verksamhetssystem | Ja Ja Ja Ja Ja |  |  |  |  |
+| Plattform | Ja Ja Ja Ja Ja |  |  |  |  |
+| IT-infrastruktur | Ja Ja Ja Ja Ja |  |  |  |  |
 
 <!-- sida 144 -->
 
@@ -5666,9 +5683,11 @@ Manualer sparas digitalt på Insidan (Sharepoint) och gallras vid inaktualitet.
 
 I tabellen nedan framgår vilka dokument som har en mall i modellen för digitala tjänster och system.
 
-Dokument         Mallens namn
+[Tabell 146-1](handlingar.tabeller/146-1.csv)
 
-Förvaltningsplan Förvaltningsplan mall.docx
+| Dokument | Mallens namn |
+| --- | --- |
+| Förvaltningsplan Förvaltningsplan mall.docx |  |
 
 <!-- sida 147 -->
 

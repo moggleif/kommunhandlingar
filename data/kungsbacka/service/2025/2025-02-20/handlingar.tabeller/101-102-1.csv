@@ -1,42 +1,40 @@
-Risker,Enhet Granskningsaktiviteter,Åtgärder
+Risker,Enhet,Granskningsaktiviteter,Åtgärder
 "Kommunövergripande
 risk: Brister vid
-referenstagning","Kännedom och
+referenstagning",Service,"Kännedom och
 följsamhet till rutiner för
-Service
 rekrytering och
 referenstagning","Information/utbildning
 referenstagning"
 "Risk för dataintrång i
 kommunens nätverk och
-system.","Granska rutiner för
-Service säkerhetskopiering och
+system.",Service,"Granska rutiner för
+säkerhetskopiering och
 återställning","Säkerställ att rutinen är
 uppdaterad"
 "Kommunövergripande
-risk - Risk för korruption","Granskning av om
+risk - Risk för korruption",Service,"Granskning av om
 förebyggande arbete och
 relevanta kontroller mot
-Service
 korruption och
 välfärdsbrottslighet
 fungerar rimligt väl","Utveckla strukturen för
 avtalsuppföljning"
-,,"Undersöka riskområden
+,,,"Undersöka riskområden
 inom Service
 verksamheter"
 "Risk att vi brister i
 följsamhet av upphandlat
-avtal.","Granskning med hjälp av
-Service BI om vi har följt
+avtal.",Service,"Granskning med hjälp av
+BI om vi har följt
 rangordningen",Dialog i avtalsgrupp
 "Risk för bristande
 uppfyllnad av
 kommunens
-hållbarhetskrav för inköp.","Granskning av avtal som
+hållbarhetskrav för inköp.",Service,"Granskning av avtal som
 inte innehåller
 hållbarhetskrav i nivå
-Service med kommunens
+med kommunens
 ambitioner.
 Granskningsperiod jan
 2024-okt 2024.","Uppdatera

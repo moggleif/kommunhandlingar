@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c975e/17794527084
 sha256: 7fe3adb6d9ca229c671a10c214a869678cc503385ba8f8840d5044e8ccbd0f20
 bytes: 1350624
 sidor: 21
-hamtad: 2026-11-08T08:10:43+00:00
-konverterad: 2026-11-08T08:11:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:01:31+00:00
+konverterad: 2026-11-17T23:02:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -150,7 +150,7 @@ Redovisning av inkomna skrivelser till nämnd 2026 s .... 6
 Resultat vårdnadshavareenkät förskola 2026 ..ssssesssssersrsrssrersssereressnrrrernrrs 7
 § 52 Dnr FG-2026-00231
 
-Uppföljning och prognos Per aPpril..sssssssssssrrssssrersrsrrerersrrrreserrrnrssrrnrerrrrnr er nn 8
+Uppföljning och prognos Per aPpril.ssessssssserrsrrsrersrsrrerersrrnressrrrnrssrrrrerrrrrr rr nn 8
 § 53 Dnr FG-2026-00274
 
 Användande av resultatfond, två-lärarsyStelm .... 9
@@ -182,7 +182,7 @@ gällande permanent utökning av barnantal på förskolan Myrstacken .... 16
 
 Entledigande och fyllnadsval till arbetsutskottet för Förskola & grundskola.
 
-isereseeesrerssrersreresrrrerer ere reser rss r reser r ers ser RR ERS RR R REK RSKR RNE K KRK RADER RR RR KRK RR er rr e rn 17
+eseresrersrerssrersreresrrrsrrrssrr reser rss r reser sees ser RR ERS R KRA REK SRK RARE K RR KKR REK KRK RR RK RR error rn 17
 § 61 Dnr FG-2026-00018
 
 Delegeringsbeslut antagna av nämnden 2026 .... 18

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1587654f19ddca7e89d7c423/1777959573
 sha256: 7ec563aa305bbd0f8e69043e232099b83d7fb9081aa4c19a9734b0640e21395d
 bytes: 7050812
 sidor: 121
-hamtad: 2026-11-08T09:11:52+00:00
-konverterad: 2026-11-08T09:17:29+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:54:16+00:00
+konverterad: 2026-11-17T23:58:53+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -4573,8 +4573,6 @@ lärarna att bristande tillgång till ytterligare personal i klassrummen är en
 anledning till att lärarna inte kan göra de extra anpassningar som eleverna
 är i behov av. Det gäller exempelvis lästräning och undervisning i mindre
 
-grupp.
-
 Rektorn säger att hen delar elevhälsans och lärarnas bedömning om att det
 finns behov av stöd genom undervisning i mindre grupp i ett ämne i klassen
 med 12-15 elever som riskerar F. Rektorn beskriver att de arbetar med att
@@ -5100,7 +5098,7 @@ förskola, pedagogisk omsorg och fritidshem
 
 Ärendenummer: 4269022 | Inskickat av: ANNA EVA KRISTINA CLINGSTON | 2026-03-18 11:59
 
-Y'1. Information om verksamheten
+Y'I1. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -5339,7 +5337,7 @@ förskola, pedagogisk omsorg och fritidshem
 
 Ärendenummer: 4273146 | Inskickat av: GUSTAF RÖNNEKLEV | 2026-04-16 13:23
 
-Y'1. Information om verksamheten
+Y'I1. Information om verksamheten
 
 Uppgifter om företaget
 

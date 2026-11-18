@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4a1683f319957f8b68c4024a/1758263545
 sha256: 6998a3ff1f34913c984908eff01ed12be9be74d7b4563b4ee117197bea96cfbf
 bytes: 145383386
 sidor: 607
-hamtad: 2026-11-08T11:08:57+00:00
-konverterad: 2026-11-08T11:15:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:36:47+00:00
+konverterad: 2026-11-18T01:42:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok]
 tal_obekraftade: [304, 305, 452, 457, 462, 464, 466, 471, 472, 502]
 figurer: [5, 6, 55, 56, 256, 267, 268, 275, 276, 277, 278, 279, 281, 282, 283, 284, 400, 432, 433, 434, 435, 436, 437, 438, 439, 447, 450, 451, 452, 453, 456, 457, 458, 459, 461, 462, 463, 464, 465, 466, 467, 468, 469, 471, 472, 473, 474, 475, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 503, 504, 505, 508, 509, 510, 511, 515, 520, 521, 522, 523, 528, 529, 530, 531, 532, 534, 540, 544, 552, 553, 567]
 tolkade: []
@@ -435,14 +435,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -664,7 +663,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 16 -->
 
@@ -724,7 +724,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 17 -->
 
@@ -880,8 +881,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                700 kr
-
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
 Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
@@ -889,9 +888,6 @@ Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,33 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -921,9 +917,16 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
 [Tabell 20-1](handlingar.tabeller/20-1.csv)
 
-| b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
+| a) | Årlig avgift per nyckel | 700 kr |
 | --- | --- | --- |
+| b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
 | c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,33 kronor |
+| --- | --- |
+| dagvatten |  |
 
 <!-- sida 21 -->
 
@@ -933,7 +936,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1180 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -961,8 +963,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (15)
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2810 kr/st |
+| Vinterförvaring | 1180 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2810 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5620 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2810 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 220 kr/vecka |
@@ -1184,14 +1187,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -1413,7 +1415,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 31 -->
 
@@ -1473,7 +1476,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 32 -->
 
@@ -1614,8 +1618,6 @@ Om huvudmannen har medgivit att spillvattenmängd avleds till dagvattenledning
 14.8
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                700 kr
-
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -1625,8 +1627,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
+| a) | Årlig avgift per nyckel | 700 kr |
 | --- | --- | --- |
+| b) | En avgift per m³ hämtat dricksvatten | 28,10 kr |
 | c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
 
 <!-- sida 35 -->
@@ -1635,9 +1638,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,33 kronor
-dagvatten
 
 § 16
 
@@ -1666,6 +1666,12 @@ En Grundavgift per år 14.1 a) 510 kr 510 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,33 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 36 -->
 
 § 18
@@ -1674,7 +1680,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1180 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -1702,8 +1707,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (15)
 
 [Tabell 36-1](handlingar.tabeller/36-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2810 kr/st |
+| Vinterförvaring | 1180 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2810 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5620 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2810 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 220 kr/vecka |
@@ -1955,32 +1961,13 @@ fiberanslutning. Effekt: Genom projektet "Kungsbacka landsbygd" har bredbandsver
 ekonomiskt stöd från Post- och telestyrelsen för att bygga ut fiber till otillgängligt geografiska områden.
 Detta möjliggör för företagare som efterfrågat bredbandsanslutning att ansluta sig.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-
-```osaker-tabell
-                               2022   2023    2024    2025    2025
-Antal påbörjade bostäder       848     165     213
-
-Antal färdigställda bostäder   363     319     324
-```
-
-Anmälda brott per invånare (antal/100 000
-5 691   6 475   6 541
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %   91 %    88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %   76 %    76 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %           95 %
-totalt - helhetssyn
 2.1.1 Vi erbjuder en digital sammanhållen samhällbyggnadsprocess i Kungsbacka
 Beslutats av
+
 Nämnd
 Nämndens bedömning
 Vi har inte nått målet men är på rätt väg
+
 Kommentar på nämndmål
 En digital sammanhållen samhällsbyggnadsprocess förutsätter smidigt samarbete över förvaltnings- och
 nämndgränserna, medskapande med invånarna och företagarna, nyttjande av digital teknik och en god
@@ -1993,6 +1980,17 @@ också ingår som delprocesser i ODS men på detaljnivå:
 •  Förbättrad dokumentation och ekonomistyrning av förvaltningens projekt i projektverktyget
 
 6
+
+[Tabell 43-1](handlingar.tabeller/43-1.csv)
+
+| Indikatorer | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 691 | 6 475 | 6 541 |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |  |
 
 <!-- sida 44 -->
 
@@ -2814,34 +2812,19 @@ Delårsrapport augusti 2025
 
 Utfall och prognos
 
-Bokslut Budget Prognos  Budget-  Delår  Delår  Avvikelse
-Miljoner kronor
-2024    2025   2025   avvikelse 2024    2025    delår
-Drift
-Skattefinansierad -243,1 -268,0 -265,9   2,1   -167,9 -173,1    -5,2
-verksamhet
-Drift Vatten och
--10,3    0,0     0,0      0,0    -7,4    8,4     15,8
-Avlopp
-Drift Avfall och
--2,7    0,0     3,9      3,9     1,8    6,0      4,2
-Återvinning
-Drift Kungsbacka
--1,3    0,0     -3,8    -3,8    -1,3    -4,8    -3,5
-Bredbandsnät
-Periodens
--257,4 -268,0  -265,8     2,2   -174,8 -163,5    11,3
-resultat
 För Kungsbacka Bredband är budget och prognos för 2025 inklusive bokslutsdisposition på -1,2 miljoner kronor, vilket innebär att årets
 budgeterade och prognosticerade resultat är ett underskott på 5,0 miljoner kronor.
+
 Drift Skattefinansierad verksamhet: redovisar ett utfall för perioden om -173,1 miljoner kronor. Detta är 6
 miljoner kronor lägre än budget.
+
 Helårsprognosen för drift skattefinansierad verksamhet är året är en underförbrukning mot budget om 2,1
 miljoner kronor. Detta innebär en förändring sedan apriluppföljningen. Denna förändring härrör från lägre
 kostnader för:
 •  personalkostnader (4,4 miljoner kronor)
 •  kapitalkostnader (5,8 miljoner kronor)
 •  diverse verksamhetskostnader (0,4 miljoner kronor)
+
 Ökade kostnader härrör från:
 •  lägre intäkter än prognosticerat (8,5 miljoner kronor). Detta beror på att färre schaktåterställningar har
 utförts och kostnader förvaltningen har kunnat vidarefakturera har därför varit lägre.
@@ -2859,6 +2842,16 @@ Verksamhetskostnader är lägre än budget på grund av att elavgifter har varit
 skyfall har kommit under första halvåret. På grund av säkerhetsläget har nämnden ökade kostnader för
 
 24
+
+[Tabell 61-1](handlingar.tabeller/61-1.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Prognos<br>2025 | Budget-<br>avvikelse | Delår<br>2024 | Delår<br>2025 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Drift<br>Skattefinansierad<br>verksamhet | -243,1 | -268,0 | -265,9 | 2,1 | -167,9 | -173,1 | -5,2 |
+| Drift Vatten och<br>Avlopp | -10,3 | 0,0 | 0,0 | 0,0 | -7,4 | 8,4 | 15,8 |
+| Drift Avfall och<br>Återvinning | -2,7 | 0,0 | 3,9 | 3,9 | 1,8 | 6,0 | 4,2 |
+| Drift Kungsbacka<br>Bredbandsnät | -1,3 | 0,0 | -3,8 | -3,8 | -1,3 | -4,8 | -3,5 |
+| Periodens<br>resultat | -257,4 | -268,0 | -265,8 | 2,2 | -174,8 | -163,5 | 11,3 |
 
 <!-- sida 62 -->
 
@@ -2893,16 +2886,6 @@ apriluppföljningen på grund av lägre intäkter.
 
 5.2.1 Uppföljning Drift Skattefinansierad verksamhet
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2024   2025   s 2025 vikelse 2024   2025   e delår
-Verksamhetens intäkter 94,1 88,3  79,8    -8,5  54,1    51,4    -2,7
-Verksamhetens kostnader -337,2 -356,3 -345,7 10,6 -222,0 -224,5 -2,5
-Varav personalkostnader -85,7 -95,2 -90,8 4,4   -57,8   -58,4   -0,6
-Varav
--140,1  -142,7 -142,3   0,4   -89,4   -91,4   -2,0
-verksamhetskostnader
-
 25
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
@@ -2915,19 +2898,21 @@ verksamhetskostnader
 | Drift Kungsbacka<br>Bredband | 0,0 | -3,8 | -3,8 |
 | Totalt | 3,0 | 2,2 | -0,8 |
 
+[Tabell 62-63-2](handlingar.tabeller/62-63-2.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Progno<br>s 2025 | Budgetav<br>vikelse | Delår<br>2024 | Delår<br>2025 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 94,1 | 88,3 | 79,8 | -8,5 | 54,1 | 51,4 | -2,7 |
+| Verksamhetens kostnader | -337,2 | -356,3 | -345,7 | 10,6 | -222,0 | -224,5 | -2,5 |
+| Varav personalkostnader | -85,7 | -95,2 | -90,8 | 4,4 | -57,8 | -58,4 | -0,6 |
+| Varav<br>verksamhetskostnader | -140,1 | -142,7 | -142,3 | 0,4 | -89,4 | -91,4 | -2,0 |
+| Varav kapitalkostnader | -111,4 | -118,4 | -112,6 | 5,8 | -74,8 | -74,7 | 0,1 |
+| Periodens resultat | -243,1 | -268,0 | -265,9 | 2,1 | -167,9 | -173,1 | -5,2 |
+
 <!-- sida 63 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2025
-
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-
-```osaker-tabell
-                  2024   2025   s 2025 vikelse 2024   2025   e delår
-Varav kapitalkostnader -111,4 -118,4 -112,6 5,8 -74,8   -74,7    0,1
-Periodens resultat -243,1 -268,0 -265,9   2,1  -167,9  -173,1   -5,2
-```
 
 Analys och kommentar
 Prognosen för 2025 är en underförbrukning mot budget om 2,1 miljoner kronor. Detta innebär en förändring
@@ -2985,18 +2970,6 @@ Delårsrapport augusti 2025
 
 5.2.2 Uppföljning Drift VA
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2024   2025   s 2025 vikelse 2024   2025   e delår
-Verksamhetens intäkter 224,1 261,6 259,5  -2,1 151,1   171,7    20,6
-Verksamhetens kostnader -234,4 -261,6 -259,5 2,1 -158,5 -163,3  -4,8
-
-varav personalkostnad -44 -46,1  -42,4    3,7   -31,3   -28,5    2,8
-varav
--93,2  -105,0 -103,9   1,1   -62,9   -64,5   -1,6
-verksamhetskostnad
-varav kapitalkostnad -97,2 -107,5 -110,2  -2,7  -64,3   -70,3   -6,0
-Periodens resultat -10,3   0,0     0,0    0,0    -7,4    8,4    15,8
 Analys och kommentar
 Jämförelse med samma period föregående år
 
@@ -3035,6 +3008,17 @@ Intäkterna visar ett underskott på 2,1 miljoner kronor. Försäljningen av vat
 
 [Tabell 64-1](handlingar.tabeller/64-1.csv)
 
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Progno<br>s 2025 | Budgetav<br>vikelse | Delår<br>2024 | Delår<br>2025 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 224,1 | 261,6 | 259,5 | -2,1 | 151,1 | 171,7 | 20,6 |
+| Verksamhetens kostnader | -234,4 | -261,6 | -259,5 | 2,1 | -158,5 | -163,3 | -4,8 |
+| varav personalkostnad | -44 | -46,1 | -42,4 | 3,7 | -31,3 | -28,5 | 2,8 |
+| varav<br>verksamhetskostnad | -93,2 | -105,0 | -103,9 | 1,1 | -62,9 | -64,5 | -1,6 |
+| varav kapitalkostnad | -97,2 | -107,5 | -110,2 | -2,7 | -64,3 | -70,3 | -6,0 |
+| Periodens resultat | -10,3 | 0,0 | 0,0 | 0,0 | -7,4 | 8,4 | 15,8 |
+
+[Tabell 64-2](handlingar.tabeller/64-2.csv)
+
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | Vatten & Avlopp | 2,0 | 0,0 | -2,0 |
@@ -3057,22 +3041,6 @@ rondering och säkerhetsskydd kring skyddsobjekten.
 VA-verksamheten prognosticerar inget underskott och har ingen negativ fond som kräver åtgärder.
 
 5.2.3 Uppföljning Drift Avfall & Återvinning
-
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-
-```osaker-tabell
-                  2024   2025   s 2025 vikelse 2024   2025   e delår
-Verksamhetens intäkter 115,2 131,1 128,9  -2,2  76,9    87,8    10,9
-Verksamhetens kostnader -117,9 -131,1 -125,0 6,1 -75,1  -81,8   -6,7
-varav personalkostnad -4,9 -5,1   -4,9    0,2    -3,4   -3,2     0,2
-```
-
-varav
--111,0  -120,4 -117,8   2,6   -70,3   -77,2   -6,9
-verksamhetskostnad
-varav kapitalkostnad -2,0  -5,6   -2,4    3,2    -1,4   -1,4     0,0
-Periodens resultat  -2,7   0,0     3,9    3,9    1,8     6,0     4,2
 
 Analys och kommentar
 Jämförelse med samma period föregående år
@@ -3098,6 +3066,17 @@ Personalkostnaderna ligger under budget på grund av vakans och föräldraledigh
 Verksamhetskostnader:
 
 28
+
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Progno<br>s 2025 | Budgetav<br>vikelse | Delår<br>2024 | Delår<br>2025 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 115,2 | 131,1 | 128,9 | -2,2 | 76,9 | 87,8 | 10,9 |
+| Verksamhetens kostnader | -117,9 | -131,1 | -125,0 | 6,1 | -75,1 | -81,8 | -6,7 |
+| varav personalkostnad | -4,9 | -5,1 | -4,9 | 0,2 | -3,4 | -3,2 | 0,2 |
+| varav<br>verksamhetskostnad | -111,0 | -120,4 | -117,8 | 2,6 | -70,3 | -77,2 | -6,9 |
+| varav kapitalkostnad | -2,0 | -5,6 | -2,4 | 3,2 | -1,4 | -1,4 | 0,0 |
+| Periodens resultat | -2,7 | 0,0 | 3,9 | 3,9 | 1,8 | 6,0 | 4,2 |
 
 <!-- sida 66 -->
 
@@ -3128,22 +3107,6 @@ budgetåret 2026. I augustis delårsrapport har vi rapporterat en prognos om 3,9
 vid årets slut.
 5.2.4 Uppföljning Drift Kungsbacka Bredband
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-
-```osaker-tabell
-                  2024   2025   s 2025 vikelse 2024   2025   e delår
-Verksamhetens intäkter 40,8 45,8  41,0    -4,8  26,6    24,5    -2,1
-Verksamhetens kostnader -42,1 -45,8 -44,8 1,0   -27,9   -29,3   -1,4
-
-varav personalkostnad -4,8 -5,4   -4,8    0,6    -3,1   -3,2    -0,1
-```
-
-varav
--8,4   -8,8   -9,2    -0,4   -5,6   -5,7    -0,1
-verksamhetskostnad
-varav kapitalkostnad -29,0 -31,6 -30,8    0,8   -19,2   -20,4   -1,2
-Periodens resultat  -1,3   0,0    -3,8    -3,8   -1,3   -4,8    -3,5
 För Kungsbacka Bredband är budget och prognos för 2025 inklusive bokslutsdisposition på -1,2 miljoner kronor, vilket innebär att årets
 budgeterade och prognosticerade resultat är ett underskott på 5,0 miljoner kronor.
 Sammanfattning
@@ -3163,6 +3126,17 @@ Detta har gjort att intäkterna i ett område inte kommit igång som planerat, o
 | Nämnd/förvaltning | Helårsprognos delår 1 | Helårsprognos delår 2 | Förändring prognos |
 | --- | --- | --- | --- |
 | Avfall & Återvinning | 1,0 | 3,9 | 2,9 |
+
+[Tabell 66-2](handlingar.tabeller/66-2.csv)
+
+| Miljoner kronor | Bokslut<br>2024 | Budget<br>2025 | Progno<br>s 2025 | Budgetav<br>vikelse | Delår<br>2024 | Delår<br>2025 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Verksamhetens intäkter | 40,8 | 45,8 | 41,0 | -4,8 | 26,6 | 24,5 | -2,1 |
+| Verksamhetens kostnader | -42,1 | -45,8 | -44,8 | 1,0 | -27,9 | -29,3 | -1,4 |
+| varav personalkostnad | -4,8 | -5,4 | -4,8 | 0,6 | -3,1 | -3,2 | -0,1 |
+| varav<br>verksamhetskostnad | -8,4 | -8,8 | -9,2 | -0,4 | -5,6 | -5,7 | -0,1 |
+| varav kapitalkostnad | -29,0 | -31,6 | -30,8 | 0,8 | -19,2 | -20,4 | -1,2 |
+| Periodens resultat | -1,3 | 0,0 | -3,8 | -3,8 | -1,3 | -4,8 | -3,5 |
 
 <!-- sida 67 -->
 
@@ -12905,8 +12879,6 @@ pilotanläggning
 
 2025-04-25
 
-Au Fv Å Å Ne
-
 Elisabeth Sahlsten, Maria Losman, Clas Rosander och Karin Färnlöf Clarin
 
 <!-- sida 306 -->
@@ -14121,17 +14093,23 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        23 (33)
 
 [Tabell 332-335-1](handlingar.tabeller/332-335-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till<br>exempel för asbest (se<br>nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Bygg- och rivningsavfall i<br>form av schaktmassor som<br>lyder under kommunalt<br>ansvar |  |  | Hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br>•Färg<br>•Lösningsmedel<br>•Kemikalier<br>•Ljuskällor<br>•Bensin och diesel<br>•Bekämpningsmedel<br>• Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med:<br>(1)andra slag av farligt<br>avfall,<br>(2)annat avfall eller<br>(3)andra ämnen eller<br>material. | Farligt avfall lämnas<br>på<br>återvinningscentral.<br>Hämtning av farligt<br>avfall från fastighet<br>kan beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
 | Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som: | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i konsument-<br>förpackning lämnas<br>av privatpersoner på<br>återvinningscentral. |
 |  | Hindrar (1)<br>regenerering av<br>spilloljan, eller<br>(2)annan material-<br>återvinning som ger<br>likvärdiga eller bättre<br>miljöeffekter än<br>regenerering. |  |  |
 | Grovavfall | Grovavfall som utgör<br>kommunalt avfall<br>under kommunalt<br>ansvar och som på<br>grund av avfallets<br>egenskaper behöver<br>hanteras separat från<br>annat kommunalt<br>avfall och avfall<br>under kommunalt<br>ansvar.<br>Avfallet ska sorteras<br>enligt gällande<br>sorterings-<br>instruktioner på ÅVC. | Grovavfall som hämtas<br>av renhållarens<br>utförare ska i den mån<br>det är möjligt buntas<br>eller förpackas i<br>lämpligt emballage.<br>Längder ska vara<br>maximalt 1,2 meter<br>med en största volym<br>av 1 kubikmeter och<br>med en vikt av högst<br>30 kilogram/kolli.<br>Sortering ska ske<br>enligt kommunens<br>instruktioner.<br>Emballaget ska<br>märkas med<br>”grovavfall” och<br>respektive fraktion. | Grovavfall lämnas på<br>återvinningscentral.<br>På<br>återvinningscentralen<br>ska avfallet sorteras<br>och lämnas enligt<br>instruktioner på plats.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Annan transportör<br>godtas enligt 15a§. |
 | Restavfall<br>(Sorterat brännbart kärl-<br>och säckavfall som faller<br>under kommunalt ansvar) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Ska emballeras i<br>lämpligt material så att<br>avfallet inte kan<br>spridas eller damma<br>vid tömning. | Hämtning sker enligt<br>bilaga 2. |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel däremot<br>inte fällda träd eller avfall<br>som uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats. | Komposterbart<br>trädgårdsavfall<br>lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>komposterbart<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>komposterbart<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§<br>Trädgårdsavfall från<br>den egna fastigheten<br>får komposteras på<br>fastigheten.<br>Särskilda regler<br>gäller för avfall som<br>innehåller invasiva<br>växter. |
 
 <!-- sida 333 -->
@@ -14175,8 +14153,10 @@ Kungsbacka kommun            Lokala avfallsföreskrifter        29 (33)
 
 [Tabell 338-339-1](handlingar.tabeller/338-339-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel<br>från butik ska av<br>avfallslämnaren<br>förpackas i särskild<br>påse, säck eller<br>lämnas i tank av typ<br>som godkänts av<br>avfallsansvariga<br>nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör<br>godtas enligt 15a§ |

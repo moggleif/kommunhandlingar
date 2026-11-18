@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4d9a7d041932991fe6062e64/1732263642
 sha256: af8835404691a9cbd829bc344a23d3293d3d4a327c3b9776e3e43b0d76373468
 bytes: 3251962
 sidor: 15
-hamtad: 2026-11-08T18:35:51+00:00
-konverterad: 2026-11-08T18:36:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:59:00+00:00
+konverterad: 2026-11-18T02:59:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -176,7 +176,7 @@ Anmälan av ordförandebeslUt.......ssssserssssrrrssrrrrsrrrrrerrrrerrrrrrrrrrrr
 Anmälan av delegationsbeslut nov 2024... ..ssmmrssssrrsrssssrrrrrsrrrrrsssrnrsssrrrrerrnrt 14
 § 123 Dnr KFT-2024-00333
 
-Förvaltningschefen infOrmerals...ssseeserrssrrsserrrrrrrrrrerrrrnrrnrnrrrrrrrrrnrrrrrr ere ann 15
+Förvaltningschefen infOrmerals..ssssesssrrssrssserererrrrrreerernrrnrnrrrrrrrrrnrrrrrrrrernn nn 15
 
 2 (15)
 

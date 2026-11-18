@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2b8a29c818ecba375e91af02/1713767052
 sha256: 3dc5b41d56ee881f812045cce5a2511c4b69d1c63c39d7f1f605f30fdd2b0e59
 bytes: 3303932
 sidor: 261
-hamtad: 2026-11-08T12:10:06+00:00
-konverterad: 2026-11-08T12:10:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T02:34:24+00:00
+konverterad: 2026-11-18T02:35:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -5360,7 +5360,7 @@ Boverket
 
 [Tabell 109-1](handlingar.tabeller/109-1.csv)
 
-| A1-A5 B2, B4, B6 C1-C4 |  |  |  |
+|  | A1-A5 | B2, B4, B6 | C1-C4 |
 | --- | --- | --- | --- |
 | Bärande konstrukt-<br>ionsdelar |  |  |  |
 | Klimatskärm och in-<br>nerväggar |  |  |  |
@@ -12709,7 +12709,7 @@ för övriga byggnader om metoden ska följas.
 
 [Tabell 250-1](handlingar.tabeller/250-1.csv)
 
-| (kg CO e/BTA, Fler-bo- Småhus Kontor Skolor Försko-<br>2<br>systemgräns 2027, A1- stads- lor<br>A5) hus |  |  |  |  |  |  |
+| (kg CO e/BTA,<br>2<br>systemgräns 2027, A1-<br>A5) |  | Fler-bo-<br>stads-<br>hus | Småhus | Kontor | Skolor | Försko-<br>lor |
 | --- | --- | --- | --- | --- | --- | --- |
 | Referens-<br>värden,<br>KTH-rap-<br>port vers-<br>ion 2,<br>våren 2023. | Median | 373 | 165 | 383 | 379 | 326 |
 |  | Medel | 368 | 165 | 374 | 384 | 339 |

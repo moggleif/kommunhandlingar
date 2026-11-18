@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001a11/17924802878
 sha256: 847519c99690c8b4e6ce42d7d8970ad2360fc6f78f0f21c55b1788a47f39cc2d
 bytes: 5068108
 sidor: 93
-hamtad: 2026-11-08T18:32:17+00:00
-konverterad: 2026-11-08T18:32:38+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-18T02:55:37+00:00
+konverterad: 2026-11-18T02:55:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [12, 17, 20, 24]
 figurer: [4, 16, 19, 23, 27, 42]
 tolkade: []
@@ -2379,116 +2379,44 @@ Nämndbudget 2027
 
 9.1 Resursmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Kostnad
-för personlig
-assistans per
-timma i      462       463       461
-Kungsbacka
-kommun i
-egen regi
-Kommunfull
-mäktige  Försäkringsk
-assans andel
-av
-kostnadstäck 43 %      41 %     45 %
-ningen för
-personlig
-assistans för
-egen regi
-
 9.2 Prestationsmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-Fördelning
-mellan
-Kommunfull
-serviceboend 30 %      30 %     32 %
-mäktige
-e och
-gruppboende
-(%)
-Antal
-personer
-som har
-592       598       610
-LSS-insats
-verkställd
-den 1 okt
-Antal
-dygn i
-institutionspl
-Nämnd                 2 875    2 094     1 976
-acering
-vuxen, köpta
-platser
-Antal
-dygn i
-institutionspl
-5 433    5 052     5 551
-acering barn
-och unga,
-köpta platser
 19
+
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kommunfull<br>mäktige | Kostnad<br>för personlig<br>assistans per<br>timma i<br>Kungsbacka<br>kommun i<br>egen regi | 462 | 463 | 461 |  |  |
+|  | Försäkringsk<br>assans andel<br>av<br>kostnadstäck<br>ningen för<br>personlig<br>assistans för<br>egen regi | 43 % | 41 % | 45 % |  |  |
+
+[Tabell 59-60-2](handlingar.tabeller/59-60-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kommunfull<br>mäktige | Fördelning<br>mellan<br>serviceboend<br>e och<br>gruppboende<br>(%) | 30 % | 30 % | 32 % |  |  |
+| Nämnd | Antal<br>personer<br>som har<br>LSS-insats<br>verkställd<br>den 1 okt | 592 | 598 | 610 |  |  |
+|  | Antal<br>dygn i<br>institutionspl<br>acering<br>vuxen, köpta<br>platser | 2 875 | 2 094 | 1 976 |  |  |
+|  | Antal<br>dygn i<br>institutionspl<br>acering barn<br>och unga,<br>köpta platser | 5 433 | 5 052 | 5 551 |  |  |
+|  | Antal<br>dygn i<br>stödboende<br>barn och<br>unga, köpta<br>platser | 4 125 | 2 357 | 2 444 |  |  |
+|  | Antal<br>dygn i<br>stödboende<br>missbruk,<br>köpta platser | 2 874 | 5 102 | 3 831 |  |  |
 
 <!-- sida 60 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2027
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-Antal
-dygn i
-stödboende
-4 125    2 357     2 444
-barn och
-unga, köpta
-platser
-Antal
-dygn i
-stödboende   2 874    5 102     3 831
-missbruk,
-köpta platser
+
 9.3 Effektmått
 
-Delområde Nyckeltal Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-Ej
-återaktualiser
-ade barn 0-
-12 år ett år
-77 %      74 %     74 %
-efter avslutad
-utredning
-eller insats,
-andel %
-Ej
-återaktualiser
-ade
-ungdomar
-13-20 år ett
-73 %      73 %     75 %
-år efter
-avslutad
-Nämnd
-utredning
-eller insats,
-andel (%)
-Ej
-återaktualiser
-ade vuxna
-med
-missbrukspro
-blem eller
-56 %      52 %     49 %
-insatser 21
-\+ ett år efter
-avslutad
-utredning
-eller insats,
-andel %
-
 20
+
+[Tabell 60-1](handlingar.tabeller/60-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Nämnd | Ej<br>återaktualiser<br>ade barn 0-<br>12 år ett år<br>efter avslutad<br>utredning<br>eller insats,<br>andel % | 77 % | 74 % | 74 % |  |  |
+|  | Ej<br>återaktualiser<br>ade<br>ungdomar<br>13-20 år ett<br>år efter<br>avslutad<br>utredning<br>eller insats,<br>andel (%) | 73 % | 73 % | 75 % |  |  |
+|  | Ej<br>återaktualiser<br>ade vuxna<br>med<br>missbrukspro<br>blem eller<br>insatser 21<br>+ ett år efter<br>avslutad<br>utredning<br>eller insats,<br>andel % | 56 % | 52 % | 49 % |  |  |
 
 <!-- sida 61 -->
 
@@ -2523,41 +2451,34 @@ förvaltningens attraktivitet som arbetsgivare.
 
 10.2 Personalmått
 
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
-
-```osaker-tabell
-Andel heltid         83,7 %    84,5 %    87,6 %
-
-Sjukfrånvaro Totalt  10,2 %     10 %      9 %
-Sjukfrånvaro Kvinnor 10,3 %    10,2 %     9 %
-
-Sjukfrånvaro Män      9,4 %    9,4 %      8 %
-Korttidssjukfrånvaro  4,5 %    4,4 %      4 %
-```
-
-Korttidssjukfrånvaro Kvinnor 4,4 % 4,3 %  4 %
-
-Korttidssjukfrånvaro Män 4,7 % 4,7 %      4 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 43,3 % 41,8 % 40 %
-mer
-Anställda totalt      813       832       863
-
-Anställda andel kvinnor 78,7 % 78,7 %    79,1 %
-Anställda andel män  21,3 %    21,3 %    20,9 %
-Antal medarbetare per
-19,2      20,2      17,3
-enhetschef
-Medelålder             46       46        45
-Personalomsättning   13,9 %     11 %     12 %
-
 21
+
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
+
+| Nyckeltal | Utfall 2023 | Utfall 2024 | Utfall 2025 | Budget 2026 | Budget 2027 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 83,7 % | 84,5 % | 87,6 % |  |  |
+| Sjukfrånvaro Totalt | 10,2 % | 10 % | 9 % |  |  |
+| Sjukfrånvaro Kvinnor | 10,3 % | 10,2 % | 9 % |  |  |
+| Sjukfrånvaro Män | 9,4 % | 9,4 % | 8 % |  |  |
+| Korttidssjukfrånvaro | 4,5 % | 4,4 % | 4 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 4,4 % | 4,3 % | 4 % |  |  |
+| Korttidssjukfrånvaro Män | 4,7 % | 4,7 % | 4 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 43,3 % | 41,8 % | 40 % |  |  |
+| Anställda totalt | 813 | 832 | 863 |  |  |
+| Anställda andel kvinnor | 78,7 % | 78,7 % | 79,1 % |  |  |
+| Anställda andel män | 21,3 % | 21,3 % | 20,9 % |  |  |
+| Antal medarbetare per<br>enhetschef | 19,2 | 20,2 | 17,3 |  |  |
+| Medelålder | 46 | 46 | 45 |  |  |
+| Personalomsättning | 13,9 % | 11 % | 12 % |  |  |
+| Långtidssjukfrånvaro | 5,7 % | 5,7 % | 5 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 5,9 % | 5,9 % | 5 % |  |  |
+| Långtidssjukfrånvaro Män | 4,7 % | 4,8 % | 4 % |  |  |
 
 <!-- sida 62 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2027
-Nyckeltal           Utfall 2023 Utfall 2024 Utfall 2025 Budget 2026 Budget 2027
 
 10.3 Arbetsmiljö
 
@@ -2605,13 +2526,6 @@ genomförs tillsammans med företagshälsovården och syftar till att stärka h�
 arbetsliv.
 
 22
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| Långtidssjukfrånvaro | 5,7 % | 5,7 % | 5 % |
-| --- | --- | --- | --- |
-| Långtidssjukfrånvaro Kvinnor | 5,9 % | 5,9 % | 5 % |
-| Långtidssjukfrånvaro Män | 4,7 % | 4,8 % | 4 % |
 
 <!-- sida 63 -->
 
@@ -2698,110 +2612,93 @@ Nämndbudget 2027
 
 12.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-
-Attestreglemente                                  KF 2015-03-10 § 30
-Barnets rätt                                      KF 2014-11-11 §
-Konkurrensprövning                                KF 2011-02-01 § 8
-
-Vision 2030                                       KF 2023-06-14 § 73
-Kommunikation                                     KF 2019-12-10 § 194
-Fordon och arbetsmaskiner för kommungemensam hantering, policy KF 2023-10-10 §157
-
-Inköp, policy                                     KF 2026-05-05, § 80
-Lokaler och internhyra                            KF 2014-11-11 § 153
-
-Konkurrensprövning - tillämpningsanvisningar      KF 2011-02-01 § 8
-Kommunalt bostadstillägg i bostad med särskild service KF §100/16
-Integritetspolicy                                 KF 2021-11-09 § 142
-
-Reglemente för nämnden för Individ & Familjeomsorg KF 2018-06-14 § 107
-Lokala ordningsföreskrifter                       KF 2020-02-04 § 8
-
-Klimatstrategi                                    KF 2022-05-10 § 77
-Invånardialog                                     KF 2014-10-14 § 119
-Privata utförare                                  KF 2024-04-09 § 60
-
-Inköp; Direktupphandling, riktlinjer              KF 2026-05-05, § 80
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-Arbetsgivarpolicy                                 KF 2019-06-11 § 86
-
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Inköp, riktlinjer                                 KF 2026-05-05, § 80
-
-Personalföreträdare i nämnder                     KF 2024-02-06 § 8
-Personuppgifter, riktlinjer                       KF 2024-03-05 § 33
-Omställningstöd, pension och familjeskydd för förtroendevalda, lokala
-KF 2025-10-07, § 195
-bestämmelser (OPF KR-25)
-Reglemente nämnden för Individ & Familjeomsorg    KF § 50/16
-Fordonshantering, riktlinjer                      KF 2023-10-10 §157
-
 12.1.2 Kommungemensamma regler
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-
 25
+
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnets rätt | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon och arbetsmaskiner för kommungemensam hantering, policy | KF 2023-10-10 §157 |
+| Inköp, policy | KF 2026-05-05, § 80 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Kommunalt bostadstillägg i bostad med särskild service | KF §100/16 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Individ & Familjeomsorg | KF 2018-06-14 § 107 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Inköp; Direktupphandling, riktlinjer | KF 2026-05-05, § 80 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Inköp, riktlinjer | KF 2026-05-05, § 80 |
+| Personalföreträdare i nämnder | KF 2024-02-06 § 8 |
+| Personuppgifter, riktlinjer | KF 2024-03-05 § 33 |
+| Omställningstöd, pension och familjeskydd för förtroendevalda, lokala<br>bestämmelser (OPF KR-25) | KF 2025-10-07, § 195 |
+| Reglemente nämnden för Individ & Familjeomsorg | KF § 50/16 |
+| Fordonshantering, riktlinjer | KF 2023-10-10 §157 |
+
+[Tabell 65-66-2](handlingar.tabeller/65-66-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+| Tjänsteresor, regler | Kommundirektör Ann-<br>Charlotte Järnström 2019-<br>08-20 |
+| AI, Artificiell Intelligens, regler | Digitaliseringschef Iwona<br>Carlsson 2024-12-02 |
+| Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter | Kommunikationschef<br>Annika Jardin 2024-06-01 |
 
 <!-- sida 66 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2027
-Styrdokument                                      Beslutande paragraf/År
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-Kommundirektör Ann-
-Tjänsteresor, regler                              Charlotte Järnström 2019-
-08-20
-Digitaliseringschef Iwona
-AI, Artificiell Intelligens, regler
-Carlsson 2024-12-02
-Kommunikationschef
-Publicering av bilder, filmer och ljudupptagningar som utgör personuppgifter
-Annika Jardin 2024-06-01
+
 12.1.3 Styrdokument beslutade av nämnden för Individ & Familjeomsorg
-Styrdokument                                      Beslutande paragraf/År
-Delegeringsförteckning                            NIF § 33/2026
-
-Konkurrensutsättningsplan                         NIF § 170/2025
-Arkivredovisning/Informationsredovisning          NIF § 52/2026
-Riktlinje - Ledningssystem för systematiskt kvalitetsarbete NIF § 167/2023
-
-Riktlinjer för verksamhetsbidrag                  NIF § 37/2016
-Internkontrollplan                                NIF § 147/2025
-
-Lokalbehov 2027-2031 utblicksår 2032-2036         NIF § 127/2025
-Riktlinje för systematisk individuppföljning      NIF § 8/2026
-Nämndbudget 2026, plan 2027- 2028                 NIF § 130/2025
-
-Taxor och avgifter 2025                           NIF § 146/2025
-Investeringsplan 2027-2036                        NIF § 171/2025
-
-Riktlinjer för beslutsstöd i Individ & Familjeomsorgen NIF § 50/2023
-Riktlinje för samverkan och innovation            NIF §204/2021
-Riktlinje för att motverka kvalificerade välfärdsbrott NIF § 177/2022
-
-Riktlinje våld i nära relation                    NIF § 145/2023
 
 12.1.4 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Styrande dokument, riktlinjer                     KS 2023-10-10 § 156
-Integration, riktlinjer                           KS 2019-11-26 § 275
-
-Informationssäkerhet, riktlinjer                  KS 2024-05-07 § 80
-Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-
-Flaggning                                         KS 2023-11-28 § 247
-Fakturering och kravhantering, regler             KS 2025-11-25, § 225
-
 26
+
+[Tabell 66-1](handlingar.tabeller/66-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | NIF § 33/2026 |
+| Konkurrensutsättningsplan | NIF § 170/2025 |
+| Arkivredovisning/Informationsredovisning | NIF § 52/2026 |
+| Riktlinje - Ledningssystem för systematiskt kvalitetsarbete | NIF § 167/2023 |
+| Riktlinjer för verksamhetsbidrag | NIF § 37/2016 |
+| Internkontrollplan | NIF § 147/2025 |
+| Lokalbehov 2027-2031 utblicksår 2032-2036 | NIF § 127/2025 |
+| Riktlinje för systematisk individuppföljning | NIF § 8/2026 |
+| Nämndbudget 2026, plan 2027- 2028 | NIF § 130/2025 |
+| Taxor och avgifter 2025 | NIF § 146/2025 |
+| Investeringsplan 2027-2036 | NIF § 171/2025 |
+| Riktlinjer för beslutsstöd i Individ & Familjeomsorgen | NIF § 50/2023 |
+| Riktlinje för samverkan och innovation | NIF §204/2021 |
+| Riktlinje för att motverka kvalificerade välfärdsbrott | NIF § 177/2022 |
+| Riktlinje våld i nära relation | NIF § 145/2023 |
+
+[Tabell 66-2](handlingar.tabeller/66-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Arbetsmiljö, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-11-28 § 247 |
+| Fakturering och kravhantering, regler | KS 2025-11-25, § 225 |
 
 <!-- sida 67 -->
 
@@ -2811,10 +2708,13 @@ Nämndbudget 2027
 
 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 27
+
+[Tabell 67-1](handlingar.tabeller/67-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 68 -->
 

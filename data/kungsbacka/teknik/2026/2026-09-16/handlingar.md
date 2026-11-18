@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a0862710404491b/1789109262
 sha256: e5215ddc38b5f1370cea8c1a4db30cb04bcecbb12beddceacfb1160b690d69d6
 bytes: 11653586
 sidor: 380
-hamtad: 2026-11-08T11:37:23+00:00
-konverterad: 2026-11-08T11:38:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
-kvalitet: delvis
+hamtad: 2026-11-18T01:59:53+00:00
+konverterad: 2026-11-18T02:01:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [42, 43, 44, 45, 46, 47, 48, 49, 50, 152, 253, 266, 267, 268, 269, 270, 271, 272, 293, 294, 295, 307, 308, 309, 310, 311, 312, 313, 332]
 figurer: [56, 61, 62, 64, 66, 67, 68, 70, 72, 73, 74, 75, 76, 79, 80, 81, 82, 84, 87, 88, 89, 91, 92, 96, 97, 100, 101, 102, 103, 104, 105, 115, 117, 118, 124, 125, 127, 128, 129, 130, 131, 132, 133, 134, 136, 138, 139, 144, 146, 148, 150, 153, 216, 228, 229, 245, 248, 254, 259, 285, 286, 304, 338, 339, 343, 353, 354]
 tolkade: []
@@ -420,24 +420,6 @@ använder våra tjänster och där blir fortsatt utmaning av praxis kring taxeut
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2026
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Total debiterad vattenförbrukning fördelat på
-antal anslutna till vattenledningsnätet. (Här
-ingår förbrukning från hushåll, kommunen 143 144 144
-och privata verksamheter). Liter/person och
-dygn
-Vattenförbrukning för hushåll anslutna till
-116     118
-vattenledningsnätet. Liter/person och dygn.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 115   151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100,
-målvärde 2030 är 70.
 2.2.1 Vi ska fokusera på ekonomisk hållbarhet och effektivitet i vårt grunduppdrag även om
 ekologisk och social hållbarhet också är viktigt att arbeta med kontinuerligt.
 
@@ -474,6 +456,15 @@ delår 1 på skatt nu inte längre föreligger. Verksamheten har anpassats och i
 kontinuerligt sett över vad som kan göras av externa aktörer och överlåtit möjligheten till dem att sköta
 
 8
+
+[Tabell 9-1](handlingar.tabeller/9-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här<br>ingår förbrukning från hushåll, kommunen<br>och privata verksamheter). Liter/person och<br>dygn | 143 | 144 | 144 |  |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  | 116 | 118 |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 115 | 151 |  |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  |  |  |
 
 <!-- sida 10 -->
 
@@ -548,30 +539,10 @@ kan vara proaktiva med vårt inköpsbehov och på så sätt dra nytta av markand
 helt annat sätt än idag, något de också uttalat i våra dialoger med några av dem. Nästa steg är alltså inte främst
 fler initiativ, utan att företagen själva tydligare ska märka skillnaden i bemötandet, i kommunikationen, i
 minskat krångel och i vår förmåga att hitta lösningar tillsammans med dem.
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 67 64     61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4     3,8     3,6
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 586 28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %   4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 19 %
-Antal nystartade företag per 1 000 invånare
-10,3    12,3
-16–64 år (etableringsfrekvens)
+
 2.3.1 Vårt primära fokus under 2026 är att systematiskt arbeta för ett förbättrat företagsklimat
 tillsammans med andra.
+
 Beslutats av
 Nämnd
 
@@ -592,6 +563,17 @@ eller nyttjar insatser från Teknik. När vi vet hur våra insatser upplevs kan 
 och bidra till ökad tillit mellan kommunen och dem vi finns till för.
 
 10
+
+[Tabell 11-1](handlingar.tabeller/11-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 | 64 | 61 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,8 | 3,6 |  |  |
+| Sysselsatt dagbefolkning, antal | 28 586 | 28 426 |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 10,3 | 12,3 |  |  |  |
 
 <!-- sida 12 -->
 
@@ -725,17 +707,6 @@ skulle kunna förändras ännu mer än vad det redan gjort och i mycket högre u
 understödja idéer från andra. Utmaningen är att inte se detta som något som tar resurser från grunduppdraget,
 utan som ett annat sätt att genomföra det och skapa den nytta för invånarna som de önskar.
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 76 75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 124
-nyckeltal med skala 1–20.
-
 2.5.1 Vi fokuserar på att realisera extern nytta. Vårt innovationsarbete ska i första hand rikta
 in sig på att implementera lösningar från andra organisationer som haft samma
 behov som vi haft.
@@ -761,6 +732,13 @@ elbilaladdstolparna. Vi har tagit initiativ till ett nytt GR-nätverk som inte �
 för men där representanter för GR-kommuners utemiljöskötselavdelningar ingår. Det har givit oss goda
 
 13
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 76 | 75 |  |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 124 |  |  |  |  |
 
 <!-- sida 15 -->
 
@@ -1054,21 +1032,6 @@ Delårsrapport augusti 2026
 
 4.3 Resursmått
 
-Utfall jan Utfall jan  Utfall jan Utfall jan   Utfall jan
-Namn
-2022-jun 2022 2023-jun 2023 2024-jun 2024 2025-jun 2025 2026-jun 2026
-Andel heltid  98,4 %     98,8 %     98,3 %     98,2 %        95,7 %
-Anställda andel
-38,8 %     42,6 %     43,7 %     43,3 %        45,2 %
-kvinnor
-Anställda andel
-61,2 %     57,4 %     56,3 %     56,7 %        54,8 %
-män
-Anställda totalt 263      256        238        231            248
-Medelålder     46          47         47         47             46
-Pensionsavgån
-2          1          8          3               0
-gar
 4.4 Effektmått
 
 Utfall jan 2022 Utfall jan 2023 Utfall jan 2024 Utfall jan 2025 Utfall jan 2026
@@ -1110,6 +1073,17 @@ andel av
 sjukfrånvaro 60
 dagar eller mer
 20
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+|  | Namn | Utfall jan<br>2022-jun 2022 | Utfall jan<br>2023-jun 2023 | Utfall jan<br>2024-jun 2024 | Utfall jan<br>2025-jun 2025 | Utfall jan<br>2026-jun 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel heltid | 98,4 % | 98,8 % | 98,3 % | 98,2 % | 95,7 % |
+|  | Anställda andel<br>kvinnor | 38,8 % | 42,6 % | 43,7 % | 43,3 % | 45,2 % |
+|  | Anställda andel<br>män | 61,2 % | 57,4 % | 56,3 % | 56,7 % | 54,8 % |
+|  | Anställda totalt | 263 | 256 | 238 | 231 | 248 |
+|  | Medelålder | 46 | 47 | 47 | 47 | 46 |
+|  | Pensionsavgån<br>gar | 2 | 1 | 8 | 3 | 0 |
 
 <!-- sida 22 -->
 
@@ -9401,7 +9375,7 @@ synpunkter.
 
 Sändlista remissinstanser
 
-Remissinstans:                      Svarat  Avstår Ej svarat
+Remissinstans:                                     Ej svarat
 
 Halländska kommuner
 
@@ -9426,8 +9400,9 @@ Sida 114 av 290
 
 [Tabell 155-1](handlingar.tabeller/155-1.csv)
 
-|  |  |
+| Svarat | Avstår |
 | --- | --- |
+|  |  |
 | x |  |
 | x |  |
 | x |  |
@@ -9441,7 +9416,7 @@ Sida 114 av 290
 
 <!-- sida 156 -->
 
-Remissinstans:                      Svarat  Avstår Ej svarat
+Remissinstans:                                     Ej svarat
 
 Svenljunga kommun
 Gislaveds kommun
@@ -9491,8 +9466,9 @@ Sida 115 av 290
 
 [Tabell 156-1](handlingar.tabeller/156-1.csv)
 
-|  | x |
+| Svarat | Avstår |
 | --- | --- |
+|  | x |
 | x |  |
 |  |  |
 | x |  |
@@ -9524,7 +9500,7 @@ Sida 115 av 290
 
 <!-- sida 157 -->
 
-Remissinstans:                      Svarat  Avstår Ej svarat
+Remissinstans:                                     Ej svarat
 
 Järnvägsfrämjandet                                    x
 Regionala funktionshinderrådet                        x
@@ -9572,8 +9548,9 @@ Sida 116 av 290
 
 [Tabell 157-1](handlingar.tabeller/157-1.csv)
 
-|  |  |
+| Svarat | Avstår |
 | --- | --- |
+|  |  |
 |  |  |
 |  |  |
 | x |  |
@@ -15233,6 +15210,16 @@ Sida 230 av 290
 
 <!-- sida 272 -->
 
+KUNGSBACKA KOMMUN
+4 (4)
+
+3 ;
+
+AZ Lisa Andersson Patrik Johansson
+Kommunstyrelsens ordförande Kommunsekreterare
+
+Sida 231 av 290
+
 <!-- sida 273 -->
 
 KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL           1 (2)
@@ -18932,8 +18919,9 @@ trafikförsörjningsprogram.
 
 [Tabell 347-1](handlingar.tabeller/347-1.csv)
 
-| Region Hallands<br>mål | Kommunens ansvar | Vad innebär det i praktiken? |
+| Region Hallands | Kommunens ansvar | Vad innebär det i praktiken? |
 | --- | --- | --- |
+| mål |  |  |
 | Tillgänglighet | Säkerställa tillgång till färdtjänst<br>och riksfärdtjänst enligt<br>lagstiftningen | Invånare som uppfyller lagens krav ska<br>kunna resa på ett tryggt och förutsägbart<br>sätt. |
 | Hållbart resande | Komplettera den allmänna<br>kollektivtrafiken | Färdtjänsten ska utgöra ett komplement<br>när resor inte kan genomföras med<br>ordinarie kollektivtrafik. |
 | Sammanhållet<br>transportsystem | Samverkan med Region Halland<br>och utförare | Resor ska fungera som en del av ett<br>sammanhängande transportsystem. |
@@ -19419,8 +19407,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 
 [Tabell 363-1](handlingar.tabeller/363-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.1.31 |  | Sluta avtal inom verksamhetsområde som chef äger ansvar över | Fc<br>Vc | Tecknat en (1) överenskommelse<br>den 21 augusti 2026 med Qwello<br>Sverige AB om försäljning av<br>laddningsstationer<br>(laddinfrastruktur), TE-2026-00701<br>& TE-2024-00604. |
 
 <!-- sida 364 -->
@@ -19431,8 +19420,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 6
 
 [Tabell 364-1](handlingar.tabeller/364-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.2.9 |  | Besluta om avslag eller utbetalning av skadeståndskrav,<br>ersättningskrav, självrisker och regresskrav upp till tio<br>prisbasbelopp<br>Upp till tio prisbasbelopp<br>Upp till fem prisbasbelopp | Fc<br>Fc, Vc | 2026-06-02: beslut om<br>ersättning i ärende 2026-<br>00026.<br>2026-06-09: beslut om<br>ersättning i ärende 2025-<br>00768.<br>2026-06-16: beslut om<br>ersättning i ärende 2026-<br>00136.<br>2026-06-24: beslut om<br>ersättning i ärende 2025-<br>00785.<br>2026-08-17: beslut om<br>ersättning i ärende 2026-<br>00581.<br>2026-08-21: beslut om<br>ersättning i ärende 2026-<br>00695. |
 
 <!-- sida 365 -->
@@ -19443,8 +19433,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 7
 
 [Tabell 365-1](handlingar.tabeller/365-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 |  |  | Anställa |  |  |
 | 2.3.3 | LAS, kollektivavtal, lönestruktur mm | Övriga medarbetare<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader. | Fc | - Trafikplanerare, anställd 2026-08-31 av<br>Annica Svensson<br>- Enhetschef, anställd 2026-08-26 av Emir<br>Halalkic<br>- Enhetschef, anställd 2026-08-26 av Maria<br>Hellström<br>- Parkarbetare, anställd 2026-08-24 av<br>Katarina Björklund<br>- Projektledare, anställd 2026-08-18 av Emir<br>Halalkic<br>- Systemförvaltare, anställd 2026-08-01 av<br>Camilla Tiberg |
 
@@ -19456,8 +19447,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 8
 
 [Tabell 366-367-1](handlingar.tabeller/366-367-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 31 st beslut och datum för beslut<br>1384 2026-00116 Kungsbacka Sportcenter<br>1384 2026-00154 Gottskärsvägen<br>1384 2026-00155 Badhusparksparkeringen<br>1384 2026-00166 Hamntorget<br>1384 2026-00157 Drottninggatan<br>1384 2026-00158 Drottninggatan<br>1384 2026-00159 Guldgubbegatan<br>1384 2026-00161 Drottninggatan<br>1384 2026-00163 Drottninggatan<br>1384 2026-00164 Badhusparksparkeringen<br>1384 2026-00170 Skolgatan<br>1384 2026-00171 Gymnasiegatan<br>1384 2026-00172 Gymnasiegatan<br>1384 2026-00173 Gymnasiegatan<br>1384 2026-00174 Gymnasiegatan<br>1384 2026-00175 Läraregatan<br>1384 2026-00176 Läraregatan<br>1384 2026-00181 Ejdern<br>1384 2026-00182 Ejdern<br>1384 2026-00184 Carl Bondes väg<br>1384 2026-00185 Motellvägen<br>1384 2026-00186 Björkris<br>1384 2026-00188 Storgatan<br>1385 2026-00189 Borgmästaregatan<br>1384 2026-00165 Storgatan<br>1384 2026-00190 Kyrkogatan |
 |  |  |  |  | 1384 2026-00191 Badhusparksparkeringen<br>1384 2026-00199 Kungsbacka Torg<br>1384 2026-00204 Skolgatan<br>1384 2026-00208 Skolgatan<br>1384 2026-00221 Storgatan |
 | 2.4.5 | 10 kap. trafikförordningen (1998:1276) | Revidering av befintliga permanenta föreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 50 st beslut och datum för beslut<br>1384 2026-00115 Kungsbacka Sportcenter<br>1384 2026-00117 Åsaskolan<br>1384 2026-00118 Fjärås centrum<br>1384 2026-00119 Smeagatan<br>1384 2026-00120 Kungsbackaskogen<br>1384 2026-00122 Hålabäck<br>1384 2026-00124 Varlagård<br>1384 2026-00125 Vallgatan<br>1384 2026-00126 Tölöleden<br>1384 2026-00127 Tölö Tvärled<br>1384 2026-00128 Lilla Hantverksgatan<br>1384 2026-00129 Lantmannagatan<br>1384 2026-00130 Finnagårdsvägen<br>1384 2026-00131 Björsmossevägen<br>1384 2026-00132 Arendalsleden<br>1384 2026-00133 Håkullavägen<br>1384 2026-00134 Verkstadsgatan<br>1384 2026-00135 Västra Ebbagårdsvägen<br>1384 2026-00137 Östra Långgatan<br>1384 2026-00138 Östra Långgatan<br>1384 2026-00141 Lindströmsvägen<br>1384 2026-00142 Kobbavägen |
@@ -19650,8 +19642,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 375-1](handlingar.tabeller/375-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 260623, 1 st<br>260721, 1 st<br>260723, 1 st<br>260729, 1 st<br>260807, 1 st<br>260825, 1 st<br>260827, 1 st |
 | 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | Fc<br>Anette<br>Englund,<br>administratör<br>Kund &<br>kommunikatio<br>n | 260604, 2 st<br>260701, 1 st<br>260810, 2 st |
 | 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbac kommun | Besluta om tillfälligt uppehåll i sophämtning | Fc<br>Anette<br>Englund,<br>administratör<br>Kund &<br>kommunikation | 260601, 3 st<br>260604, 2 st<br>260605, 1 st<br>260608, 2 st<br>260609, 1 st<br>260623, 1 st<br>260625, 2 st<br>260626, 1 st<br>260629, 2 st<br>260701, 1 st<br>260702, 1 st<br>260707, 1 st<br>260713, 1 st |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.47292b5718f0fcfefe53fa3/17141479672
 sha256: b9f81bb35a6f7d1a77d87ccbb28bd02bc353ece686dfd58fcf8bc601ff163b45
 bytes: 1619232
 sidor: 12
-hamtad: 2026-11-08T18:34:35+00:00
-konverterad: 2026-11-08T18:35:06+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:57:49+00:00
+konverterad: 2026-11-18T02:58:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -133,8 +133,8 @@ Information till nämnd: Ungdomsenkäten LUPP s.ssmmsssssssrrssrrsssrrrrrrrrserr
 §53 Dnr KFT-2024-00114
 Information till nämnd: Förvaltningens arbete med målbild 2030 .... 8
 
-§ 54 Dnr KFT-2024-00115
-Anmälan av delegeringsbeslut april 2024 =mssmmmssssssressssrrrrrrssrrrressrrrrersrrrrsrs 9
+§54 Dnr KFT-2024-00115
+Anmälan av delegeringsbeslut april 2024 = msnmosssssesssrrresrrrssrreserresrrrssrrernrrsa 9
 
 §55 Dnr KFT-2024-00116
 Redovisning av inkomna handlingar april 2024 s.ssmmmssssssssssereressrrrresnrrerena 10

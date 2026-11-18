@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.90ecece1927166f56ae1d4b/17291744095
 sha256: 0b29c5bfa761ea449ef94fb66faff815d4d4f2f6faca8e54965c6332319cd6ba
 bytes: 24790514
 sidor: 226
-hamtad: 2026-11-08T07:42:18+00:00
-konverterad: 2026-11-08T07:43:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-17T22:37:37+00:00
+konverterad: 2026-11-17T22:38:46+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
-figurer: [13, 23, 26, 45, 46, 50, 53, 54, 56, 60, 62, 63, 64, 69, 74, 75, 79, 80, 81, 85, 86, 87, 88, 89, 90, 91, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
+figurer: [13, 23, 26, 45, 46, 53, 54, 56, 60, 62, 63, 64, 69, 74, 75, 79, 80, 81, 85, 86, 87, 88, 89, 90, 91, 93, 94, 95, 96, 97, 98, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115]
 tolkade: []
 granskad: null
 ---
@@ -1708,6 +1708,8 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 8
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 49 -->
 
@@ -1754,6 +1756,8 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 9
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 50 -->
 
@@ -1766,11 +1770,6 @@ All platser på stödboende köps av extern aktör.
 Utifrån rådande omständigheter planeras inget stödboende i egen regi.
 
 3.2.2 Utblicksår 2031-2035
-
-Löp Beskrivning                      Plan   Plan Plan  Plan  Plan
-Kategorisera
-nr                                   2031  2032  2033  2034  2035
-Platser stödboende               6      6     6     6     6
 
 3.3 Övriga lokaler
 
@@ -1797,11 +1796,24 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 10
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 [Tabell 50-2](handlingar.tabeller/50-2.csv)
 
+| Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Platser stödboende |  | 6 | 6 | 6 | 6 | 6 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+[Tabell 50-3](handlingar.tabeller/50-3.csv)
+
 | Löpnr | Beskrivning | Kategorisera | Budget<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 | Plan<br>2030 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
 
@@ -1843,6 +1855,8 @@ Lokalbehov 2026-2030 Utblicksår 2031-2035 11
 
 | Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 | Plan<br>2035 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
@@ -4839,11 +4853,6 @@ lösningar
 • skapa ändamålsenliga tekniska förutsättningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
-Indikator                         Målsättning 2025
-
-Andel innovationsprojekt som drivits under året
-Andel av bruttokostnaden som avsätts för
-innovationsarbete och digitalisering
 
 6.1.2 Direktiv - Civil beredskap
 
@@ -4860,6 +4869,13 @@ bor i Kungsbacka har ansvar för den kommunala, och därmed också nationella, b
 är tydlig med att ansvaret ska ligga så nära där ansvaret finns i vardagen så i kommunen ska alla nämnder ha
 
 17
+
+[Tabell 134-1](handlingar.tabeller/134-1.csv)
+
+| Indikator | Målsättning 2025 |
+| --- | --- |
+| Andel innovationsprojekt som drivits under året |  |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering |  |
 
 <!-- sida 135 -->
 
@@ -5032,69 +5048,45 @@ som arbetsmiljö och trivsel, för att kunna bli mer attraktiva som arbetsgivare
 
 7.2 Personalmått
 
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Andel heltid         91,7 %  93 %      93,5 %
-
-Andel män som har heltid 94,4 % 93,8 % 91,3 %
-Antal medarbetare per
-30,4   18,6      21,5
-enhetschef
-
 21
+
+[Tabell 138-139-1](handlingar.tabeller/138-139-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 | Budget 2024 | Budget 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 91,7 % | 93 % | 93,5 % |  |  |
+| Andel män som har heltid | 94,4 % | 93,8 % | 91,3 % |  |  |
+| Antal medarbetare per<br>enhetschef | 30,4 | 18,6 | 21,5 |  |  |
+| Medarbetare yngre än 30 år | 7,7 % | 7,7 % | 5,2 % |  |  |
+| Medarbetare 30 - 39 år | 21,9 % | 20,6 % | 22,7 % |  |  |
+| Medarbetare 40 - 49 år | 27,5 % | 27,7 % | 27,3 % |  |  |
+| Medarbetare 50 - 59 år | 28,5 % | 29,5 % | 31,3 % |  |  |
+| Medarbetare 60 år och äldre | 14,4 % | 14,5 % | 13,5 % |  |  |
+| Sjukfrånvaro Totalt | 4,6 % | 5,8 % | 5,1 % |  |  |
+| Sjukfrånvaro Kvinnor | 5,8 % | 7,3 % | 6,5 % |  |  |
+| Sjukfrånvaro Män | 2,6 % | 3,2 % | 2,3 % |  |  |
+| Långtidssjukfrånvaro | 3,3 % | 3,8 % | 3,2 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 4,3 % | 5 % | 4,4 % |  |  |
+| Långtidssjukfrånvaro Män | 1,4 % | 1,6 % | 0,9 % |  |  |
+| Anställda totalt | 506 | 509 | 498 |  |  |
+| Anställda andel kvinnor | 63,2 % | 64,6 % | 64,9 % |  |  |
+| Anställda andel män | 36,8 % | 35,4 % | 35,1 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 1,5 % | 2,2 % | 2,1 % |  |  |
+| Korttidssjukfrånvaro Män | 1,2 % | 1,6 % | 1,5 % |  |  |
+| Korttidssjukfrånvaro | 1,4 % | 2 % | 1,9 % |  |  |
+| Frisknärvaro | 73,8 % | 63,4 % | 64,2 % |  |  |
+| Frisknärvaro Kvinnor | 72,3 % | 61 % | 59,6 % |  |  |
+| Frisknärvaro Män | 76,5 % | 67,8 % | 72,8 % |  |  |
+| Personalomsättning | 14,5 % | 13,7 % | 9,5 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 57,1 % | 58,2 % | 55,6 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 63,7 % | 62,3 % | 62,5 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 31,2 % | 41,8 % | 19,6 % |  |  |
+| Medelålder | 47 | 47 | 47 |  |  |
 
 <!-- sida 139 -->
 
 Nämnden för Gymnasium & Arbetsmarknad            Kungsbacka kommun
 Nämndbudget 2025
-
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Medarbetare yngre än 30 år 7,7 % 7,7 % 5,2 %
-
-Medarbetare 30 - 39 år 21,9 % 20,6 %   22,7 %
-Medarbetare 40 - 49 år 27,5 % 27,7 %   27,3 %
-Medarbetare 50 - 59 år 28,5 % 29,5 %   31,3 %
-
-Medarbetare 60 år och äldre 14,4 % 14,5 % 13,5 %
-
-```osaker-tabell
-Sjukfrånvaro Totalt   4,6 %  5,8 %     5,1 %
-Sjukfrånvaro Kvinnor  5,8 %  7,3 %     6,5 %
-
-Sjukfrånvaro Män      2,6 %  3,2 %     2,3 %
-Långtidssjukfrånvaro  3,3 %  3,8 %     3,2 %
-```
-
-Långtidssjukfrånvaro Kvinnor 4,3 % 5 % 4,4 %
-Långtidssjukfrånvaro Män 1,4 % 1,6 %   0,9 %
-Anställda totalt      506    509       498
-
-Anställda andel kvinnor 63,2 % 64,6 %  64,9 %
-Anställda andel män  36,8 %  35,4 %    35,1 %
-
-Korttidssjukfrånvaro Kvinnor 1,5 % 2,2 % 2,1 %
-Korttidssjukfrånvaro Män 1,2 % 1,6 %   1,5 %
-
-```osaker-tabell
-Korttidssjukfrånvaro  1,4 %  2 %       1,9 %
-
-Frisknärvaro         73,8 %  63,4 %    64,2 %
-Frisknärvaro Kvinnor 72,3 %  61 %      59,6 %
-Frisknärvaro Män     76,5 %  67,8 %    72,8 %
-
-Personalomsättning   14,5 %  13,7 %    9,5 %
-```
-
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 57,1 % 58,2 % 55,6 %
-mer
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 63,7 % 62,3 % 62,5 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 31,2 % 41,8 % 19,6 %
-mer Män
-
-Medelålder             47    47        47
 
 7.3 Arbetsmiljö
 
@@ -5294,48 +5286,39 @@ Nämndbudget 2025
 
 9.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Kvalitet                                            KF 2013-08-13 § 101
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                  KF 2011-02-01 § 8
-
-Vision 2030                                         KF 2023-06-14 § 73
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Biblioteksplan                                      KF 2021-04-13 § 68
-Kulturpolitiskt program för Kungsbacka kommun         KF § 167/12
-Upphandling, policy                                KF § 2021-03-09 § 30
-
-Upphandling- tillämpningsanvisningar till policy      KF § 164/09
-Lokaler och internhyra                              KF 2014-11-11 § 153
-
-Internationell policy                              KF § 2021-11-09 § 139
-Konkurrensprövning - tillämpningsanvisningar        KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-
-Reglemente för nämnden för Gymnasium & Arbetsmarknad KF 2018-06-14 § 110
-Lokala ordningsföreskrifter                         KF 2020-02-02 § 8
-
-Attestreglemente - tillämpningsanvisningar        Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-
-Privata utförare                                    KF 2016-10-11 § 144
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2021-11-09 § 142
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Personuppgiftsbiträdesförhållanden, interna regler  KF 2021-11-09 § 142
-
 27
+
+[Tabell 144-1](handlingar.tabeller/144-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Kulturpolitiskt program för Kungsbacka kommun | KF § 167/12 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Upphandling- tillämpningsanvisningar till policy | KF § 164/09 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Gymnasium & Arbetsmarknad | KF 2018-06-14 § 110 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2021-11-09 § 142 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Personuppgiftsbiträdesförhållanden, interna regler | KF 2021-11-09 § 142 |
 
 <!-- sida 145 -->
 
@@ -5344,53 +5327,49 @@ Nämndbudget 2025
 
 9.1.2 Styrdokument beslutade av nämnden för Gymnasium & Arbetsmarknad
 
-Beslutande
-Styrdokument
-paragraf/År
-Delegeringsförteckning                                  §43/2023
-Samverkansavtal för vuxnas lärande inom Göteborgsregionen §3/2024
-Lokalbehov 2024-2028                                    §118/2023
-
-Systematiskt arbetsmiljöarbete, 2019-02-26               § 92/02
-Drogpolicy skolor                                        § 15/09
-
-Strategi för internationalisering inom förvaltningen för Gymnasie & Vuxenutbildning § 66/14
-Policy för elevers kostnader                            § 21/2017
-Informationshanteringsplan                              §48/2024
-
-Sponsringspolicy                                         § 60/12
-Vägledande riktlinjer för ekonomiskt bistånd och försörjningsstöd § 21/2023
-
-Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -2026/2027 § 67/2022
-Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –
-§ 68/2022
-2026/2027
-Samverkansavtal för särskild utbildning för vuxna       §108/2020
 9.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                      KS 2017-06-20 § 163
-Integration, riktlinjer                            KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                       KS 2021-11-09 § 142
-
-Informationssäkerhet, riktlinjer                    KS 2020-04-21 § 81
-Flaggning                                           KS 2023-02-21 § 32
-
-Kommundirektören
-Varumärkesarkitektur och särprofilering
-2021-12-01
-Kommundirektören
-Visselblåsarfunktionen, regler
-2022-11-09
 9.2 Taxa
 
 9.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 28
+
+[Tabell 145-1](handlingar.tabeller/145-1.csv)
+
+| Styrdokument | Beslutande<br>paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | §43/2023 |
+| Samverkansavtal för vuxnas lärande inom Göteborgsregionen | §3/2024 |
+| Lokalbehov 2024-2028 | §118/2023 |
+| Systematiskt arbetsmiljöarbete, 2019-02-26 | § 92/02 |
+| Drogpolicy skolor | § 15/09 |
+| Strategi för internationalisering inom förvaltningen för Gymnasie & Vuxenutbildning | § 66/14 |
+| Policy för elevers kostnader | § 21/2017 |
+| Informationshanteringsplan | §48/2024 |
+| Sponsringspolicy | § 60/12 |
+| Vägledande riktlinjer för ekonomiskt bistånd och försörjningsstöd | § 21/2023 |
+| Samverkansavtal för gymnasieskolan i Göteborgsregionen 2023/2024 -2026/2027 | § 67/2022 |
+| Samverkansavtal för gymnasiesärskolan i Göteborgsregionen 2023/2024 –<br>2026/2027 | § 68/2022 |
+| Samverkansavtal för särskild utbildning för vuxna | §108/2020 |
+
+[Tabell 145-2](handlingar.tabeller/145-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2017-06-20 § 163 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2021-11-09 § 142 |
+| Informationssäkerhet, riktlinjer | KS 2020-04-21 § 81 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören<br>2021-12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören<br>2022-11-09 |
+
+[Tabell 145-3](handlingar.tabeller/145-3.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 146 -->
 

@@ -1,32 +1,29 @@
-7,1,"""Brukarbedömning särskilt boende
-äldreomsorg, helhetssyn (KOLADA)""",Tas bort
-7,1,"""Brukarbedömning individ- och
-familjeomsorg totalt - helhetssyn
-(KOLADA)""",Tas bort
-8,1,"""Kungsbacka ska minska klimatpåverkan
-och stärka cirkulära flöden samtidigt som
-biologisk mångfald värnas. Kungsbacka
-ska verka för ett fossilfritt och cirkulärt
-samhälle som också skyddar och främjar
-biologisk mångfald.""","Behåll tidigare: ""Kungsbacka ska
-verka för ett fossilfritt och cirkulärt
-samhälle som också skyddar och
-främjar biologisk mångfald."""
-9,1,"""Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket
-god under elevhälsosamtalet, ÅK 4 i %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)""",Tas bort
-9,1,"""Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket
-god under elevhälsosamtalet, ÅK 4 i %
-- Pojkar. (Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)""",Tas bort
-9,1,"""Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket
-god under elevhälsosamtalet, ÅK 8 i %
-- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)""",Tas bort
+7,1,"""Brukarbedömning särskilt boende",Tas bort
+,,"äldreomsorg, helhetssyn (KOLADA)""",
+7,1,"""Brukarbedömning individ- och",Tas bort
+,,familjeomsorg totalt - helhetssyn,
+,,"(KOLADA)""",
+8,1,"""Kungsbacka ska minska klimatpåverkan","Behåll tidigare: ""Kungsbacka ska"
+,,och stärka cirkulära flöden samtidigt som,
+,,biologisk mångfald värnas. Kungsbacka,verka för ett fossilfritt och cirkulärt
+,,ska verka för ett fossilfritt och cirkulärt,samhälle som också skyddar och
+,,samhälle som också skyddar och främjar,"främjar biologisk mångfald."""
+,,"biologisk mångfald.""",
+9,1,"""Andelen elever som skattat sin egen",Tas bort
+,,livstillfredsställelse som god eller mycket,
+,,"god under elevhälsosamtalet, ÅK 4 i %",
+,,- Flickor.(Elevhälsan i Kungsbacka utvecklar,
+,,"metod utifrån hälsosamtal med elever.)""",
+9,1,"""Andelen elever som skattat sin egen",Tas bort
+,,livstillfredsställelse som god eller mycket,
+,,"god under elevhälsosamtalet, ÅK 4 i %",
+,,- Pojkar. (Elevhälsan i Kungsbacka utvecklar,
+,,"metod utifrån hälsosamtal med elever.)""",
+9,1,"""Andelen elever som skattat sin egen",Tas bort
+,,livstillfredsställelse som god eller mycket,
+,,"god under elevhälsosamtalet, ÅK 8 i %",
+,,- Flickor.(Elevhälsan i Kungsbacka utvecklar,
+,,"metod utifrån hälsosamtal med elever.)""",
 9,1,"Andelen elever som skattat sin egen
 livstillfredsställelse som god eller mycket
 god under elevhälsosamtalet, ÅK 8 i %

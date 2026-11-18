@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c744d6474/1759213508
 sha256: faba97efea9cd887bc9998e720b4e51091e6678dea818be4882e8d67ae487f53
 bytes: 12159688
 sidor: 225
-hamtad: 2026-11-08T09:06:04+00:00
-konverterad: 2026-11-08T09:06:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:49:24+00:00
+konverterad: 2026-11-17T23:49:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, tom, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tom, tom, tom, tom, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [114, 115, 116, 134, 135, 136]
 figurer: [40, 41, 44, 45, 46, 47, 49, 51, 54, 56, 58, 59, 62, 72, 75, 81, 83, 85, 86, 88, 89, 93, 94, 97, 99, 115, 119, 123, 187, 188, 189, 194, 195, 196, 197, 204, 205, 206, 207, 208, 210, 211, 212, 213, 214, 215, 217, 218, 219, 221, 222, 223, 224]
 tolkade: []
@@ -3922,21 +3922,20 @@ Bilaga 2. Lokalförteckning – Förskola
 <!-- sida 105 -->
 
 NYCKELTAL F-3
-
-Antal klasser
+Mall (Optimerad    för 525 elever)
+SKOLA                                             Antal klasser
 Antal elever
 
 Antal paralleler/arbetslag
+Område
 Antal pedagoger
-
+Projekt Nr:
 NYCKELTAL 4-6
-Antal klasser
+Datum                                             Antal klasser
 Antal elever
-
 Antal paralleler/arbetslag
+Datum rev:
 Antal pedagoger
-
-Antal (st)
 
 HUBB  ÅRSKURS F-3
 
@@ -3944,37 +3943,14 @@ SUMMA
 SUMMA PER ARBETSLAG/HUBB
 HUBB  ÅRSKURS 4-6
 
-Klassrum                                         9
-1.12
-Grupprum                                         9
-1.13
-Fritidshem                                       3
-1.14
-
-Lärararbetsplats                                 3
-1.15
-Samtalsrum                                       3
-1.16
-
 [Tabell 105-1](handlingar.tabeller/105-1.csv)
 
-| Mall (Optimerad för 525 elever)<br>SKOLA |  |
-| --- | --- |
-| Område |  |
-|  |  |
-| Projekt Nr: |  |
-|  |  |
-| Datum |  |
-|  |  |
-| Datum rev: |  |
+| Posnr | Lokaltyp |  |  |
+| --- | --- | --- | --- |
+|  |  |  | Antal (st) |
+| 1.1 | Entre/huvudentre |  |  |
 
 [Tabell 105-2](handlingar.tabeller/105-2.csv)
-
-| Posnr | Lokaltyp |
-| --- | --- |
-| 1.1 | Entre/huvudentre |
-
-[Tabell 105-3](handlingar.tabeller/105-3.csv)
 
 | 1.2 | Klassrum |  | 12 |
 | --- | --- | --- | --- |
@@ -3988,18 +3964,22 @@ Samtalsrum                                       3
 | 1.10 | Förråd |  | 3 |
 | 1.11 | Städ |  | 3 |
 
+[Tabell 105-106-3](handlingar.tabeller/105-106-3.csv)
+
+| 1.12 | Klassrum |  | 9 |
+| --- | --- | --- | --- |
+| 1.13 | Grupprum |  | 9 |
+| 1.14 | Fritidshem |  | 3 |
+| 1.15 | Lärararbetsplats |  | 3 |
+| 1.16 | Samtalsrum |  | 3 |
+| 1.17 | Kapprum |  | 3 |
+| 1.18 | WC |  | 18 |
+| 1.19 | RWC |  | 3 |
+| 1.20 | Förråd |  | 3 |
+| 1.21 | Städ |  | 2 |
+
 <!-- sida 106 -->
 
-Kapprum                                          3
-1.17
-WC                                              18
-1.18
-RWC                                              3
-1.19
-Förråd                                           3
-1.20
-Städ                                             2
-1.21
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 GEMENSAM  LÄRMILJÖ ÅK 3-6 (PROJEKTANPASSAS)
@@ -4062,15 +4042,6 @@ SUMMA
 PROGRAMAREA   OCH LOA SKOLA F-6
 
 ÖVRIGT (ej inkluderat i programyta)
-X
-
-X
-
-X
-
-X
-
-X
 
 [Tabell 107-1](handlingar.tabeller/107-1.csv)
 
@@ -4105,19 +4076,14 @@ X
 | 1.55 | BRA |  | 1,25 |
 | 1.56 | BTA |  |  |
 
-[Tabell 107-108-5](handlingar.tabeller/107-108-5.csv)
+[Tabell 107-5](handlingar.tabeller/107-5.csv)
 
-| 1.57 | Teknikrum |
-| --- | --- |
-| 1.58 | El |
-| 1.59 | Data |
-| 1.60 | Åv-hus |
-| 1.61 | Cykelställ |
-| 1.62 | Uteförråd |
-| 1.63 | Utemiljö F-3 |
-| 1.64 | Utemiljö 4-6 |
-| 1.65 | Angöring |
-| 1.66 | Parkering |
+| 1.57 | Teknikrum |  | X |
+| --- | --- | --- | --- |
+| 1.58 | El |  | X |
+| 1.59 | Data |  | X |
+| 1.60 | Åv-hus |  | X |
+| 1.61 | Cykelställ |  | X |
 
 <!-- sida 108 -->
 
@@ -4127,63 +4093,42 @@ X
 
 X
 
+[Tabell 108-1](handlingar.tabeller/108-1.csv)
+
+| 1.62 | Uteförråd |
+| --- | --- |
+| 1.63 | Utemiljö F-3 |
+| 1.64 | Utemiljö 4-6 |
+| 1.65 | Angöring |
+| 1.66 | Parkering |
+
 <!-- sida 109 -->
 
 SUMMA ÅK F-6
 
-Antal klasser
-Antal elever
+12                                 Antal klasser
+300 Elever per klass          25    Antal elever
 Antal
-paralleler/arbetslag
-Antal pedagoger
+3 Klasser per arbetslag      4    paralleler/arbetslag
+30 Per arbetslag             10    Antal pedagoger
 
 KÖK
-Mottagningskök
-Tillagningskök
+9                                 Mottagningskök
+225 Elever per klass          25    Tillagningskök
 
-Sittplatser i matsal\*
+3 Klasser per arbetslag      3    Sittplatser i matsal\*
+30 Per arbetslag             10
 
 Mall                                           Förstudie
-
-Antal (st)
+Programarea          Area per Luft för antal
+Summa (kvm)                          Antal (st)
+(kvm)                elev   personer (st)
+20
 
 1561     5,2
 520
 
-```osaker-tabell
-65        585                32
-
-15        135                10
-
-75        225                45
-
-30         90                10
-10         30                 6
-```
-
 [Tabell 109-1](handlingar.tabeller/109-1.csv)
-
-| 12 |  |  |
-| --- | --- | --- |
-| 300 | Elever per klass | 25 |
-| 3 | Klasser per arbetslag | 4 |
-| 30 | Per arbetslag | 10 |
-
-[Tabell 109-2](handlingar.tabeller/109-2.csv)
-
-| 9 |  |  |
-| --- | --- | --- |
-| 225 | Elever per klass | 25 |
-| 3 | Klasser per arbetslag | 3 |
-| 30 | Per arbetslag | 10 |
-
-[Tabell 109-3](handlingar.tabeller/109-3.csv)
-
-| Programarea<br>(kvm) | Summa (kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-| --- | --- | --- | --- |
-| 20 |  |  |  |
-
-[Tabell 109-4](handlingar.tabeller/109-4.csv)
 
 | 65 | 780 |  | 32 |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -4196,6 +4141,24 @@ Antal (st)
 | 5 | 15 |  |  |  |  |
 | 12 | 36 |  |  |  |  |
 | 2 | 6 |  |  |  |  |
+
+[Tabell 109-2](handlingar.tabeller/109-2.csv)
+
+| 65 | 585 |
+| --- | --- |
+| 15 | 135 |
+| 75 | 225 |
+| 30 | 90 |
+| 10 | 30 |
+
+[Tabell 109-3](handlingar.tabeller/109-3.csv)
+
+| 32 |  |  |
+| --- | --- | --- |
+| 10 |  |  |
+| 45 |  |  |
+| 10 |  |  |
+| 6 |  |  |
 
 <!-- sida 110 -->
 
@@ -4313,40 +4276,25 @@ Antal (st)
 
 ÖVRIGA NOTERINGAR
 
-= Ruta att fylla i
+21                                                  = Ruta att fylla i
+525 Elever per klass   25
+Klasser per
+6 arbetslag           4
+60 Per arbetslag      10
 
-Förstudie
-
-Antal (st)
+Förstudie                                FFU
+Summa   Area per               Summa   Area per Luft för antal
+Antal (st)                           Antal (st)
+(kvm)     elev                 (kvm)    elev   personer (st)
 
 [Tabell 113-1](handlingar.tabeller/113-1.csv)
 
-| 21 |  |  |  |
-| --- | --- | --- | --- |
-| 525 | Elever per klass |  | 25 |
-| 6 | Klasser per<br>arbetslag |  | 4 |
-| 60 | Per arbetslag |  | 10 |
-
-[Tabell 113-2](handlingar.tabeller/113-2.csv)
-
-|  | portioner Se separat koncept<br>portioner Se separat koncept<br>3 sittningar<br>1,2 kvm/sittplats |
-| --- | --- |
-|  |  |
-| 195 |  |
-|  |  |
-
-[Tabell 113-3](handlingar.tabeller/113-3.csv)
-
-| FFU |  |  |  |
-| --- | --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-|  |  |  |  |
-
-[Tabell 113-4](handlingar.tabeller/113-4.csv)
-
-| Summa<br>(kvm) | Area per<br>elev |
-| --- | --- |
-|  |  |
+|  |  |  |
+| --- | --- | --- |
+|  | portioner Se separat koncept<br>portioner Se separat koncept<br>3 sittningar |  |
+|  |  |  |
+| 195 |  |  |
+|  | 1,2 kvm/sittplats |  |
 
 <!-- sida 114 -->
 
@@ -4359,10 +4307,12 @@ Antal (st)
 Ruta att fylla i
 
 Relation
-Kommentar
-
+Luft för
+Summa  Area per                                  Kommentar
+antal
+(kvm)  elev
+personer
 Tydlig entre med vindfång
-
 Skärm centralt placerad på vägg. Whiteboard sekundärt placerad.
 
 Med koppling till klassrum.
@@ -4385,12 +4335,6 @@ Yta utan massa dörrar utspridda dörrar, pga möbleringsbart. Går att skärma 
 möblering. Ett av dessa utrymmen ska kunna användas även till lättare hemkunskap åk 6.
 
 Plats för 1 större bord och 2 arbetsplatser samt 1 arbetsskåp per pedagog.
-
-[Tabell 117-1](handlingar.tabeller/117-1.csv)
-
-| Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
-| --- | --- | --- |
-|  |  |  |
 
 <!-- sida 118 -->
 
@@ -4493,52 +4437,34 @@ Svällningsfaktor inkluderar innerväggar samt kommunikationsytor. Verklig siffr
 <!-- sida 125 -->
 
 NYCKELTAL ÅK 7-9
-
-Antal klasser
+Mall  (Optimerad   för 540 elever)
+SKOLA                                             Antal klasser
 Antal elever
 Antal
 paralleler/arbetslag
-
+Område
 Antal pedagoger
-
+Projekt Nr:
 KÖK
-Mottagningskök
+Datum                                             Mottagningskök
 
 Tillagningskök
 
-Sittplatser i matsal
+Datum rev:                                        Sittplatser i matsal
 
-Posnr                Lokaltyp
-Antal (st)
-
-Entre/huvudentre                               1
-1.1
 HUBB  ÅRSKURS 7-9
 
 SUMMA
 SUMMA PER ARBETSLAG/HUBB
 
 GEMENSAM  LÄRMILJÖ (PROJEKTANPASSAS)
-Slöjd                                          1
-1.22
-Förråd (slöjd)                                 2
-1.23
-Bild                                           1
-1.24
-Förråd (bild)                                  1
-1.25
 
 [Tabell 125-1](handlingar.tabeller/125-1.csv)
 
-| Mall (Optimerad för 540 elever)<br>SKOLA |  |
-| --- | --- |
-| Område |  |
-|  |  |
-| Projekt Nr: |  |
-|  |  |
-| Datum |  |
-|  |  |
-| Datum rev: |  |
+| Posnr | Lokaltyp |  |  |
+| --- | --- | --- | --- |
+|  |  |  | Antal (st) |
+| 1.1 | Entre/huvudentre |  | 1 |
 
 [Tabell 125-2](handlingar.tabeller/125-2.csv)
 
@@ -4553,6 +4479,14 @@ Förråd (bild)                                  1
 | 1.9 | RWC |  | 6 |
 | 1.10 | Förråd |  | 6 |
 | 1.11 | Städ |  | 6 |
+
+[Tabell 125-3](handlingar.tabeller/125-3.csv)
+
+| 1.22 | Slöjd |  | 1 |
+| --- | --- | --- | --- |
+| 1.23 | Förråd (slöjd) |  | 2 |
+| 1.24 | Bild |  | 1 |
+| 1.25 | Förråd (bild) |  | 1 |
 
 <!-- sida 126 -->
 
@@ -4628,17 +4562,6 @@ PROGRAMAREA   OCH LOA SKOLA ÅK 4-9
 
 ÖVRIGT (ej inkluderat i programyta)
 
-X
-
-X
-
-X
-X
-
-X
-
-X
-
 [Tabell 127-1](handlingar.tabeller/127-1.csv)
 
 | 1.44 | Städcentral |  | 1 |
@@ -4666,13 +4589,13 @@ X
 
 [Tabell 127-4](handlingar.tabeller/127-4.csv)
 
-| 1.57 | Teknikrum |
-| --- | --- |
-| 1.58 | El |
-| 1.59 | Data |
-| 1.60 | Åv-hus |
-| 1.61 | Cykelförråd |
-| 1.62 | Uteförråd |
+| 1.57 | Teknikrum |  | X |
+| --- | --- | --- | --- |
+| 1.58 | El |  | X |
+| 1.59 | Data |  | X |
+| 1.60 | Åv-hus |  | X |
+| 1.61 | Cykelförråd |  | X |
+| 1.62 | Uteförråd |  | X |
 
 <!-- sida 128 -->
 
@@ -4687,53 +4610,31 @@ Parkering                                      X
 
 <!-- sida 129 -->
 
-ÖVRIGA NOTERINGAR
-=      Ruta att fylla i
+18                                   ÖVRIGA NOTERINGAR
+540 Elever per klass          30            =      Ruta att fylla i
 
-Mall
+Klasser per arbetslag
+6                             3
+60 Per arbetslag             10
+
+Mall                                    Förstudie
+Programarea Summa            Luft för antal         Summa  Area per
+Area per elev             Antal (st)
+(kvm)    (kvm)             personer (st)          (kvm)   elev
+20      20
 
 2540     4,7
 423
 
-```osaker-tabell
-220      220                  32
-
- 10      20
-
- 70      70                   32
-
- 15      15
-```
-
 [Tabell 129-1](handlingar.tabeller/129-1.csv)
 
-| 18 |  |  |
+|  |  |  |
 | --- | --- | --- |
-| 540 | Elever per klass | 30 |
-| 6 | Klasser per arbetslag | 3 |
-| 60 | Per arbetslag | 10 |
+|  | portioner Se separat koncept<br>Se separat<br>portioner koncept<br>3 sittningar<br>1,2 kvm/sittplats |  |
+|  |  |  |
+| 180 |  |  |
 
 [Tabell 129-2](handlingar.tabeller/129-2.csv)
-
-|  | portioner Se separat koncept<br>Se separat<br>portioner koncept<br>3 sittningar<br>1,2 kvm/sittplats |
-| --- | --- |
-|  |  |
-| 180 |  |
-
-[Tabell 129-3](handlingar.tabeller/129-3.csv)
-
-| Förstudie |  |  |
-| --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev |
-|  |  |  |
-
-[Tabell 129-4](handlingar.tabeller/129-4.csv)
-
-| Programarea<br>(kvm) | Summa<br>(kvm) | Area per elev | Luft för antal<br>personer (st) |
-| --- | --- | --- | --- |
-| 20 | 20 |  |  |
-
-[Tabell 129-5](handlingar.tabeller/129-5.csv)
 
 | 65 | 1170 |  | 32 |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4746,6 +4647,22 @@ Mall
 | 5 | 30 |  |  |  |  |  |  |
 | 8 | 48 |  |  |  |  |  |  |
 | 2 | 12 |  |  |  |  |  |  |
+
+[Tabell 129-3](handlingar.tabeller/129-3.csv)
+
+| 220 | 220 |
+| --- | --- |
+| 10 | 20 |
+| 70 | 70 |
+| 15 | 15 |
+
+[Tabell 129-4](handlingar.tabeller/129-4.csv)
+
+| 32 |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| 32 |  |  |  |
+|  |  |  |  |
 
 <!-- sida 130 -->
 
@@ -4854,17 +4771,10 @@ Ruta att fylla i
 
 [Tabell 133-1](handlingar.tabeller/133-1.csv)
 
-| FFU |  |  |  |
-| --- | --- | --- | --- |
-| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |
-|  |  |  |  |
-
-[Tabell 133-2](handlingar.tabeller/133-2.csv)
-
-| Relation |  |  |  |
-| --- | --- | --- | --- |
-| Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
-|  |  |  | (st) |
+| FFU |  |  |  |  | Relation |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Antal (st) | Summa<br>(kvm) | Area per<br>elev | Luft för antal<br>personer (st) |  | Ant<br>al<br>(st) | Summa<br>(kvm) | Area per<br>elev | Luft för<br>antal<br>personer |
+|  |  |  |  |  |  |  |  | (st) |
 
 <!-- sida 134 -->
 
@@ -5070,7 +4980,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm<br>Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
+| Summa 1 056 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 215 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 10,1 kvm |  |  |  |  |  |  |
 
 <!-- sida 148 -->
 
@@ -5310,7 +5221,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm<br>Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
+| Summa 1 547 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 778 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 9,9 kvm |  |  |  |  |  |  |
 
 <!-- sida 160 -->
 
@@ -5550,7 +5462,8 @@ Bilaga 1a - Lokalförteckning 120 barn
 | 4.5 | Cykelställ |  |  |  |  | Under tak. |
 | 4.6 | Barnvagnsförråd |  |  |  |  | Varmförråd för förskolans barnvagnar (4 st dubbelvagnar á 1000\*740 mm) eller<br>lådcyklar (2 st á 2100\*94 mm). Möjlighet till förvaring av personliga vagnar<br>utomhus under tak men inget separat utrymme. |
 | Summa |  |  |  |  |  |  |
-| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm<br>Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
+| Summa 1 331 kvm OBS: Ej övriga utrymmen ingår ej i summeringen<br>Kommunikationsfaktor\*/-area 15% eller 158 kvm \* Påslag för korridorer, trappa mm. Antagande i mallen.<br>Summa BRA 1 531 kvm |  |  |  |  |  |  |
+| Antal kvm BRA per barn 10,2 kvm |  |  |  |  |  |  |
 
 <!-- sida 172 -->
 

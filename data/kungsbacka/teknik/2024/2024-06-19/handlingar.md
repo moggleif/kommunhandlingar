@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1722ec5a1900ff6cbab106e/17183629925
 sha256: ea03bf23deece70a621415a7d09de028991241c144f41963804cf880383d7e99
 bytes: 79332559
 sidor: 442
-hamtad: 2026-11-08T10:46:13+00:00
-konverterad: 2026-11-08T10:53:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:18:26+00:00
+konverterad: 2026-11-18T01:24:44+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
@@ -2398,7 +2398,6 @@ ix Bilaga 7b Bilaga 7b Förslag på uppdragsbeskrivning Utredning Intern transpo
 
 Ramavtal
 
-Kungsbacka = 2021-02-26 = a
 Avtalsnamn Beställningscentral Startdatum 2021-04-01
 Ref. nr. 20/113 Slutdatum «2025-03-31
 Förlängning Ingen förlängning
@@ -2779,8 +2778,6 @@ företrädare för parterna skriftligt överenskommit om det.
 Leverantören får inte utan kommunens skriftliga medgivande överlåta, upplåta eller pantsätta rättigheter
 
 Sida 7/16
-
-4\)
 
 <!-- sida 55 -->
 
@@ -4673,7 +4670,7 @@ Vi känner närhet till           Utbud för besökare är Vi är starka inför
 Vardagslivet är enkelt
 varandra och mår bra                 en styrka        framtiden
 
-styr mest mot                    styr också mot
+styr mest mot
 
 styr mest mot                                    styr också mot
 
@@ -4688,6 +4685,12 @@ styr mest mot                                    styr också mot
 styr mest mot
 
 styr mest mot    styr också mot
+
+[Tabell 101-1](handlingar.tabeller/101-1.csv)
+
+|  | styr också mot |
+| --- | --- |
+|  |  |
 
 <!-- sida 102 -->
 
@@ -4705,29 +4708,41 @@ styr mest mot
 
 styr mest mot
 
-styr mest mot                   styr också mot
+styr också mot
 
-styr också mot   styr mest mot                   styr också mot
+styr också mot                                   styr också mot
+
+[Tabell 102-103-1](handlingar.tabeller/102-103-1.csv)
+
+| styr mest mot |  |
+| --- | --- |
+| styr mest mot |  |
+| styr mest mot | styr också mot |
+| styr mest mot |  |
+| styr mest mot |  |
+| styr mest mot |  |
+| styr mest mot |  |
+| styr mest mot |  |
+| styr också mot | styr mest mot |
+| styr också mot | styr mest mot |
 
 <!-- sida 103 -->
 
-styr mest mot
+styr också mot                                   styr också mot
 
-styr också mot   styr mest mot   styr också mot  styr också mot
+styr också mot
 
-styr mest mot                   styr också mot
+styr också mot
 
-styr mest mot                   styr också mot
+styr också mot
 
-styr också mot   styr mest mot
+styr också mot                                   styr också mot
 
-styr också mot   styr mest mot                   styr också mot
+styr också mot
 
-styr också mot   styr mest mot
+styr också mot
 
-styr också mot   styr också mot  styr mest mot
-
-styr också mot   styr också mot  styr mest mot
+styr också mot
 
 <!-- sida 104 -->
 
@@ -6190,7 +6205,7 @@ Beräknad översvämning i havet vid 200-
 
 19
 
-Utas mnse ne
+"Rae e ne
 
 mere
 
@@ -6419,8 +6434,6 @@ lekmiljöer skapa en bra blandning av lekmöjligheter. Vid målpunkter i staden,
 exempel i stadskärnan, vid mötesplatser samt i stråk bör det finnas möjlighet till lek.
 För att få in lekfullhet i tätt bebyggda delar av staden kan man använda sig av lättare lekredskap
 eller konst som tilltalar barn. Vi ska ha med tillgänglighetsperspektivet ur både barns och vuxnas
-
-JES
 
 perspektiv när vi utformar miljöer för lek.
 
@@ -6736,8 +6749,6 @@ byggnader uppförs i staden. Dessa byggnader ska inte placeras inom områden som
 omfattas av Kungsbackas kulturmiljöprogram.
 
 v
-
-ig
 
 i
 
@@ -7821,7 +7832,6 @@ INGEN Fattigdom omfattar fler dimensioner än den ekonomiska. Fattigdom innebär
 FATTIEDOM
 
 hv i annat även brist på frihet, makt, inflytande, hälsa, utbildning och fysisk säkerhet.
-MYT TA
 
 Den fördjupande översiktsplanens effekt på målet Ingen Fattigdom
 
@@ -8141,7 +8151,7 @@ klimatförändringarna.
 
 Mål 14 Hav och marina resurser
 
-CEN Bevara och nyttja haven och de marina resurserna på ett hållbart sätt för en hållbar
+ECEEN Bevara och nyttja haven och de marina resurserna på ett hållbart sätt för en hållbar
 CEC utveckling.
 
 rd
@@ -8791,7 +8801,7 @@ Vi visar även hur risker för människors hälsa och säkerhet hanteras vid den
 samhällsutvecklingen. Plan- och bygglagen och miljöbalken reglerar hur vi ska hantera dessa
 överväganden i samband med samhällsplanering.
 
-BB LÄS MER OM BEDÖMNING AV RIKSINTRESSEN
+B LÄS MER OM BEDÖMNING AV RIKSINTRESSEN
 
 67
 
@@ -10522,7 +10532,6 @@ Fördelning inom pilotkommunerna
 80m
 602
 4090
-HH IosHHH HuH
 04 Ha I I
 Cd EE DT c DTD oo &- € 00 cc Ad "= v LL = > 60
 X CI fc v - € ec € vo I SS = "> 2 €
@@ -13025,7 +13034,6 @@ oc Oo ” v om vd
 28 2 v = > dj
 öv FR e FE 3
 & £2 s £T \$
-hej = ” 2 5SE£
 c = cf s
 v g o
 å 2 a
@@ -14886,7 +14894,6 @@ t 1
 ' 1
 I 1
 I 1
-\| |
 [ Vatten- Gestaltning ||
 I kvalitet (biologisk I
 ' mäss
@@ -17002,7 +17009,7 @@ förvaltas av Serviceförvaltningen. De lekplatser som
 bedöms utvecklas inom den närmaste 5-årsperioden
 har sammanställts i en åtgärdslista.
 
-£atkadlatV ln
+£atkadlatV tln
 
 ackaskogen
 
@@ -17274,17 +17281,10 @@ PS
 AS
 
 ad
-
 : 4,
-
 3 Lå
-
-Få
-
 4 |
 Sä: mög — 8
-är Å
-Ia i
 
 Hallbog
 
@@ -17371,21 +17371,16 @@ Ort,
 Vinterkärr
 
 Fr "1 Voxlöv
-AN oo \$ ”
 Arencalsvågon nå ä + - Lille våle
 Ryren e en - -—- -
 Ss,; vd Lissgård
 kl Fi
-1 bd
-| : Oh AR RÖ
 Nygård stH ”Å NE? SCA 4 )
 Borgås ; Cd 5 — &
 : - /
-a 6 2, hb /
 0 VV Åt q «7 Toftered
 \$ ; - L | :
 4 < st pb vr > ” ' Tölögärden
-\- \$ se iq LCC | ; =
 Rrärkan a a 3 - 4 + - Lr |
 
 30
@@ -17638,8 +17633,6 @@ Mycket bra - Inbjudande utformning, gestaltade planteringsytor, sittgrupp och
 aktivitet (typ bouleplan).
 
 38
-
-Mäålgruppsanpassning
 
 Småbarn och skolbarn Mycket Liten Bra Mycket bra
 liten

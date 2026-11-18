@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5689acbf1a086271040b82ab/1789363875
 sha256: e6c883c7af687ad2caaa6c64b2382df8614a63acf2baa1d0c3b80c38bd36e46f
 bytes: 12325929
 sidor: 856
-hamtad: 2026-11-08T12:21:30+00:00
-konverterad: 2026-11-08T12:23:46+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T02:43:34+00:00
+konverterad: 2026-11-18T02:45:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [162, 163, 165, 170, 171, 175, 176, 178, 210, 214, 232, 234, 258, 319, 324, 326, 336, 338, 340, 344, 370, 377, 378, 386, 387, 423, 431, 432, 433, 434, 439, 666, 671, 672, 681, 831, 832]
 figurer: [3, 6, 8, 11, 12, 13, 87, 104, 155, 162, 163, 164, 165, 170, 171, 172, 175, 176, 178, 210, 212, 216, 217, 232, 234, 258, 308, 319, 321, 322, 324, 326, 328, 331, 336, 338, 344, 352, 354, 357, 361, 362, 371, 423, 424, 431, 432, 433, 434, 435, 439, 441, 496, 645, 651, 666, 671, 672, 681, 688, 689, 691, 692, 695, 696, 699, 700, 701, 831, 832, 844, 848]
 tolkade: []
@@ -268,31 +268,19 @@ Kungsbacka Live bidrar till målet genom att vara en öppen och tillgänglig mö
 kommunen i vardagen. Med temat Trygghet och frihet skapas samtal om mänskliga rättigheter, trygghet och
 beredskap, och om hur civil beredskap bidrar till att värna trygghet även i kris.
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-
-```osaker-tabell
-                               2023   2024    2025  2026    2026
-Antal påbörjade bostäder       165     213
-
-Antal färdigställda bostäder   319     324
-```
-
-Anmälda brott mot brottsbalken per invånare
-6 475   6 541
-(antal/100 000 invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-91 %   88 %    88 %
-helhetssyn
-Brukarbedömning särskilt boende
-76 %   76 %    78 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-95 %
-totalt - helhetssyn
-Invånare 16-84 år med avsaknad av tillit till
-andra
-
 4
+
+[Tabell 7-1](handlingar.tabeller/7-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 165 | 213 |  |  |  |
+| Antal färdigställda bostäder | 319 | 324 |  |  |  |
+| Anmälda brott mot brottsbalken per invånare<br>(antal/100 000 invånare) | 6 475 | 6 541 |  |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 91 % | 88 % | 88 % |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 76 % | 76 % | 78 % |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  | 95 % |  |  |  |
+| Invånare 16-84 år med avsaknad av tillit till<br>andra |  |  |  |  |  |
 
 <!-- sida 8 -->
 
@@ -384,75 +372,32 @@ material och kemikalier. Arbetet förväntas leda till färre artiklar och en st
 målet att minska verksamhetens miljöpåverkan. Andelen miljömärkta kemikalier som köps in har ökat jämfört
 med årets första del.
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % 85 % 85 %   87 %
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91 % 89 % 88 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 79 % 73 %   75 %
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-
 6
+
+[Tabell 9-10-1](handlingar.tabeller/9-10-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 85 % | 85 % | 87 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 91 % | 89 % | 88 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 79 % | 73 % | 75 % |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 92 % | 89 % | 89 % |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 73 % | 75 % |  |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 86 % | 88 % |  |  |  |
+| Total debiterad vattenförbrukning fördelat på<br>antal anslutna till vattenledningsnätet. (Här<br>ingår förbrukning från hushåll, kommunen<br>och privata verksamheter). Liter/person och<br>dygn |  |  |  |  |  |
+| Vattenförbrukning för hushåll anslutna till<br>vattenledningsnätet. Liter/person och dygn. |  |  |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 24,1 % | 26,5 % |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,79 | 1,85 |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 115 | 151 |  |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |  |  |
+| Andelen återbrukade möbler |  |  |  |  |  |
 
 <!-- sida 10 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2026
-
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 92 % 89 %   89 %
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-73 %   75 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-86 %   88 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Total debiterad vattenförbrukning fördelat på
-antal anslutna till vattenledningsnätet. (Här
-ingår förbrukning från hushåll, kommunen
-och privata verksamheter). Liter/person och
-dygn
-Vattenförbrukning för hushåll anslutna till
-vattenledningsnätet. Liter/person och dygn.
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 24,1 % 26,5 %
-(Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,79    1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 115   151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100,
-målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS)
-Vattendrag med god ekologisk status, andel
-(Kolada)
-Andelen återbrukade möbler
 
 7
 
@@ -510,28 +455,6 @@ invånare kan mötas i frågor som rör samhällets utveckling.
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2026
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 67 64     61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4     3,8     3,6
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 586 28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %   4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 19 %
-Antal nystartade företag per 1 000 invånare
-10,3    12,3
-16–64 år (etableringsfrekvens)
 2.4 I Kungsbacka utvecklas vi hela livet
 Beslutats av
 
@@ -558,6 +481,17 @@ förmåga till försörjning.
 
 9
 
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 | 64 | 61 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,8 | 3,6 |  |  |
+| Sysselsatt dagbefolkning, antal | 28 586 | 28 426 |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år | 19 % |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 10,3 | 12,3 |  |  |  |
+
 <!-- sida 13 -->
 
 Nämnden för Service                              Kungsbacka kommun
@@ -577,22 +511,6 @@ Måltider bidrar till barns och ungas förutsättningar för en bra dag i försk
 näringsriktiga måltider. Arbetet omfattar också specialkost och anpassade måltider för barn och elever som
 behöver det.
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-241     242     237
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 2,3 %
-SCB)
-Genomsnittlig betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,3 14    14
-max 20.
-Kostnad utbetalt ekonomiskt bistånd,
-325     306
-kr/invånare (Kolada)
 2.5 Ett medskapande samhälle och öppen attityd
 Beslutats av
 
@@ -606,6 +524,15 @@ bemötta i kontakt med kommunen.
 medarbetare och ledare.
 
 10
+
+[Tabell 13-1](handlingar.tabeller/13-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 241 | 242 | 237 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 2,3 % |  |  |  |
+| Genomsnittlig betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,3 | 14 | 14 |  |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 325 | 306 |  |  |  |
 
 <!-- sida 14 -->
 
@@ -641,18 +568,14 @@ Under våren har Rekryteringscenter påbörjat ett arbete med att undersöka beh
 utveckla den interna resurspoolen, chefspoolen, till att omfatta fler yrkesgrupper. Arbetet syftar till att undersöka
 hur modellen kan användas bredare för att möta kommunens behov av kompetens och kontinuitet.
 
-Indikatorer                   Utfall  Utfall  Utfall Målvärde Utfall
-2023   2024    2025  2026    2026
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 76 75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 124
-nyckeltal med skala 1–20.
-
 11
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+| Indikatorer | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 | Målvärde<br>2026 | Utfall<br>2026 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 76 | 75 |  |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 124 |  |  |  |  |
 
 <!-- sida 15 -->
 
@@ -855,10 +778,6 @@ uppföljning, delårsrapport och årsredovisning.
 
 4.1 Partnerskap
 
-Nyckeltal                        Utfall mars  Utfall juli Målvärde
-Partnerskapskvalitet: Upplevelse av nöjdhet i
-88 %        93 %         80 %
-partnerskapet
 Om fokusområdet Partnerskap
 Service arbetar aktivt för ett gott partnerskap med sina systerförvaltningar, och bidrar till ett samarbete där
 öppen kommunikation, ömsesidig respekt och förtroende präglar dialogerna. Vi samarbetar nära våra partners
@@ -876,46 +795,34 @@ systerförvaltningarnas behov och perspektiv kan tas med i vårt fortsatta utvec
 
 4.2 Mer för pengarna
 
-Nyckeltal                        Utfall mars  Utfall juli Målvärde
-Fastigheter, R12 - Personalkostnad per
-13,4 kr/kvm 13,9 kr/kvm  13,5 kr/kvm
-kvadratmeter (kvm)
-Måltider, R12 - Personalkostnadens andel av
-53,9 %       54 %        53,8 %
-omsättningen
-Lokalvård, R12 - Personalkostnad per
-19,1 kr/kvm 19,2 kr/kvm  18,9 kr/kvm
-kvadratmeter (kvm)
-
 16
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Nyckeltal | Utfall mars | Utfall juli | Målvärde |
+| --- | --- | --- | --- |
+| Partnerskapskvalitet: Upplevelse av nöjdhet i<br>partnerskapet | 88 % | 93 % | 80 % |
+
+[Tabell 19-20-2](handlingar.tabeller/19-20-2.csv)
+
+| Nyckeltal | Utfall mars | Utfall juli | Målvärde |
+| --- | --- | --- | --- |
+| Fastigheter, R12 - Personalkostnad per<br>kvadratmeter (kvm) | 13,4 kr/kvm | 13,9 kr/kvm | 13,5 kr/kvm |
+| Måltider, R12 - Personalkostnadens andel av<br>omsättningen | 53,9 % | 54 % | 53,8 % |
+| Lokalvård, R12 - Personalkostnad per<br>kvadratmeter (kvm) | 19,1 kr/kvm | 19,2 kr/kvm | 18,9 kr/kvm |
+| Lokalförsörjning, månadsvärde – Debiterad tid<br>av totalt arbetad tid | 72 % | 75 % | 65 % |
+| UKK, månadsvärde – genomsnittlig<br>personalkostnad per kundcenterärende | 82 kr | 138 kr | 90 kr |
+| Inköp, månadsvärde – inköp med avtalad<br>leverantör i procent av totala antalet inköp | 91,8 % | 90,1 % | 92 % |
+| Inköp, månadsvärde – antal fakturor med<br>automatiskt flöde av totala antalet fakturor | 89,3 % | 91,3 % | 92 % |
+| Digitalt Center, R12 – Personalkostnad i<br>förhållande till omsättning | 48 % | 47 % | 47,6 % |
+| Totala förvaltningen, R12 – Personalkostnad i<br>förhållande till total omsättning | 29,7 % | 30,1 % | 29,4 % |
+| HR&PF, R12 - Personalkostnad per löst<br>vikarietimme | 13 kr | 14 kr | 12 kr |
 
 <!-- sida 20 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2026
 
-Nyckeltal                        Utfall mars  Utfall juli Målvärde
-Lokalförsörjning, månadsvärde – Debiterad tid
-72 %        75 %         65 %
-av totalt arbetad tid
-UKK, månadsvärde – genomsnittlig
-82 kr       138 kr       90 kr
-personalkostnad per kundcenterärende
-Inköp, månadsvärde – inköp med avtalad
-91,8 %       90,1 %       92 %
-leverantör i procent av totala antalet inköp
-Inköp, månadsvärde – antal fakturor med
-89,3 %       91,3 %       92 %
-automatiskt flöde av totala antalet fakturor
-Digitalt Center, R12 – Personalkostnad i
-48 %        47 %        47,6 %
-förhållande till omsättning
-Totala förvaltningen, R12 – Personalkostnad i
-29,7 %       30,1 %      29,4 %
-förhållande till total omsättning
-HR&PF, R12 - Personalkostnad per löst
-13 kr       14 kr        12 kr
-vikarietimme
 Om fokusområdet Mer för pengarna
 Service tar ett samlat grepp för att på bästa sätt hushålla med kommunens resurser och skapa kostnadseffektiva
 och hållbara tjänster. Service möter välfärdsutmaningen, där färre ska försörja fler, med kreativitet, innovation
@@ -923,14 +830,17 @@ samt mod och arbetar även aktivt med att hitta effektiva arbetssätt, smarta l�
 digitaliseringens möjligheter. Service bjuder också in till medskapande och värderar löpande att vi prioriterar
 rätt saker. Tillsammans med våra systerförvaltningar bidrar vi till att kommunen är effektiv och attraktiv för de
 vi ytterst är till för – invånare, företag, föreningar och besökare.
+
 Mätvärden
 Nyckeltalen mäts på två olika sätt inom Mer för pengarna:
+
 •  Unika månadsvärden, som visar utfallet för en enskild månad.
 •  Rullande tolvmånadersperiod (R12) - som innebär att värdet i exempelvis julikolumnen återger utfall
 för senaste tolvmånaders perioden, det vill säga juni 2025 – juli 2026.
 Samtliga verksamheter inom Service har ett nyckeltal inom fokusområdet Mer för pengarna, med undantag för
 Inköp som har två. Därutöver mäts även hela förvaltningen på ett nyckeltal.
 Kommentarer till utfall
+
 Fastighet visar en försämring under året, vilket till stor del förklaras av resursförstärkningar i samband med
 omorganisationen 2025 inom bland annat driftoptimering, energieffektivisering och strategisk
 fastighetsförvaltning. En annan förklaring är att Fastighet har tagit över arbetet med lås och larm samt
@@ -979,45 +889,27 @@ var på liknande nivåer även föregående år.
 
 4.3 Engagerade medarbetare
 
-Nyckeltal                        Utfall mars  Utfall juni Målvärde
-Sjukfrånvaro (Andel sjukfrånvarotimmar i
-6,9 %       6,4 %
-förhållande av den totala arbetade tiden.)
-Personalomsättning (Antalet tillsvidareanställda
-medarbetare som avslutat sin anställning i
-2,3 %       3,8 %
-kommunen. Delat med genomsnittligt antal
-tillsvidareanställda.)
-Andel praktikanter i förhållande till ordinarie
-5 %         11 %         15 %
-bemanning
-Rekommendationsvilja (Ett frågeområde i
-kommunens pulsmätningsverktyg. Resultatet
-5            0           0
-redovisas som ett index mellan –100 och +100,
-där ett värde över noll indikerar ett positivt utfall.)
-Medarbetarengagemang (Ett frågeområde i
-kommunens pulsmätningsverktyg där resultatet 7,7 7,6        7,5
-utgörs av ett medelvärde på en tiogradig skala.)
-
-```osaker-tabell
-Antal riskobservationer             6           13
-Antal tillbud                       20          31
-Antal olycksfall                    22          44
-```
-
-Andel medarbetare som arbetar heltid 90 %      91 %
 18
+
+[Tabell 21-22-1](handlingar.tabeller/21-22-1.csv)
+
+| Nyckeltal | Utfall mars | Utfall juni | Målvärde |
+| --- | --- | --- | --- |
+| Sjukfrånvaro (Andel sjukfrånvarotimmar i<br>förhållande av den totala arbetade tiden.) | 6,9 % | 6,4 % |  |
+| Personalomsättning (Antalet tillsvidareanställda<br>medarbetare som avslutat sin anställning i<br>kommunen. Delat med genomsnittligt antal<br>tillsvidareanställda.) | 2,3 % | 3,8 % |  |
+| Andel praktikanter i förhållande till ordinarie<br>bemanning | 5 % | 11 % | 15 % |
+| Rekommendationsvilja (Ett frågeområde i<br>kommunens pulsmätningsverktyg. Resultatet<br>redovisas som ett index mellan –100 och +100,<br>där ett värde över noll indikerar ett positivt utfall.) | 5 | 0 | 0 |
+| Medarbetarengagemang (Ett frågeområde i<br>kommunens pulsmätningsverktyg där resultatet<br>utgörs av ett medelvärde på en tiogradig skala.) | 7,7 | 7,6 | 7,5 |
+| Antal riskobservationer | 6 | 13 |  |
+| Antal tillbud | 20 | 31 |  |
+| Antal olycksfall | 22 | 44 |  |
+| Andel medarbetare som arbetar heltid | 90 % | 91 % |  |
+| Personlig utveckling (Ett frågeområde i<br>kommunens pulsmätningsverktyg där resultatet<br>utgörs av ett medelvärde på en tiogradig skala.) | 7,1 | 7,2 | 7 |
 
 <!-- sida 22 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2026
-
-Nyckeltal                        Utfall mars  Utfall juni Målvärde
-Personlig utveckling (Ett frågeområde i
-kommunens pulsmätningsverktyg där resultatet 7,1 7,2         7
-utgörs av ett medelvärde på en tiogradig skala.)
 
 Om fokusområdet Engagerade medarbetare
 Service arbetar för att vara en attraktiv och omtänksam arbetsgivare som ger medarbetare förutsättningar att
@@ -1064,23 +956,6 @@ Delårsrapport augusti 2026
 
 4.4 Hållbarhet
 
-Nyckeltal                        Utfall mars  Utfall juli Målvärde
-Koldioxidutsläpp per kilo inköpta livsmedel
-1,25 CO2     1,76 CO2     1,5 CO2
-(Måltider)
-Totalt matsvinn per portion        41 g         41 g        30 g
-Miljömedvetna materialval (Lokalförsörjning) 86 % 86 %      95 %
-Elanvändning i kommunens lokaler i jämförelse
-0,1 %       -0,88 %      -2 %
-med förra året.
-Solcellsproduktion - Installerad effekt 4 272 kw 4 272 kw 4 654 kw
-
-```osaker-tabell
-Fossiloberoende fordon (Fastigheter) 97,5 %    97,5 %      100 %
-Miljömedvetna inköp               9,69 %       7,6 %
-Miljömedvetna materialval (Fastigheter) 100 %  99 %         95 %
-```
-
 Om fokusområdet Hållbarhet
 
 Service arbetar för att vara ett föredöme i sitt hållbarhetsarbete, ur både ett ekonomiskt, ekologiskt och socialt
@@ -1115,6 +990,19 @@ installera ytterligare 300 kW per år. Hittills under 2026 har 22 kW installerat
 Bedömningen är att målet om totalt 1 200 kW ny installerad effekt till och med 2027 kan nås.
 
 20
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Nyckeltal | Utfall mars | Utfall juli | Målvärde |
+| --- | --- | --- | --- |
+| Koldioxidutsläpp per kilo inköpta livsmedel<br>(Måltider) | 1,25 CO2 | 1,76 CO2 | 1,5 CO2 |
+| Totalt matsvinn per portion | 41 g | 41 g | 30 g |
+| Miljömedvetna materialval (Lokalförsörjning) | 86 % | 86 % | 95 % |
+| Elanvändning i kommunens lokaler i jämförelse<br>med förra året. | 0,1 % | -0,88 % | -2 % |
+| Solcellsproduktion - Installerad effekt | 4 272 kw | 4 272 kw | 4 654 kw |
+| Fossiloberoende fordon (Fastigheter) | 97,5 % | 97,5 % | 100 % |
+| Miljömedvetna inköp | 9,69 % | 7,6 % |  |
+| Miljömedvetna materialval (Fastigheter) | 100 % | 99 % | 95 % |
 
 <!-- sida 24 -->
 
@@ -1504,21 +1392,6 @@ Delårsrapport augusti 2026
 
 6.3 Resursmått
 
-Utfall jan Utfall jan  Utfall jan Utfall jan   Utfall jan
-Namn
-2022-jun 2022 2023-jun 2023 2024-jun 2024 2025-jun 2025 2026-jun 2026
-Andel heltid   84 %       88 %       89 %       90 %          91 %
-Anställda andel
-69 %       68 %       68 %       67 %          67 %
-kvinnor
-Anställda andel
-31 %       32 %       32 %       33 %          33 %
-män
-Anställda totalt 791      821        814        803            831
-Antal
-medarbetare    17          17         20         19             19
-per enhetschef
-Medelålder     48          48         49         50             49
 6.4 Effektmått
 
 Utfall jan 2022 Utfall jan 2023 Utfall jan 2024 Utfall jan 2025 Utfall jan 2026
@@ -1544,6 +1417,17 @@ Sjukfrånvaro
 Totalt
 
 29
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+|  | Namn | Utfall jan<br>2022-jun 2022 | Utfall jan<br>2023-jun 2023 | Utfall jan<br>2024-jun 2024 | Utfall jan<br>2025-jun 2025 | Utfall jan<br>2026-jun 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel heltid | 84 % | 88 % | 89 % | 90 % | 91 % |
+|  | Anställda andel<br>kvinnor | 69 % | 68 % | 68 % | 67 % | 67 % |
+|  | Anställda andel<br>män | 31 % | 32 % | 32 % | 33 % | 33 % |
+|  | Anställda totalt | 791 | 821 | 814 | 803 | 831 |
+|  | Antal<br>medarbetare<br>per enhetschef | 17 | 17 | 20 | 19 | 19 |
+|  | Medelålder | 48 | 48 | 49 | 50 | 49 |
 
 <!-- sida 33 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7f17e7f7197627ca5f92b1d1/1749806738
 sha256: e93982bc60a03eb778eee2469010b71cc59ec2b68ea4cfe66c304964a5bf45d7
 bytes: 41611983
 sidor: 407
-hamtad: 2026-11-08T11:04:42+00:00
-konverterad: 2026-11-08T11:08:57+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T01:33:28+00:00
+konverterad: 2026-11-18T01:36:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -1216,21 +1216,24 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Anläggningens volym | På tid som aviserats av<br>entreprenör | Inom fem valda<br>dagar | Inom valt dygn | På specifik timme |
+| Anläggningens volym | På tid som aviserats av | Inom fem valda | Inom valt dygn | På specifik timme |
 | --- | --- | --- | --- | --- |
+|  | entreprenör | dagar |  |  |
 | Mindre än 2 kubikmeter | 1 395 | 1 650 | 5 120 | 7 940 |
 | 2–4 kubikmeter | 1 945 | 2 385 | 5 690 | 8 505 |
 
 [Tabell 26-2](handlingar.tabeller/26-2.csv)
 
-| På tid som aviserats av<br>entreprenör | Inom fem valda dagar | Inom valt dygn | På specifik timme |
+| På tid som aviserats av | Inom fem valda dagar | Inom valt dygn | På specifik timme |
 | --- | --- | --- | --- |
+| entreprenör |  |  |  |
 | 330 | 690 | 690 | 690 |
 
 [Tabell 26-3](handlingar.tabeller/26-3.csv)
 
-| Anläggningens volym i<br>kubikmeter | På tid som aviserats av<br>entreprenör | Inom fem valda dagar | Inom valt dygn |
+| Anläggningens volym i | På tid som aviserats av | Inom fem valda dagar | Inom valt dygn |
 | --- | --- | --- | --- |
+| kubikmeter | entreprenör |  |  |
 | Mindre än 2 kubikmeter | 2 375 | 2 875 | 5 555 |
 
 [Tabell 26-27-4](handlingar.tabeller/26-27-4.csv)

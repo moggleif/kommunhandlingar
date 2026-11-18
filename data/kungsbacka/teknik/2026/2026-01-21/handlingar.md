@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b21190b/1768548799
 sha256: 3bfe2bd61a2006a1dd092f77cf1374b00d3cf2ae7896929b965d93b22c1441b8
 bytes: 6800302
 sidor: 91
-hamtad: 2026-11-08T11:25:54+00:00
-konverterad: 2026-11-08T11:26:29+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T01:51:00+00:00
+konverterad: 2026-11-18T01:51:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok]
@@ -1919,8 +1919,9 @@ Kungsbacka kommun         Avfallstaxa 2026                   7
 
 [Tabell 49-2](handlingar.tabeller/49-2.csv)
 
-| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost |
+| Kärlstorlek, restavfall | Hämtningsintervall | Matavfall blir | Egen |
 | --- | --- | --- | --- |
+|  |  | Biogas | Varmkompost |
 | 130 liter | Varannan vecka, helår | 2 850 | 2 850 |
 |  | Var fjärde vecka, helår | Inte valbar | 2190 |
 | 190 liter | Varannan vecka, helår | 3 485 | 3 485 |
@@ -1936,8 +1937,9 @@ Kungsbacka kommun         Avfallstaxa 2026                   7
 
 [Tabell 49-4](handlingar.tabeller/49-4.csv)
 
-| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir<br>Biogas | Egen<br>Varmkompost |
+| Kärlstorlek restavfall | Hämtningsintervall | Matavfall blir | Egen |
 | --- | --- | --- | --- |
+|  |  | Biogas | Varmkompost |
 | 130 liter | Varannan vecka, delår | 1 420 | 1 420 |
 |  | Var fjärde vecka, delår | Inte valbar | 1 100 |
 | 190 liter | Varannan vecka, delår | 1 745 | 1 745 |
@@ -1977,8 +1979,9 @@ Kungsbacka kommun         Avfallstaxa 2026                   8
 
 [Tabell 50-2](handlingar.tabeller/50-2.csv)
 
-| Avstånd i meter | Varje vecka, delår | Varannan vecka, delår | Var fjärde vecka,<br>delår |
+| Avstånd i meter | Varje vecka, delår | Varannan vecka, delår | Var fjärde vecka, |
 | --- | --- | --- | --- |
+|  |  |  | delår |
 | 2–10 | 280 | 65 | 40 |
 | 11–20 | 1 090 | 280 | 145 |
 | 21–50 | 1 905 | 485 | 245 |
@@ -2349,8 +2352,9 @@ Kungsbacka kommun         Avfallstaxa 2026                   15
 
 [Tabell 57-2](handlingar.tabeller/57-2.csv)
 
-| Utkörning och hemtagning av container, inklusive tömning vid hemtagning.<br>Inklusive 5 st matavfallskärl 140 liter | 7 660 |
+| Utkörning och hemtagning av container, inklusive tömning vid hemtagning. | 7 660 |
 | --- | --- |
+| Inklusive 5 st matavfallskärl 140 liter |  |
 | 4–6 kubikmeter hyra per dag | 835 |
 | 7–10 kubikmeter hyra per dag | 1 250 |
 | Extra matavfallskärl 140 liter, per styck | 1 010 |
@@ -2634,12 +2638,18 @@ Kungsbacka kommun         Avfallstaxa 2026                   21
 
 [Tabell 63-2](handlingar.tabeller/63-2.csv)
 
-| Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl eller annan<br>typ av behållare, per kärl/behållare och hämtningstillfälle | 2 030 |
+| Fast livsmedelsavfall (ABP-avfall kategori 3), separat utsorterat i 140l-kärl eller annan | 2 030 |
 | --- | --- |
-| Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per<br>container och hämtningstillfälle | 7 105 |
-| Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall,<br>kategori 3), per behållare och hämtning | 10 150 |
-| Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare<br>och hämtningstillfälle | 609 |
-| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade<br>produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen<br>eller serveringsverksamhet, per hämtning \* | 7 105 |
+| typ av behållare, per kärl/behållare och hämtningstillfälle |  |
+| Fast livsmedelsavfall (ABP-avfall, kategori 3), separat utsorterat i container, per | 7 105 |
+| container och hämtningstillfälle |  |
+| Flytande livsmedelsavfall, separat utsorterat i sluten behållare/tank (ABP-avfall, | 10 150 |
+| kategori 3), per behållare och hämtning |  |
+| Livsmedelsavfall i form av ätlig olja eller liknande flytande ätligt fett, per behållare | 609 |
+| och hämtningstillfälle |  |
+| Övrigt kommunalt avfall i separat utsorterade fraktioner. Exempelvis kasserade | 7 105 |
+| produkter, textilavfall eller avfall som uppkommit i verksamhetens personalutrymmen |  |
+| eller serveringsverksamhet, per hämtning \* |  |
 
 <!-- sida 64 -->
 
@@ -2831,25 +2841,31 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
 
-| Schemalagd tömning<br>Utförs under specifik vecka, avisering skickas cirka tre veckor före planerad tömningsvecka |  |
-| --- | --- |
-| Anläggning mindre än 2 kubikmeter | 1 495 |
-| Anläggning 2–4 kubikmeter | 2 085 |
-| Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 2 545 |
-| Budad tömning inom fem dygn<br>Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |
-| Anläggning mindre än 2 kubikmeter | 1 770 |
-| Anläggning 2–4 kubikmeter\* | 2 555 |
-| Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 3 080 |
-| Tidsbeställd tömning<br>Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |
-| Anläggning mindre än 2 kubikmeter | 8 500 |
-| Anläggning 2–4 kubikmeter\* | 9 100 |
-| Budad tömning inom ett dygn<br>Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |
-| Anläggning mindre än 2 kubikmeter | 5 480 |
-| Anläggning 2–4 kubikmeter\* | 6 090 |
-| Byggtoalett/portabel toalett, mindre än 2 kubikmeter | 5 945 |
-| Akut tömning<br>Utförs inom 4 timmar |  |
-| Anläggning mindre än 2 kubikmeter | 10 505 |
-| Anläggning 2–4 kubikmeter\* | 11 110 |
+| Schemalagd tömning |  |  |  |
+| --- | --- | --- | --- |
+| Utförs under specifik vecka, avisering skickas cirka tre veckor före planerad tömningsvecka |  |  |  |
+| Anläggning mindre än 2 kubikmeter |  | 1 495 |  |
+| Anläggning 2–4 kubikmeter |  | 2 085 |  |
+| Byggtoalett/portabel toalett, mindre än 2 kubikmeter |  | 2 545 |  |
+| Budad tömning inom fem dygn |  |  |  |
+| Utförs inom fem helgfria vardagar eller under fem specifikt valda vardagar |  |  |  |
+| Anläggning mindre än 2 kubikmeter |  | 1 770 |  |
+| Anläggning 2–4 kubikmeter\* |  | 2 555 |  |
+| Byggtoalett/portabel toalett, mindre än 2 kubikmeter |  | 3 080 |  |
+| Tidsbeställd tömning |  |  |  |
+| Utförs tidigast 25 timmar efter beställning (på specifik timme, helgfria vardagar klockan 06–15) |  |  |  |
+| Anläggning mindre än 2 kubikmeter |  | 8 500 |  |
+| Anläggning 2–4 kubikmeter\* |  | 9 100 |  |
+|  | Budad tömning inom ett dygn |  |  |
+|  | Utförs inom 24 timmar, även på kvällar och helger eller inom valt dygn |  |  |
+|  |  |  |  |
+| Anläggning mindre än 2 kubikmeter |  | 5 480 |  |
+| Anläggning 2–4 kubikmeter\* |  | 6 090 |  |
+| Byggtoalett/portabel toalett, mindre än 2 kubikmeter |  | 5 945 |  |
+| Akut tömning |  |  |  |
+| Utförs inom 4 timmar |  |  |  |
+| Anläggning mindre än 2 kubikmeter |  | 10 505 |  |
+| Anläggning 2–4 kubikmeter\* |  | 11 110 |  |
 
 <!-- sida 69 -->
 
@@ -2898,7 +2914,8 @@ Kungsbacka kommun         Avfallstaxa 2026                   27
 | Framkörning vid uteblivet uppdrag (bomkörning) | 1 770 |
 | Kranbil vid hämtning (kr per påbörjad timme, minsta debitering 1 timme) | 2 245 |
 | Slambil (kr per påbörjad timme, minsta debitering 1 timme) | 2 830 |
-| Timpris för extra personal vid svåra arbetsmoment (kr per påbörjad timme, minsta<br>debitering 1 timme) | 1 090 |
+| Timpris för extra personal vid svåra arbetsmoment (kr per påbörjad timme, minsta | 1 090 |
+| debitering 1 timme) |  |
 
 <!-- sida 70 -->
 
@@ -3332,8 +3349,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 4
 
 [Tabell 81-1](handlingar.tabeller/81-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.3.2 | LAS, kollektivavtal, lönestruktur mm | Verksamhetschefer, enhetschefer, direkt underställd<br>personal<br>Tillsvidareanställning och tidsbegränsade anställningar längre än<br>sex månader | Fc | - Trafikplanerare anställd 2025-12-01<br>av Åsa Dykes<br>- Anläggningstekniker anställd 2025-<br>12-01 av Nina Fjellskålnes |
 
 <!-- sida 82 -->
@@ -3367,8 +3385,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 5
 
 [Tabell 82-84-1](handlingar.tabeller/82-84-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för beslutet |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för beslutet |  |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  | delegat |  |  |
 | 2.4.4 | 10 kap. trafikförordningen (1998:1276) | Beslut om tillfälliga trafikföreskrifter | Fc<br>Vc Trafik &<br>Utemiljö<br>Ec Planering<br>& Utformning<br>Ec<br>Anläggning<br>& Utveckling<br>Trafik-<br>ingenjör<br>Samordnare | 3st beslut |  |
 |  |  |  |  | 2025-12-04 | 1384 2025-00384 |
 |  |  |  |  | 2025-12-23 | 1384 2025-00425 |
@@ -3567,8 +3586,9 @@ K ungsbacka kommun     Delegering av beslutanderätt för nämnden för Teknik 1
 
 [Tabell 88-1](handlingar.tabeller/88-1.csv)
 
-| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig<br>delegat | Taget beslut och datum för<br>beslutet |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Ansvarig | Taget beslut och datum för |
 | --- | --- | --- | --- | --- |
+|  |  |  | delegat | beslutet |
 | 2.8.3 | 37§ Lokala avfallsföreskrifter för<br>Kungsback kommun | Besluta om godkännande av kompostering av matavfall | FC<br>Anette<br>Englund,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 251204, 1 st<br>251209, 1 st<br>251216, 1 st<br>251219, 1 st |
 | 2.8.5 | 42 § Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om att använda gemensam avfallsbehållare | Fc<br>Anette<br>Englund, ,<br>administratör<br>Kund &<br>Kommun-<br>ikation | 251202, 1 st |
 | 2.8.6 | 43, 43a §§ Lokala avfallsföreskrifter för<br>Kungsbacka kommun | Besluta om tillfälligt uppehåll i sophämtning | Fc<br>Anette Englund,<br>administratör<br>Kund &<br>Kommunikation | 251201, 2 st<br>251208, 2 st<br>251209, 5 st<br>251210, 1 st<br>251211, 1 st<br>251212, 1 st<br>251219, 6 st |

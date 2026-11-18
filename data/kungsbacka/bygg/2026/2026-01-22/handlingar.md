@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.45b391719bb98c9f255c0d1/17685665935
 sha256: b33308882f189a7ee325523ceba61dce8f9ab124713e489116e0c42d8cf72dfd
 bytes: 13919443
 sidor: 193
-hamtad: 2026-11-08T09:42:19+00:00
-konverterad: 2026-11-08T09:43:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T00:20:40+00:00
+konverterad: 2026-11-18T00:21:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -814,28 +814,66 @@ innehåller ”tas bort” ingå i underlaget. Övriga förändringar, se kommen
 
 | Sida | Stycke | Aktuell version | Ny version |
 | --- | --- | --- | --- |
-| 3 | 2 | Under perioden 2027–2029<br>förväntas nämndernas<br>verksamheter präglas av ökad<br>komplexitet, skärpta regelverk och<br>tydligare krav på digitalisering,<br>samordning och hållbar utveckling<br>– ekologisk, social och ekonomisk. | Under perioden 2027–2029 förväntas<br>nämndernas verksamheter präglas av<br>ökad komplexitet, nya regelverk<br>och högre förväntan på digitalisering,<br>samordning och hållbar utveckling –<br>ekologisk, social och ekonomisk. |
+| 3 | 2 | Under perioden 2027–2029 | Under perioden 2027–2029 förväntas |
+|  |  | förväntas nämndernas |  |
+|  |  |  | nämndernas verksamheter präglas av |
+|  |  | verksamheter präglas av ökad |  |
+|  |  |  | ökad komplexitet, nya regelverk |
+|  |  | komplexitet, skärpta regelverk och |  |
+|  |  |  | och högre förväntan på digitalisering, |
+|  |  | tydligare krav på digitalisering, |  |
+|  |  |  | samordning och hållbar utveckling – |
+|  |  | samordning och hållbar utveckling |  |
+|  |  |  | ekologisk, social och ekonomisk. |
+|  |  | – ekologisk, social och ekonomisk. |  |
 
 [Tabell 24-2](handlingar.tabeller/24-2.csv)
 
 | Sida | Stycke |  | Aktuell version | Ny version |  |
 | --- | --- | --- | --- | --- | --- |
-| 6 | 3 | "Kungsbacka har attraktiva och varierade<br>boendemiljöer för olika behov och<br>livsfaser." |  |  | "Kungsbacka erbjuder attraktiva<br>boendemiljöer som skapar<br>möjligheter för alla att hitta ett<br>boende som passar deras<br>livssituation." |
-| 7 | 1 | "Anmälda brott mot brottsbalken per<br>invånare (antal/100 000 invånare, BRÅ)" |  |  | Tas bort |
-| 7 | 1 | "Invånare 16–84 år med avsaknad av tillit<br>till andra (Folkhälsoenkäten)" |  |  | Tas bort |
-| 7 | 1 | "Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn (KOLADA)" |  |  | Tas bort |
+| 6 | 3 | "Kungsbacka har attraktiva och varierade |  |  | "Kungsbacka erbjuder attraktiva |
+|  |  |  |  |  | boendemiljöer som skapar |
+|  |  | boendemiljöer för olika behov och |  |  | möjligheter för alla att hitta ett |
+|  |  | livsfaser." |  |  | boende som passar deras |
+|  |  |  |  |  | livssituation." |
+| 7 | 1 | "Anmälda brott mot brottsbalken per |  |  | Tas bort |
+|  |  | invånare (antal/100 000 invånare, BRÅ)" |  |  |  |
+| 7 | 1 | "Invånare 16–84 år med avsaknad av tillit |  |  | Tas bort |
+|  |  | till andra (Folkhälsoenkäten)" |  |  |  |
+| 7 | 1 | "Brukarbedömning hemtjänst äldreomsorg, |  |  | Tas bort |
+|  |  | helhetssyn (KOLADA)" |  |  |  |
 
 <!-- sida 25 -->
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| 7 | 1 | "Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn (KOLADA)" | Tas bort |
+| 7 | 1 | "Brukarbedömning särskilt boende | Tas bort |
 | --- | --- | --- | --- |
-| 7 | 1 | "Brukarbedömning individ- och<br>familjeomsorg totalt - helhetssyn<br>(KOLADA)" | Tas bort |
-| 8 | 1 | "Kungsbacka ska minska klimatpåverkan<br>och stärka cirkulära flöden samtidigt som<br>biologisk mångfald värnas. Kungsbacka<br>ska verka för ett fossilfritt och cirkulärt<br>samhälle som också skyddar och främjar<br>biologisk mångfald." | Behåll tidigare: "Kungsbacka ska<br>verka för ett fossilfritt och cirkulärt<br>samhälle som också skyddar och<br>främjar biologisk mångfald." |
-| 9 | 1 | "Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.)" | Tas bort |
-| 9 | 1 | "Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, ÅK 4 i %<br>- Pojkar. (Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.)" | Tas bort |
-| 9 | 1 | "Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.)" | Tas bort |
+|  |  | äldreomsorg, helhetssyn (KOLADA)" |  |
+| 7 | 1 | "Brukarbedömning individ- och | Tas bort |
+|  |  | familjeomsorg totalt - helhetssyn |  |
+|  |  | (KOLADA)" |  |
+| 8 | 1 | "Kungsbacka ska minska klimatpåverkan | Behåll tidigare: "Kungsbacka ska |
+|  |  | och stärka cirkulära flöden samtidigt som |  |
+|  |  | biologisk mångfald värnas. Kungsbacka | verka för ett fossilfritt och cirkulärt |
+|  |  | ska verka för ett fossilfritt och cirkulärt | samhälle som också skyddar och |
+|  |  | samhälle som också skyddar och främjar | främjar biologisk mångfald." |
+|  |  | biologisk mångfald." |  |
+| 9 | 1 | "Andelen elever som skattat sin egen | Tas bort |
+|  |  | livstillfredsställelse som god eller mycket |  |
+|  |  | god under elevhälsosamtalet, ÅK 4 i % |  |
+|  |  | - Flickor.(Elevhälsan i Kungsbacka utvecklar |  |
+|  |  | metod utifrån hälsosamtal med elever.)" |  |
+| 9 | 1 | "Andelen elever som skattat sin egen | Tas bort |
+|  |  | livstillfredsställelse som god eller mycket |  |
+|  |  | god under elevhälsosamtalet, ÅK 4 i % |  |
+|  |  | - Pojkar. (Elevhälsan i Kungsbacka utvecklar |  |
+|  |  | metod utifrån hälsosamtal med elever.)" |  |
+| 9 | 1 | "Andelen elever som skattat sin egen | Tas bort |
+|  |  | livstillfredsställelse som god eller mycket |  |
+|  |  | god under elevhälsosamtalet, ÅK 8 i % |  |
+|  |  | - Flickor.(Elevhälsan i Kungsbacka utvecklar |  |
+|  |  | metod utifrån hälsosamtal med elever.)" |  |
 | 9 | 1 | Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka<br>utvecklar metod utifrån hälsosamtal med<br>elever.)" | Tas bort |
 | 9 | 1 | "Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, Gymnasiet<br>ÅK 1 i% - flickor." | Tas bort |
 | 9 | 1 | Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket<br>god under elevhälsosamtalet, Gymnasiet<br>ÅK 1 i% - pojkar. | Tas bort |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1e6538661929de083d26f9c5/1729605178
 sha256: 487cb897711850c71a4b34f09020e695f050ada85601e5624f282aecb4ba6f46
 bytes: 10613489
 sidor: 153
-hamtad: 2026-11-08T09:00:13+00:00
-konverterad: 2026-11-08T09:00:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:44:22+00:00
+konverterad: 2026-11-17T23:44:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [91]
 figurer: [91, 92, 93, 94, 95, 107, 108, 109, 110, 111, 113, 114, 115, 117, 118, 119, 120, 124, 127]
 tolkade: []
@@ -1228,12 +1228,7 @@ lösningar
 • skapa ändamålsenliga tekniska förutsättningar
 • säkerställa att tillräckliga medel inom tilldelad ram öronmärks för innovationsarbete och digitalisering som
 bidrar till framtidens välfärd
-Indikator                         Målsättning 2025
 
-Andel innovationsprojekt som drivits under året Öka
-Andel av bruttokostnaden som avsätts för
-Öka
-innovationsarbete och digitalisering
 6.1.2 Direktiv - Civil beredskap
 
 Beslutats av
@@ -1249,6 +1244,13 @@ bor i Kungsbacka har ansvar för den kommunala, och därmed också nationella, b
 är tydlig med att ansvaret ska ligga så nära där ansvaret finns i vardagen så i kommunen ska alla nämnder ha
 
 16
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Indikator | Målsättning 2025 |
+| --- | --- |
+| Andel innovationsprojekt som drivits under året | Öka |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | Öka |
 
 <!-- sida 33 -->
 
@@ -1383,114 +1385,46 @@ Nämndbudget 2025
 
 8.2 Resursmått
 
-Utfall  Utfall  Budget  Budget  Budget  Budget
-Delområde Nyckeltal
-2022     2023    2023    2024    2025    2026
-Kostnad
-per inskrivet
-Förskola  barn,      175 173  183 671
-kommunal
-förskola
-Kostnad
-per inskrivet
-Pedagogisk
-barn i     127 000  131 824
-omsorg
-pedagogisk
-omsorg
-Kostnad
-Förskoleklass         81 913  75 263
-per elev
-Kostnad
-kommunal
-Grundskola            119100  128 776
-grundskola åk
-1-9, kr/elev
-Kostnad
-per inskrivet
-Fritidshem barn,      48 538  48 258
-kommunalt
-fritidshem
-Kostnad
-Grundsärskola per elev, 547700 615 200
-grundsärskola
 8.3 Prestationsmått
-Budget   Budget    Budget
-Delområde Nyckeltal    Utfall 2022 Utfall 2023
-2023     2024      2025
-Antal
-inskrivna barn
-4,5       4,6
-per årsarbetare,
-förskola
-Förskola    Barn 1-5 år,
-85,4 %    88,7 %
-andel i förskola
-Andel
-förskolebarn i 15 %     15 %
-enskild regi
+
 20
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2022 | Utfall<br>2023 | Budget<br>2023 | Budget<br>2024 | Budget<br>2025 | Budget<br>2026 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Förskola | Kostnad<br>per inskrivet<br>barn,<br>kommunal<br>förskola | 175 173 | 183 671 |  |  |  |  |
+| Pedagogisk<br>omsorg | Kostnad<br>per inskrivet<br>barn i<br>pedagogisk<br>omsorg | 127 000 | 131 824 |  |  |  |  |
+| Förskoleklass | Kostnad<br>per elev | 81 913 | 75 263 |  |  |  |  |
+| Grundskola | Kostnad<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 119100 | 128 776 |  |  |  |  |
+| Fritidshem | Kostnad<br>per inskrivet<br>barn,<br>kommunalt<br>fritidshem | 48 538 | 48 258 |  |  |  |  |
+| Grundsärskola | Kostnad<br>per elev,<br>grundsärskola | 547700 | 615 200 |  |  |  |  |
+
+[Tabell 36-38-2](handlingar.tabeller/36-38-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Budget<br>2023 | Budget<br>2024 | Budget<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Förskola | Antal<br>inskrivna barn<br>per årsarbetare,<br>förskola | 4,5 | 4,6 |  |  |  |
+|  | Barn 1-5 år,<br>andel i förskola | 85,4 % | 88,7 % |  |  |  |
+|  | Andel<br>förskolebarn i<br>enskild regi | 15 % | 15 % |  |  |  |
+|  | Årsarbetare i<br>förskolan med<br>pedagogisk<br>högskoleexamen | 48 % | 47 % |  |  |  |
+| Pedagogisk<br>omsorg | Antal<br>inskrivna barn<br>per personal,<br>pedagogisk<br>omsorg | 4,3 | 4,8 |  |  |  |
+|  | Andel (%)<br>inskriv. barn i<br>ensk. regi | 61 % | 64 % |  |  |  |
+|  | Antal barn i<br>enskild regi 0-12<br>år, pedagogisk<br>omsorg |  |  |  |  |  |
+| Förskoleklass | Årsarbetare i<br>förskoleklass<br>med pedagogisk<br>högskoleexamen | 93,6 % | 88,3 % |  |  |  |
+|  | Antal<br>elever/lärare | 19 | 17,7 |  |  |  |
+| Grundskola | Elever/lärare<br>(årsarbetare) i<br>grundskola F-9 | 13,2 | 12,4 |  |  |  |
+|  | Elever<br>folkbokf. i<br>kommunen,<br>andel i<br>fristående skola | 17,9 % | 18,9 % |  |  |  |
+|  | Lärare med<br>pedagogisk<br>högskoleexamen<br>i kommunal<br>grundskola åk 1-<br>9 | 88,6 % | 90,2 % |  |  |  |
+| Fritidshem | Inskrivna<br>elever per<br>årsarbetare i<br>fritidshem | 21,3 | 21 |  |  |  |
+|  | Årsarbetare i<br>fritidshem med<br>pedagogisk<br>högskoleexamen | 43 % | 47 % |  |  |  |
+| Grundsärskola | Antal elever<br>per lärare<br>(heltidstjänst) | 4,3 | 5,5 |  |  |  |
 
 <!-- sida 37 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2025
 
-Budget   Budget    Budget
-Delområde Nyckeltal    Utfall 2022 Utfall 2023
-2023     2024      2025
-Årsarbetare i
-förskolan med
-48 %     47 %
-pedagogisk
-högskoleexamen
-Antal
-inskrivna barn
-per personal,  4,3       4,8
-pedagogisk
-omsorg
-Pedagogisk  Andel (%)
-omsorg    inskriv. barn i 61 %    64 %
-ensk. regi
-Antal barn i
-enskild regi 0-12
-år, pedagogisk
-omsorg
-Årsarbetare i
-förskoleklass
-93,6 %    88,3 %
-med pedagogisk
-Förskoleklass högskoleexamen
-Antal
-19       17,7
-elever/lärare
-Elever/lärare
-(årsarbetare) i 13,2    12,4
-grundskola F-9
-Elever
-folkbokf. i
-kommunen,     17,9 %    18,9 %
-andel i
-Grundskola
-fristående skola
-Lärare med
-pedagogisk
-högskoleexamen
-88,6 %    90,2 %
-i kommunal
-grundskola åk 1-
-9
-Inskrivna
-elever per
-21,3      21
-årsarbetare i
-fritidshem
-Fritidshem
-Årsarbetare i
-fritidshem med
-43 %     47 %
-pedagogisk
-högskoleexamen
 21
 
 <!-- sida 38 -->
@@ -1498,76 +1432,27 @@ högskoleexamen
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2025
 
-Budget   Budget    Budget
-Delområde Nyckeltal    Utfall 2022 Utfall 2023
-2023     2024      2025
-Antal elever
-Grundsärskola per lärare 4,3       5,5
-(heltidstjänst)
 8.4 Effektmått
 
-Budget    Budget    Budget
-Delområde Nyckeltal   Utfall 2022 Utfall 2023
-2024      2025      2026
-Andel (%)
-elever i åk. 9
-som uppnått
-målen i alla  82 %     81,7 %
-ämnen,
-kommunala
-skolor
-Andel (%)
-elever i årskurs
-9 behöriga till
-88,7 %    89,1 %
-gymnasieskolan,
-kommunala
-skolor
-Genomsnittligt
-meritvärde i
-237      236,5
-årskurs 9,
-kommunala
-skolor
-Grundskola
-Andel elever
-som uppnått
-målen i samtliga
-ämnen,         1        2,2
-avvikelse från
-modellberäknat
-värde
-Andel elever
-som är behöriga
-till ett
-yrkesprogram, -1,1      -0,1
-avvikelse från
-modellberäknat
-värde
-Andel elever
-åk 9 behöriga till
-94,4 %     \~100
-yrkesprogram,
-fristående skolor
 22
+
+[Tabell 38-39-1](handlingar.tabeller/38-39-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Budget<br>2024 | Budget<br>2025 | Budget<br>2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Grundskola | Andel (%)<br>elever i åk. 9<br>som uppnått<br>målen i alla<br>ämnen,<br>kommunala<br>skolor | 82 % | 81,7 % |  |  |  |
+|  | Andel (%)<br>elever i årskurs<br>9 behöriga till<br>gymnasieskolan,<br>kommunala<br>skolor | 88,7 % | 89,1 % |  |  |  |
+|  | Genomsnittligt<br>meritvärde i<br>årskurs 9,<br>kommunala<br>skolor | 237 | 236,5 |  |  |  |
+|  | Andel elever<br>som uppnått<br>målen i samtliga<br>ämnen,<br>avvikelse från<br>modellberäknat<br>värde | 1 | 2,2 |  |  |  |
+|  | Andel elever<br>som är behöriga<br>till ett<br>yrkesprogram,<br>avvikelse från<br>modellberäknat<br>värde | -1,1 | -0,1 |  |  |  |
+|  | Andel elever<br>åk 9 behöriga till<br>yrkesprogram,<br>fristående skolor | 94,4 % | \~100 |  |  |  |
+|  | Genomsnittligt<br>meritvärde i<br>årskurs 9,<br>fristående skolor | 252,6 | 272,2 |  |  |  |
+|  | Andel elever<br>i åk. 9 som<br>uppnått målen i<br>alla ämnen,<br>fristående skolor | 91,1 % | 95,3 % |  |  |  |
 
 <!-- sida 39 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2025
-
-Budget    Budget    Budget
-Delområde Nyckeltal   Utfall 2022 Utfall 2023
-2024      2025      2026
-Genomsnittligt
-meritvärde i  252,6    272,2
-årskurs 9,
-fristående skolor
-Andel elever
-i åk. 9 som
-uppnått målen i 91,1 % 95,3 %
-alla ämnen,
-fristående skolor
 
 23
 
@@ -1582,71 +1467,46 @@ Nämndbudget 2025
 
 9.2 Personalmått
 
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-
-Anställda totalt      2 592  2 606     2 494
-Anställda andel kvinnor 85,5 % 85,1 %  85,2 %
-
-Anställda andel män  14,5 %  14,9 %    14,8 %
-Andel heltid          88 %   89,3 %    89,8 %
-Andel män som har heltid 89 % 92 %     91,7 %
-
-```osaker-tabell
-Sjukfrånvaro Totalt   6,9 %  7,3 %     6,5 %
-Sjukfrånvaro Kvinnor  7,3 %  7,7 %     7 %
-Sjukfrånvaro Män      4,9 %  5 %       4 %
-
-Korttidssjukfrånvaro  3,8 %  4,1 %     3,4 %
-```
-
-Korttidssjukfrånvaro Kvinnor 4 % 4,2 % 3,5 %
-
-Korttidssjukfrånvaro Män 3 % 3,4 %     2,9 %
-Långtidssjukfrånvaro  3,1 %  3,2 %     3,1 %
-Långtidssjukfrånvaro Kvinnor 3,3 % 3,5 % 3,4 %
-
-Långtidssjukfrånvaro Män 1,9 % 1,6 %   1,2 %
-
-```osaker-tabell
-Frisknärvaro         41,2 %  39,9 %    45,9 %
-
-Frisknärvaro Kvinnor 39,7 %  38,7 %    44,8 %
-Frisknärvaro Män     50,9 %  47,7 %    53,1 %
-```
-
-Medarbetare yngre än 30 år 13,4 % 14,1 % 11,7 %
-
-Medarbetare 30 - 39 år 20,6 % 21 %     21,6 %
-Medarbetare 40 - 49 år 28,4 % 26,7 %   26,3 %
-Medarbetare 50 - 59 år 26,2 % 27 %     28,8 %
-
-Medarbetare 60 år och äldre 11,5 % 11,2 % 11,6 %
-Antal medarbetare per
-26    27        24,4
-enhetschef
-Antalet medarbetare per
-32,2   31,94     28,86
-rektor
-Personalomsättning    8,8 %  11,1 %    9,4 %
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 32,2 % 33,3 % 36,2 %
-mer
-
 24
+
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
+
+| Nyckeltal | Utfall 2021 | Utfall 2022 | Utfall 2023 | Budget 2024 | Budget 2025 |
+| --- | --- | --- | --- | --- | --- |
+| Anställda totalt | 2 592 | 2 606 | 2 494 |  |  |
+| Anställda andel kvinnor | 85,5 % | 85,1 % | 85,2 % |  |  |
+| Anställda andel män | 14,5 % | 14,9 % | 14,8 % |  |  |
+| Andel heltid | 88 % | 89,3 % | 89,8 % |  |  |
+| Andel män som har heltid | 89 % | 92 % | 91,7 % |  |  |
+| Sjukfrånvaro Totalt | 6,9 % | 7,3 % | 6,5 % |  |  |
+| Sjukfrånvaro Kvinnor | 7,3 % | 7,7 % | 7 % |  |  |
+| Sjukfrånvaro Män | 4,9 % | 5 % | 4 % |  |  |
+| Korttidssjukfrånvaro | 3,8 % | 4,1 % | 3,4 % |  |  |
+| Korttidssjukfrånvaro Kvinnor | 4 % | 4,2 % | 3,5 % |  |  |
+| Korttidssjukfrånvaro Män | 3 % | 3,4 % | 2,9 % |  |  |
+| Långtidssjukfrånvaro | 3,1 % | 3,2 % | 3,1 % |  |  |
+| Långtidssjukfrånvaro Kvinnor | 3,3 % | 3,5 % | 3,4 % |  |  |
+| Långtidssjukfrånvaro Män | 1,9 % | 1,6 % | 1,2 % |  |  |
+| Frisknärvaro | 41,2 % | 39,9 % | 45,9 % |  |  |
+| Frisknärvaro Kvinnor | 39,7 % | 38,7 % | 44,8 % |  |  |
+| Frisknärvaro Män | 50,9 % | 47,7 % | 53,1 % |  |  |
+| Medarbetare yngre än 30 år | 13,4 % | 14,1 % | 11,7 % |  |  |
+| Medarbetare 30 - 39 år | 20,6 % | 21 % | 21,6 % |  |  |
+| Medarbetare 40 - 49 år | 28,4 % | 26,7 % | 26,3 % |  |  |
+| Medarbetare 50 - 59 år | 26,2 % | 27 % | 28,8 % |  |  |
+| Medarbetare 60 år och äldre | 11,5 % | 11,2 % | 11,6 % |  |  |
+| Antal medarbetare per<br>enhetschef | 26 | 27 | 24,4 |  |  |
+| Antalet medarbetare per<br>rektor | 32,2 | 31,94 | 28,86 |  |  |
+| Personalomsättning | 8,8 % | 11,1 % | 9,4 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer | 32,2 % | 33,3 % | 36,2 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Kvinnor | 32,9 % | 34,3 % | 38,2 % |  |  |
+| Sjukfrånvaro, andel av<br>sjukfrånvaro 60 dagar eller<br>mer Män | 26,4 % | 24,5 % | 16,5 % |  |  |
+| Medelålder | 45 | 44 | 45 |  |  |
 
 <!-- sida 41 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2025
-
-Nyckeltal           Utfall 2021 Utfall 2022 Utfall 2023 Budget 2024 Budget 2025
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 32,9 % 34,3 % 38,2 %
-mer Kvinnor
-Sjukfrånvaro, andel av
-sjukfrånvaro 60 dagar eller 26,4 % 24,5 % 16,5 %
-mer Män
-Medelålder             45    44        45
 
 9.3 Arbetsmiljö
 
@@ -1923,97 +1783,83 @@ Nämndbudget 2025
 
 11.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-Vision 2030                                         KF 2023-06-14 § 73
-
-Kommunikation                                       KF 2019-12-10 § 194
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Upphandling, policy                                 KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-Integritetspolicy                                   KF 2021-11-09 § 142
-Reglemente för nämnden för Förskola & Grundskola    KF 2018-06-14 § 109
-
-Lokala ordningsföreskrifter                          KF 2020-02-04 § 8
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-04-01
-
-Klimatstrategi                                      KF 2022-05-10 § 77
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2024-04-09 § 60
-
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Skolskjuts, övergripande regler för elever i förskoleklass, grundskola och
-KF 2022-11-08 § 181
-grundsärskola
-Allmän stadga för nämnder och styrelser                KF §111/15
 11.1.2 Styrdokument beslutade av nämnden för Förskola & Grundskola
 
-Styrdokument                                       Beslutande paragraf/År
-Delegeringsförteckning nämnden för Förskola & Grundskola NFG § 38/23
-
-Policy för sponsring i skolan                         FGN § 73/04
-Dokumenthanteringsplan                                 NFG § 8/21
-
 31
+
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Förskola & Grundskola | KF 2018-06-14 § 109 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Skolskjuts, övergripande regler för elever i förskoleklass, grundskola och<br>grundsärskola | KF 2022-11-08 § 181 |
+| Allmän stadga för nämnder och styrelser | KF §111/15 |
+
+[Tabell 47-48-2](handlingar.tabeller/47-48-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning nämnden för Förskola & Grundskola | NFG § 38/23 |
+| Policy för sponsring i skolan | FGN § 73/04 |
+| Dokumenthanteringsplan | NFG § 8/21 |
+| Regler för förskola, fritidshem och pedagogisk omsorg i Kungsbacka kommun | NFG § 27/22 |
+| Tillsynsplan för enskilda huvudmäns om godkänts/beviljats bidrag för att<br>bedriva fristående förskola, fritidshem och pedagogisk omsorg i Kungsbacka<br>kommun 2018-2020 | NFG § 82/21 |
+| Resursfördelningsmodell 2023 | NFG § 120/22 |
+| En drogfri miljö -drogpolicy | (FG § 7/12) |
+| Timplaner för Kungsbackas kommunala grundskolor | 2023-00880 |
+| Riktlinjer för skolutveckling med hjälp av internationalisering inom Förskola &<br>Grundskola | FG § 4/15<br>Rev. LFG 2020-03-25 |
+| Riktlinjer för skolskjuts | NFG § 6/21 |
+| Regional överenskommelse om samverkan mellan Region Halland och<br>Hallands kommuner | 2021-01744 |
 
 <!-- sida 48 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                       Beslutande paragraf/År
-Regler för förskola, fritidshem och pedagogisk omsorg i Kungsbacka kommun NFG § 27/22
-Tillsynsplan för enskilda huvudmäns om godkänts/beviljats bidrag för att
-bedriva fristående förskola, fritidshem och pedagogisk omsorg i Kungsbacka NFG § 82/21
-kommun 2018-2020
-
-Resursfördelningsmodell 2023                          NFG § 120/22
-En drogfri miljö -drogpolicy                           (FG § 7/12)
-Timplaner för Kungsbackas kommunala grundskolor        2023-00880
-
-Riktlinjer för skolutveckling med hjälp av internationalisering inom Förskola & FG § 4/15
-Grundskola                                          Rev. LFG 2020-03-25
-Riktlinjer för skolskjuts                              NFG § 6/21
-Regional överenskommelse om samverkan mellan Region Halland och
-2021-01744
-Hallands kommuner
 11.1.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                       Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2023-10-10 § 156
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Personuppgifter - riktlinjer                        KS 2024-03-05 § 33
-Informationssäkerhet, riktlinjer                    KS 2024-05-07 § 80
-Flaggning                                           KS 2023-02-21 § 32
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 11.2 Taxa
 
 11.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
 32
+
+[Tabell 48-1](handlingar.tabeller/48-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+
+[Tabell 48-2](handlingar.tabeller/48-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
 
 <!-- sida 49 -->
 

@@ -1,10 +1,9 @@
-Risker,Enhet Granskningsaktiviteter,Åtgärder
+Risker,Enhet,Granskningsaktiviteter,Åtgärder
 "Kommunövergripande
 risk: Inköp (granskning
 begränsas till belopp
-över 100.000:-)","Granskning av att
+över 100.000:-)",Teknik,"Granskning av att
 genomförda inköp följer
-Teknik
 inköpsprocessen och
 gällande styrdokument","Utbildning/ information
 för chefer i praktisk
@@ -18,9 +17,9 @@ brister i styrning och
 ledning i våra system, till
 följd av bristande
 följsamhet till gällande
-riktlinjer.","Bedrivs ett aktivt
+riktlinjer.",Teknik,"Bedrivs ett aktivt
 säkerhetsarbete för
-Teknik system som är
+system som är
 självskattade enligt
 KLASSA?","Information till
 systemförvaltare om
@@ -29,13 +28,12 @@ system samt hantering
 av handlingsplan"
 "Risk för att felaktiga
 avgifter tas ut från VA-
-föreningar","Är
-Teknik medlemsförteckningen
+föreningar",Teknik,"Är
+medlemsförteckningen
 uppdaterad?",
 "Risk för fel till följd av
 bristande kvalitet i inlagd
-information i kartan","Att inlagd information är
-Teknik
+information i kartan",Teknik,"Att inlagd information är
 korrekt","Projektledare eller
 byggledare säkerställer
 att ett komplett material
@@ -43,18 +41,17 @@ finns dokumenterat i
 Antura tio arbetsdagar
 före besiktning, enligt
 regler för inmätning."
-,,"Byggledare kontrollerar
+,,,"Byggledare kontrollerar
 att filformatet är korrekt
 vid dokumentation i
 Antura enligt regler för
 inmätning."
-,,"Kvalitetskontroll i form av
+,,,"Kvalitetskontroll i form av
 stickkontroller av inmätta
 objekt genomförs vid
 granskningsmötet"
-,"Att regler för inmätning,
+,Teknik,"Att regler för inmätning,
 process för kontroll av
-Teknik
 inmätning och lathund för
 redovisning följs","Säkerställa att regler för
 inmätning följs"

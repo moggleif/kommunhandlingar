@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.46eff03819d05424eaa61331/1774249351
 sha256: 41449908ecedd5ae2e4442458bfc5de1f6b0a9f6eaa46af1ac6e6daca35ddd67
 bytes: 1141723
 sidor: 18
-hamtad: 2026-11-08T08:09:20+00:00
-konverterad: 2026-11-08T08:10:01+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:00:22+00:00
+konverterad: 2026-11-17T23:00:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -154,7 +154,7 @@ Fastställande av dagordning och val av juSterafe .... 3
 Redovisning av inkomna skrivelser till nämnd 2026 s .... 4
 §30 Dnr FG-2026-00132
 
-Information - Skolinspektionens granskning Särö skOla.................sssssssssr0t 5
+Information - Skolinspektionens granskning Särö skOla.................sssssssssr0 5
 § 31 Dnr FG-2026-00113
 
 Information - ämnesveckor KapareskOlan .... 6

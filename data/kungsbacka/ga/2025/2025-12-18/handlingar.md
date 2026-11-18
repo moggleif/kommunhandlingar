@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.4e55f00c19afcd92d283b333/1765547072
 sha256: b13de652fc6f060148f00b2e5c64caaa57124ee59c64e712ec338c6cdea67b23
 bytes: 5765932
 sidor: 147
-hamtad: 2026-11-08T07:54:14+00:00
-konverterad: 2026-11-08T07:54:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:47:24+00:00
+konverterad: 2026-11-17T22:47:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [138]
-figurer: [7, 27, 36, 38, 40, 41, 42, 135, 138, 143]
+figurer: [7, 27, 36, 38, 40, 42, 135, 138, 143]
 tolkade: []
 granskad: null
 ---
@@ -402,18 +402,18 @@ gymnasieskola                                              7(20)
 
 Anpassad gymnasieskolas resultat
 
-2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
-Andel/Antal 6/6 6/6 5/5 3/3  5/5 13/13 5/6 9/9  10/11 10/11 6/8
-som fullföljer 4
-år i anpassad
-gymnasieskola
-
 Enkätresultat kopplade till läroplansområdet
 
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2024/2025 - Anpassad
 gymnasieskola                                              8(20)
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+|  | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Andel/Antal<br>som fullföljer 4<br>år i anpassad<br>gymnasieskola | 6/6 | 6/6 | 5/5 | 3/3 | 5/5 | 13/13 | 5/6 | 9/9 | 10/11 | 10/11 | 6/8 |
+
+[Tabell 12-2](handlingar.tabeller/12-2.csv)
 
 | Sammanställning anpassad gymnasieskolas nationella program, ämnen |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -429,7 +429,7 @@ gymnasieskola                                              8(20)
 | SVENSKA 1<br>(SVBSVE51) |  |  | 7 | 11 | 9 | 6 |  |  |
 | SVENSKA SOM<br>ANDRASPRÅK |  |  |  | 1 | 1 |  |  |  |
 
-[Tabell 12-13-2](handlingar.tabeller/12-13-2.csv)
+[Tabell 12-3](handlingar.tabeller/12-3.csv)
 
 | Individuella programmet | 2025 |
 | --- | --- |
@@ -437,15 +437,6 @@ gymnasieskola                                              8(20)
 | Är det roligt att lära sig nya saker i<br>skolan? | 89 |
 | Förklarar de vuxna så att du förstår? | 92 |
 | Får du hjälp med skolarbetet när du<br>behöver? | 83 |
-| Nationella programmen | 2025 |
-| Index Kunskap och lärande | 84 |
-| Gör skolarbetet så att du vill lära dig<br>mer? | 83 |
-| Förklarar lärarna så att du förstår? | 81 |
-| Gör lärarna så att du tror på dig själv i<br>skolarbetet? | 88 |
-| Vet du vad du ska kunna i de olika<br>ämnena? | 80 |
-| Får du veta hur det går för dig i skolan? | 86 |
-| Tycker du att undervisningen är för lätt,<br>för svår eller lagom? | 85 |
-| Får du hjälp med skolarbetet när du<br>behöver? | 89 |
 
 <!-- sida 13 -->
 
@@ -489,6 +480,19 @@ Analysen visar dock att inte all personal känner sig helt trygg i att använda 
 
 Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2024/2025 - Anpassad
 gymnasieskola                                              9(20)
+
+[Tabell 13-1](handlingar.tabeller/13-1.csv)
+
+| Nationella programmen | 2025 |
+| --- | --- |
+| Index Kunskap och lärande | 84 |
+| Gör skolarbetet så att du vill lära dig<br>mer? | 83 |
+| Förklarar lärarna så att du förstår? | 81 |
+| Gör lärarna så att du tror på dig själv i<br>skolarbetet? | 88 |
+| Vet du vad du ska kunna i de olika<br>ämnena? | 80 |
+| Får du veta hur det går för dig i skolan? | 86 |
+| Tycker du att undervisningen är för lätt,<br>för svår eller lagom? | 85 |
+| Får du hjälp med skolarbetet när du<br>behöver? | 89 |
 
 <!-- sida 14 -->
 
@@ -800,13 +804,6 @@ Kommunalt mål: I Kungsbacka utvecklas vi hela livet
 3.4.1 Resultat
 
 Enkätresultat kopplade till läroplansområdet
-Nationella programmen                   2025
-
-Index Skola och framtid                  70
-Pratar ni i skolan om vad du kan utbilda
-62
-dig till och sedan arbeta med?
-Vet du vad du vill göra i framtiden?     70
 
 Arbetsplatsförlagt lärande vid nationella program
 
@@ -814,6 +811,14 @@ Gymnasium & Arbetsmarknad, Uppföljning systematiskt kvalitetsarbete 2024/2025 -
 gymnasieskola                                             15(20)
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Nationella programmen | 2025 |
+| --- | --- |
+| Index Skola och framtid | 70 |
+| Pratar ni i skolan om vad du kan utbilda<br>dig till och sedan arbeta med? | 62 |
+| Vet du vad du vill göra i framtiden? | 70 |
+
+[Tabell 19-2](handlingar.tabeller/19-2.csv)
 
 | Nationella<br>program | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1009,8 +1014,9 @@ gymnasieskola                                             19(20)
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Läroplansområde<br>Kunskaper | Mål<br>Öka elevernas<br>delaktighet i sitt eget<br>lärande | Indikator<br>100% av eleverna deltar i<br>reflektion över sitt eget<br>lärande. | Aktiviteter<br>Reflektion som en<br>aktivitet tillsammans med<br>eleverna. |
+| Läroplansområde | Mål | Indikator | Aktiviteter |
 | --- | --- | --- | --- |
+| Kunskaper | Öka elevernas<br>delaktighet i sitt eget<br>lärande | 100% av eleverna deltar i<br>reflektion över sitt eget<br>lärande. | Reflektion som en<br>aktivitet tillsammans med<br>eleverna. |
 |  |  |  | Enkäter som utgår från<br>förmågorna. Reflektera<br>över svaren tillsammans<br>med eleverna. |
 |  |  |  | Observationer av elevers<br>delaktighet. |
 | Normer och värden | Öka elevernas<br>beslutskompetens. | 100% av eleverna kan<br>fatta och förmedla egna<br>och gemensamma<br>åsikter och beslut, till<br>exempel välja<br>rastaktivitet. | Möjliggöra AKK. |
@@ -1028,8 +1034,9 @@ gymnasieskola                                             20(20)
 
 [Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-| Läroplansområde<br>Kunskaper | Mål<br>Eleverna är medvetna<br>om vad de behöver<br>kunna i de olika ämnena<br>och framtida yrke. | Indikator<br>Högre index än 80 på<br>"vet du vad du ska kunna<br>i de olika ämnena" | Aktiviteter<br>Större framförhållning<br>och tydligare information<br>till eleverna. Skarpa<br>projekt för att öka<br>motivationen och<br>därigenom tydliggöra<br>kunskapskraven. |
+| Läroplansområde | Mål | Indikator | Aktiviteter |
 | --- | --- | --- | --- |
+| Kunskaper | Eleverna är medvetna<br>om vad de behöver<br>kunna i de olika ämnena<br>och framtida yrke. | Högre index än 80 på<br>"vet du vad du ska kunna<br>i de olika ämnena" | Större framförhållning<br>och tydligare information<br>till eleverna. Skarpa<br>projekt för att öka<br>motivationen och<br>därigenom tydliggöra<br>kunskapskraven. |
 | Normer och värden | En tydlig struktur och<br>tillgänglig lärmiljö | Högre index än 72 på<br>Miljön i skolan | Utveckla gemensamma<br>strukturer i lärmiljön<br>tillsammans med SPSM. |
 | Elevernas ansvar och<br>inflytande | Eleverna tar ansvar för<br>sitt eget lärande | Högre index än 74 på<br>frågan "Lyssnar<br>personalen på dina<br>åsikter?" | Fortsatt skarpa projekt.<br>Arbeta med utvärderingar<br>och elevernas egna<br>reflektioner. |
 | Utbildningsval - arbete<br>och samhällsliv | Fler i arbete | Fler elever får Skarpa projekt och ett<br>anställning/sysselsättning ökat samarbete med<br>på arbetsmarknaden näringsliv och kommun. |  |
@@ -1240,28 +1247,6 @@ insikt. Rektorerna har genomgått, genomgår eller står i begrepp att starta de
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
 
-2015 2016 2017 2018 2019 2020  2021  2022  2023  2024
-Lärare i    88   87   86    85   86   87,5 81,8  87,4  84,0  84,0
-huvudmannens
-skolor (heltidstj),
-andel (%) med
-pedagogisk
-högskoleexamen
-Lärare i    216 216  204   229   218  207  220    231   226  232
-huvudmannens
-skolor, antal
-heltidstjänster
-Lärartäthet, antal 12,1 12,5 13,7 12,7 13,5 14,4 13,7 13,1 13,0 12,4
-elever per lärare
-(heltidstj.)
-Lärare      86,4 85,1 90,6 87,6 86,3  87,2 89,4  82,7  86,3  86,3
-(Heltidstjänster)
-med
-lärarlegitimation
-och behörighet i
-minst ett ämne i
-gymnasieskolan,
-andel (%)
 Under perioden 2015–2024 har andelen lärare med pedagogisk högskoleexamen legat på en generellt hög
 nivå men med vissa variationer. År 2013 hade 90 % av lärarna pedagogisk högskoleexamen, medan andelen
 därefter minskade något och stabiliserade sig kring 84 % från och med 2023. Den lägsta andelen noterades
@@ -1282,6 +1267,15 @@ därefter minskade något och stabiliserade sig kring 84 % från och med 2023. D
 | Studie- och yrkesvägledare (SYV) Helt.tj | 50 |
 | Elev/ SYV Helt.tj | 572,8 |
 | Lärare, tillsvidareanst (%) | 95,3 |
+
+[Tabell 31-2](handlingar.tabeller/31-2.csv)
+
+|  | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Lärare i<br>huvudmannens<br>skolor (heltidstj),<br>andel (%) med<br>pedagogisk<br>högskoleexamen | 88 | 87 | 86 | 85 | 86 | 87,5 | 81,8 | 87,4 | 84,0 | 84,0 |
+| Lärare i<br>huvudmannens<br>skolor, antal<br>heltidstjänster | 216 | 216 | 204 | 229 | 218 | 207 | 220 | 231 | 226 | 232 |
+| Lärartäthet, antal<br>elever per lärare<br>(heltidstj.) | 12,1 | 12,5 | 13,7 | 12,7 | 13,5 | 14,4 | 13,7 | 13,1 | 13,0 | 12,4 |
+| Lärare<br>(Heltidstjänster)<br>med<br>lärarlegitimation<br>och behörighet i<br>minst ett ämne i<br>gymnasieskolan,<br>andel (%) | 86,4 | 85,1 | 90,6 | 87,6 | 86,3 | 87,2 | 89,4 | 82,7 | 86,3 | 86,3 |
 
 <!-- sida 32 -->
 
@@ -1372,8 +1366,9 @@ Elever med avgångsbetyg
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Program<br>Nationella program | Antal<br>elever<br>857 | Andel<br>(%) med<br>examen<br>91,1 | Andel<br>(%)<br>med<br>studie-<br>bevis<br>8,9 | Andel (%)<br>med<br>grund-<br>läggande<br>behörig-<br>het<br>76,4 | Andel<br>(%) med<br>utökat<br>program<br>21,8 | Genom-<br>snittligt<br>betygs-<br>poäng<br>14,0 | Genom-snittlig<br>betygspoäng<br>för elever med<br>examen<br>14,4 |
+| Program | Antal<br>elever | Andel<br>(%) med<br>examen | Andel<br>(%)<br>med<br>studie-<br>bevis | Andel (%)<br>med<br>grund-<br>läggande<br>behörig-<br>het | Andel<br>(%) med<br>utökat<br>program | Genom-<br>snittligt<br>betygs-<br>poäng | Genom-snittlig<br>betygspoäng<br>för elever med<br>examen |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Nationella program | 857 | 91,1 | 8,9 | 76,4 | 21,8 | 14,0 | 14,4 |
 | Yrkesprogram | 273 | 89,4 | 10,6 | 43,2 | 32,2 | 13,0 | 13,5 |
 | Barn- och<br>fritidsprogrammet | 17 | 82,4 | 17,6 | 52,9 | 5,9 | 12,6 | 12,9 |
 | Bygg- och<br>anläggningsprogram<br>met | 30 | 90,0 | 10,0 | 66,7 | 10,0 | 13,0 | 13,4 |
@@ -1546,29 +1541,26 @@ Andelen högskolebehöriga minskade från 50,0 % år 2014 till 33,8 % år 2024 m
 
 Enkätresultat kopplade till läroplansområdet
 
-2022 2023 2024 2025
-
 16
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
+[Tabell 40-41-1](handlingar.tabeller/40-41-1.csv)
 
-| Index Stimulans |  |  |  | 48 |
+|  | 2022 | 2023 | 2024 | 2025 |
 | --- | --- | --- | --- | --- |
+| Index Stimulans |  |  |  | 48 |
 | Tycker du att lärarna varierar lektionerna så att ni får arbeta på olika sätt? | 50 | 48 | 53 | 52 |
 | Hur ofta får lärarna dig att bli intresserad av skolarbetet? | 49 | 48 | 51 | 51 |
 | Tycker du att lärarna får dig att tro på dig själv i skolarbetet? | 57 | 55 | 60 | 61 |
 | Hur ofta tycker du att skolarbetet är alldeles för lätt? |  |  |  | 72 |
 | Index Stöd | 61 | 59 | 62 | 66 |
 | Hur ofta får du den hjälp du behöver under lektionerna? | 73 | 71 | 71 | 71 |
-| Tycker du att du får den hjälp du behöver från skolan för att klara skolarbetet? | 63 | 60 | 64 | 64 |
+| Tycker du att du får den hjälp du behöver från skolan för att klara<br>skolarbetet? | 63 | 60 | 64 | 64 |
+| Hur ofta tycker du att skolarbetet är för svårt? | 46 | 45 | 48 | 51 |
 
 <!-- sida 41 -->
 
 Gymnasium & Arbetsmarknad                        Kungsbacka kommun
 Uppföljning av systematiskt kvalitetsarbete 2024/2025 - Huvudmannarapport
-
-2022 2023 2024 2025
-Hur ofta tycker du att skolarbetet är för svårt? 46  45   48  51
 
 Index för området Stimulans ligger år 2025 på 48, vilket är relativt lågt men stabilt över tid. Frågor om
 variation i undervisningen visar att eleverna upplever viss förbättring jämfört med tidigare år; exempelvis har
@@ -1591,38 +1583,31 @@ potential för ökad variation i undervisning, fler utmanande arbetsformer och s
 
 Kursbetyg
 
-Andel elever med minst betyget E i gymnasiekurserna samt Gymnasiearbete
-
-Idr och
-Eng Historia     Ma  Na  Re  Sam  Sv  Sv
-Program                 hälsa                         Gymnarb
-5    1          1   1    1   1   1   2
-1
-Nationella program 99,3 90,5 99,1 97,8 96,1 93,5 97,7 99,3 100 97,9
-Yrkesprogram      97,8 85,7  97,8 95,2 93,4 88,6 92,7 98,5 100 96,3
-Barn- och
-94,1 100   94,1 94,1 100 82,4 94,1 100 100 94,1
-fritidsprogrammet
-Bygg- och
-96,7 96,7  100  96,7 96,7 63,3 93,3 96,7  96,7
-anläggningsprogrammet
-Fordons- och
-90,0 80,0  100  96,7 86,7 86,7 90,0 93,3   100
-transportprogrammet
-Lärlingsutbildning 98,3 96,6 96,6 96,6 81,4 94,9 83,1 98,2 100 90,6
-El- och
-100  72,7  100  98,2 100 83,6 100 100     94,5
-energiprogrammet
-Hotell- och
-100  56,3  93,8 81,3 100 93,8 100 94,4 100 100
-turismprogrammet
-Restaurang- och
-100  71,4  100  71,4 100 100 85,7 100     87,5
-livsmedelsprogrammet
-Försäljnings- och
-100  88,2  100  96,1 96,1 100 96,1 100    96,1
-serviceprogrammet
 17
+
+[Tabell 41-42-1](handlingar.tabeller/41-42-1.csv)
+
+|  | Andel elever med minst betyget E i gymnasiekurserna samt Gymnasiearbete |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Program | Eng<br>5 | Historia<br>1 | Idr och<br>hälsa<br>1 | Ma<br>1 | Na<br>1 | Re<br>1 | Sam<br>1 | Sv<br>1 | Sv<br>2 | Gymnarb |
+| Nationella program | 99,3 | 90,5 | 99,1 | 97,8 | 96,1 | 93,5 | 97,7 | 99,3 | 100 | 97,9 |
+| Yrkesprogram | 97,8 | 85,7 | 97,8 | 95,2 | 93,4 | 88,6 | 92,7 | 98,5 | 100 | 96,3 |
+| Barn- och<br>fritidsprogrammet | 94,1 | 100 | 94,1 | 94,1 | 100 | 82,4 | 94,1 | 100 | 100 | 94,1 |
+| Bygg- och<br>anläggningsprogrammet | 96,7 | 96,7 | 100 | 96,7 | 96,7 | 63,3 | 93,3 | 96,7 |  | 96,7 |
+| Fordons- och<br>transportprogrammet | 90,0 | 80,0 | 100 | 96,7 | 86,7 | 86,7 | 90,0 | 93,3 |  | 100 |
+| Lärlingsutbildning | 98,3 | 96,6 | 96,6 | 96,6 | 81,4 | 94,9 | 83,1 | 98,2 | 100 | 90,6 |
+| El- och<br>energiprogrammet | 100 | 72,7 | 100 | 98,2 | 100 | 83,6 | 100 | 100 |  | 94,5 |
+| Hotell- och<br>turismprogrammet | 100 | 56,3 | 93,8 | 81,3 | 100 | 93,8 | 100 | 94,4 | 100 | 100 |
+| Restaurang- och<br>livsmedelsprogrammet | 100 | 71,4 | 100 | 71,4 | 100 | 100 | 85,7 | 100 |  | 87,5 |
+| Försäljnings- och<br>serviceprogrammet | 100 | 88,2 | 100 | 96,1 | 96,1 | 100 | 96,1 | 100 |  | 96,1 |
+| Vård- och omsorgs-<br>programmet | 100 | 100 | 75,0 | 100 | 100 | 100 | 87,5 | 100 | 100 | 100 |
+| Högskole-<br>förberedande program | 100 | 92,8 | 99,7 | 99,0 | 99,1 | 95,7 | 98,6 | 99,7 | 100 | 98,6 |
+| Ekonomiprogrammet | 100 | 75,2 | 100 | 98,7 | 98,7 | 93,4 | 96,7 | 98,7 |  | 96,7 |
+| Estetiska programmet | 100 | 100 | 100 | 95,2 | 100 | 81,0 | 100 | 100 |  | 100 |
+| Naturvetenskaps-<br>programmet | 100 | 98,8 | 100 | 100 |  | 100 | 100 | 100 |  | 100 |
+| Teknikprogrammet<br>Elof Lindälv | 100 | 100 | 100 | 100 |  | 100 | 100 | 100 | 100 | 100 |
+| Teknikprogrammet<br>Aranäsgymnasiet | 100 | 98,4 | 100 | 100 |  | 98,4 | 98,4 | 100 | 100 | 98,4 |
+| Samhällsvetenskaps-<br>programmet | 100 | 100 | 99,3 | 98,0 | 99,3 | 96,1 | 99,3 | 100 | 100 | 99,3 |
 
 <!-- sida 42 -->
 
@@ -1638,18 +1623,6 @@ Religion 1 (88,6 %), medan svenska och engelska når mycket höga andelar, ofta 
 uppnås av 96,3 % av eleverna på yrkesprogrammen.
 
 18
-
-[Tabell 42-1](handlingar.tabeller/42-1.csv)
-
-| Vård- och omsorgs-<br>programmet | 100 | 100 | 75,0 | 100 | 100 | 100 | 87,5 | 100 | 100 | 100 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Högskole-<br>förberedande program | 100 | 92,8 | 99,7 | 99,0 | 99,1 | 95,7 | 98,6 | 99,7 | 100 | 98,6 |
-| Ekonomiprogrammet | 100 | 75,2 | 100 | 98,7 | 98,7 | 93,4 | 96,7 | 98,7 |  | 96,7 |
-| Estetiska programmet | 100 | 100 | 100 | 95,2 | 100 | 81,0 | 100 | 100 |  | 100 |
-| Naturvetenskaps-<br>programmet | 100 | 98,8 | 100 | 100 |  | 100 | 100 | 100 |  | 100 |
-| Teknikprogrammet<br>Elof Lindälv | 100 | 100 | 100 | 100 |  | 100 | 100 | 100 | 100 | 100 |
-| Teknikprogrammet<br>Aranäsgymnasiet | 100 | 98,4 | 100 | 100 |  | 98,4 | 98,4 | 100 | 100 | 98,4 |
-| Samhällsvetenskaps-<br>programmet | 100 | 100 | 99,3 | 98,0 | 99,3 | 96,1 | 99,3 | 100 | 100 | 99,3 |
 
 <!-- sida 43 -->
 
@@ -2333,17 +2306,18 @@ Kommunalt mål: I Kungsbacka utvecklas vi hela livet
 
 Enkätresultat kopplade till läroplansmålet
 
-2022 2023 2024 2025
-Index Information om utbildningen                            56
-
-Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du förstår? 76 75 76 76
-Tycker du att du får veta hur det går för dig i skolarbetet? 59 58 63 62
-
-Tycker du att lärarna förklarar vad du behöver kunna i de olika ämnena? 58 58 62 63
-Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet? 40 36 40 38
-Har du fått möjlighet att leda ditt utvecklingssamtal? 88% 90% 89% 91%
-
 31
+
+[Tabell 55-1](handlingar.tabeller/55-1.csv)
+
+|  | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- |
+| Index Information om utbildningen |  |  |  | 56 |
+| Hur ofta förklarar lärarna vad du ska göra på lektionerna så att du förstår? | 76 | 75 | 76 | 76 |
+| Tycker du att du får veta hur det går för dig i skolarbetet? | 59 | 58 | 63 | 62 |
+| Tycker du att lärarna förklarar vad du behöver kunna i de olika ämnena? | 58 | 58 | 62 | 63 |
+| Tycker du att utvecklingssamtalet är till hjälp för dig i skolarbetet? | 40 | 36 | 40 | 38 |
+| Har du fått möjlighet att leda ditt utvecklingssamtal? | 88% | 90% | 89% | 91% |
 
 <!-- sida 56 -->
 

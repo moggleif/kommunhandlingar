@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.33df50461a157e1b9001881/17924800220
 sha256: 82388dbd3d8978d089a56569450080bdcb3708a4694b9422d19e6a94b161bf59
 bytes: 5960817
 sidor: 174
-hamtad: 2026-11-08T18:28:32+00:00
-konverterad: 2026-11-08T18:29:29+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:52:22+00:00
+konverterad: 2026-11-18T02:53:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [15, 16, 17, 18, 155]
-figurer: [15, 16, 17, 18, 30, 35, 36, 37, 50, 51, 54, 55, 58, 59, 60, 61, 62, 63, 64, 65, 94, 100]
+figurer: [15, 16, 17, 18, 30, 35, 36, 37, 50, 51, 54, 55, 58, 59, 60, 61, 62, 63, 64, 65, 94]
 tolkade: []
 granskad: null
 ---
@@ -2879,22 +2879,22 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        22(30)
 
 [Tabell 68-70-1](handlingar.tabeller/68-70-1.csv)
 
-| Process | Aktivitet | Risk Beskrivning av<br>Riskanalys<br>nr risk | Åtgärd |
-| --- | --- | --- | --- |
-| Mottaga<br>ansökan,<br>begäran,<br>anmälan,<br>anvisning, annat<br>och uppfatta<br>frågeställning | Ta emot<br>ansökan/anm<br>älan eller<br>begäran | Risken kan innebära<br>att vi inte har<br>kontroll över<br>Risk för<br>verksamheten<br>svårtillgänglig<br>avseende kvalitet,<br>1 statistik från<br>ekonomi och<br>verksamhetssyst<br>budget, jämställdhet<br>emet<br>och<br>resurseffektivisering<br>. | BI- projekt |
-|  |  |  | Framtagande av<br>SSRS-<br>rapporter för att<br>möta<br>verksamheterna<br>s och<br>nämndens<br>behov |
-| Händelserapport<br>ering | Uppföljning<br>av åtgärder | Risk att åtgärder<br>och effekter av<br>2 åtgärder inte<br>följs upp<br>systematiskt |  |
-| Klagomålshante<br>ring | Ta emot<br>klagomål | Risk att vi inte får<br>information om<br>Risk att för få<br>förbättringsområden<br>klagomål<br>, att vi inte<br>registreras och<br>sammanställer<br>3 att inkomna<br>klagomålen på en<br>klagomål inte<br>övergripande nivå<br>hanteras enligt<br>för att kunna<br>rutin<br>analysera och se<br>mönster | Skapa KLOK-<br>guide för att<br>utreda klagomål |
-| Ta emot och<br>planera uppdrag | Planera<br>uppdrag | Migrerade beslut<br>från tidigare<br>verksamhetssystem<br>är inte<br>Beställningar är<br>dokumenterade<br>inte<br>4 enligt IBIC.<br>dokumenterade<br>Uppföljning av<br>enligt IBIC<br>beslut har inte<br>genomförts enligt<br>plan och därmed<br>kvarstår risken. | Uppföljning av<br>gamla beslut<br>ska göras inom<br>ramen för IBIC-<br>projektet |
-| Styrande<br>dokument | Upprättade<br>riktlinjer och<br>rutiner | Risk att styrande<br>5 dokument inte är<br>kända | Se över<br>strukturen och<br>vad som<br>behöver göras<br>framåt för att<br>säkerställa att<br>dokument,<br>rutiner etc är<br>kända. |
-|  |  |  | Se över<br>introduktion för<br>EC |
-|  |  | Risk att styrande<br>dokument inte är<br>6 uppdatarede<br>eller att länkar<br>brustit | VO ser över<br>vem som ska<br>ansvara för att<br>hålla HSL-<br>länkar<br>uppdaterade |
-| Verkställa<br>uppdrag | Upprätta<br>genomförand<br>eplan | Social<br>dokumentation<br>uteblir för att<br>personal inte är<br>7<br>trygga med att<br>arbeta i<br>verksamhetssyst<br>emet | Översyn av<br>befintliga guider<br>i KLOK |
-|  | Genomföra<br>insats/aktivite<br>ter | Genomförandeplane<br>r saknas eller är<br>bristfälligt<br>upprättade vilket<br>kan leda till att<br>brukarna inte får<br>insatser utifrån sina<br>Bristfällig social<br>8 individuella behov<br>dokumentation<br>och förmågor.<br>Brister i löpande<br>social<br>dokumentation<br>försvårar<br>möjligheten att följa<br>ärendens gång. |  |
-|  |  | Risk att brukare har<br>Risk att vi saknar svårt att ta till sig<br>verktyg för nya arbetssätt som<br>tillgänglig och införts. Lösning för<br>9<br>säker säker information<br>kommunikation kan då innebära att<br>med brukare brukare inte tar del<br>av informationen. | Ta fram<br>målgruppsanpa<br>ssade<br>instruktioner<br>SEFOS |
-|  |  | Brukare med<br>samsjuklighetsprobl<br>ematik, antingen en<br>psykiatrisk diagnos<br>och/eller LSS-<br>tillhörighet i<br>kombination med<br>missbruk "faller<br>mellan stolarna",<br>dvs de får inte den<br>hjälp de behöver, då<br>rätt stöd förutsätter<br>samverkan både<br>internt inom<br>Samverkan vid<br>förvaltningen och<br>10 samsjuklighet är<br>externt med andra<br>bristande<br>myndigheter och<br>vårdgivare. Det är<br>svårt att få till en<br>samverkan när<br>individen inte vill<br>eller bedöms inte<br>kunna tillgodose sig<br>behandling.<br>Regionen har som<br>praxis att skriva ut<br>våra brukare om de<br>avböjer deras<br>insatser under en<br>period. | Socialpsykiatris<br>ka<br>samverkansgru<br>ppen får i<br>uppdrag att<br>undersöka<br>behov och<br>planera<br>aktiviteter/åtgär<br>d |
-|  |  | Får ej ut resurstid<br>och kan inte lägga<br>ut all tid vilket<br>innebär ökade<br>kostnader.<br>Ny tillämpning av Passbyten har löst<br>Allmänna sjukluckor, blir inte<br>bestämmelser längre möjligt<br>11<br>medför risker i Svårare att erbjuda<br>bemanningsproc heltider<br>essen Risk att samverkan<br>med ex regionen,<br>SIP påverkas – kan<br>ej använda sin<br>resurstid för att gå<br>på dessa möten |  |
-| Följa upp<br>uppdrag | Följa upp<br>beslut enligt<br>Riktlinje för<br>systematisk<br>uppföljning | Risk att riktlinjen<br>12<br>ej följs |  |
+| Process | Aktivitet | Risk<br>nr | Riskanalys | Beskrivning av<br>risk |  | Åtgärd |
+| --- | --- | --- | --- | --- | --- | --- |
+| Mottaga<br>ansökan,<br>begäran,<br>anmälan,<br>anvisning, annat<br>och uppfatta<br>frågeställning | Ta emot<br>ansökan/anm<br>älan eller<br>begäran | 1 | Risk för<br>svårtillgänglig<br>statistik från<br>verksamhetssyst<br>emet | Risken kan innebära<br>att vi inte har<br>kontroll över<br>verksamheten<br>avseende kvalitet,<br>ekonomi och<br>budget, jämställdhet<br>och<br>resurseffektivisering<br>. |  | BI- projekt |
+|  |  |  |  |  |  | Framtagande av<br>SSRS-<br>rapporter för att<br>möta<br>verksamheterna<br>s och<br>nämndens<br>behov |
+| Händelserapport<br>ering | Uppföljning<br>av åtgärder | 2 | Risk att åtgärder<br>och effekter av<br>åtgärder inte<br>följs upp<br>systematiskt |  |  |  |
+| Klagomålshante<br>ring | Ta emot<br>klagomål | 3 | Risk att för få<br>klagomål<br>registreras och<br>att inkomna<br>klagomål inte<br>hanteras enligt<br>rutin | Risk att vi inte får<br>information om<br>förbättringsområden<br>, att vi inte<br>sammanställer<br>klagomålen på en<br>övergripande nivå<br>för att kunna<br>analysera och se<br>mönster |  | Skapa KLOK-<br>guide för att<br>utreda klagomål |
+| Ta emot och<br>planera uppdrag | Planera<br>uppdrag | 4 | Beställningar är<br>inte<br>dokumenterade<br>enligt IBIC | Migrerade beslut<br>från tidigare<br>verksamhetssystem<br>är inte<br>dokumenterade<br>enligt IBIC.<br>Uppföljning av<br>beslut har inte<br>genomförts enligt<br>plan och därmed<br>kvarstår risken. |  | Uppföljning av<br>gamla beslut<br>ska göras inom<br>ramen för IBIC-<br>projektet |
+| Styrande<br>dokument | Upprättade<br>riktlinjer och<br>rutiner | 5 | Risk att styrande<br>dokument inte är<br>kända |  |  | Se över<br>strukturen och<br>vad som<br>behöver göras<br>framåt för att<br>säkerställa att<br>dokument,<br>rutiner etc är<br>kända. |
+|  |  |  |  |  |  | Se över<br>introduktion för<br>EC |
+|  |  | 6 | Risk att styrande<br>dokument inte är<br>uppdatarede<br>eller att länkar<br>brustit |  |  | VO ser över<br>vem som ska<br>ansvara för att<br>hålla HSL-<br>länkar<br>uppdaterade |
+| Verkställa<br>uppdrag | Upprätta<br>genomförand<br>eplan | 7 | Social<br>dokumentation<br>uteblir för att<br>personal inte är<br>trygga med att<br>arbeta i<br>verksamhetssyst<br>emet |  |  | Översyn av<br>befintliga guider<br>i KLOK |
+|  | Genomföra<br>insats/aktivite<br>ter | 8 | Bristfällig social<br>dokumentation | Genomförandeplane<br>r saknas eller är<br>bristfälligt<br>upprättade vilket<br>kan leda till att<br>brukarna inte får<br>insatser utifrån sina<br>individuella behov<br>och förmågor.<br>Brister i löpande<br>social<br>dokumentation<br>försvårar<br>möjligheten att följa<br>ärendens gång. |  |  |
+|  |  | 9 | Risk att vi saknar<br>verktyg för<br>tillgänglig och<br>säker<br>kommunikation<br>med brukare | Risk att brukare har<br>svårt att ta till sig<br>nya arbetssätt som<br>införts. Lösning för<br>säker information<br>kan då innebära att<br>brukare inte tar del<br>av informationen. |  | Ta fram<br>målgruppsanpa<br>ssade<br>instruktioner<br>SEFOS |
+|  |  | 10 | Samverkan vid<br>samsjuklighet är<br>bristande | Brukare med<br>samsjuklighetsprobl<br>ematik, antingen en<br>psykiatrisk diagnos<br>och/eller LSS-<br>tillhörighet i<br>kombination med<br>missbruk "faller<br>mellan stolarna",<br>dvs de får inte den<br>hjälp de behöver, då<br>rätt stöd förutsätter<br>samverkan både<br>internt inom<br>förvaltningen och<br>externt med andra<br>myndigheter och<br>vårdgivare. Det är<br>svårt att få till en<br>samverkan när<br>individen inte vill<br>eller bedöms inte<br>kunna tillgodose sig<br>behandling.<br>Regionen har som<br>praxis att skriva ut<br>våra brukare om de<br>avböjer deras<br>insatser under en<br>period. |  | Socialpsykiatris<br>ka<br>samverkansgru<br>ppen får i<br>uppdrag att<br>undersöka<br>behov och<br>planera<br>aktiviteter/åtgär<br>d |
+|  |  | 11 | Ny tillämpning av<br>Allmänna<br>bestämmelser<br>medför risker i<br>bemanningsproc<br>essen | Får ej ut resurstid<br>och kan inte lägga<br>ut all tid vilket<br>innebär ökade<br>kostnader.<br>Passbyten har löst<br>sjukluckor, blir inte<br>längre möjligt<br>Svårare att erbjuda<br>heltider<br>Risk att samverkan<br>med ex regionen,<br>SIP påverkas – kan<br>ej använda sin<br>resurstid för att gå<br>på dessa möten |  |  |
+| Följa upp<br>uppdrag | Följa upp<br>beslut enligt<br>Riktlinje för<br>systematisk<br>uppföljning | 12 | Risk att riktlinjen<br>ej följs |  |  |  |
 
 <!-- sida 69 -->
 
@@ -2912,11 +2912,11 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        24(30)
 
 [Tabell 70-71-1](handlingar.tabeller/70-71-1.csv)
 
-| Process | Utfal<br>Beskrivning av<br>Egenkontroll l Kommentar<br>kontroll<br>2021 | Åtgär<br>d |
-| --- | --- | --- |
-| Klagomålshanteri<br>ng | 2025-11-10<br>Har granskats i kvartal 2<br>2025 avseende antalet<br>registrerade klagomål i<br>- Är det som<br>ärendehanteringssystemet<br>registrerats som<br>Ciceron och<br>klagomål i DF<br>händelserapporteringssyste<br>Respons faktiskt<br>met DF Respons för år<br>Kontrollera klagomål eller är de<br>2024. Granskningen visar<br>klagomål som händelser?<br>att det brister i kunskap om<br>registrerats i DF - Av de som är<br>rutinen för hantering av<br>Respons. faktiska klagomål<br>klagomål och synpunkter då<br>- har de diarieförts i<br>12 klagomål inte blivit<br>DF Respons.<br>diarieförda. Det visar även<br>på en viss brist i kunskap<br>SAS kontrollerar i<br>avseende<br>juni och december<br>händelserapportering och<br>utredning av händelser då<br>klagomål felaktigt väljs som<br>typ av utredning i 13<br>händelser. |  |
-| Följa upp<br>uppdrag | Granskning avser de<br>2025-11-10<br>Kontroll av enheter med<br>följsamhet till försämrat resultat<br>Genomfört med ett<br>riktlinje för 2024<br>sammantaget bättre resultat<br>systematisk Funktionsstödsenhet<br>för utvalda enheter. Enbart<br>individuppföljni en vuxen<br>Öppenvård Vuxen visade på<br>ng avseende Familjefrid<br>ett sämre resultat i andel<br>tidsintervall Öppenvård vuxen<br>genomförda dokumenterade<br>Ledsagarservice<br>uppföljningar.<br>Korttidsvistelse |  |
-|  | 2025-11-10<br>Granskning avser de<br>Kontroll av<br>enheter med<br>följsamhet till Sammanfattningsvis ett<br>försämrat resultat<br>riktlinje för bättre resultat där brist i<br>2024<br>systematisk följsamhet gäller samma<br>Funktionsstödsenhet<br>individuppföljni delar av riktlinjen som<br>en vuxen<br>ng avseende tidigare år. Därav bör<br>Familjefrid<br>tillvägagångssät riktlinjen revideras för att bli<br>Öppenvård vuxen<br>t mer tydlig och lättförståelig<br>Ledsagarservice<br>samt minska<br>Korttidsvistelse<br>dokumentationsbördan. |  |
+| Process | Egenkontroll | Beskrivning av<br>kontroll | Utfal<br>l<br>2021 | Kommentar | Åtgär<br>d |
+| --- | --- | --- | --- | --- | --- |
+| Klagomålshanteri<br>ng | Kontrollera<br>klagomål som<br>registrerats i DF<br>Respons. | - Är det som<br>registrerats som<br>klagomål i DF<br>Respons faktiskt<br>klagomål eller är de<br>händelser?<br>- Av de som är<br>faktiska klagomål<br>- har de diarieförts i<br>DF Respons.<br>SAS kontrollerar i<br>juni och december |  | 2025-11-10<br>Har granskats i kvartal 2<br>2025 avseende antalet<br>registrerade klagomål i<br>ärendehanteringssystemet<br>Ciceron och<br>händelserapporteringssyste<br>met DF Respons för år<br>2024. Granskningen visar<br>att det brister i kunskap om<br>rutinen för hantering av<br>klagomål och synpunkter då<br>12 klagomål inte blivit<br>diarieförda. Det visar även<br>på en viss brist i kunskap<br>avseende<br>händelserapportering och<br>utredning av händelser då<br>klagomål felaktigt väljs som<br>typ av utredning i 13<br>händelser. |  |
+| Följa upp<br>uppdrag | Kontroll av<br>följsamhet till<br>riktlinje för<br>systematisk<br>individuppföljni<br>ng avseende<br>tidsintervall | Granskning avser de<br>enheter med<br>försämrat resultat<br>2024<br>Funktionsstödsenhet<br>en vuxen<br>Familjefrid<br>Öppenvård vuxen<br>Ledsagarservice<br>Korttidsvistelse |  | 2025-11-10<br>Genomfört med ett<br>sammantaget bättre resultat<br>för utvalda enheter. Enbart<br>Öppenvård Vuxen visade på<br>ett sämre resultat i andel<br>genomförda dokumenterade<br>uppföljningar. |  |
+|  | Kontroll av<br>följsamhet till<br>riktlinje för<br>systematisk<br>individuppföljni<br>ng avseende<br>tillvägagångssät<br>t | Granskning avser de<br>enheter med<br>försämrat resultat<br>2024<br>Funktionsstödsenhet<br>en vuxen<br>Familjefrid<br>Öppenvård vuxen<br>Ledsagarservice<br>Korttidsvistelse |  | 2025-11-10<br>Sammanfattningsvis ett<br>bättre resultat där brist i<br>följsamhet gäller samma<br>delar av riktlinjen som<br>tidigare år. Därav bör<br>riktlinjen revideras för att bli<br>mer tydlig och lättförståelig<br>samt minska<br>dokumentationsbördan. |  |
 
 <!-- sida 71 -->
 
@@ -2929,56 +2929,56 @@ Individ & Familjeomsorg, Kvalitetsberättelsen 2025        25(30)
 
 [Tabell 71-74-1](handlingar.tabeller/71-74-1.csv)
 
-| Aktivitet | Riskanalys | Åtgärd Status |
-| --- | --- | --- |
-| Ta emot<br>ansökan/anmälan eller<br>begäran | Risk för svårtillgänglig<br>statistik från<br>verksamhetssystemet | BI- projekt<br>Pågående |
-|  |  | Framtagande av SSRS-<br>rapporter för att möta<br>Avslutad - nyttan<br>verksamheternas och<br>uppnådd<br>nämndens behov |
-| Informera |  |  |
-| Förhandsbedöma |  |  |
-| Avvisa ansökan, avsluta<br>återtagen ansökan eller<br>beslut att ej inleda<br>utredning |  |  |
-| Instruerade insatser |  |  |
-| Delegerade insatser |  |  |
-| Öppna ärende |  |  |
-| Planera utredning och<br>inhämta samtycke |  |  |
-| Inhämta uppgifter |  |  |
-| Bedöma personkrets |  |  |
-| Begära<br>polishandräckning |  |  |
-| Bedöma behov |  |  |
-| Kommunicera uppgifter<br>enligt 25 §<br>Förvaltningslagen |  |  |
-| Sammanställa<br>beslutsunderlag |  |  |
-| Besluta enligt delegation |  |  |
-| Underrätta om beslut |  |  |
-| Hantera överklagande<br>och avsluta handläggning |  |  |
-| Utforma uppdrag |  |  |
-| Beställa uppdrag internt |  |  |
-| Beställa uppdrag externt |  |  |
-| Rapportera händelser |  |  |
-| Utreda händelser |  |  |
-| Återkoppla utredning |  |  |
-| Uppföljning av åtgärder | Risk att åtgärder och<br>effekter av åtgärder inte<br>följs upp systematiskt |  |
-| Ta emot klagomål | Risk att för få klagomål<br>registreras och att<br>inkomna klagomål inte<br>hanteras enligt rutin | Skapa KLOK- guide för<br>Avslutad - nyttan<br>att utreda klagomål<br>uppnådd |
-| Registrera klagomål i<br>diariet |  |  |
-| Utreda klagomål |  |  |
-| Besvara klagomålet |  |  |
-| Ta emot uppdrag |  |  |
-| Planera uppdrag | Beställningar är inte<br>dokumenterade enligt<br>IBIC | Uppföljning av gamla<br>beslut ska göras inom<br>Avslutad - nyttan<br>ramen för IBIC-<br>uppnådd<br>projektet |
-| Erbjudande om insats |  |  |
-| Upprättade riktlinjer och<br>rutiner | Risk att styrande<br>dokument inte är kända | Se över strukturen och<br>vad som behöver göras<br>framåt för att<br>säkerställa att<br>dokument, rutiner etc<br>är kända.<br>Arbetat om<br>Pågående<br>verksamhetsstyrning<br>länkar in från IF<br>Mötesplats vid nyheter<br>Kan bygga in länk från<br>kanal (verksamheternas<br>kanaler) till<br>verksamhetsstyrning |
-|  |  | Se över introduktion för<br>EC<br>Internkontroll Avslutad - nyttan<br>Klagomål delvis uppnådd<br>Händelserapportering<br>Annat |
-|  | Risk att styrande<br>dokument inte är<br>uppdatarede eller att<br>länkar brustit | VO ser över vem som<br>ska ansvara för att<br>Avslutad - nyttan<br>hålla HSL- länkar<br>delvis uppnådd<br>uppdaterade |
-| Upprätta<br>genomförandeplan | Social dokumentation<br>uteblir för att personal<br>inte är trygga med att<br>arbeta i<br>verksamhetssystemet | Översyn av befintliga<br>guider i KLOK<br>System adm + SAS<br>+ projektledare ser över<br>Avslutad - nyttan<br>vilka guider som finns i<br>uppnådd<br>KLOK och tillgången till<br>dessa samt vilka som<br>behöver skapas eller<br>revideras. |
-| Genomföra<br>insats/aktiviteter | Bristfällig social<br>dokumentation |  |
-|  | Risk att vi saknar verktyg<br>för tillgänglig och säker<br>kommunikation med<br>brukare | Ta fram<br>målgruppsanpassade<br>instruktioner SEFOS<br>Avslutad - nyttan<br>Verksamhet och<br>uppnådd<br>stödfunktion behöver ta<br>fram instruktioner<br>gemensamt |
-|  | Samverkan vid<br>samsjuklighet är<br>bristande | Socialpsykiatriska<br>samverkansgruppen får<br>i uppdrag att undersöka Avslutad - nyttan<br>behov och planera delvis uppnådd<br>aktiviteter/åtgärd |
-|  | Ny tillämpning av<br>Allmänna bestämmelser<br>medför risker i<br>bemanningsprocessen |  |
-| Följa upp beslut enligt<br>Riktlinje för systematisk<br>uppföljning | Risk att riktlinjen ej följs |  |
-| Följa upp insats enligt<br>Riktlinje för systematisk<br>uppföljning |  |  |
-| Upptäcka våldsutsatta<br>och våldsutövare |  | Alla medarbetare ska<br>ha genomgått NCK:s<br>utbildning, senast 2026<br>Pågående |
-|  |  | Implementera riktlinje<br>och rutin för Våld i nära<br>Avslutad - nyttan<br>relation uppnådd |
-| Erbjuda stöd och insatser<br>till våldsutsatta, barn som<br>bevittnat våld och<br>våldsutövare |  | Fortlöpande kartlägga<br>och analysera att<br>utbudet av insatser<br>som erbjuds<br>våldsutsatta, barn som<br>Ej påbörjad<br>bevittnat våld och<br>våldsutövare motsvarar<br>behoven som finns i<br>kommunen |
-| Följa upp följsamhet till<br>HSLF- FS 2022:39 |  | Ta fram struktur för att<br>följa upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Omvärldsbevaka hur Pågående med<br>andra kommuner följer avvikelse<br>upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Ta fram struktur för IF |
-| Avsluta ärendet |  |  |
-| Gallra och arkivera<br>personakt |  |  |
+| Aktivitet | Riskanalys | Åtgärd | Status |
+| --- | --- | --- | --- |
+| Ta emot<br>ansökan/anmälan eller<br>begäran | Risk för svårtillgänglig<br>statistik från<br>verksamhetssystemet | BI- projekt | Pågående |
+|  |  | Framtagande av SSRS-<br>rapporter för att möta<br>verksamheternas och<br>nämndens behov | Avslutad - nyttan<br>uppnådd |
+| Informera |  |  |  |
+| Förhandsbedöma |  |  |  |
+| Avvisa ansökan, avsluta<br>återtagen ansökan eller<br>beslut att ej inleda<br>utredning |  |  |  |
+| Instruerade insatser |  |  |  |
+| Delegerade insatser |  |  |  |
+| Öppna ärende |  |  |  |
+| Planera utredning och<br>inhämta samtycke |  |  |  |
+| Inhämta uppgifter |  |  |  |
+| Bedöma personkrets |  |  |  |
+| Begära<br>polishandräckning |  |  |  |
+| Bedöma behov |  |  |  |
+| Kommunicera uppgifter<br>enligt 25 §<br>Förvaltningslagen |  |  |  |
+| Sammanställa<br>beslutsunderlag |  |  |  |
+| Besluta enligt delegation |  |  |  |
+| Underrätta om beslut |  |  |  |
+| Hantera överklagande<br>och avsluta handläggning |  |  |  |
+| Utforma uppdrag |  |  |  |
+| Beställa uppdrag internt |  |  |  |
+| Beställa uppdrag externt |  |  |  |
+| Rapportera händelser |  |  |  |
+| Utreda händelser |  |  |  |
+| Återkoppla utredning |  |  |  |
+| Uppföljning av åtgärder | Risk att åtgärder och<br>effekter av åtgärder inte<br>följs upp systematiskt |  |  |
+| Ta emot klagomål | Risk att för få klagomål<br>registreras och att<br>inkomna klagomål inte<br>hanteras enligt rutin | Skapa KLOK- guide för<br>att utreda klagomål | Avslutad - nyttan<br>uppnådd |
+| Registrera klagomål i<br>diariet |  |  |  |
+| Utreda klagomål |  |  |  |
+| Besvara klagomålet |  |  |  |
+| Ta emot uppdrag |  |  |  |
+| Planera uppdrag | Beställningar är inte<br>dokumenterade enligt<br>IBIC | Uppföljning av gamla<br>beslut ska göras inom<br>ramen för IBIC-<br>projektet | Avslutad - nyttan<br>uppnådd |
+| Erbjudande om insats |  |  |  |
+| Upprättade riktlinjer och<br>rutiner | Risk att styrande<br>dokument inte är kända | Se över strukturen och<br>vad som behöver göras<br>framåt för att<br>säkerställa att<br>dokument, rutiner etc<br>är kända.<br>Arbetat om<br>verksamhetsstyrning<br>länkar in från IF<br>Mötesplats vid nyheter<br>Kan bygga in länk från<br>kanal (verksamheternas<br>kanaler) till<br>verksamhetsstyrning | Pågående |
+|  |  | Se över introduktion för<br>EC<br>Internkontroll<br>Klagomål<br>Händelserapportering<br>Annat | Avslutad - nyttan<br>delvis uppnådd |
+|  | Risk att styrande<br>dokument inte är<br>uppdatarede eller att<br>länkar brustit | VO ser över vem som<br>ska ansvara för att<br>hålla HSL- länkar<br>uppdaterade | Avslutad - nyttan<br>delvis uppnådd |
+| Upprätta<br>genomförandeplan | Social dokumentation<br>uteblir för att personal<br>inte är trygga med att<br>arbeta i<br>verksamhetssystemet | Översyn av befintliga<br>guider i KLOK<br>System adm + SAS<br>+ projektledare ser över<br>vilka guider som finns i<br>KLOK och tillgången till<br>dessa samt vilka som<br>behöver skapas eller<br>revideras. | Avslutad - nyttan<br>uppnådd |
+| Genomföra<br>insats/aktiviteter | Bristfällig social<br>dokumentation |  |  |
+|  | Risk att vi saknar verktyg<br>för tillgänglig och säker<br>kommunikation med<br>brukare | Ta fram<br>målgruppsanpassade<br>instruktioner SEFOS<br>Verksamhet och<br>stödfunktion behöver ta<br>fram instruktioner<br>gemensamt | Avslutad - nyttan<br>uppnådd |
+|  | Samverkan vid<br>samsjuklighet är<br>bristande | Socialpsykiatriska<br>samverkansgruppen får<br>i uppdrag att undersöka<br>behov och planera<br>aktiviteter/åtgärd | Avslutad - nyttan<br>delvis uppnådd |
+|  | Ny tillämpning av<br>Allmänna bestämmelser<br>medför risker i<br>bemanningsprocessen |  |  |
+| Följa upp beslut enligt<br>Riktlinje för systematisk<br>uppföljning | Risk att riktlinjen ej följs |  |  |
+| Följa upp insats enligt<br>Riktlinje för systematisk<br>uppföljning |  |  |  |
+| Upptäcka våldsutsatta<br>och våldsutövare |  | Alla medarbetare ska<br>ha genomgått NCK:s<br>utbildning, senast 2026 | Pågående |
+|  |  | Implementera riktlinje<br>och rutin för Våld i nära<br>relation | Avslutad - nyttan<br>uppnådd |
+| Erbjuda stöd och insatser<br>till våldsutsatta, barn som<br>bevittnat våld och<br>våldsutövare |  | Fortlöpande kartlägga<br>och analysera att<br>utbudet av insatser<br>som erbjuds<br>våldsutsatta, barn som<br>bevittnat våld och<br>våldsutövare motsvarar<br>behoven som finns i<br>kommunen | Ej påbörjad |
+| Följa upp följsamhet till<br>HSLF- FS 2022:39 |  | Ta fram struktur för att<br>följa upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Omvärldsbevaka hur<br>andra kommuner följer<br>upp upptäckt av<br>våldsutsatta och<br>våldsutövare<br>Ta fram struktur för IF | Pågående med<br>avvikelse |
+| Avsluta ärendet |  |  |  |
+| Gallra och arkivera<br>personakt |  |  |  |
 
 <!-- sida 72 -->
 
@@ -3786,14 +3786,15 @@ Internkontrollrapport 2025 -
 
 [Tabell 95-1](handlingar.tabeller/95-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Efterlevnad till Ja<br>rekryteringsprocessen |
-| --- | --- |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 2 Kommunövergripande risk: Bristande följsamhet Ja<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning |
-| Verksamhet | 3 Risk för att barnrättsperspektivet inte beaktas Ja<br>och dokumenteras i tillräcklig omfattning |
-|  | 4 Kommunövergripande risk - Risk för korruption Ja<br>och välfärdsbrottslighet |
-|  | 5 Risk för bristande hantering av tillbud och Ja<br>olycksfall |
-|  | 6 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
-|  | 7 Risk att vi inte kommunicerar med invånare på ett Ja<br>säkert sätt |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Efterlevnad till<br>rekryteringsprocessen | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 2 | Kommunövergripande risk: Bristande följsamhet<br>till inköpsprocessen; direktupphandling<br>respektive avtalsuppföljning | Ja |
+| Verksamhet |  | 3 | Risk för att barnrättsperspektivet inte beaktas<br>och dokumenteras i tillräcklig omfattning | Ja |
+|  |  | 4 | Kommunövergripande risk - Risk för korruption<br>och välfärdsbrottslighet | Ja |
+|  |  | 5 | Risk för bristande hantering av tillbud och<br>olycksfall | Ja |
+|  |  | 6 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
+|  |  | 7 | Risk att vi inte kommunicerar med invånare på ett<br>säkert sätt | Ja |
 
 <!-- sida 96 -->
 
@@ -3950,17 +3951,17 @@ hög grad.
 
 [Tabell 98-99-1](handlingar.tabeller/98-99-1.csv)
 
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Risk för att<br>barnrättsperspektivet inte<br>beaktas och<br>dokumenteras i tillräcklig<br>omfattning | Granska utredningar<br>samt<br>genomförandeplaner<br>Individ & Familjeomsorg<br>avseende barnets bästa<br>och barnets möjlighet till<br>delaktighet | Åtgärder planeras och<br>genomförs i respektive<br>verksamhetsområde,<br>utifrån genomförd<br>egenkontroll 2025 |
-| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Avtalsuppföljning enligt<br>Individ & Familjeomsorg<br>gällande styrdokument | I dialog med förvaltningen<br>för Service ta fram rutin för<br>hur avvikelser avseende<br>avtal eller leverantörer ska<br>dokumenteras och<br>kommuniceras |
-|  |  | Se över vilka kontroller<br>som ska komplettera<br>befintlig checklista för att<br>säkerställa en<br>ändamålsenlig och säker<br>direktupphandlingsprocess<br>samt vilka funktioner som<br>ska ansvara för dessa.<br>Förslag på kontroller att<br>komplettera checklista<br>köpt plats med ska tas<br>fram senast 31 december<br>2026. |
-|  |  | Bevaka de åtgärder som<br>förvaltningen för Service<br>beslutar om då de ser över<br>avtalsuppföljningen och<br>förtydligar Riktlinjerna för<br>Inköp angående<br>obligatoriska kontroller |
-|  | Uppföljning av<br>Individ & Familjeomsorg direktupphandlingar<br>(köpnivå 4-5) | Ta fram<br>förvaltningsanpassade<br>rutiner för<br>direktupphandling |
-|  |  | Genomföra en riskanalys<br>avseende risk för<br>välfärdsbrottslighet<br>avseende köp av externa<br>platser |
-| Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | Individ & Familjeomsorg Granskning o uppföljning | Material kring otillåten<br>påverkan kommer att<br>läggas in i introduktionen<br>för nya medarbetare. |
-|  |  | APT- material med<br>information och<br>diskussionsfrågor kopplat<br>till otillåten påverkan ska<br>tas fram och lyftas på APT<br>under året. |
-| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Granska att rapportering<br>Individ & Familjeomsorg av tillbud och olycksfall<br>hanteras enligt rutin | Fortsatta<br>utbildningsinsatser |
+| Risker | Enhet | Granskningsaktiviteter | Åtgärder |
+| --- | --- | --- | --- |
+| Risk för att<br>barnrättsperspektivet inte<br>beaktas och<br>dokumenteras i tillräcklig<br>omfattning | Individ & Familjeomsorg | Granska utredningar<br>samt<br>genomförandeplaner<br>avseende barnets bästa<br>och barnets möjlighet till<br>delaktighet | Åtgärder planeras och<br>genomförs i respektive<br>verksamhetsområde,<br>utifrån genomförd<br>egenkontroll 2025 |
+| Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | Individ & Familjeomsorg | Avtalsuppföljning enligt<br>gällande styrdokument | I dialog med förvaltningen<br>för Service ta fram rutin för<br>hur avvikelser avseende<br>avtal eller leverantörer ska<br>dokumenteras och<br>kommuniceras |
+|  |  |  | Se över vilka kontroller<br>som ska komplettera<br>befintlig checklista för att<br>säkerställa en<br>ändamålsenlig och säker<br>direktupphandlingsprocess<br>samt vilka funktioner som<br>ska ansvara för dessa.<br>Förslag på kontroller att<br>komplettera checklista<br>köpt plats med ska tas<br>fram senast 31 december<br>2026. |
+|  |  |  | Bevaka de åtgärder som<br>förvaltningen för Service<br>beslutar om då de ser över<br>avtalsuppföljningen och<br>förtydligar Riktlinjerna för<br>Inköp angående<br>obligatoriska kontroller |
+|  | Individ & Familjeomsorg | Uppföljning av<br>direktupphandlingar<br>(köpnivå 4-5) | Ta fram<br>förvaltningsanpassade<br>rutiner för<br>direktupphandling |
+|  |  |  | Genomföra en riskanalys<br>avseende risk för<br>välfärdsbrottslighet<br>avseende köp av externa<br>platser |
+| Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | Individ & Familjeomsorg | Granskning o uppföljning | Material kring otillåten<br>påverkan kommer att<br>läggas in i introduktionen<br>för nya medarbetare. |
+|  |  |  | APT- material med<br>information och<br>diskussionsfrågor kopplat<br>till otillåten påverkan ska<br>tas fram och lyftas på APT<br>under året. |
+| Risk för bristande<br>hantering av tillbud och<br>olycksfall | Individ & Familjeomsorg | Granska att rapportering<br>av tillbud och olycksfall<br>hanteras enligt rutin | Fortsatta<br>utbildningsinsatser |
 
 <!-- sida 99 -->
 
@@ -4004,29 +4005,6 @@ Med privata utförare avses utförare som har hand om skötseln av en kommunal a
 privat utförare räknas inte hel- eller delägda kommunala bolag, eller stiftelse eller förening som bildats av
 kommunen eller regionen.
 
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym % verksamhet mnkr
-Bokslut Bokslut Bokslut Bokslut
-
-```osaker-tabell
-                                       2024   2025    2024    2025
-Bostad med särskild service            14      12       43,8    40,1
-Daglig verksamhet                       5       3        2,9     1,9
-Ledsagning & avlösning                 13      17        1,1     1,4
-
-Korttidsvistelse                        6       4        1,9     1,2
-Boendestöd                             21      22        2,7     2,6
-
-Personlig assistans                    37      36       39,6    35,8
-Familjehem                                12      18      6     10,3
-Vårdplatser vuxen (SoL, LVM)             100     100    16,1    12,9
-```
-
-Övrig vuxenvård (våld i nära relation, skyddsplaceringar) 100 100 5 2
-Vårdplatser BoU (SoL, LVU)               100     100     37      42
-Öppenvårdsinsatser inom BoU               18      19      3      3,1
-
 \*Kostnaden för intern personlig assistans har räknats om för 2024 då fler enhetschefer än de som tillhör PA
 räknats med. Från och med 2025 ligger kostanden för administratörer centralt och belastar inte verksamheten.
 
@@ -4034,6 +4012,23 @@ räknats med. Från och med 2025 ligger kostanden för administratörer centralt
 beloppet.
 
 12
+
+[Tabell 100-1](handlingar.tabeller/100-1.csv)
+
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
+| --- | --- | --- | --- | --- |
+|  | Bokslut<br>2024 | Bokslut<br>2025 | Bokslut<br>2024 | Bokslut<br>2025 |
+| Bostad med särskild service | 14 | 12 | 43,8 | 40,1 |
+| Daglig verksamhet | 5 | 3 | 2,9 | 1,9 |
+| Ledsagning & avlösning | 13 | 17 | 1,1 | 1,4 |
+| Korttidsvistelse | 6 | 4 | 1,9 | 1,2 |
+| Boendestöd | 21 | 22 | 2,7 | 2,6 |
+| Personlig assistans | 37 | 36 | 39,6 | 35,8 |
+| Familjehem | 12 | 18 | 6 | 10,3 |
+| Vårdplatser vuxen (SoL, LVM) | 100 | 100 | 16,1 | 12,9 |
+| Övrig vuxenvård (våld i nära relation, skyddsplaceringar) | 100 | 100 | 5 | 2 |
+| Vårdplatser BoU (SoL, LVU) | 100 | 100 | 37 | 42 |
+| Öppenvårdsinsatser inom BoU | 18 | 19 | 3 | 3,1 |
 
 <!-- sida 101 -->
 
@@ -4158,27 +4153,28 @@ Nämndens självskattning
 
 [Tabell 104-105-1](handlingar.tabeller/104-105-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar 2025<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Område<br>Kontrollaktiviteter | Frågor Svar 2025<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar 2025 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 105 -->
 
@@ -4597,32 +4593,29 @@ lämna förslag till nämnden.
 I övrigt har nämnden omhändertagit fokusområdet i egna fokusområden, se uppföljning under kap 3.1.1, 3.1.2
 och 3.1.3.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Antal påbörjade bostäder        848       165       213
-
-Antal färdigställda bostäder    363       319       324
-Anmälda brott mot brottsbalken per invånare
-5 691    6 475     6 541
-antal/100 000 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg,
-90 %     91 %      88 %      88 %
-helhetssyn
-Brukarbedömning särskilt boende
-74 %     76 %      76 %      78 %
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-88 %               95 %
-totalt - helhetssyn
 3.1.1 Fokusområde: Rätt kompetens i rätt tid
+
 Beslutats av
 Nämnd
 Nämndens formulering
 Det som tog oss hit kommer inte ta oss dit. Dagens sätt att kompetensförsörja kommer inte räcka framåt. Vi
 behöver anpassa våra sätt att leverera tjänster och samtidigt säkerställa att vi har de kompetenser vi behöver för
 att kunna göra detta.
+
 Genom att nyttja kompetenser och resurser effektivt på hela förvaltningen och utveckla nya arbetssätt och
 
 7
+
+[Tabell 115-1](handlingar.tabeller/115-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Antal påbörjade bostäder | 848 | 165 | 213 |  |
+| Antal färdigställda bostäder | 363 | 319 | 324 |  |
+| Anmälda brott mot brottsbalken per invånare<br>antal/100 000 invånare (BRÅ) | 5 691 | 6 475 | 6 541 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 90 % | 91 % | 88 % | 88 % |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 74 % | 76 % | 76 % | 78 % |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 88 % |  | 95 % |  |
 
 <!-- sida 116 -->
 
@@ -4951,84 +4944,38 @@ matlagning och naturupplevelser. 19 deltagare från kommunen deltog. Initiativet
 verksamheter och bidragit till ökad delaktighet och välbefinnande för deltagarna. Flera deltagare har uttryckt en
 önskan att vistas mer i naturen framöver. Efter utvärdering som gjordes av deltagarna så framkommer det att
 man vill fortsätta och det planeras nu för en fortsättning till våren.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 88 % 85 %      85 %      87 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 90 % 91 % 89 %   88 %
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 72 % 79 %      73 %      75 %
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
 
 13
+
+[Tabell 121-122-1](handlingar.tabeller/121-122-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88 % | 85 % | 85 % | 87 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 90 % | 91 % | 89 % | 88 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 72 % | 79 % | 73 % | 75 % |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 93 % | 92 % | 89 % | 89 % |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 65 % | 73 % | 75 % |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 85 % | 86 % | 88 % |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 103 | 92 |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 115 | 223 |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) | 2,27 |  |  |  |
+| Fossiloberoende personbilar, andel av totalt<br>antal bilar i det geografiska området,<br>(Kolada) | 21,2 % | 24,1 % | 26,5 % |  |
+| Slutanvändning av energi inom det<br>geografiska området, MWh/inv (Kolada) | 15 | 15 |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,86 | 1,79 | 1,85 |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) | 113 | 115 | 151 |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) | 7,4 % | 7,4 % |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) | 18,5 |  |  |  |
+| Fossiloberoende personbilar i<br>kommunorganisationen, andel (%) | 94,6 % | 96,2 % | 97,5 % | 97,5 % |
+| Andelen återbrukade möbler |  |  |  |  |
+| Kommunens verksamheters elförbrukning,<br>total (kWh) | 121 886 | 110 482 | 111 941 | 107 577 |
 
 <!-- sida 122 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 93 % 92 %      89 %      89 %
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-65 %     73 %      75 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-85 %     86 %      88 %
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 103 92
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 115  223
-Startvärde 100, målvärde 2030 är 60.
-Utsläpp till luft av växthusgaser totalt, ton
-2,27
-CO2-ekv/inv (Kolada)
-Fossiloberoende personbilar, andel av totalt
-antal bilar i det geografiska området, 21,2 % 24,1 % 26,5 %
-(Kolada)
-Slutanvändning av energi inom det
-15       15
-geografiska området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,86      1,79     1,85
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i 113      115       151
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada) 7,4 % 7,4 %
-Vattendrag med god ekologisk status, andel
-18,5
-(Kolada)
-Fossiloberoende personbilar i
-94,6 %    96,2 %    97,5 %   97,5 %
-kommunorganisationen, andel (%)
-Andelen återbrukade möbler
-Kommunens verksamheters elförbrukning,
-121 886   110 482  111 941   107 577
-total (kWh)
 14
 
 <!-- sida 123 -->
@@ -5076,36 +5023,25 @@ utvecklingsmöjligheter inom daglig verksamhet. Projektet har främjat samarbete
 lokalvårdspersonal och daglig verksamhet samt bidrar till att daglig verksamhet får möjlighet att utveckla nya
 arbetsfält och erfarenheter. Cafét invigdes i oktober och har nu öppet två dagar i veckan. Tre brukare och en
 medarbetare ingår i gruppen.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 70   67        64        61
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
 
 15
+
+[Tabell 123-124-1](handlingar.tabeller/123-124-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 70 | 67 | 64 | 61 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,4 | 3,8 | 3,6 |
+| Sysselsatt dagbefolkning, antal | 28 494 | 28 586 | 28 426 |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % | 4,9 % |  |
+| Företagsamhet, andel av invånare 16–74 år | 18 % | 19 % |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) | 12,8 | 10,3 | 12,3 |  |
 
 <!-- sida 124 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndens årsredovisning 2025
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4       3,4       3,8       3,6
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 28 494   28 586    28 426
-Andel av sysselsatt dagbefolkning inom
-4,9 %    4,9 %     4,9 %
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år 18 % 19 %
-Antal nystartade företag per 1 000 invånare
-12,8      10,3     12,3
-16–64 år (etableringsfrekvens)
 3.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -5155,24 +5091,6 @@ komplexa problematiken på ett bättre sätt, med fokus på skadereduktion, åte
 fritid/sysselsättning. Resultat hittills är kunskapshöjning för personal och stärkt kompetens inom de
 socialpsykiatriska enheterna.
 
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-Genomsnittligt meritvärde för grundskolans i
-årskurs 9 (hemkommun). Meritvärdet utgörs
-239       241       242      237
-av summan av de 17 bästa betygen i elevens
-slutbetyg och kan max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 1,7 % 1,7 % 2,3 %
-SCB)
-Genomsnittlig betygspoäng gymnasieelever
-med examen (hemkommun) som kan vara 14,5  14,3      14        14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 69 % 73 % 75 %
-försörjningsstöd (%)
-Kostnad utbetalt ekonomiskt bistånd,
-376       325       306
-kr/invånare (Kolada)
 3.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -5201,6 +5119,16 @@ på förvaltningen i år ut ett pris till ”årets samarbetare” och ”årets
 kollegor som i sin vardag lever dessa egenskaper som är så viktiga både här och nu i vardagen, men också i
 
 17
+
+[Tabell 125-1](handlingar.tabeller/125-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde för grundskolans i<br>årskurs 9 (hemkommun). Meritvärdet utgörs<br>av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 239 | 241 | 242 | 237 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 1,7 % | 1,7 % | 2,3 % |  |
+| Genomsnittlig betygspoäng gymnasieelever<br>med examen (hemkommun) som kan vara<br>max 20. | 14,5 | 14,3 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 69 % | 73 % | 75 % |  |
+| Kostnad utbetalt ekonomiskt bistånd,<br>kr/invånare (Kolada) | 376 | 325 | 306 |  |
 
 <!-- sida 126 -->
 
@@ -5247,18 +5175,15 @@ individer oavsett kön eller sexuell läggning.
 Nämnden omhändertar också målet genom fokusområdena "Kommunikation som främjar transparens, tillit och
 delaktighet" samt fokusområde "Medskapande- från fokus på individen till individens fokus". Rapportering av
 dessa finns i kapitel 3.5.1 och 3.5.2.
-Indikatorer                   Utfall 2022 Utfall 2023 Utfall 2024 Utfall 2025
-
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 76  75
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 114   124
-nyckeltal med skala 1–20.
 
 18
+
+[Tabell 126-1](handlingar.tabeller/126-1.csv)
+
+| Indikatorer | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 76 | 75 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 114 | 124 |  |  |
 
 <!-- sida 127 -->
 
@@ -5591,13 +5516,6 @@ sluta göra något i en tjänst, process eller verksamhet för att skapa mer tid
 verksamhet har behövt identifiera och testa vad som går att sluta att göra. Arbetet med antipiloter kommer att
 utvecklas vidare under 2026.
 
-Indikatorer                        Utfall 2024        Utfall 2025
-Andel innovationsprojekt som drivits under
-17                  60
-året
-Andel av bruttokostnaden som avsätts för
-0,6                 0,6
-innovationsarbete och digitalisering
 4.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 Under året har chefer och medarbetare (”kontorspersonal") deltagit i introduktionsutbildning i ansvarsfull
 användning av generativ AI.
@@ -5633,6 +5551,13 @@ hemsida och broschyrer.
 Under året har flera utvecklingsinitiativ startat upp och genomförts tillsammans med externa parter.
 
 25
+
+[Tabell 133-1](handlingar.tabeller/133-1.csv)
+
+| Indikatorer | Utfall 2024 | Utfall 2025 |
+| --- | --- | --- |
+| Andel innovationsprojekt som drivits under<br>året | 17 | 60 |
+| Andel av bruttokostnaden som avsätts för<br>innovationsarbete och digitalisering | 0,6 | 0,6 |
 
 <!-- sida 134 -->
 
@@ -5983,38 +5908,27 @@ försäkringskassan (45%), efter tidigare nedgång.
 
 5.2 Resursmått
 
-Namn                        Utfall Utfall  Utfall  Utfall  Utfall
-2021    2022   2023    2024    2025
-Kostnad för personlig assistans per
-timma i Kungsbacka kommun i egen 424 420    462     463    461
-regi
-Försäkringskassans andel av
-kostnadstäckningen för personlig 50 % 50 % 43 %    41 %    45 %
-assistans för egen regi
-
 5.3 Prestationsmått
 
-Namn                        Utfall Utfall  Utfall  Utfall  Utfall
-2021    2022   2023    2024    2025
-Fördelning mellan serviceboende och
-26 %    30 %   30 %    30 %    32 %
-gruppboende (%)
-Antal personer som har LSS-insats
-576     572     592     598    610
-verkställd den 1 okt
-Antal dygn i institutionsplacering vuxen,
-2 682  2 660   2 875   2 094   1 976
-köpta platser
-Antal dygn i institutionsplacering barn
-4 220  4 314   5 433   5 052   5 551
-och unga, köpta platser
-Antal dygn i stödboende barn och unga,
-4 114  3 479   4 125   2 357   2 444
-köpta platser
-Antal dygn i stödboende missbruk,
-3 917  3 712   2 874   5 102   3 831
-köpta platser
 32
+
+[Tabell 140-1](handlingar.tabeller/140-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad för personlig assistans per<br>timma i Kungsbacka kommun i egen<br>regi | 424 | 420 | 462 | 463 | 461 |
+|  | Försäkringskassans andel av<br>kostnadstäckningen för personlig<br>assistans för egen regi | 50 % | 50 % | 43 % | 41 % | 45 % |
+
+[Tabell 140-2](handlingar.tabeller/140-2.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Fördelning mellan serviceboende och<br>gruppboende (%) | 26 % | 30 % | 30 % | 30 % | 32 % |
+|  | Antal personer som har LSS-insats<br>verkställd den 1 okt | 576 | 572 | 592 | 598 | 610 |
+|  | Antal dygn i institutionsplacering vuxen,<br>köpta platser | 2 682 | 2 660 | 2 875 | 2 094 | 1 976 |
+|  | Antal dygn i institutionsplacering barn<br>och unga, köpta platser | 4 220 | 4 314 | 5 433 | 5 052 | 5 551 |
+|  | Antal dygn i stödboende barn och unga,<br>köpta platser | 4 114 | 3 479 | 4 125 | 2 357 | 2 444 |
+|  | Antal dygn i stödboende missbruk,<br>köpta platser | 3 917 | 3 712 | 2 874 | 5 102 | 3 831 |
 
 <!-- sida 141 -->
 
@@ -6023,21 +5937,15 @@ Nämndens årsredovisning 2025
 
 5.4 Effektmått
 
-Namn                        Utfall Utfall  Utfall  Utfall  Utfall
-2021    2022   2023    2024    2025
-Ej återaktualiserade barn 0-12 år ett år
-efter avslutad utredning eller insats, 77 % 77 % 77 % 74 % 74 %
-andel %
-Ej återaktualiserade ungdomar 13-20 år
-ett år efter avslutad utredning eller 75 % 77 % 73 % 73 %  75 %
-insats, andel (%)
-Ej återaktualiserade vuxna med
-missbruksproblem eller insatser 21 + ett
-49 %    61 %   56 %    52 %    49 %
-år efter avslutad utredning eller insats,
-andel %
-
 33
+
+[Tabell 141-1](handlingar.tabeller/141-1.csv)
+
+|  | Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Ej återaktualiserade barn 0-12 år ett år<br>efter avslutad utredning eller insats,<br>andel % | 77 % | 77 % | 77 % | 74 % | 74 % |
+|  | Ej återaktualiserade ungdomar 13-20 år<br>ett år efter avslutad utredning eller<br>insats, andel (%) | 75 % | 77 % | 73 % | 73 % | 75 % |
+|  | Ej återaktualiserade vuxna med<br>missbruksproblem eller insatser 21 + ett<br>år efter avslutad utredning eller insats,<br>andel % | 49 % | 61 % | 56 % | 52 % | 49 % |
 
 <!-- sida 142 -->
 
@@ -6223,91 +6131,44 @@ stabila nivån på omsättningen av personal.
 
 6.4 Resursmått
 
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Anställda
-andel     82,6 %   81 %    78,7 %  78,7 %   79,1 %
-kvinnor
-Anställda
-17,4 %   19 %    21,3 %  21,3 %   20,9 %
-andel män
-Anställda
-759     791      813     832      863
-totalt
-Antal
-medarbetar
-21,2     18,7     19,2    20,2     17,3
-e per
-enhetschef
-Medelålder 45       45      46       46      45
-Pensionsa
-8        10       7       13      20
-vgångar
 6.5 Effektmått
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Korttidssju
-4,4 %    4,7 %   4,5 %    4,4 %    4 %
-kfrånvaro
-Korttidssju
-kfrånvaro 4,4 %    4,7 %   4,4 %    4,3 %    4 %
-Kvinnor
-Korttidssju
-kfrånvaro 4,6 %    4,8 %   4,7 %    4,7 %    4 %
-Män
-Långtidssju
-5,7 %    6 %     5,7 %    5,7 %    5 %
-kfrånvaro
-Långtidssju
-kfrånvaro 6,1 %    6,6 %   5,9 %    5,9 %    5 %
-Kvinnor
-Långtidssju
-kfrånvaro 3,5 %    3,3 %   4,7 %    4,8 %    4 %
-Män
-Personalo
-13,5 %   14 %    13,9 %   11 %     12 %
-msättning
+
 37
+
+[Tabell 145-1](handlingar.tabeller/145-1.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Anställda<br>andel<br>kvinnor | 82,6 % | 81 % | 78,7 % | 78,7 % | 79,1 % |
+|  | Anställda<br>andel män | 17,4 % | 19 % | 21,3 % | 21,3 % | 20,9 % |
+|  | Anställda<br>totalt | 759 | 791 | 813 | 832 | 863 |
+|  | Antal<br>medarbetar<br>e per<br>enhetschef | 21,2 | 18,7 | 19,2 | 20,2 | 17,3 |
+|  | Medelålder | 45 | 45 | 46 | 46 | 45 |
+|  | Pensionsa<br>vgångar | 8 | 10 | 7 | 13 | 20 |
+
+[Tabell 145-146-2](handlingar.tabeller/145-146-2.csv)
+
+|  | Namn | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Korttidssju<br>kfrånvaro | 4,4 % | 4,7 % | 4,5 % | 4,4 % | 4 % |
+|  | Korttidssju<br>kfrånvaro<br>Kvinnor | 4,4 % | 4,7 % | 4,4 % | 4,3 % | 4 % |
+|  | Korttidssju<br>kfrånvaro<br>Män | 4,6 % | 4,8 % | 4,7 % | 4,7 % | 4 % |
+|  | Långtidssju<br>kfrånvaro | 5,7 % | 6 % | 5,7 % | 5,7 % | 5 % |
+|  | Långtidssju<br>kfrånvaro<br>Kvinnor | 6,1 % | 6,6 % | 5,9 % | 5,9 % | 5 % |
+|  | Långtidssju<br>kfrånvaro<br>Män | 3,5 % | 3,3 % | 4,7 % | 4,8 % | 4 % |
+|  | Personalo<br>msättning | 13,5 % | 14 % | 13,9 % | 11 % | 12 % |
+|  | Sjukfrånvar<br>o Kvinnor | 10,5 % | 11,3 % | 10,3 % | 10,2 % | 9 % |
+|  | Sjukfrånvar<br>o Män | 8,1 % | 8,2 % | 9,4 % | 9,4 % | 8 % |
+|  | Sjukfrånvar<br>o Totalt | 10,1 % | 10,7 % | 10,2 % | 10 % | 9 % |
+|  | Sjukfrånvar<br>o, andel av<br>sjukfrånvar<br>o 60 dagar<br>eller mer | 42,5 % | 45,2 % | 43,3 % | 41,8 % | 40 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>29 år eller<br>yngre | 7,2 % | 7,6 % | 11,2 % | 8,1 % | 8 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>30-49 år | 9,1 % | 9,4 % | 9,3 % | 9,7 % | 8 % |
+|  | Sjukfrånvar<br>o, anställda<br>i åldrarna<br>50 år eller<br>äldre | 11,9 % | 12,9 % | 10,9 % | 10,8 % | 11 % |
 
 <!-- sida 146 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndens årsredovisning 2025
-
-Bokslut  Bokslut Bokslut  Bokslut  Bokslut
-Namn
-2021     2022    2023     2024     2025
-Sjukfrånvar
-10,5 %  11,3 %   10,3 %  10,2 %    9 %
-o Kvinnor
-Sjukfrånvar
-8,1 %    8,2 %   9,4 %    9,4 %    8 %
-o Män
-Sjukfrånvar
-10,1 %  10,7 %   10,2 %   10 %     9 %
-o Totalt
-Sjukfrånvar
-o, andel av
-sjukfrånvar 42,5 % 45,2 %  43,3 %  41,8 %    40 %
-o 60 dagar
-eller mer
-Sjukfrånvar
-o, anställda
-i åldrarna 7,2 %   7,6 %   11,2 %   8,1 %    8 %
-29 år eller
-yngre
-Sjukfrånvar
-o, anställda
-9,1 %    9,4 %   9,3 %    9,7 %    8 %
-i åldrarna
-30-49 år
-Sjukfrånvar
-o, anställda
-i åldrarna 11,9 % 12,9 %   10,9 %  10,8 %    11 %
-50 år eller
-äldre
 
 38
 
@@ -6356,7 +6217,7 @@ för att stärka vår förmåga att finnas där tidigt innan problemen växt sig
 
 [Tabell 147-1](handlingar.tabeller/147-1.csv)
 
-| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike lse 2025 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2024 | Budget 2025 | Bokslut 2025 | Budgetavvike<br>lse 2025 |
 | --- | --- | --- | --- | --- |
 | Nämnd | -1,6 | -2,12 | -1,72 | 0,40 |
 | Stödfunktioner och central verksamhet | -51,4 | -72,48 | -69,88 | 2,60 |

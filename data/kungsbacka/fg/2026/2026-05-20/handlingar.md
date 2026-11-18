@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1c3413919e1001c0e6be5ea/17791028853
 sha256: 332df88529c080618c29581ce787e8cd24a3b571f9891896bf729884a94701cd
 bytes: 6563751
 sidor: 120
-hamtad: 2026-11-08T08:34:33+00:00
-konverterad: 2026-11-08T08:40:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T23:21:49+00:00
+konverterad: 2026-11-17T23:26:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -4798,7 +4798,7 @@ förskola, pedagogisk omsorg och fritidshem
 
 Ärendenummer: 4269022 | Inskickat av: ANNA EVA KRISTINA CLINGSTON | 2026-03-18 11:59
 
-Y'1. Information om verksamheten
+Y'I1. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -5148,7 +5148,7 @@ förskola, pedagogisk omsorg och fritidshem
 
 Ärendenummer: 4273146 | Inskickat av: GUSTAF RÖNNEKLEV | 2026-04-16 13:23
 
-Y'1. Information om verksamheten
+Y'I1. Information om verksamheten
 
 Uppgifter om företaget
 
@@ -5400,7 +5400,6 @@ A 10.1 10.2 10.3 Beslut tt erbjuda plats ell dsättni krivni
 av avgift fritidshem
 276817479 2026-05-07 Rektor Helén A 10.1 10.2 10.3 Beslut om att erbjuda plats eller nedsättning/avskrivning
 Andersson av avgift fritidshem
-Eva-L . AB = - - Pyret ——
 276837101 2026-05-07 Rektor Eva-Lena A 9.3 A 9.4 Beslut om utökad vistelsetid eller nedsättning/avskrivning av
 Edelborg avgift i förskolan
 Delegeringsbeslut HR April

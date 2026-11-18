@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4114947f194a0301afe68289/1738141033
 sha256: b937df0a7f69bfb72fa757859b89b2ed0fee6a877a54958ebd3fdceceffb16c5
 bytes: 2704906
 sidor: 101
-hamtad: 2026-11-08T10:13:03+00:00
-konverterad: 2026-11-08T10:13:30+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:47:31+00:00
+konverterad: 2026-11-18T00:47:52+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [4, 44, 70, 73, 75, 77, 83]
 tolkade: []
@@ -683,15 +683,6 @@ cirka 14 procent av förvaltningens bruttobudget. Medlen är kopplade till förv
 utvecklingsbudget och uppföljning och rapportering av resultatet sker kvartalsvis till nämnderna. Samtliga
 medel har nyttjas enligt plan och uppföljning av resultatet av insatserna pågår löpande.
 
-Indikatorer            Utfall 2023           Utfall 2024
-Status direktiv: Andel
-innovationsprojekt som drivits                                    5
-under året
-Status direktiv: Andel av
-bruttokostnaden som avsätts för
-0,13
-innovationsarbete och
-digitalisering
 3.1.1 Kompetensutveckling och förstärkning med nya kompetenser
 
 Vad gäller kompetensutveckling och förstärkning med nya kompetenser har ledningsgruppen gått utbildningar i
@@ -699,6 +690,13 @@ att leda och organisera förnyelse och innovation och samtliga chefer har fått 
 kopplat till innovations- och utvecklingsarbete.
 
 10
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikatorer | Utfall 2023 | Utfall 2024 |
+| --- | --- | --- |
+| Status direktiv: Andel<br>innovationsprojekt som drivits<br>under året |  | 5 |
+| Status direktiv: Andel av<br>bruttokostnaden som avsätts för<br>innovationsarbete och<br>digitalisering |  | 0,13 |
 
 <!-- sida 17 -->
 
@@ -977,62 +975,31 @@ Nämndens årsredovisning 2024
 
 4.4 Resursmått
 
-Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-Andel deltid   4,1 %      2,8 %         4,6 %      2,8 %      1,9 %
-Andel heltid  95,9 %     97,2 %        95,4 %     97,2 %      98,1 %
-
-Andel kvinnor
-3,3 %      1,4 %         4,4 %      1,5 %      1,7 %
-som har deltid
-Andel kvinnor
-96,7 %     98,6 %        95,6 %     98,5 %      98,3 %
-som har heltid
-Andel män som
-5,4 %      5,3 %         4,9 %      4,9 %      2,2 %
-har deltid
-Andel män som
-94,6 %     94,7 %        95,1 %     95,1 %      97,8 %
-har heltid
-Anställda andel
-63,4 %     65,5 %        63,4 %     61,8 %      57,4 %
-kvinnor
-Anställda andel
-36,6 %     34,5 %        36,3 %     38,2 %      42,6 %
-män
-Anställda
-genomsnittlig
-98,6 %     98,7 %        98,4 %     98,7 %      99,3 %
-sysselsättnings
-grad
-
-Medarbetare
-36,6 %     38,1 %        37,5 %     35,5 %      35,2 %
-30 - 39 år
-Medarbetare
-27,7 %     26,6 %        28,6 %     28,2 %      27,8 %
-40 - 49 år
-Medarbetare
-23,8 %     21,2 %        21,4 %     21,8 %      20,4 %
-50 - 59 år
-Medarbetare
-7,9 %      6,2 %         7,1 %      7,3 %      9,3 %
-60 år och äldre
-Medarbetare
-4 %        8 %           5,4 %      7,3 %      7,4 %
-yngre än 30 år
-Medelålder      44         43             44         43         43
-Pensionsavgån
-3          1               1          3          0
-gar
-
 16
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Anställda totalt | 101 | 113 | 112 | 110 | 108 |
-| --- | --- | --- | --- | --- | --- |
-| Antal medarbetare per chef | 10,2 | 10,3 | 9,2 | 10 | 9,8 |
-| Antal medarbetare per enhetschef | 18,4 | 20,6 | 16,8 | 16,7 | 16,3 |
+|  |  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Andel deltid | 4,1 % | 2,8 % | 4,6 % | 2,8 % | 1,9 % |
+|  |  | Andel heltid | 95,9 % | 97,2 % | 95,4 % | 97,2 % | 98,1 % |
+|  |  | Andel kvinnor<br>som har deltid | 3,3 % | 1,4 % | 4,4 % | 1,5 % | 1,7 % |
+|  |  | Andel kvinnor<br>som har heltid | 96,7 % | 98,6 % | 95,6 % | 98,5 % | 98,3 % |
+|  |  | Andel män som<br>har deltid | 5,4 % | 5,3 % | 4,9 % | 4,9 % | 2,2 % |
+|  |  | Andel män som<br>har heltid | 94,6 % | 94,7 % | 95,1 % | 95,1 % | 97,8 % |
+|  |  | Anställda andel<br>kvinnor | 63,4 % | 65,5 % | 63,4 % | 61,8 % | 57,4 % |
+|  |  | Anställda andel<br>män | 36,6 % | 34,5 % | 36,3 % | 38,2 % | 42,6 % |
+|  |  | Anställda<br>genomsnittlig<br>sysselsättnings<br>grad | 98,6 % | 98,7 % | 98,4 % | 98,7 % | 99,3 % |
+|  |  | Anställda totalt | 101 | 113 | 112 | 110 | 108 |
+|  |  | Antal<br>medarbetare<br>per chef | 10,2 | 10,3 | 9,2 | 10 | 9,8 |
+|  |  | Antal<br>medarbetare<br>per enhetschef | 18,4 | 20,6 | 16,8 | 16,7 | 16,3 |
+|  |  | Medarbetare<br>30 - 39 år | 36,6 % | 38,1 % | 37,5 % | 35,5 % | 35,2 % |
+|  |  | Medarbetare<br>40 - 49 år | 27,7 % | 26,6 % | 28,6 % | 28,2 % | 27,8 % |
+|  |  | Medarbetare<br>50 - 59 år | 23,8 % | 21,2 % | 21,4 % | 21,8 % | 20,4 % |
+|  |  | Medarbetare<br>60 år och äldre | 7,9 % | 6,2 % | 7,1 % | 7,3 % | 9,3 % |
+|  |  | Medarbetare<br>yngre än 30 år | 4 % | 8 % | 5,4 % | 7,3 % | 7,4 % |
+|  |  | Medelålder | 44 | 43 | 44 | 43 | 43 |
+|  |  | Pensionsavgån<br>gar | 3 | 1 | 1 | 3 | 0 |
 
 <!-- sida 23 -->
 
@@ -1041,85 +1008,37 @@ Nämndens årsredovisning 2024
 
 4.5 Effektmått
 
-Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-Frisknärvaro  65,8 %     55,6 %        58,7 %     55,3 %      55,6 %
-Frisknärvaro
-57,5 %      54 %         50,6 %     55,1 %      44,3 %
-Kvinnor
-Frisknärvaro
-78,7 %     58,5 %         72 %      55,6 %      69,6 %
-Män
-Korttidssjukfrån
-2,3 %      2,3 %         2,9 %      2,9 %      2,9 %
-varo
-Korttidssjukfrån
-2,5 %      2,5 %         3,1 %      2,6 %      3,2 %
-varo Kvinnor
-Korttidssjukfrån
-2 %        1,9 %         2,6 %      3,4 %      2,4 %
-varo Män
-Långtidssjukfrå
-2,2 %      2,8 %          3 %       1,8 %       3 %
-nvaro
-Långtidssjukfrå
-3,4 %      3,2 %         4,1 %      1,9 %      2,5 %
-nvaro Kvinnor
-Långtidssjukfrå
-0,4 %      2,1 %         0,9 %      1,6 %      3,7 %
-nvaro Män
-Personalomsätt
-19,7 %      7,7 %        12,1 %     10,4 %      10,1 %
-ning
-Sjukfrånvaro
-5,9 %      5,7 %         7,3 %      4,5 %      5,7 %
-Kvinnor
-Sjukfrånvaro
-2,5 %      4,1 %         3,4 %       5 %       6,1 %
-Män
-Sjukfrånvaro
-4,6 %      5,1 %         5,9 %      4,7 %      5,9 %
-Totalt
-Sjukfrånvaro,
-andel av
-36,1 %      34 %         38,7 %     18,1 %      34,1 %
-sjukfrånvaro 60
-dagar eller mer
-Sjukfrånvaro,
-andel av
-sjukfrånvaro 60 44,9 %   35,2 %        44,8 %     23,4 %      24,8 %
-dagar eller mer
-Kvinnor
-Sjukfrånvaro,
-andel av
-sjukfrånvaro 60 2 %      30,9 %        15,9 %     10,4 %      47,3 %
-dagar eller mer
-Män
-Sjukfrånvaro,
-anställda i
-4,5 %      2,3 %         4,5 %      2,5 %      2,6 %
-åldrarna 29 år
-eller yngre
 17
+
+[Tabell 23-24-1](handlingar.tabeller/23-24-1.csv)
+
+|  |  | Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Frisknärvaro | 65,8 % | 55,6 % | 58,7 % | 55,3 % | 55,6 % |
+|  |  | Frisknärvaro<br>Kvinnor | 57,5 % | 54 % | 50,6 % | 55,1 % | 44,3 % |
+|  |  | Frisknärvaro<br>Män | 78,7 % | 58,5 % | 72 % | 55,6 % | 69,6 % |
+|  |  | Korttidssjukfrån<br>varo | 2,3 % | 2,3 % | 2,9 % | 2,9 % | 2,9 % |
+|  |  | Korttidssjukfrån<br>varo Kvinnor | 2,5 % | 2,5 % | 3,1 % | 2,6 % | 3,2 % |
+|  |  | Korttidssjukfrån<br>varo Män | 2 % | 1,9 % | 2,6 % | 3,4 % | 2,4 % |
+|  |  | Långtidssjukfrå<br>nvaro | 2,2 % | 2,8 % | 3 % | 1,8 % | 3 % |
+|  |  | Långtidssjukfrå<br>nvaro Kvinnor | 3,4 % | 3,2 % | 4,1 % | 1,9 % | 2,5 % |
+|  |  | Långtidssjukfrå<br>nvaro Män | 0,4 % | 2,1 % | 0,9 % | 1,6 % | 3,7 % |
+|  |  | Personalomsätt<br>ning | 19,7 % | 7,7 % | 12,1 % | 10,4 % | 10,1 % |
+|  |  | Sjukfrånvaro<br>Kvinnor | 5,9 % | 5,7 % | 7,3 % | 4,5 % | 5,7 % |
+|  |  | Sjukfrånvaro<br>Män | 2,5 % | 4,1 % | 3,4 % | 5 % | 6,1 % |
+|  |  | Sjukfrånvaro<br>Totalt | 4,6 % | 5,1 % | 5,9 % | 4,7 % | 5,9 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer | 36,1 % | 34 % | 38,7 % | 18,1 % | 34,1 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer<br>Kvinnor | 44,9 % | 35,2 % | 44,8 % | 23,4 % | 24,8 % |
+|  |  | Sjukfrånvaro,<br>andel av<br>sjukfrånvaro 60<br>dagar eller mer<br>Män | 2 % | 30,9 % | 15,9 % | 10,4 % | 47,3 % |
+|  |  | Sjukfrånvaro,<br>anställda i<br>åldrarna 29 år<br>eller yngre | 4,5 % | 2,3 % | 4,5 % | 2,5 % | 2,6 % |
+|  |  | Sjukfrånvaro,<br>anställda i<br>åldrarna 30-49<br>år | 4,4 % | 4 % | 3,8 % | 3,3 % | 3,9 % |
+|  |  | Sjukfrånvaro,<br>anställda i<br>åldrarna 50 år<br>eller äldre | 4,9 % | 8,3 % | 10,8 % | 8,1 % | 10,8 % |
+|  |  | Sjukfrånvaroda<br>gar i snitt per<br>anställd | 15,6 | 18,7 | 19,7 | 14,9 | 20,8 |
 
 <!-- sida 24 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Nämndens årsredovisning 2024
-
-Namn        Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-Sjukfrånvaro,
-anställda i
-4,4 %      4 %           3,8 %      3,3 %      3,9 %
-åldrarna 30-49
-år
-Sjukfrånvaro,
-anställda i
-4,9 %      8,3 %        10,8 %      8,1 %      10,8 %
-åldrarna 50 år
-eller äldre
-Sjukfrånvaroda
-gar i snitt per 15,6      18,7           19,7       14,9       20,8
-anställd
 
 18
 
@@ -1166,7 +1085,7 @@ Intäkterna matchas mot samma belopp för personalkostnader över budget.
 
 [Tabell 25-1](handlingar.tabeller/25-1.csv)
 
-| Uppföljningsnivå (belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budgetavvikelse 2024 |
+| Uppföljningsnivå (belopp i mkr) | Bokslut 2023 | Budget 2024 | Bokslut 2024 | Budget-<br>avvikelse 2024 |
 | --- | --- | --- | --- | --- |
 | Byggnadsnämnden | -1,4 | -1,7 | -1,3 | 0,4 |
 | Geodata & Bygglov |  |  |  |  |
@@ -1613,8 +1532,10 @@ Nämndens årsredovisning 2024
 
 | Tvisten avser | Rättsläge | Tvistigt belopp<br>(tkr) | Hanterat i<br>bokslut? |
 | --- | --- | --- | --- |
-| Skadeståndskrav | Försäkringsbolag meddelat att ansvar<br>ej kan utkrävas | 300 | Nej |
-| Skadeståndskrav | Inväntar svar om ansvarsfrågan från<br>försäkrningsbolag | 1 200 | Nej |
+| Skadeståndskrav | Försäkringsbolag meddelat att ansvar | 300 | Nej |
+|  | ej kan utkrävas |  |  |
+| Skadeståndskrav | Inväntar svar om ansvarsfrågan från | 1 200 | Nej |
+|  | försäkrningsbolag |  |  |
 | Summa |  | 1 500 |  |
 
 <!-- sida 35 -->
@@ -1994,41 +1915,43 @@ Uppföljningsrapport intern kontroll 2024
 
 [Tabell 45-1](handlingar.tabeller/45-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Brister vid Ja<br>referenstagning |
-| --- | --- |
-| Verksamhet | 2 Kommunövergripande risk - Risk för korruption Ja |
-|  | 3 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Brister vid<br>referenstagning | Ja |
+| Verksamhet |  | 2 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 3 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 [Tabell 45-48-2](handlingar.tabeller/45-48-2.csv)
 
-| Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Risk att Risken hanteras inom ramen för verksamhetsplanering och<br>förvaltningen kompetensförsörjning.<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens |
-| --- | --- |
-|  | Risk att Det finns fungerande checklistor och rutiner, ingen prioriterad risk<br>introduktion av till 2024.<br>nya medarbetare<br>inte fungerar som<br>tänkt. |
-|  | Kommun- Se anledning på snarlik förvaltningsspecifik risk "Risk att<br>övergripande förvaltningen saknar personal med rätt/tillräcklig kompetens"<br>risk: Resurs- och Risken hanteras inom ramen för verksamhetsplanering och<br>kompetensbrist kompetensförsörjning. |
-|  | Kommun- Inte aktuellt för Byggnadsnämnden eller nämnden för Miljö &<br>övergripande Hälsoskydd. Överitd ovanligt i verksamheterna.<br>risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund |
-| Ekonomi | Kommun- Omhändertas inom ramen för ordinarie verksamhetsuppföljning.<br>övergripande Granskning av kontering görs löpande under året.<br>risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister |
-|  | Risk för fel vid Granskning av kommungemensam risk "Debiteringsrutiner" har<br>hantering av genomförts under 2022-2023 med goda resultat. Inte prioriterat för<br>kundfakturor granskning 2024 |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommun- Verksamhetens chefer har god kännedom om reglerna för<br>övergripande direktupphandling/upphandling. Inte prioriterat för granskning 2024.<br>risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Risk att Denna risk har funnits med sedan 2021 som förvaltningsspecifik<br>delegations- risk 2022 och som kommunövergripande risk 2022-2023.<br>ordning inte följs Granskningarna av stickprov som gjorts visar inte på några<br>allvarliga avvikelser. Det finns fungerande rutiner i verksamheterna.<br>Inte prioriterat för granskning i internkontrollplanen 2024. |
-|  | Risk att En omfattande utbildningsinsats har genomförts för registraturen<br>diarieföring inte under 2020-2022. Inte prioriterat för granskning 2024.<br>sker korrekt |
-|  | Risk att Geodata har gjort en översyn av behörigheter till säkerhetsklassad<br>säkerhetsklassat information och därefter infört nödvändiga begränsningar. Enheten<br>material har en löpande dialog med kommunövergripande<br>avseende säkerhetsansvariga och Teknik. Inte prioriterat för granskning<br>GIS/Kartan 2024.<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. |
-|  | Risk för Oplanerade driftstopp har historiskt varit mycket ovanliga. 1 gång<br>oplanerade de senaste 12 åren för Miljö & Hälsoskyddsverksamheten. En viktig<br>driftstopp eller fråga, men mer en fråga för Digitalt Center som ansvarar för<br>krasch av driftsäkerheten. Inte prioriterat för granskning 2024.<br>verksamhets-<br>system |
-|  | Risk för intrång, Det finns rutiner för hantering av lösenord och liknande. Det finns<br>obehörig åtkomst aktuella rutiner för hantering av känsliga personuppgifter, dessa<br>eller avslöjad ska inte lagras i verksamhetssystem. Inte prioriterat för granskning<br>sekretess på 2024.<br>grund av stöld<br>och/eller<br>oaktsamhet. |
-|  | Felaktig Mycket ovanligt inom verksamheterna. Inte prioriterat för<br>hantering i granskning 2024.<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal |
-|  | Utlämnande av En omfattande utbildningsinsats har genomförts för registraturen<br>handlingar sker under 2020-2022. Arbete pågår med nya arbetssätt där kunden<br>inte enligt rutiner själv kan hämta handlingar digitalt. Inte prioriterat för granskning<br>2024. |
-|  | Hänvisning av Ingår i "vardagsrutinerna". Påminnelser och information om rutiner<br>mail och telefon publiceras på intranätet "Insidan" inför semestertider. Inte<br>görs inte vid prioriterat för granskning 2024.<br>frånvaro |
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Kommunövergrip Inte prioriterat för granskning 2024. Se verksamhetsriskerna "Risk<br>ande risk: för intrång, obehörig åtkomst eller avslöjad sekretess på grund av<br>informations- stöld och/eller oaktsamhet." och "Risk att säkerhetsklassat material<br>säkerhet; skydd avseende GIS/Kartan lämnas ut eller på annat sätt kommer i<br>av information obehöriga händer.<br>mot obehörig<br>tillgång |
-| Verksamhet | Risk för okritisk All ny personal utbildas i kartans noggrannhet. Risken har tagits till<br>tolkning av all plan i Byggnadsnämndens internkontrollplan flera år, senast 2023.<br>digital Granskningen visar inte på några avvikelser. Inte prioriterad till<br>information i granskning 2024.<br>kartsystemet<br>avseende<br>innehåll,<br>aktualitet och<br>noggrannhet. |
-|  | Risk för Mycket ovanligt att det blir fel vid mätningsuppdrag. Utbildning av<br>felaktigheter i personal och service (kalibrering) av instrument görs regelbundet.<br>mätningsuppdrag Inte prioriterat för granskning 2024. |
-|  | Risk för Snarlik kommunövergripande "Risk för korruption" tas till plan<br>påtryckningar istället för denna verksamhetsspecifika risk som funnits med länge.<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare |
-|  | Risk att Antalet avgiftsreduktioner av bygglovsärenden har minskat jämfört<br>handläggningstid med pandemiåren 2020-2022. Avgiftsreduktionerna kommer inte<br>för att kunna vara 0 st. handläggningstiderna för enskilda ärenden kan<br>bygglovsärenden dra ut på tiden av olika skäl. Det finns rapporter i Power BI där<br>inte hålls verksamheten kan följa antalet reduktioner. Det är en prioriterad<br>fråga att hålla korta handläggningstider. Mediantiden för bygglov<br>under jan-juni 2023 är 3,57 veckor (förhandsbesked undantagna,<br>16,64 veckor) Inte prioriterat för granskning 2024. Hanteras inom<br>ramen för ordinarie verksamhetsuppföljning. |
-|  | Risk att Verksamheterna har fungerande rutiner för att upprätthålla en god<br>myndighets- kvalitet på myndighetsbeslut. Stickprovsgranskning 2021-2023<br>beslut inte håller visar inte någon allvarlig avvikelse. Inte prioriterat för granskning<br>tillräcklig kvalitet 2024. |
-|  | Risk för bristande Det finns en process för beslut, uppföljning och revidering av<br>leverans av tillsynsplaner (miljöbalkstillsyn) och kontrollplan (livsmedel).<br>myndighetsuppdr Uppföljning görs kvartalsvis i nämnden för Miljö & Hälsoskydd.<br>aget Verksamhetsstatistik för bygglov redovisas till nämnden av<br>verksamhetschef regelbundet. Risken hanteras inom ordinarie<br>verksamhetsuppföljning. Inte prioriterat för granskning 2024. |
-|  | Förskottsbetalad Livsmedelskontrollen övergår till 100% efterhandsdebitering från<br>tillsyn utförs inte och med 1 januari 2024. Endast en mindre del av<br>förskottsbetalning kvar enligt taxa för miljöbalkstillsynen.<br>Verksamheterna arbetar aktivt med frågan och prioriterar<br>förskottsbetalad tillsyn. Hanteras nom ramen för ordinarie<br>verksamhetsuppföljning. Inte prioriterat för granskning 2024. |
-| Kategorier | Risker Anledning till att risk ej tas till plan<br>Hantering av Förvaltningen har ett fungerande dataskyddsarbete där<br>personuppgifter personuppgiftsincidenter rapporteras till nämnderna. Inte prioriterat<br>sker inte korrekt för granskning 2024. |
-|  | Överklaganden Förvaltningen har fungerande rutiner för att hantera överklaganden.<br>hanteras inte Inte prioriterat för granskning 2024.<br>korrekt |
-|  | Risk att fel i Per oktober har merparten av rutinerna för kontroll av<br>statistikrapporter statistikrapporter vid uppdatering av verksamhetssystemet<br>leder till sämre genomgångna och uppdaterade. Risken kommer att vara åtgärdad<br>eller felaktiga innan årskiftet. Därför tas denna risk inte till plan 2024.<br>beslut |
-|  | Risk att Risken hanteras inom ramen för ordinarie budget och<br>verksamhets- uppföljningsarbete.<br>utveckling och<br>innovation<br>nedprioriteras på<br>grund av<br>bristande<br>resurser |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Risk att<br>förvaltningen<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens | Risken hanteras inom ramen för verksamhetsplanering och<br>kompetensförsörjning. |
+|  |  | Risk att<br>introduktion av<br>nya medarbetare<br>inte fungerar som<br>tänkt. | Det finns fungerande checklistor och rutiner, ingen prioriterad risk<br>till 2024. |
+|  |  | Kommun-<br>övergripande<br>risk: Resurs- och<br>kompetensbrist | Se anledning på snarlik förvaltningsspecifik risk "Risk att<br>förvaltningen saknar personal med rätt/tillräcklig kompetens"<br>Risken hanteras inom ramen för verksamhetsplanering och<br>kompetensförsörjning. |
+|  |  | Kommun-<br>övergripande<br>risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund | Inte aktuellt för Byggnadsnämnden eller nämnden för Miljö &<br>Hälsoskydd. Överitd ovanligt i verksamheterna. |
+| Ekonomi |  | Kommun-<br>övergripande<br>risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | Omhändertas inom ramen för ordinarie verksamhetsuppföljning.<br>Granskning av kontering görs löpande under året. |
+|  |  | Risk för fel vid<br>hantering av<br>kundfakturor | Granskning av kommungemensam risk "Debiteringsrutiner" har<br>genomförts under 2022-2023 med goda resultat. Inte prioriterat för<br>granskning 2024 |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... |  | Kommun-<br>övergripande<br>risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) | Verksamhetens chefer har god kännedom om reglerna för<br>direktupphandling/upphandling. Inte prioriterat för granskning 2024. |
+|  |  | Risk att<br>delegations-<br>ordning inte följs | Denna risk har funnits med sedan 2021 som förvaltningsspecifik<br>risk 2022 och som kommunövergripande risk 2022-2023.<br>Granskningarna av stickprov som gjorts visar inte på några<br>allvarliga avvikelser. Det finns fungerande rutiner i verksamheterna.<br>Inte prioriterat för granskning i internkontrollplanen 2024. |
+|  |  | Risk att<br>diarieföring inte<br>sker korrekt | En omfattande utbildningsinsats har genomförts för registraturen<br>under 2020-2022. Inte prioriterat för granskning 2024. |
+|  |  | Risk att<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. | Geodata har gjort en översyn av behörigheter till säkerhetsklassad<br>information och därefter infört nödvändiga begränsningar. Enheten<br>har en löpande dialog med kommunövergripande<br>säkerhetsansvariga och Teknik. Inte prioriterat för granskning<br>2024. |
+|  |  | Risk för<br>oplanerade<br>driftstopp eller<br>krasch av<br>verksamhets-<br>system | Oplanerade driftstopp har historiskt varit mycket ovanliga. 1 gång<br>de senaste 12 åren för Miljö & Hälsoskyddsverksamheten. En viktig<br>fråga, men mer en fråga för Digitalt Center som ansvarar för<br>driftsäkerheten. Inte prioriterat för granskning 2024. |
+|  |  | Risk för intrång,<br>obehörig åtkomst<br>eller avslöjad<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. | Det finns rutiner för hantering av lösenord och liknande. Det finns<br>aktuella rutiner för hantering av känsliga personuppgifter, dessa<br>ska inte lagras i verksamhetssystem. Inte prioriterat för granskning<br>2024. |
+|  |  | Felaktig<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal | Mycket ovanligt inom verksamheterna. Inte prioriterat för<br>granskning 2024. |
+|  |  | Utlämnande av<br>handlingar sker<br>inte enligt rutiner | En omfattande utbildningsinsats har genomförts för registraturen<br>under 2020-2022. Arbete pågår med nya arbetssätt där kunden<br>själv kan hämta handlingar digitalt. Inte prioriterat för granskning<br>2024. |
+|  |  | Hänvisning av<br>mail och telefon<br>görs inte vid<br>frånvaro | Ingår i "vardagsrutinerna". Påminnelser och information om rutiner<br>publiceras på intranätet "Insidan" inför semestertider. Inte<br>prioriterat för granskning 2024. |
+|  |  | Kommunövergrip<br>ande risk:<br>informations-<br>säkerhet; skydd<br>av information<br>mot obehörig<br>tillgång | Inte prioriterat för granskning 2024. Se verksamhetsriskerna "Risk<br>för intrång, obehörig åtkomst eller avslöjad sekretess på grund av<br>stöld och/eller oaktsamhet." och "Risk att säkerhetsklassat material<br>avseende GIS/Kartan lämnas ut eller på annat sätt kommer i<br>obehöriga händer. |
+| Verksamhet |  | Risk för okritisk<br>tolkning av all<br>digital<br>information i<br>kartsystemet<br>avseende<br>innehåll,<br>aktualitet och<br>noggrannhet. | All ny personal utbildas i kartans noggrannhet. Risken har tagits till<br>plan i Byggnadsnämndens internkontrollplan flera år, senast 2023.<br>Granskningen visar inte på några avvikelser. Inte prioriterad till<br>granskning 2024. |
+|  |  | Risk för<br>felaktigheter i<br>mätningsuppdrag | Mycket ovanligt att det blir fel vid mätningsuppdrag. Utbildning av<br>personal och service (kalibrering) av instrument görs regelbundet.<br>Inte prioriterat för granskning 2024. |
+|  |  | Risk för<br>påtryckningar<br>utifrån / otillbörlig<br>påverkan på<br>personal och<br>beslutsfattare | Snarlik kommunövergripande "Risk för korruption" tas till plan<br>istället för denna verksamhetsspecifika risk som funnits med länge. |
+|  |  | Risk att<br>handläggningstid<br>för<br>bygglovsärenden<br>inte hålls | Antalet avgiftsreduktioner av bygglovsärenden har minskat jämfört<br>med pandemiåren 2020-2022. Avgiftsreduktionerna kommer inte<br>att kunna vara 0 st. handläggningstiderna för enskilda ärenden kan<br>dra ut på tiden av olika skäl. Det finns rapporter i Power BI där<br>verksamheten kan följa antalet reduktioner. Det är en prioriterad<br>fråga att hålla korta handläggningstider. Mediantiden för bygglov<br>under jan-juni 2023 är 3,57 veckor (förhandsbesked undantagna,<br>16,64 veckor) Inte prioriterat för granskning 2024. Hanteras inom<br>ramen för ordinarie verksamhetsuppföljning. |
+|  |  | Risk att<br>myndighets-<br>beslut inte håller<br>tillräcklig kvalitet | Verksamheterna har fungerande rutiner för att upprätthålla en god<br>kvalitet på myndighetsbeslut. Stickprovsgranskning 2021-2023<br>visar inte någon allvarlig avvikelse. Inte prioriterat för granskning<br>2024. |
+|  |  | Risk för bristande<br>leverans av<br>myndighetsuppdr<br>aget | Det finns en process för beslut, uppföljning och revidering av<br>tillsynsplaner (miljöbalkstillsyn) och kontrollplan (livsmedel).<br>Uppföljning görs kvartalsvis i nämnden för Miljö & Hälsoskydd.<br>Verksamhetsstatistik för bygglov redovisas till nämnden av<br>verksamhetschef regelbundet. Risken hanteras inom ordinarie<br>verksamhetsuppföljning. Inte prioriterat för granskning 2024. |
+|  |  | Förskottsbetalad<br>tillsyn utförs inte | Livsmedelskontrollen övergår till 100% efterhandsdebitering från<br>och med 1 januari 2024. Endast en mindre del av<br>förskottsbetalning kvar enligt taxa för miljöbalkstillsynen.<br>Verksamheterna arbetar aktivt med frågan och prioriterar<br>förskottsbetalad tillsyn. Hanteras nom ramen för ordinarie<br>verksamhetsuppföljning. Inte prioriterat för granskning 2024. |
+|  |  | Hantering av<br>personuppgifter<br>sker inte korrekt | Förvaltningen har ett fungerande dataskyddsarbete där<br>personuppgiftsincidenter rapporteras till nämnderna. Inte prioriterat<br>för granskning 2024. |
+|  |  | Överklaganden<br>hanteras inte<br>korrekt | Förvaltningen har fungerande rutiner för att hantera överklaganden.<br>Inte prioriterat för granskning 2024. |
+|  |  | Risk att fel i<br>statistikrapporter<br>leder till sämre<br>eller felaktiga<br>beslut | Per oktober har merparten av rutinerna för kontroll av<br>statistikrapporter vid uppdatering av verksamhetssystemet<br>genomgångna och uppdaterade. Risken kommer att vara åtgärdad<br>innan årskiftet. Därför tas denna risk inte till plan 2024. |
+|  |  | Risk att<br>verksamhets-<br>utveckling och<br>innovation<br>nedprioriteras på<br>grund av<br>bristande<br>resurser | Risken hanteras inom ramen för ordinarie budget och<br>uppföljningsarbete. |
 
 <!-- sida 46 -->
 
@@ -2242,8 +2165,10 @@ respektive 10 kap 1§ och omfattas därför inte av denna granskning.
 
 [Tabell 52-1](handlingar.tabeller/52-1.csv)
 
-| Verksamhet | Andel av<br>verksamhetsvolym %<br>Bokslut<br>2023 | Bokslut<br>2024 | Kostnad för<br>verksamhet mnkr<br>Bokslut<br>2023 | Bokslut<br>2024 |
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
 | --- | --- | --- | --- | --- |
+|  | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2023 | Bokslut<br>2024 |
+|  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
@@ -2345,27 +2270,28 @@ Nämndens självskattning
 
 [Tabell 54-55-1](handlingar.tabeller/54-55-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-| Område | Frågor Svar, Antal 2024<br>Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2024 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 55 -->
 

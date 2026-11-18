@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6900ef2d1932979363732f/173156986992
 sha256: 73af56f2568806f165cab5e91ccae213f9a7f5c2daf112e73be8d7ecca42012d
 bytes: 32855428
 sidor: 289
-hamtad: 2026-11-08T07:43:41+00:00
-konverterad: 2026-11-08T07:46:30+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-17T22:38:46+00:00
+konverterad: 2026-11-17T22:41:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
 tal_obekraftade: [51, 53, 55, 56, 57, 58, 60, 61, 63, 66, 67, 110, 111, 112, 116, 118, 119, 248, 249, 250, 251, 252, 253, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289]
 figurer: [27, 33, 46, 52, 53, 54, 56, 57, 59, 60, 61, 62, 63, 64, 65, 66, 67, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 81, 82, 83, 84, 86, 87, 88, 89, 91, 92, 93, 94, 95, 96, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 125, 135, 150, 154, 174, 191, 254, 255, 256]
 tolkade: []
@@ -1179,15 +1179,16 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 2. Mindre vanligt 3. Kännbar Ja<br>risk: Efterlevnad till (uppfattas som<br>rekryteringsprocessen besvärande för<br>berörda intressenter<br>och kommunen) |
-| --- | --- |
-| Informationssäkerhet,<br>administration,<br>inköp... | 2 Kommunövergripande 3. Vanligt 3. Kännbar Ja<br>risk: Bristande följsamhet (uppfattas som<br>till inköpsprocessen; besvärande för<br>direktupphandling berörda intressenter<br>respektive och kommunen)<br>avtalsuppföljning |
-| Verksamhet | 3 Rutiner mot kränkningar 3. Vanligt 3. Kännbar Ja<br>följs ej (uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |
-|  | 4 Personer med skyddad 1. Osannolik 4. Allvarlig/stor Ja<br>identitet (risken är inverkan (så stor att<br>praktiskt taget den inte får inträffa)<br>obefintlig) |
-|  | 5 Utdrag från 3. Vanligt 4. Allvarlig/stor Ja<br>belastningsregister före inverkan (så stor att<br>anställning den inte får inträffa) |
-|  | 6 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor Ja<br>risk - Risk för korruption inverkan (så stor att<br>och välfärdsbrottslighet den inte får inträffa) |
-|  | 7 Kommunövergripande 3. Vanligt 3. Kännbar Ja<br>risk: Förvaltningarnas (uppfattas som<br>arbete med att utveckla besvärande för<br>krisledningsorganisationen berörda intressenter<br>i egen verksamhet och kommunen) |
-|  | 8 Övertidsersättning 2. Mindre vanligt 3. Kännbar Ja<br>betalas ut på felaktiga (uppfattas som<br>grunder besvärande för<br>berörda intressenter<br>och kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Efterlevnad till<br>rekryteringsprocessen | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Ja |
+| Informationssäkerhet,<br>administration,<br>inköp... |  | 2 Kommunövergripande<br>risk: Bristande följsamhet<br>till inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Ja |
+| Verksamhet |  | 3 Rutiner mot kränkningar<br>följs ej | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Ja |
+|  |  | 4 Personer med skyddad<br>identitet | 1. Osannolik<br>(risken är<br>praktiskt taget<br>obefintlig) | 4. Allvarlig/stor<br>inverkan (så stor att<br>den inte får inträffa) | Ja |
+|  |  | 5 Utdrag från<br>belastningsregister före<br>anställning | 3. Vanligt | 4. Allvarlig/stor<br>inverkan (så stor att<br>den inte får inträffa) | Ja |
+|  |  | 6 Kommunövergripande<br>risk - Risk för korruption<br>och välfärdsbrottslighet | 2. Mindre vanligt | 4. Allvarlig/stor<br>inverkan (så stor att<br>den inte får inträffa) | Ja |
+|  |  | 7 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen<br>i egen verksamhet | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Ja |
+|  |  | 8 Övertidsersättning<br>betalas ut på felaktiga<br>grunder | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Ja |
 
 <!-- sida 35 -->
 
@@ -1200,17 +1201,18 @@ Intern kontrollplan 2025
 
 [Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
 
-| Kategorier<br>Personal | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Kommunövergripande Ej aktuellt för GA<br>risk: Resurs- och utifrån hur risken är<br>kompetensbrist beskriven med<br>koppling till nya<br>arbetstidsdirektivet. |
-| --- | --- |
-| Ekonomi | Kommunövergripande<br>2. Lindrig<br>risk: Resurser till<br>(uppfattas som<br>innovation,<br>2. Mindre liten av berörda<br>digitalisering och<br>vanligt intressenter<br>omställning till nya<br>och<br>arbetssätt för<br>kommunen)<br>framtidens välfärd |
-| Informationssäkerhet,<br>administration,<br>inköp... | Kommunövergripande 3. Kännbar<br>risk: (uppfattas som<br>informationssäkerhet; besvärande för<br>2. Mindre<br>skydd av information berörda<br>vanligt<br>mot obehörig tillgång intressenter<br>och<br>kommunen) |
-|  | Kommunövergripande 3. Kännbar<br>risk: It-säkerhet (uppfattas som<br>- Bristande driftmiljö besvärande för<br>2. Mindre<br>hos leverantörer berörda<br>vanligt<br>intressenter<br>och<br>kommunen) |
-| Verksamhet | Åtgärdsprogrammens De senaste årens<br>kvalitet 4. Allvarlig/stor granskning i Intern<br>2. Mindre inverkan (så kontroll har ej visat<br>vanligt stor att den inte på några brister.<br>får inträffa) Eventuell<br>granskning 2026 |
-|  | Felaktiga Granskning 2024<br>anställningsavtal visade att den<br>3. Kännbar stora bristen var att<br>(uppfattas som det inte gick att se<br>besvärande för att<br>2. Mindre<br>berörda belastningsregister<br>vanligt<br>intressenter uppvisats/begärts<br>och ut. Detta finns med<br>kommunen) som egen risk och<br>granskningsaktivtet<br>2025. |
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Mottagning av 3. Kännbar Eventuell<br>ungdomar i (uppfattas som granskning 2026<br>kommunala besvärande för<br>2. Mindre<br>aktivitetsansvaret berörda<br>vanligt<br>intressenter<br>och<br>kommunen) |
-|  | Felaktiga utbetalningar 3. Kännbar Uppföljning och<br>ekonomiskt bistånd (uppfattas som kontroll görs inom<br>besvärande för ramen för det<br>2. Mindre<br>berörda systematiska<br>vanligt<br>intressenter kvalitetsarbetet,<br>och SOSFS<br>kommunen) |
-|  | Bristande 3. Kännbar Uppföljning och<br>barnkonsekvensanalys (uppfattas som kontroll görs inom<br>vid TAK-placeringar besvärande för systematiskt<br>2. Mindre<br>berörda kvalitetsarbete,<br>vanligt<br>intressenter SOSFS<br>och<br>kommunen) |
-|  | Externa 3. Kännbar Metod för<br>skolplaceringar där (uppfattas som granskning ej<br>särskilda skäl finns besvärande för framtagen.<br>3. Vanligt berörda Eventuell<br>intressenter granskning 2026<br>och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergripande<br>risk: Resurs- och<br>kompetensbrist |  |  | Ej aktuellt för GA<br>utifrån hur risken är<br>beskriven med<br>koppling till nya<br>arbetstidsdirektivet. |
+| Ekonomi |  | Kommunövergripande<br>risk: Resurser till<br>innovation,<br>digitalisering och<br>omställning till nya<br>arbetssätt för<br>framtidens välfärd | 2. Mindre<br>vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter<br>och<br>kommunen) |  |
+| Informationssäkerhet,<br>administration,<br>inköp... |  | Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information<br>mot obehörig tillgång | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) |  |
+|  |  | Kommunövergripande<br>risk: It-säkerhet<br>- Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) |  |
+| Verksamhet |  | Åtgärdsprogrammens<br>kvalitet | 2. Mindre<br>vanligt | 4. Allvarlig/stor<br>inverkan (så<br>stor att den inte<br>får inträffa) | De senaste årens<br>granskning i Intern<br>kontroll har ej visat<br>på några brister.<br>Eventuell<br>granskning 2026 |
+|  |  | Felaktiga<br>anställningsavtal | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) | Granskning 2024<br>visade att den<br>stora bristen var att<br>det inte gick att se<br>att<br>belastningsregister<br>uppvisats/begärts<br>ut. Detta finns med<br>som egen risk och<br>granskningsaktivtet<br>2025. |
+|  |  | Mottagning av<br>ungdomar i<br>kommunala<br>aktivitetsansvaret | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) | Eventuell<br>granskning 2026 |
+|  |  | Felaktiga utbetalningar<br>ekonomiskt bistånd | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) | Uppföljning och<br>kontroll görs inom<br>ramen för det<br>systematiska<br>kvalitetsarbetet,<br>SOSFS |
+|  |  | Bristande<br>barnkonsekvensanalys<br>vid TAK-placeringar | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) | Uppföljning och<br>kontroll görs inom<br>systematiskt<br>kvalitetsarbete,<br>SOSFS |
+|  |  | Externa<br>skolplaceringar där<br>särskilda skäl finns | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter<br>och<br>kommunen) | Metod för<br>granskning ej<br>framtagen.<br>Eventuell<br>granskning 2026 |
 
 <!-- sida 36 -->
 
@@ -4352,7 +4354,7 @@ Andel av total befolkningen
 
 [Tabell 110-1](handlingar.tabeller/110-1.csv)
 
-| Delområde 20–24 år 25–29 år 30–44 år |  |  |  |
+| Delområde | 20–24 år | 25–29 år | 30–44 år |
 | --- | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 1 270 | 1 447 | 4 669 |
 | 2 SLÄP | 576 | 272 | 1 782 |
@@ -4552,17 +4554,36 @@ har cirka 60 procent av ungdomarna mellan 19–25 år bott på samma folkbokför
 
 | Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | Falkenberg | Varberg | Kungsbacka | Göteborg | Mölndal | Halmstad |
 | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 29 | 27 | 20 | 37 | 27 | 38 |
-| 1–2 år | 17 | 17 | 11 | 19 | 14 | 19 |
-| 2–3 år | 10 | 8 | 7 | 9 | 9 | 10 |
-| 3–5 år | 8 | 8 | 7 | 8 | 8 | 7 |
-| 5–10 år | 7 | 8 | 10 | 7 | 9 | 6 |
-| >10 år | 29 | 32 | 45 | 19 | 33 | 20 |
+| <1 år 29<br>1–2 år 17<br>2–3 år 10<br>3–5 år 8<br>5–10 år 7<br>>10 år 29 |  | 27 | 20 | 37 | 27 | 38 |
+|  |  | 17 | 11 | 19 | 14 | 19 |
+|  |  | 8 | 7 | 9 | 9 | 10 |
+|  |  | 8 | 7 | 8 | 8 | 7 |
+|  |  | 8 | 10 | 7 | 9 | 6 |
+|  |  | 32 | 45 | 19 | 33 | 20 |
 
 <!-- sida 113 -->
 
 än tio år. I Kungsbacka stad har störst andel av ungdomarna bott mindre än ett år på samma
 adress.
+
+Andel av totalt som
+KUNGSBACKA                   ÅSA
+har bott på samma  SLÄP VALLDA ONSALA FJÄRÅS GÄLLINGE ÄLVSÅKER KOMMUN
+STAD                      FRILLESÅS
+folkbokföringsadress
+
+```osaker-tabell
+ <1 år      31    12  12   12    17    18    20     20    20
+ 1–2 år     16    5    8    6    13    8     16     11    11
+ 2–3 år     10    5    3    4    7     5      7     7      7
+
+ 3–5 år     8     8    6    7    8     6      6     10     7
+
+5–10 år     10    11   7   11    10    11     6     9     10
+
+ >10 år     24    59  64   61    46    51    45     44    45
+ Total     100   100  100  100  100   100    100   100    100
+```
 
 Figur 90 - Andel av personer mellan 19–25 år efter hur länge de har haft samma folkbokföringsadress i Kungsbackas olika
 planeringsområde. Källa: SCB, bearbetat av Kungsbacka kommun
@@ -4570,18 +4591,6 @@ I Västra Götalands län rapporterar i princip 2/3-delar att det är underskott
 ungdomar och 1/3-del svarar att det är balans.
 
 68
-
-[Tabell 113-1](handlingar.tabeller/113-1.csv)
-
-| Andel av totalt som<br>har bott på samma<br>folkbokföringsadress | KUNGSBACKA<br>STAD | SLÄP | VALLDA | ONSALA | FJÄRÅS | ÅSA<br>FRILLESÅS | GÄLLINGE | ÄLVSÅKER | KOMMUN |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| <1 år | 31 | 12 | 12 | 12 | 17 | 18 | 20 | 20 | 20 |
-| 1–2 år | 16 | 5 | 8 | 6 | 13 | 8 | 16 | 11 | 11 |
-| 2–3 år | 10 | 5 | 3 | 4 | 7 | 5 | 7 | 7 | 7 |
-| 3–5 år | 8 | 8 | 6 | 7 | 8 | 6 | 6 | 10 | 7 |
-| 5–10 år | 10 | 11 | 7 | 11 | 10 | 11 | 6 | 9 | 10 |
-| >10 år | 24 | 59 | 64 | 61 | 46 | 51 | 45 | 44 | 45 |
-| Total | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
 
 <!-- sida 114 -->
 
@@ -4734,7 +4743,7 @@ beräknas öka när dagens 55-åringar går in i åldersgruppen.
 
 [Tabell 117-1](handlingar.tabeller/117-1.csv)
 
-| Planeringsområde 65-79 år 80+ år |  |  |
+| Planeringsområde | 65-79 år | 80+ år |
 | --- | --- | --- |
 | 1 KUNGSBACKA STAD | 3 403 | 1 854 |
 | 2 SLÄP | 1 861 | 792 |
@@ -10110,7 +10119,6 @@ Genererad 2024-11-07                                                            
 
 gt
 vgspAerT KOMMUNS OYMNABIRBKOLOR grott"
-sf Ene -
 
 — mo
 
@@ -11071,7 +11079,7 @@ paragrafens förarbeten, prop. 2017/18:17 Politisk information i skolan.
 
 FÖRSTA STYCKET
 
-hitne-/hamww ininfanat se/.lP-SkalNet/dokumenttvn/analvser-och-referat--/oraanisation-av-verksamheten/politiska-inslaa/Analvser/d 3148017-stron... 1/6
+hitne-/Aamww ininfanat se/.lP-SkalNet/dokumenttvn/analvser-och-referat--/oraanisation-av-verksamheten/politiska-inslaa/Analvser/d 3148017-stron... 1/6
 
 <!-- sida 271 -->
 
@@ -11342,7 +11350,7 @@ ställning. Det kan vara ett motiv för skolan att utvidga inbjudan. Men det är
 
 1/0
 
-höna: fhansnss alsabhsarlat anlranlar ark anasarlanavar i oelalfranarInalitioel information i okalan
+höna: fhansnass alsabsarlat anlranlar ark anasarlanavar i oelalfranarInalitioel information i okalan
 
 <!-- sida 276 -->
 

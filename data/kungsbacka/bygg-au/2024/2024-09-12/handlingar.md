@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6582e5c2191974ffda7f673/17256125668
 sha256: 26b291fa792e0a2936d4a26eaf6ff27e6bfefea1c60045d721a9bddf88079d2b
 bytes: 1708948
 sidor: 57
-hamtad: 2026-11-08T10:12:31+00:00
-konverterad: 2026-11-08T10:12:46+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:46:59+00:00
+konverterad: 2026-11-18T00:47:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2069,17 +2069,13 @@ Aktuellt forum för respektive digital tjänst eller system framgår i tabellen 
 nedan rekommenderas det att forumet genomförs med undantag för Avtalsuppföljning där Ja innebär att det
 är obligatoriskt.
 
-[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
+[Tabell 46-1](handlingar.tabeller/46-1.csv)
 
-| Utvecklingsråd Användarforum Avstämningsmöte Leverantörsmöte Avtalsuppföljning Systemförvaltarforum |  |
-| --- | --- |
-| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |
-| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |
-| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |
-| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
-| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja Ja |
-| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
+|  | Utvecklingsråd | Användarforum | Avstämningsmöte | Leverantörsmöte | Avtalsuppföljning | Systemförvaltarforum |
+| --- | --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Vid behov Nej Nej Nej |  |  |  |  |  |
+| Myndighets-<br>tjänst | Nej Nej Vid behov Ja Nej Nej |  |  |  |  |  |
+| Kommersiella<br>tjänster | Nej Nej Vid behov Vid behov Nej Nej |  |  |  |  |  |
 
 <!-- sida 47 -->
 
@@ -2128,6 +2124,14 @@ Förslag på agenda:
 •  Dialog om rutiner och arbetet med digital tjänst och system
 
 •  Erfarenhetsutbyte
+
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+| Digitalt<br>verktyg | Vid behov Vid behov Ja Ja Ja Ja |
+| --- | --- |
+| Verksamhets-<br>system | Ja Ja Ja Ja Ja Ja |
+| Plattform | Ja Ja Ja Ja Ja Ja |
+| IT-<br>infrastruktur | Ja Vid behov Vid behov Ja Ja Ja |
 
 <!-- sida 48 -->
 
@@ -2271,15 +2275,15 @@ och IT-infrastruktur. Det är ett obligatoriskt dokument och ska finnas för sam
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
-|  | Grundavtal PUB-avtal Förvaltningsplan Uppföljningsrapport Service Level Agreement |
-| --- | --- |
-| Publik tjänst | Nej Nej Nej Nej Nej |
-| Myndighetstjänst | Nej Nej Nej Nej Nej |
-| Kommersiell tjänst | Nej Ja Nej Nej Nej |
-| Digitalt verktyg | Ja Ja Ja Ja Nej |
-| Verksamhetssystem | Ja Ja Ja Ja Ja |
-| Plattform | Ja Ja Ja Ja Ja |
-| IT-infrastruktur | Ja Ja Ja Ja Ja |
+|  | Grundavtal | PUB-avtal | Förvaltningsplan | Uppföljningsrapport | Service Level Agreement |
+| --- | --- | --- | --- | --- | --- |
+| Publik tjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Myndighetstjänst | Nej Nej Nej Nej Nej |  |  |  |  |
+| Kommersiell tjänst | Nej Ja Nej Nej Nej |  |  |  |  |
+| Digitalt verktyg | Ja Ja Ja Ja Nej |  |  |  |  |
+| Verksamhetssystem | Ja Ja Ja Ja Ja |  |  |  |  |
+| Plattform | Ja Ja Ja Ja Ja |  |  |  |  |
+| IT-infrastruktur | Ja Ja Ja Ja Ja |  |  |  |  |
 
 <!-- sida 51 -->
 
@@ -2432,9 +2436,11 @@ Manualer sparas digitalt på Insidan (Sharepoint) och gallras vid inaktualitet.
 
 I tabellen nedan framgår vilka dokument som har en mall i modellen för digitala tjänster och system.
 
-Dokument         Mallens namn
+[Tabell 53-1](handlingar.tabeller/53-1.csv)
 
-Förvaltningsplan Förvaltningsplan mall.docx
+| Dokument | Mallens namn |
+| --- | --- |
+| Förvaltningsplan Förvaltningsplan mall.docx |  |
 
 <!-- sida 54 -->
 

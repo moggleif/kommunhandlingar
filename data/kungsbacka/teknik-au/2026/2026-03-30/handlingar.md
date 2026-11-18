@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.1b24984919d24cef920312b3/1774615420
 sha256: 913ccc7a7cff4559005e276b1a64361185a6b6046031b86d96ff7a6732da24c3
 bytes: 6266111
 sidor: 35
-hamtad: 2026-11-08T11:58:40+00:00
-konverterad: 2026-11-08T12:00:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T02:23:40+00:00
+konverterad: 2026-11-18T02:24:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
+kvalitet_per_sida: [ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
 tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
 figurer: []
 tolkade: []
@@ -129,10 +129,8 @@ På båda sidorna av rödmarkerad sträcka på Håkullavägen enligt kartbild f�
 inte stannas eller parkeras. Förbudet ger inte rätt att stanna där det är förbjudet att
 stanna eller parkera enligt trafikförordningen (1998:1276).
 
-yv i o i | WP AN M s
 — i | Teckenförklaring |
 L Å 2EX) i | == Föreskriftens utbredning
-ÖN I
 
 Ez
 
@@ -153,7 +151,7 @@ Linda Sövgren
 torsdag 2026-02-26 08:29
 Inkommande mail
 
-Till: teknik.anlaggningochutveckling(äQkungsbacka.se
+Till: teknik.anlaggningochutveckling(äåkungsbacka.se
 \<teknik.anlaggningochutveckling(Åakungsbacka.se>
 Från:
 
@@ -662,6 +660,74 @@ KUNGSBACKA KOMMUN
 
 <!-- sida 17 -->
 
+Remiss
+
+Till Datum
+
+Trafikverket 2023-03-26
+Diarienummer. Kungsbacka
+
+TE 2023-00431
+
+Remiss till Trafikverket gällande ansökan om lokala trafikföreskrifter om hastighet på
+Gåsevadholmsvägen (932)
+
+Kungsbacka kommun har mottagit en ansökan om att besluta lokala trafikföreskrifter om hastighet på
+Gåsevadholmsvägen (932) enligt röd markering på kartbild nedan. Ansökan innebär att fordon inte får
+föras med högre hastighet än 40 km i timmen. I dag är hastighetsbegränsningen på sträckan 60
+kilometer i timmen.
+
+Innan beslut om lokala trafikföreskrifter kan fattas ska kommunen inhämta yttrande från Trafikverket .
+Yttrandet skall vara Teknik tillhanda senast 2023-05-26 på e-post teknik(åkungsbacka.se.
+
+Vänligen märk ert yttrande med kommunens diarienummer, TE/2023-00431.
+
+Myra £/ Grönemad 7 1—'4e
+agård 2” . & Frid |
+| od i | Lekevallen ta ERORENEN
+
+Lekovallen
+
+uapaS
+
+-Myfavägen = |.
+
+ga3agården / SA stöten | » ISPiSEn
+SS JT N / t Smedinge /
+NAR &Y £ /
+OHåges | k AGästgivarens
+& Jyssas k och
+) Flöget
+Sveaborg
+Tennisb,
+= j
+I i
+Böckeras löna vå
+
+2 Josberg
+
+Paradis 5 i
+a ) N —— :Våällby gamla tomt
+
+CC Höga sten KO lig ög Djäknagårde
+\>, Vallby kulle a & MN. d SA fe
+NR ul VV NG
+
+12
+Förvaltningen för Teknik ( ) Kungsbacka kommun
+434 81 Kungsbacka
+
+s så JL
+\+ Nyårås prästgård I abj
+
+teknik(Mkungsbacka.se
+Besöksadress
+
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+
+www.kungsbacka.se
+
 <!-- sida 18 -->
 
 <!-- sida 19 -->
@@ -776,9 +842,7 @@ G)
 
 3
 er
-Hibrer
 Sv
-30
 
 )
 a
@@ -815,7 +879,6 @@ Ert ärendenummer Sidor
 TE/2023-00431 3(3)
 
 Fjärästfoorm Ö
-KANN '
 
 wPerfekt Städning
 iKUngsbacka AB
@@ -823,9 +886,7 @@ iKUngsbacka AB
 RAS Stall Graffner TG
 Djäknegården
 
-SN
 Odarbyrån. Ab, &
-' Ko Y År Ave kl
 Fjärås-BräckaskolanserA
 
 ->
@@ -923,7 +984,7 @@ wwWw.trafikverket.se
 
 <!-- sida 24 -->
 
-KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 102)
+KUNGSBACKA KOMMUN SAMMANTRÄDESPROTOKOLL 1 (2)
 Nämnden för Tekniks arbetsutskott Datum
 2026-03-02
 
@@ -1342,7 +1403,6 @@ iKängsbacka AB
 Medley;Fj
 
 SIEK Fjärås
-VAIN
 
 Sy Stall Graffner 4 )
 Djäknegården VN

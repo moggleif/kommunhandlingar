@@ -1,7 +1,5 @@
-Bransch,SNI-kod,0,1–9,10–49,"50–
-99","100–
-199","200–
-499",500+,Summa
+Bransch,SNI-kod,0,1–9,10–49,50–,100–,200–,500+,Summa
+,,,,,99,199,499,,
 "Tillverkning av monteringsfär-
 diga trähus",16.231,360,131,57,16,3,4,0,571
 Utvecklare av byggprojekt,41.100,821,174,22,0,3,0,0,1 020

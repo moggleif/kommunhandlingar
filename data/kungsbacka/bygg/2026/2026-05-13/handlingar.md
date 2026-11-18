@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.193b596219ddcc6f486b0641/1778143289
 sha256: f1d42c24c88dedb7843f9fd93be4c09417987f15933ff48b5034f473606a8d33
 bytes: 6961192
 sidor: 172
-hamtad: 2026-11-08T09:45:55+00:00
-konverterad: 2026-11-08T09:46:32+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-18T00:23:36+00:00
+konverterad: 2026-11-18T00:24:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1806,7 +1806,7 @@ Tabell 1 Utdrag ur kommunens parkeringsstrategi, 2017, visar hur antalet parkeri
 
 [Tabell 48-1](handlingar.tabeller/48-1.csv)
 
-| Parkeringsplats Antal cykelplatser Användare |  |  |
+| Parkeringsplats | Antal cykelplatser | Användare |
 | --- | --- | --- |
 | Cykelförråd | 1 per invånare | Boende |
 | Anslutning till entré | 0,5 cykelplatser/lägenhet | Boende |
@@ -2612,7 +2612,7 @@ brandposter med kapacitet 20 liter per sekund. Se figur 12.
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| Parkeringsplats Antal cykelplatser Användare |  |  |
+| Parkeringsplats | Antal cykelplatser | Användare |
 | --- | --- | --- |
 | Cykelförråd | 1 per invånare | Boende |
 | Anslutning till entré | 0,5 cykelplatser/lägenhet | Boende |
