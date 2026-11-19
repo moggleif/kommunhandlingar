@@ -112,3 +112,4 @@ Regler för det här repot, utöver MADR:
 | 0086 | [Alla sidor över tid visar samma år, från poolens första till innevarande](0086-alla-sidor-over-tid-visar-samma-ar.md) | accepted |
 | 0087 | [Kanten där två fyllda cellrutor möts är en cellgräns](0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md) | accepted |
 | 0088 | [Nattkörningen sparar det klara var 15:e minut](0088-nattkorningen-sparar-var-femtonde-minut.md) | accepted |
+| 0089 | [Sökindex över protokollens paragrafer, i Giffås format](0089-sokindex-over-protokollens-paragrafer.md) | accepted |
