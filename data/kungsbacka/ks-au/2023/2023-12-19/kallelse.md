@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241212023010id_/https://kungsbacka.se/d
 sha256: 6d29d6f899fa6bc3e33293136972c0b8f30b9daefa8733df1048da2a3805e9e7
 bytes: 330420
 sidor: 4
-hamtad: 2026-10-20T08:02:53+00:00
-konverterad: 2026-10-20T08:02:59+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-19T13:33:18+00:00
+konverterad: 2026-11-19T13:33:23+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok]
@@ -81,7 +81,9 @@ KUNGSBACKA  KOMMUN
 lönekartläggning 2023           enligt nedan:
 
 Klockan 09:05-09:45
-BASkod 10 p 2024 90 p 2024
+
+Ulrica Furby
+Jesper Edlind
 
 Kommunstyrelsen godkänner rapport avseende
 lönekartläggning 2023 och uppmanar
@@ -110,11 +112,10 @@ Johan Gerremo
 
 [Tabell 3-1](kallelse.tabeller/3-1.csv)
 
-| A | 23 690 | 28 840 |
+| BASkod | 10 p 2024 | 90 p 2024 |
 | --- | --- | --- |
-| Ulrica Furby |  |  |
+| A | 23 690 | 28 840 |
 | B | 24 720 | 31 930 |
-| Jesper Edlind |  |  |
 | C | 26 780 | 35 020 |
 | D | 28 840 | 38 110 |
 | E | 30 900 | 42 230 |
