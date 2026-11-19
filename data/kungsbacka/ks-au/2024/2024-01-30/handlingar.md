@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2fd3b05518d2a878e47da4e/17062808892
 sha256: 4c52d316a0f97164d45fed1f8fec912b75e13de65161e6fb7d11ba2ba06dbca3
 bytes: 6793799
 sidor: 120
-hamtad: 2026-11-09T10:10:02+00:00
-konverterad: 2026-11-09T10:10:36+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:24:12+00:00
+konverterad: 2026-11-19T00:24:41+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3017,16 +3017,20 @@ Kungsbacka kommun Medel till att främja välmående och motverka psykisk ohäls
 | --- | --- | --- |
 | Sommarfest x2 | Alla | 25000 |
 | Vård hund | Lilla Grönkulla | 20000 |
-| Biokvällar x2 date 23/10<br>13/11 | Alla | 20000 |
+| Biokvällar x2 date 23/10 | Alla | 20000 |
+| 13/11 |  |  |
 | Spa kvällar | Alla Å-huset | 20000 |
 | Trubadur på enhet | 6 tillfällen | 18000 |
 | Middag på enhet | Alla | 75000 |
 | Nyårsmiddag x2 | Alla | 30000 |
 | Tipspromenader | Alla | 5000 |
-| Samarbete med VO-<br>rörelse/träning på enhet | Alla | 150000 |
-| Personalkostnader för<br>ledsagning och planering | Alla | 100000 |
+| Samarbete med VO- | Alla | 150000 |
+| rörelse/träning på enhet |  |  |
+| Personalkostnader för | Alla | 100000 |
+| ledsagning och planering |  |  |
 | Träffpunkt med VO -äldre | Pension | 1000 |
-| Julpyssel, kranstillverkning x3<br>el.4 | Alla å-huset 2/12 9/12<br>16/12. Åhuset? | 100000 |
+| Julpyssel, kranstillverkning x3 | Alla å-huset 2/12 9/12 | 100000 |
+| el.4 | 16/12. Åhuset? |  |
 | vårda hund | Gåsevadholm | 20000 |
 | Sinnerum | Å huset | 200000 |
 | Side by side cykel | Alla | 150000 |

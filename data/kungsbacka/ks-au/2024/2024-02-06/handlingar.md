@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7b9d1ad18d54c082d594c8/170688412133
 sha256: 6238ffd89f4bdfa141e7c5256afb7d9c780b486f6fa3c6555fb025a7f87c9570
 bytes: 78583367
 sidor: 186
-hamtad: 2026-11-09T10:10:36+00:00
-konverterad: 2026-11-09T10:14:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:24:41+00:00
+konverterad: 2026-11-19T00:28:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok]
 tal_obekraftade: [7, 67, 68, 92, 93, 94, 95, 96, 97, 98, 107, 108, 109, 110, 111, 112, 113, 114, 122, 127, 140, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 180, 181, 182, 183, 184, 185]
 figurer: [7, 62, 92, 93, 94, 95, 96, 97, 98, 107, 108, 109, 110, 111, 112, 113, 114, 122, 133, 134, 150, 151, 152, 153, 154, 155, 156, 157, 158, 174, 175, 176, 177, 178, 186]
 tolkade: []
@@ -733,45 +733,10 @@ Nämndens årsredovisning 2023
 
 5.2 Resursmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-2019    2020    2021   2022    2023
-Ledtid planbesked till projektstart, anges i
-17     5,35     24         24      31
-månader
-Digital mognadsgrad          48%     54%     51,9%    53,4%     57%
-
 5.3 Prestationsmått
-
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-
-```osaker-tabell
-                             2019    2020    2021   2022    2023
-Upprättade detaljplaner       26      10      11         12       9
-
-Antal företagsärenden i tillståndslotsen 15 32 46        50      60
-Planlagda bostäder           424     336      662       381     386
-Automatiserade processer              10      11          3       7
-```
 
 5.4 Effektmått
 
-Namn                         Utfall  Utfall  Utfall Utfall  Utfall
-2019    2020    2021   2022    2023
-Kommunen arbetar aktivt för att förbättra
-integration och delaktighet av människor i 22%        26,6%
-samhället
-Kommunens information om vad du kan
-göra för att minska din miljö- och         54,5%      44,6%
-klimatpåverkan
-
-Kommunikation vid större förändringar i
-kommunen, exempelvis stadsplanering,       48,7         48,3
-byggnationer
-Antal nystartade företag per tusen
-12,2    13,1  13,8         12,5
-invånare (etableringsfrekvens)
-Antal arbetsställen         11 221  11 384 11 603     11 808
-Sysselsatt dagbefolkning, 15-74 år 27 610 27 384 28 167 27 695
 De tre översta måtten är ifrån SCB:s medborgarundersökning och har inget utfall under 2023 då Kungsbacka kommun bara deltar i SCB:s
 medborgarundersökning vartannat år. De tre översta måtten visar på andelen respondenter i SCB:s medborgarundersökning som angett
 svarsalternativen mycket bra och ganska bra.
@@ -779,6 +744,33 @@ Måtten antal nystartade företag, antal arbetsställen samt sysselsatt dagbefol
 uppdaterade siffran.
 
 14
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Ledtid planbesked till projektstart, anges i<br>månader | 17 | 5,35 | 24 | 24 | 31 |
+| Digital mognadsgrad | 48% | 54% | 51,9% | 53,4% | 57% |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Upprättade detaljplaner | 26 | 10 | 11 | 12 | 9 |
+| Antal företagsärenden i tillståndslotsen | 15 | 32 | 46 | 50 | 60 |
+| Planlagda bostäder | 424 | 336 | 662 | 381 | 386 |
+| Automatiserade processer |  | 10 | 11 | 3 | 7 |
+
+[Tabell 20-3](handlingar.tabeller/20-3.csv)
+
+| Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Kommunen arbetar aktivt för att förbättra<br>integration och delaktighet av människor i<br>samhället |  |  | 22% | 26,6% |  |
+| Kommunens information om vad du kan<br>göra för att minska din miljö- och<br>klimatpåverkan |  |  | 54,5% | 44,6% |  |
+| Kommunikation vid större förändringar i<br>kommunen, exempelvis stadsplanering,<br>byggnationer |  |  | 48,7 | 48,3 |  |
+| Antal nystartade företag per tusen<br>invånare (etableringsfrekvens) | 12,2 | 13,1 | 13,8 | 12,5 |  |
+| Antal arbetsställen | 11 221 | 11 384 | 11 603 | 11 808 |  |
+| Sysselsatt dagbefolkning, 15-74 år | 27 610 | 27 384 | 28 167 | 27 695 |  |
 
 <!-- sida 21 -->
 
@@ -917,29 +909,27 @@ Sjukfrånvaron är fortsatt låg på kommunstyrelsens förvaltning jämfört med
 
 6.4 Resursmått
 
-Namn            Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
-
-```osaker-tabell
-Andel heltid      99,2%      100%      100%          100%      100%
-
-Anställda andel kvinnor 76%  73,8%      74%         75,8%       72%
-Anställda totalt   127        126       127           124       125
-Medelålder          44        44        45             45        46
-```
-
 6.5 Effektmått
 
-Namn           Bokslut 2019 Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023
-
-```osaker-tabell
-Personalomsättning 10,7%    12,9%      7,4%         11,7%      8,3%
-Sjukfrånvaro Kvinnor 2,4%   2,8%       2,6%           3%       3,3%
-Sjukfrånvaro Män  4,1%      2,8%       0,4%          1,1%      0,8%
-
-Sjukfrånvaro Totalt 2,8%    2,8%        2%           2,5%      2,6%
-```
-
 17
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 99,2% | 100% | 100% | 100% | 100% |
+| Anställda andel kvinnor | 76% | 73,8% | 74% | 75,8% | 72% |
+| Anställda totalt | 127 | 126 | 127 | 124 | 125 |
+| Medelålder | 44 | 44 | 45 | 45 | 46 |
+
+[Tabell 23-2](handlingar.tabeller/23-2.csv)
+
+| Namn | Bokslut 2019 | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 10,7% | 12,9% | 7,4% | 11,7% | 8,3% |
+| Sjukfrånvaro Kvinnor | 2,4% | 2,8% | 2,6% | 3% | 3,3% |
+| Sjukfrånvaro Män | 4,1% | 2,8% | 0,4% | 1,1% | 0,8% |
+| Sjukfrånvaro Totalt | 2,8% | 2,8% | 2% | 2,5% | 2,6% |
 
 <!-- sida 24 -->
 
