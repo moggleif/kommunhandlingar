@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2177669a191e4fcbfb55e591/1726219009
 sha256: 0da36c4af56bcb801051e59c27c31d2cfaf46bb516d60bf677fd5ddae54c1b3f
 bytes: 39422820
 sidor: 90
-hamtad: 2026-11-09T10:55:18+00:00
-konverterad: 2026-11-09T10:58:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:08:51+00:00
+konverterad: 2026-11-19T01:11:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 26, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 76]
 figurer: [6, 7, 8, 9, 10, 11, 12, 13, 47, 76]
 tolkade: []
@@ -4218,31 +4218,27 @@ Delårsrapport augusti 2024
 
 4.3 Resursmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                   2020      2021       2022      2023       2024
-Andel heltid      99,2 %     100 %     100 %      100 %     100 %
-Anställda andel kvinnor 75,2 % 73,8 %  74,2 %     72,6 %    73,2 %
-Anställda totalt   125        126       124        124       123
-Medelålder         44         45        45         46        47
-```
-
 4.4 Effektmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                   2020      2021       2022      2023       2024
-Personalomsättning 9,1 %     1,6 %     5,8 %      4,2 %      4 %
-Sjukfrånvaro Kvinnor 3,4 %   2,3 %     3,1 %      3,6 %     2,2 %
-Sjukfrånvaro Män  3,6 %      0,3 %      1 %       0,9 %     0,5 %
-Sjukfrånvaro Totalt 3,4 %    1,8 %     2,6 %      2,9 %     1,7 %
-```
-
 12
+
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| Namn | Utfall jan-jun<br>2020 | Utfall jan-jun<br>2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 99,2 % | 100 % | 100 % | 100 % | 100 % |
+| Anställda andel kvinnor | 75,2 % | 73,8 % | 74,2 % | 72,6 % | 73,2 % |
+| Anställda totalt | 125 | 126 | 124 | 124 | 123 |
+| Medelålder | 44 | 45 | 45 | 46 | 47 |
+
+[Tabell 87-2](handlingar.tabeller/87-2.csv)
+
+| Namn | Utfall jan-jun<br>2020 | Utfall jan-jun<br>2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 9,1 % | 1,6 % | 5,8 % | 4,2 % | 4 % |
+| Sjukfrånvaro Kvinnor | 3,4 % | 2,3 % | 3,1 % | 3,6 % | 2,2 % |
+| Sjukfrånvaro Män | 3,6 % | 0,3 % | 1 % | 0,9 % | 0,5 % |
+| Sjukfrånvaro Totalt | 3,4 % | 1,8 % | 2,6 % | 2,9 % | 1,7 % |
 
 <!-- sida 88 -->
 

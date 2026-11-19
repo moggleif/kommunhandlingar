@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4df3e2dd19250eca9472b7de/1728052389
 sha256: b79b3566d35f515c58585b89b813584eb644d5cc14d0c8696697dcd3b4f90e74
 bytes: 36008688
 sidor: 159
-hamtad: 2026-11-09T11:07:41+00:00
-konverterad: 2026-11-09T11:09:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:20:15+00:00
+konverterad: 2026-11-19T01:21:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1316,7 +1316,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   3
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Belopp i miljoner kronor 2024-08-31 Prognos 2024 |  |  |
+| Belopp i miljoner kronor | 2024-08-31 | Prognos 2024 |
 | --- | --- | --- |
 | Kungsbacka kommun | 209 | 144 |
 | Kommunkoncern | 245 | - |
@@ -1365,7 +1365,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   4
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
-| Pensioner inklusive särskild löneskatt, miljoner 2023 Prognos 2024<br>kronor |  |  |
+| Pensioner inklusive särskild löneskatt, miljoner<br>kronor | 2023 | Prognos 2024 |
 | --- | --- | --- |
 | Årets pensionskostnader i resultaträkningen | 524 | 630 |
 | Summa pensionsförpliktelser i balansräkningen | 1 946 | 2 219 |
@@ -1583,7 +1583,7 @@ Kungsbacka kommun          Delårsbokslut 2024                   8
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. | – |
 | Kungsbacka har välkomnande och trygga miljöer. | – |
@@ -1684,7 +1684,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  10
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kungsbacka växer med en långsiktigt hållbar ekonomi. |  |
 | Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. | → |
@@ -1860,7 +1860,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  13
 
 [Tabell 59-1](handlingar.tabeller/59-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. | → |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. | → |
@@ -1908,7 +1908,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  14
 
 [Tabell 60-2](handlingar.tabeller/60-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
 | I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. | – |
@@ -2012,7 +2012,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  16
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. | → |
 | Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
@@ -2238,7 +2238,7 @@ Kungsbacka kommun          Delårsbokslut 2024                  20
 
 [Tabell 66-67-3](handlingar.tabeller/66-67-3.csv)
 
-| Prognos<br>Balanskravsutredning, miljoner kronor 2023<br>2024 |  |  |
+| Balanskravsutredning, miljoner kronor | 2023 | Prognos<br>2024 |
 | --- | --- | --- |
 | Årets resultat enligt resultaträkningen (fullfondsmodellen) | 231 | 144 |
 | Pensionsförpliktelser före 1998 | 22 | 30 |
@@ -2695,9 +2695,13 @@ Kungsbacka kommun          Delårsbokslut 2024                  30
 
 [Tabell 76-3](handlingar.tabeller/76-3.csv)
 
-| Ack utfall<br>Prognos för Budget för<br>Miljoner kronor totalt tom Prognos 2024 Avvikelse<br>projekt projekt<br>aug 2024 |  |  |  |  |  |
+| Miljoner kronor | Ack utfall | Prognos 2024 | Prognos för | Budget för | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
-| VA sanering Hanhals<br>etapp 1 | -70 | -26,2 | -80 | -80 | 0,0 |
+|  | totalt tom |  |  |  |  |
+|  |  |  | projekt | projekt |  |
+|  | aug 2024 |  |  |  |  |
+| VA sanering Hanhals | -70 | -26,2 | -80 | -80 | 0,0 |
+| etapp 1 |  |  |  |  |  |
 | Framtidens<br>reningsverk | -40,0 | -42 | -1 655 | -1 655 | 0,0 |
 
 <!-- sida 77 -->
