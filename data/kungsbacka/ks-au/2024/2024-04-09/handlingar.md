@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.18dce30518e5f9bec472eb82/1712558504
 sha256: 5bc8bfa19bf8515c5969d0c7281c5109bc4060a7177f91b087ad733774694a85
 bytes: 186291405
 sidor: 278
-hamtad: 2026-11-09T10:20:51+00:00
-konverterad: 2026-11-09T10:27:23+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:35:33+00:00
+konverterad: 2026-11-19T00:41:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tom, ok, tom, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [31, 46, 56, 73, 74, 144, 145, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 165, 166, 167, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 194, 195, 196, 197, 198, 199, 207, 208, 209, 210, 211, 212, 213, 217, 220, 225, 232, 233, 234, 273]
 figurer: [31, 67, 68, 69, 74, 85, 86, 87, 94, 101, 194, 195, 196, 197, 198, 199, 221, 225, 232, 233, 251, 252, 253, 254, 255, 256, 259, 265, 269, 270, 278]
 tolkade: []
@@ -4616,13 +4616,15 @@ ombudget 2025 förslag 2024 förslag 2025 2024 2025
 0
 2 000
 
-0         0         0   15 342     0
+[Tabell 124-1](handlingar.tabeller/124-1.csv)
 
-10 934
-2 550
-0         0         0   13 484     0
-
-500         0         0  165 651   500
+| 0 | 0 | 0 | 15 342 | 0 |
+| --- | --- | --- | --- | --- |
+|  |  |  | 10 934 |  |
+|  |  |  | 2 550 |  |
+| 0 | 0 | 0 | 13 484 | 0 |
+|  |  |  |  |  |
+| 500 | 0 | 0 | 165 651 | 500 |
 
 <!-- sida 125 -->
 
@@ -5027,46 +5029,48 @@ ombudget  nämndernas nämndernas budget budget
 <!-- sida 132 -->
 
 ```osaker-tabell
-                              -163     0
-                              -141     0
+ -163     0
+ -141     0
 
-                              -141     0
-                              872      0
-                              -110     0
-                              -103     0
-                              -102     0
-                               -33     0
-                               -23     0
-                               -20     0
+ -141     0
+ 872      0
+ -110     0
+ -103     0
+ -102     0
+  -33     0
+  -23     0
+  -20     0
 
-                               -17     0
-                               -13     0
-                               -11     0
-                               -9      0
-                               -5      0
-                             2 022     0
-                               -4      0
-                               -3      0
-                               -2      0
+  -17     0
+  -13     0
+  -11     0
+  -9      0
+  -5      0
+2 022     0
+  -4      0
+  -3      0
+  -2      0
 
-                               -1      0
-                               -1      0
-                             4 191     0
-                             20 000    0
-   0          0          0   24 547    0
-
-                               -8      0
-
-                              500      0
-                              -207     0
-                             5 526     0
-                             1 000     0
-                             5 725     0
-                             25 000    0
-   0          0          0   37 536    0
-
-60 873    -54 627    -60 873 528 263   0
+  -1      0
+  -1      0
+4 191     0
+20 000    0
 ```
+
+[Tabell 132-1](handlingar.tabeller/132-1.csv)
+
+| 0 | 0 | 0 | 24 547 | 0 |
+| --- | --- | --- | --- | --- |
+|  |  |  | -8 | 0 |
+|  |  |  | 500 | 0 |
+|  |  |  | -207 | 0 |
+|  |  |  | 5 526 | 0 |
+|  |  |  | 1 000 | 0 |
+|  |  |  | 5 725 | 0 |
+|  |  |  | 25 000 | 0 |
+| 0 | 0 | 0 | 37 536 | 0 |
+|  |  |  |  |  |
+| 60 873 | -54 627 | -60 873 | 528 263 | 0 |
 
 <!-- sida 133 -->
 
