@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.68abbcdf196d3cd895e1255b/1747395300
 sha256: eedaa1ee0abb41010c04f63871a71823f22adde6188459228106b5c15de8e829
 bytes: 14733305
 sidor: 123
-hamtad: 2026-11-09T12:11:27+00:00
-konverterad: 2026-11-09T12:12:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T02:22:39+00:00
+konverterad: 2026-11-19T02:23:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ocr]
@@ -3076,14 +3076,14 @@ Exempelvis braskamin, öppen spis, kakelugn eller vedspis
 
 [Tabell 85-1](handlingar.tabeller/85-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |
-| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
-| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |
-| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |  |
+| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
+| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |  |
+| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |  |
 
 [Tabell 85-2](handlingar.tabeller/85-2.csv)
 
@@ -3263,13 +3263,13 @@ Köksspisar, ugnar och andra jämförbara förbränningsanordningar
 
 [Tabell 89-1](handlingar.tabeller/89-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |
-| 3 ggr/år | Avser konventionella pannor. |
-| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |  |
+| 3 ggr/år | Avser konventionella pannor. |  |
+| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
 
 [Tabell 89-2](handlingar.tabeller/89-2.csv)
 

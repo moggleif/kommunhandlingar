@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.329f2e9b19368002a6f19943/1732891450
 sha256: 6ff870cba8aab7d77be6dd1aae89fa13e3a3307139a97dcb172882ae85ae5e71
 bytes: 147408302
 sidor: 341
-hamtad: 2026-11-09T11:24:14+00:00
-konverterad: 2026-11-09T11:29:32+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:36:59+00:00
+konverterad: 2026-11-19T01:42:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok]
@@ -5642,69 +5642,70 @@ strategiska planen beskriver  viktiga områden  där kollektivtrafiken
 
 såväl som  kollektivtrafikplaneringen behöver  utvecklas.
 
-Sociala  analyser                       Delaktighet
-– i planering och genomförande        – utveckla dialog med särskilt
-
-fokus barn och unga
-
 SAMMANFATTNING
 
-Den    strategiska       planen     är  en  del   av
-Vad    ska   åstadkommas?
+Den    strategiska       planen      är en   del  av
+Vad    ska  åstadkommas?
 trafikförsörjningsprogrammet
-Den  strategiska planen  innehåller fyra åtgärdsområden    med
+Den  strategiska planen  innehåller fyra åtgärdsområden   med
 
-prioriterade  insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar genomförandet    av trafik­
+prioriterade insatser. Dessa presenteras  i figur 1 och fördjupas i             Den  s trategiska planen konkretiserar  genomförandet   av trafik­
 
-avsnittet Åtgärdsområden    och prioriterade  insatser.                          försörjningsprogrammets    mål  om  att kollektivtrafiken ska bidra
+avsnittet Åtgärdsområden    och prioriterade insatser.                          försörjningsprogrammets     mål om  att kollektivtrafiken ska bidra
 till jämlika förutsättningar. Ytterligare konkretiseringar görs
 
-sedan av Västtrafik i en handlingsplan.  I figur 2 beskrivs hur
+sedan  av Västtrafik i en handlingsplan. I figur 2 beskrivs hur
 
-trafikförsörjningsprogrammets    mål och  prioriterade åtgärder
+trafikförsörjningsprogrammets     mål och prioriterade  åtgärder
 
-hänger  ihop med  den  stratgiska planens åtgärdsområden    och
+hänger  ihop  med  den stratgiska planens  åtgärdsområden    och
 
-prioriterade insatser samt  i den handlingsplan  som  Västtrafik
+prioriterade  insatser samt i den handlingsplan  som  Västtrafik
 
-tar fram som  en följd av den strategiska planen.
+tar fram  som  en följd av den strategiska planen.
 
-Hela resan  fungerar                       Trygghet                                                                  Målområde
+Sociala analyser                                                                                                   Trygghet                                                                   Målområde
 
-– för personer med funktions­        – kollektivtrafiken ska kännas
-nedsättning, barn och äldre                trygg och säker                            Trafikförsörjnings-
+– i planering och genomförande                                                                                   – kollektivtrafiken ska kännas
+trygg och säker                           Trafikförsörjnings-
 Mål
 programmet
+Utveckla samverkan kring
+Utveckla och bredda arbetet
+brottsförebyggande arbete och                                                 Prioriterade åtgärder
+med sociala analyser
+trafiksäkerhet
 
-Prioriterade åtgärder
-
-Åtgärds områden
-Strategisk  plan för
-
+Öka kunskapen om olika gruppers                                                                                    Säkerställa kompetens om                                                      Åtgärds områden
+Tillgängliga fordon
+behov och förutsättningar                                                                                           utsatta grupper                          Strategisk  plan  för
 kollektivtrafik på
-jämlika villkor
-Prioriterade insatser
+jämlika  villkor
+Utveckla bemötande, kommunikation                                                                                     Prioriterade insatser
+Åtgärder för ökad trafiksäkerhet
+och information
 
+Utveckla störningshantering
+och störningsinformation
 Handlingsplan   för
 Ytterligare
 kollektivtrafik på
 konkretis eringar
 jämlika  villkor
+Säkerställa kompetens om
+priorierade grupper
 
 Figur 2. Den strategiska planen (beslutas av
-
 infrastruktur- och kollektivtrafiknämnden) i förhållande till
+
 trafikförsörjningsprogrammet  (beslutas av regionfullmäktige)
 Figur 1. Den strategiska planens åtgärdsområden  och prioriterade insatser                                                                                       och den  handlingsplan som  Västtrafik beslutar om.
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
-| Utveckla och bredda arbetet<br>med sociala analyser | Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser | Utveckla samverkan kring<br>brottsförebyggande arbete och<br>trafiksäkerhet |
-| --- | --- | --- | --- |
-| Öka kunskapen om olika gruppers<br>behov och förutsättningar |  | Tillgängliga fordon | Säkerställa kompetens om<br>utsatta grupper |
-|  |  | Utveckla bemötande, kommunikation<br>och information | Åtgärder för ökad trafiksäkerhet |
-|  |  | Utveckla störningshantering<br>och störningsinformation |  |
-|  |  | Säkerställa kompetens om<br>priorierade grupper |  |
+| Delaktighet<br>– utveckla dialog med särskilt<br>fokus barn och unga | Hela resan fungerar<br>– för personer med funktions­<br>nedsättning, barn och äldre |
+| --- | --- |
+| Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser |
 
 <!-- sida 139 -->
 
@@ -5956,6 +5957,8 @@ ska bidra till jämlika villkor i Västra Götaland ska nås. Planen är
 
 ska ses som  en del av programmet.
 
+UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
+
 Västra     Götalandsregionens              mål
 
 för  social    hållbarhet
@@ -5981,11 +5984,6 @@ ska bidra till en socialt hållbar utveckling i den verksamhet som
 
 bedrivs samt  i avtal och överenskommelser    som  sluts med andra
 
-God  hälsa och                       Jämlikhet  och
-välbefinnande                        lika rättigheter
-
-UTGÅNGSPUNKTER    – MÅL OCH  LAGAR
-
 parter. Det ska märkas  när Västra  Götalandsregionen   prioriterar,
 
 fattar beslut, arbetar främjande  och förebyggande   samt
@@ -6002,26 +6000,31 @@ har olika livsvillkor och förutsättningar. Alla ges till exempel
 inte samma   möjlighet att vara delaktiga i samhället, att ta del
 
 av information  eller att leva ett hälsosamt liv. Västra Götalands­
-
 regionen  ska skapa jämlika  förutsättningar för invånarna.
+
 Måldokumentet    menar   att regionen behöver  riva hinder och hitta
 
 nya lösningar  som  fungerar för fler. För att klara det behöver
 
 kunskapen   om  människors   förutsättningar och  rättigheter öka.
 
-Tillit, trygghet
-och  delaktighet
+God  hälsa och                       Jämlikhet  och                       Tillit, trygghet
+välbefinnande                        lika rättigheter                     och delaktighet
+
+Främja hälsosam uppväxt och          Främja kunskap om jämlikhet            Främja ansvarstagande och
+fullfölja studier                och mänskliga rättigheter             transparent organisation
+
+Främja hälsosamt åldrande och           Identifiera och analysera           Främja frihet från våld, hot,
+motverka ofrivillig ensamhet            orättfärdiga skillnader              kränkningar och tvång
+
+Främja psykisk hälsa och               Främja tillgänglig och
+Främja medskapande och dialog
+förebygga suicid                 inkluderande verksamhet
+
+Främja goda levnadsvanor
+och hållbart arbetsliv
 
 Figur 4. Västra Götalandsregionens Mål för social hållbarhet med tillhörande delmål.
-
-[Tabell 143-1](handlingar.tabeller/143-1.csv)
-
-| Främja hälsosam uppväxt och<br>fullfölja studier | Främja kunskap om jämlikhet<br>och mänskliga rättigheter | Främja ansvarstagande och<br>transparent organisation |
-| --- | --- | --- |
-| Främja hälsosamt åldrande och<br>motverka ofrivillig ensamhet | Identifiera och analysera<br>orättfärdiga skillnader | Främja frihet från våld, hot,<br>kränkningar och tvång |
-| Främja psykisk hälsa och<br>förebygga suicid | Främja tillgänglig och<br>inkluderande verksamhet | Främja medskapande och dialog |
-| Främja goda levnadsvanor<br>och hållbart arbetsliv |  |  |
 
 <!-- sida 144 -->
 
@@ -6143,32 +6146,35 @@ funktionsnedsättning,   barn och äldre,
 ● Trygghet  – kollektivtrafiken ska kännas  trygg och vara säker.
 
 Dessa har sedan  brutits ned i prioriterade insatser.
-Sociala analyser                       Delaktighet                      Hela  resan fungerar                       Trygghet
+Sociala analyser                                                                                                   Trygghet
 
-– i planering och genomförande        – utveckla dialog med särskilt       – för personer med  funktions­        – kollektivtrafiken ska kännas
+– i planering och genomförande                                                                                   – kollektivtrafiken ska kännas
 I följande avsnitt presenteras identifierade utvecklingsbehov  för
-fokus barn och unga               nedsättning, barn och äldre                trygg och säker
+trygg och säker
 varje åtgärdsområde.  Utvecklingsbehoven    sammanfattas   i ett
-antal prioriterade insatser som bedöms   behövas  för att bidra till
-
-en kollektivtrafik på jämlika villkor. De prioriterade insatserna
-
+antal prioriterade insatser som bedöms   behövas  för att bidra till                                                                                                                                     Utveckla samverkan kring
+Utveckla och bredda arbetet
+brottsförebyggande arbete och
+en kollektivtrafik på jämlika villkor. De prioriterade insatserna                           med sociala analyser
+trafiksäkerhet
 kan ha flera sakägare och kräva  samverkan   mellan  olika aktörer
-
-Genomförande           och    uppföljning
-
+Öka kunskapen om olika gruppers                                                                                    Säkerställa kompetens om
+Genomförande           och    uppföljning                                                                                                                              Tillgängliga fordon
+behov och förutsättningar                                                                                           utsatta grupper
 Västtrafik har huvudansvaret   för att omsätta målen  i den
 
-strategiska planen i handling. Detta görs genom   att Västtrafik
-
+strategiska planen i handling. Detta görs genom   att Västtrafik                                                                                               Utveckla bemötande, kommunikation
+Åtgärder för ökad trafiksäkerhet
+och information
 tar fram en intern handlingsplan  som  beskriver  de åtgärder som
-
 ska genomföras   för att nå de uppsatta målen  inom  den utpekade
-
+Utveckla störningshantering
 tidsramen. Förvaltningen   för fastighet stöd och service äger,
-
+och störningsinformation
 förvaltar och underhåller hållplatsutrustning,  resecentrum  och
 depåer.
+Säkerställa kompetens om
+priorierade grupper
 
 Den strategiska planen  följs upp regelbundet  i samband  med   att
 
@@ -6176,12 +6182,9 @@ trafikförsörjningsprogrammet    följs upp.                                   
 
 [Tabell 146-1](handlingar.tabeller/146-1.csv)
 
-| Utveckla och bredda arbetet<br>med sociala analyser | Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser | Utveckla samverkan kring<br>brottsförebyggande arbete och<br>trafiksäkerhet |
-| --- | --- | --- | --- |
-| Öka kunskapen om olika gruppers<br>behov och förutsättningar |  | Tillgängliga fordon | Säkerställa kompetens om<br>utsatta grupper |
-|  |  | Utveckla bemötande, kommunikation<br>och information | Åtgärder för ökad trafiksäkerhet |
-|  |  | Utveckla störningshantering<br>och störningsinformation |  |
-|  |  | Säkerställa kompetens om<br>priorierade grupper |  |
+| Delaktighet<br>– utveckla dialog med särskilt<br>fokus barn och unga | Hela resan fungerar<br>– för personer med funktions­<br>nedsättning, barn och äldre |
+| --- | --- |
+| Utveckla arbetssätt och systematik<br>för delaktighet, särskilt fokus på<br>barn och unga | Utveckla tillgänglighet på och<br>till och från hållplatser |
 
 <!-- sida 147 -->
 
@@ -8771,7 +8774,7 @@ Grundläggande     minsta  utbud
 Geografi                                                                                                      Trafiklösningar
 och  öppettider
 
-Landsbygder                                    1 tur- och returresa (flera tidsfönster) mån–fre               Anropsstyrd trafik ex. Närtrafik
+Landsbygder
 
 Tätorter 200–499  invånare
 
@@ -8836,8 +8839,9 @@ Arbets- och studiependling, service- och fritidsresor
 
 [Tabell 179-1](handlingar.tabeller/179-1.csv)
 
-| 2 turer per riktning mån–fre + Närtrafik | Linjelagd trafik, kan vara anropsstyrd |
+| 1 tur- och returresa (flera tidsfönster) mån–fre | Anropsstyrd trafik ex. Närtrafik |
 | --- | --- |
+| 2 turer per riktning mån–fre + Närtrafik | Linjelagd trafik, kan vara anropsstyrd |
 | 5 turer per riktning mån–fre | Linjelagd trafik, kan vara anropsstyrd |
 | 10 turer per riktning mån–fre<br>5 turer per riktning lör–sön | Linjelagd trafik, kan vara anropsstyrd |
 | 16 turer per riktning\* mån–fre, 06–22<br>8 turer per riktning\* lör–sön, 06–22 | Linjelagd trafik, kan vara anropsstyrd |

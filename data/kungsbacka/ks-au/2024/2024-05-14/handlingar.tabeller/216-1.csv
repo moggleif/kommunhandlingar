@@ -1,9 +1,6 @@
-"Energibalans
-(MWh)","Utbyggnadskoncept
-CAS",,"Utbyggnadskoncept
-MBR",,"Utbyggnadskoncept
-AGS",
-,Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
+Energibalans,Utbyggnadskoncept,,Utbyggnadskoncept,,Utbyggnadskoncept,
+,CAS,,MBR,,AGS,
+(MWh),Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
 Energianvändning:,,,,,,
 Elanvändning,2 140,2 820,3 230,3 910,2 380,3 060
 Värmeanvändning,1140,0,1140,0,1140,0

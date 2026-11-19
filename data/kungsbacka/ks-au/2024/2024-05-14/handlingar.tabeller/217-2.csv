@@ -1,7 +1,5 @@
-"Energibalans
-(MWh)","Utbyggnadskoncept
-Ozon + GAK","Utbyggnadskoncept
-Ozon + Fluidiserad bädd"
+Energibalans,Utbyggnadskoncept,Utbyggnadskoncept
+(MWh),Ozon + GAK,Ozon + Fluidiserad bädd
 Energianvändning:,,
 Elanvändning,670,790
 Energibalans (endast elanvändning),670,790

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.1db334b719504a0b18aeba96/1740124548
 sha256: 133d081914e683fa9ad9f9c80b0170b273cd97f6ce0733e9844dbbff17707724
 bytes: 18659434
 sidor: 121
-hamtad: 2026-11-09T11:43:34+00:00
-konverterad: 2026-11-09T11:44:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:56:52+00:00
+konverterad: 2026-11-19T01:57:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [34, 73]
-figurer: [21, 51, 52, 59, 97, 98, 99, 100, 101, 103, 105, 106, 107, 108, 109, 110, 111, 112]
+figurer: [21, 51, 59, 97, 98, 99, 100, 101, 103, 105, 106, 107, 108, 109, 110, 111, 112]
 tolkade: []
 granskad: null
 ---
@@ -2035,12 +2035,32 @@ synergieffekter svårare att uppnå.
 
 Beskrivning
 
-Utbildning     Antal  Antal     Ej fyllda Beviljad till och med
-platser studerande platser
-
-Redovisningskonsult 32 26       6        Ansökan inlämnad
-
 16
+
+[Tabell 52-53-1](handlingar.tabeller/52-53-1.csv)
+
+| Utbildning | Antal<br>platser | Antal<br>studerande | Ej fyllda<br>platser |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | Beviljad till och med |
+|  |  |  |  |  |
+| Redovisningskonsult | 32 | 26 | 6 |  |
+|  |  |  |  | Ansökan inlämnad |
+|  |  |  |  |  |
+| BIM byggprojektör | 24 | 16 | 8 |  |
+|  |  |  |  | Ytterligare 2 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| CAD konstruktör | 24 | 20 | 4 |  |
+|  |  |  |  | Ytterligare 2 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| Hiss och<br>rulltrappstekniker |  | pausad | pausad |  |
+|  |  |  |  | Ytterligare 3 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| Summa | 80 | 62 | 18 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 <!-- sida 53 -->
 
@@ -2086,14 +2106,6 @@ området Teknik och tillverkning samt området Data/IT och lägst inom Ekonomi,
 administration och försäljning.
 
 17
-
-[Tabell 53-1](handlingar.tabeller/53-1.csv)
-
-| BIM byggprojektör | 24 | 16 | 8 | Ytterligare 2 starter<br>beviljade |
-| --- | --- | --- | --- | --- |
-| CAD konstruktör | 24 | 20 | 4 | Ytterligare 2 starter<br>beviljade |
-| Hiss och<br>rulltrappstekniker |  | pausad | pausad | Ytterligare 3 starter<br>beviljade |
-| Summa | 80 | 62 | 18 |  |
 
 <!-- sida 54 -->
 

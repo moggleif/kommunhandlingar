@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7cc6bcd119873771c9593119/1754639296
 sha256: 2783996609cc9f1c5ce23b1631e13978fdf58ea0f26d0dabe89cc69c4a834c75
 bytes: 241798661
 sidor: 243
-hamtad: 2026-11-09T12:19:25+00:00
-konverterad: 2026-11-09T12:28:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T02:31:06+00:00
+konverterad: 2026-11-19T02:40:02+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -484,22 +484,24 @@ Intern kontrollplan 2026
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
-| Kategorier<br>Ekonomi | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Debiteringsrutiner 2. Mindre 3. Kännbar (uppfattas Ja<br>vanligt som besvärande för<br>berörda intressenter och<br>kommunen) |
-| --- | --- |
-| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. | 2 3. Vanligt 3. Kännbar (uppfattas Ja<br>Kommunövergripan som besvärande för<br>de risk: Bristande berörda intressenter och<br>följsamhet till kommunen)<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning |
-|  | 3 2. Mindre 4. Allvarlig/stor inverkan Ja<br>Kommunövergripan vanligt (så stor att den inte får<br>de risk - Risk för inträffa)<br>korruption och<br>välfärdsbrottslighet |
-|  | 4 2. Mindre 3. Kännbar (uppfattas Ja<br>Kommunövergripan vanligt som besvärande för<br>de risk: berörda intressenter och<br>Förvaltningarnas kommunen)<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | 1 Debiteringsrutiner | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Gemensamma<br>områden;<br>Informationssä<br>kerhet,<br>administration,<br>inköp m fl. |  | 2<br>Kommunövergripan<br>de risk: Bristande<br>följsamhet till<br>inköpsprocessen;<br>direktupphandling<br>respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3<br>Kommunövergripan<br>de risk - Risk för<br>korruption och<br>välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4<br>Kommunövergripan<br>de risk:<br>Förvaltningarnas<br>arbete med att följa<br>och utveckla det<br>systematiska<br>beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 [Tabell 16-17-2](handlingar.tabeller/16-17-2.csv)
 
-| Kategorier<br>Personal | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunöver- 2. Mindre 3. Kännbar Efterlevnad till gällande<br>gripande risk: vanligt (uppfattas som rutiner har följts upp under<br>Efterlevnad till besvärande för några år och visar på gott<br>rekryterings- berörda resultat. Åtgärder<br>processen intressenter och (information och utbildning)<br>kommunen) har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
-| --- | --- |
-| Ekonomi | Kommunövergripa 2. Mindre 3. Kännbar Utvecklingsarbete pågår bl<br>nde risk: vanligt (uppfattas som a med nya avstämningar<br>Grundläggande besvärande för och rapporter (BI)<br>redovisning berörda<br>kvalitetsbrister intressenter och<br>kommunen) |
-| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, | Kommunövergripa 2. Mindre 3. Kännbar Arbetet med<br>nde risk: vanligt (uppfattas som informationssäkerhet följer<br>informationssäkerh besvärande för gemensamma<br>et; skydd av berörda styrdokument med<br>information mot intressenter och uppföljning i egen process.<br>obehörig tillgång kommunen) |
-| Kategorier<br>administra<br>tion, inköp<br>m fl. | Sannolik Konsekvens Anledning till att risk ej<br>Risker<br>het tas till plan<br>Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: It- vanligt (uppfattas som inköpsprocessen/leverantö<br>säkerhet besvärande för rsuppföljning. Även<br>- Bristande berörda uppföljning egenom<br>driftmiljö hos intressenter och systemförvaltarmodellen.<br>leverantörer kommunen) |
-|  | Kommunövergripa 2. Mindre 3. Kännbar Hanteras genom<br>nde risk: Risk att vanligt (uppfattas som Samhällsbyggnadsledning<br>samhällsutbyggnad besvärande för (Samhällsbyggnadsproces<br>inte kan ske i berörda sen) där vi kommer att<br>planerad takt. Ny intressenter och arbeta med ”Obruten digital<br>infrastruktur och kommunen) samhällsbyggnadsprocess”<br>exploatering och samt ”Utbyggnadsplan”. I<br>projekt för Samhällsbyggnadsledning<br>underhåll/utbyggna finns flera förvaltningar<br>d av befintlig representerade (Teknik,<br>infrastruktur är Service, Bygg o Miljö,<br>beroende av Kultur o Fritid samt KSF<br>varandra (resurser genom SBK och Ekonomi.<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) |
-| Verksamh<br>et | Kommunövergripa 2. Mindre 3. Kännbar Tas omhand genom<br>nde risk: Dämpad vanligt (uppfattas som budgetprocessen och<br>befolkningstillväxt besvärande för lokalplanen.<br>med långsiktig berörda<br>påverkan på intressenter och<br>kommunala kommunen)<br>verksamheter |
-|  | Risk att 2. Mindre 3. Kännbar<br>kommunstyrelsen vanligt (uppfattas som<br>inte utövar sin besvärande för<br>uppsiktsplikt över berörda<br>den kommunala intressenter och<br>verksamheten på kommunen)<br>ett ändamålsenligt<br>sätt |
+| Kategorier |  | Risker | Sannolik<br>het | Konsekvens | Anledning till att risk ej<br>tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunöver-<br>gripande risk:<br>Efterlevnad till<br>rekryterings-<br>processen | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Efterlevnad till gällande<br>rutiner har följts upp under<br>några år och visar på gott<br>resultat. Åtgärder<br>(information och utbildning)<br>har vidtagits vid behov.<br>Följs fortsättningsvis upp<br>på annat sätt. |
+| Ekonomi |  | Kommunövergripa<br>nde risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utvecklingsarbete pågår bl<br>a med nya avstämningar<br>och rapporter (BI) |
+| Gemensa<br>mma<br>områden;<br>Informatio<br>nssäkerhe<br>t, |  | Kommunövergripa<br>nde risk:<br>informationssäkerh<br>et; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Arbetet med<br>informationssäkerhet följer<br>gemensamma<br>styrdokument med<br>uppföljning i egen process. |
+| administra<br>tion, inköp<br>m fl. |  | Kommunövergripa<br>nde risk: It-<br>säkerhet<br>- Bristande<br>driftmiljö hos<br>leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>inköpsprocessen/leverantö<br>rsuppföljning. Även<br>uppföljning egenom<br>systemförvaltarmodellen. |
+|  |  | Kommunövergripa<br>nde risk: Risk att<br>samhällsutbyggnad<br>inte kan ske i<br>planerad takt. Ny<br>infrastruktur och<br>exploatering och<br>projekt för<br>underhåll/utbyggna<br>d av befintlig<br>infrastruktur är<br>beroende av<br>varandra (resurser<br>och<br>samplanering). (Ny<br>formulering)Bristan<br>de resurser och<br>samplanering för<br>samhällsutbyggnad<br>(ny infrastruktur vs<br>underhåll/utbyggna<br>d) (tidigare<br>formulering) | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnadsledning<br>(Samhällsbyggnadsproces<br>sen) där vi kommer att<br>arbeta med ”Obruten digital<br>samhällsbyggnadsprocess”<br>samt ”Utbyggnadsplan”. I<br>Samhällsbyggnadsledning<br>finns flera förvaltningar<br>representerade (Teknik,<br>Service, Bygg o Miljö,<br>Kultur o Fritid samt KSF<br>genom SBK och Ekonomi. |
+| Verksamh<br>et |  | Kommunövergripa<br>nde risk: Dämpad<br>befolkningstillväxt<br>med långsiktig<br>påverkan på<br>kommunala<br>verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>budgetprocessen och<br>lokalplanen. |
+|  |  | Risk att<br>kommunstyrelsen<br>inte utövar sin<br>uppsiktsplikt över<br>den kommunala<br>verksamheten på<br>ett ändamålsenligt<br>sätt | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) |  |
 
 <!-- sida 17 -->
 

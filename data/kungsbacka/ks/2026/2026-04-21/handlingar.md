@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.347aca1d19d8aefb0402806b/1776325537
 sha256: 205ec8a15a387ce5f5df236598aabc1fe43d7048b215d0f0c2f20c3167d013a5
 bytes: 276822424
 sidor: 683
-hamtad: 2026-11-09T08:51:00+00:00
-konverterad: 2026-11-09T09:00:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T23:05:35+00:00
+konverterad: 2026-11-18T23:15:17+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tom, tom, tom, tom, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tom, tom, tom, tom, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [19, 20, 21, 22, 25, 26, 27, 28, 29, 40, 41, 42, 43, 44, 45, 46, 47, 48, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 125, 126, 127, 128, 129, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 401, 441, 467, 468, 469, 470, 471, 472, 473, 474, 526, 618, 619, 635, 683]
 figurer: [94, 95, 96, 97, 98, 99, 100, 103, 107, 109, 110, 112, 113, 114, 115, 117, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 157, 161, 167, 173, 186, 216, 294, 296, 298, 300, 302, 303, 304, 306, 307, 308, 310, 311, 312, 314, 315, 316, 317, 318, 320, 321, 322, 324, 325, 326, 327, 328, 329, 330, 332, 333, 334, 335, 336, 338, 339, 340, 342, 344, 346, 347, 348, 350, 352, 353, 354, 356, 357, 358, 359, 360, 361, 362, 363, 364, 365, 366, 367, 368, 369, 370, 372, 373, 374, 376, 377, 378, 379, 380, 382, 384, 386, 388, 390, 392, 394, 396, 399, 400, 401, 402, 407, 410, 411, 415, 417, 420, 423, 424, 460, 475, 526, 527, 542, 546, 547, 550, 551, 555, 574, 594, 595]
 tolkade: []
@@ -13160,10 +13160,15 @@ kan påverkas av planeringen. Avgränsning MKB motiveras under Avsnitt 4 Miljöb
 
 | Intressets värde | Effekt, ingreppets/störningens omfattning |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
-|  | Stor negativ effekt | Måttlig negativ<br>effekt | Liten negativ<br>effekt | Neutral effekt | Positiv effekt |
-| Högt värde | Stor negativ<br>konsekvens | Stor negativ<br>konsekvens | Måttlig negativ<br>konsekvens | Neutral<br>konsekvens | Positiv<br>konsekvens |
-| Måttligt värde | Stor negativ<br>konsekvens | Måttlig negativ<br>konsekvens | Liten negativ<br>konsekvens | Neutral<br>konsekvens | Positiv<br>konsekvens |
-| Lågt värde | Måttlig negativ<br>konsekvens | Liten negativ<br>konsekvens | Liten negativ<br>konsekvens | Neutral<br>konsekvens | Positiv<br>konsekvens |
+|  | Stor negativ effekt | Måttlig negativ | Liten negativ | Neutral effekt | Positiv effekt |
+|  |  | effekt |  |  |  |
+|  |  |  | effekt |  |  |
+| Högt värde | Stor negativ | Stor negativ | Måttlig negativ | Neutral | Positiv |
+|  | konsekvens | konsekvens | konsekvens | konsekvens | konsekvens |
+| Måttligt värde | Stor negativ | Måttlig negativ | Liten negativ | Neutral | Positiv |
+|  | konsekvens | konsekvens | konsekvens | konsekvens | konsekvens |
+| Lågt värde | Måttlig negativ | Liten negativ | Liten negativ | Neutral | Positiv |
+|  | konsekvens | konsekvens | konsekvens | konsekvens | konsekvens |
 
 <!-- sida 306 -->
 
@@ -15819,13 +15824,6 @@ I förordningen om trafikbuller vid bostadsbyggnader (SFS 2015:216 med ändring 
 2017:359) definieras riktvärden för buller utomhus för spårtrafik, vägar och flygplatser vid
 bostadsbyggnader, se Tabell 3.
 Tabell 3 Riktvärden för trafikbuller som inte bör överskridas vid nybyggnation av bostäder.
-Ekvivalent ljudnivå, Maximal ljudnivå
-dBA
-Ljudnivå utomhus vid fasad 601       -
-(frifältsvärde)
-
-Ljudnivå utomhus vid uteplats i 50   702
-anslutning till bostad
 
 1\) För bostäder om högst 35 m2 är riktvärdet vid fasad 65 dBA.
 2\) Värdet får överskridas 5 gånger per timme mellan kl. 06 och 22, dock aldrig med mer än 10 dBA.
@@ -15842,14 +15840,16 @@ följande ljudnivåer underskridas, se Tabell 4.
 
 79
 
+[Tabell 372-1](handlingar.tabeller/372-1.csv)
+
+|  | Ekvivalent ljudnivå,<br>dBA | Maximal ljudnivå |
+| --- | --- | --- |
+| Ljudnivå utomhus vid fasad<br>(frifältsvärde) | 601 | - |
+| Ljudnivå utomhus vid uteplats i<br>anslutning till bostad | 50 | 702 |
+
 <!-- sida 373 -->
 
 Tabell 4 Riktvärden för buller från väg- och spårtrafik utomhus vid befintliga bostäder.
-Bostads fasad Bostads uteplats Bostads uteplats
-(Leq24h)     (Leq24h)       (Lmax)
-Vid väg    55 dBA       \~55 dBA2       70 dBA1
-
-Vid spår   60 dBA       55 dBA         70 dBA1
 
 1\) Tidsvägning Fast. Får överskridas max 5 gånger per genomsnittlig maxtimme dag och kväll (mellan kl. 06 och 22).
 2\) Propositionen har inte någon angivelse för ekvivalent nivå för buller från vägtrafik vid uteplats.
@@ -15878,6 +15878,13 @@ dBA. Nära lokala vägar är ljudnivån mellan 65–75 dBA fasad mot vägen får
 66 dBA.
 
 80
+
+[Tabell 373-1](handlingar.tabeller/373-1.csv)
+
+|  | Bostads fasad<br>(Leq24h) | Bostads uteplats<br>(Leq24h) | Bostads uteplats<br>(Lmax) |
+| --- | --- | --- | --- |
+| Vid väg 55 dBA \~55 dBA2 70 dBA1 |  |  |  |
+| Vid spår 60 dBA 55 dBA 70 dBA1 |  |  |  |
 
 <!-- sida 374 -->
 
@@ -21334,21 +21341,19 @@ ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
 
 <!-- sida 512 -->
 
-Förändring Förändring
-Nämndernas  gentemot  gentemot  Summa   Förslag
-förslag till nämndernas nämndernas ny budget förändring ny
-ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
-
-2 650
-
--4 000                     31 748    -4 000
--4 000       0         0   31 748    -4 000
-
-60 500
-60 500
-
--4 000    3 500        0  260 246    -4 000
 256 746 kontrollsumma 2025
+
+[Tabell 512-1](handlingar.tabeller/512-1.csv)
+
+| Nämndernas<br>förslag till<br>ombudget 2027 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2027 | Summa<br>ny budget<br>2026 | Förslag<br>förändring ny<br>budget 2027 |
+| --- | --- | --- | --- | --- |
+|  |  |  | 2 650 |  |
+|  |  |  |  |  |
+| -4 000 |  |  | 31 748 | -4 000 |
+| -4 000 | 0 | 0 | 31 748 | -4 000 |
+|  |  |  | 60 500 |  |
+|  |  |  | 60 500 |  |
+| -4 000 | 3 500 | 0 | 260 246 | -4 000 |
 
 <!-- sida 513 -->
 
@@ -21379,21 +21384,17 @@ Avgiftsfinansierad verksamhet
 
 Typ 6+8
 Belopp i Tkr
-Nämndernas Nämndernas
-förslag till förslag till
-Budget ombudget  ombudget
-2026    2026      2027
-Kungsbacka bredband
-TE-Br    8514 Kungsbacka Landsbygg                     501
 
 [Tabell 518-1](handlingar.tabeller/518-1.csv)
 
-| Enligt KF budgetram 2025 | 22 000 |  |  |
+|  | Budget<br>2026 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Nämndernas<br>förslag till<br>ombudget<br>2027 |
 | --- | --- | --- | --- |
+| Kungsbacka bredband |  | 501 |  |
+| TE-Br 8514 Kungsbacka Landsbygg<br>Enligt KF budgetram 2025 | 22 000 |  |  |
 | Summa bredband | 22 000 | 501 | 0 |
-| Avfall & Återvinning |  |  |  |
-| Enligt KF budgetram 2025 | 65 000 |  |  |
+| Avfall & Återvinning<br>Enligt KF budgetram 2025 | 65 000 |  |  |
 | Summa Avfall & Återvinning | 65 000 | 0 | 0 |
+|  |  |  |  |
 | SUMMA | 918 650 | 38 123 | 0 |
 
 <!-- sida 519 -->
@@ -25199,8 +25200,9 @@ KONSEKVENSER
 
 [Tabell 562-1](handlingar.tabeller/562-1.csv)
 
-| Kungsbacka<br>kommun | Strategi 1<br>Mycket stort<br>engagemang | Strategi 2<br>Litet<br>engagemang | Strategi 3<br>Stort<br>engagemang | Strategi 4<br>Stort<br>engagemang |
+|  | Strategi 1 | Strategi 2 | Strategi 3 | Strategi 4 |
 | --- | --- | --- | --- | --- |
+| Kungsbacka<br>kommun | Mycket stort<br>engagemang | Litet<br>engagemang | Stort<br>engagemang | Stort<br>engagemang |
 | Privat aktör | Litet<br>engagemang | Mycket stort<br>engagemang | Mycket litet<br>engagemang | Stort<br>engagemang |
 
 [Tabell 562-2](handlingar.tabeller/562-2.csv)

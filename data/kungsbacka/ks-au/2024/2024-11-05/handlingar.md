@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.ca22f6f192bd236cc2706c6/17302132479
 sha256: 2c08f90e8660bde2c921f21ab532930c3be3113dcc03a8377018c1e403493424
 bytes: 29519998
 sidor: 183
-hamtad: 2026-11-09T11:09:27+00:00
-konverterad: 2026-11-09T11:11:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:21:57+00:00
+konverterad: 2026-11-19T01:23:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr]
 tal_obekraftade: [7, 75, 149, 150, 151, 152, 153, 154, 155, 157, 158, 159, 160, 161, 162, 163, 175, 177, 179, 181, 183]
 figurer: [7, 29, 36, 42, 43, 44, 52, 66, 75, 119, 120]
 tolkade: []
@@ -775,32 +775,25 @@ planarbetet nått beslut om antagande, att minska denna förväntas leda till n�
 
 7.2 Resursmått
 
-Delområde     Nyckeltal     Utfall 2023 Utfall 2022 Utfall 2023 Budget 2024
-Ledtid detaljplan
-från projektstart till
-Samhällsbyggnad                31         27        31         35
-antagande, anges
-i månader
 7.3 Prestationsmått
 
-Delområde     Nyckeltal      Utfall 2022 Utfall 2023 Budget 2023 Budget 2024
-Antal
-Näringsliv    företagsärenden i 50        60        50         50
-tillståndslotsen
-Upprättade
-12         9         25         12
-detaljplaner
-Planlagda
-381       386        500        500
-Samhällsbyggnad bostäder
-Ledtid planbesked
-till projektstart, 24       31        12         12
-anges i månader
-Automatiserade
-Digital utveckling              3         7          5         5
-processer
-
 14
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2023 | Utfall 2022 | Utfall 2023 | Budget 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Samhällsbyggnad | Ledtid detaljplan<br>från projektstart till<br>antagande, anges<br>i månader | 31 | 27 | 31 | 35 |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 | Budget 2023 | Budget 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Näringsliv | Antal<br>företagsärenden i<br>tillståndslotsen | 50 | 60 | 50 | 50 |
+| Samhällsbyggnad | Upprättade<br>detaljplaner | 12 | 9 | 25 | 12 |
+|  | Planlagda<br>bostäder | 381 | 386 | 500 | 500 |
+|  | Ledtid planbesked<br>till projektstart,<br>anges i månader | 24 | 31 | 12 | 12 |
+| Digital utveckling | Automatiserade<br>processer | 3 | 7 | 5 | 5 |
 
 <!-- sida 21 -->
 
@@ -809,16 +802,17 @@ Nämndbudget 2025
 
 7.4 Effektmått
 
-Delområde     Nyckeltal                    Utfall 2022    Utfall 2023
-Antal nystartade företag per tusen
-12,5        \*
-invånare (etableringsfrekvens)
-Näringsliv
-Antal arbetsställen                11 808         11 948
-Sysselsatt dagbefolkning, 15–74 år 27 695         28 485
 \*Antal nystartade företag 2023 har inte publicerats ännu.
 
 15
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Delområde | Nyckeltal | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- |
+| Näringsliv | Antal nystartade företag per tusen<br>invånare (etableringsfrekvens) | 12,5 | \* |
+|  | Antal arbetsställen | 11 808 | 11 948 |
+|  | Sysselsatt dagbefolkning, 15–74 år | 27 695 | 28 485 |
 
 <!-- sida 22 -->
 
@@ -946,146 +940,118 @@ Nämndbudget 2025
 
 10.1.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                   Beslutande paragraf/År
-Attestreglemente                                      KF 2015-03-10 § 30
-
-Finansverksamhet                                      KF 2024-04-09 § 59
-Fördjupad översiktsplan för Tjolöholm                 KF 2021-11-09 § 140
-Fördjupad översiktsplan för Kungsbacka stad          KF § 2021-11-09 § 140
-
-Reglemente för Kommunstyrelsen                        KF 2022-06-15 § 109
-Anläggningsstöd till samlingslokaler, hembygdsgårdar och liknande
-KF 2015-10-15 § 142
-byggnader
-Barnkonventionen - policy                               KF 2014-11-11 §
-Donationsstiftelser                                   KF 1998-05-14 § 101
-Konkurrensprövning                                     KF 2011-02-01 § 8
-Utveckling av innerstaden - en del av Kungsbacka centrum 2011–
-KF 2011-05-04 § 112
-2020, strategiskt program
-Vision 2030                                           KF 2023-06-14 § 73
-Översiktsplan för vindkraft                           KF 2021-11-09 § 140
-
-Kommunikation                                         KF 2019-12-10 § 194
-Fördjupad översiktsplan för Åsa                       KF 2021-11-09 § 140
-Policy och riktlinjer för kommungemensam hantering av fordon och
-KF 2023-10-10 §157
-arbetsmaskiner
-Regler för arbete mot klotter och skadegörelse        KF 2013-04-16 § 58
-Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter KF 2024-05-07 § 82
-Översiktlig täktplan                                  KF 1999-09-09 § 157
-
-Reglemente Krisledningsnämnden                        KF 2024-02-06 § 11
-Upphandling, policy                                  KF § 2021-03-09 § 30
-Boendeparkering, regler och taxa                      KF 2024-02-06 § 12
-
-Lokaler och internhyra                                KF 2014-11-11 § 153
-Internationell policy                                KF § 2021-11-09 § 139
-
-Konkurrensprövning - tillämpningsanvisningar           KF 2011-02-01 § 8
-Integritetspolicy                                     KF 2021-11-09 § 142
-Lokala ordningsföreskrifter                            KF 2020-02-04 § 8
-
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-04-01
-Klimatstrategi                                        KF 2022-05-10 § 77
-
 18
+
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Finansverksamhet | KF 2024-04-09 § 59 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2021-11-09 § 140 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2021-11-09 § 140 |
+| Reglemente för Kommunstyrelsen | KF 2022-06-15 § 109 |
+| Anläggningsstöd till samlingslokaler, hembygdsgårdar och liknande<br>byggnader | KF 2015-10-15 § 142 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Donationsstiftelser | KF 1998-05-14 § 101 |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Utveckling av innerstaden - en del av Kungsbacka centrum 2011–<br>2020, strategiskt program | KF 2011-05-04 § 112 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Översiktsplan för vindkraft | KF 2021-11-09 § 140 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2021-11-09 § 140 |
+| Policy och riktlinjer för kommungemensam hantering av fordon och<br>arbetsmaskiner | KF 2023-10-10 §157 |
+| Regler för arbete mot klotter och skadegörelse | KF 2013-04-16 § 58 |
+| Torghandel i Kungsbacka kommun, lokala ordningsföreskrifter | KF 2024-05-07 § 82 |
+| Översiktlig täktplan | KF 1999-09-09 § 157 |
+| Reglemente Krisledningsnämnden | KF 2024-02-06 § 11 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Boendeparkering, regler och taxa | KF 2024-02-06 § 12 |
+| Lokaler och internhyra | KF 2014-11-11 § 153 |
+| Internationell policy | KF § 2021-11-09 § 139 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Lokala ordningsföreskrifter | KF 2020-02-04 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Kommundirektörens instruktion | KS 2018-01-23 § 14 |
+| Privata utförare | KF 2024-04-09 § 60 |
+| Förmåner till förtroendevalda | KF 2023-04-04 § 46 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Markanvisningar och exploateringsavtal | KF 2018-03-06 § 39 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2024-04-09 § 59 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström 2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Bostadsförsörjning 2019–2025 | KF 2020-05-05 § 46 |
+| Säkerhets- och beredskapspolicy | KF 2019-12-10 § 189 |
+| Krisberedskap och civilt försvar | KF 2024-02-06 § 10 |
+| Näringslivsstrategi | KF 2020-02-04 § 7 |
+| Likviditetsplanering, krav- och inkassoverksamhet och<br>kontanthantering, regler | KF 2010-09-07 § 160 |
+| Konkurrensprövning, tillämpningsanvisningar till policy | KF 2011-02-01 § 8 |
+| Dagvatten, policy och riktlinjer | KF 2012-04-10 § 88 |
+| Kemikalieplan | KF 2021-02-02 § 4 |
+| Kemikalieplan - På väg mot giftfri förskola | KF 2021-02-02 § 4 |
+| Uppföljning och insyn av verksamhet som utförs av privata utförare,<br>program | KF 2016-10-11 § 144 |
+| Turismstrategi 2017–2021 | KF 2017-08-15 § 120 |
+| Taxa för plan- och byggverksamhet 2024 | KF 2023-12-14 § 196 |
 
 <!-- sida 25 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                   Beslutande paragraf/År
-Invånardialog                                         KF 2014-10-14 § 119
-Kommundirektörens instruktion                         KS 2018-01-23 § 14
-
-Privata utförare                                      KF 2024-04-09 § 60
-Förmåner till förtroendevalda                         KF 2023-04-04 § 46
-
-Upphandling; Direktupphandling, riktlinjer            KF 2022-10-18 § 160
-Markanvisningar och exploateringsavtal                KF 2018-03-06 § 39
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2024-04-09 § 59
-
-Arbetsgivarpolicy                                     KF 2019-06-11 § 86
-Tjänsteresor, regler                        Ann-Charlotte Järnström 2019-08-20
-
-Arbetsmiljömål                                        KF 2020-10-06 § 119
-Bostadsförsörjning 2019–2025                          KF 2020-05-05 § 46
-Säkerhets- och beredskapspolicy                       KF 2019-12-10 § 189
-
-Krisberedskap och civilt försvar                      KF 2024-02-06 § 10
-Näringslivsstrategi                                    KF 2020-02-04 § 7
-
-Likviditetsplanering, krav- och inkassoverksamhet och
-KF 2010-09-07 § 160
-kontanthantering, regler
-Konkurrensprövning, tillämpningsanvisningar till policy KF 2011-02-01 § 8
-Dagvatten, policy och riktlinjer                      KF 2012-04-10 § 88
-Kemikalieplan                                          KF 2021-02-02 § 4
-Kemikalieplan - På väg mot giftfri förskola            KF 2021-02-02 § 4
-Uppföljning och insyn av verksamhet som utförs av privata utförare,
-KF 2016-10-11 § 144
-program
-Turismstrategi 2017–2021                              KF 2017-08-15 § 120
-Taxa för plan- och byggverksamhet 2024                KF 2023-12-14 § 196
-
 10.1.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                   Beslutande paragraf/År
-Dokumenthanteringsplan för kommunstyrelsens kärnverksamhet KS 2021-12-14 § 317
-
-Digital strategi                                      KS 2017-03-14 § 61
-Styrande dokument, riktlinjer                         KS 2023-10-10 § 156
-
-Integration, riktlinjer                               KS 2019-11-26 § 275
-Strategi för tätortsnära friluftsliv                  KS 2017-09-26 § 209
-Informationshanteringsplan för
-KS 2023-01-10 § 15
-kommungemensamma ledningsprocesser
-Personuppgifter - riktlinjer                          KS 2024-03-05 § 33
-Delegering av beslutanderätt Kommunstyrelsen       KS 2024-06-18 § 165–166
-
 19
+
+[Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Dokumenthanteringsplan för kommunstyrelsens kärnverksamhet | KS 2021-12-14 § 317 |
+| Digital strategi | KS 2017-03-14 § 61 |
+| Styrande dokument, riktlinjer | KS 2023-10-10 § 156 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Strategi för tätortsnära friluftsliv | KS 2017-09-26 § 209 |
+| Informationshanteringsplan för<br>kommungemensamma ledningsprocesser | KS 2023-01-10 § 15 |
+| Personuppgifter - riktlinjer | KS 2024-03-05 § 33 |
+| Delegering av beslutanderätt Kommunstyrelsen | KS 2024-06-18 § 165–166 |
+| Informationssäkerhet, riktlinjer | KS 2024-05-07 § 80 |
+| Parkeringsstrategi | KS 2017-09-26 § 210 |
+| Arbetmiljöuppgifter, riktlinjer för ansvar och uppgiftsfördelning | KS 2020-02-18 § 32 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Informationsförvaltning | KS 2023-01-10 § 16 |
+| Delegering av beslutanderätt från förvaltningschefen | FC 2024-09-03 |
+| Dokumenthanteringsplan för kommungemensamma stödprocesser | KS 2023-05-30 § 108 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-12-01 |
+| Arkivbeskrivning KS | KS 2021-12-14 § 315 |
+| Klassificeringsstruktur för KS kärnverksamhet | KS 2021-12-14 § 316 |
+| Markägande | KS 2020-06-23 § 148 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-11-09 |
 
 <!-- sida 26 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Nämndbudget 2025
 
-Styrdokument                                   Beslutande paragraf/År
-Informationssäkerhet, riktlinjer                      KS 2024-05-07 § 80
-Parkeringsstrategi                                    KS 2017-09-26 § 210
-
-Arbetmiljöuppgifter, riktlinjer för ansvar och uppgiftsfördelning KS 2020-02-18 § 32
-Flaggning                                             KS 2023-02-21 § 32
-
-Informationsförvaltning                               KS 2023-01-10 § 16
-Delegering av beslutanderätt från förvaltningschefen     FC 2024-09-03
-Dokumenthanteringsplan för kommungemensamma stödprocesser KS 2023-05-30 § 108
-
-Varumärkesarkitektur och särprofilering         Kommundirektören 2021-12-01
-Arkivbeskrivning KS                                   KS 2021-12-14 § 315
-
-Klassificeringsstruktur för KS kärnverksamhet         KS 2021-12-14 § 316
-Markägande                                            KS 2020-06-23 § 148
-Visselblåsarfunktionen, regler                  Kommundirektören 2022-11-09
-
 10.2 Taxa
 
 10.2.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-
-Allmän handling, taxa för kopior                       KF 2021-04-13 § 65
-Vigsel, taxa för administrativ service                 KF 2021-04-13 § 66
-Plan-och byggverksamhet, taxa 2020                     KF 2020-09-08 § 97
-
-Plan- och byggverksamhet, taxa 2011                   KF 2011-12-06 § 246
-Taxa för plan- och byggverksamhet 2023                KF 2022-12-06 § 236
-Taxa för plan- och byggverksamhet 2024                KF 2023-12-14 § 196
-
 20
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Vigsel, taxa för administrativ service | KF 2021-04-13 § 66 |
+| Plan-och byggverksamhet, taxa 2020 | KF 2020-09-08 § 97 |
+| Plan- och byggverksamhet, taxa 2011 | KF 2011-12-06 § 246 |
+| Taxa för plan- och byggverksamhet 2023 | KF 2022-12-06 § 236 |
+| Taxa för plan- och byggverksamhet 2024 | KF 2023-12-14 § 196 |
 
 <!-- sida 27 -->
 
@@ -2532,7 +2498,8 @@ Taxa för Naturum Fjärås Bräcka och Äskhults By Sida 2 av 4
 | Guidning naturum 31–60<br>personer | 3 000 kr | 3 000 kr | 6 % moms | 45–60 min. |
 | Introduktionsguidning | 0 kr |  |  | Ca 15 minuter |
 | Självguidning skolgrupper | 0 kr |  |  |  |
-| Guidning skolgrupper som<br>inte ingår i ”Kulturträdet” | 640 kr | 640 kr | 6 % moms | 45–60 min. |
+| Guidning skolgrupper som | 640 kr | 640 kr | 6 % moms | 45–60 min. |
+| inte ingår i ”Kulturträdet” |  |  |  |  |
 | Konferenspaket heldag. Hyra<br>heldag, 8 timmar kl 9(8) -17 | Hyra 2 000 kr<br>+ 425 kr/person | 480<br>kr/person<br>inkl. hyra | 25 % moms | Företag,<br>privatpersoner och<br>föreningar. Frukost,<br>lunch, fika ingår. |
 
 <!-- sida 63 -->

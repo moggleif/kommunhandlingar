@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.44c56de518fa42b4f1d12ec9/1717407862
 sha256: e91dc06b074455510cf9108a16189da4abb53e84bfabab3aa9f94496e2403941
 bytes: 14423329
 sidor: 199
-hamtad: 2026-11-09T10:36:45+00:00
-konverterad: 2026-11-09T10:37:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:51:44+00:00
+konverterad: 2026-11-19T00:52:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok]
@@ -4003,20 +4003,16 @@ om budget avseende verksamhetsåret 2025 beslutas av Regionfullmäktige i juni. 
 budgetram, tillsammans med omhändertagande av kommunernas synpunkter, fastställs därefter
 Kollektivtrafikplanen av Driftnämnd Kollektivtrafik.
 
-Objekt           Beskrivning
-1   Tågtrafik        Västtåg Kungsbacka – Göteborg (Kungsbackapendeln),
-fler avgångar vardagar
-2   Stadsbusstrafik  Utökade öppettider och förstärkt utbud i
-kollektivtrafikstråk
+[Tabell 100-1](handlingar.tabeller/100-1.csv)
 
-3   Regionbusstrafik Utökade öppettider och förstärkt utbud i
-kollektivtrafikstråk
-4   Närtrafik        Utvecklad Närtrafik 2.0
-5   Stadsbusstrafik  Ny stadsbusslinje Tröingedal och Dals ängar
-Falkenberg
-
-6   Regionbusstrafik Översyn av regionbusstrafiken i nordost och sydost
-Varberg
+|  | Objekt | Beskrivning |
+| --- | --- | --- |
+| 1 Tågtrafik Västtåg Kungsbacka – Göteborg (Kungsbackapendeln),<br>fler avgångar vardagar |  |  |
+| 2 Stadsbusstrafik Utökade öppettider och förstärkt utbud i<br>kollektivtrafikstråk |  |  |
+| 3 Regionbusstrafik Utökade öppettider och förstärkt utbud i<br>kollektivtrafikstråk |  |  |
+| 4 Närtrafik Utvecklad Närtrafik 2.0 |  |  |
+| 5 Stadsbusstrafik Ny stadsbusslinje Tröingedal och Dals ängar<br>Falkenberg |  |  |
+| 6 Regionbusstrafik Översyn av regionbusstrafiken i nordost och sydost<br>Varberg |  |  |
 
 <!-- sida 101 -->
 
@@ -6228,7 +6224,7 @@ personnumren mot offentliga register. Syftet har varit att komma till rätta med
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
 
-| Sökande (inför anställning) Medarbetare (redan anställda) |  |  |
+|  | Sökande (inför anställning) | Medarbetare (redan anställda) |
 | --- | --- | --- |
 | Registerutdrag, avseende beslut om<br>domar i vissa brott | Ja, kontroll ska eller får ske inom<br>vissa definierade kommunala<br>verksamheter | Nej, kontroll av redan anställda har<br>inte lagstöd, förutom för<br>säkerhetsklassade tjänster, se<br>nedan. |
 | Misstankeregister | Ja, ska ske i vissa verksamheter | Nej, har ej lagstöd |

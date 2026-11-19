@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2d7be631193ded8edc5abcd3/1735903471
 sha256: 95623350e62fc42cee6ce200b10c9c1e890b6f14d4e5bb8a4aa891e174f747c3
 bytes: 310158060
 sidor: 261
-hamtad: 2026-11-09T11:29:48+00:00
-konverterad: 2026-11-09T11:40:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:42:16+00:00
+konverterad: 2026-11-19T01:53:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: [38, 40, 43, 44, 47, 48, 50, 51, 65, 66, 67, 68, 69, 70, 71, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235]
 figurer: [43, 44, 104, 127, 128, 130, 132, 181, 213, 236, 240, 248, 249, 252, 253, 259]
 tolkade: []
@@ -11363,25 +11363,6 @@ Förslag till beslut i kommunstyrelsen
 
 Kommunstyrelsen fastställer lönestrukturen för 2025 enligt nedan:
 
-BAS     2025 10 p     2025 90 p
-
-```osaker-tabell
-A      24 500        29 800
-
-B      25 500        33 000
-C      27 700        36 200
-D      29 800        39 400
-
-E      31 900        43 600
-F      36 200        49 500
-
-G      39 400        53 700
-H      43 100        58 500
-
-I      47 900        63 800
-J      52 100        69 700
-```
-
 Kommunstyrelsen godkänner rapport avseende lönekartläggning 2024 och uppmanar förvaltningarna
 att i löneöversyn 2025 beakta lönesättningen för kvinnodominerande befattningar i BAS-intervall D, F,
 H och J.
@@ -11403,6 +11384,21 @@ Ulrica Furby
 Förhandlingschef                                         Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
+
+[Tabell 237-1](handlingar.tabeller/237-1.csv)
+
+| BAS | 2025 10 p | 2025 90 p |
+| --- | --- | --- |
+| A | 24 500 | 29 800 |
+| B | 25 500 | 33 000 |
+| C | 27 700 | 36 200 |
+| D | 29 800 | 39 400 |
+| E | 31 900 | 43 600 |
+| F | 36 200 | 49 500 |
+| G | 39 400 | 53 700 |
+| H | 43 100 | 58 500 |
+| I | 47 900 | 63 800 |
+| J | 52 100 | 69 700 |
 
 <!-- sida 238 -->
 
@@ -11643,6 +11639,15 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    3
 Nedan uppgifter avser en jämförelse av medianlönen mellan samtliga kommuner i Sverige och
 Kungsbacka kommun.
 
+2021             2022             2023                2024
+Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka Riket\* Kungsbacka
+
+```osaker-tabell
+32 132  30 350   32 770   31 000   34 100   32 215   35 600
+33 000  31 000   33 550   31 500   35 000   32 600   36 400
+868     650      780      500      900      385      800
+```
+
 \*Riket =Alla kommuner i Sverige
 
 Löneläget inom respektive förvaltning skiljer sig åt. Kommunstyrelsens förvaltning följt av
@@ -11664,15 +11669,6 @@ befattningar och mellan män och kvinnor som har likvärdiga befattningar. Ett k
 behöver ske på olika nivåer för att lönenivåerna ska vara könsneutrala.
 
 Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024    4
-
-[Tabell 245-1](handlingar.tabeller/245-1.csv)
-
-| 2021 |  | 2022 |  | 2023 |  | 2024 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka | Riket\* | Kungsbacka |
-| 32 132 | 30 350 | 32 770 | 31 000 | 34 100 | 32 215 | 35 600 |
-| 33 000 | 31 000 | 33 550 | 31 500 | 35 000 | 32 600 | 36 400 |
-| 868 | 650 | 780 | 500 | 900 | 385 | 800 |
 
 <!-- sida 246 -->
 
@@ -12165,7 +12161,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   13
 
 [Tabell 254-255-2](handlingar.tabeller/254-255-2.csv)
 
-| BAS Befattning Antal anställningar En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |  |  |  |
+| BAS | Befattning | Antal anställningar | En befattnings medianlön i jämförelse<br>med BAS-intervallets medianlön,<br>procentuell skillnad. |
 | --- | --- | --- | --- |
 | D | Äldrekonsulent | 9 | 87% |
 | G | Metodutvecklare | 18 | 88% |
@@ -12208,7 +12204,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   14
 
 [Tabell 255-256-1](handlingar.tabeller/255-256-1.csv)
 
-| Befattning Antal Medianlön Medianlön Lönespännvidd<br>anställningar kvinnor män |  |  |  |  |
+| Befattning | Antal<br>anställningar | Medianlön<br>kvinnor | Medianlön<br>män | Lönespännvidd |
 | --- | --- | --- | --- | --- |
 | Undersköterska | 831 | 31 200 | 30 099 | 23% |
 | Lärare Förskola | 463 | 38 400 | 38 000 | 18% |
@@ -12270,7 +12266,7 @@ Kungsbacka kommun   Lönekartläggning och Handlingsplan, 2024   16
 
 [Tabell 257-1](handlingar.tabeller/257-1.csv)
 
-| B Befattning Antal Medianlö Andel B Befattning Antal Medianlön Andel Differe<br>A anst n kvinna kvinnor A anst man män ns<br>S ällda S ällda median<br>lön |  |  |  |  |  |  |  |  |  |  |
+| B<br>A<br>S | Befattning | Antal<br>anst<br>ällda | Medianlö<br>n kvinna | Andel<br>kvinnor | B<br>A<br>S | Befattning | Antal<br>anst<br>ällda | Medianlön<br>man | Andel<br>män | Differe<br>ns<br>median<br>lön |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | C | Barnskötare | 281 | 29 703 | 99 % | B | IT-tekniker | 7 | 32 405 | 86 % | 92 |
 | C | Dagbarnvårdare | 7 | 29 300 | 100 % | B | IT-tekniker | 7 | 32 405 | 86 % | 90 |

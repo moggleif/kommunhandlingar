@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.4114947f194a0301afeac560/1738331125
 sha256: 1666c165a8f4fe1bccf530ffc3f5f261c6288e759f29b002ec5d83d14963a901
 bytes: 8611488
 sidor: 353
-hamtad: 2026-11-09T11:42:25+00:00
-konverterad: 2026-11-09T11:43:34+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:56:01+00:00
+konverterad: 2026-11-19T01:56:52+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tom, tom, tom, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tom, tom, tom, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 172, 294, 313]
 figurer: [6, 51, 95, 96, 268, 269, 273, 274, 275, 276, 277, 281, 282, 288, 289, 294, 297, 300, 308, 310, 311, 312, 313, 314, 315]
 tolkade: []
@@ -888,37 +888,12 @@ i sig kommer nyföretagandet i Kungsbacka att öka jämfört med 2023.
 
 5.2 Resursmått
 
-Namn                             Utfall  Utfall Utfall Utfall Utfall
-2020   2021  2022    2023   2024
-Digital mognadsgrad                54 %  51,9 %  53,4 %   57 %     \*
-
-Ledtid detaljplan från projektstart till antagande,
-23     25      27     31      28
-anges i månader
 \* Vi valde att sluta med dessa mätningar 2024 då resultatet inte gett värde för verksamheterna.
+
 5.3 Prestationsmått
 
-Ledtid planbesked till projektstart, anges i
-5,35     24      24      31      32
-månader
 5.4 Effektmått
 
-Namn                                Utfall Utfall Utfall Utfall Utfall
-2020   2021  2022   2023   2024
-Kommunen arbetar aktivt för att förbättra integration
-22 % 26,6 %
-och delaktighet av människor i samhället
-Kommunens information om vad du kan göra för att
-54,5 % 44,6 %
-minska din miljö- och klimatpåverkan
-Kommunikation vid större förändringar i kommunen,
-48,7   48,3
-exempelvis stadsplanering, byggnationer
-Antal nystartade företag per tusen invånare
-13,1   13,8   12,8   10,3   \*
-(etableringsfrekvens)
-Antal arbetsställen                 11 384 11 603 11 808 11 948   \*
-Sysselsatt dagbefolkning, 15–74 år  27 384 28 167 28 494 28 586   \*
 De tre översta måtten är ifrån SCB:s medborgarundersökning. Vi har inte deltagit i undersökningen sedan 2022, måttet utgår ur
 uppföljningen 2025.
 \* Ännu ej publicerad
@@ -927,12 +902,31 @@ uppföljningen 2025.
 
 [Tabell 22-1](handlingar.tabeller/22-1.csv)
 
-| Namn | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 |
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Digital mognadsgrad | 54 % | 51,9 % | 53,4 % | 57 % | \* |
+| Ledtid detaljplan från projektstart till antagande,<br>anges i månader | 23 | 25 | 27 | 31 | 28 |
+
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
+
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
 | --- | --- | --- | --- | --- | --- |
 | Upprättade detaljplaner | 10 | 11 | 12 | 9 | 10 |
 | Antal företagsärenden i tillståndslotsen | 32 | 46 | 50 | 60 | 46 |
 | Planlagda bostäder | 336 | 662 | 381 | 386 | 248 |
 | Automatiserade processer | 10 | 11 | 3 | 7 | 7 |
+| Ledtid planbesked till projektstart, anges i<br>månader | 5,35 | 24 | 24 | 31 | 32 |
+
+[Tabell 22-3](handlingar.tabeller/22-3.csv)
+
+| Namn | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Kommunen arbetar aktivt för att förbättra integration<br>och delaktighet av människor i samhället |  | 22 % | 26,6 % |  |  |
+| Kommunens information om vad du kan göra för att<br>minska din miljö- och klimatpåverkan |  | 54,5 % | 44,6 % |  |  |
+| Kommunikation vid större förändringar i kommunen,<br>exempelvis stadsplanering, byggnationer |  | 48,7 | 48,3 |  |  |
+| Antal nystartade företag per tusen invånare<br>(etableringsfrekvens) | 13,1 | 13,8 | 12,8 | 10,3 | \* |
+| Antal arbetsställen | 11 384 | 11 603 | 11 808 | 11 948 | \* |
+| Sysselsatt dagbefolkning, 15–74 år | 27 384 | 28 167 | 28 494 | 28 586 | \* |
 
 <!-- sida 23 -->
 
@@ -1082,32 +1076,27 @@ sjukfrånvaron fortfarande låg, inte bara inom förvaltningen utan också i jä
 
 6.4 Resursmått
 
-Namn             Bokslut 2020 Bokslut 2021 Bokslut 2022 Bokslut 2023 Bokslut 2024
-
-```osaker-tabell
-Andel heltid       100 %      100 %        100 %      100 %     100 %
-
-Anställda andel kvinnor 73,8 % 74 %        75,8 %     72 %      73,8 %
-Anställda totalt    126        127           124       125        126
-
-Medelålder          44         45            45         46         47
-```
-
 6.5 Effektmått
 
-Bokslut  Bokslut  Bokslut Bokslut  Bokslut
-Namn
-
-```osaker-tabell
-                            2020     2021     2022    2023     2024
-Personalomsättning          12,9 %   7,4 %     11,7 %   8,3 %    4,8 %
-Sjukfrånvaro Kvinnor        2,8 %    2,6 %       3 %    3,3 %    2,3 %
-Sjukfrånvaro Män            2,8 %    0,4 %     1,1 %    0,8 %     1 %
-
-Sjukfrånvaro Totalt         2,8 %    2 %       2,5 %    2,6 %    1,9 %
-```
-
 20
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+| Namn | Bokslut 2020 | Bokslut 2021 | Bokslut 2022 | Bokslut 2023 | Bokslut 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % | 100 % | 100 % |
+| Anställda andel kvinnor | 73,8 % | 74 % | 75,8 % | 72 % | 73,8 % |
+| Anställda totalt | 126 | 127 | 124 | 125 | 126 |
+| Medelålder | 44 | 45 | 45 | 46 | 47 |
+
+[Tabell 25-2](handlingar.tabeller/25-2.csv)
+
+| Namn | Bokslut<br>2020 | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 12,9 % | 7,4 % | 11,7 % | 8,3 % | 4,8 % |
+| Sjukfrånvaro Kvinnor | 2,8 % | 2,6 % | 3 % | 3,3 % | 2,3 % |
+| Sjukfrånvaro Män | 2,8 % | 0,4 % | 1,1 % | 0,8 % | 1 % |
+| Sjukfrånvaro Totalt | 2,8 % | 2 % | 2,5 % | 2,6 % | 1,9 % |
 
 <!-- sida 26 -->
 
@@ -15771,6 +15760,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 323 -->
 
@@ -16280,6 +16270,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 341 -->
 
@@ -16306,6 +16297,7 @@ Tabell 3
 | Hyra halva 50m-bassängen. | 809 kr/timme + ordinarie entréavgift. |
 | Hyra hel undervisningsbassäng. | 1 385 kr/timme + ordinarie entréavgift. |
 | Övrig kommersiell hyra för bassänger. | Sätts av driftsoperatören. |
+|  |  |
 
 <!-- sida 342 -->
 

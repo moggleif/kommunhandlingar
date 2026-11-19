@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.46db326b19c4795e00836ce2/1770883677
 sha256: 908aed7d20da237037cb00f579366c56a604c8555ebb339442bdeec319c2b347
 bytes: 60252880
 sidor: 936
-hamtad: 2026-11-09T08:44:05+00:00
-konverterad: 2026-11-09T08:47:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T22:58:22+00:00
+konverterad: 2026-11-18T23:01:27+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [12, 66, 97, 98, 99, 100, 101, 102, 151, 152, 362, 369, 376, 821, 841]
-figurer: [48, 49, 52, 53, 55, 59, 79, 96, 108, 110, 117, 121, 124, 126, 128, 129, 130, 131, 132, 133, 136, 138, 140, 141, 142, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 156, 158, 173, 179, 185, 187, 199, 200, 201, 202, 203, 204, 205, 206, 207, 211, 230, 345, 351, 352, 356, 362, 365, 366, 367, 368, 369, 370, 371, 372, 376, 379, 380, 381, 382, 383, 384, 422, 448, 449, 452, 453, 462, 463, 464, 507, 605, 614, 616, 618, 620, 621, 622, 624, 626, 627, 636, 637, 638, 639, 640, 641, 642, 644, 646, 648, 649, 651, 654, 656, 657, 658, 660, 661, 662, 665, 666, 667, 668, 669, 670, 671, 672, 673, 675, 677, 679, 682, 683, 687, 688, 689, 690, 691, 697, 698, 699, 701, 703, 705, 706, 708, 710, 712, 714, 716, 718, 719, 722, 723, 734, 746, 759, 765, 767, 769, 774, 775, 777, 780, 781, 782, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 801, 807, 812, 815, 816, 817, 818, 821, 822, 823, 824, 825, 827, 832, 835, 836, 837, 838, 841, 842, 843, 844, 845, 847, 848, 853, 856, 857, 858, 861, 862, 863, 865, 867, 872, 873, 874, 877, 878, 879, 880, 881, 882, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 919, 920, 921, 923, 924]
+figurer: [48, 49, 52, 53, 55, 59, 79, 96, 108, 110, 117, 121, 124, 126, 128, 129, 130, 131, 132, 133, 136, 138, 140, 141, 142, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 156, 158, 173, 179, 185, 187, 199, 200, 201, 202, 203, 204, 205, 206, 207, 211, 230, 345, 351, 352, 356, 362, 365, 366, 367, 368, 369, 370, 371, 372, 376, 379, 380, 381, 382, 383, 384, 422, 448, 449, 452, 453, 462, 463, 464, 507, 605, 614, 616, 618, 620, 621, 622, 624, 626, 627, 636, 637, 638, 639, 640, 641, 642, 644, 646, 648, 649, 651, 654, 656, 657, 658, 660, 661, 662, 665, 666, 667, 668, 669, 670, 671, 672, 673, 675, 677, 679, 682, 683, 687, 688, 689, 690, 691, 697, 698, 699, 701, 703, 705, 706, 708, 710, 712, 714, 716, 718, 719, 722, 723, 734, 746, 759, 765, 767, 769, 774, 775, 777, 780, 781, 782, 784, 785, 786, 787, 788, 789, 792, 793, 794, 795, 796, 797, 798, 799, 801, 807, 812, 815, 816, 817, 818, 821, 822, 823, 824, 825, 827, 832, 835, 836, 837, 838, 841, 842, 843, 844, 845, 847, 848, 853, 856, 857, 858, 861, 862, 863, 865, 867, 872, 873, 874, 877, 879, 880, 881, 882, 885, 886, 887, 888, 889, 890, 891, 892, 893, 894, 895, 896, 897, 898, 899, 900, 901, 902, 903, 904, 905, 906, 907, 908, 909, 910, 911, 912, 913, 914, 915, 916, 917, 920, 921, 923, 924]
 tolkade: []
 granskad: null
 ---
@@ -1071,13 +1071,13 @@ exempel där de kan skapa nytta.
 
 5.2 Resursmått
 
-Namn                      Utfall  Utfall  Utfall Utfall  Utfall
-2021    2022    2023   2024    2025
-Ledtid detaljplan från projektstart till
-25      27      31     28      56
-antagande, anges i månader
-
 18
+
+[Tabell 29-1](handlingar.tabeller/29-1.csv)
+
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Ledtid detaljplan från projektstart till<br>antagande, anges i månader | 25 | 27 | 31 | 28 | 56 |
 
 <!-- sida 30 -->
 
@@ -1086,30 +1086,29 @@ Kommunstyrelsen                                  Kungsbacka kommun
 
 5.3 Prestationsmått
 
-Ledtid planbesked till projektstart, anges
-24      24     31      32      14
-i månader
 5.4 Effektmått
 
-Namn                           Utfall  Utfall Utfall Utfall Utfall
-2021    2022    2023   2024   2025
-Antal nystartade företag per 1000 invånare
-13,8   12,8    10,3   12,3   \*
-16–64 år (etableringsfrekvens)
-Antal arbetsställen           11 603  11 808  11 948 11 987  \*
-Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 \*
 \* Ännu ej publicerad
 
 19
 
 [Tabell 30-1](handlingar.tabeller/30-1.csv)
 
-| Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
 | --- | --- | --- | --- | --- | --- |
 | Upprättade detaljplaner | 11 | 12 | 9 | 10 | 11 |
 | Antal företagsärenden i företagslotsen | 46 | 50 | 60 | 46 | 38 |
 | Planlagda bostäder | 662 | 381 | 386 | 248 | 940 |
 | Automatiserade processer | 11 | 3 | 7 | 7 | 8 |
+| Ledtid planbesked till projektstart, anges<br>i månader | 24 | 24 | 31 | 32 | 14 |
+
+[Tabell 30-2](handlingar.tabeller/30-2.csv)
+
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Antal nystartade företag per 1000 invånare<br>16–64 år (etableringsfrekvens) | 13,8 | 12,8 | 10,3 | 12,3 | \* |
+| Antal arbetsställen | 11 603 | 11 808 | 11 948 | 11 987 | \* |
+| Sysselsatt dagbefolkning, 15–74 år | 28 167 | 28 494 | 28 586 | 28 426 | \* |
 
 <!-- sida 31 -->
 
@@ -1252,34 +1251,27 @@ under året varit längre.
 
 6.4 Resursmått
 
-Bokslut  Bokslut Bokslut Bokslut  Bokslut
-
-```osaker-tabell
-                       2021     2022    2023    2024     2025
-
-Andel heltid          100 %    100 %   100 %    100 %    99,2 %
-
-Anställda andel kvinnor 74 %   75,8 %   72 %    73,8 %   75 %
-
-Anställda totalt       127      124     125      126      128
-Medelålder             45       45       46      47       47
-```
-
 6.5 Effektmått
 
-Bokslut   Bokslut Bokslut  Bokslut  Bokslut
-
-```osaker-tabell
-                    2021      2022    2023     2024     2025
-Personalomsättning  7,4 %    11,7 %   8,3 %    4,8 %    8 %
-
-Sjukfrånvaro kvinnor 2,6 %    3 %     3,3 %    2,3 %    4 %
-Sjukfrånvaro män    0,4 %    1,1 %    0,8 %     1 %     0 %
-
-Sjukfrånvaro totalt  2 %     2,5 %    2,6 %    1,9 %    3 %
-```
-
 22
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+|  | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % | 100 % | 99,2 % |
+| Anställda andel kvinnor | 74 % | 75,8 % | 72 % | 73,8 % | 75 % |
+| Anställda totalt | 127 | 124 | 125 | 126 | 128 |
+| Medelålder | 45 | 45 | 46 | 47 | 47 |
+
+[Tabell 33-2](handlingar.tabeller/33-2.csv)
+
+|  | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 7,4 % | 11,7 % | 8,3 % | 4,8 % | 8 % |
+| Sjukfrånvaro kvinnor | 2,6 % | 3 % | 3,3 % | 2,3 % | 4 % |
+| Sjukfrånvaro män | 0,4 % | 1,1 % | 0,8 % | 1 % | 0 % |
+| Sjukfrånvaro totalt | 2 % | 2,5 % | 2,6 % | 1,9 % | 3 % |
 
 <!-- sida 34 -->
 
@@ -2018,11 +2010,8 @@ påverkas av gruppstorlek och enskilda löner, eftersom antalet män i dessa bef
 Sammantaget visar analysen inga tecken på systematiskt osakliga löneskillnader mellan kvinnor
 och män med lika arbete. Vissa yrken uppvisar dock återkommande skillnader som bör analyseras
 vidare för att säkerställa att de är sakligt motiverade.
-Befattning            Antal kvinnor Antal män Kvinnors medianlön i förhållande
-till männens medianlön
 
 ```osaker-tabell
-Systemförvaltare      10         6       88%
 Utvecklare            13         3       91%
 Utvecklare IT         6          3       92%
 
@@ -2056,6 +2045,12 @@ Bild: Befattningar med minst två män respektive två kvinnor i befattningen oc
 månadsanställda är mer än 5 % mellan kvinnor och män. Källa BI, 251103.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 11
+
+[Tabell 51-1](handlingar.tabeller/51-1.csv)
+
+| Befattning | Antal kvinnor | Antal män | Kvinnors medianlön i förhållande<br>till männens medianlön |
+| --- | --- | --- | --- |
+| Systemförvaltare | 10 | 6 | 88% |
 
 <!-- sida 52 -->
 
@@ -2346,7 +2341,7 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 14
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
 
-| BAS Antal kvinnor Kvinnors Antal män Männens<br>medianlön medianlön |  |  |  |  |
+| BAS | Antal kvinnor | Kvinnors<br>medianlön | Antal män | Männens<br>medianlön |
 | --- | --- | --- | --- | --- |
 | A | 180 | 27 000 | 88 | 26 500 |
 | B | 517 | 29 000 | 140 | 28 600 |
@@ -2494,15 +2489,8 @@ stora och bärande verksamheter i kommunen.
 Skillnaderna i den hierarkiska lönejämförelsen indikerar en möjlig strukturell undervärdering av
 flera kvinnodominerade yrken.
 
-Antal   Medianlön               Antal   Medianlön Differens
-BAS Befattning    medarbetare kvinna BAS Befattning medarbetare man medianlön
-
-```osaker-tabell
-C   Barnskötare   273     30 400  B  IT-tekniker  6       33 555 91
 C   Dagbarnvårdare 6      29 700  B  IT-tekniker  6       33 555 89
 C   Elevassistent 149     31 190  B  IT-tekniker  6       33 555 93
-```
-
 C   Personlig assistent 89 30 900 B  IT-tekniker  6       33 555 92
 C   Stödassistent 321     32 000  B  IT-tekniker  6       33 555 95
 D   Äldrekonsulent 9      31 315  B  IT-tekniker  6       33 555 93
@@ -2537,6 +2525,12 @@ F   Arbetsterapeut 29     40 000  E  Arbetsledare 5       44 100 91
 F   Arkivarie     5       39 000  E  Arbetsledare 5       44 100 88
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 17
+
+[Tabell 57-1](handlingar.tabeller/57-1.csv)
+
+| BAS | Befattning | Antal<br>medarbetare | Medianlön<br>kvinna | BAS | Befattning | Antal<br>medarbetare | Medianlön<br>man | Differens<br>medianlön |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C | Barnskötare | 273 | 30 400 | B | IT-tekniker | 6 | 33 555 | 91 |
 
 <!-- sida 58 -->
 
@@ -2599,9 +2593,8 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 18
 
 medianlön i tre. År 2025 kvarstår vissa skillnader, men de är flera BAS-intervaller som ligger nära
 nollpunkten, vilket tyder på en mer jämställd lönebild än tidigare år.
-2020     2021     2022     2023      2024     2025
 
-A  1 225 kr 1 301 kr 800 kr   800 kr    550 kr   500 kr
+A
 B  -1 200 kr -545 kr -250 kr  600 kr    297 kr   400 kr
 C  -425 kr  500 kr   626 kr   200 kr    201 kr   11 kr
 
@@ -2650,6 +2643,12 @@ personalrörlighet, snarare än direkta osakliga skillnader.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 19
 
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr | 500 kr |
+
 <!-- sida 60 -->
 
 9.2 Målsättning
@@ -2674,7 +2673,7 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 20
 
 [Tabell 60-61-1](handlingar.tabeller/60-61-1.csv)
 
-| Nr Åtgärd Tidpunkt Ansvar Kommentar/Uppföljning |  |  |  |  |
+| Nr | Åtgärd | Tidpunkt | Ansvar | Kommentar/Uppföljning |
 | --- | --- | --- | --- | --- |
 | 1 | Genomföra regelbundna<br>löneanalyser med fokus på<br>att identifiera och åtgärda<br>osakliga löneskillnader. | Inför<br>löneöversyn | HR-funktion<br>och<br>förvaltningar | Resultatet redovisas i<br>nästa års<br>lönekartläggning. |
 | 2 | Om osakliga löneskillnader<br>identifieras ska riktade<br>löneinsatser ske. | I samband med<br>löneöversyn | HR-funktion<br>och chefer | Åtgärder dokumenteras i<br>uppföljningsrapport. |
@@ -38263,10 +38262,21 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 760-1](handlingar.tabeller/760-1.csv)
 
-| 2 | 2021-01-22 | Huvudrapport, slutversion.<br>Revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Huvudrapport, slutversion. | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Huvudrapport | Sara Rydbeck, Steve Cook,<br>Magnus Jewert, Susanne<br>Backman, Carolin Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING<br>/UTKAST | Sara Rydbeck, Steve Cook,<br>Magnus Jewert, Susanne<br>Backman, Carolin Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Björn Tengelin |  |
+|  |  | Revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Huvudrapport | Sara Rydbeck, Steve Cook, | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Magnus Jewert, Susanne |  |  |
+|  |  |  | Backman, Carolin Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve Cook, | Björn Tengelin |  |
+|  |  | /UTKAST | Magnus Jewert, Susanne |  |  |
+|  |  |  | Backman, Carolin Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 761 -->
@@ -39025,8 +39035,9 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 778-1](handlingar.tabeller/778-1.csv)
 
-| Karakteristiskt flöde (m3/s) | Lindomeån nedströms<br>Intagsbäcken | Kungsbackaån vid<br>mynningen i fjorden |
+| Karakteristiskt flöde (m3/s) | Lindomeån nedströms | Kungsbackaån vid |
 | --- | --- | --- |
+|  | Intagsbäcken | mynningen i fjorden |
 | Lägsta lågflöde | - | 0,3 |
 | Medelvattenflöde | - | 5 |
 | 50-års flöde | - | 46 |
@@ -39036,8 +39047,9 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 778-2](handlingar.tabeller/778-2.csv)
 
-| Typ av vattenstånd | Karakteristiska vattenstånd (m) vid<br>Onsala och i Kungsbacka |
+| Typ av vattenstånd | Karakteristiska vattenstånd (m) vid |
 | --- | --- |
+|  | Onsala och i Kungsbacka |
 |  | Onsala |
 | Medelvattenstånd (MW)1 | +0,09 |
 | Medelhögvattenstånd (MHW) 1 | +1,12 |
@@ -40345,10 +40357,23 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skydd
 
 [Tabell 813-1](handlingar.tabeller/813-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 1 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 1 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-04 | Bilaga 1 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-04 | Bilaga 1 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 814 -->
@@ -41080,10 +41105,23 @@ inlagsleden.docx                                     2021-01-25| 2(21)
 
 [Tabell 833-1](handlingar.tabeller/833-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 1 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 1 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Bilaga 1 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Bilaga 1 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 834 -->
@@ -41899,10 +41937,23 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 3 skydd
 
 [Tabell 854-1](handlingar.tabeller/854-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 3 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 3 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Bilaga 3 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Bilaga 3 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 855 -->
@@ -42890,16 +42941,20 @@ Uppdragsnr:106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
 
-1      2020-12-04 BILAGA 5           Steve Cook Daniel Svärd Daniel Svärd
-
-0      2020-09-14 GRANSKNINGSHANDLING/UTKAST   Björn Tengelin
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Yttre skyddsbarriär i Kungsbackafjorden
 
 Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 2(38)
+
+[Tabell 878-1](handlingar.tabeller/878-1.csv)
+
+| 1 | 2020-12-04 | BILAGA 5 | Steve Cook | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING/UTKAST |  | Björn Tengelin |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 879 -->
 
@@ -43492,11 +43547,6 @@ Uppdragsnr: 106 22 65 Version: Slutlig
 
 PM Utredning Hydrologi/hydraulik
 
-Slutlig 2020-09-11                   Magnus Jewert Daniel Svärd Daniel Svärd
-
-Utkast 2020-06-02 PM Hydrologi/hydraulik Magnus Jewert
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Kungsbacka kommun
@@ -43517,6 +43567,15 @@ typiskt vid nivån +1,4-+1,5.
 Figur 1. Typiska markhöjder längs med Kungsbackaån vid Kolla ligger mellan +1,0-+1,5.
 
 n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 7 pm högvattenskydd vid kolla och effekt av yttre skydd.docx 2020-12-04
+
+[Tabell 916-1](handlingar.tabeller/916-1.csv)
+
+| Slutlig | 2020-09-11 |  | Magnus Jewert | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Utkast | 2020-06-02 | PM Hydrologi/hydraulik | Magnus Jewert |  |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 917 -->
 
@@ -43602,10 +43661,6 @@ Uppdragsnr: 106 22 65 Version: Slutlig
 PM: Förväntade havsnivåer och konsekvenser för ett
 översvämningsskydd
 
-Slutlig 2020-09-11                   Magnus Jewert Daniel Svärd Daniel Svärd
-Utkast 2020-06-07 PM om förväntade havsnivåer Magnus Jewert
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Kungsbacka kommun
@@ -43634,6 +43689,15 @@ beräknade landhöjningen.
 
 n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 8 pm analys av framtida havsnivåer, skydd och pumpnivåer.docx
 2020-12-04 | 1(7)
+
+[Tabell 919-1](handlingar.tabeller/919-1.csv)
+
+| Slutlig | 2020-09-11 |  | Magnus Jewert | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Utkast | 2020-06-07 | PM om förväntade havsnivåer | Magnus Jewert |  |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 920 -->
 

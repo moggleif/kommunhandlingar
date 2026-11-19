@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.10708ba619b353ddef6dfcb6/1768461381
 sha256: 43c0fb956e97f81f83acec1caa817ef041cc5762bb23cf0063871ea0a490ac7f
 bytes: 55022787
 sidor: 370
-hamtad: 2026-11-09T08:41:27+00:00
-konverterad: 2026-11-09T08:44:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-18T22:56:04+00:00
+konverterad: 2026-11-18T22:58:22+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -3569,8 +3569,15 @@ mm.
 | Organisationsnummer | 559522-6811 |
 | Kommun och län | Kungsbacka kommun, Halland |
 | Fastighetsbeteckning | Kungsbacka Össlöv och Kungsbacka Össlöv 2:3 |
-| Kontaktperson<br>Telefon<br>Epost | Michael Palm<br>Tel: 070 – 209 0074<br>E-post: (e-post borttagen) |
-| Miljöfarlig verksamhet<br>enligt 9 kap. miljöbalken<br>och verksamhetskoder<br>enligt miljöprövnings-<br>förordningen<br>(SFS 2013:251) | 90.406-i B: Återvinna eller återvinna och bortskaffa mer<br>än 25 000 ton icke-farligt avfall/år, genom anaerob<br>biologisk nedbrytning.<br>40.15 B: Produktion av mer än 1 500 megawattimmar<br>gas eller vätskeformigt bränsle per kalenderår.<br>40.60 C: Biobränslepanna på maximalt 20 MW<br>installerad tillförd effekt. |
+| Kontaktperson | Michael Palm<br>Tel: 070 – 209 0074<br>E-post: (e-post borttagen) |
+| Telefon |  |
+| Epost |  |
+| Miljöfarlig verksamhet | 90.406-i B: Återvinna eller återvinna och bortskaffa mer<br>än 25 000 ton icke-farligt avfall/år, genom anaerob<br>biologisk nedbrytning.<br>40.15 B: Produktion av mer än 1 500 megawattimmar<br>gas eller vätskeformigt bränsle per kalenderår.<br>40.60 C: Biobränslepanna på maximalt 20 MW<br>installerad tillförd effekt. |
+| enligt 9 kap. miljöbalken |  |
+| och verksamhetskoder |  |
+| enligt miljöprövnings- |  |
+| förordningen |  |
+| (SFS 2013:251) |  |
 
 <!-- sida 98 -->
 

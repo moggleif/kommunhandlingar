@@ -1,23 +1,34 @@
-Kategorier,"Till
-Risker Sannolikhet Konsekvens
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
 plan"
-Ekonomi,"1 Debiteringsrutiner inom exploaterings- 2. Mindre 3. Kännbar (uppfattas som Ja
-verksamheten vanligt besvärande för berörda
-intressenter och kommunen)"
+Ekonomi,,"1 Debiteringsrutiner inom exploaterings-
+verksamheten","2. Mindre
+vanligt","3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och kommunen)",Ja
 "Gemensamma
 områden;
 Informations-
 säkerhet,
 administration,
-inköp m fl.","2 Kommunövergripande risk: Bristande 3. Vanligt 3. Kännbar (uppfattas som Ja
-följsamhet till inköpsprocessen; besvärande för berörda
-direktupphandling respektive intressenter och kommunen)
-avtalsuppföljning"
-,"3 Kommunövergripande risk - Risk för 2. Mindre 4. Allvarlig/stor inverkan (så Ja
-korruption och välfärdsbrottslighet vanligt stor att den inte får inträffa)"
-,"4 Kommunövergripande risk: 2. Mindre 3. Kännbar (uppfattas som Ja
-Förvaltningarnas arbete med att följa och vanligt besvärande för berörda
-utveckla det systematiska beredskapsarbetet intressenter och kommunen)"
-,"5 Kommunövergripande risk: Risk för 2. Mindre 3. Kännbar (uppfattas som Ja
-bristande efterlevnad till NIS2-direktivet och vanligt besvärande för berörda
-gällande rutiner och regelverk intressenter och kommunen)"
+inköp m fl.",,"2 Kommunövergripande risk: Bristande
+följsamhet till inköpsprocessen;
+direktupphandling respektive
+avtalsuppföljning",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och kommunen)",Ja
+,,"3 Kommunövergripande risk - Risk för
+korruption och välfärdsbrottslighet","2. Mindre
+vanligt","4. Allvarlig/stor inverkan (så
+stor att den inte får inträffa)",Ja
+,,"4 Kommunövergripande risk:
+Förvaltningarnas arbete med att följa och
+utveckla det systematiska beredskapsarbetet","2. Mindre
+vanligt","3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och kommunen)",Ja
+,,"5 Kommunövergripande risk: Risk för
+bristande efterlevnad till NIS2-direktivet och
+gällande rutiner och regelverk","2. Mindre
+vanligt","3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och kommunen)",Ja

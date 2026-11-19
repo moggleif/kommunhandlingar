@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.756eabe81995849a92018907/1758178023
 sha256: 6c25ee27eab0ed0076289a931c30aeb7aebdddb9e64ad4d00c5973a2b9b9c9fc
 bytes: 132451004
 sidor: 672
-hamtad: 2026-11-08T23:07:56+00:00
-konverterad: 2026-11-08T23:18:14+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-18T22:15:18+00:00
+konverterad: 2026-11-18T22:23:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [18, 19, 20, 21, 22, 23, 24, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 62, 109, 151, 152, 348, 349, 358, 404, 613, 614, 627, 639, 655, 656, 672]
 figurer: [18, 19, 21, 22, 23, 24, 25, 32, 40, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 60, 62, 84, 85, 87, 88, 89, 90, 131, 132, 133, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 164, 166, 170, 171, 178, 180, 184, 185, 199, 202, 203, 204, 205, 207, 209, 210, 211, 212, 213, 214, 215, 217, 218, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 233, 242, 253, 279, 280, 282, 283, 284, 285, 286, 288, 289, 290, 291, 292, 293, 294, 295, 298, 299, 300, 302, 303, 305, 306, 350, 351, 354, 355, 358, 359, 360, 361, 366, 367, 368, 369, 371, 373, 374, 376, 377, 378, 382, 383, 403, 404, 439, 442, 448, 453, 461, 464, 529, 530, 533, 534, 535, 536, 537, 538, 539, 540, 548, 551, 552, 556, 578, 590, 593, 655, 656]
 tolkade: []
@@ -1870,18 +1870,18 @@ FILNAMN: Autodesk Docs://Kungsbacka Arena/A-40-V-000-3466-R24.rvt
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-|  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  | HALL A<br>01 |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| HA |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  | LL A<br>01 |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 <!-- sida 50 -->
 
@@ -5434,44 +5434,31 @@ den minskade långtidssjukfrånvaron."
 
 4.3 Resursmått
 
-Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-2021        2022       2023        2024        2025
-Andel heltid   100 %      100 %       100 %       100 %      99,2 %
-Anställda andel
-73,8 %      74,2 %      72,6 %     73,2 %      72,8 %
-kvinnor
-Anställda totalt 126       124         124        123         125
-Medelålder      45         45          46          47         48
-
 4.4 Effektmått
 
-Utfall jan- Utfall jan-jun Utfall jan-jun Utfall jan-jun Utfall jan-jun
-Namn
-
-```osaker-tabell
-                jun 2021    2022       2023       2024        2025
-Personalomsättning 1,6 %   5,8 %       4,2 %      4 %        5,6 %
-Sjukfrånvaro Kvinnor 2,3 % 3,1 %       3,6 %      2,2 %       3 %
-Sjukfrånvaro Män 0,3 %      1 %        0,9 %      0,5 %      0,3 %
-
-Sjukfrånvaro Totalt 1,8 %  2,6 %       2,9 %      1,7 %      2,2 %
-```
-
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 32,3 %  31,5 %     27,8 %     19,5 %      17,6 %
-dagar eller mer
-Sjukfrånvaro,
-anställda i åldrarna 1,4 % 0,7 %       0 %        0,4 %       0 %
-29 år eller yngre
-Sjukfrånvaro,
-anställda i åldrarna 1,3 % 2,8 %       3,8 %      2,2 %      1,4 %
-30-49 år
-Sjukfrånvaro,
-anställda i åldrarna 2,8 % 2,4 %       1,6 %      1,1 %      3,5 %
-50 år eller äldre
-
 14
+
+[Tabell 122-1](handlingar.tabeller/122-1.csv)
+
+| Namn | Utfall jan-jun<br>2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 | Utfall jan-jun<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % | 100 % | 99,2 % |
+| Anställda andel<br>kvinnor | 73,8 % | 74,2 % | 72,6 % | 73,2 % | 72,8 % |
+| Anställda totalt | 126 | 124 | 124 | 123 | 125 |
+| Medelålder | 45 | 45 | 46 | 47 | 48 |
+
+[Tabell 122-2](handlingar.tabeller/122-2.csv)
+
+| Namn | Utfall jan-<br>jun 2021 | Utfall jan-jun<br>2022 | Utfall jan-jun<br>2023 | Utfall jan-jun<br>2024 | Utfall jan-jun<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 1,6 % | 5,8 % | 4,2 % | 4 % | 5,6 % |
+| Sjukfrånvaro Kvinnor | 2,3 % | 3,1 % | 3,6 % | 2,2 % | 3 % |
+| Sjukfrånvaro Män | 0,3 % | 1 % | 0,9 % | 0,5 % | 0,3 % |
+| Sjukfrånvaro Totalt | 1,8 % | 2,6 % | 2,9 % | 1,7 % | 2,2 % |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 32,3 % | 31,5 % | 27,8 % | 19,5 % | 17,6 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>29 år eller yngre | 1,4 % | 0,7 % | 0 % | 0,4 % | 0 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>30-49 år | 1,3 % | 2,8 % | 3,8 % | 2,2 % | 1,4 % |
+| Sjukfrånvaro,<br>anställda i åldrarna<br>50 år eller äldre | 2,8 % | 2,4 % | 1,6 % | 1,1 % | 3,5 % |
 
 <!-- sida 123 -->
 

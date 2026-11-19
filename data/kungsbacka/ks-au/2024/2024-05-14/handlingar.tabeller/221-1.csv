@@ -1,9 +1,6 @@
-"Klimatbalans
-(ton CO per år)
-2e","Utbyggnadskoncept
-CAS","Utbyggnadskoncept
-MBR","Utbyggnadskoncept
-AGS"
+Klimatbalans,Utbyggnadskoncept,Utbyggnadskoncept,Utbyggnadskoncept
+"(ton CO per år)
+2e",CAS,MBR,AGS
 Emissioner:,,,
 "Direkta emissioner från företagsägda
 bilar, reservkraft och värme",13,13,13

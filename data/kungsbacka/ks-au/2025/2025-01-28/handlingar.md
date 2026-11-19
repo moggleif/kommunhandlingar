@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.29af6da91949d95a61c3b994/1737972747
 sha256: 51e5f9618d9ea7a9fba376bbbf18b35620d29a6933f2264d1f78692818de12a2
 bytes: 10878226
 sidor: 135
-hamtad: 2026-11-09T11:41:48+00:00
-konverterad: 2026-11-09T11:42:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:55:29+00:00
+konverterad: 2026-11-19T01:56:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 48, 51]
 figurer: [7, 20, 23, 28, 31, 33, 34, 36, 37, 38, 39, 42, 47, 51, 52, 54, 55, 59, 60, 62, 63, 65, 66, 67, 68, 75, 76, 77, 85, 90, 91, 92, 93, 95, 108, 109]
 tolkade: []
@@ -1824,19 +1824,16 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2021   2022   2023   Målsättning 2025
-Antal påbörjade bostäder            216   848     165         Öka
-Antal färdigställda bostäder       430    363     319         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel-      Öka
 hetssyn (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
@@ -1846,6 +1843,16 @@ Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
 
 Kommunbudget 2025 och plan 2026–2027 19
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| 216 | 848 | 165 |
+| --- | --- | --- |
+| 430 | 363 | 319 |
+| 5 321 | 5 691 | 6 475 |
+| \* | 90 % | 91 % |
+| \* | 74 % | 76 % |
+| \* | 88 % | \* |
 
 <!-- sida 35 -->
 
@@ -1908,17 +1915,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2021   2022   2023    Målsättning 2025
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 70 67 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet.
-Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen       Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
 \*Ännu ej publicerad.
@@ -1929,6 +1936,15 @@ samma människor.
 Foto: Catharina Fyrberg
 
 Kommunbudget 2025 och plan 2026–2027 21
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| 66 | 70 | 67 |
+| --- | --- | --- |
+| 3,5 | 3,4 | 3,4 |
+| 27 384 | 27 695 | \* |
+| 5,1 % | 4,9 % | \* |
+| 18 % | 18 % | \* |
 
 <!-- sida 37 -->
 
@@ -1941,18 +1957,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2021   2022   2023 Målsättning 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet 239 237 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet Öka
 utgörs av summan av de 17 bästa betygen i elevens slutbetyg och kan
 max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- 14,2 14,5 14,3 Öka
+Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- Öka
 äng som kan vara max 20. (Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen 2,6 % 1,7 % 1,7 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen                 Minska
 (Källa: Arbetsförmedlingen och SCB)
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)         Minska
 Andel vuxna personer som inte återkommer till försörjningsstöd inom 67 % 69 % 73 % Öka
 ett år efter avslutat försörjningsstöd (Kolada)
 
 22 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+| 239 | 237 | 237 |
+| --- | --- | --- |
+| 14,2 | 14,5 | 14,3 |
+| 2,6 % | 1,7 % | 1,7 % |
+| 414 | 376 | 325 |
 
 <!-- sida 38 -->
 

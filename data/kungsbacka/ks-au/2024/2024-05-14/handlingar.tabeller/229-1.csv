@@ -1,7 +1,5 @@
-"Typ av kostnad
-(tkr)","Utbyggnadskoncept
-Ozon + GAK-filter","Utbyggnadskoncept
-Ozon + Fluidiserad bädd"
+Typ av kostnad,Utbyggnadskoncept,Utbyggnadskoncept
+(tkr),Ozon + GAK-filter,Ozon + Fluidiserad bädd
 Energi,800,1 000
 Kemikalier,2 400,3 700
 Analyser mikroföroreningar,400,400

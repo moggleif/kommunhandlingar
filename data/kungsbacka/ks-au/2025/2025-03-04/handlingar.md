@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.28a00bed19546152e2d6fd5c/1740995193
 sha256: 48293216eba311a326748da19d81261534d6b43d1a7db904ce000b949b78b0ad
 bytes: 20923691
 sidor: 172
-hamtad: 2026-11-09T11:44:16+00:00
-konverterad: 2026-11-09T11:45:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T01:57:34+00:00
+konverterad: 2026-11-19T01:58:23+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [112, 113, 114, 115, 116, 117, 118, 119, 120]
-figurer: [12, 13, 16, 17, 22, 25, 27, 30, 31, 32, 34, 35, 39, 41, 42, 45, 47, 49, 51, 58, 59, 62, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 78, 83, 85, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 130, 134, 142, 148, 157, 158]
+figurer: [12, 13, 16, 17, 22, 25, 27, 30, 31, 32, 34, 35, 39, 41, 42, 45, 47, 49, 51, 58, 59, 62, 66, 67, 68, 69, 70, 71, 72, 73, 74, 78, 83, 85, 112, 113, 114, 115, 116, 117, 118, 119, 120, 122, 130, 142, 157, 158]
 tolkade: []
 granskad: null
 ---
@@ -2214,6 +2214,11 @@ EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 Fokusområden                                              Trend
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. -
 
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. →
+
 Måluppfyllelse
 Inom fokusområdena välkomnande trygga miljöer,
 mötesplatser och god omsorg ser vi många goda exempel
@@ -2286,13 +2291,6 @@ assistans är minskningen 24 procent.
 
 32 Kungsbacka kommuns årsredovisning 2024
 
-[Tabell 38-1](handlingar.tabeller/38-1.csv)
-
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | → |
-
 <!-- sida 39 -->
 
 Analys
@@ -2362,6 +2360,11 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       —
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar →
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    ←
+
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      —
 
 Måluppfyllelse
 Kommunen gör insatser inom ett stort antal olika
@@ -2402,8 +2405,6 @@ lär sig att känna igen och ta bort den invasiva arten
 jättebalsamin och föreningarna får ekonomisk ersättning
 för sin insats. Projektet har blivit uppmärksammat i
 massmedia och hos andra kommuner.
-
-34 Kungsbacka kommuns årsredovisning 2024
 
 Energiförbrukning, cirkularitet och
 klimatpåverkan
@@ -2447,12 +2448,7 @@ laddpunkter för kommunala fordon vid våra verksam­
 hetslokaler, vilket är en utökning med cirka 16 procent
 mot föregående år men målet låg högre.
 
-[Tabell 40-1](handlingar.tabeller/40-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | ← |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | — |
+34 Kungsbacka kommuns årsredovisning 2024
 
 <!-- sida 41 -->
 
@@ -2863,6 +2859,12 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. →
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och —
+ledare.
 
 Måluppfyllelse
 Målet är ännu inte uppnått. Samtidigt lär vi oss mycket
@@ -2907,8 +2909,6 @@ ostörd sömn för invånare med behov av nattlig tillsyn. Vi
 utvecklar en utbildningsplattform med VR­teknik för att
 komplettera traditionell skolundervisning.
 
-42 Kungsbacka kommuns årsredovisning 2024
-
 Attraktiv arbetsgivare
 De kommungemensamma satsningarna Utvecklande
 ledarskap och Utvecklande medarbetarskap har fortsatt
@@ -2952,12 +2952,7 @@ såsom Utvecklande ledarskap för kommunens chefer,
 utvecklingsprogrammet Leda utan att vara chef och
 Utvecklande medarbetarskap.
 
-[Tabell 48-1](handlingar.tabeller/48-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. | → |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | — |
+42 Kungsbacka kommuns årsredovisning 2024
 
 <!-- sida 49 -->
 
@@ -4770,22 +4765,40 @@ kostnader för räkenskaps-
 revision (tusentals kronor)
 Kostnader för räkenskaps-
 revision
-Sakkunnigt biträde 426,0 474,0  -    -
-Förtroendevalda revisorer 97,0 111,9 - -
+Sakkunnigt biträde                   -
+Förtroendevalda revisorer            -
 Auktoriserade revisorer
-(bolagsrevision)  523,0 585,9   -    -
+(bolagsrevision)                     -
 Total kostnad för
 räkenskapsrevision
 Kostnad för övrig revision
-Sakkunnigt biträde 1 608,0 1 548,0 - -
-Förtroendevalda revisorer 871,0 1 007,7 - -
-Lekmannarevision   48,0   -     -    -
+Sakkunnigt biträde                   -
+Förtroendevalda revisorer            -
+Lekmannarevision                     -
 Total kostnad för övrig
-revision          2 527,0 2 555,7 -  -
+revision                             -
 
 Total kostnad för revision 3 050,0 3 141,6 - -
 
 Kungsbacka kommuns årsredovisning 2024 69
+
+[Tabell 75-1](handlingar.tabeller/75-1.csv)
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+| 426,0 | 474,0 | - |
+| 97,0 | 111,9 | - |
+| 523,0 | 585,9 | - |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| 1 608,0 | 1 548,0 | - |
+| 871,0 | 1 007,7 | - |
+| 48,0 | - | - |
+| 2 527,0 | 2 555,7 | - |
+|  |  |  |
 
 <!-- sida 76 -->
 
@@ -5514,8 +5527,9 @@ Balansräkning
 
 [Tabell 91-92-2](handlingar.tabeller/91-92-2.csv)
 
-| Miljoner kronor<br>TILLGÅNGAR | No<br>t | År 2023 | År 2024 |
+| Miljoner kronor | No<br>t | År 2023 | År 2024 |
 | --- | --- | --- | --- |
+| TILLGÅNGAR |  |  |  |
 | Materiella anläggningstillgångar |  |  |  |
 | Mark, byggnader och tekniska<br>anläggningar | 2 | 1621,9 | 1793,9 |
 | Maskiner och inventarier | 2 | 6,2 | 5,8 |
@@ -5565,8 +5579,9 @@ Not 2
 
 [Tabell 92-93-2](handlingar.tabeller/92-93-2.csv)
 
-| Materiella anläggningstillgångar<br>(mkr)<br>VA-anläggningar | Bokslut 2023 | Bokslut 2024 |
+| Materiella anläggningstillgångar<br>(mkr) | Bokslut 2023 | Bokslut 2024 |
 | --- | --- | --- |
+| VA-anläggningar |  |  |
 | Ingående bokfört värde | 1270,3 | 1621,9 |
 | Nyanskaffning | 396,7 | 259,7 |
 | Årets avskrivning | -45,1 | -87,7 |
@@ -7044,11 +7059,12 @@ Figur 1 Matris som placerar in risker utifrån sannolikhet och konsekvens samt t
 
 [Tabell 130-1](handlingar.tabeller/130-1.csv)
 
-| Kategorier<br>Personal | Matrisnr Risker Till plan<br>1 Kommunövergripande risk: Brister vid Ja<br>referenstagning |
-| --- | --- |
-| Ekonomi | 2 Debiteringsrutiner Ja |
-| Verksamhet | 3 Kommunövergripande risk - Risk för korruption Ja |
-|  | 4 Kommunövergripande risk: Förvaltningarnas Ja<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Brister vid<br>referenstagning | Ja |
+| Ekonomi |  | 2 | Debiteringsrutiner | Ja |
+| Verksamhet |  | 3 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 4 | Kommunövergripande risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet | Ja |
 
 <!-- sida 131 -->
 
@@ -7063,12 +7079,13 @@ Figur 2 Tabell som beskriver risker som ej tagits till planen för granskning
 
 [Tabell 131-1](handlingar.tabeller/131-1.csv)
 
-| Kategorier<br>Personal | Risker Anledning till att risk ej tas till plan<br>Kommunövergripande risk: Resurs- Risken är under uppsegling och bevakas i<br>och kompetensbrist samverkan med SKR och i ordinarie<br>avtalsrörelse. |
-| --- | --- |
-|  | Kommunövergripande risk: Risken tas omhand som en del av ordinarie<br>Övertidsersättning betalas ut på fel uppföljnings- och förbättringsarbete.<br>grund |
-| Ekonomi | Kommunövergripande risk: Risken tas omhand genom riktad information<br>Grundläggande redovisning och utbildnings.<br>kvalitetsbrister |
-| Informations<br>säkerhet,<br>administratio<br>n, inköp... | Kommunövergripande risk: Inköp Risken tas omhand genom riktad information<br>(granskning begränsas till belopp och utbildning.<br>över 100.000:-) |
-|  | Kommunövergripande risk: Risken tas omhand som en del av ordinarie<br>informationssäkerhet; skydd av uppföljnings och förbättringsarbete<br>information mot obehörig tillgång |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Resurs-<br>och kompetensbrist | Risken är under uppsegling och bevakas i<br>samverkan med SKR och i ordinarie<br>avtalsrörelse. |
+|  |  | Kommunövergripande risk:<br>Övertidsersättning betalas ut på fel<br>grund | Risken tas omhand som en del av ordinarie<br>uppföljnings- och förbättringsarbete. |
+| Ekonomi |  | Kommunövergripande risk:<br>Grundläggande redovisning<br>kvalitetsbrister | Risken tas omhand genom riktad information<br>och utbildnings. |
+| Informations<br>säkerhet,<br>administratio<br>n, inköp... |  | Kommunövergripande risk: Inköp<br>(granskning begränsas till belopp<br>över 100.000:-) | Risken tas omhand genom riktad information<br>och utbildning. |
+|  |  | Kommunövergripande risk:<br>informationssäkerhet; skydd av<br>information mot obehörig tillgång | Risken tas omhand som en del av ordinarie<br>uppföljnings och förbättringsarbete |
 
 <!-- sida 132 -->
 
@@ -7151,28 +7168,17 @@ kommunen eller regionen.
 
 [Tabell 133-1](handlingar.tabeller/133-1.csv)
 
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk: Brister vid<br>referenstagning | Kännedom och följsamhet till<br>Kommunstyrelsen rutiner för rekrytering och<br>referenstagning | Information/utbildning<br>referenstagning |
-| Kommunövergripande risk<br>- Risk för korruption | Granskning av om<br>förebyggande arbete och<br>relevanta kontroller mot<br>Kommunstyrelsen<br>korruption och<br>välfärdsbrottslighet fungerar<br>rimligt väl | Korruptionsrisker -<br>Lägesbeskrivning/granskning |
-| Debiteringsrutiner | Granskning debiteringsrutiner<br>Kommunstyrelsen<br>(SBK) | Fortsatt utveckling och<br>uppföljning av<br>debiteringsrutiner (SBK) 2025 |
-| Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen<br>i egen verksamhet | Uppföljning av<br>Kommunstyrelsen förvaltningarnas systematiska<br>beredskapsarbete | Övning KÖKO 2025 |
+| Risker | Enhet | Granskningsaktiviteter | Åtgärder |
+| --- | --- | --- | --- |
+| Kommunövergripande<br>risk: Brister vid<br>referenstagning | Kommunstyrelsen | Kännedom och följsamhet till<br>rutiner för rekrytering och<br>referenstagning | Information/utbildning<br>referenstagning |
+| Kommunövergripande risk<br>- Risk för korruption | Kommunstyrelsen | Granskning av om<br>förebyggande arbete och<br>relevanta kontroller mot<br>korruption och<br>välfärdsbrottslighet fungerar<br>rimligt väl | Korruptionsrisker -<br>Lägesbeskrivning/granskning |
+| Debiteringsrutiner | Kommunstyrelsen | Granskning debiteringsrutiner<br>(SBK) | Fortsatt utveckling och<br>uppföljning av<br>debiteringsrutiner (SBK) 2025 |
+| Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorganisationen<br>i egen verksamhet | Kommunstyrelsen | Uppföljning av<br>förvaltningarnas systematiska<br>beredskapsarbete | Övning KÖKO 2025 |
 
 <!-- sida 134 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Uppföljningsrapport intern kontroll 2024
-
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym % verksamhet mnkr
-Bokslut Bokslut Bokslut Bokslut
-
-```osaker-tabell
-                                       2023   2024    2023    2024
-Busstrafik                               100     100    7 171  6 193
-Markförvaltning                                  100            135
-```
 
 Figur 4 Tabell som beskriver vilka privata utförare Kommunstyrelsen har
 
@@ -7190,6 +7196,14 @@ Däribland Göteborgsregionens kommunalförbund, Räddningstjänsten Storgötebo
 vattenvårdsförbund (Lygnern och Kungsbackaån) med flera.
 
 10
+
+[Tabell 134-1](handlingar.tabeller/134-1.csv)
+
+| Verksamhet | Andel av<br>verksamhetsvolym % |  | Kostnad för<br>verksamhet mnkr |  |
+| --- | --- | --- | --- | --- |
+|  | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2023 | Bokslut<br>2024 |
+| Busstrafik | 100 | 100 | 7 171 | 6 193 |
+| Markförvaltning |  | 100 |  | 135 |
 
 <!-- sida 135 -->
 
@@ -7307,27 +7321,28 @@ Nämndens självskattning
 
 [Tabell 138-139-1](handlingar.tabeller/138-139-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Område<br>Kontrollaktiviteter | Frågor Svar, Antal 2024<br>Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2024 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 139 -->
 
@@ -7576,38 +7591,33 @@ obefintlig) - exempelvis 1 gång per 10 år kommunen)
 
 8
 
-[Tabell 147-1](handlingar.tabeller/147-1.csv)
+[Tabell 147-148-1](handlingar.tabeller/147-148-1.csv)
 
-| Kategorier<br>Personal | Sanno- Till<br>Risker Konsekvens<br>likhet plan<br>1 Kommunövergripande risk: 3. Vanligt 3. Kännbar (uppfattas som Ja<br>Brister vid referenstagning besvärande för berörda<br>intressenter och kommunen) |
-| --- | --- |
-| Ekonomi | 2 Debiteringsrutiner 2. Mindre 3. Kännbar (uppfattas som Ja<br>vanligt besvärande för berörda<br>intressenter och kommunen) |
-| Verksam-<br>het | 3 Kommunövergripande risk - 2. Mindre 4. Allvarlig/stor inverkan (så stor Ja<br>Risk för korruption vanligt att den inte får inträffa) |
+| Kategorier |  | Risker | Sanno-<br>likhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande risk:<br>Brister vid referenstagning | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Ekonomi |  | 2 Debiteringsrutiner | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Verksam-<br>het |  | 3 Kommunövergripande risk -<br>Risk för korruption | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan (så stor<br>att den inte får inträffa) | Ja |
+|  |  | 4 Kommunövergripande risk:<br>Förvaltningarnas arbete med<br>att utveckla krislednings-<br>organisationen i egen<br>verksamhet | 3.Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
 
 <!-- sida 148 -->
 
 Kommunstyrelsen                                  Kungsbacka kommun
 Intern kontrollplan 2024
 
-Sanno-                       Till
-Kategorier  Risker                        Konsekvens
-likhet                       plan
-4 Kommunövergripande risk: 3.Vanligt 3. Kännbar (uppfattas som Ja
-Förvaltningarnas arbete med   besvärande för berörda
-att utveckla krislednings-    intressenter och kommunen)
-organisationen i egen
-verksamhet
 5.2 Risker - Ej till plan
 
 9
 
 [Tabell 148-1](handlingar.tabeller/148-1.csv)
 
-| Kategorier<br>Personal | Sanno- Anledning till att<br>Risker Konsekvens<br>likhet risk ej tas till plan<br>Kommunövergripande risk: Risken är under<br>3.Kännbar<br>Resurs- och kompetensbrist uppsegling och<br>(uppfattas som<br>bevakas i<br>2.Mindre besvärande för<br>samverkan med<br>vanligt berörda<br>SKR och i<br>intressenter och<br>ordinarie<br>kommunen)<br>avtalsrörelse. |
-| --- | --- |
-|  | Kommunövergripande risk: 3.Kännbar Risken tas<br>Övertidsersättning betalas ut (uppfattas som omhand som en<br>på fel grund 2.Mindre besvärande för del av ordinarie<br>vanligt berörda uppföljnings- och<br>intressenter och förbättringsarbete.<br>kommunen) |
-| Ekonomi | Kommunövergripande risk: 3.Kännbar Risken tas<br>Grundläggande redovisning (uppfattas som omhand genom<br>kvalitetsbrister 2.Mindre besvärande för riktad information<br>vanligt berörda och utbildnings.<br>intressenter och<br>kommunen) |
-| Informatio<br>nssäkerhe<br>t,<br>administra<br>tion,<br>inköp... | Kommunövergripande risk: 3.Kännbar Risken tas<br>Inköp (granskning begränsas (uppfattas som omhand genom<br>till belopp över 100.000:-) 2.Mindre besvärande för riktad information<br>vanligt berörda och utbildning.<br>intressenter och<br>kommunen) |
-|  | Kommunövergripande risk: 3.Kännbar Risken tas<br>informationssäkerhet; skydd (uppfattas som omhand som en<br>av information mot obehörig 2.Mindre besvärande för del av ordinarie<br>tillgång vanligt berörda uppföljnings och<br>intressenter och förbättringsarbete<br>kommunen) |
+| Kategorier |  | Risker | Sanno-<br>likhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergripande risk:<br>Resurs- och kompetensbrist | 2.Mindre<br>vanligt | 3.Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken är under<br>uppsegling och<br>bevakas i<br>samverkan med<br>SKR och i<br>ordinarie<br>avtalsrörelse. |
+|  |  | Kommunövergripande risk:<br>Övertidsersättning betalas ut<br>på fel grund | 2.Mindre<br>vanligt | 3.Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand som en<br>del av ordinarie<br>uppföljnings- och<br>förbättringsarbete. |
+| Ekonomi |  | Kommunövergripande risk:<br>Grundläggande redovisning<br>kvalitetsbrister | 2.Mindre<br>vanligt | 3.Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>riktad information<br>och utbildnings. |
+| Informatio<br>nssäkerhe<br>t,<br>administra<br>tion,<br>inköp... |  | Kommunövergripande risk:<br>Inköp (granskning begränsas<br>till belopp över 100.000:-) | 2.Mindre<br>vanligt | 3.Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>riktad information<br>och utbildning. |
+|  |  | Kommunövergripande risk:<br>informationssäkerhet; skydd<br>av information mot obehörig<br>tillgång | 2.Mindre<br>vanligt | 3.Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand som en<br>del av ordinarie<br>uppföljnings och<br>förbättringsarbete |
 
 <!-- sida 149 -->
 
@@ -7953,10 +7963,11 @@ Figur 2 Matris och tabell som beskriver årets granskade risker och bedömning a
 
 [Tabell 158-1](handlingar.tabeller/158-1.csv)
 
-| Kategorier<br>Personal | Risker<br>Kommunövergripande risk: Brister vid referenstagning (Kungsbacka<br>kommun) |
-| --- | --- |
-| Verksamhet | Kommunövergripande risk - Risk för korruption (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
+| Kategorier |  | Risker |
+| --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Brister vid referenstagning (Kungsbacka<br>kommun) |
+| Verksamhet |  | Kommunövergripande risk - Risk för korruption (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Förvaltningarnas arbete med att utveckla<br>krisledningsorganisationen i egen verksamhet (Kungsbacka kommun) |
 
 <!-- sida 159 -->
 
@@ -8340,27 +8351,28 @@ Nämndernas självskattning
 
 [Tabell 167-172-1](handlingar.tabeller/167-172-1.csv)
 
-| Område<br>Uppdrag och mål | Frågor Svar, Antal 2024<br>Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-| --- | --- |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-| Område | Frågor Svar, Antal 2024<br>Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
-|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-| Område | Frågor Svar, Antal 2024<br>Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-| Område | Frågor Svar, Antal 2024<br>Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-| Område | Frågor Svar, Antal 2024<br>Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Område<br>Information/kommunikati<br>on | Frågor Svar, Antal 2024<br>Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2024 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |  |
+|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 168 -->
 

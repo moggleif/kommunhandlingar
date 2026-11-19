@@ -1,8 +1,5 @@
-"Energibalans
-(MWh)","Utbyggnadskoncept
-CAS","Utbyggnadskoncept
-MBR","Utbyggnadskoncept
-AGS"
+Energibalans,Utbyggnadskoncept,Utbyggnadskoncept,Utbyggnadskoncept
+(MWh),CAS,MBR,AGS
 Energianvändning:,,,
 Elanvändning,1 510,2 610,1 760
 Energibalans (endast elanvändning),1 510,2 610,1 760
