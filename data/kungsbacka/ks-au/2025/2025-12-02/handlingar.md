@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed4c44/1764247380
 sha256: b3a00c2b732ca65e4085fb10358badf4de74634db8f447f78281dc54d05d3039
 bytes: 45776796
 sidor: 339
-hamtad: 2026-11-09T23:15:25+00:00
-konverterad: 2026-11-09T23:24:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T22:50:16+00:00
+konverterad: 2026-11-19T22:59:19+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ok, ocr, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr]
@@ -7145,13 +7145,13 @@ Utdrag som bekräftar ensam lagfart för BR (1/1). Byggnadsplan 13-ÖLM-1006
 
 lantmäteriförrättningar, inlösenbeslut eller servitut för parkmark finns registrerade.
 
-Bilaga 2- Lantmäteriet: Fastighetsutdrag[ (2025-05-15)
+Bilaga 2- Lantmäteriet: Fastighetsutdrag [NN (2025-05-15)
 
 Utdrag som bekräftar ensam lagfart för BR (1/1). Byggnadsplan 13-ÖLM-1006
 (1951) gäller, men genomförandetiden har utgått. Inga uppgifter om parkmark, förrättning eller
 gemensamhetsanläggning.
 
-Bilaga 3 - Lantmäteriet: Fastighetsutdrag [ (2025-05-15)
+Bilaga 3 - Lantmäteriet: Fastighetsutdrag[ (2025-05-15)
 
 Utdrag som bekräftar ensam lagfart för BR (1/1). Samma byggnadsplan gäller (13-
 ÖLM-1006) med utgången genomförandetid. Fastigheten är samtaxerad med
@@ -7193,9 +7193,9 @@ Föreningen klargör att:
 
 « den inte äger någon mark,
 
-e deniinte har intresse av ny förrättning,
+e den inte har intresse av ny förrättning,
 
-e och att ingen anledning finns att ompröva samfälligheten.
+« och att ingen anledning finns att ompröva samfälligheten.
 
 Bilaga 9 - Dir. 2025:70 - Regeringens direktiv för utredning om egendomsskyddet
 
@@ -9205,7 +9205,7 @@ till ”intern praxis” eller till en 75 år gammal spökplan utan realisering 
 Jag uppmanar därför kommunstyrelsen att den 26 augusti fatta beslut i enlighet med
 rättsstatens principer:
 
-Antingen redovisa det lagstöd som man menar finns, eller
+e Antingen redovisa det lagstöd som man menar finns, eller
 
 » Förklara planbestämmelsen som ogiltig.
 
@@ -9250,7 +9250,7 @@ ekonomiskt och rekreationellt.
 En central del av översiktsplanen är att överbrygga barriärer som idag begränsar accessen till
 kusten och kopplar samman Åsas centrala delar med havet. Ett område på ca: 37 000 kvm,
 ursprungligen planerat som parkmark men aldrig realiserat, utgör just en sådan barriär.
-Markägaren har visat vilja att finansiera en strandpromenad -—- en lösning som direkt stöder
+Markägaren har visat vilja att finansiera en strandpromenad —- en lösning som direkt stöder
 kommunens ambitioner om ökad rekreation och tillgänglighet. Ändå har inga samtal inletts.
 Detta är anmärkningsvärt, särskilt när markägaren dessutom är öppen för att kombinera detta
 med bebyggelse, vilket kan driva förtätning och utveckling av verksamheter i linje med planens
@@ -9281,7 +9281,7 @@ blomstrande framtid — öppna dörren till samtalet nu!
 
 https://norrahalland.se/debatt/debatt-ge-aasa-en-blomstrande-framtid/47833
 
-I Kungsbacka ska det vara lätt att göra rätt
+I Kungsbacka ska det vara lätt att göra rätt 2
 
 Med vänlig hälsning
 
@@ -9302,7 +9302,7 @@ av planbestämmelsen, trots att jag som fastighetsägare i praktiken hindrats fr
 fastighet i enlighet med min äganderätt. Något lagstöd för denna hållning har inte presenterats.
 Kommunen har heller inte vidtagit någon rättslig prövning av frågan, utan hänvisar till intern
 praxis och invanda arbetssätt. Det är denna vägran att erkänna den faktiska inskränkningens
-existens —- och därmed undvika ersättningsskyldighet- som är det centrala problemet.
+existens — och därmed undvika ersättningsskyldighet- som är det centrala problemet.
 
 Det är viktigt att tydliggöra att rådighetsinskränkningar som inte grundar sig på tillfälliga
 förhållanden, och som varar över längre tid, utgör en form av expropriativt ingrepp. Enligt
@@ -12246,7 +12246,7 @@ internkontrollplaner
 
 beslutsstöd eller mallar som rör lagprövning
 
-2\. Samtliga utbildningsmaterial som rör tj änstemännens skyldighet att inte tillämpa
+2\. Samtliga utbildningsmaterial som rör tjänstemännens skyldighet att inte tillämpa
 grundlagsstridiga föreskrifter
 
 Exempel:
@@ -12688,7 +12688,7 @@ Det förklarar således:
 
 « inte varför grundlagen inte tillämpas,
 e inte varför normprövning inte gjorts,
-e inte varför lagstöd saknas,
+« inte varför lagstöd saknas,
 
 e inte varför kommunen hänvisar till praxis i stället för lag.
 
@@ -13013,7 +13013,7 @@ jag skulle ha missförstått en rättsregel, åligger det kommunen att:
 
 3\. tillämpa korrekt lagstöd ändå,
 
-eftersom det är myndigheten —- inte den enskilde — som har utredningsansvaret och som måste
+eftersom det är myndigheten - inte den enskilde - som har utredningsansvaret och som måste
 säkerställa att ärendet avgörs i enlighet med gällande rätt.
 
 Att jag inte är jurist får givetvis inte innebära att kommunen ställer krav på mig att prestera
@@ -13039,7 +13039,7 @@ Rättsligt stöd för denna begäran
 
 Min begäran grundas på:
 
-» JB 1 kap. 18- utgångspunkt för min rådighet
+« JB 1 kap. 18- utgångspunkt för min rådighet
 
 « RF 1:1 -legalitetsprincipen
 
@@ -13064,7 +13064,7 @@ frågan om normprövningen.
 Planbestämmelsens rättsverkningar och huvudmannaskap enligt PBL 4 och 14 kap.
 
 Eftersom planbestämmelsen anger enskilt huvudmannaskap för parkmarken, men ingen
-lantmärteriförrättning, ingen anläggningsbildning, ingen samfällighet och ingen faktisk huvudman
+lantmäteriförrättning, ingen anläggningsbildning, ingen samfällighet och ingen faktisk huvudman
 existerar, innebär detta att planbestämmelsen aldrig har realiserats och därför saknar materiell
 rättsverkan.
 
