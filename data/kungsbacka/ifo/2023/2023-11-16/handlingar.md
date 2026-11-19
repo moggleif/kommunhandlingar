@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250808182642id_/https://kungsbacka.se/d
 sha256: 4b0be1a84478d76695cc4c8c4486971fd144c47f9cbdb8555ee09c320e4ff553
 bytes: 6554327
 sidor: 59
-hamtad: 2026-10-20T08:29:02+00:00
-konverterad: 2026-10-20T08:29:18+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-19T14:12:33+00:00
+konverterad: 2026-11-19T14:12:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -104,93 +104,136 @@ INNEHÅLLSFÖRTECKNING .........................................................
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-entreprenörer. Här är det lika naturligt att starta företag som att
 1\.  Inledning
+
+Konkurrensutsättningsplanen utgör en inventering av nämndens
+verksamheter. Vilka verksamheter som finns inom nämndens
+ansvar, vilka verksamheter som i nuläget är konkurrensutsatta,
+vilka verksamheter som inte kan eller bör bli föremål för
+konkurrensutsättning samt vilka verksamheter som skulle kunna
+vara möjliga att konkurrensutsätta.
+
+Förslag till Årsplan för konkurrensutsättning av verksamhet ska tas
+fram årligen av förvaltningen för Individ & familjeomsorg. Årsplanen
+ska innehålla förslag på vilken eller vilka av nämndens
+verksamheter som eventuellt ska konkurrensutsättas
+nästkommande år.
+
+Konkurrensutsättningsplanen ska tillsammans med Årsplan för
+
+konkurrensutsättning av verksamhet, möjliggöra långsiktig
+planering gällande konkurrensutsättning av nämndens verksamhet.
+
+2\.  Bakgrund      och   syfte
+
+Kungsbacka kommuns Vision 2030 är en ledstjärna för
+kommunens långsiktiga utveckling. I visionen anges att i den
+valfrihet, mångfald och livskvalitet som präglar vardagen här,
+ständigt lockar nya invånare. Växtkraften ger oss mer resurser till
+den gemensamma välfärden, så att alla kan utvecklas och leva det
+goda livet, hela livet.
+I visionen poängteras också att kommunen ska sträva mot
+
+Västsveriges bästa företagsklimat där Kungsbacka kommun är
+känd för sitt goda värdskap och är det självklara valet för företag
+som vill etablera sig i Västsverige. Vi har det bästa klimatet för
+
+entreprenörer. Här är det lika naturligt att starta företag som att
 vara anställd. Även i Kungsbackas kommunbudget för 2023 står
 det att Kungsbacka ska fortsätta att arbetet med att stärka
-Konkurrensutsättningsplanen utgör en inventering av nämndens
 företagsklimatet.
-verksamheter. Vilka verksamheter som finns inom nämndens
+
 I Kungsbacka kommuns policy för konkurrensprövning anges att
-ansvar, vilka verksamheter som i nuläget är konkurrensutsatta,
 kommunens verksamheter ska vara öppna för alternativa utförare
-vilka verksamheter som inte kan eller bör bli föremål för
 och driftsformer och att konkurrensutsättning syftar till ökad
-konkurrensutsättning samt vilka verksamheter som skulle kunna
 valfrihet, kvalitetsutveckling och kostnadseffektivitet.
-vara möjliga att konkurrensutsätta.
 I tillämpningsanvisningarna för policyn beskrivs att nämnderna ska
-Förslag till Årsplan för konkurrensutsättning av verksamhet ska tas gå igenom sina verksamheter och bedöma lämpligheten för olika
-fram årligen av förvaltningen för Individ & familjeomsorg. Årsplanen driftsformer. Genomgången bör resultera i en plan över vilka
-ska innehålla förslag på vilken eller vilka av nämndens verksamheter som kan konkurrensutsättas.
-verksamheter som eventuellt ska konkurrensutsättas
+gå igenom sina verksamheter och bedöma lämpligheten för olika
+
+driftsformer. Genomgången bör resultera i en plan över vilka
+verksamheter som kan konkurrensutsättas.
 Nämnderna ska kontinuerligt pröva och ta ställning till i vilken form
-nästkommande år.
 deras verksamhet ska bedrivas. Nämnderna bör dels planera för
 olika alternativa driftsformer, dels ta ställning till de initiativ till
-Konkurrensutsättningsplanen ska tillsammans med Årsplan för
 alternativa driftsformer som uppkommer i verksamheten.
-konkurrensutsättning av verksamhet, möjliggöra långsiktig
-planering gällande konkurrensutsättning av nämndens verksamhet. Policyn anger även att all verksamhet som drivs av kommunen får
+
+Policyn anger även att all verksamhet som drivs av kommunen får
 utmanas, med undantag från myndighetsutövning, strategiska
-2\.  Bakgrund      och   syfte                         ledningsfunktioner och kommunala bolag. Verksamheter som
+ledningsfunktioner och kommunala bolag. Verksamheter som
 enligt lag eller förordning måste utföras av kommunen kan inte
-Kungsbacka kommuns Vision 2030 är en ledstjärna för   heller utmanas. Centralt i prövningen är att kommunens
-kommunens långsiktiga utveckling. I visionen anges att i den medborgare ska få högsta kvalitet till lägsta kostnad, få ökad
-valfrihet, mångfald och livskvalitet som präglar vardagen här, valfrihet och lättillgänglig information om kvalitetsjämförelser. Totalt
-ständigt lockar nya invånare. Växtkraften ger oss mer resurser till sett ska konkurrensutsättning innebära en fördel för
-den gemensamma välfärden, så att alla kan utvecklas och leva det kommuninvånarna.
-goda livet, hela livet.
+heller utmanas. Centralt i prövningen är att kommunens
+medborgare ska få högsta kvalitet till lägsta kostnad, få ökad
+valfrihet och lättillgänglig information om kvalitetsjämförelser. Totalt
+sett ska konkurrensutsättning innebära en fördel för
+kommuninvånarna.
+
 Beslut om konkurrensutsättning ska, innan beslut fattas i nämnd,
-I visionen poängteras också att kommunen ska sträva mot anmälas till kommunstyrelsen som informationsärende av
-Västsveriges bästa företagsklimat där Kungsbacka kommun är nämnden för Individ & Familjeomsorg. Vid tveksamhet om
-känd för sitt goda värdskap och är det självklara valet för företag konsekvenserna för kommunen totalt, överlämnar nämnden frågan
-som vill etablera sig i Västsverige. Vi har det bästa klimatet för till kommunstyrelsen för prövning.
+anmälas till kommunstyrelsen som informationsärende av
+nämnden för Individ & Familjeomsorg. Vid tveksamhet om
+konsekvenserna för kommunen totalt, överlämnar nämnden frågan
+till kommunstyrelsen för prövning.
 
 <!-- sida 4 -->
 
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-Följande styrdokument i Kungsbacka kommun reglerar    4.   Former    för
+Följande styrdokument i Kungsbacka kommun reglerar
 konkurrensutsättning inom nämnden för Individ & Familjeomsorgs
-konkurrensutsättning
 verksamhet:
   Policy för konkurrensprövning, inklusive
-Den offentliga upphandlingen av varor och tjänster regleras av Lag
 Tillämpningsanvisningar Policy för konkurrensprövning
-(2016:1145) om offentlig upphandling (LOU). Lagens
   Upphandlingspolicy, inklusive Tillämpningsanvisningar för
-grundprinciper är att all offentlig upphandling ska ske i konkurrens,
 Upphandlingspolicy
-vara affärsmässig och säkerställa likabehandling, transparens och
-  Program för uppföljning och insyn av verksamhet som utförs öppenhet.
+  Program för uppföljning och insyn av verksamhet som utförs
 av kommunala och privata utförare
-Lag (2008:962) om valfrihetssystem (LOV) reglerar vad som ska
-gälla för de kommuner och landsting som vill konkurrenspröva
-3\.  Varför     konkurrens?                            kommunala och landstingskommunala verksamheter genom att
-överlåta valet av utförare av stöd, vård- och omsorgstjänster till
-Konkurrensutsättning är när en kommun prövar om ett privat den enskilde i ett valfrihetssystem.
+
+3\.  Varför     konkurrens?
+
+Konkurrensutsättning är när en kommun prövar om ett privat
 företag, en förening eller ett kooperativ helt eller delvis kan driva
-Valfrihetssystem ska utformas i enlighet med EU-rättens
 kommunalt finansierad verksamhet. Detta istället för att kommunen
-grundläggande principer om likabehandling och icke-diskriminering
 driver verksamheten i egen regi.
-samt principerna om öppenhet, ömsesidigt erkännande och
-Syftet med att utsätta nämndens verksamhet för        proportionalitet.
+
+Syftet med att utsätta nämndens verksamhet för
 konkurrensutsättning är att främja ett kostnadseffektivt
-I ett valfrihetssystem är priset fastställt på förhand och alla utförare
 användande av skattemedel, tillföra nytänkande, utveckla
-inom en kommun eller ett landsting får samma ersättning för
 verksamhetens kvalitet samt att stimulera entreprenörskap.
-samma tjänst. På detta sätt konkurrerar utförarna med den kvalitet
-Syftet med nämndens konkurrensutsättning är även att skapa som de kan leverera och den enskilde väljer det alternativ som hen
-valmöjligheter för den enskilda med behov av tjänster inom uppfattar tillhandahåller den bästa kvaliteten.
+
+Syftet med nämndens konkurrensutsättning är även att skapa
+valmöjligheter för den enskilda med behov av tjänster inom
 nämndens verksamhetsområde, genom att öka antalet utförare
-Beroende på upphandlingsform uppstår konkurrens på olika sätt
 samt att öka möjligheterna för medarbetare inom verksamheten att
-och vid olika tidpunkter. Vid upphandling enligt LOU uppstår
 kunna arbeta hos fler arbetsgivare.
+
+4\.  Former     för
+
+konkurrensutsättning
+
+Den offentliga upphandlingen av varor och tjänster regleras av Lag
+(2016:1145) om offentlig upphandling (LOU). Lagens
+grundprinciper är att all offentlig upphandling ska ske i konkurrens,
+vara affärsmässig och säkerställa likabehandling, transparens och
+öppenhet.
+Lag (2008:962) om valfrihetssystem (LOV) reglerar vad som ska
+
+gälla för de kommuner och landsting som vill konkurrenspröva
+kommunala och landstingskommunala verksamheter genom att
+överlåta valet av utförare av stöd, vård- och omsorgstjänster till
+den enskilde i ett valfrihetssystem.
+Valfrihetssystem ska utformas i enlighet med EU-rättens
+grundläggande principer om likabehandling och icke-diskriminering
+samt principerna om öppenhet, ömsesidigt erkännande och
+proportionalitet.
+
+I ett valfrihetssystem är priset fastställt på förhand och alla utförare
+inom en kommun eller ett landsting får samma ersättning för
+samma tjänst. På detta sätt konkurrerar utförarna med den kvalitet
+som de kan leverera och den enskilde väljer det alternativ som hen
+uppfattar tillhandahåller den bästa kvaliteten.
+
+Beroende på upphandlingsform uppstår konkurrens på olika sätt
+och vid olika tidpunkter. Vid upphandling enligt LOU uppstår
 konkurrensen under upphandlingen vid tillfället för
 anbudsutvärdering. Vid anskaffning av tjänster genom LOV
 uppstår konkurrensen först efter att avtalet ingåtts och
@@ -205,42 +248,62 @@ NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 Nämnden beslutar om de krav som ska ställas på nämndens
 externa utförare. För externa utförare inom valfrihetssystemet
 regleras de krav som ställs på utföraren i ett förfrågningsunderlag.
-5\.   Nämndens     dialog    med   marknaden
 För upphandlingar enligt LOU, regleras de krav som ställs på
 utföraren i ett upphandlingsdokument. Kraven i
-förfrågningsunderlag och upphandlingsdokument utgör en del av Förvaltningen behöver föra en löpande dialog med marknaden.
-avtalet med utförarna.                                Både för att kvalitetssäkra arbetet med kommande upphandlingar,
-genom att utveckla förfrågningsunderlag och
+förfrågningsunderlag och upphandlingsdokument utgör en del av
+avtalet med utförarna.
+
 Förfrågningsunderlag och upphandlingsdokument är strategiska
-upphandlingsdokument i dialog, men också för att öka marknadens
 och viktiga dokument som utgör grunden för nämndens
-intresse att inkomma med konkurrensmässigt starka anbud.
 konkurrensutsättning. Innan underlagen annonseras har nämnden
-fattat beslutat om förfrågningsunderlag och upphandlingsdokument Förvaltningen ska i sitt arbete med att föra dialog med marknaden
-och det är sedan utifrån dessa underlag och dokument som även samarbeta med kommunens Näringslivsenhet, förvaltningen
-intresserade externa utförare kan ansöka om att bedriva hemtjänst för Service samt övriga, förvaltningen för Vård & Omsorg samt
-alternativt lämna anbud.                              nämnders förvaltningar som blir berörda i och med att nämnden för
-Individ & Familjeomsorg konkurrensutsätter delar av sin
-verksamhet.
+fattat beslutat om förfrågningsunderlag och upphandlingsdokument
+och det är sedan utifrån dessa underlag och dokument som
+intresserade externa utförare kan ansöka om att bedriva hemtjänst
+alternativt lämna anbud.
+
 4.1 Egenregianbud
+
 I enlighet med kommunens Policy för konkurrensprövning ska
-6\.   Nämndens     huvudmanskap,        insyn    i
 nämnden fatta beslut om den kommunala regin ska tillåtas att
-lämna anbud i nämndens konkurrensutsättningar.        och   uppföljning       av
-Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär konkurrensutsatt verksamhet
+lämna anbud i nämndens konkurrensutsättningar.
+
+Ett anbud från kommunal regi, ett så kallat egenregianbud, innebär
 att förvaltningens egen verksamhet konkurrerar med externa
 anbudsgivare om uppdraget att driva den konkurrensutsatta
-verksamheten.                                         I Kommunallag (2017:725) anges att kommuner kan besluta att
-överlämna skötseln av kommunala angelägenheter till privata
+verksamheten.
 I förvaltningens förslag till beslut om Årsplan för
-utförare. Med en privat utförare avses en juridisk person eller
 konkurrensutsättning av verksamhet, ska förslag till beslut om
-enskild individ som mottagit uppdraget om skötseln av en
 egenregianbud vara en av beslutspunkterna.
-kommunal angelägenhet.
+
 Nämnden fattar således beslut om den egna verksamheten ska få
-Det anges vidare att om kommunen beslutar sig för att överlämna
 lämna anbud eller ej vid respektive konkurrensutsättning.
+
+5\.  Nämndens      dialog    med   marknaden
+
+Förvaltningen behöver föra en löpande dialog med marknaden.
+Både för att kvalitetssäkra arbetet med kommande upphandlingar,
+genom att utveckla förfrågningsunderlag och
+upphandlingsdokument i dialog, men också för att öka marknadens
+intresse att inkomma med konkurrensmässigt starka anbud.
+
+Förvaltningen ska i sitt arbete med att föra dialog med marknaden
+även samarbeta med kommunens Näringslivsenhet, förvaltningen
+för Service samt övriga, förvaltningen för Vård & Omsorg samt
+nämnders förvaltningar som blir berörda i och med att nämnden för
+Individ & Familjeomsorg konkurrensutsätter delar av sin
+verksamhet.
+
+6\.  Nämndens      huvudmanskap,        insyn    i
+och   uppföljning       av
+
+konkurrensutsatt         verksamhet
+
+I Kommunallag (2017:725) anges att kommuner kan besluta att
+överlämna skötseln av kommunala angelägenheter till privata
+utförare. Med en privat utförare avses en juridisk person eller
+enskild individ som mottagit uppdraget om skötseln av en
+kommunal angelägenhet.
+Det anges vidare att om kommunen beslutar sig för att överlämna
 driften av en offentlig uppgift till en privat utförare, kvarstår ändå
 
 <!-- sida 6 -->
@@ -248,27 +311,37 @@ driften av en offentlig uppgift till en privat utförare, kvarstår ändå
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-kommunen som huvudman för verksamheten. Detta innebär att Vidare anges att respektive nämnd ansvarar för vad som anges i
-nämnden för Individ & Familjeomsorg är huvudman för den Kommunallagen kring att säkerställa att extern utföraren bedriver
-verksamhet som lämnats över till externa utförare och ansvarar då verksamhet enligt:
+kommunen som huvudman för verksamheten. Detta innebär att
+nämnden för Individ & Familjeomsorg är huvudman för den
+verksamhet som lämnats över till externa utförare och ansvarar då
 ytterst för den verksamhet som utförarna bedriver.
-\- de lagar, förordningar och föreskrifter som gäller
+
 I Kommunallagen anges även att nämnderna ansvarar för att se till
-\- de mål och andra regleringar som kommunfullmäktige och nämnd
 att all verksamhet som ingår i nämndens ansvarsområde bedrivs
-har fastställt i kommunbudget, nämndbudget eller andra
 enligt mål, riktlinjer och föreskrifter, att den interna kontrollen är
-styrdokument.
 tillräcklig och att verksamheten bedrivs på ett i övrigt
 tillfredsställande sätt. Nämnden för Individ & Familjeomsorg är
 därför skyldig att kontrollera och följa upp verksamhet som genom
-7\.   Verksamhetsområden          inom
 avtal drivs i privat regi och att i avtalen med externa utförare tillse
-att allmänheten ges möjlighet till insyn i även denna del av Individ & Familjeomsorg
+att allmänheten ges möjlighet till insyn i även denna del av
 verksamheten.1
+
+Vidare anges att respektive nämnd ansvarar för vad som anges i
+Kommunallagen kring att säkerställa att extern utföraren bedriver
+verksamhet enligt:
+
+\- de lagar, förordningar och föreskrifter som gäller
+\- de mål och andra regleringar som kommunfullmäktige och nämnd
+har fastställt i kommunbudget, nämndbudget eller andra
+styrdokument.
+
+7\.  Verksamhetsområden           inom
+Individ     &  Familjeomsorg
+
 Nämnden har även ansvar för att säkerställa att den enskilda får Myndighet, stöd och behandling
 de insatser som de är beviljade med stöd av Socialtjänstlagen  Familjerätt & mottagning för barn och unga
 (2001:453).                                               Familjeenheten
+
 För den verksamhet som drivs av extern utförare har nämnden  Öppenvård barn och unga
 inget arbetsgivaransvar eller arbetsmiljöansvar. Arbetsgivaransvar  Enheten för barn och unga
 och arbetsmiljöansvar är överlåtet till den som ansvarar för den  Vuxen öppenvårdsenhet
@@ -284,6 +357,7 @@ Granskningen ska bidra till kvalitetsutveckling så att medborgarna
  Bostad med särskildservice barn
 är nöjda med den verksamhet som kommunen ansvarar för.
  Gruppbostäder
+
 1 När skötseln av en kommunal angelägenhet genom avtal har lämnats över till en privat utförare, 2 Beslutad av Kommunfullmäktige 2016-10-11 § 144.
 ska kommunen enligt 10 kap. 8 § kommunallagen (2017:725) kontrollera och följa upp
 verksamheten.
@@ -293,38 +367,62 @@ verksamheten.
 KONKURRENSUTSÄTTNINGSPLAN
 NÄMNDEN FÖR INDIVID & FAMILJEOMSORG
 
-  Korttidsvistelse                                 8.1 Personlig assistans
-  Daglig verksamhet                                Om en brukare får Personlig assistans beviljad utgår en
-assistansersättning. När man får ersättning för personlig assistans
-betyder det att brukaren själv betalar för insatsen och har därmed
+  Korttidsvistelse
+  Daglig verksamhet
+
 Stöd i hemmet och sysselsättning
-rätt att själv välja utförare.
   Personlig assistans
   Korttidsvistelse, läger och korttidshem
-  Avlösarservice och ledsagning                    9.   Verksamheter       som   inte   kan
-  Boendestöd och sysselsättning                    eller    bör   konkurrensutsättas
+  Avlösarservice och ledsagning
 
-Myndighetsutövning är en del av det kommunala uppdraget som
+  Boendestöd och sysselsättning
+
 8\.  Verksamheter        som   är
-inte är möjlig att konkurrensutsätta. Konkurrensutsättning kan inte
-konkurrensutsatta                                     heller ske av sådan verksamhet som enligt lag ska drivas av
-kommunen.
-Krisstöd är i dag placerat inom kommunal regi och bör inte
+
+konkurrensutsatta
+
 8.1 Ledsagning och avlösning i hemmet
-konkurrensutsätts. Då stödet inte är en biståndsbedömd insats är
-det svårt att beräkna volym och uppnå kostnadseffektivitet vid en
-Kommunfullmäktige i Kungsbacka kommun beslutade vid sitt konkurrensutsättning.
+
+Kommunfullmäktige i Kungsbacka kommun beslutade vid sitt
 sammanträde 17 februari 2009 att kommunen ska tillämpa LOV.
 Kungsbacka kommun har beslutat att tillämpa lag (2008:962) om
-10\.   Verksamheter       som   kan   utredas
 valfrihetssystem, LOV, för ledsagarservice och avlösarservice i
-hemmet utifrån LSS.                                   för   konkurrensutsättning
+hemmet utifrån LSS.
+
 Nämnden för Individ och Familjeomsorg och nämnden för Vård &
 omsorg har fått kommunfullmäktiges uppdrag att genomföra och
-administrera certifieringen, godkänna utförare samt förvalta och Samtliga verksamhetsområden inom individ och Familjeomsorg så
-följa upp avtal. Syftet är att öka utbudet av utförare inom när som Myndighetsutövning och Krisstöd kan utredas för
-ledsagning och avlösning och att därigenom öka valfriheten för den konkurrensutsättning.
+administrera certifieringen, godkänna utförare samt förvalta och
+följa upp avtal. Syftet är att öka utbudet av utförare inom
+ledsagning och avlösning och att därigenom öka valfriheten för den
 enskilde brukaren.
+
+8.1 Personlig assistans
+Om en brukare får Personlig assistans beviljad utgår en
+assistansersättning. När man får ersättning för personlig assistans
+betyder det att brukaren själv betalar för insatsen och har därmed
+rätt att själv välja utförare.
+
+9\.  Verksamheter        som   inte   kan
+
+eller    bör   konkurrensutsättas
+
+Myndighetsutövning är en del av det kommunala uppdraget som
+inte är möjlig att konkurrensutsätta. Konkurrensutsättning kan inte
+heller ske av sådan verksamhet som enligt lag ska drivas av
+kommunen.
+
+Krisstöd är i dag placerat inom kommunal regi och bör inte
+konkurrensutsätts. Då stödet inte är en biståndsbedömd insats är
+det svårt att beräkna volym och uppnå kostnadseffektivitet vid en
+konkurrensutsättning.
+
+10\.   Verksamheter       som   kan   utredas
+
+för   konkurrensutsättning
+
+Samtliga verksamhetsområden inom individ och Familjeomsorg så
+när som Myndighetsutövning och Krisstöd kan utredas för
+konkurrensutsättning.
 
 <!-- sida 8 -->
 
@@ -913,8 +1011,6 @@ stöd inom Vård och Omsorg samt Individ och Familjeomsorg.
 Maj-Britt Rane Andersson (9S)
 Ermin Skoric (S)
 
-Id ASA /
-
 <!-- sida 21 -->
 
 TJÄNSTESKRIVELSE
@@ -1258,40 +1354,36 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 9
 
-[Tabell 30-1](handlingar.tabeller/30-1.csv)
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
 
-| Kategorier<br>Personal | Till<br>Risker Sannolikhet Konsekvens<br>plan<br>1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Resurs- och som besvärande för<br>kompetensbrist berörda intressenter och<br>kommunen) |
-| --- | --- |
-|  | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Brister vid som besvärande för<br>referenstagning berörda intressenter och<br>kommunen) |
-| Ekonomi | 3 Kommunövergripande 3. Vanligt 2. Lindrig (uppfattas som Ja<br>risk: Grundläggande liten av berörda<br>redovisning intressenter och<br>kvalitetsbrister kommunen) |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Inköp (granskning som besvärande för<br>begränsas till belopp berörda intressenter och<br>över 100.000:-) kommunen) |
-| Verksamhet | 5 Risk för att 3. Vanligt 3. Kännbar (uppfattas Ja<br>barnrättsperspektivet som besvärande för<br>inte beaktas berörda intressenter och<br>kommunen) |
-|  | 6 Risk att riktlinje för 3. Vanligt 3. Kännbar (uppfattas Ja<br>systematisk uppföljning som besvärande för<br>inte följs berörda intressenter och<br>kommunen) |
-|  | 7 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>inträffa) |
-|  | 8 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>hantering av tillbud och som besvärande för<br>olycksfall berörda intressenter och<br>kommunen) |
-|  | 9 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorgnisatione kommunen)<br>n i egen verksamhet |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Resurs- och<br>kompetensbrist | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk: Brister vid<br>referenstagning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 3 Kommunövergripande<br>risk: Grundläggande<br>redovisning<br>kvalitetsbrister | 3. Vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 4 Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 5 Risk för att<br>barnrättsperspektivet<br>inte beaktas | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Risk att riktlinje för<br>systematisk uppföljning<br>inte följs | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 7 Kommunövergripande<br>risk - Risk för korruption | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 8 Risk för bristande<br>hantering av tillbud och<br>olycksfall | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 9 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorgnisatione<br>n i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 10 Risk att vi inte<br>kommunicerar med<br>invånare på ett säkert<br>sätt | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 31 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Intern kontrollplan 2024
 
-Till
-Kategorier  Risker            Sannolikhet      Konsekvens
-plan
-10 Risk att vi inte 3. Vanligt     3. Kännbar (uppfattas Ja
-kommunicerar med                   som besvärande för
-invånare på ett säkert             berörda intressenter och
-sätt                               kommunen)
 5.2 Risker - Ej till plan
 
 10
 
 [Tabell 31-1](handlingar.tabeller/31-1.csv)
 
-| Kategorier<br>Verksamhet | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan<br>Risk för Risken kontrolleras<br>välfärdsbrott 3. Kännbar i löpande<br>inom personlig (uppfattas som granskningar<br>assistans besvärande för under året och<br>2. Mindre vanligt<br>berörda sammanställs i<br>intressenter och enlighet med<br>kommunen) egenkontrollplan 1<br>gång/år |
-| --- | --- |
-|  | Risk för 3. Kännbar Risken<br>felanvändning av (uppfattas som kontrollerades<br>föreningsbidrag besvärande för 2023 och åtgärder<br>2. Mindre vanligt<br>berörda är planerade. Ny<br>intressenter och skattning<br>kommunen) genomförs 2024 |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Verksamhet |  | Risk för<br>välfärdsbrott<br>inom personlig<br>assistans | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken kontrolleras<br>i löpande<br>granskningar<br>under året och<br>sammanställs i<br>enlighet med<br>egenkontrollplan 1<br>gång/år |
+|  |  | Risk för<br>felanvändning av<br>föreningsbidrag | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken<br>kontrollerades<br>2023 och åtgärder<br>är planerade. Ny<br>skattning<br>genomförs 2024 |
 
 <!-- sida 32 -->
 
@@ -1634,25 +1726,43 @@ Att bli utsatt för våld kan medföra fysiska skador och psykiska besvär, båd
 4 (6)
 långvariga. Våldsutsatthet ger dock inte alltid upphov till tydliga tecken på just våldsutsatthet.
 Nedan ges exempel på tecken och besvär som kan vara orsakade av våld i nära relationer.
-Fysiska tecken                   Psykiska tecken
 
-Blåmärken, rodnader, sår, klösmärken, Depression, ångest och nedstämdhet
+Fysiska tecken
+
+Blåmärken, rodnader, sår, klösmärken,
 brännskador, avslitet hår, tandskador
-Värk och smärta (t.ex. i huvud, bröstkorg, rygg Stresskänslighet och stressymptom
+Värk och smärta (t.ex. i huvud, bröstkorg, rygg
 och bål)
 
-Sömnstörningar (svårt att sova, dålig sömn, Låg självkänsla, personlighetsförändringar och
-mardrömmar)                      social isolering
-Ätstörningar (äter lite eller inte alls, eller äter Utagerande beteende eller självdestruktivitet
+Sömnstörningar (svårt att sova, dålig sömn,
+mardrömmar)
+Ätstörningar (äter lite eller inte alls, eller äter
 ovanligt mycket)
 
-Kräkningsreflexer, svårigheter att svälja Undvikande av vissa personer eller vissa
+Kräkningsreflexer, svårigheter att svälja
+
+Yrsel, magont och andra psykosomatiska
+problem
+Återkommande kontakt med hälso- och
+sjukvården för oklar smärtproblematik
+
+Psykiska tecken
+
+Depression, ångest och nedstämdhet
+
+Stresskänslighet och stressymptom
+
+Låg självkänsla, personlighetsförändringar och
+social isolering
+Utagerande beteende eller självdestruktivitet
+
+Undvikande av vissa personer eller vissa
 platser
 
-Yrsel, magont och andra psykosomatiska Somatisering, det vill säga psykisk ohälsa
-problem                          uttrycks genom varierande kroppsliga symtom
-Återkommande kontakt med hälso- och Svårighet att genomgå gynekologiska
-sjukvården för oklar smärtproblematik undersökningar
+Somatisering, det vill säga psykisk ohälsa
+uttrycks genom varierande kroppsliga symtom
+Svårighet att genomgå gynekologiska
+undersökningar
 
 Tandvårdsrädsla
 
@@ -1660,8 +1770,8 @@ Telefonlista
 Telefonnummer som är bra att känna till och veta när de kan användas utifrån ansvarsområde.
 
 Enhet                  Kontaktinfo Ansvarsområde
-Polis                  114 14    Råd och stöd
 
+Polis                  114 14    Råd och stöd
 Polis                  112       Akut situation
 
 Socialjour kvällar och helger 031-365 87 00 Skydd, stöd och råd
@@ -1669,6 +1779,7 @@ Kvinnofridslinjen      020-50 50 50 För yrkesverksamma och enskilda. Stöd och 
 dygnet runt
 
 Stödtelefon Hedersförtryck 010-223 57 60 För yrkesverksamma. Stöd och råd.
+
 Välj att sluta         020-555 666 För enskilda som utövar våld mot sin partner
 
 <!-- sida 41 -->
