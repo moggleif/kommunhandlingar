@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd9f6a/1743779281
 sha256: 4525adc164c04e1fbd4b6d60edc4efb4e8885b91d681458990f45d649b43eab1
 bytes: 70591783
 sidor: 359
-hamtad: 2026-11-09T12:00:02+00:00
-konverterad: 2026-11-09T12:04:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T02:12:53+00:00
+konverterad: 2026-11-19T02:17:02+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok]
@@ -3865,13 +3865,30 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 | Miljöaspekt | Omfattning |
 | --- | --- |
-| Trafik | Påverkan på trafiksituationen inom och kring planområdet utifrån olika transportsätt,<br>påverkan på trafiknätet från lastbilstransport under både anläggningsfasen och efter<br>projektets genomförande. |
-| Buller från trafik och<br>verksamheter | Påverkan på trafikbullernivåer från väg och järnväg, samt industrirelaterat buller inom<br>planområdet och i närliggande områden. |
-| Luftmiljö | Påverkan på områdets luftmiljö utifrån gällande miljökvalitetsnormer för luft samt<br>verksamheternas luktstörning. |
-| Risk och sårbarhet | Påverkan på den totala riskbilden i området kopplat till verksamheterna och närheten<br>till Västkustbanan. Risken för olyckor med farligt gods, samhällskonsekvenser om<br>fjärrvärmeverket respektive reningsverket inte fungerar, sårbarheten med att ett<br>fjärrvärmeverk, reningsverk och västkustbanan finns inom samma närområde, samt<br>risken för kumulativa effekter. Konsekvenserna från oavsiktliga olyckshändelser och<br>antagonistiska hot, samt resonemang kring alternativ lokalisering och hur komplettering<br>av ytterligare reningsverk och fjärrvärmeverk skulle kunna påverka robusthet jämfört<br>med utbyggnad. |
-| Vattenförhållanden | Påverkan på dagvatten, utsläpp från verksamheten till recipienterna Kungsbackaån och<br>Kungsbackafjorden, skyfall och översvämning. Hantering av dagvatten och planens<br>påverkan på miljökvalitetsnormer (MKN). |
-| Naturmiljö och friluftsliv | Påverkan på naturmiljön, värden för biologisk mångfald och friluftsliv, samt på<br>recipienterna Kungsbackaån och Natura 2000-området Kungsbackafjorden. Planens<br>påverkan genom närsalts- och föroreningsbelastning på recipienter och dess växt- och<br>djurliv. |
-| Skyddade områden och<br>skyddsbestämmelser | Påverkan på skyddade områden och skyddsbestämmelser, såsom Natura 2000-<br>området Kungsbackafjorden och riksintresset för kommunikation Västkustbanan. |
+| Trafik | Påverkan på trafiksituationen inom och kring planområdet utifrån olika transportsätt, |
+|  | påverkan på trafiknätet från lastbilstransport under både anläggningsfasen och efter |
+|  | projektets genomförande. |
+| Buller från trafik och | Påverkan på trafikbullernivåer från väg och järnväg, samt industrirelaterat buller inom |
+| verksamheter | planområdet och i närliggande områden. |
+| Luftmiljö | Påverkan på områdets luftmiljö utifrån gällande miljökvalitetsnormer för luft samt |
+|  | verksamheternas luktstörning. |
+| Risk och sårbarhet | Påverkan på den totala riskbilden i området kopplat till verksamheterna och närheten |
+|  | till Västkustbanan. Risken för olyckor med farligt gods, samhällskonsekvenser om |
+|  | fjärrvärmeverket respektive reningsverket inte fungerar, sårbarheten med att ett |
+|  | fjärrvärmeverk, reningsverk och västkustbanan finns inom samma närområde, samt |
+|  | risken för kumulativa effekter. Konsekvenserna från oavsiktliga olyckshändelser och |
+|  | antagonistiska hot, samt resonemang kring alternativ lokalisering och hur komplettering |
+|  | av ytterligare reningsverk och fjärrvärmeverk skulle kunna påverka robusthet jämfört |
+|  | med utbyggnad. |
+| Vattenförhållanden | Påverkan på dagvatten, utsläpp från verksamheten till recipienterna Kungsbackaån och |
+|  | Kungsbackafjorden, skyfall och översvämning. Hantering av dagvatten och planens |
+|  | påverkan på miljökvalitetsnormer (MKN). |
+| Naturmiljö och friluftsliv | Påverkan på naturmiljön, värden för biologisk mångfald och friluftsliv, samt på |
+|  | recipienterna Kungsbackaån och Natura 2000-området Kungsbackafjorden. Planens |
+|  | påverkan genom närsalts- och föroreningsbelastning på recipienter och dess växt- och |
+|  | djurliv. |
+| Skyddade områden och | Påverkan på skyddade områden och skyddsbestämmelser, såsom Natura 2000- |
+| skyddsbestämmelser | området Kungsbackafjorden och riksintresset för kommunikation Västkustbanan. |
 
 <!-- sida 89 -->
 
@@ -3916,12 +3933,13 @@ karaktär
 
 [Tabell 89-1](handlingar.tabeller/89-1.csv)
 
-| Positiv påverkan |  | Värde/kvalitet av tillskapad aspekt/nytta |
-| --- | --- | --- |
-| dapaksllit<br>Stor<br>/gninttafmO attyn/<br>Medelstor<br>åp tkepsa<br>tetitnavk<br>Måttlig<br>Liten |  | Mycket högt Högt Måttligt Litet |
-|  | Medelstor |  |
-|  | Måttlig |  |
-|  | Liten |  |
+| Positiv påverkan |  |  |  | Värde/kvalitet av tillskapad aspekt/nytta |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  | Mycket högt | Högt | Måttligt | Litet |
+| /gninttafmO | dapaksllit<br>åp<br>tetitnavk | attyn/<br>tkepsa | Stor |  |  |  |  |
+|  |  |  | Medelstor |  |  |  |  |
+|  |  |  | Måttlig |  |  |  |  |
+|  |  |  | Liten |  |  |  |  |
 
 <!-- sida 90 -->
 
@@ -4028,12 +4046,24 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
 
-| Detaljplan | Referens i<br>figur 3.3 | År för<br>antagande | Översiktlig beskrivning |
+| Detaljplan | Referens i | År för | Översiktlig beskrivning |
 | --- | --- | --- | --- |
-| Stadsplan för Stadsäga 450<br>i Kungsbacka och Hanhals<br>registerområden | K86 | 1987 | Majoriteten av planområdet, inklusive markerade fjärrvärmeverk<br>och reningsverk, är betecknat som allmänt område. En remsa<br>av mark längs med hela plangränsen är betecknad som s.k.<br>prickmark, dvs. mark som inte får bebyggas. |
-| Tillägg till stadsplan för<br>Stadsäga 450 i Kungsbacka<br>Hanhals registerområde | K86A | 1999 | Inom mark som enligt ovan detaljplan utlagts som parkmark<br>finns ett befintligt bergrum som tidigare använts av civilförsvaret.<br>Enligt tilläggsplanen ges marken planbestämmelsen bergrum<br>för att ge rätt att under parkmarken anlägga bergrum. |
-| Detaljplan för Hammargård<br>1:7 m.fl. – Utbyggnad av<br>fjärrvärmeverk m.m. | KP111 | 2002 | Planområdet är betecknat som industrimark, med några remsor<br>mark i utkanten av området som inte får bebyggas eller har<br>anordnats som planterat skyddsområde som inte får hårdgöras. |
-| Ändringsplan för detaljplan<br>för del av Kungsbacka 6:27<br>m.fl. i Kungsbacka tätort | KP111A | 2003 | Revidering av gällande detaljplan KP111 för att möjliggöra<br>justering av läget för planerad ackumulatortank, skorsten och<br>placering av pannhus och bränslelager, vilka har inarbetats i<br>plan KP111A. |
+|  | figur 3.3 | antagande |  |
+| Stadsplan för Stadsäga 450 | K86 | 1987 | Majoriteten av planområdet, inklusive markerade fjärrvärmeverk |
+| i Kungsbacka och Hanhals |  |  | och reningsverk, är betecknat som allmänt område. En remsa |
+| registerområden |  |  | av mark längs med hela plangränsen är betecknad som s.k. |
+|  |  |  | prickmark, dvs. mark som inte får bebyggas. |
+| Tillägg till stadsplan för | K86A | 1999 | Inom mark som enligt ovan detaljplan utlagts som parkmark |
+| Stadsäga 450 i Kungsbacka |  |  | finns ett befintligt bergrum som tidigare använts av civilförsvaret. |
+| Hanhals registerområde |  |  | Enligt tilläggsplanen ges marken planbestämmelsen bergrum |
+|  |  |  | för att ge rätt att under parkmarken anlägga bergrum. |
+| Detaljplan för Hammargård | KP111 | 2002 | Planområdet är betecknat som industrimark, med några remsor |
+| 1:7 m.fl. – Utbyggnad av |  |  | mark i utkanten av området som inte får bebyggas eller har |
+| fjärrvärmeverk m.m. |  |  | anordnats som planterat skyddsområde som inte får hårdgöras. |
+| Ändringsplan för detaljplan | KP111A | 2003 | Revidering av gällande detaljplan KP111 för att möjliggöra |
+| för del av Kungsbacka 6:27 |  |  | justering av läget för planerad ackumulatortank, skorsten och |
+| m.fl. i Kungsbacka tätort |  |  | placering av pannhus och bränslelager, vilka har inarbetats i |
+|  |  |  | plan KP111A. |
 
 <!-- sida 94 -->
 
@@ -4422,9 +4452,14 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Väg | Leq dag<br>(06-18) | Leq kväll<br>(18-22) samt lör-,<br>sön-och<br>helgdag (06-18) | Leq natt<br>(22-06) | Lmax natt<br>(22-06) |
+| Väg | Leq dag | Leq kväll | Leq natt | Lmax natt |
 | --- | --- | --- | --- | --- |
-| Utgångspunkt för olägenhets-<br>bedömning vid bostäder, skolor,<br>förskolor och vårdlokaler | 50 dBA | 45 dBA | 40 dBA | 55 dBA |
+|  | (06-18) | (18-22) samt lör-, | (22-06) | (22-06) |
+|  |  | sön-och |  |  |
+|  |  | helgdag (06-18) |  |  |
+| Utgångspunkt för olägenhets- | 50 dBA | 45 dBA | 40 dBA | 55 dBA |
+| bedömning vid bostäder, skolor, |  |  |  |  |
+| förskolor och vårdlokaler |  |  |  |  |
 
 <!-- sida 104 -->
 
@@ -4751,9 +4786,12 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
-|  | Stoft<br>(ton/år) | CO<br>2<br>(ton/år) | CO<br>(ton/år) | NOx<br>(ton/år) | Svavel<br>(ton/år) |
+|  | Stoft | CO<br>2 | CO | NOx | Svavel |
 | --- | --- | --- | --- | --- | --- |
-| Nuvarande förhållanden (benämnt<br>”utbyggnadsalternativet” i MKB:n till<br>tillståndsansökan) | 7,0 | 912 | 68 | 36 | 0,1 |
+|  | (ton/år) | (ton/år) | (ton/år) | (ton/år) | (ton/år) |
+| Nuvarande förhållanden (benämnt | 7,0 | 912 | 68 | 36 | 0,1 |
+| ”utbyggnadsalternativet” i MKB:n till |  |  |  |  |  |
+| tillståndsansökan) |  |  |  |  |  |
 
 <!-- sida 112 -->
 
@@ -4991,8 +5029,9 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 117-1](handlingar.tabeller/117-1.csv)
 
-| Typ av bebyggelse | Basavstånd/reducerat avstånd<br>Västkustbanan (m) |
+| Typ av bebyggelse | Basavstånd/reducerat avstånd |
 | --- | --- |
+|  | Västkustbanan (m) |
 | Bebyggelsefritt | 30/20 |
 | Industri(teknisk anläggning) | 50/20 |
 | Kontor | 50/20 |
@@ -5384,17 +5423,6 @@ den ekologiska kvoten till 0,37. För att uppnå god status behöver halten av t
 Tabell11.1Ekologisk och kemisk status i samt miljökvalitetsnormer för ekologisk och kemisk ytvattenstatus i närmast
 belägna vattenförekomsterna i Kungsbackaån och Inre Kungsbackafjorden.
 
-Vattenförekomst           Status             Miljökvalitetsnorm
-ID          Namn     Ekologisk Kemisk   Ekologisk Kemisk
-WA82828105  Kungsbackaån - Måttlig Uppnår ej god God  God kemisk
-Mynningen till Lillån status status ekologisk status\*
-status 2033
-WA21723833  Inre           Måttlig Uppnår ej god God  God kemisk
-Kungsbackafjorden status status   ekologisk status\*
-status 2027
-\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
-tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden)
-
 Figur 11.3. Vattenförekomst Kungsbackaån (Mynningen-Lillån) och röd ring visar planområdet(VISS, 2024a).
 
 De klassade hydromorfologiska kvalitetsfaktorerna varierar och har antingen hög eller otillfredsställande
@@ -5403,6 +5431,14 @@ vattendrag” otillfredsställande status på grund av att närområdet utgörs 
 och/eller anlagda ytor. Övriga kvalitetsfaktorer bedöms ha hög till måttlig status.
 
 n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | Sida52av95
+
+[Tabell 128-1](handlingar.tabeller/128-1.csv)
+
+| Vattenförekomst |  | Status |  | Miljökvalitetsnorm |  |
+| --- | --- | --- | --- | --- | --- |
+| ID | Namn | Ekologisk | Kemisk | Ekologisk | Kemisk |
+| WA82828105 | Kungsbackaån -<br>Mynningen till Lillån | Måttlig<br>status | Uppnår ej god<br>status | God<br>ekologisk<br>status 2033 | God kemisk<br>status\* |
+| WA21723833 Inre Måttlig Uppnår ej god God God kemisk<br>Kungsbackafjorden status status ekologisk status\*<br>status 2027<br>\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av<br>tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden) |  |  |  |  |  |
 
 <!-- sida 129 -->
 
@@ -6633,11 +6669,15 @@ n:\108\12\1081218\5 arbetsmaterial\01 dokument\n\240321 mkb hammargård.docx | S
 
 [Tabell 162-1](handlingar.tabeller/162-1.csv)
 
-| Fornsök-referens | Status | Beskrivning | Placering i förhållande till<br>planområdet |
+| Fornsök-referens | Status | Beskrivning | Placering i förhållande till |
 | --- | --- | --- | --- |
-| L1997:4759 | Ingen antikvarisk<br>bedömning | Stensättning | I sydöstra hörnet av<br>planområdet |
-| L1997:4829 | Ingen antikvarisk<br>bedömning | Boplatsområde | I sydöstra hörnet av<br>planområdet |
-| L1997:4250 | Övrig kulturhistorisk<br>lämning | Gropavfall | Strax söder om planområdet |
+|  |  |  | planområdet |
+| L1997:4759 | Ingen antikvarisk | Stensättning | I sydöstra hörnet av |
+|  | bedömning |  | planområdet |
+| L1997:4829 | Ingen antikvarisk | Boplatsområde | I sydöstra hörnet av |
+|  | bedömning |  | planområdet |
+| L1997:4250 | Övrig kulturhistorisk | Gropavfall | Strax söder om planområdet |
+|  | lämning |  |  |
 | L1997:6843 | Möjlig fornlämning | Fornborg | Strax norr om planområdet |
 
 <!-- sida 163 -->

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.bbad0dc197168355755c5db/17486174142
 sha256: 9cfe3f44adc4e701e73949be692e525aca91fffbfa0438e02fd5aaf3f9278c0a
 bytes: 105283822
 sidor: 255
-hamtad: 2026-11-09T12:12:15+00:00
-konverterad: 2026-11-09T12:16:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T02:23:21+00:00
+konverterad: 2026-11-19T02:27:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
@@ -1537,22 +1537,15 @@ av de föreslagna trafikobjekten för 2026, kommer prioritering att ske med utg�
 Västkustbanan är det högst prioriterade kollektivtrafikstråket som knyter samman Halland med
 sin omvärld.
 
-Objekt        Beskrivning
-
-1  Tågtrafik        • Hallandståg Varberg – Göteborg, fler avgångar vardagar
-och helgdagar
-• Öresundståg, utökade öppettider och förstärkt utbud
-2  Regionbusstrafik • L331/350 Halmstad - Harplinge
-• L325 Halmstad - Knäred – Markaryd (Markarydsbussen)
-• X3 Göteborg – Särö – Kullavik
-
-• Ökat antal fordon – Södra Halland
-3  Stadsbusstrafik  • Justerad passning tåg vs buss Varberg
-• L2 Varberg, förlängning till Pilgatan
-• Kungsbacka, utökade öppettider
-• Ökat antal fordon - Halmstad
-
 Figur 16. Förslag trafikförändringar 2026
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+|  | Objekt | Beskrivning |
+| --- | --- | --- |
+| 1 Tågtrafik • Hallandståg Varberg – Göteborg, fler avgångar vardagar<br>och helgdagar<br>• Öresundståg, utökade öppettider och förstärkt utbud |  |  |
+| 2 Regionbusstrafik • L331/350 Halmstad - Harplinge<br>• L325 Halmstad - Knäred – Markaryd (Markarydsbussen)<br>• X3 Göteborg – Särö – Kullavik<br>• Ökat antal fordon – Södra Halland |  |  |
+| 3 Stadsbusstrafik • Justerad passning tåg vs buss Varberg<br>• L2 Varberg, förlängning till Pilgatan<br>• Kungsbacka, utökade öppettider<br>• Ökat antal fordon - Halmstad |  |  |
 
 <!-- sida 40 -->
 
@@ -2070,7 +2063,7 @@ Resandet på huvudlinjerna i Halmstads stadsbusstrafik har haft en stabil och po
 
 [Tabell 52-1](handlingar.tabeller/52-1.csv)
 
-| Trafikslag Klassificering Utbud |  |  |
+| Trafikslag | Klassificering | Utbud |
 | --- | --- | --- |
 | Stadsbuss | Mycket starka stråk | 54 turer per vardag och riktning |
 | Stadsbuss | Starka stråk | 28 turer per vardag och riktning |

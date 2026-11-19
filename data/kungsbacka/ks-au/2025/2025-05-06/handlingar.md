@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.39e904a19684f673c12eb1d/17461794278
 sha256: 28bfe7ebb6a6bc69bc622c358d2c02b97ebc661b4b0e80a5843806d3e17bbc86
 bytes: 21521226
 sidor: 140
-hamtad: 2026-11-09T12:05:10+00:00
-konverterad: 2026-11-09T12:10:01+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T02:17:20+00:00
+konverterad: 2026-11-19T02:21:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok]
@@ -3077,7 +3077,7 @@ och stärka den.
 <
 
 Pra introduktion [.
-ger bra förutsättningar. EmIl började hos oss
+ger bra förutsättningar. EmIL började hos oss
 
 nder 2024 Peter visar hur systemet fungerar.
 
@@ -3855,7 +3855,7 @@ Projektet görs i samverkan med Nordr och Jemmet AB som
 stadsrätter och egna hem. Vårt mål är att tillskapa cirka 30
 hyresrätter. Preliminär byggstart är början av 2026. Möjlighet
 till ytterligare exploatering i framtiden finns genom att en
-förstudie är gjord för en etapp II med ca 150 bostäder.
+förstudie är gjord för en etapp Il med ca 150 bostäder.
 
 Signeshus, Kungsbacka
 
@@ -3868,7 +3868,7 @@ sa Signushus så att modern och bra omsorgsverksamhet
 kan bedrivas många år till. Arbetet är planerat att påbörjas
 under hösten 2025 och vara klart året efter.
 
-Ungdomslägenheter '-
+Ungdomslägenheter -
 en väg till första boendet
 
 Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
@@ -3951,9 +3951,9 @@ meverken är så effektiva att uppvärmningskostnaderna för
 våra hus är bland de lägsta i Sverige. För att säkra driften vid
 eventuellt fel eller störning finns en oljepanna som back-up.
 Storleken på våra fjärrvärmeanläggningar varierar från 100
-KW till 5 MW. En stor del att få lönsamma system grundas
+KW till 5 MW. En stor deli att få lönsamma system grundas
 
-i att få så många användare som möjligt, både internt och
+j att få så många användare som möjligt, både internt och
 externt. Detta för att utnyttja energin till fullo. En orosfaktor
 är den kraftiga och snabba prisökning på biobränslen, både
 pellets och våtflis vilket i sin tur medför att vi tvingats till
@@ -3976,7 +3976,7 @@ SN
 söm var värmeprötiluktionsavdelning
 tillsämmans med omhådesänsvarig
 
-slastighetsskötare rondéetar,
+slastighetsskötare rondetar,
 
 \- sa
 
@@ -4228,7 +4228,7 @@ att inspirera varandra och dela med sig av kunskap kan
 bostadsbolagen göra omställningen snabbare än var och
 en för sig. Målet är att Sveriges allmännyttiga bostadsbolag
 ska vara fossilfria senast år 2030 och att energianvändning-
-en ska minska med 30 2. Alla företag som deltar kan också
+en ska minska med 30 24. Alla företag som deltar kan också
 sätta egna mål, som redovisas öppet och transparent inom
 initiativet. För att driva på klimatarbetet ytterligare finns
 också tre frivilliga fokusområden där Eksta arbetar med
@@ -4486,7 +4486,7 @@ ger i passivhusteknik och arbetar med energibesparande
 åtgärder landar nyproduktionsprojekt in under de krav som
 Kommuninvest ställer för att uppnå gröna lån för gröna
 byggnader. Kravet för flerfamiljshus är att nya eller befintliga
-byggnader skall ha minst 20 22 mindre energianvändning
+byggnader skall ha minst 20 24 mindre energianvändning
 per kvadratmeter och år än vad som krävs enligt gällande
 regler (Boverkets byggregler, BBR 29).
 
@@ -4958,7 +4958,7 @@ mkr av bolagets räntekostnader ej är avdragsgilla, vilket
 resulterar i en ökad skatt om 2,6 mkr. Rådande ränteläge
 och fortsatta höga marknadsräntor kommer resultera i att
 bolaget, under närmaste åren, fortsatt kommer ha ökningar
-gällande räntekostnader. Detta i sin tur kommer lega till att
+gällande räntekostnader. Detta i sin tur kommer leda till att
 bolaget fortsätter ligga över gränsen för ränteavdrag, vilket
 då resulterar i ökade skattekostnader.
 
@@ -5022,7 +5022,7 @@ gångar (exklusive pågående nyanläggningar) skrivits av
 med 2,36 2 (2,3 20). Bolagets resultat medger skattemässiga
 avskrivningar enligt ägardirektivet.
 
-Soliditeten fortsätter att stiga till 18,67 2 (17,61 2) men
+Soliditeten fortsätter att stiga till 18,67 2 (17,61 26) men
 uppfyller inte det långsiktiga målet på 20 2. Den justerade
 soliditeten som tar hänsyn till övervärdena i fastighetsbe-
 ståndet uppgår till 41,77 26 (40,99 26) och uppfyller dock
@@ -5092,7 +5092,7 @@ Signerat CK, HS, PW, AM, JB, IH, KW, ML, AL
 
 <!-- sida 90 -->
 
-olyckor. Vid skyddskommitteéns regelbundna möten upp-
+olyckor. Vid skyddskommittens regelbundna möten upp-
 dateras handlingsplanen med åtgärder och uppföljning av
 åtgärders verkan. Hot och våld är en risk som vi har identi-
 fierat och jobbat extra mycket med, både med kartläggning,
@@ -5210,9 +5210,9 @@ nödvändigheten och möjligheten att effektivisera
 energianvändningen ur ett LCA-perspektiv.
 
 Vi skall ta steget mot ett ökat inslag av träbyggnation
-även konstruktionsmåssigt.
+även konstruktionsmässigt.
 
-Vi skall lägga vårt forus på att använda så lite energi
+Vi skall lägga vårt fokus på att använda så lite energi
 som möjligt ur ett livskostnadsperspektiv.
 
 Vi skall använda de energislag som ger minsta
