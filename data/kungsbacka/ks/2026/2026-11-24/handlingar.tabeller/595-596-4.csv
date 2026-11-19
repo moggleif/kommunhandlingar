@@ -1,0 +1,10 @@
+A 19,Avslag,
+Ärendetyp,,Avgift
+A 19.1,Avslag,"Avgiften beräknas efter
+nedlagd tid, dock minst
+2 timmar."
+A 20,Avskrivning,
+Ärendetyp,,Avgift
+A 20.1,Avskrivning,"Avgiften beräknas efter
+nedlagd tid, dock minst
+1 timme."
