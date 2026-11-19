@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.3e23932418fe7cfbe7d6388/17179546418
 sha256: 98ab1c6ae726d4305d9cb6bb4473a78213343b5d4c8c47c25fb4d510abcb70d0
 bytes: 86338874
 sidor: 231
-hamtad: 2026-11-09T10:37:44+00:00
-konverterad: 2026-11-09T10:41:14+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:52:34+00:00
+konverterad: 2026-11-19T00:55:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 50, 51, 209, 210, 219, 220, 221, 222, 223, 224, 225, 226]
-figurer: [29, 31, 37, 57, 58, 80, 91, 100, 127, 129, 130, 132, 133, 135, 136, 137, 138, 141, 142, 143, 149, 158, 159, 167, 168, 172, 174, 184, 186, 187, 188, 198, 199, 210, 219, 220, 221, 222, 223, 224, 225, 226]
+figurer: [29, 31, 37, 57, 58, 80, 91, 100, 127, 129, 130, 132, 135, 136, 137, 138, 141, 142, 143, 149, 158, 159, 167, 168, 172, 174, 184, 186, 187, 188, 198, 199, 210, 219, 220, 221, 222, 223, 224, 225, 226]
 tolkade: []
 granskad: null
 ---
@@ -5521,11 +5521,11 @@ I detta kapitel beskrivs mål och planeringsstrategier. Strategin innehåller tr
 mål med tillhörande strategier, strategiska inriktningar samt effektmål. Nivåerna illustreras
 i modellen nedanför.
 
-Övergripande mål Strategi       Strategiska     Effektmål
-inriktningar
-Vilket är det  Vilka övergripande Hur genomför vi Vad vill vi uppnå och
-vägledande målet för strategier ska vi använda strategierna? hur vi att insatserna får
-planeringsperioden? för att förverkliga målet?  avsedd effekt?
+Övergripande mål                                Effektmål
+
+Vilket är det                                   Vad vill vi uppnå och
+vägledande målet för                            hur vi att insatserna får
+planeringsperioden?                             avsedd effekt?
 
 Exempel: En    Exempel: Stärk   Exempel: Stärk  Exempel: Minskad
 tillgänglig,   tillgängligheten mellan Västkustbanans kapacitet restid mellan
@@ -5542,6 +5542,13 @@ Varje målområde redogör för
 4\. vilka aktörer som tillsammans ska genomföra strategin.
 
 7
+
+[Tabell 133-1](handlingar.tabeller/133-1.csv)
+
+| Strategi | Strategiska |
+| --- | --- |
+|  | inriktningar |
+| Vilka övergripande<br>strategier ska vi använda<br>för att förverkliga målet? | Hur genomför vi<br>strategierna? |
 
 <!-- sida 134 -->
 
@@ -8317,7 +8324,7 @@ komma från förnybar energi jordbrukssektorn ska minska
 
 <!-- sida 199 -->
 
-Målområde  Strategi      Effektmål i RFP     Effektmål i RUS
+Målområde                                    Effektmål i RUS
 Näringslivet klimatpåverkande
 utsläpp /BRP ska minska
 
@@ -8371,19 +8378,29 @@ ansvarar för.
 
 [Tabell 199-1](handlingar.tabeller/199-1.csv)
 
-|  |  |
+| Strategi | Effektmål i RFP |
 | --- | --- |
+|  |  |
 | Ökad beredskapsförmåga | Antalet förseningar och trafikavbrott<br>ska minska |
-| Attraktiva livsmiljöer | Andelen hallänningar med god<br>tillgång till grönytor och<br>friluftsområden ska öka |
+| Attraktiva livsmiljöer | Andelen hallänningar med god |
+|  | tillgång till grönytor och |
+|  | friluftsområden ska öka |
 |  | Antalet gästnätter i Halland ska öka |
-|  | Andelen hallänningar med god<br>tillgång till privat och offentlig service<br>ska vara god i regionens olika delar |
-|  | Andelen som rekommenderar<br>Halland som boenderegion ska vara<br>högst i Sverige |
+|  | Andelen hallänningar med god |
+|  | tillgång till privat och offentlig service |
+|  | ska vara god i regionens olika delar |
+|  | Andelen som rekommenderar |
+|  | Halland som boenderegion ska vara |
+|  | högst i Sverige |
 | Hållbar<br>bebyggelseutveckling | Antalet nybyggda bostäder ska vara<br>tillräckligt för att möta behoven |
 |  | Andelen hallänningar som bor i<br>kollektivtrafiknära läge ska öka |
 |  | Antalet arbetstillfällen tillgängliga<br>inom 60 minuter med kollektivtrafik<br>ska öka |
-| Hållbar markanvändning<br>för näringslivet | Antalet arbetstagare företagen i<br>Halland når inom 60 minuter ska öka |
+| Hållbar markanvändning | Antalet arbetstagare företagen i |
+| för näringslivet | Halland når inom 60 minuter ska öka |
 | En sammanhållen grön<br>infrastruktur | Följs upp genom de regionala<br>miljömålen som Länsstyrelsen<br>ansvarar för. |
-| Säkra vattnets värde som<br>resurs | Följs upp genom de regionala<br>miljömålen som Länsstyrelsen<br>ansvarar för. |
+| Säkra vattnets värde som | Följs upp genom de regionala |
+| resurs | miljömålen som Länsstyrelsen |
+|  | ansvarar för. |
 
 <!-- sida 200 -->
 

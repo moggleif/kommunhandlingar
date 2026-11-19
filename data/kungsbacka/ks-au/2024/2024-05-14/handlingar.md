@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6ca4719418f37aab5d51482d/1715496579
 sha256: d1a604a2c5fa76a6d56922de7aff02c5099786847b1721735b7d9dab0f3c9ea4
 bytes: 76145138
 sidor: 672
-hamtad: 2026-11-09T10:31:03+00:00
-konverterad: 2026-11-09T10:34:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:46:30+00:00
+konverterad: 2026-11-19T00:50:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 336, 337, 338, 380, 385, 386, 387, 388, 389, 390, 391, 392, 396, 492, 493, 560, 591]
 figurer: [19, 39, 47, 51, 63, 71, 73, 77, 86, 87, 94, 115, 150, 151, 155, 156, 167, 169, 179, 180, 182, 183, 185, 186, 188, 193, 194, 196, 197, 204, 205, 206, 207, 209, 210, 211, 212, 220, 224, 225, 226, 230, 231, 232, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 283, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 321, 333, 336, 337, 338, 346, 350, 351, 352, 353, 354, 355, 357, 362, 363, 364, 365, 366, 368, 373, 374, 376, 378, 381, 385, 386, 388, 389, 390, 391, 392, 393, 402, 411, 427, 429, 447, 451, 456, 459, 460, 461, 464, 465, 475, 488, 491, 492, 493, 497, 498, 499, 500, 517, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 540, 542, 543, 546, 547, 552, 557, 560, 564, 565, 567, 569, 570, 571, 572, 573, 574, 575, 577, 578, 579, 580, 581, 582, 583, 590, 591, 610, 611, 612, 613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 634, 639, 644, 653]
 tolkade: []
@@ -2722,8 +2722,15 @@ kvalitetsfaktor på 30%. I slambehandlingsalternativen med rötning kan energiti
 
 [Tabell 60-1](handlingar.tabeller/60-1.csv)
 
-| Energibalans<br>(MWh) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Energibalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (MWh) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energianvändning: |  |  |  |  |  |
 | Elanvändning | 2 460 | 3 160 | 3 060 | 2 050 | 2 250 |
 | Värmeanvändning | 830 | 0 | 0 | 0 | 420 |
@@ -2802,8 +2809,15 @@ med AGS. AGS + alt 0 är inget reellt alternativ utan är med för referens.
 
 [Tabell 62-1](handlingar.tabeller/62-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Klimatbalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (ton CO per år)<br>2e |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Emissioner: |  |  |  |  |  |
 | Direkta emissioner från företagsägda bilar, reservkraft och<br>värme | 16 | 16 | 16 | 16 | 16 |
 | Direkta emissioner av N O<br>2 | 2 010 | 2 010 | 1 720 | 1 720 | 2 010 |
@@ -3020,8 +3034,15 @@ mindre jämfört med lokal rötningsanläggning). Att slambehandlingsalternative
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
-| Ekonomi<br>(Mkr) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Ekonomi | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (Mkr) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Totala kostnader under 50 år | 6 788 | 8 741 | 7 495 | 6 111 | 6 797 |
 | Utvärdering (poäng) | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
 
@@ -3068,8 +3089,12 @@ har idag plats för 22 personer vilket bedöms kunna behållas.
 
 [Tabell 67-1](handlingar.tabeller/67-1.csv)
 
-| Utvärderingskriterium | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Utvärderingskriterium | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  | + | + | + | + | + |
+|  | Rötning | Rötning | Pyrolys | Alt. 0 | Alt. 0+ |
+|  |  | + |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energi | 4,8 | 5,0 | 3,7 | 3,4 | 4,8 |
 | Klimat | 5,0 | 3,2 | 2,6 | 2,6 | 4,6 |
 | Ekonomi | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
@@ -3732,7 +3757,7 @@ köpa in återbrukat material.
 
 | t<br>k<br>e<br>r<br>id<br>n<br>I |  |  |  |  |  | Inbin | dningkol | El | re<br>ila<br>k<br>im<br>e<br>K |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klima | a<br>tpåverk | an |  | t | on CO2e |
+| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klimat | a<br>påverk | an |  | t | on CO2e |
 
 <!-- sida 82 -->
 
@@ -8274,6 +8299,7 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 | Parametrar | Enhet | Utbyggnadskoncept |  |  |
 | --- | --- | --- | --- | --- |
 |  |  | CAS | MBR | AGS |
+|  |  |  |  |  |
 | Slutlig behandling |  |  |  |  |
 | Antal sandfilter | st. | 32 | - | 32 |
 | Total filteryta, sandfilter | m2 | 160 | - | 160 |
@@ -8380,8 +8406,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 191-1](handlingar.tabeller/191-1.csv)
 
-|  | Enhet | Från<br>försedimentering | Från<br>överskottslam | Från yttre verk | Summerat |
+|  | Enhet | Från | Från | Från yttre verk | Summerat |
 | --- | --- | --- | --- | --- | --- |
+|  |  | försedimentering | överskottslam |  |  |
 | Medelslammängder<br>för beräkningar | kg TS/d | 3414 | 2672 | 1370 | 7457 |
 
 <!-- sida 192 -->
@@ -9007,9 +9034,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 216-1](handlingar.tabeller/216-1.csv)
 
-| Energibalans<br>(MWh) | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Energibalans | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
+|  | CAS |  | MBR |  | AGS |  |
+| (MWh) | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Energianvändning: |  |  |  |  |  |  |
 | Elanvändning | 2 140 | 2 820 | 3 230 | 3 910 | 2 380 | 3 060 |
 | Värmeanvändning | 1140 | 0 | 1140 | 0 | 1140 | 0 |
@@ -9060,8 +9088,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 217-1](handlingar.tabeller/217-1.csv)
 
-| Energibalans<br>(MWh) | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Energibalans | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+| (MWh) | CAS | MBR | AGS |
 | Energianvändning: |  |  |  |
 | Elanvändning | 1 510 | 2 610 | 1 760 |
 | Energibalans (endast elanvändning) | 1 510 | 2 610 | 1 760 |
@@ -9069,8 +9098,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 217-2](handlingar.tabeller/217-2.csv)
 
-| Energibalans<br>(MWh) | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Energibalans | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+| (MWh) | Ozon + GAK | Ozon + Fluidiserad bädd |
 | Energianvändning: |  |  |
 | Elanvändning | 670 | 790 |
 | Energibalans (endast elanvändning) | 670 | 790 |
@@ -9121,8 +9151,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 219-1](handlingar.tabeller/219-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Klimatbalans | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | CAS |  | MBR |  | AGS |  |
+| (ton CO per år)<br>2e |  |  |  |  |  |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Emissioner: |  |  |  |  |  |  |
 | Direkta emissioner från företagsägda<br>bilar, reservkraft och värme | 13 | 13 | 13 | 13 | 13 | 13 |
@@ -9178,8 +9210,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 221-1](handlingar.tabeller/221-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Klimatbalans | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+| (ton CO per år)<br>2e | CAS | MBR | AGS |
 | Emissioner: |  |  |  |
 | Direkta emissioner från företagsägda<br>bilar, reservkraft och värme | 13 | 13 | 13 |
 | Direkta emissioner av N O<br>2 | 1 720 | 1 720 | 1 720 |
@@ -9227,8 +9260,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 222-1](handlingar.tabeller/222-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Klimatbalans | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+| (ton CO per år)<br>2e | Ozon + GAK | Ozon + Fluidiserad bädd |
 | Emissioner: |  |  |
 | Direkta emissioner från företagsägda<br>bilar, reservkraft och värme | 0 | 0 |
 | Direkta emissioner av N2O | 0 | 0 |
@@ -9288,9 +9322,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 223-2](handlingar.tabeller/223-2.csv)
 
-| Investeringsutgift<br>(tkr) | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Investeringsutgift | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
+|  | CAS |  | MBR |  | AGS |  |
+| (tkr) | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Initial investering | 1 708 000 | 1 920 000 | 1 605 000 | 1 818 000 | 1 615 000 | 1 828 000 |
 | Total investeringsutgift inkl.<br>reinvesteringar | 4 753 000 | 5 416 000 | 5 064 000 | 5 727 000 | 4 643 000 | 5 306 000 |
 
@@ -9317,8 +9352,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 224-1](handlingar.tabeller/224-1.csv)
 
-| Investeringsutgift<br>(tkr) | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Investeringsutgift | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+| (tkr) | CAS | MBR | AGS |
 | Initial investering | 1 178 000 | 1 085 000 | 1 075 000 |
 | Total investeringsutgift<br>inkl. reinvesteringar | 3 013 000 | 3 324 000 | 2 903 000 |
 
@@ -9343,8 +9379,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 225-1](handlingar.tabeller/225-1.csv)
 
-| Investeringsutgift (tkr) | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Investeringsutgift (tkr) | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+|  | Ozon + GAK | Ozon + Fluidiserad bädd |
 | Initial investering | 322 000 | 277 000 |
 | Total investeringsutgift inkl.<br>reinvesteringar | 1 006 000 | 869 000 |
 
@@ -9450,9 +9487,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 228-1](handlingar.tabeller/228-1.csv)
 
-| Typ av kostnad<br>(tkr) | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Typ av kostnad | Utbyggnadskoncept |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
+|  | CAS |  |  |  |  |  |
+| (tkr) | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Energi | 3 470 | 3 400 | 4 770 | 4 700 | 3 770 | 3 700 |
 | Kemikalier | 1 800 | 2 000 | 2 400 | 2 600 | 1 800 | 2 000 |
 | Personal | 700 | 400 | 700 | 400 | 700 | 400 |
@@ -9463,8 +9501,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 228-2](handlingar.tabeller/228-2.csv)
 
-| Typ av kostnad<br>(tkr) | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Typ av kostnad | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+| (tkr) |  |  | AGS |
 | Energi | 1 800 | 3 100 | 2 100 |
 | Kemikalier | 600 | 1 200 | 600 |
 | Rivning, år 1 | 1 396 | 2 792 |  |
@@ -9499,8 +9538,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 229-1](handlingar.tabeller/229-1.csv)
 
-| Typ av kostnad<br>(tkr) | Utbyggnadskoncept<br>Ozon + GAK-filter | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Typ av kostnad | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+| (tkr) | Ozon + GAK-filter | Ozon + Fluidiserad bädd |
 | Energi | 800 | 1 000 |
 | Kemikalier | 2 400 | 3 700 |
 | Analyser mikroföroreningar | 400 | 400 |
@@ -9509,9 +9549,10 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 229-2](handlingar.tabeller/229-2.csv)
 
-| Total kostnad, 50 år<br>(tkr) | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Total kostnad, 50 år | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
+|  | CAS |  | MBR |  | AGS |  |
+| (tkr) | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Total kostnad | 5 680 000 | 6 331 000 | 5 997 000 | 6 728 000 | 5 455 000 | 6 184 000 |
 
 <!-- sida 230 -->
@@ -9553,8 +9594,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 231-1](handlingar.tabeller/231-1.csv)
 
-| Total kostnad, 50 år<br>(tkr) | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Total kostnad, 50 år | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+| (tkr) | CAS | MBR | AGS |
 | Total kostnad | 3 577 000 | 3 996 000 | 3 453 000 |
 
 <!-- sida 232 -->
@@ -9602,8 +9644,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 233-1](handlingar.tabeller/233-1.csv)
 
-| Total kostnad, 50 år<br>(tkr) | Utbyggnadskoncept<br>Ozon + GAK-filter | Utbyggnadskoncept<br>Ozon + fluidiserad bädd |
+| Total kostnad, 50 år | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+| (tkr) | Ozon + GAK-filter | Ozon + fluidiserad bädd |
 | Total kostnad | 1 466 000 | 1 489 000 |
 
 <!-- sida 234 -->
@@ -9640,23 +9683,26 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 234-1](handlingar.tabeller/234-1.csv)
 
-| Ekonomi<br>(Mkr) | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Ekonomi | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
+|  |  |  |  |  | AGS |  |
+| (Mkr) | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Totala kostnader under 50 år | 5 680 | 6 331 | 5 997 | 6 728 | 5 455 | 6 184 |
 | Utvärdering (poäng) | 4,8 | 4,3 | 4,5 | 4,1 | 5,0 | 4,4 |
 
 [Tabell 234-2](handlingar.tabeller/234-2.csv)
 
-| Ekonomi<br>(Mkr) | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Ekonomi<br>(Mkr) | Utbyggnadskoncept | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
 | --- | --- | --- | --- |
+|  | CAS |  |  |
 | Totala kostnader under 50 år | 3 577 | 3 996 | 3 453 |
 | Utvärdering (poäng) | 4,8 | 4,3 | 5,0 |
 
 [Tabell 234-3](handlingar.tabeller/234-3.csv)
 
-| Ekonomi<br>(Mkr) | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Ekonomi | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept |
 | --- | --- | --- |
+| (Mkr) |  | Ozon + Fluidiserad bädd |
 | Totala kostnader under 50 år | 1 466 | 1 489 |
 | Utvärdering (poäng) | 5,0 | 4,9 |
 
@@ -9717,21 +9763,24 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 236-1](handlingar.tabeller/236-1.csv)
 
-| Redundans och flexibilitet | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Redundans och flexibilitet | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | AGS |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Utvärdering (poäng) | 5,0 | 5,0 | 4,5 | 4,5 | 5,0 | 5,0 |
 
 [Tabell 236-2](handlingar.tabeller/236-2.csv)
 
-| Redundans och flexibilitet | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Redundans och flexibilitet | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+|  |  |  | AGS |
 | Utvärdering (poäng) | 5,0 | 4,0 | 5,0 |
 
 [Tabell 236-3](handlingar.tabeller/236-3.csv)
 
-| Redundans och flexibilitet | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Redundans och flexibilitet | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept |
 | --- | --- | --- |
+|  |  | Ozon + Fluidiserad bädd |
 | Utvärdering (poäng) | 4,0 | 5,0 |
 
 <!-- sida 237 -->
@@ -9792,8 +9841,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 238-2](handlingar.tabeller/238-2.csv)
 
-| Drift och arbetsmiljö | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Drift och arbetsmiljö | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | AGS |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Utvärdering (poäng) | 5,0 | 4,5 | 4,5 | 4,0 | 4,5 | 4,0 |
 
@@ -9832,8 +9882,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 239-1](handlingar.tabeller/239-1.csv)
 
-| Drift och arbetsmiljö | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Drift och arbetsmiljö | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+|  | Ozon + GAK | Ozon + Fluidiserad bädd |
 | Utvärdering (poäng) | 5,0 | 3,5 |
 
 [Tabell 239-2](handlingar.tabeller/239-2.csv)
@@ -9871,15 +9922,17 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 240-1](handlingar.tabeller/240-1.csv)
 
-| Innovation | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Innovation | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | MBR |  | AGS |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Utvärdering (poäng) | 2,5 | 3,5 | 3,3 | 4,3 | 4,0 | 5,0 |
 
 [Tabell 240-2](handlingar.tabeller/240-2.csv)
 
-| Innovation | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Innovation | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+|  |  |  | AGS |
 | Utvärdering (poäng) | 2,0 | 3,5 | 5,0 |
 
 [Tabell 240-3](handlingar.tabeller/240-3.csv)
@@ -9929,8 +9982,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 241-1](handlingar.tabeller/241-1.csv)
 
-| Utvärderingsparameter | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Utvärderingsparameter | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | CAS |  | MBR |  | AGS |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Energi | 5,0 | 3,7 | 4,6 | 3,2 | 4,9 | 3,6 |
 | Klimat | 5,0 | 3,6 | 4,3 | 3,3 | 4,6 | 3,5 |
@@ -9969,8 +10023,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 242-1](handlingar.tabeller/242-1.csv)
 
-| Utvärderingsparameter | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Utvärderingsparameter | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+|  | CAS | MBR | AGS |
 | Energi | 5,0 | 2,9 | 4,3 |
 | Klimat | 5,0 | 4,3 | 4,6 |
 | Ekonomi | 4,8 | 4,3 | 5,0 |
@@ -9982,8 +10037,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 242-2](handlingar.tabeller/242-2.csv)
 
-| Utvärderingsparameter | Utbyggnadskoncept<br>Ozon + GAK | Utbyggnadskoncept<br>Ozon + Fluidiserad bädd |
+| Utvärderingsparameter | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+|  | Ozon + GAK | Ozon + Fluidiserad bädd |
 | Energi | 5,0 | 4,2 |
 | Klimat | 5,0 | 3,1 |
 | Ekonomi | 5,0 | 4,9 |
@@ -10038,8 +10094,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 243-2](handlingar.tabeller/243-2.csv)
 
-| Scenario | Utbyggnadskoncept<br>CAS |  | Utbyggnadskoncept<br>MBR |  | Utbyggnadskoncept<br>AGS |  |
+| Scenario | Utbyggnadskoncept |  | Utbyggnadskoncept |  | Utbyggnadskoncept |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | CAS |  | MBR |  | AGS |  |
 |  | Rötning | Pyrolys | Rötning | Pyrolys | Rötning | Pyrolys |
 | Nollscenario | 4,8 | 4,3 | 4,4 | 3,9 | 4,7 | 4,2 |
 | a) | 4,8 | 3,8 ¯ | 4,1 ¯ | 3,5 ¯ | 4,8 | 3,8 ¯ |
@@ -10061,8 +10118,9 @@ Mölndalsvägen 91• SE-412 65 Göteborg • Tel.: +46 74 32 43 88 • www.envi
 
 [Tabell 244-1](handlingar.tabeller/244-1.csv)
 
-| Scenario | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>MBR | Utbyggnadskoncept<br>AGS |
+| Scenario | Utbyggnadskoncept | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- | --- |
+|  | CAS | MBR | AGS |
 | Nollscenario | 4,8 | 3,9 | 4,6 |
 | a) | 4,8 | 4,0 | 4,7 |
 | c) | 4,8 | 4,0 | 4,7 |
@@ -10607,6 +10665,17 @@ konstateras utifrån resultatet.
 
 Tabell 5. Poängsättning för övergripande osäkerheter i investeringskalkyl för processalternativ CAS.
 
+CAS
+Sannolikhet Konsekvens Osäkerhet Kommentarer
+Fas 2 kostnad    890 800 169 kr               Bedöms separat
+Rivning utanför investering 1 396 125 kr      Finns bara i ena alternativet,
+bedöms ej.
+Projektering (Fas 1) (5%) 44 540 008 kr 3 1,1 3,4 5 % av investeringskostnad
+Index (2,5% årligen) 69 700 000 kr 4 1,8  7,2 Index antagen till 2,5 % årligen,
+Byggherrekostnader (3%) 30 193 089 kr 3 0,8 2,3 3 % av investeringskostnad
+Aktiva val, osäkerheter (5%) 50 321 815 kr 3 1,3 3,9 5 % av investeringskostnad
+Risker från lista (ca 10%) 92 248 000 kr      Bedöms separat
+
 Summa                                     16,8
 Osäkerhet (utan viktning)                 1,6
 
@@ -10621,21 +10690,17 @@ AGS
 | Komponentnivå | osäkerhet | Kvalitativ | 50 % |
 | Risklistan | osäkerhet | Kvalitativ | 25 % |
 
-[Tabell 267-2](handlingar.tabeller/267-2.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Fas 2 kostnad | 890 800 169 kr |  |  |  | Bedöms separat |
-| Rivning utanför investering | 1 396 125 kr |  |  |  | Finns bara i ena alternativet,<br>bedöms ej. |
-| Projektering (Fas 1) (5%) | 44 540 008 kr | 3 | 1,1 | 3,4 | 5 % av investeringskostnad |
-| Index (2,5% årligen) | 69 700 000 kr | 4 | 1,8 | 7,2 | Index antagen till 2,5 % årligen, |
-| Byggherrekostnader (3%) | 30 193 089 kr | 3 | 0,8 | 2,3 | 3 % av investeringskostnad |
-| Aktiva val, osäkerheter (5%) | 50 321 815 kr | 3 | 1,3 | 3,9 | 5 % av investeringskostnad |
-| Risker från lista (ca 10%) | 92 248 000 kr |  |  |  | Bedöms separat |
-
 <!-- sida 268 -->
 
+Kostnad        Sannolikhet Konsekvens Osäkerhet Kommentarer
+Fas 2 kostnad      814485538 kr              Bedöms separat
+Rivning utanför investering                  Finns bara i ena alternativet, bedöms
+ej.
+Projektering (Fas 1) (5%) 40 724 277 3 1,2 3,5 5 % av investeringskostnad
+Index (2,5% årligen) 60 600 000 4  1,7   6,9 Index antagen till 2,5 % årligen,
+Byggherrekostnader (3%) 27 474 294 3 0,8 2,4 3 % av investeringskostnad
+Aktiva val, osäkerheter (5%) 45 790 491 3 1,3 3,9 5 % av investeringskostnad
+Risker från lista (ca 10%) 86 160 000        Bedöms separat
 Summa              1 075 234 600         16,7
 Osäkerhet (utan viktning)                1,7
 
@@ -10678,27 +10743,42 @@ anläggningar och industrier. Kostnadsbedömningarna påvisar att de antagna sum
 procentsatsena sannolikt är högt kalkylerade. Dock har ingen noggrannare kalkyl för VS, Vent, EL/styr
 utförts då det i nuläget saknas detaljerat kalkylunderlag.
 
-[Tabell 268-1](handlingar.tabeller/268-1.csv)
-
-| Kostnad |  | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| --- | --- | --- | --- | --- | --- |
-| Fas 2 kostnad | 814485538 kr |  |  |  | Bedöms separat |
-| Rivning utanför investering |  |  |  |  | Finns bara i ena alternativet, bedöms<br>ej. |
-| Projektering (Fas 1) (5%) | 40 724 277 | 3 | 1,2 | 3,5 | 5 % av investeringskostnad |
-| Index (2,5% årligen) | 60 600 000 | 4 | 1,7 | 6,9 | Index antagen till 2,5 % årligen, |
-| Byggherrekostnader (3%) | 27 474 294 | 3 | 0,8 | 2,4 | 3 % av investeringskostnad |
-| Aktiva val, osäkerheter (5%) | 45 790 491 | 3 | 1,3 | 3,9 | 5 % av investeringskostnad |
-| Risker från lista (ca 10%) | 86 160 000 |  |  |  | Bedöms separat |
-
 <!-- sida 269 -->
 
 Tabell 7. Poängsättning för komponentfördelade osäkerheter i investeringskalkyl för processalternativ CAS.
-
+CAS
+813 516 136 Sannolikhet Konsekvens Osäkerhet Kommentarer
+Markentreprenör 158 618 312 4  1,0    3,9 Sannolikhet och konsekvens högre pga
+mer markarbete nära järnväg
+Rivningsentreprenör 12 125 000 3 0,1  0,2 Rivning likvärdig i båda alternativen,
+Betongentreprenader 144 620 000 3 0,9 2,7 Mer prefab, mindre osäkerheter i
+utförandet
+Stålstommar,entreprenör 60 200 000 3 0,4 1,1 Ingen skillnad
+Rörentreprenad  18 000 000 4   0,1    0,4 Ingen skillnad
+Ventilationsentreprenad 23 000 000 4 0,1 0,6 Ingen skillnad
+El-entreprenad  90 000 000 4   0,6    2,2 Ingen skillnad
+Process & Maskin 111 952 824 2 0,7    1,4 Ingen skillnad
+Arbetsplatsomkostnader 160 000 000 5 1,0 4,9
+Tillfälliga installationer, 35 000 000 3 0,2 0,6 Ingen skillnad
+provisorier
 Summa            813 516 136          18,1
 Osäkerhet (utan viktning)              1,4
 
 Tabell 8. Poängsättning för komponentfördelade osäkerheter i investeringskalkyl för processalternativ AGS.
+AGS
 
+743822409 Sannolikhet Konsekvens Osäkerhet Kommentarer
+Markentreprenör  123 175 289 3    0,8    2,5
+Rivningsentreprenör 13 400 000 3  0,1    0,3
+Betongentreprenader 121 420 000 4 0,8    3,3
+Stålstommar,entreprenör 57 500 000 3 0,4 1,2 Ingen skillnad
+Rörentreprenad   18 000 000 4     0,1    0,5 Ingen skillnad
+Ventilationsentreprenad 23 000 000 4 0,2 0,6 Ingen skillnad
+El-entreprenad   90 000 000 4     0,6    2,4 Ingen skillnad
+Process & Maskin 117 327 120 2    0,8    1,6 Ingen skillnad
+Arbetsplatsomkostnader 150 000 000 5 1,0 5,0
+Tillfälliga installationer, 30 000 000 3 0,2 0,6 Ingen skillnad
+provisorier
 Summa             743 822 409            17,9
 Osäkerhet (utan viktning)                 1,4
 
@@ -10713,88 +10793,94 @@ subtraheras från 5, som är maxpoäng i processvalsstudiens utvärderingsmodell
 marginellt större osäkerhet för processalternativ CAS. Dock är skillnaderna så små, att ingen säker
 slutsats kan konstateras utifrån resultatet.
 
-[Tabell 269-1](handlingar.tabeller/269-1.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 813 516 136 | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Markentreprenör | 158 618 312 | 4 | 1,0 | 3,9 | Sannolikhet och konsekvens högre pga<br>mer markarbete nära järnväg |
-| Rivningsentreprenör | 12 125 000 | 3 | 0,1 | 0,2 | Rivning likvärdig i båda alternativen, |
-| Betongentreprenader | 144 620 000 | 3 | 0,9 | 2,7 | Mer prefab, mindre osäkerheter i<br>utförandet |
-| Stålstommar,entreprenör | 60 200 000 | 3 | 0,4 | 1,1 | Ingen skillnad |
-| Rörentreprenad | 18 000 000 | 4 | 0,1 | 0,4 | Ingen skillnad |
-| Ventilationsentreprenad | 23 000 000 | 4 | 0,1 | 0,6 | Ingen skillnad |
-| El-entreprenad | 90 000 000 | 4 | 0,6 | 2,2 | Ingen skillnad |
-| Process & Maskin | 111 952 824 | 2 | 0,7 | 1,4 | Ingen skillnad |
-| Arbetsplatsomkostnader | 160 000 000 | 5 | 1,0 | 4,9 |  |
-| Tillfälliga installationer,<br>provisorier | 35 000 000 | 3 | 0,2 | 0,6 | Ingen skillnad |
-
-[Tabell 269-2](handlingar.tabeller/269-2.csv)
-
-| AGS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | 743822409 | Sannolikhet | Konsekvens | Osäkerhet | Kommentarer |
-| Markentreprenör | 123 175 289 | 3 | 0,8 | 2,5 |  |
-| Rivningsentreprenör | 13 400 000 | 3 | 0,1 | 0,3 |  |
-| Betongentreprenader | 121 420 000 | 4 | 0,8 | 3,3 |  |
-| Stålstommar,entreprenör | 57 500 000 | 3 | 0,4 | 1,2 | Ingen skillnad |
-| Rörentreprenad | 18 000 000 | 4 | 0,1 | 0,5 | Ingen skillnad |
-| Ventilationsentreprenad | 23 000 000 | 4 | 0,2 | 0,6 | Ingen skillnad |
-| El-entreprenad | 90 000 000 | 4 | 0,6 | 2,4 | Ingen skillnad |
-| Process & Maskin | 117 327 120 | 2 | 0,8 | 1,6 | Ingen skillnad |
-| Arbetsplatsomkostnader | 150 000 000 | 5 | 1,0 | 5,0 |  |
-| Tillfälliga installationer,<br>provisorier | 30 000 000 | 3 | 0,2 | 0,6 | Ingen skillnad |
-
 <!-- sida 270 -->
 
 Tabell 9. Poängsättning för osäkerheter i risklistan för processalternativ CAS.
+CAS
 
+Beskrivning av Åtgärd / Förtydligande      Sannolikhet Konsekvens Osäkerhet
+riskmoment
+82 248 000
+Åtgärder järnväg Behöver vi sponta längs hela tex? 10 Mkr i 10 000 000 3 0,6 1,8
+kalkyl, 10 Mkr i risk
+Sprängning  Har i budget lagt in hälften av tidigare 13 000 000 3 0,8 2,4
+bedömd kostnad för att spränga allt berg
+inom tomten åt norr. Ingen sprängning ligger
+med i budget för övriga delar av tomten.
+Spontning   Grov uppskattning utifrån nyckeltal med i 4 344 000 3 0,3 0,8
+budget. 20% i risk.
+Pålning     Grov uppskattning utifrån nyckeltal med i 6 904 000 3 0,4 1,3
+budget. 20% i risk.
+Ledningar   Utgått från att ledningar i Envidans underlag 3 500 000 3 0,2 0,6
+är ledningar i mark. Svårt att veta i dagsläget
+vad som kan samförläggas och ej, samt
+schaktdjup och materialkvalitet. 10% risk.
+Innovation  Innovativa val / tillkommande som vi inte vet 8 000 000 3 0,5 1,5
+om idag. 1%
+Hållbarhet  Hållbara val som inte ryms inom satta 8 000 000 3 0,5 1,5
+nyckeltal. 1%
+Byggbarhet  MBR-alternativet är ur denna synvinkel mest 5 000 000 3 0,3 0,9
+komplex då vattnets väg byter riktning.
+AGS-alternativet - finns få referenser i
+Norden.
+CAS-alternativet - trångt inom tomt.
+Processalternativ Risk på process i resp alternativ. 10 000 000 2 0,6 1,2
+Öppna bassänger Ej räknat att bygga in några bassänger där 6 500 000 3 0,4 1,2
+inte Envidan skrivit överbyggnad. Finns det
+risk att tex nya sedimenteringar behöver
+byggas in? Och även bef?
+Ytterligare bassänger Om ytterligare bassänger tillkommer för 5 000 000 3 0,3 0,9
+processalternativ
+Rivning     Budgetpris från entreprenör grovt 2 000 000 3 0,1 0,4
+uppskattad.
 Summa                                                      14,4
 Osäkerhet (utan                                             3,8
 viktning)
 
-[Tabell 270-1](handlingar.tabeller/270-1.csv)
-
-| CAS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Beskrivning av<br>riskmoment | Åtgärd / Förtydligande | 82 248 000 | Sannolikhet | Konsekvens | Osäkerhet |
-| Åtgärder järnväg | Behöver vi sponta längs hela tex? 10 Mkr i<br>kalkyl, 10 Mkr i risk | 10 000 000 | 3 | 0,6 | 1,8 |
-| Sprängning | Har i budget lagt in hälften av tidigare<br>bedömd kostnad för att spränga allt berg<br>inom tomten åt norr. Ingen sprängning ligger<br>med i budget för övriga delar av tomten. | 13 000 000 | 3 | 0,8 | 2,4 |
-| Spontning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk. | 4 344 000 | 3 | 0,3 | 0,8 |
-| Pålning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk. | 6 904 000 | 3 | 0,4 | 1,3 |
-| Ledningar | Utgått från att ledningar i Envidans underlag<br>är ledningar i mark. Svårt att veta i dagsläget<br>vad som kan samförläggas och ej, samt<br>schaktdjup och materialkvalitet. 10% risk. | 3 500 000 | 3 | 0,2 | 0,6 |
-| Innovation | Innovativa val / tillkommande som vi inte vet<br>om idag. 1% | 8 000 000 | 3 | 0,5 | 1,5 |
-| Hållbarhet | Hållbara val som inte ryms inom satta<br>nyckeltal. 1% | 8 000 000 | 3 | 0,5 | 1,5 |
-| Byggbarhet | MBR-alternativet är ur denna synvinkel mest<br>komplex då vattnets väg byter riktning.<br>AGS-alternativet - finns få referenser i<br>Norden.<br>CAS-alternativet - trångt inom tomt. | 5 000 000 | 3 | 0,3 | 0,9 |
-| Processalternativ | Risk på process i resp alternativ. | 10 000 000 | 2 | 0,6 | 1,2 |
-| Öppna bassänger | Ej räknat att bygga in några bassänger där<br>inte Envidan skrivit överbyggnad. Finns det<br>risk att tex nya sedimenteringar behöver<br>byggas in? Och även bef? | 6 500 000 | 3 | 0,4 | 1,2 |
-| Ytterligare bassänger | Om ytterligare bassänger tillkommer för<br>processalternativ | 5 000 000 | 3 | 0,3 | 0,9 |
-| Rivning | Budgetpris från entreprenör grovt<br>uppskattad. | 2 000 000 | 3 | 0,1 | 0,4 |
-
 <!-- sida 271 -->
 
 Tabell 10. Poängsättning för osäkerheter i risklistan för processalternativ AGS.
+AGS
 
+Beskrivning av riskmoment Åtgärd / Förtydligande Sannolikhet Konsekvens Osäkerhet
+86 160 000
+Åtgärder järnväg Behöver vi sponta längs hela tex? 10 Mkr i 10 000 000 3 0,6 1,7
+kalkyl, 10 Mkr i risk
+Sprängning    Har i budget lagt in hälften av tidigare 13 000 000 3 0,8 2,3
+bedömd kostnad för att spränga allt berg
+inom tomten åt norr. Ingen sprängning
+ligger med i budget för övriga delar av
+tomten.
+Spontning     Grov uppskattning utifrån nyckeltal med i 3 590 000 3 0,2 0,6
+budget. 20% i risk?
+
+Pålning       Grov uppskattning utifrån nyckeltal med i 5 070 000 3 0,3 0,9
+budget. 20% i risk?
+Ledningar     Utgått från att ledningar i Envidans underlag 2 500 000 3 0,1 0,4
+är ledningar i mark. Svårt att veta i dagsläget
+vad som kan samförläggas och ej, samt
+schaktdjup och materialkvalitet. 10% risk.
+Innovation    Innovativa val / tillkommande som vi inte 7 500 000 3 0,4 1,3
+vet om idag. 1%
+
+Hållbarhet    Hållbara val som inte ryms inom satta 7 500 000 3 0,4 1,3
+nyckeltal. 1%
+Byggbarhet    MBR-alternativet är ur denna synvinkel mest 5 000 000 3 0,3 0,9
+komplex då vattnets väg byter riktning.
+AGS-alternativet - finns få referenser i
+Norden.
+CAS-alternativet - trångt inom tomt.
+Processalternativ Risk på process i resp alternativ. 20 000 000 2 1,2 2,3
+Öppna bassänger Ej räknat att bygga in några bassänger där 5 000 000 3 0,3 0,9
+inte Envidan skrivit överbyggnad. Finns det
+risk att tex nya sedimenteringar behöver
+byggas in? Och även bef?
+Ytterligare bassänger Om ytterligare bassänger tillkommer för 5 000 000 3 0,3 0,9
+processalternativ
+Rivning       Budgetpris från entreprenör grovt 2 000 000 3 0,1 0,3
+uppskattad.
 Summa                                                      13,8
 Osäkerhet (utan viktning)                                   3,8
-
-[Tabell 271-1](handlingar.tabeller/271-1.csv)
-
-| AGS |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Beskrivning av riskmoment | Åtgärd / Förtydligande | 86 160 000 | Sannolikhet | Konsekvens | Osäkerhet |
-| Åtgärder järnväg | Behöver vi sponta längs hela tex? 10 Mkr i<br>kalkyl, 10 Mkr i risk | 10 000 000 | 3 | 0,6 | 1,7 |
-| Sprängning | Har i budget lagt in hälften av tidigare<br>bedömd kostnad för att spränga allt berg<br>inom tomten åt norr. Ingen sprängning<br>ligger med i budget för övriga delar av<br>tomten. | 13 000 000 | 3 | 0,8 | 2,3 |
-| Spontning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk? | 3 590 000 | 3 | 0,2 | 0,6 |
-| Pålning | Grov uppskattning utifrån nyckeltal med i<br>budget. 20% i risk? | 5 070 000 | 3 | 0,3 | 0,9 |
-| Ledningar | Utgått från att ledningar i Envidans underlag<br>är ledningar i mark. Svårt att veta i dagsläget<br>vad som kan samförläggas och ej, samt<br>schaktdjup och materialkvalitet. 10% risk. | 2 500 000 | 3 | 0,1 | 0,4 |
-| Innovation | Innovativa val / tillkommande som vi inte<br>vet om idag. 1% | 7 500 000 | 3 | 0,4 | 1,3 |
-| Hållbarhet | Hållbara val som inte ryms inom satta<br>nyckeltal. 1% | 7 500 000 | 3 | 0,4 | 1,3 |
-| Byggbarhet | MBR-alternativet är ur denna synvinkel mest<br>komplex då vattnets väg byter riktning.<br>AGS-alternativet - finns få referenser i<br>Norden.<br>CAS-alternativet - trångt inom tomt. | 5 000 000 | 3 | 0,3 | 0,9 |
-| Processalternativ | Risk på process i resp alternativ. | 20 000 000 | 2 | 1,2 | 2,3 |
-| Öppna bassänger | Ej räknat att bygga in några bassänger där<br>inte Envidan skrivit överbyggnad. Finns det<br>risk att tex nya sedimenteringar behöver<br>byggas in? Och även bef? | 5 000 000 | 3 | 0,3 | 0,9 |
-| Ytterligare bassänger | Om ytterligare bassänger tillkommer för<br>processalternativ | 5 000 000 | 3 | 0,3 | 0,9 |
-| Rivning | Budgetpris från entreprenör grovt<br>uppskattad. | 2 000 000 | 3 | 0,1 | 0,3 |
 
 <!-- sida 272 -->
 
@@ -10838,8 +10924,9 @@ samma slutsats.
 
 [Tabell 272-1](handlingar.tabeller/272-1.csv)
 
-| Osäkerhetsparameter | Utbyggnadskoncept<br>CAS | Utbyggnadskoncept<br>AGS |
+| Osäkerhetsparameter | Utbyggnadskoncept | Utbyggnadskoncept |
 | --- | --- | --- |
+|  | CAS | AGS |
 | Översiktnivå | 1,6 | 1,7 |
 | Komponentnivå | 1,4 | 1,4 |
 | Risklistan | 3,8 | 3,9 |
@@ -11163,7 +11250,6 @@ byggas eller ej.
 
 Tabell 0.1 Sammanställning av de viktigaste parametrarna i design av utbyggnadskoncepten för rening av
 mikroföroreningar.
-Parametrar         Enhet                Ozon + GAK-filter
 
 Slamhantering (rötningsalternativet)
 Primärslamuttag från försedimentering samt slam från högflödesrening tillförs råslamlager.
@@ -11175,8 +11261,9 @@ antas spädas till cirka 5% TS.
 
 [Tabell 282-1](handlingar.tabeller/282-1.csv)
 
-| Uppehållstid vid Q<br>dim | min | 15 |
+| Parametrar | Enhet | Ozon + GAK-filter |
 | --- | --- | --- |
+| Uppehållstid vid Q<br>dim | min | 15 |
 | Vattennivå | m | 5 |
 | Ozonbehov vid Q<br>adwf | kg O /d<br>3 | 85 |
 | Ozonbehov vid Q<br>dim | kg O /d<br>3 | 289 |
@@ -11198,6 +11285,12 @@ Massflöden av slam till slambehandlingen som använts för utvärderingen.
 Från        Från
 Från yttre verk Summerat
 försedimentering överskottslam
+Medelslammängder kg TS/d 3414 2672     1370      7457
+för beräkningar år
+2050
+Medelslammängder kg TS/d 2615 2047     1370      6033
+för beräkningar år
+2037
 
 Summerat ger detta en årsmängd på 2722 ton TS per år som runt 2050 skall genomgå
 slambehandling. Som grund i jämförelsen antas att slammängderna från de andra
@@ -11213,12 +11306,6 @@ har gjorts och bedömts rimligt i detta skede.
 | Kg TS/d | 2615 | 3414 | 2047 | 2672 | 1370 | 1370 | 6032 | 7457 |
 | Antagen TS-halt<br>(%) | 2,25 | 2,25 | 1 | 1 | 5 | 5 | 0,94 | 0,94 |
 | m³/d | 116 | 152 | 205 | 267 | 27,7 | 27,4 | 348 | 446 |
-
-[Tabell 283-2](handlingar.tabeller/283-2.csv)
-
-| Medelslammängder<br>för beräkningar år<br>2050 | kg TS/d | 3414 | 2672 | 1370 | 7457 |
-| --- | --- | --- | --- | --- | --- |
-| Medelslammängder<br>för beräkningar år<br>2037 | kg TS/d | 2615 | 2047 | 1370 | 6033 |
 
 <!-- sida 284 -->
 
@@ -20580,31 +20667,6 @@ anläggningar och höga hus, är räddningsinsatsens genomförande helt beroende
 till tekniska system och insatsstöd i form av exempelvis insatsplaner.
 
 Tabell 11. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand i byggnad.
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att söka efter och rädda personer i tät brandrök,
-\-  att genomföra utvändig och invändig släckinsats för att bekämpa
-brand,
-\-  att assistera utrymning av personer från utrymningsplatser ur
-brinnande byggnader,
-\-  att assistera utrymning av personer ur brinnande byggnad
-utvändigt via fönster eller balkong med stegutrustning.
-Förmågan Brand i byggnad förutsätter att brandvatten-
-Brand i byggnad
-försörjningen i det kommunala brandpostnätet är utformat efter
-P11483.
-För närmare information om när räddningstjänstens förmåga att
-assistera utrymning av personer ur brinnande byggnad via
-fönster eller balkong med stegutrustning kan ersätta en
-utrymningsväg hänvisas till Råd och anvisning nr 11084.
-Redovisningen i detta dokument kan inte åberopas som underlag
-för en brandteknisk dimensionering.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-\-  att kunna försörja pågående insats med extra andningsluft,
-Depå                -  att försörja pågående insats med dryck och mat,
-\-  att försörja pågående insats med bränsle och materiel.
 
 8.2.2 Brand utomhus
 
@@ -20612,47 +20674,30 @@ Samtliga heltids- och RiB-styrkor kan bekämpa bränder utomhus (Tabell 12).
 
 Tabell 12. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid brand utomhus.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att bekämpa gräsbrand på äng, i vägslänter, mindre fält,
-Brand i skog och mark
-\-  att genomföra släckning av brand i skog och mark.
-\-  att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,
-spårvagn, järnvägsvagn utomhus, eller annat mindre fristående
-objekt,
-Brand i fordon och andra fristående
-\-  att, i livräddande syfte, släcka brand i fordon i tunnel,
-objekt
-undermarksanläggning eller liknande med hänsyn till
-begränsningar och förutsättningar på grund av anläggningens
-utformning.
-
 83 Svenskt Vatten, 2020. P114 - Distribution av dricksvatten. Stockholm: Svenskt Vatten
 84 RSG, 2017. Råd och anvisning nr 110 – Räddningstjänstens insatstid och förmåga. http://www.rsgbg.se/foretag--
 organisation/rad-och-anvisningar/
 
 57 (70)
 
+[Tabell 503-1](handlingar.tabeller/503-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att söka efter och rädda personer i tät brandrök,<br>- att genomföra utvändig och invändig släckinsats för att bekämpa<br>brand,<br>- att assistera utrymning av personer från utrymningsplatser ur<br>brinnande byggnader,<br>- att assistera utrymning av personer ur brinnande byggnad<br>utvändigt via fönster eller balkong med stegutrustning.<br>Förmågan Brand i byggnad förutsätter att brandvatten-<br>Brand i byggnad<br>försörjningen i det kommunala brandpostnätet är utformat efter<br>P11483.<br>För närmare information om när räddningstjänstens förmåga att<br>assistera utrymning av personer ur brinnande byggnad via<br>fönster eller balkong med stegutrustning kan ersätta en<br>utrymningsväg hänvisas till Råd och anvisning nr 11084.<br>Redovisningen i detta dokument kan inte åberopas som underlag<br>för en brandteknisk dimensionering. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+| - att kunna försörja pågående insats med extra andningsluft,<br>Depå - att försörja pågående insats med dryck och mat,<br>- att försörja pågående insats med bränsle och materiel. |  |
+
+[Tabell 503-2](handlingar.tabeller/503-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att bekämpa gräsbrand på äng, i vägslänter, mindre fält,<br>Brand i skog och mark<br>- att genomföra släckning av brand i skog och mark. |  |
+| - att släcka brand i personbil, minibuss, arbetsfordon, buss, lastbil,<br>spårvagn, järnvägsvagn utomhus, eller annat mindre fristående<br>objekt,<br>Brand i fordon och andra fristående<br>- att, i livräddande syfte, släcka brand i fordon i tunnel,<br>objekt<br>undermarksanläggning eller liknande med hänsyn till<br>begränsningar och förutsättningar på grund av anläggningens<br>utformning. |  |
+
 <!-- sida 504 -->
 
 Handlingsprogram enligt LSO 2024
-
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att släcka brand i mindre fritidsbåt förtöjd vid kaj,
-\-  att genomföra insats för livräddning av enstaka personer i
-Brand i fartyg
-brandpåverkat utrymme eller genomföra släckinsats vid brand i
-fartyg förtöjt vid kaj.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-\-  att kunna försörja pågående insats med extra andningsluft,
-Depå                -  att försörja pågående insats med dryck och mat,
-\-  att försörja pågående insats med bränsle och materiel.
-\-  att genomföra transport av materiel eller personal i väglös
-Terrängtransport       terräng eller på väg med begränsad framkomlighet med MC,
-bandvagn eller annat terrängfordon.
 
 8.2.3 Trafikolycka
 
@@ -20662,35 +20707,32 @@ med specialförmåga (nivå 2 och 3). (Tabell 13)
 
 Tabell 13. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid trafikolycka.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\-  att spärra av och säkra olycksplatsen mot följdolyckor och brand,
-\-  att snabbt frigöra fastklämda personer från fordon (personbil,
-Trafikolycka           buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt
-sjukvårdsomhändertagande,
-\-  att stabilisera/säkra fordon vid instabilitet.
-\-  att genomföra losstagning, lyft och säkring vid olyckor med buss,
-Trafikolycka, nivå 3
-tåg, lastbil och andra tunga fordon.
-\-  att genomföra räddningsinsatser vid trafikolyckor där tunga
-fordon är inblandade såsom lastbilar, bussar och tåg,
-Resurs för ras och tungräddning
-\-  att genomföra räddningsinsatser vid byggnadskollapser genom
-(RTR)
-stabiliserande åtgärder och att söka efter personer vid dessa
-händelser.
-Spårvagnslyft       -  att utföra lyft av spårvagn för losstagning av enstaka personer.
-\-  att vid händelse på anläggningar för tågtrafik kunna spännings-
-Arbetsjordning
-prova och utföra arbetsjordning på anläggningen.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 8.2.4 Olycka med farliga ämnen
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
+
 av enstaka personer. För mer komplicerade räddningsinsatser, brand i brandfarliga
 
 58 (70)
+
+[Tabell 504-1](handlingar.tabeller/504-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att släcka brand i mindre fritidsbåt förtöjd vid kaj,<br>- att genomföra insats för livräddning av enstaka personer i<br>Brand i fartyg<br>brandpåverkat utrymme eller genomföra släckinsats vid brand i<br>fartyg förtöjt vid kaj. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+| - att kunna försörja pågående insats med extra andningsluft,<br>Depå - att försörja pågående insats med dryck och mat,<br>- att försörja pågående insats med bränsle och materiel. |  |
+| - att genomföra transport av materiel eller personal i väglös<br>Terrängtransport terräng eller på väg med begränsad framkomlighet med MC,<br>bandvagn eller annat terrängfordon. |  |
+
+[Tabell 504-2](handlingar.tabeller/504-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att spärra av och säkra olycksplatsen mot följdolyckor och brand,<br>- att snabbt frigöra fastklämda personer från fordon (personbil,<br>Trafikolycka buss, lastbil, spårvagn och tåg) för att möjliggöra ett snabbt<br>sjukvårdsomhändertagande,<br>- att stabilisera/säkra fordon vid instabilitet. |  |
+| - att genomföra losstagning, lyft och säkring vid olyckor med buss,<br>Trafikolycka, nivå 3<br>tåg, lastbil och andra tunga fordon. |  |
+| - att genomföra räddningsinsatser vid trafikolyckor där tunga<br>fordon är inblandade såsom lastbilar, bussar och tåg,<br>Resurs för ras och tungräddning<br>- att genomföra räddningsinsatser vid byggnadskollapser genom<br>(RTR)<br>stabiliserande åtgärder och att söka efter personer vid dessa<br>händelser. |  |
+| Spårvagnslyft - att utföra lyft av spårvagn för losstagning av enstaka personer. |  |
+| - att vid händelse på anläggningar för tågtrafik kunna spännings-<br>Arbetsjordning<br>prova och utföra arbetsjordning på anläggningen. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 505 -->
 
@@ -20698,79 +20740,24 @@ Handlingsprogram enligt LSO 2024
 
 produkter, utsläpp av farliga ämnen mm krävs förstärkning från räddningsstyrkor med
 specialförmåga (nivå 2 och 3). (Tabell 14)
-
 Tabell 14. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid olycka med farligt ämne.
 
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-Brand i brandfarlig vätska och gas
-
-Farliga ämnen
-
-Farliga ämnen, nivå 2 (indikering)
-
-Farliga ämnen, nivå 3 (kem 3)
-
-Farliga ämnen, kemenhet
-
-Avancerad Indikering
-
-Sanering
-
-Förstärkt resurs för brand i
-brandfarlig vätska
-
-Storskalig oljebrandsläckning (SMC)
-
-UAS - Unmanned Aerial System
-
-\- att snabbt rädda enstaka personer som befinner sig i fara i
-område med brandfarlig vätska eller gas,
-\- att släcka brand i spill av olja eller polär produkt från tankbil eller
-järnvägsvagn,
-\- att släcka brand i mindre cistern med olja eller polär produkt,
-\- att kyla hotad cistern vid brand i cistern för brandfarlig vara.
-\- att snabbt rädda enstaka personer som befinner sig i område
-med farliga ämnen,
-\- att genomföra livräddande sanering av enstaka personer,
-\- att indikera brännbar atmosfär och annan farlig miljö,
-\- att akut begränsa skadeutbredningen genom övertäckning,
-uppsamling, och nedtvättning.
-\- att indikera riskområde för vanligt förekommande
-industrikemikalier
-\- att genomföra insats i område/utrymme med farliga ämnen
-\- att begränsa skadeutbredning genom tätning, övertäckning,
-uppsamling, impaktering, överpumpning, kylning och
-nedtvättning.
-
-\- att vara en nationell resurs för keminsatser vid olyckor med
-farliga ämnen med avancerad utrustning och specialutbildad
-personal. De kan bland annat pumpa och samla upp kemikalier,
-impaktera giftiga kondenserade gaser, täta läckage, indikera
-gaser och vätskor.
-Förmågan regleras genom avtal mellan RSG och MSB.
-\- att vara en nationell resurs vid olyckor med farliga ämnen,
-genom att kunna identifiera ett okänt ämne.
-
-Förmågan regleras genom avtal mellan RSG och MSB
-
-\- att vara en nationell resurs för sanering av flera kontaminerade
-personer vid olyckor med farliga ämnen.
-Förmågan regleras genom avtal mellan RSG och MSB
-
-\- att möjliggöra kylning med vatten och släckförmåga med skum
-för större bränder i brandfarlig vätska med hjälp av skumbilar,
-storpump, slang och armaturer.
-\- att självständigt eller med hjälp av andra SMC-enheter släcka
-större bränder i oljedepåer.
-
-Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen
-(SMC).
-\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-genomförande av räddningsinsatsen i form av bild och film från
-ovan.
-
 59 (70)
+
+[Tabell 505-1](handlingar.tabeller/505-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att snabbt rädda enstaka personer som befinner sig i fara i<br>område med brandfarlig vätska eller gas,<br>- att släcka brand i spill av olja eller polär produkt från tankbil eller<br>Brand i brandfarlig vätska och gas<br>järnvägsvagn,<br>- att släcka brand i mindre cistern med olja eller polär produkt,<br>- att kyla hotad cistern vid brand i cistern för brandfarlig vara. |  |
+| - att snabbt rädda enstaka personer som befinner sig i område<br>med farliga ämnen,<br>- att genomföra livräddande sanering av enstaka personer,<br>Farliga ämnen<br>- att indikera brännbar atmosfär och annan farlig miljö,<br>- att akut begränsa skadeutbredningen genom övertäckning,<br>uppsamling, och nedtvättning. |  |
+| - att indikera riskområde för vanligt förekommande<br>Farliga ämnen, nivå 2 (indikering)<br>industrikemikalier |  |
+| - att genomföra insats i område/utrymme med farliga ämnen<br>- att begränsa skadeutbredning genom tätning, övertäckning,<br>Farliga ämnen, nivå 3 (kem 3) uppsamling, impaktering, överpumpning, kylning och<br>nedtvättning. |  |
+| - att vara en nationell resurs för keminsatser vid olyckor med<br>farliga ämnen med avancerad utrustning och specialutbildad<br>personal. De kan bland annat pumpa och samla upp kemikalier,<br>impaktera giftiga kondenserade gaser, täta läckage, indikera<br>Farliga ämnen, kemenhet<br>gaser och vätskor.<br>Förmågan regleras genom avtal mellan RSG och MSB. |  |
+| - att vara en nationell resurs vid olyckor med farliga ämnen,<br>genom att kunna identifiera ett okänt ämne.<br>Avancerad Indikering<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att vara en nationell resurs för sanering av flera kontaminerade<br>personer vid olyckor med farliga ämnen.<br>Sanering<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att möjliggöra kylning med vatten och släckförmåga med skum<br>Förstärkt resurs för brand i för större bränder i brandfarlig vätska med hjälp av skumbilar,<br>brandfarlig vätska storpump, slang och armaturer. |  |
+| - att självständigt eller med hjälp av andra SMC-enheter släcka<br>större bränder i oljedepåer.<br>Storskalig oljebrandsläckning (SMC)<br>Förmågan regleras genom avtal mellan RSG och Släckmedelscentralen<br>(SMC). |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 506 -->
 
@@ -20787,45 +20774,12 @@ statlig räddningstjänst till havs.
 Group)
 Förmågan regleras genom avtal mellan RSG och Sjöfartsverket samt
 Kustbevakningen.
-
 8.2.5 Naturolycka
-
 Samtliga heltids- och RiB-styrkor kan spärra av och säkra olycksplatsen samt utföra räddning
 av enstaka personer. För mer komplicerade räddningsinsatser vid naturolyckor krävs
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 15)
 
 Tabell 15. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid naturolyckor.
-
-Område
-
-Resurs för ras och tung räddning
-(RTR)
-
-Terrängtransport
-
-Nationell förstärkningsresurs för
-urban sök- och räddning (NUSAR)
-
-UAS - Unmanned Aerial System
-
-Förmåga och nyckeluppgifter som omfattas av
-
-\- att genomföra räddningsinsatser vid naturolyckor där tunga
-fordon är inblandade såsom lastbilar, bussar och tåg,
-\- att genomföra räddningsinsatser vid byggnadskollapser vid
-naturolyckor genom stabiliserande åtgärder och att söka efter
-personer vid dessa händelser
-\- att genomföra transport av materiel eller personal i väglös
-terräng eller på väg med begränsad framkomlighet med MC,
-bandvagn eller annat terrängfordon.
-\- att vara en nationell sök- och räddningsresurs för att söka efter
-och rädda människor vid stora komplexa räddningsinsatser med
-kollapsade byggnadskonstruktioner, orsakade av till exempel
-naturkatastrofer, olyckor, terrordåd eller krig.
-Förmågan regleras genom avtal mellan RSG och MSB
-\- att med hjälp av liten fjärrstyrd flygfarkost samla information för
-genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 
 8.2.6 Drunkning
 
@@ -20834,36 +20788,31 @@ komplicerade räddningsinsatser med behov av vattendykare, större båt etc. kr�
 förstärkning från räddningsstyrkor med specialförmåga (nivå 2 och 3). (Tabell 16)
 
 Tabell 16. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid drunkning.
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\- att rädda enstaka personer i ytläge eller på grunt vatten,
-Vattenlivräddning
-\- att rädda enstaka personer ur isvak.
-\- att med hjälp av båt med olika storlek bedriva räddningsinsats på
-och invid hav, sjöar och vattendrag. Båtarnas
-användningsområde kan sammanfattas till följande:
-Räddningsbåt
-\- Livräddning vid hot om hopp från bro.
-\- Resursuppbyggnad (personal och material) till Göteborgs södra
-skärgård vid större händelse.
 
 60 (70)
+
+[Tabell 506-1](handlingar.tabeller/506-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att genomföra räddningsinsatser vid naturolyckor där tunga<br>fordon är inblandade såsom lastbilar, bussar och tåg,<br>Resurs för ras och tung räddning<br>- att genomföra räddningsinsatser vid byggnadskollapser vid<br>(RTR)<br>naturolyckor genom stabiliserande åtgärder och att söka efter<br>personer vid dessa händelser |  |
+| - att genomföra transport av materiel eller personal i väglös<br>Terrängtransport terräng eller på väg med begränsad framkomlighet med MC,<br>bandvagn eller annat terrängfordon. |  |
+| - att vara en nationell sök- och räddningsresurs för att söka efter<br>och rädda människor vid stora komplexa räddningsinsatser med<br>kollapsade byggnadskonstruktioner, orsakade av till exempel<br>Nationell förstärkningsresurs för<br>naturkatastrofer, olyckor, terrordåd eller krig.<br>urban sök- och räddning (NUSAR)<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
+
+[Tabell 506-507-2](handlingar.tabeller/506-507-2.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att rädda enstaka personer i ytläge eller på grunt vatten,<br>Vattenlivräddning<br>- att rädda enstaka personer ur isvak. |  |
+| - att med hjälp av båt med olika storlek bedriva räddningsinsats på<br>och invid hav, sjöar och vattendrag. Båtarnas<br>användningsområde kan sammanfattas till följande:<br>Räddningsbåt<br>- Livräddning vid hot om hopp från bro.<br>- Resursuppbyggnad (personal och material) till Göteborgs södra<br>skärgård vid större händelse. |  |
+| - Brandbekämpning vid bränder i fastigheter nära vatten och<br>vid brand i fartyg.<br>- Dykplattform vid insats med vattendykare.<br>- Andra räddningsuppdrag på och vid insjöar och vattendrag. |  |
+| - att utföra räddningsdykning ner till 40 meters djup för att utföra<br>Räddningsdykare (vatten) sök och livräddningssinsats. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla information för<br>UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från<br>ovan. |  |
 
 <!-- sida 507 -->
 
 Handlingsprogram enligt LSO 2024
-
-Område              Förmåga och nyckeluppgifter som omfattas av
-
-\- Brandbekämpning vid bränder i fastigheter nära vatten och
-vid brand i fartyg.
-\- Dykplattform vid insats med vattendykare.
-\- Andra räddningsuppdrag på och vid insjöar och vattendrag.
-\-  att utföra räddningsdykning ner till 40 meters djup för att utföra
-Räddningsdykare (vatten) sök och livräddningssinsats.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla information för
-UAS - Unmanned Aerial System genomförande av räddningsinsatsen i form av bild och film från
-ovan.
 
 8.2.7 Nödställd person
 
@@ -20874,22 +20823,6 @@ svåråtkomlig plats mm krävs förstärkning från räddningsstyrkor med specia
 och 3). (Tabell 17)
 Tabell 17. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid händelser med nödställd person, t ex
 hot om suicid.
-
-Område                   Förmåga och nyckeluppgifter som omfattas av
-
-\-  att genomföra ett första bemötande av suicidal
-Hot om suicid
-person.
-\-  akut omhändertagande vid olika typer av skador och
-Prehospitalt akut omhändertagande sjukdomar samt HLR.
-\-  att rädda person från svårtillgänglig plats (exempelvis
-master, broar, bergssidor, schakt, kranar,
-Hög höjd                    vindkraftverk),
-\-  att rädda person som fallit ner i brunn, schakt eller
-liknande.
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla
-UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
-form av bild och film från ovan.
 
 8.2.8 Avsiktliga händelser
 
@@ -20909,6 +20842,15 @@ området.
 
 61 (70)
 
+[Tabell 507-1](handlingar.tabeller/507-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - att genomföra ett första bemötande av suicidal<br>Hot om suicid<br>person. |  |
+| - akut omhändertagande vid olika typer av skador och<br>Prehospitalt akut omhändertagande sjukdomar samt HLR. |  |
+| - att rädda person från svårtillgänglig plats (exempelvis<br>master, broar, bergssidor, schakt, kranar,<br>Hög höjd vindkraftverk),<br>- att rädda person som fallit ner i brunn, schakt eller<br>liknande. |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla<br>UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i<br>form av bild och film från ovan. |  |
+
 <!-- sida 508 -->
 
 Handlingsprogram enligt LSO 2024
@@ -20920,34 +20862,12 @@ specialförmåga (nivå 2 och 3). (Tabell 18)
 
 Tabell 18. Beskrivning av RSG:s förmåga att genomföra räddningsinsats vid antagonistiska händelser.
 
-Område                   Förmåga och nyckeluppgifter som omfattas av
-
-\-  akut omhändertagande vid olika typer av skador och
-Prehospitalt akut omhändertagande
-sjukdomar samt HLR.
-\-  att genomföra räddningsinsatser vid naturolyckor där
-tunga fordon är inblandade såsom lastbilar, bussar och
-tåg,
-Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid
-byggnadskollapser vid naturolyckor genom
-stabiliserande åtgärder och att söka efter personer vid
-dessa händelser
-\-  att vara en nationell sök- och räddningsresurs för att
-söka efter och rädda människor vid stora komplexa
-räddningsinsatser med kollapsade
-Nationell förstärkningsresurs för urban sök-
-byggnadskonstruktioner, orsakade av till exempel
-och räddning (NUSAR)
-naturkatastrofer, olyckor, terrordåd eller krig.
-Förmågan regleras genom avtal mellan RSG och MSB
-\-  att med hjälp av liten fjärrstyrd flygfarkost samla
-UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i
-form av bild och film från ovan.
 8.3 Ledning i räddningstjänsten
 Ledning av räddningstjänstverksamheten i Räddningstjänsten Storgöteborg (RSG) sker i
 huvudsak med egen ledningspersonal, vilka också genom avtal85, 86 utgör kärnan i ett
 gemensamt räddningsledningssystem med räddningstjänsterna i Västra Räddningsregionen
 (VRR). För övergripande ledning och ledning av räddningsinsatser finns det utsedda
+
 ledningsfunktioner, en larm- och ledningscentral, rutiner och lokaler/resurser för stabs-
 verksamhet. Genom samarbetet i Västra Räddningsregionen får RSG, utöver att tillhanda-
 hålla ledning, även tillgång till fler ledningsresurser utöver sina egna.
@@ -20955,6 +20875,7 @@ Den övergripande ledningen består organisatoriskt av vakthavande räddningsche
 vakthavande befäl (VB), regional insatsledare (RIL) och Ledningscentralen (LC) men
 organisering och fördelning av uppgifter för övergripande ledning är anpassningsbara.
 Exempelvis, när RIL avdelas för ledning av enskild räddningsinsats, knyts en IL till den
+
 övergripande ledningen för att öka ledningskapaciteten. Den övergripande ledningen
 tillgodoser bland annat behovet av att, utifrån rådande riskbild, säkerställa att räddnings-
 tjänsten kontinuerligt blir ändamålsenligt organiserad enligt 3 kap. 16 § LSO. Exempel på
@@ -20967,6 +20888,15 @@ av berörda räddningschefer för den kontinuerliga styrningen av samtliga ingå
 86 Avtal samverkan vid räddningstjänst, tecknat mellan räddningstjänsterna inom Västra Räddningsregionen
 
 62 (70)
+
+[Tabell 508-1](handlingar.tabeller/508-1.csv)
+
+| Område | Förmåga och nyckeluppgifter som omfattas av |
+| --- | --- |
+| - akut omhändertagande vid olika typer av skador och<br>Prehospitalt akut omhändertagande<br>sjukdomar samt HLR. |  |
+| - att genomföra räddningsinsatser vid naturolyckor där<br>tunga fordon är inblandade såsom lastbilar, bussar och<br>tåg,<br>Resurs för ras och tung räddning (RTR) - att genomföra räddningsinsatser vid<br>byggnadskollapser vid naturolyckor genom<br>stabiliserande åtgärder och att söka efter personer vid<br>dessa händelser |  |
+| - att vara en nationell sök- och räddningsresurs för att<br>söka efter och rädda människor vid stora komplexa<br>räddningsinsatser med kollapsade<br>Nationell förstärkningsresurs för urban sök-<br>byggnadskonstruktioner, orsakade av till exempel<br>och räddning (NUSAR)<br>naturkatastrofer, olyckor, terrordåd eller krig.<br>Förmågan regleras genom avtal mellan RSG och MSB |  |
+| - att med hjälp av liten fjärrstyrd flygfarkost samla<br>UAS - Unmanned Aerial System information för genomförande av räddningsinsatsen i<br>form av bild och film från ovan. |  |
 
 <!-- sida 509 -->
 

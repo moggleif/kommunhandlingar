@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.79dd6618f7759b3395ad1/1715954449225
 sha256: 89141073d3d85de090fb0debac67dcae8796d6cfc34be2f282037b2d3595c0d3
 bytes: 41166154
 sidor: 97
-hamtad: 2026-11-09T10:34:55+00:00
-konverterad: 2026-11-09T10:36:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T00:50:05+00:00
+konverterad: 2026-11-19T00:51:44+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok]
@@ -1390,7 +1390,7 @@ för övriga byggnader om metoden ska följas.
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
 
-| (kg CO e/BTA, Fler-bo- Småhus Kontor Skolor Försko-<br>2<br>systemgräns 2027, A1- stads- lor<br>A5) hus |  |  |  |  |  |  |
+| (kg CO e/BTA,<br>2<br>systemgräns 2027, A1-<br>A5) |  | Fler-bo-<br>stads-<br>hus | Småhus | Kontor | Skolor | Försko-<br>lor |
 | --- | --- | --- | --- | --- | --- | --- |
 | Referens-<br>värden,<br>KTH-rap-<br>port vers-<br>ion 2,<br>våren 2023. | Median | 373 | 165 | 383 | 379 | 326 |
 |  | Medel | 368 | 165 | 374 | 384 | 339 |

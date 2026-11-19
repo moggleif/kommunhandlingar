@@ -1,8 +1,7 @@
-"Typ av kostnad
-(tkr)","Utbyggnadskoncept
+Typ av kostnad,"Utbyggnadskoncept
 CAS","Utbyggnadskoncept
-MBR","Utbyggnadskoncept
-AGS"
+MBR",Utbyggnadskoncept
+(tkr),,,AGS
 Energi,1 800,3 100,2 100
 Kemikalier,600,1 200,600
 "Rivning, år 1",1 396,2 792,

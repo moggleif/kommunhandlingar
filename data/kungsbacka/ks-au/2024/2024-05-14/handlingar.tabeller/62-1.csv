@@ -1,19 +1,12 @@
-"Klimatbalans
-(ton CO per år)
-2e","AGS
-+
-Rötning","AGS
-+
-Rötning
-+
-Pyrolys","AGS
-+
-Pyrolys","AGS
-+
-Alt. 0","AGS
-+
-Alt. 0+
-(Rötning)"
+Klimatbalans,AGS,AGS,AGS,AGS,AGS
+,,+,,,
+,,,,,+
+,+,Rötning,+,+,
+"(ton CO per år)
+2e",,,,,Alt. 0+
+,Rötning,+,Pyrolys,Alt. 0,
+,,,,,(Rötning)
+,,Pyrolys,,,
 Emissioner:,,,,,
 "Direkta emissioner från företagsägda bilar, reservkraft och
 värme",16,16,16,16,16

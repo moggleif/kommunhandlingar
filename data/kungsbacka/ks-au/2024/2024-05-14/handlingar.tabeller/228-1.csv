@@ -1,9 +1,8 @@
-"Typ av kostnad
-(tkr)","Utbyggnadskoncept
-CAS",,"Utbyggnadskoncept
+Typ av kostnad,Utbyggnadskoncept,,"Utbyggnadskoncept
 MBR",,"Utbyggnadskoncept
 AGS",
-,Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
+,CAS,,,,,
+(tkr),Rötning,Pyrolys,Rötning,Pyrolys,Rötning,Pyrolys
 Energi,3 470,3 400,4 770,4 700,3 770,3 700
 Kemikalier,1 800,2 000,2 400,2 600,1 800,2 000
 Personal,700,400,700,400,700,400
