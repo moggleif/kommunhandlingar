@@ -2,6 +2,7 @@
 
 import json
 
+from kommunhandlingar.webbplats import sokindex
 from tests.test_dokumentindex import Index
 from tests.test_paragrafindex import TEXT
 from tests.test_webbplats import dokument
@@ -36,10 +37,22 @@ class TestSokindex(Index):
                     "§ 4",
                     "Dnr XN-2024-00012",
                 ],
-                "traff": "lokalbehov xn-2024-00012 förskole- och skolnämnden",
+                "traff": "lokalbehov xn-2024-00012",
+                "text": "förskole- och skolnämnden",
             },
         )
 
     def test_utan_protokoll_en_tom_grupp(self):
         self.spara("kallelse.md", dokument(typ="kallelse"))
         self.assertEqual(self.sokindex()["grupper"][0]["poster"], [])
+
+    def test_rubrikens_blanktecken_slas_ihop(self):
+        paragraf = {
+            "rubrik": "Anmälan om  inkomna\nskrivelser",
+            "paragraf": 3,
+            "diarienummer": [],
+            "sida": "x.html",
+            "datum": "2024-05-02",
+        }
+        post = sokindex.post(paragraf, "Kommunstyrelsen")
+        self.assertEqual(post["rubrik"], "Anmälan om inkomna skrivelser")

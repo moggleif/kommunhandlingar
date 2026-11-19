@@ -31,7 +31,7 @@ i drygt 5 000 dokument. Vad ska webbläsaren söka i?
 
 Valt alternativ: "Protokollens paragrafer", eftersom de redan finns i
 `paragrafer.jsonl`, säger vad som beslutats och var, och ger för
-Kungsbacka omkring 23 000 poster, 7 MB eller knappt 600 kB komprimerat.
+Kungsbacka omkring 23 000 poster, 7 MB eller knappt 900 kB komprimerat.
 Beslutstexten fördubblar storleken, och hela texten går inte att hämta
 till en webbläsare.
 
@@ -39,6 +39,9 @@ till en webbläsare.
 
 * Bra, eftersom ett ärende hittas på sin rubrik eller sitt diarienummer
   i alla organ och år, med länk till protokollets sida.
+* Bra, eftersom organet söks som text och inte som träff: ett ord som
+  *förskola* ger först paragraferna med ordet i rubriken, sedan
+  nämndens övriga paragrafer märkta *nämns i texten*.
 * Bra, eftersom regionhalland får samma index med nästa kodversion.
 * Dåligt, eftersom det som bara står i handlingarna eller i
   beslutstexten inte hittas, och kallelsens punkter syns först när

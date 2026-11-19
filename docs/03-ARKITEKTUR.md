@@ -1781,8 +1781,9 @@ datakontrollen och bygget delar.
   per rad i `paragrafer.jsonl`, nyast först. Posten har `rubrik`
   (paragrafens, eller `§ <nummer>` när den saknas), `adress` (`sida`),
   `om` (organets namn, datumet i klartext, paragrafen och varje
-  diarienummer) och `traff` (rubriken, diarienumren och organet i små
-  bokstäver).
+  diarienummer), `traff` (rubriken och diarienumren i små bokstäver) och
+  `text` (organet i små bokstäver), så att ett ord som också är ett organs
+  namn ger paragraferna med ordet i rubriken först.
 
 ## Webbplatsen
 

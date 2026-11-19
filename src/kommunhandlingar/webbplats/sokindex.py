@@ -4,7 +4,9 @@ Webbplatsens sökindex `sok.json` i roten, i det format som sökningen i
 projektets gemensamma sajtrad läser (Giffås beslut 0018): en grupp per
 kommun med protokollens paragrafer, nyast först. Varje post har det som
 visas – rubriken, paragrafens sida och organ, datum, paragraf och
-diarienummer – och det som söks i, i små bokstäver.
+diarienummer – och det som söks i, i små bokstäver: rubriken och
+diarienumren som träff, organet som text, så att ett ord som också är ett
+organs namn ger paragraferna med ordet i rubriken först.
 """
 
 import json
@@ -30,14 +32,15 @@ def nyast_forst(paragraf: dict) -> tuple[str, int]:
 
 
 def post(paragraf: dict, organ: str) -> dict:
-    rubrik = paragraf["rubrik"] or f"§ {paragraf['paragraf']}"
+    rubrik = " ".join(paragraf["rubrik"].split()) or f"§ {paragraf['paragraf']}"
     numren = paragraf["diarienummer"]
     return {
         "rubrik": rubrik,
         "adress": paragraf["sida"],
         "om": [organ, klartext(paragraf["datum"]), f"§ {paragraf['paragraf']}"]
         + [f"Dnr {n}" for n in numren],
-        "traff": " ".join([rubrik, *numren, organ]).lower(),
+        "traff": " ".join([rubrik, *numren]).lower(),
+        "text": organ.lower(),
     }
 
 
