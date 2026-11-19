@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20240902145951id_/https://kungsbacka.se/d
 sha256: 497a55b26a26e28a46d8dd4751a330859866f95b5f38a1fe8a5b10df1ff6d2ba
 bytes: 16120064
 sidor: 521
-hamtad: 2026-10-20T08:07:04+00:00
-konverterad: 2026-10-20T08:08:53+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-19T13:38:19+00:00
+konverterad: 2026-11-19T13:40:13+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok]
 tal_obekraftade: [11, 65, 66, 517, 518]
 figurer: [65, 66, 119, 351, 407, 409, 425]
 tolkade: []
@@ -2444,7 +2444,7 @@ jurister varit involverade i arbetet.
 Uppdatering av mallen har gjorts för att både lag om finansiell samordning för
 rehabiliteringsinsatser (Finsamlagen) och kommunallagen har ändrats sedan mallen senast
 uppdaterades 2016. I samband med arbetet har parternas jurister också uppmärksammat
-den tolkning av 10 \$ i Finsamlagen som tidigare gjorts i förbundsordningsmallen av
+den tolkning av 10 § i Finsamlagen som tidigare gjorts i förbundsordningsmallen av
 Nationella rådet.
 
 Vad säger lagen
@@ -11806,7 +11806,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 7 (21
 
 [Tabell 361-1](handlingar.tabeller/361-1.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder<br>som garage, carportar, förråd samt rivning, mur och<br>eldstad förutsatt att det ingår i samma ansökan. | Planenligt | 33 250 kr |
@@ -11858,7 +11858,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 9 (21
 
 [Tabell 363-1](handlingar.tabeller/363-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder<br>samt murar förutsatt att de ingår i samma ansökan | Planenligt | 22 610 kr |
@@ -11935,7 +11935,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 365-1](handlingar.tabeller/365-1.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer<br>detaljplan. | 5 985 kr |
@@ -11944,7 +11944,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 365-2](handlingar.tabeller/365-2.csv)
 
-| A 4 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |  |
+| A 4 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 4.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig ändring av nöjesparker,<br>djurparker, idrottsplatser, skidbackar med liftar, kabinbanor, campingplatser,<br>skjutbanor, småbåtshamnar, friluftsbad, motorbanor och golfbanor | Timdebitering, dock<br>minst 2 timmar |
@@ -11961,7 +11961,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 366-1](handlingar.tabeller/366-1.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller<br>väsentlig ändring av mur eller plank, med tekniskt<br>samråd | Planenligt | 13 965 kr |
@@ -11982,7 +11982,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 366-2](handlingar.tabeller/366-2.csv)
 
-| A 6 Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |  |
+| A 6 | Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 6.1 | Förlängning av tidsbegränsat bygglov för ändamål av säsongskaraktär inom<br>ramen för tidigare beviljat lov | 50 % avdrag från full<br>avgift |
@@ -11992,7 +11992,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 366-3](handlingar.tabeller/366-3.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 970 kr |
@@ -12003,7 +12003,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 13 (2
 
 [Tabell 367-1](handlingar.tabeller/367-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
+| A 8 | Anmälningspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 8.1 | Rivning av byggnad eller en del av byggnad, med tekniskt samråd | 12 635 kr |
@@ -12060,7 +12060,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 369-1](handlingar.tabeller/369-1.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 15 295 kr |
@@ -12068,7 +12068,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 369-2](handlingar.tabeller/369-2.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 16 625 kr |
@@ -12077,7 +12077,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 369-3](handlingar.tabeller/369-3.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | Förhandsbesked | Utanför planlagt område | 24 605 kr |
@@ -12085,11 +12085,11 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 369-4](handlingar.tabeller/369-4.csv)
 
-| A 12 Villkorsbesked |  |  |
+| A 12 | Villkorsbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 12.1 | Villkorsbesked | Timdebitering, dock<br>minst 2 timmar |
-| A 13 Ingripandebesked |  |  |
+| A 13 | Ingripandebesked |  |
 | Ärendetyp |  | Avgift |
 | A 13.1 | Ingripandebesked | Timdebitering, dock<br>minst 2 timmar |
 
@@ -12099,7 +12099,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (2
 
 [Tabell 370-1](handlingar.tabeller/370-1.csv)
 
-| A 14 Extra tekniska kontroller eller besked |  |  |
+| A 14 | Extra tekniska kontroller eller besked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 320 kr |
@@ -12120,7 +12120,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (2
 
 [Tabell 371-1](handlingar.tabeller/371-1.csv)
 
-| A 15 Upprättande av nybyggnadskarta |  |  |  |
+| A 15 | Upprättande av nybyggnadskarta |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 15.1 | För ny- och tillbyggnad inom<br>detaljplanelagt område. Fastighetens yta<br>0-5000 kvm | Nyupprättande av nybyggnadskarta | 9 975 kr |
@@ -12174,7 +12174,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 373-1](handlingar.tabeller/373-1.csv)
 
-| A 17 Lov för åtgärder som inte kräver lov (frivilliga lov) |  |  |
+| A 17 | Lov för åtgärder som inte kräver lov (frivilliga lov) |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 17.1 | Åtgärd som inte kräver lov, där närliggande eller i princip motsvarande åtgärd<br>finns i någon av taxans övriga tabeller | I enlighet med<br>tillämplig tabell |
@@ -12182,28 +12182,28 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 373-2](handlingar.tabeller/373-2.csv)
 
-| A 18 Andra tids- eller kostnadskrävande åtgärder |  |  |
+| A 18 | Andra tids- eller kostnadskrävande åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 18.1 | Andra tids- eller kostnadskrävande åtgärder | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 373-3](handlingar.tabeller/373-3.csv)
 
-| A 19 Avslag |  |  |
+| A 19 | Avslag |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 19.1 | Avslag | Timdebitering, dock<br>minst 2 timmar |
 
 [Tabell 373-4](handlingar.tabeller/373-4.csv)
 
-| A 20 Avskrivning |  |  |
+| A 20 | Avskrivning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 20.1 | Avskrivning | Timdebitering, dock<br>minst 1 timme |
 
 [Tabell 373-5](handlingar.tabeller/373-5.csv)
 
-| A 21 Avvisning |  |  |
+| A 21 | Avvisning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 21.1 | Avvisning | Timdebitering, dock<br>minst 2 timmar |
@@ -12214,7 +12214,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 374-1](handlingar.tabeller/374-1.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta. Moms tillkommer. | A4, skala 1:500 | 229 kr<br>+moms |
@@ -12230,7 +12230,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (2
 
 [Tabell 374-2](handlingar.tabeller/374-2.csv)
 
-| A 23 Digital geografisk information |  |  |  |  |  |  |
+| A 23 | Digital geografisk information |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
 | Ärendetyp |  |  |  |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar. Moms tillkommer. | 1-5 ha |  |  | 1 719 kr<br>+moms |  |
@@ -12247,7 +12247,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 375-1](handlingar.tabeller/375-1.csv)
 
-| B 1 Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |  |
+| B 1 | Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader till en- och<br>tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 1.1 | Nybyggnad och tillbyggnad större än 15,0 m2 (BYA) av en- och tvåbostadshus | 41 250 kr |
@@ -12257,7 +12257,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 375-2](handlingar.tabeller/375-2.csv)
 
-| B 2 Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |  |
+| B 2 | Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus och inte<br>komplementbyggnad till en- och tvåbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 2.1 | Ny- och tillbyggnad eller annan ändring, dock ej fasadändring, 0 – 100 kvm (BTA+OPA) | 37 825 kr |
@@ -12267,7 +12267,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 21 (2
 
 [Tabell 375-3](handlingar.tabeller/375-3.csv)
 
-| B 3 Ansökan om planbesked |  |  |
+| B 3 | Ansökan om planbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 3.1 | Planbesked | 26 700 kr |
@@ -12672,7 +12672,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 9 (31
 
 [Tabell 384-1](handlingar.tabeller/384-1.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder som<br>garage, carportar, förråd samt rivning, mur och eldstad<br>förutsatt att det ingår i samma ansökan. | Planenligt | 31 250 kr |
@@ -12725,7 +12725,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 10 (3
 
 [Tabell 385-2](handlingar.tabeller/385-2.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder som<br>garage, carportar, förråd samt rivning, mur och eldstad<br>förutsatt att det ingår i samma ansökan. | Planenligt | 33 250 kr |
@@ -12790,7 +12790,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (3
 
 [Tabell 387-388-1](handlingar.tabeller/387-388-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder samt<br>murar förutsatt att de ingår i samma ansökan. | Planenligt | 21 250 kr |
@@ -12849,7 +12849,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 14 (3
 
 [Tabell 389-1](handlingar.tabeller/389-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder<br>samt murar förutsatt att de ingår i samma ansökan | Planenligt | 22 610 kr |
@@ -12926,7 +12926,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (3
 
 [Tabell 391-1](handlingar.tabeller/391-1.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer detaljplan. | 5 625 kr |
@@ -12935,7 +12935,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (3
 
 [Tabell 391-2](handlingar.tabeller/391-2.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer detaljplan. | 5 985 kr |
@@ -12944,7 +12944,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (3
 
 [Tabell 391-3](handlingar.tabeller/391-3.csv)
 
-| A 4 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |  |
+| A 4 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 4.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig ändring av nöjesparker,<br>djurparker, idrottsplatser, skidbackar med liftar, kabinbanor, campingplatser, skjutbanor,<br>småbåtshamnar, friluftsbad, motorbanor och golfbanor | Timdebitering,<br>dock minst 2<br>timmar |
@@ -12961,7 +12961,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (3
 
 [Tabell 392-1](handlingar.tabeller/392-1.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig<br>ändring av mur eller plank, med tekniskt samråd | Planenligt | 13 125 kr |
@@ -12982,7 +12982,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (3
 
 [Tabell 392-2](handlingar.tabeller/392-2.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig<br>ändring av mur eller plank, med tekniskt samråd | Planenligt | 13 965 kr |
@@ -13007,7 +13007,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 18 (3
 
 [Tabell 393-1](handlingar.tabeller/393-1.csv)
 
-| A 6 Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |  |
+| A 6 | Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 6.1 | Förlängning av tidsbegränsat bygglov för ändamål av säsongskaraktär inom ramen för<br>tidigare beviljat lov | 50 % avdrag<br>från full avgift |
@@ -13017,14 +13017,14 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 18 (3
 
 [Tabell 393-2](handlingar.tabeller/393-2.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 250 kr |
 
 [Tabell 393-3](handlingar.tabeller/393-3.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 970 kr |
@@ -13035,7 +13035,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (3
 
 [Tabell 394-395-1](handlingar.tabeller/394-395-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
+| A 8 | Anmälningspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 8.1 | R ivning av byggnad eller en del av byggnad, med tekniskt samråd | 11 875 kr |
@@ -13073,20 +13073,20 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 20 (3
 
 [Tabell 395-1](handlingar.tabeller/395-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
-| --- | --- | --- |
-| Ärendetyp |  | Avgift |
-| A 8.1 | Rivning av byggnad eller en del av byggnad, med tekniskt samråd | 12 635 kr |
-| A 8.2 | Rivning av byggnad eller del av en byggnad, utan tekniskt samråd | 5 985 kr |
-| A 8.3 | Nybyggnad eller tillbyggnad som enligt 9 kap. 7 § plan-och bygglagen (2010:900) har<br>undantagits från krav på bygglov, med tekniskt samråd | 9 310 kr |
-| A 8.4 | Nybyggnad eller tillbyggnad som enligt 9 kap. 7 § plan-och bygglagen (2010:900) har<br>undantagits från krav på bygglov, utan tekniskt samråd | 5 320 kr |
-| A 8.5 | Ändring av en byggnad, om ändringen innebär att konstruktionen av byggnadens bärande<br>delar berörs eller byggnadens planlösning påverkas avsevärt, med tekniskt samråd | 12 635 kr |
-| A 8.6 | Ändring av en byggnad, om ändringen innebär att konstruktionen av byggnadens bärande<br>delar berörs eller byggnadens planlösning påverkas avsevärt, utan tekniskt samråd | 5 320 kr |
-| A 8.7 | Installation eller väsentlig ändring av hiss | 5 320 kr |
-| A 8.8 | Installation eller väsentlig ändring av eldstad eller rökkanal | 4 655 kr |
-| A 8.9 | Installation eller väsentlig ändring av anordning för ventilation, med tekniskt samråd | 11 305 kr |
-| A 8.10 | Installation eller väsentlig ändring av anordning för ventilation, utan tekniskt samråd | 4 655 kr |
-| A 8.11 | Installation eller väsentlig ändring av anläggning för vattenförsörjning eller avlopp i en<br>byggnad eller inom en tomt, med tekniskt samråd | 11 305 kr |
+| A 8 | Anmälningspliktiga åtgärder |  |  |
+| --- | --- | --- | --- |
+| Ärendetyp |  |  | Avgift |
+| A 8.1 | Rivning av byggnad eller en del av byggnad, med tekniskt samråd |  | 12 635 kr |
+| A 8.2 | Rivning av byggnad eller del av en byggnad, utan tekniskt samråd |  | 5 985 kr |
+| A 8.3 | Nybyggnad eller tillbyggnad som enligt 9 kap. 7 § plan-och bygglagen (2010:900) har<br>undantagits från krav på bygglov, med tekniskt samråd |  | 9 310 kr |
+| A 8.4 | Nybyggnad eller tillbyggnad som enligt 9 kap. 7 § plan-och bygglagen (2010:900) har<br>undantagits från krav på bygglov, utan tekniskt samråd |  | 5 320 kr |
+| A 8.5 | Ändring av en byggnad, om ändringen innebär att konstruktionen av byggnadens bärande<br>delar berörs eller byggnadens planlösning påverkas avsevärt, med tekniskt samråd |  | 12 635 kr |
+| A 8.6 | Ändring av en byggnad, om ändringen innebär att konstruktionen av byggnadens bärande<br>delar berörs eller byggnadens planlösning påverkas avsevärt, utan tekniskt samråd |  | 5 320 kr |
+| A 8.7 | Installation eller väsentlig ändring av hiss |  | 5 320 kr |
+| A 8.8 | Installation eller väsentlig ändring av eldstad eller rökkanal |  | 4 655 kr |
+| A 8.9 | Installation eller väsentlig ändring av anordning för ventilation, med tekniskt samråd |  | 11 305 kr |
+| A 8.10 | Installation eller väsentlig ändring av anordning för ventilation, utan tekniskt samråd |  | 4 655 kr |
+| A 8.11 | Installation eller väsentlig ändring av anläggning för vattenförsörjning eller avlopp i en<br>byggnad eller inom en tomt, med tekniskt samråd |  | 11 305 kr |
 
 <!-- sida 396 -->
 
@@ -13149,7 +13149,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-1](handlingar.tabeller/397-1.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 14 375 kr |
@@ -13157,7 +13157,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-2](handlingar.tabeller/397-2.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovspliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 15 295 kr |
@@ -13165,7 +13165,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-3](handlingar.tabeller/397-3.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 15 625 kr |
@@ -13173,7 +13173,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-4](handlingar.tabeller/397-4.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 16 625 kr |
@@ -13182,7 +13182,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-5](handlingar.tabeller/397-5.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | F örhandsbesked | Utanför planlagt område | 23 125 kr |
@@ -13190,7 +13190,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 22 (3
 
 [Tabell 397-6](handlingar.tabeller/397-6.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | Förhandsbesked | Utanför planlagt område | 24 605 kr |
@@ -13202,14 +13202,14 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 23 (3
 
 [Tabell 398-1](handlingar.tabeller/398-1.csv)
 
-| A 12 Villkorsbesked |  |  |
+| A 12 | Villkorsbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 12.1 | Villkorsbesked | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 398-2](handlingar.tabeller/398-2.csv)
 
-| A 13 Ingripandebesked |  |  |
+| A 13 | Ingripandebesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 13.1 | Ingripandebesked | Timdebitering,<br>dock minst 2<br>timmar |
@@ -13220,7 +13220,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 24 (3
 
 [Tabell 399-1](handlingar.tabeller/399-1.csv)
 
-| A 14 Extra platsbesök |  |  |
+| A 14 | Extra platsbesök |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 000 kr |
@@ -13235,7 +13235,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 24 (3
 
 [Tabell 399-2](handlingar.tabeller/399-2.csv)
 
-| A 14 Extra tekniska kontroller eller besked |  |  |
+| A 14 | Extra tekniska kontroller eller besked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 320 kr |
@@ -13281,7 +13281,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 25 (3
 
 [Tabell 400-1](handlingar.tabeller/400-1.csv)
 
-| A 15 Upprättande av nybyggnadskarta |  |  |  |
+| A 15 | Upprättande av nybyggnadskarta |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 15.1 | För ny- och tillbyggnad inom detaljplanelagt<br>område. Fastighetens yta 0–5000 kvm | Nyupprättande av<br>nybyggnadskarta | 9 375 kr |
@@ -13315,7 +13315,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 27 (3
 
 [Tabell 402-1](handlingar.tabeller/402-1.csv)
 
-| A 16 Utstakning och lägeskontroll |  |  |  |
+| A 16 | Utstakning och lägeskontroll |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 16.1 | Utstakning av huvudbyggnad samt<br>komplementbyggnad vid sammatillfälle (vid utstakning<br>av flera likartade byggnader inom samma uppdrag och<br>exploateringsområde reduceras avgiften med 30%).<br>Moms tillkommer. | Grovutstakning | 6 250 kr<br>+ moms |
@@ -13330,7 +13330,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 27 (3
 
 [Tabell 402-2](handlingar.tabeller/402-2.csv)
 
-| A 16 Utstakning och lägeskontroll |  |  |  |
+| A 16 | Utstakning och lägeskontroll |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 16.1 | Utstakning av huvudbyggnad samt<br>komplementbyggnad vid sammatillfälle (vid<br>utstakning av flera likartade byggnader inom samma<br>uppdrag och exploateringsområde reduceras<br>avgiften med 30%). Moms tillkommer. | Grovutstakning | 6 650 kr<br>+ moms |
@@ -13349,7 +13349,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 28 (3
 
 [Tabell 403-1](handlingar.tabeller/403-1.csv)
 
-| A 17 Lov för åtgärder som inte kräver lov (frivilliga lov) |  |  |
+| A 17 | Lov för åtgärder som inte kräver lov (frivilliga lov) |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 17.1 | Åtgärd som inte kräver lov, där närliggande eller i princip motsvarande åtgärd finns i<br>någon av taxans övriga tabeller | I enlighet med<br>tillämplig tabell |
@@ -13357,28 +13357,28 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 28 (3
 
 [Tabell 403-2](handlingar.tabeller/403-2.csv)
 
-| A 18 Andra tids- eller kostnadskrävande åtgärder |  |  |
+| A 18 | Andra tids- eller kostnadskrävande åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 18.1 | Andra tids- eller kostnadskrävande åtgärder | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 403-3](handlingar.tabeller/403-3.csv)
 
-| A 19 Avslag |  |  |
+| A 19 | Avslag |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 19.1 | Avslag | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 403-4](handlingar.tabeller/403-4.csv)
 
-| A 20 Avskrivning |  |  |
+| A 20 | Avskrivning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 20.1 | Avskrivning | Timdebitering,<br>dock minst 1<br>timme |
 
 [Tabell 403-5](handlingar.tabeller/403-5.csv)
 
-| A 21 Avvisning |  |  |
+| A 21 | Avvisning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 21.1 | Avvisning | Timdebitering,<br>dock minst 2<br>timmar |
@@ -13389,7 +13389,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 29 (3
 
 [Tabell 404-1](handlingar.tabeller/404-1.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta.<br>Moms tillkommer. | A4, skala 1:500 | 210 kr<br>+moms |
@@ -13405,7 +13405,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 29 (3
 
 [Tabell 404-2](handlingar.tabeller/404-2.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta. Moms tillkommer. | A4, skala 1:500 | 229 kr<br>+moms |
@@ -13425,7 +13425,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 30 (3
 
 [Tabell 405-1](handlingar.tabeller/405-1.csv)
 
-| A 23 Digital geografisk information |  |  |  |
+| A 23 | Digital geografisk information |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar.<br>Moms tillkommer. | 1-5 ha | 1 575 kr<br>+ moms |
@@ -13436,7 +13436,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 30 (3
 
 [Tabell 405-2](handlingar.tabeller/405-2.csv)
 
-| A 23 Digital geografisk information |  |  |  |
+| A 23 | Digital geografisk information |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar. Moms tillkommer. | 1-5 ha | 1 719 kr<br>+moms |
@@ -13456,7 +13456,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 31 (3
 
 [Tabell 406-1](handlingar.tabeller/406-1.csv)
 
-| B 1 Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader |  |  |
+| B 1 | Planavgift vid bygglov för en- och tvåbostadshus och komplementbyggnader |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 1.1 | Nybyggnad och tillbyggnad större än 15,0 m2 (BYA) av en- och tvåbostadshus | 41 250 kr |
@@ -13466,7 +13466,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 31 (3
 
 [Tabell 406-2](handlingar.tabeller/406-2.csv)
 
-| B 2 Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus eller<br>komplementbyggnader |  |  |
+| B 2 | Planavgift vid bygglov för byggnader som inte är en- och tvåbostadshus eller<br>komplementbyggnader |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 2.1 | Ny- och tillbyggnad eller annan ändring, dock ej fasadändring, 0 – 100 kvm (BTA+OPA) | 37 825 kr |
@@ -13476,7 +13476,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 31 (3
 
 [Tabell 406-3](handlingar.tabeller/406-3.csv)
 
-| B 3 Ansökan om planbesked |  |  |
+| B 3 | Ansökan om planbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | B 3.1 | Planbesked | 26 700 kr |
@@ -13527,31 +13527,61 @@ anger du kommunnamn, aktuellt år och vilket
 myndighetsområde uträkningen avser. Mallen är tänkt
 att användas för plan- och bygglagens samt
 miljöbalkens område.
-2\. I denna flik räknar du fram ett antal parametrar som Genomsnittlig handläggningstid per handläggare
-Uträkning av handlar om årsarbetstid och hur den genomsnittliga 1 022
+2\. I denna flik räknar du fram ett antal parametrar som
+handlar om årsarbetstid och hur den genomsnittliga
+Uträkning av
 arbetstiden fördelas på årsbasis (timmar).
 genomsnittlig
 årsarbetstid och
 handläggningstid
-3\. I denna flik räknar du fram den genomsnittliga Genomsnittlig lönekostnad per år och handläggare
-lönen/år för en heltidsanställd handläggare samt anger 847 793
-Lönekostnad antalet årsarbetskrafter inom myndigheten Myndighetsområdets antal årsarbetskrafter
-15,55
+3\. I denna flik räknar du fram den genomsnittliga
+lönen/år för en heltidsanställd handläggare samt anger
+Lönekostnad antalet årsarbetskrafter inom myndigheten
 
-Gemensamma kostnader per handläggare
-4\. I denna flik räknar du fram ett antal parametrar som 245 300
-handlar om gemensamma kostnader för förvaltningen Myndighetsspecifika kostnader per handläggare
+4\. I denna flik räknar du fram ett antal parametrar som
+handlar om gemensamma kostnader för förvaltningen
 Gemensamma och specifika kostnader för myndighetsområdet
-kostnader                                 97 749
+kostnader
 (kronor).
 
 5\. I denna flik får du sammanställningen av Total kostnad per handläggare
-handläggningskostnaden per timme, för aktuellt 1 190 842
+handläggningskostnaden per timme, för aktuellt
 myndighetsområde. Här kan du också räkna ut
-Handläggningskostnad per timme
 Resultat  handläggningskostnaden per timme med SKL:s
-1 160
 prisindex för kommunal verksamhet (PKV).
+
+[Tabell 409-1](handlingar.tabeller/409-1.csv)
+
+| Genomsnittlig handläggningstid per handläggare |  |  |
+| --- | --- | --- |
+|  | 1 022 |  |
+|  |  |  |
+
+[Tabell 409-2](handlingar.tabeller/409-2.csv)
+
+| Genomsnittlig lönekostnad per år och handläggare |  |  |
+| --- | --- | --- |
+|  | 847 793 |  |
+| Myndighetsområdets antal årsarbetskrafter |  |  |
+|  | 15,55 |  |
+|  |  |  |
+
+[Tabell 409-3](handlingar.tabeller/409-3.csv)
+
+| Gemensamma kostnader per handläggare |  |  |
+| --- | --- | --- |
+|  | 245 300 |  |
+| Myndighetsspecifika kostnader per handläggare |  |  |
+|  | 97 749 |  |
+|  |  |  |
+
+[Tabell 409-4](handlingar.tabeller/409-4.csv)
+
+|  | 1 190 842 |  |
+| --- | --- | --- |
+| Handläggningskostnad per timme |  |  |
+|  | 1 160 |  |
+|  |  |  |
 
 <!-- sida 410 -->
 
@@ -13582,8 +13612,9 @@ Genomsnittlig handläggningstid tim/handläggare enligt ovan 1 022
 
 [Tabell 410-2](handlingar.tabeller/410-2.csv)
 
-| Frånvaro<br>Här anger du genomsnittlig frånvaro per handläggare (tim/år), uppgifterna<br>hämtar du från personal-/lönekontoret. |  |
+| Frånvaro |  |
 | --- | --- |
+| Här anger du genomsnittlig frånvaro per handläggare (tim/år), uppgifterna<br>hämtar du från personal-/lönekontoret. |  |
 | Semester | 240 |
 | Sjukdom | 36 |
 | Övrig frånvaro | 21 |
@@ -13591,8 +13622,9 @@ Genomsnittlig handläggningstid tim/handläggare enligt ovan 1 022
 
 [Tabell 410-3](handlingar.tabeller/410-3.csv)
 
-| Handläggningstid<br>Här beräknar vi hur stor del av faktiskt arbetad tid som en heltidsanställd<br>handläggare i genomsnitt lägger per år på handläggning. SKL schablon är<br>60% men man kan fylla i annan % alternativt ange antal timmar/år och<br>handläggare i genomsnitt. |  |
+| Handläggningstid |  |
 | --- | --- |
+| Här beräknar vi hur stor del av faktiskt arbetad tid som en heltidsanställd<br>handläggare i genomsnitt lägger per år på handläggning. SKL schablon är<br>60% men man kan fylla i annan % alternativt ange antal timmar/år och<br>handläggare i genomsnitt. |  |
 | Alternativ 1. ange handläggningstid i % av faktiskt arbetad tid |  |
 | Genomsnittlig handläggningstid<br>Alt 1<br>(60% enl SKL schablon) | 60,0% |
 
@@ -13666,22 +13698,34 @@ gemensamma funktioner, tjänster och lokaler. Det avser
 overheadkostnader för kommungemensam verksamhet som inte
 kan väljas bort, t.ex. kommunledning och central administration
 (telefon, data, IT), juridik, arkiv, telefonväxel etc.
-Förvaltningens andel av "Kalkylerade kapitalkostnader" 43 261 Hör med din ekonomiavdelning eller motsvarande för dessa
-enligt SCB:s räkenskapssammandrag (RS)   kostnader. Om ni har lokaler och inventarier som gemensamma
+
+Förvaltningens andel av "Kalkylerade kapitalkostnader"
+enligt SCB:s räkenskapssammandrag (RS)
+
+Förvaltningens andel av kostnader för KS- och KF-
+verksamhet
+Arbetsledning och administration för förvaltningen
+
+Lokalhyror för förvaltningen
+
+43 261 Hör med din ekonomiavdelning eller motsvarande för dessa
+kostnader. Om ni har lokaler och inventarier som gemensamma
 nyttigheter, och inte har internhyror, ska ni fylla i denna ruta.
 Kalkylerade kostnader avser intern ränta och avskrivningar på
 byggnader och inventarier i byggnader.
-Förvaltningens andel av kostnader för KS- och KF- 16 000 Hör med din ekonomiavdelning eller motsvarande för dessa
-verksamhet                               kostnader.
-Arbetsledning och administration för förvaltningen 3 243 252 Här anger du chefens chefernas lönekostnader till den del som
+16 000 Hör med din ekonomiavdelning eller motsvarande för dessa
+kostnader.
+3 243 252 Här anger du chefens chefernas lönekostnader till den del som
 är arbetsledning samt administratörers lönekostnad, t.ex.
 förvaltningens assistenter och nämndsekreterare.
-Lokalhyror för förvaltningen         576 156 Anges endast om förvaltningen budgeterar/faktureras för detta.
+576 156 Anges endast om förvaltningen budgeterar/faktureras för detta.
+
 Fastighetskostnader och fastighetsentreprenader ingår i ovan Städ- och renhållningstjänster etc om förvaltningen
 budgeterar/faktureras för detta.
 Förbrukningsinventarier, förbrukningsmaterial 62 200 Datorer som inte köpts in centralt, böcker, tidningar, elektronisk
 media, prenumerationer, laboratoriematerial, arbetskläder,
 skyddsmaterial etc. som förvaltningen budgeterar/faktureras för.
+
 Kontorsmaterial               ingår i ovan Trycksaker, IT-material, kontorsmaterial som förvaltningen
 budgeterar/faktureras för.
 Tele-, IT-kommunikation och postbefordran 60 703 Porto, telefoni, IT- och datakommunikation som förvaltningen
@@ -13709,26 +13753,35 @@ nämndens totala budget som avser myndighetsområdet i fråga, eller exempelvis 
 specifika myndighetsområdet. Nedanstående är exempel.
 
 Myndighetsområdets specifika kostnader Belopp (kr)
-
 Byggnadsnämnden 20 %                 320 000
 KS 20 %                             1 200 000
 
 Summa (kronor): 1 520 000
 
-Antal årsarbetskrafter inom myndighetsområdet 15,55 Från bladet "Lönekostnad och årsarbetskraft"
-Myndighetsområdets del av förvaltningens gemensamma 3 814 415 Beräkning (kostnad per handläggare multiplicerat med
-kostnader                                myndighetsområdets antal årsarbetskrafter)
-Summa myndighetsområdets specifika kostnader 1 520 000 Summering av myndighetsområdets specifika kostnader
-Summa gemensamma och myndighetspecifika
-5 334 415
+Antal årsarbetskrafter inom myndighetsområdet
+Myndighetsområdets del av förvaltningens gemensamma
 kostnader
-Summa (kronor per handläggare):      343 049
+Summa myndighetsområdets specifika kostnader
+Summa gemensamma och myndighetspecifika
+kostnader
+Summa (kronor per handläggare):
+
 Detta är myndighetsområdets kostnader som överförs
 till nästa steg
 Myndighetsområdets del av förvaltningens gemensamma
-245 300
 kostnader per handläggare
 Myndighetsområdets specifika kostnader per handläggare
+
+15,55 Från bladet "Lönekostnad och årsarbetskraft"
+3 814 415 Beräkning (kostnad per handläggare multiplicerat med
+myndighetsområdets antal årsarbetskrafter)
+1 520 000 Summering av myndighetsområdets specifika kostnader
+5 334 415
+
+343 049
+
+245 300
+
 97 749
 
 [Tabell 413-1](handlingar.tabeller/413-1.csv)
@@ -13760,19 +13813,11 @@ Handläggningskostnad per timme   1 160 kr
 
 Indexuppräkning
 
-Indexuppräkning år
+Indexuppräkning år                  2024  2025 2026 2027
 Indexuppräkning %
-Index (kronor)
+Index (kronor)                      0 kr   0 kr 0 kr 0 kr
 Indexuppräknad handläggningskostnad
-per timme
-
-[Tabell 414-1](handlingar.tabeller/414-1.csv)
-
-| 2024 | 2025 | 2026 | 2027 |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| 0 kr | 0 kr | 0 kr | 0 kr |
-| 1 160 kr | 1 160 kr | 1 160 kr | 1 160 kr |
+per timme                         1 160 kr 1 160 kr 1 160 kr 1 160 kr
 
 <!-- sida 415 -->
 
@@ -14534,7 +14579,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 6 (24
 
 [Tabell 433-434-1](handlingar.tabeller/433-434-1.csv)
 
-| A 1 Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |  |
+| A 1 | Bygglov och teknisk kontroll för en- och tvåbostadshus och komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 1.1 | Nybyggnad av ett en- eller tvåbostadshus<br>I kostnaden ingår även tillhörande komplementåtgärder som<br>garage, carportar, förråd samt rivning, mur och eldstad<br>förutsatt att det ingår i samma ansökan. | Planenligt | 31 250 kr |
@@ -14582,7 +14627,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 8 (24
 
 [Tabell 435-436-1](handlingar.tabeller/435-436-1.csv)
 
-| A 2 Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |  |
+| A 2 | Bygglov och teknisk kontroll för byggnader som inte är en- eller tvåbostadshus eller<br>komplementbyggnader |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 2.1 | Nybyggnad 0-100 kvm (BTA+OPA), med tekniskt samråd<br>Till exempel kontor, industri, handel, skola, flerbostadhus.<br>I kostnaden ingår även tillhörande komplementåtgärder samt<br>murar förutsatt att de ingår i samma ansökan. | Planenligt | 21 250 kr |
@@ -14641,7 +14686,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 10 (2
 
 [Tabell 437-1](handlingar.tabeller/437-1.csv)
 
-| A 3 Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |  |
+| A 3 | Bygglov och teknisk kontroll för skyltar och ljusanordningar samt inglasning av balkong<br>flerbostadshus |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 3.1 | Sätta upp, flytta eller väsentligt ändra en skylt eller ljusanordning som följer detaljplan. | 5 625 kr |
@@ -14650,7 +14695,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 10 (2
 
 [Tabell 437-2](handlingar.tabeller/437-2.csv)
 
-| A 4 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |  |
+| A 4 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 1 |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 4.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig ändring av nöjesparker,<br>djurparker, idrottsplatser, skidbackar med liftar, kabinbanor, campingplatser, skjutbanor,<br>småbåtshamnar, friluftsbad, motorbanor och golfbanor | Timdebitering,<br>dock minst 2<br>timmar |
@@ -14667,7 +14712,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 438-1](handlingar.tabeller/438-1.csv)
 
-| A 5 Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |  |
+| A 5 | Bygglov och teknisk kontroll för andra anläggningar än byggnader, del 2 (murar och<br>plank, parkeringsplatser utomhus och transformatorstationer) |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 5.1 | Anordnande, inrättande, uppförande, flytt eller väsentlig<br>ändring av mur eller plank, med tekniskt samråd | Planenligt | 13 125 kr |
@@ -14688,7 +14733,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 438-2](handlingar.tabeller/438-2.csv)
 
-| A 6 Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |  |
+| A 6 | Tidsbegränsade lov och nytt lov inom ramen för tidigare beviljat lov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 6.1 | Förlängning av tidsbegränsat bygglov för ändamål av säsongskaraktär inom ramen för<br>tidigare beviljat lov | 50 % avdrag<br>från full avgift |
@@ -14698,7 +14743,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 11 (2
 
 [Tabell 438-3](handlingar.tabeller/438-3.csv)
 
-| A 7 Strandskyddsdispens |  |  |
+| A 7 | Strandskyddsdispens |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 7.1 | Strandskyddsdispens | 11 250 kr |
@@ -14709,7 +14754,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 12 (2
 
 [Tabell 439-440-1](handlingar.tabeller/439-440-1.csv)
 
-| A 8 Anmälningspliktiga åtgärder |  |  |
+| A 8 | Anmälningspliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 8.1 | R ivning av byggnad eller en del av byggnad, med tekniskt samråd | 11 875 kr |
@@ -14751,7 +14796,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 14 (2
 
 [Tabell 441-1](handlingar.tabeller/441-1.csv)
 
-| A 9 Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |  |
+| A 9 | Marklov och teknisk kontroll för marklovpliktiga åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 9.1 | Marklovpliktig åtgärd, med tekniskt samråd | 14 375 kr |
@@ -14759,7 +14804,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 14 (2
 
 [Tabell 441-2](handlingar.tabeller/441-2.csv)
 
-| A 10 Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |  |
+| A 10 | Rivningslov och teknisk kontroll för åtgärder som kräver rivningslov |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 10.1 | Åtgärd som kräver rivningslov, med tekniskt samråd | 15 625 kr |
@@ -14768,7 +14813,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 14 (2
 
 [Tabell 441-3](handlingar.tabeller/441-3.csv)
 
-| A 11 Förhandsbesked |  |  |  |
+| A 11 | Förhandsbesked |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 11.1 | F örhandsbesked | Utanför planlagt område | 23 125 kr |
@@ -14776,14 +14821,14 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 14 (2
 
 [Tabell 441-4](handlingar.tabeller/441-4.csv)
 
-| A 12 Villkorsbesked |  |  |
+| A 12 | Villkorsbesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 12.1 | Villkorsbesked | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 441-5](handlingar.tabeller/441-5.csv)
 
-| A 13 Ingripandebesked |  |  |
+| A 13 | Ingripandebesked |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 13.1 | Ingripandebesked | Timdebitering,<br>dock minst 2<br>timmar |
@@ -14794,7 +14839,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 15 (2
 
 [Tabell 442-1](handlingar.tabeller/442-1.csv)
 
-| A 14 Extra platsbesök |  |  |
+| A 14 | Extra platsbesök |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 14.1 | Ytterligare tekniska samråd, utöver det första, per styck | 5 000 kr |
@@ -14813,7 +14858,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 16 (2
 
 [Tabell 443-1](handlingar.tabeller/443-1.csv)
 
-| A 15 Upprättande av nybyggnadskarta |  |  |  |
+| A 15 | Upprättande av nybyggnadskarta |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 15.1 | För ny- och tillbyggnad inom detaljplanelagt<br>område. Fastighetens yta 0–5000 kvm | Nyupprättande av<br>nybyggnadskarta | 9 375 kr |
@@ -14835,7 +14880,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 17 (2
 
 [Tabell 444-1](handlingar.tabeller/444-1.csv)
 
-| A 16 Utstakning och lägeskontroll |  |  |  |
+| A 16 | Utstakning och lägeskontroll |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 16.1 | Utstakning av huvudbyggnad samt komplementbyggnad vid<br>sammatillfälle (vid utstakning av flera likartade byggnader<br>inom samma uppdrag och exploateringsområde reduceras<br>avgiften med 30%).<br>Moms tillkommer. | Grovutstakning | 6 250 kr<br>+ moms |
@@ -14854,7 +14899,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 18 (2
 
 [Tabell 445-1](handlingar.tabeller/445-1.csv)
 
-| A 17 Lov för åtgärder som inte kräver lov (frivilliga lov) |  |  |
+| A 17 | Lov för åtgärder som inte kräver lov (frivilliga lov) |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 17.1 | Åtgärd som inte kräver lov, där närliggande eller i princip motsvarande åtgärd finns i<br>någon av taxans övriga tabeller | I enlighet med<br>tillämplig tabell |
@@ -14862,28 +14907,28 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 18 (2
 
 [Tabell 445-2](handlingar.tabeller/445-2.csv)
 
-| A 18 Andra tids- eller kostnadskrävande åtgärder |  |  |
+| A 18 | Andra tids- eller kostnadskrävande åtgärder |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 18.1 | Andra tids- eller kostnadskrävande åtgärder | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 445-3](handlingar.tabeller/445-3.csv)
 
-| A 19 Avslag |  |  |
+| A 19 | Avslag |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 19.1 | Avslag | Timdebitering,<br>dock minst 2<br>timmar |
 
 [Tabell 445-4](handlingar.tabeller/445-4.csv)
 
-| A 20 Avskrivning |  |  |
+| A 20 | Avskrivning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 20.1 | Avskrivning | Timdebitering,<br>dock minst 1<br>timme |
 
 [Tabell 445-5](handlingar.tabeller/445-5.csv)
 
-| A 21 Avvisning |  |  |
+| A 21 | Avvisning |  |
 | --- | --- | --- |
 | Ärendetyp |  | Avgift |
 | A 21.1 | Avvisning | Timdebitering,<br>dock minst 2<br>timmar |
@@ -14894,7 +14939,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 446-1](handlingar.tabeller/446-1.csv)
 
-| A 22 Utskrift av karta och ortofoto på papper eller pdf |  |  |  |
+| A 22 | Utskrift av karta och ortofoto på papper eller pdf |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 22.1 | Primärkarta.<br>Moms tillkommer. | A4, skala 1:500 | 210 kr<br>+moms |
@@ -14910,7 +14955,7 @@ Kungsbacka kommun    Taxa för Kungsbacka kommuns plan- och byggverksamhet 19 (2
 
 [Tabell 446-2](handlingar.tabeller/446-2.csv)
 
-| A 23 Digital geografisk information |  |  |  |
+| A 23 | Digital geografisk information |  |  |
 | --- | --- | --- | --- |
 | Ärendetyp |  |  | Avgift |
 | A 23.1 | Primärkarta., pris per hektar.<br>Moms tillkommer. | 1-5 ha | 1 575 kr<br>+ moms |
@@ -16071,8 +16116,10 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       16 (26)
 
 [Tabell 473-1](handlingar.tabeller/473-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Annat avfall än avfall<br>under kommunalt ansvar. | Detta avfall ska<br>hanteras separat från<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. | Fraktionerna ska<br>förvaras och<br>transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig<br>entreprenör. |
 | Bygg- och rivningsavfall<br>som inte producerats i en<br>yrkesmässig verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras separat från<br>kommunalt avfall och<br>avfall under<br>kommunalt ansvar<br>enligt 15 kap. 20 §<br>miljöbalken. Avfallet<br>ska utöver<br>utsortering av farligt<br>avfall samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner<br>ställs specifika krav på<br>emballering, till exempel<br>för asbest (se nedan). | Avfallet lämnas<br>utsorterat på<br>återvinningscentral<br>eller hämtas<br>fastighetsnära av<br>entreprenör som<br>ingått avtal kring<br>hämtning av bygg-<br>och rivningsavfall<br>med kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 
@@ -16094,8 +16141,10 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       18 (26)
 
 [Tabell 475-476-1](handlingar.tabeller/475-476-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Farligt avfall | Följande produkter<br>eller ämnen utgör<br>exempel på vad som<br>ska hanteras som<br>farligt avfall:<br> Färg<br> Lösningsmedel<br> Kemikalier<br> Ljuskällor<br> Bensin och diesel<br> Bekämpningsmedel<br> Avfall som<br>innehåller<br>kvicksilver | Ska vara emballerat<br>och tydligt märkt med<br>uppgift om innehåll.<br>Olika typer av farligt<br>avfall får inte blandas<br>eller spädas ut med (1)<br>andra slag av farligt<br>avfall, (2) annat avfall<br>eller (3) andra ämnen<br>eller material. | Farligt avfall lämnas<br>på återvinnings-<br>central. Hämtning av<br>farligt avfall från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa. Farligt<br>avfall som inte faller<br>under kommunalt<br>ansvar hanteras ej<br>av kommunen.<br>Annan transportör<br>godtas enligt 15a§ |
 | Asbest | Asbest utgör farligt<br>avfall. | Förpackas väl i kraftig<br>plast (minst 0,2 mm).<br>Avfallet ska vara<br>emballerat så att det är<br>dammtätt.<br>Asbest som är<br>emballerat i sopsäckar<br>tas inte emot. | Asbest från<br>privatpersoner<br>lämnas på<br>återvinningscentral<br>som tar emot den<br>typen av avfall. |
 | Spillolja | Spillolja utgör farligt<br>avfall. Spillolja ska<br>sorteras ut och<br>hanteras separat från<br>annat farligt avfall.<br>Spillolja som är<br>isolerolja ska hållas<br>åtskild från andra<br>isoleroljor och andra<br>spilloljor till dess att<br>halten av PCB-<br>produkter i isoleroljan<br>har fastställts.<br>Den som hanterar<br>spillolja ska se till att<br>spilloljan inte blandas<br>med spilloljor med<br>andra egenskaper<br>eller med andra typer<br>av avfall eller ämnen<br>på ett sätt som | Ska vara emballerat i<br>oljebeständig<br>förpackning och tydligt<br>märkt med uppgift om<br>innehåll. | Spillolja i<br>konsumentförpacknin<br>g lämnas av<br>privatpersoner på<br>återvinningscentral. |
@@ -16118,8 +16167,10 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       20 (26)
 
 [Tabell 477-1](handlingar.tabeller/477-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till trädgårdsavfall<br>räknas komposterbart och<br>växtavfall som<br>uppkommer vid normal<br>trädgårdsskötsel i<br>småhus, däremot inte<br>fällda träd eller avfall som<br>uppstår vid större<br>anläggningsarbeten i en<br>trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings-<br>centralen ska avfallet<br>lämnas enligt<br>instruktioner på plats.<br>För alternativ med<br>abonnemang med<br>hämtning av<br>trädgårdsavfall i kärl,<br>ska avfallet läggas löst<br>i kärlet och inte packas<br>så hårt att tömningen<br>försvåras. | Trädgårdsavfall från<br>hushållen lämnas på<br>återvinningscentral.<br>Hämtning från<br>fastighet kan<br>beställas separat<br>enligt kommunens<br>avfallstaxa.<br>Hämtning av<br>trädgårdsavfall sker<br>separat från<br>hämtning av annat<br>grovavfall.<br>För abonnemang<br>med hämtning av<br>trädgårdsavfall i kärl,<br>ska avfallet läggas<br>löst i kärlet och inte<br>packas så hårt att<br>tömningen försvåras.<br>Annan transportör<br>godtas enligt 15a§ |
 | Invasiva växter | Ska avskiljas och<br>hållas skilt från annat<br>avfall. | Emballeras i helt<br>tätslutande sopsäckar/<br>storsäckar. | Lämnas på<br>återvinningscentral<br>eller annan plats<br>som kommunen<br>hänvisar till. |
 | Latrin | Ska avskiljas och<br>hållas skilt från annat<br>avfall. | Ska samlas i tunna som<br>ska vara väl försluten<br>så att avfallet inte kan<br>spridas. | Latrintunnor<br>borttransporteras<br>från fastighet genom<br>kommunens försorg. |
@@ -16132,7 +16183,9 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       21 (26)
 
 | Matavfall<br>(Exempelvis matrester,<br>kött- och fiskben, frukt-<br>och äggskal, kaffesump<br>med filter) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | Matavfall från hushåll<br>ska läggas i påse som<br>tillhandahålls av ren-<br>hållaren.<br>Matavfall från<br>verksamheter ska av<br>avfallslämnaren<br>förpackas i särskild<br>påse som tillhanda-<br>hålls av renhållaren<br>eller lämnas i annan<br>anordning av typ som<br>godkänts av Avfall och<br>Återvinning hos<br>nämnden för Teknik. | Matavfall<br>borttransporteras<br>från fastigheten i<br>enlighet med<br>hämtningsintervall<br>som kommunen<br>tillhandahåller. |
 | --- | --- | --- | --- |
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Avloppsfraktioner och<br>förbrukat filtermaterial<br>från små<br>avloppsanläggningar | Ska vara åtkomligt<br>för tömning i den<br>anläggning där det<br>genereras i enlighet<br>med 9 kap. 7 § MB | Filtermaterial från<br>fosforfällor och andra<br>jämförbara filter ska<br>vara förpackat eller<br>tillgängligt på ett<br>sådant sätt att<br>hämtning kan utföras<br>av fordon utrustat med<br>kran eller<br>suganordning. |  |
 | Fett från fettavskiljare |  |  | Ska vara åtkomligt<br>för tömning i den<br>anläggning där det<br>genereras. |
 | Matfetter och frityroljor |  | Ska förvaras i<br>behållare med<br>tätslutande lock. | Matfetter eller<br>frityroljor från<br>hushållen lämnas i<br>behållare på<br>återvinningscentraler.<br>Annan transportör<br>godtas enligt 15a§ |
@@ -16143,8 +16196,10 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       22 (26)
 
 [Tabell 479-480-1](handlingar.tabeller/479-480-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel<br>från butik ska av<br>avfallslämnaren<br>förpackas i särskild<br>påse, säck eller<br>lämnas i tank av typ<br>som godkänts av<br>avfallsansvariga<br>nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via<br>exempelvis apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till<br>apotek som<br>kommunen har avtal<br>med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i 13<br>a §<br>Annan transportör<br>godtas enligt 15a§ |
@@ -16162,8 +16217,10 @@ Kung sbacka kommun            Lokala avfallsföreskrifter       24 (26)
 
 [Tabell 481-1](handlingar.tabeller/481-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Konsumentelavfall/elavfall | Skrymmande<br>konsumentelavfall/el<br>avfallska sorteras ut<br>och hållas skillt från<br>annat grovavfall.<br>Smått<br>konsumentelavfall/ela<br>vfall ska sorteras ut<br>och hållas skilt från<br>kärl- och säckavfall. |  | Konsumtenelavfall<br>lämnas vid<br>återvinningscentral<br>eller till en producent.<br>På<br>återvinningscentralen<br>ska avfallet lämnas<br>enligt instruktioner på<br>plats. Hämtning av<br>skrymmande<br>konsumentelavfall<br>kan beställas med<br>tjänster för grovavfall<br>enligt kommunens<br>avfallstaxa.<br>För verksamheter<br>gäller särskilda<br>regler.<br>Se övriga<br>bestämmelser<br>kring transport i<br>15a§. |
 | Läkemedel | I enlighet med<br>definitionen av<br>läkemedel i<br>förordningen<br>(2009:1031) om<br>producentansvar för<br>läkemedel. | Ska lämnas i<br>behållare/ påse som<br>tillhandahålls av<br>apoteket. | Lämnas till apotek. |
 

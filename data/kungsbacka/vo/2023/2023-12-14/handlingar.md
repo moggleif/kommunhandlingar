@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240528033608id_/https://kungsbacka.se/d
 sha256: e11bf2dd8a6093082a2794ee78527acbb8cfadcb123b570368ebe2ac34de9934
 bytes: 6790989
 sidor: 120
-hamtad: 2026-10-20T08:03:28+00:00
-konverterad: 2026-10-20T08:04:05+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-19T13:33:46+00:00
+konverterad: 2026-11-19T13:38:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -733,7 +733,13 @@ Bilaga 2 Insatser
 | (Att tvätta sig) | förberedelser inför och<br>iordningsställa efter momentet.<br>Används endast om det ej ingår i<br>a nnan insats under dagen. | Normalfallet 1–2 gånger<br>per vecka.<br>Motivering krävs om<br>insatsen ska ske oftare. | rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Egenvård | Efter intyg från legitimerad<br>personal.<br>Denna insats ska alltid läggas<br>separat. | 5/10 minuter per tillfälle | Nej |
 | Enklare måltider | Beredning av enklare måltider<br>såsom frukost, mellanmål,<br>kvällsmat. Avser ej att tillreda<br>måltider.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 15 minuter per tillfälle | Nej |
-| Förflyttning | Används om det endast avser behov<br>inom livsområdet förflyttning inne i<br>bostaden.<br>Används oftast tillsammans med<br>annan insats. | 5/10/15/20 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
+| Förflyttning | Används om det endast avser behov | 5/10/15/20 minuter per | Dubbelbemanning |
+|  | inom livsområdet förflyttning inne i | tillfälle | efter bedömning av |
+|  | bostaden. |  | rehab alternativt |
+|  |  |  | godkänd av |
+|  | Används oftast tillsammans med |  | enhetschef utifrån |
+|  | annan insats. |  | arbetsmiljöskäl. |
+|  |  |  |  |
 | Insats natt | Används när det finns behov av<br>fysiskt besök nattetid på grund av<br>toalettbehov, dryck, bryta nattfasta<br>etc.<br>Digitalt först<br>Norm är att digitala lösningar ska<br>användas när det är möjligt. Möjligt<br>att kombinera med digital tillsyn och<br>trygghetslarm för att minska antal<br>besök. | 1–2 gånger per natt<br>15 minuter per tillfälle<br>Endast schablontid ska<br>användas. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Kvällsbehov | Sköta personlig hygien, bereda<br>enklare måltider/värma mat,<br>förflyttning, toalettbesök, klä på/av<br>sig, hushållsarbete, slänga sopor etc | 15/30/60 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Ledsagning | Till och från vårdinrättning, till<br>aktiviteter av social karaktär, till och<br>från frisör etc.<br>Behovet ska ej kunna tillgodoses på<br>annat sätt via anhörig/närstående,<br>stöd från civilsamhälle eller<br>förebyggandeenhet. | Upp till 5 timmar per<br>månad eller enstaka<br>tillfälle<br>Motivering krävs om<br>insatsen ska ske oftare. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
@@ -747,7 +753,11 @@ Bilaga 2 Insatser
 | Stöd vid måltid | Mata, sitta med vid måltid, motivera<br>att äta/dricka.<br>Används endast om det ej ingår i<br>annan insats under dagen. | 30/45 minuter per<br>tillfälle | Nej |
 | Tillsyn dag | Digitalt först<br>Normen är via digital lösning såsom<br>digital tillsyn eller ringtillsyn.<br>Om trygghetslarm finns ska ej tillsyn<br>användas om förmåga att påkalla<br>hjälp finns. | 5 minuter per tillfälle vid<br>digital tillsyn eller<br>ringtillsyn | Nej |
 |  | Vid behov, kortare fysiskt besök för<br>att tillförsäkras trygghet och<br>säkerhet i vardagen. | 10 min per tillfälle vid<br>fysiskt besök |  |
-| Digital tillsyn | Digitalt först<br>Norm att tillsyn nattetid sker via<br>trygghetskamera. | 10/15 minuter per<br>tillfälle | Nej |
+| Digital tillsyn | Digitalt först | 10/15 minuter per | Nej |
+|  |  | tillfälle |  |
+|  | Norm att tillsyn nattetid sker via |  |  |
+|  | trygghetskamera. |  |  |
+|  |  |  |  |
 | Toalettbehov | Toalettbesök, tömning av kateter,<br>byte av inkontinensskydd, rengöring<br>av hygienutrymme. Hit räknas också<br>byte av stomipåse samt byte av<br>stomiplatta (om det inte finns<br>medicinska hinder).<br>Används endast om det ej ingår i<br>annan insats under dagen. | 10/20 minuter per<br>tillfälle | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
 | Tvätt/klädvård | Tvätta kläder, handdukar,<br>sängkläder, hänga tvätt, lägga ihop<br>tvätt, stryka, vid behov sy i en<br>knapp, lägga in i garderob, boka<br>tvättid.<br>Utredningsunderlag och dialog med<br>individen ska tydliggöra vilka delar<br>av momentet som ska utföras. | 30 minuter en gång per<br>vecka.<br>Kan delas mellan makar,<br>halva tiden var. | Nej |
 | Övrig omsorg | Ska innefatta alla behov som ska<br>utföras inom ramen för<br>besöket/besöken.<br>Kan innefatta en eller flera<br>livsområden och behovskoder.<br>Exempel:<br>• Allmänna uppgifter<br>• Förflyttning<br>• Personlig vård<br>• Hemliv<br>• Känsla av trygghet | 20/30/45/60 minuter per<br>tillfälle<br>Kommer ej att användas i<br>Kungsbackamodellen. | Dubbelbemanning<br>efter bedömning av<br>rehab alternativt<br>godkänd av<br>enhetschef utifrån<br>arbetsmiljöskäl. |
@@ -842,36 +852,45 @@ www.kungsbacka.se
 
 2
 
-57/521
+Framtidsperspektiv
 
-Välfärdsteknik
-Samhälle
-i
-förändring
-Framtidens      vård
-noitavonnI
 Målsökande
-Kungsbackamodellen
-Kompetens-
-Teknologisk     utveckling
-försörjning
-gniresilatigiD                              Artificiell
-intelligens
-(AI)
-Civilsamhälle
-Samarbete
-Äldreomsorg
-gniresivitkeffE
-tehrabllåH
+
+Samverkan
+
 Samhälls-
 utveckling
+
+Civilsamhälle
+
+Framtidens      vård
+Kungsbackamodellen
+Kompetens-
+Teknologisk     utveckling     Samarbete
+försörjning
+
+Välfärdsteknik
+Äldreomsorg
+
 Patientcentrerad                      vård
-CIBI
-grosmo
-laicoS
-ragninsölkinkeT
-Framtidsperspektiv
-Samverkan
+
+125/75
+
+Innovation
+
+Effektivisering
+
+DigitIalisBerIingC
+
+Hållbarhet
+
+Social omsorg
+
+Tekniklösningar
+
+A rtific ie ll inte lligens (A I)
+
+Sam hä lle i förändring
 
 <!-- sida 24 -->
 
@@ -959,75 +978,135 @@ och      gemensamt
 
 ansvar:          Framtidens
 
-vård      och      omsorg
+vård       och      omsorg
 
 F
-ramtidens vård och omsorg inför en verklighet där 125 procent av vård fessionellt arbete som vi kommer att öppna för nya möjligheter. Det finns
-ligger i att fortsätta på den och omsorg måste mötas med 75 procent kunna reflektera tillbaka och se att det outnyttjade möjligheter och digitala
-väg vi redan slagit in på – av resurserna. Genom att vara medvetna gemensamma ansvaret var nyckeln i vår lösningar som väntar på oss, och framtiden
-att ansvarsfullt omforma vår om dessa utmaningar kan vi gemensamt förändringsresa. kommer att ge oss ännu fler verktyg som
-verksamhet för att säkerställa en hög arbeta mot en mer hållbar och effektiv Att förändra tar tid och kräver uthållig- vi idag inte ens kan föreställa oss. Vi kan
-kvalitet, anpassad till de kommande vård och omsorg,       het. Genom att hålla den stora lära oss av såväl framgångar som misstag
+ramtidens vård och omsorg
+ligger i att fortsätta på den
+väg vi redan slagit in på –
+att ansvarsfullt omforma vår
+verksamhet för att säkerställa en hög
+kvalitet, anpassad till de kommande
+behoven och förutsättningarna. Arbetet
+inom vård och omsorg är allt annat än
+enkelt. Det kräver engagemang, mod
+och en stark vilja att göra skillnad,
+särskilt när det är som mest utmanande.
+För att möta de demografiska för-
+ändringarna behöver vi kontinuerligt
+utveckla och anpassa våra arbetssätt.
+Vi måste öka förståelsen för de växande
+utmaningarna inom välfärden, där vi står
+
+inför en verklighet där 125 procent av vård fessionellt arbete som vi kommer att
+och omsorg måste mötas med 75 procent kunna reflektera tillbaka och se att det
+av resurserna. Genom att vara medvetna gemensamma ansvaret var nyckeln i vår
+om dessa utmaningar kan vi gemensamt förändringsresa.
+arbeta mot en mer hållbar och effektiv Att förändra tar tid och kräver uthållig-
+vård och omsorg,               het. Genom att hålla den stora
 ”Att förändra
-behoven och förutsättningarna. Arbetet anpassad till       bilden i fokus och rikta uppmärk- från tidigare och kommande år, alltid
+anpassad till                  bilden i fokus och rikta uppmärk-
 tar tid och kräver
-inom vård och omsorg är allt annat än framtidens           samheten mot de små, dagliga strävande efter att förbättra organisatio-
-enkelt. Det kräver engagemang, mod förutsättningar. uthållighet.” stegen mot förbättring kan vi nens arbete för att därigenom förbättra
-och en stark vilja att göra skillnad, Det är genom         som organisation göra verkliga våra vård- och omsorgsinsatser för dem
-särskilt när det är som mest utmanande. individens och yrkesgruppernas kollekti- framsteg. Förvaltningsbudgeten riktar vi är till för. Det har aldrig varit viktigare
-För att möta de demografiska för- va ansvarstagande inom den tvärprofessi- sig till politikerna i nämnden såväl som att vi alla lever upp till att här arbetar
-ändringarna behöver vi kontinuerligt onella organisationen som vi har börjat till alla medarbetare inom förvaltningen människor som vill, vågar och kan.
-utveckla och anpassa våra arbetssätt. bygga och fortfarande strävar att utveck- för Vård & Omsorg.
+framtidens                     samheten mot de små, dagliga
+förutsättningar. uthållighet.” stegen mot förbättring kan vi
+Det är genom                  som organisation göra verkliga
+individens och yrkesgruppernas kollekti- framsteg. Förvaltningsbudgeten riktar
+va ansvarstagande inom den tvärprofessi- sig till politikerna i nämnden såväl som
+onella organisationen som vi har börjat till alla medarbetare inom förvaltningen
+bygga och fortfarande strävar att utveck- för Vård & Omsorg.
+la, som vi kan se förändringar ta form. Låt oss vara fortsatt modiga nog att
+Det är i denna samlade kraft av tvärpro- ifrågasätta gamla sanningar och vara
+
+öppna för nya möjligheter. Det finns
+outnyttjade möjligheter och digitala
+lösningar som väntar på oss, och framtiden
+kommer att ge oss ännu fler verktyg som
+vi idag inte ens kan föreställa oss. Vi kan
+lära oss av såväl framgångar som misstag
+från tidigare och kommande år, alltid
+
+strävande efter att förbättra organisatio-
+nens arbete för att därigenom förbättra
+våra vård- och omsorgsinsatser för dem
+vi är till för. Det har aldrig varit viktigare
+att vi alla lever upp till att här arbetar
+människor som vill, vågar och kan.
 Arian Faily,
-Vi måste öka förståelsen för de växande la, som vi kan se förändringar ta form. Låt oss vara fortsatt modiga nog att förvaltningschef,
-utmaningarna inom välfärden, där vi står Det är i denna samlade kraft av tvärpro- ifrågasätta gamla sanningar och vara Vård & Omsorg
+förvaltningschef,
+Vård & Omsorg
 
 <!-- sida 27 -->
 
 6
 
+Ett     samhälle            och
+
+VO     i  förändring
+
+Vi vet att ett samhälle i förändring har sitt ursprung i den demografiska
+utvecklingen som påverkar hela vårt samhälle. Förvaltningen för Vård &
+Omsorg påverkas av den demografiska utvecklingen genom att andelen
+äldre i Kungsbacka kommun ökar med cirka 51 procent fram till år 2035.
+
+Andelen människor i arbetsför ålder ökar med 7 procent under samma
+tidsperiod. Vi brukar prata om detta som att färre ska försörja fler eller
+att vi ska genomföra 125% av vård och omsorg med endast 75% av
+tillgängliga resurser.
+
+Denna obalans innebär att vi aldrig kommer
+kunna rekrytera tillräckligt med personal för
+att täcka det ökande behovet. Samtidigt som
+vi ska ta hand om omkring 900 fler omsorgs-
+tagare fram till år 2035, vet vi att behoven vi
+möter blir alltmer komplexa och kräver mer
+av vår organisation jämfört med tidigare.
+
+Dessa förändringar i samhället är de mest
+påtagliga faktorerna som påverkar oss.
+
+Därför är det av yttersta vikt att vi skapar en
+gemensam förståelse för varför vi måste ändra
+våra arbetssätt för att möta dessa utmaningar.
+Hur kan vi som organisation klara av att till-
+godose 125% av behoven inom vård och om-
+sorg med endast 75% av resurserna? Hur kan
+vi säkerställa att vår kompetenta personal kan
+
+möta de ökande och komplexa behoven?
+
 VI GÖR  DET  GENOM:
 
 ”Digitalt först”, som innebär att digitala
-
 lösningar och välfärdsteknik ska
 användas där det är möjligt för att frigöra
+
 våra personella resurser.
-Ett    samhälle             och
 •
 Att arbeta tvärprofessionellt för att
-VO     i  förändring                                                     tydliggöra teamstrukturen kring våra
-omsorgstagare.
+tydliggöra teamstrukturen kring våra
 
+omsorgstagare.
 •
-Vi vet att ett samhälle i förändring har sitt ursprung i den demografiska
 Att granska och förbättra vårt
-utvecklingen som påverkar hela vårt samhälle. Förvaltningen för Vård &
+
 gemensamma  arbetssätt för att
-Omsorg påverkas av den demografiska utvecklingen genom att andelen
 säkerställa en god grundkvalitet.
-äldre i Kungsbacka kommun ökar med cirka 51 procent fram till år 2035.
-Andelen människor i arbetsför ålder ökar med 7 procent under samma                      •
-tidsperiod. Vi brukar prata om detta som att färre ska försörja fler eller Samverkan med andra förvaltningar.
-att vi ska genomföra 125% av vård och omsorg med endast 75% av          Det är genom ett förebyggande arbete
-tillgängliga resurser.                                                   och samarbete med vårt civilsamhälle
+•
+Samverkan med andra förvaltningar.
+
+Det är genom ett förebyggande arbete
+och samarbete med vårt civilsamhälle
 som vi kan säkerställa att våra kommun-
 invånare klarar sig bättre och längre
-Denna obalans innebär att vi aldrig kommer Därför är det av yttersta vikt att vi skapar en
-kunna rekrytera tillräckligt med personal för gemensam förståelse för varför vi måste ändra utan direkt behov av våra insatser.
-att täcka det ökande behovet. Samtidigt som våra arbetssätt för att möta dessa utmaningar.
+utan direkt behov av våra insatser.
+
 •
-vi ska ta hand om omkring 900 fler omsorgs- Hur kan vi som organisation klara av att till-
 Att omvärdera vår syn på hur och av
-tagare fram till år 2035, vet vi att behoven vi godose 125% av behoven inom vård och om-
 vem vård och omsorg bedrivs. Att
-möter blir alltmer komplexa och kräver mer sorg med endast 75% av resurserna? Hur kan
 tillgodose behoven är självklart men
-av vår organisation jämfört med tidigare. vi säkerställa att vår kompetenta personal kan
 hur de tillgodoses och av vem är den
-Dessa förändringar i samhället är de mest möta de ökande och komplexa behoven?
+
 omställning vi alla behöver ta ansvar för.
-påtagliga faktorerna som påverkar oss.
 
 <!-- sida 28 -->
 
@@ -1037,27 +1116,43 @@ Målsökande                 och      målstyrt
 
 För att effektivt hantera konsekvenserna av ett samhälle i förändring
 är det nödvändigt för förvaltningen att aktivt arbeta med innovation
+
 och utveckling. För att göra det behöver vi behärska två olika arbets-
 sätt – vi talar såklart om målstyrt och målsökande arbete.
 
-Ett målstyrt arbetssätt    Ett målsökande arbetssätt
-kännetecknas av:           kännetecknas av:
-• Vad som ska göras är tydligt och • Utgår från ett klart syfte i linje
-bestämt på förhand.       med vision eller utmaning.
+Ett målstyrt arbetssätt
+kännetecknas av:
 
-• Följer effektivt en förutbestämd • Kan inte planeras i förväg men har
-handlingsplan för att uppnå ett ändå en tydlig struktur.
-förväntat och önskat resultat. • Uppgifter bestäms löpande genom
-• Integrerar inte så mycket med om- samspel med omvärlden (målgrupper
-världen eller reagerar på förändring. och intressenter).
+• Vad som ska göras är tydligt och
+bestämt på förhand.
+• Följer effektivt en förutbestämd
+handlingsplan för att uppnå ett
+förväntat och önskat resultat.
+• Integrerar inte så mycket med om-
 
-• Fokuserar på att minimera risker, • Använder omvärlden som en arena
-inklusive störningar, förseningar och för att testa idéer och erhålla feedback.
-budgetavvikelser.        • Gör förändringar baserat på mottagen
+världen eller reagerar på förändring.
+• Fokuserar på att minimera risker,
+inklusive störningar, förseningar och
+budgetavvikelser.
+
+Ett målsökande arbetssätt
+kännetecknas av:
+
+• Utgår från ett klart syfte i linje
+med vision eller utmaning.
+• Kan inte planeras i förväg men har
+ändå en tydlig struktur.
+• Uppgifter bestäms löpande genom
+samspel med omvärlden (målgrupper
+
+och intressenter).
+• Använder omvärlden som en arena
+för att testa idéer och erhålla feedback.
+• Gör förändringar baserat på mottagen
 feedback.
+
 • Testar i liten skala för snabbt lärande och
 anpassning genom snabba misslyckanden.
-
 • Agerar på förändringar.
 
 Sammanfattningsvis kan det beskrivas som följer: målstyrt arbete
@@ -1067,12 +1162,30 @@ nya lösningar som inte är kända vid projektet/arbetets början.
 
 <!-- sida 29 -->
 
+Kommunens
+
+vision        och      mål
+
+Politikerna har fattat beslut om hur de vill att det ska
+vara att bo och leva i Kungsbacka år 2030. ”I Kungsbacka
+växer framtiden” är vår vision. Här skapar vi det goda livet
+tillsammans. Vi är öppna, trygga och nytänkande. Vi tar till
+
+vara på varje m änniskas p otential och näringslivet blomstrar.
+Här växer du hela livet. För att nå v isionen har fem kommun-
+övergripande mål tagits fram. Alla f örvaltningar ska bidra till
+att målen uppnås utifrån sina f örutsättningar. Nämnden för
+Vård & Omsorg har därefter k ompletterat med mål för det
+nämnden tycker är extra viktigt för vår förvaltning.
+
+För att ta del av kommunens vision och mål i sin helhet, besök kungsbacka.se
+
 8
 
-KOMMUNMÅL    1:
-En attraktiv kommun   att
+KOMMUNMÅL     1:
+En  attraktiv kommun   att
 
-bo, verka och  vistas i
+bo, verka och vistas i
 
 I Kungsbacka ska invånarna vara trygga och
 få en god vård och omsorg när de behöver stöd
@@ -1082,30 +1195,25 @@ mötesplatser för sam varo, rekreation,
 
 upplevelser och kreativa utbyten.
 
-KOMMUNMÅL    2:
+KOMMUNMÅL     2:
 En hållbar utveckling
-Kommunens
-och en hälsosam   miljö
+och en hälsosam  miljö
 
-vision        och      mål                                                Kungsbacka ska växa med en långsiktigt
+Kungsbacka ska växa med en långsiktigt
 hållbar ekonomi. Valfrihet, mångfald och
 livs kvalitet ska prägla vardagen och locka nya
-Politikerna har fattat beslut om hur de vill att det ska                 invånare. Växtkraften ger oss mer resurser till
-vara att bo och leva i Kungsbacka år 2030. ”I Kungsbacka                      den gemensamma välfärden.
-växer framtiden” är vår vision. Här skapar vi det goda livet
-tillsammans. Vi är öppna, trygga och nytänkande. Vi tar till
+invånare. Växtkraften ger oss mer resurser till
+den gemensamma välfärden.
 
-vara på varje m änniskas p otential och näringslivet blomstrar.
-KOMMUNMÅL    3:
-Här växer du hela livet. För att nå v isionen har fem kommun-
-övergripande mål tagits fram. Alla f örvaltningar ska bidra till          Bästa  företags klimatet
-att målen uppnås utifrån sina f örutsättningar. Nämnden för                     i Västsverige
-Vård & Omsorg har därefter k ompletterat med mål för det
-nämnden tycker är extra viktigt för vår förvaltning.                        Kungsbacka är en möjliggörare för
+KOMMUNMÅL     3:
+
+Bästa  företags klimatet
+i Västsverige
+
+Kungsbacka är en möjliggörare för
 entrepre nörer och företagsamma människor.
 Vi samverkar med näringsliv och utbildning för
 att skapa nya arbetstillfällen och bidra till
-För att ta del av kommunens vision och mål i sin helhet, besök kungsbacka.se
 personal försörjning i våra verksamheter.
 
 <!-- sida 30 -->
@@ -1144,23 +1252,46 @@ NÄMNDMÅL:
 Nämndmål
 Andelen  enskilda i våra verksamheter  som
 har en aktuell genomförandeplan    ska årligen
-–    nämndens
-öka  och år 2025 uppgå  till minst 95 procent.
+–   nämndens
+öka och  år 2025 uppgå  till minst 95 procent.
+
 prioritering             för
-Omvärldsspaningar visar att omsorgs- En genomförandeplan ska upprättas
-tagare kommer att vilja vara mera del - senast fyra veckor efter att omsorgs-
-åren       framåt                                   aktiga i beslut som avser den egna vården tagaren har fått ett biståndsbeslut verk-
-och omsorgen. Likaså ökar k raven på ställt. När vi följer upp andelen aktuella
-behovsanpassning utifrån den enskildes genomförandeplaner inkluderar vi därför
-Nämnden för Vård & Omsorg har möjlighet att         önskemål. Genomförande planerna ska inte de omsorgstagare som fått ett bistånds-
-fatta egna mål utöver de kommunövergripande         skapa en tydlig struktur för det praktiska beslut verkställt de senaste fyra veckorna.
-genomförandet och uppföljningen av Vi tar i nämndmålet höjd för att det därför
+
+åren       framåt
+
+Nämnden för Vård & Omsorg har möjlighet att
+fatta egna mål utöver de kommunövergripande
+
 målen. Nämnden har valt att fatta beslut om
-insatsen. Genomförande planen är också kommer finnas omsorgstagare som inte
 tre sådana mål för åren framåt.
-till för att säkerställa omsorgs tagarens har en aktuell genomförandeplan de första
-inflytande och delaktig het i utförandet veckorna, men arbetar självklart efter att
-av insatsen.               100 procent av omsorgstagarna ska ha
+
+Omvärldsspaningar visar att omsorgs-
+tagare kommer att vilja vara mera del -
+aktiga i beslut som avser den egna vården
+och omsorgen. Likaså ökar k raven på
+behovsanpassning utifrån den enskildes
+önskemål. Genomförande planerna ska
+skapa en tydlig struktur för det praktiska
+
+genomförandet och uppföljningen av
+insatsen. Genomförande planen är också
+till för att säkerställa omsorgs tagarens
+inflytande och delaktig het i utförandet
+av insatsen.
+
+En genomförandeplan ska upprättas
+senast fyra veckor efter att omsorgs-
+tagaren har fått ett biståndsbeslut verk-
+ställt. När vi följer upp andelen aktuella
+genomförandeplaner inkluderar vi därför
+inte de omsorgstagare som fått ett bistånds-
+beslut verkställt de senaste fyra veckorna.
+
+Vi tar i nämndmålet höjd för att det därför
+kommer finnas omsorgstagare som inte
+har en aktuell genomförandeplan de första
+veckorna, men arbetar självklart efter att
+100 procent av omsorgstagarna ska ha
 en aktuell genomförandeplan.
 
 <!-- sida 32 -->
@@ -1170,23 +1301,30 @@ en aktuell genomförandeplan.
 Byt  bild
 
 NÄMNDMÅL:                   NÄMNDMÅL:
-Antalet  pers onal som      Andelen medarbetare
+
+Antalet pers onal som       Andelen medarbetare
 en hemtjänstmottagare        och chefer som  väljer
-
 möter  under  14 dagar     att avsluta sin anställ-
-ska årligen minska och     ning hos Vård & Omsorg
-år 2025 uppgå  till maxi-    ska år 2025 uppgå  till
+ska årligen minska och    ning hos Vård  & Omsorg
 
+år 2025 uppgå  till maxi-    ska år 2025 uppgå  till
 malt  14 medarbetare.       maximalt  12 procent.
 
-Omsorgstagare i hemtjänsten ska ha en För att kunna leverera en god och nära
-personalkontinuitet de är nöjda med. vård och omsorg behöver vi med arbetare En hög personal-
-En hög personalkontinuitet bidrar till och chefer. Behovet är stort av med-
-kontinuitet      bidrar
-ökad t rygghet för de enskilda. En högre arbetare med utbildning och kompe tens
-personalkontinuitet bidrar också till ökat inom sina verksam hetsområden. En
+Omsorgstagare i hemtjänsten ska ha en
+personalkontinuitet de är nöjda med.
+En hög personalkontinuitet bidrar till
+ökad t rygghet för de enskilda. En högre
+personalkontinuitet bidrar också till ökat
+förtroende för personalen.
+
+För att kunna leverera en god och nära
+vård och omsorg behöver vi med arbetare      En   hög   personal-
+och chefer. Behovet är stort av med-
+kontinuitet       bidrar
+arbetare med utbildning och kompe tens
+inom sina verksam hetsområden. En
 till ökad    trygghet      för
-förtroende för personalen. viktig del för att klara bemanningen åren
+viktig del för att klara bemanningen åren
 framåt är att m inska personalomsättning-
 de  enskilda.
 en. Vi behöver fortsätta att rekrytera nya
@@ -1238,22 +1376,22 @@ fördelas över fem distrikt.
 
 13
 
-I budget 2024 är budgeten för för- Dessa insatser är inte fullt finansierade i
-valtningsledning gemensamt 61 mkr verksamheten och därför tillförs till verk-
-jämfört med 19 mkr 2023. Det beror samheten för 2024 10 miljoner kronor.
-på att den här budgeten inför 2024 Ersättningsmodellen för LOV-
-innehåller de generella satsningar som ersättningen till hemtjänsten har inte
-ska göras, t.ex. löneökning, uppräkning genomgått en grundlig granskning
-av dygnspriset för externa utförare Våbo, sedan 2009, men detta arbete har nu
-internhandel, hyror samt de nya trygg- genomförts och modellen har uppdaterats
-hetslarmen. Detta är ungefär 46 mkr för att motsvara verksamhetens förut-
-som kommer fördelas ut till distrikten sättningar år 2023. Med dessa strategiska
+I budget 2024 är budgeten för för-
+valtningsledning gemensamt 61 mkr
+jämfört med 19 mkr 2023. Det beror
+på att den här budgeten inför 2024
+innehåller de generella satsningar som
+ska göras, t.ex. löneökning, uppräkning
+av dygnspriset för externa utförare Våbo,
+internhandel, hyror samt de nya trygg-
+hetslarmen. Detta är ungefär 46 mkr
+som kommer fördelas ut till distrikten
 
-under året.                medel för delegerad HSL-ersättning samt
-Strategiska satsningar som förvaltning- medel som tillförs via omfördelningar
-en prioriterar inkluderar en avsättning kommer ersättningen som betalas ut till
-på 15 miljoner kronor för renoveringen hemtjänstutförarna att kunna anpassas
-av Signes Hus, som förväntas återuppta och ökas.
+under året.
+Strategiska satsningar som förvaltning-
+en prioriterar inkluderar en avsättning
+på 15 miljoner kronor för renoveringen
+av Signes Hus, som förväntas återuppta
 sin verksamhet 2025. En mindre satsning
 görs även för ”Lås & Larm”-enheten, där
 1,8 miljoner kronor tillförs.
@@ -1267,27 +1405,58 @@ avsatta för insatser som hemtjänsten
 utför på delegation från sjuksköterskor
 och rehabpersonal.
 
+Dessa insatser är inte fullt finansierade i
+verksamheten och därför tillförs till verk-
+samheten för 2024 10 miljoner kronor.
+Ersättningsmodellen för LOV-
+ersättningen till hemtjänsten har inte
+genomgått en grundlig granskning
+sedan 2009, men detta arbete har nu
+
+genomförts och modellen har uppdaterats
+för att motsvara verksamhetens förut-
+sättningar år 2023. Med dessa strategiska
+medel för delegerad HSL-ersättning samt
+medel som tillförs via omfördelningar
+kommer ersättningen som betalas ut till
+hemtjänstutförarna att kunna anpassas
+och ökas.
+
 <!-- sida 35 -->
 
 14
 
 Genomförandeplan
 
-Vi har en ny organisationsstruktur och skedet. Varje arbetsgrupp inkluderar
+Vi har en ny organisationsstruktur och
+fokuserar på att arbeta tvärprofessionellt
+för att effektivt möta de utmaningar som
+ett föränderligt samhälle ger oss. Vi
+jobbar med att anpassa roller och
+omarbeta etablerade arbetssätt. För att
+minska påfrestningen på våra olika
 
-fokuserar på att arbeta tvärprofessionellt representation från våra verksamheter.
-för att effektivt möta de utmaningar som Målet är att göra det enklare att imple-
-ett föränderligt samhälle ger oss. Vi mentera och förankra förändringar
-jobbar med att anpassa roller och inom Vård & Omsorg. Vi följer en mål-
-omarbeta etablerade arbetssätt. För att sökande strategi, vilket betyder att vi är
-minska påfrestningen på våra olika flexibla och kan justera våra planer om
+verksamheter koncentrerar vi våra
+aktiviteter till förvaltningsövergripande
+nivå. Initierade av förvaltningsledningen
+drivs aktiviteter i arbetsgrupper, där
+flera pilotprojekt och omfattande för-
+beredelser genomförs i det inledande
+
+skedet. Varje arbetsgrupp inkluderar
+representation från våra verksamheter.
+Målet är att göra det enklare att imple-
+mentera och förankra förändringar
+inom Vård & Omsorg. Vi följer en mål-
+sökande strategi, vilket betyder att vi är
+flexibla och kan justera våra planer om
 Kungsbackamodellen:
-verksamheter koncentrerar vi våra måluppfyllelsen inte blir tydlig. För att
-aktiviteter till förvaltningsövergripande ytterligare stärka förändringsprocessen
-nivå. Initierade av förvaltningsledningen anpassar vi successivt även genom-
-drivs aktiviteter i arbetsgrupper, där förandeplanen i förvaltnings-
-flera pilotprojekt och omfattande för- budgeten, både strukturellt
-beredelser genomförs i det inledande och innehållsmässigt.               Medicingivare:
+måluppfyllelsen inte blir tydlig. För att
+ytterligare stärka förändringsprocessen
+anpassar vi successivt även genom-
+förandeplanen i förvaltnings-
+budgeten, både strukturellt
+och innehållsmässigt.                         Medicingivare:
 
 IN
 Följande områden och aktiviteter i genomförandeplanen
@@ -1298,27 +1467,36 @@ förväntas bidra till att uppnå flera av de politiska målen.
 
 15
 
-Kungsbackamodellen
 Framtidens                arbetssätt
+
+I framtiden kommer vårt sätt att arbeta inom vård och
+omsorg att vara drivet av teknik, patientcentrerat och
+inriktat på att ge äldre människor chansen att leva självständigt
+och hälsosamt så länge som möjligt. För att uppnå detta
+behöver vi samarbeta, erbjuda utbildning och ha en helhetssyn
+på äldreomsorg, där målet är att förbättra livskvaliteten för
+alla äldre invånare. För att skapa en miljö som stöder
+
+åldrandet och främjar social delaktighet och möjligheter
+för äldre kommer det vara nödvändigt med samarbete mellan
+förvaltningar, ideella organisationer och näringslivet.
+
+Kungsbackamodellen
+
 Kungsbackamodellen handlar om att
 förändra vår hemtjänstprocess från
 grunden och gå ifrån den strikta minut-
-I framtiden kommer vårt sätt att arbeta inom vård och               styrningen vi har idag till ett tillits- och
-omsorg att vara drivet av teknik, patientcentrerat och              behovsbaserat arbetssätt. De viktigaste
-inriktat på att ge äldre människor chansen att leva självständigt       principerna i det nya arbetssättet är
-och hälsosamt så länge som möjligt. För att uppnå detta              IBIC (Individens behov i centrum),
+styrningen vi har idag till ett tillits- och
+behovsbaserat arbetssätt. De viktigaste
+principerna i det nya arbetssättet är
+IBIC (Individens behov i centrum),
 tillitsbaserad styrning samt den fasta
-behöver vi samarbeta, erbjuda utbildning och ha en helhetssyn
 omsorgskontakt omsorgstagare enligt
-på äldreomsorg, där målet är att förbättra livskvaliteten för
 lag har rätt till.
-alla äldre invånare. För att skapa en miljö som stöder
 Under 2024 introduceras modellen i
-åldrandet och främjar social delaktighet och möjligheter
 pilotformat inom ett utvalt distrikt och
-för äldre kommer det vara nödvändigt med samarbete mellan
+
 utvärderas under hösten. Nästa steg är
-förvaltningar, ideella organisationer och näringslivet.
 att införa modellen i alla distrikt. För-
 delarna med Kungsbackamodellen är
 kopplade både till kommunens övergri-
@@ -1331,6 +1509,7 @@ Genom gemensamma uppföljningar av
 behov, en ersättningsmodell som stödjer
 arbetssättet och ett tvärprofessionellt
 samarbete kommer varje professions
+
 kompetens till än större nytta. Omsorgs-
 tagarna förväntas uppleva ökad del-
 aktighet och inflytande över sin vård
@@ -1342,45 +1521,78 @@ händer där de behövs.
 
 <!-- sida 37 -->
 
+IBIC
+
+IBIC, Individens Behov i Centrum, är
+ett strukturerat arbetssätt utvecklat av
+Socialstyrelsen. Det fokuserar på indi-
+videns behov, resurser och mål. Arbetet
+med att införa IBIC inleddes inom
+förvaltningen 2015 och är det arbetssätt
+som förvaltningens medarbetare använ-
+der dagligen inom socialtjänstprocessen.
+Under 2024 fortsätter vi att fullständigt
+implementera IBIC, bland annat genom
+studiecirklar. Målet med studiecirklarna
+är att öka den enskildes delaktighet och
+
+inflytande, bygga en gemensam kunskaps-
+grund, stärka uppföljningsarbetet och
+öka förståelsen för varandras roller
+i socialtjänstprocessen.
+Förebyggande arbete
+(en väg in)
+
+Under 2023 genomfördes projektet
+”En Väg In,” vilket resulterade i ett
+koncept för det förebyggande arbetet i
+kommunen. Målet är att erbjuda väg-
+ledning och stöd för att stärka de egna
+förmågorna för de individer som ännu
+
+inte har ett biståndsbeslut. Detta innebär
+en framflyttning i tiden av behovet av
+biståndsinsatser. Projektet har samlat den
+kompetens som behövs för att erbjuda ett
+heltäckande stöd.
+
 16
 
-IBIC
 Genom ökad samverkan med civil-
-IBIC, Individens Behov i Centrum, är samhället och näringslivet skapas också
-ett strukturerat arbetssätt utvecklat av alternativa stödfunktioner. Genom att
-Socialstyrelsen. Det fokuserar på indi- utvidga utbudet och inkludera fler i
-videns behov, resurser och mål. Arbetet omtanken om våra invånare möjliggörs
-med att införa IBIC inleddes inom olika sätt att tillgodose deras behov av
-förvaltningen 2015 och är det arbetssätt social gemenskap och delaktighet.
-som förvaltningens medarbetare använ-
+samhället och näringslivet skapas också
+alternativa stödfunktioner. Genom att
+utvidga utbudet och inkludera fler i
+omtanken om våra invånare möjliggörs
+olika sätt att tillgodose deras behov av
+social gemenskap och delaktighet.
+
 God och nära vård
-der dagligen inom socialtjänstprocessen.
-Under 2024 fortsätter vi att fullständigt ”God och Nära Vård” är namnet på en
-implementera IBIC, bland annat genom pågående reform i hela Sverige, och
-studiecirklar. Målet med studiecirklarna Kungsbacka kommun är en del av detta
-är att öka den enskildes delaktighet och genom samverkan med Region Halland
-inflytande, bygga en gemensam kunskaps- och andra kommuner i Halland. Målet
-grund, stärka uppföljningsarbetet och är att underlätta övergången till framti-
-öka förståelsen för varandras roller dens vård och omsorg. Inom Kungsbacka
-i socialtjänstprocessen.   kommun pågår en förvaltningsöverskri-
+”God och Nära Vård” är namnet på en
+pågående reform i hela Sverige, och
+
+Kungsbacka kommun är en del av detta
+genom samverkan med Region Halland
+och andra kommuner i Halland. Målet
+är att underlätta övergången till framti-
+dens vård och omsorg. Inom Kungsbacka
+kommun pågår en förvaltningsöverskri-
 dande samverkan.
-Förebyggande arbete
 Fokus ligger på kompetenshöjande
-(en väg in)
 åtgärder, särskilt inom förebyggande,
-Genom      ökad   samverkan
-Under 2023 genomfördes projektet rehabiliterande och hälsofrämjande
-”En Väg In,” vilket resulterade i ett arbete, samt samordning mellan olika med civilsamhället
-koncept för det förebyggande arbetet i yrkesgrupper. Målet är också att göra
-kommunen. Målet är att erbjuda väg- invånarna till aktiva deltagare i skapan- och näringslivet skapas
-ledning och stöd för att stärka de egna det av ett tryggt och omhändertagande
+Genom     ökad    samverkan
+rehabiliterande och hälsofrämjande
+arbete, samt samordning mellan olika       med    civilsamhället
+yrkesgrupper. Målet är också att göra
+invånarna till aktiva deltagare i skapan- och näringslivet     skapas
+det av ett tryggt och omhändertagande
 också    alternativa
-förmågorna för de individer som ännu samhälle. Genom denna samordnade
-inte har ett biståndsbeslut. Detta innebär och utökade kompetens strävar vi efter stödfunktioner.
-en framflyttning i tiden av behovet av att ge individen möjlighet att vara mer
-biståndsinsatser. Projektet har samlat den delaktig i sin vård och omsorg, samt att
-kompetens som behövs för att erbjuda ett stödja och uppmuntra till ett ökat eget
-heltäckande stöd.          ansvar för hälsan.
+samhälle. Genom denna samordnade
+och utökade kompetens strävar vi efter
+stödfunktioner.
+att ge individen möjlighet att vara mer
+delaktig i sin vård och omsorg, samt att
+stödja och uppmuntra till ett ökat eget
+ansvar för hälsan.
 
 <!-- sida 38 -->
 
@@ -1388,54 +1600,109 @@ heltäckande stöd.          ansvar för hälsan.
 
 Välfärdsteknik
 
-För att säkra en god och nära vård med av medicin ges vid exakt rätt tidpunkt
-rätt kompetens på rätt plats måste vi dra med hjälp av ljud- och ljuspåminnelser.
-nytta av möjligheterna med välfärdsteknik. Denna beprövade teknik, rekommende-
-Med digitala hjälpmedel kan vi säker- rad av Sveriges Kommuner och Regioner
-ställa en hög livskvalitet för äldre, öka (SKR) och redan införd i över 100
-säkerheten och effektiviteten inom kommuner, ger stöd åt patienter som
-vården samt förbättra kontinuiteten. går över till hemsjukvård med läke-
-Dessutom behöver vi avlasta personalen medelsansvar.
-från uppgifter som inte kräver fysisk Genom ett samarbete mellan olika
-närvaro, så de kan fokusera på mer professioner säkerställs att de äldre
-komplexa behov. Tekniken utgör en känner sig trygga med tekniken och att
-betydande tillgång för att möta de väx- deras övriga behov blir tillgodosedda,
+För att säkra en god och nära vård med
+rätt kompetens på rätt plats måste vi dra
+nytta av möjligheterna med välfärdsteknik.
+Med digitala hjälpmedel kan vi säker-
+ställa en hög livskvalitet för äldre, öka
+säkerheten och effektiviteten inom
+vården samt förbättra kontinuiteten.
 
-ande behoven inom äldreomsorgen och vilket i sin tur stärker deras självständig-
-för att främja en inkluderande och ålders- het. Målet för 2024 är att fullt ut införa
-vänlig samhällsmiljö. Med ett tydligt medicingivare, vilket enligt SKR:s
-inriktningsbeslut från nämnden om bedömning innebär att 2 procent av
-digitala lösningar som norm “digitalt invånarna över 80 år, alltså minst 115
-först” fortsätter arbetet med att införa personer i Kungsbacka, kommer att
-teknik i våra olika verksamheter. omfattas av detta. För Vård &
-Omsorg förväntas detta leda till ökad
+Dessutom behöver vi avlasta personalen
+från uppgifter som inte kräver fysisk
+närvaro, så de kan fokusera på mer
+komplexa behov. Tekniken utgör en
+betydande tillgång för att möta de väx-
+ande behoven inom äldreomsorgen och
+för att främja en inkluderande och ålders-
+vänlig samhällsmiljö. Med ett tydligt
+inriktningsbeslut från nämnden om
+digitala lösningar som norm “digitalt
+först” fortsätter arbetet med att införa
+teknik i våra olika verksamheter.
+
 Medicingivare
+
+Genom användningen av medicin-
+givare, även kända som läkemedels-
+automater eller robotar, kan rätt dos
+
+av medicin ges vid exakt rätt tidpunkt
+med hjälp av ljud- och ljuspåminnelser.
+Denna beprövade teknik, rekommende-
+rad av Sveriges Kommuner och Regioner
+(SKR) och redan införd i över 100
+kommuner, ger stöd åt patienter som
+går över till hemsjukvård med läke-
+
+medelsansvar.
+Genom ett samarbete mellan olika
+professioner säkerställs att de äldre
+känner sig trygga med tekniken och att
+deras övriga behov blir tillgodosedda,
+vilket i sin tur stärker deras självständig-
+het. Målet för 2024 är att fullt ut införa
+medicingivare, vilket enligt SKR:s
+bedömning innebär att 2 procent av
+invånarna över 80 år, alltså minst 115
+personer i Kungsbacka, kommer att
+omfattas av detta. För Vård &
+Omsorg förväntas detta leda till ökad
+
 följsamhet vid läkemedelsintag, ökad
-Genom användningen av medicin- självständighet hos patienterna, mer
-givare, även kända som läkemedels- flexibel planering av hemtjänsten och
-automater eller robotar, kan rätt dos minskad restid för hemtjänstpersonalen.
+självständighet hos patienterna, mer
+flexibel planering av hemtjänsten och
+minskad restid för hemtjänstpersonalen.
 
 <!-- sida 39 -->
 
+Digital tillsyn
+
+Vård & Omsorg kommer att erbjuda
+Det är en säker,
+digital nattillsyn via kamera som det
+beprövad   och        primära alternativet för de som behöver
+rekommenderad          tillsyn under natten. Det är en säker,
+beprövad och rekommenderad teknik
+teknik som
+som möjliggör en trygg och orörd
+möjliggör en trygg
+sömn för den enskilde. Målet för 2024
+och  orörd sömn        är att sträva mot en fullständig imple-
+mentering av digital nattillsyn, vilket
+för den enskilde.
+Sveriges Kommuner och Regioner
+(SKR) bedömer vara 1,5 procent av
+
 18
 
-Digital tillsyn
-kommunens invånare över 80 år. Detta vårdbehov. Genom användningen av
-Vård & Omsorg kommer att erbjuda innebär att minst 85 personer inom SEFOS, en plattform för säker kommu-
-Det  är en säker,
-digital nattillsyn via kamera som det Vård & Omsorg kommer att använda nikation, kan Vård & Omsorg nu erbjuda
-beprövad   och        primära alternativet för de som behöver digital nattillsyn. De förväntade effek- digital och säker kommunikation både
-rekommenderad          tillsyn under natten. Det är en säker, terna inkluderar förbättrad sömn- med invånare och internt inom kommu-
-beprövad och rekommenderad teknik kvalitet för individen, minskad restid nen. Tidigare fysisk kommunikation på
-teknik som
-som möjliggör en trygg och orörd för nattlig vårdpersonal och minskat grund av sekretesskrav kan nu erbjudas
-möjliggör en trygg      sömn för den enskilde. Målet för 2024 antal nattliga besök. digitalt genom denna säkra plattform.
-och  orörd sömn        är att sträva mot en fullständig imple-               Genom digitala patientmöten kan vård-
+kommunens invånare över 80 år. Detta
+innebär att minst 85 personer inom
+Vård & Omsorg kommer att använda
+digital nattillsyn. De förväntade effek-
+terna inkluderar förbättrad sömn-
+kvalitet för individen, minskad restid
+för nattlig vårdpersonal och minskat
+antal nattliga besök.
+
 Digitala patientmöten
-mentering av digital nattillsyn, vilket               givare övervaka patientens tillstånd,
-för den enskilde.
-Sveriges Kommuner och Regioner Digitala patientmöten representerar en diskutera behandlingsplaner och ge råd-
-(SKR) bedömer vara 1,5 procent av effektiv och modern metod för att möta givning på ett smidigt och säkert sätt.
+Digitala patientmöten representerar en
+
+effektiv och modern metod för att möta
+
+vårdbehov. Genom användningen av
+SEFOS, en plattform för säker kommu-
+nikation, kan Vård & Omsorg nu erbjuda
+digital och säker kommunikation både
+med invånare och internt inom kommu-
+nen. Tidigare fysisk kommunikation på
+grund av sekretesskrav kan nu erbjudas
+
+digitalt genom denna säkra plattform.
+Genom digitala patientmöten kan vård-
+givare övervaka patientens tillstånd,
+diskutera behandlingsplaner och ge råd-
+givning på ett smidigt och säkert sätt.
 
 <!-- sida 40 -->
 
@@ -1483,46 +1750,73 @@ kompetensförsörjning
 
 för    framtiden
 
-Vi strävar efter att använda varje med- yrkesroller kommer fortgå och i de
-arbetares kunskap på bästa sätt och delar som redan identifierats kommer
-
-skapa en arbetsmiljö där “varma händer” implementering påbörjas.
+Vi strävar efter att använda varje med-
+arbetares kunskap på bästa sätt och
+skapa en arbetsmiljö där “varma händer”
 gör mest nytta. Vårt fokus är på
-Bemanning
 framtidens vård och omsorg. Genom
-rätta förutsättningar för våra medar- Under 2024 kommer arbete med att
-betare skapar vi trygghet att möta fram- utveckla organiseringen för insats-
-tidens utmaningar. Det främjar inte och bemanningsplanering genomföras.
-bara en god arbetsmiljö utan gör oss Arbetet syftar till att utveckla alternativa
-också till en attraktiv arbetsgivare där arbetssätt i insatsplanering, bemanning
-medarbetare väljer att stanna. och schema utifrån omsorgstagarens
-behov. Effekten av arbetet förväntas
+rätta förutsättningar för våra medar-
+betare skapar vi trygghet att möta fram-
+
+tidens utmaningar. Det främjar inte
+bara en god arbetsmiljö utan gör oss
+också till en attraktiv arbetsgivare där
+medarbetare väljer att stanna.
 Renodla Yrkesroller
-leda till att vi kan möta den framtida
-Under 2024 fortsätter förvaltningen efterfrågan på välfärdstjänster samtidigt
-att bevaka och implementera karriär- som medarbetarna kan få en bättre
-vägsmodeller inom olika yrkesroller arbetsmiljö med hållbara scheman och
-och verksamhetsområden. Arbetet variation i arbetet.
+
+Under 2024 fortsätter förvaltningen
+att bevaka och implementera karriär-
+vägsmodeller inom olika yrkesroller
+och verksamhetsområden. Arbetet
 internt med att se över och renodla
+
+yrkesroller kommer fortgå och i de
+delar som redan identifierats kommer
+implementering påbörjas.
+
+Bemanning
+Under 2024 kommer arbete med att
+utveckla organiseringen för insats-
+
+och bemanningsplanering genomföras.
+Arbetet syftar till att utveckla alternativa
+arbetssätt i insatsplanering, bemanning
+och schema utifrån omsorgstagarens
+behov. Effekten av arbetet förväntas
+leda till att vi kan möta den framtida
+efterfrågan på välfärdstjänster samtidigt
+som medarbetarna kan få en bättre
+arbetsmiljö med hållbara scheman och
+variation i arbetet.
 
 <!-- sida 42 -->
 
 21
 
-Utvecklande                Kompetensutveckling
+Utvecklande
 medarbetarskap
-Formell kompetensutveckling erbjuds
-Under 2024 kommer förvaltningen under 2024, samtidigt som vår interna
-fortsätta arbetet med utvecklande med- kompetensutvecklingsorganisation
-arbetarskap på hemmaplan med nära vidareutvecklas. Vi fortsätter arbetet med
-koppling till det dagliga arbetet. Utveck- att utforska VR-teknik i utbildningar för
-lande medarbetarskap handlar om att att minska kostnader och öka kvaliteten i
-öka medarbetarnas delaktighet, engage- omsorgen.
+Under 2024 kommer förvaltningen
+fortsätta arbetet med utvecklande med-
+arbetarskap på hemmaplan med nära
+koppling till det dagliga arbetet. Utveck-
+
+lande medarbetarskap handlar om att
+öka medarbetarnas delaktighet, engage-
 mang och ansvarstagande på sin arbets-
 plats. Detta i sin tur förväntas bidra till
 en god arbetsmiljö och välmående, högre
 kvalitet och effektivitet i det dagliga
 arbetet och minskad personalomsättning.
+
+Kompetensutveckling
+
+Formell kompetensutveckling erbjuds
+under 2024, samtidigt som vår interna
+kompetensutvecklingsorganisation
+vidareutvecklas. Vi fortsätter arbetet med
+att utforska VR-teknik i utbildningar för
+att minska kostnader och öka kvaliteten i
+omsorgen.
 
 <!-- sida 43 -->
 
@@ -3134,8 +3428,6 @@ personal att uppnå de nya kravnivåerna, med stöd i form av tex språkkurser o
 bedömningstester.
 
 Per Hoel Stefan Jägnert
-
-2 SR
 
 SD Kungsbacka SD Kungsbacka
 
