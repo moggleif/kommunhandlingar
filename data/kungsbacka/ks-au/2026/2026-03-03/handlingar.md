@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3fcba5dd19c985df70620d4f/1772190296
 sha256: a323ba9c7e7693d038a5e939c532373336c14ada0a7ed880f400a4b3f57bab05
 bytes: 58140455
 sidor: 493
-hamtad: 2026-11-09T23:41:21+00:00
-konverterad: 2026-11-09T23:47:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T23:21:05+00:00
+konverterad: 2026-11-19T23:27:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, tabell-osaker, ok, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ocr, ocr, ocr, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ej-konverterad, ocr, ocr]
@@ -2740,6 +2740,12 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       →
 
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar
+→
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    —
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      —
+
 Måluppfyllelse
 
 Efter några år med låg befolkningstillväxt har utveck-
@@ -2782,8 +2788,6 @@ sojafärs mot inhemskt producerad ärtfärs. De beräknade
 utsläppen av koldioxid per kilo livsmedel har sjunkit
 drygt 17 procent under året jämfört med förra årets
 resultat.
-
-34 Kungsbacka kommuns årsredovisning 2025
 
 Som ett kvitto på klimatarbetet placerade sig Kungsbacka
 kommun på första plats i rankingen Miljöfordonsdiagnos
@@ -2828,12 +2832,7 @@ samtidigt fortsatt att arbeta med hälsofrämjande utevis-
 telse. Medarbetare har fått utbildning i Häng med oss ut
 och vi har startat projektet Expedition Meningsfull Fritid
 
-[Tabell 43-1](handlingar.tabeller/43-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | — |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | — |
+34 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 44 -->
 
@@ -3233,6 +3232,13 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
 
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+—
+ledare.
+
 Måluppfyllelse
 Trenden inom de olika fokusområdena skiljer sig inte
 avsevärt från tidigare år. Vi ser en fortsatt positiv riktning
@@ -3318,12 +3324,6 @@ av ytterligare utveckling. Vidare visar undersökningen
 att det fungerar bra att komma i kontakt med kommunen
 och få svar på frågor men möjligheten till insyn och
 inflytande kan bli bättre.
-
-[Tabell 51-1](handlingar.tabeller/51-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | — |
 
 <!-- sida 52 -->
 

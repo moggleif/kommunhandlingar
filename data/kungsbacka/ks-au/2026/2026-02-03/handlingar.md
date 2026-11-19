@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.63e7dd7019bfe963d534dc3e/1769679530
 sha256: a3282993970c1e12ecc70aec5a956778d670f60894c4c3d8090a5f2b0d38e6cf
 bytes: 6198562
 sidor: 197
-hamtad: 2026-11-09T23:38:56+00:00
-konverterad: 2026-11-09T23:39:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T23:18:27+00:00
+konverterad: 2026-11-19T23:19:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [21, 28, 35, 172]
 figurer: [10, 11, 15, 21, 24, 25, 26, 27, 28, 29, 30, 31, 35, 38, 39, 40, 41, 42, 43, 76, 102, 103, 106, 107, 116, 117, 118, 160]
 tolkade: []
@@ -8853,13 +8853,13 @@ exempel där de kan skapa nytta.
 
 5.2 Resursmått
 
-Namn                      Utfall  Utfall  Utfall Utfall  Utfall
-2021    2022    2023   2024    2025
-Ledtid detaljplan från projektstart till
-25      27      31     28      56
-antagande, anges i månader
-
 18
+
+[Tabell 189-1](handlingar.tabeller/189-1.csv)
+
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Ledtid detaljplan från projektstart till<br>antagande, anges i månader | 25 | 27 | 31 | 28 | 56 |
 
 <!-- sida 190 -->
 
@@ -8868,30 +8868,29 @@ Kommunstyrelsen                                  Kungsbacka kommun
 
 5.3 Prestationsmått
 
-Ledtid planbesked till projektstart, anges
-24      24     31      32      14
-i månader
 5.4 Effektmått
 
-Namn                           Utfall  Utfall Utfall Utfall Utfall
-2021    2022    2023   2024   2025
-Antal nystartade företag per 1000 invånare
-13,8   12,8    10,3   12,3   \*
-16–64 år (etableringsfrekvens)
-Antal arbetsställen           11 603  11 808  11 948 11 987  \*
-Sysselsatt dagbefolkning, 15–74 år 28 167 28 494 28 586 28 426 \*
 \* Ännu ej publicerad
 
 19
 
 [Tabell 190-1](handlingar.tabeller/190-1.csv)
 
-| Namn | Utfall 2021 | Utfall 2022 | Utfall 2023 | Utfall 2024 | Utfall 2025 |
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
 | --- | --- | --- | --- | --- | --- |
 | Upprättade detaljplaner | 11 | 12 | 9 | 10 | 11 |
 | Antal företagsärenden i företagslotsen | 46 | 50 | 60 | 46 | 38 |
 | Planlagda bostäder | 662 | 381 | 386 | 248 | 940 |
 | Automatiserade processer | 11 | 3 | 7 | 7 | 8 |
+| Ledtid planbesked till projektstart, anges<br>i månader | 24 | 24 | 31 | 32 | 14 |
+
+[Tabell 190-2](handlingar.tabeller/190-2.csv)
+
+| Namn | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Utfall<br>2024 | Utfall<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Antal nystartade företag per 1000 invånare<br>16–64 år (etableringsfrekvens) | 13,8 | 12,8 | 10,3 | 12,3 | \* |
+| Antal arbetsställen | 11 603 | 11 808 | 11 948 | 11 987 | \* |
+| Sysselsatt dagbefolkning, 15–74 år | 28 167 | 28 494 | 28 586 | 28 426 | \* |
 
 <!-- sida 191 -->
 
@@ -9034,34 +9033,27 @@ under året varit längre.
 
 6.4 Resursmått
 
-Bokslut  Bokslut Bokslut Bokslut  Bokslut
-
-```osaker-tabell
-                       2021     2022    2023    2024     2025
-
-Andel heltid          100 %    100 %   100 %    100 %    99,2 %
-
-Anställda andel kvinnor 74 %   75,8 %   72 %    73,8 %   75 %
-
-Anställda totalt       127      124     125      126      128
-Medelålder             45       45       46      47       47
-```
-
 6.5 Effektmått
 
-Bokslut   Bokslut Bokslut  Bokslut  Bokslut
-
-```osaker-tabell
-                    2021      2022    2023     2024     2025
-Personalomsättning  7,4 %    11,7 %   8,3 %    4,8 %    8 %
-
-Sjukfrånvaro kvinnor 2,6 %    3 %     3,3 %    2,3 %    4 %
-Sjukfrånvaro män    0,4 %    1,1 %    0,8 %     1 %     0 %
-
-Sjukfrånvaro totalt  2 %     2,5 %    2,6 %    1,9 %    3 %
-```
-
 22
+
+[Tabell 193-1](handlingar.tabeller/193-1.csv)
+
+|  | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 100 % | 100 % | 100 % | 100 % | 99,2 % |
+| Anställda andel kvinnor | 74 % | 75,8 % | 72 % | 73,8 % | 75 % |
+| Anställda totalt | 127 | 124 | 125 | 126 | 128 |
+| Medelålder | 45 | 45 | 46 | 47 | 47 |
+
+[Tabell 193-2](handlingar.tabeller/193-2.csv)
+
+|  | Bokslut<br>2021 | Bokslut<br>2022 | Bokslut<br>2023 | Bokslut<br>2024 | Bokslut<br>2025 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 7,4 % | 11,7 % | 8,3 % | 4,8 % | 8 % |
+| Sjukfrånvaro kvinnor | 2,6 % | 3 % | 3,3 % | 2,3 % | 4 % |
+| Sjukfrånvaro män | 0,4 % | 1,1 % | 0,8 % | 1 % | 0 % |
+| Sjukfrånvaro totalt | 2 % | 2,5 % | 2,6 % | 1,9 % | 3 % |
 
 <!-- sida 194 -->
 
