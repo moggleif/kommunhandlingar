@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241125164050id_/https://kungsbacka.se/d
 sha256: 4d910cb36a6d61f72e9588a472c63b2771f1f992ed3feb882f958dd791c6bc14
 bytes: 3666794
 sidor: 99
-hamtad: 2026-10-20T08:09:06+00:00
-konverterad: 2026-10-20T08:09:23+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-19T13:42:06+00:00
+konverterad: 2026-11-19T13:42:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -1989,16 +1989,16 @@ Uppföljningsrapport intern kontroll 2023
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
-| Kategorier | Matrisnr Risker Till plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Processen för avslut av Ja<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. |
-| Ekonomi | 2 Kommunövergripande risk: Redovisning av Ja<br>representation |
-|  | 3 Kommunövergripande risk: Debiteringsrutiner Ja |
-| Informationssäker<br>het,<br>administration,<br>inköp... | 4 Kommunövergripande risk: Inköp (granskning Ja<br>begränsas till belopp över 100.000:-) |
-|  | 5 Kommunövergripande risk: Bristande hantering av Ja<br>delegationsbeslut |
-|  | 6 Kommunövergripande risk: informationssäkerhet; Ja<br>skydd av information mot obehörig tillgång |
-| Verksamhet | 7 Kommunövergripande risk - Risk för korruption Ja |
-|  | 8 Elevers garanterade undervisningstid Ja |
+| Kategorier |  | Matrisnr | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Processen för avslut av<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. | Ja |
+| Ekonomi |  | 2 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+|  |  | 3 | Kommunövergripande risk: Debiteringsrutiner | Ja |
+| Informationssäker<br>het,<br>administration,<br>inköp... |  | 4 | Kommunövergripande risk: Inköp (granskning<br>begränsas till belopp över 100.000:-) | Ja |
+|  |  | 5 | Kommunövergripande risk: Bristande hantering av<br>delegationsbeslut | Ja |
+|  |  | 6 | Kommunövergripande risk: informationssäkerhet;<br>skydd av information mot obehörig tillgång | Ja |
+| Verksamhet |  | 7 | Kommunövergripande risk - Risk för korruption | Ja |
+|  |  | 8 | Elevers garanterade undervisningstid | Ja |
 
 <!-- sida 58 -->
 
@@ -2146,20 +2146,32 @@ också lagt ut mentorstid, arenatid, arbetspass, extrapass som utökad timplan.
 
 [Tabell 60-61-1](handlingar.tabeller/60-61-1.csv)
 
-| Risker | Enhet Granskningsaktiviteter | Åtgärder |
-| --- | --- | --- |
-| Kommunövergripande<br>risk: Redovisning av<br>representation | Granskning av<br>Förskola & Grundskola representationskostnader<br>mm | Generell<br>utbildningsinsats för<br>chefer och<br>administratörer -<br>representation |
-|  |  | Extra stöd till enheter<br>med systematiska brister |
-|  |  | Återlämna felaktiga<br>fakturor till enhet för<br>korrigering |
-| Kommunövergripande<br>risk: Processen för avslut<br>av anställning<br>säkerställer inte att alla<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. | Granskning av avslut av<br>behörigheter vid avslut<br>Förskola & Grundskola<br>av anställning (eller byte<br>av tjänst) | I förvaltningens arbete med<br>att kvalitetssäkra goda<br>avslut av anställning tillförs<br>fokus på praktiska rutiner.<br>Praktiska rutiner vid avslut<br>läggs till i checklistan för<br>chefer vid terminsstart. |
-| Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | Granskning av att<br>genomförda inköp följer<br>Förskola & Grundskola<br>inköpsprocessen och<br>gällande styrdokument | Generell<br>utbildningsinsats för<br>chefer och<br>administratörer -inköp<br>(direktupphandling).<br>Genomgång av hur<br>kontroll kan göras med<br>hjälp av BI-verktyget. |
-|  |  | Utbildningsinsats<br>ekonomi |
-| Kommunövergripande<br>risk: Bristande hantering<br>av delegationsbeslut | Granskning av<br>Förskola & Grundskola<br>delegeringsbeslut | Fortsatta<br>informationsinsatser<br>anpassade efter olika<br>målgrupper. |
-|  |  | Rapporteringsrutin och<br>rapport från<br>elevhälsosystem behöver<br>säkerställas. |
-| Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information mot<br>obehörig tillgång | Förslag: Granska att det<br>finns 1. en aktuell<br>informationsklassning<br>och tillhörande<br>Förskola & Grundskola handlingsplan 2. att det<br>finns en tröskelanalys, 3.<br>Om tillämpligt att det<br>finns en DPIA<br>(konsekvensanalys). | Rutin och<br>ansvarsfördelning<br>informationsklassning FG |
-| Kommunövergripande<br>risk - Risk för korruption | Nuläge förebyggande<br>Förskola & Grundskola<br>arbete korruption | Fördjupad dialog<br>medarbetare stödfunktioner<br>ekonomi, HR och<br>Myndighet och stöd |
-| Elevers garanterade<br>undervisningstid | Skolors schema i relation<br>Förskola & Grundskola<br>till beslutad timplan | Beslut av grundskolornas<br>reviderade timplaner<br>inför Ht 2023. |
-|  |  | Säkerställa rutin för<br>beräkning av<br>undervisningstid |
+| Risker | Enhet | Granskningsaktiviteter | Åtgärder |
+| --- | --- | --- | --- |
+| Kommunövergripande<br>risk: Redovisning av<br>representation | Förskola & Grundskola | Granskning av<br>representationskostnader<br>mm | Generell<br>utbildningsinsats för<br>chefer och<br>administratörer -<br>representation |
+|  |  |  | Extra stöd till enheter<br>med systematiska brister |
+|  |  |  | Återlämna felaktiga<br>fakturor till enhet för<br>korrigering |
+| Kommunövergripande<br>risk: Processen för avslut<br>av anställning<br>säkerställer inte att alla<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. | Förskola & Grundskola | Granskning av avslut av<br>behörigheter vid avslut<br>av anställning (eller byte<br>av tjänst) | I förvaltningens arbete med |
+|  |  |  | att kvalitetssäkra goda |
+|  |  |  | avslut av anställning tillförs |
+|  |  |  | fokus på praktiska rutiner. |
+|  |  |  |  |
+|  |  |  | Praktiska rutiner vid avslut |
+|  |  |  | läggs till i checklistan för |
+|  |  |  | chefer vid terminsstart. |
+| Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | Förskola & Grundskola | Granskning av att<br>genomförda inköp följer<br>inköpsprocessen och<br>gällande styrdokument | Generell<br>utbildningsinsats för<br>chefer och<br>administratörer -inköp<br>(direktupphandling).<br>Genomgång av hur<br>kontroll kan göras med<br>hjälp av BI-verktyget. |
+|  |  |  | Utbildningsinsats<br>ekonomi |
+| Kommunövergripande<br>risk: Bristande hantering<br>av delegationsbeslut | Förskola & Grundskola | Granskning av<br>delegeringsbeslut | Fortsatta<br>informationsinsatser<br>anpassade efter olika<br>målgrupper. |
+|  |  |  | Rapporteringsrutin och<br>rapport från<br>elevhälsosystem behöver<br>säkerställas. |
+| Kommunövergripande<br>risk:<br>informationssäkerhet;<br>skydd av information mot<br>obehörig tillgång | Förskola & Grundskola | Förslag: Granska att det<br>finns 1. en aktuell<br>informationsklassning<br>och tillhörande<br>handlingsplan 2. att det<br>finns en tröskelanalys, 3.<br>Om tillämpligt att det<br>finns en DPIA<br>(konsekvensanalys). | Rutin och |
+|  |  |  | ansvarsfördelning |
+|  |  |  | informationsklassning FG |
+| Kommunövergripande<br>risk - Risk för korruption | Förskola & Grundskola | Nuläge förebyggande<br>arbete korruption | Fördjupad dialog |
+|  |  |  | medarbetare stödfunktioner |
+|  |  |  | ekonomi, HR och |
+|  |  |  | Myndighet och stöd |
+| Elevers garanterade<br>undervisningstid | Förskola & Grundskola | Skolors schema i relation<br>till beslutad timplan | Beslut av grundskolornas<br>reviderade timplaner<br>inför Ht 2023. |
+|  |  |  | Säkerställa rutin för<br>beräkning av<br>undervisningstid |
 
 <!-- sida 61 -->
 
@@ -2215,28 +2227,28 @@ till kommunens rapport.
 
 [Tabell 63-64-1](handlingar.tabeller/63-64-1.csv)
 
-| Område | Frågor Svar, Antal 2023 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2023 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta<br>lagar, förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp<br>mål och styrdokument som beskrivs i<br>nämndens uppdrag, och i förekommande<br>fall förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver<br>hur, av vem och när de olika kraven ska<br>följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem<br>och betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med<br>nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens<br>processer är dokumenterade (ingår i<br>rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 64 -->
 
@@ -2658,32 +2670,32 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 77-1](handlingar.tabeller/77-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Brister vid som besvärande för<br>referenstagning berörda intressenter och<br>kommunen) |
-| Ekonomi | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Grundläggande som besvärande för<br>redovisning kvalitetsbrister berörda intressenter och<br>kommunen) |
-| Verksamhet | 3 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>inträffa) |
-|  | 4 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorgnisationen i kommunen)<br>egen verksamhet |
-|  | 5 Risk för bristande 3. Vanligt 4. Allvarlig/stor inverkan Ja<br>systematik i (så stor att den inte får<br>säkerhetsarbetet inträffa) |
-|  | 6 Risk för ineffektivt 3. Vanligt 3. Kännbar (uppfattas Ja<br>nyttjande av lokaler för som besvärande för<br>utbildning berörda intressenter och<br>kommunen) |
-|  | 7 Risk för integrerade 3. Vanligt 4. Allvarlig/stor inverkan Ja<br>elevers lagstadgade rätt till (så stor att den inte får<br>undervisning inträffa) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Brister vid<br>referenstagning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 2 Kommunövergripande<br>risk: Grundläggande<br>redovisning kvalitetsbrister | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 3 Kommunövergripande<br>risk - Risk för korruption | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorgnisationen i<br>egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 5 Risk för bristande<br>systematik i<br>säkerhetsarbetet | 3. Vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 6 Risk för ineffektivt<br>nyttjande av lokaler för<br>utbildning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 7 Risk för integrerade<br>elevers lagstadgade rätt till<br>undervisning | 3. Vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
 
 [Tabell 77-78-2](handlingar.tabeller/77-78-2.csv)
 
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergripa Ej relevant för Förskola & Grundskola<br>nde risk: Resurs-<br>och<br>kompetensbrist |
-|  | Kommunövergripa Ej relevant för Förskola & Grundskola<br>nde risk:<br>Övertidsersättning<br>betalas ut på fel<br>grund |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergripa Ej relevant för Förskola & Grundskola<br>nde risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) |
-| Verksamhet | Elever med NPF- Mål i Nämndbudget 2024. Pågående<br>rätt till utvecklingsarbete/aktiviteter och uppföljning.<br>undervisning<br>(frånavaro/betyg) |
-|  | Tillräckligt stöd för Mål i Nämndbudget 2024. Pågående<br>att få godkända utvecklingsarbete/aktiviteter och uppföljning.<br>betyg Uppföljning i det systematiska kvalitetsarbetet (extra<br>anpassningar, särskilt stöd, varje betygssteg räknas) |
-|  | Elever med Mål i Nämndbudget 2024. Pågående<br>särbegåvning/högp utvecklingsarbete/aktiviteter och uppföljning. Finns rutiner och<br>resterande – stöd för pedagoger.<br>undervisning |
-|  | Effekter på För liten grupp, olika (utbildnings) bakgrund<br>nyanlända elevers<br>lärande utifrån<br>ändrade boenden |
-|  | Likvärdig elevhälsa Decentraliserad elevhälsa i Kungsbacka. Utvecklingsområde<br>på skolorna inom huvudmannens systematiska kvalitetsarbete. |
-|  | Utbildning/kompet Pågående utvecklingsarbete med att ta fram ett<br>ens vikarier grundläggande introduktionspaket för nya medarbetare som<br>saknar pedagogisk utbildning. |
-|  | Orosanmälningar Pågående utvecklingsarbete kring stödinsatser från<br>som ej görs (äldre Myndighet & Stöd.<br>elever) |
-|  | Olika hantering på Pågående utvecklingsarbete / aktiviteter och uppföljning.<br>skolor av Implementering nytt verksamhetssystem, Prorenata.<br>kränkningsanmälni<br>ngar. |
-|  | Känd och tydlig Många pågående samarbeten finns. TSA, SSPF. Direktiv i<br>plan för remisser. nämndbudget 2024.<br>Ex. mellan skola<br>och BUP. |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Personal |  | Kommunövergripa<br>nde risk: Resurs-<br>och<br>kompetensbrist | Ej relevant för Förskola & Grundskola |
+|  |  | Kommunövergripa<br>nde risk:<br>Övertidsersättning<br>betalas ut på fel<br>grund | Ej relevant för Förskola & Grundskola |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergripa<br>nde risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) | Ej relevant för Förskola & Grundskola |
+| Verksamhet |  | Elever med NPF-<br>rätt till<br>undervisning<br>(frånavaro/betyg) | Mål i Nämndbudget 2024. Pågående<br>utvecklingsarbete/aktiviteter och uppföljning. |
+|  |  | Tillräckligt stöd för<br>att få godkända<br>betyg | Mål i Nämndbudget 2024. Pågående<br>utvecklingsarbete/aktiviteter och uppföljning.<br>Uppföljning i det systematiska kvalitetsarbetet (extra<br>anpassningar, särskilt stöd, varje betygssteg räknas) |
+|  |  | Elever med<br>särbegåvning/högp<br>resterande –<br>undervisning | Mål i Nämndbudget 2024. Pågående<br>utvecklingsarbete/aktiviteter och uppföljning. Finns rutiner och<br>stöd för pedagoger. |
+|  |  | Effekter på<br>nyanlända elevers<br>lärande utifrån<br>ändrade boenden | För liten grupp, olika (utbildnings) bakgrund |
+|  |  | Likvärdig elevhälsa<br>på skolorna | Decentraliserad elevhälsa i Kungsbacka. Utvecklingsområde<br>inom huvudmannens systematiska kvalitetsarbete. |
+|  |  | Utbildning/kompet<br>ens vikarier | Pågående utvecklingsarbete med att ta fram ett<br>grundläggande introduktionspaket för nya medarbetare som<br>saknar pedagogisk utbildning. |
+|  |  | Orosanmälningar<br>som ej görs (äldre<br>elever) | Pågående utvecklingsarbete kring stödinsatser från<br>Myndighet & Stöd. |
+|  |  | Olika hantering på<br>skolor av<br>kränkningsanmälni<br>ngar. | Pågående utvecklingsarbete / aktiviteter och uppföljning.<br>Implementering nytt verksamhetssystem, Prorenata. |
+|  |  | Känd och tydlig<br>plan för remisser.<br>Ex. mellan skola<br>och BUP. | Många pågående samarbeten finns. TSA, SSPF. Direktiv i<br>nämndbudget 2024. |
 
 <!-- sida 78 -->
 
@@ -2960,7 +2972,7 @@ www.kungsbacka.se
 
 [Tabell 84-1](handlingar.tabeller/84-1.csv)
 
-| Verksamhet Interkommunalersättning kronor<br>per barn per år |  |
+| Verksamhet | Interkommunalersättning kronor<br>per barn per år |
 | --- | --- |
 | Förskoleverksamhet |  |
 | Barn 1-2 år med upp till 15 tim | 83 381 kr |

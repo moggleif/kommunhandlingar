@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250317140933id_/https://kungsbacka.se/d
 sha256: ca83e5e46de5bcd00eb1fe22e4c58cb9591116581f52756fb1830bf0882ed2c3
 bytes: 1935898
 sidor: 38
-hamtad: 2026-11-17T00:47:50+00:00
-konverterad: 2026-11-17T00:48:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-19T13:49:21+00:00
+konverterad: 2026-11-19T13:49:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -716,14 +716,15 @@ Utveckling och spridning av nya arbetssätt
 Bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och medskapande
 Möjlighet att genomföra fler utvecklingsinitiativ
 Skapa ändamålsenliga tekniska förutsättningar
-Indikator                         Målsättning 2024
-
-Status direktiv: Andel innovationsprojekt som drivits Status direktiv: Andel innovationsprojekt som drivits
-under året                        under året
-Status direktiv: Andel av bruttokostnaden som Status direktiv: Andel av bruttokostnaden som
-avsätts för verksamhetsutveckling och innovation avsätts för verksamhetsutveckling och innovation
 
 15
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Indikator | Målsättning 2024 |
+| --- | --- |
+| Status direktiv: Andel innovationsprojekt som drivits<br>under året | Status direktiv: Andel innovationsprojekt som drivits<br>under året |
+| Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation | Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation |
 
 <!-- sida 18 -->
 
@@ -768,105 +769,86 @@ Nämndbudget 2024
 
 8.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-03-10 § 30
-Kvalitet                                            KF 2013-08-13 § 101
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-
-Vision 2030                                         KF 2023-06-14 § 73
-Översiktsplan för vindkraft                         KF 2021-11-09 § 140
-Kommunikation                                       KF 2019-12-10 § 194
-
-Fordon                                              KF 2014-10-13 § 114
-Dagvatten                                           KF 2012-04-10 § 88
-Vatten- och avloppsanläggning, allmänna bestämmelser för användande KF § 44/09
-
-Upphandling, policy                                 KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Lokala ordningsföreskrifter                          KF 2020-02-02 § 8
-
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-04-01
-Klimatstrategi                                      KF 2022-05-10 § 77
-
-Invånardialog                                       KF 2014-10-14 § 119
-Privata utförare                                    KF 2016-10-11 § 144
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2021-11-09 § 142
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Reglemente för Miljö & Hälsoskydd                   KF 2022-09-15 § 133
-Miljöbalken; taxa för prövning och tillsyn inom miljöbalkens område med mera. KF 2022-10-18 § 158
-
-Offentlig kontroll av livsmedel, taxa               KF 2022-05-10 § 75
-Alkohollagen m.fl.; taxa för prövning och tillsyn enligt alkohollagen, lagen om
-tobak och liknande produkter samt lagen om handel med vissa receptfria KF 2019-10-08 § 141
-läkemedel
-Allkohollagen, taxor och avgifter                   KF 2018-12-13 § 259
-
 17
+
+[Tabell 19-20-1](handlingar.tabeller/19-20-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-03-10 § 30 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2023-06-14 § 73 |
+| Översiktsplan för vindkraft | KF 2021-11-09 § 140 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon | KF 2014-10-13 § 114 |
+| Dagvatten | KF 2012-04-10 § 88 |
+| Vatten- och avloppsanläggning, allmänna bestämmelser för användande | KF § 44/09 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-04-01 |
+| Klimatstrategi | KF 2022-05-10 § 77 |
+| Invånardialog | KF 2014-10-14 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2021-11-09 § 142 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Reglemente för Miljö & Hälsoskydd | KF 2022-09-15 § 133 |
+| Miljöbalken; taxa för prövning och tillsyn inom miljöbalkens område med mera. | KF 2022-10-18 § 158 |
+| Offentlig kontroll av livsmedel, taxa | KF 2022-05-10 § 75 |
+| Alkohollagen m.fl.; taxa för prövning och tillsyn enligt alkohollagen, lagen om<br>tobak och liknande produkter samt lagen om handel med vissa receptfria<br>läkemedel | KF 2019-10-08 § 141 |
+| Allkohollagen, taxor och avgifter | KF 2018-12-13 § 259 |
+| Offentlig kontroll av livsmedel och vissa jordbruksprodukter | KF 2022-12-06 § 237 |
+| VA-policy Kungsbacka kommun | KS/2017:758 |
 
 <!-- sida 20 -->
 
 Nämnden för Miljö & Hälsoskydd                   Kungsbacka kommun
 Nämndbudget 2024
 
-Styrdokument                                       Beslutande paragraf/År
-Offentlig kontroll av livsmedel och vissa jordbruksprodukter KF 2022-12-06 § 237
-
-VA-policy Kungsbacka kommun                           KS/2017:758
-
 8.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                       Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2017-06-20 § 163
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2021-11-09 § 142
-
-Informationssäkerhet, riktlinjer                    KS 2020-04-21 § 81
-Flaggning                                           KS 2023-02-21 § 32
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 8.3 Styrdokument beslutade av nämnden för Miljö & Hälsoskydd
 
-Styrdokument                                       Beslutande paragraf/År
-
-Komplettering till Strategi för prövning av enskilda avlopp MH § 81/16
-Strategi för strandskydd                               MH § 22/11
-
-Hästpolicy                                             MH § 59/07
-Dokumenthanteringsplan                                NMH § 56/18
-Arkivbeskrivning                                      MH § 109/15
-
-Kundkommunikationsstrategi                            MH § 118/16
-Strategi för prövning av små avloppsanläggingar inom Lygnerns
-MH § 59/17
-vattenskyddsområde
-Strategi för utveckling                               MH § 190/16
-Strategi för nyckeltal                                MH § 145/16
-Delegeringsförteckning                                NMH § 98/23
-Riktlinjer för serveringstillstånd                     MH § 76/20
-
-Strategi för prövning av enskilda avlopp              NMH § 98/14
-Komplettering till Strategi för prövning av enskilda avlopp NMH §73/15
-
-Komplettering till Strategi för prövning av enskilda avlopp NMH §59/16
-Komplettering till Strategi för prövning av enskilda avlopp NMH § 48/20
-
 18
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2017-06-20 § 163 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2021-11-09 § 142 |
+| Informationssäkerhet, riktlinjer | KS 2020-04-21 § 81 |
+| Flaggning | KS 2023-02-21 § 32 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Komplettering till Strategi för prövning av enskilda avlopp | MH § 81/16 |
+| Strategi för strandskydd | MH § 22/11 |
+| Hästpolicy | MH § 59/07 |
+| Dokumenthanteringsplan | NMH § 56/18 |
+| Arkivbeskrivning | MH § 109/15 |
+| Kundkommunikationsstrategi | MH § 118/16 |
+| Strategi för prövning av små avloppsanläggingar inom Lygnerns<br>vattenskyddsområde | MH § 59/17 |
+| Strategi för utveckling | MH § 190/16 |
+| Strategi för nyckeltal | MH § 145/16 |
+| Delegeringsförteckning | NMH § 98/23 |
+| Riktlinjer för serveringstillstånd | MH § 76/20 |
+| Strategi för prövning av enskilda avlopp | NMH § 98/14 |
+| Komplettering till Strategi för prövning av enskilda avlopp | NMH §73/15 |
+| Komplettering till Strategi för prövning av enskilda avlopp | NMH §59/16 |
+| Komplettering till Strategi för prövning av enskilda avlopp | NMH § 48/20 |
 
 <!-- sida 21 -->
 
@@ -875,11 +857,14 @@ Nämndbudget 2024
 
 8.4 Styrdokument beslutade av miljö- och hälsoskyddsnämnden
 
-Styrdokument                                       Beslutande paragraf/År
-Kattpolicy                                            MHN § 153/00
-Policy för hantering av byggnation inom områden med planerad VA-sanering MHN § 75/99
-
 19
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Kattpolicy | MHN § 153/00 |
+| Policy för hantering av byggnation inom områden med planerad VA-sanering | MHN § 75/99 |
 
 <!-- sida 22 -->
 
