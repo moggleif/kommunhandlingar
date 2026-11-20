@@ -113,3 +113,4 @@ Regler för det här repot, utöver MADR:
 | 0087 | [Kanten där två fyllda cellrutor möts är en cellgräns](0087-kanten-mellan-tva-cellrutor-ar-en-cellgrans.md) | accepted |
 | 0088 | [Nattkörningen sparar det klara var 15:e minut](0088-nattkorningen-sparar-var-femtonde-minut.md) | accepted |
 | 0089 | [Sökindex över protokollens paragrafer, i Giffås format](0089-sokindex-over-protokollens-paragrafer.md) | accepted |
+| 0098 | [Regionens fullmäktigemål är ett eget slag, regionmål](0098-regionmal-ar-ett-eget-slag.md) | accepted |

@@ -1,6 +1,7 @@
-"""Krav: K27, K28, K29, K35, K50 och K60 i docs/02-KRAV.md, ADR-0045,
-ADR-0046, ADR-0050, ADR-0056, ADR-0073 och ADR-0086. Test: tests/test_malgrupper.py,
-tests/test_uppfoljningar.py, tests/test_fokusomraden.py och tests/test_malar.py.
+"""Krav: K27, K28, K29, K35, K50, K60 och K71 i docs/02-KRAV.md, ADR-0045,
+ADR-0046, ADR-0050, ADR-0056, ADR-0073, ADR-0086 och ADR-0098. Test:
+tests/test_malgrupper.py, tests/test_uppfoljningar.py, tests/test_fokusomraden.py,
+tests/test_malar.py och tests/test_regionmal.py.
 
 Antalet per år på sidan om ett organs mål och direktiv: rubrikerna av
 varje slag som finns på sidan, uppföljningarna i poolen som redovisar dem,
@@ -32,6 +33,7 @@ FORKLARING = (
 FLERTAL = {
     "nämndmål": "nämndmål",
     "kommunmål": "kommunmål",
+    "regionmål": "regionmål",
     "fokusområde": "fokusområden",
     "direktiv": "direktiv",
 }
