@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f3775/17793637723
 sha256: 16f023368279d7e5dd77cdd684e36747221899a69f3ce5167ef87a0813174bdc
 bytes: 4179315
 sidor: 13
-hamtad: 2026-11-15T09:13:28+00:00
-konverterad: 2026-11-15T09:13:38+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:56:45+00:00
+konverterad: 2026-11-20T12:56:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -190,7 +190,7 @@ VTI, Anders Genell, VTI, Mikael Ögren, Sahlgrenska Universitetssjukhuset. Versi
 
 [Tabell 6-1](handlingar-rya-verksamhetsomrade-trafikbullerutredning-almedalsvagen-2026-05-20.tabeller/6-1.csv)
 
-| Väg ÅDT 2050 Nollalternativ Andel tung trafik % Hastighet km/h |  |  |  |
+| Väg | ÅDT 2050 Nollalternativ | Andel tung trafik % | Hastighet km/h |
 | --- | --- | --- | --- |
 | Almedalsvägen | 4 700 | 7.5 | 80 |
 |  |  |  |  |
@@ -247,13 +247,13 @@ inkluderar reflektioner från t.ex. en fasad). Beräknad maximal ljudnivå avser
 
 [Tabell 7-1](handlingar-rya-verksamhetsomrade-trafikbullerutredning-almedalsvagen-2026-05-20.tabeller/7-1.csv)
 
-| Bostads fasad Bostads uteplats Bostads uteplats<br>(Leq24) (Leq24) (Lmax) |  |  |
+| Bostads fasad<br>(Leq24) | Bostads uteplats<br>(Leq24) | Bostads uteplats<br>(Lmax) |
 | --- | --- | --- |
 | 55dBA | 55dBAII | 70dBAI |
 
 [Tabell 7-2](handlingar-rya-verksamhetsomrade-trafikbullerutredning-almedalsvagen-2026-05-20.tabeller/7-2.csv)
 
-| -1997 ’’äldre befintlig miljö’’ (Leq )<br>24 |  |
+|  | -1997 ’’äldre befintlig miljö’’ (Leq )<br>24 |
 | --- | --- |
 | Buller från väg, vid fasad | 65dBA |
 | Buller från väg och spår, uteplats | - |

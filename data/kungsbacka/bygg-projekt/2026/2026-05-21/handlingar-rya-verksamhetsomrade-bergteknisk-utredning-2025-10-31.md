@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f374c/17793637025
 sha256: 1a023d89394e1faa0d72d2eb42f00ee575b8bf945f138ea1adf415a9db788c03
 bytes: 5707431
 sidor: 29
-hamtad: 2026-11-15T09:12:06+00:00
-konverterad: 2026-11-15T09:12:14+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:55:05+00:00
+konverterad: 2026-11-20T12:55:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -33,13 +33,20 @@ Detaljplanområde   Frillesås-Rya 3:77 m.fl
 
 Utökad bergutredning
 
-1.0   2025-10-31 Utökad bergutredning David   Isabell Dinger
-Jonasson
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
+1.0
+
+Version                                                Godkänt
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål.
+
+[Tabell 1-1](handlingar-rya-verksamhetsomrade-bergteknisk-utredning-2025-10-31.tabeller/1-1.csv)
+
+| 2025-10-31 | Utökad bergutredning | David | Isabell Dinger |
+| --- | --- | --- | --- |
+|  |  | Jonasson |  |
+| Datum | Beskrivning | Upprättat | Granskat |
 
 <!-- sida 2 -->
 

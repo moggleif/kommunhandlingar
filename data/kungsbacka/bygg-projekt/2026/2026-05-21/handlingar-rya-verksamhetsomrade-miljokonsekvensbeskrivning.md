@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f388d/17793642483
 sha256: d3decd3626d996c471cfec3818a1fe107557c80ce0dd93f510484956af8246d9
 bytes: 11043653
 sidor: 82
-hamtad: 2026-11-15T09:15:41+00:00
-konverterad: 2026-11-15T09:16:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:59:25+00:00
+konverterad: 2026-11-20T12:59:48+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -67,15 +67,25 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 | Revision | Datum | Beskrivning | Upprättat av | Granskat av | Godkänt av |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2025-10-17 | Granskningshandling utkast | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 2 | 2025-10-24 | Granskningshandling extern granskning | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 3 | 2025-11-04 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 4 | 2025-11-14 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 5 | 2026-04-13 | Samrådshandling för granskning | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 6 | 2026-04-14 | Samrådshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 7 | 2026-05-18 | Granskningshandling extern granskning | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 8 | 2026-05-20 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
-| 9 | 2026-05-21 | Granskningshandling | Josefin Bodinger,<br>Cecilia Flygare | Cecilia Flygare | Cecilia Flygare |
+| 1 | 2025-10-17 | Granskningshandling utkast | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 2 | 2025-10-24 | Granskningshandling extern granskning | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 3 | 2025-11-04 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 4 | 2025-11-14 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 5 | 2026-04-13 | Samrådshandling för granskning | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 6 | 2026-04-14 | Samrådshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+|  |  |  |  |  |  |
+| 7 | 2026-05-18 | Granskningshandling extern granskning | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 8 | 2026-05-20 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
+| 9 | 2026-05-21 | Granskningshandling | Josefin Bodinger, | Cecilia Flygare | Cecilia Flygare |
+|  |  |  | Cecilia Flygare |  |  |
 
 <!-- sida 3 -->
 
@@ -271,11 +281,15 @@ undersökningar bedöms krävas i det fortsatta arbetet.
 
 | Miljöfaktor | Bedömning av konsekvenser |
 | --- | --- |
+|  |  |
 | Naturmiljö | Stora negativa konsekvenser |
 | Kulturmiljö | Stora negativa konsekvenser |
 | Landskapsbild | Stora negativa konsekvenser |
+|  |  |
 | Naturresurser - jordbruksmark | Måttligt negativa konsekvenser |
+|  |  |
 | Markförhållanden – geoteknik och markmiljö | Inga/försumbara konsekvenser |
+|  |  |
 | Vattenmiljö | Små positiva konsekvenser |
 
 <!-- sida 7 -->
@@ -1043,13 +1057,19 @@ fågelfaunan även utanför Natura 2000-området.
 
 [Tabell 25-1](handlingar-rya-verksamhetsomrade-miljokonsekvensbeskrivning.tabeller/25-1.csv)
 
-| Svenskt namn | Vetenskapligt<br>namn | Rödlistning | Fridlysning | Övrigt naturvärde |
+| Svenskt namn | Vetenskapligt | Rödlistning | Fridlysning | Övrigt naturvärde |
 | --- | --- | --- | --- | --- |
-| Järnek | Ilex aquifolium | Akut hotad<br>(CR) |  |  |
-| Idegran | Taxus baccata | Livskraftig<br>(LC) | 8 § |  |
-| Skogshare | Lepus timidus | Nära hotad<br>(NT) | 5 § |  |
-| Gammelgranslav | Lecanactis abietina | Livskraftig<br>(LC) |  | Typiska art för Natura 2000 naturtypen,<br>trädklädd betesmark |
-| Större hackspett | Dendrocopos<br>major | Livskraftig<br>(LC) | 4 § | Nyckelart |
+|  | namn |  |  |  |
+| Järnek | Ilex aquifolium | Akut hotad |  |  |
+|  |  | (CR) |  |  |
+| Idegran | Taxus baccata | Livskraftig | 8 § |  |
+|  |  | (LC) |  |  |
+| Skogshare | Lepus timidus | Nära hotad | 5 § |  |
+|  |  | (NT) |  |  |
+| Gammelgranslav | Lecanactis abietina | Livskraftig |  | Typiska art för Natura 2000 naturtypen, |
+|  |  | (LC) |  | trädklädd betesmark |
+| Större hackspett | Dendrocopos | Livskraftig | 4 § | Nyckelart |
+|  | major | (LC) |  |  |
 
 <!-- sida 26 -->
 
@@ -1072,10 +1092,25 @@ Figur 4.9. Karta över utpekade landskapsområden. Inventeringsområde från 202
 
 | Namn och typ | Beskrivning | Värdelandskap |
 | --- | --- | --- |
-| LO-001<br>Jordbruksmark | Dalgångsområdet är ett öppet jordbrukslandskap med både brukad<br>och delvis igenväxande åker- och betesmark. Dalgången sträcker sig<br>tydligt i öst–västlig riktning och omges av skogsmark i norr och söder. I<br>området finns öppna diken kopplade till jordbruket samt stenmurar<br>som utgör lokala värdeelement av ekologisk betydelse. | Nej |
-| LO-002<br>Skogsmark | Skogsmarken ligger topografiskt högre än jordbrukslandskapet och har<br>inslag av hällmark, och utgörs av blandskog som omger dalgången.<br>Förekomsten av avverkningsanmälningar indikerar produktionsskog,<br>och området fragmenteras delvis av hyggen. | Nej |
-| LO-003<br>Frillesås tätort | Ett område starkt påverkat av mänsklig närvaro med bland annat<br>bebyggelse, buller och belysning. Domineras av trädgårdsmiljöer, med<br>inslag av ett fåtal skogsbeklädda marker. | Nej |
-| LO-004<br>Löftaån | I anslutning till Löftaån finns några värdefulla miljöer knutna till<br>vattenområdet. Löftaåns kantzoner omfattar registrerade<br>nyckelbiotoper bestående av ädellövskog och sumpskog med höga<br>naturvärden. Området bedöms som viktig spridningsväg för bland<br>annat fåglar, fladdermöss och insekter. Vattendraget meandrar<br>naturligt, men är påverkat av övergödning och vandringshinder för<br>vattenlevande arter. | Ja, p.g.a förekomst<br>av flera<br>nyckelbiotoper och<br>kantzonernas<br>betydelse för<br>spridningssambandet. |
+| LO-001 | Dalgångsområdet är ett öppet jordbrukslandskap med både brukad | Nej |
+| Jordbruksmark | och delvis igenväxande åker- och betesmark. Dalgången sträcker sig |  |
+|  | tydligt i öst–västlig riktning och omges av skogsmark i norr och söder. I |  |
+|  | området finns öppna diken kopplade till jordbruket samt stenmurar |  |
+|  | som utgör lokala värdeelement av ekologisk betydelse. |  |
+| LO-002 | Skogsmarken ligger topografiskt högre än jordbrukslandskapet och har | Nej |
+| Skogsmark | inslag av hällmark, och utgörs av blandskog som omger dalgången. |  |
+|  | Förekomsten av avverkningsanmälningar indikerar produktionsskog, |  |
+|  | och området fragmenteras delvis av hyggen. |  |
+| LO-003 | Ett område starkt påverkat av mänsklig närvaro med bland annat | Nej |
+| Frillesås tätort | bebyggelse, buller och belysning. Domineras av trädgårdsmiljöer, med |  |
+|  | inslag av ett fåtal skogsbeklädda marker. |  |
+| LO-004 | I anslutning till Löftaån finns några värdefulla miljöer knutna till | Ja, p.g.a förekomst |
+| Löftaån | vattenområdet. Löftaåns kantzoner omfattar registrerade | av flera |
+|  | nyckelbiotoper bestående av ädellövskog och sumpskog med höga | nyckelbiotoper och |
+|  | naturvärden. Området bedöms som viktig spridningsväg för bland | kantzonernas |
+|  | annat fåglar, fladdermöss och insekter. Vattendraget meandrar | betydelse för |
+|  | naturligt, men är påverkat av övergödning och vandringshinder för | spridningssambandet. |
+|  | vattenlevande arter. |  |
 
 <!-- sida 27 -->
 
@@ -1173,15 +1208,24 @@ Tabell 4.4.Tabell över biotopskyddsobjekt inom det tidigare planområdet (svart
 
 [Tabell 29-30-1](handlingar-rya-verksamhetsomrade-miljokonsekvensbeskrivning.tabeller/29-30-1.csv)
 
-| Nr | Objekt | Omfattas av<br>biotopskydd | Beskrivning och motivering |
+| Nr | Objekt | Omfattas av | Beskrivning och motivering |
 | --- | --- | --- | --- |
-| 3 | Stenröse | ja | Odlingsröse delvis omgivet av yngre träd och buskar som gränsar till<br>öppen jordbruksmark i väster och söder. |
-| 4 | Dike/<br>rätad bäck | ja | Dike/rätad bäck genom övervägande öppen åkermark på ömse sidor av<br>Almedalsvägen. |
+|  |  | biotopskydd |  |
+| 3 | Stenröse | ja | Odlingsröse delvis omgivet av yngre träd och buskar som gränsar till |
+|  |  |  | öppen jordbruksmark i väster och söder. |
+| 4 | Dike/ | ja | Dike/rätad bäck genom övervägande öppen åkermark på ömse sidor av |
+|  | rätad bäck |  | Almedalsvägen. |
 | 5 | Dike | ja | Dike som löper genom övervägande öppen åkermark i områdets östra del. |
 | 6 | Stenmur | ja | Bitvis raserad stenmur löper genom öppen åkermark i områdets östra del. |
-| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i<br>områdets östra del. |
-| 8 | Dike och<br>stenmur | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala<br>del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett<br>höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
-| 10 | Dike och<br>stenmur | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i<br>områdets nordvästra del. Gränsar mot betesmark i väster och något<br>igenväxande åkermark i väster. |
+| 7 | Stenmur | ja | Bitvis raserad stenmur löper genom övervägande öppen åkermark i |
+|  |  |  | områdets östra del. |
+| 8 | Dike och | ja | Stenmur och dike som löper parallellt med varandra i områdets centrala |
+|  | stenmur |  | del. Gränsar mot öppen åkermark i öster och igenvuxen åkermark och ett |
+|  |  |  | höjdområde i väster. Längs en del av sträckan saknas dike och stenmur. |
+|  |  | biotopskydd |  |
+| 10 | Dike och | ja | Biotopskyddad stenmur och dike som löper parallellt med varandra i |
+|  | stenmur |  | områdets nordvästra del. Gränsar mot betesmark i väster och något |
+|  |  |  | igenväxande åkermark i väster. |
 
 <!-- sida 30 -->
 
@@ -1285,9 +1329,20 @@ misstanke om att en handling eller produkt kan skada hälsa eller miljö. Inom m
 
 | Datum | Damm vid centralt höjdområde | Damm i planområdets sydvästra hörn | Väderlek |
 | --- | --- | --- | --- |
-| 13 april<br>2021\* | Två noteringar av grodor, troligen<br>av samma individ. Sannolikt<br>vanlig groda då denna<br>förekommer tidigare på säsongen<br>än åkergroda. Dock oklart vilken<br>art då inga spelläten hördes. | Inga noteringar av romklumpar eller<br>grodor. | Cirka 8-9 grader, molnfri<br>himmel, svag vind. |
-| 20 april<br>2021 | Inga noteringar av romklumpar<br>eller grodor. | Inga individer eller romklumpar av vanlig<br>groda eller åkergroda. Dock hördes 1<br>möjligt spelläte av åkergroda under en<br>kort stund i anslutning till dammen. | Cirka 15-16 grader,<br>molnfri himmel, svag<br>vind. |
-| 17 maj<br>2021 | Två noteringar av mindre vatten-<br>salamander (1 hona och 1 hane) | Inga noteringar av någon art av<br>salamander. | Cirka 10-11 grader,<br>molnfri himmel, svag<br>vind. Cirka 10 grader i<br>dammar. |
+| 13 april | Två noteringar av grodor, troligen | Inga noteringar av romklumpar eller | Cirka 8-9 grader, molnfri |
+| 2021\* | av samma individ. Sannolikt | grodor. | himmel, svag vind. |
+|  | vanlig groda då denna |  |  |
+|  | förekommer tidigare på säsongen |  |  |
+|  | än åkergroda. Dock oklart vilken |  |  |
+|  | art då inga spelläten hördes. |  |  |
+| 20 april | Inga noteringar av romklumpar | Inga individer eller romklumpar av vanlig | Cirka 15-16 grader, |
+| 2021 | eller grodor. | groda eller åkergroda. Dock hördes 1 | molnfri himmel, svag |
+|  |  | möjligt spelläte av åkergroda under en | vind. |
+|  |  | kort stund i anslutning till dammen. |  |
+| 17 maj | Två noteringar av mindre vatten- | Inga noteringar av någon art av | Cirka 10-11 grader, |
+| 2021 | salamander (1 hona och 1 hane) | salamander. | molnfri himmel, svag |
+|  |  |  | vind. Cirka 10 grader i |
+|  |  |  | dammar. |
 
 <!-- sida 34 -->
 
@@ -2152,8 +2207,10 @@ dagvattnet från planområdet baserat på den antagna markanvändningen.
 
 | Grundinformation |  | Ekologisk status |  | Kemisk ytvattenstatus |  |
 | --- | --- | --- | --- | --- | --- |
-| Vattenförekomst<br>ID | Namn | Ekologisk<br>ytvattenstatus 2020 | Miljökvalitetsnorm<br>till 2027 | Kemisk<br>ytvattenstatus<br>2020 | Miljökvalitetsnorm |
-| SE571720-<br>120640 | Vändelsö-<br>arkipelagen | Måttlig status | God ekologisk<br>status | Uppnår ej god | God status, undantag<br>för PBDE och<br>kvicksilver och<br>kvicksilverföreningar<br>(mindre stränga krav) |
+| Vattenförekomst | Namn | Ekologisk | Miljökvalitetsnorm<br>till 2027 | Kemisk<br>ytvattenstatus<br>2020 | Miljökvalitetsnorm |
+| ID |  | ytvattenstatus 2020 |  |  |  |
+| SE571720- | Vändelsö-<br>arkipelagen | Måttlig status | God ekologisk<br>status | Uppnår ej god | God status, undantag<br>för PBDE och<br>kvicksilver och<br>kvicksilverföreningar<br>(mindre stränga krav) |
+| 120640 |  |  |  |  |  |
 
 [Tabell 55-3](handlingar-rya-verksamhetsomrade-miljokonsekvensbeskrivning.tabeller/55-3.csv)
 
@@ -2707,8 +2764,9 @@ Tabell 10.1. Samlad bedömning av detaljplanens miljökonsekvenser.
 
 [Tabell 69-70-1](handlingar-rya-verksamhetsomrade-miljokonsekvensbeskrivning.tabeller/69-70-1.csv)
 
-| Miljöfaktor | Bedömning av planförslagets<br>konsekvenser | Kommentar |
+| Miljöfaktor | Bedömning av planförslagets | Kommentar |
 | --- | --- | --- |
+|  | konsekvenser |  |
 | Naturmiljö | Stora negativa konsekvenser | Ett större område med påtagliga naturvärden (den<br>skogbeklädda höjden i öster) kommer till stora delar att<br>försvinna. Utifrån gällande kunskapsläge bedöms detta<br>medföra stora negativa konsekvenser för naturmiljön på<br>lokal nivå.<br>Huruvida påverkan på regionala spridningssamband uppstår<br>kommer pågående utredningar ge svar på. Bedömning görs<br>innan antagande av planen.<br>Fortsatta utredningar kring vilka arter som nyttjar biotopen<br>kommer att krävas (vilket pågår), för att säkerställa att<br>åtgärderna inte utöser förbud enligt 4-4a §§,<br>artskyddsförordningen. |
 | Kulturmiljö | Stora negativa konsekvenser | Planerad utbyggnad innebär en stor förändring av ett idag<br>tydligt läsbart kulturlandskap med lång agrarhistorisk<br>kontinuitet. En storskalig byggnadskropp i både höjd och<br>volym bryter visuell kontakt mellan kulturhistoriskt värdefull<br>bebyggelse och omgivande odlingslandskap och rubbar vyer<br>och siktlinjer i omkringliggande kulturmiljöer. Förlust av<br>historiska strukturer såsom stenmurar som förmedlar<br>tidigare skiftesgränser innebär en minskad förståelse för<br>områdets agrarhistoriska sammanhang. |
 | Landskapsbild | Stora negativa konsekvenser | Sammantaget bedöms konsekvenserna för landskapsbilden<br>vara stora negativa på en lokal nivå då delar av ett öppet<br>odlingslandskap ersätts av ett storskaligt verksamhets-<br>område som bryter helt i skala och karaktär mot omgivande<br>åkermarker. Vidsträckta siktlinjer och vyer bryts, landmärke<br>som ger orienterbarhet i landskapet i form av skogsklädd<br>bergshöjd, tas bort. Planförslaget påverkar även landskapet<br>på regional nivå då Frillesås med omgivande landskap tar<br>ytterligare ett steg från lantligt bysamhälle till mer modern<br>tätort. |
@@ -2812,14 +2870,21 @@ och bostäder. Dock är syftet med planområdet delvis att avleda förekomsten a
 
 [Tabell 71-2](handlingar-rya-verksamhetsomrade-miljokonsekvensbeskrivning.tabeller/71-2.csv)
 
-| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan\* | Riktning mot (+)<br>eller från (-)<br>miljökvalitetsmålet |
+| Miljökvalitetsmål |  | Planens lokala<br>miljöpåverkan\* | Riktning mot (+) |
 | --- | --- | --- | --- |
+|  |  |  | eller från (-) |
+|  |  |  | miljökvalitetsmålet |
 | 1. | Begränsad klimatpåverkan | Liten | - |
+|  |  |  |  |
 | 7. | Ingen övergödning | Liten | + |
+|  |  |  |  |
 | 8. | Levande sjöar och vattendrag | Liten | + |
+|  |  |  |  |
 | 10. | Hav i balans samt levande kust och skärgård | Liten | + |
 | 13. | Ett rikt odlingslandskap | Stor | - |
+|  |  |  |  |
 | 15. | God bebyggd miljö | Stor | +/- |
+|  |  |  |  |
 | 16. | Ett rikt växt- och djurliv | Stor | - |
 
 <!-- sida 72 -->

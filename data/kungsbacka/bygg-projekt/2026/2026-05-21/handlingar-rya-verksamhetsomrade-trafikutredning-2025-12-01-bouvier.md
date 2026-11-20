@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f377a/17793637848
 sha256: ea495a18ed8fb24e768249a8313de2f542c73b4eb35c2bf576112b60f6952daf
 bytes: 1128373
 sidor: 20
-hamtad: 2026-11-15T09:14:58+00:00
-konverterad: 2026-11-15T09:15:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:58:38+00:00
+konverterad: 2026-11-20T12:58:46+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -319,7 +319,7 @@ vägtrafikanläggningar. TRV dokument 2013:64343.
 
 [Tabell 9-1](handlingar-rya-verksamhetsomrade-trafikutredning-2025-12-01-bouvier.tabeller/9-1.csv)
 
-| Önskvärd Godtagbar Ej godtagbar<br>belastningsgrad belastningsnivå belastningsgrad |  |  |  |
+|  | Önskvärd<br>belastningsgrad | Godtagbar<br>belastningsnivå | Ej godtagbar<br>belastningsgrad |
 | --- | --- | --- | --- |
 | Väjningsplikt och<br>stopplikt | b < 0,6 | 0,6 < b < 1,0 | b > 1,0 |
 | Cirkulationsplats | b < 0,8 | 0,8 < b < 1,0 | b > 1,0 |
@@ -431,7 +431,7 @@ karaktär som bedöms ha en något högre tungtrafikandel än normalfallet)
 
 [Tabell 11-1](handlingar-rya-verksamhetsomrade-trafikutredning-2025-12-01-bouvier.tabeller/11-1.csv)
 
-| BTA (m2) Andel små Andel stora<br>ÅDT (f/d)<br>totalt verksamheter verksamheter |  |  |  |  |
+|  | BTA (m2)<br>totalt | Andel små<br>verksamheter | Andel stora<br>verksamheter | ÅDT (f/d) |
 | --- | --- | --- | --- | --- |
 | Tidigare utredning | 180 000 | 50% | 50% | 15 255 |
 | Denna utredning | 192 000 | 0% | 100% | 7 329 |

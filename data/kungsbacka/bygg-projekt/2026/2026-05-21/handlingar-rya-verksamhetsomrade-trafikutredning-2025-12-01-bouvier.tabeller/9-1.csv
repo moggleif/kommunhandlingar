@@ -1,5 +1,7 @@
-"Önskvärd Godtagbar Ej godtagbar
-belastningsgrad belastningsnivå belastningsgrad",,,
+,"Önskvärd
+belastningsgrad","Godtagbar
+belastningsnivå","Ej godtagbar
+belastningsgrad"
 "Väjningsplikt och
 stopplikt","b < 0,6","0,6 < b < 1,0","b > 1,0"
 Cirkulationsplats,"b < 0,8","0,8 < b < 1,0","b > 1,0"

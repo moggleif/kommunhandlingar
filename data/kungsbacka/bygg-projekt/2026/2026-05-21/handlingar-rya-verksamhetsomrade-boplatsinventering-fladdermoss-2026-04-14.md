@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f374d/17793637028
 sha256: ac93f6dd9dc96a35a7fd80d30d7fbc945771274b668ab42767ca275062aee25d
 bytes: 10157548
 sidor: 35
-hamtad: 2026-11-15T09:12:14+00:00
-konverterad: 2026-11-15T09:12:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:55:15+00:00
+konverterad: 2026-11-20T12:55:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -342,7 +342,7 @@ förutsättningar (lägsta värde). E – ostlig koordinat (SWEREF 99 TM); N –
 
 [Tabell 13-1](handlingar-rya-verksamhetsomrade-boplatsinventering-fladdermoss-2026-04-14.tabeller/13-1.csv)
 
-| ID Typ Dm Dött Hål Skada <7m Värde Kommentar Swereff99X Swereff99Y |  |  |  |  |  |  |  |  |  |  |
+| ID | Typ | Dm | Dött | Hål | Skada | <7m | Värde | Kommentar | Swereff99X | Swereff99Y |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Björk | 30 | Ja | Ja | Ja | Ja | 2–3 | Björk med bruten topp, minst 4 håligheter, bruten topp<br>kan påverka kvaliteten. | 331257 | 6357499 |
 | 2 | Asp? | 30 |  | Ja | Ja | Ja | 2 | Flera håligheter och verkar ihåligt, lös bark. | 331241 | 6357280 |
