@@ -56,3 +56,13 @@ class TestSokindex(Index):
         }
         post = sokindex.post(paragraf, "Kommunstyrelsen")
         self.assertEqual(post["rubrik"], "Anmälan om inkomna skrivelser")
+
+    def test_utan_rubrik_paragrafens_nummer(self):
+        paragraf = {
+            "rubrik": None,
+            "paragraf": 5,
+            "diarienummer": [],
+            "sida": "x.html",
+            "datum": "2024-05-02",
+        }
+        self.assertEqual(sokindex.post(paragraf, "Kommunstyrelsen")["rubrik"], "§ 5")
