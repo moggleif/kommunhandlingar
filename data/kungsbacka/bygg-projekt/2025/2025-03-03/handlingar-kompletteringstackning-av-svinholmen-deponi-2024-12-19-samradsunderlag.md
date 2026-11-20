@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.28a00bed19546152e2d70c5e/1740998269
 sha256: d00ed57082b997eb704963084ff780d9952dc88aa2e5fb47065e5d1d23f475a4
 bytes: 8143371
 sidor: 52
-hamtad: 2026-11-13T17:14:57+00:00
-konverterad: 2026-11-13T17:15:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:09:44+00:00
+konverterad: 2026-11-20T11:10:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1005,16 +1005,6 @@ har måttlig status medan kvalitetsfaktorerna särskilt förorenande ämnen och 
 
 Tabell 7.1. Ekologisk och kemisk status i samt MKN för dessa i närmast belägna vattenförekomster.
 
-Vattenförekomst           Status             Miljökvalitetsnorm
-ID          Namn     Ekologisk Kemisk    Ekologisk Kemisk
-SE638097-127640 Kungsbackaån - Måttlig Uppnår ej god God God kemisk
-Mynningen till Lillån status status ekologisk ytvattenstatus\*
-status 2033
-SE572472-120302 Inre       Måttlig Uppnår ej god God   God kemisk
-Kungsbackafjorden status status   ekologisk ytvattenstatus\*
-status 2027
-\*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av
-tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden)
 Slutrecipienten för Kungsbackaån, och aktuellt område, Inre Kungsbackafjorden, är en kustvatten-
 förekomst som har måttlig ekologisk status med målet att god ekologisk status ska uppnås till 2027, se
 Figur 7.13 och Tabell 7.1. Statusklassningen baseras på kvalitetsfaktorerna makroalger och närings-
@@ -1028,6 +1018,15 @@ Vidare finns analyser av tributyltenn (TBT) som visar att halterna ställvis är
 Figur 7.13. Vattenförekomsten Inre Kungsbackafjorden (VISS, 2024b).
 
 2024-12-199 | 31(41)
+
+[Tabell 31-1](handlingar-kompletteringstackning-av-svinholmen-deponi-2024-12-19-samradsunderlag.tabeller/31-1.csv)
+
+| Vattenförekomst |  | Status |  | Miljökvalitetsnorm |  |
+| --- | --- | --- | --- | --- | --- |
+| ID | Namn | Ekologisk | Kemisk | Ekologisk | Kemisk |
+| SE638097-127640 | Kungsbackaån -<br>Mynningen till Lillån | Måttlig<br>status | Uppnår ej god<br>status | God<br>ekologisk<br>status 2033 | God kemisk<br>ytvattenstatus\* |
+| SE572472-120302 | Inre<br>Kungsbackafjorden | Måttlig<br>status | Uppnår ej god<br>status | God<br>ekologisk<br>status 2027 | God kemisk<br>ytvattenstatus\* |
+| \*Med undantag i form av mindre stränga krav för kvicksilver och bromerad difenyleter samt undantag i form av<br>tidsfrist till 2027 för PFOS (Kungsbackaån) och TBT (Inre Kungsbackafjorden) |  |  |  |  |  |
 
 <!-- sida 32 -->
 

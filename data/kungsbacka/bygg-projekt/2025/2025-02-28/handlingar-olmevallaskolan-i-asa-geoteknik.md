@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b21d93/1740734472
 sha256: 9d2abfe0c2117d2b9fc26f364019dc676db07fab3bdb70732e2f9b3d9451c413
 bytes: 3579589
 sidor: 36
-hamtad: 2026-11-13T17:14:04+00:00
-konverterad: 2026-11-13T17:14:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:08:45+00:00
+konverterad: 2026-11-20T11:09:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -50,14 +50,21 @@ Handläggare:        Lisa Björk
 
 Åsa 5:246 Detaljplan 109 12 67PM Geoteknik
 
-1.0   2024-10-03 Färdig handling        Lisa Björk Daniel Katarina
-Strandberg Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\109\12\1091267\5 arbetsmaterial\01 dokument\g\pm\pm åsa 5_246 detaljplan.docx 2024-10-03 | Sida 2 av 14
+
+[Tabell 2-1](handlingar-olmevallaskolan-i-asa-geoteknik.tabeller/2-1.csv)
+
+| 2024-10-03 | Färdig handling | Lisa Björk | Daniel | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  |  | Strandberg | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -244,8 +251,9 @@ n:\109\12\1091267\5 arbetsmaterial\01 dokument\g\pm\pm åsa 5_246 detaljplan.doc
 
 [Tabell 9-1](handlingar-olmevallaskolan-i-asa-geoteknik.tabeller/9-1.csv)
 
-| Vald skjuvhållfasthet<br>(kPa) | Djup (m) |
+| Vald skjuvhållfasthet | Djup (m) |
 | --- | --- |
+| (kPa) |  |
 | 10 | 1,5 |
 | 10 | 3 |
 

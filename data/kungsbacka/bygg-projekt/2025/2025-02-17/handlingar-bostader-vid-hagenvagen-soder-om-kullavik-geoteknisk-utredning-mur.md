@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4a9fcfaa1950506f0265e712/1739782574
 sha256: adfb77953441a3f3ef7e43655bed3483ed353bf6a4e9d01daeeedbeb97be92f5
 bytes: 4156942
 sidor: 78
-hamtad: 2026-11-13T17:08:53+00:00
-konverterad: 2026-11-13T17:09:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:03:29+00:00
+konverterad: 2026-11-20T11:04:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -1272,10 +1272,10 @@ PROTOKOLL       GRUNDVATTENRÖR
 | Anmärkning |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 | Avläsningar |  |  |  | Funktionskontroll |  |  |  |
-| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive<br>stighastighet |  |  |  |
-| 2023-11-06 | 0,62 | +7,75 | ML |  |  |  |  |
-|  |  |  |  | Datum |  | Sjunk-<br>/Stighastighet.<br>Nivå m. u.ök. rör | Sign |
-|  |  |  |  |  |  |  |  |
+| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive |  |  |  |
+| 2023-11-06 | 0,62 | +7,75 | ML | stighastighet |  |  |  |
+|  |  |  |  |  |  | Sjunk- |  |
+|  |  |  |  | Datum |  | /Stighastighet.<br>Nivå m. u.ök. rör | Sign |
 |  |  |  |  | 2023-11-01 |  | stiger | mk |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  | Anteckningar |  |  |  |

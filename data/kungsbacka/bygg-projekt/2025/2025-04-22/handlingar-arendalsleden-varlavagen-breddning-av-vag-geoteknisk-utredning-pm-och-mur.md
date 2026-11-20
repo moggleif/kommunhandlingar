@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6da15ebe1965c68f96b4142/17453335845
 sha256: 29ee38ed565853d5870758be3df415fb1321eec502b1b2d7752f59267feb856a
 bytes: 14796339
 sidor: 109
-hamtad: 2026-11-13T17:15:37+00:00
-konverterad: 2026-11-13T17:16:38+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:10:22+00:00
+konverterad: 2026-11-20T11:11:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
@@ -59,9 +59,11 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 [Tabell 2-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknisk-utredning-pm-och-mur.tabeller/2-1.csv)
 
-| 1.1 | 2022-07-05 | Reviderad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Johanna Medin |
+| 1.1 | 2022-07-05 | Reviderad handling | Elham<br>Sokhango | Katarina | Johanna Medin |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Katarina<br>Engerberg |
+|  |  |  |  | Engerberg |  |
+| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina | Katarina<br>Engerberg |
+|  |  |  |  | Engerberg |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
@@ -1372,9 +1374,11 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 [Tabell 33-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknisk-utredning-pm-och-mur.tabeller/33-1.csv)
 
-| 1.1 | 2022-07-05 | Reviderad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Johanna Medin |
+| 1.1 | 2022-07-05 | Reviderad handling | Elham<br>Sokhango | Katarina | Johanna Medin |
 | --- | --- | --- | --- | --- | --- |
-| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Katarina<br>Engerberg |
+|  |  |  |  | Engerberg |  |
+| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina | Katarina<br>Engerberg |
+|  |  |  |  | Engerberg |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 34 -->
@@ -1667,8 +1671,9 @@ I NC09 uteslöts CPT sonderingen då skruvprovtagning och trycksondering inte vi
 
 [Tabell 39-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknisk-utredning-pm-och-mur.tabeller/39-1.csv)
 
-| Grundvattenrör | Avläsningsdatum | Avläst grundvattenyta (m från<br>my) |
+| Grundvattenrör | Avläsningsdatum | Avläst grundvattenyta (m från |
 | --- | --- | --- |
+|  |  | my) |
 | NC04 | 2020-02-24 | 0,97 |
 | NC05 | 2020-02-24 | 0,90 |
 
@@ -3838,7 +3843,7 @@ Klassificering 0 10 20 30  40   50  60   70  80   90  100  110 120 0  10 20  30 
 9
 
 10
-
+Si   L
 N:\106\26\1062668\5 Arbetsmaterial\01 Dokument\G\Fältresultat\NC01.CPW 2020-02-10
 
 D jup (m )
@@ -3849,13 +3854,13 @@ D jup (m )
 | --- | --- | --- | --- |
 | Gr/Sa |  |  |  |
 | gyLe |  |  |  |
-| Cl<br>Si |  | vL | OC |
+| Cl |  | vL | OC |
 |  |  |  | NC |
 |  |  | EL |  |
 |  |  | vL |  |
 |  |  |  | NCSi |
 |  |  |  | NC |
-|  |  | M<br>L | OC |
+|  |  | M | OC |
 
 [Tabell 84-2](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknisk-utredning-pm-och-mur.tabeller/84-2.csv)
 
@@ -4742,6 +4747,7 @@ Klassificering 0 10 20 30  40   50  60   70  80   90  100  110 120 0  10 20  30 
 
 8
 
+Sa  Med
 9
 N:\106\26\1062668\5 Arbetsmaterial\01 Dokument\G\Fältresultat\NC07.CPW 2020-02-10
 
@@ -4755,9 +4761,9 @@ D jup (m )
 | Cl |  |  | vL | OC |
 |  |  |  |  | NC |
 | Si |  |  | v L |  |
-| Cl<br>Sa |  |  | L | OC |
+| Cl |  |  | L | OC |
 |  |  |  |  | NC |
-|  |  |  | vL<br>Med |  |
+|  |  |  | vL |  |
 
 [Tabell 96-2](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknisk-utredning-pm-och-mur.tabeller/96-2.csv)
 

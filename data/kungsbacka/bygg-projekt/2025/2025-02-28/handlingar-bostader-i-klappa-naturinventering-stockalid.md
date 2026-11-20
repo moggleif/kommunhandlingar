@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b20b5c/1740730972
 sha256: 32749124008aedabc5d5f7114f8521b69141367000787e0a41634229eeed5c7d
 bytes: 5511865
 sidor: 27
-hamtad: 2026-11-13T17:13:51+00:00
-konverterad: 2026-11-13T17:14:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:08:32+00:00
+konverterad: 2026-11-20T11:08:45+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 2, 4, 5, 9, 10, 11, 12, 13, 16, 18, 19, 20, 21, 23]
 tolkade: []
@@ -206,10 +206,39 @@ N:\108\24\1082426\6 Leverans\03 Handling för Externgranskning\NVI Stockalid\NVI
 
 | Naturvärdesklass |  | Förtydligande |
 | --- | --- | --- |
-| 1 | Högsta natur-<br>värde<br>Störst positiv be-<br>tydelse för biolo-<br>gisk mångfald | Varje enskilt område med denna naturvärdesklass bedöms vara av särskild betydelse för att upp-<br>rätthålla biologisk mångfald på nationell eller global nivå. |
-| 2 | Högt naturvärde<br>Stor positiv bety-<br>delse för biologisk<br>mångfald | Varje enskilt område med denna naturvärdesklass bedöms vara av särskild betydelse för att upp-<br>rätthålla biologisk mångfald på regional eller nationell nivå.<br>Naturvärdesklass 2 motsvarar ungefär Skogsstyrelsens nyckelbiotoper, lövskogsinventeringens<br>klass 1 och 2, ängs- och betesmarksinventeringens klass aktivt objekt, ängs- och hagmarksinven-<br>teringens klass 1-3, ädellövskogs-inventeringen klass 1 och 2, skyddsvärda träd enligt åtgärds-<br>programmet, våtmarksinventeringens klass 1 och 2, rikkärrsinventeringens klass 1-3, limniska<br>nyckelbiotoper, skogsbrukets klass urvatten, värdekärnor i naturreservat samt fullgoda Natura<br>2000-naturtyper. Detta förutsatt att de inte uppfyller högsta naturvärde. |
-| 3 | Påtagligt natur-<br>värde<br>Påtaglig positiv<br>betydelse för bio-<br>logisk mångfald | Varje enskilt område av en viss naturtyp med denna naturvärdesklass behöver inte vara av sär-<br>skild betydelse för att upprätthålla biologisk mångfald på regional, nationell eller global nivå, men<br>det bedöms vara av särskild betydelse att den totala arealen av dessa områden bibehålls eller blir<br>större samt att deras ekologiska kvalitet upprätthålls eller förbättras.<br>Naturvärdesklass 3 motsvarar ungefär ängs- och betesmarksinventeringens klass restaurerbar<br>ängs- och betesmark, Skogsstyrelsens objekt med naturvärde, lövskogsinventeringens klass 3,<br>ädellövskogsinventeringens klass 3, våtmarksinventeringens klass 3 och 4 samt skogsbrukets<br>klass naturvatten. |
-| 4 | Visst naturvärde<br>Viss positiv bety-<br>delse för biologisk<br>mångfald | Varje enskilt område av en viss naturtyp med denna naturvärdesklass behöver inte vara av bety-<br>delse för att upprätthålla biologisk mångfald på regional, nationell eller global nivå, men det är av<br>betydelse att den totala arealen av dessa områden bibehålls eller blir större samt att deras ekolo-<br>giska kvalitet upprätthålls eller förbättras.<br>Naturvärdesklass 4 motsvarar inte någon klass i de större nationella inventeringar som gjorts. Na-<br>turvärdesklass 4 motsvarar ungefär områden som omfattas av generellt biotopskydd men som<br>inte uppfyller kriterier för högre naturvärdesklass. Naturvärdesklass 4 är användbar för områden<br>som tydligt påverkats av mänsklig aktivitet men där det trots allt finns biotopkvaliteter eller arter av<br>viss positiv betydelse för biologisk mångfald, t.ex. äldre produktionsskog med flerskiktat trädbe-<br>stånd men där andra värdestrukturer och värdeelement saknas. |
+| 1 | Högsta natur- | Varje enskilt område med denna naturvärdesklass bedöms vara av särskild betydelse för att upp- |
+|  | värde | rätthålla biologisk mångfald på nationell eller global nivå. |
+|  | Störst positiv be- |  |
+|  | tydelse för biolo- |  |
+|  | gisk mångfald |  |
+|  |  |  |
+| 2 | Högt naturvärde | Varje enskilt område med denna naturvärdesklass bedöms vara av särskild betydelse för att upp- |
+|  | Stor positiv bety- | rätthålla biologisk mångfald på regional eller nationell nivå. |
+|  | delse för biologisk | Naturvärdesklass 2 motsvarar ungefär Skogsstyrelsens nyckelbiotoper, lövskogsinventeringens |
+|  | mångfald |  |
+|  |  | klass 1 och 2, ängs- och betesmarksinventeringens klass aktivt objekt, ängs- och hagmarksinven- |
+|  |  | teringens klass 1-3, ädellövskogs-inventeringen klass 1 och 2, skyddsvärda träd enligt åtgärds- |
+|  |  | programmet, våtmarksinventeringens klass 1 och 2, rikkärrsinventeringens klass 1-3, limniska |
+|  |  | nyckelbiotoper, skogsbrukets klass urvatten, värdekärnor i naturreservat samt fullgoda Natura |
+|  |  | 2000-naturtyper. Detta förutsatt att de inte uppfyller högsta naturvärde. |
+| 3 | Påtagligt natur- | Varje enskilt område av en viss naturtyp med denna naturvärdesklass behöver inte vara av sär- |
+|  | värde | skild betydelse för att upprätthålla biologisk mångfald på regional, nationell eller global nivå, men |
+|  | Påtaglig positiv | det bedöms vara av särskild betydelse att den totala arealen av dessa områden bibehålls eller blir |
+|  | betydelse för bio- | större samt att deras ekologiska kvalitet upprätthålls eller förbättras. |
+|  | logisk mångfald | Naturvärdesklass 3 motsvarar ungefär ängs- och betesmarksinventeringens klass restaurerbar |
+|  |  | ängs- och betesmark, Skogsstyrelsens objekt med naturvärde, lövskogsinventeringens klass 3, |
+|  |  | ädellövskogsinventeringens klass 3, våtmarksinventeringens klass 3 och 4 samt skogsbrukets |
+|  |  | klass naturvatten. |
+| 4 | Visst naturvärde | Varje enskilt område av en viss naturtyp med denna naturvärdesklass behöver inte vara av bety- |
+|  | Viss positiv bety- | delse för att upprätthålla biologisk mångfald på regional, nationell eller global nivå, men det är av |
+|  | delse för biologisk | betydelse att den totala arealen av dessa områden bibehålls eller blir större samt att deras ekolo- |
+|  | mångfald | giska kvalitet upprätthålls eller förbättras. |
+|  |  | Naturvärdesklass 4 motsvarar inte någon klass i de större nationella inventeringar som gjorts. Na- |
+|  |  | turvärdesklass 4 motsvarar ungefär områden som omfattas av generellt biotopskydd men som |
+|  |  | inte uppfyller kriterier för högre naturvärdesklass. Naturvärdesklass 4 är användbar för områden |
+|  |  | som tydligt påverkats av mänsklig aktivitet men där det trots allt finns biotopkvaliteter eller arter av |
+|  |  | viss positiv betydelse för biologisk mångfald, t.ex. äldre produktionsskog med flerskiktat trädbe- |
+|  |  | stånd men där andra värdestrukturer och värdeelement saknas. |
 
 <!-- sida 9 -->
 
@@ -336,10 +365,13 @@ N:\108\24\1082426\6 Leverans\03 Handling för Externgranskning\NVI Stockalid\NVI
 
 | Fältbesök | Observationer i damm centralt i området, naturvärdesobjekt J |
 | --- | --- |
-| 2023-03-20 | Runt 10 individer av större vattensalamander (flera hanar i lekdräkt) och 2 individer av<br>mindre vattensalamander i dammen. |
-| 2023-04-13 | 2 individer av större vattensalamander (2 hanar i lekdräkt). 2 individer av mindre vattensa-<br>lamander (2 honor). |
+| 2023-03-20 | Runt 10 individer av större vattensalamander (flera hanar i lekdräkt) och 2 individer av |
+|  | mindre vattensalamander i dammen. |
+| 2023-04-13 | 2 individer av större vattensalamander (2 hanar i lekdräkt). 2 individer av mindre vattensa- |
+|  | lamander (2 honor). |
 | 2023-04-20 | Igen rom eller groddjur observerade. |
-| 2023-05-17 | 6 individer av större vattensalamander (5 hanar, 1 hona, varav 1 lekande par).<br>2 individer av mindre vattensalamander, hane och hona |
+| 2023-05-17 | 6 individer av större vattensalamander (5 hanar, 1 hona, varav 1 lekande par). |
+|  | 2 individer av mindre vattensalamander, hane och hona |
 
 <!-- sida 14 -->
 
@@ -398,18 +430,25 @@ N:\108\24\1082426\6 Leverans\03 Handling för Externgranskning\NVI Stockalid\NVI
 
 | Data | Källa | Inom inventeringsområdet |
 | --- | --- | --- |
-| Fynd av naturvårdsarter | ArtDatabanken 2023 | Inga artfynd rapporterade från inventeringsområdet. Strax<br>nordväst om området finns några arter av fladdermöss rap-<br>porterade, bland annat nordfladdermus och fransfladder-<br>mus, vilka är rödlistade i kategori NT. Uppgifterna är från<br>en inventering med autoboxar av Calluna 2019. |
+| Fynd av naturvårdsarter | ArtDatabanken 2023 | Inga artfynd rapporterade från inventeringsområdet. Strax |
+|  |  | nordväst om området finns några arter av fladdermöss rap- |
+|  |  | porterade, bland annat nordfladdermus och fransfladder- |
+|  |  | mus, vilka är rödlistade i kategori NT. Uppgifterna är från |
+|  |  | en inventering med autoboxar av Calluna 2019. |
 | Nationalparker | Naturvårdsverket 2023 | Nej |
 | Natura 2000 (SCI) | Naturvårdsverket 2023 | Nej |
 | Natura 2000 (SPA) | Naturvårdsverket 2023 | Nej |
 | Naturreservat | Naturvårdsverket 2023 | Nej |
 | Naturvårdsavtal | Skogsstyrelsen 2023 | Nej |
-| Nyckelbiotop, objekt med<br>naturvärde, sumpskog | Skogsstyrelsen 2023 | Nej |
+| Nyckelbiotop, objekt med | Skogsstyrelsen 2023 | Nej |
+| naturvärde, sumpskog |  |  |
 | Riksintresse för naturvården | Länsstyrelsen Hallands län 2023 | Nej |
 | Skyddsvärda träd | Länsstyrelsen Hallands län 2023 | Nej |
-| Våtmarksinventeringen<br>(VMI) | Länsstyrelsen Hallands län 2023 | Nej |
+| Våtmarksinventeringen | Länsstyrelsen Hallands län 2023 | Nej |
+| (VMI) |  |  |
 | Värdetrakter skog | Länsstyrelsen Hallands län 2023 | Nej |
-| Ängs- och betesmarks-<br>inventeringen | Jordbruksverket 2017 | Nej |
+| Ängs- och betesmarks- | Jordbruksverket 2017 | Nej |
+| inventeringen |  |  |
 | Naturvårdsplan | Kungsbacka kommun 2003 | Nej |
 
 <!-- sida 16 -->
@@ -447,15 +486,31 @@ N:\108\24\1082426\6 Leverans\03 Handling för Externgranskning\NVI Stockalid\NVI
 | Art | Naturvård | Kommentar |
 | --- | --- | --- |
 | Kärlväxter |  |  |
-| Blodrot<br>Potentilla erecta | S | Sporadisk förekomst i öppna marker och kantzoner, bland annat i naturvärdes-<br>objekt F. |
-| Blåsuga<br>Ajuga pyramidalis | S | Noterad i övergången mellan öppen mark och skog i söder. |
-| Prästkrage<br>Leucanthemum vulgare | S | Noterad i naturvärdesobjekt F. |
-| Ängsvädd<br>Succisa pratensis | S | Noterad i naturvärdesobjekt F. |
+| Blodrot | S | Sporadisk förekomst i öppna marker och kantzoner, bland annat i naturvärdes- |
+| Potentilla erecta |  | objekt F. |
+| Blåsuga | S | Noterad i övergången mellan öppen mark och skog i söder. |
+| Ajuga pyramidalis |  |  |
+| Prästkrage | S | Noterad i naturvärdesobjekt F. |
+| Leucanthemum vulgare |  |  |
+| Ängsvädd | S | Noterad i naturvärdesobjekt F. |
+| Succisa pratensis |  |  |
 | Groddjur |  |  |
-| Mindre vattensalamander<br>Lissotriton vulgaris | F | Mindre vattensalamander är i huvudsak ett landlevande djur, men håller sig<br>gärna nära vatten hela året, och leker i vatten. Arten är nattaktiv och lever på<br>insekter och andra smådjur. På dagen söker den gärna skydd på fuktiga plat-<br>ser som under stenar, stockar eller lövhögar. För övervintring krävs det att<br>gömställena håller sig frostfria. Den centrala dammen i området (NVI-objekt J)<br>har konstaterats utgöra lekmiljö för mindre vattensalamander. |
-| Större vattensalamander<br>Triturus cristatus | F, N | Precis som föregående art är större vattensalamander i huvudsak landlevande<br>men håller sig nära sitt lekvatten hela året, och leker i vatten. Medan mindre<br>vattensalamander kan leka i mycket små vatten kräver större vattensalaman-<br>der lite större areal och djup på vattenområdet. Håller gärna till i fuktiga lövdo-<br>minerade skogar där den gömmer sig under stubbar, murkna trädstammar el-<br>ler i övergivna hålor av gnagare. Den centrala dammen i området (NVI-objekt<br>J) har konstaterats utgöra lekmiljö för mindre vattensalamander. |
+| Mindre vattensalamander | F | Mindre vattensalamander är i huvudsak ett landlevande djur, men håller sig |
+| Lissotriton vulgaris |  | gärna nära vatten hela året, och leker i vatten. Arten är nattaktiv och lever på |
+|  |  | insekter och andra smådjur. På dagen söker den gärna skydd på fuktiga plat- |
+|  |  | ser som under stenar, stockar eller lövhögar. För övervintring krävs det att |
+|  |  | gömställena håller sig frostfria. Den centrala dammen i området (NVI-objekt J) |
+|  |  | har konstaterats utgöra lekmiljö för mindre vattensalamander. |
+| Större vattensalamander | F, N | Precis som föregående art är större vattensalamander i huvudsak landlevande |
+| Triturus cristatus |  | men håller sig nära sitt lekvatten hela året, och leker i vatten. Medan mindre |
+|  |  | vattensalamander kan leka i mycket små vatten kräver större vattensalaman- |
+|  |  | der lite större areal och djup på vattenområdet. Håller gärna till i fuktiga lövdo- |
+|  |  | minerade skogar där den gömmer sig under stubbar, murkna trädstammar el- |
+|  |  | ler i övergivna hålor av gnagare. Den centrala dammen i området (NVI-objekt |
+|  |  | J) har konstaterats utgöra lekmiljö för mindre vattensalamander. |
 | Insekter |  |  |
-| Rödhalsad svartbagge<br>Neomida haemorrhoidalis | S | Noterad i naturvärdesobjekt C. |
+| Rödhalsad svartbagge | S | Noterad i naturvärdesobjekt C. |
+| Neomida haemorrhoidalis |  |  |
 
 <!-- sida 18 -->
 
