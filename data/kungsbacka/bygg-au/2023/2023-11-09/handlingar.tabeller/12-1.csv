@@ -1,15 +1,20 @@
-Kategorier,"Till
-Risker Sannolikhet Konsekvens
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
 plan"
-Personal,"1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja
-risk: Brister vid som besvärande för
-referenstagning berörda intressenter och
-kommunen)"
-Verksamhet,"2 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja
-risk - Risk för korruption (så stor att den inte får
-inträffa)"
-,"3 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja
-risk: Förvaltningarnas som besvärande för
-arbete med att utveckla berörda intressenter och
-krisledningsorganisation kommunen)
-en i egen verksamhet"
+Personal,,"1 Kommunövergripande
+risk: Brister vid
+referenstagning",3. Vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja
+Verksamhet,,"2 Kommunövergripande
+risk - Risk för korruption",2. Mindre vanligt,"4. Allvarlig/stor inverkan
+(så stor att den inte får
+inträffa)",Ja
+,,"3 Kommunövergripande
+risk: Förvaltningarnas
+arbete med att utveckla
+krisledningsorganisation
+en i egen verksamhet",3. Vanligt,"3. Kännbar (uppfattas
+som besvärande för
+berörda intressenter och
+kommunen)",Ja

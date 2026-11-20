@@ -1,12 +1,10 @@
-Process,Riskanalys,Egenkontroll Utfall,Åtgärd
+Process,Riskanalys,,Egenkontroll,Utfall,,Åtgärd
 Säker,"Följsamhet till
 beslutade rutiner
-om samverkan","Senior Alert
-95%
-bedömningar",
-,,"BPSD
-60,3%
-registreringar",
+om samverkan",,"Senior Alert
+bedömningar",95%,,
+,,,"BPSD
+registreringar","60,3%",,
 ,"Följsamhet till
 beslutade rutiner
 om samverkan
@@ -14,14 +12,14 @@ mellan
 socialtjänsten och
 hälso- och
 sjukvården inom
-Kvarboende","BPSD-
-registreringar - 83,33%
-kvarboende",
-,,"Senior Alert-
-registreringar - 99,43%
-kvarboende",
+Kvarboende",,"BPSD-
+registreringar -
+kvarboende","83,33%",,
+,,,"Senior Alert-
+registreringar -
+kvarboende","99,43%",,
 ,"Följsamhet
 Riktlinje för
 rapportering och
 utredning av
-händelser",,
+händelser",,,,,

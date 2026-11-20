@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20240520141741id_/https://kungsbacka.se/d
 sha256: 1b3c7a046813f627c3cc8755e462fc3130a5c87b09c742c194dd9de977d21c75
 bytes: 8632432
 sidor: 139
-hamtad: 2026-10-20T08:48:26+00:00
-konverterad: 2026-10-20T08:49:02+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-20T22:52:38+00:00
+konverterad: 2026-11-20T22:53:50+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [104, 107, 108, 109, 112]
 figurer: [6, 97, 104, 105, 106, 107, 108, 109, 110, 111, 112]
 tolkade: []
@@ -817,15 +817,15 @@ Fokusområden
 
 [Tabell 21-22-1](handlingar.tabeller/21-22-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Bäst att leva,<br>Kungsbackas<br>placering i ranking<br>5<br>av Sveriges<br>kommuner enligt<br>Tidningen Fokus. | 3 |  |
-| Antal påbörjade<br>234<br>bostäder | 216 | 848 |
-| Antal färdigställda<br>248<br>bostäder | 430 | 363 |
-| Anmälda brott per<br>invånare (antal/100 5 075<br>000 invånare) | 5 321 | 5 691 |
-| Brukarbedömning<br>hemtjänst<br>88%<br>äldreomsorg,<br>helhetssyn |  | 90% |
-| Brukarbedömning<br>särskilt boende<br>81%<br>äldreomsorg,<br>helhetssyn |  | 74% |
-| Brukarbedömning<br>individ- och<br>76%<br>familjeomsorg totalt<br>- helhetssyn |  | 88% |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Bäst att leva,<br>Kungsbackas<br>placering i ranking<br>av Sveriges<br>kommuner enligt<br>Tidningen Fokus. | 5 | 3 |  |
+| Antal påbörjade<br>bostäder | 234 | 216 | 848 |
+| Antal färdigställda<br>bostäder | 248 | 430 | 363 |
+| Anmälda brott per<br>invånare (antal/100<br>000 invånare) | 5 075 | 5 321 | 5 691 |
+| Brukarbedömning<br>hemtjänst<br>äldreomsorg,<br>helhetssyn | 88% |  | 90% |
+| Brukarbedömning<br>särskilt boende<br>äldreomsorg,<br>helhetssyn | 81% |  | 74% |
+| Brukarbedömning<br>individ- och<br>familjeomsorg totalt<br>- helhetssyn | 76% |  | 88% |
 
 <!-- sida 22 -->
 
@@ -841,15 +841,7 @@ Nämnd
 Fokusområde
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när man behöver
 stöd för att få livet att fungera"
-Indikator       Utfall 2020   Utfall 2021   Utfall 2022
 
-Personalkontinuitet,
-antal personal som
-en
-hemtjänstmottagare 18           17,3          17,9
-möter under 14
-dagar, medelvärde,
-egenregi
 5.1.2 Andelen enskilda i våra verksamheter som har en aktuell genomförandeplan ska
 årligen öka och 2025 uppgå till minst 95 %
 
@@ -861,6 +853,12 @@ Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får
 stöd för att få livet att fungera".
 
 14
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Personalkontinuitet,<br>antal personal som<br>en<br>hemtjänstmottagare<br>möter under 14<br>dagar, medelvärde,<br>egenregi | 18 | 17,3 | 17,9 |
 
 <!-- sida 23 -->
 
@@ -883,25 +881,25 @@ som också skyddar och främjar biologisk mångfald.
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Andel aktuella<br>genomförandeplaner<br>inom vård- och -<br>omsorgsboende,<br>egenregi | - | 89,5% |
-| Andel aktuella<br>genomförandeplaner<br>-<br>inom hemtjänsten,<br>egenregi | - | 78,3% |
-| Andel aktuella<br>genomförandeplaner<br>inom -<br>korttidsboende,<br>egenregi | - | 84,6% |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Andel aktuella<br>genomförandeplaner<br>inom vård- och<br>omsorgsboende,<br>egenregi | - | - | 89,5% |
+| Andel aktuella<br>genomförandeplaner<br>inom hemtjänsten,<br>egenregi | - | - | 78,3% |
+| Andel aktuella<br>genomförandeplaner<br>inom<br>korttidsboende,<br>egenregi | - | - | 84,6% |
 
 [Tabell 23-25-2](handlingar.tabeller/23-25-2.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>85%<br>4 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 88% | 88% |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>88%<br>4 i % - Pojkar.<br>(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 93% | 90% |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>70%<br>8 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 77% | 72% |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>84%<br>8 i % -<br>Pojkar.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 92% | 93% |
-| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>70%<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>flickor. | 68% | 65% |
-| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>80%<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>pojkar. | 88% | 85% |
-| Avfall från hushåll ska<br>minska med 30% per<br>invånare från 2020 till 100<br>2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |
-| Avfall från kommunens<br>verksamheter ska<br>minska med 40 % per<br>100<br>heltidsanställd.<br>Startvärde 100,<br>målvärde 2030 är 60. | 72,1 | 84,5 |
-| Vattendrag med god<br>ekologisk status, andel<br>(Kolada) |  |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 85% | 88% | 88% |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % - Pojkar.<br>(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 88% | 93% | 90% |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 70% | 77% | 72% |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Pojkar.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 84% | 92% | 93% |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>flickor. | 70% | 68% | 65% |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>pojkar. | 80% | 88% | 85% |
+| Avfall från hushåll ska<br>minska med 30% per<br>invånare från 2020 till<br>2030. Startvärde 100,<br>målvärde 2030 är 70. | 100 |  |  |
+| Avfall från kommunens<br>verksamheter ska<br>minska med 40 % per<br>heltidsanställd.<br>Startvärde 100,<br>målvärde 2030 är 60. | 100 | 72,1 | 84,5 |
+| Vattendrag med god<br>ekologisk status, andel<br>(Kolada) |  |  |  |
 
 <!-- sida 24 -->
 
@@ -928,12 +926,12 @@ mellan näringsliv och utbildning.
 
 [Tabell 25-26-1](handlingar.tabeller/25-26-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Insikt, SKRs<br>servicemätning av<br>kommunernas<br>myndighetsutövning<br>för företag. Nöjd-<br>kund-index utifrån<br>sammanvägt<br>betygsindex 0-100, 66<br>för hur företag i<br>kommunen bedömer<br>Kungsbacka<br>kommuns<br>myndighetsutövning,<br>vilket är en viktig del<br>av företagsklimatet. | 66 | 70 |
-| Svenskt Näringslivs<br>attitydundersökning<br>av kommuners<br>företagsklimat.<br>Medelvärde utifrån<br>3,3<br>skala 1-6, där<br>företag bedömer<br>företagsklimatet i<br>Kungsbacka<br>kommun. | 3,5 | 3,4 |
-| Sysselsatt<br>27 384<br>dagbefolkning, antal |  |  |
-| Andel av sysselsatt<br>dagbefolkning inom 5,1%<br>Göteborgsregionen |  |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Insikt, SKRs<br>servicemätning av<br>kommunernas<br>myndighetsutövning<br>för företag. Nöjd-<br>kund-index utifrån<br>sammanvägt<br>betygsindex 0-100,<br>för hur företag i<br>kommunen bedömer<br>Kungsbacka<br>kommuns<br>myndighetsutövning,<br>vilket är en viktig del<br>av företagsklimatet. | 66 | 66 | 70 |
+| Svenskt Näringslivs<br>attitydundersökning<br>av kommuners<br>företagsklimat.<br>Medelvärde utifrån<br>skala 1-6, där<br>företag bedömer<br>företagsklimatet i<br>Kungsbacka<br>kommun. | 3,3 | 3,5 | 3,4 |
+| Sysselsatt<br>dagbefolkning, antal | 27 384 |  |  |
+| Andel av sysselsatt<br>dagbefolkning inom<br>Göteborgsregionen | 5,1% |  |  |
 
 <!-- sida 26 -->
 
@@ -953,13 +951,13 @@ Fokusområden
 
 [Tabell 26-27-1](handlingar.tabeller/26-27-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Genomsnittligt<br>meritvärde i årskurs<br>9. Meritvärdet<br>utgörs av summan<br>246<br>av de 17 bästa<br>betygen i elevens<br>slutbetyg och kan<br>max vara 340. | 239 | 237 |
-| Arbetslöshet för<br>ungdomar 16–24 år<br>i kommunen. (Källa: 2,8%<br>Arbetsförmedlingen<br>och SCB) | 2,6% | 1,7% |
-| Självkänsla och<br>framtidstro för<br>gymnasieelever år<br>2, index med skala<br>0–10 enligt<br>Skolenkäten som<br>genomförs enligt<br>Skolinspektionens<br>skolenkät. Enkäten<br>genomförs<br>vartannat år. | 7,7 |  |
-| Genomsnittligt<br>betygspoäng för<br>gymnasiets<br>14<br>avgångselevers<br>betygspoäng som<br>kan vara max 20. | 14,3 | 14,5 |
-| Andel vuxna<br>personer som inte<br>återkommit till<br>försörjningsstöd<br>82%<br>inom ett år efter<br>avslutat<br>försörjningsstöd<br>(%) | 67% | 69% |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Genomsnittligt<br>meritvärde i årskurs<br>9. Meritvärdet<br>utgörs av summan<br>av de 17 bästa<br>betygen i elevens<br>slutbetyg och kan<br>max vara 340. | 246 | 239 | 237 |
+| Arbetslöshet för<br>ungdomar 16–24 år<br>i kommunen. (Källa:<br>Arbetsförmedlingen<br>och SCB) | 2,8% | 2,6% | 1,7% |
+| Självkänsla och<br>framtidstro för<br>gymnasieelever år<br>2, index med skala<br>0–10 enligt<br>Skolenkäten som<br>genomförs enligt<br>Skolinspektionens<br>skolenkät. Enkäten<br>genomförs<br>vartannat år. |  | 7,7 |  |
+| Genomsnittligt<br>betygspoäng för<br>gymnasiets<br>avgångselevers<br>betygspoäng som<br>kan vara max 20. | 14 | 14,3 | 14,5 |
+| Andel vuxna<br>personer som inte<br>återkommit till<br>försörjningsstöd<br>inom ett år efter<br>avslutat<br>försörjningsstöd<br>(%) | 82% | 67% | 69% |
 
 <!-- sida 27 -->
 
@@ -982,10 +980,10 @@ kommunen.
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation, 78<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 |
-| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>91<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 103 | 114 |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation,<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 | 78 |
+| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 91 | 103 | 114 |
 
 <!-- sida 28 -->
 
@@ -1006,10 +1004,10 @@ medarbetare och ledare".
 
 [Tabell 28-1](handlingar.tabeller/28-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 |
-| --- | --- | --- |
-| Personalomsättning,<br>13,4%<br>egenregi | 12,6% | 14,1% |
-| Personalomsättning,<br>exkl pension och 5,1%<br>intern rörlighet | 5,6% | 6,5% |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Personalomsättning,<br>egenregi | 13,4% | 12,6% | 14,1% |
+| Personalomsättning,<br>exkl pension och<br>intern rörlighet | 5,1% | 5,6% | 6,5% |
 
 <!-- sida 29 -->
 
@@ -1076,12 +1074,6 @@ Utveckling och spridning av nya arbetssätt
 Bygga en kultur som inspirerar och tillåter experimenterande och testande, utforskande och medskapande
 Möjlighet att genomföra fler utvecklingsinitiativ
 Skapa ändamålsenliga tekniska förutsättningar
-Indikator                         Målsättning 2024
-
-Status direktiv: Andel innovationsprojekt som drivits Status direktiv: Andel innovationsprojekt som drivits
-under året                        under året
-Status direktiv: Andel av bruttokostnaden som Status direktiv: Andel av bruttokostnaden som
-avsätts för verksamhetsutveckling och innovation avsätts för verksamhetsutveckling och innovation
 
 INNOVATION OCH OMSTÄLLNING TILL NYA ARBETSSÄTT
 I maj 2023 fick förvaltningen i uppdrag att, genom ett initiativ från nämnden, undersöka, kartlägga och
@@ -1104,6 +1096,13 @@ Förvaltningen har även fått ett initiativ kring minskad administration då fl
 har brist på, har en hög administrationsbörda. Initiativen har starka beroenden.
 
 22
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Indikator | Målsättning 2024 |
+| --- | --- |
+| Status direktiv: Andel innovationsprojekt som drivits<br>under året | Status direktiv: Andel innovationsprojekt som drivits<br>under året |
+| Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation | Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation |
 
 <!-- sida 31 -->
 
@@ -1143,70 +1142,38 @@ upplevt den vård de mottagit vilken genomförs vartannat år.
 
 7.2 Resursmått
 
-Utfall  Utfall
-Delområde Nyckeltal
-2021     2022
-Kostnad
-64 751   66 654
-äldreomsorg, kr/inv 65+
-9,2%     6,9%
-Nettokostnadsavvikelse
-Antal
-Resursmått omsorgstagare i 2 443  2 664
-verksamheten över 65
-år
-Antal
-omsorgstagare i
-98       137
-verksamheten under 65
-år
-
 23
+
+[Tabell 31-32-1](handlingar.tabeller/31-32-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2021 | Utfall<br>2022 |
+| --- | --- | --- | --- |
+| Resursmått | Kostnad<br>äldreomsorg, kr/inv 65+ | 64 751 | 66 654 |
+|  | Nettokostnadsavvikelse | 9,2% | 6,9% |
+|  | Antal<br>omsorgstagare i<br>verksamheten över 65<br>år | 2 443 | 2 664 |
+|  | Antal<br>omsorgstagare i<br>verksamheten under 65<br>år | 98 | 137 |
+|  | Antal patienter i<br>hemsjukvården | 1 899 | 1 994 |
+|  | Totalt antal<br>omsorgstagare och<br>patienter i<br>verksamheten | 3 088 |  |
 
 <!-- sida 32 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2024
 
-Utfall  Utfall
-Delområde Nyckeltal
-2021     2022
-Antal patienter i
-1 899   1 994
-hemsjukvården
-Totalt antal
-omsorgstagare och
-3 088
-patienter i
-verksamheten
 7.3 Prestationsmått
-Utfall   Utfall
-Delområde  Nyckeltal
-2021     2022
-Antal
-lägenheter på
-694       694
-vård- och
-omsorgsboende
-Antal
-lägenheter för 62        62
-korttids/växelvård
-Beläggningsgrad
-92%       97%
-vård- och
-Prestationsmått
-omsorgsboende
-Antal timmar
-582 438 537 632
-hemtjänst
-Kö till vård-
-och            20        53
-omsorgsboende
-Väntetid till
-vård- och      31        30
-omsorgsboende
 
 24
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2021 | Utfall<br>2022 |
+| --- | --- | --- | --- |
+| Prestationsmått | Antal<br>lägenheter på<br>vård- och<br>omsorgsboende | 694 | 694 |
+|  | Antal<br>lägenheter för<br>korttids/växelvård | 62 | 62 |
+|  | Beläggningsgrad<br>vård- och<br>omsorgsboende | 92% | 97% |
+|  | Antal timmar<br>hemtjänst | 582 438 | 537 632 |
+|  | Kö till vård-<br>och<br>omsorgsboende | 20 | 53 |
+|  | Väntetid till<br>vård- och<br>omsorgsboende | 31 | 30 |
 
 <!-- sida 33 -->
 
@@ -1215,27 +1182,13 @@ Nämndbudget 2024
 
 7.4 Effektmått
 
-Andel som
-sammantaget
-är mycket eller
-ganska nöjda  -       77%
-med sitt
-Vad tycker de
-särskilda
-äldre om
-boende.
-äldreomsorgen?
-Enkätundersökning
-Andel som
-för de över 65 år
-sammantaget
-är mycket eller
-\-       91%
-ganska nöjda
-med sin
-hemtjänst.
-
 25
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Vad tycker de<br>äldre om<br>äldreomsorgen?<br>Enkätundersökning<br>för de över 65 år | Andel som<br>sammantaget<br>är mycket eller<br>ganska nöjda<br>med sitt<br>särskilda<br>boende. | - | 77% |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Andel som<br>sammantaget<br>är mycket eller<br>ganska nöjda<br>med sin<br>hemtjänst. | - | 91% |  |  |  |  |
 
 <!-- sida 34 -->
 
@@ -1284,94 +1237,53 @@ anställning. Resultatet av samtalen följs upp en gång/år och en analys görs
 
 8.2 Personalmått
 
-Nyckeltal      Utfall 2020 Utfall 2021 Utfall 2022
-
-Andel heltid     59,1%      62,3%         62,6%
-Andel kvinnor som
-57,6%      60,6%         61,4%
-har heltid
-
 26
+
+[Tabell 34-36-1](handlingar.tabeller/34-36-1.csv)
+
+| Nyckeltal | Utfall 2020 | Utfall 2021 | Utfall 2022 |
+| --- | --- | --- | --- |
+| Andel heltid | 59,1% | 62,3% | 62,6% |
+| Andel kvinnor som<br>har heltid | 57,6% | 60,6% | 61,4% |
+| Andel män som har<br>heltid | 80% | 81,4% | 74% |
+| Medarbetare 40 - 49<br>år | 21,8% | 19,4% | 18,5% |
+| Medarbetare 50 - 59<br>år | 30,9% | 31% | 29% |
+| Medarbetare 60 år<br>och äldre | 11% | 11,9% | 12,5% |
+| Sjukfrånvaro Totalt | 10,5% | 9,6% | 10,1% |
+| Sjukfrånvaro<br>Kvinnor | 10,7% | 9,8% | 10,5% |
+| Sjukfrånvaro Män | 8% | 7% | 6,4% |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 34,2% | 36,9% | 34% |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer<br>Kvinnor | 34,6% | 37,6% | 35,2% |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer Män | 28,9% | 28,1% | 18,1% |
+| Frisknärvaro | 34,4% | 41,3% | 36,8% |
+| Frisknärvaro Kvinnor | 33,4% | 40,6% | 35,5% |
+| Frisknärvaro Män | 47,3% | 50,4% | 48,1% |
+| Anställda totalt | 1 243 | 1 300 | 1 397 |
+| Anställda andel<br>kvinnor | 91,7% | 89,9% | 88,9% |
+| Anställda andel män | 8,3% | 10,2% | 11,1% |
+| Korttidssjukfrånvaro<br>Kvinnor | 5,5% | 4,8% | 5,6% |
+| Korttidssjukfrånvaro<br>Män | 4,9% | 4,4% | 4,8% |
+| Långtidssjukfrånvaro | 5% | 4,8% | 4,6% |
+| Långtidssjukfrånvaro<br>Kvinnor | 5,2% | 5% | 4,9% |
+| Långtidssjukfrånvaro<br>Män | 3,1% | 2,6% | 1,6% |
+| Korttidssjukfrånvaro | 5,5% | 4,8% | 5,5% |
+| Antal medarbetare<br>per enhetschef | 27,1 | 28,4 | 27,9 |
+| Personalomsättning | 13,4% | 12,6% | 14,1% |
+| Medarbetare yngre<br>än 30 år | 14,2% | 15,7% | 17% |
+| Medelålder | 45 | 44 | 44 |
+| Medarbetare 30 - 39<br>år | 22,1% | 22,1% | 23% |
 
 <!-- sida 35 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2024
 
-Nyckeltal      Utfall 2020 Utfall 2021 Utfall 2022
-Andel män som har
-80%        81,4%          74%
-heltid
-Medarbetare 40 - 49
-21,8%      19,4%         18,5%
-år
-Medarbetare 50 - 59
-30,9%       31%           29%
-år
-Medarbetare 60 år
-11%        11,9%         12,5%
-och äldre
-Sjukfrånvaro Totalt 10,5%   9,6%          10,1%
-Sjukfrånvaro
-10,7%      9,8%          10,5%
-Kvinnor
-Sjukfrånvaro Män  8%         7%            6,4%
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 34,2%    36,9%          34%
-dagar eller mer
-Sjukfrånvaro, andel
-av sjukfrånvaro 60
-34,6%      37,6%         35,2%
-dagar eller mer
-Kvinnor
-Sjukfrånvaro, andel
-
-Anställda andel
-91,7%      89,9%         88,9%
-kvinnor
-Anställda andel män 8,3%    10,2%         11,1%
-Korttidssjukfrånvaro
-5,5%       4,8%           5,6%
-Kvinnor
-Korttidssjukfrånvaro
-4,9%       4,4%           4,8%
-Män
-Långtidssjukfrånvaro 5%     4,8%           4,6%
-Långtidssjukfrånvaro
-5,2%        5%            4,9%
-Kvinnor
-Långtidssjukfrånvaro
-3,1%       2,6%           1,6%
-Män
-Korttidssjukfrånvaro 5,5%   4,8%           5,5%
-Antal medarbetare
-27,1       28,4          27,9
-per enhetschef
 27
-
-[Tabell 35-1](handlingar.tabeller/35-1.csv)
-
-| av sjukfrånvaro 60 dagar eller mer Män | 28,9% | 28,1% | 18,1% |
-| --- | --- | --- | --- |
-| Frisknärvaro | 34,4% | 41,3% | 36,8% |
-| Frisknärvaro Kvinnor | 33,4% | 40,6% | 35,5% |
-| Frisknärvaro Män | 47,3% | 50,4% | 48,1% |
-| Anställda totalt | 1 243 | 1 300 | 1 397 |
 
 <!-- sida 36 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Nämndbudget 2024
-
-Nyckeltal      Utfall 2020 Utfall 2021 Utfall 2022
-Personalomsättning 13,4%    12,6%         14,1%
-Medarbetare yngre
-14,2%      15,7%          17%
-än 30 år
-Medelålder        45         44             44
-Medarbetare 30 - 39
-22,1%      22,1%          23%
-år
 
 8.3 Arbetsmiljö
 
@@ -1521,47 +1433,39 @@ Nämndbudget 2024
 
 10.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-01-10 § 30
-Kvalitet                                            KF 2013-08-13 § 101
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-Vision 2030                                         KF 2017-06-16 § 94
-
-Kommunikation                                       KF 2019-12-10 § 194
-Fordon                                              KF 2014-10-13 § 114
-
-Biblioteksplan                                      KF 2021-04-13 § 68
-Reglemente nämnden för Vård & Omsorg                KF 2017-12-12 § 194
-Upphandling, policy                                 KF § 2021-03-09 § 30
-
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-Enteral nutrition, taxa för avgifter inom Vård & Omsorg KF 2018-04-10 § 60
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Omställningsstöd och pension för förtroendevalda (OPF-KL18) KF 2018-12-13 § 26
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-
-Lokala ordningsföreskrifter                          KF 2020-02-02 § 8
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-05-01
-
-Klimatstrategi                                      KF 2018-12-13 § 257
-Invånardialog                                         KF 2014 § 119
-Privata utförare                                    KF 2016-10-11 § 144
-
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2021-11-09 § 142
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Patientavgifter inom hemsjukvården, taxa            KF 2020-04-14 § 31
-Taxa för vård och omsorg                            KF 2022-10-18 § 159
-
 32
+
+[Tabell 40-1](handlingar.tabeller/40-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-01-10 § 30 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2017-06-16 § 94 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon | KF 2014-10-13 § 114 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Reglemente nämnden för Vård & Omsorg | KF 2017-12-12 § 194 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Enteral nutrition, taxa för avgifter inom Vård & Omsorg | KF 2018-04-10 § 60 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Omställningsstöd och pension för förtroendevalda (OPF-KL18) | KF 2018-12-13 § 26 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-05-01 |
+| Klimatstrategi | KF 2018-12-13 § 257 |
+| Invånardialog | KF 2014 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2021-11-09 § 142 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Patientavgifter inom hemsjukvården, taxa | KF 2020-04-14 § 31 |
+| Taxa för vård och omsorg | KF 2022-10-18 § 159 |
 
 <!-- sida 41 -->
 
@@ -1570,49 +1474,42 @@ Nämndbudget 2024
 
 10.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                       Beslutande paragraf/År
-
-Styrande dokument, riktlinjer                       KS 2017-06-20 § 163
-Integration, riktlinjer                             KS 2019-11-26 § 275
-
-Personuppgifter - riktlinjer                        KS 2021-10-19 § 278
-Informationssäkerhet, riktlinjer                    KS 2020-04-21 § 81
-Flaggning                                           KS 2020-09-22 § 207
-
-Personuppgifter; Regler för interna personuppgiftsbiträdesförhållanden KS 2021-10-19 § 278
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
 10.3 Styrdokument beslutade av nämnden för Vård & Omsorg
 
-Styrdokument                                       Beslutande paragraf/År
-Annas led- för en trygg och säker demensvård i Halland NÄO 2012-12-13 § 146
-
-Delegeringsförteckning                              NVO 2019-03-20 §24
-Dokumenthanteringsplan                              NVO 2020-06-17 § 51
-Ledningssystem för systematiskt kvalitetsarbete    NVO 2017-12-13 § 151
-
-Lokalbehov 2025-2029, utblicksår 2030-2034           NVO 2020-09-21
-Nämndbudget 2023                                    NVO 2022-09-21 § 90
-
-Investeringsplan 2024-2033                          NVO 2023-02-16 § 12
-Intern kontrollplan 2020                           NVO 2019-11-13 § 124
-Förfrågningsunderlag LOV                            NVO 2018-04-18 §43
-
-Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i
-NVO 2018-09-19 §78
-Kungsbacka kommun
-Tillägg till ledningssystem för systematiskt kvalitetsarbete NVO 2020-04-15 § 19
-Arkivbeskrivning 2022                               NVO 2022-05-11 § 52
-Intern kontrollplan 2023                            NVO 2023-02-16 § 10
-Klassificeringsstruktur                            NVO 2022-11-16 § 130
-
-Informationshanteringsplan                         NVO 2022-11-16 § 130
-
 33
+
+[Tabell 41-1](handlingar.tabeller/41-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2017-06-20 § 163 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2021-10-19 § 278 |
+| Informationssäkerhet, riktlinjer | KS 2020-04-21 § 81 |
+| Flaggning | KS 2020-09-22 § 207 |
+| Personuppgifter; Regler för interna personuppgiftsbiträdesförhållanden | KS 2021-10-19 § 278 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
+
+[Tabell 41-2](handlingar.tabeller/41-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Annas led- för en trygg och säker demensvård i Halland | NÄO 2012-12-13 § 146 |
+| Delegeringsförteckning | NVO 2019-03-20 §24 |
+| Dokumenthanteringsplan | NVO 2020-06-17 § 51 |
+| Ledningssystem för systematiskt kvalitetsarbete | NVO 2017-12-13 § 151 |
+| Lokalbehov 2025-2029, utblicksår 2030-2034 | NVO 2020-09-21 |
+| Nämndbudget 2023 | NVO 2022-09-21 § 90 |
+| Investeringsplan 2024-2033 | NVO 2023-02-16 § 12 |
+| Intern kontrollplan 2020 | NVO 2019-11-13 § 124 |
+| Förfrågningsunderlag LOV | NVO 2018-04-18 §43 |
+| Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i<br>Kungsbacka kommun | NVO 2018-09-19 §78 |
+| Tillägg till ledningssystem för systematiskt kvalitetsarbete | NVO 2020-04-15 § 19 |
+| Arkivbeskrivning 2022 | NVO 2022-05-11 § 52 |
+| Intern kontrollplan 2023 | NVO 2023-02-16 § 10 |
+| Klassificeringsstruktur | NVO 2022-11-16 § 130 |
+| Informationshanteringsplan | NVO 2022-11-16 § 130 |
 
 <!-- sida 42 -->
 
@@ -4494,8 +4391,6 @@ Kungsbacka
 
 QQ
 
-Nytta och effekt
-
 Ett konkret
 problem värt
 att lösa
@@ -4503,6 +4398,8 @@ att lösa
 En validerad En realiserad
 lösning värd lösning värd
 att realisera att sprida
+
+Nytta och effekt
 
 <!-- sida 110 -->
 
@@ -4743,31 +4640,31 @@ BILAGA 1 - FÖRORDNANDEN .......................................................
 DELEGERINGSFÖRTECKNING
 NÄMNDEN FÖR VÅRD & OMSORG
 
-till exempel brutit mot reglerna om jäv, korruption eller begått
 1\. Allmänt om  delegering
-någon form av tjänstefel.
-Utgångspunkten i kommunallagen är att den politiska nämnden I vissa typer av ärenden får inte nämnden delegera sin
-som ansvarar för en viss ärendetyp fattar alla beslut som rör den beslutanderätt till någon annan. Det handlar då särskilt om
-ärendetypen. Men nämnden har också möjlighet att överlåta ärenden som avser verksamhetens mål, inriktning, omfattning eller
-beslutanderätten åt anställda i kommunen. Ett sådant överlåtande kvalitet, eller yttranden till fullmäktige eller till domstol med
-kallas delegation och den som då får beslutanderätten kallas anledning av att ett beslut som ursprungligen tagits av nämnden
-delegat. Det finns inga formkrav på hur ett sådant överlåtande ska överklagats. Ett undantag från detta är att nämnden kan ge
-se ut men det är vanligt att samla dem i en förteckning för att det ordförande i uppdrag att fatta beslut i ärenden som är så
-ska gå att få en överblick.                           brådskande att nämndens avgörande inte kan inväntas. Den som
-innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+
+Utgångspunkten i kommunallagen är att den politiska nämnden
+som ansvarar för en viss ärendetyp fattar alla beslut som rör den
+
+ärendetypen. Men nämnden har också möjlighet att överlåta
+beslutanderätten åt anställda i kommunen. Ett sådant överlåtande
+kallas delegation och den som då får beslutanderätten kallas
+delegat. Det finns inga formkrav på hur ett sådant överlåtande ska
+se ut men det är vanligt att samla dem i en förteckning för att det
+ska gå att få en överblick.
 Kommunallagen skiljer på beslut och verkställighet. Beslut är
-kan fattas, så som för vanlig delegation.
 avgöranden mellan olika alternativ som kräver mer omfattande
-bedömningar och som har en inte obetydlig påverkan på den Här nedan följer först nämnden för Vård & Omsorgs egna
-verksamhet nämnden ansvarar för eller rör myndighetsutövning bestämmelser och vägledning för sin delegering, och sedan den
-mot enskilda. Verkställighet är det handlande som följer av ett förteckning över ärendetyper där nämnden har överlåtit sin
-beslut eller de förberedelser som sker inför ett beslut. beslutanderätt till någon annan. I bilaga 1 finns också en
-Verkställighet kan dock också innefatta mindre avgöranden, förteckning över nämndens förordnanden.
+bedömningar och som har en inte obetydlig påverkan på den
+
+verksamhet nämnden ansvarar för eller rör myndighetsutövning
+mot enskilda. Verkställighet är det handlande som följer av ett
+beslut eller de förberedelser som sker inför ett beslut.
+Verkställighet kan dock också innefatta mindre avgöranden,
 bedömningar och vägval inom ramen för ett bredare beslut, till
 exempel ett beslut om budget eller mål, och det är därför inte alltid
 självklart var gränsen mellan beslut och verkställighet går. Det
 måste avgöras från fall till fall.
 Bara beslut behöver delegeras från nämnden, medan
+
 verkställighet faller inom förvaltningens ansvar att hantera. När en
 nämnd delegerat sin beslutanderätt träder delegaten helt in i
 nämndens ställe och kan göra slutliga avgöranden i nämnden
@@ -4777,6 +4674,26 @@ inte delegera ifrån sig sitt ansvar för vissa frågor, utan nämnden är
 alltid ytterst ansvarig för det beslutsfattande som sker. Men
 tjänstepersoner som fattar beslut i nämndens namn kan
 fortfarande bli personligt ansvariga för de beslut som tagits om de
+
+till exempel brutit mot reglerna om jäv, korruption eller begått
+någon form av tjänstefel.
+
+I vissa typer av ärenden får inte nämnden delegera sin
+beslutanderätt till någon annan. Det handlar då särskilt om
+ärenden som avser verksamhetens mål, inriktning, omfattning eller
+kvalitet, eller yttranden till fullmäktige eller till domstol med
+anledning av att ett beslut som ursprungligen tagits av nämnden
+överklagats. Ett undantag från detta är att nämnden kan ge
+ordförande i uppdrag att fatta beslut i ärenden som är så
+brådskande att nämndens avgörande inte kan inväntas. Den som
+innehar ett sådant uppdrag är inte begränsad i vilka beslut som
+kan fattas, så som för vanlig delegation.
+
+Här nedan följer först nämnden för Vård & Omsorgs egna
+bestämmelser och vägledning för sin delegering, och sedan den
+förteckning över ärendetyper där nämnden har överlåtit sin
+beslutanderätt till någon annan. I bilaga 1 finns också en
+förteckning över nämndens förordnanden.
 
 2 (17)
 
@@ -4835,7 +4752,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 123-124-1](handlingar.tabeller/123-124-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.1.1 | 4 kap 1 §<br>socialtjänstlag | Särskilt boende | Biståndshandläggare |  |
 | 3.1.2 | 2a kap 8 § och<br>4 kap 1 §<br>socialtjänstlag | Särskilt boende för sökande från annan kommun | Biståndshandläggare |  |
@@ -4866,7 +4783,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 124-1](handlingar.tabeller/124-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.2.1 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – upp till 10 prisbasbelopp | Bostadsanpassningsbidrags-<br>handläggare |  |
 | 3.2.2 | 4-9 §§ lag om<br>bostadsanpassningsbidrag | Bostadsanpassningsbidrag – över 10 prisbasbelopp | Enhetschef Myndighet |  |
@@ -4877,7 +4794,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 124-125-2](handlingar.tabeller/124-125-2.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.3.1 | 8 kap 4-9 §§ | Fastställa avgift för enskild | Avgiftshandläggare | I enlighet med av Kommunfullmäktige antagna taxor. |
 |  | socialtjänstlag<br>17 kap 1, 8 §§<br>hälso- och<br>sjukvårdslag |  |  |  |
@@ -4895,7 +4812,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 125-126-1](handlingar.tabeller/125-126-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 3.4.1 | 36 §<br>förvaltningslag | Rättelse av uppenbar felaktighet i beslut till följd av skrivfel,<br>räknefel eller liknande förbiseende | Delegaten i<br>ursprungsbeslutet,<br>nämndsekreterare | Rättelsen ska kommuniceras till den som beslutet<br>berör men är i sig inte ett överklagningsbart beslut.<br>Nämndsekreterare rättar beslut fattade av nämnden i<br>sin helhet. Gäller inte beslut som är överklagbara<br>enligt 13 kap. kommunallag. |
 | 3.4.2 | 37-38 §§<br>förvaltningslag | Ändring av ett pågående gynnande beslut (omprövning) | Delegaten i<br>ursprungsbeslutet | Beslut som är gynnande för enskild får bara ändras<br>till den enskildes nackdel i vissa fall, se 37 § 2 st<br>förvaltningslag. |
@@ -4962,7 +4879,7 @@ Kommentar: Avrop på ramavtal eller mindre upphandling genom enklare förfarande
 
 [Tabell 129-130-1](handlingar.tabeller/129-130-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 4.1 | Attestreglemente,<br>Tillämpnings-<br>anvisningar för<br>attestreglementet | Utse beslutsattestanter och ersättare för nämndens<br>verksamheter, och besluta om beloppsgränser eller<br>begränsad attesträtt. | Förvaltningschef,<br>ekonomi- och<br>kvalitetschef | Attesträtt innebär rätt att besluta om att godkänna<br>kostnader inom ett verksamhetsområde.<br>Följsamheten av attestreglementet ska årligen<br>kontrolleras, i enlighet med Tillämpningsanvisningar för<br>attestreglementet och av nämnden fastställd kontrollplan.<br>Resultatet av kontrollen ska redovisas till nämnden. |
 | 4.2 |  | Inhyrning, uthyrning och uppsägning av fastigheter, lokaler<br>och lägenheter | Förvaltningschef,<br>verksamhetschef |  |
@@ -4999,7 +4916,7 @@ Kommentar: Kommunstyrelsens förvaltning har i Regler kring delegering tagit fra
 
 [Tabell 131-132-1](handlingar.tabeller/131-132-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 |  |  | Anställa |  |  |
 | 5.1 | 4 § lag om<br>anställningsskydd<br>(LAS), 3-5 §§ Allmänna<br>bestämmelser,<br>lönepolicy | Chefer direkt underställda förvaltningschefen -<br>tillsvidareanställning och tidsbegränsade anställningar<br>längre än 6 månader. | Förvaltningschef | Tidsbegränsad anställning kortare än 6 månader är<br>verkställighet.<br>Innefattar lönesättning och samtliga övriga<br>anställningsvillkor enligt Kungsbackas lönestruktur. |
@@ -5032,7 +4949,7 @@ NÄMNDEN FÖR VÅRD & OMSORG
 
 [Tabell 133-134-1](handlingar.tabeller/133-134-1.csv)
 
-| Nr Lagrum/stöd Delegeringens omfattning Delegerat till Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Delegeringens omfattning | Delegerat till | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 6.1 | Artikel 37<br>Dataskydds-<br>förordningen (GDPR) | Utse dataskyddsombud för nämnden | Förvaltningschef | Beslutet ska anmälas till Integritetsskyddsmyndigheten<br>(IMY). |
 | 6.2 | Artikel 12.5<br>Dataskydds-<br>förordningen (GDPR) | Avslå begäran från enskild om åtgärd enligt artikel 15-22 i<br>dataskyddsförordningen, på grund av att begäran är<br>uppenbart ogrundad eller orimlig. | Förvaltningschef | Avslagsbeslut som rör åtgärd enligt artikel 15-21 kan<br>överklagas till förvaltningsdomstol |
@@ -5071,7 +4988,7 @@ Vid frånvaro så har tillförordnad samma uppdrag som ordinarie förordnad.
 
 [Tabell 135-1](handlingar.tabeller/135-1.csv)
 
-| Nr Lagrum/stöd Uppdragets omfattning Förordnad Anmärkning/villkor |  |  |  |  |
+| Nr | Lagrum/stöd | Uppdragets omfattning | Förordnad | Anmärkning/villkor |
 | --- | --- | --- | --- | --- |
 | 1-1 | 6 kap 39 § kommunallagen | Fatta beslut i nämndens ställe i ärenden som är<br>brådskande att nämndens avgörande inte kan avvaktas | Ordförande | Vid ordförandes förfall har vice<br>ordförande beslutanderätt. Vid vice<br>ordförandes förfall har andre vice<br>ordförande beslutanderätt. Vid andre<br>vice ordförandes förfall så övergår<br>beslutsrätten till ledamot i nämnden<br>som företräder samma parti som<br>ordförande, i den ordning som de<br>upptagits i Kommunfullmäktiges<br>protokoll vid inval till nämnden.<br>Beslutet ska anmälas vid nämndens<br>nästkommande sammanträde enligt 6<br>kap 40 § kommunallagen. |
 | 1-2 | 4 kap 2 § hälso- och<br>sjukvårdslagen | Uppdrag som verksamhetschef för den kommunala hälso-<br>och sjukvården | Verksamhetschef för distrikt<br>Söder |  |

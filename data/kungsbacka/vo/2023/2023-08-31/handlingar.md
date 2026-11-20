@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240416221149id_/https://kungsbacka.se/d
 sha256: 13a2eceb0161ff30e9236e909cefa92a37daab588e53d89b01efe83eead9bcb8
 bytes: 1034990
 sidor: 6
-hamtad: 2026-10-20T09:27:36+00:00
-konverterad: 2026-10-20T09:28:04+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-20T23:00:50+00:00
+konverterad: 2026-11-20T23:00:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr]
@@ -293,7 +293,5 @@ verksamhet samt hemtjänstgrupper att ansöka om intraprenadstart.
 
 Ke mmunfullmäktigeledamöter C) FF ()
 
-) HN) - /) - / Föga | ÅA =
 \- AV 16 Vern KA CL CA YES ESS -
 in Skorit (S)/Shabnam Zåmani (S), Johan Tolinsson (S), Maj-Britt Rane Andersson (S)
-— / i [4
