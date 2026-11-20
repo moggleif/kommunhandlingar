@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4590b12c19749b756fc7d0c8/1749542945
 sha256: a8b5b78ee1a6a9996d6f126fdbb585fe05a2dfd51316c54dffc6dde2a17b7d3e
 bytes: 502685
 sidor: 7
-hamtad: 2026-11-13T17:40:33+00:00
-konverterad: 2026-11-13T17:40:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:41:11+00:00
+konverterad: 2026-11-20T11:41:17+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
@@ -102,7 +102,7 @@ restidskvoterna. Till de västligare målpunkterna syns större skillnader i res
 
 [Tabell 3-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-bilaga-5-analys-potential-direktbuss.tabeller/3-1.csv)
 
-| Från Onsala Kyrka till: Kvot, lägsta restid bil Kvot, högsta restid bil Kvot, medelrestid bil |  |  |  |
+| Från Onsala Kyrka till: | Kvot, lägsta restid bil | Kvot, högsta restid bil | Kvot, medelrestid bil |
 | --- | --- | --- | --- |
 | Nordstan | 1.9 | 1.1 | 1.4 |
 | Lindholmen | 2.0 | 1.2 | 1.5 |
@@ -118,7 +118,7 @@ restidskvoterna. Till de västligare målpunkterna syns större skillnader i res
 
 [Tabell 3-2](handlingar-utredning-av-onsalamotet-avs-onsalamotet-bilaga-5-analys-potential-direktbuss.tabeller/3-2.csv)
 
-| Från Vallda Trekant till: Kvot, lägsta restid bil Kvot, högsta restid bil Kvot, medelrestid bil |  |  |  |
+| Från Vallda Trekant till: | Kvot, lägsta restid bil | Kvot, högsta restid bil | Kvot, medelrestid bil |
 | --- | --- | --- | --- |
 | Nordstan | 1.8 | 1.2 | 1.4 |
 | Lindholmen | 2.4 | 1.7 | 2.0 |
@@ -204,7 +204,7 @@ Tabell 3 Linjebeskrivning justerade linjer dygnsscenario
 
 [Tabell 5-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-bilaga-5-analys-potential-direktbuss.tabeller/5-1.csv)
 
-| Linjenamn Turtäthet Antal avgångar under tidsperioden |  |  |
+| Linjenamn | Turtäthet | Antal avgångar under tidsperioden |
 | --- | --- | --- |
 | Blå ExNb | 23 min | 41 |
 | Blå ExNd | 5h 20 min | 3 |
@@ -239,7 +239,7 @@ kollektivtrafikresenärer som med den förlängda linjen får en bättre kopplin
 
 [Tabell 6-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-bilaga-5-analys-potential-direktbuss.tabeller/6-1.csv)
 
-| Linjenamn Turtäthet Antal avgångar under tidsperioden |  |  |
+| Linjenamn | Turtäthet | Antal avgångar under tidsperioden |
 | --- | --- | --- |
 | Blå ExNa | 60 min | 2 |
 | Blå ExNc | 20 min | 6 |

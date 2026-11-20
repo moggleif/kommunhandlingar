@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.9dd02d2184b91be42510343/16702454840
 sha256: 629d5249d7622ebb8fd97fc52ca413b403fa34f310200d07ffffce300d0a48c3
 bytes: 7097579
 sidor: 86
-hamtad: 2026-11-13T16:24:48+00:00
-konverterad: 2026-11-13T16:25:12+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:15:26+00:00
+konverterad: 2026-11-20T10:15:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok]
@@ -2432,10 +2432,10 @@ PROTOKOLL       GRUNDVATTENRÖR
 | Anmärkning |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 | Avläsningar |  |  |  | Funktionskontroll |  |  |  |
-| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive<br>stighastighet |  |  |  |
-| 2022-06-02 | 0,62 | +8,07 | ML |  |  |  |  |
-|  |  |  |  | Datum |  | Sjunk-<br>/Stighastighet.<br>Nivå m. u.ök. rör | Sign |
-|  |  |  |  |  |  |  |  |
+| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive |  |  |  |
+| 2022-06-02 | 0,62 | +8,07 | ML | stighastighet |  |  |  |
+|  |  |  |  |  |  | Sjunk- |  |
+|  |  |  |  | Datum |  | /Stighastighet.<br>Nivå m. u.ök. rör | Sign |
 |  |  |  |  | 2022-05-02 |  | ok | MK |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  | Anteckningar |  |  |  |
@@ -2474,10 +2474,10 @@ PROTOKOLL       GRUNDVATTENRÖR
 | Anmärkning |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 | Avläsningar |  |  |  | Funktionskontroll |  |  |  |
-| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive<br>stighastighet |  |  |  |
-| 2022-06-02 | 1,27 | +6,75 | ML |  |  |  |  |
-|  |  |  |  | Datum |  | Sjunk-<br>/Stighastighet.<br>Nivå m. u.ök. rör | Sign |
-|  |  |  |  |  |  |  |  |
+| Datum | Djup under<br>ÖK-rör. d= | Nivå GW | Sign | Påfyllning av vatten till överkant rör eller tömning<br>av rör och observation av sjunk- respektive |  |  |  |
+| 2022-06-02 | 1,27 | +6,75 | ML | stighastighet |  |  |  |
+|  |  |  |  |  |  | Sjunk- |  |
+|  |  |  |  | Datum |  | /Stighastighet.<br>Nivå m. u.ök. rör | Sign |
 |  |  |  |  | 2022-05-02 |  | bra | JS |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  | Anteckningar |  |  |  |
@@ -3196,6 +3196,7 @@ o
 
 10
 
+Sa
 11     L
 Med
 D
@@ -3207,7 +3208,7 @@ D jup (m )
 
 | saMu<br>Crust |  |  |
 | --- | --- | --- |
-| Cl<br>Sa | EL<br>vL<br>EL<br>vL<br>L<br>vL<br>Med<br>D<br>Med | NC |
+| Cl | EL<br>vL<br>EL<br>vL<br>L<br>vL<br>Med<br>D<br>Med | NC |
 |  |  | OC |
 |  |  | NC |
 |  |  | OC |

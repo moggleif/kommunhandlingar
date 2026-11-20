@@ -1,0 +1,7 @@
+Parametrar,Minsta möjliga dike,Antagen dikesutformning
+S0,0.002,0.002
+M,20,20
+K,1,1
+B (m),0,0
+H (m),0.3,0.5
+Q (m3/s),0.02,0.07

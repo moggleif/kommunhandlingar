@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2c51994a19907c76840df55/17568024135
 sha256: fd38b38f259b69649f2b8cd94d6eb73985f9e8271368bc8ecd599b07d60e9b4d
 bytes: 4333868
 sidor: 31
-hamtad: 2026-11-13T17:49:39+00:00
-konverterad: 2026-11-13T17:49:50+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:52:20+00:00
+konverterad: 2026-11-20T11:52:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -303,7 +303,7 @@ endast en smal trottoar om ungefär 1,0–1,5 meter. Eventuell breddning av äve
 
 [Tabell 11-1](handlingar-bostader-i-sodra-kungsbacka-stad-trafikutredning.tabeller/11-1.csv)
 
-| Olyckstyp Antal |  |
+| Olyckstyp | Antal |
 | --- | --- |
 | Måttliga olyckor | 2 |
 | Lindriga olyckor | 4 |

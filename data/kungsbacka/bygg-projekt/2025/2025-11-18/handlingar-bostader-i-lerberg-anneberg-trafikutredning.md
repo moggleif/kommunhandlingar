@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe4ea95/1763459721
 sha256: 03151e8b0f2114dfb8b382843d015aa1efe9f746f6dcd1d97971ca97046f1ba1
 bytes: 7240323
 sidor: 24
-hamtad: 2026-11-13T17:59:48+00:00
-konverterad: 2026-11-13T18:01:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T12:03:40+00:00
+konverterad: 2026-11-20T12:04:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tom, ok, ok, ok, tabell-osaker, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ocr, ocr, ok, ok, ok]
@@ -243,9 +243,8 @@ För bedömd trafik till bostäderna används Trafikverkets trafikalstringsverkt
 LPorkoajleisketnrainmgn
 Kommentarer
 
-Vilken kommun?      Kungsbacka
-Antal resor (totalt, exkl. nyttotrafik)
-Var i kommunen?     I mindre tätort i kommunen      Osäkerhet
+ka
+tort i kommunen           Osäkerhet
 Bästa skattning: 904 resor/dygn
 Andelen av resorna som är baserade på
 trafikalstringstal
@@ -317,13 +316,19 @@ Area [m2]                   18 900      420      300    120   -       19 740
 
 [Tabell 8-1](handlingar-bostader-i-lerberg-anneberg-trafikutredning.tabeller/8-1.csv)
 
+| Vilken kommun?<br>Antal resor (totalt, exkl. nyttotrafi<br>Var i kommunen? | Kungsbac |
+| --- | --- |
+|  | k)<br>I mindre tä |
+
+[Tabell 8-2](handlingar-bostader-i-lerberg-anneberg-trafikutredning.tabeller/8-2.csv)
+
 | Påverkansparametrarnas effekt på färdme | delsandeElxakrln. anyttotrafik | Inkl. nyttotrafik |
 | --- | --- | --- |
 | ANnetdaal nbsiltråeesnodr [er etasboer/ldl yvgisna]r påverkansparame | tr a r n a s e f f e k t p å r e s u l t a t e t . D 5e9tt0a | är i n r ä k n a t i s a m t l i g a r e s u6l8ta0tt |
 | Uppskattat ÅDT [fordon/dygn] | 440 | 500 |
 | Uppskattat ÅVDT [fordon/dygn] | B i l K o l l e k t i v t r a f i4k90 | C y k e l G å n g 560 |
 
-[Tabell 8-2](handlingar-bostader-i-lerberg-anneberg-trafikutredning.tabeller/8-2.csv)
+[Tabell 8-3](handlingar-bostader-i-lerberg-anneberg-trafikutredning.tabeller/8-3.csv)
 
 |  | Exkl. nyttotrafik | Inkl. nyttotrafik |
 | --- | --- | --- |

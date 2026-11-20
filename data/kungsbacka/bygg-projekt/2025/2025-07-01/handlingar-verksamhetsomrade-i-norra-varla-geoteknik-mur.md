@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.66aeefd7197a1f981dfd656f/1751355619
 sha256: e2c58c716e699a653755eb092800f97396cf9f5a98280e706c5fdfd11c8bb0e2
 bytes: 8511358
 sidor: 103
-hamtad: 2026-11-13T17:42:19+00:00
-konverterad: 2026-11-13T17:42:51+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:43:50+00:00
+konverterad: 2026-11-20T11:44:19+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok]
@@ -4728,12 +4728,12 @@ D jup (m )
 | --- | --- | --- | --- |
 |  |  |  |  |
 | Si<br>Cl |  | v L<br>L | OC |
-| Si<br>Cl<br>Si<br>Cl |  | v L<br>L | OC |
+| Si<br>Cl<br>Si |  | v L<br>L | OC |
 |  |  | vL |  |
 |  |  |  | NC |
 |  |  | L<br>v L |  |
-|  |  |  | NCSi<br>OC |
-| L<br>Si Med |  |  |  |
+|  |  |  | NCSi |
+| Cl L OC<br>Si Med |  |  |  |
 
 [Tabell 72-2](handlingar-verksamhetsomrade-i-norra-varla-geoteknik-mur.tabeller/72-2.csv)
 
@@ -4823,16 +4823,16 @@ D jup (m )
 
 [Tabell 73-1](handlingar-verksamhetsomrade-i-norra-varla-geoteknik-mur.tabeller/73-1.csv)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| Si<br>Cl |  | v L<br>L | OC |
-| Si<br>Cl<br>Si<br>Cl |  | v L<br>L | OC |
-|  |  | vL |  |
-|  |  |  | NC |
-|  |  | L<br>v L |  |
-|  |  |  | NCSi<br>OC |
-| L<br>Si Med |  |  |  |
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Si<br>Cl |  |  | v L<br>L | OC |
+| Si<br>Cl<br>Si |  |  | v L<br>L | OC |
+|  |  |  | vL |  |
+|  |  |  |  | NC |
+|  |  |  | L<br>v L |  |
+|  |  |  |  | NCSi |
+| Cl L OC<br>Si Med |  |  |  |  |
 
 [Tabell 73-2](handlingar-verksamhetsomrade-i-norra-varla-geoteknik-mur.tabeller/73-2.csv)
 

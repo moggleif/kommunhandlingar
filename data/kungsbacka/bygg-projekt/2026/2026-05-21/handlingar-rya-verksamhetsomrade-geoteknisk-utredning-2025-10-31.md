@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f3776/17793637725
 sha256: 017361415c7c7d7e8f8f1e9e9d5fc3d1ff6ddc859783c208813722bd4fbcc381
 bytes: 3552574
 sidor: 55
-hamtad: 2026-11-15T09:13:38+00:00
-konverterad: 2026-11-15T09:14:06+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:56:59+00:00
+konverterad: 2026-11-20T12:57:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -55,7 +55,7 @@ www.norconsult.se
 
 [Tabell 1-1](handlingar-rya-verksamhetsomrade-geoteknisk-utredning-2025-10-31.tabeller/1-1.csv)
 
-| Revision Datum Beskrivning Upprättad av Granskad av Godkänd av |  |  |  |  |  |
+| Revision | Datum | Beskrivning | Upprättad av | Granskad av | Godkänd av |
 | --- | --- | --- | --- | --- | --- |
 | - | 2025-10-31 | PM Geoteknik | Hannes Hernvall | Johanna Medin | Katarina<br>Engerberg |
 |  |  |  |  |  |  |

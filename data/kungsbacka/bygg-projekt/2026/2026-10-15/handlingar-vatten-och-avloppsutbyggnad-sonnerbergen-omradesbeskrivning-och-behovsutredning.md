@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4ad251561a1303bcbb54cf4a/1792042860
 sha256: 477b3b8d35af487bb74f4d6d838e658934db3a387e8376be33594bfa143358f7
 bytes: 3133313
 sidor: 46
-hamtad: 2026-11-15T09:34:07+00:00
-konverterad: 2026-11-15T09:34:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T13:21:10+00:00
+konverterad: 2026-11-20T13:21:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, tom, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -738,13 +738,16 @@ VA-UTBYGGNADSOMRÅDE 216 SÖNNERBERGEN
 
 [Tabell 30-1](handlingar-vatten-och-avloppsutbyggnad-sonnerbergen-omradesbeskrivning-och-behovsutredning.tabeller/30-1.csv)
 
-| Större sammanhang | Poäng<br>i<br>modell | Motivering |
+| Större sammanhang | Poäng | Motivering |
 | --- | --- | --- |
+|  | i |  |
+|  | modell |  |
 | Kvittblivning |  |  |
 | Infiltrationskapacitet<br>Infiltration sker men den är<br>begränsad, permeabilitet<br>hos jordart varierar mellan<br>10-4-10-8 m/s. | 2 | Ca hälften av fastigheterna ligger på berg och hälften<br>på sand. Detta resulterar i att<br>infiltrationsmöjligheterna bedöms till begränsade, se<br>kapitel 2.6. |
 | Grundvattennivå | - | Parametern har viktats till 0 då tillförlitliga data<br>bedöms saknas, se kapitel 2.6. |
 | Avledning av dagvatten.<br>Flertalet fastigheter kan<br>avleda sitt dagvatten till<br>naturmark/recipient. | 2 | Ca 2/3 av fastigheterna kan ej avleda till naturmark.<br>Dessa avleder till gata eller grannfastigheter, se<br>kapitel 2.5. |
-| Bebyggelse<br>(markanvändning) |  |  |
+| Bebyggelse |  |  |
+| (markanvändning) |  |  |
 | Bebyggelsetryck<br>Lågt bebyggelsetryck<br>alternativt finns beslut att ej<br>godkänna fler bygglov. | 1 | Kommunen skall enligt ÖP tillämpa en<br>restriktiv hållning till kompletteringar av nya<br>bostadshus, se kapitel 3.1. |
 | Andel hårdgjord yta på<br>fastigheter i median (t.ex.<br>tak, asfalt, berg).<br>20–40% hårdgjord yta. | 2 | Ca 21% av fastigheternas yta utgörs av hårdgjord<br>yta. |
 | Storlek på fastigheter<br>(median).<br>500–1500 m2. | 2 | Median 1468 m2 |
@@ -807,8 +810,9 @@ VA-UTBYGGNADSOMRÅDE 216 SÖNNERBERGEN
 
 [Tabell 34-1](handlingar-vatten-och-avloppsutbyggnad-sonnerbergen-omradesbeskrivning-och-behovsutredning.tabeller/34-1.csv)
 
-| Större sammanhang | Poäng i<br>modell | Motivering |
+| Större sammanhang | Poäng i | Motivering |
 | --- | --- | --- |
+|  | modell |  |
 | Kvittblivning |  |  |
 | Infiltrationskapacitet<br>Marken är mestadels tät med en<br>permeabilitet >10-8 m/s eller består av<br>berg. | 3 | Merparten av bostadshusen ligger på<br>berg, se kapitel 2.6. |
 | Grundvattennivå | - | Parametern har viktats till 0 då<br>tillförlitliga data bedöms saknas, se<br>kapitel 2.6. |
@@ -864,13 +868,16 @@ VA-UTBYGGNADSOMRÅDE 216 SÖNNERBERGEN
 
 [Tabell 37-1](handlingar-vatten-och-avloppsutbyggnad-sonnerbergen-omradesbeskrivning-och-behovsutredning.tabeller/37-1.csv)
 
-| Större sammanhang | Poäng<br>i<br>modell | Motivering |
+| Större sammanhang | Poäng | Motivering |
 | --- | --- | --- |
+|  | i |  |
+|  | modell |  |
 | Kvittblivning |  |  |
 | Infiltrationskapacitet<br>Marken är mestadels tät<br>med en permeabilitet >10–8<br>m/s eller består av berg. | 3 | Merparten av husen ligger på berg. |
 | Grundvattennivå | - | Parametern har viktats till 0 då tillförlitliga data<br>bedöms saknas, se kapitel 2.6. |
 | Avledning av dagvatten<br>Inga eller ett fåtal kan<br>avleda sitt dagvatten till<br>naturmark/recipient. | 3 | Mycket få fastigheter kan avleda sitt dagvatten till<br>naturmark. Dagvattnet från fastigheter avleds till<br>gata eller grannfastigheter, se kapitel 2.5. |
-| Bebyggelse<br>(markanvändning) |  |  |
+| Bebyggelse |  |  |
+| (markanvändning) |  |  |
 | Bebyggelsetryck<br>Lågt bebyggelsetryck<br>alternativt finns beslut att ej<br>godkänna fler bygglov. | 1 | Kommunen skall enligt ÖP tillämpa en<br>restriktiv hållning till kompletteringar av nya<br>bostadshus, se kapitel 3.1. |
 | Andel hårdgjord yta på<br>fastigheter i median (t.ex.<br>tak, asfalt, berg).<br>20–40% hårdgjord yta. | 2 | Ca 21% av fastigheternas yta utgörs av hårdgjord<br>yta. |
 | Storlek på fastigheter<br>(median).<br>500–1500 m2. | 2 | Median 1369 m2 |
@@ -937,13 +944,16 @@ VA-UTBYGGNADSOMRÅDE 216 SÖNNERBERGEN
 
 [Tabell 41-1](handlingar-vatten-och-avloppsutbyggnad-sonnerbergen-omradesbeskrivning-och-behovsutredning.tabeller/41-1.csv)
 
-| Större sammanhang | Poäng<br>i<br>modell | Motivering |
+| Större sammanhang | Poäng | Motivering |
 | --- | --- | --- |
+|  | i |  |
+|  | modell |  |
 | Kvittblivning |  |  |
 | Infiltrationskapacitet<br>Marken är mestadels tät<br>med en permeabilitet >10–8<br>m/s eller består av berg. | 3 | Merparten av husen ligger på berg. |
 | Grundvattennivå | - | Parametern har viktats till 0 då tillförlitliga data<br>bedöms saknas, se kapitel 2.6. |
 | Avledning av dagvatten.<br>Inga eller ett fåtal kan<br>avleda sitt dagvatten till<br>naturmark/recipient. | 3 | Mycket få fastigheter kan avleda sitt dagvatten till<br>naturmark. Avleder till gata eller grannfastigheter, se<br>kapitel 2.5. |
-| Bebyggelse<br>(markanvändning) |  |  |
+| Bebyggelse |  |  |
+| (markanvändning) |  |  |
 | Bebyggelsetryck<br>Lågt bebyggelsetryck<br>alternativt finns beslut att ej<br>godkänna fler bygglov. | 1 | Kommunen skall enligt ÖP tillämpa en<br>restriktiv hållning till kompletteringar av nya<br>bostadshus, se kapitel 3.1. |
 | Andel hårdgjord yta på<br>fastigheter i median (t.ex.<br>tak, asfalt, berg).<br>20–40% hårdgjord yta. | 2 | Ca 24% av fastigheternas yta utgörs av hårdgjord<br>yta. |
 | Storlek på fastigheter<br>(median).<br>500–1500 m2. | 2 | Median 1294 m2 |

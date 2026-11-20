@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1cd7181219c04809751b5942/1770016311
 sha256: 0e2c0f75e54cf0e70bbce5e42ef67ae76292b6bd955853c5b65a1ecbbc762006
 bytes: 3194271
 sidor: 33
-hamtad: 2026-11-15T08:59:38+00:00
-konverterad: 2026-11-15T08:59:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:39:52+00:00
+konverterad: 2026-11-20T12:40:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
@@ -745,11 +745,13 @@ ii
 
 [Tabell 27-1](handlingar-bostader-i-sarogarden-trafikutredning.tabeller/27-1.csv)
 
-| Projektnamn<br>Projektnamn Bukärr kopia |  |
+| Projektnamn |  |
 | --- | --- |
+| Projektnamn | Bukärr kopia |
 | Egna<br>kommentarer |  |
 | Senast ändrad | 2023-03-14 09:46 |
-| Verktyget<br>Version 1.0 |  |
+| Verktyget |  |
+| Version | 1.0 |
 
 <!-- sida 28 -->
 
@@ -791,8 +793,9 @@ iii
 
 [Tabell 28-1](handlingar-bostader-i-sarogarden-trafikutredning.tabeller/28-1.csv)
 
-| Antal resor / dygn (exkl. nyttotrafik) fördelat per markanvändning | Bil | Kollektivtrafik | Cykel | Till fots | Annat | Totalt |
+| Antal resor / dygn (exkl. nyttotrafik) fördelat per markanvändning |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | Bil | Kollektivtrafik | Cykel | Till fots | Annat | Totalt |
 | Lägenhet | 33 | 12 | 2 | 16 | 2 | 65 |
 | Totalt | 33 | 12 | 2 | 16 | 2 | 65 |
 
@@ -818,14 +821,18 @@ iv
 
 [Tabell 29-2](handlingar-bostader-i-sarogarden-trafikutredning.tabeller/29-2.csv)
 
-| Lokalisering<br>Kommun Kungsbacka |  |
+| Lokalisering |  |
 | --- | --- |
+| Kommun | Kungsbacka |
 | Var i kommunen | I mindre tätort i kommunen |
-| Markanvändning<br>Lägenhet 13 bostadsenheter<br>23 boende (automatiskt värde) |  |
-| Svar på frågor om Kollektivtrafik<br>Turtäthet under 10-15-minuterstrafik<br>högtrafik i<br>området<br>(sammanlagt för<br>alla linjer) |  |
+| Markanvändning |  |
+| Lägenhet | 13 bostadsenheter<br>23 boende (automatiskt värde) |
+| Svar på frågor om Kollektivtrafik |  |
+| Turtäthet under<br>högtrafik i<br>området<br>(sammanlagt för<br>alla linjer) | 10-15-minuterstrafik |
 | Avstånd till<br>hållplats<br>(genomsnitt i<br>området) | 600-1000 m |
 | Prioriteras<br>kollektivtrafiken i<br>kommunens<br>planering? | Kollektivtrafiken är en viktig faktor vid planering av t ex nya bostadsområden. |
 | Svar på frågor om Gång |  |
+|  |  |
 
 <!-- sida 30 -->
 
@@ -841,7 +848,8 @@ v
 | Hur stor andel av<br>korsningspunkterna<br>mellan kommunens<br>gångpassager och<br>biltrafikens huvudnät är<br>hastighetssäkrade till 30<br>km/h? (85-percentil) |  | Mindre än 25 % |
 | Är gångtrafik prioriterat<br>vid drift och underhåll (t<br>ex snöröjning)? |  | Gångtrafiknätet underhålls samtidigt med biltrafiken. |
 | Följer kommunen upp<br>mängden gångtrafik (t ex<br>genom<br>fotgängarräkningar eller<br>resvaneundersökningar)? |  | Ingen uppföljning har genomförs. |
-| Svar på frågor om Cykel<br>Avstånd till lokalt Mindre än 1 km<br>centrum<br>(genomsnitt i<br>området) |  |  |
+| Svar på frågor om Cykel |  |  |
+| Avstånd till lokalt<br>centrum<br>(genomsnitt i<br>området) | Mindre än 1 km |  |
 | Höjdskillnader vid<br>färd till lokalt<br>centrum | Lite uppför/nerför men inga kraftiga lutningar. |  |
 | Hur stor del av<br>tätorten täcks av<br>cykelvägnät | Cykelvägnätet har relativt stora brister och är inte sammanhängande. |  |
 
@@ -854,7 +862,8 @@ vi
 | (cykelväg.<br>cykelbana.<br>cykelfält eller 30<br>km/h-gator)? |  |  |
 | --- | --- | --- |
 | Hur stor andel av<br>kosningspunkterna<br>mellan<br>kommunens<br>cykelvägnät och<br>biltrafikens<br>huvudnät är<br>hastighetssäkrade<br>till 30 km/h? (85-<br>percentil) |  | Mindre än 25 % |
-| Svar på frågor om Bil<br>Hur planeras Kommunens parkeringspolicy tillämpas.<br>tillgången till<br>bilparkering vid<br>bostäder i<br>området? |  |  |
+| Svar på frågor om Bil |  |  |
+| Hur planeras<br>tillgången till<br>bilparkering vid<br>bostäder i<br>området? | Kommunens parkeringspolicy tillämpas. |  |
 | Hur planeras<br>tillgången till<br>bilparkering vid<br>arbetsplatser i<br>området? | Områdets arbetsplatser får parkeringsplatser högre än gällande p-norm<br>(minimivärde). |  |
 | Hur prioriterat är<br>bilvägnätet i<br>tätorten? | Biltrafiken har samma prioritet som kollektivtrafik. cykel och gång. |  |
 | Generell<br>parkeringstillgång<br>i tätorten. | Det är generellt ont om lediga p-platser. |  |
@@ -866,8 +875,9 @@ vii
 
 [Tabell 32-1](handlingar-bostader-i-sarogarden-trafikutredning.tabeller/32-1.csv)
 
-| Svar på frågor om Mobility Management<br>Arbetar kommunen med mobility management dvs. mjuka Ja<br>åtgärder för att ändra resbeteende? |  |
+| Svar på frågor om Mobility Management |  |
 | --- | --- |
+| Arbetar kommunen med mobility management dvs. mjuka<br>åtgärder för att ändra resbeteende? | Ja |
 | Grön resplan/mobilitetsplan | Kommunen arbetar inte med<br>åtgärden |
 | Kampanjer för mer miljövänligt resande | Kommunen arbetar systematiskt<br>med åtgärden |
 | Samlad reseinformation för flera färdsätt | Kommunen arbetar inte med<br>åtgärden |

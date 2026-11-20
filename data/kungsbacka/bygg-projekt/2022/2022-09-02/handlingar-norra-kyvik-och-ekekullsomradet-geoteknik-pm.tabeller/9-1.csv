@@ -1,0 +1,13 @@
+Sektion,Säkerhetsfaktor,Erfordrad säkerhet
+Sektion A befintligt,"Fc = 7,16","Fc ≥1,7"
+,"Fkomb = 3,15","Fkomb ≥1,5"
+Sektion A 20 kPa marklast,"Fc = 2,75","Fc ≥1,7"
+,"Fkomb = 1,71","Fkomb ≥1,5"
+Sektion B befintligt,"Fc = 3,54","Fc ≥1,7"
+,"Fkomb = 2,51","Fkomb ≥1,5"
+Sektion B 20 kPa marklast,"Fc = 1,95","Fc ≥1,7"
+,"Fkomb = 1,54","Fkomb ≥1,5"
+Sektion C befintligt,"Fc = 3,17","Fc ≥1,7"
+,"Fkomb = 2,53","Fkomb ≥1,5"
+Sektion C 20 kPa marklast,"Fc = 1,74","Fc ≥1,7"
+,"Fkomb = 1,58","Fkomb ≥1,5"

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1cb70a/177186215373
 sha256: 30a01d80310d3392678db9edeb22c421187d6aafb3114a3907528bb4b701b507
 bytes: 255443
 sidor: 2
-hamtad: 2026-11-15T09:04:34+00:00
-konverterad: 2026-11-15T09:04:35+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:45:28+00:00
+konverterad: 2026-11-20T12:45:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok]
@@ -70,12 +70,6 @@ Resultat
 I tabell 1 nedan redovisas de uppmätta halterna av radon i mätpunkterna.
 
 Tabell 1. Uppmätta halter i mätpunkter inom aktuellt undersökningsområde.
-Mätpunkt    Radon halt kBq/m3
-R1              0
-R2              0
-R3              0
-R4              0
-R5              0
 
 Halterna i mätpunkterna kan jämföras med halter för klassificering av markområden enligt
 tabell 2.
@@ -84,9 +78,23 @@ låga halter radongaser och täta jordlager vilket är relativt vanligt vid stö
 med lös lera.
 
 Tabell 2. Klassificering av radonmark.
-Klasser        Radon halt kBq/m3
-Lågradonmark          <10
-Medelradonmark        10-50
-Högradonmark           >50
 
 Enligt utförda mätningar klassas marken som lågradonmark.
+
+[Tabell 2-1](handlingar-seniorbostader-vid-bukarrsvagen-radonmatning.tabeller/2-1.csv)
+
+| Mätpunkt | Radon halt kBq/m3 |
+| --- | --- |
+| R1 0 |  |
+| R2 0 |  |
+| R3 0 |  |
+| R4 0 |  |
+| R5 0 |  |
+
+[Tabell 2-2](handlingar-seniorbostader-vid-bukarrsvagen-radonmatning.tabeller/2-2.csv)
+
+| Klasser | Radon halt kBq/m3 |
+| --- | --- |
+| Lågradonmark <10 |  |
+| Medelradonmark 10-50 |  |
+| Högradonmark >50 |  |

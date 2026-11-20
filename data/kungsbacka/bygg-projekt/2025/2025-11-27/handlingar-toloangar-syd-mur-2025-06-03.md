@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed2cf4/1764238388
 sha256: 363bf96079f8bee90ee8e8bda2ddf2d081d9696f349059b1d10038a823de0ae9
 bytes: 2766625
 sidor: 104
-hamtad: 2026-11-15T08:44:22+00:00
-konverterad: 2026-11-15T08:45:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T12:22:07+00:00
+konverterad: 2026-11-20T12:23:00+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr]
@@ -2539,9 +2539,9 @@ D jup (m )
 
 [Tabell 36-1](handlingar-toloangar-syd-mur-2025-06-03.tabeller/36-1.csv)
 
-|  |  |  |  |  |
+| Si |  |  | v L |  |
 | --- | --- | --- | --- | --- |
-| Si<br>Cl<br>Si |  |  | v L<br>L<br>vL | OC<br>NC |
+| Cl<br>Si |  |  | L<br>vL | OC<br>NC |
 |  |  |  | L |  |
 |  |  |  |  | OC |
 | Cl |  |  |  | OC<br>NOCC |

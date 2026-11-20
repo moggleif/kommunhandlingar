@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b2249b/1712047847
 sha256: ee4f7d1bb4805949fe70ab5dda4cdb05e6b79cfc6316dd2603ed93280b3ead81
 bytes: 3934281
 sidor: 57
-hamtad: 2026-11-13T16:49:47+00:00
-konverterad: 2026-11-13T16:50:06+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T10:43:35+00:00
+konverterad: 2026-11-20T10:43:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
@@ -1533,15 +1533,17 @@ bergs centrum, Kungsbacka kommun
 
 [Tabell 34-1](handlingar-anneberg-centrum-miljoutredning.tabeller/34-1.csv)
 
-|  | Årsmedelvärde<br>(µg/m3) | Dygnsmedelvärde<br>(µg/m3) | Timmedelvärde<br>(µg/m3) |
+|  | Årsmedelvärde | Dygnsmedelvärde | Timmedelvärde |
 | --- | --- | --- | --- |
+|  | (µg/m3) | (µg/m3) | (µg/m3) |
 | MKN Kvävedioxid | 40 | 60\* | 90\* |
 | MKN Partiklar (PM10) | 40 | 50\*\* | - |
 
 [Tabell 34-2](handlingar-anneberg-centrum-miljoutredning.tabeller/34-2.csv)
 
-|  | Årsmedelvärde<br>(µg/m3) | Dygnsmedelvärde<br>(µg/m3) | Timmedelvärde<br>(µg/m3) |
+|  | Årsmedelvärde | Dygnsmedelvärde | Timmedelvärde |
 | --- | --- | --- | --- |
+|  | (µg/m3) | (µg/m3) | (µg/m3) |
 | Kvävedioxid | 20 | -- | 60\* |
 | Partiklar (PM10) | 20 | 35\*\* | -- |
 

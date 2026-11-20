@@ -1,12 +1,11 @@
-"GRUNDVATTENANALYSER
-LÖSTA METALLER",Klassindelning enligt bedömningsgrunder SGU 1),,,,,,,,,,"2)C
-crit GW"
-,Datum,2021-05-06,2021-05-06,2021-05-06,2021-05-06,"1
+GRUNDVATTENANALYSER,Klassindelning enligt bedömningsgrunder SGU 1),,,,,,,,,,
+LÖSTA METALLER,Datum,2021-05-06,2021-05-06,2021-05-06,2021-05-06,"1
 Mycket låg halt","2
 Låg halt","3
 Måttlig halt","4
 Hög halt","5
-Mycket hög halt",
+Mycket hög halt","2)C
+crit GW"
 ,Provpunkt,21GS09,21GS14,21GS22,21GS24,,,,,,
 "Arsenik, As",µg/l,"3,6","1,36","3,25","<1,0",<1,1-2,2-5,5-10,≥10,5
 "Barium, Ba",µg/l,"5,5","10,9",15,"12,6",--,--,--,--,--,350

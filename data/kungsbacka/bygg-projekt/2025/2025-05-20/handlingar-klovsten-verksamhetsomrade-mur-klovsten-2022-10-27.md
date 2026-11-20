@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce8f/1747745788
 sha256: 6c2a054596e916f918547acd4c3b966767ace6bf776e8c20b213603179b72f5c
 bytes: 16912640
 sidor: 50
-hamtad: 2026-11-13T17:33:24+00:00
-konverterad: 2026-11-13T17:35:24+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:34:25+00:00
+konverterad: 2026-11-20T11:36:12+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 45]
-figurer: [1, 2, 4, 9, 10, 26, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+figurer: [1, 4, 9, 10, 26, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
 tolkade: []
 granskad: null
 ---
@@ -50,16 +50,21 @@ Uppdragsledare:      Daniel Strandberg
 
 Handläggare:         Elham Sokhango
 
-2      2022-10-27 Revidering enligt markeringar D Strandberg K. Engerberg K. Engerberg
-1,0    2018-10-12                    Elham     Mylena   Daniel
-Sokhango  Anderberg Strandberg
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål.
 
 n:\105\32\1053234\5 arbetsmaterial\01 dokument\g\mur\mur klovstenrev20221027.docx 2022-10-28 | 2(8)
+
+[Tabell 2-1](handlingar-klovsten-verksamhetsomrade-mur-klovsten-2022-10-27.tabeller/2-1.csv)
+
+| 2 | 2022-10-27 | Revidering enligt markeringar | D Strandberg | K. Engerberg | K. Engerberg |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 1,0 | 2018-10-12 |  | Elham | Mylena | Daniel |
+|  |  |  | Sokhango | Anderberg | Strandberg |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

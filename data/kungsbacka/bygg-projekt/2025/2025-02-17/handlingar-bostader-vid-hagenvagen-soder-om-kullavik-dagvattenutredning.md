@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4a9fcfaa1950506f0265e710/1739782574
 sha256: 3905f1deac62b0c1120324392f930ac5a1fc2615222ae6ebaf2e360e712105eb
 bytes: 1893542
 sidor: 32
-hamtad: 2026-11-13T17:08:34+00:00
-konverterad: 2026-11-13T17:08:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:03:13+00:00
+konverterad: 2026-11-20T11:03:22+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -438,7 +438,8 @@ D okumentreferens \\\sweco.se\SE\GOT01\PROJEKT\21331\30066310_Släps-Hagen_dagva
 |  | Hydromorfologiska | Konnektivitet | Dålig |
 |  |  | Hydrografiska villkor | Otillfredsställande |
 |  |  | Morfologiskt tillstånd | God |
-| Kemisk status |  | Prioriterade ämnen | Uppnår ej god<br>(Kvicksilver och PBDE) |
+| Kemisk status |  | Prioriterade ämnen | Uppnår ej god |
+|  |  |  | (Kvicksilver och PBDE) |
 
 <!-- sida 15 -->
 

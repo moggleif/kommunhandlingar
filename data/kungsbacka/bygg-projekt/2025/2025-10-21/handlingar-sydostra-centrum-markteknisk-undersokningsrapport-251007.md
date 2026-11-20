@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2abf7c7e199f750dcc6445a1/1761034526
 sha256: d068c4985f3c0235d19f8d86162ed8cdd4cf2cc9b570d0c81213d907ca9844b3
 bytes: 4457841
 sidor: 73
-hamtad: 2026-11-13T17:55:11+00:00
-konverterad: 2026-11-13T17:55:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:58:08+00:00
+konverterad: 2026-11-20T11:58:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -50,18 +50,29 @@ Handläggare:        Elham Sokhango
 
 Sydöstra centrum Etapp 1, Kungsbacka 107 47 61 Markteknisk undersökningsrapport (MUR/Geo)
 
-2.0   2025-10-07 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.1   2023-02-10 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.0   2021-10-11 Färdig handling        Elham    Bernhard Bernhard
-Sokhango Gervide-Eckel Gervide-Eckel
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+2.0
+
+1.1
+
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\107\47\1074761\5 arbetsmaterial\01 dokument\g\mur\mur_sydöstracentrum.docx 2025-10-07 | Sida 2 av 8
+
+[Tabell 2-1](handlingar-sydostra-centrum-markteknisk-undersokningsrapport-251007.tabeller/2-1.csv)
+
+| 2025-10-07 | Reviderad handling | Elham | Katarina | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2023-02-10 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-10-11 | Färdig handling | Elham | Bernhard | Bernhard |
+|  |  | Sokhango | Gervide-Eckel | Gervide-Eckel |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -187,7 +198,8 @@ n:\107\47\1074761\5 arbetsmaterial\01 dokument\g\mur\mur_sydöstracentrum.docx 2
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997–2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475–1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475–1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 <!-- sida 6 -->
@@ -217,7 +229,8 @@ n:\107\47\1074761\5 arbetsmaterial\01 dokument\g\mur\mur_sydöstracentrum.docx 2
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| Klassificering | SS-EN ISO 14688–1:2002 & SS-EN ISO<br>14688–2:2004 samt BFR T21:1982 |
+| Klassificering | SS-EN ISO 14688–1:2002 & SS-EN ISO |
+|  | 14688–2:2004 samt BFR T21:1982 |
 | Vattenkvot | SS 027116, utgåva 3 |
 | Konflytgräns | SS 027120, utgåva 2 |
 | Skrymdensitet | SIS-CEN ISO/TS 17892–2:2005 |

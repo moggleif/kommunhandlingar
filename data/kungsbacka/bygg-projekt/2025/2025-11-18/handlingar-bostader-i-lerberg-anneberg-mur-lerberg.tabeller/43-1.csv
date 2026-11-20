@@ -11,8 +11,8 @@ A
 Centrum filter",,,Nivå markyta,,=,"+16,12"
 ,,,Toppnivå (ök rör),,=,"+17,32"
 ,,,Filternivå,,=,"+9,15"
-,,,"Total rörlängd till
-centrum filter",,A=,"8,17"
+,,,Total rörlängd till,,,
+,,,centrum filter,,A=,"8,17"
 ,,,Rörlängd ovan mark,,B=,"1,20"
 ,,,Spetstillverkare,,,Geotech
 ,,,Spetsmaterial,,,Plast

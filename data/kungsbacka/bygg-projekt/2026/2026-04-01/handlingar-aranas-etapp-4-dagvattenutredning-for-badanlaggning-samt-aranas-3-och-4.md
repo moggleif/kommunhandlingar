@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6afde4c819d24edced5cffc9/1775045205
 sha256: cbd2802cb57010025720f2e1b3101908442e82e441a246d456251cb2358e5cbe
 bytes: 5775830
 sidor: 76
-hamtad: 2026-11-15T09:08:38+00:00
-konverterad: 2026-11-15T09:09:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T12:50:13+00:00
+konverterad: 2026-11-20T12:50:52+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ej-konverterad]
@@ -2440,7 +2440,7 @@ d v
 
 [Tabell 25-1](handlingar-aranas-etapp-4-dagvattenutredning-for-badanlaggning-samt-aranas-3-och-4.tabeller/25-1.csv)
 
-| Ämne/parameter Enhet |  | Parkmark | Parkerings-<br>yta | Riktvärden Göteborgs<br>stad miljöförvaltningen |
+| Ämne/parameter | Enhet | Parkmark | Parkerings-<br>yta | Riktvärden Göteborgs<br>stad miljöförvaltningen |
 | --- | --- | --- | --- | --- |
 | Arsenik, As | µg/l | 4 | 2 | 15 |
 | Krom, Cr | µg/l | 3 | 15 | 15 |
@@ -4209,7 +4209,7 @@ d v
 
 [Tabell 43-1](handlingar-aranas-etapp-4-dagvattenutredning-for-badanlaggning-samt-aranas-3-och-4.tabeller/43-1.csv)
 
-| Ämne/parameter Enhet |  | Reningseffekt raingarden |
+| Ämne/parameter | Enhet | Reningseffekt raingarden |
 | --- | --- | --- |
 | Arsenik, As | µg/l | 80% |
 | Krom, Cr | µg/l | 25% |

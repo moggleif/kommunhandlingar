@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e63923234955da/1780902628
 sha256: 6984c6c46cccd2632655e435563f356be915238e14c6fc014181bce12094dcfe
 bytes: 2262490
 sidor: 26
-hamtad: 2026-11-15T09:25:39+00:00
-konverterad: 2026-11-15T09:25:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T13:11:31+00:00
+konverterad: 2026-11-20T13:11:39+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -463,9 +463,7 @@ Norconsult, 2020-05-07.
 1-001.dwg erhållen av Sweco 2024-02-27.
 
 Tabell 1 Digitalt underlag för modellering av befintlig och framtida situation.
-Filnamn     Filtyp Beskrivning och källa       Underlaget Erhållet
-beskriver i
-modellen
+Filnamn                                                Erhållet
 
 Sweco | Skyfallsmodellering Detaljplan Nötegången 2:207,
 Kungsbacka kommun
@@ -473,7 +471,14 @@ Uppdragsnummer 30044464
 Datum 2024-03-13 Ver 001, Granskningshandling
 D okumentreferens Rapport_Skyfallsmodell DP Nötegången 2_207_Sluthandling_240313 17/26
 
-[Tabell 17-18-1](handlingar-bostader-i-notegang-rapport-skyfallsmodell-2024.tabeller/17-18-1.csv)
+[Tabell 17-1](handlingar-bostader-i-notegang-rapport-skyfallsmodell-2024.tabeller/17-1.csv)
+
+| Filtyp | Beskrivning och källa | Underlaget |
+| --- | --- | --- |
+|  |  | beskriver i |
+|  |  | modellen |
+
+[Tabell 17-18-2](handlingar-bostader-i-notegang-rapport-skyfallsmodell-2024.tabeller/17-18-2.csv)
 
 | Modell: Befintlig/ framtida situation |  |  |  |  |
 | --- | --- | --- | --- | --- |

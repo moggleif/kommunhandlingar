@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.66aeefd7197a1f981dfd7096/1751357430
 sha256: 36f86200d503d2fb4c9d336f878cab434e8f7c4e9cba7b8ce6c620df92bb30ea
 bytes: 5540153
 sidor: 96
-hamtad: 2026-11-13T17:44:20+00:00
-konverterad: 2026-11-13T17:45:08+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:45:48+00:00
+konverterad: 2026-11-20T11:46:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1115,8 +1115,8 @@ Provtagningsdatum 2021-02-01/2021-02-02/2021-02-03
 
 | ASFALT | Enhet | 21GS05 | 21GS09 | 21GS15 | 21GS19 | 21GS22 | 21GS25 | 21GS28 | FA1) | Fri använd,<br>trafik proj,2) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| PAH, summa L | mg/kg TS | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | 1000 | <70 |
-| PAH, summa M | mg/kg TS | 1,15 | <1,25 | <1,25 | <1,25 | <1,25 | 1,82 | <1,25 | 1000 |  |
+| PAH, summa L | mg/kg TS | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | <0,75 | 1000 |  |
+| PAH, summa M | mg/kg TS | 1,15 | <1,25 | <1,25 | <1,25 | <1,25 | 1,82 | <1,25 | 1000 | <70 |
 | PAH, summa H | mg/kg TS | 0,96 | 1,68 | 0,7 | 0,69 | 1,88 | 2,29 | 0,67 | 50 |  |
 
 <!-- sida 27 -->
@@ -1307,8 +1307,9 @@ Uppdragnummer: 606466
 
 [Tabell 30-1](handlingar-verksamhetsomrade-i-norra-varla-oversiktlig-miljoteknisk-markundersokning.tabeller/30-1.csv)
 
-| GRUNDVATTENANALYSER<br>(µg/l) |  |  | 1)C<br>crit GW | 2)HL<br>Interventions-<br>värde |
+| GRUNDVATTENANALYSER |  |  |  | 2) |
 | --- | --- | --- | --- | --- |
+| (µg/l) |  |  | 1)C<br>crit GW | HL<br>Interventions-<br>värde |
 | Datum | 2021-05-06 | 2021-05-06 |  |  |
 | Provpunkt | 21GS09 | 21GS24 |  |  |
 | KLORERADE LÖSNINGSMEDEL |  |  |  |  |
@@ -1330,53 +1331,53 @@ Uppdragnummer: 606466
 | PCB-7 | <0,00365 | <0,00365 | 0,001 |  |
 | KLORBENSENER |  |  |  |  |
 | monoklorbensen | <0,10 | <0,10 |  |  |
-| 1,2-diklorbensen | <0,10 | <0,10 | 10 |  |
-| 1,3-diklorbensen | <0,10 | <0,10 |  |  |
+| 1,2-diklorbensen | <0,10 | <0,10 |  |  |
+| 1,3-diklorbensen | <0,10 | <0,10 | 10 |  |
 | 1,4-diklorbensen | <0,10 | <0,10 |  |  |
-| 1,2,3-triklorbensen | <0,10 | <0,10 | 10 |  |
-| 1,2,4-triklorbensen | <0,10 | <0,10 |  |  |
+| 1,2,3-triklorbensen | <0,10 | <0,10 |  |  |
+| 1,2,4-triklorbensen | <0,10 | <0,10 | 10 |  |
 | 1,3,5-triklorbensen | <0,20 | <0,20 |  |  |
-| 1,2,3,4-tetraklorbensen | <0,010 | <0,010 | 0,3 |  |
-| 1,2,3,5+1,2,4,5-tetraklorbensen | <0,020 | <0,020 |  |  |
+| 1,2,3,4-tetraklorbensen | <0,010 | <0,010 |  |  |
+| 1,2,3,5+1,2,4,5-tetraklorbensen | <0,020 | <0,020 | 0,3 |  |
 | pentaklorbensen | <0,010 | <0,010 | 2 |  |
 | hexaklorbensen | <0,0050 | <0,0050 | 0,5 |  |
 | KLORFENOLER |  |  |  |  |
-| 2-monoklorfenol | <0,100 | <0,100 | 15 |  |
-| 3-monoklorfenol | <0,100 | <0,100 |  |  |
+| 2-monoklorfenol | <0,100 | <0,100 |  |  |
+| 3-monoklorfenol | <0,100 | <0,100 | 15 |  |
 | 4-monoklorfenol | <0,100 | <0,100 |  |  |
-| 2,3-diklorfenol | <0,10 | <0,10 | 9 |  |
+| 2,3-diklorfenol | <0,10 | <0,10 |  |  |
 | 2,4+2,5-diklorfenol | <0,20 | <0,20 |  |  |
-| 2,6-diklorfenol | <0,10 | <0,10 |  |  |
+| 2,6-diklorfenol | <0,10 | <0,10 | 9 |  |
 | 3,4-diklorfenol | <0,10 | <0,10 |  |  |
 | 3,5-diklorfenol | <0,10 | <0,10 |  |  |
-| 2,3,4-triklorfenol | <0,10 | <0,10 | 20 |  |
+| 2,3,4-triklorfenol | <0,10 | <0,10 |  |  |
 | 2,3,5-triklorfenol | <0,10 | <0,10 |  |  |
 | 2,3,6-triklorfenol | <0,10 | <0,10 |  |  |
-| 2,4,5-triklorfenol | <0,10 | <0,10 |  |  |
+| 2,4,5-triklorfenol | <0,10 | <0,10 | 20 |  |
 | 2,4,6-triklorfenol | <0,10 | <0,10 |  |  |
 | 3,4,5-triklorfenol | <0,10 | <0,10 |  |  |
-| 2,3,5,6-tetraklorfenol | <0,10 | <0,10 | 20 |  |
-| 2,3,4,5-tetraklorfenol | <0,10 | <0,10 |  |  |
+| 2,3,5,6-tetraklorfenol | <0,10 | <0,10 |  |  |
+| 2,3,4,5-tetraklorfenol | <0,10 | <0,10 | 20 |  |
 | 2,3,4,6-tetraklorfenol | <0,10 | <0,10 |  |  |
 | pentaklorfenol | <0,10 | <0,10 | 4,5 |  |
 | KLORERADE PESTICIDER |  |  |  |  |
-| o,p'-DDD | <0,010 | <0,010 | -- | 0,01 |
+| o,p'-DDD | <0,010 | <0,010 |  |  |
 | p,p'-DDD | <0,010 | <0,010 |  |  |
 | o,p'-DDE | <0,010 | <0,010 |  |  |
-| p,p'-DDE | <0,010 | <0,010 |  |  |
+| p,p'-DDE | <0,010 | <0,010 | -- | 0,01 |
 | o,p'-DDT | <0,010 | <0,010 |  |  |
 | p,p'-DDT | <0,010 | <0,010 |  |  |
-| aldrin | <0,0050 | <0,0050 | -- | 0,1 |
+| aldrin | <0,0050 | <0,0050 |  |  |
 | dieldrin | <0,010 | <0,010 |  |  |
-| endrin | <0,010 | <0,010 |  |  |
+| endrin | <0,010 | <0,010 | -- | 0,1 |
 | isodrin | <0,010 | <0,010 |  |  |
 | telodrin | <0,010 | <0,010 |  |  |
-| alfa-HCH | <0,010 | <0,010 | -- | 1 |
-| beta-HCH | <0,010 | <0,010 |  |  |
+| alfa-HCH | <0,010 | <0,010 |  |  |
+| beta-HCH | <0,010 | <0,010 | -- | 1 |
 | gamma-HCH (lindan) | <0,010 | <0,010 |  |  |
 | heptaklor | <0,010 | <0,010 | -- | 0,3 |
-| cis-heptaklorepoxid | <0,010 | <0,010 | -- | 3 |
-| trans-heptaklorepoxid | <0,010 | <0,010 |  |  |
+| cis-heptaklorepoxid | <0,010 | <0,010 |  |  |
+| trans-heptaklorepoxid | <0,010 | <0,010 | -- | 3 |
 | alfa-endosulfan | <0,010 | <0,010 | -- | 5 |
 
 <!-- sida 31 -->
@@ -1398,9 +1399,9 @@ Uppdragnummer: 606466
 
 [Tabell 31-1](handlingar-verksamhetsomrade-i-norra-varla-oversiktlig-miljoteknisk-markundersokning.tabeller/31-1.csv)
 
-| GRUNDVATTENANALYSER<br>LÖSTA METALLER | Klassindelning enligt bedömningsgrunder SGU 1) |  |  |  |  |  |  |  |  |  | 2)C<br>crit GW |
+| GRUNDVATTENANALYSER | Klassindelning enligt bedömningsgrunder SGU 1) |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Datum | 2021-05-06 | 2021-05-06 | 2021-05-06 | 2021-05-06 | 1<br>Mycket låg halt | 2<br>Låg halt | 3<br>Måttlig halt | 4<br>Hög halt | 5<br>Mycket hög halt |  |
+| LÖSTA METALLER | Datum | 2021-05-06 | 2021-05-06 | 2021-05-06 | 2021-05-06 | 1<br>Mycket låg halt | 2<br>Låg halt | 3<br>Måttlig halt | 4<br>Hög halt | 5<br>Mycket hög halt | 2)C<br>crit GW |
 |  | Provpunkt | 21GS09 | 21GS14 | 21GS22 | 21GS24 |  |  |  |  |  |  |
 | Arsenik, As | µg/l | 3,6 | 1,36 | 3,25 | <1,0 | <1 | 1-2 | 2-5 | 5-10 | ≥10 | 5 |
 | Barium, Ba | µg/l | 5,5 | 10,9 | 15 | 12,6 | -- | -- | -- | -- | -- | 350 |
@@ -1418,10 +1419,10 @@ Uppdragnummer: 606466
 
 [Tabell 31-2](handlingar-verksamhetsomrade-i-norra-varla-oversiktlig-miljoteknisk-markundersokning.tabeller/31-2.csv)
 
-| GRUNDVATTENANALYSER<br>PETROLEUMKOLVÄTEN |  |  |  |  |  | BEDÖMNINGSGRUNDER<br>SPI1) |  | 2)C<br>crit GW |
+| GRUNDVATTENANALYSER |  |  |  |  |  | BEDÖMNINGSGRUNDER |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Datum | 2021-05-06 | 2021-05-06 | 2021-05-06 | 2021-05-06 |  |  |  |
-|  | Enhet | 21GS09 | 21GS14 | 21GS22 | 21GS24 | Ångor i<br>byggnader | Miljörisk<br>Ytvatten |  |
+|  | Datum | 2021-05-06 | 2021-05-06 | 2021-05-06 | 2021-05-06 | SPI1) |  | 2)C |
+| PETROLEUMKOLVÄTEN | Enhet | 21GS09 | 21GS14 | 21GS22 | 21GS24 | Ångor i<br>byggnader | Miljörisk<br>Ytvatten | crit GW |
 | Utspädningsfaktor |  |  |  |  |  | 1/5000 | 1/100 |  |
 | ALIFATISKA-OCH AROMATISKA KOLVÄTEN |  |  |  |  |  |  |  |  |
 | Alifater >C5-C8 | µg/l | <10 | <10 | <10 | <10 | 3000 | 300 |  |

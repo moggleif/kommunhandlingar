@@ -1,10 +1,9 @@
-"GRUNDVATTENANALYSER
-PETROLEUMKOLVÄTEN",,,,,BEDÖMNINGSGRUNDER SPI*,
-,Datum,2020-04-23,2020-04-23,2020-04-23,,
-,Enhet,20G07,20G12,20G15,"Ångor i
+GRUNDVATTENANALYSER,,,,,,
+,Datum,2020-04-23,2020-04-23,2020-04-23,BEDÖMNINGSGRUNDER SPI*,
+PETROLEUMKOLVÄTEN,Enhet,20G07,20G12,20G15,"Ångor i
 byggnader","Miljörisker
 Ytvatten"
-Utspädningsfaktor,,,,,1/5000 1/100,
+Utspädningsfaktor,,,,,1/5000,1/100
 ALIFATISKA-OCH AROMATISKA KOLVÄTEN,,,,,,
 Alifater >C5-C8,mg/l,"< 0,020","< 0,020","< 0,020",3,"0,3"
 Alifater >C8-C10,mg/l,"< 0,020","< 0,020","< 0,020","0,1","0,15"

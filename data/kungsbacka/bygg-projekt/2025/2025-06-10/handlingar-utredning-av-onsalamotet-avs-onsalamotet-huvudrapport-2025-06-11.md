@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4590b12c19749b756fc7d0c9/1749542945
 sha256: 3d0ae637a13982bc8006e779e5366a947afc6610d96f8aa3188f3d41e2858352
 bytes: 6062939
 sidor: 79
-hamtad: 2026-11-13T17:40:41+00:00
-konverterad: 2026-11-13T17:41:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:41:17+00:00
+konverterad: 2026-11-20T11:41:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad]
@@ -474,17 +474,6 @@ tet.
 
 Tabell 2. ÅDT för de största trafikplatserna i Halland år 2021–2023
 
-Trafikplats           Trafik på och av E6/E20 (ÅDT) Trafik E6/E20 (ÅDT)
-Norra Kungsbacka      19 500                45 000–49 000
-Onsalamotet           15 300                36 000–42 000
-Halmstad syd          15 000                28 000–32 000
-
-Halmstad mellan       12 700                28 000–32 000
-Kungsbacka mellan     12 600                42 000–44 000
-Varberg norr          12 300                26 000–28 000
-
-Halmstad norr         12 300                26 000–32 000
-
 Utöver att vara en central nod i trafiksystemet som kopplar samman södra Kungsbacka och
 Onsala tätort samt en koppling mot Göteborg så fyller Onsalamotet flera andra viktiga
 funktioner i transportsystemet. Det agerar en viktig transportnod i större det internation-
@@ -518,6 +507,18 @@ antalet påstigande betydligt högre under maxtimme vilket stämmer väl överen
 aktörers bild av att bussarna är fulla.
 
 13
+
+[Tabell 13-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/13-1.csv)
+
+| Trafikplats | Trafik på och av E6/E20 (ÅDT) | Trafik E6/E20 (ÅDT) |
+| --- | --- | --- |
+| Norra Kungsbacka 19 500 45 000–49 000 |  |  |
+| Onsalamotet 15 300 36 000–42 000 |  |  |
+| Halmstad syd 15 000 28 000–32 000 |  |  |
+| Halmstad mellan 12 700 28 000–32 000 |  |  |
+| Kungsbacka mellan 12 600 42 000–44 000 |  |  |
+| Varberg norr 12 300 26 000–28 000 |  |  |
+| Halmstad norr 12 300 26 000–32 000 |  |  |
 
 <!-- sida 14 -->
 
@@ -1418,7 +1419,7 @@ Tabell 3. Sammanställning kvantitativa effektmål
 
 [Tabell 32-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/32-1.csv)
 
-| Effektmål Krav för måluppfyllnad |  |
+| Effektmål | Krav för måluppfyllnad |
 | --- | --- |
 | Restid Onsalavägen<br>båda riktningar | I nivå med nuläget, 2,5–4 minuter |
 | Kölängd på ramper 85:e<br>percentilen | Kortare än rampen (500m) med god marginal |
@@ -1469,7 +1470,7 @@ Tabell 4 .Sammanställning kvalitativa effektmål
 
 [Tabell 33-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/33-1.csv)
 
-| Effektmål Krav för måluppfyllnad |  |
+| Effektmål | Krav för måluppfyllnad |
 | --- | --- |
 | Konfliktpunkter | Bedömning av antalet potentiella konfliktpunkter, så som<br>vänstersvängar eller passager i plan relaterat till andelen<br>planskilda korsningspunkter |
 | Ej planskilda korsnings-<br>punkter | Bedömning av antal korsningspunkter för gång- och cykel<br>som inte är planskilda |
@@ -1495,21 +1496,6 @@ gång- och cykel, eller för både biltrafik och kollektivtrafik. Den sammanlagd
 trisen redovisas i Tabell 5. Sammanställning effektmål.
 
 Tabell 5. Sammanställning effektmål
-Övergripande Effektmål        Förklaring
-
-tema
-Framkomlighet Restid Onsalavägen båda 2,5–4 minuters restid Onsalavägen syd -
-och kapacitet riktningar      Onsalavägen norr
-för personbil 85-percentil kölängd i En kölängd på 85:e percentilen innebär
-
-ramper E6/E20     att kön är kortare än det uppmätta vär-
-det 85% av tiden
-95-percentil kölängd i En kölängd på 95:e percentilen innebär
-ramper E6/E20     att kön är kortare än det uppmätta vär-
-
-det 95% av tiden
-Relativ fördröjning 85- Visar vart låsningar och köbildningar
-percentil         uppstår
 
 34
 
@@ -1521,6 +1507,12 @@ percentil         uppstår
 | Andel biltrafik | Bedömning av förväntad effekt på mängden biltrafik, där<br>en ökad andel bedöms som negativ påverkan |
 | Andel kollektivtrafik | Bedömning av förväntad effekt på andelen resor som ut-<br>förs med kollektivtrafik |
 | Antal gång- och cykelresor | Bedömning av förväntad effekt på antalet resor som ut-<br>förs med gång- eller cykel |
+
+[Tabell 34-2](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/34-2.csv)
+
+| Övergripande<br>tema | Effektmål | Förklaring |
+| --- | --- | --- |
+| Framkomlighet Restid Onsalavägen båda 2,5–4 minuters restid Onsalavägen syd -<br>och kapacitet riktningar Onsalavägen norr<br>för personbil 85-percentil kölängd i En kölängd på 85:e percentilen innebär<br>ramper E6/E20 att kön är kortare än det uppmätta vär-<br>det 85% av tiden<br>95-percentil kölängd i En kölängd på 95:e percentilen innebär<br>ramper E6/E20 att kön är kortare än det uppmätta vär-<br>det 95% av tiden<br>Relativ fördröjning 85- Visar vart låsningar och köbildningar<br>percentil uppstår |  |  |
 
 <!-- sida 35 -->
 
@@ -1941,14 +1933,16 @@ från via Onsalavägen norr så påverkas den restiden negativt.
 
 [Tabell 46-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/46-1.csv)
 
-| Restid förmiddag (s)<br>Onsalavägen mot Kungsbacka | F bil<br>191 | G bil<br>197 | F buss<br>212 | G buss<br>192 |
+| Restid förmiddag (s) | F bil | G bil | F buss | G buss |
 | --- | --- | --- | --- | --- |
+| Onsalavägen mot Kungsbacka | 191 | 197 | 212 | 192 |
 | Onsalavägen mot Onsala tätort | 147 | 149 | 170 | 135 |
 
 [Tabell 46-2](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/46-2.csv)
 
-| Restid eftermiddag (s)<br>Onsalavägen mot Kungsbacka | F bil<br>175 | G bil<br>175 | F buss<br>196 | G buss<br>154 |
+| Restid eftermiddag (s) | F bil | G bil | F buss | G buss |
 | --- | --- | --- | --- | --- |
+| Onsalavägen mot Kungsbacka | 175 | 175 | 196 | 154 |
 | Onsalavägen mot Onsala tätort | 174 | 204 | 189 | 177 |
 
 <!-- sida 47 -->
@@ -2565,13 +2559,13 @@ gång och cykelbro samt installationen av en ny signalanläggning.
 
 [Tabell 63-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/63-1.csv)
 
-| Övergripande tema I, fullständigt mot |  |
+| Övergripande tema | I, fullständigt mot |
 | --- | --- |
 | Framkomlighet och kapa-<br>citet för personbil |  |
 | Framkomlighet och kapa-<br>citet för kollektivtrafik |  |
 | Framkomlighet och trafiksä-<br>kerhet för fotgängare och<br>cyklister | Ej möjligt att be-<br>döma |
 | Trafiksäkerhet på väg |  |
-| Ej möjlig att be-<br>Miljö<br>döma |  |
+| Miljö | Ej möjlig att be-<br>döma |
 
 <!-- sida 64 -->
 
@@ -2644,7 +2638,7 @@ kommenderade utredningsalternativet H.
 
 [Tabell 65-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/65-1.csv)
 
-| Fordonsbro Korsningar GC-bro |  |  |  |
+|  | Fordonsbro | Korsningar | GC-bro |
 | --- | --- | --- | --- |
 | F | 2+1 körfält<br>Blandtrafik | Signalkorsningar | I motet |
 | G | 2+1 körfält<br>Inledningsvis kollektivtrafikkörfält,<br>blandtrafik då trafikmängder så kräver | Signalkorsningar med<br>kollektivtrafikprioritering | I motet |
@@ -2905,7 +2899,7 @@ Tabell 15 - Föreslagen etappindelning för utbyggnad av Onsalamotet
 
 [Tabell 76-77-1](handlingar-utredning-av-onsalamotet-avs-onsalamotet-huvudrapport-2025-06-11.tabeller/76-77-1.csv)
 
-| Etapp Tidshorisont Indikator Uppskattad Utbyggnad<br>kostnad |  |  |  |  |
+| Etapp | Tidshorisont | Indikator | Uppskattad<br>kostnad | Utbyggnad |
 | --- | --- | --- | --- | --- |
 | 0 | Kort sikt<br>0–2 år | Ej beroende av andra<br>etapper. Bör initieras så<br>tidigt som möjligt uti-<br>från befintligt strate-<br>giskt arbete. | Ej uppskat-<br>tad | Förslag på steg 1-åtgärder<br>Subventionerade pendlarkort<br>Subventionerad kollektivtrafik<br>för barn- och unga<br>Ökade parkeringsavgifter i<br>Kungsbacka tätort<br>Aktivt strategiskt arbete med<br>parkeringspolicy<br>Informationskampanj kring åt-<br>gärder<br>Samlokalisering av ny bebyg-<br>gelse och översyn av hållplats-<br>placeringar<br>Satsningar på mikromobilitet i<br>samverkan med, exempelvis,<br>Västtrafik |
 | 1 | Kort sikt<br>0–2 år | 2+1 körfält över bron<br>med ett kollektivtra-<br>fikkörfält kan förbättra<br>för kollektivtrafiken re-<br>dan idag. Den södra<br>rampen har redan idag<br>köbildning som ibland<br>utgör en säkerhetsrisk. | 65–85 mnkr | 2+1 körfält över befintlig bro,<br>två i norrgående riktning<br>Ett av de norrgående körfälten<br>till kollektivtrafikkörfält<br>Södra rampen breddas till två<br>körfält<br>Ny gång- och cykelbro mellan<br>Svinholmsvägen och Kollavarvs-<br>vägen |

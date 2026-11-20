@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ea12a3f17f1cb356901cd8/16455320955
 sha256: 9d003fd79d98ac5a7741e0c80a14bc49463cdfe0ab21c4536fae0c52f2ed8c7d
 bytes: 15030461
 sidor: 26
-hamtad: 2026-11-13T15:36:08+00:00
-konverterad: 2026-11-13T15:48:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T09:22:28+00:00
+konverterad: 2026-11-20T09:34:30+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ocr]
@@ -331,17 +331,29 @@ spetsen ligger lägre, +10m.
 Östra Kläppa består till två tredjedelar av skog och resten är öppen mark med en liten del odlad
 åker. Marknivån för det här området ligger på mellan +30m och +55m, men stora delar av
 området utgörs av mark med nivåer ca +45-48m.
-Stockalid 4,4 ha    Östra Kläppa 14,5 ha
-
-DETALJTYP ANDEL     DETALJTYP  ANDEL
-odlad åker 3%       odlad åker 3%
-barrskog 92%        barrskog   66%
-öppen mark 5%       öppen mark 31%
 
 Uppdrag: 268193, VA- och Dagvattenutredning Stockalid och Kläppa, Åsa, 2016-09-16
 RBeasmtäalvlatarle : Kungsbacka kommun               Slutrapport
 O:\GBG\268193\R\\\_Text\VA-utredning Stockalid Östra Kläppa.docx
 7(23)
+
+[Tabell 7-1](handlingar-bostader-och-forskola-i-stockalid-dagvattenutredning.tabeller/7-1.csv)
+
+| Stockalid | 4,4 ha |
+| --- | --- |
+| DETALJTYP | ANDEL |
+| odlad åker 3% |  |
+| barrskog | 92% |
+| öppen mark 5% |  |
+
+[Tabell 7-2](handlingar-bostader-och-forskola-i-stockalid-dagvattenutredning.tabeller/7-2.csv)
+
+| Östra Kläppa | 14,5 ha |
+| --- | --- |
+| DETALJTYP | ANDEL |
+| odlad åker 3% |  |
+| barrskog | 66% |
+| öppen mark 31% |  |
 
 <!-- sida 8 -->
 

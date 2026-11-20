@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7444b48c/1758899123
 sha256: 9f7f7343e6eb14f2ef27c056bc877bceb1d4fc7fd84aa45b7b58f23f2bd7d638
 bytes: 593149
 sidor: 6
-hamtad: 2026-11-13T17:52:54+00:00
-konverterad: 2026-11-13T17:53:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:55:31+00:00
+konverterad: 2026-11-20T11:55:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, tabell-osaker]
@@ -84,14 +84,13 @@ redovisas i Tabell 1, där alltså StormTacs standardvärden används i aktuell 
 
 Tabell 1. Jämförelse av dagvattenhalt (µg/l) från samma markanvändning i de olika modellerna. Där de olika modellerna
 skiljer sig åt markeras värdena med fetstilt.
-Källa      Ämne Tak- Gräsyta Väg 1 Park- Ängs- Gång & Asfalts- Jord- Grusyta
-yta            ering mark cykelväg yta bruks-
-mark
+Källa                                                  Grusyta
+
 Recipientmodell P 170 160 110   140  160   85   85  220   42
 StormTac standard P 53 160 110  160  190   85   85  200   42
-Recipientmodell N 1700 1100 1600 2400 1000 1800 1800 5300 2000
+Recipientmodell                                          2000
 
-StormTac standard N 1200 1100 1600 1600 2500 1800 1800 5300 2000
+StormTac standard                                        2000
 
 ```osaker-tabell
 Recipientmodell Pb 5  6    6,2  30    6    3,5   3    6  2,2
@@ -123,6 +122,19 @@ Recipientmodell BaP 0,01 0,01 0,058 0,06 0,01 0,01 0,01 0,01 0,01
 StormTac standard BaP 0,01 0,01 0,058 0,06 0,01 0,01 0,01 0,01 0,01
 
 Dokumentreferens Ändrings-PM Dagvattenutredning Kungsbacka Skårby 3_4_1 2/6
+
+[Tabell 2-1](handlingar-tennishall-i-bjorkris-andrings-pm-dagvattenutredning.tabeller/2-1.csv)
+
+| Ämne | Tak- | Gräsyta | Väg 1 | Park- | Ängs- | Gång & | Asfalts- | Jord- |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | yta |  |  | ering | mark | cykelväg | yta | bruks- |
+|  |  |  |  |  |  |  |  | mark |
+
+[Tabell 2-2](handlingar-tennishall-i-bjorkris-andrings-pm-dagvattenutredning.tabeller/2-2.csv)
+
+| N | 1700 | 1100 | 1600 | 2400 | 1000 | 1800 | 1800 | 5300 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| N | 1200 | 1100 | 1600 | 1600 | 2500 | 1800 | 1800 | 5300 |
 
 <!-- sida 3 -->
 
@@ -202,10 +214,10 @@ Dokumentreferens Ändrings-PM Dagvattenutredning Kungsbacka Skårby 3_4_1 5/6
 Tabell 2. Föroreningsmängder (årsmedel) vid studerade scenarier. Mängderna som överstiger 2025-05-27
 recipientmodellens acceptabla belastning eller befintlig belastning är redovisad i fetstilt. nd innebär
 att det inte finns data i recipientmodellen för angivet ämne.
-Områdets acceptabla Total belastning Total belastning Total belastning
-belastning (kg/år) (kg/år) före (kg/år) efter (kg/år) efter
-enligt   exploatering exploatering utan exploatering med
-recipientmodellen           rening     rening
+Total belastning
+(kg/år) efter
+exploatering med
+rening
 
 ```osaker-tabell
 Fosfor (P)            0,6        1,3        1,4        0,6
@@ -225,14 +237,34 @@ partiklar (SS)
 Bens(a)pyren (BaP) 0,000 001  0,000 087  0,000 320 0,000 086
 Tabell 3. Föroreningshalter (årsmedel) vid studerade scenarier. Halterna som överstiger befintlig belastning är redovisad i
 fetstilt.
+Total
+föroreningshalt
+(µg/l) efter
+exploatering med
+rening
 
 Dokumentreferens Ändrings-PM Dagvattenutredning Kungsbacka Skårby 3_4_1 6/6
 
 [Tabell 6-1](handlingar-tennishall-i-bjorkris-andrings-pm-dagvattenutredning.tabeller/6-1.csv)
 
-|  | Total föroreningshalt (µg/l) före exploatering | Total föroreningshalt (µg/l) efter exploatering utan rening | Total föroreningshalt (µg/l) efter exploatering med rening |
-| --- | --- | --- | --- |
+| Områdets acceptabla | Total belastning | Total belastning |
+| --- | --- | --- |
+| belastning (kg/år) | (kg/år) före | (kg/år) efter |
+| enligt | exploatering | exploatering utan |
+| recipientmodellen |  | rening |
+
+[Tabell 6-2](handlingar-tennishall-i-bjorkris-andrings-pm-dagvattenutredning.tabeller/6-2.csv)
+
+| Total föroreningshalt | Total föroreningshalt |
+| --- | --- |
+| (µg/l) före | (µg/l) efter |
+| exploatering | exploatering utan |
+|  | rening |
+
+[Tabell 6-3](handlingar-tennishall-i-bjorkris-andrings-pm-dagvattenutredning.tabeller/6-3.csv)
+
 | Fosfor (P) | 110 | 80 | 34 |
+| --- | --- | --- | --- |
 | Kväve (N) | 2800 | 1500 | 860 |
 | Bly (Pb) | 7,7 | 6,6 | 1,4 |
 | Koppar (Cu) | 12 | 21 | 7 |

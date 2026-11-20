@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2f7af2ed1989780f80d6be40/1755170493
 sha256: 332f26922f840a28fe5c76173a531ed2f6a06cdbb2c2e5c616bdd542fbddefde
 bytes: 6603978
 sidor: 56
-hamtad: 2026-11-13T17:45:23+00:00
-konverterad: 2026-11-13T17:45:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:47:58+00:00
+konverterad: 2026-11-20T11:48:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
@@ -365,7 +365,9 @@ punkters fyllnadsmaterial följde bedömd naturlig torrskorpelera (Figur 7 och F
 | Jord | 5 | 24E01 0,0–0,5<br>24E03 0,0–0,5<br>24E04 0,0–0,5<br>24E07 0,0–0,5<br>24E08 0,0–0,5 | MS-1 Metaller (11) i jord, slam och sediment,<br>HNO3 uppslutning.<br>OJ-21a alifater, aromater, BTEX, PAH (16) i<br>j ord, slam och sediment enligt SPIMFAB. |
 | Jord | 1 | 24E04 0,0–0,5 | OJ-2a PCB7 i jord och slam. |
 | Jord | 2 | 24E04 0,0–0,5<br>24E09 0,0–0,5 | OJ-3a Klorerade pesticider i jord, slam och<br>sediment. |
-| Jord | 3 | 24E07 0,0–0,5<br>24E07 0,5–1,0<br>24E07 1,0–1,5 | pH i jord och slam.<br>TOC, beräknad från GF, i jord, slam och<br>sediment. |
+| Jord | 3 | 24E07 0,0–0,5 | pH i jord och slam.<br>TOC, beräknad från GF, i jord, slam och<br>sediment. |
+|  |  | 24E07 0,5–1,0<br>24E07 1,0–1,5 |  |
+|  |  |  |  |
 
 <!-- sida 12 -->
 
@@ -755,7 +757,7 @@ Projekt MTU Åsa
 | aromater >C10-C16 | mg/kg TS | - | 3 | 15 | 1000 | <1.0 | e.a. | e.a. | <1.0 | e.a. | e.a. | e.a. | e.a. |
 | aromater >C16-C35 | mg/kg TS | - | 10 | 30 | 1000 | <1.0 | e.a. | e.a. | <1.0 | e.a. | e.a. | e.a. | e.a. |
 | DDT, DDD, DDE | mg/kg TS | - | 0,1 | 1 | 50 | e.a. | e.a. | e.a. | e.a. | e.a. | <0.030 | e.a. | e.a. |
-| MRR: Återvinning av avfall i anläggningsarbete 2010:1 (Naturvårdsverket, 2010).<br>KM: Generella riktvärden (Naturvårdsverket, 2009, uppdaterad 2022).<br>MKM: Generella riktvärden (Naturvårdsverket, 2009, uppdaterad 2022).<br>FA: Uppdaterade bedömningsgrunder för förorenade massor 2019:01 (Avfall Sverige, 2019).<br>e.a. = ej analyserad |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| MRR: Återvinning av avfall i anläggningsarbete 2010:1 (Naturvårdsverket, 2010).<br>KM: Generella riktvärden (Naturvårdsverket, 2009, uppdaterad 2022).<br>MKM: Generella riktvärden (Naturvårdsverket, 2009, uppdaterad 2022).<br>FA: Uppdaterade bedömningsgrunder för förorenade massor 2019:01 (Avfall Sverige, 2019<br>e.a. = ej analyserad |  |  |  |  |  | ). |  |  |  |  |  |  |  |
 
 <!-- sida 21 -->
 

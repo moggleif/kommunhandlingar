@@ -1,15 +1,15 @@
-"Lokalisering
-Kommun Kungsbacka",
+Lokalisering,
+Kommun,Kungsbacka
 Var i kommunen,I mindre tätort i kommunen
-"Markanvändning
-Lägenhet 13 bostadsenheter
-23 boende (automatiskt värde)",
-"Svar på frågor om Kollektivtrafik
-Turtäthet under 10-15-minuterstrafik
+Markanvändning,
+Lägenhet,"13 bostadsenheter
+23 boende (automatiskt värde)"
+Svar på frågor om Kollektivtrafik,
+"Turtäthet under
 högtrafik i
 området
 (sammanlagt för
-alla linjer)",
+alla linjer)",10-15-minuterstrafik
 "Avstånd till
 hållplats
 (genomsnitt i
@@ -19,3 +19,4 @@ kollektivtrafiken i
 kommunens
 planering?",Kollektivtrafiken är en viktig faktor vid planering av t ex nya bostadsområden.
 Svar på frågor om Gång,
+,

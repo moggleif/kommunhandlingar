@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5bba8c07182e92654f3da87/16621108937
 sha256: 685ca94297d194a8594f76ada2eaa19fa1de28faeef7b93f2acacebf67afa010
 bytes: 6445304
 sidor: 29
-hamtad: 2026-11-13T16:22:22+00:00
-konverterad: 2026-11-13T16:22:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:12:53+00:00
+konverterad: 2026-11-20T10:13:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -48,16 +48,25 @@ Handläggare:          Anders Eurenius
 
 DP Norra Kyvik- och Ekekullsområdet 108 07 22 Geoteknik och bergteknik
 
-Rev 1 2022-06-16 PM Geoteknik och bergteknik Anders Eurenius, Louise Sjögren Katarina
-Katarina Engerberg     Engerberg
-1.0   2022-02-25 PM Geoteknik och bergteknik Anders Eurenius, Louise Sjögren Katarina
-Katarina Engerberg     Engerberg
-Version Datum Beskrivning         Upprättat   Granskat   Godkänt
+Rev 1
+
+1.0
+Version
+
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\108\07\1080722\5 arbetsmaterial\01 dokument\g\uppdrag pm del 1\geoteknisk- och bergteknisk utredning norra 2022-06-16 | Sida 2 av 29
 kyvik & ekekullen, kungsbacka kommun rev1.docx
+
+[Tabell 2-1](handlingar-norra-kyvik-och-ekekullsomradet-geoteknisk-utredning.tabeller/2-1.csv)
+
+| 2022-06-16 | PM Geoteknik och bergteknik | Anders Eurenius, | Louise Sjögren | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Katarina Engerberg |  | Engerberg |
+| 2022-02-25 | PM Geoteknik och bergteknik | Anders Eurenius, | Louise Sjögren | Katarina |
+|  |  | Katarina Engerberg |  | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

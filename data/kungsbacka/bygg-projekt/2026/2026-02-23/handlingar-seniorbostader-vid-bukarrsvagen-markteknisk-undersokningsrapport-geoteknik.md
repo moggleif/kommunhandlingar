@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1cb706/177186215181
 sha256: 44fe7c8cea80ac70fe2ec478f1748879251e3956ed2a3bb7f0e1d41362df7920
 bytes: 9136834
 sidor: 112
-hamtad: 2026-11-15T09:01:59+00:00
-konverterad: 2026-11-15T09:02:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T12:42:46+00:00
+konverterad: 2026-11-20T12:43:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ej-konverterad, ocr, ok, ok, ok]
@@ -248,28 +248,6 @@ De geotekniska fältundersökningarnas omfattning:
 •  Geohydrologisk mätning i 2 punkter
 
 Tabell 4. Utförda fältundersökningar
-Undersökningspunkt Tr CPT   Vb    Skr    Kv    Gw
-GT01         X                X
-GT02         X                X            X
-GT03         X
-GT04         X                X
-GT05         X
-
-GT06         X
-GT07         X
-GT08         X
-GT09         X    X           X
-GT10         X    X           X
-GT11         X
-GT12         X    X           X      X
-GT13         X
-GT14         X
-
-GT15         X    X           X
-GT16         X    X           X
-GT17         X                             X
-GT18         X    X     X     X
-GT19         X    X     X     X
 
 7.2 Undersökningsperiod
 Fältundersökningarna har utförts under vecka 16 och 17 år 2024.
@@ -279,6 +257,30 @@ Fältundersökningarna har utförts under vecka 16 och 17 år 2024.
 Fältarbetet har utförts av fältgeotekniker från PG Borrning.
 
 7 (10)
+
+[Tabell 7-1](handlingar-seniorbostader-vid-bukarrsvagen-markteknisk-undersokningsrapport-geoteknik.tabeller/7-1.csv)
+
+| Undersökningspunkt | Tr | CPT | Vb | Skr | Kv | Gw |
+| --- | --- | --- | --- | --- | --- | --- |
+| GT01 X X |  |  |  |  |  |  |
+| GT02 X X X |  |  |  |  |  |  |
+| GT03 X |  |  |  |  |  |  |
+| GT04 X X |  |  |  |  |  |  |
+| GT05 X |  |  |  |  |  |  |
+| GT06 X |  |  |  |  |  |  |
+| GT07 X |  |  |  |  |  |  |
+| GT08 X |  |  |  |  |  |  |
+| GT09 X X X |  |  |  |  |  |  |
+| GT10 X X X |  |  |  |  |  |  |
+| GT11 X |  |  |  |  |  |  |
+| GT12 X X X X |  |  |  |  |  |  |
+| GT13 X |  |  |  |  |  |  |
+| GT14 X |  |  |  |  |  |  |
+| GT15 X X X |  |  |  |  |  |  |
+| GT16 X X X |  |  |  |  |  |  |
+| GT17 X X |  |  |  |  |  |  |
+| GT18 X X X X |  |  |  |  |  |  |
+| GT19 X X X X |  |  |  |  |  |  |
 
 <!-- sida 8 -->
 
@@ -308,17 +310,7 @@ tabell 5 och resultatet presenteras i bilaga 1. Utöver nedanstående har även
 klassificering med avseende på tjälfarlighetsklass och materialtyp utförts.
 
 Tabell 5. Utförda laboratorieundersökningar
-Undersökningspunkt  Jordart  w    w    ⍴   τ    St
-N    L
-fu
-t/m3
-kPa
-GT02            X      X    X
-GT04            X      X    X
-GT09            X      X    X
-GT10            X      X    X
-GT12            X      X    X    X    X   X
-GT19            X      X    X
+
 8.2 Undersökningsperiod
 Laboratorieundersökningar utfördes under vecka 17 år 2024.
 
@@ -337,6 +329,17 @@ undersökningspunkterna GT02 och GT017 med filterspets i friktionsjorden motsvar
 nivå -3,99 i GT02 och nivå -18,16 i undersökningspunkt GT17.
 
 8 (10)
+
+[Tabell 8-1](handlingar-seniorbostader-vid-bukarrsvagen-markteknisk-undersokningsrapport-geoteknik.tabeller/8-1.csv)
+
+| Undersökningspunkt | Jordart | w<br>N | w<br>L | ⍴<br>t/m3 | τ<br>fu<br>kPa | St |
+| --- | --- | --- | --- | --- | --- | --- |
+| GT02 X X X |  |  |  |  |  |  |
+| GT04 X X X |  |  |  |  |  |  |
+| GT09 X X X |  |  |  |  |  |  |
+| GT10 X X X |  |  |  |  |  |  |
+| GT12 X X X X X X |  |  |  |  |  |  |
+| GT19 X X X |  |  |  |  |  |  |
 
 <!-- sida 9 -->
 

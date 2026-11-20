@@ -1,0 +1,29 @@
+Jordlager,Tunghet γ/γ´,Friktionsvinkel φ´,Kohensinintercept,Skjuvhållfasthet*
+,[kN/m3],[ﹾ],c´ [kPa],"Τ [kPa]
+fuk"
+Fyllning norr om mosse,19/9,30,"3,5",35
+Fyllning mosse bakom,"19/9 över +32,5",30,3,30
+släntkrön,"18,5/8,5 under",,,
+,"+32,5",,,
+Fyllning mosse nedan,"18,5/8,5",30,"1,5",15
+släntkrön,,,,
+Sprängstensvall/arbetsväg,18/11,37,-,-
+Lera norr om mosse,19/9,30,"3,5",35
+Lera mosse bakom,"15,5/5,5 över",30,"10% av Τ
+fu",15 vid +28
+släntkrön,+24,,,22 vid +20
+,"17,5/7,5 under",,,"26,7 vid +15"
+,+24,,,
+Lera mosse nedan,"15,5/5,5 över",30,"10% av Τ
+fu",12 vid +30
+släntkrön,+24,,,10 vid +27
+,"17,5/7,5 under",,,9 vid +26
+,+24,,,"15,5 vid +22"
+,,,,"20 vid +15,5"
+Lera mosse släntfot,"15,5/5,5 över",30,"10% av Τ
+fu",12 vid +28
+fyllning,+24,,,7 vid +27
+,"17,5/7,5 under",,,6 vid +26
+,+24,,,"15,5 vid +22"
+,,,,"20 vid +15,5"
+Sandmorän,20/11,35,-,-

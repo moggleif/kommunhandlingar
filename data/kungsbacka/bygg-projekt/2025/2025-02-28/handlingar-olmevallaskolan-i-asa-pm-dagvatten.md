@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b21d95/1740734472
 sha256: 2e66b2d67895d85cd7a9b18e287699d9a111936fd9ca60bc64993164d069f5e1
 bytes: 2283193
 sidor: 38
-hamtad: 2026-11-13T17:14:31+00:00
-konverterad: 2026-11-13T17:14:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:09:14+00:00
+konverterad: 2026-11-20T11:09:27+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -685,7 +685,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 13-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/13-1.csv)
 
-| Markanvändning Befintlig [m2] Planerad [m2] |  |  |
+| Markanvändning | Befintlig [m2] | Planerad [m2] |
 | --- | --- | --- |
 | Skolområde | 10 490 | 13 936 |
 | Körbana/parkering | 3 446 | - |
@@ -810,7 +810,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 17-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/17-1.csv)
 
-| Tekniska delavrinningsområden<br>Befintlig situation φ<br>Skolområde Återvinningscentral |  |  |  |
+| Befintlig situation | Tekniska delavrinningsområden |  | φ |
 | --- | --- | --- | --- |
 |  | Skolområde | Återvinningscentral |  |
 | Körbana [ha] | 0,34 |  | 0,85 |
@@ -869,7 +869,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 18-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/18-1.csv)
 
-| Tekniska delavrinningsområden<br>Planerad situation φ<br>Skolområde Återvinningscentral |  |  |  |
+| Planerad situation | Tekniska delavrinningsområden |  | φ |
 | --- | --- | --- | --- |
 |  | Skolområde | Återvinningscentral |  |
 | Skolområde [ha] | 1,39 |  | 0,56\* |
@@ -932,7 +932,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 19-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/19-1.csv)
 
-| Skillnad<br>Erforderlig mellan<br>Erforderlig<br>fördröjnings- renande och<br>Markanvändning/ Reducerad fördröjnings-<br>volym, total<br>Tekniska delavrinningsområden Area [ha] volym, 10 mm<br>[m3] naturmarks- fördröjnings-<br>avrinning [m3] volym [m3] |  |  |  |  |
+| Markanvändning/<br>Tekniska delavrinningsområden | Reducerad<br>Area [ha] | Erforderlig<br>fördröjnings-<br>volym, 10 mm<br>[m3] | Erforderlig<br>fördröjnings-<br>volym,<br>naturmarks-<br>avrinning [m3] | Skillnad<br>mellan<br>renande och<br>total<br>fördröjnings-<br>volym [m3] |
 | --- | --- | --- | --- | --- |
 | Skolområde: Byggnad | 0,18 | 18 |  |  |
 | Skolområde: Friyta | 0,60 | 60 |  |  |
@@ -1304,7 +1304,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 31-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/31-1.csv)
 
-| Skillnad mellan befintlig<br>Planerad situation Planerad situation<br>Befintlig och planerad situation<br>Ämne Enhet utan med föreslagen<br>situation efter föreslagna<br>dagvattenåtgärder dagvattenhantering<br>dagvattenåtgärder |  |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation<br>med föreslagen<br>dagvattenhantering | Skillnad mellan befintlig<br>och planerad situation<br>efter föreslagna<br>dagvattenåtgärder |
 | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 2,2 | 2,0 | 1,1 | -1,1 |
 | Kväve (N) | kg/år | 18 | 16 | 8,6 | -9,4 |
@@ -1344,7 +1344,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 32-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/32-1.csv)
 
-| Riktlinjer Riktlinjer<br>Planerad situation Planerad situation Göteborgs Varbergs<br>Befintlig<br>Ämne Enhet utan med föreslagen kommun. och<br>situation<br>dagvattenåtgärder dagvattenhantering Övriga Falkenbergs<br>recipienter. kommun |  |  |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation<br>med föreslagen<br>dagvattenhantering | Riktlinjer<br>Göteborgs<br>kommun.<br>Övriga<br>recipienter. | Riktlinjer<br>Varbergs<br>och<br>Falkenbergs<br>kommun |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 200 | 200 | 110 | 150 | 200 |
 | Kväve (N) | µg/l | 1 600 | 1500 | 840 | 2 500 | 3 000 |
@@ -1451,7 +1451,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 34-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/34-1.csv)
 
-| Anläggning Lägsta Schablonkostnad Högsta Enhet<br>kostnad kostnad |  |  |  |  |
+| Anläggning | Lägsta<br>kostnad | Schablonkostnad | Högsta<br>kostnad | Enhet |
 | --- | --- | --- | --- | --- |
 | Växtbädd | 5 600 | 10 000 | 18 000 | Kr/m2 |
 | Torrdamm | 500 | 700 | 900 | Kr/m3 |
@@ -1474,14 +1474,14 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 35-1](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/35-1.csv)
 
-| Anläggning Beskrivning Kostnad Enhet Källa<br>av drift drift och<br>underhåll |  |  |  |  |
+| Anläggning | Beskrivning<br>av drift | Kostnad<br>drift och<br>underhåll | Enhet | Källa |
 | --- | --- | --- | --- | --- |
 | Växtbädd | Skötsel av<br>växter 2<br>ggr/år | 25 | kr/m2/år | WRS,<br>2016 |
 | Torrdamm | - | 5% av<br>anläggningskostnaden |  | Ramboll,<br>2014 |
 
 [Tabell 35-2](handlingar-olmevallaskolan-i-asa-pm-dagvatten.tabeller/35-2.csv)
 
-| Delområde Dagvattenanläggning Dimension Anläggningskostnad Drift- och<br>(kr) skötselkostnad<br>(kr/år) |  |  |  |  |
+| Delområde | Dagvattenanläggning | Dimension | Anläggningskostnad<br>(kr) | Drift- och<br>skötselkostnad<br>(kr/år) |
 | --- | --- | --- | --- | --- |
 | Skolområde<br>(privata<br>anläggningar<br>på<br>kvartersmark) | Växtbäddar | 390 m2 | 3 900 000 | 9 750 |
 | Torrdamm<br>(allmän<br>anläggning<br>på<br>kvartersmark) | Torrdamm | 3 760 m3 | 2 632 000 | 131 600 |

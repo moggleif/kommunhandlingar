@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b20b5a/1740730970
 sha256: 2bb58be0344ab7f1cd555b2deafa6f4a0e5a509fa4ef9f18e60b942777b3e478
 bytes: 16625268
 sidor: 72
-hamtad: 2026-11-13T17:12:29+00:00
-konverterad: 2026-11-13T17:13:38+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:07:08+00:00
+konverterad: 2026-11-20T11:08:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 48, 53, 54, 55, 57, 58, 59, 67, 68]
 figurer: [1, 2, 4, 5, 6, 8, 9, 12, 13, 14, 15, 16, 17, 18, 19, 20, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 43, 45, 48, 60, 61, 62, 63, 64, 65, 66, 69, 70, 71, 72]
 tolkade: []
@@ -52,16 +52,23 @@ Handläggare:        Elham Sokhango / David Jonasson
 
 Stockalid 1:9, Kungsbacka 108 83 69 Geoteknisk utredning för detaljplan
 
-1.0   2024-04-03 Färdig handling        Elham    Daniel   Katarina
-Sokhango/ Strandberg Engerberg
-David Jonasson
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 \\\norconsultad.com\dfs\swe\stockholm\n-data\108\83\1088369\5 arbetsmaterial\01 dokument\g\pm\pm geoteknik 2024-04-03 | Sida 2 av 24
 stockalid 1_9.docx
+
+[Tabell 2-1](handlingar-bostader-i-klappa-geoteknisk-utredning-stockalid.tabeller/2-1.csv)
+
+| 2024-04-03 | Färdig handling | Elham | Daniel | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango/ | Strandberg | Engerberg |
+|  |  | David Jonasson |  |  |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -340,22 +347,6 @@ Utförda stabilitetsberäkningar visar att säkerhetsfaktorn för släntstabilit
 stabilitetsrekommendationerna för en detaljerad stabilitetsutredning enligt IEG rapport 4:2010, se tabell 3.
 Tabell 3: Sammanställning av beräkningsresultat för blivande förhållanden, totalsäkerhetsanalys
 
-Sektion Befintliga förhållanden Planerade förhållanden Erforderlig säkerhetsfaktor
-A-A         F = 1,85         F = 1,69             F ≥1,7
-c                c                    c
-F komb = 1,85    F komb = 1,69        F komb ≥1,5
-F∅≥1,3
-B-B         F = 2,29         F = 1,84             F ≥1,7
-c                c                    c
-F   = 2,29       F   = 1,84           F  ≥1,5
-komb             komb                 komb
-F∅≥1,3
-C-C         F = 3,33         F = 1,82             F ≥1,7
-c                c                    c
-F   = 2,03       F   = 2,01           F  ≥1,5
-komb             komb                 komb
-F∅≥1,3
-
 Glidytan för befintliga samt planerade förhållanden går genom det översta friktionslagrat i sektion A samt
 sektion B och innebär att stabiliteten som presenteras i ovanstående diagram är uppfylld. Beräkningarna som
 utförts i läge för sektion C visar på god säkerhet mot skred för befintliga samt planerade förhållanden, se
@@ -372,6 +363,18 @@ ge en indikation på lerans spänningssituation. Enligt utvärdering av CPT-sond
 
 \\\norconsultad.com\dfs\swe\stockholm\n-data\108\83\1088369\5 arbetsmaterial\01 dokument\g\pm\pm geoteknik 2024-04-03 | Sida 11 av 24
 stockalid 1_9.docx
+
+[Tabell 11-1](handlingar-bostader-i-klappa-geoteknisk-utredning-stockalid.tabeller/11-1.csv)
+
+| Sektion | Befintliga förhållanden | Planerade förhållanden | Erforderlig säkerhetsfaktor |
+| --- | --- | --- | --- |
+| A-A | F = 1,85<br>c | F = 1,69<br>c | F ≥1,7<br>c<br>F ≥1,5<br>komb<br>F∅≥1,3 |
+|  | F = 1,85<br>komb | F = 1,69<br>komb |  |
+|  |  |  |  |
+| B-B | F = 2,29<br>c | F = 1,84<br>c | F ≥1,7<br>c<br>F ≥1,5<br>komb<br>F∅≥1,3 |
+|  | F = 2,29<br>komb | F = 1,84<br>komb |  |
+| C-C | F = 3,33<br>c | F = 1,82<br>c | F ≥1,7<br>c<br>F ≥1,5<br>komb<br>F∅≥1,3 |
+|  | F = 2,03<br>komb | F = 2,01<br>komb |  |
 
 <!-- sida 12 -->
 
@@ -1336,15 +1339,22 @@ Handläggare:        Elham Sokhango
 
 Stockalid 1:9, Kungsbacka. 108 83 69 Geoteknisk utredning för detaljplan
 
-1.0   2024-04-03 Färdig handling        Elham    Daniel   Katarina
-Sokhango Strandberg Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 \\\norconsultad.com\dfs\swe\stockholm\n-data\108\83\1088369\5 arbetsmaterial\01 dokument\g\mur\mur geoteknik 2024-04-03 | Sida 2 av 8
 stockalid 1_9.docx
+
+[Tabell 41-1](handlingar-bostader-i-klappa-geoteknisk-utredning-stockalid.tabeller/41-1.csv)
+
+| 2024-04-03 | Färdig handling | Elham | Daniel | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango | Strandberg | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 42 -->
 
@@ -1452,7 +1462,8 @@ stockalid 1_9.docx
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 44-2](handlingar-bostader-i-klappa-geoteknisk-utredning-stockalid.tabeller/44-2.csv)
@@ -1461,7 +1472,8 @@ stockalid 1_9.docx
 | --- | --- |
 | Slagsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 | CPT-sondering | SS-EN ISO 22476–1:2023 |
-| Jordbergsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 och<br>4:2012 |
+| Jordbergsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 och |
+|  | 4:2012 |
 | Skruvprovtagning | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 | Sticksondering | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 
@@ -1469,7 +1481,8 @@ stockalid 1_9.docx
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO<br>14688-2:2004 samt BFR T21:1982 |
+| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO |
+|  | 14688-2:2004 samt BFR T21:1982 |
 | Vattenkvot | SS 027116, utgåva 3 |
 | Skrymdensitet | SIS-CEN ISO/TS 17892-2:2005 |
 | Konförsök | ISO/TS 17892-6:2004 |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d6eaf3/177425477472
 sha256: c1d84717ee786fb51f7930daa06f912d33b93037f5aa3ae651764a236cb93676
 bytes: 6522121
 sidor: 50
-hamtad: 2026-11-15T09:06:57+00:00
-konverterad: 2026-11-15T09:07:13+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-20T12:48:24+00:00
+konverterad: 2026-11-20T12:48:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 6, 7, 9, 11, 12, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27, 28, 29, 34, 38, 47, 49, 50]
 tolkade: []
@@ -402,20 +402,6 @@ Kungsbacka kommun      Mobilitet och parkering för Kungsbacka sportcenter 12 (5
 <!-- sida 13 -->
 
 Tabell 1 Publikkapacitet inom Kungsbacka sportcenter och Kungsbacka teater.
-Plats                                        Antal möjliga
-besökare per
-målpunkt
-Kungsbacka teater, föreställning             500
-
-Kungsbacka sporthall A, match                1000
-Kungsbacka ishall, match                     2200
-Kungsbacka boulehall, tävling                200
-Kungsbacka badhus, tävling (maxantal i 50m-bassängdelen och 1000
-75 % beläggning i övriga delar, inkl. anställda)
-Kungsbacka arena, stora Hallen, stort evenemang (match 2500/5500
-sittande publik/konsert stående publik)
-Kungsbacka arena, lilla Hallen, match        200
-Kungsbacka arena, fotbollsplanen, match (en läktare/två läktare) 1000/3000
 
 Utöver byggnaderna är idrottsparken, utomhusplanerna och utemiljöerna längs
 Kungsbackaån målpunkter som attraherar besökare, framför allt under vår, sommar
@@ -452,16 +438,22 @@ vardag dagtid, vardag kvällstid (måndag – torsdag) och helg (fredag kväll �
 
 Kungsbacka kommun      Mobilitet och parkering för Kungsbacka sportcenter 13 (50)
 
+[Tabell 13-1](handlingar-detaljplan-for-kungsbacka-arena-atgardsplan-for-tillgangliga-evenemang.tabeller/13-1.csv)
+
+| Plats | Antal möjliga<br>besökare per<br>målpunkt |
+| --- | --- |
+| Kungsbacka teater, föreställning | 500 |
+| Kungsbacka sporthall A, match 1000 |  |
+| Kungsbacka ishall, match | 2200 |
+| Kungsbacka boulehall, tävling 200 |  |
+| Kungsbacka badhus, tävling (maxantal i 50m-bassängdelen och<br>75 % beläggning i övriga delar, inkl. anställda) | 1000 |
+| Kungsbacka arena, stora Hallen, stort evenemang (match 2500/5500<br>sittande publik/konsert stående publik) |  |
+| Kungsbacka arena, lilla Hallen, match | 200 |
+| Kungsbacka arena, fotbollsplanen, match (en läktare/två läktare) 1000/3000 |  |
+
 <!-- sida 14 -->
 
 Tabell 2 Uppskattad mängd personer i arenabyggnaden då inga evenemang pågår, uppdelat på en vecka.
-Vardag   Vardag  Lördag/Söndag
-8–16    16–22  (även fredag kväll)
-Anställda  130       22        22
-Besökare   280      300        450
-Antal personer som vistas
-i Kungsbacka arena samtidigt (när 410 320       470
-inga evenemang pågår)
 
 För annexbyggnaden är både innehållet och tidpunkten för byggnation mycket
 osäker. Byggrätten som medges i detaljplanen är 8500 BTA med användningen
@@ -493,6 +485,14 @@ annexet i en vardagssituation.
 6 Boverkets byggregler (2011:6) – föreskrifter och allmänna råd, BBR
 
 Kungsbacka kommun      Mobilitet och parkering för Kungsbacka sportcenter 14 (50)
+
+[Tabell 14-1](handlingar-detaljplan-for-kungsbacka-arena-atgardsplan-for-tillgangliga-evenemang.tabeller/14-1.csv)
+
+|  | Vardag<br>8–16 | Vardag<br>16–22 | Lördag/Söndag<br>(även fredag kväll) |
+| --- | --- | --- | --- |
+| Anställda | 130 | 22 | 22 |
+| Besökare | 280 | 300 | 450 |
+| Antal personer som vistas<br>i Kungsbacka arena samtidigt (när<br>inga evenemang pågår) | 410 | 320 | 470 |
 
 <!-- sida 15 -->
 
@@ -740,31 +740,6 @@ bilparkering bli enligt Tabell 5.
 
 Tabell 4 Beräknad mängd cykelparkering kopplat till arenabyggnaden då inga evenemang pågår, uppdelat
 på en vecka och antagande om cykelandel på 13 % (50 % för skolidrott).
-Vardag 8-16 Vardag 16- Lördag/Söndag
-22      (även fredag
-kväll)
-
-Kommunala ytor
-
-```osaker-tabell
-         Verksamma     8         0          0
-
-           Besökare   75        20          20
-Summa kommersiella ytor 83      20          20
-```
-
-Kommersiella ytor
-
-```osaker-tabell
-         Verksamma    10         3          3
-           Besökare   16        20          39
-
-Summa kommersiella ytor 26      22          42
-```
-
-Totalsumma total efterfrågan på
-cykelparkering vid en cykelandel 110 40        60
-om 13 % (50 % för skolidrott)
 
 14 Medel för bilandel avseende områdena i Kungsbacka stad enligt senaste genomförda
 resvaneundersökning (2017) i Kungsbacka kommun.
@@ -772,34 +747,24 @@ resvaneundersökning (2017) i Kungsbacka kommun.
 
 Kungsbacka kommun      Mobilitet och parkering för Kungsbacka sportcenter 21 (50)
 
+[Tabell 21-1](handlingar-detaljplan-for-kungsbacka-arena-atgardsplan-for-tillgangliga-evenemang.tabeller/21-1.csv)
+
+|  | Vardag 8-16 | Vardag 16-<br>22 | Lördag/Söndag<br>(även fredag<br>kväll) |
+| --- | --- | --- | --- |
+| Kommunala ytor |  |  |  |
+| Verksamma | 8 | 0 | 0 |
+| Besökare | 75 | 20 | 20 |
+| Summa kommersiella ytor | 83 | 20 | 20 |
+| Kommersiella ytor |  |  |  |
+| Verksamma | 10 | 3 | 3 |
+| Besökare | 16 | 20 | 39 |
+| Summa kommersiella ytor | 26 | 22 | 42 |
+| Totalsumma total efterfrågan på<br>cykelparkering vid en cykelandel<br>om 13 % (50 % för skolidrott) | 110 | 40 | 60 |
+
 <!-- sida 22 -->
 
 Tabell 5 Beräknad mängd bilparkering kopplat till arenabyggnaden då inga evenemang pågår, uppdelat
 på en vecka och antagande om bilandel på 57 %. (10 % för skolidrott dagtid).
-Vardag 8-16 Vardag 16- Lördag/Söndag
-22      (även fredag
-kväll)
-Kommunala ytor
-
-```osaker-tabell
-        Verksamma     6         1          1
-          Besökare   44        86          86
-
-Summa kommunala ytor 49        87          87
-```
-
-Kommersiella ytor
-
-```osaker-tabell
-         Verksamma    46        11          11
-           Besökare   69        86         172
-
-Summa kommersiella ytor 114     97         183
-```
-
-Summa total efterfrågan på
-bilparkering vid en bilandel på 160 180       270
-57 % (50 % för skolidrott)
 
 Annexets högst osäkra innehåll gör det tillkommande behovet av parkering
 svårbedömt. För att inte riskera att omöjliggöra någon verksamhet att etablera sig har
@@ -813,16 +778,7 @@ antaganden ger ett uppskattat behov i antal cykel- respektive bilparkeringar som
 annexbyggnaden medför, se Tabell 6.
 
 Tabell 6 Uppskattad mängd cykel- respektive bilparkering kopplat till annexbyggnaden.
-Vardag 8-16 Vardag 16-22 Lördag/Söndag
-(även fredag
-kväll)
 
-Cykelparkeringsbehov som
-110         40          60
-annexet genererar
-Bilparkeringsbehov som
-400        130         180
-annexet genererar
 2.6.2 Cykel- och mopedparkering
 Cykel- och mopedparkering finns idag i närheten av entréer till verksamheter i
 området. I nuläget finns det totalt 670 parkeringsplatser för cykel i området fördelade
@@ -830,6 +786,27 @@ på ytorna i Figur 9. Närmast arenatorget och vid badhuset finns totalt 132 pla
 varav 32 är väderskyddade.
 
 Kungsbacka kommun      Mobilitet och parkering för Kungsbacka sportcenter 22 (50)
+
+[Tabell 22-1](handlingar-detaljplan-for-kungsbacka-arena-atgardsplan-for-tillgangliga-evenemang.tabeller/22-1.csv)
+
+|  | Vardag 8-16 | Vardag 16-<br>22 | Lördag/Söndag<br>(även fredag<br>kväll) |
+| --- | --- | --- | --- |
+| Kommunala ytor |  |  |  |
+| Verksamma | 6 | 1 | 1 |
+| Besökare | 44 | 86 | 86 |
+| Summa kommunala ytor | 49 | 87 | 87 |
+| Kommersiella ytor |  |  |  |
+| Verksamma | 46 | 11 | 11 |
+| Besökare | 69 | 86 | 172 |
+| Summa kommersiella ytor | 114 | 97 | 183 |
+| Summa total efterfrågan på<br>bilparkering vid en bilandel på<br>57 % (50 % för skolidrott) | 160 | 180 | 270 |
+
+[Tabell 22-2](handlingar-detaljplan-for-kungsbacka-arena-atgardsplan-for-tillgangliga-evenemang.tabeller/22-2.csv)
+
+|  | Vardag 8-16 | Vardag 16-22 | Lördag/Söndag<br>(även fredag<br>kväll) |
+| --- | --- | --- | --- |
+| Cykelparkeringsbehov som<br>annexet genererar | 110 | 40 | 60 |
+| Bilparkeringsbehov som<br>annexet genererar | 400 | 130 | 180 |
 
 <!-- sida 23 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b20b59/1740730970
 sha256: 32d407eac94370603baa2bdf7785858b805d822e6b3acf95946fa41e1be62ac0
 bytes: 4520736
 sidor: 20
-hamtad: 2026-11-13T17:12:20+00:00
-konverterad: 2026-11-13T17:12:29+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:07:00+00:00
+konverterad: 2026-11-20T11:07:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -51,14 +51,21 @@ Handläggare bergteknik: Isabell Dinger
 
 Geoteknisk utredning 108 34 98 Detaljplan Kläppa 1:12 mfl
 
-1.0   2022-09-23                     Isabell Dinger Gustav Hallabro Christoffer Kall
-Edina Smlatic Katarina Engerberg
-Version Datum Beskrivning            Upprättat Granskat   Godkänt
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 2022-09-23 | Sida 2 av 20
+
+[Tabell 2-1](handlingar-bostader-i-klappa-geoteknisk-utredning-for-klappa-112-mfl.tabeller/2-1.csv)
+
+| 2022-09-23 |  | Isabell Dinger | Gustav Hallabro | Christoffer Kall |
+| --- | --- | --- | --- | --- |
+|  |  | Edina Smlatic | Katarina Engerberg |  |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

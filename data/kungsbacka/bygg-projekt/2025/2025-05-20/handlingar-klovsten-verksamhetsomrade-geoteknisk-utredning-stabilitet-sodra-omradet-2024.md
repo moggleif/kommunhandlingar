@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce88/1747745786
 sha256: 379994f80d2b243770cb3404d4e6503ecad52ed63bff7d2136bb36de0b49c360
 bytes: 6777396
 sidor: 30
-hamtad: 2026-11-13T17:30:43+00:00
-konverterad: 2026-11-13T17:32:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:31:59+00:00
+konverterad: 2026-11-20T11:33:22+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: [17, 18, 19, 20]
 figurer: [1, 2, 4, 6, 7, 8, 12, 16, 17, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 30]
 tolkade: []
@@ -370,43 +370,44 @@ Skjuvhållfastheten i fyllning nedan släntkrön har satts till 50 % av vad som 
 uppgifter saknas.
 
 Tabell 1 Parameterval stabilitetsberäkning
-Jordlager       Tunghet γ/γ´ Friktionsvinkel φ´ Kohensinintercept Skjuvhållfasthet\*
-[kN/m3]    [ﹾ]         c´ [kPa]    Τ
-fuk
-[kPa]
-Fyllning norr om mosse 19/9 30         3,5         35
-Fyllning mosse bakom 19/9 över +32,5 30 3          30
-släntkrön       18,5/8,5 under
-+32,5
-Fyllning mosse nedan 18,5/8,5 30       1,5         15
-släntkrön
-Sprängstensvall/arbetsväg 18/11 37     -           -
-Lera norr om mosse 19/9    30          3,5         35
-Lera mosse bakom 15,5/5,5 över 30      10% av Τ    15 vid +28
-fu
-släntkrön       +24                                22 vid +20
-17,5/7,5 under                     26,7 vid +15
-+24
-Lera mosse nedan 15,5/5,5 över 30      10% av Τ    12 vid +30
-fu
-släntkrön       +24                                10 vid +27
-17,5/7,5 under                     9 vid +26
-+24                                15,5 vid +22
-20 vid +15,5
-Lera mosse släntfot 15,5/5,5 över 30   10% av Τ    12 vid +28
-fu
-fyllning        +24                                7 vid +27
-17,5/7,5 under                     6 vid +26
-+24                                15,5 vid +22
-20 vid +15,5
-Sandmorän       20/11      35          -           -
+
 \*Interpolering utförs mellan givna värden i både längd och djupled
 Grundvattenytan har antagits ligga strax under markytan i mossen, hålla samma nivå i den permeabla
 sprängstensvallen för att därefter stiga till att ligga 3 m under markytan i bakkant tidigare mosse.
+
 Beräkningarna har utförts med en meter djup vattenfylld markspricka. För mark inom exploateringsområdet
 har en utbredd last på 20 kPa antagits. Framförvarande mark har vid beräkning förutsatts vara obelastad.
 
 n:\108\82\1088233\5 arbetsmaterial\01 dokument\g\pm\pm stabilitet klovsten.docx 2024-02-23 | Sida 13 av 15
+
+[Tabell 13-1](handlingar-klovsten-verksamhetsomrade-geoteknisk-utredning-stabilitet-sodra-omradet-2024.tabeller/13-1.csv)
+
+| Jordlager | Tunghet γ/γ´ | Friktionsvinkel φ´ | Kohensinintercept | Skjuvhållfasthet\* |
+| --- | --- | --- | --- | --- |
+|  | [kN/m3] | [ﹾ] | c´ [kPa] | Τ [kPa]<br>fuk |
+| Fyllning norr om mosse | 19/9 | 30 | 3,5 | 35 |
+| Fyllning mosse bakom | 19/9 över +32,5 | 30 | 3 | 30 |
+| släntkrön | 18,5/8,5 under |  |  |  |
+|  | +32,5 |  |  |  |
+| Fyllning mosse nedan | 18,5/8,5 | 30 | 1,5 | 15 |
+| släntkrön |  |  |  |  |
+| Sprängstensvall/arbetsväg | 18/11 | 37 | - | - |
+| Lera norr om mosse | 19/9 | 30 | 3,5 | 35 |
+| Lera mosse bakom | 15,5/5,5 över | 30 | 10% av Τ<br>fu | 15 vid +28 |
+| släntkrön | +24 |  |  | 22 vid +20 |
+|  | 17,5/7,5 under |  |  | 26,7 vid +15 |
+|  | +24 |  |  |  |
+| Lera mosse nedan | 15,5/5,5 över | 30 | 10% av Τ<br>fu | 12 vid +30 |
+| släntkrön | +24 |  |  | 10 vid +27 |
+|  | 17,5/7,5 under |  |  | 9 vid +26 |
+|  | +24 |  |  | 15,5 vid +22 |
+|  |  |  |  | 20 vid +15,5 |
+| Lera mosse släntfot | 15,5/5,5 över | 30 | 10% av Τ<br>fu | 12 vid +28 |
+| fyllning | +24 |  |  | 7 vid +27 |
+|  | 17,5/7,5 under |  |  | 6 vid +26 |
+|  | +24 |  |  | 15,5 vid +22 |
+|  |  |  |  | 20 vid +15,5 |
+| Sandmorän | 20/11 | 35 | - | - |
 
 <!-- sida 14 -->
 

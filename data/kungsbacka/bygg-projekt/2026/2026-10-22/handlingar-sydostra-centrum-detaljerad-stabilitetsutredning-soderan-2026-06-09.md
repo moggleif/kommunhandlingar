@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5d11361a163262936179a/1792670407665
 sha256: f1b06afb46afc315e210e1ec558449b56d2d674479f95965ab041520ce607617
 bytes: 20815449
 sidor: 61
-hamtad: 2026-11-15T09:36:38+00:00
-konverterad: 2026-11-15T09:38:01+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:24:49+00:00
+konverterad: 2026-11-20T13:26:13+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, tabell-osaker, tabell-osaker, ok, ok, ok]
@@ -52,23 +52,37 @@ Handläggare:        Elham Sokhango
 
 Sydöstra centrum E1, Söderå fördjupad stabilitetsutredning 107 47 61 PM Geoteknik
 
-2.1   2026-06-09 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-2.0   2025-10-07 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
+2.1
 
-1.2   2023-02-10 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.1   2021-11-22 Reviderad handling     Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-1.0   2021-10-11 Färdig handling        Elham    Katarina Katarina
-Sokhango Engerberg Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+2.0
+
+1.2
+
+1.1
+
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 | Sida 2 av 22
+
+[Tabell 2-1](handlingar-sydostra-centrum-detaljerad-stabilitetsutredning-soderan-2026-06-09.tabeller/2-1.csv)
+
+| 2026-06-09 | Reviderad handling | Elham | Katarina | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2025-10-07 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2023-02-10 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-11-22 | Reviderad handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| 2021-10-11 | Färdig handling | Elham | Katarina | Katarina |
+|  |  | Sokhango | Engerberg | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

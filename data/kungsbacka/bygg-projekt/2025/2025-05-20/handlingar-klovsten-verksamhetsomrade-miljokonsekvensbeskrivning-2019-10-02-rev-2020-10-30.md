@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce8e/1747745787
 sha256: f80de55493f6aec56cf1fb1a46586ea334eca473a423b1fac7b7e49315a581e5
 bytes: 2958714
 sidor: 40
-hamtad: 2026-11-13T17:33:15+00:00
-konverterad: 2026-11-13T17:33:24+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:34:16+00:00
+konverterad: 2026-11-20T11:34:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -658,12 +658,21 @@ Tabell 3.2 Beräknade halter vid nollalternativ, detaljplan med rening samt öka
 
 [Tabell 18-1](handlingar-klovsten-verksamhetsomrade-miljokonsekvensbeskrivning-2019-10-02-rev-2020-10-30.tabeller/18-1.csv)
 
-| Ämne | P | N | Pb | Cu | Zn | Cd | Cr | Ni | Hg | SS | Oil | PAH<br>16 | BaP |
+| Ämne | P | N | Pb | Cu | Zn | Cd | Cr | Ni | Hg | SS |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nollalternativet<br>Klovsten östra (µg/l) | 160 | 1 500 | 14 | 26 | 130 | 0,60 | 8,4 | 10 | 0,050 | 66 000 | 1 300 | 0,70 | 0,061 |
+|  |  |  |  |  |  |  |  |  |  |  | Oil | PAH | BaP |
+|  |  |  |  |  |  |  |  |  |  |  |  | 16 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nollalternativet<br>Klovsten östra (µg/l) | 160 | 1 500 | 14 | 26 | 130 | 0,60 | 8,4 | 10 | 0,050 | 66 000 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | 1 300 | 0,70 | 0,061 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Föreslagen<br>detaljplan, Klovsten<br>östra, med rening i<br>OA (µg/l) | 190 | 1 700 | 15 | 25 | 100 | 0,79 | 6,7 | 7,4 | 0,051 | 67 000 | 180 | 0,60 | 0,061 |
-| Skillnad i halt (µg/l) | 30 | 200 | 1 | -1 | -30 | 0,19 | -1,7 | -2,6 | 0,001 | 1 000 | -1 120 | -0,1 | +/-0 |
-| Ökad mängd av<br>ämne (kg/år) | 2,3 | 20 | 0,16 | 0,19 | 0,3 | 0,012 | 0,02 | -0,01 | 0,0005 | 600 | -30,2 | +0,03 | +0,05 |
+| Skillnad i halt (µg/l) | 30 | 200 | 1 | -1 | -30 | 0,19 | -1,7 | -2,6 | 0,001 | 1 000 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | -1 120 | -0,1 | +/-0 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ökad mängd av<br>ämne (kg/år) | 2,3 | 20 | 0,16 | 0,19 | 0,3 | 0,012 | 0,02 | -0,01 | 0,0005 | 600 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | -30,2 | +0,03 | +0,05 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 19 -->
 
@@ -709,12 +718,21 @@ föroreningsbelastningen från delområde Öst bygger på detta antagande.
 
 [Tabell 19-1](handlingar-klovsten-verksamhetsomrade-miljokonsekvensbeskrivning-2019-10-02-rev-2020-10-30.tabeller/19-1.csv)
 
-| Ämne | P | N | Pb | Cu | Zn | Cd | Cr | Ni | Hg | SS | Oil | PAH<br>16 | BaP |
+| Ämne | P | N | Pb | Cu | Zn | Cd | Cr | Ni | Hg | SS |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Nollalternativet<br>Klovsten västra<br>(µg/l) | 160 | 1 600 | 14 | 25 | 130 | 0,70 | 6,6 | 7,8 | 0,038 | 50 000 | 1 100 | 0,93 | 0,070 |
+|  |  |  |  |  |  |  |  |  |  |  | Oil | PAH | BaP |
+|  |  |  |  |  |  |  |  |  |  |  |  | 16 |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Nollalternativet<br>Klovsten västra<br>(µg/l) | 160 | 1 600 | 14 | 25 | 130 | 0,70 | 6,6 | 7,8 | 0,038 | 50 000 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | 1 100 | 0,93 | 0,070 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Föreslagen<br>detaljplan, Klovsten<br>västra, med rening i<br>OA (µg/l) | 110 | 1 200 | 7,5 | 16 | 73 | 0,63 | 2,9 | 5,4 | 0,033 | 21 000 | 100 | 0,23 | 0,033 |
-| Skillnad i halt(µg/l) | -50 | -400 | -6,5 | -9 | -57 | -0,07 | -3,7 | -2,4 | -0,005 | -29 000 | -1 000 | -0,7 | -0,037 |
-| Ökad mängd av<br>ämne (kg/år) | -1 | -10 | -0,38 | -0,4 | -4 | 0,011 | -0,28 | -0,08 | 0,0004 | -2 200 | -98 | -0,06 | -0,0025 |
+| Skillnad i halt(µg/l) | -50 | -400 | -6,5 | -9 | -57 | -0,07 | -3,7 | -2,4 | -0,005 | -29 000 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | -1 000 | -0,7 | -0,037 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Ökad mängd av<br>ämne (kg/år) | -1 | -10 | -0,38 | -0,4 | -4 | 0,011 | -0,28 | -0,08 | 0,0004 | -2 200 |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  | -98 | -0,06 | -0,0025 |
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 <!-- sida 20 -->
 

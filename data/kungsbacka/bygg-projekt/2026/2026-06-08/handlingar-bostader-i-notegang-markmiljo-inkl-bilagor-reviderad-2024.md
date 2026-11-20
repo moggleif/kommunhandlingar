@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323495459/1780901975
 sha256: ac46c5ab7efdbf49794226e160f85ba00bddb619199f58dd645fdb9883a3b9a4
 bytes: 9167349
 sidor: 68
-hamtad: 2026-11-15T09:25:08+00:00
-konverterad: 2026-11-15T09:25:30+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:10:51+00:00
+konverterad: 2026-11-20T13:11:17+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -964,8 +964,8 @@ Projekt: MTU Nötegång                            Bilaga 3b
 
 | SGU:s bedömningsgrunder (1) |  |  | Tillståndsklass |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  |  | 1 | 2 | 3 | 4 | 5 | Utgångs-<br>punkt för att<br>vända trend | 23E04GV | 23E08GV | 23E11GV |
-| Metaller |  | Enhet | Mycket låg<br>halt | Låg halt | Måttlig halt | Hög halt | Mycket hög<br>halt |  |  |  |  |
+|  |  |  | 1 | 2 | 3 | 4 | 5 | Utgångs- |  |  |  |
+| Metaller |  | Enhet | Mycket låg<br>halt | Låg halt | Måttlig halt | Hög halt | Mycket hög<br>halt | punkt för att<br>vända trend | 23E04GV | 23E08GV | 23E11GV |
 | As | Arsenik | µg/l | <1 | 1-2 | 2-5 | 5-10 | ≥10 | 5 | 1,06 | 1,02 | 0,734 |
 | Ba | Barium | µg/l | - | - | - | - | - | - | 19,5 | 21,8 | 37 |
 | Cd | Kadmium | µg/l | <0,1 | 0,1-0,5 | 0,5-1 | 1-5 | ≥5 | 2 | <0,05 | 0,1 | <0,05 |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f75339/1747639303
 sha256: 9aca8bf5b8f2948f74ec438e3bb5f051e1e09c50cf25c0d7932f625a20d8651f
 bytes: 1721917
 sidor: 33
-hamtad: 2026-11-13T17:25:09+00:00
-konverterad: 2026-11-13T17:25:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:25:04+00:00
+konverterad: 2026-11-20T11:25:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -597,10 +597,9 @@ UPPDRAGSNUMMER            DATUM
 
 Naturvärdesbiotop 1              Naturvärdesklass 4 - visst naturvärde
 
-Naturtyp: Naturlig gräsmark      Areal (ha): 0,19         -
-Biotoptyp: gles träd- och buskridå Datum: 9/4, 16/4, 15/5 och 28/5 2024 -
-Inventerare: Agneta Olsson och -
-Andreas H. Skymberg
+Naturtyp: Naturlig gräsmark                               -
+Biotoptyp: gles träd- och buskridå                        -
+\-
 
 Beskrivning: En stenmur står i centrum för detta
 områdes avlånga sträckning. Runt stenmuren har
@@ -629,6 +628,14 @@ Motivering: Visst biotopvärde med få värdearter men hög artrikedom
 
 10369835 • Utredning av naturvärden för detaljplan inom Rågelund | 18
 
+[Tabell 18-1](handlingar-bostader-i-ragelund-naturvardesinventerinng.tabeller/18-1.csv)
+
+|  | Areal (ha): 0,19 |
+| --- | --- |
+|  | Datum: 9/4, 16/4, 15/5 och 28/5 2024 |
+|  | Inventerare: Agneta Olsson och<br>Andreas H. Skymberg |
+|  |  |
+
 <!-- sida 19 -->
 
 UPPDRAGSNAMN              FÖRFATTARE
@@ -638,10 +645,9 @@ UPPDRAGSNUMMER            DATUM
 
 Naturvärdesbiotop 2              Naturvärdesklass 4 - visst naturvärde
 
-Naturtyp: Naturlig gräsmark      Areal (ha): 0,22         -
-Biotoptyp: buskrik betesmark     Datum: 9/4, 16/4, 15/5 och 28/5 2024 -
-Inventerare: Agneta Olsson och -
-Andreas H. Skymberg
+Naturtyp: Naturlig gräsmark                               -
+Biotoptyp: buskrik betesmark                              -
+\-
 
 Beskrivning: Beskrivning: Stora delar av området är
 tätt bevuxet av björnbär vilket på sina platser gör
@@ -672,6 +678,14 @@ Motivering: Visst biotopvärde med få värdearter men hög artrikedom
 
 10369835 • Utredning av naturvärden för detaljplan inom Rågelund | 19
 
+[Tabell 19-1](handlingar-bostader-i-ragelund-naturvardesinventerinng.tabeller/19-1.csv)
+
+|  | Areal (ha): 0,22 |
+| --- | --- |
+|  | Datum: 9/4, 16/4, 15/5 och 28/5 2024 |
+|  | Inventerare: Agneta Olsson och<br>Andreas H. Skymberg |
+|  |  |
+
 <!-- sida 20 -->
 
 UPPDRAGSNAMN              FÖRFATTARE
@@ -680,10 +694,9 @@ UPPDRAGSNUMMER            DATUM
 10369835                  2024-07-02
 
 Naturvärdesbiotop 3              Naturvärdesklass 4 - visst naturvärde
-Naturtyp: Naturlig gräsmark      Areal (ha): 0,68         -
-Biotoptyp: buskrik betesmark     Datum: 9/4, 16/4, 15/5 och 28/5 2024 -
-Inventerare: Agneta Olsson och -
-Andreas H. Skymberg
+Naturtyp: Naturlig gräsmark                               -
+Biotoptyp: buskrik betesmark                              -
+\-
 
 Beskrivning: Området består i huvudsak av
 igenväxande åkermark som är bitvis mycket snårig
@@ -709,6 +722,14 @@ Motivering: Visst biotopvärde med sparsam förekomst av värdearter.
 
 10369835 • Utredning av naturvärden för detaljplan inom Rågelund | 20
 
+[Tabell 20-1](handlingar-bostader-i-ragelund-naturvardesinventerinng.tabeller/20-1.csv)
+
+|  | Areal (ha): 0,68 |
+| --- | --- |
+|  | Datum: 9/4, 16/4, 15/5 och 28/5 2024 |
+|  | Inventerare: Agneta Olsson och<br>Andreas H. Skymberg |
+|  |  |
+
 <!-- sida 21 -->
 
 UPPDRAGSNAMN              FÖRFATTARE
@@ -717,10 +738,9 @@ UPPDRAGSNUMMER            DATUM
 10369835                  2024-07-02
 
 Naturvärdesbiotop 4              Naturvärdesklass 4 - visst naturvärde
-Naturtyp: Antropogen terrester miljö Areal (ha):          -
-Biotoptyp: Långliggande vall     Datum: 9/4, 16/4, 15/5 och 28/5 2024 -
-Inventerare: Agneta Olsson och -
-Andreas H. Skymberg
+Naturtyp: Antropogen terrester miljö                      -
+Biotoptyp: Långliggande vall                              -
+\-
 
 Beskrivning: 15 fågelarter som häckar i eller i
 anslutning till jordbruksmark observerades i
@@ -736,6 +756,14 @@ Artvärde: Visst
 Motivering: Visst biotopvärde med sparsam förekomst av värdearter.
 
 10369835 • Utredning av naturvärden för detaljplan inom Rågelund | 21
+
+[Tabell 21-1](handlingar-bostader-i-ragelund-naturvardesinventerinng.tabeller/21-1.csv)
+
+|  | Areal (ha): |
+| --- | --- |
+|  | Datum: 9/4, 16/4, 15/5 och 28/5 2024 |
+|  | Inventerare: Agneta Olsson och<br>Andreas H. Skymberg |
+|  |  |
 
 <!-- sida 22 -->
 

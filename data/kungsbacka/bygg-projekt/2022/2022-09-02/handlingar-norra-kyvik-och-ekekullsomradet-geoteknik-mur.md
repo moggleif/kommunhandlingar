@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5bba8c07182e92654f3da89/16621108944
 sha256: cb824975ef483731cc53f7f61f0ab77cc066b49f42eae7fa022a236f7f209f2e
 bytes: 5901806
 sidor: 49
-hamtad: 2026-11-13T16:23:04+00:00
-konverterad: 2026-11-13T16:23:20+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:13:35+00:00
+konverterad: 2026-11-20T10:13:56+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [9, 10, 11, 14, 15, 16, 17, 20, 21, 22, 23, 26, 27, 28, 29, 32, 33, 34, 35, 38, 47, 48]
 figurer: [1, 2, 4, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49]
 tolkade: []
@@ -163,7 +163,8 @@ n:\108\07\1080722\5 arbetsmaterial\01 dokument\g\mur\mur geoteknik dp kyvik.docx
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 5-2](handlingar-norra-kyvik-och-ekekullsomradet-geoteknik-mur.tabeller/5-2.csv)

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce91/1747745789
 sha256: e2167a7482be70f24886679633864f1747a0ddc33e76e42d8af3920998eb42f9
 bytes: 1449742
 sidor: 20
-hamtad: 2026-11-13T17:36:14+00:00
-konverterad: 2026-11-13T17:36:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-11-20T11:37:02+00:00
+konverterad: 2026-11-20T11:37:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
 tal_obekraftade: []
 figurer: [1, 4, 6, 7, 13, 14, 19, 20]
 tolkade: []
@@ -267,25 +267,12 @@ O:\GBG\288089\01_Tyréns uppdrag\019_Utleverans\Skyfallsanalys\Rapport skyfallsa
 <!-- sida 9 -->
 
 Tabell 2 Mannings tal för olika markanvändningar i modellen.
-Yta                       Mannings tal Kommentar
-Hårdgjorda ytor, vägar och hustak 50
-Etapp 1 och 2             40.4        Viktat medelvärde utifrån
-ett antagande om 80 %
-hårdgöringsgrad
-Planerat vägdike          20
-Övriga ytor               2
 
 3.3 BESKRIVNING AV KULVERTAR
 Tre kulvertar ansluter till planerat vägdike, se Figur 3. Kulvertarna har beskrivits i MIKE
 URBAN och kopplats till MIKE 21-modellen. Dimensioner på kulvertarna beskrivs i
 Tabell 3.
 Tabell 3 Dimensioner på modellerade kulvertar.
-
-Kulvert Dimension
-(mm)
-Norra  1200
-Mellan 800
-Södra  1400
 
 3.4 MARKENS INFILTRATIONSFÖRMÅGA
 Vid skyfall överskrids markens infiltrationsförmåga, vilket medför att det sker en
@@ -306,42 +293,34 @@ Beställare: Kungsbacka kommun                        Slutrapport
 O:\GBG\288089\01_Tyréns uppdrag\019_Utleverans\Skyfallsanalys\Rapport skyfallsanalys Klovsten SLUTVERSION.docx
 9(20)
 
+[Tabell 9-1](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/9-1.csv)
+
+| Yta | Mannings tal | Kommentar |
+| --- | --- | --- |
+| Hårdgjorda ytor, vägar och hustak 50 |  |  |
+| Etapp 1 och 2 40.4 Viktat medelvärde utifrån<br>ett antagande om 80 %<br>hårdgöringsgrad |  |  |
+| Planerat vägdike 20 |  |  |
+| Övriga ytor 2 |  |  |
+
+[Tabell 9-2](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/9-2.csv)
+
+| Kulvert | Dimension<br>(mm) |
+| --- | --- |
+| Norra 1200 |  |
+| Mellan 800 |  |
+| Södra 1400 |  |
+
 <!-- sida 10 -->
 
 Tabell 4 Ingående parametrar i infiltrationsmodulen samt använda värden.
-Parameter          Värden för ytor
-med infiltration
-Jordlagrets        36              Generell infiltrationsförmåga
-infiltrationshastighet             hos den översta delen av
-(mm/h)                             markprofilen som oftast består
-av mulljord.
-Jordlagrets mäktighet 0.3          Generell mäktighet på
-(m)                                mulljordslagret.
-Jordlagrens mäktighet 0.06         Mäktigheten på jordlagren inom
-inom etapp 1 och 2 (m)             etapp 1 och 2 minskades med
-80 % för att representera
-andelen hårdgjorda ytor då
-exakt läge för hus och
-asfaltsytor inte är helt fastställt.
-Jordlagrets porositet (%) 40       Generell porositet hos
-m ulljorden
-Jordlagrets perkolation Beror på
-(mm/h)             jordartsklass, se
-Tabell 5 nedan.
-Initialt vatteninnehåll (%) 30     Återspeglar det initiala
-vatteninnehållet i jordlagret en
-torr sommardag
+
 Perkolationen i jordlagret beror av infiltrationskapaciteten djupare ner i jordprofilen.
 Indelningen i olika jordartsklasser är baserad på jordartskartan från SGU (1:25 000-
 1:100 000) som visar jordmånen 50 cm under markytan samt områden med
 hårdgjorda ytor. Utifrån dessa skapades tre olika klasser enligt Tabell 5.
+
 Tabell 5 Indelning av jordarter i olika perkolationsklasser som använts i avrinningsmodellen.
-Jordartsklasser   Perkolation (mm/h)
-Sand, grus        36
-Morän, lera, silt,
-0.4
-fyllning, torv
-Urberg            0.04
+
 3.5 REGN
 Två olika klimatanpassade CDS-regn med återkomsttiderna 100- och 200 år har
 modellerats. Varaktigheten sattes till 1 timme med ett centralt block på 10 min.
@@ -354,6 +333,25 @@ Uppdrag: 288089, Dagvattenutredning Klovsten, ramavtal 14/125 2020-06-18
 Beställare: Kungsbacka kommun                        Slutrapport
 O:\GBG\288089\01_Tyréns uppdrag\019_Utleverans\Skyfallsanalys\Rapport skyfallsanalys Klovsten SLUTVERSION.docx
 10(20)
+
+[Tabell 10-1](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/10-1.csv)
+
+| Parameter | Värden för ytor<br>med infiltration |  |
+| --- | --- | --- |
+| Jordlagrets 36 Generell infiltrationsförmåga<br>infiltrationshastighet hos den översta delen av<br>(mm/h) markprofilen som oftast består<br>av mulljord. |  |  |
+| Jordlagrets mäktighet 0.3 Generell mäktighet på<br>(m) mulljordslagret. |  |  |
+| Jordlagrens mäktighet 0.06 Mäktigheten på jordlagren inom<br>inom etapp 1 och 2 (m) etapp 1 och 2 minskades med<br>80 % för att representera<br>andelen hårdgjorda ytor då<br>exakt läge för hus och<br>asfaltsytor inte är helt fastställt. |  |  |
+| Jordlagrets porositet (%) 40 Generell porositet hos<br>m ulljorden |  |  |
+| Jordlagrets perkolation Beror på<br>(mm/h) jordartsklass, se<br>Tabell 5 nedan. |  |  |
+| Initialt vatteninnehåll (%) 30 Återspeglar det initiala<br>vatteninnehållet i jordlagret en<br>torr sommardag |  |  |
+
+[Tabell 10-2](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/10-2.csv)
+
+| Jordartsklasser | Perkolation (mm/h) |
+| --- | --- |
+| Sand, grus 36 |  |
+| Morän, lera, silt,<br>0.4<br>fyllning, torv |  |
+| Urberg 0.04 |  |
 
 <!-- sida 11 -->
 
@@ -425,12 +423,6 @@ maximala vattendjupet delats in i olika kategorier, se Tabell 7. Val av kategori
 baseras på erfarenhetsvärlden från andra kommuner.
 Tabell 7 Klassning av översvämningskonsekvens.
 
-Vattendjup (m) Konsekvens
-< 0,05       Ingen betydande konsekvens
-0,05 – 0,2   Något besvärande framkomlighet
-0,2 – 0,3    Kritisk nivå för räddningstjänst
-0,3 – 0,5    Ej möjligt att ta sig fram med vanliga motorfordon, risk för stor skada
-\> 0,5        Risk för mycket stora skador
 Inget resultat visas för utfyllnadsområdet i etapp 2 och skogen öster om området p g a
 de förenklingar som gjorts, vilka beskrivs i avsnitt 3.6.
 
@@ -444,6 +436,16 @@ Uppdrag: 288089, Dagvattenutredning Klovsten, ramavtal 14/125 2020-06-18
 Beställare: Kungsbacka kommun                        Slutrapport
 O:\GBG\288089\01_Tyréns uppdrag\019_Utleverans\Skyfallsanalys\Rapport skyfallsanalys Klovsten SLUTVERSION.docx
 12(20)
+
+[Tabell 12-1](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/12-1.csv)
+
+| Vattendjup (m) | Konsekvens |
+| --- | --- |
+| < 0,05 Ingen betydande konsekvens |  |
+| 0,05 – 0,2 Något besvärande framkomlighet |  |
+| 0,2 – 0,3 Kritisk nivå för räddningstjänst |  |
+| 0,3 – 0,5 Ej möjligt att ta sig fram med vanliga motorfordon, risk för stor skada |  |
+| > 0,5 Risk för mycket stora skador |  |
 
 <!-- sida 13 -->
 
@@ -645,15 +647,9 @@ Tabell 10. Det bedöms dock mer troligt att ett dike med minst 0.5 m djup kommer
 anläggas. Ett sådant dike klarar ett flöde på 70 l/s eller 250 m3/h, se
 Tabell 10.
 Tabell 9 Dimensionerande flöde för avskärande dike enligt rationella metoden.
-Yta  Area (ha) ϕ A  (ha) i (60) (l/s/ha) KF Q (l/s)
-red                      dim
-Skog      2.6 0.1    0.26       71    1.25     23
 
 Tabell 10 Beräkning av dikesutformning för avskärande dike öster om etapp 2 enligt Mannings formel
 (ekvation 3) och parametrar beskrivna i Figur 9.
-
-H (m)               0.3                0.5
-Q (m3/s)           0.02               0.07
 
 Mannings formel för beräkning av kapaciteten i ett dike:
 
@@ -678,11 +674,20 @@ O:\GBG\288089\01_Tyréns uppdrag\019_Utleverans\Skyfallsanalys\Rapport skyfallsa
 
 [Tabell 19-1](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/19-1.csv)
 
-| Parametrar S 0 | Minsta möjliga dike 0.002 | Antagen dikesutformning 0.002 |
+| Yta | Area (ha) | ϕ | A (ha)<br>red | i (60) (l/s/ha) | KF | Q (l/s)<br>dim |
+| --- | --- | --- | --- | --- | --- | --- |
+| Skog | 2.6 | 0.1 | 0.26 | 71 | 1.25 | 23 |
+
+[Tabell 19-2](handlingar-klovsten-verksamhetsomrade-skyfallskartering-2020-06-18.tabeller/19-2.csv)
+
+| Parametrar | Minsta möjliga dike | Antagen dikesutformning |
 | --- | --- | --- |
+| S0 | 0.002 | 0.002 |
 | M | 20 | 20 |
 | K | 1 | 1 |
 | B (m) | 0 | 0 |
+| H (m) | 0.3 | 0.5 |
+| Q (m3/s) | 0.02 | 0.07 |
 
 <!-- sida 20 -->
 

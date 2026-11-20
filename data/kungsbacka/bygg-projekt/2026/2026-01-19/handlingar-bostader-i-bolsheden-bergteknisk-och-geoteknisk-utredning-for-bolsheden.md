@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b28b443/1768816467
 sha256: 35500ad668aa1d97c508214d44596a529d3b8458794bdca42abf0942bf057dbd
 bytes: 3617463
 sidor: 15
-hamtad: 2026-11-15T08:53:47+00:00
-konverterad: 2026-11-15T08:54:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:32:19+00:00
+konverterad: 2026-11-20T12:32:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -47,14 +47,21 @@ Uppdragsledare:     Christoffer Kall
 
 Detaljplan Bolsheden 1:9 och 1:39 108 46 88 Bergteknisk och geoteknisk utredning
 
-1.0   2023-01-17                        Isabell Dinger Gustav Hallabro Christoffer Kall
-Daniel Strandberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 2023-01-17 | Sida 2 av 14
+
+[Tabell 2-1](handlingar-bostader-i-bolsheden-bergteknisk-och-geoteknisk-utredning-for-bolsheden.tabeller/2-1.csv)
+
+| 2023-01-17 |  | Isabell Dinger | Gustav Hallabro | Christoffer Kall |
+| --- | --- | --- | --- | --- |
+|  |  | Daniel Strandberg |  |  |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

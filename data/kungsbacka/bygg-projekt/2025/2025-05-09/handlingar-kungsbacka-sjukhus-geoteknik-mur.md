@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62dad29c/17467718072
 sha256: ce5c8be2db1edb5d2e62cb6c955b7220078ec25ee4049826a949fa1b8d37a7ac
 bytes: 16419727
 sidor: 108
-hamtad: 2026-11-13T17:19:59+00:00
-konverterad: 2026-11-13T17:21:32+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:19:48+00:00
+konverterad: 2026-11-20T11:21:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 20, 21, 23, 24, 25, 27, 28, 29, 31, 32, 33, 35, 36, 37, 39, 40, 41, 43, 44, 45, 47, 48, 49, 51, 52, 53, 55, 56, 57, 59, 60, 61, 63, 64, 65, 67, 68, 69, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 97, 98, 99, 100, 101, 102, 103]
 figurer: [2, 4, 71, 72, 73, 74, 75, 76, 103, 104, 105, 106, 107, 108]
 tolkade: []
@@ -171,7 +171,8 @@ n:\108\45\1084519\5 arbetsmaterial\01 dokument\g\mur\mur rev b.docx 2025-02-12 |
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 5-2](handlingar-kungsbacka-sjukhus-geoteknik-mur.tabeller/5-2.csv)
@@ -199,7 +200,8 @@ n:\108\45\1084519\5 arbetsmaterial\01 dokument\g\mur\mur rev b.docx 2025-02-12 |
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO<br>14688-2:2004 samt BFR T21:1982 |
+| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO |
+|  | 14688-2:2004 samt BFR T21:1982 |
 | Vattenkvot | SS 027116, utgåva 3 |
 | Konflytgräns | SS 027120, utgåva 2 |
 | CRS | SS 027126 |
@@ -1594,7 +1596,7 @@ Klassificering 0 10 20 30 40 50 60 0  20  40  60 0  20  40  60  80 0  5  10  15 
 9
 
 10
-x              x                  x
+Sa                                        x              x                  x
 N:\108\45\1084519\5 Arbetsmaterial\01 Dokument\G\Fältresultat\Cpt utv CONRAD\NC009.CPW 2023-05-23
 
 D jup (m )
@@ -1606,7 +1608,7 @@ D jup (m )
 | Cl |  |  |
 | Cl | vL<br>L | OC |
 | Si | v L |  |
-| Cl<br>Sa | L | OC |
+| Cl | L | OC |
 
 [Tabell 28-2](handlingar-kungsbacka-sjukhus-geoteknik-mur.tabeller/28-2.csv)
 

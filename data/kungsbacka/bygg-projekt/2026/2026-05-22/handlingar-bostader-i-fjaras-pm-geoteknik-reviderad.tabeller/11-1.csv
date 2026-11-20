@@ -1,0 +1,21 @@
+Jordlager,Egenskap,Valt värde,Karakteristiskt värde
+,,,"((cid:23) =1,00)
+(cid:10)(cid:24)(cid:25)(cid:24)(cid:14)"
+"Tunghet, (γ) 18 kN/m³ 18 kN/m³
+Torrskorpelera Effektiv tunghet, (γ’) 8 kN/m³ 8 kN/m³
+Odränerad skjuvhållfasthet, (c ) 25 kPa 25 kPa
+u",,,
+"Tunghet, (γ) 17 kN/m³ 17 kN/m³
+Lera 1 Effektiv tunghet, (γ’) 7 kN/m³ 7 kN/m³
+Odränerad skjuvhållfasthet, (c ) 14 kPa 14 kPa
+u",,,
+"Tunghet, (γ) 19 kN/m³ 19 kN/m³
+Lera 2
+Effektiv tunghet, (γ’) 9 kN/m³ 9 kN/m³
+z räknas från +10
+Odränerad skjuvhållfasthet, (c ) 14 + 3*z kPa 14 + 3*z kPa
+u",,,
+"Tunghet, (γ) 18kN/m³ 18 kN/m³
+Friktionsjord Effektiv tunghet, (γ’) 10 kN/m³ 10 kN/m³
+Friktionsvinkel, (φ’ ) 34o 34o
+k",,,

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6afde4c819d24edced5cffcc/1775045207
 sha256: b82cfdd81d2638c5526c5d1dd065794283f4d22796983a725e4e9562d390ba3e
 bytes: 2545501
 sidor: 22
-hamtad: 2026-11-15T09:09:44+00:00
-konverterad: 2026-11-15T09:09:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:51:25+00:00
+konverterad: 2026-11-20T12:51:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 6, 9, 10, 11, 12, 13, 14, 17, 18, 19, 20]
 tolkade: []
@@ -243,23 +243,6 @@ Figur 4 – Karta över valda punkter för trafikmätningar
 
 Tabell 1 - Data från de genomförda trafikmätningarna.
 
-Punkt Lägesbeskrivning       Medeltrafikflöde Varav tung trafik [%]
-[fordon/dygn]
-1    Lindens gata, norr om cirkulation 5416 5%
-
-2    Skolgatan, väster om cirkulation 1183 5%
-3    Skolgatan, öster om cirkualtion 5708  4%
-
-4    Södra infarten, söder om cirkulation 2597 4%
-
-5    Södra infarten söder om Läraregatan 2936 4%
-6    Kungsbacka sportcenter  1701          3%
-
-7    Inlagsleden, öster om Södra infarten 9193 6%
-8    Inlagsleden, väster om Södra Infarten 11566 6%
-
-9    Södra infarten, söder om Inlagsleden 3145 4%
-
 Resultatet av mätningar användes sedan tillsammans med de uppskattade besöksuppgifterna
 för att räkna ut den trafik som tillkommer på de gatorna och vägarna i området. Siffrorna
 användes sedan som ingångsvärden i de kapacitetsberäkningar som gjorts för den planerade
@@ -272,6 +255,20 @@ trafiksituationen i de olika korsningarna under vardagsmaxtimmen med avseende p�
 annat belastningsgrad och kölängd.
 
 11
+
+[Tabell 11-1](handlingar-aranas-etapp-4-trafikutredning-for-kungsbackas-sodra-centrum.tabeller/11-1.csv)
+
+| Punkt | Lägesbeskrivning | Medeltrafikflöde<br>[fordon/dygn] | Varav tung trafik [%] |
+| --- | --- | --- | --- |
+| 1 | Lindens gata, norr om cirkulation | 5416 | 5% |
+| 2 | Skolgatan, väster om cirkulation | 1183 | 5% |
+| 3 | Skolgatan, öster om cirkualtion | 5708 | 4% |
+| 4 | Södra infarten, söder om cirkulation | 2597 | 4% |
+| 5 | Södra infarten söder om Läraregatan | 2936 | 4% |
+| 6 | Kungsbacka sportcenter | 1701 | 3% |
+| 7 | Inlagsleden, öster om Södra infarten | 9193 | 6% |
+| 8 | Inlagsleden, väster om Södra Infarten | 11566 | 6% |
+| 9 | Södra infarten, söder om Inlagsleden | 3145 | 4% |
 
 <!-- sida 12 -->
 

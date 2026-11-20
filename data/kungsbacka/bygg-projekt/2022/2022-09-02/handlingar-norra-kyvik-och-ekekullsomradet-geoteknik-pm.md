@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5bba8c07182e92654f3da88/16621108941
 sha256: 8960447a8959d8e306d0505b52c866e18f8bd0288caf8513af6a61f34ee9c4f5
 bytes: 5213938
 sidor: 25
-hamtad: 2026-11-13T16:22:39+00:00
-konverterad: 2026-11-13T16:23:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:13:11+00:00
+konverterad: 2026-11-20T10:13:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
 tal_obekraftade: [8, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
 figurer: [1, 2, 4, 5, 8, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
 tolkade: []
@@ -312,21 +312,6 @@ Uppdragsnr.: 108 07 22 Version: 1
 6.3   Beräkningsresultat
 
 Tabell 2: Redovisning av beräkningsresultat
-Sektion             Säkerhetsfaktor      Erfordrad säkerhet
-
-Sektion A befintligt          Fc = 7,16              Fc ≥1,7
-Fkomb = 3,15           Fkomb ≥1,5
-Sektion A 20 kPa marklast     Fc = 2,75              Fc ≥1,7
-Fkomb = 1,71           Fkomb ≥1,5
-Sektion B befintligt          Fc = 3,54              Fc ≥1,7
-Fkomb = 2,51           Fkomb ≥1,5
-Sektion B 20 kPa marklast     Fc = 1,95              Fc ≥1,7
-
-Fkomb = 1,54           Fkomb ≥1,5
-Sektion C befintligt          Fc = 3,17              Fc ≥1,7
-Fkomb = 2,53           Fkomb ≥1,5
-Sektion C 20 kPa marklast     Fc = 1,74              Fc ≥1,7
-Fkomb = 1,58           Fkomb ≥1,5
 
 Utförda stabilitetsberäkningar visar på att säkerhetsfaktorn mot brott inom utredningsområdet uppfyller
 stabilitetsrekommendationerna för en detaljerad stabilitetsutredning enligt IEG rapport 4:2010.
@@ -352,6 +337,23 @@ Framgår av separat rapport DP Norra Kyvik- och Ekekullsområdet Geoteknik och b
 2022-02-25 rev1 2022-06-16.
 
 n:\108\07\1080722\5 arbetsmaterial\01 dokument\g\pm geoteknik dp norra kyvik- och ekekullsområdet_220616.docx 2022-06-16 | Sida 9 av 11
+
+[Tabell 9-1](handlingar-norra-kyvik-och-ekekullsomradet-geoteknik-pm.tabeller/9-1.csv)
+
+| Sektion | Säkerhetsfaktor | Erfordrad säkerhet |
+| --- | --- | --- |
+| Sektion A befintligt | Fc = 7,16 | Fc ≥1,7 |
+|  | Fkomb = 3,15 | Fkomb ≥1,5 |
+| Sektion A 20 kPa marklast | Fc = 2,75 | Fc ≥1,7 |
+|  | Fkomb = 1,71 | Fkomb ≥1,5 |
+| Sektion B befintligt | Fc = 3,54 | Fc ≥1,7 |
+|  | Fkomb = 2,51 | Fkomb ≥1,5 |
+| Sektion B 20 kPa marklast | Fc = 1,95 | Fc ≥1,7 |
+|  | Fkomb = 1,54 | Fkomb ≥1,5 |
+| Sektion C befintligt | Fc = 3,17 | Fc ≥1,7 |
+|  | Fkomb = 2,53 | Fkomb ≥1,5 |
+| Sektion C 20 kPa marklast | Fc = 1,74 | Fc ≥1,7 |
+|  | Fkomb = 1,58 | Fkomb ≥1,5 |
 
 <!-- sida 10 -->
 

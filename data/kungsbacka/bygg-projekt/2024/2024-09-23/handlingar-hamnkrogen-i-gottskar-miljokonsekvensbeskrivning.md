@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.278722701920c09426370e62/1727092267
 sha256: 52e50c417a73814d8d4dcf5107494004fe6be4fc6581bb97de9ad663ef600154
 bytes: 3344661
 sidor: 61
-hamtad: 2026-11-13T17:04:10+00:00
-konverterad: 2026-11-13T17:04:22+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:58:49+00:00
+konverterad: 2026-11-20T10:59:00+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -2106,11 +2106,10 @@ och Hamnplan. Årsdygnstrafiken (ÅDT) för Gottskärsvägen mellan Dragsvägen 
 
 Tabell 4. Trafikflöden för Gottskärsvägen och Dragsvägen, hämtade från Trafikverket och
 uppräknade med 1% per år till år 2040 (Kungsbacka kommun, 2018).
-Fordon/dygn Fordon/dygn % Fordon/dygn
+Fordon/dygn
 
-Årsmedel  Teoretiskt
-Ökning År 2040
-2014      maxdygn
+År 2040
+
 Gottskärsvägen
 2830      4200     48%  3670
 (Gathes väg – Dragsvägen)
@@ -2122,6 +2121,12 @@ Dragsvägen           1380      1625     18%  1790
 Gottskär Havsbad AB                 copyright© AFRY (ÅF-Infrastructure AB)
 Miljökonsekvensbeskrivning för planerad småbåtshamn 794282
 Datum 04/05/2021, Rev. Version nummer 2
+
+[Tabell 48-1](handlingar-hamnkrogen-i-gottskar-miljokonsekvensbeskrivning.tabeller/48-1.csv)
+
+| Fordon/dygn | Fordon/dygn | % |
+| --- | --- | --- |
+| Årsmedel<br>2014 | Teoretiskt<br>maxdygn | Ökning |
 
 <!-- sida 49 -->
 

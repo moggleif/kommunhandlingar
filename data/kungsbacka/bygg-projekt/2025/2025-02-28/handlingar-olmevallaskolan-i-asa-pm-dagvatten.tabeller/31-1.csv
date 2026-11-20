@@ -1,10 +1,12 @@
-"Skillnad mellan befintlig
-Planerad situation Planerad situation
-Befintlig och planerad situation
-Ämne Enhet utan med föreslagen
-situation efter föreslagna
-dagvattenåtgärder dagvattenhantering
-dagvattenåtgärder",,,,,
+Ämne,Enhet,"Befintlig
+situation","Planerad situation
+utan
+dagvattenåtgärder","Planerad situation
+med föreslagen
+dagvattenhantering","Skillnad mellan befintlig
+och planerad situation
+efter föreslagna
+dagvattenåtgärder"
 Fosfor (P),kg/år,"2,2","2,0","1,1","-1,1"
 Kväve (N),kg/år,18,16,"8,6","-9,4"
 Bly (Pb),kg/år,"0,15","0,11","0,052","-0,098"

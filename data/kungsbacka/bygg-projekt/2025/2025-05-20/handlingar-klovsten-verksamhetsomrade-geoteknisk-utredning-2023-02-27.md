@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce89/1747745786
 sha256: ad55d4bf0f6d4fcb1487f7484be1e318e8c413c1edde4cee6e1428454302d5ae
 bytes: 7092450
 sidor: 48
-hamtad: 2026-11-13T17:32:16+00:00
-konverterad: 2026-11-13T17:32:37+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:33:22+00:00
+konverterad: 2026-11-20T11:33:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [36, 37, 48]
-figurer: [1, 2, 5, 8, 9, 11, 12, 14, 16, 17, 19, 20, 22, 23, 24, 25, 26, 27, 29, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
+figurer: [1, 5, 8, 9, 11, 12, 14, 16, 17, 22, 23, 24, 25, 26, 27, 29, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
 tolkade: []
 granskad: null
 ---
@@ -49,18 +49,24 @@ Uppdragsledare:      Daniel Strandberg
 
 Handläggare:         Mylena Anderberg
 
-4.0    2023-02-27 Revidering enligt markeringar D. Strandberg K. Engerberg K. Engerberg
-3.0    2022-10-27 Revidering efter ny markmodell D. Strandberg K. Engerberg K. Engerberg
-2.0    2020-09-08 Revidering efter kompletterande D. Strandberg K. Engerberg B. Gervide-
-underlag                                 Eckel
-
-1.0    2018-10-12                    Mylena    Daniel   Daniel
-Anderberg Strandberg Strandberg
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 
 n:\105\32\1053234\5 arbetsmaterial\01 dokument\g\pm\pm klovsten rev20221027.docx 2023-02-28 | 2(34)
+
+[Tabell 2-1](handlingar-klovsten-verksamhetsomrade-geoteknisk-utredning-2023-02-27.tabeller/2-1.csv)
+
+| 4.0 | 2023-02-27 | Revidering enligt markeringar | D. Strandberg | K. Engerberg | K. Engerberg |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 3.0 | 2022-10-27 | Revidering efter ny markmodell | D. Strandberg | K. Engerberg | K. Engerberg |
+|  |  |  |  |  |  |
+| 2.0 | 2020-09-08 | Revidering efter kompletterande | D. Strandberg | K. Engerberg | B. Gervide- |
+|  |  | underlag |  |  | Eckel |
+|  |  |  |  |  |  |
+| 1.0 | 2018-10-12 |  | Mylena | Daniel | Daniel |
+|  |  |  | Anderberg | Strandberg | Strandberg |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -667,16 +673,6 @@ beräknad för en ytlast med 20 kPa.
 
 Tabell 1. Stabilitetsberäkningar, resultat
 
-Sektion   Exp Fc    Exp Fk    Fc        Fk       Bilaga
-min       min
-3         >2       >2        >2        >2        4:4
-
-4         >2       1,8       1,3       1,3       4:5
-5         >2       >2        >2        >2        4:6
-
-6         >3       >3        1,6       1,4       4:7
-7         >2       >2        1,4       1,3       4:8
-
 Resultaten visar att marken är att teckna som stabil vid nuvarande förhållanden men att en zon i
 anslutning till den sprängstensvallen behöver undantas från exploatering. Exploaterbar mark inom
 detaljplanen uppnår mycket betryggande säkerhet mot skred. Naturmarken inom detaljplanen erhåller
@@ -704,6 +700,22 @@ för analysen.
 
 n:\105\32\1053234\5 arbetsmaterial\01 dokument\g\pm\pm klovsten rev20221027.docx 2023-02-28 | 19(34)
 
+[Tabell 19-1](handlingar-klovsten-verksamhetsomrade-geoteknisk-utredning-2023-02-27.tabeller/19-1.csv)
+
+| Sektion | Exp Fc | Exp Fk | Fc<br>min | Fk<br>min | Bilaga |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 3 | >2 | >2 | >2 | >2 | 4:4 |
+|  |  |  |  |  |  |
+| 4 | >2 | 1,8 | 1,3 | 1,3 | 4:5 |
+|  |  |  |  |  |  |
+| 5 | >2 | >2 | >2 | >2 | 4:6 |
+|  |  |  |  |  |  |
+| 6 | >3 | >3 | 1,6 | 1,4 | 4:7 |
+|  |  |  |  |  |  |
+| 7 | >2 | >2 | 1,4 | 1,3 | 4:8 |
+
 <!-- sida 20 -->
 
 Uppdragsnr: 105 32 34 Version: 4.0
@@ -720,11 +732,6 @@ sänkt skjuvhållfasthet anses marken vara tillräckligt stabil. Då glidytorna 
 Vidare har en kontroll utförts med den lägre skjuvhållfastheten vid de förhållanden som rådde 2018.
 Tabell 2. Stabilitetsberäkningar känslighetsanalys resultat.
 
-Känslighetsanalys Exp Fc    Fc          Bilaga
-min
-Bef. slänt     >2         1,10        4:9
-Urspunglig slänt 1,29       0,79        4:10
-
 Resultaten ger att exploateringsområdet kan anses god säkerhet mot skred
 Beräkning för den släntgeometri som gällde 2018 visar att slänten då borde skredat Fc=0,8 om leran
 har så låg Tfu som antagits vid känslighetsanalysen. Även med ändyteeffekter erhålls en säkerhet
@@ -735,6 +742,15 @@ Det ska även noteras att den fortsatta utfyllnaden har höjt beräknad säkerhe
 för de kritiska glidytorna (baserat på beräkningar med lågt Tfu).
 
 n:\105\32\1053234\5 arbetsmaterial\01 dokument\g\pm\pm klovsten rev20221027.docx 2023-02-28 | 20(34)
+
+[Tabell 20-1](handlingar-klovsten-verksamhetsomrade-geoteknisk-utredning-2023-02-27.tabeller/20-1.csv)
+
+| Känslighetsanalys | Exp Fc | Fc<br>min | Bilaga |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| Bef. slänt | >2 | 1,10 | 4:9 |
+|  |  |  |  |
+| Urspunglig slänt | 1,29 | 0,79 | 4:10 |
 
 <!-- sida 21 -->
 

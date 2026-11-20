@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.3ad9226e1a0fb6c5dbc82cb3/1791292757
 sha256: d7bc7e34eb24e7aeceba0d0279b4fac436cf3fc342e6cc4589c2505431c8849e
 bytes: 21528137
 sidor: 269
-hamtad: 2026-11-15T09:32:38+00:00
-konverterad: 2026-11-15T09:34:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:19:36+00:00
+konverterad: 2026-11-20T13:21:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1701,8 +1701,11 @@ Dokumentreferens Markteknisk undersökningsrapport_Varla_Rev.A       12/14
 
 [Tabell 62-1](handlingar-nytt-verksamhetsomrade-i-varla-geoteknisk-utredning.tabeller/62-1.csv)
 
-| Marknivå<br>[m.ö.h] | Nivå<br>centrum<br>filter<br>[m.u.my] | Grundvattennivå<br>2025-12-12<br>[m.ö.h.] | Grundvattennivå<br>2026-01-28<br>[m.ö.h.] |
+| Marknivå | Nivå | Grundvattennivå | Grundvattennivå |
 | --- | --- | --- | --- |
+| [m.ö.h] | centrum | 2025-12-12 | 2026-01-28 |
+|  | filter | [m.ö.h.] | [m.ö.h.] |
+|  | [m.u.my] |  |  |
 | +5,8 | +0,8 | +5,6 | +5,6 |
 | +5,8 | -4,15 | +4,9 | +5,0 |
 | +5,8 | -9,2 | +5,4 | +5,3 |
@@ -8459,6 +8462,7 @@ Classification 0 200    400     600 0 20  40  60 0     100     200 0       50   
 
 12
 
+Sa
 x          x                 x+ o
 D                                    x            x                     + x    o
 \\\Segotfs003\projekt\22321\30081490_Varla_2_198\_-\_Geoteknik_för_detaljplan\000\01 Uppdrag\03 Genomförande\2025-2026\11_Mätningar_och_analyser\Conrad\CPW-filer\VA7.CPW 2026-02-09
@@ -8483,7 +8487,7 @@ Dep th (m )
 |  |  |  | vL |  |
 |  |  |  | L |  |
 |  |  |  |  | OC |
-| Si<br>Sa |  |  |  |  |
+| Si |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  | D |  |
 |  |  |  | Med |  |
@@ -9532,8 +9536,8 @@ Dep th (m )
 |  |  |  | vL |  |
 |  |  |  |  | NC |
 |  |  |  | L | OC |
-| Si<br>Sa |  |  | D<br>Med |  |
-| Cl |  |  | vH<br>D | NCSi |
+| Si |  |  | D |  |
+| Sa<br>Cl |  |  | Med<br>vH<br>D | NCSi |
 | Sa<br>Si |  |  | Med |  |
 | Cl |  |  | vH | NCSi |
 

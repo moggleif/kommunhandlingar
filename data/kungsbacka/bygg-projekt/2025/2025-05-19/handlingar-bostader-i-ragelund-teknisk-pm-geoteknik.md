@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f7533b/1747639304
 sha256: ec0bbb9147c66835133e904d371bc893d9a290e6ef273f613cb677433e1c9333
 bytes: 3154944
 sidor: 31
-hamtad: 2026-11-13T17:25:28+00:00
-konverterad: 2026-11-13T17:25:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:25:25+00:00
+konverterad: 2026-11-20T11:25:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -523,24 +523,27 @@ u:\6028-2002 rågelund 1127\g\text\pm\pm-001.docx
 
 [Tabell 12-1](handlingar-bostader-i-ragelund-teknisk-pm-geoteknik.tabeller/12-1.csv)
 
-| Tid /<br>Tillskottsbelastning | 5 kPa | 10 kPa | 20 kPa |
+| Tid / | 5 kPa | 10 kPa | 20 kPa |
 | --- | --- | --- | --- |
+| Tillskottsbelastning |  |  |  |
 | 20 år | 1-2 cm | 2-3 cm | 2-4 cm |
 | 50 år | 1-3 cm | 2-4 cm | 3-5 cm |
 | 100 år | 2-4 cm | 3-5 cm | 3-6 cm |
 
 [Tabell 12-2](handlingar-bostader-i-ragelund-teknisk-pm-geoteknik.tabeller/12-2.csv)
 
-| Tid /<br>Tillskottsbelastning | 5 kPa | 10 kPa | 20 kPa |
+| Tid / | 5 kPa | 10 kPa | 20 kPa |
 | --- | --- | --- | --- |
+| Tillskottsbelastning |  |  |  |
 | 20 år | 2-3 cm | 3-5 cm | 15-25 cm |
 | 50 år | 2-4 cm | 4-6 cm | 20-30 cm |
 | 100 år | 2-5 cm | 4-7 cm | 25-35 cm |
 
 [Tabell 12-3](handlingar-bostader-i-ragelund-teknisk-pm-geoteknik.tabeller/12-3.csv)
 
-| Tid /<br>Tillskottsbelastning | 5 kPa | 10 kPa | 20 kPa |
+| Tid / | 5 kPa | 10 kPa | 20 kPa |
 | --- | --- | --- | --- |
+| Tillskottsbelastning |  |  |  |
 | 20 år | 7-9 cm | 18-20 cm | 40-55 cm |
 | 50 år | 8-10 cm | 20-30 cm | 60-75 cm |
 | 100 år | 8-12 cm | 25-35 cm | 65-90 cm |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f7533d/1747639305
 sha256: 3697df820fd4c3cc02806e9738b65be70d4222de16f9268e28ab7a2d5df7c57f
 bytes: 1570466
 sidor: 17
-hamtad: 2026-11-13T17:26:00+00:00
-konverterad: 2026-11-13T17:26:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:25:56+00:00
+konverterad: 2026-11-20T11:26:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -314,7 +314,7 @@ Figur 3. Anslutning till Göteborgsvägen, maxtimme 2050
 
 [Tabell 8-1](handlingar-bostader-i-ragelund-trafikutredning-2024.tabeller/8-1.csv)
 
-| Utredning 2024 Utredning 2022 |  |  |
+|  | Utredning 2024 | Utredning 2022 |
 | --- | --- | --- |
 | Lägenhet | 84 | 72 |
 | Radhus/villor | 142 | 142 |
@@ -323,7 +323,7 @@ Figur 3. Anslutning till Göteborgsvägen, maxtimme 2050
 
 [Tabell 8-2](handlingar-bostader-i-ragelund-trafikutredning-2024.tabeller/8-2.csv)
 
-| Utredning 2024 Utredning 2022 |  |  |
+|  | Utredning 2024 | Utredning 2022 |
 | --- | --- | --- |
 | ÅDT | 780 | 834 |
 | ÅDT inkl. nyttotrafik | 897 | 970 |
@@ -384,7 +384,7 @@ Figur 4. Mätpunkt Göteborgsvägen
 
 [Tabell 10-1](handlingar-bostader-i-ragelund-trafikutredning-2024.tabeller/10-1.csv)
 
-| Hastighet |  |
+|  | Hastighet |
 | --- | --- |
 | Skyltad hastighet | 60 km/h |
 | Medel | 56,6 km/h |
@@ -644,7 +644,7 @@ trafik.
 
 [Tabell 16-1](handlingar-bostader-i-ragelund-trafikutredning-2024.tabeller/16-1.csv)
 
-| Hastighet |  |
+|  | Hastighet |
 | --- | --- |
 | Medel | 49 km/h |
 | Median | 49 km/h |
@@ -694,7 +694,7 @@ trafik.
 
 [Tabell 17-1](handlingar-bostader-i-ragelund-trafikutredning-2024.tabeller/17-1.csv)
 
-| Hastighet |  |
+|  | Hastighet |
 | --- | --- |
 | Medel | 46 km/h |
 | Median | 45 km/h |

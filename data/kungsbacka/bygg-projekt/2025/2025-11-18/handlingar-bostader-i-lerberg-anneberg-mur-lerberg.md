@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe4ea9a/1763459726
 sha256: 55f5f20b22a3a8334c90b4e53c2e82991bfc2e95b19a6d1605c72b332e32eb92
 bytes: 12682508
 sidor: 170
-hamtad: 2026-11-13T18:02:17+00:00
-konverterad: 2026-11-13T18:03:46+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:06:16+00:00
+konverterad: 2026-11-20T12:07:45+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok]
@@ -1151,7 +1151,8 @@ Bilaga 4 Sidan 1 av 4
 | Höjdsystem RH 2000<br>ÖK RÖR<br>B<br>MARKYTA<br>A<br>Centrum filter |  |  | Nivå markyta |  | = | +16,12 |
 |  |  |  | Toppnivå (ök rör) |  | = | +17,29 |
 |  |  |  | Filternivå |  | = | +1,14 |
-|  |  |  | Total rörlängd till<br>centrum filter |  | A= | 16,15 |
+|  |  |  | Total rörlängd till |  |  |  |
+|  |  |  | centrum filter |  | A= | 16,15 |
 |  |  |  | Rörlängd ovan mark |  | B= | 1,17 |
 |  |  |  | Spetstillverkare |  |  | Geotech |
 |  |  |  | Spetsmaterial |  |  | Plast |
@@ -1191,7 +1192,8 @@ Bilaga 4 Sidan 2 av 4
 | Höjdsystem RH 2000<br>ÖK RÖR<br>B<br>MARKYTA<br>A<br>Centrum filter |  |  | Nivå markyta |  | = | +16,12 |
 |  |  |  | Toppnivå (ök rör) |  | = | +17,32 |
 |  |  |  | Filternivå |  | = | +9,15 |
-|  |  |  | Total rörlängd till<br>centrum filter |  | A= | 8,17 |
+|  |  |  | Total rörlängd till |  |  |  |
+|  |  |  | centrum filter |  | A= | 8,17 |
 |  |  |  | Rörlängd ovan mark |  | B= | 1,20 |
 |  |  |  | Spetstillverkare |  |  | Geotech |
 |  |  |  | Spetsmaterial |  |  | Plast |
@@ -1231,7 +1233,8 @@ Bilaga 4 Sidan 3 av 4
 | Höjdsystem RH 2000<br>ÖK RÖR<br>B<br>MARKYTA<br>A<br>Centrum filter |  |  | Nivå markyta |  | = | +8,75 |
 |  |  |  | Toppnivå (ök rör) |  | = | +9,93 |
 |  |  |  | Filternivå |  | = | +1,70 |
-|  |  |  | Total rörlängd till<br>centrum filter |  | A= | 8,23 |
+|  |  |  | Total rörlängd till |  |  |  |
+|  |  |  | centrum filter |  | A= | 8,23 |
 |  |  |  | Rörlängd ovan mark |  | B= | 1,18 |
 |  |  |  | Spetstillverkare |  |  | Geotech |
 |  |  |  | Spetsmaterial |  |  | Plast |
@@ -1271,7 +1274,8 @@ Bilaga 4 Sidan 4 av 4
 | Höjdsystem RH 2000<br>ÖK RÖR<br>B<br>MARKYTA<br>A<br>Centrum filter |  |  | Nivå markyta |  | = | +8,75 |
 |  |  |  | Toppnivå (ök rör) |  | = | +9,94 |
 |  |  |  | Filternivå |  | = | -6,31 |
-|  |  |  | Total rörlängd till<br>centrum filter |  | A= | 16,25 |
+|  |  |  | Total rörlängd till |  |  |  |
+|  |  |  | centrum filter |  | A= | 16,25 |
 |  |  |  | Rörlängd ovan mark |  | B= | 1,19 |
 |  |  |  | Spetstillverkare |  |  | Geotech |
 |  |  |  | Spetsmaterial |  |  | Plast |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d6eaed/174582882224
 sha256: c969ccdc75db25c9d3cb49660ea00e311c5fa404fa12fd0d58ec06d6dcdff6be
 bytes: 20047391
 sidor: 223
-hamtad: 2026-11-14T19:03:58+00:00
-konverterad: 2026-11-14T19:06:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:12:11+00:00
+konverterad: 2026-11-20T11:14:06+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad]
@@ -2100,20 +2100,20 @@ Sida 33 av 89
 | Protokoll |  |  |  |  |  |  |  |  |  |
 |  |  | Provhylsa nummer |  | Preliminär jordartsbedömning |  |  | Anmärkning |  |  |
 | Slutare | Djup (m) |  |  |  |  |  |  |  |  |
-|  | 10 | Ö | 282 |  |  |  |  |  |  |
-|  |  | M | 1247 |  |  |  |  |  |  |
+|  |  | Ö | 282 |  |  |  |  |  |  |
+|  | 10 | M | 1247 |  |  |  |  |  |  |
 |  |  | U | 1867 |  |  |  |  |  |  |
-|  | 15 | Ö | 262 |  |  |  |  |  |  |
-|  |  | M | 983 |  |  |  |  |  |  |
+|  |  | Ö | 262 |  |  |  |  |  |  |
+|  | 15 | M | 983 |  |  |  |  |  |  |
 |  |  | U | 1250 |  |  |  |  |  |  |
-|  | 20 | Ö | 273 |  |  |  |  |  |  |
-|  |  | M | 490 |  |  |  |  |  |  |
+|  |  | Ö | 273 |  |  |  |  |  |  |
+|  | 20 | M | 490 |  |  |  |  |  |  |
 |  |  | U | 2027 |  |  |  |  |  |  |
-|  | 25 | Ö | 126 |  |  |  |  |  |  |
-|  |  | M | 639 |  |  |  |  |  |  |
+|  |  | Ö | 126 |  |  |  |  |  |  |
+|  | 25 | M | 639 |  |  |  |  |  |  |
 |  |  | U | 777 |  |  |  |  |  |  |
-|  | 30 | Ö | 258 |  |  |  |  |  |  |
-|  |  | M | 617 |  |  |  |  |  |  |
+|  |  | Ö | 258 |  |  |  |  |  |  |
+|  | 30 | M | 617 |  |  |  |  |  |  |
 |  |  | U | 1705 |  |  |  |  |  |  |
 |  |  | Ö |  |  |  |  |  |  |  |
 |  |  | M |  |  |  |  |  |  |  |
@@ -2389,6 +2389,7 @@ dkontor
 ndaleden 2
 0 Stockholm
 
+d
 mperatur mm
 
 Diff
@@ -2403,7 +2404,7 @@ Anmärkning
 | --- | --- | --- | --- | --- | --- |
 | Uppdragsnamn:<br>Uppdragsnummer:<br>Beställare:<br>Provtagningsdatum:<br>Fält-ansvarig:<br>Undersökningspunkt: |  | Kungsbacka Arena<br>-<br>Skanska<br>2024-06-26 ÅF Infrastructure AB Huvu<br>Robert Jönsson Org.556185-2103 Frösu<br>(e-post borttagen) 169 7<br>ST2404<br>Tel. Vxl: +46 10 505 00 00 |  |  |  |
 | Positionering Kontroll |  |  |  |  |  |
-| Sekt: |  | Sida: |  | Z: | Sondering utförd: Utförd |
+| Sekt: |  | Sida: |  | Z: | Sondering utförd: Utför |
 | Koordinatfil |  | Filnamn - digitalt sonderingsresultat Väder Luftte |  |  |  |
 | Ja |  | ST2404-20240626084245.cpt Sol 22 |  |  |  |
 | Borrigg |  | Utrustning |  | Utförd på vatten Mätningsklass |  |
@@ -2581,6 +2582,7 @@ dkontor
 ndaleden 2
 0 Stockholm
 
+d
 mperatur mm
 
 Diff
@@ -2595,7 +2597,7 @@ Anmärkning
 | --- | --- | --- | --- | --- | --- |
 | Uppdragsnamn:<br>Uppdragsnummer:<br>Beställare:<br>Provtagningsdatum:<br>Fält-ansvarig:<br>Undersökningspunkt: |  | Kungsbacka Arena<br>-<br>Skanska<br>2024-06-27 ÅF Infrastructure AB Huvu<br>Robert Jönsson Org.556185-2103 Frösu<br>(e-post borttagen) 169 7<br>ST2408<br>Tel. Vxl: +46 10 505 00 00 |  |  |  |
 | Positionering Kontroll |  |  |  |  |  |
-| Sekt: |  | Sida: |  | Z: | Sondering utförd: Utförd |
+| Sekt: |  | Sida: |  | Z: | Sondering utförd: Utför |
 | Koordinatfil |  | Filnamn - digitalt sonderingsresultat Väder Luftte |  |  |  |
 | Ja |  | ST2408-20240627083652_EXP2024062709S2o4l. 22 |  |  |  |
 | Borrigg |  | Utrustning |  | Utförd på vatten Mätningsklass |  |

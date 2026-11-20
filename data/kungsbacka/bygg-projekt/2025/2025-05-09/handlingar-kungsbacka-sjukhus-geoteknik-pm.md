@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62dad29e/17467718083
 sha256: 5fb4c1b7a907ec29b0d074c63f699e46654377350e8e41bcb2f75af229989c78
 bytes: 11643053
 sidor: 66
-hamtad: 2026-11-13T17:21:38+00:00
-konverterad: 2026-11-13T17:22:17+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:21:19+00:00
+konverterad: 2026-11-20T11:21:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ocr, ocr, ocr, ocr, ok, ok]
 tal_obekraftade: [8, 9, 10, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 61, 62, 63, 64, 65, 66]
 figurer: [2, 4, 5, 6, 7, 10, 11, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 60, 62, 63, 64, 65, 66]
 tolkade: []
@@ -261,8 +261,9 @@ tölöberg.docx
 
 [Tabell 8-1](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/8-1.csv)
 
-| Nivå | C<br>u<br>[kPa] | C<br>u<br>[kPa/m] |
+| Nivå | C<br>u | C<br>u |
 | --- | --- | --- |
+|  | [kPa] | [kPa/m] |
 | +9 | 15 | 0,6 |
 | -4 | 23 | -- |
 
@@ -315,8 +316,9 @@ tölöberg.docx
 
 [Tabell 9-1](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/9-1.csv)
 
-| Nivå | C<br>u<br>[kPa] | C<br>u<br>[kPa/m] |
+| Nivå | C<br>u | C<br>u |
 | --- | --- | --- |
+|  | [kPa] | [kPa/m] |
 | +5 | 14 | 0,92 |
 | -7 | 25 | 1,86 |
 | -14 | 38 | 0,58 |
@@ -465,26 +467,39 @@ tölöberg.docx
 
 | Förutsättning | Gynnsamma förhållanden | Ogynnsamma förhållanden |
 | --- | --- | --- |
-| Fältundersökningens innehåll och<br>omfattning | CPT-sonderingar är utförda |  |
-|  | Tätt sonderat |  |
-|  | In situ-provtagning är utförd med<br>vingförsök |  |
-| Laboratorieundersökningens<br>innehåll och omfattning | CRS, DS utförda | Triaxialförsök saknas |
+| Fältundersökningens innehåll och | CPT-sonderingar är utförda |  |
+| omfattning | Tätt sonderat |  |
+|  | In situ-provtagning är utförd med |  |
+|  | vingförsök |  |
+| Laboratorieundersökningens | CRS, DS utförda | Triaxialförsök saknas |
+| innehåll och omfattning |  |  |
 | Släntens beständighet | Ingen risk för erosion |  |
-|  | Intakt gräs- busk- eller<br>trädvegetation |  |
+|  | Intakt gräs- busk- eller |  |
+|  | trädvegetation |  |
 |  | Inga tecken på rörelser i slänten |  |
-| Släntens geometri | Väl kartlagt med avvägningar och<br>lodningar |  |
+| Släntens geometri | Väl kartlagt med avvägningar och |  |
+|  | lodningar |  |
 |  | Flack slänt |  |
-| Grundvatten- och<br>portrycksförhållanden | Karakteristiska vattenstånd är<br>kända | Långtidsobservationer saknas |
-|  | Begränsade förväntade<br>tryckvariationer | Risk för lokala vattensamlingar |
-|  |  | Ringa kännedom om<br>portrycksfördelningen i t |
+| Grundvatten- och | Karakteristiska vattenstånd är | Långtidsobservationer saknas |
+| portrycksförhållanden | kända |  |
+|  | Begränsade förväntade | Risk för lokala vattensamlingar |
+|  | tryckvariationer |  |
+|  |  | Ringa kännedom om |
+|  |  | portrycksfördelningen i t |
 | Jords egenskaper | Homogen jord | Kohesionsjord |
 |  | Låg sensitivitet |  |
-|  | Liten spridning i bestämda<br>hållfasthetsegenskaper |  |
+|  | Liten spridning i bestämda |  |
+|  | hållfasthetsegenskaper |  |
 | Konsekvenser av skred | Begränsad utbredning av skred |  |
-| Analys- och beräkningsarbetets<br>tillförlitlighet | Stort antal beräknade glidytor |  |
-|  | Förhållandena är enkla med små<br>variationer i yta, jordlagerföljd eller<br>hållfasthet |  |
-|  | Tvådimensionell analys (som regel<br>något på säkra sidan) |  |
-|  | Glidytans läge i plan vald i<br>farligaste delen av slänten ur<br>stabilitetssynpunkt |  |
+| Analys- och beräkningsarbetets | Stort antal beräknade glidytor |  |
+| tillförlitlighet | Förhållandena är enkla med små |  |
+|  | variationer i yta, jordlagerföljd eller |  |
+|  | hållfasthet |  |
+|  | Tvådimensionell analys (som regel |  |
+|  | något på säkra sidan) |  |
+|  | Glidytans läge i plan vald i |  |
+|  | farligaste delen av slänten ur |  |
+|  | stabilitetssynpunkt |  |
 
 <!-- sida 14 -->
 
@@ -506,30 +521,30 @@ För friktionsjordar i utredningen har tabellvärlden från ”Trafikverkets tek
 13” använts.
 Tabell 4. Dimesionerande hållfasthetparametrar.
 
-Material         Nivå    𝝉 𝒇𝒖 [kPa] ∅ 𝐤 [°] c’ [kPa] 𝛄/𝛄′ [kN/m3]
-Sprängsten                 -        -       32R     -       18/21
-Sand                       -        -       32R     -       18/20
-Underliggande friktionsmaterial -   -       35      -       18/20
-Let (Torrskorpa)           -      25 – 2\*z  30     0,1𝒄      17
-𝒖
-Lera 1 (delområde I)       +9    16 + 0,77\*z 30    0,1𝒄     16,5
-𝒖
-Lera 2 (delområde II)      +5    14 + 0,92\*z 30    0,1𝒄     16,5
-𝒖
--7
-Lera 2 (delområde II)      -7    25 + 1,86\*z 30    0,1𝒄     16,5
-𝒖
--14
-Lera 2 (delområde II)      -14   38 + 0,58\*z 30    0,1𝒄     16,5
-𝒖
--26
 R Ansatt residualvärde pga underlagrande lera
+
 Portryck och vattennivå
 Beräkningarna har utförts med hydrostatiskt porvattentryck från en grundvattennivå belägen 0,6 m under
 markytan. Vattennivån i ån har ansatts till lägsta lågvatten (LLV) vid nivå +0,8.
 
 \\\norconsultad.com\dfs\swe\göteborg\n-data\108\45\1084519\5 arbetsmaterial\01 dokument\g\pm\pm-dp- 2023-11-14 | Sida 14 av 30
 tölöberg.docx
+
+[Tabell 14-1](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/14-1.csv)
+
+| Material | Nivå | 𝝉 [kPa]<br>𝒇𝒖 | ∅ [°]<br>𝐤 | c’ [kPa] | 𝛄/𝛄′ [kN/m3] |
+| --- | --- | --- | --- | --- | --- |
+| Sprängsten | - | - | 32R | - | 18/21 |
+| Sand | - | - | 32R | - | 18/20 |
+| Underliggande friktionsmaterial | - | - | 35 | - | 18/20 |
+| Let (Torrskorpa) | - | 25 – 2\*z | 30 | 0,1𝒄<br>𝒖 | 17 |
+| Lera 1 (delområde I) | +9 | 16 + 0,77\*z | 30 | 0,1𝒄<br>𝒖 | 16,5 |
+| Lera 2 (delområde II) | +5 | 14 + 0,92\*z | 30 | 0,1𝒄<br>𝒖 | 16,5 |
+|  | -7 |  |  |  |  |
+| Lera 2 (delområde II) | -7 | 25 + 1,86\*z | 30 | 0,1𝒄<br>𝒖 | 16,5 |
+|  | -14 |  |  |  |  |
+| Lera 2 (delområde II) | -14 | 38 + 0,58\*z | 30 | 0,1𝒄<br>𝒖 | 16,5 |
+|  | -26 |  |  |  |  |
 
 <!-- sida 15 -->
 
@@ -573,8 +588,9 @@ tölöberg.docx
 
 [Tabell 15-1](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/15-1.csv)
 
-| Sektion | Kombinerad analys<br>F ≥1,3<br>komb | Odränerad analys<br>F ≥1,4<br>c |
+| Sektion | Kombinerad analys | Odränerad analys |
 | --- | --- | --- |
+|  | F ≥1,3<br>komb | F ≥1,4<br>c |
 | 1 (Torrskorpelera) | 1,33 | 1,39 |
 | 1 (Lera) | 1,33 | 1,39 |
 | 2 (Torrskorpelera) | 1,40 | 1,49 |
@@ -584,15 +600,17 @@ tölöberg.docx
 
 [Tabell 15-2](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/15-2.csv)
 
-| Sektion | Kombinerad analys<br>F ≥1,3<br>komb | Odränerad analys<br>F ≥1,4<br>c |
+| Sektion | Kombinerad analys | Odränerad analys<br>F ≥1,4<br>c |
 | --- | --- | --- |
+|  | F ≥1,3<br>komb |  |
 | 2 (Torrskorpelera) | 1,38 | 1,40 |
 | 2 (Lera) | 1,37 | 1,43 |
 
 [Tabell 15-3](handlingar-kungsbacka-sjukhus-geoteknik-pm.tabeller/15-3.csv)
 
-| Sektion | Kombinerad analys<br>F ≥1,3<br>komb | Odränerad analys<br>F ≥1,4<br>c |
+| Sektion | Kombinerad analys | Odränerad analys<br>F ≥1,4<br>c |
 | --- | --- | --- |
+|  | F ≥1,3<br>komb |  |
 | 2 (Torrskorpelera) | 1,83 | 1,81 |
 | 2 (Lera) | 1,83 | 1,81 |
 

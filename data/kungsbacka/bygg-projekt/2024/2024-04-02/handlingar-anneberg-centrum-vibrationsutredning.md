@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b22087/1712041337
 sha256: b0e12bb225e1420ef1c6b4f11e14f5e1975e0f69167070424ecd49dc43463eb0
 bytes: 4142838
 sidor: 18
-hamtad: 2026-11-13T16:45:08+00:00
-konverterad: 2026-11-13T16:45:18+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:37:45+00:00
+konverterad: 2026-11-20T10:37:53+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -158,16 +158,6 @@ sägs ligga inom intervallet 0,2 - 0,3 mm/s RMS.
 Tabell 1. Riktvärden för liten, måttlig, sannolik och stor störning enligt SS 460 48 61. Värdena avser
 uppmätta nivåer inomhus i bostäder. Kompletterat i tabellen är ”liten störning och ”stor störning”,
 detta för att få en tydligare bild över vibrationens upplevelse.
-Störningsområde Vägd hastighet Vägd acceleration Anmärkning
-Liten störning 0,1–0,4 mm/s          Knappt kännbar för människa.
-Känseltröskel ca 0,2–0,3 mm/s.
-Måttlig störning 0,4–1,0 mm/s 14,4–36,0 mm/s2 Delvis kännbar för människa.
-
-Sannolik störning >1,0 mm/s > 36,0 mm/s2 Kännbar för människa. Upplevs
-som störande. Kan ge upphov till
-åtgärder.
-Stor störning >2,5 mm/s              Mycket kännbar för människa.
-Upplevs som störande.
 
 Värdena är angivna i form av vägd svängningshastighet, vilket är effektivvärdet av svängningshastig-
 heten uppmätt med tidsvägning ”slow” (enligt SS-EN 61672–1:2014) och frekvensvägt enligt ISO 8041
@@ -181,12 +171,23 @@ anläggningsarbeten.
 Standarden har reviderats 2022-01-11, se tabell 2.
 
 Tabell 2. Effektvärden Svensk Standard, SS 4604861:2022-01-11.
-Effekter                               Vw, RMS (s) [mm/s]
 
-Ungefärlig känseltröskel               0,2
+[Tabell 6-1](handlingar-anneberg-centrum-vibrationsutredning.tabeller/6-1.csv)
 
-Vibrationsnivå från tågtrafik där mätbar påverkan på sömn startar 0,4
-Ungefär 1 av 3 personer är störda av vibrationer från tågtrafik 0,7
+| Störningsområde | Vägd hastighet | Vägd acceleration | Anmärkning |
+| --- | --- | --- | --- |
+| Liten störning | 0,1–0,4 mm/s |  | Knappt kännbar för människa.<br>Känseltröskel ca 0,2–0,3 mm/s. |
+| Måttlig störning 0,4–1,0 mm/s 14,4–36,0 mm/s2 Delvis kännbar för människa. |  |  |  |
+| Sannolik störning | >1,0 mm/s | > 36,0 mm/s2 | Kännbar för människa. Upplevs<br>som störande. Kan ge upphov till<br>åtgärder. |
+| Stor störning >2,5 mm/s Mycket kännbar för människa.<br>Upplevs som störande. |  |  |  |
+
+[Tabell 6-2](handlingar-anneberg-centrum-vibrationsutredning.tabeller/6-2.csv)
+
+| Effekter | Vw, RMS (s) [mm/s] |
+| --- | --- |
+| Ungefärlig känseltröskel | 0,2 |
+| Vibrationsnivå från tågtrafik där mätbar påverkan på sömn startar 0,4 |  |
+| Ungefär 1 av 3 personer är störda av vibrationer från tågtrafik | 0,7 |
 
 <!-- sida 7 -->
 
@@ -200,16 +201,14 @@ Trafikverkets riktlinje TDOK 2014:1021, Buller och vibrationer från trafik på 
 eller väsentlig ombyggnation av infrastruktur som vid åtgärder för bostäder längs med befintlig
 infrastruktur.
 Tabell 3. Trafikverkets riktvärden for vibrationer från väg- och spårtrafik.
-Planering av bebyggelse intill statlig infrastruktur
 
-Riktvärde omfattar bostadsrum i permanentbostad och fritidsbostad
-Vibrationsnivå1              Hastighet [mm/s]
-RMS (1-80 Hz)                   0,42
+[Tabell 7-1](handlingar-anneberg-centrum-vibrationsutredning.tabeller/7-1.csv)
 
-1Angivna värden enligt SS 460 48 61 dvs max RMS-värden, tidsvägning ”slow” och frekvensvägt enligt ISO
-8041 inom frekvensområdet 1–80 Hz.
-2Avser trafikårsmedelnatt (22–06) för de spår/ vägbanor som berörs av markarbeten. Riktvärdet innebär att
-vibrationsnivån 0,4 mm/s får överskridas högst fem gånger per natt.
+| Planering av bebyggelse intill statlig infrastruktur<br>Riktvärde omfattar bostadsrum i permanentbostad och fritidsbostad |  |
+| --- | --- |
+| Vibrationsnivå1 | Hastighet [mm/s] |
+| RMS (1-80 Hz) 0,42 |  |
+| 1Angivna värden enligt SS 460 48 61 dvs max RMS-värden, tidsvägning ”slow” och frekvensvägt enligt ISO<br>8041 inom frekvensområdet 1–80 Hz.<br>2Avser trafikårsmedelnatt (22–06) för de spår/ vägbanor som berörs av markarbeten. Riktvärdet innebär att<br>vibrationsnivån 0,4 mm/s får överskridas högst fem gånger per natt. |  |
 
 <!-- sida 8 -->
 
@@ -456,23 +455,6 @@ Av de uppmätta värdena framgår att det finns en dominant respons i vertikal r
 
 I ett första skede har de 10 högsta registrerade toppvärdena vid mätpunkt 7 (trigg) valts ut, se tabell 8.
 Tabell 8. Mätresultat för 10 högsta uppmätta värden för vibrationsnivå i mark vid mätpunkt trigg MP7.
-mätpunkt Riktning  Datum och tid Uppmätt svängningshastighet [mm/s]
-MP7-TRIGV vertikal 2023-05-26 20:23        7,07
-
-MP7-TRIGV vertikal 2023-05-26 04:33        6,36
-
-MP7-TRIGV vertikal 2023-05-24 08:43        6,03
-MP7-TRIGV vertikal 2023-05-26 08:43        5,82
-
-MP7-TRIGV vertikal 2023-05-24 20:56        5,65
-
-MP7-TRIGV vertikal 2023-05-24 22:55        5,60
-MP7-TRIGV vertikal 2023-05-24 14:25        5,55
-
-MP7-TRIGV vertikal 2023-05-28 08:02        5,53
-
-MP7-TRIGV vertikal 2023-05-23 17:26        5,49
-MP7-TRIGV vertikal  2023-05-23 16:28       5,45
 
 De triggade händelserna har vidare analyserats utifrån kriteriet att mätvärden ska ha erhållits vid
 samtliga mätpunkter (MP1-MP5) inom ett kort tidsintervall, detta för att verifiera att vibrationerna bör
@@ -484,7 +466,22 @@ Tabell 9. Högsta uppmätta toppvärde vid mätpunkt 1–5, i samband med trigga
 
 [Tabell 15-1](handlingar-anneberg-centrum-vibrationsutredning.tabeller/15-1.csv)
 
-| Namn Datum och tid Svängningshastighet Acceleration Amplitud Frekvens [Hz]<br>[mm/s] [m/s²] [um] |  |  |  |  |  |
+| mätpunkt | Riktning | Datum och tid | Uppmätt svängningshastighet [mm/s] |  |
+| --- | --- | --- | --- | --- |
+| MP7-TRIGV | vertikal | 2023-05-26 20:23 | 7,07 |  |
+| MP7-TRIGV vertikal 2023-05-26 04:33 6,36 |  |  |  |  |
+| MP7-TRIGV | vertikal | 2023-05-24 08:43 |  | 6,03 |
+| MP7-TRIGV vertikal 2023-05-26 08:43 5,82 |  |  |  |  |
+| MP7-TRIGV | vertikal | 2023-05-24 20:56 |  | 5,65 |
+| MP7-TRIGV vertikal 2023-05-24 22:55 5,60 |  |  |  |  |
+| MP7-TRIGV | vertikal | 2023-05-24 14:25 |  | 5,55 |
+| MP7-TRIGV vertikal 2023-05-28 08:02 5,53 |  |  |  |  |
+| MP7-TRIGV | vertikal | 2023-05-23 17:26 |  | 5,49 |
+| MP7-TRIGV vertikal 2023-05-23 16:28 5,45 |  |  |  |  |
+
+[Tabell 15-2](handlingar-anneberg-centrum-vibrationsutredning.tabeller/15-2.csv)
+
+| Namn | Datum och tid | Svängningshastighet<br>[mm/s] | Acceleration<br>[m/s²] | Amplitud<br>[um] | Frekvens [Hz] |
 | --- | --- | --- | --- | --- | --- |
 | MP3-<br>Vertikal | 2023-05-26<br>04:33:32 | 0,45 | 0,0 | 16 | 5,2 |
 

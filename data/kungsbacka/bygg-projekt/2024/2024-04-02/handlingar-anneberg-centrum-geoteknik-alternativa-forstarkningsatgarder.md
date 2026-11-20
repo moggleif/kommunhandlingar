@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b220a0/1712041820
 sha256: 44d93df34e19101a26504a1716d2e87ce5d410a92e7e1bee24524497b1d44397
 bytes: 7230601
 sidor: 32
-hamtad: 2026-11-13T16:46:46+00:00
-konverterad: 2026-11-13T16:47:23+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:39:22+00:00
+konverterad: 2026-11-20T10:40:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
 tal_obekraftade: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 figurer: [1, 2, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 tolkade: []
@@ -243,15 +243,34 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\projpm geo.docx 2022-09-30 | Si
 
 | Borrhål | Utvärdering | Påverkan kvickleretolkning |
 | --- | --- | --- |
-| NC1 | Högre resistivitet i ytjordlagren på grund av sand<br>och gyttja, jämför med kolvprovtagning i bh 3.<br>Ingen kvicklera ned till minst 15 m. | Resultatet ger att kvickleran bedöms ligga<br>djupare än tidigare. Djup till kvicklera<br>överensstämmer nu bättre med bh 1906<br>(11 m) & 1907 (16 m). |
+| NC1 | Högre resistivitet i ytjordlagren på grund av sand | Resultatet ger att kvickleran bedöms ligga |
+|  | och gyttja, jämför med kolvprovtagning i bh 3. | djupare än tidigare. Djup till kvicklera |
+|  | Ingen kvicklera ned till minst 15 m. | överensstämmer nu bättre med bh 1906 |
+|  |  | (11 m) & 1907 (16 m). |
 | NC2 | Se NC1. Ingen kvicklera ned till minst 15 m. | Se NC1. |
 | NC3 | Ingen kvicklera ned till minst 15 m | Resultat verifierar tidigare tolkning. |
 | NC4 | Ingen kvicklera ned till minst 15 m | Resultat verifierar tidigare tolkning. |
-| NC5 | Över 5 Ω på 2-3,5 m djup. Bedöms bero på sand<br>och gyttja, jämför med kolvprovtagning i NC7.<br>Ingen kvicklera ned till minst 15 m. | Resultatet ger att kvickleran bedöms ligga<br>djupare än tidigare. Djup till kvicklera<br>överensstämmer nu bättre med bh 1804 (>20<br>m) och bh 1914 (försiktigt tolkad till 3 m<br>verifierad kvicklera på 10 m). |
-| NC6 | Över 5 Ω på 1,5-4,5 m djup. Bedöms bero på<br>sand och gyttja, jämför med kolvprovtagning i<br>NC7. Ingen kvicklera ned till minst 15 m. | Resultatet ger att kvickleran bedöms ligga<br>djupare än tidigare. Gränsen för var kvicklera<br>återfinns på nivåer över åbotten bedöms vika<br>av västerut parallellt med fastmarksgränsen. |
-| NC7 | Över 5 Ω på 2-10 m djup. Kolvprovtagning visar<br>på kvicklera på nivå 6,7 och 8 m. Resultat tolkas<br>som att leran är kvick mellan 5 och 10 m djup<br>samt ej kvick mellan 10 och 15 m djup. | Se NC6. |
-| NC8 | Över 5 Ω på 2-5 m djup. Bedöms bero på sand<br>och gyttja, jämför med kolvprovtagning i NC7.<br>Ingen kvicklera ned till minst 15 m. | Se NC6. |
-| NC9 | Hög resistivitet i hela profilen. | Borrhål tolkas ha kvicklera från 4 m djup,<br>(underkant torrskorpa, sandskikt). Något<br>försiktig tolkning vilket höjer upp nivån på<br>kvickleran med 4 m. Djup till kvicklera<br>överensstämmer nu bättre med bh 1914. |
+| NC5 | Över 5 Ω på 2-3,5 m djup. Bedöms bero på sand | Resultatet ger att kvickleran bedöms ligga |
+|  | och gyttja, jämför med kolvprovtagning i NC7. | djupare än tidigare. Djup till kvicklera |
+|  | Ingen kvicklera ned till minst 15 m. | överensstämmer nu bättre med bh 1804 (>20 |
+|  |  | m) och bh 1914 (försiktigt tolkad till 3 m |
+|  |  | verifierad kvicklera på 10 m). |
+| NC6 | Över 5 Ω på 1,5-4,5 m djup. Bedöms bero på | Resultatet ger att kvickleran bedöms ligga |
+|  | sand och gyttja, jämför med kolvprovtagning i | djupare än tidigare. Gränsen för var kvicklera |
+|  | NC7. Ingen kvicklera ned till minst 15 m. | återfinns på nivåer över åbotten bedöms vika |
+|  |  | av västerut parallellt med fastmarksgränsen. |
+| NC7 | Över 5 Ω på 2-10 m djup. Kolvprovtagning visar | Se NC6. |
+|  | på kvicklera på nivå 6,7 och 8 m. Resultat tolkas |  |
+|  | som att leran är kvick mellan 5 och 10 m djup |  |
+|  | samt ej kvick mellan 10 och 15 m djup. |  |
+| NC8 | Över 5 Ω på 2-5 m djup. Bedöms bero på sand | Se NC6. |
+|  | och gyttja, jämför med kolvprovtagning i NC7. |  |
+|  | Ingen kvicklera ned till minst 15 m. |  |
+| NC9 | Hög resistivitet i hela profilen. | Borrhål tolkas ha kvicklera från 4 m djup, |
+|  |  | (underkant torrskorpa, sandskikt). Något |
+|  |  | försiktig tolkning vilket höjer upp nivån på |
+|  |  | kvickleran med 4 m. Djup till kvicklera |
+|  |  | överensstämmer nu bättre med bh 1914. |
 
 <!-- sida 7 -->
 
@@ -344,8 +363,11 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\projpm geo.docx 2022-09-30 | Si
 
 [Tabell 8-1](handlingar-anneberg-centrum-geoteknik-alternativa-forstarkningsatgarder.tabeller/8-1.csv)
 
-| Sektion | Kvicklera | Erosion | Befintlig<br>slänt<br>F min<br>EN | Redovisning | Efter<br>skred<br>F min<br>EN | Efter skred.<br>Avstånd till<br>exploatering från<br>åmitt | Redovisning |
+| Sektion | Kvicklera | Erosion | Befintlig<br>slänt<br>F min<br>EN | Redovisning | Efter<br>skred<br>F min<br>EN | Efter skred. | Redovisning |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  | Avstånd till |  |
+|  |  |  |  |  |  | exploatering från |  |
+|  |  |  |  |  |  | åmitt |  |
 | 1 | Ja | Ja | 0,78 | Bilaga 1:1 | 0,65 | 80 m | 2:1 |
 | 2 | Ja | Ja | 0,75 | Bilaga 1:2 | 0,99 | 50 m | 2:2 |
 | 3 | Nej | Nej | 0,91 | Sweco<br>bilaga 5 | Ej<br>beräknad | 27 m | - |

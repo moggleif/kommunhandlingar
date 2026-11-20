@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c72de/17794330884
 sha256: 9dc4891470bd4e9a71584699824b21e66b67df7955f97652dd23f691a8a59263
 bytes: 14850356
 sidor: 134
-hamtad: 2026-11-15T09:21:53+00:00
-konverterad: 2026-11-15T09:23:21+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:06:11+00:00
+konverterad: 2026-11-20T13:07:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ej-konverterad, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok]
@@ -269,16 +269,6 @@ Utförda fältundersökningar i respektive undersökningspunkt redovisas Tabell 
 
 Tabell 5. Utförda fältundersökningar i respektive undersökningspunkt.
 
-Undersökningspunkt Tr CPT  Slb  Skr  Kv   GW
-GT01              X    X    X    X        X
-
-GT02              X
-GT03              X              X    X
-GT04              X    X         X
-
-GT05              X
-GT06              X    X         X        X
-
 7.2 Undersökningsperiod
 
 Fältundersökningarna har utförts mellan 2025-04-08 och 2025-04-09.
@@ -298,18 +288,29 @@ Geotechnica och skickas till beställaren vid förfrågan.
 
 | Undersökningsmetod | Antal (st) |
 | --- | --- |
-| Trycksondering 6 |  |
-| CPT-sondering 3 |  |
-| Slagsondering 1 |  |
-| Kolvprovtagning 1 |  |
-| Grundvattenrör 2 |  |
+| Trycksondering | 6 |
+| CPT-sondering | 3 |
+| Slagsondering | 1 |
+| Kolvprovtagning | 1 |
+| Grundvattenrör | 2 |
 
 [Tabell 8-2](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/8-2.csv)
 
 | Undersökningsmetod | Antal (st) |
 | --- | --- |
-| Skruvprovtagning 4 |  |
-| Kolvprovtagning 1 |  |
+| Skruvprovtagning | 4 |
+| Kolvprovtagning | 1 |
+
+[Tabell 8-3](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/8-3.csv)
+
+| Undersökningspunkt | Tr | CPT | Slb | Skr | Kv | GW |
+| --- | --- | --- | --- | --- | --- | --- |
+| GT01 | X | X | X | X |  | X |
+| GT02 | X |  |  |  |  |  |
+| GT03 | X |  |  | X | X |  |
+| GT04 | X | X |  | X |  |  |
+| GT05 | X |  |  |  |  |  |
+| GT06 | X | X |  | X |  | X |
 
 <!-- sida 9 -->
 
@@ -334,13 +335,6 @@ Utförda laboratorieundersökningar på upptagna störda och ostörda jordprover
 respektive undersökningspunkt redovisas i Tabell 6.
 
 Tabell 6. Utförda laboratorieundersökningar.
-Undersökningspunkt Jordart w  w    ⍴     c    St  CRS
-N     L         u
-GT01               X     X    X
-GT03               X     X    X    X     X    X    X
-GT04               X     X    X
-
-GT06               X     X    X
 
 8.2 Undersökningsperiod
 Laboratorieundersökningar utfördes under april månad år 2025. Datum för utförande av
@@ -369,6 +363,15 @@ ritningar, se ritningsförteckning.
 
 9 (10)
 
+[Tabell 9-1](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/9-1.csv)
+
+| Undersökningspunkt | Jordart | w<br>N | w<br>L | ⍴ | c<br>u | St | CRS |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| GT01 | X | X | X |  |  |  |  |
+| GT03 | X | X | X | X | X | X | X |
+| GT04 | X | X | X |  |  |  |  |
+| GT06 | X | X | X |  |  |  |  |
+
 <!-- sida 10 -->
 
 Uppdrag: 25.052
@@ -382,13 +385,6 @@ Ansvarig för mätning av grundvattennivå har varit fältingenjör Marcus Samue
 Ingemar Andersson, Geotechnica Sverige AB.
 Tabell 7. Installerade grundvattenrör och portrycksmätare.
 
-Undersökningspunkt Mätmetod    Spetstyp
-Stålrör med
-GT01             Grundvattenrör
-filterspets
-Stålrör med
-GT06             Grundvattenrör
-filterspets
 9.2 Undersökningsperiod
 Mätning av grundvattennivån har utförts vid 2 tillfällen under perioden 2025-04-09 till
 2025-05-15.
@@ -427,6 +423,13 @@ Sammanställningen av resultaten från utförda geotekniska undersökningar visa
 normal spridning.
 
 10 (10)
+
+[Tabell 10-1](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/10-1.csv)
+
+| Undersökningspunkt | Mätmetod | Spetstyp |
+| --- | --- | --- |
+| GT01 | Grundvattenrör | Stålrör med<br>filterspets |
+| GT06 | Grundvattenrör | Stålrör med<br>filterspets |
 
 <!-- sida 11 -->
 
@@ -1436,8 +1439,8 @@ D jup (m )
 |  |  |  | L | NC |
 |  |  |  | M | OC |
 |  |  |  | L | NC |
-|  |  |  | M<br>Med | NCSi |
-| Sa |  |  |  |  |
+|  |  |  | M | NCSi |
+| Sa Med |  |  |  |  |
 
 [Tabell 24-2](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/24-2.csv)
 
@@ -1557,8 +1560,8 @@ D jup (m )
 |  |  |  | L | NC |
 |  |  |  | M | OC |
 |  |  |  | L | NC |
-|  |  |  | M<br>Med | NCSi |
-| Sa |  |  |  |  |
+|  |  |  | M | NCSi |
+| Sa Med |  |  |  |  |
 
 [Tabell 25-2](handlingar-bostader-i-fjaras-mur-geoteknik.tabeller/25-2.csv)
 

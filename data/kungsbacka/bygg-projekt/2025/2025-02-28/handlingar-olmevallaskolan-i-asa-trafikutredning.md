@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b21d97/1740734472
 sha256: 3d71c56dc07ad766db51820d8469eec3074122b7a71b4e6ae19f186f24f59208
 bytes: 1716533
 sidor: 21
-hamtad: 2026-11-13T17:14:41+00:00
-konverterad: 2026-11-13T17:14:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:09:27+00:00
+konverterad: 2026-11-20T11:09:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -161,7 +161,7 @@ Tabell 1 - Planerad exploatering
 
 [Tabell 6-1](handlingar-olmevallaskolan-i-asa-trafikutredning.tabeller/6-1.csv)
 
-| Område Exploatering |  |
+| Område | Exploatering |
 | --- | --- |
 | A | 140 lgh, 570 BTA verksamheter |
 | B | 80–90 lgh, 1500 BTA centrumverksamhet |
@@ -259,7 +259,7 @@ fortsätter längs Varbergsvägen söderut mot Åsa centrum. För barn som bor i
 
 [Tabell 10-1](handlingar-olmevallaskolan-i-asa-trafikutredning.tabeller/10-1.csv)
 
-| Olyckstyp Antal |  |
+| Olyckstyp | Antal |
 | --- | --- |
 | Dödsolyckor | 0 |
 | Allvarliga<br>olyckor | 0 |
@@ -380,7 +380,7 @@ mer trafik. Detta kan förklaras av dels fler barn, dels barn i lägre åldrar v
 
 [Tabell 15-1](handlingar-olmevallaskolan-i-asa-trafikutredning.tabeller/15-1.csv)
 
-| Antal barn Antal barn Antal barn Antal barn Genererad<br>förskola F-3 4–6 7–9 ÅDT |  |  |  |  |  |
+|  | Antal barn<br>förskola | Antal barn<br>F-3 | Antal barn<br>4–6 | Antal barn<br>7–9 | Genererad<br>ÅDT |
 | --- | --- | --- | --- | --- | --- |
 | Nuläge | 160 | 115 | 115 | 150 | 1 146 |
 | Framtid | 200 | 500 |  |  | 1 546 |
@@ -544,7 +544,7 @@ Den sammantagna påverkan av den aktuella planen bedöms vara liten och inga
 
 [Tabell 19-1](handlingar-olmevallaskolan-i-asa-trafikutredning.tabeller/19-1.csv)
 
-| Antal barn Antal barn Antal barn Antal barn Genererad<br>förskola F-3 4–6 7–9 ÅDT |  |  |  |  |  |
+|  | Antal barn<br>förskola | Antal barn<br>F-3 | Antal barn<br>4–6 | Antal barn<br>7–9 | Genererad<br>ÅDT |
 | --- | --- | --- | --- | --- | --- |
 | Nuläge | 160 | 115 | 115 | 150 | 1 146 |
 | Framtid | 200 | 500 |  |  | 1 546 |

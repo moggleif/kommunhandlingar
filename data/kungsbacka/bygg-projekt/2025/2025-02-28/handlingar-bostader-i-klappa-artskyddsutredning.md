@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7a4c0a9a19545e45a4b20b57/1740730969
 sha256: cc16b8c3cd9509a2f34c1abe6a7e0c1c1a2a86fb5dff4a33b74bd232ee5b00fa
 bytes: 4746038
 sidor: 25
-hamtad: 2026-11-13T17:11:50+00:00
-konverterad: 2026-11-13T17:12:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:06:30+00:00
+konverterad: 2026-11-20T11:06:45+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -56,10 +56,13 @@ n:\108\24\1082426\5 arbetsmaterial\01 dokument\n\artskyddsutredning\230904artsky
 
 [Tabell 2-1](handlingar-bostader-i-klappa-artskyddsutredning.tabeller/2-1.csv)
 
-| 3 | 2023-09-04 | Reviderad sluthandling efter kundens kommentarer | Matilda Gille, Lisa<br>Werthén, Sara Rydbeck | Caroline<br>Jöngren | Sara Rydbeck |
+| 3 | 2023-09-04 | Reviderad sluthandling efter kundens kommentarer | Matilda Gille, Lisa | Caroline | Sara Rydbeck |
 | --- | --- | --- | --- | --- | --- |
-| 2 | 2023-06-20 | Sluthandling | Matilda Gille, Lisa<br>Werthén, Sara Rydbeck | Caroline<br>Jöngren | Sara Rydbeck |
-| 1 | 2023-06-01 | Konceptrapport | Matilda Gille, Sara<br>Rydbeck | Caroline<br>Jöngren | Sara Rydbeck |
+|  |  |  | Werthén, Sara Rydbeck | Jöngren |  |
+| 2 | 2023-06-20 | Sluthandling | Matilda Gille, Lisa | Caroline | Sara Rydbeck |
+|  |  |  | Werthén, Sara Rydbeck | Jöngren |  |
+| 1 | 2023-06-01 | Konceptrapport | Matilda Gille, Sara | Caroline | Sara Rydbeck |
+|  |  |  | Rydbeck | Jöngren |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
@@ -588,15 +591,41 @@ n:\108\24\1082426\5 arbetsmaterial\01 dokument\n\artskyddsutredning\230904artsky
 
 | Damm | Kort beskrivning | Observationer av groddjur |
 | --- | --- | --- |
-| 1 | Anlagd damm på jordbruksmark. Näringsrik och omgiven<br>av tätt vassbälte men i övrigt ingen förekomst av<br>vattenväxter eller alger. | Inga observationer av groddjur 2023-05-17,<br>då dammen inte gick att inventera pga. dess<br>svårgenomträngliga omgivande vassbälte. |
-| 2 | Anlagd damm på jordbruksmark intill betesmark. Näringsrik<br>med en del vass och andra vattenväxter samt viss<br>förekomst av alger. Delvis öppna strandkanter men viss<br>förekomst av buskar, träd samt en anlagd brygga. | Två individer av större vattensalamander<br>och en dräktig hona av mindre<br>vattensalamander observerade 2023-05-17. |
-| 3 | Mindre näringspåverkad damm på fastighet Stockalid 1:9,<br>belägen i anslutning till dikad bäck på öppen svagt<br>igenväxande mindre jordbruksmark. Öppna strandkanter<br>med undantag för yngre tall och viss förekomst av<br>vattenväxter och alger i dammen. | Större och mindre vattensalamander<br>observerade under flera fältbesök våren<br>2023. Under kvällsinventering 2023-05-17<br>noterades båda arterna. |
-| 4, 5 | Mindre skogstjärnar/våtmarker med mycket vitmossa och<br>en del vattenväxter. Relativt grunda med mycket flacka<br>strandkanter och omgivna av gles blandskog. Sannolikt<br>lämpliga för groddjur men bedöms som för grunda för<br>större vattensalamander. | Vanlig snok observerad 2023-05-17. |
-| 6 | Större dagvattendamm intill järnväg. Omgiven av lövträd<br>och en del vass och andra vattenväxter. Mycket organiskt<br>material på botten i form av löv och grenar. | 3 hanar och en hona av större<br>vattensalamander. 2 hanar av mindre<br>salamander. 2 individer av obestämda<br>grodor och grodyngel observerades 2023-<br>05-17 |
-| 7 | Anlagd damm inom fastighet Kläppa 1:12. Beskriven i<br>rapport för naturvärdesinventering 2022. | Större och mindre vattensalamander samt<br>vanlig snok observerade under fältbesök<br>2022. |
-| 8 | Damm inom fastighet Kläppa 1:105. Beskriven i rapport för<br>naturvärdesinventering 2022. | Kräftor observerade under fältbesök 2022. |
-| 9 | Våtmark belägen i fuktigt blandskogsområde. Vid fältbesök<br>var våtmarken till stor del uttorkad. Kan hysa groddjur men<br>bedöms för torr för större vattensalamander | Inga observationer av groddjur under<br>fältbesök 2023-05-17. |
-| 10 | Mindre naturlig damm/vattensamling vid mindre vattendrag<br>i lövskogsområde. Relativt grund med mycket organiskt<br>material och relativt skuggad av omgivande träd.<br>Bedömdes som sannolikt för grund för större<br>vattensalamander. | Inga observationer av groddjur under<br>fältbesök 2023-05-17. |
+| 1 | Anlagd damm på jordbruksmark. Näringsrik och omgiven | Inga observationer av groddjur 2023-05-17, |
+|  | av tätt vassbälte men i övrigt ingen förekomst av | då dammen inte gick att inventera pga. dess |
+|  | vattenväxter eller alger. | svårgenomträngliga omgivande vassbälte. |
+| 2 | Anlagd damm på jordbruksmark intill betesmark. Näringsrik | Två individer av större vattensalamander |
+|  | med en del vass och andra vattenväxter samt viss | och en dräktig hona av mindre |
+|  | förekomst av alger. Delvis öppna strandkanter men viss | vattensalamander observerade 2023-05-17. |
+|  | förekomst av buskar, träd samt en anlagd brygga. |  |
+| 3 | Mindre näringspåverkad damm på fastighet Stockalid 1:9, | Större och mindre vattensalamander |
+|  | belägen i anslutning till dikad bäck på öppen svagt | observerade under flera fältbesök våren |
+|  | igenväxande mindre jordbruksmark. Öppna strandkanter | 2023. Under kvällsinventering 2023-05-17 |
+|  | med undantag för yngre tall och viss förekomst av | noterades båda arterna. |
+|  | vattenväxter och alger i dammen. |  |
+| 4, 5 | Mindre skogstjärnar/våtmarker med mycket vitmossa och | Vanlig snok observerad 2023-05-17. |
+|  | en del vattenväxter. Relativt grunda med mycket flacka |  |
+|  | strandkanter och omgivna av gles blandskog. Sannolikt |  |
+|  | lämpliga för groddjur men bedöms som för grunda för |  |
+|  | större vattensalamander. |  |
+| 6 | Större dagvattendamm intill järnväg. Omgiven av lövträd | 3 hanar och en hona av större |
+|  | och en del vass och andra vattenväxter. Mycket organiskt | vattensalamander. 2 hanar av mindre |
+|  | material på botten i form av löv och grenar. | salamander. 2 individer av obestämda |
+|  |  | grodor och grodyngel observerades 2023- |
+|  |  | 05-17 |
+| 7 | Anlagd damm inom fastighet Kläppa 1:12. Beskriven i | Större och mindre vattensalamander samt |
+|  | rapport för naturvärdesinventering 2022. | vanlig snok observerade under fältbesök |
+|  |  | 2022. |
+| 8 | Damm inom fastighet Kläppa 1:105. Beskriven i rapport för | Kräftor observerade under fältbesök 2022. |
+|  | naturvärdesinventering 2022. |  |
+| 9 | Våtmark belägen i fuktigt blandskogsområde. Vid fältbesök | Inga observationer av groddjur under |
+|  | var våtmarken till stor del uttorkad. Kan hysa groddjur men | fältbesök 2023-05-17. |
+|  | bedöms för torr för större vattensalamander |  |
+| 10 | Mindre naturlig damm/vattensamling vid mindre vattendrag | Inga observationer av groddjur under |
+|  | i lövskogsområde. Relativt grund med mycket organiskt | fältbesök 2023-05-17. |
+|  | material och relativt skuggad av omgivande träd. |  |
+|  | Bedömdes som sannolikt för grund för större |  |
+|  | vattensalamander. |  |
 
 <!-- sida 18 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6afde4c819d24edced5cffe1/1775045207
 sha256: 7c5569ac30153d9c1fc37005b59cc36955ef6f9b8a4d939bde04d74d53232f05
 bytes: 3382823
 sidor: 48
-hamtad: 2026-11-15T09:09:52+00:00
-konverterad: 2026-11-15T09:10:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:52:37+00:00
+konverterad: 2026-11-20T12:53:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok]
@@ -55,8 +55,9 @@ n:\105\10\1051005\6 leverans\04 färdig handling (inkl pm)\1051005a.docx 2017-07
 
 [Tabell 2-1](handlingar-aranas-etapp-4-vibratonsutredning.tabeller/2-1.csv)
 
-| 1 | 2017-07-04 | Rapport | Andreas<br>Sigfridsson | Gunnar Widén | Andreas<br>Sigfridsson |
+| 1 | 2017-07-04 | Rapport | Andreas | Gunnar Widén | Andreas |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  | Sigfridsson |  | Sigfridsson |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->

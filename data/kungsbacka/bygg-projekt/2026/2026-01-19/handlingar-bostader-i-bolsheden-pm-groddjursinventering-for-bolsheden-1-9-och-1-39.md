@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b28b448/1768816468
 sha256: 26b5251678f747e034cc687530187489c3b5a50790509e9c559cec299a98b94e
 bytes: 2353392
 sidor: 9
-hamtad: 2026-11-15T08:54:35+00:00
-konverterad: 2026-11-15T08:54:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:33:16+00:00
+konverterad: 2026-11-20T12:33:26+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 2, 4, 5, 6, 7, 8]
 tolkade: []
@@ -178,7 +178,17 @@ Bolsheden 1:9 och 1:39
 Uppdragsnr.: 108 26 28 Version: 1
 
 Tabell 1. Resultat från inventeringen av groddjur i de olika vattensamlingarna.
+Datum Damm              Alsumpskog Diken      Väderlek
 
+13/4 Cirka 20 romklumpar (10–15 Inga noteringar Inga noteringar av Mulet och vindstilla, +8-9ºC i
+2023 cm i diameter) och en groda av groddjur eller groddjur eller rom- luften.
+observerade. En spelande van- romklumpar. klumpar. +11 ºC i dammen.
+lig groda.
+20/4 Ungefär 3 nya romklumpar no- Inga noteringar Inga noteringar av Soligt och +15 ºC i luften.
+2023 terade.            av groddjur eller groddjur eller rom- Nordöstlig vind 4–8 m/s.
+romklumpar. klumpar.  +14–15 ºC i dammen och
++12 ºC i sumpskogens vat-
+ten.
 11/5 Ett grodyngel observerat. Inga noteringar Inga noteringar av Vindstilla och +15 ºC i luften.
 2023                    av groddjur eller groddjur eller rom-
 romklumpar. klumpar.
@@ -196,13 +206,6 @@ hålor.
 
 n:\108\26\1082628\6 leverans\03 handling för externgranskning\groddjursinventering\pm groddjursinventering 2023-06-22 | Sida 8 av 9
 bolsheden 2023-06-22.docx
-
-[Tabell 8-1](handlingar-bostader-i-bolsheden-pm-groddjursinventering-for-bolsheden-1-9-och-1-39.tabeller/8-1.csv)
-
-| Datum | Damm | Alsumpskog | Diken | Väderlek |
-| --- | --- | --- | --- | --- |
-| 13/4<br>2023 | Cirka 20 romklumpar (10–15<br>cm i diameter) och en groda<br>observerade. En spelande van-<br>lig groda. | Inga noteringar<br>av groddjur eller<br>romklumpar. | Inga noteringar av<br>groddjur eller rom-<br>klumpar. | Mulet och vindstilla, +8-9ºC i<br>luften.<br>+11 ºC i dammen. |
-| 20/4<br>2023 | Ungefär 3 nya romklumpar no-<br>terade. | Inga noteringar<br>av groddjur eller<br>romklumpar. | Inga noteringar av<br>groddjur eller rom-<br>klumpar. | Soligt och +15 ºC i luften.<br>Nordöstlig vind 4–8 m/s.<br>+14–15 ºC i dammen och<br>+12 ºC i sumpskogens vat-<br>ten. |
 
 <!-- sida 9 -->
 

@@ -1,12 +1,7 @@
-"Behov idag
-Innerstaden
-(ärende/verksamma)","Teoretisk
-total
-200","Morgon
-50*","Dag
-160","Natt
-40*","Lördag
-200**"
+Behov idag,"Teoretisk
+total",Morgon,Dag,Natt,Lördag
+"Innerstaden
+(ärende/verksamma)",200,50*,160,40*,200**
 Hus A-D,167,117,75,134,134
 Boendebesökare,25,10,8,13,10
 Totalt,392,177,243,187,344

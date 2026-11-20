@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1b92000c19e48bc807f3773/17793637715
 sha256: df61f43f05f31e62f7a7c6d2f23d518f6f846aac9c1c4e1f69ea585118ed9833
 bytes: 11204688
 sidor: 151
-hamtad: 2026-11-15T09:12:47+00:00
-konverterad: 2026-11-15T09:13:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:55:55+00:00
+konverterad: 2026-11-20T12:56:30+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker]

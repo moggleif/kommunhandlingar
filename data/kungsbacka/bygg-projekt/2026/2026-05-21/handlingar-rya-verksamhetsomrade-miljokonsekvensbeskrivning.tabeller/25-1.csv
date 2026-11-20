@@ -1,14 +1,12 @@
-Svenskt namn,"Vetenskapligt
-namn",Rödlistning,Fridlysning,Övrigt naturvärde
-Järnek,Ilex aquifolium,"Akut hotad
-(CR)",,
-Idegran,Taxus baccata,"Livskraftig
-(LC)",8 §,
-Skogshare,Lepus timidus,"Nära hotad
-(NT)",5 §,
-Gammelgranslav,Lecanactis abietina,"Livskraftig
-(LC)",,"Typiska art för Natura 2000 naturtypen,
-trädklädd betesmark"
-Större hackspett,"Dendrocopos
-major","Livskraftig
-(LC)",4 §,Nyckelart
+Svenskt namn,Vetenskapligt,Rödlistning,Fridlysning,Övrigt naturvärde
+,namn,,,
+Järnek,Ilex aquifolium,Akut hotad,,
+,,(CR),,
+Idegran,Taxus baccata,Livskraftig,8 §,
+,,(LC),,
+Skogshare,Lepus timidus,Nära hotad,5 §,
+,,(NT),,
+Gammelgranslav,Lecanactis abietina,Livskraftig,,"Typiska art för Natura 2000 naturtypen,"
+,,(LC),,trädklädd betesmark
+Större hackspett,Dendrocopos,Livskraftig,4 §,Nyckelart
+,major,(LC),,

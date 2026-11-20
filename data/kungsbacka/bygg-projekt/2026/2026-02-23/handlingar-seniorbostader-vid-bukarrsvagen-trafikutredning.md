@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1cb70d/177186215409
 sha256: 21eeaf8b9181db2e5fff02e875acfb75f1943c3e246190e091bd5b19deecc58c
 bytes: 1942193
 sidor: 21
-hamtad: 2026-11-15T09:04:50+00:00
-konverterad: 2026-11-15T09:04:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:45:45+00:00
+konverterad: 2026-11-20T12:45:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -278,7 +278,7 @@ Tabell 1 - Fördelning olyckor
 
 [Tabell 10-1](handlingar-seniorbostader-vid-bukarrsvagen-trafikutredning.tabeller/10-1.csv)
 
-| Olyckstyp Antal |  |
+| Olyckstyp | Antal |
 | --- | --- |
 | Måttliga olyckor | 5 |
 | Lindriga olyckor | 10 |

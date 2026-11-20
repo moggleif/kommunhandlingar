@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ea12a3f17f1cb356901fe7/16455342189
 sha256: 3e2bb89576eaadc4466a9720083496a00d2238b414741744605153dcd9073d49
 bytes: 194665
 sidor: 2
-hamtad: 2026-11-13T15:53:49+00:00
-konverterad: 2026-11-13T15:53:55+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T09:41:25+00:00
+konverterad: 2026-11-20T09:41:30+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok]
@@ -64,6 +64,8 @@ Tabell 3 Framräknade trafikflöden för bostäderna inom planen
 |  | 2014 | 2015 | 2016 | 2017 | 2018 |
 | --- | --- | --- | --- | --- | --- |
 | 1384 Kungsbacka |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 | Flerbostadshus, bostadsrätt | 1,7 | 1,7 | 1,7 | 1,7 | 1,7 |
 | Flerbostadshus, hyresrätt | 1,8 | 1,8 | 1,8 | 1,8 | 1,9 |
 

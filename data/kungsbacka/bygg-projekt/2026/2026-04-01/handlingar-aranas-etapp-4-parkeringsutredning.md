@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6afde4c819d24edced5cffcb/1775045206
 sha256: 453818e2503c034541ca251fa47e98b5beacb3bad9f3c8131f9e63b3c0924599
 bytes: 6143671
 sidor: 76
-hamtad: 2026-11-15T09:09:36+00:00
-konverterad: 2026-11-15T09:09:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:51:14+00:00
+konverterad: 2026-11-20T12:51:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tom, ok, ok, ok, ok, tom, ok]
@@ -863,8 +863,9 @@ teoretiska dvs. 100 % parkerar
 
 [Tabell 33-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/33-1.csv)
 
-| Behov idag<br>Innerstaden<br>(ärende/verksamma) | Teoretisk<br>total<br>200 | Morgon<br>50\* | Dag<br>160 | Natt<br>40\* | Lördag<br>200\*\* |
+| Behov idag | Teoretisk<br>total | Morgon | Dag | Natt | Lördag |
 | --- | --- | --- | --- | --- | --- |
+| Innerstaden<br>(ärende/verksamma) | 200 | 50\* | 160 | 40\* | 200\*\* |
 | Hus A-D | 167 | 117 | 75 | 134 | 134 |
 | Boendebesökare | 25 | 10 | 8 | 13 | 10 |
 | Totalt | 392 | 177 | 243 | 187 | 344 |
@@ -885,8 +886,9 @@ baserat  på samnyttjandetalen.
 
 [Tabell 34-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/34-1.csv)
 
-| Behov idag<br>Innerstaden<br>(ärende/verksamma) | Teoretisk<br>total<br>200 | Morgon<br>50\* | Dag<br>160 | Natt<br>40\* | Lördag<br>200\*\* |
+| Behov idag | Teoretisk<br>total | Morgon | Dag | Natt | Lördag |
 | --- | --- | --- | --- | --- | --- |
+| Innerstaden<br>(ärende/verksamma) | 200 | 50\* | 160 | 40\* | 200\*\* |
 | Hus A-D | 167 | 117 | 75 | 134 | 134 |
 | Boendebesökare | 25 | 10 | 8 | 13 | 10 |
 | Totalt | 392 | 177 | 243 | 187 | 344 |
@@ -1057,8 +1059,9 @@ norra Aranäs stadsdel, dvs. även boendebesök  mm.
 
 [Tabell 39-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/39-1.csv)
 
-| Boende | Teoretisk<br>total<br>250 | Morgon<br>175 | Dag<br>110 | Natt<br>200 | Lördag<br>125 |
+|  | Teoretisk<br>total | Morgon | Dag | Natt | Lördag |
 | --- | --- | --- | --- | --- | --- |
+| Boende | 250 | 175 | 110 | 200 | 125 |
 | Verksamma | 175 | 90 | 140 | 35 | 90\* |
 | Ärende | 150 | 0 | 150 | 0 | 150\*\* |
 | Totalt | 575 | 265 | 400 | 235 | 365 |
@@ -1083,8 +1086,9 @@ Norr
 
 [Tabell 40-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/40-1.csv)
 
-| Beräkningsmetod 1<br>(givna/antagna<br>värden) | Teoretisk<br>total<br>392 | Morgon<br>177 | Dag<br>243 | Natt<br>187 | Lördag<br>(10-13)<br>344 |
+|  | Teoretisk<br>total | Morgon | Dag | Natt | Lördag<br>(10-13) |
 | --- | --- | --- | --- | --- | --- |
+| Beräkningsmetod 1<br>(givna/antagna<br>värden) | 392 | 177 | 243 | 187 | 344 |
 | Beräkningsmetod 2<br>(beläggningsstudien) | 575 | 265 | 400 | 235 | 365 |
 
 <!-- sida 41 -->
@@ -1215,8 +1219,9 @@ som   parkerar    på  de  30  parkeringarna     under   husen.
 
 [Tabell 44-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/44-1.csv)
 
-| Framtida<br>behov<br>Boendeparkering<br>hus E-F | Teoretisk<br>total<br>84 | Morgon<br>59 | Dag<br>38 | Natt<br>67 | Lördag<br>67 |
+| Framtida<br>behov | Teoretisk<br>total | Morgon | Dag | Natt | Lördag |
 | --- | --- | --- | --- | --- | --- |
+| Boendeparkering<br>hus E-F | 84 | 59 | 38 | 67 | 67 |
 | Boendebesökare<br>hus E-F | 12 | 5 | 4 | 6 | 10 |
 | Tillkommande<br>framtida behov | 96 | 64 | 42 | 73 | 77 |
 
@@ -1631,30 +1636,46 @@ Totalt  parkeringsbehov:    ca 114  stycken
 
 <!-- sida 57 -->
 
-Beräkningsmetod 2 Beräkningsmetod                2
+Beräkningsmetod                   2
 
-\- Analys beläggningsstudie - Totalt parkeringsbehov
+\-  Analys       beläggningsstudie
 
-Antas använda följande parkeringar som har • Beläggningsstudien från 2011 gjordes inte för lördag
-följande maxbeläggning kvällstid (17-19)
-• Resultatet    från  beläggningsstudien       visar att  maxbehov      är dagtid
+Antas  använda    följande parkeringar   som  har
 
-• Turkos C (60 min): 3 stycken då behovet uppgår till ca 225 platser.
+följande  maxbeläggning     kvällstid (17-19)
 
-• Turkos D (24 tim): 36 stycken
+•  Turkos   C (60  min):  3 stycken
 
-• Turkos E (24 tim): 17 stycken
+•  Turkos   D (24  tim): 36  stycken
 
-• Turkos F (24 tim): 52 stycken                   Morgon            Dag            Kväll
-Behov   idag
-(6-8)         (10-15)        (17-19)
-• Turkos G (24 tim): 6 stycken
-Södra  Aranäs  stadsdel          53             223            114
-• Turkos H (24 tim): 0 stycken
+•  Turkos   E (24 tim):  17 stycken
 
-Totalt parkeringsbehov: ca 114 stycken
+•  Turkos   F (24 tim):  52 stycken
 
-45                                                                                                     4461
+•  Turkos   G (24  tim): 6 stycken
+
+•  Turkos   H (24  tim): 0 stycken
+
+Totalt parkeringsbehov:     ca 114  stycken
+
+45
+
+Beräkningsmetod                   2
+
+\-  Totalt      parkeringsbehov
+
+• Beläggningsstudien       från  2011   gjordes    inte för lördag
+
+• Resultatet    från beläggningsstudien       visar  att  maxbehov      är dagtid
+då  behovet    uppgår   till ca 225   platser.
+
+4461
+
+[Tabell 57-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/57-1.csv)
+
+| Behov idag | Morgon<br>(6-8) | Dag<br>(10-15) | Kväll<br>(17-19) |
+| --- | --- | --- | --- |
+| Södra Aranäs stadsdel | 53 | 223 | 114 |
 
 <!-- sida 58 -->
 
@@ -1675,8 +1696,9 @@ dimensionerande       situation.
 
 [Tabell 58-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/58-1.csv)
 
-| Behov idag<br>Södra Aranäs<br>stadensdel,<br>Beläggningsstudien | Morgon<br>(6-8)<br>53 | Dag<br>(10-15)<br>223 | Kväll<br>(17-19)<br>114 | Lördag<br>- |
+| Behov idag | Morgon<br>(6-8) | Dag<br>(10-15) | Kväll<br>(17-19) | Lördag |
 | --- | --- | --- | --- | --- |
+| Södra Aranäs<br>stadensdel,<br>Beläggningsstudien | 53 | 223 | 114 | - |
 | Södra Aranäs<br>stadsdel,<br>Beräknat behov | - | 177 | 150 | 194 |
 
 <!-- sida 59 -->
@@ -1794,38 +1816,48 @@ parkeringsplats   (Praktisk  parkering)
 
 <!-- sida 63 -->
 
-Södra Aranäs stadsdel etapp 3 och 4 utbyggt Tillkommande parkeringsbehov
+Södra       Aranäs        stadsdel         etapp      3   och     4  utbyggt
 
-• Nytt verksamhetshus på 11 000 BTA
+• Nytt  verksamhetshus        på 11   000  BTA
+med   mestadels     kontor   (5)
 
-med mestadels kontor (5)
-•  Nytt verksamhetshus     planeras  till 11 000 BTA
+• 20  bilplatser per 1000  BTA   (från
 
-• 20 bilplatser per 1000 BTA (från
-•  Parkeringspolicyn   anger  20  bpl/1000  kvm   BTA  för verksamhet    med  god
 parkeringspolicyn)
-sammanvägd     tillgänglighet
-• Lika många cykelplatser som bilplatser
-•  Dimensionerande     behov  är under   dagtid och  uppgår   till ca 220 platser.
-• Ny parkeringsyta med ca 300 platser (6)
 
-• Ca 9000 kvm
+• Lika många    cykelplatser  som  bilplatser
 
-Tillkommande
-• Tre parkeringsskepp
-Morgon          Dag           Natt         Lördag
-behov
-• Två infarter antas
-Verksamhetshus            140            220            55            14
-• 10 % av uppskattade platser antas
+• Ny  parkeringsyta     med    ca 300   platser  (6)
 
-användas till planteringar
+• Ca  9000  kvm
 
-• Att jämföra med 30 kvm i yta per
+• Tre  parkeringsskepp
 
-parkeringsplats (Praktisk parkering)
+• Två  infarter antas
 
-51                                                                                                     4527
+• 10  %  av uppskattade    platser antas
+användas   till planteringar
+
+• Att jämföra   med  30  kvm  i yta per
+parkeringsplats   (Praktisk  parkering)
+
+Tillkommande               parkeringsbehov
+
+• Nytt  verksamhetshus     planeras  till 11 000 BTA
+
+• Parkeringspolicyn    anger  20 bpl/1000   kvm   BTA  för verksamhet   med   god
+
+sammanvägd      tillgänglighet
+
+• Dimensionerande     behov   är under  dagtid  och  uppgår  till ca 220  platser.
+
+51                                                                                                                  4527
+
+[Tabell 63-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/63-1.csv)
+
+| Tillkommande<br>behov | Morgon | Dag | Natt | Lördag |
+| --- | --- | --- | --- | --- |
+| Verksamhetshus | 140 | 220 | 55 | 14 |
 
 <!-- sida 64 -->
 
@@ -1858,8 +1890,9 @@ Aranäs        stadsdel
 
 [Tabell 64-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/64-1.csv)
 
-| Behov idag<br>Dagens behov | Morgon<br>53 | Dag<br>223 | Kväll/Natt<br>114 (kväll) | Lördag<br>194 |
+| Behov idag | Morgon | Dag | Kväll/Natt | Lördag |
 | --- | --- | --- | --- | --- |
+| Dagens behov | 53 | 223 | 114 (kväll) | 194 |
 | Tillkommande<br>framtida behov | 140 | 220 | 55 (natt) | 14 |
 | Totalt | 193 | 443 | 169 | 208 |
 
@@ -2083,8 +2116,9 @@ tidpunkter  är efterfrågan  på parkeringar   mycket   mindre.
 
 [Tabell 72-1](handlingar-aranas-etapp-4-parkeringsutredning.tabeller/72-1.csv)
 
-| Parkeringar<br>Tillgång | Norr<br>463 (100 %) | Söder<br>458 (100%) |
+| Parkeringar | Norr | Söder |
 | --- | --- | --- |
+| Tillgång | 463 (100 %) | 458 (100%) |
 | Behov | 442 | 443 |
 | +/- | +20 | + 15 |
 

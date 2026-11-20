@@ -1,0 +1,19 @@
+Material,Nivå,"𝝉 [kPa]
+𝒇𝒖","∅ [°]
+𝐤",c’ [kPa],𝛄/𝛄′ [kN/m3]
+Sprängsten,-,-,32R,-,18/21
+Sand,-,-,32R,-,18/20
+Underliggande friktionsmaterial,-,-,35,-,18/20
+Let (Torrskorpa),-,25 – 2*z,30,"0,1𝒄
+𝒖",17
+Lera 1 (delområde I),+9,"16 + 0,77*z",30,"0,1𝒄
+𝒖","16,5"
+Lera 2 (delområde II),+5,"14 + 0,92*z",30,"0,1𝒄
+𝒖","16,5"
+,-7,,,,
+Lera 2 (delområde II),-7,"25 + 1,86*z",30,"0,1𝒄
+𝒖","16,5"
+,-14,,,,
+Lera 2 (delområde II),-14,"38 + 0,58*z",30,"0,1𝒄
+𝒖","16,5"
+,-26,,,,

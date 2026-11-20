@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5570446d1a0fb8db428574da/1791188513
 sha256: 0bef752c1677b933b27d6b4772af8ac0f8162fb80fc1783e73b037815ffc5acb
 bytes: 3866172
 sidor: 19
-hamtad: 2026-11-15T09:31:09+00:00
-konverterad: 2026-11-15T09:31:19+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T13:17:57+00:00
+konverterad: 2026-11-20T13:18:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -184,7 +184,7 @@ Tabell 1. Vägtrafikuppgifter Nuläge
 
 [Tabell 6-1](handlingar-nytt-verksamhetsomrade-i-varla-trafikbuller.tabeller/6-1.csv)
 
-| Vägsträcka ÅDT Medel- Tunga Skyltad<br>tunga fordon (%) Hastighet<br>fordon (%) (km/h) |  |  |  |  |
+| Vägsträcka | ÅDT | Medel-<br>tunga<br>fordon (%) | Tunga<br>fordon (%) | Skyltad<br>Hastighet<br>(km/h) |
 | --- | --- | --- | --- | --- |
 | E6 Norrut | 22900 | 1,5 | 7,1 | 100 |
 | E6 Söderut | 22400 | 1,5 | 7,1 | 100 |
@@ -223,7 +223,7 @@ meter.
 
 [Tabell 7-1](handlingar-nytt-verksamhetsomrade-i-varla-trafikbuller.tabeller/7-1.csv)
 
-| Vägsträcka ÅDT 2040 Medel- Tunga Skyltad<br>Utan tunga fordon (%) Hastighet<br>planförslag fordon (%) (km/h) |  |  |  |  |
+| Vägsträcka | ÅDT 2040<br>Utan<br>planförslag | Medel-<br>tunga<br>fordon (%) | Tunga<br>fordon (%) | Skyltad<br>Hastighet<br>(km/h) |
 | --- | --- | --- | --- | --- |
 | E6 Norrut | 26400 | 1,6 | 7,7 | 100 |
 | E6 Söderut | 25800 | 2,1 | 7,3 | 100 |
@@ -231,7 +231,7 @@ meter.
 
 [Tabell 7-2](handlingar-nytt-verksamhetsomrade-i-varla-trafikbuller.tabeller/7-2.csv)
 
-| Vägsträcka ÅDT 2040 Medel- Tunga Skyltad<br>Planförslag tunga fordon (%) Hastighet<br>fordon (%) (km/h) |  |  |  |  |
+| Vägsträcka | ÅDT 2040<br>Planförslag | Medel-<br>tunga<br>fordon (%) | Tunga<br>fordon (%) | Skyltad<br>Hastighet<br>(km/h) |
 | --- | --- | --- | --- | --- |
 | E6 Norrut | 26400 | 1,6 | 7,7 | 100 |
 | E6 Söderut | 25800 | 2,1 | 7,3 | 100 |
@@ -277,7 +277,7 @@ Maximala ljudnivåer beräknas som högst till 68 dBA.
 
 [Tabell 8-1](handlingar-nytt-verksamhetsomrade-i-varla-trafikbuller.tabeller/8-1.csv)
 
-| \~ 2015 och 1997 - \~ 2015 - 1997 ”äldre<br>framöver ”nya ”nyare befintlig befintlig miljö”<br>bostadsbyggnader” miljö” |  |  |  |
+|  | \~ 2015 och<br>framöver ”nya<br>bostadsbyggnader” | 1997 - \~ 2015<br>”nyare befintlig<br>miljö” | - 1997 ”äldre<br>befintlig miljö” |
 | --- | --- | --- | --- |
 | Buller från väg,<br>vid fasad | Se planbeskrivning<br>eller bygglov | 55 dBA Leq<br>24h | 65 dBA Leq<br>24h |
 | Buller från spår,<br>vid fasad | Se planbeskrivning<br>eller bygglov | 60 dBA Leq<br>24h | 55 dBAa) Lmax<br>inomhus natt |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b28b446/1768816468
 sha256: bafa729329a76298154988fbfe2363e50ce235fa4ab320a4a58322a29f870251
 bytes: 6022736
 sidor: 20
-hamtad: 2026-11-15T08:54:16+00:00
-konverterad: 2026-11-15T08:54:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:32:54+00:00
+konverterad: 2026-11-20T12:33:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 2, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
 tolkade: []
@@ -245,10 +245,21 @@ inte slagit ut.
 
 | Art | Källa | Naturvårdsart | Kommentar |
 | --- | --- | --- | --- |
-| Buskstjärnblomma<br>Stellaria holostea | NOAB | S | Knuten till lövskogar på lite rikare mark där den ofta bildar stora be-<br>stånd. Den noterades inom NVI-objekt C. |
-| Glansfläck Arthonia<br>spadicea | NOAB | S | Växer oftast på basen av lövträd i områden med hög luftfuktighet. I<br>inventeringsområdet noterades den på basen av en klibbal i NVI-ob-<br>jekt A. Fynd av arten har ett högt signalvärde och indikerar främst<br>miljöer med konstant hög och jämn luftfuktighet och ostörda<br>markvattenförhållanden. |
-| Grönsångare Phyl-<br>loscopus sibilatrix | NOAB | NT | Grönsångare häckar i högstammig skog, främst lövskog, i regel<br>utan kraftigare undervegetation. Populationsminskning under de<br>senaste tio åren gör att arten bedöms som nära hotad. Revirhäv-<br>dande grönsångare noterades i NVI-objekt A. |
-| Svartvit flugsnap-<br>pare Ficedula hy-<br>poleuca | NOAB | NT | Svartvit flugsnappare häckar i löv- och blandskog samt i trädgårdar<br>och parker. Populationsminskning under de senaste tio åren gör att<br>arten bedöms som nära hotad. Revirhävdande svartvit flugsnappare<br>noterades i NVI-objekt A. |
+| Buskstjärnblomma | NOAB | S | Knuten till lövskogar på lite rikare mark där den ofta bildar stora be- |
+| Stellaria holostea |  |  | stånd. Den noterades inom NVI-objekt C. |
+| Glansfläck Arthonia | NOAB | S | Växer oftast på basen av lövträd i områden med hög luftfuktighet. I |
+| spadicea |  |  | inventeringsområdet noterades den på basen av en klibbal i NVI-ob- |
+|  |  |  | jekt A. Fynd av arten har ett högt signalvärde och indikerar främst |
+|  |  |  | miljöer med konstant hög och jämn luftfuktighet och ostörda |
+|  |  |  | markvattenförhållanden. |
+| Grönsångare Phyl- | NOAB | NT | Grönsångare häckar i högstammig skog, främst lövskog, i regel |
+| loscopus sibilatrix |  |  | utan kraftigare undervegetation. Populationsminskning under de |
+|  |  |  | senaste tio åren gör att arten bedöms som nära hotad. Revirhäv- |
+|  |  |  | dande grönsångare noterades i NVI-objekt A. |
+| Svartvit flugsnap- | NOAB | NT | Svartvit flugsnappare häckar i löv- och blandskog samt i trädgårdar |
+| pare Ficedula hy- |  |  | och parker. Populationsminskning under de senaste tio åren gör att |
+| poleuca |  |  | arten bedöms som nära hotad. Revirhävdande svartvit flugsnappare |
+|  |  |  | noterades i NVI-objekt A. |
 
 <!-- sida 11 -->
 

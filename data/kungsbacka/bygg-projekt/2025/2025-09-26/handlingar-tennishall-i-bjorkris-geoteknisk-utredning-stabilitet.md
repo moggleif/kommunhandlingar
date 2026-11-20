@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7444b486/1758899121
 sha256: db7ae58fa1bca19e3baa8b59c8e7c234eb88bb6c34fbefe6c59f34a295e9da0e
 bytes: 2200265
 sidor: 40
-hamtad: 2026-11-13T17:51:28+00:00
-konverterad: 2026-11-13T17:51:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:54:04+00:00
+konverterad: 2026-11-20T11:54:17+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -540,13 +540,15 @@ c'd    2,31 kPa + 0,00 kPa/m c'd 2,31 kPa + 0,00 kPa/m c'd 0,77 kPa + 0,18 kPa/m
 
 | Omräkningsfaktor,η<br>ϕ' | Omräkningsfaktor,η<br>cu | Omräkningsfaktor,η<br>cu | Omräkningsfaktor,η<br>cu | Omräkningsfaktor,η<br>cu | Omräkningsfaktor,η<br>ϕ' |
 | --- | --- | --- | --- | --- | --- |
-| η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η ϕ' 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η cu 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η cu 1,00 | η 1,2 0,90 2 punker<br>η 3 1,00 3 metoder<br>η 4,5,6,7 1,00 Stor/Medel<br>η 8 1,00<br>η cu 0,90 | η 1,2 0,90 2 punker<br>η 3 1,00 3 metoder<br>η 4,5,6,7 1,00 Stor/Medel<br>η 8 1,00<br>η cu 0,90 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η ϕ' 1,00 |
+| η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 | η 1,2 0,90 2 punker<br>η 3 1,00 3 metoder<br>η 4,5,6,7 1,00 Stor/Medel<br>η 8 1,00 | η 1,2 0,90 2 punker<br>η 3 1,00 3 metoder<br>η 4,5,6,7 1,00 Stor/Medel<br>η 8 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 |
+| η ϕ' 1,00 | η cu 1,00 | η cu 1,00 | η cu 0,90 | η cu 0,90 | η ϕ' 1,00 |
 
 [Tabell 14-2](handlingar-tennishall-i-bjorkris-geoteknisk-utredning-stabilitet.tabeller/14-2.csv)
 
 | Omräkningsfaktor,η<br>ϕ'/c | Omräkningsfaktor,η<br>ϕ'/c | Omräkningsfaktor,η<br>ϕ'/c | Omräkningsfaktor,η<br>ϕ'/c |
 | --- | --- | --- | --- |
-| η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η ϕ'/c 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00<br>η ϕ'/c 1,00 | η 1,2 1,00<br>η 3 1,00<br>η 4,5,6,7 1,00<br>η 8 1,00<br>η ϕ'/c 1,00 | η 1,2 1,00<br>η 3 1,00<br>η 4,5,6,7 1,00<br>η 8 1,00<br>η ϕ'/c 1,00 |
+| η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 | η 1,2 1,00 Kar.<br>η 3 1,00 Kar.<br>η 4,5,6,7 1,00 Kar.<br>η 8 1,00 | η 1,2 1,00<br>η 3 1,00<br>η 4,5,6,7 1,00<br>η 8 1,00 | η 1,2 1,00<br>η 3 1,00<br>η 4,5,6,7 1,00<br>η 8 1,00 |
+| η ϕ'/c 1,00 | η ϕ'/c 1,00 | η ϕ'/c 1,00 | η ϕ'/c 1,00 |
 
 <!-- sida 15 -->
 

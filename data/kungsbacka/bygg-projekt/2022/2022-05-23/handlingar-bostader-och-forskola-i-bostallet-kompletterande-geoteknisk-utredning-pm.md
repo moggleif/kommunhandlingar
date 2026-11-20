@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.3637497618094a0d39e3beb8/1653310024
 sha256: 0367be5f83d8870293fb5a33f6dbecab3cb718835f4795d06bb7804aaaea2ae7
 bytes: 5808265
 sidor: 42
-hamtad: 2026-11-13T16:20:44+00:00
-konverterad: 2026-11-13T16:21:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T10:11:10+00:00
+konverterad: 2026-11-20T10:11:43+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, tabell-osaker]
 tal_obekraftade: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 34, 35, 41]
 figurer: [1, 3, 4, 6, 8, 9, 10, 12, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 34]
 tolkade: []
@@ -639,26 +639,18 @@ repo001.docx 2015-10-05
 
 Bilaga 1, PM 30030847
 
-Omräkningsfaktor,η
-cu
-Omräkningsfaktor,η
-ϕ'
-Omräkningsfaktor,η
-ϕ'
-Omräkningsfaktor,η
-ϕ'
-η 1,2      Definition      η 1,2             Definition     η 1,2                  Definition      η 1,2                       Definition
-η 3        Definition      η 3               Definition     η 3                    Definition      η 3                         Definition
-η 4,5,6,7   Definition     η 4,5,6,7          Definition    η 4,5,6,7               Definition     η 4,5,6,7                    Definition
-η                          η                                η                                      η
-8                          8                                8                                      8
-η cu 1,00                  η ϕ'    0,90                     η ϕ'     0,90                          η ϕ'       1,00
-
 [Tabell 16-1](handlingar-bostader-och-forskola-i-bostallet-kompletterande-geoteknisk-utredning-pm.tabeller/16-1.csv)
 
 | Le z - z | Friktionsjord på lera z - z | Friktionsjord u lera z - | tryckbank z - z |
 | --- | --- | --- | --- |
 | Odränerade egenskaper<br>Cu 16 kPa + 1,3 kPa/m<br>Cud 10,7 kPa + 0,87 kPa/m<br>γovan gvy 17 kN/m3<br>γunder gvy 17 kN/m3<br>Dränerade egenskaper<br>ϕ' 30 °<br>ϕ'd 23,9 °<br>c' 1,6 kPa + 0,1 kPa/m<br>c'd 1,2 kPa + 0,1 kPa/m | E 15 Mpa motsvarar qc= 3,8<br>ϕ' 34 ° => ϕ'= 34,1<br>ϕ'd 25,0 °<br>γovan gvy 18 kN/m3<br>γunder gvy 20 kN/m3 | E 15 Mpa motsvarar qc=<br>ϕ' 35 ° => ϕ'=<br>ϕ'd 25,9 °<br>γovan gvy 18 kN/m3<br>γunder gvy 20 kN/m3 | E 15 Mpa motsvarar qc= 3,8<br>ϕ' 45 ° => ϕ'= 34,1<br>ϕ'd 37,6 °<br>γovan gvy 20 kN/m3<br>γunder gvy 21 kN/m3 |
+
+[Tabell 16-2](handlingar-bostader-och-forskola-i-bostallet-kompletterande-geoteknisk-utredning-pm.tabeller/16-2.csv)
+
+| Omräkningsfaktor,η<br>cu | Omräkningsfaktor,η<br>ϕ' | Omräkningsfaktor,η<br>ϕ' | Omräkningsfaktor,η<br>ϕ' |
+| --- | --- | --- | --- |
+| η 1,2 Definition<br>η 3 Definition<br>η 4,5,6,7 Definition<br>η<br>8 | η 1,2 Definition<br>η 3 Definition<br>η 4,5,6,7 Definition<br>η<br>8 | η 1,2 Definition<br>η 3 Definition<br>η 4,5,6,7 Definition<br>η<br>8 | η 1,2 Definition<br>η 3 Definition<br>η 4,5,6,7 Definition<br>η<br>8 |
+| η cu 1,00 | η ϕ' 0,90 | η ϕ' 0,90 | η ϕ' 1,00 |
 
 <!-- sida 17 -->
 

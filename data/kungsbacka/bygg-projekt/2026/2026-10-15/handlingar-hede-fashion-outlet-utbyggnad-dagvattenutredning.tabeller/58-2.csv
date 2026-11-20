@@ -1,5 +1,8 @@
-"Delområde Dagvatten- Anläggningsyta Anläggningskostnad Drift- och skötselkostnad
-anläggning (m2) (kr) (kr/år)",,,,
+Delområde,"Dagvatten-
+anläggning","Anläggningsyta
+(m2)","Anläggningskostnad
+(kr)","Drift- och skötselkostnad
+(kr/år)"
 TARO 1,Växtbädd,70,700 000,1 750
 TARO 2,Växtbädd,280,2 760 000,6 900
 TARO 3,Växtbädd,380,3 800 000,9 500

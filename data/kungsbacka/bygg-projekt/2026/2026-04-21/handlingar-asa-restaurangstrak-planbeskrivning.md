@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.392a4a7119d9a642aaa4d2fc/1776772436
 sha256: aae180cff8c47fc9e3e9385b7bae0ab592e647b1236aaf8d618bf7cb4860f369
 bytes: 3342624
 sidor: 41
-hamtad: 2026-11-15T09:10:33+00:00
-konverterad: 2026-11-15T09:10:40+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:53:20+00:00
+konverterad: 2026-11-20T12:53:30+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -337,7 +337,7 @@ Tabell 1 Utdrag ur kommunens parkeringsstrategi, 2017, visar hur antalet parkeri
 
 [Tabell 14-1](handlingar-asa-restaurangstrak-planbeskrivning.tabeller/14-1.csv)
 
-| Parkeringsplats Antal cykelplatser Användare |  |  |
+| Parkeringsplats | Antal cykelplatser | Användare |
 | --- | --- | --- |
 | Cykelförråd | 1 per invånare | Boende |
 | Anslutning till entré | 0,5 cykelplatser/lägenhet | Boende |
@@ -1143,7 +1143,7 @@ brandposter med kapacitet 20 liter per sekund. Se figur 12.
 
 [Tabell 33-1](handlingar-asa-restaurangstrak-planbeskrivning.tabeller/33-1.csv)
 
-| Parkeringsplats Antal cykelplatser Användare |  |  |
+| Parkeringsplats | Antal cykelplatser | Användare |
 | --- | --- | --- |
 | Cykelförråd | 1 per invånare | Boende |
 | Anslutning till entré | 0,5 cykelplatser/lägenhet | Boende |
