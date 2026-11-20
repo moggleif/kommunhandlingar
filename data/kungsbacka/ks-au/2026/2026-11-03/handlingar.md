@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.60a1e1931a18c63fb7920f2/17933656305
 sha256: a98501d992c905f7a3bc386395b05d3eacd06dd2e6a64a28f01e70c31c0519c8
 bytes: 7343921
 sidor: 164
-hamtad: 2026-11-10T00:46:25+00:00
-konverterad: 2026-11-10T00:47:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T00:35:51+00:00
+konverterad: 2026-11-20T00:36:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ej-konverterad, ok, ok, ok]
@@ -207,14 +207,34 @@ Kommundirektör                     Biträdande kommundirektör
 
 [Tabell 7-1](handlingar.tabeller/7-1.csv)
 
-| Avgift | Nuvarande belopp<br>(2026) | Belopp 2027 före<br>indexjustering | Kommentar |
+| Avgift | Nuvarande belopp | Belopp 2027 före | Kommentar |
 | --- | --- | --- | --- |
-| Familjerådgivning | 200 kronor per samtal | 350 kronor per samtal | Indexjusteras inte.<br>Tidigare taxebeslut har ej<br>kunnat återfinnas. |
-| Vårdavgift, placerat barn | Enligt Försäkringskassans<br>lagstadgade belopp för<br>underhållsstöd | Enligt Försäkringskassans<br>lagstadgade belopp för<br>underhållsstöd | Tidigare taxebeslut har ej<br>kunnat återfinnas. |
-| Uppehälle vid vård och<br>behandling, vuxen\* | Tar ej ut avgift | 130 kronor per dygn enligt<br>regeringen beslutad<br>maxavgift. |  |
-| Egenavgift, ej vård och<br>behandling, vuxen\* | Tar ej ut avgift | Enligt vid var tid gällande<br>Taxa för Vård & Omsorg;<br>avgift för särskilt boende<br>utanför hyreslagen samt<br>avgift för helabonnemang<br>mat | Avgift enligt VOs taxa<br>2026:<br>91 kronor per dygn för<br>boende samt 149 kronor<br>per dygn för måltider. |
-| Lunch, daglig verksamhet | 66 kronor per lunch | 55 kronor per lunch | Debiteras enligt internpris<br>från nämnden för Service<br>(enligt beslutad<br>kommunbudget för<br>aktuellt år) |
-| Avgift för korttidsvistelse<br>samt personer över 18 år<br>placerade på<br>gymnasieinternat enligt LSS<br>eller SOL | 128 kronor per dygn | Enligt vid var tid gällande<br>Taxa för Vård & Omsorg;<br>Kostnad mat korttidsplats | Avgift enligt VOs taxa<br>2026:<br>149 kronor per dygn |
+|  | (2026) | indexjustering |  |
+| Familjerådgivning | 200 kronor per samtal | 350 kronor per samtal | Indexjusteras inte. |
+|  |  |  | Tidigare taxebeslut har ej |
+|  |  |  | kunnat återfinnas. |
+| Vårdavgift, placerat barn | Enligt Försäkringskassans | Enligt Försäkringskassans | Tidigare taxebeslut har ej |
+|  | lagstadgade belopp för | lagstadgade belopp för | kunnat återfinnas. |
+|  | underhållsstöd | underhållsstöd |  |
+| Uppehälle vid vård och | Tar ej ut avgift | 130 kronor per dygn enligt |  |
+| behandling, vuxen\* |  | regeringen beslutad |  |
+|  |  | maxavgift. |  |
+| Egenavgift, ej vård och | Tar ej ut avgift | Enligt vid var tid gällande | Avgift enligt VOs taxa |
+| behandling, vuxen\* |  | Taxa för Vård & Omsorg; | 2026: |
+|  |  | avgift för särskilt boende | 91 kronor per dygn för |
+|  |  | utanför hyreslagen samt | boende samt 149 kronor |
+|  |  | avgift för helabonnemang | per dygn för måltider. |
+|  |  | mat |  |
+| Lunch, daglig verksamhet | 66 kronor per lunch | 55 kronor per lunch | Debiteras enligt internpris |
+|  |  |  | från nämnden för Service |
+|  |  |  | (enligt beslutad |
+|  |  |  | kommunbudget för |
+|  |  |  | aktuellt år) |
+| Avgift för korttidsvistelse | 128 kronor per dygn | Enligt vid var tid gällande | Avgift enligt VOs taxa |
+| samt personer över 18 år |  | Taxa för Vård & Omsorg; | 2026: |
+| placerade på |  | Kostnad mat korttidsplats | 149 kronor per dygn |
+| gymnasieinternat enligt LSS |  |  |  |
+| eller SOL |  |  |  |
 
 <!-- sida 8 -->
 
@@ -422,14 +442,33 @@ Kungsbacka kommun       Taxa för avgifter inom Individ & Familjeomsorg 3 (4)
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Avgift | Belopp 2026 | Belopp 2027 före<br>indexjustering | Kommentar |
+| Avgift | Belopp 2026 | Belopp 2027 före | Kommentar |
 | --- | --- | --- | --- |
-| Familjerådgivning | 200 kronor per<br>samtal | 350 kronor per samtal | Indexjusteras inte.<br>Tidigare taxebeslut<br>har ej kunnat<br>återfinnas. |
-| Vårdavgift, placerat<br>barn | Underhållsstöd | Underhållsstöd | Tidigare taxebeslut<br>har ej kunnat<br>återfinnas. |
-| Uppehälle vid vård och<br>behandling, vuxen \* | Tar ej ut avgift | 130 kronor per dygn enligt<br>regeringen beslutad<br>maxavgift. |  |
-| Egenavgift, ej vård och<br>behandling, vuxen \* | Tar ej ut avgift | Enligt vid var tid gällande<br>Taxa för Vård & Omsorg;<br>avgift för särskilt boende<br>utanför hyreslagen samt<br>avgift för helabonnemang<br>mat | För 2026 är avgiften:<br>91 kronor per dygn för<br>boende samt 149<br>kronor per dygn för<br>måltider. |
-| Lunch, daglig<br>verksamhet | 66 kronor per lunch | 55 kronor per lunch |  |
-| Avgift för<br>korttidsvistelse samt<br>personer över 18 år<br>placerade på<br>gymnasieinternat enligt<br>LSS eller SOL | 128 kronor per dygn | Enligt vid var tid gällande<br>Taxa för Vård & Omsorg;<br>Kostnad mat korttidsplats | För 2026 är avgiften<br>149 kr per dygn |
+|  |  | indexjustering |  |
+| Familjerådgivning | 200 kronor per | 350 kronor per samtal | Indexjusteras inte. |
+|  | samtal |  | Tidigare taxebeslut |
+|  |  |  | har ej kunnat |
+|  |  |  | återfinnas. |
+| Vårdavgift, placerat | Underhållsstöd | Underhållsstöd | Tidigare taxebeslut |
+| barn |  |  | har ej kunnat |
+|  |  |  | återfinnas. |
+| Uppehälle vid vård och | Tar ej ut avgift | 130 kronor per dygn enligt |  |
+| behandling, vuxen \* |  | regeringen beslutad |  |
+|  |  | maxavgift. |  |
+| Egenavgift, ej vård och | Tar ej ut avgift | Enligt vid var tid gällande | För 2026 är avgiften: |
+| behandling, vuxen \* |  | Taxa för Vård & Omsorg; | 91 kronor per dygn för |
+|  |  | avgift för särskilt boende | boende samt 149 |
+|  |  | utanför hyreslagen samt | kronor per dygn för |
+|  |  | avgift för helabonnemang | måltider. |
+|  |  | mat |  |
+| Lunch, daglig | 66 kronor per lunch | 55 kronor per lunch |  |
+| verksamhet |  |  |  |
+| Avgift för | 128 kronor per dygn | Enligt vid var tid gällande | För 2026 är avgiften |
+| korttidsvistelse samt |  | Taxa för Vård & Omsorg; | 149 kr per dygn |
+| personer över 18 år |  | Kostnad mat korttidsplats |  |
+| placerade på |  |  |  |
+| gymnasieinternat enligt |  |  |  |
+| LSS eller SOL |  |  |  |
 
 <!-- sida 13 -->
 
@@ -1361,8 +1400,9 @@ trafikförsörjningsprogram.
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
 
-| Region Hallands<br>mål | Kommunens ansvar | Vad innebär det i praktiken? |
+| Region Hallands | Kommunens ansvar | Vad innebär det i praktiken? |
 | --- | --- | --- |
+| mål |  |  |
 | Tillgänglighet | Säkerställa tillgång till färdtjänst<br>och riksfärdtjänst enligt<br>lagstiftningen | Invånare som uppfyller lagens krav ska<br>kunna resa på ett tryggt och förutsägbart<br>sätt. |
 | Hållbart resande | Komplettera den allmänna<br>kollektivtrafiken | Färdtjänsten ska utgöra ett komplement<br>när resor inte kan genomföras med<br>ordinarie kollektivtrafik. |
 | Sammanhållet<br>transportsystem | Samverkan med Region Halland<br>och utförare | Resor ska fungera som en del av ett<br>sammanhängande transportsystem. |
