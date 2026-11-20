@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5d11361a163262936179b/1792670408579
 sha256: 3da97f116275157629558ab6d6fb2f9a7632e6e24fe31e5a9d5f93d89c244469
 bytes: 7349435
 sidor: 28
-hamtad: 2026-11-15T09:38:01+00:00
-konverterad: 2026-11-15T09:38:50+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:26:13+00:00
+konverterad: 2026-11-20T13:27:02+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok]
 tal_obekraftade: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 figurer: [2, 4, 6, 7, 8, 9, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
 tolkade: []
@@ -342,9 +342,12 @@ skötselmaskiner inte kan tillträda vegetationsytan längs vägen som är träd
 | Torrskorpelera | 20 | 30 | 0,1𝒄<br>𝒖 | 18 |
 | Lera 1 | 13 | 30 | 0,1𝒄<br>𝒖 | 16 |
 | Gyttja | 13 | 30 | 0,1𝒄<br>𝒖 | 14 |
-| Lera 2 | 13+0,4\*z där z är 0<br>på nivå -5 | 30 | 0,1𝒄<br>𝒖 | 16 |
-| Lera 3 | 15+1,5\*z där z är 0<br>på nivå -10 | 30 | 0,1𝒄<br>𝒖 | 16 |
-| Lera 4 | 18+1,3\*z där z är 0<br>på nivå -12 | 30 | 0,1𝒄<br>𝒖 | 16 |
+| Lera 2 | 13+0,4\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -5 |  |  |  |
+| Lera 3 | 15+1,5\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -10 |  |  |  |
+| Lera 4 | 18+1,3\*z där z är 0 | 30 | 0,1𝒄<br>𝒖 | 16 |
+|  | på nivå -12 |  |  |  |
 
 <!-- sida 11 -->
 
