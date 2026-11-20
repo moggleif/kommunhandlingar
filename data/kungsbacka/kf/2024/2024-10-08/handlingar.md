@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.7ec4cdc6192510e20a6838db/1728284837
 sha256: 5d19d9eb16d84aac8578c3b8197f97d11fd59bb7edb5b21613d258ff10b75b62
 bytes: 88017214
 sidor: 180
-hamtad: 2026-11-10T01:07:50+00:00
-konverterad: 2026-11-10T01:10:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:13:09+00:00
+konverterad: 2026-11-20T01:16:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 167]
 figurer: [29, 37, 39, 45, 77, 111, 112, 171, 176, 180]
 tolkade: []
@@ -3795,14 +3795,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        4 (15)
 
 [Tabell 93-1](handlingar.tabeller/93-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -4032,7 +4031,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 98 -->
 
@@ -4092,7 +4092,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 99 -->
 
@@ -4247,16 +4248,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        12 (15)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                595 kr
-
-b) En avgift per m³ hämtat vatten         23,8 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -4284,6 +4278,18 @@ En Grundavgift per år 14.1 a) 428 kr 428 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        13 (15)
 
+[Tabell 102-1](handlingar.tabeller/102-1.csv)
+
+| a) | Årlig avgift per nyckel | 595 kr |
+| --- | --- | --- |
+| b) | En avgift per m³ hämtat vatten | 23,8 kr |
+
+[Tabell 102-2](handlingar.tabeller/102-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 103 -->
 
 § 18
@@ -4292,7 +4298,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -4320,8 +4325,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        14 (15)
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -4845,14 +4851,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        4 (19)
 
 [Tabell 116-1](handlingar.tabeller/116-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -5064,12 +5069,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        8 (19)
 
 <!-- sida 121 -->
 
-20,00 kr 20,00kr 20,00kr 7,00kr
-c)  Tomtyteavgift per m2                              67,00 kr
-30%    30%    30%     10%
-Avgift för Dagvatten utan att
-d)\*                       -      -      22 200kr -
-förbindelsepunkt är upprättad
 6.2
 
 Är förbindelsepunkt gemensam för två eller flera fastigheter, fördelas avgifter enligt
@@ -5112,13 +5111,22 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        9 (19)
 
 [Tabell 121-1](handlingar.tabeller/121-1.csv)
 
+| c) | Tomtyteavgift per m2 | 20,00 kr | 20,00kr | 20,00kr | 7,00kr | 67,00 kr |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 30% | 30% | 30% | 10% |  |
+| d)\* | Avgift för Dagvatten utan att | - | - | 22 200kr | - |  |
+|  | förbindelsepunkt är upprättad |  |  |  |  |  |
+
+[Tabell 121-2](handlingar.tabeller/121-2.csv)
+
 |  |  | Bostadsfastighet |  | Annan fastighet |
 | --- | --- | --- | --- | --- |
 | Servisavgift | 5.1 a) | 100% | 6.1 a) | 100% |
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 122 -->
 
@@ -5179,7 +5187,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        10 (19)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr (22 kr) | om 28,84 kr (28 kr) |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr (22 kr) | om 28,84 kr (28 kr) |
+| av dagvatten |  |  |
 
 <!-- sida 123 -->
 
@@ -5370,9 +5379,6 @@ b) En avgift per m³ hämtat vatten         23,8 kr (20 kr)
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
 
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,13 kronor (0,95
-dagvatten                                kr)
-
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
 
@@ -5395,10 +5401,19 @@ Grundavgiften. Följande avgifter ska därvid betalas för respektive ändamål:
 
 V      S     Df    Dg     Total avgift
 
-En Grundavgift per år 14.1 a) 428 kr 428 kr
-(360 kr) (360 kr)
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        16 (19)
+
+[Tabell 128-1](handlingar.tabeller/128-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,13 kronor (0,95 |
+| --- | --- |
+| dagvatten | kr) |
+
+[Tabell 128-2](handlingar.tabeller/128-2.csv)
+
+| En Grundavgift per år | 14.1 a) | 428 kr | 428 kr |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | (360 kr) | (360 kr) |  |  |  |
 
 <!-- sida 129 -->
 
@@ -5408,19 +5423,18 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1000 kr/säsong
 
 2024
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2024        17 (19)
 
 [Tabell 129-1](handlingar.tabeller/129-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
+| Vinterförvaring | 1000 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2380 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4760 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2380 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 190 kr/vecka |
@@ -5435,8 +5449,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2024        17 (19)
 
 [Tabell 129-2](handlingar.tabeller/129-2.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |
