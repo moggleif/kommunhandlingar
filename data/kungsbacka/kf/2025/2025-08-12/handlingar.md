@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5a783478198736c426b7442a/1754565408
 sha256: 8ff045dc4fad23d67315275f7076c1a903a10522d59c56a291fa52e52c734449
 bytes: 104446377
 sidor: 314
-hamtad: 2026-11-10T01:45:19+00:00
-konverterad: 2026-11-10T01:48:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:57:40+00:00
+konverterad: 2026-11-20T02:01:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok]
@@ -5818,14 +5818,14 @@ Exempelvis braskamin, öppen spis, kakelugn eller vedspis
 
 [Tabell 149-1](handlingar.tabeller/149-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |
-| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
-| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |
-| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 3 tillfällen per år | Avser vedpannor utan keramisk inklädnad och/eller ackumulatortank. |  |
+| 2 tillfällen per år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 tillfälle per år | Avser pannor där eldning sker med pellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
+| 1 tillfälle per år | Avser pannor som används i mycket begränsad omfattning exempelvis<br>reservpannor vid annan huvudsaklig värmekälla. Har pannan inte<br>använts sedan föregående sotning gäller undantagsregeln, se särskilda<br>bestämmelser. |  |
+| 1 tillfälle per 3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare. |  |
 
 [Tabell 149-2](handlingar.tabeller/149-2.csv)
 
@@ -6005,13 +6005,13 @@ Köksspisar, ugnar och andra jämförbara förbränningsanordningar
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
-| Fasta bränslen |  |
-| --- | --- |
-| Frist för sotning | Beskrivning |
-| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |
-| 3 ggr/år | Avser konventionella pannor. |
-| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |
-| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |
+| Fasta bränslen |  |  |
+| --- | --- | --- |
+| Frist för sotning | Beskrivning |  |
+| 1 ggr/3 år | Om pannan ingår i en värmecentral som står under kontinuerlig<br>övervakning av en kvalificerad driftsledare, oavsett vilket bränsleslag<br>som används. |  |
+| 3 ggr/år | Avser konventionella pannor. |  |
+| 2 ggr/år | Avser pannor med keramisk inklädnad i förbränningskammaren eller<br>motsvarande konstruktion för effektiv förbränning av bränslet och där<br>pannan är ansluten till ackumulatortank eller motsvarande anordning. |  |
+| 1 ggr/år | Avser pannor där eldning sker med träpellets eller annat från<br>sotbildningssynpunkt motsvarande bränsle och där eldningsapparaten<br>är speciellt konstruerad för effektiv förbränning av bränslet. |  |
 
 [Tabell 153-2](handlingar.tabeller/153-2.csv)
 
