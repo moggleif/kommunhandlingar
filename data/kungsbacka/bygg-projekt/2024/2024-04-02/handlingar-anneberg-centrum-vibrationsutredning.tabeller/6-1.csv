@@ -1,0 +1,9 @@
+Störningsområde,Vägd hastighet,Vägd acceleration,Anmärkning
+Liten störning,"0,1–0,4 mm/s",,"Knappt kännbar för människa.
+Känseltröskel ca 0,2–0,3 mm/s."
+"Måttlig störning 0,4–1,0 mm/s 14,4–36,0 mm/s2 Delvis kännbar för människa.",,,
+Sannolik störning,">1,0 mm/s","> 36,0 mm/s2","Kännbar för människa. Upplevs
+som störande. Kan ge upphov till
+åtgärder."
+"Stor störning >2,5 mm/s Mycket kännbar för människa.
+Upplevs som störande.",,,

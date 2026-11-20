@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b220a1/1712041820
 sha256: 69274851b0837712769506a99993dd133fcf6f6508b5b0304be001155fb72b37
 bytes: 6022333
 sidor: 50
-hamtad: 2026-11-13T16:47:23+00:00
-konverterad: 2026-11-13T16:47:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:40:01+00:00
+konverterad: 2026-11-20T10:40:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -50,13 +50,19 @@ Handläggare:        Martin Persson
 
 Kungsbacka, Annebergs centrum 107 36 99 PM Kvicklerutbredning
 
-1.0   2021-06-30 PM Geofysik            Martin Persson Elin Nyström Martin Persson
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvicklerutbredning_levhandling.docx 2021-06-30 | Sida 2 av 30
+
+[Tabell 2-1](handlingar-anneberg-centrum-geoteknik-kvicklerutbredning.tabeller/2-1.csv)
+
+| 2021-06-30 | PM Geofysik | Martin Persson | Elin Nyström | Martin Persson |
+| --- | --- | --- | --- | --- |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -180,12 +186,16 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvickl
 
 [Tabell 5-1](handlingar-anneberg-centrum-geoteknik-kvicklerutbredning.tabeller/5-1.csv)
 
-| Metod | Standard eller annat styrande<br>dokument |
+| Metod | Standard eller annat styrande |
 | --- | --- |
+|  | dokument |
 | Fältplanering | SS-EN 1997-2 |
-| Jordartsbedömning i fält | Jordartsbestämning, beskrivning och<br>Klassificering. BTR T21:1982 |
-| Elektrisk resistivitetsmätning | SGF Metodblad - Automatiserad<br>resistivitetsmätning 2008-01-01 |
-| Inmätning och utsättning | SGF Rapport 1:2013 Geoteknisk<br>fälthandbok |
+| Jordartsbedömning i fält | Jordartsbestämning, beskrivning och |
+|  | Klassificering. BTR T21:1982 |
+| Elektrisk resistivitetsmätning | SGF Metodblad - Automatiserad |
+|  | resistivitetsmätning 2008-01-01 |
+| Inmätning och utsättning | SGF Rapport 1:2013 Geoteknisk |
+|  | fälthandbok |
 
 <!-- sida 6 -->
 
@@ -352,15 +362,39 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvickl
 
 [Tabell 12-1](handlingar-anneberg-centrum-geoteknik-kvicklerutbredning.tabeller/12-1.csv)
 
-| Metod | Yttäckning | Säkerhet i<br>bedömning | Beskrivning |
+| Metod | Yttäckning | Säkerhet i | Beskrivning |
 | --- | --- | --- | --- |
-| Kolvprovtagning | 1 | 4 | Krävs för definitionsmässig klassning av<br>kvicklera. (SGF, 2009). |
-| CPT<br>R | 1 | 3 | Resistivitetsvärden kan användas för att hitta<br>områden där lakning ej har skett i tillräckligt<br>hög grad för att kvicklera ska kunna ha bildats<br>på normalt sätt. Se Dahlin et al. (2014),<br>Löfroth et al. (2011) och Löfroth et al. (2019)<br>för mer information. |
-| CPT<br>f | 2 | 2 | Tolkning av mobiliserad friktion och frånvaro<br>av hållfasthetstillväxt mot djupet har använts<br>lokalt. Se Löfroth (2011) för en mer detaljerad<br>metodbeskrivning. |
-| Trycksondering | 2 | 2 | Tolkning av mobiliserad friktion och frånvaro<br>av hållfasthetstillväxt mot djupet har använts<br>lokalt. Se Löfroth (2011) för en mer detaljerad<br>metodbeskrivning. |
-| Resistivitetsmätning | 3 | 2 | Resistivitetsvärden kan användas för att hitta<br>områden där lakning ej har skett i tillräckligt<br>hög grad för att kvicklera ska kunna ha bildats<br>på normalt sätt. Se Löfroth et al. (2011) för<br>mer information. |
-| Geologiskt resonerande | 4 | 1 | Utan ett mycket ambitiöst<br>fältundersökningsprogram med många<br>mätlinjer och borrpunkter krävs ett geologiskt<br>tankesätt för att knyta ihop allt. Se exempelvis<br>Persson (2014). |
-| Sammanvägd bedömning | 4 | 4 | Användandet av flera metoder minskar<br>effekten av metodmässiga begränsningar och<br>ger det bästa sammantagna<br>bedömningsunderlaget. |
+|  |  | bedömning |  |
+| Kolvprovtagning | 1 | 4 | Krävs för definitionsmässig klassning av |
+|  |  |  | kvicklera. (SGF, 2009). |
+| CPT<br>R | 1 | 3 | Resistivitetsvärden kan användas för att hitta |
+|  |  |  | områden där lakning ej har skett i tillräckligt |
+|  |  |  | hög grad för att kvicklera ska kunna ha bildats |
+|  |  |  | på normalt sätt. Se Dahlin et al. (2014), |
+|  |  |  | Löfroth et al. (2011) och Löfroth et al. (2019) |
+|  |  |  | för mer information. |
+| CPT<br>f | 2 | 2 | Tolkning av mobiliserad friktion och frånvaro |
+|  |  |  | av hållfasthetstillväxt mot djupet har använts |
+|  |  |  | lokalt. Se Löfroth (2011) för en mer detaljerad |
+|  |  |  | metodbeskrivning. |
+| Trycksondering | 2 | 2 | Tolkning av mobiliserad friktion och frånvaro |
+|  |  |  | av hållfasthetstillväxt mot djupet har använts |
+|  |  |  | lokalt. Se Löfroth (2011) för en mer detaljerad |
+|  |  |  | metodbeskrivning. |
+| Resistivitetsmätning | 3 | 2 | Resistivitetsvärden kan användas för att hitta |
+|  |  |  | områden där lakning ej har skett i tillräckligt |
+|  |  |  | hög grad för att kvicklera ska kunna ha bildats |
+|  |  |  | på normalt sätt. Se Löfroth et al. (2011) för |
+|  |  |  | mer information. |
+| Geologiskt resonerande | 4 | 1 | Utan ett mycket ambitiöst |
+|  |  |  | fältundersökningsprogram med många |
+|  |  |  | mätlinjer och borrpunkter krävs ett geologiskt |
+|  |  |  | tankesätt för att knyta ihop allt. Se exempelvis |
+|  |  |  | Persson (2014). |
+| Sammanvägd bedömning | 4 | 4 | Användandet av flera metoder minskar |
+|  |  |  | effekten av metodmässiga begränsningar och |
+|  |  |  | ger det bästa sammantagna |
+|  |  |  | bedömningsunderlaget. |
 
 <!-- sida 13 -->
 
@@ -449,7 +483,9 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvickl
 
 |  | Fältarbete | Databearbetning/tolkning |
 | --- | --- | --- |
-| Personal | Andrea Håkansson, Elin<br>Nyström och Martin<br>Persson | M artin Persson |
+| Personal | Andrea Håkansson, Elin | M artin Persson |
+|  | Nyström och Martin |  |
+|  | Persson |  |
 | Period | 2021-04-20 | 2021-04-21 – 2021-06-01 |
 
 <!-- sida 16 -->
@@ -593,15 +629,33 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvickl
 
 | Provtagningspunkt | Kommentar |
 | --- | --- |
-| 1804 | Sensitivitet <40, men skjuvhållfasthet <1 i alla prover.<br>Hela sekvensen (20 m) beskrivs som gyttjig i någon<br>form. |
-| 1905 | Kvicklera endast på 15 m-nivån, men <1 kPa omrörd<br>skjuvhållfasthet genom hela den provtagna<br>lersekvensen. |
-| 1801 | Kvicklera utbildad i stora delar av lagerföljden. Alla<br>kolvnivåer (3 – 20 meter) har mycket låg omrörd<br>skjuvhållfasthet. Från 5-metersnivån till stopp är<br>sensitiviteten dessutom >50. |
-| 1802 | Övervägande mellansensitiv lera. Den omrörda<br>skjuvhållfastheten är genomgående låg (<1 från 5 –<br>15 m) |
-| 1909 | Leran uppfyller inte kvicklerdefinitionen med den<br>omrörda skjuvhållfastheten är låg (<1 kPa) på alla<br>provtagningsnivåer. |
-| 2020 | Sensitivitet >50 på 4, 6, 15 och 18 m. Omrörd<br>skjuvhållfasthet låg genom hela den provtagna<br>lersekvensen. |
-| 1803 | Kvicklera rapporterad från 2 av 3 nivåer längs 13 – 20<br>m. Omrörd skjuvhållfasthet dock <1 kPa i hela det<br>provtagna intervallet. Sensitiviteten är nära 50 från 7<br>m. |
-| 1914 | Provtaget endast på 3, 10 och 15 m. Kvickt på 10 och<br>15 och nära kvickt på 3 m. |
-| 2022 | Rapporterat kvickt på 3 och 18 m. Låga omrörda<br>skjuvhållfastheter. |
+| 1804 | Sensitivitet <40, men skjuvhållfasthet <1 i alla prover. |
+|  | Hela sekvensen (20 m) beskrivs som gyttjig i någon |
+|  | form. |
+| 1905 | Kvicklera endast på 15 m-nivån, men <1 kPa omrörd |
+|  | skjuvhållfasthet genom hela den provtagna |
+|  | lersekvensen. |
+| 1801 | Kvicklera utbildad i stora delar av lagerföljden. Alla |
+|  | kolvnivåer (3 – 20 meter) har mycket låg omrörd |
+|  | skjuvhållfasthet. Från 5-metersnivån till stopp är |
+|  | sensitiviteten dessutom >50. |
+| 1802 | Övervägande mellansensitiv lera. Den omrörda |
+|  | skjuvhållfastheten är genomgående låg (<1 från 5 – |
+|  | 15 m) |
+| 1909 | Leran uppfyller inte kvicklerdefinitionen med den |
+|  | omrörda skjuvhållfastheten är låg (<1 kPa) på alla |
+|  | provtagningsnivåer. |
+| 2020 | Sensitivitet >50 på 4, 6, 15 och 18 m. Omrörd |
+|  | skjuvhållfasthet låg genom hela den provtagna |
+|  | lersekvensen. |
+| 1803 | Kvicklera rapporterad från 2 av 3 nivåer längs 13 – 20 |
+|  | m. Omrörd skjuvhållfasthet dock <1 kPa i hela det |
+|  | provtagna intervallet. Sensitiviteten är nära 50 från 7 |
+|  | m. |
+| 1914 | Provtaget endast på 3, 10 och 15 m. Kvickt på 10 och |
+|  | 15 och nära kvickt på 3 m. |
+| 2022 | Rapporterat kvickt på 3 och 18 m. Låga omrörda |
+|  | skjuvhållfastheter. |
 
 <!-- sida 20 -->
 
@@ -1015,12 +1069,31 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm kvicklerutbredning\pm kvickl
 
 [Tabell 29-1](handlingar-anneberg-centrum-geoteknik-kvicklerutbredning.tabeller/29-1.csv)
 
-| Tolkningsmetod | Anledningar till falska positiva | Anledningar till falska<br>negativa | Omfattning lokalt |
+| Tolkningsmetod | Anledningar till falska positiva | Anledningar till falska | Omfattning lokalt |
 | --- | --- | --- | --- |
-| Kv | - | Oförsiktigt upptagna<br>och/eller transporterade<br>prover skulle resultera i<br>lägre skenbar sensitivitet<br>eftersom den ostörda<br>skjuvhållfastheten blir lägre.<br>Lagring av prover. | I huvudsak inget<br>problem. |
-| CPT<br>f | Fastare jordlager inbäddade i leran<br>(skal- eller sandhorisonter, torrskorpa<br>o.s.v.) | Naturligt innehåll av<br>dispergerande ämnen. | Problemet<br>förekommer men<br>går att komma åt<br>med geologiska<br>resonemang |
-| CPT<br>R | Leran kan ha lakats under<br>porvattensalinitet som normalt krävs<br>för kvicklerbildning men leran är ändå<br>inte kvick enligt definition. | - | Problemet<br>förekommer i<br>ganska stor<br>omfattning |
-| Tr | Fastare jordlager inbäddade i leran<br>(skal- eller sandhorisonter, torrskorpa<br>o.s.v.). Droppstenar i leran. | Kvicklera för tunn relativt<br>djupmässig upplösning<br>Naturligt innehåll av<br>dispergerande ämnen. | Problemet<br>förekommer i<br>ganska stor<br>omfattning |
+|  |  | negativa |  |
+| Kv | - | Oförsiktigt upptagna | I huvudsak inget |
+|  |  | och/eller transporterade | problem. |
+|  |  | prover skulle resultera i |  |
+|  |  | lägre skenbar sensitivitet |  |
+|  |  | eftersom den ostörda |  |
+|  |  | skjuvhållfastheten blir lägre. |  |
+|  |  |  |  |
+|  |  | Lagring av prover. |  |
+| CPT<br>f | Fastare jordlager inbäddade i leran | Naturligt innehåll av | Problemet |
+|  | (skal- eller sandhorisonter, torrskorpa | dispergerande ämnen. | förekommer men |
+|  | o.s.v.) |  | går att komma åt |
+|  |  |  | med geologiska |
+|  |  |  | resonemang |
+| CPT<br>R | Leran kan ha lakats under | - | Problemet |
+|  | porvattensalinitet som normalt krävs |  | förekommer i |
+|  | för kvicklerbildning men leran är ändå |  | ganska stor |
+|  | inte kvick enligt definition. |  | omfattning |
+| Tr | Fastare jordlager inbäddade i leran | Kvicklera för tunn relativt | Problemet |
+|  | (skal- eller sandhorisonter, torrskorpa | djupmässig upplösning | förekommer i |
+|  | o.s.v.). Droppstenar i leran. |  | ganska stor |
+|  |  | Naturligt innehåll av | omfattning |
+|  |  | dispergerande ämnen. |  |
 | ERT | Se CPT ovan<br>ρ | Se CPT ovan<br>R | Se CPT ovan<br>R |
 
 <!-- sida 30 -->

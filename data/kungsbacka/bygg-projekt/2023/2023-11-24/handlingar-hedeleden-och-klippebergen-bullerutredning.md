@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.74b44b7b18bfb1e020e300a/17008385358
 sha256: 5837ec36af0c222e57cc0a6ae6a27f60a32330b2b25e1285ff5167e12d26b0b8
 bytes: 4023279
 sidor: 23
-hamtad: 2026-11-13T16:39:15+00:00
-konverterad: 2026-11-13T16:39:37+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:31:45+00:00
+konverterad: 2026-11-20T10:32:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -325,7 +325,7 @@ Unr 1320055424
 
 [Tabell 11-1](handlingar-hedeleden-och-klippebergen-bullerutredning.tabeller/11-1.csv)
 
-| Antal Medellängd Maxlängd Hastighet<br>Tågtyp<br>tåg (m) (m) (km/tim.) |  |  |  |  |
+| Tågtyp | Antal<br>tåg | Medellängd<br>(m) | Maxlängd<br>(m) | Hastighet<br>(km/tim.) |
 | --- | --- | --- | --- | --- |
 | Godståg | 12 | 579 | 650 | 100 |
 | Persontåg -X31 / 32 | 25 | 118 |  | 180 |
@@ -335,7 +335,7 @@ Unr 1320055424
 
 [Tabell 11-2](handlingar-hedeleden-och-klippebergen-bullerutredning.tabeller/11-2.csv)
 
-| Antal Medellängd Maxlängd Hastighet<br>Tågtyp<br>tåg (m) (m) (km/tim.) |  |  |  |  |
+| Tågtyp | Antal<br>tåg | Medellängd<br>(m) | Maxlängd<br>(m) | Hastighet<br>(km/tim.) |
 | --- | --- | --- | --- | --- |
 | Godståg | 11 | 578 | 630 | 100 |
 | Persontåg -X31 / 32 | 30 | 160 |  | 180 |

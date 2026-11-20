@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.74b44b7b18bfb1e020e3005/17008385335
 sha256: 9098cbc7087959ea516385e303184189a0c660ed5fa8f53ad6c763d93951e984
 bytes: 8893548
 sidor: 48
-hamtad: 2026-11-13T16:37:21+00:00
-konverterad: 2026-11-13T16:37:45+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:29:47+00:00
+konverterad: 2026-11-20T10:30:13+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 29, 30, 31, 35, 43]
 figurer: [1, 2, 4, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
 tolkade: []
@@ -162,7 +162,8 @@ n:\108\48\1084828\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2023-03-24 | Sida 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997–2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475–1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475–1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 <!-- sida 6 -->
@@ -182,7 +183,8 @@ n:\108\48\1084828\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2023-03-24 | Sida 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | CPT-sondering | SS-EN ISO 22476–1:2012 |
-| Jordbergsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 och<br>4:2012 |
+| Jordbergsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 och |
+|  | 4:2012 |
 | Vingsondering | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 | Skruvprovtagning | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 | Kolvprovtagning | Geoteknisk fälthandbok SGF Rapport 1:2013 |
@@ -191,7 +193,8 @@ n:\108\48\1084828\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2023-03-24 | Sida 
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| Klassificering | SS-EN ISO 14688–1:2002 & SS-EN ISO<br>14688–2:2004 samt BFR T21:1982 |
+| Klassificering | SS-EN ISO 14688–1:2002 & SS-EN ISO |
+|  | 14688–2:2004 samt BFR T21:1982 |
 | Vattenkvot | SS 027116, utgåva 3 |
 | Konflytgräns | SS 027120, utgåva 2 |
 | CRS | SS 027126 |

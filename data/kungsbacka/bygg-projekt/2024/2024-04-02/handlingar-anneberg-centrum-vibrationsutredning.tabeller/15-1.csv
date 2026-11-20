@@ -1,5 +1,11 @@
-"Namn Datum och tid Svängningshastighet Acceleration Amplitud Frekvens [Hz]
-[mm/s] [m/s²] [um]",,,,,
-"MP3-
-Vertikal","2023-05-26
-04:33:32","0,45","0,0",16,"5,2"
+mätpunkt,Riktning,Datum och tid,Uppmätt svängningshastighet [mm/s],
+MP7-TRIGV,vertikal,2023-05-26 20:23,"7,07",
+"MP7-TRIGV vertikal 2023-05-26 04:33 6,36",,,,
+MP7-TRIGV,vertikal,2023-05-24 08:43,,"6,03"
+"MP7-TRIGV vertikal 2023-05-26 08:43 5,82",,,,
+MP7-TRIGV,vertikal,2023-05-24 20:56,,"5,65"
+"MP7-TRIGV vertikal 2023-05-24 22:55 5,60",,,,
+MP7-TRIGV,vertikal,2023-05-24 14:25,,"5,55"
+"MP7-TRIGV vertikal 2023-05-28 08:02 5,53",,,,
+MP7-TRIGV,vertikal,2023-05-23 17:26,,"5,49"
+"MP7-TRIGV vertikal 2023-05-23 16:28 5,45",,,,
