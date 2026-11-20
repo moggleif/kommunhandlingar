@@ -1,4 +1,17 @@
+Indikatorer,"Utfall
+2019","Utfall
+2020","Utfall
+2021","Utfall
+2022","Målvärde
+2022"
 "NKI totalt värde, Nöjd-Kund-Index, bygglov",40,40,44,46,62
 "NKI totalt värde, Nöjd-Kund-Index, miljöskydd",60,65,64,67,72
 "NKI totalt värde, Nöjd-Kund-Index, livsmedel",74,72,76,77,78
 "NKI totalt värde, Nöjd-Kund-Index, servering",76,72,81,93,78
+"Handläggningstid bygglov företagsärenden
+(tid från komplett ansökan till beslut), 10
+veckor",,,,4,10
+"Handläggningstid nybyggnadskarta, 15 dagar",,,,25,15
+"Andel överklagade beslut som håller i
+överprövande instans (Miljöbalken och Plan-
+och bygglagen)",,,,69%,

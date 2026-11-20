@@ -1,3 +1,30 @@
-Nybyggnadskartor,105,233,262,240,151
-Husutstakningar,294,259,257,298,318
-Lägeskontroller,176,113,110,124,182
+,Namn,"Utfall
+2018","Utfall
+2019","Utfall
+2020","Utfall
+2021","Utfall
+2022"
+,"Handläggningstid prövning värmepump-
+från komplett ansökan/anmälan till
+beslut. 14 arbetsdagar",,,,16,21
+,"Handläggningstid prövning registrering
+av livsmedelsanläggning - från komplett
+anmälan till beslut - (analog ansökan),
+5 arbetsdagar.",,,,,10
+,"Handläggningstid prövning registrering
+av livsmedelsanläggning - från komplett
+anmälan till beslut -(digital ansökan), 24
+timmar",,,,,*
+,"Handläggningstid från ärende komplett
+till beslut för bygglov, en- och
+tvåbostadshus, veckor median",8,10,13,16,7
+,Nybyggnadskartor,105,233,262,240,151
+,Husutstakningar,294,259,257,298,318
+,Lägeskontroller,176,113,110,124,182
+,"Handläggningstid från ärende komplett
+till beslut, bygglov privatpersoner
+(veckor median)",,,,8,4
+,"Handläggningstid från ärende komplett
+till beslut, bygglov företag (veckor
+median)",,,,8,4
+,Ärendebalans - alla ärenden,,,,100%,113%
