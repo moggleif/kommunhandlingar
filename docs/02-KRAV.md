@@ -872,7 +872,7 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Så** står alla mål och direktiv, utan urval.
 - **Givet** en målfil med ett organ som inte står i kommunfilen, ett år
   som inte är fyra siffror, ett slag som inte är `nämndmål`, `kommunmål`,
-  `fokusområde` eller `direktiv` (K35), en källa som inte är en sida i ett av organets dokument i
+  `regionmål`, `fokusområde` eller `direktiv` (K35, K71), en källa som inte är en sida i ett av organets dokument i
   poolen, en rubrik, formulering eller status som inte står på källans
   sidor, samma mål två gånger ur samma källa, eller en målfil utan
   kommunfil
@@ -2076,3 +2076,15 @@ och [Paragraferna och ärendena](03-ARKITEKTUR.md#paragraferna-och-ärendena); s
 - **Givet** en kommun utan protokoll
 - **När** webbplatsen byggs
 - **Så** har kommunens grupp inga poster.
+
+## K71 — En regions fullmäktigemål heter regionmål
+
+Hur och varför står i
+[ADR-0098](decisions/0098-regionmal-ar-ett-eget-slag.md)
+och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
+
+- **Givet** en målfil med en rad med slaget `regionmål`
+- **När** webbplatsen byggs
+- **Så** står målet på organets sida om mål och direktiv som Regionmål,
+  i urvalet, i tidslinjen och i antalet per år, och inte som kommunmål
+  eller nämndmål.

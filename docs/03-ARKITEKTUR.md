@@ -2039,7 +2039,7 @@ filen (K26), länkad från organets sida.
   | ------------- | ---------------------------------------------------------- |
   | `organ`       | Organets id i kommunfilen.                                 |
   | `ar`          | Året målet gäller: budgetåret, eller året som följs upp.   |
-  | `slag`        | `nämndmål`, `kommunmål`, `fokusområde` eller `direktiv`. |
+  | `slag`        | `nämndmål`, `kommunmål`, `regionmål` (en regions fullmäktigemål, ADR-0098), `fokusområde` eller `direktiv`. |
   | `rubrik`      | Målets rubrik ordagrant, utan numrering.                   |
   | `formulering` | Nämndens formulering ordagrant, eller tomt.                |
   | `status`      | Statusen ordagrant ur en uppföljning, eller tomt.          |
