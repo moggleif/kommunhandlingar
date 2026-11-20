@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2aa120519d9a515cfbe7ad0/17774703310
 sha256: 610d70688db761a36c6d618d46f852220323e285394af4a208c7a772a5c89254
 bytes: 14442892
 sidor: 332
-hamtad: 2026-11-10T02:11:39+00:00
-konverterad: 2026-11-10T02:12:52+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:30:18+00:00
+konverterad: 2026-11-20T02:31:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [11, 19, 173, 174, 260, 261, 279, 301, 322]
 figurer: [19, 69, 87, 91, 92, 95, 96, 100, 119, 142, 143, 163, 195, 199, 202, 204, 302, 305, 306, 324, 327, 330]
 tolkade: []
@@ -2058,21 +2058,19 @@ ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
 
 <!-- sida 59 -->
 
-Förändring Förändring
-Nämndernas  gentemot  gentemot  Summa   Förslag
-förslag till nämndernas nämndernas ny budget förändring ny
-ombudget 2027 förslag 2026 förslag 2027 2026 budget 2027
-
-2 650
-
--4 000                     31 748    -4 000
--4 000       0         0   31 748    -4 000
-
-60 500
-60 500
-
--4 000    3 500        0  260 246    -4 000
 256 746 kontrollsumma 2025
+
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| Nämndernas<br>förslag till<br>ombudget 2027 | Förändring<br>gentemot<br>nämndernas<br>förslag 2026 | Förändring<br>gentemot<br>nämndernas<br>förslag 2027 | Summa<br>ny budget<br>2026 | Förslag<br>förändring ny<br>budget 2027 |
+| --- | --- | --- | --- | --- |
+|  |  |  | 2 650 |  |
+|  |  |  |  |  |
+| -4 000 |  |  | 31 748 | -4 000 |
+| -4 000 | 0 | 0 | 31 748 | -4 000 |
+|  |  |  | 60 500 |  |
+|  |  |  | 60 500 |  |
+| -4 000 | 3 500 | 0 | 260 246 | -4 000 |
 
 <!-- sida 60 -->
 
@@ -2095,21 +2093,17 @@ Avgiftsfinansierad verksamhet
 
 Typ 6+8
 Belopp i Tkr
-Nämndernas Nämndernas
-förslag till förslag till
-Budget ombudget  ombudget
-2026    2026      2027
-Kungsbacka bredband
-TE-Br    8514 Kungsbacka Landsbygg                     501
 
 [Tabell 61-1](handlingar.tabeller/61-1.csv)
 
-| Enligt KF budgetram 2025 | 22 000 |  |  |
+|  | Budget<br>2026 | Nämndernas<br>förslag till<br>ombudget<br>2026 | Nämndernas<br>förslag till<br>ombudget<br>2027 |
 | --- | --- | --- | --- |
+| Kungsbacka bredband |  | 501 |  |
+| TE-Br 8514 Kungsbacka Landsbygg<br>Enligt KF budgetram 2025 | 22 000 |  |  |
 | Summa bredband | 22 000 | 501 | 0 |
-| Avfall & Återvinning |  |  |  |
-| Enligt KF budgetram 2025 | 65 000 |  |  |
+| Avfall & Återvinning<br>Enligt KF budgetram 2025 | 65 000 |  |  |
 | Summa Avfall & Återvinning | 65 000 | 0 | 0 |
+|  |  |  |  |
 | SUMMA | 918 650 | 38 123 | 0 |
 
 <!-- sida 62 -->
@@ -3832,8 +3826,9 @@ KONSEKVENSER
 
 [Tabell 107-1](handlingar.tabeller/107-1.csv)
 
-| Kungsbacka<br>kommun | Strategi 1<br>Mycket stort<br>engagemang | Strategi 2<br>Litet<br>engagemang | Strategi 3<br>Stort<br>engagemang | Strategi 4<br>Stort<br>engagemang |
+|  | Strategi 1 | Strategi 2 | Strategi 3 | Strategi 4 |
 | --- | --- | --- | --- | --- |
+| Kungsbacka<br>kommun | Mycket stort<br>engagemang | Litet<br>engagemang | Stort<br>engagemang | Stort<br>engagemang |
 | Privat aktör | Litet<br>engagemang | Mycket stort<br>engagemang | Mycket litet<br>engagemang | Stort<br>engagemang |
 
 [Tabell 107-2](handlingar.tabeller/107-2.csv)
