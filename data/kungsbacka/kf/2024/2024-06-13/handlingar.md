@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.38cb5fd51900fdb3cb747/1718257375717
 sha256: 9750e4c2b6a8414fbb361c633e07bfc5dce08f43e8d22161e71bcc720b85d43f
 bytes: 91502614
 sidor: 532
-hamtad: 2026-11-10T01:00:31+00:00
-konverterad: 2026-11-10T01:07:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:03:31+00:00
+konverterad: 2026-11-20T01:10:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
+kvalitet_per_sida: [ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr]
 tal_obekraftade: [83, 126, 129, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 314, 315, 327, 330, 333, 335, 337, 338, 339, 340, 341, 343, 344, 345, 346, 347, 348, 349, 351, 352, 353, 355, 356, 357, 359, 361, 362, 363, 364, 365, 366, 367, 370, 372, 376, 377, 378, 379, 380, 382, 383, 384, 385, 386, 395, 396, 397, 398, 399, 400, 401, 402, 403, 404, 406, 407, 531, 532]
 figurer: [28, 36, 40, 52, 60, 62, 66, 75, 76, 98, 101, 106, 109, 111, 112, 114, 115, 116, 117, 120, 125, 129, 130, 132, 133, 137, 138, 140, 141, 143, 144, 145, 146, 153, 154, 155, 156, 163, 165, 166, 168, 171, 172, 174, 175, 186, 191, 192, 194, 214, 215, 223, 233, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 307, 316, 317, 318, 319, 320, 321, 322, 323, 324, 325, 327, 328, 329, 330, 331, 332, 333, 334, 335, 336, 337, 338, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 358, 359, 360, 363, 364, 366, 367, 368, 369, 370, 372, 377, 378, 379, 380, 381, 385, 386, 388, 389, 390, 391, 392, 393, 394, 395, 396, 398, 399, 400, 401, 402, 403, 405, 406, 407, 409, 417, 426, 429, 431, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 481, 486, 491, 500, 517]
 tolkade: []
@@ -2274,8 +2274,15 @@ kvalitetsfaktor på 30%. I slambehandlingsalternativen med rötning kan energiti
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Energibalans<br>(MWh) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Energibalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (MWh) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energianvändning: |  |  |  |  |  |
 | Elanvändning | 2 460 | 3 160 | 3 060 | 2 050 | 2 250 |
 | Värmeanvändning | 830 | 0 | 0 | 0 | 420 |
@@ -2354,8 +2361,15 @@ med AGS. AGS + alt 0 är inget reellt alternativ utan är med för referens.
 
 [Tabell 51-1](handlingar.tabeller/51-1.csv)
 
-| Klimatbalans<br>(ton CO per år)<br>2e | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Klimatbalans | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (ton CO per år)<br>2e |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Emissioner: |  |  |  |  |  |
 | Direkta emissioner från företagsägda bilar, reservkraft och<br>värme | 16 | 16 | 16 | 16 | 16 |
 | Direkta emissioner av N O<br>2 | 2 010 | 2 010 | 1 720 | 1 720 | 2 010 |
@@ -2572,8 +2586,15 @@ mindre jämfört med lokal rötningsanläggning). Att slambehandlingsalternative
 
 [Tabell 55-1](handlingar.tabeller/55-1.csv)
 
-| Ekonomi<br>(Mkr) | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Ekonomi | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  |  | + |  |  |  |
+|  |  |  |  |  | + |
+|  | + | Rötning | + | + |  |
+| (Mkr) |  |  |  |  | Alt. 0+ |
+|  | Rötning | + | Pyrolys | Alt. 0 |  |
+|  |  |  |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Totala kostnader under 50 år | 6 788 | 8 741 | 7 495 | 6 111 | 6 797 |
 | Utvärdering (poäng) | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
 
@@ -2620,8 +2641,12 @@ har idag plats för 22 personer vilket bedöms kunna behållas.
 
 [Tabell 56-1](handlingar.tabeller/56-1.csv)
 
-| Utvärderingskriterium | AGS<br>+<br>Rötning | AGS<br>+<br>Rötning<br>+<br>Pyrolys | AGS<br>+<br>Pyrolys | AGS<br>+<br>Alt. 0 | AGS<br>+<br>Alt. 0+<br>(Rötning) |
+| Utvärderingskriterium | AGS | AGS | AGS | AGS | AGS |
 | --- | --- | --- | --- | --- | --- |
+|  | + | + | + | + | + |
+|  | Rötning | Rötning | Pyrolys | Alt. 0 | Alt. 0+ |
+|  |  | + |  |  | (Rötning) |
+|  |  | Pyrolys |  |  |  |
 | Energi | 4,8 | 5,0 | 3,7 | 3,4 | 4,8 |
 | Klimat | 5,0 | 3,2 | 2,6 | 2,6 | 4,6 |
 | Ekonomi | 4,5 | 3,6 | 4,1 | 5,0 | 4,5 |
@@ -3284,7 +3309,7 @@ köpa in återbrukat material.
 
 | t<br>k<br>e<br>r<br>id<br>n<br>I |  |  |  |  |  | Inbin | dningkol | El | re<br>ila<br>k<br>im<br>e<br>K |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klima | a<br>tpåverk | an |  | t | on CO2e |
+| t<br>la<br>t<br>o<br>T |  |  |  |  |  |  |  | Summ<br>klimat | a<br>påverk | an |  | t | on CO2e |
 
 <!-- sida 71 -->
 
@@ -5385,19 +5410,16 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2021   2022   2023   Målsättning 2025
-Antal påbörjade bostäder            216   848     165         Öka
-Antal färdigställda bostäder       430    363     319         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel-      Öka
 hetssyn (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
@@ -5407,6 +5429,16 @@ Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
 
 Kommunbudget 2025 och plan 2026–2027 19
+
+[Tabell 112-1](handlingar.tabeller/112-1.csv)
+
+| 216 | 848 | 165 |
+| --- | --- | --- |
+| 430 | 363 | 319 |
+| 5 321 | 5 691 | 6 475 |
+| \* | 90 % | 91 % |
+| \* | 74 % | 76 % |
+| \* | 88 % | \* |
 
 <!-- sida 113 -->
 
@@ -5469,17 +5501,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2021   2022   2023    Målsättning 2025
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 70 67 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet.
-Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen       Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
 \*Ännu ej publicerad.
@@ -5490,6 +5522,15 @@ samma människor.
 Foto: Catharina Fyrberg
 
 Kommunbudget 2025 och plan 2026–2027 21
+
+[Tabell 114-1](handlingar.tabeller/114-1.csv)
+
+| 66 | 70 | 67 |
+| --- | --- | --- |
+| 3,5 | 3,4 | 3,4 |
+| 27 384 | 27 695 | \* |
+| 5,1 % | 4,9 % | \* |
+| 18 % | 18 % | \* |
 
 <!-- sida 115 -->
 
@@ -5502,18 +5543,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2021   2022   2023 Målsättning 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet 239 237 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet Öka
 utgörs av summan av de 17 bästa betygen i elevens slutbetyg och kan
 max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- 14,2 14,5 14,3 Öka
+Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- Öka
 äng som kan vara max 20. (Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen 2,6 % 1,7 % 1,7 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen                 Minska
 (Källa: Arbetsförmedlingen och SCB)
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)         Minska
 Andel vuxna personer som inte återkommer till försörjningsstöd inom 67 % 69 % 73 % Öka
 ett år efter avslutat försörjningsstöd (Kolada)
 
 22 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 115-1](handlingar.tabeller/115-1.csv)
+
+| 239 | 237 | 237 |
+| --- | --- | --- |
+| 14,2 | 14,5 | 14,3 |
+| 2,6 % | 1,7 % | 1,7 % |
+| 414 | 376 | 325 |
 
 <!-- sida 116 -->
 
@@ -16490,7 +16539,7 @@ var det ca 350 äldre som avnjöt ett trevligt julbord och fick
 möjligheten att knyta kontakt med nya vänner.
 
 LJ
-Millpstartsmöte
+Nillpstartsmöte
 på Aranästeatern
 
 Vad är teknikcollege?
@@ -16909,7 +16958,7 @@ kommun är den enskilt största. Under 2023 har vi anslutit
 Nytt EU Pr é
 
 sätter krav på att 5
-i rökgaserria i
+i rökgaserna i
 
 Transaktion 09222115557513091449
 
@@ -16952,7 +17001,7 @@ nyinvesteringar i nya rökgasfilter för att klara de hårdare
 kraven.
 
 En utmaning är de skenande biobränslepriserna där vi un-
-der de senaste två åren haft höjningar på totalt cirka 5026.
+der de senaste två åren haft höjningar på totalt cirka 5024.
 Detta har lett till att vi i vår tur fått höja priset ut till kund.
 Anledningen till höjningen av biobränslepriserna är ökad
 efterfrågan på biobränsle i Europa samt en vikande pro-
@@ -17193,10 +17242,10 @@ förandeformer) för Byggherrarna
 e SIS/TK (Svenska institutet för standarder) ISO
 standard 44001 - affärsrelationer i samverkan
 
-» FEBY (forum för energieffektivt byggande)
+e FEBY (forum för energieffektivt byggande)
 e Teknikcollege Kungsbacka
 
-ee Högskolan i Halmstad - programrådet för
+« Högskolan i Halmstad - programrådet för
 energiingenjörer
 
 e Nationella rådet för industriellt byggande
@@ -17679,7 +17728,7 @@ ar på energieffektiva byggnader, solenergi ihop med att pri-
 sökningen på el mildras har gjort att den negativa påverkan
 inte blev fullt så stor som befarades vid ingången av året.
 Nyproduktionstakten har varit lägre än tidigare år där pro-
-jekt flyttats fram i tiden. Dock byggstartades etapp II av Rya
+jekt flyttats fram i tiden. Dock byggstartades etapp Il av Rya
 Ängar under sommaren och beräknas stå klart för inflytt-
 ning juni 2024. Vidare har ombyggnad av Kommunvägen fd
 Tölö Äldreboende påbörjats för att färdigställa 2 gruppbo-
@@ -17693,7 +17742,7 @@ hyrorna höjdes i genomsnitt 3,926 (1,820).
 Transaktion 09222115557513091449
 
 Sjukfrånvaron ökade under pandemiåren men har nu
-glädjande minskat kraftigt, från 9,1 26 2022 till 4,82 2023, En
+glädjande minskat kraftigt, från 9,1 26 2022 till 4,826 2023, En
 anledning är att flera anställda är tillbaka i arbete igen efter
 långa sjukskrivningar, en annan kan vara införandet av en
 mer flexibel arbetstid för tjänstepersoner. Sjukfrånvaron lig-
@@ -17817,7 +17866,7 @@ marknadsposition
 » Drift- och underhållskostnader i likartade fastigheter
 i jämförelse med dem i den aktuella fastigheten
 
-: Bedömda investeringar och hyresgästanpassningar
+» Bedömda investeringar och hyresgästanpassningar
 Utifrån analysen resulterande driftnetton under kalkylpe
 rioden och ett restvärde vid kalkylperiodens slut diskon-
 teras därefter dessa med den bedömda kalkylräntan. De
@@ -17920,7 +17969,7 @@ Aktuellt läge gentemot direktiven
 
 För verksamhetsåret 2023 har bolagets anläggningstill-
 gångar (exklusive pågående nyanläggningar) skrivits av
-med 2,3 & (2,05 20). Bolagets resultat medger skattemässiga
+med 2,3 2 (2,05 20). Bolagets resultat medger skattemässiga
 avskrivningar enligt ägardirektivet.
 
 Soliditeten fortsätter att stiga till 17,61 2 (16,12 2) men
