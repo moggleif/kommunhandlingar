@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.66aeefd7197a1f981dfd6570/1751355619
 sha256: 814afa1735d8aae010ca45efa14d525fcac77a5c86c8d9d8cf8fd77bd90f4f87
 bytes: 6085303
 sidor: 40
-hamtad: 2026-11-13T17:42:51+00:00
-konverterad: 2026-11-13T17:43:11+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:44:19+00:00
+konverterad: 2026-11-20T11:44:41+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad]
 tal_obekraftade: [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 40]
-figurer: [1, 2, 5, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40]
+figurer: [1, 5, 8, 9, 10, 11, 12, 13, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 34, 35, 36, 37, 39, 40]
 tolkade: []
 granskad: null
 ---
@@ -49,22 +49,28 @@ Uppdragsledare:      Katarina Engerberg
 Teknikansvarig:      Katarina Engerberg
 Handläggare:         Diego Bouzas/Katarina Engerberg/Johanna Medin
 
-Rev C 2023-06-20 PM Geoteknik(kompl  Johanna Medin Katarina B. Gervide
-stabilitetsberäkning)           Engerberg Eckel
-Rev B 2023-02-24 PM Geoteknik, rev plankarta Katarina   Katarina
-Engerberg          Engerberg
-Rev A 2022-03-09 PM Geoteknik (kompl fält o lab) Katarina Daniel Svärd Katarina
-Engerberg          Engerberg
-1     2019-12-12 PM Geoteknik        Diego Bouzas Katarina B. Gervide
-Engerberg Eckel
-
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 30 31 DP Varla 3:22 m.fl. Kungsbacka
 
 | 2(17)
+
+[Tabell 2-1](handlingar-verksamhetsomrade-i-norra-varla-geoteknik-pm.tabeller/2-1.csv)
+
+| Rev C | 2023-06-20 | PM Geoteknik(kompl | Johanna Medin | Katarina | B. Gervide |
+| --- | --- | --- | --- | --- | --- |
+|  |  | stabilitetsberäkning) |  | Engerberg | Eckel |
+|  |  |  |  |  |  |
+| Rev B | 2023-02-24 | PM Geoteknik, rev plankarta | Katarina |  | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+|  |  |  |  |  |  |
+| Rev A | 2022-03-09 | PM Geoteknik (kompl fält o lab) | Katarina | Daniel Svärd | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+|  |  |  |  |  |  |
+| 1 | 2019-12-12 | PM Geoteknik | Diego Bouzas | Katarina | B. Gervide |
+|  |  |  |  | Engerberg | Eckel |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.66aeefd7197a1f981dfd6571/1751355620
 sha256: a8be6f266ef6c34859658e66d3ceda0b0b9dfc31758f55a72ae15e5baf611395
 bytes: 13911422
 sidor: 143
-hamtad: 2026-11-13T17:43:11+00:00
-konverterad: 2026-11-13T17:44:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:44:41+00:00
+konverterad: 2026-11-20T11:45:27+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ej-konverterad]
 tal_obekraftade: [16, 17, 18, 21, 22, 23, 24, 27, 28, 29, 30, 34, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 52, 53, 54, 55, 58, 59, 60, 61, 64, 65, 66, 67, 70, 71, 72, 73, 76, 77, 78, 79, 82, 83, 84, 85, 88, 97, 98, 99, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 143]
-figurer: [1, 4, 11, 89, 90, 91, 92, 93, 94, 95, 96, 98, 99, 100, 101, 102, 103, 104, 105, 108, 111, 112, 113, 114, 115, 116, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 138, 139, 140, 142, 143]
+figurer: [1, 4, 11, 89, 90, 91, 92, 93, 94, 95, 96, 98, 99, 100, 101, 102, 103, 104, 108, 111, 112, 113, 114, 115, 116, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 137, 138, 139, 140, 142, 143]
 tolkade: []
 granskad: null
 ---
@@ -4737,12 +4737,12 @@ D jup (m )
 | --- | --- | --- | --- |
 |  |  |  |  |
 | Si<br>Cl |  | v L<br>L | OC |
-| Si<br>Cl<br>Si<br>Cl |  | v L<br>L | OC |
+| Si<br>Cl<br>Si |  | v L<br>L | OC |
 |  |  | vL |  |
 |  |  |  | NC |
 |  |  | L<br>v L |  |
-|  |  |  | NCSi<br>OC |
-| L<br>Si Med |  |  |  |
+|  |  |  | NCSi |
+| Cl L OC<br>Si Med |  |  |  |
 
 [Tabell 72-2](handlingar-verksamhetsomrade-i-norra-varla-geoteknisk-utredning.tabeller/72-2.csv)
 
@@ -4832,16 +4832,16 @@ D jup (m )
 
 [Tabell 73-1](handlingar-verksamhetsomrade-i-norra-varla-geoteknisk-utredning.tabeller/73-1.csv)
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  |  |  |  |
-| Si<br>Cl |  | v L<br>L | OC |
-| Si<br>Cl<br>Si<br>Cl |  | v L<br>L | OC |
-|  |  | vL |  |
-|  |  |  | NC |
-|  |  | L<br>v L |  |
-|  |  |  | NCSi<br>OC |
-| L<br>Si Med |  |  |  |
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+| Si<br>Cl |  |  | v L<br>L | OC |
+| Si<br>Cl<br>Si |  |  | v L<br>L | OC |
+|  |  |  | vL |  |
+|  |  |  |  | NC |
+|  |  |  | L<br>v L |  |
+|  |  |  |  | NCSi |
+| Cl L OC<br>Si Med |  |  |  |  |
 
 [Tabell 73-2](handlingar-verksamhetsomrade-i-norra-varla-geoteknisk-utredning.tabeller/73-2.csv)
 
@@ -6393,22 +6393,28 @@ Uppdragsledare:      Katarina Engerberg
 Teknikansvarig:      Katarina Engerberg
 Handläggare:         Diego Bouzas/Katarina Engerberg/Johanna Medin
 
-Rev C 2023-06-20 PM Geoteknik(kompl  Johanna Medin Katarina B. Gervide
-stabilitetsberäkning)           Engerberg Eckel
-Rev B 2023-02-24 PM Geoteknik, rev plankarta Katarina   Katarina
-Engerberg          Engerberg
-Rev A 2022-03-09 PM Geoteknik (kompl fält o lab) Katarina Daniel Svärd Katarina
-Engerberg          Engerberg
-1     2019-12-12 PM Geoteknik        Diego Bouzas Katarina B. Gervide
-Engerberg Eckel
-
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 30 31 DP Varla 3:22 m.fl. Kungsbacka
 
 | 2(17)
+
+[Tabell 105-1](handlingar-verksamhetsomrade-i-norra-varla-geoteknisk-utredning.tabeller/105-1.csv)
+
+| Rev C | 2023-06-20 | PM Geoteknik(kompl | Johanna Medin | Katarina | B. Gervide |
+| --- | --- | --- | --- | --- | --- |
+|  |  | stabilitetsberäkning) |  | Engerberg | Eckel |
+|  |  |  |  |  |  |
+| Rev B | 2023-02-24 | PM Geoteknik, rev plankarta | Katarina |  | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+|  |  |  |  |  |  |
+| Rev A | 2022-03-09 | PM Geoteknik (kompl fält o lab) | Katarina | Daniel Svärd | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+|  |  |  |  |  |  |
+| 1 | 2019-12-12 | PM Geoteknik | Diego Bouzas | Katarina | B. Gervide |
+|  |  |  |  | Engerberg | Eckel |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 106 -->
 

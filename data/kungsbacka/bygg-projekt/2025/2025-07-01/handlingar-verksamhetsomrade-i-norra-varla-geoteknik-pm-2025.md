@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.66aeefd7197a1f981dfd6572/1751355620
 sha256: 71bde847f1fe611b5b92b4560347803f4d8393649fcd4f76a0728c0fb881aca3
 bytes: 1703295
 sidor: 19
-hamtad: 2026-11-13T17:44:00+00:00
-konverterad: 2026-11-13T17:44:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:45:27+00:00
+konverterad: 2026-11-20T11:45:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -55,12 +55,17 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 [Tabell 2-1](handlingar-verksamhetsomrade-i-norra-varla-geoteknik-pm-2025.tabeller/2-1.csv)
 
-| Rev D | 2025-05-14 | PM Geoteknik(justering efter SGI<br>yttrande över granskningshandlingar) | Katarina<br>Engerberg | Johanna Medin | B. Gervide<br>Eckel |
+| Rev D | 2025-05-14 | PM Geoteknik(justering efter SGI | Katarina | Johanna Medin | B. Gervide |
 | --- | --- | --- | --- | --- | --- |
-| Rev C | 2023-06-20 | PM Geoteknik(kompl<br>stabilitetsberäkning) | Johanna Medin | Katarina<br>Engerberg | B. Gervide<br>Eckel |
-| Rev B | 2023-02-24 | PM Geoteknik, rev plankarta | Katarina<br>Engerberg |  | Katarina<br>Engerberg |
-| Rev A | 2022-03-09 | PM Geoteknik (kompl fält o lab) | Katarina<br>Engerberg | Daniel Svärd | Katarina<br>Engerberg |
-| 1 | 2019-12-12 | PM Geoteknik | Diego Bouzas | Katarina<br>Engerberg | B. Gervide<br>Eckel |
+|  |  | yttrande över granskningshandlingar) | Engerberg |  | Eckel |
+| Rev C | 2023-06-20 | PM Geoteknik(kompl | Johanna Medin | Katarina | B. Gervide |
+|  |  | stabilitetsberäkning) |  | Engerberg | Eckel |
+| Rev B | 2023-02-24 | PM Geoteknik, rev plankarta | Katarina |  | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+| Rev A | 2022-03-09 | PM Geoteknik (kompl fält o lab) | Katarina | Daniel Svärd | Katarina |
+|  |  |  | Engerberg |  | Engerberg |
+| 1 | 2019-12-12 | PM Geoteknik | Diego Bouzas | Katarina | B. Gervide |
+|  |  |  |  | Engerberg | Eckel |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f8ce95/1747745790
 sha256: ba289dca6bfb91abab066036ff1d8855f0b66ee3f81eafa616a517962dc97218
 bytes: 2877025
 sidor: 84
-hamtad: 2026-11-13T17:38:04+00:00
-konverterad: 2026-11-13T17:38:21+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:38:48+00:00
+konverterad: 2026-11-20T11:39:06+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 5, 6, 7, 14]
 tolkade: []
@@ -704,136 +704,95 @@ Bilaga 3
 
 Jordanalyser ÖMTMU Kungsbacka 2:17 och del av 2:2, Kungsbacka
 Provtagningsdatum 2020-04-01 och 2020-04-02
-Provpunkt 20G01  20G02   20G03   20G04   20G05   20G06   20G07   20G07   20G08    KM1     MKM2    MRR3
 
-Djup  0-0,1   1-1,5   1,5-2   0,5-1   0-0,5    1-1,5   1,6-2   2,5-3   0-0,7
-
-```osaker-tabell
-Torrsubstans                    83,4     82     92,3     82,5    96,6    70,5    80,2    75,4    68,7
-Glödförlust                      4,2     -        -       -       -      3,6     1,4      -      10,1
-TOC                              2,4     -        -       -       -      2,1     0,8      -       5,8
-```
-
-METALLER
-
-```osaker-tabell
-Arsenik (As)                    < 2,2   < 2,2   < 2,0   < 2,2    < 1,9   5,5     < 2,3   2,4      5,2     10      25      10
-Barium (Ba)                      34      49      25      28      38      100     54      110     120     200     300      --
-Bly (Pb)                         14      8,6     3,1     23      1,9     11       5      8,8      32      50     400      20
-Kadmium (Cd)                    0,23    0,28    < 0,20   0,31   < 0,20   0,41   < 0,20   0,35    0,61     0,8     12      0,2
-
-Kobolt (Co)                      6,7     7,9     4,8     7,7     7,1     21      7,4      11      53      15      35      --
-Koppar (Cu)                      13      8,4     11      38      17      16      12       13      6       80     200      40
-Krom (Cr)                        13      15      6,2     16      14      36      18       33      22      80     150      40
-Kvicksilver (Hg)                0,025   0,017   < 0,010 0,065   < 0,010 0,017    0,013   0,029   0,047   0,25     2,5     0,1
-Nickel (Ni)                      11      7,7     4,3     9,5     10      27      12       21      10      40     120      35
-Vanadin (V)                      23      33      17      35      19      51      29       45      55     100     200      --
-Zink (Zn)                        56      38      17      150     20      59      36       51      90     250     500      120
-```
-
-POLYCYKLISKA AROMATISKA KOLVÄTEN
-PAH, summa L                   < 0,045 < 0,045  < 0,045 < 0,045 < 0,045 < 0,045 < 0,045 < 0,045 < 0,045   3       15      0,6
-S  PAH, summa M                   < 0,075 < 0,075  < 0,075  0,23   < 0,075 < 0,075 < 0,075 < 0,075 < 0,075   3,5     20      2
-T
-g k PAH, summa H                   < 0,11  < 0,11  < 0,11   0,38   < 0,11  < 0,11  < 0,11  < 0,11   0,12     1       10      0,5
-/
-g m ALIFATISKA-OCH AROMATISKA KOLVÄTEN
-e  alifater >C5-C8                 < 5,0   < 5,0     -     < 5,0     -       -      < 5,0   < 5,0   < 5,0    25     150      --
-n
-m
-alifater >C8-C10                < 3,0   < 3,0     -     < 3,0     -       -      < 3,0   < 3,0   < 3,0    25     120      --
-Ä
-
-```osaker-tabell
-alifater >C10-C12               < 5,0   < 5,0     -     < 5,0     -       -      < 5,0   < 5,0   < 5,0   100     500      --
-alifater >C12-C16               < 5,0   < 5,0     -     < 5,0     -       -      < 5,0   < 5,0   < 5,0   100     500      --
-alifater >C5-C16                < 9,0   < 9,0     -     < 9,0     -       -      < 9,0   < 9,0   < 9,0   100     500      --
-alifater >C16-C35               < 10    < 10      -      51       -       -      < 10    < 10    < 10    100     1000     --
-aromater >C8-C10                < 4,0   < 4,0     -     < 4,0     -       -      < 4,0   < 4,0   < 4,0    10      50      --
-aromater >C10-C16               < 0,90  < 0,90    -     < 0,90    -       -     < 0,90  < 0,90   < 0,90   3       15      --
-aromater >C16-C35               < 0,50  < 0,50    -     < 0,50    -       -     < 0,50  < 0,50   < 0,50   10      30      --
-```
-
-BTEX
-bensen                         < 0,0035 < 0,0035  -    < 0,0035   -       -     < 0,0035 < 0,0035 < 0,0035 0,012 0,04     --
-
-```osaker-tabell
-toluen                          < 0,10  < 0,10    -     < 0,10    -       -     < 0,10  < 0,10   < 0,10   10      40      --
-etylbensen                      < 0,10  < 0,10    -     < 0,10    -       -     < 0,10  < 0,10   < 0,10   10      50      --
-xylener, summa                  < 0,10  < 0,10    -     < 0,10    -       -     < 0,10  < 0,10   < 0,10   10      50      --
-```
-
-POLYKLORERADE BIFENYLER
-PCB-7                          < 0,0070 < 0,0070  -       -       -       -     < 0,0070  -     < 0,0070 0,008    0,2     --
-
-Provpunkt 20G08  20G09   20G10   20G11   20G12   20G13   20G14   20G15   20G16    KM1     MKM2    MRR3
-Djup  0,7-1   1-1,3   0-0,7   1-1,8   0,2-1    1-1,4   1-1,5   0-0,5   1,5-2
-
-```osaker-tabell
-Torrsubstans                     74      91     81,3     81,2    94,2    83,6    87,4    52,7    87,4
-Glödförlust                      -       -        -      1,9      -       -      1,3      -       1,3
-TOC                              -       -        -      1,1      -       -      0,74     -      0,74
-```
-
-METALLER
-
-```osaker-tabell
-Arsenik (As)                     4,2    < 2,0   < 2,3    3,2      2      < 2,2   < 2,1   5,7      2,4     10      25      10
-Barium (Ba)                     120      35      28      100     14      31      15       97      45     200     300      --
-Bly (Pb)                         14      6,3     10      5,2     3,6     2,1     13       16      9,9     50     400      20
-Kadmium (Cd)                    <0,20   < 0,20  0,24     0,24   < 0,20  < 0,20   0,26    0,46    0,22     0,8     12      0,2
-Kobolt (Co)                      16      6,7     7,7     17       3      5,3      5       13      7,4     15      35      --
-
-Koppar (Cu)                      7,6     16      10      33      8,1     8,3     1,7      24      11      80     200      40
-Krom (Cr)                        29      10      16      26       4      8,3     6,2      30      14      80     150      40
-Kvicksilver (Hg)                0,02   < 0,010  0,018   0,011   < 0,010 < 0,011 < 0,011  0,081   0,012   0,25     2,5     0,1
-Nickel (Ni)                      18      7,9     9,2     14      2,3     5,3     2,1      19      8,1     40     120      35
-Vanadin (V)                      40      33      26      38      8,4     19      19       79      27     100     200      --
-Zink (Zn)                        69      33      42      38      16      18      16      110      44     250     500      120
-```
-
-POLYAROMATISKA KOLVÄTEN
-PAH, summa L                     -     < 0,045  < 0,045 < 0,045 < 0,045 < 0,045 < 0,045 < 0,045 < 0,045   3       15      0,6
-
-PAH, summa M                     -       0,1    < 0,075 < 0,075 < 0,075 < 0,075 < 0,075 < 0,075  0,31     3,5     20      2
-S
-T
-g
-PAH, summa H                     -      0,22    0,12    < 0,11  < 0,11  < 0,11  < 0,11  < 0,11   0,33     1       10      0,5
-k
-/  ALIFATISKA-OCH AROMATISKA KOLVÄTEN
-g
-m
-alifater >C5-C8                  -      < 5,0   < 5,0     -      < 5,0    -       -      < 5,0   < 5,0    25     150      --
-e
-n  alifater >C8-C10                 -      < 3,0   < 3,0     -      < 3,0    -       -      < 3,0   < 3,0    25     120      --
-m
-
-```osaker-tabell
-Ä  alifater >C10-C12                -      < 5,0   < 5,0     -      < 5,0    -       -      < 5,0   < 5,0   100     500      --
-   alifater >C12-C16                -      < 5,0   < 5,0     -      < 5,0    -       -      < 5,0   < 5,0   100     500      --
-   alifater >C5-C16                 -      < 9,0   < 9,0     -      < 9,0    -       -      < 9,0   < 9,0   100     500      --
-   alifater >C16-C35                -       110     53       -      < 10     -       -       18      14     100     1000     --
-   aromater >C8-C10                 -      < 4,0   < 4,0     -     < 4,0     -       -      < 4,0   < 4,0    10      50      --
-   aromater >C10-C16                -      < 0,90  < 0,90    -     < 0,90    -       -     < 0,90   < 0,90   3       15      --
-   aromater >C16-C35                -      < 0,50  < 0,50    -     < 0,50    -       -     < 0,50   < 0,50   10      30      --
-```
-
-BTEX
-bensen                           -     < 0,0035 < 0,0035  -    < 0,0035   -       -     < 0,0035 < 0,0035 0,012  0,04     --
-
-```osaker-tabell
-toluen                           -      < 0,10  < 0,10    -     < 0,10    -       -     < 0,10   < 0,10   10      40      --
-etylbensen                       -      < 0,10  < 0,10    -     < 0,10    -       -     < 0,10   < 0,10   10      50      --
-xylener, summa                   -      < 0,10  < 0,10    -     < 0,10    -       -     < 0,10   < 0,10   10      50      --
-```
-
-POLYKLORERADE BIFENYLER
-PCB-7                            -       -        -       -    < 0,0070   -       -       -       -      0,008    0,2
 \- = Parameter ej analyserad.
 -- = Saknas riktvärde.
 1,2 = Naturvårdsverkets generella riktvärden för förorenad mark, med avseende på känslig (KM) och mindre känslig markanvändning (MKM) (Naturvårdsverket, 2016).
 3 = Naturvårdsverkets nivåer för mindre än ringa risk (MRR) för avfall som återvinns för anläggningsändamål (Naturvårdsverket, 2010).
+
+[Tabell 19-1](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/19-1.csv)
+
+|  | Provpunkt<br>Djup | 20G01 | 20G02 | 20G03 | 20G04 | 20G05 | 20G06 | 20G07 | 20G07 | 20G08 | KM1 | MKM2 | MRR3 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 0-0,1 | 1-1,5 | 1,5-2 | 0,5-1 | 0-0,5 | 1-1,5 | 1,6-2 | 2,5-3 | 0-0,7 |  |  |  |
+|  | Torrsubstans | 83,4 | 82 | 92,3 | 82,5 | 96,6 | 70,5 | 80,2 | 75,4 | 68,7 |  |  |  |
+|  | Glödförlust | 4,2 | - | - | - | - | 3,6 | 1,4 | - | 10,1 |  |  |  |
+|  | TOC | 2,4 | - | - | - | - | 2,1 | 0,8 | - | 5,8 |  |  |  |
+| S<br>T<br>g<br>k<br>/<br>g<br>m<br>e<br>n<br>m<br>Ä | METALLER |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Arsenik (As) | < 2,2 | < 2,2 | < 2,0 | < 2,2 | < 1,9 | 5,5 | < 2,3 | 2,4 | 5,2 | 10 | 25 | 10 |
+|  | Barium (Ba) | 34 | 49 | 25 | 28 | 38 | 100 | 54 | 110 | 120 | 200 | 300 | -- |
+|  | Bly (Pb) | 14 | 8,6 | 3,1 | 23 | 1,9 | 11 | 5 | 8,8 | 32 | 50 | 400 | 20 |
+|  | Kadmium (Cd) | 0,23 | 0,28 | < 0,20 | 0,31 | < 0,20 | 0,41 | < 0,20 | 0,35 | 0,61 | 0,8 | 12 | 0,2 |
+|  | Kobolt (Co) | 6,7 | 7,9 | 4,8 | 7,7 | 7,1 | 21 | 7,4 | 11 | 53 | 15 | 35 | -- |
+|  | Koppar (Cu) | 13 | 8,4 | 11 | 38 | 17 | 16 | 12 | 13 | 6 | 80 | 200 | 40 |
+|  | Krom (Cr) | 13 | 15 | 6,2 | 16 | 14 | 36 | 18 | 33 | 22 | 80 | 150 | 40 |
+|  | Kvicksilver (Hg) | 0,025 | 0,017 | < 0,010 | 0,065 | < 0,010 | 0,017 | 0,013 | 0,029 | 0,047 | 0,25 | 2,5 | 0,1 |
+|  | Nickel (Ni) | 11 | 7,7 | 4,3 | 9,5 | 10 | 27 | 12 | 21 | 10 | 40 | 120 | 35 |
+|  | Vanadin (V) | 23 | 33 | 17 | 35 | 19 | 51 | 29 | 45 | 55 | 100 | 200 | -- |
+|  | Zink (Zn) | 56 | 38 | 17 | 150 | 20 | 59 | 36 | 51 | 90 | 250 | 500 | 120 |
+|  | POLYCYKLISKA AROMATISKA KOLVÄTEN |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | PAH, summa L | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | 3 | 15 | 0,6 |
+|  | PAH, summa M | < 0,075 | < 0,075 | < 0,075 | 0,23 | < 0,075 | < 0,075 | < 0,075 | < 0,075 | < 0,075 | 3,5 | 20 | 2 |
+|  | PAH, summa H | < 0,11 | < 0,11 | < 0,11 | 0,38 | < 0,11 | < 0,11 | < 0,11 | < 0,11 | 0,12 | 1 | 10 | 0,5 |
+|  | ALIFATISKA-OCH AROMATISKA KOLVÄTEN |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | alifater >C5-C8 | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | < 5,0 | 25 | 150 | -- |
+|  | alifater >C8-C10 | < 3,0 | < 3,0 | - | < 3,0 | - | - | < 3,0 | < 3,0 | < 3,0 | 25 | 120 | -- |
+|  | alifater >C10-C12 | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | < 5,0 | 100 | 500 | -- |
+|  | alifater >C12-C16 | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | < 5,0 | 100 | 500 | -- |
+|  | alifater >C5-C16 | < 9,0 | < 9,0 | - | < 9,0 | - | - | < 9,0 | < 9,0 | < 9,0 | 100 | 500 | -- |
+|  | alifater >C16-C35 | < 10 | < 10 | - | 51 | - | - | < 10 | < 10 | < 10 | 100 | 1000 | -- |
+|  | aromater >C8-C10 | < 4,0 | < 4,0 | - | < 4,0 | - | - | < 4,0 | < 4,0 | < 4,0 | 10 | 50 | -- |
+|  | aromater >C10-C16 | < 0,90 | < 0,90 | - | < 0,90 | - | - | < 0,90 | < 0,90 | < 0,90 | 3 | 15 | -- |
+|  | aromater >C16-C35 | < 0,50 | < 0,50 | - | < 0,50 | - | - | < 0,50 | < 0,50 | < 0,50 | 10 | 30 | -- |
+|  | BTEX |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | bensen | < 0,0035 | < 0,0035 | - | < 0,0035 | - | - | < 0,0035 | < 0,0035 | < 0,0035 | 0,012 | 0,04 | -- |
+|  | toluen | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | < 0,10 | 10 | 40 | -- |
+|  | etylbensen | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | < 0,10 | 10 | 50 | -- |
+|  | xylener, summa | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | < 0,10 | 10 | 50 | -- |
+|  | POLYKLORERADE BIFENYLER |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | PCB-7 | < 0,0070 | < 0,0070 | - | - | - | - | < 0,0070 | - | < 0,0070 | 0,008 | 0,2 | -- |
+
+[Tabell 19-2](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/19-2.csv)
+
+|  | Provpunkt<br>Djup | 20G08 | 20G09 | 20G10 | 20G11 | 20G12 | 20G13 | 20G14 | 20G15 | 20G16 | KM1 | MKM2 | MRR3 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | 0,7-1 | 1-1,3 | 0-0,7 | 1-1,8 | 0,2-1 | 1-1,4 | 1-1,5 | 0-0,5 | 1,5-2 |  |  |  |
+|  | Torrsubstans | 74 | 91 | 81,3 | 81,2 | 94,2 | 83,6 | 87,4 | 52,7 | 87,4 |  |  |  |
+|  | Glödförlust | - | - | - | 1,9 | - | - | 1,3 | - | 1,3 |  |  |  |
+|  | TOC | - | - | - | 1,1 | - | - | 0,74 | - | 0,74 |  |  |  |
+| S<br>T<br>g<br>k<br>/<br>g<br>m<br>e<br>n<br>m<br>Ä | METALLER |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | Arsenik (As) | 4,2 | < 2,0 | < 2,3 | 3,2 | 2 | < 2,2 | < 2,1 | 5,7 | 2,4 | 10 | 25 | 10 |
+|  | Barium (Ba) | 120 | 35 | 28 | 100 | 14 | 31 | 15 | 97 | 45 | 200 | 300 | -- |
+|  | Bly (Pb) | 14 | 6,3 | 10 | 5,2 | 3,6 | 2,1 | 13 | 16 | 9,9 | 50 | 400 | 20 |
+|  | Kadmium (Cd) | <0,20 | < 0,20 | 0,24 | 0,24 | < 0,20 | < 0,20 | 0,26 | 0,46 | 0,22 | 0,8 | 12 | 0,2 |
+|  | Kobolt (Co) | 16 | 6,7 | 7,7 | 17 | 3 | 5,3 | 5 | 13 | 7,4 | 15 | 35 | -- |
+|  | Koppar (Cu) | 7,6 | 16 | 10 | 33 | 8,1 | 8,3 | 1,7 | 24 | 11 | 80 | 200 | 40 |
+|  | Krom (Cr) | 29 | 10 | 16 | 26 | 4 | 8,3 | 6,2 | 30 | 14 | 80 | 150 | 40 |
+|  | Kvicksilver (Hg) | 0,02 | < 0,010 | 0,018 | 0,011 | < 0,010 | < 0,011 | < 0,011 | 0,081 | 0,012 | 0,25 | 2,5 | 0,1 |
+|  | Nickel (Ni) | 18 | 7,9 | 9,2 | 14 | 2,3 | 5,3 | 2,1 | 19 | 8,1 | 40 | 120 | 35 |
+|  | Vanadin (V) | 40 | 33 | 26 | 38 | 8,4 | 19 | 19 | 79 | 27 | 100 | 200 | -- |
+|  | Zink (Zn) | 69 | 33 | 42 | 38 | 16 | 18 | 16 | 110 | 44 | 250 | 500 | 120 |
+|  | POLYAROMATISKA KOLVÄTEN |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | PAH, summa L | - | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | < 0,045 | 3 | 15 | 0,6 |
+|  | PAH, summa M | - | 0,1 | < 0,075 | < 0,075 | < 0,075 | < 0,075 | < 0,075 | < 0,075 | 0,31 | 3,5 | 20 | 2 |
+|  | PAH, summa H | - | 0,22 | 0,12 | < 0,11 | < 0,11 | < 0,11 | < 0,11 | < 0,11 | 0,33 | 1 | 10 | 0,5 |
+|  | ALIFATISKA-OCH AROMATISKA KOLVÄTEN |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | alifater >C5-C8 | - | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | 25 | 150 | -- |
+|  | alifater >C8-C10 | - | < 3,0 | < 3,0 | - | < 3,0 | - | - | < 3,0 | < 3,0 | 25 | 120 | -- |
+|  | alifater >C10-C12 | - | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | 100 | 500 | -- |
+|  | alifater >C12-C16 | - | < 5,0 | < 5,0 | - | < 5,0 | - | - | < 5,0 | < 5,0 | 100 | 500 | -- |
+|  | alifater >C5-C16 | - | < 9,0 | < 9,0 | - | < 9,0 | - | - | < 9,0 | < 9,0 | 100 | 500 | -- |
+|  | alifater >C16-C35 | - | 110 | 53 | - | < 10 | - | - | 18 | 14 | 100 | 1000 | -- |
+|  | aromater >C8-C10 | - | < 4,0 | < 4,0 | - | < 4,0 | - | - | < 4,0 | < 4,0 | 10 | 50 | -- |
+|  | aromater >C10-C16 | - | < 0,90 | < 0,90 | - | < 0,90 | - | - | < 0,90 | < 0,90 | 3 | 15 | -- |
+|  | aromater >C16-C35 | - | < 0,50 | < 0,50 | - | < 0,50 | - | - | < 0,50 | < 0,50 | 10 | 30 | -- |
+|  | BTEX |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | bensen | - | < 0,0035 | < 0,0035 | - | < 0,0035 | - | - | < 0,0035 | < 0,0035 | 0,012 | 0,04 | -- |
+|  | toluen | - | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | 10 | 40 | -- |
+|  | etylbensen | - | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | 10 | 50 | -- |
+|  | xylener, summa | - | < 0,10 | < 0,10 | - | < 0,10 | - | - | < 0,10 | < 0,10 | 10 | 50 | -- |
+|  | POLYKLORERADE BIFENYLER |  |  |  |  |  |  |  |  |  |  |  |  |
+|  | PCB-7 | - | - | - | - | < 0,0070 | - | - | - | - | 0,008 | 0,2 |  |
 
 <!-- sida 20 -->
 
@@ -850,11 +809,11 @@ Provtagningsdatum 2020-04-01 och 2020-04-02
 
 [Tabell 20-1](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/20-1.csv)
 
-| ASFALT | Enhet | 20G03\* | 20G07\* | 20G10\* | 20G16\* | FA1) | Fri använd.<br>trafik proj.2) |
+| ASFALT | Enhet | 20G03\* | 20G07\* | 20G10\* | 20G16\* | 1) | Fri använd. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| TS_105°C % | % | 98,7 | 100 | 98,7 | 100 |  |  |
-| PAH, summa L | mg/kg TS | < 0,39 | < 0,074 | < 0,39 | < 0,38 | 1000 | <70 |
-| PAH, summa M | mg/kg TS | 1,7 | 0,47 | 0,9 | < 0,63 | 1000 |  |
+| TS_105°C % | % | 98,7 | 100 | 98,7 | 100 | FA | trafik proj.2) |
+| PAH, summa L | mg/kg TS | < 0,39 | < 0,074 | < 0,39 | < 0,38 | 1000 |  |
+| PAH, summa M | mg/kg TS | 1,7 | 0,47 | 0,9 | < 0,63 | 1000 | <70 |
 | PAH, summa H | mg/kg TS | 2,4 | 1,1 | 1,1 | 1,1 | 50 |  |
 
 <!-- sida 21 -->
@@ -876,49 +835,37 @@ Grap 20152
 606020
 
 GRUNDVATTENANALYSER                                        Klassindelning enligt bedömningsgrunder SGU 1)
-Datum 2020-04-23 2020-04-23 2020-04-23 1     2       3       4        5
-Mycket låg halt/ Låg halt/ Måttlig halt/ Hög halt/ Mycket hög halt/
-METALLER, GEOKEMI     Enhet   20G07   20G12    20G15    påverkan påverkan påverkan påverkan påverkan
-GEOKEMI
-
-pH                             7,3      6,3     6,2      >8,5    7,5-8,5 6,5-7,5  5,5-6,5   <5,5
-Alkalinitet          mg HCO /l 200      9,2     10       >180    60-180   30-60   10-30     <10
-3
-Klorid                mg/l     180      27      27      <5/10    20-50   50-100  100-300   >300
-metan                  µg/l   1180      -       23,4      --       --      --      --       --
-etan                   µg/l    <1,0     -       <1,0      --       --      --      --       --
-eten                   µg/l    <1,0     -       <1,0      --       --      --      --       --
-METALLER
-
-```osaker-tabell
-Arsenik, As totalhalter µg/l   0,49     1,7     0,71     <1       1-2     2-5     5-10      ≥10
-Barium, Ba totalhalter µg/l    79       67      37        --       --      --      --       --
-Bly, Pb totalhalter    µg/l    <0,5     5,8     1,6      <0,5    0,5-1    1-2     2-10      ≥10
-```
-
-Kadmiun, Cd totalhalter µg/l   <0,1    <0,1     <0,1     <0,1    0,1-0,5  0,5-1    1-5      ≥5
-
-```osaker-tabell
-Kobolt, Co totalhalter µg/l    1,6      14      2,4       --       --      --      --       --
-Koppar, Cu totalhalter mg/l   0,0018   0,012   0,0068   <0,02   0,02-0,2  0,2-1    1-2      ≥2
-
-Krom, Cr totalhalter   µg/l     1       8,8      3       <0,5    0,5-5    5-10    10-50     ≥50
-```
-
-Kvicksilver, Hg totalhalter µg/l <0,1  <0,1     <0,1    <0,005  0,005-0,01 0,01-0,05 0,05-1 ≥1
-
-```osaker-tabell
-Nickel, Ni totalhalter µg/l    1,6      9,8     2,6      <0,5    0,5-2    2-10    10-20     ≥20
-
-Vanadin, V totalhalter µg/l    2,6      16      7,1       --       --      --      --       --
-Zink, Zn totalhalter  mg/l    0,0029   0,035   0,013    <0,005  0,005-0,01 0,01-0,1 0,1-1   ≥1
-```
 
 1\) SGU 2013. Bedömningsgrunder för grundvatten. SGU rapport 2013:01
 -- Inga riktvärden förekommer.
 \- Parameter ej analyserad.
 
 [Tabell 22-1](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/22-1.csv)
+
+| METALLER, GEOKEMI | Datum | 2020-04-23 | 2020-04-23 | 2020-04-23 | 1<br>Mycket låg halt/<br>påverkan | 2<br>Låg halt/<br>påverkan | 3<br>Måttlig halt/<br>påverkan | 4<br>Hög halt/<br>påverkan | 5<br>Mycket hög halt/<br>påverkan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Enhet | 20G07 | 20G12 | 20G15 |  |  |  |  |  |
+| GEOKEMI |  |  |  |  |  |  |  |  |  |
+| pH |  | 7,3 | 6,3 | 6,2 | >8,5 | 7,5-8,5 | 6,5-7,5 | 5,5-6,5 | <5,5 |
+| Alkalinitet | mg HCO /l<br>3 | 200 | 9,2 | 10 | >180 | 60-180 | 30-60 | 10-30 | <10 |
+| Klorid | mg/l | 180 | 27 | 27 | <5/10 | 20-50 | 50-100 | 100-300 | >300 |
+| metan | µg/l | 1180 | - | 23,4 | -- | -- | -- | -- | -- |
+| etan | µg/l | <1,0 | - | <1,0 | -- | -- | -- | -- | -- |
+| eten | µg/l | <1,0 | - | <1,0 | -- | -- | -- | -- | -- |
+| METALLER |  |  |  |  |  |  |  |  |  |
+| Arsenik, As totalhalter | µg/l | 0,49 | 1,7 | 0,71 | <1 | 1-2 | 2-5 | 5-10 | ≥10 |
+| Barium, Ba totalhalter | µg/l | 79 | 67 | 37 | -- | -- | -- | -- | -- |
+| Bly, Pb totalhalter | µg/l | <0,5 | 5,8 | 1,6 | <0,5 | 0,5-1 | 1-2 | 2-10 | ≥10 |
+| Kadmiun, Cd totalhalter | µg/l | <0,1 | <0,1 | <0,1 | <0,1 | 0,1-0,5 | 0,5-1 | 1-5 | ≥5 |
+| Kobolt, Co totalhalter | µg/l | 1,6 | 14 | 2,4 | -- | -- | -- | -- | -- |
+| Koppar, Cu totalhalter | mg/l | 0,0018 | 0,012 | 0,0068 | <0,02 | 0,02-0,2 | 0,2-1 | 1-2 | ≥2 |
+| Krom, Cr totalhalter | µg/l | 1 | 8,8 | 3 | <0,5 | 0,5-5 | 5-10 | 10-50 | ≥50 |
+| Kvicksilver, Hg totalhalter | µg/l | <0,1 | <0,1 | <0,1 | <0,005 | 0,005-0,01 | 0,01-0,05 | 0,05-1 | ≥1 |
+| Nickel, Ni totalhalter | µg/l | 1,6 | 9,8 | 2,6 | <0,5 | 0,5-2 | 2-10 | 10-20 | ≥20 |
+| Vanadin, V totalhalter | µg/l | 2,6 | 16 | 7,1 | -- | -- | -- | -- | -- |
+| Zink, Zn totalhalter | mg/l | 0,0029 | 0,035 | 0,013 | <0,005 | 0,005-0,01 | 0,01-0,1 | 0,1-1 | ≥1 |
+
+[Tabell 22-2](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/22-2.csv)
 
 | Arsenik, As lösta halter | µg/l | 0,17 | 0,13 | 0,29 | <1 | 1-2 | 2-5 | 5-10 | ≥10 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -942,11 +889,11 @@ Zink, Zn totalhalter  mg/l    0,0029   0,035   0,013    <0,005  0,005-0,01 0,01-
 
 [Tabell 23-1](handlingar-klovsten-verksamhetsomrade-oversiktlig-miljoteknisk-markundersokning-2020-06-25.tabeller/23-1.csv)
 
-| GRUNDVATTENANALYSER<br>PETROLEUMKOLVÄTEN |  |  |  |  | BEDÖMNINGSGRUNDER SPI\* |  |
+| GRUNDVATTENANALYSER |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Datum | 2020-04-23 | 2020-04-23 | 2020-04-23 |  |  |
-|  | Enhet | 20G07 | 20G12 | 20G15 | Ångor i<br>byggnader | Miljörisker<br>Ytvatten |
-| Utspädningsfaktor |  |  |  |  | 1/5000 1/100 |  |
+|  | Datum | 2020-04-23 | 2020-04-23 | 2020-04-23 | BEDÖMNINGSGRUNDER SPI\* |  |
+| PETROLEUMKOLVÄTEN | Enhet | 20G07 | 20G12 | 20G15 | Ångor i<br>byggnader | Miljörisker<br>Ytvatten |
+| Utspädningsfaktor |  |  |  |  | 1/5000 | 1/100 |
 | ALIFATISKA-OCH AROMATISKA KOLVÄTEN |  |  |  |  |  |  |
 | Alifater >C5-C8 | mg/l | < 0,020 | < 0,020 | < 0,020 | 3 | 0,3 |
 | Alifater >C8-C10 | mg/l | < 0,020 | < 0,020 | < 0,020 | 0,1 | 0,15 |

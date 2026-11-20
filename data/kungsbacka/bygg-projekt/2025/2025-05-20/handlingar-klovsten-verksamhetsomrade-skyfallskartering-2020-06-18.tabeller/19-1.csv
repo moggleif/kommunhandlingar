@@ -1,4 +1,4 @@
-Parametrar S 0,Minsta möjliga dike 0.002,Antagen dikesutformning 0.002
-M,20,20
-K,1,1
-B (m),0,0
+Yta,Area (ha),ϕ,"A (ha)
+red",i (60) (l/s/ha),KF,"Q (l/s)
+dim"
+Skog,2.6,0.1,0.26,71,1.25,23
