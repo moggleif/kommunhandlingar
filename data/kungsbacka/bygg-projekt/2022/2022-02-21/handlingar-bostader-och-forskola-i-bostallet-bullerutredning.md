@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2727e29417ee2988a5037834/1645434967
 sha256: 59bc1dd966912feceea6d689d61199773c67d8f267e0577f849210aef11f0344
 bytes: 7090040
 sidor: 21
-hamtad: 2026-11-13T15:23:16+00:00
-konverterad: 2026-11-13T15:23:41+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T02:49:31+00:00
+konverterad: 2026-11-20T02:49:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -197,14 +197,14 @@ o:\mma1\str\2021\1320053991 dp frillesås\3_projekt\pm bullerutredning frilleså
 
 [Tabell 6-1](handlingar-bostader-och-forskola-i-bostallet-bullerutredning.tabeller/6-1.csv)
 
-| Uppräknat Hastighet<br>Vägnamn 2040 (ÅDT) Tung trafik (%) (km/tim) |  |  |  |
+| Vägnamn | Uppräknat<br>2040 (ÅDT) | Tung trafik (%) | Hastighet<br>(km/tim) |
 | --- | --- | --- | --- |
 | Frillesåsvägen | 2136 | 10 | 30 |
 | Ny lokalgata | 50 | 0 | 20 |
 
 [Tabell 6-2](handlingar-bostader-och-forskola-i-bostallet-bullerutredning.tabeller/6-2.csv)
 
-| Linje Avgångar under dagen |  |
+| Linje | Avgångar under dagen |
 | --- | --- |
 | 745 | 11 |
 | 732 | 35 |
@@ -292,7 +292,7 @@ o:\mma1\str\2021\1320053991 dp frillesås\3_projekt\pm bullerutredning frilleså
 
 [Tabell 8-1](handlingar-bostader-och-forskola-i-bostallet-bullerutredning.tabeller/8-1.csv)
 
-| Del av skolgård Ekvivalent ljudnivå för Maximal ljudnivå<br>dygn (dBA) (dBA, Fast) |  |  |
+| Del av skolgård | Ekvivalent ljudnivå för<br>dygn (dBA) | Maximal ljudnivå<br>(dBA, Fast) |
 | --- | --- | --- |
 | De delar av gården som är<br>avsedda för lek, vila och<br>pedagogisk verksamhet | 50 | 70 |
 | Övriga vistelseytor inom<br>skolgården | 55 | 701 |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.193b596219ddcc6f486c6054/1778220891
 sha256: e8b9e1461f75d80812052cb957ceffab6bfebb3ed2fa32d6dc00388b6c05c00e
 bytes: 10187194
 sidor: 355
-hamtad: 2026-11-10T00:05:16+00:00
-konverterad: 2026-11-10T00:07:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T23:48:04+00:00
+konverterad: 2026-11-19T23:50:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ocr, ej-konverterad]
 tal_obekraftade: [50, 54, 57, 58, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 301, 302, 303, 304, 305, 306, 307, 308, 331, 341, 342, 343, 344, 345, 346, 347, 351, 352, 353, 354, 355]
 figurer: [22, 33, 35, 38, 39, 40, 41, 44, 49, 54, 57, 58, 60, 61, 62, 63, 64, 66, 67, 68, 69, 71, 72, 73, 74, 83, 87, 88, 90, 91, 92, 93, 94, 95, 96, 97, 98, 110, 183, 207, 211, 213, 215, 217, 218, 220, 221, 222, 225, 226, 229, 230, 233, 237, 238, 241, 245, 249, 250, 255, 259, 261, 263, 265, 267, 268, 315, 319, 321, 322, 323, 355]
 tolkade: []
@@ -1650,25 +1650,32 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2022   2023   2024   Målsättning 2026
-Antal påbörjade bostäder           848     165    213         Öka
-Antal färdigställda bostäder       363     319    324         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 691 6 475 6 541 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
 Invånare 16–84 år med avsaknad av tillit till andra          Minska
 ( Folkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 90 % 91 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 74 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – 88 % \* 95 % Öka
 helhetssyn (Kolada)
 \*) Brukarbedömning görs vartannat år för individ- och familjeomsorg.
 
 Kommunbudget 2026 och plan 2027–2028 19
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| 848 | 165 | 213 |
+| --- | --- | --- |
+| 363 | 319 | 324 |
+| 5 691 | 6 475 | 6 541 |
+|  |  |  |
+| 90 % | 91 % | 88 % |
+| 74 % | 76 % | 76 % |
 
 <!-- sida 37 -->
 
@@ -1684,32 +1691,45 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2022    2023   2024 Målsättning 2026
-Total debiterad vattenförbrukning fördelat på antal anslutna till 154 145 145 Minska
+Total debiterad vattenförbrukning fördelat på antal anslutna till Minska
 vattenledningsnätet. (Här ingår förbrukning från hushåll, kommunen
 och privata verksamheter). Liter/person och dygn
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Fossiloberoende personbilar, andel av totalt antal bilar i det 21,2 24,1 \* Öka
+Fossiloberoende personbilar, andel av totalt antal bilar i det  Öka
 geografiska området (%)
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,86 1,69 1,85 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Antal kemiska produkter med utfasningsämnen, inklusive 113 115 151 Minska
+Antal kemiska produkter med utfasningsämnen, inklusive        Minska
 hormonstörande ämnen på SIN-listan ska minska i kommunens
 verksamheter. 2021 var antalet 124 (KEMgroup PRO)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 103 92 \* Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig \*   Öka
-Vattendrag med god ekologisk status, andel (Kolada) 18,5 % \* \*  Öka
-Andelen återbrukade möbler               -      -      \*        Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 88% Åk 4: 85% \* Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 72% Åk 8: 79%
-Åk 1 gy: 65% Åk 1 gy: 73%
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel (Kolada)             Öka
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 90% Åk 4: 91% \* Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 93% Åk 8: 92%
 Åk 1 gy: 85% Åk 1 gy: 86%
 \*Ännu ej publicerad.
 
 20 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+| 154 | 145 | 145 |
+| --- | --- | --- |
+| - | - | 125 |
+| 21,2 | 24,1 | \* |
+| 1,86 | 1,69 | 1,85 |
+| 113 | 115 | 151 |
+| 103 | 92 | \* |
+| måttlig | måttlig | \* |
+| 18,5 % | \* | \* |
+| - | - | \* |
+| Åk 4: 88%<br>Åk 8: 72%<br>Åk 1 gy: 65% | Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | \* |
 
 <!-- sida 38 -->
 
@@ -1723,17 +1743,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2022   2023   2024    Målsättning 2026
-Insikt, SKR:s servicemätning av kommunernas myndighets- 69 66 64 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,4 3,8 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 485 28 586 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16 - 74 år 18 % 19 % \*\*        Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16 - 74 år                     Öka
 Antal nystartade företag per 1 000 invånare 16 - 64 år, 12,8 10,3 % \*\* Öka
 etableringsfrekvens (Kolada)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
@@ -1746,6 +1766,15 @@ Foto: Catharina Fyrberg
 
 Kommunbudget 2026 och plan 2027–2028 21
 
+[Tabell 38-1](handlingar.tabeller/38-1.csv)
+
+| 69 | 66 | 64 |
+| --- | --- | --- |
+| 3,4 | 3,4 | 3,8 |
+| 28 485 | 28 586 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 18 % | 19 % | \*\* |
+
 <!-- sida 39 -->
 
 MÅL OCH DIREKTIV
@@ -1757,17 +1786,24 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2022   2023   2024 Målsättning 2026
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 239 241 242 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom- 15,0 15,1 15,0 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen (hemkom-  Öka
 mun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 1,7 % 2,3 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 376 325 306 Minska
 
 Elever på Elof Lindälvs gymnasium.
 
 22 Kommunbudget 2026 och plan 2027–2028
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+| 239 | 241 | 242 |
+| --- | --- | --- |
+| 15,0 | 15,1 | 15,0 |
+| 1,7 % | 1,7 % | 2,3 % |
 
 <!-- sida 40 -->
 

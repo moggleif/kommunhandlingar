@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1186ed0a19d72571a4153d84/1776089863
 sha256: 5b47ebc9f8d1b154b01d272730342627c96902cdfedc7e8dcad20070a2ac2c24
 bytes: 18004575
 sidor: 348
-hamtad: 2026-11-10T02:10:22+00:00
-konverterad: 2026-11-10T02:11:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:28:53+00:00
+konverterad: 2026-11-20T02:30:18+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
@@ -3449,7 +3449,13 @@ FÖRVALTNINGSBERÄTTELSE
 EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 
 Fokusområden                                              Trend
+
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. →
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. -
 
 Måluppfyllelse
 Det är fortsatt en utmaning att få till olika bostadstyper
@@ -3493,8 +3499,6 @@ mellan olika aktörer samt genomfört tillsyn av lokaler
 och områden för att säkerställa trygga miljöer. Vi har
 genomfört utbildningar för att stärkta rutiner för att
 fånga upp barn som är utsatta för brott på nätet.
-
-32 Kungsbacka kommuns årsredovisning 2025
 
 Vi har nu 65 hjärtstartare på utsidan av kommunens
 lokaler, en ökning från 49 stycken för ett år sedan.
@@ -3540,12 +3544,7 @@ Kungsbackas kustnära läge i en stark arbetsmarknads-
 region bidrar till dess attraktionskraft. Kommunen
 utsågs återigen till en av Sveriges superkommuner
 
-[Tabell 67-1](handlingar.tabeller/67-1.csv)
-
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | - |
+32 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 68 -->
 
@@ -3631,6 +3630,12 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       →
 
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar
+→
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    —
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      —
+
 Måluppfyllelse
 
 Efter några år med låg befolkningstillväxt har utveck-
@@ -3673,8 +3678,6 @@ sojafärs mot inhemskt producerad ärtfärs. De beräknade
 utsläppen av koldioxid per kilo livsmedel har sjunkit
 drygt 17 procent under året jämfört med förra årets
 resultat.
-
-34 Kungsbacka kommuns årsredovisning 2025
 
 Som ett kvitto på klimatarbetet placerade sig Kungsbacka
 kommun på första plats i rankingen Miljöfordonsdiagnos
@@ -3719,12 +3722,7 @@ samtidigt fortsatt att arbeta med hälsofrämjande utevis-
 telse. Medarbetare har fått utbildning i Häng med oss ut
 och vi har startat projektet Expedition Meningsfull Fritid
 
-[Tabell 69-1](handlingar.tabeller/69-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | — |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | — |
+34 Kungsbacka kommuns årsredovisning 2025
 
 <!-- sida 70 -->
 
@@ -4124,6 +4122,13 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
 
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+—
+ledare.
+
 Måluppfyllelse
 Trenden inom de olika fokusområdena skiljer sig inte
 avsevärt från tidigare år. Vi ser en fortsatt positiv riktning
@@ -4209,12 +4214,6 @@ av ytterligare utveckling. Vidare visar undersökningen
 att det fungerar bra att komma i kontakt med kommunen
 och få svar på frågor men möjligheten till insyn och
 inflytande kan bli bättre.
-
-[Tabell 77-1](handlingar.tabeller/77-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | — |
 
 <!-- sida 78 -->
 
@@ -5837,8 +5836,8 @@ FINANSIELLA RAPPORTER
 
 NOTER TILL                             NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor 2024 2025 2024 2025
+Kommunen   Koncernen                                 ernen
+belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor      2025
 Not 17                                  Not 21
 Förråd, lager och exploateringsfastigheter Avsättningar för pensioner och liknande förpliktelser
 Tekniska förvaltningens förråd
@@ -5914,6 +5913,12 @@ ningen uppgår till 1 191 miljoner kronor.
 Kungsbacka kommuns årsredovisning 2025 69
 
 [Tabell 104-1](handlingar.tabeller/104-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2024 | 2025 | 2024 |
+
+[Tabell 104-2](handlingar.tabeller/104-2.csv)
 
 | Övrig post | 16,3 | 3,9 | 16,3 | 3,9 |
 | --- | --- | --- | --- | --- |
@@ -6025,8 +6030,8 @@ FINANSIELLA RAPPORTER
 
 NOTER TILL                             NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor 2024 2025 2024 2025
+Kommunen   Koncernen                                 ernen
+belopp i miljoner kronor 2024 2025 2024 2025 belopp i miljoner kronor      2025
 ¹¹Avsättning Belysnings-                Övriga upplysningar
 anläggning, väg 955 Särö
 1 Avsättningen gäller återställning av avfallsdeponi. Barnamossen stängdes 31
@@ -6081,6 +6086,13 @@ nades år 2025. Projektet beräknas starta hösten 2026.
 (Eksta)
 Summa andra avsättningar 316,8 283,3 321,5 283,9
 Kungsbacka kommuns årsredovisning 2025 71
+
+[Tabell 106-1](handlingar.tabeller/106-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2024 | 2025 | 2024 |
+|  |  |  |
 
 <!-- sida 107 -->
 
@@ -8620,7 +8632,7 @@ ekonomi och verksamhet.
 | SE |  |  |  |  |  |  |  |  |  |
 | TE |  |  |  |  |  |  |  |  |  |
 | VO |  |  |  |  |  |  |  |  |  |
-| R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |  |
+|  | R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |
 
 <!-- sida 158 -->
 

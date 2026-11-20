@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.392a4a7119d9a642aaa8f7dd/1777025199
 sha256: fc9c56035fd213acf67a82399c9ecc2dc9e3d2307730d12271a7f170c098dd09
 bytes: 10969842
 sidor: 146
-hamtad: 2026-11-10T00:01:07+00:00
-konverterad: 2026-11-10T00:01:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T23:43:38+00:00
+konverterad: 2026-11-19T23:44:28+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr]
 tal_obekraftade: [15, 17, 27, 133, 136, 140, 146]
 figurer: [5, 7, 8, 9, 10, 11, 14, 21, 22, 29, 34, 40, 41, 42, 43, 44, 45, 47, 48, 49, 50, 53, 55, 57, 61, 63, 69, 73, 80, 85, 90, 93, 94, 96, 105, 107, 108, 109, 110, 116, 117, 118, 120, 121, 124, 138, 139]
 tolkade: []
@@ -3248,54 +3248,87 @@ alternativ
 
 <!-- sida 81 -->
 
-L1997:6092 Stenåldersboplats 5A   Korsar delvis fornlämningen
+L1997:6092                        Korsar delvis fornlämningen
 
-L1997:6022 Boplats   5A           Tangerar fornlämningen
-L1997:5221 Boplats   5A           Korsar delvis fornlämningen
+L1997:6022                        Tangerar fornlämningen
+L1997:5221                        Korsar delvis fornlämningen
 
-L1969:7742 Boplats   4A, 5A       Korsar hela fornlämningen
-L1969:4296 Boplats   4A, 5A       Korsar delvis fornlämningen
+L1969:7742                        Korsar hela fornlämningen
+L1969:4296                        Korsar delvis fornlämningen
 
-L1960:7649 Boplats   4A, 5A, 4D, 5D Korsar delvis fornlämningen
-L1969:4831 Boplats   4A, 5A, 4D, 5D Korsar hela fornlämningen
+L1960:7649                        Korsar delvis fornlämningen
+L1969:4831                        Korsar hela fornlämningen
 
-L1969:4145 Boplats   4A, 5A, 4D, 5D Korsar hela fornlämningen
-L1997:6330 Begravningsplats 4B, 4C, 4D, 5B, Tangerar fornlämningen
-5C, 5D
-L1996:5893 Boplats   4B, 5B       Korsar delvis fornlämningen
+L1969:4145                        Korsar hela fornlämningen
+L1997:6330                        Tangerar fornlämningen
 
-L1996:5362 Boplats   4B, 5B       Korsar hela fornlämningen
-L1996:5765 Boplats   4B, 5B       Korsar delvis fornlämningen
+L1996:5893                        Korsar delvis fornlämningen
 
-L1996:5361 Boplats   4B, 5B       Korsar delvis fornlämningen
-L1996:4995 Boplats   4C, 5C       Korsar delvis fornlämningen
+L1996:5362                        Korsar hela fornlämningen
+L1996:5765                        Korsar delvis fornlämningen
 
-L1996:5498 Boplats   4C, 5C       Korsar hela fornlämningen
-L1996:4997 Stensättning 4C, 5C    Korsar hela fornlämningen
+L1996:5361                        Korsar delvis fornlämningen
+L1996:4995                        Korsar delvis fornlämningen
 
-L1996:5113 Hällristning 4C, 5C    Korsar hela fornlämningen
-L1960:2900 Boplats   4C, 5C       Korsar delvis fornlämningen
+L1996:5498                        Korsar hela fornlämningen
+L1996:4997                        Korsar hela fornlämningen
 
-L1969:3836 Boplats   4C, 5C       Korsar hela fornlämningen
-L1996:2853 Boplats   4D, 5D       Korsar hela fornlämningen
-L1996:2852 Boplats   4D, 5D       Tangerar fornlämningen
+L1996:5113                        Korsar hela fornlämningen
+L1960:2900                        Korsar delvis fornlämningen
 
-L1996:3467 Boplats   4D, 5D       Tangerar fornlämningen
-L1969:4027 Fossil åker 4A, 5A, 4B, 5B, Korsar delvis fornlämningen
-4D, 5D
+L1969:3836                        Korsar hela fornlämningen
+L1996:2853                        Korsar hela fornlämningen
+L1996:2852                        Tangerar fornlämningen
 
-L1969:4121 Fossil åker 4A, 5A, 4B, 5B, Korsar hela fornlämningen
-4D, 5D
-L1969:4514 Boplats   Samtliga alternativ Korsar hela fornlämningen
-L1969:4850 Boplats   Samtliga alternativ Korsar hela fornlämningen
+L1996:3467                        Tangerar fornlämningen
+L1969:4027                        Korsar delvis fornlämningen
 
-L1969:4419 Boplats   Samtliga alternativ Korsar hela fornlämningen
-L1969:4515 Boplats   Samtliga alternativ Korsar hela fornlämningen
+L1969:4121                        Korsar hela fornlämningen
 
-L1969:4649 Boplats   Samtliga alternativ Tangerar fornlämningen
-L1969:4566 Boplats   Samtliga alternativ Tangerar fornlämningen
+L1969:4514                        Korsar hela fornlämningen
+L1969:4850                        Korsar hela fornlämningen
+
+L1969:4419                        Korsar hela fornlämningen
+L1969:4515                        Korsar hela fornlämningen
+
+L1969:4649                        Tangerar fornlämningen
+L1969:4566                        Tangerar fornlämningen
 
 65
+
+[Tabell 81-1](handlingar.tabeller/81-1.csv)
+
+| Stenåldersboplats | 5A |
+| --- | --- |
+| Boplats | 5A |
+| Boplats | 5A |
+| Boplats | 4A, 5A |
+| Boplats | 4A, 5A |
+| Boplats | 4A, 5A, 4D, 5D |
+| Boplats | 4A, 5A, 4D, 5D |
+| Boplats | 4A, 5A, 4D, 5D |
+| Begravningsplats | 4B, 4C, 4D, 5B,<br>5C, 5D |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4B, 5B |
+| Boplats | 4C, 5C |
+| Boplats | 4C, 5C |
+| Stensättning | 4C, 5C |
+| Hällristning | 4C, 5C |
+| Boplats | 4C, 5C |
+| Boplats | 4C, 5C |
+| Boplats | 4D, 5D |
+| Boplats | 4D, 5D |
+| Boplats | 4D, 5D |
+| Fossil åker | 4A, 5A, 4B, 5B,<br>4D, 5D |
+| Fossil åker | 4A, 5A, 4B, 5B,<br>4D, 5D |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
+| Boplats | Samtliga alternativ |
 
 <!-- sida 82 -->
 
@@ -4961,24 +4994,23 @@ Figur 39. Utredningskorridorerna och vatten med MKN till havs.
 
 Tabell 11. Vatten med MKN och alternativ som berör.
 
-Objekt ID   Namn             Berörs av    Risk för
-alternativ   påverkan
+Objekt ID                                 Risk för
+påverkan
 
-WA62602702  Veån (Skörvallabäcken) 5A, 4B, 4C, Ingen risk
-WA79515547  Stockaån         4B, 4C, 5B, 5C Ingen risk
+WA62602702                                Ingen risk
+WA79515547                                Ingen risk
 
-WA30340710  Kungsbackaån - Lillån Samtliga på land Ingen risk
-till Finnebäcken
+WA30340710                                Ingen risk
 
-WA25139285  Lillån           4C, 5C       Ingen risk
-WA78444697  Intagsbäcken     Samtliga på land Ingen risk
+WA25139285                                Ingen risk
+WA78444697                                Ingen risk
 
-WA88358571  Risö-Säröarkipelagen H4, H5   Ingen risk
+WA88358571                                Ingen risk
 
-WA64137885  Onsala kustvatten H4, H5      Ingen risk
-WA78397530  Maleviken        H4           Ingen risk
+WA64137885                                Ingen risk
+WA78397530                                Ingen risk
 
-WA33043313  Stallviken       H5           Ingen risk
+WA33043313                                Ingen risk
 
 För att påverka en ytvattenförekomst så pass mycket att dess status
 försämras krävs relativt omfattande och oftast långvarig påverkan på
@@ -4990,6 +5022,20 @@ specifika plats där markkabel eventuellt behöver korsa ett vattendrag.
 Påverkan som kan uppstå är avverkning i anslutning till vattendrag som
 
 105
+
+[Tabell 121-1](handlingar.tabeller/121-1.csv)
+
+| Namn | Berörs av<br>alternativ |
+| --- | --- |
+| Veån (Skörvallabäcken) | 5A, 4B, 4C, |
+| Stockaån | 4B, 4C, 5B, 5C |
+| Kungsbackaån - Lillån<br>till Finnebäcken | Samtliga på land |
+| Lillån | 4C, 5C |
+| Intagsbäcken | Samtliga på land |
+| Risö-Säröarkipelagen | H4, H5 |
+| Onsala kustvatten | H4, H5 |
+| Maleviken | H4 |
+| Stallviken | H5 |
 
 <!-- sida 122 -->
 

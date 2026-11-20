@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2eac78ea193953fe28039656/1733745854
 sha256: 080324e1840a373322da103dd39619782be1991a839ce4bdd5a75422768a2b44
 bytes: 13965447
 sidor: 228
-hamtad: 2026-11-10T01:12:48+00:00
-konverterad: 2026-11-10T01:13:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:18:58+00:00
+konverterad: 2026-11-20T01:20:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -4907,7 +4907,8 @@ Taxa för Naturum Fjärås Bräcka och Äskhults By Sida 2 av 4
 | Guidning naturum 31–60<br>personer | 3 000 kr | 3 000 kr | 6 % moms | 45–60 min. |
 | Introduktionsguidning | 0 kr |  |  | Ca 15 minuter |
 | Självguidning skolgrupper | 0 kr |  |  |  |
-| Guidning skolgrupper som<br>inte ingår i ”Kulturträdet” | 640 kr | 640 kr | 6 % moms | 45–60 min. |
+| Guidning skolgrupper som | 640 kr | 640 kr | 6 % moms | 45–60 min. |
+| inte ingår i ”Kulturträdet” |  |  |  |  |
 | Konferenspaket heldag. Hyra<br>heldag, 8 timmar kl 9(8) -17 | Hyra 2 000 kr<br>+ 425 kr/person | 480<br>kr/person<br>inkl. hyra | 25 % moms | Företag,<br>privatpersoner och<br>föreningar. Frukost,<br>lunch, fika ingår. |
 
 <!-- sida 123 -->

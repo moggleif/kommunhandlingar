@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.41f565c319a154a5a5e80119/1761808298
 sha256: a56aed0cec50153195d3b1519458b40cf76d65f97c0ebdd2289125e0c7af763a
 bytes: 122922074
 sidor: 265
-hamtad: 2026-11-10T01:52:58+00:00
-konverterad: 2026-11-10T01:57:07+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:07:59+00:00
+konverterad: 2026-11-20T02:12:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 118, 119, 120, 121, 122, 123, 124, 125, 242, 258]
-figurer: [14, 16, 17, 19, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 33, 36, 37, 39, 40, 41, 74, 75, 76, 77, 78, 79, 80, 81, 193, 264, 265]
+figurer: [14, 19, 23, 25, 26, 28, 29, 36, 39, 40, 41, 74, 75, 76, 77, 78, 79, 80, 81, 193, 264, 265]
 tolkade: []
 granskad: null
 ---
@@ -498,11 +498,6 @@ samt Ekstas koncern. Tabellen visar även prognos för kommunen och Eksta Bostad
 
 Belopp i miljoner kronor           2025-08-31          Prognos 2025
 
-Kungsbacka kommun                       458                   477
-Eksta Bostads AB (moderbolag)          43,1                   45,2
-
-Eksta Bostads AB (koncern)             46,8                     -
-
 2  Förvaltningsberättelse
 
 2.1 Händelser av väsentlig betydelse
@@ -535,6 +530,13 @@ regionernas ekonomi.
 Skatteunderlagstillväxten stiger i år, även om prognosen för både 2024 och 2025 är justerad nedåt.
 
 Kungsbacka kommun          Delårsbokslut 2025                   3
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Kungsbacka kommun | 458 | 477 |
+| --- | --- | --- |
+| Eksta Bostads AB (moderbolag) | 43,1 | 45,2 |
+| Eksta Bostads AB (koncern) | 46,8 | - |
 
 <!-- sida 17 -->
 
@@ -569,8 +571,6 @@ Pensioner
 
 Pensioner inklusive särskild löneskatt, miljoner 2024  Prognos 2025
 kronor
-Årets pensionskostnader i resultaträkningen ink 626           347
-pension förre 1998
 
 Vi förväntar oss att pensionskostnaderna kommer att minska till 347 miljoner kronor 2025, vilket är
 en betydande minskning jämfört med förra året. Det beror huvudsakligen på det lägre
@@ -589,8 +589,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   4
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
+| Årets pensionskostnader i resultaträkningen ink<br>pension förre 1998 | 626 | 347 |
 | --- | --- | --- |
+| Summa pensionsförpliktelser i balansräkningen | 2 202 | 2 181 |
 | varav avsättning pensioner före 1998 | 1 229 | 1 190 |
 | varav avsättning pensioner efter 1998 | 973 | 990 |
 
@@ -653,7 +654,6 @@ Kungsbacka kommun          Delårsbokslut 2025                   5
 Prognos
 Skatter & generella statsbidrag, procent 2022 2023 2024
 2025
-Årlig förändring skatter & statsbidrag 5,0   4,4  2,3    3,5
 
 Kommunens huvudsakliga intäkter är skatteintäkter och statsbidrag och de kommer att öka med
 3,5 procent, vilket är en högre ökningstakt än förra året. Skatteintäkterna ökar med strax under fem
@@ -702,8 +702,9 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
+| Årlig förändring skatter & statsbidrag | 5,0 | 4,4 | 2,3 | 3,5 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring nettokostnader | -1,4 | 14,2 | 1,4 | 1,6 |
 | Årlig förändring nettokostnader löpande verksamhet | 3,7 | 9,2 | 3,5 | 0,7 |
 | Årlig förändring nettokostnader inkl. finansiella poster | -0,3 | 15,4 | 1,5 | 0,4 |
 
@@ -712,9 +713,6 @@ Kungsbacka kommun          Delårsbokslut 2025                   6
 Prognos Augusti
 Låneskuld, miljoner kronor    2021  2022  2023   2024
 2025   2025
-Låneskuld till banker och kreditinstitut 1 450 1 300 1 200 1 200 1 050 1 050
-Genomsnittlig upplåningsränta (%) 0,5 0,7  1,3    1,4    1,9     1,8
-Räntekostnad                     8    10    17    17      21     14
 
 Kommunen binder sina lån i enlighet med finanspolicyn. Räntekostnaden för låneskulden har de
 senaste åren legat på en relativt låg nivå beroende på lågt ränteläge. Prognosen är att
@@ -735,8 +733,6 @@ Soliditet
 Augusti
 Kommunen, procent                   2021 2022 2023  2024
 2025
-Soliditet inklusive hela pensionsåtagandet 35,5 35,4 35,9 37,4 41,3
-Soliditet enligt blandmodellen       49,6 46,5 46,8 48,2    52,0
 
 Soliditeten anger hur stor del av kommunens tillgångar som är finansierade med eget kapital.
 
@@ -758,16 +754,24 @@ Grundskola, som tillsammans kommer överskrida budgeten med 15 miljoner kronor.
 
 Kungsbacka kommun          Delårsbokslut 2025                   7
 
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Låneskuld till banker och kreditinstitut | 1 450 | 1 300 | 1 200 | 1 200 | 1 050 | 1 050 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Genomsnittlig upplåningsränta (%) | 0,5 | 0,7 | 1,3 | 1,4 | 1,9 | 1,8 |
+| Räntekostnad | 8 | 10 | 17 | 17 | 21 | 14 |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Soliditet inklusive hela pensionsåtagandet | 35,5 | 35,4 | 35,9 | 37,4 | 41,3 |
+| --- | --- | --- | --- | --- | --- |
+| Soliditet enligt blandmodellen | 49,6 | 46,5 | 46,8 | 48,2 | 52,0 |
+
 <!-- sida 21 -->
 
 Prognos
 Miljoner kronor                    2021 2022  2023 2024
 2025
-Avvikelse nämnder                   157  105   -53  51      72
-Avvikelse nämnder/verksamhetens kostnader 2,7 1,8 -0,8 0,9  1,1
-(%)
-
-Avvikelse årets resultat            412  552   99  272     216
 
 I prognosen räknar vi med att årets resultat blir 477 miljoner kronor, vilket är 216 miljoner kronor
 högre än budget. Större delen av plusresultatet finns inom finansverksamheten. Resultatet från
@@ -811,6 +815,13 @@ fall där det har gjorts uppdateringar i den officiella statistiken.
 
 Kungsbacka kommun          Delårsbokslut 2025                   8
 
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Avvikelse nämnder | 157 | 105 | -53 | 51 | 72 |
+| --- | --- | --- | --- | --- | --- |
+| Avvikelse nämnder/verksamhetens kostnader<br>(%) | 2,7 | 1,8 | -0,8 | 0,9 | 1,1 |
+| Avvikelse årets resultat | 412 | 552 | 99 | 272 | 216 |
+
 <!-- sida 22 -->
 
 Den samlade bilden är att det finns många exempel från nämndernas rapportering som visar att
@@ -824,15 +835,6 @@ Följande symboler visar hur långt vi kommit med varje fokusområde.
 2.5.1 Mål: En attraktiv kommun att bo, verka och vistas i
 
 Fokusområden                                            Trend
-
-I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. 
-
-Kungsbacka har välkomnande och trygga miljöer.            –
-I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa 
-utbyten.
-
-I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att 
-fungera.
 
 Prognos måluppfyllelse
 Inom fokusområdet mötesplatser och god omsorg ser vi många exempel på aktiva samarbeten.
@@ -866,6 +868,14 @@ fler stannar upp och vistas.
 För första gången har Kulturskolan erbjudit sommarverksamhet, där över 50 barn och unga deltog
 
 Kungsbacka kommun          Delårsbokslut 2025                   9
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. |  |
+| --- | --- |
+| Kungsbacka har välkomnande och trygga miljöer. | – |
+| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa<br>utbyten. |  |
+| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att<br>fungera. |  |
 
 <!-- sida 23 -->
 
@@ -935,14 +945,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  10
 
 Fokusområden                                            Trend
 
-Kungsbacka växer med en långsiktigt hållbar ekonomi.      
-
-Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och 
-främjar biologisk mångfald.
-Kungsbacka ska verka för ett socialt hållbart samhälle.   –
-
-Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.     –
-
 Prognos måluppfyllelse
 
 Den svaga trenden när det gäller inflyttning till Kungsbacka kommun verkar vara bruten.
@@ -978,6 +980,14 @@ augusti har vi byggt 242 kW solcelleffekt och vi ser ut att nå målet om att ö
 300 kW årligen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  11
+
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
+
+| Kungsbacka växer med en långsiktigt hållbar ekonomi. |  |
+| --- | --- |
+| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. |  |
+| Kungsbacka ska verka för ett socialt hållbart samhälle. | – |
+| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | – |
 
 <!-- sida 25 -->
 
@@ -1093,7 +1103,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  13
 
 [Tabell 26-1](handlingar.tabeller/26-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. | – |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. |  |
@@ -1174,8 +1184,6 @@ etableringsfrekvens (Kolada)
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
 
 Fokusområden                                            Trend
-Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. –
-I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. 
 
 Prognos måluppfyllelse
 
@@ -1203,6 +1211,12 @@ Rektorer bedömer att kollegialt lärande står för den övervägande delen av 
 utveckling i sin yrkesroll och att det är en viktig rutin i vardagen.
 
 Kungsbacka kommun          Delårsbokslut 2025                  15
+
+[Tabell 28-1](handlingar.tabeller/28-1.csv)
+
+| Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
+| --- | --- |
+| I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. |  |
 
 <!-- sida 29 -->
 
@@ -1264,13 +1278,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  16
 2.5.5 Mål: Ett medskapande samhälle och en öppen attityd
 Fokusområden                                            Trend
 
-I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det 
-goda livet.
-Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i –
-kontakt med kommunen.
-Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande –
-medarbetare och ledare.
-
 Prognos måluppfyllelse
 Målet är ännu inte uppnått, men vi lär oss mycket och tar steg mot ett mer medskapande samhälle.
 Trenden inom fokusområdena skiljer sig inte nämnvärt från tidigare år, men vi bedömer
@@ -1306,14 +1313,21 @@ funktionaliteten och ersätta manuella rutiner med digitala system.
 Målsättning
 Indikator                        2022  2023  2024 2025
 2025
-Hållbart medarbetarengagemang, ett index för 78 76 75 \*    öka
-medarbetarnas samlade uppfattning om områdena
-motivation, ledarskap och styrning, skala 1–100
-enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180. 114 122 124 \* öka
-Jämix beräknas utifrån nio nyckeltal med skala 1–20
 
 Kungsbacka kommun          Delårsbokslut 2025                  17
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. |  |
+| --- | --- |
+| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
+| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande<br>medarbetare och ledare. | – |
+
+[Tabell 30-2](handlingar.tabeller/30-2.csv)
+
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100<br>enligt Medarbetarenkäten. | 78 | 76 | 75 | \* | öka |
+| --- | --- | --- | --- | --- | --- |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20 | 114 | 122 | 124 | \* | öka |
 
 <!-- sida 31 -->
 
@@ -1435,9 +1449,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  19
 Målsättning
 Indikator                         2023  2024  2025
 2025
-Andel innovationsprojekt som drivits under året \*\* - - \* öka
-Andel av bruttokostnaden som avsätts för - -   \*      öka
-verksamhetsutveckling och innovation \*
+
 \*) Följs upp i årsbokslutet
 
 2.5.7 Direktiv: Civil beredskap
@@ -1483,6 +1495,12 @@ har stärkt beredskapen för livsmedelsförsörjning, bland annat genom planteri
 stadsmiljö.
 
 Kungsbacka kommun          Delårsbokslut 2025                  20
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Andel innovationsprojekt som drivits under året \*\* | - | - | \* | öka |
+| --- | --- | --- | --- | --- |
+| Andel av bruttokostnaden som avsätts för<br>verksamhetsutveckling och innovation \* | - | - | \* | öka |
 
 <!-- sida 34 -->
 
@@ -1657,7 +1675,6 @@ Kungsbacka kommun          Delårsbokslut 2025                  23
 Prognos
 Balanskravsutredning, miljoner kronor           2024
 2025
-Årets resultat enligt resultaträkningen (fullfondsmodellen) 286 477
 
 2.8 Väsentliga personalförhållanden
 Analys av personalmått
@@ -1682,8 +1699,9 @@ Kungsbacka kommun          Delårsbokslut 2025                  24
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Pensionsförpliktelser före 1998 | 25 | -38 |
+| Årets resultat enligt resultaträkningen (fullfondsmodellen) | 286 | 477 |
 | --- | --- | --- |
+| Pensionsförpliktelser före 1998 | 25 | -38 |
 | Årets resultat enligt blandmodellen | 311 | 439 |
 | - Samtliga realisationsvinster | -1 | 0 |
 | +Realisationsvinster enligt undantagsmöjlighet | - | - |
@@ -2170,7 +2188,7 @@ Kungsbacka kommun          Delårsbokslut 2025                  34
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
 
-| Miljoner kronor Ack utfall Prognos Prognos för Budget Avvikels<br>totalt tom aug 2025 projekt för e<br>2025 projekt |  |  |  |  |  |
+| Miljoner kronor | Ack utfall<br>totalt tom aug<br>2025 | Prognos<br>2025 | Prognos för<br>projekt | Budget<br>för<br>projekt | Avvikels<br>e |
 | --- | --- | --- | --- | --- | --- |
 | Framtidens reningsverk | -92,3 | -149,0 | -1 655,0 | -1 655,0 | 0,0 |
 | Ölmanäs reningsverk | -110,3 | -4,5 | -110,5 | -104,5 | -6,0 |
@@ -8429,21 +8447,24 @@ Kungsbacka kommun         Avfallstaxa 2026                   26
 
 [Tabell 186-1](handlingar.tabeller/186-1.csv)
 
-| Anläggningens volym | På tid som aviserats av<br>entreprenör | Inom fem valda<br>dagar | Inom valt dygn | På specifik timme |
+| Anläggningens volym | På tid som aviserats av | Inom fem valda | Inom valt dygn | På specifik timme |
 | --- | --- | --- | --- | --- |
+|  | entreprenör | dagar |  |  |
 | Mindre än 2 kubikmeter | 1 395 | 1 650 | 5 120 | 7 940 |
 | 2–4 kubikmeter | 1 945 | 2 385 | 5 690 | 8 505 |
 
 [Tabell 186-2](handlingar.tabeller/186-2.csv)
 
-| På tid som aviserats av<br>entreprenör | Inom fem valda dagar | Inom valt dygn | På specifik timme |
+| På tid som aviserats av | Inom fem valda dagar | Inom valt dygn | På specifik timme |
 | --- | --- | --- | --- |
+| entreprenör |  |  |  |
 | 330 | 690 | 690 | 690 |
 
 [Tabell 186-3](handlingar.tabeller/186-3.csv)
 
-| Anläggningens volym i<br>kubikmeter | På tid som aviserats av<br>entreprenör | Inom fem valda dagar | Inom valt dygn |
+| Anläggningens volym i | På tid som aviserats av | Inom fem valda dagar | Inom valt dygn |
 | --- | --- | --- | --- |
+| kubikmeter | entreprenör |  |  |
 | Mindre än 2 kubikmeter | 2 375 | 2 875 | 5 555 |
 
 [Tabell 186-187-4](handlingar.tabeller/186-187-4.csv)

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.6447748c19e6392323494ad1/1780897314
 sha256: 3ae0994c7efa2886f2cbf9b3bd6d38da7c5bc4bb0b20dc5cfc43e56ceb343778
 bytes: 139819738
 sidor: 634
-hamtad: 2026-11-10T02:12:52+00:00
-konverterad: 2026-11-10T02:21:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:31:37+00:00
+konverterad: 2026-11-20T02:41:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, tabell-osaker, ocr, tabell-osaker, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ocr, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [10, 59, 62, 63, 178, 179, 191, 194, 197, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 211, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 227, 228, 229, 230, 231, 232, 233, 236, 238, 242, 243, 244, 245, 246, 248, 249, 250, 251, 252, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 274, 275, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 314, 315, 316, 339, 340, 341, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 353, 354, 355, 356, 357, 358, 359, 360, 361, 362, 363, 364, 367, 368, 369, 370, 371, 372, 373, 374, 506, 507, 526, 550, 564, 565, 588, 600, 604, 608, 610, 612, 615]
 figurer: [25, 29, 31, 33, 35, 36, 40, 41, 42, 43, 44, 45, 46, 50, 55, 59, 62, 63, 65, 69, 72, 73, 74, 76, 77, 78, 79, 86, 87, 88, 89, 98, 100, 101, 106, 107, 108, 109, 112, 113, 114, 115, 116, 117, 118, 119, 121, 146, 147, 162, 173, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 209, 210, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 230, 232, 233, 234, 235, 236, 238, 242, 243, 244, 245, 246, 247, 251, 252, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 266, 267, 268, 269, 270, 271, 273, 274, 275, 277, 295, 310, 311, 312, 313, 314, 315, 394, 474]
 tolkade: []
@@ -1982,20 +1982,29 @@ Fokusområden
 när vi behöver stöd för att få livet att fungera.
 
 Indikator                          2023   2024   2025   Målsättning 2027
-Antal färdigställda bostäder        319    324    601         Öka
-Anmälda brott mot brottsbalken per invånare, antal/100 000 6 475 6 541 6 313 Minska
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Invånare 16–84 år med avsaknad av tillit till andra \* 22 % \* Minska
+Invånare 16–84 år med avsaknad av tillit till andra          Minska
 (Folkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 91 % 88 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 76 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ- och familjeomsorg totalt – \* 98 % 96 % Öka
 h elhetssyn (Kolada)
 \*) Undersökningen genomfördes inte detta år .
 
 Kommunbudget 2027 och plan 2028–2029 21
+
+[Tabell 41-1](handlingar.tabeller/41-1.csv)
+
+| 319 | 324 | 601 |
+| --- | --- | --- |
+| 6 475 | 6 541 | 6 313 |
+| \* | 22 % | \* |
+| 91 % | 88 % | 88 % |
+| 76 % | 76 % | 76 % |
 
 <!-- sida 42 -->
 
@@ -2011,23 +2020,23 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2023   2024    2025 Målsättning 2027
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,69 1,85 1,54 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Andelen elever som uppskattar maten i skolan. \* \*      \*        Öka
-Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, 74 75 75 Öka
+Andelen elever som uppskattar maten i skolan.                   Öka
+Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, Öka
 andel (KOLADA)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 92 92 97 Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig Öka
-Vattendrag med god ekologisk status, andel 18,5 % 18,5 % 18,5 % Öka
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel                      Öka
 (Källa: Kolada, VISS, Länsstyrelsen)
 Senaste mätvärdet är från 2021 och motsvarar 18,5 % \*\*
-Andelen återbrukade möbler               -      -     2 %       Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 85% Åk 4: 85% Åk 4: 87% Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 79% Åk 8: 73% Åk 8: 75%
-Åk 1 gy: 73% Åk 1 gy: 75% Åk 1 gy: 79%
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
+
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91% Åk 4: 89% Åk 4: 88% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 92% Åk 8: 89% Åk 8: 89%
 Åk 1 gy: 86% Åk 1 gy: 88% Åk 1 gy: 89%
@@ -2036,6 +2045,19 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91%
 och cykel 3 2017–2021. Det äret cykeln tar slut uppdateras med det slutgiltiga resultatet 5 år tillbaka.
 
 22 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 42-1](handlingar.tabeller/42-1.csv)
+
+| - | 125 |  |
+| --- | --- | --- |
+| 1,69 | 1,85 | 1,54 |
+| \* | \* | \* |
+| 74 | 75 | 75 |
+| 92 | 92 | 97 |
+| måttlig | måttlig | måttlig |
+| 18,5 % | 18,5 % | 18,5 % |
+| - | - | 2 % |
+| Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | Åk 4: 85%<br>Åk 8: 73%<br>Åk 1 gy: 75% | Åk 4: 87%<br>Åk 8: 75%<br>Åk 1 gy: 79% |
 
 <!-- sida 43 -->
 
@@ -2049,23 +2071,32 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2023   2024   2025    Målsättning 2027
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 64 61 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,8 3,6 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 586 28 426 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16–74 år 19 % \*\* \*\*            Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Småföretagarindex, ranking utifrån nio olika dimensioner av 32 1 2 Topp 10
 företagande (Källa: Småföretagarnas riksförbund)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
 \*\*Ännu ej publicerad.
 
 Kommunbudget 2027 och plan 2028–2029 23
+
+[Tabell 43-1](handlingar.tabeller/43-1.csv)
+
+| 66 | 64 | 61 |
+| --- | --- | --- |
+| 3,4 | 3,8 | 3,6 |
+| 28 586 | 28 426 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 19 % | \*\* | \*\* |
 
 <!-- sida 44 -->
 
@@ -2078,18 +2109,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 241 242 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen 15,1 15,0 14,9 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen           Öka
 (hemkommun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 2,3 % \* Minska
-Arbetslösa av befolkningen, 18–65 år (Källa: Kolada) 2,3 % 2,7 % 2,9 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
+Arbetslösa av befolkningen, 18–65 år (Källa: Kolada)          Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 \* Minska
 
 \* Ännu ej publicerad.
 
 24 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 44-1](handlingar.tabeller/44-1.csv)
+
+| 241 | 242 | 237 |
+| --- | --- | --- |
+| 15,1 | 15,0 | 14,9 |
+| 1,7 % | 2,3 % | \* |
+| 2,3 % | 2,7 % | 2,9 % |
 
 <!-- sida 45 -->
 
@@ -2106,9 +2145,9 @@ och korrekt bemötta i kontakt med kommunen.
 och medskapande medarbetare och ledare.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Antal engagerade i Go Kungsbacka        89     115    169       Öka
-Antal föreningar som ansöker om bidrag för medskapandeprojekt 34 29 52 Öka
-Andelen invånare som upplever ett gott bemötande i kontakt med \* \* 85 Öka
+Antal engagerade i Go Kungsbacka                                Öka
+Antal föreningar som ansöker om bidrag för medskapandeprojekt   Öka
+Andelen invånare som upplever ett gott bemötande i kontakt med  Öka
 tjänsteperson i kommunen (SCB medborgarundersökning)
 Andelen företagare som upplever ett gott bemötande i kontakt med Öka
 kommunen (SKR Insikt)
@@ -2121,6 +2160,15 @@ skala 1–100 enligt Medarbetarenkäten
 \*\*Undersökningen har ändrat frekvens och genomförs numera vartannat år.
 
 Kommunbudget 2027 och plan 2028–2029 25
+
+[Tabell 45-1](handlingar.tabeller/45-1.csv)
+
+| 89 | 115 | 169 |
+| --- | --- | --- |
+| 34 | 29 | 52 |
+| \* | \* | 85 |
+|  |  |  |
+|  |  |  |
 
 <!-- sida 46 -->
 
@@ -8623,7 +8671,7 @@ lika relevant idag.
 
 Året har präglats av försiktig optimism. Det ekonomiska
 läget har stabiliserats något, även om oron i omvärlden
-består. Räntorna har sjunkit, men våra räntekostnader
+består Räntorna har sjunkit, men våra räntekostnader
 har ökat kraftigt när lån refinansierats från historiskt
 låga nivåer. Samtidigt har taxebundna avgifter fortsatt
 att stiga och påverkat driftkostnaderna. Därför har vi
@@ -9182,7 +9230,7 @@ upplevas som en pålitlig hyresvärd.
 
 Vissa faktorer som påverkat årets resultat har legat utanför
 vår direkta kontroll, medan andra har kunnat hanteras
-genom riktade åtgärder och handlingsplaner. Med fortsatt
+genom riktade åtgärder och handlingsplaner Med fortsatt
 fokus på service, trygghet och bemötande är vår ambition
 att behålla en hög och stabil kundnöjdhet över tid. När våra
 
@@ -10168,7 +10216,7 @@ Bland de större genomförda underhållsarbetena kan näm-
 nas omläggning av yttertak på Liabovägen samt Furubergs-
 vägen 14, renovering av balkonger och trall på Guldvägen,
 tvättning och målning av fasader på Onyxvägen 5, Åsa
-Villaväg, Gamla Tölövägen, Slåttervågen med flera. Vidare
+Villaväg, Gamla Tölövägen, Slåttervägen med flera. Vidare
 har ytskiktsrenoveringar genomförts. på Kyviks Äng 2-6,
 upprustning av utemiljön på Kyviks Äng samt upprustning
 av lekplatsen på Frillesås Trädgårdsväg.
@@ -10234,7 +10282,7 @@ upprustad utegård med boulebana.
 Gemensamma ytor och trygghetsvärd
 
 De gemensamma ytorna - samlingslokal, uterum,
-pergola och hobbyrum = är skapade för att inspirera till
+pergola och hobbyrum - är skapade för att inspirera till
 samvaro och skapa naturliga mötesplatser. Här arbetar
 också en trygghetsvärd som finns som stöd, bollplank
 och initiativtagare till aktiviteter.
@@ -10519,7 +10567,7 @@ kraftigt.
 Passivhus
 
 Ett uttryck som följt med oss genom åren är; "Vi bygger
-med engagemang och ansvar - det har vi alltid gjort". För
+med engagemang och ansvar —- det har vi alltid gjort" För
 oss är det en självklarhet att vi ska bygga energieffektiva,
 hållbara hus som människor kan leva och verka i länge.
 Passivhus är en tät och välisolerad byggnad med energief-
@@ -10645,7 +10693,7 @@ att inspirera varandra och dela med sig av kunskap kan
 bostadsbolagen göra omställningen snabbare än var och
 en för sig. Målet är att Sveriges allmännyttiga bostadsbolag
 ska vara fossilfria senast år 2030 och att energianvändning-
-en ska minska med 30 2. Alla företag som deltar kan också
+en ska minska med 30 24. Alla företag som deltar kan också
 sätta egna mål, som redovisas öppet och transparent inom
 initiativet. För att driva på klimatarbetet ytterligare finns
 också tre frivilliga fokusområden där Eksta arbetar med
@@ -10675,7 +10723,7 @@ Mellan 2022 och 2026 pågår det EU-finansierade
 
 forskningsprojektet ENFLATE, med flera demon- Rundvandring
 
-strationssajter runt om i Europa. Under 2025 var Baödradstänncentra
+strationssajter runt om i Europa. Under 2025 var Baödfradstänneentra
 det Ekstas tur att visa upp den svenska demo- i
 
 siten på Humlevägen i Fjärås. Vi fick långväga
@@ -11042,7 +11090,7 @@ Eftersom Eksta sedan länge bygger med passivhusteknik
 och genomför energibesparande åtgärder uppfyller våra
 nyproduktionsprojekt de krav som Kommuninvest ställer för
 gröna lån. För flerfamiljshus innebär detta att byggnaderna
-ska ha minst 20 24 lägre energianvändning per kvadratmeter
+ska ha minst 20 2 lägre energianvändning per kvadratmeter
 och år än vad som krävs enligt Boverkets byggregler (BBR
 29). Under 2025 har vi säkerställt att samtliga pågående
 nyproduktionsprojekt lever upp till dessa krav, vilket gör att
@@ -11300,7 +11348,7 @@ nivåer. Detta har haft en direkt påverkan på både löpande
 verksamhet och möjligheten att finansiera nyproduktion.
 
 Nyproduktionstakten har varit lägre än tidigare år där
-projekt flyttats fram i tiden. Dock färdigställdes etapp III av
+projekt flyttats fram i tiden. Dock färdigställdes etapp Ill av
 Rya Ängar med 11 lägenheter under sommaren och även
 Särö Trygghetsboende under hösten 2025. Det omfattan-
 de ROT projektet på Rosengatan 18-44 blev färdigt och
@@ -11340,7 +11388,7 @@ kan såklart hänföras till årets löneförhöjning.
 Energianvändningen i vårt bestånd ligger på en fortsatt låg
 nivå och långt under vad branschen har i övrigt. För 2025 var
 genomsnittliga energianvändningen (normalårskorrigerat)
-81,2 Kwh/ma2 och år vilket är en minskning mot föregående
+81,2 Kwh/m2 och år vilket är en minskning mot föregående
 år då siffran var 84,9 Kwh/m2 samtidigt som vi har tagit
 tillvara på hela 4 GWh solenergi under året, vilket påverkar
 bolagets energikostnader positivt.
@@ -11590,7 +11638,7 @@ gångar, exklusive pågående nyanläggningar, skrivits av med
 2,34 2 (2,36 2). Bolagets resultat medger skattemässiga
 avskrivningar i enlighet med ägardirektivet.
 
-Soliditeten uppgår vid årets slut till 19,69 26 (18,67 26) och
+Soliditeten uppgår vid årets slut till 19,69 2 (18,67 26) och
 har därmed stärkts jämfört med föregående år, men un-
 derstiger fortsatt det långsiktiga målet om 20 procent. Den
 
@@ -11602,7 +11650,7 @@ målsättningen.
 
 Konsolideringskravet står fortsatt i viss motsats till ambi-
 tionen att medverka i för kommunen strategiskt viktiga
-utvecklingsprojekt, fträmst inom bostadsproduktionen. Det
+utvecklingsprojekt, främst inom bostadsproduktionen. Det
 långsiktiga arbetet är dock inriktat på att successivt stärka
 den finansiella ställningen och därigenom minska risknivån.
 

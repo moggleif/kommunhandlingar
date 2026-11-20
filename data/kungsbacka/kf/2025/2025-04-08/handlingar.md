@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.2a9cb4ab195dc3282fcd1ee5/1743755587
 sha256: d4a843a6bcb4e66df9caada6776089647990365216420e35945257d03daedc43
 bytes: 39044717
 sidor: 252
-hamtad: 2026-11-10T01:22:02+00:00
-konverterad: 2026-11-10T01:23:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:31:15+00:00
+konverterad: 2026-11-20T01:33:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 28, 29, 145, 146, 165, 167, 169, 173, 177, 180, 184, 187, 205, 243, 244, 247]
-figurer: [6, 22, 23, 30, 57, 58, 61, 62, 67, 70, 72, 75, 76, 77, 79, 80, 84, 86, 87, 90, 92, 94, 96, 103, 104, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 123, 128, 130, 222, 223, 230, 243, 244, 251]
+figurer: [6, 22, 23, 30, 57, 58, 61, 62, 67, 70, 72, 75, 76, 77, 79, 80, 84, 86, 87, 90, 92, 94, 96, 103, 104, 107, 111, 112, 113, 114, 115, 116, 117, 118, 119, 123, 128, 130, 222, 230, 243, 244, 251]
 tolkade: []
 granskad: null
 ---
@@ -1444,7 +1444,7 @@ ekonomi och verksamhet.
 | TE |  |  |  |  |  |  |  |  |  |
 | VO |  |  |  |  |  |  |  |  |  |
 | VN |  |  |  |  |  |  |  |  |  |
-| R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |  |
+|  | R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |
 
 <!-- sida 38 -->
 
@@ -4047,6 +4047,11 @@ EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 Fokusområden                                              Trend
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. -
 
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. →
+
 Måluppfyllelse
 Inom fokusområdena välkomnande trygga miljöer,
 mötesplatser och god omsorg ser vi många goda exempel
@@ -4119,13 +4124,6 @@ assistans är minskningen 24 procent.
 
 32 Kungsbacka kommuns årsredovisning 2024
 
-[Tabell 83-1](handlingar.tabeller/83-1.csv)
-
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | → |
-
 <!-- sida 84 -->
 
 Analys
@@ -4195,6 +4193,11 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       —
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar →
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    ←
+
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      —
 
 Måluppfyllelse
 Kommunen gör insatser inom ett stort antal olika
@@ -4235,8 +4238,6 @@ lär sig att känna igen och ta bort den invasiva arten
 jättebalsamin och föreningarna får ekonomisk ersättning
 för sin insats. Projektet har blivit uppmärksammat i
 massmedia och hos andra kommuner.
-
-34 Kungsbacka kommuns årsredovisning 2024
 
 Energiförbrukning, cirkularitet och
 klimatpåverkan
@@ -4280,12 +4281,7 @@ laddpunkter för kommunala fordon vid våra verksam­
 hetslokaler, vilket är en utökning med cirka 16 procent
 mot föregående år men målet låg högre.
 
-[Tabell 85-1](handlingar.tabeller/85-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | ← |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | — |
+34 Kungsbacka kommuns årsredovisning 2024
 
 <!-- sida 86 -->
 
@@ -4696,6 +4692,12 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. →
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och —
+ledare.
 
 Måluppfyllelse
 Målet är ännu inte uppnått. Samtidigt lär vi oss mycket
@@ -4740,8 +4742,6 @@ ostörd sömn för invånare med behov av nattlig tillsyn. Vi
 utvecklar en utbildningsplattform med VR­teknik för att
 komplettera traditionell skolundervisning.
 
-42 Kungsbacka kommuns årsredovisning 2024
-
 Attraktiv arbetsgivare
 De kommungemensamma satsningarna Utvecklande
 ledarskap och Utvecklande medarbetarskap har fortsatt
@@ -4785,12 +4785,7 @@ såsom Utvecklande ledarskap för kommunens chefer,
 utvecklingsprogrammet Leda utan att vara chef och
 Utvecklande medarbetarskap.
 
-[Tabell 93-1](handlingar.tabeller/93-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. | → |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | — |
+42 Kungsbacka kommuns årsredovisning 2024
 
 <!-- sida 94 -->
 
@@ -6603,20 +6598,37 @@ kostnader för räkenskaps-
 revision (tusentals kronor)
 Kostnader för räkenskaps-
 revision
-Sakkunnigt biträde 426,0 474,0  -    -
-Förtroendevalda revisorer 97,0 111,9 - -
+Sakkunnigt biträde                   -
+Förtroendevalda revisorer            -
 Total kostnad för
-räkenskapsrevision 523,0 585,9  -    -
+räkenskapsrevision                   -
 Kostnad för övrig revision
-Sakkunnigt biträde 1 608,0 1 548,0 - -
-Förtroendevalda revisorer 871,0 1 007,7 - -
-Lekmannarevision   48,0   -     -    -
+Sakkunnigt biträde                   -
+Förtroendevalda revisorer            -
+Lekmannarevision                     -
 Total kostnad för övrig
-revision          2 527,0 2 555,7 -  -
+revision                             -
 
 Total kostnad för revision 3 050,0 3 141,6 - -
 
 Kungsbacka kommuns årsredovisning 2024 69
+
+[Tabell 120-1](handlingar.tabeller/120-1.csv)
+
+|  |  |  |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+| 426,0 | 474,0 | - |
+| 97,0 | 111,9 | - |
+| 523,0 | 585,9 | - |
+|  |  |  |
+|  |  |  |
+| 1 608,0 | 1 548,0 | - |
+| 871,0 | 1 007,7 | - |
+| 48,0 | - | - |
+| 2 527,0 | 2 555,7 | - |
+|  |  |  |
 
 <!-- sida 121 -->
 
@@ -7342,8 +7354,9 @@ Balansräkning
 
 [Tabell 136-137-2](handlingar.tabeller/136-137-2.csv)
 
-| Miljoner kronor<br>TILLGÅNGAR | No<br>t | År 2023 | År 2024 |
+| Miljoner kronor | No<br>t | År 2023 | År 2024 |
 | --- | --- | --- | --- |
+| TILLGÅNGAR |  |  |  |
 | Materiella anläggningstillgångar |  |  |  |
 | Mark, byggnader och tekniska<br>anläggningar | 2 | 1621,9 | 1793,9 |
 | Maskiner och inventarier | 2 | 6,2 | 5,8 |
@@ -7393,8 +7406,9 @@ Not 2
 
 [Tabell 137-138-2](handlingar.tabeller/137-138-2.csv)
 
-| Materiella anläggningstillgångar<br>(mkr)<br>VA-anläggningar | Bokslut 2023 | Bokslut 2024 |
+| Materiella anläggningstillgångar<br>(mkr) | Bokslut 2023 | Bokslut 2024 |
 | --- | --- | --- |
+| VA-anläggningar |  |  |
 | Ingående bokfört värde | 1270,3 | 1621,9 |
 | Nyanskaffning | 396,7 | 259,7 |
 | Årets avskrivning | -45,1 | -87,7 |
@@ -11239,12 +11253,32 @@ synergieffekter svårare att uppnå.
 
 Beskrivning
 
-Utbildning     Antal  Antal     Ej fyllda Beviljad till och med
-platser studerande platser
-
-Redovisningskonsult 32 26       6        Ansökan inlämnad
-
 16
+
+[Tabell 223-224-1](handlingar.tabeller/223-224-1.csv)
+
+| Utbildning | Antal<br>platser | Antal<br>studerande | Ej fyllda<br>platser |  |
+| --- | --- | --- | --- | --- |
+|  |  |  |  | Beviljad till och med |
+|  |  |  |  |  |
+| Redovisningskonsult | 32 | 26 | 6 |  |
+|  |  |  |  | Ansökan inlämnad |
+|  |  |  |  |  |
+| BIM byggprojektör | 24 | 16 | 8 |  |
+|  |  |  |  | Ytterligare 2 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| CAD konstruktör | 24 | 20 | 4 |  |
+|  |  |  |  | Ytterligare 2 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| Hiss och<br>rulltrappstekniker |  | pausad | pausad |  |
+|  |  |  |  | Ytterligare 3 starter |
+|  |  |  |  | beviljade |
+|  |  |  |  |  |
+| Summa | 80 | 62 | 18 |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
 
 <!-- sida 224 -->
 
@@ -11290,14 +11324,6 @@ området Teknik och tillverkning samt området Data/IT och lägst inom Ekonomi,
 administration och försäljning.
 
 17
-
-[Tabell 224-1](handlingar.tabeller/224-1.csv)
-
-| BIM byggprojektör | 24 | 16 | 8 | Ytterligare 2 starter<br>beviljade |
-| --- | --- | --- | --- | --- |
-| CAD konstruktör | 24 | 20 | 4 | Ytterligare 2 starter<br>beviljade |
-| Hiss och<br>rulltrappstekniker |  | pausad | pausad | Ytterligare 3 starter<br>beviljade |
-| Summa | 80 | 62 | 18 |  |
 
 <!-- sida 225 -->
 

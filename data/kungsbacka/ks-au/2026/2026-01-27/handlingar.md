@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.163db07219be2865ea8362ef/1769154563
 sha256: b9418bde9abb914536c85eaedc28cf793987fd739593c5f3044cf6dbcf2901ba
 bytes: 47971859
 sidor: 694
-hamtad: 2026-11-09T23:36:32+00:00
-konverterad: 2026-11-09T23:38:56+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-19T23:13:58+00:00
+konverterad: 2026-11-19T23:16:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok]
 tal_obekraftade: [9, 495, 515, 646, 647, 656, 657, 658, 659, 660, 661]
-figurer: [19, 73, 79, 85, 87, 99, 100, 101, 102, 103, 104, 105, 106, 107, 111, 127, 242, 280, 289, 291, 293, 295, 296, 297, 299, 301, 302, 311, 312, 313, 314, 315, 316, 317, 319, 321, 323, 324, 326, 329, 331, 332, 333, 335, 336, 337, 340, 341, 342, 343, 344, 345, 346, 347, 348, 350, 352, 354, 357, 358, 362, 363, 364, 365, 366, 372, 373, 374, 376, 378, 380, 381, 383, 385, 387, 389, 391, 393, 394, 397, 398, 409, 421, 433, 439, 441, 443, 448, 449, 451, 454, 455, 456, 458, 459, 460, 461, 462, 463, 466, 467, 468, 469, 470, 471, 472, 473, 475, 481, 486, 489, 490, 491, 492, 495, 496, 497, 498, 499, 501, 506, 509, 510, 511, 512, 515, 516, 517, 518, 519, 521, 522, 527, 530, 531, 532, 535, 536, 537, 539, 541, 546, 547, 548, 551, 552, 553, 554, 555, 556, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 593, 594, 595, 597, 598, 603, 605, 612, 616, 619, 621, 623, 624, 625, 626, 627, 628, 631, 633, 635, 636, 637, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 655, 681, 682, 685, 686, 688, 692]
+figurer: [19, 73, 79, 85, 87, 99, 100, 101, 102, 103, 104, 105, 106, 107, 111, 127, 242, 280, 289, 291, 293, 295, 296, 297, 299, 301, 302, 311, 312, 313, 314, 315, 316, 317, 319, 321, 323, 324, 326, 329, 331, 332, 333, 335, 336, 337, 340, 341, 342, 343, 344, 345, 346, 347, 348, 350, 352, 354, 357, 358, 362, 363, 364, 365, 366, 372, 373, 374, 376, 378, 380, 381, 383, 385, 387, 389, 391, 393, 394, 397, 398, 409, 421, 433, 439, 441, 443, 448, 449, 451, 454, 455, 456, 458, 459, 460, 461, 462, 463, 466, 467, 468, 469, 470, 471, 472, 473, 475, 481, 486, 489, 490, 491, 492, 495, 496, 497, 498, 499, 501, 506, 509, 510, 511, 512, 515, 516, 517, 518, 519, 521, 522, 527, 530, 531, 532, 535, 536, 537, 539, 541, 546, 547, 548, 551, 553, 554, 555, 556, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 594, 595, 597, 598, 603, 605, 612, 616, 619, 621, 623, 624, 625, 626, 627, 628, 631, 633, 635, 636, 637, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 655, 681, 682, 685, 686, 688, 692]
 tolkade: []
 granskad: null
 ---
@@ -18139,10 +18139,21 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 434-1](handlingar.tabeller/434-1.csv)
 
-| 2 | 2021-01-22 | Huvudrapport, slutversion.<br>Revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Huvudrapport, slutversion. | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Huvudrapport | Sara Rydbeck, Steve Cook,<br>Magnus Jewert, Susanne<br>Backman, Carolin Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING<br>/UTKAST | Sara Rydbeck, Steve Cook,<br>Magnus Jewert, Susanne<br>Backman, Carolin Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Björn Tengelin |  |
+|  |  | Revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Huvudrapport | Sara Rydbeck, Steve Cook, | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Magnus Jewert, Susanne |  |  |
+|  |  |  | Backman, Carolin Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve Cook, | Björn Tengelin |  |
+|  |  | /UTKAST | Magnus Jewert, Susanne |  |  |
+|  |  |  | Backman, Carolin Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 435 -->
@@ -18901,8 +18912,9 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 452-1](handlingar.tabeller/452-1.csv)
 
-| Karakteristiskt flöde (m3/s) | Lindomeån nedströms<br>Intagsbäcken | Kungsbackaån vid<br>mynningen i fjorden |
+| Karakteristiskt flöde (m3/s) | Lindomeån nedströms | Kungsbackaån vid |
 | --- | --- | --- |
+|  | Intagsbäcken | mynningen i fjorden |
 | Lägsta lågflöde | - | 0,3 |
 | Medelvattenflöde | - | 5 |
 | 50-års flöde | - | 46 |
@@ -18912,8 +18924,9 @@ N:\106\22\1062265\6 Leverans\04 Färdig handling\2020-12-17 Slutleverans\Huvudra
 
 [Tabell 452-2](handlingar.tabeller/452-2.csv)
 
-| Typ av vattenstånd | Karakteristiska vattenstånd (m) vid<br>Onsala och i Kungsbacka |
+| Typ av vattenstånd | Karakteristiska vattenstånd (m) vid |
 | --- | --- |
+|  | Onsala och i Kungsbacka |
 |  | Onsala |
 | Medelvattenstånd (MW)1 | +0,09 |
 | Medelhögvattenstånd (MHW) 1 | +1,12 |
@@ -20221,10 +20234,23 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 1 skydd
 
 [Tabell 487-1](handlingar.tabeller/487-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 1 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 1 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-04 | Bilaga 1 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-04 | Bilaga 1 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 488 -->
@@ -20956,10 +20982,23 @@ inlagsleden.docx                                     2021-01-25| 2(21)
 
 [Tabell 507-1](handlingar.tabeller/507-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 1 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 1 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Bilaga 1 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Bilaga 1 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 508 -->
@@ -21775,10 +21814,23 @@ n:\106\22\1062265\6 leverans\04 färdig handling\2021- revidering\bilaga 3 skydd
 
 [Tabell 528-1](handlingar.tabeller/528-1.csv)
 
-| 2 | 2021-01-22 | Bilaga 3 Slutversion<br>revidering av kostnader | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
+| 2 | 2021-01-22 | Bilaga 3 Slutversion | Daniel Svärd | Sara Rydbeck | Daniel Svärd |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 2020-12-17 | Bilaga 3 | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung | Sara Rydbeck | Daniel Svärd |
-| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve<br>Cook, Magnus Jewert,<br>Susanne Backman,<br>Caroline Folkeson,<br>Katarina Holmgren, Sonja<br>Sandström, Daniel Svärd,<br>Maria Aneljung |  |  |
+|  |  | revidering av kostnader |  |  |  |
+| 1 | 2020-12-17 | Bilaga 3 | Sara Rydbeck, Steve | Sara Rydbeck | Daniel Svärd |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING | Sara Rydbeck, Steve |  |  |
+|  |  |  | Cook, Magnus Jewert, |  |  |
+|  |  |  | Susanne Backman, |  |  |
+|  |  |  | Caroline Folkeson, |  |  |
+|  |  |  | Katarina Holmgren, Sonja |  |  |
+|  |  |  | Sandström, Daniel Svärd, |  |  |
+|  |  |  | Maria Aneljung |  |  |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 529 -->
@@ -22766,16 +22818,20 @@ Uppdragsnr:106 22 65
 
 Yttre översvämningsskydd mot höga havsnivåer | Förstudie avseende lokalisering, genomförbarhet och kostnadsbedömning
 
-1      2020-12-04 BILAGA 5           Steve Cook Daniel Svärd Daniel Svärd
-
-0      2020-09-14 GRANSKNINGSHANDLING/UTKAST   Björn Tengelin
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Yttre skyddsbarriär i Kungsbackafjorden
 
 Bilaga 5 Valda och bortvalda alternativ.docx         2020-12-04 | 2(38)
+
+[Tabell 552-1](handlingar.tabeller/552-1.csv)
+
+| 1 | 2020-12-04 | BILAGA 5 | Steve Cook | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| 0 | 2020-09-14 | GRANSKNINGSHANDLING/UTKAST |  | Björn Tengelin |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 553 -->
 
@@ -23368,11 +23424,6 @@ Uppdragsnr: 106 22 65 Version: Slutlig
 
 PM Utredning Hydrologi/hydraulik
 
-Slutlig 2020-09-11                   Magnus Jewert Daniel Svärd Daniel Svärd
-
-Utkast 2020-06-02 PM Hydrologi/hydraulik Magnus Jewert
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Kungsbacka kommun
@@ -23393,6 +23444,15 @@ typiskt vid nivån +1,4-+1,5.
 Figur 1. Typiska markhöjder längs med Kungsbackaån vid Kolla ligger mellan +1,0-+1,5.
 
 n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 7 pm högvattenskydd vid kolla och effekt av yttre skydd.docx 2020-12-04
+
+[Tabell 590-1](handlingar.tabeller/590-1.csv)
+
+| Slutlig | 2020-09-11 |  | Magnus Jewert | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Utkast | 2020-06-02 | PM Hydrologi/hydraulik | Magnus Jewert |  |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 591 -->
 
@@ -23478,10 +23538,6 @@ Uppdragsnr: 106 22 65 Version: Slutlig
 PM: Förväntade havsnivåer och konsekvenser för ett
 översvämningsskydd
 
-Slutlig 2020-09-11                   Magnus Jewert Daniel Svärd Daniel Svärd
-Utkast 2020-06-07 PM om förväntade havsnivåer Magnus Jewert
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
-
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 106 22 65 Kungsbacka kommun
@@ -23510,6 +23566,15 @@ beräknade landhöjningen.
 
 n:\106\22\1062265\5 arbetsmaterial\01 dokument\inför leverans\bilaga 8 pm analys av framtida havsnivåer, skydd och pumpnivåer.docx
 2020-12-04 | 1(7)
+
+[Tabell 593-1](handlingar.tabeller/593-1.csv)
+
+| Slutlig | 2020-09-11 |  | Magnus Jewert | Daniel Svärd | Daniel Svärd |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+| Utkast | 2020-06-07 | PM om förväntade havsnivåer | Magnus Jewert |  |  |
+|  |  |  |  |  |  |
+| Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 594 -->
 
@@ -32402,11 +32467,8 @@ påverkas av gruppstorlek och enskilda löner, eftersom antalet män i dessa bef
 Sammantaget visar analysen inga tecken på systematiskt osakliga löneskillnader mellan kvinnor
 och män med lika arbete. Vissa yrken uppvisar dock återkommande skillnader som bör analyseras
 vidare för att säkerställa att de är sakligt motiverade.
-Befattning            Antal kvinnor Antal män Kvinnors medianlön i förhållande
-till männens medianlön
 
 ```osaker-tabell
-Systemförvaltare      10         6       88%
 Utvecklare            13         3       91%
 Utvecklare IT         6          3       92%
 
@@ -32440,6 +32502,12 @@ Bild: Befattningar med minst två män respektive två kvinnor i befattningen oc
 månadsanställda är mer än 5 % mellan kvinnor och män. Källa BI, 251103.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 11
+
+[Tabell 684-1](handlingar.tabeller/684-1.csv)
+
+| Befattning | Antal kvinnor | Antal män | Kvinnors medianlön i förhållande<br>till männens medianlön |
+| --- | --- | --- | --- |
+| Systemförvaltare | 10 | 6 | 88% |
 
 <!-- sida 685 -->
 
@@ -32730,7 +32798,7 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 14
 
 [Tabell 687-1](handlingar.tabeller/687-1.csv)
 
-| BAS Antal kvinnor Kvinnors Antal män Männens<br>medianlön medianlön |  |  |  |  |
+| BAS | Antal kvinnor | Kvinnors<br>medianlön | Antal män | Männens<br>medianlön |
 | --- | --- | --- | --- | --- |
 | A | 180 | 27 000 | 88 | 26 500 |
 | B | 517 | 29 000 | 140 | 28 600 |
@@ -32878,15 +32946,8 @@ stora och bärande verksamheter i kommunen.
 Skillnaderna i den hierarkiska lönejämförelsen indikerar en möjlig strukturell undervärdering av
 flera kvinnodominerade yrken.
 
-Antal   Medianlön               Antal   Medianlön Differens
-BAS Befattning    medarbetare kvinna BAS Befattning medarbetare man medianlön
-
-```osaker-tabell
-C   Barnskötare   273     30 400  B  IT-tekniker  6       33 555 91
 C   Dagbarnvårdare 6      29 700  B  IT-tekniker  6       33 555 89
 C   Elevassistent 149     31 190  B  IT-tekniker  6       33 555 93
-```
-
 C   Personlig assistent 89 30 900 B  IT-tekniker  6       33 555 92
 C   Stödassistent 321     32 000  B  IT-tekniker  6       33 555 95
 D   Äldrekonsulent 9      31 315  B  IT-tekniker  6       33 555 93
@@ -32921,6 +32982,12 @@ F   Arbetsterapeut 29     40 000  E  Arbetsledare 5       44 100 91
 F   Arkivarie     5       39 000  E  Arbetsledare 5       44 100 88
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 17
+
+[Tabell 690-1](handlingar.tabeller/690-1.csv)
+
+| BAS | Befattning | Antal<br>medarbetare | Medianlön<br>kvinna | BAS | Befattning | Antal<br>medarbetare | Medianlön<br>man | Differens<br>medianlön |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| C | Barnskötare | 273 | 30 400 | B | IT-tekniker | 6 | 33 555 | 91 |
 
 <!-- sida 691 -->
 
@@ -32983,9 +33050,8 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 18
 
 medianlön i tre. År 2025 kvarstår vissa skillnader, men de är flera BAS-intervaller som ligger nära
 nollpunkten, vilket tyder på en mer jämställd lönebild än tidigare år.
-2020     2021     2022     2023      2024     2025
 
-A  1 225 kr 1 301 kr 800 kr   800 kr    550 kr   500 kr
+A
 B  -1 200 kr -545 kr -250 kr  600 kr    297 kr   400 kr
 C  -425 kr  500 kr   626 kr   200 kr    201 kr   11 kr
 
@@ -33034,6 +33100,12 @@ personalrörlighet, snarare än direkta osakliga skillnader.
 
 Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 19
 
+[Tabell 692-1](handlingar.tabeller/692-1.csv)
+
+| 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+| --- | --- | --- | --- | --- | --- |
+| 1 225 kr | 1 301 kr | 800 kr | 800 kr | 550 kr | 500 kr |
+
 <!-- sida 693 -->
 
 9.2 Målsättning
@@ -33058,7 +33130,7 @@ Kungsbacka kommun  Lönekartläggning och Handlingsplan, 2025-12-09 20
 
 [Tabell 693-694-1](handlingar.tabeller/693-694-1.csv)
 
-| Nr Åtgärd Tidpunkt Ansvar Kommentar/Uppföljning |  |  |  |  |
+| Nr | Åtgärd | Tidpunkt | Ansvar | Kommentar/Uppföljning |
 | --- | --- | --- | --- | --- |
 | 1 | Genomföra regelbundna<br>löneanalyser med fokus på<br>att identifiera och åtgärda<br>osakliga löneskillnader. | Inför<br>löneöversyn | HR-funktion<br>och<br>förvaltningar | Resultatet redovisas i<br>nästa års<br>lönekartläggning. |
 | 2 | Om osakliga löneskillnader<br>identifieras ska riktade<br>löneinsatser ske. | I samband med<br>löneöversyn | HR-funktion<br>och chefer | Åtgärder dokumenteras i<br>uppföljningsrapport. |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b330c8/1712576621
 sha256: 1cc5610bd0ac3a1771e390f1f8b979b944873c65bb5ac668e30ceef55fc9da4a
 bytes: 23135313
 sidor: 319
-hamtad: 2026-11-10T00:58:02+00:00
-konverterad: 2026-11-10T00:59:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:00:30+00:00
+konverterad: 2026-11-20T01:02:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 32, 33, 45, 51, 62, 63, 64, 65, 66, 80, 81, 90, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 109, 129, 130, 147, 148, 149, 151, 215, 216, 238, 240, 273, 274, 311, 312, 313]
 figurer: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 40, 43, 44, 45, 48, 49, 56, 57, 59, 62, 63, 64, 66, 67, 70, 71, 74, 75, 76, 79, 81, 88, 89, 90, 92, 93, 97, 98, 99, 100, 101, 102, 103, 104, 105, 108, 110, 113, 115, 196, 197, 202, 238, 239, 240, 241, 286, 287]
 tolkade: []
@@ -3436,7 +3436,13 @@ FÖRVALTNINGSBERÄTTELSE
 EN ATTRAKTIV KOMMUN   ATT BO, VERKA OCH VISTAS I
 
 Fokusområden                                              Trend
+
 I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. -
+Kungsbacka har välkomnande och trygga miljöer.             -
+
+I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. →
+
+I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. →
 
 Måluppfyllelse
 
@@ -3476,11 +3482,6 @@ skapa lugn för eleverna har varit att skapa strukturer
 genom att ha tydliga ordningsregler och förhållningssätt
 på skolan.
 
-Björkris vård- och
-omsorgsboende.
-
-32 Kungsbacka kommuns årsredovisning 2023
-
 Kommunen har tillsammans med polisen gjort särskilda
 satsningar runt Särö, då detta område under en längre tid
 haft problem. Tillsammans har vi infört brottspreventiva
@@ -3511,12 +3512,10 @@ hur man ska bete sig vid en kärnkraftsolycka. Gymna-
 sieskolorna har övat inrymning i händelse av en allvarlig
 händelse på skolan, och uppdaterat säkerhetsrutiner.
 
-[Tabell 70-1](handlingar.tabeller/70-1.csv)
+Björkris vård- och
+omsorgsboende.
 
-| Kungsbacka har välkomnande och trygga miljöer. | - |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten. | → |
-| I Kungsbacka är vi trygga och får en god omsorg när vi behöver stöd för att få livet att fungera. | → |
+32 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 71 -->
 
@@ -3582,6 +3581,12 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 Kungsbacka växer med en långsiktigt hållbar ekonomi.       —
 
+Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar
+→
+biologisk mångfald.
+Kungsbacka ska verka för ett socialt hållbart samhälle.    —
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.      ←
+
 Måluppfyllelse
 
 Kommunen har en viktig roll för hållbar utveckling men
@@ -3621,8 +3626,6 @@ I markanvisningen för kvarteret Ejdern arbetar vi fram
 riktlinjer för hållbarhet som kommer att ingå i riktlin-
 jerna för markanvisning och exploateringsavtal.
 
-34 Kungsbacka kommuns årsredovisning 2023
-
 Resor
 Vi har byggt färdigt två kilometer cykelväg vid Släps
 kyrka och förutom en sträcka på 200 meter kan man
@@ -3658,12 +3661,7 @@ processer och att arbeta kunskapsbaserat och systematiskt
 för att motverka studieavbrott. Under året har vi arbetat
 med kartläggning och analys.
 
-[Tabell 72-1](handlingar.tabeller/72-1.csv)
-
-| Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och främjar<br>biologisk mångfald. | → |
-| --- | --- |
-| Kungsbacka ska verka för ett socialt hållbart samhälle. | — |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | ← |
+34 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 73 -->
 
@@ -4043,6 +4041,14 @@ ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 Fokusområden                                              Trend
 I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det goda livet. →
 
+Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
+—
+kommunen.
+Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. →
+Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
+→
+ledare.
+
 Måluppfyllelse
 
 Målet är ännu inte uppnått, men vi testar oss fram och tar
@@ -4083,8 +4089,6 @@ I Kungsbacka live på Kungsmässan möter vi numera
 invånarna för samtal om viktiga frågor och möjliggör
 samarbete och medskapande. Det har varit 78 olika event
 med olika teman under året.
-
-40 Kungsbacka kommuns årsredovisning 2023
 
 Vi har genomfört en invånardialog på nytt sätt med hjälp
 av ett digitalt kartverktyg i arbetet med den fördjupade
@@ -4129,12 +4133,7 @@ fört aktiviteter på Kungsbacka Live. Chefspoolen är en ny
 satsning där våra verksamheter får möjlighet att ta in en
 chef med kort varsel för tillfälliga uppdrag.
 
-[Tabell 78-1](handlingar.tabeller/78-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med<br>kommunen. | — |
-| --- | --- |
-| Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. | → |
-| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och<br>ledare. | → |
+40 Kungsbacka kommuns årsredovisning 2023
 
 <!-- sida 79 -->
 
@@ -5784,8 +5783,8 @@ NOTER TILL                              NOTER TILL
 RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS RESULTAT- OCH BALANSRÄKNING SAMT KASSAFLÖDESANALYS
 Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga Jämförelsetal för 2022 är justerade med anledning av övergång till finansiell leasing för befintliga
 externa hyresavtal samt koncerninterna hyresavtal. externa hyresavtal samt koncerninterna hyresavtal.
-Kommunen   Koncernen                    Kommunen   Koncernen
-belopp i miljoner kronor 2022 2023 2022 2023 belopp i miljoner kronor 2022 2023 2022 2023
+ernen                      Kommunen   Koncernen
+belopp i miljoner kronor           2023 belopp i miljoner kronor 2022 2023 2022 2023
 Övriga upplysningar (Not 21)            Avsättningar för bidrag till
 statlig infrastruktur
 Kungsbacka kommun redovisar pensionsåtagandet enligt fullfonderingsmo-
@@ -5861,6 +5860,13 @@ Summa avsättning för 195,1 301,3 195,1 301,3
 64 Kungsbacka kommuns årsredovisning 2023
 
 [Tabell 102-1](handlingar.tabeller/102-1.csv)
+
+| Kommunen |  |  |
+| --- | --- | --- |
+| 2022 | 2023 | 2022 |
+|  |  |  |
+
+[Tabell 102-2](handlingar.tabeller/102-2.csv)
 
 | början | 0,0 |  | 0,0 | 0,0 |
 | --- | --- | --- | --- | --- |
@@ -6910,8 +6916,9 @@ Balansräkning
 
 [Tabell 121-122-2](handlingar.tabeller/121-122-2.csv)
 
-| TILLGÅNGAR | No<br>t | År 2022 | År 2023 |
+|  | No<br>t | År 2022 | År 2023 |
 | --- | --- | --- | --- |
+| TILLGÅNGAR |  |  |  |
 | Materiella anläggningstillgångar |  |  |  |
 | Mark, byggnader och tekniska<br>anläggningar |  | 1385,1 | 1720,6 |
 | Maskiner och inventarier |  | 8,1 | 6,2 |
@@ -6959,8 +6966,9 @@ Not 2
 
 [Tabell 122-123-2](handlingar.tabeller/122-123-2.csv)
 
-| Materiella anläggningstillgångar<br>Mark, byggnader och tekniska<br>anläggningar | Bokslut 2022 | Bokslut 2023 |
+| Materiella anläggningstillgångar | Bokslut 2022 | Bokslut 2023 |
 | --- | --- | --- |
+| Mark, byggnader och tekniska<br>anläggningar |  |  |
 | Ingående bokfört värde | 1201,5 | 1385,1 |
 | Nyanskaffning | 223 | 380,6 |
 | Årets avskrivning | -39,4 | -45,1 |
@@ -8448,19 +8456,21 @@ budgetmedel trots att kostnaderna för densamma uppgår till 19 184 000 kronor f
 föreslås överföras utgår då från 2022 års budget uppräknande med kommunfullmäktiges index för åren
 2023–2024. Budgetflytten föreslås också inarbetas i förutsättningarna för kommunbudget 2025.
 
-Avgift från Räddningstjänsten Storgöteborg, belopp i kronor
-2022   2023    2024   2025   2026
-Medlemsavgift 51 677 758 53 176 413 54 612 176 56 632 827 58 728 241
-Pensionskostnad 9 838 525 13 413 756 19 184 000 10 505 000 10 592 000
-Avräkning pension -1 959 644 1 467 391
-
-59 556 638 68 057 560 73 796 176 67 137 827 69 320 241
-Budgetram     61 516 282 63 051 639 65 510 653 68 065 568 70 720 126
-Differens      1 959 644 -5 005 921 -8 285 523 927 741 1 399 885
-
 Malin Aronsson                     Anders Johansson
 
 Kommundirektör                     Biträdande kommundirektör
+
+[Tabell 158-1](handlingar.tabeller/158-1.csv)
+
+| Avgift från Räddningstjänsten Storgöteborg, belopp i kronor |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | 2022 | 2023 | 2024 | 2025 | 2026 |
+| Medlemsavgift | 51 677 758 | 53 176 413 | 54 612 176 | 56 632 827 | 58 728 241 |
+| Pensionskostnad | 9 838 525 | 13 413 756 | 19 184 000 | 10 505 000 | 10 592 000 |
+| Avräkning pension | -1 959 644 | 1 467 391 |  |  |  |
+|  | 59 556 638 | 68 057 560 | 73 796 176 | 67 137 827 | 69 320 241 |
+| Budgetram | 61 516 282 | 63 051 639 | 65 510 653 | 68 065 568 | 70 720 126 |
+| Differens | 1 959 644 | -5 005 921 | -8 285 523 | 927 741 | 1 399 885 |
 
 <!-- sida 159 -->
 

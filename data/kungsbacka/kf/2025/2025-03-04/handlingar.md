@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.28a00bed19546152e2d91b93/1741104553
 sha256: 8c7e8303e293fb4e61ac8e266a860ec441847fad48273206c0d2f160e07cabc3
 bytes: 10417573
 sidor: 234
-hamtad: 2026-11-10T01:21:13+00:00
-konverterad: 2026-11-10T01:22:02+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T01:30:18+00:00
+konverterad: 2026-11-20T01:31:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [19, 29, 70, 73, 166, 225]
 figurer: [29, 42, 45, 50, 53, 55, 56, 58, 59, 60, 61, 64, 69, 73, 74, 76, 77, 81, 82, 84, 85, 87, 88, 89, 90, 97, 98, 99, 131, 135, 136, 138, 142, 144, 161, 163, 164, 165, 166, 167, 168, 231]
 tolkade: []
@@ -2617,19 +2617,16 @@ Fokusområden
 • I Kungsbacka är vi trygga och får en god vård och omsorg
 när vi behöver stöd för att få livet att fungera.
 
-```osaker-tabell
 Indikator                          2021   2022   2023   Målsättning 2025
-Antal påbörjade bostäder            216   848     165         Öka
-Antal färdigställda bostäder       430    363     319         Öka
-```
-
-Anmälda brott mot brottsbalken per invånare, antal/100 000 5 321 5 691 6 475 Minska
+Antal påbörjade bostäder                                      Öka
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn \* 90 % 91 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn \* 74 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
-Brukarbedömning individ­ och familjeomsorg totalt – hel- \* 88 % \* Öka
+Brukarbedömning individ­ och familjeomsorg totalt – hel-      Öka
 hetssyn (Kolada)
 Brukarbedömning individ­ och familjeomsorg totalt – hel- 76 % \* 88 % Öka
 hetssyn (Kolada)
@@ -2639,6 +2636,16 @@ Glass i kiosken vid Badhusparken.
 Foto: Kungsbacka kommun
 
 Kommunbudget 2025 och plan 2026–2027 19
+
+[Tabell 56-1](handlingar.tabeller/56-1.csv)
+
+| 216 | 848 | 165 |
+| --- | --- | --- |
+| 430 | 363 | 319 |
+| 5 321 | 5 691 | 6 475 |
+| \* | 90 % | 91 % |
+| \* | 74 % | 76 % |
+| \* | 88 % | \* |
 
 <!-- sida 57 -->
 
@@ -2701,17 +2708,17 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2021   2022   2023    Målsättning 2025
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 70 67 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet.
-Svenskt näringslivs attitydundersökning av kommuners 3,5 3,4 3,4 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 27 384 27 695 \*        Öka
-Andel av sysselsatt dagbefolkning inom Göteborgs regionen 5,1 % 4,9 % \* Öka
-Företagsamhet, andel av invånare 16–74 år 18 % 18 % \*           Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgs regionen       Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Antal nystartade företag per 1 000 invånare 16–64 år, etable- 13,8 12,8 \* Öka
 ringsfrekvens (Kolada)
 \*Ännu ej publicerad.
@@ -2722,6 +2729,15 @@ samma människor.
 Foto: Catharina Fyrberg
 
 Kommunbudget 2025 och plan 2026–2027 21
+
+[Tabell 58-1](handlingar.tabeller/58-1.csv)
+
+| 66 | 70 | 67 |
+| --- | --- | --- |
+| 3,5 | 3,4 | 3,4 |
+| 27 384 | 27 695 | \* |
+| 5,1 % | 4,9 % | \* |
+| 18 % | 18 % | \* |
 
 <!-- sida 59 -->
 
@@ -2734,18 +2750,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2021   2022   2023 Målsättning 2025
-Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet 239 237 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9. Meritvärdet Öka
 utgörs av summan av de 17 bästa betygen i elevens slutbetyg och kan
 max vara 340. (Kolada)
-Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- 14,2 14,5 14,3 Öka
+Genomsnittlig betygspoäng för gymnasiets avgångselevers betygspo- Öka
 äng som kan vara max 20. (Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen 2,6 % 1,7 % 1,7 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen                 Minska
 (Källa: Arbetsförmedlingen och SCB)
-Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) 414 376 325 Minska
+Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada)         Minska
 Andel vuxna personer som inte återkommer till försörjningsstöd inom 67 % 69 % 73 % Öka
 ett år efter avslutat försörjningsstöd (Kolada)
 
 22 Kommunbudget 2025 och plan 2026–2027
+
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| 239 | 237 | 237 |
+| --- | --- | --- |
+| 14,2 | 14,5 | 14,3 |
+| 2,6 % | 1,7 % | 1,7 % |
+| 414 | 376 | 325 |
 
 <!-- sida 60 -->
 
@@ -9039,6 +9063,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 180 -->
 
@@ -9542,6 +9567,7 @@ Tabell 2
 | Grupp (2 vuxna + 2 barn,<br>tillkommande barn/ungdomar<br>33 kr/person). | 173 |  |  |
 | Tilläggsårskort barn 3–11 år i<br>samma familj, från barn eller<br>ungdom nr tre. |  |  | 231 |
 | Tilläggsårskort ungdom 12–17 år<br>i samma familj, från barn eller<br>ungdom nr tre. |  |  | 461 |
+|  |  |  |  |
 
 <!-- sida 195 -->
 
@@ -9568,6 +9594,7 @@ Tabell 3
 | Hyra halva 50m-bassängen. | 809 kr/timme + ordinarie entréavgift. |
 | Hyra hel undervisningsbassäng. | 1 385 kr/timme + ordinarie entréavgift. |
 | Övrig kommersiell hyra för bassänger. | Sätts av driftsoperatören. |
+|  |  |
 
 <!-- sida 196 -->
 
