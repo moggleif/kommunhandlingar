@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.4ad251561a1303bcbb54ed60/1792047955
 sha256: d733372db85402121f56911e9a3a351db6cbe2d871cb16adf059696bcb2d249b
 bytes: 5277217
 sidor: 58
-hamtad: 2026-11-15T09:35:00+00:00
-konverterad: 2026-11-15T09:35:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T13:22:08+00:00
+konverterad: 2026-11-20T13:22:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
@@ -768,7 +768,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 8-1](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/8-1.csv)
 
-| Ämne/ parametrar Riktvärde |  |
+| Ämne/ parametrar | Riktvärde |
 | --- | --- |
 | Arsenik | 16 µg/l |
 | Bly | 28 µg/l |
@@ -815,7 +815,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 9-1](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/9-1.csv)
 
-| Ämne/ parametrar Riktvärde |  |
+| Ämne/ parametrar | Riktvärde |
 | --- | --- |
 | Bens(a)pyren, indikator för PAH | 0,27 µg/l |
 | Bensen | 50 µg/l |
@@ -1341,7 +1341,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 26-1](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/26-1.csv)
 
-| Befintlig situation Hela planområdet φ |  |  |
+| Befintlig situation | Hela planområdet | φ |
 | --- | --- | --- |
 | Gräs-/grönyta | 0,35 | 0,1 |
 | Asfaltsyta | 0,91 | 0,85 |
@@ -1814,7 +1814,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 40-1](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/40-1.csv)
 
-| Tillrinnande Anläggningsyta Nedsänkt ytligt Total tillgänglig<br>D agvattenanläggning<br>avrinningsyta [ha] [m2] djup [mm] \* utjämningsvolym [m3] |  |  |  |  |
+| D agvattenanläggning | Tillrinnande<br>avrinningsyta [ha] | Anläggningsyta<br>[m2] | Nedsänkt ytligt<br>djup [mm] \* | Total tillgänglig<br>utjämningsvolym [m3] |
 | --- | --- | --- | --- | --- |
 | Regnväxtbädd 1 | 0,22 | 70 | 100 | 20 |
 | Regnväxtbädd 2 | 0,98 | 280 | 200 | 110 |
@@ -2630,13 +2630,13 @@ Tabell 11. Kostnadskalkyl av anläggnings-, drift- och skötselkostnader för de
 
 [Tabell 58-1](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/58-1.csv)
 
-| Anläggning Lägsta kostnad Schablonkostnad Högsta kostnad Enhet |  |  |  |  |
+| Anläggning | Lägsta kostnad | Schablonkostnad | Högsta kostnad | Enhet |
 | --- | --- | --- | --- | --- |
 | Växtbädd | 5 600 | 10 000 | 18 000 | Kr/m2 |
 
 [Tabell 58-2](handlingar-hede-fashion-outlet-utbyggnad-dagvattenutredning.tabeller/58-2.csv)
 
-| Delområde Dagvatten- Anläggningsyta Anläggningskostnad Drift- och skötselkostnad<br>anläggning (m2) (kr) (kr/år) |  |  |  |  |
+| Delområde | Dagvatten-<br>anläggning | Anläggningsyta<br>(m2) | Anläggningskostnad<br>(kr) | Drift- och skötselkostnad<br>(kr/år) |
 | --- | --- | --- | --- | --- |
 | TARO 1 | Växtbädd | 70 | 700 000 | 1 750 |
 | TARO 2 | Växtbädd | 280 | 2 760 000 | 6 900 |

@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.5025299019e4ad5ed2c72df/17794331342
 sha256: 4715972e251d9061566fc0188fef17e02394a14ea9d685be4331984bdb5d0c3f
 bytes: 12670307
 sidor: 51
-hamtad: 2026-11-15T09:23:21+00:00
-konverterad: 2026-11-15T09:24:03+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T13:08:42+00:00
+konverterad: 2026-11-20T13:09:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
 tal_obekraftade: [10, 11, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
 figurer: [1, 3, 5, 8, 9, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
 tolkade: []
@@ -295,16 +295,6 @@ från tidigare utförda undersökningar [3.1] till [3.3] valda materialegenskape
 sättningsberäkningar redovisas i Tabell 1.
 
 Tabell 1. Geotekniska materialegenskaper använda vid sättningsberäkning
-Djup (m) Nivå (-) M (kPa) M (kPa) M’ (-) σ’ (kPa) σ’ (kPa)
-0       L            c       L
-
-```osaker-tabell
-1,5       +16    3500    600    10     50     120
-7,5 (↑) +10 (↑)  3500    600    14     90     130
-
-7,5 (↓) +10 (↓)  3500   1200    17     90     175
-14,5      +3     8750   1500    17    140     195
-```
 
 Grundvattenytans nivå har antagits ligga i underkant av torrskorpan, ca 1,5m djup och
 verka med ett hydrostatiskt porvattentryck.
@@ -317,6 +307,15 @@ Enligt beräkningsresultaten föreligger en dimensionerande sättningsskillnad o
 cm mellan långsidornas ytterkanter för samtliga byggnader, se Bilaga 2.
 
 7 (14)
+
+[Tabell 7-1](handlingar-bostader-i-fjaras-pm-geoteknik-reviderad.tabeller/7-1.csv)
+
+| Djup (m) | Nivå (-) | M (kPa)<br>0 | M (kPa)<br>L | M’ (-) | σ’ (kPa)<br>c | σ’ (kPa)<br>L |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1,5 | +16 | 3500 | 600 | 10 | 50 | 120 |
+| 7,5 (↑) | +10 (↑) | 3500 | 600 | 14 | 90 | 130 |
+| 7,5 (↓) | +10 (↓) | 3500 | 1200 | 17 | 90 | 175 |
+| 14,5 | +3 | 8750 | 1500 | 17 | 140 | 195 |
 
 <!-- sida 8 -->
 
@@ -462,35 +461,6 @@ redovisas valda materialegenskaper för stabilitetsberäkningar, vilka även red
 diagramform i Bilaga 1.
 
 Tabell 2. Geotekniska materialegenskaper använda vid stabilitetsberäkning
-Karakteristiskt värde
-Jordlager        Egenskap          Valt värde
-((cid:23) =1,00)
-(cid:10)(cid:24)(cid:25)(cid:24)(cid:14)
-Tunghet, (γ)       18 kN/m³       18 kN/m³
-Torrskorpelera  Effektiv tunghet, (γ’) 8 kN/m³       8 kN/m³
-Odränerad skjuvhållfasthet, (c ) 25 kPa   25 kPa
-u
-
-Tunghet, (γ)       17 kN/m³       17 kN/m³
-
-Lera 1       Effektiv tunghet, (γ’) 7 kN/m³       7 kN/m³
-
-Odränerad skjuvhållfasthet, (c ) 14 kPa   14 kPa
-u
-
-Tunghet, (γ)       19 kN/m³       19 kN/m³
-Lera 2
-Effektiv tunghet, (γ’) 9 kN/m³       9 kN/m³
-z räknas från +10
-
-Odränerad skjuvhållfasthet, (c ) 14 + 3\*z kPa 14 + 3\*z kPa
-u
-Tunghet, (γ)       18kN/m³        18 kN/m³
-
-Friktionsjord  Effektiv tunghet, (γ’) 10 kN/m³      10 kN/m³
-
-Friktionsvinkel, (φ’ )  34o            34o
-k
 
 11.5 Känslighetsanalys
 Känslighetsanalys (KA) har utförts för såväl befintliga som för planerade förhållanden
@@ -498,6 +468,16 @@ med en höjning av grundvattenytan till marknivån vilket motsvarar en höjning 
 m utmed områdets topografi.
 
 11 (14)
+
+[Tabell 11-1](handlingar-bostader-i-fjaras-pm-geoteknik-reviderad.tabeller/11-1.csv)
+
+| Jordlager | Egenskap | Valt värde | Karakteristiskt värde |
+| --- | --- | --- | --- |
+|  |  |  | ((cid:23) =1,00)<br>(cid:10)(cid:24)(cid:25)(cid:24)(cid:14) |
+| Tunghet, (γ) 18 kN/m³ 18 kN/m³<br>Torrskorpelera Effektiv tunghet, (γ’) 8 kN/m³ 8 kN/m³<br>Odränerad skjuvhållfasthet, (c ) 25 kPa 25 kPa<br>u |  |  |  |
+| Tunghet, (γ) 17 kN/m³ 17 kN/m³<br>Lera 1 Effektiv tunghet, (γ’) 7 kN/m³ 7 kN/m³<br>Odränerad skjuvhållfasthet, (c ) 14 kPa 14 kPa<br>u |  |  |  |
+| Tunghet, (γ) 19 kN/m³ 19 kN/m³<br>Lera 2<br>Effektiv tunghet, (γ’) 9 kN/m³ 9 kN/m³<br>z räknas från +10<br>Odränerad skjuvhållfasthet, (c ) 14 + 3\*z kPa 14 + 3\*z kPa<br>u |  |  |  |
+| Tunghet, (γ) 18kN/m³ 18 kN/m³<br>Friktionsjord Effektiv tunghet, (γ’) 10 kN/m³ 10 kN/m³<br>Friktionsvinkel, (φ’ ) 34o 34o<br>k |  |  |  |
 
 <!-- sida 12 -->
 

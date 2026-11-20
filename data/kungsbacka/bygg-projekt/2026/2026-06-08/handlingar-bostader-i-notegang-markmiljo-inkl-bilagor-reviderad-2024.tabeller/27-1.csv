@@ -1,10 +1,9 @@
 SGU:s bedömningsgrunder (1),,,Tillståndsklass,,,,,,,,
-,,,1,2,3,4,5,"Utgångs-
-punkt för att
-vända trend",23E04GV,23E08GV,23E11GV
+,,,1,2,3,4,5,Utgångs-,,,
 Metaller,,Enhet,"Mycket låg
 halt",Låg halt,Måttlig halt,Hög halt,"Mycket hög
-halt",,,,
+halt","punkt för att
+vända trend",23E04GV,23E08GV,23E11GV
 As,Arsenik,µg/l,<1,1-2,2-5,5-10,≥10,5,"1,06","1,02","0,734"
 Ba,Barium,µg/l,-,-,-,-,-,-,"19,5","21,8",37
 Cd,Kadmium,µg/l,"<0,1","0,1-0,5","0,5-1",1-5,≥5,2,"<0,05","0,1","<0,05"

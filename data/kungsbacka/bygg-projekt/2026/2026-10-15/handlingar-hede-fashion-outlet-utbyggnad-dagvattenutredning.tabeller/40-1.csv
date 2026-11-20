@@ -1,6 +1,8 @@
-"Tillrinnande Anläggningsyta Nedsänkt ytligt Total tillgänglig
-D agvattenanläggning
-avrinningsyta [ha] [m2] djup [mm] * utjämningsvolym [m3]",,,,
+D agvattenanläggning,"Tillrinnande
+avrinningsyta [ha]","Anläggningsyta
+[m2]","Nedsänkt ytligt
+djup [mm] *","Total tillgänglig
+utjämningsvolym [m3]"
 Regnväxtbädd 1,"0,22",70,100,20
 Regnväxtbädd 2,"0,98",280,200,110
 Regnväxtbädd 3,"0,87",380,150,110
