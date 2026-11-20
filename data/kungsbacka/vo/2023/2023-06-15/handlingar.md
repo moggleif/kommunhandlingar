@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240519042837id_/https://kungsbacka.se/d
 sha256: aa65dfc5e8e4520784f8d27fd7fc1476207f2a9fc42a344df5eaca561e9c95b9
 bytes: 10248073
 sidor: 157
-hamtad: 2026-10-20T10:12:20+00:00
-konverterad: 2026-10-20T10:13:21+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-20T23:11:38+00:00
+konverterad: 2026-11-20T23:13:26+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ej-konverterad, ok, ocr, ok, ocr, ocr, ok, ocr, ocr, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ej-konverterad, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ej-konverterad, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -197,7 +197,7 @@ Utförare styr tiden.
 
 Beslut Raminsats
 == Utförare styr insatser,
-TEN tiden, frekvens
+EN tiden, frekvens
 
 PSL
 
@@ -495,8 +495,6 @@ Ara 2021
 458
 434
 
-— ?XxXA rsättning omsorg
-
 År 2022 ner
 
 509
@@ -506,6 +504,8 @@ I Ekvationen går
 inte ihop: ny
 modell för
 ersättning Krävs
+
+— ?XxXA rsättning omsorg
 
 <!-- sida 24 -->
 
@@ -553,7 +553,6 @@ Förvaltning för Vård & Omsorg
 
 <!-- sida 28 -->
 
-Lä
 | || Kungsbacka
 
 Utvärdering
@@ -1758,24 +1757,25 @@ Kungsbacka kommun
 Stadshuset (adress borttagen)
 434 81 KUNGSBACKA
 
-Inspektionen för vård och omsorg Telefon +46 010-788 50 00 Org nr 202100-6537
-Box 53148                 (e-post borttagen)
-400 15 Göteborg
-b1KgT
-0.1
-v
-1202
 Vårdgivare och huvudman
+
 Kungsbacka kommun
+
 Ärendet
+
 Tillsyn av medicinsk vård och behandling vid särskilda boenden för äldre (SÄBO) som
 drivs av Nämnden för Vård och Omsorg i Kungsbacka kommun (nämnden).
+
 I tillsynen har Inspektionen för vård och omsorg (IVO) granskat följande områden:
+
 • Individuell bedömning och kompetensnivå
+
 • Dokumentation och personalkontinuitet
 • Läkemedelshantering
 • Vård i livets slutskede
+
 Beslut
+
 IVO konstaterar följande brister:
 • den personal som gör medicinska bedömningar har inte tillräcklig kompetens för
 arbetsuppgiften och behärskar inte det svenska språket i tillräcklig omfattning.
@@ -1783,7 +1783,9 @@ arbetsuppgiften och behärskar inte det svenska språket i tillräcklig omfattni
 kontinuitet i personalgruppen som främjar en god vård.
 • läkemedelshanteringen sker inte på ett patientsäkert sätt.
 • vården i livets slutskede sker inte enligt gällande regelverk.
+
 IVO begär med stöd av 7 kap. 20 § patientsäkerhetslagen (2010:659), PSL, att nämnden
+
 redovisar:
 • de förbättringsåtgärder som pågår, vidtagits eller planeras inom dessa områden för
 att komma till rätta med de brister som IVO konstaterat,
@@ -1791,6 +1793,14 @@ att komma till rätta med de brister som IVO konstaterat,
 • samt hur och när effekten av planerade, pågående och vidtagna åtgärder kommer
 att följas upp.
 Redovisningen ska ha kommit in till IVO senast den 28 juni 2023.
+
+Inspektionen för vård och omsorg Telefon +46 010-788 50 00 Org nr 202100-6537
+Box 53148                 (e-post borttagen)
+400 15 Göteborg
+
+TgK1b
+
+2021 v 1.0
 
 <!-- sida 89 -->
 

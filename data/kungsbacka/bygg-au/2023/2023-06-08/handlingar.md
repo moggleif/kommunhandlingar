@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20250523122205id_/https://kungsbacka.se/d
 sha256: 78a96a3d1307e21abdca6770732bdecbeb8c5750cfd64e606a5f995868b93775
 bytes: 870353
 sidor: 14
-hamtad: 2026-11-17T01:37:57+00:00
-konverterad: 2026-11-17T01:38:07+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T23:13:33+00:00
+konverterad: 2026-11-20T23:13:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [3, 4, 5, 6, 7, 8, 10, 14]
-figurer: [3, 9, 10]
+figurer: [3, 9]
 tolkade: []
 granskad: null
 ---
@@ -370,22 +370,6 @@ Bilaga 1. Sammanställd bedömning per nämnd
 
 Nedan sammanställer vi våra bedömningar per nämnd utifrån granskningens revisionskriterier.
 
-Styrning          Uppföljning           Internkontroll
-A1    A2     B1    B2     B3    B4    C1    C2    C3
-KS    R                                R
-BN
-FG
-GA
-IF
-K&F
-MH
-SE
-TE
-VO
-VN
-
-R
-Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation
 Tabell 1:Sammanställd bedömning per nämnd och revisionskriterier.
 Beskrivning av kontrollmoment
 
@@ -415,6 +399,24 @@ styrelsens reglemente. Däremot finns ett antal krav på kommunstyrelsen att fö
 ekonomi och verksamhet.
 
 7
+
+[Tabell 10-1](handlingar.tabeller/10-1.csv)
+
+|  | Styrning |  | Uppföljning |  |  |  | Internkontroll |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | A1 | A2 | B1 | B2 | B3 | B4 | C1 | C2 | C3 |
+| KS | R |  |  |  |  | R |  |  |  |
+| BN |  |  |  |  |  |  |  |  |  |
+| FG |  |  |  |  |  |  |  |  |  |
+| GA |  |  |  |  |  |  |  |  |  |
+| IF |  |  |  |  |  |  |  |  |  |
+| K&F |  |  |  |  |  |  |  |  |  |
+| MH |  |  |  |  |  |  |  |  |  |
+| SE |  |  |  |  |  |  |  |  |  |
+| TE |  |  |  |  |  |  |  |  |  |
+| VO |  |  |  |  |  |  |  |  |  |
+| VN |  |  |  |  |  |  |  |  |  |
+|  | R<br>Kriteriet uppfyllt Delvis uppfyllt Ej uppfyllt Ej tillämpbart Rekommendation |  |  |  |  |  |  |  |  |
 
 <!-- sida 11 -->
 

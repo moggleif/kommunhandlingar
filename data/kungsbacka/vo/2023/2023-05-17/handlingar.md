@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240601194042id_/https://kungsbacka.se/d
 sha256: 9dc99a5ac9588d0af86996f47f32a843fe494ab6df8b44df767caec16f6e9576
 bytes: 3621355
 sidor: 89
-hamtad: 2026-10-20T10:34:12+00:00
-konverterad: 2026-10-20T10:34:30+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T23:17:27+00:00
+konverterad: 2026-11-20T23:17:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1802,24 +1802,25 @@ Kungsbacka kommun
 Stadshuset (adress borttagen)
 434 81 KUNGSBACKA
 
-Inspektionen för vård och omsorg Telefon +46 010-788 50 00 Org nr 202100-6537
-Box 53148                 (e-post borttagen)
-400 15 Göteborg
-b1KgT
-0.1
-v
-1202
 Vårdgivare och huvudman
+
 Kungsbacka kommun
+
 Ärendet
+
 Tillsyn av medicinsk vård och behandling vid särskilda boenden för äldre (SÄBO) som
 drivs av Nämnden för Vård och Omsorg i Kungsbacka kommun (nämnden).
+
 I tillsynen har Inspektionen för vård och omsorg (IVO) granskat följande områden:
+
 • Individuell bedömning och kompetensnivå
+
 • Dokumentation och personalkontinuitet
 • Läkemedelshantering
 • Vård i livets slutskede
+
 Beslut
+
 IVO konstaterar följande brister:
 • den personal som gör medicinska bedömningar har inte tillräcklig kompetens för
 arbetsuppgiften och behärskar inte det svenska språket i tillräcklig omfattning.
@@ -1827,7 +1828,9 @@ arbetsuppgiften och behärskar inte det svenska språket i tillräcklig omfattni
 kontinuitet i personalgruppen som främjar en god vård.
 • läkemedelshanteringen sker inte på ett patientsäkert sätt.
 • vården i livets slutskede sker inte enligt gällande regelverk.
+
 IVO begär med stöd av 7 kap. 20 § patientsäkerhetslagen (2010:659), PSL, att nämnden
+
 redovisar:
 • de förbättringsåtgärder som pågår, vidtagits eller planeras inom dessa områden för
 att komma till rätta med de brister som IVO konstaterat,
@@ -1835,6 +1838,14 @@ att komma till rätta med de brister som IVO konstaterat,
 • samt hur och när effekten av planerade, pågående och vidtagna åtgärder kommer
 att följas upp.
 Redovisningen ska ha kommit in till IVO senast den 28 juni 2023.
+
+Inspektionen för vård och omsorg Telefon +46 010-788 50 00 Org nr 202100-6537
+Box 53148                 (e-post borttagen)
+400 15 Göteborg
+
+TgK1b
+
+2021 v 1.0
 
 <!-- sida 46 -->
 
