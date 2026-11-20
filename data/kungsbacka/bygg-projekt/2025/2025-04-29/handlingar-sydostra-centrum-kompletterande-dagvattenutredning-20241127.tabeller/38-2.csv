@@ -1,8 +1,9 @@
-"Planerad situation Planerad situation med
-Befintlig
-Ämne Enhet Riktvärde utan föreslagen
-situation
-dagvattenåtgärder dagvattenhantering",,,,,
+Ämne,Enhet,Riktvärde,"Befintlig
+situation","Planerad situation
+utan
+dagvattenåtgärder","Planerad situation med
+föreslagen
+dagvattenhantering"
 Fosfor (P),µg/l,50,110,65,26
 Kväve (N),µg/l,1 250,1 600,1 700,800
 Bly (Pb),µg/l,28,12,"5,1","1,1"

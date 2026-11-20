@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.ee4f6e719680bbfa9724b4/174593261863
 sha256: 4a8b2d32f91b682e11a90dc7af9d1dc0d39b62bcd8c855cf30fb6988c8ef5e02
 bytes: 6044338
 sidor: 47
-hamtad: 2026-11-13T17:19:04+00:00
-konverterad: 2026-11-13T17:19:21+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:18:56+00:00
+konverterad: 2026-11-20T11:19:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -791,7 +791,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 7-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/7-1.csv)
 
-| Ämne/ parametrar Riktvärde |  |
+| Ämne/ parametrar | Riktvärde |
 | --- | --- |
 | Arsenik | 16 µg/l |
 | Bly | 28 µg/l |
@@ -809,7 +809,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 7-2](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/7-2.csv)
 
-| Ämne/ parametrar Riktvärde |  |
+| Ämne/ parametrar | Riktvärde |
 | --- | --- |
 | Bens(a)pyren, indikator för PAH | 0,27 µg/l |
 | Bensen | 50 µg/l |
@@ -1236,7 +1236,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 19-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/19-1.csv)
 
-| Befintlig situation Planområdet Φ |  |  |
+| Befintlig situation | Planområdet | Φ |
 | --- | --- | --- |
 | Asfalt | 0,556 | 0,80 |
 | Grönyta | 0,901 | 0,10 |
@@ -1317,7 +1317,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 21-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/21-1.csv)
 
-| Planerad situation Planområdet φ |  |  |
+| Planerad situation | Planområdet | φ |
 | --- | --- | --- |
 | Asfalt | 0,940 | 0,85 |
 | Grönyta | 0,647 | 0,10 |
@@ -1804,7 +1804,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 35-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/35-1.csv)
 
-| Planerad situation Planerad situation med<br>Befintlig<br>Ämne Enhet utan föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation med<br>föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 10 | 6,2 | 3,9 |
 | Kväve (N) | kg/år | 100 | 100 | 70 |
@@ -1822,7 +1822,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 35-2](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/35-2.csv)
 
-| Planerad situation Planerad situation<br>Befintlig<br>Ämne Enhet Riktvärden utan med föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |  |
+| Ämne | Enhet | Riktvärden | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation<br>med föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 50 | 170 | 100 | 66 |
 | Kväve (N) | µg/l | 1 250 | 1 700 | 1 700 | 1 200 |
@@ -1896,7 +1896,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 37-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/37-1.csv)
 
-| Planerad situation med<br>Befintlig Planerad situation utan<br>Ämne Enhet föreslagen<br>situation dagvattenåtgärder<br>dagvattenhantering |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation utan<br>dagvattenåtgärder | Planerad situation med<br>föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 6 | 2,3 | 2,1 |
 | Kväve (N) | kg/år | 45 | 44 | 40 |
@@ -1914,7 +1914,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 37-2](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/37-2.csv)
 
-| Planerad situation Planerad situation<br>Befintlig<br>Ämne Enhet Riktvärde utan med föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |  |
+| Ämne | Enhet | Riktvärde | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation<br>med föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 50 | 240 | 84 | 78 |
 | Kväve (N) | µg/l | 1 250 | 1 800 | 1 600 | 1 500 |
@@ -1958,7 +1958,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 38-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/38-1.csv)
 
-| Planerad situation Planerad situation med<br>Befintlig<br>Ämne Enhet utan föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation med<br>föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 0,46 | 0,29 | 0,11 |
 | Kväve (N) | kg/år | 6,8 | 7,6 | 3,5 |
@@ -1976,7 +1976,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 38-2](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/38-2.csv)
 
-| Planerad situation Planerad situation med<br>Befintlig<br>Ämne Enhet Riktvärde utan föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |  |
+| Ämne | Enhet | Riktvärde | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation med<br>föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 50 | 110 | 65 | 26 |
 | Kväve (N) | µg/l | 1 250 | 1 600 | 1 700 | 800 |
@@ -2017,7 +2017,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 39-1](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/39-1.csv)
 
-| Planerad situation<br>Befintlig Planerad situation med<br>Ämne Enhet utan<br>situation föreslagen dagvattenhantering<br>dagvattenåtgärder |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation med<br>föreslagen dagvattenhantering |
 | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 4,1 | 3,9 | 1,8 |
 | Kväve (N) | kg/år | 55 | 56 | 30 |
@@ -2035,7 +2035,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 39-2](handlingar-sydostra-centrum-kompletterande-dagvattenutredning-20241127.tabeller/39-2.csv)
 
-| Planerad situation Planerad situation<br>Befintlig<br>Ämne Enhet Riktvärde utan med föreslagen<br>situation<br>dagvattenåtgärder dagvattenhantering |  |  |  |  |  |
+| Ämne | Enhet | Riktvärde | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad situation<br>med föreslagen<br>dagvattenhantering |
 | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 50 | 120 | 120 | 56 |
 | Kväve (N) | µg/l | 1 250 | 1 600 | 1 700 | 920 |

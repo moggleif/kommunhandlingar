@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.bf4d0b1965b8a126d6eaf0/174582882362
 sha256: cb8965efff2e21772727648c123067123fa7d674fef3782037c031950308611f
 bytes: 573738
 sidor: 7
-hamtad: 2026-11-14T19:07:07+00:00
-konverterad: 2026-11-14T19:07:15+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: full
+hamtad: 2026-11-20T11:15:23+00:00
+konverterad: 2026-11-20T11:15:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok]
 tal_obekraftade: []
 figurer: [3, 4, 5, 6]
 tolkade: []
@@ -134,10 +134,12 @@ Avfart söderut
 
 Påfart norrut
 
-Kungsgatan/
+700  27
+880 3,1%   Kungsgatan/
 Särö-
 Väg 158               motet                         Onsalavägen
-Påfart söderut
+700 72                              560 108
+880 8,2%   Påfart söderut           700 15,4%
 
 Avfart norrut
 
@@ -147,16 +149,19 @@ E6 norrut
 
 Avfart söderut
 Påfart norrut
-
-Onsala-
+290 14
+1220 1,1%   970 130
+Onsala-            1480 8,8%
 Väg 940               motet                         Inlagsleden
-
-Påfart söderut
-
+480 54                              650 110
+800 6,8%   Påfart söderut           1060 10,4%
+210 0
+270 0,0%
 Avfart norrut
 
 E6 söderut
-
+1320 18
+1830 1,0%
 E6 norrut
 E6/E20
 
@@ -197,111 +202,57 @@ Kungsbacka kommun          PM Trafik arenan                     4
 
 [Tabell 4-6](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-6.csv)
 
-| 1090 | 18 |
-| --- | --- |
-| 1370 | 1,3% |
+|  | 1090 | 18 |
+| --- | --- | --- |
+|  | 1370 | 1,3% |
 
 [Tabell 4-7](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-7.csv)
-
-| 700 | 27 |
-| --- | --- |
-| 880 | 3,1% |
-
-[Tabell 4-8](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-8.csv)
-
-| 700 | 72 |
-| --- | --- |
-| 880 | 8,2% |
-
-[Tabell 4-9](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-9.csv)
-
-| 560 | 108 |
-| --- | --- |
-| 700 | 15,4% |
-
-[Tabell 4-10](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-10.csv)
 
 | 350 | 18 |
 | --- | --- |
 | 440 | 4,1% |
 
-[Tabell 4-11](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-11.csv)
+[Tabell 4-8](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-8.csv)
 
 | 250 | 0 |
 | --- | --- |
 | 310 | 0,0% |
 
-[Tabell 4-12](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-12.csv)
+[Tabell 4-9](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-9.csv)
 
 | 2390 | 36 |
 | --- | --- |
 | 3260 | 1,1% |
 
-[Tabell 4-13](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-13.csv)
+[Tabell 4-10](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-10.csv)
 
 | 1400 | 14 |
 | --- | --- |
 | 2873 | 0,5% |
 
-[Tabell 4-14](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-14.csv)
+[Tabell 4-11](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-11.csv)
 
 | 870 | 36 |
 | --- | --- |
 | 1310 | 2,7% |
 
-[Tabell 4-15](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-15.csv)
+[Tabell 4-12](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-12.csv)
 
-| 290 | 14 |
-| --- | --- |
-| 1220 | 1,1% |
+|  | 1370 | 14 |
+| --- | --- | --- |
+|  | 1420 | 1,0% |
 
-[Tabell 4-16](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-16.csv)
-
-| 1370 | 14 |
-| --- | --- |
-| 1420 | 1,0% |
-
-[Tabell 4-17](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-17.csv)
-
-| 970 | 130 |
-| --- | --- |
-| 1480 | 8,8% |
-
-[Tabell 4-18](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-18.csv)
-
-| 480 | 54 |
-| --- | --- |
-| 800 | 6,8% |
-
-[Tabell 4-19](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-19.csv)
-
-| 650 | 110 |
-| --- | --- |
-| 1060 | 10,4% |
-
-[Tabell 4-20](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-20.csv)
-
-| 210 | 0 |
-| --- | --- |
-| 270 | 0,0% |
-
-[Tabell 4-21](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-21.csv)
+[Tabell 4-13](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-13.csv)
 
 | 220 | 18 |
 | --- | --- |
 | 180 | 10,0% |
 
-[Tabell 4-22](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-22.csv)
+[Tabell 4-14](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-14.csv)
 
 | 1740 | 5 |
 | --- | --- |
 | 2230 | 0,2% |
-
-[Tabell 4-23](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/4-23.csv)
-
-| 1320 | 18 |
-| --- | --- |
-| 1830 | 1,0% |
 
 <!-- sida 5 -->
 
@@ -343,18 +294,25 @@ Kungsgatan/
 Särö-
 Väg 158                                                Onsalavägen
 motet
-Påfart söderut
+15700 240                              12500 1090
+19800 1,2%   Påfart söderut            15700 6,9%
 Avfart norrut
 
 Avfart söderut
 Påfart norrut
-
+4000 0
+5000 0,0%
 Onsala-
 Väg 940                  motet                         Inlagsleden
-
-Påfart söderut
-
+15700 120                              14800 1090
+19800 0,6%   Påfart söderut            18600 5,9%
+3200 485
+4000 12,1% 3300 485
+4200 11,5%
 Avfart norrut
+
+36700 970
+46200 2,1%
 
 E6/E20
 
@@ -389,75 +347,27 @@ Kungsbacka kommun          PM Trafik arenan                     6
 
 [Tabell 6-5](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-5.csv)
 
-| 15700 | 240 |
-| --- | --- |
-| 19800 | 1,2% |
-
-[Tabell 6-6](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-6.csv)
-
-| 12500 | 1090 |
-| --- | --- |
-| 15700 | 6,9% |
-
-[Tabell 6-7](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-7.csv)
-
 | 2650 | 0 |
 | --- | --- |
 | 3300 | 0,0% |
 
-[Tabell 6-8](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-8.csv)
+[Tabell 6-6](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-6.csv)
 
 | 1900 | 0 |
 | --- | --- |
 | 2400 | 0,0% |
 
-[Tabell 6-9](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-9.csv)
+[Tabell 6-7](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-7.csv)
 
 | 39400 | 0 |
 | --- | --- |
 | 49600 | 0,0% |
 
-[Tabell 6-10](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-10.csv)
+[Tabell 6-8](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-8.csv)
 
 | 5100 | 0 |
 | --- | --- |
 | 6400 | 0,0% |
-
-[Tabell 6-11](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-11.csv)
-
-| 4000 | 0 |
-| --- | --- |
-| 5000 | 0,0% |
-
-[Tabell 6-12](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-12.csv)
-
-| 15700 | 120 |
-| --- | --- |
-| 19800 | 0,6% |
-
-[Tabell 6-13](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-13.csv)
-
-| 14800 | 1090 |
-| --- | --- |
-| 18600 | 5,9% |
-
-[Tabell 6-14](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-14.csv)
-
-| 3200 | 485 |
-| --- | --- |
-| 4000 | 12,1% |
-
-[Tabell 6-15](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-15.csv)
-
-| 3300 | 485 |
-| --- | --- |
-| 4200 | 11,5% |
-
-[Tabell 6-16](handlingar-detaljplan-for-kungsbacka-arena-trafik-pm-paverkan-pa-statligt-vagnat.tabeller/6-16.csv)
-
-| 36700 | 970 |
-| --- | --- |
-| 46200 | 2,1% |
 
 <!-- sida 7 -->
 

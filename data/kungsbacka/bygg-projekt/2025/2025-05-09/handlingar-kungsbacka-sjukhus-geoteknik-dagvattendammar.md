@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62dad2a5/17467718110
 sha256: b7380e2711cb50cc8c335fcc2394445d9c3a8473b33b9c2ba27b7a3398604ebd
 bytes: 1802340
 sidor: 22
-hamtad: 2026-11-13T17:23:31+00:00
-konverterad: 2026-11-13T17:23:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:23:10+00:00
+konverterad: 2026-11-20T11:23:17+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -52,15 +52,24 @@ Handläggare:        Lisa Sundström
 
 Tölöberg 2 och Tölö 1:17 108 45 19 Geotekniskt PM
 
-1.1   2025-02-12 Geotekniskt PM; utredning för dagvattendammar Lisa Sundström, Valdrin Qyra Katarina
-(Färdig handling)         Johanna Medin     Engerberg
-1.0   2025-02-07 Geotekniskt PM; utredning för dagvattendammar Lisa Sundström, Valdrin Qyra Katarina
-(Granskningshandling)     Johanna Medin     Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.1
+1.0
+
+Version
+
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\108\45\1084519\5 arbetsmaterial\01 dokument\g\pm\geotekniskt-pm.docx 2025-02-12 | Sida 2 av 14
+
+[Tabell 2-1](handlingar-kungsbacka-sjukhus-geoteknik-dagvattendammar.tabeller/2-1.csv)
+
+| 2025-02-12 | Geotekniskt PM; utredning för dagvattendammar<br>(Färdig handling) | Lisa Sundström, | Valdrin Qyra | Katarina |
+| --- | --- | --- | --- | --- |
+|  |  | Johanna Medin |  | Engerberg |
+| 2025-02-07 | Geotekniskt PM; utredning för dagvattendammar<br>(Granskningshandling) | Lisa Sundström, | Valdrin Qyra | Katarina |
+|  |  | Johanna Medin |  | Engerberg |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -310,9 +319,18 @@ n:\108\45\1084519\5 arbetsmaterial\01 dokument\g\pm\geotekniskt-pm.docx 2025-02-
 
 | Jordlager | Materialegenskaper | Valt värde, X<br>vald |
 | --- | --- | --- |
-| Torrskorpelera | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’<br>Odränerad skjuvhållfasthet, c<br>u | 17 kN/m3<br>7 kN/m3<br>30o<br>25 kPa |
-| Lera | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’<br>Odränerad skjuvhållfasthet, c<br>u | 16,5 kN/m3<br>6,5 kN/m3<br>30o<br>15 kPa + 0,75 kPa/m<br>från nivå +8 |
-| Bottenfriktion | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’ | 18 kN/m3<br>10 kN/m3<br>35o |
+| Torrskorpelera | Tunghet, γ | 17 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 7 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 30o |
+|  | Odränerad skjuvhållfasthet, c<br>u | 25 kPa |
+| Lera | Tunghet, γ | 16,5 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 6,5 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 30o |
+|  | Odränerad skjuvhållfasthet, c<br>u | 15 kPa + 0,75 kPa/m |
+|  |  | från nivå +8 |
+| Bottenfriktion | Tunghet, γ | 18 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 10 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 35o |
 
 <!-- sida 10 -->
 
@@ -399,9 +417,18 @@ n:\108\45\1084519\5 arbetsmaterial\01 dokument\g\pm\geotekniskt-pm.docx 2025-02-
 
 | Jordlager | Materialegenskaper | Valt värde, X<br>vald |
 | --- | --- | --- |
-| Torrskorpelera | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’<br>Odränerad skjuvhållfasthet, c<br>u | 17 kN/m3<br>7 kN/m3<br>23,95o<br>16,6 kPa |
-| Lera | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’<br>Odränerad skjuvhållfasthet, c<br>u | 16,5 kN/m3<br>6,5 kN/m3<br>23,95o<br>10 kPa + 0,5 kPa/m<br>från nivå +8 |
-| Bottenfriktion | Tunghet, γ<br>Effektiv tunghet under gvy, γ’<br>Friktionsvinkel, ϕ’ | 18 kN/m3<br>10 kN/m3<br>28,3o |
+| Torrskorpelera | Tunghet, γ | 17 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 7 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 23,95o |
+|  | Odränerad skjuvhållfasthet, c<br>u | 16,6 kPa |
+| Lera | Tunghet, γ | 16,5 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 6,5 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 23,95o |
+|  | Odränerad skjuvhållfasthet, c<br>u | 10 kPa + 0,5 kPa/m |
+|  |  | från nivå +8 |
+| Bottenfriktion | Tunghet, γ | 18 kN/m3 |
+|  | Effektiv tunghet under gvy, γ’ | 10 kN/m3 |
+|  | Friktionsvinkel, ϕ’ | 28,3o |
 
 <!-- sida 12 -->
 

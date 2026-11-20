@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f75337/1747639303
 sha256: 65e43758b3a3ba240442e1975e50e896015500fe946ef77308c7fb71e724b0bd
 bytes: 1780566
 sidor: 19
-hamtad: 2026-11-13T17:24:42+00:00
-konverterad: 2026-11-13T17:24:48+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:24:35+00:00
+konverterad: 2026-11-20T11:24:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -265,10 +265,10 @@ Ensucon AB                                                      Bilaga 1a
 
 [Tabell 8-1](handlingar-bostader-i-ragelund-kompletterande-provtagning-miljoteknisk-markundersokning.tabeller/8-1.csv)
 
-| SGU:s bedömningsgrunder (1) |  | Tillståndsklass |  |  |  |  |  |
+|  |  | Tillståndsklass |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|  |  | 1 | 2 | 3 | 4 | 5 | 20GS02 |
-|  | Enhet | Mycket låg<br>halt | Låg halt | Måttlig halt | Hög halt | Mycket hög<br>halt |  |
+| SGU:s bedömningsgrunder (1) |  | 1 | 2 | 3 | 4 | 5 |  |
+|  | Enhet | Mycket låg<br>halt | Låg halt | Måttlig halt | Hög halt | Mycket hög<br>halt | 20GS02 |
 | PFAS 24 (PFOA-ekvivalenter)\* | ng/l | <0,3 | 0,3–1 | 1–2 | 2–4,4 | ≥4,4 | 4,59 |
 | PFAS 4 | ng/l | <0,3 | 0,3–1 | 1–2 | 2–4,4 | ≥4,4 | 3,59 |
 | \*Se bilaga 1b |  |  |  |  |  |  |  |

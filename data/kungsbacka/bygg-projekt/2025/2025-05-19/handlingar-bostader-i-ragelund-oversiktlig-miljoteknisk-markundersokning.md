@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f75333/1747639301
 sha256: a61c9fbab60e84c68c8be7d4f1f9c26206927546b87bfb9408059669ad55bc71
 bytes: 3315760
 sidor: 52
-hamtad: 2026-11-13T17:23:54+00:00
-konverterad: 2026-11-13T17:24:11+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:23:42+00:00
+konverterad: 2026-11-20T11:23:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -925,9 +925,9 @@ Bilaga 4. Sammanställning analysresultat grundvatten
 
 [Tabell 23-1](handlingar-bostader-i-ragelund-oversiktlig-miljoteknisk-markundersokning.tabeller/23-1.csv)
 
-| GRUNDVATTENANALYSER<br>LÖSTA METALLER |  | Klassindelning enligt bedömningsgrunder SGU 1) |  |  |  |  |  |  |  |
+| GRUNDVATTENANALYSER |  | Klassindelning enligt bedömningsgrunder SGU 1) |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|  | Datum | 20-12-14 | 20-12-14 | 20-12-14 | 1<br>Mycket låg<br>halt | 2<br>Låg halt | 3<br>Måttlig halt | 4<br>Hög halt | 5<br>Mycket hög<br>halt |
+| LÖSTA METALLER | Datum | 20-12-14 | 20-12-14 | 20-12-14 | 1<br>Mycket låg<br>halt | 2<br>Låg halt | 3<br>Måttlig halt | 4<br>Hög halt | 5<br>Mycket hög<br>halt |
 |  | Provpunkt | 20GS02 | 20GS03 | 20GS04 |  |  |  |  |  |
 | Arsenik, As | µg/l | 1,93 | 4,18 | 10,1 | <1 | 1-2 | 2-5 | 5-10 | ≥10 |
 | Barium, Ba | µg/l | 17,7 | 42,7 | 16,5 | -- | -- | -- | -- | -- |
@@ -948,8 +948,9 @@ Bilaga 4. Forts.
 
 [Tabell 24-1](handlingar-bostader-i-ragelund-oversiktlig-miljoteknisk-markundersokning.tabeller/24-1.csv)
 
-| GRUNDVATTENANALYSER<br>KLORERADE PESTICIDER (µg/l) |  |  |  |
+| GRUNDVATTENANALYSER |  |  |  |
 | --- | --- | --- | --- |
+| KLORERADE PESTICIDER (µg/l) |  |  |  |
 | Datum | 2020-12-14 | 2020-12-14 | 2020-12-14 |
 | Provpunkt | 20GS02 | 20GS03 | 20GS04 |
 | alaklor | <0,010 | <0,010 | <0,010 |

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.120e6b95196c7fa447f75338/1747639303
 sha256: 661e8af10b872bb971aaa2f242bba87e62ef18eab554d32e6da1b3793a3ce973
 bytes: 2384831
 sidor: 47
-hamtad: 2026-11-13T17:24:48+00:00
-konverterad: 2026-11-13T17:25:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:24:42+00:00
+konverterad: 2026-11-20T11:25:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ocr, ok, ej-konverterad]
@@ -3104,8 +3104,8 @@ C:\Users\jbm\Desktop\CPT Rågelund\2004.cpw 2020-12-08
 
 |  |  | CO |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | deM L LE Lv |  | L<br>v | L L v | deM<br>L D |  |
-|  | iS lC |  | iS | aS | iS | aS |
+| deM | L LE Lv |  | L<br>v | L L v | deM<br>L D |  |
+| iS | lC |  | iS | aS | iS | aS |
 
 <!-- sida 28 -->
 

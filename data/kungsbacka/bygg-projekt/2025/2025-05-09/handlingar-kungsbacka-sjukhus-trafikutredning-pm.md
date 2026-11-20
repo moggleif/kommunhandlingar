@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.5c2b30eb196b02d62dad29f/17467718090
 sha256: b929fc01c4da2315e9633b1671d0e9afb2bb4dac349c73738ed3baff407641ee
 bytes: 4466569
 sidor: 27
-hamtad: 2026-11-13T17:22:17+00:00
-konverterad: 2026-11-13T17:22:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:21:55+00:00
+konverterad: 2026-11-20T11:22:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -56,13 +56,13 @@ kungsbacka sjukhus/rapport/pm trafikutredning.docx
 Trafikutredning Kungsbacka sjukhus
 Uppdragsnr.: 108 50 10 Version: 1.1
 
-1.1   2023-09-25 Revidering             Alma Sjöö Viktor  Viktor
-Sköldstedt Sköldstedt
-1.0   2023-06-09 Slutversion            Alma Sjöö Viktor  Viktor
-Sköldstedt Sköldstedt
-0.9   2023-05-19 Granskningsversion     Alma Sjöö Viktor  Viktor
-Sköldstedt Sköldstedt
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.1
+
+1.0
+
+0.9
+
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
@@ -70,6 +70,17 @@ har, om inte annat avtalats, endast rätt att använda och kopiera redovisat upp
 https://norconsult365-                                2023-09-25 | Sida 3 av 27
 my.sharepoint.com/personal/viktor_skoldstedt_norconsult_com/documents/arbete/projekt/trafikutredning
 kungsbacka sjukhus/rapport/pm trafikutredning.docx
+
+[Tabell 3-1](handlingar-kungsbacka-sjukhus-trafikutredning-pm.tabeller/3-1.csv)
+
+| 2023-09-25 | Revidering | Alma Sjöö | Viktor | Viktor |
+| --- | --- | --- | --- | --- |
+|  |  |  | Sköldstedt | Sköldstedt |
+| 2023-06-09 | Slutversion | Alma Sjöö | Viktor | Viktor |
+|  |  |  | Sköldstedt | Sköldstedt |
+| 2023-05-19 | Granskningsversion | Alma Sjöö | Viktor | Viktor |
+|  |  |  | Sköldstedt | Sköldstedt |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 4 -->
 
@@ -502,8 +513,9 @@ kungsbacka sjukhus/rapport/pm trafikutredning.docx
 
 [Tabell 17-1](handlingar-kungsbacka-sjukhus-trafikutredning-pm.tabeller/17-1.csv)
 
-| Korsning | Belastningsgrad<br>nuläge | Belastningsgrad<br>år 2045 | Genomsnittskö<br>Nuläge (fordon) | Genomsnittskö<br>år 2045 (fordon) |
+| Korsning | Belastningsgrad | Belastningsgrad | Genomsnittskö | Genomsnittskö |
 | --- | --- | --- | --- | --- |
+|  | nuläge | år 2045 | Nuläge (fordon) | år 2045 (fordon) |
 | Söderåleden x Hällingsjövägen | 0,74 | 0,96 | 0,3 | 1,8 |
 | Söderåleden x Tölövägen | 0,70 | 1,27 | 0,4 | 23,2 |
 | Tölövägen x Infart äldreboende | 0,12 | - | 0,0 | - |
@@ -541,8 +553,9 @@ kungsbacka sjukhus/rapport/pm trafikutredning.docx
 
 [Tabell 18-1](handlingar-kungsbacka-sjukhus-trafikutredning-pm.tabeller/18-1.csv)
 
-| Korsning | Belastningsgrad<br>år 2045 | Genomsnittskö<br>år 2045 (fordon) |
+| Korsning | Belastningsgrad | Genomsnittskö |
 | --- | --- | --- |
+|  | år 2045 | år 2045 (fordon) |
 | Söderåleden x Tölövägen - Med exploatering | 1,27 | 23,2 |
 | Söderåleden x Tölövägen - Utan exploatering | 1,11 | 11,3 |
 
@@ -582,8 +595,9 @@ kungsbacka sjukhus/rapport/pm trafikutredning.docx
 
 [Tabell 19-1](handlingar-kungsbacka-sjukhus-trafikutredning-pm.tabeller/19-1.csv)
 
-| Korsning | Belastningsgrad<br>år 2045 | Genomsnittskö<br>år 2045 (fordon) |
+| Korsning | Belastningsgrad | Genomsnittskö |
 | --- | --- | --- |
+|  | år 2045 | år 2045 (fordon) |
 | Söderåleden x Tölövägen – Utan kapacitetshöjande åtgärd | 1,27 | 23,2 |
 | Söderåleden x Tölövägen – Med kapacitetshöjande åtgärd | 0,90 | 4,0 |
 
