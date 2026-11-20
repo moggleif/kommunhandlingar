@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ea12a3f17f1cb35690abbf/16456173764
 sha256: 7eaca34d8369a56deb55c2bd7710789bbf7ec8630e8168d0cb3386ecb160b9a6
 bytes: 19055347
 sidor: 26
-hamtad: 2026-11-13T16:04:48+00:00
-konverterad: 2026-11-13T16:05:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T09:53:57+00:00
+konverterad: 2026-11-20T09:55:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok]
@@ -219,7 +219,7 @@ Anneberg. Inriktningen för utvecklingsområdet är att komplettera området med
 arbetsplatser, service och rekreationsområden. Befintliga kvaliteter ska behållas och förstär-
 kas. Möjligheterna att gå och cykla inom utvecklingsområdena bör förbättras enligt ÖP06.
 
-I fördjupad översiktsplan (FÖP) för Anneberg-Älvsåker från 1995, se kartan nedan, anges
+I fördjupad översiktsplan (FÖP) för Anneberg-Alvsåker från 1995, se kartan nedan, anges
 
 Här ligger Anneberg
 

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.72941e9317f452787b62972a/1646833318
 sha256: 454836886b400fa113643af66dd3de40167a061396f23e77aea8cd6c93ff61bc
 bytes: 4105251
 sidor: 17
-hamtad: 2026-11-13T16:14:36+00:00
-konverterad: 2026-11-13T16:14:50+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:04:04+00:00
+konverterad: 2026-11-20T10:04:19+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: [11, 12, 13, 14, 15, 16, 17]
+figurer: [11, 12, 13, 14]
 tolkade: []
 granskad: null
 ---
@@ -507,77 +507,85 @@ TECKENFÖRKLARING
 BILBILAGA
 Fotografier
 
-Fastighet: Nötegången 2:207 samt del av 2:3, Särö, Kungsbacka kommun
-
 Project Nr 1666838              1/3
 
-[Tabell 15-1](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/15-1.csv)
+[Tabell 15-17-1](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/15-17-1.csv)
 
-| Fotonummer: | 1 |  |
+|  |  |  |
 | --- | --- | --- |
+| Fastighet: Nötegången 2:207 samt del av 2:3, Särö, Kungsbacka kommun |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 1 |  |
 | Datum: | 2016-10-18 |  |
 | Fotograf: | KF |  |
 | Bildtext: |  |  |
 | Vy framsida av lada inom del av Nötegången<br>2:3. |  |  |
-
-[Tabell 15-2](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/15-2.csv)
-
+|  |  |  |
+|  |  |  |
 | Fotonummer: | 2 |  |
-| --- | --- | --- |
 | Datum: | 2016-10-18 |  |
 | Fotograf: | KF |  |
 | Bildtext: |  |  |
 | Baksidan av ladan, betongplatta för uppsamling<br>av gödseluppsamling urin i ränna under mark till<br>öppen brunn/betongtank. |  |  |
-
-[Tabell 15-3](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/15-3.csv)
-
+|  |  |  |
+|  |  |  |
 | Fotonummer: | 3 |  |
-| --- | --- | --- |
 | Datum: | 2016-10-18 |  |
 | Fotograf: | KF |  |
 | Bildtext: |  |  |
 | Eternittak |  |  |
+|  |  |  |
+| Fastighet: Nötegången 2:207 samt del av 2:3, Särö, Kungsbacka kommun |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 4 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Vy utomhusytor på den västra delen av<br>Nötegången 2:3. |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 5 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Farmartank, 3 m3 med olja. Åker på<br>Nötegången 2:207 i bakgrunden. |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 6 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Uppställning traktorer öster om ladan, del av<br>Nötegången 2:3. |  |  |
+|  |  |  |
+| Fotonummer: | 8 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Förvaring bekämpningsmedel inomhus. |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 9 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Förvaring petroleumprodukter och etanol/sprit i<br>container öster om byggnaden. |  |  |
+|  |  |  |
+|  |  |  |
+| Fotonummer: | 10 |  |
+| Datum: | 2016-10-18 |  |
+| Fotograf: | KF |  |
+| Bildtext: |  |  |
+| Förvaring av olja och kemikalier i förråd. |  |  |
+|  |  |  |
 
 <!-- sida 16 -->
 
 BILBILAGA
 Fotografier
 
-Fastighet: Nötegången 2:207 samt del av 2:3, Särö, Kungsbacka kommun
-
 Project Nr 1666838              2/3
-
-[Tabell 16-1](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/16-1.csv)
-
-| Fotonummer: | 4 |  |
-| --- | --- | --- |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Vy utomhusytor på den västra delen av<br>Nötegången 2:3. |  |  |
-
-[Tabell 16-2](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/16-2.csv)
-
-| Fotonummer: | 5 |  |
-| --- | --- | --- |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Farmartank, 3 m3 med olja. Åker på<br>Nötegången 2:207 i bakgrunden. |  |  |
-
-[Tabell 16-17-3](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/16-17-3.csv)
-
-| Fotonummer: | 6 |  |
-| --- | --- | --- |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Uppställning traktorer öster om ladan, del av<br>Nötegången 2:3. |  |  |
-| Fotonummer: | 8 |  |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Förvaring bekämpningsmedel inomhus. |  |  |
 
 <!-- sida 17 -->
 
@@ -585,21 +593,3 @@ BILBILAGA
 Fotografier
 
 Project Nr 1666838              3/3
-
-[Tabell 17-1](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/17-1.csv)
-
-| Fotonummer: | 9 |  |
-| --- | --- | --- |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Förvaring petroleumprodukter och etanol/sprit i<br>container öster om byggnaden. |  |  |
-
-[Tabell 17-2](handlingar-bostader-i-notegang-miljogranskning-2016.tabeller/17-2.csv)
-
-| Fotonummer: | 10 |  |
-| --- | --- | --- |
-| Datum: | 2016-10-18 |  |
-| Fotograf: | KF |  |
-| Bildtext: |  |  |
-| Förvaring av olja och kemikalier i förråd. |  |  |
