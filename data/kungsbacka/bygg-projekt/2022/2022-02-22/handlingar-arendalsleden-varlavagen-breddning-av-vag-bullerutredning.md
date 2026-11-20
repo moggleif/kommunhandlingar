@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ea12a3f17f1cb35690151b/16455248459
 sha256: 9cd25fd817f33f8316b0533dc2a18e750e2d1fc0b6c90f9659eb09ff90779faa
 bytes: 2563899
 sidor: 18
-hamtad: 2026-11-13T15:27:55+00:00
-konverterad: 2026-11-13T15:28:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T02:55:13+00:00
+konverterad: 2026-11-20T02:55:32+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -156,11 +156,6 @@ figur 3 nedan.
 
 Tabell 1. Trafikmängder från mätningar samt uppräknade vägtrafikflöden till år
 2040\.
-Vägnamn       Mätningar Uppräknat Prognos Tung trafik Hastighet
-2013      2040     (ÅDT)   (%)       (km/h)
-(ÅDT)     (ÅDT)
-Stora Bäcksleden 6 200    8079      -        5       60
-Varlavägen      13 300    17 157 21 800      5       60
 
 Figur 3 Vägar i anslutning till det berörda området
 
@@ -168,6 +163,13 @@ Figur 3 Vägar i anslutning till det berörda området
 
 Bullerutredning Varlavägen etapp två, Kungsbacka
 Unr 1320048246
+
+[Tabell 6-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-bullerutredning.tabeller/6-1.csv)
+
+| Vägnamn | Mätningar<br>2013<br>(ÅDT) | Uppräknat<br>2040<br>(ÅDT) | Prognos<br>(ÅDT) | Tung trafik<br>(%) | Hastighet<br>(km/h) |
+| --- | --- | --- | --- | --- | --- |
+| Stora Bäcksleden | 6 200 | 8079 | - | 5 | 60 |
+| Varlavägen | 13 300 | 17 157 | 21 800 | 5 | 60 |
 
 <!-- sida 7 -->
 

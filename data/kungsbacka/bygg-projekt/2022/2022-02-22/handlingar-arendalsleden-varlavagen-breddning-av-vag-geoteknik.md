@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6ea12a3f17f1cb35690151d/16455248461
 sha256: cdeefa7056403e4269a6eca0d7bfe6208c9b1265e4168678320cd8f6f830429e
 bytes: 11740409
 sidor: 78
-hamtad: 2026-11-13T15:28:17+00:00
-konverterad: 2026-11-13T15:28:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:55:41+00:00
+konverterad: 2026-11-20T02:56:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ocr, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok]
@@ -59,8 +59,9 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 [Tabell 2-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknik.tabeller/2-1.csv)
 
-| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Katarina<br>Engerberg |
+| 1.0 | 2020-04-15 | Granskad handling | Elham | Katarina | Katarina |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  | Sokhango | Engerberg | Engerberg |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
@@ -1206,8 +1207,9 @@ Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera 
 
 [Tabell 30-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknik.tabeller/30-1.csv)
 
-| 1.0 | 2020-04-15 | Granskad handling | Elham<br>Sokhango | Katarina<br>Engerberg | Katarina<br>Engerberg |
+| 1.0 | 2020-04-15 | Granskad handling | Elham | Katarina | Katarina |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  | Sokhango | Engerberg | Engerberg |
 | Version | Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 31 -->
@@ -1440,8 +1442,9 @@ Utförda undersökningar finns lagrade digitalt på Norconsults GeoSuite-databas
 
 [Tabell 35-1](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknik.tabeller/35-1.csv)
 
-| Grundvattenrör | Avläsningsdatum | Avläst grundvattenyta (m från<br>my) |
+| Grundvattenrör | Avläsningsdatum | Avläst grundvattenyta (m från |
 | --- | --- | --- |
+|  |  | my) |
 | NC04 | 2020-02-24 | 0,97 |
 | NC05 | 2020-02-24 | 0,90 |
 
@@ -2445,7 +2448,7 @@ Klassificering 0 10 20 30  40   50  60   70  80   90  100  110 120 0  10 20  30 
 9
 
 10
-
+Si   L
 N:\106\26\1062668\5 Arbetsmaterial\01 Dokument\G\Fältresultat\NC01.CPW 2020-02-10
 
 D jup (m )
@@ -2456,13 +2459,13 @@ D jup (m )
 | --- | --- | --- | --- |
 | Gr/Sa |  |  |  |
 | gyLe |  |  |  |
-| Cl<br>Si |  | vL | OC |
+| Cl |  | vL | OC |
 |  |  |  | NC |
 |  |  | EL |  |
 |  |  | vL |  |
 |  |  |  | NCSi |
 |  |  |  | NC |
-|  |  | M<br>L | OC |
+|  |  | M | OC |
 
 [Tabell 57-2](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknik.tabeller/57-2.csv)
 
@@ -3346,6 +3349,7 @@ Klassificering 0 10 20 30  40   50  60   70  80   90  100  110 120 0  10 20  30 
 
 8
 
+Sa  Med
 9
 N:\106\26\1062668\5 Arbetsmaterial\01 Dokument\G\Fältresultat\NC07.CPW 2020-02-10
 
@@ -3359,9 +3363,9 @@ D jup (m )
 | Cl |  |  | vL | OC |
 |  |  |  |  | NC |
 | Si |  |  | v L |  |
-| Cl<br>Sa |  |  | L | OC |
+| Cl |  |  | L | OC |
 |  |  |  |  | NC |
-|  |  |  | vL<br>Med |  |
+|  |  |  | vL |  |
 
 [Tabell 69-2](handlingar-arendalsleden-varlavagen-breddning-av-vag-geoteknik.tabeller/69-2.csv)
 

@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.485a7921a18c7685a93cd76/17936073268
 sha256: 6833eb90d91929492b37506c665688ce16831abf7850d4f9fabab627476ca1cd
 bytes: 29211151
 sidor: 667
-hamtad: 2026-11-10T02:24:51+00:00
-konverterad: 2026-11-10T02:27:18+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T02:46:20+00:00
+konverterad: 2026-11-20T02:48:52+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok]
 tal_obekraftade: [10, 11, 18, 24, 70, 180, 181, 182, 183, 450, 453, 454, 630, 666]
-figurer: [12, 13, 19, 22, 24, 32, 34, 35, 37, 38, 39, 42, 43, 47, 48, 53, 54, 56, 57, 58, 116, 174, 175, 176, 180, 181, 182, 183, 197, 203, 206, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 416, 420, 422, 424, 426, 427, 431, 432, 433, 434, 435, 436, 437, 441, 446, 450, 453, 454, 456, 460, 463, 464, 465, 467, 468, 469, 470, 479, 487, 496, 498, 499, 504, 505, 506, 507, 510, 511, 512, 513, 514, 515, 516, 517, 519, 544, 545, 629, 630, 666, 667]
+figurer: [12, 13, 19, 22, 24, 32, 38, 39, 42, 53, 56, 57, 58, 116, 174, 175, 176, 180, 181, 182, 183, 197, 203, 206, 372, 373, 374, 375, 376, 377, 378, 379, 380, 381, 382, 383, 384, 416, 420, 422, 424, 426, 427, 431, 432, 433, 434, 435, 436, 437, 441, 446, 450, 453, 454, 456, 460, 463, 464, 465, 467, 468, 469, 470, 479, 487, 496, 498, 499, 504, 505, 506, 507, 510, 511, 512, 513, 514, 515, 516, 517, 519, 544, 545, 629, 630, 666, 667]
 tolkade: []
 granskad: null
 ---
@@ -936,11 +936,6 @@ samt Ekstas koncern. Tabellen visar även prognos för kommunen och Eksta Bostad
 
 Belopp i miljoner kronor           2026-08-31          Prognos 2026
 
-Kungsbacka kommun                       542                   482
-Eksta Bostads AB (moderbolag)            35                    39
-
-Eksta Bostads AB (koncern)               38                     -
-
 2  Förvaltningsberättelse
 
 2.1 Händelser av väsentlig betydelse
@@ -978,6 +973,13 @@ Sveriges Kommuner och Regioner, SKR räknar med en svag tillväxt då det råder
 osäkerhet i omvärlden.
 
 Kungsbacka kommun          Delårsrapport 2026                   3
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Kungsbacka kommun | 542 | 482 |
+| --- | --- | --- |
+| Eksta Bostads AB (moderbolag) | 35 | 39 |
+| Eksta Bostads AB (koncern) | 38 | - |
 
 <!-- sida 35 -->
 
@@ -1022,8 +1024,6 @@ Pensioner
 
 Pensioner inklusive särskild löneskatt, miljoner 2025  Prognos 2026
 kronor
-Årets pensionskostnader i resultaträkningen ink 351           306
-pension förre 1998
 
 Vi förväntar oss att pensionskostnaderna minskar från 351 miljoner kronor år 2025 till 306 miljoner
 kronor år 2026, vilket innebär en minskning med cirka 45 miljoner kronor jämfört med föregående
@@ -1033,8 +1033,9 @@ Kungsbacka kommun          Delårsrapport 2026                   4
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
 
-| Summa pensionsförpliktelser i balansräkningen | 2 184 | 2 113 |
+| Årets pensionskostnader i resultaträkningen ink<br>pension förre 1998 | 351 | 306 |
 | --- | --- | --- |
+| Summa pensionsförpliktelser i balansräkningen | 2 184 | 2 113 |
 | varav avsättning pensioner före 1998 | 1 191 | 1 123 |
 | varav avsättning pensioner efter 1998 | 993 | 990 |
 
@@ -1104,7 +1105,6 @@ positivt av lägre räntekostnader.
 Prognos
 Skatter & generella statsbidrag, procent 2023 2024 2025
 2026
-Årlig förändring skatter & statsbidrag 4,4   2,3  3,4    3,1
 
 Kommunens huvudsakliga intäkter är skatteintäkter och statsbidrag och de kommer att öka med
 3,1 procent, vilket motsvarar 201 miljoner kronor. Skatteintäkterna ökar med 1,8 procent och
@@ -1146,8 +1146,9 @@ Kungsbacka kommun          Delårsrapport 2026                   6
 
 [Tabell 37-1](handlingar.tabeller/37-1.csv)
 
-| Årlig förändring nettokostnader | 14,2 | 1,4 | -0,4 | 5,9 |
+| Årlig förändring skatter & statsbidrag | 4,4 | 2,3 | 3,4 | 3,1 |
 | --- | --- | --- | --- | --- |
+| Årlig förändring nettokostnader | 14,2 | 1,4 | -0,4 | 5,9 |
 | Årlig förändring nettokostnader löpande verksamhet | 9,2 | 3,7 | -0,7 | 7,0 |
 | Årlig förändring nettokostnader inkl. finansiella poster | 15,4 | 1,5 | -1,9 | 5,6 |
 
@@ -1186,7 +1187,6 @@ självfinansieringsgraden 89 procent.
 Prognos Augusti
 Låneskuld, miljoner kronor    2022  2023  2024   2025
 2026   2026
-Låneskuld till banker och kreditinstitut 1 300 1 200 1 200 1 050 1 050 1 050
 
 Kommunen binder sina lån i enlighet med finanspolicyn. Räntekostnaden för låneskulden har de
 senaste åren legat på en relativt låg nivå beroende på lågt ränteläge men har börjat öka. Prognosen
@@ -1206,8 +1206,9 @@ Kungsbacka kommun          Delårsrapport 2026                   7
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| Varav skattekollektivet | 410 | 26 | -277 | -815 | -1 351 | -1 086 |
+| Låneskuld till banker och kreditinstitut | 1 300 | 1 200 | 1 200 | 1 050 | 1 050 | 1 050 |
 | --- | --- | --- | --- | --- | --- | --- |
+| Varav skattekollektivet | 410 | 26 | -277 | -815 | -1 351 | -1 086 |
 | Varav avgiftskollektiven | 890 | 1 174 | 1 477 | 1 865 | 2 401 | 2 136 |
 | Genomsnittlig upplåningsränta (%) | 0,7 | 1,3 | 1,4 | 1,9 | 2,4 | 2,4 |
 | Räntekostnad | 10 | 17 | 17 | 21 | 26 | 17 |
@@ -1220,8 +1221,7 @@ Soliditet
 augusti
 Kommunen, procent                   2022 2023 2024  2025
 2026
-Soliditet inklusive hela pensionsåtagandet 35,4 35,9 37,4 41,3 44,5
-¹Soliditet enligt blandmodellen      47,2 46,8 48,2 51,4    54,0
+
 ¹ Jämförelseposterna har rättats.
 
 Soliditeten anger hur stor del av kommunens tillgångar som är finansierade med eget kapital.
@@ -1245,11 +1245,6 @@ miljoner kronor, vilket bidrar positivt till kommunens resultat.
 Prognos
 Miljoner kronor                    2022 2023  2024 2025
 2026
-Avvikelse nämnder                   105   -53  51  143      21
-Avvikelse nämnder/verksamhetens kostnader 1,8 -0,8 0,8 2,2  0,3
-(%)
-
-Avvikelse årets resultat            552   99  272  344     162
 
 I prognosen räknar vi med att årets resultat blir 482 miljoner kronor, vilket är 162 miljoner kronor
 högre än budget. Större delen av plusresultatet finns inom finansverksamheten. Resultatet från
@@ -1267,6 +1262,19 @@ har varit stor. Bolaget har genomfört förhandlingar om 2026 års bostadshyror,
 en genomsnittlig höjning på 3,4 procent.
 
 Kungsbacka kommun          Delårsrapport 2026                   8
+
+[Tabell 39-1](handlingar.tabeller/39-1.csv)
+
+| Soliditet inklusive hela pensionsåtagandet | 35,4 | 35,9 | 37,4 | 41,3 | 44,5 |
+| --- | --- | --- | --- | --- | --- |
+| ¹Soliditet enligt blandmodellen | 47,2 | 46,8 | 48,2 | 51,4 | 54,0 |
+
+[Tabell 39-2](handlingar.tabeller/39-2.csv)
+
+| Avvikelse nämnder | 105 | -53 | 51 | 143 | 21 |
+| --- | --- | --- | --- | --- | --- |
+| Avvikelse nämnder/verksamhetens kostnader<br>(%) | 1,8 | -0,8 | 0,8 | 2,2 | 0,3 |
+| Avvikelse årets resultat | 552 | 99 | 272 | 344 | 162 |
 
 <!-- sida 40 -->
 
@@ -1318,7 +1326,7 @@ Kungsbacka kommun          Delårsrapport 2026                   9
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. |  |
 | Kungsbacka har välkomnande och trygga miljöer. |  |
@@ -1442,9 +1450,6 @@ Kungsbacka kommun          Delårsrapport 2026                  11
 
 Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och 
 främjar biologisk mångfald.
-Kungsbacka ska verka för ett socialt hållbart samhälle.   –
-
-Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.     –
 
 Prognos måluppfyllelse
 
@@ -1493,6 +1498,12 @@ investeringarna i VA-systemet fortsätter, däribland utbyggnaden av Hammargård
 
 Kungsbacka kommun          Delårsrapport 2026                  12
 
+[Tabell 43-1](handlingar.tabeller/43-1.csv)
+
+| Kungsbacka ska verka för ett socialt hållbart samhälle. | – |
+| --- | --- |
+| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | – |
+
 <!-- sida 44 -->
 
 har anpassat skötseln av utemiljöer för att gynna naturligt förekommande arter och hushålla med
@@ -1529,50 +1540,49 @@ valdeltagande och hälsa.
 
 Kungsbacka kommun          Delårsrapport 2026                  13
 
-[Tabell 44-1](handlingar.tabeller/44-1.csv)
+[Tabell 44-45-1](handlingar.tabeller/44-45-1.csv)
 
 | Indikator | 2023 | 2024 | 2025 | Q2 2026 | Mål |
 | --- | --- | --- | --- | --- | --- |
-| Total debiterad vattenförbrukning<br>fördelat på antal anslutna till<br>vattenledningsnätet. (Här ingår<br>förbrukning från hushåll, kommunen<br>och privata verksamheter).<br>Liter/person och dygn | 186 | 190 | 186 | \* | minska |
-| Vattenförbrukning för hushåll<br>anslutna till<br>vattenledningsnätet. Liter/person och<br>dygn. | 134 | 132 | 125 | \* | minska |
-| Fossiloberoende personbilar, andel<br>av totalt antal bilar i det geografiska<br>området, (Kolada) | 24,1 % | 26,5 % | 29,3 % | \* | öka |
-| Matens klimatpåverkan från de<br>offentliga måltiderna ska minska<br>räknat i kg CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0 år 2030. | 1,79 | 1,85 | 1,54 | 1,59\*\* | minska |
+| Total debiterad vattenförbrukning<br>fördelat på antal anslutna till | 186 | 190 | 186 | \* | minska |
+| vattenledningsnätet. (Här ingår |  |  |  |  |  |
+| förbrukning från hushåll, kommunen |  |  |  |  |  |
+| och privata verksamheter). |  |  |  |  |  |
+| Liter/person och dygn |  |  |  |  |  |
+| Vattenförbrukning för hushåll<br>anslutna till | 134 | 132 | 125 | \* | minska |
+| vattenledningsnätet. Liter/person och |  |  |  |  |  |
+| dygn. |  |  |  |  |  |
+| Fossiloberoende personbilar, andel<br>av totalt antal bilar i det geografiska | 24,1 % | 26,5 % | 29,3 % | \* | öka |
+| området, (Kolada) |  |  |  |  |  |
+| Matens klimatpåverkan från de<br>offentliga måltiderna ska minska | 1,79 | 1,85 | 1,54 | 1,59\*\* | minska |
+| räknat i kg CO2-ekv/kg livsmedel. |  |  |  |  |  |
+| Målsättningen är 1,0 år 2030. |  |  |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive | 115 | 151 | 162 | 182\*\*\* | minska |
+| hormonstörande ämnen på SIN- |  |  |  |  |  |
+| listan ska minska i kommunens |  |  |  |  |  |
+| verksamheter. 2021 var antalet 124 |  |  |  |  |  |
+| (KEMgroup PRO) |  |  |  |  |  |
+| Avfall från hushåll ska minska med<br>30% per invånare från 2020 till 2030. | 92,0 | 91,9 | 92,4 | \* | minska |
+| Startvärde 100, målvärde 2030 är |  |  |  |  |  |
+| 70. |  |  |  |  |  |
+| Ekologisk status i<br>Kungsbackafjorden (VISS) | måttlig | måttlig | måttlig | måttlig | god |
+| Vattendrag med god ekologisk<br>status, andel (Kolada) | 18,5 | 18,5 | 18,5 | 18,5 | öka |
+| Andelen återbrukade möbler | \* | \* | 2 % | \* | öka |
+| Ungas hälsa i årskurs 4 och 8 –<br>Flickor. (Elevhälsan i Kungsbacka | Åk 4: 85%,<br>Åk 8: 79%, | Åk 4: 85%,<br>Åk 8: 73%, | Åk 4: 87%,<br>Åk 8: 75%, | \* | öka |
+| utvecklar metod utifrån hälsosamtal |  |  |  |  |  |
+| med elever) |  |  |  |  |  |
+|  | Åk 1 | Åk 1 | Åk 1 |  |  |
+|  | gymnasiet: | gymnasiet: | gymnasiet: \* |  |  |
+|  | 73% | 75% |  |  |  |
+| Ungas hälsa i årskurs 4 och 8 –<br>Pojkar. (Elevhälsan i Kungsbacka | Åk 4: 91%<br>Åk 8: 92% | k 4: 89%<br>Åk 8: 89% | Åk 4: 88%<br>Åk 8: 89% | \* | öka |
+| utvecklar metod utifrån hälsosamtal |  |  |  |  |  |
+| med elever) |  |  |  |  |  |
+|  | Åk 1 | Åk 1 | Åk 1 |  |  |
+|  | gymnasiet: | gymnasiet: | gymnasiet: \* |  |  |
+|  | 86% | 88% |  |  |  |
 
 <!-- sida 45 -->
 
-Antal kemiska produkter med 115 151    162      182\*\*\*  minska
-utfasningsämnen, inklusive
-hormonstörande ämnen på SIN-
-listan ska minska i kommunens
-verksamheter. 2021 var antalet 124
-(KEMgroup PRO)
-Avfall från hushåll ska minska med 92,0 91,9 92,4 \*     minska
-30% per invånare från 2020 till 2030.
-Startvärde 100, målvärde 2030 är
-70\.
-
-Ekologisk status i     måttlig måttlig måttlig  måttlig god
-Kungsbackafjorden (VISS)
-Vattendrag med god ekologisk 18,5 18,5 18,5     18,5    öka
-status, andel (Kolada)
-
-Andelen återbrukade möbler \*   \*       2 %      \*       öka
-Ungas hälsa i årskurs 4 och 8 – Åk 4: 85%, Åk 4: 85%, Åk 4: 87%, \* öka
-Flickor. (Elevhälsan i Kungsbacka
-Åk 8: 79%, Åk 8: 73%, Åk 8: 75%,
-utvecklar metod utifrån hälsosamtal
-med elever)
-Åk 1    Åk 1    Åk 1
-gymnasiet: gymnasiet: gymnasiet: \*
-73%     75%
-Ungas hälsa i årskurs 4 och 8 – Åk 4: 91% k 4: 89% Åk 4: 88% \* öka
-Pojkar. (Elevhälsan i Kungsbacka
-Åk 8: 92% Åk 8: 89% Åk 8: 89%
-utvecklar metod utifrån hälsosamtal
-med elever)
-Åk 1    Åk 1    Åk 1
-gymnasiet: gymnasiet: gymnasiet: \*
-86%     88%
 \*) Ännu ej publicerad.
 \*\*) Januari-juli
 \*\*\*) 27 produkter är utgående eller har utgått hos leverantör, och ska alltså fasas ut, men finns fortfarande i verksamheten. 84 produkter har
@@ -1591,7 +1601,7 @@ Kungsbacka kommun          Delårsrapport 2026                  14
 
 [Tabell 45-1](handlingar.tabeller/45-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. | – |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. |  |
@@ -1639,8 +1649,13 @@ Kungsbacka kommun          Delårsrapport 2026                  15
 
 | Indikator | 2023 | 2024 | 2025 | 2026 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- | --- |
-| Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån<br>sammanvägt betygsindex 0–100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilken är en viktig del av<br>företagsklimatet. | 67 | 64 | 62 | \* | öka |
-| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag<br>bedömer företagsklimatet i Kungsbacka kommun. | 3,4 | 3,8 | 3,6 | 3,7 | öka |
+| Insikt, SKR:s servicemätning av kommunernas<br>myndighetsutövning till företag. Nöjd kund-index utifrån | 67 | 64 | 62 | \* | öka |
+| sammanvägt betygsindex 0–100, för hur företag i |  |  |  |  |  |
+| kommunen bedömer Kungsbacka kommuns |  |  |  |  |  |
+| myndighetsutövning, vilken är en viktig del av |  |  |  |  |  |
+| företagsklimatet. |  |  |  |  |  |
+| Svenskt näringslivs attitydundersökning av kommuners<br>företagsklimat. Medelvärde utifrån skala 1–6, där företag | 3,4 | 3,8 | 3,6 | 3,7 | öka |
+| bedömer företagsklimatet i Kungsbacka kommun. |  |  |  |  |  |
 | Sysselsatt dagbefolkning, antal (Kolada) | 28 586 | 28 426 | \* | \* | öka |
 | Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 4,9 % | 4,9 % | \* | \* | 5,0 % |
 | Företagsamhet, andel av invånare 16 - 74 år | 18,6 % | 18,6 % | \* | \* | öka |
@@ -1654,8 +1669,6 @@ etableringsfrekvens (Kolada)
 2.5.4 Mål: I Kungsbacka utvecklas vi hela livet
 
 Fokusområden                                            Trend
-Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. –
-I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. 
 
 Prognos måluppfyllelse
 
@@ -1703,6 +1716,12 @@ Antalet personer i arbetsmarknadsprocessen ligger fortsatt på en låg nivå, ä
 
 Kungsbacka kommun          Delårsrapport 2026                  16
 
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+| Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
+| --- | --- |
+| I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. |  |
+
 <!-- sida 48 -->
 
 har skett under perioden. Inflödet under våren har samtidigt varit relativt lågt under våren, bland
@@ -1731,13 +1750,6 @@ unga.
 2.5.5 Mål: Ett medskapande samhälle och en öppen attityd
 
 Fokusområden                                            Trend
-I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det 
-goda livet.
-
-Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i –
-kontakt med kommunen.
-Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande –
-medarbetare och ledare.
 
 Prognos måluppfyllelse
 
@@ -1750,11 +1762,21 @@ Kungsbacka kommun          Delårsrapport 2026                  17
 
 | Indikator | 2023 | 2024 | 2025 | 2026 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- | --- |
-| Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen i<br>elevens slutbetyg och kan max vara 340. (Kolada) | 237 | 238 | 231,9 | \* | öka |
-| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20.<br>(Kolada) | 14,3 | 14,0 | 14,0 | \* | öka |
+| Genomsnittligt meritvärde för grundskolans årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa betygen i | 237 | 238 | 231,9 | \* | öka |
+| elevens slutbetyg och kan max vara 340. (Kolada) |  |  |  |  |  |
+| Genomsnittlig betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20. | 14,3 | 14,0 | 14,0 | \* | öka |
+| (Kolada) |  |  |  |  |  |
 | Arbetslöshet 16–24 år i kommunen, procent (Kolada) | 1,7 | 2,3 | \* | \* | minska |
 | Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Kolada) | 325 | 306 | 342 | \* | minska |
-| Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd, procent (Kolada) | 73 | 75 | \* | \* | öka |
+| Andel vuxna personer som inte återkommer till<br>försörjningsstöd inom ett år efter avslutat | 73 | 75 | \* | \* | öka |
+| försörjningsstöd, procent (Kolada) |  |  |  |  |  |
+
+[Tabell 48-2](handlingar.tabeller/48-2.csv)
+
+| I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. |  |
+| --- | --- |
+| Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
+| Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande<br>medarbetare och ledare. | – |
 
 <!-- sida 49 -->
 
@@ -1865,8 +1887,12 @@ Kungsbacka kommun          Delårsrapport 2026                  19
 
 | Indikator | 2023 | 2024 | 2025 | 2026 | Målsättning<br>2026 |
 | --- | --- | --- | --- | --- | --- |
-| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1–100 enligt<br>Medarbetarenkäten. | 76 | 75 | \* |  | öka |
-| Jämställdhetsindex, Jämix. Antal poäng av max<br>180. Jämix beräknas utifrån nio nyckeltal med skala 1–<br>20 och visar hur jämställda arbetsvillkor, arbetsmiljö<br>och anställningsvillkor är i organisationen | 122 | 124 | 127 |  | öka |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena | 76 | 75 | \* |  | öka |
+| motivation, ledarskap och styrning, skala 1–100 enligt |  |  |  |  |  |
+| Medarbetarenkäten. |  |  |  |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av max<br>180. Jämix beräknas utifrån nio nyckeltal med skala 1– | 122 | 124 | 127 |  | öka |
+| 20 och visar hur jämställda arbetsvillkor, arbetsmiljö |  |  |  |  |  |
+| och anställningsvillkor är i organisationen |  |  |  |  |  |
 
 <!-- sida 51 -->
 
@@ -2059,7 +2085,6 @@ Balanskravsutredningen i delårsbokslutet är gjord utifrån prognosen för 2026
 Prognos
 Balanskravsutredning, miljoner kronor           2025
 2026
-Årets resultat enligt resultaträkningen (fullfondsmodellen) 604 482
 
 2.8 Väsentliga personalförhållanden
 Analys av personalmått
@@ -2079,8 +2104,9 @@ Kungsbacka kommun          Delårsrapport 2026                  23
 
 [Tabell 54-1](handlingar.tabeller/54-1.csv)
 
-| Pensionsförpliktelser före 1998 | -38 | -68 |
+| Årets resultat enligt resultaträkningen (fullfondsmodellen) | 604 | 482 |
 | --- | --- | --- |
+| Pensionsförpliktelser före 1998 | -38 | -68 |
 | Årets resultat enligt blandmodellen | 567 | 413 |
 | - Samtliga realisationsvinster | -2 | 0 |
 | +Realisationsvinster enligt undantagsmöjlighet | - | - |
@@ -2412,27 +2438,35 @@ kronor.
 
 I tabellen nedan framgår bruttoinvesteringarna för respektive nämnd.
 
-Nämnd (belopp i miljoner Delår Delår  Budget            Prognos Avvikelse
-Prognos 2026
-
-```osaker-tabell
-kronor)                2025    2026    2026            avvikelse  procent
-Kommunstyrelsen          0,0    0,0     8,0       8,0      0,0     0,0%
-
-Gymnasium & Arbetsmarknad 3,3   1,4     6,9       6,9      0,0     0,0%
-
-Kultur & Fritid          2,6   13,9    38,7      30,6      8,1    20,9%
-Förskola & Grundskola    5,0    7,1    15,0      15,0      0,0     0,0%
-
-Teknik Skatt            33,8   40,2    152,2    111,4     40,8    26,8%
-```
-
--varav Teknik Skatt
-exploatering            11,1   18,1    63,2      28,3     34,9    55,2%
-(anläggningstillgångar)\*
-Service                 86,5  130,6    319,9    291,6     28,3     8,8%
-
 Kungsbacka kommun          Delårsrapport 2026                  30
+
+[Tabell 61-62-1](handlingar.tabeller/61-62-1.csv)
+
+| Nämnd (belopp i miljoner<br>kronor) | Delår<br>2025 | Delår<br>2026 | Budget<br>2026 | Prognos 2026 | Prognos<br>avvikelse | Avvikelse<br>procent |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kommunstyrelsen | 0,0 | 0,0 | 8,0 | 8,0 | 0,0 | 0,0% |
+| Gymnasium & Arbetsmarknad | 3,3 | 1,4 | 6,9 | 6,9 | 0,0 | 0,0% |
+| Kultur & Fritid | 2,6 | 13,9 | 38,7 | 30,6 | 8,1 | 20,9% |
+| Förskola & Grundskola | 5,0 | 7,1 | 15,0 | 15,0 | 0,0 | 0,0% |
+| Teknik Skatt | 33,8 | 40,2 | 152,2 | 111,4 | 40,8 | 26,8% |
+| -varav Teknik Skatt<br>exploatering<br>(anläggningstillgångar)\* | 11,1 | 18,1 | 63,2 | 28,3 | 34,9 | 55,2% |
+| Service | 86,5 | 130,6 | 319,9 | 291,6 | 28,3 | 8,8% |
+| -varav finansiell leasing | 0,5 | -1,3 | 0,0 | -0,4 | 0,4 |  |
+| Byggnadsnämnden | 0,1 | 0,0 | 2,9 | 1,7 | 1,2 | 41,4% |
+| Individ & Familjeomsorg | 0,4 | 1,4 | 2,5 | 2,0 | 0,5 | 20,0% |
+| Vård & Omsorg | 2,2 | 4,0 | 24,4 | 8,7 | 15,7 | 64,3% |
+| Finansiering lokalplan | 0,0 | 0,0 | 31,2 | 5,0 | 26,2 | 84,0% |
+| Finans | 0,0 | 0,2 | 40,5 | 18,0 | 22,5 | 55,6% |
+| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 6,6 | 0,0 | 68,9 | 8,5 | 60,4 | 87,7% |
+| Summa skattefinansierad<br>verksamhet | 140,5 | 198,8 | 711,1 | 507,4 | 203,7 | 28,6% |
+| Vatten & Avlopp | 232,2 | 322,5 | 850,3 | 620,1 | 230,2 | 27,1% |
+| Avfall & Återvinning | 0,7 | 1,3 | 65,0 | 2,7 | 62,3 | 95,8% |
+| Kungsbacka Bredbandsnät | 13,7 | 7,8 | 27,5 | 13,9 | 13,6 | 49,5% |
+| Summa avgiftsfinansierad<br>verksamhet | 246,6 | 331,6 | 942,8 | 636,7 | 306,1 | 32,5% |
+| Summa investeringar brutto | 387,1 | 530,4 | 1 653,9 | 1 144,1 | 509,8 | 30,8% |
+| varav finansiell leasing | 0,5 | -1,3 | 0,0 | -0,4 | 0,4 |  |
+| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
+| Summa investeringar brutto<br>exklusive finansiell leasing<br>och gåvor | 386,6 | 531,7 | 1 653,9 | 1 144,5 | 509,4 | 30,8% |
 
 <!-- sida 62 -->
 
@@ -2460,26 +2494,6 @@ består till största delen av oförutsedda medel för lokaler som vi i inte kom
 nystartade projekt uppstår inte behov av tillfälliga lösningar i samma utsträckning. I år har hittills
 
 Kungsbacka kommun          Delårsrapport 2026                  31
-
-[Tabell 62-1](handlingar.tabeller/62-1.csv)
-
-| -varav finansiell leasing | 0,5 | -1,3 | 0,0 | -0,4 | 0,4 |  |
-| --- | --- | --- | --- | --- | --- | --- |
-| Byggnadsnämnden | 0,1 | 0,0 | 2,9 | 1,7 | 1,2 | 41,4% |
-| Individ & Familjeomsorg | 0,4 | 1,4 | 2,5 | 2,0 | 0,5 | 20,0% |
-| Vård & Omsorg | 2,2 | 4,0 | 24,4 | 8,7 | 15,7 | 64,3% |
-| Finansiering lokalplan | 0,0 | 0,0 | 31,2 | 5,0 | 26,2 | 84,0% |
-| Finans | 0,0 | 0,2 | 40,5 | 18,0 | 22,5 | 55,6% |
-| Exploateringsverksamhet\*<br>(Anläggningstillgångar) | 6,6 | 0,0 | 68,9 | 8,5 | 60,4 | 87,7% |
-| Summa skattefinansierad<br>verksamhet | 140,5 | 198,8 | 711,1 | 507,4 | 203,7 | 28,6% |
-| Vatten & Avlopp | 232,2 | 322,5 | 850,3 | 620,1 | 230,2 | 27,1% |
-| Avfall & Återvinning | 0,7 | 1,3 | 65,0 | 2,7 | 62,3 | 95,8% |
-| Kungsbacka Bredbandsnät | 13,7 | 7,8 | 27,5 | 13,9 | 13,6 | 49,5% |
-| Summa avgiftsfinansierad<br>verksamhet | 246,6 | 331,6 | 942,8 | 636,7 | 306,1 | 32,5% |
-| Summa investeringar brutto | 387,1 | 530,4 | 1 653,9 | 1 144,1 | 509,8 | 30,8% |
-| varav finansiell leasing | 0,5 | -1,3 | 0,0 | -0,4 | 0,4 |  |
-| varav gåvor | 0,0 | 0,0 | 0,0 | 0,0 | 0,0 |  |
-| Summa investeringar brutto<br>exklusive finansiell leasing<br>och gåvor | 386,6 | 531,7 | 1 653,9 | 1 144,5 | 509,4 | 30,8% |
 
 <!-- sida 63 -->
 
@@ -2586,13 +2600,13 @@ Kungsbacka kommun          Delårsrapport 2026                  33
 
 [Tabell 64-2](handlingar.tabeller/64-2.csv)
 
-| Miljoner kronor Projekt | Ack utfall totalt tom aug 2026 | Budget 2026 | Prognos 2026 | Avvikelse 2026 | Prognos för projekt | Budget för projekt | Avvikelse totalt |
+| Miljoner kronor<br>Projekt | Ack utfall<br>totalt tom<br>aug 2026 | Budget<br>2026 | Prognos<br>2026 | Avvikelse<br>2026 | Prognos<br>för<br>projekt | Budget<br>för<br>projekt | Avvikelse<br>totalt |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Framtidens reningsverk | -167,0 | -481,7 | -290,0 | 191,7 | -1 637,0 | -1 655,0 | 18,0 |
+| Framtidens<br>reningsverk | -167,0 | -481,7 | -290,0 | 191,7 | -1 637,0 | -1 655,0 | 18,0 |
 | Kungsbacka Arena | -61,0 | -85,0 | -70,4 | 14,6 | -627,0 | -627,0 | 0,0 |
-| Liljans skola och idrottssal | -4,1 | -16,5 | -36,2 | -19,7 | -224,9 | -224,9 | 0,0 |
-| Reinvestering VA- ledningar | -36,9 | -72,2 | -75,6 | -3,4 | -1 370,7 | -1 370,7 | 0,0 |
-| Varlavägen fyra körfält | -2,5 | -6,0 | -6,0 | 0,0 | -82,5 | -82,5 | 0,0 |
+| Liljans skola och<br>idrottssal | -4,1 | -16,5 | -36,2 | -19,7 | -224,9 | -224,9 | 0,0 |
+| Reinvestering VA-<br>ledningar | -36,9 | -72,2 | -75,6 | -3,4 | -1 370,7 | -1 370,7 | 0,0 |
+| Varlavägen fyra<br>körfält | -2,5 | -6,0 | -6,0 | 0,0 | -82,5 | -82,5 | 0,0 |
 
 <!-- sida 65 -->
 
@@ -4426,8 +4440,11 @@ Kungsbacka kommun                Avfallstaxa                   29 (40)
 
 [Tabell 107-1](handlingar.tabeller/107-1.csv)
 
-| Material | Maxtaxa kronor/ton<br>(hämtning<br>i container) | Maxtaxa kronor/<br>kubikmeter<br>(hämtning i<br>storsäck) |
+| Material | Maxtaxa kronor/ton<br>(hämtning | Maxtaxa kronor/<br>kubikmeter |
 | --- | --- | --- |
+|  |  | (hämtning i |
+|  | i container) |  |
+|  |  | storsäck) |
 | Trä (ej impregnerat) | 1 150 | 576 |
 | Mineral (som består av sten, tegel, betong,<br>klinker eller keramik) | 2 961 | 2 964 |
 | Metall | 359 | 180 |
@@ -5737,14 +5754,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
 
 [Tabell 138-1](handlingar.tabeller/138-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -5966,7 +5982,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 143 -->
 
@@ -6026,7 +6043,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 144 -->
 
@@ -6167,8 +6185,6 @@ Om huvudmannen har medgivit att spillvattenmängd avleds till dagvattenledning
 14.8
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift per nyckel                734 kr
-
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -6178,8 +6194,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 [Tabell 146-1](handlingar.tabeller/146-1.csv)
 
-| b) | En avgift per m³ hämtat dricksvatten | 29,36 kr |
+| a) | Årlig avgift per nyckel | 734 kr |
 | --- | --- | --- |
+| b) | En avgift per m³ hämtat dricksvatten | 29,36 kr |
 | c) | En avgift per m³ hämtat å-vatten\* | 5,60 kr |
 
 <!-- sida 147 -->
@@ -6188,9 +6205,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av Om 1,39 kr
-dagvatten
 
 § 16
 
@@ -6219,6 +6233,12 @@ En Grundavgift per år 14.1 a) 534 kr 534 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
 
+[Tabell 147-1](handlingar.tabeller/147-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | Om 1,39 kr |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 148 -->
 
 § 18
@@ -6227,7 +6247,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1 110 kr/säsong
 
 § 19
 
@@ -6256,8 +6275,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (15)
 
 [Tabell 148-1](handlingar.tabeller/148-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
+| Vinterförvaring | 1 110 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5 280 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2 640 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 210 kr/vecka |
@@ -6485,14 +6505,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (16)
 
 [Tabell 153-1](handlingar.tabeller/153-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -6714,7 +6733,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (16)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 158 -->
 
@@ -6774,7 +6794,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (16)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 159 -->
 
@@ -6938,9 +6959,6 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (16)
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
 
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten                                1,9 kr
-
 § 16
 
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -6964,11 +6982,19 @@ Grundavgiften. Följande avgifter ska därvid betalas för respektive ändamål:
 
 V      S     Df    Dg     Total avgift
 
-En Grundavgift per år 14.1 a) 480 kr 480 kr
-
-534 kr 534 kr
-
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (16)
+
+[Tabell 162-1](handlingar.tabeller/162-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten | 1,9 kr |
+
+[Tabell 162-2](handlingar.tabeller/162-2.csv)
+
+| En Grundavgift per år | 14.1 a) | 480 kr | 480 kr |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | 534 kr | 534 kr |  |  |  |
 
 <!-- sida 163 -->
 
@@ -6978,7 +7004,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            1 110 kr/säsong
 
 § 19
 
@@ -7006,8 +7031,9 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        14 (16)
 
 [Tabell 163-1](handlingar.tabeller/163-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
+| Vinterförvaring | 1 110 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2 640 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 5 280 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2 640 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 210 kr/vecka |
@@ -8351,15 +8377,12 @@ Avgift tas ut för nedan angivna ändamål:
 Ändamål                          Anläggningsavgift Brukningsavgift
 
 V, vattenförsörjning             Ja              Ja
+S, spillvattenavlopp             Ja              Ja
+
+Df, dag- och dränvattenavlopp från fastighet Ja  Ja
+Dg, dagvattenavlopp från allmän platsmark Ja     Ja
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
-
-[Tabell 187-1](handlingar.tabeller/187-1.csv)
-
-| S, spillvattenavlopp | Ja | Ja |
-| --- | --- | --- |
-| Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
-| Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
 <!-- sida 188 -->
 
@@ -8577,7 +8600,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 192 -->
 
@@ -8637,7 +8661,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 193 -->
 
@@ -8781,6 +8806,10 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                660 kr
 
+b) En avgift per m³ hämtat dricksvatten   26,40 kr
+
+c) En avgift per m³ hämtat å-vatten\*      5 kr
+
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -8788,21 +8817,12 @@ Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
-[Tabell 195-1](handlingar.tabeller/195-1.csv)
-
-| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
-| --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
-
 <!-- sida 196 -->
 
 § 15
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten
 
 § 16
 
@@ -8830,6 +8850,12 @@ V      S     Df    Dg    Total avgift
 En Grundavgift per år 14.1 a) 480 kr 480 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
+
+[Tabell 196-1](handlingar.tabeller/196-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten |  |
 
 <!-- sida 197 -->
 
@@ -9964,6 +9990,26 @@ presenterade för nämnden 13/5–2026.
 Alla nämnder
 Nämnd              Årsavgifter 25    Förändring Årsavgifter 27
 
+2 227 908 kr          - kr   2 227 908 kr
+Förskola & Grundskola
+
+121 704 kr           - kr     121 704 kr
+Gymnasie & Arbetsmarknad
+840 444 kr           - kr     840 444 kr
+
+Individ & Familjeomsorg
+58 860 kr          - kr      58 860 kr
+Kommunledningskontoret
+
+696 240 kr           - kr     696 240 kr
+Kultur & Fritid
+
+Service               1 864 416 kr     63 360 kr   1 927 776 kr
+
+Teknik (fr a VA)      2 329 320 kr    652 800 kr   2 982 120 kr
+632 628 kr           - kr     632 628 kr
+Vård & Omsorg
+
 Summa årsavgifter     8 771 520 kr    716 160 kr   9 487 680 kr
 
 Det förslag som presenterades 13/5–2026 var ett förslag på att justera produktutbud för kommunal
@@ -9975,18 +10021,6 @@ Mbit motsvarar tjänsten för 1Gbit/s och hanteras därför som denna.
 förslag;
 
 1\. Alternativ 1; En stegvis förändring från 2027 med fullständig justering 2028
-
-[Tabell 222-1](handlingar.tabeller/222-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | - kr | 2 227 908 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | - kr | 121 704 kr |
-| Individ & Familjeomsorg | 840 444 kr | - kr | 840 444 kr |
-| Kommunledningskontoret | 58 860 kr | - kr | 58 860 kr |
-| Kultur & Fritid | 696 240 kr | - kr | 696 240 kr |
-| Service | 1 864 416 kr | 63 360 kr | 1 927 776 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 652 800 kr | 2 982 120 kr |
-| Vård & Omsorg | 632 628 kr | - kr | 632 628 kr |
 
 <!-- sida 223 -->
 
@@ -10006,6 +10040,24 @@ Alla nämnder
 
 Nämnd                   Årsavgifter 25    Förändring      Årsavgifter 27
 
+2 227 908 kr     378 480 kr       2 606 388 kr
+Förskola & Grundskola
+121 704 kr       19 644 kr        141 348 kr
+Gymnasie & Arbetsmarknad
+
+840 444 kr       169 050 kr       1 009 494 kr
+Individ & Familjeomsorg
+696 240 kr       133 032 kr       829 272 kr
+Kultur & Fritid
+1 864 416 kr     718 206 kr       2 582 622 kr
+Service
+2 329 320 kr    1 155 228 kr      3 484 548 kr
+Teknik (fr a VA)
+Vård & Omsorg             632 628 kr       89 436 kr        722 064 kr
+
+58 860 kr       15 714 kr         74 574 kr
+Kommunledningskontoret
+
 8 771 520 kr     2 678 790 kr     11 450 310 kr
 Summa årsavgifter
 
@@ -10015,18 +10067,6 @@ av förändringar i produkter och priser.
 
 •  Förändringen består både av de nya produkter som presenterats för nollalternativet och
 justerade priser
-
-[Tabell 223-1](handlingar.tabeller/223-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | 378 480 kr | 2 606 388 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | 19 644 kr | 141 348 kr |
-| Individ & Familjeomsorg | 840 444 kr | 169 050 kr | 1 009 494 kr |
-| Kultur & Fritid | 696 240 kr | 133 032 kr | 829 272 kr |
-| Service | 1 864 416 kr | 718 206 kr | 2 582 622 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 1 155 228 kr | 3 484 548 kr |
-| Vård & Omsorg | 632 628 kr | 89 436 kr | 722 064 kr |
-| Kommunledningskontoret | 58 860 kr | 15 714 kr | 74 574 kr |
 
 <!-- sida 224 -->
 
@@ -10044,6 +10084,24 @@ Alla nämnder
 Årsavgifter 25    Förändring       Årsavgifter 27
 Nämnd
 
+2 227 908 kr      756 960 kr         2 984 868 kr
+Förskola & Grundskola
+121 704 kr        39 288 kr           160 992 kr
+Gymnasie & Arbetsmarknad
+840 444 kr        338 100 kr         1 178 544 kr
+Individ & Familjeomsorg
+696 240 kr        266 064 kr          962 304 kr
+Kultur & Fritid
+1 864 416 kr     1 436 412 kr        3 300 828 kr
+Service
+
+2 329 320 kr     2 310 456 kr        4 639 776 kr
+Teknik (fr a VA)
+632 628 kr        178 872 kr          811 500 kr
+Vård & Omsorg
+
+58 860 kr        31 428 kr           90 288 kr
+Kommunledningskontoret
 8 771 520 kr     5 357 580 kr        14 129 100 kr
 Summa årsavgifter
 
@@ -10053,18 +10111,6 @@ av förändringar i produkter och priser.
 
 •  Förändringen består av nya produkter och justerade priser
 •  En full förändring i pris och produktutbud till 2027
-
-[Tabell 224-1](handlingar.tabeller/224-1.csv)
-
-| Förskola & Grundskola | 2 227 908 kr | 756 960 kr | 2 984 868 kr |
-| --- | --- | --- | --- |
-| Gymnasie & Arbetsmarknad | 121 704 kr | 39 288 kr | 160 992 kr |
-| Individ & Familjeomsorg | 840 444 kr | 338 100 kr | 1 178 544 kr |
-| Kultur & Fritid | 696 240 kr | 266 064 kr | 962 304 kr |
-| Service | 1 864 416 kr | 1 436 412 kr | 3 300 828 kr |
-| Teknik (fr a VA) | 2 329 320 kr | 2 310 456 kr | 4 639 776 kr |
-| Vård & Omsorg | 632 628 kr | 178 872 kr | 811 500 kr |
-| Kommunledningskontoret | 58 860 kr | 31 428 kr | 90 288 kr |
 
 <!-- sida 225 -->
 
@@ -17617,20 +17663,29 @@ Fokusområden
 när vi behöver stöd för att få livet att fungera.
 
 Indikator                          2023   2024   2025   Målsättning 2027
-Antal färdigställda bostäder        319    324    601         Öka
-Anmälda brott mot brottsbalken per invånare, antal/100 000 6 475 6 541 6 313 Minska
+Antal färdigställda bostäder                                  Öka
+Anmälda brott mot brottsbalken per invånare, antal/100 000   Minska
 invånare (BRÅ)
-Invånare 16–84 år med avsaknad av tillit till andra \* 22 % \* Minska
+Invånare 16–84 år med avsaknad av tillit till andra          Minska
 (Folkhälsoenkäten)
-Brukarbedömning hemtjänst äldreomsorg, helhetssyn 91 % 88 % 88 % Öka
+Brukarbedömning hemtjänst äldreomsorg, helhetssyn             Öka
 (Kolada)
-Brukarbedömning särskilt boende äldreomsorg, helhetssyn 76 % 76 % 76 % Öka
+Brukarbedömning särskilt boende äldreomsorg, helhetssyn       Öka
 (Kolada)
 Brukarbedömning individ- och familjeomsorg totalt – \* 98 % 96 % Öka
 h elhetssyn (Kolada)
 \*) Undersökningen genomfördes inte detta år .
 
 Kommunbudget 2027 och plan 2028–2029 21
+
+[Tabell 432-1](handlingar.tabeller/432-1.csv)
+
+| 319 | 324 | 601 |
+| --- | --- | --- |
+| 6 475 | 6 541 | 6 313 |
+| \* | 22 % | \* |
+| 91 % | 88 % | 88 % |
+| 76 % | 76 % | 76 % |
 
 <!-- sida 433 -->
 
@@ -17646,23 +17701,23 @@ som också skyddar och främjar biologisk mångfald.
 • Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Indikatorer                            2023   2024    2025 Målsättning 2027
-Vattenförbrukning för hushåll anslutna till vattenledningsnätet. - 125 Minska
+Vattenförbrukning för hushåll anslutna till vattenledningsnätet. Minska
 Liter/person och dygn.
-Matens klimatpåverkan från de offentliga måltiderna ska minska 1,69 1,85 1,54 Minska
+Matens klimatpåverkan från de offentliga måltiderna ska minska Minska
 räknat i kg CO2-ekv/kg livsmedel. Målsättningen är 1,0 år 2030.
-Andelen elever som uppskattar maten i skolan. \* \*      \*        Öka
-Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, 74 75 75 Öka
+Andelen elever som uppskattar maten i skolan.                   Öka
+Brukarbedömning särskilt boende äldreomsorg – maten smakar bra, Öka
 andel (KOLADA)
-Avfall från hushåll ska minska med 30% per invånare från 2020 till 92 92 97 Minska
+Avfall från hushåll ska minska med 30% per invånare från 2020 till Minska
 2030\. Startvärde 100, målvärde 2030 är 70.
-Ekologisk status i Kungsbackafjorden (VISS) måttlig måttlig måttlig Öka
-Vattendrag med god ekologisk status, andel 18,5 % 18,5 % 18,5 % Öka
+Ekologisk status i Kungsbackafjorden (VISS)                     Öka
+Vattendrag med god ekologisk status, andel                      Öka
 (Källa: Kolada, VISS, Länsstyrelsen)
 Senaste mätvärdet är från 2021 och motsvarar 18,5 % \*\*
-Andelen återbrukade möbler               -      -     2 %       Öka
-Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Åk 4: 85% Åk 4: 85% Åk 4: 87% Öka
-(Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 79% Åk 8: 73% Åk 8: 75%
-Åk 1 gy: 73% Åk 1 gy: 75% Åk 1 gy: 79%
+Andelen återbrukade möbler                                      Öka
+Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Flickor Öka
+(Elevhälsan i Kungsbackas hälsosamtal med elever)
+
 Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91% Åk 4: 89% Åk 4: 88% Öka
 (Elevhälsan i Kungsbackas hälsosamtal med elever) Åk 8: 92% Åk 8: 89% Åk 8: 89%
 Åk 1 gy: 86% Åk 1 gy: 88% Åk 1 gy: 89%
@@ -17671,6 +17726,19 @@ Ungas hälsa i årskurs 4 och 8, samt årskurs 1 gymnasiet – Pojkar Åk 4: 91%
 och cykel 3 2017–2021. Det äret cykeln tar slut uppdateras med det slutgiltiga resultatet 5 år tillbaka.
 
 22 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 433-1](handlingar.tabeller/433-1.csv)
+
+| - | 125 |  |
+| --- | --- | --- |
+| 1,69 | 1,85 | 1,54 |
+| \* | \* | \* |
+| 74 | 75 | 75 |
+| 92 | 92 | 97 |
+| måttlig | måttlig | måttlig |
+| 18,5 % | 18,5 % | 18,5 % |
+| - | - | 2 % |
+| Åk 4: 85%<br>Åk 8: 79%<br>Åk 1 gy: 73% | Åk 4: 85%<br>Åk 8: 73%<br>Åk 1 gy: 75% | Åk 4: 87%<br>Åk 8: 75%<br>Åk 1 gy: 79% |
 
 <!-- sida 434 -->
 
@@ -17684,23 +17752,32 @@ Fokusområden
 och företag genom samverkan mellan näringsliv och utbildning.
 
 Indikator                          2023   2024   2025    Målsättning 2027
-Insikt, SKR:s servicemätning av kommunernas myndighets- 66 64 61 Öka
+Insikt, SKR:s servicemätning av kommunernas myndighets-         Öka
 utövning till företag. Nöjd kund-index utifrån sammanvägt
 betygsindex 0–100, för hur företag i kommunen bedömer
 Kungsbacka kommuns myndighetsutövning, vilken är en
 viktig del av företagsklimatet. \*
-Svenskt näringslivs attitydundersökning av kommuners 3,4 3,8 3,6 Öka
+Svenskt näringslivs attitydundersökning av kommuners            Öka
 företagsklimat. Medelvärde utifrån skala 1–6, där företag
 bedömer företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal (Kolada) 28 586 28 426 \*\*       Öka
-Andel av sysselsatt dagbefolkning inom Göteborgsregionen 4,9 % 4,9 % \*\* Öka
-Företagsamhet, andel av invånare 16–74 år 19 % \*\* \*\*            Öka
+Sysselsatt dagbefolkning, antal (Kolada)                        Öka
+Andel av sysselsatt dagbefolkning inom Göteborgsregionen        Öka
+Företagsamhet, andel av invånare 16–74 år                       Öka
 Småföretagarindex, ranking utifrån nio olika dimensioner av 32 1 2 Topp 10
 företagande (Källa: Småföretagarnas riksförbund)
 \*Samtliga år är beräknade enligt den nya officiella definitionen av NKI.
 \*\*Ännu ej publicerad.
 
 Kommunbudget 2027 och plan 2028–2029 23
+
+[Tabell 434-1](handlingar.tabeller/434-1.csv)
+
+| 66 | 64 | 61 |
+| --- | --- | --- |
+| 3,4 | 3,8 | 3,6 |
+| 28 586 | 28 426 | \*\* |
+| 4,9 % | 4,9 % | \*\* |
+| 19 % | \*\* | \*\* |
 
 <!-- sida 435 -->
 
@@ -17713,18 +17790,26 @@ Fokusområden
 • I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). 241 242 237 Öka
+Genomsnittligt meritvärde för grundskolans årskurs 9 (hemkommun). Öka
 Meritvärdet utgörs av summan av de 17 bästa betygen i elevens slut-
 betyg och kan max vara 340. (Källa: Kolada)
-Genomsnittlig betygspoäng, gymnasieelever med examen 15,1 15,0 14,9 Öka
+Genomsnittlig betygspoäng, gymnasieelever med examen           Öka
 (hemkommun) som kan vara max 20. (Källa: Kolada)
-Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) 1,7 % 2,3 % \* Minska
-Arbetslösa av befolkningen, 18–65 år (Källa: Kolada) 2,3 % 2,7 % 2,9 % Minska
+Arbetslöshet för ungdomar 16–24 år i kommunen (Källa: Kolada) Minska
+Arbetslösa av befolkningen, 18–65 år (Källa: Kolada)          Minska
 Kostnad utbetalt ekonomiskt bistånd, kr/inv. (Källa: Kolada) 325 306 \* Minska
 
 \* Ännu ej publicerad.
 
 24 Kommunbudget 2027 och plan 2028–2029
+
+[Tabell 435-1](handlingar.tabeller/435-1.csv)
+
+| 241 | 242 | 237 |
+| --- | --- | --- |
+| 15,1 | 15,0 | 14,9 |
+| 1,7 % | 2,3 % | \* |
+| 2,3 % | 2,7 % | 2,9 % |
 
 <!-- sida 436 -->
 
@@ -17741,9 +17826,9 @@ och korrekt bemötta i kontakt med kommunen.
 och medskapande medarbetare och ledare.
 
 Indikator                              2023   2024   2025 Målsättning 2027
-Antal engagerade i Go Kungsbacka        89     115    169       Öka
-Antal föreningar som ansöker om bidrag för medskapandeprojekt 34 29 52 Öka
-Andelen invånare som upplever ett gott bemötande i kontakt med \* \* 85 Öka
+Antal engagerade i Go Kungsbacka                                Öka
+Antal föreningar som ansöker om bidrag för medskapandeprojekt   Öka
+Andelen invånare som upplever ett gott bemötande i kontakt med  Öka
 tjänsteperson i kommunen (SCB medborgarundersökning)
 Andelen företagare som upplever ett gott bemötande i kontakt med Öka
 kommunen (SKR Insikt)
@@ -17756,6 +17841,15 @@ skala 1–100 enligt Medarbetarenkäten
 \*\*Undersökningen har ändrat frekvens och genomförs numera vartannat år.
 
 Kommunbudget 2027 och plan 2028–2029 25
+
+[Tabell 436-1](handlingar.tabeller/436-1.csv)
+
+| 89 | 115 | 169 |
+| --- | --- | --- |
+| 34 | 29 | 52 |
+| \* | \* | 85 |
+|  |  |  |
+|  |  |  |
 
 <!-- sida 437 -->
 
@@ -23823,62 +23917,15 @@ I SKR:s OPF-KR 26 anges en ny § 2 a som ger rätt att neka omställningsstöd o
 förtroendevalde döms till fängelse i två år eller mer. I Kungsbacka kommuns OPF-KR 25 har sedan
 tidigare funnits en reglering kring när den förtroendevalda förverkat sin rätt till omställningsinsatser
 och omställningsersättning.
+
 Nedan föreslås att Kungsbacka kommuns OPF-KR 26 har kvar den lokala skrivningen men att den
 flyttas till § 2 a, enlighet nedan:
 
-Kungsbacka kommun lokala OPF- SKR:s OPF-KR 26, kap 2 § 2 a
-KR 25, kap 2 § 1
+[Tabell 565-1](handlingar.tabeller/565-1.csv)
 
-En förtroendevalde som dömts för
-ett brott på vilket fängelse i lägst
-ett år kan följa och domen har fått
-laga kraft har inte rätt till aktiva
-omställningsinsatser, ekonomiskt
-omställningsstöd och förlängt
-ekonomiskt omställningsstöd om
-
-den förtroendevalde har lämnat
-sina politiska uppdrag.
-
-Nekad rätt till omställningsstöd
-enligt §§ 3–5
-
-Kommunfullmäktige får besluta
-att en förtroendevald inte ska
-beviljas omställningsstöd enligt
-§§ 3–5 i detta reglemente om den
-förtroendevalde har dömts för ett
-brott på vilket fängelse i lägst två
-år kan följa och domen har fått
-laga kraft.
-
-Anmärkning:
-Avseende nekad rätt till
-omställningsstöd utifrån ej beviljad
-ansvarsfrihet, se anmärkning till § 2a
-
-(sid 12) i Kommentar till
-bestämmelser om omställningsstöd,
-pension och familjeskydd för
-förtroendevalda (OPF-KR 26).
-
-Förslag:
-Kungsbacka kommuns OPF-KR
-26 kap 2 §2 a
-Nekad rätt till omställningsstöd
-enligt §§ 3–5
-
-En förtroendevalde som dömts
-för ett brott på vilket fängelse i
-lägst ett år kan följa och domen
-har fått laga kraft har inte rätt till
-aktiva omställningsinsatser,
-ekonomiskt omställningsstöd
-och förlängt ekonomiskt
-
-omställningsstöd om den
-förtroendevalde har lämnat sina
-politiska uppdrag.
+| Kungsbacka kommun lokala OPF-<br>KR 25, kap 2 § 1 | SKR:s OPF-KR 26, kap 2 § 2 a | Förslag:<br>Kungsbacka kommuns OPF-KR<br>26 kap 2 §2 a |
+| --- | --- | --- |
+| En förtroendevalde som dömts för<br>ett brott på vilket fängelse i lägst<br>ett år kan följa och domen har fått<br>laga kraft har inte rätt till aktiva<br>omställningsinsatser, ekonomiskt<br>omställningsstöd och förlängt<br>ekonomiskt omställningsstöd om<br>den förtroendevalde har lämnat<br>sina politiska uppdrag. | Nekad rätt till omställningsstöd<br>enligt §§ 3–5<br>Kommunfullmäktige får besluta<br>att en förtroendevald inte ska<br>beviljas omställningsstöd enligt<br>§§ 3–5 i detta reglemente om den<br>förtroendevalde har dömts för ett<br>brott på vilket fängelse i lägst två<br>år kan följa och domen har fått<br>laga kraft.<br>Anmärkning:<br>Avseende nekad rätt till<br>omställningsstöd utifrån ej beviljad<br>ansvarsfrihet, se anmärkning till § 2a<br>(sid 12) i Kommentar till<br>bestämmelser om omställningsstöd,<br>pension och familjeskydd för<br>förtroendevalda (OPF-KR 26). | Nekad rätt till omställningsstöd<br>enligt §§ 3–5<br>En förtroendevalde som dömts<br>för ett brott på vilket fängelse i<br>lägst ett år kan följa och domen<br>har fått laga kraft har inte rätt till<br>aktiva omställningsinsatser,<br>ekonomiskt omställningsstöd<br>och förlängt ekonomiskt<br>omställningsstöd om den<br>förtroendevalde har lämnat sina<br>politiska uppdrag. |
 
 <!-- sida 566 -->
 
@@ -23949,7 +23996,7 @@ administrativa skäl tagits bort.
 
 [Tabell 567-1](handlingar.tabeller/567-1.csv)
 
-| SKR:s OPF-KR 25 Kungsbackas OPF-KR 25 SKR:s OPF-KR 26 |  |  |
+| SKR:s OPF-KR 25 | Kungsbackas OPF-KR 25 | SKR:s OPF-KR 26 |
 | --- | --- | --- |
 | Omställningsersättningarna<br>enligt §§ 4 och 5 ska<br>samordnas/minskas med andra<br>förvärvsinkomster om inte<br>annat anges.<br>Det första årets utbetalning av<br>ekonomiskt omställningsstöd<br>samordnas inte med<br>förvärvsinkomster.<br>De två följande åren undantas<br>årligen ett prisbasbelopp från<br>samordning | Omställningsersättningarna<br>enligt §§ 4 och 5 ska<br>samordnas/minskas med andra<br>förvärvsinkomster om inte annat<br>anges.<br>Ekonomiskt och förlängt<br>ekonomiskt omställningsstöd<br>ska samordnas/minskas med<br>förvärvsinkomster under hela<br>utbetalningstiden.<br>Samordning ska ske månadsvis.<br>All annan inkomst än<br>kapitalinkomst är att betrakta<br>som förvärvsinkomst.<br>Årligen undantas ett<br>prisbasbelopp från samordning. | Ekonomiskt omställningsstöd och<br>förlängt ekonomiskt<br>omställningsstöd enligt §§ 4 och 5<br>ska samordnas med<br>förvärvsinkomster och/eller andra<br>inkomster som ersätter<br>förvärvsinkomster under hela<br>utbetalningstiden.<br>Samtliga inkomster, med undantag<br>för kapitalinkomster, ska anses<br>utgöra förvärvsinkomster.<br>Av administrativa skäl får från<br>samordningen undantas ett fribelopp<br>som per månad motsvarar en<br>tolftedel av samma års<br>prisbasbelopp.<br>Om en förtroendevald utför arbete<br>utan ersättning eller mot låg<br>ersättning, eller erhåller annan<br>ersättning än förvärvsinkomst enligt<br>första stycket, får den lokala<br>pensionsmyndigheten besluta att<br>minska omställningsstödet med ett<br>uppskattat inkomstbelopp som<br>motsvarar den inkomst som bedöms<br>skälig. |
 

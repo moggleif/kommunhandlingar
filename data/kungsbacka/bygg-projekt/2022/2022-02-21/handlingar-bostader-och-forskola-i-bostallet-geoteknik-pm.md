@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2727e29417ee2988a5037831/1645434967
 sha256: 370fdb1555629d8e4406f13c866652e960745d21e5c83f1c06fe51388f07df5d
 bytes: 1546862
 sidor: 13
-hamtad: 2026-11-13T15:23:01+00:00
-konverterad: 2026-11-13T15:23:10+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T02:49:17+00:00
+konverterad: 2026-11-20T02:49:26+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [1, 2, 4, 10, 13]
 tolkade: []
@@ -319,12 +319,18 @@ n:\107\28\1072845\5 arbetsmaterial\01 dokument\g\pm dplan rya2k1.docx 2021-01-15
 
 [Tabell 8-1](handlingar-bostader-och-forskola-i-bostallet-geoteknik-pm.tabeller/8-1.csv)
 
-| Material | Tunghet<br>ρ [t/m3]\* | Odrän.<br>skjuvhållfasthet<br>C [kPa]<br>u | c’ | Friktionsvinkel<br>ϕ [°] |
+| Material | Tunghet | Odrän. | c’ | Friktionsvinkel |
 | --- | --- | --- | --- | --- |
+|  | ρ [t/m3]\* | skjuvhållfasthet |  | ϕ [°] |
+|  |  | C [kPa]<br>u |  |  |
 | Sand | ρ =1,8 | - | - | 35 |
 | Silt | ρ =1,7 | - | - | 33 |
-| Lera norr | ρ =1,7 | 16+ 1kPa/m<br>från överkant<br>jordlager | 10% av C<br>u | 30 |
-| Lera södra | ρ =1,7 | 20 kPa. Från<br>nivå 0 ökande<br>med 1 kPa/m | 10% av C<br>u | 30 |
+| Lera norr | ρ =1,7 | 16+ 1kPa/m | 10% av C<br>u | 30 |
+|  |  | från överkant |  |  |
+|  |  | jordlager |  |  |
+| Lera södra | ρ =1,7 | 20 kPa. Från | 10% av C<br>u | 30 |
+|  |  | nivå 0 ökande |  |  |
+|  |  | med 1 kPa/m |  |  |
 | Friktionsjord | ρ=1,8 | - | - | 35 |
 
 <!-- sida 9 -->

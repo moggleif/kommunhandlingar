@@ -1,17 +1,15 @@
-Material,"Tunghet
-ρ [t/m3]*","Odrän.
-skjuvhållfasthet
-C [kPa]
-u",c’,"Friktionsvinkel
-ϕ [°]"
+Material,Tunghet,Odrän.,c’,Friktionsvinkel
+,ρ [t/m3]*,skjuvhållfasthet,,ϕ [°]
+,,"C [kPa]
+u",,
 Sand,"ρ =1,8",-,-,35
 Silt,"ρ =1,7",-,-,33
-Lera norr,"ρ =1,7","16+ 1kPa/m
-från överkant
-jordlager","10% av C
+Lera norr,"ρ =1,7",16+ 1kPa/m,"10% av C
 u",30
-Lera södra,"ρ =1,7","20 kPa. Från
-nivå 0 ökande
-med 1 kPa/m","10% av C
+,,från överkant,,
+,,jordlager,,
+Lera södra,"ρ =1,7",20 kPa. Från,"10% av C
 u",30
+,,nivå 0 ökande,,
+,,med 1 kPa/m,,
 Friktionsjord,"ρ=1,8",-,-,35
