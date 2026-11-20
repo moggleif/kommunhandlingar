@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7444b487/1758899122
 sha256: 07886ba90e7fbe24c099ee32f26e92af5deb9488ae5eb5d26cc71ea770a6957c
 bytes: 9319986
 sidor: 49
-hamtad: 2026-11-13T17:51:41+00:00
-konverterad: 2026-11-13T17:52:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T11:54:17+00:00
+konverterad: 2026-11-20T11:55:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ocr]
@@ -219,12 +219,6 @@ De geotekniska fältundersökningarnas omfattning:
 •  Vingförsök i 1 punkt
 
 Tabell 4. Utförda fältundersökningar
-Undersökningspunkt Jb    Tr    CPT     Skr    Kv    Vb
-GT01          X
-GT02          X
-GT03          X                   X
-GT04                X             X
-GT05          X
 
 6 (9)
 
@@ -245,19 +239,27 @@ GT05          X
 | GT10 | 6377458.42 | 154349.27 | 8.61 |
 | GT11 | 6377456.51 | 154239.72 | 9.78 |
 
+[Tabell 6-7-2](handlingar-tennishall-i-bjorkris-mur-geoteknik.tabeller/6-7-2.csv)
+
+| Undersökningspunkt | Jb | Tr | CPT | Skr | Kv | Vb |
+| --- | --- | --- | --- | --- | --- | --- |
+| GT01 X |  |  |  |  |  |  |
+| GT02 X |  |  |  |  |  |  |
+| GT03 X X |  |  |  |  |  |  |
+| GT04 X X |  |  |  |  |  |  |
+| GT05 X |  |  |  |  |  |  |
+| GT06 X X X X X |  |  |  |  |  |  |
+| GT07 X |  |  |  |  |  |  |
+| GT08 X |  |  |  |  |  |  |
+| GT09 X X |  |  |  |  |  |  |
+| GT10 X X X |  |  |  |  |  |  |
+| GT11 X |  |  |  |  |  |  |
+
 <!-- sida 7 -->
 
 Uppdrag: 20.097
 Dokument: Markteknisk undersökningsrapprt, Geoteknik (MUR/GEO)
 Datum 2020-07-02
-Undersökningspunkt Jb    Tr    CPT     Skr    Kv    Vb
-GT06                X     X       X      X     X
-GT07                X
-
-GT08          X
-GT09                X             X
-GT10          X           X       X
-GT11          X
 
 7.2 Undersökningsperiod
 Fältundersökningarna har utförts under vecka 23 år 2020.
@@ -289,20 +291,22 @@ redovisas i tabell 5 och resultatet presenteras i bilaga 1. Utöver nedanståend
 klassificering med avseende på tjälfarlighetsklass och materialtyp utförts.
 
 Tabell 5. Utförda laboratorieundersökningar
-Undersökningspunkt  Jordart   w     w     ⍴    τ    St
-N     L
-fu
-t/m3
-kPa
-GT03            X       X     X
-GT04            X       X     X
-GT06            X       X     X     X    X    X
-GT09            X       X     X
-GT10            X       X     X
+
 8.2 Undersökningsperiod
+
 Laboratorieundersökningar utfördes under veckor 25, 26 och 27 år 2020.
 
 7 (9)
+
+[Tabell 7-1](handlingar-tennishall-i-bjorkris-mur-geoteknik.tabeller/7-1.csv)
+
+| Undersökningspunkt | Jordart | w<br>N | w<br>L | ⍴<br>t/m3 | τ<br>fu<br>kPa | St |
+| --- | --- | --- | --- | --- | --- | --- |
+| GT03 X X X |  |  |  |  |  |  |
+| GT04 X X X |  |  |  |  |  |  |
+| GT06 X X X X X X |  |  |  |  |  |  |
+| GT09 X X X |  |  |  |  |  |  |
+| GT10 X X X |  |  |  |  |  |  |
 
 <!-- sida 8 -->
 

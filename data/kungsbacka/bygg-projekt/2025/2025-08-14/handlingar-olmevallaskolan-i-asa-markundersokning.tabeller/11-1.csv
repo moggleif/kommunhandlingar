@@ -24,8 +24,9 @@ Jord,1,"24E04 0,0–0,5",OJ-2a PCB7 i jord och slam.
 Jord,2,"24E04 0,0–0,5
 24E09 0,0–0,5","OJ-3a Klorerade pesticider i jord, slam och
 sediment."
-Jord,3,"24E07 0,0–0,5
-24E07 0,5–1,0
-24E07 1,0–1,5","pH i jord och slam.
+Jord,3,"24E07 0,0–0,5","pH i jord och slam.
 TOC, beräknad från GF, i jord, slam och
 sediment."
+,,"24E07 0,5–1,0
+24E07 1,0–1,5",
+,,,

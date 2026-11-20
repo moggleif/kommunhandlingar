@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.25533da21997c87c7444b485/1758899120
 sha256: d2a3b797b00d8f4e0de5e1db11102bf7c9985de3105df260da1bdf14049b7bc2
 bytes: 11693005
 sidor: 39
-hamtad: 2026-11-13T17:51:03+00:00
-konverterad: 2026-11-13T17:51:28+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:53:44+00:00
+konverterad: 2026-11-20T11:54:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1040,8 +1040,8 @@ databas. Driftkostnaderna är grovt baserat på ett antagande av att öppna dagv
 årlig driftkostnad motsvarande 5 - 15 % av investeringskostnaden (Göteborgs Stad, 2016).
 
 Tabell 11. Uppskattade kostnader för respektive anläggning
-Investeringskostnad Driftkostnad
-Dagvattenanläggning Area (m2) á pris (sek/m2) Total kostnad (sek) Kostnad/år (sek)
+Driftkostnad
+Dagvattenanläggning                         Kostnad/år (sek)
 Våtmark      660    1 100     730 000   36 000 - 110 000
 
 De framtagna kostnaderna bör ses som en grov uppskattning, eftersom de kan variera stort utifrån val
@@ -1050,6 +1050,12 @@ som görs i projekteringsskedet gällande material- och leverantörsval.
 Sweco | Dagvattenutredning Kungsbacka Skårby 3:4
 Uppdragsnummer 30070840
 D atum 2025-02-13 Ver 2                                             26/39
+
+[Tabell 26-1](handlingar-tennishall-i-bjorkris-dagvattenutredning.tabeller/26-1.csv)
+
+| Area (m2) | Investeringskostnad |  |
+| --- | --- | --- |
+|  | á pris (sek/m2) | Total kostnad (sek) |
 
 <!-- sida 27 -->
 

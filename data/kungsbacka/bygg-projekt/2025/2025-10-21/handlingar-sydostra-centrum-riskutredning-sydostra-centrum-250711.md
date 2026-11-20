@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.2abf7c7e199f750dcc644583/1761034525
 sha256: 32567914ff4eb72d22f9a1c0938bddf3eb69f211c731ffb1cd0111b9ef5bb3ac
 bytes: 1644369
 sidor: 27
-hamtad: 2026-11-13T17:54:34+00:00
-konverterad: 2026-11-13T17:54:43+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T11:57:27+00:00
+konverterad: 2026-11-20T11:57:39+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -446,11 +446,13 @@ ett avstånd av 150 meter.
 | Klass | Innehåll | Exempel |
 | --- | --- | --- |
 | 1 | Explosiva ämnen | Massexplosiva varor (dvs. sprängämnen), fyrverkerier |
-| 2 | Komprimerade, kondenserade eller under<br>tryck lösta gaser | Brandfarliga gaser (gasol), giftiga gaser (ammoniak,<br>svaveldioxid) och andra trycksatta gaser (kvävgas, syrgas) |
+| 2 | Komprimerade, kondenserade eller under | Brandfarliga gaser (gasol), giftiga gaser (ammoniak, |
+|  | tryck lösta gaser | svaveldioxid) och andra trycksatta gaser (kvävgas, syrgas) |
 | 3 | Brandfarliga vätskor | Bensin, eldningsolja |
 | 4 | Brandfarliga fasta ämnen | Kalciumkarbid |
 | 5 | Oxiderande ämnen | Väteperoxid, ammoniumnitrat |
-| 6 | Giftiga ämnen och smittfarliga ämnen | Kvicksilverföreningar och cyanider, bakterier, levande virus<br>och laboratorieprover |
+| 6 | Giftiga ämnen och smittfarliga ämnen | Kvicksilverföreningar och cyanider, bakterier, levande virus |
+|  |  | och laboratorieprover |
 | 7 | Radioaktiva ämnen | Radioaktiva preparat för sjukhus |
 | 8 | Frätande ämnen | Olika syror, lut |
 | 9 | Övriga farliga ämnen och föremål | Asbest |
@@ -777,12 +779,15 @@ också brandfarliga vätskor att rinna mot området.
 
 [Tabell 23-1](handlingar-sydostra-centrum-riskutredning-sydostra-centrum-250711.tabeller/23-1.csv)
 
-| Markanvändning | Basavstånd enligt<br>Hallands läns riskpolicy | Avstånd närmaste räl<br>Västkustbanan |
+| Markanvändning | Basavstånd enligt | Avstånd närmaste räl |
 | --- | --- | --- |
+|  | Hallands läns riskpolicy | Västkustbanan |
 | Planområdesgräns södra delen | Ej relevant | 3 meter |
 | Planområdesgräns norra delen | Ej relevant | 9 meter |
-| Parkeringshus och centrumverksamhet söder<br>(industri/tätort) | 50/80 meter | 34 meter |
-| Parkeringshus och centrumverksamhet norr<br>(industri/tätort) | 50/80 meter | 30 meter |
+| Parkeringshus och centrumverksamhet söder | 50/80 meter | 34 meter |
+| (industri/tätort) |  |  |
+| Parkeringshus och centrumverksamhet norr | 50/80 meter | 30 meter |
+| (industri/tätort) |  |  |
 | Bostäder och centrumverksamhet (tätort) | 80 meter | 80 meter |
 | Kontor (kontor) | 50 meter | 80 meter |
 
