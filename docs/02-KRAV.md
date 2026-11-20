@@ -2086,4 +2086,5 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Givet** en målfil med en rad med slaget `regionmål`
 - **När** webbplatsen byggs
 - **Så** står målet på organets sida om mål och direktiv som Regionmål,
-  i urvalet och i antalet per år, och inte som kommunmål eller nämndmål.
+  i urvalet, i tidslinjen och i antalet per år, och inte som kommunmål
+  eller nämndmål.

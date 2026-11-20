@@ -13,15 +13,12 @@ REGIONMAL = RADER.replace("nämndmål", "regionmål")
 
 
 class TestRegionmal(unittest.TestCase):
-    def test_regionmal_ar_ett_slag(self):
-        with pool(REGIONMAL) as malen:
-            self.assertEqual(malen[0].slag, "regionmål")
-
     def test_regionmal_heter_regionmal_pa_sidan(self):
         with pool(REGIONMAL) as malen:
             mall = Mall([exempelby()], REPO, TID, aren=aren(malen))
             html = malsida(mall, exempelby(), malen, protokoll(2023, 2025))
         self.assertIn('data-urval="regionmål">Regionmål</button>', html)
+        self.assertIn('colspan="3">Regionmål</th>', html)
         self.assertIn("<dt>regionmål</dt>", html)
         for slag in ("Kommunmål", "kommunmål", "Nämndmål", "nämndmål"):
             self.assertNotIn(f">{slag}<", html)

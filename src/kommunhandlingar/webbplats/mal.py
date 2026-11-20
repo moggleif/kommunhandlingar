@@ -1,6 +1,6 @@
 """Krav: K26, K27, K35 och K71 i docs/02-KRAV.md, ADR-0044, ADR-0045, ADR-0056
 och ADR-0098.
-Test: tests/test_mal.py och tests/test_fokusomraden.py.
+Test: tests/test_mal.py, tests/test_fokusomraden.py och tests/test_regionmal.py.
 
 Läser `mal/<kommun>.csv` och stoppar bygget med raden när den inte går
 ihop med kommunfilen och poolen (docs/03-ARKITEKTUR.md#mål-och-direktiv).

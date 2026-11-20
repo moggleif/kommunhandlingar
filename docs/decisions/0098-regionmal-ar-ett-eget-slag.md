@@ -48,8 +48,8 @@ kommunmålen, medan regionens fokusområden är överordnade målen.
 
 ### Confirmation
 
-`tests/test_mal.py` läser en rad med slaget och prövar att sidan säger
-Regionmål och inte kommunmål eller nämndmål.
+`tests/test_regionmal.py` läser en rad med slaget och prövar att sidan
+säger Regionmål i urvalet, tidslinjen och antalet per år, och inte kommunmål eller nämndmål.
 
 ## Pros and Cons of the Options
 
