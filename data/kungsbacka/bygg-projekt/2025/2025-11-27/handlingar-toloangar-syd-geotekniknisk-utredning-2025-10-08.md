@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed2cf0/1764238383
 sha256: 4eee40aeaca89ff57283ec4b45992cf9ea1e4e393e7bc7d2ab8728b00f9589b0
 bytes: 28190859
 sidor: 121
-hamtad: 2026-11-15T19:41:03+00:00
-konverterad: 2026-11-15T19:46:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T12:15:13+00:00
+konverterad: 2026-11-20T12:19:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -59,15 +59,23 @@ Handläggare:        Lisa Sundström
 
 Kungsbacka, Tölö Ängar Syd 108 22 22 Geotekniskt PM
 
-2.0   2025-10-08 Rev. maa kompletterande geotekniska J. Gustafsson/D. D. Svärd K. Engerberg
-undersökningar            Strandberg
-1.0   2024-10-31 Geotekniskt PM         Britta Karlström Jonas Thelander Britta Karlström
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+2.0
+
+1.0
+Version
 
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\108\22\1082222\5 arbetsmaterial\01 dokument\g\pm\2025\pm_tölö ängar syd_2025.docx 2025-10-08 | Sida 3 av 35
+
+[Tabell 3-1](handlingar-toloangar-syd-geotekniknisk-utredning-2025-10-08.tabeller/3-1.csv)
+
+| 2025-10-08 | Rev. maa kompletterande geotekniska<br>undersökningar | J. Gustafsson/D. | D. Svärd | K. Engerberg |
+| --- | --- | --- | --- | --- |
+|  |  | Strandberg |  |  |
+| 2024-10-31 | Geotekniskt PM | Britta Karlström | Jonas Thelander | Britta Karlström |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 4 -->
 

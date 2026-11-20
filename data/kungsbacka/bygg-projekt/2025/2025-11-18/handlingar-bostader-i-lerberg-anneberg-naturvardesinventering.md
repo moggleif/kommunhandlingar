@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbe4ea9b/1763459729
 sha256: db17af8dfb27f6a96679bf40921be3abd4de9b2e5427ae5bf1f22e9246981cf1
 bytes: 6349851
 sidor: 44
-hamtad: 2026-11-13T18:03:46+00:00
-konverterad: 2026-11-13T18:03:58+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:07:45+00:00
+konverterad: 2026-11-20T12:07:58+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1071,11 +1071,17 @@ Naturvärdesbiotopen ska kunna redovisas med en gräns som, så långt som möjl
 
 | repotoibsedrävrutaN | Högre naturvärde |  |
 | --- | --- | --- |
-|  | Högsta naturvärde<br>Naturvärdesklass 1 | Mycket stor särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har god överensstämmelse med ett referenstillstånd för<br>naturliga ekosystem. Innehåller mycket goda livsmiljöer för naturvårdsarter, och<br>nästan alltid med inslag av rödlistade och hotade arter. Områden med högsta<br>naturvärde är särskilt viktiga värdekärnor för biologisk mångfald i en nationell och<br>regional grön infrastruktur. Varje enskilt område med denna naturvärdesklass<br>bedöms vara av särskild betydelse för att upprätthålla biologisk mångfald på nationell<br>eller global nivå. |
-|  | Högt naturvärde<br>Naturvärdesklass 2 | Stor särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har väsentliga kvaliteter, typiska för naturliga ekosystem.<br>Innehåller goda livsmiljöer för naturvårdsarter, ofta med inslag av rödlistade och<br>hotade arter. Områden med högt naturvärde är värdekärnor för biologisk mångfald i<br>en nationell och regional grön infrastruktur. Varje enskilt område med denna<br>naturvärdesklass bedöms vara av särskild betydelse för att upprätthålla biologisk<br>mångfald på regional eller nationell nivå. |
-|  | Påtagligt naturvärde<br>Naturvärdesklass 3 | Påtaglig särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har typiska kvaliteter för naturliga ekosystem men som kan<br>vara delvis påverkade eller saknar längre kontinuitet och därför inte uppfyller kriterier<br>för naturvärdesklass 1 eller 2. Innehåller oftast livsmiljöer för naturvårdsarter. Bidrar<br>till en nationell och regional grön infrastruktur för biologisk mångfald. Den totala<br>arealen av dessa områden har särskild betydelse för att bevara biologisk mångfald i<br>Sverige. Enskilda områden kan lokalt ha stor särskild betydelse för biologisk<br>mångfald där landskapet i övrigt är påverkat och har brist på biologisk mångfald. |
+|  | Högsta naturvärde | Mycket stor särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har god överensstämmelse med ett referenstillstånd för<br>naturliga ekosystem. Innehåller mycket goda livsmiljöer för naturvårdsarter, och<br>nästan alltid med inslag av rödlistade och hotade arter. Områden med högsta<br>naturvärde är särskilt viktiga värdekärnor för biologisk mångfald i en nationell och<br>regional grön infrastruktur. Varje enskilt område med denna naturvärdesklass<br>bedöms vara av särskild betydelse för att upprätthålla biologisk mångfald på nationell<br>eller global nivå. |
+|  | Naturvärdesklass 1 |  |
+|  |  |  |
+|  | Högt naturvärde | Stor särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har väsentliga kvaliteter, typiska för naturliga ekosystem.<br>Innehåller goda livsmiljöer för naturvårdsarter, ofta med inslag av rödlistade och<br>hotade arter. Områden med högt naturvärde är värdekärnor för biologisk mångfald i<br>en nationell och regional grön infrastruktur. Varje enskilt område med denna<br>naturvärdesklass bedöms vara av särskild betydelse för att upprätthålla biologisk<br>mångfald på regional eller nationell nivå. |
+|  | Naturvärdesklass 2 |  |
+|  | Påtagligt naturvärde | Påtaglig särskild betydelse för biologisk mångfald<br>Omfattar biotoper som har typiska kvaliteter för naturliga ekosystem men som kan<br>vara delvis påverkade eller saknar längre kontinuitet och därför inte uppfyller kriterier<br>för naturvärdesklass 1 eller 2. Innehåller oftast livsmiljöer för naturvårdsarter. Bidrar<br>till en nationell och regional grön infrastruktur för biologisk mångfald. Den totala<br>arealen av dessa områden har särskild betydelse för att bevara biologisk mångfald i<br>Sverige. Enskilda områden kan lokalt ha stor särskild betydelse för biologisk<br>mångfald där landskapet i övrigt är påverkat och har brist på biologisk mångfald. |
+|  | Naturvärdesklass 3 |  |
 |  | Visst naturvärde |  |
-|  | Visst naturvärde<br>Naturvärdesklass 4 | Viss särskild betydelse för biologisk mångfald<br>Omfattar biotoper med vissa kvaliteter av betydelse för biologisk mångfald. Kan<br>innehålla livsmiljöer för naturvårdsarter. Bidrar till grön infrastruktur för biologisk<br>mångfald åtminstone på lokal nivå. Den totala arealen av dessa områden har viss<br>särskild betydelse för att bevara biologisk mångfald i Sverige. Enskilda områden kan<br>lokalt ha särskild betydelse för biologisk mångfald där landskapet i övrigt är påverkat<br>och har brist på biologisk mångfald. |
+|  | Visst naturvärde | Viss särskild betydelse för biologisk mångfald<br>Omfattar biotoper med vissa kvaliteter av betydelse för biologisk mångfald. Kan<br>innehålla livsmiljöer för naturvårdsarter. Bidrar till grön infrastruktur för biologisk<br>mångfald åtminstone på lokal nivå. Den totala arealen av dessa områden har viss<br>särskild betydelse för att bevara biologisk mångfald i Sverige. Enskilda områden kan<br>lokalt ha särskild betydelse för biologisk mångfald där landskapet i övrigt är påverkat<br>och har brist på biologisk mångfald. |
+|  | Naturvärdesklass 4 |  |
+|  |  |  |
 
 <!-- sida 31 -->
 
