@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7ade669418851b707b8121ff/1685601776
 sha256: 3dc3daa0ec01efc278fdacb25af5994eb84c0e7f6dbb011818d75b926f966088
 bytes: 3948714
 sidor: 18
-hamtad: 2026-11-13T16:30:41+00:00
-konverterad: 2026-11-13T16:30:53+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:21:32+00:00
+konverterad: 2026-11-20T10:21:45+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
@@ -31,14 +31,20 @@ Uppdragsnr: 107 51 33 Version: 1.0
 
 Tölö 6:4 m.fl Geoteknisk  utredning  DP
 
-1.0   2021-10-14                     Isabell Dinger Tomas Björnell
-Version Datum  Beskrivning           Upprättat Granskat Godkänt
+1.0
+Version                                                Godkänt
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda
 ändamål. 107 51 33 Kungsbacka Kommun
 
 N:\107\51\1075133\5 Arbetsmaterial\01 Dokument\B\Granskning\Tölö 6.4 Geoteknisk utredning.docx | Sida 1 av 18
+
+[Tabell 1-1](handlingar-toloangar-etapp-3-bergteknisk-utredning.tabeller/1-1.csv)
+
+| 2021-10-14 |  | Isabell Dinger | Tomas Björnell |
+| --- | --- | --- | --- |
+| Datum | Beskrivning | Upprättat | Granskat |
 
 <!-- sida 2 -->
 

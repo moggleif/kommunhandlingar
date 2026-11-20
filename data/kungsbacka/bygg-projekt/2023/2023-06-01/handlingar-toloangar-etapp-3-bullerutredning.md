@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7ade669418851b707b812200/1685601777
 sha256: 0b8cb0753bd64efcdf206b6f280f94b73fe4eff0e1851f88e248cf05f477e9ed
 bytes: 4148798
 sidor: 24
-hamtad: 2026-11-13T16:30:53+00:00
-konverterad: 2026-11-13T16:31:08+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:21:45+00:00
+konverterad: 2026-11-20T10:21:59+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -271,11 +271,6 @@ Trafikalstringen är hämtad från ”Trafikutredning för del Tölö 6:4 m fl, 
 bostäderna beräknas till 350 fordon/dygn (ÅDT).
 
 Tabell 1. Trafikuppgifter prognos år 2040.
-Vägnamn          Prognos 2040 Tung trafik Hastighet
-(fordon/dygn)  2040      (km/h)
-(%)
-Hedeleden            7940       5         60
-Hällingsjövägen     10 000      4         60
 
 Anm. Trafiken anges som årsdygnstrafik.
 
@@ -290,6 +285,13 @@ Figur 5. Trafikfördelning inom planområdet.
 
 Bullerutredning dp Tölö 6:4
 Unr 1320059024
+
+[Tabell 10-1](handlingar-toloangar-etapp-3-bullerutredning.tabeller/10-1.csv)
+
+| Vägnamn | Prognos 2040<br>(fordon/dygn) | Tung trafik<br>2040<br>(%) | Hastighet<br>(km/h) |
+| --- | --- | --- | --- |
+| Hedeleden | 7940 | 5 | 60 |
+| Hällingsjövägen | 10 000 | 4 | 60 |
 
 <!-- sida 11 -->
 

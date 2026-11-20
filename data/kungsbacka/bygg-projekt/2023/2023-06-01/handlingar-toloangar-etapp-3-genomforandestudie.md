@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.7ade669418851b707b812202/1685601777
 sha256: 0a0a5903cccf6dc21390cc33cb6ce6a5073d55b81fef84b1a8e321a1e15017a7
 bytes: 3858827
 sidor: 40
-hamtad: 2026-11-13T16:31:25+00:00
-konverterad: 2026-11-13T16:31:36+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:22:18+00:00
+konverterad: 2026-11-20T10:22:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: [1, 3, 5, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 31, 40]
+figurer: [1, 3, 5, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 31, 33, 40]
 tolkade: []
 granskad: null
 ---
@@ -1031,27 +1031,27 @@ behöver ses över vid en detaljprojektering.
 
 Körbana             Gång- och cykelbana   Krossdike
 
-Slitlager                                 Bergkross 32/64 1000mm
-Bundet bärlager                           Ledningsbädd 150mm
+Slitlager   40 mm   Slitlager     50 mm   Bergkross 32/64 1000mm
+Bundet bärlager 40 mm Obundet bärlager 80 mm Ledningsbädd 150mm
 
-Obundet bärlager                          Geotextil  N2
+Obundet bärlager 80 mm Förstärkningslager 370 mm Geotextil N2
 
-Förstärkningslager                        Summa      1150mm
+Förstärkningslager 610 mm Geotextil N3    Summa      1150mm
 
-Geotextil
+Geotextil   N3      Summa         500mm
 
-Summa
+Summa       770mm
 
-Yta Smågatsten                            Gräsytor/Slänt
+Yta Smågatsten      Plattor               Gräsytor/Slänt
 
-Smågatsten                                Sådd       2,5kg/100m2
+Smågatsten  100mm   Betong 350x350 70mm   Sådd       2,5kg/100m2
 
-Sättsand                                  Växtjord   100mm
-Obundet bärlager                          Summa      100mm
+Sättsand    30mm    Sättsand      30mm    Växtjord   100mm
+Obundet bärlager 80mm Obundet bärlager 80mm Summa    100mm
 
-Förstärkningslager
+Förstärkningslager 560mm Förstärkningslager 320mm
 
-Geotextil
+Geotextil   N3      Geotextil     N3
 
 Summa       770mm   Summa         500mm
 
@@ -1062,16 +1062,6 @@ kantstöd har betongkantstöd TYP A antagits längs hela sträckan.
 
 Sigma Civil AB                                              DOK 34365
 www.sigmacivil.se             33 (39)                       Version1.0
-
-[Tabell 33-1](handlingar-toloangar-etapp-3-genomforandestudie.tabeller/33-1.csv)
-
-| 40 mm<br>40 mm<br>80 mm | Slitlager 50 mm<br>Obundet bärlager 80 mm<br>Förstärkningslager 370 mm |
-| --- | --- |
-| 610 mm | Geotextil N3 |
-| N3 | Summa 500mm<br>Plattor |
-| 770mm |  |
-| 100mm<br>30mm | Betong 350x350 70mm<br>Sättsand 30mm |
-| 80mm<br>560mm<br>N3 | Obundet bärlager 80mm<br>Förstärkningslager 320mm<br>Geotextil N3 |
 
 <!-- sida 34 -->
 
