@@ -32,7 +32,7 @@ def nyast_forst(paragraf: dict) -> tuple[str, int]:
 
 
 def post(paragraf: dict, organ: str) -> dict:
-    rubrik = " ".join(paragraf["rubrik"].split()) or f"§ {paragraf['paragraf']}"
+    rubrik = " ".join((paragraf["rubrik"] or "").split()) or f"§ {paragraf['paragraf']}"
     numren = paragraf["diarienummer"]
     return {
         "rubrik": rubrik,
