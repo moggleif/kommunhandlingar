@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.6d61586419bc36939b28b447/1768816468
 sha256: be8acd4ea9da900ce244837e2049fc96ff478cd3f9edf8e53e3b70794942e56b
 bytes: 1409563
 sidor: 18
-hamtad: 2026-11-15T08:54:28+00:00
-konverterad: 2026-11-15T08:54:35+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:33:09+00:00
+konverterad: 2026-11-20T12:33:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -231,8 +231,9 @@ jordbruksmarken. Sånglära, buskskvätta och gulsparv är bara några av de art
 
 [Tabell 7-1](handlingar-bostader-i-bolsheden-naturvardesinventering-kungsbacka-kommun.tabeller/7-1.csv)
 
-| Nationellt utdöd | Akut<br>hotad | Starkt<br>hotad | Sårbar | Nära hotad | Livskraftig | Kunskapsbrist | Ej bedömd |
+| Nationellt utdöd | Akut | Starkt | Sårbar | Nära hotad | Livskraftig | Kunskapsbrist | Ej bedömd |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | hotad | hotad |  |  |  |  |  |
 | RE | CR | EN | VU | NT | LC | DD | NA / NE |
 
 <!-- sida 8 -->

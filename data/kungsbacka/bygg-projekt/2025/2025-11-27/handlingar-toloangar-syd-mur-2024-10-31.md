@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed2cf3/1764238387
 sha256: b321ded3f3a8f0323169fd622e8feffc1b69ad00e6f3c0f157aae03d0f4660b9
 bytes: 15425452
 sidor: 151
-hamtad: 2026-11-15T08:43:43+00:00
-konverterad: 2026-11-15T08:44:22+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:21:25+00:00
+konverterad: 2026-11-20T12:22:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
 tal_obekraftade: [9, 10, 24, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 72, 73, 75, 76, 77, 79, 80, 81, 83, 84, 85, 87, 88, 89, 91, 92, 93, 95, 96, 97, 99, 100, 101, 103, 104, 105, 107, 108, 109, 111, 112, 113, 115, 116, 117, 119, 120, 121, 123, 124, 125, 127, 128, 129, 131, 132, 133, 135, 136, 137, 144, 145]
-figurer: [1, 2, 5, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 29, 33, 37, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 65, 66, 67, 68, 69, 70, 71, 72, 73, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151]
+figurer: [1, 5, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 29, 33, 37, 41, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 65, 66, 67, 68, 69, 70, 71, 72, 73, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151]
 tolkade: []
 granskad: null
 ---
@@ -51,13 +51,19 @@ Handläggare:        Lisa Sundström
 
 Kungsbacka, Tölö Ängar Syd 108 22 22 Markteknisk undersökningsrapport, Geoteknik
 
-1.0   2024-10-31 MUR/Geo                Lisa Sundström Britta Karlström Britta Karlström
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+1.0
+Version
 
 Detta dokument är framtaget av Norconsult Sverige AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult.
 Beställaren har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\108\22\1082222\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2024-10-31 | Sida 2 av 12
+
+[Tabell 2-1](handlingar-toloangar-syd-mur-2024-10-31.tabeller/2-1.csv)
+
+| 2024-10-31 | MUR/Geo | Lisa Sundström | Britta Karlström | Britta Karlström |
+| --- | --- | --- | --- | --- |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 
@@ -180,7 +186,8 @@ n:\108\22\1082222\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2024-10-31 | Sida 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 6-2](handlingar-toloangar-syd-mur-2024-10-31.tabeller/6-2.csv)
@@ -198,7 +205,8 @@ n:\108\22\1082222\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2024-10-31 | Sida 
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO<br>14688-2:2004 samt BFR T21:1982 |
+| Klassificering | SS-EN ISO 14688-1:2002 & SS-EN ISO |
+|  | 14688-2:2004 samt BFR T21:1982 |
 | Vattenkvot | SS 027116, utgåva 3 |
 | Konflytgräns | SS 027120, utgåva 2 |
 | CRS | SS 027126 |
@@ -303,8 +311,9 @@ n:\108\22\1082222\5 arbetsmaterial\01 dokument\g\mur\mur.docx 2024-10-31 | Sida 
 
 [Tabell 8-1](handlingar-toloangar-syd-mur-2024-10-31.tabeller/8-1.csv)
 
-| Datum | Uppmätt gv-yta under<br>bef my (uppmätt nivå) |
+| Datum | Uppmätt gv-yta under |
 | --- | --- |
+|  | bef my (uppmätt nivå) |
 | 2016-05-23 | 1,7 (nivå +1,9) |
 | 2016-05-30 | 1,7 (nivå +1,9) |
 | 2016-06-03 | 1,8 (nivå +1,8) |

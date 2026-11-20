@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.40873a2119bddb3624d1aa82/1769011158
 sha256: 9bc28d1a7c9a02140d92a20cde97c373b952ad0641ccc0162e1340420c8f4589
 bytes: 2297494
 sidor: 17
-hamtad: 2026-11-15T08:55:42+00:00
-konverterad: 2026-11-15T08:55:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:34:27+00:00
+konverterad: 2026-11-20T12:34:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker]
@@ -283,7 +283,7 @@ Unr 1320056713
 
 [Tabell 9-1](handlingar-asa-restaurangstrak-bullerutredning.tabeller/9-1.csv)
 
-| ÅDT Tung trafik Hastighet<br>Vägnamn<br>(2040) (%) (km/tim) |  |  |  |
+| Vägnamn | ÅDT<br>(2040) | Tung trafik<br>(%) | Hastighet<br>(km/tim) |
 | --- | --- | --- | --- |
 | Varbergsvägen N | 7 772 | 5,7 | 40 |
 | Varbergsvägen S | 7 908 | 5,7 | 40 |

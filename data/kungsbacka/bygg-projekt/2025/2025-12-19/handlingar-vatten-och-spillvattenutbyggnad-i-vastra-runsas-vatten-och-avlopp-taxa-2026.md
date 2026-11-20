@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.58e850c319b35598f8642a/176613244551
 sha256: afc6dbc5aea2888a8af6014371cd2a81efd32f313a796468502b675e073d096b
 bytes: 173227
 sidor: 15
-hamtad: 2026-11-15T08:53:43+00:00
-konverterad: 2026-11-15T08:53:47+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:32:15+00:00
+konverterad: 2026-11-20T12:32:19+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
@@ -192,15 +192,12 @@ Avgift tas ut för nedan angivna ändamål:
 Ändamål                          Anläggningsavgift Brukningsavgift
 
 V, vattenförsörjning             Ja              Ja
+S, spillvattenavlopp             Ja              Ja
+
+Df, dag- och dränvattenavlopp från fastighet Ja  Ja
+Dg, dagvattenavlopp från allmän platsmark Ja     Ja
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        4 (15)
-
-[Tabell 4-1](handlingar-vatten-och-spillvattenutbyggnad-i-vastra-runsas-vatten-och-avlopp-taxa-2026.tabeller/4-1.csv)
-
-| S, spillvattenavlopp | Ja | Ja |
-| --- | --- | --- |
-| Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
-| Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
 <!-- sida 5 -->
 
@@ -418,7 +415,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        8 (15)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 9 -->
 
@@ -478,7 +476,8 @@ Kung sbacka kommun          Vatten och avlopp Taxa 2026        9 (15)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22,66 kr | om 28,84 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22,66 kr | om 28,84 kr |
+| av dagvatten |  |  |
 
 <!-- sida 10 -->
 
@@ -622,6 +621,10 @@ Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
 a) Årlig avgift per nyckel                660 kr
 
+b) En avgift per m³ hämtat dricksvatten   26,40 kr
+
+c) En avgift per m³ hämtat å-vatten\*      5 kr
+
 \*Avgiften för å-vatten avser del av kostnaderna för drift och underhåll av den
 
 infrastruktur som ger möjlighet att pumpa upp vatten, men inte för själva å-vattnet.
@@ -629,21 +632,12 @@ Avgiften gäller vattenkiosken ”Varla stockar/ Tölö tvärled”.
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        12 (15)
 
-[Tabell 12-1](handlingar-vatten-och-spillvattenutbyggnad-i-vastra-runsas-vatten-och-avlopp-taxa-2026.tabeller/12-1.csv)
-
-| b) | En avgift per m³ hämtat dricksvatten | 26,40 kr |
-| --- | --- | --- |
-| c) | En avgift per m³ hämtat å-vatten\* | 5 kr |
-
 <!-- sida 13 -->
 
 § 15
 
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 1,25 kronor
-dagvatten
 
 § 16
 
@@ -671,6 +665,12 @@ V      S     Df    Dg    Total avgift
 En Grundavgift per år 14.1 a) 480 kr 480 kr
 
 Kung sbacka kommun          Vatten och avlopp Taxa 2026        13 (15)
+
+[Tabell 13-1](handlingar-vatten-och-spillvattenutbyggnad-i-vastra-runsas-vatten-och-avlopp-taxa-2026.tabeller/13-1.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 1,25 kronor |
+| --- | --- |
+| dagvatten |  |
 
 <!-- sida 14 -->
 

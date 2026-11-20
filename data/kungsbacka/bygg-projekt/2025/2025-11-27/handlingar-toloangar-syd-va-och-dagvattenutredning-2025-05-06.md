@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.7573952919a7bcb3bbed2cfd/1764238391
 sha256: ece342b6f8c886c89cc303a64a9aeda7986b55bfe7d31bd89a14940c458e8ce0
 bytes: 6901637
 sidor: 56
-hamtad: 2026-11-15T08:46:32+00:00
-konverterad: 2026-11-15T08:46:57+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:24:23+00:00
+konverterad: 2026-11-20T12:24:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
@@ -910,8 +910,9 @@ markeras med grått. Minskning av befintlig mängd markeras med grönt.
 
 [Tabell 29-1](handlingar-toloangar-syd-va-och-dagvattenutredning-2025-05-06.tabeller/29-1.csv)
 
-| Befintlig<br>Ämne markanvändning<br>Fosfor 9,3 | Framtida<br>markanvändning<br>utan rening<br>7,9 | Framtida<br>markanvändning<br>med rening<br>6,32 |
+| Befintlig<br>Ämne markanvändning<br>Fosfor 9,3 | Framtida<br>markanvändning<br>utan rening | Framtida<br>markanvändning<br>med rening |
 | --- | --- | --- |
+|  | 7,9 | 6,32 |
 | Kväve 244 | 106 | 80,8 |
 | Bly 0,68 | 0,33 | 0,21 |
 | Koppar 1,0 | 0,86 | 0,60 |
@@ -926,8 +927,9 @@ markeras med grått. Minskning av befintlig mängd markeras med grönt.
 
 [Tabell 29-2](handlingar-toloangar-syd-va-och-dagvattenutredning-2025-05-06.tabeller/29-2.csv)
 
-| Befintlig<br>Ämne markanvändning<br>Fosfor 9,3 | Framtida<br>markanvändning<br>utan rening<br>10,1 | Framtida<br>markanvändning<br>med rening<br>8,1 |
+| Befintlig<br>Ämne markanvändning<br>Fosfor 9,3 | Framtida<br>markanvändning<br>utan rening | Framtida<br>markanvändning<br>med rening |
 | --- | --- | --- |
+|  | 10,1 | 8,1 |
 | Kväve 244 | 121 | 96,8 |
 | Bly 0,68 | 0,47 | 0,3 |
 | Koppar 1,0 | 1,1 | 0,81 |
