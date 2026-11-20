@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.38e8b5fa1a0421c38b9eafe8/1788445321
 sha256: 2eb76f1ec2577aacf3c38aa1987f6887be7e377b6939a95bbe005027f3f50a0c
 bytes: 16091722
 sidor: 204
-hamtad: 2026-11-10T00:29:04+00:00
-konverterad: 2026-11-10T00:30:42+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T00:16:06+00:00
+konverterad: 2026-11-20T00:17:55+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -474,13 +474,13 @@ Konsekvens                 obefintlig) - exempelvis 1 gång per intressenter och
 
 [Tabell 12-1](handlingar.tabeller/12-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Ekonomi | 1 Debiteringsrutiner inom exploaterings- 2. Mindre 3. Kännbar (uppfattas som Ja<br>verksamheten vanligt besvärande för berörda<br>intressenter och kommunen) |
-| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | 2 Kommunövergripande risk: Bristande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>följsamhet till inköpsprocessen; besvärande för berörda<br>direktupphandling respektive intressenter och kommunen)<br>avtalsuppföljning |
-|  | 3 Kommunövergripande risk - Risk för 2. Mindre 4. Allvarlig/stor inverkan (så Ja<br>korruption och välfärdsbrottslighet vanligt stor att den inte får inträffa) |
-|  | 4 Kommunövergripande risk: 2. Mindre 3. Kännbar (uppfattas som Ja<br>Förvaltningarnas arbete med att följa och vanligt besvärande för berörda<br>utveckla det systematiska beredskapsarbetet intressenter och kommunen) |
-|  | 5 Kommunövergripande risk: Risk för 2. Mindre 3. Kännbar (uppfattas som Ja<br>bristande efterlevnad till NIS2-direktivet och vanligt besvärande för berörda<br>gällande rutiner och regelverk intressenter och kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | 1 Debiteringsrutiner inom exploaterings-<br>verksamheten | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. |  | 2 Kommunövergripande risk: Bristande<br>följsamhet till inköpsprocessen;<br>direktupphandling respektive<br>avtalsuppföljning | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+|  |  | 3 Kommunövergripande risk - Risk för<br>korruption och välfärdsbrottslighet | 2. Mindre<br>vanligt | 4. Allvarlig/stor inverkan (så<br>stor att den inte får inträffa) | Ja |
+|  |  | 4 Kommunövergripande risk:<br>Förvaltningarnas arbete med att följa och<br>utveckla det systematiska beredskapsarbetet | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
+|  |  | 5 Kommunövergripande risk: Risk för<br>bristande efterlevnad till NIS2-direktivet och<br>gällande rutiner och regelverk | 2. Mindre<br>vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och kommunen) | Ja |
 
 <!-- sida 13 -->
 
@@ -493,14 +493,14 @@ Intern kontrollplan 2027
 
 [Tabell 13-1](handlingar.tabeller/13-1.csv)
 
-| Kategorier | Anledning till att risk ej tas<br>Risker Sannolikhet Konsekvens<br>till plan |
-| --- | --- |
-| Ekonomi | Kommunövergripande risk: 3. Kännbar Tas omhand i<br>Grundläggande redovisning (uppfattas som ekonomgruppens<br>kvalitetsbrister 2. Mindre besvärande för utvecklingsarbete<br>vanligt berörda "Rättvisande redovisning"<br>intressenter och samt i utredning kring<br>kommunen) "prislappsmodellen" |
-| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. | Kommunövergripande risk: It- 3. Kännbar Tas omhand som en del av<br>säkerhet - Bristande driftmiljö (uppfattas som inköp och leverantörs-<br>hos leverantörer 2. Mindre besvärande för uppföljning. Även uppföljning<br>vanligt berörda genom systemförvalta-<br>intressenter och rmodellen.<br>kommunen) |
-|  | Kommunövergripande risk: Hanteras genom<br>Risk att samhällsutbyggnad Samhällsbyggnadsledning<br>inte kan ske i planerad takt. (Samhällsbyggnads-<br>Ny infrastruktur och processen) där vi kommer att<br>3. Kännbar<br>exploatering och projekt för arbeta med ”Obruten digital<br>(uppfattas som<br>underhåll/utbyggnad av samhällsbyggnadsprocess”<br>2. Mindre besvärande för<br>befintlig infrastruktur är samt ”Utbyggnadsplan”. I<br>vanligt berörda<br>beroende av varandra Samhällsbyggnadsledning<br>intressenter och<br>(resurser och samplanering). finns flera förvaltningar<br>kommunen)<br>representerade (Teknik,<br>Service, Bygg o Miljö, Kultur<br>o Fritid samt KSF genom<br>SBK och Ekonomi. |
-|  | Kommunövergripande risk: Risken för otillåten påverkan<br>Risk för otillåten påverkan tas om hand på<br>kommunövergripande nivå<br>3. Kännbar<br>genom dels utbildnings-<br>(uppfattas som<br>insatser, dels genom BRÅ-<br>2. Mindre besvärande för<br>arbetet. Ingår också som en<br>vanligt berörda<br>del av risken för korruption<br>intressenter och<br>och välfärdsbrottslighet.<br>kommunen)<br>Nämnderna tar också själva<br>upp utifrån behov och<br>relevans. |
-| Verksamhet | Kommunövergripande risk: 3. Kännbar Tas omhand genom<br>Dämpad befolkningstillväxt (uppfattas som budgetprocessen och<br>med långsiktig påverkan på 2. Mindre besvärande för lokalplanen.<br>kommunala verksamheter vanligt berörda<br>intressenter och<br>kommunen) |
-|  | Risk att kommunstyrelsen 3. Kännbar Tas omhand genom etablerat<br>uppsiktsplikt över den (uppfattas som arbetssätt och dialoger.<br>kommunala verksamheten 2. Mindre besvärande för Avseende ändrad lagstiftning<br>inte utförs ändamålsenligt vanligt berörda tas det omhand genom<br>intressenter och granskning av inköp och<br>kommunen) rapportering privata utförare. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att risk ej tas<br>till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kommunövergripande risk:<br>Grundläggande redovisning<br>kvalitetsbrister | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand i<br>ekonomgruppens<br>utvecklingsarbete<br>"Rättvisande redovisning"<br>samt i utredning kring<br>"prislappsmodellen" |
+| Gemensamma<br>områden;<br>Informations-<br>säkerhet,<br>administration,<br>inköp m fl. |  | Kommunövergripande risk: It-<br>säkerhet - Bristande driftmiljö<br>hos leverantörer | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand som en del av<br>inköp och leverantörs-<br>uppföljning. Även uppföljning<br>genom systemförvalta-<br>rmodellen. |
+|  |  | Kommunövergripande risk:<br>Risk att samhällsutbyggnad<br>inte kan ske i planerad takt.<br>Ny infrastruktur och<br>exploatering och projekt för<br>underhåll/utbyggnad av<br>befintlig infrastruktur är<br>beroende av varandra<br>(resurser och samplanering). | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Hanteras genom<br>Samhällsbyggnadsledning<br>(Samhällsbyggnads-<br>processen) där vi kommer att<br>arbeta med ”Obruten digital<br>samhällsbyggnadsprocess”<br>samt ”Utbyggnadsplan”. I<br>Samhällsbyggnadsledning<br>finns flera förvaltningar<br>representerade (Teknik,<br>Service, Bygg o Miljö, Kultur<br>o Fritid samt KSF genom<br>SBK och Ekonomi. |
+|  |  | Kommunövergripande risk:<br>Risk för otillåten påverkan | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken för otillåten påverkan<br>tas om hand på<br>kommunövergripande nivå<br>genom dels utbildnings-<br>insatser, dels genom BRÅ-<br>arbetet. Ingår också som en<br>del av risken för korruption<br>och välfärdsbrottslighet.<br>Nämnderna tar också själva<br>upp utifrån behov och<br>relevans. |
+| Verksamhet |  | Kommunövergripande risk:<br>Dämpad befolkningstillväxt<br>med långsiktig påverkan på<br>kommunala verksamheter | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom<br>budgetprocessen och<br>lokalplanen. |
+|  |  | Risk att kommunstyrelsen<br>uppsiktsplikt över den<br>kommunala verksamheten<br>inte utförs ändamålsenligt | 2. Mindre<br>vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Tas omhand genom etablerat<br>arbetssätt och dialoger.<br>Avseende ändrad lagstiftning<br>tas det omhand genom<br>granskning av inköp och<br>rapportering privata utförare. |
 
 <!-- sida 14 -->
 
