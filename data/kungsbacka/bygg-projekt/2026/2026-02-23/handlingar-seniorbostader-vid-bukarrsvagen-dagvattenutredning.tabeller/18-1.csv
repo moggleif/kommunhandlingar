@@ -1,9 +1,14 @@
-"Mätning april Mätning maj
-Grundvattennivå Grundvattennivå
-Marknivå Grundvattenyta Grundvattenyta
-Grundvattenrör april maj
-(m) (m under (m under
-(m) (m)
-markytan) markytan)",,,,,
+Grundvattenrör,"Marknivå
+(m)","Mätning april
+Grundvattenyta
+(m under
+markytan)","Mätning maj
+Grundvattenyta
+(m under
+markytan)","Grundvattennivå
+april
+(m)","Grundvattennivå
+maj
+(m)"
 GT02,"+4,5","6,8","3,5","-2,3","+1,0"
 GT17,"+2,3","3,5","2,05","-0,86","+0,55"

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1732df19c6caeeab1cb702/177186214936
 sha256: 9b1e483485c75ab5280e6669a3525981fc3229549ba6710ea06bedddd002a825
 bytes: 1909285
 sidor: 48
-hamtad: 2026-11-15T09:00:58+00:00
-konverterad: 2026-11-15T09:01:09+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:41:28+00:00
+konverterad: 2026-11-20T12:41:42+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -522,7 +522,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 11-12-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/11-12-1.csv)
 
-| Parameter + ++ +++ |  |  |  |
+| Parameter | + | ++ | +++ |
 | --- | --- | --- | --- |
 | Behov i ett större sammanhang |  |  |  |
 | Infiltrationskapacitet | Marken är mestadels<br>självdränerande då<br>huvudsaklig jordart är<br>postglacial finsand. | Infiltration sker men är<br>begränsad (medelhög<br>genomsläpplighet) | Marken är mestadels tät.<br>Inom sydöstra delen av<br>planområdet finns<br>jordarten postglacial lera<br>som har låg<br>genomsläpplighet. |
@@ -816,7 +816,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 18-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/18-1.csv)
 
-| Mätning april Mätning maj<br>Grundvattennivå Grundvattennivå<br>Marknivå Grundvattenyta Grundvattenyta<br>Grundvattenrör april maj<br>(m) (m under (m under<br>(m) (m)<br>markytan) markytan) |  |  |  |  |  |
+| Grundvattenrör | Marknivå<br>(m) | Mätning april<br>Grundvattenyta<br>(m under<br>markytan) | Mätning maj<br>Grundvattenyta<br>(m under<br>markytan) | Grundvattennivå<br>april<br>(m) | Grundvattennivå<br>maj<br>(m) |
 | --- | --- | --- | --- | --- | --- |
 | GT02 | +4,5 | 6,8 | 3,5 | -2,3 | +1,0 |
 | GT17 | +2,3 | 3,5 | 2,05 | -0,86 | +0,55 |
@@ -894,7 +894,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 21-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/21-1.csv)
 
-| Markanvändning Befintlig [ha] Planerad [ha] |  |  |
+| Markanvändning | Befintlig [ha] | Planerad [ha] |
 | --- | --- | --- |
 | Väg 1 | - | 0,1656 |
 | Väg 2 (del av Bukärrsvägen) | 0,0043 | 0,0043 |
@@ -1005,7 +1005,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 24-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/24-1.csv)
 
-| Befintlig situation Planområdet φ |  |  |
+| Befintlig situation | Planområdet | φ |
 | --- | --- | --- |
 | Väg 2 (del av Burkärrsvägen) [ha] | 0,0043 | 0,85 |
 | Skogsmark [ha] | 1,0694 | 0,10 |
@@ -1105,7 +1105,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 26-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/26-1.csv)
 
-| Planerad situation Planområdet φ |  |  |
+| Planerad situation | Planområdet | φ |
 | --- | --- | --- |
 | Väg 1 [ha] | 0,1656 | 0,85 |
 | Väg 2 [ha] | 0,0043 | 0,85 |
@@ -1175,7 +1175,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 27-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/27-1.csv)
 
-| Befintlig flöde 10-årsregn Framtida flöde 10-årsregn Fördröjningsvolym<br>Markanvändning<br>[l/s] [l/s] [m3] |  |  |  |
+| Markanvändning | Befintlig flöde 10-årsregn<br>[l/s] | Framtida flöde 10-årsregn<br>[l/s] | Fördröjningsvolym<br>[m3] |
 | --- | --- | --- | --- |
 | Norra delen av fastigheten | 36 | 240 | 180 |
 | Södra delen av fastigheten | 22 | 27 | 3 |
@@ -1371,7 +1371,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 33-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/33-1.csv)
 
-| Fördröjnings- Total dammyta för att uppnå<br>Exempeldimensioner för att uppnå<br>behov fördröjningsbehovet och utsläppsnivån<br>fördröjningsbehovet<br>(10-årsflöde) [m3] för fosfor [m2] |  |  |
+| Fördröjnings-<br>behov<br>(10-årsflöde) [m3] | Exempeldimensioner för att uppnå<br>fördröjningsbehovet | Total dammyta för att uppnå<br>fördröjningsbehovet och utsläppsnivån<br>för fosfor [m2] |
 | --- | --- | --- |
 | 183 | Längd 21 m<br>Tvärsnittsarea 8,8 m2<br>(baserat på bredd 24 m, bottenbredd 20 m,<br>slänt 1:5, och reglerdjup 0,4 m) | 504<br>(baserat på längd 21 m, bredd 24 m) |
 
@@ -1426,7 +1426,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 35-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/35-1.csv)
 
-| Fördröjnings-<br>Total yta för att uppnå<br>behov Exempeldimensioner för att<br>Åtgärd fördröjningsbehovet och<br>(10-årsflöde) uppnå fördröjningsbehovet<br>utsläppsnivån för fosfor [m2]<br>[m3] |  |  |  |
+| Åtgärd | Fördröjnings-<br>behov<br>(10-årsflöde)<br>[m3] | Exempeldimensioner för att<br>uppnå fördröjningsbehovet | Total yta för att uppnå<br>fördröjningsbehovet och<br>utsläppsnivån för fosfor [m2] |
 | --- | --- | --- | --- |
 | Krossdike<br>(ovan makadam) | - | Längd ca 146 m<br>Djup 0,2 m<br>Bredd 3,5 m | - |
 | Krossdike<br>(underliggande<br>makadam) | - | Längd ca 146 m<br>Djup 0,5 m<br>Bredd 3,5 m<br>Porositet 33 % | - |
@@ -1460,7 +1460,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 36-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/36-1.csv)
 
-| Fördröjnings- Exempeldimensioner Total yta för att uppnå<br>Åtgärd behov för att uppnå fördröjningsbehovet och utsläppsnivån<br>(10-årsflöde) [m3] fördröjningsbehovet för fosfor [m2] |  |  |  |
+| Åtgärd | Fördröjnings-<br>behov<br>(10-årsflöde) [m3] | Exempeldimensioner<br>för att uppnå<br>fördröjningsbehovet | Total yta för att uppnå<br>fördröjningsbehovet och utsläppsnivån<br>för fosfor [m2] |
 | --- | --- | --- | --- |
 | Regnväxtbädd<br>(”tom” volym<br>ovan<br>växtbädd) | - | Längd 80 m<br>Djup 0,3 m<br>Bredd 3,5 m | - |
 | Regnväxtbädd<br>(underliggande<br>lager) \* | - | Längd 80 m<br>Djup 1,1 m<br>Bredd 3,5 m<br>Medelporositet 32 % | - |
@@ -1612,7 +1612,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 40-2](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/40-2.csv)
 
-| Planerad Planerad<br>Planerad<br>Planerad situation situation situation med<br>Befintlig situation med<br>Ämne Enhet utan med rening i<br>situation rening i<br>dagvattenåtgärder rening i regnväxtbädd<br>dagvattendamm<br>krossdike |  |  |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad<br>situation med<br>rening i<br>dagvattendamm | Planerad<br>situation<br>med<br>rening i<br>krossdike | Planerad<br>situation med<br>rening i<br>regnväxtbädd |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | kg/år | 0,62 | 1,1 | 0,69 | 0,69 | 0,69 |
 | Kväve (N) | kg/år | 12 | 19 | 14 | 10 | 12 |
@@ -1666,7 +1666,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 41-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/41-1.csv)
 
-| Planerad<br>Planerad Planerad<br>Planerad situation situation<br>Befintlig situation med situation med<br>Ämne Enhet utan med<br>situation rening i rening i<br>dagvattenåtgärder rening i<br>dagvattendamm regnväxtbädd<br>krossdike |  |  |  |  |  |  |
+| Ämne | Enhet | Befintlig<br>situation | Planerad situation<br>utan<br>dagvattenåtgärder | Planerad<br>situation med<br>rening i<br>dagvattendamm | Planerad<br>situation<br>med<br>rening i<br>krossdike | Planerad<br>situation med<br>rening i<br>regnväxtbädd |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fosfor (P) | µg/l | 51 | 67 | 44 | 44 | 44 |
 | Kväve (N) | µg/l | 980 | 1 200 | 910 | 630 | 760 |
@@ -1726,7 +1726,7 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 42-1](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/42-1.csv)
 
-| Anläggning/åtgärdsförslag Lägsta kostnad Schablonkostnad Högsta kostnad Enhet |  |  |  |  |
+| Anläggning/åtgärdsförslag | Lägsta kostnad | Schablonkostnad | Högsta kostnad | Enhet |
 | --- | --- | --- | --- | --- |
 | Regnväxtbädd | 5 600 | 10 000 | 18 000 | kr/m2 |
 | Dagvattendamm (våt damm) | 210 | 1 000 | 1 600 | kr/m2 |
@@ -1734,14 +1734,14 @@ Org.nr 556375-5478 F-skattebevis
 
 [Tabell 42-2](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/42-2.csv)
 
-| Anläggning/åtgärdsförslag Beskrivning av drift Kostnad drift och Enhet Källa<br>underhåll |  |  |  |  |
+| Anläggning/åtgärdsförslag | Beskrivning av drift | Kostnad drift och<br>underhåll | Enhet | Källa |
 | --- | --- | --- | --- | --- |
 | Regnväxtbädd | Skötsel av växter 2<br>ggr/år | 25 | kr/m2/år | WRS, 2016 |
 | Övriga anläggningar | - | 5% av anläggningskostnaden |  | Ramboll, 2014 |
 
 [Tabell 42-3](handlingar-seniorbostader-vid-bukarrsvagen-dagvattenutredning.tabeller/42-3.csv)
 
-| Anläggning/åtgärdsförslag Dimension (m2) Anläggningskostnad (kr) Drift- och skötselkostnad (kr/år) |  |  |  |
+| Anläggning/åtgärdsförslag | Dimension (m2) | Anläggningskostnad (kr) | Drift- och skötselkostnad (kr/år) |
 | --- | --- | --- | --- |
 | Regnväxtbäddar | 280 | 2 800 000 | 8 750 |
 | Dagvattendamm | 500 | 500 000 | 25 000 |

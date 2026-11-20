@@ -1,12 +1,17 @@
-"Planerad Planerad
-Planerad
-Planerad situation situation situation med
-Befintlig situation med
-Ämne Enhet utan med rening i
-situation rening i
-dagvattenåtgärder rening i regnväxtbädd
-dagvattendamm
-krossdike",,,,,,
+Ämne,Enhet,"Befintlig
+situation","Planerad situation
+utan
+dagvattenåtgärder","Planerad
+situation med
+rening i
+dagvattendamm","Planerad
+situation
+med
+rening i
+krossdike","Planerad
+situation med
+rening i
+regnväxtbädd"
 Fosfor (P),kg/år,"0,62","1,1","0,69","0,69","0,69"
 Kväve (N),kg/år,12,19,14,10,12
 Bly (Pb),kg/år,"0,028","0,062","0,033","0,026","0,025"

@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.58e850c319b35598f86330/177306114290
 sha256: 2c01f6a1da3fb16ddc4aca8dc0be0e10e58814d3ecb8c57287d592e483281022
 bytes: 335618
 sidor: 37
-hamtad: 2026-11-15T09:06:38+00:00
-konverterad: 2026-11-15T09:06:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:48:05+00:00
+konverterad: 2026-11-20T12:48:12+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1210,8 +1210,11 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       26 (37)
 
 [Tabell 26-1](handlingar-nya-lokala-avfallsforeskrifter-lokala-avfallsforeskrifter.tabeller/26-1.csv)
 
-| Typ av avfall som<br>ska sorteras ut och<br>hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på emballering<br>med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som | Krav på | Krav på emballering | Instruktion för |
 | --- | --- | --- | --- |
+| ska sorteras ut och | utsortering | med | hämtning/lämning |
+| hållas |  | mera |  |
+| skiljt från annat avfall |  |  |  |
 | Annat avfall än avfall<br>under kommunalt<br>ansvar. | Detta avfall ska<br>hanteras separat<br>från avfall under<br>kommunalt<br>ansvar enligt 15<br>kap. 20 §<br>miljöbalken. | Fraktionerna ska förvaras<br>och transporteras skilt från<br>varandra och annat<br>avfall. Ska emballeras<br>efter mottagarens<br>villkor. | Kontakta lämplig entreprenör. |
 | Bygg- och<br>rivningsavfall som inte<br>producerats i en<br>yrkesmässig<br>verksamhet | Detta avfall ska<br>sorteras ut och<br>hanteras<br>separat från<br>kommunalt<br>avfall och avfall<br>under<br>kommunalt<br>Ansvar enligt 15<br>kap. 20 §<br>miljöbalken.<br>Avfallet ska<br>utöver<br>utsortering av<br>farligt avfall<br>samt<br>elektronikavfall<br>sorteras i minst<br>följande fraktioner:<br>trä, mineral (som<br>består av betong,<br>tegel, klinker,<br>keramik eller<br>sten),<br>metall, glas, plast<br>och gips. | För vissa fraktioner ställs<br>specifika krav på<br>emballering, till exempel<br>för asbest (se nedan). | Avfallet lämnas utsorterat på<br>återvinningscentral eller hämtas<br>fastighetsnära av entreprenör som<br>ingått avtal kring hämtning av bygg-<br>och rivningsavfall med kommunen.<br>Annan transportör godtas enligt 15a§ |
 
@@ -1294,8 +1297,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       30 (37)
 
 [Tabell 30-1](handlingar-nya-lokala-avfallsforeskrifter-lokala-avfallsforeskrifter.tabeller/30-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på utsortering | Krav på<br>emballering med<br>mera | Instruktion för<br>hämtning/lämning |
+| Typ av avfall som ska | Krav på utsortering | Krav på | Instruktion för |
 | --- | --- | --- | --- |
+| sorteras ut och hållas |  | emballering med | hämtning/lämning |
+| skiljt från annat avfall |  | mera |  |
 | Komposterbart<br>trädgårdsavfall<br>(Till komposterbart<br>trädgårdsavfall räknas<br>växtavfall som uppkommer<br>vid normal trädgårdsskötsel<br>däremot inte fällda träd<br>eller avfall som uppstår vid<br>större anläggningsarbeten<br>i en trädgård.) | Ska sorteras ut och<br>hållas skilt från annat<br>avfall. | På återvinnings- centralen<br>ska avfallet lämnas enligt<br>instruktioner på plats. | Komposterbart trädgårdsavfall<br>lämnas på återvinningscentral.<br>Hämtning från fastighet kan<br>beställas separat enligt<br>kommunens avfallstaxa.<br>Hämtning av komposterbart<br>trädgårdsavfall sker separat från<br>hämtning av annat grovavfall.<br>För abonnemang med hämtning<br>av komposterbart trädgårdsavfall i<br>kärl, ska avfallet läggas löst i kärlet<br>och inte packas så hårt att<br>tömningen försvåras.<br>Annan transportör godtas enligt<br>15a§<br>Trädgårdsavfall från den egna<br>fastigheten får komposteras på<br>fastigheten. Särskilda regler gäller<br>för avfall som innehåller invasiva<br>växter. |
 
 <!-- sida 31 -->
@@ -1327,8 +1332,10 @@ Kungsbacka kommun             Lokala avfallsföreskrifter       33 (37)
 
 [Tabell 33-1](handlingar-nya-lokala-avfallsforeskrifter-lokala-avfallsforeskrifter.tabeller/33-1.csv)
 
-| Typ av avfall som ska<br>sorteras ut och hållas<br>skiljt från annat avfall | Krav på<br>utsortering | Krav på<br>emballering med<br>mera | Instruktion för hämtning/lämning |
+| Typ av avfall som ska | Krav på | Krav på | Instruktion för hämtning/lämning |
 | --- | --- | --- | --- |
+| sorteras ut och hållas | utsortering | emballering med |  |
+| skiljt från annat avfall |  | mera |  |
 | Andra animaliska<br>biprodukter än döda<br>sällskapsdjur och<br>matavfall. Blandas före<br>detta livsmedel med<br>annat avfall utgör den<br>blandade fraktionen före<br>detta livsmedel och är<br>ABP enligt definitionen. |  | Före detta livsmedel från<br>butik ska av<br>avfallslämnaren förpackas i<br>särskild påse, säck eller<br>lämnas i tank av typ som<br>godkänts av<br>avfallsansvariga nämnden. |  |
 | Stickande och skärande<br>avfall under kommunalt<br>ansvar (från hushåll eller<br>uppkommet genom<br>egenvård) |  | Kanyler ska läggas i<br>speciell behållare som<br>tillhandahålls av<br>kommunen via exempelvis<br>apotek.<br>Annat stickande och<br>skärande avfall i<br>mindre volymer ska<br>paketeras väl. | Ska lämnas till apotek som<br>kommunen har avtal med eller på<br>återvinningscentral.<br>Hämtning av fulla<br>behållare från<br>fastighet kan<br>beställas med<br>tjänster enligt<br>kommunens<br>avfallstaxa.<br>Välpaketerat<br>stickande och<br>skärande avfall i<br>mindre volymer ska<br>läggas i behållare för<br>brännbart restavfall.<br>Annan transportör<br>godtas enligt 15a§ |
 | Förpackningar | I enlighet med<br>definitionen av<br>förpackning i<br>förordningen<br>(2018:1462) om<br>producentansvar<br>för<br>förpackningar | Lämnas lösa i de<br>behållare/ kärl som<br>tillhandahålls/anvisas | Se sorteringskrav i<br>13a§<br>Annan transportör godtas enligt<br>15a§ |

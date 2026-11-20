@@ -12,9 +12,9 @@ kalla_url: https://kungsbacka.se/download/18.1cd7181219c04809751b5937/1770016304
 sha256: 6114c8689ddc2c5ce314b49e2d57af24ed0fe3ab137de4c1fbef79986ff1786f
 bytes: 1978695
 sidor: 22
-hamtad: 2026-11-15T08:57:20+00:00
-konverterad: 2026-11-15T08:57:33+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T12:37:22+00:00
+konverterad: 2026-11-20T12:37:36+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
@@ -416,8 +416,9 @@ Unr 1320063350
 
 [Tabell 11-1](handlingar-bostader-i-sarogarden-bullerutredning.tabeller/11-1.csv)
 
-|  | Bostads fasad<br>(Leq )<br>24h | Bostads uteplats<br>(Leq )<br>24h | Bostads uteplats<br>(Lmax) |
+|  | Bostads fasad | Bostads uteplats | Bostads uteplats |
 | --- | --- | --- | --- |
+|  | (Leq )<br>24h | (Leq )<br>24h | (Lmax) |
 | Vid väg | 55 dB(A) | \~55 dB(A)II | 70 dB(A)I |
 | Vid spår | 60 dB(A) | 55 dB(A) | 70 dB(A)I |
 
