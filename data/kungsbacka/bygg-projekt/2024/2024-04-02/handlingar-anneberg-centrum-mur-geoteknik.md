@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b224aa/1712047952
 sha256: e6fd9f44200499c569d54638fe806c6385747eb8b0595989425a60d3a1694a42
 bytes: 19069016
 sidor: 25
-hamtad: 2026-11-13T16:50:06+00:00
-konverterad: 2026-11-13T16:50:37+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-20T10:43:59+00:00
+konverterad: 2026-11-20T10:44:28+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker]
 tal_obekraftade: [10, 11, 12, 13, 14, 15, 16, 17, 18]
 figurer: [1, 2, 4, 19, 20, 21, 22, 23, 24, 25]
 tolkade: []
@@ -139,14 +139,16 @@ n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\mur kompletteringar\mur geo.doc
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 5-2](handlingar-anneberg-centrum-mur-geoteknik.tabeller/5-2.csv)
 
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
-| CPTr-sondering | SS-EN ISO 22476-1:2012 med tillägg SS-EN ISO<br>22476-1:2012/AC:2013 |
+| CPTr-sondering | SS-EN ISO 22476-1:2012 med tillägg SS-EN ISO |
+|  | 22476-1:2012/AC:2013 |
 | Skruvprovtagning | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 | Kolvprovtagning | Geoteknisk fälthandbok SGF Rapport 1:2013 |
 

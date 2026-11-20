@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b224ab/1712047955
 sha256: f9c33ae1b86eb2fc2fb642ceca7f04e405e359a98509c41ea1f721c3fae100ae
 bytes: 47049162
 sidor: 312
-hamtad: 2026-11-13T16:50:37+00:00
-konverterad: 2026-11-13T16:53:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T10:44:28+00:00
+konverterad: 2026-11-20T10:47:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad]
 tal_obekraftade: [1, 14, 16, 18, 20, 91, 98, 100, 101, 102, 104, 105, 106, 108, 109, 110, 114, 115, 116, 117, 120, 121, 122, 123, 124, 127, 128, 129, 130, 131, 135, 136, 137, 138, 142, 143, 144, 145, 149, 150, 151, 152, 156, 157, 158, 159, 163, 164, 165, 166, 170, 171, 172, 173, 178, 179, 180, 181, 184, 185, 186, 187, 190, 191, 192, 193, 197, 198, 199, 200, 204, 205, 206, 207, 211, 212, 213, 217, 218, 219, 224, 226, 228, 229, 230, 231, 232, 233, 234, 236, 237, 238, 240, 242, 246, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 274, 275, 276, 277, 278, 279, 281, 282, 283, 284, 297, 298, 299, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312]
 figurer: [1, 14, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 51, 52, 53, 98, 100, 101, 102, 103, 104, 107, 108, 114, 115, 121, 122, 128, 129, 135, 136, 142, 143, 149, 150, 156, 157, 163, 164, 170, 171, 178, 179, 184, 185, 190, 191, 197, 198, 204, 224, 226, 228, 229, 231, 232, 234, 236, 237, 238, 240, 257, 258, 259, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 274, 275, 276, 277, 278, 279, 281, 282, 283, 284, 286, 290, 294, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312]
 tolkade: []
@@ -2822,12 +2822,6 @@ p
 Bilaga 3 (sida 1 av 4)
 Portrycksmätning
 
-Markytans nivå:             6.347
-Tot rörlängd till filtermitt: 4.32 m
-
-ök rör:                      1.3 m ö my           Nivå: 7.647
-Spetsdjup (filtermitt):     3.02 m u my           Nivå: 3.327
-
 B
 
 C
@@ -2845,12 +2839,20 @@ PP3
 
 [Tabell 93-1](handlingar-anneberg-centrum-mur-anneberg.tabeller/93-1.csv)
 
-| Uppdrag: ANNEBERG<br>SERNEKE | 1801 PP3<br>Borrpunkt: |
-| --- | --- |
-| System: BAT | Inst.datum: 2018-08-13 |
-| Installerat av: SEMICK |  |
+| Uppdrag: | ANNEBERG<br>SERNEKE | Borrpunkt: | 1801 PP3 |
+| --- | --- | --- | --- |
+| System: | BAT | Inst.datum: | 2018-08-13 |
+| Installerat av: | SEMICK |  |  |
 
 [Tabell 93-2](handlingar-anneberg-centrum-mur-anneberg.tabeller/93-2.csv)
+
+| Markytans nivå: | 6.347 |  |  |
+| --- | --- | --- | --- |
+| Tot rörlängd till filtermitt: | 4.32 | m |  |
+| ök rör: | 1.3 | m ö my Nivå: | 7.647 |
+| Spetsdjup (filtermitt): | 3.02 | m u my Nivå: | 3.327 |
+
+[Tabell 93-3](handlingar-anneberg-centrum-mur-anneberg.tabeller/93-3.csv)
 
 | Datum | Avläsning<br>[kPa]<br>( A ) | Avläsn. ovan<br>membran<br>[kPa]<br>( C ) | Portryck<br>[kPa]<br>(A-C+2 kPa) | Motsvarande<br>trycknivå | Anmärkning | Sign |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2875,12 +2877,6 @@ PP3
 Bilaga 3 (sida 2 av 4)
 Portrycksmätning
 
-Markytans nivå:             6.347
-Tot rörlängd till filtermitt: 6.32 m
-
-ök rör:                      1.3 m ö my           Nivå: 7.647
-Spetsdjup (filtermitt):     5.02 m u my           Nivå: 1.327
-
 B
 
 C
@@ -2898,12 +2894,20 @@ PP5
 
 [Tabell 94-1](handlingar-anneberg-centrum-mur-anneberg.tabeller/94-1.csv)
 
-| Uppdrag: ANNEBERG<br>SERNEKE | 1801 PP5<br>Borrpunkt: |
-| --- | --- |
-| System: BAT | Inst.datum: 2018-08-13 |
-| Installerat av: SEMICK |  |
+| Uppdrag: | ANNEBERG<br>SERNEKE | Borrpunkt: | 1801 PP5 |
+| --- | --- | --- | --- |
+| System: | BAT | Inst.datum: | 2018-08-13 |
+| Installerat av: | SEMICK |  |  |
 
 [Tabell 94-2](handlingar-anneberg-centrum-mur-anneberg.tabeller/94-2.csv)
+
+| Markytans nivå: | 6.347 |  |  |
+| --- | --- | --- | --- |
+| Tot rörlängd till filtermitt: | 6.32 | m |  |
+| ök rör: | 1.3 | m ö my Nivå: | 7.647 |
+| Spetsdjup (filtermitt): | 5.02 | m u my Nivå: | 1.327 |
+
+[Tabell 94-3](handlingar-anneberg-centrum-mur-anneberg.tabeller/94-3.csv)
 
 | Datum | Avläsning<br>[kPa]<br>( A ) | Avläsn. ovan<br>membran<br>[kPa]<br>( C ) | Portryck<br>[kPa]<br>(A-C+2 kPa) | Motsvarande<br>trycknivå | Anmärkning | Sign |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2928,12 +2932,6 @@ PP5
 Bilaga 3 (sida 3 av 4)
 Portrycksmätning
 
-Markytans nivå:             6.347
-Tot rörlängd till filtermitt: 11.38 m
-
-ök rör:                     1.35 m ö my           Nivå: 7.697
-Spetsdjup (filtermitt):     9.99 m u my           Nivå: -3.643
-
 B
 
 C
@@ -2951,12 +2949,20 @@ PP10
 
 [Tabell 95-1](handlingar-anneberg-centrum-mur-anneberg.tabeller/95-1.csv)
 
-| Uppdrag: ANNEBERG<br>SERNEKE | 1801 PP10<br>Borrpunkt: |
-| --- | --- |
-| System: BAT | Inst.datum: 2018-08-13 |
-| Installerat av: SEMICK |  |
+| Uppdrag: | ANNEBERG<br>SERNEKE | Borrpunkt: | 1801 PP10 |
+| --- | --- | --- | --- |
+| System: | BAT | Inst.datum: | 2018-08-13 |
+| Installerat av: | SEMICK |  |  |
 
 [Tabell 95-2](handlingar-anneberg-centrum-mur-anneberg.tabeller/95-2.csv)
+
+| Markytans nivå: | 6.347 |  |  |
+| --- | --- | --- | --- |
+| Tot rörlängd till filtermitt: | 11.38 | m |  |
+| ök rör: | 1.35 | m ö my Nivå: | 7.697 |
+| Spetsdjup (filtermitt): | 9.99 | m u my Nivå: | -3.643 |
+
+[Tabell 95-3](handlingar-anneberg-centrum-mur-anneberg.tabeller/95-3.csv)
 
 | Datum | Avläsning<br>[kPa]<br>( A ) | Avläsn. ovan<br>membran<br>[kPa]<br>( C ) | Portryck<br>[kPa]<br>(A-C+2 kPa) | Motsvarande<br>trycknivå | Anmärkning | Sign |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -2981,12 +2987,6 @@ PP10
 Bilaga 3 (sida 4 av 4)
 Portrycksmätning
 
-Markytans nivå:             6.347
-Tot rörlängd till filtermitt: 21.38 m
-
-ök rör:                     1.33 m ö my           Nivå: 7.677
-Spetsdjup (filtermitt):     20.08 m u my          Nivå: -13.733
-
 B
 
 C
@@ -3004,12 +3004,20 @@ PP20
 
 [Tabell 96-1](handlingar-anneberg-centrum-mur-anneberg.tabeller/96-1.csv)
 
-| Uppdrag: ANNEBERG<br>SERNEKE | 1801 PP20<br>Borrpunkt: |
-| --- | --- |
-| System: BAT | Inst.datum: 2018-08-13 |
-| Installerat av: SEMICK |  |
+| Uppdrag: | ANNEBERG<br>SERNEKE | Borrpunkt: | 1801 PP20 |
+| --- | --- | --- | --- |
+| System: | BAT | Inst.datum: | 2018-08-13 |
+| Installerat av: | SEMICK |  |  |
 
 [Tabell 96-2](handlingar-anneberg-centrum-mur-anneberg.tabeller/96-2.csv)
+
+| Markytans nivå: | 6.347 |  |  |
+| --- | --- | --- | --- |
+| Tot rörlängd till filtermitt: | 21.38 | m |  |
+| ök rör: | 1.33 | m ö my Nivå: | 7.677 |
+| Spetsdjup (filtermitt): | 20.08 | m u my Nivå: | -13.733 |
+
+[Tabell 96-3](handlingar-anneberg-centrum-mur-anneberg.tabeller/96-3.csv)
 
 | Datum | Avläsning<br>[kPa]<br>( A ) | Avläsn. ovan<br>membran<br>[kPa]<br>( C ) | Portryck<br>[kPa]<br>(A-C+2 kPa) | Motsvarande<br>trycknivå | Anmärkning | Sign |
 | --- | --- | --- | --- | --- | --- | --- |

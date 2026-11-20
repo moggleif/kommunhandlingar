@@ -12,14 +12,14 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b220a3/1712041821
 sha256: 4cff369605f3584cdb635c7092f9515edf1c7ed5cffd548d5ccd05f853c270aa
 bytes: 4698067
 sidor: 20
-hamtad: 2026-11-13T16:47:44+00:00
-konverterad: 2026-11-13T16:48:26+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T10:41:32+00:00
+konverterad: 2026-11-20T10:42:12+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ej-konverterad, ok, ej-konverterad, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker]
 tal_obekraftade: [8, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20]
-figurer: [1, 2, 4, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+figurer: [1, 4, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
 tolkade: []
 granskad: null
 ---
@@ -50,13 +50,19 @@ Handläggare:        Marcus Berghamn Claesson
 
 Kungsbacka, Annebergs centrum 107 36 99 Stabilitetsutredning vid vägport för Älvsåkersvägen
 
-0.1   2023-06-09 Granskningshandling    D. Strandberg M. Johansson K. Engerberg
-Version Datum Beskrivning               Upprättat Granskat Godkänt
+0.1
+Version
 
 Detta dokument är framtaget av Norconsult AB som del av det uppdrag dokumentet gäller. Upphovsrätten tillhör Norconsult. Beställaren
 har, om inte annat avtalats, endast rätt att använda och kopiera redovisat uppdragsresultat för uppdragets avsedda ändamål.
 
 n:\107\36\1073699\5 arbetsmaterial\01 dokument\g\pm stabilitet undergång\projekterings pm stabilitet.docx 2023-06-09 | Sida 2 av 9
+
+[Tabell 2-1](handlingar-anneberg-centrum-geoteknik-stabilitet-vagport.tabeller/2-1.csv)
+
+| 2023-06-09 | Granskningshandling | D. Strandberg | M. Johansson | K. Engerberg |
+| --- | --- | --- | --- | --- |
+| Datum | Beskrivning | Upprättat | Granskat | Godkänt |
 
 <!-- sida 3 -->
 

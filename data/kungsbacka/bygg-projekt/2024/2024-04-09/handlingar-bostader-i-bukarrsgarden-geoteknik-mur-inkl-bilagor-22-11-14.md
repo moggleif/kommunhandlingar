@@ -12,12 +12,12 @@ kalla_url: https://kungsbacka.se/download/18.2bd99fa118e5fb3b33b3558d/1712650435
 sha256: 1b747f6a8ce334c26d4f8023f696e78c60e7682a99efe934d65b730eeae399e7
 bytes: 25572391
 sidor: 31
-hamtad: 2026-11-13T16:57:48+00:00
-konverterad: 2026-11-13T16:59:01+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-20T10:51:26+00:00
+konverterad: 2026-11-20T10:52:38+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker]
+kvalitet_per_sida: [ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, tabell-osaker]
 tal_obekraftade: [13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
 figurer: [2, 4, 8, 9, 10, 11, 12, 13, 26, 27, 28, 29, 30]
 tolkade: []
@@ -164,7 +164,8 @@ n:\108\35\1083537\5 arbetsmaterial\01 dokument\g\nötegång mur geo rev20221114.
 | Undersökningsmetod | Standard eller annat styrande dokument |
 | --- | --- |
 | Fältplanering | SS-EN 1997-2:2007/AC:2010 |
-| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013<br>samt SS-EN-ISO 22475-1:2006 |
+| Fältutförande | Geoteknisk fälthandbok SGF Rapport 1:2013 |
+|  | samt SS-EN-ISO 22475-1:2006 |
 | Beteckningssystem | SGF/BGS beteckningssystem 2001:2 |
 
 [Tabell 5-2](handlingar-bostader-i-bukarrsgarden-geoteknik-mur-inkl-bilagor-22-11-14.tabeller/5-2.csv)
