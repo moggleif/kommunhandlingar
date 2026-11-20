@@ -2056,3 +2056,23 @@ Issue [#318](https://github.com/moggleif/kungsbackakommun/issues/318).
   de inte möts
 - **När** dokumentet konverteras
 - **Så** blir de ingen tabell, som förut.
+
+## K62 — Protokollens paragrafer går att söka från sajtraden
+
+Hur och varför står i
+[ADR-0089](decisions/0089-sokindex-over-protokollens-paragrafer.md)
+och [Paragraferna och ärendena](03-ARKITEKTUR.md#paragraferna-och-ärendena); sökningen själv i Giffås K28.
+
+- **Givet** poolens protokoll
+- **När** webbplatsen byggs
+- **Så** finns `sok.json` i webbplatsens rot med en grupp per kommun,
+  *Protokollen i* och kommunens namn, och en post per paragraf, nyast först, med
+  paragrafens rubrik, länken till dess sida i protokollet, organet,
+  datumet, paragrafens nummer och diarienumren.
+- **Givet** knappen *Sök* i projektets sajtrad
+- **När** någon söker på ett ord i en paragrafs rubrik, ett diarienummer
+  eller ett organ
+- **Så** står paragrafen bland träffarna under poolens namn.
+- **Givet** en kommun utan protokoll
+- **När** webbplatsen byggs
+- **Så** har kommunens grupp inga poster.

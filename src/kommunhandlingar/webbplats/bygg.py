@@ -1,10 +1,10 @@
-"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56, K58 och K60
-i docs/02-KRAV.md.
+"""Krav: K14, K18, K22, K26, K28, K36, K37, K39, K46, K47, K48, K54, K56, K58, K60 och
+K62 i docs/02-KRAV.md.
 Test: tests/test_webbplats.py, tests/test_projekt.py,
 tests/test_webbplats_dokument.py, tests/test_kalender.py, tests/test_mal.py,
 tests/test_uppfoljningar.py, tests/test_lokalbehov.py, tests/test_initiativ.py,
 tests/test_dokumentindex.py, tests/test_paragrafindex.py,
-tests/test_sammantradessida.py.
+tests/test_sammantradessida.py, tests/test_sokindex.py.
 """
 
 import shutil
@@ -24,6 +24,7 @@ from kommunhandlingar.webbplats import (
     projekt,
     sammantradesbygge,
     sidor,
+    sokindex,
     spar,
     uppfoljningar,
 )
@@ -63,15 +64,17 @@ def bygg(rot: Path, ut: Path, repo: str, byggd: datetime) -> Mall:
     if not mall.en_kommun:
         (ut / "index.html").write_text(sidor.startsida(mall), encoding="utf-8")
     (ut / "llms.txt").write_text(llms(mall), encoding="utf-8")
+    sokgrupper = []
     for kommun in kommuner:
-        bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun)
+        sokgrupper.append(bygg_kommun(rot / "data" / kommun.id, ut, mall, kommun))
         bygg_kalender(rot, ut, mall, kommun)
+    sokindex.skriv(ut, sokgrupper)
     return mall
 
 
 # Varje dokuments sida skrivs när det läses, så att poolens text inte hålls
-# i minnet.
-def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
+# i minnet. Kommunens grupp i sökindexet lämnas tillbaka.
+def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> dict:
     (ut / kommun.id).mkdir(exist_ok=True)
     dokument, stycken = [], []
     for fil in sorted(katalog.rglob("*.md")):
@@ -88,6 +91,7 @@ def bygg_kommun(katalog: Path, ut: Path, mall: Mall, kommun: Kommun) -> None:
     (ut / statusadress(kommun.id)).write_text(html, encoding="utf-8")
     bygg_oversikten(ut, mall, kommun, dokument)
     bygg_organen(ut, mall, kommun, dokument)
+    return sokindex.grupp(kommun, underlag.paragrafer)
 
 
 def bygg_oversikten(ut: Path, mall: Mall, kommun: Kommun, dokument: list[dict]) -> None:

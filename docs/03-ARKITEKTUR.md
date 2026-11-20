@@ -1773,6 +1773,17 @@ datakontrollen och bygget delar.
   `tal_obekraftade` (om sidan står i dokumentets `tal_obekraftade`), och
   `fil` och `sida` som i indexet, med `#sida-<sidnummer>` efter sidan.
   Paragraftexten följer inte med.
+- **`sok.json`** (`webbplats/sokindex.py`, K62) i webbplatsens rot är
+  sökindexet för knappen *Sök* i projektets gemensamma sajtrad, i det
+  format som
+  [Giffås beslut 0018](https://github.com/moggleif/giffa/blob/main/beslut/0018-sok-i-sajtraden.md)
+  bestämmer: en grupp per kommun, *Protokollen i* och kommunens namn, med en post
+  per rad i `paragrafer.jsonl`, nyast först. Posten har `rubrik`
+  (paragrafens, eller `§ <nummer>` när den saknas), `adress` (`sida`),
+  `om` (organets namn, datumet i klartext, paragrafen och varje
+  diarienummer), `traff` (rubriken och diarienumren i små bokstäver) och
+  `text` (organet i små bokstäver), så att ett ord som också är ett organs
+  namn ger paragraferna med ordet i rubriken först.
 
 ## Webbplatsen
 
