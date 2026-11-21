@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20200712021011id_/https://www.kungsbacka.
 sha256: a82d0d3c217c1a6d841593e22d29b578f06ecec3cebedda047434b9a19dac01b
 bytes: 6511110
 sidor: 22
-hamtad: 2026-11-04T12:25:51+00:00
-konverterad: 2026-11-04T12:26:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:26:35+00:00
+konverterad: 2026-11-21T02:27:24+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -906,7 +906,7 @@ Namn LISA ANDERSSON
 Datum & Tid 2019-10-25 09:33:36 +02:00
 Identifikationstyp Svensk e-legitimation
 
-Identifikations-id 09c9b021d683455cb3626ca4c5b09d4301
+Identifikations-id -09c9b021d683455cb3626ca4c5b09d4301
 Namn ULRIKA HÖGSTRAND
 
 Datum & Tid 2019-10-25 10:14:15 +02:00
