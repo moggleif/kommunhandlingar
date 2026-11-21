@@ -1,11 +1,12 @@
-"""Krav: K6 och K41 i docs/02-KRAV.md, ADR-0005 och ADR-0064.
+"""Krav: K6, K41 och K73 i docs/02-KRAV.md, ADR-0005, ADR-0064 och ADR-0100.
 Test: tests/test_konvertering.py och tests/test_hogkant.py.
 
 En sida som ska läsas med OCR renderas med pypdfium2 i 300 dpi, i gråskala,
 och läses av Tesseract med svensk modell. Säkerheten är medelvärdet av
 Tesseracts säkerhet för de ord den känt igen; under tröskeln, eller utan
-ord, är sidan `ej-konverterad`. Det är den också när Tesseract fallerar
-eller inte blir klar på fem minuter. Saknas Tesseract eller modellen
+ord, ger läsningen ingen text men sin TSV, som de säkra raderna läses ur
+(K73). Fallerar Tesseract eller blir den inte klar på fem minuter ger
+läsningen ingenting. Saknas Tesseract eller modellen
 stoppas körningen innan något dokument läses (`kontrollera`).
 
 Ord på högkant, som en stämpel i marginalen, målas vita och sidan läses
@@ -53,6 +54,7 @@ class Lasning:
     text: str | None
     ord: list[tuple[int, int, int, int]] = field(default_factory=list)
     ordantal: int | None = None  # None: Tesseract fallerade
+    tsv: str = ""
 
 
 def rendera(rendering: pdfium.PdfPage) -> Image.Image:
@@ -68,7 +70,7 @@ def las(bild: Image.Image) -> Lasning:
         return Lasning(None)
     ord_, antal = sakra_ord(forsta[0]), len(ordrader(forsta[0]))
     if not over_troskeln(forsta[0]):
-        return Lasning(None, ord_, antal)
+        return Lasning(None, ord_, antal, forsta[0])
     return Lasning(text_utan_stamplar(bild, forsta), ord_, antal)
 
 

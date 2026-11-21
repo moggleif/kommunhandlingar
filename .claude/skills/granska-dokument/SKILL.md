@@ -31,6 +31,10 @@ och formaten under "Tabeller" och "Tolkade figurer".
      går att läsa säkert ur bilden; numreringen följer läget på sidan. På
      en OCR-sida rättas tabellen i texten i stället.
    - **Figurerna** tolkas enligt `.claude/skills/tolka-figurer/SKILL.md`.
+   - **En sida utan text att lagra**, som en karta, en ritning,
+     handskrift, ett omslag eller för liten text, märks `ointressant` i
+     `kvalitet_per_sida`, och text som står på den tas bort (K73,
+     ADR-0100). Namn på privatpersoner i handskrift skrivs aldrig av.
    - **Det som ändå är osäkert** skrivs sist på sidan, före en tolkning,
      som `> **Granskning:** <vad som är osäkert>`. Gissa aldrig ett tal.
 5. Märk dokumentet: `granskad: <dagens datum>`; ta bort de sidor vars tal

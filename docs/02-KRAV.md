@@ -185,8 +185,9 @@ kunna läggas till utan kodändring.
   utan tecken, eller en sida där textlagret är oläsligt
 - **När** dokumentet konverteras
 - **Så** läses sidan med OCR och märks `ocr`. Når OCR inte
-  säkerhetströskeln märks sidan `ej-konverterad`, eller `bild` eller `tom`
-  enligt K72, och ingen text från den skrivs.
+  säkerhetströskeln får sidan sina säkra rader enligt K73, eller märks
+  `bild` eller `tom` enligt K72 eller `ointressant` enligt K73, och ingen
+  annan text från den skrivs.
 
 - **Givet** en sida vars tal inte är bekräftade – en sida som lästs med
   OCR, en sida som inte gick att konvertera, ett textlager med oläsliga
@@ -2130,11 +2131,57 @@ läsa: inte ett foto, en karta eller en tom sida.
 - **Givet** en skanning av brus, text som är för dålig för OCR, eller en
   sida med bara en namnteckning
 - **När** sidan konverteras
-- **Så** blir sidan `ej-konverterad` som förut: den ska läsas av en
-  människa.
+- **Så** blir sidan inte `bild` eller `tom`; vad den blir står i K73.
 
 - **Givet** omkonvertering i kommunfilen och ett dokument som är `full`
   i en äldre version av poolen
 - **När** steg 2 körs
 - **Så** konverteras det inte om; ett dokument med en svagare sida
   konverteras om som förut.
+
+## K73 — Varje sida har känd inläsning
+
+Hur och varför står i
+[ADR-0100](decisions/0100-sakra-rader-lases-och-resten-ar-ointressant.md)
+och [Inskannade sidor som inte blir text](03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text).
+Issue [#344](https://github.com/moggleif/kungsbackakommun/issues/344).
+Varje sida ska vara läst, tom, en bild eller märkt med varför den inte är
+läst. Kartor, ritningar, handskrift, omslag och för liten text lagras
+inte, men tryckt text som går att läsa säkert ska bli sökbar.
+
+- **Givet** en inskannad textsida där OCR inte når tröskeln för att en
+  underskrift, en logga, en karta eller prickrader drar ner säkerheten,
+  men där minst 30 ord står på rader som Tesseract läst säkert
+- **När** sidan konverteras
+- **Så** blir sidan `ocr` med de säkra raderna, och det som inte lästes
+  säkert skrivs inte.
+
+- **Givet** en inskannad plankarta vars bestämmelser står på högkant
+- **När** sidan konverteras och inte når tröskeln
+- **Så** läses den också vriden 90° åt båda hållen, och den läsning som
+  ger flest ord på säkra rader gäller.
+
+- **Givet** en inskannad sida där OCR inte når tröskeln och färre än 30
+  ord står på säkra rader, till exempel en ljus karta, en ritning,
+  handskrift, ett omslag, för liten text eller en skanning som är för
+  dålig för OCR
+- **När** sidan konverteras
+- **Så** blir den `bild` om den till största delen är en jämn bildyta och
+  `tom` om den är nästan tom (K72), och annars `ointressant`; ingen text
+  skrivs, och ett dokument vars övriga sidor är `ok`, `tom` eller `bild`
+  blir `full`.
+
+- **Givet** en inskannad sida där Tesseract fallerar i en vriden läsning
+- **När** sidan läses rad för rad
+- **Så** blir sidan `ej-konverterad`.
+
+- **Givet** en granskning för hand (K34) av en sida som inte har någon
+  text att lagra
+- **När** granskaren märker den
+- **Så** får sidan kvaliteten `ointressant` och ingen text.
+
+- **Givet** poolen för en kommun
+- **När** `python -m kommunhandlingar.kand_inlasning data` körs
+- **Så** står hur många av kommunens sidor som har känd inläsning, alltså
+  inte är `ej-konverterad`, andelen i procent, antalet sidor per
+  sidkvalitet och antalet dokument utan sidor.

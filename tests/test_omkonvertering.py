@@ -87,6 +87,8 @@ class TestFullKonverterasInteOm(Steg2Fall):
         self.klient.filer["u1"] = "kort.pdf"
         self.kor(kandidat("s:1", "u1"), version="kommunhandlingar 0.1.0")
         text = self.md().read_text()
-        self.md().write_text(text.replace("kvalitet: delvis", "kvalitet: full", 1))
+        self.md().write_text(
+            text.replace("kvalitet: text-utan-tabeller", "kvalitet: full", 1)
+        )
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["oförändrad"])
         self.assertEqual(self.klient.anrop, ["u1"])

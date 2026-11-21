@@ -855,8 +855,9 @@ Varje sida får en kvalitet:
 
 | Sida             | Betyder                                                          |
 | ---------------- | ---------------------------------------------------------------- |
-| `ej-konverterad` | Sidan har fler än 500 000 tecken, eller skulle läsas med OCR men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln, också med bildytan maskad och vänd, och sidan är varken en bild eller nästan tom. Ingen text från sidan skrivs. |
-| `bild`           | Sidan skulle läsas med OCR, nådde inte tröskeln, och är till största delen ett foto, en karta eller en ritning (K72). Ingen text från sidan skrivs. |
+| `ej-konverterad` | Sidan har fler än 500 000 tecken, eller Tesseract fallerade eller blev inte klar på fem minuter. Ingen text från sidan skrivs. |
+| `bild`           | Sidan skulle läsas med OCR, nådde inte tröskeln, gav för få säkra rader och är till största delen ett foto, en karta eller en ritning (K72). Ingen text från sidan skrivs. |
+| `ointressant`    | Sidan skulle läsas med OCR, nådde inte tröskeln och gav för få säkra rader, och är inte en bild eller tom: en ritning, en ljus karta, handskrift, ett omslag eller för liten text (K73). Granskaren kan också sätta den för hand. Ingen text från sidan skrivs. |
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
 | `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
@@ -896,7 +897,7 @@ nattkörningen checkar inte in något
   skanningar. Säkerheten är medelvärdet av Tesseracts säkerhet för de
   ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
   blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
-  blir den `ej-konverterad`, `bild` eller `tom` efter reglerna i
+  blir den `ocr` med de säkra raderna, `bild`, `ointressant` eller `tom` efter reglerna i
   [Inskannade sidor som inte blir text](#inskannade-sidor-som-inte-blir-text):
   en bildyta maskas och en vriden sida vänds innan sidan ger upp. Fallerar Tesseract på en sida, eller blir den inte
   klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
@@ -1026,11 +1027,11 @@ gäller. Den sämsta sidan avgör:
 | Dokument             | När                                                          |
 | -------------------- | ------------------------------------------------------------ |
 | `ej-hamtad`          | Filen gick inte att hämta (ADR-0004).                        |
-| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida är `ok`, `tabell-osaker`, `ocr` eller `bild`. |
+| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida är `ok`, `tabell-osaker`, `ocr`, `bild` eller `ointressant`. |
 | `delvis`             | Någon sida är `ej-konverterad`.                              |
 | `ocr`                | Någon sida är `ocr`.                                         |
 | `text-utan-tabeller` | Någon sida är `tabell-osaker`.                               |
-| `full`               | Alla sidor är `ok`, `tom` eller `bild`.                      |
+| `full`               | Alla sidor är `ok`, `tom`, `bild` eller `ointressant`.       |
 
 När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
 kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
@@ -1044,7 +1045,7 @@ läsa är `fel` `null`, och `sidor`, `kvalitet_per_sida` och
 `pipeline` är poolens version ur `pyproject.toml` följd av de verktyg som
 läste dokumentet, med version: alltid pdfplumber och pdfminer.six, och
 pypdfium2 samt Tesseract och språkmodellens version när någon sida
-är `ocr` eller `ej-konverterad`, också en sida som är för tung att läsa
+är `ocr`, `bild`, `ointressant` eller `ej-konverterad`, också en sida som är för tung att läsa
 (K55) och aldrig prövades med OCR, till exempel
 `kommunhandlingar 0.3.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 /
 pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0`. För `ej-hamtad` har inget
@@ -1061,9 +1062,11 @@ Verktygens versioner i `pipeline` ger ingen omkonvertering.
 
 Varför står i
 [ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)
-(K72). En sida som ska läsas med OCR läses först som förut, och sidans
+(K72) och
+[ADR-0100](decisions/0100-sakra-rader-lases-och-resten-ar-ointressant.md)
+(K73). En sida som ska läsas med OCR läses först som förut, och sidans
 **bildyta** räknas. Når sidan inte tröskeln prövas stegen nedan i
-ordning; det första som ger text gäller.
+ordning, och det första som stämmer gäller.
 
 **Bildytan.** Sidan renderas i 100 dpi i färg och delas i 48 × 48 rutor.
 En ruta är bild när minst 30 % av den är mörk (gråvärde under 200) eller
@@ -1081,18 +1084,42 @@ grannrutorna varandra, i brus gör de inte det.
 2. **Sidan vänds:** Tesseracts orienteringsdetektering (`--psm 0`, modellen
    `osd`) säger hur sidan ska vridas; säger den 90, 180 eller 270 grader
    med en säkerhet på minst 2, vänds sidan och läses om.
-3. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
-4. **Nästan tom:** är högst 0,5 % av sidan mörk och hittade Tesseract
+3. **Säkra rader** (K73): sidan läses rad för rad. En rad behålls när
+   den har ett ord med minst tre bokstäver och medelvärdet av Tesseracts
+   säkerhet för dess ord är minst 80; ett ord ur en punktutfyllnad (tre
+   punkter i rad, eller bara punkter, komman och `s`) räknas inte. Raderna
+   är Tesseracts egna (block, stycke, rad) ur den första läsningen. Sidan
+   läses också vriden 90° åt båda hållen, för text på högkant som
+   bestämmelserna i en plankarta, och den läsning som ger flest ord i
+   säkra rader gäller. Ger den minst 30 ord blir sidan `ocr` med de
+   raderna, i läsningens ordning; det som inte lästes säkert skrivs inte.
+   Fallerar Tesseract i en vriden läsning blir sidan `ej-konverterad`.
+4. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
+5. **Nästan tom:** är högst 0,5 % av sidan mörk och hittade Tesseract
    inte ett enda ord, blir sidan `tom`. En namnteckning eller en kort rad
    som inte gick att läsa ger ord och blir därför inte `tom`.
-5. **Annars** blir sidan `ej-konverterad`.
+6. **Annars** blir sidan `ointressant`: den har ingen text som ska
+   lagras. Det gäller en ljus karta eller ritning, handskrift, ett omslag,
+   för liten text och en skanning som är för dålig för att läsas säkert.
 
-En sida som får text i steg 1 eller 2 blir `ocr`. En OCR-sida med en
+En sida som får text i steg 1, 2 eller 3 blir `ocr`. En OCR-sida med en
 jämn bildyta på minst 4 % står i `figurer`, och en `bild` står alltid där.
 En `bild` får ingen text och står i `tal_obekraftade`, eftersom talen i en
-karta eller ett diagram inte är lästa. Innehållsförteckningar med
-prickrader, handskrift och mycket dåliga skanningar förblir
-`ej-konverterad`.
+karta eller ett diagram inte är lästa. En `ointressant` sida får ingen
+text, står inte i `figurer` och inte i `tal_obekraftade`, eftersom den
+inte har några tal som lagras. En sida blir `ej-konverterad` här bara
+när Tesseract fallerar eller inte blir klar.
+
+### Känd inläsning
+
+Varför står i
+[ADR-0100](decisions/0100-sakra-rader-lases-och-resten-ar-ointressant.md)
+(K73). En sida har känd inläsning när den inte är `ej-konverterad`: den
+är läst, tom, en bild eller märkt `ointressant`.
+`python -m kommunhandlingar.kand_inlasning data` skriver för varje kommun
+antalet sidor med känd inläsning av alla sidor, andelen i procent med två
+decimaler, antalet sidor per sidkvalitet och antalet dokument utan sidor,
+som inte gick att hämta eller öppna och därför inte räknas in.
 
 ### Figurer
 
@@ -1445,7 +1472,7 @@ Varje sida börjar med kommentaren `<!-- sida N -->`, så att en sida i
   första sidans text (`[Tabell 9-12-1](<namn>.tabeller/9-12-1.csv)`).
   Där är första raden tabellhuvud, eftersom Markdown kräver ett. Cellerna escapas som texten utom i radens början;
   `|` skrivs `\|` och en radbrytning `<br>`.
-- **En sida utan text** (`tom`, `ej-konverterad`) har bara sin kommentar.
+- **En sida utan text** (`tom`, `bild`, `ointressant`, `ej-konverterad`) har bara sin kommentar.
   En `.md` för ett dokument som inte gick att hämta eller öppna har ingen
   text alls.
 - **Lint.** CI kör markdownlint-cli2 på varje `.md` som en pull request
@@ -1720,8 +1747,11 @@ enligt `.claude/skills/granska-dokument/SKILL.md`.
   `ej-konverterad`, eller som står där av något annat skäl, och vars tal
   jämförts med originalet tas bort ur `tal_obekraftade`. En sida som är `tabell-osaker` där varje tabell
   skrivits som CSV blir `ok`, och `kvalitet` räknas om från sidorna enligt
-  [Konvertering och kvalitet](#konvertering-och-kvalitet). Övriga sidor
-  behåller sin kvalitet; den säger hur texten lästes.
+  [Konvertering och kvalitet](#konvertering-och-kvalitet). En sida som
+  inte har någon text som ska lagras, som en karta, handskrift eller ett
+  omslag, kan märkas `ointressant` (K73); en text som redan står på den
+  tas bort. Övriga sidor behåller sin kvalitet; den säger hur texten
+  lästes.
 - **Omkonverteringen** hoppar över ett granskat dokument: det räknas som
   aktuellt oavsett version. Kommer det under en ny adress eller en ny
   källnyckel med samma sha256 skrivs bara adressen och nyckeln in, och en

@@ -1,4 +1,4 @@
-"""Krav: K6 och K72 i docs/02-KRAV.md, ADR-0005 och ADR-0099.
+"""Krav: K6, K72 och K73 i docs/02-KRAV.md, ADR-0005, ADR-0099 och ADR-0100.
 Test: tests/test_konvertering.py.
 
 Dokumentets kvalitet följer av sidornas; den första regeln som stämmer
@@ -14,8 +14,16 @@ KVALITETER = (
     "ej-konverterad",
     "ej-hamtad",
 )
-SIDKVALITETER = ("ok", "tabell-osaker", "ocr", "bild", "tom", "ej-konverterad")
-LASTA = {"ok", "tabell-osaker", "ocr", "bild"}
+SIDKVALITETER = (
+    "ok",
+    "tabell-osaker",
+    "ocr",
+    "bild",
+    "ointressant",
+    "tom",
+    "ej-konverterad",
+)
+LASTA = {"ok", "tabell-osaker", "ocr", "bild", "ointressant"}
 UTAN_TEXT = ("ej-hamtad", "ej-konverterad")
 
 

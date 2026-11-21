@@ -79,7 +79,12 @@ class TestRegeln(unittest.TestCase):
     def test_en_sida_som_lases_med_ocr_provas_ocksa(self):
         with mock.patch.object(las_sida.figurer, "har_figur", return_value=True):
             sidor = konvertera(PDF / "sidor.pdf").sidor
-        self.assertEqual((sidor[8].kvalitet, sidor[8].figur), ("ej-konverterad", True))
+        self.assertEqual((sidor[10].kvalitet, sidor[10].figur), ("ocr", True))
+
+    def test_en_ointressant_sida_star_inte_i_figurer(self):
+        with mock.patch.object(las_sida.figurer, "har_figur", return_value=True):
+            sidor = konvertera(PDF / "sidor.pdf").sidor
+        self.assertEqual((sidor[8].kvalitet, sidor[8].figur), ("ointressant", False))
 
     def test_stapeldiagrammet_i_fixturen_marks(self):
         self.assertEqual(konvertera(PDF / "sidor.pdf").figurer, [17])

@@ -36,11 +36,11 @@ class TestSidorna(unittest.TestCase):
                 "ok",  # tabell med linjer och en färgad rad
                 "ok",  # tabell utan lodräta linjer, talen i linje
                 "tom",  # tom sida
-                "ej-konverterad",  # skanning av brus: OCR finner inga ord
-                "ej-konverterad",  # brus med osynligt OCR-lager: läses om
-                "ej-konverterad",  # brus med en stämpel i synlig text
+                "ointressant",  # skanning av brus: OCR finner inga ord
+                "ointressant",  # brus med osynligt OCR-lager: läses om
+                "ointressant",  # brus med en stämpel i synlig text
                 "ok",  # omslag: helsidesbild med mer än 50 synliga tecken
-                "ej-konverterad",  # en ritad yta utan tecken
+                "ointressant",  # en ritad yta utan tecken
                 "tom",  # bara ett streck
                 "ocr",  # inskannad blankett
                 "ok",  # tabell utan lodräta linjer med rubrikrad
@@ -51,8 +51,8 @@ class TestSidorna(unittest.TestCase):
                 "ok",  # stapeldiagram med talen ovanför staplarna
             ],
         )
-        self.assertEqual(self.resultat.kvalitet, "delvis")
-        self.assertEqual(self.resultat.tal_obekraftade, [5, 6, 7, 9, 11])
+        self.assertEqual(self.resultat.kvalitet, "ocr")
+        self.assertEqual(self.resultat.tal_obekraftade, [11])
 
     def test_tva_priser_i_linje_blir_tva_kolumner(self):
         (tabell,) = self.resultat.sidor[15].tabeller
@@ -109,7 +109,7 @@ class TestFilerSomInteGarAttOppna(unittest.TestCase):
             self.assertIsNone(resultat.figurer)
 
     def test_losenord_som_bara_begransar_hindrar_inte(self):
-        self.assertEqual(konvertera(PDF / "begransad.pdf").kvalitet, "delvis")
+        self.assertEqual(konvertera(PDF / "begransad.pdf").kvalitet, "ocr")
 
 
 class TestRegler(unittest.TestCase):
@@ -124,6 +124,9 @@ class TestRegler(unittest.TestCase):
             (["ok", "bild", "tom"], "full"),
             (["bild"], "full"),
             (["bild", "ej-konverterad"], "delvis"),
+            (["ok", "ointressant", "tom"], "full"),
+            (["ointressant"], "full"),
+            (["ointressant", "ej-konverterad"], "delvis"),
         ):
             self.assertEqual(dokumentets(sidor), vantat, sidor)
 

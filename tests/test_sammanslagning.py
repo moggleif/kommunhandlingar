@@ -110,7 +110,7 @@ class TestHamtningIDelar(Arkivbas):
         self.klient.filer |= {
             W3: "kort-begransad.pdf",
             W1: "skarvar.pdf",
-            W2: "delade.pdf",
+            W2: "spalter.pdf",
         }
         self.kor(kandidat("s:1", W3))
         self.assertEqual(self.kor(i_delar(W1, W2)), ["konverterad"])

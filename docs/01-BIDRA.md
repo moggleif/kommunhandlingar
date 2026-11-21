@@ -133,6 +133,13 @@ Dokument granskas för hand mot originalet enligt
 `.claude/skills/granska-dokument/SKILL.md` (K34, ADR-0055). Reglerna står
 under "Granskade dokument" i [03-ARKITEKTUR.md](03-ARKITEKTUR.md).
 
+## Känd inläsning
+
+`python -m kommunhandlingar.kand_inlasning data` skriver för varje kommun
+hur många av sidorna som har känd inläsning och hur många som har varje
+sidkvalitet (K73, ADR-0100). Vad som räknas står under "Känd inläsning" i
+[03-ARKITEKTUR.md](03-ARKITEKTUR.md).
+
 ## Undantag
 
 - Rader per funktion: `# undantag: <skäl>` på `def`-raden. En fil har
