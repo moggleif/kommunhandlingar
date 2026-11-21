@@ -30,7 +30,7 @@ EJ_HAMTAD_NULL = ("sha256", "bytes", "sidor", "konverterad")
 EJ_HAMTAD_NULL += ("kvalitet_per_sida", "tal_obekraftade", "figurer", "tolkade")
 EJ_HAMTAD_NULL += ("granskad",)
 DATUM = re.compile(r"\d{4}-\d{2}-\d{2}")
-OBEKRAFTADE = {"ocr", "ej-konverterad"}
+OBEKRAFTADE = {"ocr", "bild", "ej-konverterad"}
 
 
 def fel_i(data: Path) -> list[str]:

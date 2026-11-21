@@ -2110,7 +2110,8 @@ läsa: inte ett foto, en karta eller en tom sida.
 - **Så** målas bildytan vit och sidan läses om; når den tröskeln blir
   sidan `ocr` med texten utanför bilden, och står i `figurer`.
 
-- **Givet** en inskannad sida som läses med OCR och har en bildyta
+- **Givet** en inskannad sida som läses med OCR och har en bildyta, som
+  ett foto eller en karta
 - **När** sidan konverteras
 - **Så** står den i `figurer`, också när OCR nådde tröskeln.
 

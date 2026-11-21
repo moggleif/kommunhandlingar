@@ -197,7 +197,7 @@ Datakontrollerna, i körningen och i CI
 - Inga temporära filer finns under `data/`.
 - Front matter hänger ihop: `ej-hamtad` har ett `fel` och inga
   originalfält, `sidor` stämmer med `kvalitet_per_sida`, och varje sida
-  som är `ocr` eller `ej-konverterad` står i `tal_obekraftade`, utom i
+  som är `ocr`, `bild` eller `ej-konverterad` står i `tal_obekraftade`, utom i
   ett granskat dokument, och `granskad` är `null` eller ett datum
   ([Granskade dokument](#granskade-dokument)).
 - Figurerna och tolkningarna hänger ihop, och varje tal i en tolkad CSV
@@ -1075,8 +1075,8 @@ gråvärde mellan intilliggande rutor i den, delad med rutornas
 standardavvikelse, är under 0,8: i ett foto eller en karta liknar
 grannrutorna varandra, i brus gör de inte det.
 
-1. **Bildytan maskas:** är bildytan minst 4 % av sidan målas den vit och
-   sidan läses om.
+1. **Bildytan maskas:** är bildytan jämn och minst 4 % av sidan målas den
+   vit och sidan läses om.
 2. **Sidan vänds:** Tesseracts orienteringsdetektering (`--psm 0`, modellen
    `osd`) säger hur sidan ska vridas; säger den 90, 180 eller 270 grader
    med en säkerhet på minst 2, vänds sidan och läses om.
@@ -1085,7 +1085,7 @@ grannrutorna varandra, i brus gör de inte det.
 5. **Annars** blir sidan `ej-konverterad`.
 
 En sida som får text i steg 1 eller 2 blir `ocr`. En OCR-sida med en
-bildyta på minst 4 % står i `figurer`, och en `bild` står alltid där.
+jämn bildyta på minst 4 % står i `figurer`, och en `bild` står alltid där.
 En `bild` får ingen text och står i `tal_obekraftade`, eftersom talen i en
 karta eller ett diagram inte är lästa. Innehållsförteckningar med
 prickrader, handskrift och mycket dåliga skanningar förblir
@@ -1112,7 +1112,7 @@ rutnät utan text är ingen tabell, så det som står i det räknas. En
 rektangel syns när den har en kantlinje eller en fyllning som inte är
 vit. En stapel med talet inuti räknas inte, så ett diagram med talen i
 staplarna kan missas. En sida som läses med OCR står i `figurer` när den
-har en bildyta på minst 4 % av sidan
+har en jämn bildyta på minst 4 % av sidan
 ([Inskannade sidor som inte blir text](#inskannade-sidor-som-inte-blir-text));
 en tunn linjeritning i en skanning kan missas.
 

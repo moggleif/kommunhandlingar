@@ -9,7 +9,9 @@ eller inte blir klar på fem minuter. Saknas Tesseract eller modellen
 stoppas körningen innan något dokument läses (`kontrollera`).
 
 Ord på högkant, som en stämpel i marginalen, målas vita och sidan läses
-om, och de skrivs sist på sidan (K41, ADR-0064).
+om, och de skrivs sist på sidan (K41, ADR-0064). Läsningen ger också
+rutorna kring de ord som lästs säkert, som bildytan räknas utan (K72,
+ADR-0099).
 
 Två fel som Tesseract gör i protokollen rättas i texten (K34, ADR-0055):
 `§` intill en siffra läses som `$`, och en innehållsförtecknings
@@ -22,6 +24,7 @@ import re
 import subprocess
 import sys
 import tempfile
+from dataclasses import dataclass, field
 from functools import cache
 from importlib.metadata import version
 from pathlib import Path
@@ -36,6 +39,7 @@ DPI = 300
 SPRAK = "swe"
 TROSKEL = 70
 TIDSGRANS = 300
+SAKERT_ORD = 50
 PARAGRAF = re.compile(r"\$+(?= ?\d)|(?<=\d )\$+|(?<=\d)\$+")
 # Punkterna kan börja med brus utan mellanslag (`..ssss.....`); efter dem
 # står bara brus fram till sidnumret, på samma rad.
@@ -44,21 +48,35 @@ UTFYLLNAD = re.compile(
 )
 
 
-def las(rendering: pdfium.PdfPage) -> str | None:
-    """Sidans OCR-text, eller None när den inte når tröskeln. Ord på
-    högkant målas vita och sidan läses om; de skrivs sist (ADR-0064).
-    Når omläsningen inte tröskeln gäller den första läsningen."""
-    bild = rendering.render(scale=DPI / 72, grayscale=True).to_pil()
+@dataclass(frozen=True)
+class Lasning:
+    text: str | None
+    ord: list[tuple[int, int, int, int]] = field(default_factory=list)
+
+
+def rendera(rendering: pdfium.PdfPage) -> Image.Image:
+    return rendering.render(scale=DPI / 72, grayscale=True).to_pil()
+
+
+def las(bild: Image.Image) -> Lasning:
+    """Bildens OCR-text, None när den inte når tröskeln, och rutorna kring
+    de säkra orden. Ord på högkant målas vita och sidan läses om; de skrivs
+    sist (ADR-0064). Når omläsningen inte tröskeln gäller den första."""
     forsta = las_bild(bild)
-    if forsta is None or not over_troskeln(forsta[0]):
-        return None
+    if forsta is None:
+        return Lasning(None)
+    ord_ = sakra_ord(forsta[0])
+    if not over_troskeln(forsta[0]):
+        return Lasning(None, ord_)
     stamplar = hogkant.ocr_ord(forsta[0])
     if stamplar:
+        bild = bild.copy()
         hogkant.mala_vitt(bild, stamplar)
         andra = las_bild(bild)
         if andra is not None and over_troskeln(andra[0]):
-            return hogkant.sist(rensa(andra[1].strip()), hogkant.ocr_rader(stamplar))
-    return rensa(forsta[1].strip())
+            text = hogkant.sist(rensa(andra[1].strip()), hogkant.ocr_rader(stamplar))
+            return Lasning(text, ord_)
+    return Lasning(rensa(forsta[1].strip()), ord_)
 
 
 def las_bild(bild: Image.Image) -> tuple[str, str] | None:
@@ -106,16 +124,33 @@ def kontrollera() -> None:
         )
     except FileNotFoundError as fel:
         raise Konfigurationsfel("Tesseract saknas (OCR, ADR-0005)") from fel
-    if SPRAK not in svar.stdout.split():
-        raise Konfigurationsfel(f"Tesseract saknar språkmodellen {SPRAK!r}")
+    for modell in (SPRAK, "osd"):
+        if modell not in svar.stdout.split():
+            raise Konfigurationsfel(f"Tesseract saknar modellen {modell!r}")
 
 
 def medelsakerhet(tsv: str) -> float | None:
-    rader = csv.DictReader(tsv.splitlines(), delimiter="\t", quoting=csv.QUOTE_NONE)
-    varden = [
-        float(r["conf"]) for r in rader if r["text"].strip() and r["conf"] != "-1"
-    ]
+    varden = [float(r["conf"]) for r in ordrader(tsv)]
     return sum(varden) / len(varden) if varden else None
+
+
+def sakra_ord(tsv: str) -> list[tuple[int, int, int, int]]:
+    """Rutorna kring ord med minst två tecken och säkerhet minst 50."""
+    return [
+        (
+            int(r["left"]),
+            int(r["top"]),
+            int(r["left"]) + int(r["width"]),
+            int(r["top"]) + int(r["height"]),
+        )
+        for r in ordrader(tsv)
+        if float(r["conf"]) >= SAKERT_ORD and len(r["text"].strip()) >= 2
+    ]
+
+
+def ordrader(tsv: str) -> list[dict[str, str]]:
+    rader = csv.DictReader(tsv.splitlines(), delimiter="\t", quoting=csv.QUOTE_NONE)
+    return [r for r in rader if r["text"].strip() and r["conf"] != "-1"]
 
 
 @cache

@@ -1,12 +1,14 @@
-"""Krav: K4, K5, K6, K15, K17, K19 och K41 i docs/02-KRAV.md, ADR-0005,
+"""Krav: K4, K5, K6, K15, K17, K19, K41 och K72 i docs/02-KRAV.md, ADR-0005,
 ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034,
-ADR-0036, ADR-0038, ADR-0063 och ADR-0064. Test: tests/test_konvertering.py,
+ADR-0036, ADR-0038, ADR-0063, ADR-0064 och ADR-0099. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py,
 tests/test_kvarvarande.py, tests/test_avskurna.py, tests/test_mellanslag.py,
-tests/test_ordning.py, tests/test_spalter.py och tests/test_hogkant.py.
+tests/test_ordning.py, tests/test_spalter.py, tests/test_hogkant.py och
+tests/test_skannad.py.
 
 En sida blir `tom`, läses ur textlagret, eller läses med OCR. En OCR-sida
-får inga tabeller, och dess tal är aldrig bekräftade. En sida som inte är
+får inga tabeller, och dess tal är aldrig bekräftade; en inskannad sida som
+inte blir text kan bli `bild` eller `tom` (K72). En sida som inte är
 tom prövas för figurer. Personuppgifterna maskas i text och celler innan
 sidan lämnas vidare, och styrtecken blir ersättningstecken. En sida ur
 textlagret får en skarv för K19, vars rader bara jämförs och aldrig
@@ -26,8 +28,8 @@ from kommunhandlingar.konvertering import (
     hogkant,
     kvarvarande,
     markdown,
-    ocr,
     olinjerade,
+    skannad,
     spalter,
     tabeller,
 )
@@ -77,11 +79,18 @@ def rensad(text: str) -> str:
 
 
 def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
-    text = ocr.las(rendering)
-    if text is None:
-        return Sida("ej-konverterad", True, figur=figur)
-    rader = [markdown.rad(r) for r in text.splitlines()]
-    return Sida("ocr", True, komprimera(rader), figur=figur)
+    """En sida som läses med OCR; en `bild` och en sida som inte blir text
+    får inga tal bekräftade, och en tom sida prövas inte för figurer (K72)."""
+    skannad_ = skannad.las(rendering)
+    figur = figur or skannad_.figur
+    match skannad_.kvalitet:
+        case "ocr":
+            rader = [markdown.rad(r) for r in skannad_.text.splitlines()]
+            return Sida("ocr", True, komprimera(rader), figur=figur)
+        case "tom":
+            return Sida("tom", False)
+        case kvalitet:
+            return Sida(kvalitet, True, figur=figur)
 
 
 def ej_vita(rendering: pdfium.PdfPage) -> float:
