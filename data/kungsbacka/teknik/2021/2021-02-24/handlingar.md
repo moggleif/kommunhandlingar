@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319214058id_/https://www.kungsbacka.
 sha256: 2587f3b430a9ef6bba9f01080744edd4741dbac3b545c78338a6b9a939e883e0
 bytes: 16406449
 sidor: 226
-hamtad: 2026-10-31T10:27:59+00:00
-konverterad: 2026-10-31T10:29:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:32:09+00:00
+konverterad: 2026-11-21T01:33:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker]
 tal_obekraftade: [70, 78, 80, 81, 83, 84, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170]
 figurer: [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 66, 72, 86, 91, 104, 135, 137, 138, 140, 142, 144, 145, 147, 155, 157, 158, 160, 161, 162, 166, 167, 169, 194, 195]
 tolkade: []
@@ -795,28 +795,18 @@ Riktlinjer för anslutning av VA-föreningar har antagits och nu fortsätter arb
 anslutningsprocessen för en smidig och rättssäker process. Nya arbetssätt har frigjort utrymme att fokusera på
 kontakt med VA-föreningar och avtalsskrivningen.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Trygghetsindex för hur kommuninvånarna
-bedömer tryggheten (SCB:s      63      64      60      59      65
-medborgarundersökning, skala 0-100)
-Bäst att bo, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 28 24    15      5       30
-Fokus.
-Invånarnas helhetsbedömning av kommunen
-som en plats att bo och leva på. SCB:s
-72      72      68      69      72
-medborgarundersökning, Nöjd Region-index,
-NRI, skala 0–100.
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s
-66      66      66      65      67
-medborgarundersökning, index i skala 0–
-100).
-Antal påbörjade bostäder                       501            575
-Antal färdigställda bostäder                   418            575
-
 10
+
+[Tabell 27-1](handlingar.tabeller/27-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna<br>bedömer tryggheten (SCB:s<br>medborgarundersökning, skala 0-100) | 63 | 64 | 60 | 59 | 65 |
+| Bäst att bo, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 28 | 24 | 15 | 5 | 30 |
+| Invånarnas helhetsbedömning av kommunen<br>som en plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index,<br>NRI, skala 0–100. | 72 | 72 | 68 | 69 | 72 |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–<br>100). | 66 | 66 | 66 | 65 | 67 |
+| Antal påbörjade bostäder |  |  | 501 |  | 575 |
+| Antal färdigställda bostäder |  |  | 418 |  | 575 |
 
 <!-- sida 28 -->
 
@@ -878,48 +868,22 @@ pågår (se vidare nedan).
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges 2,3             2
-Ekokommuner)
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 65   73      74              75
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-79%     79%    71%             99%
-(%) (Källa: Sveriges Ekokommuner)
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%            99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 505 427     354            350
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,1 0,17 0,14     0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i %      91%    89%             92%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90%           92%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      75%    73%             80%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      88%    81%             90%
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-
 12
+
+[Tabell 29-1](handlingar.tabeller/29-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) | 2,3 |  |  |  | 2 |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 65 | 73 | 74 |  | 75 |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 79% | 79% | 71% |  | 99% |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 505 | 427 | 354 |  | 350 |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,1 | 0,17 | 0,14 |  | 0,1 |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 91% | 89% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) |  | 91% | 90% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 75% | 73% |  | 80% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 88% | 81% |  | 90% |
 
 <!-- sida 30 -->
 
@@ -957,22 +921,18 @@ källorna till kadmium bedriver vi ett uppströmsarbete och för under 2020 bes�
 En informationsfolder om vad man får spola ner i avloppet har tagits fram och skickades ut med höstens
 fakturor.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Hushållsavfall, kg/person      491     458     486            434
-
-Andel hushållsavfall insamlat för
-materialåtervinning, inklusive biologisk 43% 42% 38%          43%
-behandling
-Utsläppen från de fyra större reningsverken
-ligger med god marginal (10% eller mer) Ja Ja  Ja              Ja
-under tillståndsgivna gränsvärden.
-Kadmium i ej kalkat avloppsslam
-Nej     Nej             Ja
-nedåtgående trend, 3 år
 Resultat för avfall blir klart i mars då vi får statistik från entreprenörer och Avfall Sverige. Resultat avseende avlopp klart 29/1.
 
 13
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Hushållsavfall, kg/person | 491 | 458 | 486 |  | 434 |
+| Andel hushållsavfall insamlat för<br>materialåtervinning, inklusive biologisk<br>behandling | 43% | 42% | 38% |  | 43% |
+| Utsläppen från de fyra större reningsverken<br>ligger med god marginal (10% eller mer)<br>under tillståndsgivna gränsvärden. | Ja | Ja | Ja |  | Ja |
+| Kadmium i ej kalkat avloppsslam<br>nedåtgående trend, 3 år |  | Nej | Nej |  | Ja |
 
 <!-- sida 31 -->
 
@@ -1011,22 +971,16 @@ bygg och drift.
 För att sprida kunskap om biologisk mångfald till allmänheten, och visa hur vi på kommunen arbetar med det, är
 informationsskyltar med fokus på biologisk mångfald under framtagande. Skyltarna kommer att sättas längs
 gång- och cykelstråket vid Kungsbackaån.
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-
-Andel bräddat avloppsvatten som släpps till
-dagvatten och recipient som genomgått                  0
-rening i förhållande till total bräddad volym
-Andel rening av dagvatten från förorenade
-ytor efter avrinningsområde (GIS).
-Hållbarhetsindex (HBI) gul nivå 20-30%                60%     70%
-orenat dagvatten som släpps från förorenade
-ytor.
-Antal projekt där vi tagit specifik hänsyn till
-åtgärder som gynnar den biologiska                     7
-mångfalden
 
 14
+
+[Tabell 31-1](handlingar.tabeller/31-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Andel bräddat avloppsvatten som släpps till<br>dagvatten och recipient som genomgått<br>rening i förhållande till total bräddad volym |  |  |  | 0 |  |
+| Andel rening av dagvatten från förorenade<br>ytor efter avrinningsområde (GIS).<br>Hållbarhetsindex (HBI) gul nivå 20-30%<br>orenat dagvatten som släpps från förorenade<br>ytor. |  |  |  | 60% | 70% |
+| Antal projekt där vi tagit specifik hänsyn till<br>åtgärder som gynnar den biologiska<br>mångfalden |  |  |  | 7 |  |
 
 <!-- sida 32 -->
 
@@ -1056,15 +1010,17 @@ Arbetet med att lokalisera och åtgärda tillskottsvatten är igång enligt plan
 undersökta att de är rätt kopplade till vårt spillvattennät. De allra flesta var rätt kopplade men 21 stycken var
 felkopplade. Vi har också lokaliserat och åtgärdat inläckage i kommunens del av spillvattennätet.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-kWh per renad m3 avloppsvatten ska minska 0,91 1,01 0,87 0,92  Ja
-Antal undersökta fastigheter årligen                  562     500
-
 Utfall på energianvändning för avlopp är inte klar än.
 Antal undersökta fastigheter avser antal fastigheter som kontrollerats att de är rätt kopplade på avloppsnätet.
 
 15
+
+[Tabell 32-1](handlingar.tabeller/32-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| kWh per renad m3 avloppsvatten ska minska | 0,91 | 1,01 | 0,87 | 0,92 | Ja |
+| Antal undersökta fastigheter årligen |  |  |  | 562 | 500 |
 
 <!-- sida 33 -->
 
@@ -1090,22 +1046,14 @@ relationerna med våra företagare i kommunen.
 I förvaltningens förändrade organisation finns en enhet, Kundstöd & Utredning, som bland annat ska utveckla
 och bidra till bättre information och samarbete med näringslivet.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 67 63     62              70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3      3,2     3,4            3,5
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-
 16
+
+[Tabell 33-1](handlingar.tabeller/33-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 | 63 | 62 |  | 70 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3 | 3,2 | 3,4 |  | 3,5 |
 
 <!-- sida 34 -->
 
@@ -1130,29 +1078,17 @@ En Pop-up-plats invid Borgmästarebron invigdes i början av september. Platsen 
 hur olika delar vår omgivning fungerar. Här finns bl a ett "titt-hål" som visar vad som gömmer sig i marken i
 form av rör och olika bärlager. Förvaltningen får även möjlighet att visa på bredden som vi arbetar med.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-229     240     238    245,7   245
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,4% 3% 2,2% 2,8%    2,5%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-7,5             7,3            7,6
-enligt Skolenkäten som genomförs i
-samarbete med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,9 13,8 14      14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat              90%
-försörjningsstöd (%)
-
 17
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 229 | 240 | 238 | 245,7 | 245 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,4% | 3% | 2,2% | 2,8% | 2,5% |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs i<br>samarbete med Göteborgsregionen, GR. | 7,5 |  | 7,3 |  | 7,6 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,9 | 13,8 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) |  |  |  |  | 90% |
 
 <!-- sida 35 -->
 
@@ -1183,25 +1119,16 @@ pandemi och nya restriktioner, som även har påverkat vår driftorganisation, s
 lösningar fått genomslag. Ipads har köpts in till arbetslag så att de kan vara mer mobila i sitt arbetssätt och att de
 samtidigt undviker att samlas morgon och eftermiddag för att uppdatera sig om dagens arbete.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Nöjd-inflytande index för hur
-kommuninvånarna bedömer möjligheterna till
-46      47      43              48
-inflytande. (SCB:s medborgarundersökning,
-0-100).
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-77      76                      79
-områdena motivation, ledarskap och styrning,
-skala 1-100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 80 77      91              85
-nyckeltal med skala 1–20.
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar
-
 18
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Nöjd-inflytande index för hur<br>kommuninvånarna bedömer möjligheterna till<br>inflytande. (SCB:s medborgarundersökning,<br>0-100). | 46 | 47 | 43 |  | 48 |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten. | 77 | 76 |  |  | 79 |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 80 | 77 | 91 |  | 85 |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar |  |  |  |  |  |
 
 <!-- sida 36 -->
 
@@ -1248,16 +1175,17 @@ värdet är 78,45. När det gäller ledarskap redovisar förvaltningen ett värd
 som helhet där värdet uppgår till 77,66. Förvaltningen kommer kommunicera och analysera resultatet under
 2021\. Kompletterande information om sjukfrånvaron återges under personalavsnittet kapitel 6.
 
-Indikatorer         Utfall 2017 Utfall 2018 Utfall 2019 Utfall 2020 Målvärde 2020
-Motivation                                     79,38
-
-Ledarskap                                      81,31
-Sjukfrånvaron ska minska Nej   Ja      Nej      Ja       Ja
-
-Antal anmälda tillbud ska öka Ja Ja    Ja      Nej       Ja
-Antal arbetsskador ska minska Nej Ja   Nej     Nej       Ja
-
 19
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Indikatorer | Utfall 2017 | Utfall 2018 | Utfall 2019 | Utfall 2020 | Målvärde 2020 |
+| --- | --- | --- | --- | --- | --- |
+| Motivation |  |  |  | 79,38 |  |
+| Ledarskap |  |  |  | 81,31 |  |
+| Sjukfrånvaron ska minska | Nej | Ja | Nej | Ja | Ja |
+| Antal anmälda tillbud ska öka | Ja | Ja | Ja | Nej | Ja |
+| Antal arbetsskador ska minska | Nej | Ja | Nej | Nej | Ja |
 
 <!-- sida 37 -->
 
@@ -1289,13 +1217,16 @@ Göteborgsregionen för att främja utbildning och samarbete mellan universitet,
 Tekniks arbete mot målet marknadsföra och behålla samt personalomsättning beskrivs i avsnitt 6.1 Personal
 \- Kompetensförsörjning.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Personalomsättning             5,5     7,8     7,1    11,7
 Personalomsättning: Ny metod används för beräkning av personalomsättning. 11,9 % är inklusive intern rörlighet. Extern rörlighet är
 7,9 % vilket är beräknat på liknande sätt som tidigare.
 
 20
+
+[Tabell 37-1](handlingar.tabeller/37-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 5,5 | 7,8 | 7,1 | 11,7 |  |
 
 <!-- sida 38 -->
 
@@ -1327,26 +1258,26 @@ Kvalitetsdeklarationerna vänder sig till dem vi är till för. De ska tydligt b
 
 [Tabell 39-41-1](handlingar.tabeller/39-41-1.csv)
 
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-| Planering | Då vi idag inte har något<br>övervakningssystem på när<br>armaturer/ljuskällor går sönder,<br>Vi lovar att inom ett dygn åtgärda så räknar vi ett dygn från att en<br>Delvis släckt lampa vid övergångsställe, armatur blivit inrapporterad trasig.<br>uppnått busshållplats, gångtunnel eller Detta är ledord i vår prioritering.<br>trappa Då vi inte har några<br>armaturer/ljuskällor på lager så<br>förlitar vi oss på våra<br>leverantörer. |
-| Drift | Vi lovar att så fort som möjligt<br>Uppnått varningsmarkera och åtgärda<br>beläggningsskador |
-|  | Vi lovar att ge information om Information kommer ut på<br>större vattenläckor på hemsidan direkt inom några<br>Uppnått<br>kommunens hemsida inom tre timmar. När få är drabbade<br>timmar. skickas sms. |
-|  | Vi lovar att snarast reparera<br>vattenläckor och se till att det<br>Uppnått finns vattentankar eller tappställe Uppnått 2020<br>vid det drabbade området inom<br>fyra timmar |
-|  | Vi lovar att kalla ut<br>beredskapsstyrkan senast när<br>det fallit en decimeter snö. Gator<br>och vägar skall åtgärdas inom<br>åtta timmar efter snöfallet. Gång-<br>Uppnått<br>och cykelvägar samt<br>busshållplatser åtgärdas inom<br>sex timmar. Snövallar som är till<br>hinder lovar vi forsla bort inom<br>två helgfria vardagar. |
-|  | Alla analyser på utgående vatten<br>Vi lovar att leverera dricksvatten från vattenverk och alla analyser<br>Uppnått som uppfyller Livsmedelsverkets ute på tryckstegringsstationerna<br>krav på kvalitet har varit godkända 2020 för både<br>Öjersbo VV och Fjärås VV |
-|  | Vi lovar att allt slam som sprids Allt slam som har spridits på<br>Uppnått på åkermark är godkänt enligt åkermark 2020 blev godkänt<br>kraven i REVAQ enligt Revaq. |
-|  | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt, dock senast<br>inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Uppnått Vi fotodokumenterar och<br>polisanmäler allt klotter och all<br>skadegörelse. Vi samarbetar med<br>polisen och arbetar för ökad<br>samverkan inom<br>klotterbekämpning med övriga<br>parter. |
-|  | Vi lovar att snarast reparera fel<br>som kan orsaka personskada<br>efter att felanmälan inkommit på<br>Uppnått lekplatser som Teknik ansvarar<br>för. Vi lovar att besiktiga<br>lekplatser som Teknik ansvarar<br>för minst fyra gånger om året. |
-| Avfall &<br>Återvinning | Vi lovar att hämta avfallet senast<br>dagen efter att anmälan kommit Enligt gällande avtal ska vår<br>Uppnått in till entreprenören, vid utebliven entreprenör hämta uteblivna kärl<br>hämtning av hushållsavfall enligt dagen efter anmälan<br>hämtningsschema |
-|  | Vi lovar att det ska finnas<br>Uppnått personal tillgänglig som kan<br>informera besökare om sortering |
-| Kungsbacka<br>Bredbandsnät | Vi håller utlovade SLA nivåer,<br>Vi lovar en snabb felavhjälpning men vi håller på att bygga ut<br>Uppnått<br>för teleoperatörer och storkunder redundansen i nätet för att<br>minimera störningar. |
-| Färdtjänst &<br>Tillstånd | Vi lovar att varje enskilt ärende Löftet infriat och samtliga<br>prövas individuellt utifrån överprövade ärenden under 2020<br>Uppnått<br>gällande lagtext samt från har avgjorts till förvaltningens<br>Kungsbacka kommuns riktlinjer. fördel |
-|  | Vi lovar att kontakt med sökande<br>Uppnått ska ske senast 3-4 veckor efter<br>ansökan inkommit. |
-|  | Vi lovar att när person ansökt om Hembesök har undvikits av<br>Uppnått färdtjänst genomförs hembesök Coronaskäl, men inte heller<br>vid behov behövts i beslutsfattande syfte |
-|  | Vi kommunicerar i huvudsak<br>myndighetsbeslut skriftligt i<br>Vi lovar att alla beslut<br>Delvis enlighet med förvaltningslagen,<br>kommuniceras muntligt och<br>uppnått men kompletterar med muntlig<br>skriftligt.<br>dialog vid behov eller vid ärenden<br>som är särskilt komplexa |
-|  | Vi lovar att ansökan med Sedan 2020 har rutinerna<br>Ej upphörandedatum för aktuellt förändrats och automatiska<br>uppnått tillstånd skickas till kund som rest utskick kopplat till utgående<br>regelbundet under sista året. tillstånd har upphört |
-|  | Vi lovar att alla ärenden<br>angående förnyelse av tillstånd<br>Sedan 2020 har rutinerna<br>kommuniceras skriftligt och/eller<br>Ej förändrats och automatiska<br>muntligt till kund innan tidigare<br>uppnått utskick kopplat till utgående<br>tillstånd upphör att gälla, förutsatt<br>tillstånd har upphört<br>att ansökan är komplett med<br>nödvändiga uppgifter. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+| Planering |  | Delvis<br>uppnått | Vi lovar att inom ett dygn åtgärda<br>släckt lampa vid övergångsställe,<br>busshållplats, gångtunnel eller<br>trappa | Då vi idag inte har något<br>övervakningssystem på när<br>armaturer/ljuskällor går sönder,<br>så räknar vi ett dygn från att en<br>armatur blivit inrapporterad trasig.<br>Detta är ledord i vår prioritering.<br>Då vi inte har några<br>armaturer/ljuskällor på lager så<br>förlitar vi oss på våra<br>leverantörer. |
+| Drift |  | Uppnått | Vi lovar att så fort som möjligt<br>varningsmarkera och åtgärda<br>beläggningsskador |  |
+|  |  | Uppnått | Vi lovar att ge information om<br>större vattenläckor på<br>kommunens hemsida inom tre<br>timmar. | Information kommer ut på<br>hemsidan direkt inom några<br>timmar. När få är drabbade<br>skickas sms. |
+|  |  | Uppnått | Vi lovar att snarast reparera<br>vattenläckor och se till att det<br>finns vattentankar eller tappställe<br>vid det drabbade området inom<br>fyra timmar | Uppnått 2020 |
+|  |  | Uppnått | Vi lovar att kalla ut<br>beredskapsstyrkan senast när<br>det fallit en decimeter snö. Gator<br>och vägar skall åtgärdas inom<br>åtta timmar efter snöfallet. Gång-<br>och cykelvägar samt<br>busshållplatser åtgärdas inom<br>sex timmar. Snövallar som är till<br>hinder lovar vi forsla bort inom<br>två helgfria vardagar. |  |
+|  |  | Uppnått | Vi lovar att leverera dricksvatten<br>som uppfyller Livsmedelsverkets<br>krav på kvalitet | Alla analyser på utgående vatten<br>från vattenverk och alla analyser<br>ute på tryckstegringsstationerna<br>har varit godkända 2020 för både<br>Öjersbo VV och Fjärås VV |
+|  |  | Uppnått | Vi lovar att allt slam som sprids<br>på åkermark är godkänt enligt<br>kraven i REVAQ | Allt slam som har spridits på<br>åkermark 2020 blev godkänt<br>enligt Revaq. |
+|  |  | Uppnått | Vi lovar att all form av klotter som<br>uppstår på plats eller egendom<br>som Teknik ansvarar för saneras<br>så fort som möjligt, dock senast<br>inom 48 timmar om<br>yttertemperatur och väder tillåter.<br>Vi fotodokumenterar och<br>polisanmäler allt klotter och all<br>skadegörelse. Vi samarbetar med<br>polisen och arbetar för ökad<br>samverkan inom<br>klotterbekämpning med övriga<br>parter. |  |
+|  |  | Uppnått | Vi lovar att snarast reparera fel<br>som kan orsaka personskada<br>efter att felanmälan inkommit på<br>lekplatser som Teknik ansvarar<br>för. Vi lovar att besiktiga<br>lekplatser som Teknik ansvarar<br>för minst fyra gånger om året. |  |
+| Avfall &<br>Återvinning |  | Uppnått | Vi lovar att hämta avfallet senast<br>dagen efter att anmälan kommit<br>in till entreprenören, vid utebliven<br>hämtning av hushållsavfall enligt<br>hämtningsschema | Enligt gällande avtal ska vår<br>entreprenör hämta uteblivna kärl<br>dagen efter anmälan |
+|  |  | Uppnått | Vi lovar att det ska finnas<br>personal tillgänglig som kan<br>informera besökare om sortering |  |
+| Kungsbacka<br>Bredbandsnät |  | Uppnått | Vi lovar en snabb felavhjälpning<br>för teleoperatörer och storkunder | Vi håller utlovade SLA nivåer,<br>men vi håller på att bygga ut<br>redundansen i nätet för att<br>minimera störningar. |
+| Färdtjänst &<br>Tillstånd |  | Uppnått | Vi lovar att varje enskilt ärende<br>prövas individuellt utifrån<br>gällande lagtext samt från<br>Kungsbacka kommuns riktlinjer. | Löftet infriat och samtliga<br>överprövade ärenden under 2020<br>har avgjorts till förvaltningens<br>fördel |
+|  |  | Uppnått | Vi lovar att kontakt med sökande<br>ska ske senast 3-4 veckor efter<br>ansökan inkommit. |  |
+|  |  | Uppnått | Vi lovar att när person ansökt om<br>färdtjänst genomförs hembesök<br>vid behov | Hembesök har undvikits av<br>Coronaskäl, men inte heller<br>behövts i beslutsfattande syfte |
+|  |  | Delvis<br>uppnått | Vi lovar att alla beslut<br>kommuniceras muntligt och<br>skriftligt. | Vi kommunicerar i huvudsak<br>myndighetsbeslut skriftligt i<br>enlighet med förvaltningslagen,<br>men kompletterar med muntlig<br>dialog vid behov eller vid ärenden<br>som är särskilt komplexa |
+|  |  | Ej<br>uppnått | Vi lovar att ansökan med<br>upphörandedatum för aktuellt<br>tillstånd skickas till kund som rest<br>regelbundet under sista året. | Sedan 2020 har rutinerna<br>förändrats och automatiska<br>utskick kopplat till utgående<br>tillstånd har upphört |
+|  |  | Ej<br>uppnått | Vi lovar att alla ärenden<br>angående förnyelse av tillstånd<br>kommuniceras skriftligt och/eller<br>muntligt till kund innan tidigare<br>tillstånd upphör att gälla, förutsatt<br>att ansökan är komplett med<br>nödvändiga uppgifter. | Sedan 2020 har rutinerna<br>förändrats och automatiska<br>utskick kopplat till utgående<br>tillstånd har upphört |
 
 <!-- sida 40 -->
 
@@ -1507,90 +1438,67 @@ till annan förvaltning inom kommunen nu ingår i statistiken.
 
 6.3 Resursmått
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-
-Andel deltid                              2,4%    2,8%    3%
-Andel heltid                       98%    97,6%   97,2%   97%
-Andel kvinnor som har deltid              5,7%    5,1%    5,7%
-
-Andel kvinnor som har heltid              94,3%   94,9%  94,3%
-Andel män som har deltid                   0%     1,5%    1,4%
-Andel män som har heltid                  100%    98,6%  98,6%
-
-Anställda andel kvinnor            39%    41,4%   36,4%  37,9%
-Anställda andel män                61%    58,6%   63,6%  62,1%
-```
-
-Anställda genomsnittlig sysselsättningsgrad 99,3% 99,3%  99,1%
-
-```osaker-tabell
-Anställda totalt                   173     174    220     246
-Antal medarbetare per chef                11,4    13,7    11,2
-
-Antal medarbetare per enhetschef           16     18,6    15,9
-Medarbetare 30 - 39 år                    22,4%   19,6%   21%
-
-Medarbetare 40 - 49 år                    26,4%   27,3%  24,7%
-Medarbetare 50 - 59 år                    27%     27,3%  29,2%
-```
-
 27
+
+[Tabell 44-45-1](handlingar.tabeller/44-45-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Andel deltid |  | 2,4% | 2,8% | 3% |
+|  | Andel heltid | 98% | 97,6% | 97,2% | 97% |
+|  | Andel kvinnor som har deltid |  | 5,7% | 5,1% | 5,7% |
+|  | Andel kvinnor som har heltid |  | 94,3% | 94,9% | 94,3% |
+|  | Andel män som har deltid |  | 0% | 1,5% | 1,4% |
+|  | Andel män som har heltid |  | 100% | 98,6% | 98,6% |
+|  | Anställda andel kvinnor | 39% | 41,4% | 36,4% | 37,9% |
+|  | Anställda andel män | 61% | 58,6% | 63,6% | 62,1% |
+|  | Anställda genomsnittlig sysselsättningsgrad |  | 99,3% | 99,3% | 99,1% |
+|  | Anställda totalt | 173 | 174 | 220 | 246 |
+|  | Antal medarbetare per chef |  | 11,4 | 13,7 | 11,2 |
+|  | Antal medarbetare per enhetschef |  | 16 | 18,6 | 15,9 |
+|  | Medarbetare 30 - 39 år |  | 22,4% | 19,6% | 21% |
+|  | Medarbetare 40 - 49 år |  | 26,4% | 27,3% | 24,7% |
+|  | Medarbetare 50 - 59 år |  | 27% | 27,3% | 29,2% |
+|  | Medarbetare 60 år och äldre |  | 16,1% | 17,3% | 17,7% |
+|  | Medarbetare yngre än 30 år |  | 8,1% | 8,6% | 7,4% |
+|  | Medelålder | 47 | 47 | 47 | 47 |
+|  | Pensionsavgångar | 2 |  | 6 | 4 |
 
 <!-- sida 45 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-Medarbetare 60 år och äldre               16,1%   17,3%  17,7%
-Medarbetare yngre än 30 år                8,1%    8,6%    7,4%
-
-Medelålder                         47      47      47      47
-Pensionsavgångar                    2              6       4
-```
-
 6.4 Effektmått
 
-```osaker-tabell
-Namn                               2017    2018    2019    2020
-Frisknärvaro                       47,2%   49,7%   61,4%  56,1%
-
-Frisknärvaro Kvinnor               44,1%   54,9%   60,7%  60,8%
-Frisknärvaro Män                   49,1%   46,4%   61,8%  53,1%
-Korttidssjukfrånvaro               2,8%    2,7%    2,2%    2,5%
-
-Korttidssjukfrånvaro Kvinnor       3,2%    2,9%    2,2%    2%
-Korttidssjukfrånvaro Män           2,6%    2,6%    2,2%    2,8%
-
-Långtidssjukfrånvaro                       3,2%    3,6%    3,1%
-Långtidssjukfrånvaro Kvinnor               3,2%    3,9%    3,3%
-Långtidssjukfrånvaro Män           2,6%    1,5%    3,4%    3%
-
-Personalomsättning                 5,5%    7,8%    7,1%   11,9%
-Sjukfrånvaro Kvinnor               5,3%    5,5%     6%     5,3%
-
-Sjukfrånvaro Män                   5,2%    4,2%    5,7%    5,8%
-Sjukfrånvaro Totalt                5,2%    4,7%    5,8%    5,6%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-25,4%   24,3%   47,8%  43,6%
-mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-28,6%   46,3%  47,4%
-mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-20,5%   48,8%  41,6%
-mer Män
-Sjukfrånvaro, anställda i åldrarna 29 år eller yngre 4%    4,2%
-Sjukfrånvaro, anställda i åldrarna 30-49 år        4,3%    4%
-Sjukfrånvaro, anställda i åldrarna 50 år eller äldre 7,7%  7,3%
-Sjukfrånvarodagar i snitt per anställd     16,7    17,4    18,8
 Personalomsättning: 11,9 % är inklusive intern rörlighet. Extern rörlighet är 7,9 %.
 
 28
+
+[Tabell 45-1](handlingar.tabeller/45-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 47,2% | 49,7% | 61,4% | 56,1% |
+|  | Frisknärvaro Kvinnor | 44,1% | 54,9% | 60,7% | 60,8% |
+|  | Frisknärvaro Män | 49,1% | 46,4% | 61,8% | 53,1% |
+|  | Korttidssjukfrånvaro | 2,8% | 2,7% | 2,2% | 2,5% |
+|  | Korttidssjukfrånvaro Kvinnor | 3,2% | 2,9% | 2,2% | 2% |
+|  | Korttidssjukfrånvaro Män | 2,6% | 2,6% | 2,2% | 2,8% |
+|  | Långtidssjukfrånvaro |  | 3,2% | 3,6% | 3,1% |
+|  | Långtidssjukfrånvaro Kvinnor |  | 3,2% | 3,9% | 3,3% |
+|  | Långtidssjukfrånvaro Män | 2,6% | 1,5% | 3,4% | 3% |
+|  | Personalomsättning | 5,5% | 7,8% | 7,1% | 11,9% |
+|  | Sjukfrånvaro Kvinnor | 5,3% | 5,5% | 6% | 5,3% |
+|  | Sjukfrånvaro Män | 5,2% | 4,2% | 5,7% | 5,8% |
+|  | Sjukfrånvaro Totalt | 5,2% | 4,7% | 5,8% | 5,6% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer | 25,4% | 24,3% | 47,8% | 43,6% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Kvinnor |  | 28,6% | 46,3% | 47,4% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Män |  | 20,5% | 48,8% | 41,6% |
+|  | Sjukfrånvaro, anställda i åldrarna 29 år eller yngre |  |  | 4% | 4,2% |
+|  | Sjukfrånvaro, anställda i åldrarna 30-49 år |  |  | 4,3% | 4% |
+|  | Sjukfrånvaro, anställda i åldrarna 50 år eller äldre |  |  | 7,7% | 7,3% |
+|  | Sjukfrånvarodagar i snitt per anställd |  | 16,7 | 17,4 | 18,8 |
 
 <!-- sida 46 -->
 
@@ -4178,24 +4086,24 @@ Uppföljningsrapport Intern kontroll 2020 7
 
 [Tabell 105-1](handlingar.tabeller/105-1.csv)
 
-| Kategorier | Risknumm<br>Risker Till plan<br>er |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Bristande efterlevnad av Ja<br>semesterlagen |
-|  | 2 Kommunövergripande risk: Processen för avslut av Ja<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. |
-| Ekonomi | 3 Kommunövergripande risk: Manuella betalningar Ja |
-|  | 4 Kommunövergripande risk: Redovisning av Ja<br>representation |
-| Informationssäkerh<br>et och<br>administration | 5 Kommunövergripande risk: Styrning och förvaltning Ja<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. |
-|  | 6 Kommunövergripande risk: Bristande kännedom om Ja<br>och efterlevnad av krav\* på tillgänglighet och service |
-|  | 7 Kommunövergripande risk: Bristande styrning av Ja<br>förändring av verksamhetsprocesser och system |
-| Verksamhet | 8 Risk för att bidrag betalas ut till ej berättigade Ja |
-|  | 9 Risk för bristfällig dokumentation i samband med Ja<br>besiktning av nyanslutningar till vatten och avlopp |
-|  | 10 Risk för att VA-föreningar växer utan att vi blir Ja<br>medvetna om det |
+| Kategorier |  | Risknumm<br>er | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Bristande efterlevnad av<br>semesterlagen | Ja |
+|  |  | 2 | Kommunövergripande risk: Processen för avslut av<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. | Ja |
+| Ekonomi |  | 3 | Kommunövergripande risk: Manuella betalningar | Ja |
+|  |  | 4 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+| Informationssäkerh<br>et och<br>administration |  | 5 | Kommunövergripande risk: Styrning och förvaltning<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. | Ja |
+|  |  | 6 | Kommunövergripande risk: Bristande kännedom om<br>och efterlevnad av krav\* på tillgänglighet och service | Ja |
+|  |  | 7 | Kommunövergripande risk: Bristande styrning av<br>förändring av verksamhetsprocesser och system | Ja |
+| Verksamhet |  | 8 | Risk för att bidrag betalas ut till ej berättigade | Ja |
+|  |  | 9 | Risk för bristfällig dokumentation i samband med<br>besiktning av nyanslutningar till vatten och avlopp | Ja |
+|  |  | 10 | Risk för att VA-föreningar växer utan att vi blir<br>medvetna om det | Ja |
 
 [Tabell 105-2](handlingar.tabeller/105-2.csv)
 
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Ekonomi | Kontanthantering |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Ekonomi |  | Kontanthantering |  |
 
 <!-- sida 106 -->
 
@@ -4730,52 +4638,25 @@ Nämnden för Teknik                              Kungsbacka kommun
 
 5.2 Åtgärder
 
-Slutdatu
-Status              Åtgärder           Kommentar
-m
-Pågående            Utöka information samt löpande         2021-04-
-stickprovskontroller                   30
-Pågående            Löpande stickprovskontroller av        2021-10-
-övriga manuella utbetalningar.         31
-Pågående            •Behövs informeras om att              2021-10-
-underlag behövs vid varje              31
-utbetalning och då inte bara en
-uträkning utan ett underlag som
-också beskriver det som betalts
-ut.
-Pågående            Utöka information i interna            2021-04-
-utbildningar/möten angående            30
-kontering av
-representationskostnader.
-Tydlighet när det gäller
-kontering på konto 7464 ”Måltid
-interna kurser, konf APT”.
-Pågående            Kvartalsvis stickprovskontroller       2021-08-
-av alla representationskonton          31
-Pågående            Löpande kommunikation med              2021-10-
-attestanter angående statusen på       31
-deras representationer
-Avslutad enligt plan Information och påminnelser om        2020-10-
-semesterplanering och                  31
-uppföljning av semesteruttag
-enligt semesterlag.
-Pågående            Förändrad rutin med information        2021-09-
-till systemrepresentanter              30
-Pågående            Rutingenomgång med samtliga            2021-09-
-chefer                                 30
-Pågående            Förändrad rutin med information        2021-11-
-till systemförvaltare eller            25
-motsvarande
-Pågående            Effektiva kontroller                   2021-10-
-31
-
-Pågående            Underlag för utbetalning               2021-10-
-31
-Avslutad med avvikelse Granska avtal i samlingsärende i Ingen återkoppling från 2020-10-
-ciceron 2019-00284 budgetansvariga om att 31
-dokument skulle saknas
-
 Uppföljningsrapport Intern kontroll 2020 18
+
+[Tabell 116-1](handlingar.tabeller/116-1.csv)
+
+| Status | Åtgärder | Kommentar | Slutdatu<br>m |
+| --- | --- | --- | --- |
+| Pågående | Utöka information samt löpande<br>stickprovskontroller |  | 2021-04-<br>30 |
+| Pågående | Löpande stickprovskontroller av<br>övriga manuella utbetalningar. |  | 2021-10-<br>31 |
+| Pågående | •Behövs informeras om att<br>underlag behövs vid varje<br>utbetalning och då inte bara en<br>uträkning utan ett underlag som<br>också beskriver det som betalts<br>ut. |  | 2021-10-<br>31 |
+| Pågående | Utöka information i interna<br>utbildningar/möten angående<br>kontering av<br>representationskostnader.<br>Tydlighet när det gäller<br>kontering på konto 7464 ”Måltid<br>interna kurser, konf APT”. |  | 2021-04-<br>30 |
+| Pågående | Kvartalsvis stickprovskontroller<br>av alla representationskonton |  | 2021-08-<br>31 |
+| Pågående | Löpande kommunikation med<br>attestanter angående statusen på<br>deras representationer |  | 2021-10-<br>31 |
+| Avslutad enligt plan | Information och påminnelser om<br>semesterplanering och<br>uppföljning av semesteruttag<br>enligt semesterlag. |  | 2020-10-<br>31 |
+| Pågående | Förändrad rutin med information<br>till systemrepresentanter |  | 2021-09-<br>30 |
+| Pågående | Rutingenomgång med samtliga<br>chefer |  | 2021-09-<br>30 |
+| Pågående | Förändrad rutin med information<br>till systemförvaltare eller<br>motsvarande |  | 2021-11-<br>25 |
+| Pågående | Effektiva kontroller |  | 2021-10-<br>31 |
+| Pågående | Underlag för utbetalning |  | 2021-10-<br>31 |
+| Avslutad med avvikelse | Granska avtal i samlingsärende i<br>ciceron 2019-00284 | Ingen återkoppling från<br>budgetansvariga om att<br>dokument skulle saknas | 2020-10-<br>31 |
 
 <!-- sida 117 -->
 
@@ -4836,75 +4717,22 @@ Uppföljningsrapport Intern kontroll 2020 19
 
 Nämnden för Teknik                              Kungsbacka kommun
 
-Slutdatu
-Status              Åtgärder           Kommentar
-m
-Pågående            En dokumenterad    En komplett processöversyn har 2021-10-
-rutin/kartläggning av processen påbörjats på enheten. Samtliga 31
-för VA anslutningar för större anslutningsprocesser skall
-föreningar         kartläggas och dokumenteras
-genom verktyget 'Visio'. Detta
-kommer dels resultera i
-omhändertagande av merparten
-av aktuella
-internkontrollpunkter, dels skapa
-ett underlag med vilket ett
-digitalt verksamhetssystem kan
-köpas in.
-2020-08-26:
-Arbetet enligt ovan pågår, med
-viss försening på grund av
-Covid-19. I princip alla
-internkontrollpunkter ingår i det
-arbetet, då de är likartade i natur
-och kommer att omhändertas i
-samband med att nya rutiner för
-VA-processen tas fram.
-Pågående            Utveckling av                          2021-10-
-rutinbeskrivningen                     31
-Pågående            Införa kontroller inom processen Rutiner för kontroll av 2021-10-
-för VA-anslutningar för föreningsanslutningar kommer 31
-föreningar         att ingå i den
-processkartläggning som
-initierats på enheten.
-2020-08-26:
-En processkartläggning pågår,
-som täcker in nya anslutningar
-för föreningar, avtalskunder samt
-anslutningar inom VO.
-När denna är slutförd kommer vi
-att ta fram tydligare rutiner för
-hur anslutningarna går till, samt
-vilka kontrollsteg som skall
-finnas på vägen.
-Pågående            En blankett för förändringar” 2020-08-26: Ett arbete med att 2021-10-
-eller en annan metod för att kontakta samtliga berörda 31
-Teknik ska få rätt information föreningar och efterfråga
-innan fakturering. uppdaterade medlemsregister
-pågår. Rutin för detta kommer
-att finnas i nya VA-processen.
-
 Uppföljningsrapport Intern kontroll 2020 20
+
+[Tabell 118-119-1](handlingar.tabeller/118-119-1.csv)
+
+| Status | Åtgärder | Kommentar | Slutdatu<br>m |
+| --- | --- | --- | --- |
+| Pågående | En dokumenterad<br>rutin/kartläggning av processen<br>för VA anslutningar för<br>föreningar | En komplett processöversyn har<br>påbörjats på enheten. Samtliga<br>större anslutningsprocesser skall<br>kartläggas och dokumenteras<br>genom verktyget 'Visio'. Detta<br>kommer dels resultera i<br>omhändertagande av merparten<br>av aktuella<br>internkontrollpunkter, dels skapa<br>ett underlag med vilket ett<br>digitalt verksamhetssystem kan<br>köpas in.<br>2020-08-26:<br>Arbetet enligt ovan pågår, med<br>viss försening på grund av<br>Covid-19. I princip alla<br>internkontrollpunkter ingår i det<br>arbetet, då de är likartade i natur<br>och kommer att omhändertas i<br>samband med att nya rutiner för<br>VA-processen tas fram. | 2021-10-<br>31 |
+| Pågående | Utveckling av<br>rutinbeskrivningen |  | 2021-10-<br>31 |
+| Pågående | Införa kontroller inom processen<br>för VA-anslutningar för<br>föreningar | Rutiner för kontroll av<br>föreningsanslutningar kommer<br>att ingå i den<br>processkartläggning som<br>initierats på enheten.<br>2020-08-26:<br>En processkartläggning pågår,<br>som täcker in nya anslutningar<br>för föreningar, avtalskunder samt<br>anslutningar inom VO.<br>När denna är slutförd kommer vi<br>att ta fram tydligare rutiner för<br>hur anslutningarna går till, samt<br>vilka kontrollsteg som skall<br>finnas på vägen. | 2021-10-<br>31 |
+| Pågående | En blankett för förändringar”<br>eller en annan metod för att<br>Teknik ska få rätt information<br>innan fakturering. | 2020-08-26: Ett arbete med att<br>kontakta samtliga berörda<br>föreningar och efterfråga<br>uppdaterade medlemsregister<br>pågår. Rutin för detta kommer<br>att finnas i nya VA-processen. | 2021-10-<br>31 |
+| Pågående | En medlemsförteckning samt en<br>förbindelsepunktskarta bör ingå i<br>varje avtal. | Rutiner för avtalsutformning<br>kommer att ingå i den<br>processkartläggning som<br>initierats på enheten.<br>2020-08-26:<br>Samma status som ovan. | 2021-10-<br>31 |
+| Pågående | Införa kontroller/checklistor före<br>fakturering | 2020-08-26:<br>Dessa checklistor görs manuellt<br>sedan årsskiftet, men kommer att<br>formaliseras i de nya rutiner för<br>VA-process som just nu arbetas<br>fram. | 2021-10-<br>31 |
 
 <!-- sida 119 -->
 
 Nämnden för Teknik                              Kungsbacka kommun
-
-Slutdatu
-Status              Åtgärder           Kommentar
-m
-Pågående            En medlemsförteckning samt en Rutiner för avtalsutformning 2021-10-
-förbindelsepunktskarta bör ingå i kommer att ingå i den 31
-varje avtal.       processkartläggning som
-initierats på enheten.
-2020-08-26:
-Samma status som ovan.
-Pågående            Införa kontroller/checklistor före 2020-08-26: 2021-10-
-fakturering        Dessa checklistor görs manuellt 31
-sedan årsskiftet, men kommer att
-formaliseras i de nya rutiner för
-VA-process som just nu arbetas
-fram.
 
 Uppföljningsrapport Intern kontroll 2020 21
 
@@ -5110,28 +4938,28 @@ Uppföljningsrapport Intern kontroll 2020 26
 
 [Tabell 124-125-1](handlingar.tabeller/124-125-1.csv)
 
-| Område | Frågor Svar, Antal 2020 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
-|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2020 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |  |
+|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 125 -->
 
@@ -5707,105 +5535,151 @@ Kungsbacka kommun
 
 <!-- sida 147 -->
 
-Planprogram                                                   för             kvarteret                                     Ejdern                         i     Kungsbacka                                                stad
+Planprogram                                                  för             kvarteret                                     Ejdern                          i     Kungsbacka                                               stad
 
-\-     Väster                 om          ån,         etapp               2
+\-    Väster                  om          ån,        etapp                2
 
-Samråd              19     januari           -   23      februari            2021
-
-Nu    planerar       vi  för   att    utveckla        kvarteret
+Samråd              19     januari           -   23     februari             2021
 
 Välkommen                med       synpunkter!
-Ejdern      som     ligger     centralt       i Kungsbacka.
 
-Området         ska    bli  en    attraktiv       stadsdel
+Nu   kan  du  lämna    synpunkter      på  förslag   till plan-
 
-som     kopplas        ihop     med     de    mest      centrala
+program     för  kvarteret    Ejdern   i Kungsbacka      stad
+\- Väster    om   ån,  etapp   2. Senast    23  februari    2021
 
-Nu   kan  du   lämna    synpunkter      på  förslag   till plan-
-delarna       av   staden:       Kungsbacka            innerstad,
-program     för  kvarteret    Ejdern   i Kungsbacka       stad
-stadsdelen          Valand       och    Kungsmässan.
-\- Väster    om   ån,  etapp   2.  Senast    23  februari   2021
-vill vi ha  dina   synpunkter.     Kom    ihåg   att ange    ditt
+vill vi ha  dina  synpunkter.      Kom    ihåg  att  ange    ditt
 
-namn,     adress   och   fastighetsbeteckning.
+namn,    adress    och   fastighetsbeteckning.
 
-2009    beslutade     kommunfullmäktige             om    stadsom-
-Lämna     dina   synpunkter      via vår  e-tjänst:
-vandlingsprojektet         Väster   om   ån,  som    innebär     att
+Lämna     dina  synpunkter      via  vår  e-tjänst:
 
-centrum      byggs    ut med     bostäder,    handel     och   kon-
 www.kungsbacka.se/aktuella                projekt
 
-tor  samt   knyter    samman       Kungsmässan          med    in-
 Skicka    till:
-nerstaden     genom      ett  nytt  stråk.   Stråket    är  viktigt
 (e-post borttagen)
-för  att centrum      ska   bli en   helhet   och    inte  uppfat-
 
 eller
-tas som    enskilda     delar.   Stadsdelen      Valand     utgör
 
-Samhällsbyggnadskontoret                                                                                                                                                            Etappindelning  för stadsomvandlingsprojektet        etapp   1,  som    håller   på  att  uppföras,     och   Ejdern
-Väster om ån, beslutad av kommunfullmäktige
+Samhällsbyggnadskontoret
+
 Kungsbacka       kommun
-2009\.                                                utgör   etapp    2.
 434   81  Kungsbacka
 
-Digitala   samrådsmöten         kommer      hållas   vid  följande                                                                                                                                                                       Planprogrammet           för  kvarteret    Ejdern     omfattar     ett
-
+Digitala   samrådsmöten         kommer      hållas   vid  följande
 tillfällen:
-40  000    kvadratmeter       stort   centralt   beläget     område
-Volymstudie   över  programområdet     som  visar möjliga utbyggnader.
-mellan    innerstaden       och   Kungsmässan,         cirka   400
+
 Tisdagen     den   2 februari    kl. 15-16
-meter    väster   om   Kungsbacka         station.   Området       be-
+
 Tisdagen     den   2 februari    kl. 16.30-17.30
-står  idag   till stor  del  av  gles  bebyggelse,      trafikytor
 
 Tisdagen     den   2 februari    kl. 18-19
-och   markparkering.         Genom      att  skapa    förutsätt-
 
-ningar    för  nya   kvarter    med    centrumverksamheter,
-Onsdagen      den   3  februari   kl. 15-16
-bostäder     och   grönområden         kan   vi få  en  levande
-Onsdagen      den   3  februari   kl. 16.30-17.30
-och   attraktiv    centrumkärna         som    kopplar    samman
-Planprogrammets     läge i kommunen.
-Onsdagen      den   3  februari   kl. 18-19                                                                                                                                                                                              stadens    mest    centrala    delar.
+Onsdagen      den   3 februari    kl. 15-16
+
+Onsdagen      den   3 februari    kl. 16.30-17.30
+
+Onsdagen      den   3 februari    kl. 18-19
 
 Antalet    deltagare    är  begränsat     till 10 personer     per
-Ejdernområdet         avses   att  kompletteras       med    bostä-
-möte.    Information     om   hur   du  anmäler     dig  till ett
-möte    finns   på:                                                                                                                                                                                                                      der,  centrumverksamheter,            centrumstråk,        parke-
+möte.    Information     om   hur   du  anmäler     dig till ett
 
-ringshus,    mötesplatser       och   förstärka     befintliga
+möte    finns  på:
+
 www.kungsbacka.se/aktuella                projekt
-grönområden.         Programmet        visar   på  att  det  kan    bli
-
-cirka   250   nya   bostäder.    Genom       områdets      norra
 
 Här     finns       programförslaget!
-del  kopplar     centrumstråket        samman       innerstaden
 
-med    stadsdelen     Valand     och   Kungsmässan.          Stråket
 \-  kungsbacka.se/aktuellaprojekt
-utformas     med    hög    stadsmässighet        och   bebyggels-
 
-\-  Stadshusets            entré
-en  har   bottenvåningar        med    restauranger,      butiker,
-Kontakta   gärna:
-kontor,    kaféer   med    mera    för  att  öka   attraktiviteten
-Maria  Malone,  planarkitekt
-(e-post borttagen)       0300   83 40 41
-och   flödet   av  människor.       Västra    Villastaden     och
+\-  Stadshusets           entré
+
+Kontakta  gärna:
+Maria Malone,  planarkitekt
+
+(e-post borttagen)       0300  83  40 41
+
 Anna  Wibling, exploateringsingenjör
-Sjöallén    kan   kopplas     till innerstaden      och   Hamn-
-(e-post borttagen)      0300  83  44 23
-torget   via  en  ny   bro  för  att  öka   tillgängligheten       till
+(e-post borttagen)      0300  83 44  23
 
-Förslag  på  Planprogramskarta                                                                                                                              området.
+Nu    planerar        vi  för   att   utveckla        kvarteret
+
+Ejdern      som      ligger     centralt      i  Kungsbacka.
+
+Området          ska    bli  en   attraktiv        stadsdel
+
+som      kopplas        ihop    med      de   mest      centrala
+
+delarna        av  staden:       Kungsbacka            innerstad,
+
+stadsdelen           Valand       och    Kungsmässan.
+
+2009    beslutade      kommunfullmäktige             om    stadsom-
+
+vandlingsprojektet         Väster    om  ån,   som   innebär     att
+
+centrum      byggs    ut  med    bostäder,     handel    och   kon-
+
+tor  samt    knyter    samman       Kungsmässan         med     in-
+
+nerstaden      genom     ett  nytt   stråk.   Stråket    är  viktigt
+
+för  att  centrum      ska  bli  en  helhet    och   inte  uppfat-
+
+tas  som    enskilda     delar.  Stadsdelen      Valand     utgör
+
+Etappindelning  för stadsomvandlingsprojektet        etapp    1, som    håller   på  att  uppföras,     och   Ejdern
+
+Väster om ån, beslutad av kommunfullmäktige
+2009\.                                                utgör    etapp   2.
+
+Planprogrammet           för  kvarteret     Ejdern     omfattar     ett
+
+40   000   kvadratmeter        stort  centralt    beläget    område
+Volymstudie   över programområdet     som   visar möjliga utbyggnader.
+mellan     innerstaden      och   Kungsmässan,          cirka   400
+
+meter    väster   om    Kungsbacka        station.   Området       be-
+
+står  idag   till stor  del   av  gles  bebyggelse,      trafikytor
+
+och   markparkering.         Genom       att  skapa   förutsätt-
+
+ningar    för   nya  kvarter    med     centrumverksamheter,
+
+bostäder     och   grönområden         kan   vi  få  en  levande
+
+och   attraktiv    centrumkärna         som    kopplar     samman
+Planprogrammets     läge i kommunen.
+stadens    mest    centrala    delar.
+
+Ejdernområdet          avses   att kompletteras        med    bostä-
+
+der,  centrumverksamheter,             centrumstråk,        parke-
+
+ringshus,     mötesplatser       och   förstärka    befintliga
+
+grönområden.         Programmet         visar   på  att  det  kan   bli
+
+cirka   250   nya   bostäder.     Genom       områdets      norra
+
+del  kopplar     centrumstråket         samman       innerstaden
+
+med    stadsdelen      Valand     och   Kungsmässan.         Stråket
+
+utformas      med    hög   stadsmässighet        och   bebyggels-
+
+en   har  bottenvåningar         med    restauranger,      butiker,
+
+kontor,    kaféer    med    mera    för  att  öka   attraktiviteten
+
+och   flödet   av  människor.       Västra    Villastaden      och
+
+Sjöallén    kan    kopplas    till innerstaden       och   Hamn-
+
+torget   via   en  ny  bro   för  att  öka   tillgängligheten       till
+
+Förslag  på Planprogramskarta                                                                                                                              området.
 
 <!-- sida 148 -->
 
@@ -6157,14 +6031,13 @@ Kungsbacka Tillsammansodling
 4
 Tingberget
 
-Kungsbackaskogen
-
-Skogsallén
-
-Västra Villastaden
-Vv
+Skogsallén >
 
 För frågor, kontakta:
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 156 -->
 
@@ -6284,16 +6157,11 @@ SR
 
 Pilgatan
 
-\- INsalavägen,
-Almgatan
-
 Lindgatan
 
 Ekgatan
 
-Kungsbackaskogen
-
-\:
+5
 \=
 \=
 
@@ -6304,14 +6172,19 @@ S
 £
 Ed
 
-Skogsallén
-
-Västra Villastaden
-Vv
+Skogsallén »
 
 Bild 1. Föreslagen plats för Kungsbacka Tillsammansodling
 
 2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling
+
+\- INsalavägen,
+
+Almgatan
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 159 -->
 
@@ -6404,17 +6277,16 @@ Tingberget
 
 \>
 
-Kungsbackaskogen
-
-Västra Villastaden
-v
-
 Bild 3. Ledningar i marken
 
 \> L. Forslin, 2008. http://www.fobo.se/index.php/kunskapmeny/fragor-svar-meny/fragor-svar-2008-meny/227-
 tar-groedorna-upp-radon
 
 2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling 7
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 162 -->
 
@@ -6440,41 +6312,33 @@ området. Vi vill slå ängen med lie enligt metoder för att på bästa sätt b
 7N
 Tingberget
 
-Kungsgatan SE för
-
-ww
-
-u Pilgatan
-
-Almgatan
-
 Lindgatan
 
 Ekgatan
-
-7
-Kungsbackaskogen
 
 5
 Z
 \=
 
-ec
-cd
-\=
+c
+s
+sz
 få
-a
+oe
 £
-<
+z
 
-kogsofen
-
-Västra Villastaden
-Vv
+kogsofen >
 
 Bild 4. Första idéskiss av odlingsplatsen
 
-2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling 8
+2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling
+
+Almgatan
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 163 -->
 
@@ -6649,13 +6513,7 @@ Lindgatan
 
 Ekgatan
 
-4A
-Kungsbackaskogen
-
-So
-
-Västra Villastaden
-Vv
+So >
 
 Im — 1O0m 100m
 
@@ -6665,6 +6523,10 @@ Som nämnt tidigare är odlingsplatsens centrala placering mellan olika stadsdel
 för att kunna engagera fler människor och för att fler ska ha nära till platsen. Vi tror att vår
 
 2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling 12
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 167 -->
 
@@ -6681,7 +6543,7 @@ och vidare utredningar behövs göras innan vi kan rekommendera vissa av dessa p
 
 \-  Tingberget, ytan mitt emot Tingbergsskolan vid höghusen.
 
-\-  Tingberget/Liljan, ytan mellan Tingberget och det nya Kvarteret Liljan (idag
+\- — Tingberget/Liljan, ytan mellan Tingberget och det nya Kvarteret Liljan (idag
 industriområde).
 
 \-  Tingberget/Varla, ytan nära Öppna förskolan, Våra små hjärtan förskola och
@@ -6792,21 +6654,19 @@ Lindgatan
 
 Ekgatan
 
-4A
-Kungsbackaskogen
-
 Å
 \=
 \=
-
-Västra Villastaden
-Vv
 
 Im — 1O0m 100m
 
 Bild 8. Frukt- och bärlund för allmänheten
 
 2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling 15
+
+Kungsbackaskogen
+
+Västra Villastaden
 
 <!-- sida 170 -->
 
@@ -6830,19 +6690,12 @@ Med vårt förslag att nyttja föreslagna plats till stadsodling tror vi att vå
 kunna bidra kommunen till att uppnå följande delar av Kungsbackas vision för 2030:
 
 I Kungsbacka växer framtiden
-
 Vi skapar det goda livet tillsammans
-
 Vi är öppna, trygga och nytänkande
-
 Alla är lika välkomna
-
 Naturskön tillväxtkommun
-
 Goda möjligheter till utveckling (individ, grupp, förening)
 Samhället utvecklas på ett hållbart sätt (socialt, ekologiskt)
-
-ÖRNEN
 
 Mångfald, puls och nära till naturen
 
@@ -6871,6 +6724,8 @@ Kontakt
 Hör gärna av er om ni har frågor och funderingar!
 
 2021-01-22 Verksamhetsbeskrivning - Kungsbacka Tillsammansodling 16
+
+ÖRNEN
 
 <!-- sida 171 -->
 

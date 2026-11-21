@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20220320071922id_/https://www.kungsbacka.
 sha256: 7c619c9313bb58196578e8815cdf8578dbad5f9f29b8b4d9abf88924bd44e340
 bytes: 2952550
 sidor: 59
-hamtad: 2026-10-31T09:51:31+00:00
-konverterad: 2026-10-31T09:51:48+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:28:23+00:00
+konverterad: 2026-11-21T01:28:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ocr, ok, ok, tabell-osaker, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, tabell-osaker, ok]
 tal_obekraftade: [33, 38, 54, 57]
-figurer: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 47, 48, 49, 50, 51, 54, 55, 56, 57]
+figurer: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 33, 34, 35, 36, 37, 38, 54, 55, 56, 57]
 tolkade: []
 granskad: null
 ---
@@ -1347,36 +1347,36 @@ Uppföljning Systematiskt arbetsmiljöarbete 2020
 
 3 Checklista   för årlig uppföljning
 
-Frågor                                     Svar, Antal 2020
-Ingår systematiskt arbetsmiljöarbete som en
-naturlig del i den dagliga verksamheten?
-
-Medverkar medarbetare och är delaktiga i det
-systematiska arbetsmiljöarbetet?
-
-Medverkar skyddsombud- och eller
-elevskyddsombud i det systematiska
-arbetsmiljöarbetet?
-
 6
+
+[Tabell 47-51-1](handlingar.tabeller/47-51-1.csv)
+
+| Frågor | Svar, Antal 2020 |
+| --- | --- |
+| Ingår systematiskt arbetsmiljöarbete som en<br>naturlig del i den dagliga verksamheten? |  |
+| Medverkar medarbetare och är delaktiga i det<br>systematiska arbetsmiljöarbetet? |  |
+| Medverkar skyddsombud- och eller<br>elevskyddsombud i det systematiska<br>arbetsmiljöarbetet? |  |
+| Finns kunskap om kommunens<br>arbetsgivarpolicy? |  |
+| Finns kunskap om hur man ska<br>rapporter/anmäla tillbud och arbetsolyckor. |  |
+| Finns kunskap om Kungsbacka kommuns<br>regler och rutin för kränkande särbehandling? |  |
+| Finns kunskap om kommunens policy och<br>handlingsplan för en drogfri arbetsplats? |  |
+| Finns kunskap om vilka föreskrifter, AFS, som<br>gäller för verksamheten? |  |
+| Finns kunskap om personalvårdsprogram Falck<br>Healthcare? |  |
+| Finns kunskap om företagshälsovården? |  |
+| Genomförs riskbedömning vid planering och<br>eller förändring i verksamheten? |  |
+| Genomförs arbete med friskfaktorer på<br>arbetsplatsträffen eller i annat forum? |  |
+| Genomförs utredning av allvarliga tillbud,<br>ohälsa och olycksfall? |  |
+| Finns skriftlig uppgiftsfördelning för<br>arbetsmiljöansvarig chef? |  |
+| Finns tillräckliga befogenheter, resurser och<br>kompetens utifrån uppgiftsfördelningen som är<br>genomförd? |  |
+| Har du som chef tillräckliga kunskaper inom<br>systematiskt arbetsmiljöarbete? |  |
+| Har du som chef tillräckliga kunskaper om<br>organisatorisk och social arbetsmiljö? |  |
+| Har du som chef tillräckliga kunskaper för att se<br>till att medarbetarnas arbetsuppgifter och<br>befogenheter inte ger upphov till ohälsosam<br>arbetsbelastning? |  |
+| Har du som chef tillräckliga kunskaper om vilka<br>åtgärder som behövs för att motverka<br>attarbetstidens förläggning leder till ohälsa hos<br>medarbetarna? |  |
 
 <!-- sida 48 -->
 
 Vård & Omsorg                                    Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2020
-
-Frågor                                     Svar, Antal 2020
-Finns kunskap om kommunens
-arbetsgivarpolicy?
-
-Finns kunskap om hur man ska
-rapporter/anmäla tillbud och arbetsolyckor.
-
-Finns kunskap om Kungsbacka kommuns
-regler och rutin för kränkande särbehandling?
-
-Finns kunskap om kommunens policy och
-handlingsplan för en drogfri arbetsplats?
 
 7
 
@@ -1385,18 +1385,6 @@ handlingsplan för en drogfri arbetsplats?
 Vård & Omsorg                                    Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2020
 
-Frågor                                     Svar, Antal 2020
-Finns kunskap om vilka föreskrifter, AFS, som
-gäller för verksamheten?
-
-Finns kunskap om personalvårdsprogram Falck
-Healthcare?
-
-Finns kunskap om företagshälsovården?
-
-Genomförs riskbedömning vid planering och
-eller förändring i verksamheten?
-
 8
 
 <!-- sida 50 -->
@@ -1404,43 +1392,12 @@ eller förändring i verksamheten?
 Vård & Omsorg                                    Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2020
 
-Frågor                                     Svar, Antal 2020
-Genomförs arbete med friskfaktorer på
-arbetsplatsträffen eller i annat forum?
-
-Genomförs utredning av allvarliga tillbud,
-ohälsa och olycksfall?
-
-Finns skriftlig uppgiftsfördelning för
-arbetsmiljöansvarig chef?
-
-Finns tillräckliga befogenheter, resurser och
-kompetens utifrån uppgiftsfördelningen som är
-genomförd?
-
 9
 
 <!-- sida 51 -->
 
 Vård & Omsorg                                    Kungsbacka kommun
 Uppföljning Systematiskt arbetsmiljöarbete 2020
-
-Frågor                                     Svar, Antal 2020
-Har du som chef tillräckliga kunskaper inom
-systematiskt arbetsmiljöarbete?
-
-Har du som chef tillräckliga kunskaper om
-organisatorisk och social arbetsmiljö?
-
-Har du som chef tillräckliga kunskaper för att se
-till att medarbetarnas arbetsuppgifter och
-befogenheter inte ger upphov till ohälsosam
-arbetsbelastning?
-
-Har du som chef tillräckliga kunskaper om vilka
-åtgärder som behövs för att motverka
-attarbetstidens förläggning leder till ohälsa hos
-medarbetarna?
 
 10
 
@@ -1538,6 +1495,13 @@ den 1 april. I höjningen skall ingå kompensation för avtalsmässiga kostnader
 förändringar i konsumentprisindex (KPI). Enligt modellen blir ersättningarna för 2021
 434 kronor/timme för omsorg och 394 kronor/timme för service.
 
+2020 2021
+Omsorg per timme 421 434
+
+Service per timme 382 394
+
+OPI          2,7% 3,0%
+
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2021-02-18
 
@@ -1552,14 +1516,6 @@ Besöksadress
 Stadshuset, Storgatan 37
 Telefon 0300-83 40 00
 www.kungsbacka.se
-
-[Tabell 58-1](handlingar.tabeller/58-1.csv)
-
-| 2020 | 2021 |
-| --- | --- |
-| Omsorg per timme 421 | 434 |
-| Service per timme 382 | 394 |
-| OPI 2,7% | 3,0% |
 
 <!-- sida 59 -->
 

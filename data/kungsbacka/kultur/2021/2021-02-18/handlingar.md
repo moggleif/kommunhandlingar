@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319211946id_/https://www.kungsbacka.
 sha256: 925d71760d71b6689ff546720e6bc201cd973e83d25604c8c55d559f1f978868
 bytes: 28227365
 sidor: 624
-hamtad: 2026-10-31T10:56:19+00:00
-konverterad: 2026-10-31T11:00:51+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:33:21+00:00
+konverterad: 2026-11-21T01:34:51+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [8, 19, 59, 153, 154, 160, 164, 168, 173, 174, 182, 183, 200, 244, 262, 280, 361, 455, 456, 462, 466, 470, 475, 476, 484, 485, 502, 546, 564, 582]
 figurer: [67, 122, 153, 155, 156, 157, 158, 161, 162, 163, 164, 166, 167, 169, 170, 172, 173, 174, 233, 235, 237, 240, 241, 242, 243, 244, 245, 249, 251, 255, 256, 257, 259, 261, 267, 271, 274, 276, 278, 279, 280, 282, 285, 286, 290, 292, 293, 294, 295, 296, 297, 298, 299, 306, 308, 309, 311, 312, 369, 424, 455, 457, 458, 459, 460, 463, 464, 465, 466, 468, 469, 471, 472, 474, 475, 476, 535, 537, 539, 542, 543, 544, 545, 546, 547, 551, 553, 557, 558, 559, 561, 563, 569, 573, 576, 578, 580, 581, 582, 584, 587, 588, 592, 594, 595, 596, 597, 598, 599, 600, 601, 608, 610, 611, 613, 614]
 tolkade: []
@@ -204,6 +204,28 @@ ordförande                        sekreterare
 
 Nämnden för Kultur & Fritid
 
+F örvaltningschefens månadsbrev. Februari 2021
+
+1 (4)
+Långsiktig planering och större frågor
+Datum
+2021-02-01
+Kungsbacka sporthall
+
+1 februari övertog Kungsbacka kommun byggnaden ”Kungsbacka sporthall” från
+byggaren som ny uppfört byggnaden mellan Aranäsgymnasiet och Kungsbacka
+badhus. Under kommande veckor arbetar vi med inredning, utrustning och
+rutinsättning för att kunna välkomna skolelever och föreningslivet som hyresgäster v
+8\. Sporthallen ersätter utrymmena som fanns i Aranäs A- och B-hall samt delar av
+utrymmena i gamla simhallen. Sporthallen innehåller två fullstora idrottshallar men
+en publikkapacitet om totalt 1000 personer, två mindre motionssalar som utrustas för
+budosporterna, en mängd gemensamma utrymmen såsom omklädningsrum,
+kontorsytor och fikaplats. Vi har kommit en lång bit på vägen i synen på att skola
+
+och föreningsliv delar på ytorna och att föreningarna inte ska se ytorna som sina egna
+utan vara beredda att dela med andra föreningar till exempel när det gäller
+omklädningsrum, budolokalerna och kontorsytor.
+
 Kultur & Fritid                                              Kungsbacka kommun
 Ulrika Granfors                                                 Kultur & Fritid
 Direkt 0300-83 40 98                                          434 81 Kungsbacka
@@ -214,27 +236,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
-Förvaltningschefens månadsbrev. Februari 2021
-1 (4)
-Långsiktig planering och större frågor
-Datum
-2021-02-01
-Kungsbacka sporthall
-1 februari övertog Kungsbacka kommun byggnaden ”Kungsbacka sporthall” från
-byggaren som ny uppfört byggnaden mellan Aranäsgymnasiet och Kungsbacka
-badhus. Under kommande veckor arbetar vi med inredning, utrustning och
-rutinsättning för att kunna välkomna skolelever och föreningslivet som hyresgäster v
-8\. Sporthallen ersätter utrymmena som fanns i Aranäs A- och B-hall samt delar av
-utrymmena i gamla simhallen. Sporthallen innehåller två fullstora idrottshallar men
-en publikkapacitet om totalt 1000 personer, två mindre motionssalar som utrustas för
-budosporterna, en mängd gemensamma utrymmen såsom omklädningsrum,
-kontorsytor och fikaplats. Vi har kommit en lång bit på vägen i synen på att skola
-och föreningsliv delar på ytorna och att föreningarna inte ska se ytorna som sina egna
-utan vara beredda att dela med andra föreningar till exempel när det gäller
-omklädningsrum, budolokalerna och kontorsytor.
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 9 -->
 
@@ -574,6 +577,28 @@ ordförande                        sekreterare
 
 Nämnden för Kultur & Fritid
 
+F örvaltningschefens månadsbrev. Februari 2021
+
+1 (4)
+Långsiktig planering och större frågor
+Datum
+2021-02-01
+Kungsbacka sporthall
+
+1 februari övertog Kungsbacka kommun byggnaden ”Kungsbacka sporthall” från
+byggaren som ny uppfört byggnaden mellan Aranäsgymnasiet och Kungsbacka
+badhus. Under kommande veckor arbetar vi med inredning, utrustning och
+rutinsättning för att kunna välkomna skolelever och föreningslivet som hyresgäster v
+8\. Sporthallen ersätter utrymmena som fanns i Aranäs A- och B-hall samt delar av
+utrymmena i gamla simhallen. Sporthallen innehåller två fullstora idrottshallar men
+en publikkapacitet om totalt 1000 personer, två mindre motionssalar som utrustas för
+budosporterna, en mängd gemensamma utrymmen såsom omklädningsrum,
+kontorsytor och fikaplats. Vi har kommit en lång bit på vägen i synen på att skola
+
+och föreningsliv delar på ytorna och att föreningarna inte ska se ytorna som sina egna
+utan vara beredda att dela med andra föreningar till exempel när det gäller
+omklädningsrum, budolokalerna och kontorsytor.
+
 Kultur & Fritid                                              Kungsbacka kommun
 Ulrika Granfors                                                 Kultur & Fritid
 Direkt 0300-83 40 98                                          434 81 Kungsbacka
@@ -584,27 +609,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0001BUK
-Förvaltningschefens månadsbrev. Februari 2021
-1 (4)
-Långsiktig planering och större frågor
-Datum
-2021-02-01
-Kungsbacka sporthall
-1 februari övertog Kungsbacka kommun byggnaden ”Kungsbacka sporthall” från
-byggaren som ny uppfört byggnaden mellan Aranäsgymnasiet och Kungsbacka
-badhus. Under kommande veckor arbetar vi med inredning, utrustning och
-rutinsättning för att kunna välkomna skolelever och föreningslivet som hyresgäster v
-8\. Sporthallen ersätter utrymmena som fanns i Aranäs A- och B-hall samt delar av
-utrymmena i gamla simhallen. Sporthallen innehåller två fullstora idrottshallar men
-en publikkapacitet om totalt 1000 personer, två mindre motionssalar som utrustas för
-budosporterna, en mängd gemensamma utrymmen såsom omklädningsrum,
-kontorsytor och fikaplats. Vi har kommit en lång bit på vägen i synen på att skola
-och föreningsliv delar på ytorna och att föreningarna inte ska se ytorna som sina egna
-utan vara beredda att dela med andra föreningar till exempel när det gäller
-omklädningsrum, budolokalerna och kontorsytor.
+
+KUB1000, v2.0, 2012-05-23
 
 <!-- sida 20 -->
 
@@ -1072,26 +1078,6 @@ friskvårdsanläggning.
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Trygghetsindex för hur kommuninvånarna
-bedömer tryggheten (SCB:s      63      64      60      59      65
-medborgarundersökning, skala 0-100)
-Bäst att bo, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 28 24    15      5       30
-Fokus.
-Invånarnas helhetsbedömning av kommunen
-som en plats att bo och leva på. SCB:s
-72      72      68      69      72
-medborgarundersökning, Nöjd Region-index,
-NRI, skala 0–100.
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s
-66      66      66      65      67
-medborgarundersökning, index i skala 0–
-100).
-Antal påbörjade bostäder                       501            575
-Antal färdigställda bostäder                   418            575
 3.1.1 Vår verksamhet är välkänd och det är lätt att hitta rätt, även till alternativa utförare
 inom vårt verksamhetsområde.
 
@@ -1123,6 +1109,17 @@ day in Halland" red på pandemisituationen och fungerade som en guide till vår 
 Vi synliggör och kompletterar vårt utbud: Vi genomförde en stor hemesterkampanj och mycket av vår
 
 7
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna<br>bedömer tryggheten (SCB:s<br>medborgarundersökning, skala 0-100) | 63 | 64 | 60 | 59 | 65 |
+| Bäst att bo, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 28 | 24 | 15 | 5 | 30 |
+| Invånarnas helhetsbedömning av kommunen<br>som en plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index,<br>NRI, skala 0–100. | 72 | 72 | 68 | 69 | 72 |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–<br>100). | 66 | 66 | 66 | 65 | 67 |
+| Antal påbörjade bostäder |  |  | 501 |  | 575 |
+| Antal färdigställda bostäder |  |  | 418 |  | 575 |
 
 <!-- sida 31 -->
 
@@ -1165,57 +1162,27 @@ föräldrar, just för att föreläsningarna blivit digitala och lättillgängli
 aktivitetsgrupper.
 •  Satsning på fritidslots för att knyta nyanlända unga till föreningslivet eller annan fritidsverksamhet
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges 2,3             2
-Ekokommuner)
-
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 65   73      74              75
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-79%     79%    71%             99%
-(%) (Källa: Sveriges Ekokommuner)
-
 8
+
+[Tabell 31-32-1](handlingar.tabeller/31-32-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) | 2,3 |  |  |  | 2 |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 65 | 73 | 74 |  | 75 |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 79% | 79% | 71% |  | 99% |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 505 | 427 | 354 |  | 350 |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,1 | 0,17 | 0,14 |  | 0,1 |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 91% | 89% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) |  | 91% | 90% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 75% | 73% |  | 80% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 88% | 81% |  | 90% |
 
 <!-- sida 32 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%            99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 505 427     354            350
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,1 0,17 0,14     0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i %      91%    89%             92%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90%           92%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      75%    73%             80%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      88%    81%             90%
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
 
 3.2.1 Fler unga har möjlighet att prova Kulturskolans verksamhet istället för att stå i kö
 
@@ -1326,20 +1293,6 @@ Folkhälsomyndighetens råd. I och med Varbergs avtal med Medley som tillkom und
 beslut att lägga ut driften av våra simhallar har vi möjliggjort för den privata friskvårdssektorn att utvecklas i
 Västsverige.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 67 63     62              70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3      3,2     3,4            3,5
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
 3.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -1349,6 +1302,13 @@ Fokusområden
 \- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 11
+
+[Tabell 34-1](handlingar.tabeller/34-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 | 63 | 62 |  | 70 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3 | 3,2 | 3,4 |  | 3,5 |
 
 <!-- sida 35 -->
 
@@ -1371,28 +1331,8 @@ Hålabäcks- och Gullregnsområdet.
 Vi har utökat programmet "En frisk generation" som handlar om rörelse, kost och välmående till Anneberg i
 syfte att nå fler nyanlända och möjliggöra att fler band knyts mellan olika familjer i Anneberg.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-229     240     238    245,7   245
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,4% 3% 2,2% 2,8%    2,5%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-7,5             7,3            7,6
-enligt Skolenkäten som genomförs i
-samarbete med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,9 13,8 14      14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat              90%
-försörjningsstöd (%)
 3.4.1 Föreningar inom kultur, fritid och idrott samverkar.
+
 Beslutats av
 Nämnd
 Nämndens formulering
@@ -1407,6 +1347,16 @@ Kommentar på nämndmål
 Under året har vi inte kunnat utveckla samarbetet med föreningarna så mycket då corona starkt påverkat
 
 12
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 229 | 240 | 238 | 245,7 | 245 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,4% | 3% | 2,2% | 2,8% | 2,5% |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs i<br>samarbete med Göteborgsregionen, GR. | 7,5 |  | 7,3 |  | 7,6 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,9 | 13,8 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) |  |  |  |  | 90% |
 
 <!-- sida 36 -->
 
@@ -1443,26 +1393,17 @@ längre.
 
 Vi har satsat stort under året på att bygga bilden av Kungsbacka och allt fint som finns här att besöka och göra.
 På grund av corona valde många hemester och att utforska allt vi paketerat lättillgängligt och bra.
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-
-Nöjd-inflytande index för hur
-kommuninvånarna bedömer möjligheterna till
-46      47      43              48
-inflytande. (SCB:s medborgarundersökning,
-0-100).
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-77      76                      79
-områdena motivation, ledarskap och styrning,
-skala 1-100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 80 77      91              85
-nyckeltal med skala 1–20.
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar
 
 13
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Nöjd-inflytande index för hur<br>kommuninvånarna bedömer möjligheterna till<br>inflytande. (SCB:s medborgarundersökning,<br>0-100). | 46 | 47 | 43 |  | 48 |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten. | 77 | 76 |  |  | 79 |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 80 | 77 | 91 |  | 85 |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar |  |  |  |  |  |
 
 <!-- sida 37 -->
 
@@ -1527,9 +1468,6 @@ Arbete har pågått under 2020 och avstämningar har gjort med nämnden i olika 
 arbetet. Vi kommer vara inne i en längre beslutsfas av de olika delarna (olika bidragstyper och taxor) under
 början av 2021.
 
-Indikatorer                                    Utfall 2020
-Status på direktiv                          Pågående enligt plan
-
 4.2 Vi ska utveckla arbetssätt för ”Tillsammans för varje barn”
 
 Beslutats av
@@ -1558,6 +1496,12 @@ begränsade möjligheter att ha fysisk kontakt med eleverna.
 
 15
 
+[Tabell 38-1](handlingar.tabeller/38-1.csv)
+
+| Indikatorer | Utfall 2020 |
+| --- | --- |
+| Status på direktiv | Pågående enligt plan |
+
 <!-- sida 39 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
@@ -1585,46 +1529,46 @@ Kvalitetsdeklarationerna vänder sig till dem vi är till för. De ska tydligt b
 
 [Tabell 40-44-1](handlingar.tabeller/40-44-1.csv)
 
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-| Friluftsbad | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>Uppnått<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |
-| Ungdoms-<br>verksamhet | Alla ungdomar ska ha lika Ungdomarnas möjlighet att<br>Delvis<br>möjligheter att påverka Ung i påverka har begränsats på grund<br>uppnått<br>Kungsbackas verksamhet. av pandemin. |
-|  | På grund av pandemin har vi inte<br>Personalen på Ung i Kungsbacka kunnat hjälpa ungdomar att<br>Delvis ska lyssna på och hjälpa genomföra idéerna, trots att vi i<br>uppnått ungdomar att genomföra sina början av året hade en kampanj,<br>idéer. som hade ett stort gensvar, i<br>syfte att lyssna in ungdomar. |
-| Bidrag och stöd till<br>föreningar | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>Uppnått<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |
-|  | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>Uppnått efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |
-|  | Vi hanterar din ansökan inom fem<br>Uppnått arbetsdagar efter att den kommit<br>till oss. |
-|  | Vi kontaktar styrelsen efter<br>Uppnått registrering för en personlig<br>kontakt. |
-| Idrottsplatser | Stängsel runt konstgräsplanerna<br>kontrolleras i september och april<br>Uppnått<br>och belysningen kontrolleras i<br>september. |
-|  | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>Uppnått<br>senast två arbetsdagar efter<br>avslutat snöfall. |
-|  | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på vår<br>webbplats. Ledare som<br>Uppnått<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |
-|  | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>Uppnått<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |
-| Inomhushallar | Vi kontrollerar utrustningen i<br>idrottshallar och gymnastiksalar<br>varannan vecka. Kontrollen gäller<br>Service Fastighet utför detta på<br>Uppnått den utrustning som Kultur &<br>uppdrag av Kultur & Fritid<br>fritids abonnenter använder i<br>lokalen. Det vill säga våra kvälls-<br>och helgabonnenter. |
-|  | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>Delvis veckor med återkoppling till Service Fastighet utför detta på<br>uppnått anmälaren. Dröjer det längre uppdrag av Kultur & Fritid<br>anger vi när vi kan åtgärda<br>problemet. |
-| Motionsspår | Vi kontrollerar belysning senast 1<br>november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-|  | Inrapporterade fel på belysningen<br>ska åtgärdas inom två<br>Delvis arbetsdagar med återkoppling till<br>uppnått anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |
-|  | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-| Simhallar | All personal som bevakar i<br>simhallen har utbildning i Kungsbackas simhallar drivs från<br>livräddning och hjärt- och 2020 av ett privat företag och<br>lungräddning. De har även kvalitetsuppföljningen sker enligt<br>grundläggande kunskaper i avtal.<br>sjukvård. |
-|  | Kungsbackas simhallar drivs från<br>Vattentemperaturen i Fjärås 2020 av ett privat företag och<br>simhall är 28 grader. kvalitetsuppföljningen sker enligt<br>avtal. |
-|  | I Kungsbacka simhall är det 28<br>Kungsbackas simhallar drivs från<br>grader i stora bassängen, 31<br>2020 av ett privat företag och<br>grader undervisningsbassängen.<br>kvalitetsuppföljningen sker enligt<br>På onsdagar är det 34 grader i<br>avtal.<br>undervisningsbassängen. |
-|  | Kungsbackas simhallar drivs från<br>Vi kontrollerar vattenkvaliteten i<br>2020 av ett privat företag och<br>Fjärås simhall två gånger per<br>kvalitetsuppföljningen sker enligt<br>dag.<br>avtal. |
-|  | Kungsbackas simhallar drivs från<br>Vi kontrollerar vattenkvaliteten i<br>2020 av ett privat företag och<br>Kungsbacka simhall två gånger<br>kvalitetsuppföljningen sker enligt<br>per dag.<br>avtal. |
-| Större<br>arrangemang | När det är verksamhet i våra Vi har inte haft större<br>anläggningar ska det finnas arrangemang under 2020 på<br>personal från Fritid & Folkhälsa i grund av pandemin.<br>tjänst. |
-|  | Vi bjuder in till en förberedande<br>träff sex månader innan<br>Vi har inte haft större<br>arrangemanget. Vi genomför ett<br>arrangemang under 2020 på<br>avstämningsmöte senast en<br>grund av pandemin.<br>månad innan arrangemanget ska<br>genomföras. |
-|  | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>Uppnått<br>EM, VM eller tävling med annat<br>nationellt intresse. |
-|  | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>Uppnått<br>nationell status. Bidraget regleras<br>av vilken status arrangemanget<br>har. |
-| Bibliotek | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>Uppnått<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |
-|  | Du som har någon form av<br>funktionsvariation ska, i<br>Uppnått<br>möjligaste mån, ha tillgång till<br>anpassade medier. |
-|  | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>Uppnått<br>medier genom att lämna<br>inköpsförslag. |
-|  | Biblioteken i Kungsbacka ska På grund av pandemin har vi<br>Delvis<br>stimulera barn och unga till endast delvis kunnat nå dessa<br>uppnått<br>läsning. grupper |
-| Turism<br>Kungsbacka | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig och<br>digital turistinformation på<br>svenska och engelska om<br>Uppnått<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |
-|  | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>Uppnått<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |
-|  | Äskhults by ska vara öppen maj<br>På grund av pandemin har<br>- oktober och erbjuda ett<br>säsongen avslutats tidigare och<br>Delvis skiftande programutbud.<br>programutbudet har varit<br>uppnått Kulturlandskapet ska kunna<br>begränsat, även om besökande i<br>besökas även när Äskhults by<br>naturreservatet ökat.<br>inte är öppen. |
-|  | Naturum Fjärås Bräcka ska På grund av pandemin har<br>erbjuda ett skiftande naturum Fjärås Bräcka haft<br>Delvis<br>programutbud året runt och begränsat öppethållande, även<br>uppnått<br>verksamheten ska präglas av ett om besökande i naturreservatet<br>ekologiskt tankesätt. ökat. |
-| Scen & Konst | Det generella utbudet i Filmhuset<br>Facklan ska under året<br>Delvis kompletteras med filmer för Begränsat på grund av<br>uppnått skolbio, Bio Kontrast- pandemin.<br>föreställningar och<br>dagbiovisningar. |
-|  | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>Uppnått<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |
-|  | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>Uppnått upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |
-|  | Från och med april har<br>Vi ska under året presentera Kungsbacka teater haft sin<br>minst en uppsättning av vardera ordinarie verksamhet stängd.<br>Delvis<br>genrerna musik, musikdramatik, Under vår och sommaren har<br>uppnått<br>drama, dans och ett verk med teatern gjort arrangemang<br>amatörteater. utomhus och tillsammans med<br>andra förvaltningar. |
-| Kulturmiljövård | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>Uppnått<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+| Friluftsbad |  | Uppnått | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |  |
+| Ungdoms-<br>verksamhet |  | Delvis<br>uppnått | Alla ungdomar ska ha lika<br>möjligheter att påverka Ung i<br>Kungsbackas verksamhet. | Ungdomarnas möjlighet att<br>påverka har begränsats på grund<br>av pandemin. |
+|  |  | Delvis<br>uppnått | Personalen på Ung i Kungsbacka<br>ska lyssna på och hjälpa<br>ungdomar att genomföra sina<br>idéer. | På grund av pandemin har vi inte<br>kunnat hjälpa ungdomar att<br>genomföra idéerna, trots att vi i<br>början av året hade en kampanj,<br>som hade ett stort gensvar, i<br>syfte att lyssna in ungdomar. |
+| Bidrag och stöd till<br>föreningar |  | Uppnått | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |  |
+|  |  | Uppnått | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |  |
+|  |  | Uppnått | Vi hanterar din ansökan inom fem<br>arbetsdagar efter att den kommit<br>till oss. |  |
+|  |  | Uppnått | Vi kontaktar styrelsen efter<br>registrering för en personlig<br>kontakt. |  |
+| Idrottsplatser |  | Uppnått | Stängsel runt konstgräsplanerna<br>kontrolleras i september och april<br>och belysningen kontrolleras i<br>september. |  |
+|  |  | Uppnått | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>senast två arbetsdagar efter<br>avslutat snöfall. |  |
+|  |  | Uppnått | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på vår<br>webbplats. Ledare som<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |  |
+|  |  | Uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |  |
+| Inomhushallar |  | Uppnått | Vi kontrollerar utrustningen i<br>idrottshallar och gymnastiksalar<br>varannan vecka. Kontrollen gäller<br>den utrustning som Kultur &<br>fritids abonnenter använder i<br>lokalen. Det vill säga våra kvälls-<br>och helgabonnenter. | Service Fastighet utför detta på<br>uppdrag av Kultur & Fritid |
+|  |  | Delvis<br>uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. | Service Fastighet utför detta på<br>uppdrag av Kultur & Fritid |
+| Motionsspår |  | Uppnått | Vi kontrollerar belysning senast 1<br>november och gör<br>underhållskontroller i december<br>och februari. |  |
+|  |  | Delvis<br>uppnått | Inrapporterade fel på belysningen<br>ska åtgärdas inom två<br>arbetsdagar med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |  |
+|  |  | Uppnått | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>underhållskontroller i december<br>och februari. |  |
+| Simhallar |  |  | All personal som bevakar i<br>simhallen har utbildning i<br>livräddning och hjärt- och<br>lungräddning. De har även<br>grundläggande kunskaper i<br>sjukvård. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vattentemperaturen i Fjärås<br>simhall är 28 grader. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | I Kungsbacka simhall är det 28<br>grader i stora bassängen, 31<br>grader undervisningsbassängen.<br>På onsdagar är det 34 grader i<br>undervisningsbassängen. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vi kontrollerar vattenkvaliteten i<br>Fjärås simhall två gånger per<br>dag. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vi kontrollerar vattenkvaliteten i<br>Kungsbacka simhall två gånger<br>per dag. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+| Större<br>arrangemang |  |  | När det är verksamhet i våra<br>anläggningar ska det finnas<br>personal från Fritid & Folkhälsa i<br>tjänst. | Vi har inte haft större<br>arrangemang under 2020 på<br>grund av pandemin. |
+|  |  |  | Vi bjuder in till en förberedande<br>träff sex månader innan<br>arrangemanget. Vi genomför ett<br>avstämningsmöte senast en<br>månad innan arrangemanget ska<br>genomföras. | Vi har inte haft större<br>arrangemang under 2020 på<br>grund av pandemin. |
+|  |  | Uppnått | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>EM, VM eller tävling med annat<br>nationellt intresse. |  |
+|  |  | Uppnått | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>nationell status. Bidraget regleras<br>av vilken status arrangemanget<br>har. |  |
+| Bibliotek |  | Uppnått | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |  |
+|  |  | Uppnått | Du som har någon form av<br>funktionsvariation ska, i<br>möjligaste mån, ha tillgång till<br>anpassade medier. |  |
+|  |  | Uppnått | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>medier genom att lämna<br>inköpsförslag. |  |
+|  |  | Delvis<br>uppnått | Biblioteken i Kungsbacka ska<br>stimulera barn och unga till<br>läsning. | På grund av pandemin har vi<br>endast delvis kunnat nå dessa<br>grupper |
+| Turism<br>Kungsbacka |  | Uppnått | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig och<br>digital turistinformation på<br>svenska och engelska om<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |  |
+|  |  | Uppnått | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |  |
+|  |  | Delvis<br>uppnått | Äskhults by ska vara öppen maj<br>- oktober och erbjuda ett<br>skiftande programutbud.<br>Kulturlandskapet ska kunna<br>besökas även när Äskhults by<br>inte är öppen. | På grund av pandemin har<br>säsongen avslutats tidigare och<br>programutbudet har varit<br>begränsat, även om besökande i<br>naturreservatet ökat. |
+|  |  | Delvis<br>uppnått | Naturum Fjärås Bräcka ska<br>erbjuda ett skiftande<br>programutbud året runt och<br>verksamheten ska präglas av ett<br>ekologiskt tankesätt. | På grund av pandemin har<br>naturum Fjärås Bräcka haft<br>begränsat öppethållande, även<br>om besökande i naturreservatet<br>ökat. |
+| Scen & Konst |  | Delvis<br>uppnått | Det generella utbudet i Filmhuset<br>Facklan ska under året<br>kompletteras med filmer för<br>skolbio, Bio Kontrast-<br>föreställningar och<br>dagbiovisningar. | Begränsat på grund av<br>pandemin. |
+|  |  | Uppnått | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |  |
+|  |  | Uppnått | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |  |
+|  |  | Delvis<br>uppnått | Vi ska under året presentera<br>minst en uppsättning av vardera<br>genrerna musik, musikdramatik,<br>drama, dans och ett verk med<br>amatörteater. | Från och med april har<br>Kungsbacka teater haft sin<br>ordinarie verksamhet stängd.<br>Under vår och sommaren har<br>teatern gjort arrangemang<br>utomhus och tillsammans med<br>andra förvaltningar. |
+| Kulturmiljövård |  | Uppnått | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |  |
 
 <!-- sida 41 -->
 
@@ -1743,87 +1687,63 @@ blir att något fler medarbetare har varit sjuka, fast mycket kortare tid än ti
 
 6.3 Resursmått
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-Andel deltid                       21%    20,2%   26,5%  28,3%
-
-Andel heltid                       79%    79,8%   73,5%  71,7%
-Andel kvinnor som har deltid       24%    22,8%   26,6%  28,4%
-Andel kvinnor som har heltid       76%    77,2%   73,4%  71,4%
-
-Andel män som har deltid           16%    16,5%   26,3%  28,3%
-Andel män som har heltid           84%    83,5%   73,7%  71,7%
-
-Anställda andel kvinnor            61%    61,2%   70,4%  68,9%
-Anställda andel män                39%    38,8%   29,6%  31,1%
-```
-
-Anställda genomsnittlig sysselsättningsgrad 92,9% 91,2%  90,6%
-
-```osaker-tabell
-Anställda totalt                   240     237    223     196
-Medarbetare 30 - 39 år             18%    18,6%   20,2%  21,4%
-
-Medarbetare 40 - 49 år             25%    24,1%   25,1%  28,1%
-```
-
 23
+
+[Tabell 46-47-1](handlingar.tabeller/46-47-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 21% | 20,2% | 26,5% | 28,3% |
+|  | Andel heltid | 79% | 79,8% | 73,5% | 71,7% |
+|  | Andel kvinnor som har deltid | 24% | 22,8% | 26,6% | 28,4% |
+|  | Andel kvinnor som har heltid | 76% | 77,2% | 73,4% | 71,4% |
+|  | Andel män som har deltid | 16% | 16,5% | 26,3% | 28,3% |
+|  | Andel män som har heltid | 84% | 83,5% | 73,7% | 71,7% |
+|  | Anställda andel kvinnor | 61% | 61,2% | 70,4% | 68,9% |
+|  | Anställda andel män | 39% | 38,8% | 29,6% | 31,1% |
+|  | Anställda genomsnittlig sysselsättningsgrad |  | 92,9% | 91,2% | 90,6% |
+|  | Anställda totalt | 240 | 237 | 223 | 196 |
+|  | Medarbetare 30 - 39 år | 18% | 18,6% | 20,2% | 21,4% |
+|  | Medarbetare 40 - 49 år | 25% | 24,1% | 25,1% | 28,1% |
+|  | Medarbetare 50 - 59 år | 34% | 32,1% | 27,8% | 28,6% |
+|  | Medarbetare 60 år och äldre | 15% | 16,9% | 14,4% | 16,3% |
+|  | Medarbetare yngre än 30 år | 8% | 8,4% | 12,6% | 5,6% |
+|  | Medelålder | 48 | 48 | 46 | 47 |
+|  | Pensionsavgångar | 4 |  | 6 | 3 |
 
 <!-- sida 47 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-Medarbetare 50 - 59 år             34%    32,1%   27,8%  28,6%
-Medarbetare 60 år och äldre        15%    16,9%   14,4%  16,3%
-
-Medarbetare yngre än 30 år         8%     8,4%    12,6%   5,6%
-Medelålder                         48      48      46      47
-
-Pensionsavgångar                    4              6       3
-```
-
 6.4 Effektmått
 
-```osaker-tabell
-Namn                               2017    2018    2019    2020
-
-Frisknärvaro                        62%    59,7%   62,6%  60,2%
-Frisknärvaro Kvinnor               57,4%   52,5%   60,1%   59%
-Frisknärvaro Män                   68,8%   70,5%   66,7%  63,1%
-
-Korttidssjukfrånvaro                        2%      2%     2,6%
-Korttidssjukfrånvaro Kvinnor               2,3%    2,2%    2,4%
-
-Korttidssjukfrånvaro Män                   1,5%    1,8%    3%
-Långtidssjukfrånvaro               2,5%    2,2%    2,8%    1,6%
-Långtidssjukfrånvaro Kvinnor       3,4%    2,6%    3,7%    1,8%
-
-Långtidssjukfrånvaro Män           1,3%    1,2%     1%     1%
-Personalomsättning                 7,4%    10,5%   9,9%   19,1%
-
-Sjukfrånvaro Kvinnor               5,4%    5,1%    5,8%    4,3%
-Sjukfrånvaro Män                    3%     2,8%    2,7%    3,9%
-Sjukfrånvaro Totalt                4,4%    4,2%    4,8%    4,2%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-29,7%   37,4%  20,6%
-mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-30,1%   41,3%  25,7%
-mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-28,4%   19,6%   7%
-mer Män
-Sjukfrånvaro, anställda i åldrarna 29 år eller yngre 2,4%  3,6%
-Sjukfrånvaro, anställda i åldrarna 30-49 år        4,3%    3,8%
-Sjukfrånvaro, anställda i åldrarna 50 år eller äldre 5,8%  4,6%
-Sjukfrånvarodagar i snitt per anställd     15,2    19,2    13,5
-
 24
+
+[Tabell 47-1](handlingar.tabeller/47-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 62% | 59,7% | 62,6% | 60,2% |
+|  | Frisknärvaro Kvinnor | 57,4% | 52,5% | 60,1% | 59% |
+|  | Frisknärvaro Män | 68,8% | 70,5% | 66,7% | 63,1% |
+|  | Korttidssjukfrånvaro |  | 2% | 2% | 2,6% |
+|  | Korttidssjukfrånvaro Kvinnor |  | 2,3% | 2,2% | 2,4% |
+|  | Korttidssjukfrånvaro Män |  | 1,5% | 1,8% | 3% |
+|  | Långtidssjukfrånvaro | 2,5% | 2,2% | 2,8% | 1,6% |
+|  | Långtidssjukfrånvaro Kvinnor | 3,4% | 2,6% | 3,7% | 1,8% |
+|  | Långtidssjukfrånvaro Män | 1,3% | 1,2% | 1% | 1% |
+|  | Personalomsättning | 7,4% | 10,5% | 9,9% | 19,1% |
+|  | Sjukfrånvaro Kvinnor | 5,4% | 5,1% | 5,8% | 4,3% |
+|  | Sjukfrånvaro Män | 3% | 2,8% | 2,7% | 3,9% |
+|  | Sjukfrånvaro Totalt | 4,4% | 4,2% | 4,8% | 4,2% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer |  | 29,7% | 37,4% | 20,6% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Kvinnor |  | 30,1% | 41,3% | 25,7% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Män |  | 28,4% | 19,6% | 7% |
+|  | Sjukfrånvaro, anställda i åldrarna 29 år eller yngre |  |  | 2,4% | 3,6% |
+|  | Sjukfrånvaro, anställda i åldrarna 30-49 år |  |  | 4,3% | 3,8% |
+|  | Sjukfrånvaro, anställda i åldrarna 50 år eller äldre |  |  | 5,8% | 4,6% |
+|  | Sjukfrånvarodagar i snitt per anställd |  | 15,2 | 19,2 | 13,5 |
 
 <!-- sida 48 -->
 
@@ -2494,24 +2414,24 @@ Uppföljningsrapport Intern kontroll 2020 8
 
 [Tabell 68-1](handlingar.tabeller/68-1.csv)
 
-| Kategorier | Risknumm<br>Risker Till plan<br>er |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Bristande efterlevnad av Ja<br>semesterlagen |
-|  | 2 Kommunövergripande risk: Processen för avslut av Ja<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. |
-| Ekonomi | 3 Kommunövergripande risk: Manuella betalningar Ja |
-|  | 4 Kommunövergripande risk: Redovisning av Ja<br>representation |
-|  | 5 Kontanthantering Ja |
-| Informationssäkerh<br>et och<br>administration | 6 Brister i hanteringen av personuppgifter Ja |
-|  | 7 Kommunövergripande risk: Styrning och förvaltning Ja<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. |
-|  | 8 Kommunövergripande risk: Bristande kännedom om Ja<br>och efterlevnad av krav\* på tillgänglighet och service |
-|  | 9 Kommunövergripande risk: Bristande styrning av Ja<br>förändring av verksamhetsprocesser och system |
-| Verksamhet | 10 Barn- ansvar. Rutiner vid rekrytering av personal Ja |
+| Kategorier |  | Risknumm<br>er | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Bristande efterlevnad av<br>semesterlagen | Ja |
+|  |  | 2 | Kommunövergripande risk: Processen för avslut av<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. | Ja |
+| Ekonomi |  | 3 | Kommunövergripande risk: Manuella betalningar | Ja |
+|  |  | 4 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+|  |  | 5 | Kontanthantering | Ja |
+| Informationssäkerh<br>et och<br>administration |  | 6 | Brister i hanteringen av personuppgifter | Ja |
+|  |  | 7 | Kommunövergripande risk: Styrning och förvaltning<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. | Ja |
+|  |  | 8 | Kommunövergripande risk: Bristande kännedom om<br>och efterlevnad av krav\* på tillgänglighet och service | Ja |
+|  |  | 9 | Kommunövergripande risk: Bristande styrning av<br>förändring av verksamhetsprocesser och system | Ja |
+| Verksamhet |  | 10 | Barn- ansvar. Rutiner vid rekrytering av personal | Ja |
 
 [Tabell 68-2](handlingar.tabeller/68-2.csv)
 
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Verksamhet | Leverantörssamar Extern utförare som på nämndens uppdrag bedriver verksamhet i våra<br>bete- Brister simhallar startar från 1/1 2020 och behöver tid för att utarbeta rutiner<br>uppföljning av under 2020.<br>leverans från Utförande av driftuppdrag, verksamhetsvaktmästeri/stöd samt<br>extern verksamhet i ishallarna på nämndens uppdrag sker sedan halvårsskiftet<br>badhusoperatör 2019 av Teknik- & Serviceförvaltningarna och behöver tid för att<br>samt från Service utarbeta rutiner under 2020.<br>resp. Teknik. |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Verksamhet |  | Leverantörssamar<br>bete- Brister<br>uppföljning av<br>leverans från<br>extern<br>badhusoperatör<br>samt från Service<br>resp. Teknik. | Extern utförare som på nämndens uppdrag bedriver verksamhet i våra<br>simhallar startar från 1/1 2020 och behöver tid för att utarbeta rutiner<br>under 2020.<br>Utförande av driftuppdrag, verksamhetsvaktmästeri/stöd samt<br>verksamhet i ishallarna på nämndens uppdrag sker sedan halvårsskiftet<br>2019 av Teknik- & Serviceförvaltningarna och behöver tid för att<br>utarbeta rutiner under 2020. |
 
 <!-- sida 69 -->
 
@@ -2660,28 +2580,28 @@ Uppföljningsrapport Intern kontroll 2020 12
 
 [Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
 
-| Område | Frågor Svar, Antal 2020 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2020 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 73 -->
 
@@ -3817,8 +3737,9 @@ kulturverksamhet.
 
 [Tabell 97-1](handlingar.tabeller/97-1.csv)
 
-| Sverige 2018 |  | Västra Götalands län 2018 |  |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| Sverige | 2018 | Västra Götalands län | 2018 |
 | Stat | 13 599 tkr | Statligt bidrag i<br>kultursamverkansmodellen | 318 tkr |
 | Regioner | 4 500 tkr | Västra Götalandsregionen,<br>nettokostnad | 1 197 tkr |
 | Kommuner | 11 928 tkr | Kommunerna, nettokostnad | 1 927 tkr |
@@ -3947,14 +3868,6 @@ för kommunal samverkan.
 
 Tabell 2. Befolkningstal 2019
 
-Befolkningstal 2019
-Skaraborgs kommunalförbund                       268 501
-Boråsregionens kommunalförbund                   226 332
-
-Fyrbodals kommunalförbund                        274 656
-Göteborgsregionens kommunalförbund              1 040 680
-– varav Göteborgs stad                           578 350
-
 En stor andel av befolkningen bor i kommunerna i Göteborgsregionen, där Göteborgs
 
 stad är den i särklass största kommunen. Även om Göteborgs stad räknas bort är
@@ -3991,6 +3904,16 @@ kultur- och fritidschefer i kommunerna i Göteborgsregionen: Överenskommelse om
 samverkan och finansiering genom delregionala tillväxtmedel för genomförande av
 
 18 (55)
+
+[Tabell 100-1](handlingar.tabeller/100-1.csv)
+
+| Befolkningstal 2019 |  |
+| --- | --- |
+| Skaraborgs kommunalförbund | 268 501 |
+| Boråsregionens kommunalförbund | 226 332 |
+| Fyrbodals kommunalförbund | 274 656 |
+| Göteborgsregionens kommunalförbund | 1 040 680 |
+| – varav Göteborgs stad | 578 350 |
 
 <!-- sida 101 -->
 
@@ -6704,7 +6627,7 @@ Administratör Utvecklingsledare
 Kultur & Fritid Kultur & Fritid
 
 & kerstin.ohlssonQkungsbacka.se XM peter.rudvallQkungsbacka.se
-J 0300-83 78 48 3 0300-83 80 95
+J 0300-83 78 48 AJ 0300-83 80 95
 
 PLAN LLAN
 
@@ -7109,7 +7032,6 @@ Delegationspunkt
 3.1.10 Bidrag till kulturprojekt
 
 Delegat
-WIR. 4 v d
 
 Ulrika Granfors
 Förvaltningschef Kultur & Fritid
@@ -9391,7 +9313,6 @@ Förra         årets         kampanj               och       detta         åre
 <!-- sida 244 -->
 
 [A Kungsbacka kommun
-Lot] cerat av C 3 Hug
 
 Är du en av de 1 600 slumpmässigt utvalda personerna som har fått inbjudan att delta i årets
 medborgarundersökning? 196 personer har redan svarat. Har du inte hunnit ännu? gör det nu! (&
@@ -10295,24 +10216,34 @@ helhetsindex NRI.
 
 65 %r                                      r10 %
 
-rekommenderarr                                         ravråder r
+rekommenderarr                                         ravråder  r
 
 starkt vännerr                                     rvänner  ochr r
-
 och bekanta  attr                                     rbekanta  att r
 
 flytta tillr                                  rflytta tillr r
+
 Kungsbackar                                       rKungsbackar
 
-Personer som bott upp till två år i Kungsbacka är mest Personer med högst utbildning ger högst betyg, undantag
-positiva. Betygen dippar bland de som bott 3–5 år men Kommunikationer, Kommersiellt utbud och Fritids-
-återhämtar sig något i grupperna som bott 6 år eller möjligheter. Personer med lägst utbildning ger lägst betyg.
+Personer som bott upp till två år i Kungsbacka är mest
+positiva. Betygen dippar bland de som bott 3–5 år men
+återhämtar sig något i grupperna som bott 6 år eller
 längre i Kungsbacka.
-Kvinnor ger högre betyg än män, med undantag för Personer boende i centralorten och annan tätort är mer
-Bostäder och Trygghet.               nöjda än personer boende utanför tätort, undantag Trygghet.
+Kvinnor ger högre betyg än män, med undantag för
+Bostäder och Trygghet.
 
-Inrikes födda ger högre betyg än utrikes födda, Lägst betyg på NRI och Rekommendation ger Kungsbackas
-undantag Kommunikationer och Trygghet. yngre medborgare, 18–29 år.
+Inrikes födda ger högre betyg än utrikes födda,
+undantag Kommunikationer och Trygghet.
+
+Personer med högst utbildning ger högst betyg, undantag
+Kommunikationer, Kommersiellt utbud och Fritids-
+möjligheter. Personer med lägst utbildning ger lägst betyg.
+
+Personer boende i centralorten och annan tätort är mer
+nöjda än personer boende utanför tätort, undantag Trygghet.
+
+Lägst betyg på NRI och Rekommendation ger Kungsbackas
+yngre medborgare, 18–29 år.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NRI. Områden som bör prioriteras är framförallt Bostäder som har ett relativt
@@ -10347,25 +10278,34 @@ godkänt som går vid betygsindex 40.
 
 Bland män i Kungsbacka är tappet 10 punkter och bland kvinnor fem punkter. Åldersgruppen 30–49 år ger lägst
 betyg och index ligger på 38 i den gruppen, att jämföra med 52 i gruppen 18–29 år, 42 i gruppen 50–64 år och
+
 46 i gruppen 65–84 år. Mest positiva till den hjälp som utsatta personer får i Kungsbacka är personer som inte
 själva har erfarenhet av socialtjänsten under de senaste två åren. De är mer positiva än de som själva
 arbetar/har arbetat inom socialtjänsten och de som har erfarenhet av socialtjänsten genom nära anhörig eller
 genom vänner/bekanta. Minst positiva är personer som själva får/har fått hjälp från socialtjänsten, där index
 ligger på 25. Inrikes födda ger högre betyg än utrikes födda och de som bott kort tid i kommunen ger lägre
-
 betyg än de som bott en längre tid i Kungsbacka. Personer med lägst utbildning (förgymnasial) är mest positiva
 och personer med högst utbildning (eftergymnasial mer än tre år) är minst positiva.
 
-Personer med lägst utbildning är minst positiva och personer
-Kvinnor ger generellt högre betyg än män. med eftergymnasial utbildning, oavsett längd, är mest
-positiva.
-Personer som bott upp till två år i Kungsbacka är mest Personer boende i centralorten och annan tätort är mer
-positiva. Betygen dippar bland personer som bott 3–5 positiva än personer boende utanför tätort.
+Kvinnor ger generellt högre betyg än män.
+
+Personer som bott upp till två år i Kungsbacka är mest
+positiva. Betygen dippar bland personer som bott 3–5
 år men återhämtar sig något vid längre boendetid.
 
-Föreställningen om bemötande och tillgänglighet är Åldersgruppen 18–29 år är generellt mer positiv än övriga
-sämre än den faktiska upplevelsen av bemötande och åldersgrupper.
+Föreställningen om bemötande och tillgänglighet är
+sämre än den faktiska upplevelsen av bemötande och
 tillgänglighet.
+
+Personer med lägst utbildning är minst positiva och personer
+med eftergymnasial utbildning, oavsett längd, är mest
+positiva.
+
+Personer boende i centralorten och annan tätort är mer
+positiva än personer boende utanför tätort.
+
+Åldersgruppen 18–29 år är generellt mer positiv än övriga
+åldersgrupper.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NMI. Områden som har högt effektmått, dvs. som vid ett förbättrat resultat
@@ -10420,21 +10360,30 @@ nöjda är personer som har bott 3–5 år i kommunen jämfört med personer som
 eller kortare tid än två år. Även inom detta område ger personer med förgymnasial utbildning lägre betyg än
 personer med gymnasial eller eftergymnasial utbildning.
 
-Yngsta åldersgruppen, 18–29 år är minst positiv och Personer med lägst utbildning ger lägst betyg och högst
-åldersgruppen 50–64 år mest positiv. utbildning ger högst betyg. Skillnaden är relativt stor och
-varierar mellan sju till 15 punkter på indexskalan. Störst
-skillnad noteras inom området Påverkan och Information.
+Yngsta åldersgruppen, 18–29 år är minst positiv och
+åldersgruppen 50–64 år mest positiv.
+
 Boende upp till två år i kommunen ger högst betyg,
-undantaget, frågeområde Kontakt, och boende 3–5 år Resultatet för Påverkan är inte godkänt och lägst betyg ger
-ger lägst betyg. Skillnaderna är väsentliga och varierar åldersgruppen 18–29 år (33 på indexskalan).
+undantaget, frågeområde Kontakt, och boende 3–5 år
+ger lägst betyg. Skillnaderna är väsentliga och varierar
 mellan 14 – 32 punkter på indexskalan.
-Inrikes födda ger klart högre betyg än utrikes födda. Män är mer positiva än kvinnor och resultatet sjunker
-betydligt mer bland kvinnor än män.
+Inrikes födda ger klart högre betyg än utrikes födda.
 
 Förtroendet är lägre bland personer som anger att de
 har haft kontakt med någon politiker under de senaste
 två åren, 33, än bland de som ej har haft någon
 kontakt, 45.
+
+Personer med lägst utbildning ger lägst betyg och högst
+utbildning ger högst betyg. Skillnaden är relativt stor och
+varierar mellan sju till 15 punkter på indexskalan. Störst
+skillnad noteras inom området Påverkan och Information.
+
+Resultatet för Påverkan är inte godkänt och lägst betyg ger
+åldersgruppen 18–29 år (33 på indexskalan).
+
+Män är mer positiva än kvinnor och resultatet sjunker
+betydligt mer bland kvinnor än män.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NII. Områdenas indelning har inte förändrats sedan 2019, däremot har
@@ -10548,46 +10497,78 @@ Resultat Del C: Nöjd-Inflytande-Index (NII)
 
 SCB:s medborgarundersökning 2020
 
-  Helhetsbetyget Nöjd-Inflytande-Index (NII), med frågor om
 SCB:s     medborgar-
-invånarnas inflytande över kommunala beslut och verksamheter.
-undersökning           hösten     2020
-Mer om modellen
-  Helhetsbetygen mäts med tre specifika frågor.
-Varje år erbjuder statistikmyndigheten SCB Sveriges kommuner att delta i
-SCB:s medborgarundersökning.                                Frågorna besvaras på 10-gradiga skalor, där 1 är lägsta betyg och 10
-är högsta betyg.
-Sammanlagt deltog 100 kommuner 2020. Sedan undersökningen
-genomfördes första gången hösten 2005 har 273 av landets kommuner  Frågeområdenas resultat redovisas som betygsindex, vilka kan
-deltagit och 258 av dessa har deltagit mer än en gång.       variera mellan 0 och 100.
-I denna rapport redovisas resultatet för Kungsbacka kommun.  Betygsindex under 40 klassas som ”inte godkänt”. Gränsen för
 
-Undersökningen genomfördes mellan den 24 augusti och den 3 november ”nöjd” går vid 55 och 75 eller högre tolkas som ”mycket nöjd”.
-2020\. Ett slumpmässigt urval på 1 600 personer i åldrarna 18–84 år Alla kommenterade skillnader mellan kommunens betygsindex och
-tillfrågades och av dessa besvarade 46 procent enkäten. genomsnittsresultaten i rapporten är statistiskt säkerställda om inget annat
-anges. Läs mer om felmarginaler och om analysmodellen i rapportbilagan.
+undersökning           hösten      2020
+
+Varje år erbjuder statistikmyndigheten SCB Sveriges kommuner att delta i
+SCB:s medborgarundersökning.
+
+Sammanlagt deltog 100 kommuner 2020. Sedan undersökningen
+genomfördes första gången hösten 2005 har 273 av landets kommuner
+deltagit och 258 av dessa har deltagit mer än en gång.
+
+I denna rapport redovisas resultatet för Kungsbacka kommun.
+Undersökningen genomfördes mellan den 24 augusti och den 3 november
+2020\. Ett slumpmässigt urval på 1 600 personer i åldrarna 18–84 år
+tillfrågades och av dessa besvarade 46 procent enkäten.
+
 Jämförelser med resultat för samtliga kommuner avser de 100 kommuner
 som var med i undersökningen 2020.
-Inför eget arbete med resultaten
-SCB:s analysmodell med Nöjd-Kund-Index                  Det är viktigt att komma ihåg att SCB:s medborgarundersökning är en
-attitydundersökning och ingen brukarundersökning. Undersökningen
+
+SCB:s analysmodell med Nöjd-Kund-Index
+
 Resultaten analyseras med SCB:s analysmodell med Nöjd-Kund-Index
-är tänkt att vara ett av flera verktyg för att få en bild av hur kommunens
+
 (NKI). Analysmodellen är uppbyggd dels av ett mått på den totala nöjdheten
-invånare ser på sin kommun. Det är därför viktigt att även inhämta kunskap
 och dels av ett antal frågeområden som återger delar av den undersökta
-från andra håll om de områden som undersökningen tar upp.
 verksamheten eller området. Analysmodellen syftar till att visa vad som bör
-prioriteras för att öka nöjdheten bland kommunens invånare. Modellanalyserna syftar till att ge en helhetsbild som pekar ut vilka
-områden som har särskilt stor betydelse för en förbättring av de
-Tre olika delar med varsitt helhetsbetyg                helhetsbetyg som invånarna ger sin kommun.
+prioriteras för att öka nöjdheten bland kommunens invånare.
+
+Tre olika delar med varsitt helhetsbetyg
+
   Helhetsbetyget Nöjd-Region-Index (NRI), med frågor om kommunen
-Rapportbilaga
 som en plats att bo och leva på.
-Till denna resultatrapport finns en rapportbilaga. I rapportbilagan finns mer
+
   Helhetsbetyget Nöjd-Medborgar-Index (NMI), med frågor om
-ingående information om undersökningen, analysmodellen med NKI,
 kommunens olika verksamheter.
+
+  Helhetsbetyget Nöjd-Inflytande-Index (NII), med frågor om
+invånarnas inflytande över kommunala beslut och verksamheter.
+
+Mer om modellen
+
+  Helhetsbetygen mäts med tre specifika frågor.
+
+  Frågorna besvaras på 10-gradiga skalor, där 1 är lägsta betyg och 10
+är högsta betyg.
+  Frågeområdenas resultat redovisas som betygsindex, vilka kan
+
+variera mellan 0 och 100.
+  Betygsindex under 40 klassas som ”inte godkänt”. Gränsen för
+”nöjd” går vid 55 och 75 eller högre tolkas som ”mycket nöjd”.
+
+Alla kommenterade skillnader mellan kommunens betygsindex och
+genomsnittsresultaten i rapporten är statistiskt säkerställda om inget annat
+anges. Läs mer om felmarginaler och om analysmodellen i rapportbilagan.
+
+Inför eget arbete med resultaten
+
+Det är viktigt att komma ihåg att SCB:s medborgarundersökning är en
+attitydundersökning och ingen brukarundersökning. Undersökningen
+är tänkt att vara ett av flera verktyg för att få en bild av hur kommunens
+
+invånare ser på sin kommun. Det är därför viktigt att även inhämta kunskap
+från andra håll om de områden som undersökningen tar upp.
+Modellanalyserna syftar till att ge en helhetsbild som pekar ut vilka
+områden som har särskilt stor betydelse för en förbättring av de
+
+helhetsbetyg som invånarna ger sin kommun.
+
+Rapportbilaga
+
+Till denna resultatrapport finns en rapportbilaga. I rapportbilagan finns mer
+ingående information om undersökningen, analysmodellen med NKI,
 anvisningar för att tolka och arbeta vidare med resultaten, enkäten och
 deltagande kommuners svarsfrekvenser.
 1
@@ -10596,80 +10577,115 @@ deltagande kommuners svarsfrekvenser.
 
 SCB:s medborgarundersökning 2020
 
-Tabell- och diagrambilaga                               svenska, engelska, finska och spanska. Därefter skickades en pappersenkät
-och informationsbrev ut till de som inte svarat. Pappersenkäten fanns även
+Tabell- och diagrambilaga
 Till denna resultatrapport finns även en tabell- och diagrambilaga. Bilagan
-tillgänglig på arabiska att beställa från SCB. Ytterligare två påminnelser
+
 innehåller samtliga tabeller och diagram för Kungsbacka kommun som
-skickades ut till de som inte besvarat enkäten, varav den sista innehöll en
 använts till analysen i denna rapport.
-ny pappersenkät. Insamlingen pågick mellan 24 augusti och 3 november
-2020\.
+
 Jämförelser med andra kommuner och undersökningsomgångar
-Jämförelser mellan enskilda kommuner ska göras med viss försiktighet, då Svarsandel
+
+Jämförelser mellan enskilda kommuner ska göras med viss försiktighet, då
 verksamheter och förhållanden kan variera mellan olika kommuner. Det kan
-Svarsandelen för Kungsbacka kommun blev 46 procent. Kungsbacka
 finnas skillnader mellan kommunerna som i sin tur förklarar skillnader i
-kommun deltog även i medborgarundersökningen hösten 2019.
 nöjdhet, vilka inte fångas av undersökningen. Resultaten för de kommuner
-Svarsandelen blev då 42 procent.
 som varit med i undersökningen från 2010 och framåt är tillgängliga via
-www.scb.se/medborgarundersokningen.                     Svarsfrekvensen för samtliga deltagande kommuner 2020 blev 42 procent.
-År 2019 var den 41 procent, och 2018 var den också 41 procent. Under 2017
+www.scb.se/medborgarundersokningen.
+
 Den 21 december publicerar vi årets resultat under Demokrati i SCB:s
-var svarsfrekvensen 40 procent.
 statistikdatabas, www.statistikdatabasen.scb.se.
-Även om det självfallet är säkrare att göra statistik utan bortfall, finns olika
-Om    undersökningen                                    statistiska metoder för att kompensera för bortfallet. På SCB används
-viktning av svaren, vilket innebär att om en viss grupp är under-
-representerad i svaren i förhållande till populationen, väger den gruppens
+
+Om    undersökningen
+
 Population och urval
-svar tyngre i resultaten. I medborgarundersökningen använder vi juridiskt
-Populationen är Kungsbacka kommuns invånare i åldrarna 18–84 år. kön och ålder för denna viktning.
+
+Populationen är Kungsbacka kommuns invånare i åldrarna 18–84 år.
 Undersökningen genomfördes som en urvalsundersökning och SCB:s
+
 register över totalbefolkningen var urvalsram. Som standard drogs ett urval
 om 800 personer i kommuner med färre än 10 000 invånare i åldrarna 18–84
 år, 1 200 personer i kommuner med 10 000–59 999 invånare och 1 600
 personer i kommuner med 60 000 eller fler invånare i dessa åldrar.
+
 Insamling
+
 Totalt gjordes fyra utskick till urvalspersonerna, per post. Det första
 utskicket till urvalspersonerna innehöll ett informationsbrev med
+
 inloggningsuppgifter till webbenkäten samt information om
 undersökningen och dess syfte. Enkäten på webben fanns tillgänglig på
+
+svenska, engelska, finska och spanska. Därefter skickades en pappersenkät
+och informationsbrev ut till de som inte svarat. Pappersenkäten fanns även
+tillgänglig på arabiska att beställa från SCB. Ytterligare två påminnelser
+
+skickades ut till de som inte besvarat enkäten, varav den sista innehöll en
+ny pappersenkät. Insamlingen pågick mellan 24 augusti och 3 november
+2020\.
+
+Svarsandel
+
+Svarsandelen för Kungsbacka kommun blev 46 procent. Kungsbacka
+kommun deltog även i medborgarundersökningen hösten 2019.
+Svarsandelen blev då 42 procent.
+
+Svarsfrekvensen för samtliga deltagande kommuner 2020 blev 42 procent.
+År 2019 var den 41 procent, och 2018 var den också 41 procent. Under 2017
+var svarsfrekvensen 40 procent.
+
+Även om det självfallet är säkrare att göra statistik utan bortfall, finns olika
+statistiska metoder för att kompensera för bortfallet. På SCB används
+viktning av svaren, vilket innebär att om en viss grupp är under-
+representerad i svaren i förhållande till populationen, väger den gruppens
+svar tyngre i resultaten. I medborgarundersökningen använder vi juridiskt
+
+kön och ålder för denna viktning.
+
 2
 
 <!-- sida 304 -->
 
-Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?    SCB:s medborgarundersökning 2020
+Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?
 
-Del A. Nöjd-Region-Index (NRI)                       Det sammanfattande betygsindexet Nöjd-Region-Index (NRI) för hur
-Hur ser medborgarna på Kungsbacka kommun som en      medborgarna bedömer Kungsbacka kommun som en plats att bo och leva på blev
-69\.
+Del A. Nöjd-Region-Index (NRI)
+
+Hur ser medborgarna på Kungsbacka kommun som en
 plats att bo och leva på?
-För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+
 Tabell A1. Nöjd-Region-Index (NRI), indexet Rekommendation och
-frågeområdenas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i frågeområdena Bostäder samt Fritidsmöjligheter som kan höja helhetsbetyget
+frågeområdenas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i
 undersökningsomgången 2020.
+
+SCB:s medborgarundersökning 2020
+
+Det sammanfattande betygsindexet Nöjd-Region-Index (NRI) för hur
+medborgarna bedömer Kungsbacka kommun som en plats att bo och leva på blev
+
+69\.
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+frågeområdena Bostäder samt Fritidsmöjligheter som kan höja helhetsbetyget
 Nöjd-Region-Index.
+
 65 procent av medborgarna i Kungsbacka kommun kan starkt rekommendera
 vänner och bekanta att flytta till kommunen (betyg 8-10 på den 10-gradiga
 skalan) medan 10 procent vill avråda från det (betyg 1-4 på den 10-gradiga
+
 skalan).
 NRI för samtliga 100 kommuner som var med i undersökningen 2020 blev 60.
 NRI för Kungsbacka kommun är högre jämfört med genomsnittsresultatet.
 
 Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
+
 … Rekommendation högre.
-
 … Arbetsmöjligheter högre.
+
 … Utbildningsmöjligheter högre.
-
 … Bostäder lägre.
+
 … Kommunikationer högre.
-
 … Kommersiellt utbud högre.
-… Fritidsmöjligheter högre.
 
+… Fritidsmöjligheter högre.
 … Trygghet högre.
 
 3
@@ -10693,36 +10709,46 @@ Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
 
 Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?    SCB:s medborgarundersökning 2020
 
-Vilka frågeområden bör uppmärksammas för att         Frågeområden som bör Prioriteras förväntas vid en förbättring ha stor påverkan
-medborgarna i Kungsbacka kommun ska bli nöjdare?     på helhetsbetyget NRI. Dessa har fått relativt låga betygsindex och har
-förhållandevis hög effekt, det vill säga stor påverkan på helhetsbetyget NRI.
+Vilka frågeområden bör uppmärksammas för att
+medborgarna i Kungsbacka kommun ska bli nöjdare?
+
 Diagram A1. Nöjd-Region-Index (NRI).
-Prioriteringsmatris för Kungsbacka kommun 2020.      I en andra prioriteringsgrupp återfinns de frågeområden som hamnar uppe till
-Kungsbacka kommun     höger i matrisen, Förbättra om möjligt. Även dessa områden har förhållandevis
+Prioriteringsmatris för Kungsbacka kommun 2020.
+Kungsbacka kommun
 Betygsindex
-höga effektmått och bör därför om möjligt förbättras.
 100
+
+Frågeområden som bör Prioriteras förväntas vid en förbättring ha stor påverkan
+på helhetsbetyget NRI. Dessa har fått relativt låga betygsindex och har
+förhållandevis hög effekt, det vill säga stor påverkan på helhetsbetyget NRI.
+
+I en andra prioriteringsgrupp återfinns de frågeområden som hamnar uppe till
+höger i matrisen, Förbättra om möjligt. Även dessa områden har förhållandevis
+höga effektmått och bör därför om möjligt förbättras.
+
 Bevara                        Förbättra         Frågeområden som hamnat i den nedre vänstra delen av prioriteringsmatrisen
 om möjligt
 90                                                kan ges Lägre prioritet eftersom en förbättring av deras låga betygsindex
 förväntas ha en lägre effekt på NRI.
+
 80                                                Högst upp till vänster hamnar de frågeområden vars betygsindex kan Bevaras.
 En sänkning av betygsindexet kan dock leda till att effektmåttet ökar och
 Kommers.utb.
 70                                                frågeområdet hamnar då i den prioriterade delen av matrisen.
 Utb.möjl.
-Kommunik.      Fritids.möjl.
+Kommunik.       Fritids.möjl.
 Frågeområden som bör prioriteras
-60    Arb.möjl.
+60     Arb.möjl.
 Trygghet                                  Bostäder
 Bostäder
 50                                                Frågeområden som bör förbättras om möjligt
+
 Fritidsmöjligheter
 40
 Frågeområden som kan ges lägre prioritet
 30                                                Trygghet, Arbetsmöjligheter
 Lägre
-prioritet                   Prioritera          Frågeområden som bör bevaras
+prioritet                   Prioritera         Frågeområden som bör bevaras
 20
 0,0    0,5    1,0    1,5    2,0    2,5
 Kommunikationer, Kommersiellt utbud, Utbildningsmöjligheter
@@ -10761,42 +10787,56 @@ Kungsbacka kommun
 
 <!-- sida 307 -->
 
-Resultat Del B – Hur ser medborgarna på kommunens verksamheter?                      SCB:s medborgarundersökning 2020
+Resultat Del B – Hur ser medborgarna på kommunens verksamheter?
 
-Del B. Nöjd-Medborgar-Index (NMI)                   För Kungsbacka kommun är det främst förbättringar av betygsindexen för
-Hur ser medborgarna i Kungsbacka kommun på          verksamheterna Gator och vägar, Äldreomsorgen, Miljöarbete, Stöd för utsatta
-personer samt Förskolan som kan höja helhetsbetyget Nöjd-Medborgar-Index.
+Del B. Nöjd-Medborgar-Index (NMI)
+
+Hur ser medborgarna i Kungsbacka kommun på
 kommunens  verksamheter?
-Betygsindexet för Bemötande och tillgänglighet, det vill säga hur medborgarna
+
 Tabell B1. Nöjd-Medborgar-Index (NMI), indexet Bemötande och tillgänglighet samt
-verksamheternas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i bedömer kommunens tillgänglighet och det bemötande de får i sin kontakt med
+verksamheternas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i
 undersökningsomgången 2020.
+
+Det sammanfattande betygsindexet Nöjd-Medborgar-Index (NMI) för hur
+medborgarna bedömer kommunens verksamheter i Kungsbacka kommun blev
+59\.
+
+SCB:s medborgarundersökning 2020
+
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+verksamheterna Gator och vägar, Äldreomsorgen, Miljöarbete, Stöd för utsatta
+
+personer samt Förskolan som kan höja helhetsbetyget Nöjd-Medborgar-Index.
+Betygsindexet för Bemötande och tillgänglighet, det vill säga hur medborgarna
+bedömer kommunens tillgänglighet och det bemötande de får i sin kontakt med
 kommunen, blev 56 i Kungsbacka kommun.
+
 NMI för samtliga 100 kommuner som var med i undersökningen 2020 blev 55.
 NMI för Kungsbacka kommun är högre jämfört med genomsnittsresultatet.
 Jämfört med genomsnittsresultatet är betygsindexet för verksamheten …
+
 … Bemötande och tillgänglighet inte säkerställt högre eller lägre.
+
 … Förskolan inte säkerställt högre eller lägre.
-
 … Grundskolan högre.
+
 … Gymnasieskolan högre.
-
 … Äldreomsorgen inte säkerställt högre eller lägre.
+
 … Stöd för utsatta personer lägre.
-
 … Räddningstjänsten högre.
+
 … Gång- och cykelvägar högre.
-
 … Gator och vägar högre.
+
 … Idrotts- och motionsanläggningar högre.
-
 … Kultur högre.
-… Miljöarbete högre.
 
-Det sammanfattande betygsindexet Nöjd-Medborgar-Index (NMI) för hur … Renhållning och sophämtning högre.
-medborgarna bedömer kommunens verksamheter i Kungsbacka kommun blev
+… Miljöarbete högre.
+… Renhållning och sophämtning högre.
+
 … Vatten och avlopp högre.
-59\.
 
 6
 
@@ -10867,24 +10907,33 @@ GY Gymnasieskolan
 
 Resultat Del B – Hur ser medborgarna på kommunens verksamheter?                      SCB:s medborgarundersökning 2020
 
-Jämförelser med tidigare år                          Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
-samt hösten år 2008–2019.
+Jämförelser med tidigare år
+
 Diagram B2. Nöjd-Medborgar-Index (NMI), indexet Bemötande och
 Tillgänglighet samt verksamheternas betygsindex för Kungsbacka kommun.
-NMI för Kungsbacka kommun blev 59 i årets undersökning. Det är inte en
 De tre senaste omgångarna kommunen deltagit.
-säkerställd förändring jämfört med hösten 2019 då NMI var 62.
-NMI                              2020
-Jämfört med medborgarundersökningen som gjordes i Kungsbacka kommun
-Bemötande och tillgänglighet               2019
-Förskolan                          2018   hösten 2019 har verksamheten Stöd för utsatta personer fått lägre betygsindex.
+NMI
+Bemötande och tillgänglighet
+Förskolan
 Grundskolan
-Indexet Bemötande och tillgänglighet blev 56 för Kungsbacka kommun i årets
 Gymnasieskolan
+
+Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
+samt hösten år 2008–2019.
+
+NMI för Kungsbacka kommun blev 59 i årets undersökning. Det är inte en
+säkerställd förändring jämfört med hösten 2019 då NMI var 62.
+2020
+Jämfört med medborgarundersökningen som gjordes i Kungsbacka kommun
+2019
+2018  hösten 2019 har verksamheten Stöd för utsatta personer fått lägre betygsindex.
+Indexet Bemötande och tillgänglighet blev 56 för Kungsbacka kommun i årets
+
 Äldreomsorgen                               undersökning. Det är inte en säkerställd förändring jämfört med hösten 2019. Då
 Stöd för utsatta personer
 var indexet Bemötande och tillgänglighet 57.
 Räddningstjänsten
+
 Gång- och cykelvägar
 Gator och vägar
 Idrotts- och motionsanläggningar
@@ -10892,7 +10941,8 @@ Kultur
 Miljöarbete
 Renhållning och sophämtning
 Vatten och avlopp
-0  10 20 30 40 50 60  70 80 90 100
+
+0  10 20 30  40 50 60 70 80 90 100
 Betygsindex
 Kungsbacka kommun
 
@@ -10900,26 +10950,36 @@ Kungsbacka kommun
 
 <!-- sida 310 -->
 
-Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?                  SCB:s medborgarundersökning 2020
+Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?
 
-Del C. Nöjd-Inflytande-Index (NII)                    Det sammanfattande betygsindexet Nöjd-Inflytande-Index (NII) för hur
-Hur ser medborgarna i Kungsbacka kommun på sitt       medborgarna bedömer möjligheterna till inflytande i Kungsbacka kommun
-blev 41.
+Del C. Nöjd-Inflytande-Index (NII)
+
+Hur ser medborgarna i Kungsbacka kommun på sitt
 inflytande i kommunen?
-För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+
 Tabell C1. Nöjd-Inflytande-Index (NII) och frågeområdenas betygsindex för Kungsbacka kommun
-samt för samtliga 100 kommuner i undersökningsomgången 2020. frågeområdena Förtroende samt Påverkan som kan höja helhetsbetyget Nöjd-
+samt för samtliga 100 kommuner i undersökningsomgången 2020.
+
+SCB:s medborgarundersökning 2020
+
+Det sammanfattande betygsindexet Nöjd-Inflytande-Index (NII) för hur
+medborgarna bedömer möjligheterna till inflytande i Kungsbacka kommun
+
+blev 41.
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+frågeområdena Förtroende samt Påverkan som kan höja helhetsbetyget Nöjd-
 Inflytande-Index.
+
 NII för samtliga 100 kommuner som var med i undersökningen 2020 blev 40.
 NII för Kungsbacka kommun är inte säkerställt högre eller lägre jämfört med
 genomsnittsresultatet.
 
 Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
+
 … Kontakt lägre.
-
 … Information inte säkerställt högre eller lägre.
-… Påverkan inte säkerställt högre eller lägre.
 
+… Påverkan inte säkerställt högre eller lägre.
 … Förtroende lägre.
 
 9
@@ -10974,27 +11034,37 @@ Effektmått
 
 <!-- sida 312 -->
 
-Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?                  SCB:s medborgarundersökning 2020
+Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?
 
-Jämförelser med tidigare år                           Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
-samt hösten år 2008–2019.
+Jämförelser med tidigare år
+
 Diagram C2. Nöjd-Inflytande-Index (NII) och frågeområdenas betygsindex för Kungsbacka
 kommun. De tre senaste omgångarna kommunen deltagit.
+
+NII
+
+Kontakt
+
+Information
+
+SCB:s medborgarundersökning 2020
+
+Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
+samt hösten år 2008–2019.
+
 NII för Kungsbacka kommun blev 41 i årets undersökning. Det är inte en
 säkerställd förändring jämfört med hösten 2019 då NII var 43.
 2020
 2019
-NII
 För Kungsbacka kommun har inga frågeområden fått säkerställt förändrade
 2018
 betygsindex jämfört med hösten 2019.
-Kontakt
-Information
+
 Påverkan
 
 Förtroende
 
-0   10  20  30  40  50  60  70  80  90  100
+0  10   20  30  40  50  60  70  80  90  100
 Betygsindex
 Kungsbacka kommun
 
@@ -11801,26 +11871,6 @@ friskvårdsanläggning.
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Trygghetsindex för hur kommuninvånarna
-bedömer tryggheten (SCB:s      63      64      60      59      65
-medborgarundersökning, skala 0-100)
-Bäst att bo, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 28 24    15      5       30
-Fokus.
-Invånarnas helhetsbedömning av kommunen
-som en plats att bo och leva på. SCB:s
-72      72      68      69      72
-medborgarundersökning, Nöjd Region-index,
-NRI, skala 0–100.
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s
-66      66      66      65      67
-medborgarundersökning, index i skala 0–
-100).
-Antal påbörjade bostäder                       501            575
-Antal färdigställda bostäder                   418            575
 3.1.1 Vår verksamhet är välkänd och det är lätt att hitta rätt, även till alternativa utförare
 inom vårt verksamhetsområde.
 
@@ -11852,6 +11902,17 @@ day in Halland" red på pandemisituationen och fungerade som en guide till vår 
 Vi synliggör och kompletterar vårt utbud: Vi genomförde en stor hemesterkampanj och mycket av vår
 
 7
+
+[Tabell 332-1](handlingar.tabeller/332-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna<br>bedömer tryggheten (SCB:s<br>medborgarundersökning, skala 0-100) | 63 | 64 | 60 | 59 | 65 |
+| Bäst att bo, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 28 | 24 | 15 | 5 | 30 |
+| Invånarnas helhetsbedömning av kommunen<br>som en plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index,<br>NRI, skala 0–100. | 72 | 72 | 68 | 69 | 72 |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–<br>100). | 66 | 66 | 66 | 65 | 67 |
+| Antal påbörjade bostäder |  |  | 501 |  | 575 |
+| Antal färdigställda bostäder |  |  | 418 |  | 575 |
 
 <!-- sida 333 -->
 
@@ -11894,57 +11955,27 @@ föräldrar, just för att föreläsningarna blivit digitala och lättillgängli
 aktivitetsgrupper.
 •  Satsning på fritidslots för att knyta nyanlända unga till föreningslivet eller annan fritidsverksamhet
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges 2,3             2
-Ekokommuner)
-
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 65   73      74              75
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-79%     79%    71%             99%
-(%) (Källa: Sveriges Ekokommuner)
-
 8
+
+[Tabell 333-334-1](handlingar.tabeller/333-334-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) | 2,3 |  |  |  | 2 |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 65 | 73 | 74 |  | 75 |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 79% | 79% | 71% |  | 99% |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 505 | 427 | 354 |  | 350 |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,1 | 0,17 | 0,14 |  | 0,1 |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 91% | 89% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) |  | 91% | 90% |  | 92% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 75% | 73% |  | 80% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 88% | 81% |  | 90% |
 
 <!-- sida 334 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%            99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 505 427     354            350
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,1 0,17 0,14     0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i %      91%    89%             92%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90%           92%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      75%    73%             80%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %      88%    81%             90%
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
 
 3.2.1 Fler unga har möjlighet att prova Kulturskolans verksamhet istället för att stå i kö
 
@@ -12055,20 +12086,6 @@ Folkhälsomyndighetens råd. I och med Varbergs avtal med Medley som tillkom und
 beslut att lägga ut driften av våra simhallar har vi möjliggjort för den privata friskvårdssektorn att utvecklas i
 Västsverige.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 67 63     62              70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3      3,2     3,4            3,5
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
 3.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -12078,6 +12095,13 @@ Fokusområden
 \- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
 11
+
+[Tabell 336-1](handlingar.tabeller/336-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 | 63 | 62 |  | 70 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3 | 3,2 | 3,4 |  | 3,5 |
 
 <!-- sida 337 -->
 
@@ -12100,28 +12124,8 @@ Hålabäcks- och Gullregnsområdet.
 Vi har utökat programmet "En frisk generation" som handlar om rörelse, kost och välmående till Anneberg i
 syfte att nå fler nyanlända och möjliggöra att fler band knyts mellan olika familjer i Anneberg.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-229     240     238    245,7   245
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,4% 3% 2,2% 2,8%    2,5%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-7,5             7,3            7,6
-enligt Skolenkäten som genomförs i
-samarbete med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,9 13,8 14      14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat              90%
-försörjningsstöd (%)
 3.4.1 Föreningar inom kultur, fritid och idrott samverkar.
+
 Beslutats av
 Nämnd
 Nämndens formulering
@@ -12136,6 +12140,16 @@ Kommentar på nämndmål
 Under året har vi inte kunnat utveckla samarbetet med föreningarna så mycket då corona starkt påverkat
 
 12
+
+[Tabell 337-1](handlingar.tabeller/337-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 229 | 240 | 238 | 245,7 | 245 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,4% | 3% | 2,2% | 2,8% | 2,5% |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs i<br>samarbete med Göteborgsregionen, GR. | 7,5 |  | 7,3 |  | 7,6 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,9 | 13,8 | 14 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) |  |  |  |  | 90% |
 
 <!-- sida 338 -->
 
@@ -12172,26 +12186,17 @@ längre.
 
 Vi har satsat stort under året på att bygga bilden av Kungsbacka och allt fint som finns här att besöka och göra.
 På grund av corona valde många hemester och att utforska allt vi paketerat lättillgängligt och bra.
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2017   2018    2019    2020    2020
-
-Nöjd-inflytande index för hur
-kommuninvånarna bedömer möjligheterna till
-46      47      43              48
-inflytande. (SCB:s medborgarundersökning,
-0-100).
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-77      76                      79
-områdena motivation, ledarskap och styrning,
-skala 1-100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 80 77      91              85
-nyckeltal med skala 1–20.
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar
 
 13
+
+[Tabell 338-1](handlingar.tabeller/338-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Nöjd-inflytande index för hur<br>kommuninvånarna bedömer möjligheterna till<br>inflytande. (SCB:s medborgarundersökning,<br>0-100). | 46 | 47 | 43 |  | 48 |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten. | 77 | 76 |  |  | 79 |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 80 | 77 | 91 |  | 85 |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar |  |  |  |  |  |
 
 <!-- sida 339 -->
 
@@ -12256,9 +12261,6 @@ Arbete har pågått under 2020 och avstämningar har gjort med nämnden i olika 
 arbetet. Vi kommer vara inne i en längre beslutsfas av de olika delarna (olika bidragstyper och taxor) under
 början av 2021.
 
-Indikatorer                                    Utfall 2020
-Status på direktiv                          Pågående enligt plan
-
 4.2 Vi ska utveckla arbetssätt för ”Tillsammans för varje barn”
 
 Beslutats av
@@ -12287,6 +12289,12 @@ begränsade möjligheter att ha fysisk kontakt med eleverna.
 
 15
 
+[Tabell 340-1](handlingar.tabeller/340-1.csv)
+
+| Indikatorer | Utfall 2020 |
+| --- | --- |
+| Status på direktiv | Pågående enligt plan |
+
 <!-- sida 341 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
@@ -12314,46 +12322,46 @@ Kvalitetsdeklarationerna vänder sig till dem vi är till för. De ska tydligt b
 
 [Tabell 342-346-1](handlingar.tabeller/342-346-1.csv)
 
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-| Friluftsbad | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>Uppnått<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |
-| Ungdoms-<br>verksamhet | Alla ungdomar ska ha lika Ungdomarnas möjlighet att<br>Delvis<br>möjligheter att påverka Ung i påverka har begränsats på grund<br>uppnått<br>Kungsbackas verksamhet. av pandemin. |
-|  | På grund av pandemin har vi inte<br>Personalen på Ung i Kungsbacka kunnat hjälpa ungdomar att<br>Delvis ska lyssna på och hjälpa genomföra idéerna, trots att vi i<br>uppnått ungdomar att genomföra sina början av året hade en kampanj,<br>idéer. som hade ett stort gensvar, i<br>syfte att lyssna in ungdomar. |
-| Bidrag och stöd till<br>föreningar | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>Uppnått<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |
-|  | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>Uppnått efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |
-|  | Vi hanterar din ansökan inom fem<br>Uppnått arbetsdagar efter att den kommit<br>till oss. |
-|  | Vi kontaktar styrelsen efter<br>Uppnått registrering för en personlig<br>kontakt. |
-| Idrottsplatser | Stängsel runt konstgräsplanerna<br>kontrolleras i september och april<br>Uppnått<br>och belysningen kontrolleras i<br>september. |
-|  | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>Uppnått<br>senast två arbetsdagar efter<br>avslutat snöfall. |
-|  | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på vår<br>webbplats. Ledare som<br>Uppnått<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |
-|  | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>Uppnått<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |
-| Inomhushallar | Vi kontrollerar utrustningen i<br>idrottshallar och gymnastiksalar<br>varannan vecka. Kontrollen gäller<br>Service Fastighet utför detta på<br>Uppnått den utrustning som Kultur &<br>uppdrag av Kultur & Fritid<br>fritids abonnenter använder i<br>lokalen. Det vill säga våra kvälls-<br>och helgabonnenter. |
-|  | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>Delvis veckor med återkoppling till Service Fastighet utför detta på<br>uppnått anmälaren. Dröjer det längre uppdrag av Kultur & Fritid<br>anger vi när vi kan åtgärda<br>problemet. |
-| Motionsspår | Vi kontrollerar belysning senast 1<br>november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-|  | Inrapporterade fel på belysningen<br>ska åtgärdas inom två<br>Delvis arbetsdagar med återkoppling till<br>uppnått anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |
-|  | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-| Simhallar | All personal som bevakar i<br>simhallen har utbildning i Kungsbackas simhallar drivs från<br>livräddning och hjärt- och 2020 av ett privat företag och<br>lungräddning. De har även kvalitetsuppföljningen sker enligt<br>grundläggande kunskaper i avtal.<br>sjukvård. |
-|  | Kungsbackas simhallar drivs från<br>Vattentemperaturen i Fjärås 2020 av ett privat företag och<br>simhall är 28 grader. kvalitetsuppföljningen sker enligt<br>avtal. |
-|  | I Kungsbacka simhall är det 28<br>Kungsbackas simhallar drivs från<br>grader i stora bassängen, 31<br>2020 av ett privat företag och<br>grader undervisningsbassängen.<br>kvalitetsuppföljningen sker enligt<br>På onsdagar är det 34 grader i<br>avtal.<br>undervisningsbassängen. |
-|  | Kungsbackas simhallar drivs från<br>Vi kontrollerar vattenkvaliteten i<br>2020 av ett privat företag och<br>Fjärås simhall två gånger per<br>kvalitetsuppföljningen sker enligt<br>dag.<br>avtal. |
-|  | Kungsbackas simhallar drivs från<br>Vi kontrollerar vattenkvaliteten i<br>2020 av ett privat företag och<br>Kungsbacka simhall två gånger<br>kvalitetsuppföljningen sker enligt<br>per dag.<br>avtal. |
-| Större<br>arrangemang | När det är verksamhet i våra Vi har inte haft större<br>anläggningar ska det finnas arrangemang under 2020 på<br>personal från Fritid & Folkhälsa i grund av pandemin.<br>tjänst. |
-|  | Vi bjuder in till en förberedande<br>träff sex månader innan<br>Vi har inte haft större<br>arrangemanget. Vi genomför ett<br>arrangemang under 2020 på<br>avstämningsmöte senast en<br>grund av pandemin.<br>månad innan arrangemanget ska<br>genomföras. |
-|  | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>Uppnått<br>EM, VM eller tävling med annat<br>nationellt intresse. |
-|  | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>Uppnått<br>nationell status. Bidraget regleras<br>av vilken status arrangemanget<br>har. |
-| Bibliotek | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>Uppnått<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |
-|  | Du som har någon form av<br>funktionsvariation ska, i<br>Uppnått<br>möjligaste mån, ha tillgång till<br>anpassade medier. |
-|  | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>Uppnått<br>medier genom att lämna<br>inköpsförslag. |
-|  | Biblioteken i Kungsbacka ska På grund av pandemin har vi<br>Delvis<br>stimulera barn och unga till endast delvis kunnat nå dessa<br>uppnått<br>läsning. grupper |
-| Turism<br>Kungsbacka | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig och<br>digital turistinformation på<br>svenska och engelska om<br>Uppnått<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |
-|  | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>Uppnått<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |
-|  | Äskhults by ska vara öppen maj<br>På grund av pandemin har<br>- oktober och erbjuda ett<br>säsongen avslutats tidigare och<br>Delvis skiftande programutbud.<br>programutbudet har varit<br>uppnått Kulturlandskapet ska kunna<br>begränsat, även om besökande i<br>besökas även när Äskhults by<br>naturreservatet ökat.<br>inte är öppen. |
-|  | Naturum Fjärås Bräcka ska På grund av pandemin har<br>erbjuda ett skiftande naturum Fjärås Bräcka haft<br>Delvis<br>programutbud året runt och begränsat öppethållande, även<br>uppnått<br>verksamheten ska präglas av ett om besökande i naturreservatet<br>ekologiskt tankesätt. ökat. |
-| Scen & Konst | Det generella utbudet i Filmhuset<br>Facklan ska under året<br>Delvis kompletteras med filmer för Begränsat på grund av<br>uppnått skolbio, Bio Kontrast- pandemin.<br>föreställningar och<br>dagbiovisningar. |
-|  | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>Uppnått<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |
-|  | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>Uppnått upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |
-|  | Från och med april har<br>Vi ska under året presentera Kungsbacka teater haft sin<br>minst en uppsättning av vardera ordinarie verksamhet stängd.<br>Delvis<br>genrerna musik, musikdramatik, Under vår och sommaren har<br>uppnått<br>drama, dans och ett verk med teatern gjort arrangemang<br>amatörteater. utomhus och tillsammans med<br>andra förvaltningar. |
-| Kulturmiljövård | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>Uppnått<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+| Friluftsbad |  | Uppnått | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |  |
+| Ungdoms-<br>verksamhet |  | Delvis<br>uppnått | Alla ungdomar ska ha lika<br>möjligheter att påverka Ung i<br>Kungsbackas verksamhet. | Ungdomarnas möjlighet att<br>påverka har begränsats på grund<br>av pandemin. |
+|  |  | Delvis<br>uppnått | Personalen på Ung i Kungsbacka<br>ska lyssna på och hjälpa<br>ungdomar att genomföra sina<br>idéer. | På grund av pandemin har vi inte<br>kunnat hjälpa ungdomar att<br>genomföra idéerna, trots att vi i<br>början av året hade en kampanj,<br>som hade ett stort gensvar, i<br>syfte att lyssna in ungdomar. |
+| Bidrag och stöd till<br>föreningar |  | Uppnått | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |  |
+|  |  | Uppnått | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |  |
+|  |  | Uppnått | Vi hanterar din ansökan inom fem<br>arbetsdagar efter att den kommit<br>till oss. |  |
+|  |  | Uppnått | Vi kontaktar styrelsen efter<br>registrering för en personlig<br>kontakt. |  |
+| Idrottsplatser |  | Uppnått | Stängsel runt konstgräsplanerna<br>kontrolleras i september och april<br>och belysningen kontrolleras i<br>september. |  |
+|  |  | Uppnått | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>senast två arbetsdagar efter<br>avslutat snöfall. |  |
+|  |  | Uppnått | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på vår<br>webbplats. Ledare som<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |  |
+|  |  | Uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |  |
+| Inomhushallar |  | Uppnått | Vi kontrollerar utrustningen i<br>idrottshallar och gymnastiksalar<br>varannan vecka. Kontrollen gäller<br>den utrustning som Kultur &<br>fritids abonnenter använder i<br>lokalen. Det vill säga våra kvälls-<br>och helgabonnenter. | Service Fastighet utför detta på<br>uppdrag av Kultur & Fritid |
+|  |  | Delvis<br>uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>veckor med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. | Service Fastighet utför detta på<br>uppdrag av Kultur & Fritid |
+| Motionsspår |  | Uppnått | Vi kontrollerar belysning senast 1<br>november och gör<br>underhållskontroller i december<br>och februari. |  |
+|  |  | Delvis<br>uppnått | Inrapporterade fel på belysningen<br>ska åtgärdas inom två<br>arbetsdagar med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. |  |
+|  |  | Uppnått | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>underhållskontroller i december<br>och februari. |  |
+| Simhallar |  |  | All personal som bevakar i<br>simhallen har utbildning i<br>livräddning och hjärt- och<br>lungräddning. De har även<br>grundläggande kunskaper i<br>sjukvård. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vattentemperaturen i Fjärås<br>simhall är 28 grader. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | I Kungsbacka simhall är det 28<br>grader i stora bassängen, 31<br>grader undervisningsbassängen.<br>På onsdagar är det 34 grader i<br>undervisningsbassängen. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vi kontrollerar vattenkvaliteten i<br>Fjärås simhall två gånger per<br>dag. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+|  |  |  | Vi kontrollerar vattenkvaliteten i<br>Kungsbacka simhall två gånger<br>per dag. | Kungsbackas simhallar drivs från<br>2020 av ett privat företag och<br>kvalitetsuppföljningen sker enligt<br>avtal. |
+| Större<br>arrangemang |  |  | När det är verksamhet i våra<br>anläggningar ska det finnas<br>personal från Fritid & Folkhälsa i<br>tjänst. | Vi har inte haft större<br>arrangemang under 2020 på<br>grund av pandemin. |
+|  |  |  | Vi bjuder in till en förberedande<br>träff sex månader innan<br>arrangemanget. Vi genomför ett<br>avstämningsmöte senast en<br>månad innan arrangemanget ska<br>genomföras. | Vi har inte haft större<br>arrangemang under 2020 på<br>grund av pandemin. |
+|  |  | Uppnått | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>EM, VM eller tävling med annat<br>nationellt intresse. |  |
+|  |  | Uppnått | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>nationell status. Bidraget regleras<br>av vilken status arrangemanget<br>har. |  |
+| Bibliotek |  | Uppnått | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |  |
+|  |  | Uppnått | Du som har någon form av<br>funktionsvariation ska, i<br>möjligaste mån, ha tillgång till<br>anpassade medier. |  |
+|  |  | Uppnått | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>medier genom att lämna<br>inköpsförslag. |  |
+|  |  | Delvis<br>uppnått | Biblioteken i Kungsbacka ska<br>stimulera barn och unga till<br>läsning. | På grund av pandemin har vi<br>endast delvis kunnat nå dessa<br>grupper |
+| Turism<br>Kungsbacka |  | Uppnått | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig och<br>digital turistinformation på<br>svenska och engelska om<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |  |
+|  |  | Uppnått | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |  |
+|  |  | Delvis<br>uppnått | Äskhults by ska vara öppen maj<br>- oktober och erbjuda ett<br>skiftande programutbud.<br>Kulturlandskapet ska kunna<br>besökas även när Äskhults by<br>inte är öppen. | På grund av pandemin har<br>säsongen avslutats tidigare och<br>programutbudet har varit<br>begränsat, även om besökande i<br>naturreservatet ökat. |
+|  |  | Delvis<br>uppnått | Naturum Fjärås Bräcka ska<br>erbjuda ett skiftande<br>programutbud året runt och<br>verksamheten ska präglas av ett<br>ekologiskt tankesätt. | På grund av pandemin har<br>naturum Fjärås Bräcka haft<br>begränsat öppethållande, även<br>om besökande i naturreservatet<br>ökat. |
+| Scen & Konst |  | Delvis<br>uppnått | Det generella utbudet i Filmhuset<br>Facklan ska under året<br>kompletteras med filmer för<br>skolbio, Bio Kontrast-<br>föreställningar och<br>dagbiovisningar. | Begränsat på grund av<br>pandemin. |
+|  |  | Uppnått | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |  |
+|  |  | Uppnått | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |  |
+|  |  | Delvis<br>uppnått | Vi ska under året presentera<br>minst en uppsättning av vardera<br>genrerna musik, musikdramatik,<br>drama, dans och ett verk med<br>amatörteater. | Från och med april har<br>Kungsbacka teater haft sin<br>ordinarie verksamhet stängd.<br>Under vår och sommaren har<br>teatern gjort arrangemang<br>utomhus och tillsammans med<br>andra förvaltningar. |
+| Kulturmiljövård |  | Uppnått | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |  |
 
 <!-- sida 343 -->
 
@@ -12472,87 +12480,63 @@ blir att något fler medarbetare har varit sjuka, fast mycket kortare tid än ti
 
 6.3 Resursmått
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-Andel deltid                       21%    20,2%   26,5%  28,3%
-
-Andel heltid                       79%    79,8%   73,5%  71,7%
-Andel kvinnor som har deltid       24%    22,8%   26,6%  28,4%
-Andel kvinnor som har heltid       76%    77,2%   73,4%  71,4%
-
-Andel män som har deltid           16%    16,5%   26,3%  28,3%
-Andel män som har heltid           84%    83,5%   73,7%  71,7%
-
-Anställda andel kvinnor            61%    61,2%   70,4%  68,9%
-Anställda andel män                39%    38,8%   29,6%  31,1%
-```
-
-Anställda genomsnittlig sysselsättningsgrad 92,9% 91,2%  90,6%
-
-```osaker-tabell
-Anställda totalt                   240     237    223     196
-Medarbetare 30 - 39 år             18%    18,6%   20,2%  21,4%
-
-Medarbetare 40 - 49 år             25%    24,1%   25,1%  28,1%
-```
-
 23
+
+[Tabell 348-349-1](handlingar.tabeller/348-349-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 21% | 20,2% | 26,5% | 28,3% |
+|  | Andel heltid | 79% | 79,8% | 73,5% | 71,7% |
+|  | Andel kvinnor som har deltid | 24% | 22,8% | 26,6% | 28,4% |
+|  | Andel kvinnor som har heltid | 76% | 77,2% | 73,4% | 71,4% |
+|  | Andel män som har deltid | 16% | 16,5% | 26,3% | 28,3% |
+|  | Andel män som har heltid | 84% | 83,5% | 73,7% | 71,7% |
+|  | Anställda andel kvinnor | 61% | 61,2% | 70,4% | 68,9% |
+|  | Anställda andel män | 39% | 38,8% | 29,6% | 31,1% |
+|  | Anställda genomsnittlig sysselsättningsgrad |  | 92,9% | 91,2% | 90,6% |
+|  | Anställda totalt | 240 | 237 | 223 | 196 |
+|  | Medarbetare 30 - 39 år | 18% | 18,6% | 20,2% | 21,4% |
+|  | Medarbetare 40 - 49 år | 25% | 24,1% | 25,1% | 28,1% |
+|  | Medarbetare 50 - 59 år | 34% | 32,1% | 27,8% | 28,6% |
+|  | Medarbetare 60 år och äldre | 15% | 16,9% | 14,4% | 16,3% |
+|  | Medarbetare yngre än 30 år | 8% | 8,4% | 12,6% | 5,6% |
+|  | Medelålder | 48 | 48 | 46 | 47 |
+|  | Pensionsavgångar | 4 |  | 6 | 3 |
 
 <!-- sida 349 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2020
 
-```osaker-tabell
-Namn                              2017    2018    2019    2020
-Medarbetare 50 - 59 år             34%    32,1%   27,8%  28,6%
-Medarbetare 60 år och äldre        15%    16,9%   14,4%  16,3%
-
-Medarbetare yngre än 30 år         8%     8,4%    12,6%   5,6%
-Medelålder                         48      48      46      47
-
-Pensionsavgångar                    4              6       3
-```
-
 6.4 Effektmått
 
-```osaker-tabell
-Namn                               2017    2018    2019    2020
-
-Frisknärvaro                        62%    59,7%   62,6%  60,2%
-Frisknärvaro Kvinnor               57,4%   52,5%   60,1%   59%
-Frisknärvaro Män                   68,8%   70,5%   66,7%  63,1%
-
-Korttidssjukfrånvaro                        2%      2%     2,6%
-Korttidssjukfrånvaro Kvinnor               2,3%    2,2%    2,4%
-
-Korttidssjukfrånvaro Män                   1,5%    1,8%    3%
-Långtidssjukfrånvaro               2,5%    2,2%    2,8%    1,6%
-Långtidssjukfrånvaro Kvinnor       3,4%    2,6%    3,7%    1,8%
-
-Långtidssjukfrånvaro Män           1,3%    1,2%     1%     1%
-Personalomsättning                 7,4%    10,5%   9,9%   19,1%
-
-Sjukfrånvaro Kvinnor               5,4%    5,1%    5,8%    4,3%
-Sjukfrånvaro Män                    3%     2,8%    2,7%    3,9%
-Sjukfrånvaro Totalt                4,4%    4,2%    4,8%    4,2%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-29,7%   37,4%  20,6%
-mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-30,1%   41,3%  25,7%
-mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-28,4%   19,6%   7%
-mer Män
-Sjukfrånvaro, anställda i åldrarna 29 år eller yngre 2,4%  3,6%
-Sjukfrånvaro, anställda i åldrarna 30-49 år        4,3%    3,8%
-Sjukfrånvaro, anställda i åldrarna 50 år eller äldre 5,8%  4,6%
-Sjukfrånvarodagar i snitt per anställd     15,2    19,2    13,5
-
 24
+
+[Tabell 349-1](handlingar.tabeller/349-1.csv)
+
+|  | Namn | 2017 | 2018 | 2019 | 2020 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 62% | 59,7% | 62,6% | 60,2% |
+|  | Frisknärvaro Kvinnor | 57,4% | 52,5% | 60,1% | 59% |
+|  | Frisknärvaro Män | 68,8% | 70,5% | 66,7% | 63,1% |
+|  | Korttidssjukfrånvaro |  | 2% | 2% | 2,6% |
+|  | Korttidssjukfrånvaro Kvinnor |  | 2,3% | 2,2% | 2,4% |
+|  | Korttidssjukfrånvaro Män |  | 1,5% | 1,8% | 3% |
+|  | Långtidssjukfrånvaro | 2,5% | 2,2% | 2,8% | 1,6% |
+|  | Långtidssjukfrånvaro Kvinnor | 3,4% | 2,6% | 3,7% | 1,8% |
+|  | Långtidssjukfrånvaro Män | 1,3% | 1,2% | 1% | 1% |
+|  | Personalomsättning | 7,4% | 10,5% | 9,9% | 19,1% |
+|  | Sjukfrånvaro Kvinnor | 5,4% | 5,1% | 5,8% | 4,3% |
+|  | Sjukfrånvaro Män | 3% | 2,8% | 2,7% | 3,9% |
+|  | Sjukfrånvaro Totalt | 4,4% | 4,2% | 4,8% | 4,2% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer |  | 29,7% | 37,4% | 20,6% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Kvinnor |  | 30,1% | 41,3% | 25,7% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Män |  | 28,4% | 19,6% | 7% |
+|  | Sjukfrånvaro, anställda i åldrarna 29 år eller yngre |  |  | 2,4% | 3,6% |
+|  | Sjukfrånvaro, anställda i åldrarna 30-49 år |  |  | 4,3% | 3,8% |
+|  | Sjukfrånvaro, anställda i åldrarna 50 år eller äldre |  |  | 5,8% | 4,6% |
+|  | Sjukfrånvarodagar i snitt per anställd |  | 15,2 | 19,2 | 13,5 |
 
 <!-- sida 350 -->
 
@@ -13223,24 +13207,24 @@ Uppföljningsrapport Intern kontroll 2020 8
 
 [Tabell 370-1](handlingar.tabeller/370-1.csv)
 
-| Kategorier | Risknumm<br>Risker Till plan<br>er |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Bristande efterlevnad av Ja<br>semesterlagen |
-|  | 2 Kommunövergripande risk: Processen för avslut av Ja<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. |
-| Ekonomi | 3 Kommunövergripande risk: Manuella betalningar Ja |
-|  | 4 Kommunövergripande risk: Redovisning av Ja<br>representation |
-|  | 5 Kontanthantering Ja |
-| Informationssäkerh<br>et och<br>administration | 6 Brister i hanteringen av personuppgifter Ja |
-|  | 7 Kommunövergripande risk: Styrning och förvaltning Ja<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. |
-|  | 8 Kommunövergripande risk: Bristande kännedom om Ja<br>och efterlevnad av krav\* på tillgänglighet och service |
-|  | 9 Kommunövergripande risk: Bristande styrning av Ja<br>förändring av verksamhetsprocesser och system |
-| Verksamhet | 10 Barn- ansvar. Rutiner vid rekrytering av personal Ja |
+| Kategorier |  | Risknumm<br>er | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Bristande efterlevnad av<br>semesterlagen | Ja |
+|  |  | 2 | Kommunövergripande risk: Processen för avslut av<br>anställning säkerställer inte att alla behörigheter till<br>system, lokaler och andra tillgångar avslutas. | Ja |
+| Ekonomi |  | 3 | Kommunövergripande risk: Manuella betalningar | Ja |
+|  |  | 4 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+|  |  | 5 | Kontanthantering | Ja |
+| Informationssäkerh<br>et och<br>administration |  | 6 | Brister i hanteringen av personuppgifter | Ja |
+|  |  | 7 | Kommunövergripande risk: Styrning och förvaltning<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. | Ja |
+|  |  | 8 | Kommunövergripande risk: Bristande kännedom om<br>och efterlevnad av krav\* på tillgänglighet och service | Ja |
+|  |  | 9 | Kommunövergripande risk: Bristande styrning av<br>förändring av verksamhetsprocesser och system | Ja |
+| Verksamhet |  | 10 | Barn- ansvar. Rutiner vid rekrytering av personal | Ja |
 
 [Tabell 370-2](handlingar.tabeller/370-2.csv)
 
-| Kategorier | Risker Anledning till att risk ej tas till plan |
-| --- | --- |
-| Verksamhet | Leverantörssamar Extern utförare som på nämndens uppdrag bedriver verksamhet i våra<br>bete- Brister simhallar startar från 1/1 2020 och behöver tid för att utarbeta rutiner<br>uppföljning av under 2020.<br>leverans från Utförande av driftuppdrag, verksamhetsvaktmästeri/stöd samt<br>extern verksamhet i ishallarna på nämndens uppdrag sker sedan halvårsskiftet<br>badhusoperatör 2019 av Teknik- & Serviceförvaltningarna och behöver tid för att<br>samt från Service utarbeta rutiner under 2020.<br>resp. Teknik. |
+| Kategorier |  | Risker | Anledning till att risk ej tas till plan |
+| --- | --- | --- | --- |
+| Verksamhet |  | Leverantörssamar<br>bete- Brister<br>uppföljning av<br>leverans från<br>extern<br>badhusoperatör<br>samt från Service<br>resp. Teknik. | Extern utförare som på nämndens uppdrag bedriver verksamhet i våra<br>simhallar startar från 1/1 2020 och behöver tid för att utarbeta rutiner<br>under 2020.<br>Utförande av driftuppdrag, verksamhetsvaktmästeri/stöd samt<br>verksamhet i ishallarna på nämndens uppdrag sker sedan halvårsskiftet<br>2019 av Teknik- & Serviceförvaltningarna och behöver tid för att<br>utarbeta rutiner under 2020. |
 
 <!-- sida 371 -->
 
@@ -13389,28 +13373,28 @@ Uppföljningsrapport Intern kontroll 2020 12
 
 [Tabell 374-375-1](handlingar.tabeller/374-375-1.csv)
 
-| Område | Frågor Svar, Antal 2020 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2020 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 375 -->
 
@@ -14546,8 +14530,9 @@ kulturverksamhet.
 
 [Tabell 399-1](handlingar.tabeller/399-1.csv)
 
-| Sverige 2018 |  | Västra Götalands län 2018 |  |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| Sverige | 2018 | Västra Götalands län | 2018 |
 | Stat | 13 599 tkr | Statligt bidrag i<br>kultursamverkansmodellen | 318 tkr |
 | Regioner | 4 500 tkr | Västra Götalandsregionen,<br>nettokostnad | 1 197 tkr |
 | Kommuner | 11 928 tkr | Kommunerna, nettokostnad | 1 927 tkr |
@@ -14676,14 +14661,6 @@ för kommunal samverkan.
 
 Tabell 2. Befolkningstal 2019
 
-Befolkningstal 2019
-Skaraborgs kommunalförbund                       268 501
-Boråsregionens kommunalförbund                   226 332
-
-Fyrbodals kommunalförbund                        274 656
-Göteborgsregionens kommunalförbund              1 040 680
-– varav Göteborgs stad                           578 350
-
 En stor andel av befolkningen bor i kommunerna i Göteborgsregionen, där Göteborgs
 
 stad är den i särklass största kommunen. Även om Göteborgs stad räknas bort är
@@ -14720,6 +14697,16 @@ kultur- och fritidschefer i kommunerna i Göteborgsregionen: Överenskommelse om
 samverkan och finansiering genom delregionala tillväxtmedel för genomförande av
 
 18 (55)
+
+[Tabell 402-1](handlingar.tabeller/402-1.csv)
+
+| Befolkningstal 2019 |  |
+| --- | --- |
+| Skaraborgs kommunalförbund | 268 501 |
+| Boråsregionens kommunalförbund | 226 332 |
+| Fyrbodals kommunalförbund | 274 656 |
+| Göteborgsregionens kommunalförbund | 1 040 680 |
+| – varav Göteborgs stad | 578 350 |
 
 <!-- sida 403 -->
 
@@ -17433,7 +17420,7 @@ Administratör Utvecklingsledare
 Kultur & Fritid Kultur & Fritid
 
 & kerstin.ohlssonQkungsbacka.se XM peter.rudvallQkungsbacka.se
-J 0300-83 78 48 3 0300-83 80 95
+J 0300-83 78 48 AJ 0300-83 80 95
 
 PLAN LLAN
 
@@ -17838,7 +17825,6 @@ Delegationspunkt
 3.1.10 Bidrag till kulturprojekt
 
 Delegat
-WIR. 4 v d
 
 Ulrika Granfors
 Förvaltningschef Kultur & Fritid
@@ -20120,7 +20106,6 @@ Förra         årets         kampanj               och       detta         åre
 <!-- sida 546 -->
 
 [A Kungsbacka kommun
-Lot] cerat av C 3 Hug
 
 Är du en av de 1 600 slumpmässigt utvalda personerna som har fått inbjudan att delta i årets
 medborgarundersökning? 196 personer har redan svarat. Har du inte hunnit ännu? gör det nu! (&
@@ -21024,24 +21009,34 @@ helhetsindex NRI.
 
 65 %r                                      r10 %
 
-rekommenderarr                                         ravråder r
+rekommenderarr                                         ravråder  r
 
 starkt vännerr                                     rvänner  ochr r
-
 och bekanta  attr                                     rbekanta  att r
 
 flytta tillr                                  rflytta tillr r
+
 Kungsbackar                                       rKungsbackar
 
-Personer som bott upp till två år i Kungsbacka är mest Personer med högst utbildning ger högst betyg, undantag
-positiva. Betygen dippar bland de som bott 3–5 år men Kommunikationer, Kommersiellt utbud och Fritids-
-återhämtar sig något i grupperna som bott 6 år eller möjligheter. Personer med lägst utbildning ger lägst betyg.
+Personer som bott upp till två år i Kungsbacka är mest
+positiva. Betygen dippar bland de som bott 3–5 år men
+återhämtar sig något i grupperna som bott 6 år eller
 längre i Kungsbacka.
-Kvinnor ger högre betyg än män, med undantag för Personer boende i centralorten och annan tätort är mer
-Bostäder och Trygghet.               nöjda än personer boende utanför tätort, undantag Trygghet.
+Kvinnor ger högre betyg än män, med undantag för
+Bostäder och Trygghet.
 
-Inrikes födda ger högre betyg än utrikes födda, Lägst betyg på NRI och Rekommendation ger Kungsbackas
-undantag Kommunikationer och Trygghet. yngre medborgare, 18–29 år.
+Inrikes födda ger högre betyg än utrikes födda,
+undantag Kommunikationer och Trygghet.
+
+Personer med högst utbildning ger högst betyg, undantag
+Kommunikationer, Kommersiellt utbud och Fritids-
+möjligheter. Personer med lägst utbildning ger lägst betyg.
+
+Personer boende i centralorten och annan tätort är mer
+nöjda än personer boende utanför tätort, undantag Trygghet.
+
+Lägst betyg på NRI och Rekommendation ger Kungsbackas
+yngre medborgare, 18–29 år.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NRI. Områden som bör prioriteras är framförallt Bostäder som har ett relativt
@@ -21076,25 +21071,34 @@ godkänt som går vid betygsindex 40.
 
 Bland män i Kungsbacka är tappet 10 punkter och bland kvinnor fem punkter. Åldersgruppen 30–49 år ger lägst
 betyg och index ligger på 38 i den gruppen, att jämföra med 52 i gruppen 18–29 år, 42 i gruppen 50–64 år och
+
 46 i gruppen 65–84 år. Mest positiva till den hjälp som utsatta personer får i Kungsbacka är personer som inte
 själva har erfarenhet av socialtjänsten under de senaste två åren. De är mer positiva än de som själva
 arbetar/har arbetat inom socialtjänsten och de som har erfarenhet av socialtjänsten genom nära anhörig eller
 genom vänner/bekanta. Minst positiva är personer som själva får/har fått hjälp från socialtjänsten, där index
 ligger på 25. Inrikes födda ger högre betyg än utrikes födda och de som bott kort tid i kommunen ger lägre
-
 betyg än de som bott en längre tid i Kungsbacka. Personer med lägst utbildning (förgymnasial) är mest positiva
 och personer med högst utbildning (eftergymnasial mer än tre år) är minst positiva.
 
-Personer med lägst utbildning är minst positiva och personer
-Kvinnor ger generellt högre betyg än män. med eftergymnasial utbildning, oavsett längd, är mest
-positiva.
-Personer som bott upp till två år i Kungsbacka är mest Personer boende i centralorten och annan tätort är mer
-positiva. Betygen dippar bland personer som bott 3–5 positiva än personer boende utanför tätort.
+Kvinnor ger generellt högre betyg än män.
+
+Personer som bott upp till två år i Kungsbacka är mest
+positiva. Betygen dippar bland personer som bott 3–5
 år men återhämtar sig något vid längre boendetid.
 
-Föreställningen om bemötande och tillgänglighet är Åldersgruppen 18–29 år är generellt mer positiv än övriga
-sämre än den faktiska upplevelsen av bemötande och åldersgrupper.
+Föreställningen om bemötande och tillgänglighet är
+sämre än den faktiska upplevelsen av bemötande och
 tillgänglighet.
+
+Personer med lägst utbildning är minst positiva och personer
+med eftergymnasial utbildning, oavsett längd, är mest
+positiva.
+
+Personer boende i centralorten och annan tätort är mer
+positiva än personer boende utanför tätort.
+
+Åldersgruppen 18–29 år är generellt mer positiv än övriga
+åldersgrupper.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NMI. Områden som har högt effektmått, dvs. som vid ett förbättrat resultat
@@ -21149,21 +21153,30 @@ nöjda är personer som har bott 3–5 år i kommunen jämfört med personer som
 eller kortare tid än två år. Även inom detta område ger personer med förgymnasial utbildning lägre betyg än
 personer med gymnasial eller eftergymnasial utbildning.
 
-Yngsta åldersgruppen, 18–29 år är minst positiv och Personer med lägst utbildning ger lägst betyg och högst
-åldersgruppen 50–64 år mest positiv. utbildning ger högst betyg. Skillnaden är relativt stor och
-varierar mellan sju till 15 punkter på indexskalan. Störst
-skillnad noteras inom området Påverkan och Information.
+Yngsta åldersgruppen, 18–29 år är minst positiv och
+åldersgruppen 50–64 år mest positiv.
+
 Boende upp till två år i kommunen ger högst betyg,
-undantaget, frågeområde Kontakt, och boende 3–5 år Resultatet för Påverkan är inte godkänt och lägst betyg ger
-ger lägst betyg. Skillnaderna är väsentliga och varierar åldersgruppen 18–29 år (33 på indexskalan).
+undantaget, frågeområde Kontakt, och boende 3–5 år
+ger lägst betyg. Skillnaderna är väsentliga och varierar
 mellan 14 – 32 punkter på indexskalan.
-Inrikes födda ger klart högre betyg än utrikes födda. Män är mer positiva än kvinnor och resultatet sjunker
-betydligt mer bland kvinnor än män.
+Inrikes födda ger klart högre betyg än utrikes födda.
 
 Förtroendet är lägre bland personer som anger att de
 har haft kontakt med någon politiker under de senaste
 två åren, 33, än bland de som ej har haft någon
 kontakt, 45.
+
+Personer med lägst utbildning ger lägst betyg och högst
+utbildning ger högst betyg. Skillnaden är relativt stor och
+varierar mellan sju till 15 punkter på indexskalan. Störst
+skillnad noteras inom området Påverkan och Information.
+
+Resultatet för Påverkan är inte godkänt och lägst betyg ger
+åldersgruppen 18–29 år (33 på indexskalan).
+
+Män är mer positiva än kvinnor och resultatet sjunker
+betydligt mer bland kvinnor än män.
 
 Nedan framgår vilken prioriteringsordning frågeområdena bör ges vid förbättringsarbete samt vilket effektmått
 respektive frågeområde har på NII. Områdenas indelning har inte förändrats sedan 2019, däremot har
@@ -21277,46 +21290,78 @@ Resultat Del C: Nöjd-Inflytande-Index (NII)
 
 SCB:s medborgarundersökning 2020
 
-  Helhetsbetyget Nöjd-Inflytande-Index (NII), med frågor om
 SCB:s     medborgar-
-invånarnas inflytande över kommunala beslut och verksamheter.
-undersökning           hösten     2020
-Mer om modellen
-  Helhetsbetygen mäts med tre specifika frågor.
-Varje år erbjuder statistikmyndigheten SCB Sveriges kommuner att delta i
-SCB:s medborgarundersökning.                                Frågorna besvaras på 10-gradiga skalor, där 1 är lägsta betyg och 10
-är högsta betyg.
-Sammanlagt deltog 100 kommuner 2020. Sedan undersökningen
-genomfördes första gången hösten 2005 har 273 av landets kommuner  Frågeområdenas resultat redovisas som betygsindex, vilka kan
-deltagit och 258 av dessa har deltagit mer än en gång.       variera mellan 0 och 100.
-I denna rapport redovisas resultatet för Kungsbacka kommun.  Betygsindex under 40 klassas som ”inte godkänt”. Gränsen för
 
-Undersökningen genomfördes mellan den 24 augusti och den 3 november ”nöjd” går vid 55 och 75 eller högre tolkas som ”mycket nöjd”.
-2020\. Ett slumpmässigt urval på 1 600 personer i åldrarna 18–84 år Alla kommenterade skillnader mellan kommunens betygsindex och
-tillfrågades och av dessa besvarade 46 procent enkäten. genomsnittsresultaten i rapporten är statistiskt säkerställda om inget annat
-anges. Läs mer om felmarginaler och om analysmodellen i rapportbilagan.
+undersökning           hösten      2020
+
+Varje år erbjuder statistikmyndigheten SCB Sveriges kommuner att delta i
+SCB:s medborgarundersökning.
+
+Sammanlagt deltog 100 kommuner 2020. Sedan undersökningen
+genomfördes första gången hösten 2005 har 273 av landets kommuner
+deltagit och 258 av dessa har deltagit mer än en gång.
+
+I denna rapport redovisas resultatet för Kungsbacka kommun.
+Undersökningen genomfördes mellan den 24 augusti och den 3 november
+2020\. Ett slumpmässigt urval på 1 600 personer i åldrarna 18–84 år
+tillfrågades och av dessa besvarade 46 procent enkäten.
+
 Jämförelser med resultat för samtliga kommuner avser de 100 kommuner
 som var med i undersökningen 2020.
-Inför eget arbete med resultaten
-SCB:s analysmodell med Nöjd-Kund-Index                  Det är viktigt att komma ihåg att SCB:s medborgarundersökning är en
-attitydundersökning och ingen brukarundersökning. Undersökningen
+
+SCB:s analysmodell med Nöjd-Kund-Index
+
 Resultaten analyseras med SCB:s analysmodell med Nöjd-Kund-Index
-är tänkt att vara ett av flera verktyg för att få en bild av hur kommunens
+
 (NKI). Analysmodellen är uppbyggd dels av ett mått på den totala nöjdheten
-invånare ser på sin kommun. Det är därför viktigt att även inhämta kunskap
 och dels av ett antal frågeområden som återger delar av den undersökta
-från andra håll om de områden som undersökningen tar upp.
 verksamheten eller området. Analysmodellen syftar till att visa vad som bör
-prioriteras för att öka nöjdheten bland kommunens invånare. Modellanalyserna syftar till att ge en helhetsbild som pekar ut vilka
-områden som har särskilt stor betydelse för en förbättring av de
-Tre olika delar med varsitt helhetsbetyg                helhetsbetyg som invånarna ger sin kommun.
+prioriteras för att öka nöjdheten bland kommunens invånare.
+
+Tre olika delar med varsitt helhetsbetyg
+
   Helhetsbetyget Nöjd-Region-Index (NRI), med frågor om kommunen
-Rapportbilaga
 som en plats att bo och leva på.
-Till denna resultatrapport finns en rapportbilaga. I rapportbilagan finns mer
+
   Helhetsbetyget Nöjd-Medborgar-Index (NMI), med frågor om
-ingående information om undersökningen, analysmodellen med NKI,
 kommunens olika verksamheter.
+
+  Helhetsbetyget Nöjd-Inflytande-Index (NII), med frågor om
+invånarnas inflytande över kommunala beslut och verksamheter.
+
+Mer om modellen
+
+  Helhetsbetygen mäts med tre specifika frågor.
+
+  Frågorna besvaras på 10-gradiga skalor, där 1 är lägsta betyg och 10
+är högsta betyg.
+  Frågeområdenas resultat redovisas som betygsindex, vilka kan
+
+variera mellan 0 och 100.
+  Betygsindex under 40 klassas som ”inte godkänt”. Gränsen för
+”nöjd” går vid 55 och 75 eller högre tolkas som ”mycket nöjd”.
+
+Alla kommenterade skillnader mellan kommunens betygsindex och
+genomsnittsresultaten i rapporten är statistiskt säkerställda om inget annat
+anges. Läs mer om felmarginaler och om analysmodellen i rapportbilagan.
+
+Inför eget arbete med resultaten
+
+Det är viktigt att komma ihåg att SCB:s medborgarundersökning är en
+attitydundersökning och ingen brukarundersökning. Undersökningen
+är tänkt att vara ett av flera verktyg för att få en bild av hur kommunens
+
+invånare ser på sin kommun. Det är därför viktigt att även inhämta kunskap
+från andra håll om de områden som undersökningen tar upp.
+Modellanalyserna syftar till att ge en helhetsbild som pekar ut vilka
+områden som har särskilt stor betydelse för en förbättring av de
+
+helhetsbetyg som invånarna ger sin kommun.
+
+Rapportbilaga
+
+Till denna resultatrapport finns en rapportbilaga. I rapportbilagan finns mer
+ingående information om undersökningen, analysmodellen med NKI,
 anvisningar för att tolka och arbeta vidare med resultaten, enkäten och
 deltagande kommuners svarsfrekvenser.
 1
@@ -21325,80 +21370,115 @@ deltagande kommuners svarsfrekvenser.
 
 SCB:s medborgarundersökning 2020
 
-Tabell- och diagrambilaga                               svenska, engelska, finska och spanska. Därefter skickades en pappersenkät
-och informationsbrev ut till de som inte svarat. Pappersenkäten fanns även
+Tabell- och diagrambilaga
 Till denna resultatrapport finns även en tabell- och diagrambilaga. Bilagan
-tillgänglig på arabiska att beställa från SCB. Ytterligare två påminnelser
+
 innehåller samtliga tabeller och diagram för Kungsbacka kommun som
-skickades ut till de som inte besvarat enkäten, varav den sista innehöll en
 använts till analysen i denna rapport.
-ny pappersenkät. Insamlingen pågick mellan 24 augusti och 3 november
-2020\.
+
 Jämförelser med andra kommuner och undersökningsomgångar
-Jämförelser mellan enskilda kommuner ska göras med viss försiktighet, då Svarsandel
+
+Jämförelser mellan enskilda kommuner ska göras med viss försiktighet, då
 verksamheter och förhållanden kan variera mellan olika kommuner. Det kan
-Svarsandelen för Kungsbacka kommun blev 46 procent. Kungsbacka
 finnas skillnader mellan kommunerna som i sin tur förklarar skillnader i
-kommun deltog även i medborgarundersökningen hösten 2019.
 nöjdhet, vilka inte fångas av undersökningen. Resultaten för de kommuner
-Svarsandelen blev då 42 procent.
 som varit med i undersökningen från 2010 och framåt är tillgängliga via
-www.scb.se/medborgarundersokningen.                     Svarsfrekvensen för samtliga deltagande kommuner 2020 blev 42 procent.
-År 2019 var den 41 procent, och 2018 var den också 41 procent. Under 2017
+www.scb.se/medborgarundersokningen.
+
 Den 21 december publicerar vi årets resultat under Demokrati i SCB:s
-var svarsfrekvensen 40 procent.
 statistikdatabas, www.statistikdatabasen.scb.se.
-Även om det självfallet är säkrare att göra statistik utan bortfall, finns olika
-Om    undersökningen                                    statistiska metoder för att kompensera för bortfallet. På SCB används
-viktning av svaren, vilket innebär att om en viss grupp är under-
-representerad i svaren i förhållande till populationen, väger den gruppens
+
+Om    undersökningen
+
 Population och urval
-svar tyngre i resultaten. I medborgarundersökningen använder vi juridiskt
-Populationen är Kungsbacka kommuns invånare i åldrarna 18–84 år. kön och ålder för denna viktning.
+
+Populationen är Kungsbacka kommuns invånare i åldrarna 18–84 år.
 Undersökningen genomfördes som en urvalsundersökning och SCB:s
+
 register över totalbefolkningen var urvalsram. Som standard drogs ett urval
 om 800 personer i kommuner med färre än 10 000 invånare i åldrarna 18–84
 år, 1 200 personer i kommuner med 10 000–59 999 invånare och 1 600
 personer i kommuner med 60 000 eller fler invånare i dessa åldrar.
+
 Insamling
+
 Totalt gjordes fyra utskick till urvalspersonerna, per post. Det första
 utskicket till urvalspersonerna innehöll ett informationsbrev med
+
 inloggningsuppgifter till webbenkäten samt information om
 undersökningen och dess syfte. Enkäten på webben fanns tillgänglig på
+
+svenska, engelska, finska och spanska. Därefter skickades en pappersenkät
+och informationsbrev ut till de som inte svarat. Pappersenkäten fanns även
+tillgänglig på arabiska att beställa från SCB. Ytterligare två påminnelser
+
+skickades ut till de som inte besvarat enkäten, varav den sista innehöll en
+ny pappersenkät. Insamlingen pågick mellan 24 augusti och 3 november
+2020\.
+
+Svarsandel
+
+Svarsandelen för Kungsbacka kommun blev 46 procent. Kungsbacka
+kommun deltog även i medborgarundersökningen hösten 2019.
+Svarsandelen blev då 42 procent.
+
+Svarsfrekvensen för samtliga deltagande kommuner 2020 blev 42 procent.
+År 2019 var den 41 procent, och 2018 var den också 41 procent. Under 2017
+var svarsfrekvensen 40 procent.
+
+Även om det självfallet är säkrare att göra statistik utan bortfall, finns olika
+statistiska metoder för att kompensera för bortfallet. På SCB används
+viktning av svaren, vilket innebär att om en viss grupp är under-
+representerad i svaren i förhållande till populationen, väger den gruppens
+svar tyngre i resultaten. I medborgarundersökningen använder vi juridiskt
+
+kön och ålder för denna viktning.
+
 2
 
 <!-- sida 606 -->
 
-Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?    SCB:s medborgarundersökning 2020
+Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?
 
-Del A. Nöjd-Region-Index (NRI)                       Det sammanfattande betygsindexet Nöjd-Region-Index (NRI) för hur
-Hur ser medborgarna på Kungsbacka kommun som en      medborgarna bedömer Kungsbacka kommun som en plats att bo och leva på blev
-69\.
+Del A. Nöjd-Region-Index (NRI)
+
+Hur ser medborgarna på Kungsbacka kommun som en
 plats att bo och leva på?
-För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+
 Tabell A1. Nöjd-Region-Index (NRI), indexet Rekommendation och
-frågeområdenas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i frågeområdena Bostäder samt Fritidsmöjligheter som kan höja helhetsbetyget
+frågeområdenas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i
 undersökningsomgången 2020.
+
+SCB:s medborgarundersökning 2020
+
+Det sammanfattande betygsindexet Nöjd-Region-Index (NRI) för hur
+medborgarna bedömer Kungsbacka kommun som en plats att bo och leva på blev
+
+69\.
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+frågeområdena Bostäder samt Fritidsmöjligheter som kan höja helhetsbetyget
 Nöjd-Region-Index.
+
 65 procent av medborgarna i Kungsbacka kommun kan starkt rekommendera
 vänner och bekanta att flytta till kommunen (betyg 8-10 på den 10-gradiga
 skalan) medan 10 procent vill avråda från det (betyg 1-4 på den 10-gradiga
+
 skalan).
 NRI för samtliga 100 kommuner som var med i undersökningen 2020 blev 60.
 NRI för Kungsbacka kommun är högre jämfört med genomsnittsresultatet.
 
 Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
+
 … Rekommendation högre.
-
 … Arbetsmöjligheter högre.
+
 … Utbildningsmöjligheter högre.
-
 … Bostäder lägre.
+
 … Kommunikationer högre.
-
 … Kommersiellt utbud högre.
-… Fritidsmöjligheter högre.
 
+… Fritidsmöjligheter högre.
 … Trygghet högre.
 
 3
@@ -21422,36 +21502,46 @@ Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
 
 Resultat Del A - Hur ser medborgarna på kommunen som en plats att bo och leva på?    SCB:s medborgarundersökning 2020
 
-Vilka frågeområden bör uppmärksammas för att         Frågeområden som bör Prioriteras förväntas vid en förbättring ha stor påverkan
-medborgarna i Kungsbacka kommun ska bli nöjdare?     på helhetsbetyget NRI. Dessa har fått relativt låga betygsindex och har
-förhållandevis hög effekt, det vill säga stor påverkan på helhetsbetyget NRI.
+Vilka frågeområden bör uppmärksammas för att
+medborgarna i Kungsbacka kommun ska bli nöjdare?
+
 Diagram A1. Nöjd-Region-Index (NRI).
-Prioriteringsmatris för Kungsbacka kommun 2020.      I en andra prioriteringsgrupp återfinns de frågeområden som hamnar uppe till
-Kungsbacka kommun     höger i matrisen, Förbättra om möjligt. Även dessa områden har förhållandevis
+Prioriteringsmatris för Kungsbacka kommun 2020.
+Kungsbacka kommun
 Betygsindex
-höga effektmått och bör därför om möjligt förbättras.
 100
+
+Frågeområden som bör Prioriteras förväntas vid en förbättring ha stor påverkan
+på helhetsbetyget NRI. Dessa har fått relativt låga betygsindex och har
+förhållandevis hög effekt, det vill säga stor påverkan på helhetsbetyget NRI.
+
+I en andra prioriteringsgrupp återfinns de frågeområden som hamnar uppe till
+höger i matrisen, Förbättra om möjligt. Även dessa områden har förhållandevis
+höga effektmått och bör därför om möjligt förbättras.
+
 Bevara                        Förbättra         Frågeområden som hamnat i den nedre vänstra delen av prioriteringsmatrisen
 om möjligt
 90                                                kan ges Lägre prioritet eftersom en förbättring av deras låga betygsindex
 förväntas ha en lägre effekt på NRI.
+
 80                                                Högst upp till vänster hamnar de frågeområden vars betygsindex kan Bevaras.
 En sänkning av betygsindexet kan dock leda till att effektmåttet ökar och
 Kommers.utb.
 70                                                frågeområdet hamnar då i den prioriterade delen av matrisen.
 Utb.möjl.
-Kommunik.      Fritids.möjl.
+Kommunik.       Fritids.möjl.
 Frågeområden som bör prioriteras
-60    Arb.möjl.
+60     Arb.möjl.
 Trygghet                                  Bostäder
 Bostäder
 50                                                Frågeområden som bör förbättras om möjligt
+
 Fritidsmöjligheter
 40
 Frågeområden som kan ges lägre prioritet
 30                                                Trygghet, Arbetsmöjligheter
 Lägre
-prioritet                   Prioritera          Frågeområden som bör bevaras
+prioritet                   Prioritera         Frågeområden som bör bevaras
 20
 0,0    0,5    1,0    1,5    2,0    2,5
 Kommunikationer, Kommersiellt utbud, Utbildningsmöjligheter
@@ -21490,42 +21580,56 @@ Kungsbacka kommun
 
 <!-- sida 609 -->
 
-Resultat Del B – Hur ser medborgarna på kommunens verksamheter?                      SCB:s medborgarundersökning 2020
+Resultat Del B – Hur ser medborgarna på kommunens verksamheter?
 
-Del B. Nöjd-Medborgar-Index (NMI)                   För Kungsbacka kommun är det främst förbättringar av betygsindexen för
-Hur ser medborgarna i Kungsbacka kommun på          verksamheterna Gator och vägar, Äldreomsorgen, Miljöarbete, Stöd för utsatta
-personer samt Förskolan som kan höja helhetsbetyget Nöjd-Medborgar-Index.
+Del B. Nöjd-Medborgar-Index (NMI)
+
+Hur ser medborgarna i Kungsbacka kommun på
 kommunens  verksamheter?
-Betygsindexet för Bemötande och tillgänglighet, det vill säga hur medborgarna
+
 Tabell B1. Nöjd-Medborgar-Index (NMI), indexet Bemötande och tillgänglighet samt
-verksamheternas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i bedömer kommunens tillgänglighet och det bemötande de får i sin kontakt med
+verksamheternas betygsindex för Kungsbacka kommun samt för samtliga 100 kommuner i
 undersökningsomgången 2020.
+
+Det sammanfattande betygsindexet Nöjd-Medborgar-Index (NMI) för hur
+medborgarna bedömer kommunens verksamheter i Kungsbacka kommun blev
+59\.
+
+SCB:s medborgarundersökning 2020
+
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+verksamheterna Gator och vägar, Äldreomsorgen, Miljöarbete, Stöd för utsatta
+
+personer samt Förskolan som kan höja helhetsbetyget Nöjd-Medborgar-Index.
+Betygsindexet för Bemötande och tillgänglighet, det vill säga hur medborgarna
+bedömer kommunens tillgänglighet och det bemötande de får i sin kontakt med
 kommunen, blev 56 i Kungsbacka kommun.
+
 NMI för samtliga 100 kommuner som var med i undersökningen 2020 blev 55.
 NMI för Kungsbacka kommun är högre jämfört med genomsnittsresultatet.
 Jämfört med genomsnittsresultatet är betygsindexet för verksamheten …
+
 … Bemötande och tillgänglighet inte säkerställt högre eller lägre.
+
 … Förskolan inte säkerställt högre eller lägre.
-
 … Grundskolan högre.
+
 … Gymnasieskolan högre.
-
 … Äldreomsorgen inte säkerställt högre eller lägre.
+
 … Stöd för utsatta personer lägre.
-
 … Räddningstjänsten högre.
+
 … Gång- och cykelvägar högre.
-
 … Gator och vägar högre.
+
 … Idrotts- och motionsanläggningar högre.
-
 … Kultur högre.
-… Miljöarbete högre.
 
-Det sammanfattande betygsindexet Nöjd-Medborgar-Index (NMI) för hur … Renhållning och sophämtning högre.
-medborgarna bedömer kommunens verksamheter i Kungsbacka kommun blev
+… Miljöarbete högre.
+… Renhållning och sophämtning högre.
+
 … Vatten och avlopp högre.
-59\.
 
 6
 
@@ -21596,24 +21700,33 @@ GY Gymnasieskolan
 
 Resultat Del B – Hur ser medborgarna på kommunens verksamheter?                      SCB:s medborgarundersökning 2020
 
-Jämförelser med tidigare år                          Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
-samt hösten år 2008–2019.
+Jämförelser med tidigare år
+
 Diagram B2. Nöjd-Medborgar-Index (NMI), indexet Bemötande och
 Tillgänglighet samt verksamheternas betygsindex för Kungsbacka kommun.
-NMI för Kungsbacka kommun blev 59 i årets undersökning. Det är inte en
 De tre senaste omgångarna kommunen deltagit.
-säkerställd förändring jämfört med hösten 2019 då NMI var 62.
-NMI                              2020
-Jämfört med medborgarundersökningen som gjordes i Kungsbacka kommun
-Bemötande och tillgänglighet               2019
-Förskolan                          2018   hösten 2019 har verksamheten Stöd för utsatta personer fått lägre betygsindex.
+NMI
+Bemötande och tillgänglighet
+Förskolan
 Grundskolan
-Indexet Bemötande och tillgänglighet blev 56 för Kungsbacka kommun i årets
 Gymnasieskolan
+
+Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
+samt hösten år 2008–2019.
+
+NMI för Kungsbacka kommun blev 59 i årets undersökning. Det är inte en
+säkerställd förändring jämfört med hösten 2019 då NMI var 62.
+2020
+Jämfört med medborgarundersökningen som gjordes i Kungsbacka kommun
+2019
+2018  hösten 2019 har verksamheten Stöd för utsatta personer fått lägre betygsindex.
+Indexet Bemötande och tillgänglighet blev 56 för Kungsbacka kommun i årets
+
 Äldreomsorgen                               undersökning. Det är inte en säkerställd förändring jämfört med hösten 2019. Då
 Stöd för utsatta personer
 var indexet Bemötande och tillgänglighet 57.
 Räddningstjänsten
+
 Gång- och cykelvägar
 Gator och vägar
 Idrotts- och motionsanläggningar
@@ -21621,7 +21734,8 @@ Kultur
 Miljöarbete
 Renhållning och sophämtning
 Vatten och avlopp
-0  10 20 30 40 50 60  70 80 90 100
+
+0  10 20 30  40 50 60 70 80 90 100
 Betygsindex
 Kungsbacka kommun
 
@@ -21629,26 +21743,36 @@ Kungsbacka kommun
 
 <!-- sida 612 -->
 
-Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?                  SCB:s medborgarundersökning 2020
+Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?
 
-Del C. Nöjd-Inflytande-Index (NII)                    Det sammanfattande betygsindexet Nöjd-Inflytande-Index (NII) för hur
-Hur ser medborgarna i Kungsbacka kommun på sitt       medborgarna bedömer möjligheterna till inflytande i Kungsbacka kommun
-blev 41.
+Del C. Nöjd-Inflytande-Index (NII)
+
+Hur ser medborgarna i Kungsbacka kommun på sitt
 inflytande i kommunen?
-För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+
 Tabell C1. Nöjd-Inflytande-Index (NII) och frågeområdenas betygsindex för Kungsbacka kommun
-samt för samtliga 100 kommuner i undersökningsomgången 2020. frågeområdena Förtroende samt Påverkan som kan höja helhetsbetyget Nöjd-
+samt för samtliga 100 kommuner i undersökningsomgången 2020.
+
+SCB:s medborgarundersökning 2020
+
+Det sammanfattande betygsindexet Nöjd-Inflytande-Index (NII) för hur
+medborgarna bedömer möjligheterna till inflytande i Kungsbacka kommun
+
+blev 41.
+För Kungsbacka kommun är det främst förbättringar av betygsindexen för
+frågeområdena Förtroende samt Påverkan som kan höja helhetsbetyget Nöjd-
 Inflytande-Index.
+
 NII för samtliga 100 kommuner som var med i undersökningen 2020 blev 40.
 NII för Kungsbacka kommun är inte säkerställt högre eller lägre jämfört med
 genomsnittsresultatet.
 
 Jämfört med genomsnittsresultatet är betygsindexet för frågeområdet …
+
 … Kontakt lägre.
-
 … Information inte säkerställt högre eller lägre.
-… Påverkan inte säkerställt högre eller lägre.
 
+… Påverkan inte säkerställt högre eller lägre.
 … Förtroende lägre.
 
 9
@@ -21703,27 +21827,37 @@ Effektmått
 
 <!-- sida 614 -->
 
-Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?                  SCB:s medborgarundersökning 2020
+Resultat Del C – Hur ser medborgarna på sitt inflytande i kommunen?
 
-Jämförelser med tidigare år                           Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
-samt hösten år 2008–2019.
+Jämförelser med tidigare år
+
 Diagram C2. Nöjd-Inflytande-Index (NII) och frågeområdenas betygsindex för Kungsbacka
 kommun. De tre senaste omgångarna kommunen deltagit.
+
+NII
+
+Kontakt
+
+Information
+
+SCB:s medborgarundersökning 2020
+
+Kungsbacka kommun deltog även i medborgarundersökningen hösten 2005,
+samt hösten år 2008–2019.
+
 NII för Kungsbacka kommun blev 41 i årets undersökning. Det är inte en
 säkerställd förändring jämfört med hösten 2019 då NII var 43.
 2020
 2019
-NII
 För Kungsbacka kommun har inga frågeområden fått säkerställt förändrade
 2018
 betygsindex jämfört med hösten 2019.
-Kontakt
-Information
+
 Påverkan
 
 Förtroende
 
-0   10  20  30  40  50  60  70  80  90  100
+0  10   20  30  40  50  60  70  80  90  100
 Betygsindex
 Kungsbacka kommun
 
