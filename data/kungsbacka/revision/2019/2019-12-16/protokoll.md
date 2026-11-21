@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319194139id_/https://www.kungsbacka.
 sha256: 39f35856e44f28ca03c621f5ae33d6c2ca9a53be88275b3c667df4b1262bf558
 bytes: 2895908
 sidor: 8
-hamtad: 2026-11-07T19:20:33+00:00
-konverterad: 2026-11-07T19:20:59+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:17:21+00:00
+konverterad: 2026-11-21T02:17:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr]
@@ -183,8 +183,6 @@ Dialog med kommunstyrelsens presidium 8
 Mötets avslutande och nästa möte 8
 
 Justerare a | Expedierat/bestyrkt
-
-| DAY
 
 <!-- sida 4 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20200712003936id_/https://www.kungsbacka.
 sha256: d19e58c9e78b96f74bc001aacb0ff49001c9a093964692ff6529d5bf9d0d6afb
 bytes: 1998457
 sidor: 74
-hamtad: 2026-11-03T08:41:33+00:00
-konverterad: 2026-11-03T08:41:47+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T02:20:52+00:00
+konverterad: 2026-11-21T02:21:05+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok]
@@ -1485,23 +1485,30 @@ I matrisen visas riskerna i en löpnummerserie (svarta cirklar) och återfinns m
 tabellen nedan.
 Siffrorna 1-16 längst ner i varje ruta indikerar riskvärde = sannolikhet x konsekvens.
 
-Intern kontrollplan 2020         8
-tehkilonnaS
 4          8          12         16
 4          20
+
 4
+
 3          6          9          12
 12         1 2 5 7 11 14 9
 15 17 18
 3
+
 2          4          6           8
 16         3 6 8 10 13 19
 2
+
 1          2          3           4
+
 1
+
 1          2          3          4
+
 Konsekvens
+
 1 Kritisk11 Hög 8 Medel Totalt: 20
+
 Kritisk        Sannolikhet          Konsekvens
 Hög
 4 Mycket vanligt - exempelvis 1 gång per Allvarlig/stor inverkan (så stor att den
@@ -1514,6 +1521,9 @@ berörda intressenter och kommunen)
 1 Osannolik (risken är praktiskt taget Försumbar (obetydlig för berörda
 obefintlig) - exempelvis 1 gång per 10 intressenter och kommunen)
 år
+Intern kontrollplan 2020         8
+
+Sannolikhet
 
 <!-- sida 48 -->
 
@@ -1523,28 +1533,28 @@ Intern kontrollplan 2020         9
 
 [Tabell 48-49-1](handlingar.tabeller/48-49-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>risk: Bristande efterlevnad besvärande för berörda<br>av semesterlagen intressenter och<br>kommunen) |
-|  | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>risk: Processen för avslut besvärande för berörda<br>av anställning säkerställer intressenter och<br>inte att alla behörigheter kommunen)<br>till system, lokaler och<br>andra tillgångar avslutas. |
-|  | 3 Medarbetare utan 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>formell kompetens anställs besvärande för berörda<br>på långa vikariat och intressenter och<br>uppnår företrädesrätt eller kommunen)<br>konverteringsrätt. |
-| Ekonomi | 4 Kommunövergripande 4. Mycket vanligt 3. Kännbar (uppfattas som Ja<br>risk: Manuella betalningar besvärande för berörda<br>intressenter och<br>kommunen) |
-|  | 5 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>risk: Redovisning av besvärande för berörda<br>representation intressenter och<br>kommunen) |
-| Informations<br>säkerhet och<br>administrati<br>on | 6 Risk att obehöriga 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>kommer åt information om besvärande för berörda<br>enskilda personer. intressenter och<br>kommunen) |
-|  | 7 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>risk: Styrning och besvärande för berörda<br>förvaltning av intressenter och<br>verksamhetssystem och kommunen)<br>digitala verktyg följer inte<br>systemförvaltarmodellen. |
-|  | 8 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>risk: Bristande kännedom besvärande för berörda<br>om och efterlevnad av intressenter och<br>krav\* på tillgänglighet och kommunen)<br>service |
-|  | 9 Risk att samverkande 3. Vanligt 4. Allvarlig/stor inverkan Ja<br>verksamhetssystem slutar (så stor att den inte får<br>interagera inträffa) |
-|  | 10 Att 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>informationssäkerheten i besvärande för berörda<br>förvaltningen brister intressenter och<br>kommunen) |
-|  | 11 Risk att 3. Vanligt 3. Kännbar (uppfattas som Ja<br>personuppgifter hanteras besvärande för berörda<br>på felaktiga sätt intressenter och<br>kommunen) |
-| Verksamhet | 12 Bristande följsamhet till 3. Vanligt 2. Lindrig (uppfattas som Ja<br>riktlinje för liten av berörda<br>händelserapportering intressenter och<br>kommunen) |
-|  | 13 Risk att processen 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>ansökan-beslut- besvärande för berörda<br>verkställighet inte följs intressenter och<br>kommunen) |
-|  | 14 Risk att 3. Vanligt 3. Kännbar (uppfattas som Ja<br>genomförandeplan ej besvärande för berörda<br>upprättas korrekt intressenter och<br>kommunen) |
-|  | 15 Bristande följsamhet till 3. Vanligt 3. Kännbar (uppfattas som Ja<br>gällande riktlinjer för besvärande för berörda<br>dokumentation, för intressenter och<br>omsorgspersonal. kommunen) |
-|  | 16 Bristande följsamhet till 2. Mindre vanligt 2. Lindrig (uppfattas som Ja<br>riktlinjen för lex Sarah liten av berörda<br>intressenter och<br>kommunen) |
-|  | 17 Brister i följsamhet till 3. Vanligt 3. Kännbar (uppfattas som Ja<br>riktlinjen för hälso- och besvärande för berörda<br>sjukvårdsdokumentation intressenter och<br>kommunen) |
-|  | 18 Bristande 3. Vanligt 3. Kännbar (uppfattas som Ja<br>informationssäkerhet besvärande för berörda<br>avseende dokumentation intressenter och<br>hälso- och sjukvård och kommunen)<br>socialtjänst |
-|  | 19 Risk att inte kunderna 2. Mindre vanligt 3. Kännbar (uppfattas som Ja<br>får någon vård eller besvärande för berörda<br>omsorg i samband med intressenter och<br>konkurs eller uppsägning kommunen)<br>av avtal med extern<br>hemtjänstutförare. |
-|  | 20 Bristande 4. Mycket vanligt 4. Allvarlig/stor inverkan Ja<br>läkartillgänglighet (så stor att den inte får<br>inträffa) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Bristande efterlevnad<br>av semesterlagen | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 2 Kommunövergripande<br>risk: Processen för avslut<br>av anställning säkerställer<br>inte att alla behörigheter<br>till system, lokaler och<br>andra tillgångar avslutas. | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 3 Medarbetare utan<br>formell kompetens anställs<br>på långa vikariat och<br>uppnår företrädesrätt eller<br>konverteringsrätt. | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 4 Kommunövergripande<br>risk: Manuella betalningar | 4. Mycket vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 5 Kommunövergripande<br>risk: Redovisning av<br>representation | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+| Informations<br>säkerhet och<br>administrati<br>on |  | 6 Risk att obehöriga<br>kommer åt information om<br>enskilda personer. | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 7 Kommunövergripande<br>risk: Styrning och<br>förvaltning av<br>verksamhetssystem och<br>digitala verktyg följer inte<br>systemförvaltarmodellen. | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 8 Kommunövergripande<br>risk: Bristande kännedom<br>om och efterlevnad av<br>krav\* på tillgänglighet och<br>service | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 9 Risk att samverkande<br>verksamhetssystem slutar<br>interagera | 3. Vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 10 Att<br>informationssäkerheten i<br>förvaltningen brister | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 11 Risk att<br>personuppgifter hanteras<br>på felaktiga sätt | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 12 Bristande följsamhet till<br>riktlinje för<br>händelserapportering | 3. Vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 13 Risk att processen<br>ansökan-beslut-<br>verkställighet inte följs | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 14 Risk att<br>genomförandeplan ej<br>upprättas korrekt | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 15 Bristande följsamhet till<br>gällande riktlinjer för<br>dokumentation, för<br>omsorgspersonal. | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 16 Bristande följsamhet till<br>riktlinjen för lex Sarah | 2. Mindre vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 17 Brister i följsamhet till<br>riktlinjen för hälso- och<br>sjukvårdsdokumentation | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 18 Bristande<br>informationssäkerhet<br>avseende dokumentation<br>hälso- och sjukvård och<br>socialtjänst | 3. Vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 19 Risk att inte kunderna<br>får någon vård eller<br>omsorg i samband med<br>konkurs eller uppsägning<br>av avtal med extern<br>hemtjänstutförare. | 2. Mindre vanligt | 3. Kännbar (uppfattas som<br>besvärande för berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 20 Bristande<br>läkartillgänglighet | 4. Mycket vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
 
 <!-- sida 49 -->
 
@@ -1556,9 +1566,9 @@ Intern kontrollplan 2020         10
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Ekonomi | Kontanthantering 1. Försumbar Finns ingen<br>1. Osannolik (risken<br>(obetydlig för kontanthanering<br>är praktiskt taget<br>berörda intressenter inom förvaltningen<br>obefintlig)<br>och kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Ekonomi |  | Kontanthantering | 1. Osannolik (risken<br>är praktiskt taget<br>obefintlig) | 1. Försumbar<br>(obetydlig för<br>berörda intressenter<br>och kommunen) | Finns ingen<br>kontanthanering<br>inom förvaltningen |
 
 <!-- sida 50 -->
 
@@ -1568,14 +1578,14 @@ Intern kontrollplan 2020         11
 
 [Tabell 50-1](handlingar.tabeller/50-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Informationssäker<br>het och<br>administration | Kommunövergripa<br>3. Kännbar<br>nde risk: Bristande<br>(uppfattas som<br>styrning av<br>2. Mindre vanligt besvärande för<br>förändring av<br>berörda intressenter<br>verksamhetsproces<br>och kommunen)<br>ser och system |
-| Verksamhet | Bristande Implementering av<br>följsamhet till nytt system för<br>3. Kännbar<br>riktlinje för delegerings-<br>(uppfattas som<br>delegering processen under<br>3. Vanligt besvärande för<br>2020. Risker<br>berörda intressenter<br>hanteras och<br>och kommunen)<br>säkerställs inom<br>projektet. |
-|  | Risk att Hanteras enligt<br>brandutrustning SBA, systematiskt<br>inte kontrolleras brandskyddsarbete |
-|  | Risk att Hanteras enligt<br>utrymningsrutin SBA, systematiskt<br>för personal och brandskyddsarbete<br>boende inte är<br>känd i<br>verksamheten för<br>vård- och<br>omsorgsboenden |
-|  | Risk att Hanteras enligt<br>utrymningsrutin SBA, systematiskt<br>för personal inte brandskyddsarbete<br>är känd i<br>verksamheten för<br>övriga lokaler<br>(exklusive vård-<br>och<br>omsorgsboenden)<br>utifrån<br>arbetsgivaransvar |
-|  | Bristande Årlig uppföljning<br>3. Kännbar<br>följsamhet till sker enligt föreskrift<br>1. Osannolik (risken (uppfattas som<br>riktlinje för av medicinskt<br>är praktiskt taget besvärande för<br>läkemedelshanteri ansvarig<br>obefintlig) berörda intressenter<br>ng sjuksköterska samt<br>och kommunen)<br>farmaceut. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Informationssäker<br>het och<br>administration |  | Kommunövergripa<br>nde risk: Bristande<br>styrning av<br>förändring av<br>verksamhetsproces<br>ser och system | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) |  |
+| Verksamhet |  | Bristande<br>följsamhet till<br>riktlinje för<br>delegering | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Implementering av<br>nytt system för<br>delegerings-<br>processen under<br>2020. Risker<br>hanteras och<br>säkerställs inom<br>projektet. |
+|  |  | Risk att<br>brandutrustning<br>inte kontrolleras |  |  | Hanteras enligt<br>SBA, systematiskt<br>brandskyddsarbete |
+|  |  | Risk att<br>utrymningsrutin<br>för personal och<br>boende inte är<br>känd i<br>verksamheten för<br>vård- och<br>omsorgsboenden |  |  | Hanteras enligt<br>SBA, systematiskt<br>brandskyddsarbete |
+|  |  | Risk att<br>utrymningsrutin<br>för personal inte<br>är känd i<br>verksamheten för<br>övriga lokaler<br>(exklusive vård-<br>och<br>omsorgsboenden)<br>utifrån<br>arbetsgivaransvar |  |  | Hanteras enligt<br>SBA, systematiskt<br>brandskyddsarbete |
+|  |  | Bristande<br>följsamhet till<br>riktlinje för<br>läkemedelshanteri<br>ng | 1. Osannolik (risken<br>är praktiskt taget<br>obefintlig) | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda intressenter<br>och kommunen) | Årlig uppföljning<br>sker enligt föreskrift<br>av medicinskt<br>ansvarig<br>sjuksköterska samt<br>farmaceut. |
 
 <!-- sida 51 -->
 
@@ -1591,38 +1601,38 @@ Intern kontrollplan 2020         12
 
 [Tabell 51-53-1](handlingar.tabeller/51-53-1.csv)
 
-| Risker | Kontrollmoment | Granskningsaktiviteter Startdatum Slutdatum |
-| --- | --- | --- |
-| Kommunövergripande<br>risk: Bristande<br>efterlevnad av<br>semesterlagen | Efterlevnad av<br>semesterlagen | Uppföljning av 2020-01-01 2020-11-<br>semesteravstämning 30 |
-| Kommunövergripande<br>risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Utveckling av ny e-<br>tjänst och rutin för<br>avslutande av<br>anställning pågår och<br>implementeras prel<br>Q2 2020. Befintlig<br>rutin för avslut i<br>lönesystemet omfattar<br>också att AD-konto<br>(behörighet till<br>kommunens nätverk<br>och e-post) stängs ner<br>per automatik. | Granskning av avslut av 2020-08-03 2020-10-<br>behörigheter vid avslut av 31<br>anställning (eller byte av<br>tjänst) |
-|  |  | Granskning av att de system 2020-01-01 2020-10-<br>och verktyg som förvatningen 31<br>ansvarar för har<br>behörighetsrutiner och att<br>dessa efterföljs (t ex periodisk<br>granskning av behörighter).<br>Se öven granskning av<br>efterlevnad till<br>systemförvaltarmodellen. |
-| Medarbetare utan<br>formell kompetens<br>anställs på långa<br>vikariat och uppnår<br>företrädesrätt eller<br>konverteringsrätt. | Företrädesrätt | Uppföljning av befattningar 2020-01-01 2020-12-<br>kopplat till företrädesrätten 31<br>och konverteringsrätten |
-| Kommunövergripande<br>risk: Manuella<br>betalningar | Registrering av<br>manuell betalning | Uppföljning manuella 2020-01-01 2020-11-<br>betalningar 30 |
-| Kommunövergripande<br>risk: Redovisning av<br>representation | Attest av<br>representation | Granskning av 2020-01-01 2020-11-<br>representationskostnader mm 30 |
-| Risk att obehöriga<br>kommer åt<br>information om<br>enskilda personer. | Loggning av uppgifter<br>i verksamhetssystem. | Uppföljning av loggar 2019-01-01 2019-12-<br>31 |
-|  | Kartläggning av det<br>mobila arbetssättet | Granskning av användandet 2019-01-01 2019-12-<br>av mobiltelefoner 31 |
-|  | Gallring av inaktiva<br>användare har<br>genomförts. | Uppföljning av inaktiva 2020-01-01 2020-12-<br>användare 31 |
-|  | Matchning mellan<br>behörighetsdokumente<br>t och<br>behörighetsrollerna i<br>systemen | Uppföljning av matchning 2020-01-01 2020-12-<br>mellan behörighetsdokument 31<br>och behörighetsroller |
-| Kommunövergripande<br>risk: Styrning och<br>förvaltning av<br>verksamhetssystem<br>och digitala verktyg<br>följer inte<br>systemförvaltarmodell<br>en. | Samtliga obligatoriska<br>roller är utpekade och<br>tillsatta | Avsnittet roller i 2020-01-01 2020-11-<br>förvaltningsplanen 30 |
-|  | Samtliga obligatoriska<br>dokument finns | Stickprov av obligatoriska 2020-01-01 2020-11-<br>dokument enligt 30<br>systemförvaltarmodellen |
-|  | Forum för<br>avtalsuppföljning<br>genomförs årligen | Granska avtalsuppföljning 2020-01-01 2020-11-<br>30 |
-| Kommunövergripande<br>risk: Bristande<br>kännedom om och<br>efterlevnad av krav\*<br>på tillgänglighet och<br>service | Kommunikationspolic<br>y | Efterlevnad av 2020-01-01 2020-11-<br>kommunikationspolicy 30 |
-| Risk att samverkande<br>verksamhetssystem<br>slutar interagera | VO tar del av<br>leverantörens<br>testprotokoll | Granskning av testprotokoll 2020-01-01 2020-12-<br>31 |
-|  | VO testar<br>integrationen i egen<br>testmiljö innan release | Funktionalitetsgranskning 2020-01-01 2020-12-<br>31 |
-| Att<br>informationssäkerhete<br>n i förvaltningen<br>brister | Tillsynsgranskning av<br>leverantör (Combine) | Informationssäkerhetsgransk 2020-01-01 2020-12-<br>ning utifrån NIS 31 |
-|  | Den framtagna<br>riktlinjen för<br>informationssäkerhet<br>följs | Följsamhet till riktlinjen för 2020-01-01 2020-12-<br>informationssäkerhet 31 |
-| Risk att<br>personuppgifter<br>hanteras på felaktiga<br>sätt | Att<br>registerförteckningarn<br>a i Draftit är<br>uppdaterade | Att förvaltningen följer 2020-01-01 2020-12-<br>GDPR-lagstiftningen 31 |
-|  | Att framtagna rutiner<br>för<br>personuppgiftsinciden<br>ter följs | Följsamhet till rutin för 2020-01-01 2020-12-<br>personuppgiftsincident 31 |
-| Bristande följsamhet<br>till riktlinje för<br>händelserapportering | Följsamhet till<br>riktlinje för<br>händelserapportering<br>2020 | Händelserapportering 2017-12-01 2019-12-<br>31 |
-| Risk att processen<br>ansökan-beslut-<br>verkställighet inte<br>följs | Processen ansökan-<br>beslut-verkställighet<br>inte följs | Att rättssäkerheten för den 2020-01-01 2020-12-<br>enskilde är god 31 |
-| Risk att<br>genomförandeplan ej<br>upprättas korrekt | Journalgranskning –<br>genomförandeplaner | Delaktighet i 2017-12-01 2019-12-<br>genomförandeplan 31 |
-| Bristande följsamhet<br>till gällande riktlinjer<br>för<br>dokumentation, för<br>omsorgspersonal. | Granskning av journal | Uppföljning av 2019-01-01 2019-12-<br>dokumentation, 31<br>omsorgspersonal |
-| Bristande följsamhet<br>till riktlinjen för lex<br>Sarah | Kontroll av<br>utredningsarbetet<br>kring Lex Sarah | Lex Sarah 2019-01-01 2019-12-<br>31 |
-| Brister i följsamhet till<br>riktlinjen för hälso-<br>och<br>sjukvårdsdokumentati<br>on | Brister i följsamhet till<br>riktlinjen för hälso-<br>och<br>sjukvårdsdokumentati<br>on | Granskning av hälso-och 2019-01-01 2019-12-<br>sjukvårddokumentation 31 |
-| Bristande<br>informationssäkerhet<br>avseende<br>dokumentation hälso-<br>och sjukvård och<br>socialtjänst | Internutredningar, lex<br>Sarah och lex Maria<br>samt koppling till<br>NIS- och GDPR-<br>anmälningar. | Internutredningar, lex Sarah 2020-01-01 2020-12-<br>och lex Maria samt koppling 31<br>till NIS- och GDPR-<br>anmälningar. |
-|  |  | Säkerställa att det reviderade 2020-01-01 2020-12-<br>ledningssystemet för 31<br>systematiskt kvalitetsarbete<br>omfattar<br>informationssäkerheten |
-| Risk att inte kunderna<br>får någon vård eller<br>omsorg i samband<br>med konkurs eller<br>uppsägning av avtal<br>med extern<br>hemtjänstutförare. | Att förvaltningen har<br>en rutin framtagen för<br>tillvägagångssätt i<br>händelse av<br>uppsägning av avtal<br>eller konkurs | Att förvaltningen säkerställt 2020-01-01 2020-12-<br>alla kunders rätt till vård och 31<br>omsorg |
-| Bristande<br>läkartillgänglighet | Läkartillgänglighet | Läkartillgänglighet 2020-01-01 2020-12-<br>31 |
+|  | Risker | Kontrollmoment | Granskningsaktiviteter | Startdatum | Slutdatum |
+| --- | --- | --- | --- | --- | --- |
+|  | Kommunövergripande<br>risk: Bristande<br>efterlevnad av<br>semesterlagen | Efterlevnad av<br>semesterlagen | Uppföljning av<br>semesteravstämning | 2020-01-01 | 2020-11-<br>30 |
+|  | Kommunövergripande<br>risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Utveckling av ny e-<br>tjänst och rutin för<br>avslutande av<br>anställning pågår och<br>implementeras prel<br>Q2 2020. Befintlig<br>rutin för avslut i<br>lönesystemet omfattar<br>också att AD-konto<br>(behörighet till<br>kommunens nätverk<br>och e-post) stängs ner<br>per automatik. | Granskning av avslut av<br>behörigheter vid avslut av<br>anställning (eller byte av<br>tjänst) | 2020-08-03 | 2020-10-<br>31 |
+|  |  |  | Granskning av att de system<br>och verktyg som förvatningen<br>ansvarar för har<br>behörighetsrutiner och att<br>dessa efterföljs (t ex periodisk<br>granskning av behörighter).<br>Se öven granskning av<br>efterlevnad till<br>systemförvaltarmodellen. | 2020-01-01 | 2020-10-<br>31 |
+|  | Medarbetare utan<br>formell kompetens<br>anställs på långa<br>vikariat och uppnår<br>företrädesrätt eller<br>konverteringsrätt. | Företrädesrätt | Uppföljning av befattningar<br>kopplat till företrädesrätten<br>och konverteringsrätten | 2020-01-01 | 2020-12-<br>31 |
+|  | Kommunövergripande<br>risk: Manuella<br>betalningar | Registrering av<br>manuell betalning | Uppföljning manuella<br>betalningar | 2020-01-01 | 2020-11-<br>30 |
+|  | Kommunövergripande<br>risk: Redovisning av<br>representation | Attest av<br>representation | Granskning av<br>representationskostnader mm | 2020-01-01 | 2020-11-<br>30 |
+|  | Risk att obehöriga<br>kommer åt<br>information om<br>enskilda personer. | Loggning av uppgifter<br>i verksamhetssystem. | Uppföljning av loggar | 2019-01-01 | 2019-12-<br>31 |
+|  |  | Kartläggning av det<br>mobila arbetssättet | Granskning av användandet<br>av mobiltelefoner | 2019-01-01 | 2019-12-<br>31 |
+|  |  | Gallring av inaktiva<br>användare har<br>genomförts. | Uppföljning av inaktiva<br>användare | 2020-01-01 | 2020-12-<br>31 |
+|  |  | Matchning mellan<br>behörighetsdokumente<br>t och<br>behörighetsrollerna i<br>systemen | Uppföljning av matchning<br>mellan behörighetsdokument<br>och behörighetsroller | 2020-01-01 | 2020-12-<br>31 |
+|  | Kommunövergripande<br>risk: Styrning och<br>förvaltning av<br>verksamhetssystem<br>och digitala verktyg<br>följer inte<br>systemförvaltarmodell<br>en. | Samtliga obligatoriska<br>roller är utpekade och<br>tillsatta | Avsnittet roller i<br>förvaltningsplanen | 2020-01-01 | 2020-11-<br>30 |
+|  |  | Samtliga obligatoriska<br>dokument finns | Stickprov av obligatoriska<br>dokument enligt<br>systemförvaltarmodellen | 2020-01-01 | 2020-11-<br>30 |
+|  |  | Forum för<br>avtalsuppföljning<br>genomförs årligen | Granska avtalsuppföljning | 2020-01-01 | 2020-11-<br>30 |
+|  | Kommunövergripande<br>risk: Bristande<br>kännedom om och<br>efterlevnad av krav\*<br>på tillgänglighet och<br>service | Kommunikationspolic<br>y | Efterlevnad av<br>kommunikationspolicy | 2020-01-01 | 2020-11-<br>30 |
+|  | Risk att samverkande<br>verksamhetssystem<br>slutar interagera | VO tar del av<br>leverantörens<br>testprotokoll | Granskning av testprotokoll | 2020-01-01 | 2020-12-<br>31 |
+|  |  | VO testar<br>integrationen i egen<br>testmiljö innan release | Funktionalitetsgranskning | 2020-01-01 | 2020-12-<br>31 |
+|  | Att<br>informationssäkerhete<br>n i förvaltningen<br>brister | Tillsynsgranskning av<br>leverantör (Combine) | Informationssäkerhetsgransk<br>ning utifrån NIS | 2020-01-01 | 2020-12-<br>31 |
+|  |  | Den framtagna<br>riktlinjen för<br>informationssäkerhet<br>följs | Följsamhet till riktlinjen för<br>informationssäkerhet | 2020-01-01 | 2020-12-<br>31 |
+|  | Risk att<br>personuppgifter<br>hanteras på felaktiga<br>sätt | Att<br>registerförteckningarn<br>a i Draftit är<br>uppdaterade | Att förvaltningen följer<br>GDPR-lagstiftningen | 2020-01-01 | 2020-12-<br>31 |
+|  |  | Att framtagna rutiner<br>för<br>personuppgiftsinciden<br>ter följs | Följsamhet till rutin för<br>personuppgiftsincident | 2020-01-01 | 2020-12-<br>31 |
+|  | Bristande följsamhet<br>till riktlinje för<br>händelserapportering | Följsamhet till<br>riktlinje för<br>händelserapportering<br>2020 | Händelserapportering | 2017-12-01 | 2019-12-<br>31 |
+|  | Risk att processen<br>ansökan-beslut-<br>verkställighet inte<br>följs | Processen ansökan-<br>beslut-verkställighet<br>inte följs | Att rättssäkerheten för den<br>enskilde är god | 2020-01-01 | 2020-12-<br>31 |
+|  | Risk att<br>genomförandeplan ej<br>upprättas korrekt | Journalgranskning –<br>genomförandeplaner | Delaktighet i<br>genomförandeplan | 2017-12-01 | 2019-12-<br>31 |
+|  | Bristande följsamhet<br>till gällande riktlinjer<br>för<br>dokumentation, för<br>omsorgspersonal. | Granskning av journal | Uppföljning av<br>dokumentation,<br>omsorgspersonal | 2019-01-01 | 2019-12-<br>31 |
+|  | Bristande följsamhet<br>till riktlinjen för lex<br>Sarah | Kontroll av<br>utredningsarbetet<br>kring Lex Sarah | Lex Sarah | 2019-01-01 | 2019-12-<br>31 |
+|  | Brister i följsamhet till<br>riktlinjen för hälso-<br>och<br>sjukvårdsdokumentati<br>on | Brister i följsamhet till<br>riktlinjen för hälso-<br>och<br>sjukvårdsdokumentati<br>on | Granskning av hälso-och<br>sjukvårddokumentation | 2019-01-01 | 2019-12-<br>31 |
+|  | Bristande<br>informationssäkerhet<br>avseende<br>dokumentation hälso-<br>och sjukvård och<br>socialtjänst | Internutredningar, lex<br>Sarah och lex Maria<br>samt koppling till<br>NIS- och GDPR-<br>anmälningar. | Internutredningar, lex Sarah<br>och lex Maria samt koppling<br>till NIS- och GDPR-<br>anmälningar. | 2020-01-01 | 2020-12-<br>31 |
+|  |  |  | Säkerställa att det reviderade<br>ledningssystemet för<br>systematiskt kvalitetsarbete<br>omfattar<br>informationssäkerheten | 2020-01-01 | 2020-12-<br>31 |
+|  | Risk att inte kunderna<br>får någon vård eller<br>omsorg i samband<br>med konkurs eller<br>uppsägning av avtal<br>med extern<br>hemtjänstutförare. | Att förvaltningen har<br>en rutin framtagen för<br>tillvägagångssätt i<br>händelse av<br>uppsägning av avtal<br>eller konkurs | Att förvaltningen säkerställt<br>alla kunders rätt till vård och<br>omsorg | 2020-01-01 | 2020-12-<br>31 |
+|  | Bristande<br>läkartillgänglighet | Läkartillgänglighet | Läkartillgänglighet | 2020-01-01 | 2020-12-<br>31 |
 
 <!-- sida 52 -->
 
@@ -1774,16 +1784,15 @@ Nämnden för Vård & Omsorg
 
 Information
 
-62-20-3102
-
-,0.2v
-,1001BUK
 Månadsrapport september 2019
+
 Utfall & prognos i driften
+
 Verksamhet             Budgetavvikelse      Helårsprognos
 
 ```osaker-tabell
 Nämnd                           159                   0
+
 Förvaltningsgemensamt         10 643               9 600
 Kvarboende                     -7 611              -4 900
 VÅBO                           -1 254              -1 500        1 (7)
@@ -1796,20 +1805,33 @@ Myndighetsutövning             7 689               2 000
 Dnr
 Entreprenader                   -474                -800
 VO/2019:217
+
 Varav resultatfondsprojekt i tkr
+
 Utfall Helårsprognos
+
 Övriga projekt
 Mobilt Arbetssätt (fridel 349,397)                0
+
 Summa:                                                         0
+
 Total i tkr
+
 Helårsprognos
+
 Drift                                                          0
 Projekt                                                        0
+
 0
+
 Investeringar, tkr
+
 Utfall     Budget      Helårsprognos
 Löpande investeringar         2 654      7 665              7 665
+
 Övriga investeringar          3 831      5 619              5 619
+
+KUB1001, v2.0, 2013-02-26
 
 [Tabell 57-1](handlingar.tabeller/57-1.csv)
 
@@ -2031,14 +2053,64 @@ Antal personer som väntar på en plats till särskilt boende
 
 0
 
+Demens Somatik
+
 I september 2018 öppnade Sandlyckan och från augusti samma år har därför fler än
 vanligt kunnat erbjudas plats på boende, vilket minskade kön.
-luJ guA peS tkO voN ceD 8102
-naJ
-beF raM rpA jaM nuJ luJ guA peS tkO voN ceD 9102
-naJ
-beF raM rpA jaM nuJ luJ guA peS
-Demens Somatik
+
+Jul
+
+Aug
+
+Sep
+
+Okt
+
+Nov
+
+Dec
+
+Jan 2018
+
+Feb
+
+Mar
+
+Apr
+
+Maj
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Okt
+
+Nov
+
+Dec
+
+Jan 2019
+
+Feb
+
+Mar
+
+Apr
+
+Maj
+
+Jun
+
+Jul
+
+Aug
+
+Sep
 
 <!-- sida 62 -->
 
@@ -2420,14 +2492,14 @@ boende och var mellan 19-84 år så hade 383 personer även sociala insatser i h
 
 [Tabell 71-1](handlingar.tabeller/71-1.csv)
 
-| Antal patienter Antal |  |
+| Antal patienter | Antal |
 | --- | --- |
 | 0-w år | 830 |
 | 19–84 år | 482 |
 
 [Tabell 71-2](handlingar.tabeller/71-2.csv)
 
-| Kommun Avgift (2019) |  |
+| Kommun | Avgift (2019) |
 | --- | --- |
 | Mölndal | 376 kr/ månad |
 | Göteborg | Ingen avgift |
