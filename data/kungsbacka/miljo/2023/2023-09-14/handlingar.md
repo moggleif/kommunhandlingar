@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20250324025117id_/https://kungsbacka.se/d
 sha256: 9f895621312c58c2f695898c90a41047e8a3e61118a9ef2279d06f208bd5d757
 bytes: 4554201
 sidor: 99
-hamtad: 2026-11-17T01:18:05+00:00
-konverterad: 2026-11-17T01:18:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T13:28:29+00:00
+konverterad: 2026-11-21T13:28:53+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [62, 63, 65, 67, 92, 94]
 tolkade: []
@@ -828,8 +828,13 @@ hänger samman med kontrollen.
 | 25.51 | 30 kap. 3 §: Besluta om miljösanktionsavgift | FC | VC, EC,<br>MHI | Innan beslut<br>om avgift<br>skall den som<br>anspråket<br>riktas mot<br>ges tillfälle<br>att yttra sig. |
 | 26 | Miljöprövningsförordningen (2013:251) |  |  |  |
 | 26.1 | 1 kap. 10,11 §§: Besluta i ärenden avseende<br>anmälningsplikt. | FC | VC, EC,<br>MHI |  |
-| 27 | Förordning (2016:1128) om fluorerade<br>växthusgaser |  |  |  |
-| 27.1 | Förordningen om fluorerade växthusgaser och<br>2 kap. 31 § p. 5 miljötillsynsförordningen:<br>Besluta i anmälnings- och tillsynsärende om<br>anläggningar som innehåller fluorerade<br>växthusgaser och ozonnedbrytande ämnen | FC | VC, EC,<br>MHI |  |
+| 27 | Förordning (2016:1128) om fluorerade |  |  |  |
+|  | växthusgaser |  |  |  |
+| 27.1 | Förordningen om fluorerade växthusgaser och | FC | VC, EC,<br>MHI |  |
+|  | 2 kap. 31 § p. 5 miljötillsynsförordningen: |  |  |  |
+|  | Besluta i anmälnings- och tillsynsärende om |  |  |  |
+|  | anläggningar som innehåller fluorerade |  |  |  |
+|  | växthusgaser och ozonnedbrytande ämnen |  |  |  |
 | 28 | Förordningen om miljöfarlig verksamhet<br>och hälsoskydd (1998:899) |  |  |  |
 | 28.1 | 5, 22, & 26 §§: Avge yttrande till Läns-<br>styrelsen i anmälningsärende angående<br>mindre ändring av tillståndspliktig<br>miljöfarlig verksamhet. | FC | VC, EC,<br>MHI |  |
 | 28.2 | 13 § 1 & 2 stycket: Besluta i ärende om<br>tillstånd att inrätta avloppsanordning med<br>ansluten vattentoalett.<br>Besluta i ärende om tillstånd att ansluta<br>vattentoalett till befintlig avloppsanordning.<br>Besluta i ärende om anmälan för att inrätta<br>annan avloppsanordning än sådan som<br>kräver tillstånd. | FC | VC, EC,<br>MHI |  |
@@ -1194,14 +1199,6 @@ Delårsrapport Augusti 2023
 
 Utfall och prognos
 
-Bokslut Budget Progno Budgetav Delår Delår  Avvikels
-Miljoner kronor
-2022   2023   s 2023 vikelse 2022   2023   e delår
-Nämnden för Miljö &
--0,8   -0,9   -0,9     0,0   -0,5    -0,7   -0,2
-Hälsoskydd
-Projekt utbildning    0    -0,4   -0,2     0,2    0       0       0
-Periodens resultat  -0,8   -1,3   -1,1     0,2   -0,5    -0,7   -0,2
 Från och med 1 januari 2020 har nämnden för Miljö och hälsoskydd endast budgetansvar för nämndens egen driftsbudget som för år
 2022 är 0,9 mnkr. Till nämndens budget tillkommer en ombudgetering på 0,4 mnkr från år 2022 som avser utbildning. Nämndens totala
 budget för 2023 blir då sammantaget 1,3 mnkr.
@@ -1229,6 +1226,14 @@ Prognosen per augusti är oförändrad jämfört med bedömningen per april.
 5
 
 [Tabell 46-1](handlingar.tabeller/46-1.csv)
+
+| Miljoner kronor | Bokslut<br>2022 | Budget<br>2023 | Progno<br>s 2023 | Budgetav<br>vikelse | Delår<br>2022 | Delår<br>2023 | Avvikels<br>e delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nämnden för Miljö &<br>Hälsoskydd | -0,8 | -0,9 | -0,9 | 0,0 | -0,5 | -0,7 | -0,2 |
+| Projekt utbildning | 0 | -0,4 | -0,2 | 0,2 | 0 | 0 | 0 |
+| Periodens resultat | -0,8 | -1,3 | -1,1 | 0,2 | -0,5 | -0,7 | -0,2 |
+
+[Tabell 46-2](handlingar.tabeller/46-2.csv)
 
 | Nämnd/förvaltning | Helårsprognos delår 1<br>(mkr) | Helårsprognos delår 2<br>(mkr) | Förändring prognos<br>(mkr) |
 | --- | --- | --- | --- |

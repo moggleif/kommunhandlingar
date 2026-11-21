@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240901062708id_/https://kungsbacka.se/d
 sha256: 116a23fb8231907559be3fd09088a48b035e702f3216a58877bec0c62671dac0
 bytes: 24935042
 sidor: 101
-hamtad: 2026-10-20T09:23:18+00:00
-konverterad: 2026-10-20T09:24:11+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T13:31:54+00:00
+konverterad: 2026-11-21T13:33:15+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -1440,7 +1440,7 @@ Sammanträdesdatum
 
 2014-02-19
 
-\$9
+§9
 
 Utredning kring förutsättningar för visning av värdefulla
 föremål
@@ -1523,7 +1523,7 @@ Bavitfnas?
 
 <!-- sida 42 -->
 
-FESENSSIISARENSENOEST  FIRGRAESIPISSSOR NISSAN nn grn
+FESENSSIISARESENSOEST  FIRGRAPIIPASSSOENIESA SNES grn
 
 Kungsbacka stadsfullmäktige
 
@@ -1604,8 +1604,6 @@ Växjö den 8 april 1969
 
 Stig Tornehed
 
-I RA Jå
-
 <!-- sida 44 -->
 
 UNGSBACKA STADSBIBLIOTEK
@@ -1648,7 +1646,7 @@ manträde med Stadsfullmäktige i Kungsbacka
 
 den 11 september 1969.
 
-\$ 120.
+§ 120.
 
 Företogs till behandling en av stadsfullmäktigeledamoten
 herr Gösta Svensson såsom egen motion upptagen framställning
@@ -3461,11 +3459,11 @@ Dagvattenstrategi
 
 Annat
 
-ser m ons»
-
 2023-08-30
 
 Elisabeth Sahlsten och Maria Losman
+
+ser m ons»
 
 <!-- sida 91 -->
 
