@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320014102id_/https://www.kungsbacka.
 sha256: 8a5d94bf3727f0aa8f4eae13e201d276e3135c0cab71f3056790466d59b33a44
 bytes: 758742
 sidor: 30
-hamtad: 2026-10-31T11:06:08+00:00
-konverterad: 2026-10-31T11:06:14+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:36:08+00:00
+konverterad: 2026-11-21T01:36:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -26,7 +26,7 @@ granskad: null
 
 <!-- sida 1 -->
 
-KUNGSBACKA KOMMUN                  SAMMANTRÄDESPROTOKOLL
+KUNGSBACKA KOMMUN                   SAMMANTRÄDESPROTOKOLL
 Nämnden för Vård & Omsorg
 Datum
 2021-02-17
@@ -34,15 +34,25 @@ Datum
 Plats och tid för Miniborg, Borgmästaregatan 5a Klockan 13:00-16.25
 sammanträde
 Kungsbacka
-Beslutande   Ledamöter                    Tjänstepersoner
-Hravn Forsne (M), Ordförande Lillemor Berglund Andreasson,
-Bengt Alderin (C), 1:e vice ordförande förvaltningschef
-Maj-Britt Rane-Andersson (S), 2:e vice Carl Odhnoff, nämndsekreterare
-ordförande §§1-13            Annakarin Svennebjer, ekonomichef
-Gunilla Rivle (L), ersättare för Maj-Britt Helene Ljungqvist, verksamhetschef
-Rane-Andersson (S) §§14-19   Ann-Helen Svensson, verksamhetschef
 
-Annika Hamberg (M)           Maria Hallberg, verksamhetschef
+Beslutande   Ledamöter
+Hravn Forsne (M), Ordförande
+Bengt Alderin (C), 1:e vice ordförande
+Maj-Britt Rane-Andersson (S), 2:e vice
+ordförande §§1-13
+Gunilla Rivle (L), ersättare för Maj-Britt
+Rane-Andersson (S) §§14-19
+Annika Hamberg (M)
+
+Tjänstepersoner
+Lillemor Berglund Andreasson,
+förvaltningschef
+Carl Odhnoff, nämndsekreterare
+Annakarin Svennebjer, ekonomichef
+Helene Ljungqvist, verksamhetschef
+Ann-Helen Svensson, verksamhetschef
+Maria Hallberg, verksamhetschef
+
 Barbro Hjelström (M)         Anna Gröneberg, MAS §1, 8
 Bo Barknertz (M)             Therése Lindén, SAS §2
 Ulrika Högstrand (KD)        Damir Mahmutovic, utvecklingsledare §3
@@ -50,6 +60,7 @@ Tommy Bech (SD)              Linda Tilander, utvecklingsledare §9
 Elisabeth Svensson (SD)      Helena Carlstrand, utvecklingsledare §10
 Hanna Schölander (L)         Emma Davachi, dietist §10
 Osama Mohamad Mesto (C), ersättare för Helen Freyschuss, enhetschef §11
+
 Christian Skogholm (S)       Kristina Hillborg, sjuksköterska §11
 Johan Sandström, personalchef §13
 
