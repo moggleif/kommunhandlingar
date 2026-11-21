@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250324031559id_/https://kungsbacka.se/d
 sha256: 11dba030e42e604c215c52a950489ac6c7df32f02193360d81aa27e02a93d4f5
 bytes: 487350
 sidor: 18
-hamtad: 2026-10-20T08:59:01+00:00
-konverterad: 2026-10-20T08:59:05+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T12:54:35+00:00
+konverterad: 2026-11-21T12:56:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -47,35 +47,35 @@ Marcus Clarin (M) Katarina Öryd, förvaltningschef
 Mikael Delin (S) Tina Carlson, verksamhetschef
 Ingolf Johnsson (SD) Christina Nordberg, controller
 Marie-Louise Rolf (L) Kasra Hassirian, förvaltningsjurist
-\$\$ 105-109
+§§ 105-109
 Annika Nally, HR-specialist
-\$\$ 105-110
+§§ 105-110
 
 Anders Eriksson, miljö-och
-hälsoskyddsinspektör \$ 118.2
+hälsoskyddsinspektör § 118.2
 Jakob Sjöling, miljö-och
-hälsoskyddsinspektör \$ 118.2
+hälsoskyddsinspektör § 118.2
 Jenny Almqvist, miljö-och
-hälsoskyddsinspektör \$ 118.2
+hälsoskyddsinspektör § 118.2
 Yaneth Rosander, miljö-och
-hälsoskyddsinspektör \$ 118.2
+hälsoskyddsinspektör § 118.2
 Sofie Lindquist, miljö-och
-hälsoskyddsinspektör \$ 118.2
+hälsoskyddsinspektör § 118.2
 Jesper Edlind, HR-chef,
 kommunstyrelsens förvaltning
 
-\$ 118.1 digitalt
+§ 118.1 digitalt
 
 Anneli Skoglund, utvecklingschef,
 kommunstyrelsens förvaltning
 
-\$ 118.1 digitalt
+§ 118.1 digitalt
 
 Amanda Toresson, nämndsekreterare
 
 Plats och tid för justering Digital justering, 2023-10-19
 
-Sekreterare Amanda Toresson Paragrafer. \$\$ 105-118
+Sekreterare Amanda Toresson Paragrafer. §§ 105-118
 
 Ordförande Niclas Nilsson (M)
 

@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20250317142851id_/https://kungsbacka.se/d
 sha256: c43361a7e1a2b781d459730d9e1b7f704c4eb737ae2df11f96a97bbc9b0e22a9
 bytes: 3971336
 sidor: 65
-hamtad: 2026-11-17T01:05:15+00:00
-konverterad: 2026-11-17T01:05:31+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T12:56:29+00:00
+konverterad: 2026-11-21T12:57:07+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [8]
-figurer: [40]
+figurer: []
 tolkade: []
 granskad: null
 ---
@@ -515,16 +515,6 @@ Kommentar på nämndmål
 
 Se 2.1
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-2023 är Kungsbacka kommun en certifierad                     Erhållen
-\-       -       -
-blåljuskommun. \*                                            certifiering
-Andel avvikelser vid tillsynsbesök hos
-verksamhetsutövare med serverings-tillstånd.
-Indikatorn redovisas genom en analys av - -     -
-uppföljning av hur avvikelserna åtgärdats av
-verksamhetsutövaren. \*\*
 \*Definition av en ”certifierad blåljuskommun”. För Sveriges blåljusaktörer (alarmeringscentraler, ambulans,
 polis, räddningstjänst) är kartan ett viktigt arbetsredskap. Karta och positionering (geodata) används både hos
 larmcentral och i utryckningsfordon för att snabbt komma till den plats där hjälpinsats krävs. Vid en
@@ -539,12 +529,21 @@ urval av geodata från Lantmäteriet och Trafikverket. Rekommendationerna gör d
 att skapa en gemensam bakgrundskarta för såväl alarmeringscentraler, ambulans, polis och räddningstjänst.
 MSB rekommenderar alla blåljusaktörer att använda utpekade geodata från Lantmäteriet och Trafikverket som
 bakgrundskarta i sina system.
+
 \*\* Att endast titta på antal tillsynsbesök kan bli missvisande som indikator på hur trygga krogmiljöerna är. Om
 man även tittar på andelen avvikelser samt gör en beskrivning av hur de har följts upp gör det att bilden blir
 tydligare, dvs. indikatorn ska inte bara bestå av ett kvantitetmått utan även åtföljas av en beskrivning.
 Vid en krogtillsyn kontrolleras bland annat ordning och nykterhet, matutbud, alkoholfria alternativ, prissättning,
 
 5
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| 2023 är Kungsbacka kommun en certifierad<br>blåljuskommun. \* | - | - | - |  | Erhållen |
+|  |  |  |  |  | certifiering |
+| Andel avvikelser vid tillsynsbesök hos<br>verksamhetsutövare med serverings-tillstånd.<br>Indikatorn redovisas genom en analys av<br>uppföljning av hur avvikelserna åtgärdats av<br>verksamhetsutövaren. \*\* | - | - | - |  |  |
 
 <!-- sida 15 -->
 
@@ -643,21 +642,15 @@ inom ramen för sitt myndighetsuppdrag. Tillsynsarbetet planeras och följs upp 
 Samtliga tillsynsaktiviteter kopplade till målet har startats, förutom inventering av vattenskyddsområde som
 kommer påbörjas under hösten.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Antal avvikelser vid inventering av
-vattenskyddsområde utifrån beslutad -   -       -      0
-tillsynsplan.
-Antal uppstartade tillsynsärenden av
-förorenade områden i riskklass 1 och 2 som - -  -      3       3
-ska vara åtgärdade senast år 2050.
-Uppföljning av fokusområde i tillsynen av ljus,
-buller, ventilation och luftkvalitet i                Delvis
-\-       -       -
-undervisningslokaler, vård- och                      uppnått
-omsorgsboenden samt särskilda boenden.
-
 7
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal avvikelser vid inventering av<br>vattenskyddsområde utifrån beslutad<br>tillsynsplan. | - | - | - | 0 |  |
+| Antal uppstartade tillsynsärenden av<br>förorenade områden i riskklass 1 och 2 som<br>ska vara åtgärdade senast år 2050. | - | - | - | 3 | 3 |
+| Uppföljning av fokusområde i tillsynen av ljus,<br>buller, ventilation och luftkvalitet i<br>undervisningslokaler, vård- och<br>omsorgsboenden samt särskilda boenden. | - | - | - | Delvis<br>uppnått |  |
 
 <!-- sida 17 -->
 
@@ -702,18 +695,18 @@ samt några nedskräpningsärenden.
 Varje avvikelse som uppmärksammas och åtgärdas vid tillsyn verkar för att miljökvalitetsnormer för vatten följs
 med målet att på sikt förbättra den ekologiska statusen i våra vattendrag.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Antal nya miljöpåverkande verksamheter
-som hittas i inventering av en utvald - -       -      5
-vattenförekomst.
-
 2.3 Bästa företagsklimatet i Västsverige
 
 Beslutats av
 Kommunfullmäktige
 
 8
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal nya miljöpåverkande verksamheter<br>som hittas i inventering av en utvald<br>vattenförekomst. | - | - | - | 5 |  |
 
 <!-- sida 18 -->
 
@@ -757,26 +750,18 @@ Kommuner och regioner, SKR. Utfallet för perioden visar på en ökning inom myn
 livsmedel och en minskning för miljö. Resultaten för serveringen har för få svar för att kunna utvisa på ett
 resultat.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-
-Handläggningstid bygglov företagsärenden
-(tid från komplett ansökan till beslut), 8      4      5       8
-veckor
-
-Andel nybyggnadskartor som levereras inom
-20%     50%
-15 dagar
-
 9
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| NKI totalt värde, Nöjd-Kund-Index, bygglov | 40 | 42 | 45 | 64 | 62 |
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
 | --- | --- | --- | --- | --- | --- |
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 40 | 42 | 45 | 64 | 62 |
 | NKI totalt värde, Nöjd-Kund-Index, miljöskydd | 65 | 65 | 69 | 57 | 72 |
 | NKI totalt värde, Nöjd-Kund-Index, livsmedel | 72 | 75 | 76 | 83 | 78 |
 | NKI totalt värde, Nöjd-Kund-Index, servering | 72 | 81 | 87 |  | 84 |
+| Handläggningstid bygglov företagsärenden<br>(tid från komplett ansökan till beslut), 8<br>veckor |  |  | 4 | 5 | 8 |
+| Andel nybyggnadskartor som levereras inom<br>15 dagar |  |  |  | 20% | 50% |
 
 <!-- sida 19 -->
 
@@ -819,18 +804,16 @@ upplåta plats för examensarbete och praktik på förvaltningen under hösten 2
 Under våren erbjöd vi plats för sju prao-elever varav fem platser blev fyllda. Under hösten kommer vi erbjuda
 ytterligare sex platser.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Antal mottagna PRAO-elever från högstadiet. 6  11      5       10
-Antal mottagna studenter från yrkeshögskola
-3       2      2       2
-och universitet för praktik
-Antal mottagna övriga praktikanter      0       2      1       3
-Antal uppsatsarbeten där Bygg- och
-0       2      1       2
-miljöförvaltningen medverkat
-
 10
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal mottagna PRAO-elever från högstadiet. |  | 6 | 11 | 5 | 10 |
+| Antal mottagna studenter från yrkeshögskola<br>och universitet för praktik |  | 3 | 2 | 2 | 2 |
+| Antal mottagna övriga praktikanter |  | 0 | 2 | 1 | 3 |
+| Antal uppsatsarbeten där Bygg- och<br>miljöförvaltningen medverkat |  | 0 | 2 | 1 | 2 |
 
 <!-- sida 20 -->
 
@@ -935,16 +918,15 @@ en insats kring chefers arbetsmiljö kopplat till Utvecklande Ledarskap (UL). In
 För att ha ett ständigt lärande inom förvaltningen ges alla medarbetare möjlighet att skugga en kollega från en
 annan enhet för att lära, inspireras och motiveras av varandra. Det bidrar även till att vi lär känna varandra inom
 förvaltningen och minskar gränserna mellan avdelningarna.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Motivation och ledarskap (HME, hållbart
-78,4    76,5    76
-medarbetarengagemang. Helt värde.)
-Andel medarbetare som utbildats i
-\-       -      85%    95%
-Utvecklande medarbetarskap (UM).
 
 12
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Motivation och ledarskap (HME, hållbart<br>medarbetarengagemang. Helt värde.) | 78,4 | 76,5 | 76 |  |  |
+| Andel medarbetare som utbildats i<br>Utvecklande medarbetarskap (UM). | - | - | 85% | 95% |  |
 
 <!-- sida 22 -->
 
@@ -985,25 +967,20 @@ digitalisering och innovation. Alla områden är igång. Några exempel är föl
 invånare och företag själva ska kunna ta del av allmänna handlingar, vilket ökar tillgänglighet och servicegrad.
 Digitalisering av detaljplaner som ska möjliggöra att vi kan ställa om till nya arbetssätt och skapa innovativa
 lösningar för våra invånare och företag samt skapa en hållbar digital samhällsbyggnadsprocess.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Nyttjandegrad e-tjänst "Söka bygglov för att
-\-       -       -     69%     70%
-bygga nytt"
-Öka nyttjandegrad av e-tjänst "Anmäla
-\-       -       -     68%     Öka
-installation av värmepumpsanläggning"
-Handläggningstid prövning registrering av
-livsmedelsanläggning - från komplett
-\-       -       -      3       5
-anmälan till beslut - (analog ansökan), 5
-arbetsdagar.
-NKI totalt värde, Nöjd-Kund-Index, bygglov 37 41 47    58      -
-NKI totalt värde, Nöjd-Kund-Index, miljöskydd 65 62 68 60      -
-NKI totalt värde, Nöjd-Kund-Index, livsmedel 72 75 76  83      -
-NKI totalt värde, Nöjd-Kund-Index, servering 72 81 87          -
 
 13
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Nyttjandegrad e-tjänst "Söka bygglov för att<br>bygga nytt" | - | - | - | 69% | 70% |
+| Öka nyttjandegrad av e-tjänst "Anmäla<br>installation av värmepumpsanläggning" | - | - | - | 68% | Öka |
+| Handläggningstid prövning registrering av<br>livsmedelsanläggning - från komplett<br>anmälan till beslut - (analog ansökan), 5<br>arbetsdagar. | - | - | - | 3 | 5 |
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 37 | 41 | 47 | 58 | - |
+| NKI totalt värde, Nöjd-Kund-Index, miljöskydd | 65 | 62 | 68 | 60 | - |
+| NKI totalt värde, Nöjd-Kund-Index, livsmedel | 72 | 75 | 76 | 83 | - |
+| NKI totalt värde, Nöjd-Kund-Index, servering | 72 | 81 | 87 |  | - |
 
 <!-- sida 23 -->
 
@@ -1169,29 +1146,6 @@ effektivare arbetssätt.
 
 4.2 Prestationsmått
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Handläggningstid prövning värmepump-
-från komplett ansökan/anmälan till - -      16      21        15
-beslut. 14 arbetsdagar
-
-Handläggningstid prövning registrering
-av livsmedelsanläggning - från komplett
-\-       -       -      10         3
-anmälan till beslut - (analog ansökan),
-5 arbetsdagar.
-Handläggningstid från ärende komplett
-till beslut för bygglov, en- och 10 13      16      7          4
-tvåbostadshus, veckor median
-
-Handläggningstid från ärende komplett
-till beslut, bygglov privatpersoner - -      8      4          4
-(veckor median)
-Handläggningstid från ärende komplett
-till beslut, bygglov företag (veckor - -     8      4          5
-median)
-Ärendebalans - alla ärenden  -       -     100%    113%     103%
-
 Utfall 2023 avser perioden januari-augusti 2023
 
 4.3 Effektmått
@@ -1200,51 +1154,41 @@ Utfall 2023 avser perioden januari-augusti 2023
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Nybyggnadskartor | 233 | 262 | 240 | 151 | 82 |
-| --- | --- | --- | --- | --- | --- |
-| Husutstakningar | 259 | 257 | 298 | 318 | 163 |
-| Lägeskontroller | 113 | 110 | 124 | 182 | 76 |
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Handläggningstid prövning värmepump-<br>från komplett ansökan/anmälan till<br>beslut. 14 arbetsdagar | - | - | 16 | 21 | 15 |
+|  | Handläggningstid prövning registrering<br>av livsmedelsanläggning - från komplett<br>anmälan till beslut - (analog ansökan),<br>5 arbetsdagar. | - | - | - | 10 | 3 |
+|  | Handläggningstid från ärende komplett<br>till beslut för bygglov, en- och<br>tvåbostadshus, veckor median | 10 | 13 | 16 | 7 | 4 |
+|  | Nybyggnadskartor | 233 | 262 | 240 | 151 | 82 |
+|  | Husutstakningar | 259 | 257 | 298 | 318 | 163 |
+|  | Lägeskontroller | 113 | 110 | 124 | 182 | 76 |
+|  | Handläggningstid från ärende komplett<br>till beslut, bygglov privatpersoner<br>(veckor median) | - | - | 8 | 4 | 4 |
+|  | Handläggningstid från ärende komplett<br>till beslut, bygglov företag (veckor<br>median) | - | - | 8 | 4 | 5 |
+|  | Ärendebalans - alla ärenden | - | - | 100% | 113% | 103% |
 
 <!-- sida 28 -->
 
 Byggnadsnämnden                                  Kungsbacka kommun
 Delårsrapport augusti 2023
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Antal påbörjade bostäder (beviljade
-181     149     215   199         95
-bygglov) - en- och tvåbostadshus
-Antal påbörjade bostäder (beviljade
-144     168     82    649         17
-bygglov) - lägenheter i flerbostadshus
-Andel levererade nybyggnadskartor
-\-       -     30,7%  13,3%      20%
-inom 15 arbetsdagar (i procent)
-Andel bygglovsärenden som klarar
-lagstadgad handläggningstid (10 -    -      58%   78%        85%
-veckor)
-Andel rätt vid överprövning - Av beslut
-tagna av Länsstyrelsen innevarande år 76% 63% 78% 67%        67%
-(Plan- och bygglagen)
-Antal färdigställda bostäder (beviljade
-172     125     90    181        113
-slutbesked) - En- och tvåbostadshus
-Antal färdigställda bostäder (beviljade
-slutbesked) - lägenheter i  253     123     260   182        163
-flerbostadshus
-Andel rätt vid överprövning - Av beslut
-tagna av Länsstyrelsen innevarande år - -    -    -         100%
-(Miljöbalken)
-Andel rätt vid överprövning - Av beslut
-tagna av Länsstyrelsen innevarande år - -    -    -         100%
-(Livsmedelslagen)
-Andel rätt vid överprövning - Av beslut
-tagna av Länsstyrelsen innevarande år - -    -    -         100%
-(Alkohollagen)
 Utfall 2023 avser perioden januari-augusti 2023
 
 19
+
+[Tabell 28-1](handlingar.tabeller/28-1.csv)
+
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Antal påbörjade bostäder (beviljade<br>bygglov) - en- och tvåbostadshus | 181 | 149 | 215 | 199 | 95 |
+|  | Antal påbörjade bostäder (beviljade<br>bygglov) - lägenheter i flerbostadshus | 144 | 168 | 82 | 649 | 17 |
+|  | Andel levererade nybyggnadskartor<br>inom 15 arbetsdagar (i procent) | - | - | 30,7% | 13,3% | 20% |
+|  | Andel bygglovsärenden som klarar<br>lagstadgad handläggningstid (10<br>veckor) | - | - | 58% | 78% | 85% |
+|  | Andel rätt vid överprövning - Av beslut<br>tagna av Länsstyrelsen innevarande år<br>(Plan- och bygglagen) | 76% | 63% | 78% | 67% | 67% |
+|  | Antal färdigställda bostäder (beviljade<br>slutbesked) - En- och tvåbostadshus | 172 | 125 | 90 | 181 | 113 |
+|  | Antal färdigställda bostäder (beviljade<br>slutbesked) - lägenheter i<br>flerbostadshus | 253 | 123 | 260 | 182 | 163 |
+|  | Andel rätt vid överprövning - Av beslut<br>tagna av Länsstyrelsen innevarande år<br>(Miljöbalken) | - | - | - | - | 100% |
+|  | Andel rätt vid överprövning - Av beslut<br>tagna av Länsstyrelsen innevarande år<br>(Livsmedelslagen) | - | - | - | - | 100% |
+|  | Andel rätt vid överprövning - Av beslut<br>tagna av Länsstyrelsen innevarande år<br>(Alkohollagen) | - | - | - | - | 100% |
 
 <!-- sida 29 -->
 
@@ -1515,18 +1459,6 @@ Delårsrapport augusti 2023
 
 Utfall och prognos
 
-Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
-Miljoner kronor
-2022    2023   2023   avvikelse 2022   2023    delår
-Byggnadsnämnde
--1,3    -1,7    -1,5    0,2    -0,9    -1,0    -0,1
-n
-Geodata &
-Bygglov
-
-Periodens
--35,4   -38,5   -38,5    0,0    -24,6  -27,3    -2,7
-resultat
 Sammanfattning - text till kommunstyrelsen
 Resultat per augusti
 
@@ -1554,12 +1486,18 @@ Kostnaderna väntas avvika mot budget med +1,8 miljoner kronor. Det beror i för
 
 [Tabell 34-1](handlingar.tabeller/34-1.csv)
 
-| Intäkter | 34 | 24,6 | 24,2 | -0,4 | 21,6 | 16,5 | -5,1 |
+| Miljoner kronor | Bokslut<br>2022 | Budget<br>2023 | Prognos<br>2023 | Budget-<br>avvikelse | Delår<br>2022 | Delår<br>2023 | Avvikelse<br>delår |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Byggnadsnämnde<br>n | -1,3 | -1,7 | -1,5 | 0,2 | -0,9 | -1,0 | -0,1 |
+|  |  |  |  |  |  |  |  |
+| Geodata &<br>Bygglov |  |  |  |  |  |  |  |
+| Intäkter | 34 | 24,6 | 24,2 | -0,4 | 21,6 | 16,5 | -5,1 |
 | Kostnader | -53,8 | -47 | -45,2 | 1,8 | -35,7 | -30,7 | 5,0 |
+|  |  |  |  |  |  |  |  |
 | Miljö & Hälsoskydd |  |  |  |  |  |  |  |
 | Intäkter | 16 | 19 | 16,7 | -2,3 | 10,5 | 10,4 | -0,1 |
 | Kostnader | -30,3 | -33,4 | -32,7 | 0,7 | -20,1 | -22,5 | -2,4 |
+| Periodens<br>resultat | -35,4 | -38,5 | -38,5 | 0,0 | -24,6 | -27,3 | -2,7 |
 
 <!-- sida 35 -->
 
@@ -1829,17 +1767,18 @@ Delårsrapport augusti 2023
 
 7 Verksamhet    som   utförs  av externa   aktörer
 
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym  verksamhet
-Delår   Delår   Delår   Delår
-2022   2023    2022    2023
-
 Verksamhet som utför av externa aktörer - text till kommunstyrelsen
 
 Detta avsnitt är inte aktuellt för Byggnadsnämnden.
 
 31
+
+[Tabell 40-1](handlingar.tabeller/40-1.csv)
+
+| Verksamhet | Andel av<br>verksamhetsvolym |  | Kostnad för<br>verksamhet |  |
+| --- | --- | --- | --- | --- |
+|  | Delår<br>2022 | Delår<br>2023 | Delår<br>2022 | Delår<br>2023 |
+|  |  |  |  |  |
 
 <!-- sida 41 -->
 
