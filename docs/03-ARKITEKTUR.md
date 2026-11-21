@@ -71,7 +71,9 @@ Hur och varför står i
   flaggan påslagen konverteras hela poolen om under de närmaste
   nätterna. PDF:en sparas inte mellan körningarna; den hämtas igen.
   Ett granskat dokument konverteras inte om
-  ([Granskade dokument](#granskade-dokument)).
+  ([Granskade dokument](#granskade-dokument)), och inte heller ett som
+  är `full`: dess sidor är redan lästa så bra som de kan bli (K72,
+  [ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)).
 - **Det som en gång tagits in tas inte bort** (K12,
   [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
   dokument står kvar när det försvinner ur källan, och historiken på
@@ -852,11 +854,12 @@ Varje sida får en kvalitet:
 
 | Sida             | Betyder                                                          |
 | ---------------- | ---------------------------------------------------------------- |
-| `ej-konverterad` | Sidan har fler än 500 000 tecken, eller skulle läsas med OCR men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln. Ingen text från sidan skrivs. |
+| `ej-konverterad` | Sidan har fler än 500 000 tecken, eller skulle läsas med OCR men Tesseract kände inte igen några ord eller medelsäkerheten nådde inte tröskeln, också med bildytan maskad och vänd, och sidan är varken en bild eller nästan tom. Ingen text från sidan skrivs. |
+| `bild`           | Sidan skulle läsas med OCR, nådde inte tröskeln, och är till största delen ett foto, en karta eller en ritning (K72). Ingen text från sidan skrivs. |
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
 | `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
-| `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit.          |
+| `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit, eller skulle läsas med OCR, nådde inte tröskeln, och nästan inget på den är mörkt (K72). |
 
 Först räknas sidans tecken med pypdfium2. Har textlagret fler än 500 000
 tecken läses sidan inte: den blir `ej-konverterad` och står i `figurer`
@@ -892,10 +895,9 @@ nattkörningen checkar inte in något
   skanningar. Säkerheten är medelvärdet av Tesseracts säkerhet för de
   ord den känt igen (poster med säkerhet −1 räknas inte). Är den minst 70
   blir sidan `ocr`. Annars, och när Tesseract inte känner igen några ord,
-  blir den `ej-konverterad`: den har innehåll, en karta, ett foto eller
-  handskrift, som inte blev text. Tesseract körs utan
-  orienteringsdetektering, så en liggande skanning blir också
-  `ej-konverterad`. Fallerar Tesseract på en sida, eller blir den inte
+  blir den `ej-konverterad`, `bild` eller `tom` efter reglerna i
+  [Inskannade sidor som inte blir text](#inskannade-sidor-som-inte-blir-text):
+  en bildyta maskas och en vriden sida vänds innan sidan ger upp. Fallerar Tesseract på en sida, eller blir den inte
   klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
   dokumentets övriga sidor behålls. Ord på högkant målas vita och sidan
   läses om ([Text på högkant](#text-på-högkant)). Saknas Tesseract eller `swe` stoppas
@@ -1023,11 +1025,11 @@ gäller. Den sämsta sidan avgör:
 | Dokument             | När                                                          |
 | -------------------- | ------------------------------------------------------------ |
 | `ej-hamtad`          | Filen gick inte att hämta (ADR-0004).                        |
-| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida är `ok`, `tabell-osaker` eller `ocr`. |
+| `ej-konverterad`     | Filen gick inte att öppna, eller ingen sida är `ok`, `tabell-osaker`, `ocr` eller `bild`. |
 | `delvis`             | Någon sida är `ej-konverterad`.                              |
 | `ocr`                | Någon sida är `ocr`.                                         |
 | `text-utan-tabeller` | Någon sida är `tabell-osaker`.                               |
-| `full`               | Alla sidor är `ok` eller `tom`.                              |
+| `full`               | Alla sidor är `ok`, `tom` eller `bild`.                      |
 
 När filen inte gick att öppna står orsaken i `fel`: `krypterad` (filen
 kräver lösenord för att öppnas; ett lösenord som bara begränsar utskrift
@@ -1054,6 +1056,41 @@ och bara då: med `omkonvertera = true` gör varje höjning att hela poolen
 hämtas och konverteras om ([ADR-0019](decisions/0019-omkonvertering-efter-poolens-version.md)).
 Verktygens versioner i `pipeline` ger ingen omkonvertering.
 
+### Inskannade sidor som inte blir text
+
+Varför står i
+[ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)
+(K72). En sida som ska läsas med OCR läses först som förut, och sidans
+**bildyta** räknas. Når sidan inte tröskeln prövas stegen nedan i
+ordning; det första som ger text gäller.
+
+**Bildytan.** Sidan renderas i 100 dpi i färg och delas i 48 × 48 rutor.
+En ruta är bild när minst 30 % av den är mörk (gråvärde under 200) eller
+minst 30 % färgad (största minus minsta färgkanal över 40, och inte
+nästan vit), och högst 30 % av den täcks av ord som Tesseract läst med
+säkerhet minst 50 och minst två tecken. Bildytan är den största ytan av
+rutor som hänger ihop sida vid sida, räknad som den rektangel som
+omsluter den, i andel av sidan. Ytan är **jämn** när medelavvikelsen i
+gråvärde mellan intilliggande rutor i den, delad med rutornas
+standardavvikelse, är under 0,8: i ett foto eller en karta liknar
+grannrutorna varandra, i brus gör de inte det.
+
+1. **Bildytan maskas:** är bildytan minst 4 % av sidan målas den vit och
+   sidan läses om.
+2. **Sidan vänds:** Tesseracts orienteringsdetektering (`--psm 0`, modellen
+   `osd`) säger hur sidan ska vridas; säger den 90, 180 eller 270 grader
+   med en säkerhet på minst 2, vänds sidan och läses om.
+3. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
+4. **Nästan tom:** är högst 0,5 % av sidan mörk blir sidan `tom`.
+5. **Annars** blir sidan `ej-konverterad`.
+
+En sida som får text i steg 1 eller 2 blir `ocr`. En OCR-sida med en
+bildyta på minst 4 % står i `figurer`, och en `bild` står alltid där.
+En `bild` får ingen text och står i `tal_obekraftade`, eftersom talen i en
+karta eller ett diagram inte är lästa. Innehållsförteckningar med
+prickrader, handskrift och mycket dåliga skanningar förblir
+`ej-konverterad`.
+
 ### Figurer
 
 Varje sida som inte är `tom` prövas för figurer: diagram, kartor, scheman
@@ -1074,7 +1111,10 @@ Bilder och objekt med mittpunkten i en säker tabell räknas inte. Ett
 rutnät utan text är ingen tabell, så det som står i det räknas. En
 rektangel syns när den har en kantlinje eller en fyllning som inte är
 vit. En stapel med talet inuti räknas inte, så ett diagram med talen i
-staplarna kan missas; ett diagram i en skanning hittas inte alls.
+staplarna kan missas. En sida som läses med OCR står i `figurer` när den
+har en bildyta på minst 4 % av sidan
+([Inskannade sidor som inte blir text](#inskannade-sidor-som-inte-blir-text));
+en tunn linjeritning i en skanning kan missas.
 
 ### Tabeller med linjer och flera tal i en cell
 

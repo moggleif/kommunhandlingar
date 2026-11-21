@@ -2088,3 +2088,50 @@ och [Mål och direktiv](03-ARKITEKTUR.md#mål-och-direktiv).
 - **Så** står målet på organets sida om mål och direktiv som Regionmål,
   i urvalet, i tidslinjen och i antalet per år, och inte som kommunmål
   eller nämndmål.
+
+## K72 — En inskannad bild märks som bild, och en vriden sida läses
+
+Hur och varför står i
+[ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)
+och [Inskannade sidor som inte blir text](03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text).
+En sida som inte gick att läsa ska vara en sida som en människa behöver
+läsa: inte ett foto, en karta eller en tom sida.
+
+- **Givet** en inskannad sida som till största delen är ett foto, en
+  karta eller en ritning, och där OCR inte når tröskeln
+- **När** sidan konverteras
+- **Så** blir sidan `bild`, står i `figurer` och i `tal_obekraftade`,
+  och ingen text skrivs; ett dokument vars övriga sidor är `ok` eller
+  `tom` blir `full`.
+
+- **Givet** en inskannad sida med text och en bild på en del av sidan,
+  där OCR inte når tröskeln med bilden kvar
+- **När** sidan konverteras
+- **Så** målas bildytan vit och sidan läses om; når den tröskeln blir
+  sidan `ocr` med texten utanför bilden, och står i `figurer`.
+
+- **Givet** en inskannad sida som läses med OCR och har en bildyta
+- **När** sidan konverteras
+- **Så** står den i `figurer`, också när OCR nådde tröskeln.
+
+- **Givet** en inskannad sida som ligger på sidan eller upp och ner, där
+  OCR inte når tröskeln
+- **När** sidan konverteras
+- **Så** vänds den efter Tesseracts riktning och läses om; når den
+  tröskeln blir sidan `ocr`.
+
+- **Givet** en inskannad sida där OCR inte når tröskeln och nästan inget
+  är mörkt, som en färgad baksida eller en sida med bara en liten logga
+- **När** sidan konverteras
+- **Så** blir sidan `tom`.
+
+- **Givet** en skanning av brus, eller text som är för dålig för OCR
+- **När** sidan konverteras
+- **Så** blir sidan `ej-konverterad` som förut: den ska läsas av en
+  människa.
+
+- **Givet** omkonvertering i kommunfilen och ett dokument som är `full`
+  i en äldre version av poolen
+- **När** steg 2 körs
+- **Så** konverteras det inte om; ett dokument med en svagare sida
+  konverteras om som förut.
