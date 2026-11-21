@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172444id_/https://kungsbacka.se/d
 sha256: dae09541d3168ecf59a116f0524b136391da2d3242a386bbb8441d6356dd9ca3
 bytes: 219148
 sidor: 9
-hamtad: 2026-11-17T03:55:20+00:00
-konverterad: 2026-11-17T03:55:22+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T00:42:07+00:00
+konverterad: 2026-11-21T00:42:08+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -51,6 +51,7 @@ www.kungsbacka.se
 | 1. | Val av justerare och tid för<br>justering |  | Ordinarie: Lars Eriksson (S)<br>Ersättare: Per Stenberg (M)<br>Digital justering den 2021-08-19 | 1 min |
 | 2. | Förändring av ärendelistan |  |  | 1 min |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 | 3. | Information från<br>förvaltningen |  | Byggnadsnämndens arbetsutskott<br>noterar informationen till protokollet. | 1 min |
 
 <!-- sida 2 -->
@@ -64,13 +65,16 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | Beslutsärenden |  |  |  |  |
 | Planärenden |  |  |  |  |
+|  |  |  |  |  |
 | 4. | Samråd av detaljplan för<br>Hedeleden och Klippebergen<br>i Kungsbacka<br>Föredragande: Ida<br>Lennartsson | BN 2020-<br>0008 | Förslag till beslut i<br>byggnadsnämnden<br>Byggnadsnämnden godkänner<br>samrådshandlingen.<br>Med beaktande av den undersökning<br>som vidtagits i ärendet godkänner<br>byggnadsnämnden<br>samhällsbyggnadskontorets<br>bedömning om att nu föreslagen<br>detaljplan inte medför någon<br>miljöpåverkan som kan anses vara<br>betydande.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att<br>genomföra samråd för detaljplan för<br>Hedeleden och Klippebergen i<br>Kungsbacka. | 20<br>min |
 | Förhandsbesked |  |  |  |  |
+|  |  |  |  |  |
 | 5. | VALLBY 1:3, VALLBY 8:2<br>- Förhandsbesked för<br>nybyggnad av två<br>enbostadshus samt<br>stallbyggnader | BN 2020-<br>002872 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked för<br>ett enbostadshus samt en<br>stallbyggnad på vardera fastigheten<br>Vallby 1:3 och Vallby 8:2.<br>Avgiften för beslutet är 8 400 kronor.<br>Avgiften är reducerad med 8 400<br>kronor på grund av att beslutet har<br>tagit mer än 10 veckor. Kostnaden<br>blir därför 0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | 6. | SKÅRBY 6:10 -<br>Förhandsbesked för<br>nybyggnad av ett<br>enbostadshus | BN 2020-<br>003115 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked för<br>ett enbostadshus på fastigheten<br>Skårby 6:10.<br>Avgiften för beslutet är 7200 kronor.<br>Avgiften är reducerad med 7200<br>kronor på grund av att beslutet har<br>tagit mer än 10 veckor. Kostnaden<br>blir därför 0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | 7. | VALLDA 4:28 -<br>Förhandsbesked för<br>nybyggnad av två<br>enbostadshus | BN 2021-<br>001889 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked för<br>två enbostadshus på fastigheten<br>Vallda 4:28.<br>Avgiften för beslutet är 7 200 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | 8. | ALGUSERED 1:134 -<br>Förhandsbesked för ändrad<br>användning från skola till<br>flerbostadshus | BN 2021-<br>000341 | Förslag till beslut i<br>byggnadsnämnden<br>Byggnadsnämnden lämnar negativt<br>förhandsbesked för ändrad<br>användning från skola till<br>flerbostadshus på fastigheten.<br>Avgiften för beslutet är 19 200<br>kronor. Avgiften är reducerad med 19<br>200 kronor på grund av att beslutet<br>har tagit mer än 10 veckor.<br>Kostnaden blir därför 0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | Bygglov |  |  |  |  |
+|  |  |  |  |  |
 | 9. | KULLA 1:15 - Bygglov för<br>anläggande av mur | BN 2021-<br>001083 | Byggnadsnämndens arbetsutskott<br>beslutar att avslå ansökan om<br>bygglov för anläggande murar.<br>Avgiften för beslutet är 3 600 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | 10. | INFARTEN 2 - Bygglov för<br>ändrad användning av<br>kontorshus | BN 2020-<br>003277 | Byggnadsnämndens arbetsutskott<br>avslår ansökan om Bygglov för<br>ändrad användning av kontorshus till<br>gym.<br>Avgiften för beslutet är 4 800 kronor.<br>Avgiften för beslutet är reducerad<br>med 4 800 kronor på grund av att<br>beslutet har tagit mer än 10 veckor.<br>Kostnaden för beslutet blir därför 0<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
 | 11. | SÄRÖ 1:507 - Bygglov för<br>tillbyggnad av<br>komplementbyggnad | BN 2020-<br>003360 | Byggnadsnämndens arbetsutskott<br>avslår ansökan om bygglov för<br>tillbyggnad av komplementbyggnad.<br>Avgiften för beslutet är 3600 kronor.<br>Avgiften för beslutet är reducerad<br>med 3600 kronor på grund av att<br>beslutet har tagit mer än 10 veckor.<br>Kostnaden för beslutet blir därför 0<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-<br>08-13 § 107. | 5 min |
@@ -128,6 +132,7 @@ KUNGSBACKA  KOMMUN
 | Strandskyddsdispens |  |  |  |  |
 | 18. | VRÅ 2:10 -<br>Strandskyddsdispens för<br>tillbyggnad av enbostadshus | BN 2021-<br>001894 | Förslag till beslut i<br>byggnadsnämnden<br>Byggnadsnämnden beviljar<br>strandskyddsdispens för tillbyggnad<br>av enbostadshus.<br>Som tomt för enbostadshus får tas i<br>anspråk den mark som redovisas på<br>bifogad situationsplan.<br>Detta beslut upphör att gälla om den<br>åtgärd som dispens avser inte har<br>påbörjats inom två år eller inte har<br>avslutats inom fem år från dagen då<br>beslutet vann laga kraft (7 kap. 18 h §<br>miljöbalken). | 5 min |
 | Tillsyn |  |  |  |  |
+|  |  |  |  |  |
 |  | Ärende nr 19. som gäller tillsyn, förbud eller föreläggande, innehåller en mängd<br>personuppgifter och publiceras därför inte på webbplatsen med anledning av<br>Dataskyddsförordningen, GDPR (General Data Protection Regulation). |  |  |  |
 
 <!-- sida 9 -->

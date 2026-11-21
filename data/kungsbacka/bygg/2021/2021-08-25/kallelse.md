@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319191616id_/https://www.kungsbacka.
 sha256: f0af0fb26863df43b855c925e25852de29cb6f117452288813233763ea6985c6
 bytes: 223109
 sidor: 7
-hamtad: 2026-11-17T03:54:50+00:00
-konverterad: 2026-11-17T03:54:54+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T00:41:49+00:00
+konverterad: 2026-11-21T00:41:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
@@ -62,18 +62,24 @@ KUNGSBACKA  KOMMUN
 |  | Ärende | Beteckning | Förslag | Tid |
 | --- | --- | --- | --- | --- |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 | 4. Information från förvaltningen 70 min<br>a) Återkoppling från nämndernas måldag 31/5 2021 och arbetet vidare med nämndbudget<br>2022,<br>Katarina Öryd, förvaltningschef (15 min)<br>b) Information om presidieavstämning<br>Katarina Öryd, förvaltningschef (5 min)<br>c) Covid-19 status på förvaltningen,<br>Katarina Öryd, förvaltningschef (5 min)<br>d) Status för ärendekön hos bygglov,<br>Hanna Ståhl, verksamhetschef bygglovsavdelningen (15 min)<br>e) Jämförelse med andra kommuner 2020 – urval ur Boverkets plan- och byggenkät,<br>Hanna Ståhl, verksamhetschef bygglovsavdelningen (10 min)<br>f) Statistik överklagade ärenden,<br>Hanna Ståhl, verksamhetschef bygglovsavdelningen (10 min)<br>g) Detaljplan för Skårby 2:3, Tempohus, skickas ut för samråd. Beslut finns sedan tidigare.<br>Sofia Wiman, planarkitekt (10 min)<br>Byggnadsnämnden noterar informationen till protokollet. |  |  |  |  |
 | Beslutsärenden (ej myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 5. | Anmälan av ordförandeslut –<br>Yttrande till Länsstyrelsen i<br>Hallands län i ärende 403-<br>2753-2021 angående bygglov<br>för tillbyggnad av<br>enbostadshus på fastigheten X | BN 2020-<br>001895 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2 min |
 | 6. | Anmälan av ordförandeslut –<br>Överklagande av Svea hovrätt,<br>mark- och<br>miljööverdomstolens dom<br>2021-06-16 i mål nr P 10512-<br>19 angående negativt<br>förhandsbesked för<br>lokalisering av enbostadshus | BN 2018-<br>000430 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2 min |
 | 7. | Anmälan av ordförandeslut –<br>Yttrande till Mark- och<br>miljödomstolen i mål nr P<br>4146-20 angående<br>rättelseföreläggande avseende<br>olovlig tillbyggnad på<br>fastigheten X. | BN 2017-<br>0801 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2 min |
 | 8. | Anmälan av delegeringsbeslut |  | Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut<br>fattade under perioden 2021-07-02 till<br>2021-08-19. | 2 min |
 | 9. | Redovisning av inkomna<br>skrivelser | BN 2021–<br>000053 | Byggnadsnämnden godkänner<br>redovisningen av inkomna skrivelser<br>under perioden 2021-07-02 till<br>2021-08-19. | 2 min |
 | Beslutsärenden (myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Planärenden |  |  |  |  |
-| 10. | Antagande av detaljplan för<br>bostäder inom Hjälm 4:1 m.fl.<br>Föredragande: Anna-Karin<br>Ljungman, planarkitekt | BN 2019-<br>000478 | Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>bostäder inom Hjälm 4:1, 4:2 och 4:3<br>i Hjälm, upprättad 2021-06-24.<br>Byggnadsnämnden uppdrar åt bygg- och<br>miljöförvaltningen att i bygglovsskedet<br>ta hänsyn till det aktuella områdets<br>blandade bebyggelse och att färgsättning<br>av nya byggnader inom detaljplanen<br>anpassas till befintliga byggnader i<br>omgivningen. | 5 min |
-| 11. | Samråd av detaljplan för<br>Hedeleden och Klippebergen i<br>Kungsbacka<br>Föredragande: Sofia Wiman,<br>planarkitekt | BN 2020-<br>00008 | Byggnadsnämnden godkänner<br>samrådshandlingen.<br>Med beaktande av den undersökning<br>som vidtagits i ärendet godkänner<br>byggnadsnämnden<br>samhällsbyggnadskontorets bedömning<br>om att nu föreslagen detaljplan inte<br>medför någon miljöpåverkan som kan<br>anses vara betydande.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att genomföra<br>samråd för detaljplan för Hedeleden och<br>Klippebergen i Kungsbacka. | 15<br>min |
+| 10. | Antagande av detaljplan för<br>bostäder inom Hjälm 4:1 m.fl.<br>Föredragande: Anna-Karin<br>Ljungman, planarkitekt | BN 2019-<br>000478 | Byggnadsnämnden godkänner<br>granskningsutlåtandet.<br>Byggnadsnämnden antar detaljplan för<br>bostäder inom Hjälm 4:1, 4:2 och 4:3<br>i Hjälm, upprättad 2021-06-24.<br>Byggnadsnämnden uppdrar åt bygg- och<br>miljöförvaltningen att i bygglovsskedet<br>ta hänsyn till det aktuella områdets<br>blandade bebyggelse och att färgsättning<br>av nya byggnader inom detaljplanen<br>anpassas till befintliga byggnader i<br>omgivningen. |  |
+|  |  |  |  | 5 min |
+| 11. | Samråd av detaljplan för<br>Hedeleden och Klippebergen i<br>Kungsbacka<br>Föredragande: Sofia Wiman,<br>planarkitekt | BN 2020-<br>00008 | Byggnadsnämnden godkänner<br>samrådshandlingen.<br>Med beaktande av den undersökning<br>som vidtagits i ärendet godkänner<br>byggnadsnämnden<br>samhällsbyggnadskontorets bedömning<br>om att nu föreslagen detaljplan inte<br>medför någon miljöpåverkan som kan<br>anses vara betydande.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att genomföra<br>samråd för detaljplan för Hedeleden och<br>Klippebergen i Kungsbacka. |  |
+|  |  |  |  | 15<br>min |
 | Förhandsbesked |  |  |  |  |
 | 12. | ALGUSERED 1:134 (X) -<br>Förhandsbesked för ändrad<br>användning från skola till<br>flerbostadshus | BN 2021-<br>000341 | Byggnadsnämnden lämnar positivt<br>förhandsbesked för ändrad användning<br>från skola till flerbostadshus på<br>fastigheten.<br>Avgiften för beslutet är 19 200 kronor.<br>Avgiften är reducerad med 19 200<br>kronor på grund av att beslutet har tagit<br>mer än 10 veckor. Kostnaden blir därför<br>0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige 2019-08-<br>13 § 107.<br>Villkor:<br>Förändring av byggnaden ska göras i<br>samråd med kommunantikvarien och<br>karaktären ska bevaras. | 5 min |
 | Bygglov |  |  |  |  |
@@ -111,6 +117,7 @@ Ordförande                     Sekreterare
 | Strandskyddsdispens |  |  |  |  |
 | 16. | VRÅ 2:10 (X) -<br>Strandskyddsdispens för<br>tillbyggnad av enbostadshus | BN 2021-<br>001894 | Byggnadsnämnden beviljar<br>strandskyddsdispens för tillbyggnad av<br>enbostadshus.<br>Som tomt för enbostadshus får tas i<br>anspråk den mark som redovisas på<br>bifogad situationsplan.<br>Detta beslut upphör att gälla om den<br>åtgärd som dispens avser inte har<br>påbörjats inom två år eller inte har<br>avslutats inom fem år från dagen då<br>beslutet vann laga kraft (7 kap. 18 h §<br>miljöbalken). | 2 min |
 | Tillsyn |  |  |  |  |
+|  |  |  |  |  |
 | Ärende mellan nr 17-20 som gäller tillsyn, förbud eller föreläggande, innehåller en mängd<br>personuppgifter och publiceras därför inte på webbplatsen med anledning av Dataskyddsförordningen,<br>GDPR (General Data Protection Regulation). |  |  |  |  |
 
 <!-- sida 7 -->

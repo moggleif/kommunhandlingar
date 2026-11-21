@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319194250id_/https://www.kungsbacka.
 sha256: 15929cb5dd7eca93e8e4448bf8f1424998424b33c1749d3da4556bef1f47b811
 bytes: 1129267
 sidor: 26
-hamtad: 2026-10-28T09:46:25+00:00
-konverterad: 2026-10-28T09:46:40+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T00:29:09+00:00
+konverterad: 2026-11-21T00:30:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr]
@@ -340,20 +340,20 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 10-11-1](handlingar.tabeller/10-11-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Processen för som besvärande för<br>avslut av anställning berörda intressenter och<br>säkerställer inte att alla kommunen)<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. |
-| Ekonomi | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Redovisning av som besvärande för<br>representation berörda intressenter och<br>kommunen) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Debiteringsrutiner som besvärande för<br>berörda intressenter och<br>kommunen) |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Inköp (granskning som besvärande för<br>begränsas till belopp berörda intressenter och<br>över 100.000:-) kommunen) |
-|  | 5 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande hantering som besvärande för<br>av delegationsbeslut berörda intressenter och<br>kommunen) |
-|  | 6 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: som besvärande för<br>Informationsöverföring berörda intressenter och<br>till tredje land kommunen) |
-| Verksamhet | 7 Risk för okritisk 3. Vanligt 3. Kännbar (uppfattas Ja<br>tolkning av all digital som besvärande för<br>information i berörda intressenter och<br>kartsystemet avseende kommunen)<br>innehåll, aktualitet och<br>noggrannhet. |
-|  | 8 Risk för påtryckningar 3. Vanligt 3. Kännbar (uppfattas Ja<br>utifrån / otillbörlig som besvärande för<br>påverkan på personal berörda intressenter och<br>och beslutsfattare kommunen) |
-|  | 9 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>rutiner för beredskap för som besvärande för<br>livsmedelskriser berörda intressenter och<br>kommunen) |
-|  | 10 Risk att 4. Mycket vanligt 3. Kännbar (uppfattas Ja<br>handläggningstid för som besvärande för<br>bygglovsärenden inte berörda intressenter och<br>hålls kommunen) |
-|  | 11 Risk att 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>myndighetsbeslut inte som besvärande för<br>håller tillräcklig kvalitet berörda intressenter och<br>kommunen) |
-|  | 12 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>leverans av som besvärande för<br>myndighetsuppdraget berörda intressenter och<br>kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Processen för<br>avslut av anställning<br>säkerställer inte att alla<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 2 Kommunövergripande<br>risk: Redovisning av<br>representation | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Debiteringsrutiner | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 4 Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 5 Kommunövergripande<br>risk: Bristande hantering<br>av delegationsbeslut | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Kommunövergripande<br>risk:<br>Informationsöverföring<br>till tredje land | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 7 Risk för okritisk<br>tolkning av all digital<br>information i<br>kartsystemet avseende<br>innehåll, aktualitet och<br>noggrannhet. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 8 Risk för påtryckningar<br>utifrån / otillbörlig<br>påverkan på personal<br>och beslutsfattare | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 9 Risk för bristande<br>rutiner för beredskap för<br>livsmedelskriser | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 10 Risk att<br>handläggningstid för<br>bygglovsärenden inte<br>hålls | 4. Mycket vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 11 Risk att<br>myndighetsbeslut inte<br>håller tillräcklig kvalitet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 12 Risk för bristande<br>leverans av<br>myndighetsuppdraget | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 11 -->
 
@@ -366,23 +366,23 @@ Intern kontrollplan 2022
 
 [Tabell 11-14-1](handlingar.tabeller/11-14-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergrip 3. Kännbar Förvaltningen har<br>ande risk: (uppfattas som goda resultat för<br>Bristande besvärande för denna granskning<br>3. Vanligt<br>efterlevnad av berörda vid tidigare år<br>semesterlagen intressenter och<br>kommunen) |
-|  | Risk att Denna risk<br>förvaltningen hanteras inom<br>3. Kännbar<br>saknar personal ramen för<br>(uppfattas som<br>med kompetensförsörjni<br>besvärande för<br>rätt/tillräcklig 2. Mindre vanligt ng och<br>berörda<br>kompetens verksamhetsplaner<br>intressenter och<br>ing. Inte prioriterad<br>kommunen)<br>för granskning<br>2022. |
-|  | Risk att Det finns<br>introduktion av fungerande rutiner<br>2. Lindrig<br>nya medarbetare och checklistor för<br>(uppfattas som<br>inte fungerar som introduktion av nya<br>2. Mindre vanligt liten av berörda<br>tänkt. medarbetare. Inget<br>intressenter och<br>prioriterat områden<br>kommunen)<br>för granskning<br>inför 2022. |
-|  | Stor konkurrens Förvaltningen<br>om kompetent arbetar<br>personal systematiskt med<br>frågan i<br>verksamhetsplan<br>3. Kännbar samt<br>(uppfattas som kompetensförsörjni<br>besvärande för ngsplan.<br>3. Vanligt<br>berörda Naturligtvis är<br>intressenter och detta ett viktigt<br>kommunen) område som vi<br>arbetar med, men<br>inte i detta<br>sammanhang. Inte<br>prioriterat för<br>granskning 2022. |
-| Ekonomi | Kontanthantering Ingen<br>kontanthantering<br>på förvaltningen<br>förekommer |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip Förvaltningen har<br>ande risk: implementerat två<br>Bristande verksamhetssyste<br>styrning av m. Fokus framöver<br>3. Kännbar<br>förändring av på att utnyttja<br>(uppfattas som<br>verksamhetsproc systemens<br>besvärande för<br>esser och system 3. Vanligt möjligheter och<br>berörda<br>kringapplikationer.<br>intressenter och<br>Uppföljning av<br>kommunen)<br>detta sker inom<br>ramen för den<br>digitala plan som<br>beslutats. |
-|  | Risk att För 2022 finns en<br>3. Kännbar<br>delegationsordni snarlik risk som är<br>(uppfattas som<br>ng inte följs kommungemensa<br>besvärande för<br>2. Mindre vanligt m. Se risk<br>berörda<br>"Bristande<br>intressenter och<br>hantering av<br>kommunen)<br>delegationsbeslut" |
-|  | Risk att 3. Kännbar Utbildning av<br>diarieföring inte (uppfattas som registratorer har<br>sker korrekt besvärande för genomförts under<br>2. Mindre vanligt<br>berörda 2020 och 2021.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2022. |
-|  | Risk att Geodata har gjort<br>säkerhetsklassat en översyn av<br>material behörigheter till<br>avseende säkerhetsklassad<br>GIS/Kartan information och<br>lämnas ut eller på därefter infört<br>4. Allvarlig/stor<br>annat sätt 1. Osannolik nödvändiga<br>inverkan (så stor<br>kommer i (risken är praktiskt begränsningar.<br>att den inte får<br>obehöriga taget obefintlig) Enheten har en<br>inträffa)<br>händer. löpande dialog<br>med<br>säkerhetsansvarig<br>och Teknik. Inte<br>prioriterat att<br>granska 2022. |
-|  | Risk för Digitalt center har<br>oplanerade riskklassat alla<br>driftstopp eller kommunens<br>krasch av system. Det har<br>verksamhetssyst bara varit ett<br>em oplanerat<br>1. Försumbar driftstopp de<br>1. Osannolik (obetydlig för senaste 10 åren<br>(risken är praktiskt berörda för tidigare<br>taget obefintlig) intressenter och verksamhetssyste<br>kommunen) m. Detta är en<br>fråga för Digitalt<br>Center eftersom<br>det gäller<br>driftsäkerhet. Inte<br>prioriterat för<br>granskning 2022. |
-|  | Risk för intrång, Mycket liten risk.<br>obehörig åtkomst Verksamhetssyste<br>eller avslöjad m och filer lagras<br>sekretess på inte lokalt på<br>grund av stöld datorn om<br>och/eller gällande rutiner<br>oaktsamhet. följs. Stöld av<br>dator/telefon/iPad<br>1. Försumbar<br>medför därför<br>1. Osannolik (obetydlig för<br>ingen risk i detta<br>(risken är praktiskt berörda<br>avseende. Det<br>taget obefintlig) intressenter och<br>finns aktuella<br>kommunen)<br>rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i systemen.<br>Inte prioriterat för<br>granskning 2022. |
-|  | Felaktig Inte prioriterad för<br>3. Kännbar<br>hantering i granskning 2022.<br>(uppfattas som<br>enskilda ärenden<br>besvärande för<br>på grund av 2. Mindre vanligt<br>berörda<br>förfalskade<br>intressenter och<br>dokument eller<br>kommunen)<br>bluffsamtal |
-|  | Utlämnande av Utbildning av<br>2. Lindrig<br>handlingar sker registratorer har<br>(uppfattas som<br>inte enligt rutiner genomförts under<br>2. Mindre vanligt liten av berörda<br>2020 och 2021.<br>intressenter och<br>Inte prioriterat för<br>kommunen)<br>granskning 2022. |
-|  | Hänvisning av Det finns<br>mail och telefon fungerande och<br>2. Lindrig<br>görs inte vid tydliga rutiner för<br>(uppfattas som<br>frånvaro hantering av mail<br>2. Mindre vanligt liten av berörda<br>och telefon vid<br>intressenter och<br>frånvaro. Inte<br>kommunen)<br>prioriterat för<br>granskning 2022. |
-| Verksamhet | Risk för Utbildning av<br>felaktigheter i personal och<br>mätningsuppdrag service<br>2. Lindrig (kalibrering) av<br>(uppfattas som instrument görs<br>2. Mindre vanligt liten av berörda regelbundet.<br>intressenter och Mycket ovanligt<br>kommunen) med mätfel inom<br>verksamheten. Inte<br>prioriterat för<br>granskning 2022. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Bristande<br>efterlevnad av<br>semesterlagen | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>goda resultat för<br>denna granskning<br>vid tidigare år |
+|  |  | Risk att<br>förvaltningen<br>saknar personal<br>med<br>rätt/tillräcklig<br>kompetens | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Denna risk<br>hanteras inom<br>ramen för<br>kompetensförsörjni<br>ng och<br>verksamhetsplaner<br>ing. Inte prioriterad<br>för granskning<br>2022. |
+|  |  | Risk att<br>introduktion av<br>nya medarbetare<br>inte fungerar som<br>tänkt. | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Det finns<br>fungerande rutiner<br>och checklistor för<br>introduktion av nya<br>medarbetare. Inget<br>prioriterat områden<br>för granskning<br>inför 2022. |
+|  |  | Stor konkurrens<br>om kompetent<br>personal | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen<br>arbetar<br>systematiskt med<br>frågan i<br>verksamhetsplan<br>samt<br>kompetensförsörjni<br>ngsplan.<br>Naturligtvis är<br>detta ett viktigt<br>område som vi<br>arbetar med, men<br>inte i detta<br>sammanhang. Inte<br>prioriterat för<br>granskning 2022. |
+| Ekonomi |  | Kontanthantering |  |  | Ingen<br>kontanthantering<br>på förvaltningen<br>förekommer |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>Bristande<br>styrning av<br>förändring av<br>verksamhetsproc<br>esser och system | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>implementerat två<br>verksamhetssyste<br>m. Fokus framöver<br>på att utnyttja<br>systemens<br>möjligheter och<br>kringapplikationer.<br>Uppföljning av<br>detta sker inom<br>ramen för den<br>digitala plan som<br>beslutats. |
+|  |  | Risk att<br>delegationsordni<br>ng inte följs | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | För 2022 finns en<br>snarlik risk som är<br>kommungemensa<br>m. Se risk<br>"Bristande<br>hantering av<br>delegationsbeslut" |
+|  |  | Risk att<br>diarieföring inte<br>sker korrekt | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utbildning av<br>registratorer har<br>genomförts under<br>2020 och 2021.<br>Inte prioriterat för<br>granskning 2022. |
+|  |  | Risk att<br>säkerhetsklassat<br>material<br>avseende<br>GIS/Kartan<br>lämnas ut eller på<br>annat sätt<br>kommer i<br>obehöriga<br>händer. | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Geodata har gjort<br>en översyn av<br>behörigheter till<br>säkerhetsklassad<br>information och<br>därefter infört<br>nödvändiga<br>begränsningar.<br>Enheten har en<br>löpande dialog<br>med<br>säkerhetsansvarig<br>och Teknik. Inte<br>prioriterat att<br>granska 2022. |
+|  |  | Risk för<br>oplanerade<br>driftstopp eller<br>krasch av<br>verksamhetssyst<br>em | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Digitalt center har<br>riskklassat alla<br>kommunens<br>system. Det har<br>bara varit ett<br>oplanerat<br>driftstopp de<br>senaste 10 åren<br>för tidigare<br>verksamhetssyste<br>m. Detta är en<br>fråga för Digitalt<br>Center eftersom<br>det gäller<br>driftsäkerhet. Inte<br>prioriterat för<br>granskning 2022. |
+|  |  | Risk för intrång,<br>obehörig åtkomst<br>eller avslöjad<br>sekretess på<br>grund av stöld<br>och/eller<br>oaktsamhet. | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 1. Försumbar<br>(obetydlig för<br>berörda<br>intressenter och<br>kommunen) | Mycket liten risk.<br>Verksamhetssyste<br>m och filer lagras<br>inte lokalt på<br>datorn om<br>gällande rutiner<br>följs. Stöld av<br>dator/telefon/iPad<br>medför därför<br>ingen risk i detta<br>avseende. Det<br>finns aktuella<br>rutiner för<br>hantering av<br>känsliga<br>personuppgifter,<br>dessa ska inte<br>lagras i systemen.<br>Inte prioriterat för<br>granskning 2022. |
+|  |  | Felaktig<br>hantering i<br>enskilda ärenden<br>på grund av<br>förfalskade<br>dokument eller<br>bluffsamtal | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Inte prioriterad för<br>granskning 2022. |
+|  |  | Utlämnande av<br>handlingar sker<br>inte enligt rutiner | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Utbildning av<br>registratorer har<br>genomförts under<br>2020 och 2021.<br>Inte prioriterat för<br>granskning 2022. |
+|  |  | Hänvisning av<br>mail och telefon<br>görs inte vid<br>frånvaro | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Det finns<br>fungerande och<br>tydliga rutiner för<br>hantering av mail<br>och telefon vid<br>frånvaro. Inte<br>prioriterat för<br>granskning 2022. |
+| Verksamhet |  | Risk för<br>felaktigheter i<br>mätningsuppdrag | 2. Mindre vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Utbildning av<br>personal och<br>service<br>(kalibrering) av<br>instrument görs<br>regelbundet.<br>Mycket ovanligt<br>med mätfel inom<br>verksamheten. Inte<br>prioriterat för<br>granskning 2022. |
 
 <!-- sida 12 -->
 
@@ -414,12 +414,12 @@ Intern kontrollplan 2022
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-|  | Förskottsbetalad Andelen<br>tillsyn utförs inte förskottsbetalad<br>tillsyn har minskat<br>2021 när det gäller<br>miljöbalkstillsynen<br>på grund av den<br>nya taxan. För<br>livsmedelstillsynen<br>2. Lindrig<br>kommer den att<br>1. Osannolik (uppfattas som<br>försvinna helt, ny<br>(risken är praktiskt liten av berörda<br>lag beslutad,<br>taget obefintlig) intressenter och<br>planerad<br>kommunen)<br>implementering<br>2024.<br>Verksamheten har<br>koll på detta och<br>följer upp<br>regelbundet. Inte<br>prioriterat för<br>granskning 2022. |
-|  | Hantering av 3. Kännbar Utbildning av<br>personuppgifter (uppfattas som registratorer har<br>sker inte korrekt besvärande för genomförts under<br>2. Mindre vanligt<br>berörda 2020 och 2021.<br>intressenter och Inte prioriterat för<br>kommunen) granskning 2022. |
-|  | Överklaganden Förvaltningen har<br>hanteras inte arbetat med denna<br>3. Kännbar<br>korrekt risk i flera år. Det<br>(uppfattas som<br>fungerar bra,<br>besvärande för<br>2. Mindre vanligt rutiner är kända<br>berörda<br>och följs av<br>intressenter och<br>personalen. Inte<br>kommunen)<br>prioriterat för<br>granskning 2022. |
-| Corona | Kommunövergrip Finns redan<br>ande risk: Risk identifierade<br>för 3. Kännbar verksamhetsrisker<br>anhopning/brista (uppfattas som som hanterar<br>nde leveranser besvärande för detta, ex<br>3. Vanligt<br>avseende berörda handläggningstid<br>nämndernas intressenter och bygglov.<br>uppdrag med kommunen)<br>anledning av<br>Coronapandemin |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Förskottsbetalad<br>tillsyn utförs inte | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Andelen<br>förskottsbetalad<br>tillsyn har minskat<br>2021 när det gäller<br>miljöbalkstillsynen<br>på grund av den<br>nya taxan. För<br>livsmedelstillsynen<br>kommer den att<br>försvinna helt, ny<br>lag beslutad,<br>planerad<br>implementering<br>2024.<br>Verksamheten har<br>koll på detta och<br>följer upp<br>regelbundet. Inte<br>prioriterat för<br>granskning 2022. |
+|  |  | Hantering av<br>personuppgifter<br>sker inte korrekt | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Utbildning av<br>registratorer har<br>genomförts under<br>2020 och 2021.<br>Inte prioriterat för<br>granskning 2022. |
+|  |  | Överklaganden<br>hanteras inte<br>korrekt | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Förvaltningen har<br>arbetat med denna<br>risk i flera år. Det<br>fungerar bra,<br>rutiner är kända<br>och följs av<br>personalen. Inte<br>prioriterat för<br>granskning 2022. |
+| Corona |  | Kommunövergrip<br>ande risk: Risk<br>för<br>anhopning/brista<br>nde leveranser<br>avseende<br>nämndernas<br>uppdrag med<br>anledning av<br>Coronapandemin | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Finns redan<br>identifierade<br>verksamhetsrisker<br>som hanterar<br>detta, ex<br>handläggningstid<br>bygglov. |
 
 <!-- sida 16 -->
 
@@ -434,22 +434,22 @@ Intern kontrollplan 2022
 
 [Tabell 16-17-1](handlingar.tabeller/16-17-1.csv)
 
-| Risker | Kontrollmoment | Slutdatu<br>Granskningsaktiviteter Startdatum<br>m |
-| --- | --- | --- |
-| Kommunövergripand<br>e risk: Redovisning<br>av representation | Attest av<br>representation | Granskning av 2022-01-01 2022-11-<br>representationskostnader 30<br>mm |
-| Kommunövergripand<br>e risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Kontroll vid avslut av<br>anställning | Granskning av avslut av 2022-01-01 2022-11-<br>behörigheter vid avslut av 30<br>anställning (eller byte av<br>tjänst) |
-| Kommunövergripand<br>e risk:<br>Debiteringsrutiner | Debiteringsrutiner | Uppföljning av 2022-01-01 2022-12-<br>debiteringsprocessen 30 |
-|  | Kontroll av debitering | Inventering av 2021-01-01 2021-12-<br>debiteringsrutiner 31 |
-| Risk för okritisk<br>tolkning av all digital<br>information i<br>kartsystemet<br>avseende innehåll,<br>aktualitet och<br>noggrannhet. | Genomgång av<br>kartportalen vid<br>introduktion | Granskning av utbildning 2021-01-01 2021-11-<br>30 |
-| Risk för<br>påtryckningar utifrån<br>/ otillbörlig påverkan<br>på personal och<br>beslutsfattare | Löpande utbildning<br>för att förebygga<br>oegentligheter,<br>mutor och jäv | Granskning av genomförd 2021-01-01 2021-11-<br>utbildning om 30<br>oegentligheter, mutor och<br>jäv |
-| Kommunövergripand<br>e risk: Inköp<br>(granskning<br>begränsas till belopp<br>över 100.000:-) | Beställningsgodkänn<br>ande | Granskning av att 2022-01-01 2022-11-<br>genomförda inköp följer 30<br>inköpsprocessen och<br>gällande styrdokument |
-| Kommunövergripand<br>e risk: Bristande<br>hantering av<br>delegationsbeslut | Delegeringsrutin | Granskning av 2022-01-01 2022-11-<br>delegeringsbeslut 30 |
-| Kommunövergripand<br>e risk:<br>Informationsöverförin<br>g till tredje land | Följsamhet till<br>lagstiftning avseende<br>integritetsskydd och<br>Schrems II-målet<br>(överföring av<br>personinformation till<br>terdjeland med<br>massövervakningsla<br>gstiftning).Efterlevna<br>d till rutin för<br>informationsklassific<br>ering. | Inventering av behandling 2022-01-01 2022-11-<br>av personinformation som 30<br>omfattar<br>tredjelandsöverföring |
-| Risk för bristande<br>rutiner för beredskap<br>för livsmedelskriser | Kontroll att aktuell<br>beredskapsplan för<br>livsmedelskriser<br>tagits fram | Granskning av att 2021-01-01 2021-11-<br>beredskapsplan för 30<br>livsmedelskriser tagits fram |
-| Risk att<br>handläggningstid för<br>bygglovsärenden<br>inte hålls | Kontroll av<br>handläggningstider<br>för bygglovsärenden | Granskning av statistik 2021-01-01 2021-11-<br>handläggningstider bygglov 30 |
-| Risk att<br>myndighetsbeslut<br>inte håller tillräcklig<br>kvalitet | Kontroll av<br>handläggarnas/förval<br>tningens beslut | Granskning av 2021-01-01 2021-11-<br>delegationsbeslut 30 |
-|  | Kontroll av<br>nämndernas beslut | Granskning av nämndbeslut 2021-01-01 2021-11-<br>30 |
-| Risk för bristande<br>leverans av<br>myndighetsuppdrage<br>t | Uppföljning av<br>planerad verksamhet<br>och ekonomi | Granskning och uppföljning 2021-01-01 2021-12-<br>av planerad verksamhet och 31<br>ekonomi |
+|  | Risker | Kontrollmoment | Granskningsaktiviteter | Startdatum | Slutdatu<br>m |
+| --- | --- | --- | --- | --- | --- |
+|  | Kommunövergripand<br>e risk: Redovisning<br>av representation | Attest av<br>representation | Granskning av<br>representationskostnader<br>mm | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Kontroll vid avslut av<br>anställning | Granskning av avslut av<br>behörigheter vid avslut av<br>anställning (eller byte av<br>tjänst) | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk:<br>Debiteringsrutiner | Debiteringsrutiner | Uppföljning av<br>debiteringsprocessen | 2022-01-01 | 2022-12-<br>30 |
+|  |  | Kontroll av debitering | Inventering av<br>debiteringsrutiner | 2021-01-01 | 2021-12-<br>31 |
+|  | Risk för okritisk<br>tolkning av all digital<br>information i<br>kartsystemet<br>avseende innehåll,<br>aktualitet och<br>noggrannhet. | Genomgång av<br>kartportalen vid<br>introduktion | Granskning av utbildning | 2021-01-01 | 2021-11-<br>30 |
+|  | Risk för<br>påtryckningar utifrån<br>/ otillbörlig påverkan<br>på personal och<br>beslutsfattare | Löpande utbildning<br>för att förebygga<br>oegentligheter,<br>mutor och jäv | Granskning av genomförd<br>utbildning om<br>oegentligheter, mutor och<br>jäv | 2021-01-01 | 2021-11-<br>30 |
+|  | Kommunövergripand<br>e risk: Inköp<br>(granskning<br>begränsas till belopp<br>över 100.000:-) | Beställningsgodkänn<br>ande | Granskning av att<br>genomförda inköp följer<br>inköpsprocessen och<br>gällande styrdokument | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk: Bristande<br>hantering av<br>delegationsbeslut | Delegeringsrutin | Granskning av<br>delegeringsbeslut | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk:<br>Informationsöverförin<br>g till tredje land | Följsamhet till<br>lagstiftning avseende<br>integritetsskydd och<br>Schrems II-målet<br>(överföring av<br>personinformation till<br>terdjeland med<br>massövervakningsla<br>gstiftning).Efterlevna<br>d till rutin för<br>informationsklassific<br>ering. | Inventering av behandling<br>av personinformation som<br>omfattar<br>tredjelandsöverföring | 2022-01-01 | 2022-11-<br>30 |
+|  | Risk för bristande<br>rutiner för beredskap<br>för livsmedelskriser | Kontroll att aktuell<br>beredskapsplan för<br>livsmedelskriser<br>tagits fram | Granskning av att<br>beredskapsplan för<br>livsmedelskriser tagits fram | 2021-01-01 | 2021-11-<br>30 |
+|  | Risk att<br>handläggningstid för<br>bygglovsärenden<br>inte hålls | Kontroll av<br>handläggningstider<br>för bygglovsärenden | Granskning av statistik<br>handläggningstider bygglov | 2021-01-01 | 2021-11-<br>30 |
+|  | Risk att<br>myndighetsbeslut<br>inte håller tillräcklig<br>kvalitet | Kontroll av<br>handläggarnas/förval<br>tningens beslut | Granskning av<br>delegationsbeslut | 2021-01-01 | 2021-11-<br>30 |
+|  |  | Kontroll av<br>nämndernas beslut | Granskning av nämndbeslut | 2021-01-01 | 2021-11-<br>30 |
+|  | Risk för bristande<br>leverans av<br>myndighetsuppdrage<br>t | Uppföljning av<br>planerad verksamhet<br>och ekonomi | Granskning och uppföljning<br>av planerad verksamhet och<br>ekonomi | 2021-01-01 | 2021-12-<br>31 |
 
 <!-- sida 17 -->
 
