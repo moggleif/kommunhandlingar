@@ -1,6 +1,6 @@
 """Tillfälligt prov för #344: läser de olästa sidorna i urvalet med K72 och
 skriver mått, OCR-text och en liten bild per sida. Tas bort före PR."""
-import base64, csv, io, json, re, sys, tempfile
+import gzip, subprocess, base64, csv, io, json, re, sys, tempfile
 from pathlib import Path
 import pdfplumber, pypdfium2 as pdfium
 from kommunhandlingar import frontmatter, original
@@ -30,6 +30,11 @@ def matt(rendering):
         text=(forsta[1] if forsta else "")[:600],
     ), gra
 
+def tsv_for(gra, psm):
+    with tempfile.TemporaryDirectory() as k:
+        f = Path(k) / "s.png"; gra.save(f)
+        return subprocess.run(["tesseract", f, "-", "-l", "swe", "--dpi", "300", "--psm", psm, "tsv"], capture_output=True, text=True).stdout
+
 def miniatyr(gra):
     b = gra.copy(); b.thumbnail((1000, 1400))
     ut = io.BytesIO(); b.save(ut, "JPEG", quality=40)
@@ -53,14 +58,10 @@ def main(urval, delnr):
             plumb, dok = pdfplumber.open(pdf), pdfium.PdfDocument(pdf)
             for r in rader:
                 nr = int(r["sida"])
-                try:
-                    k72 = las_sida(plumb.pages[nr - 1], dok[nr - 1])
-                    m, gra = matt(dok[nr - 1])
-                except Exception as fel:
-                    print("PROVFEL", repo, md, nr, fel, flush=True); continue
-                rad = dict(r, k72=k72.kvalitet, figur=k72.figur, **m)
-                print("PROV " + json.dumps(rad, ensure_ascii=False), flush=True)
-                print("BILD " + json.dumps([repo, md, nr, miniatyr(gra)]), flush=True)
+                gra = ocr.rendera(dok[nr - 1])
+                for psm in ("3", "11"):
+                    tsv = tsv_for(gra, psm)
+                    print("TSV " + json.dumps([r["nr"], psm, base64.b64encode(gzip.compress(tsv.encode())).decode()]), flush=True)
 
 if __name__ == "__main__":
     main(sys.argv[1], int(sys.argv[2]))
