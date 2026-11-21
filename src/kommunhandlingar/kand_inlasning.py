@@ -4,7 +4,8 @@
 många av poolens sidor som har känd inläsning, alltså inte är
 `ej-konverterad`, och hur många sidor varje sidkvalitet har. Ett dokument
 utan sidor, som inte gick att hämta eller öppna, räknas för sig
-(docs/03-ARKITEKTUR.md#känd-inläsning).
+(docs/03-ARKITEKTUR.md#känd-inläsning). Statussidan på webbplatsen visar
+samma andel (K14).
 """
 
 import sys
@@ -29,14 +30,20 @@ def rakna(kommun: Path) -> tuple[Counter, int]:
     return sidor, utan_sidor
 
 
+def kanda(sidor: Counter) -> int:
+    return sidor.total() - sidor[OLAST]
+
+
+def andel(sidor: Counter) -> str:
+    alla = sidor.total()
+    return f"{100 * kanda(sidor) / alla:.2f}".replace(".", ",") if alla else "–"
+
+
 def rad(namn: str, sidor: Counter, utan_sidor: int) -> str:
-    alla = sum(sidor.values())
-    kanda = alla - sidor[OLAST]
-    andel = f"{100 * kanda / alla:.2f}".replace(".", ",") if alla else "–"
     per_kvalitet = ", ".join(f"{k} {sidor[k]}" for k in SIDKVALITETER)
     return (
-        f"{namn}: {kanda} av {alla} sidor har känd inläsning ({andel} %); "
-        f"{per_kvalitet}; {utan_sidor} dokument utan sidor"
+        f"{namn}: {kanda(sidor)} av {sidor.total()} sidor har känd inläsning "
+        f"({andel(sidor)} %); {per_kvalitet}; {utan_sidor} dokument utan sidor"
     )
 
 
