@@ -1,4 +1,4 @@
-"""Krav: K11, ADR-0006 och ADR-0009.
+"""Krav: K11 och K72, ADR-0006, ADR-0009 och ADR-0099.
 Kod: src/kommunhandlingar/datakontroll.py och datakontroll_tabeller.py."""
 
 import shutil
@@ -115,12 +115,13 @@ class TestDatakontroll(Pool):
             [f"{EJ_HAMTAD}: sha256 ska vara null", f"{EJ_HAMTAD}: fel saknas"],
         )
 
-    def test_ocr_sida_maste_vara_obekraftad(self):
-        self.andra(DOKUMENT, tal_obekraftade="[5, 6, 7, 9]")
-        self.assertEqual(
-            self.fel(),
-            [f"{DOKUMENT}: sidan 11 är ocr men står inte i tal_obekraftade"],
-        )
+    def test_ocr_och_bild_maste_vara_obekraftade(self):
+        sidor = frontmatter.las((self.data / DOKUMENT).read_text())["kvalitet_per_sida"]
+        bild = sidor.replace("[ok,", "[bild,", 1)  # K72
+        self.andra(DOKUMENT, kvalitet_per_sida=bild, tal_obekraftade="[5, 6, 7, 9]")
+        fel = "{}: sidan {} är {} men står inte i tal_obekraftade"
+        vantat = [fel.format(DOKUMENT, 1, "bild"), fel.format(DOKUMENT, 11, "ocr")]
+        self.assertEqual(self.fel(), vantat)
 
     def test_antalet_sidor(self):
         self.andra(DOKUMENT, sidor="12")

@@ -4,7 +4,8 @@
 
 - Python 3.12 eller senare
 - git
-- Tesseract med svensk modell, för OCR och testerna
+- Tesseract med svensk modell och modellen för sidans riktning (`osd`,
+  som följer med `tesseract-ocr`), för OCR och testerna
   (`apt-get install tesseract-ocr tesseract-ocr-swe`)
 
 ## Uppsättning från en tom maskin

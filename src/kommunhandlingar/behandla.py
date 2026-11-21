@@ -1,6 +1,6 @@
-"""Krav: K4, K6, K8, K9, K16, K23, K30, K34, K48 och K52 i docs/02-KRAV.md,
+"""Krav: K4, K6, K8, K9, K16, K23, K30, K34, K48, K52 och K72 i docs/02-KRAV.md,
 ADR-0003, ADR-0004, ADR-0018, ADR-0019, ADR-0039, ADR-0048, ADR-0055, ADR-0071,
-ADR-0075 och ADR-0076. Test i tests/: test_hamta.py, test_hamta_arkiv.py,
+ADR-0075, ADR-0076 och ADR-0099. Test i tests/: test_hamta.py, test_hamta_arkiv.py,
 test_omkonvertering.py, test_plattformar.py, test_granskning.py och
 test_tidsbudget.py.
 
@@ -10,7 +10,8 @@ kandidat ur ett arkiv fyller bara luckor, så att en äldre kopia aldrig ersätt
 ett dokument i poolen; har sammanträdet typen från en annan plattform står den
 med högst kvalitet kvar. Med omkonverteringen påslagen räknas ett dokument från
 en annan version av poolen, också i arkivet, inte som befintligt, utom när det
-är granskat för hand. Skrivningen avbryts aldrig av tidsgränsen (K11).
+är granskat för hand eller redan `full`. Skrivningen avbryts aldrig av
+tidsgränsen (K11).
 """
 
 import tempfile
@@ -98,7 +99,8 @@ def samma_kalla(falt: dict[str, str], kandidat: Kandidat) -> bool:
 
 
 def aktuell(steg: Steg2, falt: dict[str, str]) -> bool:
-    if not steg.omkonvertera or falt["granskad"] != "null":
+    orord = falt["granskad"] != "null" or falt["kvalitet"] == "full"  # K72
+    if not steg.omkonvertera or orord:
         return True
     return falt["pipeline"].split(" / ")[0] == steg.version
 

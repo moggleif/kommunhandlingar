@@ -1,4 +1,5 @@
-"""Krav: K4–K6, ADR-0005 och ADR-0009. Kod: src/kommunhandlingar/konvertering/."""
+"""Krav: K4–K6 och K72, ADR-0005, ADR-0009 och ADR-0099.
+Kod: src/kommunhandlingar/konvertering/."""
 
 import os
 import unittest
@@ -120,6 +121,9 @@ class TestRegler(unittest.TestCase):
             (["ocr", "ej-konverterad"], "delvis"),
             (["tom", "ej-konverterad"], "ej-konverterad"),
             (["tom"], "ej-konverterad"),
+            (["ok", "bild", "tom"], "full"),
+            (["bild"], "full"),
+            (["bild", "ej-konverterad"], "delvis"),
         ):
             self.assertEqual(dokumentets(sidor), vantat, sidor)
 
@@ -177,7 +181,7 @@ class TestOcrFel(unittest.TestCase):
     def test_sakerhet_under_troskeln_ger_ingen_text(self):
         sida = pdfium.PdfDocument(PDF / "sidor.pdf")[10]
         with mock.patch.object(ocr, "medelsakerhet", return_value=69.9):
-            self.assertIsNone(ocr.las(sida))
+            self.assertIsNone(ocr.las(ocr.rendera(sida)).text)
 
     def test_saknad_tesseract_stoppar_innan_nagot_lases(self):
         with mock.patch.dict(os.environ, {"PATH": ""}):

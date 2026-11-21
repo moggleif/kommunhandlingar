@@ -65,7 +65,8 @@ def kvalitetsfalt(poolens_version: str, resultat: Resultat) -> dict:
 def versioner(resultat: Resultat) -> list[str]:
     lasta = [f"{namn} {version(namn)}" for namn in VERKTYG]
     kvaliteter = set(resultat.kvalitet_per_sida or [])
-    return lasta + (ocr.verktyg() if kvaliteter & {"ocr", "ej-konverterad"} else [])
+    lasta_med_ocr = kvaliteter & {"ocr", "bild", "ej-konverterad"}
+    return lasta + (ocr.verktyg() if lasta_med_ocr else [])
 
 
 def oppningsfel(fel: pdfium.PdfiumError) -> str:

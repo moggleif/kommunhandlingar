@@ -31,7 +31,7 @@ Regler för det här repot, utöver MADR:
 | 0002 | [Kort AGENTS.md, faserna som skills och en egen granskningsagent](0002-kort-agentfil-faser-som-skills-och-egen-granskare.md) | accepted |
 | 0003 | [Dokumentet identifieras av sin plats i modellen och en källnyckel; sha256 är versionen](0003-dokumentets-identitet-och-datamodell.md) | accepted |
 | 0004 | [Inkrementell körning: poolen är tillståndet och adressen är signalen](0004-inkrementell-korning-poolen-ar-tillstandet.md) | accepted (0019 lägger till omkonvertering vid en annan version) |
-| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje, 0034 fäller avskurna tabeller, 0036 tar bort mellanslag inne i en siffra, 0087 räknar kanten mellan två cellrutor som linje) |
+| 0005 | [Konvertering: pdfplumber och Tesseract, tal bara från textlagret, och kvalitet som den sämsta sidan avgör](0005-konvertering-verktyg-ocr-och-kvalitet.md) | accepted (0016 skärper av säker tabell, 0033 märker talrader i linje, 0034 fäller avskurna tabeller, 0036 tar bort mellanslag inne i en siffra, 0087 räknar kanten mellan två cellrutor som linje, 0099 märker inskannade bilder och vänder vridna sidor) |
 | 0006 | [Körningen sker varje natt i GitHub Actions och checkar in data direkt till `main` efter datakontrollerna](0006-schemalagd-korning-i-actions-och-data-direkt-till-main.md) | accepted (0075 ger varje dokument en egen tidsgräns) |
 | 0007 | [Poolen är en ögonblicksbild: det som en gång checkats in tas inte bort, och historiken skrivs inte om](0007-poolen-ar-en-ogonblicksbild.md) | accepted |
 | 0008 | [Kommunkonfigurationen skrivs i TOML, en fil per kommun, och artigheten per värd står i en gemensam fil](0008-kommunkonfigurationen-i-toml.md) | accepted |
@@ -43,9 +43,9 @@ Regler för det här repot, utöver MADR:
 | 0014 | [Markdown-texten har en kommentar per sida, uppställningen kvar och de säkra tabellerna efter sidans text](0014-markdown-texten-och-steg-2.md) | accepted (0021 lägger till escapning) |
 | 0015 | [Nattkörningen checkar in på en egen gren, och datat når `main` genom en PR med samma kontroller som all annan ändring](0015-nattkorningen-pa-egen-gren-och-pr.md) | accepted (0052 låter körningen öppna och merga PR:en själv, 0088 sparar var 15:e minut) |
 | 0016 | [Tabeller utan lodräta linjer läses ur textlagrets ord och blir CSV bara när talen står i linje](0016-tabeller-utan-lodrata-linjer.md) | accepted (0028 delar tabeller med linjer och flera tal i en cell; 0030 fäller en ombruten etikett; 0035 tar med avsnittsrubriker och årtal; 0040 läser rubriker i kolumnens fack) |
-| 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted (0055 behåller tolkningarna i granskade dokument) |
+| 0017 | [Sidor med figurer märks vid konverteringen och tolkas i efterhand av en Claude-session](0017-figurer-marks-och-tolkas-i-efterhand.md) | accepted (0055 behåller tolkningarna i granskade dokument, 0099 märker bildytor på inskannade sidor) |
 | 0018 | [Wayback hämtas sist i nattkörningen, nyast först, och fyller bara luckor](0018-wayback-sist-nyast-forst-och-bara-luckor.md) | accepted (0027 slår på arkivet per organ, 0076 konverterar om arkivets egna dokument) |
-| 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted (0055 undantar granskade dokument) |
+| 0019 | [Ett dokument från en annan version av poolen hämtas igen och konverteras om, efter alla andra kandidater](0019-omkonvertering-efter-poolens-version.md) | accepted (0055 undantar granskade dokument, 0099 undantar dokument som är full) |
 | 0020 | [Luckorna räknas fram ur poolen på statussidan och lagras inte](0020-luckor-raknas-fram-lagras-inte.md) | accepted (0062 visar år utan dokument) |
 | 0021 | [Poolens text escapas vid konverteringen så att den är riktig Markdown, och CI kör Markdown-lint](0021-texten-ar-riktig-markdown.md) | accepted |
 | 0022 | [Personnummer, mobilnummer, e-post och gatuadresser maskas vid konverteringen; namn står kvar](0022-personuppgifter-maskas-vid-konverteringen.md) | accepted |
@@ -114,3 +114,4 @@ Regler för det här repot, utöver MADR:
 | 0088 | [Nattkörningen sparar det klara var 15:e minut](0088-nattkorningen-sparar-var-femtonde-minut.md) | accepted |
 | 0089 | [Sökindex över protokollens paragrafer, i Giffås format](0089-sokindex-over-protokollens-paragrafer.md) | accepted |
 | 0098 | [Regionens fullmäktigemål är ett eget slag, regionmål](0098-regionmal-ar-ett-eget-slag.md) | accepted |
+| 0099 | [Inskannade bilder märks som bild, bildytor maskas, och vridna sidor vänds](0099-inskannade-bilder-markas-och-vridna-sidor-vands.md) | accepted |
