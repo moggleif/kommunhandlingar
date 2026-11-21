@@ -79,8 +79,8 @@ def rensad(text: str) -> str:
 
 
 def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
-    """En sida som läses med OCR; en `bild` och en sida som inte blir text
-    får inga tal bekräftade, och en tom sida prövas inte för figurer (K72)."""
+    """En sida som läses med OCR (K72). Bara en `tom` sida är utan
+    obekräftade tal och står aldrig i `figurer`."""
     skannad_ = skannad.las(rendering)
     figur = figur or skannad_.figur
     match skannad_.kvalitet:

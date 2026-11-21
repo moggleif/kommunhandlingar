@@ -72,8 +72,9 @@ Hur och varför står i
   nätterna. PDF:en sparas inte mellan körningarna; den hämtas igen.
   Ett granskat dokument konverteras inte om
   ([Granskade dokument](#granskade-dokument)), och inte heller ett som
-  är `full`: dess sidor är redan lästa så bra som de kan bli (K72,
-  [ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)).
+  är `full`: projektägaren valde att poolens bästa dokument inte läses om
+  (K72, [ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)).
+  En senare förbättring av textlagret når dem därför inte av sig själv.
 - **Det som en gång tagits in tas inte bort** (K12,
   [ADR-0007](decisions/0007-poolen-ar-en-ogonblicksbild.md)). Ett
   dokument står kvar när det försvinner ur källan, och historiken på
@@ -859,7 +860,7 @@ Varje sida får en kvalitet:
 | `ocr`            | Sidan lästes med OCR. Den får inga CSV:er.                       |
 | `tabell-osaker`  | Textlagret är läst, men sidan har en osäker tabell, eller siffror ur en tabell med linjer som inte gick att läsa säkert. |
 | `ok`             | Textlagret är läst, och sidans tabeller är säkra.                |
-| `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit, eller skulle läsas med OCR, nådde inte tröskeln, och nästan inget på den är mörkt (K72). |
+| `tom`            | Sidan har inga tecken och är, renderad, nästan helt vit, eller skulle läsas med OCR, nådde inte tröskeln, nästan inget på den är mörkt och Tesseract hittade inga ord (K72). |
 
 Först räknas sidans tecken med pypdfium2. Har textlagret fler än 500 000
 tecken läses sidan inte: den blir `ej-konverterad` och står i `figurer`
@@ -900,7 +901,7 @@ nattkörningen checkar inte in något
   en bildyta maskas och en vriden sida vänds innan sidan ger upp. Fallerar Tesseract på en sida, eller blir den inte
   klar på fem minuter, blir sidan `ej-konverterad` och felet skrivs ut;
   dokumentets övriga sidor behålls. Ord på högkant målas vita och sidan
-  läses om ([Text på högkant](#text-på-högkant)). Saknas Tesseract eller `swe` stoppas
+  läses om ([Text på högkant](#text-på-högkant)). Saknas Tesseract, `swe` eller `osd` stoppas
   steg 2 innan något dokument läses, så att ingen sida märks
   `ej-konverterad` för att miljön saknar något. På en OCR-sida letas
   inga tabeller;
@@ -1081,7 +1082,9 @@ grannrutorna varandra, i brus gör de inte det.
    `osd`) säger hur sidan ska vridas; säger den 90, 180 eller 270 grader
    med en säkerhet på minst 2, vänds sidan och läses om.
 3. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
-4. **Nästan tom:** är högst 0,5 % av sidan mörk blir sidan `tom`.
+4. **Nästan tom:** är högst 0,5 % av sidan mörk och hittade Tesseract
+   inte ett enda ord, blir sidan `tom`. En namnteckning eller en kort rad
+   som inte gick att läsa ger ord och blir därför inte `tom`.
 5. **Annars** blir sidan `ej-konverterad`.
 
 En sida som får text i steg 1 eller 2 blir `ocr`. En OCR-sida med en

@@ -38,10 +38,13 @@ riktiga sidor och skiljer foton och kartor från brus utan nya beroenden.
 
 Sidan renderas i 100 dpi i färg och delas i 48 × 48 rutor. En ruta är
 bild när minst 30 % av den är mörk eller minst 30 % färgad, och högst
-30 % av den täcks av ord som Tesseract läst med säkerhet minst 50. Den
+30 % av den täcks av ord med minst två tecken som Tesseract läst med
+säkerhet minst 50. Den
 största sammanhängande ytan av sådana rutor är sidans bildyta. Den
 räknas som bild bara när intilliggande rutor liknar varandra (ett foto,
-en karta) och inte när de skiljer sig som i brus.
+en karta) och inte när de skiljer sig som i brus. En sida är `tom` bara när nästan
+inget är mörkt och Tesseract inte hittade ett enda ord, så att en
+namnteckning eller en kort rad förblir `ej-konverterad`.
 
 ### Consequences
 
@@ -49,7 +52,9 @@ en karta) och inte när de skiljer sig som i brus.
   oläst text, och dokument med bara sådana sidor blir `full`.
 * Bra, eftersom halva bildsidor och vridna sidor ofta blir läsbar text.
 * Bra, eftersom omkonverteringen hoppar över dokument som redan är
-  `full` och därför inte kan bli bättre.
+  `full`, så att de inte hämtas igen vid varje version.
+* Dåligt, eftersom en senare förbättring av textlagret inte når ett
+  dokument som är `full` utan ett eget beslut.
 * Dåligt, eftersom tunna linjeritningar och ljusa kartor ofta inte når
   gränsen för bildyta och förblir `ej-konverterad`.
 * Dåligt, eftersom en sida som inte når tröskeln läses upp till tre gånger
@@ -59,7 +64,8 @@ en karta) och inte när de skiljer sig som i brus.
 
 `tests/test_bildyta.py` prövar rutnätet med små ritade sidor, och
 `tests/test_skannad.py` hela vägen med Tesseract: ett foto, en halv
-bildsida, en vriden sida, en färgad baksida och brus.
+bildsida, en vriden sida, en färgad baksida och en namnteckning. Bruset prövas i `tests/test_konvertering.py` med
+`tests/fixtures/pdf/sidor.pdf`.
 
 ## Pros and Cons of the Options
 
@@ -119,6 +125,22 @@ Det, handskriften och de dåliga skanningarna är de sista procenten och
 utreds för sig.
 
 Agenten rekommenderade att låta omkonverteringen i Kungsbacka vara på,
-så att de gamla dokumenten med en svagare sida läses om efter hand, och
-att hoppa över de dokument som redan är `full`, eftersom de bara skulle
-ge samma resultat; ägaren instämde.
+så att de gamla dokumenten med en svagare sida läses om efter hand; ägaren
+instämde.
+
+### Omkonverteringen och dokument som är `full`
+
+Tre alternativ prövades:
+
+* A: ett dokument som är `full` konverteras inte om
+* B: allt ogranskat konverteras om vid en ny version, som i ADR-0019
+* C: `full` hoppas över bara i den version där konverteringen inte
+  ändrat något som rör textlagret
+
+Projektägaren valde A, eftersom poolens bästa dokument då inte hämtas
+och läses om varje gång koden ändras. B ger att varje förbättring når hela
+poolen, men kostar en ny hämtning av omkring 3 400 dokument per version.
+C kräver att varje version bedöms för hand, och den bedömningen går lätt
+fel. Det som A kostar är att en senare förbättring av textlagret, till
+exempel en ny maskning av personuppgifter, inte når ett dokument som är
+`full`. En sådan förbättring behöver ett eget beslut om att läsa om dem.

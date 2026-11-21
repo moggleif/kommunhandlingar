@@ -129,7 +129,7 @@ def storlek(celler: list[int]) -> int:
 
 def jamn(bild: Image.Image, celler: list[int]) -> bool:
     """Medelavvikelsen mellan grannrutorna i ytan, delad med rutornas
-    standardavvikelse, är under gränsen. I brus är den nära 1,13."""
+    standardavvikelse, är under gränsen; i brus är den över 1."""
     gra = bild.convert("L").resize((RUTOR, RUTOR), Image.BOX).tobytes()
     i_ytan = set(celler)
     varden = [gra[c] for c in celler]
@@ -138,6 +138,6 @@ def jamn(bild: Image.Image, celler: list[int]) -> bool:
     skillnader = [
         abs(gra[c] - gra[g]) for c in celler for g in grannar(c) if g in i_ytan
     ]
-    if not skillnader or spridning == 0:
+    if spridning == 0:
         return True
     return sum(skillnader) / len(skillnader) / spridning < JAMN

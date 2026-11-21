@@ -4,6 +4,7 @@ sidor som läses av Tesseract, och maskningen med en läsning som byts ut."""
 
 import io
 import random
+import subprocess
 import unittest
 from unittest import mock
 
@@ -90,6 +91,23 @@ class TestSkannad(unittest.TestCase):
         ImageDraw.Draw(bild).ellipse((100, 100, 160, 160), fill=(20, 60, 120))
         self.assertEqual(skannad.las(sida(bild)), skannad.Skannad("tom"))
 
+    def test_namnteckning_blir_inte_tom(self):
+        bild = vit()
+        slump, rita = random.Random(2), ImageDraw.Draw(bild)
+        linje = [(400 + 6 * i, 900 + slump.randint(-40, 40)) for i in range(60)]
+        rita.line(linje, fill=(20, 20, 80), width=3)
+        rita.text(
+            (400, 980), "Ordforande", fill=0, font=ImageFont.load_default(size=24)
+        )
+        self.assertEqual(skannad.las(sida(bild)).kvalitet, "ej-konverterad")
+
+    def test_tesseract_som_fallerar_lases_inte_om(self):
+        with mock.patch.object(ocr, "las", return_value=ocr.Lasning(None)) as las:
+            resultat = skannad.las(sida(vit()))
+        self.assertEqual(
+            (resultat, las.call_count), (skannad.Skannad("ej-konverterad"), 1)
+        )
+
     def test_bildytan_maskas_nar_sidan_inte_nar_troskeln(self):
         """Läsningen byts ut: bara den med kartan vit når tröskeln."""
         bild = vit()
@@ -98,7 +116,7 @@ class TestSkannad(unittest.TestCase):
 
         def las(gra: Image.Image) -> ocr.Lasning:
             vitt = gra.getpixel((gra.width // 2, gra.height * 3 // 4)) == 255
-            return ocr.Lasning("Kommunstyrelsen" if vitt else None)
+            return ocr.Lasning("Kommunstyrelsen" if vitt else None, ordantal=9)
 
         with mock.patch.object(ocr, "las", side_effect=las):
             resultat = skannad.las(sida(bild))
@@ -115,6 +133,17 @@ class TestRiktning(unittest.TestCase):
         for svar in ("Rotate: 90\nOrientation confidence: 1.2\n", ""):
             with mock.patch.object(riktning, "detektera", return_value=svar):
                 self.assertEqual(riktning.grader(Image.new("L", (10, 10))), 0)
+
+    def test_tidsgrans_och_fel_ger_ingen_riktning(self):
+        fel = subprocess.CompletedProcess([], 1, "", "Error: trasig bild")
+        for svar in (subprocess.TimeoutExpired("tesseract", 300), fel):
+            with (
+                self.subTest(svar=type(svar).__name__),
+                mock.patch.object(subprocess, "run", side_effect=[svar]),
+                mock.patch("sys.stderr") as stderr,
+            ):
+                self.assertEqual(riktning.grader(Image.new("L", (10, 10))), 0)
+                self.assertTrue(stderr.write.called)
 
     def test_sida_utan_text_har_ingen_riktning(self):
         self.assertEqual(riktning.grader(Image.new("L", (800, 1000), 255)), 0)

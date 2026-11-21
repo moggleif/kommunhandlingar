@@ -185,8 +185,8 @@ kunna läggas till utan kodändring.
   utan tecken, eller en sida där textlagret är oläsligt
 - **När** dokumentet konverteras
 - **Så** läses sidan med OCR och märks `ocr`. Når OCR inte
-  säkerhetströskeln märks sidan `ej-konverterad`, och ingen text från den
-  skrivs.
+  säkerhetströskeln märks sidan `ej-konverterad`, eller `bild` eller `tom`
+  enligt K72, och ingen text från den skrivs.
 
 - **Givet** en sida vars tal inte är bekräftade – en sida som lästs med
   OCR, en sida som inte gick att konvertera, ett textlager med oläsliga
@@ -270,8 +270,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** att en källnyckel redan finns i poolen som ett dokuments
   `kallnyckel`, med samma `kalla_url` som upptäckten anger och utan
   kvalitet `ej-hamtad`, och, när kommunfilen har `omkonvertera = true`,
-  med den version av poolen som körs i `pipeline` eller ett datum i
-  `granskad` (K34)
+  med den version av poolen som körs i `pipeline`, ett datum i
+  `granskad` (K34) eller kvalitet `full` (K72)
 - **När** en ny körning startas
 - **Så** hämtas filen inte, och dokumentets `.md` lämnas orörd.
 
@@ -296,8 +296,9 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
   `.md` på samma sökväg.
 
 - **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
-  dokument som inte är granskat (K34) och vars `pipeline` har en annan
-  version av poolen än den som körs, och en kandidat med samma
+  dokument som inte är granskat (K34) eller `full` (K72) och vars
+  `pipeline` har en annan version av poolen än den som körs, och en
+  kandidat med samma
   källnyckel och samma `kalla_url`
 - **När** körningen når kandidaten
 - **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
@@ -329,8 +330,8 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** nästa körning hittar den
 - **Så** uppdateras bara `kalla_url`, och texten konverteras inte om, om
   inte kommunfilen har `omkonvertera = true` och dokumentets `pipeline`
-  har en annan version av poolen än den som körs; då konverteras det om
-  som i K8.
+  har en annan version av poolen än den som körs och dokumentet inte är
+  `full` (K72); då konverteras det om som i K8.
 
 - **Givet** att kommunen publicerar en fil under en ny källnyckel på ett
   dokuments plats, och den gamla källnyckeln inte längre finns i källan
@@ -1760,8 +1761,8 @@ och [Körning och incheckning](03-ARKITEKTUR.md#körning-och-incheckning).
 - **När** den nås
 - **Så** läggs dokumentet åt sidan som i K11, utan att något skrivs.
 - **Givet** en kommunfil med `omkonvertera = true` och ett fullständigt
-  dokument ur arkivet som inte är granskat (K34), vars `pipeline` har en
-  annan version av poolen än den som körs
+  dokument ur arkivet som inte är granskat (K34) eller `full` (K72), vars
+  `pipeline` har en annan version av poolen än den som körs
 - **När** arkivets kandidat med samma källnyckel och samma `kalla_url`
   tas
 - **Så** hämtas kopian och konverteras om som i K8, efter arkivets
@@ -2121,12 +2122,14 @@ läsa: inte ett foto, en karta eller en tom sida.
 - **Så** vänds den efter Tesseracts riktning och läses om; når den
   tröskeln blir sidan `ocr`.
 
-- **Givet** en inskannad sida där OCR inte når tröskeln och nästan inget
-  är mörkt, som en färgad baksida eller en sida med bara en liten logga
+- **Givet** en inskannad sida där OCR inte når tröskeln, nästan inget
+  är mörkt och Tesseract inte hittar något ord, som en färgad baksida
+  eller en sida med bara en liten logga
 - **När** sidan konverteras
 - **Så** blir sidan `tom`.
 
-- **Givet** en skanning av brus, eller text som är för dålig för OCR
+- **Givet** en skanning av brus, text som är för dålig för OCR, eller en
+  sida med bara en namnteckning
 - **När** sidan konverteras
 - **Så** blir sidan `ej-konverterad` som förut: den ska läsas av en
   människa.
