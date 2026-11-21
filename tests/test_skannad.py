@@ -103,16 +103,33 @@ class TestSkannad(unittest.TestCase):
 
     def test_sakra_rader_lases_nar_sidan_inte_nar_troskeln(self):
         """En textsida där en underskrift eller en logga drar ner säkerheten."""
-        lasning = ocr.Lasning(None, ordantal=60, tsv="tsv")
+        bild = vit()
+        text(bild, 4)
+        karta(bild, (60, 500, B - 60, H - 60))
         with (
-            mock.patch.object(ocr, "las", return_value=lasning),
-            mock.patch.object(
-                skannad.sakra_rader, "las", return_value="Beslut"
-            ) as rader,
+            mock.patch.object(ocr, "las", return_value=ocr.Lasning(None, ordantal=60)),
+            mock.patch.object(skannad.sakra_rader, "las", return_value="Beslut"),
+        ):
+            resultat = skannad.las(sida(bild))
+        self.assertEqual(resultat, skannad.Skannad("ocr", "Beslut", True))
+
+    def test_tesseract_som_fallerar_i_en_vriden_lasning(self):
+        with (
+            mock.patch.object(ocr, "las", return_value=ocr.Lasning(None, ordantal=9)),
+            mock.patch.object(ocr, "las_bild", return_value=None),
         ):
             resultat = skannad.las(sida(vit()))
-        self.assertEqual(resultat, skannad.Skannad("ocr", "Beslut"))
-        self.assertEqual(rader.call_args.args[1], "tsv")
+        self.assertEqual(resultat.kvalitet, "ej-konverterad")
+
+    def test_ljus_fargad_bild_over_hela_sidan_blir_bild(self):
+        """Bild prövas före nästan tom, som i K72."""
+        bild = Image.new("RGB", (B, H), (170, 215, 240))
+        rita = ImageDraw.Draw(bild)
+        for i in range(0, H, 40):
+            rita.rectangle((0, i, B, i + 20), fill=(150, 225, 200))
+        with mock.patch.object(ocr, "las", return_value=ocr.Lasning(None, ordantal=0)):
+            resultat = skannad.las(sida(bild))
+        self.assertEqual(resultat, skannad.Skannad("bild", figur=True))
 
     def test_karta_med_for_fa_sakra_rader_blir_bild(self):
         bild = vit()

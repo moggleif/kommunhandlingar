@@ -2161,13 +2161,19 @@ inte, men tryckt text som går att läsa säkert ska bli sökbar.
 - **Så** läses den också vriden 90° åt båda hållen, och den läsning som
   ger flest ord på säkra rader gäller.
 
-- **Givet** en inskannad sida där OCR inte når tröskeln, som inte är
-  nästan tom och där färre än 30 ord står på säkra rader, till exempel en
-  ljus karta, en ritning, handskrift, ett omslag eller för liten text
+- **Givet** en inskannad sida där OCR inte når tröskeln och färre än 30
+  ord står på säkra rader, till exempel en ljus karta, en ritning,
+  handskrift, ett omslag, för liten text eller en skanning som är för
+  dålig för OCR
 - **När** sidan konverteras
-- **Så** blir den `bild` om den till största delen är en jämn bildyta
-  (K72), och annars `ointressant`; ingen text skrivs, och ett dokument
-  vars övriga sidor är `ok`, `tom` eller `bild` blir `full`.
+- **Så** blir den `bild` om den till största delen är en jämn bildyta och
+  `tom` om den är nästan tom (K72), och annars `ointressant`; ingen text
+  skrivs, och ett dokument vars övriga sidor är `ok`, `tom` eller `bild`
+  blir `full`.
+
+- **Givet** en inskannad sida där Tesseract fallerar i en vriden läsning
+- **När** sidan läses rad för rad
+- **Så** blir sidan `ej-konverterad`.
 
 - **Givet** en granskning för hand (K34) av en sida som inte har någon
   text att lagra

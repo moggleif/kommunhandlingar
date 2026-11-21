@@ -46,4 +46,6 @@ def main(data: Path) -> None:
 
 
 if __name__ == "__main__":
+    if len(sys.argv) != 2:
+        sys.exit("Användning: python -m kommunhandlingar.kand_inlasning <data>")
     main(Path(sys.argv[1]))

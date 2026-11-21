@@ -6,7 +6,8 @@ bokstäver behålls. Punktutfyllnad räknas inte in i radens säkerhet. Sidan
 läses också vriden 90° åt båda hållen, för text på högkant som i en
 plankarta, och den läsning som ger flest ord i säkra rader gäller. Ger den
 färre än 30 ord har sidan ingen text att lagra
-(docs/03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text).
+(docs/03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text). Fallerar
+Tesseract i en vriden läsning är sidan inte läst (`Fallerade`).
 """
 
 import re
@@ -18,8 +19,14 @@ from kommunhandlingar.konvertering import ocr
 RADSAKERHET = 80
 MINSTA_ORD = 30
 VRIDNINGAR = (90, 270)
-UTFYLLNAD = re.compile(r"\.{3,}|^[.,:;…s]{4,}$")
+# Ett ord ur en innehållsförtecknings punktutfyllnad, som Tesseract läser
+# osäkert; `ocr.UTFYLLNAD` rättar hela utfyllnaden i texten.
+PUNKTORD = re.compile(r"\.{3,}|^[.,:;…s]{4,}$")
 BOKSTAVER = re.compile(r"[^\W\d_]{3,}")
+
+
+class Fallerade(Exception):
+    """Tesseract fallerade eller blev inte klar i en vriden läsning."""
 
 
 def las(gra: Image.Image, tsv: str) -> str | None:
@@ -33,7 +40,9 @@ def las(gra: Image.Image, tsv: str) -> str | None:
 
 def vriden(gra: Image.Image, grader: int) -> str:
     lasning = ocr.las_bild(gra.rotate(-grader, expand=True, fillcolor=255))
-    return lasning[0] if lasning else ""
+    if lasning is None:
+        raise Fallerade
+    return lasning[0]
 
 
 def rader(tsv: str) -> list[str]:
@@ -45,9 +54,10 @@ def rader(tsv: str) -> list[str]:
 
 
 def saker(rad: list[dict]) -> bool:
-    utan_utfyllnad = [o for o in rad if not UTFYLLNAD.search(o["text"])] or rad
-    sakerhet = sum(float(o["conf"]) for o in utan_utfyllnad) / len(utan_utfyllnad)
-    return sakerhet >= RADSAKERHET and any(BOKSTAVER.search(o["text"]) for o in rad)
+    ord_ = [o for o in rad if not PUNKTORD.search(o["text"])]
+    if not any(BOKSTAVER.search(o["text"]) for o in ord_):
+        return False
+    return sum(float(o["conf"]) for o in ord_) / len(ord_) >= RADSAKERHET
 
 
 def antal_ord(rader_: list[str]) -> int:

@@ -1062,9 +1062,11 @@ Verktygens versioner i `pipeline` ger ingen omkonvertering.
 
 Varför står i
 [ADR-0099](decisions/0099-inskannade-bilder-markas-och-vridna-sidor-vands.md)
-(K72). En sida som ska läsas med OCR läses först som förut, och sidans
+(K72) och
+[ADR-0100](decisions/0100-sakra-rader-lases-och-resten-ar-ointressant.md)
+(K73). En sida som ska läsas med OCR läses först som förut, och sidans
 **bildyta** räknas. Når sidan inte tröskeln prövas stegen nedan i
-ordning; det första som ger text gäller.
+ordning, och det första som stämmer gäller.
 
 **Bildytan.** Sidan renderas i 100 dpi i färg och delas i 48 × 48 rutor.
 En ruta är bild när minst 30 % av den är mörk (gråvärde under 200) eller
@@ -1082,31 +1084,31 @@ grannrutorna varandra, i brus gör de inte det.
 2. **Sidan vänds:** Tesseracts orienteringsdetektering (`--psm 0`, modellen
    `osd`) säger hur sidan ska vridas; säger den 90, 180 eller 270 grader
    med en säkerhet på minst 2, vänds sidan och läses om.
-3. **Nästan tom:** är högst 0,5 % av sidan mörk och hittade Tesseract
-   inte ett enda ord, blir sidan `tom`. En namnteckning eller en kort rad
-   som inte gick att läsa ger ord och blir därför inte `tom`.
-4. **Säkra rader** (K73,
-   [ADR-0100](decisions/0100-sakra-rader-lases-och-resten-ar-ointressant.md)):
-   sidan läses rad för rad. En rad behålls när medelvärdet av Tesseracts
-   säkerhet för dess ord är minst 80 och den har ett ord med minst tre
-   bokstäver; ett ord med punktutfyllnad (tre punkter i rad, eller bara
-   punkter, komman och `s`) räknas inte in i medelvärdet. Raderna är
-   Tesseracts egna (block, stycke, rad) ur den första läsningen. Sidan
+3. **Säkra rader** (K73): sidan läses rad för rad. En rad behålls när
+   den har ett ord med minst tre bokstäver och medelvärdet av Tesseracts
+   säkerhet för dess ord är minst 80; ett ord ur en punktutfyllnad (tre
+   punkter i rad, eller bara punkter, komman och `s`) räknas inte. Raderna
+   är Tesseracts egna (block, stycke, rad) ur den första läsningen. Sidan
    läses också vriden 90° åt båda hållen, för text på högkant som
    bestämmelserna i en plankarta, och den läsning som ger flest ord i
    säkra rader gäller. Ger den minst 30 ord blir sidan `ocr` med de
    raderna, i läsningens ordning; det som inte lästes säkert skrivs inte.
-5. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
+   Fallerar Tesseract i en vriden läsning blir sidan `ej-konverterad`.
+4. **Bild:** är bildytan minst 60 % av sidan och jämn blir sidan `bild`.
+5. **Nästan tom:** är högst 0,5 % av sidan mörk och hittade Tesseract
+   inte ett enda ord, blir sidan `tom`. En namnteckning eller en kort rad
+   som inte gick att läsa ger ord och blir därför inte `tom`.
 6. **Annars** blir sidan `ointressant`: den har ingen text som ska
-   lagras.
+   lagras. Det gäller en ljus karta eller ritning, handskrift, ett omslag,
+   för liten text och en skanning som är för dålig för att läsas säkert.
 
-En sida som får text i steg 1, 2 eller 4 blir `ocr`. En OCR-sida med en
+En sida som får text i steg 1, 2 eller 3 blir `ocr`. En OCR-sida med en
 jämn bildyta på minst 4 % står i `figurer`, och en `bild` står alltid där.
 En `bild` får ingen text och står i `tal_obekraftade`, eftersom talen i en
 karta eller ett diagram inte är lästa. En `ointressant` sida får ingen
 text, står inte i `figurer` och inte i `tal_obekraftade`, eftersom den
 inte har några tal som lagras. En sida blir `ej-konverterad` här bara
-när Tesseract fallerar.
+när Tesseract fallerar eller inte blir klar.
 
 ### Känd inläsning
 

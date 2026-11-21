@@ -3,12 +3,11 @@ ADR-0100. Test: tests/test_skannad.py och tests/test_konvertering.py.
 
 En sida som läses med OCR. Når den inte tröskeln maskas bildytan och
 sidan läses om, sedan vänds den om Tesseract säger att den ligger fel.
-Ger inget text blir sidan `tom` när nästan inget är mörkt och Tesseract
-inte hittar något ord. Annars läses de säkra raderna; ger de för lite
-text blir sidan `bild` när den till största delen är en jämn bildyta,
-och annars `ointressant`
-(docs/03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text). Fallerar
-Tesseract är sidan `ej-konverterad` direkt, utan fler läsningar.
+Ger inget text läses de säkra raderna (K73). Ger de för lite text blir
+sidan `bild` när den till största delen är en jämn bildyta, `tom` när
+nästan inget är mörkt och Tesseract inte hittar något ord, och annars
+`ointressant` (docs/03-ARKITEKTUR.md#inskannade-sidor-som-inte-blir-text).
+Fallerar Tesseract är sidan `ej-konverterad` direkt, utan fler läsningar.
 """
 
 from dataclasses import dataclass
@@ -45,18 +44,23 @@ def las(rendering: pdfium.PdfPage) -> Skannad:
         text = omlast(gra, skalad(yta.ruta, 1 / skala) if figur else None)
     if text is not None:
         return Skannad("ocr", text, figur)
-    if forsta.ordantal == 0 and bildyta.mork_andel(farg) <= NASTAN_TOM:
-        return Skannad("tom")
-    return utan_text(gra, forsta.tsv, yta)
+    return sakra(gra, forsta.tsv, figur) or utan_text(yta, farg, forsta.ordantal)
 
 
-def utan_text(gra: Image.Image, tsv: str, yta: bildyta.Yta) -> Skannad:
-    """De säkra raderna (K73), annars en bild eller inget att lagra."""
-    rader = sakra_rader.las(gra, tsv)
-    if rader is not None:
-        return Skannad("ocr", rader, yta.andel >= FIGUR and yta.jamn)
+def sakra(gra: Image.Image, tsv: str, figur: bool) -> Skannad | None:
+    """Sidan med sina säkra rader (K73), eller None när de är för få."""
+    try:
+        rader = sakra_rader.las(gra, tsv)
+    except sakra_rader.Fallerade:
+        return Skannad("ej-konverterad", figur=figur)
+    return None if rader is None else Skannad("ocr", rader, figur)
+
+
+def utan_text(yta: bildyta.Yta, farg: Image.Image, ordantal: int) -> Skannad:
     if yta.andel >= BILD and yta.jamn:
         return Skannad("bild", figur=True)
+    if ordantal == 0 and bildyta.mork_andel(farg) <= NASTAN_TOM:
+        return Skannad("tom")
     return Skannad("ointressant")
 
 

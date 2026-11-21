@@ -54,6 +54,15 @@ flesta textsidor från kartor och handskrift; plankartor med mycket text
 och blanketter med mycket tryckt text kommer över den och får sin
 tryckta text, och några innehållsförteckningar hamnar under den.
 
+Säkra rader prövas före `bild` och `tom` från K72, så att en textsida på
+grått papper eller med en stor bild får sin text. En sida med för få säkra
+rader prövas sedan som förut: en jämn bildyta blir `bild`, en nästan tom
+sida `tom`, och allt annat `ointressant`. Det gäller också en skanning som
+är för dålig för att läsas säkert: den går inte att skilja från en
+ritning eller handskrift utan att en människa läser den, och i provet
+fanns ingen sådan sida. Fallerar Tesseract i en vriden läsning blir sidan
+`ej-konverterad`, eftersom den då inte är läst.
+
 `ointressant` sätts också för hand i granskningen (K34) när regeln missat.
 `bild` står kvar för foton och kartor som K72 känner igen, så att
 figurtolkningen hittar dem.
@@ -75,6 +84,11 @@ hand kostar mest och gäller sidor som projektägaren inte vill lagra.
   handskriven blankett; den som behöver dem läser originalet.
 * Dåligt, eftersom en innehållsförteckning med få säkra rader blir
   `ointressant`.
+* Dåligt, eftersom en skanning av text som är för dålig för OCR också
+  blir `ointressant`, och dokumentet då kan bli `full` och inte
+  konverteras om (K72). Den hittas bara genom granskning.
+* Dåligt, eftersom en sida som ligger upp och ner och inte når tröskeln
+  efter vändningen bara läses rak och vriden 90° åt båda hållen.
 
 ### Confirmation
 
