@@ -1119,7 +1119,8 @@ Varför står i
 `python -m kommunhandlingar.kand_inlasning data` skriver för varje kommun
 antalet sidor med känd inläsning av alla sidor, andelen i procent med två
 decimaler, antalet sidor per sidkvalitet och antalet dokument utan sidor,
-som inte gick att hämta eller öppna och därför inte räknas in.
+som inte gick att hämta eller öppna och därför inte räknas in. Samma
+andel står på kommunens statussida (K14).
 
 ### Figurer
 
@@ -1953,9 +1954,12 @@ varje push till `main`, för hand och när ett issue med etiketten
   `data/<kommun>/`, utan att läsa indexet. Den har en rad per organ i
   kommunfilens ordning: antal sammanträden (olika `datum` och `lopnr`),
   antal dokument per `typ`, antal dokument per `kvalitet` och antal sidor
-  i `tal_obekraftade`. Ett organ utan dokument står med som "inget hämtat
-  än". Sidan räknar men visar inga andelar, eftersom det ännu inte finns
-  något att räkna andelen av.
+  i `tal_obekraftade`, och en tabell med antal sidor per sidkvalitet ur
+  `kvalitet_per_sida` och organets andel känd inläsning. Överst står hela
+  kommunens känd inläsning: sidor som inte är `ej-konverterad` av alla
+  sidor, med samma räkning som `kand_inlasning` (K73). Ett organ utan
+  dokument står med som "inget hämtat än". Andelen känd inläsning är den
+  enda andel sidan visar.
 - **Luckorna** (K7,
   [ADR-0020](decisions/0020-luckor-raknas-fram-lagras-inte.md)) räknas
   ur samma front matter, med sidans byggdatum som dag, enligt reglerna i

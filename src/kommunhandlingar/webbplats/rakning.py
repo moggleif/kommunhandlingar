@@ -1,4 +1,4 @@
-"""Krav: K7 och K14 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7, K14 och K73 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
 
 from collections import Counter
 from dataclasses import dataclass
@@ -18,6 +18,7 @@ class Organrad:
     sammantraden: int
     typer: Counter
     kvaliteter: Counter
+    sidor: Counter
     obekraftade_sidor: int
     luckor: list[Lucka]
     tomma_ar: list[str]
@@ -54,6 +55,7 @@ def organrad(organ: Organ, dokument: list[dict[str, str]], idag: date) -> Organr
         len({(d["datum"], d["lopnr"]) for d in dokument}),
         Counter(d["typ"] for d in dokument),
         Counter(d["kvalitet"] for d in dokument),
+        Counter(k for d in dokument for k in lista(d["kvalitet_per_sida"])),
         sum(len(lista(d["tal_obekraftade"])) for d in dokument),
         luckor(dokument, idag),
         tomma_ar(dokument),

@@ -485,6 +485,11 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **När** webbplatsen byggs
 - **Så** visar statussidan för varje organ antal dokument på varje
   kvalitetsnivå och antal sidor med obekräftade tal.
+- **Givet** dokument med olika sidkvalitet
+- **När** webbplatsen byggs
+- **Så** står överst på statussidan hur många av kommunens sidor som har
+  känd inläsning och andelen i procent (K73), och för varje organ antal
+  sidor av varje sidkvalitet och organets andel känd inläsning.
 - **Givet** ett dokument vars organ inte står i kommunfilen, eller vars typ
   eller kvalitet inte finns i schemat
 - **När** webbplatsen byggs
@@ -2184,4 +2189,5 @@ inte, men tryckt text som går att läsa säkert ska bli sökbar.
 - **När** `python -m kommunhandlingar.kand_inlasning data` körs
 - **Så** står hur många av kommunens sidor som har känd inläsning, alltså
   inte är `ej-konverterad`, andelen i procent, antalet sidor per
-  sidkvalitet och antalet dokument utan sidor.
+  sidkvalitet och antalet dokument utan sidor. Statussidan på
+  webbplatsen visar samma andel (K14).

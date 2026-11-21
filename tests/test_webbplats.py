@@ -139,7 +139,7 @@ class TestSidor(unittest.TestCase):
     def test_tom_pool(self):
         html = self.statussida()
         self.assertIn("Dokument: 0", html)
-        self.assertEqual(html.count("inget hämtat än"), 4)
+        self.assertEqual(html.count("inget hämtat än"), 6)
 
     def test_meny_sidfot_och_tid_pa_varje_sida(self):
         mall = Mall([exempelby()], REPO, TID)
