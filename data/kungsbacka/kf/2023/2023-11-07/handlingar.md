@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241109030321id_/https://kungsbacka.se/d
 sha256: 35804c506e9123e86d5073ea89eb636154dae593f2c65ab4976fd9636bdfb022
 bytes: 30807439
 sidor: 261
-hamtad: 2026-10-20T08:40:28+00:00
-konverterad: 2026-10-20T08:41:50+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T12:33:02+00:00
+konverterad: 2026-11-21T12:34:25+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok]
@@ -145,9 +145,8 @@ Det sakkunniga biträdets yttrande om delårsrapport
 Granskning av balanskrav och god ekonomisk hushållning
 
 1
-XNYEE-AV2FQ-8MTU6-M5KFA-3FQ31-ULEMO
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: OMELU-13QF3-AFK5M-6UTM8-QF2VA-EEYNX
 
 <!-- sida 5 -->
 
@@ -353,44 +352,59 @@ ey.com
 
 Det sakkunniga biträdets yttrande om
 delårsrapport
+
 Till revisorerna i Kungsbacka Kommun (org.nr 212000–1256)
+
 Inledning
 Vi har utfört en översiktlig granskning av resultat och ställning Kungsbacka Kommun har inlett en översyn av samtliga
 i delårsrapportens resultaträkning, balansräkning, den leasingavtal och delar av den leasing som nu redovisas som
 översiktliga beskrivningen av kommunens drift- och operationell kommer att övergå till att redovisas som finansiell
 investeringsverksamhet samt noter för Kungsbacka Kommun leasing. Översynen är inte avslutad varför en beloppsmässig
 för perioden 2023-01-01–2023-08-31. effekt inte är möjlig att fastslå.
+
 Det är styrelsen som har ansvaret för att upprätta och En omklassificering till finansiell leasing innebär att
 presentera denna delårsrapport i enlighet med lagen om balansomslutningen påverkas genom att anläggningstillgång
 kommunal bokföring och redovisning (LKBR). Vårt ansvar är respektive långfristig skuld redovisas för berörda
 att uttala en slutsats grundad på vår översiktliga granskning. leasingobjekt. Vi bedömer att påverkan på kommunens
-balansomslutning blir väsentlig, och påverkar därigenom även
+
 Den översiktliga granskningens inriktning och omfattning
-på de nyckeltal som påverkas av densamma. Nettoeffekten på
-Vi har utfört vår översiktliga granskning i enlighet med resultaträkningen bedöms inte bli väsentlig, men en
-Standard för kommunal räkenskapsrevision, Översiktlig omklassificering av delar av kostnaderna kommer ske från
-granskning av delårsrapport. En översiktlig granskning består Verksamhetens resultat till Resultat efter finansiella poster.
+Vi har utfört vår översiktliga granskning i enlighet med
+Standard för kommunal räkenskapsrevision, Översiktlig
+granskning av delårsrapport. En översiktlig granskning består
 av att göra förfrågningar, i första hand till personer som är
-Kungsbacka Kommun redovisar en avsättning för sluttäckning
 ansvariga för finansiella frågor och redovisningsfrågor, att
-av Barnamossens deponi om 65 mnkr i delårsbokslutet. I
 utföra analytisk granskning och att vidta andra översiktliga
-delårsrapporten lämnas upplysning om att det finns tecken på
 granskningsåtgärder. En översiktlig granskning har en annan
-att sluttäckningen riskerar att bli dyrare än vad kommunen
 inriktning och en betydligt mindre omfattning jämfört med den
-hittills räknat med. Vi har inte kunnat inhämta tillräckliga och
 inriktning och omfattning som en revision enligt Standard för
-ändamålsenliga revisionsbevis rörande den redovisade
 kommunal räkenskapsrevision har.
-avsättningen för sluttäckning eftersom det saknas ett adekvat
-De granskningsåtgärder som vidtas vid en översiktlig underlag för avsättningens storlek.
+De granskningsåtgärder som vidtas vid en översiktlig
 granskning gör det inte möjligt för oss att skaffa oss en sådan
-säkerhet att vi blir medvetna om alla viktiga omständigheter Slutsats med avvikande mening respektive slutsatser
-som skulle kunna ha blivit identifierade om en revision utförts. Enligt vår uppfattning har delårsrapporten, på grund av hur
-Den uttalade slutsatsen grundad på en översiktlig granskning betydelsefullt de förhållanden som beskrivs ovan i stycket
-har därför inte den säkerhet som en uttalad slutsats grundad Grund för slutsats med avvikande mening, inte upprättats i
-på en revision har.              enlighet med LKBR.
+säkerhet att vi blir medvetna om alla viktiga omständigheter
+som skulle kunna ha blivit identifierade om en revision utförts.
+Den uttalade slutsatsen grundad på en översiktlig granskning
+har därför inte den säkerhet som en uttalad slutsats grundad
+på en revision har.
+
+balansomslutning blir väsentlig, och påverkar därigenom även
+på de nyckeltal som påverkas av densamma. Nettoeffekten på
+resultaträkningen bedöms inte bli väsentlig, men en
+omklassificering av delar av kostnaderna kommer ske från
+Verksamhetens resultat till Resultat efter finansiella poster.
+Kungsbacka Kommun redovisar en avsättning för sluttäckning
+av Barnamossens deponi om 65 mnkr i delårsbokslutet. I
+delårsrapporten lämnas upplysning om att det finns tecken på
+att sluttäckningen riskerar att bli dyrare än vad kommunen
+hittills räknat med. Vi har inte kunnat inhämta tillräckliga och
+ändamålsenliga revisionsbevis rörande den redovisade
+avsättningen för sluttäckning eftersom det saknas ett adekvat
+underlag för avsättningens storlek.
+Slutsats med avvikande mening respektive slutsatser
+Enligt vår uppfattning har delårsrapporten, på grund av hur
+betydelsefullt de förhållanden som beskrivs ovan i stycket
+Grund för slutsats med avvikande mening, inte upprättats i
+enlighet med LKBR.
+
 Det sakkunniga biträdets granskning av den förenklade En förenklad förvaltningsberättelse har upprättats i enlighet
 förvaltningsberättelsen inklusive sammanställda med LKBR.
 räkenskaper
@@ -419,10 +433,10 @@ bedömning är att Kungsbacka Kommuns Övrigt eget kapital
 ska ökas med 1 220 mkr, Ansvarsförbindelser ska ökas och
 Avsättningar för pensioner ska minskas med motsvarande
 belopp.
+
 1 (1)
-MEVUC-JIAL5-PXEIO-26JX5-EP52Y-KM1L2
-:lekcyntnemukod
-oenneP
+
+Penneo dokumentnyckel: 2L1MK-Y25PE-5XJ62-OIEXP-5LAIJ-CUVEM
 
 <!-- sida 15 -->
 
@@ -740,14 +754,14 @@ Kungsbacka kommun          Delårsbokslut 2023                   3
 
 [Tabell 23-1](handlingar.tabeller/23-1.csv)
 
-| Belopp i miljoner kronor 2023-08-31 Prognos 2023 |  |  |
+| Belopp i miljoner kronor | 2023-08-31 | Prognos 2023 |
 | --- | --- | --- |
 | Kungsbacka kommun | 232 | 230 |
 | Kommunkoncern | 291 | - |
 
 [Tabell 23-2](handlingar.tabeller/23-2.csv)
 
-| Pensioner inklusive särskild löneskatt, miljoner 2022 Prognos 2023<br>kronor |  |  |
+| Pensioner inklusive särskild löneskatt, miljoner<br>kronor | 2022 | Prognos 2023 |
 | --- | --- | --- |
 | Årets pensionskostnader i resultaträkningen | 259 | 506 |
 | Summa pensionsförpliktelser i balansräkningen | 1 788 | 1 942 |
@@ -1044,7 +1058,7 @@ Kungsbacka kommun          Delårsbokslut 2023                   9
 
 [Tabell 29-1](handlingar.tabeller/29-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. | – |
 | Kungsbacka har välkomnande och trygga miljöer. | – |
@@ -1141,7 +1155,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  11
 
 [Tabell 31-1](handlingar.tabeller/31-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kungsbacka växer med en långsiktigt hållbar ekonomi. | – |
 | Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. |  |
@@ -1246,7 +1260,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  13
 
 [Tabell 33-1](handlingar.tabeller/33-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. |  |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. |  |
@@ -1293,7 +1307,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  14
 
 [Tabell 34-2](handlingar.tabeller/34-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
 | I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. | – |
@@ -1391,7 +1405,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  16
 
 [Tabell 36-2](handlingar.tabeller/36-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. |  |
 | Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
@@ -1542,7 +1556,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  19
 
 [Tabell 39-1](handlingar.tabeller/39-1.csv)
 
-| Prognos<br>Balanskravsutredning, miljoner kronor 2022<br>2023 |  |  |
+| Balanskravsutredning, miljoner kronor | 2022 | Prognos<br>2023 |
 | --- | --- | --- |
 | Årets resultat enligt resultaträkningen (fullfondsmodellen) | 756 | 230 |
 | Pensionsförpliktelser före 1998 | -42 | 21 |
@@ -1903,7 +1917,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  27
 
 [Tabell 47-1](handlingar.tabeller/47-1.csv)
 
-| Miljoner kronor Delår Delår Bokslut Budget Prognos Prognos Avvikelse |  |  |  |  |  |  |  |
+| Miljoner kronor | Delår | Delår | Bokslut | Budget | Prognos | Prognos | Avvikelse |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 2022 | 2023 | 2022 | 2023 | 2023 | Avvikelse | Procent |
 | Kommunfullmäktige | -2,1 | -3,7 | -3,5 | -6,6 | -4,9 | 1,7 | 25,8% |
@@ -2132,7 +2146,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  31
 
 [Tabell 51-4](handlingar.tabeller/51-4.csv)
 
-| Miljoner kronor Utfall Prognos Prognos Beslutad/ Avvikelse<br>tom 2023 för kalkylerade<br>2023- projektet utgifter<br>08-31 |  |  |  |  |  |
+| Miljoner kronor | Utfall<br>tom<br>2023-<br>08-31 | Prognos<br>2023 | Prognos<br>för<br>projektet | Beslutad/<br>kalkylerade<br>utgifter | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | VA sanering Hanhals etapp 1 | -33,3 | -50,0 | -80 | -80 | 0 |
 | Fjärås VV Hammerö etapp 1 | -85,6 | -9,0 | -85,6 | -70 | -15,6 |
@@ -4598,14 +4612,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun              VA-taxa 2024                   4 (16)
 
 [Tabell 111-1](handlingar.tabeller/111-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -4836,7 +4849,8 @@ Kung sbacka kommun              VA-taxa 2024                   9 (16)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 117 -->
 
@@ -4894,7 +4908,8 @@ Kung sbacka kommun              VA-taxa 2024                   10 (16)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22 kr | om 28 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22 kr | om 28 kr |
+| av dagvatten |  |  |
 
 <!-- sida 118 -->
 
@@ -5047,16 +5062,9 @@ Kung sbacka kommun              VA-taxa 2024                   13 (16)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift                           500 kr
-
-b) en avgift per m³ hämtat vatten         20 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 0,95 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -5084,6 +5092,18 @@ En Grundavgift per år 14.1 a) 360 kr 360 kr
 
 Kung sbacka kommun              VA-taxa 2024                   14 (16)
 
+[Tabell 121-1](handlingar.tabeller/121-1.csv)
+
+| a) | Årlig avgift | 500 kr |
+| --- | --- | --- |
+| b) | en avgift per m³ hämtat vatten | 20 kr |
+
+[Tabell 121-2](handlingar.tabeller/121-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 0,95 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 122 -->
 
 § 18
@@ -5093,7 +5113,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 § 19
 
@@ -5123,8 +5142,9 @@ Kung sbacka kommun              VA-taxa 2024                   15 (16)
 
 [Tabell 122-1](handlingar.tabeller/122-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |
@@ -6039,15 +6059,15 @@ obebyggd fastighet.
 Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
-V, vattenförsörjning             Ja              Ja
 
 VA-taxa                    Sida 2 av
 2023                       13
 
 [Tabell 143-1](handlingar.tabeller/143-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -6283,7 +6303,8 @@ VA-taxa                   Sida 9 av
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 149 -->
 
@@ -6344,7 +6365,8 @@ VA-taxa                   Sida 10 av
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22 kr | om 28 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22 kr | om 28 kr |
+| av dagvatten |  |  |
 
 <!-- sida 150 -->
 
@@ -6500,16 +6522,9 @@ VA-taxa                   Sida 13 av
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift                           500 kr
-
-b) en avgift per m³ hämtat vatten         20 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 0,95 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -6538,6 +6553,18 @@ En Grundavgift per år 14.1 a) 360 kr 360 kr
 VA-taxa                   Sida 14 av
 2023                      16
 
+[Tabell 153-1](handlingar.tabeller/153-1.csv)
+
+| a) | Årlig avgift | 500 kr |
+| --- | --- | --- |
+| b) | en avgift per m³ hämtat vatten | 20 kr |
+
+[Tabell 153-2](handlingar.tabeller/153-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 0,95 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 154 -->
 
 § 18
@@ -6547,7 +6574,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -6578,8 +6604,9 @@ VA-taxa                   Sida 15 av
 
 [Tabell 154-1](handlingar.tabeller/154-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |
