@@ -1,4 +1,4 @@
-"""Krav: K4, K5, K6, K15, K17, K19, K41 och K72 i docs/02-KRAV.md, ADR-0005,
+"""Krav: K4, K5, K6, K15, K17, K19, K41, K72 och K73 i docs/02-KRAV.md, ADR-0005,
 ADR-0016, ADR-0017, ADR-0022, ADR-0024, ADR-0028, ADR-0033, ADR-0034,
 ADR-0036, ADR-0038, ADR-0063, ADR-0064 och ADR-0099. Test: tests/test_konvertering.py,
 tests/test_maska_poolen.py, tests/test_skarvar.py, tests/test_delade.py,
@@ -79,16 +79,16 @@ def rensad(text: str) -> str:
 
 
 def ocr_sida(rendering: pdfium.PdfPage, figur: bool) -> Sida:
-    """En sida som läses med OCR (K72). Bara en `tom` sida är utan
-    obekräftade tal och står aldrig i `figurer`."""
+    """En sida som läses med OCR (K72). Bara en `tom` eller `ointressant`
+    sida (K73) är utan obekräftade tal och står aldrig i `figurer`."""
     skannad_ = skannad.las(rendering)
     figur = figur or skannad_.figur
     match skannad_.kvalitet:
         case "ocr":
             rader = [markdown.rad(r) for r in skannad_.text.splitlines()]
             return Sida("ocr", True, komprimera(rader), figur=figur)
-        case "tom":
-            return Sida("tom", False)
+        case "tom" | "ointressant":
+            return Sida(skannad_.kvalitet, False)
         case kvalitet:
             return Sida(kvalitet, True, figur=figur)
 

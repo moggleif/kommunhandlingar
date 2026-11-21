@@ -1,4 +1,4 @@
-"""Krav: K72 i docs/02-KRAV.md, ADR-0099. Testar
+"""Krav: K72 och K73 i docs/02-KRAV.md, ADR-0099 och ADR-0100. Testar
 src/kommunhandlingar/konvertering/skannad.py och riktning.py med ritade
 sidor som läses av Tesseract, och maskningen med en läsning som byts ut."""
 
@@ -91,7 +91,7 @@ class TestSkannad(unittest.TestCase):
         ImageDraw.Draw(bild).ellipse((100, 100, 160, 160), fill=(20, 60, 120))
         self.assertEqual(skannad.las(sida(bild)), skannad.Skannad("tom"))
 
-    def test_namnteckning_blir_inte_tom(self):
+    def test_namnteckning_blir_ointressant(self):
         bild = vit()
         slump, rita = random.Random(2), ImageDraw.Draw(bild)
         linje = [(400 + 6 * i, 900 + slump.randint(-40, 40)) for i in range(60)]
@@ -99,7 +99,32 @@ class TestSkannad(unittest.TestCase):
         rita.text(
             (400, 980), "Ordforande", fill=0, font=ImageFont.load_default(size=24)
         )
-        self.assertEqual(skannad.las(sida(bild)).kvalitet, "ej-konverterad")
+        self.assertEqual(skannad.las(sida(bild)), skannad.Skannad("ointressant"))
+
+    def test_sakra_rader_lases_nar_sidan_inte_nar_troskeln(self):
+        """En textsida där en underskrift eller en logga drar ner säkerheten."""
+        lasning = ocr.Lasning(None, ordantal=60, tsv="tsv")
+        with (
+            mock.patch.object(ocr, "las", return_value=lasning),
+            mock.patch.object(
+                skannad.sakra_rader, "las", return_value="Beslut"
+            ) as rader,
+        ):
+            resultat = skannad.las(sida(vit()))
+        self.assertEqual(resultat, skannad.Skannad("ocr", "Beslut"))
+        self.assertEqual(rader.call_args.args[1], "tsv")
+
+    def test_karta_med_for_fa_sakra_rader_blir_bild(self):
+        bild = vit()
+        karta(bild, (0, 0, B, H))
+        lasning = ocr.Lasning(None, ordantal=60)
+        with (
+            mock.patch.object(ocr, "las", return_value=lasning),
+            mock.patch.object(skannad.sakra_rader, "las", return_value=None),
+        ):
+            self.assertEqual(
+                skannad.las(sida(bild)), skannad.Skannad("bild", figur=True)
+            )
 
     def test_tesseract_som_fallerar_lases_inte_om(self):
         with mock.patch.object(ocr, "las", return_value=ocr.Lasning(None)) as las:

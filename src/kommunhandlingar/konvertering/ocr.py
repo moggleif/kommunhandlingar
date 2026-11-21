@@ -53,6 +53,7 @@ class Lasning:
     text: str | None
     ord: list[tuple[int, int, int, int]] = field(default_factory=list)
     ordantal: int | None = None  # None: Tesseract fallerade
+    tsv: str = ""
 
 
 def rendera(rendering: pdfium.PdfPage) -> Image.Image:
@@ -68,7 +69,7 @@ def las(bild: Image.Image) -> Lasning:
         return Lasning(None)
     ord_, antal = sakra_ord(forsta[0]), len(ordrader(forsta[0]))
     if not over_troskeln(forsta[0]):
-        return Lasning(None, ord_, antal)
+        return Lasning(None, ord_, antal, forsta[0])
     return Lasning(text_utan_stamplar(bild, forsta), ord_, antal)
 
 

@@ -74,10 +74,10 @@ class TestSteg2(Steg2Fall):
         self.klient.filer["u1"] = "sidor.pdf"
         self.assertEqual(self.kor(kandidat("s:1", "u1")), ["konverterad"])
         falt = self.falt()
-        self.assertEqual(falt["kvalitet"], "delvis")
+        self.assertEqual(falt["kvalitet"], "ocr")
         self.assertEqual(falt["sidor"], "17")
         self.assertEqual((falt["figurer"], falt["tolkade"]), ("[17]", "[]"))
-        self.assertEqual(falt["tal_obekraftade"], "[5, 6, 7, 9, 11]")
+        self.assertEqual(falt["tal_obekraftade"], "[11]")
         self.assertTrue(
             falt["pipeline"].startswith("kommunhandlingar 0.2.0 / pdfplumber ")
         )
