@@ -210,6 +210,34 @@ Datakontrollerna, i körningen och i CI
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/` och `versioner/`.
 
+### Gränssnittet mot datarepon
+
+Ett eget datarepo, som Region Hallands, installerar en fast version av
+paketet ur `kodversion.txt` och kör kommandona i sina arbetsflöden
+([ADR-0080](decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md)).
+Gränssnittet är det som datarepona och nattkörningen här anropar;
+`tests/test_granssnitt.py` faller om något av det flyttas eller byter
+namn (K74):
+
+- `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>` med
+  `--arkiv` och `--start <sekunder sedan 1970>`, och slutkoden 3 när
+  källan stoppade.
+- `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog>` med
+  `--arkiv`, `--start`, `--del <minuter>` och `--utan-omkonvertering`,
+  och slutkoden 4 när delen tog slut.
+- `python -m kommunhandlingar.datakontroll <data>`, med slutkoden 1 vid
+  fel.
+- `python -m kommunhandlingar.webbplats <utkatalog> <repoadress> <avvikelsefil>`,
+  körd i repots rot. Argumenten låses av test när modulen får en `main`
+  (#356).
+- `from kommunhandlingar.konfiguration import las`.
+- Katalogerna: kommunfilen ligger i en katalog i repots rot, och
+  `hamtning.toml` och `data/` ligger i roten.
+- Paketdatat: varje fil i `webbplats/` som inte är Python följer med
+  paketet genom mönstren i `pyproject.toml`.
+
+Ändras något i listan behöver datarepona ändras när de höjer sin version.
+
 ### Versionsloggen
 
 Hur och varför står i

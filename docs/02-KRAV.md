@@ -2191,3 +2191,17 @@ inte, men tryckt text som går att läsa säkert ska bli sökbar.
   inte är `ej-konverterad`, andelen i procent, antalet sidor per
   sidkvalitet och antalet dokument utan sidor. Statussidan på
   webbplatsen visar samma andel (K14).
+
+## K74 — Gränssnittet mot ett datarepo flyttas inte tyst
+
+Vad som är gränssnitt står i
+[Gränssnittet mot datarepon](03-ARKITEKTUR.md#gränssnittet-mot-datarepon).
+Issue [#357](https://github.com/moggleif/kungsbackakommun/issues/357).
+Ett eget datarepo, som Region Hallands, installerar en fast version av
+paketet och kör dess kommandon.
+
+- **Givet** en ändring som byter namn på, flyttar eller tar bort ett
+  kommando, en flagga, en slutkod, en importerad funktion eller ett
+  paketdata som ett datarepo använder
+- **När** testerna körs i det här repot
+- **Så** faller ett test, innan ett datarepo höjer sin version.
