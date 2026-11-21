@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319185158id_/https://www.kungsbacka.
 sha256: 15ab85ceb42527c0dbd7e56f0038ff957989449939796b635149baf0938815e4
 bytes: 179043
 sidor: 16
-hamtad: 2026-11-17T04:01:48+00:00
-konverterad: 2026-11-17T04:01:56+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T01:06:54+00:00
+konverterad: 2026-11-21T01:06:57+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -52,6 +52,7 @@ www.kungsbacka.se
 | 2. | Förändring av ärendelistan |  |  | 2<br>min |
 | 3. | Anmälan om jäv |  |  | 2<br>min |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 
 <!-- sida 2 -->
 
@@ -64,7 +65,9 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | 4. 48 min<br>Information från förvaltningen<br>a) Detaljplan för verksamheter inom Varla 2:198 med flera-granskning, Björn Vikström,<br>planarkitekt (5 min)<br>b) Detaljplan för infrastruktur inom Varla 2:198 och Varla 12:67-samråd, Björn Vikström,<br>planarkitekt (5 min)<br>c) Status för ärendekön hos bygglov, Hanna Ståhl, verksamhetschef bygglovsavdelningen (15<br>min)<br>d) Covid-19 status på förvaltningen, Katarina Öryd, förvaltningschef (3 min)<br>e) Information om presidieavstämning den 12 april, Katarina Öryd, förvaltningschef (10 min)<br>f) Resultatet av ”Öppen jämförelse Företagsklimat (Insikt) 2020", Katarina Öryd,<br>förvaltningschef & Hanna Ståhl, verksamhetschef bygglovsavdelningen (10 min)<br>Byggnadsnämnden noterar informationen till protokollet. |  |  |  |  |
 | Beslutsärenden (ej myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 5. | Kommunrevisorernas<br>grundläggande granskning av<br>byggnadsnämnden 2020<br>Föredragande: Katarina<br>Öryd, förvaltningschef | BN 2020-<br>002387 | Byggnadsnämnden noterar<br>informationen till protokollet. | 5<br>min |
 | 6. | Investeringsplan 2022-2026,<br>uppdatering<br>Föredragande: Christina<br>Nordberg, controller<br>förvaltning | BN 2021-<br>000002 | Byggnadsnämnden godkänner<br>uppdaterad investeringsplan för löpande<br>investeringar 2022–2026 i enlighet med<br>kompletterande bilaga. | 5<br>min |
 | 7. | Uppföljning och prognos, april<br>2021<br>Föredragande: Katarina<br>Öryd, förvaltningschef och<br>Christina Nordberg,<br>controller förvaltning | BN 2020-<br>000500 | Byggnadsnämnden godkänner<br>uppföljning per april och prognos 2021. | 15<br>min |
@@ -75,6 +78,7 @@ KUNGSBACKA  KOMMUN
 | 11. | VARLA 2:198 med flera –<br>Nytt parknamn<br>Föredragande: Maj-Gret<br>Johansson, verksamhetschef<br>Geodata | BN 2021-<br>001002 | Byggnadsnämnden antar<br>parknamnsförslaget Hallabäcksparken. | 5<br>min |
 | 12. | MÅ 3:13 med flera – Ny<br>vägnam<br>Föredragande: Maj-Gret<br>Johansson, verksamhetschef<br>Geodata | BN 2021-<br>001069 | Byggnadsnämnden antar<br>vägnamnsförslagen: Åkerövägen,<br>Astrakanvägen, Aromavägen och<br>Katjavägen. | 5<br>min |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 13. | Anmälan av ordförandeslut –<br>Tecknande av<br>personuppgiftsbiträdesavtal<br>mellan byggnadsnämnden<br>och Capgemini Sverige AB | BN 2021-<br>001256 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2<br>min |
 | 14. | Anmälan av ordförandeslut –<br>Yttrande till länsstyrelsen<br>ärende nr 258-7523-2020 om<br>tillstånd för skyltar på<br>fastigheterna Almedal 1:4 och<br>Frillesås-Rya 4:17 | BN 2021-<br>000053 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2<br>min |
 | 15. | Anmälan av ordförandeslut –<br>Yttrande till länsstyrelsen<br>ärende nr 403-1304-2021 om<br>förhandsbesked för nybyggnad<br>av enbostadshus på fastigheten<br>Kolla 1:17 | BN 2020-<br>000933 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2<br>min |
@@ -86,6 +90,7 @@ KUNGSBACKA  KOMMUN
 | 21. | Anmälan av delegeringsbeslut |  | Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut<br>fattade under perioden 2021-04-09 till<br>2021-05-13. | 2<br>min |
 | 22. | Redovisning av inkomna<br>skrivelser | BN 2021–<br>000053 | Byggnadsnämnden godkänner<br>redovisningen av inkomna skrivelser<br>under perioden 2021-04-09 till 2021-05-<br>13. | 2<br>min |
 | Beslutsärenden (myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Planärende |  |  |  |  |
 | 23. | Uppdrag att upprätta förslag<br>till ändring av detaljplan för<br>bostäder och handel inom<br>Fisken 4, 5 och 7 i<br>Kungsbacka stad<br>Föredragande: Stina<br>Wikström, planarkitekt | BN 2021-<br>00011 | Byggnadsnämnden godkänner att<br>undersökning av miljöpåverkan visar att<br>planförslaget inte innebär någon<br>betydande miljöpåverkan.<br>Byggnadsnämnden uppdrar åt<br>samhällsbyggnadskontoret att genomföra<br>samråd för ändring av detaljplan för den<br>del som gäller fastighetsindelning inom<br>Fisken 4, 5 och 7 i Kungsbacka stad. | 5<br>min |
 | 24. | Beslut om miljöpåverkan för<br>ändring av detaljplan inom<br>Onsala-Kullen 1:98<br>Föredragande: Stina<br>Wikström, planarkitekt | BN<br>2021-00008 | Byggnadsnämnden godkänner att<br>undersökning av miljöpåverkan visar att<br>planförslaget inte innebär någon<br>betydande miljöpåverkan. | 5<br>min |
@@ -345,4 +350,5 @@ Ordförande                     Sekreterare
 | --- | --- | --- | --- | --- |
 | 41. | STRANNEGÅRDEN 1:212<br>(FJORDVÄGEN 20) -<br>Strandskyddsdispens för<br>nybyggnad av enbostadshus<br>och komplementbyggnad | BN 2020-<br>002307 | Byggnadsnämnden beviljar<br>strandskyddsdispens för nybyggnad av<br>enbostadshus och komplementbyggnad.<br>Som tomt för enbostadshus och<br>komplementbyggnad får tas i anspråk<br>den mark som idag utgör fastigheten<br>Strannegården 1:212.<br>Detta beslut upphör att gälla om den<br>åtgärd som dispens avser inte har<br>påbörjats inom två år eller inte har<br>avslutats inom fem år från dagen då<br>beslutet vann laga kraft (7 kap. 18 h §<br>miljöbalken). | 3<br>min |
 | Tillsyn |  |  |  |  |
+|  |  |  |  |  |
 | Ärenden mellan nr 42-54 som gäller tillsyn, förbud eller föreläggande, innehåller en mängd<br>personuppgifter och publiceras därför inte på webbplatsen med anledning av Dataskyddsförordningen,<br>GDPR (General Data Protection Regulation). |  |  |  |  |

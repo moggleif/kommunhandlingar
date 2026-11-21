@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319191337id_/https://www.kungsbacka.
 sha256: 3d3b587d6734ded8d52ca96a0aa67d92cfeb3c34d99cc14e153a239f94f35864
 bytes: 49592687
 sidor: 337
-hamtad: 2026-11-17T04:02:15+00:00
-konverterad: 2026-11-17T04:04:25+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T01:06:57+00:00
+konverterad: 2026-11-21T01:09:34+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ej-konverterad, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ocr, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr]
 tal_obekraftade: [64, 69, 72, 87, 88, 89, 90, 94, 95, 96, 97, 98, 101, 107, 110, 111, 112, 114, 118, 119, 120, 123, 126, 157, 158, 267, 268, 269, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 335, 336, 337]
 figurer: [29, 49, 52, 55, 61, 62, 63, 64, 67, 69, 71, 79, 80, 81, 82, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 123, 130, 131, 132, 134, 136, 138, 139, 143, 147, 148, 150, 152, 153, 157, 163, 164, 166, 177, 184, 186, 187, 188, 189, 191, 192, 194, 195, 196, 197, 198, 199, 200, 204, 207, 210, 216, 217, 220, 221, 222, 224, 225, 226, 228, 230, 232, 233, 234, 235, 236, 237, 238, 240, 241, 242, 243, 244, 246, 247, 248, 252, 253, 254, 255, 256, 257, 258, 262, 263, 264, 269, 296, 328]
 tolkade: []
@@ -5975,6 +5975,11 @@ Fokusområden                                              Trend
 
 I Kungsbacka finns attraktiva bostäder med inspirerande    ←
 byggnadsmiljö för olika behov, generationer och livsstilar.
+—
+Kungsbacka har välkomnande och trygga miljöer.
+
+I Kungsbacka finns mötesplatser för samvaro, rekre-        →
+ation, upplevelser och kreativa utbyten.
 
 Färg- och teckenförklaring
 
@@ -6035,12 +6040,6 @@ med en grupp gymnasieelever och är öppen för alla,
 men i första hand utformad för tjejer. Under sommaren
 semestrade många invånare på hemmaplan, och vi gjorde
 mycket marknadsföring om hemestertips i kommunen.
-
-[Tabell 167-1](handlingar.tabeller/167-1.csv)
-
-| Kungsbacka har välkomnande och trygga miljöer. | — |
-| --- | --- |
-| I Kungsbacka finns mötesplatser för samvaro, rekre-<br>ation, upplevelser och kreativa utbyten. | → |
 
 <!-- sida 168 -->
 
@@ -6147,13 +6146,17 @@ EN HÅLLBAR UTVECKLING  OCH EN HÄLSOSAM  MILJÖ
 Fokusområden                                              Trend
 —
 Kungsbacka växer med en långsiktigt hållbar ekonomi.
+Kungsbackas miljöarbete utgår ifrån de nationella miljö målen, →
+de globala hållbarhetsmålen samt Borgmästaravtalet.
+
+←
+Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
 
 Färg- och teckenförklaring
 
 I mål eller nära målet → Positiv utveckling under 2020
 
 På väg mot målet     ←   Negativ utveckling under 2020
-
 Långt kvar till målet —  Oförändrat eller blandat
 
 Måluppfyllelse
@@ -6220,12 +6223,6 @@ av aktiviteter som ger rörelse i skolan för samtliga gym-
 nasieelever både under och utanför lektionstid. Andelen
 
 44 Kungsbacka kommuns årsredovisning 2020
-
-[Tabell 169-1](handlingar.tabeller/169-1.csv)
-
-| Kungsbackas miljöarbete utgår ifrån de nationella miljö målen,<br>de globala hållbarhetsmålen samt Borgmästaravtalet. | → |
-| --- | --- |
-| Unga i Kungsbacka mår bra såväl fysiskt som psykiskt. | ← |
 
 <!-- sida 170 -->
 
@@ -6680,8 +6677,16 @@ FÖRVALTNINGSBERÄTTELSE
 ETT MEDSKAPANDE  SAMHÄLLE  OCH EN ÖPPEN  ATTITYD
 
 Fokusområden                                              Trend
+
 I Kungsbacka skapar vi förutsättningar för invånare, kunder och →
 företag att vara medskapande i att utforma det goda livet.
+Invånare, företag och besökare känner sig alltid välkomna, ←
+sedda och korrekt bemötta i kontakt med kommunen.
+
+→
+Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
+Kungsbacka kommun är en attraktiv arbetsgivare med         →
+modiga och medskapande medarbetare och ledare.
 
 Färg- och teckenförklaring
 
@@ -6752,13 +6757,6 @@ samma kommunala resurser. Seniorerna bygger själva
 organiskt verksamheten större genom att de agerar
 ambassadörer, ledare och deltagare för den verksamhet
 de själva är intresserade av att delta i. Det finns ett stort
-
-[Tabell 175-1](handlingar.tabeller/175-1.csv)
-
-| Invånare, företag och besökare känner sig alltid välkomna,<br>sedda och korrekt bemötta i kontakt med kommunen. | ← |
-| --- | --- |
-| Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt. | → |
-| Kungsbacka kommun är en attraktiv arbetsgivare med<br>modiga och medskapande medarbetare och ledare. | → |
 
 <!-- sida 176 -->
 

@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319185229id_/https://www.kungsbacka.
 sha256: bd0d41b26c9a4bb36c4182a8b851a452ba8c4d9f7d052e0761ae4b217060ffe3
 bytes: 15206885
 sidor: 398
-hamtad: 2026-11-17T13:42:41+00:00
-konverterad: 2026-11-17T13:43:39+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T01:13:18+00:00
+konverterad: 2026-11-21T01:14:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ocr, ocr, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -13849,15 +13849,15 @@ Uppföljningsrapport Intern kontroll 2020 6
 
 [Tabell 351-1](handlingar.tabeller/351-1.csv)
 
-| Kategorier | Risker |
-| --- | --- |
-| Personal | Kommunövergripande risk: Bristande efterlevnad av semesterlagen (Kungsbacka<br>kommun) |
-|  | Kommunövergripande risk: Processen för avslut av anställning säkerställer inte<br>att alla behörigheter till system, lokaler och andra tillgångar avslutas.<br>(Kungsbacka kommun) |
-| Ekonomi | Kommunövergripande risk: Manuella betalningar (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Redovisning av representation (Kungsbacka kommun) |
-| Informationssäkerhet<br>och administration | Kommunövergripande risk: Styrning och förvaltning av verksamhetssystem och<br>digitala verktyg följer inte systemförvaltarmodellen. (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Bristande kännedom om och efterlevnad av krav\* på<br>tillgänglighet och service (Kungsbacka kommun) |
-|  | Kommunövergripande risk: Bristande styrning av förändring av<br>verksamhetsprocesser och system (Kungsbacka kommun) |
+| Kategorier |  | Risker |
+| --- | --- | --- |
+| Personal |  | Kommunövergripande risk: Bristande efterlevnad av semesterlagen (Kungsbacka<br>kommun) |
+|  |  | Kommunövergripande risk: Processen för avslut av anställning säkerställer inte<br>att alla behörigheter till system, lokaler och andra tillgångar avslutas.<br>(Kungsbacka kommun) |
+| Ekonomi |  | Kommunövergripande risk: Manuella betalningar (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Redovisning av representation (Kungsbacka kommun) |
+| Informationssäkerhet<br>och administration |  | Kommunövergripande risk: Styrning och förvaltning av verksamhetssystem och<br>digitala verktyg följer inte systemförvaltarmodellen. (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Bristande kännedom om och efterlevnad av krav\* på<br>tillgänglighet och service (Kungsbacka kommun) |
+|  |  | Kommunövergripande risk: Bristande styrning av förändring av<br>verksamhetsprocesser och system (Kungsbacka kommun) |
 
 <!-- sida 352 -->
 
@@ -14124,28 +14124,28 @@ Uppföljningsrapport Intern kontroll 2020 12
 
 [Tabell 357-361-1](handlingar.tabeller/357-361-1.csv)
 
-| Område | Frågor Svar, Antal 2020 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |
-|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2020 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Ansvar och befogenheter är tydliggjorda |  |
+|  | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/<br>kommunikation | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 358 -->
 

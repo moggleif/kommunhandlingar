@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320014108id_/https://www.kungsbacka.
 sha256: 312dacb95b6d4c51c204ce7c73093fc72557ce519889dc9856bd6bd13382e521
 bytes: 9916839
 sidor: 212
-hamtad: 2026-10-29T11:24:40+00:00
-konverterad: 2026-10-29T11:25:28+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:10:13+00:00
+konverterad: 2026-11-21T01:10:46+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ej-konverterad, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -140,40 +140,61 @@ förvaltningen för Vård och Omsorg, kommunledningskontoret, SKR, Länsstyrelse
 
 <!-- sida 7 -->
 
-BASERAT       PÅ   ANALYSEN          AV   DE   FEM     OMRÅDENA            HAR    BÅDE      SLUTSATSER          OCH
+BASERAT        PÅ   ANALYSEN         AV   DE   FEM     OMRÅDENA            HAR     BÅDE     SLUTSATSER          OCH
 
 LÄRDOMAR           IDENTIFIERATS
 
 Sammanfattningsvis visar utvärderingen att många faktorer avseende förvaltningen för Vård och Omsorgs krishantering fungerat väl. Förvaltningen har arbetat hårt och aktivt för
-att dels minska smittspridningen inom förvaltningens verksamhet, dels verka för en hållbar organisation trots det läge som rått under perioden. Denna rapport beskriver både det
 
+att dels minska smittspridningen inom förvaltningens verksamhet, dels verka för en hållbar organisation trots det läge som rått under perioden. Denna rapport beskriver både det
 som fungerat väl och saker som kan justeras eller göras annorlunda vid ev. framtida krissituationer, som ett sätt att lära av den situation som varit och på så vis öka förvaltningens
 krisberedskap.
 
-Mycket har fungerat väl avseende krishanteringen inom förvaltningen under året… …men det finns även viktiga lärdomar att dra av från hanteringen av Covid-19
-Positiva slutsatser                                        Identifierade lärdomar
-1\.  Stabsmetodiken var till nytta för att stabilisera och tydliggöra inriktningen i 1. Krisberedskapen behöver övas och anpassas efter pandemin. Den behöver
-krisens inledningsskede –lika viktigt var det att sen växla till ett mindre skarpt också vara mer dynamisk sett till vilken typ av kriser vi behöver ha beredskap
-läge.                                                     för.
+Mycket har fungerat väl avseende krishanteringen inom förvaltningen under året…
+Positiva slutsatser
 
-2\.  Det krävdes mycket inledande arbete för att både styra upp befintliga och ta 2. Stabsmetodiken och krisledningen ska hanteras med försiktighet. Att växla från
-fram nya styrande dokument–vilket också gjordes snabbt och effektivt en välfungerande ledningsgrupp till krisledning innebär en stor förändring
-både i ledningsgrupp och verksamhet.
+1\.  Stabsmetodiken var till nytta för att stabilisera och tydliggöra inriktningen i
+krisens inledningsskede –lika viktigt var det att sen växla till ett mindre skarpt
+läge.
+2\.  Det krävdes mycket inledande arbete för att både styra upp befintliga och ta
+fram nya styrande dokument–vilket också gjordes snabbt och effektivt
+
 3\.  En erfaren, trygg och proaktiv förvaltningsledning har bidragit till stabilitet och
-trygghet under krisen                                 3.  Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
-förvaltningens egen personal.
+trygghet under krisen
 4\.  Flexibilitet och omställningsförmågan har utvecklats
-4\.  Stabsläget under våren ledde till en alltför stor distans till verksamheten –
-5\.  Det nära ledarskapet har varit viktigt och rätt prioriterat upplevdes som avsaknad av tillit
-6\.  Särskilda Covid-enheter/team har haft positiv inverkan på organisationen 5. Hanteringen av sekretess gällande dödsfall, smittspridning och
-pandemiplanering har varit utmanande och påfrestandeiverksamheten
+
+5\.  Det nära ledarskapet har varit viktigt och rätt prioriterat
+6\.  Särskilda Covid-enheter/team har haft positiv inverkan på organisationen
+
 7\.  En närmare samverkan mellan hemsjukvård och boende/hemtjänst och mellan
-privata och kommunala verksamheter–även om en del konflikter uppstått 6. Tydlig kommunikation om själva krisorganiseringen saknades
+privata och kommunala verksamheter–även om en del konflikter uppstått
 längs vägen
-7\.  Stödjande Covid-team hade behövts även inom VÅBO
 8\.  Flerakommunikationsinsatser har varit viktiga och uppskattade
+
 9\.  Facklig samverkan i skyddskommittén en viktig framgång
+
 10\. Stöd från övriga delar av kommunorganisationen och från regionen
+
+…men det finns även viktiga lärdomar att dra av från hanteringen av Covid-19
+Identifierade lärdomar
+
+1\.  Krisberedskapen behöver övas och anpassas efter pandemin. Den behöver
+också vara mer dynamisk sett till vilken typ av kriser vi behöver ha beredskap
+för.
+2\.  Stabsmetodiken och krisledningen ska hanteras med försiktighet. Att växla från
+en välfungerande ledningsgrupp till krisledning innebär en stor förändring
+både i ledningsgrupp och verksamhet.
+3\.  Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
+förvaltningens egen personal.
+
+4\.  Stabsläget under våren ledde till en alltför stor distans till verksamheten –
+upplevdes som avsaknad av tillit
+5\.  Hanteringen av sekretess gällande dödsfall, smittspridning och
+pandemiplanering har varit utmanande och påfrestandeiverksamheten
+
+6\.  Tydlig kommunikation om själva krisorganiseringen saknades
+
+7\.  Stödjande Covid-team hade behövts även inom VÅBO
 
 4
 
@@ -363,32 +384,49 @@ beroende på vilken sektor som avses.
 
 <!-- sida 16 -->
 
-FÖR    ATT    SÄTTA     RÄTT     FOND      FÖR    HELA     UTVÄRDERINGEN               BEHÖVER         VI  TITTA
+FÖR    ATT    SÄTTA     RÄTT     FOND      FÖR    HELA     UTVÄRDERINGEN                BEHÖVER        VI   TITTA
 
-NÄRMARE          PÅ   JUST    DEN     HÄR    KRISENS       EGENSKAPER            –  CORONAPANDEMIN…
+NÄRMARE          PÅ   JUST    DEN     HÄR     KRISENS      EGENSKAPER            –  CORONAPANDEMIN…
 
-Vad präglar normalt en kris?                Vilka speciella egenskaper tillkommer i denna pandemi?
+Vad präglar normalt en kris?
 
-•  Överraskande krishändelse som           •   Förloppet är bedrägligt, det ser ut att gå ned i intensitet och belastning, för att sedan öka igen,
-snabbt rubbar den normalbild som            utan uppenbar koppling till bara en enskild organisations agerande
+•  Överraskande krishändelse som
+snabbt rubbar den normalbild som
 var gällande innan händelsen
-•   Omfattningen är bokstavligt talat global, vilket innebär att hantering kräver global samverkan.
+
 startade
-Nationellt krävs ett underordnade inför andra organisationers riktlinjer och restriktioner –ett
-•  Oklart förlopp, svårt att förutse vad       sammanhang som är större än enskild organisation kan förbereda sig för
+•  Oklart förlopp, svårt att förutse vad
 som händer härnäst
-•   Påfrestningen kommer utifrån och går in, i stället för att börja lokalt och eskalera, den går alltså
-•  Oklara tidsförhållanden, svårt att          inte att stoppa genom omedelbara åtgärder (”snabbt släcka branden”)
-\+
+
+•  Oklara tidsförhållanden, svårt att
 bedöma hur länge det kommer att
-•   Samhällpåfrestningen är oerhörd, och innebär:
 vara
-o   Inte bara faraför liv och hälsa, utan över 10.000 faktiska dödsfall i Sverige –hittills
+
 •  Ofta hög intensitet, kräver ett
-snabbt agerande eftersom förloppet           o   Omfattande inskränkning av organisationers och individers frihet och normala
-är snabbt                                        rörelsemönster
-•  Viktiga värden är hotade, vilket gör         o   Behov av acceptans för att under okänt lång tid med medel-och varierande intensitet göra
-det angeläget att hantera situationen            långtgående avkall på egna behov för en större helhets skull
+snabbt agerande eftersom förloppet
+är snabbt
+•  Viktiga värden är hotade, vilket gör
+det angeläget att hantera situationen
+
+Vilka speciella egenskaper tillkommer i denna pandemi?
+
+•   Förloppet är bedrägligt, det ser ut att gå ned i intensitet och belastning, för att sedan öka igen,
+utan uppenbar koppling till bara en enskild organisations agerande
+
+•   Omfattningen är bokstavligt talat global, vilket innebär att hantering kräver global samverkan.
+Nationellt krävs ett underordnade inför andra organisationers riktlinjer och restriktioner –ett
+sammanhang som är större än enskild organisation kan förbereda sig för
+
+•   Påfrestningen kommer utifrån och går in, i stället för att börja lokalt och eskalera, den går alltså
+inte att stoppa genom omedelbara åtgärder (”snabbt släcka branden”)
+\+
+•   Samhällpåfrestningen är oerhörd, och innebär:
+o   Inte bara faraför liv och hälsa, utan över 10.000 faktiska dödsfall i Sverige –hittills
+
+o   Omfattande inskränkning av organisationers och individers frihet och normala
+rörelsemönster
+o   Behov av acceptans för att under okänt lång tid med medel-och varierande intensitet göra
+långtgående avkall på egna behov för en större helhets skull
 
 Även om det på ytan kan verka som en överdriven formulering medför coronapandemin
 omständigheter som kan jämföras med krigsliknande villkor
@@ -396,31 +434,41 @@ omständigheter som kan jämföras med krigsliknande villkor
 
 <!-- sida 17 -->
 
-SKR   HAR     HAFT     EN    VIKTIG     ROLL     AVSEENDE         SAMVERKANSARBETET                    MELLAN
+SKR    HAR    HAFT      EN   VIKTIG     ROLL     AVSEENDE         SAMVERKANSARBETET                    MELLAN
 
-SVERIGES        KOMMUNER,            REGIONER          OCH    NATIONELLA           MYNDIGHETER
+SVERIGES        KOMMUNER,             REGIONER         OCH     NATIONELLA          MYNDIGHETER
 
 I pandemin har SKR kommit att ha en viktig roll som påverkanspart i förhållande till de nationella myndigheterna. SKR har ageratför att både föra fram den situation kommuner
 och regioner befunnit sig i (framför allt kommuner) och även lyfta behov av tillfällig lagstiftning som kan stödja kommuner och regioner i hanteringen av pandemins påverkan. Vi
 har intervjuat en representant för vård och omsorg vid SKR samt även tagit del av de bildspel som SKR haft som underlag vid möten med Coronakommissionen. Här anges de
 brister som SKR uppmärksammat när det gäller i hanteringen av pandemin och de framgångsfaktorer som noterats i kommuner som klarat sig bra.
 
-BRISTER SOM SKR UPPMÄRKSAMMAT UNDER PANDEMIN (urval)        FRAMGÅNGSFAKTORER I DE KOMMUNER SOM KLARAT SIG BRA
+BRISTER SOM SKR UPPMÄRKSAMMAT UNDER PANDEMIN (urval)
 
-• SoL saknar ventil vid extraordinära situationer (bortsett från krig). Jämför • Låg samhällssmitta eller senare spridning i närområdet
+• SoL saknar ventil vid extraordinära situationer (bortsett från krig). Jämför
 med prioriteringsmöjligheterna i HSL.
-• Tur
+
 • Omöjligt att ändra verkställigheten i gynnande beslut utan medgivande.
-• Följsamhet till basala hygienrutiner
 • Myndigheternas olika direktiv skapade problem, förvirring och oro när
-• Tidigt besöksförbud och andra typer av begränsningsåtgärder som
+
 det gällde skyddsutrustning.
-kohortvård
 • Klimatet mellan arbetsgivare och fack har hårdnat under pandemin och
-• Närvarande, gott ledarskap
 det har ytterligare spätt på oron hos medarbetare.
+
 • Flera regelverk och målsättningar som krockar med varandra ett
 återkommande tema under krisen.
+
+FRAMGÅNGSFAKTORER I DE KOMMUNER SOM KLARAT SIG BRA
+
+• Låg samhällssmitta eller senare spridning i närområdet
+
+• Tur
+• Följsamhet till basala hygienrutiner
+
+• Tidigt besöksförbud och andra typer av begränsningsåtgärder som
+kohortvård
+
+• Närvarande, gott ledarskap
 
 14
 
@@ -526,7 +574,7 @@ april                                                                Rutinför b
 
 <!-- sida 21 -->
 
-UTDRAG        AV   BESLUT       FATTADE       UNDER       PERIODEN         15/3     2020     – 3/3    2021
+UTDRAG        AV    BESLUT      FATTADE       UNDER        PERIODEN         15/3    2020     –  3/3   2021
 
 Förvaltningschefsbeslut                                      Förvaltningschefsbeslut
 
@@ -535,7 +583,7 @@ juni    av Covid-19 inom vård och omsorg” (uttala antal fall, men ej namn på
 boendena)
 12     Beslutom återinrättande av Covidteamet
 Beslutom att hemtjänstinsatser till personer med misstänkt eller konstaterad
-3                                                          november Stabsgruppengår från att träffas 2 till 3 ggr i veckan
+3                                                         november  Stabsgruppengår från att träffas 2 till 3 ggr i veckan
 smitta inom IF med personlig assistans ska utföras av Covid-teamet
 juni
 Godkännandeatt ansvarig chef för VÅBO får mandat om att besluta om att 18
@@ -544,12 +592,12 @@ låsa ytterdörr för att säkerställa följsamhet av besöksförbudet november
 16
 Beslutom att godkänna ändringar i pandemiplan         20     Beslutom att delvis avveckla den tillfälliga organisationen gällande digitala
 juni
-november inköp
+november  inköp
 14
 Beslutom att förlänga Covidteamets uppdrag till 30/9 2020
-juli                                                         23
+juli                                                          23
 Beslutom att förlänga beslut om stark avrådan från besök t.o.m. 13/12
-18                                                         november
+18                                                        november
 Beslutom att gå till grön nivå för smittspridning i pandemiplanen
 augusti
 25     Beslutom att fortsatt hålla dagomsorgen stängd, enskilda ska istället erbjudas
@@ -561,68 +609,101 @@ Beslutom att anta rutin för samverkan med Service i vissa frågor rörande vår
 september Beslutom att avsluta den stabsliknande formen VO Krisberedskap och att de
 och omsorgsboende m.a.a. stark avrådan från besök
 läggs in på vanlig ledningsgrupp
-3      Beslutom att enheten Blåklockan på Smedjans korttidsboende används för att
+
 1      Rutinför yrkesutövare som bedriver hår-och fotvård på VÅBO inom
-december möjliggöra samvårdnad av personer med Covid-19
 oktober  kommunen
 Beslutom riktlinje ”säkra besök” på VÅBO
-Beslutom att godkänna ”Rutin för rådande besöksförbud”
-Beslutom att återinrätta rutin för in-och utflyttningsprocess på vård-och
+
 Beslutom att nivån i pandemiplanen ändras från grönt till gult vad gäller
-4      omsorgsboende under rådande pandemiperiod
 smittspridning
-3                                                          december Godkännandeav dokumentet ”Tillfälligt besöksförbud med anledning av
+3
 Beslutom att möten ska ske digitalt då det är möjligt
 november
-corona/covid-19 och dess påverkan på yrkesutövare som tillhandahåller andra
 Beslutom att under vecka 46 ha stabsliknande möten tisdag och torsdag
-tjänster och har sina lokaler inom det särskilda boendet”.
 Beslutom att aktivera frånvarolistan
+
+3     Beslutom att enheten Blåklockan på Smedjans korttidsboende används för att
+december möjliggöra samvårdnad av personer med Covid-19
+
+Beslutom att godkänna ”Rutin för rådande besöksförbud”
+Beslutom att återinrätta rutin för in-och utflyttningsprocess på vård-och
+4      omsorgsboende under rådande pandemiperiod
+december  Godkännandeav dokumentet ”Tillfälligt besöksförbud med anledning av
+corona/covid-19 och dess påverkan på yrkesutövare som tillhandahåller andra
+tjänster och har sina lokaler inom det särskilda boendet”.
+
 18
 
 <!-- sida 22 -->
 
-UTDRAG        AV   BESLUT       FATTADE       UNDER       PERIODEN         15/3     2020     – 3/3    2021
+UTDRAG        AV    BESLUT      FATTADE       UNDER        PERIODEN         15/3    2020     –  3/3   2021
 
 Förvaltningschefsbeslut                                      Förvaltningschefsbeslut
 
-Beslutom att ställa sig bakom tjänsteskrivelse som beskriver ett fortsatt Beslutmed stöd av delegering att avsluta tidigare beslutad dispens för avsteg
-2
+Beslutom att ställa sig bakom tjänsteskrivelse som beskriver ett fortsatt
 7
-arbetssätt med förebyggande och hälsofrämjande arbete under 20201, som från avtalet med Gottskärs Hemtjänst AB om att tillfälligt tas bort som valbar i
-februari
+arbetssätt med förebyggande och hälsofrämjande arbete under 20201, som
 december
-frångår förvaltningens ordinarie arbete                      kommunens kundval för hemtjänst.
+frångår förvaltningens ordinarie arbete
 Beslutom att byta nivå i pandemiplanen (ej spec. vilket nivå)
-Covid-teamet förlängs till den 15/4-2021
-Beslutom att godkänna ”Rutin för personer som inte accepterar screening Beslutom att ställa sig bakom förslaget att inte göra en hemställan om
-17
-9      inför besök på växelvård”                                    förlängning avseende det pågående tillfälliga besöksförbudet
-februari
-december  Godkännandeav ”Rutin för utökat stöd till chefer vid smittspårning hos Ger i uppdrag att uppdatera riktlinje för säkra besök som ska gälla från det att
-kunder/patienter och personal”                               besöksförbudet upphör
-Godkännandeav rutin ”Förstärkt skydd med personlig skyddsutrustning (PPE) Beslutatt införa stark avrådan från besök på 2 av 6 enheter på Åsa VÅBO.
-19
-21     Beslutom att växelvårdsplatser på Vickan ska hållas öppna men i begränsad Beslutetgäller från 24/2 till dess att verksamheten inte har fall av misstänkt
-februari
-december  omfattning                                                   eller konstaterad smitta av Covid-19 (beslut följs upp veckovis)
+Beslutom att godkänna ”Rutin för personer som inte accepterar screening
+9      inför besök på växelvård”
+december  Godkännandeav ”Rutin för utökat stöd till chefer vid smittspårning hos
+kunder/patienter och personal”
+Godkännandeav rutin ”Förstärkt skydd med personlig skyddsutrustning (PPE)
+21      Beslutom att växelvårdsplatser på Vickan ska hållas öppna men i begränsad
+december  omfattning
 Godkännandeav inriktning på insatsen dagomsorg
+
+4     Beslutom att skjuta på flytten från Burkärrsgården till Säro nya vårds-och
+januari omsorgsboende som var tänkt att ske den 18/1-2021
+8      Muntligt beslut om att förlänga tidigare beslut om att införa ett särskilt covid-
+januari  team i hemtjänsten till den 15/3-2021
+
+11      Muntligt beslut om att den andra omgången av vaccination ska ske på
+januari  Burkärrsgårdens vård-och omsorgsboende innan flytten till Särö blir av
+
+Beslutmed stöd av delegering att godkänna avsteg från avtal med Gottskärs
+26
+Hemtjänst AB om att tillfälligt tas bort som valbar i kommunens kundval för
+januari
+hemtjänst.
+
+Beslutmed stöd av delegering att avsluta tidigare beslutad dispens för avsteg
+2
+från avtalet med Gottskärs Hemtjänst AB om att tillfälligt tas bort som valbar i
+februari
+kommunens kundval för hemtjänst.
+Covid-teamet förlängs till den 15/4-2021
+Beslutom att ställa sig bakom förslaget att inte göra en hemställan om
+17
+förlängning avseende det pågående tillfälliga besöksförbudet
+februari
+Ger i uppdrag att uppdatera riktlinje för säkra besök som ska gälla från det att
+besöksförbudet upphör
+Beslutatt införa stark avrådan från besök på 2 av 6 enheter på Åsa VÅBO.
+19
+Beslutetgäller från 24/2 till dess att verksamheten inte har fall av misstänkt
+februari
+eller konstaterad smitta av Covid-19 (beslut följs upp veckovis)
 Beslutatt införa stark avrådan från besök på 2 av 6 enheter på Åsa VÅBO.
 24
-4      Beslutom att skjuta på flytten från Burkärrsgården till Säro nya vårds-och februari Beslutetgäller från 24/2 till dess att verksamheten inte har fall av misstänkt
-januari  omsorgsboende som var tänkt att ske den 18/1-2021            eller konstaterad smitta av Covid-19 (beslut följs upp veckovis)
-8      Muntligt beslut om att förlänga tidigare beslut om att införa ett särskilt covid- 25 Beslutatt införa stark avrådan från besök på enhet A Blåvingevägens VÅBO
-januari  team i hemtjänsten till den 15/3-2021               februari
+Beslutetgäller från 24/2 till dess att verksamheten inte har fall av misstänkt
+februari
+eller konstaterad smitta av Covid-19 (beslut följs upp veckovis)
+25
+Beslutatt införa stark avrådan från besök på enhet A Blåvingevägens VÅBO
+februari
 Beslutom att från v.9 genomföra två stabsmöten i veckan
-11     Muntligt beslut om att den andra omgången av vaccination ska ske på 26
+26
 Beslutom att förvaltningen frångår ordinarie principer och
-januari  Burkärrsgårdens vård-och omsorgsboende innan flytten till Särö blir av februari
+februari
 bemanningsplanering i syfte att minimera smittspridning
-Beslutmed stöd av delegering att godkänna avsteg från avtal med Gottskärs
-26                                                           3
-Hemtjänst AB om att tillfälligt tas bort som valbar i kommunens kundval för Beslutom att införa stark avrådan från besök på 3 enheter på Åsa VÅBO, samt
-januari                                                       mars
-hemtjänst.                                                   enhet A och B på Blåvingevägens VÅBO
+3
+Beslutom att införa stark avrådan från besök på 3 enheter på Åsa VÅBO, samt
+mars
+enhet A och B på Blåvingevägens VÅBO
+
 19
 
 <!-- sida 23 -->
@@ -708,47 +789,65 @@ på det viset.
 
 <!-- sida 27 -->
 
-INLEDANDE          FÖRVIRRING          MED      VISS   STRUKTUR
+INLEDANDE          FÖRVIRRING           MED     VISS    STRUKTUR
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Jag gick en utbildning ungefär ett år innan och var i färd
+med att planera en krisövning på förvaltningsnivå men
+hann inte det innan pandemin. […] Det fanns en
+övergripande pandemiplan och vi började under våren
+att revidera den. Alla satte igång med
+prioriteringsordningar i respektive verksamhet.”
+(avdelningschef)
+”Vi har ju haft krisledning i förvaltningsledningen någon
+gång, men det var ju långt ifrån den verklighet som vi
+kastades in i. […] När KLK avvecklade sin stab så erbjöd
+sig flera att komma till VO för att jobba, det blev ett bra
+stöd men kanske också lite förvirrande.” (stab övrig)
+
+Kungsbackas gemensamma arbetssätt vid kris
+eller oväntad händelse:
+
+Samma modell för att:
+• Viktigt att snabbt komma igång
+• Alla känner igen sig oavsett var man jobbar
+• Liknande mallar och arbetssätt
+
+• Funktionerna har fasta roller
+• Personer utses och tränas i dessa funktioner
+
+FÖRBEREDELSER OCH
+INLEDANDE STYRNING
+
+OBSERVATIONER
 
 I det inledande läget fanns det en osäkerhet om hur förvaltningen skulle agera. Flera intervjuade beskriver det inledande läget
 som ”famlande” där det också saknades en struktur för hur själva arbetsformen för krisledningen skulle se ut. Kommunledningen
-”Jag gick en utbildning ungefär ett år innan och var i färd
 gick upp i krisledningsläge i krisens inledning, någon gång i mars. Ganska snabbt konstaterades det dock att pandemin främst
-med att planera en krisövning på förvaltningsnivå men
 skulle påverka vård-och omsorgsverksamheten och då växlade kommunledningen ner och VO-förvaltningen gick upp i
-hann inte det innan pandemin. […] Det fanns en
 krisledningsstab (25 mars).
-övergripande pandemiplan och vi började under våren
-att revidera den. Alla satte igång med Pandemiplan fanns men var inte uppdaterad. Precis som de flesta andra kommuner hade Kungsbacka en pandemiplan sedan
-prioriteringsordningar i respektive verksamhet.” svininfluensan 2009. Den planen var dock framför allt inriktad på hur verksamheten skulle kunna upprätthållas trots hög
-(avdelningschef)                       sjukfrånvaro, och mindre på hur smittspridning ska motverkas. De intervjuade upplever ändå att planen var till nytta genom att
+Pandemiplan fanns men var inte uppdaterad. Precis som de flesta andra kommuner hade Kungsbacka en pandemiplan sedan
+svininfluensan 2009. Den planen var dock framför allt inriktad på hur verksamheten skulle kunna upprätthållas trots hög
+sjukfrånvaro, och mindre på hur smittspridning ska motverkas. De intervjuade upplever ändå att planen var till nytta genom att
 den gav en övergripandee struktur för planering och agerande, exempelvis med nivåindelningen för påverkan på verksamheten.
-”Vi har ju haft krisledning i förvaltningsledningen någon
-gång, men det var ju långt ifrån den verklighet som vi Utbildning hade en del chefer gått men övning saknades. Ett antal personer i förvaltningsledningen har gått en
-kastades in i. […] När KLK avvecklade sin stab så erbjöd krisberedskapsutbildning relativt nyligen. Någon förvaltningsövergripande övning hade dock inte genomförts under senare tid.
-sig flera att komma till VO för att jobba, det blev ett bra Krisen liknade samtidigt inte kriser som ingått i utbildningen.
-stöd men kanske också lite förvirrande.” (stab övrig)
+Utbildning hade en del chefer gått men övning saknades. Ett antal personer i förvaltningsledningen har gått en
+krisberedskapsutbildning relativt nyligen. Någon förvaltningsövergripande övning hade dock inte genomförts under senare tid.
+Krisen liknade samtidigt inte kriser som ingått i utbildningen.
+
 Organisationen har olika beredskap för stabsläge, där funktioner och roller som är ovana vid arbetssättet tycker att det var
 svårt att vänja sig vid det. Särskilt märktes detta för roller med lång erfarenhet av invanda rutiner (t.ex. ledningsgrupp) medan
-Kungsbackas gemensamma arbetssätt vid kris det för personer som är nya i sin roll och organisationen upplevde det som lättare att anpassa sig. Detta kan möjligen bero på för
+det för personer som är nya i sin roll och organisationen upplevde det som lättare att anpassa sig. Detta kan möjligen bero på för
 få övningar men det finns även andra lärdomar att dra genom att följa hur stabsläget utvecklats över tid under pandemin.
-eller oväntad händelse:
 Det nationella, regionala och kommunala systemet för att möta pandemin har satts under hård press. Det är uppenbart att
-Samma modell för att:                  många av de intervjuade i någon mån beskriver konsekvenserna av den svåra situation som hela vårt offentliga system har ställts
+många av de intervjuade i någon mån beskriver konsekvenserna av den svåra situation som hela vårt offentliga system har ställts
 inför under pandemin. Olika krisberedskapsprinciper har stått i konflikt med varandra och det har uppstått utmaningar på alla
-• Viktigt att snabbt komma igång
 nivåer i systemet. På nästa sida beskrivs i förenklad form de utmaningar som hanterats på olika nivåer och konsekvenserna av
-• Alla känner igen sig oavsett var man jobbar
 detta.
-• Liknande mallar och arbetssätt
-• Funktionerna har fasta roller
-• Personer utses och tränas i dessa funktioner
-FÖRBEREDELSER OCH
-INLEDANDE STYRNING                                                                          24
+
+24
 FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
+LEDARSKAP        ARBETET         INFORMATION      SAMVERKAN
 
 <!-- sida 28 -->
 
@@ -784,76 +883,91 @@ LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
 
 <!-- sida 29 -->
 
-STABSORGANISATION                 GAV     STABILITET        MEN     OCKSÅ       DISTANS
+STABSORGANISATION                  GAV    STABILITET        MEN      OCKSÅ      DISTANS
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Jag känner att jag varit väldigt otillgänglig för alla andra
+som inte sitter i krisledning. Har fått kämpa med det,
+man kan inte jobba hur mycket som helst, men det finns
+ju de som sitter kvar med vanliga uppdrag och också
+behöver uppmärksamhet.” (verksamhetschef)
+”Stabsorganisationen utgick från en manual och då var
+vi som driftschefer inte med i den. […] Hur kan det
+komma sig att det kommer en massa saker i mina
+händer som jag inte blivit tillfrågad om hur vi ska
+verkställa?”
+
+OBSERVATIONER
 
 I samband med att förvaltningen övergick till ett formellt ”stabsläge” så övergick också flera av cheferna och medarbetarna
 till specifika stabsroller.Dessa roller var inledningsvis rätt förvirrande för de deltagande i staben. Flera hade lång erfarenhet av
-”Jag känner att jag varit väldigt otillgänglig för alla andra
 förvaltningsledning och hade svårt att hitta i dessa nya roller. Eftersom verksamheten fortgick som vanligt, men med en ökad
-som inte sitter i krisledning. Har fått kämpa med det,
 anspänning för att kunna hantera risken för smitta i verksamheten blev det också svårt att anpassa rollerna till den vardagliga
-man kan inte jobba hur mycket som helst, men det finns
 situationen. Exempelvis kom rollen om logistik att i stort sett enbart handla om att säkerställa tillgång till skyddsutrustning i
-ju de som sitter kvar med vanliga uppdrag och också
 inledningen.
-behöver uppmärksamhet.” (verksamhetschef)
 Viktigt stöd från kommunledningen. I och med att kommunledningen växlade ner så erbjöds också resurser till VO-
-”Stabsorganisationen utgick från en manual och då var
 förvaltningen. Därmed fanns det också rutin på krisledning och resurser för exempelvis analys och beredskap-/säkerhetsrutiner.
-vi som driftschefer inte med i den. […] Hur kan det
 Under våren var det en person inlånad som stabschef, även analytiker och krisberedskapskompetens har lånats därifrån.
-komma sig att det kommer en massa saker i mina
-händer som jag inte blivit tillfrågad om hur vi ska Begränsad representation från verksamheten under ”stabsläget”.I samband med övergången till stabsläget blev det också en
-verkställa?”                           skillnad på förvaltningsledningen och krisledningsstaben. En viktig förändring var att verksamhetscheferna för VÅBO och
+Begränsad representation från verksamheten under ”stabsläget”.I samband med övergången till stabsläget blev det också en
+skillnad på förvaltningsledningen och krisledningsstaben. En viktig förändring var att verksamhetscheferna för VÅBO och
 hemtjänst inte deltog i staben. Detta läge gällde under en dryg månad (25 mars till 8 maj) vilket också var en period då många
 rutiner för verksamheten föll på plats.
 
 FÖRBEREDELSER OCH
 INLEDANDE STYRNING                                                                          26
 FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
+LEDARSKAP        ARBETET        INFORMATION       SAMVERKAN
 
 <!-- sida 30 -->
 
 ERFAREN        FÖRVALTNINGSLEDNING                    OCH     SNABBA        BESLUT
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Känns som att vi låg i framkant, exempelvis jämfört
+med Göteborg. Kände mig trygg med att saker och ting
+hände i ett bra tempo.” (enhetschef)
+”Upplever att vi snabbt drog igång en beredskap. Har en
+stab, kloka enhetschefer och en verksamhetschef som är
+på tårna. Vi fick snabbt direktiv, information och stöd.”
+(enhetschef)
+
+Inriktning för pandemihanteringen:
+
+”Verka för att minska smittspridning. Skapa
+uthållighet i verksamheten.”
+
+OBSERVATIONER
 
 Rutin, erfarenhet och trygghet i chefsledet –ett bra stöd för enhetschefer. Merparten av cheferna inom förvaltningen har lång
 erfarenhet i chefspositioner och/eller inom sitt verksamhetsområde. Detta har enligt intervjuade, på det stora hela, bidragittill
-”Känns som att vi låg i framkant, exempelvis jämfört
 ett lugn och en trygghet i hanteringen av pandemin trots den höga anspänning som den inneburit. Enhetscheferna upplever att
-med Göteborg. Kände mig trygg med att saker och ting
 det funnits avdelnings-/verksamhetschefer som har givit dem ett bra stöd.
-hände i ett bra tempo.” (enhetschef)
 Förvaltningen anses ha aktiverat sitt krishanteringsarbete relativt snabbt och stödet från Kommunledningskontoret bidrog till
-”Upplever att vi snabbt drog igång en beredskap. Har en
 en stabilitet i krisledningsarbetet generellt. Förvaltningsledningen har också under de senaste åren hanterat flera krissituationer,
-stab, kloka enhetschefer och en verksamhetschef som är
 vilket antas ha påverkat förmågan att snabbat organisera krisarbetet och att skapa en stabilitet i det.
-på tårna. Vi fick snabbt direktiv, information och stöd.”
-(enhetschef)                           Besöksförbud vid boenden redan den 11 mars. Att beslutet om besöksförbud fattades före de nationella riktlinjerna fastställdes
+Besöksförbud vid boenden redan den 11 mars. Att beslutet om besöksförbud fattades före de nationella riktlinjerna fastställdes
 visar på en proaktivitet inom krishanteringen. Besöksförbud på särskilda boenden är en komplicerad fråga, men är något som på
 nationell nivå anses borde ha fastställts tidigare enligt den av regeringen utsedda Coronakommissionensdelbetänkande
 avseende hanteringen av pandemin inom äldreomsorgen.
+
 Beskrivningen av ”chefens inriktning” har uppfattats av samtliga intervjuade, verkar ha varit vägledande för alla.Förmågan att
 förmedla syftet och skapa en gemensam riktning mot det målet har förvaltningen lyckats med under pandemin. I de intervjuer
 som genomförts har så gott som alla uppfattat den här inriktningen för arbetet. Därmed har det hela tiden funnits ett fokus på
 såväl att motverka smittspridning som att arbeta för en uthållig organisation.
-Inriktning för pandemihanteringen:
 Många framhåller att förvaltningen snabbt vidtog åtgärder som man antar påverkat den relativt låga smittspridningen hos
-”Verka för att minska smittspridning. Skapa verksamhetens medarbetare och vårdtagare under våren 2020. Upplevelsen av att ha varit proaktiva exemplifieras av hur
-uthållighet i verksamheten.”     Kungsbackas representant i den regionala samordningen sällan hade något nytt med sig tillbaka från dessa träffar. Kungsbacka
+verksamhetens medarbetare och vårdtagare under våren 2020. Upplevelsen av att ha varit proaktiva exemplifieras av hur
+Kungsbackas representant i den regionala samordningen sällan hade något nytt med sig tillbaka från dessa träffar. Kungsbacka
 låg ofta tidigt ute med sina beslut och hade ett proaktivt sätt att förhålla sig till insatser för att minska smittspridningen.
 Kommunen hade ofta redan varit på dom frågor som kom upp där. ”Min uppgift är ju också att ta frågor från VO och ta dom till
 kommunledning eller Länsstyrelsen, och det är sällan jag återrapporterar något från Lst som inte redan är omhändertaget.
 Tycker sällan vi har varit reaktiva.”
+
 FÖRBEREDELSER OCH
 INLEDANDE STYRNING                                                                          27
 FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
+LEDARSKAP        ARBETET        INFORMATION       SAMVERKAN
 
 <!-- sida 31 -->
 
@@ -895,72 +1009,97 @@ LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
 
 KROCKAR         MELLAN        OLIKA     LAGRUM
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Systematiken i denna krishantering missade därför arbetsmiljöperspektivet
+eftersom beslutsfattandet utgick från hälso-och sjukvårdslagstiftning.” (chef stab)
+”Var mycket hysch-hysch med mycket information som vi inte fick gå ut med. Var
+jobbigt att sitta på information som man inte fick dela, förstod inte heller varför
+jag inte fick dela informationen. Exv. om man fick in smitta på en enhet. Vilka fick
+man meddela och inte? Var väldigt restriktivt” (enhetschef)
+
+”Sitter med i en nationell arbetsgrupp sen tidigare och alla var desperata efter
+information från myndigheter och lagstiftning, men det fanns inget [nationellt]
+stöd att få. Allt hamnade på vår egen förmåga att fatta beslut.”
+
+SKR konstaterar i uppföljning som gjorts vid träffar med Coronakommissionen
+att flera regelverk, myndighetsuppdrag och målsättningar krockar med varandra
+återkommande under krisen.
+
+Det handlar exempelvis om:
+• Uppdrag till myndigheter (exempelvis Socialstyrelsen om skyddsutrustning) har
+skapat otydlighet i ansvarsfördelning.
+• Granskningsinsatser har bedrivits ”som vanligt” från IVO och Arbetsmiljöverket
+• Myndigheternas olika direktiv skapade problem, förvirring och oro. Det hade
+behövts mer konkret vägledning från myndigheternas sida.
+
+FÖRBEREDELSER OCH
+INLEDANDE STYRNING
+FÖRVALTNINGENS
+LEDARSKAP
+
+OBSERVATIONER
 
 Arbetsmiljöperspektivet kom åtminstone inledningsvis i bakgrunden. Inledningsvis låg mycket fokus på
 att hantera risken för smittspridning. Detta är i sig inte fel prioriterat, men det finns en upplevelse av att
-”Systematiken i denna krishantering missade därför arbetsmiljöperspektivet
 arbetsmiljöperspektivet blev lågt prioriterat under en för lång period. De övergripande rutinerna för
-eftersom beslutsfattandet utgick från hälso-och sjukvårdslagstiftning.” (chef stab)
 verksamheten bygger mycket på HSL, men innehåller mindre av arbetsmiljölagstiftning, och det inledande
-”Var mycket hysch-hysch med mycket information som vi inte fick gå ut med. Var beslutsfattandet utgick mestadels från HSL.
-jobbigt att sitta på information som man inte fick dela, förstod inte heller varför
+beslutsfattandet utgick mestadels från HSL.
 Genomgående ett stort fokus på hälso-och sjukvårdsperspektiv med HSL som styrande för många av
-jag inte fick dela informationen. Exv. om man fick in smitta på en enhet. Vilka fick
 åtgärderna. Det här har inte varit något unikt för Kungsbacka utan har gällt generellt över landet. Men
-man meddela och inte? Var väldigt restriktivt” (enhetschef)
 det ställer särskilda krav på samverkan i den egna organisationen mellan olika enheter. Flera av
-”Sitter med i en nationell arbetsgrupp sen tidigare och alla var desperata efter enhetscheferna vid boenden upplever att det varit vissa områden där de kanske önskat sig mer stöd från
-information från myndigheter och lagstiftning, men det fanns inget [nationellt] hälso-och sjukvårdspersonal.
-stöd att få. Allt hamnade på vår egen förmåga att fatta beslut.”
+enhetscheferna vid boenden upplever att det varit vissa områden där de kanske önskat sig mer stöd från
+hälso-och sjukvårdspersonal.
 Socialtjänstlagens begränsningar när det gäller smittskyddsåtgärder. Även här har det inte varit en unik
 situation för kommunen, men det har påverkat verksamheten mycket att åtgärder hela tiden behöva
 hantera svåra intresseavvägningar. Nyckelresurser, inte minst MAS, har behövt arbeta fram många
-SKR konstaterar i uppföljning som gjorts vid träffar med Coronakommissionen
 styrande dokument och tillsammans med övriga representanter i stab och förvaltningsledning jämka olika
-att flera regelverk, myndighetsuppdrag och målsättningar krockar med varandra
 perspektiv när nationella myndigheter antingen varit sena med att ta fram riktlinjer eller i värsta fall haft
-återkommande under krisen.
 riktlinjer som står i konflikt med varandra.
-Det handlar exempelvis om:                          Många anser att lagstiftning gällande sekretess tolkas på en orimligt hög nivå gällande konstaterad
-• Uppdrag till myndigheter (exempelvis Socialstyrelsen om skyddsutrustning) har smitta.Flera enhetschefer har upplevt att de vid vissa tillfällen behövt undanhålla information för
-skapat otydlighet i ansvarsfördelning.             medarbetare, vårdtagare och/eller anhöriga. Det påpekas även att det vid exempelvis pressträffar
-• Granskningsinsatser har bedrivits ”som vanligt” från IVO och Arbetsmiljöverket uppstått märkliga situationer när antalet smittade redovisas för privata boenden men inte för de
-• Myndigheternas olika direktiv skapade problem, förvirring och oro. Det hade kommunala. På grund av förvaltningens strikta tolkning av sekretesslagen och möjligheterna att vara
-behövts mer konkret vägledning från myndigheternas sida. transparent kring antalet smittade vid kommunens boenden.
+
+Många anser att lagstiftning gällande sekretess tolkas på en orimligt hög nivå gällande konstaterad
+smitta.Flera enhetschefer har upplevt att de vid vissa tillfällen behövt undanhålla information för
+medarbetare, vårdtagare och/eller anhöriga. Det påpekas även att det vid exempelvis pressträffar
+uppstått märkliga situationer när antalet smittade redovisas för privata boenden men inte för de
+kommunala. På grund av förvaltningens strikta tolkning av sekretesslagen och möjligheterna att vara
+transparent kring antalet smittade vid kommunens boenden.
 Här kan det också framhållas att kommunerna har hanterat sekretessfrågan olika kopplat till smittande i
 verksamheten. Exempelvis har Örebro kommun haft en transparent hållning i frågan.
-FÖRBEREDELSER OCH
-INLEDANDE STYRNING                                                                          29
-FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-LEDARSKAP         ARBETET        INFORMATION      SAMVERKAN
+
+29
+ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
+ARBETET        INFORMATION      SAMVERKAN
 
 <!-- sida 33 -->
 
 BRA    SAMSPEL         I UTVECKLAD          KRISLEDNINGSGRUPPERING
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Tycker förvaltningen har blivit tajtare än tidigare. Vi har
+en gemensam fiende just nu och det är pandemin. […]
+’ett Kungsbacka’ har vi levt upp till på ett helt annat sätt
+äninnan pandemin. Det ska vi absolut behålla.”
+”Struktur är det som poppar upp i mitt huvud, det har
+funnits en metodik att gå efter och vi har skapat en
+tydlighet i vem som gör vad.”
+
+OBSERVATIONER
 
 I krisledningen/staben har det hela tiden funnits en bra överblick. Här upplever de som suttit med i staben att det funnits en
 möjlighet att se helheten bättre än i normala fall, särskilt för de funktioner som annars inte ingår i ledningsgruppen. Staben har
-”Tycker förvaltningen har blivit tajtare än tidigare. Vi har
 hela tiden haft en överblick (i den mån det nu går i en pandemi) och har kunnat delge varandra lägesbilder på ett sätt som skapar
-en gemensam fiende just nu och det är pandemin. […]
 sammanhang och förståelse. Här har också analysansvariga varit viktiga för att bidra till denna överblick. Flera beskriver hur de i
-’ett Kungsbacka’ har vi levt upp till på ett helt annat sätt
 krisledningsarbetet upplevt att de gör verklighet av begreppet ”ett Kungsbacka”.
-äninnan pandemin. Det ska vi absolut behålla.”
 Det har varit viktigt att ingå i staben. Medarbetare och chefer som har växlat mellan att ingå i eller inte ingå i staben eller
-”Struktur är det som poppar upp i mitt huvud, det har
 krisledningen har upplevt att de haft dålig insyn i vad som pågår där under den tid de inte deltagit i staben. En del reflekterar där
-funnits en metodik att gå efter och vi har skapat en
 också över hur detta kan hanteras när det inte är pandemi. Vilka ska representanterna vara i en ledningsgrupp? Hur ska
-tydlighet i vem som gör vad.”
 informationskanalerna se ut för att rätt personer ska få rätt information och så vidare.
 Olika verksamhetsgrenar har närmat sig varandra på ledningsnivå. Flera intervjuade upplever att de fått till ett mycket bra
 samarbete i staben och kunnat överbrygga utmaningar som tidigare funnits, exempelvis mellan HSL-verksamhet och SoL-
 verksamhet. Eftersom många rutiner och styrande dokument behövt diskuteras och arbetas fram har de olika perspektiven
 kunnat brytas i en gruppering med en tydlig gemensam inriktning.
+
 När krisledningen övergick till att omfatta fler funktioner och representanter stärktes helhetsbilden. Efter sommaren användes
 en förstärkt stab där ett antal ”sakkunniga” tillkom i organiseringen, bland annat verksamhetschefer och specialistfunktioner.
 Den här förstärkningen gjorde att det blev en mer komplett sammansättning av kompetenser.
@@ -968,29 +1107,32 @@ Den här förstärkningen gjorde att det blev en mer komplett sammansättning av
 FÖRVALTNINGENS
 LEDARSKAP                                                               30
 FÖRBEREDELSER OCH                  ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING                    ARBETET        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING                   ARBETET        INFORMATION       SAMVERKAN
 
 <!-- sida 34 -->
 
 DISTANS       MELLAN        KRISLEDNING           OCH     ENHETER
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Jag vet inte ens vilka som satt i staben. Vi fick aldrig
+presenterat för oss vilka som satt i staben. Vi lydde och
+gjorde som vi skulle men visste aldrig vilka som gav
+order” (enhetschef)
+”Jag har känt lite så här ”vilka är staben egentligen?” De
+är som en mystisk gas, vet inte alltid var beslut har
+kommit ifrån” (facklig representant)
+
+OBSERVATIONER
 
 Det finns en distans mellan krisledande grupperingar och förvaltningens enheter –framför allt under våren. Många
 enhetschefer har svårt att beskriva vilka som faktiskt sitter med i stabsgruppen, samt vad deras ansvar och mandat är avseende
-”Jag vet inte ens vilka som satt i staben. Vi fick aldrig
 krisledningen. Detta upplevs ej ha fått några större konsekvenser, men det skapar risker avseende följsamheten av beslut som
-presenterat för oss vilka som satt i staben. Vi lydde och
 upplevs fattas på distans, samt känslan av förståelse och samhörighet mellan centrala funktioner och verksamheterna som är
-gjorde som vi skulle men visste aldrig vilka som gav
 hårdast påverkad av krisen.
-order” (enhetschef)
 Enhetschefer upplevde en stor produktion av dokument som inte var tillräckligt väl anpassade till verksamheten.Trots att
-”Jag har känt lite så här ”vilka är staben egentligen?” De
 stabsläget syftar till att öka handlingskraften beskriver flera enhetschefer en hög produktion av dokument, som i vissa fall inte
-är som en mystisk gas, vet inte alltid var beslut har
 var anpassade till den operativa vardagen. Exempelvis togs styrdokument fram utan att rådfråga verksamheten. Exempel lyfts att
-kommit ifrån” (facklig representant)
 riktlinjer förmedlats till verksamheterna som i praktiken inte är genomförbara givet de arbetssätt som används. I dessa fall
 påpekas att det hade varit mer effektivt att inkludera verksamhetens chefer tidigare i beslut, för att minska riskerna för
 dubbelarbete och/eller missförstånd.
@@ -999,77 +1141,97 @@ enhetschefer ha försvunnit under hanteringen av pandemin. Det finns en förstå
 behöver se annorlunda ut vid en kris då verksamheten är under hård belastning. Samtidigt har krishanteringen belyst vikten av
 att ha tillit till verksamheten och deras förmåga att hantera det uppkomna läget. Det är viktigt att hitta en bra balans och
 säkerställa att detta upplevs spegla verkligheten.
+
 Medvetenhet om avståndet i krisledningen. De som deltar i staben och krisledningen har i intervjuer beskrivit på olika sätt att
 de förstått att det uppstått ett avstånd. Samtidigt är de också stolta över med vilken hastighet de arbetat under pandemin.
 Styrande dokument och rutiner har tagits fram på kort varsel, och möjligheterna till förankring har varit begränsade.
 Framförallt upplevs avståndet stort i den egna regin. Paradoxalt nog är det i den egna regin som avståndet upplevs som störst.
 De privata enhetschefer som intervjuats har egentligen fått ett närmare samarbete med kommunen nu än tidigare.
+
 FÖRVALTNINGENS
 LEDARSKAP                                                               31
 FÖRBEREDELSER OCH                  ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING                    ARBETET        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING                   ARBETET        INFORMATION       SAMVERKAN
 
 <!-- sida 35 -->
 
-EXEMPEL        PÅ   UTMANINGAR              I DET   NATIONELLA           STYRSYSTEMET             UNDER
+EXEMPEL        PÅ   UTMANINGAR              I DET    NATIONELLA          STYRSYSTEMET             UNDER
 
-PANDEMIN          (UR    VERKSAMHETENS               PERSPEKTIV)
+PANDEMIN          (UR    VERKSAMHETENS                PERSPEKTIV)
 
-Nivå                                  Utmaningar                                 Konsekvenser
+Nivå                                  Utmaningar                                  Konsekvenser
 
-Myndigheter                          ▪  Ny situation, traditionella sektorsansvar utmanas i kris • Sänder sena, otydliga och ibland motstridiga signaler och
-rekommendationer
-▪  Osäkerhet gällande mandat och förmåga att styra andra i
+Myndigheter                          ▪ Ny situation, traditionella sektorsansvar utmanas i kris •
+
+▪ Osäkerhet gällande mandat och förmåga att styra andra i
 enlighet med närhetsprincipen
-▪  Viss kunskapsbrist när det gäller kommunernas
+▪ Viss kunskapsbrist när det gäller kommunernas
 ansvarsområden, särskilt inom hälso-och sjukvård
 (hemsjukvård)
-Kommunledning                        ▪  Ett antal förvaltningar som bara påverkas marginellt • Har svårt att stödja verksamheterna med annat än resurser
-och metodik kring traditionell kris-och stabsutformning
-▪  De två största verksamheterna påverkas i stor utsträckning
+Kommunledning                        ▪ Ett antal förvaltningar som bara påverkas marginellt •
+▪ De två största verksamheterna påverkas i stor utsträckning
 (skola och vård och omsorg)
-▪  Utmaning i att balansera och dimensionera såväl ett
+
+▪ Utmaning i att balansera och dimensionera såväl ett
 långtgående geografiskt områdesansvar som hälso-och
 sjukvårdsansvar
-Vård-och omsorgsförvaltningens ledning ▪ Behöver hantera omedelbara behov för att motverka • Leder till stor belastning på vissa nyckelroller i
-smittspridning till de ”äldre och sköra”    organisationen
-▪  Detta görs utan att ha tydliga förhållningsregler från
+Vård-och omsorgsförvaltningens ledning ▪ Behöver hantera omedelbara behov för att motverka •
+smittspridning till de ”äldre och sköra”
+▪ Detta görs utan att ha tydliga förhållningsregler från
 sektorsansvariga myndigheter
 
-▪  Försöker hantera krisens olika förlopp genom att ha en lagom
+▪ Försöker hantera krisens olika förlopp genom att ha en lagom
 dimensionerad ”stabsliknande” krisorganisation (liten men
 med tillräcklig handlingskraft)
-Verksamheter (enhet)                 ▪  Verksamheten fortgår som vanligt men med utökade krav • Behöver hantera och kommunicera hela systemets olika
-(från övriga nivåer) inom flera områden     signaler till personal, brukare och anhöriga
 
-▪  Upplever att kraven är mindre väl anpassade till verksamheten
+Sänder sena, otydliga och ibland motstridiga signaler och
+rekommendationer
+
+Har svårt att stödja verksamheterna med annat än resurser
+och metodik kring traditionell kris-och stabsutformning
+
+Leder till stor belastning på vissa nyckelroller i
+organisationen
+
+Verksamheter (enhet)                 ▪ Verksamheten fortgår som vanligt men med utökade krav • Behöver hantera och kommunicera hela systemets olika
+(från övriga nivåer) inom flera områden      signaler till personal, brukare och anhöriga
+▪ Upplever att kraven är mindre väl anpassade till verksamheten
 vilket leder till att delar av dom följs och andra inte
 
 FÖRVALTNINGENS
 LEDARSKAP                                                               32
 FÖRBEREDELSER OCH                  ORGANISERING AV KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING                    ARBETET        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING                   ARBETET        INFORMATION       SAMVERKAN
 
 <!-- sida 36 -->
 
-UTMANING           I ATT   ANPASSA         KRISLEDNINGEN
+UTMANING           I ATT    ANPASSA        KRISLEDNINGEN
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Sen var ingen beredd på att ha krisledning i ett år, då
+funkar inte stabsrollerna längre. Vi har lekt krisledning
+samtidigt som vi behövt förvalta i ett helt år och då blir
+folk griniga för att man inte arbetar med förankring, för
+det gör man ju inte i krisledning generellt. Blev en krock
+efter ett tag då vi var i krisledning och stab, medan
+förvaltningen nog inte riktigt var det.”
+
+OBSERVATIONER
 
 Inledningsvis fanns det en stor nytta av att aktivera krisledningen på förvaltningen. För de som ingick i krisledningen och
 staben innebar det att det fanns en struktur för hur ledningen skulle kontrollera och uppdatera läget. Det fanns också en struktur
-”Sen var ingen beredd på att ha krisledning i ett år, då
 som gjorde att resurser som inte normalt befann sig i förvaltningsledningen också kunde hoppa in.
-funkar inte stabsrollerna längre. Vi har lekt krisledning
-samtidigt som vi behövt förvalta i ett helt år och då blir Bemanningen av staben bedöms ha varit korrekt utifrån ett snabbt krisförlopp, men lärdomar finns avseende hur detta
-folk griniga för att man inte arbetar med förankring, för anpassa utifrån ett längre skeende. Det tycks finnas olika erfarenhet och kunskap om vad ett stabsläge de facto innebär och hur
-det gör man ju inte i krisledning generellt. Blev en krock arbetssättet i ett stabsläge ser ut. Pandemin har även inneburit ett längre krisförlopp än ”normalt” vid kriser. Därmed har
-efter ett tag då vi var i krisledning och stab, medan organisationen behövt verka i en slags gråzon mellan kris (hög belastning, kort tidsförlopp) och vad som möjligen kan jämföras
-förvaltningen nog inte riktigt var det.” med ett krigstillstånd (hög belastning, längre tidsförlopp). När rutiner för detta saknas eller ej är beprövade i verksamheten kan
+Bemanningen av staben bedöms ha varit korrekt utifrån ett snabbt krisförlopp, men lärdomar finns avseende hur detta
+anpassa utifrån ett längre skeende. Det tycks finnas olika erfarenhet och kunskap om vad ett stabsläge de facto innebär och hur
+arbetssättet i ett stabsläge ser ut. Pandemin har även inneburit ett längre krisförlopp än ”normalt” vid kriser. Därmed har
+organisationen behövt verka i en slags gråzon mellan kris (hög belastning, kort tidsförlopp) och vad som möjligen kan jämföras
+med ett krigstillstånd (hög belastning, längre tidsförlopp). När rutiner för detta saknas eller ej är beprövade i verksamheten kan
 därmed ändamålsenligheten i stabens organisation behöva omprövas vid längre förlopp.
 Resurssättningen i staben påverkade distansen till verksamhetsnivån. Inledningsvis bestod stabsmötena av ett mindre antal
 medarbetare, bland annat saknades verksamhetscheferna för boende och hemtjänst i grupperingen. Flera av de intervjuade
 uppger att det här blev konstigt. Det blev en onödigt lång distans mellan verksamheten och den egentliga krisledningen.
+
 Nyckelroller blev hårt belastade. Eftersom mycket av pandemin handlat om åtgärder inom hälso-och sjukvårdsområdet har
 MAS haft en nyckelroll i hela pandemin. Även andra traditionella ”förvaltningsroller” blev hårt belastade. Det har funnits stöd
 runt den funktionen och staben kom att utökas av en ”utökad stab” efter en tid. Det var också svårt att ha resurser inne från
@@ -1080,9 +1242,9 @@ Detta är faktorer som kan hanteras genom mer övning och tydligare styrande dok
 vid kris.
 
 ORGANISERING AV
-ARBETET                                               33
+ARBETET                                                33
 FÖRBEREDELSER OCH FÖRVALTNINGENS                  KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING  LEDARSKAP                        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING  LEDARSKAP                       INFORMATION       SAMVERKAN
 
 <!-- sida 37 -->
 
@@ -1108,31 +1270,44 @@ INLEDANDE STYRNING  LEDARSKAP                        INFORMATION      SAMVERKAN
 
 <!-- sida 38 -->
 
-SÄRSKILDA         TEAM      OCH     AVDELNINGAR            HAR     ÖKAT     KOMPETENSEN              OCH
+SÄRSKILDA         TEAM      OCH     AVDELNINGAR             HAR    ÖKAT      KOMPETENSEN             OCH
 
-MINSKAT        ORON       HOS    MEDARBETARE              INOM      BÅDE     VÅBO      OCH     KVARBO
+MINSKAT        ORON       HOS    MEDARBETARE              INOM      BÅDE      VÅBO     OCH     KVARBO
 
-URVAL AV CITAT                                                                               OBSERVATIONER
-”Covidteamet har varit en stor framgångsfaktor, oron la Covidteamet anses vara en stor framgångsfaktor i förvaltningens hantering av Covid-19. För att minimera smittspridning och
-sig platt på en gång hos personalen när det kom på säkra hög kompetens inom smitthanteringen, skapades ett särskilt team inom hemtjänsten som hanterade vårdtagare med
-plats. De har skött det fantastiskt bra” misstänkt eller konstaterad smitta. Detta anses dels ha resulterad i mer kvalitativ vård av Covid-19, samt ha minskat oron hos
-medarbetare inom hemtjänsten. De personer som ingått i teamet har fått ökad kompetens inom området vilket minskat riskerna
+URVAL AV CITAT
+
+”Covidteamet har varit en stor framgångsfaktor, oron la
+sig platt på en gång hos personalen när det kom på
+plats. De har skött det fantastiskt bra”
 ”Det teamarbete som varit inom Covidteamet önskar de
-för smittspridning på grund av kompetensbrist inom området.
 flesta att vi alltid skulle ha, oklart varför vi inte alltid kan
-jobba i team”                          Den särskilda covidavdelningen för personer med konstaterad smitta som var boendes hemma med stora behov av vård, anses
-vara en framgångsfaktor. Det finns dock en undran gällande varför den särskilda avdelningen dels inte upprättats snabbare, dels
+jobba i team”
 ” Att inrätta covidteam skapade mycket positivitet i
-varför den inte fått samma uppmärksamhet som Covidteamet inom hemtjänsten.
 organisationen. Handlade om våra medarbetares
-möjlighet att jobba på ett säkert sätt. Så fort det var Det finns framför allt en önskan hos enhetschefer att ha ett stödjande team motsvarande det som fanns inom hemtjänsten.
-misstänkt smitta så tog de över och vårdade de Flera av de syften som framhölls med Covidteamet hade varit relevanta även inom VÅBO, exempelvis koordinera tillgång till
-personerna. Vi kompetensförsörjde dom tidigt” skyddsutrustning samt vara konsultstöd för kommunerna.
+möjlighet att jobba på ett säkert sätt. Så fort det var
+misstänkt smitta så tog de över och vårdade de
+personerna. Vi kompetensförsörjde dom tidigt”
+
+OBSERVATIONER
+
+Covidteamet anses vara en stor framgångsfaktor i förvaltningens hantering av Covid-19. För att minimera smittspridning och
+säkra hög kompetens inom smitthanteringen, skapades ett särskilt team inom hemtjänsten som hanterade vårdtagare med
+misstänkt eller konstaterad smitta. Detta anses dels ha resulterad i mer kvalitativ vård av Covid-19, samt ha minskat oron hos
+medarbetare inom hemtjänsten. De personer som ingått i teamet har fått ökad kompetens inom området vilket minskat riskerna
+för smittspridning på grund av kompetensbrist inom området.
+Den särskilda covidavdelningen för personer med konstaterad smitta som var boendes hemma med stora behov av vård, anses
+vara en framgångsfaktor. Det finns dock en undran gällande varför den särskilda avdelningen dels inte upprättats snabbare, dels
+varför den inte fått samma uppmärksamhet som Covidteamet inom hemtjänsten.
+Det finns framför allt en önskan hos enhetschefer att ha ett stödjande team motsvarande det som fanns inom hemtjänsten.
+Flera av de syften som framhölls med Covidteamet hade varit relevanta även inom VÅBO, exempelvis koordinera tillgång till
+skyddsutrustning samt vara konsultstöd för kommunerna.
+
 Syfte och effekter med ett mobilt Covid-team\*:                             \*Enligt minnesanteckning från tillfället för bildandet av covidteamet
 • Effektiv diagnostisering genom att ansvara för bedömning och provtagning
 • Bedöma på vilken vårdnivå patienten ska vårdas.
 • Säkrad kommunikation mellan kommun och region (primärvård och infektion) gällande patienter med Covid-19
 • Utgöra konsultstöd för kommunerna samt för region (primärvård och infektion)
+
 • Utföra vård på patient som vårdas i hemmet eller på särskilt boende tills ordinarie personal har introducerats.
 • Ge nödvändig information till kommunens personal om patientens hälsotillstånd och om fortsatt vård och behandling.
 • Stötta personal som vårdar smittad patient.
@@ -1142,30 +1317,34 @@ Syfte och effekter med ett mobilt Covid-team\*:                             \*En
 • Koordinera, prioritera och säkra tillgång till skyddsutrustning.
 
 ORGANISERING AV
-ARBETET                                               35
+ARBETET                                                35
 FÖRBEREDELSER OCH FÖRVALTNINGENS                  KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING  LEDARSKAP                        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING LEDARSKAP                        INFORMATION      SAMVERKAN
 
 <!-- sida 39 -->
 
-PANDEMIN          ÄNDRADE          DE   FLESTAS      ARBETSFÖRHÅLLANDEN                     –  HAR    BIDRAGIT
+PANDEMIN          ÄNDRADE          DE   FLESTAS       ARBETSFÖRHÅLLANDEN                    –  HAR     BIDRAGIT
 
 TILL   FRIKTION
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Hade varit skönt om de på förvaltningen kunde ta sig
+tid att komma in till oss och kika för att hjälpa. De är
+livrädda för smittan men vi jobbar i det varje dag. Finns
+ingen anpassning där. Bra att de tar smittan på allvar
+men de borde ha förståelse för att ibland måste de
+komma in”
+
+OBSERVATIONER
 
 Arbetsmiljön för förvaltningens medarbetare och chefer har minst sagt förändrats under det senaste dryga året, men på
 väldigt olika sätt beroende på vilken del vi förvaltningen som de hör till. Inom verksamheterna inom förvaltningen har
-”Hade varit skönt om de på förvaltningen kunde ta sig
 personalen medvetet arbetat i en riskmiljö, då de vårdar patienter och är på plats trots bred nationella riktlinjer om att arbeta
-tid att komma in till oss och kika för att hjälpa. De är
 hemifrån till så hög utsträckning som möjligt. De som arbetar inom tjänster på förvaltningen som går att genomföras hemifrån
-livrädda för smittan men vi jobbar i det varje dag. Finns
 har gjort det i en väldigt hög utsträckning, som sin tur får konsekvenser på ergonomi och arbetsbelastning från ett annat
-ingen anpassning där. Bra att de tar smittan på allvar
 perspektiv.
-men de borde ha förståelse för att ibland måste de
-komma in”                              De delar av förvaltningen som arbetar hemifrån under perioden upplevs i vissa situationer ha lägre förståelse för när det finns
+De delar av förvaltningen som arbetar hemifrån under perioden upplevs i vissa situationer ha lägre förståelse för när det finns
 behov av stöd på plats i verksamheterna. Baserat på ställningstagandet att den personal som inte måste vara på plats ska
 arbeta hemifrån är det inte säkert att denna upplevelse innebär att denna personal bör åka in till arbetsplatsen, det finns dock
 ett behov av att vara tydlig gällande omoch i sådana fall närpersonal från stöd funktioner kan/bör stötta på plats. Detta både
@@ -1175,87 +1354,103 @@ utsträckning. Exv. anses beslut och riktlinjer avseende hur och vart möten få
 att få på plats. Driftpersonalen anses sitta trångt i de lokaler som idag används vilket försvårar möjligheterna att hålla avstånd
 från varandra. Det finns också en oro hos skyddsombud för att verksamheten alltför snabbt kommer ”återgå till det normala”
 med personal som samlas i trånga utrymmen. Något som i framtiden kan leda till att nya smittor snabbt får fäste i personalen.
+
 Det finns en viss friktion mellan enheterna inom förvaltningen för Vård & Omsorg, särskilt mellan HSL-och SOL-enheter.
 Delvis beroende på traditioner sedan tidigare, skillnader i synen på utbildning och mandat/ansvar för vårdinsatser. Den del i
 denna friktion som avser hanteringen av pandemin verkar ha rotorsaker i brister i informationsflödet mellan centrala delar av
 förvaltningen, chefer och medarbetare och berörs ytterligare i avsnittet ”Kommunikation och information” i denna rapport.
 
 ORGANISERING AV
-ARBETET                                               36
+ARBETET                                                36
 FÖRBEREDELSER OCH FÖRVALTNINGENS                  KOMMUNIKATION OCH INTERN OCH EXTERN
-INLEDANDE STYRNING  LEDARSKAP                        INFORMATION      SAMVERKAN
+INLEDANDE STYRNING  LEDARSKAP                       INFORMATION       SAMVERKAN
 
 <!-- sida 40 -->
 
-STABSGRUPPEN             OCH     ANDRA        CENTRALA         FUNKTIONER            UPPLEVER         ATT
+STABSGRUPPEN              OCH     ANDRA       CENTRALA         FUNKTIONER            UPPLEVER         ATT
 
-KOMMUNIKATIONEN                   FUNGERAT          MYCKET       VÄL    UNDER       PANDEMIN…
+KOMMUNIKATIONEN                   FUNGERAT          MYCKET        VÄL   UNDER        PANDEMIN…
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Det jag är mest stolt över är kommunikationen och
+transparensen, vilket gjort att verksamheten kunnat gå
+framåt hela tiden.”
+”Bestämde oss snabbt att gå ut med enhetsbrev, vi har
+haft möten varje vecka med alla chefer, och haft
+kontinuerlig facklig samverkan, tycker att vi varit väldigt
+transparenta.”
+
+OBSERVATIONER
 
 Stabspersonal och andra centrala funktioner är mycket nöjda med kommunikationen och anser att den kommunikations-och
 informationsprocesser/-verktyg fungerat mycket väl. Enhetsbrev, ”covidmöten” med enhetschefer och den fackliga samverkan
-”Det jag är mest stolt över är kommunikationen och
 är några exempel som lyfts av stabspersonal som framgångsfaktorer.
-transparensen, vilket gjort att verksamheten kunnat gå
-framåt hela tiden.”                    För att hantera det höga behovet av att nå ut med information till chefer och personalhar olika verktyg används. Många
+För att hantera det höga behovet av att nå ut med information till chefer och personalhar olika verktyg används. Många
 chefer på samtliga nivåer i förvaltningen har skickat ut veckovisa (ibland oftare) brev till sin personal för att uppdatera om läget,
-”Bestämde oss snabbt att gå ut med enhetsbrev, vi har
 samt så har TV-skärmar används som informationspelare på boenden. Skärmarna har uppskattats hos personalen då det gör
-haft möten varje vecka med alla chefer, och haft
 informationen mer tillgänglig än när den endast kommer i mailformat och/eller via möten. Det finns dock en önskan att på ett
-kontinuerlig facklig samverkan, tycker att vi varit väldigt
 tydligare sätt belysa när ny information spelas upp via skärmarna, då det i en stressig vardag kan vara svårt att bli uppmärksam
-transparenta.”
 på om informationen är ny eller ”gammal”.
 Inledningsvis upplevdes en viss svårighet med att nå ut med information till anhöriga vilket resulterade i att många frågor
 ställdes som förvaltningen fick hantera. Detta upplevs dock ha hanterats relativt snabbt och kommunikationen utåt från
 förvaltningen målgruppsanpassades ytterligare.
+
 Samtliga intervjuade upplever enhetschefsmötena som mycket givande. De kontinuerliga covidmötenalyfts som en stark
 framgångsfaktor under perioden. Att ha en gemensam samlingspunkt där information går ut samtidigt till samtliga
 enhetschefer, samt att det funnits möjlighet att ställa frågor har uppskattats av samtliga respondenter i denna utvärdering.
 
 KOMMUNIKATION OCH
-INFORMATION                            37
-FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV                  INTERN OCH EXTERN
-INLEDANDE STYRNING  LEDARSKAP         ARBETET                         SAMVERKAN
+INFORMATION                             37
+FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV                 INTERN OCH EXTERN
+INLEDANDE STYRNING  LEDARSKAP        ARBETET                          SAMVERKAN
 
 <!-- sida 41 -->
 
-…  MEN      CHEFER       INOM      VERKSAMHETEN               SER    UTRYMME          FÖR    FÖRBÄTTRINGAR
+…   MEN     CHEFER       INOM      VERKSAMHETEN               SER    UTRYMME          FÖR     FÖRBÄTTRINGAR
 
-AVSEENDE         SÄTTET      INFORMATION             FÖRMEDLAS            FRÅN     CENTRALT         HÅLL
+AVSEENDE         SÄTTET       INFORMATION            FÖRMEDLAS            FRÅN     CENTRALT         HÅLL
 
-URVAL AV CITAT                                                                               OBSERVATIONER
+URVAL AV CITAT
+
+”Det var väldigt stökigt i början då rutiner inte var
+förankrade men vi skulle veta om det ändå. Ingen hade
+koll på vart det skulle förankras. Finns fortfarande vissa
+rutiner som inte är satta, där kommunen säger en sak
+och regionen en annan.”
+”Var mycket hysch-hysch med mycket information som
+vi inte fick gå ut med. Var jobbigt att sitta på information
+som man inte fick dela, förstod inte heller varför jag inte
+fick dela informationen. Exv. om man fick in smitta på en
+enhet. Vilka fick man meddela och inte? Var väldigt
+restriktivt”
+
+”Jag fick skriva om materialet så att min personal inte
+skulle känna sig bortglömda”
+
+OBSERVATIONER
 
 Enhetschefer inom förvaltningen belyser att även om kommunikationen fungerat väl i vissa fall, att det fortfarande finns
 förbättringspotential. Den kommunikation och de stödmaterial som fördelats ut till enhetschefer anses inte alltid ha varit
-”Det var väldigt stökigt i början då rutiner inte var
 anpassad efter samtliga delar av förvaltningens verksamheter vilket skapat en känsla av en viss oförståelse för verksamheten.
-förankrade men vi skulle veta om det ändå. Ingen hade
 Exv. lyfts det att det varit ett stort fokus på VÅBO, men att andra grenar inom förvaltningen till viss del glömts bort. Detta har
-koll på vart det skulle förankras. Finns fortfarande vissa
 resulterat i att enskilda chefer känt sig tvungna att skriva om material från centralt håll deras yrkesgrupp ej nämnts i det material
-rutiner som inte är satta, där kommunen säger en sak
 som skickats ut för fördelning till medarbetare.
-och regionen en annan.”
 De särskilda Covidmötena där samtliga enhetschefer samlas lyfts som en stor framgångsfaktor och har uppskattats mycket av
-”Var mycket hysch-hysch med mycket information som
 förvaltningens enhetschefer. Mötena har skapat utrymme både för att samlat få tillgång till information, samt att ställa frågor.
-vi inte fick gå ut med. Var jobbigt att sitta på information
-som man inte fick dela, förstod inte heller varför jag inte Genom Covidmötena upplever de privata utförarna att informationsflödet till dem blivit bättre under pandemin än innan.
-fick dela informationen. Exv. om man fick in smitta på en Genom dessa möten får de privata utförarna samma information som de interna, samt vid samma tillfälle och även tillfälle att
-enhet. Vilka fick man meddela och inte? Var väldigt ställa frågor direkt, vilket inte funnits till samma utsträckning tidigare.
-restriktivt”
+Genom Covidmötena upplever de privata utförarna att informationsflödet till dem blivit bättre under pandemin än innan.
+Genom dessa möten får de privata utförarna samma information som de interna, samt vid samma tillfälle och även tillfälle att
+ställa frågor direkt, vilket inte funnits till samma utsträckning tidigare.
+
 Det finns en upplevelse av att informationen och kommunikationen kring konstaterad och/eller misstänkt smitta varit
-”Jag fick skriva om materialet så att min personal inte omgiven av mycket frågor och stor försiktighet vilket påverkat chefer och personal. Exempelvis beskrivs situationer där
-skulle känna sig bortglömda”           konstaterad smitta funnits på en enhet vid ett VÅBO där det ej var självklart att enhetschefen kunde berätta detta för personal
+omgiven av mycket frågor och stor försiktighet vilket påverkat chefer och personal. Exempelvis beskrivs situationer där
+konstaterad smitta funnits på en enhet vid ett VÅBO där det ej var självklart att enhetschefen kunde berätta detta för personal
 på andra enheter på samma boende (Detta område berörs även i bild 21 avseende tolkning av lagutrymmen).
 
 KOMMUNIKATION OCH
-INFORMATION                            38
-FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV                  INTERN OCH EXTERN
-INLEDANDE STYRNING  LEDARSKAP         ARBETET                         SAMVERKAN
+INFORMATION                             38
+FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV                 INTERN OCH EXTERN
+INLEDANDE STYRNING  LEDARSKAP        ARBETET                          SAMVERKAN
 
 <!-- sida 42 -->
 
@@ -1292,18 +1487,27 @@ INLEDANDE STYRNING  LEDARSKAP         ARBETET                         SAMVERKAN
 
 <!-- sida 43 -->
 
-FACKLIG      SAMVERKAN             UTVECKLADES            UNDER       PERIODEN
+FACKLIG       SAMVERKAN            UTVECKLADES            UNDER       PERIODEN
 
-URVAL AV CITAT                                                                               OBSERVATIONER
-”Var inte en rolig situation med Kommunal i början, men Observationerna påvisar att den fackliga samverkan inom förvaltningen inte fungerade enligt allas önskemål initialt i
-blev ett lugn i det fackliga efter vi skapade Covidteamet” pandemins skede, men att samverkan har förbättrats under tidens gång. Arbetet inom skyddskommittén där förvaltningens
-(enhetschef)                           skyddsombud ingår upplevs ha fungerat väl och varit ett bra forum för informationsdelning och samverkan. Inom
-skyddskommittén upplevs det har varit högt i tak och möjligt för de deltagande att lyfta och diskutera olika frågor tillsammans
+URVAL AV CITAT
+
+”Var inte en rolig situation med Kommunal i början, men
+blev ett lugn i det fackliga efter vi skapade Covidteamet”
+(enhetschef)
 ”Bitvis har det varit oro kring skyddsutrustning och då
-med olika yrkesgrupper på ett bra sätt.
 har vi kunnat ta upp det tillsammans. Har skapats en bra
-förståelse och ett bra samarbete mellan olika Den diskussion som fortgått under hela perioden har avsett skyddsutrustning där det finns delade åsikter om hur väl
-funtkoner.” (representant skyddskommittén) hanteringen av det skötts.Vissa påpekar att det var brist på skyddsutrustning i hela landet och det därmed är förståeligt att det
+förståelse och ett bra samarbete mellan olika
+funtkoner.” (representant skyddskommittén)
+
+OBSERVATIONER
+
+Observationerna påvisar att den fackliga samverkan inom förvaltningen inte fungerade enligt allas önskemål initialt i
+pandemins skede, men att samverkan har förbättrats under tidens gång. Arbetet inom skyddskommittén där förvaltningens
+skyddsombud ingår upplevs ha fungerat väl och varit ett bra forum för informationsdelning och samverkan. Inom
+skyddskommittén upplevs det har varit högt i tak och möjligt för de deltagande att lyfta och diskutera olika frågor tillsammans
+med olika yrkesgrupper på ett bra sätt.
+Den diskussion som fortgått under hela perioden har avsett skyddsutrustning där det finns delade åsikter om hur väl
+hanteringen av det skötts.Vissa påpekar att det var brist på skyddsutrustning i hela landet och det därmed är förståeligt att det
 tog en stund innan det var på plats. Bristen på skyddsutrustning har skapat både oro och irritation hos förvaltningens
 medarbetare då det dels inte fanns förberett på förhand, dels tog tid innan det fanns på plats. Även det faktum att
 skyddsutrustningen varit olika och/eller används till olika utsträckning hos olika yrkesgrupper har skapat frustration vid tillfällen
@@ -1317,30 +1521,43 @@ och de fackliga organisationerna.
 INTERN OCH EXTERN
 SAMVERKAN             40
 FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH
-INLEDANDE STYRNING  LEDARSKAP         ARBETET        INFORMATION
+INLEDANDE STYRNING  LEDARSKAP        ARBETET        INFORMATION
 
 <!-- sida 44 -->
 
-INTERN      OCH     FÖRVALTNINGSÖVERGRIPANDE                          SAMVERKAN            UTVECKLADES
+INTERN       OCH     FÖRVALTNINGSÖVERGRIPANDE                         SAMVERKAN            UTVECKLADES
 
 UNDER       PERIODEN
 
-URVAL AV CITAT                                                                               OBSERVATIONER
-”Var inte en rolig situation med Kommunal i början, men Samverkan mellan enheterna har överlag fungerat bra, utöver den friktion som nämnts tidigare avseende konflikter gällande
-blev ett lugn i det fackliga efter vi skapade Covidteamet” skyddsutrustning.Det finns en stödjande kultur inom enheterna och det har funnits ett fullt fokus på att hålla smittspridningen
-(enhetschef)                           nere och ta hand om vårdtagare på bästa sätt, vilket enligt vissa minskat antalet konfliktytor jämfört med tidigare. Beslut att
-samverka och stötta varandra över privata/interna gränser har varit viktigt enligt många. Exv. har hemsjukvården stöttat privata
+URVAL AV CITAT
+
+”Var inte en rolig situation med Kommunal i början, men
+blev ett lugn i det fackliga efter vi skapade Covidteamet”
+(enhetschef)
 ”Vi var ett av de första boendena som hade smitta.
-aktörer med vikarier vid vissa tillfällen.
 Planerna som vi och kommunen tagit fram därefter var
-inte iscensatta vid det tillfället så mycket fick tas fram Samverkan med Serviceförvaltningen lyfts fram som mycket viktig samt att den varit bättre under hanteringen av pandemin,
-under tidens gång. Upplevde ett fantastiskt samarbete än den upplevts varit tidigare. Den påfrestning som pandemin inneburit för förvaltningen för vård och omsorg, tycks ha
-med kommunen, både gällande skyddsutrustning och resulterat i en kraftansamling från andra stödförvaltningar i samverkansarbete över förvaltningsgränserna. Detta är något som
-annat. Den yttre planeringen var väldigt bra” observerats på samtliga nivåer av förvaltningen och som uppskattas, särskilt avseende arbetet med vårdtagarnas in-och
-(enhetschef, privat boende)            utflyttningar från VÅBO.
+inte iscensatta vid det tillfället så mycket fick tas fram
+under tidens gång. Upplevde ett fantastiskt samarbete
+med kommunen, både gällande skyddsutrustning och
+annat. Den yttre planeringen var väldigt bra”
+(enhetschef, privat boende)
+
+OBSERVATIONER
+
+Samverkan mellan enheterna har överlag fungerat bra, utöver den friktion som nämnts tidigare avseende konflikter gällande
+skyddsutrustning.Det finns en stödjande kultur inom enheterna och det har funnits ett fullt fokus på att hålla smittspridningen
+nere och ta hand om vårdtagare på bästa sätt, vilket enligt vissa minskat antalet konfliktytor jämfört med tidigare. Beslut att
+samverka och stötta varandra över privata/interna gränser har varit viktigt enligt många. Exv. har hemsjukvården stöttat privata
+aktörer med vikarier vid vissa tillfällen.
+Samverkan med Serviceförvaltningen lyfts fram som mycket viktig samt att den varit bättre under hanteringen av pandemin,
+än den upplevts varit tidigare. Den påfrestning som pandemin inneburit för förvaltningen för vård och omsorg, tycks ha
+resulterat i en kraftansamling från andra stödförvaltningar i samverkansarbete över förvaltningsgränserna. Detta är något som
+observerats på samtliga nivåer av förvaltningen och som uppskattas, särskilt avseende arbetet med vårdtagarnas in-och
+utflyttningar från VÅBO.
 Samverkan med de privata har också stärkts. Här har framför allt hemsjukvården varit viktig för de privata boendena. En del
 irritation tycks ha uppstått gällande ansvar för utbildning i basala hygienrutiner m.m. men på det stora hela är de privata vi
 intervjuat nöjda med samarbetet och tycker att det i många delar har överträffat deras förväntningar.
+
 Den samverkan som skett med regionen har varit avgörande för framgången. Framför allt uppskattas att regionen kunde bistå
 med skyddsutrustning. Det tog ett tag innan det stod klart att den fanns tillgänglig där, men det har hela tiden funnits en
 beredskap för att bistå kommunerna med utrustning enligt intervjuade.
@@ -1352,7 +1569,7 @@ emot väldigt många frågor inledningsvis om hur verksamheten skulle utformas f
 INTERN OCH EXTERN
 SAMVERKAN             41
 FÖRBEREDELSER OCH FÖRVALTNINGENS   ORGANISERING AV KOMMUNIKATION OCH
-INLEDANDE STYRNING  LEDARSKAP         ARBETET        INFORMATION
+INLEDANDE STYRNING  LEDARSKAP        ARBETET        INFORMATION
 
 <!-- sida 45 -->
 
@@ -1429,31 +1646,38 @@ uppstått längs vägen
 
 <!-- sida 48 -->
 
-SLUTSATSER          OCH    LÄRDOMAR
+SLUTSATSER          OCH     LÄRDOMAR
+
+Lärdomarnasom dragits är framförallt kopplade till hur
+stabsmetodiken kan utvecklas. Det är samtidigt viktigt att
+framhålla att många av lärdomarna är generella – som
+
+exempelvis vikten av att ha en kontinuerlig dialog om
+utformning av rutiner och verksamhet. Kanske framförallt vikten
+av en tät dialog mellan verksamhet och specialistresurser.
 
 L
 
-Lärdomarnasom dragits är framförallt kopplade till hur
-1\.  Krisberedskapen behöver övas och anpassas efter pandemin. Den behöver
-stabsmetodiken kan utvecklas. Det är samtidigt viktigt att
+1\. Krisberedskapen behöver övas och anpassas efter pandemin. Den behöver
 också vara mer dynamisk sett till vilken typ av kriser vi behöver ha
-framhålla att många av lärdomarna är generella – som
 beredskap för.
-exempelvis vikten av att ha en kontinuerlig dialog om
-utformning av rutiner och verksamhet. Kanske framförallt vikten 2. Stabsmetodiken och krisledningen ska hanteras med försiktighet. Att växla
-av en tät dialog mellan verksamhet och specialistresurser.  från en välfungerande ledningsgrupp till krisledning innebär en stor
-förändring både i ledningsgrupp och verksamhet.
-3\.  Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
-förvaltningens egen personal.
-4\.  Stabsläget under våren ledde till en alltför stor distans till verksamheten –
-upplevdes som avsaknad av tillit.
 
-5\.  Hanteringen av sekretess gällande dödsfall, smittspridning och
+2\. Stabsmetodiken och krisledningen ska hanteras med försiktighet. Att växla
+från en välfungerande ledningsgrupp till krisledning innebär en stor
+förändring både i ledningsgrupp och verksamhet.
+
+3\. Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
+
+förvaltningens egen personal.
+4\. Stabsläget under våren ledde till en alltför stor distans till verksamheten –
+
+upplevdes som avsaknad av tillit.
+5\. Hanteringen av sekretess gällande dödsfall, smittspridning och
 
 pandemiplanering har varit utmanande och påfrestande i verksamheten.
-6\.  Tydlig kommunikation om själva krisorganiseringen saknades.
 
-7\.  Stödjande Covid-team hade behövts även inom VÅBO.
+6\. Tydlig kommunikation om själva krisorganiseringen saknades.
+7\. Stödjande Covid-team hade behövts även inom VÅBO.
 
 45
 
@@ -1525,28 +1749,34 @@ utveckla tilliten i styrningen
 REKOMMENDATIONER
 
 Rekommendation
-•  En del av det komplicerade läget i inledningen av krisen kan sannolikt
-kopplas till att det inte övats så mycket på stabslägen vid förvaltningen.
+
 Öva på stabsmetodiken
-•  Eftersom det innebär ganska stora förändringar att växla från en
-traditionell förvaltningsledning till en krisledning med stab behöver det
-fortsatt övas på detta med de erfarenheter som pandemin inneburit.
-•  Det stabsliknande tillståndet som gällt under en lång period behöver
+
 Aktiviteter
-också vara något som utvärderas.
+
 •  Definiera ett arbetssätt för hur stabsmetodik bör
 tillämpas specifikt med förvaltningens
+
 förutsättningar, exv. struktur och rollfördelning
 •  Fastställ en övningsform och övningscykel för att
 
 ”nöta in” dessa önskvärda rutiner och beteenden,
 antagligen s.k. seminarieövning(”table top”)
-
 •  Genomför systematiskt över tiden och öka förmåga
 
 Syfte
 
 Stärka beredskap för nästa kris
+
+• En del av det komplicerade läget i inledningen av krisen kan sannolikt
+kopplas till att det inte övats så mycket på stabslägen vid förvaltningen.
+
+• Eftersom det innebär ganska stora förändringar att växla från en
+traditionell förvaltningsledning till en krisledning med stab behöver det
+fortsatt övas på detta med de erfarenheter som pandemin inneburit.
+
+• Det stabsliknande tillståndet som gällt under en lång period behöver
+också vara något som utvärderas.
 
 49
 
@@ -1555,31 +1785,45 @@ Stärka beredskap för nästa kris
 REKOMMENDATIONER
 
 Rekommendation
-•  Under året har det producerats uppskattningsvis ett 40-tal olika
-styrande dokument (både uppdateringar och en del helt nya). Dom här
+
 Säkerställ att styrande dokument som tagits fram
-behöver omhändertas inför en mer vardaglig situation.
 anpassas till ett normalläge
-•  Pandemiplanen är ett exempel. Den har nu använts som ett
+
+Aktiviteter
+
+•  Genomgång av samtliga dokument och
+
+delegationer med både verksamhets- och
+förvaltningsrepresentation
+•  Kategorisera dokumenten utifrån ”kris” och
+
+”normalläge” eller liknande
+•  Lägg fokus på att omforma underlag som bedöms
+
+relevanta även för normalläge
+
+Syfte
+Stärka beredskap för nästa kris, och utveckla
+
+verksamheten
+
+• Under året har det producerats uppskattningsvis ett 40-tal olika
+styrande dokument (både uppdateringar och en del helt nya). Dom här
+behöver omhändertas inför en mer vardaglig situation.
+
+• Pandemiplanen är ett exempel. Den har nu använts som ett
 ”arbetsdokument” som uppdaterats för just den här pandemin. Den
 behöver göras mer allmän igen för att vara relevant vid en kommande
 pandemi.
-Aktiviteter
-•  Vi har samtidigt många dokument som rör HSL-frågor som är viktiga för
-•  Genomgång av samtliga dokument och
+
+• Vi har samtidigt många dokument som rör HSL-frågor som är viktiga för
 våra primärt SoL-reglerade verksamheter. Dom här behöver uppdateras
-delegationer med både verksamhets- och                         utifrån den input som kommit från verksamheterna. De som är
+utifrån den input som kommit från verksamheterna. De som är
 relevanta även när det inte är pandemi behöver anpassas till
-förvaltningsrepresentation
 verksamheten för att göra nytta.
-•  Kategorisera dokumenten utifrån ”kris” och
-”normalläge” eller liknande                                 •  Dra nytta av möjligheterna att stärka vissa perspektiv som kanske
+• Dra nytta av möjligheterna att stärka vissa perspektiv som kanske
 tidigare varit bortglömda eller underutvecklade, exempelvis basala
-•  Lägg fokus på att omforma underlag som bedöms                  hygienrutiner.
-relevanta även för normalläge
-Syfte
-Stärka beredskap för nästa kris, och utveckla
-verksamheten
+hygienrutiner.
 
 50
 
@@ -1623,23 +1867,18 @@ Stärka beredskap för nästa kris
 REKOMMENDATIONER
 
 Rekommendation
-•  Tänk långsiktighet –att nu när pandemin är över finns det en ”backlog”
-av uppgifter som behöver genomföras. Här kan VO-förvaltningen
+
 Hantera VO:s ”backlog” smart - erbjud extra resurser
-behöva stöd från andra förvaltningar för att kunna komma ikapp.
 till förvaltningen även efter att pandemin klingat av
-•  Andra förvaltningar har övergått till vad som liknar ett normalläge
-redan i höstas, samtidigt som den andra vågen tog fart och innebar en
-hög arbetsbelastning för VO-verksamheterna.
+
 Aktiviteter
-•  Därför behöver det finnas tillgängliga resurser inom allt från
-kommunikation till analys och dokumenthantering för VO även under
-en tid efter pandemin.
+
 • Säkerställ tillgång till resurser från KLK och övriga
-under åtminstone dec 2021                                    •  Det här krävs för att verksamheten ska kunna hinna ikapp och återgå till
-• Uppdatera tidigare utvecklingsinitiativ och andra               ett normalläge där utvecklingsinitiativ och daglig drift löper på enligt
-plan.
+
+under åtminstone dec 2021
+• Uppdatera tidigare utvecklingsinitiativ och andra
 aktiviteter utifrån det nya läget
+
 • Fatta beslut om det behövs långsiktig förstärkning av
 resurser vid VO-förvaltningen
 
@@ -1648,6 +1887,21 @@ Syfte
 Bidra till snabbare återgång till normal situation för
 VO-förvaltningen
 
+• Tänk långsiktighet –att nu när pandemin är över finns det en ”backlog”
+av uppgifter som behöver genomföras. Här kan VO-förvaltningen
+behöva stöd från andra förvaltningar för att kunna komma ikapp.
+
+• Andra förvaltningar har övergått till vad som liknar ett normalläge
+redan i höstas, samtidigt som den andra vågen tog fart och innebar en
+hög arbetsbelastning för VO-verksamheterna.
+
+• Därför behöver det finnas tillgängliga resurser inom allt från
+kommunikation till analys och dokumenthantering för VO även under
+en tid efter pandemin.
+• Det här krävs för att verksamheten ska kunna hinna ikapp och återgå till
+ett normalläge där utvecklingsinitiativ och daglig drift löper på enligt
+plan.
+
 52
 
 <!-- sida 56 -->
@@ -1655,23 +1909,32 @@ VO-förvaltningen
 REKOMMENDATIONER
 
 Rekommendation
-•  Även om just stabsläget har inneburit utmaningar i arbetssätt för
-förvaltningsledningen finns det anledning att använda sig av delar av
+
 Ta tillvara på lärdomarna från en kaotisk och komplex
-verktygen därifrån för att synliggöra vägval vid beslut.
 arbetssituation
-•  Vi ser också att det finns ett behov av att uppmärksamma den metodik
+
+Aktiviteter
+
+•  Sammanställ värdefulla metoder och rutiner från
+stabsliknande arbetssätt för att hantera
+
+utmanande situationer även i vardagen.
+•  Skapa återkommande övningstillfällen för att
+
+stärka dessa metoder och verktyg
+
+• Även om just stabsläget har inneburit utmaningar i arbetssätt för
+förvaltningsledningen finns det anledning att använda sig av delar av
+verktygen därifrån för att synliggöra vägval vid beslut.
+
+• Vi ser också att det finns ett behov av att uppmärksamma den metodik
 som kan användas i komplexa sammanhang. Rutiner och tydliga
 metoder för hur vi ska gå tillväga för att ringa in problem eller gå till
 handling är viktiga verktyg även i en vardag utan pandemi.
-Aktiviteter
-•  Det här gäller framför allt chefer men också många medarbetare. De
+
+• Det här gäller framför allt chefer men också många medarbetare. De
 olika nivåerna av krisläge (i pandemiplanen) kräver olika typer av
-•  Sammanställ värdefulla metoder och rutiner från                angreppssätt.
-stabsliknande arbetssätt för att hantera
-utmanande situationer även i vardagen.
-•  Skapa återkommande övningstillfällen för att
-stärka dessa metoder och verktyg
+angreppssätt.
 
 Syfte
 
@@ -1690,88 +1953,140 @@ Fördjupning         slutsatser      och   lärdomar
 
 <!-- sida 58 -->
 
-FÖRDJUPNING            AV    SLUTSATSER         AVSEENDE          FÖRVALTNINGENS                                 Fördjupning
+FÖRDJUPNING             AV   SLUTSATSER          AVSEENDE         FÖRVALTNINGENS                                 Fördjupning
 
 FÖRBEREDELSER              OCH     INLEDANDE          STYRNING
 
-S1                                                              S2
+S1
 Stabsmetodiken var till nytta för att stabilisera och tydliggöra inriktningen i krisens
-Det krävdes mycket inledande arbete för att både styra upp befintliga och ta
 inledningsskede –lika viktigt var det att sen växla till det ”stabsliknande” läget
-fram nya styrande dokument –vilket också gjordes snabbt och effektivt
-Det är uppenbart att den inledande krisledningen enligt kommunens metodik gav Inledningsvis behövde samtidigt ett stort antal styrande dokument tas fram eller
-en struktur för de centrala delarna av förvaltningen (avdelningschefer, revideras för att verksamheten skulle kunna bedrivas på ett sätt som levde upp till
-stödfunktioner, MAS, SAS m.fl.). Ramverket gav en tydlighet i vad som förväntades målet om att minska smittspridningen.
-och behövde genomföras. Det gav också igenkänning från ett möte till nästa.
-Detta snabba arbete ledde till frustration hos enhetschefer i verksamheten som
-Förvaltningsledningen har också varit noggrann med att byta metodik när upplever att styrande dokument producerades utan att det togs tillräcklig hänsyn
-stabsläget inte längre behövdes. Under höstens kris har förvaltningen inte gått till verksamhetens utformning och behov. Det uppfattades som en detaljstyrning
-upp i samma krisorganisation som under våren.                   av verksamheten utan att det inhämtats tillräckligt med information om hur
-verksamheten fungerade.
-En viktig faktor som bedöms ha påverkat hanteringen i förvaltningen har också
-varit den från början satta inriktningen för pandemihanteringen. Det är svårt att avgöra vad som var en rimlig ambition i detta. Men lärdomen inför
-Förvaltningschefen tog fram en inriktning som lydde ”Verka för att minska framtiden är att ett läge sällan är så akut att det är omöjligt att inhämta
 
-smittspridning. Skapa uthållighet i verksamheten.” Med denna inriktning så synpunkter från verksamheten. Det är också uppenbart att både verksamhet och
-täcktes både arbetsgivarperspektivet och hälso-och sjukvårdsperspektivet in, expertroller här ser ett behov av att i framtiden ha mer förankring av beslut även i
-vilket har varit bra för den långsiktiga hanteringen av krisen. krislägen.
+Det är uppenbart att den inledande krisledningen enligt kommunens metodik gav
+en struktur för de centrala delarna av förvaltningen (avdelningschefer,
+stödfunktioner, MAS, SAS m.fl.). Ramverket gav en tydlighet i vad som förväntades
+och behövde genomföras. Det gav också igenkänning från ett möte till nästa.
+
+Förvaltningsledningen har också varit noggrann med att byta metodik när
+stabsläget inte längre behövdes. Under höstens kris har förvaltningen inte gått
+upp i samma krisorganisation som under våren.
+
+En viktig faktor som bedöms ha påverkat hanteringen i förvaltningen har också
+
+varit den från början satta inriktningen för pandemihanteringen.
+Förvaltningschefen tog fram en inriktning som lydde ”Verka för att minska
+smittspridning. Skapa uthållighet i verksamheten.” Med denna inriktning så
+täcktes både arbetsgivarperspektivet och hälso-och sjukvårdsperspektivet in,
+vilket har varit bra för den långsiktiga hanteringen av krisen.
+
+S2
+Det krävdes mycket inledande arbete för att både styra upp befintliga och ta
+fram nya styrande dokument –vilket också gjordes snabbt och effektivt
+
+Inledningsvis behövde samtidigt ett stort antal styrande dokument tas fram eller
+revideras för att verksamheten skulle kunna bedrivas på ett sätt som levde upp till
+målet om att minska smittspridningen.
+
+Detta snabba arbete ledde till frustration hos enhetschefer i verksamheten som
+upplever att styrande dokument producerades utan att det togs tillräcklig hänsyn
+till verksamhetens utformning och behov. Det uppfattades som en detaljstyrning
+av verksamheten utan att det inhämtats tillräckligt med information om hur
+verksamheten fungerade.
+
+Det är svårt att avgöra vad som var en rimlig ambition i detta. Men lärdomen inför
+framtiden är att ett läge sällan är så akut att det är omöjligt att inhämta
+synpunkter från verksamheten. Det är också uppenbart att både verksamhet och
+expertroller här ser ett behov av att i framtiden ha mer förankring av beslut även i
+krislägen.
 
 55
 
 <!-- sida 59 -->
 
-FÖRDJUPNING            AV    SLUTSATSER         AVSEENDE          LEDNING        OCH     STYRNING                Fördjupning
+FÖRDJUPNING             AV   SLUTSATSER          AVSEENDE         LEDNING        OCH     STYRNING                Fördjupning
 
 UNDER       PANDEMIN
 
-S3                                                              S4
+S3
 En proaktiv men också erfaren och trygg förvaltningsledning har bidragit till
-Flexibilitet och omställningsförmågan har utvecklats
 stabilitet under krisen
-Även om förvaltningsledningen i närtid inte har övat på krisberedskap har flera av Det är uppenbart att förmågan till omställning har ökat i samhället i stort under
-cheferna varit med om kriser sen tidigare. Det fanns därmed en viss vana av att pandemin. Här är vård-och omsorgssektorn inget undantag.
 
+Även om förvaltningsledningen i närtid inte har övat på krisberedskap har flera av
+cheferna varit med om kriser sen tidigare. Det fanns därmed en viss vana av att
 hantera övergång till krisledning.
-Pandemin har visat att det går att fatta snabba beslut i frågor som tidigare varit
-Det har genomgående funnits en proaktivitet i agerandet. Kungsbacka har ofta alltför komplicerade för att kunna komma framåt. De intervjuade upplever att det
-legat aningen före andra kommuner i viktiga beslut som bedöms kunna motverka här funnits ett gemensamt fokus som gjort beslutsfattandet enklare. Det yttre
-smittspridning. Exempelvis när det gäller besöksförbud och skyddsutrustning. trycket har naturligtvis också påverkat.
 
-Flera av cheferna har också funnits med länge i förvaltningen vilket har lett till en Precis som på andra håll har också den digitala förmågan höjts påtagligt,
-stabilitet som uppskattats av medarbetare och enhetschefer. Någon uttryckte sig åtminstone hos cheferna i verksamheten. Digitala möten har också intressant nog
-som att det känts tryggt och att hon vet att beslut fattas på goda grunder. lett till en ökad närvaro för enhetscheferna inom hemtjänst och på boenden.
+Det har genomgående funnits en proaktivitet i agerandet. Kungsbacka har ofta
+legat aningen före andra kommuner i viktiga beslut som bedöms kunna motverka
+smittspridning. Exempelvis när det gäller besöksförbud och skyddsutrustning.
+
+Flera av cheferna har också funnits med länge i förvaltningen vilket har lett till en
+stabilitet som uppskattats av medarbetare och enhetschefer. Någon uttryckte sig
+
+som att det känts tryggt och att hon vet att beslut fattas på goda grunder.
 Framtagande av rutiner och riktlinjer har förenklats av att det hela tiden funnits
+en kunnig ledningsgrupp som kan lyfta och resonera kring olika perspektiv.
 
-en kunnig ledningsgrupp som kan lyfta och resonera kring olika perspektiv. Den nationella situationen där det särskilt under våren men också hösten funnits
-en stor osäkerhet gällande frågor som exempelvis användandet av
-Här har förstås det erfarna förvaltningsledningen varit viktig, men det har också skyddsutrustning, förhållningssätt till lagstiftning som krockar m.m. har också
-varit en följd av en stabsmetodik som hela tiden givit både extern och intern tvingat kommunerna att vara flexibla.
+Här har förstås det erfarna förvaltningsledningen varit viktig, men det har också
+varit en följd av en stabsmetodik som hela tiden givit både extern och intern
 händelsegenomgång vilket påverkat perspektiven som funnits uppe för
 behandling.
+
+S4
+
+Flexibilitet och omställningsförmågan har utvecklats
+
+Det är uppenbart att förmågan till omställning har ökat i samhället i stort under
+pandemin. Här är vård-och omsorgssektorn inget undantag.
+
+Pandemin har visat att det går att fatta snabba beslut i frågor som tidigare varit
+alltför komplicerade för att kunna komma framåt. De intervjuade upplever att det
+här funnits ett gemensamt fokus som gjort beslutsfattandet enklare. Det yttre
+trycket har naturligtvis också påverkat.
+
+Precis som på andra håll har också den digitala förmågan höjts påtagligt,
+åtminstone hos cheferna i verksamheten. Digitala möten har också intressant nog
+
+lett till en ökad närvaro för enhetscheferna inom hemtjänst och på boenden.
+
+Den nationella situationen där det särskilt under våren men också hösten funnits
+en stor osäkerhet gällande frågor som exempelvis användandet av
+skyddsutrustning, förhållningssätt till lagstiftning som krockar m.m. har också
+tvingat kommunerna att vara flexibla.
 
 56
 
 <!-- sida 60 -->
 
-FÖRDJUPNING            AV    SLUTSATSER         OCH     LÄRDOMAR            AVSEENDE                             Fördjupning
+FÖRDJUPNING             AV   SLUTSATSER          OCH     LÄRDOMAR           AVSEENDE                             Fördjupning
 
 LEDARSKAP          OCH     ÖVNING        I KRISBEREDSKAP
 
-S5                                                             S6
-Särskilda Covid-enheter/team har haft positiv inverkan på organisationen –
-Det nära ledarskapet har varit viktigt och rätt prioriterat
-men stödjande team hade behövts även inom VÅBO
-Att cheferna skulle finnas till för medarbetarna under pandemin har varit en Att snabbt organisera om växelvårdsenheter till att hantera eventuella smittade
-viktig utgångspunkt för att skapa långsiktig hållbarhet. De intervjuade enligt kohortvård var ett viktigt beslut. Covidavdelningen innebar att det fanns
+S5
 
-enhetscheferna upplever också att de haft närvarande chefer i sitt eget ledarskap, möjlighet till att separera friska från sjuka.
+Det nära ledarskapet har varit viktigt och rätt prioriterat
+
+Att cheferna skulle finnas till för medarbetarna under pandemin har varit en
+viktig utgångspunkt för att skapa långsiktig hållbarhet. De intervjuade
+enhetscheferna upplever också att de haft närvarande chefer i sitt eget ledarskap,
 med täta ledningsgruppsmöten och ett stöd under hela pandemin.
+
+Även på övergripande nivå upplever de intervjuade att det har funnits ett
+kollegialt stöd i chefskapet som haft en positiv effekt under pandemin.
+
+S6
+Särskilda Covid-enheter/team har haft positiv inverkan på organisationen –
+men stödjande team hade behövts även inom VÅBO
+
+Att snabbt organisera om växelvårdsenheter till att hantera eventuella smittade
+enligt kohortvård var ett viktigt beslut. Covidavdelningen innebar att det fanns
+möjlighet till att separera friska från sjuka.
+
 Covidteamet inom hemtjänsten framhålls som ett mycket bra exempel på hur
-Även på övergripande nivå upplever de intervjuade att det har funnits ett verksamheten kunnat förena både smittskyddsperspektiv och personalens oro.
-kollegialt stöd i chefskapet som haft en positiv effekt under pandemin. Genom denna separata lösning för covidsjuka i hemsjukvård och hemtjänst
+verksamheten kunnat förena både smittskyddsperspektiv och personalens oro.
+Genom denna separata lösning för covidsjuka i hemsjukvård och hemtjänst
 skapades en trygghet i organisationen.
 
 Teamet innebar också en möjlighet till att stärka och utveckla specifik Covid-
+
 kompetens i en begränsad grupp. Vården blev därmed bättre anpassad till
 rådande läge.
 
@@ -1779,65 +2094,105 @@ rådande läge.
 
 <!-- sida 61 -->
 
-FÖRDJUPNING            AV    SLUTSATSER         AVSEENDE          SÄRSKILDA         TEAM      OCH                Fördjupning
+FÖRDJUPNING             AV   SLUTSATSER          AVSEENDE         SÄRSKILDA         TEAM      OCH                Fördjupning
 
-SAMVERKAN            ÖVER     ENHETSGRÄNSER
+SAMVERKAN            ÖVER      ENHETSGRÄNSER
 
-S7                                                             S8
+S7
 En närmare samverkan mellan hemsjukvård och boende/hemtjänst och
-mellan privata och kommunala verksamheter –även om en del konflikter Flera kommunikationsinsatser har varit viktiga och uppskattade
+mellan privata och kommunala verksamheter –även om en del konflikter
 uppstått längs vägen
-Pandemin har inneburit att behovet av hälso-och sjukvårdskompetens ökat. Eftersom vi framför allt intervjuat enhetschefer är det enhetschefsmötena som
-Därmed har det också funnits större behov av samverkan mellan hemsjukvården flest intervjuade nämner som ett positivt exempel. Dom intervjuade ser att dessa
 
-och övriga avdelningar inom förvaltningen. De privata aktörerna har här upplevt veckovisa möten har givit en stadga åt pandemiarbetet och möjligheterna att
-sig få bra stöd.                                              ställa frågor och få en återkommande uppdatering på läget har varit väldigt bra.
+Pandemin har inneburit att behovet av hälso-och sjukvårdskompetens ökat.
+Därmed har det också funnits större behov av samverkan mellan hemsjukvården
+och övriga avdelningar inom förvaltningen. De privata aktörerna har här upplevt
+sig få bra stöd.
 
-Utifrån intervjuerna kan vi säga att det här lett till diskussioner om gränsdragning Även annan kommunikation har varit viktig, exempelvis veckobreven från
-mellan verksamhet och hemsjukvård. Det finns enheter där förväntningarna varit förvaltningsdirektören till medarbetarna och nämnden. Liksom de återkommande
-att hemsjukvården skulle kunna hjälpa till mer än de gjort, exempelvis med uppdateringarna på skärmarna vid personalens lokaler (boenden och
-instruktioner för basala hygienrutiner. Vi kan i nuläget inte mer än konstatera att hemtjänstlokaler).
+Utifrån intervjuerna kan vi säga att det här lett till diskussioner om gränsdragning
+mellan verksamhet och hemsjukvård. Det finns enheter där förväntningarna varit
+att hemsjukvården skulle kunna hjälpa till mer än de gjort, exempelvis med
+instruktioner för basala hygienrutiner. Vi kan i nuläget inte mer än konstatera att
 det finns behov av att förtydliga vissa delar här.
-Särskilt för de privata aktörerna har kommunikationen från kommunen varit
-Samtidigt är det många intervjuade som upplever att samverkan har ökat under uppskattad. De har deltagit vid de veckovisa enhetschefsmötena på samma villkor
 
-pandemin. Att avståndet mellan olika delar av verksamheten har minskat, inte som kommunens egna chefer (i vanliga fall brukar mötena vara uppdelade). Det
-minst mellan hemtjänst, boende å ena sidan och hemsjukvården å andra sidan. har också varit viktigt för de privata chefer vi intervjuat att få uppdatering om det
-Under pandemin har bägge verksamhetsgrenarna varit beroende av varandra på lokala läget och kommunens lokala rutiner och styrande dokument
+Samtidigt är det många intervjuade som upplever att samverkan har ökat under
+pandemin. Att avståndet mellan olika delar av verksamheten har minskat, inte
+minst mellan hemtjänst, boende å ena sidan och hemsjukvården å andra sidan.
+Under pandemin har bägge verksamhetsgrenarna varit beroende av varandra på
 ett tydligt sätt. Det här har varit särskilt framträdande hos de privata aktörerna
 där samverkan med hemsjukvården har varit mycket mer omfattande under
 pandemin än tidigare.
+
+S8
+
+Flera kommunikationsinsatser har varit viktiga och uppskattade
+
+Eftersom vi framför allt intervjuat enhetschefer är det enhetschefsmötena som
+flest intervjuade nämner som ett positivt exempel. Dom intervjuade ser att dessa
+veckovisa möten har givit en stadga åt pandemiarbetet och möjligheterna att
+ställa frågor och få en återkommande uppdatering på läget har varit väldigt bra.
+
+Även annan kommunikation har varit viktig, exempelvis veckobreven från
+förvaltningsdirektören till medarbetarna och nämnden. Liksom de återkommande
+uppdateringarna på skärmarna vid personalens lokaler (boenden och
+hemtjänstlokaler).
+
+Särskilt för de privata aktörerna har kommunikationen från kommunen varit
+uppskattad. De har deltagit vid de veckovisa enhetschefsmötena på samma villkor
+som kommunens egna chefer (i vanliga fall brukar mötena vara uppdelade). Det
+har också varit viktigt för de privata chefer vi intervjuat att få uppdatering om det
+lokala läget och kommunens lokala rutiner och styrande dokument
 
 58
 
 <!-- sida 62 -->
 
-FÖRDJUPNING            AV    SLUTSATSER         AVSEENDE          INTERN       OCH    EXTERN                     Fördjupning
+FÖRDJUPNING             AV   SLUTSATSER          AVSEENDE         INTERN       OCH     EXTERN                    Fördjupning
 
 SAMVERKAN
 
-S9                                                             S10
+S9
 
-Facklig samverkan i skyddskommittén en viktig framgång      Stöd från övriga delar av kommunorganisationen och från regionen
+Facklig samverkan i skyddskommittén en viktig framgång
 
-Inledningsvis var det en del gnissel mellan fackliga företrädare och krisledningen. Det har funnits ett bra stöd från övriga delar av kommunen under pandemin,
-exempelvis har det funnits ett deltagande av kommunledningsresurser i staben på
+Inledningsvis var det en del gnissel mellan fackliga företrädare och krisledningen.
 
-Det upplevdes som att medarbetarnas arbetsmiljö kom i skymundan av andra VO-förvaltningen.
+Det upplevdes som att medarbetarnas arbetsmiljö kom i skymundan av andra
 frågor i början. Operativ krishantering prioriterades till förmån för
-arbetsförhållanden, där två tydliga perspektiv behövde jämkas. Över tid har dessa Flera nämner att samverkan med serviceförvaltningen har varit särskilt viktig
-två perspektiv kunnat mötas och det var främst en utmaning inledningsvis. under pandemin. Inte minst i samband med flytt av boende och att säkerställa en
-smittsäker hantering.
-Vad som hänt därefter är att samarbetet har utvecklats för att nu beskrivas som
-en god relation med förtroendefullt samarbete mellan de fackliga Störst stöd fanns att tillgå under våren. Till hösten är det många som upplever att
-representanterna i skyddskommittén och förvaltningsledningen. Avgörande i övriga kommunen övergått i ett nytt normalläge med pandemi och hög
-detta har varit återkommande träffar mellan ledningsrepresentant (HR) och smittspridning fast en verksamhet som rullar på ungefär som vanligt (med den
-fackliga företrädare och att frågor som tas upp också hanteras och besvaras. skillnaden att många arbetar hemma). Därmed sammanfaller den tyngsta
+arbetsförhållanden, där två tydliga perspektiv behövde jämkas. Över tid har dessa
+två perspektiv kunnat mötas och det var främst en utmaning inledningsvis.
 
-perioden för VO-förvaltningen med att övriga förvaltningar återgår till något mer
-Pandemin har därmed inneburit en tätare dialog med de fackliga än tidigare vilket normalt. Det här får till konsekvens att många upplever ett mindre stöd under den
-också uppmärksammats och uppskattats. Riskbedömningar ur ett    period när det varit som tyngst.
+Vad som hänt därefter är att samarbetet har utvecklats för att nu beskrivas som
+en god relation med förtroendefullt samarbete mellan de fackliga
+representanterna i skyddskommittén och förvaltningsledningen. Avgörande i
+
+detta har varit återkommande träffar mellan ledningsrepresentant (HR) och
+fackliga företrädare och att frågor som tas upp också hanteras och besvaras.
+
+Pandemin har därmed inneburit en tätare dialog med de fackliga än tidigare vilket
+också uppmärksammats och uppskattats. Riskbedömningar ur ett
 arbetsmiljöperspektiv har här varit en viktig del i samarbetet.
+
+S10
+
+Stöd från övriga delar av kommunorganisationen och från regionen
+
+Det har funnits ett bra stöd från övriga delar av kommunen under pandemin,
+exempelvis har det funnits ett deltagande av kommunledningsresurser i staben på
+VO-förvaltningen.
+
+Flera nämner att samverkan med serviceförvaltningen har varit särskilt viktig
+under pandemin. Inte minst i samband med flytt av boende och att säkerställa en
+smittsäker hantering.
+
+Störst stöd fanns att tillgå under våren. Till hösten är det många som upplever att
+övriga kommunen övergått i ett nytt normalläge med pandemi och hög
+
+smittspridning fast en verksamhet som rullar på ungefär som vanligt (med den
+skillnaden att många arbetar hemma). Därmed sammanfaller den tyngsta
+perioden för VO-förvaltningen med att övriga förvaltningar återgår till något mer
+normalt. Det här får till konsekvens att många upplever ett mindre stöd under den
+period när det varit som tyngst.
+
 Samarbetet med Region Halland har gått från att inledningsvis gnissla en del till
 ett gott samarbete på flera olika nivåer. Särskilt nämns samverkan gällande
 skyddsutrustning och smittskydd.
@@ -1875,64 +2230,106 @@ personer som traditionellt ingick i staben hamnade utanför.
 
 <!-- sida 64 -->
 
-FÖRDJUPNING            AV    LÄRDOMAR           AVSEENDE         VARIATIONEN            AV                       Fördjupning
+FÖRDJUPNING             AV   LÄRDOMAR           AVSEENDE          VARIATIONEN           AV                       Fördjupning
 
 STABSLÄGEN           UNDER       PANDEMIN
 
-L2                                                              L3
+L2
 Stabsmetodiken och krisledningen ska hanteras med försiktighet. Att växla
-Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
 från en välfungerande ledningsgrupp till krisledning innebär en stor förändring
-förvaltningens egen personal
 både i ledningsgrupp och verksamhet
-Lika tydligt som det är att stabsmetodiken gav en stadga i inledningen av krisen är Förvaltningen har i praktiken jobbat i ett slags mellanläge under stora delar av
-det att krisledningen efter ett tag hade en hämmande inverkan på pandemin. Det här mellanläget har inneburit att utbytbarheten varit låg för den
-handlingskraften i verksamheten. När krisen är så pass långvarig som under personal som varit inne i staben. Stabsrollerna har till viss del innefattat andra
-denna pandemi är inte stabsläget lämpligt.                      arbetsuppgifter än de traditionella vilket gjort det svårt att lyfta in annan
-kompetens på det sätt som är tänkt i en stabsorganisation.
+
+Lika tydligt som det är att stabsmetodiken gav en stadga i inledningen av krisen är
+det att krisledningen efter ett tag hade en hämmande inverkan på
+handlingskraften i verksamheten. När krisen är så pass långvarig som under
+denna pandemi är inte stabsläget lämpligt.
+
 De styrande logikerna i stabsmetodiken om spårbarhet, utbytbarhet och
-information om lägesbilder tenderade att tynga snarare än stödja beslutsfattande. Det här har inneburit att det nu finns en stor ”backlog” av uppgifter som behöver
-Därför var det bra att övergå till mer av ett normalt läge efter sommaren. göras efter att pandemin klingat av. Här behöver det finnas möjligheter att
-använda externa resurser på annat sätt än i just staben. Kommunikatörerna har
-Staben tillsattes också utifrån en struktur och logik som inte följde den ordinarie använt sig av externa resurser för utvalda delar av arbetet vilket kan fortsätta.
+information om lägesbilder tenderade att tynga snarare än stödja beslutsfattande.
+Därför var det bra att övergå till mer av ett normalt läge efter sommaren.
+
+Staben tillsattes också utifrån en struktur och logik som inte följde den ordinarie
+
 vilket gav en inledande förvirring. Det här visar på vikten av att öva och ha en
-beredskap för andra typer av insatser under en kris.            Det ”stabsliknande” läget ger också utmaningar kopplat till mandat och rådighet. I
+beredskap för andra typer av insatser under en kris.
+
+Det visar också tydligt att det behöver finnas en beredskap att växla läge snabbt
+när behovet av stab inte längre kvarstår.
+
+L3
+Mellanläget ”stabsliknande” organisation bidrar till hög ansträngning för
+förvaltningens egen personal
+
+Förvaltningen har i praktiken jobbat i ett slags mellanläge under stora delar av
+pandemin. Det här mellanläget har inneburit att utbytbarheten varit låg för den
+personal som varit inne i staben. Stabsrollerna har till viss del innefattat andra
+arbetsuppgifter än de traditionella vilket gjort det svårt att lyfta in annan
+kompetens på det sätt som är tänkt i en stabsorganisation.
+
+Det här har inneburit att det nu finns en stor ”backlog” av uppgifter som behöver
+göras efter att pandemin klingat av. Här behöver det finnas möjligheter att
+använda externa resurser på annat sätt än i just staben. Kommunikatörerna har
+använt sig av externa resurser för utvalda delar av arbetet vilket kan fortsätta.
+
+Det ”stabsliknande” läget ger också utmaningar kopplat till mandat och rådighet. I
 en krisledningsstab kortas beslutsvägar och det skapas direktkopplingar till
-Det visar också tydligt att det behöver finnas en beredskap att växla läge snabbt verksamheten. I det här mellanläget uppstår vissa frågetecken om vilka beslut
-när behovet av stab inte längre kvarstår.                       som fattas på vilken nivå, och vilket mandat jag som enskild deltagare i staben har.
+verksamheten. I det här mellanläget uppstår vissa frågetecken om vilka beslut
+som fattas på vilken nivå, och vilket mandat jag som enskild deltagare i staben har.
 
 61
 
 <!-- sida 65 -->
 
-FÖRDJUPNING            AV    LÄRDOMAR           GÄLLANDE          TRANSPARENS,            TILLIT    OCH          Fördjupning
+FÖRDJUPNING             AV   LÄRDOMAR           GÄLLANDE          TRANSPARENS,             TILLIT   OCH          Fördjupning
 
 SEKRETESS         UNDER       PANDEMIN
 
-L4                                                              L5
-Stabsläget under våren ledde till en alltför stor distans till verksamheten – Hanteringen av sekretess gällande dödsfall, smittspridning och
-upplevdes som avsaknad av tillit                              pandemiplanering har varit utmanande
+L4
+Stabsläget under våren ledde till en alltför stor distans till verksamheten –
+upplevdes som avsaknad av tillit
 
-Inledningsvis (delar av våren) bestod staben och stabsmötena av resurser som I intervjuerna är det uppenbart att det finns olika uppfattningar när det gäller
-inte ansvarade för den huvudsakliga dagliga driften inom vårdboenden och frågan om sekretess. Situationen har varit utmanande såväl nationellt som lokalt
-
-hemtjänst. Det fanns en tanke med detta som handlade om att cheferna behöver när det gäller exempelvis hur öppen förvaltningen kan vara med information om
-finnas där för enhetschefer och personal i så stor utsträckning som möjligt och smitta på boenden.
+Inledningsvis (delar av våren) bestod staben och stabsmötena av resurser som
+inte ansvarade för den huvudsakliga dagliga driften inom vårdboenden och
+hemtjänst. Det fanns en tanke med detta som handlade om att cheferna behöver
+finnas där för enhetschefer och personal i så stor utsträckning som möjligt och
 inte ska ”belastas” av stabsläget och delta i en massa möten.
-Sekretessfrågan har lett till svåra situationer för enskilda enhetschefer som
-Men att inte delta i dessa kontinuerliga uppdateringar av läget och i behövt ta emot frågor från anhöriga till brukare och behövt svara på ett sätt som
-resonemangen om beslut har samtidigt lett till en distans mellan de inte riktigt förstår logiken i. Det här har också lett till att frågan hanterats olika
-förvaltningsledning/stab och verksamhet som varit olycklig. Den öppna och från fall till fall.
-tydliga kommunikationen har haft viss motverkande effekt på denna distans, men
-har inte förmått väga upp för det faktum att verksamheten i vissa fall upplevt sig Det har också blivit en konstig situation för en del privata boenden där det funnits
-ha ytterst begränsad påverkan på utformningen av de beslut som fattats. en transparens gällande smitta på boenden. När de verksamheterna varit
 
-transparenta samtidigt som kommunens egen regi hänvisat till sekretess har det
-De avdelningschefer som ansvarade för hemtjänst och vårdboenden borde ha lett till en medierapportering som upplevts orättvis.
+Men att inte delta i dessa kontinuerliga uppdateringar av läget och i
+resonemangen om beslut har samtidigt lett till en distans mellan
+förvaltningsledning/stab och verksamhet som varit olycklig. Den öppna och
+tydliga kommunikationen har haft viss motverkande effekt på denna distans, men
+
+har inte förmått väga upp för det faktum att verksamheten i vissa fall upplevt sig
+ha ytterst begränsad påverkan på utformningen av de beslut som fattats.
+
+De avdelningschefer som ansvarade för hemtjänst och vårdboenden borde ha
 varit mer involverade i krisledningen inledningsvis för att dels kunna delge
-verksamheternas behov och perspektiv inför beslutsfattande och dels kunna vara Samtidigt är det viktigt att framhålla att det funnits en ambition från
-en tydligare bärare av resonemang och avvägningar som gjorts på vägen fram till förvaltningsledningen om att vara noggranna med att följa gällande lagstiftning
-besluten.                                                       och även skydda verksamheten från en påträngande medierapportering.
+verksamheternas behov och perspektiv inför beslutsfattande och dels kunna vara
+en tydligare bärare av resonemang och avvägningar som gjorts på vägen fram till
+besluten.
+
+L5
+Hanteringen av sekretess gällande dödsfall, smittspridning och
+pandemiplanering har varit utmanande
+
+I intervjuerna är det uppenbart att det finns olika uppfattningar när det gäller
+frågan om sekretess. Situationen har varit utmanande såväl nationellt som lokalt
+när det gäller exempelvis hur öppen förvaltningen kan vara med information om
+smitta på boenden.
+
+Sekretessfrågan har lett till svåra situationer för enskilda enhetschefer som
+behövt ta emot frågor från anhöriga till brukare och behövt svara på ett sätt som
+de inte riktigt förstår logiken i. Det här har också lett till att frågan hanterats olika
+från fall till fall.
+
+Det har också blivit en konstig situation för en del privata boenden där det funnits
+en transparens gällande smitta på boenden. När de verksamheterna varit
+transparenta samtidigt som kommunens egen regi hänvisat till sekretess har det
+lett till en medierapportering som upplevts orättvis.
+
+Samtidigt är det viktigt att framhålla att det funnits en ambition från
+förvaltningsledningen om att vara noggranna med att följa gällande lagstiftning
+och även skydda verksamheten från en påträngande medierapportering.
 
 62
 
@@ -3207,7 +3604,6 @@ hantering Covid-
 organisationen
 2 Förberedelser i | ; |
 
-oprandine — Å "wäketssikningav Risk och konsekvens- Hå = utredning privata
 dgr dagligvaruleverantör framtida processer MESA näringsidkare
 teter
 
