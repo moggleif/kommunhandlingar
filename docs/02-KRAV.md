@@ -298,8 +298,7 @@ Luckorna räknas fram ur poolen när webbplatsen byggs och lagras inte
 - **Givet** en kommunfil med `omkonvertera = true`, ett fullständigt
   dokument som inte är granskat (K34) eller `full` (K72) och vars
   `pipeline` har en annan version av poolen än den som körs, och en
-  kandidat med samma
-  källnyckel och samma `kalla_url`
+  kandidat med samma källnyckel och samma `kalla_url`
 - **När** körningen når kandidaten
 - **Så** hämtas filen och konverteras om. Är sha256 densamma skrivs
   dokumentet om på samma sökväg med den nya versionens text, tabeller och
