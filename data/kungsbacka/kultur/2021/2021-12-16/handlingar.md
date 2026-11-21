@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319194215id_/https://www.kungsbacka.
 sha256: 1f7f2c2f03f708d00b3ea97d581e12f0cbb3dce3f5c9004916fcfa3b8ddc9f87
 bytes: 16668937
 sidor: 178
-hamtad: 2026-10-27T10:52:18+00:00
-konverterad: 2026-10-27T10:53:40+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T00:06:33+00:00
+konverterad: 2026-11-21T00:09:22+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, tom, ocr, tom, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -3514,9 +3514,11 @@ Justerare                         Expedierat/bestyrkt
 
 <!-- sida 89 -->
 
-05 sv web 06
+web 06
 
-1537
+Sv
+
+05
 
 SKV
 
@@ -3560,7 +3562,6 @@ Kundnummer Uppdrags-id Tillståndets diarienummer
 Tjänster som önskas från SPAR
 
 Ange vilka tjänster som önskas samt hur ofta uttag ska ske.
-
 Besvara även frågorna på sidan 2, både de allmänna och särskilda frågorna för respektive tjänst.
 Svara i en separat bilaga om utrymmet på blanketten inte räcker till.
 
@@ -3593,11 +3594,15 @@ Skatteverket, SPAR
 
 171 94 Solna 0771-18 17 16 sparQQskatteverket.se
 
+1537
+
 <!-- sida 90 -->
 
-05 sv web 06
+web 06
 
-1837
+Sv
+
+05
 
 SKV
 
@@ -3620,6 +3625,7 @@ c. Den som ansvarar för registret måste ha medgivande från de personer vars u
 Vissa undantag finns (10 8 PuL).
 
 Uppfylles
+
 d. Alla ska en gång om året kostnadsfritt kunna få ett registerutdrag som visar samtliga personuppgifter som rör den sökande (26 8 PuL).
 
 Uppfylles
@@ -3627,7 +3633,6 @@ e. Om en person anmäler att de egna personuppgifterna inte får behandlas för 
 reklamspärr registreras (11 8 PuL).
 
 Uppfylles
-
 f. Felaktiga uppgifter måste rättas i registret (28 8 PuL).
 Uppfylles
 
@@ -3677,11 +3682,15 @@ Undarskriftåv sökande//7
 Behörig företrädfares underskrift (6 VA Namnförtydligande
 Susan Pour
 
+1837
+
 <!-- sida 91 -->
 
-05 sv web 06
+web 06
 
-1537
+Sv
+
+05
 
 SKV
 
@@ -3816,17 +3825,21 @@ www.statenspersonadressregister.se. Frågor be-
 svaras av SPAR:s kundtjänst, telefon 0771-18 17 16
 eller via formulär på webbplatsen.
 
+1537
+
 <!-- sida 92 -->
 
 <!-- sida 93 -->
 
-04 sv web 03
+web 03
 
-1546
+Sv
+
+04
 
 SKV
 
-| STATENS
+STATENS
 PERSONADRESSRECISTER
 
 ( till ansökan om uttag av uppgifter i SPAR ”
@@ -3844,9 +3857,11 @@ Datum Diarienummer (anges av Skatteverket)
 
 Namn/organisation
 
+Biblioteken i Kungsbacka / Kungsbacka kommun
+
 Person-/organisationsnummer
 
-Biblioteken i Kungsbacka / Kungsbacka kommun 212000-1256
+212000-1256
 
 Ombud
 
@@ -3865,17 +3880,26 @@ Telefonnummer
 
 08-55568100
 
-Kontaktperson Telefonnummer
+Kontaktperson
+Helen Samuelsson
 
-Helen Samuelsson (mobilnummer borttaget)
+Telefonnummer
+
+(mobilnummer borttaget)
+
 E-postadress
 
-helen.samuelsson(Qbisnode.com
+helen.samuelsson(ebisnode.com
 
 Ombudets befogenheter
 
-4 Hantera ansökan ” DJ Fakturamottagare Personuppgiftsbiträde "+
+4 Hantera ansökan ”
+
 Annat
+
+DJ Fakturamottagare
+
+Personuppgiftsbiträde ""
 
 Ombud
 
@@ -3887,30 +3911,24 @@ Person-/organisationsnummer
 
 556739-8218
 
-Postadress
-
+Postadress Telefonnummer
 Box 24014, 224 21 Lund
-
-Telefonnummer
-
 046 270 04 00
-
-Kontaktperson
-
-Bo Sjödin
-
-Telefonnummer
-
-046 270 04 40
+Kontaktperson Telefonnummer
+Bo Sjödin 046 270 04 40
 
 E-postadress
 bo.sjodinQaxiell.com
 
 Ombudets befogenheter
 
+D4 Hantera ansökan ”
+
 Annat
 
-D4 Hantera ansökan ” [] Fakturamottagare 4 Personuppgiftsbiträde ”"
+[] Fakturamottagare
+
+4 Personuppgiftsbiträde "”
 
 Ombud
 
@@ -3930,9 +3948,12 @@ E-postadress
 
 Ombudets befogenheter
 
+HH Hantera ansökan "
 Annat
 
-HH Hantera ansökan " [] Fakturamottagare [] Personuppgiftsbiträde ”"
+[] Fakturamottagare
+
+C] Personuppgiftsbiträde ”"
 
 \> Hantera alla frågor kring ansökan (ombudet behöver inte vara
 personuppgiftsbiträde).
@@ -3964,6 +3985,8 @@ Skatteverket, SPAR
 Telefax E-postadress
 
 08-28 69 05 sparQskatteverket.se
+
+1546
 
 <!-- sida 94 -->
 
@@ -5326,8 +5349,9 @@ kulturverksamhet.
 
 [Tabell 126-1](handlingar.tabeller/126-1.csv)
 
-| Sverige 2018 |  | Västra Götalands län 2018 |  |
+|  |  |  |  |
 | --- | --- | --- | --- |
+| Sverige | 2018 | Västra Götalands län | 2018 |
 | Stat | 13 599 tkr | Statligt bidrag i<br>kultursamverkansmodellen | 318 tkr |
 | Regioner | 4 500 tkr | Västra Götalandsregionen,<br>nettokostnad | 1 197 tkr |
 | Kommuner | 11 928 tkr | Kommunerna, nettokostnad | 1 927 tkr |
@@ -5456,14 +5480,6 @@ för kommunal samverkan.
 
 Tabell 2. Befolkningstal 2019
 
-Befolkningstal 2019
-Skaraborgs kommunalförbund                       268 501
-Boråsregionens kommunalförbund                   226 332
-
-Fyrbodals kommunalförbund                        274 656
-Göteborgsregionens kommunalförbund              1 040 680
-– varav Göteborgs stad                           578 350
-
 En stor andel av befolkningen bor i kommunerna i Göteborgsregionen, där Göteborgs
 
 stad är den i särklass största kommunen. Även om Göteborgs stad räknas bort är
@@ -5500,6 +5516,16 @@ kultur- och fritidschefer i kommunerna i Göteborgsregionen: Överenskommelse om
 samverkan och finansiering genom delregionala tillväxtmedel för genomförande av
 
 18 (55)
+
+[Tabell 129-1](handlingar.tabeller/129-1.csv)
+
+| Befolkningstal 2019 |  |
+| --- | --- |
+| Skaraborgs kommunalförbund | 268 501 |
+| Boråsregionens kommunalförbund | 226 332 |
+| Fyrbodals kommunalförbund | 274 656 |
+| Göteborgsregionens kommunalförbund | 1 040 680 |
+| – varav Göteborgs stad | 578 350 |
 
 <!-- sida 130 -->
 
