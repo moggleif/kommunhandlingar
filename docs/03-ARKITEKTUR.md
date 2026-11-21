@@ -210,6 +210,25 @@ Datakontrollerna, i körningen och i CI
 Bara i körningen, eftersom en vanlig PR ändrar kod och dokument: att
 körningen bara har ändrat filer under `data/` och `versioner/`.
 
+### Gränssnittet mot datarepon
+
+Ett eget datarepo, som Region Hallands, installerar en fast version av
+paketet ur `kodversion.txt` och kör samma kommandon som nattkörningen här
+([ADR-0080](decisions/0080-meetings-plus-las-motessidorna-nyast-forst.md)).
+Det här är gränssnittet; `tests/test_granssnitt.py` faller om något av
+det flyttas eller byter namn (K74):
+
+- `python -m kommunhandlingar.upptack <kommunfil> <arbetskatalog>` med
+  `--arkiv` och `--start`, och slutkoden 3 när källan stoppade.
+- `python -m kommunhandlingar.hamta <kommunfil> <arbetskatalog>` med
+  `--arkiv`, `--start` och `--del`, och slutkoden 4 när delen tog slut.
+- `python -m kommunhandlingar.datakontroll <data>`.
+- `python -m kommunhandlingar.webbplats <utkatalog> <repoadress> <avvikelsefil>`.
+- `from kommunhandlingar.konfiguration import las`.
+- Paketdatat `webbplats/*.js` och `*.css` i `pyproject.toml`.
+
+Ändras något i listan behöver datarepona ändras när de höjer sin version.
+
 ### Versionsloggen
 
 Hur och varför står i
