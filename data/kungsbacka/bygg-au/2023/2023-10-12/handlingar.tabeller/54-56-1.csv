@@ -109,24 +109,20 @@ Till exempel tillbyggnader av kontor, industri, handel, skola
 flerbostadshus.",Planenligt,11 970 kr
 A 2.23,,Liten avvikelse,17 290 kr
 A 2.24,,Utanför planlagt område,17 290 kr
-A 2.25,"Tillbyggnad 101-1000 kvm (BTA+OPA)
-Till exempel tillbyggnader av kontor, industri, handel, skola
-flerbostadshus. Åtgärder som kräver en kontrollansvarig.",Planenligt,45 220 kr
-A 2.26,,Liten avvikelse,58 520 kr
-A 2.27,,Utanför planlagt område,58 520 kr
+A 2.25,Tillbyggnad 101-1000 kvm (BTA+OPA),Planenligt,45 220 kr
+A 2.26,"Till exempel tillbyggnader av kontor, industri, handel, skola",Liten avvikelse,58 520 kr
+A 2.27,flerbostadshus. Åtgärder som kräver en kontrollansvarig.,Utanför planlagt område,58 520 kr
 A 2.28,"Tillbyggnad ≥ 1001 (BTA+OPA)
 Till exempel tillbyggnader av kontor, industri, handel, skola
 flerbostadshus. Åtgärder som kräver en kontrollansvarig.",Planenligt,74 480 kr
 A 2.29,,Liten avvikelse,87 780 kr
 A 2.30,,Utanför planlagt område,87 780 kr
 A 2.31,"Utvändig ändring, med tekniskt samråd
-Till exempel där fasadändringen påverkar den bärande
-konstruktionen.",Planenligt,17 290 kr
-A 2.32,,Liten avvikelse,22 610 kr
+Till exempel där fasadändringen påverkar den bärande",Planenligt,17 290 kr
+A 2.32,konstruktionen.,Liten avvikelse,22 610 kr
 A 2.33,"Utvändig ändring, utan tekniskt samråd
-Till exempel mindre fasadändring som insättning av fönster
-och dörr, samt byte av fasadmaterial.",Planenligt,10 640 kr
-A 2.34,,Liten avvikelse,15 960 kr
+Till exempel mindre fasadändring som insättning av fönster",Planenligt,10 640 kr
+A 2.34,"och dörr, samt byte av fasadmaterial.",Liten avvikelse,15 960 kr
 A 2.35,"All övrig ändring, med tekniskt samråd
 Ändrad användning av byggnadens användningssätt från
 till exempel kontor, frisör, verkstad till exempelvis

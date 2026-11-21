@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320014056id_/https://www.kungsbacka.
 sha256: 444a748c859265ceae1f78400d520348794ce3d9c08949292e73785a1d79ef4f
 bytes: 4043138
 sidor: 33
-hamtad: 2026-10-28T09:23:35+00:00
-konverterad: 2026-10-28T09:23:46+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T00:20:10+00:00
+konverterad: 2026-11-21T00:20:28+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok]
 tal_obekraftade: [7]
 figurer: [25, 26, 27]
 tolkade: []
@@ -1160,39 +1160,48 @@ Kvartal Kvartal Kvartal Kvartal
 Totalt antal personer med särskilt
 boendebeslut som inte har verkställts 24 9  12
 inom 3 månader
+Varav
+\- antal personer som tackat nej till
+7      7     10
+erbjudande
+\- antal personer som tackat nej till fler
+0      1     4
+erbjudanden
 
-[Tabell 29-30-1](handlingar.tabeller/29-30-1.csv)
+```osaker-tabell
+ - ej fått något erbjudande    0      0     1
+ - avlidna                     1      0     0
+ - avsagt sig beslut           1      2     0
+ - Verkställda under kvartalet 16     2     4
+Summa                            25    12     19
+```
 
-| Varav |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| - antal personer som tackat nej till<br>erbjudande | 7 | 7 | 10 |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 1 | 4 |  |
-| - ej fått något erbjudande | 0 | 0 | 1 |  |
-| - avlidna | 1 | 0 | 0 |  |
-| - avsagt sig beslut | 1 | 2 | 0 |  |
-| - Verkställda under kvartalet | 16 | 2 | 4 |  |
-| Summa | 25 | 12 | 19 |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 22 | 5 | 8 |  |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 2 | 3 | 2 |  |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 0 | 1 | 1 |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 0 | 0 | 1 |  |
-| Summa | 24 | 9 | 12 |  |
-| Totalt antal personer med<br>växelvårdsbeslut som inte har<br>verkställts inom 3 månader | 5 | 9 | 1 |  |
-| Varav |  |  |  |  |
-| - antal personer som tackat nej till<br>erbjudanden | 0 | 2 | 1 |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 0 | 0 |  |
-| - ej fått något erbjudande | 5 | 2 | 0 |  |
-| - avlidna | 0 | 0 | 0 |  |
-| - avsagt sig beslut | 0 | 3 | 0 |  |
-| - Verkställda under kvartalet | 0 | 4 | 0 |  |
-| Summa | 5 | 11 | 1 |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | 5 | 5 | 0 |  |
-| - Antal personer som har väntat på<br>växelvård 7 - 9 månader | 0 | 4 | 1 |  |
-| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 | 0 |  |
-| - Antal personer som har väntat på<br>växelvård > 12 månader | 0 | 0 | 0 |  |
-| Summa | 5 | 9 | 1 |  |
+Varav
+\- Antal personer som har väntat på
+22     5   8
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+2      3     2
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+boende 10 - 12 månader.        0     1      1
+
+\- Antal personer som har väntat på
+0      0     1
+boende > 12 månader
+Summa                            24     9     12
+Totalt antal personer med
+
+växelvårdsbeslut som inte har  5        9      1
+verkställts inom 3 månader
+Varav
+\- antal personer som tackat nej till
+0        2      1
+erbjudanden
+\- antal personer som tackat nej till fler
+0        0      0
+erbjudanden
+\- ej fått något erbjudande    5        2      0
 
 <!-- sida 30 -->
 
@@ -1210,6 +1219,20 @@ Kommunstyrelsen, kommunrevisionen
 Pia Berglund
 
 Verksamhetschef
+
+[Tabell 30-1](handlingar.tabeller/30-1.csv)
+
+| - avlidna | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- |
+| - avsagt sig beslut | 0 | 3 | 0 |  |
+| - Verkställda under kvartalet | 0 | 4 | 0 |  |
+| Summa | 5 | 11 | 1 |  |
+| Varav |  |  |  |  |
+| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | 5 | 5 | 0 |  |
+| - Antal personer som har väntat på<br>växelvård 7 - 9 månader | 0 | 4 | 1 |  |
+| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 | 0 |  |
+| - Antal personer som har väntat på<br>växelvård > 12 månader | 0 | 0 | 0 |  |
+| Summa | 5 | 9 | 1 |  |
 
 <!-- sida 31 -->
 

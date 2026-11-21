@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320015349id_/https://www.kungsbacka.
 sha256: 8be1edce3a67b6f07fe6f4b911e71570e37c8b33c5c560ca97f001ee9eff511f
 bytes: 37567744
 sidor: 130
-hamtad: 2026-10-27T09:39:24+00:00
-konverterad: 2026-10-27T09:40:20+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-20T23:59:07+00:00
+konverterad: 2026-11-21T00:00:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [6, 9, 10, 11, 39, 76, 83, 98, 112, 113, 115, 116, 117, 118, 119]
 figurer: [8, 10, 76, 83, 114, 118, 122, 129]
 tolkade: []
@@ -113,6 +113,49 @@ ordförande                        kommunsekreterare
 
 <!-- sida 6 -->
 
+n
+
+Kungsbacka
+
+Svar på interpellation från Maria Losman och Elisabeth Sahlsten Miljöpartiet
+– Cykelbanor runt skolorna – för barnens hälsa och miljö          1 (2)
+
+Nedanstående frågor har ställts till mig Monica Neptun som ordförande för nämnden Datum
+2022-01-25
+för Teknik
+
+1\. Hur skall kommunen verkställa Gång och cykelstrategins prioritering
+av gång och cykelvägar till och från skolor?
+Teknik arbetar med utbyggnad av gång och cykelnätverket efter kommunens gång
+och cykelplan. I prioriteringen av sträckor finns skolväg som en parameter och som
+underlag till gång och cykelplanen togs en GIS anlys fram ”Cykla till skolan – En
+GIS-analys av förutsättningarna att gå och cykla till skolan” (2017). Den analysen
+visade att 72 % av alla barn i Kungsbacka kommun hade 300 m eller mindre från
+hemmet till en gång och cykelväg som leder till skolan.
+
+2\. Vilka skolor inom kommunen saknar tillfredsställande gång och
+cykelvägar för eleverna, inom en radie av 4 km från skolan?
+
+Analysen visar att det finns brister vid flera skolor, men det är värt att notera att det
+inte är bedömt om det är möjligt eller rimligt att bygga ut GC-väg på de utpekade
+sträckorna. Samtliga sträckor (undantaget Höglandavägen) ligger utanför
+Kungsbacka stad och har enskild eller statligt huvudmannaskap där kommunen inte
+har rådighet. Skolorna i Fjärås och Gällinge utmärker sig som skolor som saknar GC-
+väg utmed huvudvägnätet.
+
+3\. Hur är kommunens tidsplan för prioritering av gång och cykelvägar till
+kommunen skolor, inom den närmaste 5 års perioden?
+Utbyggnaden av GC-vägar längs med huvudvägnätet sker enligt GC-planen. Då
+samtliga av dessa sträckor ligger utmed statligt vägnät så är det Vägverket som driver
+
+projekten och utbyggnaden även om kommunen finansierar. Det finns därför
+osäkerhet kring tidsplanerna och kommunen har ingen möjlighet att påskynda
+projekten.
+Just nu pågår planering för utbyggnad av GC-väg Vallbyvägen och Varbergsvägen.
+2022\. Vägplan för GC-väg utmed Göteborgsvägen i Frillesås och Ölmanäs ringväg i
+Åsa skall starta under 2022 därefter följer vägplaner för Gåsvadsholmsvägen och
+västra Särövägen under 2023.
+
 Monica Neptun                                                Kungsbacka kommun
 Ordförande i nämnden för Teknik                               434 81 Kungsbacka
 Direkt 0300–83 42 35
@@ -123,43 +166,8 @@ Telefon 0300-83 40 00
 Fax 0300-83 47 04
 (e-post borttagen)
 www.kungsbacka.se
-32-50-2102
-,0.2v
-,0002BUK
-n
-Kungsbacka
-Svar på interpellation från Maria Losman och Elisabeth Sahlsten Miljöpartiet
-– Cykelbanor runt skolorna – för barnens hälsa och miljö          1 (2)
-Nedanstående frågor har ställts till mig Monica Neptun som ordförande för nämnden Datum
-2022-01-25
-för Teknik
-1\. Hur skall kommunen verkställa Gång och cykelstrategins prioritering
-av gång och cykelvägar till och från skolor?
-Teknik arbetar med utbyggnad av gång och cykelnätverket efter kommunens gång
-och cykelplan. I prioriteringen av sträckor finns skolväg som en parameter och som
-underlag till gång och cykelplanen togs en GIS anlys fram ”Cykla till skolan – En
-GIS-analys av förutsättningarna att gå och cykla till skolan” (2017). Den analysen
-visade att 72 % av alla barn i Kungsbacka kommun hade 300 m eller mindre från
-hemmet till en gång och cykelväg som leder till skolan.
-2\. Vilka skolor inom kommunen saknar tillfredsställande gång och
-cykelvägar för eleverna, inom en radie av 4 km från skolan?
-Analysen visar att det finns brister vid flera skolor, men det är värt att notera att det
-inte är bedömt om det är möjligt eller rimligt att bygga ut GC-väg på de utpekade
-sträckorna. Samtliga sträckor (undantaget Höglandavägen) ligger utanför
-Kungsbacka stad och har enskild eller statligt huvudmannaskap där kommunen inte
-har rådighet. Skolorna i Fjärås och Gällinge utmärker sig som skolor som saknar GC-
-väg utmed huvudvägnätet.
-3\. Hur är kommunens tidsplan för prioritering av gång och cykelvägar till
-kommunen skolor, inom den närmaste 5 års perioden?
-Utbyggnaden av GC-vägar längs med huvudvägnätet sker enligt GC-planen. Då
-samtliga av dessa sträckor ligger utmed statligt vägnät så är det Vägverket som driver
-projekten och utbyggnaden även om kommunen finansierar. Det finns därför
-osäkerhet kring tidsplanerna och kommunen har ingen möjlighet att påskynda
-projekten.
-Just nu pågår planering för utbyggnad av GC-väg Vallbyvägen och Varbergsvägen.
-2022\. Vägplan för GC-väg utmed Göteborgsvägen i Frillesås och Ölmanäs ringväg i
-Åsa skall starta under 2022 därefter följer vägplaner för Gåsvadsholmsvägen och
-västra Särövägen under 2023.
+
+KUB2000, v2.0, 2012-05-23
 
 <!-- sida 7 -->
 
@@ -1144,39 +1152,48 @@ Kvartal Kvartal Kvartal Kvartal
 Totalt antal personer med särskilt
 boendebeslut som inte har verkställts 24 9  12
 inom 3 månader
+Varav
+\- antal personer som tackat nej till
+7      7     10
+erbjudande
+\- antal personer som tackat nej till fler
+0      1     4
+erbjudanden
 
-[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+```osaker-tabell
+ - ej fått något erbjudande    0      0     1
+ - avlidna                     1      0     0
+ - avsagt sig beslut           1      2     0
+ - Verkställda under kvartalet 16     2     4
+Summa                            25    12     19
+```
 
-| Varav |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| - antal personer som tackat nej till<br>erbjudande | 7 | 7 | 10 |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 1 | 4 |  |
-| - ej fått något erbjudande | 0 | 0 | 1 |  |
-| - avlidna | 1 | 0 | 0 |  |
-| - avsagt sig beslut | 1 | 2 | 0 |  |
-| - Verkställda under kvartalet | 16 | 2 | 4 |  |
-| Summa | 25 | 12 | 19 |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 22 | 5 | 8 |  |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 2 | 3 | 2 |  |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 0 | 1 | 1 |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 0 | 0 | 1 |  |
-| Summa | 24 | 9 | 12 |  |
-| Totalt antal personer med<br>växelvårdsbeslut som inte har<br>verkställts inom 3 månader | 5 | 9 | 1 |  |
-| Varav |  |  |  |  |
-| - antal personer som tackat nej till<br>erbjudanden | 0 | 2 | 1 |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 0 | 0 |  |
-| - ej fått något erbjudande | 5 | 2 | 0 |  |
-| - avlidna | 0 | 0 | 0 |  |
-| - avsagt sig beslut | 0 | 3 | 0 |  |
-| - Verkställda under kvartalet | 0 | 4 | 0 |  |
-| Summa | 5 | 11 | 1 |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | I 5 | I 5 | I 0 | I |
-| - Antal personer som har väntat på<br>I<br>växelvård 7 - 9 månader | 0 | I 4 | I 1 | I |
-| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 | 0 |  |
-| - Antal personer som har väntat på<br>I<br>växelvård > 12 månader | 0 | I 0 | I 0 | I |
-| Summa | 5 | 9 | 1 |  |
+Varav
+\- Antal personer som har väntat på
+22     5   8
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+2      3     2
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+boende 10 - 12 månader.        0     1      1
+
+\- Antal personer som har väntat på
+0      0     1
+boende > 12 månader
+Summa                            24     9     12
+Totalt antal personer med
+
+växelvårdsbeslut som inte har  5        9      1
+verkställts inom 3 månader
+Varav
+\- antal personer som tackat nej till
+0        2      1
+erbjudanden
+\- antal personer som tackat nej till fler
+0        0      0
+erbjudanden
+\- ej fått något erbjudande    5        2      0
 
 <!-- sida 35 -->
 
@@ -1202,6 +1219,20 @@ Kommunstyrelsen, kommunrevisionen
 Pia Berglund
 
 Verksamhetschef
+
+[Tabell 35-1](handlingar.tabeller/35-1.csv)
+
+| - avlidna | 0 | 0 | 0 |  |
+| --- | --- | --- | --- | --- |
+| - avsagt sig beslut | 0 | 3 | 0 |  |
+| - Verkställda under kvartalet | 0 | 4 | 0 |  |
+| Summa | 5 | 11 | 1 |  |
+| Varav |  |  |  |  |
+| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | I 5 | I 5 | I 0 | I |
+| - Antal personer som har väntat på<br>I<br>växelvård 7 - 9 månader | 0 | I 4 | I 1 | I |
+| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 | 0 |  |
+| - Antal personer som har väntat på<br>I<br>växelvård > 12 månader | 0 | I 0 | I 0 | I |
+| Summa | 5 | 9 | 1 |  |
 
 <!-- sida 36 -->
 
@@ -3161,12 +3192,11 @@ människohandel, sexuellt utnyttjande och andra typer av exploatering.
 
 Med detta som bakgrund yrkar jag att:
 
-e Kommunfullmäktige ger kommundirektören i uppdrag att kartlägga nuläget, analysera risker
+e -Kommunfullmäktige ger kommundirektören i uppdrag att kartlägga nuläget, analysera risker
 och behov av direktiv och/eller policy för att säkerställa att Agenda 2030 globala mål 5.2
 
 \|
 
-NN NN )
 Ledamot Kommunfullmäktige
 
 <!-- sida 84 -->
@@ -4441,7 +4471,6 @@ Justerare                         Expedierat/bestyrkt
 Pi | KUNGSBACKA KOMMUN
 
 AN | KOMMUNSTYRELSEN
-Åv ; |
 
 Motion till Kungsbacka den 20 oktober 2020
 Kommunfullmäktige

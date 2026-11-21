@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20200928052722id_/https://www.kungsbacka.
 sha256: 03d0b3679a8f28f288b03b1ad01c763158ecc7d33740ff0567980e6a53932aa9
 bytes: 405308
 sidor: 31
-hamtad: 2026-11-03T08:31:27+00:00
-konverterad: 2026-11-03T08:31:35+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T02:00:30+00:00
+konverterad: 2026-11-21T02:00:50+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -613,6 +613,13 @@ kompensation för avtalsmässiga kostnader samt kompensation för förändringar
 konsumentprisindex (KPI). Enligt modellen blir ersättningarna för 2019 421
 kronor/timme för omsorg och 382 kronor/timme för service.
 
+2019 2020
+
+Omsorg per timme 410 421
+Service per timme 372 382
+
+OPI           2,6% 2,7%
+
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2020-02-10
 
@@ -621,14 +628,6 @@ Ordförande Lisa Andersson (M) ställer proposition på om nämnden kan notera
 informationen till protokollet, och finner att nämnden bifaller det.
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 14-1](protokoll.tabeller/14-1.csv)
-
-| 2019 | 2020 |
-| --- | --- |
-| Omsorg per timme 410 | 421 |
-| Service per timme 372 | 382 |
-| OPI 2,6% | 2,7% |
 
 <!-- sida 15 -->
 
@@ -715,7 +714,33 @@ Kvartal Kvartal Kvartal Kvartal
 Totalt antal personer med särskilt
 boendebeslut som inte har verkställts 63
 inom 3 månader
+Varav
+\- antal personer som tackat nej till
+13
+erbjudande
+\- antal personer som tackat nej till fler
+9
+erbjudanden
+\- ej fått något erbjudande   11
+\- avlidna                     1
+\- avsagt sig beslut           9
+\- Verkställda under kvartalet 29
+Summa                           72
+Varav
 
+\- Antal personer som har väntat på
+49
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+9
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+4
+boende 10 - 12 månader.
+\- Antal personer som har väntat på
+1
+boende > 12 månader
+Summa                           63
 Beslutsunderlag
 
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2020-04-08
@@ -732,24 +757,6 @@ Kommunstyrelsen
 Kommunrevisionen
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 17-1](protokoll.tabeller/17-1.csv)
-
-| Varav |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| - antal personer som tackat nej till<br>erbjudande | 13 |  |  |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 9 |  |  |  |
-| - ej fått något erbjudande | 11 |  |  |  |
-| - avlidna | 1 |  |  |  |
-| - avsagt sig beslut | 9 |  |  |  |
-| - Verkställda under kvartalet | 29 |  |  |  |
-| Summa | 72 |  |  |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 49 |  |  |  |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 9 |  |  |  |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 4 |  |  |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 1 |  |  |  |
-| Summa | 63 |  |  |  |
 
 <!-- sida 18 -->
 

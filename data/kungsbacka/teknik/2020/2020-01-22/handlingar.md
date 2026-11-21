@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319203741id_/https://www.kungsbacka.
 sha256: 5c3e2d9a231bf6a81ba3e9ba495fbfabaf24f86fb8f1cdea37e07238eb44a25e
 bytes: 12989423
 sidor: 63
-hamtad: 2026-11-03T08:37:33+00:00
-konverterad: 2026-11-03T08:37:52+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:14:50+00:00
+konverterad: 2026-11-21T02:15:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, tabell-osaker, ok]
@@ -908,7 +908,8 @@ I
 n
 d
 u
-ers G
+ers
+G
 r ö n
 y
 Div. v er
@@ -951,9 +952,28 @@ n
 ÅVS
 Karta över programområdet som redovisar kvarteretns namn och nuvarande markanvändning.
 12 Planprogram                                                                                                                   Planprogram 13
+
+Bo
+
+rgm
+
+äs
+
+ta
+
+re
+
+ga
+
+ta
+
+n
+
+n
+
+Varlaväge
+
 Ängsgatan
-B o r g m ä s t a r e g a t a n
-Varlavägen
 
 <!-- sida 23 -->
 

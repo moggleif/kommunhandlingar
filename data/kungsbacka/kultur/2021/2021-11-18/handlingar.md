@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319191315id_/https://www.kungsbacka.
 sha256: 58c06a745b358083e3d7b36c42baa2569f6d0ea9d53d43d79d10384ba0b5fb1f
 bytes: 6610819
 sidor: 65
-hamtad: 2026-11-17T12:40:51+00:00
-konverterad: 2026-11-17T12:41:00+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T00:16:56+00:00
+konverterad: 2026-11-21T00:17:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -594,17 +594,17 @@ obefintlig) - exempelvis 1 gång per 10 år intressenter och kommunen)
 
 [Tabell 14-15-1](handlingar.tabeller/14-15-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Processen för som besvärande för<br>avslut av anställning berörda intressenter och<br>säkerställer inte att alla kommunen)<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. |
-| Ekonomi | 2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Redovisning av som besvärande för<br>representation berörda intressenter och<br>kommunen) |
-|  | 3 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Debiteringsrutiner som besvärande för<br>berörda intressenter och<br>kommunen) |
-| Information<br>ssäkerhet,<br>administrati<br>on, inköp... | 4 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Inköp (granskning som besvärande för<br>begränsas till belopp berörda intressenter och<br>över 100.000:-) kommunen) |
-|  | 5 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: Bristande hantering som besvärande för<br>av delegationsbeslut berörda intressenter och<br>kommunen) |
-|  | 6 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>risk: som besvärande för<br>Informationsöverföring berörda intressenter och<br>till tredje land kommunen) |
-| Verksamhet | 7 Leverantörssamarbete- 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>Brister uppföljning av som besvärande för<br>leverans från extern berörda intressenter och<br>badhusoperatör samt kommunen)<br>från Service resp.<br>Teknik. |
-|  | 8 Rutiner för 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>tillbud/olyckor för som besvärande för<br>besökare/deltagare i vår berörda intressenter och<br>verksamhet kommunen) |
-|  | 9 Risk att nya 2. Mindre vanligt 3. Kännbar (uppfattas Ja<br>stydokument inte som besvärande för<br>uppmärksammas och berörda intressenter och<br>implementeras kommunen) |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Processen för<br>avslut av anställning<br>säkerställer inte att alla<br>behörigheter till system,<br>lokaler och andra<br>tillgångar avslutas. | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Ekonomi |  | 2 Kommunövergripande<br>risk: Redovisning av<br>representation | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 3 Kommunövergripande<br>risk: Debiteringsrutiner | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Information<br>ssäkerhet,<br>administrati<br>on, inköp... |  | 4 Kommunövergripande<br>risk: Inköp (granskning<br>begränsas till belopp<br>över 100.000:-) | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 5 Kommunövergripande<br>risk: Bristande hantering<br>av delegationsbeslut | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Kommunövergripande<br>risk:<br>Informationsöverföring<br>till tredje land | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 7 Leverantörssamarbete-<br>Brister uppföljning av<br>leverans från extern<br>badhusoperatör samt<br>från Service resp.<br>Teknik. | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 8 Rutiner för<br>tillbud/olyckor för<br>besökare/deltagare i vår<br>verksamhet | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 9 Risk att nya<br>stydokument inte<br>uppmärksammas och<br>implementeras | 2. Mindre vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 15 -->
 
@@ -617,10 +617,10 @@ Intern kontrollplan 2022
 
 [Tabell 15-1](handlingar.tabeller/15-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip Endast relevant för<br>3. Kännbar<br>ande risk: de nämnder där<br>(uppfattas som<br>Bristande man planerar<br>besvärande för<br>styrning av 3. Vanligt förändringar under<br>berörda<br>förändring av kommande år.<br>intressenter och<br>verksamhetsproc<br>kommunen)<br>esser och system |
-| Verksamhet | Risk att våra Ej till plan då nytt<br>lokalbehov inte arbetssätt har<br>förstås och startat i<br>uppmärksammas 3. Kännbar lokalförsörjningspr<br>i lokalprocessen. (uppfattas som ocessen där bla<br>besvärande för KFT ska bjudas in i<br>2. Mindre vanligt<br>berörda tänkbara<br>intressenter och gemensamma<br>kommunen) projekt i tidigt<br>skede. Viktigt att<br>förvaltningen följer<br>utvecklingen. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk:<br>Bristande<br>styrning av<br>förändring av<br>verksamhetsproc<br>esser och system | 3. Vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Endast relevant för<br>de nämnder där<br>man planerar<br>förändringar under<br>kommande år. |
+| Verksamhet |  | Risk att våra<br>lokalbehov inte<br>förstås och<br>uppmärksammas<br>i lokalprocessen. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Ej till plan då nytt<br>arbetssätt har<br>startat i<br>lokalförsörjningspr<br>ocessen där bla<br>KFT ska bjudas in i<br>tänkbara<br>gemensamma<br>projekt i tidigt<br>skede. Viktigt att<br>förvaltningen följer<br>utvecklingen. |
 
 <!-- sida 16 -->
 
@@ -637,17 +637,17 @@ Granskningsaktiviteter
 
 [Tabell 16-17-1](handlingar.tabeller/16-17-1.csv)
 
-| Risker | Kontrollmoment | Slutdatu<br>Granskningsaktiviteter Startdatum<br>m |
-| --- | --- | --- |
-| Kommunövergripand<br>e risk: Redovisning<br>av representation | Attest av<br>representation | Granskning av 2022-01-01 2022-11-<br>representationskostnader 30<br>mm |
-| Kommunövergripand<br>e risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Kontroll vid avslut av<br>anställning | Granskning av avslut av 2022-01-01 2022-11-<br>behörigheter vid avslut av 30<br>anställning (eller byte av<br>tjänst) |
-| Kommunövergripand<br>e risk:<br>Debiteringsrutiner | Debiteringsrutiner | Uppföljning av 2022-01-01 2022-12-<br>debiteringsprocessen 30 |
-| Kommunövergripand<br>e risk: Inköp<br>(granskning<br>begränsas till belopp<br>över 100.000:-) | Beställningsgodkänn<br>ande | Granskning av att 2022-01-01 2022-11-<br>genomförda inköp följer 30<br>inköpsprocessen och<br>gällande styrdokument |
-| Kommunövergripand<br>e risk: Bristande<br>hantering av<br>delegationsbeslut | Delegeringsrutin | Granskning av 2022-01-01 2022-11-<br>delegeringsbeslut 30 |
-| Kommunövergripand<br>e risk:<br>Informationsöverförin<br>g till tredje land | Följsamhet till<br>lagstiftning avseende<br>integritetsskydd och<br>Schrems II-målet<br>(överföring av<br>personinformation till<br>terdjeland med<br>massövervakningsla<br>gstiftning).Efterlevna<br>d till rutin för<br>informationsklassific<br>ering. | Inventering av behandling 2022-01-01 2022-11-<br>av personinformation som 30<br>omfattar<br>tredjelandsöverföring |
-| Leverantörssamarbe<br>te- Brister<br>uppföljning av<br>leverans från extern<br>badhusoperatör<br>samt från Service<br>resp. Teknik. | Uppföljning av nya<br>rutiner | Kontroll av rutiner 2021-01-01 2021-11-<br>30 |
-| Rutiner för<br>tillbud/olyckor för<br>besökare/deltagare i<br>vår verksamhet | Rutiner kring<br>tillbud/olyckor hos<br>våra besökare och<br>deltagare. | Inventering och granskning 2022-01-01 2022-11-<br>av rutiner 30 |
-| Risk att nya<br>stydokument inte<br>uppmärksammas<br>och implementeras | Nya styrdokument | Granskning av rutin 2022-01-01 2022-05-<br>31 |
+|  | Risker | Kontrollmoment | Granskningsaktiviteter | Startdatum | Slutdatu<br>m |
+| --- | --- | --- | --- | --- | --- |
+|  | Kommunövergripand<br>e risk: Redovisning<br>av representation | Attest av<br>representation | Granskning av<br>representationskostnader<br>mm | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk: Processen för<br>avslut av anställning<br>säkerställer inte att<br>alla behörigheter till<br>system, lokaler och<br>andra tillgångar<br>avslutas. | Kontroll vid avslut av<br>anställning | Granskning av avslut av<br>behörigheter vid avslut av<br>anställning (eller byte av<br>tjänst) | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk:<br>Debiteringsrutiner | Debiteringsrutiner | Uppföljning av<br>debiteringsprocessen | 2022-01-01 | 2022-12-<br>30 |
+|  | Kommunövergripand<br>e risk: Inköp<br>(granskning<br>begränsas till belopp<br>över 100.000:-) | Beställningsgodkänn<br>ande | Granskning av att<br>genomförda inköp följer<br>inköpsprocessen och<br>gällande styrdokument | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk: Bristande<br>hantering av<br>delegationsbeslut | Delegeringsrutin | Granskning av<br>delegeringsbeslut | 2022-01-01 | 2022-11-<br>30 |
+|  | Kommunövergripand<br>e risk:<br>Informationsöverförin<br>g till tredje land | Följsamhet till<br>lagstiftning avseende<br>integritetsskydd och<br>Schrems II-målet<br>(överföring av<br>personinformation till<br>terdjeland med<br>massövervakningsla<br>gstiftning).Efterlevna<br>d till rutin för<br>informationsklassific<br>ering. | Inventering av behandling<br>av personinformation som<br>omfattar<br>tredjelandsöverföring | 2022-01-01 | 2022-11-<br>30 |
+|  | Leverantörssamarbe<br>te- Brister<br>uppföljning av<br>leverans från extern<br>badhusoperatör<br>samt från Service<br>resp. Teknik. | Uppföljning av nya<br>rutiner | Kontroll av rutiner | 2021-01-01 | 2021-11-<br>30 |
+|  | Rutiner för<br>tillbud/olyckor för<br>besökare/deltagare i<br>vår verksamhet | Rutiner kring<br>tillbud/olyckor hos<br>våra besökare och<br>deltagare. | Inventering och granskning<br>av rutiner | 2022-01-01 | 2022-11-<br>30 |
+|  | Risk att nya<br>stydokument inte<br>uppmärksammas<br>och implementeras | Nya styrdokument | Granskning av rutin | 2022-01-01 | 2022-05-<br>31 |
 
 <!-- sida 17 -->
 

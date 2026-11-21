@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319190358id_/https://www.kungsbacka.
 sha256: 45f7842a8d07a5fd058626b621d35e4762d2fd530aef46ca9ed43f0076982e82
 bytes: 1661468
 sidor: 6
-hamtad: 2026-11-02T12:44:01+00:00
-konverterad: 2026-11-02T12:44:17+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:49:58+00:00
+konverterad: 2026-11-21T01:50:16+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ocr, ej-konverterad, ocr, ocr, ocr, ocr]
@@ -113,9 +113,6 @@ Uppföljning och prognos per den 31 augusti 2020
 
 Justerare Expedierat/bestyrkt
 
-VD
-fe
-
 <!-- sida 5 -->
 
 Kungsbacka kommun SAMMANTRÄDESPROTOKOLL 5 (6)
@@ -188,7 +185,5 @@ Beslutet skickas till
 Kommunstyrelsen
 
 Justerare Expedierat/bestyrkt
-
-fe ÖR
 
 \|

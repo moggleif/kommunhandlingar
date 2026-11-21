@@ -1,214 +1,272 @@
 "Kategori
-er","R
+er","Risknum
+mer",Risker,"Vad kan
+gå fel?","Sannolik
+het","Konsekv
+ens","R
 i
-Anlednin
 s
-g till att
-Risknum Vad kan Sannolik Konsekv k Riskvärd
-Risker Till plan risk ej
-mer gå fel? het ens f e
-tas till
+k
+f
 ä
-plan
 r
-g"
-Personal,"Risk för
+g","Riskvärd
+e",Till plan,"Anlednin
+g till att
+risk ej
+tas till
+plan"
+Personal,1,"Kommun
+övergrip
+ande
+risk:
+Bristand
+e
+efterlevn
+ad av
+semesterl
+agen","Risk för
 lagbrott
 Personal
 tar/får
-3.
-Kommun inte ut
-Kännbar
-övergrip erforderli
-(uppfattas
-ande g
-som
-risk: semester
-besvärand
-Bristand Risk för Risk ska
-1 3. Vanligt e för Ja
-e störningar åtgärdas
-berörda
-efterlevn i
-intressent
-ad av bemannin
-er och
-semesterl gsplaneri
-kommune
-agen ng
-n)
+inte ut
+erforderli
+g
+semester
+Risk för
+störningar
+i
+bemannin
+gsplaneri
+ng
 Risk för
 stora
 utbetalnin
-gar"
-Ekonomi,"Bristande
+gar",3. Vanligt,"3.
+Kännbar
+(uppfattas
+som
+besvärand
+e för
+berörda
+intressent
+er och
+kommune
+n)",,"Risk ska
+åtgärdas",Ja,
+Ekonomi,2,"Kommun
+övergrip
+ande
+risk:
+Manuella
+betalning
+ar","Bristande
 kontroll
 av
-3.
 följsamhe
-Kännbar
 t till
-Kommun (uppfattas
 reglerna
-övergrip som
 för attest,
-ande besvärand
-delegatio 4. Mycket Risk ska
-2 risk: e för Ja
-n, vanligt åtgärdas
-Manuella berörda
+delegatio
+n,
 kontering
-betalning intressent
 och jäv
-ar er och
 som leder
-kommune
 till
-n)
 felaktiga
 betalning
-ar."
-,"3.
+ar.","4. Mycket
+vanligt","3.
 Kännbar
-Kommun Förtroend
 (uppfattas
-övergrip eskada
 som
-ande för
 besvärand
-risk: kommune Risk ska
-3 3. Vanligt e för Ja
-Redovisn n. åtgärdas
+e för
 berörda
-ing av Felaktiga
 intressent
-represent ersättning
 er och
-ation ar.
 kommune
-n)"
-,"Kontant
-Risk för
+n)",,"Risk ska
+åtgärdas",Ja,
+,3,"Kommun
+övergrip
+ande
+risk:
+Redovisn
+ing av
+represent
+ation","Förtroend
+eskada
+för
+kommune
+n.
+Felaktiga
+ersättning
+ar.",3. Vanligt,"3.
+Kännbar
+(uppfattas
+som
+besvärand
+e för
+berörda
+intressent
+er och
+kommune
+n)",,"Risk ska
+åtgärdas",Ja,
+,,"Kontant
 hanterin
-svinn.
-g"
-,"Förlust
+g","Risk för
+svinn.",,,,,,
+,,"Brister i
+kontanth
+anteringe
+n","Förlust
 av, intäkt
 er, stöld,
 felaktig
 redovisni
-Brister i ng,
-kontanth lagbrott
-anteringe (kassaregi
-n ster),
+ng,
+lagbrott
+(kassaregi
+ster),
 arbetsmilj
 örisker
 (rån,
 förskingri
-ng)"
+ng)",,,,,,
 "Informat
 ionssäker
 het och
 administ
-ration","Risk att
+ration",,"Brister i
+hanterin
+gen av
+personup
+pgifter","Risk att
 enskilda
 individers
-Brister i personup
-hanterin pgifter
-gen av används
-personup felaktigt,
-pgifter risk att
+personup
+pgifter
+används
+felaktigt,
+risk att
 individers
 integritet
-kränks"
-,"Kommun
+kränks",,,,,,
+,4,"Kommun
 övergrip
 ande
 risk:
-3.
 Styrning
-Kännbar
-och Osäker
-(uppfattas
-förvaltni drift.
-som
-ng av Obligator
-besvärand
-verksam iska roller Risk ska
-4 3. Vanligt e för Ja
-hetssyste utses ej, åtgärdas
-berörda
-m och ansvar
-intressent
-digitala kan ej
-er och
-verktyg följas
-kommune
+och
+förvaltni
+ng av
+verksam
+hetssyste
+m och
+digitala
+verktyg
 följer
-n)
 inte
 systemfö
 rvaltarm
-odellen."
-,"Kommun
-Lagstiftni
-övergrip
-ng följs
-ande
-inte,
-risk: 4.
-svårighet
-Dokume Allvarlig/
-er att
-nthanteri stor
-hantera
-ngsplane inverkan Risk ska
-5 och 3. Vanligt Ja
-r är inte (så stor åtgärdas
-säkerställ
-fullständi att den
-a
-ga och inte får
+odellen.","Osäker
+drift.
+Obligator
+iska roller
+utses ej,
+ansvar
+kan ej
+följas",3. Vanligt,"3.
+Kännbar
+(uppfattas
+som
+besvärand
+e för
+berörda
+intressent
+er och
 kommune
-följs inte inträffa)
-ns
+n)",,"Risk ska
+åtgärdas",Ja,
+,5,"Kommun
+övergrip
+ande
+risk:
+Dokume
+nthanteri
+ngsplane
+r är inte
+fullständi
+ga och
+följs inte
 för all
-informati
 verksam
-on.
-het."
-,"Vi följer
+het.","Lagstiftni
+ng följs
+inte,
+svårighet
+er att
+hantera
+och
+säkerställ
+a
+kommune
+ns
+informati
+on.",3. Vanligt,"4.
+Allvarlig/
+stor
+inverkan
+(så stor
+att den
+inte får
+inträffa)",,"Risk ska
+åtgärdas",Ja,
+,6,"Kommun
+övergrip
+ande
+risk:
+Kommun
+ens
+policy för
+kommun
+ikation
+följs inte
+i
+verksam
+hetens
+alla
+delar.","Vi följer
 inte lagen
 (förvaltni
-Kommun
 ngslagen,
-övergrip
 lagen om
-ande 3.
 offentligh
-risk: Kännbar
 et och
-Kommun (uppfattas
 sekretess
-ens som
 m fl.).
-policy för besvärand
-Bristande 2. Mindre Risk bör
-6 kommun e för Ja
-service vanligt åtgärdas
-ikation berörda
+Bristande
+service
 till
-följs inte intressent
 medborga
-i er och
 re och
-verksam kommune
 andra
-hetens n)
 intressent
-alla
 er. Även
-delar.
 internt
 samarbete
-."
+.","2. Mindre
+vanligt","3.
+Kännbar
+(uppfattas
+som
+besvärand
+e för
+berörda
+intressent
+er och
+kommune
+n)",,"Risk bör
+åtgärdas",Ja,

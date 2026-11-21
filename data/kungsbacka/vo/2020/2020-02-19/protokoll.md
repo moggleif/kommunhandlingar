@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20200923223148id_/https://www.kungsbacka.
 sha256: b9d671e3c9002e64fb11c5b581b302564e51796c28d22be56dae7fb05b0cd654
 bytes: 383204
 sidor: 25
-hamtad: 2026-11-04T12:08:48+00:00
-konverterad: 2026-11-04T12:08:56+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T02:09:02+00:00
+konverterad: 2026-11-21T02:10:49+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: []
 tolkade: []
@@ -682,6 +682,39 @@ Datum
 Kvartal Kvartal Kvartal Kvartal
 2019
 1      2     3     4
+Totalt antal personer med särskilt
+boendebeslut som inte har   22    42     53    60
+verkställts inom 3 månader
+Varav
+\- antal personer som tackat nej till
+3     13     8      8
+erbjudande
+\- antal personer som tackat nej till
+4      2     0      0
+fler erbjudanden
+
+```osaker-tabell
+- ej fått något erbjudande  1     12     21    23
+- avlidna                   0      1     1      0
+- avsagt sig beslut         5      2     3     7
+- Verkställda under kvartalet 9   12     20    22
+Summa                         22    42     53    60
+```
+
+Varav
+\- Antal personer som har väntat på
+17    33     26    36
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+1      6     19    22
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+3      0     5     1
+boende 10 - 12 månader.
+\- Antal personer som har väntat på
+1      3     3     1
+boende > 12 månader
+Summa                         22    42     53    60
 
 Beslutsunderlag
 Förvaltningen för Vård & Omsorgs tjänsteskrivelse, 2020-01-31
@@ -693,25 +726,6 @@ förvaltningens förslag. Ordföranden (M) prövar förslaget och finner att nä
 beslutar enligt förvaltningens förslag.
 
 Justerare                         Expedierat/bestyrkt
-
-[Tabell 18-1](protokoll.tabeller/18-1.csv)
-
-| Totalt antal personer med särskilt<br>boendebeslut som inte har<br>verkställts inom 3 månader | 22 | 42 | 53 | 60 |
-| --- | --- | --- | --- | --- |
-| Varav |  |  |  |  |
-| - antal personer som tackat nej till<br>erbjudande | 3 | 13 | 8 | 8 |
-| - antal personer som tackat nej till<br>fler erbjudanden | 4 | 2 | 0 | 0 |
-| - ej fått något erbjudande | 1 | 12 | 21 | 23 |
-| - avlidna | 0 | 1 | 1 | 0 |
-| - avsagt sig beslut | 5 | 2 | 3 | 7 |
-| - Verkställda under kvartalet | 9 | 12 | 20 | 22 |
-| Summa | 22 | 42 | 53 | 60 |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 17 | 33 | 26 | 36 |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 1 | 6 | 19 | 22 |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 3 | 0 | 5 | 1 |
-| - Antal personer som har väntat på<br>boende > 12 månader | 1 | 3 | 3 | 1 |
-| Summa | 22 | 42 | 53 | 60 |
 
 <!-- sida 19 -->
 

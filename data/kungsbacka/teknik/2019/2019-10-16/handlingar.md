@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20200203215958id_/https://www.kungsbacka.
 sha256: c848dcf6c80a18297b624fac81ee1dd61d2a167c9a4ec7c24f75474848dc75b1
 bytes: 6592154
 sidor: 64
-hamtad: 2026-11-04T12:24:33+00:00
-konverterad: 2026-11-04T12:25:51+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T02:26:29+00:00
+konverterad: 2026-11-21T02:26:35+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker]
@@ -231,19 +231,13 @@ Bro Varla Park
 
 <!-- sida 6 -->
 
-Tillkommit
+Bro Borgmästargatan                    14 500 Tillkommit
+Bro GC-lnlagsleden
 
+Totalt / år                            50 000
 S.A INVESTERINGAR                     50 000
 
 Justering                                 0
-
-[Tabell 6-1](handlingar.tabeller/6-1.csv)
-
-| Bro Borgmästargatan | 14 500 |
-| --- | --- |
-| Bro GC-lnlagsleden |  |
-|  |  |
-| Totalt / år | 50 000 |
 
 <!-- sida 7 -->
 
@@ -1752,86 +1746,148 @@ NTE kallelse 2019-09-18                                    NTE/2019-09-18
 <!-- sida 49 -->
 
 (Trafikverket) Beslut - Begäran om yttrande om tung och bred 2019-09-05 TE/2019:950 Begäran om yttrande om tung och bred transport
-transport TRV 2019/97340                                                    TRV 2019/97340
-Parkering inom kommunalt grönområde     2019-09-13         TE/2019:984      Olovlig parkering på grönområde inom detaljplan i
-Fors
+transport TRV 2019/97340                                                     TRV 2019/97340
 
-Skrivelse angående kommunalt VA, Kyvik 5:230               TE/2019:989      Skrivelse angående kommunalt VA, Kyvik 5:230
+Parkering inom kommunalt grönområde     2019-09-13         TE/2019:984       Olovlig parkering på grönområde inom detaljplan i
+Fors
+Skrivelse angående kommunalt VA, Kyvik 5:230               TE/2019:989       Skrivelse angående kommunalt VA, Kyvik 5:230
+
 (Trafikverket) Beslut Begäran om yttrande om tung och bred 2019-09-05 TE
 transport TRV 2019/97340
 
-Rutinbeskrivning "Uppsättning användare i VA-Banken" 2019-09-13 VA-banken
+Rutinbeskrivning "Uppsättning användare i VA-Banken" 2019-09-13
 
-(Trafikverket) Yttrande från Trafikverket - Ansökan om tillstånd - 2019-09-06 TE/2019:940 Ansökan om tillstånd - begagnande av offentlig plats
-begagnande av offentlig plats A447.479/2019, Inspelning av tv-serie         A447.479/2019, Inspelning av tv-serie
-(Trafikverket) Beslut gällande transportdispens - TRV 2019/98602 2019-09-06 TE/2019:990 Beslut gällande transportdispens - TRV 2019/98602
+(Trafikverket) Yttrande från Trafikverket - Ansökan om tillstånd - 2019-09-06
+begagnande av offentlig plats A447.479/2019, Inspelning av tv-serie
+(Trafikverket) Beslut gällande transportdispens - TRV 2019/98602 2019-09-06
 
-Nederbörd i Åsa - Anmälan från fastighetsägare vid 2019-09-12 TE/2019:994   Nederbörd i Åsa - Anmälan från fastighetsägare vid
-källaröversvämning - ÅSA 4:160 Gästgiverivägen 25                           källaröversvämning - ÅSA 4:160 Gästgiverivägen 25
-Mailsvar till IF från Teknik                               TE/2019:972      Nederbörd i Åsa - Regress & Anmälan-
+Nederbörd i Åsa - Anmälan från fastighetsägare vid 2019-09-12
+källaröversvämning - ÅSA 4:160 Gästgiverivägen 25
+Mailsvar till IF från Teknik
+
+Bestridande av regresskrav från Teknik
+
+VA-banken
+
+TE/2019:940       Ansökan om tillstånd - begagnande av offentlig plats
+A447.479/2019, Inspelning av tv-serie
+TE/2019:990       Beslut gällande transportdispens - TRV 2019/98602
+
+TE/2019:994       Nederbörd i Åsa - Anmälan från fastighetsägare vid
+källaröversvämning - ÅSA 4:160 Gästgiverivägen 25
+TE/2019:972       Nederbörd i Åsa - Regress & Anmälan-
 Skadeståndskrav med anledning av vattenskada Åsa
 Gärdesväg 1 Åsa 4:130 Skadenummer 193 410 883
 
-Bestridande av regresskrav från Teknik                     TE/2019:972
-Svarsbrev till skadelidande             2019-09-16         TE/2019:811      Skadeanmälan - Stenskott på bil - Varla
+TE/2019:972
+
+Svarsbrev till skadelidande             2019-09-16         TE/2019:811       Skadeanmälan - Stenskott på bil - Varla
 pendelparkering
 
-Tekniks avslut                                             TE/2019:853      Siktärenden - Hede
-Följebrev till beslut avseende ansökan om sänt hastighet på TE/2019:323     Ansökan om sänkt hastighet på Göteborgsvägen i den
-Göteborgsvägen i den södra delen genom Frillesås                            södra delen genom Frillesås
+Tekniks avslut                                             TE/2019:853       Siktärenden - Hede
 
-Överklagande av beslut om färdtjänst    2019-09-17         TE/2019:998      Överklagande av beslut om färdtjänst
+Följebrev till beslut avseende ansökan om sänt hastighet på
+Göteborgsvägen i den södra delen genom Frillesås
 
-(Folksam) Angående baktrycksskador i Åsa 2019-08-16        TE/2019:922      Regress - Nederbörd i Åsa - Åsa 5:220 FF045912714S
+Överklagande av beslut om färdtjänst    2019-09-17
+(Folksam) Angående baktrycksskador i Åsa 2019-08-16
 FF045912714s
-(Miljö & Häsloskydd) Information angående anmälan sanering av 2019-09-16 TE/2019:1001 Anmälan sanering av tandläkarklinik, Södercentrum 1,
-tandläkarklinik                                                             dnr 2019/3623
 
-(Miljö & Hälsoskydd) Remiss Viken 5:40  2019-09-17         TE/2019:1002     Information angående enskild avloppsanläggning –
+(Miljö & Häsloskydd) Information angående anmälan sanering av 2019-09-16
+tandläkarklinik
+(Miljö & Hälsoskydd) Remiss Viken 5:40  2019-09-17
+
+TE/2019:323       Ansökan om sänkt hastighet på Göteborgsvägen i den
+södra delen genom Frillesås
+
+TE/2019:998       Överklagande av beslut om färdtjänst
+TE/2019:922       Regress - Nederbörd i Åsa - Åsa 5:220 FF045912714S
+
+TE/2019:1001      Anmälan sanering av tandläkarklinik, Södercentrum 1,
+dnr 2019/3623
+TE/2019:1002      Information angående enskild avloppsanläggning –
 Viken 5:40 dnr 2019/3286-3
 
 <!-- sida 50 -->
 
-(Miljö- & hälsoskydd) Remiss VALLDA-LUNDEN 10:4 2019-09-17 TE/2019:1004     Information angående enskild avloppsanläggning –
+(Miljö- & hälsoskydd) Remiss VALLDA-LUNDEN 10:4 2019-09-17
+
+Bestridande av anslutningsfaktura spillvatten Kyvik 5:198 2019-09-05
+
+(Länsstyrelsen) Beslut - Överklagande av avslag gällande 2019-09-16
+parkeringstillstånd för rörelsehindrad
+
+Beslut om ersättningskrav-TE2019_586    2019-09-17
+
+(Miljö- & hälsoskydd) Remiss Gärdhem 1:2
+
+(Miljö & häsoskydd) korrespondens med bl.a tandläkarkliniken 2019-09-16
+
+Beslut om ersättningskrav               2019-09-17
+
+(Byggnadsförvaltningen) Remiss dnr 2019-1273 angående
+sophämtning - Dugatorp 2:13
+2019-09-12 BN § 299 godkännande av tidsbegränsat lov för 2019-09-12
+fastigheten Frillesås-Rya 3:77
+
+(Trafikverket) Beslut - Remiss dnr TRV 2019/99998 gällande 2019-09-11
+transportdispens
+(Trafikverket) Beslut gällande transportdispens - TRV 2019/99172 2019-09-09
+
+(Trafikverket) Remiss - dnr TRV 2019/99998 gällande 2019-09-18
+transportdispens
+(Trafikverket) Begäran om yttrande gällande transportdispens - TRV 2019-09-19
+2019/103552
+
+(Miljö- & hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-11
+slamtömning, Listerhult 1:38 och 1:5, 2018/1701
+
+(Miljö & Hälsoskydd) Tillståndsbeslut angående enskild 2019-09-17
+avloppsanläggning - Slätthall 4:3, dnr 2018/1857
+
+(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-10
+slamtömning, Vallda 3:10, 2018/2630-9
+
+TE/2019:1004      Information angående enskild avloppsanläggning –
 VALLDA-LUNDEN 10:4, dnr 2019/3036-9
-Bestridande av anslutningsfaktura spillvatten Kyvik 5:198 2019-09-05 TE/2019:1000 Bestridande av anslutningsfaktura spillvatten Kyvik
+
+TE/2019:1000      Bestridande av anslutningsfaktura spillvatten Kyvik
 5:198
+TE/2019:824       Överklagande av avslag gällande parkeringstillstånd
+för rörelsehindrad
 
-(Länsstyrelsen) Beslut - Överklagande av avslag gällande 2019-09-16 TE/2019:824 Överklagande av avslag gällande parkeringstillstånd
-parkeringstillstånd för rörelsehindrad                                      för rörelsehindrad
-Beslut om ersättningskrav-TE2019_586    2019-09-17         TE/2019:586      Begäran om skadestånd efter skada - Korsningen
+TE/2019:586       Begäran om skadestånd efter skada - Korsningen
 Lindens Torg - Gymnasiegatan
-
-(Miljö- & hälsoskydd) Remiss Gärdhem 1:2                   TE/2019:1003     Information angående enskild avloppsanläggning –
+TE/2019:1003      Information angående enskild avloppsanläggning –
 Gärdhem 1:2, dnr 2019/2488-7
-(Miljö & häsoskydd) korrespondens med bl.a tandläkarkliniken 2019-09-16 TE/2019:1001 Anmälan sanering av tandläkarklinik, Södercentrum 1,
+
+TE/2019:1001      Anmälan sanering av tandläkarklinik, Södercentrum 1,
 dnr 2019/3623
-
-Beslut om ersättningskrav               2019-09-17         TE/2019:586      Begäran om skadestånd efter skada - Korsningen
+TE/2019:586       Begäran om skadestånd efter skada - Korsningen
 Lindens Torg - Gymnasiegatan
-(Byggnadsförvaltningen) Remiss dnr 2019-1273 angående      TE/2019:1006     Remiss dnr 2019-1273 angående sophämtning -
-sophämtning - Dugatorp 2:13                                                 Dugatorp 2:13
 
-2019-09-12 BN § 299 godkännande av tidsbegränsat lov för 2019-09-12 TE/2019:501 Flytt av återvinningscentral i Åsa samt ny och
-fastigheten Frillesås-Rya 3:77                                              temporär lokalisering, Frillesås-Rya 3:77
-(Trafikverket) Beslut - Remiss dnr TRV 2019/99998 gällande 2019-09-11 TE/2019:967 Remiss dnr TRV 2019/99998 gällande
-transportdispens                                                            transportdispens
+TE/2019:1006      Remiss dnr 2019-1273 angående sophämtning -
+Dugatorp 2:13
+TE/2019:501       Flytt av återvinningscentral i Åsa samt ny och
+temporär lokalisering, Frillesås-Rya 3:77
 
-(Trafikverket) Beslut gällande transportdispens - TRV 2019/99172 2019-09-09 TE/2019:1010 Beslut gällande transportdispens - TRV 2019/99172
+TE/2019:967       Remiss dnr TRV 2019/99998 gällande
+transportdispens
+TE/2019:1010      Beslut gällande transportdispens - TRV 2019/99172
 
-(Trafikverket) Remiss - dnr TRV 2019/99998 gällande 2019-09-18 TE/2019:1008 Remiss dnr TRV 2019/97977 gällande
-transportdispens                                                            transportdispens
-(Trafikverket) Begäran om yttrande gällande transportdispens - TRV 2019-09-19 TE/2019:1013 Begäran om yttrande gällande transportdispens - TRV
-2019/103552                                                                 2019/103552
+TE/2019:1008      Remiss dnr TRV 2019/97977 gällande
+transportdispens
+TE/2019:1013      Begäran om yttrande gällande transportdispens - TRV
+2019/103552
 
-(Miljö- & hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-11 TE/2018:580 Tillstånd att anlägga gemensam enskild
-slamtömning, Listerhult 1:38 och 1:5, 2018/1701                             avloppsanläggning med ansluten vattentoalett–
+TE/2018:580       Tillstånd att anlägga gemensam enskild
+avloppsanläggning med ansluten vattentoalett–
 2018/1701-4 Litserhult 1:38 och Litserhult 1:5
-(Miljö & Hälsoskydd) Tillståndsbeslut angående enskild 2019-09-17 TE/2019:270 Remiss dnr 2018/1857 angående enskild
-avloppsanläggning - Slätthall 4:3, dnr 2018/1857                            avloppsanläggning - Slätthall 4:3
+TE/2019:270       Remiss dnr 2018/1857 angående enskild
+avloppsanläggning - Slätthall 4:3
 
-(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-10 TE/2018:530 Tillstånd att anlägga enskild avloppsanläggning med
-slamtömning, Vallda 3:10, 2018/2630-9                                       ansluten vattentoalett – Vallda 3:10
+TE/2018:530       Tillstånd att anlägga enskild avloppsanläggning med
+ansluten vattentoalett – Vallda 3:10
 
 <!-- sida 51 -->
 
@@ -1878,172 +1934,320 @@ Protector 738332
 
 <!-- sida 52 -->
 
-Beslut för kännedom angående anslutning till kommunalt VA 2019-09-20 TE/2019:1018 Beslut från Miljö & Hälsoskydd om att att ansluta
+Beslut för kännedom angående anslutning till kommunalt VA 2019-09-20
+
+(Skadelidande) Fakturor Stenskott       2019-09-23
+
+kvitto
+
+kvitto (dublett?)
+
+kvitton
+
+(Byggnadsnämnden) dnr 2019-1043 Beslut om bygglov för Scen-
+nybyggnad
+(Trafikverket) Beslut TRV 2019/104378
+
+(Byggnadsnämnden) dnr 2019-1042 Beslut om bygglov för murar och
+p-platser Marklov för anläggande markförändringar i park samt
+skateramp
+Ärende angående hundrastgårdar
+
+(Byggnadsnämnden) dnr 2019-1036 Beslut om marklov för Entrétorg,
+gång- och cykelbana samt markförändring
+Sammanfattning Fordon - kollision
+
+(Byggnadsnämnden) dnr 2019-1035 Beslut om bygglov för
+väderskydd Marklov- anläggande av p-platser samt anläggande av
+kuperad park
+(Byggnadsnämnden) dnr 2019-1041 Beslut om bygglov för Marklov- 2019-09-23
+anläggande av p-platser
+
+Trafikverkets yttrande
+Beslut om transportdispens
+
+Yttrande-byggställning                  2019-09-12
+
+Yttrande-uppställning billift           2019-09-13
+
+TE/2019:1018      Beslut från Miljö & Hälsoskydd om att att ansluta
 avloppsvatten till det kommunala VA nätet,
 Vallda-Backa 1:148
-(Skadelidande) Fakturor Stenskott       2019-09-23         TE/2019:811      Skadeanmälan - Stenskott på bil - Varla
+TE/2019:811       Skadeanmälan - Stenskott på bil - Varla
 pendelparkering
 
-kvitto                                                     TE/2019:1021     Skadad brevlåda m.m. av kommunens sopbil.
+TE/2019:1021      Skadad brevlåda m.m. av kommunens sopbil.
 Protector 738332
-kvitto (dublett?)                                          TE/2019:1021
+TE/2019:1021
 
-kvitton                                                    TE/2019:1021
+TE/2019:1021
 
-(Byggnadsnämnden) dnr 2019-1043 Beslut om bygglov för Scen- TE/2019:737     Ansökan om bygglov murar mm - Inlagsby 1,
-nybyggnad                                                                   Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
-(Trafikverket) Beslut TRV 2019/104378                      TE/2019:1020     Beslut gällande transportdispens - TRV 2019/104378
+TE/2019:737       Ansökan om bygglov murar mm - Inlagsby 1,
+Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
+TE/2019:1020      Beslut gällande transportdispens - TRV 2019/104378
 
-(Byggnadsnämnden) dnr 2019-1042 Beslut om bygglov för murar och TE/2019:737 Ansökan om bygglov murar mm - Inlagsby 1,
-p-platser Marklov för anläggande markförändringar i park samt               Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
-skateramp
-Ärende angående hundrastgårdar                             TE/2019:1019     Invånardialog angående hundrastgårdar
+TE/2019:737       Ansökan om bygglov murar mm - Inlagsby 1,
+Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
 
-(Byggnadsnämnden) dnr 2019-1036 Beslut om marklov för Entrétorg, TE/2019:737 Ansökan om bygglov murar mm - Inlagsby 1,
-gång- och cykelbana samt markförändring                                     Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
-Sammanfattning Fordon - kollision                          TE/2019:1021     Skadad brevlåda m.m. av kommunens sopbil.
+TE/2019:1019      Invånardialog angående hundrastgårdar
+
+TE/2019:737       Ansökan om bygglov murar mm - Inlagsby 1,
+Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
+TE/2019:1021      Skadad brevlåda m.m. av kommunens sopbil.
 Protector 738332
 
-(Byggnadsnämnden) dnr 2019-1035 Beslut om bygglov för      TE/2019:737      Ansökan om bygglov murar mm - Inlagsby 1,
-väderskydd Marklov- anläggande av p-platser samt anläggande av              Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
-kuperad park
-(Byggnadsnämnden) dnr 2019-1041 Beslut om bygglov för Marklov- 2019-09-23 TE/2019:737 Ansökan om bygglov murar mm - Inlagsby 1,
-anläggande av p-platser                                                     Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
+TE/2019:737       Ansökan om bygglov murar mm - Inlagsby 1,
+Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
 
-Trafikverkets yttrande                                     TE/2019:1011     Ansökan från Gundals Åkeri gällande transportdispens
-Beslut om transportdispens                                 TE/2019:1011
+TE/2019:737       Ansökan om bygglov murar mm - Inlagsby 1,
+Inlagsgärde 1, Kungsbacka 4:6, Kungsbacka 4:65
 
-Yttrande-byggställning                  2019-09-12         TE/2019:957      Begäran om yttrande - Dnr A455.797/2019 gällande
+TE/2019:1011      Ansökan från Gundals Åkeri gällande transportdispens
+TE/2019:1011
+
+TE/2019:957       Begäran om yttrande - Dnr A455.797/2019 gällande
 byggställning, inhägnat område
 
-Yttrande-uppställning billift           2019-09-13         TE/2019:973      Begäran om yttrande i ärende A453.155/2019 -
+TE/2019:973       Begäran om yttrande i ärende A453.155/2019 -
 Angående uppställning billift
 
 <!-- sida 53 -->
 
-Yttrande-Byggställning                  2019-09-16         TE/2019:993      Begäran om yttrande i ärende A462.526/2019 -
-Angående byggställning
-NTE protokoll 2019-09-18                2019-09-23         NTE/2019-09-18
+Yttrande-Byggställning                  2019-09-16
 
-KF §120 Sammanträdesdagar 2020 för kommunfullmäktige 2019-09-19 TE/2019:1035 Sammanträdesdagar för kommunfullmäktige 2020
+NTE protokoll 2019-09-18                2019-09-23
+KF §120 Sammanträdesdagar 2020 för kommunfullmäktige 2019-09-19
 
-KSAU §291 Remittering av motion från Maria Rasmussen (V) m.fl. om 2019-09-23 TE/2019:1036 Motion – Införa progressiva vattenavgifter
+KSAU §291 Remittering av motion från Maria Rasmussen (V) m.fl. om 2019-09-23
 progressiva vattenavgifter
-Beslut från Byggnadsnämnden Tölö 6:14                      TE/2019:427      Siktärenden - Smidesvägen
+Beslut från Byggnadsnämnden Tölö 6:14
 
-Synpunkter Avfallsplan 2021-2030        2019-09-24         TE/2019:443      Samråd och utställning av Göteborgsregionen minskar
+Synpunkter Avfallsplan 2021-2030        2019-09-24
+
+Mail från kommunen - Vattenkvalitet Nälleviksvägen 73 Vallda 2019-09-20
+
+Pågrävd fiber Lerbergsvägen             2019-09-24
+
+Beslut om läsrättigheter för G:// hos samtliga förvaltningar 2019-09-18
+KF §111 Anmälan av motion från Maria Rasmussen (V) m.fl. om 2019-09-23
+progressiva vattenavgifter
+
+Begäran om yttrande - Motion om att införa progressiva
+vattenavgifter (KS2019564)
+(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-24
+slamtömning, Smedsgärde 1:11, 2019/2125-13
+
+(Samhällsbyggnadskontoret) Följebrev
+
+(Miljö- & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-20
+slamtömning, Hjälmared 3:23, dnr 2018/2087-9
+
+(Trafikverket) Begäran om yttrande om tung och bred transport TRV 2019-09-24
+2019/105118
+(Miljö- & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-20
+slamtömning , Ysby 3:11 dnr 2017/1600-9
+
+(Polisen) Yttrande - Lokala trafikföreskrifter parkering för
+rörelsehindrad och på- & avstigningsplats vid Hede station
+(Polisen) Yttrande gällande Ansökan om 30 km/h Ekås samfällighet 2019-09-20
+
+TE/2019:993       Begäran om yttrande i ärende A462.526/2019 -
+Angående byggställning
+
+NTE/2019-09-18
+TE/2019:1035      Sammanträdesdagar för kommunfullmäktige 2020
+
+TE/2019:1036      Motion – Införa progressiva vattenavgifter
+
+TE/2019:427       Siktärenden - Smidesvägen
+
+TE/2019:443       Samråd och utställning av Göteborgsregionen minskar
 avfallet - Avfallsplan till 2030
-Mail från kommunen - Vattenkvalitet Nälleviksvägen 73 Vallda 2019-09-20 TE/2019:1007 Eventuell skadeståndsbegäran - vattenproblem efter
+
+TE/2019:1007      Eventuell skadeståndsbegäran - vattenproblem efter
 sprängning på Nälleviksvägen 73 Vallda
 
-Pågrävd fiber Lerbergsvägen             2019-09-24         TE/2019:1033     Pågrävd fiber Lerbergsvägen, av Vattenfall
-Beslut om läsrättigheter för G:// hos samtliga förvaltningar 2019-09-18 TE/2019:1034 Beslut om läsrättigheter för G:// inför avveckling G://
+TE/2019:1033      Pågrävd fiber Lerbergsvägen, av Vattenfall
 
-KF §111 Anmälan av motion från Maria Rasmussen (V) m.fl. om 2019-09-23 TE/2019:1036 Motion – Införa progressiva vattenavgifter
-progressiva vattenavgifter
+TE/2019:1034      Beslut om läsrättigheter för G:// inför avveckling G://
+TE/2019:1036      Motion – Införa progressiva vattenavgifter
 
-Begäran om yttrande - Motion om att införa progressiva     TE/2019:1036
-vattenavgifter (KS2019564)
-(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-24 TE/2019:734 Remiss - Dnr 2019/2125-7 angående enskild
-slamtömning, Smedsgärde 1:11, 2019/2125-13                                  avloppsanläggning – Smedsgärde 1:11
+TE/2019:1036
 
-(Samhällsbyggnadskontoret) Följebrev                       TE/2019:1037     Granskningsutskick - detaljplan för del av Hede
+TE/2019:734       Remiss - Dnr 2019/2125-7 angående enskild
+avloppsanläggning – Smedsgärde 1:11
+
+TE/2019:1037      Granskningsutskick - detaljplan för del av Hede
 3:122, verksamhetsområde
-(Miljö- & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-20 TE/2019:1027 Anlagd enskild avloppsanläggning med slamtömning,
-slamtömning, Hjälmared 3:23, dnr 2018/2087-9                                Hjälmared 3:23, dnr 2018/2087-9
+TE/2019:1027      Anlagd enskild avloppsanläggning med slamtömning,
+Hjälmared 3:23, dnr 2018/2087-9
 
-(Trafikverket) Begäran om yttrande om tung och bred transport TRV 2019-09-24 TE/2019:1030 Begäran om yttrande om tung och bred transport
-2019/105118                                                                 TRV 2019/105118
-(Miljö- & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-20 TE/2019:1028 Anlagd enskild avloppsanläggning med slamtömning ,
-slamtömning , Ysby 3:11 dnr 2017/1600-9                                     Ysby 3:11, dnr 2017/1600-9
+TE/2019:1030      Begäran om yttrande om tung och bred transport
+TRV 2019/105118
+TE/2019:1028      Anlagd enskild avloppsanläggning med slamtömning ,
+Ysby 3:11, dnr 2017/1600-9
 
-(Polisen) Yttrande - Lokala trafikföreskrifter parkering för TE/2019:968    Lokala trafikföreskrifter parkering för rörelsehindrad
-rörelsehindrad och på- & avstigningsplats vid Hede station                  och på- & avstigningsplats vid Hede station
-(Polisen) Yttrande gällande Ansökan om 30 km/h Ekås samfällighet 2019-09-20 TE/2019:912 Ansökan om 30 km/h Ekås samfällighet
+TE/2019:968       Lokala trafikföreskrifter parkering för rörelsehindrad
+och på- & avstigningsplats vid Hede station
+TE/2019:912       Ansökan om 30 km/h Ekås samfällighet
 
 <!-- sida 54 -->
 
-(Miljö & Hälsoskydd) Beslut - Anlagd enskild avloppsanläggning med 2019-09-19 TE/2019:1024 Anlagd enskild avloppsanläggning med slamtömning
-slamtömning och hämtning av filtermaterial dnr 2018/3726-19 -               och hämtning av filtermaterial dnr 2018/3726-19 -
-Onsala-Underliden 1:13                                                      Onsala-Underliden 1:13
-(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-24 TE/2019:1032 Anlagd enskild avloppsanläggning med slamtömning,
-slamtömning, Ubbhult 4:19, dnr 2016/3134-16                                 Ubbhult 4:19, dnr 2016/3134-16
+(Miljö & Hälsoskydd) Beslut - Anlagd enskild avloppsanläggning med 2019-09-19
+slamtömning och hämtning av filtermaterial dnr 2018/3726-19 -
+Onsala-Underliden 1:13
+(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med 2019-09-24
+slamtömning, Ubbhult 4:19, dnr 2016/3134-16
 
-Remiss till polisen om lokala trafikföreskrifter vid Hede station 2019-09-12 TE/2019:968 Lokala trafikföreskrifter parkering för rörelsehindrad
+Remiss till polisen om lokala trafikföreskrifter vid Hede station 2019-09-12
+
+Initiativyrkande från Monica Neptun (L) och Birgitta Gustafsson (L) 2019-09-17
+gällande offentlig toalett vid temaparken
+
+Delegeringsbeslut juni, juli augusti 2019 - Väg och trafik 2019-09-12
+Bildspel Planprogram södra porten       2019-09-24
+
+Yttrande om transportdispens
+
+Information som Förstudie Dagvattenavgift 2019-09-23
+
+Beslut på Hemställan om omprövning av beslut om anslutning av 2019-09-20
+tryckavlopp till det kommunala nätet Iserås 5:87
+
+(Miljö & Hälsa) Föreläggande 2019-07-16 2019-09-24
+
+(Miljö & Hälsa) Yttrande från klagande 190708 2019-09-24
+
+(Miljö & Hälsa) Bullerutredning
+
+Slutrapport_2                           2019-07-09
+
+(Byggnadsförvaltningen) Bygglov är beviljat dnr 2019-1055 2019-09-25
+
+(Miljö & Hälsa) Information/påminnelse om redovisning till Miljö o 2019-09-24
+Hälsa
+
+(Byggnadsförvaltningen) Beslut om bygglov för skylt dnr 2019-1055 2019-09-25
+
+TE/2019:1024      Anlagd enskild avloppsanläggning med slamtömning
+och hämtning av filtermaterial dnr 2018/3726-19 -
+Onsala-Underliden 1:13
+TE/2019:1032      Anlagd enskild avloppsanläggning med slamtömning,
+Ubbhult 4:19, dnr 2016/3134-16
+
+TE/2019:968       Lokala trafikföreskrifter parkering för rörelsehindrad
 och på- & avstigningsplats vid Hede station
-Initiativyrkande från Monica Neptun (L) och Birgitta Gustafsson (L) 2019-09-17 TE/2019:999 Initiativyrkande från Monica Neptun (L) och Birgitta
-gällande offentlig toalett vid temaparken                                   Gustafsson (L) gällande offentlig toalett vid
+TE/2019:999       Initiativyrkande från Monica Neptun (L) och Birgitta
+Gustafsson (L) gällande offentlig toalett vid
 temaparken
-Delegeringsbeslut juni, juli augusti 2019 - Väg och trafik 2019-09-12 TE/2019:3 Delegeringsbeslut väg- och trafik 2019
 
-Bildspel Planprogram södra porten       2019-09-24         TE/2019:622      Samrådsutskick - Planprogram för Södra Porten i
+TE/2019:3         Delegeringsbeslut väg- och trafik 2019
+TE/2019:622       Samrådsutskick - Planprogram för Södra Porten i
 Kungsbacka kommun, KS/2014:455
 
-Yttrande om transportdispens                               TE/2019:1030     Begäran om yttrande om tung och bred transport
+TE/2019:1030      Begäran om yttrande om tung och bred transport
 TRV 2019/105118
-Information som Förstudie Dagvattenavgift 2019-09-23       TE/2019:983      Förstudie dagvattentaxa
+TE/2019:983       Förstudie dagvattentaxa
 
-Beslut på Hemställan om omprövning av beslut om anslutning av 2019-09-20 TE/2019:920 Hemställan om omprövning av beslut om anslutning
-tryckavlopp till det kommunala nätet Iserås 5:87                            av tryckavlopp till det kommunala nätet Iserås 5:87
-(Miljö & Hälsa) Föreläggande 2019-07-16 2019-09-24         TE/2017:143      Överklagande av Miljö- och hälsoskydds
+TE/2019:920       Hemställan om omprövning av beslut om anslutning
+av tryckavlopp till det kommunala nätet Iserås 5:87
+
+TE/2017:143       Överklagande av Miljö- och hälsoskydds
 delegationsbeslut 1253/2016-44-36 om åtgärder för
 trafikbuller - Tölö ängar 1
-
-(Miljö & Hälsa) Yttrande från klagande 190708 2019-09-24   TE/2017:143      Överklagande av Miljö- och hälsoskydds
+TE/2017:143       Överklagande av Miljö- och hälsoskydds
 delegationsbeslut 1253/2016-44-36 om åtgärder för
 trafikbuller - Tölö ängar 1
-(Miljö & Hälsa) Bullerutredning                            TE/2017:143
+TE/2017:143
 
-Slutrapport_2                           2019-07-09         TE/2017:468      Statlig medfinansiering till Framkomlighets- och
+TE/2017:468       Statlig medfinansiering till Framkomlighets- och
 trafiksäkerhetsåtgärder på huvudcykelnätet
-(Byggnadsförvaltningen) Bygglov är beviljat dnr 2019-1055 2019-09-25 TE/2019:1043 Beslut om bygglov för skylt dnr 2019-1055
+TE/2019:1043      Beslut om bygglov för skylt dnr 2019-1055
 
-(Miljö & Hälsa) Information/påminnelse om redovisning till Miljö o 2019-09-24 TE/2017:143 Överklagande av Miljö- och hälsoskydds
-Hälsa                                                                       delegationsbeslut 1253/2016-44-36 om åtgärder för
+TE/2017:143       Överklagande av Miljö- och hälsoskydds
+delegationsbeslut 1253/2016-44-36 om åtgärder för
 trafikbuller - Tölö ängar 1
-(Byggnadsförvaltningen) Beslut om bygglov för skylt dnr 2019-1055 2019-09-25 TE/2019:1043 Beslut om bygglov för skylt dnr 2019-1055
+TE/2019:1043      Beslut om bygglov för skylt dnr 2019-1055
 
 <!-- sida 55 -->
 
-(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten 2019-09-24 TE/2019:1039 Beslut - Föreläggande att ansluta avloppsvatten till
-till det kommunala VA-nätet - Kyvik 2:49                                    det kommunala VA-nätet - Kyvik 2:49
+(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten 2019-09-24
+till det kommunala VA-nätet - Kyvik 2:49
 
-(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten TE/2019:1040 Beslut - Föreläggande att ansluta avloppsvatten till
-till det kommunala VA-nätet - Kyvik 2:82                                    det kommunala VA-nätet - Kyvik 2:82
+(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten
+till det kommunala VA-nätet - Kyvik 2:82
 
-(Peab Anläggning AB) Mail från Peab Anläggning AB gällande TE/2019:1038     Ansökan från Peab Anläggning AB gällande
-transportdispens                                                            transportdispens
-
-Beslut Delutbetalning Kungsbacka 2019   2019-09-25         TE/2017:468      Statlig medfinansiering till Framkomlighets- och
-trafiksäkerhetsåtgärder på huvudcykelnätet
-Beslut för transportdispens                                TE/2019:1038     Ansökan från Peab Anläggning AB gällande
+(Peab Anläggning AB) Mail från Peab Anläggning AB gällande
 transportdispens
+Beslut Delutbetalning Kungsbacka 2019   2019-09-25
 
-(Miljö & Hälsoskydd) Yttrande gällande ny avfallsplan för 2019-09-25 TE/2019:443 Samråd och utställning av Göteborgsregionen minskar
-Göteborgsregionen – Avfallsplan för tretton kommuner till 2030 dnr          avfallet - Avfallsplan till 2030
+Beslut för transportdispens
+
+(Miljö & Hälsoskydd) Yttrande gällande ny avfallsplan för 2019-09-25
+Göteborgsregionen – Avfallsplan för tretton kommuner till 2030 dnr
 2262/2019-3
-(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning TE/2019:1044 Remiss angående enskild avloppsanläggning
-Norrelund 2:2, dnr 2019/3287-4                                              Norrelund 2:2, dnr 2019/3287-4
 
-(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning TE/2019:1045 Remiss angående enskild avloppsanläggning Apelröd
-Apelröd 1:3, dnr 2019/3260-8                                                1:3, dnr 2019/3260-8
-(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning – TE/2019:1046 Remiss angående enskild avloppsanläggning –
-Nolgärde 1:1, dnr 2018/1057-15                                              Nolgärde 1:1, dnr 2018/1057-15
+(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning
+Norrelund 2:2, dnr 2019/3287-4
+(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning
+Apelröd 1:3, dnr 2019/3260-8
 
-(Miljö & Hälsoskydd) Protokollutdrag Yttrande gällande ny avfallsplan TE/2019:443 Samråd och utställning av Göteborgsregionen minskar
-för Göteborgsregionen – Avfallsplan för tretton kommuner till 2030          avfallet - Avfallsplan till 2030
-(Länsstyrelsen) Beslut om avslag - Tillstånd för bergtäkt - Dal 1:1, 2019-09-26 TE/2019:419 Remiss dnr 551-8518-17 angående tillstånd för
-17:1, 17:2, 17:3 och 17:4 samt Björkhagen 1:1                               bergtäkt - Dal 1:1, 17:1, 17:2, 17:3 och 17:4 samt
+(Miljö & Hälsoskydd) Remiss angående enskild avloppsanläggning –
+Nolgärde 1:1, dnr 2018/1057-15
+(Miljö & Hälsoskydd) Protokollutdrag Yttrande gällande ny avfallsplan
+för Göteborgsregionen – Avfallsplan för tretton kommuner till 2030
+
+(Länsstyrelsen) Beslut om avslag - Tillstånd för bergtäkt - Dal 1:1, 2019-09-26
+17:1, 17:2, 17:3 och 17:4 samt Björkhagen 1:1
+
+Bekräftelsebrev till skadelidande
+
+TEAU kallelse 2019-09-30
+
+(Länsstyrelsen) Beslut i Överklagande av avslag gällande 2019-09-24
+parkeringstillstånd för rörelsehindrad
+
+(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten 2019-09-27
+till det kommunala VA-nätet - Lannekulla 20:5
+
+TE/2019:1039      Beslut - Föreläggande att ansluta avloppsvatten till
+det kommunala VA-nätet - Kyvik 2:49
+
+TE/2019:1040      Beslut - Föreläggande att ansluta avloppsvatten till
+det kommunala VA-nätet - Kyvik 2:82
+
+TE/2019:1038      Ansökan från Peab Anläggning AB gällande
+transportdispens
+TE/2017:468       Statlig medfinansiering till Framkomlighets- och
+trafiksäkerhetsåtgärder på huvudcykelnätet
+
+TE/2019:1038      Ansökan från Peab Anläggning AB gällande
+transportdispens
+TE/2019:443       Samråd och utställning av Göteborgsregionen minskar
+avfallet - Avfallsplan till 2030
+
+TE/2019:1044      Remiss angående enskild avloppsanläggning
+Norrelund 2:2, dnr 2019/3287-4
+TE/2019:1045      Remiss angående enskild avloppsanläggning Apelröd
+1:3, dnr 2019/3260-8
+
+TE/2019:1046      Remiss angående enskild avloppsanläggning –
+Nolgärde 1:1, dnr 2018/1057-15
+TE/2019:443       Samråd och utställning av Göteborgsregionen minskar
+avfallet - Avfallsplan till 2030
+
+TE/2019:419       Remiss dnr 551-8518-17 angående tillstånd för
+bergtäkt - Dal 1:1, 17:1, 17:2, 17:3 och 17:4 samt
 Björkhagen 1:1
-
-Bekräftelsebrev till skadelidande                          TE/2019:475      Begäran om skadestånd efter skada - Oliven 7,
+TE/2019:475       Begäran om skadestånd efter skada - Oliven 7,
 Astergatan 2
-TEAU kallelse 2019-09-30                                   TEAU/2019-09-30
+TEAU/2019-09-30
 
-(Länsstyrelsen) Beslut i Överklagande av avslag gällande 2019-09-24 TE/2019:825 Överklagande av avslag gällande parkeringstillstånd
-parkeringstillstånd för rörelsehindrad                                      för rörelsehindrad
-(Miljö & Hälsoskydd) Beslut - Föreläggande att ansluta avloppsvatten 2019-09-27 TE/2019:1053 Föreläggande att ansluta avloppsvatten till det
-till det kommunala VA-nätet - Lannekulla 20:5                               kommunala VA-nätet - Lannekulla 20:5
+TE/2019:825       Överklagande av avslag gällande parkeringstillstånd
+för rörelsehindrad
+
+TE/2019:1053      Föreläggande att ansluta avloppsvatten till det
+kommunala VA-nätet - Lannekulla 20:5
 
 <!-- sida 56 -->
 
@@ -2090,85 +2294,113 @@ gällande Skördefest Tjolöholm
 <!-- sida 57 -->
 
 (Folksam) Skrivelse Nederbörd i Åsa - Baktrycksskada Åsa 4:127 2019-09-30 TE/2019:897 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-FF045918943S                                                                4:127 FF045918943S
-Redogörelse från arbetsledare                              TE/2019:811      Skadeanmälan - Stenskott på bil - Varla
-pendelparkering
+FF045918943S                                                                 4:127 FF045918943S
 
-(Folksam) Återkommer angående Nederbörd i Åsa - Åsa 5:220  TE/2019:922      Regress - Nederbörd i Åsa - Åsa 5:220 FF045912714S
+Redogörelse från arbetsledare                              TE/2019:811       Skadeanmälan - Stenskott på bil - Varla
+pendelparkering
+(Folksam) Återkommer angående Nederbörd i Åsa - Åsa 5:220  TE/2019:922       Regress - Nederbörd i Åsa - Åsa 5:220 FF045912714S
 FF045912714S
-servitutsavtal Ålgårdavägen 101                            TE/2019:315      Skördeförluster vid nedgrävning av bredband -
+
+servitutsavtal Ålgårdavägen 101                            TE/2019:315       Skördeförluster vid nedgrävning av bredband -
 Signekulla 1:2
 
-(Folksam) Besiktningsrapport Nederbörd i Åsa - Baktrycksskada Åsa TE/2019:894 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-4:135 FF045913076S                                                          4:135 FF045913076S
-(Lantmäteriet) Kallelse, Anläggningsförrättning N17679 berörande TE/2018:863 Anläggningsförrättning N17679 berörande Mossen
-Mossen 1:12, Gräppås 1:11 och Gräppås 1:4                                   1:12, Gräppås 1:11 och Gräppås 1:4
+(Folksam) Besiktningsrapport Nederbörd i Åsa - Baktrycksskada Åsa TE/2019:894
+4:135 FF045913076S
 
-(Länsstyrelsen) Beslut - Överklagande av beslut om 2019-09-27 TE/2019:365   Överklagande av beslut om parkeringstillstånd för
-parkeringstillstånd för rörelsehindrad                                      rörelsehindrad
+(Lantmäteriet) Kallelse, Anläggningsförrättning N17679 berörande TE/2018:863
+Mossen 1:12, Gräppås 1:11 och Gräppås 1:4
+(Länsstyrelsen) Beslut - Överklagande av beslut om 2019-09-27 TE/2019:365
+parkeringstillstånd för rörelsehindrad
+
+Regress - Nederbörd i Åsa - Baktrycksskada Åsa
+4:135 FF045913076S
+
+Anläggningsförrättning N17679 berörande Mossen
+1:12, Gräppås 1:11 och Gräppås 1:4
+Överklagande av beslut om parkeringstillstånd för
+rörelsehindrad
+
 (Folksam) Besiktningsrapport gällande Nederbörd i Åsa - Åsa 5:220 2019-09-30 TE/2019:922 Regress - Nederbörd i Åsa - Åsa 5:220 FF045912714S
 FF045912714S
 
-(Folksam) Besiktningsrapport del2 (s. 25-44) Baktrycksskada Åsa TE/2019:898 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-4:123 FF045913092S                                                          4:123 FF045913092S
+(Folksam) Besiktningsrapport del2 (s. 25-44) Baktrycksskada Åsa TE/2019:898  Regress - Nederbörd i Åsa - Baktrycksskada Åsa
+4:123 FF045913092S                                                           4:123 FF045913092S
 (Länsstyrelsen) Överklagande av Länsstyrelsens beslut 258-6820-19 2019-09-27 TE/2019:703 Överklagande gällande parkeringstillstånd för
 rörelsehindrad
 
 (Folksam) Besiktningsrapport del 1 (s. 1-25) - Nederbörd i Åsa - 2019-09-30 TE/2019:897 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-Baktrycksskada Åsa 4:127 FF045918943S                                       4:127 FF045918943S
-(Folksam) Besiktningsrapport del 3 (s. 45-55) Baktrycksskada Åsa TE/2019:898 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-4:123 FF045913092S                                                          4:123 FF045913092S
+Baktrycksskada Åsa 4:127 FF045918943S                                        4:127 FF045918943S
 
+(Folksam) Besiktningsrapport del 3 (s. 45-55) Baktrycksskada Åsa TE/2019:898 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
+4:123 FF045913092S                                                           4:123 FF045913092S
 (Folksam) Skrivelse gällande Nederbörd i Åsa - Baktrycksskada Åsa TE/2019:894 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-4:123 FF045913092S                                                          4:135 FF045913076S
+4:123 FF045913092S                                                           4:135 FF045913076S
 
 (Miljö & Hälsoskydd) Föreläggande att ansluta avloppsvatten till det 2019-09-27 TE/2019:1057 Beslut - Föreläggande att ansluta avloppsvatten till
-kommunala VA-nätet - Särö 1:427, dnr 2019/1714-8                            det kommunala VA-nätet - Särö 1:427, dnr
+kommunala VA-nätet - Särö 1:427, dnr 2019/1714-8                             det kommunala VA-nätet - Särö 1:427, dnr
 2019/1714-8
-Bilaga - Infoblad skördefest                               TE/2019:1022     Begäran om yttrande i ärende A489.355/2019
+Bilaga - Infoblad skördefest                               TE/2019:1022      Begäran om yttrande i ärende A489.355/2019
 gällande Skördefest Tjolöholm
 (Folksam) Besiktningsrapport del 4 (s. 56-68) Baktrycksskada Åsa 2019-09-30 TE/2019:898 Regress - Nederbörd i Åsa - Baktrycksskada Åsa
-4:123 FF045913092S                                                          4:123 FF045913092S
+4:123 FF045913092S                                                           4:123 FF045913092S
 
 <!-- sida 58 -->
 
-(Folksam) Besiktningsrapport del1 (s. 1-24) Baktrycksskada Åsa TE/2019:898
+(Folksam) Besiktningsrapport del1 (s. 1-24) Baktrycksskada Åsa
 4:123 FF045913092S
-Yttrande-Skördefest Tjolöholm           2019-09-27         TE/2019:1022     Begäran om yttrande i ärende A489.355/2019
-gällande Skördefest Tjolöholm
 
-Bekräftelsebrev till anmälaren          2019-09-30         TE/2019:994      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+Yttrande-Skördefest Tjolöholm           2019-09-27
+
+Bekräftelsebrev till anmälaren          2019-09-30
+
+Bekräftelsebrev till skadelidande
+
+(Miljö & Hälsa) Klagomål störningar     2019-09-24
+
+Svarsskrivelse från Magnus Hellman      2019-10-01
+
+Skrivelse ang stopp i dagvattnet på Maleviksskolan 2019-09-30
+
+Ansökan om uppsättande av parkeringshinder på Kyrkogatan
+
+TE/2019:898
+
+TE/2019:1022      Begäran om yttrande i ärende A489.355/2019
+gällande Skördefest Tjolöholm
+TE/2019:994       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning - ÅSA 4:160 Gästgiverivägen 25
-Bekräftelsebrev till skadelidande                          TE/2019:1054     Nederbörd i Åsa - Anmälan från fastighetsägare vid
+
+TE/2019:1054      Nederbörd i Åsa - Anmälan från fastighetsägare vid
 översvämning, Åsa 1:298, Åsa Bäckväg 95b,
 197632473
-
-(Miljö & Hälsa) Klagomål störningar     2019-09-24         TE/2019:1062     Klagomål angående belysning från lyktstolpe in i
+TE/2019:1062      Klagomål angående belysning från lyktstolpe in i
 vardagsrum
-Svarsskrivelse från Magnus Hellman      2019-10-01         TE/2019:989      Skrivelse angående kommunalt VA, Kyvik 5:230
+TE/2019:989       Skrivelse angående kommunalt VA, Kyvik 5:230
 
-Skrivelse ang stopp i dagvattnet på Maleviksskolan 2019-09-30 TE/2019:1063  Bristande avrinning med översvämningsskador i
+TE/2019:1063      Bristande avrinning med översvämningsskador i
 fastighet vid Maleviksskolan, Malevik 10:1
-Ansökan om uppsättande av parkeringshinder på Kyrkogatan   TE/2019:1061     Ansökan om parkeringshinder på Kyrkogatan
 
-(Räddningstjänsten Storgöteborg) Mailkorrespondens 2019-09-27 TE/2019:1064  Remissvar från Räddningstjänsten Storgöteborg
+TE/2019:1061      Ansökan om parkeringshinder på Kyrkogatan
+
+(Räddningstjänsten Storgöteborg) Mailkorrespondens 2019-09-27 TE/2019:1064   Remissvar från Räddningstjänsten Storgöteborg
 angående Svenskt Vattens publikation VAV P114, dnr
 A0426/19
 (Byggnadsförvaltningen) Begäran om yttrande i Vattenskyddsområde, 2019-09-10 TE/2019:930 Begäran om yttrande angående möjlighet till
-Äskatorp 21:3, 21:4 och 21:5                                                sophämtning Äskatorp 21:3, 21:4, 21:5 samt ansökan
+Äskatorp 21:3, 21:4 och 21:5                                                 sophämtning Äskatorp 21:3, 21:4, 21:5 samt ansökan
 om förhandsbesked i Vattenskyddsområde, dnr 2019-
 1209
-Mail från Miljö o Hälsa som påminner om att svara 2019-10-01 TE/2019:1062   Klagomål angående belysning från lyktstolpe in i
+
+Mail från Miljö o Hälsa som påminner om att svara 2019-10-01 TE/2019:1062    Klagomål angående belysning från lyktstolpe in i
+vardagsrum
+(Trafikverket) Remiss dnr TRV 2019/107312 gällande         TE/2019:1060      Remiss dnr TRV 2019/107312 gällande
+transportdispens                                                             transportdispens
+
+Klagomål till Miljö & Hälsa             2019-09-24         TE/2019:1062      Klagomål angående belysning från lyktstolpe in i
 vardagsrum
 
-(Trafikverket) Remiss dnr TRV 2019/107312 gällande         TE/2019:1060     Remiss dnr TRV 2019/107312 gällande
-transportdispens                                                            transportdispens
-
-Klagomål till Miljö & Hälsa             2019-09-24         TE/2019:1062     Klagomål angående belysning från lyktstolpe in i
-vardagsrum
 (Räddningstjänsten Storgöteborg) Remissvar från Räddningstjänsten 2019-09-27 TE/2019:1064 Remissvar från Räddningstjänsten Storgöteborg
-Storgöteborg angående Svenskt Vattens publikation VAV P114, dnr             angående Svenskt Vattens publikation VAV P114, dnr
-A0426/19                                                                    A0426/19
+Storgöteborg angående Svenskt Vattens publikation VAV P114, dnr              angående Svenskt Vattens publikation VAV P114, dnr
+A0426/19                                                                     A0426/19
 Skrivelse från Leif Telldén som bestrider dagvattenanslutningsavgift 2019-09-28 TE/2019:960 Bestridande dagvattenanslutning Bukärr 2:49
 
 <!-- sida 59 -->
@@ -2216,89 +2448,155 @@ TE/2019:895      Regress - Nederbörd i Åsa - Baktrycksskada Åsa
 
 <!-- sida 60 -->
 
-Bekräftelsebrev - ersättningsanspråket                     TE/2018:855      Begäran om skadestånd efter skada - Tujahäck Torpa
+Bekräftelsebrev - ersättningsanspråket
+
+Yttrande från teknik gällande enskild avloppsanläggning Norrelund 2019-09-26
+2:2, dnr 2019/3287-4
+
+Bekräftelsebrev till fastighetsägarna   2019-10-03
+
+Svarsbrev till fastighetsägare          2019-09-16
+
+Bekräftelsebrev till fastighetsägaren   2019-10-03
+
+Yttrande från Teknik angående enskild avloppsanläggning Apelröd 2019-09-26
+1:3, dnr 2019/3260-8
+
+Bekräftelsebrev till fastighetsägaren   2019-10-03
+
+Bekräftelsebrev till fastighetsägarna
+
+Bekräftelsebrev till fastighetägarna
+
+Bekräftelsebrev till fastighetsägarna
+
+Bekräftelsebrev till fastighetsägaren
+
+Yttrande från Teknik angående enskild avloppsanläggning – Nolgärde 2019-09-26
+1:1, dnr 2018/1057-15
+
+Självriskbeloppet från skadelidande     2019-10-04
+
+Bekräftelsebrev till fastighetsägare
+
+TE/2018:855       Begäran om skadestånd efter skada - Tujahäck Torpa
 4:12
 
-Yttrande från teknik gällande enskild avloppsanläggning Norrelund 2019-09-26 TE/2019:1044 Remiss angående enskild avloppsanläggning
-2:2, dnr 2019/3287-4                                                        Norrelund 2:2, dnr 2019/3287-4
+TE/2019:1044      Remiss angående enskild avloppsanläggning
+Norrelund 2:2, dnr 2019/3287-4
 
-Bekräftelsebrev till fastighetsägarna   2019-10-03         TE/2019:961       Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:961       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning ÅSA 4:135
-Svarsbrev till fastighetsägare          2019-09-16         TE/2019:992      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:992       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning - ÅSA 4:125, Åsa Gärdesväg 9
 
-Bekräftelsebrev till fastighetsägaren   2019-10-03         TE/2019:966      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:966       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning - Åsa 4:136, Åsa gärdesväg 2
-Yttrande från Teknik angående enskild avloppsanläggning Apelröd 2019-09-26 TE/2019:1045 Remiss angående enskild avloppsanläggning Apelröd
-1:3, dnr 2019/3260-8                                                        1:3, dnr 2019/3260-8
+TE/2019:1045      Remiss angående enskild avloppsanläggning Apelröd
+1:3, dnr 2019/3260-8
 
-Bekräftelsebrev till fastighetsägaren   2019-10-03         TE/2019:969      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:969       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning - ÅSA 4:152 Gamla Kläppavägen
 3
-Bekräftelsebrev till fastighetsägarna                      TE/2019:934      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:934       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning Åsa 1:245
 
-Bekräftelsebrev till fastighetägarna                       TE/2019:931      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:931       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning Åsa 4:123
-Bekräftelsebrev till fastighetsägarna                      TE/2019:943      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:943       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning Åsa 4:126 FF0459130015
 
-Bekräftelsebrev till fastighetsägaren                      TE/2019:1055     Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:1055      Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning, Åsa 4:127, Åsa stationsväg 19,
 FF0459189435
-Yttrande från Teknik angående enskild avloppsanläggning – Nolgärde 2019-09-26 TE/2019:1046 Remiss angående enskild avloppsanläggning –
-1:1, dnr 2018/1057-15                                                       Nolgärde 1:1, dnr 2018/1057-15
+TE/2019:1046      Remiss angående enskild avloppsanläggning –
+Nolgärde 1:1, dnr 2018/1057-15
 
-Självriskbeloppet från skadelidande     2019-10-04         TE/2019:475      Begäran om skadestånd efter skada - Oliven 7,
+TE/2019:475       Begäran om skadestånd efter skada - Oliven 7,
 Astergatan 2
-Bekräftelsebrev till fastighetsägare                       TE/2019:963      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:963       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning ÅSA 4:128
 
-TE/2019:991      Nederbörd i Åsa - Anmälan från fastighetsägare vid
+TE/2019:991       Nederbörd i Åsa - Anmälan från fastighetsägare vid
 källaröversvämning Åsa 5:222 - Åsa Bäckväg 65
 
 <!-- sida 61 -->
 
-TE/2019:944      Nederbörd i Åsa - Anmälan från fastighetsägare vid
-källaröversvämning Åsa 5:254
-Bekräftelsebrev till Samfällighetsförening 2019-10-04      TE/2019:925      Nederbörd i Åsa - Skadeståndsanmälan från
-fastighetsägare vid garageöversvämning - Åsa 1:218
+Bekräftelsebrev till Samfällighetsförening 2019-10-04
 
-(Miljö & Hälsoskydd) Mail - Anmälan om ändring av 2019-10-07 TE/2019:1080   Anlagd enskild avloppsanläggning med slamtömning,
-avloppsanläggning - Söstared 17                                             Söstared 1:7, dnr 2011/2638-14
-KS §225 Antagande av förslag till klassificeringsstruktur för 2019-09-30 TE/2019:1079 Klassificeringsstruktur för kommungemensamma
-kommungemensamma stödprocesser                                              stödprocesser och ledningsprocesser samt
-kommunstyrelsens kärnverksamhet
+(Miljö & Hälsoskydd) Mail - Anmälan om ändring av 2019-10-07
+avloppsanläggning - Söstared 17
+KS §225 Antagande av förslag till klassificeringsstruktur för 2019-09-30
+kommungemensamma stödprocesser
 
-KS §226 Antagande av förslag till klassificeringsstruktur för TE/2019:1079
+KS §226 Antagande av förslag till klassificeringsstruktur för
 kommungemensamma ledningsprocesser
-KS §227 Antagande av förslag till klassificeringsstruktur för TE/2019:1079
-kommunstyrelsens kärnverksamhet
 
-Mail angående Dagvattenledning anlagd 2013 Strannegården 1:89 2019-10-06 TE/2019:1077 DAGVATTENLEDNING anlagd 2013 Strannegården
+KS §227 Antagande av förslag till klassificeringsstruktur för
+kommunstyrelsens kärnverksamhet
+Mail angående Dagvattenledning anlagd 2013 Strannegården 1:89 2019-10-06
+
+(Polisen) Remiss - Begäran om yttrande i ärende A504.480/2019 2019-10-07
+
+Mail till skadelidande om att inkomma med specificerat
+ersättningskrav
+
+(Polisen) Begäran om yttrande i ärende A508.446/2019 - Kungsbacka
+4:6, Lindens gata
+(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med
+slamtömning, Söstared 1:7, dnr 2011/2638-14
+
+(KS) Protokollsutdrag - Godkännande av planprogram för Nordöstra 2019-09-30
+Kungsbacka
+Tekniks avslut                          2019-10-07
+
+(Lantmäteriet) Kallelse till Lantmäterisammanträde N1990 - 2019-10-08
+Ledningsförrättning berörande Hanhals 14:1 m fl
+
+(Transportstyrelsen) Överklagande av Länsstyrelsens beslut, TSV
+2019-5144, 258-5020-19
+(Trafikverket) Remiss dnr TRV 2019/110755 gällande
+transportdispens
+
+TE/2019:944       Nederbörd i Åsa - Anmälan från fastighetsägare vid
+källaröversvämning Åsa 5:254
+
+TE/2019:925       Nederbörd i Åsa - Skadeståndsanmälan från
+fastighetsägare vid garageöversvämning - Åsa 1:218
+TE/2019:1080      Anlagd enskild avloppsanläggning med slamtömning,
+Söstared 1:7, dnr 2011/2638-14
+
+TE/2019:1079      Klassificeringsstruktur för kommungemensamma
+stödprocesser och ledningsprocesser samt
+kommunstyrelsens kärnverksamhet
+TE/2019:1079
+
+TE/2019:1079
+
+TE/2019:1077      DAGVATTENLEDNING anlagd 2013 Strannegården
 1:89
-(Polisen) Remiss - Begäran om yttrande i ärende A504.480/2019 2019-10-07 TE/2019:1076 Begäran om yttrande i ärende A504.480/2019 -
+TE/2019:1076      Begäran om yttrande i ärende A504.480/2019 -
 Angående pålning Kungsbacka parkeringshus
 
-Mail till skadelidande om att inkomma med specificerat     TE/2019:170      Anmälan om översvämning - Bratterås 1:175
-ersättningskrav
-(Polisen) Begäran om yttrande i ärende A508.446/2019 - Kungsbacka TE/2019:1078 Begäran om yttrande i ärende A508.446/2019 -
-4:6, Lindens gata                                                           Kungsbacka 4:6, Lindens gata
+TE/2019:170       Anmälan om översvämning - Bratterås 1:175
 
-(Miljö & Hälsoskydd) Anlagd enskild avloppsanläggning med  TE/2019:1080     Anlagd enskild avloppsanläggning med slamtömning,
-slamtömning, Söstared 1:7, dnr 2011/2638-14                                 Söstared 1:7, dnr 2011/2638-14
-(KS) Protokollsutdrag - Godkännande av planprogram för Nordöstra 2019-09-30 TE/2018:299 (Kommunstyrelsen) SAMRÅDSUTSKICK planprogram
-Kungsbacka                                                                  för nordöstra Kungsbacka stad
+TE/2019:1078      Begäran om yttrande i ärende A508.446/2019 -
+Kungsbacka 4:6, Lindens gata
 
-Tekniks avslut                          2019-10-07         TE/2019:927      Siktärenden – Blandade adresser 27 augusti
+TE/2019:1080      Anlagd enskild avloppsanläggning med slamtömning,
+Söstared 1:7, dnr 2011/2638-14
+TE/2018:299       (Kommunstyrelsen) SAMRÅDSUTSKICK planprogram
+för nordöstra Kungsbacka stad
 
-(Lantmäteriet) Kallelse till Lantmäterisammanträde N1990 - 2019-10-08 TE/2019:1082 Kallelse till Lantmäterisammanträde N1990 -
-Ledningsförrättning berörande Hanhals 14:1 m fl                             Ledningsförrättning berörande Hanhals 14:1 m fl
-(Transportstyrelsen) Överklagande av Länsstyrelsens beslut, TSV TE/2019:703 Överklagande gällande parkeringstillstånd för
-2019-5144, 258-5020-19                                                      rörelsehindrad
+TE/2019:927       Siktärenden – Blandade adresser 27 augusti
 
-(Trafikverket) Remiss dnr TRV 2019/110755 gällande         TE/2019:1081     Remiss dnr TRV 2019/110755 gällande
-transportdispens                                                            transportdispens
+TE/2019:1082      Kallelse till Lantmäterisammanträde N1990 -
+Ledningsförrättning berörande Hanhals 14:1 m fl
+TE/2019:703       Överklagande gällande parkeringstillstånd för
+rörelsehindrad
+
+TE/2019:1081      Remiss dnr TRV 2019/110755 gällande
+transportdispens
 
 <!-- sida 62 -->
 
@@ -2314,25 +2612,15 @@ fastighetsägare vid källaröversvämning - Åsa 4:121
 
 DELEGERINGSBESLUT
 
-Teknik                                                       Kungsbacka kommun
-Sara Johansson                                                434 81 Kungsbacka
-Direkt //HandläggareTelefon/
-Besöksadress
-(e-post borttagen)                                Stadshuset, Storgatan 37
-Telefon 0300-83 40 00
-(e-post borttagen)
-www.kungsbacka.se
-52-11-5002
-,0.1
-v 001BUK
-mroFinu
 1 (1)
 Datum
 2019-10-03
 Dnr
 TE/2019:3
+
 TE/2019 § 104
 Delegeringsbeslut september 2019-Väg och trafik
+
 4.6               2019-09-05 1384 2019-00309 Kyrkogatan
 4.6               2019-09-05 1384 2019-00310 Kyrkogatan
 Parkeringen
@@ -2341,8 +2629,21 @@ Parkeringen
 4.6               2019-09-12 1384 2019-00313 Bengtsgårdsgatan
 4.4               2019-09-13 1384 2019-00314 Västergatan
 4.4               2019-09-13 1384 2019-00315 Ejdern
+
 4.6               2019-09-16 1384 2019-00316 Skolgatan
 4.4               2019-09-19 1384 2019-00318 Storgatan
+
+Teknik                                                       Kungsbacka kommun
+Sara Johansson                                                434 81 Kungsbacka
+Direkt //HandläggareTelefon/
+Besöksadress
+(e-post borttagen)
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
+(e-post borttagen)
+www.kungsbacka.se
+
+uniForm KUB100 v 1.0, 2005-11-25
 
 <!-- sida 64 -->
 

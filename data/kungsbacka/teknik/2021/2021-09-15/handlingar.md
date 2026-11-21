@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20220319192530id_/https://www.kungsbacka.
 sha256: a34fe660ada823d782b7d4732cafbeb964337ebc7b43cb9a927176c51bf02867
 bytes: 3503811
 sidor: 55
-hamtad: 2026-11-17T03:53:58+00:00
-konverterad: 2026-11-17T03:54:12+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T00:34:23+00:00
+konverterad: 2026-11-21T00:34:47+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok]
 tal_obekraftade: []
-figurer: [2, 3, 14, 40]
+figurer: [2, 3, 14]
 tolkade: []
 granskad: null
 ---
@@ -402,27 +402,7 @@ påverkas den offentliga miljön runt om bygget, men det är också viktigt att 
 säker. Arbetet görs bland annat genom att följa upp godkända trafikanordningsplaner, följa upp att
 entreprenören genomför skyddsronder och rättar till eventuella brister/ anmärkningar. Arbetet har fortlöpt enligt
 plan och inga eventuella brister har lämnats därhän.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
 
-Bäst att leva, Kungsbackas placering i
-ranking av Sveriges kommuner enligt 24 15       5      3      <20
-Tidningen Fokus.
-Invånarnas helhetsbedömning av kommunen
-som en plats att bo och leva på. SCB:s
-72     68      69              \*
-medborgarundersökning, Nöjd Region-index,
-NRI, skala 0–100.
-Antal påbörjade bostäder               501     234            550
-Antal färdigställda bostäder           418     248            430
-Trygghetsindex för hur kommuninvånarna
-bedömer tryggheten (SCB:s       64     60      59              \*
-medborgarundersökning, skala 0-100)
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s
-66     66      65              \*
-medborgarundersökning, index i skala 0–
-100).
 2.2 En hållbar utveckling och en hälsosam miljö
 
 Beslutats av
@@ -446,6 +426,17 @@ om arbetet med att minska avfallet under nämndmålet "Kretslopp".
 
 5
 
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i<br>ranking av Sveriges kommuner enligt<br>Tidningen Fokus. | 24 | 15 | 5 | 3 | <20 |
+| Invånarnas helhetsbedömning av kommunen<br>som en plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index,<br>NRI, skala 0–100. | 72 | 68 | 69 |  | \* |
+| Antal påbörjade bostäder |  | 501 | 234 |  | 550 |
+| Antal färdigställda bostäder |  | 418 | 248 |  | 430 |
+| Trygghetsindex för hur kommuninvånarna<br>bedömer tryggheten (SCB:s<br>medborgarundersökning, skala 0-100) | 64 | 60 | 59 |  | \* |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–<br>100). | 66 | 66 | 65 |  | \* |
+
 <!-- sida 13 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -455,68 +446,30 @@ Det pågår i verksamheterna ett löpande arbete för att minska klimatpåverkan
 exempel bytt ut fyra gamla kylaggregat av totalt 40 stycken till nya med köldmedel som ger ett lägre Global
 warming potentialvärde.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges
-2,2                            1,9\*\*
-Ekokommuner) Värdet för 2018 publiceras
-under hösten 2020.
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 73   74      45              77
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-79%     73%     74%            99%
-(%) (Källa: Sveriges Ekokommuner)
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%            99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 427 354     328            340
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,17 0,14 0,1      0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 91% 89%    85%            90%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90% 88%       90%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 75% 73%    70%            80%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 88% 81%    84%            90%
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-58%     70%            71%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-
 6
+
+[Tabell 13-14-1](handlingar.tabeller/13-14-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) Värdet för 2018 publiceras<br>under hösten 2020. | 2,2 |  |  |  | 1,9\*\* |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 73 | 74 | 45 |  | 77 |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 79% | 73% | 74% |  | 99% |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 427 | 354 | 328 |  | 340 |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,17 | 0,14 | 0,1 |  | 0,1 |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 91% | 89% | 85% |  | 90% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 91% | 90% | 88% |  | 90% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 75% | 73% | 70% |  | 80% |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 88% | 81% | 84% |  | 90% |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. |  | 58% | 70% |  | 71% |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. |  | 61% | 80% |  | 81% |
 
 <!-- sida 14 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-61%     80%            81%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
 2.2.1 Kretslopp
 Beslutats av
 
@@ -564,27 +517,10 @@ För att minska kadmiumet i det ej kalkade avloppsslammet sker arbetet inom rame
 Revaq. Hittills i år har inga avvikande partier med slam upptäckts, vilket kan jämföras med att det vid samma
 tidpunkt i fjol upptäcktes två partier. Detta beror troligtvis på minskad mängd ovidkommande vatten.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Hushållsavfall, kg/person      458     486     515            424
-Andel hushållsavfall insamlat för
-materialåtervinning, inklusive biologisk 42% 38% 36%          44%
-behandling
-
-Andel som tas omhand för återanvändning av
-totalt insamlat grovavfall, inkl. sådant som
-27%
-lämnas till återanvändning i kommunens
-system.
-Utsläppen från de fyra större reningsverken
-ligger med god marginal (10% eller mer) Ja Ja  Ja              Ja
-under tillståndsgivna gränsvärden.
-Kadmium i ej kalkat avloppsslam
-Nej     Nej     Ja              Ja
-nedåtgående trend, 3 år
 Vid delåret finns inga indikatorer tillgängliga som visar på utvecklingen under året.
 Nämndens mål om kretslopp har haft en bättre måluppfyllelse vad gäller rening av avloppsvatten och avloppsslam än rörelsen uppåt i
 avfallstrappan med mindre avfall som följd. Det är grunden för nämndens prognos om att målet är på väg att uppnås.
+
 2.2.2 Infrastruktur
 
 Beslutats av
@@ -603,6 +539,16 @@ förändringarna går allt snabbare, med följder som mer extremt väder och st�
 mål om Infrastruktur båda påverkas av, och har möjlighet att påverka, effekter av klimatförändringarna.
 
 8
+
+[Tabell 15-1](handlingar.tabeller/15-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Hushållsavfall, kg/person | 458 | 486 | 515 |  | 424 |
+| Andel hushållsavfall insamlat för<br>materialåtervinning, inklusive biologisk<br>behandling | 42% | 38% | 36% |  | 44% |
+| Andel som tas omhand för återanvändning av<br>totalt insamlat grovavfall, inkl. sådant som<br>lämnas till återanvändning i kommunens<br>system. |  |  |  |  | 27% |
+| Utsläppen från de fyra större reningsverken<br>ligger med god marginal (10% eller mer)<br>under tillståndsgivna gränsvärden. | Ja | Ja | Ja |  | Ja |
+| Kadmium i ej kalkat avloppsslam<br>nedåtgående trend, 3 år | Nej | Nej | Ja |  | Ja |
 
 <!-- sida 16 -->
 
@@ -629,17 +575,6 @@ Förvaltningen försöker nyttja å-vatten till bevattning i större utsträckni
 pumphus vid Lindälvsskolan och Inlags fotbollsplaner. Målet är att åvatten används till 70% av behovet för att
 minska belastningen på dricksvattnet.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Andel bräddat avloppsvatten ska minska
-Andel rening av dagvatten från förorenade
-ytor efter avrinningsområde (GIS).
-Hållbarhetsindex (HBI) gul nivå 20-30%         60%            70%
-orenat dagvatten som släpps från förorenade
-ytor.
-Antal projekt där vi tagit specifik hänsyn till
-åtgärder som gynnar den biologiska              7
-mångfalden
 Vid delåret finns inga indikatorer tillgängliga som visar på utvecklingen under året.
 Tillskottsvatten kallas det vatten i avloppsnätet som inte är spillvatten utan kommer från nederbörd, grundvatten, hav och utläckage från
 vattenledningar. Läs mer under mål 2.2.3 "Energi".
@@ -661,6 +596,14 @@ produktion av dricksvatten och rening av avloppsvatten. De viktigaste åtgärder
 
 9
 
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Andel bräddat avloppsvatten ska minska |  |  |  |  |  |
+| Andel rening av dagvatten från förorenade<br>ytor efter avrinningsområde (GIS).<br>Hållbarhetsindex (HBI) gul nivå 20-30%<br>orenat dagvatten som släpps från förorenade<br>ytor. |  |  | 60% |  | 70% |
+| Antal projekt där vi tagit specifik hänsyn till<br>åtgärder som gynnar den biologiska<br>mångfalden |  |  | 7 |  |  |
+
 <!-- sida 17 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
@@ -672,13 +615,6 @@ kommer bidra till minskade energikostnader men också minskad risk för att avlo
 kraftig nederbörd med överfyllda pumpstationer som följd. Resultatet av genomförda åtgärder kommer följas
 upp årligen.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-kWh per renad m3 avloppsvatten ska minska 1,01 0,87 0,92       Ja
-
-Antal fastigheter som kontrollerats att de är
-562            500
-rätt kopplade på avloppsnätet
 Vid delåret finns inga indikatorer tillgängliga som visar på utvecklingen under året.
 
 2.2.4 Cykelkommun
@@ -718,24 +654,22 @@ med gott exempel.
 
 10
 
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| kWh per renad m3 avloppsvatten ska minska | 1,01 | 0,87 | 0,92 |  | Ja |
+| Antal fastigheter som kontrollerats att de är<br>rätt kopplade på avloppsnätet |  |  | 562 |  | 500 |
+
 <!-- sida 18 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Resor under 5 km som sker till fots eller med
-8%
-cykel (RVU)
-Invånare i Kungsbacka kommun som
-4%
-använder cykel för sina resor (RVU)
-Invånare i Kungsbacka stad som använder
-8,5%
-cykel för sina resor (RVU)
 Resvaneundersökning (RVU) genomförs enligt plan 2022, och därav kommer indikatorer ej publiceras för 2021.
+
 2.3 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
 
@@ -762,30 +696,28 @@ igenom vilka platser som används av foodtrucks och var fler sittbänkar kan st�
 utvärderas initiativet och under hösten beslutas hur man går vidare. Under senvåren bjöds även foodtrucks in till
 Teknikens hus för att kunna sälja mat till de som arbetar på Teknikens hus eller i närheten.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 63 62     62      66      70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-
 11
+
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Resor under 5 km som sker till fots eller med<br>cykel (RVU) |  |  |  |  | 8% |
+| Invånare i Kungsbacka kommun som<br>använder cykel för sina resor (RVU) |  |  |  |  | 4% |
+| Invånare i Kungsbacka stad som använder<br>cykel för sina resor (RVU) |  |  |  |  | 8,5% |
+
+[Tabell 18-19-2](handlingar.tabeller/18-19-2.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 63 | 62 | 62 | 66 | 70 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,2 | 3,4 | 3,3 |  | 3,6 |
 
 <!-- sida 19 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,2     3,4     3,3             3,6
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
 2.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -817,38 +749,22 @@ speciellt beakta. Internt planerar vi genomföra en workshop för att tydligare 
 barnperspektivet både inom och utanför enheten, till exempel genom att det tydligare följer med in i
 genomförandeskeden av projekt där enheten är delaktig.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-240     238     246            245
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 3% 2,2% 2,8%         2,8%
-SCB)
-
 12
+
+[Tabell 19-20-1](handlingar.tabeller/19-20-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 240 | 238 | 246 |  | 245 |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 3% | 2,2% | 2,8% |  | 2,8% |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. |  | 7,3 |  | 7,8 | 7,6 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,8 | 14 | 14,2 | 14 |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 73% | 78% | 82% |  | 90% |
 
 <!-- sida 20 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
-
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,3            7,8     7,6
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,8 14  14,2     14
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 73% 78% 82%  90%
-försörjningsstöd (%)
 
 2.5 Ett medskapande samhälle och öppen attityd
 
@@ -891,24 +807,6 @@ med hjälp av 3D-bilder, vilket kan underlätta arbetet för den som planerar gr
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Nöjd-inflytande index för hur
-kommuninvånarna bedömer möjligheterna till
-47     43      41              \*
-inflytande. (SCB:s medborgarundersökning,
-0-100).
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar. Ny indikator från och
-med år 2020
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 76 77,8           79
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 77 91      91              91
-nyckeltal med skala 1–20.
 2.5.1 Arbetsmiljö och ledarskap
 
 Beslutats av
@@ -940,20 +838,19 @@ att Kungsbacka kommun uppfattas som en attraktiv arbetsgivare.
 
 14
 
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Nöjd-inflytande index för hur<br>kommuninvånarna bedömer möjligheterna till<br>inflytande. (SCB:s medborgarundersökning,<br>0-100). | 47 | 43 | 41 |  | \* |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar. Ny indikator från och<br>med år 2020 |  |  |  |  |  |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 76 |  | 77,8 |  | 79 |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 77 | 91 | 91 |  | 91 |
+
 <!-- sida 22 -->
 
 Nämnden för Teknik                               Kungsbacka kommun
 Delårsrapport augusti 2021
-
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
-Motivation                                    79,38
-Ledarskap                                     81,31
-
-Sjukfrånvaron ska minska        Ja     Nej     Ja              Ja
-Antal anmälda tillbud ska öka   Ja     Ja      Nej             Ja
-
-Antal arbetsskador ska minska   Ja     Nej     Nej             Ja
 
 2.5.2 Marknadsföra och behålla
 Beslutats av
@@ -988,14 +885,27 @@ erbjuda interna karriärvägar.
 En annan viktig faktor för att trivas på jobbet är att vår arbetsplatskultur genomsyrar vår vardag.
 Arbetsplatskulturen hålls levande genom arbetsplatsträffar, utvecklings- och bedömningssamtal. Hur vi har det
 följs upp via dialog och enkäter.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2018    2019   2020    2021    2021
 
-Personalomsättning             7,8     7,1     11,7    5,1
 Notera att utfallet för personalomsättningen 2021 endast berör första halvåret medan utfall för 2018 - 2020 visar utfall per helår.
 Prognosen på helårsbasis är att indikatorn ligger på samma nivå som föregående års utfall.
 
 15
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Motivation |  |  | 79,38 |  |  |
+| Ledarskap |  |  | 81,31 |  |  |
+| Sjukfrånvaron ska minska | Ja | Nej | Ja |  | Ja |
+| Antal anmälda tillbud ska öka | Ja | Ja | Nej |  | Ja |
+| Antal arbetsskador ska minska | Ja | Nej | Nej |  | Ja |
+
+[Tabell 22-2](handlingar.tabeller/22-2.csv)
+
+| Indikatorer | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Målvärde<br>2021 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning | 7,8 | 7,1 | 11,7 | 5,1 |  |
 
 <!-- sida 23 -->
 
@@ -1150,46 +1060,32 @@ Pensionsavgångar                            6      4       0
 
 4.4 Effektmått
 
-Utfall dec Utfall dec Utfall dec
-Utfall jan-
-Namn                              2017-jun 2018-jun 2019-jun
-jun 2021
-
-```osaker-tabell
-                                    2018   2019    2020
-Frisknärvaro                       57,8%   71,9%   65,2%   71,5%
-Frisknärvaro Kvinnor               65,2%    70%    68,8%   77%
-Frisknärvaro Män                   52,9%   73,1%   63%     68%
-Korttidssjukfrånvaro                       2,2%    2,7%    2,3%
-Korttidssjukfrånvaro Kvinnor               2,4%    2,2%    1,9%
-
-Korttidssjukfrånvaro Män                   2,1%    2,9%    2,6%
-Långtidssjukfrånvaro                               3,6%    2,7%
-Långtidssjukfrånvaro Kvinnor                       3,9%    1,6%
-
-Långtidssjukfrånvaro Män            0,9%   3,5%    3,4%    3,4%
-Personalomsättning                  4,8%   4,3%    7,5%    5,1%
-Sjukfrånvaro Kvinnor                5,8%   5,3%    6,1%    3,4%
-
-Sjukfrånvaro Män                    3,7%   5,6%    6,4%    5,9%
-Sjukfrånvaro Totalt                 4,6%   5,5%    6,3%    4,9%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-22,4%   48,5%   46,7%   38,6%
-mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-47,4%   47,9%   31,8%
-mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller
-49,2%   46,1%   41%
-mer Män
-Sjukfrånvaro, anställda i åldrarna 29 år eller yngre 5,2%  3,8%
-Sjukfrånvaro, anställda i åldrarna 30-49 år        4,7%    2,4%
-Sjukfrånvaro, anställda i åldrarna 50 år eller äldre 7,8%  7,7%
-Sjukfrånvarodagar i snitt per anställd      10,1   12,5     7,6
-
 19
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+|  | Namn | Utfall dec<br>2017-jun<br>2018 | Utfall dec<br>2018-jun<br>2019 | Utfall dec<br>2019-jun<br>2020 | Utfall jan-<br>jun 2021 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 57,8% | 71,9% | 65,2% | 71,5% |
+|  | Frisknärvaro Kvinnor | 65,2% | 70% | 68,8% | 77% |
+|  | Frisknärvaro Män | 52,9% | 73,1% | 63% | 68% |
+|  | Korttidssjukfrånvaro |  | 2,2% | 2,7% | 2,3% |
+|  | Korttidssjukfrånvaro Kvinnor |  | 2,4% | 2,2% | 1,9% |
+|  | Korttidssjukfrånvaro Män |  | 2,1% | 2,9% | 2,6% |
+|  | Långtidssjukfrånvaro |  |  | 3,6% | 2,7% |
+|  | Långtidssjukfrånvaro Kvinnor |  |  | 3,9% | 1,6% |
+|  | Långtidssjukfrånvaro Män | 0,9% | 3,5% | 3,4% | 3,4% |
+|  | Personalomsättning | 4,8% | 4,3% | 7,5% | 5,1% |
+|  | Sjukfrånvaro Kvinnor | 5,8% | 5,3% | 6,1% | 3,4% |
+|  | Sjukfrånvaro Män | 3,7% | 5,6% | 6,4% | 5,9% |
+|  | Sjukfrånvaro Totalt | 4,6% | 5,5% | 6,3% | 4,9% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer | 22,4% | 48,5% | 46,7% | 38,6% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Kvinnor |  | 47,4% | 47,9% | 31,8% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller<br>mer Män |  | 49,2% | 46,1% | 41% |
+|  | Sjukfrånvaro, anställda i åldrarna 29 år eller yngre |  |  | 5,2% | 3,8% |
+|  | Sjukfrånvaro, anställda i åldrarna 30-49 år |  |  | 4,7% | 2,4% |
+|  | Sjukfrånvaro, anställda i åldrarna 50 år eller äldre |  |  | 7,8% | 7,7% |
+|  | Sjukfrånvarodagar i snitt per anställd |  | 10,1 | 12,5 | 7,6 |
 
 <!-- sida 27 -->
 
@@ -1869,12 +1765,6 @@ Delårsrapport augusti 2021
 
 7 Verksamhet    som   utförs  av externa   aktörer
 
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym  verksamhet
-Delår   Delår   Delår   Delår
-2020   2021    2020    2021
-
 Teknik Skatt
 Teknik skatt har bland annat snöröjning och viss annan av sin verksamhet ute hos externa utförare som
 gräsklippning, busk-och träklippning och parkarbeten. Volymen har ökat i och med den omfördelning av
@@ -1907,8 +1797,10 @@ verksamheter i Sverige.
 
 [Tabell 40-1](handlingar.tabeller/40-1.csv)
 
-| Teknik Skatt | 10,8 % | 14,1 % | 11 030 | 25 784 |
+| Verksamhet | Andel av<br>verksamhetsvolym |  | Kostnad för<br>verksamhet |  |
 | --- | --- | --- | --- | --- |
+|  | Delår<br>2020 | Delår<br>2021 | Delår<br>2020 | Delår<br>2021 |
+| Teknik Skatt | 10,8 % | 14,1 % | 11 030 | 25 784 |
 | Avfall och Återvinning | 82,5 % | 83,4 % | 46 390 | 49 153 |
 | Kungsbacka Bredbandsnät | 0,9 % | 0,5 % | 60 | 73 |
 | Vatten och Avlopp | 7,4 % | 5,5 | 5 625 | 5 849 |

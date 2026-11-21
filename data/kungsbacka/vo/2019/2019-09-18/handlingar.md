@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20191230180842id_/https://www.kungsbacka.
 sha256: 192527c6d148e7b8303b3daa4b82c2cca84c1e95c8829aff56fca6b244fb5a56
 bytes: 9942589
 sidor: 763
-hamtad: 2026-11-04T12:31:25+00:00
-konverterad: 2026-11-04T12:33:11+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:33:37+00:00
+konverterad: 2026-11-21T02:35:01+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok]
 tal_obekraftade: [639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 682, 683, 684, 685, 721, 722, 723, 724, 725, 726, 727]
 figurer: [32, 39, 40, 46, 56, 59, 62, 67, 71, 73, 74, 75, 95, 245, 247, 248, 355, 375, 446, 451, 452, 454, 457, 480, 507, 508, 509, 582, 583, 721, 722, 723, 733, 734, 735, 736, 738, 741, 747]
 tolkade: []
@@ -272,24 +272,16 @@ resultatet i "Vad tycker de äldre om äldreomsorgen" varje år och vissa av boe
 den inre och yttre miljön med de boende, vilket ger möjlighet att påverka boendemiljön. En trivsam miljö
 kan bidra till en ökad trivsel och ”hemmakänsla” för kunderna som i sin tur kan påverka känslan av trygghet.
 
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Trygghetsindex för hur kommuninvånarna bedömer
-tryggheten (SCB:s medborgarundersökning, skala 0- 63 64      65
-100\)
-Bäst att bo, Kungsbackas placering i ranking av
-28      24              25
-Sveriges kommuner enligt Tidningen Fokus.
-Invånarnas helhetsbedömning av kommunen som en
-plats att bo och leva på. SCB:s
-72      72              73
-medborgarundersökning, Nöjd Region-index, NRI,
-skala 0–100.
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s 66      66              68
-medborgarundersökning, index i skala 0–100).
 6
+
+[Tabell 7-1](handlingar.tabeller/7-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna bedömer<br>tryggheten (SCB:s medborgarundersökning, skala 0-<br>100) | 63 | 64 |  | 65 |
+| Bäst att bo, Kungsbackas placering i ranking av<br>Sveriges kommuner enligt Tidningen Fokus. | 28 | 24 |  | 25 |
+| Invånarnas helhetsbedömning av kommunen som en<br>plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index, NRI,<br>skala 0–100. | 72 | 72 |  | 73 |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–100). | 66 | 66 |  | 68 |
 
 <!-- sida 8 -->
 
@@ -352,42 +344,11 @@ Indikatorer
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2019
 
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Ungas hälsa i årskurs 4 och 8. (Elevhälsan i
-Kungsbacka utvecklar metod utifrån hälsosamtal med 91%
-elever.)
-Koldioxidutsläpp från övriga sektorer än industrin i ton
-per invånare. (Källa: Sveriges Ekokommuner, med två
-2,2
-års förskjutning, dvsutfall 2016 avser faktiskt utfall
-2014.)
-Antal resor per invånare gjorda med kollektivtrafik.
-(Källa: Sveriges Ekokommuner, med ett års 65 73
-förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.)
-Andel förnybara bränslen i kollektivtrafiken. (Källa:
-Sveriges Ekokommuner, med ett års förskjutning, dvs 79% 79% 80%
-utfall 2016 avser faktiskt utfall 2015.)
-Andel förnybar och återvunnen energi i kommunala
-lokaler. (Källa: Sveriges Ekokommuner, med ett års 99% 99%  99%
-förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.)
-Transportenergi i kilowattimma (kWh) för kommunens
-tjänsteresor med bil per årsarbetare. (Källa: Sveriges
-505     427
-Ekokommuner, med ett års förskjutning, dvs utfall 2016
-avser faktiskt utfall 2015.)
-Koldioxidutsläpp från kommunens tjänsteresor med bil
-i ton per årsarbetare. (Källa: Sveriges Ekokommuner,
-0,1     0,17           0,08
-med ett års förskjutning, dvs utfall 2016 avser faktiskt
-utfall 2015.)
-Andel miljöcertifierade skolor och förskolor. (Källa:
-Sveriges Ekokommuner, med ett års förskjutning, dvs 16%     30%
-utfall 2016 avser faktiskt utfall 2015.)
 2.3 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
+
 Fokusområden
 \- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
 \- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
@@ -403,6 +364,19 @@ samverkansträffar samt genom en utsedd kontaktperson. Kontaktpersonen är ingå
 och har de direkta kontakterna på en operativ nivå. Initiativet har uppfattats positivt från båda parter. Externa
 
 8
+
+[Tabell 9-1](handlingar.tabeller/9-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Ungas hälsa i årskurs 4 och 8. (Elevhälsan i<br>Kungsbacka utvecklar metod utifrån hälsosamtal med<br>elever.) |  | 91% |  |  |
+| Koldioxidutsläpp från övriga sektorer än industrin i ton<br>per invånare. (Källa: Sveriges Ekokommuner, med två<br>års förskjutning, dvsutfall 2016 avser faktiskt utfall<br>2014.) |  |  |  | 2,2 |
+| Antal resor per invånare gjorda med kollektivtrafik.<br>(Källa: Sveriges Ekokommuner, med ett års<br>förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.) | 65 | 73 |  |  |
+| Andel förnybara bränslen i kollektivtrafiken. (Källa:<br>Sveriges Ekokommuner, med ett års förskjutning, dvs<br>utfall 2016 avser faktiskt utfall 2015.) | 79% | 79% |  | 80% |
+| Andel förnybar och återvunnen energi i kommunala<br>lokaler. (Källa: Sveriges Ekokommuner, med ett års<br>förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.) | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimma (kWh) för kommunens<br>tjänsteresor med bil per årsarbetare. (Källa: Sveriges<br>Ekokommuner, med ett års förskjutning, dvs utfall 2016<br>avser faktiskt utfall 2015.) | 505 | 427 |  |  |
+| Koldioxidutsläpp från kommunens tjänsteresor med bil<br>i ton per årsarbetare. (Källa: Sveriges Ekokommuner,<br>med ett års förskjutning, dvs utfall 2016 avser faktiskt<br>utfall 2015.) | 0,1 | 0,17 |  | 0,08 |
+| Andel miljöcertifierade skolor och förskolor. (Källa:<br>Sveriges Ekokommuner, med ett års förskjutning, dvs<br>utfall 2016 avser faktiskt utfall 2015.) | 16% |  |  | 30% |
 
 <!-- sida 10 -->
 
@@ -443,23 +417,15 @@ utveckla framtidskoncept. En tredje ingrediens för att möta framtidens utmanin
 Halland", som syftar till en digital kompetensförhöjning av baspersonalen och som bedrivs genom ett
 nätverk av digitaliseringscoacher. Digitaliseringscoacherna kan bli en viktig länk mellan verksamhet och
 utvecklingsbehov.
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Insikt, SKLs servicemätning av kommunernas
-myndighetsutövning för företag. Nöjd-kund-index
-utifrån sammanvägt betygsindex 0-100, för hur företag
-67                      69
-i kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde utifrån skala 1-
-3      3,2             3,4
-6, där företag bedömer företagsklimatet i Kungsbacka
-kommun.
 
 9
+
+[Tabell 10-1](handlingar.tabeller/10-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKLs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index<br>utifrån sammanvägt betygsindex 0-100, för hur företag<br>i kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 |  |  | 69 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån skala 1-<br>6, där företag bedömer företagsklimatet i Kungsbacka<br>kommun. | 3 | 3,2 |  | 3,4 |
 
 <!-- sida 11 -->
 
@@ -477,33 +443,17 @@ Fokusområden
 Sammanfattning av nämndens arbete med målet
 Nämnden för Vård & Omsorg har arbetet med målet om att utvecklas hela livet genom nämndmålet om att
 leverera en individuell hälso- och sjukvård av hög kvalitet för en god och jämlik hälsa.
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Genomsnittligt meritvärde i årskurs 9. Meritvärdet
-utgörs av summan av de 17 bästa betygen i elevens 228,8 239,8 240
-slutbetyg och kan max vara 340.
-Placering i ranking för grundskola av Sveriges 290
-kommuner, sammanvägt resultat enligt SKL:s öppna 88 57       40
-jämförelser.
-Arbetslöshet för ungdomar 16–24 år i kommunen.
-2,4%    3%             1,8%
-(Källa: Arbetsförmedlingen och SCB)
-Självkänsla och framtidstro för gymnasieelever år 2,
-Kommer
-index med skala 0–10 enligt Skolenkäten som 7,5              8
-ej uppnås
-genomförs i samarbete med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets          Kommer
-13,9    13,9            14
-avgångselevers betygspoäng som kan vara max 20.    ej uppnås
+
 2.4.1 Vård & Omsorg levererar en individuell hälso- och sjukvård av hög kvalitet för en
+
 god och jämlik hälsa
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Målet är kopplat till kommunfullmäktiges fokusområde "I Kungsbacka stärks individens och familjens egen
 förmåga att ta hand om sitt liv".
+
 För att uppnå en god kvalitet av hälso- och sjukvård krävs att den ges utifrån individens specifika behov och
 förutsättningar. Individanpassad hälso- och sjukvård innefattar bland annat helhetssyn, samordning,
 självbestämmande, delaktighet, frivillighet och integritet.
@@ -516,6 +466,16 @@ enskilda människans värdighet.
 Medicinskt ansvariga gör en bedömning om hälso- och sjukvården är ojämlik, delvis jämlik eller jämlik
 
 10
+
+[Tabell 11-1](handlingar.tabeller/11-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9. Meritvärdet<br>utgörs av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 228,8 | 239,8 |  | 240 |
+| Placering i ranking för grundskola av Sveriges 290<br>kommuner, sammanvägt resultat enligt SKL:s öppna<br>jämförelser. | 88 | 57 |  | 40 |
+| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) | 2,4% | 3% |  | 1,8% |
+| Självkänsla och framtidstro för gymnasieelever år 2,<br>index med skala 0–10 enligt Skolenkäten som<br>genomförs i samarbete med Göteborgsregionen, GR. | 7,5 |  | Kommer<br>ej uppnås | 8 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20. | 13,9 | 13,9 | Kommer<br>ej uppnås | 14 |
 
 <!-- sida 12 -->
 
@@ -553,18 +513,12 @@ kompetensen stärkas i hela arbetsgruppen. Under våren har specialistsjuksköte
 och barn och ungdom kvalitetssäkrats. För att barn, ungdomar och deras vårdnadshavare ska känna sig
 trygga när de är i kontakt med sjuksköterskeverksamheten har verksamheten också arbetat med följsamheten
 till Barnkonventionens artiklar samt sett över processen för inskrivning för barn inom lägerverksamheten.
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-80 % av patienterna ska uppleva en hälso- och      Prognos
-76%     76%            80%
-sjukvård av hög kvalitet                           ej möjligt
-Prognos
-Medicinskt ansvarigas bedömning om vården är jämlik         Jämlik
-ej möjligt
+
 Enkäten genomförs 2020, därför lämnas ingen prognos för resultat 2019.
 Medicinskt ansvariga kommer att lämna en bedömning om vården är jämlik i samband med årsredovisningen.
+
 2.5 Ett medskapande samhälle och öppen attityd
+
 Beslutats av
 Kommunfullmäktige
 
@@ -573,6 +527,13 @@ Fokusområden
 det goda livet.
 
 11
+
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| 80 % av patienterna ska uppleva en hälso- och<br>sjukvård av hög kvalitet | 76% | 76% | Prognos<br>ej möjligt | 80% |
+| Medicinskt ansvarigas bedömning om vården är jämlik |  |  | Prognos<br>ej möjligt | Jämlik |
 
 <!-- sida 13 -->
 
@@ -645,49 +606,39 @@ digitaliseringscoacher. Förvaltningen deltar också i det kommunövergripande V
 "testbäddar för framtidens utmaningar". Dessa två projekt har tydliga kopplingar till varandra, och beskrivs
 lite mer under målet om "Bästa företagsklimatet i Västsverige".
 
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Öka antalet etablerade samarbeten med andra externa Kommer
-3
-aktörer för att driva förvaltningens utveckling    ej uppnås
-Kommer
-Öka den externa finansieringen av förvaltningens
-0       0      att
-utvecklingsportfölj
-uppnås
-Nöjd-inflytande index för hur kommuninvånarna
-bedömer möjligheterna till inflytande. (SCB:s 46 47          48
-medborgarundersökning, 0-100).
-e-Blomlådan, poäng enligt kriterier för framgångsrik IT-
-20,7    22,1           22,5
-styrning från SKL med maxpoäng 24.
-Hållbart medarbetarengagemang, ett index för
-medarbetarnas samlade uppfattning om områdena
-77      76              82
-motivation, ledarskap och styrning, skala 1-100 enligt
-Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180.
-81                      93
-Jämix beräknas utifrån nio nyckeltal med skala 1–20.
 2.5.1 Vård & Omsorg levererar en tillgänglig hälso- och sjukvård i rätt tid
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Målet är kopplat till kommunfullmäktiges fokusområde "Invånare, företag och besökare känner sig alltid
 välkomna, sedda och korrekt bemötta i kontakt med kommunen".
+
 Patienten ska uppleva att de har tillit till den kommunala hälso- och sjukvården. En god kvalitet inom hälso-
 och sjukvården innebär att patienten har tillit till den sjukvård som ges och att sjukvården är tillgänglig.
+
 Tillgänglig innebär att sjukvården ska ges i rimlig tid, att den patient som har det största behovet av vård ska
 ges företräde. Hälso- och sjukvården ska vara geografiskt tillgänglig samt tillgänglig för kontakt, bedömning
 och besök.
 Fokusområde
 Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
+
 Kommentar på nämndmål
 För målet om att leverera en tillgänglig hälso- och sjukvård i rätt tid har förvaltningen arbetet i tre olika spår,
 
 13
+
+[Tabell 14-1](handlingar.tabeller/14-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Öka antalet etablerade samarbeten med andra externa<br>aktörer för att driva förvaltningens utveckling |  | 3 | Kommer<br>ej uppnås |  |
+| Öka den externa finansieringen av förvaltningens<br>utvecklingsportfölj | 0 | 0 | Kommer<br>att<br>uppnås |  |
+| Nöjd-inflytande index för hur kommuninvånarna<br>bedömer möjligheterna till inflytande. (SCB:s<br>medborgarundersökning, 0-100). | 46 | 47 |  | 48 |
+| e-Blomlådan, poäng enligt kriterier för framgångsrik IT-<br>styrning från SKL med maxpoäng 24. | 20,7 | 22,1 |  | 22,5 |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1-100 enligt<br>Medarbetarenkäten. | 77 | 76 |  | 82 |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20. | 81 |  |  | 93 |
 
 <!-- sida 15 -->
 
@@ -715,36 +666,31 @@ arbetsterapeut eller fysioterapeut
 Rehabpersonalen fortsätter med samma arbetssätt som tidigare, då mätningar under 2018 visade att patient
 kontaktades inom tre arbetsdagar. Inga avvikelser som visar på motsatsen har inkommit under 2019.
 
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-100 % av patienter med smärtgenombrott ska få
-Prognos
-smärtlindring inom rimlig tid som längst 30 minuter, - 97%  100%
-ej möjligt
-under jourtid
-Vid smärtgenombrott ska patienten få smärtlindring Prognos
-\-       7              0
-inom rimlig tid som längst 30 minuter              ej möjligt
-90 % av patienterna ska uppleva den kommunala      Prognos
-86%     86%            90%
-hälso- och sjukvården som tillgänglig              ej möjligt
-Ny patient som skrivs in hemsjukvården och som har Kommer
-behov av insatser kommer att få en kontakt med - 0   att     0
-arbetsterapeut eller fysioterapeut inom tre arbetsdagar uppnås
 2.5.2 Vård & Omsorg ska öka andelen medarbetare som väljer att fortsätta arbeta hos
+
 Vård & Omsorg
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Målet är kopplat till kommunfullmäktiges fokusområde "Kungsbacka kommun är en attraktiv arbetsgivare
 med modiga och medskapande medarbetare och ledare".
+
 Inom Vård & Omsorg har personalomsättningen ökat markant under det senaste året. Svårigheten att
 rekrytera och bemanna är den enskilt största arbetsmiljöfrågan för förvaltningens medarbetare och
 enhetschefer. Personalomsättningen ökar också belastningen på den befintliga personalen och ger väsentliga
 kostnadsökningar för övertid, bemanningslösningar och introduktioner. Med många nya medarbetare ökar
 
 14
+
+[Tabell 15-1](handlingar.tabeller/15-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| 100 % av patienter med smärtgenombrott ska få<br>smärtlindring inom rimlig tid som längst 30 minuter,<br>under jourtid | - | 97% | Prognos<br>ej möjligt | 100% |
+| Vid smärtgenombrott ska patienten få smärtlindring<br>inom rimlig tid som längst 30 minuter | - | 7 | Prognos<br>ej möjligt | 0 |
+| 90 % av patienterna ska uppleva den kommunala<br>hälso- och sjukvården som tillgänglig | 86% | 86% | Prognos<br>ej möjligt | 90% |
+| Ny patient som skrivs in hemsjukvården och som har<br>behov av insatser kommer att få en kontakt med<br>arbetsterapeut eller fysioterapeut inom tre arbetsdagar | - | 0 | Kommer<br>att<br>uppnås | 0 |
 
 <!-- sida 16 -->
 
@@ -777,14 +723,14 @@ nås för 2019. Personalomsättningen förväntas hamna på ungefär samma nivå
 2018 sjönk personalomsättningen kraftigt, och det kan vara svårt att fortsätta minska personalomsättningen i
 samma höga takt. Vi förväntar oss att aktiviteterna som är igångsatta kommer att ge effekt, men vi ser ingen
 effekt än så länge under 2019.
-Utfall  Utfall Prognos Målvärde
-Indikatorer
-2017   2018    2019    2019
-Personalomsättningen ska minska med tre            Kommer
-21,8%   16,2%           13,2%
-procentenheter jämfört med föregående års utfall   ej uppnås
 
 15
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Prognos<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Personalomsättningen ska minska med tre<br>procentenheter jämfört med föregående års utfall | 21,8% | 16,2% | Kommer<br>ej uppnås | 13,2% |
 
 <!-- sida 17 -->
 
@@ -835,20 +781,9 @@ tillfredställande sätt, och data från 2018 ligger till grund för många jäm
 
 4.2 Resursmått
 
-Utfall Utfall  Utfall  Utfall  Utfall
-Namn
-2014    2015   2016    2017    2018
-Kostnad äldreomsorg, kr/inv 65+ 54 271 55 774 57 244 58 286 57 720
-Antal kunder i verksamheten över
-2 717  2 913   2 864   2 566
-65 år
-Antal kunder i verksamheten under
-0      125     160     176
-65 år
-Antal invånare 65-84 år 13 236  13 575  13 874  14 136  14 447
-Antal invånare 85 år och äldre 1 733 1 784 1 841 1 851  1 903
 På grund av svårigheter att få ut statistik från verksamhetssystemet har inte en kvalitetssäkrad uppgift för antal kunder i
 verksamheten kunnat presenteras.
+
 4.3 Prestationsmått
 
 Utfall  Utfall   Utfall  Utfall  Utfall
@@ -857,91 +792,62 @@ Namn
 
 17
 
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+|  | Namn | Utfall<br>2014 | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Kostnad äldreomsorg, kr/inv 65+ | 54 271 | 55 774 | 57 244 | 58 286 | 57 720 |
+|  | Antal kunder i verksamheten över<br>65 år | 2 717 | 2 913 | 2 864 | 2 566 |  |
+|  | Antal kunder i verksamheten under<br>65 år | 0 | 125 | 160 | 176 |  |
+|  | Antal invånare 65-84 år | 13 236 | 13 575 | 13 874 | 14 136 | 14 447 |
+|  | Antal invånare 85 år och äldre | 1 733 | 1 784 | 1 841 | 1 851 | 1 903 |
+
 <!-- sida 19 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2019
 
-Utfall  Utfall   Utfall  Utfall  Utfall
-Namn
-2014    2015     2016    2017    2018
-Antal lägenheter på vård- och
-585     589     608     608    668
-omsorgsboende
-Antal korttidslägenheter  27     58      42      52      42
-Antal lägenheter för växelvård 14 23     20      10      20
-Beläggningsgrad vård- och
-92%     95%     94%    97%     96%
-omsorgsboende
-Antal timmar hemtjänst  466 584 504 243 550 868 534 346 532 814
-Kö till vård- och omsorgsboende 51 56    83      84      48
-Antal äldrelägenheter    185     183     183     183    183
-Väntetid till vård- och
-108     130    109
-omsorgsboende
 4.4 Effektmått
-
-Utfall Utfall  Utfall  Utfall  Utfall
-Namn
-2014    2015   2016    2017    2018
-Andel som anger att de alltid eller
-oftast blir bemötta på ett bra sätt av   91%    95%
-personalen (under 65 år)
-Andel som sammantaget är mycket
-eller ganska nöjda med sin               86%    87%
-hemtjänst (under 65 år)
-Andel som uppger att det är mycket
-eller ganska lätt att vid behov få
-71%    76%
-kontakt med personal i hemtjänsten
-(under 65 år)
-Andel som uppger att det känns
 
 18
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| mycket tryggt att bo hemma med stöd från hemtjänsten (under 65 år) |  |  | 86% | 82% |  |
-| --- | --- | --- | --- | --- | --- |
-| Andel som sammantaget är mycket eller ganska nöjda med sitt särskilda boende. | 81% | 86% | 89% | 84% | 84% |
-| Andel som sammantaget är mycket eller ganska nöjda med sin hemtjänst. | 91% | 91% | 92% | 91% | 88% |
-| Andel som uppger att personalen bemöter dem på ett bra sätt i hemtjänsten. | 98% | 98% | 98% | 98% | 98% |
-| Andel som uppger att personalen bemöter dem på ett bra sätt i vård- och omsorgsboende | 97% | 96% | 98% | 97% | 94% |
+|  | Namn | Utfall<br>2014 | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Antal lägenheter på vård- och<br>omsorgsboende | 585 | 589 | 608 | 608 | 668 |
+|  | Antal korttidslägenheter | 27 | 58 | 42 | 52 | 42 |
+|  | Antal lägenheter för växelvård | 14 | 23 | 20 | 10 | 20 |
+|  | Beläggningsgrad vård- och<br>omsorgsboende | 92% | 95% | 94% | 97% | 96% |
+|  | Antal timmar hemtjänst | 466 584 | 504 243 | 550 868 | 534 346 | 532 814 |
+|  | Kö till vård- och omsorgsboende | 51 | 56 | 83 | 84 | 48 |
+|  | Antal äldrelägenheter | 185 | 183 | 183 | 183 | 183 |
+|  | Väntetid till vård- och<br>omsorgsboende |  |  | 108 | 130 | 109 |
+
+[Tabell 19-20-2](handlingar.tabeller/19-20-2.csv)
+
+|  | Namn | Utfall<br>2014 | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel som anger att de alltid eller<br>oftast blir bemötta på ett bra sätt av<br>personalen (under 65 år) |  |  | 91% | 95% |  |
+|  | Andel som sammantaget är mycket<br>eller ganska nöjda med sin<br>hemtjänst (under 65 år) |  |  | 86% | 87% |  |
+|  | Andel som uppger att det är mycket<br>eller ganska lätt att vid behov få<br>kontakt med personal i hemtjänsten<br>(under 65 år) |  |  | 71% | 76% |  |
+|  | Andel som uppger att det känns<br>mycket tryggt att bo hemma med<br>stöd från hemtjänsten (under 65 år) |  |  | 86% | 82% |  |
+|  | Andel som sammantaget är mycket<br>eller ganska nöjda med sitt<br>särskilda boende. | 81% | 86% | 89% | 84% | 84% |
+|  | Andel som sammantaget är mycket<br>eller ganska nöjda med sin<br>hemtjänst. | 91% | 91% | 92% | 91% | 88% |
+|  | Andel som uppger att personalen<br>bemöter dem på ett bra sätt i<br>hemtjänsten. | 98% | 98% | 98% | 98% | 98% |
+|  | Andel som uppger att personalen<br>bemöter dem på ett bra sätt i vård-<br>och omsorgsboende | 97% | 96% | 98% | 97% | 94% |
+|  | Andel som uppger att personalen<br>alltid eller oftast tar hänsyn till<br>åsikter eller önskemål i<br>hemtjänsten. | 90% | 90% | 90% | 90% | 88% |
+|  | Andel som uppger att personalen<br>alltid eller oftast tar hänsyn till<br>åsikter eller önskemål i vård- och<br>omsorgsboende | 83% | 81% | 85% | 84% | 78% |
+|  | Andel som uppger att det är mycket<br>eller ganska lätt att vid behov få<br>kontakt med personal i<br>hemtjänsten. | 85% | 85% | 83% | 84% | 80% |
+|  | Andel som uppger att det är mycket<br>eller ganska lätt att vid behov få<br>kontakt med personal i vård- och<br>omsorgsboende | 82% | 82% | 88% | 86% | 83% |
+|  | Andel som uppger att det känns<br>mycket tryggt att bo hemma med<br>stöd från hemtjänsten. | 87% | 89% | 87% | 86% | 88% |
+|  | Andel som uppger att det känns<br>mycket tryggt att bo i vård- och<br>omsorgsboende | 86% | 91% | 92% | 91% | 91% |
 
 <!-- sida 20 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2019
 
-Utfall Utfall  Utfall  Utfall  Utfall
-Namn
-2014    2015   2016    2017    2018
-Andel som uppger att personalen
-alltid eller oftast tar hänsyn till
-90%     90%     90%    90%     88%
-åsikter eller önskemål i
-hemtjänsten.
-Andel som uppger att personalen
-alltid eller oftast tar hänsyn till
-83%     81%     85%    84%     78%
-åsikter eller önskemål i vård- och
-omsorgsboende
-Andel som uppger att det är mycket
-eller ganska lätt att vid behov få
-85%     85%     83%    84%     80%
-kontakt med personal i
-hemtjänsten.
-Andel som uppger att det är mycket
-eller ganska lätt att vid behov få
-82%     82%     88%    86%     83%
-kontakt med personal i vård- och
-omsorgsboende
-Andel som uppger att det känns
-mycket tryggt att bo hemma med 87% 89%   87%    86%     88%
-stöd från hemtjänsten.
-Andel som uppger att det känns
-mycket tryggt att bo i vård- och 86% 91% 92%    91%     91%
-omsorgsboende
 Enkäten för de som är under 65 år genomförs vartannat år och därför saknas utfall för 2018.
 
 19
@@ -1144,92 +1050,63 @@ väljer att fortsätta arbeta hos Vård & Omsorg.
 
 5.3 Resursmått
 
-Utfall Jan Utfall Utfall Jan Utfall Jan
-Namn                             - Jun Jan- Jun - Jun   - Jun
-
-```osaker-tabell
-                                 2016   2017    2018    2019
-Andel deltid                     48%    44,36%  44%    44,47%
-Andel heltid                     52%    55,64%  56%    55,53%
-
-Andel kvinnor som har deltid     49%    45,6%   45%    45,69%
-Andel kvinnor som har heltid     51%    54,4%   55%    54,31%
-
-Andel män som har deltid         30%    24,24%  27%    25,37%
-Andel män som har heltid         70%    75,76%  73%    74,63%
-Anställda andel kvinnor          94%    93,79%  93%    92,76%
-
-Anställda andel män              6%     6,21%    7%     7,24%
-Anställda genomsnittlig sysselsättningsgrad     89%    90,01%
-
-Anställda totalt                1 266   1 208   1 182   1 229
-Antal medarbetare per chef       28              26     24,08
-Antal medarbetare per enhetschef 32     32,42    31     28,1
-
-Medarbetare 30 - 39 år                          20%    19,45%
-```
-
-Medarbetare 40 - 49 år                                 22,95%
-Medarbetare 50 - 59 år                                 29,62%
-
-Medarbetare 60 år och äldre                            11,55%
-
 23
+
+[Tabell 24-25-1](handlingar.tabeller/24-25-1.csv)
+
+|  | Namn | Utfall Jan<br>- Jun<br>2016 | Utfall<br>Jan- Jun<br>2017 | Utfall Jan<br>- Jun<br>2018 | Utfall Jan<br>- Jun<br>2019 |
+| --- | --- | --- | --- | --- | --- |
+|  | Andel deltid | 48% | 44,36% | 44% | 44,47% |
+|  | Andel heltid | 52% | 55,64% | 56% | 55,53% |
+|  | Andel kvinnor som har deltid | 49% | 45,6% | 45% | 45,69% |
+|  | Andel kvinnor som har heltid | 51% | 54,4% | 55% | 54,31% |
+|  | Andel män som har deltid | 30% | 24,24% | 27% | 25,37% |
+|  | Andel män som har heltid | 70% | 75,76% | 73% | 74,63% |
+|  | Anställda andel kvinnor | 94% | 93,79% | 93% | 92,76% |
+|  | Anställda andel män | 6% | 6,21% | 7% | 7,24% |
+|  | Anställda genomsnittlig sysselsättningsgrad |  |  | 89% | 90,01% |
+|  | Anställda totalt | 1 266 | 1 208 | 1 182 | 1 229 |
+|  | Antal medarbetare per chef | 28 |  | 26 | 24,08 |
+|  | Antal medarbetare per enhetschef | 32 | 32,42 | 31 | 28,1 |
+|  | Medarbetare 30 - 39 år |  |  | 20% | 19,45% |
+|  | Medarbetare 40 - 49 år |  |  |  | 22,95% |
+|  | Medarbetare 50 - 59 år |  |  |  | 29,62% |
+|  | Medarbetare 60 år och äldre |  |  |  | 11,55% |
+|  | Medarbetare yngre än 30 år |  |  | 16% | 16,44% |
+|  | Medelålder |  |  | 45 | 45 |
 
 <!-- sida 25 -->
 
 Nämnden för Vård & Omsorg                        Kungsbacka kommun
 Delårsrapport Augusti 2019
 
-Utfall Jan Utfall Utfall Jan Utfall Jan
-Namn                             - Jun Jan- Jun - Jun   - Jun
-
-```osaker-tabell
-                                 2016   2017    2018    2019
-Medarbetare yngre än 30 år                      16%    16,44%
-Medelålder                                       45      45
-```
-
 5.4 Effektmått
 
-Utfall Jan Utfall Jan Utfall Jan Utfall Jan
-Namn                             - Jun  - Jun   - Jun   - Jun
-2016   2017    2018    2019
-Frisknärvaro                                           55,96%
-
-Frisknärvaro Kvinnor                                   55,38%
-Frisknärvaro Män                                       65,71%
-
-```osaker-tabell
-Korttidssjukfrånvaro                            4,29%   4,07%
-
-Korttidssjukfrånvaro Kvinnor                    4,34%   4,09%
-Korttidssjukfrånvaro Män                        3,6%    3,71%
-
-Långtidssjukfrånvaro                    5,24%   5,69%   5,76%
-Långtidssjukfrånvaro Kvinnor            5,5%    5,92%   6,02%
-Långtidssjukfrånvaro Män                        2,42%   2,3%
-
-Personalomsättning              21,05%  15,04% 10,78%  11,53%
-Sjukfrånvaro Kvinnor            9,45%   10,37%  10,3%  10,11%
-Sjukfrånvaro Män                8,32%   5,13%    6%     6,01%
-
-Sjukfrånvaro Totalt             9,38%   10,02%  9,98%   9,83%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-40%
-eller mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-41%
-eller mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-18,4%
-eller mer Män
-Sjukfrånvarodagar i snitt per anställd          19,39   19,01
 Observera att personalomsättningen mäts från december till juni, ej januari till juni som rubriceringen anger.
 
 24
+
+[Tabell 25-1](handlingar.tabeller/25-1.csv)
+
+|  | Namn | Utfall Jan<br>- Jun<br>2016 | Utfall Jan<br>- Jun<br>2017 | Utfall Jan<br>- Jun<br>2018 | Utfall Jan<br>- Jun<br>2019 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro |  |  |  | 55,96% |
+|  | Frisknärvaro Kvinnor |  |  |  | 55,38% |
+|  | Frisknärvaro Män |  |  |  | 65,71% |
+|  | Korttidssjukfrånvaro |  |  | 4,29% | 4,07% |
+|  | Korttidssjukfrånvaro Kvinnor |  |  | 4,34% | 4,09% |
+|  | Korttidssjukfrånvaro Män |  |  | 3,6% | 3,71% |
+|  | Långtidssjukfrånvaro |  | 5,24% | 5,69% | 5,76% |
+|  | Långtidssjukfrånvaro Kvinnor |  | 5,5% | 5,92% | 6,02% |
+|  | Långtidssjukfrånvaro Män |  |  | 2,42% | 2,3% |
+|  | Personalomsättning | 21,05% | 15,04% | 10,78% | 11,53% |
+|  | Sjukfrånvaro Kvinnor | 9,45% | 10,37% | 10,3% | 10,11% |
+|  | Sjukfrånvaro Män | 8,32% | 5,13% | 6% | 6,01% |
+|  | Sjukfrånvaro Totalt | 9,38% | 10,02% | 9,98% | 9,83% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer |  |  |  | 40% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Kvinnor |  |  |  | 41% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Män |  |  |  | 18,4% |
+|  | Sjukfrånvarodagar i snitt per anställd |  |  | 19,39 | 19,01 |
 
 <!-- sida 26 -->
 
@@ -3593,32 +3470,20 @@ generationer och livsstilar.
 \- Kungsbacka har välkomnande och trygga miljöer.
 \- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Trygghetsindex för hur kommuninvånarna
-bedömer tryggnheten (SCB:s    66     62      63      64
-medborgarundersökning, skala 0-100)
-Bäst att bo, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 40 29  28      24
-Fokus.
-Invånarnas helhetsbedömning av kommunen
-som en plats att bo och leva på. SCB:s
-72     71      72      72
-medborgarundersökning, Nöjd Region-index,
-NRI, skala 0–100.
 Nämndbudget 2020                 16
+
+[Tabell 84-85-1](handlingar.tabeller/84-85-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna<br>bedömer tryggnheten (SCB:s<br>medborgarundersökning, skala 0-100) | 66 | 62 | 63 | 64 |  |
+| Bäst att bo, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 40 | 29 | 28 | 24 |  |
+| Invånarnas helhetsbedömning av kommunen<br>som en plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index,<br>NRI, skala 0–100. | 72 | 71 | 72 | 72 |  |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–100). | 69 | 67 | 66 | 66 |  |
 
 <!-- sida 85 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s 69 67   66      66
-medborgarundersökning, index i skala 0–100).
 
 7.2 En hållbar utveckling och en hälsosam miljö
 Beslutats av
@@ -3630,34 +3495,20 @@ Fokusområden
 
 samt Borgmästaravtalet för att bli en av de främsta kommunerna inom miljö- och klimatfrågor.
 -Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % -                  91%    92%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges 2,4 2,2       2
-Ekokommuner)
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 67 66      65      73      75
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-47%     47%     79%     79%    99%
-(%) (Källa: Sveriges Ekokommuner)
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 95% 97% 99%   99%    99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 923 614   505     427     350
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,23 0,13 0,1 0,17 0,1
-(Källa: Sveriges Ekokommuner)
 
 Nämndbudget 2020                 17
+
+[Tabell 85-1](handlingar.tabeller/85-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  |  |  | 91% | 92% |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) | 2,4 | 2,2 |  |  | 2 |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 67 | 66 | 65 | 73 | 75 |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 47% | 47% | 79% | 79% | 99% |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 95% | 97% | 99% | 99% | 99% |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 923 | 614 | 505 | 427 | 350 |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,23 | 0,13 | 0,1 | 0,17 | 0,1 |
 
 <!-- sida 86 -->
 
@@ -3672,49 +3523,33 @@ Fokusområden
 \- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
 \- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Insikt, SKLs servicemätning av kommunernas
-myndighetsutövning för företag. Nöjd-kund-
-index utifrån sammanvägt betygsindex 0-100,
-64     64      67              70
-för hur företag i kommunen bedömer
-Kungsbacka kommuns myndighetsutövning,
-vilket är en viktig del av företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,4     3,1      3      3,2     3,5
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
+
 7.4 I Kungsbacka utvecklas vi hela livet
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
 
 \- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 \- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17 bästa
-237     240,6  228,8   239,8
-betygen i elevens slutbetyg och kan max vara
-340\.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 3,5% 2,4% 2,4% 3%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-7,6             7,5
-enligt Skolenkäten som genomförs i samarbete
-med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,8 13,8 13,9 13,9
-max 20.
 
 Nämndbudget 2020                 18
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKLs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-<br>index utifrån sammanvägt betygsindex 0-100,<br>för hur företag i kommunen bedömer<br>Kungsbacka kommuns myndighetsutövning,<br>vilket är en viktig del av företagsklimatet. | 64 | 64 | 67 |  | 70 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,4 | 3,1 | 3 | 3,2 | 3,5 |
+
+[Tabell 86-2](handlingar.tabeller/86-2.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa<br>betygen i elevens slutbetyg och kan max vara<br>340. | 237 | 240,6 | 228,8 | 239,8 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 3,5% | 2,4% | 2,4% | 3% |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs i samarbete<br>med Göteborgsregionen, GR. | 7,6 |  | 7,5 |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,8 | 13,8 | 13,9 | 13,9 |  |
 
 <!-- sida 87 -->
 
@@ -3747,13 +3582,6 @@ jämlik utifrån genomförda enkäter, granskningar och mätningar under året. 
 Fokusområde
 I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Andel patienter som upplever en hälso- och
-\-       -      76%     76%    80%
-sjukvård av hög kvalitet
-Bedömning av jämlik vård                                    Jämlik
 7.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -3774,38 +3602,23 @@ Indikator
 
 Nämndbudget 2020                 19
 
+[Tabell 87-1](handlingar.tabeller/87-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Andel patienter som upplever en hälso- och<br>sjukvård av hög kvalitet | - | - | 76% | 76% | 80% |
+| Bedömning av jämlik vård |  |  |  |  | Jämlik |
+
 <!-- sida 88 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Öka antalet etablerade samarbeten med andra
-externa aktörer för att driva förvaltningens         3
-utveckling
-Öka den externa finansieringen av
-0      0
-förvaltningens utvecklingsportfölj
-Nöjd-inflytande index för hur
-kommuninvånarna bedömer möjligheterna till
-43     42      46      47      48
-inflytande. (SCB:s medborgarundersökning,
-0-100).
-Hållbart medarbetarengagemang, ett index för
-medarbetarnas samlade uppfattning om
-82     79      77      76      79
-områdena motivation, ledarskap och styrning,
-skala 1-100 enligt Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio nyckeltal 75 88 81       85
-med skala 1–20.
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar
 7.5.1 Vård & Omsorg levererar en tillgänglig hälso- och sjukvård i rätt tid
+
 Beslutats av
 Nämnd
 Nämndens formulering
+
 Målet är kopplat till kommunfullmäktiges fokusområde "Invånare, företag och besökare känner sig
 alltid välkomna, sedda och korrekt bemötta i kontakt med kommunen".
 
@@ -3821,32 +3634,32 @@ Fokusområde
 Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i kontakt med
 kommunen.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Andel patienter med smärtgenombrott som får
-smärtlindring inom rimlig tid, som längst 30 - - -   97%    100%
-minuter, under jourtid
-Antal tillfällen då patienter fått smärtlindring
-\-       -       -      7       0
-mer än 30 minuter efter smärtgenombrott
 Nämndbudget 2020                 20
+
+[Tabell 88-1](handlingar.tabeller/88-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Öka antalet etablerade samarbeten med andra<br>externa aktörer för att driva förvaltningens<br>utveckling |  |  |  | 3 |  |
+| Öka den externa finansieringen av<br>förvaltningens utvecklingsportfölj |  |  | 0 | 0 |  |
+| Nöjd-inflytande index för hur<br>kommuninvånarna bedömer möjligheterna till<br>inflytande. (SCB:s medborgarundersökning,<br>0-100). | 43 | 42 | 46 | 47 | 48 |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten. | 82 | 79 | 77 | 76 | 79 |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio nyckeltal<br>med skala 1–20. | 75 | 88 | 81 |  | 85 |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar |  |  |  |  |  |
+
+[Tabell 88-89-2](handlingar.tabeller/88-89-2.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Andel patienter med smärtgenombrott som får<br>smärtlindring inom rimlig tid, som längst 30<br>minuter, under jourtid | - | - | - | 97% | 100% |
+| Antal tillfällen då patienter fått smärtlindring<br>mer än 30 minuter efter smärtgenombrott | - | - | - | 7 | 0 |
+| Andel patienterna som upplever den<br>kommunala hälso- och sjukvården som<br>tillgänglig | - | - | 86% | 86% | 90% |
+| Antal avvikelser där kontakt med<br>arbetsterapeut eller fysioterapeut inte<br>upprättats inom tre arbetsdagar för nya<br>patienter med behov av rehabiliterande<br>insatser | - | - | - | 0 | 0 |
 
 <!-- sida 89 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Andel patienterna som upplever den
-kommunala hälso- och sjukvården som - -      86%     86%    90%
-tillgänglig
-Antal avvikelser där kontakt med
-arbetsterapeut eller fysioterapeut inte
-upprättats inom tre arbetsdagar för nya - -   -      0       0
-patienter med behov av rehabiliterande
-insatser
 7.5.2 Vård & Omsorg ska öka andelen medarbetare som väljer att fortsätta arbeta hos
 Vård & Omsorg
 
@@ -3869,14 +3682,13 @@ Fokusområde
 Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2015    2016    2017   2018    2020
-Personalomsättningen ska minska med en
-procentenhet jämfört med föregående års 15,9% 21,8% 16,2%   15,2%
-utfall
-
 Nämndbudget 2020                 21
+
+[Tabell 89-1](handlingar.tabeller/89-1.csv)
+
+| Indikator | Utfall<br>2015 | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Målvärde<br>2020 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättningen ska minska med en<br>procentenhet jämfört med föregående års<br>utfall |  | 15,9% | 21,8% | 16,2% | 15,2% |
 
 <!-- sida 90 -->
 
@@ -3932,37 +3744,23 @@ patienterna har upplevt den vård de mottagit. "Vad tycker de äldre om äldreom
 
 9.2 Resursmått
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2018
-2016    2017    2018           2020
-Kostnad
-äldreomsorg, kr/inv 57 244 58 286 57 720
-65+
-Nettokostnadsavvikel 12,5% 9,5% 4%     0%
-se
-
-Antal kunder i
-Resursmått
-verksamheten över 65 2 864 2 566
-år
-Antal kunder i
-verksamheten under 160 176
-65 år
-Antal patienter i
-hemsjukvården
-
 Nämndbudget 2020                 23
+
+[Tabell 91-92-1](handlingar.tabeller/91-92-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Riket 2018 | Budget<br>2020 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Resursmått | Kostnad<br>äldreomsorg, kr/inv<br>65+ | 57 244 | 58 286 | 57 720 |  |  |
+|  | Nettokostnadsavvikel<br>se | 12,5% | 9,5% | 4% | 0% |  |
+|  | Antal kunder i<br>verksamheten över 65<br>år | 2 864 | 2 566 |  |  |  |
+|  | Antal kunder i<br>verksamheten under<br>65 år | 160 | 176 |  |  |  |
+|  | Antal patienter i<br>hemsjukvården |  |  |  |  |  |
+|  | Totalt antal<br>kunder i<br>verksamheten |  |  |  |  |  |
 
 <!-- sida 92 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2018
-2016    2017    2018           2020
-Totalt antal
-kunder i
-verksamheten
 Totalt antal kunder i verksamheten visar antal unika kunder/patienter. En individ kan vara både kund och patient samtidigt. Därför
 kan inte antal kunder och patienter summeras ihop. Utfall för antal kunder och patienter visas from utfall 2019, och kommer därför
 inte med i nämndbudgeten.
@@ -3970,70 +3768,35 @@ Utfall för antal kunder i verksamheten 2018 saknas då detta nyckeltal inte kun
 verksamhetssystem.
 9.3 Prestationsmått
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2018
-2016    2017    2018           2020
-Antal lägenheter
-på vård- och   608     608     668
-omsorgsboende
-Antal
-42     52      42
-korttidslägenheter
-Antal lägenheter
-20     10      20
-för växelvård
-Beläggningsgrad
-Prestationsmått
-vård- och      94%     97%     96%
-omsorgsboende
-Antal timmar
-550 868 534 346 532 814
-hemtjänst
-Kö till vård- och
-83     84      48
-omsorgsboende
-Väntetid till vård-
-108     130     109
-och omsorgsboende
 9.4 Effektmått
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2018
-2016    2017    2018           2020
-Andel som
-Vad tycker du om sammantaget är
-omsorgen?     mycket eller ganska
-86%     87%      -       -
-Enkätundersökning nöjda med sin
-för de under 65 år hemtjänst (under 65
-år)
-Brukar personal i
-hemsjukvården alltid
-Hemsjukvården                 -       -      97%      -
-eller oftast bemöta
-dig på ett bra sätt?
+
 Nämndbudget 2020                 24
+
+[Tabell 92-1](handlingar.tabeller/92-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Riket 2018 | Budget<br>2020 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Prestationsmått | Antal lägenheter<br>på vård- och<br>omsorgsboende | 608 | 608 | 668 |  |  |
+|  | Antal<br>korttidslägenheter | 42 | 52 | 42 |  |  |
+|  | Antal lägenheter<br>för växelvård | 20 | 10 | 20 |  |  |
+|  | Beläggningsgrad<br>vård- och<br>omsorgsboende | 94% | 97% | 96% |  |  |
+|  | Antal timmar<br>hemtjänst | 550 868 | 534 346 | 532 814 |  |  |
+|  | Kö till vård- och<br>omsorgsboende | 83 | 84 | 48 |  |  |
+|  | Väntetid till vård-<br>och omsorgsboende | 108 | 130 | 109 |  |  |
+
+[Tabell 92-93-2](handlingar.tabeller/92-93-2.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Riket 2018 | Budget<br>2020 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Vad tycker du om<br>omsorgen?<br>Enkätundersökning<br>för de under 65 år | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sin<br>hemtjänst (under 65<br>år) | 86% | 87% | - | - |  |
+| Hemsjukvården | Brukar personal i<br>hemsjukvården alltid<br>eller oftast bemöta<br>dig på ett bra sätt? | - | - | 97% | - |  |
+| Vad tycker de äldre<br>om äldreomsorgen?<br>Enkätundersökning<br>för de över 65 år | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sitt<br>särskilda boende. | 89% | 84% | 84% | 81% |  |
+|  | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sin<br>hemtjänst. | 92% | 91% | 88% | 88% |  |
 
 <!-- sida 93 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2018
-2016    2017    2018           2020
-Andel som
-sammantaget är
-mycket eller ganska 89% 84%    84%     81%
-nöjda med sitt
-Vad tycker de äldre
-särskilda boende.
-om äldreomsorgen?
-Enkätundersökning
-Andel som
-för de över 65 år
-sammantaget är
-mycket eller ganska 92% 91%    88%     88%
-nöjda med sin
-hemtjänst.
 Enkätundersökningen för personer under 65 år och hemsjukvårdsenkäten går ut vartannat år. Under 2020 kommer
 hemsjukvårdsenkäten att genomföras igen.
 
@@ -4224,68 +3987,45 @@ nämnda 30 om man också beaktar timanställda. Stora krav ställs på ledarskap
 arbetar dygnet runt och på schema, hela arbetsgruppen träffas oftast bara en gång i månaden på
 arbetsplatsträff (APT) två timmar.
 
-Utfall  Utfall Utfall   Budget
-Nyckeltal
-
-```osaker-tabell
-                                     2016    2017  2018     2020
-Andel heltid                         53%    55,5%    55,04%
-Andel kvinnor som har heltid         52%     54%     53,98%
-Andel män som har heltid             70%     75%     73,77%
-```
-
-Medarbetare 40 - 49 år                               23,74%
-
 Nämndbudget 2020                 29
+
+[Tabell 97-98-1](handlingar.tabeller/97-98-1.csv)
+
+| Nyckeltal | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Budget<br>2020 |
+| --- | --- | --- | --- | --- |
+| Andel heltid | 53% | 55,5% | 55,04% |  |
+| Andel kvinnor som har heltid | 52% | 54% | 53,98% |  |
+| Andel män som har heltid | 70% | 75% | 73,77% |  |
+| Medarbetare 40 - 49 år |  |  | 23,74% |  |
+| Medarbetare 50 - 59 år |  |  | 29,51% |  |
+| Medarbetare 60 år och äldre |  |  | 11,22% |  |
+| Sjukfrånvaro Totalt | 8,9% | 9,19% | 9,48% |  |
+| Sjukfrånvaro Kvinnor | 9% | 9,51% | 9,8% |  |
+| Sjukfrånvaro Män | 7,4% | 4,67% | 4,89% |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer |  |  | 39,4% |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer<br>Kvinnor |  |  | 40,3% |  |
+| Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer Män |  |  | 10,9% |  |
+| Frisknärvaro |  |  | 43,8% |  |
+| Frisknärvaro Kvinnor |  |  | 43,09% |  |
+| Frisknärvaro Män |  |  | 55,12% |  |
+| Anställda totalt | 1 274 | 1 227 | 1 230 |  |
+| Anställda andel kvinnor | 93% | 94% | 94,07% |  |
+| Anställda andel män | 7% | 6% | 5,93% |  |
+| Korttidssjukfrånvaro Kvinnor | 3,7% | 4% | 4,05% |  |
+| Korttidssjukfrånvaro Män | 3% | 3,2% | 3,47% |  |
+| Långtidssjukfrånvaro |  | 5,24% | 5,69% |  |
+| Långtidssjukfrånvaro Kvinnor |  | 5,5% | 5,92% |  |
+| Långtidssjukfrånvaro Män |  | 1,47% | 1,42% |  |
+| Korttidssjukfrånvaro | 3,7% | 3,95% | 4,02% |  |
+| Antal medarbetare per enhetschef | 35 | 32 | 28,8 |  |
+| Personalomsättning | 15,9% | 21,8% | 16,25% |  |
+| Medarbetare yngre än 30 år | 18% | 17% | 16,02% |  |
+| Medelålder | 44 | 44 | 44 |  |
+| Medarbetare 30 - 39 år | 18% | 20% | 19,51% |  |
 
 <!-- sida 98 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Utfall  Utfall Utfall   Budget
-Nyckeltal
-2016    2017  2018     2020
-Medarbetare 50 - 59 år                               29,51%
-Medarbetare 60 år och äldre                          11,22%
-
-```osaker-tabell
-Sjukfrånvaro Totalt                  8,9%   9,19%    9,48%
-Sjukfrånvaro Kvinnor                 9%     9,51%     9,8%
-
-Sjukfrånvaro Män                     7,4%   4,67%    4,89%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer 39,4%
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer
-40,3%
-Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar eller mer Män 10,9%
-Frisknärvaro                                         43,8%
-Frisknärvaro Kvinnor                                 43,09%
-Frisknärvaro Män                                     55,12%
-
-```osaker-tabell
-Anställda totalt                     1 274  1 227     1 230
-
-Anställda andel kvinnor              93%     94%     94,07%
-Anställda andel män                  7%      6%      5,93%
-
-Korttidssjukfrånvaro Kvinnor         3,7%    4%      4,05%
-Korttidssjukfrånvaro Män             3%      3,2%    3,47%
-Långtidssjukfrånvaro                        5,24%    5,69%
-
-Långtidssjukfrånvaro Kvinnor                 5,5%    5,92%
-Långtidssjukfrånvaro Män                    1,47%    1,42%
-Korttidssjukfrånvaro                 3,7%   3,95%    4,02%
-
-Antal medarbetare per enhetschef     35      32        28,8
-Personalomsättning                  15,9%   21,8%    16,25%
-
-Medarbetare yngre än 30 år           18%     17%     16,02%
-Medelålder                           44      44         44
-Medarbetare 30 - 39 år               18%     20%     19,51%
-```
 
 Nämndbudget 2020                 30
 
@@ -4384,64 +4124,54 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 12.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Reglemente för kommunstyrelsen och nämnder           KF § 111/15
-
-Attestreglemente                                     KF § 30/15
-Handlingsplan för samhällsstörning                    KF § 3/16
-
-Kvalitet                                             KF § 101/13
-Barnkonventionen 2014-2018 - policy                  KF § 154/14
-Konkurrensprövning                                    KF § 8/11
-
-Vision för Kungsbacka                                KF § 94/16
-Kommunikation                                        KF § 11/12
-Fordon                                               KF § 114/14
-
-Reglemente nämnden för Vård & Omsorg               KF 2017-12-12 § 194
-Konkurrensprövning - tillämpningsanvisningar          KF § 8/11
-
-Barnkonventionen 2014-2018-Handlingsplan             KF § 154/14
-Taxa för avgifter inom Vård & Omsorg; enteral nutrition KF 2018-04-10 § 60
-Taxa för avskrift eller kopia av allmän handling som begärs med stöd av
-KF 2017-12-12 § 198
-offentlighetsprincipen
-Attestreglemente - tillämpningsanvisningar       Ekonomichef 2015-05-01
-E-målbild 2020                                          FC
-Invånardialog                                       KF 2014 § 119
-
-Informationssäkerhet                               KF 2017-05-09 § 67
-Privata utförare                                   KF 2016-10-11 § 144
-
-Direktupphandling                                  KS 2018-08-28 § 185
-Arbetsgivarpolicy                                   KF 2019-06-11
-
 12.2 Styrdokument beslutade av nämnden för Vård & Omsorg
 
-Styrdokument                                      Beslutande paragraf/År
-Annas led- för en trygg och säker demensvård i Halland NÄO 2012-12-13 § 146
-Delegeringsförteckning                            NVO 2019-03-20 §24
-
-Dokumenthanteringsplan                            NVO 2018-02-21 § 21
-Ledningssystem för systematiskt kvalitetsarbete   NVO 2017-12-13 § 151
-
-Lokalplan 2020 - 2024                             NVO 2018-11-14 §108
-Nämndbudget 2019                                  NVO 2018-09-19 §86
-Investeringsplan 2020-2024                        NVO 2018-12-12 §131
-
 Nämndbudget 2020                 33
+
+[Tabell 101-1](handlingar.tabeller/101-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Reglemente för kommunstyrelsen och nämnder | KF § 111/15 |
+| Attestreglemente | KF § 30/15 |
+| Handlingsplan för samhällsstörning | KF § 3/16 |
+| Kvalitet | KF § 101/13 |
+| Barnkonventionen 2014-2018 - policy | KF § 154/14 |
+| Konkurrensprövning | KF § 8/11 |
+| Vision för Kungsbacka | KF § 94/16 |
+| Kommunikation | KF § 11/12 |
+| Fordon | KF § 114/14 |
+| Reglemente nämnden för Vård & Omsorg | KF 2017-12-12 § 194 |
+| Konkurrensprövning - tillämpningsanvisningar | KF § 8/11 |
+| Barnkonventionen 2014-2018-Handlingsplan | KF § 154/14 |
+| Taxa för avgifter inom Vård & Omsorg; enteral nutrition | KF 2018-04-10 § 60 |
+| Taxa för avskrift eller kopia av allmän handling som begärs med stöd av<br>offentlighetsprincipen | KF 2017-12-12 § 198 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-05-01 |
+| E-målbild 2020 | FC |
+| Invånardialog | KF 2014 § 119 |
+| Informationssäkerhet | KF 2017-05-09 § 67 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Direktupphandling | KS 2018-08-28 § 185 |
+| Arbetsgivarpolicy | KF 2019-06-11 |
+
+[Tabell 101-102-2](handlingar.tabeller/101-102-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Annas led- för en trygg och säker demensvård i Halland | NÄO 2012-12-13 § 146 |
+| Delegeringsförteckning | NVO 2019-03-20 §24 |
+| Dokumenthanteringsplan | NVO 2018-02-21 § 21 |
+| Ledningssystem för systematiskt kvalitetsarbete | NVO 2017-12-13 § 151 |
+| Lokalplan 2020 - 2024 | NVO 2018-11-14 §108 |
+| Nämndbudget 2019 | NVO 2018-09-19 §86 |
+| Investeringsplan 2020-2024 | NVO 2018-12-12 §131 |
+| Internkontrollplan 2019 | NVO 2018-11-14 §107 |
+| Förfrågningsunderlag LOV | NVO 2018-04-18 §43 |
+| Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i Kungsbacka<br>kommun | NVO 2018-09-19 §78 |
 
 <!-- sida 102 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Styrdokument                                      Beslutande paragraf/År
-Internkontrollplan 2019                           NVO 2018-11-14 §107
-
-Förfrågningsunderlag LOV                          NVO 2018-04-18 §43
-Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i Kungsbacka
-NVO 2018-09-19 §78
-kommun
 
 Nämndbudget 2020                 34
 
@@ -26785,263 +26515,125 @@ gande kunskaper i anatomi, fysiologi, sjukdomslära.
 SOU 2019:15                                   Bilaga 5
 
 527
-)1.6
-ttinsva
-röhllit(
-MAK moni renoitasinagrosekrY
-1
-llebaT
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva nenoitasinagro rä
-meV
-noitasinagrO
--dem
-ilb tta tehgiljöm
-rah
-iparetkisum
-röf essertni
-tte dem
-allA
--amrofni
-adirps tta
-röf
-ratebra
-SMF
-ne
-rä 4791 rå sedadlib mos
-SMF
-iparetkisum
-röf
-tednubröF
-ne
-råg mos ed
-röf paksmeldemednareduts
-snnif teD .rammel
-röf
-rakrev
-hco iparetkisum
-mo
-noit
--essertni
-hco noitasinagroylparap
-,SMF
-,egirevS
-i
-.gnindlibtuiparetkisum
-tllenoitan
-gnilkcevtu
-sniparetkisum
--krevsekry
-raresinagro mos gnineröf
-es.iparetkisum.www
-tta rejniltkir
-aksite
-rah gnineröfsekry
-evitkepser
-i anrammeldeM
-.tllenoitanretni
-hco
-ardna
-hco retueparetkisum ammas
-.dår tksite tte
-rah MAS
-.llit gis allåhröf
-snerefnok
-llenoitan
-gilrå
-ne
-rah
-SMF
-lliv
-mos edaressertniiparetkisum
--sekry
-rä atself ed
-räd rammeldem
-221
-ednaravrän
-röf rah
-SMF
-rammeldem
-ammaskrevsekry
-räd
-.niparetkisum
-attöts hco alkcevtu
-.ammaskrev
-.gnindlibtrof
-sdujbre
-:SMF
-i rågni ragnineröfsekry
-åvT
--kisum
-ammaskrev
-latna
-tte åp atsil
-ne snnif
-adismeh SMF
-åP
-edaremolpid
-röf negnineröfskiR
-hco revö
-rotsil snnif
-rodismeh
-sanragnineröfsekry
-åP .retueparet
-hco ,MDFR ,retueparetkisum
-.retueparet
-ammaskrevsekry
-gnirk
-renoitknufkös
--kisum aksimedaka segirevS .)naden es( MAS ,retueparet
--sekry
-evitkepser i anrammeldeM
-gnintulsnalebbud
-moneg rä gnineröf .SMF i rammeldem
-nevä
-daremolpid
-llit gnindlibtu
-svärk meldem
-maskrevsekry
-ilb tta
-röF
-tta
-röf .a.lb ratebra
-negnineröF
--olpid
-röf gnineröfsekry ne rä
-MDFR
-edaremolpiD
-röf
-negnineröfskiR
--ednareduts
-arav tta
-tehgiljöm
-nevä snnif
-teD .tueparetkisum-TMF
-noitamrofni
-adirps hco
-alkcevtueradiv
-ratebra
-mos retueparetkisum edarem
-,MDFR
-,retueparetkisuM
-.meldemdöts
-relle
-.nedotem-TMF
-gnirk
-datkirnisnoitknuf
-nedotem
-tgilne
-es.nedotem-tmf.www
-.rammeldem
-001
-ac tlatot rah MDFR
-lleutka
-nevä rakaveb
-negnineröF
-.TMF ,iparetkisum
-llit
-retfigpputkatnok
-attih
-tta röf noitknufkös
-ne rah negnineröF
-.ragnindlibtrof
-randrona
-hco
-gninksrof
-.rammeldem
-agirvö
-va lavru
-tte hco retueparet-TMF
-edaremolpid
-dgalva
-dem tueparetkisum
-:reåvin ert åp
-sahenni
-nak paksmeldeM
-anräv
-tta
-röf .a.lb ratebra
-negnineröF
--kisum
-röf gnineröfsekry ne rä
-MAS
-aksimedakA
-segirevS
--tadidnak
-dgalva dem
-tueparetkisum
-,nemaxeretsam
-relle retsigam
-tksimedaka
-tte mos
-iparetkisum
-mo
-agilgnuK
-div edadlibtu retueparet
-,MAS
-,retueparetkisuM
-.ednareduts
-hco nemaxe
--rofni
-adirps
-tta hco
-edårmospaksnuk
-dem relle
-mlohkcotS i naloksgöhkisuM
-es.tueparetkisum.www
-tehgiljöm
-seg nemaxeretsam
-relle retsigam
-dgalva
-dem rammeldeM
-.iparetkisum
-mo gninksrof
-hco
-noitam
-gnindlibtu
-ksitueparetkisum gidrävkil
-.MAS
-tgilne tueparetkisuM
-darertsigeR
-tertsiger
-i dem sannif
-tta
-ne åf
-tta
-röf åskco ratebra
-negnineröF
-.nysdnurg
-ksitsinamuh ne åp daresab
-.dår
-tksite
-tte hco rejniltkir
-aksite
-rah negnineröF
-va
-mrof i tetitnedisekry
-daddyks
-.0102 rå sedadlib negnineröF
-.retsigersekry
-tte
-relle
-noitamitigel
--kisum ammaskrevsekry
-rä 15 varav
-rammeldem
-36 rah
-MAS
-.retueparet
-.rammeldem
-ammaskrevsekry
-revö retsiger
-tte rah
-MAS
+
+T a bell 1
+
+Yrkesorganisationer inom KAM (tillhör avsnitt 6.1)
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Förbundet för musikterapi
+
+FMS som bildades år 1974 är en
+
+FMS arbetar för att sprida informa- Alla med ett intresse för musikterapi har möjlighet att bli med-
+
+i Sverige, FMS,
+
+paraplyorganisation och intresse- tion om musikterapi och verkar för lemmar. Det finns studerandemedlemskap för de som går en
+
+www.musikterapi.se
+
+förening som organiserar yrkesverk- musikterapins utveckling nationellt musikterapiutbildning.
+
+samma musikterapeuter och andra och internationellt.
+
+Medlemmarna i respektive yrkesförening har etiska riktlinjer att
+
+musikterapiintresserade som vill
+
+FMS har en årlig nationell konferens förhålla sig till. SAM har ett etiskt råd.
+
+utveckla och stötta musikterapin. där yrkesverksamma medlemmar FMS har för närvarande 122 medlemmar där de flesta är yrkes-
+
+Två yrkesföreningar ingår i FMS:
+
+erbjuds fortbildning.
+
+verksamma.
+
+Riksföreningen för diplomerade
+
+På FMS hemsida finns en lista på ett antal verksamma musik-
+
+musikterapeuter, RFDM, och
+
+terapeuter. På yrkesföreningarnas hemsidor finns listor över och
+
+Sveriges akademiska musik-
+
+sökfunktioner kring yrkesverksamma terapeuter.
+
+terapeuter, SAM (se nedan).
+
+Medlemmarna i respektive yrkes-
+
+förening är genom dubbelanslutning
+
+även medlemmar i FMS.
+
+Riksföreningen för Diplomerade RFDM är en yrkesförening för diplo- Föreningen arbetar bl.a. för att
+
+För att bli yrkesverksam medlem krävs utbildning till diplomerad
+
+Musikterapeuter, RFDM,
+
+merade musikterapeuter som arbetar vidareutveckla och sprida information FMT-musikterapeut. Det finns även möjlighet att vara studerande-
+
+www.fmt-metoden.se
+
+enligt metoden funktionsinriktad
+
+kring FMT-metoden.
+
+eller stödmedlem.
+
+musikterapi, FMT.
+
+Föreningen bevakar även aktuell
+
+RFDM har totalt ca 100 medlemmar.
+
+forskning och anordnar fortbildningar. Föreningen har en sökfunktion för att hitta kontaktuppgifter till
+
+diplomerade FMT-terapeuter och ett urval av övriga medlemmar.
+
+Sveriges Akademiska
+
+SAM är en yrkesförening för musik-
+
+Föreningen arbetar bl.a. för att värna Medlemskap kan innehas på tre nivåer: musikterapeut med avlagd
+
+Musikterapeuter, SAM,
+
+terapeuter utbildade vid Kungliga
+
+om musikterapi som ett akademiskt magister eller masterexamen, musikterapeut med avlagd kandidat-
+
+www.musikterapeut.se
+
+Musikhögskolan i Stockholm eller med kunskapsområde och att sprida infor- examen och studerande.
+
+likvärdig musikterapeutisk utbildning mation och forskning om musikterapi. Medlemmar med avlagd magister eller masterexamen ges möjlighet
+
+baserad på en humanistisk grundsyn. Föreningen arbetar också för att få en att finnas med i registret Registrerad Musikterapeut enligt SAM.
+
+Föreningen bildades år 2010.
+
+skyddad yrkesidentitet i form av
+
+Föreningen har etiska riktlinjer och ett etiskt råd.
+
+legitimation eller ett yrkesregister. SAM har 63 medlemmar varav 51 är yrkesverksamma musik-
+
+terapeuter.
+
+SAM har ett register över yrkesverksamma medlemmar.
+
 3
 
 <!-- sida 640 -->
@@ -27049,168 +26641,81 @@ MAS
 Bilaga 5                                   SOU 2019:15
 
 528
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-stednubröfsekry
-tta
-svärk
-néttimmok-MAK
-i meldem ilb tta
-röF
-tta dem
-.a.lb
-ratebra
-néttimmok-MAK
--sekry
-röf
-noitasinagrohcsnarB
--mok
-röf
-néttimmok-MAK
--sab i ph 03 ednaravstom
-tsnim
-rah rammeldem
-ammaskrevsekry
-akräts
-tta
-hco
-noitamrofni
-adirps
-dnubröf
-hco
-retueparet
-ammaskrev
-vitanretla
-hco
-rätnemelp
-.reiduts aksnicidem
--vitanretla
-hco
--rätnemelpmok
--vitanretla
-hco
--rätnemelpmok
-moni
-,”MAK”
-,nicidem
-tliksne ed tta
-åp vark
-alläts
-tta gis rednibröf
-dnubröfsmeldeM
--sdråvosläh
-åp
-noitisop
-snenicidem
-néttimmok-MAK
-.nrotkes
-aksnicidem
-mt.mak.www
-rejlöf hco gnirkäsröfsravsna
-rah anretueparet
-ammaskrevsekry
-akö tta
-röf hco
-egirevS
-i nedankram
-.9891
-rå
-sedadlib
--meldem tta
-röf raravsna
-tmas relger
-aksite snéttimmok-MAK
-moni
-tehirflav
-llit
-ttär
-snedividni
-gnirkässtetilavk
-,noitasirotkua
-röf relger
-ednalläg rejlöf anram
-mos rogårf
-ardnA
-.nedråvkujs
--sab mo tevark
-rellyfppu
-etni mos dnubröF
-.gniröfretsiger
-hco
-dakö
-rä röf
-rakrev
-nenoitasinagro
-.dnubröfdöts
-ilb nak ph
-03 ednaravstom nicidem
-,esleirfebsmom
-,tehrekästneitap
--MAK va adnäkdog
-rä mos
-dnubröfsekry
-i rammeldem agidrävlluF
-apaks
-tta tmas
-åvinsgnindlibtu
-dog
-relle tueparetsppork
-daresirotkua
-ilb tta
-mo akös nak néttimmok
-krevleger
-tksidron
-tmasnemeg
-tte
-ilb tta röF .eranicidemvitanretla
-hco -rätnemelpmok
-daresirotkua
-.MAK
-röf
--tom gnindlibtu
-ksnicidemsab
-svärk tueparetsppork
-daresirotkua
-ilb tta röF .iparetsppork
-nogån
-i gnindlibtu
-tmas ph 03 ednaravs
--sab svärk eranicidemvitanretla
-hco -rätnemelpmok
-daresirotkua
-i gnindlibtu tmas
-ph 06
-tsnim
-ednaravstom
-gnindlibtu ksnicidem
-.mrofsgnildnaheb
-ksnicidemvitanretla
-hco
--rätnemelpmok nogån
--stetilavk ilb tta
-mo akösna
-nevä nak rammeldem
-edaresirotkuA .edarkäs
--sertni rä mos
-ed röf
-”rennäv-s:MAK”
-nevä rah néttimmok-MAK
-.MAK va
-eradnävna relle edares
--dem 054 ac snnif
-néttimmok-MAK
-i rågni
-mos nednubröf i tlatoT .rammel
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+KAM-kommittén för kom-
+
+Branschorganisation för yrkes-
+
+KAM-kommittén arbetar bl.a. med att För att bli medlem i KAM-kommittén krävs att yrkesförbundets
+
+plementär och alternativ
+
+verksamma terapeuter och förbund sprida information och att stärka yrkesverksamma medlemmar har minst motsvarande 30 hp i bas-
+
+medicin, ”KAM”,
+
+inom komplementär- och alternativ- komplementär- och alternativ-
+
+medicinska studier.
+
+www.kam.tm
+
+medicinska sektorn. KAM-kommittén medicinens position på hälsovårds- Medlemsförbund förbinder sig att ställa krav på att de enskilt
+
+bildades år 1989.
+
+marknaden i Sverige och för att öka yrkesverksamma terapeuterna har ansvarsförsäkring och följer
+
+individens rätt till valfrihet inom
+
+KAM-kommitténs etiska regler samt ansvarar för att medlem-
+
+sjukvården. Andra frågor som
+
+marna följer gällande regler för auktorisation, kvalitetssäkring
+
+organisationen verkar för är ökad och registerföring. Förbund som inte uppfyller kravet om bas-
+
+patientsäkerhet, momsbefrielse,
+
+medicin motsvarande 30 hp kan bli stödförbund.
+
+god utbildningsnivå samt att skapa Fullvärdiga medlemmar i yrkesförbund som är godkända av KAM-
+
+ett gemensamt nordiskt regelverk kommittén kan söka om att bli auktoriserad kroppsterapeut eller
+
+för KAM.
+
+auktoriserad komplementär- och alternativmedicinare. För att bli
+
+auktoriserad kroppsterapeut krävs basmedicinsk utbildning mot-
+
+svarande 30 hp samt utbildning i någon kroppsterapi. För att bli
+
+auktoriserad komplementär- och alternativmedicinare krävs bas-
+
+medicinsk utbildning motsvarande minst 60 hp samt utbildning i
+
+någon komplementär- och alternativmedicinsk behandlingsform.
+
+Auktoriserade medlemmar kan även ansöka om att bli kvalitets-
+
+säkrade.
+
+KAM-kommittén har även ”KAM:s-vänner” för de som är intres-
+
+serade eller användare av KAM.
+
+Totalt i förbunden som ingår i KAM-kommittén finns ca 450 med-
+
+lemmar.
+
 4
 
 <!-- sida 641 -->
@@ -27218,220 +26723,85 @@ mos nednubröf i tlatoT .rammel
 SOU 2019:15                                   Bilaga 5
 
 529
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-tmas
-FRFS
-va
-dnäkdog
-gnindlibtu
-svärk meldem
-vitka
-ilb
-tta röF
-adirps
-tta dem .a.lb
-ratebra
-FRFS
--noz
-röf
-dnubröfsekry
-tte
-rä
-FRFS
--iparetnoztoF
-aksnevS
-.gnirkäsröfsravsna
-,)igoloxelfer(
-iparetnoz
-mo
-noitamrofni
-.)regoloxelfer(
-retueparet
-,FRFS
-,tednubröfigoloxelfeR
-:vark
-aksnicidemsaB
-hco rammeldem
-anis
-va
-gnindlibtrof
-.8791
-rå
-sedadlib
-tednubröF
-un.iparetnoz.www
-ph 21
-ednaravstom
-:meldeM
-tednubröF
-.gninksrof
-arelumits
-tta
-ph
-03 ednaravstom
-:daremolpiD
-ne
-mos nedotem
-åf tta
-röf
-nevä
-rakrev
-.mrofsgnildnaheb
-daretpecca
-tlluf
-ph
-06 ednaravstom
-:daresirotkuA
-rah krowteN
-ygoloxelfeR
-cidroN
-mos
-renoitadnemmoker
-rejlöf
-FRFS
-.ppu
-tlläts
--eduts
-röf
-paksmeldem
-tmas
-paksmeldem
-tvissap
-nevä
-snnif
-teD
-.dår
-tksite
-tte
-hco rejniltkir
-aksite
-rah
-FRFS
-.ednar
-.avitka
-rä 53
-varav rammeldem
-04 rah
-FRFS
--dem
-avitka
-anis
-revö
-nadismeh
-åp
-atsilsserda
-ne rah
-tednubröF .rammel
--avstom
-gnindlibtu
-ksnicidemsab
-svärk SNS
-i meldem
-ilb
-tta röF
--ebra
-tsöires
-tta röf .a.lb
-ratebra
-SNS
-eravötusekry
-röf
-dnubröf
-tte
-rä
-SNS
-aksnicidemrutaN
-aksnevS
-hco
-nicidem
-llenoitidart
-moni
-repaksnuk
-hco
-ph
-04
-tsnim
-ednar
-avitanretla
-moni eravötusekry
-ednat
-.MAK
-hco
-nicidem
-llenoitidart
-moni
-,SNS
-,tepakslläS
-.svärk
-gnirkäsröfsravsna
-gitlig
-nevÄ
-.MAK
-rem
-ne
-åf aks remrofsgnildnaheb
-edaremolpid
-rä
-rammeldem
-telatrelF
-un.sns.www
-aiv
-edaresirotkua
-arav
-aks
-rammeldem
-alla tta
-retfe
-tta
-ravärts
-SNS
-.tellähmas
-i gninlläts
-daretpecca
-.5791
-rå
-sedadlib
-SNS
-.rekirtaimoh
-.néttimmok-MAK
-ragnindlibtueradiv
-redujbre
-SNS
--MAK
-mos
-ed
-nevä
-rejlöf
-nem
-,relger
-aksite
-ange
-rah
-tednubröF
-.ragninsäleröf
-hco
-.eravötusekry
-snehcsnarb
-röf tattärppu
-rah
-néttimmok
-.rammeldem
-anis
-revö
-atsilsserda
-ne rah
-SNS
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svenska Fotzonterapi-
+
+SFRF är ett yrkesförbund för zon-
+
+SFRF arbetar bl.a. med att sprida
+
+För att bli aktiv medlem krävs utbildning godkänd av SFRF samt
+
+Reflexologiförbundet, SFRF,
+
+terapeuter (reflexologer).
+
+information om zonterapi (reflexologi), ansvarsförsäkring.
+
+www.zonterapi.nu
+
+Förbundet bildades år 1978.
+
+fortbildning av sina medlemmar och Basmedicinska krav:
+
+att stimulera forskning. Förbundet Medlem: motsvarande 12 hp
+
+verkar även för att få metoden som en Diplomerad: motsvarande 30 hp
+
+fullt accepterad behandlingsform.
+
+Auktoriserad: motsvarande 60 hp
+
+SFRF följer rekommendationer som Nordic Reflexology Network har
+
+ställt upp.
+
+Det finns även passivt medlemskap samt medlemskap för stude-
+
+rande. SFRF har etiska riktlinjer och ett etiskt råd.
+
+SFRF har 40 medlemmar varav 35 är aktiva.
+
+Förbundet har en adresslista på hemsidan över sina aktiva med-
+
+lemmar.
+
+Svenska Naturmedicinska
+
+SNS är ett förbund för yrkesutövare SNS arbetar bl.a. för att seriöst arbe- För att bli medlem i SNS krävs basmedicinsk utbildning motsva-
+
+Sällskapet, SNS,
+
+inom traditionell medicin och KAM. tande yrkesutövare inom alternativa rande minst 40 hp och kunskaper inom traditionell medicin och
+
+www.sns.nu
+
+Flertalet medlemmar är diplomerade behandlingsformer ska få en mer
+
+KAM. Även giltig ansvarsförsäkring krävs.
+
+homiatriker. SNS bildades år 1975. accepterad ställning i samhället.
+
+SNS strävar att efter att alla medlemmar ska vara auktoriserade via
+
+SNS erbjuder vidareutbildningar
+
+KAM-kommittén.
+
+och föreläsningar.
+
+Förbundet har egna etiska regler, men följer även de som KAM-
+
+kommittén har upprättat för branschens yrkesutövare.
+
+SNS har en adresslista över sina medlemmar.
+
 5
 
 <!-- sida 642 -->
@@ -27439,278 +26809,127 @@ SNS
 Bilaga 5                                   SOU 2019:15
 
 530
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
--idem
-dnäkdog
-RHS va ne svärk meldem
-daresirotkua ne
-ilb tta röF
-moneg
-gnindlibtrof
-randrona
-RHS
-alla
-röf teppö
-dnubröfsekry
-tte rä
-RHS
-sretapoemoH
-aksnevS
--raräl
-006
-tsnim
-hco ph 06 ednaravstom
-tsnim mo gnindlibtu
-ksnic
--nämlla
-dem tkatnok
-rah ,reiranimes
-hco retapoemoh
-ammaskrevsekry
-,RHS
-,dnubröfskiR
-daresirotkua
-ne tta svärk eradiV
-.itapoemoh
-moni rammit
-addel
-edneågna
-rogårf
-revird hco
-neteh
--röf rellyfppu
-mos
-retapoemohrujd
-es.retapoemohaksnevs.www
-retehgidnym
-mos
-vark ed rellyfppu mos
-kitkarp
-ne avird aks
-meldem
-.egirevS
-i itapoemoh
-ksnicidemsab
-lävås
-åp vark
-stednub
-.gnirkäsröftneitap
-ah aks nemmeldem
-tta tmas relläts
-RHS hco
-.gnindlibtu
-ksitapoemoh
-mos
--sravsna
-.a.lb dem gnirkäsröfdnurg
-ne rågni tepaksmeldem
-I
-.8291
-rå sedadlib
-RHS
-.gnirkäsröf
-vissap
-mosås
-,paksmeldem va
-repyt
-ardna arelf nevä
-snnif teD
--döts
-hco meldemednareduts
-,meldem
-vitka datratsyn
-,meldem .meldem
--sekry
-hco
-edaresirotkua rä 04
-varav
-rammeldem 011
-rah RHS
-.ammaskrev
--irotkua
-ed
-revö
-nadismeh åp noitknufkös
-hco atsil ne rah
-tednubröF
-.anrammeldem
-edares
-ednaravstom
-gnindlibtu
-ksnicidemsab
-svärk
-FHN i meldem
-ilb tta röF
--ni adirps
-tta dem
-.a.lb ratebra
-FHN
--inagro
-mos
-dnubröfsekry
-tte rä
-FHN
-,tednubröftapoemoh
-aksidroN
-i gninsivrednu
-rammit 006 tsnim
-hco retapoemoh
-röf ph
-06 tsnim
-tta röf
-hco itapoemoh
-mo noitamrof
-.egirevS
-i retapoemoh
-rares
-,FHN
-.tapoemohrujd
-relle tapoemoh mos
-nemaxe
-dnäkdog hco
-itapoemoh
--oemoh
-röf snatpecca
-eraderb
-ne ån
-.0002
-rå sedadlib
-FHN
-es.itapoemoh-fhn.www
-hco
-itapoemohrujd
-rammit 061 tsnim
-ted
-svärk retapoemohrujd
-röF
-dakö röf
-nevä rakrev
-tednubröF
-.nitap
-rammeldem
-tta
-åskco svärk teD .nicidemräniretev
-i gnindlibtu
-nevä
-,esleirfebsmom
-moneg
-tehgilgnägllit
-ne dem
-rå ejrav
-ppu sjlöf nenoitasirotkuA
-.gnirkäsröfsravsna
-rah
--oemoh
-soh dradnatssgnindlibtu
-göh
-.gnirkässtetilavk
-va gnindlibtueradiv
-dem hco
-retap
-.rammeldemdöts
-hco ednareduts
-röf paksmeldem
-nevä
-snnif teD
-.rammeldem
-anis
-.relger aksite
-rah FHN
-adnäkdog
-rä
-mos retapoemoh revö
-atsilsserda
-ne rah
-tednubröF .FHN va
-dareifitrec
-MSB va rä nam tta
-svärk
-FMY i meldem
-ilb tta röF
-noitamrofni
-dakö
-röf
-.a.lb ratebra
-FMY
-va röf
-dnubröfsekry
-tte rä
-FMY
-,dnubröF
-sanrerössaMsekrY
-.tueparetegassam
-ksnicidem
-dareifitrec
-MMB va relle
-rössam
-.iparetegassam
-hco egassam
-mo
-)MSB(
-egassaM
-ksnevS
-tedårhcsnarB
-es.anrerossam//:ptth
-,FMY
-.naden
-MMB
-evitkepser
-MSB es gnireifitrec
-mo noitamrofni
-rem röF
--stetilavk
-röf nevä
-rakrev tednubröF
-ksnicideM
-nenoitasinagrohcsnarB
-hco
-smom
-tknäs hco
-gninksrof
-,gnirkäs
-edareifitrec
-)MMB(
-iparetegassaM
-tmas iparetegassam
-hco egassam
-röf
--egassam
-aksnicidem
-hco
-rerössam
-sared röf
-ragnirkäsröf
-hco roklliv
-arb
--MAK i meldem
-rä FMY
-.retueparet
-.retehmaskrev
-.egassam
-ksnevS
-hco
-néttimmok
-ksnevS
-aiv rä
-FMY i
-rammeldeM
--tnaH
-i rammeldem
-åskco
-egassam
-.noitasinagroskiR
-sanrakrev
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svenska Homeopaters
+
+SHR är ett yrkesförbund öppet för alla SHR anordnar fortbildning genom
+
+För att bli en auktoriserad medlem krävs en av SHR godkänd medi-
+
+Riksförbund, SHR,
+
+yrkesverksamma homeopater och
+
+seminarier, har kontakt med allmän- cinsk utbildning om minst motsvarande 60 hp och minst 600 lärar-
+
+www.svenskahomeopater.se
+
+djurhomeopater som uppfyller för-
+
+heten och driver frågor angående
+
+ledda timmar inom homeopati. Vidare krävs att en auktoriserad
+
+bundets krav på såväl basmedicinsk homeopati i Sverige.
+
+medlem ska driva en praktik som uppfyller de krav som myndigheter
+
+som homeopatisk utbildning.
+
+och SHR ställer samt att medlemmen ska ha patientförsäkring.
+
+SHR bildades år 1928.
+
+I medlemskapet ingår en grundförsäkring med bl.a. ansvars-
+
+försäkring.
+
+Det finns även flera andra typer av medlemskap, såsom passiv
+
+medlem, nystartad aktiv medlem, studerandemedlem och stöd-
+
+medlem.
+
+SHR har 110 medlemmar varav 40 är auktoriserade och yrkes-
+
+verksamma.
+
+Förbundet har en lista och sökfunktion på hemsidan över de auktori-
+
+serade medlemmarna.
+
+Nordiska homeopatförbundet, NHF är ett yrkesförbund som organi- NHF arbetar bl.a. med att sprida in- För att bli medlem i NHF krävs basmedicinsk utbildning motsvarande
+
+NHF,
+
+serar homeopater i Sverige.
+
+formation om homeopati och för att minst 60 hp för homeopater och minst 600 timmar undervisning i
+
+www.nhf-homeopati.se
+
+NHF bildades år 2000.
+
+nå en bredare acceptans för homeo- homeopati och godkänd examen som homeopat eller djurhomeopat.
+
+patin. Förbundet verkar även för ökad För djurhomeopater krävs det minst 160 timmar djurhomeopati och
+
+tillgänglighet genom momsbefrielse, även utbildning i veterinärmedicin. Det krävs också att medlemmar
+
+hög utbildningsstandard hos homeo- har ansvarsförsäkring. Auktorisationen följs upp varje år med en
+
+pater och med vidareutbildning av kvalitetssäkring.
+
+sina medlemmar.
+
+Det finns även medlemskap för studerande och stödmedlemmar.
+
+NHF har etiska regler.
+
+Förbundet har en adresslista över homeopater som är godkända
+
+av NHF.
+
+YrkesMassörernas Förbund,
+
+YMF är ett yrkesförbund för av
+
+YMF arbetar bl.a. för ökad information För att bli medlem i YMF krävs att man är av BSM certifierad
+
+YMF, http://massorerna.se
+
+Branschrådet Svensk Massage (BSM) om massage och massageterapi.
+
+massör eller av BMM certifierad medicinsk massageterapeut.
+
+och Branschorganisationen Medicinsk Förbundet verkar även för kvalitets- För mer information om certifiering se BSM respektive BMM nedan.
+
+Massageterapi (BMM) certifierade
+
+säkring, forskning och sänkt moms
+
+massörer och medicinska massage- för massage och massageterapi samt
+
+terapeuter. YMF är medlem i KAM-
+
+bra villkor och försäkringar för deras
+
+kommittén och Svensk massage.
+
+verksamheter.
+
+Medlemmar i YMF är via Svensk
+
+massage också medlemmar i Hant-
+
+verkarnas Riksorganisation.
+
 6
 
 <!-- sida 643 -->
@@ -27718,317 +26937,121 @@ sanrakrev
 SOU 2019:15                                   Bilaga 5
 
 531
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf ddesva
-nenoitasinagro
-rä meV
-noitasinagrO
-va
-gnirkässtetilavk
-röf krevtän
-tllenoitanretni
-tte rä deMorhtnA
-ajmärf
-tta
-röf .a.lb
-ratebra
-TMAS
-röf noitasinagroylparap
-ne
-rä TMAS
--oportnA
-röf
-gnineröF
-ksnevS
-hco
-ammaskrevsekry
-,retehmaskrev
-aksnicidem
-aksifosoportna
-aksifosoportna
-ned va
-negnilkcevtu
-ragnineröf
-agirvö
-,ragnineröfsekry
-,ipareT
-hco
-nicideM
-ksifos
-.ragnindlibtu
--osoportna
-tta
-röf hco
-netsnokekäl
--ortna ned
-moni
-retehmaskrev
-hco
-,TMAS
-.rammeldem
-mos
-renosrep
-aksidiruj
-avle rah
-TMAS
-ned
-i
-sarergetni
-aks
-nicidem
-ksif
-.netsnokekäl
-aksifosop
-es.nicidemksifosoportna//:ptth
-.nedråvkujs
-annämlla
-adnäkdog
-arav
-aks
-anredotemipareT
-div nenoitkes
-aksnicidem
-ned va
-,ifosoportnA
-röf
-naloksgöH
-airF
-.ziewhcS
-,hcanroD
-,munaehteoG
-va dnäkdog
-gnindlibtu
-svärk
-paksmeldem
-eiranidro
-röF
-alkcevtu
-tta
-röf .a.lb
-ratebra
-TKAF
-hco anräJ
-i
-7991
-rå
-sedadnurg
-TKAF
-ksifosoportnA
-röf
-negnineröF
-i
-munaehteoG
-div noitkes
-aksnicidem
-stepakslläS
-aksifosoportnA
--åtsröf
-llit
-ardib
-tta röf
-,niparettsnok
--arettsnok
-röf
-gnineröfsekry
-ne rä
-,TKAF
-,iparettsnoK
-paksmeldemdöts
-nevä
-snnif
-teD
-.gnirkäsröfsravsna
-tmas hcanroD
-,aksinnäm
-nallem
-tednabmas
-va esle
-dem tehgilne
-i ratebra
-mos
-retuep
-es.iparettsnok.www
-rammit
-02
-tsnim
-gis adlibtrof
-tta
-avärtsretfe
-aks
-TKAF i rammeldeM
--tsnok
-röf
-tmas asläh
-hco
-tsnok
-.netsnokekäl
-aksifosoportna
-ned
-rah negnineröfsekrY
-.rejniltkirsgnindlibtrof
-s:TKAF tgilne
-rå rep
-.tellähmas
-i gnirelbate
-sniparet
-anreiparettsnok
-rattafmo
-egirevS
-I
-.relger
-aksite rellåhenni
-.a.lb
-mos
-gnirkässtetilavk
-röf reiretirk
-hco gninkcet
-,gninlåm
-,gnås
-,kisum
-negninkrämstetilavk
-rammeldem
-anis adujbre
-tta
-dnåtsllit rah
-TKAF
-.gnirelledom
-ned moni
-gninkrämstetilavk
-llenoitanretni
-ne
-rä mos deMorhtnA
-molpid
-svärk
-negninkrämstetilavk
-åf tta
-röF .neslerör
-aksifosoportna
-relle
-ragnindlibtu
-adnäkdog
-snimedaka
-aksieporue
-ned va ne
-nårf
-narkäsröf
-giltfirks
-,nenoitkes
-aksnicidem
-ned
-va
-tnäkdog molpid
-tte
--trof
-02
-tmas
-molpid
-tellåhre
-retfe nelläfllitiparet
-adröftu 054
-mo
-.TKAF
-va
-adnäkdog
-anredanåm
-21
-etsanes
-ed rammitsgnindlib
-ratebra
-hco
-ammaskrev
-rä 04
-varav
-,rammeldem
-06 rah negnineröF
--smodredlå
-,retehmaskrev
-aksitueparetlaicos
-,roloks i sivlepmexe .suhkujs hco
-meh
--gattom
-ange rah
-mos rammeldem
-revö gninkcetröf
-ne rah
-TKAF
-negninkrämstetilavk
-rah mos
-akliv rågmarf
-åskco
-ted räd ,ragnin .deMorhtnA
-rejdöts
-mos erakäl
-edaremitigel
-va sakösna
-nak paksmeldeM
-aksifosoportna
-ned röf
-rakrev
-MOAL
-mos erakäl
-röf
-gnineröf
-ne
-rä MOAL
--oportna
-röf
-negnineröfrakäL
-ttärtsör
-natu paksmeldem
-nevä
-snnif
-teD
-.låmadnä
-snegnineröf
-moneg
-.a.lb
-egirevS
-i
-nenicidem
-ksifosoportna
-röf
-essertni
-tte rah
-,nicidem
-daretneiro
-tksifos
-.edaremitigel
-rä
-etni
-mos renosrep
-röf
-tta moneg
-,gnindlibtu
-hco
-gninksrof
-.6691
-rå
-sedadlib
-MOAL
-.nicidem
-es.moal.www
-,MOAL
-.rammeldem
-05
-ac ednaravrän
-röf rah
-MOAL
-etebra
-tksnicidem
-tksitkarp
-ajdöts
-tta röf
-ragninttästuröf
-apaks
-tta hco
-.tsnokekäl
-ksifosoportna
-avötu
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svensk Förening för Antropo- SAMT är en paraplyorganisation för SAMT arbetar bl.a. för att främja
+
+AnthroMed är ett internationellt nätverk för kvalitetssäkring av
+
+sofisk Medicin och Terapi,
+
+yrkesföreningar, övriga föreningar utvecklingen av den antroposofiska antroposofiska medicinska verksamheter, yrkesverksamma och
+
+SAMT,
+
+och verksamheter inom den antro- läkekonsten och för att antroposo- utbildningar.
+
+http://antroposofiskmedicin.se posofiska läkekonsten.
+
+fisk medicin ska integreras i den
+
+SAMT har elva juridiska personer som medlemmar.
+
+Terapimetoderna ska vara godkända allmänna sjukvården.
+
+av den medicinska sektionen vid
+
+Fria Högskolan för Antroposofi,
+
+Goetheanum, Dornach, Schweiz.
+
+Föreningen för Antroposofisk FAKT grundades år 1997 i Järna och FAKT arbetar bl.a. för att utveckla
+
+För ordinarie medlemskap krävs utbildning godkänd av
+
+Konstterapi, FAKT,
+
+är en yrkesförening för konsttera-
+
+konstterapin, för att bidra till förstå- Antroposofiska Sällskapets medicinska sektion vid Goetheanum i
+
+www.konstterapi.se
+
+peuter som arbetar i enlighet med
+
+else av sambandet mellan människa, Dornach samt ansvarsförsäkring. Det finns även stödmedlemskap
+
+den antroposofiska läkekonsten.
+
+konst och hälsa samt för konst-
+
+Medlemmar i FAKT ska eftersträva att fortbilda sig minst 20 timmar
+
+I Sverige omfattar konstterapierna terapins etablering i samhället.
+
+per år enligt FAKT:s fortbildningsriktlinjer. Yrkesföreningen har
+
+musik, sång, målning, teckning och
+
+kriterier för kvalitetssäkring som bl.a. innehåller etiska regler.
+
+modellering.
+
+FAKT har tillstånd att erbjuda sina medlemmar kvalitetsmärkningen
+
+AnthroMed som är en internationell kvalitetsmärkning inom den
+
+antroposofiska rörelsen. För att få kvalitetsmärkningen krävs diplom
+
+från en av den europeiska akademins godkända utbildningar eller
+
+ett diplom godkänt av den medicinska sektionen, skriftlig försäkran
+
+om 450 utförda terapitillfällen efter erhållet diplom samt 20 fort-
+
+bildningstimmar de senaste 12 månaderna godkända av FAKT.
+
+Föreningen har 60 medlemmar, varav 40 är verksamma och arbetar
+
+exempelvis i skolor, socialterapeutiska verksamheter, ålderdoms-
+
+hem och sjukhus.
+
+FAKT har en förteckning över medlemmar som har egna mottag-
+
+ningar, där det också framgår vilka som har kvalitetsmärkningen
+
+AnthroMed.
+
+Läkarföreningen för antropo-
+
+LAOM är en förening för läkare som LAOM verkar för den antroposofiska Medlemskap kan ansökas av legitimerade läkare som stödjer
+
+sofiskt orienterad medicin,
+
+har ett intresse för antroposofisk
+
+medicinen i Sverige bl.a. genom
+
+föreningens ändamål. Det finns även medlemskap utan rösträtt
+
+LAOM, www.laom.se
+
+medicin. LAOM bildades år 1966.
+
+forskning och utbildning, genom att för personer som inte är legitimerade.
+
+stödja praktiskt medicinskt arbete LAOM har för närvarande ca 50 medlemmar.
+
+och att skapa förutsättningar för att
+
+utöva antroposofisk läkekonst.
+
 7
 
 <!-- sida 644 -->
@@ -28036,219 +27059,71 @@ avötu
 Bilaga 5                                   SOU 2019:15
 
 532
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
--eksretökskujs
-hco
-roksretökskujs
-va
-sakösna
-nak paksmeldeM
--osläh
-ne
-ajmärf
-tta
-röf ratebra
-LAS
-roksretökskujs
-röf
-gnineröf
-ne
-rä
-LAS
-röf
-tednubröfeksretökskujS
-.ednareduts
-ned
-va
-dareripsni
-rä
-mos
-dråvkujs
-hco
-rah
-mos
-ednaredutseksretökskujs
-hco
-,LAS
-,tsnokekäL
-ksifosoportnA
-gnisruN
-cihposoporhtnA
-fo
-licnuoC
-lanoitanretnI
-va meldem rä
-LAS
-röf
-hco
-nenysoksinnäm
-aksifosoportna
-.nicidem
-ksifosoportna
-röf
-essertni
-tte
-gro.lastednubrof.www
-tenagrosdårmas
-i
-ratled
-LAS
-i rammeldem
-hco
-,ANACI ,snoitaicossA
-i
-anrepaksnuk
-va
-ednapujdröf
-tte
--kujs
-ksnevS
-moni
-noitkes
-ne
-rä
-LAS
-NAFI-ANACI
-.NAFI
-,gnisruN
-cihposoporhtnA
-fo
-muroF lanoitanretnI
-randrona
-hco
-tsnokekäl
-ksifosoportna
-.gnineröfeksretöks
-gro.pa-teatilauq.www
-–
-metsyssgnirkässtetilavk
-tte
-rah
-ksifosoportna
-i
-resruk
-ednammokretå
-almas
-tta
-röf
-4891
-rå
-sedadlib
-LAS
-.rammeldem
-001 rah
-LAS
-.dandråvmo
-tta
-röfni
-roksretökskujs
-edaressertni
-.retsigersmeldem
-tlleiciffo
-tegni rah tednubröF
-.5891
-rå
-edanppö
-nekinilkradiV
-.retsimtyrueekäl
-edaremolpid
-va
-sakösna
-nak paksmeldeM
-snimtyrueekäl
-röf
-.a.lb
-ratebra
-FEL
-röf
-noitasinagrostebramas
-ne
-rä
-FEL
-negnineröfimtyrueekäL
-negninkrämstetilavk
-rammeldem
-anis
-adujbre
-tta dnåtsllit rah
-FEL
-gnildnaheb
-ksnicidem
-mos
-gnirelbate
-.retsimtyrueekäl
-edaremolpid
-,FEL
-,egirevS
-i
-ned
-moni
-gninkrämstetilavk
-llenoitanretni
-ne rä mos deMorhtnA
-hco
-gninpujdröf
-snimtyrueekäl
-röf
-hco
-es.negninerofimtyrueekal.www
-.neslerör
-aksifosoportna
-hco
-gnindlibtrof
-moneg
-gnilkcevtu
-deMorhtnA
-nesnecil
-avrävröf
-lliv
-mos
-negnineröf
-i rammeldeM
-tednubleger
-raregnarra
-FEL
-.gninksrof
-anedårmo
-moni
-gnindlibtrof
-rammit
-02
-tsnim
-i atled rå ejrav
-aks
-.rammeldem
-anis
-röf gnindlibtrof
-.tegat
-i rå
-åvt
-relläg
-nesneciL
-.snetepmok
-laicos
-hco iparet ,nicidem
-åp
-snecil
-deMorhtnA
-rah
-mos
-rammeldem
-åp atsil ne rah
-FEL
-.adismeh
-nis
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Sjuksköterskeförbundet för
+
+SAL är en förening för sjuksköterskor SAL arbetar för att främja en hälso- Medlemskap kan ansökas av sjuksköterskor och sjuksköterske-
+
+Antroposofisk Läkekonst, SAL, och sjuksköterskestuderande som har och sjukvård som är inspirerad av den studerande.
+
+www.forbundetsal.org
+
+ett intresse för antroposofisk medicin. antroposofiska människosynen och för SAL är medlem av International Council of Anthroposophic Nursing
+
+SAL är en sektion inom Svensk sjuk- ett fördjupande av kunskaperna i
+
+Associations, ICANA, och medlemmar i SAL deltar i samrådsorganet
+
+sköterskeförening.
+
+antroposofisk läkekonst och anordnar International Forum of Anthroposophic Nursing, IFAN. ICANA-IFAN
+
+SAL bildades år 1984 för att samla återkommande kurser i antroposofisk har ett kvalitetssäkringssystem – www.qualitaet-ap.org
+
+intresserade sjuksköterskor inför att omvårdnad.
+
+SAL har 100 medlemmar.
+
+Vidarkliniken öppnade år 1985.
+
+Förbundet har inget officiellt medlemsregister.
+
+Läkeeurytmiföreningen
+
+LEF är en samarbetsorganisation för LEF arbetar bl.a. för läkeeurytmins Medlemskap kan ansökas av diplomerade läkeeurytmister.
+
+i Sverige, LEF,
+
+diplomerade läkeeurytmister.
+
+etablering som medicinsk behandling LEF har tillstånd att erbjuda sina medlemmar kvalitetsmärkningen
+
+www.lakeeurytmiforeningen.se
+
+och för läkeeurytmins fördjupning och AnthroMed som är en internationell kvalitetsmärkning inom den
+
+utveckling genom fortbildning och
+
+antroposofiska rörelsen.
+
+forskning. LEF arrangerar regelbundet Medlemmar i föreningen som vill förvärva licensen AnthroMed
+
+fortbildning för sina medlemmar.
+
+ska varje år delta i minst 20 timmar fortbildning inom områdena
+
+medicin, terapi och social kompetens. Licensen gäller två år i taget.
+
+LEF har en lista på medlemmar som har AnthroMed licens på
+
+sin hemsida.
+
 8
 
 <!-- sida 645 -->
@@ -28256,263 +27131,109 @@ nis
 SOU 2019:15                                   Bilaga 5
 
 533
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra daV
-?röf
-ddesva
-nenoitasinagro
-rä meV
-noitasinagrO
--hcsnarB
-,nagrosgnireifitrec
-atarapes
-åvt
-snnif
-nenoitasinagro I
-röf .a.lb
-ratebra egassaM
-ksnevS
-7102
-rå
-sedadlib
-egassaM
-ksnevS
-,egassaM
-ksnevS
--ideM
-nenoitasinagrohcsnarB
-hco )MSB(
-egassaM
-ksnevS tedår
-hco
-tetilavk ,tehgilkcikssekry
-röf
-noitasinagroylparap
-ne mos
-es.egassamksnevs.www
-,reåvinsekry
-akilo
-åp
-rareifitrec
-mos )MMB(
-iparetegassaM
-ksnic
--amrofni
-röf tmas tehrekästneitap
-egassaM
-ksnevS
-.nehcsnarbegassam
-.naden es
-.tedårmo
-moni gninksrof
-hco noit
-dnubröfsekry
-,gateröf
-,roloks
-ralmas
-:arav
-nak egassaM
-ksnevS i meldeM
-arav tta
-llit ratfys egassaM
-ksnevS
-dem
-renoitasinagro
-ardna
-hco
-rerössam
-edareifitrec
-MSB
-va
-raresinagro
-mos
-dnubröfsekrY •
-röf ratebra
-hco nehcsnarb
-i van tte
-.låm
-ammasnemeg
-.retueparetegassam
-aksnicidem
-edareifitrec
-MMB va hco
-naslähklof
-aksnevs
-ned atfyl tta
--eifitrec
-MSB
-va
-retsnäjtegassam
-rellåhadnahllit
-mos gateröF •
--orp ned
-attöts hco
-anräv tta tmas
--egassam
-aksnicidem
-edareifitrec
-MMB
-va hco
-rerössam edar
-ned hco
-nerössamsekry
-allenoissef
-.retueparet
-.negassam
-aksnevs
-.gateröf
-relle ragnineröf
-ardnA •
-.reåvin
-navo
-llit
-egassam
-moni
-radlibtu
-mos alokS •
-hco ppurgspaksnäv
-snegnineröf
-i ,ttärtsör
-natu
-,dividni dliksnE •
-.låm
-ammasnemeg
-dem
-renoitasinagro
-ardna .snnif dår tksitE
-:gad
-i snnif
-nenoitasinagro I MSB • MMB •
-dnubröF
-sanrerössaMsekrY
-•
-egassaM
-ksnevS
-anragateröF •
-egassaM
-ksnevS
-neppurgsrötnareveL
-• rolokS •
-röf
-retsigersekry
-tte
-marf
-at
-tta dem
-ratebra
-egassaM ksnevS
-.retueparetegassam
-aksnicidem
-hco
-rerössam
-edareifitrec
-div
-dnäkdog
-ilb
-ednakös
-ned
-aks MSB
-va dareifitrec
-ilb tta röF
-,tehgilkcikssekry
-röf .a.lb
-ratebra MSB
--itrec
-tner
-tte
-MSB
-rä
-7102
-rå
-nadeS
-,egassaM
-ksnevS
-tedårhcsnarB
-röf gilpmäl
-samödeb
-hco
-vorpsgnireifitrec
-aksitkarp
-hco aksiteroet
-ne rah
-MSB .tetilavk
-hco tetisoires
-roloks
-sledatsem
-räd
-nagrosgnireif
-es.egassamksnevs.www
-,MSB
-rednibröf
-ednakös
-neD
-.rotanimaxe
-dnäkdog-MSB
-va tekryrössam
--spaksnuk
-ed va gninvirksebspaksnuk
-rogårf
-agirvÖ
-.rammeldem
-mos
-rågni
--sravsna
-hco
--tneitap
-ahenni
-tta
-hco rejniltkir
-aksite ajlöf tta gis
-aks
-rerössam
-mos låmsgnindlibtu
-hco
--agro
-edatratsyn
-ned
-llit
-stattylf
-rah
-.gnirkäsröf
-.ammaskrevsekry
-arav
-tta röf ånppu
-.egassaM
-ksnevS
-nenoitasin
-.snnif dår tksitE
-aregnuf
-aks negninvirksebspaksnuK
-.8991
-rå
-sedadlib
-MSB
-.nakösna
-rednu
-rä
-ert
-eragilretty
-hco rolokssmeldem
-ert rah MSB
-hco
-roloks röf pläjh
-hco döts mos
-.rerössam
-edareifitrec
-000
-51 ac
-snnif tegälsgad I
--stetilavk
-röf sdnävna
-hco eraräl
-röf
-tmas ragnindlibtu
-va gnirkäs
-.nevorpsgnireifitrec
-va gninmroftu
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svensk Massage,
+
+Svensk Massage bildades år 2017 Svensk Massage arbetar bl.a. för
+
+I organisationen finns två separata certifieringsorgan, Bransch-
+
+www.svenskmassage.se
+
+som en paraplyorganisation för
+
+yrkesskicklighet, kvalitet och
+
+rådet Svensk Massage (BSM) och Branschorganisationen Medi-
+
+massagebranschen. Svensk Massage patientsäkerhet samt för informa- cinsk Massageterapi (BMM) som certifierar på olika yrkesnivåer,
+
+samlar skolor, företag, yrkesförbund tion och forskning inom området. se nedan.
+
+och andra organisationer med
+
+Svensk Massage syftar till att vara Medlem i Svensk Massage kan vara:
+
+gemensamma mål.
+
+ett nav i branschen och arbetar för • Yrkesförbund som organiserar av BSM certifierade massörer
+
+att lyfta den svenska folkhälsan
+
+och av BMM certifierade medicinska massageterapeuter.
+
+samt att värna och stötta den pro- • Företag som tillhandahåller massagetjänster av BSM certifie-
+
+fessionella yrkesmassören och den rade massörer och av BMM certifierade medicinska massage-
+
+svenska massagen.
+
+terapeuter.
+
+• Andra föreningar eller företag.
+
+• Skola som utbildar inom massage till ovan nivåer.
+
+• Enskild individ, utan rösträtt, i föreningens vänskapsgrupp och
+
+andra organisationer med gemensamma mål.
+
+Etiskt råd finns.
+
+I organisationen finns i dag:
+
+• BSM
+
+• BMM
+
+• YrkesMassörernas Förbund
+
+• Företagarna Svensk Massage
+
+• Leverantörsgruppen Svensk Massage
+
+• Skolor
+
+Svensk Massage arbetar med att ta fram ett yrkesregister för
+
+certifierade massörer och medicinska massageterapeuter.
+
+Branschrådet Svensk Massage, Sedan år 2017 är BSM ett rent certi- BSM arbetar bl.a. för yrkesskicklighet, För att bli certifierad av BSM ska den sökande bli godkänd vid
+
+BSM, www.svenskmassage.se fieringsorgan där mestadels skolor seriositet och kvalitet. BSM har en
+
+teoretiska och praktiska certifieringsprov och bedömas lämplig för
+
+ingår som medlemmar. Övriga frågor kunskapsbeskrivning av de kunskaps- massöryrket av BSM-godkänd examinator. Den sökande förbinder
+
+har flyttats till den nystartade orga- och utbildningsmål som massörer ska sig att följa etiska riktlinjer och att inneha patient- och ansvars-
+
+nisationen Svensk Massage.
+
+uppnå för att vara yrkesverksamma. försäkring.
+
+BSM bildades år 1998.
+
+Kunskapsbeskrivningen ska fungera Etiskt råd finns.
+
+som stöd och hjälp för skolor och
+
+BSM har tre medlemsskolor och ytterligare tre är under ansökan.
+
+lärare och används för kvalitets-
+
+I dagsläget finns ca 15 000 certifierade massörer.
+
+säkring av utbildningar samt för
+
+utformning av certifieringsproven.
+
 9
 
 <!-- sida 646 -->
@@ -28520,422 +27241,177 @@ va gninmroftu
 Bilaga 5                                   SOU 2019:15
 
 534
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä meV
-noitasinagrO
-svärk
-tueparetegassam
-ksnicidem
-dareifitrec-MMB
-va
-ne
-ilb
-tta
-röF
--ni
-adirps
-tta
-röf
-.a.lb
-ratebra
-MMB
--itrec
-tner tte
-MMB
-rä
-7102
-rå
-nadeS
-nenoitasinagrohcsnarB
-va
-ne
-åp
-tueparetegassam
-ksnicidem
-llit
-reidutssditleh
-srå
-2–5,1
--egassam
-ksnicidem
-mo
-noitamrof
-roloks
-sledatsem
-räd
-nagrosgnireif
-,iparetegassaM
-ksnicideM
--tu
-gidrävkil
-dnäkdog
-MMB
-va
-ne
-tvitanretla
-,aloks
-dnäkdog
-MMB
-ksnicidem
-arergetni
-tta
-röf
-hco
-iparet
-rogårf
-agirvÖ
-.rammeldem
-mos
-rågni
-es.smmb.www
-,MMB
-.vorpsgnireifitrec
-tnäkdog
-tmas
-gnindlib
-rakrev
-MMB
-.nedråv
-i
-iparetegassam
--agro
-edatratsyn
-ned
-llit
-stattylf
-rah
--dlibtu
-va
-gniresidradnats
-röf
-nevä
-.egassaM
-ksnevS
-nenoitasin
-gniremitigel
-,gnirkässtetilavk
-,negnin
-.0102
-rå
-sedadlib
-MMB
-.esleirfebsmom
-hco
-,dnubröF
-sanrerössaMsekrY
-es.anrerossam//:ptth
-,FMY
-nenoitasinagro
-röf
-txet
-eS
-rednu
-rodis
-edneågeröf
-åp
-.néttimmok-MAK
-nicideM
-vitargetnI
--sekry
-ed
-va
-nogån
-röhllit
-nam
-tta
-svärk
-MIF
-i
-meldem
-ilb
-tta
-röF
-nicidem
-vitargetni
-tta
-röf ratebra
-MIF
-edaremitigel
-röf
-gnineröf
-ne
-rä MIF
-vitargetnI
-röf
-negnineröF
-.neslerytslaicoS
-va
-dadräftu
-noitamitigel
-rah
-mos
-reppurg
-ne mos
-negninklofeb
-sdujbre
-dråv
-hco
--etni
-röf essertni
-dem
-reppurgsekry
--vitargetni//:ptth
-,MIF
-,nicideM
-.nedråv
-edarelbate
-ned
-va led
-gilrutan
-.8002
-rå sedadlib
-MIF .1nicidem
-vitarg
-mif/es.nicidem
--rutan
-raldemröf
-hco
-rakaveb
-MIF
-dem etebramas
-arän
-tte
-rah MIF
-gilpaksnetevnamuh
-hco
-gilpaksnetev
-vitargetni
-röf negnineröfrakäL
-,dråvkujs
-hco
--osläh
-moni
-gninksrof
-resva
-9102
-rå
-rednU
-.MIL
-,nicidem
-.MAK
-evisulkni
-.nammas
-åg tta
-anragnineröf
-,netömsmeldem
-moneg
-ratebra
-MIF
--eröf
-,reiranimes
-agilpaksnetevrävt
-.reppurgstebra
-hco
-ragninsäl
-01
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Branschorganisationen
+
+Sedan år 2017 är BMM ett rent certi- BMM arbetar bl.a. för att sprida in- För att bli en av BMM-certifierad medicinsk massageterapeut krävs
+
+Medicinsk Massageterapi,
+
+fieringsorgan där mestadels skolor formation om medicinsk massage-
+
+1,5–2 års heltidsstudier till medicinsk massageterapeut på en av
+
+BMM, www.bmms.se
+
+ingår som medlemmar. Övriga frågor terapi och för att integrera medicinsk BMM godkänd skola, alternativt en av BMM godkänd likvärdig ut-
+
+har flyttats till den nystartade orga- massageterapi i vården. BMM verkar bildning samt godkänt certifieringsprov.
+
+nisationen Svensk Massage.
+
+även för standardisering av utbild-
+
+BMM bildades år 2010.
+
+ningen, kvalitetssäkring, legitimering
+
+och momsbefrielse.
+
+YrkesMassörernas Förbund,
+
+YMF, http://massorerna.se
+
+Se text för organisationen
+
+på föregående sidor under
+
+KAM-kommittén.
+
+Integrativ Medicin
+
+Föreningen för Integrativ
+
+FIM är en förening för legitimerade FIM arbetar för att integrativ medicin För att bli medlem i FIM krävs att man tillhör någon av de yrkes-
+
+Medicin, FIM, http://integrativ- yrkesgrupper med intresse för inte- och vård erbjuds befolkningen som en grupper som har legitimation utfärdad av Socialstyrelsen.
+
+medicin.se/fim
+
+grativ medicin1. FIM bildades år 2008. naturlig del av den etablerade vården.
+
+FIM har ett nära samarbete med
+
+FIM bevakar och förmedlar natur-
+
+Läkarföreningen för integrativ
+
+vetenskaplig och humanvetenskaplig
+
+medicin, LIM. Under år 2019 avser
+
+forskning inom hälso- och sjukvård,
+
+föreningarna att gå samman.
+
+inklusive KAM.
+
+FIM arbetar genom medlemsmöten,
+
+tvärvetenskapliga seminarier, före-
+
+läsningar och arbetsgrupper.
+
+10
 
 <!-- sida 647 -->
 
 SOU 2019:15                                   Bilaga 5
 
 535
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä meV
-noitasinagrO
-nevÄ
-.meldem
-ilb
-nak
-nicidem
-vitargetni
-röf
-essertni
-dem
-erakäL
-åp nysstehleh
-ne röf akrev
-lliv
-MIL
-edaremitigel
-röf
-gnineröf
-ne rä MIL
-vitargetnI
-röf
-negnineröfrakäL
-nak eravötu
-aksnicidem
-ardna
-hco
-erakäldnat
-,retnedutsrakäl
-aksnicidem
-tta ranem hco naksinnäm
-vitargetni
-röf
-essertni
-dem
-erakäl
--vitargetni//:ptth
-,MIL
-,nicideM
-.paksmeldem
-mo
-akösna
-ajdöts
-tta åp satkirni röb redrägtå
-.nicidem
-mil/es.nicidem
-etni hco
-ressecorp ednajmärfosläh
-negnineröF
-dem
-.a.lb
-rakrevmas
-MIL
-adliksne
-aldnaheb tta åp
-trabne
-rå
-rednU
-.MIF
-,nicideM
-vitargetnI
-röf
-.motmys hco ramodkujs
-MIF
-hco
-MIL
-anragnineröf
-resva
-9102
-gnirk
-gninksrof röf ratebra
-MIL
-.nammas
-åg tta
-,redotem
-aksnicidem arätnemelpmok
-hco
-gnindirpssnoitamrofni
-dakö
-moneg
-.a.lb reks atteD .gnindlibtu
--sgnineröf
-hco reiranimes
-,resruk
-tta
-röf åskco ratebra MIL
-.netöm
-arätnemelpmok
-edaretnemukodläv
-sarergetni
-aks redotemsgnildnaheb
-resna
-hco nedråvkujs agilnav
-ned
-i
-daremitigel
-nanna hco erakäl
-tta
-erröts
-åf röb lanosrepsdråvkujs
--sekry
-tlluf rednu – tta retehgiljöm
-hco arätnemelpmok
-avötu –
-ravsna
-.redotem avitargetni
-renoitasinagro
-agirvÖ
-nam
-tta svärk
-gogadepsgnindna
-maskrev
-mos
-meldem
-ilb
-tta
-röF
-adirps tta
-röf .a.lb ratebra negnineröF
--irf
-röf
-gnineröfessertni
-ne rä AFF
-ednavigirF
-röf
-negnineröF
-ed
-rejlöf nam
-tta
-tmas
-gnindlibtu
-dnäkdog
-negnineröf
-va
-ne
-ttåg
-gnindna
-ednarögirf mo noitamrofni
-.egirevS
-i
-gnindna
-ednarög
-,AFF
-,gnindnA
--meldem
-nevä
-snnif
-teD
-.regogadepsgnindna
-röf
-anrejniltkir
-aksite
-ksikysp
-ajmärf tta röf dotem
-ne
-mos
-ofni.gnindna//:ptth
-.meldemdöts
-mos
-paks
-.asläh ksisyf
-hco
-.6102
-rå
-rammeldem
-ednalateb
-051
-edah
-negnineröF
-rä mos
-akliv
-rågmarf
-ted
-räd
-regogadep
-revö
-atsil
-ne
-rah
-AFF
-.edaremolpid
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Läkarföreningen för Integrativ LIM är en förening för legitimerade LIM vill verka för en helhetssyn på
+
+Läkare med intresse för integrativ medicin kan bli medlem. Även
+
+Medicin, LIM, http://integrativ- läkare med intresse för integrativ
+
+människan och menar att medicinska läkarstudenter, tandläkare och andra medicinska utövare kan
+
+medicin.se/lim
+
+medicin.
+
+åtgärder bör inriktas på att stödja
+
+ansöka om medlemskap.
+
+LIM samverkar bl.a. med Föreningen hälsofrämjande processer och inte
+
+för Integrativ Medicin, FIM. Under år enbart på att behandla enskilda
+
+2019 avser föreningarna LIM och FIM sjukdomar och symtom.
+
+att gå samman.
+
+LIM arbetar för forskning kring
+
+komplementära medicinska metoder,
+
+ökad informationsspridning och
+
+utbildning. Detta sker bl.a. genom
+
+kurser, seminarier och förenings-
+
+möten. LIM arbetar också för att
+
+väldokumenterade komplementära
+
+behandlingsmetoder ska integreras
+
+i den vanliga sjukvården och anser
+
+att läkare och annan legitimerad
+
+sjukvårdspersonal bör få större
+
+möjligheter att – under fullt yrkes-
+
+ansvar – utöva komplementära och
+
+integrativa metoder.
+
+Övriga organisationer
+
+Föreningen för Frigivande
+
+FFA är en intresseförening för fri-
+
+Föreningen arbetar bl.a. för att sprida För att bli medlem som verksam andningspedagog krävs att man
+
+Andning, FFA,
+
+görande andning i Sverige.
+
+information om frigörande andning gått en av föreningen godkänd utbildning samt att man följer de
+
+http://andning.info
+
+som en metod för att främja psykisk etiska riktlinjerna för andningspedagoger. Det finns även medlem-
+
+och fysisk hälsa.
+
+skap som stödmedlem.
+
+Föreningen hade 150 betalande medlemmar år 2016.
+
+FFA har en lista över pedagoger där det framgår vilka som är
+
+diplomerade.
+
 11
 
 <!-- sida 648 -->
@@ -28943,1813 +27419,796 @@ AFF
 Bilaga 5                                   SOU 2019:15
 
 536
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
--dnurg
-svärk
-egirevS
-i tednubröfikieR
-edaneröF
-i meldem ilb tta
-röF
-tta dem
-.a.lb ratebra
-tednubröF
-rä
-egirevS
-i
-tednubröfikieR
-edaneröF
-tednubröfikieR
-edaneröF
-.ikier i gnindlibtu
--stetilavk
-,ikier
-mo noitamrofni
-adirps
--ikier
-adliksne
-röf
-dnubröfskir
-tte
-egirevS
-i
-.rejniltkir
-aksite rah tednubröF
-ajdöts
-hco ajmärf
-,ragnindlibtu
-arkäs
-ardna
-tmas
-rammeldem
-ednavötu
-es.tednubrofikier.www
--krevsekry
-rä
-lat-05
-tte
-varav rammeldem
-002 ac rah tednubröF
-tta
-relf
-areripsni
-,ikier moni
-gninksrof
-.renoitasinagroikier
-.ikier moni ammas
--rutan
-ne arav
-tta tmas
-ikier
-gis
-aräl
-.5002
-rå sedadlib
-tednubröF
-arabkös
-hco
-agilnys
-sannif
-aks ed mo ajläv
-vläjs nak anrammeldeM
-etybtu
-hco paksnuk
-röf
-mrofttalp
-gil
-röf
-tte
-,retsiger
-atarapes
-åvt snnif teD
-.nadismeh åp retsiger
-i
-.retehnerafre
-va
-.rammeldem
-ammaskrevsekry
-röf tte hco rammeldem
--dlibtu
-ksnicidemsab
-ne
-svärk YHK i meldem
-gidrävlluf ilb tta
-röF
-hco
-asläh dakö
-röf .a.lb
-ratebra
-YHK
-ednaresitkarp
-röf dnubröf
-tte rä
-,YHK
-sretapoemoH
-aksissalK
-itapoemoh
-i gnindlibtu
-ne tmas ph 06 tsnim
-raravstom mos
-gnin
-mo
-paksnuk
-erttäb ,attynsllähmas
-retapoemoh
-ednareduts
-,retapoemoh
-,YHK
-,dnubröfsekry
-.rammitsgninsivrednu
-addelraräl
-006 tsnim ednattafmo
-gnirkässtetilavk
-,itapoemoh
-ksissalk
-.rammeldem
-ednajdöts
-hco
-es.retapoemohaksissalk.www
-rah
-nemmeldem
-tta svärk
-YHK i meldem
-daresirotkua ilb tta
-röF
-dakö
-röf hco retapoemoh
-aksissalk
-va
-rednu
-5891
-rå sedadlib
-tednubröF
-tivilb
-ah
-tta
-retfe
-itapoemoh
-ksissalk dem
-rå åvt tsnim i tatebra
-.ledemekäl
-aksitapoemoh
-llit
-gnågllit
-röf
-nimedakA
-aksnevS
-tenman
-.gnirkäsröfsravsna
-rahenni
-tmas tednubröf
-i meldem gidrävlluf
-7102
-rå
-rednU
-.itapoemoH
-ksissalK
-ksissalk
-dem
-atebra
-tta
-motussed gis rednibröf
-edaresirotkua
-neD
-.YHK
-llit tenman
-sedardnä
-.itapoemoh
-.meldemdöts
-hco ednareduts
-röf paksmeldem
-nevä snnif
-teD
-.rejniltkir
-aksite rah tednubröF
--esitkarp
-rä
-netfläh
-räfegnu
-varav ,rammeldem
-08 tgyrd rah
-YHK
-.ednar
-mo rågmarf
-ted
-räd
-noitknufkös
-dem atsilsserda
-ne rah tednubröF
-.daresirotkua
-rä nemmeldem
-21
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Förenade Reikiförbundet
+
+Förenade Reikiförbundet i Sverige är Förbundet arbetar bl.a. med att
+
+För att bli medlem i Förenade Reikiförbundet i Sverige krävs grund-
+
+i Sverige
+
+ett riksförbund för enskilda reiki-
+
+sprida information om reiki, kvalitets- utbildning i reiki.
+
+www.reikiforbundet.se
+
+utövande medlemmar samt andra
+
+säkra utbildningar, främja och stödja Förbundet har etiska riktlinjer.
+
+reikiorganisationer.
+
+forskning inom reiki, inspirera fler att Förbundet har ca 200 medlemmar varav ett 50-tal är yrkesverk-
+
+Förbundet bildades år 2005.
+
+lära sig reiki samt att vara en natur- samma inom reiki.
+
+lig plattform för kunskap och utbyte Medlemmarna kan själv välja om de ska finnas synliga och sökbara
+
+av erfarenheter.
+
+i register på hemsidan. Det finns två separata register, ett för
+
+medlemmar och ett för yrkesverksamma medlemmar.
+
+Klassiska Homeopaters
+
+KHY, är ett förbund för praktiserande KHY arbetar bl.a. för ökad hälsa och För att bli fullvärdig medlem i KHY krävs en basmedicinsk utbild-
+
+yrkesförbund, KHY,
+
+homeopater, studerande homeopater samhällsnytta, bättre kunskap om
+
+ning som motsvarar minst 60 hp samt en utbildning i homeopati
+
+www.klassiskahomeopater.se och stödjande medlemmar.
+
+klassisk homeopati, kvalitetssäkring omfattande minst 600 lärarledda undervisningstimmar.
+
+Förbundet bildades år 1985 under
+
+av klassiska homeopater och för ökad För att bli auktoriserad medlem i KHY krävs att medlemmen har
+
+namnet Svenska Akademin för
+
+tillgång till homeopatiska läkemedel. arbetat i minst två år med klassisk homeopati efter att ha blivit
+
+Klassisk Homeopati. Under år 2017
+
+fullvärdig medlem i förbundet samt innehar ansvarsförsäkring.
+
+ändrades namnet till KHY.
+
+Den auktoriserade förbinder sig dessutom att arbeta med klassisk
+
+homeopati.
+
+Det finns även medlemskap för studerande och stödmedlem.
+
+Förbundet har etiska riktlinjer.
+
+KHY har drygt 80 medlemmar, varav ungefär hälften är praktise-
+
+rande.
+
+Förbundet har en adresslista med sökfunktion där det framgår om
+
+medlemmen är auktoriserad.
+
+12
 
 <!-- sida 649 -->
 
 SOU 2019:15                                   Bilaga 5
 
 537
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-svärk
-tednubröf
-i gnirkäsröf
-ankcet
-annuk
-hco
-meldem ilb
-tta röF
-aslähklof
-gilrutan
-röf
-ratebra
-RMK
--sekry
-ednattafmoskir
-tte
-rä
-,RMK
-aksnicidemrätnemelpmoK
-evisulkni
-rammit
-addelraräl 002
-tsnim
-åp
-mrofiparet
-ne i gnindlibtu
-noitamrofni
-adirps
-tta
-moneg
-.a.lb
--lepmexe
-moni
-retueparet
-röf
-dnubröf
-//:ptth
-,RMK
-,tednubröfskiR
--iparet
-attasnammas
-arelf
-i gnindlibtu
-ne relle
-kitkarp hco
-iroet
-litssvil
-dnus
-llit
-artnumppu
-tta
-hco
--sgnirän
-,nicidemtrö
-,itapoemoh
-siv
-es.aksnicidemratnemelpmok
--meldem
-nevä
-snnif teD .rammit
-addelraräl
-003
-tsnim dem
-remrof
-ednajmärfebosläh
-tmas
-tsok
-hco
-,iparetamora
-,adevruya
-,nicidem
-.rammeldemdöts
-hco ednareduts
-röf
-paks
-RMK
-.ttoksllittsok
-va
-gnindnävna
-.iparetnoz
-relle
-ustaihs
-paksmeldem
-svärk edårmo
-tte moni
-RMK
-va dareifitrec
-ilb
-tta röF
-irfsmom
-hco
-gardva-TOB
-rejdöts
-.4002
-rå
-sedadlib
-RMK
-rah
-netueparet
-tta hco gnirkäsröfsravsna
-hco -tneitap
-,tednubröf
-i
-.gnildnaheb
-vitanretla
-.ph
-51
-ednaravstom tsnim
-igoloisyf
-hco imotana
-i repaksnuk
-.nicidemsab ph
-09 ednaravstom
-relläg
-rutknupuka
-röF
-.vark
-stednubröf rellyfppu
-ed
-mo
-sareifitrec
-nak roloks
-nevÄ
-.relger
-aksite rah
-RMK
-rammeldemednareduts
-5 ,rammeldem
-ammaskrevsekry
-633 rah
-RMK
-.rammeldemdöts
-2 hco
-taretros
-rammeldem revö
-adismeh
-nis
-åp atsil
-ne rah tednubröF
-.repytiparet
-akilo
-rednu
-hco
-åvindnurg
-åp gnindlibtu
-svärk
-tueparet
-mos
-paksmeldem
-röF
-negnilkcevtu
-dem
-.a.lb
-ratebra
-FTSK
-redärteröf
-mos
-dnubröf
-tte
-rä
-FTSK
--tuepareT
-alarkasoinarK
--nuk
-aksnicidemsab
-tmas vorp
-aksiteroet
-hco aksitkarp
-adröfmoneg
--amrofni
-adirps
-tta
-tmas
-niparet
-va
--oinark
-negnintkirni
-alleiceps
-ned
-,FTSK
-,tednubröf
-.gnirkäsröfsravsna
-åskco
-svärk
-teD
-.ph 03 ednaravstom
-repaks
-nedotem
-åf
-tta
-hco
-nedotem
-mo
-noit
-.iparet
-larkas
-es.ftsk.www
--oder
-mos
-stasppu
-hco reiduts
-moneg
-nak
-rammeldem
-edaremolpiD
-.egirevS
-i dnäkre
-.2002
-rå
-sedadlib
-TFSK
-daresirotkua
-moS .tueparet daresirotkua
-nletit åf
-nesleryts llit
-sasiv
-.redoirepsrå-åvt
-moni ragnindlibtueradiv
-åg tta gis
-åp vark nam
-rah
-.ednareduts
-röf
-paksmeldem
-nevä snnif
-teD
-.relger aksite
-rah tednubröF
-.rammeldem
-541 rah
-FTSK
-mo
-rågmarf
-ted räd retueparet
-revö
-noitknufkös
-ne rah tednubröF
-.meldemednareduts
-relle daresirotkua
-,daremolpid
-rä nemmeldem
-31
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Komplementärmedicinska
+
+KMR, är ett riksomfattande yrkes-
+
+KMR arbetar för naturlig folkhälsa
+
+För att bli medlem och kunna teckna försäkring i förbundet krävs
+
+Riksförbundet, KMR, http://
+
+förbund för terapeuter inom exempel- bl.a. genom att sprida information utbildning i en terapiform på minst 200 lärarledda timmar inklusive
+
+komplementarmedicinska.se vis homeopati, örtmedicin, närings- och att uppmuntra till sund livsstil teori och praktik eller en utbildning i flera sammansatta terapi-
+
+medicin, ayurveda, aromaterapi,
+
+och kost samt hälsobefrämjande
+
+former med minst 300 lärarledda timmar. Det finns även medlem-
+
+shiatsu eller zonterapi.
+
+användning av kosttillskott. KMR
+
+skap för studerande och stödmedlemmar.
+
+KMR bildades år 2004.
+
+stödjer BOT-avdrag och momsfri
+
+För att bli certifierad av KMR inom ett område krävs medlemskap
+
+alternativ behandling.
+
+i förbundet, patient- och ansvarsförsäkring och att terapeuten har
+
+kunskaper i anatomi och fysiologi minst motsvarande 15 hp.
+
+För akupunktur gäller motsvarande 90 hp basmedicin.
+
+Även skolor kan certifieras om de uppfyller förbundets krav.
+
+KMR har etiska regler.
+
+KMR har 336 yrkesverksamma medlemmar, 5 studerandemedlemmar
+
+och 2 stödmedlemmar.
+
+Förbundet har en lista på sin hemsida över medlemmar sorterat
+
+under olika terapityper.
+
+Kraniosakrala Terapeut-
+
+KSTF är ett förbund som företräder KSTF arbetar bl.a. med utvecklingen För medlemskap som terapeut krävs utbildning på grundnivå och
+
+förbundet, KSTF,
+
+den speciella inriktningen kranio-
+
+av terapin samt att sprida informa- genomförda praktiska och teoretiska prov samt basmedicinska kun-
+
+www.kstf.se
+
+sakral terapi.
+
+tion om metoden och att få metoden skaper motsvarande 30 hp. Det krävs också ansvarsförsäkring.
+
+KSFT bildades år 2002.
+
+erkänd i Sverige.
+
+Diplomerade medlemmar kan genom studier och uppsats som redo-
+
+visas till styrelsen få titeln auktoriserad terapeut. Som auktoriserad
+
+har man krav på sig att gå vidareutbildningar inom två-årsperioder.
+
+Det finns även medlemskap för studerande.
+
+Förbundet har etiska regler.
+
+KSTF har 145 medlemmar.
+
+Förbundet har en sökfunktion över terapeuter där det framgår om
+
+medlemmen är diplomerad, auktoriserad eller studerandemedlem.
+
+13
 
 <!-- sida 650 -->
 
 Bilaga 5                                   SOU 2019:15
 
 538
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-,vele ,dllätsna
-,meldem
-maskrevsekry va
-mrof i snnif paksmeldeM
--stknup-21
-tte
-retfe
-ratebra
-YrK
-alla
-röf
-noitasinagrohcsnarb
-ne
-rä YrK
-sanretueparetspporK
-.meldemdöts
-hco meldem
-ednaliv
-,nedankramsdråvksirf
-:margorp
-ne
-rah
-hco
-dråvksirf
-dem
-ratebra
-mos
-,YrK
-,dnubröfsekrY
-,lligis tte va mrof
-i takifitrec
-tte nam råf meldem
-maskrevsekry
-moS
-,ekrämurav
-sanretueparetspporK
--dlibtu
-darkässtetilavk
-nehcsnarb
-va
-es.anretueparetsppork.www
-YrK va ne svärk
-meldem
-maskrevsekry ilb
-tta röF .darkässtetilavk
-,gnirkäsröf
-,gnirkässtetilavk
-,kite
-.gnin
-.gnindlibtu dnäkdog
-,krevmarsnoitakifilavk
-tllenoitan
--enimod
-ned
-rä
-egassam
-ksissalK
-.a.lb dem tekapsgnirkäsröf
-tte rågni ammaskrev
-röf tepaksmeldem
-I
--sdankram
-,ednagateröf
-,gninksrof
-.nirogetaksekry
-ednar
-adllätsna röF
-.gnirkäsröfedakssgnildnaheb
-hco gnirkäsröfsravsna
-va
-gnindderb
-,rammeldem
-– gniröf
-krevtänsräffa
-tte
-nevä
-rah
-tednubröF
--sravsna hco -edakssgnildnaheb
-rah neravigstebra
-tta åp vark
-snnif
-ardna dem
-etebramas
-,tednubröf
-.nehcsnarbsdråvksirf
-i
-eragateröf
-röf
-.nemmeldem
-röf gnirkäsröf
-.gninkavebsdlrävmo
-hco rerötka
-.1002
-rå
-sedadlib
-YrK
-ttåg hco rå ert
-tsnim
-i ammaskrevsekry
-tirav mos rammeldem
-eD
-mo tegalsröf
-nevä
-revird
-YrK
-trojg tvitanretla
-ragadleh
-51 tsnim mo ragnindlibtueradiv
-atnaveler
-rah YrK .gardva-TOB
-va ednaröfni
-lligis s:YrK
-mo akösna
-nak ,ph 03 ednaravstom
-gniredilav
-s:YrK
-.a.lb mos
-dårstetilavk
-tte
-nevä
-.2 takifitrec
-,dalkcevtusnetepmok
-va gnirkässtetilavk
-röf ratebra
-aks 3 lligis s:YrK
-allåhre
-hco tueparetspporK
-daresirotkua ilb
-tta röF
-rellyfppu
-mos
-ragnindlibtu
-ed
--tu datulsva
-retfe rå
-ert tsnim maskrevsekry
-tirav motussed
-nam
-.paksmeldem
-röf
-vark
-stednubröf
-moni )ednaravstom
-relle
-ph 06( repaksnuk
-edakötu ahenni ,gnindlib
--snoitadnemmoker
-ah tmas
-edårmo ednaggilrän
-relle noisseforp
-nis
-.tkatnok gissämsekry
-dem
-renosrep ardna
-relle rogellok åvt
-va verb
-.rejniltkir aksite
-hco dår tksite tte
-rah YrK
-revö retsiger trabkös
-tte
-rah YrK .rammeldem
-003 4 ac tlatot
-rah YrK
-.)nemmeldem
-röf trablav
-rä ted( rammeldem
-anis
-gnindlibtu girååvt
-tsnim
-ne svärk meldem
-maskrevsekry ilb
-tta röF
-tta dem
-.a.lb ratebra
-tednubröF
-tednubröfsetnysokysP
-aksidroN
-,tednubröfsetnysokysP
-aksidroN
-mos erandronasgnindlibtu
-ne nårf molpidsekry
-dem setnysokysp
-i
-,setnysokysp
-mo noitamrofni
-adirps
-röf
-teppö
-dnubröfsekry
-tte rä
-es.tednubrofsetnysokysp//:ptth
-nak edaressertni
-ardna
-hco ednaredutS
-.tednubröf va dnäkdog
-rä
-allenoisseforp
-sanrammeldem
-dem
-ratebra
-mos
-ammaskrevsekry
-.meldem
-ednajdöts mos
-satna
--sekry
-i tetilavk
-röf
-tmas
-gnilkcevtu
-.dnurg
-mos
-nesetnysokysp
-dem
--nubröF .tueparetslatmas
-daresirotkua
-ilb nak rammeldemsekrY
-.tehmaskrev
-sanrammeldem
-nä rem rah anretueparetslatmas
-edaresirotkua
-ed tta ragytni
-ted
-rå rep gnindeldnah
-rammit 01 tsnim
-,rå rep rammittneilk
-002
-hco dårsgniresirotkua
-stednubröf va dnäkdog
-eradeldnah
-ne va
-tedårsgniresirotkua
-va dnäkdog rä mos
-gnindlibtrof råg
-ed tta
-.rå rep rammit 51
-tsnim
-.dår
-tksite tte hco relger
-aksite rah tednubröF
--sekry anis revö
-noitknufkös
-ne rah tednubröfsetnysokysP
-aksidroN .rammeldem ammaskrev
-41
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Kroppsterapeuternas
+
+KrY är en branschorganisation för alla KrY arbetar efter ett 12-punkts-
+
+Medlemskap finns i form av yrkesverksam medlem, anställd, elev,
+
+Yrkesförbund, KrY,
+
+som arbetar med friskvård och har en program: friskvårdsmarknaden,
+
+vilande medlem och stödmedlem.
+
+www.kroppsterapeuterna.se
+
+av branschen kvalitetssäkrad utbild- Kroppsterapeuternas varumärke,
+
+Som yrkesverksam medlem får man ett certifikat i form av ett sigill,
+
+ning.
+
+etik, kvalitetssäkring, försäkring,
+
+kvalitetssäkrad. För att bli yrkesverksam medlem krävs en av KrY
+
+Klassisk massage är den domine-
+
+nationellt kvalifikationsramverk,
+
+godkänd utbildning.
+
+rande yrkeskategorin.
+
+forskning, företagande, marknads-
+
+I medlemskapet för verksamma ingår ett försäkringspaket med bl.a.
+
+Förbundet har även ett affärsnätverk föring – medlemmar, breddning av ansvarsförsäkring och behandlingsskadeförsäkring. För anställda
+
+för företagare i friskvårdsbranschen. förbundet, samarbete med andra
+
+finns krav på att arbetsgivaren har behandlingsskade- och ansvars-
+
+KrY bildades år 2001.
+
+aktörer och omvärldsbevakning.
+
+försäkring för medlemmen.
+
+KrY driver även förslaget om
+
+De medlemmar som varit yrkesverksamma i minst tre år och gått
+
+införande av BOT-avdrag. KrY har
+
+relevanta vidareutbildningar om minst 15 heldagar alternativt gjort
+
+även ett kvalitetsråd som bl.a.
+
+KrY:s validering motsvarande 30 hp, kan ansöka om KrY:s sigill
+
+arbetar för kvalitetssäkring av
+
+kompetensutvecklad, certifikat 2.
+
+de utbildningar som uppfyller
+
+För att bli auktoriserad Kroppsterapeut och erhålla KrY:s sigill 3 ska
+
+förbundets krav för medlemskap.
+
+man dessutom varit yrkesverksam minst tre år efter avslutad ut-
+
+bildning, inneha utökade kunskaper (60 hp eller motsvarande) inom
+
+sin profession eller närliggande område samt ha rekommendations-
+
+brev av två kollegor eller andra personer med yrkesmässig kontakt.
+
+KrY har ett etiskt råd och etiska riktlinjer.
+
+KrY har totalt ca 4 300 medlemmar. KrY har ett sökbart register över
+
+sina medlemmar (det är valbart för medlemmen).
+
+Nordiska Psykosyntesförbundet, Nordiska Psykosyntesförbundet
+
+Förbundet arbetar bl.a. med att
+
+För att bli yrkesverksam medlem krävs en minst tvåårig utbildning
+
+http://psykosyntesforbundet.se är ett yrkesförbund öppet för
+
+sprida information om psykosyntes, i psykosyntes med yrkesdiplom från en utbildningsanordnare som
+
+yrkesverksamma som arbetar
+
+med medlemmarnas professionella är godkänd av förbundet. Studerande och andra intresserade kan
+
+med psykosyntesen som grund.
+
+utveckling samt för kvalitet i yrkes- antas som stödjande medlem.
+
+medlemmarnas verksamhet.
+
+Yrkesmedlemmar kan bli auktoriserad samtalsterapeut. Förbun-
+
+det intygar att de auktoriserade samtalsterapeuterna har mer än
+
+200 klienttimmar per år, minst 10 timmar handledning per år
+
+av en handledare godkänd av förbundets auktoriseringsråd och
+
+att de går fortbildning som är godkänd av auktoriseringsrådet
+
+minst 15 timmar per år.
+
+Förbundet har etiska regler och ett etiskt råd.
+
+Nordiska Psykosyntesförbundet har en sökfunktion över sina yrkes-
+
+verksamma medlemmar.
+
+14
 
 <!-- sida 651 -->
 
 SOU 2019:15                                   Bilaga 5
 
 539
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf ddesva
-nenoitasinagro
-rä meV
-noitasinagrO
--eduts
-,meldem
-maskrevsekry
-;paksmeldem va
-repyt ert snnif
-teD
-hco
-tetilavk
-göh
-röf akrev
-aks
-FsP
--orp röf
-noitasinagrosekry
-ne
-rä FsP
-,FsP
-,negnineröfsetnysokysP
--sekry
-ilb
-tta röF .meldem
-maskrevsekry ekci
-relle meldemednar
--krev
-sared
-i anrammeldem
-ajdöts
-,retueparetsetnysokysp
-allenoissef
-es.negninerofsetnysokysp//:ptth
-relle
-tetutitsnIsetnyoskysP
-soh gniremolpid svärk
-meldem maskrev
--sravsna
-moneg
-.a.lb
-,retehmas
-retlusnoksetnysokysp
-hco
-rehcaoc
-agnål
-rå mef evitkepser
-aryf tlatot eD .nimedakAsetnysokysP
-gnindlibtueradiv
-hco
--trof
-,gnirkäsröf
-nimedakAsetnysokysP
-div
-edadlibtu
--setnysokysP
-evitkepser
-nimedakAsetnysokysP
-åp anragnindlibtu
-.relger
-aksite
-mo
-anräv
-tta
-tmas
-.tetutitsnIsetnysokysP
-relle
-mos
-akrev tta tehgiröheb
-dem gniremolpid
-ne reg tetutitsnI
-.3991
-rå
-sedadlib
-negnineröF
--setnysokysP
-hco tetutitsnIsetnysokysP
-edåB .tueparetsetnysokysp
-naeporuE
-nårf rejniltkir
-tgilne edarkässtetilavk
-rä nimedakA
-.yparehtohcysP
-sisehtnysohcysP
-rof noitaredeF
-anrelger
-aksite
-ed tta revärk
-meldem maskrevsekry
-röf paksmeldeM
--itnok
-åskco
-svärk teD .snnif
-gnirkäsröfsravsna
-tta hco snnäkdog
-gnindlibtueradiv
-hco-trof
-i ednagatled hco gnindeldnah
-gilreun
-.negnineröfsetnysokysP
-va daregnarra
-.dnmän
-ksite ne rah
-FsP
-.ammaskrevsekry
-rä 89 varav rammeldem
-831 rah
-FsP
-.rammeldem
-ammaskrevsekry
-anis revö noitknufkös
-ne rah negnineröF
--kösna
-rennäkdog
-mos gnillesnuoC
-rof noitaicossA
-naeporuE rä
-teD
--irotkua-SCAR
-tta
-röf ratebra
-SCAR
-revö
-retsigerstetilavk
-tte
-rä SCAR
-edaresirotkuA
-retsigeR
-SCAR
-rarellortnok
-tmas rammeldem
-ilb lliv mos
-roloks nårf ragnin
--stetilavk
-ne mos
-tnäk
-rilb
-noitas
-i srollesnuoc
-SCAR
-edaresirotkua
-,SCAR
-,egirevS
-i srollesnuoC
-.srollesnuoc edaresirotkua
-revö retsiger
-srollesnuoc
-tekry
-tta
-röf
-hco itnarag
--slatmas
-allenoisseforp(
-egirevS
-es.scar.www
-ne div
-gnindlibtu svärk
-rollesnuoc SCAR darertsiger
-ilb tta
-röF
-.egirevS
-i noisseforp
-ne mos
-sarelbate
-roloks
-ed
-div
-edadlibtu
-)retueparet
-tte
-i gnindlibtu
-gidrävkil
-relle rolokssmeldem
-adnäkdog SCAR
-va
-.SCAR
-i rammeldem
-rä mos
-.dnal tanna
-.0102
-rå
-sedadlib
-SCAR
-tsnim
-åp gnindlibtu
-ne rah
-tueparetslatmas daresirotkua-SCAR
-nE
-åp snnif
-noitasirotkuA
-.rammit
-addelraräl 058 ednaravstom
-rå
-aryf
-åp
-gniresirotkua
-röF .åvin
-ksnevs hco åvin ksieporue
-,reåvin
-åvt
-åvin
-ksieporue
-åp hco rammitkitkarp
-052 tsnim
-svärk åvin ksnevs
-ne
-nevä
-svärk teD .gnindeldnah
-rednu rammitkitkarp
-054 tsnim
-ted
-svärk
-retferäd ,rå ert
-i relläg gniresirotkuA
-.gnirkäsröfsravsna
-tmas
-ednaravstom
-relle
-terå mo gnilkcevtusnetepmok
-sragad
-ert
-.negniresirotkua
-aynröf tta röf
-gnindeldnah
-ssiv
-.rejniltkir
-aksite rah SCAR
-.retueparetslatmas
-edaresirotkua revö retsiger
-tte rah SCAR
-51
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Psykosyntesföreningen, PsF,
+
+PsF är en yrkesorganisation för pro- PsF ska verka för hög kvalitet och
+
+Det finns tre typer av medlemskap; yrkesverksam medlem, stude-
+
+http://psykosyntesforeningen.se fessionella psykosyntesterapeuter, stödja medlemmarna i deras verk-
+
+randemedlem eller icke yrkesverksam medlem. För att bli yrkes-
+
+coacher och psykosynteskonsulter
+
+samheter, bl.a. genom ansvars-
+
+verksam medlem krävs diplomering hos PsyksoyntesInstitutet eller
+
+utbildade vid PsykosyntesAkademin försäkring, fort- och vidareutbildning PsykosyntesAkademin. De totalt fyra respektive fem år långa
+
+eller PsykosyntesInstitutet.
+
+samt att värna om etiska regler.
+
+utbildningarna på PsykosyntesAkademin respektive Psykosyntes-
+
+Föreningen bildades år 1993.
+
+Institutet ger en diplomering med behörighet att verka som
+
+psykosyntesterapeut. Både PsykosyntesInstitutet och Psykosyntes-
+
+Akademin är kvalitetssäkrade enligt riktlinjer från European
+
+Federation for Psychosynthesis Psychotherapy.
+
+Medlemskap för yrkesverksam medlem kräver att de etiska reglerna
+
+godkänns och att ansvarsförsäkring finns. Det krävs också konti-
+
+nuerlig handledning och deltagande i fort-och vidareutbildning
+
+arrangerad av Psykosyntesföreningen.
+
+PsF har en etisk nämnd.
+
+PsF har 138 medlemmar varav 98 är yrkesverksamma.
+
+Föreningen har en sökfunktion över sina yrkesverksamma medlemmar.
+
+Register Auktoriserade
+
+RACS är ett kvalitetsregister över
+
+RACS arbetar för att RACS-auktori- Det är European Association for Counselling som godkänner ansök-
+
+Counsellors i Sverige, RACS, auktoriserade RACS counsellors i
+
+sation blir känt som en kvalitets-
+
+ningar från skolor som vill bli medlemmar samt kontrollerar RACS
+
+www.racs.se
+
+Sverige (professionella samtals-
+
+garanti och för att yrket counsellors register över auktoriserade counsellors.
+
+terapeuter) utbildade vid de skolor etableras som en profession i Sverige. För att bli registrerad RACS counsellor krävs utbildning vid en
+
+som är medlemmar i RACS.
+
+av RACS godkända medlemsskolor eller likvärdig utbildning i ett
+
+RACS bildades år 2010.
+
+annat land.
+
+En RACS-auktoriserad samtalsterapeut har en utbildning på minst
+
+fyra år motsvarande 850 lärarledda timmar. Auktorisation finns på
+
+två nivåer, europeisk nivå och svensk nivå. För auktorisering på
+
+svensk nivå krävs minst 250 praktiktimmar och på europeisk nivå
+
+minst 450 praktiktimmar under handledning. Det krävs även en
+
+ansvarsförsäkring. Auktorisering gäller i tre år, därefter krävs det
+
+tre dagars kompetensutveckling om året eller motsvarande samt
+
+viss handledning för att förnya auktoriseringen.
+
+RACS har etiska riktlinjer.
+
+RACS har ett register över auktoriserade samtalsterapeuter.
+
+15
 
 <!-- sida 652 -->
 
 Bilaga 5                                   SOU 2019:15
 
 540
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-stednubröf
-va
-nogån
-moni
-gnindlibtusekry
-ne
-svärk
-paksmeldem
-röF
--smom
-röf
-.a.lb
-ratebra
-tednubröF
-,retueparet
-rä MKFS
-i
-anrammeldeM
-tednubröF
-aksivanidnakS
--eiduts
-052
-tsnim
-attafmo
-aks gnindlibtU
-.remrofiparet
-adnäkdog
-.nehcsnarb
-röf
-gninknäs
-ed
-moni
-rerötkurtsni
-hco rehcaoc
-,MKFS
-,nicidemrätnemelpmoK
--iparet
-hco
--dnurg
-va
-sarögtu
-aks
-rammiteiduts
-57 varav
-,rammit
-hco
-aksnicidemrätnemelpmok
-atself
-gro.mkfs.www
-relf
-avärk
-nak
-remrofiparet
-assiV
-.igoloisyf
-hco
-imotana
-kificeps
-.nekry edatkirnisdråvksirf
--dnaheb
-hco
--sravsna
-rattafmo
-tepaksmeldeM
-.rammitsgnindlibtu
-akilo
-:rä remrofiparet
-adnäkdoG
-.gnirkäsröfedakssgnil
-ksnevs
-.xe.t
-mos egassam
-va remrof
--stetilavk
-nletit
-llit
-ttär
-reg
-mos vorpsgnireifitrec
-tte redujbre
-MFKS
--gnilaeh
-nedliK ,egassam
-ksissalk
-repaksnuk
-va
-llortnok
-ne
-räbenni
-negnirkässtetilavK
-.tueparet
-darkäs
--enabvren
-& -snoitalukric
-,egassam
-.nicidemsab
-tmas
-relger
-hco
-ragal ,neigyh
-,tehrekästneitap
-.a.lb
-moni
--dnuh
-,egassamtsäh
-,egassam
-,gnirkäsröf
-natu
-paksmeldem
-,revele
-röf
-paksmeldem
-nevä
-snnif
-teD
-adnäkdog
-ardnA
-.lf.m egassam
-.ammaskrevsekry
-je
-röf
-paksmeldem
-hco
-adllätsna
-röf paksmeldem
-litkat
-,iparet
-litkat
-:rä
-remrofiparet
-.retueparet
-revö
-noitknufkös
-ne rah MFKS
-.rammeldem
-721
-1
-rah
-MKFS
-,russerpuka
-,rutknupuka
-,egassam
-,iparetnewob
-,adevruya
-,iparetamora
-,iparetotyf
-,dråvduh
-,iparetdråvksirf
-,gninvigdårtsok
-,itapoemoh
-,gnilaeh
-,ustaihs
-,iparetsgnirän
-,igoloisenik
-hco
-iparetnoz
-,aN-iuT
-,iparet-aps
-,gnihcaoc
-,rutknupukanorö
-,igoloxelfer
-hco
-iparetresal
-,gnihcaocsonpyh
-.gniresilibom
-61
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Skandinaviska Förbundet
+
+Medlemmarna i SFKM är terapeuter, Förbundet arbetar bl.a. för moms-
+
+För medlemskap krävs en yrkesutbildning inom någon av förbundets
+
+Komplementärmedicin, SFKM, coacher och instruktörer inom de
+
+sänkning för branschen.
+
+godkända terapiformer. Utbildning ska omfatta minst 250 studie-
+
+www.sfkm.org
+
+flesta komplementärmedicinska och
+
+timmar, varav 75 studietimmar ska utgöras av grund- och terapi-
+
+friskvårdsinriktade yrken.
+
+specifik anatomi och fysiologi. Vissa terapiformer kan kräva fler
+
+Godkända terapiformer är: olika
+
+utbildningstimmar. Medlemskapet omfattar ansvars- och behand-
+
+former av massage som t.ex. svensk
+
+lingsskadeförsäkring.
+
+klassisk massage, Kilden healing-
+
+SKFM erbjuder ett certifieringsprov som ger rätt till titeln kvalitets-
+
+massage, cirkulations- & nervbane-
+
+säkrad terapeut. Kvalitetssäkringen innebär en kontroll av kunskaper
+
+massage, hästmassage, hund-
+
+inom bl.a. patientsäkerhet, hygien, lagar och regler samt basmedicin.
+
+massage m.fl. Andra godkända
+
+Det finns även medlemskap för elever, medlemskap utan försäkring,
+
+terapiformer är: taktil terapi, taktil
+
+medlemskap för anställda och medlemskap för ej yrkesverksamma.
+
+massage, akupunktur, akupressur,
+
+SFKM har 1 127 medlemmar. SKFM har en sökfunktion över terapeuter.
+
+aromaterapi, ayurveda, bowenterapi,
+
+friskvårdterapi, hudvård, fytoterapi,
+
+healing, homeopati, kostrådgivning,
+
+kinesiologi, näringsterapi, shiatsu,
+
+spa-terapi, Tui-Na, zonterapi och
+
+reflexologi, öronakupunktur, coaching,
+
+hypnoscoaching, laserterapi och
+
+mobilisering.
+
+16
 
 <!-- sida 653 -->
 
 SOU 2019:15                                   Bilaga 5
 
 541
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-llenoitidart
-i
-gnindlibtu srå
-ert tsnim svärk paksmeldem röF
-daddyks
-ne
-röf .a.lb
-rakrev tednubröF
--sekry
-ednakcätskir
-tte
-rä
-MKTAS
-–
-tednubröfrutknupukA
-aksnevS
--rutknupuka
-ksnevs
-dnäkdog tednubröf
-va ne div nicidem ksisenik
--stas
-tmas
-smom
-sivttär ,letitsekry
-ratebra
-mos
-rerötknupuka
-röf
-dnubröf
-,nicideM
-ksiseniK
-llenoitidarT
-ksdnälretsäv
-tmas
-gnindlibtu
-ksdnältu ednaravstom relle aloks
-agiltats
-dem gninksrof
-åp
-ragnin
-hco
-nicidem
-ksisenik
-llenoitidart
-dem
-,MKTAS
-mos ned
-ednaravstom
-gninvirkseblåm
-stednubröf tgilne nicidemloks
-.ledem
-.egirevS
-moni
-rutknupuka
-ksissalk
-es.tednubrofrutknupuka.www
--dlibtu
-negnågmoneg
-ne tvitanretla
-nemaxeeksretökskujs röf svärk
-djöh
-röf
-tednubröf
-rakrev
-tnretnI
-.1891
-rå
-sedatrats
-nenoitasinagrO
-.noitamitigel
-revärk
-mos ekry ednadråvkujs llit gnin
-,gnirkäsröf
-,rogårfloks
-,snetepmok
-rågmoneg
-hco nalpsgnindlibtu
-dnäkdog ne ajlöf etsåm anrolokS
-.cte
-gnindelgäv
-,noitamrofni
-revele agiltmas
-röf vorp
-ednatulsva
-röfmoneg tednubröF .noitkepsni
-muiranimessragad-åvt
-randro
-MKTAS
-aks paksmeldem
-röf
-lleutka ilb tta
-röf hco anroloks adnäkdog ed åp
--meldem
-eg
-tta röf
-rå rep regnåg
-åvt
-.mron
-dllätsppu
-tgilne tsnim tevorp aralk nevele
-.gnindlibtrof
-llit
-tehgiljöm
-anram
-tgilreunitnok
-gnindlibtrof
-ågmoneg
-aks rammeldem avitka allA
-avitka
-allA
-.saretuksid
-metsyssgnireifitreC
-.nalp ssiv ne tgilne
--sravsna
-ednakcätleh
-ne paksmeldem
-ttis moneg rah rammeldem
-.paksmeldemednareduts
-nevä snnif
-teD .gnirkäsröfedakstneitap hco
-.dår tksite tte
-hco relger aksite rah tednubröF
-.rammeldem
-ammaskrevsekry
-072 rah tednubröF
--dog
-rä
-mos
-rerötknupuka
-attih
-tta röf noitknufkös ne rah MKTAS .tednubröf va adnäk
-ednaravstom
-gnindlibtu
-ksnicidemsab
-svärk meldem ilb tta röF
-dråvksirf
-hco
-asläh
-dem ratebra
-FLNS
-va
-eravötusekry
-raresinagro
-FLNS
-,tednubröfrakälrutaN
-aksnevS
--avstom
-)laro
-ne tsnim
-varav reiparet
-ert( gnindlibtuiparet ,ph 06
--nubröf
-mos
-gninksrof
-va led
-rat
-hco
-.tsnokekälrutan
-es.flns//:ptth
-,FLNS
-ednaravstom
-kidotemsgninkösrednu
-hco kitsongaid ,ph 021 ednar
-.rammeldem
-anis
-llit raldemröf
-ted
-.5791
-rå
-sedadlib
-tednubröF
-nevä
-aks
-naM
-.ph
-03 ednaravstom
-tehnerafre ksitkarp hco ph 51
-ragadsgnindlibtrof
-raregnarra
-FLNS
-.gnirkäsröfsravsna ne ah
-anis
-llit
-gnintulsna
-i spohskrow
-hco
--setömsrå
-ne
-rä trävksnö
-hco vark
-tte rä gnindlibtrof nednublegeR
-.netömsdnubröf
-ardna
-tmas netömsrå
-.rå tannatrav oravrän .relger aksite rah tednubröF
-hco
-erakälrutan
-avitka 45 varav
-,rammeldem 96 rah tednubröF .retueparetrutan avitka
-5
-rah
-mos
-rammeldem
-latna tte
-revö atsil ne snnif nadismeh åP .atted tnäkdog
-71
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svenska Akupunkturförbundet – SATKM är ett rikstäckande yrkes-
+
+Förbundet verkar bl.a. för en skyddad För medlemskap krävs minst tre års utbildning i traditionell
+
+Traditionell Kinesisk Medicin, förbund för akupunktörer som arbetar yrkestitel, rättvis moms samt sats- kinesisk medicin vid en av förbundet godkänd svensk akupunktur-
+
+SATKM,
+
+med traditionell kinesisk medicin och ningar på forskning med statliga
+
+skola eller motsvarande utländsk utbildning samt västerländsk
+
+www.akupunkturforbundet.se klassisk akupunktur inom Sverige. medel.
+
+skolmedicin enligt förbundets målbeskrivning motsvarande den som
+
+Organisationen startades år 1981. Internt verkar förbundet för höjd
+
+krävs för sjuksköterskeexamen alternativt en genomgången utbild-
+
+kompetens, skolfrågor, försäkring,
+
+ning till sjukvårdande yrke som kräver legitimation.
+
+information, vägledning etc.
+
+Skolorna måste följa en godkänd utbildningsplan och genomgår
+
+SATKM ordnar två-dagarsseminarium inspektion. Förbundet genomför avslutande prov för samtliga elever
+
+två gånger per år för att ge medlem- på de godkända skolorna och för att bli aktuell för medlemskap ska
+
+marna möjlighet till fortbildning.
+
+eleven klara provet minst enligt uppställd norm.
+
+Alla aktiva medlemmar ska genomgå fortbildning kontinuerligt
+
+enligt en viss plan. Certifieringssystem diskuteras. Alla aktiva
+
+medlemmar har genom sitt medlemskap en heltäckande ansvars-
+
+och patientskadeförsäkring. Det finns även studerandemedlemskap.
+
+Förbundet har etiska regler och ett etiskt råd.
+
+Förbundet har 270 yrkesverksamma medlemmar.
+
+SATKM har en sökfunktion för att hitta akupunktörer som är god-
+
+kända av förbundet.
+
+Svenska Naturläkarförbundet, SNLF organiserar yrkesutövare av
+
+SNLF arbetar med hälsa och friskvård För att bli medlem krävs basmedicinsk utbildning motsvarande
+
+SNLF, http://snlf.se
+
+naturläkekonst.
+
+och tar del av forskning som förbun- 60 hp, terapiutbildning (tre terapier varav minst en oral) motsva-
+
+Förbundet bildades år 1975.
+
+det förmedlar till sina medlemmar. rande 120 hp, diagnostik och undersökningsmetodik motsvarande
+
+SNLF arrangerar fortbildningsdagar 15 hp och praktisk erfarenhet motsvarande 30 hp. Man ska även
+
+och workshops i anslutning till sina ha en ansvarsförsäkring.
+
+årsmöten samt andra förbundsmöten. Regelbunden fortbildning är ett krav och önskvärt är en årsmötes-
+
+närvaro vartannat år.
+
+Förbundet har etiska regler.
+
+Förbundet har 69 medlemmar, varav 54 aktiva naturläkare och
+
+5 aktiva naturterapeuter.
+
+På hemsidan finns en lista över ett antal medlemmar som har
+
+godkänt detta.
+
+17
 
 <!-- sida 654 -->
 
 Bilaga 5                                   SOU 2019:15
 
 542
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-ed
-rellyfppu
-gnindlibtu
-snetapoetso
-tta svärk meldem ilb
-tta röF
-tehnetevdem
-akö
-tta röf
-ratebra
-FOS
-röf
-dnubröf
-ednakcätskir
-tte
-rä
-FOS
-,tednubröftapoetsO
-aksnevS
-ksitapoetso
-röf nedradnats
-aksieporue ned tgilne slläts mos
-vark
-röf
-hco
-netehnämlla
-soh
-itapoetso
-mo
-.retapoetso
-edarecifilavk
-es.tednubroftapoetso.www
-,FOS
-gnindlibtu
-dnäkdog
-nE
-.5102:68661 NE retsnäjt hco gnindlibtu
-gninksrof
-aldemröf
-hco
-ajmärf
-tta
-.0891
-rå
-sedadlib
-FOS
-arav
-aks
-ph
-06 varav
-,ph
-042(
-reidutssditleh srå 4 tsnim rattafmo
-.gnildnaheb
-ksitapoetso
-gnirk
-.gnirögtsnäjtkinilk
-ddeldnah
-rammit nesut tmas )åvin darecnava
-åp
-tekry
-tta
-röf
-nevä
-rakrev
-tednubröF
--mit
-03 tsnim
-mo gnindlibtrof
-i atled negilrå nevä aks rammeldeM
-.saremitigel
-aks
-tepaksmeldem
-I .addelraräl
-arav aks rammit 51 tsnim varav
-,ram
-nevä
-snnif
-teD
-.gnirkäsröfedakssgnildnaheb
-hco -sravsna ne
-rågni
-.ednareduts röf paksmeldem
-.dnmänsravsna
-ne hco rejniltkir aksite rah tednubröF .rammeldem 582 gad i rah hco
-FOS
-nis
-åp
-retapoetso
-ammaskrevsekry
-revö atsilsserda ne rah
-FOS
-.adismeh
-gnindlibtutueparetdlib
-svärk tBRS i meldemsekry ilb
-tta röF
-tta
-dem
-.a.lb
-ratebra
-tednubröF
-.retueparetdlib
-röf
-dnubröf
-tte
-rä
-tBRS
-tednubröfskiR
-aksnevS
-nam
-tta
-tmas eravigsgnindlibtu
-dnäkdog tBRS va nogån
-soh
-aretneserp
-hco
-noitamrofni
-adirps
-.6002
-rå
-sedadlib
-tednubröF
-,tBRS
-,retueparetdliB
-röf
--essertni
-ilb nevä
-nak
-naM .iparetdlib revirdeb tgissämsekry
-dem
-tmas
-iparetdlib
-mo gninksrof
-es.iparetdlib.www
-.meldemdöts
-hco
-.rogårf
-aksitesekry
-:ednajlöf
-svärk
-rammeldem
-ammaskrevsekry va noitasirotkua
-röF
--okysp
-ednaggäldnurg
-,ph
-06 ednaravstom gnindlibtuiparetdlib
-etebratneilk
-tksitueparetdlib
-hco )”1 gets”( snetepmok ksitueparet
-tsnim
-rednu
-,snetepmok-1
-gets ddånppu retfe rammit 09
-tsnim
-.gnindeldnah rammit
-04
-.rejniltkir aksite rah tednubröF
-.rammeldemdöts
-72 hco rammeldemsekry 641 rah
-tBRS
-.rammeldemsekry
-rä mos
-retueparetdlib
-revö atsil ne rah tednubröF
-81
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Svenska Osteopatförbundet,
+
+SOF är ett rikstäckande förbund för SOF arbetar för att öka medvetenhet För att bli medlem krävs att osteopatens utbildning uppfyller de
+
+SOF, www.osteopatforbundet.se kvalificerade osteopater.
+
+om osteopati hos allmänheten och för krav som ställs enligt den europeiska standarden för osteopatisk
+
+SOF bildades år 1980.
+
+att främja och förmedla forskning
+
+utbildning och tjänster EN 16686:2015. En godkänd utbildning
+
+kring osteopatisk behandling.
+
+omfattar minst 4 års heltidsstudier (240 hp, varav 60 hp ska vara
+
+Förbundet verkar även för att yrket på avancerad nivå) samt tusen timmar handledd kliniktjänstgöring.
+
+ska legitimeras.
+
+Medlemmar ska även årligen delta i fortbildning om minst 30 tim-
+
+mar, varav minst 15 timmar ska vara lärarledda. I medlemskapet
+
+ingår en ansvars- och behandlingsskadeförsäkring. Det finns även
+
+medlemskap för studerande.
+
+Förbundet har etiska riktlinjer och en ansvarsnämnd.
+
+SOF och har i dag 285 medlemmar.
+
+SOF har en adresslista över yrkesverksamma osteopater på sin
+
+hemsida.
+
+Svenska Riksförbundet
+
+SRBt är ett förbund för bildterapeuter. Förbundet arbetar bl.a. med att
+
+För att bli yrkesmedlem i SRBt krävs bildterapeututbildning
+
+för Bildterapeuter, SRBt,
+
+Förbundet bildades år 2006.
+
+sprida information och presentera
+
+hos någon av SRBt godkänd utbildningsgivare samt att man
+
+www.bildterapi.se
+
+forskning om bildterapi samt med
+
+yrkesmässigt bedriver bildterapi. Man kan även bli intresse-
+
+yrkesetiska frågor.
+
+och stödmedlem.
+
+För auktorisation av yrkesverksamma medlemmar krävs följande:
+
+bildterapiutbildning motsvarande 60 hp, grundläggande psyko-
+
+terapeutisk kompetens (”steg 1”) och bildterapeutiskt klientarbete
+
+minst 90 timmar efter uppnådd steg 1-kompetens, under minst
+
+40 timmar handledning.
+
+Förbundet har etiska riktlinjer.
+
+SRBt har 146 yrkesmedlemmar och 27 stödmedlemmar.
+
+Förbundet har en lista över bildterapeuter som är yrkesmedlemmar.
+
+18
 
 <!-- sida 655 -->
 
 SOU 2019:15                                   Bilaga 5
 
 543
-gnirkässtetilavk/gnireifitreC
-,paksmeldeM
-?röf
-nenoitasinagro
-ratebra
-daV
-?röf
-ddesva
-nenoitasinagro
-rä
-meV
-noitasinagrO
-i gnindlibtu
-giråaryf
-ne
-svärk negnineröfsekry
-i meldem
-ilb tta
-röF
--dlibtrof
-röf
-.a.lb
-ratebra
-negnineröF
--tlatseg
-röf
-gnineröfsekry
-ne
-rä
-GAS
-edaresirotkuA
-segirevS
-naeporuE
-va
-taretiderkca
-rä mos
-tutitsni tte nårf
-iparetokysptlatseg
-tetilavk
-dog
-,anrammeldem
-va
-gnin
-.egirevS
-i
-retueparet
-,GAS
-,retueparettlatseG
-hco
-tkösna
-rah
-mos
-relle
-,)TGAE(
-yparehT tlatseG
-rof noitaicossA
--iparet
-sanrammeldem
-åp
-kite
-hco
-.4991
-rå
-sedadlib
-GAS
-es.anretueparettlatseg.www
-tta
-åskco
-svärk
-teD
-.TGAE
-soh
-meldem lleudividni
-mos stnäkdog
-adirps
-tta
-tmas
-,ragningattom
-.gnirkäsröfsravsna/tneitap
-gitlig
-ne rah
-nam
-iparetokysptlatseg
-mo
-noitamrofni
-rednu
-nam
-tta
-svärk
-ted
-hco rå
-ert i rarav nedoirepsgniresirotkuA
--röf
-aksitueparettlatseg
-ted
-hco
-tsnim
-hco
-gnindlibtrof
-rammit
-06
-tsnim röfmoneg
-doirepsråert
-ejrav
-.tettässgninllåh
-ni
-adnäs
-rammeldem
-aks rå
-ejdert raV .gnindeldnah
-rammit
-51
-ssecorpsnoitasirotkua
-nis
-moneG
-varksnoitasirotkua
-s:GAS
-rellyfppu
-ed tta rekryts
-mos
-renoitakifirev
-.gnirkässtetilavk
-röf
-GAS
-ratebra
-.gnindeldnah
-hco
-gnindlibtrof
-åp
-ddestu
-ilb relle
-meldemednareduts
-,meldemdöts
-arav
-nevä nak
-naM
-.meldemsredeh
-llit
-.dår
-tksite
-tte
-tmas relger aksite
-rah negnineröF
-.rammeldem
-edaresirotkua
-511 rah
-GAS
-anis
-llit
-retfigpputkatnok
-röf noitknufkös
-ne rah
-GAS
-.retneilk
-röf
-arabkös
-med
-arög tta
-röf rammeldem
-ammaskrevsekry
-mo noitamrofni
-dem
-,arabkös
-rammeldemednareduts
-nevä snnif
-räD
-.gnindeldnah
-rednu
-ratebra
-mos
-tueparet ne
-rä nenosrep
-ned
-tta
-dem
-sallätskil
-llaks
-etni
-tekliv
-,nemar erröts
-ned
-rä nicidem
-vitargetni
-tta
-ranem
-eD
-.resylanasppergeb
-adliks
-nårf
-rågtu
-dråv
-rätnemelpmok
-hco
-vitargetni
-tta
-resna
-MIF
-1
-nanna
-,nicidemrätnemelpmok
-nanna ,nicidemsnoitknuf
-,nifosoportna
-,)irtaikysp
-hco
-kitamos(
-nenicidemloks
-.a.lb
-rattafenni
-nicidem
-vitargetni
-räd
-,nicidem
-rätnemelpmok
-egirevS
-i daredrävtu
-tgilpaksnetev
-rä negnildnaheb
-tta gninttästuröf
-rednu
-kcoD
-.vso
-tetivitka
-ksisyf
-,noitirtun
-,iparetokysp
-,iparetoisyf
-,ledemekälrutan
-,nicidem
-vitanretla
-.rednäl
-ardna
-i relle
-91
+
+Organisation
+
+Vem är organisationen avsedd för? Vad arbetar organisationen för?
+
+Medlemskap, Certifiering/kvalitetssäkring
+
+Sveriges Auktoriserade
+
+SAG är en yrkesförening för gestalt- Föreningen arbetar bl.a. för fortbild- För att bli medlem i yrkesföreningen krävs en fyraårig utbildning i
+
+Gestaltterapeuter, SAG,
+
+terapeuter i Sverige.
+
+ning av medlemmarna, god kvalitet gestaltpsykoterapi från ett institut som är ackrediterat av European
+
+www.gestaltterapeuterna.se
+
+SAG bildades år 1994.
+
+och etik på medlemmarnas terapi-
+
+Association for Gestalt Therapy (EAGT), eller som har ansökt och
+
+mottagningar, samt att sprida
+
+godkänts som individuell medlem hos EAGT. Det krävs också att
+
+information om gestaltpsykoterapi
+
+man har en giltig patient/ansvarsförsäkring.
+
+och det gestaltterapeutiska för-
+
+Auktoriseringsperioden varar i tre år och det krävs att man under
+
+hållningssättet.
+
+varje treårsperiod genomför minst 60 timmar fortbildning och minst
+
+Genom sin auktorisationsprocess
+
+15 timmar handledning. Var tredje år ska medlemmar sända in
+
+arbetar SAG för kvalitetssäkring.
+
+verifikationer som styrker att de uppfyller SAG:s auktorisationskrav
+
+på fortbildning och handledning.
+
+Man kan även vara stödmedlem, studerandemedlem eller bli utsedd
+
+till hedersmedlem.
+
+Föreningen har etiska regler samt ett etiskt råd.
+
+SAG har 115 auktoriserade medlemmar.
+
+SAG har en sökfunktion för kontaktuppgifter till sina
+
+yrkesverksamma medlemmar för att göra dem sökbara för klienter.
+
+Där finns även studerandemedlemmar sökbara, med information om
+
+att den personen är en terapeut som arbetar under handledning.
+
+1 FIM anser att integrativ och komplementär vård utgår från skilda begreppsanalyser. De menar att integrativ medicin är den större ramen, vilket inte skall likställas med
+
+komplementär medicin, där integrativ medicin innefattar bl.a. skolmedicinen (somatik och psykiatri), antroposofin, funktionsmedicin, annan komplementärmedicin, annan
+
+alternativ medicin, naturläkemedel, fysioterapi, psykoterapi, nutrition, fysisk aktivitet osv. Dock under förutsättning att behandlingen är vetenskapligt utvärderad i Sverige
+
+eller i andra länder.
+
+19
 
 <!-- sida 656 -->
 
@@ -30839,213 +28298,157 @@ poäng, mån. för månader och v. för vecka/veckor.
 Bilaga 5                                   SOU 2019:15
 
 546
-)2.6
-ttinsva
-röhllit(
-MAK
-moni
-renoitasinagrosekry
-va
-sarednemmoker
-mos
-ragnindlibtusekry
-hco
-rerötkasgnindlibtU
-2
-llebaT
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS 000
-63
-rä negninsivrednu
-,rå 5,1
--gogadepsgnindnA
-avitkaripsnI
-ednarögirF
-röf
-negnineröF
-tlatot(
-kcolb 8
-i daledppu
-1gnindlibtu
-gnindnA
-gnindeldnah
-\+
-)ragad
-42
-reidutsvläjs
-\+
-000
-691
-ednaravstom
-,snatsid
-,rå 3
-.tehgiröheb
-ednaggäldnurG
-datkirnisnoitknuF
-gnindlibtusekrY
--kisum
-röf
-tednubröF
-,)ph 021 ednaravstom(
-ditvlah
--gidräf/repaksnuk
-agilkcärlliT
-iparetkisum
-nedotem-TMF
-hco
-egirevS
-i
-iparet
-åp gninsivrednu
-sragad
-2–1
-,”lepsskurb-onaip”
-i
-reteh
-2nedotem-TMF
-–
-egirevS
-röf
-negnineröfskiR
--atluksua
-\+ .nåm
-rep
-naloks
--ele
-i
-tmas
-igolonimretkisum
--kisuM
-edaremolpiD
-kitkarp
-\+ renoit
--drokca
-hco
-arälstas
-rätnem
-retueparet
-repaksnuk
-agilkcärlliT
-.sylana
-aksiteroetsgnilkcevtu
-moni
--nerafre
-tvitanretla
-nenmä
-.agidrävkil
-smödeb
-mos
-reteh
-dagittärebsledemeidutS
-trafvlah
-,rå 3
-i
-temmargorpretsigaM
--göhkisuM
-.lgnuK
--kisum
-röf
-tednubröF
-nysllit
-giltatS
-3iparetkisum
-mlohkcotS
-i naloks
-hco
-egirevS
-i
-iparet
-aksimedakA
-segirevS
-retueparetkisuM
--rednu dem
-sruksnatsid
-,rå 2
-ksissalk
-i gnindlibtU
-naloks
-ACIDEM
-sretapoemoH
-aksissalK
-kitkarp
-hco raffärtsgninsiv
-4itapoemoh
-dnubröfsekrY
-i
-sruk
-tarapes
-\+
-000
-09
-tarapes
-revärK
-hco iroet
-h 006 ,ditled
-,rå 3
--eisanmyg
-,lammag
-rå
-02
-5gnindlibturutknupukA
-cideV
-snaloks(
-nicidemsab
--sab
-i
-sruk
-ragad
-06 ,kitkarp
-h 052
--sekry
-srå
-5 .le
-snetepmok
-naloksrutknupukA
-)000
-04
-ratsok
-ange
-es
-,nicidem
-åp taledröf
-gninsivrednu
-tehnerafre
-gninttafmo
-\+ rå rep ragad
-2 mo
-raffärt
-01
-i sruk tarapes
-\+ reidutsvläjs
-ednaravstom
-nicidemsab
-i sruk ange
-snaloks(
-ph 06
--eröf 42 rattafmo
-nicidemsab
-reidutsvläjs
-\+ ragadsgninsäl )rå 1
-ac
-rat hco
+
+Tabell 2
+
+Utbildningsaktörer och yrkesutbildningar som rekommenderas av yrkesorganisationer inom KAM (tillhör avsnitt 6.2)
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Föreningen för Frigörande Inspiraktiva
+
+Andningspedagog-
+
+1,5 år, undervisningen är
+
+36 000
+
+Andning
+
+utbildning1
+
+uppdelad i 8 block (totalt
+
+24 dagar) + handledning
+
+\+ självstudier
+
+Förbundet för musik-
+
+Yrkesutbildning Funktionsinriktad
+
+Grundläggande behörighet. 3 år, distans, motsvarande
+
+196 000
+
+terapi i Sverige och
+
+FMT-metoden
+
+musikterapi
+
+Tillräckliga kunskaper/färdig- halvtid (motsvarande 120 hp),
+
+Riksföreningen för
+
+Sverige
+
+– FMT-metoden2
+
+heter i ”piano-bruksspel”,
+
+1–2 dagars undervisning på
+
+Diplomerade Musik-
+
+musikterminologi samt i ele- skolan per mån. + auskulta-
+
+terapeuter
+
+mentär satslära och ackord- tioner + praktik
+
+analys. Tillräckliga kunskaper
+
+inom utvecklingsteoretiska
+
+ämnen alternativt erfaren-
+
+heter som bedöms likvärdiga.
+
+Förbundet för musik-
+
+Kungl. Musikhög- Magisterprogrammet i
+
+3 år, halvfart
+
+Studiemedelsberättigad
+
+terapi i Sverige och
+
+skolan i Stockholm musikterapi3
+
+Statlig tillsyn
+
+Sveriges Akademiska
+
+Musikterapeuter
+
+Klassiska Homeopaters MEDICA skolan
+
+Utbildning i klassisk
+
+2 år, distanskurs med under-
+
+Yrkesförbund
+
+homeopati4
+
+visningsträffar och praktik
+
+Vedic
+
+Akupunkturutbildning5 20 år gammal, gymnasie-
+
+3 år, deltid, 600 h teori och Kräver separat 90 000 + separat kurs i
+
+Akupunkturskolan
+
+kompetens el. 5 års yrkes-
+
+250 h praktik, 60 dagar
+
+kurs i bas-
+
+basmedicin (skolans
+
+erfarenhet
+
+undervisning fördelat på
+
+medicin, se
+
+egna kostar 40 000)
+
+10 träffar om 2 dagar per år + omfattning
+
+självstudier + separat kurs i
+
+basmedicin motsvarande
+
+60 hp (skolans egna kurs i
+
+basmedicin omfattar 24 före-
+
+läsningsdagar + självstudier
+
+och tar ca 1 år)
+
 3
 
 <!-- sida 659 -->
@@ -31053,234 +28456,159 @@ rat hco
 SOU 2019:15                                   Bilaga 5
 
 547
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-sragad
-01
--rednu
-sragad 03 .rå
-5,1
-dröftulS
-.lammag
-rå 22
-tsniM
-6stnemevom
-ysaE
-snosslexA
-aksnicidemrätnemelpmoK
-i gninsivrednu
-\+
-gnindeldnah + gninsiv
-tsnim
-.le
-gnindlibtueisanmyg
-aksitsanmyG
-tednubröfskiR
-imotana
-nege
-h 52 dem( råkitkarp
--svilstebra
-srå
-2 hco
-rå
-02
-tutitsnI
--visnetni
-2 ,gninsivrednu
-repaksnuk
-adoG
-.tehnerafre
-)gnindeldnah ,resruk
-.aksnevs
-i
-000
-23
-gnindlibtu
-ssiV
-gninsivrednu
-h 003
-,.v
-8
-gnindlibtueisanmyg
-dröftulS
-,rössamsdråvksirF
-nicidemsab
-moni
-\+ reidutssnatsid
-evisulkni
-hco
-lammag
-rå
-02 tsnim
-.le
-71
-gets
-hco
-imotana(
-)ragnildnaheb
-6( kitkarp
-.tehnerafresvilstebra
-srå
-2
-)igoloisyf
-.aksnevs
-i repaksnuk
-adoG
-röf
-000
-55(
-000
-43
-gnindlibtu
-ssiV
-\+ gninsivrednu
-h 572
-,.v
-9
-dröftulS
-.rössamsdråvksirF
-,tueparetegassaM
-)2
-hco
-1
-gets
-nicidemsab
-moni
--dnaheb
-6( kitkarp nretxe
-tsnim
-.le
-gnindlibtueisanmyg
-82
-gets
-hco
-imotana(
-)ragnil
-srå
-2
-hco lammag
-rå
-02
-)igoloisyf
-adoG
-.tehnerafresvilstebra .aksnevs
-i repaksnuk
-röf
-000
-77(
-000
-62
-gnindlibtu
-ssiV
-,gninsivrednu
-sragad
-82
-dröftulS
-.tueparetegassaM
-ksnicideM
-)3
-hco
-2
-,1
-gets
-nicidemsab
-moni
-\+ kcolb 6 åp taledppu
-tsnim
-.le
-gnindlibtueisanmyg
-,tueparetegassam
-,imotana(
-reidutsvläjs
-srå
-2
-hco lammag
-rå
-02
-93
-gets
-hco
-igoloisyf
-adoG
-.tehnerafresvilstebra
-)"aräledaks"
-.aksnevs
-i repaksnuk
-sragad
-01
--sgnindlibtu
-21 .rå 3 ,ditleD
-dröftulS
-.lammag
-rå 22
-tsniM
-01tueparetnesoR
-i gninsivrednu
-\+ ragad
-56 tlatot mo redoirep
-tsnim
-.le
-gnindlibtueisanmyg
-svärK
-.imotana
-tsnim
-,.nåm 42–21( kitkarp
--svilstebra
-srå
-2 hco
-rå
-02
-tarapes
-nevä
--dnah
-\+ )ragnildnaheb
-053
-repaksnuk
-adoG
-.tehnerafre
--sab
-i sruk
--eb 32
-iparetnege + gnindel
-.aksnevs
-i
-tta
-röf nicidem
--olpid
-ilb tta röF .ragnildnah
-,daremolpid
-ilb
-i sruk
-tarapes svärk darem
-gninttafmo
-es
-ange
-snalokS( .nicidemsab
--tafmo
-sruksnatsid ne rä
-sruk
-sragad
-7 dem h 001 ac ednat
-).naloks
-åp gninsivrednu
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Komplementärmedicinska Axelssons
+
+Easy movements6
+
+Minst 22 år gammal. Slutförd 1,5 år. 30 dagars under-
+
+10 dagars
+
+Riksförbundet
+
+Gymnastiska
+
+gymnasieutbildning el. minst visning + handledning +
+
+undervisning i
+
+Institut
+
+20 år och 2 års arbetslivs-
+
+praktikår (med 25 h egen
+
+anatomi
+
+erfarenhet. Goda kunskaper undervisning, 2 intensiv-
+
+i svenska.
+
+kurser, handledning)
+
+Friskvårdsmassör,
+
+Slutförd gymnasieutbildning 8 v., 300 h undervisning
+
+Viss utbildning 32 000
+
+steg 17
+
+el. minst 20 år gammal och inklusive distansstudier +
+
+inom basmedicin
+
+2 års arbetslivserfarenhet.
+
+praktik (6 behandlingar)
+
+(anatomi och
+
+Goda kunskaper i svenska.
+
+fysiologi)
+
+Massageterapeut,
+
+Friskvårdsmassör. Slutförd 9 v., 275 h undervisning +
+
+Viss utbildning 34 000 (55 000 för
+
+steg 28
+
+gymnasieutbildning el. minst extern praktik (6 behand-
+
+inom basmedicin steg 1 och 2)
+
+20 år gammal och 2 års
+
+lingar)
+
+(anatomi och
+
+arbetslivserfarenhet. Goda
+
+fysiologi)
+
+kunskaper i svenska.
+
+Medicinsk
+
+Massageterapeut. Slutförd
+
+28 dagars undervisning,
+
+Viss utbildning 26 000 (77 000 för
+
+massageterapeut,
+
+gymnasieutbildning el. minst uppdelat på 6 block +
+
+inom basmedicin steg 1, 2 och 3)
+
+steg 39
+
+20 år gammal och 2 års
+
+självstudier
+
+(anatomi,
+
+arbetslivserfarenhet. Goda
+
+fysiologi och
+
+kunskaper i svenska.
+
+"skadelära")
+
+Rosenterapeut10
+
+Minst 22 år gammal. Slutförd Deltid, 3 år. 12 utbildnings- 10 dagars
+
+gymnasieutbildning el. minst perioder om totalt 65 dagar + undervisning i
+
+20 år och 2 års arbetslivs-
+
+praktik (12–24 mån., minst anatomi. Krävs
+
+erfarenhet. Goda kunskaper 350 behandlingar) + hand- även separat
+
+i svenska.
+
+ledning + egenterapi 23 be- kurs i bas-
+
+handlingar. För att bli diplo- medicin för att
+
+merad krävs separat kurs i bli diplomerad,
+
+basmedicin. (Skolans egna se omfattning
+
+kurs är en distanskurs omfat-
+
+tande ca 100 h med 7 dagars
+
+undervisning på skolan.)
+
 4
 
 <!-- sida 660 -->
@@ -31288,170 +28616,119 @@ sragad
 Bilaga 5                                   SOU 2019:15
 
 548
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-gnindlibtu
-ssiV
--sivrednu
-rammit
-081 akriC
-gnindlibtueisanmyg
-dröftulS
-11erarälagoY
-.stroF
-.stroF
-nicidemsab
-moni
-varav
-,kcolb 9
-i taledppu gnin
-hco lammag
-rå
-02
-tsnim
-.le
-snosslexA
-aksnicidemrätnemelpmoK
-hco
-imotana(
-reidutsvläjs
-\+
-neinapS i .v ne
-.tehnerafresvilstebra
-srå
-2
-aksitsanmyG
-tednubröfskiR
-)igoloisyf
-gninsivrednu
-nege +
-.aksnevs
-i
-repaksnuk
-adoG
-tutitsnI
-000
-23
-gnindlibtu
-ssiV
-gninsivrednu
-ragad 02
-gnindlibtu
-ksitueparetspporK
-21rössamagoY
-nicidemsab
-moni
-mo kcolb
-5 åp taledröf
--tu ,)tueparetegassam
-.xe.t(
-)imotana(
-\+ )h 041
-tlatot( ragad 4
--kil .le rötkurtsniagoy
-dadlib
-kitkarp h 46
-negatna ilb
-tta
-tgiljöM
-.ednan
--atled aiv
-negnindlibtu
-åp
-sruksnoitkudortni
-i ednag
-ednajlöfretfe
-tte
-hco
-)gad
-1(
-dröftulS
-.latmas
-tgilnosrep
-tsnim .le gnindlibtueisanmyg srå 2
-hco
-lammag
-rå
-02
-adoG .tehnerafresvilstebra aksnevs
-i
-repaksnuk
--olpid
-ilb
-tta
-röF
--röf
-gninsivrednu
-ragad 53
-gnindlibtueisanmyg
-dröftulS
-llit
-negnindlibtusekrY
-svärk
-darem
-kitkarp
-\+ kcolb
-41 åp taled
-hco lammag
-rå
-02
-tsnim
-.le
-daremolpid
-sruk
-tarapes
--nege
-\+ )ragnildnaheb
-57(
-.tehnerafresvilstebra
-srå
-2
-/rösserpuka
-,nicidemsab
-i
--vläjs
-\+ ragnildnaheb
-6 iparet
-aksnevs
-i
-repaksnuk
-adoG
-31tueparetsserts
-gninttafmo
-es
-daremolpid
-ilb
-tta röF .reiduts
--idemsab
-i sruk
-tarapes svärk
-ne
-rä
-sruk ange
-snalokS( .nic
-ac
-ednattafmo
-sruksnatsid
--rednu
-sragad
-7 dem h 001 ).gninsiv
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Forts.
+
+Yogalärare11
+
+Slutförd gymnasieutbildning Cirka 180 timmar undervis- Viss utbildning
+
+Komplementärmedicinska Axelssons
+
+el. minst 20 år gammal och ning uppdelat i 9 block, varav inom basmedicin
+
+Riksförbundet
+
+Gymnastiska
+
+2 års arbetslivserfarenhet.
+
+en v. i Spanien + självstudier (anatomi och
+
+Institut
+
+Goda kunskaper i svenska.
+
+\+ egen undervisning
+
+fysiologi)
+
+Yogamassör12
+
+Kroppsterapeutisk utbildning 20 dagar undervisning
+
+Viss utbildning 32 000
+
+(t.ex. massageterapeut), ut- fördelat på 5 block om
+
+inom basmedicin
+
+bildad yogainstruktör el. lik- 4 dagar (totalt 140 h) +
+
+(anatomi)
+
+nande. Möjligt att bli antagen 64 h praktik
+
+på utbildningen via delta-
+
+gande i introduktionskurs
+
+(1 dag) och ett efterföljande
+
+personligt samtal. Slutförd
+
+gymnasieutbildning el. minst
+
+20 år gammal och 2 års
+
+arbetslivserfarenhet. Goda
+
+kunskaper i svenska
+
+Yrkesutbildningen till Slutförd gymnasieutbildning 35 dagar undervisning för-
+
+För att bli diplo-
+
+diplomerad
+
+el. minst 20 år gammal och delat på 14 block + praktik merad krävs
+
+akupressör/
+
+2 års arbetslivserfarenhet.
+
+(75 behandlingar) + egen-
+
+separat kurs
+
+stressterapeut13
+
+Goda kunskaper i svenska
+
+terapi 6 behandlingar + själv- i basmedicin,
+
+studier. För att bli diplomerad se omfattning
+
+krävs separat kurs i basmedi-
+
+cin. (Skolans egna kurs är en
+
+distanskurs omfattande ca
+
+100 h med 7 dagars under-
+
+visning.)
+
 5
 
 <!-- sida 661 -->
@@ -31459,177 +28736,159 @@ sragad
 SOU 2019:15                                   Bilaga 5
 
 549
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-i
-sruk
-tarapes
-\+
-008
-95
-gnindlibtu ssiV
-gninsivrednu
-ragad 94 .rå 1
-gnindlibtueisanmyg
-dröftulS
-/tueparetnoZ
-.stroF
-.stroF
-nicidemsab
-nicidemsab
-moni
-tlatot(
-kcolb 8 i taledppu
-hco
-lammag
-rå
-02
-tsnim
-.le
-41goloxelfer
-snosslexA
-aksnicidemrätnemelpmoK
-hco imotana(
--dnaheb 57(
-kitkarp + )h 672
-.tehnerafresvilstebra
-srå
-2
-aksitsanmyG
-tednubröfskiR
-.)arälsmodkujs
-tta röF .reidutsvläjs
-\+ )ragnil
-aksnevs
-i
-repaksnuk
-adoG
-tutitsnI
-ilb tta röF
-tarapes svärk
-daremolpid ilb
-svärk
-daremolpid
-snalokS(
-.nicidemsab i sruk
-tarapes nevä
-sruksnatsid
-ne rä sruk ange
--sab i sruk
-dem h 001
-akric ednattafmo
-es ,nicidem
-åp gninsivrednu
-sragad 7
-gninttafmo
-).naloks
-ednaravstoM
-.le( ditleh
-ednaravstom ,rå 3
-51negnindlibtuitapoiB
-nimedakaitapoiB
-nesruk ,ph 06
--rednu ,snatsid
-,)ditvlah rå 6
-munacrA va seg
-ragad 04 ac
-naloks åp gninsiv
-nalokS
-005
-35
-ragad 65
-gninsivrednu ,rå 2
-ksdnälretsö
-i repaksnuksaB
--rutknupukA
-iakkaG
-nihssI
-ragad 3–2
-mo kcolb i taledppu
-nårf
-knätigrene
-hco
-nicidem
-61gnindlibtu
-.nåm rep
-ragnindlibtu
-eragidit
-000
-501
-ednaravstom
-,snatsid ,rå 3
-ksisenik
-i rötknupukA
-nimedakA
-gnijieN
-åp gninsivrednu
-,ditvlah
-71nicidem
-\+ .nåm rep
-ragad 3–2 naloks reidutsvläjs
-000
-82
-kcolb 4 åp
-taledröf ,ragad 71
-i
-gnindlibtusekrY
-tksidroN
-)ragnildnaheb
-03( kitkarp +
--amora
-ksnicidem
-retnecsgniräN
-egassamamora
-,iparet
-81iparetnozamora
-hco
-sruk
-tarapes
-\+
-005
-93
-ilb tta röF
-sragad
-03 ,snatsid rå 5,1
-tueparetrusserpukA
-nekinilkapS
-nicidemsab
-i
-svärk
-daremolpid
--ppu naloks
-åp gninsivrednu
-hco
-aksinnäm(
-i sruk tarapes
-\+ kcolb
-sragad-2 i taled
-91)dnuh
-nicidemsab
--dnaheb
-52( kitkarp nretxe
-tta röF .reidutsvläjs
-\+ )ragnil
-tarapes svärk
-daremolpid ilb nicidemsab i sruk
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Forts.
+
+Zonterapeut/
+
+Slutförd gymnasieutbildning 1 år. 49 dagar undervisning Viss utbildning 59 800 + separat kurs i
+
+Komplementärmedicinska Axelssons
+
+reflexolog14
+
+el. minst 20 år gammal och uppdelat i 8 block (totalt
+
+inom basmedicin basmedicin
+
+Riksförbundet
+
+Gymnastiska
+
+2 års arbetslivserfarenhet.
+
+276 h) + praktik (75 behand- (anatomi och
+
+Institut
+
+Goda kunskaper i svenska
+
+lingar) + självstudier. För att sjukdomslära).
+
+bli diplomerad krävs separat För att bli
+
+kurs i basmedicin. (Skolans diplomerad krävs
+
+egna kurs är en distanskurs även separat
+
+omfattande cirka 100 h med kurs i bas-
+
+7 dagars undervisning på
+
+medicin, se
+
+skolan.)
+
+omfattning
+
+Biopatiakademin Biopatiutbildningen15
+
+3 år, motsvarande heltid (el. Motsvarande
+
+6 år halvtid), distans, under- 60 hp, kursen
+
+visning på skolan ca 40 dagar ges av Arcanum
+
+Skolan
+
+Isshin Gakkai
+
+Akupunktur-
+
+Baskunskaper i österländsk 2 år, undervisning 56 dagar
+
+53 500
+
+utbildning16
+
+medicin och energitänk från uppdelat i block om 2–3 dagar
+
+tidigare utbildningar
+
+per mån.
+
+Neijing Akademin Akupunktör i kinesisk
+
+3 år, distans, motsvarande
+
+105 000
+
+medicin17
+
+halvtid, undervisning på
+
+skolan 2–3 dagar per mån. +
+
+självstudier
+
+Nordiskt
+
+Yrkesutbildning i
+
+17 dagar, fördelat på 4 block
+
+28 000
+
+Näringscenter
+
+medicinsk aroma-
+
+\+ praktik (30 behandlingar)
+
+terapi, aromamassage
+
+och aromazonterapi18
+
+Spakliniken
+
+Akupressurterapeut
+
+1,5 år distans, 30 dagars
+
+För att bli
+
+39 500 + separat kurs
+
+(människa och
+
+undervisning på skolan upp- diplomerad krävs i basmedicin
+
+hund)19
+
+delat i 2-dagars block +
+
+separat kurs i
+
+extern praktik (25 behand-
+
+basmedicin
+
+lingar) + självstudier. För att
+
+bli diplomerad krävs separat
+
+kurs i basmedicin
+
 6
 
 <!-- sida 662 -->
@@ -31637,160 +28896,119 @@ daremolpid ilb nicidemsab i sruk
 Bilaga 5                                   SOU 2019:15
 
 550
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-i
-sruk
-tarapes
-\+
-009
-69
--olpid
-ilb
-tta röF
-rå 5,1(
-ditled snatsid rå
-3
-agnI
-gnindlibturötknupukA
-rutknupukA
-MCT
-.stroF
-nicidemsab
-svärk
-darem
-tjlöf rutknupukadnuh
-.le -tsäh
-tsäh
-hco
-aksinnäm(
-sgnindlibtU
-hco
-aksnicidemrätnemelpmoK
-i
-sruk
-tarapes
-,)rutknupukanamuh
-rå 5,1 va
-02)dnuh
-.le
-retneC
-tednubröfskiR
-es
-,nicidemsab
-naloks
-åp gninsivrednu
-gninttafmo
--vläjs
-\+ .nåm rep ragad
-2
-ilb tta röF
-.kitkarp hco reiduts
-sruk tarapes
-svärk daremolpid
-ednaravstom
-nicidemsab
-i
--adnahllit
-naloks tekliv ,ph 06 .rellåh
-000
-74
-.le
-000
-54
-ac
-gnindlibtu
-ssiV
-i daledppu
-rä negninsivrednU
-.le
-iparetnoz
-i
-srukdnurG
-12gnindlibtuiparetnoZ
-greblleH
-maeT
-troeiduts
-åp
-edneoreb
-nicidemsab
-moni
-ac rednu
-ragad 5 mo kcolb
-8
-.ednaravstom
-iparetnoZ
--sab
-i
-sruk
-tarapes
-\+
--oisyf
-,imotana(
--eb 57 kitkarp
-\+ )h 572( rå
-1
-nicidem
--edaks
-hco igol
-ac reidutsvläjs
-\+ ragnildnah
-nevä
-svärK
-.)aräl
--sab i sruk
-tarapes + h 081
-i
-sruk
-tarapes
-.h 08 ednaravstom
-nicidem
-,nicidemsab
-gninttafmo
-es
-000
-72
-gninsivrednu
-h 002 ,rå
-1
-agnI
-/tueparetotyF
-aksnicidemtrÖ
-ddeldnah
-h 52 evisulkni(
-22tueparettrö
-nalokS
-gleh ne
-åp taledröf )kitkarp
-reidutsvläjs
-\+ .nåm rep
-000
-72
-.ac gninsivrednu
-,ditled ,rå
-2
-32itapoemoH
-tlatot( .nåm
-ejdert rav ragad
-3
-)ragad 42
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+TCM Akupunktur Akupunktörutbildning Inga
+
+3 år distans deltid (1,5 år
+
+För att bli diplo- 96 900 + separat kurs i
+
+Komplementärmedicinska och Utbildnings (människa och häst
+
+häst- el. hundakupunktur följt merad krävs
+
+basmedicin
+
+Riksförbundet
+
+Center
+
+el. hund)20
+
+av 1,5 år humanakupunktur), separat kurs i
+
+undervisning på skolan
+
+basmedicin, se
+
+2 dagar per mån. + själv-
+
+omfattning
+
+studier och praktik. För att bli
+
+diplomerad krävs separat kurs
+
+i basmedicin motsvarande
+
+60 hp, vilket skolan tillhanda-
+
+håller.
+
+Team Hellberg
+
+Zonterapiutbildning21 Grundkurs i zonterapi el.
+
+Undervisningen är uppdelad i Viss utbildning ca 45 000 el. 47 000
+
+Zonterapi
+
+motsvarande.
+
+8 block om 5 dagar under ca inom basmedicin beroende på studieort
+
+1 år (275 h) + praktik 75 be- (anatomi, fysio- + separat kurs i bas-
+
+handlingar + självstudier ca logi och skade- medicin
+
+180 h + separat kurs i bas- lära). Krävs även
+
+medicin motsvarande 80 h. separat kurs i
+
+basmedicin,
+
+se omfattning
+
+Örtmedicinska
+
+Fytoterapeut/
+
+Inga
+
+1 år, 200 h undervisning
+
+27 000
+
+Skolan
+
+örtterapeut22
+
+(inklusive 25 h handledd
+
+praktik) fördelat på en helg
+
+per mån. + självstudier
+
+Homeopati23
+
+2 år, deltid, undervisning ca.
+
+27 000
+
+3 dagar var tredje mån. (totalt
+
+24 dagar)
+
 7
 
 <!-- sida 663 -->
@@ -31798,235 +29016,181 @@ ejdert rav ragad
 SOU 2019:15                                   Bilaga 5
 
 551
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS 000
-56
-i
-gnindlibtu
-ssiV
-gninsivrednu
-sragad 05 ,rå
-2
--oib daremolpiD
-ecnegilletnI
-ydoB
-alarkasoinarK
-nicidemsab
--vläjs +
-kcolb
-01 åp taledröf
-larkasoinark
-ksimanyd
-tednubröftuepareT
-.)imotana(
-reiduts
-42tueparet
-i sruk
-tarapeS
-hco
-imotana
-nak
-igoloisyf
-tta röf
-savöheb
-,daremolpid
-ilb
-svärk
-h
-08
-tsnim
-tarapes
-svärK
-i gninsivrednu
-sragad 82
--tafmo
-gnindlibtudnurg
-nE
--oinark
-i noitasirotkuA
-dråvksirF
-agnåpS
--sab
-i sruk
-ac rednu
-ragad
-3–2 mo kcolb
-addelraräl
-h
-052
-tsnim
-ednat
-dem iparet
-larkas
-,retnecosläH
-es
-,nicidem
-\+ ragnildnaheb
-05 + nåm
-7
-hco
-aksiteroet
-,renoitkel
-largetni gnintkirni
-tutitsni
-ouL
-niJ
-repaksnukröf
-\+ reidutsvläjs
-\+ gnindeldnah
-larkasoinark
-i
-aksitkarp
--oib larkasoinark
-ytilibamodsiW
-va
-ragnildnaheb
-01 iparetnege
--tom
-nicidemsaB
-.iparet
-52iparet kimanyd
-snoitacudE
-ph
-03
-ednaravs
-rednu gninvirkseb
-eS
-snosslexA
-sanretueparetspporK
--rätnemelpmoK
-aksitsanmyG
-dnubröfsekrY
-aksnicidem
-tutitsnI
-tednubröfskiR
-hco
-h 56
-imotanA
-kitkarp +
-gninsivrednu
-h 063
-darkässtetilavK
-aremolpiD
-h 56
-igoloisyf
-h 84
-62rössam
-irfstfigvA
-gnindlibtu
-ssiV
--rössam
-varav
-,ditleh ,v 94
-tmas
-muisanmyg
-tgirå
-3
-– dråvksirF
-/ asläH
--göhklof
-svölsmirG
-dagittärebsledemeidutS
-nicidemsab
-moni
-ne va
-råtseb
-negnindlibtu
-tehnerafresvilstebra
-srå
-1
-hco eralkcevtuosläh
--ideM
-hco
-aloks
-nysllit
-giltats
-negnI
-hco
-imotana(
-.v 6 hco iroet
-.v 4 + srukdnurg
-ednaravstom
-.le
-tueparetegassam
-murofsruK
-tksnic
-)igoloisyf
--eb 03 va
-ednaröftu(
-kitkarp
-llit tehgiljöm
-dem(
--sgninpujdröf
-1 + )ragnildnah
-72)gnireifitrec
-akcev
-irfstfigvA
-hco
-imotanA
-ddelraräl
-,ditleh
-,renimret
-2
-röf
-tehgiröheb
-ednaggäldnurG
-dem( gogadeposläH
-grebagaH
-dagittärebsledemeidutS
-h 05
-igoloisyf
-\+ akcev rep
-h
-02 gninsivrednu
-i
-agåmröf
-doG
-.aloksgöhsekry
--itrec llit tehgiljöm
-aloksgöhklof
-nysllit
-giltats
-negnI
-areifitrec
-tta
-röF .reidutsvläjs
-,aksnevs
-åp
-gid
-akcyrttu
-tta
-,rössam mos
-gnireif
-artxe svärk
-rössam mos gis
-tfirks
-i hco
-lat
-i edåb
-.le eranärt gilnosrep
-ange dem
-etebra
-\+ gninsälni
-82)eravigdårtsok
-retneilk
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Kraniosakrala
+
+Body Intelligence Diplomerad bio-
+
+2 år, 50 dagars undervisning Viss utbildning i 65 000
+
+Terapeutförbundet
+
+dynamisk kraniosakral
+
+fördelat på 10 block + själv- basmedicin
+
+terapeut24
+
+studier
+
+(anatomi).
+
+Separat kurs i
+
+anatomi och
+
+fysiologi kan
+
+behövas för att
+
+bli diplomerad,
+
+minst 80 h krävs
+
+Spånga Friskvård Auktorisation i kranio- En grundutbildning omfat-
+
+28 dagars undervisning i
+
+Krävs separat
+
+Hälsocenter,
+
+sakral terapi med
+
+tande minst 250 h lärarledda block om 2–3 dagar under ca kurs i bas-
+
+Jin Luo institut
+
+inriktning integral
+
+lektioner, teoretiska och
+
+7 mån + 50 behandlingar + medicin, se
+
+av Wisdomability kraniosakral bio-
+
+praktiska i kraniosakral
+
+handledning + självstudier + förkunskaper
+
+Educations
+
+dynamik terapi25
+
+terapi. Basmedicin mot-
+
+egenterapi 10 behandlingar
+
+svarande 30 hp
+
+Kroppsterapeuternas
+
+Axelssons
+
+Se beskrivning under
+
+Yrkesförbund
+
+Gymnastiska
+
+Komplementär-
+
+Institut
+
+medicinska
+
+Riksförbundet
+
+Diplomera
+
+Kvalitetssäkrad
+
+360 h undervisning + praktik Anatomi 65 h och
+
+massör26
+
+48 h
+
+fysiologi 65 h
+
+Grimslövs folkhög- Hälsa / Friskvård – 3 årigt gymnasium samt
+
+49 v, heltid, varav massör-
+
+Viss utbildning Avgiftsfri
+
+skola och Medi-
+
+hälsoutvecklare och 1 års arbetslivserfarenhet
+
+utbildningen består av en
+
+inom basmedicin Studiemedelsberättigad
+
+cinskt Kursforum massageterapeut
+
+el. motsvarande
+
+grundkurs + 4 v. teori och 6 v. (anatomi och
+
+Ingen statlig tillsyn
+
+(med möjlighet till
+
+praktik (utförande av 30 be- fysiologi)
+
+certifiering)27
+
+handlingar) + 1 fördjupnings-
+
+vecka
+
+Hagaberg
+
+Hälsopedagog (med Grundläggande behörighet för 2 terminer, heltid, lärarledd Anatomi och
+
+Avgiftsfri
+
+folkhögskola
+
+möjlighet till certi-
+
+yrkeshögskola. God förmåga i undervisning 20 h per vecka + fysiologi 50 h
+
+Studiemedelsberättigad
+
+fiering som massör, att uttrycka dig på svenska, självstudier. För att certifiera
+
+Ingen statlig tillsyn
+
+personlig tränare el. både i tal och i skrift
+
+sig som massör krävs extra
+
+kostrådgivare)28
+
+inläsning + arbete med egna
+
+klienter
+
 8
 
 <!-- sida 664 -->
@@ -32034,251 +29198,193 @@ retneilk
 Bilaga 5                                   SOU 2019:15
 
 552
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-.arälsmodkujS
-gninsivrednU
-.nåm
-2 hco
-rå
-2
-agnI
--tueparetustaihS
-ustaihS
-ynomraH
-.stroF
-ne nevä
-svärK
-\+ )h 044(
-.nåm i gleh
-ne
-92gnindlibtu
-retneC
-sanretueparetspporK
-i sruk
-tarapes
-\+ ragnildnahebkitkarp
-031
-dnubröfsekrY
-nicidemsab
-\+ ragnildnaheb
-01 iparetnege
-nicidemsab
-i sruk tarapes
-irfstfigvA
-gnindlibtu
-ssiV
-nimret ne + ditleh
-,renimret
-2
-lammag
-rå
-81
-dem(
-hcaocosläH
-deramläjH
-dagittärebsledemeidutS
-nicidemsab
-moni
-dem trafstravk
-åp snatsid
-åp
--itrec
-llit tehgiljöm
-aloksgöhklof
-nysllit
-giltats
-negnI
-)imotana(
-raffärtsgninsivrednu
-5
-rössam
-mos gnireif
-gilnosrep
-nevä
-hco
--dårtsok
-.le eranärt 03)eravig
-irfstfigvA
-gnindlibtu
-ssiV
-varav ,ditleh
-,nåm 6
-akriC
--retfe
-,girå-1
-ne
-ttågmoneG
-gilnosrep
-dareifitreC
-sgrebsbokaJ
-dagittärebsledemeidutS
-nicidemsab
-moni
-åp gninsivrednu
-.nåm 4
-tgyrd
-åp gnindlibtuosläh
-laisanmyg
-gnintkirni
-,eranärt
-aloksgöhklof
-nysllit
-giltats
-negnI
-hco
-imotana(
-snatsid .nåm
-2 tmas naloks
-ednaravstom
-.le
-aloksgöhklof
--atserp
-ksisyf ,asläh
-rågnI
-.)igoloisyf
--sgninsivrednu
-argån
-dem
-ttågmoneg
-tmas
-gnindlibtu
-gnildnaheb
-hco
-noit
-nicidemsab
-nevä
-reidutsvläjs
-\+ raffärt
--dlibtuegassam
-ednaggäldnurg
-dareifitrec
-evisulkni(
-anrepaksnukröf
-i
-tsnim
-tröfmoneg
-ah
-hco
-gnin
-13)rössam
-ragnildnahebegassam
-03
-000
-26
-gninsivrednu
-sragad
-04
-.rå
-2
-agnI
-gnindlibtusekrY
-noriaK
-kitkarp + kcolb
-01 i taledppu
-23igoloxelfer
-i
-aloksigoloxelfeR
-)ragnildnaheb
-05(
-irfstfigvA
-i gnindlibtu
-ssiV
-gninsivrednu
-,ditleh
-,rå
-1
-dem
-eranärtosläH
-smokloM
-dagittärebsledemeidutS
--ana( nicidemsab
--reifitrec retferäd
-,inuj–gua
--itrec
-llit tehgiljöm
-aloksgöhklof
-nysllit
-giltats
-negnI
-igoloisyf
-,imot
-.gua–inuj
-doirepsgni
-gilnosrep
-mos gnireif
--smodkujs
-hco
-eravigdårtsok
-,eranärt
-)aräl
-33rössam
-hco
--osläh
-llit
-negnindlibtU
-gnindlibtu
-ssiV
--egassam ,ditleh
-,renimret
-3
-tehgiröheb
-ednaggäldnurG
-dem(
-hcaocosläH
-aknuM
-rä
-negnindlibtuhcaoc
-nicidemsab
-moni
--natu sivled seg
-negnindlibtu
--itrec
-llit tehgiljöm
-aloksgöhklof
-gillivirf
-nem
-,irfstfigva
-hco
-imotana(
-neditsruk
-röf
-gilnosrep
-mos gnireif
-egassam
-i gnindlibtu
-)igoloisyf
--dårtsok
-hco eranärt
-.rk
-002
-2
-ratsok
--olpid
-tmas eravig
-dagittärebsledemeidutS
-43)rössam
-darem
-nysllit
-giltats
-negnI
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Harmony Shiatsu Shiatsuterapeut-
+
+Inga
+
+2 år och 2 mån. Undervisning Sjukdomslära.
+
+Kroppsterapeuternas
+
+Center
+
+utbildning29
+
+en helg i mån. (440 h) +
+
+Krävs även en
+
+Yrkesförbund
+
+130 praktikbehandlingar + separat kurs i
+
+egenterapi 10 behandlingar + basmedicin
+
+separat kurs i basmedicin
+
+Hjälmared
+
+Hälsocoach (med
+
+18 år gammal
+
+2 terminer, heltid + en termin Viss utbildning Avgiftsfri
+
+folkhögskola
+
+möjlighet till certi-
+
+på distans på kvartsfart med inom basmedicin Studiemedelsberättigad
+
+fiering som massör
+
+5 undervisningsträffar
+
+(anatomi)
+
+Ingen statlig tillsyn
+
+och även personlig
+
+tränare el. kostråd-
+
+givare)30
+
+Jakobsbergs
+
+Certifierad personlig Genomgått en 1-årig, efter- Cirka 6 mån, heltid, varav
+
+Viss utbildning Avgiftsfri
+
+folkhögskola
+
+tränare, inriktning
+
+gymnasial hälsoutbildning på drygt 4 mån. undervisning på inom basmedicin Studiemedelsberättigad
+
+hälsa, fysisk presta- folkhögskola el. motsvarande skolan samt 2 mån. distans (anatomi och
+
+Ingen statlig tillsyn
+
+tion och behandling utbildning samt genomgått med några undervisnings-
+
+fysiologi). Ingår
+
+(inklusive certifierad grundläggande massageutbild- träffar + självstudier
+
+även basmedicin
+
+massör)31
+
+ning och ha genomfört minst
+
+i förkunskaperna
+
+30 massagebehandlingar
+
+Kairon
+
+Yrkesutbildning
+
+Inga
+
+2 år. 40 dagars undervisning
+
+62 000
+
+Reflexologiskola i reflexologi32
+
+uppdelat i 10 block + praktik
+
+(50 behandlingar)
+
+Molkoms
+
+Hälsotränare med
+
+1 år, heltid, undervisning
+
+Viss utbildning i Avgiftsfri
+
+folkhögskola
+
+möjlighet till certi-
+
+aug–juni, därefter certifier- basmedicin (ana- Studiemedelsberättigad
+
+fiering som personlig
+
+ingsperiod juni–aug.
+
+tomi, fysiologi Ingen statlig tillsyn
+
+tränare, kostrådgivare
+
+och sjukdoms-
+
+och massör33
+
+lära)
+
+Munka
+
+Hälsocoach (med
+
+Grundläggande behörighet
+
+3 terminer, heltid, massage- Viss utbildning Utbildningen till hälso-
+
+folkhögskola
+
+möjlighet till certi-
+
+utbildningen ges delvis utan- inom basmedicin coachutbildningen är
+
+fiering som personlig
+
+för kurstiden
+
+(anatomi och
+
+avgiftsfri, men frivillig
+
+tränare och kostråd-
+
+fysiologi)
+
+utbildning i massage
+
+givare samt diplo-
+
+kostar 2 200 kr.
+
+merad massör)34
+
+Studiemedelsberättigad
+
+Ingen statlig tillsyn
+
 9
 
 <!-- sida 665 -->
@@ -32286,430 +29392,309 @@ negnI
 SOU 2019:15                                   Bilaga 5
 
 553
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-rednu
-gninvirkseb
-eS
-tksidroN
-.stroF
--rätnemelpmoK
-retnecsgniräN
-sanretueparetspporK
-aksnicidem
-dnubröfsekrY
-tednubröfskiR
-000
-21
-gnindlibtu
-ssiV
-edaledröf
-gninsivrednu
-h 001
-agnI
-53rössam
-daremolpiD
-noitacudE
-oisyhP
-nicidemsab
-moni
-\+
-)ragad
-51(
-reglehsruk 5 åp
-hco
-imotana(
-reidutsvläjs
-\+ kitkarp h 04
-)igoloisyf
-h 06 ac
-)tlatot
-000
-04(
-000
-82
-gnindlibtu
-ssiV
-llit
-tgalröf
-gninsivrednu
-h 052
-rössam
-daremolpiD
--egassam
-daremolpiD
-nicidemsab
-moni
-\+
-kitkarp
-h 001 + regleh
-63tueparet
--oisyf
-,imotana(
-reidutsvläjs
--kujs
-hco
-igol
-)arälsmod
-008
-95
-h
-054
-gninsivrednu
-,rå 5,1
--spporkleh
-ne
-arög
-annuK
-ksinilk-goloiseniK
-nésoR
-enibaS
-mo
-kcolb
-11 åp taledröf
-,kurbammeh
-röf
-egassam
-73gnintkirni
-ragnindlibtu
-\+
-ragadkitkarp
-02 + ragad
-3
-.sruk
-dassapna
-snnif
-reidutsvläjs
-\+ gnindeldnah
-000
-08
-akriC
-gninsivrednu
-sragad 07 ,rå
-3
-83gnindlibtuustaihS
-nimedakA
-ustaihS
--eb
-001
-\+
-kcolb
-41 i taledppu ragnildnah
-005
-62
-kcolb
-6
-åp
-taledppu
-,ragad 42
-agnI
-93egassam
-ksidevruyA
-aksivanidnakS
-\+
-.nåm
-rep
-kcolb 1 ac dem
-nimedakAadevruyA
-\+
-h
-05–03
-ragnildnaheb h 01 iparetnege
-irfstfigvA
-gnindlibtu
-ssiV
--raräl
-000
-1
-revö( renimret
-2
-aloksgöhsekry
-röf
-tehgiröheB
-evisulkni
-hcaocosläH
-dnusnetS
-dagittärebsledemeidutS
-nicidemsab
-moni
-)renoitkel addel
-åvinsgnindlibtu
-gidrävkil
-.le
--itrec
-llit
-tehgiljöm
-aloksgöhklof
-nysllit
-giltats
-negnI
-hco
-imotana(
--rep
-,rössam
-gnireif
-)igoloisyf
-hco
-eranärt
-gilnos
-04eravigdårtsok
-01
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Nordiskt
+
+Se beskrivning under
+
+Kroppsterapeuternas
+
+Näringscenter
+
+Komplementär-
+
+Yrkesförbund
+
+medicinska
+
+Riksförbundet
+
+Physio Education Diplomerad massör35 Inga
+
+100 h undervisning fördelade Viss utbildning 12 000
+
+på 5 kurshelger (15 dagar) + inom basmedicin
+
+40 h praktik + självstudier (anatomi och
+
+ca 60 h
+
+fysiologi)
+
+Diplomerad massage- Diplomerad massör
+
+250 h undervisning förlagt till Viss utbildning 28 000 (40 000 totalt)
+
+terapeut36
+
+helger + 100 h praktik +
+
+inom basmedicin
+
+självstudier
+
+(anatomi, fysio-
+
+logi och sjuk-
+
+domslära)
+
+Sabine Rosén
+
+Kinesiolog-klinisk
+
+Kunna göra en helkropps-
+
+1,5 år, undervisning 450 h
+
+59 800
+
+utbildningar
+
+inriktning37
+
+massage för hemmabruk,
+
+fördelat på 11 block om
+
+finns anpassad kurs.
+
+3 dagar + 20 praktikdagar +
+
+handledning + självstudier
+
+Shiatsu Akademin Shiatsuutbildning38
+
+3 år, 70 dagars undervisning
+
+Cirka 80 000
+
+uppdelat i 14 block + 100 be-
+
+handlingar
+
+Skandinaviska
+
+Ayurvedisk massage39 Inga
+
+24 dagar, uppdelat på 6 block
+
+26 500
+
+AyurvedaAkademin
+
+med ca 1 block per mån. +
+
+behandlingar 30–50 h +
+
+egenterapi 10 h
+
+Stensund
+
+Hälsocoach inklusive Behörighet för yrkeshögskola 2 terminer (över 1 000 lärar- Viss utbildning Avgiftsfri
+
+folkhögskola
+
+möjlighet till certi-
+
+el. likvärdig utbildningsnivå ledda lektioner)
+
+inom basmedicin Studiemedelsberättigad
+
+fiering massör, per-
+
+(anatomi och
+
+Ingen statlig tillsyn
+
+sonlig tränare och
+
+fysiologi)
+
+kostrådgivare40
+
+10
 
 <!-- sida 666 -->
 
 Bilaga 5                                   SOU 2019:15
 
 554
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-smom
-evisulkxe
-001
-56
-gnindlibtu
-ssiV
-,)h 057
-tlatot(
-ditled ,nåm 81
-agnI
-dareifitreC
-aksnevS
-.stroF
-nicidemsab
-moni
-gninsivrednu
-ragad 5,26
-14erarälagoy
-temaetosläH
-sanretueparetspporK
--kujs
-,igoloisyf(
-\+
-kcolb
-51 åp taledppu
-dnubröfsekrY
-hco
-arälsmod
-\+
-h 002
-ac reidutsvläjs
-)aräledaks
-gninärt
-daretsissa h 05
-008
-81
-gnindlibtu
-ssiV
-\+ rammitsgninsivrednu
-031
-aksnevs
-alat
-hco
-avirks
-,asäL
-daremolpiD
-nicidemsab
-moni
-kitkarp h 53 ac
-rå
-81
-tsnim
-arav
-tmas
-24rössamsdråvksirf
-hco
-imotana(
--eisanmyg
-ah
-hco
-lammag
-)igoloisyf
-ednaravstom
-.le
-snetepmok
-005
-92
-gnindlibtu
-ssiV
-,rammitsgninsivrednu
-042
-aksnevs
-alat
-hco
-avirks
-,asäL
-34rössam
-daremolpiD
-nicidemsab
-moni
-rednu kcolbokcev
-6 i taledppu
-rå
-81
-tsnim
-arav
-tmas
-)imotana(
-kitkarp
-h 06
-ac + nimret ne
--eisanmyg
-ah
-hco
-lammag
-ednaravstom
-.le
-snetepmok
-009
-75
-gnindlibtu
-ssiV
-,rammitsgninsivrednu
-055
-aksnevs
-alat
-hco
-avirks
-,asäL
--egassam
-ksnicideM
--sledemeiduts
-etnI
-nicidemsab
-moni
--röf kcolbokcev
-41 i taledppu
-rå
-81
-tsnim
-arav
-tmas
-hco
-tueparet
-dagittäreb
--oisyf
-,imotana(
-h 021
-\+ renimret
-2 åp taled
--eisanmyg
-ah
-hco
-lammag
-44rössam
-dareifitrec
--kujs
-tmas
-igol
-reidutsvläjs
-\+ kitkarp
-ednaravstom
-.le
-snetepmok
-hco
--smod
-)aräledaks
-sruk
-tarapes
-\+
-057
-84
-tarapes
-svärK
--rednU
-.ditled
-snatsid ,rå 5,1
-vitargetnI
-tetutitsnI
-aksnevS
-nicidemsab
-i
--sab
-i sruk
-revö
-daledröf
-rä negninsiv
-54tueparetnoz
-vitargetnI
-röf
-tta
-röf
-nicidem
-\+
-)h 952(
-raffärtgleh 41
-iparetnoZ
-es
-,sareifitrec
-ttastrof
-dem
-kitkarp nåm
-2
-gninttafmo
-reidutsvläjs
-\+ gnindeldnah
-sruk
-tarapes
-\+ )h 582 ac(
-ednaravstom
-nicidemsab
-i
-gnireifitrec
-röf ph 03
-001
-06
-ragad
-25 gninsivrednu
-,rå
-1
-aloksdnurG
-daremolpiD
-aksnevS
-kcolb
-31 i
-taledppu
-)h 773(
-64goloisenik
-nalokS
-igoloiseniK
--dnaheb
-05
-\+ ragad 4 mo ragnil
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Svenska
+
+Certifierad
+
+Inga
+
+18 mån, deltid (totalt 750 h), Viss utbildning 65 100 exklusive moms
+
+Kroppsterapeuternas
+
+Hälsoteamet
+
+yogalärare41
+
+62,5 dagar undervisning
+
+inom basmedicin
+
+Yrkesförbund
+
+uppdelat på 15 block +
+
+(fysiologi, sjuk-
+
+självstudier ca 200 h +
+
+domslära och
+
+50 h assisterad träning
+
+skadelära)
+
+Diplomerad
+
+Läsa, skriva och tala svenska 130 undervisningstimmar + Viss utbildning 18 800
+
+friskvårdsmassör42 samt vara minst 18 år
+
+ca 35 h praktik
+
+inom basmedicin
+
+gammal och ha gymnasie-
+
+(anatomi och
+
+kompetens el. motsvarande
+
+fysiologi)
+
+Diplomerad massör43 Läsa, skriva och tala svenska 240 undervisningstimmar,
+
+Viss utbildning 29 500
+
+samt vara minst 18 år
+
+uppdelat i 6 veckoblock under inom basmedicin
+
+gammal och ha gymnasie-
+
+en termin + ca 60 h praktik (anatomi)
+
+kompetens el. motsvarande
+
+Medicinsk massage- Läsa, skriva och tala svenska 550 undervisningstimmar,
+
+Viss utbildning 57 900
+
+terapeut och
+
+samt vara minst 18 år
+
+uppdelat i 14 veckoblock för- inom basmedicin Inte studiemedels-
+
+certifierad massör44 gammal och ha gymnasie-
+
+delat på 2 terminer + 120 h (anatomi, fysio- berättigad
+
+kompetens el. motsvarande praktik + självstudier
+
+logi samt sjuk-
+
+doms- och
+
+skadelära)
+
+Svenska Institutet Integrativ
+
+1,5 år, distans deltid. Under- Krävs separat 48 750 + separat kurs
+
+för Integrativ
+
+zonterapeut45
+
+visningen är fördelad över
+
+kurs i bas-
+
+i basmedicin
+
+Zonterapi
+
+14 helgträffar (259 h) +
+
+medicin för att
+
+2 mån praktik med fortsatt certifieras, se
+
+handledning + självstudier omfattning
+
+(ca 285 h) + separat kurs
+
+i basmedicin motsvarande
+
+30 hp för certifiering
+
+Svenska
+
+Diplomerad
+
+Grundskola
+
+1 år, undervisning 52 dagar
+
+60 100
+
+Kinesiologi Skolan kinesiolog46
+
+(377 h) uppdelat i 13 block
+
+om 4 dagar + 50 behand-
+
+lingar
+
 11
 
 <!-- sida 667 -->
@@ -32717,2162 +29702,1647 @@ igoloiseniK
 SOU 2019:15                                   Bilaga 5
 
 555
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-i
-gnindlibtu
-ssiV
-gninsivrednu
-,ditled
-,rå 2
--okysp
-daresneciL
-.stroF
-.stroF
-nicidemsab
-kcolb 22
-i taledppu
-ragad
-88
--olpid
-hco
-rotkarp
-aksnevS
-sanretueparetspporK
-hco
-imotana(
-reidutsvläjs
-\+
-ragad
-4 mo
-,goloisenik
-darem
-nalokS
-igoloiseniK
-dnubröfsekrY
-)igoloisyf
-hco
-goloiseniksserts 74tueparetigrene
-gninsivrednu
-,ditled
-,rå 2
-rotkarpuka
-daresneciL
-aksnevS
-kcolb 12
-i taledppu
-ragad
-48
-daremolpid
-hco
-nalokS
-igoloiseniK
--dnaheb
-05
-\+
-ragad
-4 mo
-84goloisenik
-hco
-ragnil
-naloksrotkarpukA
-000
-98
-i
-gnindlibtu
-ssiV
-ragad
-84
-gninsivrednu
-,rå 1
-daresneciL
-aksnevS
-nicidemsab
-kcolb
-21
-i taledppu
-)h
-043(
-hco
-rotkarpoisyf
-nalokS
-igoloiseniK
-)imotana(
--eb
-h 002
-\+
-ragad
-4 mo
-daremolpid
-rotkarpoisyF
-hco
-reidutsvläjs
-\+
-ragnildnah
-94goloisenik
-nimedakA
-irfstfigvA
-gnindlibtu
-ssiV
-gninsivrednu
-,ditleh
-v 71
--kcärlliT
-.lammag
-rå 81
-tsniM
-daremolpiD
-aloksgöhklof
-anräT
-dagittärebsledemeidutS
-nicidemsab
-moni
--dnah
-\+
-nakcev
-i ragad
-3–2
-.aksnevs
-i repaksnuk
-agil
-hco tueparetegassam
-nysllit
-giltats
-negnI
-rågnI
-.)imotana(
--vläjs
-\+ h
-03
-kitkarp
-ddel
-datkirniosläh
-girå-1
-datulsvA
-05rössam
-dareifitrec
-nicidemsab
-nevä
-reiduts
-aloksgöhklof
-åp
-gnindlibtu
-anrepaksnukröf
-i
--egassam
-ednaggäldnurg
-dem
-ednaravstom
-.le
-gnindlibtu
-ednaggäldnurg
-ne
-rågni
--moneG
-.gnindlibtuegassam
--spporkleh
-ts 03
-tsnim
-tröf
-ragnildnahebegassam
-irfstfigvA
-h 001
-tsniM
-.ditvlah
-,snatsid
-,renimret
-2
--eisanmyg
-hco
-anaveidutS
--egassam
-dareifitreC
-aloksgöhklof
-asÅ
-dagittärebsledemeidutS
-nicidemdnurg
-naloks
-åp
-gninsivrednU
-ednaravstom
-.le
-snetepmok
-15tueparet
-nysllit
-giltats
-negnI
-hco
-imotana(
-kcolb 31
-i taledppu
-ragad
-03
-)igoloisyf
-kitkarp
-\+
-reidutsvläjs
-\+
-irfstfigvA
-gnindlibtu
-ssiV
-ditleh
-,renimret
-2
--tom .le
-muisanmyg
-tgiråerT
-gogadepsdråvksirF
--göhklof
-srofledÄ
-dagittärebsledemeidutS
-nicidemsab
-moni
-ednaravs
-dareifitrec
-evisulkni(
-aloks
-nysllit
-giltats
-negnI
-hco
-imotana(
-hco rössamsdråvksirf
-)igoloisyf
-25)eranärt
-gilnosrep
-21
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Forts.
+
+Licenserad psyko-
+
+2 år, deltid, undervisning
+
+Viss utbildning i
+
+Kroppsterapeuternas
+
+Svenska
+
+praktor och diplo-
+
+88 dagar uppdelat i 22 block basmedicin
+
+Yrkesförbund
+
+Kinesiologi Skolan merad kinesiolog,
+
+om 4 dagar + självstudier
+
+(anatomi och
+
+stresskinesiolog och
+
+fysiologi)
+
+energiterapeut47
+
+Svenska
+
+Licenserad akupraktor
+
+2 år, deltid, undervisning
+
+Kinesiologi Skolan och diplomerad
+
+84 dagar uppdelat i 21 block
+
+och
+
+kinesiolog48
+
+om 4 dagar + 50 behand-
+
+Akupraktorskolan
+
+lingar
+
+Svenska
+
+Licenserad
+
+1 år, undervisning 48 dagar Viss utbildning i 89 000
+
+Kinesiologi Skolan fysiopraktor och
+
+(340 h) uppdelat i 12 block basmedicin
+
+och Fysiopraktor diplomerad
+
+om 4 dagar + 200 h be-
+
+(anatomi)
+
+Akademin
+
+kinesiolog49
+
+handlingar + självstudier
+
+Tärna folkhögskola Diplomerad
+
+Minst 18 år gammal. Tillräck- 17 v heltid, undervisning
+
+Viss utbildning Avgiftsfri
+
+massageterapeut och liga kunskaper i svenska.
+
+2–3 dagar i veckan + hand- inom basmedicin Studiemedelsberättigad
+
+certifierad massör50 Avslutad 1-årig hälsoinriktad ledd praktik 30 h + själv-
+
+(anatomi). Ingår Ingen statlig tillsyn
+
+utbildning på folkhögskola
+
+studier
+
+även basmedicin
+
+med grundläggande massage-
+
+i förkunskaperna
+
+utbildning el. motsvarande
+
+ingår en grundläggande
+
+massageutbildning. Genom-
+
+fört minst 30 st helkropps-
+
+massagebehandlingar
+
+Åsa folkhögskola Certifierad massage- Studievana och gymnasie-
+
+2 terminer, distans, halvtid. Minst 100 h
+
+Avgiftsfri
+
+terapeut51
+
+kompetens el. motsvarande Undervisning på skolan
+
+grundmedicin
+
+Studiemedelsberättigad
+
+30 dagar uppdelat i 13 block (anatomi och
+
+Ingen statlig tillsyn
+
+\+ självstudier + praktik
+
+fysiologi)
+
+Ädelfors folkhög- Friskvårdspedagog Treårigt gymnasium el. mot- 2 terminer, heltid
+
+Viss utbildning Avgiftsfri
+
+skola
+
+(inklusive certifierad svarande
+
+inom basmedicin Studiemedelsberättigad
+
+friskvårdsmassör och
+
+(anatomi och
+
+Ingen statlig tillsyn
+
+personlig tränare)52
+
+fysiologi)
+
+12
 
 <!-- sida 668 -->
 
 Bilaga 5                                   SOU 2019:15
 
 556
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
--rednu
-h 009
-tgyrd ,rå
-4
-,iparetokysp
-gnindlibtudnurG
--okysp
-daremolpiD
--setnysokysP
-negnineröfsetnysokysP
-raffärt
-aksisyf
-,gninsiv
--mo
-nevigna
-i
-daredulkni
-rä
-35tueparetsetnys
-nimedakA
-.nåm
-rep ragad
-3–2
-ac
-sragad-5
-ne
-tmas
-,gninttaf
-tsnim(
-kitkarp
-evisulkni
-.setnysokysp
-i
-srukdnurg
-\+ reidutsvläjs
-\+ )h 002
-h 521
-iparetnege
--nege
-\+
-000
-082
-akriC
-:3–1 rå
-gninsivrednU
-.rå
-5
-,iparetokysp
-i
-gnindlibtudnurG
--okysp
-daremolpiD
--setnysokysP
-iparet
-rå
-rep ragad
-3 mo
-kcolb 8–6
--mo
-nevigna
-i
-daredulkni
-rä
-45tueparetsetnys
-tetutitsnI
-.rå rep
-akcevtanretni
-ne
-\+
-sragad-6
-ne
-tmas
-,gninttaf
-rednu
-ditsgninsivrednU
-.setnysokysp
-i
-srukdnurg
-.etni
-segna 4
-rå
-lammag
-rå
-52
-tsniM
-tsnim(
-kitkarp
-:5 rå rednU
-.etebramolpid
-\+ )h 002
-h 57
-iparetnegE
-smom
-evisulkxe
-000
-42
--rednu
-,ditled
-,rå 1 akriC
-tsnim
-dem
-gnindlibtutuepareT
-RMK
-daresirotkuA
-strA
-evisserpxE
-edaresirotkuA
-retsigeR
--nege
-\+
-gnindeldnah
-\+
-ragad
-4–2
-mo kcolb
-i gninsiv
-i snetepmok
-ednaggäldnurg
-)roserkisum
-atrok(
-egirevS
-i
-srollesnuoC
-iparet
-kitkarp
-\+ )ragad
-61 tlatot(
-ednaravstom
-.le
-iparetokysp
-55tueparet
-reidutsvläjs
-\+ gnindeldnah
-\+
-renoisses
-4 iparetnege
-\+
-rå
-2
-tueparet
-RMK
-daresirotkuA
-wolleF(
-tueparet
-MIG
-dna
-yregamI
-dediuG
-fo
-65)cisuM
-gninvirkseb
-eS
--setnysokysP
--setnysokysP
-rednu
-nimedakA
-negnineröf
-gninvirkseb
-eS
--setnysokysP
--setnysokysP
-rednu
-tetutitsnI
-negnineröf
-31
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Psykosyntesföreningen Psykosyntes-
+
+Diplomerad psyko-
+
+Grundutbildning psykoterapi, 4 år, drygt 900 h under-
+
+Akademin
+
+syntesterapeut53
+
+är inkluderad i angiven om- visning, fysiska träffar
+
+fattning, samt en 5-dagars ca 2–3 dagar per mån.
+
+grundkurs i psykosyntes.
+
+inklusive praktik (minst
+
+200 h) + självstudier +
+
+egenterapi 125 h
+
+Psykosyntes-
+
+Diplomerad psyko-
+
+Grundutbildning i psykoterapi, 5 år. Undervisning år 1–3:
+
+Cirka 280 000 + egen-
+
+Institutet
+
+syntesterapeut54
+
+är inkluderad i angiven om- 6–8 block om 3 dagar per år
+
+terapi
+
+fattning, samt en 6-dagars + en internatvecka per år.
+
+grundkurs i psykosyntes.
+
+Undervisningstid under
+
+Minst 25 år gammal
+
+år 4 anges inte.
+
+Under år 5: praktik (minst
+
+200 h) + diplomarbete.
+
+Egenterapi 75 h
+
+Register Auktoriserade Expressive Arts
+
+Auktoriserad KMR
+
+Terapeututbildning med minst Cirka 1 år, deltid, under-
+
+24 000 exklusive moms
+
+Counsellors i Sverige
+
+(korta musikresor)
+
+grundläggande kompetens i visning i block om 2–4 dagar
+
+\+ handledning + egen-
+
+terapeut55
+
+psykoterapi el. motsvarande (totalt 16 dagar) + praktik
+
+terapi
+
+\+ handledning + självstudier
+
+\+ egenterapi 4 sessioner
+
+GIM terapeut (Fellow Auktoriserad KMR terapeut
+
+2 år
+
+of Guided Imagery and
+
+Music)56
+
+Psykosyntes-
+
+Se beskrivning
+
+Akademin
+
+under Psykosyntes-
+
+föreningen
+
+Psykosyntes-
+
+Se beskrivning
+
+Institutet
+
+under Psykosyntes-
+
+föreningen
+
+13
 
 <!-- sida 669 -->
 
 SOU 2019:15                                   Bilaga 5
 
 557
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
--eb
-004
-03–003
-62
-tarapes svärK
-,reidutssditled srå 1 akriC
-agnI
-llit
-gnindlibtudnurG
-röf
-nimedakA
-tednubröF
-aksivanidnakS
-\+
-troeiduts
-åp
-edneor
--ttafmo es ,sruk
-gninsivrednu sragad 61 tlatot
-75tueparetnewob
-iparetnewoB
-nicidemrätnemelpmoK
--sab
-i sruk
-tarapes
-gnin
--ad 3–2 mo kcolb åp taledröf
-nedroN
-i
-nicidem
-ragnildnahebkitkarp 96 + rag hco imotana i sruk tarapes + h addelraräl 08 tsnim igoloisyf
-sruk
-tarapes
-\+
-000
-13
-tarapes svärK
--led 01 åp taledppu ,ragad 52
--amora
-dareifitreC
-amorA
-gnizamA
-nicidemsab
-i
--sab i sruk
-\+ ragnildnaheb 02 + resruk
-85tueparet
-es ,nicidem
-sruk tarapes + reidutsvläjs
-gninttafmo
-ednaravstom nicidemsab i temmargorpsdandråvmo
-smom
-evisulkxe
-005
-91
-gnindlibtu ssiV
-rep gninsivrednu h 8–6( .v 4
-/rössam
-daremolpiD
-nenomenA
-nicidemsab moni
-reidutsvläjs h 02–01 + akcev
-95tueparetegassam
-loohcS
-APS
-hco imotana(
-kitkarp h 021 + )akcev rep
-)igoloisyf tarapes svärK
-ac tlatot ,resrukled 01
--osläh
-ksidevruyA
-naloksadevruyA
--sab i sruk
-\+ gninsivrednu sragad 22
-06eradelgäv
-htlaeH
-namuH
-nicidem
-nicidemsab i sruk tarapes
-tarapes svärK
-resruk 01 i taledppu ragad 22
--osläh
-ksidevruyA
-naloksadevruyA
--sab i sruk
-redotemsgnildnaheb 3 +
-16eravigdår
-grebraV
-i
-nicidem
-\+ )dotem rep ragad 3–1( nicidemsab i sruk tarapes
-hco imotanA
-ednaravstom ,sruksnatsiD
-snetepmokeisanmyG
-MNC
-daremolpiD
-egassam-MNC
-h 062 igoloisyf
-rep ragadkitkarp 2 ,ph 03
-26)egassam(
-tueparet
-hco
--snoitalukric(
--agilbo rä mos
-.nåm 6
-)egassamenabvren
--räD .aksirot airflav revötu resruk
-smom
-evisulkxe
-000
-13
-gnindlibtu ssiV
-åp gninsivrednu ,snatsid ,rå 1
-gnindlibtueisanmyG
-36tueparetegassaM
-silicoD
-nicidemsab moni
-.nåm i .v 1 ac naloks
--oisyf ,imotana( -kujs hco igol )arälsmod
-41
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Skandinaviska Förbundet Akademin för
+
+Grundutbildning till Inga
+
+Cirka 1 års deltidsstudier,
+
+Krävs separat 26 300–30 400 be-
+
+Komplementärmedicin Bowenterapi
+
+bowenterapeut57
+
+totalt 16 dagars undervisning kurs, se omfatt- roende på studieort +
+
+i Norden
+
+fördelat på block om 2–3 da- ning
+
+separat kurs i bas-
+
+gar + 69 praktikbehandlingar
+
+medicin
+
+\+ separat kurs i anatomi och
+
+fysiologi minst 80 lärarledda h
+
+Amazing Aroma
+
+Certifierad aroma-
+
+25 dagar, uppdelat på 10 del- Krävs separat 31 000 + separat kurs
+
+terapeut58
+
+kurser + 20 behandlingar + kurs i bas-
+
+i basmedicin
+
+självstudier + separat kurs medicin, se
+
+i basmedicin motsvarande
+
+omfattning
+
+omvårdnadsprogrammet
+
+Anemonen
+
+Diplomerad massör/
+
+4 v. (6–8 h undervisning per Viss utbildning 19 500 exklusive moms
+
+SPA School
+
+massageterapeut59
+
+vecka + 10–20 h självstudier inom basmedicin
+
+per vecka) + 120 h praktik
+
+(anatomi och
+
+fysiologi)
+
+Ayurvedaskolan
+
+Ayurvedisk hälso-
+
+10 delkurser, totalt ca
+
+Krävs separat
+
+Human Health
+
+vägledare60
+
+22 dagars undervisning +
+
+kurs i bas-
+
+separat kurs i basmedicin
+
+medicin
+
+Ayurvedaskolan
+
+Ayurvedisk hälso-
+
+22 dagar uppdelat i 10 kurser Krävs separat
+
+i Varberg
+
+rådgivare61
+
+\+ 3 behandlingsmetoder
+
+kurs i bas-
+
+(1–3 dagar per metod) +
+
+medicin
+
+separat kurs i basmedicin
+
+CNM-massage
+
+Diplomerad CNM
+
+Gymnasiekompetens
+
+Distanskurs, motsvarande
+
+Anatomi och
+
+(cirkulations- och terapeut (massage)62
+
+30 hp, 2 praktikdagar per
+
+fysiologi 260 h
+
+nervbanemassage)
+
+6 mån.
+
+som är obliga-
+
+toriska. Där-
+
+utöver valfria
+
+kurser
+
+Docilis
+
+Massageterapeut63 Gymnasieutbildning
+
+1 år, distans, undervisning på Viss utbildning 31 000 exklusive moms
+
+skolan ca 1 v. i mån.
+
+inom basmedicin
+
+(anatomi, fysio-
+
+logi och sjuk-
+
+domslära)
+
+14
 
 <!-- sida 670 -->
 
 Bilaga 5                                   SOU 2019:15
 
 558
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS 008
-22
-gninsivrednu h 061 ,rå
-1
-adog
-,lammag
-rå
-81
-hco
-gnilaeH
-ragnindlibtu
-sirI
-.stroF
-ragad 3 mo kcolb 6 i taledppu
-aksnevs
-i
-repaksnuk
-46tueparetsgnindna
-tednubröF
-aksivanidnakS
-reidutsvläjs h 001 tsnim
-\+
-nicidemrätnemelpmoK
-kitkarp evisulkni
-sruk
-tarapes
-\+
-007
-92
-tarapes
-svärK
-h 002 ac + gninsivrednu h 003
-56rösserpukA
-nalokS
-ipareT-aniK
-snaloks(
-nicidemsab
-i
--sab
-i sruk
--russerpuka 57 + reidutsvläjs
-)008
-5 ratsok
-sruk
-ange
-es
-,nicidem
-sruk tarapes + ragnildnaheb
-gninttafmo
-ange snaloks( nicidemsab
-i
-gnindlibtusnatsid ne rä sruk )muiranimessragadne 5 dem
-sruk
-tarapes
-\+
-000
-57
-tarapes
-svärK
--röf gninsivrednu h 006 ,rå
-3
-llenoitidart(
-MKT
-snaloks(
-nicidemsab
-i
--sab
-i sruk
-ac + reiranimes 03 åp taled
-)nicidem
-ksisenik
-)008
-5 ratsok
-sruk
-ange
-es
-,nicidem
-tarapes + reidutsvläjs h 004
-66rötknupuka-
-gninttafmo
-ange snaloks( nicidemsab i sruk gnindlibtusnatsid ne rä sruk )muiranimessragadne 5 dem
-gnindlibtu
-ssiV
-ednaravstom ,snatsid ,rå
-3
-76tueparetgnilaeH
-naloksairaM
-nicidemsab
-moni
-naloks åp gninsivrednu ,ditvlah
--ana
-sivlepmexe(
--retni .v 3 + .nåm rep ragad
-3
-igoloisyf
-,imot
-hco rammitsruk 008 ,tan
-)arälsmodkujs
-hco
-reidutsvläjs + kitkarp h 001
-005
-23
-gnindlibtu
-ssiV
--ppu gninsivrednu sragad
-72
-agnI
-86tueparetegassaM
-gnilkcevtU
-TM
-nicidemsab
-moni
-\+ ragad 3 mo kcolb 9 i taled
-dråvksirF
-hco
--oisyf
-,imotana(
-kitkarp h 021 tsnim
--kujs
-hco
-igol
-)arälsmod
-)gnindeldnah
-+(
-009
-9
-aC
-hco
-imotanA
--dlibtuenilno h 075 ,snatsiD
-agnI
--egassam
-daremolpiD
-segirevS
--dnah
-evisulkni(
-009
-71
-h
-523
-ac
-igoloisyf
-h 03–02 gnindeldnah + gnin
-hco
-tueparet
-retnecsgnindlibtU
-)gnindel
--visnetni sragad 6 tvitanretla
-96rössam
-dareifitrec
-ragnildnahebvele 001 + sruk
-000
-94
-gnindlibtu
-ssiV
-edaledppu gninsivrednu h 002
-07rötkurtsniagoY
-amayagoY
-nicidemsab
-moni
-rednu .nåm rep kcolb tte ac
-i
-)imotana(
-reidutsvläjs + .nåm 7
-ac
-51
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Iris utbildningar Healing och
+
+18 år gammal, goda
+
+1 år, 160 h undervisning
+
+22 800
+
+Skandinaviska Förbundet
+
+andningsterapeut64 kunskaper i svenska
+
+uppdelat i 6 block om 3 dagar
+
+Komplementärmedicin
+
+\+ minst 100 h självstudier
+
+inklusive praktik
+
+Kina-Terapi Skolan Akupressör65
+
+300 h undervisning + ca 200 h Krävs separat 29 700 + separat kurs
+
+självstudier + 75 akupressur- kurs i bas-
+
+i basmedicin (skolans
+
+behandlingar + separat kurs medicin, se
+
+egna kurs kostar 5 800)
+
+i basmedicin (skolans egna omfattning
+
+kurs är en distansutbildning
+
+med 5 endagarsseminarium)
+
+TKM (traditionell
+
+3 år, 600 h undervisning för- Krävs separat 75 000 + separat kurs
+
+kinesisk medicin)
+
+delat på 30 seminarier + ca kurs i bas-
+
+i basmedicin (skolans
+
+-akupunktör66
+
+400 h självstudier + separat medicin, se
+
+egna kurs kostar 5 800)
+
+kurs i basmedicin (skolans egna omfattning
+
+kurs är en distansutbildning
+
+med 5 endagarsseminarium)
+
+Mariaskolan
+
+Healingterapeut67
+
+3 år, distans, motsvarande Viss utbildning
+
+halvtid, undervisning på skolan inom basmedicin
+
+3 dagar per mån. + 3 v. inter- (exempelvis ana-
+
+nat, 800 kurstimmar och
+
+tomi, fysiologi
+
+100 h praktik + självstudier och sjukdomslära)
+
+MT Utveckling
+
+Massageterapeut68 Inga
+
+27 dagars undervisning upp- Viss utbildning 32 500
+
+och Friskvård
+
+delat i 9 block om 3 dagar + inom basmedicin
+
+minst 120 h praktik
+
+(anatomi, fysio-
+
+logi och sjuk-
+
+domslära)
+
+Sveriges
+
+Diplomerad massage- Inga
+
+Distans, 570 h onlineutbild- Anatomi och
+
+Ca 9 900 (+ handledning)
+
+Utbildningscenter terapeut och
+
+ning + handledning 20–30 h fysiologi ca 325 h 17 900 (inklusive hand-
+
+certifierad massör69
+
+alternativt 6 dagars intensiv-
+
+ledning)
+
+kurs + 100 elevbehandlingar
+
+Yogayama
+
+Yogainstruktör70
+
+200 h undervisning uppdelade Viss utbildning 49 000
+
+i ca ett block per mån. under inom basmedicin
+
+ca 7 mån. + självstudier
+
+(anatomi)
+
+15
 
 <!-- sida 671 -->
 
 SOU 2019:15                                   Bilaga 5
 
 559
-ronork
-i sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-sruk
-tarapes
-\+
-000
-621
-tarapes
-revärK
-raffärt aksisyf ragad
-63 ,rå 3
-gnindlibtudnurG
-kramerhA
--rutknupukA
-aksnevS
-nicidemsab
-i
--sab
-i
-sruk
-\+ nelläfllit 81 åp
-taledröf
-17rutknupuka
-i
-rutknupukA
-llenoitidarT
-–
-tednubröf
-es
-,nicidem
-sruk tarapes + reidutsvläjs
-nicideM
-ksiseniK
-gninttafmo
-ednaravstom nicidemsab
-i ph 06
-\+
-kitkarp
-\+
-000
-57
-tarapes
-revärK
-,ditvlah ednaravstom
-,rå 3
-gnindlibtudnurG
--rutknupukA
--sab
-i sruk
-tarapes
--sab
-i
-sruk
-)ragad 06( h 065
-,snatsid
-27rutknupuka
-i
-nimedaka
-nicidem
-es
-,nicidem
--röf naloks åp gninsivrednu
-gninttafmo
-\+ .nåm i ragad 2
-åp taled
-kitkarp h 051 + reidutsvläjs nicidemsab i sruk tarapes
-\+
-ph 06 ednaravstom
-sruk
-tarapes
-\+
-005
-28
-tarapes
-revärK
--oitidart sab rå 2 varav(
-rå 3
-srå
-5
-.le
-snetepmokeisanmyG
-ksisenik
-llenoitidarT
-naloks
-eD
-ihS
-naiJ
-nicidemsab
-i
--sab
-i
-sruk
-rå 1 hco nicidem ksisenik
-llen
-akslegnE
-.tehnerafresvilsekry
-ksnicidem
-es
-,nicidem
--rednu ,snatsid ,)rutknupuka
-åvineisanmyg
-ednaravstom
-37rötknupuka
-gninttafmo
-ragad 3–2 naloks åp
-gninsiv
-\+ reidutsvläjs +
-.nåm rep
-nicidemsab i sruk
-tarapes
-ph 06 ednaravstom
-tarapes
-revärK
-i gnindlibtudnurg ,rå
-4 akriC
-47eranicidemtrÖ
--sab
-i
-sruk
-nicidem ksisenik llenoitidart
-es
-,nicidem
-dem rå 2 rä sruk ange
-sared(
-gninttafmo
-rep ragad 3–2 raffärt
-aksisyf
--trö ksisenik rå 2
-\+ ).nåm
-tarapes + )h 004(
-nicidem
--avstom nicidemsab
-i sruk
-ph
-06 ednar
-rednu
-gninvirkseb
-eS
-nimedakA
-gnijieN
--rätnemelpmoK
-aksnicidem
-tednubröfskiR
-61
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Svenska Akupunktur-
+
+Ahremark
+
+Grundutbildning
+
+3 år, 36 dagar fysiska träffar Kräver separat 126 000 + separat kurs
+
+förbundet – Traditionell Akupunktur
+
+i akupunktur71
+
+fördelat på 18 tillfällen +
+
+kurs i bas-
+
+i basmedicin
+
+Kinesisk Medicin
+
+självstudier + separat kurs medicin, se
+
+i basmedicin motsvarande
+
+omfattning
+
+60 hp
+
+Akupunktur-
+
+Grundutbildning
+
+3 år, motsvarande halvtid,
+
+Kräver separat 75 000 + praktik +
+
+akademin
+
+i akupunktur72
+
+distans, 560 h (60 dagar)
+
+kurs i bas-
+
+separat kurs i bas-
+
+undervisning på skolan för- medicin, se
+
+medicin
+
+delat på 2 dagar i mån. +
+
+omfattning
+
+självstudier + 150 h praktik
+
+\+ separat kurs i basmedicin
+
+motsvarande 60 hp
+
+Jian Shi De skolan Traditionell kinesisk Gymnasiekompetens el. 5 års 3 år (varav 2 år bas traditio- Kräver separat 82 500 + separat kurs
+
+medicinsk
+
+yrkeslivserfarenhet. Engelska nell kinesisk medicin och 1 år kurs i bas-
+
+i basmedicin
+
+akupunktör73
+
+motsvarande gymnasienivå akupunktur), distans, under- medicin, se
+
+visning på skolan 2–3 dagar omfattning
+
+per mån. + självstudier +
+
+separat kurs i basmedicin
+
+motsvarande 60 hp
+
+Örtmedicinare74
+
+Cirka 4 år, grundutbildning i Kräver separat
+
+traditionell kinesisk medicin kurs i bas-
+
+(deras egna kurs är 2 år med medicin, se
+
+fysiska träffar 2–3 dagar per omfattning
+
+mån.) + 2 år kinesisk ört-
+
+medicin (400 h) + separat
+
+kurs i basmedicin motsva-
+
+rande 60 hp
+
+Neijing Akademin Se beskrivning under
+
+Komplementär-
+
+medicinska
+
+Riksförbundet
+
+16
 
 <!-- sida 672 -->
 
 Bilaga 5                                   SOU 2019:15
 
 560
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-ragad
-06
-gninsivrednu
-,rå
-3
-agnI
-gnindlibtudnurG
-röf
-naloks
-ardöS
-.stroF
-rå
-rep
-regleh
-01 åp taledröf
-hco rutknupuka
-i
-nicidem
-ksisenik
--rutknupukA
-aksnevS
-ksisenik
-llenoitidart
-llenoitidarT
-–
-tednubröf
-57nicidem
-nicideM
-ksiseniK
-005
-26
-ac gninsivrednu
-,rå 5,2
-akriC
-i
-gnindlibtu
-dem
-rötknupukA
-gnindlibtudnurG
-regleh
-01
-åp
-taledröf
-ragad
-05
-nicidem
-ksisenik
-llenoitidart
-ksisenik
-llenoitidart
-i
-åp
-kitkarp
-.nåm
-1 +
-rå rep
-67nicidemtrö
-gnijieB
-i suhkujs
-rednu
-gninvirkseb
-eS
-snosslexA
-hco
--noztoF
-aksnevS
--rätnemelpmoK
-aksitsanmyG
-tednubröfigoloxelfeR
-aksnicidem
-tutitsnI
-tednubröfskiR
-rednu
-gninvirkseb
-eS
-noriaK
-sanretueparetspporK
-aloksigoloxelfeR
-dnubröfsekrY
-000
-04
-gnindlibtu
-ssiV
-taledppu
-,h
-052
-gninsivrednU
-ednaravstom
-nicidemsaB
-daremolpiD
-naloks
-oBiQ
-nicidemsab
-moni
-rednu
-ragad
-2 mo kcolb
-åp
-.aksretöksrednu
-77tueparetnoZ
--kujs
-,imotana(
-.nåm
-01
-hco
-arälsmod
-es ,)igolokamraf åp
-vark
-nevä
-repaksnukröf gnindlibtu
-ssiV
-daledppu
-gninsivrednU
-.rå
-3
-ksiseniK
-llenoitidarT
-nicidemsab
-moni
-\+
-ragad
-2
-mo kcolb
-82
-i
-87nicideM
-neinapS
-i ragad
-3
-rednu
-gninvirkseb
-eS
-greblleH
-maeT
--rätnemelpmoK
-iparetnoZ
-aksnicidem tednubröfskiR
-71
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Södra skolan för Grundutbildning
+
+Inga
+
+3 år, undervisning 60 dagar
+
+Svenska Akupunktur-
+
+kinesisk medicin i akupunktur och
+
+fördelat på 10 helger per år
+
+förbundet – Traditionell
+
+traditionell kinesisk
+
+Kinesisk Medicin
+
+medicin75
+
+Grundutbildning
+
+Akupunktör med utbildning i Cirka 2,5 år, undervisning ca
+
+62 500
+
+i traditionell kinesisk traditionell kinesisk medicin 50 dagar fördelat på 10 helger
+
+örtmedicin76
+
+per år + 1 mån. praktik på
+
+sjukhus i Beijing
+
+Svenska Fotzon- och
+
+Axelssons
+
+Se beskrivning under
+
+Reflexologiförbundet
+
+Gymnastiska
+
+Komplementär-
+
+Institut
+
+medicinska
+
+Riksförbundet
+
+Kairon
+
+Se beskrivning under
+
+Reflexologiskola Kroppsterapeuternas
+
+Yrkesförbund
+
+QiBo skolan
+
+Diplomerad
+
+Basmedicin motsvarande
+
+Undervisning 250 h, uppdelat Viss utbildning 40 000
+
+Zonterapeut77
+
+undersköterska.
+
+på block om 2 dagar under inom basmedicin
+
+10 mån.
+
+(anatomi, sjuk-
+
+domslära och
+
+farmakologi), se
+
+även krav på
+
+förkunskaper
+
+Traditionell Kinesisk
+
+3 år. Undervisning uppdelad Viss utbildning
+
+Medicin78
+
+i 28 block om 2 dagar +
+
+inom basmedicin
+
+3 dagar i Spanien
+
+Team Hellberg
+
+Se beskrivning under
+
+Zonterapi
+
+Komplementär-
+
+medicinska
+
+Riksförbundet
+
+17
 
 <!-- sida 673 -->
 
 SOU 2019:15                                   Bilaga 5
 
 561
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-tsok
-raredulkni(
-000
-021
-\+
-ragad
-3
-mo
-kcolb
-8
-,rå
-2
--iparetdlib
-ksnaignuJ
-iparetdliB
-röf
-éjletA
-tednubröfskiR
-aksnevS
--nammas
-div
-igol
-hco
-tta tehgiljöm
-snnif(
-,.v
-4
-97gnindlibtu
-retueparetdliB
-röf
-)retsmok
-rå
-1 eragilretty
-mo
-akösna
--sekry
-röf
-gnindeldnah
-dem
-)ammaskrev
-gninsivrednu
-h
-426
-,rå
-2
-röf gnindlibtusdanggybåP
-,iparetdliB
-iparetdliB
-åp
-taledröf
-)ragad
-07(
-,regolokysp
-,retueparetokysp
-08darecnava
-etraiN
-tetutitsnI
-reidutssnatsid
-\+
-kcolb
-81
-.cte
-remonoicos
-,rekirtaikysp
-h
-004
-ac
-tsnim
-hco
-tehnerafre
-ksinilK(
-tte rä
-iparetokysp
-i 1-gets ).vark
-raredulkni(
-000
-081
-åp
-gninsivrednu
-h
-069
-,rå
-3
-18dnurg
-,iparetdliB
-igol
-hco
-tsok
-,lairetam
-åp
-taledröf
-)ragad
-09(
-naloks
-)retsmoknammas
-div
-reidutssnatsid
-\+
-kcolb
-72
-h
-006
-ac
-irfstfigvA
-,ph
-06 ,snatsid
-ditvlah
-,rå
-2
-tsnim
-mo
-nemaxeeloksgöH
-temmargorpretsigaM
-tetisrevinu
-åemU
-dagittärebsledemeidutS
-naloks
-åp
-gninsivrednu
-tlaicos
-,dråv
-moni
-ph 081
-28iparetdlib
-i
-nysllit
-giltatS
-åp
-edaledröf
-ragad
-84
--mo
-nemaxeraräl
-relle
-etebra
--vläjs
-\+
-nelläfllitsruk
-81
-tmas
-ph
-081
-tsnim
-ednattaf
-reiduts
-.le nemaxegogadeplaiceps -laiceps
-i
-nemaxetadidnak
-.le/hco
-iparetdliB
-.kigogadep
-tsnim
-ednattafmo
-iparetokysp
-aksnevs
-hco
-akslegnE
-.h 03
-tehgiröheb
-ednaggäldnurg
-röf
-81
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Svenska Riksförbundet Ateljé för Bildterapi Jungiansk bildterapi-
+
+2 år, 8 block om 3 dagar +
+
+120 000 (inkluderar kost
+
+för Bildterapeuter
+
+utbildning79
+
+4 v., (finns möjlighet att
+
+och logi vid samman-
+
+ansöka om ytterligare 1 år
+
+komster)
+
+med handledning för yrkes-
+
+verksamma)
+
+Bildterapi
+
+Bildterapi,
+
+Påbyggnadsutbildning för
+
+2 år, 624 h undervisning
+
+Institutet Niarte avancerad80
+
+psykoterapeuter, psykologer, (70 dagar) fördelat på
+
+psykiatriker, socionomer etc. 18 block + distansstudier
+
+(Klinisk erfarenhet och minst ca 400 h
+
+steg-1 i psykoterapi är ett
+
+krav.)
+
+Bildterapi, grund81
+
+3 år, 960 h undervisning på
+
+180 000 (inkluderar
+
+skolan (90 dagar) fördelat på
+
+material, kost och logi
+
+27 block + distansstudier
+
+vid sammankomster)
+
+ca 600 h
+
+Umeå universitet Magisterprogrammet Högskoleexamen om minst
+
+2 år, halvtid distans, 60 hp,
+
+Avgiftsfri
+
+i bildterapi82
+
+180 hp inom vård, socialt
+
+undervisning på skolan
+
+Studiemedelsberättigad
+
+arbete eller lärarexamen om- 48 dagar fördelade på
+
+Statlig tillsyn
+
+fattande minst 180 hp samt 18 kurstillfällen + själv-
+
+specialpedagogexamen el.
+
+studier
+
+kandidatexamen i special-
+
+pedagogik. Bildterapi och/el.
+
+psykoterapi omfattande minst
+
+30 h. Engelska och svenska
+
+för grundläggande behörighet
+
+18
 
 <!-- sida 674 -->
 
 Bilaga 5                                   SOU 2019:15
 
 562
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-irfstfigvA
-,ph
-54
-,snatsid
-,ditvlah
-,rå
-5,1
-,gnindlibtu
-gilräntsnoK )I
-gnindlibtutsilaicepS
-.stroF
-.stroF
-dagittärebsledemeidutS
-\+
-raffärtsgninsivrednu
-41
-ph 06 .ednaravstom
-.le ph 021
-38iparetdlib
-i
-tetisrevinu
-åemU
-tednubröfskiR
-aksnevS
-nysllit
-giltatS
-reidutsvläjs
-h 05 .paksnetevedneeteb
-retueparetdliB
-röf
-soh iparetokysp
-lleudividni
-srå 3 .tueparetokysp
-.gel
-tksigogadep
-va tehnerafre
-.etebra
-tgilräntsnok
--sekrY / nemaxeeloksgöH
-)II
-,dråv moni
-ph 021 nemaxe
--laiceps
-.le etebra tlaicos
-lleudividni
-h 03 .kigogadep
--okysp .gel
-soh iparetokysp
-i tehnerafre
-srå 3 .tueparet
-.tekry ednavigstehgiröheb
-ted
-rekinket agilräntsnok
-i resruK
-ksitetse srå-1
-ednaravstom
-.aloksgöhklof
-div ejnil
-h 05 .nemaxeraräldliB
-)III
-soh iparetokysp
-lleudividni
-srå 3 .tueparetokysp
-.gel
--dlib mos
-tehnerafresekry
-röf aksnevs
-hco A gnE .eraräl
-tehgiröheb
-ednaggäldnurg
-000
-27
-akriC
-gnindlibtu
-ssiV
--vlah
-ednaravstom
-ditled
-,rå
-3
-datulsva ,lammag
-rå 42 tsniM
--tsnok
-ksifosoportnA
-röf
-negnineröF
-röf
-gnineröF
-ksnevS
--sledemeiduts
-etnI
-nicidemsab
-moni
-i taledppu
-gninsivrednu
-,dit
--eloksgöh .le
-gnindlibtusekry
-48gnindlibtuiparet
-ksifosoportnA
-nicideM
-ksifosoportnA
-dagittäreb
--oisyf
-,imotana(
-.v 2
-hco
-ragad
-3 mo
-kcolb
-61
-etebra va tehnerafre
-,nemaxe
-netunk
-iparettsnoK
-hco
-ipareT
-hco
--kujs
-hco
-igol
--atluksua
-.v
-2
-\+ rammos
-rep
--ennäk ah hco
-roksinnäm dem
-renietS
-floduR
-llit
--ortnA
-röf
-negnineröF
-)arälsmod
--eb
-03
-iparetnege
-\+ renoit
--retla ifosoportna
-mo mod
-naloksgöh
-iparettsnoK
-ksifosop
-\+ reidutsvläjs
-\+ ragnildnah
-tta va daressertni
-rä tvitan
-etebramolpid
-\+ .v 01
-kitkarp
-aksifosoportna
-i gis apujdröf
-asersgnintulsva
-\+ .v
-01
-ragnågeknat
-91
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Forts.
+
+Specialistutbildning I) Konstnärlig utbildning,
+
+1,5 år, halvtid, distans, 45 hp,
+
+Avgiftsfri
+
+Svenska Riksförbundet Umeå universitet i bildterapi83
+
+120 hp el. motsvarande. 60 hp 14 undervisningsträffar +
+
+Studiemedelsberättigad
+
+för Bildterapeuter
+
+beteendevetenskap. 50 h
+
+självstudier
+
+Statlig tillsyn
+
+individuell psykoterapi hos
+
+leg. psykoterapeut. 3 års
+
+erfarenhet av pedagogiskt
+
+konstnärligt arbete.
+
+II) Högskoleexamen / Yrkes-
+
+examen 120 hp inom vård,
+
+socialt arbete el. special-
+
+pedagogik. 30 h individuell
+
+psykoterapi hos leg. psyko-
+
+terapeut. 3 års erfarenhet i
+
+det behörighetsgivande yrket.
+
+Kurser i konstnärliga tekniker
+
+motsvarande 1-års estetisk
+
+linje vid folkhögskola.
+
+III) Bildlärarexamen. 50 h
+
+individuell psykoterapi hos
+
+leg. psykoterapeut. 3 års
+
+yrkeserfarenhet som bild-
+
+lärare. Eng A och svenska för
+
+grundläggande behörighet
+
+Svensk Förening för
+
+Föreningen för
+
+Antroposofisk konst- Minst 24 år gammal, avslutad 3 år, deltid motsvarande halv- Viss utbildning Cirka 72 000
+
+Antroposofisk Medicin Antroposofisk
+
+terapiutbildning84
+
+yrkesutbildning el. högskole- tid, undervisning uppdelat i inom basmedicin Inte studiemedels-
+
+och Terapi och
+
+Konstterapi knuten
+
+examen, erfarenhet av arbete 16 block om 3 dagar och 2 v. (anatomi, fysio- berättigad
+
+Föreningen för Antro-
+
+till Rudolf Steiner
+
+med människor och ha känne- per sommar + 2 v. auskulta- logi och sjuk-
+
+posofisk Konstterapi
+
+högskolan
+
+dom om antroposofi alter-
+
+tioner + egenterapi 30 be-
+
+domslära)
+
+nativt är intresserad av att handlingar + självstudier +
+
+fördjupa sig i antroposofiska praktik 10 v. + diplomarbete
+
+tankegångar
+
+10 v. + avslutningsresa
+
+19
 
 <!-- sida 675 -->
 
 SOU 2019:15                                   Bilaga 5
 
 563
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp
-varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-dagittärebsledemeidutS
-gnindlibtu
-ssiV
-ednaravstom
-ditled ,rå
-3
-röf
-molpid
-tnäkre
-tanna
-dnalB
--imtyrueekäL
-nesletfitS
-röf
-gnineröF
-ksnevS
-nicidemsab
-moni
--ppu
-gninsivrednU
-.ditvlah
-imtyrue
-i muidutsdnurg
-58gnindlibtu
--imtyrueekäL
-nicideM
-ksifosoportnA
--oisyf
-,imotana(
-.v
-02
-tlatot
-mo
-kcolb
-7 i taled
-dnu
-ednedeR
-rüf noitkeS(
-i negnindlibtu
--ekäL
-hco
-ipareT
-hco
--kujs
-hco
-igol
-.v 4 +
-renoitatluksua
-\+
-,hcanroD
-,etsnüK
-ednereizisuM
-llit
-netunk
-nedroN
-negnineröfimtyrue
-es
-,)arälsmod
-dem
-kitkarp
-.nåm
-6 + kitkarp
-mos
-tehnerafresekry
-,)ziewhcS
-renietS
-floduR
-egirevS
-i
-åp
-vark
-nevä
-\+
-ragnildnaheb
-003 tsnim
-alat/åtsröf
-,tsimtyrue
-naloksgöh
-repaksnukröf
-reidutsvläjs
-hco
-kårps
-tksidron/tksnevs
-tehnerafredråv
-008
-43
-,imotana
-h 021
-.h
-021
-kitkarp
-evisulkni
-,h 093
-.le
-muisanmyg
-tröfmoneG
-hco
-egassaM
-egassam
-tsivqgreB
-,egassaM
-ksnevS
-nysllit
-giltatS
--dnurg
-,igoloisyf
-kcolb
-i daledppu
-gninsivrednU
-gyteb
-tsgäL
-.ednaravstom
-68teuparetsdråvksirf
--sdråvksirF
-hco
-sanrerössaMsekrY
-hco
-nicidem
-rednu
-.nåm
-rep
-ragad
-5–3 mo
-hco
-A aksnevS
-i dnäkdoG
-ragnindlibtu
-tedårhcsnarB
-,dnubröf
-arälsmodkujs
-)ragad
-14(
-renimret
-2
-E gyteb
-tsgäl
-.le ,B aksnevS
-hco
-egassaM
-ksnevS
-nårf
-3 hco
-2 ,1 aksnevS
-i
-nenoitasinagrohcsnarB
-allenoitan
-snalokseisanmyg
-iparetegassaM
-ksnicideM
-ednaravstom
-.le margorp repaksnuk
-008
-44
-,imotana
-h 021
-.kitkarp
-h 021
-evisulkni
-,h 005
-.le
-muisanmyg
-tröfmoneG
-,tueparetegassaM
-nysllit
-giltatS
--dnurg
-,igoloisyf
--avstom
-åp
-sasäl
-nak nesruK
-gyteb
-tsgäL
-.ednaravstom
-dareifitrec/darecnava
-hco
-nicidem
--imret
-2 rednu
-trafvlah
-ednar
-hco
-A aksnevS
-i dnäkdoG
--pujdröf
-dem
-,rössam
-arälsmodkujs
-nannarav
-kcolb
-sragad-5(
-ren
-E gyteb
-tsgäl
-.le ,B aksnevS
--sttordi
-moni
-gnin
--avstom
-.le
-))ragad
-55( akcev
-nårf
-3 hco
-2 ,1 aksnevS
-i
-hco
-dråvksirf
-,nicidem
-nimret
-ne rednu
-trafleh
-ednar
-allenoitan
-snalokseisanmyg
-78gninärt
-llenoitknuf
-).v
-21 rednu
-gninsivrednu(
-ednaravstom
-.le margorp repaksnuk
-02
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Svensk Förening för
+
+Stiftelsen
+
+Läkeeurytmi-
+
+Bland annat erkänt diplom för 3 år, deltid motsvarande
+
+Viss utbildning Studiemedelsberättigad
+
+Antroposofisk Medicin Läkeeurytmi-
+
+utbildning85
+
+grundstudium i eurytmi
+
+halvtid. Undervisning upp-
+
+inom basmedicin
+
+och Terapi och Läke-
+
+utbildningen i
+
+(Sektion für Redende und
+
+delat i 7 block om totalt 20 v. (anatomi, fysio-
+
+eurytmiföreningen
+
+Norden knuten till
+
+Musizierende Künste, Dornach, + auskultationer + 4 v.
+
+logi och sjuk-
+
+i Sverige
+
+Rudolf Steiner
+
+Schweiz), yrkeserfarenhet som praktik + 6 mån. praktik med domslära), se
+
+högskolan
+
+eurytmist, förstå/tala
+
+minst 300 behandlingar +
+
+även krav på
+
+svenskt/nordiskt språk och självstudier
+
+förkunskaper
+
+vårderfarenhet
+
+Svensk Massage,
+
+Bergqvist massage Massage och
+
+Genomfört gymnasium el.
+
+390 h, inklusive praktik 120 h. 120 h anatomi, 34 800
+
+YrkesMassörernas
+
+och Friskvårds-
+
+friskvårdsterapuet86 motsvarande. Lägst betyg
+
+Undervisning uppdelad i block fysiologi, grund- Statlig tillsyn
+
+förbund, Branschrådet utbildningar
+
+Godkänd i Svenska A och
+
+om 3–5 dagar per mån. under medicin och
+
+Svensk Massage och
+
+Svenska B, el. lägst betyg E 2 terminer (41 dagar)
+
+sjukdomslära
+
+Branschorganisationen
+
+i Svenska 1, 2 och 3 från
+
+Medicinsk Massageterapi
+
+gymnasieskolans nationella
+
+program el. motsvarande
+
+kunskaper
+
+Massageterapeut,
+
+Genomfört gymnasium el.
+
+500 h, inklusive 120 h praktik. 120 h anatomi, 44 800
+
+avancerad/certifierad motsvarande. Lägst betyg
+
+Kursen kan läsas på motsva- fysiologi, grund- Statlig tillsyn
+
+massör, med fördjup- Godkänd i Svenska A och
+
+rande halvfart under 2 termi- medicin och
+
+ning inom idrotts-
+
+Svenska B, el. lägst betyg E ner (5-dagars block varannan sjukdomslära
+
+medicin, friskvård och i Svenska 1, 2 och 3 från
+
+vecka (55 dagar)) el. motsva-
+
+funktionell träning87 gymnasieskolans nationella rande helfart under en termin
+
+program el. motsvarande
+
+(undervisning under 12 v.)
+
+kunskaper
+
+20
 
 <!-- sida 676 -->
 
 Bilaga 5                                   SOU 2019:15
 
 564
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS
-irfstfigvA
-igoloibnamuH
--HY
-5 räd
-,gnäop-HY
-004(
-rå
-2
-tehgiröheb
-ednaggäldnurG
-hco
-egassaM
-.stroF
-.stroF
-dagittärebsledemeidutS
-gnäop-HY
-05
--sditleh
-.v 5
-raravstom
-gnäop
--göhsekry
-rednu reiduts llit
-88teuparetsdråvksirf
-egassam
-tsivqgreB
-,egassaM
-ksnevS
-nysllit
-giltatS
-.v 23
-,naloks
-åp
-.v 62
-,)reiduts
--giröheb
-adliksräS .naloks
--sdråvksirF
-hco
-sanrerössaMsekrY
-.v
-22 hco
-reidutssnatsid
-E
-tegyteb
-tsgäl :varksteh
-ragnindlibtu
-tedårhcsnarB
-,dnubröf
-kitkarp
-,3
-hco 2 ,1 aksnevS
-i
-hco
-egassaM
-ksnevS
-1 asläh
-hco
-ttordI ,5 akslegnE
-nenoitasinagrohcsnarB
-nårf
-2
-hco 1 egassaM hco
-iparetegassaM
-ksnicideM
--avstom
-.le nalokseisanmyg
-srukdnaraperp
-ne snniF .ednar
-rankas
-mos
-ed röf )ragad 3(
-nårf
-2 hco 1 egassam .teisanmyg
-irfstfigvA
-igoloibnamuH
--HY
-5 räd
-,gnäop-HY
-004(
-rå
-2
-tehgiröheb
-ednaggäldnurG
-ksnicideM
-dagittärebsledemeidutS
-,gnäop-HY
-53
--sditleh
-.v 5
-raravstom
-gnäop
--göhsekry
-rednu reiduts llit
-98tueparetegassam
-nysllit
-giltatS
-hco
--edaks
-.v 43
-,naloks
-åp
-.v 62
-,)reiduts
--giröheb
-adliksräS .naloks
-,arälsmodkujs
-.v
-02 hco
-reidutssnatsid
-i E
-tegyteb
-tsgäl :varksteh
-,igolokamraf
-kitkarp
-,3 hco 2 ,1 aksnevS
-gnäop-HY
-02
-1 asläh
-hco
-ttordI ,5 akslegnE
-nårf
-2
-hco 1 egassaM hco
--avstom
-.le nalokseisanmyg
-srukdnaraperp
-ne snniF .ednar
-rankas
-mos
-ed röf )ragad 3(
-nårf
-2 hco 1 egassam .teisanmyg
-008
-94
-gnindlibtu
-ssiV
-h 054
-,ditled
-snatsid
-,v 82
-gnindlibtueisanmyg
-drojglluF
-daremolpiD
-tksnicideM
-nicidemsab
-moni
--ppu
-naloks
-åp
-sgninsivrednu
-tsgäl
-dem
-ednaravstom .le
-09tueparetegassam
-murofsruK
-,imotana(
-ragad
-3–2
-mo
-kcolb
-i taled
-hco
-aksnevs i G gyteb
-hco
-igoloisyf
-\+
-)ragad
-77
-tlatot(
-akcev
-rep
-eragidit
-tvitanretlA
-.akslegne
-hco
--smodkujs
-reidutsvläjs
-asläh
-,ttordi
-moni gnindlibtu
-)aräledaks
-dråvksirf hco
-12
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Forts.
+
+Forts.
+
+Massage och
+
+Grundläggande behörighet
+
+2 år (400 YH-poäng, där 5 YH- Humanbiologi
+
+Avgiftsfri
+
+Svensk Massage,
+
+Bergqvist massage friskvårdsterapuet88 till studier under yrkeshög-
+
+poäng motsvarar 5 v. heltids- 50 YH-poäng
+
+Studiemedelsberättigad
+
+YrkesMassörernas
+
+och Friskvårds-
+
+skolan. Särskilda behörig-
+
+studier), 26 v. på skolan, 32 v.
+
+Statlig tillsyn
+
+förbund, Branschrådet utbildningar
+
+hetskrav: lägst betyget E
+
+distansstudier och 22 v.
+
+Svensk Massage och
+
+i Svenska 1, 2 och 3,
+
+praktik
+
+Branschorganisationen
+
+Engelska 5, Idrott och hälsa 1
+
+Medicinsk Massageterapi
+
+och Massage 1 och 2 från
+
+gymnasieskolan el. motsva-
+
+rande. Finns en preparandkurs
+
+(3 dagar) för de som saknar
+
+massage 1 och 2 från
+
+gymnasiet.
+
+Medicinsk
+
+Grundläggande behörighet
+
+2 år (400 YH-poäng, där 5 YH- Humanbiologi
+
+Avgiftsfri
+
+massageterapeut89 till studier under yrkeshög-
+
+poäng motsvarar 5 v. heltids- 35 YH-poäng,
+
+Studiemedelsberättigad
+
+skolan. Särskilda behörig-
+
+studier), 26 v. på skolan, 34 v. skade- och
+
+Statlig tillsyn
+
+hetskrav: lägst betyget E i
+
+distansstudier och 20 v.
+
+sjukdomslära,
+
+Svenska 1, 2 och 3,
+
+praktik
+
+farmakologi,
+
+Engelska 5, Idrott och hälsa 1
+
+20 YH-poäng
+
+och Massage 1 och 2 från
+
+gymnasieskolan el. motsva-
+
+rande. Finns en preparandkurs
+
+(3 dagar) för de som saknar
+
+massage 1 och 2 från
+
+gymnasiet.
+
+Medicinskt
+
+Diplomerad
+
+Fullgjord gymnasieutbildning 28 v, distans deltid, 450 h
+
+Viss utbildning 49 800
+
+Kursforum
+
+massageterapeut90 el. motsvarande med lägst
+
+undervisnings på skolan upp- inom basmedicin
+
+betyg G i svenska och
+
+delat i block om 2–3 dagar (anatomi,
+
+engelska. Alternativt tidigare per vecka (totalt 77 dagar) + fysiologi och
+
+utbildning inom idrott, hälsa självstudier
+
+sjukdoms- och
+
+och friskvård
+
+skadelära)
+
+21
 
 <!-- sida 677 -->
 
 SOU 2019:15                                   Bilaga 5
 
 565
-ronork
-i
-sirp
-tgilräfegnU
-”nicidemsaB”
-gninttafmo
-snegnindlibtU
-repaksnukröf
-åp varK
-gnindlibtU
-rötkasgnindlibtU
-noitasinagrohcsnarB
-dagittärebsledemeidutS
-reiretirksgningatna
-hco
-noitasinagrosekry
-relle
-nysllit
-giltatS 000
-83
-gnindlibtu
-ssiV
-nakcev
-i ragad
-2 gninsivrednU
-agnI
-ksnicideM
-teketosläH
-,egassaM
-ksnevS
-nicidemsab
-moni
-renimret
-2 rednu
-19tueparetegassam
-sanrerössaMsekrY
--ana
-sivlepmexe(
--hcsnarB
-hco
-dnubröf
-hco
-igoloisyf
-,imot
-egassaM
-ksnevS
-tedår
-)arälsmodkujs
-rednu
-gninvirkseb
-eS
-aksnevS
--rätnemelpmoK
-temaetosläH
-aksnicidem tednubröfskiR
-000
-392
-gnindlibtu
-ssiV
-,ph 042 ednaravstom
-,rå
-4
-röf tehgiröheb
-ednaggäldnurG
-,temmargorptapoetsO
-aksivanidnakS
-aksnevS
--sledemeiduts
-etnI
-nicidemsab
-moni
-kcolb
-i taledppu
-gninsivrednu
-dnäkdog
-tmas
-reidutseloksgöh
-ni ecneicS
-fo rolehcaB
-naloksgöhtapoetsO
-tednubröftapoetsO
-dagittäreb
--ana
-sivlepmexe(
-\+
-akcev e:4
-rav ragad
-6
-mo
-B akslegnE/6
-akslegnE
-i sruk
-div( yhtapoetsO
-hco
-igoloisyf
-,imot
-etebrasnemaxe
-\+ etebrakinilk
-ytisrevinU
-ailoporteM
-)arälsmodkujs
-reidutsvläjs
-\+
-åvin-C
-åp
-29)secneicS
-deilppA
-rof
-smom
-evisulkxe
-000
-323
-gnindlibtu
-ssiV
-,ph
-042 ednaravstom
-,rå
-5,4
-tehgiröheb
-ednaggäldnurG
-ni amolpiD
-egelloC
-mlohkcotS
--sledemeiduts
-etnI
-nicidemsab
-moni
-mo kcolb
-i gninsivrednu
-61 tehgiröhebsedårmO
-tmas
-39yhtapoetsO
-cihtapoetsO
-fo
-dagittäreb
--oisyf
-,imotana(
-\+ etebrakinilk
-\+
-ragad
-5
-B paksnukrutaN
-,B
-kitametaM(
-ecneicS
-fo rolehcaB(
-enicideM
-nysllit
-giltats
-negnI
--kujs
-hco
-igol
-reidutsvläjs
-,A
-kisyF ednaravstom
-.le[
-htiw
-yhtapoetsO
-ni
-)arälsmod
-,]A igoloiB
-hco A imeK
-div[ sruonoh
-lluf
-)A paksnuksllähmaS
-fo egelloC
-hsitirB
-enicideM
-cihtapoetsO fo ytisrevinU
-hco
-)49]htuomylP
-gnindeldnah
-\+
-000
-591
--ppu
-rä negninsivrednu
-,rå
-3
--rep
-i srukdnurG
-tröfmoneG
-daremolpiD
-nimedakatlatseG
-edaresirotkuA
-segirevS
-iparetnege
-\+
-ragad
-5–4 mo
-kcolb
-81
-i taled
-ac( gnilkcevtu
-gilnos
-59tueparettlatseg
-retueparettlatseG
--deldnah
-\+
-)ragad
-87
-tlatot(
-dapujdröF
-tmas
-)ragad 51
-h 69 iparetnege
-\+ gnin
-gnilkcevtu
-gilnosrep
-.ednaravstom
-.le
-)ragad 61(
-tehnerafre
-ksinilk
-srå 1 tsniM
-aksirtaikysp
-moni
-)h 006 1(
-mehsgnildnaheb
-,retehnedråv
-ph
-081 tsnim
-aH
-.tkilyd .le
-)tgiljöm
-rä snepsid(
+
+Branschorganisation
+
+Utbildningsaktör Utbildning
+
+Krav på förkunskaper
+
+Utbildningens omfattning
+
+”Basmedicin” Ungefärligt pris i kronor
+
+eller yrkesorganisation
+
+och antagningskriterier
+
+Studiemedelsberättigad
+
+Statlig tillsyn
+
+Svensk Massage,
+
+Hälsoteket
+
+Medicinsk
+
+Inga
+
+Undervisning 2 dagar i veckan Viss utbildning 38 000
+
+YrkesMassörernas
+
+massageterapeut91
+
+under 2 terminer
+
+inom basmedicin
+
+förbund och Bransch-
+
+(exempelvis ana-
+
+rådet Svensk Massage
+
+tomi, fysiologi och
+
+sjukdomslära)
+
+Svenska
+
+Se beskrivning under
+
+Hälsoteamet
+
+Komplementär-
+
+medicinska
+
+Riksförbundet
+
+Svenska
+
+Skandinaviska
+
+Osteopatprogrammet, Grundläggande behörighet för 4 år, motsvarande 240 hp,
+
+Viss utbildning 293 000
+
+Osteopatförbundet
+
+Osteopathögskolan Bachelor of Science in högskolestudier samt godkänd undervisning uppdelat i block inom basmedicin Inte studiemedels-
+
+Osteopathy (vid
+
+kurs i Engelska 6/Engelska B om 6 dagar var 4:e vecka + (exempelvis ana- berättigad
+
+Metropolia University
+
+klinikarbete + examensarbete tomi, fysiologi och
+
+for Applied Sciences)92
+
+på C-nivå + självstudier
+
+sjukdomslära)
+
+Stockholm College Diploma in
+
+Grundläggande behörighet
+
+4,5 år, motsvarande 240 hp, Viss utbildning 323 000 exklusive moms
+
+of Osteopathic
+
+Osteopathy93
+
+samt Områdesbehörighet 16 undervisning i block om
+
+inom basmedicin Inte studiemedels-
+
+Medicine
+
+(Bachelor of Science (Matematik B, Naturkunskap B 5 dagar + klinikarbete +
+
+(anatomi, fysio- berättigad
+
+in Osteopathy with [el. motsvarande Fysik A,
+
+självstudier
+
+logi och sjuk-
+
+Ingen statlig tillsyn
+
+full honours [vid
+
+Kemi A och Biologi A],
+
+domslära)
+
+British College of
+
+Samhällskunskap A)
+
+Osteopathic Medicine
+
+och University of
+
+Plymouth]94)
+
+Sveriges Auktoriserade Gestaltakademin Diplomerad
+
+Genomfört Grundkurs i per-
+
+3 år, undervisningen är upp-
+
+195 000 + handledning
+
+Gestaltterapeuter
+
+gestaltterapeut95
+
+sonlig utveckling (ca
+
+delat i 18 block om 4–5 dagar
+
+\+ egenterapi
+
+15 dagar) samt Fördjupad
+
+(totalt 78 dagar) + handled-
+
+personlig utveckling
+
+ning + egenterapi 96 h
+
+(16 dagar) el. motsvarande.
+
+Minst 1 års klinisk erfarenhet
+
+(1 600 h) inom psykiatriska
+
+vårdenheter, behandlingshem
+
+el. dylikt. Ha minst 180 hp
+
+(dispens är möjligt)
+
 22
 
 <!-- sida 678 -->
@@ -34880,136 +31350,76 @@ rä snepsid(
 Bilaga 5                                   SOU 2019:15
 
 566
-.)20-20-8102
-datmäh(
-resruk/es.avitkaripsni.www//:sptth
-1
-.)10-20-8102
-datmäh(
-lmth.xedni/es.gnindlibtutmf.www//:ptth
-2
-.)10-20-8102
-datmäh(
-lmth.iparetkisum/margorpretsigam-hco--retsam/ragnindlibtu-alla/ragnindlibtu/es.hmk.www//:sptth
-3
-.)20-20-8102
-datmäh(
-/itapoemoh-i-gnindlibtu/es.acidem//:ptth
-4
-.)20-20-8102
-datmäh(
-84=di_egap?/sserpdrow/es.rutknupukacidev//:ptth
-5
-.)92-10-8102
-datmäh(
-reslerornesor/ragnindlibtu-hco-resruk/es.snoslexa//:ptth
-6
-.)92-10-8102
-datmäh(
-rossamsdravksirf/egassam/ragnindlibtu-hco-resruk/es.snoslexa//:ptth7
-.)92-10-8102
-datmäh(
-tueparetegassam/egassam/ragnindlibtu-hco-resruk/es.snoslexa//:ptth8
-.)92-10-8102
-datmäh(
-tueparetegassam-ksnicidem/egassam/ragnindlibtu-hco-resruk/es.snoslexa//:ptth
-9
-.)92-10-8102
-datmäh(
-nedotemnesor-moni-resruk/nedotemnesor/ragnindlibtu-hco-resruk/es.snoslexa//:ptth0
-1
-.)92-10-8102
-datmäh(
-eraralagoy/gnogiq-agoy/ragnindlibtu-hco-resruk/es.snoslexa//:ptth1
-1
-.)92-10-8102
-datmäh(
-egassamagoy/gnogiq-agoy/ragnindlibtu-hco-resruk/es.snoslexa//:ptth
-21
-.)92-10-8102
-datmäh(
-iparetssertsrusserpuka/ragnindlibtu-hco-resruk/es.snoslexa//:ptth
-31
-.)92-10-8102
-datmäh(
-igoloxelferiparetnoz/ragnindlibtu-hco-resruk/es.snoslexa//:ptth
-41
-.)10-20-8102
-datmäh(
-52=DI?php.xedni/es.nimedakaitapoib.www//:ptth
-51
-.)13-10-8102
-datmäh(
-gnindlibturutknupuka/ue.iakkag-nihssi.www//:sptth
-61
-.)13-10-8102
-datmäh(
-/rotknupuka/gnindlibtu/es.nimedakagnijien.www//:ptth
-71
-.)03-10-8102
-datmäh(
-/iparetamora-ksnicidem/ragnindlibtu/es.retnecsgniran//:sptth
-81
-.)10-20-8102
-datmäh( lmth.gnindlibtu_russerpuka_dnuh_aksinnam/es.nekinilkaps.www//:ptth
-91
-.)13-10-8102
-datmäh(
-lmth.rutknupukanamuh/es.rutknupukaetteiram//:ptth
-02
-.)03-10-8102
-datmäh(
-/moc.iparetnozgrebllehmaet.www//:ptth
-12
-.)13-10-8102
-datmäh(
-lmth.6_1txet/es.naloksaksnicidemtro.www//:ptth
-22
-.)13-10-8102
-datmäh(
-lmth.61_ytpme/es.naloksaksnicidemtro.www//:ptth
-32
-.)20-20-8102
-datmäh(
-omlam/esruoc/gniniart-noitadnuof-renoititcarp/moc.ecnegilletniydob.www//:sptth
-42
--ypareht_scimanydoib_larcasoinarc_largetni_ni_smargorp_udE/ragnindlibtU/es.dravksirfagnaps//:ptth
-52
-.)20-20-8102
-datmäh(
-lmth.hsilgne02%-02%ypareht02%larcasoinarc02%ni02%noitasirohtua02%oul02%nij/noitacifitrec_dna02%\_noitazirohtu
-a
-.)03-10-8102
-datmäh( lmth.rossam_darkassetetilavK/moc.aremolpid/moc.aremolpid.www//:ptth
-62
-.)91-20-8102
-datmäh(
-/egassam-dravksirf-aslah/resrukadliksras/es.aloksgohklofsvolsmirg//:ptth72
-.)03-10-8102
-datmäh(
-/gnindlibtugogadeposlah/aloksgohklof/php.xedni/es.kshf.grebagah.www//:sptth
-82
-.)03-10-8102
-datmäh(
-lmth.gnindlibtu/es.ustaihsynomrah.www//:ptth
-92
-.)90-20-8102
-datmäh(
-/hcaocoslah/ragnindlibtu/es.deramlajh.www//:ptth
-03
-.)90-20-8102
-datmäh(
-xpsa.eralkcevtuoslah/resruk-arav/vs/es.aloksgohklofsgrebsbokaj.www//:sptth
-13
-.)03-10-8102
-datmäh(
-igoloxelfermo#/es.noriak.www//:ptth
+
+1 https://www.inspiraktiva.se/kurser (hämtad 2018-02-02).
+
+2 http://www.fmtutbildning.se/index.html (hämtad 2018-02-01).
+
+3 https://www.kmh.se/utbildningar/alla-utbildningar/master--och-magisterprogram/musikterapi.html (hämtad 2018-02-01).
+
+4 http://medica.se/utbildning-i-homeopati/ (hämtad 2018-02-02).
+
+5 http://vedicakupunktur.se/wordpress/?page_id=48 (hämtad 2018-02-02).
+
+6 http://axelsons.se/kurser-och-utbildningar/rosenrorelser (hämtad 2018-01-29).
+
+7 http://axelsons.se/kurser-och-utbildningar/massage/friskvardsmassor (hämtad 2018-01-29).
+
+8 http://axelsons.se/kurser-och-utbildningar/massage/massageterapeut (hämtad 2018-01-29).
+
+9 http://axelsons.se/kurser-och-utbildningar/massage/medicinsk-massageterapeut (hämtad 2018-01-29).
+
+1 0 http://axelsons.se/kurser-och-utbildningar/rosenmetoden/kurser-inom-rosenmetoden (hämtad 2018-01-29).
+
+1 1 http://axelsons.se/kurser-och-utbildningar/yoga-qigong/yogalarare (hämtad 2018-01-29).
+
+12 http://axelsons.se/kurser-och-utbildningar/yoga-qigong/yogamassage (hämtad 2018-01-29).
+
+13 http://axelsons.se/kurser-och-utbildningar/akupressurstressterapi (hämtad 2018-01-29).
+
+14 http://axelsons.se/kurser-och-utbildningar/zonterapireflexologi (hämtad 2018-01-29).
+
+15 http://www.biopatiakademin.se/index.php?ID=25 (hämtad 2018-02-01).
+
+16 https://www.isshin-gakkai.eu/akupunkturutbildning (hämtad 2018-01-31).
+
+17 http://www.neijingakademin.se/utbildning/akupunktor/ (hämtad 2018-01-31).
+
+18 https://naringscenter.se/utbildningar/medicinsk-aromaterapi/ (hämtad 2018-01-30).
+
+19 http://www.spakliniken.se/manniska_hund_akupressur_utbildning.html (hämtad 2018-02-01).
+
+20 http://marietteakupunktur.se/humanakupunktur.html (hämtad 2018-01-31).
+
+21 http://www.teamhellbergzonterapi.com/ (hämtad 2018-01-30).
+
+22 http://www.ortmedicinskaskolan.se/text1_6.html (hämtad 2018-01-31).
+
+23 http://www.ortmedicinskaskolan.se/empty_16.html (hämtad 2018-01-31).
+
+24 https://www.bodyintelligence.com/practitioner-foundation-training/course/malmo (hämtad 2018-02-02).
+
+25 http://spangafriskvard.se/Utbildningar/Edu_programs_in_integral_craniosacral_biodynamics_therapy-
+
+a uthorization\_%20and_certification/jin%20luo%20authorisation%20in%20craniosacral%20therapy%20-%20english.html (hämtad 2018-02-02).
+
+26 http://www.diplomera.com/diplomera.com/Kvalitetessakrad_massor.html (hämtad 2018-01-30).
+
+27 http://grimslovsfolkhogskola.se/sarskildakurser/halsa-friskvard-massage/ (hämtad 2018-02-19).
+
+28 https://www.hagaberg.fhsk.se/index.php/folkhogskola/halsopedagogutbildning/ (hämtad 2018-01-30).
+
+29 http://www.harmonyshiatsu.se/utbildning.html (hämtad 2018-01-30).
+
+30 http://www.hjalmared.se/utbildningar/halsocoach/ (hämtad 2018-02-09).
+
+31 https://www.jakobsbergsfolkhogskola.se/sv/vara-kurser/halsoutvecklare.aspx (hämtad 2018-02-09).
+
+32 http://www.kairon.se/#omreflexologi (hämtad 2018-01-30).
+
+33 http://www.regionvarmland.se/folkhogskolor/molkoms-folkhogskola/vara-utbildningar/halsotranare/ (hämtad 2018-02-09).
+
 23
-.)90-20-8102
-datmäh(
-/eranartoslah/ragnindlibtu-arav/aloksgohklof-smoklom/roloksgohklof/es.dnalmravnoiger.www//:ptth
-33
-32
 
 <!-- sida 679 -->
 
@@ -35047,278 +31457,111 @@ används förkortningarna h för timmar och hp för högskolepoäng.
 Bilaga 5                                   SOU 2019:15
 
 570
-)2.6
-ttinsva
-röhllit(
-tetisrevinu
-assiv div
-galsni-MAK dem
-relle MAK
-mo
-ragnindlibtu
-–
-ravstäknE
-3
-llebaT
-ragnindlibtusgardppU
-resruk
-edneåtsirF
-ragnindlibtumargorP
-etäsoräL tetisrevinU
-.srukdnurg
-– iparetoisyF
-)1 :resruk akilo 4 i rågni
-MAK mo galsnI
-:temmargorptueparetoisyF
-tetisrevinu
-sgrobetöG
-hco gninpmällit
-,pperg
-ednaggäldnurg egassam
-:ph 9 ,1 srukled
-asläh
-hco
-eslerör
-,pporK
-,asläh
-hco eslerör
-,pporK .srukdnurg – iparetoisyF
-)2 ,h 2 ac
-gninärt
-nege
-\+
-h 4
-ednaröftu
--oisyF )3
-,h 2 kitkarp
-hco iroet ssenlufdnim tmas
-h 2 kitkarp hco
-iroet
-agoy
-ksnicidem
-:ph
-51
-ardna dem
-snammasllit
-ppu sat rutknupuka :ph
-5,7 ,1 temetsysesleröR
-.srukdnurg
-– iparet
-iparetoisyF
-)4 hco .nim
-09 mo ttinsvasgnildnaheb
-tksitkarp tte rednu
-redotem
-ednardnilträms
-.h 2 kitkarp
-hco iroet
-ssenlufdnim :ph 21 ,2 dråvneppö
-i iparetoisyF
-.III
-sruksgninttästrof
-–
--mok
-mos
-gninärtagoY
-.1
-,ph
-5,7 ledemekälrutaN
-.1
-aträms
-lateleksoluksum
-div gnirelumits ksirosneS
-:sruk rablaV
-:temmargorptueparetoisyF
-tetutitsnI
-aksniloraK
-div
-gnildnaheb
-ednarettelp
-relle lanosrep
-:ppurglåm
-arablav allåhenni
-tta
-etni remmok hco starerutkurtsmo
-rah temmargorptueparetoisyF
-.ph
-5,7
-dnåtsllitsmodkujs
-akilo
-hco
--osläh
-moni
-retneduts
-.rå
-ednammok
-resruk
-moni
-lanosrep
-röf
-ph
-5,7
-.icamraf
-relle
-dråvkujs
-,gnindnävna
-:nicidemrätnemelpmok
-hco ledemekälrutaN
-:sruk
-rablaV
-:temmargorprakäL
-,nedråvkujs
-hco
--osläh
-rutknupuka
-ksnicideM
-.2
-.ph 5,7
-ttässgninllåhröf
-hco
-snedive
--osläh
-relle
-ttordi
-i eraräl
--itigel :ppurglåm
-,ph
-51
-.ph 5,7
-gniretnahsserts daresabssenlufdniM
-:margorp
-akilo
-röf
-sruk
-rablaV
-.regogadep
-.lanosrepdråv
-darem
-rutknupuka
-ksnicideM
-.2
-dandråvmo
-vitargetnI
-.3
--dråv
-daremitigel
-röf
-ph
-51
--kujs :ppurglåm
-,ph
-5,7
-.lanosrep
-retueparetoisyf
-,roksretöks
-.retueparetstebra
-hco
-igolokamraf
-nämllA
-.1
-agoyidem
-:II asläh
-hco eslerör ,nicidemoiB nesruk
-i galsni raH
-:temmargorptueparetoisyF
-tetisrevinu
-sgnipökniL
-allenoitidarT
-.ph
-5,7
-tte mos
-ppu sat rutknupukA
-.)ksirotagilbo( noitkelfer
-giltfirks
-sulp
-)tgillivirf(
-tehgidräf
-h
-2
-sat
-ledemekäl
-edaresabtxäv
-.)sarecilppa
-nak niroet-lortnoc
-etag ruh åp lepmexe(
-aträms mo
-ttinsva
-i lepmexe
-tksiteroet
-i nesruk
-rednu
-ppu
-tanna dnalb
-sat 11 nimret
-rednU .8 nimret rednu
-MAK mo gninsäleröf
-nE
-:temmargorprakäL
-dem
-dnabmas
-mo
-gninsivrednuppurg
-I .gninssolröf div gnirdnilträms
-dem
-dnabmas
-i
-ppu
-rutknupuka
-.negalsledemekäL
-.gninppalsva
-dapmällit hco rutknupuka
-mosås MAK
-saretuksid
-rävsebeiretkamilk
-hco
-ledemekäL
-.2
-netneitap
-räd llafsppurgsab
-:dråv ksigrurik gnintkirnI
-:temmargorpeksretökskujstsilaicepS
-.ph
-5,7
-iparetoisyf
-alleunam
-mo gninsäleröf
-h 2 .tellaf i telåm rä negnintfitsgaL
-.nicidemvitanretla
-adnävna
-lliv
-tta
-dem
-dnabmas
-I
-.dråv daresabsnedive
-åp sukoF .egälsnedive hco
-noitamitigel ,retetisrevid
-edneesva
-redotem
-dem
-renoitkaretni
--nemelpmok
-remmok
-dråv ksigrurik i nekcet hco
-motmys gnirk
-llafsgninggäldnah
-agiltmas
-I
-.saretuksid
-ledemekäl
-ne :isetsena
-gnintkirnI
-.tehrekäs gnirk noissuksid
-div sggäl
-tkiv
-rotS
-.marf
-redotem
-arät
-.gnintmähretå
-vitarepotsop
-relle/hco igrurik rednu
-redotem arätnemelpmok
-mo
-tfigppueiduts
+
+Tabell 3
+
+Enkätsvar – utbildningar om KAM eller med KAM-inslag vid vissa universitet (tillhör avsnitt 6.2)
+
+Lärosäte
+
+Programutbildningar
+
+Fristående kurser
+
+Uppdragsutbildningar
+
+Universitet
+
+Göteborgs universitet
+
+Fysioterapeutprogrammet: Inslag om KAM ingår i 4 olika kurser: 1) Fysioterapi – grundkurs.
+
+Kropp, rörelse och hälsa delkurs 1, 9 hp: massage grundläggande grepp, tillämpning och
+
+utförande 4 h + egen träning ca 2 h, 2) Fysioterapi – grundkurs. Kropp, rörelse och hälsa,
+
+15 hp: medicinsk yoga teori och praktik 2 h samt mindfulness teori och praktik 2 h, 3) Fysio-
+
+terapi – grundkurs. Rörelsesystemet 1, 7,5 hp: akupunktur tas upp tillsammans med andra
+
+smärtlindrande metoder under ett praktiskt behandlingsavsnitt om 90 min. och 4) Fysioterapi
+
+– fortsättningskurs III. Fysioterapi i öppenvård 2, 12 hp: mindfulness teori och praktik 2 h.
+
+Karolinska Institutet
+
+Fysioterapeutprogrammet: Valbar kurs: Sensorisk stimulering vid muskuloskeletal smärta 1. Naturläkemedel 7,5 hp, 1. Yogaträning som kom-
+
+7,5 hp. Fysioterapeutprogrammet har omstrukturerats och kommer inte att innehålla valbara målgrupp: personal eller pletterande behandling vid
+
+kurser kommande år.
+
+studenter inom hälso- och olika sjukdomstillstånd
+
+Läkarprogrammet: Valbar kurs: Naturläkemedel och komplementärmedicin: användning,
+
+sjukvård eller farmaci.
+
+7,5 hp för personal inom
+
+evidens och förhållningssätt 7,5 hp.
+
+2\. Medicinsk akupunktur hälso- och sjukvården,
+
+Valbar kurs för olika program: Mindfulnessbaserad stresshantering 7,5 hp.
+
+15 hp, målgrupp: legiti-
+
+lärare i idrott eller hälso-
+
+merad vårdpersonal.
+
+pedagoger.
+
+3\. Integrativ omvårdnad
+
+2\. Medicinsk akupunktur
+
+7,5 hp, målgrupp: sjuk-
+
+15 hp för legitimerad vård-
+
+sköterskor, fysioterapeuter personal.
+
+och arbetsterapeuter.
+
+Linköpings universitet
+
+Fysioterapeutprogrammet: Har inslag i kursen Biomedicin, rörelse och hälsa II: mediyoga 1. Allmän farmakologi
+
+2 h färdighet (frivilligt) plus skriftlig reflektion (obligatorisk). Akupunktur tas upp som ett 7,5 hp. Traditionella
+
+teoretiskt exempel i avsnitt om smärta (exempel på hur gate control-teorin kan appliceras). växtbaserade läkemedel tas
+
+Läkarprogrammet: En föreläsning om KAM under termin 8. Under termin 11 tas bland annat upp under kursen i
+
+akupunktur upp i samband med smärtlindring vid förlossning. I gruppundervisning om
+
+samband med
+
+klimakteriebesvär diskuteras KAM såsom akupunktur och tillämpad avslappning.
+
+Läkemedelslagen.
+
+Specialistsjuksköterskeprogrammet: Inriktning kirurgisk vård: basgruppsfall där patienten 2. Läkemedel och
+
+vill använda alternativmedicin. Lagstiftningen är målet i fallet. 2 h föreläsning om manuella fysioterapi 7,5 hp.
+
+metoder avseende diversiteter, legitimation och evidensläge. Fokus på evidensbaserad vård. I samband med att
+
+I samtliga handläggningsfall kring symtom och tecken i kirurgisk vård kommer komplemen- interaktioner med
+
+tära metoder fram. Stor vikt läggs vid diskussion kring säkerhet. Inriktning anestesi: en
+
+läkemedel diskuteras.
+
+studieuppgift om komplementära metoder under kirurgi och/eller postoperativ återhämtning.
+
 3
 
 <!-- sida 683 -->
@@ -35326,214 +31569,75 @@ tfigppueiduts
 SOU 2019:15                                   Bilaga 5
 
 571
-ragnindlibtusgardppU
-resruk
-edneåtsirF
-ragnindlibtumargorP
-etäsoräL
--knupuka
-.xe.t
-attafmo nak
-III hco II ,I tsnoksgninssolröF
-anresruK
-:temmargorpeksromnraB
-tetisrevinu
-åemU
-.hcsud
-hco dab
-,egassam
-,ralddavk
-alirets
-,SNET
-,rut
-ted
-nem
-,gnindlibtu
-ednaravun i rutknupuka
-mo
-ttinsva
-raH
-:temmargorptueparetoisyF
-.nalpsgnindlibtu
-ednammok
-ne i
-trob
-sat
-tta remmok
-hco russerpuka
-,rutknupuka
-röf remsinakemsgninkrev
-mo
-gninsivrednU
-:temmargorprakäL
--idemloks
-tte
-nårf sröreb
-itapoemoh röf anrepicnirp
-nevÄ .anresruksab
-rednu
-egassam
-litkat
--nicidemnämlla
-rednu
-5 nimret åp saröreb
-nak ,rutknupuka
-tsmärf
-,MAK
-.vitkepsrep
-tksnic
-.tsanmygkujs
-raffärt
-retneduts
-räd nakcev
--margorptsilaiceps
-i resruk
-va led ne mos
-rågni MAK
-:temmargorpeksretökskujstsilaicepS
-div
-dandråvmo
-hco igoloknO
-anresruk relläg
-teD
-.dråv ksigolokno
-tom
-gnintkirni
-dem
-tem
-.ph
-5,7 edekstuls
-stevil i dråv hco
-dandråvmo
-vitaillaP
-hco
-ph
-5,7
-modkujsrecnac
-tlatot
-ednaravstom
-MAK mo tnemom rah
-icamraf
-ksinilk
-i resruK
-:temmargorpraketopA
-tetisrevinu
-alasppU
-.ph 5,1
-ednaravstom
-MAK va galsni
-varav ,ph
-5,7 icamraf
-labolG
-:sruk
-rablaV
-.ph
-5,1
--tom
-.cte
-egassam ,iparetnoz
-,retknupkcyrt
-gnirk
-tnemom
-raH
-:temmargorptueparetoisyF
-va
-nalpsgnindlibtu
-ednammok ne i trob
-sat tta
-remmok
-MAK
-va
-tegalsnI
-.ph
-2 ednaravs
-.temmargorptueparetoisyF
--tom
-MAK
-mo tnemom
-rah icamraf ksinilk
-hco igoloisyf
-ksinilk
-i resruK
-:temmargorprakäL
-ednaravstom
-MAK va galsni
-varav ,ph 5,7
-asläh labolG
-:sruk
-rablaV
-.ph
-5,1
-tlatot
-ednaravs .ph
-5,1
-tlatot
-ednaravstom
-MAK
-mo tnemom rah
-icamraf
-ksinilk
-i
-resruK
-:temmargorpeiratpeceR
-.ph 5,1
-ednaravstom
-MAK va galsni
-varav ,ph
-5,7 icamraf
-labolG
-:sruk
-rablaV
-.ph
-5,1
-mo
-tnemom
-rah icamraf
-ksinilk hco igoloisyf
-ksinilk
-i resruK
-:temmargorpeksretökskujS
--tom
-MAK
-va galsni varav
-,ph 5,7 asläh
-labolG :sruk
-rablaV
-.ph
-1
-tlatot
-ednaravstom
-MAK
-.ph
-5,1
-ednaravs
-nenys
-ednaravun
-hco tehnerafre
-davörpeb
-hco paksnetev
-räd
-galsni
-rah
-anragnindlibtudråV
-tetisrevinu
-orberÖ
-.ppu
-ammok MAK
-åp retkepsa akilo
-nak renoissuksid
-assed
-I .saretuksid
-snedive
-åp
-.tetisrevinu
-sdnuL
-:netäkne
-åp
-taravs
-etni
-mos
-netäsoräL
+
+Lärosäte
+
+Programutbildningar
+
+Fristående kurser
+
+Uppdragsutbildningar
+
+Umeå universitet
+
+Barnmorskeprogrammet: Kurserna Förlossningskonst I, II och III kan omfatta t.ex. akupunk-
+
+tur, TENS, sterila kvaddlar, massage, bad och dusch.
+
+Fysioterapeutprogrammet: Har avsnitt om akupunktur i nuvarande utbildning, men det
+
+kommer att tas bort i en kommande utbildningsplan.
+
+Läkarprogrammet: Undervisning om verkningsmekanismer för akupunktur, akupressur och
+
+taktil massage under baskurserna. Även principerna för homeopati berörs från ett skolmedi-
+
+cinskt perspektiv. KAM, främst akupunktur, kan beröras på termin 5 under allmänmedicin-
+
+veckan där studenter träffar sjukgymnast.
+
+Specialistsjuksköterskeprogrammet: KAM ingår som en del av kurser i specialistprogram-
+
+met med inriktning mot onkologisk vård. Det gäller kurserna Onkologi och omvårdnad vid
+
+cancersjukdom 7,5 hp och Palliativ omvårdnad och vård i livets slutskede 7,5 hp.
+
+Uppsala universitet
+
+Apotekarprogrammet: Kurser i klinisk farmaci har moment om KAM motsvarande totalt
+
+1,5 hp. Valbar kurs: Global farmaci 7,5 hp, varav inslag av KAM motsvarande 1,5 hp.
+
+Fysioterapeutprogrammet: Har moment kring tryckpunkter, zonterapi, massage etc. mot-
+
+svarande 2 hp. Inslaget av KAM kommer att tas bort i en kommande utbildningsplan av
+
+Fysioterapeutprogrammet.
+
+Läkarprogrammet: Kurser i klinisk fysiologi och klinisk farmaci har moment om KAM mot-
+
+svarande totalt 1,5 hp. Valbar kurs: Global hälsa 7,5 hp, varav inslag av KAM motsvarande
+
+1,5 hp.
+
+Receptarieprogrammet: Kurser i klinisk farmaci har moment om KAM motsvarande totalt
+
+1,5 hp. Valbar kurs: Global farmaci 7,5 hp, varav inslag av KAM motsvarande 1,5 hp.
+
+Sjuksköterskeprogrammet: Kurser i klinisk fysiologi och klinisk farmaci har moment om
+
+KAM motsvarande totalt 1 hp. Valbar kurs: Global hälsa 7,5 hp, varav inslag av KAM mot-
+
+svarande 1,5 hp.
+
+Örebro universitet
+
+Vårdutbildningarna har inslag där vetenskap och beprövad erfarenhet och nuvarande synen
+
+på evidens diskuteras. I dessa diskussioner kan olika aspekter på KAM komma upp.
+
+Läros äten som inte svarat på enkäten: Lunds universitet.
+
 4
 
 <!-- sida 684 -->
@@ -35541,194 +31645,97 @@ netäsoräL
 Bilaga 5                                   SOU 2019:15
 
 572
-)2.6
-ttinsva
-röhllit(
-tetisrevinu
-hco
-roloksgöh div
-galsni-MAK
-dem relle
-MAK
-mo
-ragnindlibtu
-–
-ravstäknE
-4 llebaT
-ragnindlibtusgardppU
-resruk
-edneåtsirF
-ragnindlibtumargorP
-etäsoräL tetisrevinU
--pecer
-hco icamraf
-llit noitkudortnI
-)1
-:resruk ert
-i galsni
-erdniM
-:temmargorpeiratpeceR
-tetisrevinu
-sdatslraK
-hco
-dråvnege i gninvigdåR
-)3 hco
-ph
-7 asläh hco
-tam ,isongokamraF
-)2 ,ph 5,7
-tekryeirat
-tnecorp
-2 evitkepser
-tnecorp 51–01
-,tnecorp
-2 ac
-raravstom
-negalsnI
-.ph 5,7 iparetokamraf .sruk evitkepser
-va
-åp
-nekcet hco motmys
-div dandråvmO
-)1 :resruk
-åvt i ppu
-saT :temmargorpeksretökskujS
-rablaV
-.ph 03 tehgilkujsitlum
-hco
-asläho
-giravgnål
-div dandråvmO
-)2 hco ph 5,73
-asläho
-.ph
-5,7 dråv vitaillaP
-:sruk
-arälsmodkujS
-:anresruk
-i galsni :aksretöksstkirtsiD
-:temmargorpeksretökskujstsilaicepS
-dandråvmo
-darecnava
-hco dråvkujsmeH
-hco ph 51
-ledemekäl
-assiv
-va ttärsgninvirksröf
-hco
-.ph 51
-temmeh
-i
--dråv
-tte i nicidem
-vitanretla hco
-rätnemelpmoK
-:sruk rablaV
-:temmargorpeksretökskujS
-tetetisrevinuénniL
-.ph 5,7
-vitkepsrep tgilpaksnetev
-tetisrevinu
-ömlaM
-tetetisrevinuttiM
-roloksgöH
--mO
-nesruk i ”asläho
-div igolokamraF”
-gninsäleröf
-ne va
-leD :temmargorpeksretökskujS
-aksinkeT
-egnikelB
-hco
-SNET .xe.t ,ppu
-sat aträms div
-gnildnaheb
-ksigolokamraf-ekci
-räd asläho div
-dandråv
-aloksgöH
-.egassam
-litkat
-hco
-erdlÄ” gninsäleröf
-ne va led :aksretöksstkirtsiD
-:temmargorpeksretökskujstsilaicepS
-assiv
-va ttärsgninvirksröf
-tom datkirni
-arälsmodkujs
-hco
-igolokamraF
-nesruk i ”ledemekäl
-litkat hco SNET
-.xe.t ,ppu sat aträms
-div gnildnaheb
-ksigolokamraf-ekci
-räd
-ledemekäl .egassam
-såroB
-i naloksgöH
-gnildnaheb
-ksirosnes
-hco aträmS
-nesruk
-seg rå
-assiV :iparetoisyf
-i temmargorpretsigaM
-anralaD
-naloksgöH
--dråv
-daremitigel röf
-sruk edneåtsirf
-mos
-nevä hco
-iparetoisyf
-i temmargorpretsigam
-moni
-.SNET hco rutknupuka
-ksnicidem
-ksdnälretsäv
-va galsni
-rellåhenni
-nesruK
-.lanosrep
-.8102 relle
-7102
-rå etni kcod svag
-nesruK
-aträms
-mo gninsivrednu
-dem dnabmas
-i ppu sat
-rutknupukA
-:temmargorpeksretökskujS
-elväG
-i naloksgöH
-tte
-ru dnåtsllitsmodkujs
-agiravgnål
-hco
-ramodkujskloF
-:anresruk
-i aträmssgninssolröf
-hco
--er
-hco lleuxes ,dandråvmo
-ksirtaidep
-,kirtaideP
-hco vitkepsrep
-tksnicidem hco
-ednadråv
-.aredrav
-ph 5,0 tsgöh
-raravstom
-negalsnI
-.igolokamraf
-tmas asläh
-vitkudorp
-datsnaitsirK
-naloksgöH
+
+Tabell 4
+
+Enkätsvar – utbildningar om KAM eller med KAM-inslag vid högskolor och universitet (tillhör avsnitt 6.2)
+
+Lärosäte
+
+Programutbildningar
+
+Fristående kurser
+
+Uppdragsutbildningar
+
+Universitet
+
+Karlstads universitet
+
+Receptarieprogrammet: Mindre inslag i tre kurser: 1) Introduktion till farmaci och recep-
+
+tarieyrket 7,5 hp, 2) Farmakognosi, mat och hälsa 7 hp och 3) Rådgivning i egenvård och
+
+farmakoterapi 7,5 hp. Inslagen motsvarar ca 2 procent, 10–15 procent respektive 2 procent
+
+av respektive kurs.
+
+Sjuksköterskeprogrammet: Tas upp i två kurser: 1) Omvårdnad vid symtom och tecken på
+
+ohälsa 37,5 hp och 2) Omvårdnad vid långvarig ohälsa och multisjuklighet 30 hp. Valbar
+
+kurs: Palliativ vård 7,5 hp.
+
+Specialistsjuksköterskeprogrammet: Distriktssköterska: inslag i kurserna: Sjukdomslära
+
+och förskrivningsrätt av vissa läkemedel 15 hp och Hemsjukvård och avancerad omvårdnad
+
+i hemmet 15 hp.
+
+Linnéuniversitetet
+
+Sjuksköterskeprogrammet: Valbar kurs: Komplementär och alternativ medicin i ett vård-
+
+vetenskapligt perspektiv 7,5 hp.
+
+Malmö universitet
+
+Mittuniversitetet
+
+Högskolor
+
+Blekinge Tekniska
+
+Sjuksköterskeprogrammet: Del av en föreläsning ”Farmakologi vid ohälsa” i kursen Om-
+
+Högskola
+
+vårdnad vid ohälsa där icke-farmakologisk behandling vid smärta tas upp, t.ex. TENS och
+
+taktil massage.
+
+Specialistsjuksköterskeprogrammet: Distriktssköterska: del av en föreläsning ”Äldre och
+
+läkemedel” i kursen Farmakologi och sjukdomslära inriktad mot förskrivningsrätt av vissa
+
+läkemedel där icke-farmakologisk behandling vid smärta tas upp, t.ex. TENS och taktil
+
+massage.
+
+Högskolan i Borås
+
+Högskolan Dalarna
+
+Magisterprogrammet i fysioterapi: Vissa år ges kursen Smärta och sensorisk behandling
+
+inom magisterprogrammet i fysioterapi och även som fristående kurs för legitimerad vård-
+
+personal. Kursen innehåller inslag av västerländsk medicinsk akupunktur och TENS.
+
+Kursen gavs dock inte år 2017 eller 2018.
+
+Högskolan i Gävle
+
+Sjuksköterskeprogrammet: Akupunktur tas upp i samband med undervisning om smärta
+
+och förlossningssmärta i kurserna: Folksjukdomar och långvariga sjukdomstillstånd ur ett
+
+vårdande och medicinskt perspektiv och Pediatrik, pediatrisk omvårdnad, sexuell och re-
+
+produktiv hälsa samt farmakologi. Inslagen motsvarar högst 0,5 hp vardera.
+
+Högskolan Kristianstad
+
 3
 
 <!-- sida 685 -->
@@ -35736,219 +31743,93 @@ naloksgöH
 SOU 2019:15                                   Bilaga 5
 
 573
-ragnindlibtusgardppU
-resruk
-edneåtsirF
-ragnindlibtumargorP
-etäsoräL
-tllenoisseforP
-,ph
-9 tednadöfanrab
-alamroN :anresruk
-i galsnI
-:temmargorpeksromnraB
-edvökS
-i naloksgöH
-avitkudorper
-hco
-alleuxes
-sronnivK
-hco ph 5,7
-ednadöfanrab
-tarecilpmok
-hco
-ednallåhröf
-.h
-51
-evitkepser
-h 13 ,h
-42 raravstom
-negalsnI
-.ph
-6 asläh
-va
-dråv
-div
-rutknupukA
-.ph 5,7
-dråv vitaillaP
-nesruk
-i galsni
-tetiL
-:temmargorpeksretökskujS
-tsäV naloksgöH
-ksikysp
-dem
-renosrep
-–
-igolonimirK
-nesruk
-i
-ssenlufdnim
-hco agoy
-mo gninsäleröf
-nE :dråv
-ksirtaikysplaicoS
-aksirtaikysp
-hco
-asläho
-anresruk
-i ramodkujstsegnå
-mo gninsäleröf
-ne va
-led tmas
-asläho
-ksikysp
-hco
-dråvlanimirk
-:ppurglåM
-.ph
-5,7
-dnåtsllit
-agnu
-hco
-ramodgnu
-,nrab
-gnintkirni
-,dråv ksirtaikysP
-hco
-dnåtsllit
-tksirtaikysp
-div dråV
--laicos
-,roksretökskujs
-.anxuv
-,edadlibtudråv
-tksirtaikysp
-ragninrötssgnilkcevtuoruen
-mo ragninsäleröf
-va
-leD :temmargorpeksretökskujstsilaicepS
-.lf.m
-erakäl
-,regolokysp
-va
-led
-tmas
-vitkepsrep
-akilo – dråv
-ksirtaikysP
-nesruk
-i )DSTP(
-ramodkujstsegnå
-mo
-hco
-sramodgnu
-hco
-snraB
-nesruk
-i ednatömeb
-tvitkeffagål
-hco
-ramodkujstsegnå
-mo
-gninsäleröf
-nesruk
-i
-:temmeh
-i dråv
-darecnava
-tom gnintkirni
-dem
-aksretöksstkirtsiD
-.asläho/asläh
-.murofsnoissuksid
-i tlla röfmarf
-,MAK sröreb
-ph
-5,7 edekstuls
-stevil
-i
-dråv
-vitaillaP
-aloksgöh
-sneladraläM
-aloksgöh
-snrötredöS
-erandronasgnindlibtu
-adliksnE
-tte
-–
-egassam
-hco
-gniröreB
-ekcärB
-ladnökS
-atsrE
-nedandråvmo
-i tnemelpmok
-aloksgöh
-:ppurglåM
-.)ragad
-3(
-ph
-5,3
-nanna
-hco
-roksretökskujs
-lanosrepdråv
-daremitigel
-.roksretöksrednu
-tmas
-gnipöknöJ
-i naloksgöH
--dlibtueksretökskujs
-i ph
-5,7 åp tnemom
-trablav
-tte rågni
-teD
-:temmargorpeksretökskujS
-aloksgöH
-stesroK
-adöR
-aks
-ed
-tta tellåhebröf
-dem
-,MAK moni
-resruk asäl
-tta tehgiljöm
-åd rah
-anretnedutS
-.negnin
-.dandråvmo
-mos
-sarögodogllit
-annuk
-aloksgöH
-temmehaihpoS
-,tetisrevinu
-aksinket
-åeluL
-,mlohkcotS
-i
-naloksgöhkisuM
-.lgnuK
-,datsmlaH
-i naloksgöH
-,snedivE
-naloksgöH
-,nesletfitsacirE
-:netäkne
-åp
-taravs
-etni
-mos netäsoräL
-.iparetokysP
-vitingoK
-röf tetutitsnI
-aksnevS
-hco
-gnilkcevtuiparetokysP
-röf
-imedakA
-sneivanidnakS
+
+Lärosäte
+
+Programutbildningar
+
+Fristående kurser
+
+Uppdragsutbildningar
+
+Högskolan i Skövde
+
+Barnmorskeprogrammet: Inslag i kurserna: Normala barnafödandet 9 hp, Professionellt
+
+förhållande och komplicerat barnafödande 7,5 hp och Kvinnors sexuella och reproduktiva
+
+hälsa 6 hp. Inslagen motsvarar 24 h, 31 h respektive 15 h.
+
+Högskolan Väst
+
+Sjuksköterskeprogrammet: Litet inslag i kursen Palliativ vård 7,5 hp.
+
+Akupunktur vid vård av
+
+Socialpsykiatrisk vård: En föreläsning om yoga och mindfulness i kursen Kriminologi –
+
+personer med psykisk
+
+kriminalvård och psykisk ohälsa samt del av en föreläsning om ångestsjukdomar i kurserna ohälsa och psykiatriska
+
+Vård vid psykiatriskt tillstånd och Psykiatrisk vård, inriktning barn, ungdomar och unga
+
+tillstånd 7,5 hp. Målgrupp:
+
+vuxna.
+
+sjuksköterskor, social-
+
+Specialistsjuksköterskeprogrammet: Del av föreläsningar om neuroutvecklingsstörningar psykiatriskt vårdutbildade,
+
+och om ångestsjukdomar (PTSD) i kursen Psykiatrisk vård – olika perspektiv samt del av
+
+psykologer, läkare m.fl.
+
+föreläsning om ångestsjukdomar och lågaffektivt bemötande i kursen Barns och ungdomars
+
+hälsa/ohälsa. Distriktssköterska med inriktning mot avancerad vård i hemmet: i kursen
+
+Palliativ vård i livets slutskede 7,5 hp berörs KAM, framför allt i diskussionsforum.
+
+Mälardalens högskola
+
+Södertörns högskola
+
+Enskilda utbildningsanordnare
+
+Ersta Sköndal Bräcke
+
+Beröring och massage – ett
+
+högskola
+
+komplement i omvårdnaden
+
+3,5 hp (3 dagar). Målgrupp:
+
+sjuksköterskor och annan
+
+legitimerad vårdpersonal
+
+samt undersköterskor.
+
+Högskolan i Jönköping
+
+Röda Korsets Högskola
+
+Sjuksköterskeprogrammet: Det ingår ett valbart moment på 7,5 hp i sjuksköterskeutbild-
+
+ningen. Studenterna har då möjlighet att läsa kurser inom KAM, med förbehållet att de ska
+
+kunna tillgodogöras som omvårdnad.
+
+Sophiahemmet Högskola
+
+Lärosäten som inte svarat på enkäten: Ericastiftelsen, Högskolan Evidens, Högskolan i Halmstad, Kungl. Musikhögskolan i Stockholm, Luleå tekniska universitet,
+
+Skan dinaviens Akademi för Psykoterapiutveckling och Svenska Institutet för Kognitiv Psykoterapi.
+
 4
 
 <!-- sida 686 -->
@@ -37537,285 +33418,199 @@ sammanställningen.
 SOU 2019:15                                   Bilaga 5
 
 609
-)5.6
-ttinsva
-röhllit(
-gninggältrak
-snegnindertu
-i
-rågni
-mos
-gnindnävna-MAK
-revö
-reidutssgninklofeb
-va
-gninttafnammaS
-5 llebaT
-:gnindnävna
-i danlliks
-dasivåP
-va
-gninttafmO
-röf
-marsdiT
-lebairavtäM
-ravs
-latnA
-netäkne
-åd
-rÅ
-snerefeR
-näm
-hco ronnivk
-nallem
-•
-)%(
-gnindnävna
-gnindnävna
-snevkerfsravS
-sedaravseb
-reppurgsredlå
-nallem
-•
-dotemtäknE
-reåvinsgnindlibtu
-nallem
-•
-asläh dvelppuvläjs
-åp
-edneoreb
-•
-näm hco
-ronnivk
-nallem danlliks
-dasivåp
-negnI
-•
+
+Tabell 5
+
+Sammanfattning av befolkningsstudier över KAM-användning som ingår i utredningens kartläggning (tillhör avsnitt 6.5)
+
+Referens
+
+År då enkäten Antal svar
+
+Mätvariabel
+
+Tidsram för
+
+Omfattning av Påvisad skillnad i användning:
+
+besvarades
+
+Svarsfrekvens
+
+användning
+
+användning (%) • mellan kvinnor och män
+
+Enkätmetod
+
+• mellan åldersgrupper
+
+• mellan utbildningsnivåer
+
+• beroende på självupplevd hälsa
+
+Alternativmedicin-
+
+1985
+
+20 478
+
+Alternativ terapeut1
+
+Någon gång
+
 22
-gnåg
-nogåN
-1tueparet
-vitanretlA
-874
-02
-5891
--nicidemvitanretlA
-rå 54 revö renosrep
-soh
-eragilnaV
-•
-%
-19
-ujvretninofeleT
-A7891
-néttimmok
-ronnivk
-dnalb
-eragilnaV
-•
-81
-)1
-etsanes
-eD
-nanna”
-relle
-renimatiV
-)1
-246
-41
-18–0891
-B1002
-.la
-te reresseM
-4 )2
-anrokcev
-2
-2”nicidem
-ednakräts
-%
-68
-ujvretnisköseB
-ledemekälrutaN
-)2
-ronnivk
-dnalb
-eragilnaV
-•
-91
-)1
-navo
-eS
-navo
-eS
-193
-21
-98–8891
-B1002
-.la
-te reresseM
-8 )2
-%
-08
-ronnivk
-dnalb
-eragilnaV
-•
-82
-)1
-navo
-eS
-navo
-eS
-165
-11
-79–6991
-,B1002
-.la
-te reresseM
--sredlå
-atsdlä
-ned
-i tsagilnav
-rav negnindnävnA
-)1
-•
-11
-)2
-%
-87
-Cb1002
-.la
-te reresseM
-sgås gnindnävna
-dakö nE
-)2 .)rå 48–57(
-neppurg
-ned rav
-ronnivk
-soh nadem
-,näm soh
-nredlå
-dem
-.rå
-46–55
-nredlå
-i negnindnävna
-atsgöh
-gnindlibtu
-ergnäl dem
-näm dnalb
-eragilnaV
-•
-asläh
-dvelppuvläjs
-gål dem
-näm röf
-eragilnaV
-•
-ronnivk
-dnalb
-eragilnaV
-•
+
+• Ingen påvisad skillnad mellan kvinnor och män
+
+kommittén 1987A
+
+Telefonintervju
+
+91 %
+
+• Vanligare hos personer över 45 år
+
+Messerer et al. 2001B 1980–81
+
+14 642
+
+1\) Vitaminer eller ”annan De senaste
+
+1\) 18
+
+• Vanligare bland kvinnor
+
+Besöksintervju
+
+86 %
+
+stärkande medicin”2
+
+2 veckorna
+
+2\) 4
+
+2\) Naturläkemedel
+
+Messerer et al. 2001B 1988–89
+
+12 391
+
+Se ovan
+
+Se ovan
+
+1\) 19
+
+• Vanligare bland kvinnor
+
+80 %
+
+2\) 8
+
+Messerer et al. 2001B, 1996–97
+
+11 561
+
+Se ovan
+
+Se ovan
+
+1\) 28
+
+• Vanligare bland kvinnor
+
+Messerer et al. 2001bC
+
+78 %
+
+2\) 11
+
+• 1) Användningen var vanligast i den äldsta ålders-
+
+gruppen (75–84 år). 2) En ökad användning sågs
+
+med åldern hos män, medan hos kvinnor var den
+
+högsta användningen i åldern 55–64 år.
+
+• Vanligare bland män med längre utbildning
+
+• Vanligare för män med låg självupplevd hälsa
+
+Wallström et al. 1996D 1991–1992
+
+6 545
+
+KAM-preparat3
+
+Vid den aktuella
+
 22
-alleutka
-ned
-diV
-3taraperp-MAK
-545
-6
-2991–1991
-D6991
-.la
-te
-mörtsllaW
-näm
-soh
-nredlå
-dem eradnävna
-ledna
-ednakÖ
-•
-netknupdit
-ralkO
-kobgaD
-gnindlibtu
-ergnäl
-dem ronnivk
-dnalb
-eragilnaV
-•
-)akcev
-ne
-rednu(
-)akcev
-ne
-i(
-asläh
-dvelppuvläjs
-gål dem ronnivk
-dnalb
-eragilnaV
-•
-ronnivk
-dnalb
-eragilnaV
-•
-23
-terå
-edneågeröF
-4taraperp-MAK
-728
-4991
-E0002
-.la
-te idniW-lA
-reppurgsredlå
-nallem danlliks
-dasivåp
-negnI
-•
-%
-36
-täknetsoP
-asläh
-dvelppuvläjs
-gål div
-eragilnaV
-•
-ronnivk
-dnalb
-eragilnaV
-•
-13
-etsanes
-eD
-5taraperp-MAK
-497
-5
-9991
-F1002
-.la
-te nossliN
-reppurgsredlå
-nallem danlliks
-dasivåp
-negnI
-•
-anrokcev
-2
-%
-27
-gningatvorp
-diV
-gnindlibtu
-ergnäl div
-eragilnaV
-•
-asläh
-dvelppuvläjs
-gål div
-eragilnaV
-•
+
+• Vanligare bland kvinnor
+
+Dagbok
+
+Oklar
+
+tidpunkten
+
+• Ökande andel användare med åldern hos män
+
+(i en vecka)
+
+(under en vecka)
+
+• Vanligare bland kvinnor med längre utbildning
+
+• Vanligare bland kvinnor med låg självupplevd hälsa
+
+Al-Windi et al. 2000E 1994
+
+827
+
+KAM-preparat4
+
+Föregående året
+
+32
+
+• Vanligare bland kvinnor
+
+Postenkät
+
+63 %
+
+• Ingen påvisad skillnad mellan åldersgrupper
+
+• Vanligare vid låg självupplevd hälsa
+
+Nilsson et al. 2001F
+
+1999
+
+5 794
+
+KAM-preparat5
+
+De senaste
+
+31
+
+• Vanligare bland kvinnor
+
+Vid provtagning 72 %
+
+2 veckorna
+
+• Ingen påvisad skillnad mellan åldersgrupper
+
+• Vanligare vid längre utbildning
+
+• Vanligare vid låg självupplevd hälsa
+
 3
 
 <!-- sida 722 -->
@@ -37823,262 +33618,181 @@ eragilnaV
 Bilaga 5                                   SOU 2019:15
 
 610
-:gnindnävna
-i danlliks
-dasivåP
-va
-gninttafmO
-röf
-marsdiT
-lebairavtäM
-ravs
-latnA
-netäkne
-åd
-rÅ
-snerefeR
-näm hco
-ronnivk
-nallem
-•
-)%(
-gnindnävna
-gnindnävna
-snevkerfsravS
-sedaravseb
-reppurgsredlå
-nallem
-•
-dotemtäknE
-reåvinsgnindlibtu
-nallem
-•
-asläh dvelppuvläjs
-åp
-edneoreb
-•
-ronnivk
-dnalb
-eragilnaV
-•
-94
-)1
-gnåg
-nogåN
-)1
--mok
-relle
--vitanretlA
-100
-1
-0002
-hco
-eramlohkcotS
-evitkepser
-rå 02
-rednu renosrep
-röf gatnadnu
-deM
-•
-02
-)2
-terå
-etsanes
-teD
-)2
-ksnicidemrätnemelp
-%
-36
-ujvretninofeleT
-arätnemelpmok
-ned
--re
-rav
-,gnindnävna
-ergäl ne edah
-mos
-,rå 07 revö
-6eraldnaheb
-G1002
-nenicidem
-.anrardlå
-revö
-daledröf tnmäj
-tvitaler
-netehneraf
-gnindlibtu ergnäl
-div
-eragilnaV
-•
-vitanretla
-soh
-köseb röF .ronnivk
-dnalb
-eragilnaV
-•
-71
-)1
-terå
-edneågeröF
-vitanretla
-soh
-köseB
-)1
-334
-1
+
+Referens
+
+År då enkäten Antal svar
+
+Mätvariabel
+
+Tidsram för
+
+Omfattning av Påvisad skillnad i användning:
+
+besvarades
+
+Svarsfrekvens
+
+användning
+
+användning (%) • mellan kvinnor och män
+
+Enkätmetod
+
+• mellan åldersgrupper
+
+• mellan utbildningsnivåer
+
+• beroende på självupplevd hälsa
+
+Stockholmare och
+
+2000
+
+1 001
+
+Alternativ- eller kom-
+
+1\) Någon gång
+
+1\) 49
+
+• Vanligare bland kvinnor
+
+den komplementära
+
+Telefonintervju
+
+63 %
+
+plementärmedicinsk
+
+2\) Det senaste året
+
+2\) 20
+
+• Med undantag för personer under 20 år respektive
+
+medicinen 2001G
+
+behandlare6
+
+över 70 år, som hade en lägre användning, var er-
+
+farenheten relativt jämnt fördelad över åldrarna.
+
+• Vanligare vid längre utbildning
+
+1\) Al-Windi 2004H
+
 2002
-H4002
-idniW-lA
-)1
-tnakifingis
-tksitsitats
-etni nedanlliks
-rav
-eraldnaheb
-22
-)2
-7eraldnaheb
-%
-18
-åp
-köseb
-diV
-Ib4002
-idniW-lA
-)2
-.)srednuofnoc(
-rerotkafröts
-röf gniretsuj
-retfe
-8taraperp-MAK
-)2
-lartnecdråv
-agni
-ted
-gåleröf
-rerotkafröts
-röf gniretsuj
-retfE
-•
--sredlå
-nallem
-redanlliks atnakifingis
-tksitsitats .anreppurg
--sgnindlibtu
-nallem danlliks
-dasivåp
-negnI )1
-•
-soh
-gnindlibtu
-ergnäl div
-eragilnaV
-)2 .reåvin
-taraperp-MAK ednävna
-mos ronnivk
-agni
-ted
-gåleröf
-rerotkafröts röf
-gniretsuj
-retfE )1
-•
--vläjs
-åp
-edneoreb
-redanlliks atnakifingis
-tksitsitats
-edneoreb
-danlliks
-dasivåp negnI
-)2 .asläh
-dvelppu
-asläh
-dvelppuvläjs
-åp
-taraperp-MAK
-dem ronnivk
-dnalb
-eragilnaV
-•
-45
-)1
-gnåg
-nogåN
-)1
-9MAK
-482
-1
-4002
-hco
-rätnemelpmoK
--na
-rav
-)rå
-42
-hco 81( anreppurgsredlå
-ergny ed
-I
-•
-23
-)2
-terå
-etsanes
-teD
-)2
-%
-46
-täknetsoP
-ne
-nicidem
-vitanretla
-.tsröts MAK tnävna
-girdla
-mos neled
-,eidutssgniretnevni
-asläh
-dvelppuvläjs
-gål div
-eragilnaV
-•
-,tehne-UoF
-egnikelB
-J5002
-taraperp-MAK
-dem ronnivk
-dnalb
-eragilnaV
-•
-7
-)1
-terå
-etsanes
-teD
-)1
-01eraldnaheb
-vitanretlA
-)1
-768
-9
-5002–4002
-hco
--aslähO
-,BCS
-71
-)2
-etsanes
-eD
-)2
-11ledemekälrutaN
-)2
-%
-57
-ujvretnisköseB
-,5002–0891
-dråvkujs
-anrokcev
-åvt
-K6002
+
+1 433
+
+1\) Besök hos alternativ Föregående året
+
+1\) 17
+
+• Vanligare bland kvinnor. För besök hos alternativ
+
+2\) Al-Windi 2004bI
+
+Vid besök på
+
+81 %
+
+behandlare7
+
+2\) 22
+
+behandlare var skillnaden inte statistiskt signifikant
+
+vårdcentral
+
+2\) KAM-preparat8
+
+efter justering för störfaktorer (confounders).
+
+• Efter justering för störfaktorer förelåg det inga
+
+statistiskt signifikanta skillnader mellan ålders-
+
+grupperna.
+
+• 1) Ingen påvisad skillnad mellan utbildnings-
+
+nivåer. 2) Vanligare vid längre utbildning hos
+
+kvinnor som använde KAM-preparat
+
+• 1) Efter justering för störfaktorer förelåg det inga
+
+statistiskt signifikanta skillnader beroende på själv-
+
+upplevd hälsa. 2) Ingen påvisad skillnad beroende
+
+på självupplevd hälsa
+
+Komplementär och
+
+2004
+
+1 284
+
+KAM9
+
+1\) Någon gång
+
+1\) 54
+
+• Vanligare bland kvinnor med KAM-preparat
+
+alternativ medicin en Postenkät
+
+64 %
+
+2\) Det senaste året
+
+2\) 32
+
+• I de yngre åldersgrupperna (18 och 24 år) var an-
+
+inventeringsstudie,
+
+delen som aldrig använt KAM störst.
+
+Blekinge FoU-enhet,
+
+• Vanligare vid låg självupplevd hälsa
+
+2005J
+
+SCB, Ohälsa- och
+
+2004–2005
+
+9 867
+
+1\) Alternativ behandlare10 1) Det senaste året
+
+1\) 7
+
+• Vanligare bland kvinnor med KAM-preparat
+
+sjukvård 1980–2005, Besöksintervju
+
+75 %
+
+2\) Naturläkemedel11
+
+2\) De senaste
+
+2\) 17
+
+2006K
+
+två veckorna
+
 4
 
 <!-- sida 723 -->
@@ -38086,335 +33800,133 @@ K6002
 SOU 2019:15                                   Bilaga 5
 
 611
-:gnindnävna
-i danlliks
-dasivåP
-va gninttafmO
-röf
-marsdiT
-lebairavtäM
-ravs latnA
-netäkne
-åd rÅ snerefeR
-näm
-hco ronnivk
-nallem •
-)%( gnindnävna
-gnindnävna
-snevkerfsravS
-sedaravseb
-reppurgsredlå
-nallem •
-dotemtäknE
-reåvinsgnindlibtu
-nallem •
-asläh dvelppuvläjs
-åp edneoreb •
-ronnivk
-dnalb
-eragilnaV •
-34 )1
-gnåg
-nogåN
-21gnildnaheb
-vitargetnI
-)1
-020 1
-5102 gninkösrednu-suvoN
-ted
-rav )rå 92–81( neppurgsredlå
-atsgny ned I •
-34 )2
-sulp ledemekälrutaN
-)2
-je
-segnA
-daresabbeW
-L5102
-vitargetni
-ne ttågmoneg mos
-tettinsmoneg
-nä erräf
-arätnemelpmok
-ardna
-.gnildnaheb
--elpmok
-mos
-ledemekäl
--osläh
-darelbate
-llit tnem
-31dråvkujs
-hco
-ronnivk
-dnalb
-eragilnaV •
-17
-terå
-etsanes
-teD
--mok
-hco
-vitanretlA
-435 1
-6102 -retla va gnindnävnA
-reppurgsredlå
-ergny dnalb
-eragilnaV •
-nicidem
-rätnemelp
-% 13
-daresabbeW
-rätnemelpmok hco
-vitan
-gnindlibtu
-ergnäl
-div eragilnaV •
-41)MKA(
-enåkS i )MKA(
-nicidem
-asläh dvelppuvläjs
-åp edneoreb
-danlliks
-dasivåp negnI •
-M6102
-retontoF
-ne va
-åstlla – ednankil
-relle erakälrutan
-,tapoemoh
-,rötknupuka
-,tueparetnoz
-,rotkarporik
-va rävseb
-tksikysp
-relle
-tgilsppork
-röf
-staldnaheb
-nisnogån ud raH :döl
-nagårF1
-motussed
-hco segna ednuk
-redotem
-akilo 12 .tlläg
-ted
-gnildnaheb
-va pyt
-nekliv
-hco
-tteks
-negnildnaheb
-rän va eslevigna
-dem
-ppu
-sedjlöf
-agårf anneD ?tueparet vitanretla .segna gnildnaheb nanna
-ednu
-k
-?ledemekälrutan
-tnävna anrokcev
-åvt
-etsanes ed rednu
-ud rah
-evitkepser
-”nicidem
-ednakräts
-nanna
-relle
-renimativ”
-tnävna
-anrokcev
-åvt
-etsanes
-ed rednu ud raH :döl anrogårF2
-.anrogårf
-i rem etni sareinifed neppergeB
-ned
-räd hco rujd relle aksinnäm
-soh gnindnävna
-lamron
-div
-retkeffe
-agildaks
-akasro
-etni
-satna
-nak
-mos
-taraperp
-tte
-mos sedareinifed
-)seidemer
-larutan( taraperp-MAK
-3
-nosrep
-nE .etni sedaredulkni
-reettrÖ
-.tlas va gninsöl
-relle
-tlas
-,rutluk
-lleiretkab
-ednammokeröf
-tgilrutan
-relle larenim
-,rujd
-tte
-relle
-txäv
-ne
-va led ne rä netnenopmok
-avitka
-dnalB .taraperp-MAK
-va eradnävna
-arav sgåsna resnatsbus
-anvigna
-dar ne
-va
-nogån
-llöhenni
-mos
-taraperp
-tte tnävna
-gnirertsiger
-va
-anragad
-ujs ed rednu gnåg nogån
-mo
-s
-.retnadixoitna
-hco rorysonima
-,renietorp
-,arev
-eola
-,gnesnig
-,költiv
-,ajloksif
-tanna
-dnalb
-kcigni anresnatsbus anvigna
-ed
-natu
-,svag vitanretlasravs
-atsaf
-agnI ”?erusaem
-evitneverp
-a
-sa ro ssenlli
-rof
-rehtie ,3991
-ni
-senicidem
-labreh
-.g.e
-seidemer
-doof
-htlaeh
-yna yub uoy diD“ :döl
-nagårF4
-.3991
-rå rednu
-tnävna
-ed
-mos
-taraperp
-atsil tta sedanamppu netneitap
-mosås(
-erakäl va stivirksröf
-etni mos
-resnatsbus ardna
-hco
-renimativ
-,relarenim
-mos
-sedareinifed
-)seidemer
-]MAC[
-enicidem
-evitanretla
-dna
-yratnemelpmoc( taraperp-MAK
-5
-atsil tta
-sedanamppu netneitap
-natu
-,svag vitanretlasravs
-atsaf
-agnI
-.)ledemekäl
-aksitapoemoh
-hco
-ajloksif
-,aecanihce
-,anairelav
-,abolibogknig
-,gnesnig ,költiv ,lesik
-,01Q
-.anrokcev
-åvt
-etsanes
-ed tnävna ed mos taraperp-MA
-K
--oportna
-,rutknupuka rav
-ppu setsäl
-mos anreipareT
-.terå
-etsanes
-ted hco
-gnåg
-nogån
-mosås
-rogårfdjlöf
-va tjlöF ?reiparet
-ednajlöf
-va
-ud
-rah
-tehnerafre nekliV :döl
-nagårF6
-.iparetnoz
-hco iparetnesoR
-,ledemekälrutan
-,itaparpan
-,egassam
-,iparetllatsirk
-,kitkarporik
-,igoloisenik
-,itapoemoh
-,gnilaeh ,nicidem
-ksifos
--nok ednaravs
-ned mo sedagårfretfe
-netäkne I .nicidem
-llenoitnevnoko
-mos
-nä
-erarans
-nicidem
-ksitapolla-ekci
-mos
-relle
-,reiparet
-alleunam
-mos MAK sedareinifed neiduts
-I 7
-.terå
-edneågeröf
-ted rednu reiparet
-ardna
-relle
-itaparpan
-relle
-kitkarporik
-,rutknupuka
-,egassam
-moni
-sivlepmexe
-eraldnaheb
-vitanretla nogån
-taretlus
+
+Referens
+
+År då enkäten Antal svar
+
+Mätvariabel
+
+Tidsram för
+
+Omfattning av Påvisad skillnad i användning:
+
+besvarades
+
+Svarsfrekvens
+
+användning
+
+användning (%) • mellan kvinnor och män
+
+Enkätmetod
+
+• mellan åldersgrupper
+
+• mellan utbildningsnivåer
+
+• beroende på självupplevd hälsa
+
+Novus-undersökning 2015
+
+1 020
+
+1\) Integrativ behandling12 Någon gång
+
+1\) 43
+
+• Vanligare bland kvinnor
+
+2015L
+
+Webbaserad
+
+Anges ej 2) Naturläkemedel plus
+
+2\) 43
+
+• I den yngsta åldersgruppen (18–29 år) var det
+
+andra komplementära
+
+färre än genomsnittet som genomgått en integrativ
+
+läkemedel som komple-
+
+behandling.
+
+ment till etablerad hälso-
+
+och sjukvård13
+
+Användning av alter- 2016
+
+1 534
+
+Alternativ och kom-
+
+Det senaste året
+
+71
+
+• Vanligare bland kvinnor
+
+nativ och komplementär Webbaserad
+
+31 %
+
+plementär medicin
+
+• Vanligare bland yngre åldersgrupper
+
+medicin (AKM) i Skåne
+
+(AKM)14
+
+• Vanligare vid längre utbildning
+
+2016M
+
+• Ingen påvisad skillnad beroende på självupplevd hälsa
+
+Fotnoter
+
+1 Frågan löd: Har du någonsin behandlats för kroppsligt eller psykiskt besvär av kiropraktor, zonterapeut, akupunktör, homeopat, naturläkare eller liknande – alltså av en
+
+alternativ terapeut? Denna fråga följdes upp med angivelse av när behandlingen skett och vilken typ av behandling det gällt. 21 olika metoder kunde anges och dessutom
+
+k unde annan behandling anges.
+
+2 Frågorna löd: Har du under de senaste två veckorna använt ”vitaminer eller annan stärkande medicin” respektive har du under de senaste två veckorna använt naturläkemedel?
+
+Begreppen definieras inte mer i frågorna.
+
+3 KAM-preparat (natural remedies) definierades som ett preparat som kan antas inte orsaka skadliga effekter vid normal användning hos människa eller djur och där den
+
+aktiva komponenten är en del av en växt eller ett djur, mineral eller naturligt förekommande bakteriell kultur, salt eller lösning av salt. Örtteer inkluderades inte. En person
+
+s om någon gång under de sju dagarna av registrering använt ett preparat som innehöll någon av en rad angivna substanser ansågs vara användare av KAM-preparat. Bland
+
+de angivna substanserna ingick bland annat fiskolja, vitlök, ginseng, aloe vera, proteiner, aminosyror och antioxidanter.
+
+4 Frågan löd: “Did you buy any health food remedies e.g. herbal medicines in 1993, either for illness or as a preventive measure?” Inga fasta svarsalternativ gavs, utan
+
+patienten uppmanades att lista preparat som de använt under år 1993.
+
+5 KAM-preparat (complementary and alternative medicine [CAM] remedies) definierades som mineraler, vitaminer och andra substanser som inte förskrivits av läkare (såsom
+
+Q10, kisel, vitlök, ginseng, ginkgo biloba, valeriana, echinacea, fiskolja och homeopatiska läkemedel). Inga fasta svarsalternativ gavs, utan patienten uppmanades att lista
+
+K AM-preparat som de använt de senaste två veckorna.
+
+6 Frågan löd: Vilken erfarenhet har du av följande terapier? Följt av följdfrågor såsom någon gång och det senaste året. Terapierna som lästes upp var akupunktur, antropo-
+
+sofisk medicin, healing, homeopati, kinesiologi, kiropraktik, kristallterapi, massage, naprapati, naturläkemedel, Rosenterapi och zonterapi.
+
+7 I studien definierades KAM som manuella terapier, eller som icke-allopatisk medicin snarare än som okonventionell medicin. I enkäten efterfrågades om den svarande kon-
+
+sulterat någon alternativ behandlare exempelvis inom massage, akupunktur, kiropraktik eller naprapati eller andra terapier under det föregående året.
+
 5
 
 <!-- sida 724 -->
@@ -38422,344 +33934,79 @@ taretlus
 Bilaga 5                                   SOU 2019:15
 
 612
-,retkudorp
-latna
-egna
-ed
-sdabmo
-aj
-edaravs
-ed llaf ted
-I .terå edneågeröf ted rednu
-)enicidem
-labreh(
-taraperp-MAK
-togån tnävna edah ednaravs
-ned mo sedagårf
-netäkne
-I8
-.tednadnävna
-llit negnindelna hco
-nmantkudorp
-vitanretlasravs
-mo tralko
-rä teD
-.terå
-etsanes
-ted mo agårf
-ammas va tjlöF ?iparet
-vitanretla
-hco rätnemelpmok
-va
-mrof nogån va gid tnävna
-gnåg nogån ud raH
-:döl nagårF
-9
-.svag gniralkröf rem
-nogån
-relle
-relle
-tueparetnoz)iii(
-,rötknupuka)ii(
-tapoetso
-,taparpan)i( va rävseb
-tksikysp
-relle
-tgilsppork
-röf
-staldnaheb
-anredanåm 21 etsanes
-ed rednu ud raH
-:döl nagårF01
-?negilmän
-,nanna
-nogån )v( relle erakälrutan
-,tapoemoh )vi(
-,rösserpuka
-?ledemekälrutan
-tnävna anrokcev åvt etsanes
-ed rednu ud raH
-:döl nagårF
-11
--sgnildnaheb
-aksnicidem
-arätnemelpmok
-edavörpeb
-läv dem sarenibmok ledemekäl
-aksnicidemloks
-hco
-dråv
-llenoitnevnok rän mos sedareinifed
-gnildnaheb
-vitargetnI21
-moni
-gnindlibtueradiv
-dem
-erakäl
-edadlibtu
-tksnicidemloks
-va sarenidro dråv
-vitargetni
-tta svagna
-eradiV
-.ledemekälrutan
-hco egassam
-,kitkarporik sivlepmexe
-,redote
-m
-.nedårmo
-asse
-d
-?nicidemloks
-llenoitnevnok
-llit tnemelpmok
-mos ledemekäl
-arätnemelpmok
-ardna
-relle
-ledemekälrutan
-va gid tnävna
-gnåg nogån ud raH
-:döl nagårF31
--tsok
-relle
-nicidemtrö
-,ledemrutan
-va gatni
-,)rötknupuka
-relle rössam sivlepmexe(
-eravigdråv
-soh köseb
-räh
-raredulkni
-nicidem rätnemelpmok
-hco vitanretla va
-gnindnävnA41
-eravigdråv
-llenoitnevnok
-soh
-gnildnaheb
-rätnemelpmok
-va ednagattom etni saredulkni
-narffis
-I .gninppalsva
-relle
-agoy mos redotemspläjhvläjs
-va gnindnävna
-tmas ,ttoksl
-lit
-.svag ravstxetirf
-llit tehgiljöm
-mo
-tralko
-rä
-teD
-.llit gninlläts at tta redotem
-assiv svag teD .ssimer
-åp
-rel
-le
-resnerefeR
-.7891
-;tegalröf
-annämllA
-:mlohkcotS
-.néttimmoknicidemvitanretlA
-nårf
-tropparled
-ne :nicidem
-vitanretla
-mo retsör hco atkaF
-.néttimmoknicidemvitanretlAA
-.enicidem
-lanretni
-fo lanruoJ
-.s0991 eht
-gnirud yllacitamard desaercni
-seidemer
-larutan
-dna
-stnemelppus
-yrateid fo esU .A
-kloW ,ES nossnahoJ
-,M reresseMB
-.80/80/1002
-bupE .6–061:)2(052;100
-2
-lacinilc
-fo lanruoj
-naeporuE
-.sresu
-ydemer
-larutan
-dna tnemelppus yrateid
-gnoma
-srotcaf
-ruoivaheb
-htlaeh
-dna cihpargomedoicoS .A
-kloW ,ES nossnahoJ
-,M reresseM
-C
-.01/10/2002 bupE
-.01-4011:)21(55;1002
-.noitirtun
-laicosohcysp
-dna
-cihpargomed
-:noitalupop
-dega-elddim
-a ni seidemer
-larutan
-fo
-sresu
-dna
-egasU
-.SB
-nosnaH
-,OP nergretsO ,U nossnahoJ
-,S lhatsmlE
-,P mortsllaW
-D
-.10/90/6991
-bupE .41-303:)5(5;6991
-.ytefas gurd
-dna ygoloimedipeocamrahP
-.ydutS
-recnaC dna teiD omlaM
-eht morf stluseR .scitsiretcarahc
-erac-fles
-dna senicidem
-labreh
-,slacituecamrahp
-fo esu eht dna ,smotpmys
-dna gnieb-llew
-,redneg
-,ega
-neewteb
-pihsnoitaler ehT .K ddusdravS
-,D tdlefmlE
-,A idniW-lA
-E
-.32/80/0002 bupE .7-113:)4(65;0002
-.ygolocamrahp
-lacinilc
-fo lanruoj naeporuE .ytilapicinum
-hsidewS
-a ni stcudorp
-nedewS
-nrehtron
-eht
-nihtiw
-yduts
-lanidutignol
-desab-noitalupop
-A .nedewS
-ni seidemer
-enicidem
-evitanretla
-dna yratnemelpmoc fo esU
-.K dnulpsA ,G nherT
-,M nossliN
-F
-.41/90/1002
-bupE
-.33–522:)3(052;1002
-.enicidem
-lanretni fo lanruoJ .esaesiD
-ralucsavoidraC
-fo stnanimreteD
-dna sdnerT fo gnirotinoM
-lanoitanitluM .tcejorP
-ACINOM
-,NSH
-:mlohkcotS
-.nicidem
-rätnemelpmok
-va
-gnindnävna
-hco llit gninllätsni edneågna
-eidutssgninklofeB
-:nenicidem
-arätnemelpmok ned hco
-eramlohkcotS .G nregeT
-,M fölkE
-G
-.1002 gnitsdnal snäl
-smlohkcotS
-.52/11/4002
-bupE
-.111-99:)3-2(21;4002
-.enicidem ni seipareht
-yratnemelpmoC
-.esu
-)MAC(
-enicidem
-evitanretla yratnemelpmoc
-fo stnanimreteD
-.A idniW-lA
-H
-.32/70/4002
-bupE
-.69–984:)7(31;4002
-.ytefas gurd dna ygoloimedipeocamrahP
-.ecitcarp
-htlaeh
-hsidewS a ni esu enicidem
-labreh fo srotciderP
-.A idniW-lAI
-.5002
-;tehnesgnilkcevtu hco
--sgninksrof
-egnikelB
-eidutssgniretnevni
-ne :nicidem vitanretla
-hco rätnemelpmoK
-.H anorK
-J
-.)81-10-9102
-datmäh(
-fdp.1060as311el_rb_50i0891_1010el/renoitakilbup\_/kitsitats/es.bcs.www//:sptth
-.6002
-.5002–0891
-dråvkujs hco aslähO
-.)BCS( nåryblartnec
-aksitsitatS
-K
-va gardppu
-åp dröftu
-remrofsgnildnaheb
-avitargetni
-hco ledemekälrutan ,dråvkujs
-ednalläg
-rogårf
-i retkiså
-sared
-mo netehnämlla aksnevs
-ned dem gninkösrednu-suvoN
-L
-.5102
-.nekinilkradi
-V
-:enåkS
-i
-)MKA(
-nicidem
-rätnemelpmok
-hco
-vitanretla
-va
-gnindnävnA .UL netetlukaf
-aksnicideM
-.igoloimedipelaicoS
-rof netehnE ,C-A grobnroH
-,S iraniluM ,J olreM
-,M llermeW
-M
-.)81-10-9102
-datmäh( fdp.troppar_MKA/31713212/selif/latrop/es.ul.hcraeser.latrop//:ptth
-.1:6102 troppaR .6102
-eidut stoliP
+
+8 I enkäten frågades om den svarande hade använt något KAM-preparat (herbal medicine) under det föregående året. I det fall de svarade ja ombads de ange antal produkter,
+
+produktnamn och anledningen till användandet.
+
+9 Frågan löd: Har du någon gång använt dig av någon form av komplementär och alternativ terapi? Följt av samma fråga om det senaste året. Det är oklart om svarsalternativ
+
+eller någon mer förklaring gavs.
+
+10 Frågan löd: Har du under de senaste 12 månaderna behandlats för kroppsligt eller psykiskt besvär av (i) naprapat, osteopat (ii) akupunktör, (iii) zonterapeut eller
+
+akupressör, (iv) homeopat, naturläkare eller (v) någon annan, nämligen?
+
+11 Frågan löd: Har du under de senaste två veckorna använt naturläkemedel?
+
+12 Integrativ behandling definierades som när konventionell vård och skolmedicinska läkemedel kombineras med väl beprövade komplementära medicinska behandlings-
+
+m etoder, exempelvis kiropraktik, massage och naturläkemedel. Vidare angavs att integrativ vård ordineras av skolmedicinskt utbildade läkare med vidareutbildning inom
+
+d essa områden.
+
+13 Frågan löd: Har du någon gång använt dig av naturläkemedel eller andra komplementära läkemedel som komplement till konventionell skolmedicin?
+
+14 Användning av alternativ och komplementär medicin inkluderar här besök hos vårdgivare (exempelvis massör eller akupunktör), intag av naturmedel, örtmedicin eller kost-
+
+til lskott, samt användning av självhjälpsmetoder som yoga eller avslappning. I siffran inkluderas inte mottagande av komplementär behandling hos konventionell vårdgivare
+
+el ler på remiss. Det gavs vissa metoder att ta ställning till. Det är oklart om möjlighet till fritextsvar gavs.
+
+Referenser
+
+A Alternativmedicinkommittén. Fakta och röster om alternativ medicin: en delrapport från Alternativmedicinkommittén. Stockholm: Allmänna förlaget; 1987.
+
+B Messerer M, Johansson SE, Wolk A. Use of dietary supplements and natural remedies increased dramatically during the 1990s. Journal of internal medicine.
+
+2 001;250(2):160–6. Epub 2001/08/08.
+
+C Messerer M, Johansson SE, Wolk A. Sociodemographic and health behaviour factors among dietary supplement and natural remedy users. European journal of clinical
+
+nutrition. 2001;55(12):1104-10. Epub 2002/01/10.
+
+D Wallstrom P, Elmstahl S, Johansson U, Ostergren PO, Hanson BS. Usage and users of natural remedies in a middle-aged population: demographic and psychosocial
+
+characteristics. Results from the Malmo Diet and Cancer Study. Pharmacoepidemiology and drug safety. 1996;5(5):303-14. Epub 1996/09/01.
+
+E Al-Windi A, Elmfeldt D, Svardsudd K. The relationship between age, gender, well-being and symptoms, and the use of pharmaceuticals, herbal medicines and self-care
+
+products in a Swedish municipality. European journal of clinical pharmacology. 2000;56(4):311-7. Epub 2000/08/23.
+
+F Nilsson M, Trehn G, Asplund K. Use of complementary and alternative medicine remedies in Sweden. A population-based longitudinal study within the northern Sweden
+
+MONICA Project. Multinational Monitoring of Trends and Determinants of Cardiovascular Disease. Journal of internal medicine. 2001;250(3):225–33. Epub 2001/09/14.
+
+G Eklöf M, Tegern G. Stockholmare och den komplementära medicinen: Befolkningsstudie angående inställning till och användning av komplementär medicin. Stockholm: HSN,
+
+Stockholms läns landsting 2001.
+
+H Al-Windi A. Determinants of complementary alternative medicine (CAM) use. Complementary therapies in medicine. 2004;12(2-3):99-111. Epub 2004/11/25.
+
+I Al-Windi A. Predictors of herbal medicine use in a Swedish health practice. Pharmacoepidemiology and drug safety. 2004;13(7):489–96. Epub 2004/07/23.
+
+J Krona H. Komplementär och alternativ medicin: en inventeringsstudie Blekinge forsknings- och utvecklingsenhet; 2005.
+
+K Statistiska centralbyrån (SCB). Ohälsa och sjukvård 1980–2005. 2006. https://www.scb.se/statistik/\_publikationer/le0101_1980i05_br_le113sa0601.pdf (hämtad 2019-01-18).
+
+L Novus-undersökning med den svenska allmänheten om deras åsikter i frågor gällande sjukvård, naturläkemedel och integrativa behandlingsformer utförd på uppdrag av
+
+V idarkliniken. 2015.
+
+M Wemrell M, Merlo J, Mulinari S, Hornborg A-C, Enheten for Socialepidemiologi. Medicinska fakulteten LU. Användning av alternativ och komplementär medicin (AKM) i Skåne:
+
+Pilots tudie 2016. Rapport 2016:1. http://portal.research.lu.se/portal/files/21231713/AKM_rapport.pdf (hämtad 2019-01-18).
+
 6
 
 <!-- sida 725 -->
@@ -38767,257 +34014,183 @@ eidut stoliP
 SOU 2019:15                                   Bilaga 5
 
 613
-)5.6
-ttinsva
-röhllit(
-gninggältrak
-snegnindertu
-i
-rågni
-mos
-gnindnävna-MAK
-revö
-reidutstneitap
-va
-gninttafnammaS
-6
-llebaT
-:gnindnävna
-i danlliks
-dasivåP
-va
-gninttafmO
-röf
-marsdiT
-lebairavtäM
-ravs latnA
-netäkne
-åd
-rÅ
-ppurgtneitaP
-snerefeR
-näm
-hco
-ronnivk
-nallem
-•
-gnindnävna
-gnindnävna
-snevkerfsravS
-sedaravseb
-reppurgsredlå
-nallem
-•
-)%(
-dotemtäknE
-reåvinsgnindlibtu
-nallem
-•
-asläh dvelppuvläjs
-åp
-edneoreb
-•
-58,61–4,41
-)1
-tarecificeps
-jE
-ksnicidemvitanretlA
-2458
-)1
-16991–7891
-)1
-recnaC
-)1
-.la
-te
-lledraH
-4,91
-)2
-4gnildnaheb
-441
-)2
-7891
-)2
-rellortnoK
-)2
-A8991
-3%
-19–58
-)1
-täknetsoP
-% 87
-)2
-reppurgsredlå
-nallem danlliks
-dasivåp
-negnI
-•
-43
-)1
-telläfllit
-diV
-)1
-6taraperp-MAK
-558
-8002–2002
-recnactsörB
-.la
-te
-alateiH
-85
-)2
-tvitarepoerp
-va %
-85( %
-05
-nekinilk
-åP
-B1102
-telläfllit
-diV
-)2
-anretneitap
-tvitarepotsop
-%
-43
-hco dnuL
-i
-anretneitap
-va
-)grobgnisleH
-i
-,taraperp-MAK
-dem ronnivk
-dnalb
-eragilnaV
-•
-92
-)1
-telläfllit
-diV
-)1
-7MAK
-002
-7002
-aksitamueR
-grebgnilK
--MAK
-ardna
-nallem danlliks
-dasivåp
-negni
-nem
-56
-)2
-gnåg
-nogåN
-)2
-%
-16
-nekinilk
-åP
-ramodkujs
-C9002
-.la
-te
-redotem
-tevil
-rednu
-gnåg nogån
-MAK
-va
-netehnerafrE
-•
-redlåledem(
-ergny togån
-ed
-soh
-eragilnav
-rav
-)neiduts
-i rå 85 redlåledem
-dem
-tröfmäj
-rå 25
--arap
-dem
-tareicossa rav
-MAK
-va
-gnindnävnA
-•
-asläh ermäs
-rarekidni
-mos
-rartem
-näm
-hco
-ronnivk
-nallem danlliks
-dasivåp
-negnI
-•
-35
-telläfllit
-diV
-8MAK
-49
-7002
-recnacgnuL
-nergvöL
-reppurgsredlå
-nallem danlliks
-dasivåp
-negnI
-•
-%
-72
-täknetsoP
-D1102
-.la
-te
--sgnindlibtu
-nallem danlliks
-dasivåp
-negnI
-•
-reåvin
-84
-)1
-terå
-etsaneS
-9MAK
-846
-)1
-9002–8002
-)1
-ksirotammalfnI
-)1
-kramlexO
-45
-)2
-044
-)2
-9002
-)2
-)DBI(
-modkujsmrat
-E6102
-.la
-te
-%
-94 tlatoT
-nekinilk
-åP
-)1
-rellortnoK
-)2
-% 67
-)1
-täknetsoP
-)2
-% 23
-)2
+
+Tabell 6
+
+Sammanfattning av patientstudier över KAM-användning som ingår i utredningens kartläggning (tillhör avsnitt 6.5)
+
+Referens Patientgrupp
+
+År då enkäten Antal svar
+
+Mätvariabel
+
+Tidsram för
+
+Omfattning av Påvisad skillnad i användning:
+
+besvarades
+
+Svarsfrekvens
+
+användning
+
+användning • mellan kvinnor och män
+
+Enkätmetod
+
+(%)
+
+• mellan åldersgrupper
+
+• mellan utbildningsnivåer
+
+• beroende på självupplevd hälsa
+
+Hardell et al. 1) Cancer
+
+1\) 1987–19961 1) 8542
+
+Alternativmedicinsk Ej specificerat 1) 14,4–16,85
+
+1998A
+
+2\) Kontroller
+
+2\) 1987
+
+2\) 144
+
+behandling4
+
+2\) 19,4
+
+Postenkät
+
+1\) 85–91 %3
+
+2\) 78 %
+
+Hietala et al. Bröstcancer
+
+2002–2008
+
+855
+
+KAM-preparat6
+
+1\) Vid tillfället 1) 34
+
+• Ingen påvisad skillnad mellan åldersgrupper
+
+2011B
+
+På kliniken
+
+50 % (58 % av
+
+preoperativt
+
+2\) 58
+
+patienterna
+
+2\) Vid tillfället
+
+i Lund och 34 %
+
+postoperativt
+
+av patienterna
+
+i Helsingborg)
+
+Klingberg Reumatiska
+
+2007
+
+200
+
+KAM7
+
+1\) Vid tillfället 1) 29
+
+• Vanligare bland kvinnor med KAM-preparat,
+
+et al. 2009C sjukdomar
+
+På kliniken
+
+61 %
+
+2\) Någon gång 2) 65
+
+men ingen påvisad skillnad mellan andra KAM-
+
+metoder
+
+• Erfarenheten av KAM någon gång under livet
+
+var vanligare hos de något yngre (medelålder
+
+52 år jämfört med medelålder 58 år i studien)
+
+• Användning av KAM var associerat med para-
+
+metrar som indikerar sämre hälsa
+
+Lövgren
+
+Lungcancer
+
+2007
+
+94
+
+KAM8
+
+Vid tillfället
+
+53
+
+• Ingen påvisad skillnad mellan kvinnor och män
+
+et al. 2011D
+
+Postenkät
+
+27 %
+
+• Ingen påvisad skillnad mellan åldersgrupper
+
+• Ingen påvisad skillnad mellan utbildnings-
+
+nivåer
+
+Oxelmark
+
+1\) Inflammatorisk 1) 2008–2009 1) 648
+
+KAM9
+
+Senaste året 1) 48
+
+et al. 2016E tarmsjukdom (IBD) 2) 2009
+
+2\) 440
+
+2\) 54
+
+2\) Kontroller
+
+1\) På kliniken Totalt 49 %
+
+2\) Postenkät
+
+1\) 76 %
+
+2\) 32 %
+
 3
 
 <!-- sida 726 -->
@@ -39025,603 +34198,165 @@ täknetsoP
 Bilaga 5                                   SOU 2019:15
 
 614
-:gnindnävna
-i danlliks
-dasivåP
-va
-gninttafmO
-röf
-marsdiT
-lebairavtäM
-ravs
-latnA netäkne
-åd rÅ
-ppurgtneitaP
-snerefeR
-näm
-hco
-ronnivk
-nallem •
-gnindnävna
-gnindnävna
-snevkerfsravS
-sedaravseb
-reppurgsredlå
-nallem •
-)%(
-dotemtäknE
-reåvinsgnindlibtu
-nallem •
-asläh
-dvelppuvläjs
-åp
-edneoreb •
-näm
-hco
-ronnivk
-nallem
-danlliks
-dasivåp
-negnI •
-43 telläfllit
-diV
-01MAK
-523
-etni
-segnA modkujs
-snosnikraP
-hco kköL
-reppurgsredlå
-nallem
-danlliks
-dasivåp
-negnI •
-% 18
-täknetsoP
-nossliN
-gnindlibtu
-ergnäl
-div
-eragilnaV •
-F0102
-asläh
-dvelppuvläjs
-gål div
-eragilnaV •
-64 terå
-etsaneS
-11MAK
-826
-1102
-sorelks lepitluM
-draagvokS
-% 06
-daresabbeW
-)SM(
-G2102 .la
-te
-retontoF
-.7891
-rå
-tsadne rellortnok
-llit
-täknE .6991
-rå
-hco 0991 rå
-,7891 rå retneitap
-llit täknE1
-.441:rellortnok
-latnA
-.6991
-rå retneitap
-853
-hco 0991 rå retneitap
-181 ,7891
-rå
-retneitap 513
-:retneitap ednagatled
-latnA2
-.tnecorp 87
-:rellortnok
-röf snevkerfsravS
-.6991
-rå tnecorp
-09 hco 0991 rå
-tnecorp
-19 ,7891
-rå tnecorp 58
-:retneitap röf
-snevkerfsravS
-3
-.etni rågmarf
-nagårf hco
-gnildnaheb
-ksnicidemvitanretla
-va noitinifeD
+
+Referens Patientgrupp
+
+År då enkäten Antal svar
+
+Mätvariabel
+
+Tidsram för
+
+Omfattning av Påvisad skillnad i användning:
+
+besvarades
+
+Svarsfrekvens
+
+användning
+
+användning • mellan kvinnor och män
+
+Enkätmetod
+
+(%)
+
+• mellan åldersgrupper
+
+• mellan utbildningsnivåer
+
+• beroende på självupplevd hälsa
+
+Lökk och
+
+Parkinsons sjukdom Anges inte
+
+325
+
+KAM10
+
+Vid tillfället
+
+34
+
+• Ingen påvisad skillnad mellan kvinnor och män
+
+Nilsson
+
+Postenkät
+
+81 %
+
+• Ingen påvisad skillnad mellan åldersgrupper
+
+2010F
+
+• Vanligare vid längre utbildning
+
+• Vanligare vid låg självupplevd hälsa
+
+Skovgaard Multipel skleros
+
+2011
+
+628
+
+KAM11
+
+Senaste året 46
+
+et al. 2012G (MS)
+
+Webbaserad
+
+60 %
+
+Fotnoter
+
+1 Enkät till patienter år 1987, år 1990 och år 1996. Enkät till kontroller endast år 1987.
+
+2 Antal deltagande patienter: 315 patienter år 1987, 181 patienter år 1990 och 358 patienter år 1996. Antal kontroller: 144.
+
+3 Svarsfrekvens för patienter: 85 procent år 1987, 91 procent år 1990 och 90 procent år 1996. Svarsfrekvens för kontroller: 78 procent.
+
+4 Definition av alternativmedicinsk behandling och frågan framgår inte.
+
+5 Omfattning av KAM-användning hos patienter: 16,8 procent år 1987, 14,4 procent år 1990 och 16,4 procent år 1996. Omfattning av KAM-användning hos kontroller:
+
+1 9,4 procent.
+
+6 Det ställdes en öppen fråga om samtidig behandling. I studien anges att det var biologiskt baserade KAM-pre parat (natural remedies) som inkluderades (växtbaserade
+
+prod ukter, preparat vars beståndsdelar utgörs av en djurdel, vitaminer, mineraler, fettsyror, aminosyror, proteiner, probiotika, prebiotika, dieter och functional food).
+
+7 KAM definierades så här: “CAM is treatment used as a complement or an alternative to conventional medicine. CAM drugs were defined as substances taken orally or used
+
+topically and with a natural origin (herbs, bacterial cultures, part of an animal, minerals, vitamins, or salts) and corresponding to the NIH definition of Biologically Based
+
+P ractices. CAM methods included the following groups of practices defined by the NIH: Whole Medical Systems (homeopathy, traditional Chinese medicine), Mind-Body
+
+Medicine (meditation, mental healing), Manipulative and Body-Based Practices (chiropractic or osteopathic manipulation, massage) and Energy Medicine (Qui gong, use of
+
+magnetic fields)”. NIH är en förkortning för National Institutes of Health. Patienterna försågs med en lista med metoder för att bättre förstå begreppet KAM.
+
+8 Användning av tolv metoder efterfrågades (naturläkemedel och naturmedel, vitaminer och mineraler, healing, qigong, massage, akupunktur, naprapati, kiropraktik, antropo-
+
+sofisk medicin, homeopati, meditation och bön). Även andra metoder kunde anges.
+
+9 24 svarsalternativ gavs (massage, KAM-preparat, avslappning, yoga, akupunktur, naprapati, rådgivning, kiropraktik, meditation, religion, qigong, reflexologi, healing, aku-
+
+pressur, homeopati, diet, självhjälpsgrupp, traditionell kinesisk medicin, hypnos, antroposofisk medicin, shiatsu, aromaterapi, ayurveda och Rosenmetoden) samt möjlighet
+
+a tt ange annan metod. Definitionen av KAM-preparat inkluderade en mängd produkter, växter, vitaminer och mineraler och probiotika.
+
+10 I enkäten fanns tio olika KAM-behandlingar uppräknade (akupunktur, andra preparat från hälsokostbutiken, örtmediciner [herbal medicine] kostförändringar, zonterapi,
+
+homeopati, hårmineralanalys, magnetfältsbehandling, irisdiagnostik och hypnos) samt möjlighet för patienten att ange andra metoder.
+
+11 En lång rad givna metoder som svarsalternativ angavs. Definitionen av KAM baserades på definitionen som användes av National Center for Complementary and Alternative
+
+Medicine (NCCAM) (numera National Center for Complementary and Integrative Health [NCCIH]) ”en grupp av diverse medicinska system och hälso- och sjukvårdssystem och
+
+pr odukter som inte allmänt anses vara del av den konventionella medicinen”.
+
 4
-:rellortnok
-soh
-gnindnävna-MAK
-va gninttafmO
-.6991rå
-tnecorp
-4,61
-hco 0991
-rå
-tnecorp
-4,41 ,7891 rå
-tnecorp
-8,61
-:retneitap
-soh gnindnävna-MAK
-va gninttafmO
-5
-.tnecorp4,9
-1
-edaresabtxäv(
-sedaredulkni
-mos
-)seidemer larutan(
-tarap
-erp-MAK
-edaresab
-tksigoloib
-rav
-ted tta segna neiduts
-I .gnildnaheb
-giditmas mo
-agårf neppö
-ne sedlläts teD
-6
-.)doof
-lanoitcnuf
-hco
-reteid
-,akitoiberp ,akitoiborp
-,renietorp ,rorysonima
-,rorysttef
-,relarenim
-,renimativ
-,ledrujd
-ne va
-srögtu
-raledsdnåtseb
-srav taraperp
-,retku dorp
-desu
-ro yllaro
-nekat
-secnatsbus
-sa
-denifed erew
-sgurd
-MAC
-.enicidem
-lanoitnevnoc
-ot evitanretla
-na ro tnemelpmoc
-a sa desu
-tnemtaert
-si MAC“
-:räh ås sedareinifed
-MAK
-7
-desaB
-yllacigoloiB
-fo
-noitinifed
-HIN
-eht ot gnidnopserroc
-dna )stlas
-ro ,snimativ
-,slarenim
-,lamina na fo trap
-,serutluc
-lairetcab
-,sbreh( nigiro
-larutan a htiw
-dna yllacipot
-ydoB-dniM
-,)enicidem
-esenihC
-lanoitidart
-,yhtapoemoh(
-smetsyS
-lacideM
-elohW
-:HIN
-eht
-yb denifed secitcarp
-fo spuorg
-gniwollof
-eht dedulcni
-sdohtem
-MAC .secitcar
-P
-fo
-esu
-,gnog
-iuQ(
-enicideM
-ygrenE
-dna )egassam
-,noitalupinam
-cihtapoetso
-ro citcarporihc(
-secitcarP desaB-ydoB
-dna evitalupinaM
-,)gnilaeh
-latnem ,noitatidem(
-enicideM
-.MAK
-teppergeb
-åtsröf
-erttäb tta
-röf
-redotem
-dem atsil
-ne
-dem
-sgåsröf
-anretneitaP
-.htlaeH fo setutitsnI
-lanoitaN
-röf gnintrokröf
-ne rä HIN .”)sdleif
-citengam
--oportna
-,kitkarporik
-,itaparpan
-,rutknupuka
-,egassam
-,gnogiq
-,gnilaeh
-,relarenim
-hco
-renimativ
-,ledemrutan hco
-ledemekälrutan(
-sedagårfretfe
-redotem vlot
-va gnindnävnA8
-.segna
-ednuk redotem
-ardna
-nevÄ
-.)nöb
-hco noitatidem
-,itapoemoh
-,nicidem ksifos
--uka
-,gnilaeh
-,igoloxelfer
-,gnogiq
-,noigiler
-,noitatidem
-,kitkarporik
-,gninvigdår
-,itaparpan
-,rutknupuka
-,agoy ,gninppalsva
-,taraperp-MAK
-,egassam(
-svag vitanretlasravs
-42
-9
-tehgiljöm
-tmas
-)nedotemnesoR
-hco
-adevruya ,iparetamora
-,ustaihs ,nicidem
-ksifosoportna
-,sonpyh
-,nicidem ksisenik
-llenoitidart
-,ppurgspläjhvläjs
-,teid ,itapoemoh
-,russerp
-.akitoiborp
-hco
-relarenim
-hco renimativ
-,retxäv
-,retkudorp
-dgnäm ne edaredulkni
-taraperp-MAK
-va nenoitinifeD
-.dotem
-nanna egna
-tt a
-,iparetnoz
-,ragnirdnäröftsok
-]enicidem
-labreh[
-renicidemtrö
-,nekitubtsokosläh
-nårf
-taraperp
-ardna ,rutknupuka(
-edankärppu
-ragnildnaheb-MAK
-akilo oit snnaf
-netäkne
-I01
-.redotem ardna
-egna
-tta netneitap
-röf
-tehgiljöm
-tmas
-)sonpyh
-hco kitsongaidsiri
-,gnildnahebstläftengam
-,sylanalarenimråh
-,itapoemoh
-evitanretlA
-dna
-yratnemelpmoC
-rof retneC
-lanoitaN
-va
-sednävna
-mos nenoitinifed
-åp
-sedaresab
-MAK va nenoitinifeD
-.svagna vitanretlasravs
-mos
-redotem anvig
-dar gnål nE
-11
-hco
-metsyssdråvkujs
-hco
--osläh
-hco
-metsys aksnicidem
-esrevid
-va ppurg
-ne”
-)]HICCN[
-htlaeH
-evitargetnI dna yratnemelpmoC
-rof
-retneC lanoitaN
-aremun( )MACCN(
-enicideM
-.”nenicidem allenoitnevnok
-ned
-va
-led arav sesna
-tnämlla etni
-mos retkudo
-rp 4
 
 <!-- sida 727 -->
 
 SOU 2019:15                                   Bilaga 5
 
 615
-resnerefeR
-.5–2902:)81(59;8991
-.negninditrakäL
-.vitanretla
-tegni
-nicidemvitanretla
-:åemU
-i
-retneitaprecnac
-va
-eiduts
-yN
-.L grebdniL
-,.I tsivqoM
-,.M
-matsnedroN
-,.L lledraHA
-.11/60/8991bupE
-.locnO
-atcA
-.nedewS
-nrehtuos
-ni
-stneitap
-recnac
-tsaerb
-fo
-trohoc
-evitcepsorp
-a
-ni
-esu
-ydemer
-larutaN
-.H
-mortsnreJ
-,C
-esoR
-,EP
-nossnoJ
-,C ravgnI
-,M
-nosgninneH
-,M alateiH
-B
-.72/50/0102
-bupE
-.34-431:)1(05
-;1102
-citamuehr
-yrotammalfni
-htiw
-stneitaptuo
-ni
-enicidem
-evitanretla
-dna
-yratnemelpmoc
-fo
-esu
-ehT .H
-ailE'd-dalbsroF
-,G iwaH
-,T
-nosnetsroT
-,MS
-tdetsrellaW
-,E grebgnilK
-C
-.02/11/9002
-bupE
-.08-274:)6(83;9002
-.ygolotamuehr
-fo
-lanruoj naivanidnacS
-.nedewS
-ni sesaesid
--elpmoc
-fo
-esu
-dna
-erac
-fo
-ytilauq
-fo
-snoitpecrep
-'stneitap
-recnac
-gnul
-neewteb
-spihsnoitaleR
-?llup
-ro hsuP
-.C
-namlehsiT
-,H ithalaeveL
-,J koH
-,B
-nossraL-edliW
-,M nergvoL
-D
-.62/11/0102
-bupE
-.7-113:)4(51;1102
-.yteicoS
-gnisruN
-ygolocnO
-naeporuE
-fo
-lanruoj
-laiciffo
-eht
-:gnisrun
-ygolocno
-fo
-lanruoj
-naeporuE
-.enicidem
-evitanretla
-dna yratnem
-lewob
-yrotammalfni
-htiw
-stneitap
-hsidewS
-ni
-enicidem
-evitanretla
-dna
-yratnemelpmoc
-fo
-esU
-.la te
-,S
-remlA
-,A
-nosskirE
-,B
-ybnretS
-,R grebfoL
-,A
-grebdniL
-,L kramlexO
-E
-.03/70/6102
-bupE
-.8-0231:)11(82;6102
-.ygolotapeh
-&
-ygoloretneortsag
-fo
-lanruoj
-naeporuE
-.yduts
-dellortnoc
-a :esaesid
-lacigoloruen
-a
-ta
-esaesid
-s'nosnikraP
-htiw
-stneitap
-ni
-enicidem
-evitanretla
-dna
-yratnemelpmoc
-fo esu
-eht
-htiw
-detaicossa
-srotcaf
-dna epyt
-,ycneuqerF
-.M
-nossliN
-,J
-kkoL
-F
-.72/70/0102
-bupE
-.4-045:)8(61;0102
-.sredrosid
-detaler &
-msinosnikraP
-.cinilc
-tneitaptuo
-eht
-ni
-sisorelcS
-elpitluM
-htiw
-elpoeP
-gnoma
-enicideM
-evitanretlA
-dna
-yratnemelpmoC
-fo
-esU
-.la
-te
-,M feohreV
-,S
-noskirderF
-,M tnaK
-,E nesredeP
-,HP
-nesjalociN
-,L draagvokS
-G
-.11/10/3102
-bupE
-.580148:2102;2102
-.sesaesid
-enummiotuA
-.seirtnuoC
-cidroN
+
+Referenser
+
+A Hardell L., Nordenstam M., Moqvist I., Lindberg L. Ny studie av cancerpatienter i Umeå: alternativmedicin inget alternativ. Läkartidningen. 1998;95(18):2092–5.
+
+Epub 1998/06/11.
+
+B Hietala M, Henningson M, Ingvar C, Jonsson PE, Rose C, Jernstrom H. Natural remedy use in a prospective cohort of breast cancer patients in southern Sweden. Acta Oncol.
+
+2011; 50(1):134-43. Epub 2010/05/27.
+
+C Klingberg E, Wallerstedt SM, Torstenson T, Hawi G, Forsblad-d'Elia H. The use of complementary and alternative medicine in outpatients with inflammatory rheumatic
+
+diseases in Sweden. Scandinavian journal of rheumatology. 2009;38(6):472-80. Epub 2009/11/20.
+
+D Lovgren M, Wilde-Larsson B, Hok J, Levealahti H, Tishelman C. Push or pull? Relationships between lung cancer patients' perceptions of quality of care and use of comple-
+
+mentary and alternative medicine. European journal of oncology nursing: the official journal of European Oncology Nursing Society. 2011;15(4):311-7. Epub 2010/11/26.
+
+E Oxelmark L, Lindberg A, Lofberg R, Sternby B, Eriksson A, Almer S, et al. Use of complementary and alternative medicine in Swedish patients with inflammatory bowel
+
+disease: a controlled study. European journal of gastroenterology & hepatology. 2016;28(11):1320-8. Epub 2016/07/30.
+
+F Lokk J, Nilsson M. Frequency, type and factors associated with the use of complementary and alternative medicine in patients with Parkinson's disease at a neurological
+
+outpatient clinic. Parkinsonism & related disorders. 2010;16(8):540-4. Epub 2010/07/27.
+
+G Skovgaard L, Nicolajsen PH, Pedersen E, Kant M, Fredrikson S, Verhoef M, et al. Use of Complementary and Alternative Medicine among People with Multiple Sclerosis in the
+
+Nordic Countries. Autoimmune diseases. 2012;2012:841085. Epub 2013/01/11.
+
 5
 
 <!-- sida 728 -->
@@ -40633,34 +35368,24 @@ vård – säkerhet, kunskap, dialog. [15]
 
 TJÄNSTESKRIVELSE
 
-1 (2)
-
-Datum
-2019-07-23
-VO/2019:143
-
-KS/2019:540
-
-Kungsbacka kommun
-x 104 09
-434 24 Kungsbacka
-Besöksadress
-Borgmästaregatan 5 A
-Telefon vx 0300-83 40 00
-Fax 0300-154 63
-(e-post borttagen)
-www.kungsbacka.se
 Svar avseende begäran om yttrande gällande remiss-
 Komplementär och alternativ medicin och vård (SOU 2019:15,
+
 2019:28)
+
 Bakgrund
+
 Regeringen uppdrog 2017 åt en särskild utredare att kartlägga och lämna förslag i frågor om ökat
 patientinflytande och patientsäkerhet inom annan vård och behandling än den som bedrivs inom den
 etablerade vården. KAM (komplementär och alternativ medicin), -utredningens del- samt
 slutbetänkande, beskriver förslag som rör säkerhet, kunskap samt dialog avseende KAM samt
+1 (2)
 lagförslag.
 Sammanfattning samt kommentarer
-Utredningens förslag
+Datum
+2019-07-23
+Utredningens förslag                                         VO/2019:143
+KS/2019:540
 •
 Medborgarna ska ges bättre underlag för välinformerade val om de överväger att anlita
 komplementär och alternativ vård. Flera av förslagen ska också tillgodose säkerheten vid
@@ -40691,6 +35416,15 @@ samlade i en form av ”kunskapsbank” ser vårdgivaren som ytterligare en kval
 metoderna samt som ett led i att tillgängliggöra hälso- och sjukvården på ett likvärdigt sätt för hela
 befolkningen. Utredaren beskriver att KAM skulle introduceras i utbildning av legitimerad personal
 vilket vårdgivaren ställer sig bakom samt bedömer ge en ökad användning samt legitimitet till dessa
+Kungsbacka kommun
+x 104 09
+434 24 Kungsbacka
+Besöksadress
+Borgmästaregatan 5 A
+Telefon vx 0300-83 40 00
+Fax 0300-154 63
+(e-post borttagen)
+www.kungsbacka.se
 
 <!-- sida 756 -->
 
@@ -40801,6 +35535,37 @@ Kvartal Kvartal Kvartal Kvartal
 Totalt antal personer med särskilt
 boendebeslut som inte har verkställts 22 42
 inom 3 månader
+Varav
+\- antal personer som tackat nej till
+3      13
+erbjudande
+\- antal personer som tackat nej till fler
+4      2
+erbjudanden
+
+```osaker-tabell
+- ej fått något erbjudande    1      12
+- avlidna                     0      1
+- avsagt sig beslut           5      2
+```
+
+\- Verkställda under kvartalet 9      12
+Summa                           22     42     0      0
+
+Varav
+\- Antal personer som har väntat på
+17     33
+boende 3 - 6 månader
+\- Antal personer som har väntat på
+1      6
+boende 6 - 9 månader
+\- Antal personer som har väntat på
+3      0
+boende 9 -12 månader.
+\- Antal personer som har väntat på
+1      3
+boende > 12 månader
+Summa                           22     42     0      0
 
 Beslutsunderlag
 
@@ -40810,24 +35575,6 @@ Beslutet skickas till
 
 Kommunstyrelsen
 Kommunrevisionen
-
-[Tabell 758-1](handlingar.tabeller/758-1.csv)
-
-| Varav |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| - antal personer som tackat nej till<br>erbjudande | 3 | 13 |  |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 4 | 2 |  |  |
-| - ej fått något erbjudande | 1 | 12 |  |  |
-| - avlidna | 0 | 1 |  |  |
-| - avsagt sig beslut | 5 | 2 |  |  |
-| - Verkställda under kvartalet | 9 | 12 |  |  |
-| Summa | 22 | 42 | 0 | 0 |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 3 - 6 månader | 17 | 33 |  |  |
-| - Antal personer som har väntat på<br>boende 6 - 9 månader | 1 | 6 |  |  |
-| - Antal personer som har väntat på<br>boende 9 -12 månader. | 3 | 0 |  |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 1 | 3 |  |  |
-| Summa | 22 | 42 | 0 | 0 |
 
 <!-- sida 759 -->
 

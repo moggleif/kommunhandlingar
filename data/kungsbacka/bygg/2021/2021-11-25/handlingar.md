@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220319192707id_/https://www.kungsbacka.
 sha256: 3ba7eae58806f4e4c756e47a2500cc028b764799edb64544c930a478ce7d3271
 bytes: 1826411
 sidor: 50
-hamtad: 2026-11-17T03:44:55+00:00
-konverterad: 2026-11-17T03:45:16+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T00:16:28+00:00
+konverterad: 2026-11-21T00:16:56+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ocr]
 tal_obekraftade: [46, 48, 50]
 figurer: [7, 8, 44, 46, 48, 50]
 tolkade: []
@@ -566,62 +566,39 @@ generationer och livsstilar.
 \- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
 \- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Bäst att leva, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 28 24  15      5
-Fokus.
-Invånarnas uppfattning om kommunen som en
-plats att bo och leva på (SCB:s 72   72      68      69
-medborgarundersökning)
 
 Nämndbudget 2022                 13
+
+[Tabell 15-16-1](handlingar.tabeller/15-16-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 28 | 24 | 15 | 5 |  |
+| Invånarnas uppfattning om kommunen som en<br>plats att bo och leva på (SCB:s<br>medborgarundersökning) | 72 | 72 | 68 | 69 |  |
+| Antal påbörjade bostäder |  |  | 501 | 234 |  |
+| Antal färdigställda bostäder |  |  | 418 | 248 |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) |  | 4 729 | 4 338 | 5 087 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn |  | 88% | 89% | 88% |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn |  | 84% | 83% | 81% |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  |  | 96% | 76% |  |
 
 <!-- sida 16 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-
-```osaker-tabell
-                             2017    2018    2019   2020    2022
-Antal påbörjade bostäder                     501     234
-Antal färdigställda bostäder                 418     248
-```
-
-Anmälda brott per invånare (antal/100 000
-4 729  4 338   5 087
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-88%     89%     88%
-helhetssyn
-Brukarbedömning särskilt boende
-84%     83%     81%
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-96%     76%
-totalt - helhetssyn
 7.1.1 Nämnden för Miljö & Hälsoskydd ska arbeta för att Kungsbacka har trygga
 krogmiljöer.
+
 Beslutats av
 Nämnd
 Nämndens formulering
+
 Nämnden för Miljö & Hälsoskydd ska arbeta för att Kungsbacka har trygga krogmiljöer där
 människor skyddas från alkoholens och tobakens skadeverkningar. Särskilt fokus ska ligga på att
 skydda våra ungdomar.
 Fokusområde
 Kungsbacka har välkomnande och trygga miljöer
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Antal krögarträffar med serveringsställen                    2
-Antalet samordnade tillsynsbesök alkohol
-serveringsställen tillsammans med                            2
-Skattemyndigheten och Polisen
-Utbildning "Ansvarsfull alkoholservering"
 Utbildning "Ansvarsfull alkoholservering"; målvärde är ett tillfälle per år.
 
 7.2 En hållbar utveckling och en hälsosam miljö
@@ -637,78 +614,43 @@ samt Borgmästaravtalet.
 
 Nämndbudget 2022                 14
 
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Antal krögarträffar med serveringsställen |  |  |  |  | 2 |
+| Antalet samordnade tillsynsbesök alkohol<br>serveringsställen tillsammans med<br>Skattemyndigheten och Polisen |  |  |  |  | 2 |
+| Utbildning "Ansvarsfull alkoholservering" |  |  |  |  |  |
+
 <!-- sida 17 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges
-2,3     2,2
-Ekokommuner) Värdet för 2018 publiceras
-under hösten 2020.
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 65 73      74      45
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-67%     68%     95%    100%
-(%) (Källa: Sveriges Ekokommuner)
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%   99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 505 427   354     328
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,1 0,17 0,14 0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % -  91%     89%     85%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90%  88%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % -  75%     73%     70%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % -  88%     81%     84%
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-58%     70%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-61%     80%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
 Nämndbudget 2022                 15
+
+[Tabell 17-18-1](handlingar.tabeller/17-18-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) Värdet för 2018 publiceras<br>under hösten 2020. | 2,3 | 2,2 |  |  |  |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 65 | 73 | 74 | 45 |  |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 67% | 68% | 95% | 100% |  |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% | 99% |  |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 505 | 427 | 354 | 328 |  |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,1 | 0,17 | 0,14 | 0,1 |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 91% | 89% | 85% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) |  | 91% | 90% | 88% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 75% | 73% | 70% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 88% | 81% | 84% |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. |  |  | 58% | 70% |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. |  |  | 61% | 80% |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | 100 |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. |  |  |  | 100 |  |
 
 <!-- sida 18 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100,        100
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd.                 100
-Startvärde 100, målvärde 2030 är 60.
 7.2.1 Nämnderna ska genom sin myndighetsutövning och i sitt tillsynsarbete skapa
 förutsättningar för en hälsosam livsmiljö och verka för att Kungsbacka växer
 
@@ -726,13 +668,6 @@ Fokusområde
 Kungsbacka ska anpassa miljöarbetet till de nationella miljömålen och globala hållbarhetsmålen
 samt Borgmästaravtalet för att bli en av de främsta kommunerna inom miljö- och klimatfrågor.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Uppföljning av följsamhet mot översiktsplan
-gällande förhandsbesked
-Uppföljning tillsyn enligt Miljöbalken och
-enligt Livsmedelslagen.
 Indikatorerna är inte målvärdesatta 2022. Uppföljning av tillsyn sker enligt behovsutredning och tillsynsplan.
 
 7.2.2 Nämnderna ska verka för att miljökvalitetsnormer för vatten följs.
@@ -752,21 +687,17 @@ Indikator
 2017    2018    2019   2020    2022
 Nämndbudget 2022                 16
 
+[Tabell 18-1](handlingar.tabeller/18-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Uppföljning av följsamhet mot översiktsplan<br>gällande förhandsbesked |  |  |  |  |  |
+| Uppföljning tillsyn enligt Miljöbalken och<br>enligt Livsmedelslagen. |  |  |  |  |  |
+
 <!-- sida 19 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Andel utförd tillsyn utifrån beslutad
-tillsynsplan inom en vattenförekomst.
-Andel avvikelser/brister vid inventering av
-vattenskyddsområde utifrån beslutad
-tillsynsplan.
-Ekologisk status i sjöar och vattendrag: ref.
-God status för vatten - Sveriges miljömål
-(sverigesmiljomal.se)
 Budgetår 2022 = år noll. Under budgetår 2023 finns uppmätta värden från 2022.
 
 7.2.3 Nämnden för Miljö & Hälsoskydd ska verka för en hälsosam inomhusmiljö i de
@@ -785,12 +716,7 @@ verka för att gällande lagstiftning efterlevs.
 Fokusområde
 
 Kungsbacka har välkomnande och trygga miljöer.
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Uppföljning av utförd tillsyn utifrån beslutad
-Uppnått Uppnått
-tillsynsplan för berört tillsynsområde.
+
 7.3 Bästa företagsklimatet i Västsverige
 
 Beslutats av
@@ -807,55 +733,32 @@ Indikator
 
 Nämndbudget 2022                 17
 
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Andel utförd tillsyn utifrån beslutad<br>tillsynsplan inom en vattenförekomst. |  |  |  |  |  |
+| Andel avvikelser/brister vid inventering av<br>vattenskyddsområde utifrån beslutad<br>tillsynsplan. |  |  |  |  |  |
+| Ekologisk status i sjöar och vattendrag: ref.<br>God status för vatten - Sveriges miljömål<br>(sverigesmiljomal.se) |  |  |  |  |  |
+
+[Tabell 19-2](handlingar.tabeller/19-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Uppföljning av utförd tillsyn utifrån beslutad<br>tillsynsplan för berört tillsynsområde. |  |  | Uppnått | Uppnått |  |
+
 <!-- sida 20 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Insikt, SKRs servicemätning av kommunernas
-myndighetsutövning för företag. Nöjd-kund-
-index utifrån sammanvägt betygsindex 0-100,
-67     63      62      62
-för hur företag i kommunen bedömer
-Kungsbacka kommuns myndighetsutövning,
-vilket är en viktig del av företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3      3,2     3,4     3,3
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal     26 739  27 610
-Andel av sysselsatt dagbefolkning inom
-5%      5%              5%
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
 7.3.1 Nämnderna ska hålla hög kvalitet på service och myndighetsutövning och bidra till
 att företagare i Kungsbacka är nöjdare.
+
 Beslutats av
 Nämnd
+
 Fokusområde
 Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
-
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-NKI totalt värde, Nöjd-Kund-Index, bygglov 54 44 40  38      62
-NKI totalt värde, Nöjd-Kund-Index,
-63     58      60      65      72
-miljöskydd
-NKI totalt värde, Nöjd-Kund-Index, livsmedel 75 75 74 72     78
-NKI totalt värde, Nöjd-Kund-Index, servering 85 77 76 73     78
-Handläggningstid bygglov företagsärenden
-(tid från komplett ansökan till beslut), 10                  10
-veckor
-Handläggningstid nybyggnadskarta, 15 dagar                   15
-Andel överklagade beslut som håller i
-överprövande instans - företagsärenden -
-(Miljöbalken och Plan- och bygglagen)
 
 7.4 I Kungsbacka utvecklas vi hela livet
 
@@ -863,6 +766,29 @@ Beslutats av
 Kommunfullmäktige
 
 Nämndbudget 2022                 18
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-<br>index utifrån sammanvägt betygsindex 0-100,<br>för hur företag i kommunen bedömer<br>Kungsbacka kommuns myndighetsutövning,<br>vilket är en viktig del av företagsklimatet. | 67 | 63 | 62 | 62 |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3 | 3,2 | 3,4 | 3,3 |  |
+| Sysselsatt dagbefolkning, antal |  | 26 739 | 27 610 |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen |  | 5% | 5% |  | 5% |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
+
+[Tabell 20-2](handlingar.tabeller/20-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 54 | 44 | 40 | 38 | 62 |
+| NKI totalt värde, Nöjd-Kund-Index,<br>miljöskydd | 63 | 58 | 60 | 65 | 72 |
+| NKI totalt värde, Nöjd-Kund-Index, livsmedel | 75 | 75 | 74 | 72 | 78 |
+| NKI totalt värde, Nöjd-Kund-Index, servering | 85 | 77 | 76 | 73 | 78 |
+| Handläggningstid bygglov företagsärenden<br>(tid från komplett ansökan till beslut), 10<br>veckor |  |  |  |  | 10 |
+| Handläggningstid nybyggnadskarta, 15 dagar |  |  |  |  | 15 |
+| Andel överklagade beslut som håller i<br>överprövande instans - företagsärenden -<br>(Miljöbalken och Plan- och bygglagen) |  |  |  |  |  |
 
 <!-- sida 21 -->
 
@@ -872,44 +798,14 @@ Fokusområden
 \- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 \- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17 bästa
-229     240     238     246
-betygen i elevens slutbetyg och kan max vara
-340\.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,4% 3% 2,2% 2,8%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,5  7,3
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,9 13,8 14
-max 20.
-Andel vuxna personer som inte återkommit till
-försörjningsstöd inom ett år efter avslutat 75% 73% 78% 82%
-försörjningsstöd (%)
 7.4.1 Nämnderna ska underlätta steget in i arbetslivet för ungdomar och unga vuxna.
+
 Beslutats av
 Nämnd
 
 Fokusområde
 Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Antal mottagna PRAO-elever från högstadiet                   10
-Antal mottagna studenter från yrkeshögskola
-2
-och universitet för praktik
-Antal mottagna övriga praktikanter                           1
-Antal uppsatsarbeten som genomförts.                         2
 7.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -922,6 +818,25 @@ utforma det goda livet.
 
 Nämndbudget 2022                 19
 
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa<br>betygen i elevens slutbetyg och kan max vara<br>340. | 229 | 240 | 238 | 246 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,4% | 3% | 2,2% | 2,8% |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. | 7,5 |  | 7,3 |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,9 | 13,8 | 14 |  |
+| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 75% | 73% | 78% | 82% |  |
+
+[Tabell 21-2](handlingar.tabeller/21-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Antal mottagna PRAO-elever från högstadiet |  |  |  |  | 10 |
+| Antal mottagna studenter från yrkeshögskola<br>och universitet för praktik |  |  |  |  | 2 |
+| Antal mottagna övriga praktikanter |  |  |  |  | 1 |
+| Antal uppsatsarbeten som genomförts. |  |  |  |  | 2 |
+
 <!-- sida 22 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
@@ -931,32 +846,6 @@ med kommunen.
 \- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar. Ny indikator från och
-med år 2020
-Hållbart medarbetarengagemang, ett index för
-medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 77 76   77,8
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio nyckeltal 80 77 91 91
-med skala 1–20.
-Invånarnas upplevelse om möjligheterna att
-aktivt delta i arbetet med utveckling av
-kommunen? (t.ex. medborgar-dialoger,
-samråd), (SCB:s medborgarundersökning)
-Invånarnas upplevelse av bemötande vid
-senaste kontakten med politiker, (SCB:s
-medborgarundersökning)
-Invånarnas upplevelse av bemötande vid
-senaste kontakten med tjänsteperson som
-arbetar i kommunen, (SCB:s
-medborgarundersökning)
-Antal e-tjänster
 7.5.1 Nämnderna ska genom ökad digitalisering möjliggöra en enklare vardag för
 
 invånare och företag.
@@ -971,43 +860,45 @@ en snabbare och bättre service och underlättar och effektiviserar också arbet
 Fokusområde
 Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Nyttjandegrad e-tjänster                                    80%
-Uppföljning av den Digitala planen (årligen)
-NKI totalt värde, Nöjd-Kund-Index, bygglov 54 44 40  38      62
-
 Nämndbudget 2022                 20
+
+[Tabell 22-1](handlingar.tabeller/22-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar. Ny indikator från och<br>med år 2020 |  |  |  |  |  |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 77 | 76 |  | 77,8 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio nyckeltal<br>med skala 1–20. | 80 | 77 | 91 | 91 |  |
+| Invånarnas upplevelse om möjligheterna att<br>aktivt delta i arbetet med utveckling av<br>kommunen? (t.ex. medborgar-dialoger,<br>samråd), (SCB:s medborgarundersökning) |  |  |  |  |  |
+| Invånarnas upplevelse av bemötande vid<br>senaste kontakten med politiker, (SCB:s<br>medborgarundersökning) |  |  |  |  |  |
+| Invånarnas upplevelse av bemötande vid<br>senaste kontakten med tjänsteperson som<br>arbetar i kommunen, (SCB:s<br>medborgarundersökning) |  |  |  |  |  |
+| Antal e-tjänster |  |  |  |  |  |
+
+[Tabell 22-23-2](handlingar.tabeller/22-23-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Nyttjandegrad e-tjänster |  |  |  |  | 80% |
+| Uppföljning av den Digitala planen (årligen) |  |  |  |  |  |
+| NKI totalt värde, Nöjd-Kund-Index, bygglov | 54 | 44 | 40 | 38 | 62 |
+| NKI totalt värde, Nöjd-Kund-Index,<br>miljöskydd | 63 | 58 | 60 | 65 | 72 |
+| NKI totalt värde, Nöjd-Kund-Index, livsmedel | 75 | 75 | 74 | 72 | 78 |
+| NKI totalt värde, Nöjd-Kund-Index, servering | 85 | 77 | 76 | 73 | 78 |
+| Nyttjandegrad e-tjänst "Söka bygglov och<br>göra anmälan" (mätning bygglov) |  |  |  |  | 60% |
+| Nyttjandegrad e-tjänst "Söka bygglov och<br>göra anmälan" (mätning anmälan) |  |  |  |  | 70% |
+| Handläggningstid prövning registrering av<br>livsmedelsanläggning - från komplett anmälan<br>till beslut - (analog ansökan), 5 arbetsdagar. |  |  |  |  | 5 |
+| Handläggningstid prövning registrering av<br>livsmedelsanläggning - från komplett anmälan<br>till beslut -(digital ansökan), 24 timmar |  |  |  |  | 24 |
 
 <!-- sida 23 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-NKI totalt värde, Nöjd-Kund-Index,
-63     58      60      65      72
-miljöskydd
-NKI totalt värde, Nöjd-Kund-Index, livsmedel 75 75 74 72     78
-NKI totalt värde, Nöjd-Kund-Index, servering 85 77 76 73     78
-Nyttjandegrad e-tjänst "Söka bygglov och
-60%
-göra anmälan" (mätning bygglov)
-Nyttjandegrad e-tjänst "Söka bygglov och
-70%
-göra anmälan" (mätning anmälan)
-Handläggningstid prövning registrering av
-livsmedelsanläggning - från komplett anmälan                 5
-till beslut - (analog ansökan), 5 arbetsdagar.
-Handläggningstid prövning registrering av
-livsmedelsanläggning - från komplett anmälan                 24
-till beslut -(digital ansökan), 24 timmar
 Uppföljning av den Digitala planen görs med kommentar i delårsuppföljning per augusti och årsredovisning 2022.
+
 Handläggningstid för prövning registrering av livsmedelsanläggning; målvärden är kopplade till verksamhetsmåtten i avsnitt 10 i
 denna budget. Målvärden är 24 timmar respektive 5 arbetsdagar.
 7.5.2 Nämnderna har en god arbetsmiljö och ett utvecklande ledar- och medarbetarskap.
+
 Beslutats av
 Nämnd
 
@@ -1020,23 +911,22 @@ Fokusområde
 Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
-Utfall Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018    2019   2020    2022
-Motivation och ledarskap (HME, hållbart
-78,4
-medarbetarengagemang. Helt värde.)
-Antal rapporterade tillbud
-Antal rapporterade arbetsskador.
-Andel medarbetare som utbildats i
-30%
-Utvecklande medarbetarskap (UM).
 Mätvärden för antal rapporterade tillbud och arbetsskador rapporteras inom ramen för det systematiska arbetsmiljöarbetet.
 Mätvärden kommer att kommenteras vid delårsuppföljning per augusti och årsredovisning 2022. Målvärde 2022 är "öka".
+
 2019: Tillbud 3 st, arbetsskador 2 st
 2020: Tillbud 5 st, arbetsskador 1 st
 
 Nämndbudget 2022                 21
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Motivation och ledarskap (HME, hållbart<br>medarbetarengagemang. Helt värde.) |  |  |  | 78,4 |  |
+| Antal rapporterade tillbud |  |  |  |  |  |
+| Antal rapporterade arbetsskador. |  |  |  |  |  |
+| Andel medarbetare som utbildats i<br>Utvecklande medarbetarskap (UM). |  |  |  |  | 30% |
 
 <!-- sida 24 -->
 
@@ -1110,61 +1000,22 @@ Byggnadsnämnden                                 Kungsbacka kommun
 
 10.1 Prestationsmått
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2020
-2018    2019    2020           2022
-Handläggningstid
-från ärende komplett
-till beslut för
-8      10      13              10
-bygglov, en- och
-tvåbostadshus, veckor
-median
-Handläggningstid
-från ärende komplett
-till beslut, bygglov                           10
-Bygglov       privatpersoner
-(veckor median)
-Handläggningstid
-från ärende komplett
-till beslut, bygglov                           8
-företag (veckor
-median)
-Ärendebalans -
-100%
-alla ärenden
-105     233     262
-Nybyggnadskartor
-Geodata
-Husutstakningar 294  259     257
-Lägeskontroller 176  113     110
-Handläggningstid
-prövning
-värmepump- från
-14
-komplett
-ansökan/anmälan till
-beslut. 14 arbetsdagar
-Handläggningstid
-prövning registrering
-av
-livsmedelsanläggning
-5
-\- från komplett
-Miljö & Hälsoskydd
-anmälan till beslut -
-(analog ansökan), 5
-arbetsdagar.
-Handläggningstid
-prövning registrering
-av
-livsmedelsanläggning
-24
-\- från komplett
-anmälan till beslut -
-(digital ansökan), 24
-timmar
 Nämndbudget 2022                 24
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Riket 2020 | Budget<br>2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bygglov | Handläggningstid<br>från ärende komplett<br>till beslut för<br>bygglov, en- och<br>tvåbostadshus, veckor<br>median | 8 | 10 | 13 |  | 10 |
+|  | Handläggningstid<br>från ärende komplett<br>till beslut, bygglov<br>privatpersoner<br>(veckor median) |  |  |  |  | 10 |
+|  | Handläggningstid<br>från ärende komplett<br>till beslut, bygglov<br>företag (veckor<br>median) |  |  |  |  | 8 |
+|  | Ärendebalans -<br>alla ärenden |  |  |  |  | 100% |
+| Geodata | Nybyggnadskartor | 105 | 233 | 262 |  |  |
+|  | Husutstakningar | 294 | 259 | 257 |  |  |
+|  | Lägeskontroller | 176 | 113 | 110 |  |  |
+| Miljö & Hälsoskydd | Handläggningstid<br>prövning<br>värmepump- från<br>komplett<br>ansökan/anmälan till<br>beslut. 14 arbetsdagar |  |  |  |  | 14 |
+|  | Handläggningstid<br>prövning registrering<br>av<br>livsmedelsanläggning<br>- från komplett<br>anmälan till beslut -<br>(analog ansökan), 5<br>arbetsdagar. |  |  |  |  | 5 |
+|  | Handläggningstid<br>prövning registrering<br>av<br>livsmedelsanläggning<br>- från komplett<br>anmälan till beslut -<br>(digital ansökan), 24<br>timmar |  |  |  |  | 24 |
 
 <!-- sida 27 -->
 
@@ -1197,54 +1048,23 @@ omvärldsfaktorer som till exempel byggtakt och konjunktur.
 
 10.2 Effektmått
 
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2020
-2018    2019    2020           2022
-Antal påbörjade
-bostäder (beviljade
-156     181     149
-bygglov) - en- och
-tvåbostadshus
-Antal påbörjade
-bostäder (beviljade
-209     144     168
-bygglov) - lägenheter
-i flerbostadshus
-Bygglov         Andel
-bygglovsärenden som
-klarar lagstadgad
-handläggningstid (10
-veckor)
-Andel rätt vid
-överprövning - Av
-beslut tagna av
-Länsstyrelsen
-innevarande år
-
 Nämndbudget 2022                 25
+
+[Tabell 27-28-1](handlingar.tabeller/27-28-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Riket 2020 | Budget<br>2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Bygglov | Antal påbörjade<br>bostäder (beviljade<br>bygglov) - en- och<br>tvåbostadshus | 156 | 181 | 149 |  |  |
+|  | Antal påbörjade<br>bostäder (beviljade<br>bygglov) - lägenheter<br>i flerbostadshus | 209 | 144 | 168 |  |  |
+|  | Andel<br>bygglovsärenden som<br>klarar lagstadgad<br>handläggningstid (10<br>veckor) |  |  |  |  |  |
+|  | Andel rätt vid<br>överprövning - Av<br>beslut tagna av<br>Länsstyrelsen<br>innevarande år |  |  |  |  |  |
+|  | Antal<br>färdigställda bostäder<br>(beviljade slutbesked)<br>- En- och<br>tvåbostadshus |  |  |  |  |  |
+|  | Antal<br>färdigställda bostäder<br>(beviljade slutbesked)<br>- lägenheter i<br>flerbostadshus |  |  |  |  |  |
+| Geodata | Andel levererade<br>nybyggnadskartor<br>inom 15 arbetsdagar<br>(i procent) |  |  |  |  | 80% |
 
 <!-- sida 28 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
-
-Utfall Utfall  Utfall          Budget
-Delområde     Nyckeltal                            Riket 2020
-2018    2019    2020           2022
-Antal
-färdigställda bostäder
-(beviljade slutbesked)
-\- En- och
-tvåbostadshus
-Antal
-färdigställda bostäder
-(beviljade slutbesked)
-\- lägenheter i
-flerbostadshus
-Andel levererade
-nybyggnadskartor
-Geodata                                                     80%
-inom 15 arbetsdagar
-(i procent)
 
 Nämndbudget 2022                 26
 
@@ -1332,86 +1152,45 @@ avslutar sin anställning.
 
 11.2 Personalmått
 
-Nyckeltal      Utfall 2018 Utfall 2019 Utfall 2020 Budget 2021 Budget 2022
-Andel heltid     95%       93,6%      95,9%
-
-Andel kvinnor som
-94,6%      94,6%      96,7%
-har heltid
-Andel män som har
-95,7%       92%       94,6%
-heltid
-Antal medarbetare
-19,3       18,4
-per enhetschef
-Medarbetare 40 - 49
-24,2%      21,9%      27,7%
-år
-Medarbetare 50 - 59
-19,4%      17,2%      23,8%
-år
-Medarbetare 60 år
-12,9%      12,5%      7,9%
-och äldre
-Sjukfrånvaro Totalt 6,3%   5,2%       4,6%
-Sjukfrånvaro
-9,2%       7,1%       5,9%
-Kvinnor
-Sjukfrånvaro Män 1,9%      2,4%       2,5%
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 38,7%   32,8%      36,1%
-dagar eller mer
 Nämndbudget 2022                 28
+
+[Tabell 30-31-1](handlingar.tabeller/30-31-1.csv)
+
+| Nyckeltal | Utfall 2018 | Utfall 2019 | Utfall 2020 | Budget 2021 | Budget 2022 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 95% | 93,6% | 95,9% |  |  |
+| Andel kvinnor som<br>har heltid | 94,6% | 94,6% | 96,7% |  |  |
+| Andel män som har<br>heltid | 95,7% | 92% | 94,6% |  |  |
+| Antal medarbetare<br>per enhetschef |  | 19,3 | 18,4 |  |  |
+| Medarbetare 40 - 49<br>år | 24,2% | 21,9% | 27,7% |  |  |
+| Medarbetare 50 - 59<br>år | 19,4% | 17,2% | 23,8% |  |  |
+| Medarbetare 60 år<br>och äldre | 12,9% | 12,5% | 7,9% |  |  |
+| Sjukfrånvaro Totalt | 6,3% | 5,2% | 4,6% |  |  |
+| Sjukfrånvaro<br>Kvinnor | 9,2% | 7,1% | 5,9% |  |  |
+| Sjukfrånvaro Män | 1,9% | 2,4% | 2,5% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 38,7% | 32,8% | 36,1% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer<br>Kvinnor | 44% | 40% | 44,9% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer Män | 0% | 0% | 2% |  |  |
+| Frisknärvaro<br>Kvinnor | 34% | 48,8% | 57,5% |  |  |
+| Frisknärvaro Män | 66,7% | 59,3% | 78,7% |  |  |
+| Anställda totalt | 62 | 64 | 101 |  |  |
+| Anställda andel<br>kvinnor | 61,3% | 59,4% | 63,4% |  |  |
+| Anställda andel män | 38,7% | 40,6% | 36,6% |  |  |
+| Korttidssjukfrånvaro<br>Kvinnor | 3,7% | 3% | 2,5% |  |  |
+| Korttidssjukfrånvaro<br>Män | 1,9% | 2% | 2% |  |  |
+| Långtidssjukfrånvaro | 2,7% | 2,7% | 2,2% |  |  |
+| Långtidssjukfrånvaro<br>Kvinnor | 4,4% | 4,1% | 3,4% |  |  |
+| Långtidssjukfrånvaro<br>Män | 0% | 0,4% | 0,4% |  |  |
+| Korttidssjukfrånvaro | 3% | 2,6% | 2,3% |  |  |
+| Frisknärvaro | 46% | 52,9% | 65,8% |  |  |
+| Personalomsättning | 13,1% | 8,2% | 19,7% |  |  |
+| Medarbetare yngre<br>än 30 år | 17,74% | 12,5% | 4% |  |  |
+| Medelålder | 43 | 42 | 44 |  |  |
+| Medarbetare 30 - 39<br>år | 25,8% | 35,9% | 36,6% |  |  |
 
 <!-- sida 31 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
-
-Nyckeltal      Utfall 2018 Utfall 2019 Utfall 2020 Budget 2021 Budget 2022
-Sjukfrånvaro, andel
-av sjukfrånvaro 60
-44%        40%       44,9%
-dagar eller mer
-Kvinnor
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 0%       0%         2%
-dagar eller mer Män
-Frisknärvaro
-34%       48,8%      57,5%
-Kvinnor
-Frisknärvaro Män 66,7%     59,3%      78,7%
-Anställda totalt 62         64         101
-Anställda andel
-61,3%      59,4%      63,4%
-kvinnor
-Anställda andel män 38,7%  40,6%      36,6%
-Korttidssjukfrånvaro
-3,7%        3%        2,5%
-Kvinnor
-Korttidssjukfrånvaro
-1,9%        2%         2%
-Män
-Långtidssjukfrånvaro 2,7%  2,7%       2,2%
-Långtidssjukfrånvaro
-4,4%       4,1%       3,4%
-Kvinnor
-Långtidssjukfrånvaro
-0%        0,4%       0,4%
-Män
-
-```osaker-tabell
-Korttidssjukfrånvaro 3%    2,6%       2,3%
-Frisknärvaro     46%       52,9%      65,8%
-Personalomsättning 13,1%   8,2%       19,7%
-```
-
-Medarbetare yngre
-17,74%     12,5%       4%
-än 30 år
-Medelålder       43         42         44
-Medarbetare 30 - 39
-25,8%      35,9%      36,6%
-år
 
 Nämndbudget 2022                 29
 
@@ -1497,142 +1276,113 @@ Byggnadsnämnden                                 Kungsbacka kommun
 
 13.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                      Beslutande paragraf/År
-Attestreglemente                                   KF 2015-01-10 § 30
-
-Fördjupad översiktsplan för Anneberg/Älvsåker      KF § 1995-03-09 § 7
-Fördjupad översiktsplan för Särö                   KF 1999-10-14 § 171
-Fördjupad översiktsplan för Tjolöholm              KF 2008-10-14 § 171
-
-Fördjupad översiktsplan för Kungsbacka stad       KF § 2009-06-16 § 113
-Kvalitet                                           KF 2013-08-13 § 101
-
-Barnkonventionen - policy                           KF 2014-11-11 §
-Konkurrensprövning                                 KF 2011-02-01 § 8
-Reglemente för arkivmyndigheten                    KF 2019-04-09 § 45
-
-Strategiskt program för utveckling av innerstaden - en del av Kungsbacka centrum
-KF 2011-05-04 § 112
-2011-2020
-Vision 2030                                        KF 2017-06-16 § 94
-Översiktsplan för Kungsbacka kommun                KF 2006-04-27 § 35
-Översiktsplan för vindkraft                        KF 2012-04-10 § 89
-Kommunikation                                      KF 2019-12-10 § 194
-
-Fördjupad översiktsplan för Åsa                    KF 2013-11-12 § 156
-Fordon                                             KF 2014-10-13 § 114
-Policy för upphandling                            KF § 2021-03-09 § 30
-
-Konkurrensprövning - tillämpningsanvisningar       KF 2011-02-01 § 8
-Personuppgifter - policy                           KF 2018-06-14 § 111
-
-Omställningsstöd och pension för förtroendevalda (OPF-KL18) KF 2018-12-13 § 26
-Taxa för kopia av allmän handling                  KF 2021-04-13 § 65
-Lokala ordningsföreskrifter                        KF 2020-02-02 § 8
-
-Attestreglemente - tillämpningsanvisningar       Ekonomichef 2015-05-01
-E-målbild 2020                                          FC
-Klimatstrategi                                     KF 2018-12-13 § 257
-
-Invånardialog                                       KF 2014 § 119
-Privata utförare                                   KF 2016-10-11 § 144
-
-Direktupphandling                                  KS 2018-08-28 § 185
-Förmåner till förtroendevalda                      KF 2018-12-13 § 260
-Arbetsgivarpolicy                                  KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Regler för tjänsteresor
-2019-08-20
 Nämndbudget 2022                 32
+
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-01-10 § 30 |
+| Fördjupad översiktsplan för Anneberg/Älvsåker | KF § 1995-03-09 § 7 |
+| Fördjupad översiktsplan för Särö | KF 1999-10-14 § 171 |
+| Fördjupad översiktsplan för Tjolöholm | KF 2008-10-14 § 171 |
+| Fördjupad översiktsplan för Kungsbacka stad | KF § 2009-06-16 § 113 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Reglemente för arkivmyndigheten | KF 2019-04-09 § 45 |
+| Strategiskt program för utveckling av innerstaden - en del av Kungsbacka centrum<br>2011-2020 | KF 2011-05-04 § 112 |
+| Vision 2030 | KF 2017-06-16 § 94 |
+| Översiktsplan för Kungsbacka kommun | KF 2006-04-27 § 35 |
+| Översiktsplan för vindkraft | KF 2012-04-10 § 89 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fördjupad översiktsplan för Åsa | KF 2013-11-12 § 156 |
+| Fordon | KF 2014-10-13 § 114 |
+| Policy för upphandling | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Personuppgifter - policy | KF 2018-06-14 § 111 |
+| Omställningsstöd och pension för förtroendevalda (OPF-KL18) | KF 2018-12-13 § 26 |
+| Taxa för kopia av allmän handling | KF 2021-04-13 § 65 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-05-01 |
+| E-målbild 2020 | FC |
+| Klimatstrategi | KF 2018-12-13 § 257 |
+| Invånardialog | KF 2014 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Direktupphandling | KS 2018-08-28 § 185 |
+| Förmåner till förtroendevalda | KF 2018-12-13 § 260 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Regler för tjänsteresor | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Taxa för plan-och byggverksamhet | KF 2020-09-08 § 97 |
+| Reglemente för Byggnadsnämnden | KF 2021-05-04 § 81 |
+| Taxa för plan-och byggverksamhet | KF 2020-09-08 § 97 |
+| Taxa för byggnadsnämndens verksamhet | KF 2011-12-06 § 246 |
 
 <!-- sida 35 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Styrdokument                                      Beslutande paragraf/År
-Arbetsmiljömål                                     KF 2020-10-06 § 119
-
-Taxa för plan-och byggverksamhet                   KF 2020-09-08 § 97
-Reglemente för Byggnadsnämnden                     KF 2021-05-04 § 81
-Taxa för plan-och byggverksamhet                   KF 2020-09-08 § 97
-
-Taxa för byggnadsnämndens verksamhet               KF 2011-12-06 § 246
-
 13.2 Styrdokument beslutade av byggnadsnämnden
 
-Styrdokument                                      Beslutande paragraf/År
-Arkivordning                                       BN 2014-06-05 § 179
-Byggnadsnämndens delegeringsförteckning            BN 2020-03-12 § 65
-
-Arkivredovisning                                   BN 2018-03-15 § 62
-Byggnadsnämndens tillsynsplan 2018-2020            BN 2017-12-07 § 327
-Arkitekturprogram - Ramprogram för Kungsbacka kommun BN 2002-12-05 § 202
-
-Arkitekturprogram - Delprogram: Karaktärisering av Anneberg-Älvsåker BN 2003-06-05 § 112
-Arkitekturprogram - Delprogram: Karaktärisering av Kungsbacka Innerstad BN 2004-06-03 § 104
-
-Arkitekturprogram - Delprogram: Karaktärisering av Kungsbackas östra
-BN 2004-11-04 § 214
-kommundelar med fokus på Gällinge
-Arkitekturprogram - Delprogram: Karaktärisering av Västra Villastaden BN 2006-03-02 § 51
-Arkitekturprogram - Delprogram: Karaktärisering av Gottskär BN 2006-06-01 § 112
-Områdesbestämmelser och arkitekturprogram för Flamsnäs BN 2008-04-03 § 154
-Råd och tips till dig som ska bygga i ett tidigare sommarstugeområde BN 2007-09-06 § 230
-Råd och riktlinjer - Skyltprogram för Kungsbacka   BN 2011-06-09 § 153
-
-Råd och riktlinjer för vindkraftverk som prövas enligt PBL BN 2013-09-05 § 263
-Paletter: Ett färgsättningsprogram för Kungsbacka innerstad BN 2015-03-12 § 64
-
-Tölö Ängar: Råd och riktlinjer vid gestaltning     BN 2020-02-20 § 36
-Bryggor och båthus/sjöbodar i Gottskär - Principer för bygglovsgivning och
-BN 2002-12-05 § 203
-byggande
-Karaktär Kungsbacka - En beskrivning av stadens byggnadskaraktärer BN 2011-06-09 § 156
-Råd och riktlinjer för Vallda Heberg 3:20          BN 2011-12-01 § 309
-Riktlinjer för gestaltning i Lerkil                BN 2015-10-15 § 224
-Sandlyckan Råd och riktlinjer vid gestaltning      BN 2020-02-20 § 36
-
-Sintorp - Råd och riktlinjer för gestaltning       BN 2020-02-20 § 36
-Råd och riktlinjer för gestaltning - Johan Oscars väg 5-27 BN 2008-06-04 § 208
-
-Råd och riktlinjer för gestaltning - Kvarteret Banvallen, Kullavik BN 2008-06-04 § 209
-Råd och riktlinjer för gestaltning - Kvarteret Tallbacken BN 2008-06-04 § 210
-Råd och riktlinjer för gestaltning - Smekalles äng: Fastigheterna Kolla 3:10, Kolla
-BN 2008-06-04 § 211
-3:35, Kolla 3:37 och Kolla 3:39
 Nämndbudget 2022                 33
+
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Arkivordning | BN 2014-06-05 § 179 |
+| Byggnadsnämndens delegeringsförteckning | BN 2020-03-12 § 65 |
+| Arkivredovisning | BN 2018-03-15 § 62 |
+| Byggnadsnämndens tillsynsplan 2018-2020 | BN 2017-12-07 § 327 |
+| Arkitekturprogram - Ramprogram för Kungsbacka kommun | BN 2002-12-05 § 202 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Anneberg-Älvsåker | BN 2003-06-05 § 112 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Kungsbacka Innerstad | BN 2004-06-03 § 104 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Kungsbackas östra<br>kommundelar med fokus på Gällinge | BN 2004-11-04 § 214 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Västra Villastaden | BN 2006-03-02 § 51 |
+| Arkitekturprogram - Delprogram: Karaktärisering av Gottskär | BN 2006-06-01 § 112 |
+| Områdesbestämmelser och arkitekturprogram för Flamsnäs | BN 2008-04-03 § 154 |
+| Råd och tips till dig som ska bygga i ett tidigare sommarstugeområde | BN 2007-09-06 § 230 |
+| Råd och riktlinjer - Skyltprogram för Kungsbacka | BN 2011-06-09 § 153 |
+| Råd och riktlinjer för vindkraftverk som prövas enligt PBL | BN 2013-09-05 § 263 |
+| Paletter: Ett färgsättningsprogram för Kungsbacka innerstad | BN 2015-03-12 § 64 |
+| Tölö Ängar: Råd och riktlinjer vid gestaltning | BN 2020-02-20 § 36 |
+| Bryggor och båthus/sjöbodar i Gottskär - Principer för bygglovsgivning och<br>byggande | BN 2002-12-05 § 203 |
+| Karaktär Kungsbacka - En beskrivning av stadens byggnadskaraktärer | BN 2011-06-09 § 156 |
+| Råd och riktlinjer för Vallda Heberg 3:20 | BN 2011-12-01 § 309 |
+| Riktlinjer för gestaltning i Lerkil | BN 2015-10-15 § 224 |
+| Sandlyckan Råd och riktlinjer vid gestaltning | BN 2020-02-20 § 36 |
+| Sintorp - Råd och riktlinjer för gestaltning | BN 2020-02-20 § 36 |
+| Råd och riktlinjer för gestaltning - Johan Oscars väg 5-27 | BN 2008-06-04 § 208 |
+| Råd och riktlinjer för gestaltning - Kvarteret Banvallen, Kullavik | BN 2008-06-04 § 209 |
+| Råd och riktlinjer för gestaltning - Kvarteret Tallbacken | BN 2008-06-04 § 210 |
+| Råd och riktlinjer för gestaltning - Smekalles äng: Fastigheterna Kolla 3:10, Kolla<br>3:35, Kolla 3:37 och Kolla 3:39 | BN 2008-06-04 § 211 |
+| Kolla Parkstad - Råd och riktlinjer för gestaltning | BN 2020-02-20 § 36 |
+| Råd och riktlinjer för gestaltning - Björkris kvarter J, M, N, O | BN 2010-07-01 § 196 |
+| Råd och riktlinjer för gestaltning - Björkris kvarter K | BN 2012-01-12 § 9 |
+| Björkris – Råd och riktlinjer vid gestaltning – Kvarter B och I | BN 2020-02-20 § 36 |
+| Bygga hus utanför detaljplan, i utvecklingsområden samt i områden med särskilda<br>bygglovskriterier | BN 2013-07-04 § 193 |
+| Principer för nybyggnad utom detaljplan | BN 2020-02-20 § 37 |
+| Riktlinjer för tolkning av begreppet sammanhållen bebyggelse | 2020-03-12 § 64 |
+| Riktlinjer för byggnadsnämndens ställningstagande i avstyckningsärenden inom<br>planlagt område | BN 2004-07-01 § 133 |
+| Rutin för hantering av personuppgiftsincident | 2019-11-21 § 367 |
+| Tölö Ängar: Miljö- och kvalitetsprogram för etapp 2 | 2014-11-06, § 353 |
+| Tölö ängar, etapp 2: Råd och riktlinjer | 2015-08-20, § 167 |
 
 <!-- sida 36 -->
 
 Byggnadsnämnden                                 Kungsbacka kommun
 
-Styrdokument                                      Beslutande paragraf/År
-Kolla Parkstad - Råd och riktlinjer för gestaltning BN 2020-02-20 § 36
-
-Råd och riktlinjer för gestaltning - Björkris kvarter J, M, N, O BN 2010-07-01 § 196
-Råd och riktlinjer för gestaltning - Björkris kvarter K BN 2012-01-12 § 9
-Björkris – Råd och riktlinjer vid gestaltning – Kvarter B och I BN 2020-02-20 § 36
-
-Bygga hus utanför detaljplan, i utvecklingsområden samt i områden med särskilda
-BN 2013-07-04 § 193
-bygglovskriterier
-Principer för nybyggnad utom detaljplan            BN 2020-02-20 § 37
-Riktlinjer för tolkning av begreppet sammanhållen bebyggelse 2020-03-12 § 64
-Riktlinjer för byggnadsnämndens ställningstagande i avstyckningsärenden inom
-BN 2004-07-01 § 133
-planlagt område
-Rutin för hantering av personuppgiftsincident       2019-11-21 § 367
-Tölö Ängar: Miljö- och kvalitetsprogram för etapp 2 2014-11-06, § 353
-Tölö ängar, etapp 2: Råd och riktlinjer            2015-08-20, § 167
-
 13.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                      Beslutande paragraf/År
-Riktlinjer för integration                         KS 2019-11-26 § 275
-Ansvar och uppgiftsfördelning av arbetsmiljöuppgifter KS 2020-02-18 § 32
-
 Nämndbudget 2022                 34
+
+[Tabell 36-1](handlingar.tabeller/36-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Riktlinjer för integration | KS 2019-11-26 § 275 |
+| Ansvar och uppgiftsfördelning av arbetsmiljöuppgifter | KS 2020-02-18 § 32 |
 
 <!-- sida 37 -->
 

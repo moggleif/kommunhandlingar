@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319190116id_/https://www.kungsbacka.
 sha256: 9ec6c14115c24cb756ecb7e10657a29f61d847a345125db662a007ade35cd6f3
 bytes: 1078274
 sidor: 24
-hamtad: 2026-11-17T04:04:25+00:00
-konverterad: 2026-11-17T04:04:27+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T01:09:34+00:00
+konverterad: 2026-11-21T01:09:37+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -424,8 +424,9 @@ Justerare                         Expedierat/bestyrkt
 
 [Tabell 10-1](protokoll.tabeller/10-1.csv)
 
-| ARANÄS | Organisation lå 21/22 | Varav introduktionsprogrammet<br>programinriktat val - sökbart |
+| ARANÄS | Organisation lå 21/22 | Varav introduktionsprogrammet |
 | --- | --- | --- |
+|  |  | programinriktat val - sökbart |
 | Bygg och anläggningsprogrammet | 32 |  |
 | Barn och fritidsprogrammet | 32 | 4 |
 | Estetiska programmet | 36 | 4 |

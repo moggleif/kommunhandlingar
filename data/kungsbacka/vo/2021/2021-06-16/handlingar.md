@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320014133id_/https://www.kungsbacka.
 sha256: 954e728503ab045ca5913b217087f05397310068e16544c8558d4b8ed6932072
 bytes: 3036027
 sidor: 37
-hamtad: 2026-10-28T11:49:09+00:00
-konverterad: 2026-10-28T11:49:31+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:02:45+00:00
+konverterad: 2026-11-21T01:03:04+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, tabell-osaker, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ok, ocr, ocr, ocr, ocr, ej-konverterad, ok, ok, ok, ok, ok]
 tal_obekraftade: [14, 15, 17, 19, 20, 21, 26, 28, 29, 30, 31, 32]
 figurer: [14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32]
 tolkade: []
@@ -785,28 +785,24 @@ exklusive tillfälliga tillskott pga pandemin
 
 16
 
-EN
-NI
-
-Miljarder kronor
-[00]
+12
 
 14,2
 
 6,5
 
-nn 5,4
-4
-23
-0,9
-0
-2019 2020 2021 2022 2023
+54
+2,3
 
-t
+0,9 Kn
+
+2019 2020 2021 2022 2023
 
 Kungsbacka
 
 ommuner
+
+Miljarder kronor
 
 <!-- sida 18 -->
 
@@ -892,27 +888,12 @@ Kungsbacka kommun
 
 <!-- sida 24 -->
 
-Belopp   i tusen kronor                                                  Tillägg 2022
+[Tabell 24-1](handlingar.tabeller/24-1.csv)
 
-KS/Överförmyndarverksamheten                                                          300
-
-KS/Infrastrukturplattform    kommungemensam        digitalisering                   5 000
-
-Kultur  &  Fritid, bidrag Kvinnojouren                                              1 000
-
-Valnämnden,    valår, fler valdistrikt, ej nivåhöjande                                500
-
-Teknik,  utökat väghållningsansvar,    KF  beslut                                   2 500
-
-Service, Ekonomisk     rådgivning,  ej nivåhöjande                                    700
-
-Gymnasium     &  Arbetsmarknads    utmaningar                                       2 962
-
-Individ &  Familjeomsorgs     utmaningar                                            2 413
-
-Vård  &  Omsorgs   utmaningar                                                      11 986
-
-SUMMA                                                                             27  361
+| Belopp i tusen kronor | Tillägg 2022 |
+| --- | --- |
+| KS/Överförmyndarverksamheten 300<br>KS/Infrastrukturplattform kommungemensam digitalisering 5 000<br>Kultur & Fritid, bidrag Kvinnojouren 1 000<br>Valnämnden, valår, fler valdistrikt, ej nivåhöjande 500<br>Teknik, utökat väghållningsansvar, KF beslut 2 500<br>Service, Ekonomisk rådgivning, ej nivåhöjande 700<br>Gymnasium & Arbetsmarknads utmaningar 2 962<br>Individ & Familjeomsorgs utmaningar 2 413<br>Vård & Omsorgs utmaningar 11 986 |  |
+| SUMMA 27 361 |  |
 
 <!-- sida 25 -->
 
@@ -928,57 +909,62 @@ SUMMA                                                                           
 
 För litet resultat eller för stora investeringar?
 
-Kungsbacka
 1600
 
-Kassaflödesanalys
-1400 1363
+1400
 
-1233
+1200
 
-1200 1177
+1000
 
-1000 948 —&L
-
-912
-
-\- H -
-
-2017 2018 2019 2020 2021 2022 2023 2024 2025
-
-800 1744
+800
 
 600
-492
 
 400
-
-Investeringar
 
 200
 
 0\)
 
+Kassaflödesanalys
+
+492
+
+2017
+
+744
+
+2018
+
+948
+
+Kungsbacka
+
+1363
+
+—?
+
+912
+
+1233
+1177
+
+Investeringar
+
 <!-- sida 27 -->
 
-```osaker-tabell
-Löpnr       Lokaltyp      och    beskrivning                   2022        2023        2024       2025            2026
+[Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-   803      Björkris   vård-  och   omsorgsboende               120
-
-   805      Ekhaga    vård-   och  omsorgsboende                            -26                     40
-
-   807      Anneberg      vård-  och   omsorgsboende                                                80
-```
-
-808      Bukärrsgården       avveckling                                                           x
-
-809      Hemtjänstlokal       Hede   flytt                     x
-
-810      Pölagården     avveckling                             x
-
-120         -26           0         120
-Summa     boendeplatser
+| Löpnr | Lokaltyp och beskrivning | 2022 | 2023 | 2024 | 2025 | 2026 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 803 | Björkris vård- och omsorgsboende | 120 |  |  |  |  |
+| 805 | Ekhaga vård- och omsorgsboende |  | -26 |  | 40 |  |
+| 807 | Anneberg vård- och omsorgsboende |  |  |  | 80 |  |
+| 808 | Bukärrsgården avveckling |  |  |  | x |  |
+| 809 | Hemtjänstlokal Hede flytt | x |  |  |  |  |
+| 810 | Pölagården avveckling | x |  |  |  |  |
+| Summa boendeplatser |  | 120 | -26 | 0 | 120 |  |
 
 <!-- sida 28 -->
 

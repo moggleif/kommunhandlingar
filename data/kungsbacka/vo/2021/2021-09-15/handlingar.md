@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20220320051334id_/https://www.kungsbacka.
 sha256: 9e4294064ccadc2d0d6cd79b9efb4b8d15cc99b1a73f1e537a5544598803efec
 bytes: 14419582
 sidor: 248
-hamtad: 2026-10-28T10:18:06+00:00
-konverterad: 2026-10-28T10:20:38+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T00:34:59+00:00
+konverterad: 2026-11-21T00:37:10+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ocr, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ocr, ok, ej-konverterad, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 138, 175, 216, 220, 221, 223, 225, 227, 229, 231, 233]
 figurer: [18, 19, 20, 21, 22, 30, 33, 38, 40, 41, 42, 50, 56, 57, 81, 86, 92, 95, 96, 99, 101, 108, 143, 160, 168, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 200, 211, 216, 218, 219, 220, 221, 222, 223, 224, 226, 227, 228, 230, 231, 232, 233, 241, 245]
 tolkade: []
@@ -167,7 +167,6 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 Förvaltningen för Vård & Omsorg tillhandahåller en god och säker vård utifrån den statistik, granskningar
 och uppföljningar som gjorts under våren.
-
 De resultat som har visat extra god kvalité är inom områdena läkemedelshantering, vaccination,
 hemsjukvårdsenkät och följsamhet till de basala hygienrutinerna.
 
@@ -175,42 +174,56 @@ Munhälsobedömning och smärtskattning vid vård i livets slut samt följsamhet
 ordinationer har förbättrats men är fortsatt förbättringsområden.
 Covid-19 har fortsatt påverkat verksamheten under våren.
 
-2 Hur  patientsäkerhetsarbetet      har  bedrivits  samt   vilka
-
-åtgärder   som   genomförts    för ökad   patientsäkerhet
+2 Hur  patientsäkerhetsarbetet       har bedrivits  samt   vilka
+åtgärder   som   genomförts     för ökad  patientsäkerhet
 
 Covid-19
 
 I syfte att minska smittspridningen har förvaltningen arbetat med många olika åtgärder för att säkerställa
 patienternas hälso- och sjukvård. Åtgärderna sammanfattas i bilden nedan.
 
-Minska antal personal som                  Tillämpa fysisk distansering så
-Personal med symtom är inte
-hanterar patienter med smitta Koll på luftvägssymtom långt som möjligt mellan
-på jobbet utan hemma
-Covid-19 å Covidkorttids                    personal och patienter
-Se till att personalomsättningen
-Avstånd mellan brukare bör Minskad närkontakt i
-Begränsa användningen av är så liten som möjligt. Undvik
-upprätthållas i matsalar, ansiktsregionen mellan brukare
-gemensamma utrymmenS att samma vårdare arbetar på
-patientkök och liknande och personal
-flera olika enheter
+Minska antal personal som
+hanterar patienter med smitta
+Covid-19 å Covidkorttids
+
+Avstånd mellan brukare bör
+upprätthållas i matsalar,
+patientkök och liknande
+
 Tilämpa fysisk distansering
-Se till att den personal som
-mellan personalen så att de  Efterfråga om nya boende kan
-vårdar brukare med misstänkt
-inte smittar varandra i Avrådan besök ha utsatts för smitta. Om så är
-eller konstaterad smitta inte
-personalrum, matsalar,       fallet isolera om möjligt
-också vårdar friska brukare
+mellan personalen så att de
+inte smittar varandra i
+personalrum, matsalar,
 omklädningsrum etc
+
+Tillämpa fysisk distansering så
+Personal med symtom är inte
+Koll på luftvägssymtom långt som möjligt mellan
+på jobbet utan hemma
+personal och patienter
+Se till att personalomsättningen
+Minskad närkontakt i
+Begränsa användningen av är så liten som möjligt. Undvik
+ansiktsregionen mellan brukare
+gemensamma utrymmenS att samma vårdare arbetar på
+och personal
+flera olika enheter
+Se till att den personal som
+Efterfråga om nya boende kan
+vårdar brukare med misstänkt
+Avrådan besök ha utsatts för smitta. Om så är
+eller konstaterad smitta inte
+fallet isolera om möjligt
+också vårdar friska brukare
+
 Informationsöverföring, SIP,
 Platsplanering              Basala hygienrutiner Hygienombud
 journalsystem/epidemirapport
+
 Provtagning av personal och  Munskydd/Visir i vårdnära
 Skyddsutrutning
-patienter                     arbete
+patienter                    arbete
+
 Nämndens patientsäkerhetsberättelse 2021 delår 4
 
 <!-- sida 8 -->
@@ -664,17 +677,26 @@ Nämndens patientsäkerhetsberättelse 2021 delår 13
 
 [Tabell 16-1](handlingar.tabeller/16-1.csv)
 
-| Tena Identifi | 2019 vår | 2019 höst | 2020 vår | 2020 höst | 2021 vår |
+| Tena Identifi | 2019 vår | 2019 höst | 2020 vår | 2020 höst |  |
 | --- | --- | --- | --- | --- | --- |
-| Antal mätningar | 83 | 41 | 22 | 23 | 17 |
+|  |  |  |  |  | 2021 vår |
+| Antal mätningar | 83 | 41 | 22 | 23 |  |
+|  |  |  |  |  | 17 |
 
 [Tabell 16-2](handlingar.tabeller/16-2.csv)
 
-| Följsamhetsmätning Hygien | 2018 vår | 2018 höst | 2019<br>vår | 2019<br>höst | 2020 juni | 2020<br>höst | 2021<br>vår |
+| Följsamhetsmätning Hygien | 2018 vår | 2018 höst | 2019<br>vår | 2019<br>höst |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Antal Observationer | 92 | 75 | 102 | 83 | 202 | 236 | 134 |
+|  |  |  |  |  | 2020 juni | 2020 | 2021 |
+|  |  |  |  |  |  | höst | vår |
+|  |  |  |  |  |  |  |  |
+| Antal Observationer | 92 | 75 | 102 | 83 |  |  |  |
+|  |  |  |  |  | 202 | 236 | 134 |
+|  |  |  |  |  |  |  |  |
 | Följsamhet basala hygienrutiner | 83,7 % | 88,0 % | 89,2 % | 85,5 % | 97,0 % | 90,7 % | 98,5 % |
-| Följsamhet klädregler | 90,2 % | 85,3 % | 85,3 % | 79,5 % | 97,0% | 96,2 % | 95,5% |
+| Följsamhet klädregler | 90,2 % | 85,3 % | 85,3 % | 79,5 % |  |  |  |
+|  |  |  |  |  | 97,0% | 96,2 % | 95,5% |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 17 -->
 
@@ -735,9 +757,14 @@ Nämndens patientsäkerhetsberättelse 2021 delår 15
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
 
-| Palliativregistret | 2016 | 2017 | 2018 | 2019 | 2020 | 2021<br>delår |
+| Palliativregistret | 2016 | 2017 | 2018 | 2019 |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| Munhälsobedömning | 64,5 % | 68,6 % | 50,6 % | 54,6 % | 44,2% | 61% |
+|  |  |  |  |  | 2020 | 2021 |
+|  |  |  |  |  |  | delår |
+|  |  |  |  |  |  |  |
+| Munhälsobedömning | 64,5 % | 68,6 % | 50,6 % | 54,6 % |  |  |
+|  |  |  |  |  | 44,2% | 61% |
+|  |  |  |  |  |  |  |
 | Smärtskattning | 41,4 % | 50 % | 63,9 % | 70,7 % | 49,7% | 52,4% |
 
 <!-- sida 19 -->
@@ -5415,41 +5442,26 @@ generationer och livsstilar.
 \- I Kungsbacka finns mötesplatser för samvaro, rekreation, upplevelser och kreativa utbyten.
 
 \- I Kungsbacka är man trygg och får en god omsorg när man behöver stöd för att få livet att fungera
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Bäst att leva, Kungsbackas placering i ranking
-av Sveriges kommuner enligt Tidningen 28 24  15      5
-Fokus.
-Invånarnas uppfattning om kommunen som en
-plats att bo och leva på (SCB:s 72   72      68      69
-medborgarundersökning)
 
 Nämndbudget 2022                 13
+
+[Tabell 116-117-1](handlingar.tabeller/116-117-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i ranking<br>av Sveriges kommuner enligt Tidningen<br>Fokus. | 28 | 24 | 15 | 5 |  |
+| Invånarnas uppfattning om kommunen som en<br>plats att bo och leva på (SCB:s<br>medborgarundersökning) | 72 | 72 | 68 | 69 |  |
+| Antal påbörjade bostäder |  |  | 501 | 234 |  |
+| Antal färdigställda bostäder |  |  | 418 | 248 |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) |  | 4 729 | 4 338 | 5 087 |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn |  | 88% | 89% | 88% |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn |  |  |  |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn |  |  |  |  |  |
 
 <!-- sida 117 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-
-```osaker-tabell
-                             2017    2018   2019    2020    2022
-Antal påbörjade bostäder                     501     234
-Antal färdigställda bostäder                 418     248
-```
-
-Anmälda brott per invånare (antal/100 000
-4 729   4 338   5 087
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-88%     89%    88%
-helhetssyn
-Brukarbedömning särskilt boende
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-totalt - helhetssyn
 7.1.1 Personalkontinuitet inom hemtjänsten
 Beslutats av
 
@@ -5462,12 +5474,6 @@ Fokusområde
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när
 man behöver stöd för att få livet att fungera"
 
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Personalkontinuitet, antal personal som en
-hemtjänstmottagare möter under 14 dagar,
-medelvärde.
 7.1.2 Genomförandeplaner
 
 Beslutats av
@@ -5480,12 +5486,20 @@ Fokusområde
 
 Nämndmålet är kopplat till fokusområdet "I Kungsbacka är man trygg och får en god omsorg när
 man behöver stöd för att få livet att fungera".
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Andel aktuella genomförandeplaner
 
 Nämndbudget 2022                 14
+
+[Tabell 117-1](handlingar.tabeller/117-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Personalkontinuitet, antal personal som en<br>hemtjänstmottagare möter under 14 dagar,<br>medelvärde. |  |  |  |  |  |
+
+[Tabell 117-2](handlingar.tabeller/117-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Andel aktuella genomförandeplaner |  |  |  |  |  |
 
 <!-- sida 118 -->
 
@@ -5501,75 +5515,34 @@ Fokusområden
 \- Kungsbacka ska anpassa miljöarbetet till de nationella miljömålen och globala hållbarhetsmålen
 samt Borgmästaravtalet.
 -Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Koldioxidutsläpp från övriga sektorer än
-industrin i ton per invånare. (Källa: Sveriges
-2,3     2,2
-Ekokommuner) Värdet för 2018 publiceras
-under hösten 2020.
-Antal resor per invånare gjorda med
-kollektivtrafik. (Källa: Sveriges 65 73      74      45
-Ekokommuner)
-Andel förnybara bränslen i kollektivtrafiken
-79%     79%     73%    74%
-(%) (Källa: Sveriges Ekokommuner)
-Andel förnybar och återvunnen energi i
-kommunala lokaler (%) (Källa: Sveriges 99% 99% 99%  99%
-Ekokommuner)
-Transportenergi i kilowattimmar (kWh) för
-kommunens tjänsteresor med bil per 505 427   354     328
-årsarbetare. (Källa: Sveriges Ekokommuner)
-Koldioxidutsläpp från kommunens
-tjänsteresor med bil i ton per årsarbetare. 0,1 0,17 0,14 0,1
-(Källa: Sveriges Ekokommuner)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i %    91%     89%    85%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 91% 90% 88%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %    75%     73%    70%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i %    88%     81%    84%
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
+
 Nämndbudget 2022                 15
+
+[Tabell 118-119-1](handlingar.tabeller/118-119-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Koldioxidutsläpp från övriga sektorer än<br>industrin i ton per invånare. (Källa: Sveriges<br>Ekokommuner) Värdet för 2018 publiceras<br>under hösten 2020. | 2,3 | 2,2 |  |  |  |
+| Antal resor per invånare gjorda med<br>kollektivtrafik. (Källa: Sveriges<br>Ekokommuner) | 65 | 73 | 74 | 45 |  |
+| Andel förnybara bränslen i kollektivtrafiken<br>(%) (Källa: Sveriges Ekokommuner) | 79% | 79% | 73% | 74% |  |
+| Andel förnybar och återvunnen energi i<br>kommunala lokaler (%) (Källa: Sveriges<br>Ekokommuner) | 99% | 99% | 99% | 99% |  |
+| Transportenergi i kilowattimmar (kWh) för<br>kommunens tjänsteresor med bil per<br>årsarbetare. (Källa: Sveriges Ekokommuner) | 505 | 427 | 354 | 328 |  |
+| Koldioxidutsläpp från kommunens<br>tjänsteresor med bil i ton per årsarbetare.<br>(Källa: Sveriges Ekokommuner) | 0,1 | 0,17 | 0,14 | 0,1 |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 91% | 89% | 85% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) |  | 91% | 90% | 88% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 75% | 73% | 70% |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) |  | 88% | 81% | 84% |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. |  |  | 58% | 70% |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. |  |  | 61% | 80% |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  | 100 |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. |  |  |  | 100 |  |
 
 <!-- sida 119 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-58%    70%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-61%    80%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100,        100
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd.                 100
-Startvärde 100, målvärde 2030 är 60.
 7.3 Bästa företagsklimatet i Västsverige
+
 Beslutats av
 Kommunfullmäktige
 Fokusområden
@@ -5577,30 +5550,19 @@ Fokusområden
 \- Kommunen är en möjliggörare för entreprenörer och företagsamma människor.
 \- I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag genom
 samverkan mellan näringsliv och utbildning.
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Insikt, SKRs servicemätning av kommunernas
-myndighetsutövning för företag. Nöjd-kund-
-index utifrån sammanvägt betygsindex 0-100,
-67      63      62      62
-för hur företag i kommunen bedömer
-Kungsbacka kommuns myndighetsutövning,
-vilket är en viktig del av företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3      3,2     3,4     3,3
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal     26 739  27 610
-Andel av sysselsatt dagbefolkning inom
-5%      5%             5%
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
 
 Nämndbudget 2022                 16
+
+[Tabell 119-1](handlingar.tabeller/119-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-<br>index utifrån sammanvägt betygsindex 0-100,<br>för hur företag i kommunen bedömer<br>Kungsbacka kommuns myndighetsutövning,<br>vilket är en viktig del av företagsklimatet. | 67 | 63 | 62 | 62 |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3 | 3,2 | 3,4 | 3,3 |  |
+| Sysselsatt dagbefolkning, antal |  | 26 739 | 27 610 |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen |  | 5% | 5% |  | 5% |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
 
 <!-- sida 120 -->
 
@@ -5614,28 +5576,7 @@ Fokusområden
 
 \- Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla.
 \- I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv.
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17 bästa
-229     240     238     246
-betygen i elevens slutbetyg och kan max vara
-340\.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,4% 3% 2,2% 2,8%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,5  7,3
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 13,9 13,9 13,8 14
-max 20.
-Andel vuxna personer som inte återkommit till
-försörjningsstöd inom ett år efter avslutat 75% 73% 78% 82%
-försörjningsstöd (%)
+
 7.5 Ett medskapande samhälle och öppen attityd
 
 Beslutats av
@@ -5650,48 +5591,35 @@ med kommunen.
 \- Kungsbacka kommun är en attraktiv arbetsgivare med modiga och medskapande medarbetare och
 ledare.
 
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Öka den externa finansieringen av
-0       0     443 884 439 028
-förvaltningens utvecklingsportfölj
-
 Nämndbudget 2022                 17
+
+[Tabell 120-1](handlingar.tabeller/120-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17 bästa<br>betygen i elevens slutbetyg och kan max vara<br>340. | 229 | 240 | 238 | 246 |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,4% | 3% | 2,2% | 2,8% |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. | 7,5 |  | 7,3 |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 13,9 | 13,9 | 13,8 | 14 |  |
+| Andel vuxna personer som inte återkommit till<br>försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 75% | 73% | 78% | 82% |  |
+
+[Tabell 120-121-2](handlingar.tabeller/120-121-2.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Öka den externa finansieringen av<br>förvaltningens utvecklingsportfölj | 0 | 0 | 443 884 | 439 028 |  |
+| Öka antalet etablerade samarbeten med andra<br>externa aktörer för att driva förvaltningens<br>utveckling |  | 3 | 3 | 3 |  |
+| DIMIOS, digital mognad och grundläggande<br>digitala förutsättningar. Ny indikator från och<br>med år 2020 |  |  |  |  |  |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 77 | 76 |  | 77,8 |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio nyckeltal<br>med skala 1–20. | 80 | 77 | 91 |  |  |
+| Invånarnas upplevelse om möjligheterna att<br>aktivt delta i arbetet med utveckling av<br>kommunen? (t.ex. medborgar-dialoger,<br>samråd), (SCB:s medborgarundersökning) |  |  |  |  |  |
+| Invånarnas upplevelse av bemötande vid<br>senaste kontakten med politiker, (SCB:s<br>medborgarundersökning) |  |  |  |  |  |
+| Invånarnas upplevelse av bemötande vid<br>senaste kontakten med tjänsteperson som<br>arbetar i kommunen, (SCB:s<br>medborgarundersökning) |  |  |  |  |  |
+| Antal e-tjänster |  |  |  |  |  |
 
 <!-- sida 121 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Öka antalet etablerade samarbeten med andra
-externa aktörer för att driva förvaltningens 3 3     3
-utveckling
-DIMIOS, digital mognad och grundläggande
-digitala förutsättningar. Ny indikator från och
-med år 2020
-Hållbart medarbetarengagemang, ett index för
-medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 77 76  77,8
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio nyckeltal 80 77 91
-med skala 1–20.
-Invånarnas upplevelse om möjligheterna att
-aktivt delta i arbetet med utveckling av
-kommunen? (t.ex. medborgar-dialoger,
-samråd), (SCB:s medborgarundersökning)
-Invånarnas upplevelse av bemötande vid
-senaste kontakten med politiker, (SCB:s
-medborgarundersökning)
-Invånarnas upplevelse av bemötande vid
-senaste kontakten med tjänsteperson som
-arbetar i kommunen, (SCB:s
-medborgarundersökning)
-Antal e-tjänster
 
 7.5.1 Personalomsättning
 
@@ -5705,12 +5633,13 @@ Fokusområde
 Nämndmålet är kopplat till "Kungsbacka kommun är en attraktiv arbetsgivare med modiga och
 medskapande medarbetare och ledare".
 
-Utfall  Utfall  Utfall  Utfall Målvärde
-Indikator
-2017    2018   2019    2020    2022
-Personalomsättning
-
 Nämndbudget 2022                 18
+
+[Tabell 121-1](handlingar.tabeller/121-1.csv)
+
+| Indikator | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Målvärde<br>2022 |
+| --- | --- | --- | --- | --- | --- |
+| Personalomsättning |  |  |  |  |  |
 
 <!-- sida 122 -->
 
@@ -5772,106 +5701,53 @@ patienterna har upplevt den vård de mottagit. "Vad tycker de äldre om äldreom
 
 9.2 Resursmått
 
-Utfall  Utfall  Utfall         Budget
-Delområde    Nyckeltal                            Riket 2020
-2018    2019   2020            2022
-Kostnad
-äldreomsorg, kr/inv 57 720 60 310
-65+
-Nettokostnadsavvikel 4% 8,1%
-Resursmått
-se
-Antal
-omsorgstagare i
-2 789   2 375
-verksamheten över 65
-år
 Nämndbudget 2022                 20
+
+[Tabell 123-124-1](handlingar.tabeller/123-124-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Riket 2020 | Budget<br>2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Resursmått | Kostnad<br>äldreomsorg, kr/inv<br>65+ | 57 720 | 60 310 |  |  |  |
+|  | Nettokostnadsavvikel<br>se | 4% | 8,1% |  |  |  |
+|  | Antal<br>omsorgstagare i<br>verksamheten över 65<br>år |  | 2 789 | 2 375 |  |  |
+|  | Antal<br>omsorgstagare i<br>verksamheten under<br>65 år |  | 130 | 88 |  |  |
+|  | Antal patienter i<br>hemsjukvården |  |  | 1 771 |  |  |
+|  | Totalt antal<br>omsorgstagare och<br>patienter i<br>verksamheten |  |  | 2 799 |  |  |
 
 <!-- sida 124 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Utfall  Utfall  Utfall         Budget
-Delområde    Nyckeltal                            Riket 2020
-2018    2019   2020            2022
-Antal
-omsorgstagare i
-130     88
-verksamheten under
-65 år
-Antal patienter i
-1 771
-hemsjukvården
-Totalt antal
-omsorgstagare och
-2 799
-patienter i
-verksamheten
 9.3 Prestationsmått
-Utfall  Utfall  Utfall         Budget
-Delområde    Nyckeltal                            Riket 2020
-2018    2019   2020            2022
-Antal lägenheter
-på vård- och    668     668     668
-omsorgsboende
-Antal lägenheter
-62      62      62
-för korttids/växelvård
-Beläggningsgrad
-vård- och       96%     95%
-omsorgsboende
-Prestationsmått Antal timmar
-532 814 550 462 580 297
-hemtjänst
-Kö till vård- och
-48      66      29
-omsorgsboende
-Väntetid till vård-
-109     61      43
-och omsorgsboende
-Personalkontinuitet i 19 22     17
-hemtjänsten
+
 9.4 Effektmått
-Utfall  Utfall  Utfall         Budget
-Delområde    Nyckeltal                            Riket 2020
-2018    2019   2020            2022
-Andel som
-Vad tycker du om sammantaget är
-omsorgen?    mycket eller ganska
-80%
-Enkätundersökning nöjda med sin
-för de under 65 år hemtjänst (under 65
-år)
 
 Nämndbudget 2022                 21
+
+[Tabell 124-1](handlingar.tabeller/124-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Riket 2020 | Budget<br>2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Prestationsmått | Antal lägenheter<br>på vård- och<br>omsorgsboende | 668 | 668 | 668 |  |  |
+|  | Antal lägenheter<br>för korttids/växelvård | 62 | 62 | 62 |  |  |
+|  | Beläggningsgrad<br>vård- och<br>omsorgsboende | 96% | 95% |  |  |  |
+|  | Antal timmar<br>hemtjänst | 532 814 | 550 462 | 580 297 |  |  |
+|  | Kö till vård- och<br>omsorgsboende | 48 | 66 | 29 |  |  |
+|  | Väntetid till vård-<br>och omsorgsboende | 109 | 61 | 43 |  |  |
+|  | Personalkontinuitet i<br>hemtjänsten | 19 | 22 | 17 |  |  |
+
+[Tabell 124-125-2](handlingar.tabeller/124-125-2.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2018 | Utfall<br>2019 | Utfall<br>2020 | Riket 2020 | Budget<br>2022 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Vad tycker du om<br>omsorgen?<br>Enkätundersökning<br>för de under 65 år | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sin<br>hemtjänst (under 65<br>år) |  | 80% |  |  |  |
+| Hemsjukvården | Brukar personal i<br>hemsjukvården alltid<br>eller oftast bemöta<br>dig på ett bra sätt? | 97% |  | 96% |  |  |
+| Vad tycker de äldre<br>om äldreomsorgen?<br>Enkätundersökning<br>för de över 65 år | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sitt<br>särskilda boende. | 84% | 83% | 81% | 82% |  |
+|  | Andel som<br>sammantaget är<br>mycket eller ganska<br>nöjda med sin<br>hemtjänst. | 88% | 89% | 88% | 88% |  |
 
 <!-- sida 125 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Utfall  Utfall  Utfall         Budget
-Delområde    Nyckeltal                            Riket 2020
-2018    2019   2020            2022
-Brukar personal i
-hemsjukvården alltid
-Hemsjukvården                97%             96%
-eller oftast bemöta
-dig på ett bra sätt?
-Andel som
-sammantaget är
-mycket eller ganska 84% 83%     81%    82%
-nöjda med sitt
-Vad tycker de äldre
-särskilda boende.
-om äldreomsorgen?
-Enkätundersökning
-Andel som
-för de över 65 år
-sammantaget är
-mycket eller ganska 88% 89%     88%    88%
-nöjda med sin
-hemtjänst.
 
 Nämndbudget 2022                 22
 
@@ -5919,89 +5795,51 @@ används för kompetensförsörjningsarbetet.
 
 10.2 Personalmått
 
-Nyckeltal     Utfall 2018 Utfall 2019 Utfall 2020 Budget 2021 Budget 2022
-
-Andel heltid    55%       55,5%      59,1%
-Andel kvinnor som
-54%       54,3%      57,6%
-har heltid
-Andel män som har
-73,8%     74,6%      80%
-heltid
-Medarbetare 40 - 49
-23,7%      23%       21,8%
-år
 Nämndbudget 2022                 23
+
+[Tabell 126-128-1](handlingar.tabeller/126-128-1.csv)
+
+| Nyckeltal | Utfall 2018 | Utfall 2019 | Utfall 2020 | Budget 2021 | Budget 2022 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 55% | 55,5% | 59,1% |  |  |
+| Andel kvinnor som<br>har heltid | 54% | 54,3% | 57,6% |  |  |
+| Andel män som har<br>heltid | 73,8% | 74,6% | 80% |  |  |
+| Medarbetare 40 - 49<br>år | 23,7% | 23% | 21,8% |  |  |
+| Medarbetare 50 - 59<br>år | 29,5% | 29,6% | 30,9% |  |  |
+| Medarbetare 60 år<br>och äldre | 11,2% | 11,6% | 11% |  |  |
+| Sjukfrånvaro Totalt | 9,5% | 9,8% | 10,5% |  |  |
+| Sjukfrånvaro<br>Kvinnor | 9,8% | 10,1% | 10,7% |  |  |
+| Sjukfrånvaro Män | 4,9% | 6% | 8% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 39,4% | 40% | 34,2% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer<br>Kvinnor | 40,3% | 41% | 34,6% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer Män | 10,9% | 18,4% | 28,9% |  |  |
+| Frisknärvaro | 43,8% | 56% | 34,4% |  |  |
+| Frisknärvaro<br>Kvinnor | 43,1% | 55,4% | 33,4% |  |  |
+| Frisknärvaro Män | 55,1% | 65,7% | 47,3% |  |  |
+| Anställda totalt | 1 230 | 1 229 | 1 243 |  |  |
+| Anställda andel<br>kvinnor | 94,1% | 92,8% | 91,7% |  |  |
+| Anställda andel män | 5,9% | 7,2% | 8,3% |  |  |
+| Korttidssjukfrånvaro<br>Kvinnor | 4,1% | 4,1% | 5,5% |  |  |
+| Korttidssjukfrånvaro<br>Män | 3,5% | 3,7% | 4,9% |  |  |
+| Långtidssjukfrånvaro | 5,7% | 5,8% | 5% |  |  |
+| Långtidssjukfrånvaro<br>Kvinnor | 5,9% | 6% | 5,2% |  |  |
+| Långtidssjukfrånvaro<br>Män | 1,4% | 2,3% | 3,1% |  |  |
+| Korttidssjukfrånvaro | 4% | 4,1% | 5,5% |  |  |
+| Antal medarbetare<br>per enhetschef | 28,8 | 28,1 | 27,1 |  |  |
+| Personalomsättning | 16,3% | 17,6% | 13,4% |  |  |
+| Medarbetare yngre<br>än 30 år | 16,02% | 16,44% | 14,2% |  |  |
+| Medelålder | 44 | 44 | 45 |  |  |
+| Medarbetare 30 - 39<br>år | 19,5% | 19,5% | 22,1% |  |  |
 
 <!-- sida 127 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Nyckeltal     Utfall 2018 Utfall 2019 Utfall 2020 Budget 2021 Budget 2022
-Medarbetare 50 - 59
-29,5%     29,6%      30,9%
-år
-Medarbetare 60 år
-11,2%     11,6%      11%
-och äldre
-Sjukfrånvaro Totalt 9,5%   9,8%      10,5%
-Sjukfrånvaro
-9,8%      10,1%      10,7%
-Kvinnor
-Sjukfrånvaro Män 4,9%      6%         8%
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 39,4%   40%       34,2%
-dagar eller mer
-Sjukfrånvaro, andel
-av sjukfrånvaro 60
-40,3%      41%       34,6%
-dagar eller mer
-Kvinnor
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 10,9%  18,4%      28,9%
-dagar eller mer Män
-Frisknärvaro    43,8%      56%       34,4%
-Frisknärvaro
-43,1%     55,4%      33,4%
-Kvinnor
-Frisknärvaro Män 55,1%    65,7%      47,3%
-Anställda totalt 1 230     1 229     1 243
-Anställda andel
-94,1%     92,8%      91,7%
-kvinnor
-Anställda andel män 5,9%   7,2%      8,3%
-Korttidssjukfrånvaro
-4,1%       4,1%      5,5%
-Kvinnor
-Korttidssjukfrånvaro
-3,5%       3,7%      4,9%
-Män
-Långtidssjukfrånvaro 5,7%  5,8%       5%
-Långtidssjukfrånvaro
-5,9%       6%        5,2%
-Kvinnor
-Långtidssjukfrånvaro
-1,4%       2,3%      3,1%
-Män
-Korttidssjukfrånvaro 4%    4,1%      5,5%
-Antal medarbetare
-28,8       28,1      27,1
-per enhetschef
-Personalomsättning 16,3%  17,6%      13,4%
-Medarbetare yngre
-16,02%     16,44%     14,2%
-än 30 år
-Medelålder       44        44         45
 Nämndbudget 2022                 24
 
 <!-- sida 128 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
-
-Nyckeltal     Utfall 2018 Utfall 2019 Utfall 2020 Budget 2021 Budget 2022
-Medarbetare 30 - 39
-19,5%     19,5%      22,1%
-år
 
 Nämndbudget 2022                 25
 
@@ -6105,83 +5943,72 @@ Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
 12.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                     Beslutande paragraf/År
-Attestreglemente                                   KF 2015-01-10 § 30
-
-Kvalitet                                          KF 2013-08-13 § 101
-Barnkonventionen - policy                           KF 2014-11-11 §
-Konkurrensprövning                                 KF 2011-02-01 § 8
-
-Vision 2030                                        KF 2017-06-16 § 94
-Kommunikation                                     KF 2019-12-10 § 194
-
-Fordon                                            KF 2014-10-13 § 114
-Biblioteksplan                                     KF 2021-04-13 § 68
-Reglemente nämnden för Vård & Omsorg              KF 2017-12-12 § 194
-
-Policy för upphandling                            KF § 2021-03-09 § 30
-Konkurrensprövning - tillämpningsanvisningar       KF 2011-02-01 § 8
-
-Taxa för avgifter inom Vård & Omsorg; enteral nutrition KF 2018-04-10 § 60
-Personuppgifter - policy                          KF 2018-06-14 § 111
-Omställningsstöd och pension för förtroendevalda (OPF-KL18) KF 2018-12-13 § 26
-
-Taxa för kopia av allmän handling                  KF 2021-04-13 § 65
-Lokala ordningsföreskrifter                        KF 2020-02-02 § 8
-Attestreglemente - tillämpningsanvisningar       Ekonomichef 2015-05-01
-
-E-målbild 2020                                          FC
-Klimatstrategi                                    KF 2018-12-13 § 257
-
-Invånardialog                                       KF 2014 § 119
-Privata utförare                                  KF 2016-10-11 § 144
-Direktupphandling                                 KS 2018-08-28 § 185
-
-Förmåner till förtroendevalda                     KF 2018-12-13 § 260
-Arbetsgivarpolicy                                  KF 2019-06-11 § 86
-
-Ann-Charlotte Järnström
-Regler för tjänsteresor
-2019-08-20
-Arbetsmiljömål                                    KF 2020-10-06 § 119
-Taxa för patientavgifter inom hemsjukvården        KF 2020-04-14 § 31
-
 12.2 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                     Beslutande paragraf/År
-Riktlinjer för integration                        KS 2019-11-26 § 275
-
 Nämndbudget 2022                 28
+
+[Tabell 131-1](handlingar.tabeller/131-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-01-10 § 30 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2017-06-16 § 94 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon | KF 2014-10-13 § 114 |
+| Biblioteksplan | KF 2021-04-13 § 68 |
+| Reglemente nämnden för Vård & Omsorg | KF 2017-12-12 § 194 |
+| Policy för upphandling | KF § 2021-03-09 § 30 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Taxa för avgifter inom Vård & Omsorg; enteral nutrition | KF 2018-04-10 § 60 |
+| Personuppgifter - policy | KF 2018-06-14 § 111 |
+| Omställningsstöd och pension för förtroendevalda (OPF-KL18) | KF 2018-12-13 § 26 |
+| Taxa för kopia av allmän handling | KF 2021-04-13 § 65 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-05-01 |
+| E-målbild 2020 | FC |
+| Klimatstrategi | KF 2018-12-13 § 257 |
+| Invånardialog | KF 2014 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Direktupphandling | KS 2018-08-28 § 185 |
+| Förmåner till förtroendevalda | KF 2018-12-13 § 260 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Regler för tjänsteresor | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Taxa för patientavgifter inom hemsjukvården | KF 2020-04-14 § 31 |
+
+[Tabell 131-132-2](handlingar.tabeller/131-132-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Riktlinjer för integration | KS 2019-11-26 § 275 |
+| Ansvar och uppgiftsfördelning av arbetsmiljöuppgifter | KS 2020-02-18 § 32 |
 
 <!-- sida 132 -->
 
 Nämnden för Vård & Omsorg                       Kungsbacka kommun
 
-Styrdokument                                     Beslutande paragraf/År
-Ansvar och uppgiftsfördelning av arbetsmiljöuppgifter KS 2020-02-18 § 32
-
 12.3 Styrdokument beslutade av nämnden för Vård & Omsorg
 
-Styrdokument                                     Beslutande paragraf/År
-Annas led- för en trygg och säker demensvård i Halland NÄO 2012-12-13 § 146
-
-Delegeringsförteckning                            NVO 2019-03-20 §24
-Dokumenthanteringsplan                            NVO 2020-06-17 § 51
-
-Ledningssystem för systematiskt kvalitetsarbete   NVO 2017-12-13 § 151
-Lokalplan 2021 - 2025                             NVO 2019-11-13 §123
-Nämndbudget 2020                                  NVO 2019-09-18 § 89
-
-Investeringsplan 2021-2025                        NVO 2019-11-13 § 128
-Intern kontrollplan 2020                          NVO 2019-11-13 § 124
-Förfrågningsunderlag LOV                          NVO 2018-04-18 §43
-
-Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i Kungsbacka
-NVO 2018-09-19 §78
-kommun
-Tillägg till ledningssystem för systematiskt kvalitetsarbete NVO 2020-04-15 § 19
-
 Nämndbudget 2022                 29
+
+[Tabell 132-1](handlingar.tabeller/132-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Annas led- för en trygg och säker demensvård i Halland | NÄO 2012-12-13 § 146 |
+| Delegeringsförteckning | NVO 2019-03-20 §24 |
+| Dokumenthanteringsplan | NVO 2020-06-17 § 51 |
+| Ledningssystem för systematiskt kvalitetsarbete | NVO 2017-12-13 § 151 |
+| Lokalplan 2021 - 2025 | NVO 2019-11-13 §123 |
+| Nämndbudget 2020 | NVO 2019-09-18 § 89 |
+| Investeringsplan 2021-2025 | NVO 2019-11-13 § 128 |
+| Intern kontrollplan 2020 | NVO 2019-11-13 § 124 |
+| Förfrågningsunderlag LOV | NVO 2018-04-18 §43 |
+| Riktlinje för ny- eller ombyggnation av äldreboende/särskilt boende i Kungsbacka<br>kommun | NVO 2018-09-19 §78 |
+| Tillägg till ledningssystem för systematiskt kvalitetsarbete | NVO 2020-04-15 § 19 |
 
 <!-- sida 133 -->
 
@@ -6399,9 +6226,6 @@ att kommunen anställer läkare inom vård och äldreomsorgen när det är möjl
 
 att vidareutbildning erbjudes till sjuksköterskor och undersköterskor på betald arbetstid
 
-. f /
-hesdoe Wauwmds
-(Ce LOT VC AVA FA teen
 Maj-Britt Rane Andersson (S)
 Kommunfullmäktige
 
@@ -8864,7 +8688,6 @@ hantering Covid-
 organisationen
 2 Förberedelser i | ; |
 
-oprandine — Å "wäketssikningav Risk och konsekvens- Hå = utredning privata
 dgr dagligvaruleverantör framtida processer MESA näringsidkare
 teter
 
@@ -9018,40 +8841,48 @@ Kvartal Kvartal Kvartal Kvartal
 Totalt antal personer med särskilt
 boendebeslut som inte har verkställts 24 9
 inom 3 månader
+Varav
+\- antal personer som tackat nej till
+7      7
+erbjudande
+\- antal personer som tackat nej till fler
+0      1
+erbjudanden
 
-[Tabell 235-236-1](handlingar.tabeller/235-236-1.csv)
+```osaker-tabell
+- ej fått något erbjudande    0      0
+- avlidna                     1      0
+- avsagt sig beslut           1      2
+```
 
-| Varav |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| - antal personer som tackat nej till<br>erbjudande | 7 | 7 |  |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 1 |  |  |
-| - ej fått något erbjudande | 0 | 0 |  |  |
-| - avlidna | 1 | 0 |  |  |
-| - avsagt sig beslut | 1 | 2 |  |  |
-| - Verkställda under kvartalet | 16 | 2 |  |  |
-| Summa | 25 | 12 |  |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 22 | 5 |  |  |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 2 | 3 |  |  |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 0 | 1 |  |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 0 | 0 |  |  |
-| Summa | 24 | 9 |  |  |
-| Totalt antal personer med<br>växelvårdsbeslut som inte har<br>verkställts inom 3 månader | 5 | 9 |  |  |
-| Varav |  |  |  |  |
-| - antal personer som tackat nej till<br>erbjudanden | 0 | 2 |  |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 0 | 0 |  |  |
-| - ej fått något erbjudande | 5 | 2 |  |  |
-| - avlidna | 0 | 0 |  |  |
-| - avsagt sig beslut | 0 | 3 |  |  |
-| - Verkställda under kvartalet | 0 | 4 |  |  |
-| Summa | 5 | 11 |  |  |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | 5 | 5 |  |  |
-| - Antal personer som har väntat på<br>växelvård 7 - 9 månader | 0 | 4 |  |  |
-| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 |  |  |
-| - Antal personer som har väntat på<br>växelvård > 12 månader | 0 | 0 |  |  |
-| Summa | 5 | 9 |  |  |
-|  |  |  |  |  |
+\- Verkställda under kvartalet 16     2
+Summa                            25    12
+Varav
+\- Antal personer som har väntat på
+22     5
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+2      3
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+boende 10 - 12 månader.        0     1
+
+\- Antal personer som har väntat på
+0      0
+boende > 12 månader
+Summa                            24     9
+Totalt antal personer med
+
+växelvårdsbeslut som inte har  5        9
+verkställts inom 3 månader
+Varav
+\- antal personer som tackat nej till
+0        2
+erbjudanden
+\- antal personer som tackat nej till fler
+0        0
+erbjudanden
+\- ej fått något erbjudande    5        2
 
 <!-- sida 236 -->
 
@@ -9068,6 +8899,21 @@ Kommunrevisionen
 
 Pia Berglund
 Verksamhetschef
+
+[Tabell 236-1](handlingar.tabeller/236-1.csv)
+
+| - avlidna | 0 | 0 |  |  |
+| --- | --- | --- | --- | --- |
+| - avsagt sig beslut | 0 | 3 |  |  |
+| - Verkställda under kvartalet | 0 | 4 |  |  |
+| Summa | 5 | 11 |  |  |
+| Varav |  |  |  |  |
+| - Antal personer som har väntat på<br>växelvård 4 - 6 månader | 5 | 5 |  |  |
+| - Antal personer som har väntat på<br>växelvård 7 - 9 månader | 0 | 4 |  |  |
+| - Antal personer som har väntat på<br>växelvård 10 - 12 månader. | 0 | 0 |  |  |
+| - Antal personer som har väntat på<br>växelvård > 12 månader | 0 | 0 |  |  |
+| Summa | 5 | 9 |  |  |
+|  |  |  |  |  |
 
 <!-- sida 237 -->
 

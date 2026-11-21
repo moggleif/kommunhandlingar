@@ -1,93 +1,136 @@
-Kategorier,"Till
-Risker Sannolikhet Konsekvens
+Kategorier,,Risker,Sannolikhet,Konsekvens,"Till
 plan"
-Personal,"1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Bristande efterlevnad besvärande för berörda
-av semesterlagen intressenter och
-kommunen)"
-,"2 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Processen för avslut besvärande för berörda
-av anställning säkerställer intressenter och
-inte att alla behörigheter kommunen)
-till system, lokaler och
-andra tillgångar avslutas."
-,"3 Medarbetare utan 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-formell kompetens anställs besvärande för berörda
-på långa vikariat och intressenter och
-uppnår företrädesrätt eller kommunen)
-konverteringsrätt."
-Ekonomi,"4 Kommunövergripande 4. Mycket vanligt 3. Kännbar (uppfattas som Ja
-risk: Manuella betalningar besvärande för berörda
+Personal,,"1 Kommunövergripande
+risk: Bristande efterlevnad
+av semesterlagen",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
 intressenter och
-kommunen)"
-,"5 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Redovisning av besvärande för berörda
-representation intressenter och
-kommunen)"
+kommunen)",Ja
+,,"2 Kommunövergripande
+risk: Processen för avslut
+av anställning säkerställer
+inte att alla behörigheter
+till system, lokaler och
+andra tillgångar avslutas.",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"3 Medarbetare utan
+formell kompetens anställs
+på långa vikariat och
+uppnår företrädesrätt eller
+konverteringsrätt.",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+Ekonomi,,"4 Kommunövergripande
+risk: Manuella betalningar",4. Mycket vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"5 Kommunövergripande
+risk: Redovisning av
+representation",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
 "Informations
 säkerhet och
 administrati
-on","6 Risk att obehöriga 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-kommer åt information om besvärande för berörda
-enskilda personer. intressenter och
-kommunen)"
-,"7 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas som Ja
-risk: Styrning och besvärande för berörda
-förvaltning av intressenter och
-verksamhetssystem och kommunen)
-digitala verktyg följer inte
-systemförvaltarmodellen."
-,"8 Kommunövergripande 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-risk: Bristande kännedom besvärande för berörda
-om och efterlevnad av intressenter och
-krav* på tillgänglighet och kommunen)
-service"
-,"9 Risk att samverkande 3. Vanligt 4. Allvarlig/stor inverkan Ja
-verksamhetssystem slutar (så stor att den inte får
-interagera inträffa)"
-,"10 Att 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-informationssäkerheten i besvärande för berörda
-förvaltningen brister intressenter och
-kommunen)"
-,"11 Risk att 3. Vanligt 3. Kännbar (uppfattas som Ja
-personuppgifter hanteras besvärande för berörda
-på felaktiga sätt intressenter och
-kommunen)"
-Verksamhet,"12 Bristande följsamhet till 3. Vanligt 2. Lindrig (uppfattas som Ja
-riktlinje för liten av berörda
-händelserapportering intressenter och
-kommunen)"
-,"13 Risk att processen 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-ansökan-beslut- besvärande för berörda
-verkställighet inte följs intressenter och
-kommunen)"
-,"14 Risk att 3. Vanligt 3. Kännbar (uppfattas som Ja
-genomförandeplan ej besvärande för berörda
-upprättas korrekt intressenter och
-kommunen)"
-,"15 Bristande följsamhet till 3. Vanligt 3. Kännbar (uppfattas som Ja
-gällande riktlinjer för besvärande för berörda
-dokumentation, för intressenter och
-omsorgspersonal. kommunen)"
-,"16 Bristande följsamhet till 2. Mindre vanligt 2. Lindrig (uppfattas som Ja
-riktlinjen för lex Sarah liten av berörda
+on",,"6 Risk att obehöriga
+kommer åt information om
+enskilda personer.",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
 intressenter och
-kommunen)"
-,"17 Brister i följsamhet till 3. Vanligt 3. Kännbar (uppfattas som Ja
-riktlinjen för hälso- och besvärande för berörda
-sjukvårdsdokumentation intressenter och
-kommunen)"
-,"18 Bristande 3. Vanligt 3. Kännbar (uppfattas som Ja
-informationssäkerhet besvärande för berörda
-avseende dokumentation intressenter och
-hälso- och sjukvård och kommunen)
-socialtjänst"
-,"19 Risk att inte kunderna 2. Mindre vanligt 3. Kännbar (uppfattas som Ja
-får någon vård eller besvärande för berörda
-omsorg i samband med intressenter och
-konkurs eller uppsägning kommunen)
+kommunen)",Ja
+,,"7 Kommunövergripande
+risk: Styrning och
+förvaltning av
+verksamhetssystem och
+digitala verktyg följer inte
+systemförvaltarmodellen.",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"8 Kommunövergripande
+risk: Bristande kännedom
+om och efterlevnad av
+krav* på tillgänglighet och
+service",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"9 Risk att samverkande
+verksamhetssystem slutar
+interagera",3. Vanligt,"4. Allvarlig/stor inverkan
+(så stor att den inte får
+inträffa)",Ja
+,,"10 Att
+informationssäkerheten i
+förvaltningen brister",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"11 Risk att
+personuppgifter hanteras
+på felaktiga sätt",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+Verksamhet,,"12 Bristande följsamhet till
+riktlinje för
+händelserapportering",3. Vanligt,"2. Lindrig (uppfattas som
+liten av berörda
+intressenter och
+kommunen)",Ja
+,,"13 Risk att processen
+ansökan-beslut-
+verkställighet inte följs",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"14 Risk att
+genomförandeplan ej
+upprättas korrekt",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"15 Bristande följsamhet till
+gällande riktlinjer för
+dokumentation, för
+omsorgspersonal.",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"16 Bristande följsamhet till
+riktlinjen för lex Sarah",2. Mindre vanligt,"2. Lindrig (uppfattas som
+liten av berörda
+intressenter och
+kommunen)",Ja
+,,"17 Brister i följsamhet till
+riktlinjen för hälso- och
+sjukvårdsdokumentation",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"18 Bristande
+informationssäkerhet
+avseende dokumentation
+hälso- och sjukvård och
+socialtjänst",3. Vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"19 Risk att inte kunderna
+får någon vård eller
+omsorg i samband med
+konkurs eller uppsägning
 av avtal med extern
-hemtjänstutförare."
-,"20 Bristande 4. Mycket vanligt 4. Allvarlig/stor inverkan Ja
-läkartillgänglighet (så stor att den inte får
-inträffa)"
+hemtjänstutförare.",2. Mindre vanligt,"3. Kännbar (uppfattas som
+besvärande för berörda
+intressenter och
+kommunen)",Ja
+,,"20 Bristande
+läkartillgänglighet",4. Mycket vanligt,"4. Allvarlig/stor inverkan
+(så stor att den inte får
+inträffa)",Ja

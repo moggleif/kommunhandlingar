@@ -12,9 +12,9 @@ kalla_url: [https://web.archive.org/web/20220320022226id_/https://www.kungsbacka
 sha256: [b6e3d6e12ed2a1e71e7ca6e4ef4cd0c25157ccf3c2e7e7cda1e513850d3edd85, 4fbe41846e4b87e59fb7c8339177bd822bd78f39e94569de9502ab61c5816556]
 bytes: [1612524, 1587564]
 sidor: 85
-hamtad: 2026-10-29T10:54:51+00:00
-konverterad: 2026-10-29T10:55:30+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T01:05:14+00:00
+konverterad: 2026-11-21T01:06:54+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ej-konverterad, ocr, ocr]
@@ -2762,8 +2762,7 @@ Byggnadsnämnden Datum
 
 Kungsbacka
 
-kota g. . 21052 ” 7 NY
-Kommunfullmäktigesalen, Storgatan 37, klockan
+Kotnrrunfullmäktigesalen, Stor satan 37. klockan
 
 Plats och tid 12.30- 1630 (7.15
 
@@ -2884,8 +2883,6 @@ Förslag till beslut på sammanträdet
 Thure Sandén (M) yrkar att paragrafen justeras omedelbart på byggnadsnämnden den 21 maj 2021.
 
 Justerare Expedierat/bestyrkt
-
-oa IP
 
 <!-- sida 85 -->
 

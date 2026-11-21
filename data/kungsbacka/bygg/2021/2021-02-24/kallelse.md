@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220319203124id_/https://www.kungsbacka.
 sha256: 9b70219a34768e51e7659829f3cf39652e95c1dd46eeb26993673331ce8a2eba
 bytes: 176009
 sidor: 10
-hamtad: 2026-10-31T10:27:56+00:00
-konverterad: 2026-10-31T10:27:59+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T01:31:43+00:00
+konverterad: 2026-11-21T01:32:09+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
@@ -52,6 +52,7 @@ www.kungsbacka.se
 | 2. | Förändring av ärendelistan |  |  | 2<br>min |
 | 3. | Anmälan om jäv |  |  | 2<br>min |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 
 <!-- sida 2 -->
 
@@ -64,7 +65,9 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | 4. 1 tim 10 min<br>Information från förvaltningen<br>a) Detaljplaner och planprogram under 2021, (20 min), Föredragande: Ida<br>Lennartsson, verksamhetschef Plan<br>b) Status för ärende kö – Bygglov, (15 min), Hanna Ståhl, verksamhetschef Bygglov<br>c) Sammanfattning av 2020 bygglov (10 min), Föredragande: Hanna Ståhl,<br>verksamhetschef Bygglov<br>d) Presentation av aktiviteter och status för Lätt & Rätt (10 min), Föredragande:<br>Hanna Ståhl, verksamhetschef Bygglov<br>e) Kolla 3:69 - Information om beviljat bygglov för flerbostadshus (gruppboende och<br>serviceboende) enligt delegeringsförteckning, (5 min), Föredragande: Thinh Bui-<br>Ljungqvist, bygglovshandläggare<br>f) Må 3:117 - Information om beviljat bygglov för flerbostadshus<br>enligt delegeringsförteckning, (5 min), Föredragande: Thinh Bui-Ljungqvist,<br>bygglovshandläggare<br>g) Sintorp 4:26 – Information om beviljat bygglov för flerbostadshus enligt<br>delegeringsförteckning, (5 min), Föredragande: Thinh Bui-Ljungqvist,<br>bygglovshandläggare<br>Byggnadsnämnden noterar informationen till protokollet. |  |  |  |  |
 | Beslutsärenden (ej myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 5. | Byggnadsnämndens<br>årsredovisning 2020<br>Föredragande: Katarina<br>Öryd, förvaltningschef,<br>Christina Nordberg,<br>controller förvaltning och<br>Charlotta Axell Bruno,<br>utvecklingsledare | BN 2019-<br>001581 | Byggnadsnämnden godkänner<br>årsredovisning 2020.<br>Byggnadsnämnden godkänner<br>begäran om ombudgetering<br>och resultatfond och<br>överlämnar den till<br>kommunfullmäktige. | 15<br>min |
 | 6. | Intern kontrollrapport 2020<br>för byggnadsnämnden<br>Föredragande: Christina<br>Nordberg, controller<br>förvaltning | BN 2019-<br>001837 | Byggnadsnämnden godkänner<br>intern kontrollrapport för<br>2020, daterad 2021-01-22.<br>Paragrafen justeras<br>omedelbart. | 5<br>min |
 | 7. | Yttrande över förslag om att<br>flytta verksamhetsområdet för<br>planbesked som inte är av stor<br>vikt eller principiell betydelse<br>från byggnadsnämnden till<br>kommunstyrelsen<br>Föredragande: Katarina<br>Öryd, förvaltningschef | BN 2020–<br>003500 | Byggnadsnämnden antar<br>förvaltningens yttrande daterat<br>2021-02-01 och överlämnar<br>det som sitt svar till<br>kommunstyrelsen.<br>Paragrafen justeras<br>omedelbart. | 10<br>min |
@@ -141,12 +144,15 @@ KUNGSBACKA  KOMMUN
 | 10. | Antagande av detaljplan för<br>verksamheter inom del av<br>Bolsheden 1:2, i Kullavik,<br>Kungsbacka<br>Föredragande: Johanna<br>Vinterhav, planarkitekt | BN 2015-<br>00082 | Byggnadsnämnden godkänner<br>granskningsutlåtandet och<br>antar detaljplan för<br>verksamheter inom del av<br>Bolsheden 1:2 i Kullavik,<br>Kungsbacka, upprättad 2021-<br>01-29. | 5<br>min |
 | 11. | Antagande av detaljplan för<br>verksamhet för Varla 2:398<br>m.fl. inom Kungsbacka<br>Föredragande: Björn<br>Vikström, planarkitekt | BN 2020-<br>00009 | Byggnadsnämnden godkänner<br>granskningsutlåtandet och<br>antar detaljplan för<br>verksamheter för Varla 2:398<br>med flera inom Kungsbacka,<br>upprättad 2021-01-29. | 5<br>min |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 12. | Anmälan av ordförandebeslut<br>– Överklagande till<br>Vänersborgs tingsrätt,<br>avseende Mark- och<br>miljödomstolens dom 2021-<br>01-05 i mål nr P 3522-20, om<br>negativt förhandsbesked för<br>lokalisering av enbostadshus<br>på fastigheten Myra 10:1 | BN 2019-<br>000765 | Byggnadsnämnden godkänner<br>redovisningen av<br>delegeringsbeslut från<br>ordförande Thure Sandén (M)<br>på grund av brådskande<br>ärende. | 2<br>min |
 | 13. | Anmälan av delegeringsbeslut |  | Byggnadsnämnden godkänner<br>redovisningen av<br>delegeringsbeslut fattade<br>under perioden 2021-01-21 till<br>2021-02-17. | 2<br>min |
 | 14. | Redovisning av inkomna<br>skrivelser | BN 2021–<br>000053 | Byggnadsnämnden godkänner<br>redovisningen av inkomna<br>skrivelser under perioden<br>2021-01-20 till 2021-02-17. | 2<br>min |
 | 15. | Inbjudan – Presidiedagar för<br>plan-, bygg- och<br>miljönämnder den 23 mars<br>2021 |  | Byggnadsnämnden godkänner<br>att presidiet deltar på<br>Presidiedag för plan-, bygg-<br>och miljönämnder den 23<br>mars 2021. | 2<br>min |
 | Beslutsärenden (myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Planbesked |  |  |  |  |
+|  |  |  |  |  |
 | 16. | Granskning av detaljplan för<br>bostäder och förskola inom<br>Stockalid 1:4 och 1:39 i Åsa<br>Föredragande: Maria<br>Malone, planarkitekt | BN 2018–<br>00040 | Byggnadsnämnden godkänner<br>samrådsredogörelsen och<br>granskningshandlingen samt<br>uppdrar åt samhällsbyggnads-<br>kontoret att genomföra<br>granskning för detaljplan för<br>bostäder och förskola inom<br>Stockalid 1:4 och 1:39 i Åsa. | 5<br>min |
 | Bygglov |  |  |  |  |
 

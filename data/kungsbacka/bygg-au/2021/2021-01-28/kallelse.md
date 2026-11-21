@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220404172427id_/https://kungsbacka.se/d
 sha256: 76a54e1d2a5aa9a1552abcc58314d565662e259e485f16337380f41737159118
 bytes: 225727
 sidor: 10
-hamtad: 2026-11-17T14:29:27+00:00
-konverterad: 2026-11-17T14:29:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T01:41:49+00:00
+konverterad: 2026-11-21T01:41:52+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok]
@@ -51,6 +51,7 @@ www.kungsbacka.se
 | 1. | Val av justerare och tid för<br>justering |  | Ordinarie: Per Stenberg (M)<br>Ersättare: Heinrich Kaufmann (C)<br>Manuell justering den<br>2021-02-04 | 1 min |
 | 2. | Förändring av ärendelistan |  |  | 2 min |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 | 3. | Information från förvaltningen<br>1. Kolla 3:69 - Information<br>om beviljat bygglov för<br>flerbostadshus<br>(gruppboende och<br>serviceboende) enligt<br>delegeringordningen<br>Thinh Bui-Ljungqvist<br>2. Må 3:117 - Information<br>om beviljat bygglov för<br>flerbostadshus enligt<br>delegeringordningen<br>Thinh Bui-Ljungqvist<br>3. Ekenäs 3:41 -<br>Information inför beslut,<br>Bygglov för nybyggnad<br>av enbostadshus samt<br>garage<br>Peter Sebestyén |  | Byggnadsnämndens arbetsutskott<br>noterar informationen till<br>protokollet. | 15min |
 
 <!-- sida 2 -->
@@ -64,6 +65,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | Beslutsärenden |  |  |  |  |
 | Förhandsbesked |  |  |  |  |
+|  |  |  |  |  |
 | 4. | FRILLESÅS-KYRKBY 4:29 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN 2020-<br>001386 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked<br>för ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 7200<br>kronor. Avgiften för<br>förhandsbeskedet är reducerad<br>med 7200 kronor på grund av att<br>beslutet har tagit mer än 10 veckor.<br>Kostnaden blir därför 0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige<br>2019-08-13 § 107. | 5 min |
 | 5. | KLÄPPA 1:54 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN 2020-<br>001639 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked<br>för ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 7200<br>kronor. Avgiften för bygglovet är<br>reducerad med 7200 kronor på<br>grund av att beslutet har tagit mer<br>än 10 veckor. Kostnaden för<br>förhandsbeskedet blir därför 0<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige<br>2019-08-13 § 107. | 5 min |
 
@@ -128,6 +130,7 @@ KUNGSBACKA  KOMMUN
 | 9. | FÄLARED 1:3 -<br>Förhandsbesked för nybyggnad<br>av tre enbostadshus | BN 2020-<br>001924 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked<br>för tre enbostadshus på fastigheten.<br>Avgiften för beslutet är 4 800<br>kronor Avgiften är reducerad med<br>4 800 kronor på grund av att<br>beslutet har tagit mer än 10 veckor.<br>Kostnaden blir därför 0 kronor.<br>Avgiften är uträknad efter Taxa<br>för Byggnadsnämndens<br>verksamhet, beslutad i<br>Kommunfullmäktige 2019-08-13 §<br>107. | 5 min |
 | 10. | HÖGLANDA 4:12 -<br>Förhandsbesked för nybyggnad<br>av ett enbostadshus | BN 2020-<br>000640 | Byggnadsnämndens arbetsutskott<br>lämnar negativt förhandsbesked<br>för ett enbostadshus på fastigheten.<br>Avgiften för beslutet är 4 800<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige<br>2019-08-13 § 107. | 5 min |
 | Bygglov |  |  |  |  |
+|  |  |  |  |  |
 | 11. | TÖLÖ 4:135 - Bygglov för<br>utvändig ändring av<br>komplementbyggnad | BN2020-<br>002262 | Byggnadsnämndens arbetsutskott<br>beslutar att avslå ansökan om<br>bygglov för utvändig ändring av<br>komplementbyggnad. Avgiften för<br>beslutet är 3 600 kronor.<br>Avgiften för beslutet är reducerad<br>med 3 600 kronor på grund av att<br>beslutet har tagit mer än 10 veckor.<br>Kostnaden för bygglovet blir<br>därför 0 kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige<br>2019-08-13 § 107. | 5 min |
 | 12. | BUKÄRR 5:77 - Bygglov för<br>nybyggnad av<br>komplementbyggnad | BN 2020-<br>002518 | Byggnadsnämndens arbetsutskott<br>beslutar att avslå ansökan om<br>bygglov för nybyggnad av<br>komplementbyggnad på fastighet<br>Bukärr 5:77.<br>Avgiften för beslutet är 6 000<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i Kommunfullmäktige<br>2019-08-13 § 107. | 5min |
 
@@ -173,6 +176,7 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | 19. | SÄRÖ 1:441 - bygglov för<br>tillbyggnad av verksamhetslokal | BN 2017-<br>001283 | Förslag till beslut i<br>byggnadsnämnden<br>Byggnadsnämnden beviljar<br>bygglov för tillbyggnad<br>verksamhetslokal. Lovet upphör<br>att gälla om åtgärden inte har<br>påbörjats inom två år och avslutats<br>inom fem år från det att beslutet<br>vann laga kraft.<br>Golvhöjden fastställs till samma<br>som befintlig byggnad.<br>För att genomföra åtgärden krävs<br>en kontrollansvarig.<br>Kontrollansvarig för åtgärden är<br>XXX.<br>Bygglovsavgift har redan tagits vid<br>beslutet 2017. | 5 min |
 | Tillsyn |  |  |  |  |
+|  |  |  |  |  |
 | 20. | Ärende nr 20 som gäller tillsyn, förbud eller föreläggande, innehåller en mängd<br>personuppgifter och publiceras därför inte på webbplatsen med anledning av<br>Dataskyddsförordningen, GDPR (General Data Protection Regulation). |  |  |  |
 
 <!-- sida 10 -->

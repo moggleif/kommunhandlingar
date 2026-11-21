@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20220320063359id_/https://www.kungsbacka.
 sha256: 41dff419951f3dddaa9202ddb5fa0db403a809d8b21589ded730cfd27d58ab8f
 bytes: 128527
 sidor: 7
-hamtad: 2026-11-16T00:41:47+00:00
-konverterad: 2026-11-16T00:41:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T00:47:24+00:00
+konverterad: 2026-11-21T00:47:31+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok]
@@ -52,6 +52,7 @@ www.kungsbacka.se
 | 2. | Förändring av ärendelistan |  |  | 2<br>min |
 | 3. | Anmälan om jäv |  |  | 2<br>min |
 | Information |  |  |  |  |
+|  |  |  |  |  |
 
 <!-- sida 2 -->
 
@@ -64,7 +65,9 @@ KUNGSBACKA  KOMMUN
 | --- | --- | --- | --- | --- |
 | 4. 60 min<br>Information från förvaltningen<br>a) Status för ärendekön hos bygglov, Hanna Ståhl, verksamhetschef bygglovsavdelningen (15<br>min)<br>b) Information om presidieavstämning den 7 juni, Katarina Öryd, förvaltningschef (10 min)<br>c) Upphävda och återförvisade beslut, Kasra Hassirian, förvaltningsjurist (15 min)<br>d) Nya rutiner med anledning av barnkonventionens ikraftträdande, Kasra Hassirian,<br>förvaltningsjurist (10 min)<br>e) Uppföljning systematiskt arbetsmiljöarbetet 2020, Annika Nally, HR specialist (10 min)<br>Byggnadsnämnden noterar informationen till protokollet. |  |  |  |  |
 | Beslutsärenden (ej myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Övriga beslutsärenden |  |  |  |  |
+|  |  |  |  |  |
 | 5. | Svar på initiativ från<br>ledamöter Lars Eriksson (S)<br>och Renée Sylvan (S) om<br>kommunikation mellan<br>invånaren och förvaltningen | BN 2021-<br>001525 | Byggnadsnämnden antar förvaltningens<br>svar och noterar det till protokollet. | 10<br>min |
 | 6. | Anmälan av ordförandeslut –<br>Godkännande av<br>undersökning av<br>miljöpåverkan för detaljplan<br>för breddning av Varlavägen,<br>etapp två, inom del av Varla<br>2:198 och Varla 12:67 | BN BN 2019-<br>00016 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2<br>min |
 | 7. | Anmälan av ordförandeslut –<br>Godkännande av<br>undersökning av<br>miljöpåverkan för detaljplan<br>för verksamhet, del av Varla<br>2:198 med flera | BN 2018-<br>00026 | Byggnadsnämnden godkänner<br>redovisningen av ordförandebeslut från<br>ordförande Thure Sandén (M) på grund<br>av brådskande ärende. | 2<br>min |
@@ -77,6 +80,7 @@ KUNGSBACKA  KOMMUN
 | 14. | Anmälan av delegeringsbeslut |  | Byggnadsnämnden godkänner<br>redovisningen av delegeringsbeslut<br>fattade under perioden 2021-05-14 till<br>2021-06-10. | 2<br>min |
 | 15. | Redovisning av inkomna<br>skrivelser | BN 2021–<br>000053 | Byggnadsnämnden godkänner<br>redovisningen av inkomna skrivelser<br>under perioden 2021-05-14 till 2021-06-<br>10. | 2<br>min |
 | Beslutsärenden (myndighetsutövning) |  |  |  |  |
+|  |  |  |  |  |
 | Bygglov |  |  |  |  |
 | 16. | FJÄRÅS PRÄSTGÅRD 1:8 -<br>Bygglov för om- och<br>tillbyggnad av enbostadshus<br>till flerbostadshus | BN 2020-<br>001397 | Byggnadsnämndens avslår ansökan om<br>bygglov för om-och tillbyggnad av<br>enbostadshus till flerbostadshus<br>Avgiften för beslutet enligt liggande<br>förslag och inkommen ansökan är 49 200<br>kronor. Avgiften är reducerad med 49<br>200 kronor på grund av att beslutet har<br>tagit mer än 10 veckor sedan ansökan<br>kom in och begäran om komplettering ha<br>inte skickats ut. Kostnaden blir därför 0<br>kronor.<br>Avgiften är uträknad efter Taxa för<br>Byggnadsnämndens verksamhet,<br>beslutad i kommunfullmäktige, 2019-08-<br>13, § 107. | 5<br>min |
 | Strandskyddsdispens |  |  |  |  |
@@ -125,4 +129,5 @@ Ordförande                     Sekreterare
 | --- | --- | --- | --- | --- |
 | 22. | HAGRYD 7:2,<br>HAGRYD S:8,<br>HAGRYD S:17,<br>HAGRYD 6:1 -<br>Strandskyddsdispens för<br>anläggande av VA-<br>installation/anläggning | BN 2020-<br>002379 | Byggnadsnämnden beviljar<br>strandskyddsdispens för anläggande av<br>VA-installation/anläggning.<br>Som tomt för anläggande av VA-<br>installation får tas i anspråk den mark<br>som redovisas på bifogade kartunderlag<br>som inkom 2020-08-31. Dispens ges<br>under förutsättning att den förenas med<br>nedanstående villkor:<br>• Entreprenörer eller andra som<br>utför åtgärderna ska informeras<br>om villkor som är förenade med<br>dispensen och övriga<br>försiktighetsmått som krävs.<br>• Plan för återställning efter<br>genomförda gräv- och<br>schaktningsarbeten ska tas fram<br>tillsammans med biologisk<br>kompetens.<br>Detta beslut upphör att gälla om den<br>åtgärd som dispens avser inte har<br>påbörjats inom två år eller inte har<br>avslutats inom fem år från dagen då<br>beslutet vann laga kraft (7 kap. 18 h §<br>miljöbalken). | 2<br>min |
 | Tillsyn |  |  |  |  |
+|  |  |  |  |  |
 | Ärenden mellan nr 23-27 som gäller tillsyn, förbud eller föreläggande, innehåller en mängd<br>personuppgifter och publiceras därför inte på webbplatsen med anledning av Dataskyddsförordningen,<br>GDPR (General Data Protection Regulation). |  |  |  |  |

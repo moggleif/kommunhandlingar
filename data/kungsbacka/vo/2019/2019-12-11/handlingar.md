@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20200711174037id_/https://www.kungsbacka.
 sha256: 495654e3db28b7deade3786a51871d5f04e60eb878bde9e91fa76fe22fb623df
 bytes: 3333741
 sidor: 103
-hamtad: 2026-11-03T08:38:50+00:00
-konverterad: 2026-11-03T08:39:07+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:18:22+00:00
+konverterad: 2026-11-21T02:18:40+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok]
 tal_obekraftade: [8, 30]
 figurer: [25, 26]
 tolkade: []
@@ -324,7 +324,6 @@ att Kungsbacka Kommun utreder förutsättningarna för en ny boendeform enligt d
 regler för äldreboende som infördes i april 2019
 
 —
-ra i)
 
 Å 2) Ve AM AM SS
 Maj-Britt Rane Andersson (S)
@@ -374,7 +373,6 @@ Expedierat/bestyrkt
 
 YTTRANDE
 Vård & Omsorg
-
 Datum
 2019-10-02
 Diarienummer
@@ -390,8 +388,8 @@ för Vård- och omsorg har fått ärendet på remiss från kommunstyrelsen med e
 ett yttrande.
 
 Bakgrund
-
 Boendeformer för äldre har sedan 2008 haft tre huvudinriktningar enligt följande;
+
 Biståndsbedömt Särskilt boende (Vård - och omsorgsboende)
 De särskilda boendeformerna biståndsbedömds och beviljas i regel till äldre personer som
 inte längre kan tillförsäkras en trygg och säker omsorg (skälig levnadsnivå) i det i ordinära
@@ -399,9 +397,9 @@ boendet med hemtjänstinsatser. För att få bostad i särskilt boende ansöker 
 socialtjänstlagen. Det är den enskildes behov av sådant boende som blir föremål för prövning
 och beviljas när vård- och omsorgsbehovet är stort och kräver närhet till personal dygnet
 runt. Vård- och omsorgsbehovet inom särskilt boende ökar, eftersom de som flyttar in är allt
-
 äldre och har allt mer omfattande funktionsnedsättningar. Ansökningar till boendeformen
 ökar också i takt med att vår befolkning blir allt fler och äldre.
+
 Seniorbostäder utan biståndsbeslut
 När det gäller begreppet Seniorbostäder, så finns det ingen bestämd definition, utan
 boendeformen förekommer i en mängd olika skepnader och tillhandahålls på den ordinarie
@@ -409,7 +407,6 @@ bostadsmarknaden antingen som hyresrätt eller bostadsrätt. Boendeformen riktar
 personer över en viss ålder, ofta en nedre åldersgräns på plus 55 år. Det krävs inte något
 biståndsbeslut från kommunen enligt socialtjänstlagen för att flytta till ett seniorboende.
 Seniorboende utmärks av en god tillgänglighet, god funktionalitet och ofta
-
 gemensamhetsutrymmen. I Kungsbacka finns ett antal fastighetsägare som har nischat in sig
 specifikt på denna boendeform (plus 55-boende) och har vissa bostäder med denna inriktning
 inom sitt befintliga bostadsbestånd.
@@ -458,69 +455,14 @@ or
 n
 g
 g sbacka.se
-St a
+U
 K
-ds
-u
-4
-h
-n
-3
-u
-g
-4
-s
-s
-e
-8
-b
-t
-1
-a
-,
-B
-c
-S
-K
-k
-e
-t
-s
-a
-o
-u
-ö
-r
-n
-k
-g
-k
-g
-o
-a
-s
-s
-m
-a
-t
-b
-a
-d
-a
-m
-n
-r
-c
-e
-u
-3
-k
-s
-n
-7
-a
-s
-K U                                                               Telefon 0300-83 40 00
+
+Kungsbacka kommun
+434 81 Kungsbacka
+Besöksadress
+Stadshuset, Storgatan 37
+Telefon 0300-83 40 00
 www.kungsbacka.se
 
 <!-- sida 11 -->
@@ -1469,15 +1411,8 @@ www.kungsbacka.se
 PM
 2019-07-01               1 (68)
 
-Adress 103 85 Stockholm
-Besöksadress Ringvägen 100
-Telefon 08-7001600
-Fax 08-245543
-(e-post borttagen)
-70-90-8102
-,1.2v
-,0002VKK
 Sammanfattning
+
 I promemorian föreslås att Konkurrensverkets tillsynsverksamhet på
 upphandlingsområdet regleras tydligare och att det införs utvidgade möjligheter
 till ingripande i lagen (2016:1145) om offentlig upphandling, lagen (2016:1146) om
@@ -1485,11 +1420,20 @@ upphandling inom försörjningssektorerna, lagen (2016:1147) om upphandling av
 koncessioner och lagen (2011:1029) om upphandling på försvars- och
 säkerhetsområdet. Motsvarande bestämmelser föreslås vidare införas även i lagen
 (2008:962) om valfrihetssystem och lagen (2013:311) om valfrihetssystem i fråga
+
 om tjänster för elektronisk identifiering. Lagändringarna föreslås träda i kraft den
 [1 juli 2020]. Promemorian innehåller också ett förslag till ändring i förordningen
 (2007:1117) med instruktion för Konkurrensverket som innebär att verket i sin
 tillsynsverksamhet ska motverka och uppmärksamma korruption och annat
 förtroendeskadligt beteende.
+
+Adress 103 85 Stockholm
+Besöksadress Ringvägen 100
+Telefon 08-7001600
+Fax 08-245543
+(e-post borttagen)
+
+KKV2000, v2.1, 2018-09-07
 
 <!-- sida 31 -->
 
@@ -4346,36 +4290,49 @@ KUNGSBACKA  KOMMUN
 Kvartal Kvartal Kvartal Kvartal
 2019
 1      2      3     4
+Totalt antal personer med särskilt
+boendebeslut som inte har verkställts 22 42 53
+inom 3 månader
+Varav
+\- antal personer som tackat nej till
+3      13    8
+erbjudande
+\- antal personer som tackat nej till fler
+4      2      0
+erbjudanden
 
+```osaker-tabell
+- ej fått något erbjudande    1      12    21
+- avlidna                     0      1      1
+- avsagt sig beslut           5      2     3
+- Verkställda under kvartalet 9      12    20
+Summa                           22     42    53      0
+```
+
+Varav
+
+\- Antal personer som har väntat på
+17     33    26
+boende 4 - 6 månader
+\- Antal personer som har väntat på
+1      6     19
+boende 7 - 9 månader
+\- Antal personer som har väntat på
+3      0      5
+boende 10 - 12 månader.
+\- Antal personer som har väntat på
+1      3     3
+boende > 12 månader
+Summa                           22     42    53      0
 ￼
 Beslutsunderlag
 Tjänsteskrivelse, 2019-11-07
-
 Beslutet skickas till
 Kommunstyrelsen
 Kommunrevisionen
 
 Verksamhetschef Myndighet
 Pia Berglund
-
-[Tabell 99-1](handlingar.tabeller/99-1.csv)
-
-| Totalt antal personer med särskilt<br>boendebeslut som inte har verkställts<br>inom 3 månader | 22 | 42 | 53 |  |
-| --- | --- | --- | --- | --- |
-| Varav |  |  |  |  |
-| - antal personer som tackat nej till<br>erbjudande | 3 | 13 | 8 |  |
-| - antal personer som tackat nej till fler<br>erbjudanden | 4 | 2 | 0 |  |
-| - ej fått något erbjudande | 1 | 12 | 21 |  |
-| - avlidna | 0 | 1 | 1 |  |
-| - avsagt sig beslut | 5 | 2 | 3 |  |
-| - Verkställda under kvartalet | 9 | 12 | 20 |  |
-| Summa | 22 | 42 | 53 | 0 |
-| Varav |  |  |  |  |
-| - Antal personer som har väntat på<br>boende 4 - 6 månader | 17 | 33 | 26 |  |
-| - Antal personer som har väntat på<br>boende 7 - 9 månader | 1 | 6 | 19 |  |
-| - Antal personer som har väntat på<br>boende 10 - 12 månader. | 3 | 0 | 5 |  |
-| - Antal personer som har väntat på<br>boende > 12 månader | 1 | 3 | 3 |  |
-| Summa | 22 | 42 | 53 | 0 |
 
 <!-- sida 100 -->
 
