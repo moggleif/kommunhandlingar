@@ -1,0 +1,29 @@
+# Tillfälligt prov för #344. Tas bort före PR.
+name: Prov 344
+on:
+  push:
+    branches: [claude/project-thread-19lvr2]
+    paths: [prov/**, .github/workflows/prov-344.yml]
+permissions:
+  contents: read
+jobs:
+  prov:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        del: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/checkout@v7
+        with:
+          repository: moggleif/regionhalland
+          path: rh
+          sparse-checkout: data
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - run: sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-swe
+      - run: pip install -e .
+      - run: python prov/prov.py prov/urval.csv ${{ matrix.del }}
