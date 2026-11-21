@@ -1,4 +1,5 @@
-"""Krav: K7, K14, K39 och K73 i docs/02-KRAV.md. Test: tests/test_webbplats.py."""
+"""Krav: K7, K14, K39 och K73 i docs/02-KRAV.md. Test: tests/test_webbplats.py och
+tests/test_kand_inlasning_sida.py."""
 
 from collections import Counter
 from html import escape
@@ -40,6 +41,8 @@ def statussida(mall: Mall, kommun: Kommun, dokument: list[dict[str, str]]) -> st
         '#konvertering-och-kvalitet">arkitekturen</a>.</p>'
         + kvalitetstabell(rader)
         + "<h2>Sidor per organ</h2>"
+        + f'<p>Sidkvaliteterna förklaras i <a href="{escape(KALLKOD + ARKITEKTUR)}'
+        '#känd-inläsning">arkitekturen</a>.</p>'
         + sidtabell(rader)
         + luckavsnitt(kommun, rader)
     )
@@ -64,7 +67,7 @@ def kand_inlasning_rad(rader: list[Organrad]) -> str:
     sidor = sum((rad.sidor for rad in rader), Counter())
     return (
         f"<p>Känd inläsning: {kand_inlasning.kanda(sidor)} av {sidor.total()} "
-        f"sidor ({kand_inlasning.andel(sidor)} %).</p>"
+        f"sidor ({procent(sidor)}).</p>"
     )
 
 
@@ -104,7 +107,7 @@ def procent(sidor: Counter) -> str:
     return f"{kand_inlasning.andel(sidor)} %"
 
 
-def tabell(kolumner: list[str], rader: list[tuple[Organrad, list]]) -> str:
+def tabell(kolumner: list[str], rader: list[tuple[Organrad, list[int | str]]]) -> str:
     huvud = "".join(f'<th scope="col">{escape(k)}</th>' for k in ["Organ", *kolumner])
     kropp = "".join(
         f'<tr><th scope="row"><a href="{rad.id}.html">'
@@ -117,7 +120,7 @@ def tabell(kolumner: list[str], rader: list[tuple[Organrad, list]]) -> str:
     )
 
 
-def celler(rad: Organrad, tal: list) -> str:
+def celler(rad: Organrad, tal: list[int | str]) -> str:
     if not rad.dokument:
         return INGET.format(len(tal))
     return "".join(f'<td class="tal">{t}</td>' for t in tal)

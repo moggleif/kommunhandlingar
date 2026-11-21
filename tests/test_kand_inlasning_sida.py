@@ -19,12 +19,15 @@ class TestKandInlasningSida(unittest.TestCase):
     def test_overst_och_per_organ(self):
         html = statussida(
             dokument(per_sida="[ok, ej-konverterad, ointressant]"),
-            dokument(per_sida="[ocr]", kvalitet="ocr"),
+            dokument(organ="bun", per_sida="[ocr, ocr]", kvalitet="ocr"),
         )
-        self.assertIn("<p>Känd inläsning: 3 av 4 sidor (75,00 %).</p>", html)
+        self.assertIn("<p>Känd inläsning: 4 av 5 sidor (80,00 %).</p>", html)
         self.assertIn("<h2>Sidor per organ</h2>", html)
         self.assertIn('<th scope="col">ointressant</th>', html)
-        self.assertIn('<td class="tal">75,00 %</td></tr>', html)
+        self.assertIn('<td class="tal">66,67 %</td></tr>', html)
+        noll = '<td class="tal">0</td>'
+        bun = 2 * noll + '<td class="tal">2</td>' + 4 * noll
+        self.assertIn(bun + '<td class="tal">100,00 %</td></tr>', html)
 
     def test_pool_utan_sidor_har_ingen_andel(self):
         self.assertIn("(– %)", statussida())

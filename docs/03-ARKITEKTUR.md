@@ -1957,7 +1957,8 @@ varje push till `main`, för hand och när ett issue med etiketten
   i `tal_obekraftade`, och en tabell med antal sidor per sidkvalitet ur
   `kvalitet_per_sida` och organets andel känd inläsning. Överst står hela
   kommunens känd inläsning: sidor som inte är `ej-konverterad` av alla
-  sidor, med samma räkning som `kand_inlasning` (K73). Ett organ utan
+  sidor, med samma räkning som `kand_inlasning` (K73,
+  [ADR-0101](decisions/0101-statussidan-visar-kand-inlasning.md)). Ett organ utan
   dokument står med som "inget hämtat än". Andelen känd inläsning är den
   enda andel sidan visar.
 - **Luckorna** (K7,
