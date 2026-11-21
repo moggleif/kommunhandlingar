@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20200926061700id_/https://www.kungsbacka.
 sha256: 5d8444af39e5f03d39ccdaaac8761e656e3267e27ffabfc5c211e23ebffb3d9b
 bytes: 10995430
 sidor: 141
-hamtad: 2026-11-04T12:04:54+00:00
-konverterad: 2026-11-04T12:06:02+00:00
-pipeline: kommunhandlingar 0.9.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T02:05:14+00:00
+konverterad: 2026-11-21T02:07:11+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ocr, ok, ok, ocr, ocr, ocr, ok, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 81, 82, 83, 87, 90, 91, 92, 94, 95, 97, 127, 135]
 figurer: [6, 38, 48, 49, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 120]
 tolkade: []
@@ -701,24 +701,9 @@ lockar invånare, besökare och turister till hela kommunen. Vi har även arbeta
 social hållbarhet genom att utveckla och samordna kommunens folkhälsofrågor, brotts- och
 drogförebyggande arbete och barns rättigheter och inflytande där det senare haft ett särskilt fokus under
 2019\.
-Utfall  Utfall  Utfall Målvärde
-Indikatorer
-2017    2018    2019    2019
-Trygghetsindex för hur kommuninvånarna bedömer
-tryggheten (SCB:s medborgarundersökning, skala 0- 63 64 60   65
-100\)
-Bäst att bo, Kungsbackas placering i ranking av
-28      24      15      25
-Sveriges kommuner enligt Tidningen Fokus.
-Invånarnas helhetsbedömning av kommunen som en
-plats att bo och leva på. SCB:s
-72      72      68      73
-medborgarundersökning, Nöjd Region-index, NRI,
-skala 0–100.
-Invånarnas uppfattning om möjligheterna till
-fritidsaktiviteter i kommunen (SCB:s 66      66      66      68
-medborgarundersökning, index i skala 0–100).
+
 3.1.1 Utveckla evenemangsplaneringen
+
 Beslutats av
 Nämnd
 Kommentar på nämndmål
@@ -738,6 +723,15 @@ Fokusområde
 Kungsbacka har välkomnande och trygga miljöer.
 
 8
+
+[Tabell 17-1](handlingar.tabeller/17-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Trygghetsindex för hur kommuninvånarna bedömer<br>tryggheten (SCB:s medborgarundersökning, skala 0-<br>100) | 63 | 64 | 60 | 65 |
+| Bäst att bo, Kungsbackas placering i ranking av<br>Sveriges kommuner enligt Tidningen Fokus. | 28 | 24 | 15 | 25 |
+| Invånarnas helhetsbedömning av kommunen som en<br>plats att bo och leva på. SCB:s<br>medborgarundersökning, Nöjd Region-index, NRI,<br>skala 0–100. | 72 | 72 | 68 | 73 |
+| Invånarnas uppfattning om möjligheterna till<br>fritidsaktiviteter i kommunen (SCB:s<br>medborgarundersökning, index i skala 0–100). | 66 | 66 | 66 | 68 |
 
 <!-- sida 18 -->
 
@@ -812,44 +806,26 @@ Fokusområden
 \- Kungsbacka ska anpassa miljöarbetet till de nationella miljömålen och globala hållbarhetsmålen samt
 Borgmästaravtalet för att bli en av de främsta kommunerna inom miljö- och klimatfrågor.
 -Unga i Kungsbacka mår bra såväl fysiskt som psykiskt.
-Utfall  Utfall  Utfall Målvärde
-Indikatorer
-2017    2018    2019    2019
-Ungas hälsa i årskurs 4 och 8. (Elevhälsan i
-Kungsbacka utvecklar metod utifrån hälsosamtal med 91%
-elever.)
-Koldioxidutsläpp från övriga sektorer än industrin i ton
-per invånare. (Källa: Sveriges Ekokommuner, med två
-2,2
-års förskjutning, dvsutfall 2016 avser faktiskt utfall
-2014.)
-Antal resor per invånare gjorda med kollektivtrafik.
-(Källa: Sveriges Ekokommuner, med ett års 65 73
-förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.)
-Andel förnybara bränslen i kollektivtrafiken. (Källa:
-Sveriges Ekokommuner, med ett års förskjutning, dvs 79% 79% 80%
-utfall 2016 avser faktiskt utfall 2015.)
-Andel förnybar och återvunnen energi i kommunala
-lokaler. (Källa: Sveriges Ekokommuner, med ett års 99% 99%  99%
-förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.)
-Transportenergi i kilowattimma (kWh) för kommunens
-tjänsteresor med bil per årsarbetare. (Källa: Sveriges
-505     427
-Ekokommuner, med ett års förskjutning, dvs utfall 2016
-avser faktiskt utfall 2015.)
-Koldioxidutsläpp från kommunens tjänsteresor med bil
-i ton per årsarbetare. (Källa: Sveriges Ekokommuner,
-0,1    0,17            0,08
-med ett års förskjutning, dvs utfall 2016 avser faktiskt
-utfall 2015.)
-Andel miljöcertifierade skolor och förskolor. (Källa:
-Sveriges Ekokommuner, med ett års förskjutning, dvs 16%     30%
-utfall 2016 avser faktiskt utfall 2015.)
+
 3.2.1 Tillgängliggöra befintliga resurser och marknadsföra förvaltningens utbud
+
 Beslutats av
 Nämnd
 
 10
+
+[Tabell 19-1](handlingar.tabeller/19-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Ungas hälsa i årskurs 4 och 8. (Elevhälsan i<br>Kungsbacka utvecklar metod utifrån hälsosamtal med<br>elever.) |  | 91% |  |  |
+| Koldioxidutsläpp från övriga sektorer än industrin i ton<br>per invånare. (Källa: Sveriges Ekokommuner, med två<br>års förskjutning, dvsutfall 2016 avser faktiskt utfall<br>2014.) |  |  |  | 2,2 |
+| Antal resor per invånare gjorda med kollektivtrafik.<br>(Källa: Sveriges Ekokommuner, med ett års<br>förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.) | 65 | 73 |  |  |
+| Andel förnybara bränslen i kollektivtrafiken. (Källa:<br>Sveriges Ekokommuner, med ett års förskjutning, dvs<br>utfall 2016 avser faktiskt utfall 2015.) | 79% | 79% |  | 80% |
+| Andel förnybar och återvunnen energi i kommunala<br>lokaler. (Källa: Sveriges Ekokommuner, med ett års<br>förskjutning, dvs utfall 2016 avser faktiskt utfall 2015.) | 99% | 99% |  | 99% |
+| Transportenergi i kilowattimma (kWh) för kommunens<br>tjänsteresor med bil per årsarbetare. (Källa: Sveriges<br>Ekokommuner, med ett års förskjutning, dvs utfall 2016<br>avser faktiskt utfall 2015.) | 505 | 427 |  |  |
+| Koldioxidutsläpp från kommunens tjänsteresor med bil<br>i ton per årsarbetare. (Källa: Sveriges Ekokommuner,<br>med ett års förskjutning, dvs utfall 2016 avser faktiskt<br>utfall 2015.) | 0,1 | 0,17 |  | 0,08 |
+| Andel miljöcertifierade skolor och förskolor. (Källa:<br>Sveriges Ekokommuner, med ett års förskjutning, dvs<br>utfall 2016 avser faktiskt utfall 2015.) | 16% |  |  | 30% |
 
 <!-- sida 20 -->
 
@@ -885,26 +861,19 @@ näringslivsområde i Kungsbacka.
 Vi har ägnat hela året åt att förbereda för en privat entreprenör att ta över Kungsbackas två simhallar så att de
 ska kunna vidareutvecklas till moderna friskvårdsanläggningar.
 
-Utfall  Utfall  Utfall Målvärde
-Indikatorer
-2017    2018    2019    2019
-Insikt, SKLs servicemätning av kommunernas
-myndighetsutövning för företag. Nöjd-kund-index
-utifrån sammanvägt betygsindex 0-100, för hur företag
-67                      69
-i kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde utifrån skala 1-
-3      3,2     3,4    3,4
-6, där företag bedömer företagsklimatet i Kungsbacka
-kommun.
 3.3.1 Underlätta för alternativa utförare
+
 Beslutats av
 Nämnd
 
 11
+
+[Tabell 20-1](handlingar.tabeller/20-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKLs servicemätning av kommunernas<br>myndighetsutövning för företag. Nöjd-kund-index<br>utifrån sammanvägt betygsindex 0-100, för hur företag<br>i kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 67 |  |  | 69 |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde utifrån skala 1-<br>6, där företag bedömer företagsklimatet i Kungsbacka<br>kommun. | 3 | 3,2 | 3,4 | 3,4 |
 
 <!-- sida 21 -->
 
@@ -942,26 +911,17 @@ något som är nödvändigt för att intresset ska kvarstå. Detta är kärnan i
 genomlystes 2019 av en extern konsult som verifierade att arbetsmodellen är rätt för att ge resultat. Vissa
 förbättringsmöjligheter identifierades.
 
-Utfall  Utfall  Utfall Målvärde
-Indikatorer
-2017    2018    2019    2019
-Placering i ranking för grundskola av Sveriges 290
-kommuner, sammanvägt resultat enligt SKL:s öppna 88 57       40
-jämförelser.
-Genomsnittligt meritvärde i årskurs 9. Meritvärdet
-utgörs av summan av de 17 bästa betygen i elevens 228,8 239,8 238 240
-slutbetyg och kan max vara 340.
-Arbetslöshet för ungdomar 16–24 år i kommunen.
-2,4%     3%             1,8%
-(Källa: Arbetsförmedlingen och SCB)
-Självkänsla och framtidstro för gymnasieelever år 2,
-index med skala 0–10 enligt Skolenkäten som 7,5      7,3     8
-genomförs i samarbete med Göteborgsregionen, GR.
-Genomsnittligt betygspoäng för gymnasiets
-13,9   13,9    13,8     14
-avgångselevers betygspoäng som kan vara max 20.
-
 12
+
+[Tabell 21-1](handlingar.tabeller/21-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Placering i ranking för grundskola av Sveriges 290<br>kommuner, sammanvägt resultat enligt SKL:s öppna<br>jämförelser. | 88 | 57 |  | 40 |
+| Genomsnittligt meritvärde i årskurs 9. Meritvärdet<br>utgörs av summan av de 17 bästa betygen i elevens<br>slutbetyg och kan max vara 340. | 228,8 | 239,8 | 238 | 240 |
+| Arbetslöshet för ungdomar 16–24 år i kommunen.<br>(Källa: Arbetsförmedlingen och SCB) | 2,4% | 3% |  | 1,8% |
+| Självkänsla och framtidstro för gymnasieelever år 2,<br>index med skala 0–10 enligt Skolenkäten som<br>genomförs i samarbete med Göteborgsregionen, GR. | 7,5 |  | 7,3 | 8 |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara max 20. | 13,9 | 13,9 | 13,8 | 14 |
 
 <!-- sida 22 -->
 
@@ -1049,30 +1009,24 @@ för sig motsäger individuell påverkan och medskapande beroende på ungdomars 
 
 Vi bjöd in till medskapande av invånarna för att utforma 2020 års genomförandeplan.
 
-Utfall  Utfall  Utfall Målvärde
-Indikatorer
-2017    2018    2019    2019
-Nöjd-inflytande index för hur kommuninvånarna
-bedömer möjligheterna till inflytande. (SCB:s 46 47  43      48
-medborgarundersökning, 0-100).
-e-Blomlådan, poäng enligt kriterier för framgångsrik IT-
-20,7   22,1            22,5
-styrning från SKL med maxpoäng 24.
-Hållbart medarbetarengagemang, ett index för
-medarbetarnas samlade uppfattning om områdena
-77      76              82
-motivation, ledarskap och styrning, skala 1-100 enligt
-Medarbetarenkäten.
-Jämställdhetsindex, Jämix. Antal poäng av max 180.
-81                      93
-Jämix beräknas utifrån nio nyckeltal med skala 1–20.
 3.5.1 Samarbeta med ideell sektor för att förbättra vår leverans
+
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Utveckla samarbetsformerna med ideella sektorn
 
 14
+
+[Tabell 23-1](handlingar.tabeller/23-1.csv)
+
+| Indikatorer | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 | Målvärde<br>2019 |
+| --- | --- | --- | --- | --- |
+| Nöjd-inflytande index för hur kommuninvånarna<br>bedömer möjligheterna till inflytande. (SCB:s<br>medborgarundersökning, 0-100). | 46 | 47 | 43 | 48 |
+| e-Blomlådan, poäng enligt kriterier för framgångsrik IT-<br>styrning från SKL med maxpoäng 24. | 20,7 | 22,1 |  | 22,5 |
+| Hållbart medarbetarengagemang, ett index för<br>medarbetarnas samlade uppfattning om områdena<br>motivation, ledarskap och styrning, skala 1-100 enligt<br>Medarbetarenkäten. | 77 | 76 |  | 82 |
+| Jämställdhetsindex, Jämix. Antal poäng av max 180.<br>Jämix beräknas utifrån nio nyckeltal med skala 1–20. | 81 |  |  | 93 |
 
 <!-- sida 24 -->
 
@@ -1188,12 +1142,13 @@ Deras nya regler kom fram i november och då startade vårt arbete återigen upp
 kommun som vi har för avsikt att samarbeta med vid framtagningen av nytt bidrags- och taxesystem under
 2020\.
 
-Indikatorer                                  Utfall 2019
-Pågående med avvikelse avseende tidplan.
-Status på direktiv
-Leverans under 2020.
-
 17
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Indikatorer | Utfall 2019 |
+| --- | --- |
+| Status på direktiv | Pågående med avvikelse avseende tidplan.<br>Leverans under 2020. |
 
 <!-- sida 27 -->
 
@@ -1210,48 +1165,48 @@ verksamheten.
 
 [Tabell 27-31-1](handlingar.tabeller/27-31-1.csv)
 
-| Område | Status Beskrivning Kommentar |
-| --- | --- |
-| Friluftsbad | Vi placerar ut bryggor, stegar<br>och sopkärl senast 1 juni. Vi tar<br>bort bryggor, trappor och sopkärl<br>tidigast 31 augusti. Om vi av<br>Uppnått någon oförutsedd anledning<br>måste ta upp bryggor eller<br>trappor tidigare än 31 augusti<br>informerar vi om det på<br>badplatsens anslagstavla. |
-|  | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>Uppnått<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |
-| Fritid & Livsstil | Vi har i ett kommunövergripande<br>arbete utvecklat<br>Alla ungdomar ska ha lika ungdomsdialogen med syfte att<br>Delvis<br>möjligheter att påverka Fritid & ge unga större<br>uppnått<br>livsstils verksamhet. påverkansmöjligheter men vi<br>kan inte säkerställa att alla har<br>kännedom om sina möjligheter. |
-|  | Personalen på Fritid & livsstil<br>ska lyssna på och hjälpa<br>Uppnått<br>ungdomar att genomföra sina<br>idéer. |
-| Bidrag och stöd<br>till föreningar | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>Uppnått<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |
-|  | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>Uppnått efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |
-|  | Sommartid har vi lägre<br>bemanning men registrering kan<br>Vi hanterar din ansökan inom<br>Delvis göras i efterhand liksom<br>fem arbetsdagar efter att den<br>uppnått ansökan om bidrag så att ingen<br>kommit till oss.<br>nystartad förening ska bli<br>drabbad. |
-|  | Vi kontaktar styrelsen efter<br>Uppnått registrering för en personlig<br>kontakt. |
-| Idrottsplatser | Stängsel runt konstgräsplanerna<br>kontrolleras i september och<br>Uppnått<br>april och belysningen<br>kontrolleras i september. |
-|  | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>Uppnått<br>senast två arbetsdagar efter<br>avslutat snöfall. |
-|  | Grusplaner skottas senast två<br>Uppnått arbetsdagar efter avslutat snöfall<br>från och med 1 februari. |
-|  | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på<br>vår webbplats. Ledare som<br>Uppnått<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |
-|  | Inrapporterat fel på teknik och I samband med ny organisation<br>utrustning ska åtgärdas inom två av driftenheten inom ramen för<br>Delvis arbetsdagar med återkoppling till Teknikens hus-projektet uppkom<br>uppnått anmälaren. Dröjer det längre ett tempotapp där ordinarie<br>anger vi när vi kan åtgärda insatstider tillfälligt blev<br>problemet. förskjutna. |
-| Inomhushallar | Vi kontrollerar utrustningen<br>I samband med ny organisation<br>idrottshallar och gymnastiksalar<br>av driftenheten inom ramen för<br>varannan vecka. Kontrollen<br>Delvis Teknikens hus-projektet uppkom<br>gäller den utrustning som Fritid<br>uppnått ett tempotapp där ordinarie<br>& Folkhälsas abonnenter<br>insatstider tillfälligt blev<br>använder i lokalen. Det vill säga<br>förskjutna.<br>våra kvälls- och helgabonnenter. |
-|  | Inrapporterat fel på teknik och I samband med ny organisation<br>utrustning ska åtgärdas inom två av driftenheten inom ramen för<br>Delvis arbetsdagar med återkoppling till Teknikens hus-projektet uppkom<br>uppnått anmälaren. Dröjer det längre ett tempotapp där ordinarie<br>anger vi när vi kan åtgärda insatstider tillfälligt blev<br>problemet. förskjutna. |
-| Motionsspår | Vi kontrollerar belysning senast<br>1 november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-|  | Inrapporterade fel på I samband med ny organisation<br>belysningen ska åtgärdas inom av driftenheten inom ramen för<br>Delvis två arbetsdagar med Teknikens hus-projektet uppkom<br>uppnått återkoppling till anmälaren. ett tempotapp där ordinarie<br>Dröjer det längre anger vi när vi insatstider tillfälligt blev<br>kan åtgärda problemet. förskjutna. |
-|  | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>Uppnått<br>underhållskontroller i december<br>och februari. |
-| Simhallar | All personal som bevakar i<br>simhallen har utbildning i<br>livräddning och hjärt- och<br>Uppnått<br>lungräddning. De har även<br>grundläggande kunskaper i<br>sjukvård. |
-|  | Vattentemperaturen i Fjärås<br>Uppnått<br>simhall är 28 grader. |
-|  | I Kungsbacka simhall är det 28<br>grader i stora bassängen, 31<br>Uppnått grader undervisningsbassängen.<br>På onsdagar är det 34 grader i<br>undervisningsbassängen. |
-|  | Vi kontrollerar vattenkvaliteten i<br>Uppnått Fjärås simhall två gånger per<br>dag. |
-|  | Vi kontrollerar vattenkvaliteten i<br>Uppnått Kungsbacka simhall två gånger<br>per dag. |
-| Större<br>arrangemang | När det är verksamhet i våra<br>anläggningar ska det finnas<br>Uppnått<br>personal från Fritid & Folkhälsa i<br>tjänst. |
-|  | Vi bjuder in till en förberedande<br>träff sex månader innan<br>arrangemanget. Vi genomför ett<br>Uppnått<br>avstämningsmöte senast en<br>månad innan arrangemanget<br>ska genomföras. |
-|  | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>Uppnått<br>EM, VM eller tävling med annat<br>nationellt intresse. |
-|  | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>Uppnått<br>nationell status. Bidraget<br>regleras av vilken status<br>arrangemanget har. |
-| Bibliotek | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>Uppnått<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |
-|  | Beskrivning<br>Du som har någon form av<br>Uppnått<br>funktionsvariation ska, i<br>möjligaste mån, ha tillgång till<br>anpassade medier. |
-|  | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>Uppnått<br>medier genom att lämna<br>inköpsförslag. |
-|  | Biblioteken i Kungsbacka ska<br>Uppnått stimulera barn och unga till<br>läsning. |
-| Turism<br>Kungsbacka | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig<br>och digital turistinformation på<br>svenska och engelska om<br>Uppnått<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |
-|  | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>Uppnått<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |
-|  | Äskhults by ska vara öppen maj<br>- oktober och erbjuda ett<br>skiftande programutbud.<br>Uppnått<br>Kulturlandskapet ska kunna<br>besökas även när Äskhults by<br>inte är öppen. |
-|  | Naturum Fjärås Bräcka ska<br>erbjuda ett skiftande<br>Uppnått programutbud året runt och<br>verksamheten ska präglas av ett<br>ekologiskt tankesätt. |
-| Scen & Konst | Det generella utbudet i<br>Filmhuset Facklan ska under<br>året kompletteras med filmer för<br>Uppnått<br>skolbio, Bio Kontrast-<br>föreställningar och<br>dagbiovisningar. |
-|  | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>Uppnått<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |
-|  | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>Uppnått upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |
-|  | Vi ska under året presentera<br>minst en uppsättning av vardera<br>Uppnått genrerna musik, musikdramatik,<br>drama, dans och ett verk med<br>amatörteater. |
-| Kulturmiljövård | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>Uppnått<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |
+| Område |  | Status | Beskrivning | Kommentar |
+| --- | --- | --- | --- | --- |
+| Friluftsbad |  | Uppnått | Vi placerar ut bryggor, stegar<br>och sopkärl senast 1 juni. Vi tar<br>bort bryggor, trappor och sopkärl<br>tidigast 31 augusti. Om vi av<br>någon oförutsedd anledning<br>måste ta upp bryggor eller<br>trappor tidigare än 31 augusti<br>informerar vi om det på<br>badplatsens anslagstavla. |  |
+|  |  | Uppnått | Under perioden 1 juni-31 augusti<br>tömmer vi sopsäckarna en gång<br>per vecka. Vecka 27-31 tömmer<br>vi sopsäckarna två gånger per<br>vecka. Övrig tid under året har vi<br>ingen soptömning. |  |
+| Fritid & Livsstil |  | Delvis<br>uppnått | Alla ungdomar ska ha lika<br>möjligheter att påverka Fritid &<br>livsstils verksamhet. | Vi har i ett kommunövergripande<br>arbete utvecklat<br>ungdomsdialogen med syfte att<br>ge unga större<br>påverkansmöjligheter men vi<br>kan inte säkerställa att alla har<br>kännedom om sina möjligheter. |
+|  |  | Uppnått | Personalen på Fritid & livsstil<br>ska lyssna på och hjälpa<br>ungdomar att genomföra sina<br>idéer. |  |
+| Bidrag och stöd<br>till föreningar |  | Uppnått | Vi ska årligen träffa minst 15<br>föreningar och deras ledare för<br>att ha en dialog och för att<br>diskutera förbättringsområden<br>och utvecklingen av föreningens<br>verksamhet. |  |
+|  |  | Uppnått | Vi betalar ut bidraget för Lokalt<br>aktivitetsstöd senast tio dagar<br>efter att föreningen godkänt sina<br>sammankomster i Aktivitetskort<br>på nätet |  |
+|  |  | Delvis<br>uppnått | Vi hanterar din ansökan inom<br>fem arbetsdagar efter att den<br>kommit till oss. | Sommartid har vi lägre<br>bemanning men registrering kan<br>göras i efterhand liksom<br>ansökan om bidrag så att ingen<br>nystartad förening ska bli<br>drabbad. |
+|  |  | Uppnått | Vi kontaktar styrelsen efter<br>registrering för en personlig<br>kontakt. |  |
+| Idrottsplatser |  | Uppnått | Stängsel runt konstgräsplanerna<br>kontrolleras i september och<br>april och belysningen<br>kontrolleras i september. |  |
+|  |  | Uppnått | Vi skottar en konstgräsplan i<br>centrum, en i söder och en i norr<br>senast två arbetsdagar efter<br>avslutat snöfall. |  |
+|  |  | Uppnått | Grusplaner skottas senast två<br>arbetsdagar efter avslutat snöfall<br>från och med 1 februari. |  |
+|  |  | Uppnått | Vi informerar om avvikelser på<br>gräs- och konstgräsplaner på<br>vår webbplats. Ledare som<br>prenumerar på vår sms-tjänst får<br>information om avvikelser i<br>mobilen. |  |
+|  |  | Delvis<br>uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>arbetsdagar med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. | I samband med ny organisation<br>av driftenheten inom ramen för<br>Teknikens hus-projektet uppkom<br>ett tempotapp där ordinarie<br>insatstider tillfälligt blev<br>förskjutna. |
+| Inomhushallar |  | Delvis<br>uppnått | Vi kontrollerar utrustningen<br>idrottshallar och gymnastiksalar<br>varannan vecka. Kontrollen<br>gäller den utrustning som Fritid<br>& Folkhälsas abonnenter<br>använder i lokalen. Det vill säga<br>våra kvälls- och helgabonnenter. | I samband med ny organisation<br>av driftenheten inom ramen för<br>Teknikens hus-projektet uppkom<br>ett tempotapp där ordinarie<br>insatstider tillfälligt blev<br>förskjutna. |
+|  |  | Delvis<br>uppnått | Inrapporterat fel på teknik och<br>utrustning ska åtgärdas inom två<br>arbetsdagar med återkoppling till<br>anmälaren. Dröjer det längre<br>anger vi när vi kan åtgärda<br>problemet. | I samband med ny organisation<br>av driftenheten inom ramen för<br>Teknikens hus-projektet uppkom<br>ett tempotapp där ordinarie<br>insatstider tillfälligt blev<br>förskjutna. |
+| Motionsspår |  | Uppnått | Vi kontrollerar belysning senast<br>1 november och gör<br>underhållskontroller i december<br>och februari. |  |
+|  |  | Delvis<br>uppnått | Inrapporterade fel på<br>belysningen ska åtgärdas inom<br>två arbetsdagar med<br>återkoppling till anmälaren.<br>Dröjer det längre anger vi när vi<br>kan åtgärda problemet. | I samband med ny organisation<br>av driftenheten inom ramen för<br>Teknikens hus-projektet uppkom<br>ett tempotapp där ordinarie<br>insatstider tillfälligt blev<br>förskjutna. |
+|  |  | Uppnått | Vi kontrollerar ytbeläggning<br>senast 1 november och gör<br>underhållskontroller i december<br>och februari. |  |
+| Simhallar |  | Uppnått | All personal som bevakar i<br>simhallen har utbildning i<br>livräddning och hjärt- och<br>lungräddning. De har även<br>grundläggande kunskaper i<br>sjukvård. |  |
+|  |  | Uppnått | Vattentemperaturen i Fjärås<br>simhall är 28 grader. |  |
+|  |  | Uppnått | I Kungsbacka simhall är det 28<br>grader i stora bassängen, 31<br>grader undervisningsbassängen.<br>På onsdagar är det 34 grader i<br>undervisningsbassängen. |  |
+|  |  | Uppnått | Vi kontrollerar vattenkvaliteten i<br>Fjärås simhall två gånger per<br>dag. |  |
+|  |  | Uppnått | Vi kontrollerar vattenkvaliteten i<br>Kungsbacka simhall två gånger<br>per dag. |  |
+| Större<br>arrangemang |  | Uppnått | När det är verksamhet i våra<br>anläggningar ska det finnas<br>personal från Fritid & Folkhälsa i<br>tjänst. |  |
+|  |  | Uppnått | Vi bjuder in till en förberedande<br>träff sex månader innan<br>arrangemanget. Vi genomför ett<br>avstämningsmöte senast en<br>månad innan arrangemanget<br>ska genomföras. |  |
+|  |  | Uppnått | Flaggor, flaggstänger och<br>fundament ingår vid SM, NM,<br>EM, VM eller tävling med annat<br>nationellt intresse. |  |
+|  |  | Uppnått | Vi kan lämna ett<br>arrangemangsbidrag om det är<br>ett VM, EM, NM, SM eller annan<br>nationell status. Bidraget<br>regleras av vilken status<br>arrangemanget har. |  |
+| Bibliotek |  | Uppnått | På bibliotekens webbplats,<br>http://bibliotek.kungsbacka.se,<br>kan du ta del av bibliotekens<br>nättjänster 24 timmar per dygn. |  |
+|  |  | Uppnått | Beskrivning<br>Du som har någon form av<br>funktionsvariation ska, i<br>möjligaste mån, ha tillgång till<br>anpassade medier. |  |
+|  |  | Uppnått | Du har möjlighet att påverka<br>utbudet av böcker och andra<br>medier genom att lämna<br>inköpsförslag. |  |
+|  |  | Uppnått | Biblioteken i Kungsbacka ska<br>stimulera barn och unga till<br>läsning. |  |
+| Turism<br>Kungsbacka |  | Uppnått | Turism Kungsbacka ska<br>tillhandahålla muntlig, skriftlig<br>och digital turistinformation på<br>svenska och engelska om<br>Kungsbacka och närområdet<br>samt muntlig övergripande<br>turistinformation om övriga<br>Sverige. |  |
+|  |  | Uppnått | Turism Kungsbacka ska erbjuda<br>möjlighet att kunna boka<br>evenemangsbiljetter, logi och<br>arrangerade upplevelser. |  |
+|  |  | Uppnått | Äskhults by ska vara öppen maj<br>- oktober och erbjuda ett<br>skiftande programutbud.<br>Kulturlandskapet ska kunna<br>besökas även när Äskhults by<br>inte är öppen. |  |
+|  |  | Uppnått | Naturum Fjärås Bräcka ska<br>erbjuda ett skiftande<br>programutbud året runt och<br>verksamheten ska präglas av ett<br>ekologiskt tankesätt. |  |
+| Scen & Konst |  | Uppnått | Det generella utbudet i<br>Filmhuset Facklan ska under<br>året kompletteras med filmer för<br>skolbio, Bio Kontrast-<br>föreställningar och<br>dagbiovisningar. |  |
+|  |  | Uppnått | Kungsbacka Konsthall ska<br>erbjuda minst sex utställningar<br>per år, med tyngdpunkt på<br>samtidskonst. Minst en visning<br>ska genomföras i anslutning till<br>varje utställning. |  |
+|  |  | Uppnått | Utvecklare konst ska<br>tillhandahålla fackkunskaper vid<br>upphandling av konstnärlig<br>utsmyckning till kommunala<br>byggnader. |  |
+|  |  | Uppnått | Vi ska under året presentera<br>minst en uppsättning av vardera<br>genrerna musik, musikdramatik,<br>drama, dans och ett verk med<br>amatörteater. |  |
+| Kulturmiljövård |  | Uppnått | Kommunantikvarien<br>tillhandahåller kostnadsfri<br>antikvarisk rådgivning för<br>byggnadsvård i samband med<br>renovering och ombyggnad av<br>äldre hus i kommunen. |  |
 
 <!-- sida 28 -->
 
@@ -1414,125 +1369,71 @@ och uppföljning genomförs inom varje verksamhet.
 
 6.3 Resursmått
 
-Namn       Utfall 2015 Utfall 2016 Utfall 2017 Utfall 2018 Utfall 2019
-
-Andel deltid      13%    21%        21%       20,2%      26,5%
-Andel heltid      87%    79%        79%       79,8%      73,5%
-Andel kvinnor
-22%    26%        24%       22,8%      26,6%
-som har deltid
-Andel kvinnor
-78%    74%        76%       77,2%      73,4%
-som har heltid
-Andel män
-6%     14%        16%       16,5%      26,3%
-som har deltid
-Andel män
-94%    86%        84%       83,5%      73,7%
-som har heltid
-Anställda
-48%    58%        61%       61,18%     70,4%
-andel kvinnor
-Anställda
-52%    42%        39%       38,8%      29,6%
-andel män
-Anställda
-genomsnittlig
-92,9%      91,2%
-sysselsättning
-sgrad
-Antal
-medarbetare                                    14,8       16,2
-per chef
-Antal
-medarbetare                                    20,2       23,3
-per enhetschef
-Antal
-månadsanställ     104    230        240        237        223
-da totalt
-Medarbetare
-24%    19%        18%       18,6%      20,2%
-30 - 39 år
-Medarbetare
-17%    26%        25%       24,1%      25,1%
-40 - 49 år
 25
+
+[Tabell 34-35-1](handlingar.tabeller/34-35-1.csv)
+
+|  |  | Namn | Utfall 2015 | Utfall 2016 | Utfall 2017 | Utfall 2018 | Utfall 2019 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Andel deltid | 13% | 21% | 21% | 20,2% | 26,5% |
+|  |  | Andel heltid | 87% | 79% | 79% | 79,8% | 73,5% |
+|  |  | Andel kvinnor<br>som har deltid | 22% | 26% | 24% | 22,8% | 26,6% |
+|  |  | Andel kvinnor<br>som har heltid | 78% | 74% | 76% | 77,2% | 73,4% |
+|  |  | Andel män<br>som har deltid | 6% | 14% | 16% | 16,5% | 26,3% |
+|  |  | Andel män<br>som har heltid | 94% | 86% | 84% | 83,5% | 73,7% |
+|  |  | Anställda<br>andel kvinnor | 48% | 58% | 61% | 61,18% | 70,4% |
+|  |  | Anställda<br>andel män | 52% | 42% | 39% | 38,8% | 29,6% |
+|  |  | Anställda<br>genomsnittlig<br>sysselsättning<br>sgrad |  |  |  | 92,9% | 91,2% |
+|  |  | Antal<br>medarbetare<br>per chef |  |  |  | 14,8 | 16,2 |
+|  |  | Antal<br>medarbetare<br>per enhetschef |  |  |  | 20,2 | 23,3 |
+|  |  | Antal<br>månadsanställ<br>da totalt | 104 | 230 | 240 | 237 | 223 |
+|  |  | Medarbetare<br>30 - 39 år | 24% | 19% | 18% | 18,6% | 20,2% |
+|  |  | Medarbetare<br>40 - 49 år | 17% | 26% | 25% | 24,1% | 25,1% |
+|  |  | Medarbetare<br>50 - 59 år | 34% | 32% | 34% | 32,07% | 27,8% |
+|  |  | Medarbetare<br>60 år och äldre | 13% | 15% | 15% | 16,9% | 14,4% |
+|  |  | Medarbetare<br>yngre än 30 år | 13% | 7% | 8% | 8,4% | 12,6% |
+|  |  | Medelålder | 48 | 47 | 48 | 48 | 46 |
+|  |  | Pensionsavgå<br>ngar |  | 2 | 4 |  | 6 |
+|  |  | Önskad<br>sysselsättning<br>sgrad |  |  |  |  | 93% |
 
 <!-- sida 35 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2019
 
-Namn       Utfall 2015 Utfall 2016 Utfall 2017 Utfall 2018 Utfall 2019
-Medarbetare
-34%    32%        34%       32,07%     27,8%
-50 - 59 år
-Medarbetare
-13%    15%        15%       16,9%      14,4%
-60 år och äldre
-Medarbetare
-13%     7%        8%         8,4%      12,6%
-yngre än 30 år
-Medelålder         48     47         48        48         46
-Pensionsavgå
-2          4                     6
-ngar
-Önskad
-sysselsättning                                            93%
-sgrad
 6.4 Effektmått
-Utfall  Utfall  Utfall  Utfall
-Namn
-
-```osaker-tabell
-                                2016    2017    2018    2019
-Frisknärvaro                     62%    62%     59,7%  62,6%
-Frisknärvaro Kvinnor             59%    57,4%   52,5%  60,1%
-Frisknärvaro Män                 65%    68,8%   70,5%  66,7%
-Korttidssjukfrånvaro                             2%     2%
-
-Korttidssjukfrånvaro Kvinnor                    2,3%    2,2%
-Korttidssjukfrånvaro Män                        1,52%   1,8%
-
-Långtidssjukfrånvaro                    2,5%    2,2%    2,8%
-Långtidssjukfrånvaro Kvinnor            3,4%    2,6%    3,7%
-Långtidssjukfrånvaro Män                1,3%    1,2%    1%
-
-Personalomsättning              8,9%    7,4%    10,5%   9,9%
-Sjukfrånvaro Kvinnor            6,6%    5,4%    5,1%    5,8%
-
-Sjukfrånvaro Män                3,3%    3,03%   2,75%   2,7%
-Sjukfrånvaro Totalt             5,2%    4,4%    4,2%    4,8%
-```
-
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-29,7%  37,4%
-eller mer
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-30,1%  41,3%
-eller mer Kvinnor
-Sjukfrånvaro, andel av sjukfrånvaro 60 dagar
-28,4%  19,6%
-eller mer Män
-Sjukfrånvaro, anställda i åldrarna 29 år eller
-2,4%
-yngre
-Sjukfrånvaro, anställda i åldrarna 30-49 år             4,3%
 
 26
+
+[Tabell 35-36-1](handlingar.tabeller/35-36-1.csv)
+
+|  | Namn | Utfall<br>2016 | Utfall<br>2017 | Utfall<br>2018 | Utfall<br>2019 |
+| --- | --- | --- | --- | --- | --- |
+|  | Frisknärvaro | 62% | 62% | 59,7% | 62,6% |
+|  | Frisknärvaro Kvinnor | 59% | 57,4% | 52,5% | 60,1% |
+|  | Frisknärvaro Män | 65% | 68,8% | 70,5% | 66,7% |
+|  | Korttidssjukfrånvaro |  |  | 2% | 2% |
+|  | Korttidssjukfrånvaro Kvinnor |  |  | 2,3% | 2,2% |
+|  | Korttidssjukfrånvaro Män |  |  | 1,52% | 1,8% |
+|  | Långtidssjukfrånvaro |  | 2,5% | 2,2% | 2,8% |
+|  | Långtidssjukfrånvaro Kvinnor |  | 3,4% | 2,6% | 3,7% |
+|  | Långtidssjukfrånvaro Män |  | 1,3% | 1,2% | 1% |
+|  | Personalomsättning | 8,9% | 7,4% | 10,5% | 9,9% |
+|  | Sjukfrånvaro Kvinnor | 6,6% | 5,4% | 5,1% | 5,8% |
+|  | Sjukfrånvaro Män | 3,3% | 3,03% | 2,75% | 2,7% |
+|  | Sjukfrånvaro Totalt | 5,2% | 4,4% | 4,2% | 4,8% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer |  |  | 29,7% | 37,4% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Kvinnor |  |  | 30,1% | 41,3% |
+|  | Sjukfrånvaro, andel av sjukfrånvaro 60 dagar<br>eller mer Män |  |  | 28,4% | 19,6% |
+|  | Sjukfrånvaro, anställda i åldrarna 29 år eller<br>yngre |  |  |  | 2,4% |
+|  | Sjukfrånvaro, anställda i åldrarna 30-49 år |  |  |  | 4,3% |
+|  | Sjukfrånvaro, anställda i åldrarna 50 år eller<br>äldre |  |  |  | 5,8% |
+|  | Sjukfrånvarodagar i snitt per anställd |  |  | 15,2 | 19,2 |
 
 <!-- sida 36 -->
 
 Nämnden för Kultur & Fritid                      Kungsbacka kommun
 Nämndens årsredovisning 2019
-
-Utfall  Utfall  Utfall  Utfall
-Namn
-2016    2017    2018    2019
-Sjukfrånvaro, anställda i åldrarna 50 år eller
-5,8%
-äldre
-Sjukfrånvarodagar i snitt per anställd          15,2    19,2
 
 27
 
@@ -1936,14 +1837,14 @@ Uppföljningsrapport Intern kontroll 2019 7
 
 [Tabell 49-1](handlingar.tabeller/49-1.csv)
 
-| Kategorier | Risknumm<br>Risker Till plan<br>er |
-| --- | --- |
-| Personal | 1 Kommunövergripande risk: Bristande efterlevnad av Ja<br>semesterlagen |
-| Ekonomi | 2 Kommunövergripande risk: Manuella betalningar Ja |
-|  | 3 Kommunövergripande risk: Redovisning av Ja<br>representation |
-| Informationssäkerh<br>et och<br>administration | 4 Kommunövergripande risk: Styrning och förvaltning Ja<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. |
-|  | 5 Kommunövergripande risk: Ja<br>Dokumenthanteringsplaner är inte fullständiga och<br>följs inte för all verksamhet. |
-|  | 6 Kommunövergripande risk: Kommunens policy för Ja<br>kommunikation följs inte i verksamhetens alla delar. |
+| Kategorier |  | Risknumm<br>er | Risker | Till plan |
+| --- | --- | --- | --- | --- |
+| Personal |  | 1 | Kommunövergripande risk: Bristande efterlevnad av<br>semesterlagen | Ja |
+| Ekonomi |  | 2 | Kommunövergripande risk: Manuella betalningar | Ja |
+|  |  | 3 | Kommunövergripande risk: Redovisning av<br>representation | Ja |
+| Informationssäkerh<br>et och<br>administration |  | 4 | Kommunövergripande risk: Styrning och förvaltning<br>av verksamhetssystem och digitala verktyg följer inte<br>systemförvaltarmodellen. | Ja |
+|  |  | 5 | Kommunövergripande risk:<br>Dokumenthanteringsplaner är inte fullständiga och<br>följs inte för all verksamhet. | Ja |
+|  |  | 6 | Kommunövergripande risk: Kommunens policy för<br>kommunikation följs inte i verksamhetens alla delar. | Ja |
 
 <!-- sida 50 -->
 
@@ -1953,17 +1854,17 @@ Uppföljningsrapport Intern kontroll 2019 8
 
 [Tabell 50-52-1](handlingar.tabeller/50-52-1.csv)
 
-| Kategori<br>er | R<br>i<br>Anlednin<br>s<br>g till att<br>Risknum Vad kan Sannolik Konsekv k Riskvärd<br>Risker Till plan risk ej<br>mer gå fel? het ens f e<br>tas till<br>ä<br>plan<br>r<br>g |
-| --- | --- |
-| Personal | Risk för<br>lagbrott<br>Personal<br>tar/får<br>3.<br>Kommun inte ut<br>Kännbar<br>övergrip erforderli<br>(uppfattas<br>ande g<br>som<br>risk: semester<br>besvärand<br>Bristand Risk för Risk ska<br>1 3. Vanligt e för Ja<br>e störningar åtgärdas<br>berörda<br>efterlevn i<br>intressent<br>ad av bemannin<br>er och<br>semesterl gsplaneri<br>kommune<br>agen ng<br>n)<br>Risk för<br>stora<br>utbetalnin<br>gar |
-| Ekonomi | Bristande<br>kontroll<br>av<br>3.<br>följsamhe<br>Kännbar<br>t till<br>Kommun (uppfattas<br>reglerna<br>övergrip som<br>för attest,<br>ande besvärand<br>delegatio 4. Mycket Risk ska<br>2 risk: e för Ja<br>n, vanligt åtgärdas<br>Manuella berörda<br>kontering<br>betalning intressent<br>och jäv<br>ar er och<br>som leder<br>kommune<br>till<br>n)<br>felaktiga<br>betalning<br>ar. |
-|  | 3.<br>Kännbar<br>Kommun Förtroend<br>(uppfattas<br>övergrip eskada<br>som<br>ande för<br>besvärand<br>risk: kommune Risk ska<br>3 3. Vanligt e för Ja<br>Redovisn n. åtgärdas<br>berörda<br>ing av Felaktiga<br>intressent<br>represent ersättning<br>er och<br>ation ar.<br>kommune<br>n) |
-|  | Kontant<br>Risk för<br>hanterin<br>svinn.<br>g |
-|  | Förlust<br>av, intäkt<br>er, stöld,<br>felaktig<br>redovisni<br>Brister i ng,<br>kontanth lagbrott<br>anteringe (kassaregi<br>n ster),<br>arbetsmilj<br>örisker<br>(rån,<br>förskingri<br>ng) |
-| Informat<br>ionssäker<br>het och<br>administ<br>ration | Risk att<br>enskilda<br>individers<br>Brister i personup<br>hanterin pgifter<br>gen av används<br>personup felaktigt,<br>pgifter risk att<br>individers<br>integritet<br>kränks |
-|  | Kommun<br>övergrip<br>ande<br>risk:<br>3.<br>Styrning<br>Kännbar<br>och Osäker<br>(uppfattas<br>förvaltni drift.<br>som<br>ng av Obligator<br>besvärand<br>verksam iska roller Risk ska<br>4 3. Vanligt e för Ja<br>hetssyste utses ej, åtgärdas<br>berörda<br>m och ansvar<br>intressent<br>digitala kan ej<br>er och<br>verktyg följas<br>kommune<br>följer<br>n)<br>inte<br>systemfö<br>rvaltarm<br>odellen. |
-|  | Kommun<br>Lagstiftni<br>övergrip<br>ng följs<br>ande<br>inte,<br>risk: 4.<br>svårighet<br>Dokume Allvarlig/<br>er att<br>nthanteri stor<br>hantera<br>ngsplane inverkan Risk ska<br>5 och 3. Vanligt Ja<br>r är inte (så stor åtgärdas<br>säkerställ<br>fullständi att den<br>a<br>ga och inte får<br>kommune<br>följs inte inträffa)<br>ns<br>för all<br>informati<br>verksam<br>on.<br>het. |
-|  | Vi följer<br>inte lagen<br>(förvaltni<br>Kommun<br>ngslagen,<br>övergrip<br>lagen om<br>ande 3.<br>offentligh<br>risk: Kännbar<br>et och<br>Kommun (uppfattas<br>sekretess<br>ens som<br>m fl.).<br>policy för besvärand<br>Bristande 2. Mindre Risk bör<br>6 kommun e för Ja<br>service vanligt åtgärdas<br>ikation berörda<br>till<br>följs inte intressent<br>medborga<br>i er och<br>re och<br>verksam kommune<br>andra<br>hetens n)<br>intressent<br>alla<br>er. Även<br>delar.<br>internt<br>samarbete<br>. |
+| Kategori<br>er | Risknum<br>mer | Risker | Vad kan<br>gå fel? | Sannolik<br>het | Konsekv<br>ens | R<br>i<br>s<br>k<br>f<br>ä<br>r<br>g | Riskvärd<br>e | Till plan | Anlednin<br>g till att<br>risk ej<br>tas till<br>plan |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Personal | 1 | Kommun<br>övergrip<br>ande<br>risk:<br>Bristand<br>e<br>efterlevn<br>ad av<br>semesterl<br>agen | Risk för<br>lagbrott<br>Personal<br>tar/får<br>inte ut<br>erforderli<br>g<br>semester<br>Risk för<br>störningar<br>i<br>bemannin<br>gsplaneri<br>ng<br>Risk för<br>stora<br>utbetalnin<br>gar | 3. Vanligt | 3.<br>Kännbar<br>(uppfattas<br>som<br>besvärand<br>e för<br>berörda<br>intressent<br>er och<br>kommune<br>n) |  | Risk ska<br>åtgärdas | Ja |  |
+| Ekonomi | 2 | Kommun<br>övergrip<br>ande<br>risk:<br>Manuella<br>betalning<br>ar | Bristande<br>kontroll<br>av<br>följsamhe<br>t till<br>reglerna<br>för attest,<br>delegatio<br>n,<br>kontering<br>och jäv<br>som leder<br>till<br>felaktiga<br>betalning<br>ar. | 4. Mycket<br>vanligt | 3.<br>Kännbar<br>(uppfattas<br>som<br>besvärand<br>e för<br>berörda<br>intressent<br>er och<br>kommune<br>n) |  | Risk ska<br>åtgärdas | Ja |  |
+|  | 3 | Kommun<br>övergrip<br>ande<br>risk:<br>Redovisn<br>ing av<br>represent<br>ation | Förtroend<br>eskada<br>för<br>kommune<br>n.<br>Felaktiga<br>ersättning<br>ar. | 3. Vanligt | 3.<br>Kännbar<br>(uppfattas<br>som<br>besvärand<br>e för<br>berörda<br>intressent<br>er och<br>kommune<br>n) |  | Risk ska<br>åtgärdas | Ja |  |
+|  |  | Kontant<br>hanterin<br>g | Risk för<br>svinn. |  |  |  |  |  |  |
+|  |  | Brister i<br>kontanth<br>anteringe<br>n | Förlust<br>av, intäkt<br>er, stöld,<br>felaktig<br>redovisni<br>ng,<br>lagbrott<br>(kassaregi<br>ster),<br>arbetsmilj<br>örisker<br>(rån,<br>förskingri<br>ng) |  |  |  |  |  |  |
+| Informat<br>ionssäker<br>het och<br>administ<br>ration |  | Brister i<br>hanterin<br>gen av<br>personup<br>pgifter | Risk att<br>enskilda<br>individers<br>personup<br>pgifter<br>används<br>felaktigt,<br>risk att<br>individers<br>integritet<br>kränks |  |  |  |  |  |  |
+|  | 4 | Kommun<br>övergrip<br>ande<br>risk:<br>Styrning<br>och<br>förvaltni<br>ng av<br>verksam<br>hetssyste<br>m och<br>digitala<br>verktyg<br>följer<br>inte<br>systemfö<br>rvaltarm<br>odellen. | Osäker<br>drift.<br>Obligator<br>iska roller<br>utses ej,<br>ansvar<br>kan ej<br>följas | 3. Vanligt | 3.<br>Kännbar<br>(uppfattas<br>som<br>besvärand<br>e för<br>berörda<br>intressent<br>er och<br>kommune<br>n) |  | Risk ska<br>åtgärdas | Ja |  |
+|  | 5 | Kommun<br>övergrip<br>ande<br>risk:<br>Dokume<br>nthanteri<br>ngsplane<br>r är inte<br>fullständi<br>ga och<br>följs inte<br>för all<br>verksam<br>het. | Lagstiftni<br>ng följs<br>inte,<br>svårighet<br>er att<br>hantera<br>och<br>säkerställ<br>a<br>kommune<br>ns<br>informati<br>on. | 3. Vanligt | 4.<br>Allvarlig/<br>stor<br>inverkan<br>(så stor<br>att den<br>inte får<br>inträffa) |  | Risk ska<br>åtgärdas | Ja |  |
+|  | 6 | Kommun<br>övergrip<br>ande<br>risk:<br>Kommun<br>ens<br>policy för<br>kommun<br>ikation<br>följs inte<br>i<br>verksam<br>hetens<br>alla<br>delar. | Vi följer<br>inte lagen<br>(förvaltni<br>ngslagen,<br>lagen om<br>offentligh<br>et och<br>sekretess<br>m fl.).<br>Bristande<br>service<br>till<br>medborga<br>re och<br>andra<br>intressent<br>er. Även<br>internt<br>samarbete<br>. | 2. Mindre<br>vanligt | 3.<br>Kännbar<br>(uppfattas<br>som<br>besvärand<br>e för<br>berörda<br>intressent<br>er och<br>kommune<br>n) |  | Risk bör<br>åtgärdas | Ja |  |
 
 <!-- sida 51 -->
 
@@ -2138,28 +2039,28 @@ Uppföljningsrapport Intern kontroll 2019 14
 
 [Tabell 56-57-1](handlingar.tabeller/56-57-1.csv)
 
-| Område | Frågor Svar, Antal 2019 |
-| --- | --- |
-| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |
-|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |
-|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |
-|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |
-| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |
-|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |
-|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |
-|  | Ledningen informeras om fel och brister i<br>organisationen |
-|  | Ansvar och befogenheter är tydliggjorda |
-|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |
-|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |
-| Riskanalys | Riskanalysen kommuniceras med nämnden |
-|  | Riskanalysen är underlag för åtgärder och<br>granskningar |
-| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |
-|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |
-| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |
-|  | Återkoppling sker till förvaltningsledningen |
-|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |
-| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |
-|  | Vi har en fungerande introduktion av nya<br>medarbetare |
+| Område | Frågor | Svar, Antal 2019 |
+| --- | --- | --- |
+| Uppdrag och mål | Är mål, styrdokument, rutiner etc. kända i<br>organisationen |  |
+|  | Vi har system/rutiner för att bevaka att<br>verksamheterna drivs enligt relevanta lagar,<br>förordningar och föreskrifter |  |
+|  | Vi har system/rutiner för hur vi följer upp mål<br>och styrdokument som beskrivs i nämndens<br>uppdrag, och i förekommande fall<br>förfrågningsunderlag/avtal |  |
+|  | Vi har en uppföljningsplan som beskriver hur,<br>av vem och när de olika kraven ska följas upp. |  |
+| Kontrollmiljö | Det finns en kännedom i organisationen om<br>vad intern kontroll innebär |  |
+|  | Det finns en tydlig struktur och<br>ansvarsfördelning för arbetet med intern<br>kontroll på förvaltningen |  |
+|  | Ledningsgruppen tar ansvar för fungerande<br>kontrollmiljö |  |
+|  | Ledningen informeras om fel och brister i<br>organisationen |  |
+|  | Ansvar och befogenheter är tydliggjorda |  |
+|  | Vi har analyserat var risker för ekonomiska<br>oegentligheter ligger i ersättningssystem och<br>betalningsrutiner |  |
+|  | Vi har system/rutiner för att motverka<br>oegentligheter (bl a mutor och jäv) |  |
+| Riskanalys | Riskanalysen kommuniceras med nämnden |  |
+|  | Riskanalysen är underlag för åtgärder och<br>granskningar |  |
+| Kontrollaktiviteter | Kontrollaktiviteter i verksamhetens processer<br>är dokumenterade (ingår i rutiner) och kända |  |
+|  | Vi har system/rutiner för att förslag,<br>synpunkter och klagomål sammanställs och<br>leder till förbättringar |  |
+| Uppföljning | Åtgärder vidtas vid konstaterade avvikelser |  |
+|  | Återkoppling sker till förvaltningsledningen |  |
+|  | Vi återkopplar resultat av uppföljning till<br>politiskt ansvariga |  |
+| Information/kommunikati<br>on | Introduktion av nya chefer sker enligt<br>programmet "Kungsbackaledaren bas" |  |
+|  | Vi har en fungerande introduktion av nya<br>medarbetare |  |
 
 <!-- sida 57 -->
 
@@ -2433,7 +2334,6 @@ Beslutet skickas till
 
 Tölö hembygdsgille
 
-lad
 NANG /
 Ulrika Granfors
 
@@ -2802,8 +2702,8 @@ Kulturföreningen Vingen
 
 Föreningsservice
 
-W (ÅS / VT /
 Ulrika Granfors
+
 Förvaltningschef
 
 os 1 (1)
@@ -2970,8 +2870,6 @@ Beslutet skickas till
 
 Tölö hembygdsgille
 Föreningsservice
-
-NEN \$ | a
 
 Ulrika Granfors
 Förvaltningschef
@@ -4837,7 +4735,6 @@ och vidtar de åtgärder som behövs för att öka säkerheten
 \- Att berörda nämnder ges i uppdrag att utreda möjligheten att låta skolorna vara låsta, även under
 pågående verksamhet
 
-AV
 ASEAS BERN BEATS Sv
 Carita Boulwén (SD) AT -
 
@@ -5013,7 +4910,6 @@ och vidtar de åtgärder som behövs för att öka säkerheten
 \- Att berörda nämnder ges i uppdrag att utreda möjligheten att låta skolorna vara låsta, även under
 pågående verksamhet
 
-AV
 ASEAS BERN BEATS Sv
 Carita Boulwén (SD) AT -
 
