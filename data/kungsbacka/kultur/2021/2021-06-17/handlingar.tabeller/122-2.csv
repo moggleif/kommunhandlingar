@@ -1,6 +1,9 @@
 "PAH, Kreosotföreningar, klorfenoler mg/kg",,,,,,
-provpunkt,Prov 1,Prov 2,Prov 3,Prov 5,Prov 10,FA1
+provpunkt,Prov 1,Prov 2,Prov 3,Prov 5,Prov 10,
+,,,,,,FA1
+,,,,,,
 material,trä,trä,trä,trä,tjärpapp,
+,,,,,,
 PAH,,,,,,
 "PAH, summa L",15,2800,"0,5",--,34,1 000
 "PAH, summa M",2900,33000,10,--,12000,1000

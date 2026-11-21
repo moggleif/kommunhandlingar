@@ -1,6 +1,9 @@
 Metaller mg/kg,,,,,,,,,
-provpunkt,Prov 4,Prov 5,Prov 6,Prov 7,Prov 8,Prov 9,FA1,KM2,MKM3
+provpunkt,Prov 4,Prov 5,Prov 6,Prov 7,Prov 8,Prov 9,,,
+,,,,,,,FA1,KM2,MKM3
+,,,,,,,,,
 material,trä,trä,betong,trä+färg,trä,trä,,,
+,,,,,,,,,
 Arsenik (As),"<0,50","<0,50",--,"<0,50","<0,50","1,08",1000,10,25
 Barium (Ba),"0,93","25,1",--,2360,384,"27,4",50 000,200,300
 Kadmium (Cd),"1,17","0,13",--,"20,9","4,6","1,01",1000,"0,8",12

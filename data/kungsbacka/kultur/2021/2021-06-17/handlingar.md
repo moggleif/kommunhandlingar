@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20220320043824id_/https://www.kungsbacka.
 sha256: 09a6fe7fcb560147523afe62e64fdae93cd1485474c19cb808dacd23b1b103d3
 bytes: 86745346
 sidor: 779
-hamtad: 2026-11-16T00:41:54+00:00
-konverterad: 2026-11-16T00:44:51+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T00:47:31+00:00
+konverterad: 2026-11-21T00:59:32+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ej-konverterad, ok, ocr, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ocr, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ej-konverterad, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ocr, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, ok, tabell-osaker, ej-konverterad, ocr, ok, ok, ok]
 tal_obekraftade: [10, 64, 65, 69, 70, 71, 81, 138, 139, 144, 145, 187, 199, 233, 234, 236, 241, 252, 303, 306, 308, 313, 315, 316, 317, 320, 327, 334, 342, 346, 348, 355, 361, 382, 383, 384, 385, 386, 387, 388, 389, 390, 391, 392, 393, 426, 427, 441, 507, 509, 514, 519, 520, 524, 527, 528, 546, 547, 548, 551, 552, 553, 554, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 668, 685, 686, 690, 702, 735, 737, 738, 739, 740, 741, 743, 744, 750, 775, 776]
-figurer: [17, 49, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 95, 96, 102, 103, 110, 111, 112, 113, 118, 119, 149, 154, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 244, 246, 248, 249, 251, 252, 255, 256, 257, 258, 259, 261, 262, 263, 264, 265, 266, 267, 270, 271, 272, 273, 274, 276, 278, 279, 280, 282, 284, 287, 288, 291, 292, 293, 294, 295, 296, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 329, 332, 334, 335, 336, 337, 338, 339, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 354, 355, 356, 357, 358, 359, 360, 361, 378, 379, 394, 397, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 437, 438, 439, 440, 441, 442, 443, 447, 449, 451, 452, 454, 456, 457, 458, 459, 461, 463, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 483, 485, 486, 488, 489, 493, 495, 500, 501, 503, 504, 506, 507, 508, 509, 511, 518, 519, 520, 521, 523, 524, 526, 527, 528, 529, 541, 542, 543, 544, 545, 546, 547, 548, 555, 557, 559, 567, 569, 572, 575, 576, 577, 579, 580, 581, 582, 583, 587, 588, 589, 590, 591, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 607, 608, 609, 611, 613, 614, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 633, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 679, 680, 681, 683, 685, 686, 687, 693, 694, 696, 698, 700, 701, 702, 703, 704, 705, 706, 707, 709, 710, 711, 713, 714, 716, 717, 730, 731, 732, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 750, 751, 753, 754, 755, 756, 757, 758, 759, 760, 775, 776]
+figurer: [17, 49, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 83, 85, 86, 87, 88, 89, 90, 91, 92, 95, 96, 102, 103, 110, 111, 112, 113, 118, 119, 149, 154, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 244, 246, 248, 249, 251, 252, 255, 256, 257, 258, 259, 261, 262, 263, 264, 265, 266, 267, 270, 271, 272, 273, 274, 276, 278, 279, 280, 282, 284, 287, 288, 291, 292, 293, 294, 295, 296, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309, 310, 311, 312, 313, 329, 332, 334, 335, 336, 337, 338, 339, 342, 343, 344, 345, 346, 347, 348, 349, 350, 351, 352, 354, 355, 356, 357, 358, 359, 360, 361, 378, 379, 394, 397, 400, 401, 402, 403, 404, 405, 406, 407, 408, 409, 410, 411, 412, 437, 438, 439, 440, 441, 442, 443, 447, 449, 451, 452, 454, 456, 457, 458, 459, 461, 463, 471, 473, 474, 475, 476, 477, 478, 479, 480, 488, 493, 495, 500, 501, 503, 504, 506, 507, 508, 509, 511, 518, 519, 520, 521, 523, 524, 526, 527, 528, 529, 541, 542, 543, 544, 545, 546, 547, 548, 555, 557, 559, 567, 569, 572, 575, 576, 577, 579, 580, 581, 582, 583, 587, 588, 589, 590, 591, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 607, 608, 609, 611, 613, 614, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 633, 636, 637, 638, 639, 640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653, 654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667, 679, 680, 681, 683, 685, 686, 687, 693, 694, 696, 698, 700, 701, 702, 703, 704, 705, 706, 707, 709, 710, 711, 713, 714, 716, 717, 730, 731, 732, 735, 736, 737, 738, 739, 740, 741, 742, 743, 744, 745, 750, 751, 753, 754, 755, 756, 757, 758, 759, 760, 775, 776]
 tolkade: []
 granskad: null
 ---
@@ -4445,8 +4445,11 @@ provtagningsdatum 2020-09-22
 
 | Metaller mg/kg |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| provpunkt | Prov 4 | Prov 5 | Prov 6 | Prov 7 | Prov 8 | Prov 9 | FA1 | KM2 | MKM3 |
+| provpunkt | Prov 4 | Prov 5 | Prov 6 | Prov 7 | Prov 8 | Prov 9 |  |  |  |
+|  |  |  |  |  |  |  | FA1 | KM2 | MKM3 |
+|  |  |  |  |  |  |  |  |  |  |
 | material | trä | trä | betong | trä+färg | trä | trä |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
 | Arsenik (As) | <0,50 | <0,50 | -- | <0,50 | <0,50 | 1,08 | 1000 | 10 | 25 |
 | Barium (Ba) | 0,93 | 25,1 | -- | 2360 | 384 | 27,4 | 50 000 | 200 | 300 |
 | Kadmium (Cd) | 1,17 | 0,13 | -- | 20,9 | 4,6 | 1,01 | 1000 | 0,8 | 12 |
@@ -4464,8 +4467,11 @@ provtagningsdatum 2020-09-22
 
 | PAH, Kreosotföreningar, klorfenoler mg/kg |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-| provpunkt | Prov 1 | Prov 2 | Prov 3 | Prov 5 | Prov 10 | FA1 |
+| provpunkt | Prov 1 | Prov 2 | Prov 3 | Prov 5 | Prov 10 |  |
+|  |  |  |  |  |  | FA1 |
+|  |  |  |  |  |  |  |
 | material | trä | trä | trä | trä | tjärpapp |  |
+|  |  |  |  |  |  |  |
 | PAH |  |  |  |  |  |  |
 | PAH, summa L | 15 | 2800 | 0,5 | -- | 34 | 1 000 |
 | PAH, summa M | 2900 | 33000 | 10 | -- | 12000 | 1000 |
@@ -18431,23 +18437,15 @@ Vårt Narkotikapolitiska center är en bred och viktig samhällsaktör.
 Vi fångar upp nya samarbeten för att vidga vårt arbete och engagemang i
 alkohol- och narkotikafrågor.
 
-•
-
-•
-
-•
-•
-
-•
-
-•
-•
-
-•
-
 NBV Väst, Verksamhetsberättelse                           12(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
+
+[Tabell 472-1](handlingar.tabeller/472-1.csv)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | •<br>•<br>•<br>•<br>•<br>•<br>•<br>• |  |
 
 <!-- sida 473 -->
 
@@ -18518,11 +18516,12 @@ Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
 [Tabell 481-482-1](handlingar.tabeller/481-482-1.csv)
 
-|  |  |
-| --- | --- |
-|  | •<br>•<br>•<br>• |
-|  | •<br>•<br>•<br>• |
-|  |  |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  | •<br>•<br>•<br>• |  |
+|  |  | •<br>•<br>•<br>• |  |
+|  |  |  |  |
 
 <!-- sida 482 -->
 
@@ -18532,19 +18531,19 @@ Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
 <!-- sida 483 -->
 
-•
-
-•
-
-•
-
-•
-
-•
-
 NBV Väst, Verksamhetsberättelse                           23(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
+
+[Tabell 483-485-1](handlingar.tabeller/483-485-1.csv)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | •<br>•<br>•<br>•<br>• |  |
+|  |  | •<br>•<br>• |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | •<br>•<br>• |  |
 
 <!-- sida 484 -->
 
@@ -18552,19 +18551,7 @@ NBV Väst, Verksamhetsberättelse                           24(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
-[Tabell 484-1](handlingar.tabeller/484-1.csv)
-
-|  | •<br>•<br>• |
-| --- | --- |
-|  |  |
-|  |  |
-
 <!-- sida 485 -->
-
-•
-
-•
-•
 
 NBV Väst, Verksamhetsberättelse                           25(46)
 
@@ -18581,26 +18568,23 @@ områden och i glesbygd. Vi skapar mötesplatser och ger möjligheter för alla 
 genom folkbildning skapa den förändring de önskar både i sitt eget liv och för
 samhället i stort. Vi möter och möjliggör nya gruppers behov av att organisera sig.
 
-•
-•
-
-•
-
 NBV Väst, Verksamhetsberättelse                           26(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
+
+[Tabell 486-487-1](handlingar.tabeller/486-487-1.csv)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | •<br>•<br>• |  |
+|  |  | •<br>•<br>• |  |
+|  |  | •<br>•<br>•<br>•<br>•<br>• |  |
 
 <!-- sida 487 -->
 
 NBV Väst, Verksamhetsberättelse                           27(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
-
-[Tabell 487-1](handlingar.tabeller/487-1.csv)
-
-|  | •<br>•<br>• |
-| --- | --- |
-|  | •<br>•<br>•<br>•<br>•<br>• |
 
 <!-- sida 488 -->
 
@@ -18610,28 +18594,24 @@ Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
 <!-- sida 489 -->
 
-•
-
-•
-
-•
-
 NBV Väst, Verksamhetsberättelse                           29(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
+
+[Tabell 489-490-1](handlingar.tabeller/489-490-1.csv)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | •<br>•<br>• |  |
+| •<br>•<br>•<br>• |  |  |  |
+|  |  | •<br>•<br>•<br>• |  |
+|  |  |  |  |
 
 <!-- sida 490 -->
 
 NBV Väst, Verksamhetsberättelse                           30(46)
 
 Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
-
-[Tabell 490-1](handlingar.tabeller/490-1.csv)
-
-| •<br>•<br>•<br>• |  |
-| --- | --- |
-|  | •<br>•<br>•<br>• |
-|  |  |
 
 <!-- sida 491 -->
 
@@ -18641,14 +18621,15 @@ Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
 [Tabell 491-492-1](handlingar.tabeller/491-492-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  | •<br>•<br>• |
-|  | •<br>• |
-|  | •<br>•<br>•<br>•<br>• |
-|  | •<br>• |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | •<br>•<br>• |  |
+|  |  | •<br>• |  |
+|  |  | •<br>•<br>•<br>•<br>• |  |
+|  |  | •<br>• |  |
 
 <!-- sida 492 -->
 
@@ -18679,11 +18660,12 @@ Transaktion 09222115557444310015 Signerat JG, ARB, AG, AL, GF, JB, SH, SÖ, TJ
 
 [Tabell 494-1](handlingar.tabeller/494-1.csv)
 
-|  |  |
-| --- | --- |
-|  |  |
-|  |  |
-|  | •<br>•<br>• |
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  | •<br>•<br>• |  |
 
 <!-- sida 495 -->
 
