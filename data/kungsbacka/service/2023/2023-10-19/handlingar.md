@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20250803141758id_/https://kungsbacka.se/d
 sha256: d94403ca8f861e6e2176b81013ee46e939221c7d9bbf3620e5017d06bb6bda30
 bytes: 4596735
 sidor: 64
-hamtad: 2026-11-17T00:59:52+00:00
-konverterad: 2026-11-17T01:00:04+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T12:43:52+00:00
+konverterad: 2026-11-21T12:46:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -242,8 +242,9 @@ NY   Renovering, Ögärdets förskola                X
 
 [Tabell 8-1](handlingar.tabeller/8-1.csv)
 
-| Löpnr<br>NY | Beskrivning<br>Renovering, Toråsskolan, Hus Röd | Kategorisera | Plan<br>2025<br>X | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 |
+| Löpnr | Beskrivning | Kategorisera | Plan<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| NY | Renovering, Toråsskolan, Hus Röd |  | X |  |  |  |  |
 | NY | Renovering, Toråsskolan, Hus Blå |  |  |  |  | X |  |
 | NY | Alekärret. Ersättning av<br>stallbyggnad samt gödselplatta |  | X |  |  |  |  |
 | NY | Renovering, Kapareskolan, Hus B |  |  |  | X |  |  |
@@ -1406,16 +1407,16 @@ risk ej tas till plan
 
 [Tabell 38-1](handlingar.tabeller/38-1.csv)
 
-| Kategorier | Till<br>Risker Sannolikhet Konsekvens<br>plan |
-| --- | --- |
-| Personal | 1 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Brister vid som besvärande för<br>referenstagning berörda intressenter och<br>kommunen) |
-| Verksamhet | 2 Risk för dataintrång i 4. Mycket vanligt 4. Allvarlig/stor inverkan Ja<br>kommunens nätverk och (så stor att den inte får<br>system. inträffa) |
-|  | 3 Risk för att barn, elever 3. Vanligt 4. Allvarlig/stor inverkan Ja<br>och omsorgstagare med (så stor att den inte får<br>behov av specialkost får inträffa)<br>fel mat. |
-|  | 4 Kommunövergripande 2. Mindre vanligt 4. Allvarlig/stor inverkan Ja<br>risk - Risk för korruption (så stor att den inte får<br>inträffa) |
-|  | 5 Kommunövergripande 3. Vanligt 3. Kännbar (uppfattas Ja<br>risk: Förvaltningarnas som besvärande för<br>arbete med att utveckla berörda intressenter och<br>krisledningsorgnisatione kommunen)<br>n i egen verksamhet |
-|  | 6 Risk för att 4. Mycket vanligt 2. Lindrig (uppfattas som Ja<br>medarbetare använder liten av berörda<br>IT-utrustning för privat intressenter och<br>bruk. kommunen) |
-|  | 7 Risk att vi brister i 3. Vanligt 3. Kännbar (uppfattas Ja<br>följsamhet av som besvärande för<br>upphandlat avtal. berörda intressenter och<br>kommunen) |
-|  | 8 Risk för bristande 3. Vanligt 3. Kännbar (uppfattas Ja<br>uppfyllnad av som besvärande för<br>kommunens berörda intressenter och<br>hållbarhetskrav för kommunen)<br>inköp. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Till<br>plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | 1 Kommunövergripande<br>risk: Brister vid<br>referenstagning | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+| Verksamhet |  | 2 Risk för dataintrång i<br>kommunens nätverk och<br>system. | 4. Mycket vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 3 Risk för att barn, elever<br>och omsorgstagare med<br>behov av specialkost får<br>fel mat. | 3. Vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 4 Kommunövergripande<br>risk - Risk för korruption | 2. Mindre vanligt | 4. Allvarlig/stor inverkan<br>(så stor att den inte får<br>inträffa) | Ja |
+|  |  | 5 Kommunövergripande<br>risk: Förvaltningarnas<br>arbete med att utveckla<br>krisledningsorgnisatione<br>n i egen verksamhet | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 6 Risk för att<br>medarbetare använder<br>IT-utrustning för privat<br>bruk. | 4. Mycket vanligt | 2. Lindrig (uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Ja |
+|  |  | 7 Risk att vi brister i<br>följsamhet av<br>upphandlat avtal. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
+|  |  | 8 Risk för bristande<br>uppfyllnad av<br>kommunens<br>hållbarhetskrav för<br>inköp. | 3. Vanligt | 3. Kännbar (uppfattas<br>som besvärande för<br>berörda intressenter och<br>kommunen) | Ja |
 
 <!-- sida 39 -->
 
@@ -1426,20 +1427,20 @@ Intern kontrollplan 2024
 
 [Tabell 39-40-1](handlingar.tabeller/39-40-1.csv)
 
-| Kategorier | Anledning till att<br>Risker Sannolikhet Konsekvens<br>risk ej tas till plan |
-| --- | --- |
-| Personal | Kommunövergrip 3. Kännbar Risken bedöms<br>ande risk: (uppfattas som inte vara relevant<br>Resurs- och besvärande för att granska på<br>2. Mindre vanligt<br>kompetensbrist berörda Service.<br>intressenter och<br>kommunen) |
-|  | Kommunövergrip 3. Kännbar Risken bedöms<br>ande risk: (uppfattas som inte vara relevant<br>Övertidsersättnin besvärande för att granska på<br>2. Mindre vanligt<br>g betalas ut på fel berörda Service.<br>grund intressenter och<br>kommunen) |
-| Ekonomi | Kommunövergrip 3. Kännbar Risken tas<br>ande risk: (uppfattas som omhand genom<br>Grundläggande besvärande för rutiner och riktad<br>2. Mindre vanligt<br>redovisning berörda information och<br>kvalitetsbrister intressenter och utbildning.<br>kommunen) |
-|  | Kommunövergrip Risken tas<br>ande risk: omhand bl a<br>3. Kännbar<br>Resurser till genom arbetet<br>(uppfattas som<br>innovation, med<br>besvärande för<br>digitalisering och 2. Mindre vanligt kommunbudgetens<br>berörda<br>omställning till direktiv innovation<br>intressenter och<br>nya arbetssätt för och omställning till<br>kommunen)<br>framtidens nya arbetssätt.<br>välfärd. |
-| Informationssäke<br>rhet,<br>administration,<br>inköp... | Kommunövergrip 3. Kännbar Risken tas<br>ande risk: Inköp (uppfattas som omhand genom<br>(granskning besvärande för förebyggande<br>2. Mindre vanligt<br>begränsas till berörda arbete främst<br>belopp över intressenter och information och<br>100.000:-) kommunen) utbildning. |
-|  | Kommunövergrip Risken tas<br>3. Kännbar<br>ande risk: omhand genom<br>(uppfattas som<br>informationssäke rutiner för<br>besvärande för<br>rhet; skydd av 2. Mindre vanligt informationsklassni<br>berörda<br>information mot ng av<br>intressenter och<br>obehörig tillgång verksamhetssyste<br>kommunen)<br>m. |
-| Verksamhet | Risk för att vi inte Risken tas<br>lever upp till 4. Allvarlig/stor omhand genom en<br>1. Osannolik<br>ökade lagkrav inverkan (så stor planering för att<br>(risken är praktiskt<br>kopplat till att den inte får omhänderta ökade<br>taget obefintlig)<br>klimatdeklaration inträffa) lagkrav 2025 och<br>en. 2027. |
-|  | Risk för att Risken tas<br>främmande omhand genom<br>3. Kännbar<br>ämnen eller arbete med<br>(uppfattas som<br>föremål läggs i förebyggande<br>besvärande för<br>maten vid 2. Mindre vanligt rutiner.<br>berörda<br>tillagning eller<br>intressenter och<br>servering på<br>kommunen)<br>kommunens<br>skolor. |
-|  | Risk att 3. Kännbar Risken tas<br>innehållet (uppfattas som omhand genom<br>förändras i besvärande för rutiner och<br>2. Mindre vanligt<br>upphandlade berörda kontroller av<br>matvaror. intressenter och förpackningar.<br>kommunen) |
-|  | Risk att Risken tas<br>obehöriga omhand genom<br>3. Kännbar<br>personer finns i låsta dörrar och<br>(uppfattas som<br>våra lokaler som inträde med<br>besvärande för<br>tar del av eller 2. Mindre vanligt passerkort, och att<br>berörda<br>förstör vi möter upp och<br>intressenter och<br>information, eller släpper ut<br>kommunen)<br>på annat sätt besökare.<br>saboterar |
-|  | Risk att vi inte Risken tas<br>hanterar omhand genom ett<br>personuppgifter 3. Kännbar pågående<br>enligt GDPR vad (uppfattas som kommunövergripa<br>gäller bild och besvärande för nde arbete med<br>2. Mindre vanligt<br>film. berörda syfte att förenkla<br>intressenter och och säkerställa att<br>kommunen) vi efterlever GDPR<br>vad gäller bild och<br>film. |
-|  | Risk att vi inte Risken tas<br>omhändertar omhand genom en<br>personuppgifter tydligare<br>2. Lindrig<br>på rätt sätt gemensam<br>(uppfattas som<br>eftersom planering och<br>3. Vanligt liten av berörda<br>förvaltningen har prioritering.<br>intressenter och<br>stora behov av<br>kommunen)<br>stöd inom<br>dataskyddsarbete<br>t. |
+| Kategorier |  | Risker | Sannolikhet | Konsekvens | Anledning till att<br>risk ej tas till plan |
+| --- | --- | --- | --- | --- | --- |
+| Personal |  | Kommunövergrip<br>ande risk:<br>Resurs- och<br>kompetensbrist | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken bedöms<br>inte vara relevant<br>att granska på<br>Service. |
+|  |  | Kommunövergrip<br>ande risk:<br>Övertidsersättnin<br>g betalas ut på fel<br>grund | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken bedöms<br>inte vara relevant<br>att granska på<br>Service. |
+| Ekonomi |  | Kommunövergrip<br>ande risk:<br>Grundläggande<br>redovisning<br>kvalitetsbrister | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>rutiner och riktad<br>information och<br>utbildning. |
+|  |  | Kommunövergrip<br>ande risk:<br>Resurser till<br>innovation,<br>digitalisering och<br>omställning till<br>nya arbetssätt för<br>framtidens<br>välfärd. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand bl a<br>genom arbetet<br>med<br>kommunbudgetens<br>direktiv innovation<br>och omställning till<br>nya arbetssätt. |
+| Informationssäke<br>rhet,<br>administration,<br>inköp... |  | Kommunövergrip<br>ande risk: Inköp<br>(granskning<br>begränsas till<br>belopp över<br>100.000:-) | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>förebyggande<br>arbete främst<br>information och<br>utbildning. |
+|  |  | Kommunövergrip<br>ande risk:<br>informationssäke<br>rhet; skydd av<br>information mot<br>obehörig tillgång | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>rutiner för<br>informationsklassni<br>ng av<br>verksamhetssyste<br>m. |
+| Verksamhet |  | Risk för att vi inte<br>lever upp till<br>ökade lagkrav<br>kopplat till<br>klimatdeklaration<br>en. | 1. Osannolik<br>(risken är praktiskt<br>taget obefintlig) | 4. Allvarlig/stor<br>inverkan (så stor<br>att den inte får<br>inträffa) | Risken tas<br>omhand genom en<br>planering för att<br>omhänderta ökade<br>lagkrav 2025 och<br>2027. |
+|  |  | Risk för att<br>främmande<br>ämnen eller<br>föremål läggs i<br>maten vid<br>tillagning eller<br>servering på<br>kommunens<br>skolor. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>arbete med<br>förebyggande<br>rutiner. |
+|  |  | Risk att<br>innehållet<br>förändras i<br>upphandlade<br>matvaror. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>rutiner och<br>kontroller av<br>förpackningar. |
+|  |  | Risk att<br>obehöriga<br>personer finns i<br>våra lokaler som<br>tar del av eller<br>förstör<br>information, eller<br>på annat sätt<br>saboterar | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom<br>låsta dörrar och<br>inträde med<br>passerkort, och att<br>vi möter upp och<br>släpper ut<br>besökare. |
+|  |  | Risk att vi inte<br>hanterar<br>personuppgifter<br>enligt GDPR vad<br>gäller bild och<br>film. | 2. Mindre vanligt | 3. Kännbar<br>(uppfattas som<br>besvärande för<br>berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom ett<br>pågående<br>kommunövergripa<br>nde arbete med<br>syfte att förenkla<br>och säkerställa att<br>vi efterlever GDPR<br>vad gäller bild och<br>film. |
+|  |  | Risk att vi inte<br>omhändertar<br>personuppgifter<br>på rätt sätt<br>eftersom<br>förvaltningen har<br>stora behov av<br>stöd inom<br>dataskyddsarbete<br>t. | 3. Vanligt | 2. Lindrig<br>(uppfattas som<br>liten av berörda<br>intressenter och<br>kommunen) | Risken tas<br>omhand genom en<br>tydligare<br>gemensam<br>planering och<br>prioritering. |
 
 <!-- sida 40 -->
 

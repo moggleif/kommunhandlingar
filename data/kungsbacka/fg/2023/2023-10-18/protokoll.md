@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240914181858id_/https://kungsbacka.se/d
 sha256: e0471c55bca44e9c72c8427a6d219e6b33c97b90d6d4ee0fa04181648e51d7bd
 bytes: 370868
 sidor: 22
-hamtad: 2026-10-20T08:52:04+00:00
-konverterad: 2026-10-20T08:52:22+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T12:53:14+00:00
+konverterad: 2026-11-21T12:53:20+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: full
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -516,21 +516,27 @@ Expedierat/bestyrkt
 
 [Tabell 13-1](protokoll.tabeller/13-1.csv)
 
-| Förskola | Grundbelopp<br>kommunal<br>2023 | Grundbelopp<br>kommunal<br>2024 | Grundbelopp<br>fristående<br>2023 | Grundbelopp<br>fristående<br>2024 |
+|  | Grundbelopp | Grundbelopp | Grundbelopp | Grundbelopp |
 | --- | --- | --- | --- | --- |
+|  | kommunal | kommunal | fristående | fristående |
+| Förskola | 2023 | 2024 | 2023 | 2024 |
 | Förskola 1-2 år | 119 624 | 119 660 | 169 016 | 171 499 |
 | Förskola 3-5 år | 95 206 | 95 236 | 139 380 | 142 158 |
 | Allmän förskola 3-5 år |  |  | 136 553 | 138 594 |
 | Pedagogisk omsorg 1-2 år | 156 913 | 162 573 | 153 559 | 159 356 |
 | Pedagogisk omsorg 3-5 år | 128 014 | 132 938 | 125 752 | 131 522 |
-| Fritidshem | Grundbelopp<br>kommunal<br>2023 | Grundbelopp<br>kommunal<br>2024 | Grundbelopp<br>fristående<br>2023 | Grundbelopp<br>fristående<br>2024 |
+|  | Grundbelopp | Grundbelopp | Grundbelopp | Grundbelopp |
+|  | kommunal | kommunal | fristående | fristående |
+| Fritidshem | 2023 | 2024 | 2023 | 2024 |
 | Pedagogisk omsorg fritids åk F-3 | 61 317 | 64 506 | 55 775 | 58 505 |
 | Pedagogisk omsorg fritids åk 4-6 | 30 658 | 32 253 | 23 739 | 24 832 |
 | Fritidshem åk F-3 | 40 139 | 41 147 | 55 466 | 58 543 |
 | Fritidshem åk 4-6 | 19 126 | 19 809 | 28 238 | 30 554 |
 | Fritidshem integrerad särskoleelev åk<br>F-6 nivå 2 | 118 013 | 120 977 | 142 288 | 147 088 |
 | Fritidshem integrerad särskoleelev åk<br>F-6 nivå 1 | 152 034 | 155 864 | 179 973 | 185 520 |
-| Förskoleklass, Grundskola och<br>Särskola | Grundbelopp<br>kommunal<br>2023 | Grundbelopp<br>kommunal<br>2024 | Grundbelopp<br>fristående<br>2023 | Grundbelopp<br>fristående<br>2024 |
+|  | Grundbelopp | Grundbelopp | Grundbelopp | Grundbelopp |
+| Förskoleklass, Grundskola och | kommunal | kommunal | fristående | fristående |
+| Särskola | 2023 | 2024 | 2023 | 2024 |
 | Förskoleklass | 43 363 | 44 455 | 77 242 | 83 910 |
 | Grundskola åk 1-3 | 52 830 | 53 509 | 87 723 | 94 778 |
 | Grundskola åk 4-6 | 62 428 | 63 230 | 98 068 | 105 246 |

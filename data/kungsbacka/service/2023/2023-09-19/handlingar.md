@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20241202225233id_/https://kungsbacka.se/d
 sha256: 9d00050cb7055259416232cd15bd2f7e70fa28dbc0e9a869ba4903a238cf9f20
 bytes: 19269180
 sidor: 175
-hamtad: 2026-11-17T01:14:07+00:00
-konverterad: 2026-11-17T01:17:35+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T13:19:35+00:00
+konverterad: 2026-11-21T13:23:33+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ocr, ej-konverterad, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ocr, ok]
 tal_obekraftade: [41, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 174]
 figurer: []
 tolkade: []
@@ -265,29 +265,11 @@ skolverksamhet och som bidrar till rörelse på kvällstid.
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2023
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Bäst att leva, Kungsbackas placering i
-ranking av Sveriges kommuner enligt 5   3
-Tidningen Fokus.
-Antal påbörjade bostäder       234     216     848
-
-Antal färdigställda bostäder   248     430     363
-Anmälda brott per invånare (antal/100 000
-5 075   5 321   5 691
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-88%            90%
-helhetssyn
-Brukarbedömning särskilt boende
-81%            74%
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-76%            88%
-totalt - helhetssyn
 2.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
+
 Fokusområden
 \- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 \- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
@@ -315,6 +297,18 @@ upphandling av nya skafferiavtal, för att lyfta hur stora summor som läggs på
 viktigt det är att följa kommunens hållbarhetsambitioner även vid dessa köp.
 
 6
+
+[Tabell 8-1](handlingar.tabeller/8-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i<br>ranking av Sveriges kommuner enligt<br>Tidningen Fokus. | 5 | 3 |  |  |  |
+| Antal påbörjade bostäder | 234 | 216 | 848 |  |  |
+| Antal färdigställda bostäder | 248 | 430 | 363 |  |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 075 | 5 321 | 5 691 |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 88% |  | 90% |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 81% |  | 74% |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 76% |  | 88% |  |  |
 
 <!-- sida 9 -->
 
@@ -369,77 +363,34 @@ och minska på antalet utskrifter.
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2023
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % 85%  88%    88%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 88% 93% 90%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 70%  77%    72%
-\- Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % 84%  92%    93%
-\- Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-70%     68%    65%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-80%     88%    85%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 100
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 100 72,1 84,5
-Startvärde 100, målvärde 2030 är 60.
-Energiförbrukning i kommuns lokaler per
-153     157     147            144
-kvadratmeter
-Utsläpp till luft av växthusgaser totalt, ton
-CO2-ekv/inv (Kolada)
-Miljöbilar, andel av totalt antal bilar i det
-geografiska området, (Kolada)
-Slutanvändning av el inom det geografiska
-området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-1,93    1,79                   1,7
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
 8
+
+[Tabell 10-11-1](handlingar.tabeller/10-11-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 85% | 88% | 88% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 88% | 93% | 90% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 70% | 77% | 72% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i %<br>- Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 84% | 92% | 93% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 70% | 68% | 65% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 80% | 88% | 85% |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 100 |  |  |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 100 | 72,1 | 84,5 |  |  |
+| Energiförbrukning i kommuns lokaler per<br>kvadratmeter | 153 | 157 | 147 |  | 144 |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) |  |  |  |  |  |
+| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) |  |  |  |  |  |
+| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) |  |  |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. | 1,93 | 1,79 |  |  | 1,7 |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) |  |  |  |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) |  |  |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |  |  |
 
 <!-- sida 11 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2023
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada)
-
-Vattendrag med god ekologisk status, andel
-(Kolada)
 
 2.3 Bästa företagsklimatet i Västsverige
 
@@ -504,29 +455,18 @@ För att underlätta för byggentreprenörer att lämna anbud har nyhetsbrev om 
 skickats till entreprenörer. Nyhetsbrev är ett komplement till den årliga entreprenörsfrukosten som
 Lokalförsörjning anordnar en gång per år.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 66 66     70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,3     3,5     3,4
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 27 384
-Andel av sysselsatt dagbefolkning inom
-5,1%
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
-
 10
+
+[Tabell 12-1](handlingar.tabeller/12-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 66 | 66 | 70 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,3 | 3,5 | 3,4 |  |  |
+| Sysselsatt dagbefolkning, antal | 27 384 |  |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1% |  |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
 
 <!-- sida 13 -->
 
@@ -569,37 +509,22 @@ därmed förmåga att ta hand om sitt liv. Under våren genomfördes en använda
 som tagit del av rådgivningstjänster. Svaren visade att 98 % upplevde mötet mycket positivt och att man
 var väldigt nöjd med rådgivningsenheterna.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-246     239     237
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,8% 2,6% 1,7%
-SCB)
-
 11
+
+[Tabell 13-14-1](handlingar.tabeller/13-14-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 246 | 239 | 237 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,8% | 2,6% | 1,7% |  |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. |  | 7,7 |  |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 14 | 14,3 | 14,5 |  |  |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 82% | 67% | 69% |  |  |
 
 <!-- sida 14 -->
 
 Nämnden för Service                              Kungsbacka kommun
 Delårsrapport augusti 2023
-
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,7
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 14 14,3 14,5
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 82% 67% 69%
-försörjningsstöd (%)
 
 2.5 Ett medskapande samhälle och öppen attityd
 Beslutats av
@@ -703,18 +628,14 @@ Delårsrapport augusti 2023
 att det finns personer med chefskompetens i våra verksamheter, och vi har redan sett att det har skapat
 trygghet för medarbetare och avlastning för chefskollegor i de verksamheter som har provat.
 
-Indikatorer                   Utfall  Utfall  Utfall  Utfall Målvärde
-2020   2021    2022    2023    2023
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 78 78
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 91 103
-nyckeltal med skala 1–20.
-
 14
+
+[Tabell 16-1](handlingar.tabeller/16-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 78 | 78 |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 91 | 103 |  |  |  |
 
 <!-- sida 17 -->
 

@@ -12,14 +12,14 @@ kalla_url: https://web.archive.org/web/20250809220154id_/https://kungsbacka.se/d
 sha256: 6da2580c43c63072f3c3578a498b021daeb7ad948d3bee11d82d46502d7f8b3b
 bytes: 6625773
 sidor: 140
-hamtad: 2026-11-15T22:51:46+00:00
-konverterad: 2026-11-15T22:52:05+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+hamtad: 2026-11-21T13:25:36+00:00
+konverterad: 2026-11-21T13:28:21+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
 kvalitet: text-utan-tabeller
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
-figurer: [82, 87, 88]
+figurer: [87, 88]
 tolkade: []
 granskad: null
 ---
@@ -1686,29 +1686,10 @@ samman med upplevd trygghet.
 
 Verksamheterna arbetar vidare med resultatet från brukarundersökningarna som grund i sitt förbättringsarbete.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Bäst att leva, Kungsbackas placering i
-ranking av Sveriges kommuner enligt 5   3
-Tidningen Fokus.
-Antal påbörjade bostäder       234     216
-Antal färdigställda bostäder   248     430
-
-Anmälda brott per invånare (antal/100 000
-5 075  5 321
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-88%
-helhetssyn
-Brukarbedömning särskilt boende
-81%
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-76%             88%
-totalt - helhetssyn
 2.1.1 Vi har nöjda och delaktiga brukare/klienter som får rätt insats på rätt nivå
 Beslutats av
 Nämnd
+
 Nämndens formulering
 Nämnden för Individ & Familjeomsorg ska ha en långsiktigt hållbar ekonomi och en verksamhet med god
 kvalitet. Utifrån ett evidensbaserat förhållningssätt ska den enskildes erfarenheter och kunskap beaktas
@@ -1718,6 +1699,7 @@ processer, ett respektfullt bemötande och den enskildes delaktighet bidrar till
 får rätt insats på rätt nivå.
 Fokusområde
 Kungsbacka växer med en långsiktigt hållbar ekonomi
+
 Nämndens bedömning
 Vi har inte nått målet men är på rätt väg
 
@@ -1735,6 +1717,18 @@ att brukare ska vara delaktiga i framtagande av sin genomförandeplan. Samtliga 
 
 6
 
+[Tabell 55-1](handlingar.tabeller/55-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i<br>ranking av Sveriges kommuner enligt<br>Tidningen Fokus. | 5 | 3 |  |  |  |
+| Antal påbörjade bostäder | 234 | 216 |  |  |  |
+| Antal färdigställda bostäder | 248 | 430 |  |  |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 075 | 5 321 |  |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 88% |  |  |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 81% |  |  |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 76% |  | 88% |  |  |
+
 <!-- sida 56 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -1751,21 +1745,8 @@ där brukarna gett input kring utvecklingsområdet kommunikation. Daglig verksam
 metodmaterial för att regelbundet prata om trivsel, trygghet, förtroende för personal, inflytande, kommunikation
 etc.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Antal icke verkställda beslut som rapporteras
-till IVO (Inspektionen för vård och omsorg), 34 51 32
-kvartal 3
-Andel avslag och delavslag av totala antalet
-15%    8,07%   8,71%
-ansökningar till förvaltningen
-Andel av avslag och delavslag som
-2,5%    39%     22%
-överklagas
-Andel av nämndens överprövade beslut som
-1       6       6
-ändras i högre instans
 2.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
 
@@ -1793,6 +1774,15 @@ placeringen kan bli kortare genom lösningar på hemmaplan.
 
 7
 
+[Tabell 56-1](handlingar.tabeller/56-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal icke verkställda beslut som rapporteras<br>till IVO (Inspektionen för vård och omsorg),<br>kvartal 3 | 34 | 51 | 32 |  |  |
+| Andel avslag och delavslag av totala antalet<br>ansökningar till förvaltningen | 15% | 8,07% | 8,71% |  |  |
+| Andel av avslag och delavslag som<br>överklagas | 2,5% | 39% | 22% |  |  |
+| Andel av nämndens överprövade beslut som<br>ändras i högre instans | 1 | 6 | 6 |  |  |
+
 <!-- sida 57 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -1806,76 +1796,34 @@ plats en till två gånger i veckan och instruerar dessa träningspass. Intresse
 det cirka sex till sju personer varje vecka som tränar regelbundet. Flera deltagare har uttryckt att dom uppskattar
 att det är en deltagare från Regnbågen som leder träffarna.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 85% 88%    88%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 88% 93% 90%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 70% 77%    72%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 84% 92%    93%
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-70%     68%     65%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-80%     88%     85%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 100
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 100
-Startvärde 100, målvärde 2030 är 60.
-Energiförbrukning i kommuns lokaler per
-kvadratmeter
-Utsläpp till luft av växthusgaser totalt, ton
-CO2-ekv/inv (Kolada)
-
 8
+
+[Tabell 57-58-1](handlingar.tabeller/57-58-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 85% | 88% | 88% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 88% | 93% | 90% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 70% | 77% | 72% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 84% | 92% | 93% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 70% | 68% | 65% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 80% | 88% | 85% |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 100 |  |  |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 100 |  |  |  |  |
+| Energiförbrukning i kommuns lokaler per<br>kvadratmeter |  |  |  |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) |  |  |  |  |  |
+| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) |  |  |  |  |  |
+| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) |  |  |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. |  |  |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) |  |  |  |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) |  |  |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |  |  |
 
 <!-- sida 58 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Delårsrapport Augusti 2023
-
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Miljöbilar, andel av totalt antal bilar i det
-geografiska området, (Kolada)
-Slutanvändning av el inom det geografiska
-området, MWh/inv (Kolada)
-
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada)
-Vattendrag med god ekologisk status, andel
-(Kolada)
 
 2.3 Bästa företagsklimatet i Västsverige
 
@@ -1921,27 +1869,6 @@ kunnat höja sin anställningsgrad. Samarbete har etablerats med 10 nya företag
 som nu erbjuder sysselsättningsplatser. En ökning har skett med fler möjligheter till praktik och utflyttade
 sysselsättningsplatser även inom kommunens egna verksamheter.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 66 66
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,3     3,5
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 27 384
-Andel av sysselsatt dagbefolkning inom
-5,1%
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
 2.4 I Kungsbacka utvecklas vi hela livet
 
 Beslutats av
@@ -1964,6 +1891,17 @@ Detta är en trend nationellt och något som återspeglas i Kungsbacka kommun. I
 inom sysselsättning SoL har noterat en ökning av unga vuxna (18-30 år) de senaste åren. 2020 fick 11 unga
 
 10
+
+[Tabell 59-1](handlingar.tabeller/59-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 66 | 66 |  |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,3 | 3,5 |  |  |  |
+| Sysselsatt dagbefolkning, antal | 27 384 |  |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1% |  |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
 
 <!-- sida 60 -->
 
@@ -1995,29 +1933,17 @@ grad att det behövs utökade insatser eller en fullskalig VOSS. Exempel kan var
 personen kan behöva stöttning och hjälp att etablera rätt kontakter, såsom skuldrådgivning eller ekonomiskt
 bistånd. Det kan även handla om att etablera kontakt med vården.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-246     239     237
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,8% 2,6%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,7
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 14 14,3 14,5
-max 20.
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 82% 67%
-försörjningsstöd (%)
-
 11
+
+[Tabell 60-1](handlingar.tabeller/60-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 246 | 239 | 237 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,8% | 2,6% |  |  |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. |  | 7,7 |  |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 14 | 14,3 | 14,5 |  |  |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 82% | 67% |  |  |  |
 
 <!-- sida 61 -->
 
@@ -2209,17 +2135,6 @@ ansvar och tillit till medarbetare.
 och medarbetare har efter utbildningen arbetat på olika sätt för att skapa en djupare förankring i vardagen av
 utvecklande medarbetarskap.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 78
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 91 103
-nyckeltal med skala 1–20.
-
 2.5.1 Individ & Familjeomsorg erbjuder kvinnor och män, flickor och pojkar insatser på lika
 villkor
 
@@ -2249,6 +2164,13 @@ HBTQI-kompetent i bemötande och kommunikation.
 
 15
 
+[Tabell 64-1](handlingar.tabeller/64-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 78 |  |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 91 | 103 |  |  |  |
+
 <!-- sida 65 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
@@ -2270,46 +2192,24 @@ pojkars sexualitet och sexualvanor. Verksamheten har ställt frågan till Göteb
 socionomstudenter kan göra en motsvarande studie för LVU-domar i Kungsbacka. Som tidigast kan det bli
 praktiskt möjligt för studenter att genomföra under höstterminen 2023.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-
-```osaker-tabell
-                               2020    2021   2022    2023    2023
-Andel utredningar, kvinnor/flickor 40% 47%     47%    50%
-Andel utredningar, män/pojkar  60%     53%     53%    50%
-```
-
-Andel avslag och delavslag av totala antalet
-10%     31%     33%    50%
-ansökningar till förvaltningen, kvinnor/flickor
-Andel avslag och delavslag av totala antalet
-18%     64%     58%    50%
-ansökningar till förvaltningen, män/pojkar
-Utredningstid i antal dagar från ansökan till
-80     78      72
-beslut om LSS-insats, kvinnor/flickor
-Utredningstid i antal dagar från ansökan till
-78     77      76
-beslut om LSS-insats, män/pojkar
-Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning inom barn 100 104 100
-och ungdom 0-20 år, flickor
-Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning inom barn 91 96 95
-och ungdom 0-20 år, pojkar
-Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning för vuxna 45 35 25
-med missbruksproblem 21+, kvinnor
-Utredningstid i antal dagar från påbörjad
-utredning till avslutad utredning för vuxna 30 33 36
-med missbruksproblem 21+, män
-Brukarbedömning individ- och familjeomsorg-
-83%             88%
-helhetssyn, andel (%), kvinnor
-Brukarbedömning individ- och familjeomsorg-
-86%             60%
-helhetssyn, andel (%), män
-
 16
+
+[Tabell 65-1](handlingar.tabeller/65-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andel utredningar, kvinnor/flickor | 40% | 47% | 47% | 50% |  |
+| Andel utredningar, män/pojkar | 60% | 53% | 53% | 50% |  |
+| Andel avslag och delavslag av totala antalet<br>ansökningar till förvaltningen, kvinnor/flickor | 10% | 31% | 33% | 50% |  |
+| Andel avslag och delavslag av totala antalet<br>ansökningar till förvaltningen, män/pojkar | 18% | 64% | 58% | 50% |  |
+| Utredningstid i antal dagar från ansökan till<br>beslut om LSS-insats, kvinnor/flickor | 80 | 78 | 72 |  |  |
+| Utredningstid i antal dagar från ansökan till<br>beslut om LSS-insats, män/pojkar | 78 | 77 | 76 |  |  |
+| Utredningstid i antal dagar från påbörjad<br>utredning till avslutad utredning inom barn<br>och ungdom 0-20 år, flickor | 100 | 104 | 100 |  |  |
+| Utredningstid i antal dagar från påbörjad<br>utredning till avslutad utredning inom barn<br>och ungdom 0-20 år, pojkar | 91 | 96 | 95 |  |  |
+| Utredningstid i antal dagar från påbörjad<br>utredning till avslutad utredning för vuxna<br>med missbruksproblem 21+, kvinnor | 45 | 35 | 25 |  |  |
+| Utredningstid i antal dagar från påbörjad<br>utredning till avslutad utredning för vuxna<br>med missbruksproblem 21+, män | 30 | 33 | 36 |  |  |
+| Brukarbedömning individ- och familjeomsorg-<br>helhetssyn, andel (%), kvinnor | 83% |  | 88% |  |  |
+| Brukarbedömning individ- och familjeomsorg-<br>helhetssyn, andel (%), män | 86% |  | 60% |  |  |
 
 <!-- sida 66 -->
 
@@ -2380,14 +2280,14 @@ Kommentar på nämndmål
 Se redovisning under kapitel 2.5 ”Ett medskapande samhälle och en öppen attityd”, fokusområde
 Digitaliseringen gör att vi hittar smartare tjänster och effektivare arbetssätt.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Antal idéer och digitala initiativ som gått
-26
-vidare till utvärdering
-Antal införda digitala initiativ                       7
-
 18
+
+[Tabell 67-1](handlingar.tabeller/67-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Antal idéer och digitala initiativ som gått<br>vidare till utvärdering |  |  |  | 26 |  |
+| Antal införda digitala initiativ |  |  |  | 7 |  |
 
 <!-- sida 68 -->
 
@@ -2557,17 +2457,17 @@ korta antal dygn i institutionsvård. Personalomsättning har försenat arbetet 
 
 [Tabell 71-72-1](handlingar.tabeller/71-72-1.csv)
 
-|  | Namn | Utfall 2019 | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Kostnad barn<br>och<br>ungdomsvård,<br>kr/inv |  | 1 766 | 1 655 | 1 683 |  |
-|  | Kostnad<br>missbruksvård<br>vuxna kr/inv | 346 | 389 | 485 | 472 |  |
-|  | Nettokostnadsa<br>vvikelse LSS | 10,4% | 1,8% | 2,1% | 2,5% |  |
-|  | Nettokostnadsa<br>vvikelse IFO | -5% | -5% | -6,1% | -9,4% |  |
-|  | Kostnad<br>funktionsnedsä<br>ttning LSS<br>boende kr per<br>brukare | 1 462 461 | 1 398 150 | 1 319 879 | 1 460 837 |  |
-|  | Kostnad för<br>personlig<br>assistans per<br>timma i<br>Kungsbacka<br>kommun i egen<br>regi | 403 | 419 | 434 | 434 | 450 |
-|  | Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för<br>personlig<br>assistans för<br>egen regi | 49% | 47% | 53% | 52% | 49% |
-|  | Kostnad per<br>brukare,<br>personlig<br>assistans LSS<br>egen regi |  | 341 | 320 |  |  |
-|  | Kostnad per<br>brukare,<br>personlig<br>assistans SFB<br>egen regi |  | 209 | 163 |  |  |
+|  |  | Namn | Utfall 2019 | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Kostnad barn<br>och<br>ungdomsvård,<br>kr/inv |  | 1 766 | 1 655 | 1 683 |  |
+|  |  | Kostnad<br>missbruksvård<br>vuxna kr/inv | 346 | 389 | 485 | 472 |  |
+|  |  | Nettokostnadsa<br>vvikelse LSS | 10,4% | 1,8% | 2,1% | 2,5% |  |
+|  |  | Nettokostnadsa<br>vvikelse IFO | -5% | -5% | -6,1% | -9,4% |  |
+|  |  | Kostnad<br>funktionsnedsä<br>ttning LSS<br>boende kr per<br>brukare | 1 462 461 | 1 398 150 | 1 319 879 | 1 460 837 |  |
+|  |  | Kostnad för<br>personlig<br>assistans per<br>timma i<br>Kungsbacka<br>kommun i egen<br>regi | 403 | 419 | 434 | 434 | 450 |
+|  |  | Försäkringskas<br>sans andel av<br>kostnadstäckni<br>ngen för<br>personlig<br>assistans för<br>egen regi | 49% | 47% | 53% | 52% | 49% |
+|  |  | Kostnad per<br>brukare,<br>personlig<br>assistans LSS<br>egen regi |  | 341 | 320 |  |  |
+|  |  | Kostnad per<br>brukare,<br>personlig<br>assistans SFB<br>egen regi |  | 209 | 163 |  |  |
 
 <!-- sida 72 -->
 
@@ -2579,79 +2479,49 @@ revideras fram till årsredovisningen.
 
 4.3 Prestationsmått
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Fördelning mellan serviceboende och
-26%     26%     26%    30%
-gruppboende (%)
-Andel köpta platser av totala antalet
-verkställda beslut, LSS 9.9 (bostad med            4,5%     3,65%
-särskild service)
-Invånare med insatser enligt LSS, andel
-0,61%   0,65%   0,68%   0,67%
-(%)
-Antal personer som har LSS-insats
-851     897     890
-verkställd den 1 okt
-Invånare 0-22 år med insatser enligt
-84     93      99      93
-LSS, antal/ 10 000 inv 0-22 år
-Antal unika anställda per månad i snitt
-som jobbat hos varje brukare inom 6  7      7,5    8,29      7,89
-personlig assistans
-Antal dygn i institutionsplacering vuxen,
-1 670   2 682   2 660    2 276
-köpta platser
 23
+
+[Tabell 72-73-1](handlingar.tabeller/72-73-1.csv)
+
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Fördelning mellan serviceboende och<br>gruppboende (%) | 26% | 26% | 26% | 30% |  |
+|  | Andel köpta platser av totala antalet<br>verkställda beslut, LSS 9.9 (bostad med<br>särskild service) |  |  |  | 4,5% | 3,65% |
+|  | Invånare med insatser enligt LSS, andel<br>(%) | 0,61% | 0,65% | 0,68% | 0,67% |  |
+|  | Antal personer som har LSS-insats<br>verkställd den 1 okt |  | 851 | 897 | 890 |  |
+|  | Invånare 0-22 år med insatser enligt<br>LSS, antal/ 10 000 inv 0-22 år | 84 | 93 | 99 | 93 |  |
+|  | Antal unika anställda per månad i snitt<br>som jobbat hos varje brukare inom<br>personlig assistans | 6 | 7 | 7,5 | 8,29 | 7,89 |
+|  | Antal dygn i institutionsplacering vuxen,<br>köpta platser |  | 1 670 | 2 682 | 2 660 | 2 276 |
+|  | Antal dygn i institutionsplacering barn<br>och unga, köpta platser |  |  | 4 220 | 4 314 | 3 356 |
+|  | Antal dygn i stödboende barn och unga,<br>köpta platser |  |  | 4 114 | 3 479 | 2 171 |
+|  | Antal dygn i boende missbruk, köpta<br>platser |  |  | 3 917 | 3 712 | 1 660 |
+|  | Antal personer som flyttat från<br>servicebostad till gruppbostad |  |  |  |  | 0 |
 
 <!-- sida 73 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Delårsrapport Augusti 2023
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Antal dygn i institutionsplacering barn
-4 220   4 314    3 356
-och unga, köpta platser
-Antal dygn i stödboende barn och unga,
-4 114   3 479    2 171
-köpta platser
-Antal dygn i boende missbruk, köpta
-3 917   3 712    1 660
-platser
-Antal personer som flyttat från
-0
-servicebostad till gruppbostad
 Utfall presenteras för de nyckeltal vars resultat finns tillgängligt per augusti 2023. Utfall för 2023 avser per augusti och kan komma att
 revideras fram till årsredovisningen.
+
 4.4 Effektmått
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Ej återaktualiserade barn 0-12 år ett år
-efter avslutad utredning eller insats, 80% 77% 77% 77%
-andel %
-Ej återaktualiserade ungdomar 13-20 år
-ett år efter avslutad utredning eller 65% 74% 75% 77%
-insats, andel (%)
-Ej återaktualiserade vuxna med
-missbruksproblem eller insatser 21 + ett
-57%     76%     49%   61%
-år efter avslutad utredning eller insats,
-andel %
-Antal personer som flyttat från grupp- till
-6            2
-servicebostad
-Antal personer som flyttat från bostad
-0            1
-med särskild service till ordinärt boende
-Antal personer som flyttat från
-2    5
-referensboende till eget boende
+
 Utfall presenteras för de nyckeltal vars resultat finns tillgängligt per augusti 2023. Utfall för 2023 avser per augusti och kan komma att
 revideras fram till årsredovisningen.
 
 24
+
+[Tabell 73-1](handlingar.tabeller/73-1.csv)
+
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Ej återaktualiserade barn 0-12 år ett år<br>efter avslutad utredning eller insats,<br>andel % | 80% | 77% | 77% | 77% |  |
+|  | Ej återaktualiserade ungdomar 13-20 år<br>ett år efter avslutad utredning eller<br>insats, andel (%) | 65% | 74% | 75% | 77% |  |
+|  | Ej återaktualiserade vuxna med<br>missbruksproblem eller insatser 21 + ett<br>år efter avslutad utredning eller insats,<br>andel % | 57% | 76% | 49% | 61% |  |
+|  | Antal personer som flyttat från grupp- till<br>servicebostad |  |  |  | 6 | 2 |
+|  | Antal personer som flyttat från bostad<br>med särskild service till ordinärt boende |  |  |  | 0 | 1 |
+|  | Antal personer som flyttat från<br>referensboende till eget boende |  |  | 2 | 5 |  |
 
 <!-- sida 74 -->
 
@@ -2875,27 +2745,6 @@ Delårsrapport Augusti 2023
 
 Utfall och prognos
 
-Bokslut Budget Prognos Budget-  Delår   Delår Avvikelse
-Miljoner kronor
-2022    2023   2023   avvikelse 2022   2023    delår
-Nämnd            -1,7     -2      -2      0     -1,1    -1,2    -0,1
-Förvaltningslednin
--57,4   -62,9   -61,9    1,0    -37,3  -41,9    -4,6
-g
-Myndighet, stöd
--234  -237,8  -243,8    -6,0  -156,7  -165,9   -9,2
-och behandling
-Bostad med
--215,2 -242,5  -251,5    -9,0  -138,2  -166,3   -28,1
-särskild service
-Stöd i hemmet och
--85,2   -92,8   -92,2    0,6    -58,1  -63,4    -5,3
-sysselsättning
-Daglig verksamhet -45,8 -51,4   -50,4    1,0    -29,9    -33    -3,1
-Privat assistans -57,5  -60,6   -57,4    3,2    -39,9  -38,2     1,7
-Periodens
--696,8 -750,0  -759,2    -9,2  -461,2  -509,9   -48,7
-resultat
 Sammanfattning - text till kommunstyrelsen
 Fokus för nämnden är fortsatt att bygga en hållbar socialtjänst, med en hållbar budget i balans. Resultatet per
 augusti visar en budgetavvikelse på -10 miljoner kronor. Skillnad i nettokostnad mellan åren uppgår till
@@ -2903,12 +2752,14 @@ augusti visar en budgetavvikelse på -10 miljoner kronor. Skillnad i nettokostna
 service, där den största skillnaden är kostnaderna för helårseffekt för två nya boendeenheter. Prognosen för
 2023 visar ett resultat på 759,2 miljoner kronor, vilket ger en negativ budgetavvikelse om 9,2 miljoner kronor.
 Orsakerna till budgetavvikelsen är bland annat:
+
 Svårigheter att rekrytera medarbetare inom samtliga nämndens verksamheter har medfört fördyrande kostnader.
 Många vakanser inom den myndighetsutövande verksamheten har inneburit höga kostnader för konsulter under
 2023\. Kostnaden för övertidsersättning uppgår till 6,3 miljoner kronor per augusti.
 Samtidigt som nämndens verksamheter har svårigheter att rekrytera, så ökar andelen heltidsanställningar under
 2023\. Nämnden ser också att andelen arbetad tid inom verkställigheten som utförs av ordinarie personal ökar,
 och har nu den högsta nivån sedan arbetet med brukarfokuserad bemanning och central bemanning påbörjades.
+
 Under 2023 har nämnden sett en ökning av stödbehovet inom grupp- och servicebostäder. Detta innebär att
 verksamheten har ett bemanningsbehov som medför att behovet av årsarbetare överstiger den budgeterade
 volymen.
@@ -2919,6 +2770,19 @@ Arbetet fortsätter med hemmaplanslösningar och att erbjuda boendeplatser inom 
 gruppboenden i egen regi har personer blivit erbjudna ett boende inom kommunen. Detta medför att
 
 29
+
+[Tabell 78-1](handlingar.tabeller/78-1.csv)
+
+| Miljoner kronor | Bokslut<br>2022 | Budget<br>2023 | Prognos<br>2023 | Budget-<br>avvikelse | Delår<br>2022 | Delår<br>2023 | Avvikelse<br>delår |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nämnd | -1,7 | -2 | -2 | 0 | -1,1 | -1,2 | -0,1 |
+| Förvaltningslednin<br>g | -57,4 | -62,9 | -61,9 | 1,0 | -37,3 | -41,9 | -4,6 |
+| Myndighet, stöd<br>och behandling | -234 | -237,8 | -243,8 | -6,0 | -156,7 | -165,9 | -9,2 |
+| Bostad med<br>särskild service | -215,2 | -242,5 | -251,5 | -9,0 | -138,2 | -166,3 | -28,1 |
+| Stöd i hemmet och<br>sysselsättning | -85,2 | -92,8 | -92,2 | 0,6 | -58,1 | -63,4 | -5,3 |
+| Daglig verksamhet | -45,8 | -51,4 | -50,4 | 1,0 | -29,9 | -33 | -3,1 |
+| Privat assistans | -57,5 | -60,6 | -57,4 | 3,2 | -39,9 | -38,2 | 1,7 |
+| Periodens<br>resultat | -696,8 | -750,0 | -759,2 | -9,2 | -461,2 | -509,9 | -48,7 |
 
 <!-- sida 79 -->
 
@@ -3082,31 +2946,6 @@ Delårsrapport Augusti 2023
 
 7 Verksamhet    som   utförs  av externa   aktörer
 
-Andel av       Kostnad för
-Verksamhet
-verksamhetsvolym  verksamhet
-Delår   Delår   Delår   Delår
-2022   2023    2022    2023
-521 Gruppboende LSS Vuxna               10 %     8 % -15,8 mkr -14,6 mkr
-520 Korttidsboende LSS                   3 %     6 %  -0,6 mkr -1,3 mkr
-522 Gruppboende LSS Barn               100 %   100 % -11,8 mkr -4,1 mkr
-
-```osaker-tabell
-523 Daglig verksamhet                    7 %     5 %  -2,3 mkr -1,8 mkr
-526 Ledsagarservice enligt LSS          11 %    17 %  -0,2 mkr -0,4 mkr
-527 Avlösarservice                       5 %     2 %  -0,1 mkr -0,1 mkr
-```
-
-531 Personlig assistans LSS             48 %    48 % -29,5 mkr -29,3 mkr
-552 Institutionsvård för vuxna missbrukare            -2,3 mkr -3,5 mkr
-
-554 Institutionsvård för barn och unga               -10,1 mkr -19,2 mkr
-556 Familjehemsvård Vuxna              100 %   100 %   -1 mkr -0,4 mkr
-557 Familjehemsvård                     23 %    22 %   -6 mkr -6,6 mkr
-
-558 Öppna insatser för vuxna missbrukare              -3,4 mkr -3,5 mkr
-568 Öppna insatser för Barn och unga                  -4,5 mkr -5,2 mkr
-
 Verksamhet som utför av externa aktörer - text till kommunstyrelsen
 Individ & Familjeomsorg har endast ledsagning och avlösarservice inom ramen för LOV/LOU. Privata utförare
 finns också inom personlig assistans. Andelen som bedrivs av externa aktörer har inte förändrats nämnvärt
@@ -3119,6 +2958,25 @@ på sådana verksamheter där det inte är ekonomiskt försvarbart att bedriva i
 andel innebär att det inte finns någon verksamhet i egen regi.
 
 33
+
+[Tabell 82-1](handlingar.tabeller/82-1.csv)
+
+| Verksamhet | Andel av<br>verksamhetsvolym |  | Kostnad för<br>verksamhet |  |
+| --- | --- | --- | --- | --- |
+|  | Delår<br>2022 | Delår<br>2023 | Delår<br>2022 | Delår<br>2023 |
+| 521 Gruppboende LSS Vuxna | 10 % | 8 % | -15,8 mkr | -14,6 mkr |
+| 520 Korttidsboende LSS | 3 % | 6 % | -0,6 mkr | -1,3 mkr |
+| 522 Gruppboende LSS Barn | 100 % | 100 % | -11,8 mkr | -4,1 mkr |
+| 523 Daglig verksamhet | 7 % | 5 % | -2,3 mkr | -1,8 mkr |
+| 526 Ledsagarservice enligt LSS | 11 % | 17 % | -0,2 mkr | -0,4 mkr |
+| 527 Avlösarservice | 5 % | 2 % | -0,1 mkr | -0,1 mkr |
+| 531 Personlig assistans LSS | 48 % | 48 % | -29,5 mkr | -29,3 mkr |
+| 552 Institutionsvård för vuxna missbrukare |  |  | -2,3 mkr | -3,5 mkr |
+| 554 Institutionsvård för barn och unga |  |  | -10,1 mkr | -19,2 mkr |
+| 556 Familjehemsvård Vuxna | 100 % | 100 % | -1 mkr | -0,4 mkr |
+| 557 Familjehemsvård | 23 % | 22 % | -6 mkr | -6,6 mkr |
+| 558 Öppna insatser för vuxna missbrukare |  |  | -3,4 mkr | -3,5 mkr |
+| 568 Öppna insatser för Barn och unga |  |  | -4,5 mkr | -5,2 mkr |
 
 <!-- sida 83 -->
 
@@ -3619,15 +3477,15 @@ Fokusområden
 
 [Tabell 96-97-1](handlingar.tabeller/96-97-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
-| --- | --- | --- | --- |
-| Bäst att leva,<br>Kungsbackas<br>placering i ranking<br>5<br>av Sveriges<br>kommuner enligt<br>Tidningen Fokus. | 3 |  |  |
-| Antal påbörjade<br>234<br>bostäder | 216 | 848 |  |
-| Antal färdigställda<br>248<br>bostäder | 430 | 363 |  |
-| Anmälda brott per<br>invånare (antal/100 5 075<br>000 invånare) | 5 321 | 5 691 |  |
-| Brukarbedömning<br>hemtjänst<br>88%<br>äldreomsorg,<br>helhetssyn |  | 90% |  |
-| Brukarbedömning<br>särskilt boende<br>81%<br>äldreomsorg,<br>helhetssyn |  | 74% |  |
-| Brukarbedömning<br>individ- och<br>76%<br>familjeomsorg totalt<br>- helhetssyn |  | 88% |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
+| --- | --- | --- | --- | --- |
+| Bäst att leva,<br>Kungsbackas<br>placering i ranking<br>av Sveriges<br>kommuner enligt<br>Tidningen Fokus. | 5 | 3 |  |  |
+| Antal påbörjade<br>bostäder | 234 | 216 | 848 |  |
+| Antal färdigställda<br>bostäder | 248 | 430 | 363 |  |
+| Anmälda brott per<br>invånare (antal/100<br>000 invånare) | 5 075 | 5 321 | 5 691 |  |
+| Brukarbedömning<br>hemtjänst<br>äldreomsorg,<br>helhetssyn | 88% |  | 90% |  |
+| Brukarbedömning<br>särskilt boende<br>äldreomsorg,<br>helhetssyn | 81% |  | 74% |  |
+| Brukarbedömning<br>individ- och<br>familjeomsorg totalt<br>- helhetssyn | 76% |  | 88% |  |
 
 <!-- sida 97 -->
 
@@ -3685,24 +3543,24 @@ som också skyddar och främjar biologisk mångfald.
 
 [Tabell 98-100-1](handlingar.tabeller/98-100-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
-| --- | --- | --- | --- |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>85%<br>4 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 88% | 88% |  |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>88%<br>4 i % - Pojkar.<br>(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 93% | 90% |  |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>70%<br>8 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 77% | 72% |  |
-| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>84%<br>8 i % -<br>Pojkar.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 92% | 93% |  |
-| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>70%<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>flickor. | 68% | 65% |  |
-| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>80%<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>pojkar. | 88% | 85% |  |
-| Avfall från hushåll ska<br>minska med 30% per<br>invånare från 2020 till 100<br>2030. Startvärde 100,<br>målvärde 2030 är 70. |  |  |  |
-| Avfall från kommunens<br>verksamheter ska<br>minska med 40 % per<br>100<br>heltidsanställd.<br>Startvärde 100,<br>målvärde 2030 är 60. | 72,1 | 84,5 |  |
-| Energiförbrukning i<br>kommuns lokaler per<br>kvadratmeter |  |  |  |
-| Utsläpp till luft av<br>växthusgaser totalt,<br>ton CO2-ekv/inv<br>(Kolada) |  |  |  |
-| Miljöbilar, andel av<br>totalt antal bilar i det<br>geografiska området,<br>(Kolada) |  |  |  |
-| Slutanvändning av el<br>inom det geografiska<br>området, MWh/inv<br>(Kolada) |  |  |  |
-| Matens<br>klimatpåverkan från de<br>offentliga måltiderna<br>ska minska räknat i kg<br>CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0<br>år 2030. |  |  |  |
-| Ekologisk status i<br>Kungsbackafjorden<br>(VISS) |  |  |  |
-| Skyddad natur totalt,<br>andel (Kolada) |  |  |  |
-| Vattendrag med god<br>ekologisk status, andel<br>(Kolada) |  |  |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
+| --- | --- | --- | --- | --- |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 85% | 88% | 88% |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>4 i % - Pojkar.<br>(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 88% | 93% | 90% |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Flickor.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 70% | 77% | 72% |  |
+| Andelen elever som<br>skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet, ÅK<br>8 i % -<br>Pojkar.(Elevhälsan i<br>Kungsbacka utvecklar<br>metod utifrån<br>hälsosamtal med<br>elever.) | 84% | 92% | 93% |  |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>flickor. | 70% | 68% | 65% |  |
+| Andelen elever som<br>har skattat sin egen<br>livstillfredsställelse<br>som god eller mycket<br>god under<br>elevhälsosamtalet,<br>Gymnasiet ÅK 1 i% -<br>pojkar. | 80% | 88% | 85% |  |
+| Avfall från hushåll ska<br>minska med 30% per<br>invånare från 2020 till<br>2030. Startvärde 100,<br>målvärde 2030 är 70. | 100 |  |  |  |
+| Avfall från kommunens<br>verksamheter ska<br>minska med 40 % per<br>heltidsanställd.<br>Startvärde 100,<br>målvärde 2030 är 60. | 100 | 72,1 | 84,5 |  |
+| Energiförbrukning i<br>kommuns lokaler per<br>kvadratmeter |  |  |  |  |
+| Utsläpp till luft av<br>växthusgaser totalt,<br>ton CO2-ekv/inv<br>(Kolada) |  |  |  |  |
+| Miljöbilar, andel av<br>totalt antal bilar i det<br>geografiska området,<br>(Kolada) |  |  |  |  |
+| Slutanvändning av el<br>inom det geografiska<br>området, MWh/inv<br>(Kolada) |  |  |  |  |
+| Matens<br>klimatpåverkan från de<br>offentliga måltiderna<br>ska minska räknat i kg<br>CO2-ekv/kg livsmedel.<br>Målsättningen är 1,0<br>år 2030. |  |  |  |  |
+| Ekologisk status i<br>Kungsbackafjorden<br>(VISS) |  |  |  |  |
+| Skyddad natur totalt,<br>andel (Kolada) |  |  |  |  |
+| Vattendrag med god<br>ekologisk status, andel<br>(Kolada) |  |  |  |  |
 
 <!-- sida 99 -->
 
@@ -3729,14 +3587,14 @@ mellan näringsliv och utbildning.
 
 [Tabell 100-101-1](handlingar.tabeller/100-101-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
-| --- | --- | --- | --- |
-| Insikt, SKRs<br>servicemätning av<br>kommunernas<br>myndighetsutövning<br>för företag. Nöjd-<br>kund-index utifrån<br>sammanvägt<br>betygsindex 0-100, 66<br>för hur företag i<br>kommunen bedömer<br>Kungsbacka<br>kommuns<br>myndighetsutövning,<br>vilket är en viktig del<br>av företagsklimatet. | 66 | 70 |  |
-| Svenskt Näringslivs<br>attitydundersökning<br>av kommuners<br>företagsklimat.<br>Medelvärde utifrån<br>3,3<br>skala 1-6, där<br>företag bedömer<br>företagsklimatet i<br>Kungsbacka<br>kommun. | 3,5 | 3,4 |  |
-| Sysselsatt<br>27 384<br>dagbefolkning, antal |  |  |  |
-| Andel av sysselsatt<br>dagbefolkning inom 5,1%<br>Göteborgsregionen |  |  |  |
-| Företagsamhet,<br>andel av invånare<br>16–74 år |  |  |  |
-| Antal nystartade<br>företag per 1 000<br>invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
+| --- | --- | --- | --- | --- |
+| Insikt, SKRs<br>servicemätning av<br>kommunernas<br>myndighetsutövning<br>för företag. Nöjd-<br>kund-index utifrån<br>sammanvägt<br>betygsindex 0-100,<br>för hur företag i<br>kommunen bedömer<br>Kungsbacka<br>kommuns<br>myndighetsutövning,<br>vilket är en viktig del<br>av företagsklimatet. | 66 | 66 | 70 |  |
+| Svenskt Näringslivs<br>attitydundersökning<br>av kommuners<br>företagsklimat.<br>Medelvärde utifrån<br>skala 1-6, där<br>företag bedömer<br>företagsklimatet i<br>Kungsbacka<br>kommun. | 3,3 | 3,5 | 3,4 |  |
+| Sysselsatt<br>dagbefolkning, antal | 27 384 |  |  |  |
+| Andel av sysselsatt<br>dagbefolkning inom<br>Göteborgsregionen | 5,1% |  |  |  |
+| Företagsamhet,<br>andel av invånare<br>16–74 år |  |  |  |  |
+| Antal nystartade<br>företag per 1 000<br>invånare 16–64 år<br>(etableringsfrekvens) |  |  |  |  |
 
 <!-- sida 101 -->
 
@@ -3756,14 +3614,14 @@ Fokusområden
 
 [Tabell 101-102-1](handlingar.tabeller/101-102-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
-| --- | --- | --- | --- |
-| Genomsnittligt<br>meritvärde i årskurs<br>9. Meritvärdet<br>utgörs av summan<br>246<br>av de 17 bästa<br>betygen i elevens<br>slutbetyg och kan<br>max vara 340. | 239 | 237 |  |
-| Arbetslöshet för<br>ungdomar 16–24 år<br>i kommunen. (Källa: 2,8%<br>Arbetsförmedlingen<br>och SCB) | 2,6% | 1,7% |  |
-| Självkänsla och<br>framtidstro för<br>gymnasieelever år<br>2, index med skala<br>0–10 enligt<br>Skolenkäten som<br>genomförs enligt<br>Skolinspektionens<br>skolenkät. Enkäten<br>genomförs<br>vartannat år. | 7,7 |  |  |
-| Genomsnittligt<br>betygspoäng för<br>gymnasiets<br>14<br>avgångselevers<br>betygspoäng som<br>kan vara max 20. | 14,3 | 14,5 |  |
-| Andel vuxna<br>personer som inte<br>återkommit till<br>försörjningsstöd<br>82%<br>inom ett år efter<br>avslutat<br>försörjningsstöd<br>(%) | 67% | 69% |  |
-| Kostnad utbetalt<br>ekonomiskt bistånd,<br>kr/invånare<br>(Kolada) |  |  |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
+| --- | --- | --- | --- | --- |
+| Genomsnittligt<br>meritvärde i årskurs<br>9. Meritvärdet<br>utgörs av summan<br>av de 17 bästa<br>betygen i elevens<br>slutbetyg och kan<br>max vara 340. | 246 | 239 | 237 |  |
+| Arbetslöshet för<br>ungdomar 16–24 år<br>i kommunen. (Källa:<br>Arbetsförmedlingen<br>och SCB) | 2,8% | 2,6% | 1,7% |  |
+| Självkänsla och<br>framtidstro för<br>gymnasieelever år<br>2, index med skala<br>0–10 enligt<br>Skolenkäten som<br>genomförs enligt<br>Skolinspektionens<br>skolenkät. Enkäten<br>genomförs<br>vartannat år. |  | 7,7 |  |  |
+| Genomsnittligt<br>betygspoäng för<br>gymnasiets<br>avgångselevers<br>betygspoäng som<br>kan vara max 20. | 14 | 14,3 | 14,5 |  |
+| Andel vuxna<br>personer som inte<br>återkommit till<br>försörjningsstöd<br>inom ett år efter<br>avslutat<br>försörjningsstöd<br>(%) | 82% | 67% | 69% |  |
+| Kostnad utbetalt<br>ekonomiskt bistånd,<br>kr/invånare<br>(Kolada) |  |  |  |  |
 
 <!-- sida 102 -->
 
@@ -3816,10 +3674,10 @@ I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att u
 
 [Tabell 103-1](handlingar.tabeller/103-1.csv)
 
-| Indikator Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
-| --- | --- | --- | --- |
-| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation, 78<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 |  |
-| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>91<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 103 | 114 |  |
+| Indikator | Utfall 2020 | Utfall 2021 | Utfall 2022 | Målsättning 2024 |
+| --- | --- | --- | --- | --- |
+| Hållbart<br>medarbetarengagemang,<br>ett index för<br>medarbetarnas samlade<br>uppfattning om<br>områdena motivation,<br>ledarskap och styrning,<br>skala 1-100 enligt<br>Medarbetarenkäten.<br>Mätningen görs<br>vartannat år. | 78 | 78 | 78 |  |
+| Jämställdhetsindex,<br>Jämix. Antal poäng av<br>max 180. Jämix<br>beräknas utifrån nio<br>nyckeltal med skala 1–<br>20. | 91 | 103 | 114 |  |
 
 <!-- sida 104 -->
 
@@ -3920,13 +3778,14 @@ Bygga en kultur som inspirerar och tillåter experimenterande och testande, utfo
 Möjlighet att genomföra fler utvecklingsinitiativ
 Skapa ändamålsenliga tekniska förutsättningar
 
-Indikator                         Målsättning 2024
-Status direktiv: Andel innovationsprojekt som drivits Status direktiv: Andel innovationsprojekt som drivits
-under året                        under året
-Status direktiv: Andel av bruttokostnaden som Status direktiv: Andel av bruttokostnaden som
-avsätts för verksamhetsutveckling och innovation avsätts för verksamhetsutveckling och innovation
-
 21
+
+[Tabell 105-1](handlingar.tabeller/105-1.csv)
+
+| Indikator | Målsättning 2024 |
+| --- | --- |
+| Status direktiv: Andel innovationsprojekt som drivits<br>under året | Status direktiv: Andel innovationsprojekt som drivits<br>under året |
+| Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation | Status direktiv: Andel av bruttokostnaden som<br>avsätts för verksamhetsutveckling och innovation |
 
 <!-- sida 106 -->
 
@@ -3959,108 +3818,47 @@ Nämndbudget 2024
 
 8.1 Resursmått
 
-Utfall  Utfall Riket Budget Budget  Budget
-Delområde    Nyckeltal
-2021    2022   2022 2023      2024   2025
-Kostnad för
-personlig assistans
-per timma i     434     434
-Kungsbacka
-kommun i egen regi
-Försäkringskassans
-andel av
-kostnadstäckningen 53% 52%
-för personlig
-Kommunfullmäktige assistans för egen
-regi
-Kostnad per
-brukare, personlig
-320
-assistans LSS egen
-regi
-Kostnad per
-brukare, personlig
-163
-assistans SFB egen
-regi
 8.2 Prestationsmått
-Utfall  Utfall Riket Budget Budget  Budget
-Delområde    Nyckeltal
-2021    2022   2022 2023      2024   2025
-Fördelning
-mellan
-26%     30%
-serviceboende och
-gruppboende (%)
-Kommunfullmäktige Andel köpta
-platser av totala
-antalet verkställda
-4,5%
-beslut, LSS 9.9
-(bostad med
-särskild service)
-Antal personer
-som har LSS-insats 897  890
-verkställd den 1 okt
-Nämnd
-Antal dygn i
-institutionsplacering
-2 682   2 660
-vuxen, köpta
-platser
+
 23
+
+[Tabell 107-1](handlingar.tabeller/107-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2021 | Utfall<br>2022 | Riket<br>2022 | Budget<br>2023 | Budget<br>2024 | Budget<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | Kostnad för<br>personlig assistans<br>per timma i<br>Kungsbacka<br>kommun i egen regi | 434 | 434 |  |  |  |  |
+|  | Försäkringskassans<br>andel av<br>kostnadstäckningen<br>för personlig<br>assistans för egen<br>regi | 53% | 52% |  |  |  |  |
+|  | Kostnad per<br>brukare, personlig<br>assistans LSS egen<br>regi | 320 |  |  |  |  |  |
+|  | Kostnad per<br>brukare, personlig<br>assistans SFB egen<br>regi | 163 |  |  |  |  |  |
+
+[Tabell 107-108-2](handlingar.tabeller/107-108-2.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2021 | Utfall<br>2022 | Riket<br>2022 | Budget<br>2023 | Budget<br>2024 | Budget<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Kommunfullmäktige | Fördelning<br>mellan<br>serviceboende och<br>gruppboende (%) | 26% | 30% |  |  |  |  |
+|  | Andel köpta<br>platser av totala<br>antalet verkställda<br>beslut, LSS 9.9<br>(bostad med<br>särskild service) |  | 4,5% |  |  |  |  |
+| Nämnd | Antal personer<br>som har LSS-insats<br>verkställd den 1 okt | 897 | 890 |  |  |  |  |
+|  | Antal dygn i<br>institutionsplacering<br>vuxen, köpta<br>platser | 2 682 | 2 660 |  |  |  |  |
+|  | Antal dygn i<br>institutionsplacering<br>barn och unga,<br>köpta platser | 4 220 | 4 314 |  |  |  |  |
+|  | Antal dygn i<br>stödboende barn<br>och unga, köpta<br>platser | 4 114 | 3 479 |  |  |  |  |
+|  | Antal dygn i<br>boende missbruk,<br>köpta platser | 3 917 | 3 712 |  |  |  |  |
 
 <!-- sida 108 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2024
 
-Utfall  Utfall Riket Budget Budget  Budget
-Delområde    Nyckeltal
-2021    2022   2022 2023      2024   2025
-Antal dygn i
-institutionsplacering
-4 220   4 314
-barn och unga,
-köpta platser
-Antal dygn i
-stödboende barn
-4 114   3 479
-och unga, köpta
-platser
-Antal dygn i
-boende missbruk, 3 917 3 712
-köpta platser
 8.3 Effektmått
-Utfall   Utfall  Riket Budget   Budget   Budget
-Delområde Nyckeltal
-2021      2022    2022 2023       2024    2025
-Ej
-återaktualiserade
-barn 0-12 år ett år
-77%       77%
-efter avslutad
-utredning eller
-insats, andel %
-Ej
-återaktualiserade
-ungdomar 13-20
-år ett år efter 75%      77%
-avslutad
-Nämnd
-utredning eller
-insats, andel (%)
-Ej
-återaktualiserade
-vuxna med
-missbruksproblem
-eller insatser 21 49%    61%
-\+ ett år efter
-avslutad
-utredning eller
-insats, andel %
 
 24
+
+[Tabell 108-1](handlingar.tabeller/108-1.csv)
+
+| Delområde | Nyckeltal | Utfall<br>2021 | Utfall<br>2022 | Riket<br>2022 | Budget<br>2023 | Budget<br>2024 | Budget<br>2025 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Nämnd | Ej<br>återaktualiserade<br>barn 0-12 år ett år<br>efter avslutad<br>utredning eller<br>insats, andel % | 77% | 77% |  |  |  |  |
+|  | Ej<br>återaktualiserade<br>ungdomar 13-20<br>år ett år efter<br>avslutad<br>utredning eller<br>insats, andel (%) | 75% | 77% |  |  |  |  |
+|  | Ej<br>återaktualiserade<br>vuxna med<br>missbruksproblem<br>eller insatser 21<br>+ ett år efter<br>avslutad<br>utredning eller<br>insats, andel % | 49% | 61% |  |  |  |  |
 
 <!-- sida 109 -->
 
@@ -4123,63 +3921,39 @@ rutiner, utvecklad bemanningsprocess och omfördelning av resurser, m.m.
 
 9.2 Personalmått
 
-Nyckeltal      Utfall 2020 Utfall 2021 Utfall 2022 Budget 2023 Budget 2024
-
-Andel heltid     77,4%      78,1%         80,7%
-Andel kvinnor som
-77,3%      78,2%         81,3%
-har heltid
-Andel män som har
-77,5%      78,1%         78,2%
-heltid
-Sjukfrånvaro Totalt 9,5%    10,1%         10,7%
-Sjukfrånvaro
-10%        10,5%         11,3%
-Kvinnor
-Sjukfrånvaro Män 6,8%       8,1%           8,2%
-Korttidssjukfrånvaro 4,8%   4,4%           4,7%
-Korttidssjukfrånvaro
-4,9%       4,4%           4,7%
-Kvinnor
-Korttidssjukfrånvaro
-4,6%       4,6%           4,8%
-Män
-Sjukfrånvaro, andel
-av sjukfrånvaro 60 35,3%    42,5%         45,2%
-dagar eller mer
-Anställda totalt  790        759            791
-Anställda andel
-83,3%      82,6%          81%
-kvinnor
-Anställda andel män 16,7%   17,4%          19%
-Antal medarbetare
-22,8       21,2          18,7
-per enhetschef
-
-```osaker-tabell
-Frisknärvaro     40,1%      42,9%         39,1%
-Frisknärvaro Kvinnor 39,6%  42,2%         38,6%
-Frisknärvaro Män 42,8%      46,5%         41,5%
-Medelålder        45         45             45
-Personalomsättning 17,4%    13,5%          14%
-Långtidssjukfrånvaro 4,6%   5,7%            6%
-```
-
-Långtidssjukfrånvaro
-5,1%       6,1%           6,6%
-Kvinnor
-
 26
+
+[Tabell 110-111-1](handlingar.tabeller/110-111-1.csv)
+
+| Nyckeltal | Utfall 2020 | Utfall 2021 | Utfall 2022 | Budget 2023 | Budget 2024 |
+| --- | --- | --- | --- | --- | --- |
+| Andel heltid | 77,4% | 78,1% | 80,7% |  |  |
+| Andel kvinnor som<br>har heltid | 77,3% | 78,2% | 81,3% |  |  |
+| Andel män som har<br>heltid | 77,5% | 78,1% | 78,2% |  |  |
+| Sjukfrånvaro Totalt | 9,5% | 10,1% | 10,7% |  |  |
+| Sjukfrånvaro<br>Kvinnor | 10% | 10,5% | 11,3% |  |  |
+| Sjukfrånvaro Män | 6,8% | 8,1% | 8,2% |  |  |
+| Korttidssjukfrånvaro | 4,8% | 4,4% | 4,7% |  |  |
+| Korttidssjukfrånvaro<br>Kvinnor | 4,9% | 4,4% | 4,7% |  |  |
+| Korttidssjukfrånvaro<br>Män | 4,6% | 4,6% | 4,8% |  |  |
+| Sjukfrånvaro, andel<br>av sjukfrånvaro 60<br>dagar eller mer | 35,3% | 42,5% | 45,2% |  |  |
+| Anställda totalt | 790 | 759 | 791 |  |  |
+| Anställda andel<br>kvinnor | 83,3% | 82,6% | 81% |  |  |
+| Anställda andel män | 16,7% | 17,4% | 19% |  |  |
+| Antal medarbetare<br>per enhetschef | 22,8 | 21,2 | 18,7 |  |  |
+| Frisknärvaro | 40,1% | 42,9% | 39,1% |  |  |
+| Frisknärvaro Kvinnor | 39,6% | 42,2% | 38,6% |  |  |
+| Frisknärvaro Män | 42,8% | 46,5% | 41,5% |  |  |
+| Medelålder | 45 | 45 | 45 |  |  |
+| Personalomsättning | 17,4% | 13,5% | 14% |  |  |
+| Långtidssjukfrånvaro | 4,6% | 5,7% | 6% |  |  |
+| Långtidssjukfrånvaro<br>Kvinnor | 5,1% | 6,1% | 6,6% |  |  |
+| Långtidssjukfrånvaro<br>Män | 2,2% | 3,5% | 3,3% |  |  |
 
 <!-- sida 111 -->
 
 Nämnden för Individ & Familjeomsorg              Kungsbacka kommun
 Nämndbudget 2024
-
-Nyckeltal      Utfall 2020 Utfall 2021 Utfall 2022 Budget 2023 Budget 2024
-Långtidssjukfrånvaro
-2,2%       3,5%           3,3%
-Män
 
 9.3 Arbetsmiljö
 Ett reviderat årshjul för SAM (systematiskt arbetsmiljöarbete) har tagits fram och implementerats. Årshjulet ger
@@ -4302,48 +4076,40 @@ Nämndbudget 2024
 
 11.1 Styrdokument beslutade av kommunfullmäktige
 
-Styrdokument                                       Beslutande paragraf/År
-Attestreglemente                                    KF 2015-01-10 § 30
-Kvalitet                                            KF 2013-08-13 § 101
-
-Barnkonventionen - policy                            KF 2014-11-11 §
-Konkurrensprövning                                   KF 2011-02-01 § 8
-
-Vision 2030                                         KF 2017-06-16 § 94
-Kommunikation                                       KF 2019-12-10 § 194
-Fordon                                              KF 2014-10-13 § 114
-
-Upphandling, policy                                 KF § 2021-03-09 § 30
-Upphandling- tillämpningsanvisningar till policy       KF § 164/09
-Lokaler                                             KF 2014-11-11 § 153
-
-Konkurrensprövning - tillämpningsanvisningar         KF 2011-02-01 § 8
-Kommunalt bostadstillägg i bostad med särskild service KF §100/16
-
-Integritetspolicy                                   KF 2021-11-09 § 142
-Reglemente för nämnden för Individ & Familjeomsorg  KF 2018-06-14 § 107
-Omställningsstöd och pension för förtroendevalda (OPF-KL18) KF 2018-12-13 § 26
-
-Allmän handling, taxa för kopior                    KF 2021-04-13 § 65
-Lokala ordningsföreskrifter                          KF 2020-02-02 § 8
-
-Attestreglemente - tillämpningsanvisningar         Ekonomichef 2015-05-01
-Klimatstrategi                                      KF 2018-12-13 § 257
-Invånardialog                                         KF 2014 § 119
-
-Privata utförare                                    KF 2016-10-11 § 144
-Upphandling; Direktupphandling, riktlinjer          KF 2022-10-18 § 160
-Reglemente, gemensamt för kommunstyrelsen och nämnder KF 2021-11-09 § 142
-
-Arbetsgivarpolicy                                   KF 2019-06-11 § 86
-Ann-Charlotte Järnström
-Tjänsteresor, regler
-2019-08-20
-Arbetsmiljömål                                      KF 2020-10-06 § 119
-Självständigt liv-pris                              KF 2021-05-04 § 80
-Reglemente nämnden för Individ & Familjeomsorg         KF § 50/16
-
 30
+
+[Tabell 114-1](handlingar.tabeller/114-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Attestreglemente | KF 2015-01-10 § 30 |
+| Kvalitet | KF 2013-08-13 § 101 |
+| Barnkonventionen - policy | KF 2014-11-11 § |
+| Konkurrensprövning | KF 2011-02-01 § 8 |
+| Vision 2030 | KF 2017-06-16 § 94 |
+| Kommunikation | KF 2019-12-10 § 194 |
+| Fordon | KF 2014-10-13 § 114 |
+| Upphandling, policy | KF § 2021-03-09 § 30 |
+| Upphandling- tillämpningsanvisningar till policy | KF § 164/09 |
+| Lokaler | KF 2014-11-11 § 153 |
+| Konkurrensprövning - tillämpningsanvisningar | KF 2011-02-01 § 8 |
+| Kommunalt bostadstillägg i bostad med särskild service | KF §100/16 |
+| Integritetspolicy | KF 2021-11-09 § 142 |
+| Reglemente för nämnden för Individ & Familjeomsorg | KF 2018-06-14 § 107 |
+| Omställningsstöd och pension för förtroendevalda (OPF-KL18) | KF 2018-12-13 § 26 |
+| Allmän handling, taxa för kopior | KF 2021-04-13 § 65 |
+| Lokala ordningsföreskrifter | KF 2020-02-02 § 8 |
+| Attestreglemente - tillämpningsanvisningar | Ekonomichef 2015-05-01 |
+| Klimatstrategi | KF 2018-12-13 § 257 |
+| Invånardialog | KF 2014 § 119 |
+| Privata utförare | KF 2016-10-11 § 144 |
+| Upphandling; Direktupphandling, riktlinjer | KF 2022-10-18 § 160 |
+| Reglemente, gemensamt för kommunstyrelsen och nämnder | KF 2021-11-09 § 142 |
+| Arbetsgivarpolicy | KF 2019-06-11 § 86 |
+| Tjänsteresor, regler | Ann-Charlotte Järnström<br>2019-08-20 |
+| Arbetsmiljömål | KF 2020-10-06 § 119 |
+| Självständigt liv-pris | KF 2021-05-04 § 80 |
+| Reglemente nämnden för Individ & Familjeomsorg | KF § 50/16 |
 
 <!-- sida 115 -->
 
@@ -4352,49 +4118,42 @@ Nämndbudget 2024
 
 11.2 Styrdokument beslutade av nämnden för Individ & Familjeomsorg
 
-Styrdokument                                       Beslutande paragraf/År
-Delegeringsförteckning                                NIF § 11/2023
-Konkurrensutsättningsplan                             NIF § 173/2022
-
-Arkivredovisning/Informationsredovisning              NIF § 198/2022
-Riktlinje - Ledningssystem för systematiskt kvalitetsarbete NIF § 34/2021
-
-Riktlinjer för verksamhetsbidrag                      NIF § 37/2016
-Internkontrollplan                                    NIF § 174/2022
-Lokalbehov 2024- 2028 med utblicksår 2029- 2033       NIF §121/2022
-
-Riktlinje för systematisk individuppföljning          NIF §56/2022
-Digitalplan 2023                                      NIF § 28/2023
-Nämndbudget 2023, plan 2024-2025                      NIF § 158/2022
-
-NIF § 175/2022, NIF §
-Taxor och avgifter 2023
-176/2022
-Investeringsplan 2024-2033                            NIF § 203/2022
-Riktlinjer för beslutsstöd i Individ & Familjeomsorgen NIF § 50/2023
-Riktlinje för samverkan och innovation                NIF §204/2021
-Riktlinje för att motverka kvalificerade välfärdsbrott NIF § 177/2022
-
 11.3 Styrdokument beslutade av kommunstyrelsen
 
-Styrdokument                                       Beslutande paragraf/År
-Styrande dokument, riktlinjer                       KS 2017-06-20 § 163
-
-Integration, riktlinjer                             KS 2019-11-26 § 275
-Personuppgifter - riktlinjer                        KS 2021-10-19 § 278
-Informationssäkerhet, riktlinjer                    KS 2020-04-21 § 81
-
-Flaggning                                           KS 2020-09-22 § 207
-Personuppgifter; Regler för interna personuppgiftsbiträdesförhållanden KS 2021-10-19 § 278
-
-Kommundirektören 2021-
-Varumärkesarkitektur och särprofilering
-12-01
-Kommundirektören 2022-
-Visselblåsarfunktionen, regler
-11-09
-
 31
+
+[Tabell 115-1](handlingar.tabeller/115-1.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Delegeringsförteckning | NIF § 11/2023 |
+| Konkurrensutsättningsplan | NIF § 173/2022 |
+| Arkivredovisning/Informationsredovisning | NIF § 198/2022 |
+| Riktlinje - Ledningssystem för systematiskt kvalitetsarbete | NIF § 34/2021 |
+| Riktlinjer för verksamhetsbidrag | NIF § 37/2016 |
+| Internkontrollplan | NIF § 174/2022 |
+| Lokalbehov 2024- 2028 med utblicksår 2029- 2033 | NIF §121/2022 |
+| Riktlinje för systematisk individuppföljning | NIF §56/2022 |
+| Digitalplan 2023 | NIF § 28/2023 |
+| Nämndbudget 2023, plan 2024-2025 | NIF § 158/2022 |
+| Taxor och avgifter 2023 | NIF § 175/2022, NIF §<br>176/2022 |
+| Investeringsplan 2024-2033 | NIF § 203/2022 |
+| Riktlinjer för beslutsstöd i Individ & Familjeomsorgen | NIF § 50/2023 |
+| Riktlinje för samverkan och innovation | NIF §204/2021 |
+| Riktlinje för att motverka kvalificerade välfärdsbrott | NIF § 177/2022 |
+
+[Tabell 115-2](handlingar.tabeller/115-2.csv)
+
+| Styrdokument | Beslutande paragraf/År |
+| --- | --- |
+| Styrande dokument, riktlinjer | KS 2017-06-20 § 163 |
+| Integration, riktlinjer | KS 2019-11-26 § 275 |
+| Personuppgifter - riktlinjer | KS 2021-10-19 § 278 |
+| Informationssäkerhet, riktlinjer | KS 2020-04-21 § 81 |
+| Flaggning | KS 2020-09-22 § 207 |
+| Personuppgifter; Regler för interna personuppgiftsbiträdesförhållanden | KS 2021-10-19 § 278 |
+| Varumärkesarkitektur och särprofilering | Kommundirektören 2021-<br>12-01 |
+| Visselblåsarfunktionen, regler | Kommundirektören 2022-<br>11-09 |
 
 <!-- sida 116 -->
 

@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20250803050936id_/https://kungsbacka.se/d
 sha256: c28c6242ce358eb249db49e26dcc8056d5f596d1510c4936ea4fe352ab49071b
 bytes: 7588167
 sidor: 488
-hamtad: 2026-11-15T22:47:57+00:00
-konverterad: 2026-11-15T22:48:44+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
-kvalitet: text-utan-tabeller
+hamtad: 2026-11-21T12:48:17+00:00
+konverterad: 2026-11-21T12:49:29+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107
+kvalitet: full
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: []
 figurer: [13, 14, 15, 16, 18, 19, 20, 21, 22, 23, 24, 26, 27, 37, 114, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481]
 tolkade: []
@@ -744,19 +744,6 @@ tabellen som information. Nya behov för 2024 kan inte tas upp här.
 I tabellerna ska behoven kategoriseras enligt stoppljusen (se avsnitt 1). Kategorisering enligt
 stoppljus är att de gröna behoven kommer prioriteras före de röda.
 
-Beskrivning                       Budget Plan Plan Plan Plan Plan
-Löpnr                    Kategorisera
-2024  2025 2026 2027 2028 2029
-413 BmSS barn                                                 4
-414 BmSS                                             12
-502 BmSS                                12
-
-504 BmSS                                         12
-508 e BmSS                                    12
-BmSS                                                 12
-
-BmSS                                                      12
-
 Lokalbehov 2025-2029 utblicksår 2030-2034 9
 
 [Tabell 18-1](handlingar.tabeller/18-1.csv)
@@ -765,6 +752,18 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 9
 | --- | --- |
 | Servicebostad | 250 000 kr |
 | Gruppbostad | 960 000 kr |
+
+[Tabell 18-2](handlingar.tabeller/18-2.csv)
+
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2024 | Plan<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 413 | BmSS barn |  |  |  |  |  |  | 4 |
+| 414 | BmSS |  |  |  |  | 12 |  |  |
+| 502 | BmSS |  | 12 |  |  |  |  |  |
+| 504 | BmSS |  |  |  | 12 |  |  |  |
+| 508 e | BmSS |  |  | 12 |  |  |  |  |
+|  | BmSS |  |  |  |  |  | 12 |  |
+|  | BmSS |  |  |  |  |  |  | 12 |
 
 <!-- sida 19 -->
 
@@ -791,13 +790,6 @@ Lokalbehoven avser utblicksåren 2030-2034.
 I tabellerna ska behoven kategoriseras enligt stoppljusen (se avsnitt 1). Kategorisering enligt
 stoppljus är att de gröna behoven kommer prioriteras före de röda.
 
-Löp Beskrivning                      Plan   Plan  Plan  Plan Plan
-Kategorisera
-nr                                   2030   2031  2032 2033  2034
-Boende med särskild service
-12     12    12    12    12
-(BmSS)
-
 Anvisning
 
 Nämndens lokalbehov för servicebostäder uttrycks i antal lägenheter.
@@ -815,6 +807,17 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 10
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+[Tabell 19-2](handlingar.tabeller/19-2.csv)
+
+| Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Boende med särskild service<br>(BmSS) |  | 12 | 12 | 12 | 12 | 12 |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 20 -->
 
@@ -865,6 +868,8 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 11
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 21 -->
 
@@ -892,10 +897,6 @@ Lokalbehoven avser utblicksåren 2030-2034.
 I tabellerna ska behoven kategoriseras enligt stoppljusen (se avsnitt 1). Kategorisering enligt
 stoppljus är att de gröna behoven kommer prioriteras före de röda.
 
-Löp Beskrivning                      Plan   Plan  Plan  Plan Plan
-Kategorisera
-nr                                   2030   2031  2032 2033  2034
-
 Lokalbehov 2025-2029 utblicksår 2030-2034 12
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
@@ -911,6 +912,15 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 12
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+[Tabell 21-3](handlingar.tabeller/21-3.csv)
+
+| Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 
 <!-- sida 22 -->
 
@@ -1003,11 +1013,15 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 14
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 [Tabell 23-3](handlingar.tabeller/23-3.csv)
 
 | Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
@@ -1149,18 +1163,16 @@ behov för 2024 kan inte tas upp här.
 I tabellerna ska behoven kategoriseras enligt stoppljusen (se avsnitt 1). Kategorisering enligt
 stoppljus är att de gröna behoven kommer prioriteras före de röda.
 
-Beskrivning                       Budget Plan Plan Plan Plan Plan
-Löpnr                    Kategorisera
-2024  2025 2026 2027 2028 2029
-
-Särskild bostadsförsörjningskö
-505                                     10   10  10  10  10   10
-(SBF)
-Stödboende för personer med
-513                                                  12
-missbruk och samsjuklighet
-
 Lokalbehov 2025-2029 utblicksår 2030-2034 17
+
+[Tabell 26-1](handlingar.tabeller/26-1.csv)
+
+| Löpnr | Beskrivning | Kategorisera | Budget<br>2024 | Plan<br>2025 | Plan<br>2026 | Plan<br>2027 | Plan<br>2028 | Plan<br>2029 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+| 505 | Särskild bostadsförsörjningskö<br>(SBF) |  | 10 | 10 | 10 | 10 | 10 | 10 |
+| 513 | Stödboende för personer med<br>missbruk och samsjuklighet |  |  |  |  | 12 |  |  |
+|  |  |  |  |  |  |  |  |  |
 
 <!-- sida 27 -->
 
@@ -1182,6 +1194,8 @@ Lokalbehov 2025-2029 utblicksår 2030-2034 18
 
 | Löp<br>nr | Beskrivning | Kategorisera | Plan<br>2030 | Plan<br>2031 | Plan<br>2032 | Plan<br>2033 | Plan<br>2034 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |
 
@@ -20402,76 +20416,83 @@ bedömning var att nämnden i stort säkerställt en ändamålsenlig styrning oc
 
 3.1. Uppföljning av lämnade rekommendationer till nämnden för Service
 
-[Tabell 467-1](handlingar.tabeller/467-1.csv)
+[Tabell 467-468-1](handlingar.tabeller/467-468-1.csv)
 
-| Rekommendation | Nämndens svar på granskningen,<br>2022-03-30 | Uppföljning av vidtagna åtgärder | Vår bedömning |
+| Rekommendation | Nämndens svar på granskningen, | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Överväg att införa styrning<br>samt följa upp kvalitetsmål<br>gällande kundnöjdhet för<br>måltidsverksamheten. | Nämnden uppgav att riktningen för måltidsverksamheten<br>anges i målbild 2023. Kvalitetsmål och kundnöjdhet följs<br>kontinuerligt upp i dialoger med beställande förvaltningar<br>samt genom matråd där matgäster deltar.<br>Vidare uppger nämnden att beställande förvaltningar<br>genomför enkäter med inslag av frågor som berör måltider.<br>Resultatet av enkäterna delas med måltidsverksamheten<br>som omhändertar dessa.<br>Nämnden ansåg att denna uppföljning är tillräcklig för att<br>säkerställa kvalitet och kundnöjdhet. Genomförda<br>uppföljningar avsågs kontinuerligt dokumenteras och<br>återrapporteras till nämnden. | Uppföljningen visar att nämnden för Service inte har<br>arbetat för att införa tydligare styrning gällande<br>kundnöjdhet.<br>Av förvaltningens svar framgår att kundnöjdhet följs<br>upp kontinuerligt i dialoger med beställande<br>förvaltningar exempelvis genom partnerdialoger och<br>presidiedialoger.<br>Beställande förvaltningar genomför enkäter med<br>inslag av frågor som berör måltider. Resultatet av<br>enkäterna delas med måltidsverksamheten som<br>omhändertar dessa.<br>Denna uppföljning anser nämnden för Service vara<br>tillräcklig för att säkerställa kvalitet och kundnöjdhet. | Delvis omhändertagen.<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen.<br>Nämnden har inte utökat<br>styrning genom att införa<br>kvalitetsmål vad gäller<br>kundnöjdhet. Nämnden<br>samlar dock in uppgifter<br>om kundnöjdhet på ett<br>systematiskt sätt. |
-| Säkerställ att protokollen<br>innehåller tillräcklig<br>information för att klargöra<br>innehållet för de muntliga<br>föredragningar som nämnden<br>tar del av. | Nämnden uppgav i sitt svar att de anser sig ha uppfyllt de<br>krav gentemot allmänhetens rätt att ta del av information och<br>beslut enligt kommunallagen. Nämndens sammanträden och<br>information som delges till nämnden är således inte till för<br>allmänheten att ta del av.<br>Ärendet ”Förvaltningschef informerar” är ett renodlat<br>informationsärende där förvaltningschef lyfter aktuell<br>information som berör förvaltningen. Skulle informationen<br>vara av betydande karaktär behandlas informationen i ett<br>separat ärende. | Uppföljningen visar att det framgår vilka/vilket<br>nyckeltal som informerats om från respektive<br>verksamhet i nämndens protokoll under punkten<br>”Förvaltningschef informerar”. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen.<br>Protokoll innehåller<br>information som klargör<br>innehållet som nämnden<br>har tagit del av. |
+|  | 2022-03-30 |  |  |
+| Överväg att införa styrning | Nämnden uppgav att riktningen för måltidsverksamheten | Uppföljningen visar att nämnden för Service inte har | Delvis omhändertagen. |
+| samt följa upp kvalitetsmål | anges i målbild 2023. Kvalitetsmål och kundnöjdhet följs | arbetat för att införa tydligare styrning gällande | Nämnden har delvis |
+| gällande kundnöjdhet för | kontinuerligt upp i dialoger med beställande förvaltningar | kundnöjdhet. | åtgärdat |
+| måltidsverksamheten. | samt genom matråd där matgäster deltar. |  | rekommendationen. |
+|  |  | Av förvaltningens svar framgår att kundnöjdhet följs |  |
+|  |  |  | Nämnden har inte utökat |
+|  | Vidare uppger nämnden att beställande förvaltningar | upp kontinuerligt i dialoger med beställande |  |
+|  |  |  | styrning genom att införa |
+|  | genomför enkäter med inslag av frågor som berör måltider. | förvaltningar exempelvis genom partnerdialoger och |  |
+|  |  |  | kvalitetsmål vad gäller |
+|  | Resultatet av enkäterna delas med måltidsverksamheten | presidiedialoger. |  |
+|  |  |  | kundnöjdhet. Nämnden |
+|  | som omhändertar dessa. |  |  |
+|  |  | Beställande förvaltningar genomför enkäter med | samlar dock in uppgifter |
+|  | Nämnden ansåg att denna uppföljning är tillräcklig för att | inslag av frågor som berör måltider. Resultatet av | om kundnöjdhet på ett |
+|  | säkerställa kvalitet och kundnöjdhet. Genomförda | enkäterna delas med måltidsverksamheten som | systematiskt sätt. |
+|  | uppföljningar avsågs kontinuerligt dokumenteras och | omhändertar dessa. |  |
+|  | återrapporteras till nämnden. |  |  |
+|  |  | Denna uppföljning anser nämnden för Service vara |  |
+|  |  | tillräcklig för att säkerställa kvalitet och kundnöjdhet. |  |
+| Säkerställ att protokollen | Nämnden uppgav i sitt svar att de anser sig ha uppfyllt de | Uppföljningen visar att det framgår vilka/vilket | Omhändertagen |
+| innehåller tillräcklig | krav gentemot allmänhetens rätt att ta del av information och | nyckeltal som informerats om från respektive | Nämnden har åtgärdat |
+| information för att klargöra | beslut enligt kommunallagen. Nämndens sammanträden och | verksamhet i nämndens protokoll under punkten | rekommendationen. |
+| innehållet för de muntliga | information som delges till nämnden är således inte till för | ”Förvaltningschef informerar”. | Protokoll innehåller |
+| föredragningar som nämnden | allmänheten att ta del av. |  | information som klargör |
+| tar del av. |  |  | innehållet som nämnden |
+|  | Ärendet ”Förvaltningschef informerar” är ett renodlat |  |  |
+|  |  |  | har tagit del av. |
+|  | informationsärende där förvaltningschef lyfter aktuell |  |  |
+|  |  |  |  |
+|  | information som berör förvaltningen. Skulle informationen |  |  |
+|  | vara av betydande karaktär behandlas informationen i ett |  |  |
+|  | separat ärende. |  |  |
+| Tydliggör uppföljningen av | Nämnden svarade att verksamhetsplaner med styrkort | Uppföljningen visar att uppföljningen av mål i styrkort | Inte omhändertagen |
+| mål i styrkort eftersom inte | beslutas av förvaltningen och uppföljning sker för att följa | inte har förändrats sedan granskningen 2021. | Nämnden har inte åtgärdat |
+| alla mål följs upp med | utvecklingen. I samband med bokslut lämnar förvaltningen |  | rekommendationen. |
+|  |  | Av svar från förvaltningen framgår att förvaltningen |  |
+| ordinarie processer i | kommentarer, utifrån verksamhetsplan och styrkort, till |  | Nämnden har inte |
+|  |  | följer en stor mängd nyckeltal för att få kunskap om |  |
+| apriluppföljning och | nämnden. Om betydande avvikelser uppkommer redovisas |  | tydliggjort uppföljningen av |
+|  |  | hur det går för verksamheterna. De nyckeltal som |  |
+| delårsrapport. | detta för nämnden. |  | mål i styrkort. |
+|  |  | lyfts för information till nämnden påvisar en trend i |  |
+|  |  |  | Uppföljningen består |
+|  | Vid varje nämndsmöte redovisar förvaltningen nyckeltal från | negativ eller positiv riktning, förflyttning av resultat, |  |
+|  |  |  | fortsatt av en beskrivning |
+|  | styrkortet som har betydande avvikelse, både positivt och | och/eller bibehållen god kvalitet i respektive |  |
+|  |  |  | av arbetet inom olika |
+|  | negativ avvikelse. Redovisningen omfattar utfall och | verksamhet. |  |
+|  |  |  | områden vilket enligt vår |
+|  | målvärde. I mötesprotokollet för nämnden noteras vilka |  |  |
+|  |  | Uppföljningen av förvaltningens styrkort är en | bild varken är en |
+|  | verksamheter vars mått har redovisats. |  |  |
+|  |  | tvåvägskommunikation. Nämnden har alltid möjlighet | uppföljning av en indikator |
+|  | Nämnden anser att uppföljningen av mål i styrkort är tydlig | att ställa frågor och efterfråga nyckeltal. Varje enskilt | eller en avvikelsebaserad |
+|  | och följer den ordning, beskriven ovan, som är beslutad i | nyckeltal är i sig inte relevant för nämnden att följa. | uppföljning. Det finns |
+|  | nämnden. | De behöver analyseras och sättas i ett större | enligt vår mening inte en |
+|  |  | sammanhang, vilket bland annat görs i delårs- och | tydligt logik i vad som |
+|  |  | årsrapporteringen. | redovisas för nämnden vid |
+|  |  |  | uppföljningstillfällena. Vi |
+|  |  | I samband med att nämnden för Service tar fram en |  |
+|  |  |  | noterar dock att ett arbete |
+|  |  | ny målbild under 2023 arbetar förvaltningen med att |  |
+|  |  |  | pågår med avsikt att |
+|  |  | definiera nyckeltal kopplade till målbilden som ska |  |
+|  |  |  | tydliggöra uppföljningen av |
+|  |  | följas upp av nämnden. Detta tror förvaltningen |  |
+|  |  |  | mål i styrkort. |
+|  |  | kommer bidra till att tydliggöra uppföljningen av mål i |  |
+|  |  | styrkort. |  |
 
 <!-- sida 468 -->
-
-Tydliggör uppföljningen av Nämnden svarade att verksamhetsplaner med styrkort
-mål i styrkort eftersom inte beslutas av förvaltningen och uppföljning sker för att följa
-alla mål följs upp med utvecklingen. I samband med bokslut lämnar förvaltningen
-ordinarie processer i kommentarer, utifrån verksamhetsplan och styrkort, till
-apriluppföljning och nämnden. Om betydande avvikelser uppkommer redovisas
-delårsrapport.    detta för nämnden.
-Vid varje nämndsmöte redovisar förvaltningen nyckeltal från
-styrkortet som har betydande avvikelse, både positivt och
-negativ avvikelse. Redovisningen omfattar utfall och
-målvärde. I mötesprotokollet för nämnden noteras vilka
-verksamheter vars mått har redovisats.
-Nämnden anser att uppföljningen av mål i styrkort är tydlig
-och följer den ordning, beskriven ovan, som är beslutad i
-nämnden.
-
-Uppföljningen visar att uppföljningen av mål i styrkort Inte omhändertagen
-
-inte har förändrats sedan granskningen 2021.
-Av svar från förvaltningen framgår att förvaltningen
-följer en stor mängd nyckeltal för att få kunskap om
-hur det går för verksamheterna. De nyckeltal som
-lyfts för information till nämnden påvisar en trend i
-negativ eller positiv riktning, förflyttning av resultat,
-och/eller bibehållen god kvalitet i respektive
-verksamhet.
-Uppföljningen av förvaltningens styrkort är en
-tvåvägskommunikation. Nämnden har alltid möjlighet
-att ställa frågor och efterfråga nyckeltal. Varje enskilt
-nyckeltal är i sig inte relevant för nämnden att följa.
-De behöver analyseras och sättas i ett större
-sammanhang, vilket bland annat görs i delårs- och
-årsrapporteringen.
-I samband med att nämnden för Service tar fram en
-ny målbild under 2023 arbetar förvaltningen med att
-definiera nyckeltal kopplade till målbilden som ska
-följas upp av nämnden. Detta tror förvaltningen
-kommer bidra till att tydliggöra uppföljningen av mål i
-
-Nämnden har inte åtgärdat
-rekommendationen.
-Nämnden har inte
-tydliggjort uppföljningen av
-mål i styrkort.
-Uppföljningen består
-fortsatt av en beskrivning
-av arbetet inom olika
-områden vilket enligt vår
-bild varken är en
-uppföljning av en indikator
-eller en avvikelsebaserad
-uppföljning. Det finns
-enligt vår mening inte en
-tydligt logik i vad som
-redovisas för nämnden vid
-uppföljningstillfällena. Vi
-noterar dock att ett arbete
-pågår med avsikt att
-tydliggöra uppföljningen av
-mål i styrkort.
-
-styrkort.
 
 7
 
@@ -20490,9 +20511,21 @@ stort säkerställt en ändamålsenlig lokalförsörjningsprocess samt hantering
 
 | Rekommendationer | Nämndens svar på granskningen, 2022-06-16 | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Dokumentera rutinen för<br>förvaltningens arbetssätt<br>avseende den interna<br>uthyrningsprocessen | Nämnden svarade att framtagna processer med tillhörande<br>dokumentation ska dokumenteras och publiceras enligt<br>Kungsbacka kommuns processmodell. Arbetet ska vara<br>klart i kvartal tre 2022. | Uppföljningen visar att rutinen för förvaltningens<br>arbetssätt avseende den interna uthyrningsprocessen<br>är dokumenterad i dokumentet Processkartor intern<br>uthyrningsprocess. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen. |
-| Dokumentera rutinen för<br>förvaltningens arbetssätt<br>avseende internhyresavtal. | Nämnden svarade att framtagna processer med tillhörande<br>dokumentation ska dokumenteras och publiceras enligt<br>Kungsbacka kommuns processmodell. Arbetet ska vara<br>klart i kvartal tre 2022 | Uppföljningen visar att rutinen för förvaltningens<br>arbetssätt avseende internhyresavtal är dokumenterad<br>i dokumentet Processkartor intern uthyrningsprocess. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen. |
-| Verka för att uppdatera<br>riktlinjerna för internhyra så<br>att de överensstämmer med<br>nuvarande arbetssätt | Nämnden svarade att förvaltningen har diskuterat frågat om<br>att uppdatera riktlinjer för internhyra med Kommunlednings-<br>kontoret och beräknar att riktlinjerna är beslutade och klara i<br>kvartal tre 2022. | Uppföljningen visar att Riktlinjerna är uppdaterade och<br>överensstämmer med nuvarande arbetssätt. De ska<br>enligt uppgift synkroniseras med kommunens riktlinjer<br>för styrdokument innan de beslutas. Service fortsätter<br>att verka för att detta sker genom samarbete med<br>kommunledningskontoret. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen. |
+|  |  |  |  |
+| Dokumentera rutinen för | Nämnden svarade att framtagna processer med tillhörande | Uppföljningen visar att rutinen för förvaltningens | Omhändertagen |
+| förvaltningens arbetssätt | dokumentation ska dokumenteras och publiceras enligt | arbetssätt avseende den interna uthyrningsprocessen | Nämnden har åtgärdat |
+| avseende den interna | Kungsbacka kommuns processmodell. Arbetet ska vara | är dokumenterad i dokumentet Processkartor intern | rekommendationen. |
+| uthyrningsprocessen | klart i kvartal tre 2022. | uthyrningsprocess. |  |
+| Dokumentera rutinen för | Nämnden svarade att framtagna processer med tillhörande | Uppföljningen visar att rutinen för förvaltningens | Omhändertagen |
+| förvaltningens arbetssätt | dokumentation ska dokumenteras och publiceras enligt | arbetssätt avseende internhyresavtal är dokumenterad | Nämnden har åtgärdat |
+| avseende internhyresavtal. | Kungsbacka kommuns processmodell. Arbetet ska vara | i dokumentet Processkartor intern uthyrningsprocess. | rekommendationen. |
+|  | klart i kvartal tre 2022 |  |  |
+| Verka för att uppdatera | Nämnden svarade att förvaltningen har diskuterat frågat om | Uppföljningen visar att Riktlinjerna är uppdaterade och | Omhändertagen |
+| riktlinjerna för internhyra så | att uppdatera riktlinjer för internhyra med Kommunlednings- | överensstämmer med nuvarande arbetssätt. De ska | Nämnden har åtgärdat |
+| att de överensstämmer med | kontoret och beräknar att riktlinjerna är beslutade och klara i | enligt uppgift synkroniseras med kommunens riktlinjer | rekommendationen. |
+| nuvarande arbetssätt | kvartal tre 2022. | för styrdokument innan de beslutas. Service fortsätter |  |
+|  |  | att verka för att detta sker genom samarbete med |  |
+|  |  | kommunledningskontoret. |  |
 
 <!-- sida 470 -->
 
@@ -20507,10 +20540,42 @@ fullt ut säkerställt en ändamålsenlig styrning, uppföljning och intern kont
 
 [Tabell 470-1](handlingar.tabeller/470-1.csv)
 
-| Rekommendation | Nämndens svar på granskningen,<br>2022-05-19 | Uppföljning av vidtagna åtgärder | Vår bedömning |
+| Rekommendation | Nämndens svar på granskningen, | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Säkerställ att nämndens<br>styrning och uppföljning<br>omfattar barnperspektivet i<br>enlighet med lag och<br>föreskrifter | Nämnden svarade att barnperspektivet har beaktats i<br>de fall barn har varit påverkade av åtgärdsarbetet.<br>Nämnden tar till sig kommunrevisionens synpunkter att<br>barnperspektivet inte varit dokumenterat och<br>kommunicerat till den önskvärda grad. Nämnden vill<br>därför förtydliga att barnperspektivet har beaktats i<br>samtliga verksamheter, men att i vissa verksamheter<br>har det konstaterats vara icke aktuellt.<br>Nämnden uppdrar till förvaltningen att dokumentera då<br>ställningstagande om barnperspektivet har gjorts, även<br>då det konstaterats inte vara tillämpligt. | Uppföljningen visar att barnkonsekvensanalyser har<br>genomförts vid större satsningar och projekt under året. En<br>prövning av barnets bästa har genomförts i framtagandet av<br>”Riktlinje för ambitionsnivåer” och underlaget har bifogats till<br>nämnden inför beslut 22-06-16. Inom ramen för Projekt ”Rätt<br>att bo rätt” har en prövning av barnets bästa genomförts och<br>dokumenterats inför beslut om handbok för arbetssättet. En<br>prövning av barnets bästa har genomförts utifrån<br>förvaltningens genomförandeplan 2023. I nämndens protokoll<br>från 2023 framgår inte huruvida barnperspektivet beaktats i<br>samband med beslut.<br>Vidare framgår i förvaltningens svar att förvaltningsledningen i<br>mars 2023 beslutade att ta fram en rutin för att säkerställa ett<br>barnrättsperspektiv i nämndens styrning och uppföljning.<br>Rutinen ska reglera när en prövning ska ske samt hur och var<br>prövningen ska dokumenteras. | Delvis omhändertagen<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen.<br>Barnkonsekvensanalyser<br>har genomförts och<br>dokumenterats vid större<br>projekt. Däremot framgår<br>det inte i nämndens<br>protokoll huruvida<br>barnperspektivet har<br>beaktats vid beslut. Vi<br>noterar att en rutin ska tas<br>fram med syfte att reglera<br>när en prövning ska ske<br>samt hur den ska<br>dokumenteras. |
-| Säkerställ att risk- och<br>konsekvensanalyser<br>genomförs och följs upp på<br>ett systematiskt sätt i<br>enlighet med nämndens<br>ledningssystem för<br>systematiskt kvalitetsarbete. | Nämnden svarade att de uppdrar åt förvaltningen att ta<br>fram en plan för hur efterlevnaden av ledningssystemet<br>ska kontrolleras och säkerställas. Planen ska redovisas<br>senast 30 november 2022 till nämnden. | Uppföljningen visar att förvaltningen inte har tagit fram en plan<br>för hur efterlevnaden av ledningssystemet ska kontrolleras.<br>Ingen uppföljning har gjorts för huruvida riskanalyser<br>genomförs i enlighet med riktlinjen för Ledningssystem för<br>systematiskt kvalitetsarbete. Enligt uppgift ska riktlinjen<br>revideras under 2023 vilket kommer tydliggöra att större<br>förändringar behöver föregås av riskbedömningar utifrån ett<br>brukarperspektiv. Riskbedömningar inför större | Inte omhändertagen<br>Nämnden har inte<br>åtgärdat<br>rekommendationen.<br>Nämnden har inte tagit<br>fram en plan för hur<br>efterlevnad av |
+|  | 2022-05-19 |  |  |
+| Säkerställ att nämndens | Nämnden svarade att barnperspektivet har beaktats i | Uppföljningen visar att barnkonsekvensanalyser har | Delvis omhändertagen |
+| styrning och uppföljning | de fall barn har varit påverkade av åtgärdsarbetet. | genomförts vid större satsningar och projekt under året. En | Nämnden har delvis |
+| omfattar barnperspektivet i | Nämnden tar till sig kommunrevisionens synpunkter att | prövning av barnets bästa har genomförts i framtagandet av | åtgärdat |
+| enlighet med lag och | barnperspektivet inte varit dokumenterat och | ”Riktlinje för ambitionsnivåer” och underlaget har bifogats till | rekommendationen. |
+| föreskrifter | kommunicerat till den önskvärda grad. Nämnden vill | nämnden inför beslut 22-06-16. Inom ramen för Projekt ”Rätt | Barnkonsekvensanalyser |
+|  | därför förtydliga att barnperspektivet har beaktats i | att bo rätt” har en prövning av barnets bästa genomförts och | har genomförts och |
+|  | samtliga verksamheter, men att i vissa verksamheter | dokumenterats inför beslut om handbok för arbetssättet. En | dokumenterats vid större |
+|  | har det konstaterats vara icke aktuellt. | prövning av barnets bästa har genomförts utifrån | projekt. Däremot framgår |
+|  |  | förvaltningens genomförandeplan 2023. I nämndens protokoll | det inte i nämndens |
+|  | Nämnden uppdrar till förvaltningen att dokumentera då |  |  |
+|  |  | från 2023 framgår inte huruvida barnperspektivet beaktats i | protokoll huruvida |
+|  | ställningstagande om barnperspektivet har gjorts, även |  |  |
+|  |  | samband med beslut. | barnperspektivet har |
+|  | då det konstaterats inte vara tillämpligt. |  |  |
+|  |  |  | beaktats vid beslut. Vi |
+|  |  | Vidare framgår i förvaltningens svar att förvaltningsledningen i |  |
+|  |  |  | noterar att en rutin ska tas |
+|  |  | mars 2023 beslutade att ta fram en rutin för att säkerställa ett |  |
+|  |  |  | fram med syfte att reglera |
+|  |  | barnrättsperspektiv i nämndens styrning och uppföljning. |  |
+|  |  |  | när en prövning ska ske |
+|  |  | Rutinen ska reglera när en prövning ska ske samt hur och var |  |
+|  |  |  | samt hur den ska |
+|  |  | prövningen ska dokumenteras. |  |
+|  |  |  | dokumenteras. |
+| Säkerställ att risk- och | Nämnden svarade att de uppdrar åt förvaltningen att ta | Uppföljningen visar att förvaltningen inte har tagit fram en plan | Inte omhändertagen |
+| konsekvensanalyser | fram en plan för hur efterlevnaden av ledningssystemet | för hur efterlevnaden av ledningssystemet ska kontrolleras. | Nämnden har inte |
+| genomförs och följs upp på | ska kontrolleras och säkerställas. Planen ska redovisas | Ingen uppföljning har gjorts för huruvida riskanalyser | åtgärdat |
+| ett systematiskt sätt i | senast 30 november 2022 till nämnden. | genomförs i enlighet med riktlinjen för Ledningssystem för | rekommendationen. |
+| enlighet med nämndens |  | systematiskt kvalitetsarbete. Enligt uppgift ska riktlinjen | Nämnden har inte tagit |
+| ledningssystem för |  | revideras under 2023 vilket kommer tydliggöra att större | fram en plan för hur |
+| systematiskt kvalitetsarbete. |  | förändringar behöver föregås av riskbedömningar utifrån ett | efterlevnad av |
+|  |  | brukarperspektiv. Riskbedömningar inför större |  |
 
 <!-- sida 471 -->
 
@@ -20518,9 +20583,44 @@ fullt ut säkerställt en ändamålsenlig styrning, uppföljning och intern kont
 
 [Tabell 471-1](handlingar.tabeller/471-1.csv)
 
-|  |  | organisationsförändringar ska redovisas till nämnd. Riktlinjen<br>ska även förtydliga när prövning av barnets bästa ska<br>genomföras och informeras nämnden.<br>Av förvaltningens svar framgår att det genomförs olika typer<br>av riskanalyser som även nämnden informeras om utifrån en<br>årlig systematik eller av förekommen anledning. Exempelvis<br>genomförs riskanalyser utifrån<br>grunduppdrag/socialtjänstprocess samt utifrån den årliga<br>intern kontrollen vilken ligger till grund för planerade<br>granskningar och åtgärder. Riskanalyser av händelser ska<br>med start i juni 2023 följas upp kvartalsvis till nämnden. | ledningssystemet ska<br>kontrolleras.<br>. |
+|  |  | organisationsförändringar ska redovisas till nämnd. Riktlinjen | ledningssystemet ska |
 | --- | --- | --- | --- |
-| Säkerställ att det synliggörs<br>hur verksamhetens kvalitet<br>har påverkats utifrån<br>besparingsarbetet | Nämnden svarade att det systematiska kvalitetsarbetet<br>uppges ha fungerat väl och nämnden har under<br>arbetets gång korrigerat brister när de har uppdagats.<br>Nämnden hade ett pågående arbete avseende<br>ambitionsnivåer hos myndighetsutövande<br>verksamheter och öppenvårdsverksamheter. Arbetet<br>skulle bidra till att det framöver finns beslutade nivåer<br>att utgå ifrån vid uppföljning av verksamhetens kvalitet.<br>Kommunrevisionens granskning föregår nämndens<br>kvalitetsuppföljning som görs i brukarenkät.<br>Brukarenkäten ska genomföras på nämndens<br>verksamheter hösten 2022. Nämnden ser behovet av<br>att mäta kvalitet mer frekvent än vartannat år som görs<br>i dagsläget och ger därför förvaltningen i uppdrag att<br>undersöka och utreda möjligheten att ofta mäta den<br>upplevda kvaliteten hos våra brukare och klienter. | Uppföljningen visar att verksamhetens kvalitet följs upp via<br>brukarundersökningar och i den årliga Kvalitetsberättelsen.<br>Av förvaltningens svar framgår att ingen minskning i kvalitet<br>syns i dessa underlag för åren då åtgärdsarbetet verkställts.<br>Resultaten från brukarundersökningar visade inga<br>försämringar i kvalitet och därmed uppges det inte finnas<br>något behov av åtgärder specifikt utifrån genomfört<br>åtgärdsarbetet. Nämnden får löpnade uppföljning av kvalitén<br>vid nämndsammanträden.<br>Det har inte fastställts nivåer att utgå från vid uppföljning av<br>verksamhetens kvalitet. Däremot har en systematik för<br>uppföljning av kvalitet till nämnden tagits fram. Från och med<br>mars 2023 redovisas ett urval av nyckeltal till nämnden varje<br>månad. Utöver månadsrapporten kommer en fördjupad<br>månadsrapport delges nämnden två gånger per år. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen.<br>Uppföljningar som gjorts<br>av verksamhetens kvalitet<br>visar ingen påverkan<br>orsakad av<br>besparingsarbetet. Vi<br>noterar dock att det inte<br>fastställts nivåer att utgå<br>från vid uppföljning av<br>kvalitet. |
+|  |  | ska även förtydliga när prövning av barnets bästa ska | kontrolleras. |
+|  |  | genomföras och informeras nämnden. |  |
+|  |  |  | . |
+|  |  | Av förvaltningens svar framgår att det genomförs olika typer |  |
+|  |  |  |  |
+|  |  | av riskanalyser som även nämnden informeras om utifrån en |  |
+|  |  | årlig systematik eller av förekommen anledning. Exempelvis |  |
+|  |  | genomförs riskanalyser utifrån |  |
+|  |  | grunduppdrag/socialtjänstprocess samt utifrån den årliga |  |
+|  |  | intern kontrollen vilken ligger till grund för planerade |  |
+|  |  | granskningar och åtgärder. Riskanalyser av händelser ska |  |
+|  |  | med start i juni 2023 följas upp kvartalsvis till nämnden. |  |
+| Säkerställ att det synliggörs | Nämnden svarade att det systematiska kvalitetsarbetet | Uppföljningen visar att verksamhetens kvalitet följs upp via | Omhändertagen |
+| hur verksamhetens kvalitet | uppges ha fungerat väl och nämnden har under | brukarundersökningar och i den årliga Kvalitetsberättelsen. | Nämnden har åtgärdat |
+| har påverkats utifrån | arbetets gång korrigerat brister när de har uppdagats. |  | rekommendationen. |
+|  |  | Av förvaltningens svar framgår att ingen minskning i kvalitet |  |
+| besparingsarbetet |  |  | Uppföljningar som gjorts |
+|  | Nämnden hade ett pågående arbete avseende | syns i dessa underlag för åren då åtgärdsarbetet verkställts. |  |
+|  |  |  | av verksamhetens kvalitet |
+|  | ambitionsnivåer hos myndighetsutövande | Resultaten från brukarundersökningar visade inga |  |
+|  |  |  | visar ingen påverkan |
+|  | verksamheter och öppenvårdsverksamheter. Arbetet | försämringar i kvalitet och därmed uppges det inte finnas |  |
+|  |  |  | orsakad av |
+|  | skulle bidra till att det framöver finns beslutade nivåer | något behov av åtgärder specifikt utifrån genomfört |  |
+|  |  |  | besparingsarbetet. Vi |
+|  | att utgå ifrån vid uppföljning av verksamhetens kvalitet. | åtgärdsarbetet. Nämnden får löpnade uppföljning av kvalitén |  |
+|  |  |  | noterar dock att det inte |
+|  |  | vid nämndsammanträden. |  |
+|  | Kommunrevisionens granskning föregår nämndens |  | fastställts nivåer att utgå |
+|  | kvalitetsuppföljning som görs i brukarenkät. | Det har inte fastställts nivåer att utgå från vid uppföljning av | från vid uppföljning av |
+|  | Brukarenkäten ska genomföras på nämndens | verksamhetens kvalitet. Däremot har en systematik för | kvalitet. |
+|  | verksamheter hösten 2022. Nämnden ser behovet av | uppföljning av kvalitet till nämnden tagits fram. Från och med |  |
+|  | att mäta kvalitet mer frekvent än vartannat år som görs | mars 2023 redovisas ett urval av nyckeltal till nämnden varje |  |
+|  | i dagsläget och ger därför förvaltningen i uppdrag att | månad. Utöver månadsrapporten kommer en fördjupad |  |
+|  | undersöka och utreda möjligheten att ofta mäta den | månadsrapport delges nämnden två gånger per år. |  |
+|  | upplevda kvaliteten hos våra brukare och klienter. |  |  |
 
 <!-- sida 472 -->
 
@@ -20541,8 +20641,33 @@ utforma.
 
 | Rekommendation | Styrelsens svar på granskningen, 2022-01-25 | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Tillse att en kommun-<br>övergripande handlingsplan<br>för att motverka kvalificerade<br>välfärdsbrott utarbetas | Kommunstyrelsen svarade att på övergripande nivå är det<br>förebyggande arbetet mot välfärdsbrottslighet en del av det<br>brottsförebyggande arbetet som helhet vilket leds från<br>förvaltningen för Kultur- och Fritid.<br>Kommunstyrelsen besvarade nyligen Justitie-<br>departementets remiss: Kommuner mot brott (SOU<br>2021:49) där ett antal brottsförebyggande åtgärder föreslås<br>bli lagstadgade från och med 2023. Dessa åtgärder finns<br>eller är under uppbyggnad i Kungsbacka kommun idag.<br>Genom insamling av material och analyser från statistik,<br>trygghetsdialoger och medarbetardialoger har fyra<br>områden prioriterats gemensamt av kommun och polis för<br>de närmaste åren. Brottsförebyggande rådet (BRÅ) har i<br>uppdrag att återkomma med övergripande aktiviteter per<br>område i december 2021 och förslaget börjar med att en<br>kartläggning görs. Planen formas fortsatt under våren<br>2022. | Uppföljningen visar att Kommunstyrelsen inte har tagit<br>fram en kommunövergripande handlingsplan för att<br>motverka kvalificerade välfärdsbrott.<br>I svar på uppföljande frågor menar kommunstyrelsen att<br>det är i varje nämnd, och vidare på varje enhet, som<br>frågorna kring att bli utsatt för välfärdsbrott uppstår.<br>Därav bör arbetet med att utveckla rutiner och öka<br>kunskapen ske på berörda enheter i kommunen. En<br>kommungemensam handlingsplan skulle bli för urvattnad<br>och inte fylla syftet att utveckla förmåga att upptäcka<br>välfärdsbrott. | Inte omhändertagen<br>Styrelsen har inte åtgärdat<br>rekommendationen.<br>Övergripande<br>styrdokument på området<br>saknas alltjämt då<br>styrelsen inte utarbetat en<br>handlingsplan kopplad till<br>kvalificerade välfärdsbrott. |
-| Tillse att kommun-<br>övergripande riktlinjer kopplat | Kommunstyrelsen svarade att i enlighet med rapportens<br>rekommendationer om riskanalys och regelverk kan<br>flertalet av dessa lösas i förvaltningarnas dagliga rutiner | Uppföljningen visar att kommunstyrelsen inte har tagit<br>fram kommunövergripande riktlinjer kopplat till<br>kvalificerade välfärdsbrott i vidare bemärkelse. I enlighet | Inte omhändertagen<br>Styrelsen har inte åtgärdat<br>rekommendationen. |
+|  |  |  |  |
+| Tillse att en kommun- | Kommunstyrelsen svarade att på övergripande nivå är det | Uppföljningen visar att Kommunstyrelsen inte har tagit | Inte omhändertagen |
+| övergripande handlingsplan | förebyggande arbetet mot välfärdsbrottslighet en del av det | fram en kommunövergripande handlingsplan för att | Styrelsen har inte åtgärdat |
+| för att motverka kvalificerade | brottsförebyggande arbetet som helhet vilket leds från | motverka kvalificerade välfärdsbrott. | rekommendationen. |
+| välfärdsbrott utarbetas | förvaltningen för Kultur- och Fritid. |  | Övergripande |
+|  |  | I svar på uppföljande frågor menar kommunstyrelsen att | styrdokument på området |
+|  | Kommunstyrelsen besvarade nyligen Justitie- |  |  |
+|  |  | det är i varje nämnd, och vidare på varje enhet, som | saknas alltjämt då |
+|  | departementets remiss: Kommuner mot brott (SOU |  |  |
+|  |  | frågorna kring att bli utsatt för välfärdsbrott uppstår. | styrelsen inte utarbetat en |
+|  | 2021:49) där ett antal brottsförebyggande åtgärder föreslås |  |  |
+|  |  | Därav bör arbetet med att utveckla rutiner och öka | handlingsplan kopplad till |
+|  | bli lagstadgade från och med 2023. Dessa åtgärder finns |  |  |
+|  |  | kunskapen ske på berörda enheter i kommunen. En | kvalificerade välfärdsbrott. |
+|  | eller är under uppbyggnad i Kungsbacka kommun idag. |  |  |
+|  |  | kommungemensam handlingsplan skulle bli för urvattnad |  |
+|  | Genom insamling av material och analyser från statistik, | och inte fylla syftet att utveckla förmåga att upptäcka |  |
+|  | trygghetsdialoger och medarbetardialoger har fyra | välfärdsbrott. |  |
+|  | områden prioriterats gemensamt av kommun och polis för |  |  |
+|  | de närmaste åren. Brottsförebyggande rådet (BRÅ) har i |  |  |
+|  | uppdrag att återkomma med övergripande aktiviteter per |  |  |
+|  | område i december 2021 och förslaget börjar med att en |  |  |
+|  | kartläggning görs. Planen formas fortsatt under våren |  |  |
+|  | 2022. |  |  |
+| Tillse att kommun- | Kommunstyrelsen svarade att i enlighet med rapportens | Uppföljningen visar att kommunstyrelsen inte har tagit | Inte omhändertagen |
+| övergripande riktlinjer kopplat | rekommendationer om riskanalys och regelverk kan | fram kommunövergripande riktlinjer kopplat till | Styrelsen har inte åtgärdat |
+|  | flertalet av dessa lösas i förvaltningarnas dagliga rutiner | kvalificerade välfärdsbrott i vidare bemärkelse. I enlighet | rekommendationen. |
 
 <!-- sida 473 -->
 
@@ -20550,10 +20675,47 @@ utforma.
 
 [Tabell 473-1](handlingar.tabeller/473-1.csv)
 
-| till kvalificerade välfärdsbrott i<br>vidare bemärkelse utarbetas. | och arbetskultur. Kommunstyrelsen vill inte föregripa<br>nämndernas åtgärder men kommer att tillsammans med<br>nämnderna utveckla styrningen om behov framkommer. | med resonemanget i ovan svar hänvisar<br>kommunstyrelsens förvaltning till nämndernas och<br>enheternas eget ansvar. | Övergripande<br>styrdokument på området<br>saknas alltjämt då<br>styrelsen inte utarbetat<br>riktlinjer kopplade till<br>kvalificerade välfärdsbrott. |
+| till kvalificerade välfärdsbrott i | och arbetskultur. Kommunstyrelsen vill inte föregripa | med resonemanget i ovan svar hänvisar | Övergripande |
 | --- | --- | --- | --- |
-| Tillse att uppföljningen av<br>nämnders arbete mot<br>kvalificerade välfärdsbrott<br>förstärks | Kommunstyrelsen svarade att uppföljningen av välfärds-<br>brottslighet kommer att tas med som en del av det årliga<br>arbetet inom intern kontroll med start 2022. | Uppföljningen visar att risken för korruption ingår i<br>internkontrollplan 2023 för styrelse och nämnder. I svar<br>på den uppföljande granskningen framgår att kontrollen<br>innebär att varje nämnd ska göra en verksamhetsspecifik<br>inventering och nulägesbeskrivning av riskerna; vilka<br>utbildningsinsatser som gjorts, vilket förebyggande<br>arbete som görs, hur incidenter/händelser följs upp med<br>systematik och statistik.<br>I svar uppges att Kommunstyrelsen följt upp arbetet mot<br>kvalificerade välfärdbrott vid ordinarie uppföljning i april,<br>augusti och årsbokslut 2022. Kommunstyrelsen<br>konstaterar att arbetet har påbörjats. Huvudsakligen<br>genom att utöka kunskapen i ämnet, men hos<br>exempelvis nämnden för gymnasie- & arbetsmarknad<br>även genom nya checklistor och kontroller. Vid<br>dokumentstudier inom ramen för granskning kan vi inte<br>se att uppföljning av arbetet mot kvalificerade<br>välfärdsbrott har dokumenterats i delårsrapport och<br>årsbokslut. | Delvis omhändertagen<br>Styrelsen har delvis<br>åtgärdat<br>rekommendationen. En<br>kontrollpunkt rörande<br>korruption ingår i<br>nämndernas<br>internkontrollplan 2023.<br>Det är vår mening att<br>inkludering i<br>internkontrollplan inte<br>säkerställer att uppföljning<br>stärks på lång sikt då<br>internkontrollplaner är<br>ettåriga dokument. |
-| Tillse att kommunens<br>övergripande samordning,<br>infrastruktur och<br>stödverksamhet för<br>arbetet mot välfärdsbrott<br>förstärks | Kommunstyrelsen svarade att ansvaret för samordning av<br>brottsförebyggande arbete är tydligt och ligger enligt<br>reglementet hos nämnden för Kultur & Fritid. Där finns en<br>specialistfunktion för brottsförebyggande arbete som bland<br>annat leder arbetet i BRÅ där flera förvaltningar medverkar<br>med berörda myndigheter. Vidare har varje nämnd enligt | Kultur & fritid genomförde under mitten av 2022 en<br>trygghetsundersökning initierad av det lokala<br>brottsförebyggande rådet. Avsikten var att utvärdera de<br>kommunanställdas upplevelser, utsatthet och uppfattning<br>om stöd och hjälp. Undersökningens resultat tyder på att<br>det i Kungsbacka kommun verkar vara förhållandevis låg | Delvis omhändertagen<br>Styrelsen har delvis<br>åtgärdat<br>rekommendationen.<br>Kommunens samordning<br>och stödverksamhet för |
+| vidare bemärkelse utarbetas. | nämndernas åtgärder men kommer att tillsammans med | kommunstyrelsens förvaltning till nämndernas och | styrdokument på området |
+|  | nämnderna utveckla styrningen om behov framkommer. | enheternas eget ansvar. | saknas alltjämt då |
+|  |  |  | styrelsen inte utarbetat |
+|  |  |  | riktlinjer kopplade till |
+|  |  |  | kvalificerade välfärdsbrott. |
+| Tillse att uppföljningen av | Kommunstyrelsen svarade att uppföljningen av välfärds- | Uppföljningen visar att risken för korruption ingår i | Delvis omhändertagen |
+| nämnders arbete mot | brottslighet kommer att tas med som en del av det årliga | internkontrollplan 2023 för styrelse och nämnder. I svar | Styrelsen har delvis |
+| kvalificerade välfärdsbrott | arbetet inom intern kontroll med start 2022. | på den uppföljande granskningen framgår att kontrollen | åtgärdat |
+| förstärks |  | innebär att varje nämnd ska göra en verksamhetsspecifik | rekommendationen. En |
+|  |  | inventering och nulägesbeskrivning av riskerna; vilka | kontrollpunkt rörande |
+|  |  | utbildningsinsatser som gjorts, vilket förebyggande | korruption ingår i |
+|  |  | arbete som görs, hur incidenter/händelser följs upp med | nämndernas |
+|  |  | systematik och statistik. | internkontrollplan 2023. |
+|  |  |  | Det är vår mening att |
+|  |  | I svar uppges att Kommunstyrelsen följt upp arbetet mot |  |
+|  |  |  | inkludering i |
+|  |  | kvalificerade välfärdbrott vid ordinarie uppföljning i april, |  |
+|  |  |  | internkontrollplan inte |
+|  |  | augusti och årsbokslut 2022. Kommunstyrelsen |  |
+|  |  |  | säkerställer att uppföljning |
+|  |  | konstaterar att arbetet har påbörjats. Huvudsakligen |  |
+|  |  |  | stärks på lång sikt då |
+|  |  | genom att utöka kunskapen i ämnet, men hos |  |
+|  |  |  | internkontrollplaner är |
+|  |  | exempelvis nämnden för gymnasie- & arbetsmarknad |  |
+|  |  |  | ettåriga dokument. |
+|  |  | även genom nya checklistor och kontroller. Vid |  |
+|  |  | dokumentstudier inom ramen för granskning kan vi inte |  |
+|  |  | se att uppföljning av arbetet mot kvalificerade |  |
+|  |  | välfärdsbrott har dokumenterats i delårsrapport och |  |
+|  |  | årsbokslut. |  |
+|  |  |  |  |
+|  |  |  |  |
+| Tillse att kommunens | Kommunstyrelsen svarade att ansvaret för samordning av | Kultur & fritid genomförde under mitten av 2022 en | Delvis omhändertagen |
+| övergripande samordning, | brottsförebyggande arbete är tydligt och ligger enligt | trygghetsundersökning initierad av det lokala | Styrelsen har delvis |
+| infrastruktur och | reglementet hos nämnden för Kultur & Fritid. Där finns en | brottsförebyggande rådet. Avsikten var att utvärdera de | åtgärdat |
+| stödverksamhet för | specialistfunktion för brottsförebyggande arbete som bland | kommunanställdas upplevelser, utsatthet och uppfattning | rekommendationen. |
+| arbetet mot välfärdsbrott | annat leder arbetet i BRÅ där flera förvaltningar medverkar | om stöd och hjälp. Undersökningens resultat tyder på att | Kommunens samordning |
+| förstärks | med berörda myndigheter. Vidare har varje nämnd enligt | det i Kungsbacka kommun verkar vara förhållandevis låg | och stödverksamhet för |
 
 <!-- sida 474 -->
 
@@ -20563,15 +20725,52 @@ utforma.
 
 [Tabell 474-1](handlingar.tabeller/474-1.csv)
 
-|  | reglemente ansvar för intern kontroll inom nämndens<br>verksamhetsområde.<br>I arbetet med årliga riskanalyser i intern kontroll kan<br>samverkan mellan nämnderna stärkas och tydligare<br>uppmärksamma risken för välfärdsbrottslighet.<br>Riskanalyser avseende intern kontrollplan 2023 görs under<br>våren 2022 med stöd av nätverket för kvalitet och intern<br>kontroll som leds av kommunledningskontoret. | omfattning av otillåten påverkan och korruption i<br>jämförelse med andra kommuner som genomfört<br>liknande undersökningar.<br>Granskningen visar att efter undersökningen utvecklade<br>det lokala brottsförebyggande rådet i samarbete med<br>representanter från varje förvaltning ett utbildnings-<br>underlag och en checklista för att öka medvetenheten<br>om korruption och otillåten påverkan.<br>Utbildningsmaterialet innehåller exempelvis relevanta<br>begrepp, konsekvenser av otillåten påverkan och<br>korruption, diskussionsfrågor, och råd om var en person<br>kan vända sig för att få stöd och hjälp vid utsatthet.<br>Checklistan är ett verktyg för olika aktörer med juridiska<br>skyldigheter och/eller behov av stöd och hjälp vid<br>utsatthet för otillåten påverkan, korruption, hot och våld. | arbetet mot välfärdsbrott<br>har stärkts genom<br>stödjande dokumentation<br>för arbetet. Enligt vår<br>mening bör arbetet<br>utvecklas utöver<br>korruption och otillåten<br>påverkan då kommunen<br>riskerar att inte i tillräckligt<br>stor utsträckning arbeta<br>med andra typer av<br>externa bedrägerier där<br>personen skyldig till<br>bedrägeriet inte är<br>anställd i kommunen.<br>Exempelvis assistansfusk<br>och biståndsfusk. |
+|  | reglemente ansvar för intern kontroll inom nämndens | omfattning av otillåten påverkan och korruption i | arbetet mot välfärdsbrott |
 | --- | --- | --- | --- |
-| Tillse att nämnder samlar<br>information och för statistik<br>kopplat till kvalificerade<br>välfärdsbrott och regelbundet<br>rapporterar dessa till<br>kommunstyrelsen | Kommunstyrelsen svarade att arbete pågår på flera<br>områden inom kommunen mot en mer datadriven<br>utveckling vilket kan förväntas ge bättre fakta- och<br>statistikunderlag även i sammanhang av<br>brottsförebyggande arbete, inklusive välfärdsbrottslighet.<br>Arbetet leds huvudsakligen från kommunledningskontoret<br>och pågår 2021 och 2022. | Det finns inte särskilt framtagen statistik kopplat till<br>kvalificerade välfärdsbrott. Trygghetsundersökningen<br>genomförd av Kultur & fritid visade att utsattheten för<br>otillåten påverkan och korruption tycks vara<br>förhållandevis låg i Kungsbacka kommun. Majoriteten av<br>incidenterna rapporteras till chefer men polisanmäls<br>sannolikt inte då incidenterna typiskt sett inte anses vara<br>tillräckligt allvarliga. | Inte omhändertagen<br>Styrelsen har inte åtgärdat<br>rekommendationen. |
+|  | verksamhetsområde. | jämförelse med andra kommuner som genomfört | har stärkts genom |
+|  |  | liknande undersökningar. | stödjande dokumentation |
+|  | I arbetet med årliga riskanalyser i intern kontroll kan |  |  |
+|  |  |  | för arbetet. Enligt vår |
+|  | samverkan mellan nämnderna stärkas och tydligare | Granskningen visar att efter undersökningen utvecklade |  |
+|  |  |  | mening bör arbetet |
+|  | uppmärksamma risken för välfärdsbrottslighet. | det lokala brottsförebyggande rådet i samarbete med |  |
+|  |  |  | utvecklas utöver |
+|  | Riskanalyser avseende intern kontrollplan 2023 görs under | representanter från varje förvaltning ett utbildnings- |  |
+|  |  |  | korruption och otillåten |
+|  | våren 2022 med stöd av nätverket för kvalitet och intern | underlag och en checklista för att öka medvetenheten |  |
+|  |  |  | påverkan då kommunen |
+|  | kontroll som leds av kommunledningskontoret. | om korruption och otillåten påverkan. |  |
+|  |  |  | riskerar att inte i tillräckligt |
+|  |  | Utbildningsmaterialet innehåller exempelvis relevanta |  |
+|  |  |  | stor utsträckning arbeta |
+|  |  | begrepp, konsekvenser av otillåten påverkan och |  |
+|  |  |  | med andra typer av |
+|  |  | korruption, diskussionsfrågor, och råd om var en person |  |
+|  |  |  | externa bedrägerier där |
+|  |  | kan vända sig för att få stöd och hjälp vid utsatthet. |  |
+|  |  |  | personen skyldig till |
+|  |  | Checklistan är ett verktyg för olika aktörer med juridiska |  |
+|  |  |  | bedrägeriet inte är |
+|  |  | skyldigheter och/eller behov av stöd och hjälp vid |  |
+|  |  |  | anställd i kommunen. |
+|  |  | utsatthet för otillåten påverkan, korruption, hot och våld. |  |
+|  |  |  | Exempelvis assistansfusk |
+|  |  |  | och biståndsfusk. |
+| Tillse att nämnder samlar<br>information och för statistik<br>kopplat till kvalificerade<br>välfärdsbrott och regelbundet<br>rapporterar dessa till<br>kommunstyrelsen | Kommunstyrelsen svarade att arbete pågår på flera | Det finns inte särskilt framtagen statistik kopplat till | Inte omhändertagen |
+|  | områden inom kommunen mot en mer datadriven | kvalificerade välfärdsbrott. Trygghetsundersökningen | Styrelsen har inte åtgärdat |
+|  | utveckling vilket kan förväntas ge bättre fakta- och | genomförd av Kultur & fritid visade att utsattheten för | rekommendationen. |
+|  | statistikunderlag även i sammanhang av | otillåten påverkan och korruption tycks vara |  |
+|  | brottsförebyggande arbete, inklusive välfärdsbrottslighet. | förhållandevis låg i Kungsbacka kommun. Majoriteten av |  |
+|  | Arbetet leds huvudsakligen från kommunledningskontoret | incidenterna rapporteras till chefer men polisanmäls |  |
+|  | och pågår 2021 och 2022. | sannolikt inte då incidenterna typiskt sett inte anses vara |  |
+|  |  | tillräckligt allvarliga. |  |
 
 [Tabell 474-2](handlingar.tabeller/474-2.csv)
 
 | Rekommendation | Nämndens svar på granskningen,<br>2022-01-14 | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Tillse att handläggare ute i<br>linjen har det stöd som | Nämnden svarade att förvaltningen ska göra<br>en analys av vilket behov som finns av att | Uppföljningen visar att Riktlinje för att motverka kvalificerade<br>välfärdsbrott antogs av nämnden för Individ & Familjeomsorg 2022- | Delvis omhändertagen |
+| Tillse att handläggare ute i | Nämnden svarade att förvaltningen ska göra<br>en analys av vilket behov som finns av att | Uppföljningen visar att Riktlinje för att motverka kvalificerade | Delvis omhändertagen |
+| linjen har det stöd som |  | välfärdsbrott antogs av nämnden för Individ & Familjeomsorg 2022- |  |
 
 <!-- sida 475 -->
 
@@ -20579,10 +20778,41 @@ utforma.
 
 [Tabell 475-1](handlingar.tabeller/475-1.csv)
 
-| behövs i form av rutiner,<br>metoder och verktyg för att<br>förebygga, upptäcka och<br>utreda kvalificerade<br>välfärdsbrott | stärka det brottsförebyggande arbetet i<br>nämnden och därefter förstärka inom de<br>områden där det behövs senast oktober<br>2022. | 11-17. Syftet med riktlinjen är att klargöra hur nämnden för Individ &<br>Familjeomsorg ser på välfärdsbrott och att förtydliga förvaltningens<br>ansvar för att förhindra välfärdsbrott. Verksamheten ansvarar för att<br>ta fram rutiner som möjliggör efterlevnad av riktlinjen.<br>Av svar på den uppföljande granskningen framgår att det under 2023<br>har påbörjats ett arbete med att ta fram rutiner för konkret stöd i<br>arbetet.<br>Rutiner och kontroller bygger på Skatteverkets stöd för att upptäcka<br>oegentligheter. Stödet innehåller exempel på varningssignaler och<br>exempel på kontroller och åtgärder. | Nämnden har delvis åtgärdat<br>rekommendationen. En<br>riktlinje som klargör<br>nämndens syn och<br>förvaltningens ansvar för att<br>förhindra välfärdsbrott har<br>tagits fram. Dock<br>framkommer att rutiner för<br>att bistå handläggare med<br>stöd arbetas fram under<br>2023. |
+| behövs i form av rutiner, | stärka det brottsförebyggande arbetet i | 11-17. Syftet med riktlinjen är att klargöra hur nämnden för Individ & | Nämnden har delvis åtgärdat |
 | --- | --- | --- | --- |
-| Tillse att kompetensnivån<br>kring kvalificerade<br>välfärdsbrott höjs genom att<br>en anpassad utbildningsplan<br>utarbetas och implementeras | Nämnden svarade att berörda nämnder av<br>granskningen kommer att samverka för att<br>ett utbildningsmaterial tas fram under 2022.<br>Arbetet leds av Utvecklingsledare Kvalitet.<br>Utvecklingschef ansvarar för utbildningens<br>genomförande. | Uppföljningen visar att förvaltningen inte har tagit fram något<br>utbildningsmaterial. Medarbetare har förvisso blivit erbjudna<br>kompetenshöjande insatser genom utbildningar som tillhandahålls av<br>Länsstyrelsen. Ingen genomlysning har gjorts för att säkerställa<br>kompetensnivån. Framtagandet och implementering av rutiner inom<br>verksamheterna ses som utgångspunkten i kompetenshöjningen av<br>medarbetare inom förvaltningen. Därefter är det varje enhetschefs<br>ansvar att säkerställa att medarbetare har rätt kompetens för att<br>säkerställa att verksamheterna lever upp till riktlinjen och rutinerna. | Delvis omhändertagen<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen.<br>Medarbetare har tagit del av<br>utbildningsinsatser<br>levererad av extern aktör.<br>Risken med externa<br>utbildningsinsatser är enligt<br>vår mening att utbildningen<br>inte är anpassad till<br>nämndens verksamhet samt<br>att inte alla medarbetare har<br>deltagit i utbildningen. |
-| Tillse att nämndspecifika<br>riktlinjer utarbetas som ger<br>konkret stöd till nämnderna för<br>hur arbetsuppgifter kopplade<br>till området ska utföras | Nämnden svarade att förslag till<br>nämndspecifika riktlinjer kommer tas fram<br>från förvaltningen till nämnden för beslut<br>senast i oktober 2022. | Uppföljningen visar att riktlinje för att motverka kvalificerade<br>välfärdsbrott antogs av nämnden för Individ & Familjeomsorg 2022-<br>11-17. Syftet med riktlinjen är att klargöra hur nämnden för Individ &<br>Familjeomsorg ser på välfärdsbrott och att förtydliga förvaltningens<br>ansvar för att förhindra välfärdsbrott. Verksamheten ansvarar för att<br>ta fram rutiner som möjliggör efterlevnad av riktlinjen. | Delvis omhändertagen<br>Nämnden har delvis åtgärdat<br>rekommendationen. En<br>riktlinje som klargör<br>nämndens syn och<br>förvaltningens ansvar för att<br>förhindra välfärdsbrott har<br>tagits fram. Dock |
+| metoder och verktyg för att | nämnden och därefter förstärka inom de | Familjeomsorg ser på välfärdsbrott och att förtydliga förvaltningens | rekommendationen. En |
+| förebygga, upptäcka och | områden där det behövs senast oktober | ansvar för att förhindra välfärdsbrott. Verksamheten ansvarar för att | riktlinje som klargör |
+| utreda kvalificerade | 2022. | ta fram rutiner som möjliggör efterlevnad av riktlinjen. | nämndens syn och |
+| välfärdsbrott |  |  | förvaltningens ansvar för att |
+|  |  | Av svar på den uppföljande granskningen framgår att det under 2023 | förhindra välfärdsbrott har |
+|  |  | har påbörjats ett arbete med att ta fram rutiner för konkret stöd i | tagits fram. Dock |
+|  |  | arbetet. | framkommer att rutiner för |
+|  |  |  | att bistå handläggare med |
+|  |  | Rutiner och kontroller bygger på Skatteverkets stöd för att upptäcka | stöd arbetas fram under |
+|  |  | oegentligheter. Stödet innehåller exempel på varningssignaler och | 2023. |
+|  |  | exempel på kontroller och åtgärder. |  |
+| Tillse att kompetensnivån | Nämnden svarade att berörda nämnder av | Uppföljningen visar att förvaltningen inte har tagit fram något | Delvis omhändertagen |
+| kring kvalificerade | granskningen kommer att samverka för att | utbildningsmaterial. Medarbetare har förvisso blivit erbjudna | Nämnden har delvis |
+| välfärdsbrott höjs genom att | ett utbildningsmaterial tas fram under 2022. | kompetenshöjande insatser genom utbildningar som tillhandahålls av | åtgärdat |
+| en anpassad utbildningsplan | Arbetet leds av Utvecklingsledare Kvalitet. | Länsstyrelsen. Ingen genomlysning har gjorts för att säkerställa | rekommendationen. |
+| utarbetas och implementeras | Utvecklingschef ansvarar för utbildningens | kompetensnivån. Framtagandet och implementering av rutiner inom | Medarbetare har tagit del av |
+|  | genomförande. | verksamheterna ses som utgångspunkten i kompetenshöjningen av | utbildningsinsatser |
+|  |  | medarbetare inom förvaltningen. Därefter är det varje enhetschefs | levererad av extern aktör. |
+|  |  | ansvar att säkerställa att medarbetare har rätt kompetens för att | Risken med externa |
+|  |  | säkerställa att verksamheterna lever upp till riktlinjen och rutinerna. | utbildningsinsatser är enligt |
+|  |  |  | vår mening att utbildningen |
+|  |  |  | inte är anpassad till |
+|  |  |  | nämndens verksamhet samt |
+|  |  |  | att inte alla medarbetare har |
+|  |  |  | deltagit i utbildningen. |
+| Tillse att nämndspecifika | Nämnden svarade att förslag till | Uppföljningen visar att riktlinje för att motverka kvalificerade | Delvis omhändertagen |
+| riktlinjer utarbetas som ger | nämndspecifika riktlinjer kommer tas fram | välfärdsbrott antogs av nämnden för Individ & Familjeomsorg 2022- | Nämnden har delvis åtgärdat |
+| konkret stöd till nämnderna för | från förvaltningen till nämnden för beslut | 11-17. Syftet med riktlinjen är att klargöra hur nämnden för Individ & | rekommendationen. En |
+| hur arbetsuppgifter kopplade | senast i oktober 2022. | Familjeomsorg ser på välfärdsbrott och att förtydliga förvaltningens | riktlinje som klargör |
+| till området ska utföras |  | ansvar för att förhindra välfärdsbrott. Verksamheten ansvarar för att | nämndens syn och |
+|  |  | ta fram rutiner som möjliggör efterlevnad av riktlinjen. | förvaltningens ansvar för att |
+|  |  |  | förhindra välfärdsbrott har |
+|  |  |  | tagits fram. Dock |
 
 <!-- sida 476 -->
 
@@ -20590,10 +20820,40 @@ utforma.
 
 [Tabell 476-1](handlingar.tabeller/476-1.csv)
 
-|  |  | Av svar på den uppföljande granskningen framgår att det under 2023<br>har påbörjats ett arbete med att ta fram rutiner för konkret stöd i<br>arbetet. | framkommer att rutiner för<br>att bistå handläggare med<br>stöd arbetas fram under<br>2023. |
+|  |  | Av svar på den uppföljande granskningen framgår att det under 2023 | framkommer att rutiner för |
 | --- | --- | --- | --- |
-| Tillse att tydligt definierade<br>och förutbestämda<br>kontrollaktiviteter utarbetas för<br>att reducera risken för att<br>kontroller blir personberoende<br>och för att säkerställa hög<br>rättssäkerhet och likvärdighet i<br>beslut | Nämnden svarade att risken för avsiktliga<br>felutbetalningar kommer att inkluderas i det<br>systematiska kvalitetsarbetet och specifika<br>egenkontroller kommer att kopplas till detta<br>arbete senast oktober 2022. Risken för<br>avsiktliga felutbetalningar kommer att<br>inkluderas i intern kontrollplanen från och<br>med 2023. | Av svar på uppföljande granskning framgår att arbetet med att<br>utforma kontrollaktiviteter har påbörjats. Handläggningsprocessen har<br>kartlagts och potentiella risktillfällen i handläggningsprocessen<br>exponerade för kvalificerad välfärdsbrottslighet har identifierats. I<br>nuläget sker kontroller av utbetalda timmar personlig assistans och<br>av bolag vid ansökan om ersättning för merkostnader vid sjuklön. Vi<br>noterar att kontroll per mars 2023 visade att två fakturor översteg det<br>beslutade antalet timmar, sju fakturor understeg det beslutade antalet<br>timmar och en faktura stämde överens med beslutade antal timmar. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen. |
-| Tillse att arbetet med<br>kontrollaktiviteter sker<br>systematiskt och riskbaserat<br>för att motverka avsiktliga<br>felutbetalningar | Nämnden svarade att förvaltningen redan<br>arbetar riskbaserat och systematiskt men att<br>kontroller avseende välfärdsbrott kommer att<br>ingå i arbetet med intern kontroll senast<br>2023. | Uppföljningen visar att arbetet med kontrollaktiviteter sker riskbaserat<br>men inte systematiskt. Riskanalyser har genomförts inom ramen för<br>förvaltningens arbete med intern kontroll där ”Risk för välfärdsbrott<br>inom personlig assistans” och ”Risk för felanvändning av<br>föreningsbidrag” analyserades. Dessa risker prioriteras i nämndens<br>internkontrollplan 2023 och kommer att granskas under året. En<br>kommungemensam risk ”Risk för korruption” kommer att granskas av<br>samtliga nämnder 2023. | Delvis omhändertagen<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen.<br>Granskningen visar att<br>arbetet med<br>kontrollaktiviteter sker<br>riskbaserat men inte<br>systematiskt. Det är vår<br>bedömning att inkludering i<br>internkontrollplan inte<br>säkerställer att arbetet med<br>kontrollaktiviteter sker<br>systematiskt då<br>internkontrollplaner är<br>ettåriga dokument.<br>Systematiken skulle stärkas<br>genom att inkludera dessa<br>kontroller i det årliga<br>kvalitetsarbetet. |
+|  |  | har påbörjats ett arbete med att ta fram rutiner för konkret stöd i | att bistå handläggare med |
+|  |  | arbetet. | stöd arbetas fram under |
+|  |  |  | 2023. |
+| Tillse att tydligt definierade | Nämnden svarade att risken för avsiktliga | Av svar på uppföljande granskning framgår att arbetet med att | Omhändertagen |
+| och förutbestämda | felutbetalningar kommer att inkluderas i det | utforma kontrollaktiviteter har påbörjats. Handläggningsprocessen har | Nämnden har åtgärdat |
+| kontrollaktiviteter utarbetas för | systematiska kvalitetsarbetet och specifika | kartlagts och potentiella risktillfällen i handläggningsprocessen | rekommendationen. |
+| att reducera risken för att | egenkontroller kommer att kopplas till detta | exponerade för kvalificerad välfärdsbrottslighet har identifierats. I |  |
+| kontroller blir personberoende | arbete senast oktober 2022. Risken för | nuläget sker kontroller av utbetalda timmar personlig assistans och |  |
+| och för att säkerställa hög | avsiktliga felutbetalningar kommer att | av bolag vid ansökan om ersättning för merkostnader vid sjuklön. Vi |  |
+| rättssäkerhet och likvärdighet i | inkluderas i intern kontrollplanen från och | noterar att kontroll per mars 2023 visade att två fakturor översteg det |  |
+| beslut | med 2023. | beslutade antalet timmar, sju fakturor understeg det beslutade antalet |  |
+|  |  | timmar och en faktura stämde överens med beslutade antal timmar. |  |
+| Tillse att arbetet med | Nämnden svarade att förvaltningen redan | Uppföljningen visar att arbetet med kontrollaktiviteter sker riskbaserat | Delvis omhändertagen |
+| kontrollaktiviteter sker | arbetar riskbaserat och systematiskt men att | men inte systematiskt. Riskanalyser har genomförts inom ramen för | Nämnden har delvis |
+| systematiskt och riskbaserat | kontroller avseende välfärdsbrott kommer att | förvaltningens arbete med intern kontroll där ”Risk för välfärdsbrott | åtgärdat |
+| för att motverka avsiktliga | ingå i arbetet med intern kontroll senast | inom personlig assistans” och ”Risk för felanvändning av | rekommendationen. |
+| felutbetalningar | 2023. | föreningsbidrag” analyserades. Dessa risker prioriteras i nämndens | Granskningen visar att |
+|  |  | internkontrollplan 2023 och kommer att granskas under året. En | arbetet med |
+|  |  | kommungemensam risk ”Risk för korruption” kommer att granskas av | kontrollaktiviteter sker |
+|  |  | samtliga nämnder 2023. | riskbaserat men inte |
+|  |  |  | systematiskt. Det är vår |
+|  |  |  | bedömning att inkludering i |
+|  |  |  | internkontrollplan inte |
+|  |  |  | säkerställer att arbetet med |
+|  |  |  | kontrollaktiviteter sker |
+|  |  |  | systematiskt då |
+|  |  |  | internkontrollplaner är |
+|  |  |  | ettåriga dokument. |
+|  |  |  | Systematiken skulle stärkas |
+|  |  |  | genom att inkludera dessa |
+|  |  |  | kontroller i det årliga |
+|  |  |  | kvalitetsarbetet. |
 
 <!-- sida 477 -->
 
@@ -20601,10 +20861,38 @@ utforma.
 
 [Tabell 477-1](handlingar.tabeller/477-1.csv)
 
-| Tillse att statistik förs över<br>relevanta nyckeltal avseende<br>kvalificerade välfärdsbrott och<br>att dessa rapporteras till<br>intressenter inom och utanför<br>kommunen | Nämnden svarade att statistik avseende<br>förekomsten av felaktiga utbetalningar<br>kommer att tas fram och analyseras.<br>Underlag blir de egenkontroller som ska tas<br>fram och genomföras senast oktober 2022. | Uppföljningen visar att det inte görs någon uppföljning eller förs<br>statistik av relevanta nyckeltal. I svar på den uppföljande<br>granskningen framgår att egenkontroller görs varje månad. Kontroller<br>sker av inkommande fakturor för att säkerställa att utbetald<br>assistansersättning överensstämmer med beslutade timmar. Därtill<br>kontrolleras bolag vid ansökan om ekonomisk ersättning för<br>merkostnader. Resultat av genomförda egenkontroller redovisas för<br>nämnden i uppföljningsrapport intern kontroll. Granskningen visar att<br>det saknas en kvantifiering av genomförda kontroller. Vidare förs<br>ingen statistik över exempelvis felaktiga utbetalningar med nyckeltal<br>såsom andel utredningar som lett till att fel kan bekräftas eller andel<br>utredningar som lett till polisanmälan eller återkrav. | Inte omhändertagen<br>Nämnden har inte åtgärdat<br>rekommendationen.<br>Statistik förs inte över<br>relevanta nyckeltal<br>avseende kvalificerade<br>välfärdsbrott. |
+| Tillse att statistik förs över | Nämnden svarade att statistik avseende | Uppföljningen visar att det inte görs någon uppföljning eller förs | Inte omhändertagen |
 | --- | --- | --- | --- |
-| Tillse att samverkansformer<br>internt och externt ses över för<br>att tillse ändamålsenliga<br>erfarenhetsutbyten och<br>metodutveckling | Nämnden svarade att arbete och samverkan<br>pågår för att säkerställa goda rutiner<br>gällande arbetet med kvalificerade<br>välfärdsbrott. Berörda medarbetare kommer<br>under året ta del av det utbildningsmaterial<br>som ska tas fram. | Av svar från förvaltningen framkommer att samverkan sker med<br>Försäkringskassan gällande frågeställningar som uppkommer vid<br>handläggning av ärenden avseende personlig assistans. I övrigt följer<br>förvaltningen Skatteverkets stöd för hur oegentligheter kan upptäckas<br>inom bolag som utför personlig assistans. Förvaltningen ser att en<br>kommungemensam hantering av frågan skulle kunna bidra positivt till<br>förbättrad kunskapsspridning och ett ökat lärande. | Delvis omhändertagen<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen.<br>Förvaltningen samverkar<br>med externa aktörer för att<br>tillse erfarenhetsutbyte och<br>metodutveckling.<br>Förvaltningen samverkar<br>inte med interna aktörer för<br>att tillse erfarenhetsutbyte<br>och metodutveckling. |
-| Tillse att förvaltningen ingår<br>samarbeten med relevanta<br>myndigheter | Nämnden svarade att förvaltningen redan<br>har ett samarbete med Skatteverket och är i<br>processen för att formalisera ett samarbete<br>med Försäkringskassan i denna fråga. I<br>dessa samarbeten ska ingå att tydliggöra<br>hur polisanmälan av avsiktliga<br>felutbetalningar bäst görs. | Av förvaltningens svar framkommer att samverkan sker med<br>Försäkringskassan gällande frågeställningar som uppkommer vid<br>handläggning av ärenden avseende personlig assistans. I övrigt följer<br>förvaltningen Skatteverkets stödjande riktlinjer för hur oegentligheter<br>kan upptäckas inom bolag som utför personlig assistans. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen.<br>Förvaltningen samverkar<br>med Försäkringskassan och<br>följer Skatteverkets<br>stödjande riktlinjer. |
+| relevanta nyckeltal avseende | förekomsten av felaktiga utbetalningar | statistik av relevanta nyckeltal. I svar på den uppföljande | Nämnden har inte åtgärdat |
+| kvalificerade välfärdsbrott och | kommer att tas fram och analyseras. | granskningen framgår att egenkontroller görs varje månad. Kontroller | rekommendationen. |
+| att dessa rapporteras till | Underlag blir de egenkontroller som ska tas | sker av inkommande fakturor för att säkerställa att utbetald | Statistik förs inte över |
+| intressenter inom och utanför | fram och genomföras senast oktober 2022. | assistansersättning överensstämmer med beslutade timmar. Därtill | relevanta nyckeltal |
+| kommunen |  | kontrolleras bolag vid ansökan om ekonomisk ersättning för | avseende kvalificerade |
+|  |  | merkostnader. Resultat av genomförda egenkontroller redovisas för | välfärdsbrott. |
+|  |  | nämnden i uppföljningsrapport intern kontroll. Granskningen visar att |  |
+|  |  | det saknas en kvantifiering av genomförda kontroller. Vidare förs |  |
+|  |  | ingen statistik över exempelvis felaktiga utbetalningar med nyckeltal |  |
+|  |  | såsom andel utredningar som lett till att fel kan bekräftas eller andel |  |
+|  |  | utredningar som lett till polisanmälan eller återkrav. |  |
+| Tillse att samverkansformer | Nämnden svarade att arbete och samverkan | Av svar från förvaltningen framkommer att samverkan sker med | Delvis omhändertagen |
+| internt och externt ses över för | pågår för att säkerställa goda rutiner | Försäkringskassan gällande frågeställningar som uppkommer vid | Nämnden har delvis |
+| att tillse ändamålsenliga | gällande arbetet med kvalificerade | handläggning av ärenden avseende personlig assistans. I övrigt följer | åtgärdat |
+| erfarenhetsutbyten och | välfärdsbrott. Berörda medarbetare kommer | förvaltningen Skatteverkets stöd för hur oegentligheter kan upptäckas | rekommendationen. |
+| metodutveckling | under året ta del av det utbildningsmaterial | inom bolag som utför personlig assistans. Förvaltningen ser att en | Förvaltningen samverkar |
+|  | som ska tas fram. | kommungemensam hantering av frågan skulle kunna bidra positivt till | med externa aktörer för att |
+|  |  | förbättrad kunskapsspridning och ett ökat lärande. | tillse erfarenhetsutbyte och |
+|  |  |  | metodutveckling. |
+|  |  |  | Förvaltningen samverkar |
+|  |  |  | inte med interna aktörer för |
+|  |  |  | att tillse erfarenhetsutbyte |
+|  |  |  | och metodutveckling. |
+| Tillse att förvaltningen ingår | Nämnden svarade att förvaltningen redan | Av förvaltningens svar framkommer att samverkan sker med | Omhändertagen |
+| samarbeten med relevanta | har ett samarbete med Skatteverket och är i | Försäkringskassan gällande frågeställningar som uppkommer vid | Nämnden har åtgärdat |
+| myndigheter | processen för att formalisera ett samarbete | handläggning av ärenden avseende personlig assistans. I övrigt följer | rekommendationen. |
+|  | med Försäkringskassan i denna fråga. I | förvaltningen Skatteverkets stödjande riktlinjer för hur oegentligheter | Förvaltningen samverkar |
+|  | dessa samarbeten ska ingå att tydliggöra | kan upptäckas inom bolag som utför personlig assistans. | med Försäkringskassan och |
+|  | hur polisanmälan av avsiktliga |  | följer Skatteverkets |
+|  | felutbetalningar bäst görs. |  | stödjande riktlinjer. |
 
 <!-- sida 478 -->
 
@@ -20614,10 +20902,45 @@ utforma.
 
 [Tabell 478-1](handlingar.tabeller/478-1.csv)
 
-| Rekommendation | Nämndens svar på granskningen,<br>2021-12-02 | Uppföljning av vidtagna åtgärder | Vår bedömning |
+| Rekommendation | Nämndens svar på granskningen, | Uppföljning av vidtagna åtgärder | Vår bedömning |
 | --- | --- | --- | --- |
-| Tillse att handläggare ute i<br>linjen har det stöd som<br>behövs i form av rutiner,<br>metoder och verktyg för att<br>förebygga, upptäcka och<br>utreda kvalificerade<br>välfärdsbrott | Nämnden svarade att vägledande riktlinjer<br>avseende försörjningsstöd och ekonomiskt bistånd<br>kompletteras med ytterligare vägledning kopplat till<br>avsiktliga felutbetalningar. Åtgärden ska vara<br>genomförd 2022-02-01 och ansvarig är enhetschef<br>för Myndighet. | Av svar på den uppföljande granskningen framgår att<br>vägledande riktlinjer avseende försörjningsstöd och<br>ekonomiskt bistånd kompletteras med ytterligare vägledning<br>kopplat till avsiktliga felutbetalningar vid nästa större<br>revidering. | Inte omhändertagen<br>Nämnden har inte åtgärdat<br>rekommendationen.<br>Dokumentation som stödjer<br>handläggare i arbetet att<br>förebygga, upptäcka och<br>utreda kvalificerade<br>välfärdsbrott har inte tagits<br>fram. |
-| Tillse att kompetensnivån<br>kring kvalificerade<br>välfärdsbrott höjs genom att<br>en anpassad utbildningsplan<br>utarbetas och implementeras | Nämnden svarade att berörda nämnder av<br>granskningen kommer att samverka för att ett<br>utbildningsmaterial tas fram under 2022. Arbetet<br>leds av utvecklingsledare Kvalitet. Utvecklingschef<br>ansvarar för utbildningens genomförande | I svar på den uppföljande granskningen framgår att utbildning<br>är planerad inom ramen för det interna kontrollarbetet 2023<br>där också ett nuläge ska tas fram för det förebyggande arbetet<br>avseende korruption. Handläggare har deltagit i utbildningar<br>och konferenser som Länsstyrelsen anordnat. Frågan tas<br>regelbundet upp på metodmöten samt enhetsmöten där vikten<br>av kontroller, uppföljning av det som verkar misstänkt samt<br>agerande i det som uppfattas som misstänkt poängteras. | Delvis omhändertagen<br>Nämnden har delvis<br>åtgärdat<br>rekommendationen. En<br>utbildningsplan har inte<br>utarbetats och<br>implementerats. Vi noterar<br>dock att medarbetare tagit<br>del av utbildningsinsatser<br>levererad av externa aktörer<br>samt att utbildning är<br>planerad inom ramen för det<br>interna kontrollarbetet 2023.<br>Risken med externa<br>utbildningsinsatser är enligt<br>vår mening att utbildningen<br>inte är anpassad till<br>nämndens verksamhet samt<br>att inte alla medarbetare har<br>deltagit i utbildningen. |
+|  | 2021-12-02 |  |  |
+| Tillse att handläggare ute i | Nämnden svarade att vägledande riktlinjer | Av svar på den uppföljande granskningen framgår att | Inte omhändertagen |
+| linjen har det stöd som | avseende försörjningsstöd och ekonomiskt bistånd | vägledande riktlinjer avseende försörjningsstöd och | Nämnden har inte åtgärdat |
+| behövs i form av rutiner, |  |  |  |
+|  | kompletteras med ytterligare vägledning kopplat till | ekonomiskt bistånd kompletteras med ytterligare vägledning | rekommendationen. |
+| metoder och verktyg för att |  |  |  |
+|  | avsiktliga felutbetalningar. Åtgärden ska vara | kopplat till avsiktliga felutbetalningar vid nästa större | Dokumentation som stödjer |
+| förebygga, upptäcka och |  |  |  |
+|  | genomförd 2022-02-01 och ansvarig är enhetschef | revidering. | handläggare i arbetet att |
+| utreda kvalificerade |  |  |  |
+| välfärdsbrott | för Myndighet. |  | förebygga, upptäcka och |
+|  |  |  | utreda kvalificerade |
+|  |  |  | välfärdsbrott har inte tagits |
+|  |  |  | fram. |
+| Tillse att kompetensnivån | Nämnden svarade att berörda nämnder av | I svar på den uppföljande granskningen framgår att utbildning | Delvis omhändertagen |
+| kring kvalificerade | granskningen kommer att samverka för att ett | är planerad inom ramen för det interna kontrollarbetet 2023 | Nämnden har delvis |
+| välfärdsbrott höjs genom att |  |  |  |
+|  | utbildningsmaterial tas fram under 2022. Arbetet | där också ett nuläge ska tas fram för det förebyggande arbetet | åtgärdat |
+| en anpassad utbildningsplan |  |  |  |
+|  | leds av utvecklingsledare Kvalitet. Utvecklingschef | avseende korruption. Handläggare har deltagit i utbildningar | rekommendationen. En |
+| utarbetas och implementeras |  |  |  |
+|  | ansvarar för utbildningens genomförande | och konferenser som Länsstyrelsen anordnat. Frågan tas | utbildningsplan har inte |
+|  |  | regelbundet upp på metodmöten samt enhetsmöten där vikten | utarbetats och |
+|  |  | av kontroller, uppföljning av det som verkar misstänkt samt | implementerats. Vi noterar |
+|  |  | agerande i det som uppfattas som misstänkt poängteras. | dock att medarbetare tagit |
+|  |  |  | del av utbildningsinsatser |
+|  |  |  | levererad av externa aktörer |
+|  |  |  | samt att utbildning är |
+|  |  |  | planerad inom ramen för det |
+|  |  |  | interna kontrollarbetet 2023. |
+|  |  |  | Risken med externa |
+|  |  |  | utbildningsinsatser är enligt |
+|  |  |  | vår mening att utbildningen |
+|  |  |  | inte är anpassad till |
+|  |  |  | nämndens verksamhet samt |
+|  |  |  | att inte alla medarbetare har |
+|  |  |  | deltagit i utbildningen. |
 
 <!-- sida 479 -->
 
@@ -20625,10 +20948,53 @@ utforma.
 
 [Tabell 479-1](handlingar.tabeller/479-1.csv)
 
-| Tillse att nämndspecifika<br>riktlinjer utarbetas som ger<br>konkret stöd till nämnderna<br>för hur arbetsuppgifter<br>kopplade till området ska<br>utföras | Nämnden svarade att vägledande riktlinjer<br>avseende försörjningsstöd och ekonomiskt bistånd<br>ska kompletteras med ytterligare vägledning kopplat<br>till avsiktliga felutbetalningar. Åtgärden ska vara<br>genomförd 2022-02-01 och ansvarig för åtgärden är<br>enhetschef för Myndighet. | Av svar på den uppföljande granskningen framgår att<br>vägledande riktlinjer avseende försörjningsstöd och<br>ekonomiskt bistånd kompletteras med ytterligare vägledning<br>kopplat till avsiktliga felutbetalningar vid nästa större<br>revidering. | Inte omhändertagen<br>Nämnden har inte åtgärdat<br>rekommendationen.<br>Riktlinjer som ger stöd i<br>arbetet har inte utarbetats. |
+| Tillse att nämndspecifika | Nämnden svarade att vägledande riktlinjer | Av svar på den uppföljande granskningen framgår att | Inte omhändertagen |
 | --- | --- | --- | --- |
-| Tillse att arbetet med<br>kontrollaktiviteter sker<br>riskbaserat för att motverka<br>avsiktliga felutbetalningar | Nämnden svarade att arbetet kopplat till<br>kvalificerade välfärdsbrott i större utsträckning<br>kommer att ske förebyggande och riskbaserat. För<br>att nå dit är höjning av kunskapsnivån central. En<br>bilaga som beskriver hur ett förebyggande och<br>riskbaserat arbete kan gå till kommer att tas fram till<br>riktlinjer avseende försörjningsstöd.<br>I riskanalyser kommer nämnden framöver fånga<br>distinktionen mellan oavsiktliga och avsiktliga fel-<br>utbetalningar och även skilja på dessa i<br>kartläggning, analys och riskbedömning. Detta<br>kommer att inkluderas som en faktor i det<br>systematiska kvalitetsarbetet. Åtgärden ska vara<br>genomförd 2022-06-30. | Uppföljningen visar att nämnden inte tagit fram en bilaga till<br>Riktlinjer avseende försörjningsstöd som beskriver hur ett<br>förebyggande och riskbaserat arbete kan gå till.<br>Av svar på den uppföljande granskningen framgår att en<br>generell utbildning med tillhörande rutin/vägledning kring<br>riskanalysarbete genomfördes under våren 2022. I detta<br>medverkade samordnare och enhetschefer vilka berörs av<br>Socialstyrelsens författningssamling 2011:9. Vad gäller<br>riskanalys återfinns fortfarande en förbättringspotential i att<br>arbeta mer förebyggande i att bedöma risker och händelser<br>som kan medföra brister. | Inte omhändertagen<br>Nämnden har inte åtgärdat<br>rekommendationen.<br>Nämnden har inte tillsett att<br>arbetet med<br>kontrollaktiviteter sker<br>riskbaserat. |
-| Tillse att statistik förs över<br>relevanta nyckeltal avseende<br>kvalificerade välfärdsbrott och<br>att dessa rapporteras till<br>intressenter inom och utanför<br>kommunen | Nämnden svarade att statistik kopplade till<br>välfärdsbrott kommer att ingå i den systematiska<br>avvikelse-rapporteringen. Kvalitetsledningssystemet<br>kommer kompletteras med en punkt som följer upp<br>så att de kontroller som framgår i<br>verksamhetsrutinerna utförs och dokumenteras.<br>Åtgärden ska vara genomförd 2022-06-30. Ansvarig<br>för åtgärden är nämndsekreterare. | Uppföljningen visar att en checklista för stickprovskontroller<br>har tagits fram. Av svar framgår att samordnare säkerställer<br>att kontroller genomförs och ser över hur resultatet ser ut.<br>Kontroller sker månadsvis i enlighet med en årslinje.<br>Exempelvis sker kontroll av sökta ersättningar och kontroll mot<br>folkbokföringen. Inga avvikelser av större karaktär har<br>upptäckts. Baserat på dessa kontroller uppges statistik vara<br>möjlig att ta fram framöver.<br>Vidare framgår att Myndighetsprocess för ekonomiskt<br>bistånd följs upp regelbundet genom egenkontroller.<br>Uppföljningen ingår i den årliga systematiska<br>kvalitetsuppföljningen som rapporteras till nämnden. | Inte omhändertagen<br>Nämnden har inte åtgärdat<br>rekommendationen.<br>Statistik förs inte över<br>relevanta nyckeltal<br>avseende kvalificerade<br>välfärdsbrott. |
+| riktlinjer utarbetas som ger | avseende försörjningsstöd och ekonomiskt bistånd | vägledande riktlinjer avseende försörjningsstöd och | Nämnden har inte åtgärdat |
+| konkret stöd till nämnderna |  |  |  |
+|  | ska kompletteras med ytterligare vägledning kopplat | ekonomiskt bistånd kompletteras med ytterligare vägledning | rekommendationen. |
+| för hur arbetsuppgifter |  |  |  |
+|  | till avsiktliga felutbetalningar. Åtgärden ska vara | kopplat till avsiktliga felutbetalningar vid nästa större | Riktlinjer som ger stöd i |
+| kopplade till området ska |  |  |  |
+|  | genomförd 2022-02-01 och ansvarig för åtgärden är | revidering. | arbetet har inte utarbetats. |
+| utföras |  |  |  |
+|  | enhetschef för Myndighet. |  |  |
+| Tillse att arbetet med | Nämnden svarade att arbetet kopplat till | Uppföljningen visar att nämnden inte tagit fram en bilaga till | Inte omhändertagen |
+| kontrollaktiviteter sker | kvalificerade välfärdsbrott i större utsträckning | Riktlinjer avseende försörjningsstöd som beskriver hur ett | Nämnden har inte åtgärdat |
+| riskbaserat för att motverka |  |  |  |
+|  | kommer att ske förebyggande och riskbaserat. För | förebyggande och riskbaserat arbete kan gå till. | rekommendationen. |
+| avsiktliga felutbetalningar |  |  |  |
+|  | att nå dit är höjning av kunskapsnivån central. En |  | Nämnden har inte tillsett att |
+|  |  | Av svar på den uppföljande granskningen framgår att en |  |
+|  | bilaga som beskriver hur ett förebyggande och |  | arbetet med |
+|  |  | generell utbildning med tillhörande rutin/vägledning kring |  |
+|  | riskbaserat arbete kan gå till kommer att tas fram till |  | kontrollaktiviteter sker |
+|  |  | riskanalysarbete genomfördes under våren 2022. I detta |  |
+|  | riktlinjer avseende försörjningsstöd. |  | riskbaserat. |
+|  |  | medverkade samordnare och enhetschefer vilka berörs av |  |
+|  | I riskanalyser kommer nämnden framöver fånga | Socialstyrelsens författningssamling 2011:9. Vad gäller |  |
+|  | distinktionen mellan oavsiktliga och avsiktliga fel- | riskanalys återfinns fortfarande en förbättringspotential i att |  |
+|  | utbetalningar och även skilja på dessa i | arbeta mer förebyggande i att bedöma risker och händelser |  |
+|  | kartläggning, analys och riskbedömning. Detta | som kan medföra brister. |  |
+|  | kommer att inkluderas som en faktor i det |  |  |
+|  | systematiska kvalitetsarbetet. Åtgärden ska vara |  |  |
+|  | genomförd 2022-06-30. |  |  |
+| Tillse att statistik förs över | Nämnden svarade att statistik kopplade till | Uppföljningen visar att en checklista för stickprovskontroller | Inte omhändertagen |
+| relevanta nyckeltal avseende | välfärdsbrott kommer att ingå i den systematiska | har tagits fram. Av svar framgår att samordnare säkerställer | Nämnden har inte åtgärdat |
+| kvalificerade välfärdsbrott och |  |  |  |
+|  | avvikelse-rapporteringen. Kvalitetsledningssystemet | att kontroller genomförs och ser över hur resultatet ser ut. | rekommendationen. |
+| att dessa rapporteras till |  |  |  |
+|  | kommer kompletteras med en punkt som följer upp | Kontroller sker månadsvis i enlighet med en årslinje. | Statistik förs inte över |
+| intressenter inom och utanför |  |  |  |
+|  | så att de kontroller som framgår i | Exempelvis sker kontroll av sökta ersättningar och kontroll mot | relevanta nyckeltal |
+| kommunen |  |  |  |
+|  | verksamhetsrutinerna utförs och dokumenteras. | folkbokföringen. Inga avvikelser av större karaktär har | avseende kvalificerade |
+|  | Åtgärden ska vara genomförd 2022-06-30. Ansvarig | upptäckts. Baserat på dessa kontroller uppges statistik vara | välfärdsbrott. |
+|  | för åtgärden är nämndsekreterare. | möjlig att ta fram framöver. |  |
+|  |  | Vidare framgår att Myndighetsprocess för ekonomiskt |  |
+|  |  | bistånd följs upp regelbundet genom egenkontroller. |  |
+|  |  | Uppföljningen ingår i den årliga systematiska |  |
+|  |  | kvalitetsuppföljningen som rapporteras till nämnden. |  |
 
 <!-- sida 480 -->
 
@@ -20647,9 +21013,28 @@ Ernst & Young AB
 
 [Tabell 480-1](handlingar.tabeller/480-1.csv)
 
-| Tillse att samverkansformer<br>internt och externt ses över<br>för att tillse ändamålsenliga<br>erfarenhetsutbyten och<br>metodutveckling | Nämnden svarade att erfarenhetsutbyte och<br>metodutveckling ska vara en naturlig del på<br>agendan i redan upparbetade samarbetsforum över<br>förvaltningsgränserna. | Av svar på den uppföljande granskningen framgår att<br>övergripande samverkan sker inom ramen för kommunens<br>närverk för intern kontroll och kvalitet. Uppföljningen visar att<br>ett gemensamt APT-material kring välfärdsbrott tagits fram.<br>Detta material kommer enligt uppgift att spridas i förvaltningen<br>för genomgång på samtliga arbetsplatsträffar under hösten<br>2023. Samverkan uppges också ske med andra kommuner på<br>handläggar- och chefsnivå. | Delvis omhändertagen<br>Nämnden har delvis åtgärdat<br>rekommendationen.<br>Förvaltningen samverkar<br>med externa aktörer för att<br>tillse erfarenhetsutbyte och<br>metodutveckling.<br>Förvaltningen samverkar<br>inte med interna aktörer för<br>att tillse erfarenhetsutbyte<br>och metodutveckling. |
+| Tillse att samverkansformer | Nämnden svarade att erfarenhetsutbyte och | Av svar på den uppföljande granskningen framgår att | Delvis omhändertagen |
 | --- | --- | --- | --- |
-| Tillse att förvaltningen ingår<br>samarbeten med relevanta<br>myndigheter | Nämnden svarade att de avser att formalisera<br>samarbeten med relevanta myndigheter såsom<br>Försäkringskassan och Skatteverket. I dessa<br>samarbeten ska ingå att tydliggöra hur<br>polisanmälan av avsiktliga felutbetalningar bäst<br>görs. | Av svar på den uppföljande granskningen framgår att möten<br>har hållits med polisen med syfte att hitta en rutin för<br>polisanmälningar. Beslut om polisanmälningar har delegerats<br>från utskott till enhetschef för att det ska vara lättare att<br>anmäla. Samverkan sker även med Försäkringskassan när<br>behov uppstår. | Omhändertagen<br>Nämnden har åtgärdat<br>rekommendationen.<br>Samverkan sker med<br>polisen och<br>Försäkringskassan. |
+| internt och externt ses över | metodutveckling ska vara en naturlig del på | övergripande samverkan sker inom ramen för kommunens | Nämnden har delvis åtgärdat |
+| för att tillse ändamålsenliga |  |  |  |
+|  | agendan i redan upparbetade samarbetsforum över | närverk för intern kontroll och kvalitet. Uppföljningen visar att | rekommendationen. |
+| erfarenhetsutbyten och |  |  |  |
+|  | förvaltningsgränserna. | ett gemensamt APT-material kring välfärdsbrott tagits fram. | Förvaltningen samverkar |
+| metodutveckling |  |  |  |
+|  |  | Detta material kommer enligt uppgift att spridas i förvaltningen | med externa aktörer för att |
+|  |  | för genomgång på samtliga arbetsplatsträffar under hösten | tillse erfarenhetsutbyte och |
+|  |  | 2023. Samverkan uppges också ske med andra kommuner på | metodutveckling. |
+|  |  | handläggar- och chefsnivå. | Förvaltningen samverkar |
+|  |  |  | inte med interna aktörer för |
+|  |  |  | att tillse erfarenhetsutbyte |
+|  |  |  | och metodutveckling. |
+| Tillse att förvaltningen ingår | Nämnden svarade att de avser att formalisera | Av svar på den uppföljande granskningen framgår att möten | Omhändertagen |
+| samarbeten med relevanta | samarbeten med relevanta myndigheter såsom | har hållits med polisen med syfte att hitta en rutin för | Nämnden har åtgärdat |
+| myndigheter |  |  |  |
+|  | Försäkringskassan och Skatteverket. I dessa | polisanmälningar. Beslut om polisanmälningar har delegerats | rekommendationen. |
+|  | samarbeten ska ingå att tydliggöra hur | från utskott till enhetschef för att det ska vara lättare att | Samverkan sker med |
+|  | polisanmälan av avsiktliga felutbetalningar bäst | anmäla. Samverkan sker även med Försäkringskassan när | polisen och |
+|  | görs. | behov uppstår. | Försäkringskassan. |
 
 <!-- sida 481 -->
 

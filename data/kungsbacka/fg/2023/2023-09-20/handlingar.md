@@ -12,12 +12,12 @@ kalla_url: https://web.archive.org/web/20240404204729id_/https://kungsbacka.se/d
 sha256: d1fd43257efcfcaa7988cb6db60a970cd86f42dea85ff87fddd6ccd8067623b4
 bytes: 6413829
 sidor: 148
-hamtad: 2026-11-17T01:13:20+00:00
-konverterad: 2026-11-17T01:13:49+00:00
-pipeline: kommunhandlingar 0.11.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
+hamtad: 2026-11-21T13:16:37+00:00
+konverterad: 2026-11-21T13:17:12+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
-kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
+kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ej-konverterad, ocr, ocr, ocr, ocr, ocr, ok, ocr, ok, ok, ok, ok, ok, tom, tabell-osaker, tom, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
 tal_obekraftade: [114, 116, 117, 118, 119, 120, 121, 123]
 figurer: [4, 5, 6, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 148]
 tolkade: []
@@ -3087,27 +3087,12 @@ fastställda Strategi för försörjning av utbildningsplatser tillsammans med v
 
 Under 2023 har nämnden tillsammans med övriga berörda nämnder fastställt riktlinjer Koncept idrottshall, som
 framåt ska vara styrande vid planering av nya idrottshallar.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Bäst att leva, Kungsbackas placering i
-ranking av Sveriges kommuner enligt 5   3
-Tidningen Fokus.
 
-Anmälda brott per invånare (antal/100 000
-5 075  5 321   5 691
-invånare)
-Brukarbedömning hemtjänst äldreomsorg,
-88%             90%
-helhetssyn
-Brukarbedömning särskilt boende
-81%             74%
-äldreomsorg, helhetssyn
-Brukarbedömning individ- och familjeomsorg
-76%             88%
-totalt - helhetssyn
 2.2 En hållbar utveckling och en hälsosam miljö
+
 Beslutats av
 Kommunfullmäktige
+
 Fokusområden
 \- Kungsbacka växer med en långsiktigt hållbar ekonomi.
 \- Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle
@@ -3119,11 +3104,17 @@ som också skyddar och främjar biologisk mångfald.
 
 [Tabell 66-1](handlingar.tabeller/66-1.csv)
 
-| Antal påbörjade bostäder | 234 | 216 | 848 |  |
-| --- | --- | --- | --- | --- |
-| Antal färdigställda bostäder | 248 | 430 | 363 |  |
-| Jag känner mig trygg i skolan (åk 5) | 86% | 88% | 84% | 85% |
-| Jag känner mig trygg i skolan (åk 8) | 87% | 84% | 81% | 82% |
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Bäst att leva, Kungsbackas placering i<br>ranking av Sveriges kommuner enligt<br>Tidningen Fokus. | 5 | 3 |  |  |  |
+| Antal påbörjade bostäder | 234 | 216 | 848 |  |  |
+| Antal färdigställda bostäder | 248 | 430 | 363 |  |  |
+| Jag känner mig trygg i skolan (åk 5) | 86% | 88% | 84% | 85% |  |
+| Jag känner mig trygg i skolan (åk 8) | 87% | 84% | 81% | 82% |  |
+| Anmälda brott per invånare (antal/100 000<br>invånare) | 5 075 | 5 321 | 5 691 |  |  |
+| Brukarbedömning hemtjänst äldreomsorg,<br>helhetssyn | 88% |  | 90% |  |  |
+| Brukarbedömning särskilt boende<br>äldreomsorg, helhetssyn | 81% |  | 74% |  |  |
+| Brukarbedömning individ- och familjeomsorg<br>totalt - helhetssyn | 76% |  | 88% |  |  |
 
 <!-- sida 67 -->
 
@@ -3215,75 +3206,34 @@ kemikaliesmart i fortsättningen har också gått ut på APT. Detta är ett fort
 All information om kemikaliesmart skola och förskola finns tillgängligt för all personal att gå tillbaka till.
 Enhetscheferna har ännu inte följt upp gallringen på skolorna men planerar detta för hösten 2023.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - 85% 88%    88%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 4 i % - Pojkar. 88% 93% 90%
-(Elevhälsan i Kungsbacka utvecklar metod
-utifrån hälsosamtal med elever.)
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 70% 77%    72%
-Flickor.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-
 7
+
+[Tabell 68-69-1](handlingar.tabeller/68-69-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 85% | 88% | 88% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 4 i % - Pojkar.<br>(Elevhälsan i Kungsbacka utvecklar metod<br>utifrån hälsosamtal med elever.) | 88% | 93% | 90% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Flickor.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 70% | 77% | 72% |  |  |
+| Andelen elever som skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, ÅK 8 i % -<br>Pojkar.(Elevhälsan i Kungsbacka utvecklar<br>metod utifrån hälsosamtal med elever.) | 84% | 92% | 93% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- flickor. | 70% | 68% | 65% |  |  |
+| Andelen elever som har skattat sin egen<br>livstillfredsställelse som god eller mycket god<br>under elevhälsosamtalet, Gymnasiet ÅK 1 i%<br>- pojkar. | 80% | 88% | 85% |  |  |
+| Avfall från hushåll ska minska med 30% per<br>invånare från 2020 till 2030. Startvärde 100,<br>målvärde 2030 är 70. | 100 |  |  |  |  |
+| Avfall från kommunens verksamheter ska<br>minska med 40 % per heltidsanställd.<br>Startvärde 100, målvärde 2030 är 60. | 100 | 72,1 | 84,5 |  |  |
+| Energiförbrukning i kommuns lokaler per<br>kvadratmeter |  |  |  |  |  |
+| Utsläpp till luft av växthusgaser totalt, ton<br>CO2-ekv/inv (Kolada) |  |  |  |  |  |
+| Miljöbilar, andel av totalt antal bilar i det<br>geografiska området, (Kolada) |  |  |  |  |  |
+| Slutanvändning av el inom det geografiska<br>området, MWh/inv (Kolada) |  |  |  |  |  |
+| Matens klimatpåverkan från de offentliga<br>måltiderna ska minska räknat i kg CO2-<br>ekv/kg livsmedel. Målsättningen är 1,0 år<br>2030. |  |  |  |  |  |
+| Antal kemiska produkter med<br>utfasningsämnen, inklusive hormonstörande<br>ämnen på SIN-listan ska minska i<br>kommunens verksamheter. 2021 var antalet<br>124 (KEMgroup PRO) |  |  |  |  |  |
+| Ekologisk status i Kungsbackafjorden (VISS) |  |  |  |  |  |
+| Skyddad natur totalt, andel (Kolada) |  |  |  |  |  |
+| Vattendrag med god ekologisk status, andel<br>(Kolada) |  |  |  |  |  |
 
 <!-- sida 69 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport Augusti 2023
-
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Andelen elever som skattat sin egen
-livstillfredsställelse som god eller mycket god
-under elevhälsosamtalet, ÅK 8 i % - 84% 92%    93%
-Pojkar.(Elevhälsan i Kungsbacka utvecklar
-metod utifrån hälsosamtal med elever.)
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-70%     68%     65%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- flickor.
-Andelen elever som har skattat sin egen
-livstillfredsställelse som god eller mycket god
-80%     88%     85%
-under elevhälsosamtalet, Gymnasiet ÅK 1 i%
-\- pojkar.
-Avfall från hushåll ska minska med 30% per
-invånare från 2020 till 2030. Startvärde 100, 100
-målvärde 2030 är 70.
-Avfall från kommunens verksamheter ska
-minska med 40 % per heltidsanställd. 100 72,1  84,5
-Startvärde 100, målvärde 2030 är 60.
-Energiförbrukning i kommuns lokaler per
-kvadratmeter
-Utsläpp till luft av växthusgaser totalt, ton
-CO2-ekv/inv (Kolada)
-Miljöbilar, andel av totalt antal bilar i det
-geografiska området, (Kolada)
-Slutanvändning av el inom det geografiska
-området, MWh/inv (Kolada)
-Matens klimatpåverkan från de offentliga
-måltiderna ska minska räknat i kg CO2-
-ekv/kg livsmedel. Målsättningen är 1,0 år
-2030\.
-Antal kemiska produkter med
-utfasningsämnen, inklusive hormonstörande
-ämnen på SIN-listan ska minska i
-kommunens verksamheter. 2021 var antalet
-124 (KEMgroup PRO)
-Ekologisk status i Kungsbackafjorden (VISS)
-Skyddad natur totalt, andel (Kolada)
-Vattendrag med god ekologisk status, andel
-(Kolada)
 
 2.2.1 Utbildningen ska främja barns och elevers välmående och öka närvaron
 
@@ -3413,28 +3363,6 @@ Delårsrapport Augusti 2023
 Skolledardagarna, september 2023 kommer ha fokus på innovation inom offentlig sektor i allmänhet
 och på förskola och skola i synnerhet.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Insikt, SKRs servicemätning av
-kommunernas myndighetsutövning för
-företag. Nöjd-kund-index utifrån sammanvägt
-betygsindex 0-100, för hur företag i 66 66     70
-kommunen bedömer Kungsbacka kommuns
-myndighetsutövning, vilket är en viktig del av
-företagsklimatet.
-Svenskt Näringslivs attitydundersökning av
-kommuners företagsklimat. Medelvärde
-3,3     3,5     3,4
-utifrån skala 1-6, där företag bedömer
-företagsklimatet i Kungsbacka kommun.
-Sysselsatt dagbefolkning, antal 27 384
-Andel av sysselsatt dagbefolkning inom
-5,1%
-Göteborgsregionen
-Företagsamhet, andel av invånare 16–74 år
-Antal nystartade företag per 1 000 invånare
-16–64 år (etableringsfrekvens)
-
 2.4 I Kungsbacka utvecklas vi hela livet
 Beslutats av
 
@@ -3462,6 +3390,17 @@ legat på att ge stöd för enheternas analys- och kartläggningsarbete samt erb
 2022 har förskolor och skolor arbetat på och förvaltningen har stöttat utifrån behov. Justering av bemanning har
 
 11
+
+[Tabell 72-1](handlingar.tabeller/72-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Insikt, SKRs servicemätning av<br>kommunernas myndighetsutövning för<br>företag. Nöjd-kund-index utifrån sammanvägt<br>betygsindex 0-100, för hur företag i<br>kommunen bedömer Kungsbacka kommuns<br>myndighetsutövning, vilket är en viktig del av<br>företagsklimatet. | 66 | 66 | 70 |  |  |
+| Svenskt Näringslivs attitydundersökning av<br>kommuners företagsklimat. Medelvärde<br>utifrån skala 1-6, där företag bedömer<br>företagsklimatet i Kungsbacka kommun. | 3,3 | 3,5 | 3,4 |  |  |
+| Sysselsatt dagbefolkning, antal | 27 384 |  |  |  |  |
+| Andel av sysselsatt dagbefolkning inom<br>Göteborgsregionen | 5,1% |  |  |  |  |
+| Företagsamhet, andel av invånare 16–74 år |  |  |  |  |  |
+| Antal nystartade företag per 1 000 invånare<br>16–64 år (etableringsfrekvens) |  |  |  |  |  |
 
 <!-- sida 73 -->
 
@@ -3499,37 +3438,22 @@ Dessa bedömningar är utgångspunkten för de dialoger verksamhetscheferna geno
 tillsammans med avdelningen för Kvalitet & Utveckling. Det är också ett sätt att ta fram kvalitativt underlag för
 att bättre kunna identifiera utvecklingsområden.
 
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Genomsnittligt meritvärde i årskurs 9.
-Meritvärdet utgörs av summan av de 17
-246     239     237
-bästa betygen i elevens slutbetyg och kan
-max vara 340.
-Arbetslöshet för ungdomar 16–24 år i
-kommunen. (Källa: Arbetsförmedlingen och 2,8% 2,6% 1,7%
-SCB)
-Självkänsla och framtidstro för
-gymnasieelever år 2, index med skala 0–10
-enligt Skolenkäten som genomförs enligt 7,7
-Skolinspektionens skolenkät. Enkäten
-genomförs vartannat år.
-Genomsnittligt betygspoäng för gymnasiets
-avgångselevers betygspoäng som kan vara 14 14,3 14,5
-max 20.
-
 12
+
+[Tabell 73-74-1](handlingar.tabeller/73-74-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Genomsnittligt meritvärde i årskurs 9.<br>Meritvärdet utgörs av summan av de 17<br>bästa betygen i elevens slutbetyg och kan<br>max vara 340. | 246 | 239 | 237 |  |  |
+| Arbetslöshet för ungdomar 16–24 år i<br>kommunen. (Källa: Arbetsförmedlingen och<br>SCB) | 2,8% | 2,6% | 1,7% |  |  |
+| Självkänsla och framtidstro för<br>gymnasieelever år 2, index med skala 0–10<br>enligt Skolenkäten som genomförs enligt<br>Skolinspektionens skolenkät. Enkäten<br>genomförs vartannat år. |  | 7,7 |  |  |  |
+| Genomsnittligt betygspoäng för gymnasiets<br>avgångselevers betygspoäng som kan vara<br>max 20. | 14 | 14,3 | 14,5 |  |  |
+| Andel vuxna personer som inte återkommit<br>till försörjningsstöd inom ett år efter avslutat<br>försörjningsstöd (%) | 82% | 67% | 69% |  |  |
 
 <!-- sida 74 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport Augusti 2023
-
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-Andel vuxna personer som inte återkommit
-till försörjningsstöd inom ett år efter avslutat 82% 67% 69%
-försörjningsstöd (%)
 
 2.4.1 Undervisningen ska utgå från positiva förväntningar för hög måluppfyllelse i alla
 skolformer
@@ -3642,19 +3566,15 @@ Delårsrapport Augusti 2023
 •  Förvaltningens och grundskolornas förberedelser för Digitala nationella prov DNP fortsätter enligt
 plan.
 •  Digital provtjänst Dugga är nu tillgängligt för alla elever år 6-9.
-Indikatorer                    Utfall Utfall  Utfall  Utfall Målvärde
-2020    2021   2022    2023    2023
-
-Hållbart medarbetarengagemang, ett index
-för medarbetarnas samlade uppfattning om
-områdena motivation, ledarskap och styrning, 78 78 78
-skala 1-100 enligt Medarbetarenkäten.
-Mätningen görs vartannat år.
-Jämställdhetsindex, Jämix. Antal poäng av
-max 180. Jämix beräknas utifrån nio 91 103     114
-nyckeltal med skala 1–20.
 
 15
+
+[Tabell 76-1](handlingar.tabeller/76-1.csv)
+
+| Indikatorer | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 | Målvärde<br>2023 |
+| --- | --- | --- | --- | --- | --- |
+| Hållbart medarbetarengagemang, ett index<br>för medarbetarnas samlade uppfattning om<br>områdena motivation, ledarskap och styrning,<br>skala 1-100 enligt Medarbetarenkäten.<br>Mätningen görs vartannat år. | 78 | 78 | 78 |  |  |
+| Jämställdhetsindex, Jämix. Antal poäng av<br>max 180. Jämix beräknas utifrån nio<br>nyckeltal med skala 1–20. | 91 | 103 | 114 |  |  |
 
 <!-- sida 77 -->
 
@@ -4037,162 +3957,83 @@ tillfälliga statsbidrag som skolorna bland annat använde för inköp av digita
 
 4.2 Resursmått
 
-Namn         Utfall 2019 Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023
-
-Kostnad per
-inskrivet barn i
-141 687    135 349    136 691    127 000
-pedagogisk
-omsorg
-Kostnad per
-inskrivet barn,
-163 962    163 325    168 505    175 173
-kommunal
-förskola
-Kostnad per
-inskrivet barn,
-45 686     43 719      46 373     48 538
-kommunalt
-fritidshem
-Kostnad per
-elev,         548 000    582 800    550 300
-grundsärskola
-Kostnad
-kommunal
-105 500    110 400    113 067    119 100
-grundskola åk
-1-9, kr/elev
-Kostnad för
-undervisning i
-kommunal      59 692     62 502      65 337     68 215
-grundskola åk
-1-9, kr/elev
-Kostnad för
-lokaler i
-kommunal      17 416     18 783      19 080     21 239
-grundskola åk
-1-9, kr/elev
-Kostnad för
-lärverktyg i
-kommunal       4 751      5 167      4 828      5 840
-grundskola åk
-1-9, kr/elev
 23
+
+[Tabell 84-85-1](handlingar.tabeller/84-85-1.csv)
+
+|  |  | Namn | Utfall 2019 | Utfall 2020 | Utfall 2021 | Utfall 2022 | Utfall 2023 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Kostnad per<br>inskrivet barn i<br>pedagogisk<br>omsorg | 141 687 | 135 349 | 136 691 | 127 000 |  |
+|  |  | Kostnad per<br>inskrivet barn,<br>kommunal<br>förskola | 163 962 | 163 325 | 168 505 | 175 173 |  |
+|  |  | Kostnad per<br>inskrivet barn,<br>kommunalt<br>fritidshem | 45 686 | 43 719 | 46 373 | 48 538 |  |
+|  |  | Kostnad per<br>elev,<br>grundsärskola | 548 000 | 582 800 | 550 300 |  |  |
+|  |  | Kostnad<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 105 500 | 110 400 | 113 067 | 119 100 |  |
+|  |  | Kostnad för<br>undervisning i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 59 692 | 62 502 | 65 337 | 68 215 |  |
+|  |  | Kostnad för<br>lokaler i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 17 416 | 18 783 | 19 080 | 21 239 |  |
+|  |  | Kostnad för<br>lärverktyg i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 4 751 | 5 167 | 4 828 | 5 840 |  |
+|  |  | Kostnad för<br>måltider i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 7 502 | 7 376 | 7 520 | 6 721 |  |
+|  |  | Kostnad<br>elevhälsa i<br>kommunal<br>grundskola åk<br>1-9, kr/elev | 3 108 | 3 123 | 3 394 | 3 443 |  |
 
 <!-- sida 85 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport Augusti 2023
 
-Namn         Utfall 2019 Utfall 2020 Utfall 2021 Utfall 2022 Utfall 2023
-Kostnad för
-måltider i
-kommunal       7 502      7 376      7 520      6 721
-grundskola åk
-1-9, kr/elev
-Kostnad
-elevhälsa i
-kommunal       3 108      3 123      3 394      3 443
-grundskola åk
-1-9, kr/elev
-
 4.3 Prestationsmått
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-
-Årsarbetare i förskoleklass med
-94,5%   91,8%   96,6%   93,6%
-pedagogisk högskoleexamen
-Antal inskrivna barn per personal,
-4,3     4,2     4,1     4,3
-pedagogisk omsorg
-Barn per barngrupp i förskola 12,1  11,8    12     12,6
-Inskrivna elever per årsarbetare i
-21,9    21      17,9   21,3
-fritidshem
-Årsarbetare i fritidshem med
-45%     42%     38%    39%
-pedagogisk högskoleexamen
-Elever/lärare (årsarbetare) i grundskola
-13,3    13,3    13,1   13,2
-F-9
-Antal inskrivna barn per årsarbetare,
-4,9     4,6     4,6     4,5
-förskola
-Barn 1-5 år, andel i förskola 85,9% 86,6%  87,4%   85,4%
-Elever folkbokf. i kommunen, andel i
-11,8%   11,9%   16,9%   17,9%
-fristående skola
-Andel förskolebarn i enskild regi 15% 15%   15%    15%
-Lärare med pedagogisk
-högskoleexamen i kommunal  84,9%   85,9%    87%    88,6%
-grundskola åk 1-9
-Årsarbetare i förskolan med pedagogisk
-52%     48%     47%    48%
-högskoleexamen
 4.4 Effektmått
+
 Namn                        Utfall Utfall  Utfall  Utfall Utfall
 2019    2020   2021    2022  2023
 
 24
+
+[Tabell 85-1](handlingar.tabeller/85-1.csv)
+
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Årsarbetare i förskoleklass med<br>pedagogisk högskoleexamen | 94,5% | 91,8% | 96,6% | 93,6% |  |
+|  | Antal inskrivna barn per personal,<br>pedagogisk omsorg | 4,3 | 4,2 | 4,1 | 4,3 |  |
+|  | Barn per barngrupp i förskola | 12,1 | 11,8 | 12 | 12,6 |  |
+|  | Inskrivna elever per årsarbetare i<br>fritidshem | 21,9 | 21 | 17,9 | 21,3 |  |
+|  | Årsarbetare i fritidshem med<br>pedagogisk högskoleexamen | 45% | 42% | 38% | 39% |  |
+|  | Elever/lärare (årsarbetare) i grundskola<br>F-9 | 13,3 | 13,3 | 13,1 | 13,2 |  |
+|  | Antal inskrivna barn per årsarbetare,<br>förskola | 4,9 | 4,6 | 4,6 | 4,5 |  |
+|  | Barn 1-5 år, andel i förskola | 85,9% | 86,6% | 87,4% | 85,4% |  |
+|  | Elever folkbokf. i kommunen, andel i<br>fristående skola | 11,8% | 11,9% | 16,9% | 17,9% |  |
+|  | Andel förskolebarn i enskild regi | 15% | 15% | 15% | 15% |  |
+|  | Lärare med pedagogisk<br>högskoleexamen i kommunal<br>grundskola åk 1-9 | 84,9% | 85,9% | 87% | 88,6% |  |
+|  | Årsarbetare i förskolan med pedagogisk<br>högskoleexamen | 52% | 48% | 47% | 48% |  |
 
 <!-- sida 86 -->
 
 Nämnden för Förskola & Grundskola                Kungsbacka kommun
 Delårsrapport Augusti 2023
 
-Namn                        Utfall Utfall  Utfall  Utfall Utfall
-2019    2020   2021    2022  2023
-Andel elever som klarat alla delprov i
-81%                   70%
-svenska åk 3
-Andel elever med provbetyg A-E,
-92%                   91,6%
-matematik åk 6
-Andel elever med provbetyg A-E,
-95,8%                  94%
-svenska åk 6
-Andel elever i åk 6 som uppnått
-82,6%   84,1%   85,3%  80,1%
-kunskapskraven i alla ämnen
-Andel (%) elever i åk. 9 som uppnått
-82%    87,3%   84,5%  82%
-målen i alla ämnen, kommunala skolor
-Andel (%) elever i årskurs 9 behöriga till
-89%    92,5%   89,9%  88,7%
-gymnasieskolan, kommunala skolor
-Genomsnittligt meritvärde i årskurs 9,
-238    245,7   239,2  237
-kommunala skolor
-Andel elever som uppnått målen i
-samtliga ämnen, avvikelse från 0     5      1,2   1
-modellberäknat värde
-Andel elever som är behöriga till ett
-yrkesprogram, avvikelse från -0,3   2,2     -1,1  -1,1
-modellberäknat värde
-Genomsnitttligt meritvärde, avvikelse
--3,7    3,5     -5,3  -4,7
-från modellberäknat värde
-Andel (%) elever i åk. 9 som uppnått
-96,6%    96%    91,7%  91,1%
-målen i alla ämnen, fristående skolor
-Jag är nöjd med min skola som helhet
-84     80      81    71          75
-(enkät åk 5)
-Jag är nöjd med min skola som helhet
-71     75      71    65
-(enkät åk 9)
-Andel elever åk 9 behöriga till
-100%   97,6%   96,2%  94,4%
-yrkesprogram, fristående skolor
-Genomsnittligt meritvärde i årskurs 9,
-258,8  255,9   249,8  252,6
-fristående skolor
 Utfall för nationella prov och betyg för 2023 publiceras v48 2023.
 Enkätresultat för årskurs 9 saknas för 2023 då målgruppen i Skolinspektionens enkät ändrats till årskurs 8.
 
 25
+
+[Tabell 86-1](handlingar.tabeller/86-1.csv)
+
+|  | Namn | Utfall<br>2019 | Utfall<br>2020 | Utfall<br>2021 | Utfall<br>2022 | Utfall<br>2023 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Andel elever som klarat alla delprov i<br>svenska åk 3 | 81% |  |  | 70% |  |
+|  | Andel elever med provbetyg A-E,<br>matematik åk 6 | 92% |  |  | 91,6% |  |
+|  | Andel elever med provbetyg A-E,<br>svenska åk 6 | 95,8% |  |  | 94% |  |
+|  | Andel elever i åk 6 som uppnått<br>kunskapskraven i alla ämnen | 82,6% | 84,1% | 85,3% | 80,1% |  |
+|  | Andel (%) elever i åk. 9 som uppnått<br>målen i alla ämnen, kommunala skolor | 82% | 87,3% | 84,5% | 82% |  |
+|  | Andel (%) elever i årskurs 9 behöriga till<br>gymnasieskolan, kommunala skolor | 89% | 92,5% | 89,9% | 88,7% |  |
+|  | Genomsnittligt meritvärde i årskurs 9,<br>kommunala skolor | 238 | 245,7 | 239,2 | 237 |  |
+|  | Andel elever som uppnått målen i<br>samtliga ämnen, avvikelse från<br>modellberäknat värde | 0 | 5 | 1,2 | 1 |  |
+|  | Andel elever som är behöriga till ett<br>yrkesprogram, avvikelse från<br>modellberäknat värde | -0,3 | 2,2 | -1,1 | -1,1 |  |
+|  | Genomsnitttligt meritvärde, avvikelse<br>från modellberäknat värde | -3,7 | 3,5 | -5,3 | -4,7 |  |
+|  | Andel (%) elever i åk. 9 som uppnått<br>målen i alla ämnen, fristående skolor | 96,6% | 96% | 91,7% | 91,1% |  |
+|  | Jag är nöjd med min skola som helhet<br>(enkät åk 5) | 84 | 80 | 81 | 71 | 75 |
+|  | Jag är nöjd med min skola som helhet<br>(enkät åk 9) | 71 | 75 | 71 | 65 |  |
+|  | Andel elever åk 9 behöriga till<br>yrkesprogram, fristående skolor | 100% | 97,6% | 96,2% | 94,4% |  |
+|  | Genomsnittligt meritvärde i årskurs 9,<br>fristående skolor | 258,8 | 255,9 | 249,8 | 252,6 |  |
 
 <!-- sida 87 -->
 

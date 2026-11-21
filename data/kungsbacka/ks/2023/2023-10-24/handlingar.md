@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20241206162751id_/https://kungsbacka.se/d
 sha256: 4ba8b9fcdd723a5ba3fe049b0189a29e25b3e3f6fe2b398eb8d31c976ff31210
 bytes: 33015170
 sidor: 441
-hamtad: 2026-10-20T08:42:36+00:00
-konverterad: 2026-10-20T08:44:40+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T12:39:14+00:00
+konverterad: 2026-11-21T12:42:03+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: delvis
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ej-konverterad, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr]
@@ -337,14 +337,14 @@ Kungsbacka kommun          Delårsbokslut 2023                   3
 
 [Tabell 11-1](handlingar.tabeller/11-1.csv)
 
-| Belopp i miljoner kronor 2023-08-31 Prognos 2023 |  |  |
+| Belopp i miljoner kronor | 2023-08-31 | Prognos 2023 |
 | --- | --- | --- |
 | Kungsbacka kommun | 232 | 230 |
 | Kommunkoncern | 291 | - |
 
 [Tabell 11-2](handlingar.tabeller/11-2.csv)
 
-| Pensioner inklusive särskild löneskatt, miljoner 2022 Prognos 2023<br>kronor |  |  |
+| Pensioner inklusive särskild löneskatt, miljoner<br>kronor | 2022 | Prognos 2023 |
 | --- | --- | --- |
 | Årets pensionskostnader i resultaträkningen | 259 | 506 |
 | Summa pensionsförpliktelser i balansräkningen | 1 788 | 1 942 |
@@ -641,7 +641,7 @@ Kungsbacka kommun          Delårsbokslut 2023                   9
 
 [Tabell 17-1](handlingar.tabeller/17-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka finns attraktiva bostäder för olika behov, generationer och livsstilar. | – |
 | Kungsbacka har välkomnande och trygga miljöer. | – |
@@ -738,7 +738,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  11
 
 [Tabell 19-1](handlingar.tabeller/19-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kungsbacka växer med en långsiktigt hållbar ekonomi. | – |
 | Kungsbacka ska verka för ett fossilfritt och cirkulärt samhälle som också skyddar och<br>främjar biologisk mångfald. |  |
@@ -843,7 +843,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  13
 
 [Tabell 21-1](handlingar.tabeller/21-1.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Kommunen är en möjliggörare för entreprenörer och företagsamma människor. |  |
 | I Kungsbacka får vi nya arbetstillfällen och snabb etablering både för individer och företag<br>genom samverkan mellan näringsliv och utbildning. |  |
@@ -890,7 +890,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  14
 
 [Tabell 22-2](handlingar.tabeller/22-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | Barn och ungdomar utvecklas för att nå sin fulla kapacitet och god självkänsla. | – |
 | I Kungsbacka stärks individens och familjens egen förmåga att ta hand om sitt liv. | – |
@@ -988,7 +988,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  16
 
 [Tabell 24-2](handlingar.tabeller/24-2.csv)
 
-| Fokusområden Trend |  |
+| Fokusområden | Trend |
 | --- | --- |
 | I Kungsbacka är invånare, kunder, företag och föreningar medskapande i att utforma det<br>goda livet. |  |
 | Invånare, företag och besökare känner sig alltid välkomna, sedda och korrekt bemötta i<br>kontakt med kommunen. | – |
@@ -1139,7 +1139,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  19
 
 [Tabell 27-1](handlingar.tabeller/27-1.csv)
 
-| Prognos<br>Balanskravsutredning, miljoner kronor 2022<br>2023 |  |  |
+| Balanskravsutredning, miljoner kronor | 2022 | Prognos<br>2023 |
 | --- | --- | --- |
 | Årets resultat enligt resultaträkningen (fullfondsmodellen) | 756 | 230 |
 | Pensionsförpliktelser före 1998 | -42 | 21 |
@@ -1500,7 +1500,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  27
 
 [Tabell 35-1](handlingar.tabeller/35-1.csv)
 
-| Miljoner kronor Delår Delår Bokslut Budget Prognos Prognos Avvikelse |  |  |  |  |  |  |  |
+| Miljoner kronor | Delår | Delår | Bokslut | Budget | Prognos | Prognos | Avvikelse |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | 2022 | 2023 | 2022 | 2023 | 2023 | Avvikelse | Procent |
 | Kommunfullmäktige | -2,1 | -3,7 | -3,5 | -6,6 | -4,9 | 1,7 | 25,8% |
@@ -1729,7 +1729,7 @@ Kungsbacka kommun          Delårsbokslut 2023                  31
 
 [Tabell 39-4](handlingar.tabeller/39-4.csv)
 
-| Miljoner kronor Utfall Prognos Prognos Beslutad/ Avvikelse<br>tom 2023 för kalkylerade<br>2023- projektet utgifter<br>08-31 |  |  |  |  |  |
+| Miljoner kronor | Utfall<br>tom<br>2023-<br>08-31 | Prognos<br>2023 | Prognos<br>för<br>projektet | Beslutad/<br>kalkylerade<br>utgifter | Avvikelse |
 | --- | --- | --- | --- | --- | --- |
 | VA sanering Hanhals etapp 1 | -33,3 | -50,0 | -80 | -80 | 0 |
 | Fjärås VV Hammerö etapp 1 | -85,6 | -9,0 | -85,6 | -70 | -15,6 |
@@ -4815,7 +4815,7 @@ D okumentreferens Bilaga 1. Behovsbedömning verksamhetsområde dagvatten Åsa P
 
 [Tabell 129-1](handlingar.tabeller/129-1.csv)
 
-| Kategori Parameter |  |
+| Kategori | Parameter |
 | --- | --- |
 | Kvittblivning | Infiltrationskapacitet |
 |  | Grundvattennivå |
@@ -4902,8 +4902,9 @@ D okumentreferens Bilaga 1. Behovsbedömning verksamhetsområde dagvatten Åsa P
 
 [Tabell 131-132-1](handlingar.tabeller/131-132-1.csv)
 
-| Större sammanhang | Poäng i<br>modell | Motivering |
+| Större sammanhang | Poäng i | Motivering |
 | --- | --- | --- |
+|  | modell |  |
 | Kvittblivning |  |  |
 | Infiltrationskapacitet.<br>Marken är mestadels tät med en<br>permeabilitet >10-8 m/s eller består<br>av berg. | 2 | Möjligheten till infiltration är begränsad då<br>fastigheterna främst ligger på berg.<br>Kringliggande mark består till största delen av<br>sand och lera. De fastigheter som angränsar till<br>sandig mark har möjlighet till infiltration. |
 | Grundvattennivå. | - | Parametern har viktats till 0 då tillförlitliga data<br>saknas. |
@@ -7583,7 +7584,7 @@ L ysholmsv_230814 (2)                                               27/42
 
 [Tabell 198-199-1](handlingar.tabeller/198-199-1.csv)
 
-| Kategori Parameter |  |
+| Kategori | Parameter |
 | --- | --- |
 | Kvittblivning | Infiltrationskapacitet |
 |  | Grundvattennivå |
@@ -7695,7 +7696,8 @@ L ysholmsv_230814 (2)                                               29/42
 | Infiltrationskapacitet.<br>Marken är mestadels tät<br>med en permeabilitet >10-8<br>m/s eller består av berg. | 2 | Fastigheterna ligger mestadels på lera och mindre delar på<br>postglacial finsand med bättre infiltration. Detta resulterar i att<br>infiltrationsmöjligheterna bedöms till begränsade, se kapitel 4.5. |
 | Grundvattennivå. | 0 | Parametern har viktats till 0 då tillförlitliga data bedöms saknas. |
 | Avledning av dagvatten.<br>Inga eller ett fåtal kan<br>avleda sitt dagvatten till<br>naturmark/recipient. | 2 | Majoriteten av fastigheterna i utredningsområdet avleder sitt<br>dagvatten till gata eller fastighet Nötegång 2:77, se mer i kapitel<br>4.7.5. |
-| Bebyggelse<br>(markanvändning) |  |  |
+| Bebyggelse |  |  |
+| (markanvändning) |  |  |
 | Bebyggelsetryck.<br>Högt bebyggelsetryck/<br>omvandling till<br>permanentboende. Detta<br>ska vara beslutat i FÖP<br>eller DP. | 1 | Enligt kommunens översiktsplan tillhör området runt<br>Lysholmsvägen den yttre delen av utvecklingsorten Särö.<br>Kommunens planering för nya bostäder och verksamheter<br>fokuserar på de centrala delarna av orten, som har närhet till<br>service och kollektivtrafik. Intresset av att bebygga även de yttre<br>delarna har genom åren varit förhållandevis högt men kommunen<br>har inte en aktiv planering i dessa delar. Ny bebyggelse i de yttre<br>delarna kan prövas med förhandsbesked men detta sker med stor<br>restriktivitet. |
 | Andel hårdgjord yta på<br>fastigheter i median (t.ex.<br>tak, asfalt, berg).<br>Mer än 40% hårdgjord yta. | 2 | Ca 64% av fastigheternas yta utgörs av hårdgjord yta, se kapitel<br>4.6. |
 | Storlek på fastigheter<br>(median).<br><500 m2. | 2 | Median 431 m2, se kapitel 4.5. |
@@ -8658,31 +8660,38 @@ VÄNERSBORGS  TINGSRÄTT     UNDERRÄTTELSE               Aktbilaga 10
 Mark- och miljödomstolen   2023-07-05                  Mål nr P 4810-22
 R13
 
-577816
-
-dI.koD
 Kungsbacka kommun
+
 Stadshuset
 434 81 Kungsbacka
+
 Parter: -        m.fl. ./. Kungsbacka kommun
 Målet gäller: överklagande av Kommunfullmäktige i Kungsbackas kommuns beslut
+
 2022-10-18, dnr KS 2020-00131, angående antagande av detaljplan för verksamheter
 inom del av Frillesås-Rya 3:77 m-fl i Kungsbacka kommun
+
 De bifogade handlingarna skickas till er för kännedom.
+
 Kontakta oss gärna per e-post (e-post borttagen) eller telefon om ni har frågor.
+
 Telefon 0521-270 327
+
 Bifogade handlingar: aktbilaga 1, 5, 9
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
 
-<!-- sida 225 -->
+Dok.Id 618775
 
-Bilaga I
+<!-- sida 225 -->
 
 AN Granskningsyttrande 1(7)
 Diarienummer
@@ -8709,7 +8718,7 @@ Prövningsgrunder enligt PBL 11 kap. 10 8
 Länsstyrelsen befarar att:
 » riksintresse enligt miljöbalken påtagligt kommer att skadas,
 
-e — det som föreslås blir olämpligt med avseende på hälsa eller säkerhet eller till risken för
+» — det som föreslås blir olämpligt med avseende på hälsa eller säkerhet eller till risken för
 olyckor, översvämning eller erosion.
 
 \+ — miljökvalitetsnormer enligt miljöbalken inte iakttas,
@@ -8770,7 +8779,7 @@ Det framgår av planbeskrivningen att fastighetsägaren ansvarar för utförande
 framtida drift och underhåll vad gäller samtliga anläggningar inom kvartersmark ex
 dagvattenanläggningar. Om avsikten är att exempelvis ingå exploateringsavtal ska kommunen
 redovisa avtalens huvudsakliga innehåll liksom konsekvenserna av att planen helt eller delvis
-genomförs med stöd av ett eller flera sådana avtal i planbeskrivningen (5 kap. 13 \$ PBL). Detta
+genomförs med stöd av ett eller flera sådana avtal i planbeskrivningen (5 kap. 13 § PBL). Detta
 saknas i planhandlingarna.
 
 Hälsa- och säkerhet — Builer
@@ -8882,7 +8891,7 @@ lämpliga bestämmelser. En bestämmelse om minsta tillåten takvinkel har lagts
 kulturhistoriskt värdefull bebyggelse och har en mycket liten positiv betydelse för påverkan på
 omkringliggande landskap. Höjden hos den nya bebyggelsen är fortfarande betydande och att
 möjliggöra så hög bebyggelse så pass nära en äldre, särskilt kulturhistoriskt värdefull gårdsmiljö
-är olämpligt ur kulturmiljösynpunkt. Kommunen bör se över hur anpassningskravet i 2 kap 6 \$
+är olämpligt ur kulturmiljösynpunkt. Kommunen bör se över hur anpassningskravet i 2 kap 6 §
 PBL ska tillgodoses vad gäller anpassning till landskapsbild och till kulturvärden på platsen.
 
 Där miljökonsekvenserna beskrivs saknas koppling till de delar av miljömålet God bebyggd
@@ -8903,7 +8912,7 @@ Ur arkeologiskt hänseende vill Länsstyrelsen påminna om att de arkeologiska u
 utfördes 2016 ej innefattade hela den yta som nu finns med i planbeskrivningen (se bifogad
 karta). Mot bakgrund av tidigare påträffade ytor med fornlämningar inom planområdet skall de
 två ytorna i södra delen av planområdet (markerade med svart i bifogad karta) underkastas
-arkeologisk utredning enligt 2 kap 11 \$ Kulturmiljölagen. Ansökan om arkeologisk utredning
+arkeologisk utredning enligt 2 kap 11 § Kulturmiljölagen. Ansökan om arkeologisk utredning
 söks hos Länsstyrelsen.
 
 Fornläming som skal slutundersökas.
@@ -8912,8 +8921,6 @@ kommun
 
 Område som ännu ej
 MR har utretts arkeologiskt
-
-(Å
 
 Biotopskydd
 
@@ -9017,29 +9024,35 @@ VÄNERSBORGS  TINGSRÄTT     KUNGÖRELSE                  Aktbilaga 9
 Mark- och miljödomstolen   2023-07-05                  Mål nr P 4810-22
 R13
 
-981716
-
-dI.koD
 Mark- och miljödomstolen
+
 Kommunfullmäktige i Kungsbackas kommuns beslut den 18 oktober 2022-10-18 (§ 164,
 dnr 2020-00131) att anta detaljplan för verksamheter inom del av Frillesås-Rya 3:77 m.fl.
 har överklagats till Vänersborgs tingsrätt, mark- och miljödomstolen, som handlägger
 överklagandena i mål nr P 4810-22.
+
 Den som vill yttra sig med anledning av överklagandena ska göra detta skriftligen senast
 den 10 augusti 2023. Ange fullständiga kontaktuppgifter och gärna även e-postadress i
 yttrandet. Målet kan komma att avgöras även om berörda inte yttrar sig.
+
 Yttrandet skickas till Vänersborgs tingsrätt, mark- och miljödomstolen, Box 1070, 462 28
 Vänersborg eller via e-post (e-post borttagen). Ange domstolens målnummer
 P 4810-22.
+
 Handlingarna i målet finns tillgängliga hos mark- och miljödomstolen vid Vänersborgs
 tingsrätt, Hamngatan 6, Vänersborg.
+
 Sida 1 (av 1)
+
 Om domstolens behandling av personuppgifter, se www.domstol.se/personuppgifter. Kontakta oss för information på annat sätt.
+
 Besöksadress    Öppettider  Postadress     E-post
 Hamngatan 6     måndag–fredag Box 1070     (e-post borttagen)
 08:00–16:00 462 28 Vänersborg
 Telefon                                    Webbplats
 0521-27 02 00                              www.domstol.se/vanersborgs-tingsratt/
+
+Dok.Id 617189
 
 <!-- sida 233 -->
 
@@ -12544,14 +12557,13 @@ Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
 
-V, vattenförsörjning             Ja              Ja
-
 Kung sbacka kommun              VA-taxa 2024                   4 (16)
 
 [Tabell 315-1](handlingar.tabeller/315-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -12782,7 +12794,8 @@ Kung sbacka kommun              VA-taxa 2024                   9 (16)
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 321 -->
 
@@ -12840,7 +12853,8 @@ Kung sbacka kommun              VA-taxa 2024                   10 (16)
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22 kr | om 28 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22 kr | om 28 kr |
+| av dagvatten |  |  |
 
 <!-- sida 322 -->
 
@@ -12993,16 +13007,9 @@ Kung sbacka kommun              VA-taxa 2024                   13 (16)
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift                           500 kr
-
-b) en avgift per m³ hämtat vatten         20 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 0,95 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -13030,6 +13037,18 @@ En Grundavgift per år 14.1 a) 360 kr 360 kr
 
 Kung sbacka kommun              VA-taxa 2024                   14 (16)
 
+[Tabell 325-1](handlingar.tabeller/325-1.csv)
+
+| a) | Årlig avgift | 500 kr |
+| --- | --- | --- |
+| b) | en avgift per m³ hämtat vatten | 20 kr |
+
+[Tabell 325-2](handlingar.tabeller/325-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 0,95 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 326 -->
 
 § 18
@@ -13039,7 +13058,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 § 19
 
@@ -13069,8 +13087,9 @@ Kung sbacka kommun              VA-taxa 2024                   15 (16)
 
 [Tabell 326-1](handlingar.tabeller/326-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |
@@ -13985,15 +14004,15 @@ obebyggd fastighet.
 Avgift tas ut för nedan angivna ändamål:
 
 Ändamål                          Anläggningsavgift Brukningsavgift
-V, vattenförsörjning             Ja              Ja
 
 VA-taxa                    Sida 2 av
 2023                       13
 
 [Tabell 347-1](handlingar.tabeller/347-1.csv)
 
-| S, spillvattenavlopp | Ja | Ja |
+| V, vattenförsörjning | Ja | Ja |
 | --- | --- | --- |
+| S, spillvattenavlopp | Ja | Ja |
 | Df, dag- och dränvattenavlopp från fastighet | Ja | Ja |
 | Dg, dagvattenavlopp från allmän platsmark | Ja | Ja |
 
@@ -14229,7 +14248,8 @@ VA-taxa                   Sida 9 av
 | Förbindelsepunktsavgift | 5.1 b) | 100% | 6.1 b) | 100% |
 | Tomtyteavgift | 5.1 c) | 100% | 6.1 c) | 70% |
 | Bostadsenhetsavgift | 5.1 d) | 0% | - |  |
-| Avgift för Dagvatten utan att<br>förbindelsepunkt upprättas | 5.1 e) | 100% | 6.1 d) | 100% |
+| Avgift för Dagvatten utan att | 5.1 e) | 100% | 6.1 d) | 100% |
+| förbindelsepunkt upprättas |  |  |  |  |
 
 <!-- sida 353 -->
 
@@ -14290,7 +14310,8 @@ VA-taxa                   Sida 10 av
 
 |  | Utan moms | Med moms |
 | --- | --- | --- |
-| En avgift per m2 Allmän platsmark för bortledning<br>av dagvatten | om 22 kr | om 28 kr |
+| En avgift per m2 Allmän platsmark för bortledning | om 22 kr | om 28 kr |
+| av dagvatten |  |  |
 
 <!-- sida 354 -->
 
@@ -14446,16 +14467,9 @@ VA-taxa                   Sida 13 av
 
 Den som har tillgång till vattenkiosker ska betala brukningsavgift.
 
-a) Årlig avgift                           500 kr
-
-b) en avgift per m³ hämtat vatten         20 kr
-
 § 15
 Den som ansvarar för att Allmän platsmark ställs i ordning och underhålls ska betala
 brukningsavgift.
-
-En årlig avgift per m² Allmän platsmark för bortledning av om 0,95 kronor
-dagvatten
 
 § 16
 Om avloppsnätet tillförs större spillvattenmängd än som svarar mot levererad
@@ -14484,6 +14498,18 @@ En Grundavgift per år 14.1 a) 360 kr 360 kr
 VA-taxa                   Sida 14 av
 2023                      16
 
+[Tabell 357-1](handlingar.tabeller/357-1.csv)
+
+| a) | Årlig avgift | 500 kr |
+| --- | --- | --- |
+| b) | en avgift per m³ hämtat vatten | 20 kr |
+
+[Tabell 357-2](handlingar.tabeller/357-2.csv)
+
+| En årlig avgift per m² Allmän platsmark för bortledning av | om 0,95 kronor |
+| --- | --- |
+| dagvatten |  |
+
 <!-- sida 358 -->
 
 § 18
@@ -14493,7 +14519,6 @@ av att fastighetsägaren åsidosatt sin skyldighet vattentillförseln avstängts
 reducerats eller annan åtgärd vidtagits av huvudmannen debiteras följande avgifter:
 
 Avgifter för vattenmätare
-Vinterförvaring                            840 kr/säsong
 
 § 19
 Om huvudmannens kostnad för att förse en viss eller vissa fastigheter med vatten
@@ -14524,8 +14549,9 @@ VA-taxa                   Sida 15 av
 
 [Tabell 358-1](handlingar.tabeller/358-1.csv)
 
-| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
+| Vinterförvaring | 840 kr/säsong |
 | --- | --- |
+| Trasig vattenmätare, yttre påverkan, dagtid | 2000 kr/st |
 | Trasig vattenmätare, yttre påverkan, jourtid | 4000 kr/st |
 | Ej återlämnad lånad/hyrd vattenmätare | 2000 kr/st |
 | Uthyrning av ståndrörsmätare för brandpost, inklusive vattenmätare | 160 kr/vecka |

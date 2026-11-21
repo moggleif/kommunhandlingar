@@ -12,9 +12,9 @@ kalla_url: https://web.archive.org/web/20240902070447id_/https://kungsbacka.se/d
 sha256: c9c9456942bc7b51d53145b20d2f9a14601a3eafd21ccae70d202313a6b7008d
 bytes: 54897318
 sidor: 544
-hamtad: 2026-10-20T08:59:58+00:00
-konverterad: 2026-10-20T09:02:33+00:00
-pipeline: kommunhandlingar 0.8.10 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.14.0 / tesseract 5.3.4 swe 4.1.0
+hamtad: 2026-11-21T12:59:38+00:00
+konverterad: 2026-11-21T13:02:14+00:00
+pipeline: kommunhandlingar 0.12.0 / pdfplumber 0.11.10 / pdfminer.six 20260107 / pypdfium2 5.15.0 / tesseract 5.5.0 swe 4.1.0
 kvalitet: ocr
 fel: null
 kvalitet_per_sida: [ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ok, ok, ok, tabell-osaker, ok, ok, ok, ok, ok, ocr, ocr, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ocr, ocr, ocr, ok, ok, ok, ok, tabell-osaker, tabell-osaker, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ocr, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok, ok]
@@ -286,11 +286,11 @@ Dagvattenstrategi
 
 Annat
 
-se rm ans»
-
 2023-08-30
 
 Elisabeth Sahlsten och Maria Losman
+
+se rm ans»
 
 <!-- sida 11 -->
 
@@ -936,12 +936,12 @@ Byggnadsnämnden Datum
 2023-06-15
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt Plan- och
-bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen konstaterades att ett
+bygglagen 4 kap. 34 § och Miljöbalken 6 kap. 11 §. Vid undersökningen konstaterades att ett
 genomförande av planen inte innebär betydande miljöpåverkan, varför en miljöbedömning med
 särskild miljökonsekvensbeskrivning inte har gjorts.
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2023-05-25 \$ 148
+Byggnadsnämndens arbetsutskott 2023-05-25 § 148
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-05-12
 
@@ -1031,52 +1031,47 @@ Synpunkter Synpunkter
 
 <!-- sida 30 -->
 
-Bakgrund                                                                            Detaljplanen omfattar 63 fastigheter bildade för bostadsändamål. Av dessa är endast 14
-stycken obebyggda. Bebyggelsen utgörs av större och mindre enbostadshus, varav 45
-stycken bebos året om. Flera byggnader avviker från gällande detaljplan med avseende på
-Uppdrag                                                                             byggnadsarea. Planen omfattar också allmän plats för vägar och för naturmark.
-Byggnadsnämndens arbetsutskott beslutade 2017-03-09 § 100 att uppdra åt förvaltningen att Genomförandetiden för detaljplanen har gått ut.
+Bakgrund
+
+Uppdrag
+Byggnadsnämndens arbetsutskott beslutade 2017-03-09 § 100 att uppdra åt förvaltningen att
 upprätta en ändring av detaljplan V64 för bostäder inom Lunna 9:43 m.fl. i Vallda.
 
-Uppdraget gavs med stöd av då aktuell översiktsplan, ÖP06, som angav att områden med Strandskydd
+Uppdraget gavs med stöd av då aktuell översiktsplan, ÖP06, som angav att områden med
 kommunalt vatten och spillvatten men med en detaljplan som begränsade bebyggelsen till
-Det område som detaljplaneändringen omfattar ingår idag i detaljplan V64, en tidigare bygg-
 fritidshus skulle genomgå en planändring för att möjliggöra åretruntbostadshus.
-nadsplan som vann laga kraft 1969. Området omfattas inte av strandskydd och strandskyd-
-det inträder inte då detaljplanen endast ändras.
+
 Planens syfte och huvuddrag
-Syftet med detaljplaneändringen är att skapa moderna och mer ändamålsenliga bestämmel- Vatten och spillvatten
+
+Syftet med detaljplaneändringen är att skapa moderna och mer ändamålsenliga bestämmel-
 ser gällande byggrätterna inom planområdet för V64.
-Planområdet omfattas av kommunalt verksamhetsområde för vatten och spillvatten. Anlägg-
-ningen är utbyggd.
+
 Läge, areal och markägoförhållanden
+
 Planområdet ligger längs med Lunnavägen, cirka fyra kilometer från Vallda centrum. Plan-
-Förutsättningar       inom   området      och   i nu-
 området består idag av ett till stora delar utbyggt bostadsområde på cirka 17 hektar. Marken
-ägs av privatpersoner. Infrastruktur, såsom vägar och ledningar för vatten och spillvatten, är varande detaljplan
+ägs av privatpersoner. Infrastruktur, såsom vägar och ledningar för vatten och spillvatten, är
 utbyggt.
-Inom planområdet tillåts användningen bostad och denna användning ändras inte genom
-planändringen. Platsen har prövats lämplig för bostadsbebyggelse genom nuvarande detalj-
-Tidigare    ställningstaganden                                                      plan och förutsättningarna för detta har inte ändrats. Nedan följer därför en kort redogörelse
-för de bestämmelser som gäller i nuvarande detaljplan samt en beskrivning av dagvatten-
-hanteringen inom området idag. Inga andra förutsättningar eller intressen berörs av planänd-
-Riksintressen                                                                       ringen.
+
+Tidigare    ställningstaganden
+
+Riksintressen
 Planområdet omfattas av riksintresse högexploaterad kust MB 4:4 och riksintresse för rörligt
-friluftsliv MB 4:2.                                                                 Regleringar genom nuvarande detaljplan
-Hela planområdet ingår idag i en detaljplan som tillåter mindre bostadshus. Området är till Nuvarande detaljplan, V64, reglerar användningen inom området till bostäder som ska
-övervägande del bebyggt med bostadshus som bebos året om. All infrastruktur, vägar och uppföras fristående och i en våning. Vind får inte inredas och källare inte utföras. Bygg-
-ledningar, finns på plats.                                                          nadshöjden begränsas till 3,5 meter och tak får inte ges en större lutning än 27 grader. Varje
-tomtplats får endast bebyggas med en huvudbyggnad om högst 60 kvadratmeter och en
+friluftsliv MB 4:2.
+
+Hela planområdet ingår idag i en detaljplan som tillåter mindre bostadshus. Området är till
+övervägande del bebyggt med bostadshus som bebos året om. All infrastruktur, vägar och
+ledningar, finns på plats.
 Ett genomförande av planen bedöms inte medföra att områdets natur- och kulturvärden
-komplementbyggnad om högst 20 kvadratmeter byggnadsarea. Genom så kallad prickad
 påtagligt skadas eller påverkas negativt. Ett genomförande av planen bedöms inte heller
-mark regleras var inom fastigheterna bebyggelse får uppföras. Detaljplanen reglerar också
 påverka turism och friluftsliv negativt.
-minsta fastighetsstorlek till 900 kvadratmeter.
+
 Översiktliga planer
 Planområdet ligger inte inom någon av de i kommunens översiktsplan utpekade utvecklings-
 orterna.
+
 Detaljplaner
+
 Inom området finns idag en gällande detaljplan, V64. Detaljplanen antogs som en bygg-
 nadsplan som fick laga kraft 1969-10-26. Avsikten med byggnadsplanen var att möjliggöra
 för fristående bostadsbebyggelse med högst en våning utan inredd vind för fritidsändamål.
@@ -1085,29 +1080,86 @@ genom infiltration. Senare gjordes en planändring som fick laga kraft 1982-03-1
 innebar en minskad byggrätt till sammanlagt 80 kvadratmeter byggnadsarea. Anledningen
 till ändringen var att området saknade kommunalt vatten och avlopp och därför var olämp-
 ligt för åretruntbostadshus.
-4 Planbeskrivning                                                                                                              Planbeskrivning 5
+
+4 Planbeskrivning
+
+Detaljplanen omfattar 63 fastigheter bildade för bostadsändamål. Av dessa är endast 14
+stycken obebyggda. Bebyggelsen utgörs av större och mindre enbostadshus, varav 45
+stycken bebos året om. Flera byggnader avviker från gällande detaljplan med avseende på
+byggnadsarea. Planen omfattar också allmän plats för vägar och för naturmark.
+Genomförandetiden för detaljplanen har gått ut.
+
+Strandskydd
+Det område som detaljplaneändringen omfattar ingår idag i detaljplan V64, en tidigare bygg-
+nadsplan som vann laga kraft 1969. Området omfattas inte av strandskydd och strandskyd-
+det inträder inte då detaljplanen endast ändras.
+
+Vatten och spillvatten
+Planområdet omfattas av kommunalt verksamhetsområde för vatten och spillvatten. Anlägg-
+ningen är utbyggd.
+
+Förutsättningar       inom    området     och   i nu-
+
+varande     detaljplan
+
+Inom planområdet tillåts användningen bostad och denna användning ändras inte genom
+planändringen. Platsen har prövats lämplig för bostadsbebyggelse genom nuvarande detalj-
+plan och förutsättningarna för detta har inte ändrats. Nedan följer därför en kort redogörelse
+för de bestämmelser som gäller i nuvarande detaljplan samt en beskrivning av dagvatten-
+hanteringen inom området idag. Inga andra förutsättningar eller intressen berörs av planänd-
+ringen.
+
+Regleringar genom nuvarande detaljplan
+
+Nuvarande detaljplan, V64, reglerar användningen inom området till bostäder som ska
+uppföras fristående och i en våning. Vind får inte inredas och källare inte utföras. Bygg-
+nadshöjden begränsas till 3,5 meter och tak får inte ges en större lutning än 27 grader. Varje
+tomtplats får endast bebyggas med en huvudbyggnad om högst 60 kvadratmeter och en
+komplementbyggnad om högst 20 kvadratmeter byggnadsarea. Genom så kallad prickad
+mark regleras var inom fastigheterna bebyggelse får uppföras. Detaljplanen reglerar också
+minsta fastighetsstorlek till 900 kvadratmeter.
+
+Planbeskrivning 5
 
 <!-- sida 31 -->
 
-Nuvarande detaljplan reglerar inte bebyggelsens placering i förhållande till fastighetsgräns. Planändringens innebörd
+Nuvarande detaljplan reglerar inte bebyggelsens placering i förhållande till fastighetsgräns.
 Enligt övergångsbestämmelserna till plan- och bygglagen ska därför 39 § Byggnadsstadgan
-tillämpas som planbestämmelse vad gäller placering av byggnad. Detta innebär att byggna- Avsikten med ändring av detaljplan V64 inom Lunnaberg är att anpassa planen till rådande
-der ska placeras minst 4,5 meter från fastighetsgräns.                              förhållanden samt göra plansituationen inom fastigheterna mer aktuell och funktionell. Änd-
-ringen innebär justeringar av vissa planbestämmelser men följer gällande detaljplans syfte.
-Dagvatten                                                                           Genom detaljplaneändringen tydliggörs vad som är möjligt att bygga inom fastigheterna
-samt var byggnader ska placeras i förhållande till fastighetsgräns. Den ändrade detaljplanen
+tillämpas som planbestämmelse vad gäller placering av byggnad. Detta innebär att byggna-
+der ska placeras minst 4,5 meter från fastighetsgräns.
+
+Dagvatten
+
 Det finns inga dagvattenledningar inom området utan dagvatten från fastigheter avvattnas
-innebär att fastigheter kan bebyggas med större byggnader än vad som är möjligt idag.
 via ytliga rinnvägar, vägdiken, till två avrinningsområden, ett söderut och ett norrut. Mer-
-parten av planområdet avvattnas norr ut.                                            Den skillnad som detaljplaneändringen innebär får inte större omgivningspåverkan än den
-som redan idag, genom gällande detaljplan, har prövats som lämplig.
+parten av planområdet avvattnas norr ut.
 Vatten från ett fåtal fastigheter i det sydvästra hörnet av planområdet avvattnas söder ut och
-vattnet passerar då det sammanhängande våtmarksområdet Bolgen och hamnar slutligen i Nedan följder en redogörelse för de bestämmelser som fortsätter att gälla, bestämmelser som
-vattenförekomsten Knapabäcken som mynnar i kustvattenförekomsten Öckerösund.        tillkommer samt bestämmelser som upphör att gälla.
+vattnet passerar då det sammanhängande våtmarksområdet Bolgen och hamnar slutligen i
+vattenförekomsten Knapabäcken som mynnar i kustvattenförekomsten Öckerösund.
+
 Huvuddelen av yt- och dagvatten från planområdet rinner norr ut. På grund av topografin i
-form av Brunns väg blir vattnet vid höga flöden stående då vägen utgör en barriär. Det finns Planbestämmelser som fortsätter gälla inom ändring av detalj-
-inte någon trumma under vägen och vattnet når därför inte Stockaån. Vattnet infiltreras i plan
+form av Brunns väg blir vattnet vid höga flöden stående då vägen utgör en barriär. Det finns
+inte någon trumma under vägen och vattnet når därför inte Stockaån. Vattnet infiltreras i
 marken.
+
+6 Planbeskrivning
+
+Planändringens        innebörd
+
+Avsikten med ändring av detaljplan V64 inom Lunnaberg är att anpassa planen till rådande
+förhållanden samt göra plansituationen inom fastigheterna mer aktuell och funktionell. Änd-
+ringen innebär justeringar av vissa planbestämmelser men följer gällande detaljplans syfte.
+Genom detaljplaneändringen tydliggörs vad som är möjligt att bygga inom fastigheterna
+samt var byggnader ska placeras i förhållande till fastighetsgräns. Den ändrade detaljplanen
+innebär att fastigheter kan bebyggas med större byggnader än vad som är möjligt idag.
+
+Den skillnad som detaljplaneändringen innebär får inte större omgivningspåverkan än den
+som redan idag, genom gällande detaljplan, har prövats som lämplig.
+Nedan följder en redogörelse för de bestämmelser som fortsätter att gälla, bestämmelser som
+tillkommer samt bestämmelser som upphör att gälla.
+
+Planbestämmelser som  fortsätter gälla inom ändring av detalj-
+plan
 Användningen inom kvartersmark regleras i nuvarande detaljplan V64 till bostadsändamål.
 Denna användning berörs inte genom planändringen utan är densamma även fortsättnings-
 vis. Även nuvarande bestämmelse om minsta fastighetsstorlek fortsätter gälla. Detaljplanen
@@ -1116,10 +1168,11 @@ får bebyggas med ett enbostadshus och en komplementbyggnad. Även det i planen 
 utfartsförbudet finns kvar.
 
 Tabell 1. Planbestämmelser som fortsätter att gälla inom ändring av detaljplan
-Planbestämmelser som tillkommer inom ändring av detaljplan
 
+Planbestämmelser som  tillkommer inom ändring av detaljplan
 Genom planändringen tillåts inom varje fastighet en sammanlagd byggnadsarea 180 kva-
 dratmeter. Komplementbyggnadens byggnadsarea begränsas till 50 kvadratmeter.
+
 Planändringen innebär att detaljplanen reglerar den tillkommande bebyggelsens placering i
 förhållande till fastighetsgräns. Bestämmelser om nockhöjd för huvudbyggnad och komple-
 mentbyggnad är nya och ersätter en generell bestämmelse om byggnadshöjd på 3,5 meter i
@@ -1127,11 +1180,10 @@ nuvarande plan. Bestämmelsen om nockhöjd i kombination med en lägsta takvinke
 grader innebär en teoretisk begränsning av byggnadshöjden utan att påverka möjligheten till
 takkupor eller frontespis. Dessa bestämmelser gäller för ny- och tillbyggnader vilket innebär
 att befintliga byggnader som avviker från dessa inte blir planstridiga genom planändringen.
-
 En ny bestämmelse reglerar att endast friliggande enbostadshus är tillåtet vilket tydliggör
 detaljplanens syfte.
 
-6 Planbeskrivning                                                                                                              Planbeskrivning 7
+Planbeskrivning 7
 
 [Tabell 31-1](handlingar.tabeller/31-1.csv)
 
@@ -1144,8 +1196,26 @@ detaljplanens syfte.
 
 <!-- sida 32 -->
 
-Dagvatten
+Tabell 2. Planbestämmelser som tillkommer inom ändring av detaljplan
 
+Planbestämmelser som  upphör att gälla inom ändring av de-
+taljplan
+Genom planändringen upphör ett antal bestämmelser att gälla. Bestämmelsen om mark som
+inte får bebyggas, så kallad prickad mark, och tillhörande bestämmelsegräns tas bort och
+ersätts med bestämmelser om hur byggnader ska placeras i förhållande till fastighetsgräns.
+Bestämmelsen om att byggnader ska placeras fristående tas också bort och ersätts med en
+motsvarande reglering att detaljplanen endast tillåter friliggande enbostadshus.
+
+Bestämmelserna som begränsar antalet våningar till en, inte tillåter att vind inreds eller att
+källare utförs tas bort då dessa bestämmelser är kopplade till områdets tidigare användning
+för fritidshusändamål. Av samma anledning ersätts detaljplanens reglering av maximal
+exploatering i syfte att möjliggöra för helårsbostäder.
+
+Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan
+
+8 Planbeskrivning
+
+Dagvatten
 Planändringen innebär att en större yta av vardera fastighet kan bebyggas. Huvuddelen av
 planområdet är redan utbyggt undantaget 14 fastigheter. För att fördröja och rena dagvatten
 så nära källan som möjligt bör omhändertagande av dagvatten så långt det är möjligt göras
@@ -1153,40 +1223,29 @@ på kvartersmark inom varje fastighet i planområdet. Vardera fastigheten som be
 ha möjlighet att fördröja ett 10-års regn innan det leds vidare. Genom reglering av minsta
 fastighetsstorlek i kombination med största tillåtna byggnadsarea möjliggörs utrymme för
 lokal fördröjning inom respektive fastighet.
+
 För att förbättra dagvattensituationen ytterligare vore det lämpligt att tillskapa en dagvatten-
 damm norr om Lunnabergsvägen i det huvudsakliga rinnstråket. Detaljplanen anger här
 användningen allmän plats, park, vilket möjliggör dagvattenanläggning.
 
-Tabell 2. Planbestämmelser som tillkommer inom ändring av detaljplan
-
 Möjlig placering av dag-
-Planbestämmelser som upphör att gälla inom ändring av de-
 vattendamm för fördröjning
-taljplan
-Genom planändringen upphör ett antal bestämmelser att gälla. Bestämmelsen om mark som
-inte får bebyggas, så kallad prickad mark, och tillhörande bestämmelsegräns tas bort och
-ersätts med bestämmelser om hur byggnader ska placeras i förhållande till fastighetsgräns.
-Bestämmelsen om att byggnader ska placeras fristående tas också bort och ersätts med en
-motsvarande reglering att detaljplanen endast tillåter friliggande enbostadshus.
-Bestämmelserna som begränsar antalet våningar till en, inte tillåter att vind inreds eller att
-källare utförs tas bort då dessa bestämmelser är kopplade till områdets tidigare användning
-för fritidshusändamål. Av samma anledning ersätts detaljplanens reglering av maximal
-exploatering i syfte att möjliggöra för helårsbostäder.
+
 Planområdesgräns V64
 
 Figur 2. Bilden visar avrinninsområden inom detaljplan V64.
 
 Genomförandetid
+
 Genomförandetiden för planändringen är 5 år räknat från det datum då planen fått laga
 kraft.
-
 Under genomförandetiden har fastighetsägarna en lagstadgad rätt att bygga i enlighet med
 detaljplanen och detaljplanen får inte ändras utan att synnerliga skäl föreligger. Efter ge-
 nomförandetidens slut fortsätter planen att gälla tills kommunen tar fram en ny plan, ändrar
 gällande plan eller upphäver gälande plan. Fastighetsägarna äger efter genomförandetidens
-Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan          slut ingen rätt till ersättning för förlorade rättigheter som fanns i den ursprungliga planen.
+slut ingen rätt till ersättning för förlorade rättigheter som fanns i den ursprungliga planen.
 
-8 Planbeskrivning                                                                                                              Planbeskrivning 9
+Planbeskrivning 9
 
 [Tabell 32-1](handlingar.tabeller/32-1.csv)
 
@@ -1209,47 +1268,36 @@ Tabell 3. Planbestämmelser som upphör att gälla inom ändring av detaljplan  
 
 <!-- sida 33 -->
 
-Överväganden        och   konsekvenser                                              För återstående del av planområdet, som avvattnas norr ut, gör kommunen bedömningen att
-yt- och dagvatten från området inte påverkar någon recipient.
+Överväganden        och   konsekvenser
 
 Nollalternativ
-Miljökvalitetsnormer för luft
-Om planändringen inte antas kan fastigheterna inom området inte bebyggas med större Miljökvalitetsnormerna för luftkvalitet överskrids främst i anslutning till betydligt mer
-huvudbyggnad än 60 kvadratmeter. Det är sannolikt att området trots detta kommer att trafikerade vägar än vad som finns inom planområdet. Kungsbacka är medlemmar i Gö-
-bebos året runt då det redan idag är så och eftersom det finns kommunalt vatten och av- teborgsregionens luftvårdsförbund och utför kontinuerliga mätningar och beräkningar i
-lopp. De fastigheter som är obebyggda kommer troligtvis att bebyggas enligt gällande plan Kungsbacka stad.
+Om planändringen inte antas kan fastigheterna inom området inte bebyggas med större
+huvudbyggnad än 60 kvadratmeter. Det är sannolikt att området trots detta kommer att
+bebos året runt då det redan idag är så och eftersom det finns kommunalt vatten och av-
+lopp. De fastigheter som är obebyggda kommer troligtvis att bebyggas enligt gällande plan
 och kompletteras med så kallade Atterfallsåtgärder för att maximera byggnadsarean. Den
-Bedömningen kan erfarenhetsmässigt göras att MKN för luftkvalitet inte äventyras utan
 omgivningspåverkan som området får med gällande detaljplan bedöms därför inte skilja sig
-underskrids med marginal.
 från den som en ändrad detaljplan skulle ge.
-Buller
+
 Miljökonsekvenser
-Planområdet innehåller endast små lokalgator och trafikmängderna är små. Väster om plan-
-området passerar Lunnavägen.
+
 Undersökning
-Planändringen innebär inte någon annan användning av området än vad nuvarande detalj-
 Med stöd av undersökningen (Samhällsbyggnadskontoret 2022-04-08) gör kommunen den
-plan bedömt som lämplig. Omfattningen av bebyggelsen påverkas inte heller och planänd-
 sammanvägda bedömningen att den aktuella ändringen av detaljplanen inte ger upphov till
-ringen innebär därför inte mer fordonstrafik till och från platsen. Därför är det en rimlig
 betydande miljöpåverkan (som avses i Miljöbedömningsförordningen SFS 2017:966 och Mil-
-bedömning att bullernivåerna inte kommer att påverkas av att detaljplanenen genomförs.
 jöbalkens 6 kap). Någon miljökonsekvensbeskrivning, enligt 4 kap 34§ PBL behöver därför
 inte upprättas.
-Genomförandebeskrivning
+
 Miljökvalitetsnormer för vatten
-Ändringen av detaljplanen berör endast kvartersmark där fastigheter för bostadsändamål är
 Ytvatten och dagvatten inom området rinner från området, norr ut och söder ut, på grund av
-bildade och all infrastruktur, såsom vägar och ledningar för vatten och spillvatten, redan är
 topografin.
-utbyggt. Inget ytterligare genomförande krävs för att fastigheterna ska bli ändamålsenlig.
 Söder ut hamnar vattnet i vattenförekomsten Knapabäcken som mynnar i kustvattenföre-
 komsten Öckerösund. Vattenförekomsten Knapabäcken har klassificerats till Måttlig eko-
 logisk status samt Uppnår ej god kemisk status. Miljökvalitetsnormen är bestämd till God
 ekologisk status till 2027. Kustvattenförekomsten Öckerösund har klassificerats till God eko-
 logisk status samt Uppnår ej god kemisk status. Miljökvalitetsnormen är bestämd till God
 ekologisk status.
+
 Det planändringen möjliggör i förhållande till vad som är möjligt med gällande plan innebär
 en liten skillnad i det vatten som lämnar området. Ett genomförande av detaljplaneändring-
 en bedöms därför ha marginell effekt på recipienten och bedöms inte försvåra möjligheten
@@ -1257,6 +1305,7 @@ att nå beslutade miljökvalitetsnormer.
 Det planändringen möjliggör i förhållande till vad som är möjligt med gällande plan innebär
 en liten skillnad i mängd och kvalitet på det vatten som lämnar området. Inom varje fastig-
 het ska ett 10-årsregn kunna fördröjas.
+
 För det sydvästra hörnet av planområdet, som avvattnas till Knapabäcken och Öckerösund,
 via Bolgen, möjliggör planändringen för en utbyggnad om cirka 20 % i förhållande till vad
 som är utbyggt idag. Av 16 fastigheter är 15 bebyggda och ianspråktagna som trädgårdstom-
@@ -1265,10 +1314,41 @@ detaljplaneändringen bedöms vara liten.
 Utifrån områdets karaktär som villaområde med lokalgator görs bedömningen att förore-
 ningshalterna i yt- och dagvatten från området är låga. Även om Knapabäcken bedömts som
 känslig finns det enligt kommunen inte något behov av rening av yt- och dagvatten.
+
 Ett genomförande av detaljplaneändringen inom det sydvästra området bedöms därför ha
 marginell effekt på recipienten och bedöms inte försvåra möjligheten att nå beslutade miljö-
 kvalitetsnormer.
-10 Planbeskrivning                                                                                                             Planbeskrivning 11
+
+10 Planbeskrivning
+
+För återstående del av planområdet, som avvattnas norr ut, gör kommunen bedömningen att
+yt- och dagvatten från området inte påverkar någon recipient.
+
+Miljökvalitetsnormer för luft
+
+Miljökvalitetsnormerna för luftkvalitet överskrids främst i anslutning till betydligt mer
+trafikerade vägar än vad som finns inom planområdet. Kungsbacka är medlemmar i Gö-
+teborgsregionens luftvårdsförbund och utför kontinuerliga mätningar och beräkningar i
+Kungsbacka stad.
+Bedömningen kan erfarenhetsmässigt göras att MKN för luftkvalitet inte äventyras utan
+underskrids med marginal.
+
+Buller
+Planområdet innehåller endast små lokalgator och trafikmängderna är små. Väster om plan-
+området passerar Lunnavägen.
+
+Planändringen innebär inte någon annan användning av området än vad nuvarande detalj-
+plan bedömt som lämplig. Omfattningen av bebyggelsen påverkas inte heller och planänd-
+ringen innebär därför inte mer fordonstrafik till och från platsen. Därför är det en rimlig
+bedömning att bullernivåerna inte kommer att påverkas av att detaljplanenen genomförs.
+
+Genomförandebeskrivning
+
+Ändringen av detaljplanen berör endast kvartersmark där fastigheter för bostadsändamål är
+bildade och all infrastruktur, såsom vägar och ledningar för vatten och spillvatten, redan är
+utbyggt. Inget ytterligare genomförande krävs för att fastigheterna ska bli ändamålsenlig.
+
+Planbeskrivning 11
 
 <!-- sida 34 -->
 
@@ -2100,8 +2180,8 @@ Planrevideringen omfattar följande handlingar
 Bakgrund
 
 Rubricerade byggnadsplan är fastställa 1969 10 16. För plan-
-området gäller nybyggnadsförbud enligt \$\$109, 110 byggnads-
-lagen. Motivet för föreliggande nybyggnads förbud enligt \$109
+området gäller nybyggnadsförbud enligt §§109, 110 byggnads-
+lagen. Motivet för föreliggande nybyggnads förbud enligt §109
 byggnadslagen är att en planändring som formellt reglerar om-
 rådets användning för fritidsbebyggelse eftersträvas.
 
@@ -2555,7 +2635,7 @@ bostäder med särskild service (Bmss) och vård- och omsorgsboende inom samma b
 kommunen handlingsfrihet i en framtid om behovet av förskoleplatser minskar.
 
 Kontoret har för aktuell detaljplan gjort en undersökning av miljöpåverkan enligt Plan- och
-bygglagen 4 kap. 34 \$ och Miljöbalken 6 kap. 11 \$. Vid undersökningen konstaterades att ett
+bygglagen 4 kap. 34 § och Miljöbalken 6 kap. 11 §. Vid undersökningen konstaterades att ett
 genomförande av planen inte innebär betydande miljöpåverkan, varför en miljöbedömning med
 särskild miljökonsekvensbeskrivning inte har gjorts.
 
@@ -2570,7 +2650,7 @@ Byggnadsnämnden Datum
 2023-08-24
 
 Beslutsunderlag
-Byggnadsnämndens arbetsutskott 2023-08-10 \$ 208
+Byggnadsnämndens arbetsutskott 2023-08-10 § 208
 
 Samhällsbyggnadskontorets tjänsteskrivelse, 2023-07-28
 
@@ -10944,7 +11024,8 @@ Kungsbacka kommun            Taxa för prövning och tillsyn     43 (85)
 | 90.10.03 och<br>90.11.03 | B | 30 | 3. För en verksamhet som är tillståndspliktig enligt 28 kap. 1<br>eller 2 § miljöprövningsförordningen är tillsynstiden 30 timmar<br>för en avloppsreningsanläggning med anslutning av fler än 2<br>000 personer men högst 20 000 personer eller som tar emot<br>avloppsvatten med en föroreningsmängd som motsvarar mer än<br>2 000 personekvivalenter men högst 20 000 personekvivalenter. |
 | 90.15-i | B | 47 | För en verksamhet som är tillståndspliktig enligt 28 kap. 3 §<br>miljöprövningsförordningen är tillsynstiden 47 timmar. För så<br>kallade industriutsläppsverksamheter (IUV, markerade med "-i"<br>efter koden) så tillkommer ett generellt tillägg med 20 timmar. |
 | 90.16 | C | 18 | För en verksamhet som är anmälningspliktig enligt 28 kap. 4 §<br>miljöprövningsförordningen är tillsynstiden 18 timmar. |
-|  |  |  | VERKSAMHETSGRUPP AVFALL<br>Verksamhetsgrupp Andra verksamheter med återvinning eller<br>bortskaffande |
+|  |  |  | VERKSAMHETSGRUPP AVFALL |
+|  |  |  | Verksamhetsgrupp Andra verksamheter med återvinning eller<br>bortskaffande |
 | 90.405-i.01 och<br>90.406-i.01 | B | 137 | 1. För en verksamhet som är tillståndspliktig enligt 29 kap. 65<br>eller 66 § miljöprövningsförordningen är tillsynstiden 137 timmar<br>om den tillförda avfallsmängden är mer än 100 000 ton per<br>kalenderår. För så kallade industriutsläppsverksamheter (IUV,<br>markerade med "-i" efter koden) så tillkommer ett generellt<br>tillägg med 20 timmar. |
 | 90.405-i.02 och<br>90.406-i.02 | B | 64 | 2. För en verksamhet som är tillståndspliktig enligt 29 kap. 65<br>eller 66 § miljöprövningsförordningen är tillsynstiden 64 timmar<br>om den tillförda avfallsmängden är mer än 20 000 ton men<br>högst 100 000 ton per kalenderår. För så kallade<br>industriutsläppsverksamheter (IUV, markerade med "-i" efter<br>koden) så tillkommer ett generellt tillägg med 20 timmar. |
 | 90.405-i.03 och<br>90.406-i .03 | B | 30 | 3. För en verksamhet som är tillståndspliktig enligt 29 kap. 65<br>eller 66 § miljöprövningsförordningen är tillsynstiden 30 timmar<br>om den tillförda avfallsmängden är mer än 12 500 ton men<br>högst 20 000 ton per kalenderår. För så kallade<br>industriutsläppsverksamheter (IUV, markerade med "-i" efter<br>koden) så tillkommer ett generellt tillägg med 20 timmar. |
@@ -12336,7 +12417,7 @@ elektroniskt är avgiftsfritt. Inskanning av 40 sidor kostar 110 kr. Inskanning 
 
 En avgift får inte tas ut för att göra en sammanställning av uppgifter ur upptagningar
 för automatiserad behandling som går att göra med så kallade rutinbetonade åtgärder
-(2 kap. 3 \$ tredje stycket TF). Avgift kan endast beräknas vad gäller att skapa en kopia
+(2 kap. 3 § tredje stycket TF). Avgift kan endast beräknas vad gäller att skapa en kopia
 (t.ex. genom skanning) och att lämna ut en sådan. Sammanställningar som inte kan
 göras med rutinbetonade åtgärder är inte allmän handling.
 
@@ -13477,7 +13558,7 @@ Kungsbacka kommun              Styrande dokument               9 (14)
 
 [Tabell 446-1](handlingar.tabeller/446-1.csv)
 
-| Typ Beskrivning Beslutas av Gäller för |  |  |  |  |
+|  | Typ | Beskrivning | Beslutas av | Gäller för |
 | --- | --- | --- | --- | --- |
 | I<br>n<br>r<br>i<br>k<br>t<br>a<br>n<br>d<br>e | Vision | I Kungsbacka finns bara<br>en vision som anger<br>hela kommunens<br>utveckling. | Kommunfullmäktige | Samtliga nämnder,<br>kommunstyrelsen |
 |  | Målbild | Beskriver ett önskat läge<br>för en verksamhet. | Nämnd,<br>kommunstyrelsen,<br>kommundirektör,<br>förvaltningschef, chef | Nämnd-/er,<br>kommunstyrelsen,<br>kommunens förvaltningar<br>eller en förvaltning eller<br>verksamhet |
@@ -15309,7 +15390,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 10 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 «  Tjänstevikten hos personbilar ska inte understiga 900 kg och inte överstiga 1900
 kg.
@@ -15320,13 +15401,13 @@ kg.
 
 Beslutsunderlag
 
-Kommunstyrelsen, 2011-08-23, \$ 195
+Kommunstyrelsen, 2011-08-23, § 195
 Kommunstyrelsens förvaltning, skrivelse 2013-04-18
-Kommunstyrelsens arbetsutskott, 2013-05-14, \$ 179
-Kommunstyrelsen, 2013-05-21, \$ 138
+Kommunstyrelsens arbetsutskott, 2013-05-14, § 179
+Kommunstyrelsen, 2013-05-21, § 138
 Kommunstyrelsens förvaltning, skrivelse 2013-06-17
-Kommunstyrelsens arbetsutskott, 2013-08-13, \$ 232
-Kommunstyrelsen, 2013-08-20, \$ 186
+Kommunstyrelsens arbetsutskott, 2013-08-13, § 232
+Kommunstyrelsen, 2013-08-20, § 186
 
 Anförande
 
@@ -15357,8 +15438,6 @@ Paragrafen fortsätter
 
 Justerare
 
-ME
-
 Expedierat/bestyrkt
 
 <!-- sida 492 -->
@@ -15368,7 +15447,7 @@ KUNGSBACKA KOMMUN
 Kommunfullmäktige SAMMANTRÄDESPROTOKOLL 11 (25)
 Datum
 2013-09-10
-\$ 122 fortsättning KS11-00172/42
+§ 122 fortsättning KS11-00172/42
 
 Proposition
 
@@ -15414,8 +15493,6 @@ Beslutsexpediering
 Samtliga nämnder/förvaltningar, KSF;FH, KKFFS, SEUpph
 
 Justerare
-
-HE
 
 Expedierat/bestyrkt
 
@@ -15494,9 +15571,7 @@ SUMMA: | 38 | 22 1 0 0
 Justeringsmännens signatur:
 ; Sida 1 av 1
 
-MM
-
-KF \$122/13
+KF §122/13
 Bilaga A
 
 <!-- sida 494 -->
@@ -15637,7 +15712,7 @@ Justeringsmännens signatur:
 
 4 ”. MM IA Sida 1 av 1
 
-ke \$122/13
+ke §122/13
 
 Bilaga B
 
